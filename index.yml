@@ -1,37 +1,54 @@
 
 # Section: container
 docker:
+    desc: node version manager
     reference: xxx
     cmd: url https://get.docker.com | sh -c
+minikube:
+    desc: kubernete in one node install
+    reference: xxx
+    cmd: curl https://get.k8s.com | sh -c
 k8s:
+    desc: kubernete server install
+    reference: xxx
+    cmd: curl https://get.k8s.com | sh -c
+k3s:
+    desc: kubernete server install
     reference: xxx
     cmd: curl https://get.k8s.com | sh -c
 kubectl:
+    desc: kubernete client
     reference: xxx
     cmd: curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
 # EndSection
 
 # Section: dev
 nvm:
+    desc: node version manager
     reference: xxx
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 sdkman:
+    desc: version manager for java, kotlin, scala, groovy, spring, etc.
     reference: xxx
     cmd: curl -s "https://get.sdkman.io" | bash
 # EndSection
 
 brew:
+    desc: A rootless popular package manager widely used in macos, also work in Linux.
     reference: xxx
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Section: oh-my
-oh-my-bash:
-    reference: xxx
-    cmd: bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 oh-my-zsh:
+    desc: It provides theme and plugin manager in zsh
     reference: xxx
     cmd: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+oh-my-bash:
+    desc: It provides theme and plugin manager in bash
+    reference: xxx
+    cmd: bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 oh-my-fish:
+    desc: It provides theme and plugin manager in fish
     reference: xxx
     cmd: curl -L https://get.oh-my.fish | fish
 # EndSection
