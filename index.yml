@@ -2,57 +2,64 @@
 # Section: container
 docker:
     desc: node version manager
-    desc-cn: NodeJS 版本管理工具
-    reference: xxx
+    desc-cn: docker正式版安装
     cmd: curl https://get.docker.com | sh -c
+    # The official website does not recommend this way in official site.
+    # We should provide more installation options like docker vm to let user to choose how to install docker and how to config
+    reference: https://github.com/docker/docker-install
+test-docker:
+    desc: docker install
+    desc-cn: docker预览版安装
+    cmd: curl https://test.docker.com | sh -c
+    reference: https://github.com/docker/docker-install
 minikube:
     desc: kubernete in one node install
     desc-cn: 用于单结点的kubernete实现
-    reference: xxx
     cmd: curl https://get.k8s.com | sh -c
+    reference: xxx
 k8s:
     desc: kubernete server install
-    reference: xxx
     cmd: curl https://get.k8s.com | sh -c
+    reference: xxx
 k3s:
     desc: kubernete server install
-    reference: xxx
     cmd: curl https://get.k8s.com | sh -c
+    reference: xxx
 kubectl:
     desc: kubernete client
-    reference: xxx
     cmd: curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+    reference: xxx
 # EndSection
 
 # Section: dev
 nvm:
     desc: node version manager
-    reference: xxx
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+    reference: xxx
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
-    reference: xxx
     cmd: curl -s "https://get.sdkman.io" | bash
+    reference: xxx
 # EndSection
 
 brew:
     desc: A rootless popular package manager widely used in macos, also work in Linux.
-    reference: xxx
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    reference: xxx
 
 # Section: oh-my
 oh-my-zsh:
     desc: It provides theme and plugin manager in zsh
-    reference: xxx
     cmd: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    reference: xxx
 oh-my-bash:
     desc: It provides theme and plugin manager in bash
-    reference: xxx
     cmd: bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+    reference: xxx
 oh-my-fish:
     desc: It provides theme and plugin manager in fish
-    reference: xxx
     cmd: curl -L https://get.oh-my.fish | fish
+    reference: xxx
 # EndSection
 
 
