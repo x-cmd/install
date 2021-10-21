@@ -1,0 +1,22 @@
+# Section: lib
+zlib:
+    yum: xxx
+    apt: xxx
+    dnf: xxx
+    apk: xxx
+    pkg: xxx
+gcc:
+    yum: gcc
+    apt: gcc
+    dnf: gcc
+    apk: clang
+    pkg: xxx
+clang:
+    yum: clang
+    apt: clang
+    dnf: gcc
+    apk: clang
+    pkg: xxx
+# EndSection
+
+

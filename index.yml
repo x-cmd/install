@@ -37,9 +37,4 @@ oh-my-fish:
 # EndSection
 
 
-# Section: c libs
-zlib:
-    yum: xxx
-    apt: xxx
 
-# EndSection
