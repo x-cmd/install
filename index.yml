@@ -2,10 +2,12 @@
 # Section: container
 docker:
     desc: node version manager
+    desc-cn: NodeJS 版本管理工具
     reference: xxx
-    cmd: url https://get.docker.com | sh -c
+    cmd: curl https://get.docker.com | sh -c
 minikube:
     desc: kubernete in one node install
+    desc-cn: 用于单结点的kubernete实现
     reference: xxx
     cmd: curl https://get.k8s.com | sh -c
 k8s:
