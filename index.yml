@@ -19,7 +19,7 @@ minikube:
     reference: xxx
 k8s:
     desc: kubernete server install
-    cmd: curl https://get.k8s.com | sh -c
+    cmd: curl https://get.k3s.com | sh -c
     reference: xxx
 k3s:
     desc: kubernete server install
