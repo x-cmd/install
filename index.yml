@@ -53,11 +53,13 @@ oh-my-zsh:
     desc-cn: docker正式版安装
     cmd: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     reference: xxx
+    
 oh-my-bash:
     desc: It provides theme and plugin manager in bash
-    desc-cn: docker正式版安装
+    desc-cn: 它在 bash 提供主题和插件管理器
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-    reference: xxx
+    reference: https://github.com/ohmybash
+
 oh-my-fish:
     desc: It provides theme and plugin manager in fish
     desc-cn: docker正式版安装
