@@ -5,95 +5,79 @@ docker-linux:
     desc-cn: 容器的操作系统
     cmd: curl -sSL https://get.docker.com/ | sh
     reference: https://github.com/docker/docker-install
-
 docker-macos:
     desc: Installing Docker on macOS With Homebrew Cask
     desc-cn: 通过 Homebrew Cask 安装 Docker 在 Mac 系统
     cmd: brew cask install docker
     reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
-
 test-docker:
     desc: docker install
     desc-cn: docker 预览版安装
     cmd: curl https://test.docker.com | sh -c
     reference: https://github.com/docker/docker-install
 # EndSection
-
 minikube-linux:
     desc: A utility you can use to run Kubernetes (k8s)
     desc-cn: 用来运行Kubernetes（K8S）的实用程序
     cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
     reference: https://github.com/kubernetes/minikube
-
 minikube-macos-homebrew:
     desc: Installing minikube on macOS With Homebrew
     desc-cn: 通过 Homebrew 方式安装 minikube 在 Mac 系统
     cmd : brew install minikube
     reference: https://formulae.brew.sh/formula/minikube
-
 #k8s:
     #desc: kubernete server install
     #cmd: curl https://get.k3s.com | sh -c
     #reference: xxx
-
 k3s:
     desc: Lightweight Kubernetes
     desc-cn: 轻量级 kubernetes.
     cmd: curl -sfL https://get.k3s.io | sh -
     reference: https://github.com/k3s-io/k3s/releases/tag/v1.22.3+k3s1
-
 kubectl-linux:
     desc: The Kubernetes command-line tool on Linux
     desc-cn: 适配 Linux 系统的 Kubernetes 命令行工具
     cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl"
     reference: https://github.com/kubernetes/kubectl
-
 kubectl-macos:
     desc: The Kubernetes command-line tool on macOS
     desc-cn: 适配 macOS 系统的 Kubernetes 命令行工具
     cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
     reference: https://github.com/kubernetes/kubectl
-
 kubectl-windows:
     desc: The Kubernetes command-line tool on Windows
     desc-cn: 适配 Windows 系统的 Kubernetes 命令行工具
     cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
     reference: https://github.com/kubernetes/kubectl
-
-
 # Section: dev
 nvm:
     desc: Node version manager
     desc-cn: Node 版本管理器
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
     reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
-
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
     desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
     cmd: curl -s "https://get.sdkman.io" | bash
     reference: https://github.com/sdkman/sdkman-cli
 # EndSection
-
 brew:
     desc: The Missing Package Manager for macOS (or Linux)
     desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     reference: https://github.com/Homebrew
-
 # Section: oh-my
 oh-my-zsh:
     desc: It provides theme and plugin manager in zsh
     desc-cn: 它在 zsh 提供主题和插件管理器
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     reference: https://github.com/ohmyzsh/ohmyzsh
-
 oh-my-bash:
     desc: It provides theme and plugin manager in bash
     desc-cn: 它在 bash 提供主题和插件管理器
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
     reference: https://github.com/ohmybash
-
 oh-my-fish:
     desc: It provides theme and plugin manager in fish
     desc-cn: 它在 fish 提供主题和插件管理器
