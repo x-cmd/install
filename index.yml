@@ -227,14 +227,20 @@ git-slitaz:
 git-centos:
     desc: Installing Git on CentOS
     desc-cn: 安装 Git 在 CentOS 系统
-    cmd:  yum install git
+    cmd: yum install git
     reference: https://git-scm.com/download/linux
 
 git-rhel:
     desc: Installing Git on Red Hat Enterprise Linux
     desc-cn: 安装 Git 在 Red Hat Enterprise Linux 系统
-    cmd:  yum install git
+    cmd: yum install git
     reference: https://git-scm.com/download/linux
+
+git-macos-brew:
+    desc: Installing Git on macOS with brew
+    desc-cn: 通过brew 方式安装 Git 在macOS 系统
+    cmd: brew install git
+    reference: https://git-scm.com/download/mac
 
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
