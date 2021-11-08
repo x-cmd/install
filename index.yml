@@ -1,73 +1,135 @@
 
 # Section: container
 docker-linux:
-    desc: Container operating system
-    desc-cn: 容器的操作系统
+    desc: Installing Docker on Linux
+    desc-cn: 安装 Docker 在 Linux 系统
     cmd: curl -sSL https://get.docker.com/ | sh
     reference: https://github.com/docker/docker-install
-docker-macos:
-    desc: Installing Docker on macOS With Homebrew Cask
-    desc-cn: 通过 Homebrew Cask 安装 Docker 在 Mac 系统
+
+docker-macos-brew:
+    desc: Installing Docker on macOS with Homebrew Cask
+    desc-cn: 通过 Homebrew Cask 方式安装 Docker 在 Mac 系统
     cmd: brew cask install docker
     reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
+
 test-docker:
     desc: docker install
     desc-cn: docker 预览版安装
     cmd: curl https://test.docker.com | sh -c
     reference: https://github.com/docker/docker-install
 # EndSection
+
 minikube-linux:
     desc: A utility you can use to run Kubernetes (k8s)
     desc-cn: 用来运行Kubernetes（K8S）的实用程序
     cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
     reference: https://github.com/kubernetes/minikube
-minikube-macos-homebrew:
+
+minikube-macos-brew:
     desc: Installing minikube on macOS With Homebrew
     desc-cn: 通过 Homebrew 方式安装 minikube 在 Mac 系统
     cmd : brew install minikube
     reference: https://formulae.brew.sh/formula/minikube
+
 #k8s:
     #desc: kubernete server install
     #cmd: curl https://get.k3s.com | sh -c
     #reference: xxx
+
 k3s:
     desc: Lightweight Kubernetes
     desc-cn: 轻量级 kubernetes.
     cmd: curl -sfL https://get.k3s.io | sh -
     reference: https://github.com/k3s-io/k3s/releases/tag/v1.22.3+k3s1
+
 kubectl-linux:
     desc: The Kubernetes command-line tool on Linux
     desc-cn: 适配 Linux 系统的 Kubernetes 命令行工具
     cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl"
     reference: https://github.com/kubernetes/kubectl
+
 kubectl-macos:
     desc: The Kubernetes command-line tool on macOS
     desc-cn: 适配 macOS 系统的 Kubernetes 命令行工具
     cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
     reference: https://github.com/kubernetes/kubectl
+
 kubectl-windows:
     desc: The Kubernetes command-line tool on Windows
     desc-cn: 适配 Windows 系统的 Kubernetes 命令行工具
     cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
     reference: https://github.com/kubernetes/kubectl
 # Section: dev
+
 nvm:
     desc: Node version manager
     desc-cn: Node 版本管理器
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
     reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
+
+# https://nodejs.org/en/download/package-manager/
+node-macos-curl:
+    desc: Installing Node.js on macOS with curl
+    desc-cn: 通过 curl 方式安装 Node.js 在 Mac 系统
+    cmd: curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-macos-brew:
+    desc: Installing Node.js on macOS with brew
+    desc-cn: 通过 brew 方式安装 Node.js 在 Mac 系统
+    cmd: brew install node
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-macos-macports:
+    desc: Installing Node.js on Windows with macports
+    desc-cn: 通过 macports 方式安装 Node.js 在 Mac 系统
+    cmd: port install nodejs7
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-windows-chocolatey:
+    desc: Installing Node.js on Windows with chocolatey
+    desc-cn: 通过 chocolatey 方式安装 Node.js 在 Windows 系统
+    cmd: cinst nodejs.install
+    reference: https://nodejs.org/en/download/package-manager/#windows-1
+
+node-windows-scoop:
+    desc: Installing Node.js on Windows with scoop
+    desc-cn: 通过 scoop 方式安装 Node.js 在 Windows 系统
+    cmd: scoop install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#windows-1
+
+node-arch:
+    desc: Installing Node.js on Arch Linux
+    desc-cn: 安装 Node.js 在 Arch Linux 系统
+    cmd: pacman -S nodejs npm
+    reference: https://nodejs.org/en/download/package-manager/#arch-linux
+
+node-linux-dnf:
+    desc: Installing Node.js on CentOS, Fedora or Red Hat Enterprise Linux with dnf
+    desc-cn: 通过 dnf 方式安装安装 Node.js 在 CentOS, Fedora 或者 Red Hat Enterprise 系统
+    cmd: dnf module install nodejs:17
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-linux-apt:
+    desc: Installing Node.js on Debian or Ubuntu  with apt
+    desc-cn: 通过 apt 方式安装安装 Node.js 在 Debian 或者 Ubuntu 系统
+    cmd: sudo apt install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
     desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
     cmd: curl -s "https://get.sdkman.io" | bash
     reference: https://github.com/sdkman/sdkman-cli
 # EndSection
+
 brew:
     desc: The Missing Package Manager for macOS (or Linux)
     desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     reference: https://github.com/Homebrew
 # Section: oh-my
+
 oh-my-zsh:
     desc: It provides theme and plugin manager in zsh
     desc-cn: 它在 zsh 提供主题和插件管理器
