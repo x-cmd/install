@@ -134,6 +134,12 @@ node-ubuntu:
     cmd: sudo apt install nodejs
     reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 
+node-freebsd:
+    desc: Installing Node.js on FreeBSD
+    desc-cn: 安装 Node.js 在 FreeBSD 系统
+    cmd: pkg install node
+    reference: https://nodejs.org/en/download/package-manager/#freebsd
+
 git-debian:
     desc: Installing Git on Debian
     desc-cn: 安装 Git 在 Debian  系统
@@ -241,6 +247,84 @@ git-macos-brew:
     desc-cn: 通过brew 方式安装 Git 在macOS 系统
     cmd: brew install git
     reference: https://git-scm.com/download/mac
+
+ssh-client-debian:
+    desc: Installing Openssh-client on Debian
+    desc-cn: 安装 Openssh 客户端在 Debian 系统
+    cmd: sudo apt install openssh-client
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-ubuntu:
+    desc: Installing Openssh-client on Ubuntu
+    desc-cn: 安装 Openssh 客户端在 Ubuntu 系统
+    cmd: sudo apt install openssh-client
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-arch:
+    desc: Installing Openssh-client on Arch Linux
+    desc-cn: 安装 Openssh 客户端在 Arch Linux 系统
+    cmd: sudo pacman -S openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-manjaro:
+    desc: Installing Openssh-client on Manjaro
+    desc-cn: 安装 Openssh 客户端在 Manjaro 系统
+    cmd: sudo pacman -S openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-opensuse:
+    desc: Installing Openssh-client on OpenSUSE
+    desc-cn: 安装 Openssh 客户端在 OpenSUSE 系统
+    cmd: sudo zypper install openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-fedora:
+    desc: Installing Openssh-client on Fedora
+    desc-cn: 安装 Openssh 客户端在 Fedora 系统
+    cmd: sudo dnf install -y openssh-clients
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+
+ssh-server-debian:
+    desc: Installing Openssh-server on Debian
+    desc-cn: 安装 Openssh 客户端在 Debian 系统
+    cmd: sudo apt install openssh-server
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-ubuntu:
+    desc: Installing Openssh-server on Ubuntu
+    desc-cn: 安装 Openssh 客户端在 Ubuntu 系统
+    cmd: sudo apt install openssh-server
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-arch:
+    desc: Installing Openssh-server on Arch Linux
+    desc-cn: 安装 Openssh 客户端在 Arch Linux 系统
+    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-manjaro:
+    desc: Installing Openssh-server on Manjaro
+    desc-cn: 安装 Openssh 客户端在 Manjaro 系统
+    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-fedora:
+    desc: Installing Openssh-server on Fedora
+    desc-cn: 安装 Openssh 客户端在 Fedora 系统
+    cmd: sudo dnf install -y openssh-server & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-opensuse:
+    desc: Installing Openssh-server on OpenSUSE
+    desc-cn: 安装 Openssh 客户端在 OpenSUSE 系统
+    cmd: sudo zypper install openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+
+
+
+
 
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
