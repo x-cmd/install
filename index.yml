@@ -287,44 +287,57 @@ ssh-client-fedora:
 
 ssh-server-debian:
     desc: Installing Openssh-server on Debian
-    desc-cn: 安装 Openssh 客户端在 Debian 系统
+    desc-cn: 安装 Openssh 服务端在 Debian 系统
     cmd: sudo apt install openssh-server
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
 ssh-server-ubuntu:
     desc: Installing Openssh-server on Ubuntu
-    desc-cn: 安装 Openssh 客户端在 Ubuntu 系统
+    desc-cn: 安装 Openssh 服务端在 Ubuntu 系统
     cmd: sudo apt install openssh-server
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
 ssh-server-arch:
     desc: Installing Openssh-server on Arch Linux
-    desc-cn: 安装 Openssh 客户端在 Arch Linux 系统
+    desc-cn: 安装 Openssh 服务端在 Arch Linux 系统
     cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
 ssh-server-manjaro:
     desc: Installing Openssh-server on Manjaro
-    desc-cn: 安装 Openssh 客户端在 Manjaro 系统
+    desc-cn: 安装 Openssh 服务端在 Manjaro 系统
     cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
 ssh-server-fedora:
     desc: Installing Openssh-server on Fedora
-    desc-cn: 安装 Openssh 客户端在 Fedora 系统
+    desc-cn: 安装 Openssh 服务端在 Fedora 系统
     cmd: sudo dnf install -y openssh-server & sudo systemctl enable sshd & sudo systemctl start sshd
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
 ssh-server-opensuse:
     desc: Installing Openssh-server on OpenSUSE
-    desc-cn: 安装 Openssh 客户端在 OpenSUSE 系统
+    desc-cn: 安装 Openssh 服务端在 OpenSUSE 系统
     cmd: sudo zypper install openssh & sudo systemctl enable sshd & sudo systemctl start sshd
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
 
+ssh-linux-brew:
+    desc: Installing Openssh on Linux with brew
+    desc-cn: 通过 brew 方式安装 Openssh 在 Linux 系统
+    cmd: brew install openssh
+    reference: https://formulae.brew.sh/formula/openssh
 
+ssh-server-macos-macport:
+    desc: Installing Openssh-server on macOS with MacPort
+    desc-cn: 通过 MacPort 方式安装 Openssh 服务端在 macOS 系统
+    cmd: sudo port install openssh
+    reference: https://ports.macports.org/port/openssh/
 
-
-
+ssh-macos-brew:
+    desc: Installing Openssh on macOS with brew
+    desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
+    cmd: brew install openssh
+    reference: https://formulae.brew.sh/formula/openssh
 
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
