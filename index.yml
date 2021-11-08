@@ -104,17 +104,137 @@ node-arch:
     cmd: pacman -S nodejs npm
     reference: https://nodejs.org/en/download/package-manager/#arch-linux
 
-node-linux-dnf:
-    desc: Installing Node.js on CentOS, Fedora or Red Hat Enterprise Linux with dnf
-    desc-cn: 通过 dnf 方式安装安装 Node.js 在 CentOS, Fedora 或者 Red Hat Enterprise 系统
+node-centos:
+    desc: Installing Node.js on CentOS
+    desc-cn: 安装 Node.js 在 CentOS 系统
     cmd: dnf module install nodejs:17
     reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
 
-node-linux-apt:
-    desc: Installing Node.js on Debian or Ubuntu  with apt
-    desc-cn: 通过 apt 方式安装安装 Node.js 在 Debian 或者 Ubuntu 系统
-    cmd: sudo apt install nodejs
+node-fedora:
+    desc: Installing Node.js on Fedora
+    desc-cn: 安装 Node.js 在  Fedora 系统
+    cmd: dnf module install nodejs:17
     reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-rhel:
+    desc: Installing Node.js on Red Hat Enterprise Linux
+    desc-cn: 安装 Node.js 在 Red Hat Enterprise Linux 系统
+    cmd: dnf module install nodejs:17
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-debian:
+    desc: Installing Node.js on Debian
+    desc-cn: 安装 Node.js 在 Debian  系统
+    cmd: sudo apt install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+node-ubuntu:
+    desc: Installing Node.js on Ubuntu
+    desc-cn: 安装 Node.js 在 Ubuntu 系统
+    cmd: sudo apt install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+git-debian:
+    desc: Installing Git on Debian
+    desc-cn: 安装 Git 在 Debian  系统
+    cmd: apt-get install git
+    reference: https://git-scm.com/download/linux
+
+git-ubuntu:
+    desc: Installing Git on Ubuntu
+    desc-cn: 安装 Git 在 Ubuntu 系统
+    cmd: apt-get install git
+    reference: https://git-scm.com/download/linux
+
+git-fedora-yum:
+    desc: Installing Git on Fedora (up to Fedora 21)
+    desc-cn: 安装 Git 在Fedora 21及以下版本的系统
+    cmd: yum install git
+    reference: https://git-scm.com/download/linux
+
+git-fedora-dnf:
+    desc: Installing Git on Fedora (Fedora 22 and later)
+    desc-cn: 安装 Git 在 Fedora 22及更高版本的系统
+    cmd: dnf install git
+    reference: https://git-scm.com/download/linux
+
+git-gentoo:
+    desc: Installing Git on Gentoo
+    desc-cn: 安装 Git 在 Gentoo 系统
+    cmd: emerge --ask --verbose dev-vcs/git
+    reference: https://git-scm.com/download/linux
+
+git-arch:
+    desc: Installing Git on Arch Linux
+    desc-cn: 安装 Git 在 Arch Linux 系统
+    cmd: pacman -S git
+    reference: https://git-scm.com/download/linux
+
+git-opensuse:
+    desc: Installing Git on openSUSE
+    desc-cn: 安装 Git 在 openSUSE 系统
+    cmd: zypper install git
+    reference: https://git-scm.com/download/linux
+
+git-mageia:
+    desc: Installing Git on Mageia
+    desc-cn: 安装 Git 在 Mageia 系统
+    cmd: urpmi git
+    reference: https://git-scm.com/download/linux
+
+git-nix:
+    desc: Installing Git on Nix/NixOS
+    desc-cn: 安装 Git 在 Nix/NixOS 系统
+    cmd: nix-env -i git
+    reference: https://git-scm.com/download/linux
+
+git-freebsd:
+    desc: Installing Git on FreeBSD
+    desc-cn: 安装 Git 在 FreeBSD 系统
+    cmd: pkg install git
+    reference: https://git-scm.com/download/linux
+
+git-opencsw:
+    desc: Installing Git on Solaris 9/10/11 (OpenCSW)
+    desc-cn: 安装 Git 在 Solaris 9/10/11 (OpenCSW) 系统
+    cmd:  pkgutil -i git
+    reference: https://git-scm.com/download/linux
+
+git-solaris:
+    desc: Installing Git on Solaris 11 Express
+    desc-cn: 安装 Git 在 Solaris 11 Express 系统
+    cmd:  pkg install developer/versioning/git
+    reference: https://git-scm.com/download/linux
+
+git-openbsd:
+    desc: Installing Git on OpenBSD
+    desc-cn: 安装 Git 在 OpenBSD 系统
+    cmd: pkg_add git
+    reference: https://git-scm.com/download/linux
+
+git-alpine:
+    desc: Installing Git on Alpine
+    desc-cn: 安装 Git 在 Alpine 系统
+    cmd: apk add git
+    reference: https://git-scm.com/download/linux
+
+git-slitaz:
+    desc: Installing Git on Slitaz
+    desc-cn: 安装 Git 在 Slitaz 系统
+    cmd: tazpkg get-install git
+    reference: https://git-scm.com/download/linux
+
+git-centos:
+    desc: Installing Git on CentOS
+    desc-cn: 安装 Git 在 CentOS 系统
+    cmd:  yum install git
+    reference: https://git-scm.com/download/linux
+
+git-rhel:
+    desc: Installing Git on Red Hat Enterprise Linux
+    desc-cn: 安装 Git 在 Red Hat Enterprise Linux 系统
+    cmd:  yum install git
+    reference: https://git-scm.com/download/linux
 
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
