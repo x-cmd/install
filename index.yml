@@ -431,6 +431,18 @@ zip-opensuse:
     cmd: sudo zypper install zip
     reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
 
+zip-linux-brew:
+    desc: Installing zip file format on Linux with brew
+    desc-cn: 通过 brew 方式安装 zip 文件格式在 Linux 系统
+    cmd: brew install zip
+    reference: https://formulae.brew.sh/formula/zip#default
+
+zip-macos-brew:
+    desc: Installing zip file format on macOS with brew
+    desc-cn: 通过 brew 方式安装 zip 文件格式在 macOS 系统
+    cmd: brew install zip
+    reference: https://formulae.brew.sh/formula/zip#default
+
 # unzip
 unzip-debian:
     desc: Installing unzip file format on Debian
@@ -486,32 +498,17 @@ unzip-opensuse:
     cmd: sudo zypper install unzip
     reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
 
+unzip-linux-brew:
+    desc: Installing unzip file format on Linux with brew
+    desc-cn: 通过 brew 方式安装 unzip 文件格式在 Linux 系统
+    cmd: brew install unzip
+    reference: https://formulae.brew.sh/formula/unzip#default
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+unzip-macos-brew:
+    desc: Installing unzip file format on macOS with brew
+    desc-cn:  通过 brew 方式安装 unzip 文件格式在 macOS 系统
+    cmd: brew install unzip
+    reference: https://formulae.brew.sh/formula/unzip#default
 # EndSection
 
 # Section: Text editor
