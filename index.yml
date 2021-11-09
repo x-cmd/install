@@ -394,14 +394,61 @@ vim-opensuse:
     cmd: sudo zypper install vim
     reference: https://www.tecmint.com/install-vim-in-linux/
 
+vim-macos-brew:
+    desc: Installing vim text editor on macOS with brew
+    desc-cn: 通过 brew 方式安装 vim 文本编辑器在 macOS 系统
+    cmd: sudo zypper install vim
+    reference: https://formulae.brew.sh/formula/vim#default
 
+gcc-debian:
+    desc: Installing GCC Compiler on Debian
+    desc-cn: 安装 GCC 编译器在 Debian 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
 
+gcc-ubuntu:
+    desc: Installing GCC Compiler on Ubuntu
+    desc-cn: 安装 GCC 编译器在 Ubuntu 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
 
+gcc-arch:
+    desc: Installing GCC Compiler on Arch Linux
+    desc-cn: 安装 GCC 编译器在 Arch Linux 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
 
+gcc-rhel:
+    desc: Installing GCC Compiler on Red Hat Enterprise Linux
+    desc-cn: 安装 GCC 编译器在 Red Hat Enterprise Linux 系统
+    cmd: sudo yum install gcc -y
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
 
+gcc-fedora:
+    desc: Installing GCC Compiler on Fedora
+    desc-cn: 安装 GCC 编译器在 Fedora 系统
+    cmd: sudo yum install gcc -y
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
 
+gcc-centos:
+    desc: Installing GCC Compiler on Centos
+    desc-cn: 安装 GCC 编译器在 Centos 系统
+    cmd: sudo yum install gcc
+    reference: https://linuxize.com/post/how-to-install-gcc-compiler-on-centos-7/
 
+gcc-linux-brew:
+    desc: Installing GCC Compiler on Linux with brew
+    desc-cn: 通过 brew 方式安装 GCC 编译器在 Linux 系统
+    cmd: brew install gcc
+    reference: https://formulae.brew.sh/formula/gcc#default
 
+gcc-macos-brew:
+    desc: Installing GCC Compiler on macOS
+    desc-cn: 安装 GCC 编译器在 macOS 系统
+    cmd: brew install gcc
+    reference: https://formulae.brew.sh/formula/gcc#default
+
+# gcc-windows:
 
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
