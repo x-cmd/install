@@ -627,6 +627,92 @@ gcc-macos-brew:
 
 # EndSection
 
+# Section: Database
+# MySQL
+mysql-rhel:
+    desc: Installing MySQL on Red Hat Enterprise Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Red Hat Enterprise Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-centos :
+    desc: Installing MySQL on CentOS Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 CentOS 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-oracle:
+    desc: Installing MySQL on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-Debian:
+    desc: Installing MySQL on Debian Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Debian 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-ubuntu:
+    desc: Installing MySQL on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-sles:
+    desc: Installing MySQL on SUSE Linux Enterprise Server (SLES) Using the MySQL SLES Repository
+    desc-cn: 使用 MySQL SLES 存储库在 SUSE Linux Enterprise Server (SLES) 上安装 MySQL
+    cmd: sudo zypper install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-sles-repo-quick-guide/en/#repo-qg-sles-fresh-install
+
+mysql-fedora:
+
+mysql-linux-brew:
+    desc: Installing MySQL on Linux with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 Linux 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+mysql-macos-brew:
+    desc: Installing MySQL on macOS with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 macOS 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+# Workbench
+workbench-oracle:
+    desc: Installing Workbench on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 上安装 Workbench
+    cmd: sudo yum install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-ubuntu:
+    desc: Installing Workbench on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 Workbench
+    cmd: sudo apt-get install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-fedora:
+    desc: Installing Workbench on Fedora Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Fedora 上安装 Workbench
+    cmd: sudo dnf install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+workbench-macos-brew:
+    desc: Installing Workbench on macOS with brew
+    desc-cn: 通过 brew 方式安装 Workbench 在 macOS 系统
+    cmd: brew install --cask workbench
+    reference: https://formulae.brew.sh/cask/workbench#default
+
+
+
+
+
+
+
+
+
+
 
 
 
