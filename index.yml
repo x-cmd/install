@@ -1,5 +1,5 @@
 
-# Section: container
+# Section: Container
 docker-linux:
     desc: Installing Docker on Linux
     desc-cn: 安装 Docker 在 Linux 系统
@@ -17,7 +17,7 @@ test-docker:
     desc-cn: docker 预览版安装
     cmd: curl https://test.docker.com | sh -c
     reference: https://github.com/docker/docker-install
-# EndSection
+
 
 minikube-linux:
     desc: A utility you can use to run Kubernetes (k8s)
@@ -59,14 +59,49 @@ kubectl-windows:
     desc-cn: 适配 Windows 系统的 Kubernetes 命令行工具
     cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
     reference: https://github.com/kubernetes/kubectl
-# Section: dev
+# EndSection
 
+# Section: Version manager
 nvm:
     desc: Node version manager
     desc-cn: Node 版本管理器
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
     reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
 
+sdkman:
+    desc: version manager for java, kotlin, scala, groovy, spring, etc.
+    desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
+    cmd: curl -s "https://get.sdkman.io" | bash
+    reference: https://github.com/sdkman/sdkman-cli
+# EndSection
+
+# Section: Package manager
+brew:
+    desc: The Missing Package Manager for macOS (or Linux)
+    desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
+    cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    reference: https://github.com/Homebrew
+# EndSection
+
+# Section: oh-my*
+oh-my-zsh:
+    desc: It provides theme and plugin manager in zsh
+    desc-cn: 它在 zsh 提供主题和插件管理器
+    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    reference: https://github.com/ohmyzsh/ohmyzsh
+oh-my-bash:
+    desc: It provides theme and plugin manager in bash
+    desc-cn: 它在 bash 提供主题和插件管理器
+    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+    reference: https://github.com/ohmybash
+oh-my-fish:
+    desc: It provides theme and plugin manager in fish
+    desc-cn: 它在 fish 提供主题和插件管理器
+    cmd: curl -L https://get.oh-my.fish | fish
+    reference: https://github.com/oh-my-fish/oh-my-fish
+# EndSection
+
+# Section: Development Language
 # https://nodejs.org/en/download/package-manager/
 node-macos-curl:
     desc: Installing Node.js on macOS with curl
@@ -139,7 +174,9 @@ node-freebsd:
     desc-cn: 安装 Node.js 在 FreeBSD 系统
     cmd: pkg install node
     reference: https://nodejs.org/en/download/package-manager/#freebsd
+# EndSection
 
+# Section: Tools
 git-debian:
     desc: Installing Git on Debian
     desc-cn: 安装 Git 在 Debian  系统
@@ -338,7 +375,9 @@ ssh-macos-brew:
     desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
     cmd: brew install openssh
     reference: https://formulae.brew.sh/formula/openssh
+# EndSection
 
+# Section: Text editor
 vim-debian:
     desc: Installing vim text editor on Debian
     desc-cn: 安装 vim 文本编辑器在 Debian 系统
@@ -399,7 +438,9 @@ vim-macos-brew:
     desc-cn: 通过 brew 方式安装 vim 文本编辑器在 macOS 系统
     cmd: sudo zypper install vim
     reference: https://formulae.brew.sh/formula/vim#default
+# EndSection
 
+# Section: Compiler
 gcc-debian:
     desc: Installing GCC Compiler on Debian
     desc-cn: 安装 GCC 编译器在 Debian 系统
@@ -450,36 +491,12 @@ gcc-macos-brew:
 
 # gcc-windows:
 
-sdkman:
-    desc: version manager for java, kotlin, scala, groovy, spring, etc.
-    desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
-    cmd: curl -s "https://get.sdkman.io" | bash
-    reference: https://github.com/sdkman/sdkman-cli
 # EndSection
 
-brew:
-    desc: The Missing Package Manager for macOS (or Linux)
-    desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
-    cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    reference: https://github.com/Homebrew
-# Section: oh-my
 
-oh-my-zsh:
-    desc: It provides theme and plugin manager in zsh
-    desc-cn: 它在 zsh 提供主题和插件管理器
-    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-    reference: https://github.com/ohmyzsh/ohmyzsh
-oh-my-bash:
-    desc: It provides theme and plugin manager in bash
-    desc-cn: 它在 bash 提供主题和插件管理器
-    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-    reference: https://github.com/ohmybash
-oh-my-fish:
-    desc: It provides theme and plugin manager in fish
-    desc-cn: 它在 fish 提供主题和插件管理器
-    cmd: curl -L https://get.oh-my.fish | fish
-    reference: https://github.com/oh-my-fish/oh-my-fish
-# EndSection
+
+
+
 
 
 
