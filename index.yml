@@ -1,5 +1,6 @@
 
 # Section: Container
+# docker
 docker-linux:
     desc: Installing Docker on Linux
     desc-cn: 安装 Docker 在 Linux 系统
@@ -7,8 +8,8 @@ docker-linux:
     reference: https://github.com/docker/docker-install
 
 docker-macos-brew:
-    desc: Installing Docker on macOS with Homebrew Cask
-    desc-cn: 通过 Homebrew Cask 方式安装 Docker 在 Mac 系统
+    desc: Installing Docker on macOS with brew
+    desc-cn: 通过 brew 方式安装 Docker 在 macOS 系统
     cmd: brew cask install docker
     reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
 
@@ -18,7 +19,7 @@ test-docker:
     cmd: curl https://test.docker.com | sh -c
     reference: https://github.com/docker/docker-install
 
-
+#minikube
 minikube-linux:
     desc: A utility you can use to run Kubernetes (k8s)
     desc-cn: 用来运行Kubernetes（K8S）的实用程序
@@ -36,12 +37,14 @@ minikube-macos-brew:
     #cmd: curl https://get.k3s.com | sh -c
     #reference: xxx
 
+# k3s
 k3s:
     desc: Lightweight Kubernetes
     desc-cn: 轻量级 kubernetes.
     cmd: curl -sfL https://get.k3s.io | sh -
     reference: https://github.com/k3s-io/k3s/releases/tag/v1.22.3+k3s1
 
+# kubectl
 kubectl-linux:
     desc: The Kubernetes command-line tool on Linux
     desc-cn: 适配 Linux 系统的 Kubernetes 命令行工具
@@ -59,6 +62,81 @@ kubectl-windows:
     desc-cn: 适配 Windows 系统的 Kubernetes 命令行工具
     cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
     reference: https://github.com/kubernetes/kubectl
+
+# Podman
+podman-macos-brew:
+    desc: Installing Podman on macOS with brew
+    desc-cn: 通过 brew 方式安装 Podman 在 macOS 系统
+    cmd: brew install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-arch:
+    desc: Installing Podman on Arch Linux
+    desc-cn: 安装 Podman 在 Arch Linux 系统
+    cmd: sudo pacman -S podman
+    reference: https://podman.io/getting-started/installation
+
+podman-manjaro:
+    desc: Installing Podman on Manjaro Linux
+    desc-cn: 安装 Podman 在 Manjaro Linux 系统
+    cmd: sudo pacman -S podman
+    reference: https://podman.io/getting-started/installation
+
+podman-centos:
+    desc: Installing Podman on CentOS
+    desc-cn: 安装 Podman 在 CentOS 系统
+    cmd: sudo yum -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-debian:
+    desc: Installing Podman on Debian
+    desc-cn: 安装 Podman 在 Debian 系统
+    cmd: sudo apt-get -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-fedora:
+    desc: Installing Podman on Fedora
+    desc-cn: 安装 Podman 在 Fedora 系统
+    cmd: sudo dnf -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-gentoo:
+    desc: Installing Podman on Gentoo
+    desc-cn: 安装 Podman 在 Gentoo 系统
+    cmd: sudo emerge app-emulation/podman
+    reference: https://podman.io/getting-started/installation
+
+podman-openembedded:
+    desc: Installing Podman on OpenEmbedded
+    desc-cn: 安装 Podman 在 OpenEmbedded 系统
+    cmd: bitbake podman
+    reference: https://podman.io/getting-started/installation
+
+podman-opensuse:
+    desc: Installing Podman on openSUSE
+    desc-cn: 安装 Podman 在 openSUSE 系统
+    cmd: sudo zypper install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-rhel7:
+    desc: Installing Podman on RHEL7
+    desc-cn: 安装 Podman 在 RHEL7 系统
+    cmd: sudo subscription-manager repos --enable=rhel-7-server-extras-rpms && sudo yum -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-rhel8:
+    desc: Installing Podman on RHEL8
+    desc-cn: 安装 Podman 在 RHEL8 系统
+    cmd: sudo yum module enable -y container-tools:rhel8 && sudo yum module install -y container-tools:rhel8
+    reference: https://podman.io/getting-started/installation
+
+podman-ubuntu:
+    desc: Installing Podman on Ubuntu
+    desc-cn: 安装 Podman 在 Ubuntu 系统
+    cmd: sudo apt-get -y update && sudo apt-get -y install podman
+    reference: https://podman.io/getting-started/installation
+
+
 # EndSection
 
 # Section: Version manager
