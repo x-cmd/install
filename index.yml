@@ -375,6 +375,143 @@ ssh-macos-brew:
     desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
     cmd: brew install openssh
     reference: https://formulae.brew.sh/formula/openssh
+
+# zip
+zip-debian:
+    desc: Installing zip file format on Debian
+    desc-cn: 安装 zip 文件格式在 Debian 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-ubuntu:
+    desc: Installing zip file format on Ubuntu
+    desc-cn: 安装 zip 文件格式在 Ubuntu 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-mint:
+    desc: Installing zip file format on Mint
+    desc-cn: 安装 zip 文件格式在 Mint 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-rehl:
+    desc: Installing zip file format on Red Hat Enterprise Linux
+    desc-cn: 安装 zip 文件格式在 Red Hat Enterprise Linux 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-centos:
+    desc: Installing zip file format on CentOS
+    desc-cn: 安装 zip 文件格式在 CentOS 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-fedora:
+    desc: Installing zip file format on Fedora
+    desc-cn: 安装 zip 文件格式在 Fedora 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-arch:
+    desc: Installing zip file format on Arch Linux
+    desc-cn: 安装 zip 文件格式在 Arch Linux 系统
+    cmd: sudo pacman -S zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+zip-manjaro:
+    desc: Installing zip file format on Manjaro
+    desc-cn: 安装 zip 文件格式在 Manjaro 系统
+    cmd: sudo pacman -S zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+zip-opensuse:
+    desc: Installing zip file format on OpenSUSE
+    desc-cn: 安装 zip 文件格式在 OpenSUSE 系统
+    cmd: sudo zypper install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+# unzip
+unzip-debian:
+    desc: Installing unzip file format on Debian
+    desc-cn: 安装 unzip 文件格式在 Debian 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-ubuntu:
+    desc: Installing unzip file format on Ubuntu
+    desc-cn: 安装 unzip 文件格式在 Ubuntu 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-mint:
+    desc: Installing unzip file format on Mint
+    desc-cn: 安装 unzip 文件格式在 Mint 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-rehl:
+    desc: Installing unzip file format on Red Hat Enterprise Linux
+    desc-cn: 安装 unzip 文件格式在 Red Hat Enterprise Linux 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-centos:
+    desc: Installing unzip file format on CentOS
+    desc-cn: 安装 unzip 文件格式在 CentOS 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-fedora:
+    desc: Installing unzip file format on Fedora
+    desc-cn: 安装 unzip 文件格式在 Fedora 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-arch:
+    desc: Installing unzip file format on Arch Linux
+    desc-cn: 安装 unzip 文件格式在 Arch Linux 系统
+    cmd: sudo pacman -S unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+unzip-manjaro:
+    desc: Installing unzip file format on Manjaro
+    desc-cn: 安装 unzip 文件格式在 Manjaro 系统
+    cmd: sudo pacman -S unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+unzip-opensuse:
+    desc: Installing unzip file format on OpenSUSE
+    desc-cn: 安装 unzip 文件格式在 OpenSUSE 系统
+    cmd: sudo zypper install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # EndSection
 
 # Section: Text editor
