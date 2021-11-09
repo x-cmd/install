@@ -339,6 +339,70 @@ ssh-macos-brew:
     cmd: brew install openssh
     reference: https://formulae.brew.sh/formula/openssh
 
+vim-debian:
+    desc: Installing vim text editor on Debian
+    desc-cn: 安装 vim 文本编辑器在 Debian 系统
+    cmd: sudo apt install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-ubuntu:
+    desc: Installing vim text editor on Ubuntu
+    desc-cn: 安装 vim 文本编辑器在 Ubuntu 系统
+    cmd: sudo apt install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+
+vim-mint:
+    desc: Installing vim text editor on Mint
+    desc-cn: 安装 vim 文本编辑器在 Mint 系统
+    cmd: sudo apt install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-rhel:
+    desc: Installing vim text editor on RHEL
+    desc-cn: 安装 vim 文本编辑器在 RHEL 系统
+    cmd: sudo dnf install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-centos:
+    desc: Installing vim text editor on CentOS
+    desc-cn: 安装 vim 文本编辑器在 CentOS 系统
+    cmd: sudo dnf install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-fedora:
+    desc: Installing vim text editor on Fedora
+    desc-cn: 安装 vim 文本编辑器在 Fedora 系统
+    cmd: sudo dnf install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-arch:
+    desc: Installing vim text editor on Arch Linux
+    desc-cn: 安装 vim 文本编辑器在 Arch Linux 系统
+    cmd: udo pacman -S vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-manjaro:
+    desc: Installing vim text editor on Manjaro
+    desc-cn: 安装 vim 文本编辑器在 Manjaro 系统
+    cmd: udo pacman -S vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+vim-opensuse:
+    desc: Installing vim text editor on OpenSuse
+    desc-cn: 安装 vim 文本编辑器在 OpenSuse 系统
+    cmd: sudo zypper install vim
+    reference: https://www.tecmint.com/install-vim-in-linux/
+
+
+
+
+
+
+
+
+
+
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
     desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
