@@ -215,16 +215,24 @@ rbenv-ubuntu:
     desc-cn: 安装 Ruby 版本管理器在 Ubuntu 系统
     cmd: sudo apt install rbenv
     reference: https://github.com/rbenv/rbenv
-    
+
 # https://amaral.northwestern.edu/resources/guides/pyenv-tutorial#undefined
 # EndSection
 
 # Section: Package manager
+#Homebrew
 brew:
     desc: The Missing Package Manager for macOS (or Linux)
     desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     reference: https://github.com/Homebrew
+
+# pip
+pip:
+    desc: The package installer for Python
+    desc-cn: Python 的包装安装程序
+    cmd: pip install pip
+    reference: https://pypi.org/project/pip/
 # EndSection
 
 # Section: oh-my*
@@ -318,6 +326,38 @@ node-freebsd:
     desc-cn: 安装 Node.js 在 FreeBSD 系统
     cmd: pkg install node
     reference: https://nodejs.org/en/download/package-manager/#freebsd
+
+# Rust
+rust:
+    desc: Rust language
+    desc-cn: Rust 语言
+    cmd: curl https://sh.rustup.rs -sSf | sh
+    reference: https://doc.rust-lang.org/cargo/getting-started/installation.html
+
+rust-windows:
+    desc: Rust language(Windows Subsystem for Linux)
+    desc-cn: Rust 语言(适用于 Linux 的 Windows 子系统)
+    cmd: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | she
+    reference: https://www.rust-lang.org/
+
+# Perl
+perl-unix:
+    desc: Installing Perl on Unix
+    desc-cn: 在 UNIX 系统上安装 Perl
+    cmd: curl -L http://xrl.us/installperlnix | bash
+    reference: https://learn.perl.org/installing/unix_linux.html
+
+perl-linux:
+    desc: Installing Perl on Linux
+    desc-cn: 在 Linux 系统上安装 Perl
+    cmd: curl -L http://xrl.us/installperlnix | bash
+    reference: https://learn.perl.org/installing/unix_linux.html
+
+perl-macos:
+    desc: Installing Perl on macOS
+    desc-cn: 在 MacOS 上安装 Perl
+    cmd: curl -L http://xrl.us/installperlosx | bash
+    reference: https://learn.perl.org/installing/osx.html
 # EndSection
 
 # Section: Tools
