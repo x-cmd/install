@@ -140,17 +140,83 @@ podman-ubuntu:
 # EndSection
 
 # Section: Version manager
+# Nvm
 nvm:
     desc: Node version manager
     desc-cn: Node 版本管理器
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
     reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
 
+nvm-linux-brew:
+    desc: Installing version manager for Node on Linux with brew
+    desc-cn: 通过 brew 方式安装 Node 版本管理器在 Linux 系统
+    cmd: brew install nvm
+    reference: https://formulae.brew.sh/formula/nvm#default
+
+nvm-macos-brew:
+    desc: Installing version manager for Node on macOS with brew
+    desc-cn: 通过 brew 方式安装 Node 版本管理器在 macOS 系统
+    cmd: brew install nvm
+    reference: https://formulae.brew.sh/formula/nvm#default
+
+# Sdkman
 sdkman:
     desc: version manager for java, kotlin, scala, groovy, spring, etc.
     desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
     cmd: curl -s "https://get.sdkman.io" | bash
     reference: https://github.com/sdkman/sdkman-cli
+
+# Pyenv
+pyenv:
+    desc: version manager for Python
+    desc-cn: Python 版本管理器
+    cmd: curl https://pyenv.run | bash
+    reference: https://github.com/pyenv/pyenv-installer
+
+pyenv-linux-brew:
+    desc: Installing version manager for Python on Linux with brew
+    desc-cn: 通过 brew 方式安装 Python 版本管理器在 Linux 系统
+    cmd: brew install pyenv
+    reference: https://formulae.brew.sh/formula/pyenv#default
+
+pyenv-macos-brew:
+    desc: Installing version manager for Python on macOS with brew
+    desc-cn: 通过 brew 方式安装 Python 版本管理器在 macOS 系统
+    cmd: brew install pyenv
+    reference: https://formulae.brew.sh/formula/pyenv#default
+
+# Rbenv
+rbenv:
+    desc: version manager for Ruby
+    desc-cn: Ruby 版本管理器
+    cmd: curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
+    reference: https://github.com/pyenv/pyenv-installer
+
+rbenv-linux-brew:
+    desc: Installing version manager for Ruby on Linux with brew
+    desc-cn: 通过 brew 方式安装 Ruby 版本管理器在 Linux 系统
+    cmd: brew install rbenv
+    reference: https://formulae.brew.sh/formula/rbenv#default
+
+rbenv-macos-brew:
+    desc: Installing version manager for Ruby on macOS with brew
+    desc-cn: 通过 brew 方式安装 Ruby 版本管理器在 macOS 系统
+    cmd: brew install rbenv
+    reference: https://formulae.brew.sh/formula/rbenv#default
+
+rbenv-dbian:
+    desc: Installing version manager for Ruby on Debian
+    desc-cn: 安装 Ruby 版本管理器在 Debian 系统
+    cmd: sudo apt install rbenv
+    reference: https://github.com/rbenv/rbenv
+
+rbenv-ubuntu:
+    desc: Installing version manager for Ubuntu on Debian
+    desc-cn: 安装 Ruby 版本管理器在 Ubuntu 系统
+    cmd: sudo apt install rbenv
+    reference: https://github.com/rbenv/rbenv
+    
+# https://amaral.northwestern.edu/resources/guides/pyenv-tutorial#undefined
 # EndSection
 
 # Section: Package manager
