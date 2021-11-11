@@ -889,6 +889,24 @@ workbench-macos-brew:
     reference: https://formulae.brew.sh/cask/workbench#default
 
 # PostgreSQL
+postgresql-Linux:
+    desc: Installing PostgreSQL on Linux
+    desc-cn: 在 Linux 系统上安装 PostgreSQL
+    cmd: wget ftp://ftp.postgresql.org/pub/source/v9.3.2/postgresql-9.3.2.tar.bz2 && sudo apt-get install build-essential libreadline-dev zlib1g-dev flex bison libxml2-dev libxslt-dev libssl-dev
+    reference: https://gist.github.com/15Dkatz/321e83c4bdd7b78c36884ce92db26d38
+
+postgresql-linux-brew:
+    desc: Installing PostgreSQL on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
+postgresql-macos-brew:
+    desc: Installing PostgreSQL on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
 postgresql-debian:
     desc: Installing PostgreSQL on Debian Using the PostgreSQL APT Repository
     desc-cn: 使用 PostgreSQLL APT 存储库在 Debian 上安装 PostgreSQL
@@ -901,13 +919,17 @@ postgresql-ubuntu:
     cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
     reference: https://www.postgresql.org/download/linux/ubuntu/
 
-postgresql-ubuntu:
-    desc: Installing PostgreSQL on Ubuntu Using the PostgreSQL APT Repository
-    desc-cn: 使用 PostgreSQLL APT 存储库在 Ubuntu 上安装 PostgreSQL
-    cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
-    reference:
+postgresql-rhel6-x86_64:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux x86_64 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linux x86_64 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-x86_64/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
 
-
+postgresql-rhel6-i386:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux i386 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linuxi386 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-i386/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
 
 
 
