@@ -931,10 +931,160 @@ postgresql-rhel6-i386:
     cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-i386/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
     reference: https://www.postgresql.org/download/linux/redhat/
 
+# SQLite
+sqlite-linux-brew:
+    desc: Installing SQLite on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
 
+sqlite-debian:
+    desc: Installing SQLite on Debian
+    desc-cn: 在 Debian  系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
 
+sqlite-ubuntu:
+    desc: Installing SQLite on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
 
+sqlite-centos:
+    desc: Installing SQLite on CentOS
+    desc-cn: 在 CentOS 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
 
+sqlite-fedora:
+    desc: Installing SQLite on Fedora
+    desc-cn: 在 Fedora 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
 
+sqlite-rhel:
+    desc: Installing SQLite on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
 
+sqlite-macos-brew:
+    desc: Installing SQLite on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
+
+# Redis
+redis-linux:
+    desc: Installing Redis on Linux
+    desc-cn: 在 Linux 系统上安装 Redis
+    cmd: wget http://download.redis.io/redis-stable.tar.gz && tar xvzf redis-stable.tar.gz && cd redis-stable && make
+    reference: https://redis.io/topics/quickstart
+
+redis-linux-brew:
+    desc: Installing Redis on Linux
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+redis-macos-brew:
+    desc: Installing Redis on macOS
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+# HBase
+hbase-linux-brew:
+    desc: Installing HBase on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+
+hbase-macos-brew:
+    desc: Installing HBase on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+
+# Service
+# Nginx
+nginx-linux-brew:
+    desc: Installing Nginx on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+    cmd: brew install nginx
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+nginx-macos-brew:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Nginx
+    cmd: brew install nginx
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+nginx-ubuntu:
+    desc: Installing Nginx on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 Nginx
+    cmd: sudo apt update && sudo apt install nginx
+    reference: https://www.nginx.com/resources/wiki/start/topics/tutorials/install/
+
+nginx-debian:
+    desc: Installing Nginx on Debian
+    desc-cn: 在 Debian 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+nginx-centos:
+    desc: Installing Nginx on CentOS
+    desc-cn: 在 CentOS 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+nginx-rhel:
+    desc: Installing Nginx on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+# Apache
+apache-macos-brew:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Nginx
+    cmd: brew install httpd
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+apache-linux-brew:
+    desc: Installing Nginx on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+    cmd: brew install httpd
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+apache-centos:
+    desc: Installing Apache web server on CentOS 7/8
+    desc-cn: 在 CentOS 7/8 系统上安装 Apache web server
+    cmd: sudo yum install httpd
+    reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+apache-Ubuntu:
+    desc: Installing Apache web server on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 Apache web server
+    cmd: sudo apt-get install apache2
+    reference: https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
+
+apache-debian:
+    desc: Installing Apache web server on Debian
+    desc-cn: 在Debian 系统上安装 Apache web server
+    cmd: sudo apt-get install apache2
+    reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+# Tomcat
+tomcat-macos-brew:
+    desc: Installing Tomcat on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default
+
+tomcat-linux-brew:
+    desc: Installing Tomcat on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default
 
