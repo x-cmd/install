@@ -358,6 +358,19 @@ perl-macos:
     desc-cn: 在 MacOS 上安装 Perl
     cmd: curl -L http://xrl.us/installperlosx | bash
     reference: https://learn.perl.org/installing/osx.html
+
+# AWK
+awk-linux-brew:
+    desc: Installing AWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 AWK 在 Linux 系统
+    cmd: brew install awk
+    reference: https://formulae.brew.sh/formula/awk#default
+
+awk-macos-brew:
+    desc: Installing AWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 AWK 在 Mac 系统
+    cmd: brew install awk
+    reference: https://formulae.brew.sh/formula/awk#default
 # EndSection
 
 # Section: Tools
