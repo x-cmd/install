@@ -216,6 +216,18 @@ rbenv-ubuntu:
     cmd: sudo apt install rbenv
     reference: https://github.com/rbenv/rbenv
 
+# Jenv
+jenv-linux-brew:
+    desc: Installing version manager for Java on Linux with brew
+    desc-cn: 通过 brew 方式安装 Java 版本管理器在 Linux 系统
+    cmd: brew install jenv
+    reference: https://formulae.brew.sh/formula/jenv#default
+
+jenv-macos-brew:
+    desc: Installing version manager for Java on macOS with brew
+    desc-cn: 通过 brew 方式安装 Java 版本管理器在 macOS 系统
+    cmd: brew install jenv
+    reference: https://formulae.brew.sh/formula/jenv#default
 # https://amaral.northwestern.edu/resources/guides/pyenv-tutorial#undefined
 # EndSection
 
@@ -488,6 +500,79 @@ mawk-raspbian:
     cmd: apt-get install mawk
     reference: https://command-not-found.com/mawk
 
+#Python
+python-linux:
+    desc: Installing Python on Linux
+    desc-cn: 安装 Python 在 Linux 系统
+    cmd: pip install git+https://github.com/srsudar/eg.git
+    reference: https://ostechnix.com/install-python-packages-from-github-on-linux/
+
+python-centos:
+    desc: Installing Python on CentOS
+    desc-cn: 安装 Python 在 CentOS 系统
+    cmd: sudo yum update && sudo dnf install python
+    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
+
+python-rhel:
+    desc: Installing Python on Red Hat Linux
+    desc-cn: 安装 Python 在 Red Hat Linux 系统
+    cmd: sudo yum update && sudo dnf install python
+    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
+
+python-ubuntu:
+    desc: Installing Python on Ubuntu
+    desc-cn: 安装 Python 在 Ubuntu 系统
+    cmd: sudo apt-get update && sudo apt-get install python
+    reference: https://www.makeuseof.com/install-python-ubuntu/
+
+# Java
+java8-macos-brew:
+    desc: Installing Java8 on macOS with brew
+    desc-cn: 通过 brew 方式安装 Java8 在 Mac 系统
+    cmd: brew cask install java8
+    reference: https://gist.github.com/jonjack/898efa5ccc79c140533ed53e0b1edbad
+
+java-Debian:
+    desc: Installing Java on Debian
+    desc-cn: 安装 Java 在 Debian 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-ubuntu:
+    desc: Installing Java on Ubuntu
+    desc-cn: 安装 Java 在 Ubuntu 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-arch:
+    desc: Installing Java on Arch Linux
+    desc-cn: 安装 Java 在 Arch Linux 系统
+    cmd: pacman -S java
+    reference: https://command-not-found.com/java
+
+java-kali:
+    desc: Installing Java on Kali Linux
+    desc-cn: 安装 Java 在 Kali Linux 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-centos:
+    desc: Installing Java on CentOS
+    desc-cn: 安装 Java 在 CentOS 系统
+    cmd: yum install java
+    reference: https://command-not-found.com/java
+
+java-fedora:
+    desc: Installing Java on Fedora
+    desc-cn: 安装 Java 在 Fedora 系统
+    cmd: dnf install java
+    reference: https://command-not-found.com/java
+
+java-raspbian:
+    desc: Installing Java on Raspbian
+    desc-cn: 安装 Java 在 Raspbian 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
 # EndSection
 
 # Section: Tools
