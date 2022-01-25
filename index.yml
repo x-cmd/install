@@ -1068,6 +1068,50 @@ unzip-macos-brew:
     desc-cn: 通过 brew 方式安装 unzip 文件格式在 macOS 系统
     cmd: brew install unzip
     reference: https://formulae.brew.sh/formula/unzip#default
+
+# Wine
+wine-debian:
+    desc: Installing wine core package on Debian
+    desc-cn: 安装 wine 组件在 Debian 系统
+    cmd: apt-get install wine
+    reference: https://command-not-found.com/wine
+
+wine-ubuntu:
+    desc: Installing wine core package on Ubuntu
+    desc-cn: 安装 wine 组件在 Ubuntu 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-alpine:
+    desc: Installing wine core package on Alpine
+    desc-cn: 安装 wine 组件在 Alpine 系统
+    cmd: apk add wine
+    reference: https://command-not-found.com/wine
+
+wine-kali:
+    desc: Installing wine core package on Kali Linux
+    desc-cn: 安装 wine 组件在  Kali Linux 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-fedora:
+    desc: Installing wine core package on Fedora
+    desc-cn: 安装 wine 组件在 Fedora 系统
+    cmd: dnf install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-raspbian:
+    desc: Installing wine core package on Raspbian
+    desc-cn: 安装 wine 组件在 Raspbian 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-macos-brew:
+    desc: Installing wine core package on macOS with brew
+    desc-cn: 通过 brew 方式安装 wine 组件在 macOS 系统
+    cmd: brew install wine
+    reference: hhttps://command-not-found.com/wine
+
 # EndSection
 
 # Section: Text editor
