@@ -9,7 +9,7 @@ docker-linux:
 docker-macos-brew:
     desc: Installing Docker on macOS with brew
     desc-cn: 通过 brew 方式安装 Docker 在 macOS 系统
-    cmd: brew cask install docker
+    cmd: brew install docker
     reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
 
 test-docker:
