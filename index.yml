@@ -9,8 +9,8 @@ docker-linux:
 docker-macos-brew:
     desc: Installing Docker on macOS with brew
     desc-cn: 通过 brew 方式安装 Docker 在 macOS 系统
-    cmd: brew cask install docker
-    reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
+    cmd: brew install --cask --appdir=/Applications docker
+    reference: https://www.runoob.com/docker/macos-docker-install.html
 
 test-docker:
     desc: docker install
@@ -21,7 +21,7 @@ test-docker:
 #minikube
 minikube-linux:
     desc: A utility you can use to run Kubernetes (k8s)
-    desc-cn: 用来运行Kubernetes（K8S）的实用程序
+    desc-cn: 用来运行Kubernetes(K8S)的实用程序
     cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
     reference: https://github.com/kubernetes/minikube
 
@@ -233,7 +233,7 @@ jenv-macos-brew:
 #Homebrew
 brew:
     desc: The Missing Package Manager for macOS (or Linux)
-    desc-cn: macOS （或 Linux）系统缺失的软件包的管理器
+    desc-cn: macOS (或 Linux)系统缺失的软件包的管理器
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     reference: https://github.com/Homebrew
 
@@ -751,7 +751,7 @@ git-ubuntu:
 
 git-fedora-yum:
     desc: Installing Git on Fedora (up to Fedora 21)
-    desc-cn: 安装 Git 在Fedora 21及以下版本的系统
+    desc-cn: 安装 Git 在Fedora 21 及以下版本的系统
     cmd: yum install git
     reference: https://git-scm.com/download/linux
 
