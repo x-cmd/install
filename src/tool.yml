@@ -1,382 +1,110 @@
-
-
-
-
-
-# Section: Tools
-git-debian:
-    desc: Installing Git on Debian
-    desc-cn: 安装 Git 在 Debian  系统
-    cmd: apt-get install git
+git:
     reference: https://git-scm.com/download/linux
+    brew:
+        cmd: brew install git
+    apt:
+        cmd: apt-get install git
+    dnf:
+    yum:
+    gentoo:
+        cmd: emerge --ask --verbose dev-vcs/git
+    pacman:
+        cmd: pacman -S git
+    zypper:
+        cmd: zypper install git
+    mageia:
+        cmd: urpmi git
+    nix:
+        cmd: nix-env -i git
+        reference: https://git-scm.com/download/linux
+    freebsd:
+        cmd: pkg install git
+        reference: https://git-scm.com/download/linux
+    opencsw:
+        cmd: pkgutil -i git
+    solaris:
+        cmd: pkg install developer/versioning/git
+    penbsd:
+        cmd: pkg_add git
+    alpine:
+        cmd: apk add git
+    slitaz:
+        cmd: tazpkg get-install git
 
-git-ubuntu:
-    desc: Installing Git on Ubuntu
-    desc-cn: 安装 Git 在 Ubuntu 系统
-    cmd: apt-get install git
-    reference: https://git-scm.com/download/linux
-
-git-fedora-yum:
-    desc: Installing Git on Fedora (up to Fedora 21)
-    desc-cn: 安装 Git 在Fedora 21 及以下版本的系统
-    cmd: yum install git
-    reference: https://git-scm.com/download/linux
-
-git-fedora-dnf:
-    desc: Installing Git on Fedora (Fedora 22 and later)
-    desc-cn: 安装 Git 在 Fedora 22及更高版本的系统
-    cmd: dnf install git
-    reference: https://git-scm.com/download/linux
-
-git-gentoo:
-    desc: Installing Git on Gentoo
-    desc-cn: 安装 Git 在 Gentoo 系统
-    cmd: emerge --ask --verbose dev-vcs/git
-    reference: https://git-scm.com/download/linux
-
-git-arch:
-    desc: Installing Git on Arch Linux
-    desc-cn: 安装 Git 在 Arch Linux 系统
-    cmd: pacman -S git
-    reference: https://git-scm.com/download/linux
-
-git-opensuse:
-    desc: Installing Git on openSUSE
-    desc-cn: 安装 Git 在 openSUSE 系统
-    cmd: zypper install git
-    reference: https://git-scm.com/download/linux
-
-git-mageia:
-    desc: Installing Git on Mageia
-    desc-cn: 安装 Git 在 Mageia 系统
-    cmd: urpmi git
-    reference: https://git-scm.com/download/linux
-
-git-nix:
-    desc: Installing Git on Nix/NixOS
-    desc-cn: 安装 Git 在 Nix/NixOS 系统
-    cmd: nix-env -i git
-    reference: https://git-scm.com/download/linux
-
-git-freebsd:
-    desc: Installing Git on FreeBSD
-    desc-cn: 安装 Git 在 FreeBSD 系统
-    cmd: pkg install git
-    reference: https://git-scm.com/download/linux
-
-git-opencsw:
-    desc: Installing Git on Solaris 9/10/11 (OpenCSW)
-    desc-cn: 安装 Git 在 Solaris 9/10/11 (OpenCSW) 系统
-    cmd: pkgutil -i git
-    reference: https://git-scm.com/download/linux
-
-git-solaris:
-    desc: Installing Git on Solaris 11 Express
-    desc-cn: 安装 Git 在 Solaris 11 Express 系统
-    cmd: pkg install developer/versioning/git
-    reference: https://git-scm.com/download/linux
-
-git-openbsd:
-    desc: Installing Git on OpenBSD
-    desc-cn: 安装 Git 在 OpenBSD 系统
-    cmd: pkg_add git
-    reference: https://git-scm.com/download/linux
-
-git-alpine:
-    desc: Installing Git on Alpine
-    desc-cn: 安装 Git 在 Alpine 系统
-    cmd: apk add git
-    reference: https://git-scm.com/download/linux
-
-git-slitaz:
-    desc: Installing Git on Slitaz
-    desc-cn: 安装 Git 在 Slitaz 系统
-    cmd: tazpkg get-install git
-    reference: https://git-scm.com/download/linux
-
-git-centos:
-    desc: Installing Git on CentOS
-    desc-cn: 安装 Git 在 CentOS 系统
-    cmd: yum install git
-    reference: https://git-scm.com/download/linux
-
-git-rhel:
-    desc: Installing Git on Red Hat Enterprise Linux
-    desc-cn: 安装 Git 在 Red Hat Enterprise Linux 系统
-    cmd: yum install git
-    reference: https://git-scm.com/download/linux
-
-git-macos-brew:
-    desc: Installing Git on macOS with brew
-    desc-cn: 通过brew 方式安装 Git 在macOS 系统
-    cmd: brew install git
-    reference: https://git-scm.com/download/mac
-
-ssh-client-debian:
+openssh-client:
     desc: Installing Openssh-client on Debian
     desc-cn: 安装 Openssh 客户端在 Debian 系统
-    cmd: sudo apt install openssh-client
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+    apt:
+    pacman:
+    zypper:
+    dnf:
+        name: openssh-clients
 
-ssh-client-ubuntu:
-    desc: Installing Openssh-client on Ubuntu
-    desc-cn: 安装 Openssh 客户端在 Ubuntu 系统
-    cmd: sudo apt install openssh-client
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
-
-ssh-client-arch:
-    desc: Installing Openssh-client on Arch Linux
-    desc-cn: 安装 Openssh 客户端在 Arch Linux 系统
-    cmd: sudo pacman -S openssh
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
-
-ssh-client-manjaro:
-    desc: Installing Openssh-client on Manjaro
-    desc-cn: 安装 Openssh 客户端在 Manjaro 系统
-    cmd: sudo pacman -S openssh
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
-
-ssh-client-opensuse:
-    desc: Installing Openssh-client on OpenSUSE
-    desc-cn: 安装 Openssh 客户端在 OpenSUSE 系统
-    cmd: sudo zypper install openssh
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
-
-ssh-client-fedora:
-    desc: Installing Openssh-client on Fedora
-    desc-cn: 安装 Openssh 客户端在 Fedora 系统
-    cmd: sudo dnf install -y openssh-clients
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
-
-ssh-server-debian:
+ssh-server:
     desc: Installing Openssh-server on Debian
     desc-cn: 安装 Openssh 服务端在 Debian 系统
-    cmd: sudo apt install openssh-server
     reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+    apt:
+    pacman:
+        cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    dnf:
+        cmd: sudo dnf install -y openssh-server & sudo systemctl enable sshd & sudo systemctl start sshd
+    zyper:
+        cmd: sudo zypper install openssh & sudo systemctl enable sshd & sudo systemctl start sshd
 
-ssh-server-ubuntu:
-    desc: Installing Openssh-server on Ubuntu
-    desc-cn: 安装 Openssh 服务端在 Ubuntu 系统
-    cmd: sudo apt install openssh-server
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+openssh:
+    linux:
+        brew:
+            desc: Installing Openssh on Linux with brew
+            desc-cn: 通过 brew 方式安装 Openssh 在 Linux 系统
+            cmd: brew install openssh
+            reference: https://formulae.brew.sh/formula/openssh
 
-ssh-server-arch:
-    desc: Installing Openssh-server on Arch Linux
-    desc-cn: 安装 Openssh 服务端在 Arch Linux 系统
-    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
-
-ssh-server-manjaro:
-    desc: Installing Openssh-server on Manjaro
-    desc-cn: 安装 Openssh 服务端在 Manjaro 系统
-    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
-
-ssh-server-fedora:
-    desc: Installing Openssh-server on Fedora
-    desc-cn: 安装 Openssh 服务端在 Fedora 系统
-    cmd: sudo dnf install -y openssh-server & sudo systemctl enable sshd & sudo systemctl start sshd
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
-
-ssh-server-opensuse:
-    desc: Installing Openssh-server on OpenSUSE
-    desc-cn: 安装 Openssh 服务端在 OpenSUSE 系统
-    cmd: sudo zypper install openssh & sudo systemctl enable sshd & sudo systemctl start sshd
-    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
-
-ssh-linux-brew:
-    desc: Installing Openssh on Linux with brew
-    desc-cn: 通过 brew 方式安装 Openssh 在 Linux 系统
-    cmd: brew install openssh
-    reference: https://formulae.brew.sh/formula/openssh
-
-ssh-server-macos-macport:
-    desc: Installing Openssh-server on macOS with MacPort
-    desc-cn: 通过 MacPort 方式安装 Openssh 服务端在 macOS 系统
-    cmd: sudo port install openssh
-    reference: https://ports.macports.org/port/openssh/
-
-ssh-macos-brew:
-    desc: Installing Openssh on macOS with brew
-    desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
-    cmd: brew install openssh
-    reference: https://formulae.brew.sh/formula/openssh
+    macos:
+        port:
+            desc: Installing Openssh-server on macOS with MacPort
+            desc-cn: 通过 MacPort 方式安装 Openssh 服务端在 macOS 系统
+            cmd: sudo port install openssh
+            reference: https://ports.macports.org/port/openssh/
+        brew:
+            desc: Installing Openssh on macOS with brew
+            desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
+            cmd: brew install openssh
+            reference: https://formulae.brew.sh/formula/openssh
 
 # zip
-zip-debian:
+zip:
     desc: Installing zip file format on Debian
     desc-cn: 安装 zip 文件格式在 Debian 系统
-    cmd: sudo apt install zip
     reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-zip-ubuntu:
-    desc: Installing zip file format on Ubuntu
-    desc-cn: 安装 zip 文件格式在 Ubuntu 系统
-    cmd: sudo apt install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-zip-mint:
-    desc: Installing zip file format on Mint
-    desc-cn: 安装 zip 文件格式在 Mint 系统
-    cmd: sudo apt install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-zip-rehl:
-    desc: Installing zip file format on Red Hat Enterprise Linux
-    desc-cn: 安装 zip 文件格式在 Red Hat Enterprise Linux 系统
-    cmd: sudo dnf install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-zip-centos:
-    desc: Installing zip file format on CentOS
-    desc-cn: 安装 zip 文件格式在 CentOS 系统
-    cmd: sudo dnf install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-zip-fedora:
-    desc: Installing zip file format on Fedora
-    desc-cn: 安装 zip 文件格式在 Fedora 系统
-    cmd: sudo dnf install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-zip-arch:
-    desc: Installing zip file format on Arch Linux
-    desc-cn: 安装 zip 文件格式在 Arch Linux 系统
-    cmd: sudo pacman -S zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-zip-manjaro:
-    desc: Installing zip file format on Manjaro
-    desc-cn: 安装 zip 文件格式在 Manjaro 系统
-    cmd: sudo pacman -S zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-zip-opensuse:
-    desc: Installing zip file format on OpenSUSE
-    desc-cn: 安装 zip 文件格式在 OpenSUSE 系统
-    cmd: sudo zypper install zip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-zip-linux-brew:
-    desc: Installing zip file format on Linux with brew
-    desc-cn: 通过 brew 方式安装 zip 文件格式在 Linux 系统
-    cmd: brew install zip
-    reference: https://formulae.brew.sh/formula/zip#default
-
-zip-macos-brew:
-    desc: Installing zip file format on macOS with brew
-    desc-cn: 通过 brew 方式安装 zip 文件格式在 macOS 系统
-    cmd: brew install zip
-    reference: https://formulae.brew.sh/formula/zip#default
+    apt:
+    dnf:
+    pacman:
+    zypper:
+    brew:
+        reference: https://formulae.brew.sh/formula/zip#default
 
 # unzip
-unzip-debian:
+unzip:
     desc: Installing unzip file format on Debian
     desc-cn: 安装 unzip 文件格式在 Debian 系统
-    cmd: sudo apt install unzip
     reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-unzip-ubuntu:
-    desc: Installing unzip file format on Ubuntu
-    desc-cn: 安装 unzip 文件格式在 Ubuntu 系统
-    cmd: sudo apt install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-unzip-mint:
-    desc: Installing unzip file format on Mint
-    desc-cn: 安装 unzip 文件格式在 Mint 系统
-    cmd: sudo apt install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
-
-unzip-rehl:
-    desc: Installing unzip file format on Red Hat Enterprise Linux
-    desc-cn: 安装 unzip 文件格式在 Red Hat Enterprise Linux 系统
-    cmd: sudo dnf install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-unzip-centos:
-    desc: Installing unzip file format on CentOS
-    desc-cn: 安装 unzip 文件格式在 CentOS 系统
-    cmd: sudo dnf install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-unzip-fedora:
-    desc: Installing unzip file format on Fedora
-    desc-cn: 安装 unzip 文件格式在 Fedora 系统
-    cmd: sudo dnf install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
-
-unzip-arch:
-    desc: Installing unzip file format on Arch Linux
-    desc-cn: 安装 unzip 文件格式在 Arch Linux 系统
-    cmd: sudo pacman -S unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-unzip-manjaro:
-    desc: Installing unzip file format on Manjaro
-    desc-cn: 安装 unzip 文件格式在 Manjaro 系统
-    cmd: sudo pacman -S unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-unzip-opensuse:
-    desc: Installing unzip file format on OpenSUSE
-    desc-cn: 安装 unzip 文件格式在 OpenSUSE 系统
-    cmd: sudo zypper install unzip
-    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
-
-unzip-linux-brew:
-    desc: Installing unzip file format on Linux with brew
-    desc-cn: 通过 brew 方式安装 unzip 文件格式在 Linux 系统
-    cmd: brew install unzip
-    reference: https://formulae.brew.sh/formula/unzip#default
-
-unzip-macos-brew:
-    desc: Installing unzip file format on macOS with brew
-    desc-cn: 通过 brew 方式安装 unzip 文件格式在 macOS 系统
-    cmd: brew install unzip
-    reference: https://formulae.brew.sh/formula/unzip#default
+    apt:
+    dnf:
+    pacman:
+    zypper:
+    brew:
 
 # Wine
-wine-debian:
+wine:
     desc: Installing wine core package on Debian
     desc-cn: 安装 wine 组件在 Debian 系统
-    cmd: apt-get install wine
-    reference: https://command-not-found.com/wine
-
-wine-ubuntu:
-    desc: Installing wine core package on Ubuntu
-    desc-cn: 安装 wine 组件在 Ubuntu 系统
-    cmd: apt-get install wine-core
-    reference: https://command-not-found.com/wine
-
-wine-alpine:
-    desc: Installing wine core package on Alpine
-    desc-cn: 安装 wine 组件在 Alpine 系统
-    cmd: apk add wine
-    reference: https://command-not-found.com/wine
-
-wine-kali:
-    desc: Installing wine core package on Kali Linux
-    desc-cn: 安装 wine 组件在  Kali Linux 系统
-    cmd: apt-get install wine-core
-    reference: https://command-not-found.com/wine
-
-wine-fedora:
-    desc: Installing wine core package on Fedora
-    desc-cn: 安装 wine 组件在 Fedora 系统
-    cmd: dnf install wine-core
-    reference: https://command-not-found.com/wine
-
-wine-raspbian:
-    desc: Installing wine core package on Raspbian
-    desc-cn: 安装 wine 组件在 Raspbian 系统
-    cmd: apt-get install wine-core
-    reference: https://command-not-found.com/wine
-
-wine-macos-brew:
-    desc: Installing wine core package on macOS with brew
-    desc-cn: 通过 brew 方式安装 wine 组件在 macOS 系统
-    cmd: brew install wine
-    reference: hhttps://command-not-found.com/wine
-
-# EndSection
+    brew:
+    apt:
+        kali:
+            name: wine-core
+        raspbian:
+            name: wine-core
+    apk:
+    dnf:
+        name: wine-core
