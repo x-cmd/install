@@ -1,0 +1,96 @@
+
+
+podman:
+    desc: Installing Podman on macOS with brew
+    desc-cn: 通过 brew 方式安装 Podman 在 macOS 系统
+    reference: https://podman.io/getting-started/installation
+    name: podman
+    brew:
+    pacman:
+    yum:
+    apt:
+    bitbake:
+    emerge:
+      name: app-emulation/podman
+    zypper:
+    rhel7:
+      cmd: sudo subscription-manager repos --enable=rhel-7-server-extras-rpms && sudo yum -y install podman
+    rhel8:
+      cmd: sudo yum module enable -y container-tools:rhel8 && sudo yum module install -y container-tools:rhel8
+
+
+
+# Podman
+# podman-macos-brew:
+#     desc: Installing Podman on macOS with brew
+#     desc-cn: 通过 brew 方式安装 Podman 在 macOS 系统
+#     cmd: brew install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-arch:
+#     desc: Installing Podman on Arch Linux
+#     desc-cn: 安装 Podman 在 Arch Linux 系统
+#     cmd: sudo pacman -S podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-manjaro:
+#     desc: Installing Podman on Manjaro Linux
+#     desc-cn: 安装 Podman 在 Manjaro Linux 系统
+#     cmd: sudo pacman -S podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-centos:
+#     desc: Installing Podman on CentOS
+#     desc-cn: 安装 Podman 在 CentOS 系统
+#     cmd: sudo yum -y install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-debian:
+#     desc: Installing Podman on Debian
+#     desc-cn: 安装 Podman 在 Debian 系统
+#     cmd: sudo apt-get -y install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-fedora:
+#     desc: Installing Podman on Fedora
+#     desc-cn: 安装 Podman 在 Fedora 系统
+#     cmd: sudo dnf -y install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-gentoo:
+#     desc: Installing Podman on Gentoo
+#     desc-cn: 安装 Podman 在 Gentoo 系统
+#     cmd: sudo emerge app-emulation/podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-openembedded:
+#     desc: Installing Podman on OpenEmbedded
+#     desc-cn: 安装 Podman 在 OpenEmbedded 系统
+#     cmd: bitbake podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-opensuse:
+#     desc: Installing Podman on openSUSE
+#     desc-cn: 安装 Podman 在 openSUSE 系统
+#     cmd: sudo zypper install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-rhel7:
+#     desc: Installing Podman on RHEL7
+#     desc-cn: 安装 Podman 在 RHEL7 系统
+#     cmd: sudo subscription-manager repos --enable=rhel-7-server-extras-rpms && sudo yum -y install podman
+#     reference: https://podman.io/getting-started/installation
+
+# podman-rhel8:
+#     desc: Installing Podman on RHEL8
+#     desc-cn: 安装 Podman 在 RHEL8 系统
+#     cmd: sudo yum module enable -y container-tools:rhel8 && sudo yum module install -y container-tools:rhel8
+#     reference: https://podman.io/getting-started/installation
+
+# podman-ubuntu:
+#     desc: Installing Podman on Ubuntu
+#     desc-cn: 安装 Podman 在 Ubuntu 系统
+#     cmd: sudo apt-get -y update && sudo apt-get -y install podman
+#     reference: https://podman.io/getting-started/installation
+
+# EndSection
