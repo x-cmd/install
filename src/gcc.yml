@@ -1,0 +1,15 @@
+
+# Section: Compiler
+gcc:
+    desc: Installing GCC Compiler
+    desc-cn: 安装 GCC 编译器
+    apt:
+      name: build-essential
+      reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+    yum:
+      name: gcc
+      reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+    brew:
+      name: gcc
+      reference: https://formulae.brew.sh/formula/gcc#default
+

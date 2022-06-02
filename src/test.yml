@@ -1,0 +1,1450 @@
+# Section: Container
+# docker
+docker-linux:
+    desc: Installing Docker on Linux
+    desc-cn: 安装 Docker 在 Linux 系统
+    cmd: curl -sSL https://get.docker.com/ | sh
+    reference: https://github.com/docker/docker-install
+
+docker-macos-brew:
+    desc: Installing Docker on macOS with brew
+    desc-cn: 通过 brew 方式安装 Docker 在 macOS 系统
+<<<<<<< HEAD
+    cmd: brew install --cask --appdir=/Applications docker
+    reference: https://www.runoob.com/docker/macos-docker-install.html
+=======
+    cmd: brew install docker
+    reference: https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41
+>>>>>>> 1d4f8a507bb8a6f8b8ae905da553cb60c9d833fe
+
+test-docker:
+    desc: docker install
+    desc-cn: docker 预览版安装
+    cmd: curl https://test.docker.com | sh -c
+    reference: https://github.com/docker/docker-install
+
+#minikube
+minikube-linux:
+    desc: A utility you can use to run Kubernetes (k8s)
+    desc-cn: 用来运行Kubernetes(K8S)的实用程序
+    cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
+    reference: https://github.com/kubernetes/minikube
+
+minikube-macos-brew:
+    desc: Installing minikube on macOS With Homebrew
+    desc-cn: 通过 Homebrew 方式安装 minikube 在 Mac 系统
+    cmd: brew install minikube
+    reference: https://formulae.brew.sh/formula/minikube
+
+#k8s:
+#desc: kubernete server install
+#cmd: curl https://get.k3s.com | sh -c
+#reference: xxx
+
+# k3s
+k3s:
+    desc: Lightweight Kubernetes
+    desc-cn: 轻量级 kubernetes.
+    cmd: curl -sfL https://get.k3s.io | sh -
+    reference: https://github.com/k3s-io/k3s/releases/tag/v1.22.3+k3s1
+
+# kubectl
+kubectl-linux:
+    desc: The Kubernetes command-line tool on Linux
+    desc-cn: 适配 Linux 系统的 Kubernetes 命令行工具
+    cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl"
+    reference: https://github.com/kubernetes/kubectl
+
+kubectl-macos:
+    desc: The Kubernetes command-line tool on macOS
+    desc-cn: 适配 macOS 系统的 Kubernetes 命令行工具
+    cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
+    reference: https://github.com/kubernetes/kubectl
+
+kubectl-windows:
+    desc: The Kubernetes command-line tool on Windows
+    desc-cn: 适配 Windows 系统的 Kubernetes 命令行工具
+    cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
+    reference: https://github.com/kubernetes/kubectl
+
+# Podman
+podman-macos-brew:
+    desc: Installing Podman on macOS with brew
+    desc-cn: 通过 brew 方式安装 Podman 在 macOS 系统
+    cmd: brew install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-arch:
+    desc: Installing Podman on Arch Linux
+    desc-cn: 安装 Podman 在 Arch Linux 系统
+    cmd: sudo pacman -S podman
+    reference: https://podman.io/getting-started/installation
+
+podman-manjaro:
+    desc: Installing Podman on Manjaro Linux
+    desc-cn: 安装 Podman 在 Manjaro Linux 系统
+    cmd: sudo pacman -S podman
+    reference: https://podman.io/getting-started/installation
+
+podman-centos:
+    desc: Installing Podman on CentOS
+    desc-cn: 安装 Podman 在 CentOS 系统
+    cmd: sudo yum -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-debian:
+    desc: Installing Podman on Debian
+    desc-cn: 安装 Podman 在 Debian 系统
+    cmd: sudo apt-get -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-fedora:
+    desc: Installing Podman on Fedora
+    desc-cn: 安装 Podman 在 Fedora 系统
+    cmd: sudo dnf -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-gentoo:
+    desc: Installing Podman on Gentoo
+    desc-cn: 安装 Podman 在 Gentoo 系统
+    cmd: sudo emerge app-emulation/podman
+    reference: https://podman.io/getting-started/installation
+
+podman-openembedded:
+    desc: Installing Podman on OpenEmbedded
+    desc-cn: 安装 Podman 在 OpenEmbedded 系统
+    cmd: bitbake podman
+    reference: https://podman.io/getting-started/installation
+
+podman-opensuse:
+    desc: Installing Podman on openSUSE
+    desc-cn: 安装 Podman 在 openSUSE 系统
+    cmd: sudo zypper install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-rhel7:
+    desc: Installing Podman on RHEL7
+    desc-cn: 安装 Podman 在 RHEL7 系统
+    cmd: sudo subscription-manager repos --enable=rhel-7-server-extras-rpms && sudo yum -y install podman
+    reference: https://podman.io/getting-started/installation
+
+podman-rhel8:
+    desc: Installing Podman on RHEL8
+    desc-cn: 安装 Podman 在 RHEL8 系统
+    cmd: sudo yum module enable -y container-tools:rhel8 && sudo yum module install -y container-tools:rhel8
+    reference: https://podman.io/getting-started/installation
+
+podman-ubuntu:
+    desc: Installing Podman on Ubuntu
+    desc-cn: 安装 Podman 在 Ubuntu 系统
+    cmd: sudo apt-get -y update && sudo apt-get -y install podman
+    reference: https://podman.io/getting-started/installation
+
+# EndSection
+
+# Section: Version manager
+# Nvm
+nvm:
+    desc: Node version manager
+    desc-cn: Node 版本管理器
+    cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+    reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
+
+nvm-linux-brew:
+    desc: Installing version manager for Node on Linux with brew
+    desc-cn: 通过 brew 方式安装 Node 版本管理器在 Linux 系统
+    cmd: brew install nvm
+    reference: https://formulae.brew.sh/formula/nvm#default
+
+nvm-macos-brew:
+    desc: Installing version manager for Node on macOS with brew
+    desc-cn: 通过 brew 方式安装 Node 版本管理器在 macOS 系统
+    cmd: brew install nvm
+    reference: https://formulae.brew.sh/formula/nvm#default
+
+# Sdkman
+sdkman:
+    desc: version manager for java, kotlin, scala, groovy, spring, etc.
+    desc-cn: java, kotlin, scala, groovy, spring 等版本管理器
+    cmd: curl -s "https://get.sdkman.io" | bash
+    reference: https://github.com/sdkman/sdkman-cli
+
+# Pyenv
+pyenv:
+    desc: version manager for Python
+    desc-cn: Python 版本管理器
+    cmd: curl https://pyenv.run | bash
+    reference: https://github.com/pyenv/pyenv-installer
+
+pyenv-linux-brew:
+    desc: Installing version manager for Python on Linux with brew
+    desc-cn: 通过 brew 方式安装 Python 版本管理器在 Linux 系统
+    cmd: brew install pyenv
+    reference: https://formulae.brew.sh/formula/pyenv#default
+
+pyenv-macos-brew:
+    desc: Installing version manager for Python on macOS with brew
+    desc-cn: 通过 brew 方式安装 Python 版本管理器在 macOS 系统
+    cmd: brew install pyenv
+    reference: https://formulae.brew.sh/formula/pyenv#default
+
+# Rbenv
+rbenv:
+    desc: version manager for Ruby
+    desc-cn: Ruby 版本管理器
+    cmd: curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
+    reference: https://github.com/pyenv/pyenv-installer
+
+rbenv-linux-brew:
+    desc: Installing version manager for Ruby on Linux with brew
+    desc-cn: 通过 brew 方式安装 Ruby 版本管理器在 Linux 系统
+    cmd: brew install rbenv
+    reference: https://formulae.brew.sh/formula/rbenv#default
+
+rbenv-macos-brew:
+    desc: Installing version manager for Ruby on macOS with brew
+    desc-cn: 通过 brew 方式安装 Ruby 版本管理器在 macOS 系统
+    cmd: brew install rbenv
+    reference: https://formulae.brew.sh/formula/rbenv#default
+
+rbenv-dbian:
+    desc: Installing version manager for Ruby on Debian
+    desc-cn: 安装 Ruby 版本管理器在 Debian 系统
+    cmd: sudo apt install rbenv
+    reference: https://github.com/rbenv/rbenv
+
+rbenv-ubuntu:
+    desc: Installing version manager for Ubuntu on Debian
+    desc-cn: 安装 Ruby 版本管理器在 Ubuntu 系统
+    cmd: sudo apt install rbenv
+    reference: https://github.com/rbenv/rbenv
+
+# Jenv
+jenv-linux-brew:
+    desc: Installing version manager for Java on Linux with brew
+    desc-cn: 通过 brew 方式安装 Java 版本管理器在 Linux 系统
+    cmd: brew install jenv
+    reference: https://formulae.brew.sh/formula/jenv#default
+
+jenv-macos-brew:
+    desc: Installing version manager for Java on macOS with brew
+    desc-cn: 通过 brew 方式安装 Java 版本管理器在 macOS 系统
+    cmd: brew install jenv
+    reference: https://formulae.brew.sh/formula/jenv#default
+# https://amaral.northwestern.edu/resources/guides/pyenv-tutorial#undefined
+# EndSection
+
+# Section: Package manager
+#Homebrew
+brew:
+    desc: The Missing Package Manager for macOS (or Linux)
+    desc-cn: macOS (或 Linux)系统缺失的软件包的管理器
+    cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    reference: https://github.com/Homebrew
+
+# pip
+pip:
+    desc: The package installer for Python
+    desc-cn: Python 的包装安装程序
+    cmd: pip install pip
+    reference: https://pypi.org/project/pip/
+# EndSection
+
+# Section: oh-my*
+oh-my-zsh:
+    desc: It provides theme and plugin manager in zsh
+    desc-cn: 它在 zsh 提供主题和插件管理器
+    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    reference: https://github.com/ohmyzsh/ohmyzsh
+oh-my-bash:
+    desc: It provides theme and plugin manager in bash
+    desc-cn: 它在 bash 提供主题和插件管理器
+    cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+    reference: https://github.com/ohmybash
+oh-my-fish:
+    desc: It provides theme and plugin manager in fish
+    desc-cn: 它在 fish 提供主题和插件管理器
+    cmd: curl -L https://get.oh-my.fish | fish
+    reference: https://github.com/oh-my-fish/oh-my-fish
+# EndSection
+
+# Section: Development Language
+# https://nodejs.org/en/download/package-manager/
+node-macos-curl:
+    desc: Installing Node.js on macOS with curl
+    desc-cn: 通过 curl 方式安装 Node.js 在 Mac 系统
+    cmd: curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-macos-brew:
+    desc: Installing Node.js on macOS with brew
+    desc-cn: 通过 brew 方式安装 Node.js 在 Mac 系统
+    cmd: brew install node
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-macos-macports:
+    desc: Installing Node.js on Windows with macports
+    desc-cn: 通过 macports 方式安装 Node.js 在 Mac 系统
+    cmd: port install nodejs7
+    reference: https://nodejs.org/en/download/package-manager/#macos
+
+node-windows-chocolatey:
+    desc: Installing Node.js on Windows with chocolatey
+    desc-cn: 通过 chocolatey 方式安装 Node.js 在 Windows 系统
+    cmd: cinst nodejs.install
+    reference: https://nodejs.org/en/download/package-manager/#windows-1
+
+node-windows-scoop:
+    desc: Installing Node.js on Windows with scoop
+    desc-cn: 通过 scoop 方式安装 Node.js 在 Windows 系统
+    cmd: scoop install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#windows-1
+
+node-arch:
+    desc: Installing Node.js on Arch Linux
+    desc-cn: 安装 Node.js 在 Arch Linux 系统
+    cmd: pacman -S nodejs npm
+    reference: https://nodejs.org/en/download/package-manager/#arch-linux
+
+node-centos:
+    desc: Installing Node.js on CentOS
+    desc-cn: 安装 Node.js 在 CentOS 系统
+    cmd: dnf module install nodejs:17
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-fedora:
+    desc: Installing Node.js on Fedora
+    desc-cn: 安装 Node.js 在  Fedora 系统
+    cmd: dnf module install nodejs:17
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-rhel:
+    desc: Installing Node.js on Red Hat Enterprise Linux
+    desc-cn: 安装 Node.js 在 Red Hat Enterprise Linux 系统
+    cmd: dnf module install nodejs:17
+    reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+
+node-debian:
+    desc: Installing Node.js on Debian
+    desc-cn: 安装 Node.js 在 Debian  系统
+    cmd: sudo apt install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+node-ubuntu:
+    desc: Installing Node.js on Ubuntu
+    desc-cn: 安装 Node.js 在 Ubuntu 系统
+    cmd: sudo apt install nodejs
+    reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+node-freebsd:
+    desc: Installing Node.js on FreeBSD
+    desc-cn: 安装 Node.js 在 FreeBSD 系统
+    cmd: pkg install node
+    reference: https://nodejs.org/en/download/package-manager/#freebsd
+
+# Rust
+rust:
+    desc: Rust language
+    desc-cn: Rust 语言
+    cmd: curl https://sh.rustup.rs -sSf | sh
+    reference: https://doc.rust-lang.org/cargo/getting-started/installation.html
+
+rust-windows:
+    desc: Rust language(Windows Subsystem for Linux)
+    desc-cn: Rust 语言(适用于 Linux 的 Windows 子系统)
+    cmd: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | she
+    reference: https://www.rust-lang.org/
+
+# Perl
+perl-unix:
+    desc: Installing Perl on Unix
+    desc-cn: 在 UNIX 系统上安装 Perl
+    cmd: curl -L http://xrl.us/installperlnix | bash
+    reference: https://learn.perl.org/installing/unix_linux.html
+
+perl-linux:
+    desc: Installing Perl on Linux
+    desc-cn: 在 Linux 系统上安装 Perl
+    cmd: curl -L http://xrl.us/installperlnix | bash
+    reference: https://learn.perl.org/installing/unix_linux.html
+
+perl-macos:
+    desc: Installing Perl on macOS
+    desc-cn: 在 MacOS 上安装 Perl
+    cmd: curl -L http://xrl.us/installperlosx | bash
+    reference: https://learn.perl.org/installing/osx.html
+
+# AWK
+awk-linux-brew:
+    desc: Installing AWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 AWK 在 Linux 系统
+    cmd: brew install awk
+    reference: https://formulae.brew.sh/formula/awk#default
+
+awk-macos-brew:
+    desc: Installing AWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 AWK 在 Mac 系统
+    cmd: brew install awk
+    reference: https://formulae.brew.sh/formula/awk#default
+
+# GAWK
+gawk-linux-brew:
+    desc: Installing GAWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 GAWK 在 Linux 系统
+    cmd: brew install gawk
+    reference: https://formulae.brew.sh/formula/gawk#default
+
+gawk-macos-brew:
+    desc: Installing GAWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 GAWK 在 Mac 系统
+    cmd: brew install gawk
+    reference: https://formulae.brew.sh/formula/gawk#default
+
+gawk-debian:
+    desc: Installing GAWK on Debian
+    desc-cn: 安装 GAWK 在 Debian 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-ubuntu:
+    desc: Installing GAWK on Ubuntu
+    desc-cn: 安装 GAWK 在 Ubuntu 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-alpine:
+    desc: Installing GAWK on Alpine
+    desc-cn: 安装 GAWK 在 Alpine 系统
+    cmd: apk add gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-arch:
+    desc: Installing GAWK on Arch Linux
+    desc-cn: 安装 GAWK 在 Arch Linux 系统
+    cmd: pacman -S gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-kali:
+    desc: Installing GAWK on Kali Linux
+    desc-cn: 安装 GAWK 在 Kali Linux 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-centos:
+    desc: Installing GAWK on CentOS
+    desc-cn: 安装 GAWK 在 CentOS 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-fedora:
+    desc: Installing GAWK on Fedora
+    desc-cn: 安装 GAWK 在 Fedora 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
+
+gawk-raspbian:
+    desc: Installing GAWK on Raspbian
+    desc-cn: 安装 GAWK 在 Raspbian 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
+
+# NAWK
+nawk-arch:
+    desc: Installing NAWK on Arch Linux
+    desc-cn: 安装 NAWK 在 Arch Linux 系统
+    cmd: pacman -S nawk
+    reference: https://command-not-found.com/nawk
+
+nawk-fedora:
+    desc: Installing NAWK on Fedora
+    desc-cn: 安装 NAWK 在 Fedora 系统
+    cmd: dnf install nawk
+    reference: https://command-not-found.com/nawk
+# MAWK
+mawk-linux-brew:
+    desc: Installing MAWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 MAWK 在 Linux 系统
+    cmd: brew install mawk
+    reference: https://formulae.brew.sh/formula/mawk#default
+
+mawk-macos-brew:
+    desc: Installing MAWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 MAWK 在 Mac 系统
+    cmd: brew install mawk
+    reference: https://formulae.brew.sh/formula/mawk#default
+
+mawk-debian:
+    desc: Installing MAWK on Debian
+    desc-cn: 安装 MAWK 在 Debian 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+mawk-ubuntu:
+    desc: Installing MAWK on Ubuntu
+    desc-cn: 安装 MAWK 在 Ubuntu 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+mawk-kali:
+    desc: Installing MAWK on Kali Linux
+    desc-cn: 安装 MAWK 在 Kali Linux 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+mawk-fedora:
+    desc: Installing MAWK on Fedora
+    desc-cn: 安装 MAWK 在 Fedora 系统
+    cmd: dnf install mawk
+    reference: https://command-not-found.com/mawk
+
+mawk-raspbian:
+    desc: Installing MAWK on Raspbian
+    desc-cn: 安装 MAWK 在 Raspbian 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+#Python
+python-linux:
+    desc: Installing Python on Linux
+    desc-cn: 安装 Python 在 Linux 系统
+    cmd: pip install git+https://github.com/srsudar/eg.git
+    reference: https://ostechnix.com/install-python-packages-from-github-on-linux/
+
+python-centos:
+    desc: Installing Python on CentOS
+    desc-cn: 安装 Python 在 CentOS 系统
+    cmd: sudo yum update && sudo dnf install python
+    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
+
+python-rhel:
+    desc: Installing Python on Red Hat Linux
+    desc-cn: 安装 Python 在 Red Hat Linux 系统
+    cmd: sudo yum update && sudo dnf install python
+    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
+
+python-ubuntu:
+    desc: Installing Python on Ubuntu
+    desc-cn: 安装 Python 在 Ubuntu 系统
+    cmd: sudo apt-get update && sudo apt-get install python
+    reference: https://www.makeuseof.com/install-python-ubuntu/
+
+# Java
+java8-macos-brew:
+    desc: Installing Java8 on macOS with brew
+    desc-cn: 通过 brew 方式安装 Java8 在 Mac 系统
+    cmd: brew cask install java8
+    reference: https://gist.github.com/jonjack/898efa5ccc79c140533ed53e0b1edbad
+
+java-debian:
+    desc: Installing Java on Debian
+    desc-cn: 安装 Java 在 Debian 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-ubuntu:
+    desc: Installing Java on Ubuntu
+    desc-cn: 安装 Java 在 Ubuntu 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-arch:
+    desc: Installing Java on Arch Linux
+    desc-cn: 安装 Java 在 Arch Linux 系统
+    cmd: pacman -S java
+    reference: https://command-not-found.com/java
+
+java-kali:
+    desc: Installing Java on Kali Linux
+    desc-cn: 安装 Java 在 Kali Linux 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+java-centos:
+    desc: Installing Java on CentOS
+    desc-cn: 安装 Java 在 CentOS 系统
+    cmd: yum install java
+    reference: https://command-not-found.com/java
+
+java-fedora:
+    desc: Installing Java on Fedora
+    desc-cn: 安装 Java 在 Fedora 系统
+    cmd: dnf install java
+    reference: https://command-not-found.com/java
+
+java-raspbian:
+    desc: Installing Java on Raspbian
+    desc-cn: 安装 Java 在 Raspbian 系统
+    cmd: apt-get install java
+    reference: https://command-not-found.com/java
+
+# Go
+go-macos-brew:
+    desc: Installing Go language on macOS with brew
+    desc-cn: 通过 brew 方式安装 Go 语言在 Mac 系统
+    cmd: brew install go
+    reference: https://formulae.brew.sh/formula/go#default
+
+go-linux-brew:
+    desc: Installing Go language on Linux with brew
+    desc-cn: 通过 brew 方式安装 Go 语言在 Linux 系统
+    cmd: brew install go
+    reference: https://formulae.brew.sh/formula/go#default
+
+go-debian:
+    desc: Installing Go language on Debian
+    desc-cn: 安装 Go 语言在 Debian 系统
+    cmd: apt-get install golang-bin
+    reference: https://command-not-found.com/go
+
+go-ubuntu:
+    desc: Installing Go language on Ubuntu
+    desc-cn: 安装 Go 语言在 Ubuntu 系统
+    cmd: apt-get install golang-bin
+    reference: https://command-not-found.com/go
+
+go-alpine:
+    desc: Installing Go language on Alpine
+    desc-cn: 安装 Go 语言在 Alpine 系统
+    cmd: apk add go
+    reference: https://command-not-found.com/go
+
+go-arch:
+    desc: Installing Go language on Arch Linux
+    desc-cn: 安装 Go 语言在 Arch Linux 系统
+    cmd: pacman -S go
+    reference: https://command-not-found.com/go
+
+go-kali:
+    desc: Installing Go language on Kali Linux
+    desc-cn: 安装 Go 语言在 Kali Linux 系统
+    cmd: apt-get install golang-bin
+    reference: https://command-not-found.com/go
+
+go-fedora:
+    desc: Installing Go language on Fedora
+    desc-cn: 安装 Go 语言在 Fedora 系统
+    cmd: dnf install golang-bin
+    reference: https://command-not-found.com/go
+
+go-raspbian:
+    desc: Installing Go language on Raspbian
+    desc-cn: 安装 Go 语言在 Raspbian 系统
+    cmd: apt-get install golang-bin
+    reference: https://command-not-found.com/go
+
+# PHP
+php-debian:
+    desc: Installing PHP language on Debian
+    desc-cn: 安装 PHP 语言在 Debian 系统
+    cmd: apt-get install php
+    reference: https://command-not-found.com/php
+
+php-ubuntu:
+    desc: Installing PHP language on Ubuntu
+    desc-cn: 安装 PHP 语言在 Ubuntu 系统
+    cmd: apt-get install php
+    reference: https://command-not-found.com/php
+
+php-alpine:
+    desc: Installing PHP language on Alpine
+    desc-cn: 安装 PHP 语言在 Alpine 系统
+    cmd: apk add php
+    reference: https://command-not-found.com/php
+
+php-arch:
+    desc: Installing PHP language on Arch Linux
+    desc-cn: 安装 PHP 语言在 Arch Linux 系统
+    cmd: pacman -S php
+    reference: https://command-not-found.com/php
+
+php-kali:
+    desc: Installing PHP language on Kali Linux
+    desc-cn: 安装 PHP 语言在 Kali Linux 系统
+    cmd: apt-get install php
+    reference: https://command-not-found.com/php
+
+php-centos:
+    desc: Installing PHP language on CentOS
+    desc-cn: 安装 PHP 语言在 CentOS 系统
+    cmd: yum install php-cli
+    reference: https://command-not-found.com/php
+
+php-fedora:
+    desc: Installing PHP language on Fedora
+    desc-cn: 安装 PHP 语言在 Fedora 系统
+    cmd: dnf install php-cli
+    reference: https://command-not-found.com/php
+
+php-raspbian:
+    desc: Installing PHP language on Raspbian
+    desc-cn: 安装 PHP 语言在 Raspbian 系统
+    cmd: apt-get install php
+    reference: https://command-not-found.com/php
+
+php-macos-brew:
+    desc: Installing PHP language on MacOS with brew
+    desc-cn: 通过 brew 方式安装 PHP 语言在 MacOS 系统
+    cmd: brew install php
+    reference: https://formulae.brew.sh/formula/php#default
+
+php-linux-brew:
+    desc: Installing PHP language on Linux with brew
+    desc-cn: 通过 brew 方式安装 PHP 语言在 Linux 系统
+    cmd: brew install php
+    reference: https://formulae.brew.sh/formula/php#default
+
+# PHP-curl
+# https://www.geeksforgeeks.org/how-to-install-php-curl-in-ubuntu/
+
+# C++ support for GCC
+c++-debian:
+    desc: Installing C++ language on Debian support for GCC
+    desc-cn: 安装 C++ 语言在 Debian 系统的 GCC 编译器
+    cmd: apt-get install gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-ubuntu:
+    desc: Installing C++ language on Ubuntu support for GCC
+    desc-cn: 安装 C++ 语言在 Ubuntu 系统的 GCC 编译器
+    cmd: apt-get install gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-arch:
+    desc: Installing C++ language on Arch Linux support for GCC
+    desc-cn: 安装 C++ 语言在 Arch Linux 系统的 GCC 编译器
+    cmd: pacman -S gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-kali:
+    desc: Installing C++ language on Kali Linux support for GCC
+    desc-cn: 安装 C++ 语言在 Kali Linux 系统的 GCC 编译器
+    cmd: apt-get install gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-centos:
+    desc: Installing C++ language on CentOS support for GCC
+    desc-cn: 安装 C++ 语言在 CentOS 系统的 GCC 编译器
+    cmd: yum install gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-fedora:
+    desc: Installing C++ language on Fedora support for GCC
+    desc-cn: 安装 C++ 语言在 Fedora 系统的 GCC 编译器
+    cmd: dnf install gcc-c++
+    reference: https://command-not-found.com/c++
+
+c++-raspbian:
+    desc: Installing C++ language on Raspbian support for GCC
+    desc-cn: 安装 C++ 语言在 Raspbian 系统的 GCC 编译器
+    cmd: apt-get install gcc-c++
+    reference: https://command-not-found.com/c++
+
+# EndSection
+
+# Section: Tools
+git-debian:
+    desc: Installing Git on Debian
+    desc-cn: 安装 Git 在 Debian  系统
+    cmd: apt-get install git
+    reference: https://git-scm.com/download/linux
+
+git-ubuntu:
+    desc: Installing Git on Ubuntu
+    desc-cn: 安装 Git 在 Ubuntu 系统
+    cmd: apt-get install git
+    reference: https://git-scm.com/download/linux
+
+git-fedora-yum:
+    desc: Installing Git on Fedora (up to Fedora 21)
+    desc-cn: 安装 Git 在Fedora 21 及以下版本的系统
+    cmd: yum install git
+    reference: https://git-scm.com/download/linux
+
+git-fedora-dnf:
+    desc: Installing Git on Fedora (Fedora 22 and later)
+    desc-cn: 安装 Git 在 Fedora 22及更高版本的系统
+    cmd: dnf install git
+    reference: https://git-scm.com/download/linux
+
+git-gentoo:
+    desc: Installing Git on Gentoo
+    desc-cn: 安装 Git 在 Gentoo 系统
+    cmd: emerge --ask --verbose dev-vcs/git
+    reference: https://git-scm.com/download/linux
+
+git-arch:
+    desc: Installing Git on Arch Linux
+    desc-cn: 安装 Git 在 Arch Linux 系统
+    cmd: pacman -S git
+    reference: https://git-scm.com/download/linux
+
+git-opensuse:
+    desc: Installing Git on openSUSE
+    desc-cn: 安装 Git 在 openSUSE 系统
+    cmd: zypper install git
+    reference: https://git-scm.com/download/linux
+
+git-mageia:
+    desc: Installing Git on Mageia
+    desc-cn: 安装 Git 在 Mageia 系统
+    cmd: urpmi git
+    reference: https://git-scm.com/download/linux
+
+git-nix:
+    desc: Installing Git on Nix/NixOS
+    desc-cn: 安装 Git 在 Nix/NixOS 系统
+    cmd: nix-env -i git
+    reference: https://git-scm.com/download/linux
+
+git-freebsd:
+    desc: Installing Git on FreeBSD
+    desc-cn: 安装 Git 在 FreeBSD 系统
+    cmd: pkg install git
+    reference: https://git-scm.com/download/linux
+
+git-opencsw:
+    desc: Installing Git on Solaris 9/10/11 (OpenCSW)
+    desc-cn: 安装 Git 在 Solaris 9/10/11 (OpenCSW) 系统
+    cmd: pkgutil -i git
+    reference: https://git-scm.com/download/linux
+
+git-solaris:
+    desc: Installing Git on Solaris 11 Express
+    desc-cn: 安装 Git 在 Solaris 11 Express 系统
+    cmd: pkg install developer/versioning/git
+    reference: https://git-scm.com/download/linux
+
+git-openbsd:
+    desc: Installing Git on OpenBSD
+    desc-cn: 安装 Git 在 OpenBSD 系统
+    cmd: pkg_add git
+    reference: https://git-scm.com/download/linux
+
+git-alpine:
+    desc: Installing Git on Alpine
+    desc-cn: 安装 Git 在 Alpine 系统
+    cmd: apk add git
+    reference: https://git-scm.com/download/linux
+
+git-slitaz:
+    desc: Installing Git on Slitaz
+    desc-cn: 安装 Git 在 Slitaz 系统
+    cmd: tazpkg get-install git
+    reference: https://git-scm.com/download/linux
+
+git-centos:
+    desc: Installing Git on CentOS
+    desc-cn: 安装 Git 在 CentOS 系统
+    cmd: yum install git
+    reference: https://git-scm.com/download/linux
+
+git-rhel:
+    desc: Installing Git on Red Hat Enterprise Linux
+    desc-cn: 安装 Git 在 Red Hat Enterprise Linux 系统
+    cmd: yum install git
+    reference: https://git-scm.com/download/linux
+
+git-macos-brew:
+    desc: Installing Git on macOS with brew
+    desc-cn: 通过brew 方式安装 Git 在macOS 系统
+    cmd: brew install git
+    reference: https://git-scm.com/download/mac
+
+ssh-client-debian:
+    desc: Installing Openssh-client on Debian
+    desc-cn: 安装 Openssh 客户端在 Debian 系统
+    cmd: sudo apt install openssh-client
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-ubuntu:
+    desc: Installing Openssh-client on Ubuntu
+    desc-cn: 安装 Openssh 客户端在 Ubuntu 系统
+    cmd: sudo apt install openssh-client
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-arch:
+    desc: Installing Openssh-client on Arch Linux
+    desc-cn: 安装 Openssh 客户端在 Arch Linux 系统
+    cmd: sudo pacman -S openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-manjaro:
+    desc: Installing Openssh-client on Manjaro
+    desc-cn: 安装 Openssh 客户端在 Manjaro 系统
+    cmd: sudo pacman -S openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-opensuse:
+    desc: Installing Openssh-client on OpenSUSE
+    desc-cn: 安装 Openssh 客户端在 OpenSUSE 系统
+    cmd: sudo zypper install openssh
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-client-fedora:
+    desc: Installing Openssh-client on Fedora
+    desc-cn: 安装 Openssh 客户端在 Fedora 系统
+    cmd: sudo dnf install -y openssh-clients
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-local-computer
+
+ssh-server-debian:
+    desc: Installing Openssh-server on Debian
+    desc-cn: 安装 Openssh 服务端在 Debian 系统
+    cmd: sudo apt install openssh-server
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-ubuntu:
+    desc: Installing Openssh-server on Ubuntu
+    desc-cn: 安装 Openssh 服务端在 Ubuntu 系统
+    cmd: sudo apt install openssh-server
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-arch:
+    desc: Installing Openssh-server on Arch Linux
+    desc-cn: 安装 Openssh 服务端在 Arch Linux 系统
+    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-manjaro:
+    desc: Installing Openssh-server on Manjaro
+    desc-cn: 安装 Openssh 服务端在 Manjaro 系统
+    cmd: sudo pacman -S openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-fedora:
+    desc: Installing Openssh-server on Fedora
+    desc-cn: 安装 Openssh 服务端在 Fedora 系统
+    cmd: sudo dnf install -y openssh-server & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-server-opensuse:
+    desc: Installing Openssh-server on OpenSUSE
+    desc-cn: 安装 Openssh 服务端在 OpenSUSE 系统
+    cmd: sudo zypper install openssh & sudo systemctl enable sshd & sudo systemctl start sshd
+    reference: https://averagelinuxuser.com/how-to-install-and-use-ssh-on-linux/#configure-ssh-on-a-remote-computer
+
+ssh-linux-brew:
+    desc: Installing Openssh on Linux with brew
+    desc-cn: 通过 brew 方式安装 Openssh 在 Linux 系统
+    cmd: brew install openssh
+    reference: https://formulae.brew.sh/formula/openssh
+
+ssh-server-macos-macport:
+    desc: Installing Openssh-server on macOS with MacPort
+    desc-cn: 通过 MacPort 方式安装 Openssh 服务端在 macOS 系统
+    cmd: sudo port install openssh
+    reference: https://ports.macports.org/port/openssh/
+
+ssh-macos-brew:
+    desc: Installing Openssh on macOS with brew
+    desc-cn: 通过 brew 方式安装 Openssh 在 macOS 系统
+    cmd: brew install openssh
+    reference: https://formulae.brew.sh/formula/openssh
+
+# zip
+zip-debian:
+    desc: Installing zip file format on Debian
+    desc-cn: 安装 zip 文件格式在 Debian 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-ubuntu:
+    desc: Installing zip file format on Ubuntu
+    desc-cn: 安装 zip 文件格式在 Ubuntu 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-mint:
+    desc: Installing zip file format on Mint
+    desc-cn: 安装 zip 文件格式在 Mint 系统
+    cmd: sudo apt install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+zip-rehl:
+    desc: Installing zip file format on Red Hat Enterprise Linux
+    desc-cn: 安装 zip 文件格式在 Red Hat Enterprise Linux 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-centos:
+    desc: Installing zip file format on CentOS
+    desc-cn: 安装 zip 文件格式在 CentOS 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-fedora:
+    desc: Installing zip file format on Fedora
+    desc-cn: 安装 zip 文件格式在 Fedora 系统
+    cmd: sudo dnf install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+zip-arch:
+    desc: Installing zip file format on Arch Linux
+    desc-cn: 安装 zip 文件格式在 Arch Linux 系统
+    cmd: sudo pacman -S zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+zip-manjaro:
+    desc: Installing zip file format on Manjaro
+    desc-cn: 安装 zip 文件格式在 Manjaro 系统
+    cmd: sudo pacman -S zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+zip-opensuse:
+    desc: Installing zip file format on OpenSUSE
+    desc-cn: 安装 zip 文件格式在 OpenSUSE 系统
+    cmd: sudo zypper install zip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+zip-linux-brew:
+    desc: Installing zip file format on Linux with brew
+    desc-cn: 通过 brew 方式安装 zip 文件格式在 Linux 系统
+    cmd: brew install zip
+    reference: https://formulae.brew.sh/formula/zip#default
+
+zip-macos-brew:
+    desc: Installing zip file format on macOS with brew
+    desc-cn: 通过 brew 方式安装 zip 文件格式在 macOS 系统
+    cmd: brew install zip
+    reference: https://formulae.brew.sh/formula/zip#default
+
+# unzip
+unzip-debian:
+    desc: Installing unzip file format on Debian
+    desc-cn: 安装 unzip 文件格式在 Debian 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-ubuntu:
+    desc: Installing unzip file format on Ubuntu
+    desc-cn: 安装 unzip 文件格式在 Ubuntu 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-mint:
+    desc: Installing unzip file format on Mint
+    desc-cn: 安装 unzip 文件格式在 Mint 系统
+    cmd: sudo apt install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipubuntu
+
+unzip-rehl:
+    desc: Installing unzip file format on Red Hat Enterprise Linux
+    desc-cn: 安装 unzip 文件格式在 Red Hat Enterprise Linux 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-centos:
+    desc: Installing unzip file format on CentOS
+    desc-cn: 安装 unzip 文件格式在 CentOS 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-fedora:
+    desc: Installing unzip file format on Fedora
+    desc-cn: 安装 unzip 文件格式在 Fedora 系统
+    cmd: sudo dnf install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#zipcentos
+
+unzip-arch:
+    desc: Installing unzip file format on Arch Linux
+    desc-cn: 安装 unzip 文件格式在 Arch Linux 系统
+    cmd: sudo pacman -S unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+unzip-manjaro:
+    desc: Installing unzip file format on Manjaro
+    desc-cn: 安装 unzip 文件格式在 Manjaro 系统
+    cmd: sudo pacman -S unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+unzip-opensuse:
+    desc: Installing unzip file format on OpenSUSE
+    desc-cn: 安装 unzip 文件格式在 OpenSUSE 系统
+    cmd: sudo zypper install unzip
+    reference: https://www.tecmint.com/install-zip-and-unzip-in-linux/#ziparch
+
+unzip-linux-brew:
+    desc: Installing unzip file format on Linux with brew
+    desc-cn: 通过 brew 方式安装 unzip 文件格式在 Linux 系统
+    cmd: brew install unzip
+    reference: https://formulae.brew.sh/formula/unzip#default
+
+unzip-macos-brew:
+    desc: Installing unzip file format on macOS with brew
+    desc-cn: 通过 brew 方式安装 unzip 文件格式在 macOS 系统
+    cmd: brew install unzip
+    reference: https://formulae.brew.sh/formula/unzip#default
+
+# Wine
+wine-debian:
+    desc: Installing wine core package on Debian
+    desc-cn: 安装 wine 组件在 Debian 系统
+    cmd: apt-get install wine
+    reference: https://command-not-found.com/wine
+
+wine-ubuntu:
+    desc: Installing wine core package on Ubuntu
+    desc-cn: 安装 wine 组件在 Ubuntu 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-alpine:
+    desc: Installing wine core package on Alpine
+    desc-cn: 安装 wine 组件在 Alpine 系统
+    cmd: apk add wine
+    reference: https://command-not-found.com/wine
+
+wine-kali:
+    desc: Installing wine core package on Kali Linux
+    desc-cn: 安装 wine 组件在  Kali Linux 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-fedora:
+    desc: Installing wine core package on Fedora
+    desc-cn: 安装 wine 组件在 Fedora 系统
+    cmd: dnf install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-raspbian:
+    desc: Installing wine core package on Raspbian
+    desc-cn: 安装 wine 组件在 Raspbian 系统
+    cmd: apt-get install wine-core
+    reference: https://command-not-found.com/wine
+
+wine-macos-brew:
+    desc: Installing wine core package on macOS with brew
+    desc-cn: 通过 brew 方式安装 wine 组件在 macOS 系统
+    cmd: brew install wine
+    reference: hhttps://command-not-found.com/wine
+
+# EndSection
+
+# Section: Compiler
+gcc-debian:
+    desc: Installing GCC Compiler on Debian
+    desc-cn: 安装 GCC 编译器在 Debian 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+
+gcc-ubuntu:
+    desc: Installing GCC Compiler on Ubuntu
+    desc-cn: 安装 GCC 编译器在 Ubuntu 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+
+gcc-arch:
+    desc: Installing GCC Compiler on Arch Linux
+    desc-cn: 安装 GCC 编译器在 Arch Linux 系统
+    cmd: sudo apt install build-essential
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+
+gcc-rhel:
+    desc: Installing GCC Compiler on Red Hat Enterprise Linux
+    desc-cn: 安装 GCC 编译器在 Red Hat Enterprise Linux 系统
+    cmd: sudo yum install gcc -y
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+
+gcc-fedora:
+    desc: Installing GCC Compiler on Fedora
+    desc-cn: 安装 GCC 编译器在 Fedora 系统
+    cmd: sudo yum install gcc -y
+    reference: https://www.ubuntupit.com/how-to-install-and-use-gcc-compiler-on-linux-system/
+
+gcc-centos:
+    desc: Installing GCC Compiler on Centos
+    desc-cn: 安装 GCC 编译器在 Centos 系统
+    cmd: sudo yum install gcc
+    reference: https://linuxize.com/post/how-to-install-gcc-compiler-on-centos-7/
+
+gcc-linux-brew:
+    desc: Installing GCC Compiler on Linux with brew
+    desc-cn: 通过 brew 方式安装 GCC 编译器在 Linux 系统
+    cmd: brew install gcc
+    reference: https://formulae.brew.sh/formula/gcc#default
+
+gcc-macos-brew:
+    desc: Installing GCC Compiler on macOS
+    desc-cn: 安装 GCC 编译器在 macOS 系统
+    cmd: brew install gcc
+    reference: https://formulae.brew.sh/formula/gcc#default
+
+# gcc-windows:
+
+# EndSection
+
+# Section: Database
+# MySQL
+mysql-rhel:
+    desc: Installing MySQL on Red Hat Enterprise Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Red Hat Enterprise Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-centos:
+    desc: Installing MySQL on CentOS Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 CentOS 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-oracle:
+    desc: Installing MySQL on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-Debian:
+    desc: Installing MySQL on Debian Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Debian 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-ubuntu:
+    desc: Installing MySQL on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-sles:
+    desc: Installing MySQL on SUSE Linux Enterprise Server (SLES) Using the MySQL SLES Repository
+    desc-cn: 使用 MySQL SLES 存储库在 SUSE Linux Enterprise Server (SLES) 上安装 MySQL
+    cmd: sudo zypper install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-sles-repo-quick-guide/en/#repo-qg-sles-fresh-install
+
+mysql-fedora:
+
+mysql-linux-brew:
+    desc: Installing MySQL on Linux with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 Linux 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+mysql-macos-brew:
+    desc: Installing MySQL on macOS with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 macOS 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+# Workbench
+workbench-oracle:
+    desc: Installing Workbench on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 上安装 Workbench
+    cmd: sudo yum install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-ubuntu:
+    desc: Installing Workbench on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 Workbench
+    cmd: sudo apt-get install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-fedora:
+    desc: Installing Workbench on Fedora Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Fedora 上安装 Workbench
+    cmd: sudo dnf install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+workbench-macos-brew:
+    desc: Installing Workbench on macOS with brew
+    desc-cn: 通过 brew 方式安装 Workbench 在 macOS 系统
+    cmd: brew install --cask workbench
+    reference: https://formulae.brew.sh/cask/workbench#default
+
+# PostgreSQL
+postgresql-Linux:
+    desc: Installing PostgreSQL on Linux
+    desc-cn: 在 Linux 系统上安装 PostgreSQL
+    cmd: wget ftp://ftp.postgresql.org/pub/source/v9.3.2/postgresql-9.3.2.tar.bz2 && sudo apt-get install build-essential libreadline-dev zlib1g-dev flex bison libxml2-dev libxslt-dev libssl-dev
+    reference: https://gist.github.com/15Dkatz/321e83c4bdd7b78c36884ce92db26d38
+
+postgresql-linux-brew:
+    desc: Installing PostgreSQL on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
+postgresql-macos-brew:
+    desc: Installing PostgreSQL on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
+postgresql-debian:
+    desc: Installing PostgreSQL on Debian Using the PostgreSQL APT Repository
+    desc-cn: 使用 PostgreSQLL APT 存储库在 Debian 上安装 PostgreSQL
+    cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
+    reference: https://www.postgresql.org/download/linux/debian/
+
+postgresql-ubuntu:
+    desc: Installing PostgreSQL on Ubuntu Using the PostgreSQL APT Repository
+    desc-cn: 使用 PostgreSQLL APT 存储库在 Ubuntu 上安装 PostgreSQL
+    cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
+    reference: https://www.postgresql.org/download/linux/ubuntu/
+
+postgresql-rhel6-x86_64:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux x86_64 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linux x86_64 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-x86_64/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
+
+postgresql-rhel6-i386:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux i386 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linuxi386 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-i386/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
+
+# SQLite
+sqlite-linux-brew:
+    desc: Installing SQLite on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
+
+sqlite-debian:
+    desc: Installing SQLite on Debian
+    desc-cn: 在 Debian  系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-ubuntu:
+    desc: Installing SQLite on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-centos:
+    desc: Installing SQLite on CentOS
+    desc-cn: 在 CentOS 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-fedora:
+    desc: Installing SQLite on Fedora
+    desc-cn: 在 Fedora 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-rhel:
+    desc: Installing SQLite on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-macos-brew:
+    desc: Installing SQLite on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
+
+# Redis
+redis-linux:
+    desc: Installing Redis on Linux
+    desc-cn: 在 Linux 系统上安装 Redis
+    cmd: wget http://download.redis.io/redis-stable.tar.gz && tar xvzf redis-stable.tar.gz && cd redis-stable && make
+    reference: https://redis.io/topics/quickstart
+
+redis-linux-brew:
+    desc: Installing Redis on Linux
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+redis-macos-brew:
+    desc: Installing Redis on macOS
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+# HBase
+hbase-linux-brew:
+    desc: Installing HBase on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+
+hbase-macos-brew:
+    desc: Installing HBase on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+
+# Service
+# Nginx
+nginx-linux-brew:
+    desc: Installing Nginx on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+    cmd: brew install nginx
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+nginx-macos-brew:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Nginx
+    cmd: brew install nginx
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+nginx-ubuntu:
+    desc: Installing Nginx on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 Nginx
+    cmd: sudo apt update && sudo apt install nginx
+    reference: https://www.nginx.com/resources/wiki/start/topics/tutorials/install/
+
+nginx-debian:
+    desc: Installing Nginx on Debian
+    desc-cn: 在 Debian 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+nginx-centos:
+    desc: Installing Nginx on CentOS
+    desc-cn: 在 CentOS 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+nginx-rhel:
+    desc: Installing Nginx on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+# Apache
+apache-macos-brew:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Nginx
+    cmd: brew install httpd
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+apache-linux-brew:
+    desc: Installing Nginx on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+    cmd: brew install httpd
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+apache-centos:
+    desc: Installing Apache web server on CentOS 7/8
+    desc-cn: 在 CentOS 7/8 系统上安装 Apache web server
+    cmd: sudo yum install httpd
+    reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+apache-Ubuntu:
+    desc: Installing Apache web server on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 Apache web server
+    cmd: sudo apt-get install apache2
+    reference: https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
+
+apache-debian:
+    desc: Installing Apache web server on Debian
+    desc-cn: 在Debian 系统上安装 Apache web server
+    cmd: sudo apt-get install apache2
+    reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+# Tomcat
+tomcat-macos-brew:
+    desc: Installing Tomcat on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default
+
+tomcat-linux-brew:
+    desc: Installing Tomcat on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default
