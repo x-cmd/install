@@ -3,11 +3,13 @@ oh-my-zsh:
     desc-cn: 它在 zsh 提供主题和插件管理器
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     reference: https://github.com/ohmyzsh/ohmyzsh
+
 oh-my-bash:
     desc: It provides theme and plugin manager in bash
     desc-cn: 它在 bash 提供主题和插件管理器
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
     reference: https://github.com/ohmybash
+
 oh-my-fish:
     desc: It provides theme and plugin manager in fish
     desc-cn: 它在 fish 提供主题和插件管理器
