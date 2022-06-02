@@ -1,0 +1,33 @@
+k3s:
+    desc: Lightweight Kubernetes
+    desc-cn: 轻量级 kubernetes.
+    cmd: curl -sfL https://get.k3s.io | sh -
+    reference: https://github.com/k3s-io/k3s/releases/tag/v1.22.3+k3s1
+
+
+# kubectl
+kubectl:
+    desc: The Kubernetes command-line tool on Linux
+    desc-cn: 适配 Linux 系统的 Kubernetes 命令行工具
+    reference: https://github.com/kubernetes/kubectl
+    cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl"
+    macos:
+        cmd: curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
+    win:
+        cmd: curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/windows/amd64/kubectl.exe
+
+
+#minikube
+minikube:
+    desc: A utility you can use to run Kubernetes (k8s)
+    desc-cn: 用来运行Kubernetes(K8S)的实用程序
+    cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
+    reference: https://github.com/kubernetes/minikube
+
+    macos:
+      desc: Installing minikube on macOS With Homebrew
+      desc-cn: 通过 Homebrew 方式安装 minikube 在 Mac 系统
+      cmd: brew install minikube
+      reference: https://formulae.brew.sh/formula/minikube
+
+
