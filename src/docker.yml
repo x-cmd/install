@@ -1,0 +1,31 @@
+# Section: Container
+# docker
+docker:
+    desc: Installing Docker
+    desc-cn: 安装 Docker
+    cmd: curl -sSL https://get.docker.com/ | sh
+    reference: https://github.com/docker/docker-install
+    macos:
+      cmd: brew install --cask --appdir=/Applications docker
+      reference: https://www.runoob.com/docker/macos-docker-install.html
+
+test-docker:
+    desc: docker install
+    desc-cn: docker 预览版安装
+    cmd: curl https://test.docker.com | sh -c
+    reference: https://github.com/docker/docker-install
+
+#minikube
+minikube-linux:
+    desc: A utility you can use to run Kubernetes (k8s)
+    desc-cn: 用来运行Kubernetes(K8S)的实用程序
+    cmd: curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \&& chmod +x minikube
+    reference: https://github.com/kubernetes/minikube
+
+minikube-macos-brew:
+    desc: Installing minikube on macOS With Homebrew
+    desc-cn: 通过 Homebrew 方式安装 minikube 在 Mac 系统
+    cmd: brew install minikube
+    reference: https://formulae.brew.sh/formula/minikube
+
+
