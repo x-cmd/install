@@ -1,0 +1,84 @@
+
+nginx:
+  linux:
+    brew:
+      desc: Installing Nginx on Linux with brew
+      desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+      cmd: brew install nginx
+      reference: https://formulae.brew.sh/formula/nginx#default
+
+  macos:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Nginx
+    cmd: brew install nginx
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+  ubuntu:
+    desc: Installing Nginx on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 Nginx
+    cmd: sudo apt update && sudo apt install nginx
+    reference: https://www.nginx.com/resources/wiki/start/topics/tutorials/install/
+
+  debian:
+    desc: Installing Nginx on Debian
+    desc-cn: 在 Debian 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+  centos:
+    desc: Installing Nginx on CentOS
+    desc-cn: 在 CentOS 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+  rhel:
+    desc: Installing Nginx on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 Nginx
+    cmd: sudo yum install epel-release && sudo yum update && sudo yum install nginx
+    reference: https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+# Apache
+apache:
+  macos > brew:
+    desc: Installing Nginx on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Nginx
+    cmd: brew install httpd
+    reference: https://formulae.brew.sh/formula/nginx#default
+
+  linux:
+    brew:
+      desc: Installing Nginx on Linux with brew
+      desc-cn: 通过 brew 方式在 Linux 系统上安装 Nginx
+      cmd: brew install httpd
+      reference: https://formulae.brew.sh/formula/nginx#default
+
+    centos:
+      desc: Installing Apache web server on CentOS 7/8
+      desc-cn: 在 CentOS 7/8 系统上安装 Apache web server
+      cmd: sudo yum install httpd
+      reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+    Ubuntu:
+      desc: Installing Apache web server on Ubuntu
+      desc-cn: 在 Ubuntu 系统上安装 Apache web server
+      cmd: sudo apt-get install apache2
+      reference: https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
+
+    debian:
+      desc: Installing Apache web server on Debian
+      desc-cn: 在Debian 系统上安装 Apache web server
+      cmd: sudo apt-get install apache2
+      reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
+
+tomcat:
+  macos > brew:
+    desc: Installing Tomcat on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default
+
+  linux > brew:
+    desc: Installing Tomcat on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Tomcat
+    cmd: brew install tomcat
+    reference: https://formulae.brew.sh/formula/tomcat#default

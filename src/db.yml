@@ -1,0 +1,195 @@
+
+# Section: Database
+# MySQL
+mysql-rhel:
+    desc: Installing MySQL on Red Hat Enterprise Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Red Hat Enterprise Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-centos:
+    desc: Installing MySQL on CentOS Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 CentOS 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-oracle:
+    desc: Installing MySQL on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 系统上安装 MySQL
+    cmd: sudo yum install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+mysql-Debian:
+    desc: Installing MySQL on Debian Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Debian 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-ubuntu:
+    desc: Installing MySQL on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 MySQL
+    cmd: sudo apt-get install mysql-server
+    reference: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+mysql-sles:
+    desc: Installing MySQL on SUSE Linux Enterprise Server (SLES) Using the MySQL SLES Repository
+    desc-cn: 使用 MySQL SLES 存储库在 SUSE Linux Enterprise Server (SLES) 上安装 MySQL
+    cmd: sudo zypper install mysql-community-server
+    reference: https://dev.mysql.com/doc/mysql-sles-repo-quick-guide/en/#repo-qg-sles-fresh-install
+
+mysql-fedora:
+
+mysql-linux-brew:
+    desc: Installing MySQL on Linux with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 Linux 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+mysql-macos-brew:
+    desc: Installing MySQL on macOS with brew
+    desc-cn: 通过 brew 方式安装 MySQL 在 macOS 系统
+    cmd: brew install mysql
+    reference: https://formulae.brew.sh/formula/mysql#default
+
+# Workbench
+workbench-oracle:
+    desc: Installing Workbench on Oracle Linux Using the MySQL Yum Repository
+    desc-cn: 使用 MySQL Yum 存储库在 Oracle Linux 上安装 Workbench
+    cmd: sudo yum install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-ubuntu:
+    desc: Installing Workbench on Ubuntu Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Ubuntu 上安装 Workbench
+    cmd: sudo apt-get install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html
+
+workbench-fedora:
+    desc: Installing Workbench on Fedora Using the MySQL APT Repository
+    desc-cn: 使用 MySQL APT 存储库在 Fedora 上安装 Workbench
+    cmd: sudo dnf install mysql-workbench-community
+    reference: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation-yum-repo.html
+
+workbench-macos-brew:
+    desc: Installing Workbench on macOS with brew
+    desc-cn: 通过 brew 方式安装 Workbench 在 macOS 系统
+    cmd: brew install --cask workbench
+    reference: https://formulae.brew.sh/cask/workbench#default
+
+# PostgreSQL
+postgresql-Linux:
+    desc: Installing PostgreSQL on Linux
+    desc-cn: 在 Linux 系统上安装 PostgreSQL
+    cmd: wget ftp://ftp.postgresql.org/pub/source/v9.3.2/postgresql-9.3.2.tar.bz2 && sudo apt-get install build-essential libreadline-dev zlib1g-dev flex bison libxml2-dev libxslt-dev libssl-dev
+    reference: https://gist.github.com/15Dkatz/321e83c4bdd7b78c36884ce92db26d38
+
+postgresql-linux-brew:
+    desc: Installing PostgreSQL on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
+postgresql-macos-brew:
+    desc: Installing PostgreSQL on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 PostgreSQL
+    cmd: brew install postgresql
+    reference: https://formulae.brew.sh/formula/postgresql#default
+
+postgresql-debian:
+    desc: Installing PostgreSQL on Debian Using the PostgreSQL APT Repository
+    desc-cn: 使用 PostgreSQLL APT 存储库在 Debian 上安装 PostgreSQL
+    cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
+    reference: https://www.postgresql.org/download/linux/debian/
+
+postgresql-ubuntu:
+    desc: Installing PostgreSQL on Ubuntu Using the PostgreSQL APT Repository
+    desc-cn: 使用 PostgreSQLL APT 存储库在 Ubuntu 上安装 PostgreSQL
+    cmd: sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add - && sudo apt-get update && sudo apt-get -y install postgresql
+    reference: https://www.postgresql.org/download/linux/ubuntu/
+
+postgresql-rhel6-x86_64:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux x86_64 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linux x86_64 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-x86_64/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
+
+postgresql-rhel6-i386:
+    desc: Installing PostgreSQL on Red Hat Enterprise Linux i386 version 6 Using the PostgreSQL Yum Repository
+    desc-cn: 使用 PostgreSQLL Yum 存储库在 Red Hat Enterprise Linuxi386 版本6 上安装 PostgreSQL
+    cmd: sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-6-i386/pgdg-redhat-repo-latest.noarch.rpm && sudo yum install -y postgresql14-server && sudo service postgresql-14 initdb && sudo chkconfig postgresql-14 on && sudo service postgresql-14 start
+    reference: https://www.postgresql.org/download/linux/redhat/
+
+# SQLite
+sqlite-linux-brew:
+    desc: Installing SQLite on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
+
+sqlite-debian:
+    desc: Installing SQLite on Debian
+    desc-cn: 在 Debian  系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-ubuntu:
+    desc: Installing SQLite on Ubuntu
+    desc-cn: 在 Ubuntu 系统上安装 SQLite
+    cmd: sudo apt-get install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-centos:
+    desc: Installing SQLite on CentOS
+    desc-cn: 在 CentOS 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-fedora:
+    desc: Installing SQLite on Fedora
+    desc-cn: 在 Fedora 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-rhel:
+    desc: Installing SQLite on Red Hat Enterprise Linux
+    desc-cn: 在 Red Hat Enterprise Linux 系统上安装 SQLite
+    cmd: sudo yum install sqlite3
+    reference: https://www.servermania.com/kb/articles/install-sqlite/
+
+sqlite-macos-brew:
+    desc: Installing SQLite on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS 系统上安装 SQLite
+    cmd: brew install sqlite
+    reference: https://formulae.brew.sh/formula/sqlite#default
+
+# Redis
+redis-linux:
+    desc: Installing Redis on Linux
+    desc-cn: 在 Linux 系统上安装 Redis
+    cmd: wget http://download.redis.io/redis-stable.tar.gz && tar xvzf redis-stable.tar.gz && cd redis-stable && make
+    reference: https://redis.io/topics/quickstart
+
+redis-linux-brew:
+    desc: Installing Redis on Linux
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+redis-macos-brew:
+    desc: Installing Redis on macOS
+    desc-cn: 通过 brew 方式在 macOS系统上安装 Redis
+    cmd: brew install redis
+    reference: https://formulae.brew.sh/formula/redis#default
+
+# HBase
+hbase-linux-brew:
+    desc: Installing HBase on Linux with brew
+    desc-cn: 通过 brew 方式在 Linux 系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+
+hbase-macos-brew:
+    desc: Installing HBase on macOS with brew
+    desc-cn: 通过 brew 方式在 macOS系统上安装 HBase
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
