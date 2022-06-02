@@ -1,8 +1,7 @@
 vim:
-  '#desc':    Installing vim text editor on Debian
-  apt:        sudo apt install vim
-  dnf:        sudo dnf install vim
-  pacman:     sudo pacman -S vim
-  zypper:     sudo zypper install vim
-
-
+  desc:         Installing vim text editor on Debian
+  rule:
+    apt:        sudo apt install vim
+    dnf:        sudo dnf install vim
+    pacman:     sudo pacman -S vim
+    zypper:     sudo zypper install vim
