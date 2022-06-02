@@ -12,265 +12,93 @@ rust:
 
 # Perl
 perl:
+  desc-cn: 在 UNIX 系统上安装 Perl
+  desc: Installing Perl on Unix
   unix:
-    desc: Installing Perl on Unix
-    desc-cn: 在 UNIX 系统上安装 Perl
     cmd: curl -L http://xrl.us/installperlnix | bash
     reference: https://learn.perl.org/installing/unix_linux.html
   linux:
-    desc: Installing Perl on Linux
-    desc-cn: 在 Linux 系统上安装 Perl
     cmd: curl -L http://xrl.us/installperlnix | bash
     reference: https://learn.perl.org/installing/unix_linux.html
   macos:
-    desc: Installing Perl on macOS
-    desc-cn: 在 MacOS 上安装 Perl
     cmd: curl -L http://xrl.us/installperlosx | bash
     reference: https://learn.perl.org/installing/osx.html
 
 
-
-
-
-
-# Section: Development Language
-
-
-#Python
-python-linux:
-    desc: Installing Python on Linux
-    desc-cn: 安装 Python 在 Linux 系统
-    cmd: pip install git+https://github.com/srsudar/eg.git
-    reference: https://ostechnix.com/install-python-packages-from-github-on-linux/
-
-python-centos:
-    desc: Installing Python on CentOS
-    desc-cn: 安装 Python 在 CentOS 系统
-    cmd: sudo yum update && sudo dnf install python
-    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
-
-python-rhel:
-    desc: Installing Python on Red Hat Linux
-    desc-cn: 安装 Python 在 Red Hat Linux 系统
-    cmd: sudo yum update && sudo dnf install python
-    reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
-
-python-ubuntu:
-    desc: Installing Python on Ubuntu
-    desc-cn: 安装 Python 在 Ubuntu 系统
-    cmd: sudo apt-get update && sudo apt-get install python
-    reference: https://www.makeuseof.com/install-python-ubuntu/
-
 # Java
-java8-macos-brew:
-    desc: Installing Java8 on macOS with brew
-    desc-cn: 通过 brew 方式安装 Java8 在 Mac 系统
-    cmd: brew cask install java8
-    reference: https://gist.github.com/jonjack/898efa5ccc79c140533ed53e0b1edbad
+# java8-macos-brew:
+#     desc: Installing Java8 on macOS with brew
+#     desc-cn: 通过 brew 方式安装 Java8 在 Mac 系统
+#     cmd: brew cask install java8
+#     reference: https://gist.github.com/jonjack/898efa5ccc79c140533ed53e0b1edbad
 
-java-debian:
-    desc: Installing Java on Debian
-    desc-cn: 安装 Java 在 Debian 系统
-    cmd: apt-get install java
-    reference: https://command-not-found.com/java
-
-java-ubuntu:
-    desc: Installing Java on Ubuntu
-    desc-cn: 安装 Java 在 Ubuntu 系统
-    cmd: apt-get install java
-    reference: https://command-not-found.com/java
-
-java-arch:
-    desc: Installing Java on Arch Linux
-    desc-cn: 安装 Java 在 Arch Linux 系统
-    cmd: pacman -S java
-    reference: https://command-not-found.com/java
-
-java-kali:
-    desc: Installing Java on Kali Linux
-    desc-cn: 安装 Java 在 Kali Linux 系统
-    cmd: apt-get install java
-    reference: https://command-not-found.com/java
-
-java-centos:
-    desc: Installing Java on CentOS
-    desc-cn: 安装 Java 在 CentOS 系统
-    cmd: yum install java
-    reference: https://command-not-found.com/java
-
-java-fedora:
-    desc: Installing Java on Fedora
-    desc-cn: 安装 Java 在 Fedora 系统
-    cmd: dnf install java
-    reference: https://command-not-found.com/java
-
-java-raspbian:
-    desc: Installing Java on Raspbian
-    desc-cn: 安装 Java 在 Raspbian 系统
-    cmd: apt-get install java
-    reference: https://command-not-found.com/java
+java:
+  desc: Installing Java on Debian
+  desc-cn: 安装 Java 在 Debian 系统
+  apt:
+  apt-get:
+  pacman:
+  dnf:
+  yum:
 
 # Go
-go-macos-brew:
-    desc: Installing Go language on macOS with brew
-    desc-cn: 通过 brew 方式安装 Go 语言在 Mac 系统
-    cmd: brew install go
+go:
+  reference: https://command-not-found.com/go
+  brew:
     reference: https://formulae.brew.sh/formula/go#default
-
-go-linux-brew:
-    desc: Installing Go language on Linux with brew
-    desc-cn: 通过 brew 方式安装 Go 语言在 Linux 系统
-    cmd: brew install go
-    reference: https://formulae.brew.sh/formula/go#default
-
-go-debian:
-    desc: Installing Go language on Debian
-    desc-cn: 安装 Go 语言在 Debian 系统
-    cmd: apt-get install golang-bin
-    reference: https://command-not-found.com/go
-
-go-ubuntu:
-    desc: Installing Go language on Ubuntu
-    desc-cn: 安装 Go 语言在 Ubuntu 系统
-    cmd: apt-get install golang-bin
-    reference: https://command-not-found.com/go
-
-go-alpine:
-    desc: Installing Go language on Alpine
-    desc-cn: 安装 Go 语言在 Alpine 系统
-    cmd: apk add go
-    reference: https://command-not-found.com/go
-
-go-arch:
-    desc: Installing Go language on Arch Linux
-    desc-cn: 安装 Go 语言在 Arch Linux 系统
-    cmd: pacman -S go
-    reference: https://command-not-found.com/go
-
-go-kali:
-    desc: Installing Go language on Kali Linux
-    desc-cn: 安装 Go 语言在 Kali Linux 系统
-    cmd: apt-get install golang-bin
-    reference: https://command-not-found.com/go
-
-go-fedora:
-    desc: Installing Go language on Fedora
-    desc-cn: 安装 Go 语言在 Fedora 系统
-    cmd: dnf install golang-bin
-    reference: https://command-not-found.com/go
-
-go-raspbian:
-    desc: Installing Go language on Raspbian
-    desc-cn: 安装 Go 语言在 Raspbian 系统
-    cmd: apt-get install golang-bin
-    reference: https://command-not-found.com/go
+  apt:
+    name: golang-bin
+  apk:
+  pacman:
+  dnf:
+    name: golang-bin
 
 # PHP
-php-debian:
-    desc: Installing PHP language on Debian
-    desc-cn: 安装 PHP 语言在 Debian 系统
-    cmd: apt-get install php
-    reference: https://command-not-found.com/php
-
-php-ubuntu:
-    desc: Installing PHP language on Ubuntu
-    desc-cn: 安装 PHP 语言在 Ubuntu 系统
-    cmd: apt-get install php
-    reference: https://command-not-found.com/php
-
-php-alpine:
-    desc: Installing PHP language on Alpine
-    desc-cn: 安装 PHP 语言在 Alpine 系统
-    cmd: apk add php
-    reference: https://command-not-found.com/php
-
-php-arch:
-    desc: Installing PHP language on Arch Linux
-    desc-cn: 安装 PHP 语言在 Arch Linux 系统
-    cmd: pacman -S php
-    reference: https://command-not-found.com/php
-
-php-kali:
-    desc: Installing PHP language on Kali Linux
-    desc-cn: 安装 PHP 语言在 Kali Linux 系统
-    cmd: apt-get install php
-    reference: https://command-not-found.com/php
-
-php-centos:
-    desc: Installing PHP language on CentOS
-    desc-cn: 安装 PHP 语言在 CentOS 系统
-    cmd: yum install php-cli
-    reference: https://command-not-found.com/php
-
-php-fedora:
-    desc: Installing PHP language on Fedora
-    desc-cn: 安装 PHP 语言在 Fedora 系统
-    cmd: dnf install php-cli
-    reference: https://command-not-found.com/php
-
-php-raspbian:
-    desc: Installing PHP language on Raspbian
-    desc-cn: 安装 PHP 语言在 Raspbian 系统
-    cmd: apt-get install php
-    reference: https://command-not-found.com/php
-
-php-macos-brew:
-    desc: Installing PHP language on MacOS with brew
-    desc-cn: 通过 brew 方式安装 PHP 语言在 MacOS 系统
-    cmd: brew install php
-    reference: https://formulae.brew.sh/formula/php#default
-
-php-linux-brew:
-    desc: Installing PHP language on Linux with brew
-    desc-cn: 通过 brew 方式安装 PHP 语言在 Linux 系统
-    cmd: brew install php
-    reference: https://formulae.brew.sh/formula/php#default
+php:
+  apt:
+  apt-get:
+  dnf:
+  yum:
+  pacman:
+  brew:
 
 # PHP-curl
 # https://www.geeksforgeeks.org/how-to-install-php-curl-in-ubuntu/
 
-# C++ support for GCC
-c++-debian:
-    desc: Installing C++ language on Debian support for GCC
-    desc-cn: 安装 C++ 语言在 Debian 系统的 GCC 编译器
-    cmd: apt-get install gcc-c++
-    reference: https://command-not-found.com/c++
 
-c++-ubuntu:
-    desc: Installing C++ language on Ubuntu support for GCC
-    desc-cn: 安装 C++ 语言在 Ubuntu 系统的 GCC 编译器
-    cmd: apt-get install gcc-c++
-    reference: https://command-not-found.com/c++
+gcc-c++:
+  desc: Installing C++ language on Debian support for GCC
+  desc-cn: 安装 C++ 语言在 Debian 系统的 GCC 编译器
+  reference: https://command-not-found.com/c++
+  apt:
+  apt-get:
+  dnf:
+  yum:
 
-c++-arch:
-    desc: Installing C++ language on Arch Linux support for GCC
-    desc-cn: 安装 C++ 语言在 Arch Linux 系统的 GCC 编译器
-    cmd: pacman -S gcc-c++
-    reference: https://command-not-found.com/c++
 
-c++-kali:
-    desc: Installing C++ language on Kali Linux support for GCC
-    desc-cn: 安装 C++ 语言在 Kali Linux 系统的 GCC 编译器
-    cmd: apt-get install gcc-c++
-    reference: https://command-not-found.com/c++
+#Python
+# python:
+#     desc: Installing Python on Linux
+#     desc-cn: 安装 Python 在 Linux 系统
+#     cmd: pip install git+https://github.com/srsudar/eg.git
+#     reference: https://ostechnix.com/install-python-packages-from-github-on-linux/
 
-c++-centos:
-    desc: Installing C++ language on CentOS support for GCC
-    desc-cn: 安装 C++ 语言在 CentOS 系统的 GCC 编译器
-    cmd: yum install gcc-c++
-    reference: https://command-not-found.com/c++
+# python-centos:
+#     desc: Installing Python on CentOS
+#     desc-cn: 安装 Python 在 CentOS 系统
+#     cmd: sudo yum update && sudo dnf install python
+#     reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
 
-c++-fedora:
-    desc: Installing C++ language on Fedora support for GCC
-    desc-cn: 安装 C++ 语言在 Fedora 系统的 GCC 编译器
-    cmd: dnf install gcc-c++
-    reference: https://command-not-found.com/c++
+# python-rhel:
+#     desc: Installing Python on Red Hat Linux
+#     desc-cn: 安装 Python 在 Red Hat Linux 系统
+#     cmd: sudo yum update && sudo dnf install python
+#     reference: https://docs.vmware.com/en/VMware-vSphere-Bitfusion/4.0/Example-Guide/GUID-D3A136D1-0EA1-4CD0-AFCF-7FD88299A53A.html
 
-c++-raspbian:
-    desc: Installing C++ language on Raspbian support for GCC
-    desc-cn: 安装 C++ 语言在 Raspbian 系统的 GCC 编译器
-    cmd: apt-get install gcc-c++
-    reference: https://command-not-found.com/c++
+# python-ubuntu:
+#     desc: Installing Python on Ubuntu
+#     desc-cn: 安装 Python 在 Ubuntu 系统
+#     cmd: sudo apt-get update && sudo apt-get install python
+#     reference: https://www.makeuseof.com/install-python-ubuntu/
 
-# EndSection
 
