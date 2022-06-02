@@ -1,0 +1,27 @@
+# https://nodejs.org/en/download/package-manager/
+node:
+    desc: Installing Node.js on macOS with curl
+    desc-cn: 通过 curl 方式安装 Node.js 在 Mac 系统
+    cmd: curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
+    reference: https://nodejs.org/en/download/package-manager/#macos
+    brew:
+    port:
+      name: port install nodejs7
+    win:
+      reference: https://nodejs.org/en/download/package-manager/#windows-1
+      chocolatey:
+        cmd: cinst nodejs.install
+      scoop:
+        cmd: scoop install nodejs
+    pacman:
+      cmd: pacman -S nodejs npm
+      reference: https://nodejs.org/en/download/package-manager/#arch-linux
+    dnf:
+      cmd: dnf module install nodejs:17
+      reference: https://nodejs.org/en/download/package-manager/#centos-fedora-and-red-hat-enterprise-linux
+    apt:
+      name: nodejs
+      reference: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+    freebsd:
+      pkg:
+        reference: https://nodejs.org/en/download/package-manager/#freebsd
