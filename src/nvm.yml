@@ -1,0 +1,17 @@
+nvm:
+    desc: Node version manager
+    desc-cn: Node 版本管理器
+    cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+    reference: https://github.com/nvm-sh/nvm/blob/master/install.sh
+
+# nvm-linux-brew:
+#     desc: Installing version manager for Node on Linux with brew
+#     desc-cn: 通过 brew 方式安装 Node 版本管理器在 Linux 系统
+#     cmd: brew install nvm
+#     reference: https://formulae.brew.sh/formula/nvm#default
+
+# nvm-macos-brew:
+#     desc: Installing version manager for Node on macOS with brew
+#     desc-cn: 通过 brew 方式安装 Node 版本管理器在 macOS 系统
+#     cmd: brew install nvm
+#     reference: https://formulae.brew.sh/formula/nvm#default
