@@ -18,8 +18,6 @@ podman:
     rhel8:
       cmd: sudo yum module enable -y container-tools:rhel8 && sudo yum module install -y container-tools:rhel8
 
-
-
 # Podman
 # podman-macos-brew:
 #     desc: Installing Podman on macOS with brew
