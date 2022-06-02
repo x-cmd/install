@@ -39,11 +39,12 @@ nginx:
 
 # Apache
 apache:
-  macos > brew:
-    desc: Installing Nginx on macOS with brew
-    desc-cn: 通过 brew 方式在 macOS 系统上安装 Nginx
-    cmd: brew install httpd
-    reference: https://formulae.brew.sh/formula/nginx#default
+  macos:
+    brew:
+      desc: Installing Nginx on macOS with brew
+      desc-cn: 通过 brew 方式在 macOS 系统上安装 Nginx
+      cmd: brew install httpd
+      reference: https://formulae.brew.sh/formula/nginx#default
 
   linux:
     brew:
@@ -71,14 +72,16 @@ apache:
       reference: https://www.layerstack.com/resources/tutorials/Installing-Apache-server-on-Linux-Cloud-Servers
 
 tomcat:
-  macos > brew:
-    desc: Installing Tomcat on macOS with brew
-    desc-cn: 通过 brew 方式在 macOS 系统上安装 Tomcat
-    cmd: brew install tomcat
-    reference: https://formulae.brew.sh/formula/tomcat#default
+  macos:
+    brew:
+      desc: Installing Tomcat on macOS with brew
+      desc-cn: 通过 brew 方式在 macOS 系统上安装 Tomcat
+      cmd: brew install tomcat
+      reference: https://formulae.brew.sh/formula/tomcat#default
 
-  linux > brew:
-    desc: Installing Tomcat on Linux with brew
-    desc-cn: 通过 brew 方式在 Linux 系统上安装 Tomcat
-    cmd: brew install tomcat
-    reference: https://formulae.brew.sh/formula/tomcat#default
+  linux:
+    brew:
+      desc: Installing Tomcat on Linux with brew
+      desc-cn: 通过 brew 方式在 Linux 系统上安装 Tomcat
+      cmd: brew install tomcat
+      reference: https://formulae.brew.sh/formula/tomcat#default
