@@ -1,0 +1,61 @@
+
+# GAWK
+linux-brew:
+    desc: Installing GAWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 GAWK 在 Linux 系统
+    cmd: brew install gawk
+    reference: https://formulae.brew.sh/formula/gawk#default
+
+macos-brew:
+    desc: Installing GAWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 GAWK 在 Mac 系统
+    cmd: brew install gawk
+    reference: https://formulae.brew.sh/formula/gawk#default
+
+debian:
+    desc: Installing GAWK on Debian
+    desc-cn: 安装 GAWK 在 Debian 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+ubuntu:
+    desc: Installing GAWK on Ubuntu
+    desc-cn: 安装 GAWK 在 Ubuntu 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+alpine:
+    desc: Installing GAWK on Alpine
+    desc-cn: 安装 GAWK 在 Alpine 系统
+    cmd: apk add gawk
+    reference: https://command-not-found.com/gawk
+
+arch:
+    desc: Installing GAWK on Arch Linux
+    desc-cn: 安装 GAWK 在 Arch Linux 系统
+    cmd: pacman -S gawk
+    reference: https://command-not-found.com/gawk
+
+kali:
+    desc: Installing GAWK on Kali Linux
+    desc-cn: 安装 GAWK 在 Kali Linux 系统
+    cmd: apt-get install gawk
+    reference: https://command-not-found.com/gawk
+
+centos:
+    desc: Installing GAWK on CentOS
+    desc-cn: 安装 GAWK 在 CentOS 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
+
+fedora:
+    desc: Installing GAWK on Fedora
+    desc-cn: 安装 GAWK 在 Fedora 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
+
+raspbian:
+    desc: Installing GAWK on Raspbian
+    desc-cn: 安装 GAWK 在 Raspbian 系统
+    cmd: yum install gawk
+    reference: https://command-not-found.com/gawk
