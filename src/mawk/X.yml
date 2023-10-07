@@ -1,0 +1,42 @@
+# MAWK
+linux/brew:
+    desc: Installing MAWK on Linux with brew
+    desc-cn: 通过 brew 方式安装 MAWK 在 Linux 系统
+    cmd: brew install mawk
+    reference: https://formulae.brew.sh/formula/mawk#default
+
+macos/brew:
+    desc: Installing MAWK on macOS with brew
+    desc-cn: 通过 brew 方式安装 MAWK 在 Mac 系统
+    cmd: brew install mawk
+    reference: https://formulae.brew.sh/formula/mawk#default
+
+debian:
+    desc: Installing MAWK on Debian
+    desc-cn: 安装 MAWK 在 Debian 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+ubuntu:
+    desc: Installing MAWK on Ubuntu
+    desc-cn: 安装 MAWK 在 Ubuntu 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+kali:
+    desc: Installing MAWK on Kali Linux
+    desc-cn: 安装 MAWK 在 Kali Linux 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
+
+fedora:
+    desc: Installing MAWK on Fedora
+    desc-cn: 安装 MAWK 在 Fedora 系统
+    cmd: dnf install mawk
+    reference: https://command-not-found.com/mawk
+
+raspbian:
+    desc: Installing MAWK on Raspbian
+    desc-cn: 安装 MAWK 在 Raspbian 系统
+    cmd: apt-get install mawk
+    reference: https://command-not-found.com/mawk
