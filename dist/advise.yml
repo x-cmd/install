@@ -133,3 +133,8 @@ win:
   - powershell
   - winget
   - choco
+  - msys2
+dragonflybsd:
+  - ravensw
+silverblue:
+  - ostree
