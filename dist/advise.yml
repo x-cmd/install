@@ -4,70 +4,84 @@ darwin:
   - wget
   - port
   - nix
+  - sdk
 debian:
   - apt
   - curl
   - brew
   - wget
+  - sdk
 ubuntu:
   - apt
   - curl
   - brew
   - wget
+  - sdk
 alpine:
   - apk
   - curl
   - brew
   - wget
+  - sdk
 arch:
   - pacman
   - curl
   - brew
   - wget
   - yay
+  - pacaur
+  - trizen
 kali:
   - apt
   - curl
   - brew
   - wget
+  - sdk
 raspbian:
   - apt
   - curl
   - brew
   - wget
+  - sdk
 fedora:
   - dnf
   - yum
   - curl
   - brew
   - wget
+  - sdk
 rhel:
   - dnf
   - yum
   - curl
   - brew
   - wget
+  - sdk
 centos:
   - dnf
   - yum
   - curl
   - brew
   - wget
+  - sdk
 gentoo:
   - emerge
   - curl
   - brew
   - wget
+  - sdk
 opensuse:
   - zypper
   - curl
   - brew
   - wget
+  - sdk
 mageia:
   - urpmi
   - curl
   - brew
   - wget
+  - sdk
 nix:
   - flakes
   - nixpkg
@@ -76,6 +90,7 @@ nix:
   - curl
   - brew
   - wget
+  - sdk
 freebsd:
   - pkg
   - curl
@@ -138,3 +153,7 @@ dragonflybsd:
   - ravensw
 silverblue:
   - ostree
+amazon:
+  - yum
+openembedded:
+  - bitbake
