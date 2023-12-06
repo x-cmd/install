@@ -5,18 +5,33 @@ darwin:
   - port
   - nix
   - sdk
+  - go
 debian:
   - apt
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 ubuntu:
   - apt
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
+  - pip
+mint:
+  - apt
+  - curl
+  - brew
+  - wget
+  - sdk
+  - snap
+  - flatpak
+  - pip
 alpine:
   - apk
   - curl
@@ -29,20 +44,30 @@ arch:
   - brew
   - wget
   - yay
+  - pakku
   - pacaur
+  - pikaur
   - trizen
+  - aura
+  - aurman
+  - snap
+  - flatpak
 kali:
   - apt
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 raspbian:
   - apt
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 fedora:
   - dnf
   - yum
@@ -50,6 +75,17 @@ fedora:
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
+rocky:
+  - dnf
+  - yum
+  - curl
+  - brew
+  - wget
+  - sdk
+  - snap
+  - flatpak
 rhel:
   - dnf
   - yum
@@ -57,6 +93,7 @@ rhel:
   - brew
   - wget
   - sdk
+  - flatpak
 centos:
   - dnf
   - yum
@@ -64,18 +101,24 @@ centos:
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 gentoo:
   - emerge
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 opensuse:
   - zypper
   - curl
   - brew
   - wget
   - sdk
+  - snap
+  - flatpak
 mageia:
   - urpmi
   - curl
@@ -91,6 +134,7 @@ nix:
   - brew
   - wget
   - sdk
+  - flatpak
 freebsd:
   - pkg
   - curl
@@ -157,3 +201,25 @@ amazon:
   - yum
 openembedded:
   - bitbake
+elementary:
+  - apt
+  - snap
+  - flatpak
+neon:
+  - apt
+  - snap
+  - flatpak
+kubuntu:
+  - apt
+  - snap
+  - flatpak
+manjaro:
+  - apt
+  - pacman
+  - flatpak
+pop:
+  - apt
+  - snap
+  - flatpak
+chrome:
+  - crew
