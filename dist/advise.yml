@@ -225,3 +225,5 @@ chrome:
   - crew
 guixos:
   - guix
+termux:
+  - pkg
