@@ -193,6 +193,14 @@ win:
   - winget
   - choco
   - msys2
+wsl2:
+  - curl
+  - scoop
+  - wget
+  - powershell
+  - winget
+  - choco
+  - msys2
 dragonflybsd:
   - ravensw
 silverblue:
