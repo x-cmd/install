@@ -193,6 +193,7 @@ win:
   - winget
   - choco
   - msys2
+  - vcpkg
 wsl2:
   - curl
   - scoop
