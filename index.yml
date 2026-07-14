@@ -1117,6 +1117,13 @@ wine-macos-brew:
     cmd: brew install wine
     reference: hhttps://command-not-found.com/wine
 
+# lha: static binary (.lzh / LZH archiver) — Linux/macOS/Windows
+lha:
+    desc: Install lha (35-year-old .lzh archiver) as a single static binary
+    desc-cn: 安装 lha（35 年的 .lzh 归档器）为单文件静态二进制
+    cmd: x eget use lha
+    reference: https://github.com/ljh-sh/lha
+
 # EndSection
 
 # Section: Text editor
