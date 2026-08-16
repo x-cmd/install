@@ -122,6 +122,11 @@ def main():
             except Exception as e:
                 print(f"Error processing {file_path}: {e}", file=sys.stderr)
 
+    # as_completed returns rows in random order; sort by (category, name)
+    # so the output is byte-stable across runs. The skip-if-unchanged
+    # check downstream depends on this.
+    rows.sort(key=lambda r: (r[1], r[0]))
+
     with open(args.output, 'w') as out:
         out.write('\t'.join(HEADER) + '\n')
         for row in rows:
