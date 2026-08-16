@@ -8,6 +8,44 @@
 
 ---
 
+## Format versioning
+
+> Design rationale (each `x install` version pins to one format; all formats get rebuilt daily with latest data) lives in [README.md](README.md) → "Format versioning". This section is the **operational** side.
+
+### When a bump is needed
+
+| change | bump? |
+|---|---|
+| add a column to the TSV | yes (new major format) |
+| rename or remove a column | yes |
+| change TSV escape rules | yes |
+| restructure the inline `rule:` JSON shape | yes |
+| add a new optional field inside `rule:` JSON | **no** — backward-compat within the format |
+| update `binlist` / `desc.cn` values across many yml | **no** — data only |
+| change the yml schema under `src/` | yes (the input schema is its own contract) |
+
+The principle: anything that would force a consumer to re-parse is a bump; anything that just adds data isn't.
+
+### How to ship a new format (e.g., `v2`)
+
+1. **Write `.x-cmd/v2.yml2tsv.py`** — mirror v1's structure with the new schema. Each format gets its own script.
+2. **Open a PR.** That's it. The workflow globs `.x-cmd/v*.yml2tsv.py` on every run, picks up `v2` automatically, and uploads `v2.all.tsv` + `v2.all.tar.xz` alongside the existing `v1` assets.
+3. **Update the README "Format versioning" section** so future contributors know `v2` exists.
+
+After merge, the release carries `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`. `v1` consumers see no change; `v2` consumers fetch the new assets.
+
+### What never changes
+
+- **The yml schema under `src/`** — input is its own stable contract; output format is the thing that moves.
+- **The release pattern** — one immutable release per UTC day, named `v<YYYYMMDD>`, built at 12:00 UTC (= 20:00 Asia/Shanghai).
+- **The `v0.1.0` branch** — historical snapshot, frozen.
+
+### What happens to old formats
+
+Old format versions are **frozen, not patched**. If a bug is found in `v1` output, the fix lives in `v2` — `v1` stays as it was. This is the whole point of the version boundary: it gives consumers a clean, opt-in upgrade path with no surprise breakage.
+
+---
+
 ## Design
 
 ### Why two separate workflows (release-today + update-dev-release)?

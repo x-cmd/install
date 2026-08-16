@@ -48,43 +48,28 @@ x-cmd-install/
 
 ---
 
-## 格式版本
+## 格式版本：设计向前兼容
 
-流水线输出**带版本的契约**——`v1.all.tsv` / `v1.all.tar.xz` 是 v1 的契约；`v2.all.tsv` / `v2.all.tar.xz` 是 v2 的。每个版本发布后独立冻结。
+`x install` 从本仓库读包索引。不同版本的 `x install` 消费不同的**格式版本**：
 
-breaking change 不改老版本，而是发新版本（v2、v3、...）。老版本永远继续打包、不动，所以用老版本的 consumer 不会爆。本节讲这个流程。
+- `x install` v1.x → 读 `v1.all.tsv`
+- `x install` v2.x → 读 `v2.all.tsv`
+- ...
 
-整套流水线按 **多格式持续打包** 来设计：每个发布过的格式版本都会**永远**被每天重建并上传，新旧并存。新格式加进来；老格式再也不改。
+每个格式版本是**冻结的 schema**（列名、转义规则、`rule:` JSON 结构）。一旦发布，永不改。
 
-### 什么时候必须升版本
+但**数据持续更新**：每当 `src/` 下加了新包，pipeline 给**所有**已发布的格式（v1、v2、...）都打一份最新的内容。每天重建一次。
 
-| 改动 | 升版本？ |
-|---|---|
-| TSV 加列 | 升（新 major format） |
-| 列改名 / 删列 | 升 |
-| TSV 转义规则变 | 升 |
-| 内嵌 `rule:` JSON 结构变 | 升 |
-| `rule:` JSON 内加新的可选字段 | **不升**（format 内向后兼容） |
-| 批量改 `binlist` / `desc.cn` 内容 | **不升**（只是数据） |
-| 改 `src/` 下的 yml schema | 升（输入 schema 自己也是契约） |
+效果：
 
-### 怎么发布新格式（比如 `v2`）
+- 老的 `x install` v1.x 永远读 `v1.all.tsv` —— schema 不变
+- 但 `v1.all.tsv` 带着今天最新的包和 rule
+- 新包自动出现在老 consumer 里 —— **不用升级 `x install` 也能看到**
+- 真要 breaking schema 改动（加列、改转义）才发 v2 —— 老 consumer 不动
 
-1. **写 `.x-cmd/v2.yml2tsv.py`**——照 v1 的结构，新 schema。每个格式独立一个脚本。
-2. **提 PR**。完事。workflow 每次跑都 glob `.x-cmd/v*.yml2tsv.py`，自动挑到 v2，跟 v1 的资产一起上传。
-3. **更新本节 README**——让未来贡献者知道 v2 存在。
+这就是"向前兼容"：新数据对老格式自动可见；breaking change 才需要新格式版本。
 
-merge 之后，release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`。用 v1 的 consumer 不受影响；想用 v2 的抓新资产。
-
-### 永远不变的东西
-
-- **`src/` 下 yml schema** —— 输入是独立的稳定契约；改的是输出格式。
-- **release 模式** —— 每个 UTC 日一个不可变 release，命名 `v<YYYYMMDD>`，UTC 12:00 构建（= 北京时间 20:00）。每个 release 创建一次，永不修改。最近的 release 标记为 "Latest"。
-- **`v0.1.0` branch** —— 历史快照，冻结。
-
-### 老格式的命运
-
-老格式版本**冻结，不补 patch**。如果 v1 输出有 bug，修在 v2 里——v1 保持原样。这正是版本边界存在的意义：让 consumer 有一个干净的、可选的升级路径，不会突然爆掉。
+运维那一侧（什么时候升、怎么发 v2、什么永远不动）见 [FAQ.cn.md](FAQ.cn.md) → "格式版本"。
 
 ---
 

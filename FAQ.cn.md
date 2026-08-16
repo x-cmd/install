@@ -6,6 +6,44 @@
 
 ---
 
+## 格式版本
+
+> 设计理由（每个 `x install` 版本绑一种格式、所有格式每天用最新数据重建）见 [README.md](README.md) → "格式版本"。本节是**运维**那一侧。
+
+### 什么时候必须升版本
+
+| 改动 | 升版本？ |
+|---|---|
+| TSV 加列 | 升（新 major format） |
+| 列改名 / 删列 | 升 |
+| TSV 转义规则变 | 升 |
+| 内嵌 `rule:` JSON 结构变 | 升 |
+| `rule:` JSON 内加新的可选字段 | **不升**（format 内向后兼容） |
+| 批量改 `binlist` / `desc.cn` 内容 | **不升**（只是数据） |
+| 改 `src/` 下的 yml schema | 升（输入 schema 自己也是契约） |
+
+原则：会让 consumer 不得不重新解析的就是 bump；只加数据的不算。
+
+### 怎么发新格式（比如 `v2`）
+
+1. **写 `.x-cmd/v2.yml2tsv.py`** —— 照 v1 的结构，新 schema。每个格式独立一个脚本。
+2. **提 PR**。完事。workflow 每次跑都 glob `.x-cmd/v*.yml2tsv.py`，自动挑到 `v2`，跟 v1 的资产一起上传。
+3. **更新 README "格式版本" 节** —— 让未来贡献者知道 `v2` 存在。
+
+merge 之后 release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`。v1 consumer 不受影响；v2 consumer 抓新资产。
+
+### 永远不变的东西
+
+- **`src/` 下 yml schema** —— 输入是独立的稳定契约；改的是输出格式。
+- **release 模式** —— 每个 UTC 日一个不可变 release，命名 `v<YYYYMMDD>`，UTC 12:00 构建（= 北京时间 20:00）。
+- **`v0.1.0` branch** —— 历史快照，冻结。
+
+### 老格式的命运
+
+老格式版本**冻结，不补 patch**。如果 v1 输出有 bug，修在 v2 里 —— v1 保持原样。这正是版本边界存在的意义：让 consumer 有一个干净的、可选的升级路径，不会突然爆掉。
+
+---
+
 ## Design
 
 ### 为什么是两个 workflow（release-today + update-dev-release），不是一个？
