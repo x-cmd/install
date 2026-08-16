@@ -65,8 +65,6 @@ Open the interactive UI from your terminal with `x i` (short for `x install`):
 
 <img width="1188" height="677" alt="x eget uses install data" src="https://github.com/user-attachments/assets/cc7f81bd-8007-4825-8725-22bd9d400910" />
 
-([issue #81](https://github.com/x-cmd/install/issues/81))
-
 ---
 
 ## Repository layout
