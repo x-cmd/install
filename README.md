@@ -19,7 +19,7 @@ In short: x-cmd has the brain; this repo has the lookup table.
 
 Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml template, and quality bar.
 
-The one thing we ask before you open a PR: the upstream project must have **>1 month of maintenance** and **active development within the last month** — this keeps the index trustworthy. See CONTRIBUTING → "Quality bar" for details and the exception path.
+The one thing we ask before you open a PR: the upstream project must show **ongoing active development** — not a one-off burst followed by silence, but a steady cadence of commits and releases over its lifetime. This keeps the index trustworthy. See CONTRIBUTING → "Quality bar" for details and the exception path.
 
 中文版见 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
 

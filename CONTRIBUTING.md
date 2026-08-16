@@ -106,18 +106,15 @@ Be conservative: don't change install commands unless the upstream docs explicit
 
 ## Quality bar (maintainers will check)
 
-A submission **will be carefully reviewed — and may be declined** if the upstream project:
-
-- has been under maintenance for **less than 1 month**, OR
-- has had **no active development** in the last 1 month — measured by commits, releases, or meaningful issue/PR activity.
+A submission **will be carefully reviewed — and may be declined** if the upstream project doesn't show **ongoing active development** — i.e., not a one-off burst followed by silence, but a steady cadence of commits, releases, or meaningful issue/PR activity over its lifetime.
 
 Before submitting, check:
 
-- GitHub Insights → Contributors (commit history)
-- Releases tab (most recent release date)
-- Recent issue / PR activity (is the maintainer responsive?)
+- GitHub Insights → Contributors (commit cadence over the project's lifetime)
+- Releases tab (are releases happening on a regular schedule?)
+- Recent issue / PR activity (is the maintainer still responsive?)
 
-If you believe a submission deserves an exception (e.g., a security-critical tool from a solo maintainer who's temporarily quiet), call it out in the PR description.
+If you believe a submission deserves an exception (e.g., a security-critical tool from a solo maintainer who's temporarily quiet, or a long-running stable project with infrequent but real releases), call it out in the PR description.
 
 ---
 

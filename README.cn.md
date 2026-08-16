@@ -19,7 +19,7 @@
 
 入口在 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**，里面是完整流程、yml 模板、质量门槛。
 
-唯一请你在开 PR 前确认一下：上游项目必须有 **1 个月以上维护** 且 **最近 1 个月内活跃开发**。这条是让索引值得信任的底线，详见 CONTRIBUTING.cn.md → "质量门槛"（含破例通道）。
+唯一请你在开 PR 前确认一下：上游项目必须有**持续的活跃开发**——不是一次性爆发就停，而是长期持续有 commit 和 release。这条是让索引值得信任的底线，详见 CONTRIBUTING.cn.md → "质量门槛"（含破例通道）。
 
 英文版 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 
