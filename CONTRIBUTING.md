@@ -116,6 +116,16 @@ Before submitting, check:
 
 If you believe a submission deserves an exception (e.g., a security-critical tool from a solo maintainer who's temporarily quiet, or a long-running stable project with infrequent but real releases), call it out in the PR description.
 
+## What we reject
+
+We love interesting new tools, but this isn't a marketing page. The following will be declined (and existing entries removed) without further discussion:
+
+- Tools that engage in **malicious behavior**
+- Tools that **collect user privacy** without clear, prominent disclosure
+- Tools that **hide what they do** — undocumented network calls, hidden background processes, obfuscated payloads
+
+`x install` runs on the user's machine, so the final say is the user's. But on the index side, we try to be one extra check.
+
 ---
 
 ## PR process
