@@ -1,4 +1,4 @@
-name: Release dev data
+name: Update dev release
 
 on:
   workflow_dispatch:

@@ -7,8 +7,8 @@
 > 🧪 **`dev` release** 在每次手动触发 "Release dev data" workflow 时覆盖更新 —— 测试用的移动靶。标记为 "Pre-release"，不会抢每日 `Latest`。
 >
 > Actions tab 里两个按钮：
-> - **Release stable data** —— 每日 cron + 手动；创建不可变 `v<YYYYMMDD>`（标 Latest）。
-> - **Release dev data** —— 仅手动；替换 `dev` release 资产（Pre-release）。
+> - **Release today** —— 每日 cron + 手动；创建/替换 `v<YYYYMMDD>`（标 Latest）。
+> - **Update dev release** —— 仅手动；替换 `dev` release 资产（Pre-release）。
 
 ---
 

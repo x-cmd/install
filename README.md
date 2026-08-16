@@ -7,8 +7,8 @@ A curated package index that powers [`x install`](https://x-cmd.com) and `x eget
 > 🧪 A **`dev` release** is updated on every manual trigger of the `Release dev data` workflow — a moving build target for testing. Marked "Pre-release", so it never overrides the daily `Latest` release.
 >
 > Two workflow buttons in the Actions tab:
-> - **Release stable data** — daily cron + manual; creates immutable `v<YYYYMMDD>` (marked Latest).
-> - **Release dev data** — manual only; replaces the `dev` release assets (Pre-release).
+> - **Release today** — daily cron + manual; creates/replaces `v<YYYYMMDD>` (marked Latest).
+> - **Update dev release** — manual only; replaces the `dev` release assets (Pre-release).
 
 ---
 
