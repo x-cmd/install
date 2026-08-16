@@ -109,6 +109,21 @@ x-cmd-install/
 
 ---
 
+## AI agent 怎么直接用这份数据
+
+AI 编程助手（Claude Code、Cursor 等）可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
+
+1. 拉 TSV（≈ 2,350 行，扁平索引）：
+   ```bash
+   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+   ```
+
+2. 解析：表头是 `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`，每行一个包。`rule` 列是 compact JSON 对象，键为 `<os>/<tool>`，值为对应安装命令。
+
+3. 按用户的 OS / 包管理器匹配，返回对应命令。
+
+需要 license、`x.source`、自定义字段等更全的元数据时，改拉 `all.tar.xz` 读原始 yml。
+
 ## FAQ
 
 ### 我想给 `x install` 或 `x eget` 贡献代码，去哪个仓库？

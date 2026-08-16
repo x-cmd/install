@@ -111,9 +111,20 @@ The operational side — when to bump, how to ship `v2`, what stays frozen — l
 
 ---
 
-## How AI Agent use this data directly
+## How AI agents use this data directly
 
-1. download the tsv index directly from xxx
+AI coding agents (Claude Code, Cursor, etc.) can fetch this index to answer "how do I install `<name>`?" without going through `x install` / `x eget`:
+
+1. Fetch the TSV (≈ 2,350 rows, flat index):
+   ```bash
+   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+   ```
+
+2. Parse: the header is `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`. Each row is one package. The `rule` column is a compact JSON object mapping `<os>/<tool>` → install command.
+
+3. Match against the user's OS / package manager and respond with the matching command.
+
+For richer metadata (license, `x.source`, custom fields), fetch `all.tar.xz` instead and read the raw yml.
 
 ## FAQ
 
