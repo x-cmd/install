@@ -127,6 +127,17 @@ There are two workflow buttons in the Actions tab:
 
 For stable data, use the latest `v<YYYYMMDD>`. For testing the next build, use `dev`.
 
+### How do I report a broken or outdated entry?
+
+Open an issue at <https://github.com/x-cmd/install/issues/new>. Include:
+
+- The package name (e.g. `fd`)
+- The OS you tried on
+- The error message (if any)
+- A link to the upstream changelog / release notes showing the install method changed
+
+We'll turn it into a fix PR or label it `[REC]` for someone to pick up.
+
 ---
 
 ## License

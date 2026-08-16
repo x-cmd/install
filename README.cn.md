@@ -129,6 +129,17 @@ Actions tab 里两个按钮：
 
 要稳定数据 → 用最新 `v<YYYYMMDD>`。要测下一个 build → 用 `dev`。
 
+### 怎么报告一个失效或过期的条目？
+
+在 <https://github.com/x-cmd/install/issues/new> 开 issue，附上：
+
+- 包名（如 `fd`）
+- 试的 OS
+- 错误信息（如果有）
+- 上游 changelog / release notes 链接（说明安装方式变了）
+
+我们会转成修复 PR，或打上 `[REC]` 让人接手。
+
 ---
 
 ## 协议
