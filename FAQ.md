@@ -126,7 +126,10 @@ The plan is in [issue #2](https://github.com/x-cmd/install/issues/2) (`Add eget 
 
 ### Why don't we filter by stars (or other popularity metrics)?
 
-Personally I've now hand-reviewed over 2,000 install entries for this index, and the pattern is unmistakable: a lot of the best tools have very few stars. Either they're niche / infrastructure that no one thinks to star, or they're solid work by maintainers who just don't market themselves.
+Personally I've now hand-reviewed over 2,000 install entries. The best tools I came across fall into roughly two camps where stars are misleading:
+
+- **Niche / infrastructure** — utilities that everyone uses but no one thinks to star. A library at the bottom of your stack; a CLI you'd only open if your main tool failed; a config format you'd grep but never star.
+- **Quiet maintainers** — solid work by people who just don't market themselves. No conference talks, no HN post, no "follow me on Twitter". Pure word-of-mouth, if that.
 
 Case in point: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop), a professional Go SMTP/IMAP proxy. When I first added it here, if I remember right, it had about 28 stars; today it's around 50. By any stars-based filter it would have been rejected. By maintenance signals — continuous development, responsive maintainer, does what it says — it cleared easily.
 
