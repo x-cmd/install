@@ -24,24 +24,41 @@ jobs:
           sudo chmod +x /usr/local/bin/yq
           yq --version
 
-      - name: Convert yml to all.tsv
-        run: python3 .x-cmd/yml2tsv.py src -o all.tsv
+      - name: Build each supported format
+        run: |
+          set -e
+          while IFS= read -r N; do
+            # skip blanks and comments
+            case "$N" in ''|\#*) continue ;; esac
+            script=".x-cmd/v${N}.yml2tsv.py"
+            if [ ! -f "$script" ]; then
+              echo "::error::missing script for format v$N: $script"
+              exit 1
+            fi
+            echo "::group::Building format v$N"
+            python3 "$script" src -o "v${N}.all.tsv"
+            tar -cJf "v${N}.all.tar.xz" "v${N}.all.tsv" src/
+            echo "::endgroup::"
+          done < .format-versions-supported
 
-      - name: Build all.tar.xz
-        run: tar -cJf all.tar.xz all.tsv src/
+      - name: List built artifacts
+        run: ls -la v*.all.tsv v*.all.tar.xz
 
-      - name: Upload to v1.0.0 release
+      - name: Upload to release (main-based, no tag)
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v1.0.0
-          name: "v1.0.0 — x-cmd install data"
+          tag_name: ""
+          target_commitish: main
+          name: "x-cmd install data"
           body: |
             Daily auto-rebuilt package index for `x install`.
-            - `all.tsv` — TSV index (name, category, lang, source, desc_cn/en, binlist, rule, other)
-            - `all.tar.xz` — TSV + full `src/` yml tree
+            Each format version has its own tsv + tarball, continuously
+            rebuilt in parallel. New formats are added by appending to
+            `.format-versions-supported` and dropping a matching
+            `.x-cmd/vN.yml2tsv.py` script.
           files: |
-            all.tsv
-            all.tar.xz
+            v*.all.tsv
+            v*.all.tar.xz
           fail_on_unmatched_files: false
           prerelease: false
           make_latest: true
