@@ -101,14 +101,24 @@ x-cmd-install/
 - `x install` → <https://x-cmd.com/mod/install>
 - `x eget`  → <https://x-cmd.com/mod/eget>
 
-### 怎么消费这份包索引？
+### 第三方工具怎么消费这份包索引？
 
-从 GitHub Releases 拉最新 release 的资产：
+这份索引是给**软件**消费的，不是给人读的。最典型的消费者是 [`x install`](https://x-cmd.com/mod/install) / [`x eget`](https://x-cmd.com/mod/eget) —— 每天拉最新 release，自动挑最优安装规则。
+
+任何第三方工具按同一套接口接入：
+
 ```bash
+# 扁平索引（每行一个包：name + install rule）
 curl -L -o all.tsv    https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+
+# 完整包（索引 + 原始 yml 树一起打包）
 curl -L -o all.tar.xz https://github.com/x-cmd/install/releases/latest/download/v1.all.tar.xz
 ```
-`all.tsv` 是索引；`all.tar.xz` 把索引 + 完整 `src/` yml 树打包在一起。
+
+- `all.tsv` ≈ 2,350 行 TSV —— 只要查"`<name>` 怎么装"用这个。
+- `all.tar.xz` = `all.tsv` + 完整 `src/` yml 树（解压 ~520 KB）—— 需要原始 yml 做元数据查询时用这个。
+
+Schema 细节见 [FAQ.cn.md](FAQ.cn.md) → "格式版本"。
 
 ### 两个 release 通道有什么区别？
 

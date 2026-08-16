@@ -99,14 +99,24 @@ Module docs:
 - `x install` → <https://x-cmd.com/mod/install>
 - `x eget`  → <https://x-cmd.com/mod/eget>
 
-### How do I consume the package index?
+### How does a third-party tool consume this index?
 
-Fetch from the latest GitHub Release:
+This index is for **software** to consume, not humans to read. The canonical consumer is [`x install`](https://x-cmd.com/mod/install) / [`x eget`](https://x-cmd.com/mod/eget) — they fetch the latest release every day and pick the right install rule automatically.
+
+Any third-party tool plugs in the same way:
+
 ```bash
+# Flat index — one row per package (name + install rule)
 curl -L -o all.tsv    https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+
+# Full bundle — index plus the raw yml tree
 curl -L -o all.tar.xz https://github.com/x-cmd/install/releases/latest/download/v1.all.tar.xz
 ```
-`all.tsv` is the index; `all.tar.xz` bundles the index plus the full `src/` yml tree.
+
+- `all.tsv` ≈ 2,350 rows, one per package — use when you just need to look up "how do I install `<name>`".
+- `all.tar.xz` = `all.tsv` plus the complete `src/` yml tree — use when you need the raw yml for richer metadata.
+
+Schema details live in [FAQ.md](FAQ.md) → "Format versioning".
 
 ### What's the difference between the two release channels?
 
