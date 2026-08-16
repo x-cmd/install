@@ -45,14 +45,6 @@ Reference https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md, and submit
 
 Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI coding assistant.
 
-### Quick prompt
-
-```text
-Reference https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md, and submit this tool to x-cmd/install: https://github.com/<owner>/<repo>
-```
-
-Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI coding assistant.
-
 ---
 
 ## Repository layout
