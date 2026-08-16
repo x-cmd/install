@@ -3,7 +3,8 @@
 A curated package index that powers [`x install`](https://x-cmd.com) and `x eget`. Each entry is a small YAML file declaring install rules for one tool across the major OS / package-manager combinations.
 
 > 📦 Browse 2,350+ packages across 70+ categories under [`src/`](src).
-> 🚀 Daily-rebuilt artifacts (TSV + tar.xz) ship as **immutable `vYYYYMMDD` GitHub Releases** — one per UTC day. Consumers fetch from the latest release (marked "Latest"), **not** from `main`.
+> 🚀 Daily-rebuilt artifacts (TSV + tar.xz) ship as **immutable `vYYYYMMDD` GitHub Releases** — one per UTC day at 12:00 UTC (= 20:00 Asia/Shanghai). Consumers fetch from the latest release (marked "Latest"), **not** from `main`.
+> 🧪 A **`dev` release** is updated on every manual trigger of the workflow — a moving build target for testing. Marked "Pre-release", so it never overrides the daily `Latest` release.
 
 ---
 
@@ -65,7 +66,8 @@ After merge, the release carries `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` +
 ### What never changes
 
 - **The yml schema under `src/`** — input is its own stable contract; output format is the thing that moves.
-- **The release pattern** — one immutable release per UTC day, named `v<YYYYMMDD>`. Each release is created once and never modified. The most recent release is marked "Latest".
+- **The release pattern** — one immutable release per UTC day, named `v<YYYYMMDD>`, built at 12:00 UTC (= 20:00 Asia/Shanghai). Each release is created once and never modified. The most recent release is marked "Latest".
+- **The `dev` release** — a single persistent release that gets its assets replaced on every manual workflow run. Marked "Pre-release" so it never overrides Latest.
 - **The `v0.1.0` branch** — historical snapshot, frozen.
 
 ### What happens to old formats

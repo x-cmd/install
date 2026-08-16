@@ -3,7 +3,8 @@
 为 [`x install`](https://x-cmd.com) 和 `x eget` 提供数据的精选软件包索引。每个条目是一个小的 YAML 文件，声明某个工具在主流 OS / 包管理器上的安装规则。
 
 > 📦 浏览 [`src/`](src) 下 70+ 分类、2,350+ 个包
-> 🚀 每日重建的产物（TSV + tar.xz）以 **不可变的 `vYYYYMMDD` GitHub Release** 形式发布 —— 每个 UTC 日一个 release。consumer 从最新的 release（标记为 "Latest"）拉，**不**从 main 拉。
+> 🚀 每日重建的产物（TSV + tar.xz）以 **不可变的 `vYYYYMMDD` GitHub Release** 形式发布 —— 每天 UTC 12:00（= 北京时间 20:00）一个。consumer 从最新的 release（标记为 "Latest"）拉，**不**从 main 拉。
+> 🧪 **`dev` release** 在每次手动触发 workflow 时覆盖更新 —— 测试用的移动靶。标记为 "Pre-release"，不会抢每日 `Latest`。
 
 ---
 
@@ -65,7 +66,8 @@ merge 之后，release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v
 ### 永远不变的东西
 
 - **`src/` 下 yml schema** —— 输入是独立的稳定契约；改的是输出格式。
-- **release 模式** —— 每个 UTC 日一个不可变 release，命名 `v<YYYYMMDD>`。每个 release 创建一次，永不修改。最近的 release 标记为 "Latest"。
+- **release 模式** —— 每个 UTC 日一个不可变 release，命名 `v<YYYYMMDD>`，UTC 12:00 构建（= 北京时间 20:00）。每个 release 创建一次，永不修改。最近的 release 标记为 "Latest"。
+- **`dev` release** —— 一个持续存在的 release，资产在每次手动触发 workflow 时被替换。标记为 "Pre-release"，不会覆盖 Latest。
 - **`v0.1.0` branch** —— 历史快照，冻结。
 
 ### 老格式的命运
