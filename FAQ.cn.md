@@ -10,6 +10,15 @@
 
 > 设计理由（每个 `x install` 版本绑一种格式、所有格式每天用最新数据重建）见 [README.md](README.md) → "格式版本"。本节是**运维**那一侧。
 
+### 两个 release 通道有什么区别？
+
+Actions tab 里两个按钮：
+
+- **Release today** —— 每日 cron（UTC 12:00 = 北京时间 20:00）+ 手动；创建/替换 `v<YYYYMMDD>`（标 "Latest"）。数据完全一致的日子跳过（不打新 tag）。
+- **Update dev release** —— 仅手动；替换 `dev` release 资产（标 "Pre-release"，不会覆盖 Latest）。
+
+要稳定数据 → 用最新 `v<YYYYMMDD>`。要测下一个 build → 用 `dev`。
+
 ### 什么时候必须升版本
 
 | 改动 | 升版本？ |
