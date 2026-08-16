@@ -1,14 +1,10 @@
 # x-cmd install
 
-为 [`x install`](https://x-cmd.com) 和 `x eget` 提供数据的精选软件包索引。每个条目是一个小的 YAML 文件，声明某个工具在主流 OS / 包管理器上的安装规则。
+为 [`x install`](https://x-cmd.com/install) 和 [`x eget`](https://x-cmd.com/mod/eget) 提供数据的精选软件包索引。每个条目是一个小的 YAML 文件，声明某个工具在主流 OS / 包管理器上的安装规则。
 
 > 📦 浏览 [`src/`](src) 下 70+ 分类、2,350+ 个包
 > 🚀 每日重建的产物（TSV + tar.xz）以 **不可变的 `vYYYYMMDD` GitHub Release** 形式发布 —— 每天 UTC 12:00（= 北京时间 20:00）一个。consumer 从最新的 release（标记为 "Latest"）拉，**不**从 main 拉。
-> 🧪 **`dev` release** 在每次手动触发 "Release dev data" workflow 时覆盖更新 —— 测试用的移动靶。标记为 "Pre-release"，不会抢每日 `Latest`。
->
-> Actions tab 里两个按钮：
-> - **Release today** —— 每日 cron + 手动；创建/替换 `v<YYYYMMDD>`（标 Latest）。
-> - **Update dev release** —— 仅手动；替换 `dev` release 资产（Pre-release）。
+
 
 ---
 
