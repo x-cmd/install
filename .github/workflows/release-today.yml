@@ -20,7 +20,8 @@ jobs:
       - name: Set TODAY + YESTERDAY
         run: |
           echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
-          echo "YESTERDAY=$(date -u -d 'yesterday' +%Y%m%d)" >> "$GITHUB_ENV"
+          # TEMP for skip-path demo: pretend yesterday is today (so reference exists)
+          echo "YESTERDAY=20260816" >> "$GITHUB_ENV"
 
       - uses: ./.github/actions/release-data
         with:
