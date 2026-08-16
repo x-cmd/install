@@ -122,6 +122,22 @@ cron 是 `0 12 * * *`。失败在 Actions 里显示红 run。常见原因：
 
 ## Philosophy
 
+### 为什么不用 stars（或其它人气指标）过滤？
+
+stars 衡量的是营销覆盖和已有受众规模，不是工具好不好用。靠 stars 建的索引会偏向"已经火"的工具，错过真正用得上的。
+
+本仓库由审阅过 2,000+ 条 install 的人类维护。诚实的信号是维护本身：项目持续开发吗、维护者响应吗、工具名实相符吗。这能抓到：
+
+- **小众 / 基础设施** —— 枯燥但必需的依赖，没人给 `libfoo` 点 star（每个项目都依赖它）
+- **没推广过** —— 没会议演讲、没 HN 帖、纯口碑传播
+- **维护者不在乎 stars** —— 也无所谓
+
+实际例子：[`ProtonMail/gosop`](https://github.com/ProtonMail/gosop) 是一个维护良好、专业且有用的 Go SMTP/IMAP 代理——当初次被本仓库审阅时只有 29 个 stars；现在 50 个。只看维护就能收进来；只看 stars 就会被丢掉。
+
+我们按"有没有用"策展，不按"火不火"策展。一个 50 star 但用心良作的工具，比一个 10k star 的套壳工具更受欢迎。
+
+---
+
 ### 为什么这仓有 78 个 `[REC]` issue？
 
 是从 `x-cmd/x-cmd` 一批搬过来的——x-cmd monorepo 里 `[REC]` label 历史上是"install recipe request"（每个工具一条 issue）。早就该拆：install 元数据是 data 不是模块代码，公开仓才是该待的地方。迁移用 `gh issue transfer`，状态保留（open + closed 都搬了）。

@@ -124,6 +124,20 @@ The plan is in [issue #2](https://github.com/x-cmd/install/issues/2) (`Add eget 
 
 ## Philosophy
 
+### Why don't we filter by stars (or other popularity metrics)?
+
+Stars measure marketing reach and existing audience size — not whether a tool works. An index based on stars would ship whatever's already popular and miss the projects people actually need.
+
+This repo is curated by humans who've reviewed 2,000+ install entries. The honest signal is maintenance: is the project continuously developed, are maintainers responsive, does it do what it says. That catches tools that are:
+
+- **Niche / infrastructure** — boring-but-essential utilities no one stars (`libfoo` doesn't get a star even if every project depends on it)
+- **Under-promoted** — no conference talks, no HN post, pure word-of-mouth
+- **Maintained by people who don't care about stars** — and that's fine
+
+A real example: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop) is a well-maintained, professional Go SMTP/IMAP proxy — when this repo first looked at it, it had only 29 stars; currently 50. A maintenance-only read would have included it; a stars-filter would have discarded it.
+
+We curate for usefulness, not popularity. A small-star but solid tool is more welcome here than a 10k-star meme wrapper.
+
 ### Why 78 `[REC]` issues in this repo?
 
 They were moved here from `x-cmd/x-cmd` in one batch — the x-cmd monorepo's `[REC]` label historically meant "install recipe request" (one issue per tool to add). The split was overdue: install metadata is data, not module code; the public repo is the right home. The migration was a `gh issue transfer` per issue, with state preserved (open/closed both moved).
