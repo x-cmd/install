@@ -13,6 +13,18 @@ In short: x-cmd has the brain; this repo has the lookup table.
 
 ---
 
+## Our stance
+
+We love interesting new tools, but this isn't a marketing page. The following are auto-declined (and existing entries removed) without further discussion:
+
+- Tools that engage in **malicious behavior**
+- Tools that **collect user privacy** without clear, prominent disclosure
+- Tools that **hide what they do** — undocumented network calls, hidden background processes, obfuscated payloads
+
+`x install` runs on the user's machine, so the final say is the user's. But on the index side, we try to be one extra check.
+
+---
+
 ## Contributing
 
 **You're welcome here.** Whether you want to add a tool you love, fix a wrong URL, or sharpen a translation — small PRs and big PRs alike, we'd love to review them.
@@ -20,8 +32,6 @@ In short: x-cmd has the brain; this repo has the lookup table.
 Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml template, and quality bar.
 
 The one thing we ask before you open a PR: the upstream project must show **ongoing active development** — not a one-off burst followed by silence, but a steady cadence of commits and releases over its lifetime. This keeps the index trustworthy.
-
-We also reject tools with **malicious behavior**, that **collect user privacy** without clear disclosure, or that **hide what they do** — see CONTRIBUTING → "What we reject" for the full policy.
 
 中文版见 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
 
