@@ -4,7 +4,11 @@ A curated package index that powers [`x install`](https://x-cmd.com) and `x eget
 
 > 📦 Browse 2,350+ packages across 70+ categories under [`src/`](src).
 > 🚀 Daily-rebuilt artifacts (TSV + tar.xz) ship as **immutable `vYYYYMMDD` GitHub Releases** — one per UTC day at 12:00 UTC (= 20:00 Asia/Shanghai). Consumers fetch from the latest release (marked "Latest"), **not** from `main`.
-> 🧪 A **`dev` release** is updated on every manual trigger of the workflow — a moving build target for testing. Marked "Pre-release", so it never overrides the daily `Latest` release.
+> 🧪 A **`dev` release** is updated on every manual trigger of the `Release dev data` workflow — a moving build target for testing. Marked "Pre-release", so it never overrides the daily `Latest` release.
+>
+> Two workflow buttons in the Actions tab:
+> - **Release stable data** — daily cron + manual; creates immutable `v<YYYYMMDD>` (marked Latest).
+> - **Release dev data** — manual only; replaces the `dev` release assets (Pre-release).
 
 ---
 

@@ -4,7 +4,11 @@
 
 > 📦 浏览 [`src/`](src) 下 70+ 分类、2,350+ 个包
 > 🚀 每日重建的产物（TSV + tar.xz）以 **不可变的 `vYYYYMMDD` GitHub Release** 形式发布 —— 每天 UTC 12:00（= 北京时间 20:00）一个。consumer 从最新的 release（标记为 "Latest"）拉，**不**从 main 拉。
-> 🧪 **`dev` release** 在每次手动触发 workflow 时覆盖更新 —— 测试用的移动靶。标记为 "Pre-release"，不会抢每日 `Latest`。
+> 🧪 **`dev` release** 在每次手动触发 "Release dev data" workflow 时覆盖更新 —— 测试用的移动靶。标记为 "Pre-release"，不会抢每日 `Latest`。
+>
+> Actions tab 里两个按钮：
+> - **Release stable data** —— 每日 cron + 手动；创建不可变 `v<YYYYMMDD>`（标 Latest）。
+> - **Release dev data** —— 仅手动；替换 `dev` release 资产（Pre-release）。
 
 ---
 
