@@ -2,8 +2,8 @@ name: Build data artifacts
 
 on:
   schedule:
-    # 03:00 UTC daily
-    - cron: '0 3 * * *'
+    # 12:00 UTC daily = 20:00 Asia/Shanghai (UTC+8)
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -39,10 +39,14 @@ jobs:
       - name: List built artifacts
         run: ls -la v*.all.tsv v*.all.tar.xz
 
-      - name: Set today's date (UTC)
+      # ---- Daily release: immutable v<YYYYMMDD> at 12:00 UTC ----
+
+      - name: Set TODAY (daily release tag)
+        if: github.event_name == 'schedule'
         run: echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
 
-      - name: Upload to today's release
+      - name: Upload to daily release
+        if: github.event_name == 'schedule'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ env.TODAY }}
@@ -50,10 +54,31 @@ jobs:
           body: |
             Daily snapshot of the x-cmd install package index.
             Each release `vYYYYMMDD` is immutable — assets reflect the
-            build state at the time of creation.
+            build state at the time of creation (12:00 UTC).
           files: |
             v*.all.tsv
             v*.all.tar.xz
           fail_on_unmatched_files: false
           prerelease: false
           make_latest: true
+
+      # ---- Dev release: replaceable, triggered manually ----
+
+      - name: Upload to dev release (replaceable)
+        if: github.event_name == 'workflow_dispatch'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: dev
+          name: "dev — x-cmd install data (latest manual build)"
+          body: |
+            Latest **manual** build of x-cmd install data.
+
+            Assets get **replaced on every workflow_dispatch run** — this
+            release is a moving target. For stable, immutable daily
+            snapshots, use the `v<YYYYMMDD>` releases (12:00 UTC daily).
+          files: |
+            v*.all.tsv
+            v*.all.tar.xz
+          fail_on_unmatched_files: false
+          prerelease: true
+          make_latest: false
