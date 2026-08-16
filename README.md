@@ -87,7 +87,9 @@ The `v0.1.0` branch is a frozen snapshot of the legacy state (kept for historica
 
 ## Format versioning
 
-The `all.tsv` / `all.tar.xz` artifacts are a **contract with consumers**. Changing them — adding, removing, or renaming a column; changing escape rules; restructuring the inline `rule:` JSON — is a breaking change. This section is the protocol for handling that.
+The pipeline ships **versioned contracts** — `v1.all.tsv` / `v1.all.tar.xz` is the v1 contract with consumers; `v2.all.tsv` / `v2.all.tar.xz` would be v2's. Each version is independently frozen once shipped.
+
+Breaking changes don't modify an existing version — they ship as a new version (v2, v3, ...). The old version keeps packaging forever, untouched, so its existing consumers never break. This section is the protocol for that.
 
 The pipeline is built around **multi-format continuous packaging**: every format version that has ever shipped keeps getting rebuilt and uploaded every day, side by side. New formats are added; old ones never get edited.
 
