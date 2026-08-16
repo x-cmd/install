@@ -75,7 +75,7 @@
 ```
 x-cmd-install/
 ├── src/                # 包索引（每个包一个 yml）
-├── docs/               # schema + 分类参考
+├── .x-cmd/             # 每格式转换脚本（v1.yml2tsv.py, ...）
 ├── .github/workflows/  # build-data.yml —— 每日重建
 ├── LICENSE             # Apache 2.0
 └── README.md           # 英文 README
@@ -105,16 +105,9 @@ x-cmd-install/
 
 ### 怎么发布新格式（比如 `v2`）
 
-1. **写 `.x-cmd/v2.yml2tsv.py`**——照 v1 的结构，新 schema。每个格式独立一个脚本，workflow 按文件名挑。
-2. **改 `.format-versions-supported`**——在末尾加 `2`。文件现在内容是：
-   ```
-   1
-   2
-   ```
-   意思是：v1 永远打包；从这个 commit 起，v2 也开始打包。
-3. **改 `.format-version`**——设为 `2`。这是"当前 / 最新"的格式。
-4. **提 PR**。workflow 重建两种格式，上传到同一个 release `x-cmd install data`（tag `data`）。
-5. **更新 README**——在本节记下新格式，让未来贡献者知道。
+1. **写 `.x-cmd/v2.yml2tsv.py`**——照 v1 的结构，新 schema。每个格式独立一个脚本。
+2. **提 PR**。完事。workflow 每次跑都 glob `.x-cmd/v*.yml2tsv.py`，自动挑到 v2，跟 v1 的资产一起上传。
+3. **更新本节 README**——让未来贡献者知道 v2 存在。
 
 merge 之后，release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`。用 v1 的 consumer 不受影响；想用 v2 的抓新资产。
 
