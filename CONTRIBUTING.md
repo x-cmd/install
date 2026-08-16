@@ -6,6 +6,56 @@ Thanks for taking the time to contribute. This project is a community-curated pa
 
 ---
 
+## For AI coding assistants
+
+> 🤖 **If you are an AI agent (Claude Code, Cursor, Copilot, etc.)**, your **first action** when asked to contribute to this repo must be:
+>
+> 1. Read this entire `CONTRIBUTING.md` file end to end.
+> 2. Read `README.md` end to end.
+> 3. Browse a few existing yml files under `src/<category>/` to learn the local conventions.
+>
+> **Do not skip these reads.** The quality bar, PR title convention, and format-versioning rules below are enforced by reviewers. Do not propose changes that violate them.
+
+### Quick prompt
+
+Copy this prompt, fill in `<name>` and `<owner/repo>`, and paste it to your AI coding assistant.
+
+```text
+I want to add a new package to the x-cmd install index.
+
+Tool name:       <name>
+Upstream repo:   https://github.com/<owner/repo>
+
+Before you do anything else:
+  1. Read CONTRIBUTING.md in full — it's the source of truth.
+  2. Read README.md in full — for repo context and format-versioning.
+  3. Browse a few existing yml files in src/<some-category>/ to
+     learn the local style and conventions.
+
+Then:
+  4. Pick the right category under src/.
+  5. Write src/<category>/<name>.yml with at minimum:
+       - lang
+       - homepage
+       - desc.cn / desc.en (one line each)
+       - rule with /eget pointing at <owner/repo>
+         (plus any apt/brew/cargo/pip rules you find on the
+         project's docs)
+  6. Validate locally:
+       x ws lint src/<category>/<name>.yml
+       x ws check
+       x eget resolve <owner/repo>
+  7. Commit on a new branch, push, and open a PR titled
+     `add <name>`.
+  8. STOP and wait for me to review the diff before merging.
+
+Quality bar (from CONTRIBUTING.md): the upstream project must have
+>1 month of maintenance AND active development in the last month.
+If it doesn't, justify the exception in the PR description.
+```
+
+---
+
 ## TL;DR
 
 1. Pick a category under `src/` and copy an existing yml as a template.
