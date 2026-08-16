@@ -22,38 +22,17 @@ Quick check before opening a PR: the upstream project must have **>1 month of ma
 
 ### Quick prompt
 
-Copy this prompt, fill in `<name>` and `<owner/repo>`, and paste it to your AI coding assistant. It will scaffold the whole contribution for you.
+Copy the prompt below, paste the tool's GitHub URL where indicated, and hand it to your AI coding assistant.
 
 ```text
-I want to add a new package to the x-cmd install index.
+参考 CONTRIBUTING.md (https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md)
+作为唯一权威，然后把这个工具提交到 x-cmd/install 仓库：
 
-Tool name:       <name>
-Upstream repo:   https://github.com/<owner/repo>
+  Tool repo: https://github.com/<paste owner/repo here>
 
-Please:
-1. **Before anything else**: read CONTRIBUTING.md and README.md
-   **in full** — they are the source of truth for this repo. Do not
-   skip the reads; the quality bar, PR title convention, and
-   format-versioning rules are enforced by reviewers.
-2. Pick the right category under src/ (existing yml files in nearby
-   folders are templates — match their style).
-3. Write src/<category>/<name>.yml with at minimum:
-     - lang
-     - homepage
-     - desc.cn / desc.en (one line each)
-     - rule with /eget pointing at <owner/repo>
-       (plus any apt/brew/cargo/pip rules you find on the project's docs)
-4. Validate locally:
-     x ws lint src/<category>/<name>.yml
-     x ws check
-     x eget resolve <owner/repo>
-5. Commit on a new branch, push, and open a PR titled
-   `add <name>`.
-6. Stop and wait for me to review the diff before merging.
-
-Note: the upstream project must have >1 month of maintenance AND
-active development in the last month. If it doesn't, justify the
-exception in the PR description.
+Follow CONTRIBUTING.md end-to-end. Don't skip the quality bar
+(>1 month maintenance + active development in the last month),
+don't skip the local lint commands, don't skip the review step.
 ```
 
 ---

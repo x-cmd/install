@@ -21,34 +21,13 @@
 复制这段、填好 `<name>` 和 `<owner/repo>`、贴给你的 AI 编程助手。
 
 ```text
-我想给 x-cmd install 索引新增一个包。
+参考 CONTRIBUTING.cn.md（本文件，唯一权威），然后把这个工具提交到
+x-cmd/install 仓库：
 
-工具名:        <name>
-上游仓库:      https://github.com/<owner/repo>
+  工具仓库: https://github.com/<在这里贴 owner/repo>
 
-动手之前先做:
-  1. 完整读 CONTRIBUTING.cn.md —— 它是唯一权威。
-  2. 完整读 README.md —— 了解仓库上下文和格式版本协议。
-  3. 翻几个 src/<某个分类>/ 下的现有 yml，学习本仓风格和惯例。
-
-然后:
-  4. 在 src/ 下选合适的分类。
-  5. 写 src/<category>/<name>.yml，至少包含:
-       - lang
-       - homepage
-       - desc.cn / desc.en（各一行）
-       - rule 里 /eget 指向 <owner/repo>
-         （顺便补上你能在项目文档里找到的 apt/brew/cargo/pip 规则）
-  6. 本地校验:
-       x ws lint src/<category>/<name>.yml
-       x ws check
-       x eget resolve <owner/repo>
-  7. 新开一个分支，commit + push，然后提 PR，标题写
-     `add <name>`。
-  8. 停下来，等我 review diff 后再 merge。
-
-质量门槛（来自 CONTRIBUTING.cn.md）：上游项目必须有 1 个月以上维护
-且最近 1 个月内有活跃开发。不满足的话在 PR 描述里写明破例理由。
+按 CONTRIBUTING.cn.md 的流程走完整。不要跳过质量门槛（1 个月以上维护
++ 最近 1 个月内活跃开发），不要跳过本地 lint，不要跳过 review。
 ```
 
 ---
