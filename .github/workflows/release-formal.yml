@@ -1,0 +1,32 @@
+name: Release formal data
+
+on:
+  schedule:
+    # 12:00 UTC daily = 20:00 Asia/Shanghai (UTC+8)
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set TODAY
+        run: echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
+
+      - uses: ./.github/actions/release-data
+        with:
+          tag: v${{ env.TODAY }}
+          name: 'v${{ env.TODAY }} — x-cmd install data'
+          body: |
+            Daily snapshot of the x-cmd install package index.
+            Each release `vYYYYMMDD` is immutable — assets reflect the
+            build state at the time of creation (12:00 UTC).
+          prerelease: 'false'
+          make_latest: 'true'
