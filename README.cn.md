@@ -111,7 +111,9 @@ x-cmd-install/
 
 ## AI agent 怎么直接用这份数据
 
-AI 编程助手（Claude Code、Cursor 等）可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
+通常情况下，直接让 AI 跑 `x install --help` 之类的就行。
+
+但 AI 编程助手（Claude Code、Cursor 等）也可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
 
 1. 拉 TSV（≈ 2,350 行，扁平索引）：
    ```bash

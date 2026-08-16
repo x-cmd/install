@@ -69,7 +69,7 @@ Open the interactive UI from your terminal with `x i` (short for `x install`):
 
 ## How AI agents use this data directly
 
-Normally, you can just ask AI to consult `x install --help`.
+Normally, you can just ask your AI to consult `x install --help`.
 
 However, AI coding agents (Claude Code, Cursor, etc.) can directly fetch this index to answer "how do I install `<name>`?" without going through `x install` / `x eget`:
 
@@ -83,7 +83,6 @@ However, AI coding agents (Claude Code, Cursor, etc.) can directly fetch this in
 3. Match against the user's OS / package manager and respond with the matching command.
 
 For richer metadata (license, `x.source`, custom fields), fetch `all.tar.xz` instead and read the raw yml.
-
 
 ---
 
