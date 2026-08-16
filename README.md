@@ -15,7 +15,7 @@ In short: x-cmd has the brain; this repo has the lookup table.
 
 ## Contributing
 
-**You're welcome here.** Whether you want to add a tool you love, fix a wrong URL, sharpen a translation, or even ship a whole new format version — small PRs and big PRs alike, we'd love to review them.
+**You're welcome here.** Whether you want to add a tool you love, fix a wrong URL, or sharpen a translation — small PRs and big PRs alike, we'd love to review them.
 
 Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml template, and quality bar.
 
