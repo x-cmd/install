@@ -17,7 +17,7 @@ jobs:
       - uses: ./.github/actions/release-data
         with:
           tag: dev
-          name: 'dev — x-cmd install data (latest manual build)'
+          name: dev
           body: |
             Latest **manual** build of x-cmd install data.
 

@@ -23,7 +23,7 @@ jobs:
       - uses: ./.github/actions/release-data
         with:
           tag: v${{ env.TODAY }}
-          name: 'v${{ env.TODAY }} — x-cmd install data'
+          name: v${{ env.TODAY }}
           body: |
             Daily snapshot of the x-cmd install package index.
             Each release `vYYYYMMDD` is immutable — assets reflect the
