@@ -20,6 +20,38 @@
 
 英文版 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 
+### 快速 prompt
+
+复制这段、填好 `<name>` 和 `<owner/repo>`、贴给你的 AI 编程助手 —— 它会替你把整套贡献跑完。
+
+```text
+我想给 x-cmd install 索引新增一个包。
+
+工具名:        <name>
+上游仓库:      https://github.com/<owner/repo>
+
+请:
+1. 读这个仓库的 CONTRIBUTING.md，了解完整流程和质量门槛。
+2. 在 src/ 下选合适的分类（参考附近文件夹里的现有 yml 当模板，
+   风格对齐）。
+3. 写 src/<category>/<name>.yml，至少包含：
+     - lang
+     - homepage
+     - desc.cn / desc.en（各一行）
+     - rule 里 /eget 指向 <owner/repo>
+       （顺便补上你能在项目文档里找到的 apt/brew/cargo/pip 规则）
+4. 本地校验:
+     x ws lint src/<category>/<name>.yml
+     x ws check
+     x eget resolve <owner/repo>
+5. 新开一个分支，commit + push，然后提 PR，标题写
+   `add <name>`。
+6. 停下来等我 review diff 后再 merge。
+
+注意：上游项目必须有 1 个月以上维护 且 最近 1 个月内有活跃开发。
+不满足的话在 PR 描述里写明破例理由。
+```
+
 ---
 
 ## 仓库结构
