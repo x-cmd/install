@@ -7,66 +7,13 @@
 
 ---
 
-## 如何新增一个包
+## 贡献
 
-1. **选分类**：在 `src/` 下找合适的目录（分类习惯看每个子目录里现有 yml —— 它们就是模板）。
-2. **创建 `src/<category>/<your-tool>.yml`**，最小示例：
+想新增包、修错 URL、改翻译？完整流程、yml 模板、质量门槛、PR 流程都在 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
 
-   ```yaml
-   lang: Rust
-   homepage: https://github.com/owner/repo
-   license: MIT
+提 PR 前快速自查：上游项目必须有 **1 个月以上维护** 且 **最近 1 个月内活跃开发**。详见 CONTRIBUTING.cn.md → "质量门槛"。
 
-   desc:
-     cn: 一行中文描述
-     en: One-line English description
-
-   rule:
-     /eget:
-       cmd: x eget owner/repo
-       reference: https://github.com/owner/repo
-     darwin/brew:
-       cmd: brew install repo
-       reference: https://formulae.brew.sh/formula/repo
-     /cargo:
-       cmd: cargo install repo
-       reference: https://crates.io/crates/repo
-       dsnap: repo
-
-   binlist:
-     - repo
-   ```
-
-3. **本地校验**：
-
-   ```bash
-   x ws lint src/<category>/<your-tool>.yml   # schema + URL 检查
-   x ws check                                  # 命名冲突扫描
-   x eget resolve owner/repo                   # 验证 /eget 规则
-   ```
-
-4. **提 PR**。CI 跑同样 lint；规则坏了或字段缺失会在 review 里被标出。
-
-完整字段（多规则语法、语言包管理器 `dsnap`、可选 `binlist` 等）看 `src/<category>/` 下现有的 yml —— 每种支持的写法都有示例。
-
----
-
-## 质量门槛
-
-包索引的价值取决于它列出的包的质量。我们对这份索引有严格要求，上游项目符合以下**任一条件**的提交会被**非常慎重考虑**（甚至拒绝）：
-
-- 维护时间**不足 1 个月**
-- 最近 1 个月内**无活跃开发**（commit、release、有意义的 issue / PR 活动）
-
-提交前自查：
-
-- **commit 历史** —— GitHub Insights → Contributors
-- **release 节奏** —— Releases tab 上最近的 release 日期
-- **issue / PR 响应** —— 维护者还在回应吗？
-
-理由：死掉的、被遗弃的、从未正式发布的项目会让索引腐烂，浪费用户的安装时间，还带来安全风险。一个成熟的安装条目，应该远远活过它的第一次 commit。
-
-如果你认为某条提交值得破例（比如安全关键工具、solo 维护者短期静默），请在 PR 描述里说明为什么应该收录，即使触发了上面的 flag。
+英文版 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 
 ---
 
@@ -77,6 +24,8 @@ x-cmd-install/
 ├── src/                # 包索引（每个包一个 yml）
 ├── .x-cmd/             # 每格式转换脚本（v1.yml2tsv.py, ...）
 ├── .github/workflows/  # build-data.yml —— 每日重建
+├── CONTRIBUTING.md     # 贡献指南（英文）
+├── CONTRIBUTING.cn.md  # 贡献指南（中文）
 ├── LICENSE             # Apache 2.0
 └── README.md           # 英文 README
 ```
