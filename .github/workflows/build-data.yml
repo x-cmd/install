@@ -104,14 +104,18 @@ jobs:
       - name: Build all.tar.xz
         run: tar -cJf all.tar.xz all.tsv src/
 
-      - name: Commit artifacts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add all.tsv all.tar.xz
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore(data): rebuild all.tsv + all.tar.xz"
-            git push
-          fi
+      - name: Upload to v1.0.0 release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.0
+          name: "v1.0.0 — x-cmd install data"
+          body: |
+            Daily auto-rebuilt package index for `x install`.
+            - `all.tsv` — TSV index (name, category, lang, source, desc_cn/en, binlist, rule, other)
+            - `all.tar.xz` — TSV + full `src/` yml tree
+          files: |
+            all.tsv
+            all.tar.xz
+          fail_on_unmatched_files: false
+          prerelease: false
+          make_latest: true
