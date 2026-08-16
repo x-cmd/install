@@ -47,6 +47,28 @@ Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI cod
 
 ---
 
+## How to use this data
+
+### Web: <https://x-cmd.com>
+
+Go to <https://x-cmd.com> for interactive search across install / module / pkg / skills; for install-only filtering, use <https://x-cmd.com/install>.
+
+<img width="1229" height="861" alt="x-cmd.com web UI" src="https://github.com/user-attachments/assets/3c0aca6e-b0eb-474b-b2dd-75066e1c71a2" />
+
+### Terminal: `x i`
+
+Open the interactive UI from your terminal with `x i` (short for `x install`):
+
+<img width="1125" height="622" alt="x i terminal UI" src="https://github.com/user-attachments/assets/eb0f1a1b-8b29-4949-be74-ad540f6a138a" />
+
+### This data also feeds [x eget](https://x-cmd.com/mod/eget)
+
+<img width="1188" height="677" alt="x eget uses install data" src="https://github.com/user-attachments/assets/cc7f81bd-8007-4825-8725-22bd9d400910" />
+
+([issue #81](https://github.com/x-cmd/install/issues/81))
+
+---
+
 ## Repository layout
 
 ```

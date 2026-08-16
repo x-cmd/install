@@ -47,20 +47,25 @@
 
 ---
 
-## 如何在网页，终端访问这个数据库
+## 怎么用这份数据
 
-### 你可以通过 https://x-cmd.com 来交互过滤搜索install，模块，pkg，skills；也可以如下图 https://x-cmd.com/install 更精准过滤搜索
+### 网页：<https://x-cmd.com>
 
-<img width="1229" height="861" alt="Image" src="https://github.com/user-attachments/assets/3c0aca6e-b0eb-474b-b2dd-75066e1c71a2" />
+去 <https://x-cmd.com> 可以交互式搜索 install / module / pkg / skills；想精准搜 install 可以去 <https://x-cmd.com/install>。
 
-### 在终端，你可以通过 `x i` ( x install 简写 ）来打开交互界面。
+<img width="1229" height="861" alt="x-cmd.com 网页 UI" src="https://github.com/user-attachments/assets/3c0aca6e-b0eb-474b-b2dd-75066e1c71a2" />
 
-<img width="1125" height="622" alt="Image" src="https://github.com/user-attachments/assets/eb0f1a1b-8b29-4949-be74-ad540f6a138a" />
+### 终端：`x i`
 
+终端里直接 `x i`（`x install` 的简写）打开交互界面：
 
-### x-cmd/install 的数据包含了可直接用于 [x eget](https://x-cmd.com/mod/eget) 的官方release数据。
+<img width="1125" height="622" alt="x i 终端 UI" src="https://github.com/user-attachments/assets/eb0f1a1b-8b29-4949-be74-ad540f6a138a" />
 
-<img width="1188" height="677" alt="Image" src="https://github.com/user-attachments/assets/cc7f81bd-8007-4825-8725-22bd9d400910" />
+### 这份数据还直接喂给 [x eget](https://x-cmd.com/mod/eget)
+
+<img width="1188" height="677" alt="x eget 使用 install 数据" src="https://github.com/user-attachments/assets/cc7f81bd-8007-4825-8725-22bd9d400910" />
+
+（[issue #81](https://github.com/x-cmd/install/issues/81)）
 
 ## 仓库结构
 
