@@ -142,12 +142,12 @@ Schema details live in [FAQ.md](FAQ.md) → "Format versioning".
 
 ### What's the difference between the two release channels?
 
-There are two workflow buttons in the Actions tab:
+This repo ships data through two paths:
 
-- **Release today** — daily cron (12:00 UTC = 20:00 Asia/Shanghai) + manual; creates/replaces `v<YYYYMMDD>` (marked "Latest"). Identical-data days are skipped (no new tag).
-- **Update dev release** — manual only; replaces the `dev` release assets (marked "Pre-release", never overrides Latest).
+- **Daily (`v<YYYYMMDD>`)** — runs at 12:00 UTC. Captures whatever changed since yesterday; skipped if nothing changed. **Stable consumption** uses this.
+- **Dev (`dev`)** — manually triggered. Always overwrites. **Dev / testing the next build** uses this.
 
-For stable data, use the latest `v<YYYYMMDD>`. For testing the next build, use `dev`.
+Operational details (button names, triggers, skip logic) live in [FAQ.md](FAQ.md).
 
 ### How do I report a broken or outdated entry?
 

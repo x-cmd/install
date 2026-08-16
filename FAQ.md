@@ -12,6 +12,15 @@
 
 > Design rationale (each `x install` version pins to one format; all formats get rebuilt daily with latest data) lives in [README.md](README.md) → "Format versioning". This section is the **operational** side.
 
+### What's the difference between the two release channels?
+
+Two workflow buttons in the Actions tab:
+
+- **Release today** — daily cron (12:00 UTC = 20:00 Asia/Shanghai) + manual; creates/replaces `v<YYYYMMDD>` (marked "Latest"). Identical-data days are skipped (no new tag).
+- **Update dev release** — manual only; replaces the `dev` release assets (marked "Pre-release", never overrides Latest).
+
+For stable data, use the latest `v<YYYYMMDD>`. For testing the next build, use `dev`.
+
 ### When a bump is needed
 
 | change | bump? |

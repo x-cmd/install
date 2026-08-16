@@ -140,12 +140,12 @@ Schema 细节见 [FAQ.cn.md](FAQ.cn.md) → "格式版本"。
 
 ### 两个 release 通道有什么区别？
 
-Actions tab 里两个按钮：
+仓库通过两条路径发布数据：
 
-- **Release today** —— 每日 cron（UTC 12:00 = 北京时间 20:00）+ 手动；创建/替换 `v<YYYYMMDD>`（标 "Latest"）。数据完全一致的日子跳过（不打新 tag）。
-- **Update dev release** —— 仅手动；替换 `dev` release 资产（标 "Pre-release"，不会覆盖 Latest）。
+- **每日（`v<YYYYMMDD>`）** —— UTC 12:00 跑。抓昨天到今天的所有改动；没改动就跳过。**稳定消费**用这个。
+- **Dev（`dev`）** —— 手动触发。每次都覆盖。**开发 / 测下一个 build** 用这个。
 
-要稳定数据 → 用最新 `v<YYYYMMDD>`。要测下一个 build → 用 `dev`。
+运维细节（按钮名、触发器、skip 逻辑）见 [FAQ.cn.md](FAQ.cn.md)。
 
 ### 怎么报告一个失效或过期的条目？
 
