@@ -67,13 +67,15 @@ runs:
         rm -rf "$ref_dir"
         mkdir -p "$ref_dir"
 
-        if gh release download "${{ inputs.if_changed_since }}" \
-             --pattern "v*.all.tsv" \
-             --dir "$ref_dir" 2>&1; then
+        gh_out=$(gh release download "${{ inputs.if_changed_since }}" \
+                       --pattern "v*.all.tsv" \
+                       --dir "$ref_dir" 2>&1)
+        gh_rc=$?
+        echo "::notice::gh release download rc=$gh_rc output=$gh_out"
+        if [ "$gh_rc" -eq 0 ]; then
           : # downloaded successfully
         else
-          rc=$?
-          echo "::notice::Reference release '${{ inputs.if_changed_since }}' unavailable (gh rc=$rc) — will upload today."
+          echo "::notice::Reference release '${{ inputs.if_changed_since }}' unavailable — will upload today."
           echo "changed=true" >> "$GITHUB_OUTPUT"
           exit 0
         fi
