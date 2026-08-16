@@ -15,9 +15,11 @@
 
 ## 贡献
 
-想新增包、修错 URL、改翻译？完整流程、yml 模板、质量门槛都在 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
+**欢迎你。** 加一个你喜欢的工具、修一条错的 URL、改进一句翻译，甚至发整个新格式版本——大小 PR 都欢迎，我们都愿意 review。
 
-提 PR 前快速自查：上游项目必须有 **1 个月以上维护** 且 **最近 1 个月内活跃开发**。详见 CONTRIBUTING.cn.md → "质量门槛"。
+入口在 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**，里面是完整流程、yml 模板、质量门槛。
+
+唯一请你在开 PR 前确认一下：上游项目必须有 **1 个月以上维护** 且 **最近 1 个月内活跃开发**。这条是让索引值得信任的底线，详见 CONTRIBUTING.cn.md → "质量门槛"（含破例通道）。
 
 英文版 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 

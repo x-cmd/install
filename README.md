@@ -15,9 +15,11 @@ In short: x-cmd has the brain; this repo has the lookup table.
 
 ## Contributing
 
-Want to add a package, fix a wrong URL, or improve a translation? See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml template, and quality bar.
+**You're welcome here.** Whether you want to add a tool you love, fix a wrong URL, sharpen a translation, or even ship a whole new format version — small PRs and big PRs alike, we'd love to review them.
 
-Quick check before opening a PR: the upstream project must have **>1 month of maintenance** and **active development within the last month**. See CONTRIBUTING → "Quality bar" for details.
+Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml template, and quality bar.
+
+The one thing we ask before you open a PR: the upstream project must have **>1 month of maintenance** and **active development within the last month** — this keeps the index trustworthy. See CONTRIBUTING → "Quality bar" for details and the exception path.
 
 中文版见 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
 
