@@ -47,6 +47,20 @@
 
 ---
 
+## 如何在网页，终端访问这个数据库
+
+你可以通过 https://x-cmd.com 来交互过滤搜索install，模块，pkg，skills；也可以如下图 https://x-cmd.com/install 更精准过滤搜索
+
+<img width="1229" height="861" alt="Image" src="https://github.com/user-attachments/assets/3c0aca6e-b0eb-474b-b2dd-75066e1c71a2" />
+
+在终端，你可以通过 `x i` ( x install 简写 ）来打开交互界面。
+
+<img width="1125" height="622" alt="Image" src="https://github.com/user-attachments/assets/eb0f1a1b-8b29-4949-be74-ad540f6a138a" />
+
+x-cmd/install 的数据包含了可直接用于 eget 的官方release数据。
+
+<img width="1188" height="677" alt="Image" src="https://github.com/user-attachments/assets/cc7f81bd-8007-4825-8725-22bd9d400910" />
+
 ## 仓库结构
 
 ```
