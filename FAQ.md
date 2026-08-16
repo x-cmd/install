@@ -126,17 +126,11 @@ The plan is in [issue #2](https://github.com/x-cmd/install/issues/2) (`Add eget 
 
 ### Why don't we filter by stars (or other popularity metrics)?
 
-Stars measure marketing reach and existing audience size — not whether a tool works. An index based on stars would ship whatever's already popular and miss the projects people actually need.
+Personally I've now hand-reviewed over 2,000 install entries for this index, and the pattern is unmistakable: a lot of the best tools have very few stars. Either they're niche / infrastructure that no one thinks to star, or they're solid work by maintainers who just don't market themselves.
 
-This repo is curated by humans who've reviewed 2,000+ install entries. The honest signal is maintenance: is the project continuously developed, are maintainers responsive, does it do what it says. That catches tools that are:
+Case in point: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop), a professional Go SMTP/IMAP proxy. When I first added it here, if I remember right, it had about 28 stars; today it's around 50. By any stars-based filter it would have been rejected. By maintenance signals — continuous development, responsive maintainer, does what it says — it cleared easily.
 
-- **Niche / infrastructure** — boring-but-essential utilities no one stars (`libfoo` doesn't get a star even if every project depends on it)
-- **Under-promoted** — no conference talks, no HN post, pure word-of-mouth
-- **Maintained by people who don't care about stars** — and that's fine
-
-A real example: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop) is a well-maintained, professional Go SMTP/IMAP proxy — when this repo first looked at it, it had only 29 stars; currently 50. A maintenance-only read would have included it; a stars-filter would have discarded it.
-
-We curate for usefulness, not popularity. A small-star but solid tool is more welcome here than a 10k-star meme wrapper.
+That's why this index doesn't filter by stars. Stars measure marketing reach and existing audience, not whether a tool works. An index filtered by stars would ship whatever's already popular and miss the things people actually need. We curate for usefulness, not popularity. A 50-star but solid tool is more welcome here than a 10k-star meme wrapper.
 
 ### Why 78 `[REC]` issues in this repo?
 
