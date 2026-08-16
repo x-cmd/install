@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/jackwener/OpenCLI
+license: apache-2.0
+desc:
+  cn: 用 AI Agent 把任意网站变为 CLI，并复用你已登录的浏览器
+  en: Make Any Website into CLI & Use your logged-in browser by AI agent.
+x:
+  source: https://github.com/jackwener/OpenCLI
+  eget: https://github.com/jackwener/OpenCLI
+rule:
+  /eget:
+    cmd: x eget jackwener/OpenCLI
+    reference: https://github.com/jackwener/OpenCLI
+binlist:
+- OpenCLI

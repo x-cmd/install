@@ -1,0 +1,25 @@
+lang: JavaScript
+homepage: https://github.com/carloscuesta/gitmoji-cli
+license: MIT
+desc:
+  cn: gitmoji 交互式命令行工具，用于在提交时使用表情符号。
+  en: A gitmoji client for using emojis on commit messages
+x:
+  source: https://github.com/carloscuesta/gitmoji-cli
+  eget: https://github.com/carloscuesta/gitmoji-cli
+rule:
+  /eget:
+    cmd: x eget carloscuesta/gitmoji-cli
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm i -g gitmoji-cli
+    reference: https://github.com/carloscuesta/gitmoji-cli?tab=readme-ov-file#npm
+    dsnap: gitmoji-cli
+  darwin/brew:
+    cmd: brew install gitmoji
+    reference: https://github.com/carloscuesta/gitmoji-cli?tab=readme-ov-file#brew
+  arch/yay:
+    cmd: yay -S nodejs-gitmoji-cli
+    reference: https://aur.archlinux.org/packages/nodejs-gitmoji-cli
+binlist:
+- gitmoji-cli

@@ -1,0 +1,146 @@
+desc:
+  cn: gum 是一个集成了多款 Terminal UI 命令行工具，可帮助用户在编写脚本提供一个用户友好的命令行界面
+  en: Gum is an integrated Terminal UI command line tool that helps users write scripts with a user-friendly Command-line interface
+homepage: https://github.com/charmbracelet/gum
+license: MIT
+lang: Go
+x:
+  pkg:
+    exist: true
+  source: https://github.com/charmbracelet/gum
+  eget: https://github.com/charmbracelet/gum
+rule:
+  /x:
+    cmd: x pkg use gum
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget charmbracelet/gum
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use gum
+    reference: https://github.com/lwiechec/asdf-gum
+  darwin/brew:
+    cmd: brew install gum
+    reference: https://formulae.brew.sh/formula/gum#default
+  alpine/apk:
+    cmd: sudo apk add gum
+    reference: https://github.com/charmbracelet/gum#installation
+    dsnap: gum
+  debian/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+    dsnap: gum
+  ubuntu/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+    dsnap: gum
+  arch/pacman:
+    cmd: sudo pacman -S gum
+    reference: https://github.com/charmbracelet/glow#package-manager
+  kali/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+    dsnap: gum
+  rhel/yum:
+    cmd: 'echo ''[charm] \
+
+      && name=Charm \
+
+      && baseurl=https://repo.charm.sh/yum/ \
+
+      && enabled=1 \
+
+      && gpgcheck=1 \
+
+      && gpgkey=https://repo.charm.sh/yum/gpg.key'' \
+
+      && sudo tee /etc/yum.repos.d/charm.repo \
+
+      && sudo yum install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+  fedora/yum:
+    cmd: 'echo ''[charm] \
+
+      && name=Charm \
+
+      && baseurl=https://repo.charm.sh/yum/ \
+
+      && enabled=1 \
+
+      && gpgcheck=1 \
+
+      && gpgkey=https://repo.charm.sh/yum/gpg.key'' \
+
+      && sudo tee /etc/yum.repos.d/charm.repo \
+
+      && sudo yum install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+  raspbian/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install gum
+
+      '
+    reference: https://github.com/charmbracelet/gum#installation
+  nix/nixpkgs:
+    cmd: sudo nix-env -iA nixpkgs.gum
+    reference: https://github.com/charmbracelet/gum#installation
+  nix/flakes:
+    cmd: sudo nix run "github:charmbracelet/gum" -- --help
+    reference: https://github.com/charmbracelet/gum#installation
+  (win|wsl2)/scoop:
+    cmd: x scoop install charm-gum
+    reference: https://github.com/charmbracelet/gum#installation
+  (win|wsl2)/winget:
+    cmd: x winget install charmbracelet.gum
+    reference: https://github.com/charmbracelet/gum#installation
+binlist:
+- gum

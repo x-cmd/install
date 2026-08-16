@@ -1,0 +1,19 @@
+lang: Go
+homepage: https://github.com/protocolbuffers/protobuf-go
+license: BSD-3-Clause
+desc:
+  cn: protoc-gen-go 工具是 protoc（protocol buffer 编译器）的编译器插件
+  en: The protoc-gen-go tool is a compiler plugin to protoc, the protocol buffer compiler
+x:
+  source: https://github.com/protocolbuffers/protobuf-go
+  eget: https://github.com/protocolbuffers/protobuf-go
+rule:
+  /eget:
+    cmd: x eget protocolbuffers/protobuf-go
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+    reference: https://protobuf.dev/getting-started/gotutorial/#compiling-protocol-buffers
+    dsnap: google.golang.org/protobuf/cmd/protoc-gen-go
+binlist:
+- protoc-gen-go

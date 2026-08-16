@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/santifer/career-ops
+license: mit
+desc:
+  cn: 基于 Claude Code 的 AI 求职系统，含 14 种技能模式、Go 仪表盘、PDF 生成与批量处理
+  en: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+x:
+  source: https://github.com/santifer/career-ops
+  eget: https://github.com/santifer/career-ops
+rule:
+  /eget:
+    cmd: x eget santifer/career-ops
+    reference: https://github.com/santifer/career-ops
+binlist:
+- career-ops

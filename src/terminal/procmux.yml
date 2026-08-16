@@ -1,0 +1,25 @@
+lang: Python
+homepage: https://github.com/napisani/procmux
+license: MIT
+desc:
+  cn: 用于进程的终端多路复用器
+  en: A terminal multiplexer for processes.
+x:
+  source: https://github.com/napisani/procmux
+rule:
+  /pip:
+    cmd: pip install procmux
+    reference: https://github.com/napisani/procmux#installation
+    dsnap: procmux
+  /pipx:
+    cmd: pipx install procmux
+    reference: https://github.com/napisani/procmux#installation
+  /brew:
+    cmd: 'brew tap napisani/procmux \
+
+      && brew install procmux
+
+      '
+    reference: https://github.com/napisani/procmux#installation
+binlist:
+- procmux

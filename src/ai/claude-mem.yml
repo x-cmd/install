@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/thedotmack/claude-mem
+license: apache-2.0
+desc:
+  cn: 为每个 Agent 提供跨会话持久上下文，记录会话行为并用 AI 压缩后注入后续会话
+  en: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with ...
+x:
+  source: https://github.com/thedotmack/claude-mem
+rule:
+  /npm:
+    cmd: npm install -g claude-mem
+    reference: https://www.npmjs.com/package/claude-mem
+    dsnap: 'claude-mem'
+binlist:
+- claude-mem

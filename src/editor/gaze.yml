@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/wtetsu/gaze
+license: MIT
+desc:
+  en: Run the relevant command immediately after saving the file.
+  cn: 在保存文件后立即运行相关命令
+x:
+  source: https://github.com/wtetsu/gaze
+  eget: https://github.com/wtetsu/gaze
+rule:
+  /eget:
+    cmd: x eget wtetsu/gaze
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install gaze
+    reference: https://github.com/wtetsu/gaze?tab=readme-ov-file#homebrew-macos
+binlist:
+- gaze

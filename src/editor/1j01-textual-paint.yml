@@ -1,0 +1,13 @@
+lang: Python
+homepage: https://pypi.org/project/textual-paint/
+license: mit
+desc:
+  cn: 在终端里复刻 MS Paint 的字符艺术编辑器，基于 Textual 框架
+  en: ':art: MS Paint in your terminal.'
+rule:
+  /pip:
+    cmd: pip install textual-paint
+    reference: https://pypi.org/project/textual-paint/
+    dsnap: textual-paint
+binlist:
+- textual-paint

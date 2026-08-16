@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/maurosoria/dirsearch
+desc:
+  cn: Web 路径扫描器
+  en: Web path scanner
+x:
+  source: https://github.com/maurosoria/dirsearch
+  eget: https://github.com/maurosoria/dirsearch
+rule:
+  /eget:
+    cmd: x eget maurosoria/dirsearch
+    reference: https://github.com/maurosoria/dirsearch
+binlist:
+- dirsearch
+license: NOASSERTION

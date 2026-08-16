@@ -1,0 +1,19 @@
+lang: Java
+homepage: https://github.com/apache/cxf
+license: Apache-2.0
+desc:
+  cn: 一个开源服务框架，帮助你使用前端编程 API 构建和开发服务，如 JAX-WS 和 JAX-RS
+  en: An Open-Source Services Framework,helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS
+x:
+  pkg:
+    exist: true
+  source: https://github.com/apache/cxf
+rule:
+  /x:
+    cmd: x pkg use cxf
+    reference: https://x-cmd.com/install/
+  arch/yay:
+    cmd: yay -S apache-cxf
+    reference: https://aur.archlinux.org/packages/apache-cxf
+binlist:
+- cxf

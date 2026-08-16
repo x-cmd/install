@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/KolosalAI/kolosal-cli
+license: apache-2.0
+desc:
+  cn: 超轻量的 Ollama 与 Qwen Code 替代品，可运行 Llama 3.3、DeepSeek-R1、Phi-4、Gemma 3 等大模型
+  en: Super lightweight Ollama + Qwen Code alternative to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+x:
+  source: https://github.com/KolosalAI/kolosal-cli
+  eget: https://github.com/KolosalAI/kolosal-cli
+rule:
+  /eget:
+    cmd: x eget KolosalAI/kolosal-cli
+    reference: https://github.com/KolosalAI/kolosal-cli
+binlist:
+- kolosal-cli

@@ -1,0 +1,17 @@
+lang: TypeScript
+homepage: https://github.com/breferrari/obsidian-mind
+license: mit
+desc:
+  cn: 为 AI 编码 Agent 提供持久记忆的 Obsidian 仓库,支持 Claude Code、Codex CLI、Gemini CLI
+  en: An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+x:
+  source: https://github.com/breferrari/obsidian-mind
+rule:
+  /npx:
+    cmd: npx shardmind install github:breferrari/obsidian-mind
+    reference: https://github.com/breferrari/obsidian-mind#-install-via-shardmind-recommended
+  /git:
+    cmd: git clone https://github.com/breferrari/obsidian-mind.git
+    reference: https://github.com/breferrari/obsidian-mind#or-clone-directly
+binlist:
+- obsidian-mind

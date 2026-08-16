@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: https://github.com/tavianator/bfs
+license: '0BSD'
+desc:
+  cn: UNIX find 命令的广度优先版本
+  en: 'A breadth-first version of the UNIX find command'
+x:
+  source: https://github.com/tavianator/bfs
+  eget: https://github.com/tavianator/bfs
+rule:
+  /eget:
+    cmd: x eget tavianator/bfs
+    reference: https://github.com/tavianator/bfs
+binlist:
+  - 'bfs'

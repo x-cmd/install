@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/mfontanini/presenterm
+license: 'BSD-2-Clause'
+desc:
+  cn: 基于 Markdown 的终端演示工具
+  en: 'A markdown terminal slideshow tool'
+x:
+  source: https://github.com/mfontanini/presenterm
+  eget: https://github.com/mfontanini/presenterm
+rule:
+  /eget:
+    cmd: x eget mfontanini/presenterm
+    reference: https://github.com/mfontanini/presenterm
+binlist:
+  - 'presenterm'

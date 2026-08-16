@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/pranav-cs-1/nexus'
+license: 'MIT'
+desc:
+  cn: 终端版 HTTP 客户端，支持 REST 与 gRPC API
+  en: 'A terminal-based HTTP client for REST and gRPC APIs'
+x:
+  source: https://github.com/pranav-cs-1/nexus
+  eget: https://github.com/pranav-cs-1/nexus
+rule:
+  /eget:
+    cmd: x eget pranav-cs-1/nexus
+    reference: https://github.com/pranav-cs-1/nexus
+binlist:
+  - 'nexus'

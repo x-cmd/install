@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: 'https://github.com/bendews/apw'
+license: 'GPL-3.0'
+desc:
+  cn: Apple Passwords (iCloud Keychain) 的 CLI 工具
+  en: 'A CLI for Apple Passwords (also known as iCloud Keychain)'
+x:
+  source: https://github.com/bendews/apw
+  eget: https://github.com/bendews/apw
+rule:
+  /eget:
+    cmd: x eget bendews/apw
+    reference: https://github.com/bendews/apw
+binlist:
+  - 'apw'

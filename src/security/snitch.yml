@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/karol-broda/snitch'
+license: 'MIT'
+desc:
+  cn: 更友好的网络连接检查工具
+  en: 'a prettier way to inspect network connections'
+x:
+  source: https://github.com/karol-broda/snitch
+  eget: https://github.com/karol-broda/snitch
+rule:
+  /eget:
+    cmd: x eget karol-broda/snitch
+    reference: https://github.com/karol-broda/snitch
+binlist:
+  - 'snitch'

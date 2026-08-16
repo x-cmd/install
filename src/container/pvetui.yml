@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/devnullvoid/pvetui
+license: 'MIT'
+desc:
+  cn: Proxmox VE 终端 UI
+  en: 'Terminal UI for Proxmox VE'
+x:
+  source: https://github.com/devnullvoid/pvetui
+  eget: https://github.com/devnullvoid/pvetui
+rule:
+  /eget:
+    cmd: x eget devnullvoid/pvetui
+    reference: https://github.com/devnullvoid/pvetui
+binlist:
+  - 'pvetui'

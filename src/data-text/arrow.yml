@@ -1,0 +1,18 @@
+lang: C++
+homepage: https://github.com/apache/arrow
+license: Apache-2.0
+desc:
+  cn: ApacheArrow 是一个用于加速数据交换和内存处理的多语言工具箱
+  en: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+x:
+  source: https://github.com/apache/arrow
+  eget: https://github.com/apache/arrow
+rule:
+  /eget:
+    cmd: x eget apache/arrow
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install apache-arrow
+    reference: https://formulae.brew.sh/formula/apache-arrow#default
+binlist:
+- arrow

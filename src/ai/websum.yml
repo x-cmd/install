@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/cobanov/websum
+license: mit
+desc:
+  cn: 用可插拔的 LLM 后端（Ollama、OpenAI）总结网页和 YouTube 视频，提供 CLI、库与 Gradio 界面
+  en: Summarize web pages and YouTube videos with pluggable LLM backends (Ollama, OpenAI). CLI, library, and Gradio UI.
+x:
+  source: https://github.com/cobanov/websum
+rule:
+  /pip:
+    cmd: pip install websum
+    reference: https://pypi.org/project/websum/
+    dsnap: websum
+binlist:
+- websum

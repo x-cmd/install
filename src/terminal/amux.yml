@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/andyrewlee/amux'
+license: 'MIT'
+desc:
+  cn: 轻松并行运行多个编程 Agent 的 TUI
+  en: 'TUI for easily running parallel coding agents'
+x:
+  source: https://github.com/andyrewlee/amux
+  eget: https://github.com/andyrewlee/amux
+rule:
+  /eget:
+    cmd: x eget andyrewlee/amux
+    reference: https://github.com/andyrewlee/amux
+binlist:
+  - 'amux'

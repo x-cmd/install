@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/raftario/licensor
+license: MIT
+desc:
+  cn: 根据标准输出的 SPDX ID 编写一个许可证
+  en: Write a license to standard output given its SPDX ID
+x:
+  source: https://github.com/raftario/licensor
+  eget: https://github.com/raftario/licensor
+rule:
+  /eget:
+    cmd: x eget raftario/licensor
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install licensor
+    reference: https://github.com/raftario/licensor?tab=readme-ov-file#cratesio
+    dsnap: licensor
+  darwin/brew:
+    cmd: brew install licensor
+    reference: https://github.com/raftario/licensor?tab=readme-ov-file#homebrew
+binlist:
+- licensor

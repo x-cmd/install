@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/serkanyersen/dotstate
+license: 'MIT'
+desc:
+  cn: Rust 编写的现代、安全、易用的 dotfile 管理器
+  en: 'A modern, secure, and user-friendly dotfile manager built with Rust'
+x:
+  source: https://github.com/serkanyersen/dotstate
+  eget: https://github.com/serkanyersen/dotstate
+rule:
+  /eget:
+    cmd: x eget serkanyersen/dotstate
+    reference: https://github.com/serkanyersen/dotstate
+binlist:
+  - 'dotstate'

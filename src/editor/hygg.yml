@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/kruserr/hygg
+license: 'AGPL-3.0'
+desc:
+  cn: 极简的 Vim 风格 TUI 文档阅读器,让阅读更简单
+  en: '📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.'
+x:
+  source: https://github.com/kruserr/hygg
+  eget: https://github.com/kruserr/hygg
+rule:
+  /eget:
+    cmd: x eget kruserr/hygg
+    reference: https://github.com/kruserr/hygg
+binlist:
+  - 'hygg'

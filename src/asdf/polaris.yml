@@ -1,0 +1,36 @@
+lang: Go
+homepage: https://github.com/FairwindsOps/polaris
+license: Apache-2.0
+desc:
+  cn: Polaris 是 Kubernetes 的开源策略引擎，用于验证和补救资源配置
+  en: Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration
+x:
+  source: https://github.com/FairwindsOps/polaris
+  eget: https://github.com/FairwindsOps/polaris
+rule:
+  /eget:
+    cmd: x eget FairwindsOps/polaris
+    reference: https://x-cmd.com/mod/eget
+  /helm:
+    cmd: 'helm repo add fairwinds-stable https://charts.fairwinds.com/stable \
+
+      && helm upgrade --install polaris fairwinds-stable/polaris --namespace polaris --create-namespace \
+
+      && kubectl port-forward --namespace polaris svc/polaris-dashboard 8080:80
+
+      '
+    reference: https://polaris.docs.fairwinds.com/dashboard/#helm
+  darwin/brew:
+    cmd: 'brew tap reactiveops/tap \
+
+      && brew install reactiveops/tap/polaris \
+
+      && polaris dashboard --port 8080
+
+      '
+    reference: https://polaris.docs.fairwinds.com/dashboard/#local-binary
+  /asdf:
+    cmd: x asdf use polaris
+    reference: https://github.com/particledecay/asdf-polaris?tab=readme-ov-file#install
+binlist:
+- polaris

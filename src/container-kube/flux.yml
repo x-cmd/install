@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/fluxcd/flux2
+license: Apache-2.0
+desc:
+  en: Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible
+  cn: Flux 是一套连续和渐进的交付解决方案，是开放和可扩展的 Kubernetes
+x:
+  source: https://github.com/fluxcd/flux2
+  eget: https://github.com/fluxcd/flux2
+rule:
+  /eget:
+    cmd: x eget fluxcd/flux2
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install fluxcd/tap/flux
+    reference: https://fluxcd.io/flux/get-started/#install-the-flux-cli
+binlist:
+- flux

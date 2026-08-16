@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/fioletoven/b4n'
+license: 'MIT'
+desc:
+  cn: Rust 编写的 Kubernetes API 终端界面 (TUI)
+  en: 'Terminal user interface (TUI) for Kubernetes API written in Rust'
+x:
+  source: https://github.com/fioletoven/b4n
+  eget: https://github.com/fioletoven/b4n
+rule:
+  /eget:
+    cmd: x eget fioletoven/b4n
+    reference: https://github.com/fioletoven/b4n
+binlist:
+  - 'b4n'

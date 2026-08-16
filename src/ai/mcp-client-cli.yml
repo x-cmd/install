@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/adhikasp/mcp-client-cli
+license: mit
+desc:
+  cn: 运行 LLM 提示并实现 MCP 客户端的简易 CLI
+  en: A simple CLI to run LLM prompt and implement MCP client.
+x:
+  source: https://github.com/adhikasp/mcp-client-cli
+  eget: https://github.com/adhikasp/mcp-client-cli
+rule:
+  /eget:
+    cmd: x eget adhikasp/mcp-client-cli
+    reference: https://github.com/adhikasp/mcp-client-cli
+binlist:
+- mcp-client-cli

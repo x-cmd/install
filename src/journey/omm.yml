@@ -1,0 +1,22 @@
+lang: Go
+homepage: https://github.com/dhth/omm
+license: MIT
+desc:
+  cn: 一个基于键盘的终端任务管理器。
+  en: A keyboard-driven task manager for the terminal.
+x:
+  source: https://github.com/dhth/omm
+  eget: https://github.com/dhth/omm
+rule:
+  /eget:
+    cmd: x eget dhth/omm
+    reference: https://x-cmd.com/mod/eget
+  /brew:
+    cmd: brew install dhth/tap/omm
+    reference: https://github.com/dhth/omm#-installation
+  /go:
+    cmd: go install github.com/dhth/omm@latest
+    reference: https://github.com/dhth/omm#-installation
+    dsnap: omm
+binlist:
+- omm

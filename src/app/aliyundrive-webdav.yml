@@ -1,0 +1,27 @@
+lang: Rust
+homepage: https://github.com/messense/aliyundrive-webdav
+license: MIT
+desc:
+  en: Alibaba Cloud Disk WebDAV service
+  cn: 阿里云盘 WebDAV 服务
+x:
+  source: https://github.com/messense/aliyundrive-webdav
+  eget: https://github.com/messense/aliyundrive-webdav
+rule:
+  /eget:
+    cmd: x eget messense/aliyundrive-webdav
+    reference: https://x-cmd.com/mod/eget
+  /pip:
+    cmd: pip install aliyundrive-webdav
+    reference: https://github.com/messense/aliyundrive-webdav?tab=readme-ov-file#%E5%AE%89%E8%A3%85
+  /snap:
+    cmd: sudo snap install aliyundrive-webdav
+    reference: https://github.com/messense/aliyundrive-webdav?tab=readme-ov-file#%E5%AE%89%E8%A3%85
+  (win|wsl2)/scoop:
+    cmd: x scoop install main/aliyundrive-webdav
+    reference: https://scoop.sh/#/apps?q=aliyun
+  arch/yay:
+    cmd: yay -S aliyundrive-webdav
+    reference: https://aur.archlinux.org/packages/aliyundrive-webdav
+binlist:
+- aliyundrive-webdav

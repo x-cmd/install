@@ -1,0 +1,24 @@
+lang: TypeScript
+homepage: https://github.com/MoonshotAI/kimi-code
+license: MIT
+desc:
+  cn: MoonshotAI 推出的下一代 AI 编程 Agent，可在终端中使用，支持读取和编辑代码、执行 Shell 命令、搜索文件，帮助您更快地完成软件开发任务
+  en: The starting point for next-gen agents by MoonshotAI. An AI coding agent that lives in your terminal, helping you read and edit code, run shell commands, search files, and complete software development tasks faster.
+x:
+  source: https://github.com/MoonshotAI/kimi-code
+  eget: https://github.com/MoonshotAI/kimi-code
+rule:
+  /eget:
+    cmd: x eget MoonshotAI/kimi-code
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash
+    reference: https://github.com/MoonshotAI/kimi-code#install
+  (darwin|linux)/brew:
+    cmd: brew install kimi-code
+    reference: https://github.com/MoonshotAI/kimi-code#install
+  win/powershell:
+    cmd: x pwsh 'irm https://code.kimi.com/kimi-code/install.ps1 | iex'
+    reference: https://github.com/MoonshotAI/kimi-code#install
+binlist:
+  - kimi

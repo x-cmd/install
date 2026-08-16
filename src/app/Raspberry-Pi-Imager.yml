@@ -1,0 +1,21 @@
+lang: C
+homepage: https://github.com/raspberrypi/rpi-imager
+desc:
+  cn: Raspberry Pi Imager 是一种将 Raspberry Pi 操作系统和其他操作系统安装到 microSD 卡上的快速简便方法，可随时与 Raspberry Pi 一起使用
+  en: Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi
+x:
+  source: https://github.com/raspberrypi/rpi-imager
+  eget: https://github.com/raspberrypi/rpi-imager
+rule:
+  /eget:
+    cmd: x eget raspberrypi/rpi-imager
+    reference: https://x-cmd.com/mod/eget
+  ubuntu/apt:
+    cmd: sudo apt install rpi-imager
+    reference: https://www.raspberrypi.com/software/
+  debian/apt:
+    cmd: sudo apt install rpi-imager
+    reference: https://www.raspberrypi.com/software/
+binlist:
+- Raspberry-Pi-Imager
+license: NOASSERTION

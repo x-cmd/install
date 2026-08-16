@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/marcus/sidecar'
+license: 'MIT'
+desc:
+  cn: 配合 CLI Agent 使用的辅助工具，提供 diff、文件树、对话历史和 td 任务管理
+  en: 'Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td'
+x:
+  source: https://github.com/marcus/sidecar
+  eget: https://github.com/marcus/sidecar
+rule:
+  /eget:
+    cmd: x eget marcus/sidecar
+    reference: https://github.com/marcus/sidecar
+binlist:
+  - 'sidecar'

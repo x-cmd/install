@@ -1,0 +1,21 @@
+lang: C
+homepage: https://github.com/clibs/cmocka
+license: Apache-2.0
+desc:
+  cn: C 的单元测试框架
+  en: Unit testing framework for C
+x:
+  source: https://github.com/clibs/cmocka
+rule:
+  darwin/brew:
+    cmd: brew install cmocka
+    reference: https://formulae.brew.sh/formula/cmocka#default
+  ubuntu/apt:
+    cmd: sudo apt-get install libcmocka-dev
+    reference: https://gitlab.com/cmocka/cmocka/-/blob/master/INSTALL.md?ref_type=heads
+    dsnap: libcmocka-dev
+  arch/yay:
+    cmd: yay -S cmocka-git
+    reference: https://aur.archlinux.org/packages/cmocka-git
+binlist:
+- cmocka

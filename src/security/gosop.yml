@@ -1,0 +1,32 @@
+lang: Go
+homepage: https://github.com/ProtonMail/gosop
+license: MIT
+desc:
+  cn: GopenPGP 无状态 CLI
+  en: Stateless CLI for GopenPGP
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ProtonMail/gosop
+  eget: https://github.com/ProtonMail/gosop
+rule:
+  /x:
+    cmd: x pkg use gosop
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ProtonMail/gosop
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: 'mkdir -p $GOPATH/src/github.com/ProtonMail/
+
+      cd $GOPATH/src/github.com/ProtonMail/
+
+      git clone git@github.com:ProtonMail/gosop.git && cd gosop
+
+      go install
+
+      '
+    reference: https://github.com/ProtonMail/gosop?tab=readme-ov-file#install
+    dsnap: github.com/ProtonMail/gosop@main
+binlist:
+- gosop

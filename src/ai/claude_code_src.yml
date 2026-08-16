@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: 'https://github.com/ponponon/claude_code_src'
+license: noassertion
+desc:
+  cn: 2026.3.31 Claude Code 意外将含源码文件上传至 npm（版本 2.1.88），其中 cli.js.map 达 57MB，源码位于 sourcesContent 字段，解压还原后约 70 万行
+  en: '2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码'
+x:
+  source: https://github.com/ponponon/claude_code_src
+  eget: https://github.com/ponponon/claude_code_src
+rule:
+  /eget:
+    cmd: x eget ponponon/claude_code_src
+    reference: https://github.com/ponponon/claude_code_src
+binlist:
+  - 'claude_code_src'

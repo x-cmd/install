@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/libsql/libsql
+license: NOASSERTION
+desc:
+  cn: libsql 软件安装工具
+  en: libsql — software install
+x:
+  source: https://github.com/libsql/libsql
+  eget: https://github.com/libsql/libsql
+rule:
+  /eget:
+    cmd: x eget libsql/libsql
+    reference: https://github.com/libsql/libsql
+binlist:
+- libsql

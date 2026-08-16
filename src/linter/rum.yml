@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/thekarel/rum
+license: 'MIT'
+desc:
+  cn: 列出、搜索并运行 package.json 脚本的 TUI
+  en: 'TUI to list, search and run package.json scripts 🥃'
+x:
+  source: https://github.com/thekarel/rum
+  eget: https://github.com/thekarel/rum
+rule:
+  /eget:
+    cmd: x eget thekarel/rum
+    reference: https://github.com/thekarel/rum
+binlist:
+  - 'rum'

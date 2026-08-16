@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/rubysolo/brows
+license: MIT
+desc:
+  cn: 一个用于在终端中浏览 GitHub releases 的命令行工具
+  en: A GitHub releases browser for the terminal
+x:
+  source: https://github.com/rubysolo/brows
+  eget: https://github.com/rubysolo/brows
+rule:
+  /eget:
+    cmd: x eget rubysolo/brows
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install rubysolo/tools/brows
+    reference: https://github.com/rubysolo/brows#installation
+  linux/brew:
+    cmd: brew install rubysolo/tools/brows
+    reference: https://github.com/rubysolo/brows#installation
+binlist:
+- brows

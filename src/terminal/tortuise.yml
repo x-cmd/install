@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/buildoak/tortuise'
+license: 'MIT'
+desc:
+  cn: 在终端中查看高斯溅射点云
+  en: 'Gaussian splats in your terminal.'
+x:
+  source: https://github.com/buildoak/tortuise
+  eget: https://github.com/buildoak/tortuise
+rule:
+  /eget:
+    cmd: x eget buildoak/tortuise
+    reference: https://github.com/buildoak/tortuise
+binlist:
+  - 'tortuise'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/mlb-rs/mlbt
+license: 'MIT'
+desc:
+  cn: MLB Stats API 的终端界面,查看比分、战绩和数据,甚至能在终端看棒球比赛
+  en: 'A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾'
+x:
+  source: https://github.com/mlb-rs/mlbt
+  eget: https://github.com/mlb-rs/mlbt
+rule:
+  /eget:
+    cmd: x eget mlb-rs/mlbt
+    reference: https://github.com/mlb-rs/mlbt
+binlist:
+  - 'mlbt'

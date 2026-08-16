@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/Linked-API/linkedin-cli
+license: mit
+desc:
+  cn: 对 AI 智能体友好的 CLI，用于控制 LinkedIn 账号并获取实时数据
+  en: AI-agent-friendly CLI for controlling LinkedIn accounts and retrieving real-time data.
+x:
+  source: https://github.com/Linked-API/linkedin-cli
+  eget: https://github.com/Linked-API/linkedin-cli
+rule:
+  /eget:
+    cmd: x eget Linked-API/linkedin-cli
+    reference: https://github.com/Linked-API/linkedin-cli
+binlist:
+- linkedin-cli

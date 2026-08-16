@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/microsoft/playwright-mcp
+license: apache-2.0
+desc:
+  cn: 微软官方的 MCP 服务器，把 Playwright 浏览器自动化以结构化可访问性快照的形式暴露给 LLM
+  en: Microsoft's MCP server that exposes Playwright browser automation to LLMs through structured accessibility snapshots
+x:
+  source: https://github.com/microsoft/playwright-mcp
+rule:
+  /npm:
+    cmd: npx @playwright/mcp@latest
+    reference: https://github.com/microsoft/playwright-mcp
+    dsnap: "@playwright/mcp"
+binlist:
+- "@playwright/mcp"

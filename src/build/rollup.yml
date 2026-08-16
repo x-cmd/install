@@ -1,0 +1,18 @@
+lang: JavaScript
+homepage: https://github.com/rollup/rollup
+desc:
+  cn: 将多个小型 JavaScript 模块打包成一个大型应用或库
+  en: Packaging multiple small JavaScript modules into a large application or library
+x:
+  source: https://github.com/rollup/rollup
+rule:
+  /npm:
+    cmd: npm install --global rollup
+    reference: https://rollupjs.org/introduction/#installation
+    dsnap: rollup
+  arch/yay:
+    cmd: yay -S rollup
+    reference: https://aur.archlinux.org/packages/rollup
+binlist:
+- rollup
+license: NOASSERTION

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/unhappychoice/splashboard
+license: 'ISC'
+desc:
+  cn: 基于插件式数据源的可定制终端启动屏
+  en: 'A customizable terminal splash screen with plugin-based data sources.'
+x:
+  source: https://github.com/unhappychoice/splashboard
+  eget: https://github.com/unhappychoice/splashboard
+rule:
+  /eget:
+    cmd: x eget unhappychoice/splashboard
+    reference: https://github.com/unhappychoice/splashboard
+binlist:
+  - 'splashboard'

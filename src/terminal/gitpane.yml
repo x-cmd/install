@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/affromero/gitpane'
+license: 'MIT'
+desc:
+  cn: 面向终端的多仓库 Git 工作区仪表盘
+  en: 'Multi-repo Git workspace dashboard for the terminal'
+x:
+  source: https://github.com/affromero/gitpane
+  eget: https://github.com/affromero/gitpane
+rule:
+  /cargo:
+    cmd: 'cargo install'
+    reference: https://github.com/affromero/gitpane
+  /eget:
+    cmd: x eget affromero/gitpane
+    reference: https://github.com/affromero/gitpane
+binlist:
+  - 'gitpane'

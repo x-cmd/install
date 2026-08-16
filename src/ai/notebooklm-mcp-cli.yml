@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/jacob-bd/notebooklm-mcp-cli
+license: mit
+desc:
+  cn: 通过命令行、MCP 服务器和 AI Agent 技能以编程方式访问 Google NotebookLM
+  en: Programmatic access to Google NotebookLM — via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.
+x:
+  source: https://github.com/jacob-bd/notebooklm-mcp-cli
+  eget: https://github.com/jacob-bd/notebooklm-mcp-cli
+rule:
+  /eget:
+    cmd: x eget jacob-bd/notebooklm-mcp-cli
+    reference: https://github.com/jacob-bd/notebooklm-mcp-cli
+binlist:
+- notebooklm-mcp-cli

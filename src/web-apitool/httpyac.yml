@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/anweber/httpyac
+license: MIT
+desc:
+  cn: 用于执行 *.http, *.rest 文件的命令行工具
+  en: A command line interface to execute *.http, *.rest files.
+x:
+  source: https://github.com/anweber/httpyac
+rule:
+  /npm:
+    cmd: npm install -g httpyac
+    reference: https://github.com/anweber/httpyac#installation
+    dsnap: httpyac
+binlist:
+- httpyac

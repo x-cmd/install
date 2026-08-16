@@ -1,0 +1,24 @@
+lang: Go
+homepage: https://github.com/turbot/steampipe
+license: AGPL-3.0
+desc:
+  cn: SteamPipe 是直接从 API 和服务获取数据的 zero-ETL 解决方案
+  en: Steampipe is the zero-ETL solution for getting data directly from APIs and services
+x:
+  source: https://github.com/turbot/steampipe
+  eget: https://github.com/turbot/steampipe
+rule:
+  /eget:
+    cmd: x eget turbot/steampipe
+    reference: https://x-cmd.com/mod/eget
+  linux/curl:
+    cmd: sudo /bin/sh -c "$(curl -fsSL https://steampipe.io/install/steampipe.sh)"
+    reference: https://steampipe.io/downloads?install=linux
+  darwin/brew:
+    cmd: brew install turbot/tap/steampipe
+    reference: https://steampipe.io/downloads?install=macos
+  /asdf:
+    cmd: x asdf use steampipe
+    reference: https://github.com/carnei-ro/asdf-steampipe?tab=readme-ov-file#install
+binlist:
+- steampipe

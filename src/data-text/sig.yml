@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/ynqa/sig
+license: MIT
+desc:
+  cn: 交互式的 grep 工具，用于流式数据。
+  en: Interactive grep (for streaming)
+x:
+  source: https://github.com/ynqa/sig
+  eget: https://github.com/ynqa/sig
+rule:
+  /eget:
+    cmd: x eget ynqa/sig
+    reference: https://x-cmd.com/mod/eget
+  /brew:
+    cmd: brew install ynqa/tap/sigrs
+    reference: https://github.com/ynqa/sig#homebrew
+  /cargo:
+    cmd: cargo install sigrs
+    reference: https://github.com/ynqa/sig#cargo
+    dsnap: sigrs
+  arch/pacman:
+    cmd: pacman -S sig
+    reference: https://github.com/ynqa/sig#arch-linux
+binlist:
+- sig

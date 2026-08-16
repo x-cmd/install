@@ -1,0 +1,30 @@
+lang: Go
+desc:
+  en: Share your terminal as a web application
+  cn: 将终端共享为 Web 应用程序
+homepage: https://github.com/yudai/gotty
+license: MIT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/yudai/gotty
+  eget: https://github.com/yudai/gotty
+rule:
+  /eget:
+    cmd: x eget yudai/gotty
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use gotty
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install yudai/gotty/gotty
+    reference: https://github.com/yudai/gotty?tab=readme-ov-file#homebrew-installation
+  /go:
+    cmd: go get github.com/yudai/gotty
+    reference: https://github.com/yudai/gotty?tab=readme-ov-file#go-get-installation-development
+    dsnap: github.com/yudai/gotty
+  arch/yay:
+    cmd: yay -S gotty-bin
+    reference: https://aur.archlinux.org/packages/gotty-bin
+binlist:
+- gotty

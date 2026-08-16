@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/ricardodantas/hazelnut
+license: 'GPL-3.0'
+desc:
+  cn: 灵感来自 Hazel 的终端自动文件整理器，监控文件夹并按规则归档
+  en: '🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.'
+x:
+  source: https://github.com/ricardodantas/hazelnut
+  eget: https://github.com/ricardodantas/hazelnut
+rule:
+  /eget:
+    cmd: x eget ricardodantas/hazelnut
+    reference: https://github.com/ricardodantas/hazelnut
+binlist:
+  - 'hazelnut'

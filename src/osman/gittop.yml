@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/hjr265/gittop'
+license: 'BSD-3-Clause'
+desc:
+  cn: 受 htop/btop 启发的 Git 仓库统计可视化终端 UI
+  en: 'A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.'
+x:
+  source: https://github.com/hjr265/gittop
+  eget: https://github.com/hjr265/gittop
+rule:
+  /eget:
+    cmd: x eget hjr265/gittop
+    reference: https://github.com/hjr265/gittop
+binlist:
+  - 'gittop'

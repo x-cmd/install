@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/KoboldAI/KoboldAI-Client
+license: agpl-3.0
+desc:
+  cn: KoboldAI 客户端，GGUF 支持请使用 KoboldCPP
+  en: 'For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp'
+x:
+  source: https://github.com/KoboldAI/KoboldAI-Client
+  eget: https://github.com/KoboldAI/KoboldAI-Client
+rule:
+  /eget:
+    cmd: x eget KoboldAI/KoboldAI-Client
+    reference: https://github.com/KoboldAI/KoboldAI-Client
+binlist:
+- KoboldAI-Client

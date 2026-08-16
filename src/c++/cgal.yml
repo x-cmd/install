@@ -1,0 +1,27 @@
+lang: C++
+homepage: https://github.com/CGAL/cgal
+desc:
+  cn: 计算几何算法库(cgAL)是一个 c + + 库，旨在提供方便的访问高效可靠的计算几何算法的途径
+  en: The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
+x:
+  source: https://github.com/CGAL/cgal
+  eget: https://github.com/CGAL/cgal
+rule:
+  /eget:
+    cmd: x eget CGAL/cgal
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install cgal
+    reference: https://www.cgal.org/download/macosx.html
+  win/vcpkg:
+    cmd: vcpkg install cgal
+    reference: https://www.cgal.org/download/windows.html
+  linux/apt:
+    cmd: sudo apt-get install libcgal-dev
+    reference: https://www.cgal.org/download/linux.html
+  arch/yay:
+    cmd: yay -S cgal-git
+    reference: https://aur.archlinux.org/packages/cgal-git
+binlist:
+- cgal
+license: NOASSERTION

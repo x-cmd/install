@@ -1,0 +1,19 @@
+lang: Rust
+homepage: https://github.com/elichai/kaspa-miner
+license: Apache-2.0
+desc:
+  en: A fast CPU miner for Kaspa
+  cn: Kaspa 的快速 CPU 矿工
+x:
+  source: https://github.com/elichai/kaspa-miner
+  eget: https://github.com/elichai/kaspa-miner
+rule:
+  /eget:
+    cmd: x eget elichai/kaspa-miner
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install kaspa-miner
+    reference: https://github.com/elichai/kaspa-miner?tab=readme-ov-file#from-sources
+    dsnap: kaspa-miner
+binlist:
+- kaspa-miner

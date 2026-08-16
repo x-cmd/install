@@ -1,0 +1,32 @@
+lang: Rust
+homepage: https://github.com/jacek-kurlit/pik
+license: MIT
+desc:
+  cn: Process Interactive Kill 是一个命令行工具，用于查找并终止进程
+  en: Process Interactive Kill is a command line tool that helps to find and kill process
+x:
+  source: https://github.com/jacek-kurlit/pik
+  eget: https://github.com/jacek-kurlit/pik
+rule:
+  /eget:
+    cmd: x eget jacek-kurlit/pik
+    reference: https://x-cmd.com/mod/eget
+  arch/pacman:
+    cmd: pacman -S pik
+    reference: https://github.com/jacek-kurlit/pik?tab=readme-ov-file#installation
+  fedora/dnf:
+    cmd: 'dnf copr enable rusty-jack/pik
+
+      dnf install pik
+
+      '
+    reference: https://github.com/jacek-kurlit/pik?tab=readme-ov-file#installation
+  opensuse-tumbleweed/zypper:
+    cmd: zypper install pik
+    reference: https://github.com/jacek-kurlit/pik?tab=readme-ov-file#installation
+  /cargo:
+    cmd: cargo install pik
+    reference: https://github.com/jacek-kurlit/pik?tab=readme-ov-file#installation
+    dsnap: pik
+binlist:
+- pik

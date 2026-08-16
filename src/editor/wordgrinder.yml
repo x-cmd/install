@@ -1,0 +1,15 @@
+lang: Lua
+homepage: https://github.com/davidgiven/wordgrinder
+desc:
+  cn: 让你专注写作、不挡道的文字处理器
+  en: A word processor which gets the hell out of your way and lets you get some work done.
+x:
+  source: https://github.com/davidgiven/wordgrinder
+  eget: https://github.com/davidgiven/wordgrinder
+rule:
+  /eget:
+    cmd: x eget davidgiven/wordgrinder
+    reference: https://github.com/davidgiven/wordgrinder
+binlist:
+- wordgrinder
+license: NOASSERTION

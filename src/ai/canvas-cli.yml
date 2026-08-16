@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/echosoar/canvas-cli'
+license: noassertion
+desc:
+  cn: 纯 Rust 实现的类 Canvas API 绘图库，让无法直接生成图像的 AI 模型也能产出图片
+  en: 'pure rust implemented drawer library( api like canvas), enables AI models that do not produce raw images to generate images'
+x:
+  source: https://github.com/echosoar/canvas-cli
+  eget: https://github.com/echosoar/canvas-cli
+rule:
+  /eget:
+    cmd: x eget echosoar/canvas-cli
+    reference: https://github.com/echosoar/canvas-cli
+binlist:
+  - 'canvas-cli'

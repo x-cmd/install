@@ -1,0 +1,38 @@
+lang: C
+homepage: https://github.com/RubyMetric/chsrc
+license: GPL-3.0
+desc:
+  cn: 全平台命令行换源工具
+  en: Full platform command line source swap tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/RubyMetric/chsrc
+  eget: https://github.com/RubyMetric/chsrc
+rule:
+  /x:
+    cmd: x pkg use chsrc
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget RubyMetric/chsrc
+    reference: https://x-cmd.com/mod/eget
+  /yay:
+    cmd: yay -S chsrc-bin
+    reference: https://chsrc.run/
+  linux/curl:
+    cmd: curl https://chsrc.run/posix | sudo bash
+    reference: https://chsrc.run/
+  darwin/curl:
+    cmd: curl https://chsrc.run/posix | sudo bash
+    reference: https://chsrc.run/
+  darwin/brew:
+    cmd: brew install chsrc
+    reference: https://chsrc.run/
+  (win|wsl2)/scoop:
+    cmd: x scoop install chsrc
+    reference: https://chsrc.run/
+  win/powershell:
+    cmd: x pwsh "& { $(iwr -useb https://chsrc.run/windows) } -Version pre" | iex
+    reference: https://chsrc.run/
+binlist:
+- chsrc

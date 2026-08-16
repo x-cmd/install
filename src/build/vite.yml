@@ -1,0 +1,18 @@
+lang: TypeScript
+homepage: https://github.com/vitejs/vite
+license: MIT
+desc:
+  cn: Vite 是一种新的前端构建工具，可显着改善前端开发体验
+  en: Vite is a new breed of frontend build tooling that significantly improves the frontend development experience
+x:
+  source: https://github.com/vitejs/vite
+rule:
+  /npm:
+    cmd: npm install -g vite
+    reference: https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+    dsnap: vite
+  darwin/brew:
+    cmd: brew install vite
+    reference: https://formulae.brew.sh/formula/vite#default
+binlist:
+- vite

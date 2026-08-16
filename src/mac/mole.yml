@@ -1,0 +1,22 @@
+lang: Shell
+homepage: https://github.com/tw93/Mole
+license: MIT
+desc:
+  cn: 深度清理并优化您的 Mac 电脑
+  en: Deep clean and optimize your Mac.
+x:
+  source: https://github.com/tw93/Mole
+  eget: https://github.com/tw93/Mole
+rule:
+  /eget:
+    cmd: x eget tw93/Mole
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/tw93/mole/main/install.sh | bash
+    reference: https://github.com/tw93/Mole?tab=readme-ov-file#quick-start
+  darwin/brew:
+    cmd: brew install tw93/tap/mole
+    reference: https://github.com/tw93/Mole?tab=readme-ov-file#quick-start
+binlist:
+  - mo
+  - mole

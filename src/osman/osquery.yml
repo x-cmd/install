@@ -1,0 +1,23 @@
+lang: C++
+homepage: https://github.com/osquery/osquery
+desc:
+  cn: osquery 是一个 SQL 驱动的操作系统检测、监视和分析框架
+  en: osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework
+x:
+  pkg:
+    exist: true
+  source: https://github.com/osquery/osquery
+  eget: https://github.com/osquery/osquery
+rule:
+  /eget:
+    cmd: x eget osquery/osquery
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use osquery
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install --cask osquery
+    reference: https://formulae.brew.sh/cask/osquery#default
+binlist:
+- osquery
+license: NOASSERTION

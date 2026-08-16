@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/christo-auer/eilmeldung'
+license: 'GPL-3.0'
+desc:
+  cn: 基于 news-flash 库的 TUI RSS 阅读器
+  en: 'eilmeldung is a TUI RSS reader based on the awesome news-flash library.'
+x:
+  source: https://github.com/christo-auer/eilmeldung
+  eget: https://github.com/christo-auer/eilmeldung
+rule:
+  /cargo:
+    cmd: 'cargo install eilmeldung --locked'
+    reference: https://github.com/christo-auer/eilmeldung
+  arch/pacman:
+    cmd: 'yay -S eilmeldung'
+    reference: https://github.com/christo-auer/eilmeldung
+  /eget:
+    cmd: x eget christo-auer/eilmeldung
+    reference: https://github.com/christo-auer/eilmeldung
+binlist:
+  - 'eilmeldung'

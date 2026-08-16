@@ -1,0 +1,15 @@
+lang: 'Kotlin'
+homepage: https://github.com/ericschmar/moribito
+license: 'MIT'
+desc:
+  cn: 基于终端的 LDAP 浏览器，可遍历目录树、记录和自定义 LDAP 查询
+  en: 'moribito is a terminal-based LDAP explorer for browsing directory trees, records, and custom LDAP queries.'
+x:
+  source: https://github.com/ericschmar/moribito
+  eget: https://github.com/ericschmar/moribito
+rule:
+  /eget:
+    cmd: x eget ericschmar/moribito
+    reference: https://github.com/ericschmar/moribito
+binlist:
+  - 'moribito'

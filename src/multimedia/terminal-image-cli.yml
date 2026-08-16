@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: https://github.com/sindresorhus/terminal-image-cli#readme
+license: MIT
+desc:
+  en: Display images in the terminal
+  cn: 在终端中显示图像
+x:
+  pkg:
+    exist: true
+  source: https://github.com/sindresorhus/terminal-image-cli#readme
+rule:
+  /x:
+    cmd: x pkg use terminal-image-cli
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install --global terminal-image-cli
+    reference: https://github.com/sindresorhus/terminal-image-cli?tab=readme-ov-file#install
+    dsnap: terminal-image-cli
+binlist:
+- terminal-image-cli

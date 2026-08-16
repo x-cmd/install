@@ -1,0 +1,14 @@
+lang: Shell
+homepage: https://github.com/oh-my-fish/oh-my-fish
+license: MIT
+desc:
+  cn: Fish Shell 框架
+  en: The Fish Shell Framework
+x:
+  source: https://github.com/oh-my-fish/oh-my-fish
+rule:
+  /curl:
+    cmd: curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+    reference: https://github.com/oh-my-fish/oh-my-fish/blob/master/README.md
+binlist:
+- oh-my-fish

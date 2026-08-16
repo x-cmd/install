@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/dlvhdr/diffnav'
+license: 'MIT'
+desc:
+  cn: 基于 delta 的 git diff 分页器，带 GitHub 风格的文件树
+  en: 'A git diff pager based on delta but with a file tree, à la GitHub.'
+x:
+  source: https://github.com/dlvhdr/diffnav
+  eget: https://github.com/dlvhdr/diffnav
+rule:
+  darwin/brew:
+    cmd: 'brew install --cask font-<FONT NAME>-nerd-font'
+    reference: https://github.com/dlvhdr/diffnav
+  /eget:
+    cmd: x eget dlvhdr/diffnav
+    reference: https://github.com/dlvhdr/diffnav
+binlist:
+  - 'diffnav'

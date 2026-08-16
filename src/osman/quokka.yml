@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/dutradotdev/quokka'
+license: 'MIT'
+desc:
+  cn: 从终端检查和清理 USB 连接设备：存储、应用、媒体及实时日志查看器，无需越狱或 root
+  en: 'Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.'
+x:
+  source: https://github.com/dutradotdev/quokka
+  eget: https://github.com/dutradotdev/quokka
+rule:
+  darwin/brew:
+    cmd: 'brew install android-platform-tools'
+    reference: https://github.com/dutradotdev/quokka
+  /eget:
+    cmd: x eget dutradotdev/quokka
+    reference: https://github.com/dutradotdev/quokka
+binlist:
+  - 'quokka'

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/jamubc/gemini-mcp-tool
+license: other
+desc:
+  cn: 让 AI 助手对接 Google Gemini CLI 的 MCP 服务器，借助超大 token 窗口分析大文件与理解代码库
+  en: MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
+x:
+  source: https://github.com/jamubc/gemini-mcp-tool
+rule:
+  /npm:
+    cmd: npm install -g gemini-mcp-tool
+    reference: https://www.npmjs.com/package/gemini-mcp-tool
+    dsnap: 'gemini-mcp-tool'
+binlist:
+- gemini-mcp-tool

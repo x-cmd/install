@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/alDuncanson/Handler
+license: 'GPL-3.0'
+desc:
+  cn: 终端中的 A2A 协议客户端
+  en: 'A2A protocol client for your terminal'
+x:
+  source: https://github.com/alDuncanson/Handler
+  eget: https://github.com/alDuncanson/Handler
+rule:
+  /eget:
+    cmd: x eget alDuncanson/Handler
+    reference: https://github.com/alDuncanson/Handler
+binlist:
+  - 'handler'

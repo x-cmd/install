@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/NikolaDucak/caps-log'
+license: 'MIT'
+desc:
+  cn: 小巧的 TUI 日记工具
+  en: 'A small TUI journaling tool. 📖'
+x:
+  source: https://github.com/NikolaDucak/caps-log
+  eget: https://github.com/NikolaDucak/caps-log
+rule:
+  /eget:
+    cmd: x eget NikolaDucak/caps-log
+    reference: https://github.com/NikolaDucak/caps-log
+binlist:
+  - 'caps-log'

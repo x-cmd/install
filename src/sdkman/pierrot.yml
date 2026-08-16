@@ -1,0 +1,23 @@
+lang: Java
+homepage: https://github.com/agorapulse/pierrot
+license: Apache-2.0
+desc:
+  cn: 多仓库 GitHub 管理工具
+  en: Multi-repository GitHub Governance Tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/agorapulse/pierrot
+  eget: https://github.com/agorapulse/pierrot
+rule:
+  /eget:
+    cmd: x eget agorapulse/pierrot
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use pierrot
+    reference: https://x-cmd.com/install/
+  /sdk:
+    cmd: sdk install pierrot
+    reference: https://agorapulse.github.io/pierrot/#_installation
+binlist:
+- pierrot

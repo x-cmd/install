@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/NustyFrozen/SEE'
+license: 'GPL-3.0'
+desc:
+  cn: 基于 TUI 的服务日志查询工具(systemd)
+  en: 'see (Service Event Extraction) is a TUI based tool to lookup logs from services (systemd)'
+x:
+  source: https://github.com/NustyFrozen/SEE
+  eget: https://github.com/NustyFrozen/SEE
+rule:
+  /cargo:
+    cmd: 'cargo install seetui'
+    reference: https://github.com/NustyFrozen/SEE
+  /eget:
+    cmd: x eget NustyFrozen/SEE
+    reference: https://github.com/NustyFrozen/SEE
+binlist:
+  - 'see-tui'

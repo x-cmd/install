@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/brabble
+license: mit
+desc:
+  cn: Star Trek 式的对话 Agent，可在触发命令后运行钩子，完全本地运行
+  en: '"Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit''s scary.'
+x:
+  source: https://github.com/steipete/brabble
+  eget: https://github.com/steipete/brabble
+rule:
+  /eget:
+    cmd: x eget steipete/brabble
+    reference: https://github.com/steipete/brabble
+binlist:
+- brabble

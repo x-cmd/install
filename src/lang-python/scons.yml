@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/SCons/scons
+license: MIT
+desc:
+  cn: SCons 是一个开源软件构建工具
+  en: SCons is an Open Source software construction tool
+x:
+  source: https://github.com/SCons/scons
+rule:
+  /pip:
+    cmd: python -m pip install scons
+    reference: https://scons.org/doc/production/HTML/scons-user.html#sect-install-scons
+    dsnap: scons
+  darwin/brew:
+    cmd: brew install scons
+    reference: https://formulae.brew.sh/formula/scons#default
+binlist:
+- scons

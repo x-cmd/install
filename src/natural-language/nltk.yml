@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/nltk/nltk
+license: Apache-2.0
+desc:
+  cn: NLTK（自然语言工具包）是一套开源 Python 模块、数据集和教程，支持自然语言处理的研究和开发。
+  en: NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+x:
+  source: https://github.com/nltk/nltk
+rule:
+  /pip:
+    cmd: pip install --user -U nltk
+    reference: https://www.nltk.org/install.html#mac-unix
+    dsnap: nltk
+binlist:
+- nltk

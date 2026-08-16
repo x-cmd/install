@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/Racum/uuinfo
+desc:
+  cn: 调试唯一标识符（UUID、ULID、Snowflake 等）的工具
+  en: A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
+x:
+  source: https://github.com/Racum/uuinfo
+  eget: https://github.com/Racum/uuinfo
+rule:
+  /eget:
+    cmd: x eget Racum/uuinfo
+    reference: https://github.com/Racum/uuinfo
+binlist:
+- uuinfo
+license: NOASSERTION

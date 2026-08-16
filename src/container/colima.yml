@@ -1,0 +1,27 @@
+lang: Go
+homepage: https://github.com/abiosoft/colima
+license: MIT
+desc:
+  cn: 安装最少的 macOS (和 Linux)上的容器运行时
+  en: Container runtimes on macOS (and Linux) with minimal setup
+x:
+  source: https://github.com/abiosoft/colima
+  eget: https://github.com/abiosoft/colima
+rule:
+  /eget:
+    cmd: x eget abiosoft/colima
+    reference: https://x-cmd.com/mod/eget
+  darwin/port:
+    cmd: sudo port install colima
+    reference: https://github.com/abiosoft/colima?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S colima
+    reference: https://aur.archlinux.org/packages/colima
+  darwin/brew:
+    cmd: brew install colima
+    reference: https://github.com/abiosoft/colima?tab=readme-ov-file#installation
+  /nixpkgs:
+    cmd: nix-env -iA nixpkgs.colima
+    reference: https://github.com/abiosoft/colima?tab=readme-ov-file#installation
+binlist:
+- colima

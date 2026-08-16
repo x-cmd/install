@@ -1,0 +1,21 @@
+lang: C++
+homepage: https://github.com/zen-browser/desktop
+license: MPL-2.0
+desc:
+  cn: 一款基于 Firefox 引擎的类 Arc 开源浏览器
+  en: A Arc-like open-source browser based on the Firefox engine
+x:
+  source: https://github.com/zen-browser/desktop
+  eget: https://github.com/zen-browser/desktop
+rule:
+  /eget:
+    cmd: x eget zen-browser/desktop
+    reference: https://x-cmd.com/mod/eget
+  /flatpak:
+    cmd: flatpak install flathub io.github.zen_browser.zen
+    reference: https://flathub.org/apps/io.github.zen_browser.zen
+  arch/yay:
+    cmd: yay -S zen-browser-bin
+    reference: https://aur.archlinux.org/packages/zen-browser
+binlist:
+- zen-browser

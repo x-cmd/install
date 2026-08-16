@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/gsd-build/get-shit-done
+license: mit
+desc:
+  cn: 编排 AI 智能体完成从规划研究到代码执行验证的规格驱动软件开发
+  en: Orchestrate AI agents to manage spec-driven software development, from planning and research to code execution and verification, directly from your command line.
+x:
+  source: https://github.com/gsd-build/get-shit-done
+  eget: https://github.com/gsd-build/get-shit-done
+rule:
+  /eget:
+    cmd: x eget gsd-build/get-shit-done
+    reference: https://github.com/gsd-build/get-shit-done
+binlist:
+- get-shit-done

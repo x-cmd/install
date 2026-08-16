@@ -1,0 +1,30 @@
+lang: Go
+homepage: https://github.com/oz/tz
+license: GPL-3.0
+desc:
+  cn: 时区助手
+  en: A time zone helper
+x:
+  pkg:
+    exist: true
+  source: https://github.com/oz/tz
+  eget: https://github.com/oz/tz
+rule:
+  /x:
+    cmd: x pkg use tz
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget oz/tz
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S tz
+    reference: https://aur.archlinux.org/packages/tz
+  darwin/brew:
+    cmd: brew install tz
+    reference: https://github.com/oz/tz?tab=readme-ov-file#brew
+  /go:
+    cmd: go install github.com/oz/tz@latest
+    reference: https://github.com/oz/tz?tab=readme-ov-file#go
+    dsnap: github.com/oz/tz
+binlist:
+- tz

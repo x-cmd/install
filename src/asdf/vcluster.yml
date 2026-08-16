@@ -1,0 +1,38 @@
+lang: Go
+homepage: https://github.com/loft-sh/vcluster
+license: Apache-2.0
+desc:
+  cn: 虚拟集群正在完全工作的 kubernetes 集群，它们在其他 Kubernetes 集群之上运行
+  en: Virtual clusters are fully working Kubernetes clusters that run on top of other Kubernetes clusters
+x:
+  source: https://github.com/loft-sh/vcluster
+  eget: https://github.com/loft-sh/vcluster
+rule:
+  /eget:
+    cmd: x eget loft-sh/vcluster
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install vcluster
+    reference: https://www.vcluster.com/docs/getting-started/setup#download-vcluster-cli
+  darwin/curl:
+    cmd: curl -L -o vcluster "https://github.com/loft-sh/vcluster/releases/latest/download/vcluster-darwin-arm64" && sudo install -c -m 0755 vcluster /usr/local/bin && rm -f vcluster
+    reference: https://www.vcluster.com/docs/getting-started/setup#download-vcluster-cli
+  linux/curl:
+    cmd: curl -L -o vcluster "https://github.com/loft-sh/vcluster/releases/latest/download/vcluster-linux-amd64" && sudo install -c -m 0755 vcluster /usr/local/bin && rm -f vcluster
+    reference: https://www.vcluster.com/docs/getting-started/setup#download-vcluster-cli
+  win/powershell:
+    cmd: 'md -Force "$Env:APPDATA\vcluster"; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]''Tls,Tls11,Tls12''; \
+
+      && Invoke-WebRequest -URI "https://github.com/loft-sh/vcluster/releases/latest/download/vcluster-windows-amd64.exe" -o $Env:APPDATA\vcluster\vcluster.exe; \
+
+      && $env:Path += ";" + $Env:APPDATA + "\vcluster"; \
+
+      && [Environment]::SetEnvironmentVariable("Path", $env:Path, [System.EnvironmentVariableTarget]::User);
+
+      '
+    reference: https://www.vcluster.com/docs/getting-started/setup#download-vcluster-cli
+  /asdf:
+    cmd: x asdf use vcluster
+    reference: https://gitlab.com/wt0f/asdf-vcluster#install
+binlist:
+- vcluster

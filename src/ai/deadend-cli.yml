@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/straylabs-ai/deadend-cli
+license: agpl-3.0
+desc:
+  cn: 智能体化渗透测试工具，完全自托管，支持 LiteLLM 上的各类模型
+  en: Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
+x:
+  source: https://github.com/straylabs-ai/deadend-cli
+  eget: https://github.com/straylabs-ai/deadend-cli
+rule:
+  /eget:
+    cmd: x eget straylabs-ai/deadend-cli
+    reference: https://github.com/straylabs-ai/deadend-cli
+binlist:
+- deadend-cli

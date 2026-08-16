@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/Hmbown/CodeWhale
+license: mit
+desc:
+  cn: 开源、社区驱动的智能体框架
+  en: Open-source, community-driven agent harness
+x:
+  source: https://github.com/Hmbown/CodeWhale
+  eget: https://github.com/Hmbown/CodeWhale
+rule:
+  /eget:
+    cmd: x eget Hmbown/CodeWhale
+    reference: https://github.com/Hmbown/CodeWhale
+binlist:
+- CodeWhale

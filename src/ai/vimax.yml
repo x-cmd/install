@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/HKUDS/ViMax
+license: mit
+desc:
+  cn: 港大数据智能实验室（HKUDS）开源的多 Agent 视频生成框架，从创意、剧本或整本小说出发，自动完成脚本、角色、分镜、镜头与多镜头视频的全流程制作。
+  en: HKUDS's open-source multi-agent video generation framework that turns ideas, scripts, or full novels into finished multi-shot videos — automating script, character, storyboard, shot, and video production end-to-end.
+x:
+  source: https://github.com/HKUDS/ViMax
+rule:
+  /git:
+    cmd: x git clone HKUDS/ViMax
+    reference: https://github.com/HKUDS/ViMax#quick-start
+binlist:
+- vimax

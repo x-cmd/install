@@ -1,0 +1,18 @@
+lang: JavaScript
+homepage: https://github.com/cloud66-oss/copper
+license: Apache-2.0
+desc:
+  cn: Copper 是验证配置文件的简单工具
+  en: Copper is a simple tool for validate your configuration files
+x:
+  source: https://github.com/cloud66-oss/copper
+  eget: https://github.com/cloud66-oss/copper
+rule:
+  /eget:
+    cmd: x eget cloud66-oss/copper
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use copper
+    reference: https://github.com/vladlosev/asdf-copper?tab=readme-ov-file#install
+binlist:
+- copper

@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/0xjuanma/golazo
+license: 'MIT'
+desc:
+  cn: 终端里的足球赛事追踪工具,Go 编写的极简 TUI,关注实时和近期比赛
+  en: 'The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.'
+x:
+  source: https://github.com/0xjuanma/golazo
+  eget: https://github.com/0xjuanma/golazo
+rule:
+  darwin/brew:
+    cmd: 'brew install 0xjuanma/tap/golazo'
+    reference: https://github.com/0xjuanma/golazo
+  /eget:
+    cmd: x eget 0xjuanma/golazo
+    reference: https://github.com/0xjuanma/golazo
+binlist:
+  - 'golazo'

@@ -1,0 +1,28 @@
+lang: Go
+homepage: https://github.com/merschformann/gotz
+license: MIT
+desc:
+  cn: 一个简单的命令行工具，用于显示终端中的多个时区信息。
+  en: A simple CLI timezone info tool.
+x:
+  source: https://github.com/merschformann/gotz
+rule:
+  /go:
+    cmd: go install github.com/merschformann/gotz@latest
+    reference: https://github.com/merschformann/gotz#installation
+    dsnap: github.com/merschformann/gotz@latest
+  /brew:
+    cmd: 'brew tap merschformann/gotz \
+
+      && brew install gotz
+
+      '
+    reference: https://github.com/merschformann/gotz#installation
+  arch/pacman:
+    cmd: pacman -S gotz-bin
+    reference: https://github.com/merschformann/gotz#installation
+  /eget:
+    cmd: eget merschformann/gotz
+    reference: https://github.com/merschformann/gotz#installation
+binlist:
+- gotz

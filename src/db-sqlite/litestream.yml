@@ -1,0 +1,32 @@
+lang: Go
+homepage: https://github.com/benbjohnson/litestream
+license: Apache-2.0
+desc:
+  cn: Litestream 是 SQLite 的独立灾难恢复工具
+  en: Litestream is a standalone disaster recovery tool for SQLite
+x:
+  source: https://github.com/benbjohnson/litestream
+  eget: https://github.com/benbjohnson/litestream
+rule:
+  /eget:
+    cmd: x eget benbjohnson/litestream
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install benbjohnson/litestream/litestream
+    reference: https://litestream.io/install/mac/
+  debian/wget:
+    cmd: 'wget https://github.com/benbjohnson/litestream/releases/download/v0.3.13/litestream-v0.3.13-linux-amd64.deb \
+
+      && sudo dpkg -i litestream-v0.3.13-linux-amd64.deb
+
+      '
+    reference: https://litestream.io/install/debian/
+  /go:
+    cmd: go install ./cmd/litestream
+    reference: https://litestream.io/install/source/
+    dsnap: litestream
+  arch/yay:
+    cmd: yay -S litestream
+    reference: https://aur.archlinux.org/packages/litestream
+binlist:
+- litestream

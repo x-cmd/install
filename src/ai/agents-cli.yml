@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/google/agents-cli
+license: apache-2.0
+desc:
+  cn: 将任意编码助手变为在 Google Cloud 上创建、评估与部署 AI Agent 专家的 CLI 与技能集
+  en: The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
+x:
+  source: https://github.com/google/agents-cli
+  eget: https://github.com/google/agents-cli
+rule:
+  /eget:
+    cmd: x eget google/agents-cli
+    reference: https://github.com/google/agents-cli
+binlist:
+- agents-cli

@@ -1,0 +1,21 @@
+lang: C#
+homepage: https://github.com/nilaoda/BBDown
+license: MIT
+desc:
+  cn: 一款命令行式哔哩哔哩下载器
+  en: A command-line Bilibili Downloader
+x:
+  source: https://github.com/nilaoda/BBDown
+  eget: https://github.com/nilaoda/BBDown
+rule:
+  /eget:
+    cmd: x eget nilaoda/BBDown
+    reference: https://x-cmd.com/mod/eget
+  /dotnet:
+    cmd: dotnet tool install --global BBDown
+    reference: https://github.com/nilaoda/BBDown
+  arch/yay:
+    cmd: yay -S bbdown-bin
+    reference: https://aur.archlinux.org/packages/bbdown-bin
+binlist:
+- BBDown

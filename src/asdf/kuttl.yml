@@ -1,0 +1,25 @@
+lang: Go
+homepage: https://github.com/kudobuilder/kuttl
+license: Apache-2.0
+desc:
+  cn: KUbernetes 测试工具(KUTTL)是一个工具包，它使得仅使用 YAML 就可以很容易地测试 KUbernetes 操作符(打开新窗口)
+  en: The KUbernetes Test TooL (KUTTL) is a toolkit that makes it easy to test Kubernetes Operators (opens new window), just using YAML
+x:
+  source: https://github.com/kudobuilder/kuttl
+  eget: https://github.com/kudobuilder/kuttl
+rule:
+  /eget:
+    cmd: x eget kudobuilder/kuttl
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap kudobuilder/tap \
+
+      && brew install kuttl-cli
+
+      '
+    reference: https://kuttl.dev/#get-kuttl
+  /asdf:
+    cmd: x asdf use kuttl
+    reference: https://github.com/jimmidyson/asdf-kuttl?tab=readme-ov-file#install
+binlist:
+- kuttl

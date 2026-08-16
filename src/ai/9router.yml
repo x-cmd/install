@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/decolua/9router
+license: mit
+desc:
+  cn: 本地 AI 路由网关，聚合 40+ Provider、100+ 模型，自动 fallback、RTK 压缩省 20-40% token，统一接入 Claude Code / Codex / Cursor 等编程工具。
+  en: Local AI router that aggregates 40+ providers and 100+ models with auto-fallback and RTK token compression (20-40% savings), unifying Claude Code / Codex / Cursor and other coding tools.
+x:
+  source: https://github.com/decolua/9router
+rule:
+  /npm:
+    cmd: npm install -g 9router
+    reference: https://github.com/decolua/9router#-quick-start
+    dsnap: 9router
+binlist:
+- 9router

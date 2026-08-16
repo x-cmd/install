@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/plutov/oq'
+license: 'MIT'
+desc:
+  cn: 终端 OpenAPI Spec 查看器
+  en: 'Terminal OpenAPI Spec viewer'
+x:
+  source: https://github.com/plutov/oq
+  eget: https://github.com/plutov/oq
+rule:
+  /eget:
+    cmd: x eget plutov/oq
+    reference: https://github.com/plutov/oq
+binlist:
+  - 'oq'

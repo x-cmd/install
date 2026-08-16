@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: https://github.com/herrhotzenplotz/gcli
+license: 'BSD-2-Clause'
+desc:
+  cn: 可移植的 Git(hub|lab|tea)/Forgejo/Bugzilla CLI 工具
+  en: 'Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel'
+x:
+  source: https://github.com/herrhotzenplotz/gcli
+  eget: https://github.com/herrhotzenplotz/gcli
+rule:
+  /eget:
+    cmd: x eget herrhotzenplotz/gcli
+    reference: https://github.com/herrhotzenplotz/gcli
+binlist:
+  - 'gcli'

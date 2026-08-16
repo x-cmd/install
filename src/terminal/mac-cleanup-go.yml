@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/2ykwang/mac-cleanup-go'
+license: 'MIT'
+desc:
+  cn: macOS 清理 TUI，扫描缓存与日志、显示大小与路径，可在移入废纸篓前选择性删除
+  en: 'TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.'
+x:
+  source: https://github.com/2ykwang/mac-cleanup-go
+  eget: https://github.com/2ykwang/mac-cleanup-go
+rule:
+  /eget:
+    cmd: x eget 2ykwang/mac-cleanup-go
+    reference: https://github.com/2ykwang/mac-cleanup-go
+binlist:
+  - 'mac-cleanup-go'

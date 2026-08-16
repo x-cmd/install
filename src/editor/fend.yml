@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: https://github.com/printfn/fend
+license: 'MIT'
+desc:
+  cn: 支持任意精度与单位换算的计算器
+  en: 'Arbitrary-precision unit-aware calculator'
+x:
+  source: https://github.com/printfn/fend
+  eget: https://github.com/printfn/fend
+rule:
+  /cargo:
+    cmd: 'cargo install fend'
+    reference: https://github.com/printfn/fend
+  darwin/brew:
+    cmd: 'brew install fend'
+    reference: https://github.com/printfn/fend
+  /eget:
+    cmd: x eget printfn/fend
+    reference: https://github.com/printfn/fend
+binlist:
+  - 'fend'

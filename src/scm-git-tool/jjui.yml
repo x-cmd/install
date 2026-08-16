@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/idursun/jjui
+license: 'MIT'
+desc:
+  cn: 面向 Jujutsu 版本控制系统的 TUI
+  en: 'jjui is a TUI designed for interacting with the Jujutsu version control system.'
+x:
+  source: https://github.com/idursun/jjui
+  eget: https://github.com/idursun/jjui
+rule:
+  /eget:
+    cmd: x eget idursun/jjui
+    reference: https://github.com/idursun/jjui
+binlist:
+  - 'jjui'

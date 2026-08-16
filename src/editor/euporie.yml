@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/joouha/euporie
+license: 'MIT'
+desc:
+  cn: 终端中的 Jupyter 笔记本
+  en: 'Jupyter notebooks in the terminal'
+x:
+  source: https://github.com/joouha/euporie
+  eget: https://github.com/joouha/euporie
+rule:
+  /eget:
+    cmd: x eget joouha/euporie
+    reference: https://github.com/joouha/euporie
+binlist:
+  - 'euporie'

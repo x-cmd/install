@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/EKKOLearnAI/hermes-web-ui
+license: noassertion
+desc:
+  cn: 部署自托管 Web 仪表板管理 Hermes Agent 聊天会话、配置渠道、监控用量与调度任务
+  en: Deploy a self-hosted web dashboard to manage Hermes Agent chat sessions, configure channels, monitor usage, and schedule jobs.
+x:
+  source: https://github.com/EKKOLearnAI/hermes-web-ui
+rule:
+  /npm:
+    cmd: npm install -g hermes-web-ui
+    reference: https://github.com/EKKOLearnAI/hermes-web-ui#-npm
+    dsnap: hermes-web-ui
+binlist:
+- hermes-web-ui

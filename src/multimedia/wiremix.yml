@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/tsowell/wiremix'
+license: 'Apache-2.0'
+desc:
+  cn: 面向 PipeWire 的简洁 TUI 音频混音器
+  en: 'Simple TUI audio mixer for PipeWire'
+x:
+  source: https://github.com/tsowell/wiremix
+  eget: https://github.com/tsowell/wiremix
+rule:
+  /cargo:
+    cmd: 'cargo install wiremix'
+    reference: https://github.com/tsowell/wiremix
+  debian/apt:
+    cmd: 'sudo apt install cargo libpipewire-0.3-dev pkg-config clang'
+    reference: https://github.com/tsowell/wiremix
+  /eget:
+    cmd: x eget tsowell/wiremix
+    reference: https://github.com/tsowell/wiremix
+binlist:
+  - 'wiremix'

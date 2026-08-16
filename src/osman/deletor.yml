@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/pashkov256/deletor
+license: 'MIT'
+desc:
+  cn: 用交互式 TUI 与可脚本化 CLI 高效管理与删除文件
+  en: 'Manage and delete files efficiently with an interactive TUI and scriptable CLI.'
+x:
+  source: https://github.com/pashkov256/deletor
+  eget: https://github.com/pashkov256/deletor
+rule:
+  /eget:
+    cmd: x eget pashkov256/deletor
+    reference: https://github.com/pashkov256/deletor
+binlist:
+  - 'deletor'

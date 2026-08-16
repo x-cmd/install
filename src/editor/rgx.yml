@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/brevity1swos/rgx'
+license: 'Apache-2.0'
+desc:
+  cn: 终端中的 regex101:实时匹配、三引擎、捕获组、替换、语法高亮、英文释义、撤销/重做与鼠标支持
+  en: 'regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.'
+x:
+  source: https://github.com/brevity1swos/rgx
+  eget: https://github.com/brevity1swos/rgx
+rule:
+  /eget:
+    cmd: x eget brevity1swos/rgx
+    reference: https://github.com/brevity1swos/rgx
+binlist:
+  - 'rgx'

@@ -1,0 +1,74 @@
+lang: Go
+homepage: https://github.com/kopia/kopia
+license: Apache-2.0
+desc:
+  cn: 适用于 Windows、macOS 和 Linux 的跨平台备份工具，具有快速增量备份、客户端端到端加密、压缩和重复数据删除功能
+  en: Cross-platform backup tool for Windows, macOS, and Linux with fast incremental backups, client-side end-to-end encryption, compression, and deduplication
+x:
+  pkg:
+    exist: true
+  source: https://github.com/kopia/kopia
+  eget: https://github.com/kopia/kopia
+rule:
+  /x:
+    cmd: x pkg use kopia
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget kopia/kopia
+    reference: https://x-cmd.com/mod/eget
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add kopia https://github.com/kopia/scoop-bucket.git \
+
+      && x scoop install kopia
+
+      '
+    reference: https://kopia.io/docs/installation/#windows-cli-installation-using-scoop
+  darwin/brew:
+    cmd: brew install kopia
+    reference: https://kopia.io/docs/installation/#macos-cli-using-homebrew
+  fedora/yum:
+    cmd: sudo yum install kopia
+    reference: https://kopia.io/docs/installation/#linux-installation-using-rpm-redhat-centos-fedora
+  rhel/yum:
+    cmd: sudo yum install kopia
+    reference: https://kopia.io/docs/installation/#linux-installation-using-rpm-redhat-centos-fedora
+  centos/yum:
+    cmd: sudo yum install kopia
+    reference: https://kopia.io/docs/installation/#linux-installation-using-rpm-redhat-centos-fedora
+  arch/yay:
+    cmd: sudo yay -S kopia
+    reference: https://kopia.io/docs/installation/#linux-installation-using-aur-arch-manjaro
+  manjaro/yay:
+    cmd: sudo yay -S kopia
+    reference: https://kopia.io/docs/installation/#linux-installation-using-aur-arch-manjaro
+  openbsd/pkg_add:
+    cmd: pkg_add kopia
+    reference: https://kopia.io/docs/installation/#openbsd-installation-via-ports
+  freebsd/pkg:
+    cmd: 'cd /usr/ports/sysutils/kopia/ && make install clean \
+
+      && pkg install sysutils/kopia \
+
+      && pkg install kopia
+
+      '
+    reference: https://kopia.io/docs/installation/#freebsd-installation-via-ports
+  /curl:
+    cmd: 'curl https://kopia.io/signing-key | gpg --import - \
+
+      && sha256sum --check checksums.txt \
+
+      && gpg --verify checksums.txt.sig \
+
+      && chmod u+x path/to/kopia \
+
+      && sudo mv path/to/kopia /usr/local/bin/kopia
+
+      '
+    reference: https://kopia.io/docs/installation/#verifying-package-integrity
+  /go:
+    cmd: go install github.com/kopia/kopia@latest
+    reference: https://kopia.io/docs/installation/#compilation-from-source
+    dsnap: kopia
+binlist:
+- kopia

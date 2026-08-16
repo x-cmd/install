@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/khoj-ai/khoj
+license: 'AGPL-3.0'
+desc:
+  cn: 你的 AI 第二大脑，可自托管，支持联网或本地文档问答、自定义智能体与深度研究
+  en: 'Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous ...'
+x:
+  source: https://github.com/khoj-ai/khoj
+  eget: https://github.com/khoj-ai/khoj
+rule:
+  /eget:
+    cmd: x eget khoj-ai/khoj
+    reference: https://github.com/khoj-ai/khoj
+binlist:
+  - 'khoj'

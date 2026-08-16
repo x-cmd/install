@@ -1,0 +1,27 @@
+lang: Rust
+homepage: https://github.com/fathyb/carbonyl
+license: BSD-3-Clause
+desc:
+  cn: Carbonyl 是一款基于 Chromium 的浏览器，可在终端中运行
+  en: Carbonyl is a Chromium based browser built to run in a terminal
+x:
+  pkg:
+    exist: true
+  source: https://github.com/fathyb/carbonyl
+  eget: https://github.com/fathyb/carbonyl
+rule:
+  /x:
+    cmd: x pkg use carbonyl
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget fathyb/carbonyl
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm install --global carbonyl
+    reference: https://github.com/fathyb/carbonyl?tab=readme-ov-file#npm
+    dsnap: carbonyl
+  arch/yay:
+    cmd: yay -S carbonyl
+    reference: https://aur.archlinux.org/packages/carbonyl
+binlist:
+- carbonyl

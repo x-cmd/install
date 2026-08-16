@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/nesquena/hermes-webui
+license: mit
+desc:
+  cn: 提供自托管 Web 界面与持久自我进化的 Hermes AI 智能体交互，支持持续学习与任务自动化
+  en: Provides a self-hosted web interface to interact with and manage the persistent, self-improving Hermes AI agent, enabling continuous learning and task automation.
+x:
+  source: https://github.com/nesquena/hermes-webui
+  eget: https://github.com/nesquena/hermes-webui
+rule:
+  /eget:
+    cmd: x eget nesquena/hermes-webui
+    reference: https://github.com/nesquena/hermes-webui
+binlist:
+- hermes-webui

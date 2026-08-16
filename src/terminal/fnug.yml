@@ -1,0 +1,25 @@
+lang: Python
+homepage: https://github.com/nickolaj-jepsen/fnug
+license: GPL-3.0
+desc:
+  cn: 一个在终端中同时运行所有 lint、测试和命令的 多路复用器
+  en: A TUI and multiplexer designed for running lints, tests, and other commands concurrently in the terminal.
+x:
+  source: https://github.com/nickolaj-jepsen/fnug
+  eget: https://github.com/nickolaj-jepsen/fnug
+rule:
+  /eget:
+    cmd: x eget nickolaj-jepsen/fnug
+    reference: https://x-cmd.com/mod/eget
+  /pipx:
+    cmd: pipx install fnug
+    reference: https://github.com/nickolaj-jepsen/fnug#installation
+  /rye:
+    cmd: rye install fnug
+    reference: https://github.com/nickolaj-jepsen/fnug#installation
+  /pip:
+    cmd: pip install fnug
+    reference: https://github.com/nickolaj-jepsen/fnug#installation
+    dsnap: fnug
+binlist:
+- fnug

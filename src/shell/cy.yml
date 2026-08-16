@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/cfoust/cy'
+license: 'MIT'
+desc:
+  cn: 终端中的时间旅行工具
+  en: '🤖 time travel in the terminal'
+x:
+  source: https://github.com/cfoust/cy
+  eget: https://github.com/cfoust/cy
+rule:
+  /eget:
+    cmd: x eget cfoust/cy
+    reference: https://github.com/cfoust/cy
+binlist:
+  - 'cy'

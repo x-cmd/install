@@ -1,0 +1,54 @@
+lang: Rust
+homepage: https://github.com/sinelaw/fresh
+license: GPL-2.0
+desc:
+  cn: 一款易于使用、强大且快速的现代终端 IDE 与文本编辑器
+  en: A modern, full-featured terminal text editor and IDE that's easy, powerful, and fast
+x:
+  source: https://github.com/sinelaw/fresh
+  eget: https://github.com/sinelaw/fresh
+rule:
+  /eget:
+    cmd: x eget sinelaw/fresh
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh
+    reference: https://github.com/sinelaw/fresh#installation
+  darwin/brew:
+    cmd: brew install fresh-editor
+    reference: https://github.com/sinelaw/fresh#brew
+  arch/yay:
+    cmd: yay -S fresh-editor-bin
+    reference: https://aur.archlinux.org/packages/fresh-editor-bin
+  /dpkg:
+    cmd: 'curl -sL $(curl -s https://api.github.com/repos/sinelaw/fresh/releases/latest | grep "browser_download_url.*_$(dpkg --print-architecture)\.deb" | cut -d ''"'' -f 4) -o fresh-editor.deb
+
+      sudo dpkg -i fresh-editor.deb
+
+      '
+    reference: https://github.com/sinelaw/fresh#debianubuntu-deb
+  /rpm:
+    cmd: 'curl -sL $(curl -s https://api.github.com/repos/sinelaw/fresh/releases/latest | grep "browser_download_url.*\.$(uname -m)\.rpm" | cut -d ''"'' -f 4) -o fresh-editor.rpm
+
+      sudo rpm -U fresh-editor.rpm
+
+      '
+    reference: https://github.com/sinelaw/fresh#fedorarhel-rpm
+  opensuse/zypper:
+    cmd: sudo zypper install fresh-editor
+    reference: https://github.com/sinelaw/fresh#opensuse-zypper
+  gentoo/emerge:
+    cmd: sudo emerge --ask app-editors/fresh
+    reference: https://github.com/sinelaw/fresh#gentoo-guru
+  (win|wsl2)/winget:
+    cmd: x winget install fresh-editor
+    reference: https://github.com/sinelaw/fresh#windows-winget
+  nix/flakes:
+    cmd: nix profile add github:sinelaw/fresh
+    reference: https://github.com/sinelaw/fresh#nix-flakes
+  /cargo:
+    cmd: cargo install --locked fresh-editor
+    reference: https://github.com/sinelaw/fresh#from-cratesio
+    dsnap: fresh-editor
+binlist:
+- fresh

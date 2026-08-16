@@ -1,0 +1,21 @@
+lang: 'Go'
+homepage: https://github.com/gfazioli/octoscope
+license: 'MIT'
+desc:
+  cn: GitHub 终端仪表盘，一眼掌握粉丝、星标、PR 与 issue，自动刷新
+  en: 'Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed'
+x:
+  source: https://github.com/gfazioli/octoscope
+  eget: https://github.com/gfazioli/octoscope
+rule:
+  darwin/brew:
+    cmd: 'brew install terminal-notifier'
+    reference: https://github.com/gfazioli/octoscope
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/gfazioli/octoscope
+  /eget:
+    cmd: x eget gfazioli/octoscope
+    reference: https://github.com/gfazioli/octoscope
+binlist:
+  - 'octoscope'

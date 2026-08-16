@@ -1,0 +1,26 @@
+lang: Rust
+homepage: https://github.com/Wilfred/difftastic
+license: MIT
+desc:
+  cn: Difftastic 是一种结构差异工具，可根据语法对文件进行比较。
+  en: Difftastic is a structural diff tool that compares files based on their syntax.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/Wilfred/difftastic
+  eget: https://github.com/Wilfred/difftastic
+rule:
+  /x:
+    cmd: x pkg use difft
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget Wilfred/difftastic
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S difftastic-git
+    reference: https://aur.archlinux.org/packages/difftastic-git
+  darwin/brew:
+    cmd: brew install difftastic
+    reference: https://formulae.brew.sh/formula/difftastic#default
+binlist:
+- difft

@@ -1,0 +1,23 @@
+lang: CSS
+homepage: https://github.com/ryanoasis/nerd-fonts
+desc:
+  cn: CascadiaCode 字体
+  en: CascadiaCode font
+x:
+  source: https://github.com/ryanoasis/nerd-fonts
+rule:
+  (linux|darwin|wsl2)/:
+    cmd: x font nerd install CascadiaCode
+    reference: https://x-cmd.com/mod/font
+  win/powershell:
+    cmd: x pwsh Invoke-WebRequest -Uri https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.zip -OutFile CascadiaCode.zip
+    reference: https://github.com/ryanoasis/nerd-fonts/releases/
+  /curl:
+    cmd: curl -OL https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.tar.xz
+    reference: https://github.com/ryanoasis/nerd-fonts/releases/
+  /wget:
+    cmd: wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.tar.xz
+    reference: https://github.com/ryanoasis/nerd-fonts/releases/
+binlist:
+- CascadiaCode-Nerd-Font
+license: NOASSERTION

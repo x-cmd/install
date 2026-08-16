@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/becheran/roumon'
+license: 'MIT'
+desc:
+  cn: 基于 pprof 和 termui 的通用 goroutine 监控工具
+  en: 'Universal goroutine monitor using pprof and termui'
+x:
+  source: https://github.com/becheran/roumon
+  eget: https://github.com/becheran/roumon
+rule:
+  /eget:
+    cmd: x eget becheran/roumon
+    reference: https://github.com/becheran/roumon
+binlist:
+  - 'roumon'

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/Adembc/lazyssh'
+license: 'Apache-2.0'
+desc:
+  cn: Go 编写的终端 SSH 管理器，受 lazydocker 与 k9s 启发
+  en: 'A terminal-based SSH manager inspired by lazydocker and k9s - Written in go'
+x:
+  source: https://github.com/Adembc/lazyssh
+  eget: https://github.com/Adembc/lazyssh
+rule:
+  /eget:
+    cmd: x eget Adembc/lazyssh
+    reference: https://github.com/Adembc/lazyssh
+binlist:
+  - 'lazyssh'

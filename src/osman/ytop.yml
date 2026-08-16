@@ -1,0 +1,37 @@
+lang: Rust
+homepage: https://github.com/cjbassi/ytop
+license: MIT
+desc:
+  cn: 一个用 Rust 编写的 TUI 系统监视器。
+  en: A TUI system monitor written in Rust
+x:
+  source: https://github.com/cjbassi/ytop
+  eget: https://github.com/cjbassi/ytop
+rule:
+  /eget:
+    cmd: x eget cjbassi/ytop
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install ytop
+    reference: https://github.com/cjbassi/ytop?tab=readme-ov-file#from-source
+    dsnap: ytop
+  darwin/brew:
+    cmd: 'brew tap cjbassi/ytop && \
+
+      brew install ytop
+
+      '
+    reference: https://github.com/cjbassi/ytop?tab=readme-ov-file#homebrew
+  arch/yay:
+    cmd: yay -S ytop
+    reference: https://github.com/cjbassi/ytop?tab=readme-ov-file#aur
+  fedora/dnf:
+    cmd: 'sudo dnf copr enable atim/ytop -y && \
+
+      sudo dnf install ytop
+
+      '
+    reference: https://github.com/cjbassi/ytop?tab=readme-ov-file#copr
+    dsnap: ytop
+binlist:
+- ytop

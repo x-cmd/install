@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/bgreenwell/doxx
+license: 'MIT'
+desc:
+  cn: 在终端中直接查看 .docx 文件内容，无需 Office
+  en: 'Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!'
+x:
+  source: https://github.com/bgreenwell/doxx
+  eget: https://github.com/bgreenwell/doxx
+rule:
+  /eget:
+    cmd: x eget bgreenwell/doxx
+    reference: https://github.com/bgreenwell/doxx
+binlist:
+  - 'doxx'

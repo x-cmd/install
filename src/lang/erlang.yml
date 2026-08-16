@@ -1,0 +1,24 @@
+lang: erlang
+homepage: https://github.com/erlang/otp
+license: Apache-2.0
+desc:
+  cn: Erlang 是一种编程语言，用于构建对高可用性有要求的大规模可扩展软实时系统
+  en: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability
+x:
+  source: https://github.com/erlang/otp
+  eget: https://github.com/erlang/otp
+rule:
+  /eget:
+    cmd: x eget erlang/otp
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install erlang
+    reference: https://formulae.brew.sh/formula/erlang#default
+  /apt:
+    cmd: sudo apt-get install erlang
+    reference: https://github.com/erlang/otp?tab=readme-ov-file#binary-distributions
+  (win|wsl2)/scoop:
+    cmd: x scoop install erlang
+    reference: https://scoop.sh/#/apps?q=erlang
+binlist:
+- erlang

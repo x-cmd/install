@@ -1,0 +1,14 @@
+lang: C
+homepage: https://github.com/ryanoasis/nerd-fonts
+desc:
+  cn: Fontforge 是 Windows 的免费（Libre）字体编辑器，Mac OS X 和 GNU+Linux
+  en: FontForge is a free (libre) font editor for Windows, Mac OS X and GNU+Linux
+x:
+  source: https://github.com/ryanoasis/nerd-fonts
+rule:
+  darwin/brew:
+    cmd: brew install fontforge
+    reference: https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher
+binlist:
+- font-patcher
+license: NOASSERTION

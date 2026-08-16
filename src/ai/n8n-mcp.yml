@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/czlonkowski/n8n-mcp
+license: mit
+desc:
+  cn: 把 n8n 全量节点库（816 核心 + 1029 社区）、操作、2352 个模板与工作流管理 API 暴露给 AI 助手的 MCP 服务器，支持检索、校验、生成和部署 n8n 工作流。
+  en: MCP server that exposes n8n's full node library (816 core + 1029 community), operations, 2352 templates, and workflow management API to AI assistants for searching, validating, generating, and deploying n8n workflows.
+x:
+  source: https://github.com/czlonkowski/n8n-mcp
+rule:
+  /npm:
+    cmd: npx n8n-mcp
+    reference: https://github.com/czlonkowski/n8n-mcp
+    dsnap: n8n-mcp
+binlist:
+- n8n-mcp

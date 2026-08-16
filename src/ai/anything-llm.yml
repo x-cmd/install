@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/Mintplex-Labs/anything-llm
+license: mit
+desc:
+  cn: 本地优先的强大 Agent 体验，让你拥有自己的智能而非租用
+  en: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+x:
+  source: https://github.com/Mintplex-Labs/anything-llm
+  eget: https://github.com/Mintplex-Labs/anything-llm
+rule:
+  /eget:
+    cmd: x eget Mintplex-Labs/anything-llm
+    reference: https://github.com/Mintplex-Labs/anything-llm
+binlist:
+- anything-llm

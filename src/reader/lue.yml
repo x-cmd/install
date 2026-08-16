@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/superstarryeyes/lue'
+license: 'GPL-3.0'
+desc:
+  cn: 支持语音合成朗读的终端电子书阅读器，支持 EPUB、PDF、DOCX、HTML、RTF、TXT 和 MD
+  en: 'Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.'
+x:
+  source: https://github.com/superstarryeyes/lue
+  eget: https://github.com/superstarryeyes/lue
+rule:
+  /eget:
+    cmd: x eget superstarryeyes/lue
+    reference: https://github.com/superstarryeyes/lue
+binlist:
+  - 'lue'

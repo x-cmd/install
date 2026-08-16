@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/Max-Levitskiy/DockBridge
+license: AGPL-3.0
+desc:
+  cn: DockBridge 是一个基于 Go 语言的客户端-服务器系统，用于为 Docker 容器配置 Hetzner Cloud 服务器，并具有笔记本电脑锁定检测和保持连接的功能。
+  en: DockBridge is a Go-based client-server system that provisions Hetzner Cloud servers for Docker containers, with laptop lock detection and keep-alive features.
+x:
+  source: https://github.com/Max-Levitskiy/DockBridge
+  eget: https://github.com/Max-Levitskiy/DockBridge
+rule:
+  /eget:
+    cmd: x eget Max-Levitskiy/DockBridge
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/dockbridge/dockbridge/main/install.sh | sh
+    reference: https://github.com/Max-Levitskiy/DockBridge/blob/main/README.md#1-install
+binlist:
+- dockbridge

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/TheYahya/enola'
+license: 'MIT'
+desc:
+  cn: Golang 编写的现代 CLI 工具,按用户名在各大社交网络中追踪账号
+  en: 'This is Sherlock''s sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks'
+x:
+  source: https://github.com/TheYahya/enola
+  eget: https://github.com/TheYahya/enola
+rule:
+  /eget:
+    cmd: x eget TheYahya/enola
+    reference: https://github.com/TheYahya/enola
+binlist:
+  - 'enola'

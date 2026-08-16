@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/wentbackward/nv-monitor'
+license: 'MIT'
+desc:
+  cn: 轻量 nVidia 遥测与终端系统监控，适配 Jetson/GB10/GB200/H100 等架构
+  en: 'Lightweight nVidia telemetry and terminal system monitor - built for any architecture - Jetson, GB10, GB200, H100'
+x:
+  source: https://github.com/wentbackward/nv-monitor
+  eget: https://github.com/wentbackward/nv-monitor
+rule:
+  /eget:
+    cmd: x eget wentbackward/nv-monitor
+    reference: https://github.com/wentbackward/nv-monitor
+binlist:
+  - 'nv-monitor'

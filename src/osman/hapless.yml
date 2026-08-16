@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/bmwant/hapless
+desc:
+  cn: 运行并管理后台进程
+  en: Run and manage background processes
+x:
+  source: https://github.com/bmwant/hapless
+  eget: https://github.com/bmwant/hapless
+rule:
+  /eget:
+    cmd: x eget bmwant/hapless
+    reference: https://github.com/bmwant/hapless
+binlist:
+- hapless
+license: NOASSERTION

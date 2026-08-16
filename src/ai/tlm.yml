@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/yusufcanb/tlm
+license: apache-2.0
+desc:
+  cn: 基于 Ollama 的本地 CLI Copilot
+  en: Local CLI Copilot, powered by Ollama. 💻🦙
+x:
+  source: https://github.com/yusufcanb/tlm
+  eget: https://github.com/yusufcanb/tlm
+rule:
+  /eget:
+    cmd: x eget yusufcanb/tlm
+    reference: https://github.com/yusufcanb/tlm
+binlist:
+- tlm

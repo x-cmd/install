@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/ddworken/hishtory
+license: mit
+desc:
+  cn: 可同步、可检索、带上下文的 Shell 历史记录
+  en: 'Your shell history: synced, queryable, and in context'
+x:
+  source: https://github.com/ddworken/hishtory
+  eget: https://github.com/ddworken/hishtory
+rule:
+  /eget:
+    cmd: x eget ddworken/hishtory
+    reference: https://github.com/ddworken/hishtory
+binlist:
+- hishtory

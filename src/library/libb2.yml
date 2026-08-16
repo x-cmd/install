@@ -1,0 +1,18 @@
+lang: C
+homepage: https://github.com/BLAKE2/libb2
+license: CC0-1.0
+desc:
+  cn: C 库提供了 BLAKE2b，BLAKE2s，BLAKE2bp，BLAKE2sp
+  en: C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+x:
+  source: https://github.com/BLAKE2/libb2
+  eget: https://github.com/BLAKE2/libb2
+rule:
+  /eget:
+    cmd: x eget BLAKE2/libb2
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S libb2-git
+    reference: https://aur.archlinux.org/packages/libb2-git
+binlist:
+- libb2

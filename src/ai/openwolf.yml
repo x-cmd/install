@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/cytostack/openwolf
+license: agpl-3.0
+desc:
+  cn: 开源的 Claude Code 中间件，更精炼的上下文，更少的 token
+  en: Sharper context. Fewer tokens. Open-source middleware for Claude Code.
+x:
+  source: https://github.com/cytostack/openwolf
+  eget: https://github.com/cytostack/openwolf
+rule:
+  /eget:
+    cmd: x eget cytostack/openwolf
+    reference: https://github.com/cytostack/openwolf
+binlist:
+- openwolf

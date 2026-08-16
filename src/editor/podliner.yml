@@ -1,0 +1,21 @@
+lang: 'C#'
+homepage: 'https://github.com/timkicker/podliner'
+license: 'GPL-3.0'
+desc:
+  cn: 任意终端中的播客工具,快速、清爽、离线可用
+  en: 'Podcasts in any terminal. Fast, clean, offline.'
+x:
+  source: https://github.com/timkicker/podliner
+  eget: https://github.com/timkicker/podliner
+rule:
+  debian/apt:
+    cmd: 'sudo apt-get install -y vlc mpv ffmpeg'
+    reference: https://github.com/timkicker/podliner
+  arch/pacman:
+    cmd: 'yay -S podliner-bin'
+    reference: https://github.com/timkicker/podliner
+  /eget:
+    cmd: x eget timkicker/podliner
+    reference: https://github.com/timkicker/podliner
+binlist:
+  - 'podliner'

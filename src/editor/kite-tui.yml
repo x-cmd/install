@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/KernelFreeze/kite-tui'
+license: 'MIT'
+desc:
+  cn: Kagi News 的终端阅读器
+  en: 'A terminal reader for Kagi News.'
+x:
+  source: https://github.com/KernelFreeze/kite-tui
+  eget: https://github.com/KernelFreeze/kite-tui
+rule:
+  /eget:
+    cmd: x eget KernelFreeze/kite-tui
+    reference: https://github.com/KernelFreeze/kite-tui
+binlist:
+  - 'kite-tui'

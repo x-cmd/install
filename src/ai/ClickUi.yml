@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/CodeUpdaterBot/ClickUi
+license: agpl-3.0
+desc:
+  cn: 在本地使用 AI 的最佳方式，支持本地或付费 API 模型，ctrl+k 切换聊天界面
+  en: The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
+x:
+  source: https://github.com/CodeUpdaterBot/ClickUi
+  eget: https://github.com/CodeUpdaterBot/ClickUi
+rule:
+  /eget:
+    cmd: x eget CodeUpdaterBot/ClickUi
+    reference: https://github.com/CodeUpdaterBot/ClickUi
+binlist:
+- ClickUi

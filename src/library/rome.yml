@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/rome/tools
+license: MIT
+desc:
+  cn: Rome 是用于 JavaScript、 TypeScript、 JSON、 HTML、 Markdown 和 CSS 的格式化程序、行程序、捆绑包和更多程序
+  en: Rome is a formatter, linter, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS
+x:
+  source: https://github.com/rome/tools
+  eget: https://github.com/rome/tools
+rule:
+  /eget:
+    cmd: x eget rome/tools
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use rome
+    reference: https://github.com/kichiemon/asdf-rome
+  /cargo:
+    cmd: cargo add roman
+    reference: https://crates.io/crates/roman
+    dsnap: roman
+binlist:
+- rome

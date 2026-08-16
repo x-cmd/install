@@ -1,0 +1,18 @@
+lang: Zig
+homepage: https://github.com/txthinking/jb
+desc:
+  cn: jb = javascript + bash
+  en: jb = javascript + bash
+x:
+  source: https://github.com/txthinking/jb
+  eget: https://github.com/txthinking/jb
+rule:
+  /eget:
+    cmd: x eget txthinking/jb
+    reference: https://x-cmd.com/mod/eget
+  /nami:
+    cmd: nami install jb
+    reference: https://github.com/txthinking/jb?tab=readme-ov-file#install
+binlist:
+- jb
+license: NOASSERTION

@@ -1,0 +1,49 @@
+lang: C++
+homepage: https://github.com/smartmontools/smartmontools
+license: GPL-2.0
+desc:
+  cn: smartctl 是类 Unix 系统下实施 SMART 任务命令行套件或工具
+  en: smartctl is a command-line suite or tool that implements SMART tasks under Unix-like systems
+x:
+  pkg:
+    exist: true
+  source: https://github.com/smartmontools/smartmontools
+  eget: https://github.com/smartmontools/smartmontools
+rule:
+  /eget:
+    cmd: x eget smartmontools/smartmontools
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use smartctl
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install smartmontools
+    reference: https://formulae.brew.sh/formula/smartmontools#default
+  debian/apt:
+    cmd: sudo apt-get install smartmontools
+    reference: https://command-not-found.com/smartctl
+    dsnap: smartmontools
+  ubuntu/apt:
+    cmd: sudo apt-get install smartmontools
+    reference: https://command-not-found.com/smartctl
+    dsnap: smartmontools
+  alpine/apk:
+    cmd: sudo apk add smartmontools
+    reference: https://command-not-found.com/smartctl
+    dsnap: smartmontools
+  arch/pacman:
+    cmd: sudo pacman -S smartmontools
+    reference: https://command-not-found.com/smartctl
+  kali/apt:
+    cmd: sudo apt-get install smartmontools
+    reference: https://command-not-found.com/smartctl
+    dsnap: smartmontools
+  fedora/dnf:
+    cmd: sudo dnf install smartmontools-1
+    reference: https://command-not-found.com/smartctl
+    dsnap: smartmontools-1
+  raspbian/apt:
+    cmd: sudo apt-get install smartmontools
+    reference: https://command-not-found.com/smartctl
+binlist:
+- smartctl

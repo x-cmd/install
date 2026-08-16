@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/tmccombs/hcl2json
+license: Apache-2.0
+desc:
+  cn: 将 hcl2 转换为 json
+  en: Convert hcl2 to json
+x:
+  pkg:
+    exist: true
+  source: https://github.com/tmccombs/hcl2json
+  eget: https://github.com/tmccombs/hcl2json
+rule:
+  /x:
+    cmd: x pkg use hcl2json
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget tmccombs/hcl2json
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install hcl2json
+    reference: https://github.com/tmccombs/hcl2json?tab=readme-ov-file#mac-os
+  darwin/port:
+    cmd: sudo port install hcl2json
+    reference: https://github.com/tmccombs/hcl2json?tab=readme-ov-file#mac-os
+binlist:
+- hcl2json

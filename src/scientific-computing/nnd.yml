@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/al13n321/nnd'
+license: 'Apache-2.0'
+desc:
+  cn: Linux 调试器
+  en: 'A debugger for Linux'
+x:
+  source: https://github.com/al13n321/nnd
+  eget: https://github.com/al13n321/nnd
+rule:
+  /eget:
+    cmd: x eget al13n321/nnd
+    reference: https://github.com/al13n321/nnd
+binlist:
+  - 'nnd'

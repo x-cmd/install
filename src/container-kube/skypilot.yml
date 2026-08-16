@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/skypilot-org/skypilot
+license: 'Apache-2.0'
+desc:
+  cn: 在任意 AI 基础设施上运行、管理和扩展 AI 工作负载的统一系统
+  en: 'Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).'
+x:
+  source: https://github.com/skypilot-org/skypilot
+rule:
+  /pip:
+    cmd: pip install skypilot
+    reference: https://pypi.org/project/skypilot/
+    dsnap: skypilot
+binlist:
+  - 'skypilot'

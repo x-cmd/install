@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/Tantalor93/dnspyre
+license: 'MIT'
+desc:
+  cn: 高 QPS 的 DNS 基准测试 CLI 工具
+  en: 'CLI tool for a high QPS DNS benchmark'
+x:
+  source: https://github.com/Tantalor93/dnspyre
+  eget: https://github.com/Tantalor93/dnspyre
+rule:
+  /eget:
+    cmd: x eget Tantalor93/dnspyre
+    reference: https://github.com/Tantalor93/dnspyre
+binlist:
+  - 'dnspyre'

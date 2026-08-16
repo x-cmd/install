@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/sag
+license: mit
+desc:
+  cn: 类似 macOS say 命令，但使用现代化语音
+  en: Like the macOS say command, but with a modern voice.
+x:
+  source: https://github.com/steipete/sag
+  eget: https://github.com/steipete/sag
+rule:
+  /eget:
+    cmd: x eget steipete/sag
+    reference: https://github.com/steipete/sag
+binlist:
+- sag

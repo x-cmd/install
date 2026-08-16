@@ -1,0 +1,37 @@
+lang: Rust
+homepage: https://github.com/nickgerace/gfold
+license: Apache-2.0
+desc:
+  cn: 用于跟踪目录中多个 Git 存储库的命令行工具。
+  en: A CLI tool that helps you keep track of multiple Git repositories.
+x:
+  source: https://github.com/nickgerace/gfold
+  eget: https://github.com/nickgerace/gfold
+rule:
+  /eget:
+    cmd: x eget nickgerace/gfold
+    reference: https://x-cmd.com/mod/eget
+  arch/pacman:
+    cmd: sudo pacman -S gfold
+    reference: https://github.com/nickgerace/gfold#installation
+  alpine/apk:
+    cmd: apk add gfold
+    reference: https://github.com/nickgerace/gfold#installation
+  nix/nix-env:
+    cmd: nix-env --install gfold
+    reference: https://github.com/nickgerace/gfold#nix-and-nixos
+  darwin/brew:
+    cmd: brew install gfold
+    reference: https://github.com/nickgerace/gfold#installation
+  darwin/port:
+    cmd: sudo port install gfold
+    reference: https://github.com/nickgerace/gfold#installation
+  freebsd/pkg:
+    cmd: pkg install devel/gfold
+    reference: https://github.com/nickgerace/gfold#installation
+  /cargo:
+    cmd: cargo install gfold
+    reference: https://github.com/nickgerace/gfold#installation
+    dsnap: gfold
+binlist:
+- gfold

@@ -1,0 +1,18 @@
+lang: swift
+homepage: https://github.com/mas-cli/mas
+license: MIT
+desc:
+  cn: 专为 Mac App Store 设计的命令行界面，用于编写脚本和自动化操作
+  en: a command-line interface for the Mac App Store that is designed for scripting & automation.
+x:
+  source: https://github.com/mas-cli/mas
+  eget: https://github.com/mas-cli/mas
+rule:
+  /eget:
+    cmd: x eget mas-cli/mas
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install mas
+    reference: https://github.com/mas-cli/mas?tab=readme-ov-file
+binlist:
+  - mas

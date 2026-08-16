@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/GGP1/kure'
+license: 'Apache-2.0'
+desc:
+  cn: 支持会话的 CLI 密码管理器
+  en: 'CLI password manager with sessions'
+x:
+  source: https://github.com/GGP1/kure
+  eget: https://github.com/GGP1/kure
+rule:
+  /eget:
+    cmd: x eget GGP1/kure
+    reference: https://github.com/GGP1/kure
+binlist:
+  - 'kure'

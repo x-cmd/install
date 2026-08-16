@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/kopecmaciej/vi-mongo
+license: 'Apache-2.0'
+desc:
+  cn: 简化 MongoDB 数据可视化与快速操作的 TUI 管理器
+  en: 'MongoDB TUI manager designed to simplify data visualization and quick manipulation'
+x:
+  source: https://github.com/kopecmaciej/vi-mongo
+  eget: https://github.com/kopecmaciej/vi-mongo
+rule:
+  /eget:
+    cmd: x eget kopecmaciej/vi-mongo
+    reference: https://github.com/kopecmaciej/vi-mongo
+binlist:
+  - 'vi-mongo'

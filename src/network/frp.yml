@@ -1,0 +1,27 @@
+lang: Go
+homepage: https://github.com/fatedier/frp
+license: Apache-2.0
+desc:
+  cn: frp 是一个快速的反向代理工具，允许你将位于 NAT 或防火墙后面的本地服务器暴露到互联网上
+  en: frp is a fast reverse proxy that allows you to expose a local server located behind a NAT or firewall to the Internet
+x:
+  pkg:
+    exist: true
+  source: https://github.com/fatedier/frp
+  eget: https://github.com/fatedier/frp
+rule:
+  /eget:
+    cmd: x eget fatedier/frp
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use frp
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install frpc
+    reference: https://formulae.brew.sh/formula/frpc#default
+  arch/yay:
+    cmd: yay -S frpc frps
+    reference: https://aur.archlinux.org/packages/frpc
+binlist:
+  - frps
+  - frpc

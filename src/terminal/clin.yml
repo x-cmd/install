@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/reekta92/clin-rs'
+license: 'GPL-3.0'
+desc:
+  cn: 灵感来自 Obsidian 的 TUI 笔记管理应用
+  en: 'TUI note management app inspired by Obsidian'
+x:
+  source: https://github.com/reekta92/clin-rs
+  eget: https://github.com/reekta92/clin-rs
+rule:
+  /eget:
+    cmd: x eget reekta92/clin-rs
+    reference: https://github.com/reekta92/clin-rs
+binlist:
+  - 'clin'

@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/Thysrael/Horizon
+license: mit
+desc:
+  cn: 自托管的 AI 新闻雷达：从 Hacker News / Reddit / RSS / Telegram / GitHub 等多源聚合、抓取、评分、去重、生成每日简报（中英双语），并支持 Pages 发布、邮件订阅、Feishu/Slack/Webhook 推送与 MCP 集成。
+  en: "Self-hosted AI news radar: aggregate, fetch, score, deduplicate, and summarize Hacker News, Reddit, RSS, Telegram, GitHub, and more into a daily bilingual briefing — with Pages publishing, email subscription, Feishu/Slack/Webhook push, and MCP integration."
+x:
+  source: https://github.com/Thysrael/Horizon
+rule:
+  /git:
+    cmd: x git clone Thysrael/Horizon
+    reference: https://github.com/Thysrael/Horizon#quick-start
+  /docker:
+    cmd: x git clone Thysrael/Horizon && cd Horizon && cp .env.example .env && cp data/config.example.json data/config.json && docker compose run --rm horizon
+    reference: https://github.com/Thysrael/Horizon#option-b-docker
+binlist:
+- horizon
+- horizon-wizard

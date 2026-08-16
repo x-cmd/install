@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/jart/landlock-make'
+license: noassertion
+desc:
+  cn: 更轻松地为 GNU Make 提供沙箱支持
+  en: 'Sandboxing for GNU Make has never been easier'
+x:
+  source: https://github.com/jart/landlock-make
+  eget: https://github.com/jart/landlock-make
+rule:
+  /eget:
+    cmd: x eget jart/landlock-make
+    reference: https://github.com/jart/landlock-make
+binlist:
+  - 'landlock-make'

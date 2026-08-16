@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/open-webui/open-webui
+license: other
+desc:
+  cn: 友好的 AI 界面，支持 Ollama、OpenAI API 等
+  en: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+x:
+  source: https://github.com/open-webui/open-webui
+rule:
+  /pip:
+    cmd: pip install open-webui
+    reference: https://pypi.org/project/open-webui/
+    dsnap: open-webui
+binlist:
+- open-webui

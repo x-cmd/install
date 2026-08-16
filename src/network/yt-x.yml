@@ -1,0 +1,15 @@
+lang: 'Shell'
+homepage: 'https://github.com/Benexl/yt-x'
+license: 'MIT'
+desc:
+  cn: POSIX 脚本，用 fzf/rofi 从终端浏览 YouTube 等 yt-dlp 支持的站点
+  en: 'Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)'
+x:
+  source: https://github.com/Benexl/yt-x
+  eget: https://github.com/Benexl/yt-x
+rule:
+  /eget:
+    cmd: x eget Benexl/yt-x
+    reference: https://github.com/Benexl/yt-x
+binlist:
+  - 'yt-x'

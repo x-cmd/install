@@ -1,0 +1,29 @@
+lang: Kotlin
+homepage: https://github.com/JetBrains/kotlin
+desc:
+  cn: Kotlin 是一种现代但已经成熟的编程语言，旨在让开发人员更快乐
+  en: Kotlin is a modern but already mature programming language designed to make developers happier
+x:
+  pkg:
+    exist: true
+  source: https://github.com/JetBrains/kotlin
+  eget: https://github.com/JetBrains/kotlin
+rule:
+  /eget:
+    cmd: x eget JetBrains/kotlin
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use kotlin
+    reference: https://x-cmd.com/install/
+  /asdf:
+    cmd: x asdf use kotlin
+    reference: https://github.com/asdf-community/asdf-kotlin
+  darwin/brew:
+    cmd: brew install kotlin
+    reference: https://formulae.brew.sh/formula/kotlin#default
+  arch/pacman:
+    cmd: sudo pacman -S kotlin
+    reference: https://command-not-found.com/kotlin
+binlist:
+- kotlin
+license: NOASSERTION

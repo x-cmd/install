@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/derekwisong/datui
+license: 'MIT'
+desc:
+  cn: 终端中的数据探索工具
+  en: 'Data Exploration in the Terminal'
+x:
+  source: https://github.com/derekwisong/datui
+  eget: https://github.com/derekwisong/datui
+rule:
+  /eget:
+    cmd: x eget derekwisong/datui
+    reference: https://github.com/derekwisong/datui
+binlist:
+  - 'datui'

@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/lance0/xfr'
+license: 'Apache-2.0'
+desc:
+  cn: iperf3 的现代替代品，带实时 TUI、多客户端服务端与 QUIC 支持，Rust 编写
+  en: 'A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.'
+x:
+  source: https://github.com/lance0/xfr
+  eget: https://github.com/lance0/xfr
+rule:
+  /cargo:
+    cmd: 'cargo install xfr'
+    reference: https://github.com/lance0/xfr
+  /eget:
+    cmd: x eget lance0/xfr
+    reference: https://github.com/lance0/xfr
+binlist:
+  - 'xfr'

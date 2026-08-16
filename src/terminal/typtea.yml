@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/ashish0kumar/typtea
+license: 'MIT'
+desc:
+  cn: 极简终端打字测试工具
+  en: 'minimal terminal typing tester'
+x:
+  source: https://github.com/ashish0kumar/typtea
+  eget: https://github.com/ashish0kumar/typtea
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/ashish0kumar/typtea
+  /eget:
+    cmd: x eget ashish0kumar/typtea
+    reference: https://github.com/ashish0kumar/typtea
+binlist:
+  - 'typtea'

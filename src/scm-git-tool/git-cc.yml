@@ -1,0 +1,25 @@
+lang: Go
+homepage: https://github.com/SKalt/git-cc
+desc:
+  en: a git extension to help write conventional commits
+  cn: 帮助编写常规提交的 git 扩展
+x:
+  source: https://github.com/SKalt/git-cc
+  eget: https://github.com/SKalt/git-cc
+rule:
+  /eget:
+    cmd: x eget SKalt/git-cc
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap skalt/git-cc
+
+      brew install git-cc
+
+      '
+    reference: https://github.com/SKalt/git-cc?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S git-cc
+    reference: https://aur.archlinux.org/packages/git-cc
+binlist:
+- git-cc
+license: NOASSERTION

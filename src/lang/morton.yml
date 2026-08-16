@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/morton
+license: isc
+desc:
+  cn: Morton 编码（Z 阶曲线）库——把多维坐标映射成一维，加速空间索引与范围查询。
+  en: Morton encoding (Z-order curve) library — maps multi-dimensional coordinates to one dimension for faster spatial indexing and range queries.
+x:
+  source: https://github.com/jart/morton
+  eget: https://github.com/jart/morton
+rule:
+  /eget:
+    cmd: x eget jart/morton
+    reference: https://github.com/jart/morton
+binlist:
+- morton

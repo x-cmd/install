@@ -1,0 +1,21 @@
+lang: 'Go'
+homepage: https://github.com/surge-downloader/surge
+license: 'MIT'
+desc:
+  cn: Go 编写的极速 TUI 下载管理器，面向高级用户
+  en: 'Blazing fast TUI download manager built in Go for power users'
+x:
+  source: https://github.com/surge-downloader/surge
+  eget: https://github.com/surge-downloader/surge
+rule:
+  darwin/brew:
+    cmd: 'brew install SurgeDM/tap/surge'
+    reference: https://github.com/surge-downloader/surge
+  /go:
+    cmd: 'go install github.com/SurgeDM/Surge@latest'
+    reference: https://github.com/surge-downloader/surge
+  /eget:
+    cmd: x eget surge-downloader/surge
+    reference: https://github.com/surge-downloader/surge
+binlist:
+  - 'surge'

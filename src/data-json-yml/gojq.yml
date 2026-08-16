@@ -1,0 +1,36 @@
+lang: Go
+homepage: https://github.com/itchyny/gojq
+license: MIT
+desc:
+  cn: 纯用 Go 实现的 jq
+  en: Pure Go implementation of jq
+x:
+  pkg:
+    exist: true
+  source: https://github.com/itchyny/gojq
+  eget: https://github.com/itchyny/gojq
+rule:
+  /x:
+    cmd: x pkg use gojq
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget itchyny/gojq
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install gojq
+    reference: https://github.com/itchyny/gojq?tab=readme-ov-file#homebrew
+  /0install:
+    cmd: 0install add gojq https://apps.0install.net/utils/gojq.xml
+    reference: https://github.com/itchyny/gojq?tab=readme-ov-file#zero-install
+  /go:
+    cmd: go install github.com/itchyny/gojq/cmd/gojq@latest
+    reference: https://github.com/itchyny/gojq?tab=readme-ov-file#build-from-source
+    dsnap: github.com/itchyny/gojq/cmd/gojq@latest
+  /docker:
+    cmd: docker run -i --rm ghcr.io/itchyny/gojq
+    reference: https://github.com/itchyny/gojq?tab=readme-ov-file#docker
+  arch/yay:
+    cmd: yay -S gojq
+    reference: https://aur.archlinux.org/packages/gojq
+binlist:
+- gojq

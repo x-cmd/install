@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/jonas-grgt/ktea
+license: apache-2.0
+desc:
+  cn: Kafka 的 TUI 客户端
+  en: Kafka TUI client
+x:
+  source: https://github.com/jonas-grgt/ktea
+  eget: https://github.com/jonas-grgt/ktea
+rule:
+  /eget:
+    cmd: x eget jonas-grgt/ktea
+    reference: https://github.com/jonas-grgt/ktea
+binlist:
+- ktea

@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/ogulcancelik/herdr
+desc:
+  cn: 驻留于终端的 Agent 多路复用器
+  en: agent multiplexer that lives in your terminal.
+x:
+  source: https://github.com/ogulcancelik/herdr
+  eget: https://github.com/ogulcancelik/herdr
+rule:
+  /eget:
+    cmd: x eget ogulcancelik/herdr
+    reference: https://github.com/ogulcancelik/herdr
+binlist:
+- herdr
+license: NOASSERTION

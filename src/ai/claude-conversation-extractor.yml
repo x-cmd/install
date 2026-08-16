@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/ZeroSumQuant/claude-conversation-extractor
+license: mit
+desc:
+  cn: 从 Claude Code 内部存储中提取干净的对话记录
+  en: Extract clean conversation logs from Claude Code's internal storage
+x:
+  source: https://github.com/ZeroSumQuant/claude-conversation-extractor
+  eget: https://github.com/ZeroSumQuant/claude-conversation-extractor
+rule:
+  /eget:
+    cmd: x eget ZeroSumQuant/claude-conversation-extractor
+    reference: https://github.com/ZeroSumQuant/claude-conversation-extractor
+binlist:
+- claude-conversation-extractor

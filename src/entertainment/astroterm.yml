@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/da-luce/astroterm'
+license: 'MIT'
+desc:
+  cn: 终端中的天文馆:探索恒星、行星、星座等,无需望远镜
+  en: 'A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐'
+x:
+  source: https://github.com/da-luce/astroterm
+  eget: https://github.com/da-luce/astroterm
+rule:
+  /eget:
+    cmd: x eget da-luce/astroterm
+    reference: https://github.com/da-luce/astroterm
+binlist:
+  - 'astroterm'

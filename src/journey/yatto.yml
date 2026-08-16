@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/handlebargh/yatto'
+license: 'MIT'
+desc:
+  cn: 命令行下版本可控的交互式待办清单
+  en: 'Interactive version-controlled todo-list for the command-line'
+x:
+  source: https://github.com/handlebargh/yatto
+  eget: https://github.com/handlebargh/yatto
+rule:
+  /eget:
+    cmd: x eget handlebargh/yatto
+    reference: https://github.com/handlebargh/yatto
+binlist:
+  - 'yatto'

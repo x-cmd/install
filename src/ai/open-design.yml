@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/nexu-io/open-design
+license: apache-2.0
+desc:
+  cn: 开源的 Claude Design 替代品——把 Claude Code / Codex / Cursor 等本地 CLI 变成设计引擎，一句话产出 UI 原型、Deck、视频、设计稿，150 套品牌级 DESIGN.md 系统 + 100+ skills + 261 插件开箱即用。
+  en: Open-source Claude Design alternative — turns the Claude Code / Codex / Cursor CLI on your laptop into a design engine. Type a brief, stream UI prototypes, decks, videos, and brand-grade artifacts; 150 DESIGN.md systems, 100+ skills, and 261 plugins ship in the box.
+x:
+  source: https://github.com/nexu-io/open-design
+rule:
+  /git:
+    cmd: x git clone nexu-io/open-design
+    reference: https://github.com/nexu-io/open-design#-quick-start
+binlist:
+- open-design

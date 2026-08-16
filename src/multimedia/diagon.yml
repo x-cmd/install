@@ -1,0 +1,32 @@
+lang: C++
+homepage: https://github.com/ArthurSonzogni/Diagon
+license: MIT
+desc:
+  cn: 交互式 ASCII 艺术图表生成器
+  en: Interactive ASCII art diagram generators
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ArthurSonzogni/Diagon
+  eget: https://github.com/ArthurSonzogni/Diagon
+rule:
+  /eget:
+    cmd: x eget ArthurSonzogni/Diagon
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use diagon
+    reference: https://x-cmd.com/install/
+  (linux|darwin|win|wsl2)/:
+    cmd: x env use diagon
+    reference: https://x-cmd.com/mod/env
+  /snap:
+    cmd: sudo snap install diagon
+    reference: https://github.com/ArthurSonzogni/Diagon?tab=readme-ov-file#command-line-interface
+  /nix:
+    cmd: nix run github:petertrotman/nixpkgs/Diagon#diagon
+    reference: https://github.com/ArthurSonzogni/Diagon?tab=readme-ov-file#command-line-interface
+  arch/yay:
+    cmd: yay -S diagon-bin
+    reference: https://aur.archlinux.org/packages/diagon-bin
+binlist:
+- diagon

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/weaviate/weaviate
+license: 'BSD-3-Clause'
+desc:
+  cn: 开源向量数据库，同时存储对象和向量，将向量检索与结构化过滤相结合
+  en: 'Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of ...'
+x:
+  source: https://github.com/weaviate/weaviate
+  eget: https://github.com/weaviate/weaviate
+rule:
+  /eget:
+    cmd: x eget weaviate/weaviate
+    reference: https://github.com/weaviate/weaviate
+binlist:
+  - 'weaviate'

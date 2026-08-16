@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/ari1110/pass-cli
+license: 'Apache-2.0'
+desc:
+  cn: 安全跨平台开源的 1Password/Bitwarden 替代品，命令行密码与 API key 管理器 (CLI + TUI)
+  en: 'A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)'
+x:
+  source: https://github.com/ari1110/pass-cli
+  eget: https://github.com/ari1110/pass-cli
+rule:
+  /eget:
+    cmd: x eget ari1110/pass-cli
+    reference: https://github.com/ari1110/pass-cli
+binlist:
+  - 'pass-cli'

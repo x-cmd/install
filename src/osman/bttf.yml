@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/BurntSushi/bttf'
+license: 'Unlicense'
+desc:
+  cn: 用于日期时间运算、解析与格式化的命令行工具
+  en: 'A command line tool for datetime arithmetic, parsing, formatting and more.'
+x:
+  source: https://github.com/BurntSushi/bttf
+  eget: https://github.com/BurntSushi/bttf
+rule:
+  /eget:
+    cmd: x eget BurntSushi/bttf
+    reference: https://github.com/BurntSushi/bttf
+binlist:
+  - 'bttf'

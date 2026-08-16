@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/cococonscious/koji
+license: MIT
+desc:
+  cn: 用于创建常规提交的交互式 CLI
+  en: An interactive CLI for creating conventional commits
+x:
+  source: https://github.com/cococonscious/koji
+  eget: https://github.com/cococonscious/koji
+rule:
+  /eget:
+    cmd: x eget cococonscious/koji
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -sS https://webinstall.dev/koji | bash
+    reference: https://github.com/cococonscious/koji?tab=readme-ov-file#installation
+  /cargo:
+    cmd: cargo install --locked koji
+    reference: https://github.com/cococonscious/koji?tab=readme-ov-file#installation
+    dsnap: koji
+  arch/yay:
+    cmd: yay -S git-koji-bin
+    reference: https://aur.archlinux.org/packages/git-koji-bin
+binlist:
+- koji

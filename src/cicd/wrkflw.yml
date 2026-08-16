@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/bahdotsh/wrkflw'
+license: 'MIT'
+desc:
+  cn: 本地验证并运行 GitHub Actions
+  en: 'Validate and Run GitHub Actions locally.'
+x:
+  source: https://github.com/bahdotsh/wrkflw
+  eget: https://github.com/bahdotsh/wrkflw
+rule:
+  /eget:
+    cmd: x eget bahdotsh/wrkflw
+    reference: https://github.com/bahdotsh/wrkflw
+binlist:
+  - 'wrkflw'

@@ -1,0 +1,21 @@
+lang: rescript
+homepage: https://github.com/GNUAspell/aspell
+license: LGPL-2.1
+desc:
+  cn: GNU Aspell 是一个自由和开源的拼写检查器，旨在最终取代 Ispell
+  en: GNU Aspell is a Free and Open Source spell checker designed to eventually replace Ispell
+x:
+  source: https://github.com/GNUAspell/aspell
+  eget: https://github.com/GNUAspell/aspell
+rule:
+  /eget:
+    cmd: x eget GNUAspell/aspell
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install aspell
+    reference: https://formulae.brew.sh/formula/aspell#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install aspell
+    reference: https://scoop.sh/#/apps?q=aspell
+binlist:
+- aspell

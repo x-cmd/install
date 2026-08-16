@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/huggingface/ml-intern
+license: apache-2.0
+desc:
+  cn: Hugging Face 官方推出的 ML 智能体，能自主调研、编写并交付高质量机器学习代码，深度接入 HF 文档、论文、数据集与云端算力。
+  en: Automates machine learning development by researching, writing, and shipping code using the Hugging Face ecosystem via a command-line interface.
+x:
+  source: https://github.com/huggingface/ml-intern
+rule:
+  /pip:
+    cmd: pip install ml-intern
+    reference: https://github.com/huggingface/ml-intern#installation
+    dsnap: ml-intern
+binlist:
+- ml-intern

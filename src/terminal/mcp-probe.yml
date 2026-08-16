@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/conikeec/mcp-probe
+license: mit
+desc:
+  cn: Rust 实现的 MCP 客户端库与调试工具集，既是构建 MCP 集成的生产级 SDK，也是交互式调试器核心
+  en: A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interactive debugger.
+x:
+  source: https://github.com/conikeec/mcp-probe
+  eget: https://github.com/conikeec/mcp-probe
+rule:
+  /eget:
+    cmd: x eget conikeec/mcp-probe
+    reference: https://github.com/conikeec/mcp-probe
+binlist:
+- mcp-probe

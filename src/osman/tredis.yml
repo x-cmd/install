@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/huseyinbabal/tredis'
+license: 'MIT'
+desc:
+  cn: 终端版 Redis 数据查看与管理工具
+  en: 'Terminal UI for Redis (tredis) - A terminal-based Redis data viewer and manager'
+x:
+  source: https://github.com/huseyinbabal/tredis
+  eget: https://github.com/huseyinbabal/tredis
+rule:
+  /eget:
+    cmd: x eget huseyinbabal/tredis
+    reference: https://github.com/huseyinbabal/tredis
+binlist:
+  - 'tredis'

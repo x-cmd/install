@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/ishizakahiroshi/many-ai-cli
+license: mit
+desc:
+  cn: 用于审批管理与监控并行 AI 编码 CLI 会话的本地 Web 仪表板
+  en: Local web dashboard for managing approvals and monitoring parallel AI coding CLI sessions.
+x:
+  source: https://github.com/ishizakahiroshi/many-ai-cli
+  eget: https://github.com/ishizakahiroshi/many-ai-cli
+rule:
+  /eget:
+    cmd: x eget ishizakahiroshi/many-ai-cli
+    reference: https://github.com/ishizakahiroshi/many-ai-cli
+binlist:
+- many-ai-cli

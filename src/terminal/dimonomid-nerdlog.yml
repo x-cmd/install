@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/dimonomid/nerdlog
+license: bsd-2-clause
+desc:
+  cn: 快速、远程优先、多主机的 TUI 日志查看器，带时间线直方图，无需中心服务器
+  en: 'Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server'
+x:
+  source: https://github.com/dimonomid/nerdlog
+  eget: https://github.com/dimonomid/nerdlog
+rule:
+  /eget:
+    cmd: x eget dimonomid/nerdlog
+    reference: https://github.com/dimonomid/nerdlog
+binlist:
+- nerdlog

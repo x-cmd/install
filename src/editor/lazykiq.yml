@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/kpumuk/lazykiq
+license: 'MIT'
+desc:
+  cn: Sidekiq 的富终端 UI
+  en: 'rich terminal UI for Sidekiq'
+x:
+  source: https://github.com/kpumuk/lazykiq
+  eget: https://github.com/kpumuk/lazykiq
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/kpumuk/lazykiq
+  /eget:
+    cmd: x eget kpumuk/lazykiq
+    reference: https://github.com/kpumuk/lazykiq
+binlist:
+  - 'lazykiq'

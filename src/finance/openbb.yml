@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/OpenBB-finance/OpenBB
+license: noassertion
+desc:
+  cn: 通过统一 API 将公开、私有和授权来源的金融数据接入 Python、Excel 或自定义应用
+  en: Integrate financial data from public, private, and licensed sources into Python, Excel, or custom applications via a unified API.
+x:
+  source: https://github.com/OpenBB-finance/OpenBB
+rule:
+  /pip:
+    cmd: pip install openbb
+    reference: https://github.com/OpenBB-finance/OpenBB
+    dsnap: openbb
+binlist:
+- openbb

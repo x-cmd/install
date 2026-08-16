@@ -1,0 +1,31 @@
+lang: Go
+homepage: https://github.com/github/git-sizer
+license: MIT
+desc:
+  cn: 计算 Git 存储库的各种大小指标，标记那些可能导致问题的指标
+  en: Compute various size metrics for a Git repository, flagging those that might cause problems
+x:
+  source: https://github.com/github/git-sizer
+  eget: https://github.com/github/git-sizer
+rule:
+  /eget:
+    cmd: x eget github/git-sizer
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install git-sizer
+    reference: https://formulae.brew.sh/formula/git-sizer#default
+  debian/apt:
+    cmd: sudo apt-get install git-sizer
+    reference: https://command-not-found.com/git-sizer
+  ubuntu/apt:
+    cmd: sudo apt-get install git-sizer
+    reference: https://command-not-found.com/git-sizer
+  kali/apt:
+    cmd: sudo apt-get install git-sizer
+    reference: https://command-not-found.com/git-sizer
+    dsnap: git-sizer
+  arch/yay:
+    cmd: yay -S git-sizer-git
+    reference: https://aur.archlinux.org/packages/git-sizer-git
+binlist:
+- git-sizer

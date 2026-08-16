@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/lusingander/gotip'
+license: 'MIT'
+desc:
+  cn: Go 测试交互式选择器
+  en: 'Go Test Interactive Picker 🧪'
+x:
+  source: https://github.com/lusingander/gotip
+  eget: https://github.com/lusingander/gotip
+rule:
+  /eget:
+    cmd: x eget lusingander/gotip
+    reference: https://github.com/lusingander/gotip
+binlist:
+  - 'gotip'

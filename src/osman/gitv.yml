@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/JayanAXHF/gitv
+license: 'Unlicense'
+desc:
+  cn: 终端版 GitHub issues 查看器，可直接查看与管理 issues
+  en: 'gitv is a terminal-based viewer for GitHub issues. It allows you to view and manage your GitHub issues directly from the terminal.'
+x:
+  source: https://github.com/JayanAXHF/gitv
+  eget: https://github.com/JayanAXHF/gitv
+rule:
+  /cargo:
+    cmd: 'cargo install typos-cli'
+    reference: https://github.com/JayanAXHF/gitv
+  /eget:
+    cmd: x eget JayanAXHF/gitv
+    reference: https://github.com/JayanAXHF/gitv
+binlist:
+  - 'gitv'

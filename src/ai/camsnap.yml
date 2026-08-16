@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/camsnap
+license: mit
+desc:
+  cn: 针对 RTSP/ONVIF 摄像头抓取快照、短视频并执行运动检测的 CLI
+  en: CLI to capture snapshots, short clips, and run motion detection against RTSP/ONVIF came ras
+x:
+  source: https://github.com/steipete/camsnap
+  eget: https://github.com/steipete/camsnap
+rule:
+  /eget:
+    cmd: x eget steipete/camsnap
+    reference: https://github.com/steipete/camsnap
+binlist:
+- camsnap

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Firstp1ck/Pacsea
+license: 'MIT'
+desc:
+  cn: 极速 TUI，搜索、查看并排队 pacman/AUR 软件包
+  en: 'Fast TUI for searching, inspecting, and queueing pacman/AUR packages.'
+x:
+  source: https://github.com/Firstp1ck/Pacsea
+  eget: https://github.com/Firstp1ck/Pacsea
+rule:
+  /eget:
+    cmd: x eget Firstp1ck/Pacsea
+    reference: https://github.com/Firstp1ck/Pacsea
+binlist:
+  - 'pacsea'

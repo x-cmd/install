@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/BeehiveInnovations/pal-mcp-server
+license: other
+desc:
+  cn: 让 Claude Code/GeminiCLI/CodexCLI 与 Gemini/OpenAI/OpenRouter/Azure/Grok/Ollama 等模型协同工作
+  en: The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+x:
+  source: https://github.com/BeehiveInnovations/pal-mcp-server
+  eget: https://github.com/BeehiveInnovations/pal-mcp-server
+rule:
+  /eget:
+    cmd: x eget BeehiveInnovations/pal-mcp-server
+    reference: https://github.com/BeehiveInnovations/pal-mcp-server
+binlist:
+- pal-mcp-server

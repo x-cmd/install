@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/Kuberwastaken/claurst
+license: gpl-3.0
+desc:
+  cn: 面向交付型开发者的智能体编码工具
+  en: Agentic Coding for Builders who Ship
+x:
+  source: https://github.com/Kuberwastaken/claurst
+  eget: https://github.com/Kuberwastaken/claurst
+rule:
+  /eget:
+    cmd: x eget Kuberwastaken/claurst
+    reference: https://github.com/Kuberwastaken/claurst
+binlist:
+- claurst

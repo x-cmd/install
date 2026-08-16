@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/Gaurav-Gosain/tuios
+license: 'MIT'
+desc:
+  cn: 终端 UI 操作系统(终端复用器)
+  en: 'Terminal UI OS (Terminal Multiplexer)'
+x:
+  source: https://github.com/Gaurav-Gosain/tuios
+  eget: https://github.com/Gaurav-Gosain/tuios
+rule:
+  /eget:
+    cmd: x eget Gaurav-Gosain/tuios
+    reference: https://github.com/Gaurav-Gosain/tuios
+binlist:
+  - 'tuios'

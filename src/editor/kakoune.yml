@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: https://github.com/mawww/kakoune
+license: 'Unlicense'
+desc:
+  cn: 面向更优代码编辑器的实验性项目
+  en: 'mawww''s experiment for a better code editor'
+x:
+  source: https://github.com/mawww/kakoune
+  eget: https://github.com/mawww/kakoune
+rule:
+  /eget:
+    cmd: x eget mawww/kakoune
+    reference: https://github.com/mawww/kakoune
+binlist:
+  - 'kakoune'

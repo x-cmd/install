@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/thewizardshell/froggit
+license: 'MIT'
+desc:
+  cn: 通过可视化反馈和键盘操作简化 Git 工作流
+  en: 'Simplify your Git workflow with visual feedback, keyboard-driven controls, and a streamlined experience.'
+x:
+  source: https://github.com/thewizardshell/froggit
+  eget: https://github.com/thewizardshell/froggit
+rule:
+  /eget:
+    cmd: x eget thewizardshell/froggit
+    reference: https://github.com/thewizardshell/froggit
+binlist:
+  - 'froggit'

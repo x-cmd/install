@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/Pavelevich/llm-checker
+license: other
+desc:
+  cn: 扫描硬件并明确告诉你能在本地运行哪些 LLM 或 sLLM 模型的高级 CLI，深度集成 Ollama
+  en: Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
+x:
+  source: https://github.com/Pavelevich/llm-checker
+rule:
+  /npm:
+    cmd: npm install -g llm-checker
+    reference: https://www.npmjs.com/package/llm-checker
+    dsnap: 'llm-checker'
+binlist:
+- llm-checker

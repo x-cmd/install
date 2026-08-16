@@ -1,0 +1,19 @@
+lang: TypeScript
+homepage: https://github.com/steipete/Markdansi
+license: mit
+desc:
+  cn: 基于 Micro-Mark 的 TypeScript Markdown 转 ANSI 工具，支持 URL、表格、列表等
+  en: Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tables, lists and more.
+x:
+  source: https://github.com/steipete/Markdansi
+  eget: https://github.com/steipete/Markdansi
+rule:
+  /npm:
+    cmd: npm install -g markdansi
+    reference: https://github.com/steipete/Markdansi#install
+    dsnap: markdansi
+  /eget:
+    cmd: x eget steipete/Markdansi
+    reference: https://github.com/steipete/Markdansi
+binlist:
+- markdansi

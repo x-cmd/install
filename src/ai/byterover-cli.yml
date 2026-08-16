@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/campfirein/byterover-cli
+license: other
+desc:
+  cn: ByteRover CLI（brv），面向自主编码 Agent 的便携记忆层（原 Cipher）
+  en: ByteRover CLI (brv) - The portable memory layer for autonomous coding agents (formerly Cipher)
+x:
+  source: https://github.com/campfirein/byterover-cli
+rule:
+  /npm:
+    cmd: npm install -g byterover-cli
+    reference: https://www.npmjs.com/package/byterover-cli
+    dsnap: 'byterover-cli'
+binlist:
+- byterover-cli

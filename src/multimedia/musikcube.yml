@@ -1,0 +1,18 @@
+lang: 'C++'
+homepage: https://github.com/clangen/musikcube
+license: 'BSD-3-Clause'
+desc:
+  cn: C++ 编写的跨平台终端音乐播放器、音频引擎、元数据索引器和服务器
+  en: 'a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++'
+x:
+  source: https://github.com/clangen/musikcube
+  eget: https://github.com/clangen/musikcube
+rule:
+  darwin/brew:
+    cmd: 'brew install musikcube'
+    reference: https://github.com/clangen/musikcube
+  /eget:
+    cmd: x eget clangen/musikcube
+    reference: https://github.com/clangen/musikcube
+binlist:
+  - 'musikcube'

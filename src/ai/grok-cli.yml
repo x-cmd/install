@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/superagent-ai/grok-cli
+license: mit
+desc:
+  cn: 面向 Grok API 的开源编码智能体
+  en: An open-source coding agent for the Grok API
+x:
+  source: https://github.com/superagent-ai/grok-cli
+  eget: https://github.com/superagent-ai/grok-cli
+rule:
+  /eget:
+    cmd: x eget superagent-ai/grok-cli
+    reference: https://github.com/superagent-ai/grok-cli
+binlist:
+- grok-cli

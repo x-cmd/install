@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/anistark/sot
+license: 'MIT'
+desc:
+  cn: 命令行系统观测工具
+  en: 'Command-line System Obervation Tool'
+x:
+  source: https://github.com/anistark/sot
+  eget: https://github.com/anistark/sot
+rule:
+  /eget:
+    cmd: x eget anistark/sot
+    reference: https://github.com/anistark/sot
+binlist:
+  - 'sot'

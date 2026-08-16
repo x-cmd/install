@@ -1,0 +1,23 @@
+desc:
+  cn: AUR Helper
+  en: AUR 帮助程序
+lang: Python
+homepage: https://github.com/polygamma/aurman
+license: MIT
+x:
+  source: https://github.com/polygamma/aurman
+rule:
+  arch/pacman:
+    cmd: 'git clone https://aur.archlinux.org/aurman.git
+
+      cd aurman
+
+      makepkg -si
+
+      '
+    reference: https://wiki.archlinux.org/title/Arch_User_Repository
+  arch/yay:
+    cmd: yay -S aurman
+    reference: https://aur.archlinux.org/packages/aurman
+binlist:
+- aurman

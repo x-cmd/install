@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/pwnwriter/kanha
+license: 'MIT'
+desc:
+  cn: Rust 编写的 Web 应用渗透测试套件
+  en: '🦚 A web-app pentesting suite written in rust .'
+x:
+  source: https://github.com/pwnwriter/kanha
+  eget: https://github.com/pwnwriter/kanha
+rule:
+  /eget:
+    cmd: x eget pwnwriter/kanha
+    reference: https://github.com/pwnwriter/kanha
+binlist:
+  - 'kanha'

@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/JasonYeYuhe/cli-pulse
+license: other
+desc:
+  cn: 实时追踪 50+ AI CLI 工具的用量、成本与配额，并支持手机远程控制 Mac 上的 AI 编码会话
+  en: Real-time usage, cost & quota tracking across 50+ AI CLI tools (Claude Code, Codex, Gemini, Cursor, Copilot…) — plus remote-control your Mac's AI coding sessions from your phone. macOS menu bar · i...
+x:
+  source: https://github.com/JasonYeYuhe/cli-pulse
+  eget: https://github.com/JasonYeYuhe/cli-pulse
+rule:
+  /eget:
+    cmd: x eget JasonYeYuhe/cli-pulse
+    reference: https://github.com/JasonYeYuhe/cli-pulse
+binlist:
+- cli-pulse

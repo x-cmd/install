@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: https://github.com/astefanutti/decktape
+license: MIT
+desc:
+  cn: DeckTape 是用于 HTML 的高质量 PDF 导出程序
+  en: DeckTape is a high-quality PDF exporter for HTML presentation frameworks'
+x:
+  pkg:
+    exist: true
+  source: https://github.com/astefanutti/decktape
+rule:
+  /x:
+    cmd: x pkg use decktape
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install -g decktape
+    reference: https://github.com/astefanutti/decktape?tab=readme-ov-file#npm
+    dsnap: decktape
+binlist:
+- decktape

@@ -1,0 +1,56 @@
+lang: Go
+homepage: https://github.com/chriswalz/bit
+license: Apache-2.0
+desc:
+  cn: 一个实验性的现代化 git CLI，构建在 git 之上，能提供丰富的 git 命令和选项的相关建议
+  en: '`bit` is an experimental modernized git CLI built on top of git that provides happy defaults '
+x:
+  pkg:
+    exist: true
+  source: https://github.com/chriswalz/bit
+  eget: https://github.com/chriswalz/bit
+rule:
+  /x:
+    cmd: x pkg use bit
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget chriswalz/bit
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: 'curl -sf https://gobinaries.com/chriswalz/bit | sh \
+
+      && bit complete \
+
+      && echo "Type bit then press <ENTER> to show interactive prompt" \
+
+      && bit
+
+      '
+    reference: https://github.com/chriswalz/bit#using-curl-simplest-way-to-install
+  darwin/brew:
+    cmd: 'brew install bit-git \
+
+      && bit complete \
+
+      && bit
+
+      '
+    reference: https://github.com/chriswalz/bit#using-homebrew-for-macos-users
+  darwin/port:
+    cmd: sudo port selfupdate && sudo port install bit
+    reference: https://github.com/chriswalz/bit#using-macports-for-macos-users
+  (win|wsl2)/choco:
+    cmd: x choco install bit-git
+    reference: https://github.com/chriswalz/bit#using-chocolatey-for-windows-users
+  /zinit:
+    cmd: 'zinit ice lucit wait"0" as"program" from"gh-r" pick"bit" \
+
+      && zinit light "chriswalz/bit"
+
+      '
+    reference: https://github.com/chriswalz/bit#using-zinit
+  arch/yay:
+    cmd: yay -S bit-bin
+    reference: https://aur.archlinux.org/packages/bit-bin
+binlist:
+- bit

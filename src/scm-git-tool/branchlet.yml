@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: https://github.com/raghavpillai/branchlet
+license: 'MIT'
+desc:
+  cn: 简洁的 CLI Git worktree 管理器
+  en: 'Branchlet: A simple CLI Git worktree manager'
+x:
+  source: https://github.com/raghavpillai/branchlet
+  eget: https://github.com/raghavpillai/branchlet
+rule:
+  /eget:
+    cmd: x eget raghavpillai/branchlet
+    reference: https://github.com/raghavpillai/branchlet
+binlist:
+  - 'branchlet'

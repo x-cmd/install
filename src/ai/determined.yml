@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/determined-ai/determined
+license: 'Apache-2.0'
+desc:
+  cn: 开源机器学习平台，简化分布式训练、超参调优、实验追踪与资源管理，支持 PyTorch 和 TensorFlow
+  en: 'Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.'
+x:
+  source: https://github.com/determined-ai/determined
+  eget: https://github.com/determined-ai/determined
+rule:
+  /eget:
+    cmd: x eget determined-ai/determined
+    reference: https://github.com/determined-ai/determined
+binlist:
+  - 'determined'

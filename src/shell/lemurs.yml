@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/coastalwhite/lemurs'
+license: 'Apache-2.0'
+desc:
+  cn: Rust 编写的可定制 TUI 显示/登录管理器
+  en: 'A customizable TUI display/login manager written in Rust 🐒'
+x:
+  source: https://github.com/coastalwhite/lemurs
+  eget: https://github.com/coastalwhite/lemurs
+rule:
+  /eget:
+    cmd: x eget coastalwhite/lemurs
+    reference: https://github.com/coastalwhite/lemurs
+binlist:
+  - 'lemurs'

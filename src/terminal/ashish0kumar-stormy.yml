@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/ashish0kumar/stormy
+license: mit
+desc:
+  cn: 极简的 neofetch 风格天气 CLI
+  en: minimal neofetch-style weather cli
+x:
+  source: https://github.com/ashish0kumar/stormy
+  eget: https://github.com/ashish0kumar/stormy
+rule:
+  /eget:
+    cmd: x eget ashish0kumar/stormy
+    reference: https://github.com/ashish0kumar/stormy
+binlist:
+- stormy

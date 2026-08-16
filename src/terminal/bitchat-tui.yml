@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/vaibhav-mattoo/bitchat-tui'
+license: 'MIT'
+desc:
+  cn: 终端内的安全、匿名 P2P 蓝牙聊天，Rust 实现的离网加密 TUI 即时通讯
+  en: '🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.'
+x:
+  source: https://github.com/vaibhav-mattoo/bitchat-tui
+  eget: https://github.com/vaibhav-mattoo/bitchat-tui
+rule:
+  /eget:
+    cmd: x eget vaibhav-mattoo/bitchat-tui
+    reference: https://github.com/vaibhav-mattoo/bitchat-tui
+binlist:
+  - 'bitchat-tui'

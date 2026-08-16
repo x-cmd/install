@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/anthropics/anthropic-cli
+license: mit
+desc:
+  cn: Claude API 的 CLI
+  en: The CLI for the Claude API
+x:
+  source: https://github.com/anthropics/anthropic-cli
+  eget: https://github.com/anthropics/anthropic-cli
+rule:
+  /eget:
+    cmd: x eget anthropics/anthropic-cli
+    reference: https://github.com/anthropics/anthropic-cli
+binlist:
+- anthropic-cli

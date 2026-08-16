@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/kraanzu/smassh'
+license: 'GPL-3.0'
+desc:
+  cn: 键盘练手 TUI 工具
+  en: 'Smassh your Keyboard, TUI Edition'
+x:
+  source: https://github.com/kraanzu/smassh
+  eget: https://github.com/kraanzu/smassh
+rule:
+  /eget:
+    cmd: x eget kraanzu/smassh
+    reference: https://github.com/kraanzu/smassh
+binlist:
+  - 'smassh'

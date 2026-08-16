@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/microsoft/conductor
+license: mit
+desc:
+  cn: 基于 GitHub Copilot SDK 与 Anthropic Agents SDK 定义并运行多智能体工作流的 CLI 工具
+  en: A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
+x:
+  source: https://github.com/microsoft/conductor
+  eget: https://github.com/microsoft/conductor
+rule:
+  /eget:
+    cmd: x eget microsoft/conductor
+    reference: https://github.com/microsoft/conductor
+binlist:
+- conductor

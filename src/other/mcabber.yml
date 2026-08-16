@@ -1,0 +1,47 @@
+lang: C
+homepage: https://github.com/McKael/mcabber
+desc:
+  cn: mcabber 是一个小型的 XMPP（Jabber）控制台客户端。
+  en: mcabber is a small XMPP (Jabber) console client.
+x:
+  source: https://github.com/McKael/mcabber
+  eget: https://github.com/McKael/mcabber
+rule:
+  /eget:
+    cmd: x eget McKael/mcabber
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install mcabber
+    reference: https://formulae.brew.sh/formula/mcabber#default
+  debian/apt:
+    cmd: sudo apt-get install mcabber
+    reference: https://command-not-found.com/mcabber
+    dsnap: mcabber
+  ubuntu/apt:
+    cmd: sudo apt-get install mcabber
+    reference: https://command-not-found.com/mcabber
+    dsnap: mcabber
+  kali/apt:
+    cmd: sudo apt-get install mcabber
+    reference: https://command-not-found.com/mcabber
+    dsnap: mcabber
+  raspbian/apt:
+    cmd: sudo apt-get install mcabber
+    reference: https://command-not-found.com/mcabber
+  mint/apt:
+    cmd: sudo apt-get install mcabber
+    reference: https://command-not-found.com/mcabber
+  alpine/apk:
+    cmd: sudo apk add mcabber
+    reference: https://command-not-found.com/mcabber
+    dsnap: mcabber
+  arch/pacman:
+    cmd: sudo pacman -S mcabber
+    reference: https://command-not-found.com/mcabber
+  fedora/dnf:
+    cmd: sudo dnf install mcabber
+    reference: https://command-not-found.com/mcabber
+    dsnap: mcabber
+binlist:
+- mcabber
+license: NOASSERTION

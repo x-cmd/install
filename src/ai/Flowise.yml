@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/FlowiseAI/Flowise
+license: other
+desc:
+  cn: 可视化构建 AI Agent
+  en: Build AI Agents, Visually
+x:
+  source: https://github.com/FlowiseAI/Flowise
+rule:
+  /npm:
+    cmd: npm install -g flowise
+    reference: https://www.npmjs.com/package/flowise
+    dsnap: 'flowise'
+binlist:
+- Flowise

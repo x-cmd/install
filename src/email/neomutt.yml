@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: https://github.com/neomutt/neomutt
+license: 'GPL-2.0'
+desc:
+  cn: 为老牌邮件客户端注入新特性的终端邮件工具
+  en: '✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat'
+x:
+  source: https://github.com/neomutt/neomutt
+  eget: https://github.com/neomutt/neomutt
+rule:
+  /eget:
+    cmd: x eget neomutt/neomutt
+    reference: https://github.com/neomutt/neomutt
+binlist:
+  - 'neomutt'

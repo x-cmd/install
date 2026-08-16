@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/unhappychoice/gittype'
+license: 'MIT'
+desc:
+  cn: 把源代码变成打字挑战的 CLI 代码打字游戏
+  en: 'A CLI code-typing game that turns your source code into typing challenges'
+x:
+  source: https://github.com/unhappychoice/gittype
+  eget: https://github.com/unhappychoice/gittype
+rule:
+  /cargo:
+    cmd: 'cargo install'
+    reference: https://github.com/unhappychoice/gittype
+  /eget:
+    cmd: x eget unhappychoice/gittype
+    reference: https://github.com/unhappychoice/gittype
+binlist:
+  - 'gittype'

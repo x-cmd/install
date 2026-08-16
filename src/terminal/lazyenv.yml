@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/lazynop/lazyenv'
+license: 'MIT'
+desc:
+  cn: 管理 .env 文件的 TUI
+  en: 'TUI for managing .env files'
+x:
+  source: https://github.com/lazynop/lazyenv
+  eget: https://github.com/lazynop/lazyenv
+rule:
+  /eget:
+    cmd: x eget lazynop/lazyenv
+    reference: https://github.com/lazynop/lazyenv
+binlist:
+  - 'lazyenv'

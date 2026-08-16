@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/mattpocock/skills
+license: mit
+desc:
+  cn: 从终端运行模块化的 AI 脚本，自动化项目规划、TDD、代码重构、工具配置等软件开发任务
+  en: Run modular, AI-powered scripts from your terminal to automate software development tasks like project planning, TDD, code refactoring, and tooling setup.
+x:
+  source: https://github.com/mattpocock/skills
+  eget: https://github.com/mattpocock/skills
+rule:
+  /eget:
+    cmd: x eget mattpocock/skills
+    reference: https://github.com/mattpocock/skills
+binlist:
+- skills

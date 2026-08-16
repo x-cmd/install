@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/mrdaemon/exosphere
+license: 'MIT'
+desc:
+  cn: Python 编写的 CLI 与 TUI 应用，为远程 Unix 系统提供补丁报告
+  en: 'A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python'
+x:
+  source: https://github.com/mrdaemon/exosphere
+  eget: https://github.com/mrdaemon/exosphere
+rule:
+  /eget:
+    cmd: x eget mrdaemon/exosphere
+    reference: https://github.com/mrdaemon/exosphere
+binlist:
+  - 'exosphere'

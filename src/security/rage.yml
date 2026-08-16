@@ -1,0 +1,29 @@
+lang: Rust
+homepage: https://github.com/str4d/rage
+license: Apache-2.0
+desc:
+  cn: rage 是一种简单、现代且安全的文件加密工具，使用 Age 格式。
+  en: rage is a simple, modern, and secure file encryption tool
+x:
+  source: https://github.com/str4d/rage
+  eget: https://github.com/str4d/rage
+rule:
+  /eget:
+    cmd: x eget str4d/rage
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap str4d.xyz/rage https://str4d.xyz/rage \
+
+      && brew install rage
+
+      '
+    reference: https://github.com/str4d/rage?tab=readme-ov-file#installation
+  opensuse/zypper:
+    cmd: sudo zypper install rage-encryption
+    reference: https://github.com/str4d/rage?tab=readme-ov-file#installation
+  /cargo:
+    cmd: cargo install rage
+    reference: https://github.com/str4d/rage?tab=readme-ov-file#installation
+    dsnap: rage
+binlist:
+- rage

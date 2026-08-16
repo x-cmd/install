@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/chopratejas/headroom
+license: 'Apache-2.0'
+desc:
+  cn: 在工具输出、日志、文件与 RAG 片段送达 LLM 前进行压缩，节省 60-95% token
+  en: 'Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.'
+x:
+  source: https://github.com/chopratejas/headroom
+  eget: https://github.com/chopratejas/headroom
+rule:
+  /eget:
+    cmd: x eget chopratejas/headroom
+    reference: https://github.com/chopratejas/headroom
+binlist:
+  - 'headroom'

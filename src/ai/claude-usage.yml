@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/phuryn/claude-usage
+license: mit
+desc:
+  cn: 扫描本地日志并在浏览器或 VS Code 中展示仪表盘，可视化 Claude token 用量并估算成本
+  en: Visualize Claude token usage and estimate costs by scanning local logs and serving a dashboard in your browser or VS Code.
+x:
+  source: https://github.com/phuryn/claude-usage
+rule:
+  /git:
+    cmd: |
+      git clone https://github.com/phuryn/claude-usage
+      cd claude-usage
+      python3 cli.py dashboard
+    reference: https://github.com/phuryn/claude-usage
+  darwin/brew:
+    cmd: brew install --formula https://raw.githubusercontent.com/phuryn/claude-usage/main/Formula/claude-usage.rb
+    reference: https://github.com/phuryn/claude-usage?tab=readme-ov-file#macos--linux-homebrew
+binlist:
+- claude-usage

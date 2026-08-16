@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/huohuoer/wechat-cli
+license: apache-2.0
+desc:
+  cn: 查询本地微信数据的 CLI 工具，包括聊天记录、联系人、会话、收藏等，专为 LLM 集成设计
+  en: A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration.
+x:
+  source: https://github.com/huohuoer/wechat-cli
+  eget: https://github.com/huohuoer/wechat-cli
+rule:
+  /eget:
+    cmd: x eget huohuoer/wechat-cli
+    reference: https://github.com/huohuoer/wechat-cli
+binlist:
+- wechat-cli

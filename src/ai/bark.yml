@@ -1,0 +1,14 @@
+lang: Swift
+homepage: https://github.com/Finb/Bark
+license: mit
+desc:
+  cn: 通过简单 HTTP API 将任意自定义推送发送至 iPhone 的 iOS 通知 App，支持分组、自定义图标/声音、时效性提醒、加密与自托管服务器。
+  en: iOS notification app that sends custom push notifications to your iPhone via a simple HTTP API, with notification grouping, custom icons and sounds, time-sensitive alerts, encryption, and self-hosted server support.
+x:
+  source: https://github.com/Finb/Bark
+rule:
+  /appstore:
+    cmd: open "https://apps.apple.com/app/bark-custom-notifications/id1403753865"
+    reference: https://github.com/Finb/Bark
+binlist:
+- bark

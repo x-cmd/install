@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/zakirkun/guardian-cli
+license: other
+desc:
+  cn: 基于 Google Gemini 与 LangChain 的生产级 AI 渗透测试自动化 CLI
+  en: Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows w...
+x:
+  source: https://github.com/zakirkun/guardian-cli
+  eget: https://github.com/zakirkun/guardian-cli
+rule:
+  /eget:
+    cmd: x eget zakirkun/guardian-cli
+    reference: https://github.com/zakirkun/guardian-cli
+binlist:
+- guardian-cli

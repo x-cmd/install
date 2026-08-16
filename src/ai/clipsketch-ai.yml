@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: https://github.com/RanFeng/clipsketch-ai
+license: noassertion
+desc:
+  cn: 将视频瞬间转化为手绘故事的工具
+  en: '将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories'
+x:
+  source: https://github.com/RanFeng/clipsketch-ai
+  eget: https://github.com/RanFeng/clipsketch-ai
+rule:
+  /eget:
+    cmd: x eget RanFeng/clipsketch-ai
+    reference: https://github.com/RanFeng/clipsketch-ai
+binlist:
+  - 'clipsketch-ai'

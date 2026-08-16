@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/vyrx-dev/toofan'
+license: 'MIT'
+desc:
+  cn: 终端下极简、极速的打字 TUI
+  en: 'A minimal, lightning-fast typing TUI for your terminal'
+x:
+  source: https://github.com/vyrx-dev/toofan
+  eget: https://github.com/vyrx-dev/toofan
+rule:
+  /eget:
+    cmd: x eget vyrx-dev/toofan
+    reference: https://github.com/vyrx-dev/toofan
+binlist:
+  - 'toofan'

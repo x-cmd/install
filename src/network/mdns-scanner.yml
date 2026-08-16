@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/CramBL/mdns-scanner'
+license: 'Apache-2.0'
+desc:
+  cn: 扫描网络并生成 IP 与对应主机名列表，含 mDNS 主机名等别名
+  en: 'Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.'
+x:
+  source: https://github.com/CramBL/mdns-scanner
+  eget: https://github.com/CramBL/mdns-scanner
+rule:
+  /eget:
+    cmd: x eget CramBL/mdns-scanner
+    reference: https://github.com/CramBL/mdns-scanner
+binlist:
+  - 'mdns-scanner'

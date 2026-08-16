@@ -1,0 +1,18 @@
+lang: TypeScript
+homepage: https://github.com/diffusionstudio/lottie
+license: mit
+desc:
+  cn: 开源框架，让编码智能体从文本提示生成可直接上线的 Lottie 动画，并提供热重载播放器实时预览
+  en: Text-to-lottie is an open-source framework that lets coding agents (Claude Code, Codex, Cursor, etc.) generate production-ready Lottie animations from text prompts, with a hot-reloading player for live preview and inspection.
+x:
+  source: https://github.com/diffusionstudio/lottie
+rule:
+  /npm:
+    cmd: npx skills add diffusionstudio/lottie
+    reference: https://github.com/diffusionstudio/lottie#-quick-start
+    dsnap: skills
+  /git:
+    cmd: x git clone diffusionstudio/lottie
+    reference: https://github.com/diffusionstudio/lottie
+binlist:
+- lottie

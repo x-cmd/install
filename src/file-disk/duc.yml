@@ -1,0 +1,42 @@
+lang: C
+homepage: https://github.com/zevv/duc
+license: LGPL-3.0
+desc:
+  cn: Duc 是一组用于索引、检查和可视化磁盘使用情况的工具。
+  en: Duc is a collection of tools for indexing, inspecting and visualizing disk usage.
+x:
+  source: https://github.com/zevv/duc
+  eget: https://github.com/zevv/duc
+rule:
+  /eget:
+    cmd: x eget zevv/duc
+    reference: https://x-cmd.com/mod/eget
+  debian/apt:
+    cmd: sudo apt-get install duc
+    reference: https://duc.zevv.nl/#download
+    dsnap: duc
+  ubuntu/apt:
+    cmd: sudo apt-get install duc
+    reference: https://duc.zevv.nl/#download
+    dsnap: duc
+  kali/apt:
+    cmd: sudo apt-get install duc
+    reference: https://duc.zevv.nl/#download
+    dsnap: duc
+  raspbian/apt:
+    cmd: sudo apt-get install duc
+    reference: https://duc.zevv.nl/#download
+  mint/apt:
+    cmd: sudo apt-get install duc
+    reference: https://duc.zevv.nl/#download
+  darwin/brew:
+    cmd: brew install duc
+    reference: https://formulae.brew.sh/formula/duc#default
+  nix/nix-shell:
+    cmd: sudo nix-shell -p duc
+    reference: https://search.nixos.org/packages?channel=unstable&show=duc&from=0&size=50&sort=relevance&type=packages&query=duc
+  arch/yay:
+    cmd: yay -S duc
+    reference: https://aur.archlinux.org/packages/duc
+binlist:
+- duc

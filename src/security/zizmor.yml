@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/woodruffw/zizmor
+license: 'MIT'
+desc:
+  cn: GitHub Actions 的静态分析工具
+  en: 'Static analysis for GitHub Actions'
+x:
+  source: https://github.com/woodruffw/zizmor
+  eget: https://github.com/woodruffw/zizmor
+rule:
+  /eget:
+    cmd: x eget woodruffw/zizmor
+    reference: https://github.com/woodruffw/zizmor
+binlist:
+  - 'zizmor'

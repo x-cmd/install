@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/pwndbg/pwndbg
+license: 'MIT'
+desc:
+  cn: 让 GDB 和 LLDB 的漏洞利用开发与逆向工程更简单
+  en: 'Exploit Development and Reverse Engineering with GDB & LLDB Made Easy'
+x:
+  source: https://github.com/pwndbg/pwndbg
+  eget: https://github.com/pwndbg/pwndbg
+rule:
+  /eget:
+    cmd: x eget pwndbg/pwndbg
+    reference: https://github.com/pwndbg/pwndbg
+binlist:
+  - 'pwndbg'

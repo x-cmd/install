@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/Maxteabag/sqlit'
+license: 'MIT'
+desc:
+  cn: Python 编写的友好 SQL 数据库 TUI，支持多种数据库
+  en: 'A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.'
+x:
+  source: https://github.com/Maxteabag/sqlit
+  eget: https://github.com/Maxteabag/sqlit
+rule:
+  /eget:
+    cmd: x eget Maxteabag/sqlit
+    reference: https://github.com/Maxteabag/sqlit
+binlist:
+  - 'sqlit'

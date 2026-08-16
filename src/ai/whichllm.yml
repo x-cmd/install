@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/Andyyyy64/whichllm
+license: mit
+desc:
+  cn: 根据基准测试和硬件规格对 HuggingFace 模型排序，帮你找出能在本机运行的最优本地 LLM
+  en: Find the best local LLM that runs on your hardware by ranking HuggingFace models based on benchmarks and system specs.
+x:
+  source: https://github.com/Andyyyy64/whichllm
+rule:
+  /pip:
+    cmd: pip install whichllm
+    reference: https://github.com/Andyyyy64/whichllm
+    dsnap: whichllm
+  /git:
+    cmd: x git clone Andyyyy64/whichllm
+    reference: https://github.com/Andyyyy64/whichllm
+binlist:
+- whichllm

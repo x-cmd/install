@@ -1,0 +1,29 @@
+lang: Shell
+homepage: https://github.com/hackerb9/lsix
+license: GPL-3.0
+desc:
+  cn: 像 “ls”，但用于图像。使用 sixel 图形在终端中显示缩略图。
+  en: Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+x:
+  source: https://github.com/hackerb9/lsix
+rule:
+  /wget:
+    cmd: 'wget https://raw.githubusercontent.com/hackerb9/lsix/master/lsix && \
+
+      sudo mv lsix /usr/local/bin && \
+
+      sudo chmod +x /usr/local/bin/lsix
+
+      '
+    reference: https://github.com/hackerb9/lsix?tab=readme-ov-file#installation
+  /curl:
+    cmd: 'curl https://raw.githubusercontent.com/hackerb9/lsix/master/lsix > lsix && \
+
+      sudo mv lsix /usr/local/bin && \
+
+      sudo chmod +x /usr/local/bin/lsix
+
+      '
+    reference: https://github.com/hackerb9/lsix?tab=readme-ov-file#installation
+binlist:
+- lsix

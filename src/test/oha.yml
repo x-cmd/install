@@ -1,0 +1,33 @@
+homepage: https://github.com/hatoo/oha
+license: MIT
+lang: Rust
+desc:
+  cn: HTTP 负载生成器
+  en: HTTP load generator
+x:
+  pkg:
+    exist: true
+  source: https://github.com/hatoo/oha
+  eget: https://github.com/hatoo/oha
+rule:
+  /x:
+    cmd: x pkg use oha
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget hatoo/oha
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install oha
+    reference: https://formulae.brew.sh/formula/oha#default
+  /cargo:
+    cmd: cargo install oha
+    reference: https://crates.io/crates/oha
+    dsnap: oha
+  arch/pacman:
+    cmd: sudo pacman -S oha
+    reference: https://github.com/hatoo/oha?tab=readme-ov-file#on-macos-homebrew
+  arch/yay:
+    cmd: yay -S oha-git
+    reference: https://aur.archlinux.org/packages/oha-git
+binlist:
+- oha

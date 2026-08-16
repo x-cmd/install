@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/fractalops/fli'
+license: 'MIT'
+desc:
+  cn: 强大的 CLI 工具,简化 AWS VPC Flow Logs 分析,提供直观命令、智能过滤和自动标注
+  en: '⚙️ FLI is a powerful command-line tool that simplifies AWS VPC Flow Logs analysis with intuitive commands, smart filtering, and automatic annotations, turning raw network data into actionable insig...'
+x:
+  source: https://github.com/fractalops/fli
+  eget: https://github.com/fractalops/fli
+rule:
+  /eget:
+    cmd: x eget fractalops/fli
+    reference: https://github.com/fractalops/fli
+binlist:
+  - 'fli'

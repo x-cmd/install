@@ -1,0 +1,31 @@
+lang: JavaScript
+homepage: https://github.com/mifi/editly
+license: MIT
+desc:
+  cn: 'Editly 是使用 Node.js 和 ffmpeg 进行声明性 NLE（非线性视频编辑）的工具和框架
+
+    Editly 允许您以编程方式轻松地从一组剪辑、图像、音频和标题创建视频，并具有平滑的过渡和叠加的音乐
+
+    '
+  en: 'Editly is a tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg
+
+    Editly allows you to easily and programmatically create a video from a set of clips, images, audio and titles, with smooth transitions and music overlaid
+
+    '
+x:
+  pkg:
+    exist: true
+  source: https://github.com/mifi/editly
+rule:
+  /x:
+    cmd: x pkg use editly
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm i -g editly
+    reference: https://github.com/mifi/editly?tab=readme-ov-file#installing
+    dsnap: editly
+  arch/yay:
+    cmd: yay -S nodejs-editly
+    reference: https://aur.archlinux.org/packages/nodejs-editly
+binlist:
+- editly

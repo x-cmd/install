@@ -1,0 +1,19 @@
+lang: Go
+homepage: https://github.com/pressly/sup
+license: MIT
+desc:
+  cn: Sup 是一个简单的部署工具，可以在多个主机上并行执行给定的命令集。
+  en: Sup is a simple deployment tool that performs given set of commands on multiple hosts in parallel.
+x:
+  source: https://github.com/pressly/sup
+  eget: https://github.com/pressly/sup
+rule:
+  /eget:
+    cmd: x eget pressly/sup
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go get -u github.com/pressly/sup/cmd/sup
+    reference: https://github.com/pressly/sup?tab=readme-ov-file#installation
+    dsnap: github.com/pressly/sup/cmd/sup
+binlist:
+- sup

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/todoesverso/logss'
+license: 'MIT'
+desc:
+  cn: 简单的日志分割 CLI
+  en: 'A simple cli for logs splitting'
+x:
+  source: https://github.com/todoesverso/logss
+  eget: https://github.com/todoesverso/logss
+rule:
+  /eget:
+    cmd: x eget todoesverso/logss
+    reference: https://github.com/todoesverso/logss
+binlist:
+  - 'logss'

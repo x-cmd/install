@@ -1,0 +1,35 @@
+lang: Rust
+desc:
+  cn: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文
+  en: Atuin replaces the existing shell history with a SQLite database and records additional context for the command
+homepage: https://github.com/atuinsh/atuin
+license: MIT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/atuinsh/atuin
+  eget: https://github.com/atuinsh/atuin
+rule:
+  /x:
+    cmd: x pkg use atuin
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget atuinsh/atuin
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: bash <(curl https://raw.githubusercontent.com/atuinsh/atuin/main/install.sh)
+    reference: https://github.com/atuinsh/atuin?tab=readme-ov-file#script-recommended
+  darwin/brew:
+    cmd: brew install atuin
+    reference: https://github.com/atuinsh/atuin?tab=readme-ov-file#homebrew
+  darwin/port:
+    cmd: sudo port install atuin
+    reference: https://github.com/atuinsh/atuin?tab=readme-ov-file#macports
+  arch/pacman:
+    cmd: sudo pacman -S atuin
+    reference: https://github.com/atuinsh/atuin?tab=readme-ov-file#pacman
+  nix/nixpkgs:
+    cmd: nix-env -f '<nixpkgs>' -iA atuin
+    reference: https://github.com/atuinsh/atuin?tab=readme-ov-file#nix
+binlist:
+- atuin

@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/ajmwagar/stego
+license: MIT
+desc:
+  en: stego is a steganographic swiss army knife
+  cn: stego 是一把隐写瑞士军刀
+x:
+  source: https://github.com/ajmwagar/stego
+rule:
+  /cargo:
+    cmd: cargo install stego
+    reference: https://github.com/ajmwagar/stego?tab=readme-ov-file#-installation
+    dsnap: stego
+binlist:
+- stego

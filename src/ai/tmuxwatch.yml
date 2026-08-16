@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/tmuxwatch
+license: mit
+desc:
+  cn: 用于监视 tmux 会话的简洁 TUI
+  en: A simple TUI to watch tmux sessions
+x:
+  source: https://github.com/steipete/tmuxwatch
+  eget: https://github.com/steipete/tmuxwatch
+rule:
+  /eget:
+    cmd: x eget steipete/tmuxwatch
+    reference: https://github.com/steipete/tmuxwatch
+binlist:
+- tmuxwatch

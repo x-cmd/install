@@ -1,0 +1,24 @@
+lang: Zig
+homepage: https://github.com/neurocyte/flow
+license: MIT
+desc:
+  en: A programmer's text editor
+  cn: 程序员的文本编辑器
+x:
+  source: https://github.com/neurocyte/flow
+  eget: https://github.com/neurocyte/flow
+rule:
+  /eget:
+    cmd: x eget neurocyte/flow
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://flow-control.dev/install | sh
+    reference: https://github.com/neurocyte/flow?tab=readme-ov-file#download--install
+  arch/pacman:
+    cmd: pacman -S flow-control
+    reference: https://github.com/neurocyte/flow?tab=readme-ov-file#download--install
+  darwin/brew:
+    cmd: brew install flow-control
+    reference: https://github.com/neurocyte/flow?tab=readme-ov-file#download--install
+binlist:
+- flow-control

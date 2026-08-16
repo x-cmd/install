@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/maaslalani/sheets'
+license: 'MIT'
+desc:
+  cn: 基于终端的电子表格工具
+  en: 'Terminal based spreadsheet tool'
+x:
+  source: https://github.com/maaslalani/sheets
+  eget: https://github.com/maaslalani/sheets
+rule:
+  /eget:
+    cmd: x eget maaslalani/sheets
+    reference: https://github.com/maaslalani/sheets
+binlist:
+  - 'sheets'

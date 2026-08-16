@@ -1,0 +1,31 @@
+lang: Rust
+homepage: https://github.com/Canop/rhit
+license: MIT
+desc:
+  cn: Nginx 日志探索器。
+  en: A nginx log explorer.
+x:
+  source: https://github.com/Canop/rhit
+  eget: https://github.com/Canop/rhit
+rule:
+  /eget:
+    cmd: x eget Canop/rhit
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install rhit
+    reference: https://dystroy.org/rhit/install/
+    dsnap: rhit
+  arch/pacman:
+    cmd: pacman -S rhit
+    reference: https://dystroy.org/rhit/install/
+  manjaro/pacman:
+    cmd: pacman -S rhit
+    reference: https://dystroy.org/rhit/install/
+  darwin/brew:
+    cmd: brew install bmon
+    reference: https://github.com/tgraf/bmon#osx-installation
+  darwin/port:
+    cmd: sudo port install rhit
+    reference: https://github.com/tgraf/bmon#osx-installation
+binlist:
+- rhit

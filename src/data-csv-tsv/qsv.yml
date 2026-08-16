@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/jqnatividad/qsv
+license: 'Unlicense'
+desc:
+  cn: 极速数据处理工具包
+  en: 'Blazing-fast Data-Wrangling toolkit'
+x:
+  source: https://github.com/jqnatividad/qsv
+  eget: https://github.com/jqnatividad/qsv
+rule:
+  /eget:
+    cmd: x eget jqnatividad/qsv
+    reference: https://github.com/jqnatividad/qsv
+binlist:
+  - 'qsv'

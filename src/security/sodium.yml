@@ -1,0 +1,23 @@
+lang: C
+homepage: https://github.com/jedisct1/libsodium
+desc:
+  cn: Sodium 是一个现代化、易于使用的软件库，用于加密、解密、签名、密码散列等
+  en: Sodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing, and more
+x:
+  pkg:
+    exist: true
+  source: https://github.com/jedisct1/libsodium
+  eget: https://github.com/jedisct1/libsodium
+rule:
+  /x:
+    cmd: x pkg use sodium
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget jedisct1/libsodium
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install libsodium
+    reference: https://formulae.brew.sh/formula/libsodium#default
+binlist:
+- sodium
+license: NOASSERTION

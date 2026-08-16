@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: https://github.com/thomas-mauran/chess-tui
+license: 'MIT'
+desc:
+  cn: 在任意终端下棋:Rust TUI、Stockfish、Lichess
+  en: 'Play chess in any terminal. Rust TUI, Stockfish, Lichess.'
+x:
+  source: https://github.com/thomas-mauran/chess-tui
+  eget: https://github.com/thomas-mauran/chess-tui
+rule:
+  /cargo:
+    cmd: 'cargo install chess-tui'
+    reference: https://github.com/thomas-mauran/chess-tui
+  darwin/brew:
+    cmd: 'brew install thomas-mauran/tap/chess-tui'
+    reference: https://github.com/thomas-mauran/chess-tui
+  /eget:
+    cmd: x eget thomas-mauran/chess-tui
+    reference: https://github.com/thomas-mauran/chess-tui
+binlist:
+  - 'chess-tui'

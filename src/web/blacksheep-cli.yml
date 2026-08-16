@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/Neoteroi/BlackSheep
+license: MIT
+desc:
+  cn: 启动 BlackSheep 项目的客户端
+  en: CLI to start BlackSheep projects.
+x:
+  source: https://github.com/Neoteroi/BlackSheep
+rule:
+  /pip:
+    cmd: pip install blacksheep-cli
+    reference: https://www.neoteroi.dev/blacksheep/cli/#installing-the-cli
+    dsnap: blacksheep-cli
+binlist:
+- blacksheep-cli

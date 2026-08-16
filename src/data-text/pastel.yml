@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/sharkdp/pastel'
+license: 'Apache-2.0'
+desc:
+  cn: 生成、分析、转换与操作颜色的命令行工具
+  en: 'A command-line tool to generate, analyze, convert and manipulate colors'
+x:
+  source: https://github.com/sharkdp/pastel
+  eget: https://github.com/sharkdp/pastel
+rule:
+  /eget:
+    cmd: x eget sharkdp/pastel
+    reference: https://github.com/sharkdp/pastel
+binlist:
+  - 'pastel'

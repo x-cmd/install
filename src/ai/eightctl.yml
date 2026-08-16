@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/eightctl
+license: mit
+desc:
+  cn: Eight Sleep 数据获取与设备控制的 CLI
+  en: Eight Sleep cli to fetch data and control your pods.
+x:
+  source: https://github.com/steipete/eightctl
+  eget: https://github.com/steipete/eightctl
+rule:
+  /eget:
+    cmd: x eget steipete/eightctl
+    reference: https://github.com/steipete/eightctl
+binlist:
+- eightctl

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/stickerdaniel/linkedin-mcp-server
+license: apache-2.0
+desc:
+  cn: LinkedIn 开源 MCP 服务器，让 Claude 等兼容 MCP 的 AI 智能体访问档案、公司、职位与消息
+  en: Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
+x:
+  source: https://github.com/stickerdaniel/linkedin-mcp-server
+  eget: https://github.com/stickerdaniel/linkedin-mcp-server
+rule:
+  /eget:
+    cmd: x eget stickerdaniel/linkedin-mcp-server
+    reference: https://github.com/stickerdaniel/linkedin-mcp-server
+binlist:
+- linkedin-mcp-server

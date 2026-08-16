@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/unclecode/crawl4ai
+license: apache-2.0
+desc:
+  cn: 开源的 LLM 友好型 Web 爬虫与抓取器，把网页内容转成干净的、可直接喂给大模型的 Markdown，服务于 RAG、智能体与数据管道。
+  en: Crawl and scrape websites to convert web content into clean, LLM-ready Markdown for RAG, agents, and data pipelines.
+x:
+  source: https://github.com/unclecode/crawl4ai
+rule:
+  /pip:
+    cmd: pip install -U crawl4ai
+    reference: https://github.com/unclecode/crawl4ai#-quick-start
+    dsnap: crawl4ai
+binlist:
+- crwl

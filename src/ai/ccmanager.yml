@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/kbwo/ccmanager
+license: mit
+desc:
+  cn: 面向 Claude Code、Gemini CLI、Codex CLI、Cursor Agent、Copilot CLI、Cline CLI、OpenCode、Kimi CLI 的编码 Agent 会话管理器
+  en: Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
+x:
+  source: https://github.com/kbwo/ccmanager
+rule:
+  /npm:
+    cmd: npm install -g ccmanager
+    reference: https://www.npmjs.com/package/ccmanager
+    dsnap: 'ccmanager'
+binlist:
+- ccmanager

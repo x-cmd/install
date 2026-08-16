@@ -1,0 +1,50 @@
+lang: Go
+homepage: https://github.com/instrumenta/kubeval
+desc:
+  cn: Kubeval 是用于验证 Kubernetes YAML 或 JSON 配置文件的工具
+  en: kubeval is a tool for validating a Kubernetes YAML or JSON configuration file
+x:
+  source: https://github.com/instrumenta/kubeval
+  eget: https://github.com/instrumenta/kubeval
+rule:
+  /eget:
+    cmd: x eget instrumenta/kubeval
+    reference: https://x-cmd.com/mod/eget
+  linux/wget:
+    cmd: 'wget https://github.com/instrumenta/kubeval/releases/latest/download/kubeval-linux-amd64.tar.gz \
+
+      && tar xf kubeval-linux-amd64.tar.gz \
+
+      && sudo cp kubeval /usr/local/bin
+
+      '
+    reference: https://www.kubeval.com/installation/#linux
+  darwin/wget:
+    cmd: 'wget https://github.com/instrumenta/kubeval/releases/latest/download/kubeval-darwin-amd64.tar.gz \
+
+      && tar xf kubeval-darwin-amd64.tar.gz \
+
+      && sudo cp kubeval /usr/local/bin
+
+      '
+    reference: https://www.kubeval.com/installation/#macos
+  /berw:
+    cmd: 'brew tap instrumenta/instrumenta \
+
+      && brew install c
+
+      '
+    reference: https://www.kubeval.com/installation/#macos
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add instrumenta https://github.com/instrumenta/scoop-instrumenta \
+
+      && x scoop install kubeval
+
+      '
+    reference: https://www.kubeval.com/installation/#windows
+  /asdf:
+    cmd: x asdf use kubeval
+    reference: https://github.com/stefansedich/asdf-kubeval?tab=readme-ov-file#install
+binlist:
+- kubeval
+license: NOASSERTION

@@ -1,0 +1,22 @@
+lang: Python
+homepage: https://github.com/rpm-software-management/dnf
+license: GPL-2.0
+desc:
+  cn: Dandied YUM (DNF)是 YUM 的下一个主要版本
+  en: Dandified YUM (DNF) is the next upcoming major version of YUM
+x:
+  source: https://github.com/rpm-software-management/dnf
+  eget: https://github.com/rpm-software-management/dnf
+rule:
+  /eget:
+    cmd: x eget rpm-software-management/dnf
+    reference: https://x-cmd.com/mod/eget
+  centos/yum:
+    cmd: sudo yum install dnf
+    reference: https://command-not-found.com/dnf
+  fedora/dnf:
+    cmd: sudo dnf install dnf
+    reference: https://command-not-found.com/dnf
+    dsnap: dnf
+binlist:
+- dnf

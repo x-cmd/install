@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/Oloruntobi1/pproftui'
+license: 'MIT'
+desc:
+  cn: 面向 Go pprof 数据的终端诊断工具
+  en: 'A terminal-based diagnostic tool for Go pprof data'
+x:
+  source: https://github.com/Oloruntobi1/pproftui
+  eget: https://github.com/Oloruntobi1/pproftui
+rule:
+  /eget:
+    cmd: x eget Oloruntobi1/pproftui
+    reference: https://github.com/Oloruntobi1/pproftui
+binlist:
+  - 'pproftui'

@@ -1,0 +1,26 @@
+lang: Python
+homepage: https://github.com/tconbeer/sqlfmt
+desc:
+  cn: SQL 的格式化工具
+  en: SQL formatting tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/tconbeer/sqlfmt
+  eget: https://github.com/tconbeer/sqlfmt
+rule:
+  /eget:
+    cmd: x eget tconbeer/sqlfmt
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use sqlfmt
+    reference: https://x-cmd.com/install/
+  arch/yay:
+    cmd: yay -S python-shandy-sqlfmt
+    reference: https://aur.archlinux.org/packages/python-shandy-sqlfmt
+  /pipx:
+    cmd: pipx install shandy-sqlfmt
+    reference: https://github.com/tconbeer/sqlfmt?tab=readme-ov-file#install-using-pipx-recommended
+binlist:
+- sqlfmt
+license: NOASSERTION

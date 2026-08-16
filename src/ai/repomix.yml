@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/yamadashy/repomix
+license: mit
+desc:
+  cn: 将整个仓库打包成单个对 AI 友好的文件，便于交给 LLM 等 AI 工具处理
+  en: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools lik...
+x:
+  source: https://github.com/yamadashy/repomix
+rule:
+  /npm:
+    cmd: npm install -g repomix
+    reference: https://www.npmjs.com/package/repomix
+    dsnap: 'repomix'
+binlist:
+- repomix

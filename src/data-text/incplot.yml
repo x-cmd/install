@@ -1,0 +1,15 @@
+lang: 'CMake'
+homepage: 'https://github.com/InCom-0/incplot'
+license: 'MIT'
+desc:
+  cn: 注重易用性与简洁的终端与 HTML 绘图 CLI 工具
+  en: 'CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity'
+x:
+  source: https://github.com/InCom-0/incplot
+  eget: https://github.com/InCom-0/incplot
+rule:
+  /eget:
+    cmd: x eget InCom-0/incplot
+    reference: https://github.com/InCom-0/incplot
+binlist:
+  - 'incplot'

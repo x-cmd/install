@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: https://github.com/subsy/ralph-tui
+license: 'MIT'
+desc:
+  cn: 通过预设任务清单编排 AI Agent 协作的终端工具
+  en: 'ralph-tui is a terminal tool that works through a defined list of tasks and orchestrates AI agents to work though them.'
+x:
+  source: https://github.com/subsy/ralph-tui
+  eget: https://github.com/subsy/ralph-tui
+rule:
+  /eget:
+    cmd: x eget subsy/ralph-tui
+    reference: https://github.com/subsy/ralph-tui
+binlist:
+  - 'ralph-tui'

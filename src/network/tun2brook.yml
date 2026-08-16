@@ -1,0 +1,23 @@
+lang: Go
+homepage: https://github.com/txthinking/tun2brook
+license: GPL-3.0
+desc:
+  cn: Brook GUI 的 CLI 版本
+  en: The CLI version of Brook GUI
+x:
+  pkg:
+    exist: true
+  source: https://github.com/txthinking/tun2brook
+  eget: https://github.com/txthinking/tun2brook
+rule:
+  /x:
+    cmd: x pkg use tun2brook
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget txthinking/tun2brook
+    reference: https://x-cmd.com/mod/eget
+  /nami:
+    cmd: nami install tun2brook
+    reference: https://github.com/txthinking/tun2brook?tab=readme-ov-file#install-via-nami
+binlist:
+- tun2brook

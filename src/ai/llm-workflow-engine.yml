@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/llm-workflow-engine/llm-workflow-engine
+license: mit
+desc:
+  cn: LLM 的强力 CLI 与工作流管理器（核心包）
+  en: Power CLI and Workflow manager for LLMs (core package)
+x:
+  source: https://github.com/llm-workflow-engine/llm-workflow-engine
+rule:
+  /pip:
+    cmd: pip install llm-workflow-engine
+    reference: https://pypi.org/project/llm-workflow-engine/
+    dsnap: llm-workflow-engine
+binlist:
+- llm-workflow-engine

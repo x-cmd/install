@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/luis-ota/swaptop'
+license: 'MIT'
+desc:
+  cn: Rust 编写的 swap 使用监控工具
+  en: 'swap usage monitor written in rust'
+x:
+  source: https://github.com/luis-ota/swaptop
+  eget: https://github.com/luis-ota/swaptop
+rule:
+  /eget:
+    cmd: x eget luis-ota/swaptop
+    reference: https://github.com/luis-ota/swaptop
+binlist:
+  - 'swaptop'

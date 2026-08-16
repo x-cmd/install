@@ -1,0 +1,64 @@
+lang: scala/java
+homepage: https://github.com/coursier/coursier
+license: Apache-2.0
+desc:
+  cn: Coursier 是 Scala 应用和构件管理器
+  en: Coursier is the Scala application and artifact manager
+x:
+  pkg:
+    exist: true
+  source: https://github.com/coursier/coursier
+  eget: https://github.com/coursier/coursier
+rule:
+  /eget:
+    cmd: x eget coursier/coursier
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use coursier
+    reference: https://x-cmd.com/install/
+  /asdf:
+    cmd: x asdf use coursier
+    reference: https://github.com/jiahuili430/asdf-coursier
+  /curl:
+    cmd: 'curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier \
+
+      && chmod +x coursier \
+
+      && ./coursier
+
+      '
+    reference: https://get-coursier.io/docs/cli-installation#linux-macos
+  darwin/brew:
+    cmd: 'brew install coursier/formulas/coursier \
+
+      && cs setup
+
+      '
+    reference: https://get-coursier.io/docs/cli-installation#macos-brew-based-installation
+  darwin/curl:
+    cmd: curl -fL https://github.com/VirtusLab/coursier-m1/releases/latest/download/cs-aarch64-apple-darwin.gz | gzip -d > cs
+    reference: https://get-coursier.io/docs/cli-installation#macos
+  linux/brew:
+    cmd: curl -fL "https://github.com/coursier/launchers/raw/master/cs-x86_64-pc-linux.gz" | gzip -d > cs
+    reference: https://get-coursier.io/docs/cli-installation#linux
+  win/powershell:
+    cmd: 'x pwsh Invoke-WebRequest -Uri "https://github.com/coursier/launchers/raw/master/cs-x86_64-pc-win32.zip" -OutFile "cs-x86_64-pc-win32.zip" \
+
+      && x pwsh Expand-Archive -Path "cs-x86_64-pc-win32.zip" \
+
+      && x pwsh Rename-Item -Path "cs-x86_64-pc-win32.exe" -NewName "cs.exe" \
+
+      && x pwsh Remove-Item -Path "cs-x86_64-pc-win32.zip" \
+
+      && x pwsh .\cs --help
+
+      '
+    reference: https://get-coursier.io/docs/cli-installation#windows
+  arch/pacaur:
+    cmd: sudo pacaur -S coursier
+    reference: https://get-coursier.io/docs/cli-installation#arch-linux
+  arch/yay:
+    cmd: yay -S coursier
+    reference: https://aur.archlinux.org/packages/coursier
+binlist:
+- coursier

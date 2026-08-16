@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/sharkdp/numbat
+license: apache-2.0
+desc:
+  cn: 支持物理量纲与单位的静态类型科学计算编程语言
+  en: A statically typed programming language for scientific computations with first class support for physical dimensions and units
+x:
+  source: https://github.com/sharkdp/numbat
+  eget: https://github.com/sharkdp/numbat
+rule:
+  /eget:
+    cmd: x eget sharkdp/numbat
+    reference: https://github.com/sharkdp/numbat
+binlist:
+- numbat

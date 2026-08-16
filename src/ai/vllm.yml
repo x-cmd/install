@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/vllm-project/vllm
+license: apache-2.0
+desc:
+  cn: 面向 LLM 的高吞吐、低内存占用的推理与服务引擎
+  en: A high-throughput and memory-efficient inference and serving engine for LLMs
+x:
+  source: https://github.com/vllm-project/vllm
+  eget: https://github.com/vllm-project/vllm
+rule:
+  /eget:
+    cmd: x eget vllm-project/vllm
+    reference: https://github.com/vllm-project/vllm
+binlist:
+- vllm

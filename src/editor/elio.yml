@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/elio-fm/elio
+license: 'MIT'
+desc:
+  cn: 功能齐全的终端文件管理器，支持丰富预览、内联图片与批量操作
+  en: 'Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support'
+x:
+  source: https://github.com/elio-fm/elio
+  eget: https://github.com/elio-fm/elio
+rule:
+  /eget:
+    cmd: x eget elio-fm/elio
+    reference: https://github.com/elio-fm/elio
+binlist:
+  - 'elio'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/snipt/snipt'
+license: 'MIT'
+desc:
+  cn: 强大的文本片段扩展工具
+  en: 'Snipt is a powerful text snippet expansion tool!'
+x:
+  source: https://github.com/snipt/snipt
+  eget: https://github.com/snipt/snipt
+rule:
+  /eget:
+    cmd: x eget snipt/snipt
+    reference: https://github.com/snipt/snipt
+binlist:
+  - 'snipt'

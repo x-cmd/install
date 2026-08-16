@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/MayDay-wpf/snow-cli
+license: other
+desc:
+  cn: 运行在终端的 AI 编程智能体，同时兼容 OpenAI、Gemini 和 Claude
+  en: Agentic coding in your terminal — simultaneously compatible with DeepSeek, OpenAI, Gemini, and Claude.
+x:
+  source: https://github.com/MayDay-wpf/snow-cli
+  eget: https://github.com/MayDay-wpf/snow-cli
+rule:
+  /eget:
+    cmd: x eget MayDay-wpf/snow-cli
+    reference: https://github.com/MayDay-wpf/snow-cli
+binlist:
+- snow-cli

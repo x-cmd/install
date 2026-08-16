@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/kuku-mom/kuku
+license: mit
+desc:
+  cn: 在 macOS 上管理本地 Markdown 笔记库，支持个人 wiki、AI 编辑、图谱导航与可选加密同步
+  en: Manage a local vault of Markdown notes with a personal wiki, AI-powered editing, graph navigation, and optional encrypted sync on macOS.
+x:
+  source: https://github.com/kuku-mom/kuku
+  eget: https://github.com/kuku-mom/kuku
+rule:
+  /eget:
+    cmd: x eget kuku-mom/kuku
+    reference: https://github.com/kuku-mom/kuku
+binlist:
+- kuku

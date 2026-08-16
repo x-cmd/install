@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/GoodBoyNeon/sprofile
+desc:
+  cn: 极速 TUI 应用，查看你的 Spotify 收听活动
+  en: ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
+x:
+  source: https://github.com/GoodBoyNeon/sprofile
+  eget: https://github.com/GoodBoyNeon/sprofile
+rule:
+  /eget:
+    cmd: x eget GoodBoyNeon/sprofile
+    reference: https://github.com/GoodBoyNeon/sprofile
+binlist:
+- sprofile
+license: NOASSERTION

@@ -1,0 +1,18 @@
+lang: TypeScript
+desc:
+  cn: 用于在整个软件开发生命周期（从本地环境一直到云端）管理 MongoDB Atlas。
+  en: Used to manage MongoDB Atlas throughout the entire software development lifecycle (from local environments to the cloud).
+homepage: https://github.com/mongodb/mongodb-atlas-cli
+license: Apache-2.0
+x:
+  source: https://github.com/mongodb/mongodb-atlas-cli
+  eget: https://github.com/mongodb/mongodb-atlas-cli
+rule:
+  /eget:
+    cmd: x eget mongodb/mongodb-atlas-cli
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -L -o mongodb-atlas-cli_1.53.0_macos_arm64.zip https://fastdl.mongodb.org/mongocli/mongodb-atlas-cli_1.53.0_macos_arm64.zip
+    reference: https://www.mongodb.com/try/download/atlascli
+binlist:
+- mongodb-atlas

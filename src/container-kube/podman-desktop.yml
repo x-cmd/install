@@ -1,0 +1,27 @@
+lang: TyperScript
+homepage: https://github.com/containers/podman-desktop
+license: Apache-2.0
+desc:
+  cn: Podman Desktop 是开发人员使用容器和 Kubernetes 的最佳免费开源工具
+  en: Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers
+x:
+  source: https://github.com/containers/podman-desktop
+rule:
+  /flatpak:
+    cmd: flatpak install flathub io.podman_desktop.PodmanDesktop
+    reference: https://flathub.org/apps/io.podman_desktop.PodmanDesktop
+  darwin/brew:
+    cmd: brew install --cask podman-desktop
+    reference: https://formulae.brew.sh/cask/podman-desktop#default
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id RedHat.Podman-Desktop
+    reference: https://podman-desktop.io/downloads
+  win/powershell:
+    cmd: 'x curl -L https://github.com/containers/podman-desktop/releases/download/v1.13.3/podman-desktop-1.13.3-setup-x64.exe -o ''podman-desktop-1.13.3-setup-x64.exe'' && \
+
+      x pwsh Start-Process ''podman-desktop-1.13.3-setup-x64.exe'' -Wait install
+
+      '
+    reference: https://podman-desktop.io/downloads
+binlist:
+- podman-desktop

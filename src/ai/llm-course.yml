@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/mlabonne/llm-course
+license: apache-2.0
+desc:
+  cn: 通过路线图与 Colab notebook 系统入门大语言模型（LLM）的课程
+  en: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+x:
+  source: https://github.com/mlabonne/llm-course
+  eget: https://github.com/mlabonne/llm-course
+rule:
+  /eget:
+    cmd: x eget mlabonne/llm-course
+    reference: https://github.com/mlabonne/llm-course
+binlist:
+- llm-course

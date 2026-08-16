@@ -1,0 +1,15 @@
+lang: 'Zig'
+homepage: 'https://github.com/utox39/zigfetch'
+license: 'MIT'
+desc:
+  cn: 极简的 neofetch/fastfetch 风格系统信息工具
+  en: 'Zigfetch is a minimal neofetch/fastfetch like system information tool'
+x:
+  source: https://github.com/utox39/zigfetch
+  eget: https://github.com/utox39/zigfetch
+rule:
+  /eget:
+    cmd: x eget utox39/zigfetch
+    reference: https://github.com/utox39/zigfetch
+binlist:
+  - 'zigfetch'

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/janosmiko/lfk'
+license: 'Apache-2.0'
+desc:
+  cn: 受 yazi 启发的极速键盘操作 Kubernetes TUI，三栏 Miller 布局
+  en: '⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller c...'
+x:
+  source: https://github.com/janosmiko/lfk
+  eget: https://github.com/janosmiko/lfk
+rule:
+  /eget:
+    cmd: x eget janosmiko/lfk
+    reference: https://github.com/janosmiko/lfk
+binlist:
+  - 'lfk'

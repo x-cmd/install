@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/bgdnvk/clanker
+license: mit
+desc:
+  cn: 通过终端自然语言命令查询、创建与管理 AWS、Kubernetes 等云基础设施
+  en: Query, create, and manage cloud infrastructure on AWS, Kubernetes, and more using natural language commands from your terminal.
+x:
+  source: https://github.com/bgdnvk/clanker
+  eget: https://github.com/bgdnvk/clanker
+rule:
+  /eget:
+    cmd: x eget bgdnvk/clanker
+    reference: https://github.com/bgdnvk/clanker
+binlist:
+- clanker

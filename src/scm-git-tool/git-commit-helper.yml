@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/newdee/git-commit-helper
+license: MIT
+desc:
+  cn: 使用人工智能自动生成并提交 Git 消息
+  en: Auto generate && commit git messages with AI
+x:
+  source: https://github.com/newdee/git-commit-helper
+  eget: https://github.com/newdee/git-commit-helper
+rule:
+  /eget:
+    cmd: x eget newdee/git-commit-helper
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install git-commit-helper
+    reference: https://github.com/newdee/git-commit-helper?tab=readme-ov-file#install
+    dsnap: git-commit-helper
+  arch/yay:
+    cmd: yay -S git-commit-helper
+    reference: https://aur.archlinux.org/packages/git-commit-helper
+binlist:
+- git-commit-helper

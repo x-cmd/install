@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/qdrant/qdrant
+license: 'Apache-2.0'
+desc:
+  cn: 面向下一代 AI 的高性能大规模向量数据库和向量检索引擎
+  en: 'Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/'
+x:
+  source: https://github.com/qdrant/qdrant
+  eget: https://github.com/qdrant/qdrant
+rule:
+  /eget:
+    cmd: x eget qdrant/qdrant
+    reference: https://github.com/qdrant/qdrant
+binlist:
+  - 'qdrant'

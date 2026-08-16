@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/topgrade-rs/topgrade'
+license: 'GPL-3.0'
+desc:
+  cn: 一键升级所有软件
+  en: 'Upgrade all the things'
+x:
+  source: https://github.com/topgrade-rs/topgrade
+  eget: https://github.com/topgrade-rs/topgrade
+rule:
+  /cargo:
+    cmd: 'cargo install topgrade'
+    reference: https://github.com/topgrade-rs/topgrade
+  darwin/brew:
+    cmd: 'brew install topgrade'
+    reference: https://github.com/topgrade-rs/topgrade
+  /eget:
+    cmd: x eget topgrade-rs/topgrade
+    reference: https://github.com/topgrade-rs/topgrade
+binlist:
+  - 'topgrade'

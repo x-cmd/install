@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/whyisdifficult/jiratui
+license: 'MIT'
+desc:
+  cn: 从 shell 与 Atlassian Jira 交互的 TUI
+  en: 'A Textual User Interface for interacting with Atlassian Jira from your shell'
+x:
+  source: https://github.com/whyisdifficult/jiratui
+  eget: https://github.com/whyisdifficult/jiratui
+rule:
+  /eget:
+    cmd: x eget whyisdifficult/jiratui
+    reference: https://github.com/whyisdifficult/jiratui
+binlist:
+  - 'jiratui'

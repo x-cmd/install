@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/bananaofhappiness/soundscope'
+license: 'MIT'
+desc:
+  cn: 用于分析音频频率和响度（LUFS）的 TUI 应用
+  en: 'A TUI app for analyzing audio data such as frequencies and loudness (LUFS)'
+x:
+  source: https://github.com/bananaofhappiness/soundscope
+  eget: https://github.com/bananaofhappiness/soundscope
+rule:
+  /eget:
+    cmd: x eget bananaofhappiness/soundscope
+    reference: https://github.com/bananaofhappiness/soundscope
+binlist:
+  - 'soundscope'

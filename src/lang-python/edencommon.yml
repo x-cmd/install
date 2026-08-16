@@ -1,0 +1,17 @@
+lang: Python
+homepage: https://github.com/facebookexperimental/edencommon
+license: MIT
+desc:
+  en: Edencommon is a shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  cn: Edencommon 是 Meta 源代码控制系统工具（EdenFS 和 Watchman）的共享库
+x:
+  source: https://github.com/facebookexperimental/edencommon
+rule:
+  darwin/brew:
+    cmd: brew install edencommon
+    reference: https://formulae.brew.sh/formula/edencommon#default
+  arch/yay:
+    cmd: yay -S edencommon-git
+    reference: https://aur.archlinux.org/packages/edencommon-git
+binlist:
+- edencommon

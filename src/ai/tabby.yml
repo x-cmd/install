@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/TabbyML/tabby
+license: 'NOASSERTION'
+desc:
+  cn: 自托管的 AI 编程助手
+  en: 'Self-hosted AI coding assistant'
+x:
+  source: https://github.com/TabbyML/tabby
+  eget: https://github.com/TabbyML/tabby
+rule:
+  /eget:
+    cmd: x eget TabbyML/tabby
+    reference: https://github.com/TabbyML/tabby
+binlist:
+  - 'tabby'

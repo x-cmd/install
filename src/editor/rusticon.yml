@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/ronilan/rusticon
+desc:
+  cn: Rust 编写的终端中鼠标驱动的 SVG favicon 编辑器
+  en: A mouse driven SVG favicon editor for your terminal (written in Rust)
+x:
+  source: https://github.com/ronilan/rusticon
+  eget: https://github.com/ronilan/rusticon
+rule:
+  /eget:
+    cmd: x eget ronilan/rusticon
+    reference: https://github.com/ronilan/rusticon
+binlist:
+- rusticon
+license: NOASSERTION

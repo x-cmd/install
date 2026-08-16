@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/biomejs/biome
+license: Apache-2.0
+desc:
+  cn: Biome 是一个用于 Web 项目的高性能工具链，旨在为开发者提供维护项目的工具
+  en: Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects
+x:
+  source: https://github.com/biomejs/biome
+  eget: https://github.com/biomejs/biome
+rule:
+  /eget:
+    cmd: x eget biomejs/biome
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install biome
+    reference: https://biomejs.dev/guides/manual-installation/#homebrew
+  /npm:
+    cmd: npm install -g @biomejs/biome
+    reference: https://github.com/biomejs/biome/?tab=readme-ov-file#installation
+    dsnap: '@biomejs/biome'
+  (win|wsl2)/scoop:
+    cmd: x scoop install biome
+    reference: https://scoop.sh/#/apps?q=biome
+binlist:
+- biome

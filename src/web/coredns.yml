@@ -1,0 +1,24 @@
+lang: Go
+homepage: https://github.com/coredns/coredns
+license: Apache-2.0
+desc:
+  cn: CoreDNS 是一个 DNS 服务器/转发器，用 Go 编写，链接插件。每个插件执行 (DNS) 功能。
+  en: CoreDNS is a DNS server/forwarder, written in Go, that chains plugins. Each plugin performs a (DNS) function.
+x:
+  source: https://github.com/coredns/coredns
+  eget: https://github.com/coredns/coredns
+rule:
+  /eget:
+    cmd: x eget coredns/coredns
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install coredns
+    reference: https://formulae.brew.sh/formula/coredns#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install coredns
+    reference: https://scoop.sh/#/apps?q=coredns
+  arch/yay:
+    cmd: yay -S coredns
+    reference: https://aur.archlinux.org/packages/coredns
+binlist:
+- coredns

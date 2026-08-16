@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/web-infra-dev/rspack
+license: MIT
+desc:
+  cn: 基于 Rust 的高性能 Web 构建工具
+  en: A fast Rust-based web bundler
+x:
+  source: https://github.com/web-infra-dev/rspack
+rule:
+  /npm:
+    cmd: npm install -g @rspack/cli
+    reference: https://www.rspack.dev/guide/quick-start.html
+    dsnap: '@rspack/cli'
+binlist:
+- rspack

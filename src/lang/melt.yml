@@ -1,0 +1,77 @@
+lang: Go
+homepage: https://github.com/charmbracelet/melt
+license: MIT
+desc:
+  cn: melt 是一个用于开发 GCC 扩展的领域特定语言，它是一个 Lisp 方言，可以编译成 C 代码。melt 可以让你用 Lisp 语法来编写中间端的优化和分析过程，例如静态单赋值形式、控制流图、数据流分析等。
+  en: Backup and restore SSH private keys using memorizable seed phrases
+x:
+  source: https://github.com/charmbracelet/melt
+  eget: https://github.com/charmbracelet/melt
+rule:
+  /eget:
+    cmd: x eget charmbracelet/melt
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use melt
+    reference: https://github.com/chessmango/asdf-melt
+  darwin/brew:
+    cmd: brew install charmbracelet/tap/melt
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  arch/yay:
+    cmd: yay -S melt-bin
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add https://github.com/charmbracelet/scoop-bucket.git \
+
+      && x scoop install melt
+
+      '
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  /nixpkgs:
+    cmd: nix-env -iA nixpkgs.melt
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  debian/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update \
+
+      && sudo apt install melt
+
+      '
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  ubuntu/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update \
+
+      && sudo apt install melt
+
+      '
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#package-manager
+  /go:
+    cmd: go install github.com/charmbracelet/melt/cmd/melt@latest
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#go
+    dsnap: github.com/charmbracelet/melt/cmd/melt@latest
+  /build:
+    cmd: 'git clone https://github.com/charmbracelet/melt.git \
+
+      && cd melt \
+
+      && go build ./cmd/melt/
+
+      '
+    reference: https://github.com/charmbracelet/melt/?tab=readme-ov-file#build-requires-go-117
+binlist:
+- melt

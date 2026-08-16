@@ -1,0 +1,17 @@
+lang: TypeScript
+homepage: https://github.com/bytedance/UI-TARS-desktop
+license: apache-2.0
+desc:
+  cn: 字节跳动开源的桌面端 GUI Agent，用自然语言驱动视觉语言模型自动操作本地与远程的桌面及浏览器界面
+  en: ByteDance's open-source desktop GUI Agent that drives a vision-language model with natural language to automate local and remote desktop and browser interfaces
+x:
+  source: https://github.com/bytedance/UI-TARS-desktop
+rule:
+  darwin/brew:
+    cmd: brew install --cask ui-tars
+    reference: https://formulae.brew.sh/cask/ui-tars#default
+  /curl:
+    cmd: curl -L https://github.com/bytedance/UI-TARS-desktop/releases/latest -o ui-tars-desktop-release.html
+    reference: https://github.com/bytedance/UI-TARS-desktop/releases/latest
+binlist:
+- ui-tars-desktop

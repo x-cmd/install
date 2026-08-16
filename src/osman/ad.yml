@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/sminez/ad
+license: 'MIT'
+desc:
+  cn: 一款可适配的文本编辑器
+  en: 'an adaptable text editor'
+x:
+  source: https://github.com/sminez/ad
+  eget: https://github.com/sminez/ad
+rule:
+  /eget:
+    cmd: x eget sminez/ad
+    reference: https://github.com/sminez/ad
+binlist:
+  - 'ad'

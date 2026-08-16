@@ -1,0 +1,18 @@
+lang: TyperScript
+homepage: https://github.com/immich-app/immich
+license: AGPL-3.0
+desc:
+  cn: 高性能的照片和视频自托管解决方案
+  en: High performance self-hosted photo and video management solution
+x:
+  source: https://github.com/immich-app/immich
+  eget: https://github.com/immich-app/immich
+rule:
+  /eget:
+    cmd: x eget immich-app/immich
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -o- https://raw.githubusercontent.com/immich-app/immich/main/install.sh | bash
+    reference: https://immich.app/docs/install/script
+binlist:
+- immich

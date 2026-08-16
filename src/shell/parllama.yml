@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/paulrobello/parllama'
+license: 'MIT'
+desc:
+  cn: Ollama 及其他 LLM 供应商的 TUI 客户端
+  en: 'TUI for Ollama and other LLM providers'
+x:
+  source: https://github.com/paulrobello/parllama
+  eget: https://github.com/paulrobello/parllama
+rule:
+  /eget:
+    cmd: x eget paulrobello/parllama
+    reference: https://github.com/paulrobello/parllama
+binlist:
+  - 'parllama'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Epistates/treemd
+license: 'MIT'
+desc:
+  cn: 基于树状结构导航的 Markdown 浏览器（TUI/CLI）
+  en: 'A (TUI/CLI) markdown navigator with tree-based structural navigation.'
+x:
+  source: https://github.com/Epistates/treemd
+  eget: https://github.com/Epistates/treemd
+rule:
+  /eget:
+    cmd: x eget Epistates/treemd
+    reference: https://github.com/Epistates/treemd
+binlist:
+  - 'treemd'

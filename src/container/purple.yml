@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/erickochen/purple
+license: 'MIT'
+desc:
+  cn: Rust 编写的终端 SSH 管理器与配置编辑器，支持 16 家云服务商同步
+  en: 'Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 16 cloud providers, monitors live SSH tunnels and manages Docker and P...'
+x:
+  source: https://github.com/erickochen/purple
+  eget: https://github.com/erickochen/purple
+rule:
+  /eget:
+    cmd: x eget erickochen/purple
+    reference: https://github.com/erickochen/purple
+binlist:
+  - 'purple'

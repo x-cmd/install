@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/Cod-e-Codes/marchat'
+license: 'MIT'
+desc:
+  cn: 面向开发者的终端聊天：Go WebSocket 服务端 + Bubble Tea TUI 客户端，支持端到端加密与多后端
+  en: 'Terminal chat for developers: Go WebSocket server + Bubble Tea TUI client, optional E2E, reactions, DMs, channels, plugins, files, code snippets, admin UI. Backends: SQLite, PostgreSQL, or MySQL. S...'
+x:
+  source: https://github.com/Cod-e-Codes/marchat
+  eget: https://github.com/Cod-e-Codes/marchat
+rule:
+  debian/apt:
+    cmd: 'sudo apt install xclip'
+    reference: https://github.com/Cod-e-Codes/marchat
+  /eget:
+    cmd: x eget Cod-e-Codes/marchat
+    reference: https://github.com/Cod-e-Codes/marchat
+binlist:
+  - 'marchat'

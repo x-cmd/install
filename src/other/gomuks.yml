@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/tulir/gomuks
+license: AGPL-3.0
+desc:
+  cn: 用 Go 编写的 Matrix 客户端
+  en: A Matrix client written in Go.
+x:
+  source: https://github.com/tulir/gomuks
+  eget: https://github.com/tulir/gomuks
+rule:
+  /eget:
+    cmd: x eget tulir/gomuks
+    reference: https://x-cmd.com/mod/eget
+  opensuse/zypper:
+    cmd: sudo zypper install gomuks
+    reference: https://software.opensuse.org//download.html?project=openSUSE%3AFactory&package=gomuks
+  darwin/port:
+    cmd: sudo port install gomuks
+    reference: https://ports.macports.org/port/gomuks/
+binlist:
+- gomuks

@@ -1,0 +1,24 @@
+lang: Rust
+homepage: https://github.com/rustworkshop/gitopolis
+license: AGPL-3.0
+desc:
+  cn: 轻松管理多个 GIT 存储库
+  en: Manage multiple git repositories with ease
+x:
+  source: https://github.com/rustworkshop/gitopolis
+  eget: https://github.com/rustworkshop/gitopolis
+rule:
+  /eget:
+    cmd: x eget rustworkshop/gitopolis
+    reference: https://x-cmd.com/mod/eget
+  linux/curl:
+    cmd: curl https://github.com/rustworkshop/gitopolis/releases/download/v1.3.1/gitopolis-linux-x86_64.tar.gz
+    reference: https://github.com/rustworkshop/gitopolis/releases/tag/v1.3.1
+  win/curl:
+    cmd: curl https://github.com/rustworkshop/gitopolis/releases/download/v1.3.1/gitopolis-windows-x86_64.zip
+    reference: https://github.com/rustworkshop/gitopolis/releases/tag/v1.3.1
+  arch/yay:
+    cmd: yay -S gitopolis
+    reference: https://aur.archlinux.org/packages/gitopolis
+binlist:
+- gitopolis

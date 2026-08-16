@@ -1,0 +1,45 @@
+lang: Tcl
+homepage: https://github.com/macports/macports-base
+license: BSD-3-Clause
+desc:
+  cn: MacPorts 是一个易于使用的系统，用于编译、安装和管理开源软件
+  en: MacPorts is an easy to use system for compiling, installing, and managing open source software
+x:
+  source: https://github.com/macports/macports-base
+  eget: https://github.com/macports/macports-base
+rule:
+  /eget:
+    cmd: x eget macports/macports-base
+    reference: https://x-cmd.com/mod/eget
+  darwin/curl:
+    cmd: 'curl -O https://distfiles.macports.org/MacPorts/MacPorts-2.8.1.tar.bz2 \
+
+      && tar xf MacPorts-2.8.1.tar.bz2 \
+
+      && cd MacPorts-2.8.1/ \
+
+      && ./configure \
+
+      && make \
+
+      && sudo make install
+
+      '
+    reference: https://guide.macports.org/#installing.macports.source
+  darwin/git:
+    cmd: 'mkdir -p /opt/mports \
+
+      && cd /opt/mports \
+
+      && git clone https://github.com/macports/macports-base.git \
+
+      && cd macports-base \
+
+      && git checkout v2.8.1 \
+
+      && sudo make install
+
+      '
+    reference: https://guide.macports.org/#installing.macports.git
+binlist:
+- macports

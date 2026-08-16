@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/Leonxlnx/taste-skill
+license: mit
+desc:
+  cn: 为你的 AI 赋予良好品味，避免生成平庸、套路化的内容
+  en: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+x:
+  source: https://github.com/Leonxlnx/taste-skill
+  eget: https://github.com/Leonxlnx/taste-skill
+rule:
+  /eget:
+    cmd: x eget Leonxlnx/taste-skill
+    reference: https://github.com/Leonxlnx/taste-skill
+binlist:
+- taste-skill

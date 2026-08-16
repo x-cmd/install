@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/muandane/goji'
+license: 'Apache-2.0'
+desc:
+  cn: Go 编写的类 Commitizen Emoji 提交工具与 AI 提交信息生成器
+  en: 'Commitizen-like Emoji Commit Tool written in Go and AI commit message generator (think cz-emoji and other commitizen adapters but in go) 🚀'
+x:
+  source: https://github.com/muandane/goji
+  eget: https://github.com/muandane/goji
+rule:
+  /eget:
+    cmd: x eget muandane/goji
+    reference: https://github.com/muandane/goji
+binlist:
+  - 'goji'

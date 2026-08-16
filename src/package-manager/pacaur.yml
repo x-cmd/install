@@ -1,0 +1,25 @@
+lang: Shell
+homepage: https://github.com/rmarquis/pacaur
+license: ISC
+desc:
+  en: An AUR helper that minimizes user interaction
+  cn: 一个最小化用户交互的 AUR 帮助程序
+x:
+  source: https://github.com/rmarquis/pacaur
+rule:
+  arch/pacman:
+    cmd: 'sudo pacman -S git base-devel \
+
+      && git clone https://aur.archlinux.org/pacaur.git \
+
+      && cd pacaur \
+
+      && makepkg -si
+
+      '
+    reference: https://zhuanlan.zhihu.com/p/114904008
+  arch/yay:
+    cmd: yay -S pacaur
+    reference: https://aur.archlinux.org/packages/pacaur
+binlist:
+- pacaur

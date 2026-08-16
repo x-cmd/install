@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/antoniorodr/lexy
+license: 'Apache-2.0'
+desc:
+  cn: 轻量 CLI 工具，将 Learn X in Y Minutes 编程教程直接拉到终端
+  en: 'Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your wo...'
+x:
+  source: https://github.com/antoniorodr/lexy
+  eget: https://github.com/antoniorodr/lexy
+rule:
+  /eget:
+    cmd: x eget antoniorodr/lexy
+    reference: https://github.com/antoniorodr/lexy
+binlist:
+  - 'lexy'

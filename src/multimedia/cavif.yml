@@ -1,0 +1,18 @@
+lang: Rust
+homepage: https://github.com/kornelski/cavif-rs
+license: BSD-3-Clause
+desc:
+  cn: AVIF 图像的编码器/转换器
+  en: Encoder/converter for AVIF images
+x:
+  source: https://github.com/kornelski/cavif-rs
+rule:
+  /cargo:
+    cmd: cargo install cavif
+    reference: https://lib.rs/crates/cavif
+    dsnap: cavif
+  arch/yay:
+    cmd: yay -S cavif
+    reference: https://aur.archlinux.org/packages/cavif
+binlist:
+- cavif

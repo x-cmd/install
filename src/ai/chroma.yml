@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/chroma-core/chroma
+license: 'Apache-2.0'
+desc:
+  cn: 面向 AI 的搜索基础设施
+  en: 'Search infrastructure for AI'
+x:
+  source: https://github.com/chroma-core/chroma
+  eget: https://github.com/chroma-core/chroma
+rule:
+  /eget:
+    cmd: x eget chroma-core/chroma
+    reference: https://github.com/chroma-core/chroma
+binlist:
+  - 'chroma'

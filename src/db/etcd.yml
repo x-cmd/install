@@ -1,0 +1,29 @@
+lang: Go
+homepage: https://github.com/etcd-io/etcd
+license: Apache-2.0
+desc:
+  cn: etcd 是一个具有强一致性的分布式键值存储，提供了一种可靠的方式来存储需要被分布式系统或机器集群访问的数据
+  en: etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines
+x:
+  pkg:
+    exist: true
+  source: https://github.com/etcd-io/etcd
+  eget: https://github.com/etcd-io/etcd
+rule:
+  /eget:
+    cmd: x eget etcd-io/etcd
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use etcd
+    reference: https://x-cmd.com/install/
+  /asdf:
+    cmd: x asdf use etcd
+    reference: https://github.com/particledecay/asdf-etcd
+  darwin/brew:
+    cmd: brew install etcd
+    reference: https://formulae.brew.sh/formula/etcd#default
+  arch/yay:
+    cmd: yay -S etcd
+    reference: https://aur.archlinux.org/packages/etcd
+binlist:
+- etcd

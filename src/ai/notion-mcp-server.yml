@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/makenotion/notion-mcp-server
+license: mit
+desc:
+  cn: Notion 官方 MCP 服务器
+  en: Official Notion MCP Server
+x:
+  source: https://github.com/makenotion/notion-mcp-server
+rule:
+  /npm:
+    cmd: npm install -g @notionhq/notion-mcp-server
+    reference: https://www.npmjs.com/package/@notionhq/notion-mcp-server
+    dsnap: '@notionhq/notion-mcp-server'
+binlist:
+- notion-mcp-server

@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/vladkens/macmon
+license: MIT
+desc:
+  en: Sudoless performance monitoring CLI tool for Apple Silicon processors
+  cn: 适用于苹果硅处理器的无声音性能监测命令行工具
+x:
+  source: https://github.com/vladkens/macmon
+  eget: https://github.com/vladkens/macmon
+rule:
+  /eget:
+    cmd: x eget vladkens/macmon
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install macmon
+    reference: https://github.com/vladkens/macmon?tab=readme-ov-file#-install-via-homebrew
+  darwin/port:
+    cmd: sudo port install macmon
+    reference: https://github.com/vladkens/macmon?tab=readme-ov-file#%EF%B8%8F-install-via-macports
+binlist:
+- macmon

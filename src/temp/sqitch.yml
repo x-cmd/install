@@ -1,0 +1,28 @@
+lang: Perl
+homepage: https://github.com/sqitchers/sqitch
+license: MIT
+desc:
+  cn: Sqitch 是一个数据库变更管理应用程序
+  en: Sqitch is a database change management application
+x:
+  source: https://github.com/sqitchers/sqitch
+  eget: https://github.com/sqitchers/sqitch
+rule:
+  /eget:
+    cmd: x eget sqitchers/sqitch
+    reference: https://x-cmd.com/mod/eget
+  /perl:
+    cmd: 'perl Build.PL && \
+
+      ./Build installdeps && \
+
+      ./Build && \
+
+      ./Build test && \
+
+      ./Build install
+
+      '
+    reference: https://github.com/sqitchers/sqitch?tab=readme-ov-file#installation
+binlist:
+- sqitch

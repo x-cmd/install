@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/lharries/whatsapp-mcp
+license: mit
+desc:
+  cn: WhatsApp 的 MCP 服务器
+  en: WhatsApp MCP server
+x:
+  source: https://github.com/lharries/whatsapp-mcp
+  eget: https://github.com/lharries/whatsapp-mcp
+rule:
+  /eget:
+    cmd: x eget lharries/whatsapp-mcp
+    reference: https://github.com/lharries/whatsapp-mcp
+binlist:
+- whatsapp-mcp

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/boolean-maybe/tiki'
+license: 'Apache-2.0'
+desc:
+  cn: 基于 Markdown 的终端无固定形态工作流构建器
+  en: 'Terminal Markdown-based shapeless workflow builder'
+x:
+  source: https://github.com/boolean-maybe/tiki
+  eget: https://github.com/boolean-maybe/tiki
+rule:
+  /eget:
+    cmd: x eget boolean-maybe/tiki
+    reference: https://github.com/boolean-maybe/tiki
+binlist:
+  - 'tiki'

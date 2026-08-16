@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/Manavarya09/design-extract
+license: mit
+desc:
+  cn: 从在线网站提取完整设计语言，生成多平台代码与设计令牌，并审计系统一致性
+  en: Extracts comprehensive design language from live websites, generating multi-platform code, design tokens, and auditing system consistency.
+x:
+  source: https://github.com/Manavarya09/design-extract
+  eget: https://github.com/Manavarya09/design-extract
+rule:
+  /eget:
+    cmd: x eget Manavarya09/design-extract
+    reference: https://github.com/Manavarya09/design-extract
+binlist:
+- design-extract

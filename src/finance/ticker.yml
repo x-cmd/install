@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/achannarasappa/ticker'
+license: 'GPL-3.0'
+desc:
+  cn: 在终端实时追踪股票、加密货币和衍生品价格与持仓
+  en: 'Track stocks, crypto, and derivatives prices and positions in real time from your terminal'
+x:
+  source: https://github.com/achannarasappa/ticker
+  eget: https://github.com/achannarasappa/ticker
+rule:
+  /eget:
+    cmd: x eget achannarasappa/ticker
+    reference: https://github.com/achannarasappa/ticker
+binlist:
+  - 'ticker'

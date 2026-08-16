@@ -1,0 +1,14 @@
+lang: JavaScript
+homepage: https://github.com/outsourc-e/hermes-workspace
+license: mit
+desc:
+  cn: 用统一工作区管理 AI 智能体的聊天、文件、记忆、技能与终端
+  en: Manage AI agents with a unified workspace for chat, files, memory, skills, and a terminal.
+x:
+  source: https://github.com/outsourc-e/hermes-workspace
+rule:
+  /git:
+    cmd: x git clone outsourc-e/hermes-workspace
+    reference: https://github.com/outsourc-e/hermes-workspace
+binlist:
+- hermes-workspace

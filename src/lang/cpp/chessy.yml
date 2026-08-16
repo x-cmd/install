@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/jart/chessy'
+license: noassertion
+desc:
+  cn: 趣味性玩具国际象棋引擎,仅供娱乐
+  en: 'A happy toy chess engine, just for fun :) If you want a proper chess engine, check out Stockfish.'
+x:
+  source: https://github.com/jart/chessy
+  eget: https://github.com/jart/chessy
+rule:
+  /eget:
+    cmd: x eget jart/chessy
+    reference: https://github.com/jart/chessy
+binlist:
+  - 'chessy'

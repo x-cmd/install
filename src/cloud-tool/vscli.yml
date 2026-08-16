@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/michidk/vscli
+license: 'MIT'
+desc:
+  cn: 简化 VSCode 项目启动的 CLI/TUI，专注开发容器
+  en: 'A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers'
+x:
+  source: https://github.com/michidk/vscli
+  eget: https://github.com/michidk/vscli
+rule:
+  /eget:
+    cmd: x eget michidk/vscli
+    reference: https://github.com/michidk/vscli
+binlist:
+  - 'vscli'

@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/theopfr/somo
+license: MIT
+desc:
+  cn: 一种用于 Linux 和 macOS 上套接字和端口监控的人性化 netstat 替代方案
+  en: A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
+x:
+  source: https://github.com/theopfr/somo
+  eget: https://github.com/theopfr/somo
+rule:
+  /eget:
+    cmd: x eget theopfr/somo
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install somo
+    reference: https://github.com/theopfr/somo?tab=readme-ov-file#%EF%B8%8F-installation
+    dsnap: somo
+  arch/yay:
+    cmd: yay -S somo
+    reference: https://aur.archlinux.org/packages/somo
+binlist:
+- somo

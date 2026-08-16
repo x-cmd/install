@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/CoderLuii/HolyClaude
+license: mit
+desc:
+  cn: AI 编程工作站：Claude Code + Web UI + 7 个 AI CLI + 无头浏览器 + 50+ 工具
+  en: 'AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools'
+x:
+  source: https://github.com/CoderLuii/HolyClaude
+  eget: https://github.com/CoderLuii/HolyClaude
+rule:
+  /eget:
+    cmd: x eget CoderLuii/HolyClaude
+    reference: https://github.com/CoderLuii/HolyClaude
+binlist:
+- HolyClaude

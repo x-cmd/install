@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/drdo/redu
+license: MIT
+desc:
+  en: it's ncdu for your restic repo
+  cn: redu 是您的 restic repo 的 ncdu
+x:
+  source: https://github.com/drdo/redu
+  eget: https://github.com/drdo/redu
+rule:
+  /eget:
+    cmd: x eget drdo/redu
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo +nightly install redu --locked
+    reference: https://github.com/drdo/redu?tab=readme-ov-file#installing
+    dsnap: redu
+  arch/yay:
+    cmd: yay -S redu
+    reference: https://aur.archlinux.org/packages/redu
+binlist:
+- redu

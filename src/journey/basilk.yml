@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/GabAlpha/basilk
+license: Apache-2.0
+desc:
+  cn: 一个使用最少看板逻辑管理任务的 TUI。
+  en: A TUI to manage your tasks with minimal kanban logic.
+x:
+  source: https://github.com/GabAlpha/basilk
+  eget: https://github.com/GabAlpha/basilk
+rule:
+  /eget:
+    cmd: x eget GabAlpha/basilk
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install basilk
+    reference: https://github.com/GabAlpha/basilk#installation
+    dsnap: basilk
+  linux/paru:
+    cmd: paru -S basilk
+    reference: https://github.com/GabAlpha/basilk#installation
+  /brew:
+    cmd: brew install GabAlpha/tap/basilk
+    reference: https://github.com/GabAlpha/basilk#installation
+binlist:
+- basilk

@@ -1,0 +1,71 @@
+lang: Python
+homepage: https://github.com/facebook/pyre-check
+license: MIT
+desc:
+  cn: Pyre 是符合 PEP 484 的 Python 的表现类型检查器
+  en: Pyre is a performant type checker for Python compliant with PEP 484
+x:
+  pkg:
+    exist: true
+  source: https://github.com/facebook/pyre-check
+rule:
+  /x:
+    cmd: x pkg use pyre-check
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: 'brew install python3 watchman \
+
+      && mkdir my_project && cd my_project \
+
+      && python3 -m venv ~/.venvs/venv \
+
+      && source ~/.venvs/venv/bin/activate \
+
+      && pip install pyre-check
+
+      '
+    reference: https://pyre-check.org/docs/getting-started/
+  ubuntu/apt:
+    cmd: 'sudo apt-get install python3 python3-pip python3-venv watchman \
+
+      && mkdir my_project && cd my_project \
+
+      && python3 -m venv ~/.venvs/venv \
+
+      && source ~/.venvs/venv/bin/activate \
+
+      && pip install pyre-check
+
+      '
+    reference: https://pyre-check.org/docs/getting-started/
+  debian/apt:
+    cmd: 'sudo apt-get install python3 python3-pip python3-venv watchman \
+
+      && mkdir my_project && cd my_project \
+
+      && python3 -m venv ~/.venvs/venv \
+
+      && source ~/.venvs/venv/bin/activate \
+
+      && pip install pyre-check
+
+      '
+    reference: https://pyre-check.org/docs/getting-started/
+  mint/apt:
+    cmd: 'sudo apt-get install python3 python3-pip python3-venv watchman \
+
+      && mkdir my_project && cd my_project \
+
+      && python3 -m venv ~/.venvs/venv \
+
+      && source ~/.venvs/venv/bin/activate \
+
+      && pip install pyre-check
+
+      '
+    reference: https://pyre-check.org/docs/getting-started/
+  /pip:
+    cmd: pip install pyre-check
+    reference: https://pypi.org/project/pyre-check/
+binlist:
+- pyre-check

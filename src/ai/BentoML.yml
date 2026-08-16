@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/bentoml/BentoML
+license: 'Apache-2.0'
+desc:
+  cn: 构建 AI 应用与模型的最简方式，支持模型推理 API、任务队列、LLM 应用与多模型流水线
+  en: 'The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!'
+x:
+  source: https://github.com/bentoml/BentoML
+rule:
+  /pip:
+    cmd: pip install bentoml
+    reference: https://pypi.org/project/bentoml/
+    dsnap: bentoml
+binlist:
+  - 'BentoML'

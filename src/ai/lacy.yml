@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/lacymorrow/lacy
+license: other
+desc:
+  cn: 与你的 shell 对话：命令直接执行，问题交给 AI，无需前缀
+  en: Talk to your shell — commands run, questions go to AI. No prefixes.
+x:
+  source: https://github.com/lacymorrow/lacy
+rule:
+  /npm:
+    cmd: npm install -g lacy
+    reference: https://www.npmjs.com/package/lacy
+    dsnap: 'lacy'
+binlist:
+- lacy

@@ -1,0 +1,15 @@
+lang: 'Zig'
+homepage: 'https://github.com/18alantom/fex'
+license: 'GPL-3.0'
+desc:
+  cn: 注重快速导航的命令行文件浏览器
+  en: 'A command-line file explorer prioritizing quick navigation.'
+x:
+  source: https://github.com/18alantom/fex
+  eget: https://github.com/18alantom/fex
+rule:
+  /eget:
+    cmd: x eget 18alantom/fex
+    reference: https://github.com/18alantom/fex
+binlist:
+  - 'fex'

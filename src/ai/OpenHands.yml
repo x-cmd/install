@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/OpenHands/OpenHands
+license: other
+desc:
+  cn: OpenHands：AI 驱动的开发平台
+  en: '🙌 OpenHands: AI-Driven Development'
+x:
+  source: https://github.com/OpenHands/OpenHands
+rule:
+  /pip:
+    cmd: pip install openhands-ai
+    reference: https://pypi.org/project/openhands-ai/
+    dsnap: openhands-ai
+binlist:
+- OpenHands

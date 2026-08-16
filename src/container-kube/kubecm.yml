@@ -1,0 +1,24 @@
+lang: Go
+homepage: https://github.com/sunny0826/kubecm
+license: Apache-2.0
+desc:
+  cn: 列表，切换，添加，删除和更多的交互式操作来管理 KubeConfig
+  en: List, switch, add, delete and more interactive operations to manage kubeconfig
+x:
+  source: https://github.com/sunny0826/kubecm
+  eget: https://github.com/sunny0826/kubecm
+rule:
+  /eget:
+    cmd: x eget sunny0826/kubecm
+    reference: https://x-cmd.com/mod/eget
+  /krew:
+    cmd: kubectl krew install kc
+    reference: https://kubecm.cloud/en-us/introduction?id=install
+  darwin/brew:
+    cmd: brew install kubecm
+    reference: https://kubecm.cloud/en-us/introduction?id=install
+  /asdf:
+    cmd: x asdf use kubecm
+    reference: https://github.com/samhvw8/asdf-kubecm?tab=readme-ov-file#install
+binlist:
+- kubecm

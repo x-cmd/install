@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/operator-framework/operator-sdk
+license: Apache-2.0
+desc:
+  cn: 一个管理 Kubernetes 本地应用程序的开源工具包，称为 Operators，以一种有效的自动化方式
+  en: An open source toolkit to manage Kubernetes native applications, called Operators, in an effective, automated
+x:
+  source: https://github.com/operator-framework/operator-sdk
+  eget: https://github.com/operator-framework/operator-sdk
+rule:
+  /eget:
+    cmd: x eget operator-framework/operator-sdk
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install operator-sdk
+    reference: https://sdk.operatorframework.io/docs/installation/#install-from-homebrew-macos
+  /asdf:
+    cmd: x asdf use operator-sdk
+    reference: https://github.com/Medium/asdf-operator-sdk?tab=readme-ov-file#install
+binlist:
+- operator-sdk

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/HKUDS/LightRAG
+license: mit
+desc:
+  cn: EMNLP2025 论文：简单快速的检索增强生成方案
+  en: '[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"'
+x:
+  source: https://github.com/HKUDS/LightRAG
+rule:
+  /pip:
+    cmd: pip install lightrag-hku
+    reference: https://pypi.org/project/lightrag-hku/
+    dsnap: lightrag-hku
+binlist:
+- LightRAG

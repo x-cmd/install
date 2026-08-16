@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/basnijholt/dotbins
+license: 'Apache-2.0'
+desc:
+  cn: 在 dotfiles 中保持二进制文件更新
+  en: 'Keep updated binaries in your dotfiles 🧰'
+x:
+  source: https://github.com/basnijholt/dotbins
+  eget: https://github.com/basnijholt/dotbins
+rule:
+  /eget:
+    cmd: x eget basnijholt/dotbins
+    reference: https://github.com/basnijholt/dotbins
+binlist:
+  - 'dotbins'

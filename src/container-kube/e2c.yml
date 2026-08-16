@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/nlamirault/e2c'
+license: 'Apache-2.0'
+desc:
+  cn: 管理 AWS EC2 实例的终端 UI 应用
+  en: 'A terminal-based UI application for managing AWS EC2 instances.'
+x:
+  source: https://github.com/nlamirault/e2c
+  eget: https://github.com/nlamirault/e2c
+rule:
+  /eget:
+    cmd: x eget nlamirault/e2c
+    reference: https://github.com/nlamirault/e2c
+binlist:
+  - 'e2c'

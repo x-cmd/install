@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/mendableai/firecrawl
+license: agpl-3.0
+desc:
+  cn: 用于搜索、抓取、交互 Web 的 API 与 SDK，输出干净的 Markdown 或结构化数据，供 AI Agent 直接使用
+  en: API and SDKs to search, scrape, and interact with the web at scale, turning pages into clean Markdown or structured data for AI agents
+x:
+  source: https://github.com/mendableai/firecrawl
+rule:
+  /npm:
+    cmd: npm install -g firecrawl-cli
+    reference: https://github.com/mendableai/firecrawl
+    dsnap: firecrawl-cli
+binlist:
+- firecrawl

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/adamperkowski/nvrs
+license: 'MIT'
+desc:
+  cn: 快速的软件发布新版本检查器
+  en: '🚦 fast new version checker for software releases 🦀'
+x:
+  source: https://github.com/adamperkowski/nvrs
+  eget: https://github.com/adamperkowski/nvrs
+rule:
+  /eget:
+    cmd: x eget adamperkowski/nvrs
+    reference: https://github.com/adamperkowski/nvrs
+binlist:
+  - 'nvrs'

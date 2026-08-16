@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/anthropics/devcontainer-features
+license: mit
+desc:
+  cn: Anthropic 开发容器特性，包含 Claude Code CLI
+  en: Anthropic Dev Container Features, including Claude Code CLI
+x:
+  source: https://github.com/anthropics/devcontainer-features
+  eget: https://github.com/anthropics/devcontainer-features
+rule:
+  /eget:
+    cmd: x eget anthropics/devcontainer-features
+    reference: https://github.com/anthropics/devcontainer-features
+binlist:
+- devcontainer-features

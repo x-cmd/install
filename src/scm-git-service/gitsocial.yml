@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/gitsocial-org/gitsocial
+license: 'MIT'
+desc:
+  cn: 跨代码托管平台的协作平台
+  en: 'Cross-forge collaboration platform'
+x:
+  source: https://github.com/gitsocial-org/gitsocial
+  eget: https://github.com/gitsocial-org/gitsocial
+rule:
+  /eget:
+    cmd: x eget gitsocial-org/gitsocial
+    reference: https://github.com/gitsocial-org/gitsocial
+binlist:
+  - 'gitsocial'

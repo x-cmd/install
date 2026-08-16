@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/arxanas/git-branchless
+license: Apache-2.0
+desc:
+  cn: Git-branchless 是一套在各方面增强 Git 的工具
+  en: git-branchless is a suite of tools which enhances Git in several ways
+x:
+  source: https://github.com/arxanas/git-branchless
+  eget: https://github.com/arxanas/git-branchless
+rule:
+  /eget:
+    cmd: x eget arxanas/git-branchless
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install git-branchless
+    reference: https://formulae.brew.sh/formula/git-branchless#default
+  /cargo:
+    cmd: cargo install git-branchless
+    reference: https://github.com/arxanas/git-branchless/wiki/Installation#installation
+    dsnap: git-branchless
+  (win|wsl2)/scoop:
+    cmd: x scoop install git-branchless
+    reference: https://scoop.sh/#/apps?q=git-branchless
+binlist:
+- git-branchless

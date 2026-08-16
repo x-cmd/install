@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/cloudflare/agents
+license: mit
+desc:
+  cn: Cloudflare 官方的有状态 AI Agent SDK——基于 Durable Objects,支持持久状态、可调用 RPC、调度、WebSocket、MCP、工作流、语音、邮件与 React Hooks,空闲时休眠、按需唤醒。
+  en: Build and deploy persistent, stateful AI agents on the Cloudflare network, with built-in support for state management, scheduling, workflows, and real-time communication.
+x:
+  source: https://github.com/cloudflare/agents
+rule:
+  /npm:
+    cmd: npm create cloudflare@latest -- --template cloudflare/agents-starter
+    reference: https://github.com/cloudflare/agents
+    dsnap: cloudflare
+binlist:
+- agents

@@ -1,0 +1,23 @@
+lang: TypeScript
+homepage: https://github.com/microsoft/playwright
+license: Apache-2.0
+desc:
+  cn: Playwright 是一个 Web 测试和自动化的框架，它允许用一个 API 测试 Chromium、 Firefox 和 WebKit
+  en: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API
+x:
+  pkg:
+    exist: true
+  source: https://github.com/microsoft/playwright
+rule:
+  /x:
+    cmd: x pkg use playwright
+    reference: https://x-cmd.com/install/
+  /npx:
+    cmd: npx playwright
+    reference: https://playwright.dev/docs/cli
+  /npm:
+    cmd: npm install -g playwright
+    reference: https://playwright.dev/docs/cli
+    dsnap: playwright
+binlist:
+- playwright

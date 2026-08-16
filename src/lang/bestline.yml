@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/bestline
+license: noassertion
+desc:
+  cn: ANSI X3.64 标准的电传命令会话库
+  en: ANSI Standard X3.64 Teletypewriter Command Session Library
+x:
+  source: https://github.com/jart/bestline
+  eget: https://github.com/jart/bestline
+rule:
+  /eget:
+    cmd: x eget jart/bestline
+    reference: https://github.com/jart/bestline
+binlist:
+- bestline

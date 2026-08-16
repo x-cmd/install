@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/baedonguri/aiwitch
+license: mit
+desc:
+  cn: AI CLI（Codex、Claude Code）多账号管理器
+  en: Multi-account manager for AI CLIs (Codex, Claude Code)
+x:
+  source: https://github.com/baedonguri/aiwitch
+  eget: https://github.com/baedonguri/aiwitch
+rule:
+  /eget:
+    cmd: x eget baedonguri/aiwitch
+    reference: https://github.com/baedonguri/aiwitch
+binlist:
+- aiwitch

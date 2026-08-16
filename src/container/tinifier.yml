@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/tarampampam/tinifier
+license: 'MIT'
+desc:
+  cn: 使用 TinyPNG 压缩图片的 CLI 工具
+  en: '🐼 CLI tool for compressing images using the TinyPNG'
+x:
+  source: https://github.com/tarampampam/tinifier
+  eget: https://github.com/tarampampam/tinifier
+rule:
+  /eget:
+    cmd: x eget tarampampam/tinifier
+    reference: https://github.com/tarampampam/tinifier
+binlist:
+  - 'tinifier'

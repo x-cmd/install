@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/ricklamers/shell-ai
+license: mit
+desc:
+  cn: 基于 LangChain 的 shell 命令生成与执行 CLI
+  en: LangChain powered shell command generator and runner CLI
+x:
+  source: https://github.com/ricklamers/shell-ai
+  eget: https://github.com/ricklamers/shell-ai
+rule:
+  /eget:
+    cmd: x eget ricklamers/shell-ai
+    reference: https://github.com/ricklamers/shell-ai
+binlist:
+- shell-ai

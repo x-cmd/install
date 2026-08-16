@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/stefanlogue/meteor'
+license: 'MIT'
+desc:
+  cn: 高度可配置的 Conventional Commits 提交编写 CLI
+  en: 'A highly configurable CLI tool for writing conventional commits'
+x:
+  source: https://github.com/stefanlogue/meteor
+  eget: https://github.com/stefanlogue/meteor
+rule:
+  /eget:
+    cmd: x eget stefanlogue/meteor
+    reference: https://github.com/stefanlogue/meteor
+binlist:
+  - 'meteor'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/mikeleppane/envx'
+license: 'MIT'
+desc:
+  cn: 面向开发者的安全强大的环境变量管理器，提供直观 TUI 与完整 CLI
+  en: 'A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.'
+x:
+  source: https://github.com/mikeleppane/envx
+  eget: https://github.com/mikeleppane/envx
+rule:
+  /eget:
+    cmd: x eget mikeleppane/envx
+    reference: https://github.com/mikeleppane/envx
+binlist:
+  - 'envx'

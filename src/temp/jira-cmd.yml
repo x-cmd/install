@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/palashkulsh/jira-cmd
+license: MIT
+desc:
+  cn: 基于 jilla 的 Jira 命令行界面
+  en: A Jira command line interface based on jilla
+x:
+  source: https://github.com/palashkulsh/jira-cmd
+rule:
+  /npm:
+    cmd: npm install -g jira-cmd
+    reference: https://github.com/palashkulsh/jira-cmd?tab=readme-ov-file#installation
+    dsnap: jira-cmd
+binlist:
+- jira-cmd

@@ -1,0 +1,20 @@
+lang: HTML
+homepage: https://github.com/Cocoon-AI/architecture-diagram-generator
+license: mit
+desc:
+  cn: Cocoon-AI 开源的 Claude Skill，向 Claude 描述系统即可生成专业深色主题架构图（自包含 HTML 文件），内置 Copy/PNG/PDF 导出，零设计基础也能迭代。
+  en: Cocoon-AI's open-source Claude Skill that turns plain-English system descriptions into professional dark-themed architecture diagrams as a self-contained HTML file, with built-in Copy/PNG/PDF export and iterative chat refinement.
+x:
+  source: https://github.com/Cocoon-AI/architecture-diagram-generator
+rule:
+  /curl:
+    cmd: curl -fsSL -o architecture-diagram.zip https://github.com/Cocoon-AI/architecture-diagram-generator/releases/latest/download/architecture-diagram.zip && unzip architecture-diagram.zip -d ~/.claude/skills/architecture-diagram
+    reference: https://github.com/Cocoon-AI/architecture-diagram-generator#-installation
+  /wget:
+    cmd: wget -q -O architecture-diagram.zip https://github.com/Cocoon-AI/architecture-diagram-generator/releases/latest/download/architecture-diagram.zip && unzip architecture-diagram.zip -d ~/.claude/skills/architecture-diagram
+    reference: https://github.com/Cocoon-AI/architecture-diagram-generator#-installation
+  /git:
+    cmd: x git clone Cocoon-AI/architecture-diagram-generator && unzip architecture-diagram-generator/architecture-diagram.zip -d ~/.claude/skills/architecture-diagram
+    reference: https://github.com/Cocoon-AI/architecture-diagram-generator#claude-code-cli
+binlist:
+- architecture-diagram-generator

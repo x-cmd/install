@@ -1,0 +1,32 @@
+lang: Go
+homepage: https://github.com/dundee/gdu
+license: MIT
+desc:
+  cn: 用 Go 编写的磁盘使用分析器
+  en: Pretty fast disk usage analyzer written in Go
+x:
+  pkg:
+    exist: true
+  source: https://github.com/dundee/gdu
+  eget: https://github.com/dundee/gdu
+rule:
+  /x:
+    cmd: x pkg use gdu
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget dundee/gdu
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: 'curl -L https://github.com/dundee/gdu/releases/latest/download/gdu_linux_amd64.tgz | tar xz \
+
+      && chmod +x gdu_linux_amd64 \
+
+      && mv gdu_linux_amd64 /usr/bin/gdu
+
+      '
+    reference: https://github.com/dundee/gdu?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S gdu-bin
+    reference: https://aur.archlinux.org/packages/gdu-bin
+binlist:
+- gdu

@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/jarrodwatts/claude-hud
+license: mit
+desc:
+  cn: 实时展示 Claude Code 状态的插件：上下文用量、活动工具、运行中 Agent 与待办进度
+  en: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+x:
+  source: https://github.com/jarrodwatts/claude-hud
+  eget: https://github.com/jarrodwatts/claude-hud
+rule:
+  /eget:
+    cmd: x eget jarrodwatts/claude-hud
+    reference: https://github.com/jarrodwatts/claude-hud
+binlist:
+- claude-hud

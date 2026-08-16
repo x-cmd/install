@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/eduardofuncao/squix
+license: 'MIT'
+desc:
+  cn: 用 Go 编写、基于 BubbleTea 的跨多数据库 SQL 查询管理 CLI
+  en: 'A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea'
+x:
+  source: https://github.com/eduardofuncao/squix
+  eget: https://github.com/eduardofuncao/squix
+rule:
+  /eget:
+    cmd: x eget eduardofuncao/squix
+    reference: https://github.com/eduardofuncao/squix
+binlist:
+  - 'squix'

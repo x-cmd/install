@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/andrianllmm/renux
+license: 'MIT'
+desc:
+  cn: 带 TUI 的终端批量文件重命名工具
+  en: 'A terminal-based bulk file renamer with a TUI'
+x:
+  source: https://github.com/andrianllmm/renux
+  eget: https://github.com/andrianllmm/renux
+rule:
+  /eget:
+    cmd: x eget andrianllmm/renux
+    reference: https://github.com/andrianllmm/renux
+binlist:
+  - 'renux'

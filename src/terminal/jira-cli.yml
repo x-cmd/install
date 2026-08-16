@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/ankitpokhrel/jira-cli'
+license: 'MIT'
+desc:
+  cn: 功能丰富的交互式 Jira 命令行工具
+  en: '🔥 Feature-rich interactive Jira command line.'
+x:
+  source: https://github.com/ankitpokhrel/jira-cli
+  eget: https://github.com/ankitpokhrel/jira-cli
+rule:
+  /eget:
+    cmd: x eget ankitpokhrel/jira-cli
+    reference: https://github.com/ankitpokhrel/jira-cli
+binlist:
+  - 'jira-cli'

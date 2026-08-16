@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/SagarMaheshwary/reqlog'
+license: 'MIT'
+desc:
+  cn: 跨文件、Docker 容器与远程主机，按请求 ID 与键值搜索日志的快速 CLI
+  en: 'Fast CLI for searching, tracing, and streaming logs across files, Docker containers, and remote hosts using request IDs, trace IDs, and key/value search.'
+x:
+  source: https://github.com/SagarMaheshwary/reqlog
+  eget: https://github.com/SagarMaheshwary/reqlog
+rule:
+  /eget:
+    cmd: x eget SagarMaheshwary/reqlog
+    reference: https://github.com/SagarMaheshwary/reqlog
+binlist:
+  - 'reqlog'

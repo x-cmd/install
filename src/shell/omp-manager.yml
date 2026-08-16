@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/marlocarlo/omp-manager'
+license: 'MIT'
+desc:
+  cn: Oh My Posh 的安装与管理工具，集中浏览主题、安装字体和配置 Shell
+  en: 'Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and configure shells'
+x:
+  source: https://github.com/marlocarlo/omp-manager
+  eget: https://github.com/marlocarlo/omp-manager
+rule:
+  /eget:
+    cmd: x eget marlocarlo/omp-manager
+    reference: https://github.com/marlocarlo/omp-manager
+binlist:
+  - 'omp-manager'

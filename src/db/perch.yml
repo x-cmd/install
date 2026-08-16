@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/ricardodantas/perch
+license: 'GPL-3.0'
+desc:
+  cn: Mastodon 与 Bluesky 的精美终端社交客户端
+  en: 'A beautiful terminal social client for Mastodon and Bluesky 🐦'
+x:
+  source: https://github.com/ricardodantas/perch
+  eget: https://github.com/ricardodantas/perch
+rule:
+  /eget:
+    cmd: x eget ricardodantas/perch
+    reference: https://github.com/ricardodantas/perch
+binlist:
+  - 'perch'

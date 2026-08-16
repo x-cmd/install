@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/TraderAlice/OpenAlice
+license: AGPL-3.0
+desc:
+  cn: 一人即华尔街的 AI 交易代理——覆盖股票、加密、商品、外汇与宏观，从研究到下单、持仓管理、退出全流程，UTA 隔离券商凭证、Trading-as-Git 留审计痕迹、所有交易需人工显式确认。
+  en: Your one-person Wall Street — an AI trading agent covering equities, crypto, commodities, forex, and macro, end-to-end from research through position entry and ongoing management to exit. UTA isolates broker credentials, Trading-as-Git leaves a reviewable audit trail, and every order requires explicit human approval.
+x:
+  source: https://github.com/TraderAlice/OpenAlice
+rule:
+  /git:
+    cmd: x git clone TraderAlice/OpenAlice
+    reference: https://github.com/TraderAlice/OpenAlice#quick-start
+    dsnap: OpenAlice
+binlist:
+- openalice

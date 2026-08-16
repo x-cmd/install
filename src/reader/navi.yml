@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/denisidoro/navi
+license: Apache-2.0
+desc:
+  cn: 用于命令行的交互式备忘单工具
+  en: An interactive cheatsheet tool for the command-line
+x:
+  pkg:
+    exist: true
+  source: https://github.com/denisidoro/navi
+rule:
+  /x:
+    cmd: x pkg use navi
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install navi
+    reference: https://formulae.brew.sh/formula/navi#default
+  (win|wsl2)/choco:
+    cmd: x choco install navi
+    reference: https://community.chocolatey.org/packages/navi
+  (win|wsl2)/scoop:
+    cmd: x scoop install navi
+    reference: https://scoop.sh/#/apps?q=navi
+binlist:
+- navi

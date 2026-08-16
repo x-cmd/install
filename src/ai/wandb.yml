@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/wandb/wandb
+license: 'MIT'
+desc:
+  cn: AI 开发者平台，用于训练、微调模型并管理从实验到生产的全流程
+  en: 'The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.'
+x:
+  source: https://github.com/wandb/wandb
+  eget: https://github.com/wandb/wandb
+rule:
+  /eget:
+    cmd: x eget wandb/wandb
+    reference: https://github.com/wandb/wandb
+binlist:
+  - 'wandb'

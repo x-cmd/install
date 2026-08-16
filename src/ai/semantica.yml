@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/semantica-agi/semantica
+license: mit
+desc:
+  cn: 为 AI Agent 系统添加可审计的知识图谱和决策智能层，提升治理、推理和可解释性
+  en: Adds an auditable knowledge graph and decision intelligence layer to AI agent systems for improved governance, reasoning, and explainability.
+x:
+  source: https://github.com/semantica-agi/semantica
+rule:
+  /pip:
+    cmd: pip install -U semantica
+    reference: https://github.com/semantica-agi/semantica#quick-start
+    dsnap: semantica
+  /git:
+    cmd: x git clone semantica-agi/semantica
+    reference: https://github.com/semantica-agi/semantica
+binlist:
+- semantica

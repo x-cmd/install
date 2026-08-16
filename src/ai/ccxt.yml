@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/ccxt/ccxt
+license: mit
+desc:
+  cn: 一个统一 100+ 加密货币交易所公开与私有 API 的跨语言库，覆盖 JavaScript、Python、PHP、C#、Go、Java。
+  en: A cryptocurrency trading API with over 100 exchanges in JavaScript, TypeScript, Python, PHP, C#, Go, and Java.
+x:
+  source: https://github.com/ccxt/ccxt
+rule:
+  /pip:
+    cmd: pip install ccxt
+    reference: https://github.com/ccxt/ccxt?tab=readme-ov-file#install
+binlist:
+- ccxt

@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/txthinking/hancock
+license: GPL-3.0
+desc:
+  cn: 管理多个远程服务器并远程执行命令
+  en: Manage multiple remote servers and execute commands remotely
+x:
+  source: https://github.com/txthinking/hancock
+  eget: https://github.com/txthinking/hancock
+rule:
+  /eget:
+    cmd: x eget txthinking/hancock
+    reference: https://x-cmd.com/mod/eget
+  /nami:
+    cmd: nami install hancock
+    reference: https://github.com/txthinking/hancock?tab=readme-ov-file#install-via-nami
+binlist:
+- hancock

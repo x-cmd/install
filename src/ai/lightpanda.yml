@@ -1,0 +1,24 @@
+lang: Zig
+homepage: https://github.com/lightpanda-io/browser
+license: AGPL-3.0
+desc:
+  cn: 专为人工智能和自动化设计的无头浏览器
+  en: the headless browser designed for AI and automation
+x:
+  source: https://github.com/lightpanda-io/browser
+  eget: https://github.com/lightpanda-io/browser
+rule:
+  /eget:
+    cmd: x eget lightpanda-io/browser
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://pkg.lightpanda.io/install.sh | bash
+    reference: https://lightpanda.io/docs/open-source/installation
+  /docker:
+    cmd: docker run -d --name lightpanda -p 9222:9222 lightpanda/browser:nightly
+    reference: https://lightpanda.io/docs/open-source/installation#install-from-docker
+  arch/yay:
+    cmd: yay -S lightpanda-bin
+    reference: https://aur.archlinux.org/packages/lightpanda-bin
+binlist:
+  - lightpanda

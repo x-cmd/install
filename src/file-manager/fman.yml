@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/nore-dev/fman
+license: MIT
+desc:
+  cn: TUI 文件管理器
+  en: TUI File Manager
+x:
+  source: https://github.com/nore-dev/fman
+  eget: https://github.com/nore-dev/fman
+rule:
+  /eget:
+    cmd: x eget nore-dev/fman
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/nore-dev/fman@latest
+    reference: https://github.com/nore-dev/fman?tab=readme-ov-file#go
+    dsnap: github.com/nore-dev/fman
+  /npm:
+    cmd: npm i @nore-dev/fman
+    reference: https://github.com/nore-dev/fman?tab=readme-ov-file#npm
+    dsnap: '@nore-dev/fman'
+  darwin/brew:
+    cmd: brew install fman/tap/fman
+    reference: https://github.com/nore-dev/fman?tab=readme-ov-file#brew
+binlist:
+- fman

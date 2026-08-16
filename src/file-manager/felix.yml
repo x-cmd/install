@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/kyoheiu/felix
+license: MIT
+desc:
+  cn: 一个具有 Vim 风格键映射的 TUI 文件管理器，使用 Rust 编写。
+  en: A tui file manager with Vim-like key mapping, written in Rust.
+x:
+  source: https://github.com/kyoheiu/felix
+rule:
+  /cargo:
+    cmd: cargo install felix
+    reference: https://kyoheiu.dev/felix/#installation
+    dsnap: felix
+  arch/pacman:
+    cmd: sudo pacman -S felix-rs
+    reference: https://kyoheiu.dev/felix/#installation
+  netbsd/pkgin:
+    cmd: pkgin install felix
+    reference: https://kyoheiu.dev/felix/#installation
+binlist:
+- felix

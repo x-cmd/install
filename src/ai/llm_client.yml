@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/ShelbyJenkins/llm_client
+license: mit
+desc:
+  cn: 面向本地 LLM 的最简 Rust 接口，并从概率性 LLM 输出中提取确定性信号
+  en: The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
+x:
+  source: https://github.com/ShelbyJenkins/llm_client
+  eget: https://github.com/ShelbyJenkins/llm_client
+rule:
+  /eget:
+    cmd: x eget ShelbyJenkins/llm_client
+    reference: https://github.com/ShelbyJenkins/llm_client
+binlist:
+- llm_client

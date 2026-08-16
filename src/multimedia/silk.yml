@@ -1,0 +1,14 @@
+lang: rust
+homepage: https://github.com/ljh-sh/silk
+license: noassertion
+desc:
+  cn: 微信 SILK 语音转换器——单个 Rust 二进制，无 Python 依赖；SILK 与 WAV/MP3/Opus/AAC 互转、格式探测、批量处理
+  en: WeChat SILK audio converter — single Rust binary, no Python deps; decode/encode SILK to and from WAV/MP3/Opus/AAC, detect format, batch process
+x:
+  source: https://github.com/ljh-sh/silk
+rule:
+  /cargo:
+    cmd: cargo install --git https://github.com/ljh-sh/silk
+    reference: https://github.com/ljh-sh/silk
+binlist:
+- silk

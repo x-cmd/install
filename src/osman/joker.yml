@@ -1,0 +1,23 @@
+lang: C
+homepage: https://github.com/txthinking/joker
+license: GPL-3.0
+desc:
+  cn: Joker 可以将进程变成守护进程
+  en: Joker can turn process into daemon
+x:
+  pkg:
+    exist: true
+  source: https://github.com/txthinking/joker
+  eget: https://github.com/txthinking/joker
+rule:
+  /x:
+    cmd: x pkg use joker
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget txthinking/joker
+    reference: https://x-cmd.com/mod/eget
+  /nami:
+    cmd: nami install joker
+    reference: https://github.com/txthinking/joker?tab=readme-ov-file#install-via-nami
+binlist:
+- joker

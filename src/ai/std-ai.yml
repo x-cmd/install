@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/StringKe/std-ai
+license: mit
+desc:
+  cn: 跨 11 款工具同步 AI CLI 配置（rules/skills/commands/references/MCP），涵盖 Claude Code、Codex、Cursor 等
+  en: Synchronize AI CLI configuration (rules / skills / commands / references / MCP) across 11 tools — Claude Code, Codex, Cursor, Copilot, Windsurf, Gemini CLI, Aider, Cline, OpenCode, Continue.dev, An...
+x:
+  source: https://github.com/StringKe/std-ai
+  eget: https://github.com/StringKe/std-ai
+rule:
+  /eget:
+    cmd: x eget StringKe/std-ai
+    reference: https://github.com/StringKe/std-ai
+binlist:
+- std-ai

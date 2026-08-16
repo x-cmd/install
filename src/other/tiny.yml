@@ -1,0 +1,19 @@
+lang: Rust
+homepage: https://github.com/osa1/tiny
+license: MIT
+desc:
+  cn: tiny 是用 Rust 编写的 IRC 客户端
+  en: tiny is an IRC client written in Rust
+x:
+  source: https://github.com/osa1/tiny
+  eget: https://github.com/osa1/tiny
+rule:
+  /eget:
+    cmd: x eget osa1/tiny
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install --git https://github.com/osa1/tiny
+    reference: https://github.com/osa1/tiny?tab=readme-ov-file#installation
+    dsnap: tiny
+binlist:
+- tiny

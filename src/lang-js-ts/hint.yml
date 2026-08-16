@@ -1,0 +1,24 @@
+lang: JavaScript
+homepage: https://github.com/webhintio/hint
+license: Apache-2.0
+desc:
+  cn: 一个可自定义的 linting 工具，通过检查代码的最佳实践和常见错误，帮助您提高网站的可访问性、速度、跨浏览器兼容性等
+  en: A customizable linting tool that helps you improve your website's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
+x:
+  pkg:
+    exist: true
+  source: https://github.com/webhintio/hint
+  eget: https://github.com/webhintio/hint
+rule:
+  /eget:
+    cmd: x eget webhintio/hint
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use hint
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install hint
+    reference: https://webhint.io/docs/user-guide/#install-webhint
+    dsnap: hint
+binlist:
+- hint

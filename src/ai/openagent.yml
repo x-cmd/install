@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/ask-sol/openagent
+license: apache-2.0
+desc:
+  cn: 面向终端的开源 Agent 编码 CLI，多模型供应商、节省 token，支持 Web 搜索和 MCP 服务器
+  en: Open-source agentic coding CLI for your terminal. Multi-provider (OpenAI, Anthropic, Gemini, Mistral, Groq, DeepSeek, xAI, Ollama, OpenRouter), token-efficient, with web search, MCP server support...
+x:
+  source: https://github.com/ask-sol/openagent
+  eget: https://github.com/ask-sol/openagent
+rule:
+  /eget:
+    cmd: x eget ask-sol/openagent
+    reference: https://github.com/ask-sol/openagent
+binlist:
+- openagent

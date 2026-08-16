@@ -1,0 +1,28 @@
+lang: dart
+homepage: https://github.com/sass/dart-sass
+license: MIT
+desc:
+  en: Compile Sass to CSS
+  cn: 将 Sass 编译为 CSS
+x:
+  source: https://github.com/sass/dart-sass
+  eget: https://github.com/sass/dart-sass
+rule:
+  /eget:
+    cmd: x eget sass/dart-sass
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm install -g sass
+    reference: https://www.npmjs.com/package/sass
+    dsnap: sass
+  darwin/brew:
+    cmd: brew install node-sass
+    reference: https://formulae.brew.sh/formula/node-sass
+  (win|wsl2)/scoop:
+    cmd: x scoop install sass
+    reference: https://scoop.sh/#/apps?q=sass
+  (win|wsl2)/choco:
+    cmd: x choco install sass
+    reference: https://community.chocolatey.org/packages/sass
+binlist:
+- dart-sass

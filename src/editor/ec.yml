@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/chojs23/ec'
+license: 'MIT'
+desc:
+  cn: 类 Vim 工作流的终端原生 git 三方合并工具
+  en: 'Easy terminal-native 3-way git mergetool vim-like workflow'
+x:
+  source: https://github.com/chojs23/ec
+  eget: https://github.com/chojs23/ec
+rule:
+  /eget:
+    cmd: x eget chojs23/ec
+    reference: https://github.com/chojs23/ec
+binlist:
+  - 'ec'

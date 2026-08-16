@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/bschaatsbergen/cidr
+license: 'MIT'
+desc:
+  cn: 简化 IPv4/IPv6 CIDR 前缀管理,支持计数、重叠检查、解释与细分
+  en: 'Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.'
+x:
+  source: https://github.com/bschaatsbergen/cidr
+  eget: https://github.com/bschaatsbergen/cidr
+rule:
+  /eget:
+    cmd: x eget bschaatsbergen/cidr
+    reference: https://github.com/bschaatsbergen/cidr
+binlist:
+  - 'cidr'

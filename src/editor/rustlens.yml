@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/yashksaini-coder/Rustlens
+license: 'MIT'
+desc:
+  cn: 解析 Rust 源码,在终端中交互浏览函数、结构体、枚举、trait 等
+  en: 'Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.'
+x:
+  source: https://github.com/yashksaini-coder/Rustlens
+  eget: https://github.com/yashksaini-coder/Rustlens
+rule:
+  /eget:
+    cmd: x eget yashksaini-coder/Rustlens
+    reference: https://github.com/yashksaini-coder/Rustlens
+binlist:
+  - 'rustlens'

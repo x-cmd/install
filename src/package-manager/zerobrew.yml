@@ -1,0 +1,17 @@
+lang: rust
+homepage: https://github.com/lucasgelfond/zerobrew
+license: apache-2.0
+desc:
+  cn: 比 Homebrew 快 5-20 倍的实验性替代品——用 uv 风格架构在 macOS/Linux 管理 Homebrew 包，命令为 zb
+  en: A 5-20x faster experimental Homebrew alternative that brings uv-style architecture to Homebrew packages on macOS and Linux
+x:
+  source: https://github.com/lucasgelfond/zerobrew
+rule:
+  /curl:
+    cmd: curl -fsSL https://zerobrew.rs/install | bash
+    reference: https://github.com/lucasgelfond/zerobrew
+  darwin/brew:
+    cmd: brew install lucasgelfond/zerobrew/zerobrew
+    reference: https://github.com/lucasgelfond/zerobrew
+binlist:
+- zb

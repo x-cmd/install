@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: https://github.com/sindresorhus/pageres-cli
+license: MIT
+desc:
+  en: Capture screenshots of websites in various resolutions
+  cn: 以各种分辨率捕获网站的屏幕截图
+x:
+  pkg:
+    exist: true
+  source: https://github.com/sindresorhus/pageres-cli
+rule:
+  /x:
+    cmd: x pkg use pageres-cli
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install --global pageres-cli
+    reference: https://github.com/sindresorhus/pageres-cli?tab=readme-ov-file#install
+    dsnap: pageres-cli
+binlist:
+- pageres-cli

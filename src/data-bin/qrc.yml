@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/fumiyas/qrc'
+license: 'MIT'
+desc:
+  cn: 文本终端的二维码生成器，支持 ANSI 彩色、Unicode 与 Sixel
+  en: 'QR code generator for text terminals (ANSI color, Unicode, Sixel)'
+x:
+  source: https://github.com/fumiyas/qrc
+  eget: https://github.com/fumiyas/qrc
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/fumiyas/qrc
+  /eget:
+    cmd: x eget fumiyas/qrc
+    reference: https://github.com/fumiyas/qrc
+binlist:
+  - 'qrc'

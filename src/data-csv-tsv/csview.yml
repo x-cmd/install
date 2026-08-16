@@ -1,0 +1,33 @@
+lang: Rust
+homepage: https://github.com/wfxr/csview
+license: Apache-2.0
+desc:
+  cn: 支持 cjk/emoji 的高性能 csv 查看器
+  en: A high performance csv viewer with cjk/emoji support
+x:
+  pkg:
+    exist: true
+  source: https://github.com/wfxr/csview
+  eget: https://github.com/wfxr/csview
+rule:
+  /x:
+    cmd: x pkg use csview
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget wfxr/csview
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install csview
+    reference: https://github.com/wfxr/csview?tab=readme-ov-file#on-macos
+  (win|wsl2)/scoop:
+    cmd: x scoop install csview
+    reference: https://github.com/wfxr/csview?tab=readme-ov-file#on-windows
+  /cargo:
+    cmd: cargo install --locked csview
+    reference: https://github.com/wfxr/csview?tab=readme-ov-file#from-source
+    dsnap: csview
+  arch/yay:
+    cmd: yay -S csview
+    reference: https://aur.archlinux.org/packages/csview
+binlist:
+- csview

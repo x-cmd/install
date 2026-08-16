@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: https://github.com/lobehub/lobe-chat
+license: 'NOASSERTION'
+desc:
+  cn: LobeHub 是你的首席智能体运营官，将智能体编排为 7×24 全天候运营团队
+  en: '🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.'
+x:
+  source: https://github.com/lobehub/lobe-chat
+  eget: https://github.com/lobehub/lobe-chat
+rule:
+  /eget:
+    cmd: x eget lobehub/lobe-chat
+    reference: https://github.com/lobehub/lobe-chat
+binlist:
+  - 'lobehub'

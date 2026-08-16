@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/byawitz/ggh'
+license: 'Apache-2.0'
+desc:
+  cn: 回顾你的 SSH 会话（也可搜索 SSH 配置文件）
+  en: 'Recall your SSH sessions (also search your SSH config file)'
+x:
+  source: https://github.com/byawitz/ggh
+  eget: https://github.com/byawitz/ggh
+rule:
+  /eget:
+    cmd: x eget byawitz/ggh
+    reference: https://github.com/byawitz/ggh
+binlist:
+  - 'ggh'

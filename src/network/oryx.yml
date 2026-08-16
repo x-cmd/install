@@ -1,0 +1,20 @@
+lang: Rust
+homepage: https://github.com/pythops/oryx
+license: GPL-3.0
+desc:
+  cn: 使用 eBPF (扩展 Berkeley 数据包过滤器) 的网络流量嗅探器。
+  en: A network traffic sniffer using eBPF (extended Berkeley Packet Filter).
+x:
+  source: https://github.com/pythops/oryx
+rule:
+  arch/yay:
+    cmd: yay -S oryx
+    reference: https://aur.archlinux.org/packages/oryx
+  arch/paru:
+    cmd: paru -S oryx
+    reference: https://github.com/pythops/oryx#-installation
+  /eget:
+    cmd: eget pythops/oryx
+    reference: https://github.com/pythops/oryx#-installation
+binlist:
+- oryx

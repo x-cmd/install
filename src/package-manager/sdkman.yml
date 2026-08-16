@@ -1,0 +1,18 @@
+lang: Gherkin/shell/Groovy
+homepage: https://github.com/sdkman/sdkman-cli
+license: Apache-2.0
+desc:
+  cn: SDKMAN 是在任何基于 Unix 的系统上管理多个软件开发工具包的并行版本的工具
+  en: SDKMAN is a tool for managing parallel Versions of multiple Software Development Kits on any Unix based system
+x:
+  source: https://github.com/sdkman/sdkman-cli
+  eget: https://github.com/sdkman/sdkman-cli
+rule:
+  /eget:
+    cmd: x eget sdkman/sdkman-cli
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -s "https://get.sdkman.io" | bash
+    reference: https://github.com/sdkman/sdkman-cli
+binlist:
+- sdkman

@@ -1,0 +1,52 @@
+lang: Go
+homepage: https://github.com/ahmetb/kubectx
+license: Apache-2.0
+desc:
+  cn: 可以轻松切换 kubectl 上下文并创建别名的工具
+  en: Tool that can switch between kubectl contexts easily and create aliases
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ahmetb/kubectx
+  eget: https://github.com/ahmetb/kubectx
+rule:
+  /x:
+    cmd: x pkg use kubectx
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ahmetb/kubectx
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use kubectx
+    reference: https://gitlab.com/wt0f/asdf-kubectx
+  darwin/brew:
+    cmd: brew install kubectx
+    reference: https://formulae.brew.sh/formula/kubectx#default
+  darwin/port:
+    cmd: sudo port selfupdate && sudo port install kubectx
+    reference: https://github.com/ahmetb/kubectx#macports-macos
+  (win|wsl2)/choco:
+    cmd: x choco install kubens kubectx
+    reference: https://github.com/ahmetb/kubectx#windows-installation-using-chocolatey
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add main \
+
+      && x scoop install main/kubens main/kubectx
+
+      '
+    reference: https://github.com/ahmetb/kubectx#windows-installation-using-scoop
+  (win|wsl2)/winget:
+    cmd: 'x winget install --id ahmetb.kubectx \
+
+      && x winget install --id ahmetb.kubens
+
+      '
+    reference: https://github.com/ahmetb/kubectx#windows-installation-using-winget
+  debian/apt:
+    cmd: sudo apt install kubectx
+    reference: https://github.com/ahmetb/kubectx#apt-debian
+  arch/pacman:
+    cmd: sudo pacman -S kubectx
+    reference: https://github.com/ahmetb/kubectx#pacman-arch-linux
+binlist:
+- kubectx

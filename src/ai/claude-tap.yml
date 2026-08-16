@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/liaohch3/claude-tap
+license: mit
+desc:
+  cn: 拦截并检查 Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Hermes 等编码 Agent 的 API 流量
+  en: Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
+x:
+  source: https://github.com/liaohch3/claude-tap
+  eget: https://github.com/liaohch3/claude-tap
+rule:
+  /eget:
+    cmd: x eget liaohch3/claude-tap
+    reference: https://github.com/liaohch3/claude-tap
+binlist:
+- claude-tap

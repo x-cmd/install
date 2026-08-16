@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/knownsec/ZoomEye
+license: GPL-2.0
+desc:
+  cn: 一个网络空间搜索引擎，可以让用户使用浏览器搜索网络设备
+  en: A cyberspace search engine that allows users to search for network devices using a browser
+x:
+  pkg:
+    exist: true
+  source: https://github.com/knownsec/ZoomEye
+rule:
+  /x:
+    cmd: x pkg use zoomeye
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip3 install zoomeye
+    reference: https://github.com/knownsec/zoomeye-python?tab=readme-ov-file#0x01-installation
+    dsnap: zoomeye
+binlist:
+- zoomeye

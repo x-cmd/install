@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/xaspx/hermes-control-interface
+license: mit
+desc:
+  cn: Hermes AI 智能体栈的自托管 Web 仪表板，统一管理聊天、终端、文件、token 分析、MCP 服务器与多智能体协作
+  en: Self-hosted web dashboard for the Hermes AI agent stack — manage chat, terminals, files, token analytics, MCP servers, and multi-agent workflows behind a password gate.
+x:
+  source: https://github.com/xaspx/hermes-control-interface
+rule:
+  /git:
+    cmd: git clone https://github.com/xaspx/hermes-control-interface.git
+    reference: https://github.com/xaspx/hermes-control-interface#-quick-start
+binlist:
+- hermes-control-interface

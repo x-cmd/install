@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/x-motemen/ghq'
+license: 'MIT'
+desc:
+  cn: 轻松管理远程仓库
+  en: 'Remote repository management made easy'
+x:
+  source: https://github.com/x-motemen/ghq
+  eget: https://github.com/x-motemen/ghq
+rule:
+  /eget:
+    cmd: x eget x-motemen/ghq
+    reference: https://github.com/x-motemen/ghq
+binlist:
+  - 'ghq'

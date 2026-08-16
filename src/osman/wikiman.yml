@@ -1,0 +1,15 @@
+lang: 'Shell'
+homepage: 'https://github.com/filiparag/wikiman'
+license: 'MIT'
+desc:
+  cn: 通用的离线文档搜索引擎，支持 man 手册、tldr-pages、ArchWiki、Gentoo Wiki、DevDocs 和 FreeBSD 文档
+  en: 'Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation'
+x:
+  source: https://github.com/filiparag/wikiman
+  eget: https://github.com/filiparag/wikiman
+rule:
+  /eget:
+    cmd: x eget filiparag/wikiman
+    reference: https://github.com/filiparag/wikiman
+binlist:
+  - 'wikiman'

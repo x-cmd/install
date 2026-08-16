@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/RightNow-AI/openfang
+license: apache-2.0
+desc:
+  cn: 按计划运行自主 Agent，执行研究、线索生成、社交媒体管理等持续性任务
+  en: Run autonomous agents on schedules to perform continuous tasks like research, lead generation, and social media management.
+x:
+  source: https://github.com/RightNow-AI/openfang
+  eget: https://github.com/RightNow-AI/openfang
+rule:
+  /eget:
+    cmd: x eget RightNow-AI/openfang
+    reference: https://github.com/RightNow-AI/openfang
+binlist:
+- openfang

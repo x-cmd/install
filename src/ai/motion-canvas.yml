@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/motion-canvas/motion-canvas
+license: mit
+desc:
+  cn: 用 TypeScript 生成器编程式驱动矢量动画,并配实时预览编辑器,可与旁白音频同步
+  en: Programmatically create vector animations and synchronize them to audio using a TypeScript library and a real-time preview editor.
+x:
+  source: https://github.com/motion-canvas/motion-canvas
+rule:
+  /npm:
+    cmd: npm init motion-canvas@latest
+    reference: https://github.com/motion-canvas/motion-canvas
+    dsnap: '@motion-canvas/create'
+binlist:
+  - motion-canvas

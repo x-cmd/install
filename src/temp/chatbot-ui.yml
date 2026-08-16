@@ -1,0 +1,21 @@
+lang: TypeScript
+homepage: https://github.com/mckaywrigley/chatbot-ui
+license: MIT
+desc:
+  cn: 适用于每个模型的人工智能聊天
+  en: AI chat for every model
+x:
+  source: https://github.com/mckaywrigley/chatbot-ui
+rule:
+  /npm:
+    cmd: 'git clone https://github.com/mckaywrigley/chatbot-ui.git \
+
+      && cd chatbot-ui/ \
+
+      && npm install
+
+      '
+    reference: https://github.com/mckaywrigley/chatbot-ui?tab=readme-ov-file#local-quickstart
+    dsnap: chatbot-ui
+binlist:
+- chatbot-ui

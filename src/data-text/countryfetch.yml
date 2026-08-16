@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/nik-rev/countryfetch'
+license: 'Apache-2.0'
+desc:
+  cn: 类似 Neofetch 的国家信息查询命令行工具
+  en: 'A Command-line tool similar to Neofetch for obtaining information about your country'
+x:
+  source: https://github.com/nik-rev/countryfetch
+  eget: https://github.com/nik-rev/countryfetch
+rule:
+  /eget:
+    cmd: x eget nik-rev/countryfetch
+    reference: https://github.com/nik-rev/countryfetch
+binlist:
+  - 'countryfetch'

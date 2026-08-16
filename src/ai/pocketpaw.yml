@@ -1,0 +1,16 @@
+lang: Python
+homepage: http://pocketpaw.xyz/
+license: mit
+desc:
+  cn: 30 秒部署自托管的个人 AI Agent，开源、带桌面安装器、多 Agent 指挥中心和七层安全防护
+  en: Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
+rule:
+  /pip:
+    cmd: pip install pocketpaw
+    reference: https://github.com/pocketpaw/pocketpaw?tab=readme-ov-file#install-via-terminal
+    dsnap: pocketpaw
+  /pipx:
+    cmd: pipx install pocketpaw
+    reference: https://github.com/pocketpaw/pocketpaw?tab=readme-ov-file#install-via-terminal
+binlist:
+- pocketpaw

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/achristmascarl/rainfrog
+license: 'MIT'
+desc:
+  cn: 终端中的数据库工具
+  en: '🐸 a database tool for the terminal'
+x:
+  source: https://github.com/achristmascarl/rainfrog
+  eget: https://github.com/achristmascarl/rainfrog
+rule:
+  /eget:
+    cmd: x eget achristmascarl/rainfrog
+    reference: https://github.com/achristmascarl/rainfrog
+binlist:
+  - 'rainfrog'

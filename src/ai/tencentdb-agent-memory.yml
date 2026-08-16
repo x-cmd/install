@@ -1,0 +1,20 @@
+lang: TypeScript
+homepage: https://github.com/Tencent/TencentDB-Agent-Memory
+license: MIT
+desc:
+  cn: 为 AI Agent 添加分层长期记忆与符号短期记忆，降低 token 消耗并提升任务成功率
+  en: Adds layered long-term and symbolic short-term memory to AI agents to reduce token usage and improve task success.
+x:
+  source: https://github.com/Tencent/TencentDB-Agent-Memory
+rule:
+  /npm:
+    cmd: npm install -g @tencentdb-agent-memory/memory-tencentdb
+    reference: https://github.com/Tencent/TencentDB-Agent-Memory
+    dsnap: '@tencentdb-agent-memory/memory-tencentdb'
+  /git:
+    cmd: x git clone Tencent/TencentDB-Agent-Memory
+    reference: https://github.com/Tencent/TencentDB-Agent-Memory
+binlist:
+  - read-local-memory
+  - migrate-sqlite-to-tcvdb
+  - export-tencent-vdb

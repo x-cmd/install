@@ -1,0 +1,41 @@
+lang: Rust
+homepage: https://github.com/dduan/tre
+license: MIT
+desc:
+  en: A modern alternative to the tree command
+  cn: 树状结构命令的现代替代方案
+x:
+  source: https://github.com/dduan/tre
+  eget: https://github.com/dduan/tre
+rule:
+  /eget:
+    cmd: x eget dduan/tre
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+  darwin/port:
+    cmd: sudo port install tre-tree
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+  debian/apt:
+    cmd: sudo apt install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+    dsnap: tre-command
+  (win|wsl2)/scoop:
+    cmd: x scoop install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+  (win|wsl2)/winget:
+    cmd: x winget install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+  /cargo:
+    cmd: cargo install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+    dsnap: tre-command
+  arch/yay:
+    cmd: yay -S tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+  netbsd/pkgin:
+    cmd: pkgin install tre-command
+    reference: https://github.com/dduan/tre?tab=readme-ov-file#install
+binlist:
+- tre

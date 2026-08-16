@@ -1,0 +1,21 @@
+lang: C
+homepage: https://github.com/c-ares/c-ares
+license: MIT
+desc:
+  cn: c-ares 是一个用于异步 DNS 请求(包括名称解析)的 C 库
+  en: c-ares is a C library for asynchronous DNS requests (including name resolves)
+x:
+  source: https://github.com/c-ares/c-ares
+  eget: https://github.com/c-ares/c-ares
+rule:
+  /eget:
+    cmd: x eget c-ares/c-ares
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S c-ares-git
+    reference: https://aur.archlinux.org/packages/c-ares-git
+  darwin/brew:
+    cmd: brew install c-ares
+    reference: https://formulae.brew.sh/formula/c-ares#default
+binlist:
+- c-ares

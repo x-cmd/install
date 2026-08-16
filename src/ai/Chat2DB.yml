@@ -1,0 +1,15 @@
+lang: Java
+homepage: https://github.com/OtterMind/Chat2DB
+license: apache-2.0
+desc:
+  cn: AI 驱动的数据库工具与 SQL 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse 等
+  en: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+x:
+  source: https://github.com/OtterMind/Chat2DB
+  eget: https://github.com/OtterMind/Chat2DB
+rule:
+  /eget:
+    cmd: x eget OtterMind/Chat2DB
+    reference: https://github.com/OtterMind/Chat2DB
+binlist:
+- Chat2DB

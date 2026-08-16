@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/heygen-com/hyperframes
+license: apache-2.0
+desc:
+  cn: 通过 CLI 与对智能体友好的框架，从 HTML、CSS、JavaScript 动画渲染确定性 MP4 视频
+  en: Render deterministic MP4 videos from HTML, CSS, and JavaScript animations using a CLI and agent-friendly framework.
+x:
+  source: https://github.com/heygen-com/hyperframes
+rule:
+  /npm:
+    cmd: npm install -g hyperframes
+    reference: https://github.com/heygen-com/hyperframes
+    dsnap: hyperframes
+binlist:
+- hyperframes

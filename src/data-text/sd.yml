@@ -1,0 +1,29 @@
+lang: Rust
+homepage: https://github.com/chmln/sd
+license: MIT
+desc:
+  cn: sd 是一个直观的查找和替换 CLI
+  en: sd is an intuitive find & replace CLI
+x:
+  pkg:
+    exist: true
+  source: https://github.com/chmln/sd
+  eget: https://github.com/chmln/sd
+rule:
+  /x:
+    cmd: x pkg use sd
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget chmln/sd
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install sd
+    reference: https://formulae.brew.sh/formula/sd#default
+  ubuntu/apt:
+    cmd: sudo apt-get install sd
+    reference: https://command-not-found.com/sd
+  raspbian/apt:
+    cmd: sudo apt-get install sd
+    reference: https://command-not-found.com/sd
+binlist:
+- sd

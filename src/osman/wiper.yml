@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/ikebastuz/wiper'
+license: 'MIT'
+desc:
+  cn: 磁盘分析与清理工具
+  en: 'Disk analyser and cleanup tool'
+x:
+  source: https://github.com/ikebastuz/wiper
+  eget: https://github.com/ikebastuz/wiper
+rule:
+  /eget:
+    cmd: x eget ikebastuz/wiper
+    reference: https://github.com/ikebastuz/wiper
+binlist:
+  - 'wiper'

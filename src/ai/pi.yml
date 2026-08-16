@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/earendil-works/pi
+license: mit
+desc:
+  cn: AI Agent 工具集：统一 LLM API、Agent 循环、TUI 与编码 Agent CLI
+  en: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
+x:
+  source: https://github.com/earendil-works/pi
+  eget: https://github.com/earendil-works/pi
+rule:
+  /eget:
+    cmd: x eget earendil-works/pi
+    reference: https://github.com/earendil-works/pi
+binlist:
+- pi

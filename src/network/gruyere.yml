@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/savannahostrowski/gruyere
+license: 'MIT'
+desc:
+  cn: 查看并终止监听端口的小巧终端工具
+  en: '✨ A tiny (and pretty) program for viewing + killing listening ports'
+x:
+  source: https://github.com/savannahostrowski/gruyere
+  eget: https://github.com/savannahostrowski/gruyere
+rule:
+  /eget:
+    cmd: x eget savannahostrowski/gruyere
+    reference: https://github.com/savannahostrowski/gruyere
+binlist:
+  - 'gruyere'

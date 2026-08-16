@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/cosmicstack-labs/mercury-agent
+license: mit
+desc:
+  cn: 具备权限加固工具、token 预算和多通道访问的灵魂驱动型 AI Agent，可通过 CLI 或 Telegram 7x24 小时运行
+  en: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
+x:
+  source: https://github.com/cosmicstack-labs/mercury-agent
+  eget: https://github.com/cosmicstack-labs/mercury-agent
+rule:
+  /eget:
+    cmd: x eget cosmicstack-labs/mercury-agent
+    reference: https://github.com/cosmicstack-labs/mercury-agent
+binlist:
+- mercury-agent

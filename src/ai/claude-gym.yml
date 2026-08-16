@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/477-Studio/claude-gym
+license: mit
+desc:
+  cn: 监视本地日志，在长时间运行任务中提醒 Claude Code 用户做桌边锻炼
+  en: Reminds developers using Claude Code to perform deskside exercises during long-running tasks by watching local logs.
+x:
+  source: https://github.com/477-Studio/claude-gym
+  eget: https://github.com/477-Studio/claude-gym
+rule:
+  /eget:
+    cmd: x eget 477-Studio/claude-gym
+    reference: https://github.com/477-Studio/claude-gym
+binlist:
+- claude-gym

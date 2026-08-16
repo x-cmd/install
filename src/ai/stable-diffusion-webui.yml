@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/AUTOMATIC1111/stable-diffusion-webui'
+license: 'AGPL-3.0'
+desc:
+  cn: Stable Diffusion 的 Web 界面
+  en: 'Stable Diffusion web UI'
+x:
+  source: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  eget: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+rule:
+  /eget:
+    cmd: x eget AUTOMATIC1111/stable-diffusion-webui
+    reference: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+binlist:
+  - 'stable-diffusion-webui'

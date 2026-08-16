@@ -1,0 +1,30 @@
+lang: Go
+homepage: https://github.com/mvdan/gofumpt
+license: BSD-3-Clause
+desc:
+  cn: 更为严格的 gofumpt
+  en: A stricter gofmt
+x:
+  pkg:
+    exist: true
+  source: https://github.com/mvdan/gofumpt
+  eget: https://github.com/mvdan/gofumpt
+rule:
+  /x:
+    cmd: x pkg use gofumpt
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget mvdan/gofumpt
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S gofumpt-git
+    reference: https://aur.archlinux.org/packages/gofumpt-git
+  /asdf:
+    cmd: x asdf use gofumpt
+    reference: https://github.com/looztra/asdf-gofumpt
+  /go:
+    cmd: go install mvdan.cc/gofumpt@latest
+    reference: https://github.com/mvdan/gofumpt?tab=readme-ov-file#gofumpt
+    dsnap: mvdan.cc/gofumpt@latest
+binlist:
+- gofumpt

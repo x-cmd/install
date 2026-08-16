@@ -1,0 +1,19 @@
+lang: Rust
+homepage: https://github.com/sorairolake/hf
+desc:
+  en: Cross-platform hidden file library and utility
+  cn: 跨平台隐藏文件库与工具
+x:
+  source: https://github.com/sorairolake/hf
+  eget: https://github.com/sorairolake/hf
+rule:
+  /eget:
+    cmd: x eget sorairolake/hf
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install hf
+    reference: https://github.com/sorairolake/hf?tab=readme-ov-file#installation
+    dsnap: hf
+binlist:
+- hf
+license: NOASSERTION

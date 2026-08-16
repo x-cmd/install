@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/clog-tool/clog-cli
+license: MIT
+desc:
+  cn: clog 根据本地 git 元数据自动创建更改日志
+  en: clog creates a changelog automatically from your local git metadata
+x:
+  source: https://github.com/clog-tool/clog-cli
+  eget: https://github.com/clog-tool/clog-cli
+rule:
+  /eget:
+    cmd: x eget clog-tool/clog-cli
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install clog-cli
+    reference: https://github.com/clog-tool/clog-cli?tab=readme-ov-file#cargo-install
+    dsnap: clog-cli
+  arch/yay:
+    cmd: yay -S clog-bin
+    reference: https://aur.archlinux.org/packages/clog-bin
+binlist:
+- clog-cli

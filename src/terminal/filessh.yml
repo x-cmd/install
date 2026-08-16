@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/JayanAXHF/filessh
+license: 'Unlicense'
+desc:
+  cn: 面向远程服务器的快速便捷 TUI 文件浏览器
+  en: 'A fast and convenient TUI file browser for remote servers'
+x:
+  source: https://github.com/JayanAXHF/filessh
+  eget: https://github.com/JayanAXHF/filessh
+rule:
+  /eget:
+    cmd: x eget JayanAXHF/filessh
+    reference: https://github.com/JayanAXHF/filessh
+binlist:
+  - 'filessh'

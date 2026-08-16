@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/txthinking/mad
+license: MIT
+desc:
+  cn: 为任何域名和 IP 签发证书
+  en: Generate root CA and derivative certificate for any domains and any IPs
+x:
+  source: https://github.com/txthinking/mad
+  eget: https://github.com/txthinking/mad
+rule:
+  /eget:
+    cmd: x eget txthinking/mad
+    reference: https://x-cmd.com/mod/eget
+  /nami:
+    cmd: nami install mad
+    reference: https://github.com/txthinking/mad?tab=readme-ov-file#install-via-nami
+binlist:
+- mad

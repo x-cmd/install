@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/orlangure/gocovsh'
+license: 'GPL-3.0'
+desc:
+  cn: 在终端中浏览 Go 覆盖率报告的工具
+  en: 'Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻'
+x:
+  source: https://github.com/orlangure/gocovsh
+  eget: https://github.com/orlangure/gocovsh
+rule:
+  /eget:
+    cmd: x eget orlangure/gocovsh
+    reference: https://github.com/orlangure/gocovsh
+binlist:
+  - 'gocovsh'

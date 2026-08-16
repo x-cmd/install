@@ -1,0 +1,14 @@
+lang: rust
+homepage: https://github.com/ljh-sh/chardet
+license: apache-2.0
+desc:
+  cn: 通过 chardetng 检测文本文件编码的 CLI——先查 BOM 再用启发式，输出编码名、置信度和路径
+  en: Detect text file encoding via chardetng — BOM-aware, single-binary Rust CLI; prints encoding, confidence, and path
+x:
+  source: https://github.com/ljh-sh/chardet
+rule:
+  /cargo:
+    cmd: cargo install chardet-cli
+    reference: https://github.com/ljh-sh/chardet
+binlist:
+- chardet

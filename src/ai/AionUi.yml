@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/iOfficeAI/AionUi
+license: apache-2.0
+desc:
+  cn: 面向 OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI 等 20+ CLI 的免费本地开源 7x24 协同应用，支持自定义助手
+  en: Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+x:
+  source: https://github.com/iOfficeAI/AionUi
+  eget: https://github.com/iOfficeAI/AionUi
+rule:
+  /eget:
+    cmd: x eget iOfficeAI/AionUi
+    reference: https://github.com/iOfficeAI/AionUi
+binlist:
+- AionUi

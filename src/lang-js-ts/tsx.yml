@@ -1,0 +1,20 @@
+homepage: https://github.com/privatenumber/tsx#readme
+license: MIT
+lang: JavaScript
+desc:
+  en: A CLI for running TypeScript and ESM seamlessly (tsx is a standalone binary designed to replace node)
+  cn: 一个用于无缝运行 TypeScript 和 ESM 的 CLI（tsx 是一个独立的二进制文件，设计用于替代 node）
+x:
+  pkg:
+    exist: true
+  source: https://github.com/privatenumber/tsx#readme
+rule:
+  /x:
+    cmd: x pkg use tsx
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install --global tsx
+    reference: https://github.com/privatenumber/tsx?tab=readme-ov-file#global-installation
+    dsnap: tsx
+binlist:
+- tsx

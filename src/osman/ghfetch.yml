@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/orangekame3/ghfetch'
+license: 'MIT'
+desc:
+  cn: ghfetch 是抓取 GitHub 用户信息并以 neofetch 风格展示的 CLI 工具
+  en: ':octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.'
+x:
+  source: https://github.com/orangekame3/ghfetch
+  eget: https://github.com/orangekame3/ghfetch
+rule:
+  /eget:
+    cmd: x eget orangekame3/ghfetch
+    reference: https://github.com/orangekame3/ghfetch
+binlist:
+  - 'ghfetch'

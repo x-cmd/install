@@ -1,0 +1,28 @@
+lang: C
+homepage: https://github.com/openssh/openssh-portable
+desc:
+  cn: OpenSSH 是使用 SSH 协议进行远程登录的连接工具
+  en: OpenSSH is the premier connectivity tool for remote login with the SSH protocol
+x:
+  source: https://github.com/openssh/openssh-portable
+rule:
+  darwin/brew:
+    cmd: brew install openssh
+    reference: https://formulae.brew.sh/formula/openssh
+  alpine/apk:
+    cmd: sudo apk add openssh
+    reference: https://www.cyberciti.biz/faq/how-to-install-openssh-server-on-alpine-linux-including-docker/
+    dsnap: openssh
+  arch/pacman:
+    cmd: sudo pacman -Sy openssh
+    reference: https://www.unixmen.com/how-to-install-openssh-in-archinux/
+  fedora/dnf:
+    cmd: sudo dnf -y install openssh
+    reference: https://installati.one/fedora/34/openssh/
+    dsnap: openssh
+  opensuse/zypper:
+    cmd: sudo zypper install openssh
+    reference: https://linuxways.net/opensuse/how-to-enable-ssh-on-opensuse/
+binlist:
+- openssh
+license: NOASSERTION

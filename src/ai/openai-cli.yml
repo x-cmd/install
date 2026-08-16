@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/peterdemin/openai-cli
+license: mit
+desc:
+  cn: OpenAI API 的命令行客户端
+  en: Command-line client for OpenAI APIs
+x:
+  source: https://github.com/peterdemin/openai-cli
+rule:
+  /pip:
+    cmd: pip install openai-cli
+    reference: https://pypi.org/project/openai-cli/
+    dsnap: openai-cli
+binlist:
+- openai-cli

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/PaddlePaddle/PaddleOCR
+license: apache-2.0
+desc:
+  cn: 从图片和 PDF 中提取结构化文本、表格和公式，使其适配 LLM 处理
+  en: Extracts structured text, tables, and formulas from images and PDF documents to make them LLM-ready.
+x:
+  source: https://github.com/PaddlePaddle/PaddleOCR
+rule:
+  /pip:
+    cmd: pip install paddleocr
+    reference: https://github.com/PaddlePaddle/PaddleOCR
+    dsnap: paddleocr
+binlist:
+- paddleocr

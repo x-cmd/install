@@ -1,0 +1,17 @@
+lang: JavaScript
+homepage: https://github.com/typicode/husky
+license: MIT
+desc:
+  cn: Git hooks 管理工具
+  en: Git hooks made easy
+x:
+  source: https://github.com/typicode/husky
+rule:
+  /npx:
+    cmd: npx husky init
+    reference: https://github.com/typicode/husky?tab=readme-ov-file#install
+  arch/yay:
+    cmd: yay -S husky
+    reference: https://aur.archlinux.org/packages/husky
+binlist:
+- husky

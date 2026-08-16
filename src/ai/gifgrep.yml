@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/gifgrep
+license: mit
+desc:
+  cn: 用 grep 的方式搜索 GIF
+  en: Grep the GIF. Stick the landing.
+x:
+  source: https://github.com/steipete/gifgrep
+  eget: https://github.com/steipete/gifgrep
+rule:
+  /eget:
+    cmd: x eget steipete/gifgrep
+    reference: https://github.com/steipete/gifgrep
+binlist:
+- gifgrep

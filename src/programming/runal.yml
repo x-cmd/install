@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/emprcl/runal
+license: 'MIT'
+desc:
+  cn: 面向终端的创意编程环境
+  en: 'a creative coding environment for the terminal :fireworks:'
+x:
+  source: https://github.com/emprcl/runal
+  eget: https://github.com/emprcl/runal
+rule:
+  /eget:
+    cmd: x eget emprcl/runal
+    reference: https://github.com/emprcl/runal
+binlist:
+  - 'runal'

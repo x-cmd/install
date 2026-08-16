@@ -1,0 +1,24 @@
+lang: Lua
+homepage: https://github.com/d2learn/xlings
+license: Apache-2.0
+desc:
+  cn: 一个用于编程开发、学习和课程搭建的开发者工具集
+  en: A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+x:
+  source: https://github.com/d2learn/xlings
+  eget: https://github.com/d2learn/xlings
+rule:
+  /eget:
+    cmd: x eget d2learn/xlings
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://d2learn.org/xlings-install.sh | bash
+    reference: https://github.com/d2learn/xlings?tab=readme-ov-file#linux
+  /wget:
+    cmd: wget https://d2learn.org/xlings-install.sh -O - | bash
+    reference: https://github.com/d2learn/xlings?tab=readme-ov-file#linux
+  win/powershell:
+    cmd: x pwsh Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt' -UseBasicParsing).Content
+    reference: https://github.com/d2learn/xlings?tab=readme-ov-file#windows---powershell
+binlist:
+- xlings

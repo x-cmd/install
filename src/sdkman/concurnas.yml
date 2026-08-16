@@ -1,0 +1,23 @@
+lang: Java
+homepage: https://github.com/Concurnas/Concurnas
+license: MIT
+desc:
+  cn: concurnas 是一种开源编程语言，旨在构建可靠、可扩展、高性能的并发、分布式和并行系统
+  en: Concurnas is an open source programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
+x:
+  pkg:
+    exist: true
+  source: https://github.com/Concurnas/Concurnas
+  eget: https://github.com/Concurnas/Concurnas
+rule:
+  /eget:
+    cmd: x eget Concurnas/Concurnas
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use concurnas
+    reference: https://x-cmd.com/install/
+  /sdk:
+    cmd: sdk install concurnas
+    reference: https://concurnas.com/download
+binlist:
+- concurnas

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/linkdd/regname'
+license: 'MIT'
+desc:
+  cn: Rust 编写的批量重命名 TUI
+  en: 'Mass renamer TUI written in Rust'
+x:
+  source: https://github.com/linkdd/regname
+  eget: https://github.com/linkdd/regname
+rule:
+  /eget:
+    cmd: x eget linkdd/regname
+    reference: https://github.com/linkdd/regname
+binlist:
+  - 'regname'

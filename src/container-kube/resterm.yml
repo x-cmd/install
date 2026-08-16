@@ -1,0 +1,21 @@
+lang: 'Go'
+homepage: 'https://github.com/unkn0wn-root/resterm'
+license: 'Apache-2.0'
+desc:
+  cn: 支持 HTTP/GraphQL/gRPC、SSH 隧道、WebSocket、SSE、OpenAPI 及 K8s 端口转发的终端 API 客户端
+  en: 'Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.'
+x:
+  source: https://github.com/unkn0wn-root/resterm
+  eget: https://github.com/unkn0wn-root/resterm
+rule:
+  darwin/brew:
+    cmd: 'brew install jq'
+    reference: https://github.com/unkn0wn-root/resterm
+  debian/apt:
+    cmd: 'sudo apt install jq'
+    reference: https://github.com/unkn0wn-root/resterm
+  /eget:
+    cmd: x eget unkn0wn-root/resterm
+    reference: https://github.com/unkn0wn-root/resterm
+binlist:
+  - 'resterm'

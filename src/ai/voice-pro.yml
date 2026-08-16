@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/abus-aikorea/voice-pro
+license: gpl-3.0
+desc:
+  cn: 免费自托管的 Web 应用，支持语音克隆，可对音视频内容进行转录、翻译和配音
+  en: Transcribe, translate, and dub audio or video content with voice cloning using a free, self-hosted web application.
+x:
+  source: https://github.com/abus-aikorea/voice-pro
+rule:
+  /git:
+    cmd: x git clone abus-aikorea/voice-pro
+    reference: https://github.com/abus-aikorea/voice-pro#-installation
+binlist:
+- voice-pro

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/Gitlawb/openclaude
+license: other
+desc:
+  cn: 随处运行，调用任意模型
+  en: runs anywhere. uses anything
+x:
+  source: https://github.com/Gitlawb/openclaude
+  eget: https://github.com/Gitlawb/openclaude
+rule:
+  /eget:
+    cmd: x eget Gitlawb/openclaude
+    reference: https://github.com/Gitlawb/openclaude
+binlist:
+- openclaude

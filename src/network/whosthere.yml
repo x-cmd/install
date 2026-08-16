@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/ramonvermeulen/whosthere'
+license: 'Apache-2.0'
+desc:
+  cn: Go 编写的局域网发现工具，带交互式 TUI
+  en: 'Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who''s there? 🚪'
+x:
+  source: https://github.com/ramonvermeulen/whosthere
+  eget: https://github.com/ramonvermeulen/whosthere
+rule:
+  /eget:
+    cmd: x eget ramonvermeulen/whosthere
+    reference: https://github.com/ramonvermeulen/whosthere
+binlist:
+  - 'whosthere'

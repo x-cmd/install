@@ -1,0 +1,19 @@
+lang: Python
+homepage: https://github.com/joknarf/pgtree
+license: MIT
+desc:
+  cn: 用于特定进程的类 Unix 进程层次结构树显示工具。
+  en: A unix process hierarchy tree display tool for specific processes.
+x:
+  source: https://github.com/joknarf/pgtree
+  eget: https://github.com/joknarf/pgtree
+rule:
+  /eget:
+    cmd: x eget joknarf/pgtree
+    reference: https://x-cmd.com/mod/eget
+  /pip:
+    cmd: pip install pgtree
+    reference: https://github.com/joknarf/pgtree#installation
+    dsnap: pgtree
+binlist:
+- pgtree

@@ -1,0 +1,18 @@
+lang: Rust
+homepage: https://github.com/saidutt46/domain-check
+desc:
+  cn: 支持 1200+ TLD 的通用域名可用性查询器，含 RDAP/WHOIS 回退及 MCP 服务
+  en: Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
+x:
+  source: https://github.com/saidutt46/domain-check
+  eget: https://github.com/saidutt46/domain-check
+rule:
+  /cargo:
+    cmd: cargo install domain-check
+    reference: https://github.com/saidutt46/domain-check
+  /eget:
+    cmd: x eget saidutt46/domain-check
+    reference: https://github.com/saidutt46/domain-check
+binlist:
+- domain-check
+license: NOASSERTION

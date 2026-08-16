@@ -1,0 +1,24 @@
+lang: Rust
+homepage: https://github.com/bytecodealliance/jco
+license: Apache-2.0
+desc:
+  cn: 用于使用 WebAssembly 组件的 JavaScript 工具
+  en: JavaScript tooling for working with WebAssembly Components
+x:
+  pkg:
+    exist: true
+  source: https://github.com/bytecodealliance/jco
+  eget: https://github.com/bytecodealliance/jco
+rule:
+  /eget:
+    cmd: x eget bytecodealliance/jco
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use jco
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install @bytecodealliance/jco
+    reference: https://github.com/bytecodealliance/jco?tab=readme-ov-file#installation
+    dsnap: '@bytecodealliance/jco'
+binlist:
+- jco

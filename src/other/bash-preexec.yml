@@ -1,0 +1,23 @@
+lang: Shell
+homepage: https://github.com/rcaloras/bash-preexec
+license: MIT
+desc:
+  en: preexec and precmd functions for Bash just like Zsh.
+  cn: Bash 的 preexec 和 precmd 函数就像 Zsh 一样。
+x:
+  pkg:
+    exist: true
+  source: https://github.com/rcaloras/bash-preexec
+rule:
+  /x:
+    cmd: x pkg use bash-preexec
+    reference: https://x-cmd.com/install/
+  /curl:
+    cmd: 'curl https://raw.githubusercontent.com/rcaloras/bash-preexec/master/bash-preexec.sh -o ~/.bash-preexec.sh
+
+      echo ''[[ -f ~/.bash-preexec.sh ]] && source ~/.bash-preexec.sh'' >> ~/.bashrc
+
+      '
+    reference: https://github.com/rcaloras/bash-preexec#install
+binlist:
+- bash-preexec

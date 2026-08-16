@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/ggml-org/whisper.cpp'
+license: 'MIT'
+desc:
+  cn: OpenAI Whisper 模型的 C/C++ 移植版
+  en: 'Port of OpenAI''s Whisper model in C/C++'
+x:
+  source: https://github.com/ggml-org/whisper.cpp
+  eget: https://github.com/ggml-org/whisper.cpp
+rule:
+  /eget:
+    cmd: x eget ggml-org/whisper.cpp
+    reference: https://github.com/ggml-org/whisper.cpp
+binlist:
+  - 'whisper.cpp'

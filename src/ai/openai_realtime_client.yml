@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/run-llama/openai_realtime_client
+license: mit
+desc:
+  cn: 用于在 Python 中与 OpenAI Realtime API 交互的简单客户端与工具集
+  en: A simple client and utils for interacting with OpenAI's Realtime API in Python
+x:
+  source: https://github.com/run-llama/openai_realtime_client
+  eget: https://github.com/run-llama/openai_realtime_client
+rule:
+  /eget:
+    cmd: x eget run-llama/openai_realtime_client
+    reference: https://github.com/run-llama/openai_realtime_client
+binlist:
+- openai_realtime_client

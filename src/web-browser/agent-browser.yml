@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/vercel-labs/agent-browser
+license: apache-2.0
+desc:
+  cn: 面向 AI Agent 的浏览器自动化 CLI
+  en: Browser automation CLI for AI agents
+x:
+  source: https://github.com/vercel-labs/agent-browser
+  eget: https://github.com/vercel-labs/agent-browser
+rule:
+  /eget:
+    cmd: x eget vercel-labs/agent-browser
+    reference: https://github.com/vercel-labs/agent-browser
+binlist:
+- agent-browser

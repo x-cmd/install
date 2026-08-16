@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/azat/chdig'
+license: 'MIT'
+desc:
+  cn: 用 TUI 深入探查 ClickHouse
+  en: 'Dig into ClickHouse with TUI interface.'
+x:
+  source: https://github.com/azat/chdig
+  eget: https://github.com/azat/chdig
+rule:
+  /eget:
+    cmd: x eget azat/chdig
+    reference: https://github.com/azat/chdig
+binlist:
+  - 'chdig'

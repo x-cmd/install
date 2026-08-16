@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/langgenius/dify
+license: other
+desc:
+  cn: 面向智能体工作流开发的生产级平台
+  en: Production-ready platform for agentic workflow development.
+x:
+  source: https://github.com/langgenius/dify
+  eget: https://github.com/langgenius/dify
+rule:
+  /eget:
+    cmd: x eget langgenius/dify
+    reference: https://github.com/langgenius/dify
+binlist:
+- dify

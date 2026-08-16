@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/InsForge/InsForge
+license: apache-2.0
+desc:
+  cn: 对智能体友好的后端平台，让 AI 直接配置数据库、认证、存储与 Serverless 函数
+  en: Provide an agent-friendly backend platform that allows AI to directly configure databases, authentication, storage, and serverless functions.
+x:
+  source: https://github.com/InsForge/InsForge
+rule:
+  /git:
+    cmd: x git clone InsForge/InsForge
+    reference: https://github.com/InsForge/InsForge
+binlist:
+- insforge

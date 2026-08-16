@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/appleboy/CodeGPT
+license: mit
+desc:
+  cn: Go 编写的 CLI，借助 ChatGPT（gpt-4.1、gpt-4o）生成 git 提交信息或代码评审摘要，并自动安装 prepare-commit-msg 钩子
+  en: A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
+x:
+  source: https://github.com/appleboy/CodeGPT
+  eget: https://github.com/appleboy/CodeGPT
+rule:
+  /eget:
+    cmd: x eget appleboy/CodeGPT
+    reference: https://github.com/appleboy/CodeGPT
+binlist:
+- CodeGPT

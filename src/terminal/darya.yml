@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/mrkatebzadeh/darya
+desc:
+  cn: 带 TUI 和实时矩形树的磁盘占用分析器
+  en: Disk usage explorer with a TUI and live treemap
+x:
+  source: https://github.com/mrkatebzadeh/darya
+  eget: https://github.com/mrkatebzadeh/darya
+rule:
+  /eget:
+    cmd: x eget mrkatebzadeh/darya
+    reference: https://github.com/mrkatebzadeh/darya
+binlist:
+- darya
+license: NOASSERTION

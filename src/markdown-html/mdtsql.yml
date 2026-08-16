@@ -1,0 +1,30 @@
+lang: Go
+homepage: https://github.com/noborus/mdtsql
+license: MIT
+desc:
+  cn: 执行 SQL 查询并将结果转换为 Markdown 表的 CLI 工具
+  en: A CLI tool that executes SQL queries and converts the results into a Markdown table
+x:
+  pkg:
+    exist: true
+  source: https://github.com/noborus/mdtsql
+  eget: https://github.com/noborus/mdtsql
+rule:
+  /x:
+    cmd: x pkg use mdtsql
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget noborus/mdtsql
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S mdtsql-bin
+    reference: https://aur.archlinux.org/packages/mdtsql-bin
+  darwin/brew:
+    cmd: brew install noborus/tap/mdtsql
+    reference: https://github.com/noborus/mdtsql?tab=readme-ov-file#homebrew
+  /go:
+    cmd: go install github.com/noborus/mdtsql/cmd/mdtsql@latest
+    reference: https://github.com/noborus/mdtsql?tab=readme-ov-file#go-install
+    dsnap: github.com/noborus/mdtsql/cmd/mdtsql@latest
+binlist:
+- mdtsql

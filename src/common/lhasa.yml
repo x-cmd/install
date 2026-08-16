@@ -1,0 +1,41 @@
+lang: C
+homepage: https://github.com/fragglet/lhasa
+license: ISC
+desc:
+  cn: Lhasa 是用于解析 LHA（.lzh）、LArc（.lzs）和 PMarc（.pma）档案的库与 CLI 工具，Unix LHA 工具的纯 FOSS（ISC）替代品。CLI 二进制名字故意是 `lha`（upstream Makefile.am `bin_PROGRAMS=lha`），与原 LHa for UNIX 命令接口兼容；安装后运行 `lha` 而不是 `lhasa`。
+  en: Lhasa is a library + CLI for parsing LHA (.lzh), LArc (.lzs) and PMarc (.pma) archives — pure FOSS (ISC) replacement for the non-free Unix LHA tool. The CLI binary is intentionally named `lha` (upstream Makefile.am `bin_PROGRAMS=lha`) to mirror the original LHa for UNIX command; after install, run `lha`, not `lhasa`.
+x:
+  source: https://github.com/fragglet/lhasa
+  eget: https://github.com/ljh-sh/lhasa
+rule:
+  /eget:
+    cmd: x eget ljh-sh/lhasa
+    reference: https://github.com/ljh-sh/lhasa
+  arch/yay:
+    cmd: yay -S lhasa-git
+    reference: https://aur.archlinux.org/packages/lhasa-git
+  debian/apt:
+    cmd: sudo apt install lhasa
+    reference: https://fragglet.github.io/lhasa/
+    dsnap: lhasa
+  ubuntu/apt:
+    cmd: sudo apt install lhasa
+    reference: https://fragglet.github.io/lhasa/
+    dsnap: lhasa
+  freebsd/pkg:
+    cmd: pkg install archivers/lhasa
+    reference: https://fragglet.github.io/lhasa/
+  darwin/brew:
+    cmd: brew install lhasa
+    reference: https://fragglet.github.io/lhasa/
+  netbsd/pkgin:
+    cmd: pkgin install lhasa
+    reference: https://fragglet.github.io/lhasa/
+  opensuse/zypper:
+    cmd: sudo zypper install lhasa
+    reference: https://fragglet.github.io/lhasa/
+  void/xbps-install:
+    cmd: sudo xbps-install lhasa
+    reference: https://fragglet.github.io/lhasa/
+binlist:
+  - lha

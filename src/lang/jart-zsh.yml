@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/zsh
+license: noassertion
+desc:
+  cn: 支持真正可移植可执行文件的 zsh 补丁版本
+  en: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
+x:
+  source: https://github.com/jart/zsh
+  eget: https://github.com/jart/zsh
+rule:
+  /eget:
+    cmd: x eget jart/zsh
+    reference: https://github.com/jart/zsh
+binlist:
+- zsh

@@ -1,0 +1,15 @@
+lang: C#
+homepage: https://github.com/QuantConnect/Lean
+license: apache-2.0
+desc:
+  cn: "使用开源引擎本地开发、回测并部署算法交易策略,支持 C# 和 Python"
+  en: Develop, backtest, and deploy algorithmic trading strategies locally using an open-source engine that supports C# and Python.
+x:
+  source: https://github.com/QuantConnect/Lean
+  eget: https://github.com/QuantConnect/Lean
+rule:
+  /eget:
+    cmd: x eget QuantConnect/Lean
+    reference: https://github.com/QuantConnect/Lean
+binlist:
+- lean

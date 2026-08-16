@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/hanebox/ekphos
+license: 'MIT'
+desc:
+  cn: 受 Obsidian 启发的轻量快速终端 Markdown 研究工具
+  en: 'A lightweight, fast, terminal-based markdown research tool inspired by Obsidian'
+x:
+  source: https://github.com/hanebox/ekphos
+  eget: https://github.com/hanebox/ekphos
+rule:
+  /eget:
+    cmd: x eget hanebox/ekphos
+    reference: https://github.com/hanebox/ekphos
+binlist:
+  - 'ekphos'

@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/StakeSquid/dtop
+license: 'MIT'
+desc:
+  cn: 高性能的 Docker 容器管理终端 UI，支持实时监控与日志查看
+  en: 'A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.'
+x:
+  source: https://github.com/StakeSquid/dtop
+  eget: https://github.com/StakeSquid/dtop
+rule:
+  /eget:
+    cmd: x eget StakeSquid/dtop
+    reference: https://github.com/StakeSquid/dtop
+binlist:
+  - 'dtop'

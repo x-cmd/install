@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/smtg-ai/claude-squad
+license: agpl-3.0
+desc:
+  cn: 管理多个 AI 终端 Agent，如 Claude Code、Codex、OpenCode、Amp
+  en: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+x:
+  source: https://github.com/smtg-ai/claude-squad
+  eget: https://github.com/smtg-ai/claude-squad
+rule:
+  /eget:
+    cmd: x eget smtg-ai/claude-squad
+    reference: https://github.com/smtg-ai/claude-squad
+binlist:
+- claude-squad

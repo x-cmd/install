@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/MAIF/yozefu
+desc:
+  cn: 探索 Kafka 集群数据的交互式终端 UI
+  en: An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
+x:
+  source: https://github.com/MAIF/yozefu
+  eget: https://github.com/MAIF/yozefu
+rule:
+  /eget:
+    cmd: x eget MAIF/yozefu
+    reference: https://github.com/MAIF/yozefu
+binlist:
+- yozefu
+license: NOASSERTION

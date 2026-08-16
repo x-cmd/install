@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Lissy93/AdGuardian-Term
+license: 'MIT'
+desc:
+  cn: 面向 AdGuard Home 实例的终端实时流量监控与统计工具
+  en: '🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance'
+x:
+  source: https://github.com/Lissy93/AdGuardian-Term
+  eget: https://github.com/Lissy93/AdGuardian-Term
+rule:
+  /eget:
+    cmd: x eget Lissy93/AdGuardian-Term
+    reference: https://github.com/Lissy93/AdGuardian-Term
+binlist:
+  - 'adguardian-term'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/am2rican5/sigye'
+license: 'MIT'
+desc:
+  cn: ASCII 艺术字体的终端时钟
+  en: 'A beautiful terminal clock with ASCII art fonts'
+x:
+  source: https://github.com/am2rican5/sigye
+  eget: https://github.com/am2rican5/sigye
+rule:
+  /eget:
+    cmd: x eget am2rican5/sigye
+    reference: https://github.com/am2rican5/sigye
+binlist:
+  - 'sigye'

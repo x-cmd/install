@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/Bahaaio/pomo'
+license: 'MIT'
+desc:
+  cn: 可定制的 TUI 番茄钟，含 ASCII 艺术、进度条、桌面通知与效率统计
+  en: 'Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.'
+x:
+  source: https://github.com/Bahaaio/pomo
+  eget: https://github.com/Bahaaio/pomo
+rule:
+  /eget:
+    cmd: x eget Bahaaio/pomo
+    reference: https://github.com/Bahaaio/pomo
+binlist:
+  - 'pomo'

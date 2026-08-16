@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/ulissesf/qmassa
+license: 'Apache-2.0'
+desc:
+  cn: Linux GPU 状态监控的 Rust 工具
+  en: 'Rust tools to monitor GPU stats on Linux'
+x:
+  source: https://github.com/ulissesf/qmassa
+  eget: https://github.com/ulissesf/qmassa
+rule:
+  /eget:
+    cmd: x eget ulissesf/qmassa
+    reference: https://github.com/ulissesf/qmassa
+binlist:
+  - 'qmassa'

@@ -1,0 +1,32 @@
+lang: Go
+homepage: https://github.com/scmmishra/slick-deploy
+license: MIT
+desc:
+  cn: 使用 Caddy 以声明方式部署容器的 CLI 工具
+  en: CLI tool to declaratively deploy containers with Caddy
+x:
+  pkg:
+    exist: true
+  source: https://github.com/scmmishra/slick-deploy
+  eget: https://github.com/scmmishra/slick-deploy
+rule:
+  /x:
+    cmd: x pkg use slick
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget scmmishra/slick-deploy
+    reference: https://x-cmd.com/mod/eget
+  /build:
+    cmd: 'git clone https://github.com/scmmishra/slick-deploy.git \
+
+      && cd slick-deploy \
+
+      && make install
+
+      '
+    reference: https://github.com/scmmishra/slick-deploy?tab=readme-ov-file#installing
+  /curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/scmmishra/slick-deploy/main/scripts/install.sh | bash
+    reference: https://github.com/scmmishra/slick-deploy?tab=readme-ov-file#installing
+binlist:
+- slick

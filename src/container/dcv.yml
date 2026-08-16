@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/tokuhirom/dcv
+desc:
+  cn: docker-compose 的 TUI 查看器
+  en: TUI viewer for docker-compose
+x:
+  source: https://github.com/tokuhirom/dcv
+  eget: https://github.com/tokuhirom/dcv
+rule:
+  /eget:
+    cmd: x eget tokuhirom/dcv
+    reference: https://github.com/tokuhirom/dcv
+binlist:
+- dcv
+license: NOASSERTION

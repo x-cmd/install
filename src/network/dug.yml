@@ -1,0 +1,30 @@
+lang: C
+homepage: https://github.com/unfrl/dug
+license: MIT
+desc:
+  cn: 一个基于 CLI 的 DNS 传播检查器，具有美观的输出。
+  en: A CLI based DNS propagation checker with attractive output.
+x:
+  source: https://github.com/unfrl/dug
+  eget: https://github.com/unfrl/dug
+rule:
+  /eget:
+    cmd: x eget unfrl/dug
+    reference: https://x-cmd.com/mod/eget
+  /snap:
+    cmd: sudo snap install unfrl-dug
+    reference: https://github.com/mehrdad-f/dug#installation
+  arch/pacman:
+    cmd: sudo pacman -S dug
+    reference: https://github.com/mehrdad-f/dug#installation
+  arch/yay:
+    cmd: yay -S unfrl-dug-bin
+    reference: https://aur.archlinux.org/packages/unfrl-dug-bin
+  /brew:
+    cmd: brew install dug
+    reference: https://github.com/mehrdad-f/dug#installation
+  (win|wsl2)/choco:
+    cmd: x choco install dug
+    reference: https://github.com/mehrdad-f/dug#installation
+binlist:
+- dug

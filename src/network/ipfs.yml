@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/ipfs/kubo
+desc:
+  cn: IPFS 是一个开放的、无需中心服务器就能管理数据的系统。它用途广泛，在各行各业都大放异彩，堪称去中心化时代的万能工具。
+  en: IPFS is an open system to manage data without a central server. IPFS's versatility shines across different industries – making it the multi-purpose tool for the decentralized age.
+x:
+  source: https://github.com/ipfs/kubo
+  eget: https://github.com/ipfs/kubo
+rule:
+  /eget:
+    cmd: x eget ipfs/kubo
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install ipfs
+    reference: https://formulae.brew.sh/formula/ipfs#default
+  arch/pacman:
+    cmd: sudo pacman -S go-ipfs
+    reference: https://command-not-found.com/ipfs
+binlist:
+- ipfs
+license: NOASSERTION

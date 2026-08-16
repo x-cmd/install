@@ -1,0 +1,30 @@
+lang: Rust
+homepage: https://github.com/altsem/gitu
+license: MIT
+desc:
+  cn: 受 Magit 启发的 TUI Git 客户端
+  en: A TUI Git client inspired by Magit
+x:
+  pkg:
+    exist: true
+  source: https://github.com/altsem/gitu
+  eget: https://github.com/altsem/gitu
+rule:
+  /x:
+    cmd: x pkg use gitu
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget altsem/gitu
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install gitu --locked
+    reference: https://github.com/altsem/gitu/blob/master/docs/installing.md#using-cargo
+    dsnap: gitu
+  arch/pacman:
+    cmd: sudo pacman -S gitu
+    reference: https://github.com/altsem/gitu/blob/master/docs/installing.md#arch-linux
+  darwin/brew:
+    cmd: brew install gitu
+    reference: https://formulae.brew.sh/formula/gitu#default
+binlist:
+- gitu

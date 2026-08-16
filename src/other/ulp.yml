@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/victal/ulp
+license: MIT
+desc:
+  cn: Ulp 是一个命令行工具，可用于查找给定输入的 URL 并与之交互。
+  en: Ulp is a command-line tool that can be used to find and interact with URLs from a given input.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/victal/ulp
+rule:
+  /x:
+    cmd: x pkg use ulp
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install -U ulp
+    reference: https://github.com/victal/ulp#installing
+    dsnap: ulp
+binlist:
+- ulp

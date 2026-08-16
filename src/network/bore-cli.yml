@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/ekzhang/bore
+license: MIT
+desc:
+  cn: Rust 编写的 TCP 隧道工具
+  en: A modern, simple TCP tunnel in Rust
+x:
+  source: https://github.com/ekzhang/bore
+  eget: https://github.com/ekzhang/bore
+rule:
+  /eget:
+    cmd: x eget ekzhang/bore
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install bore-cli
+    reference: https://github.com/ekzhang/bore/?tab=readme-ov-file#installation
+  /cargo:
+    cmd: cargo install bore-cli
+    reference: https://github.com/ekzhang/bore/?tab=readme-ov-file#bore
+    dsnap: bore-cli
+binlist:
+- bore-cli

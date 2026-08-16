@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/meituan-longcat/LongCat-Video
+license: mit
+desc:
+  cn: 美团开源的 13.6B 参数视频生成基础模型，统一支持文本/图像/音频到视频与视频续写，擅长分钟级长视频生成，多奖励 RLHF 后性能对标商业方案。
+  en: Meituan's open-source 13.6B foundational video generation model, unifying text/image/audio-to-video and video continuation with minutes-long generation and multi-reward RLHF.
+x:
+  source: https://github.com/meituan-longcat/LongCat-Video
+rule:
+  /git:
+    cmd: x git clone meituan-longcat/LongCat-Video
+    reference: https://github.com/meituan-longcat/LongCat-Video#installation
+binlist:
+- longcat-video

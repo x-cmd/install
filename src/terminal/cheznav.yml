@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/djetelina/cheznav'
+license: 'MIT'
+desc:
+  cn: chezmoi 的 TUI 界面
+  en: 'TUI for chezmoi'
+x:
+  source: https://github.com/djetelina/cheznav
+  eget: https://github.com/djetelina/cheznav
+rule:
+  /eget:
+    cmd: x eget djetelina/cheznav
+    reference: https://github.com/djetelina/cheznav
+binlist:
+  - 'cheznav'

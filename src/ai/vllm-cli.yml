@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/Chen-zexi/vllm-cli
+license: mit
+desc:
+  cn: 基于 vLLM 提供 LLM 服务的命令行工具
+  en: A command-line interface tool for serving LLM using vLLM.
+x:
+  source: https://github.com/Chen-zexi/vllm-cli
+  eget: https://github.com/Chen-zexi/vllm-cli
+rule:
+  /eget:
+    cmd: x eget Chen-zexi/vllm-cli
+    reference: https://github.com/Chen-zexi/vllm-cli
+binlist:
+- vllm-cli

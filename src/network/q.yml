@@ -1,0 +1,56 @@
+lang: Go
+homepage: https://github.com/natesales/q
+license: GPL-3.0
+desc:
+  cn: 一个小型命令行 DNS 客户端，支持 UDP、TCP、DoT、DoH、DoQ 和 ODoH
+  en: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+x:
+  pkg:
+    exist: true
+  source: https://github.com/natesales/q
+  eget: https://github.com/natesales/q
+rule:
+  /x:
+    cmd: x pkg use q
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget natesales/q
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S q-dns
+    reference: https://aur.archlinux.org/packages/q-dns
+  /go:
+    cmd: go install github.com/natesales/q@latest
+    reference: https://github.com/natesales/q?tab=readme-ov-file#installation
+    dsnap: github.com/natesales/q@latest
+  /apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.natesales.net/apt/gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/natesales.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/natesales.gpg] https://repo.natesales.net/apt * *" | sudo tee /etc/apt/sources.list.d/natesales.list
+
+      '
+    reference: https://github.com/natesales/repo?tab=readme-ov-file#apt
+  /yum:
+    cmd: 'echo ''[natesales] \
+
+      && name=Nate Sales \
+
+      && baseurl=https://repo.natesales.net/yum/ \
+
+      && enabled=1 \
+
+      && gpgcheck=1 \
+
+      && gpgkey=https://repo.natesales.net/apt/gpg.key \
+
+      && '' | sudo tee /etc/yum.repos.d/natesales.repo \
+
+      '
+    reference: https://github.com/natesales/repo?tab=readme-ov-file#yum
+  darwin/brew:
+    cmd: brew tap natesales/repo https://github.com/natesales/repo
+    reference: https://github.com/natesales/repo?tab=readme-ov-file#brew
+binlist:
+- q

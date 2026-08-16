@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/libc-test
+license: noassertion
+desc:
+  cn: musl libc 的测试套件——验证 C 库实现正确性的回归测试集。
+  en: Test suite for musl libc — regression tests verifying C library correctness.
+x:
+  source: https://github.com/jart/libc-test
+  eget: https://github.com/jart/libc-test
+rule:
+  /eget:
+    cmd: x eget jart/libc-test
+    reference: https://github.com/jart/libc-test
+binlist:
+- libc-test

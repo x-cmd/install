@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/mrusme/reader
+license: 'GPL-3.0'
+desc:
+  cn: 命令行下的网页可读性工具，为网页与 EML 文件提供更易读的呈现
+  en: 'reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://codeberg.org/mr...'
+x:
+  source: https://github.com/mrusme/reader
+  eget: https://github.com/mrusme/reader
+rule:
+  /eget:
+    cmd: x eget mrusme/reader
+    reference: https://github.com/mrusme/reader
+binlist:
+  - 'reader'

@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/nolangz/pixel2motion
+license: mit
+desc:
+  cn: nolangz 开源的 Codex/Claude Skill，把静态像素 logo 转成干净 SVG，再生成可审查、可回放的 SVG 动效与 HTML 展示页。
+  en: nolangz's open-source Codex/Claude Skill that converts static raster logos into clean SVG and generates auditable, replayable SVG animations and HTML showcase pages.
+x:
+  source: https://github.com/nolangz/pixel2motion
+rule:
+  /git:
+    cmd: x git clone nolangz/pixel2motion && mkdir -p ~/.claude/skills && cp -r pixel2motion ~/.claude/skills/pixel2motion
+    reference: https://github.com/nolangz/pixel2motion#publishing-checklist
+binlist:
+- pixel2motion

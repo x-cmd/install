@@ -1,0 +1,21 @@
+lang: 'Go'
+homepage: 'https://github.com/lfaoro/ssm'
+license: 'MIT'
+desc:
+  cn: 快速、键盘驱动的 TUI，让 ~/.ssh/config 在大规模场景下更好用
+  en: 'A fast, keyboard-driven TUI that makes your existing ~/.ssh/config delightful to use at fleet scale.'
+x:
+  source: https://github.com/lfaoro/ssm
+  eget: https://github.com/lfaoro/ssm
+rule:
+  darwin/brew:
+    cmd: 'brew install lfaoro/tap/ssm'
+    reference: https://github.com/lfaoro/ssm
+  debian/apt:
+    cmd: 'sudo apt install ./ssm_*_linux_*.deb'
+    reference: https://github.com/lfaoro/ssm
+  /eget:
+    cmd: x eget lfaoro/ssm
+    reference: https://github.com/lfaoro/ssm
+binlist:
+  - 'ssm'

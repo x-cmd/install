@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/MervinPraison/PraisonAI
+license: mit
+desc:
+  cn: 用 5 行代码搭建 7x24 小时多智能体 AI 团队的 Python/YAML 框架，支持 100+ LLM、MCP 协议、深度研究、可视化编排与自反思。
+  en: Build and deploy autonomous, self-improving multi-agent AI systems in 5 lines of code; Python/YAML framework with 100+ LLMs, MCP, deep research, and visual orchestration.
+x:
+  source: https://github.com/MervinPraison/PraisonAI
+rule:
+  /pip:
+    cmd: pip install praisonai
+    reference: https://github.com/MervinPraison/PraisonAI
+    dsnap: praisonai
+binlist:
+- praisonai

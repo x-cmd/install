@@ -1,0 +1,15 @@
+lang: 'Ruby'
+homepage: https://github.com/noraj/haiti
+license: 'MIT'
+desc:
+  cn: 哈希类型识别工具（CLI 和库）
+  en: ':key: Hash type identifier (CLI & lib)'
+x:
+  source: https://github.com/noraj/haiti
+  eget: https://github.com/noraj/haiti
+rule:
+  /eget:
+    cmd: x eget noraj/haiti
+    reference: https://github.com/noraj/haiti
+binlist:
+  - 'haiti'

@@ -1,0 +1,23 @@
+lang: Groovy
+homepage: https://github.com/infrastructor/infrastructor
+license: GPL-3.0
+desc:
+  cn: Infrastructor 是一个用 Groovy 编程语言编写的服务器供应和配置管理工具
+  en: Infrastructor is a server provisioning and configuration management tool written in Groovy programming language
+x:
+  pkg:
+    exist: true
+  source: https://github.com/infrastructor/infrastructor
+  eget: https://github.com/infrastructor/infrastructor
+rule:
+  /eget:
+    cmd: x eget infrastructor/infrastructor
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use infrastructor
+    reference: https://x-cmd.com/install/
+  /sdk:
+    cmd: sdk install infrastructor
+    reference: https://github.com/infrastructor/infrastructor#installation
+binlist:
+- infrastructor

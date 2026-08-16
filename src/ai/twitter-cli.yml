@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/public-clis/twitter-cli
+license: apache-2.0
+desc:
+  cn: 从命令行读写 Twitter/X 时间线、书签、推文与用户资料，无需官方 API Key
+  en: Interact with Twitter/X from the command line to read timelines, manage tweets, and export data without an API key.
+x:
+  source: https://github.com/public-clis/twitter-cli
+rule:
+  /pip:
+    cmd: pip install twitter-cli
+    reference: https://pypi.org/project/twitter-cli/
+    dsnap: twitter-cli
+binlist:
+- twitter

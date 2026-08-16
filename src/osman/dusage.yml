@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/mihaigalos/dusage'
+license: 'MIT'
+desc:
+  cn: 命令行磁盘使用信息工具
+  en: '💾 A command line disk usage information tool.'
+x:
+  source: https://github.com/mihaigalos/dusage
+  eget: https://github.com/mihaigalos/dusage
+rule:
+  /eget:
+    cmd: x eget mihaigalos/dusage
+    reference: https://github.com/mihaigalos/dusage
+binlist:
+  - 'dusage'

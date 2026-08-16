@@ -1,0 +1,17 @@
+lang: Python
+homepage: https://github.com/Sophomoresty/gemini-web2api
+license: mit
+desc:
+  cn: 将 Google Gemini 网页端转换为免费、自托管、兼容 OpenAI 的 API
+  en: Convert Google Gemini's web interface into a free, self-hosted, OpenAI-compatible API for development and experimentation.
+x:
+  source: https://github.com/Sophomoresty/gemini-web2api
+rule:
+  /git:
+    cmd: x git clone Sophomoresty/gemini-web2api
+    reference: https://github.com/Sophomoresty/gemini-web2api#quick-start
+  /docker:
+    cmd: x git clone Sophomoresty/gemini-web2api && cd gemini-web2api && cp config.example.json config.json && docker compose up -d
+    reference: https://github.com/Sophomoresty/gemini-web2api#docker
+binlist:
+- gemini-web2api

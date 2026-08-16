@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/dhth/ecscope
+license: 'MIT'
+desc:
+  cn: 从终端监控 AWS ECS 资源
+  en: 'monitor AWS ECS resources from the terminal'
+x:
+  source: https://github.com/dhth/ecscope
+  eget: https://github.com/dhth/ecscope
+rule:
+  /eget:
+    cmd: x eget dhth/ecscope
+    reference: https://github.com/dhth/ecscope
+binlist:
+  - 'ecscope'

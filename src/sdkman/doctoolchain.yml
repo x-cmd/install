@@ -1,0 +1,41 @@
+lang: Groovy
+homepage: https://github.com/docToolchain/docToolchain
+license: MIT
+desc:
+  cn: Doctoolchain 是一个开源项目，致力于自动创建技术文档
+  en: docToolchain is an open source project dedicated to automating the creation of technical documentation
+x:
+  pkg:
+    exist: true
+  source: https://github.com/docToolchain/docToolchain
+  eget: https://github.com/docToolchain/docToolchain
+rule:
+  /eget:
+    cmd: x eget docToolchain/docToolchain
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use doctoolchain
+    reference: https://x-cmd.com/install/
+  /asdf:
+    cmd: x asdf use doctoolchain
+    reference: https://github.com/joschi/asdf-doctoolchain
+  /curl:
+    cmd: 'curl -Lo dtcw https://doctoolchain.org/dtcw \
+
+      && chmod +x dtcw \
+
+      && ./dtcw install doctoolchain
+
+      '
+    reference: https://doctoolchain.org/docToolchain/v2.0.x/020_tutorial/010_Install.html#install-dtc-with-dtcw
+  /wget:
+    cmd: 'wget doctoolchain.org/dtcw \
+
+      && chmod +x dtcw \
+
+      && ./dtcw install doctoolchain
+
+      '
+    reference: https://doctoolchain.org/docToolchain/v2.0.x/020_tutorial/010_Install.html#install-dtc-with-dtcw
+binlist:
+- doctoolchain

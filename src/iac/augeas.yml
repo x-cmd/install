@@ -1,0 +1,18 @@
+lang: Augeas
+homepage: https://github.com/hercules-team/augeas
+license: LGPL-2.1
+desc:
+  cn: Augeas 是一个配置编辑工具
+  en: Augeas is a configuration editing tool
+x:
+  source: https://github.com/hercules-team/augeas
+  eget: https://github.com/hercules-team/augeas
+rule:
+  /eget:
+    cmd: x eget hercules-team/augeas
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install augeas
+    reference: https://formulae.brew.sh/formula/augeas#default
+binlist:
+- augeas

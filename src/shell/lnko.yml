@@ -1,0 +1,15 @@
+lang: 'Lua'
+homepage: 'https://github.com/luanvil/lnko'
+license: 'GPL-3.0'
+desc:
+  cn: 简洁的 stow 风格 dotfile 链接器
+  en: 'Simple stow-like dotfile linker'
+x:
+  source: https://github.com/luanvil/lnko
+  eget: https://github.com/luanvil/lnko
+rule:
+  /eget:
+    cmd: x eget luanvil/lnko
+    reference: https://github.com/luanvil/lnko
+binlist:
+  - 'lnko'

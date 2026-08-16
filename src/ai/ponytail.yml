@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/DietrichGebert/ponytail
+license: mit
+desc:
+  cn: 让你的 AI Agent 像最懒的高级工程师一样思考，最好的代码是不写的代码
+  en: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+x:
+  source: https://github.com/DietrichGebert/ponytail
+  eget: https://github.com/DietrichGebert/ponytail
+rule:
+  /eget:
+    cmd: x eget DietrichGebert/ponytail
+    reference: https://github.com/DietrichGebert/ponytail
+binlist:
+- ponytail

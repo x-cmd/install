@@ -1,0 +1,27 @@
+lang: Python
+homepage: https://github.com/TencentCloud/tencentcloud-cli
+license: Apache-2.0
+desc:
+  cn: tccli 是管理腾讯云资源的命令行工具
+  en: tccli is a command-line tool for managing Tencent Cloud resources
+x:
+  pkg:
+    exist: true
+  source: https://github.com/TencentCloud/tencentcloud-cli
+rule:
+  /x:
+    cmd: x pkg use tccli
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install tccli
+    reference: https://github.com/TencentCloud/tencentcloud-cli?tab=readme-ov-file#%E5%AE%89%E8%A3%85tccli
+    dsnap: tccli
+  darwin/brew:
+    cmd: 'brew tap tencentcloud/tccli \
+
+      && brew install tccli
+
+      '
+    reference: https://github.com/TencentCloud/tencentcloud-cli?tab=readme-ov-file#%E5%AE%89%E8%A3%85tccli
+binlist:
+- tccli

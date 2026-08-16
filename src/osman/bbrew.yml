@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/Valkyrie00/bold-brew
+license: 'MIT'
+desc:
+  cn: Bold Brew — Homebrew 的 TUI 管理器
+  en: 'Bold Brew (bbrew) - A Homebrew TUI Manager'
+x:
+  source: https://github.com/Valkyrie00/bold-brew
+  eget: https://github.com/Valkyrie00/bold-brew
+rule:
+  /eget:
+    cmd: x eget Valkyrie00/bold-brew
+    reference: https://github.com/Valkyrie00/bold-brew
+binlist:
+  - 'bbrew'

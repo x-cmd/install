@@ -1,0 +1,31 @@
+lang: Go
+desc:
+  cn: 用于命令行的 Google Drive 客户端
+  en: Google Drive client for command line
+homepage: https://github.com/odeke-em/drive
+license: Apache-2.0
+x:
+  pkg:
+    exist: true
+  source: https://github.com/odeke-em/drive
+  eget: https://github.com/odeke-em/drive
+rule:
+  /x:
+    cmd: x pkg use drive
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget odeke-em/drive
+    reference: https://x-cmd.com/mod/eget
+  fedora/dnf:
+    cmd: 'sudo dnf copr enable vaughan/drive-google \
+
+      && sudo dnf install drive-google
+
+      '
+    reference: https://github.com/odeke-em/drive/blob/master/platform_packages.md#fedora-distro
+    dsnap: drive-google
+  arch/yay:
+    cmd: yay -S drive-bin
+    reference: https://github.com/odeke-em/drive/blob/master/platform_packages.md#arch-linux-or-arch-based-distros
+binlist:
+- drive

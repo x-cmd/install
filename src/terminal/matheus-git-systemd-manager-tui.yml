@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/matheus-git/systemd-manager-tui
+license: mit
+desc:
+  cn: 管理 systemd 服务的 TUI 应用
+  en: A TUI application for managing systemd services.
+x:
+  source: https://github.com/matheus-git/systemd-manager-tui
+  eget: https://github.com/matheus-git/systemd-manager-tui
+rule:
+  /eget:
+    cmd: x eget matheus-git/systemd-manager-tui
+    reference: https://github.com/matheus-git/systemd-manager-tui
+binlist:
+- systemd-manager-tui

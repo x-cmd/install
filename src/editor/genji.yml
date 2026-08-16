@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/genjidb/genji
+license: MIT
+desc:
+  cn: Markdown Genji 是创作交互式文档的 Markdown 扩展
+  en: Markdown Genji is the markdown extension for authoring interactive documents
+x:
+  source: https://github.com/genjidb/genji
+rule:
+  /npm:
+    cmd: npm install genji-theme-vitepress
+    reference: https://genji-md.dev/getting-started#installing-from-npm
+    dsnap: genji-theme-vitepress
+binlist:
+- genji

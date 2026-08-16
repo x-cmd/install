@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/Kohei-Wada/taskdog'
+license: 'MIT'
+desc:
+  cn: 智能调度优化的终端任务管理器，纯键盘操作
+  en: 'Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.'
+x:
+  source: https://github.com/Kohei-Wada/taskdog
+  eget: https://github.com/Kohei-Wada/taskdog
+rule:
+  /eget:
+    cmd: x eget Kohei-Wada/taskdog
+    reference: https://github.com/Kohei-Wada/taskdog
+binlist:
+  - 'taskdog'

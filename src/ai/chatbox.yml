@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/chatboxai/chatbox
+license: gpl-3.0
+desc:
+  cn: 强大的 AI 客户端
+  en: Powerful AI Client
+x:
+  source: https://github.com/chatboxai/chatbox
+  eget: https://github.com/chatboxai/chatbox
+rule:
+  /eget:
+    cmd: x eget chatboxai/chatbox
+    reference: https://github.com/chatboxai/chatbox
+binlist:
+- chatbox

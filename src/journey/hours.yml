@@ -1,0 +1,25 @@
+lang: Go
+homepage: https://github.com/dhth/hours
+license: MIT
+desc:
+  cn: hours 是一个用于命令行的简洁的时间跟踪工具包
+  en: hours is a no-frills time tracking toolkit for the command line.
+x:
+  source: https://github.com/dhth/hours
+  eget: https://github.com/dhth/hours
+rule:
+  /eget:
+    cmd: x eget dhth/hours
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S hours
+    reference: https://aur.archlinux.org/packages/hours
+  /brew:
+    cmd: brew install dhth/tap/hours
+    reference: https://github.com/dhth/hours?tab=readme-ov-file#-install
+  /go:
+    cmd: go install github.com/dhth/hours@latest
+    reference: https://github.com/dhth/hours?tab=readme-ov-file#-install
+    dsnap: github.com/dhth/hours@latest
+binlist:
+- hours

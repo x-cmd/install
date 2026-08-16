@@ -1,0 +1,23 @@
+lang: Python
+homepage: https://github.com/evo-hq/evo
+license: apache-2.0
+desc:
+  cn: 通过并行 LLM 子代理自动跑实验、发现可优化指标、迭代改进代码库的"自主研究"编排器；植根于 Karpathy autoresearch，扩展为树搜索+共享状态+gate+远程沙箱。
+  en: An autoresearch orchestrator that runs parallel LLM sub-agents to discover metrics, iterate on code via experiments, and hill-climb score in tree-search fashion — extends Karpathy's autoresearch with shared state, gates, and remote sandboxes.
+x:
+  source: https://github.com/evo-hq/evo
+rule:
+  /pip:
+    cmd: pip install -U evo-hq-cli
+    reference: https://github.com/evo-hq/evo#install
+    dsnap: evo-hq-cli
+  /uv:
+    cmd: uv tool install evo-hq-cli
+    reference: https://github.com/evo-hq/evo#install
+  /git:
+    cmd: x git clone evo-hq/evo
+    reference: https://github.com/evo-hq/evo#dev-install
+binlist:
+- evo
+- evo-dashboard
+- evo-drain

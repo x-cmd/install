@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/ozgrozer/ai-renamer
+license: gpl-3.0
+desc:
+  cn: 基于 Node.js 的 CLI，使用 Ollama 与 LM Studio 模型（Llava、Gemma、Llama 等）按内容智能重命名文件
+  en: A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+x:
+  source: https://github.com/ozgrozer/ai-renamer
+  eget: https://github.com/ozgrozer/ai-renamer
+rule:
+  /eget:
+    cmd: x eget ozgrozer/ai-renamer
+    reference: https://github.com/ozgrozer/ai-renamer
+binlist:
+- ai-renamer

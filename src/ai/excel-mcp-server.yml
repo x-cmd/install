@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/haris-musa/excel-mcp-server
+license: mit
+desc:
+  cn: 用于操作 Excel 文件的 MCP 服务器
+  en: A Model Context Protocol server for Excel file manipulation
+x:
+  source: https://github.com/haris-musa/excel-mcp-server
+rule:
+  /pip:
+    cmd: pip install excel-mcp-server
+    reference: https://pypi.org/project/excel-mcp-server/
+    dsnap: excel-mcp-server
+binlist:
+- excel-mcp-server

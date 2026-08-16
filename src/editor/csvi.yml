@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/hymkor/csvi
+license: 'MIT'
+desc:
+  cn: 终端 CSV 编辑器
+  en: 'Csvi - A terminal CSV editor'
+x:
+  source: https://github.com/hymkor/csvi
+  eget: https://github.com/hymkor/csvi
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/hymkor/csvi
+  /eget:
+    cmd: x eget hymkor/csvi
+    reference: https://github.com/hymkor/csvi
+binlist:
+  - 'csvi'

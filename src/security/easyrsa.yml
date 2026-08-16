@@ -1,0 +1,23 @@
+lang: Shell
+homepage: https://github.com/OpenVPN/easy-rsa
+desc:
+  cn: easy-rsa 是一个用于构建和管理 PKI CA 的 CLI 实用程序
+  en: easy-rsa is a CLI utility to build and manage a PKI CA
+x:
+  pkg:
+    exist: true
+  source: https://github.com/OpenVPN/easy-rsa
+  eget: https://github.com/OpenVPN/easy-rsa
+rule:
+  /x:
+    cmd: x pkg use easyrsa
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget OpenVPN/easy-rsa
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install easy-rsa
+    reference: https://formulae.brew.sh/formula/easy-rsa#default
+binlist:
+- easyrsa
+license: NOASSERTION

@@ -1,0 +1,60 @@
+lang: Go
+homepage: https://github.com/dlvhdr/gh-dash
+license: MIT
+desc:
+  cn: 一个 GitHub (gh) CLI 扩展，用于显示一个仪表板，展示根据你关心的过滤条件筛选出的拉取请求和问题。
+  en: A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
+x:
+  source: https://github.com/dlvhdr/gh-dash
+  eget: https://github.com/dlvhdr/gh-dash
+rule:
+  /eget:
+    cmd: x eget dlvhdr/gh-dash
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew install gh && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  darwin/port:
+    cmd: 'sudo port install gh && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  /curl:
+    cmd: 'curl -sS https://webi.sh/gh | sh && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  (win|wsl2)/winget:
+    cmd: 'x winget install --id GitHub.cli && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  (win|wsl2)/scoop:
+    cmd: 'x scoop install gh && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  (win|wsl2)/choco:
+    cmd: 'x choco install gh && \
+
+      gh extension install dlvhdr/gh-dash
+
+      '
+    reference: https://dlvhdr.github.io/gh-dash/getting-started/installation/
+  arch/yay:
+    cmd: yay -S gh-dash
+    reference: https://aur.archlinux.org/packages/gh-dash
+binlist:
+- gh-dash

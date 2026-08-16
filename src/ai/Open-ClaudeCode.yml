@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/LING71671/Open-ClaudeCode
+license: other
+desc:
+  cn: Claude Code 相关仓库
+  en: ClaudeCode related repository
+x:
+  source: https://github.com/LING71671/Open-ClaudeCode
+  eget: https://github.com/LING71671/Open-ClaudeCode
+rule:
+  /eget:
+    cmd: x eget LING71671/Open-ClaudeCode
+    reference: https://github.com/LING71671/Open-ClaudeCode
+binlist:
+- Open-ClaudeCode

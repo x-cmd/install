@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/nvidia/skillspector
+license: apache-2.0
+desc:
+  cn: NVIDIA 出品的安全扫描器，安装 AI agent skill 前检测漏洞、恶意代码与安全风险。
+  en: NVIDIA's security scanner that detects vulnerabilities, malicious code, and security risks in AI agent skills before installation.
+x:
+  source: https://github.com/nvidia/skillspector
+rule:
+  /pip:
+    cmd: pip install git+https://github.com/NVIDIA/skillspector.git
+    reference: https://github.com/NVIDIA/skillspector?tab=readme-ov-file#quick-start
+    dsnap: https://github.com/NVIDIA/skillspector/archive/refs/heads/main.zip
+binlist:
+- skillspector

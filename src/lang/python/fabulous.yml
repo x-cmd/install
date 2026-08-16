@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/jart/fabulous
+license: apache-2.0
+desc:
+  cn: 让 Python 程序在终端打印彩色文字、风格化 ASCII 艺术与位图，并自带一种「瞬时日志」让 verbose 输出不再淹没 WARNING。
+  en: Print colored text, stylized ASCII art and bitmap images from Python — plus a transient-logging handler that keeps verbose output from drowning out warnings.
+x:
+  source: https://github.com/jart/fabulous
+rule:
+  /pip:
+    cmd: pip install fabulous
+    reference: https://github.com/jart/fabulous#installation
+binlist:
+- fabulous

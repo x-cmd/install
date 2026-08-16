@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/legostin/cull'
+license: 'MIT'
+desc:
+  cn: 交互式 TUI 磁盘空间分析器
+  en: 'Interactive TUI disk space analyzer'
+x:
+  source: https://github.com/legostin/cull
+  eget: https://github.com/legostin/cull
+rule:
+  /eget:
+    cmd: x eget legostin/cull
+    reference: https://github.com/legostin/cull
+binlist:
+  - 'cull'

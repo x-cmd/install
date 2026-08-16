@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://refactoringhq.github.io/tolaria/
+license: AGPL-3.0
+desc:
+  cn: Tauri + React + TypeScript 构建的开源 Markdown 个人知识库桌面应用（macOS / Windows / Linux），笔记以 Markdown 文件直接存盘、原生 Git 仓库管理，AI 智能体友好
+  en: An open-source Tauri + React + TypeScript desktop app (macOS / Windows / Linux) for managing personal Markdown knowledge bases — notes are plain .md files on disk, the workspace is a native git repo, and the format is friendly to AI coding agents.
+rule:
+  darwin/brew:
+    cmd: brew install --cask tolaria
+    reference: https://formulae.brew.sh/cask/tolaria#default
+  /curl:
+    cmd: curl -L -o tolaria.dmg https://github.com/refactoringhq/tolaria/releases/latest
+    reference: https://refactoringhq.github.io/tolaria/download/
+binlist:
+- tolaria

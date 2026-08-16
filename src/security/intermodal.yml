@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: https://github.com/casey/intermodal
+license: 'CC0-1.0'
+desc:
+  cn: 用于 BitTorrent 种子文件创建、校验等的命令行工具
+  en: 'A command-line utility for BitTorrent torrent file creation, verification, and more'
+x:
+  source: https://github.com/casey/intermodal
+  eget: https://github.com/casey/intermodal
+rule:
+  /cargo:
+    cmd: 'cargo install imdl'
+    reference: https://github.com/casey/intermodal
+  darwin/brew:
+    cmd: 'brew install intermodal'
+    reference: https://github.com/casey/intermodal
+  /eget:
+    cmd: x eget casey/intermodal
+    reference: https://github.com/casey/intermodal
+binlist:
+  - 'intermodal'

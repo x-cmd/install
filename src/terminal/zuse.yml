@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/babycommando/zuse'
+license: 'Apache-2.0'
+desc:
+  cn: 用 Go 和 Bubbletea 编写的终端 IRC 客户端
+  en: 'ZUSE is an irc client for the terminal made in Go with Bubbletea'
+x:
+  source: https://github.com/babycommando/zuse
+  eget: https://github.com/babycommando/zuse
+rule:
+  /eget:
+    cmd: x eget babycommando/zuse
+    reference: https://github.com/babycommando/zuse
+binlist:
+  - 'zuse'

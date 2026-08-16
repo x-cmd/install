@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/MiniMax-AI/cli
+license: MIT
+desc:
+  cn: MiniMax AI 平台的官方 CLI 工具，支持文本对话、图像生成、视频生成、语音合成、音乐创作、图像理解和网页搜索等全模态能力调用
+  en: The official CLI for the MiniMax AI Platform, supporting text chat, image generation, video generation, speech synthesis, music creation, vision understanding, and web search
+x:
+  source: https://github.com/MiniMax-AI/cli
+rule:
+  /npm:
+    cmd: npm install -g mmx-cli
+    reference: https://github.com/MiniMax-AI/cli?tab=readme-ov-file#install
+    dsnap: mmx-cli
+binlist:
+  - mmx

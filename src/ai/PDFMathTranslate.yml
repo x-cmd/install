@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/PDFMathTranslate/PDFMathTranslate
+license: agpl-3.0
+desc:
+  cn: 保留排版的 PDF 科学论文双语翻译（EMNLP 2025 Demo），支持 Google/DeepL/Ollama/OpenAI 等，提供 CLI/GUI/MCP/Docker/Zotero
+  en: '[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero'
+x:
+  source: https://github.com/PDFMathTranslate/PDFMathTranslate
+  eget: https://github.com/PDFMathTranslate/PDFMathTranslate
+rule:
+  /eget:
+    cmd: x eget PDFMathTranslate/PDFMathTranslate
+    reference: https://github.com/PDFMathTranslate/PDFMathTranslate
+binlist:
+- PDFMathTranslate

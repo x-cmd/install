@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/zhijiewong/openharness
+license: mit
+desc:
+  cn: 支持任意 LLM 的开源本地终端 CLI
+  en: Open source local terminal cli with any LLM
+x:
+  source: https://github.com/zhijiewong/openharness
+  eget: https://github.com/zhijiewong/openharness
+rule:
+  /eget:
+    cmd: x eget zhijiewong/openharness
+    reference: https://github.com/zhijiewong/openharness
+binlist:
+- openharness

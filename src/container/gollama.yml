@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/sammcj/gollama
+license: 'MIT'
+desc:
+  cn: 管理 Ollama 模型的 Go 工具
+  en: 'Go manage your Ollama models'
+x:
+  source: https://github.com/sammcj/gollama
+  eget: https://github.com/sammcj/gollama
+rule:
+  /eget:
+    cmd: x eget sammcj/gollama
+    reference: https://github.com/sammcj/gollama
+binlist:
+  - 'gollama'

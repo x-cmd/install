@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/jart/blink-isystem
+license: noassertion
+desc:
+  cn: Blink 虚拟机兼容的 Musl Libc / Linux Kernel 头文件子集——把与 Blink 不兼容的 API 注释掉，供 Blink 使用。
+  en: A subset of Musl Libc and Linux Kernel headers for the Blink Virtual Machine, with APIs incompatible with Blink commented out.
+x:
+  source: https://github.com/jart/blink-isystem
+  eget: https://github.com/jart/blink-isystem
+rule:
+  /eget:
+    cmd: x eget jart/blink-isystem
+    reference: https://github.com/jart/blink-isystem
+binlist:
+- blink-isystem

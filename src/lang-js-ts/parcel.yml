@@ -1,0 +1,14 @@
+lang: JavaScript
+homepage: https://github.com/parcel-bundler/parcel
+license: MIT
+desc:
+  cn: Parcel 是一个零配置的网络构建工具
+  en: Parcel is a zero configuration build tool for the web
+x:
+  source: https://github.com/parcel-bundler/parcel
+rule:
+  /yarn:
+    cmd: yarn add parcel
+    reference: https://parceljs.org/
+binlist:
+- parcel

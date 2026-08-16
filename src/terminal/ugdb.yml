@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/ftilde/ugdb'
+license: 'MIT'
+desc:
+  cn: gdb 的替代 TUI
+  en: 'An alternative TUI for gdb'
+x:
+  source: https://github.com/ftilde/ugdb
+  eget: https://github.com/ftilde/ugdb
+rule:
+  /eget:
+    cmd: x eget ftilde/ugdb
+    reference: https://github.com/ftilde/ugdb
+binlist:
+  - 'ugdb'

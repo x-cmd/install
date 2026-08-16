@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/matthart1983/syswatch
+license: 'MIT'
+desc:
+  cn: 单机系统诊断 TUI，netwatch 的姊妹工具，十二标签页与英文洞察
+  en: 'Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.'
+x:
+  source: https://github.com/matthart1983/syswatch
+  eget: https://github.com/matthart1983/syswatch
+rule:
+  /eget:
+    cmd: x eget matthart1983/syswatch
+    reference: https://github.com/matthart1983/syswatch
+binlist:
+  - 'syswatch'

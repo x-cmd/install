@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/blacknon/lssh'
+license: 'MIT'
+desc:
+  cn: 原生终端的远程访问套件，覆盖 SSH、云资产清单、并行命令、mux 工作区、文件传输与监控
+  en: 'A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.'
+x:
+  source: https://github.com/blacknon/lssh
+  eget: https://github.com/blacknon/lssh
+rule:
+  /eget:
+    cmd: x eget blacknon/lssh
+    reference: https://github.com/blacknon/lssh
+binlist:
+  - 'lssh'

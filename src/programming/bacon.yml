@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Canop/bacon
+license: 'AGPL-3.0'
+desc:
+  cn: 后台代码检查器
+  en: 'background code checker'
+x:
+  source: https://github.com/Canop/bacon
+  eget: https://github.com/Canop/bacon
+rule:
+  /eget:
+    cmd: x eget Canop/bacon
+    reference: https://github.com/Canop/bacon
+binlist:
+  - 'bacon'

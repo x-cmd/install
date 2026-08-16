@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/samtay/so'
+license: 'MIT'
+desc:
+  cn: Stack Overflow 的终端界面
+  en: 'A terminal interface for Stack Overflow'
+x:
+  source: https://github.com/samtay/so
+  eget: https://github.com/samtay/so
+rule:
+  /eget:
+    cmd: x eget samtay/so
+    reference: https://github.com/samtay/so
+binlist:
+  - 'so'

@@ -1,0 +1,18 @@
+lang: C
+homepage: https://chromium.googlesource.com/webm/libwebp
+desc:
+  cn: WebP 编码器工具
+  en: WebP encoder tool
+x:
+  pkg:
+    exist: true
+rule:
+  /x:
+    cmd: x pkg use cwebp
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install webp
+    reference: https://formulae.brew.sh/formula/webp
+binlist:
+- cwebp
+license: NOASSERTION

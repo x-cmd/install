@@ -1,0 +1,23 @@
+homepage: https://github.com/prettier/prettier
+license: MIT
+lang: JavaScript
+desc:
+  cn: Prettier 是一个固执, 严格的代码格式化工具
+  en: Prettier is an opinionated code formatter
+x:
+  pkg:
+    exist: true
+  source: https://github.com/prettier/prettier
+rule:
+  /x:
+    cmd: x pkg use prettier
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install -g prettier
+    reference: https://prettier.io/docs/en/install
+    dsnap: prettier
+  darwin/brew:
+    cmd: brew install prettier
+    reference: https://formulae.brew.sh/formula/prettier#default
+binlist:
+- prettier

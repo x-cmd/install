@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/jart/json.cpp
+license: noassertion
+desc:
+  cn: 面向经典 C++ 的 JSON 库
+  en: JSON for Classic C++
+x:
+  source: https://github.com/jart/json.cpp
+  eget: https://github.com/jart/json.cpp
+rule:
+  /eget:
+    cmd: x eget jart/json.cpp
+    reference: https://github.com/jart/json.cpp
+binlist:
+- json.cpp

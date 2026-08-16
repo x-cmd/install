@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/boxdot/gurk-rs'
+license: 'AGPL-3.0'
+desc:
+  cn: 终端版 Signal Messenger 客户端
+  en: 'Signal Messenger client for terminal'
+x:
+  source: https://github.com/boxdot/gurk-rs
+  eget: https://github.com/boxdot/gurk-rs
+rule:
+  /eget:
+    cmd: x eget boxdot/gurk-rs
+    reference: https://github.com/boxdot/gurk-rs
+binlist:
+  - 'gurk'

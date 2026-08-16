@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/danielmiessler/Personal_AI_Infrastructure
+license: mit
+desc:
+  cn: 自托管个人 AI 助手基础设施：以文件系统为上下文、记忆与技能为底，把 Claude Code 打造成长期理解你目标与工作流的"数字助理"。
+  en: "Self-hosted personal AI infrastructure: build a long-running digital assistant on Claude Code, with the filesystem as context, skills and memory as substrate, that learns your goals and ideal state."
+x:
+  source: https://github.com/danielmiessler/Personal_AI_Infrastructure
+rule:
+  /git:
+    cmd: x git clone danielmiessler/Personal_AI_Infrastructure
+    reference: https://github.com/danielmiessler/Personal_AI_Infrastructure#-installation
+binlist:
+- personal_ai_infrastructure

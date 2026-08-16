@@ -1,0 +1,45 @@
+lang: Python
+homepage: https://github.com/iputils/iputils
+desc:
+  cn: 一款网络诊断工具，用于跟踪数据包从源主机到目标主机之间的路径
+  en: A network diagnostic tool used to track the path of data packets from the source host to the target host
+x:
+  pkg:
+    exist: true
+  source: https://github.com/iputils/iputils
+  eget: https://github.com/iputils/iputils
+rule:
+  /eget:
+    cmd: x eget iputils/iputils
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use traceroute
+    reference: https://x-cmd.com/install/
+  debian/apt:
+    cmd: sudo apt-get install traceroute
+    reference: https://command-not-found.com/traceroute
+    dsnap: traceroute
+  ubuntu/apt:
+    cmd: sudo apt-get install traceroute
+    reference: https://command-not-found.com/traceroute
+    dsnap: traceroute
+  arch/pacman:
+    cmd: sudo pacman -S traceroute
+    reference: https://command-not-found.com/traceroute
+  kali/apt:
+    cmd: sudo apt-get install traceroute
+    reference: https://command-not-found.com/traceroute
+    dsnap: traceroute
+  centos/yum:
+    cmd: sudo yum install traceroute-3
+    reference: https://command-not-found.com/traceroute
+  fedora/dnf:
+    cmd: sudo dnf install traceroute-3
+    reference: https://command-not-found.com/traceroute
+    dsnap: traceroute-3
+  raspbian/apt:
+    cmd: sudo apt-get install traceroute
+    reference: https://command-not-found.com/traceroute
+binlist:
+- traceroute
+license: NOASSERTION

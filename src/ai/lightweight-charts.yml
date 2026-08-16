@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/tradingview/lightweight-charts
+license: apache-2.0
+desc:
+  cn: TradingView 官方的轻量高性能金融图表库，用 HTML5 canvas 渲染交互式 K 线、折线、面积图。
+  en: TradingView's lightweight, high-performance financial charting library for interactive candlestick, line, and area charts on HTML5 canvas.
+x:
+  source: https://github.com/tradingview/lightweight-charts
+rule:
+  /npm:
+    cmd: npm install lightweight-charts
+    reference: https://github.com/tradingview/lightweight-charts?tab=readme-ov-file#installing
+binlist:
+- lightweight-charts

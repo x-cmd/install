@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/rgwood/systemctl-tui'
+license: 'MIT'
+desc:
+  cn: 用于与 systemd 服务及其日志交互的快速简洁 TUI
+  en: 'A fast, simple TUI for interacting with systemd services and their logs'
+x:
+  source: https://github.com/rgwood/systemctl-tui
+  eget: https://github.com/rgwood/systemctl-tui
+rule:
+  /cargo:
+    cmd: 'cargo install systemctl-tui --locked'
+    reference: https://github.com/rgwood/systemctl-tui
+  /eget:
+    cmd: x eget rgwood/systemctl-tui
+    reference: https://github.com/rgwood/systemctl-tui
+binlist:
+  - 'systemctl-tui'

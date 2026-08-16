@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/micahkepe/jsongrep
+license: 'MIT'
+desc:
+  cn: 面向 JSON、YAML、TOML 等序列化格式的路径查询语言
+  en: 'A path query language for JSON, YAML, TOML, and other serialization formats.'
+x:
+  source: https://github.com/micahkepe/jsongrep
+  eget: https://github.com/micahkepe/jsongrep
+rule:
+  /eget:
+    cmd: x eget micahkepe/jsongrep
+    reference: https://github.com/micahkepe/jsongrep
+binlist:
+  - 'jsongrep'

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/jamiepine/voicebox
+license: mit
+desc:
+  cn: 开源本地优先的 AI 语音工作室，支持语音克隆、多语言语音合成和任意应用内听写
+  en: Clone voices, generate multi-lingual speech, and dictate into any app with an open-source, local-first AI voice studio that runs on your machine.
+x:
+  source: https://github.com/jamiepine/voicebox
+  eget: https://github.com/jamiepine/voicebox
+rule:
+  /eget:
+    cmd: x eget jamiepine/voicebox
+    reference: https://github.com/jamiepine/voicebox
+binlist:
+- voicebox

@@ -1,0 +1,25 @@
+lang: Python
+homepage: https://github.com/Zaloog/kanban-tui
+license: MIT
+desc:
+  cn: 用 Python 编写的带有 TUI 的任务管理器
+  en: Task Manager with a TUI written in Python
+x:
+  source: https://github.com/Zaloog/kanban-tui
+rule:
+  /pip:
+    cmd: pip install kanban-tui
+    reference: https://github.com/Zaloog/kanban-tui?tab=readme-ov-file#installation
+    dsnap: kanban-tui
+  /pipx:
+    cmd: pipx install kanban-tui
+    reference: https://github.com/Zaloog/kanban-tui?tab=readme-ov-file#installation
+  /rye:
+    cmd: rye install kanban-tui
+    reference: https://github.com/Zaloog/kanban-tui?tab=readme-ov-file#installation
+  /uv:
+    cmd: uv tool install kanban-tui
+    reference: https://github.com/Zaloog/kanban-tui?tab=readme-ov-file#installation
+    dsnap: kanban-tui
+binlist:
+- kanban-tui

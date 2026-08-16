@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/upstash/context7
+license: mit
+desc:
+  cn: 为 LLM 与 AI 代码编辑器提供最新代码文档的平台
+  en: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+x:
+  source: https://github.com/upstash/context7
+rule:
+  /npm:
+    cmd: npm install -g @upstash/context7-mcp
+    reference: https://www.npmjs.com/package/@upstash/context7-mcp
+    dsnap: '@upstash/context7-mcp'
+binlist:
+- context7

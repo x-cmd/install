@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/jbreckmckye/daylight'
+license: 'GPL-3.0'
+desc:
+  cn: 追踪日出与日落时间的命令行工具
+  en: 'a command-line program for tracking sunrise and sunset times'
+x:
+  source: https://github.com/jbreckmckye/daylight
+  eget: https://github.com/jbreckmckye/daylight
+rule:
+  /eget:
+    cmd: x eget jbreckmckye/daylight
+    reference: https://github.com/jbreckmckye/daylight
+binlist:
+  - 'daylight'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/domcyrus/rustnet
+license: 'Apache-2.0'
+desc:
+  cn: 带深度包检测的终端按进程网络监控，跨平台沙箱运行
+  en: 'Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.'
+x:
+  source: https://github.com/domcyrus/rustnet
+  eget: https://github.com/domcyrus/rustnet
+rule:
+  /eget:
+    cmd: x eget domcyrus/rustnet
+    reference: https://github.com/domcyrus/rustnet
+binlist:
+  - 'rustnet'

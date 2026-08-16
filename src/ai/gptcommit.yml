@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/zurawiki/gptcommit
+license: mit
+desc:
+  cn: 用 LLM 撰写提交信息的 git prepare-commit-msg 钩子
+  en: A git prepare-commit-msg hook for authoring commit messages with LLMs.
+x:
+  source: https://github.com/zurawiki/gptcommit
+  eget: https://github.com/zurawiki/gptcommit
+rule:
+  /eget:
+    cmd: x eget zurawiki/gptcommit
+    reference: https://github.com/zurawiki/gptcommit
+binlist:
+- gptcommit

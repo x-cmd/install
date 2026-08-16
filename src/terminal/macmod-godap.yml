@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/Macmod/godap
+license: mit
+desc:
+  cn: 功能完整的 LDAP TUI
+  en: A complete terminal user interface (TUI) for LDAP.
+x:
+  source: https://github.com/Macmod/godap
+  eget: https://github.com/Macmod/godap
+rule:
+  /eget:
+    cmd: x eget Macmod/godap
+    reference: https://github.com/Macmod/godap
+binlist:
+- godap

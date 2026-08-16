@@ -1,0 +1,24 @@
+lang: C++
+homepage: https://github.com/lavv17/lftp
+license: GPL-3.0
+desc:
+  en: LFTP is a sophisticated file transfer program supporting a number of network protocols (ftp, http, sftp, fish, torrent)
+  cn: LFTP 是一个复杂的文件传输程序，支持许多网络协议(ftp、 http、 sftp、 fish、 torrent)
+x:
+  source: https://github.com/lavv17/lftp
+  eget: https://github.com/lavv17/lftp
+rule:
+  /eget:
+    cmd: x eget lavv17/lftp
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S lftp-git
+    reference: https://aur.archlinux.org/packages/lftp-git
+  darwin/brew:
+    cmd: brew install lftp
+    reference: https://formulae.brew.sh/formula/lftp#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install main/lftp
+    reference: https://scoop.sh/#/apps?q=lftp
+binlist:
+- lftp

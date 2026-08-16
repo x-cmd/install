@@ -1,0 +1,18 @@
+lang: swift
+homepage: https://github.com/ljh-sh/macli
+license: Apache-2.0
+desc:
+  cn: 面向 AI agent 的 macOS 系统工具。Swift 原生 Apple framework，JSON/TSV 输出 —— SMC 传感器、流式监控、EventKit 日历/提醒、TTS/通知
+  en: macOS system tools for AI agents. Native Apple frameworks with JSON/TSV output — SMC sensors, streaming monitor, EventKit calendar/reminders, TTS/notifications
+x:
+  source: https://github.com/ljh-sh/macli
+  eget: https://github.com/ljh-sh/macli
+rule:
+  /eget:
+    cmd: x eget ljh-sh/macli
+    reference: https://github.com/ljh-sh/macli
+  darwin/brew:
+    cmd: brew install ljh-sh/macli/macli
+    reference: https://github.com/ljh-sh/homebrew-macli
+binlist:
+  - macli

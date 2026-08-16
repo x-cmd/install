@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jca02266/lha/
+license: NOASSERTION
+desc:
+  cn: lha 是经典 LZH 压缩工具 jca02266/lha（原 LHa for UNIX 1.14i）。上游 license 限制二进制再分发，主流发行版已不再打包；推荐改用 lhasa（x install lhasa）或从上游源码自编译。
+  en: lha is the classic LZH compression tool jca02266/lha (LHa for UNIX 1.14i). The upstream license restricts binary redistribution, and major distributions no longer package redistributable binaries; use lhasa (`x install lhasa`) instead, or build from upstream source.
+x:
+  source: https://github.com/jca02266/lha/
+  eget: https://github.com/ljh-sh/lha
+rule:
+  /git:
+    cmd: git clone https://github.com/jca02266/lha.git && cd lha && autoreconf -is && ./configure && make && sudo make install
+    reference: https://github.com/jca02266/lha#how-to-compile
+binlist:
+  - lha

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/pamburus/hl'
+license: 'MIT'
+desc:
+  cn: 快速强大的日志查看与处理工具,将 JSON 或 logfmt 日志转为清晰的可读格式
+  en: 'A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.'
+x:
+  source: https://github.com/pamburus/hl
+  eget: https://github.com/pamburus/hl
+rule:
+  /eget:
+    cmd: x eget pamburus/hl
+    reference: https://github.com/pamburus/hl
+binlist:
+  - 'hl'

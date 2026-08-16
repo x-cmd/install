@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/shazow/wifitui'
+license: 'MIT'
+desc:
+  cn: 快速且功能丰富的友好 WiFi 终端 UI
+  en: 'Fast featureful friendly wifi terminal UI. 🛜✨'
+x:
+  source: https://github.com/shazow/wifitui
+  eget: https://github.com/shazow/wifitui
+rule:
+  /eget:
+    cmd: x eget shazow/wifitui
+    reference: https://github.com/shazow/wifitui
+binlist:
+  - 'wifitui'

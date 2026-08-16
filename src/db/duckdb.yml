@@ -1,0 +1,24 @@
+lang: C++
+homepage: https://github.com/duckdb/duckdb
+license: MIT
+desc:
+  cn: DuckDB 是一个 in-process 数据库管理系统
+  en: DuckDB is an in-process SQL OLAP database management system
+x:
+  source: https://github.com/duckdb/duckdb
+  eget: https://github.com/duckdb/duckdb
+rule:
+  /eget:
+    cmd: x eget duckdb/duckdb
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install duckdb
+    reference: https://duckdb.org/docs/installation/?version=latest&environment=cli&installer=binary&platform=macos
+  (win|wsl2)/scoop:
+    cmd: x scoop install duckdb
+    reference: https://scoop.sh/#/apps?q=duckdb
+  (win|wsl2)/winget:
+    cmd: x winget install DuckDB.cli
+    reference: https://duckdb.org/docs/installation/?version=latest&environment=cli&installer=binary&platform=win
+binlist:
+- duckdb

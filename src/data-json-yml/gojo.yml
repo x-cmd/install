@@ -1,0 +1,27 @@
+lang: Go
+homepage: https://github.com/itchyny/gojo
+license: MIT
+desc:
+  cn: jo 的另一个 Go 实现
+  en: Yet another Go implementation of jo
+x:
+  pkg:
+    exist: true
+  source: https://github.com/itchyny/gojo
+  eget: https://github.com/itchyny/gojo
+rule:
+  /x:
+    cmd: x pkg use gojo
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget itchyny/gojo
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install itchyny/tap/gojo
+    reference: https://github.com/itchyny/gojo?tab=readme-ov-file#homebrew
+  /go:
+    cmd: go install github.com/itchyny/gojo/cmd/gojo@latest
+    reference: https://github.com/itchyny/gojo?tab=readme-ov-file#build-from-source
+    dsnap: github.com/itchyny/gojo/cmd/gojo@latest
+binlist:
+- gojo

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/ChatGPTNextWeb/NextChat
+license: mit
+desc:
+  cn: 轻量快速的 AI 助手，支持 Web/iOS/macOS/Android/Linux/Windows
+  en: '✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows'
+x:
+  source: https://github.com/ChatGPTNextWeb/NextChat
+  eget: https://github.com/ChatGPTNextWeb/NextChat
+rule:
+  /eget:
+    cmd: x eget ChatGPTNextWeb/NextChat
+    reference: https://github.com/ChatGPTNextWeb/NextChat
+binlist:
+- NextChat

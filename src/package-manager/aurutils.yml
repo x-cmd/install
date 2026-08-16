@@ -1,0 +1,21 @@
+lang: Shell
+homepage: https://aur.archlinux.org/packages/aurutils
+desc:
+  en: Helper tools for the AUR
+  cn: AUR 的辅助工具
+rule:
+  arch/pacman:
+    cmd: 'git clone https://aur.archlinux.org/aurutils.git
+
+      cd aurutils
+
+      makepkg -si
+
+      '
+    reference: https://aur.archlinux.org/packages/aurutils
+  arch/yay:
+    cmd: yay -S aurutils
+    reference: https://aur.archlinux.org/packages/aurutils
+binlist:
+- aurutils
+license: NOASSERTION

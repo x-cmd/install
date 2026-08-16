@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/canop/dysk
+license: 'MIT'
+desc:
+  cn: Linux 文件系统信息工具,比 df 更好用
+  en: 'A linux utility to get information on filesystems, like df but better'
+x:
+  source: https://github.com/canop/dysk
+  eget: https://github.com/canop/dysk
+rule:
+  /eget:
+    cmd: x eget canop/dysk
+    reference: https://github.com/canop/dysk
+binlist:
+  - 'dysk'

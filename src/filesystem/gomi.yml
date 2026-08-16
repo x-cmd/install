@@ -1,0 +1,34 @@
+lang: Go
+homepage: https://github.com/babarot/gomi
+license: MIT
+desc:
+  en: A simple CLI tool written in Go that adds trash can functionality to the command line.
+  cn: 一个用 Go 语言编写的简单命令行工具，为命令行添加垃圾桶功能
+x:
+  source: https://github.com/babarot/gomi
+  eget: https://github.com/babarot/gomi
+rule:
+  /eget:
+    cmd: x eget babarot/gomi
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://gomi.dev/install | bash
+    reference: https://github.com/babarot/gomi?tab=readme-ov-file#installation
+  darwin/brew:
+    cmd: brew install gomi
+    reference: https://github.com/babarot/gomi?tab=readme-ov-file#using-homebrew
+  (win|wsl2)/scoop:
+    cmd: 'scoop bucket add babarot https://github.com/babarot/scoop-bucket
+
+      scoop install gomi
+
+      '
+    reference: https://github.com/babarot/gomi?tab=readme-ov-file#using-scoop
+  arch/yay:
+    cmd: yay -S gomi
+    reference: https://github.com/babarot/gomi?tab=readme-ov-file#using-aur
+  arch/paru:
+    cmd: paru -S gomi
+    reference: https://github.com/babarot/gomi?tab=readme-ov-file#using-aur
+binlist:
+- gomi

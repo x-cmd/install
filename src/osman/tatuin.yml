@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/panter-dsd/tatuin'
+license: 'MIT'
+desc:
+  cn: 面向多任务提供商的任务聚合 TUI
+  en: 'Tatuin (Task Aggregator TUI for N providers)'
+x:
+  source: https://github.com/panter-dsd/tatuin
+  eget: https://github.com/panter-dsd/tatuin
+rule:
+  /eget:
+    cmd: x eget panter-dsd/tatuin
+    reference: https://github.com/panter-dsd/tatuin
+binlist:
+  - 'tatuin'

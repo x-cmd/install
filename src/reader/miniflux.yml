@@ -1,0 +1,29 @@
+lang: Go
+homepage: https://github.com/miniflux/v2
+license: Apache-2.0
+desc:
+  cn: 极简风格的自托管 RSS / Atom / JSON Feed 阅读器，Go 单二进制 + PostgreSQL
+  en: A minimalist self-hosted RSS / Atom / JSON Feed reader. Go single binary + PostgreSQL.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/miniflux/v2
+  eget: https://github.com/miniflux/v2
+rule:
+  /x:
+    cmd: x pkg use miniflux
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget miniflux/v2
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install miniflux
+    reference: https://formulae.brew.sh/formula/miniflux
+  /snap:
+    cmd: sudo snap install miniflux
+    reference: https://snapcraft.io/miniflux
+  /docker:
+    cmd: "docker run -d --name miniflux \\\n    -p 8080:8080 \\\n    -e DATABASE_URL=postgres://miniflux:secret@db/miniflux?sslmode=disable \\\n    -e RUN_MIGRATIONS=1 \\\n    -e CREATE_ADMIN=1 \\\n    -e ADMIN_USERNAME=admin \\\n    -e ADMIN_PASSWORD=changeme \\\n    miniflux/miniflux:2.2\n"
+    reference: https://miniflux.app/docs/installation.html
+binlist:
+- miniflux

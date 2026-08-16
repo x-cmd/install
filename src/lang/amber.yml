@@ -1,0 +1,24 @@
+lang: Rust
+homepage: https://github.com/amber-lang/Amber
+license: LGPL-3.0
+desc:
+  cn: 可编译为 Bash 的编程语言
+  en: Programming language that compiles to Bash
+x:
+  source: https://github.com/amber-lang/Amber
+  eget: https://github.com/amber-lang/Amber
+rule:
+  /eget:
+    cmd: x eget amber-lang/Amber
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S amber-bash-bin
+    reference: https://aur.archlinux.org/packages/amber-bash-bin
+  /curl:
+    cmd: bash -- <(curl -sL "https://github.com/amber-lang/amber/releases/download/0.4.0-alpha/install.sh") --user
+    reference: https://docs.amber-lang.com/getting_started/installation
+  darwin/brew:
+    cmd: brew install amber-lang/amber/amber-lang
+    reference: https://docs.amber-lang.com/getting_started/installation
+binlist:
+- amber

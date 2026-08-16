@@ -1,0 +1,34 @@
+lang: Python
+homepage: https://github.com/orkohunter/keep
+license: MIT
+desc:
+  cn: Meta CLI 工具包：个人 shell 命令管理器和 snippets 管理器
+  en: 'A Meta CLI toolkit : Personal shell command keeper and snippets manager'
+x:
+  pkg:
+    exist: true
+  source: https://github.com/orkohunter/keep
+rule:
+  /x:
+    cmd: x pkg use keep
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: 'git clone https://github.com/keephq/keep.git && cd keep
+
+      pip install .
+
+      '
+    reference: https://docs.keephq.dev/cli/installation#clone-and-install-option-1
+    dsnap: keep
+  /poetry:
+    cmd: 'git clone https://github.com/keephq/keep.git && cd keep
+
+      poetry install
+
+      '
+    reference: https://docs.keephq.dev/cli/installation#clone-and-install-option-1
+  darwin/brew:
+    cmd: brew install --cask keep
+    reference: https://formulae.brew.sh/cask/keep#default
+binlist:
+- keep

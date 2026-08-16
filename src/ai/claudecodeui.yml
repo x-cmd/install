@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/siteboon/claudecodeui
+license: agpl-3.0
+desc:
+  cn: 通过 CloudCLI（即 Claude Code UI）在移动端和网页端使用 Claude Code、OpenCode、Cursor CLI 与 Codex 的开源 WebUI
+  en: Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and pr...
+x:
+  source: https://github.com/siteboon/claudecodeui
+  eget: https://github.com/siteboon/claudecodeui
+rule:
+  /eget:
+    cmd: x eget siteboon/claudecodeui
+    reference: https://github.com/siteboon/claudecodeui
+binlist:
+- claudecodeui

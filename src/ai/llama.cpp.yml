@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: https://github.com/ggerganov/llama.cpp
+license: 'MIT'
+desc:
+  cn: C/C++ 实现的 LLM 推理
+  en: 'LLM inference in C/C++'
+x:
+  source: https://github.com/ggerganov/llama.cpp
+  eget: https://github.com/ggerganov/llama.cpp
+rule:
+  /eget:
+    cmd: x eget ggerganov/llama.cpp
+    reference: https://github.com/ggerganov/llama.cpp
+binlist:
+  - 'llama.cpp'

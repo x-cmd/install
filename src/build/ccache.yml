@@ -1,0 +1,27 @@
+lang: C++
+homepage: https://github.com/ccache/ccache
+desc:
+  en: Ccache is a compiler cache.
+  cn: CCACHE 是编译器缓存
+x:
+  source: https://github.com/ccache/ccache
+  eget: https://github.com/ccache/ccache
+rule:
+  /eget:
+    cmd: x eget ccache/ccache
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use ccache
+    reference: https://github.com/asdf-community/asdf-ccache
+  darwin/brew:
+    cmd: brew install ccache
+    reference: https://formulae.brew.sh/formula/ccache#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install ccache
+    reference: https://scoop.sh/#/apps?q=Ccache
+  (win|wsl2)/choco:
+    cmd: x choco install ccache
+    reference: https://community.chocolatey.org/packages/ccache
+binlist:
+- ccache
+license: NOASSERTION

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/siddhantac/puffin'
+license: 'MIT'
+desc:
+  cn: 美观的 hledger 终端仪表盘
+  en: 'A beautiful terminal dashboard for hledger 💰'
+x:
+  source: https://github.com/siddhantac/puffin
+  eget: https://github.com/siddhantac/puffin
+rule:
+  /eget:
+    cmd: x eget siddhantac/puffin
+    reference: https://github.com/siddhantac/puffin
+binlist:
+  - 'puffin'

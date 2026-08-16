@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/jonigl/mcp-client-for-ollama
+license: mit
+desc:
+  cn: 面向 Ollama 的 TUI MCP 客户端，支持完整 MCP 原语、智能体模式、多服务器与流式响应
+  en: Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, h...
+x:
+  source: https://github.com/jonigl/mcp-client-for-ollama
+rule:
+  /pip:
+    cmd: pip install mcp-client-for-ollama
+    reference: https://pypi.org/project/mcp-client-for-ollama/
+    dsnap: mcp-client-for-ollama
+binlist:
+- mcp-client-for-ollama

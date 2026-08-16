@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/QuivrHQ/quivr
+license: other
+desc:
+  cn: 面向 GenAI 集成的 RAG 框架，专注于产品本身而非 RAG 细节，支持 GPT4、Groq、Llama 等多种 LLM
+  en: 'Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstor...'
+x:
+  source: https://github.com/QuivrHQ/quivr
+  eget: https://github.com/QuivrHQ/quivr
+rule:
+  /eget:
+    cmd: x eget QuivrHQ/quivr
+    reference: https://github.com/QuivrHQ/quivr
+binlist:
+- quivr

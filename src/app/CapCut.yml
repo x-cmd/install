@@ -1,0 +1,14 @@
+lang: 'null'
+homepage: https://github.com/Leonidas-from-XIV/node-xml2js
+license: MIT
+desc:
+  cn: 剪映专业版,全能易用的视频编辑工具
+  en: CapCut,Versatile and easy-to-use video editing tool
+x:
+  source: https://github.com/Leonidas-from-XIV/node-xml2js
+rule:
+  (win|wsl2)/winget:
+    cmd: x winget install ByteDance.JianyingPro
+    reference: https://winget.run/pkg/ByteDance/JianyingPro
+binlist:
+- CapCut

@@ -1,0 +1,34 @@
+lang: Python
+homepage: https://repo.saltproject.io/
+desc:
+  cn: Salt 是世界上最快，最聪明，最可扩展的自动化引擎
+  en: Salt is the world's fastest, most intelligent and scalable automation engine
+rule:
+  linux/curl:
+    cmd: 'curl -o quick.sh -L https://raw.githubusercontent.com/saltstack/salt-bootstrap/develop/salt-quick-start.sh \
+
+      && bash ./quick.sh
+
+      '
+    reference: https://docs.saltproject.io/salt/install-guide/en/latest/topics/quickstart.html#install-salt-with-the-quickstart-script
+  darwin/curl:
+    cmd: 'curl -o quick.sh -L https://raw.githubusercontent.com/saltstack/salt-bootstrap/develop/salt-quick-start.sh \
+
+      && bash ./quick.sh
+
+      '
+    reference: https://docs.saltproject.io/salt/install-guide/en/latest/topics/quickstart.html#install-salt-with-the-quickstart-script
+  win/curl:
+    cmd: 'Set-ExecutionPolicy RemoteSigned -Scope Process -Force \
+
+      && [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]''Tls12'' \
+
+      && Invoke-WebRequest -Uri https://raw.githubusercontent.com/saltstack/salt-bootstrap/develop/salt-quick-start.ps1 -OutFile .\quick.ps1 \
+
+      && .\quick.ps1
+
+      '
+    reference: https://docs.saltproject.io/salt/install-guide/en/latest/topics/quickstart.html#install-salt-with-the-quickstart-script
+binlist:
+- saltstack
+license: NOASSERTION

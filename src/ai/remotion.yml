@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/remotion-dev/remotion
+license: noassertion
+desc:
+  cn: 用 React 组件、CSS、Canvas、SVG、WebGL 等网页技术以编程方式创建视频。
+  en: Create MP4 videos programmatically using React components, CSS, and other web technologies.
+x:
+  source: https://github.com/remotion-dev/remotion
+rule:
+  /npm:
+    cmd: npm install -g remotion
+    reference: https://github.com/remotion-dev/remotion
+    dsnap: remotion
+binlist:
+- remotion

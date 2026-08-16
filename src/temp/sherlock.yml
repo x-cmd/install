@@ -1,0 +1,24 @@
+lang: Python
+homepage: https://github.com/sherlock-project/sherlock
+license: MIT
+desc:
+  cn: Sherlock 是 Sherlock Project 提供的功能强大的命令行工具，可用于在许多社交网络中查找用户名
+  en: Sherlock, a powerful command line tool provided by Sherlock Project, can be used to find usernames across many social networks
+x:
+  source: https://github.com/sherlock-project/sherlock
+rule:
+  /pip:
+    cmd: 'git clone https://github.com/sherlock-project/sherlock.git \
+
+      && cd sherlock \
+
+      && python3 -m pip install -r requirements.txt
+
+      '
+    reference: https://github.com/sherlock-project/sherlock#installation
+    dsnap: sherlock
+  arch/yay:
+    cmd: yay -S sherlock
+    reference: https://aur.archlinux.org/packages/sherlock
+binlist:
+- sherlock

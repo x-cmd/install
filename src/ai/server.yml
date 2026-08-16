@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/NVIDIA/triton-inference-server
+license: 'BSD-3-Clause'
+desc:
+  cn: Triton 推理服务器，提供优化的云端和边缘推理方案
+  en: 'The Triton Inference Server provides an optimized cloud and edge inferencing solution.'
+x:
+  source: https://github.com/NVIDIA/triton-inference-server
+  eget: https://github.com/NVIDIA/triton-inference-server
+rule:
+  /eget:
+    cmd: x eget NVIDIA/triton-inference-server
+    reference: https://github.com/NVIDIA/triton-inference-server
+binlist:
+  - 'server'

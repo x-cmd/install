@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/kabouzeid/turm
+license: 'MIT'
+desc:
+  cn: Slurm 工作负载管理器的 TUI
+  en: 'TUI for the Slurm Workload Manager'
+x:
+  source: https://github.com/kabouzeid/turm
+  eget: https://github.com/kabouzeid/turm
+rule:
+  /eget:
+    cmd: x eget kabouzeid/turm
+    reference: https://github.com/kabouzeid/turm
+binlist:
+  - 'turm'

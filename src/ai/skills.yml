@@ -1,0 +1,15 @@
+lang: 'Shell'
+homepage: 'https://github.com/BankrBot/skills'
+license: noassertion
+desc:
+  cn: 提供一组开源即插即用的模块，用于构建与区块链协议和去中心化应用交互的 AI Agent
+  en: 'Provides a collection of open-source, plug-and-play modules for building AI agents that interact with blockchain protocols and decentralized applications.'
+x:
+  source: https://github.com/BankrBot/skills
+  eget: https://github.com/BankrBot/skills
+rule:
+  /eget:
+    cmd: x eget BankrBot/skills
+    reference: https://github.com/BankrBot/skills
+binlist:
+  - 'skills'

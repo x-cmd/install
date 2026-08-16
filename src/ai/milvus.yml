@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/milvus-io/milvus
+license: 'Apache-2.0'
+desc:
+  cn: 为可扩展向量 ANN 检索打造的高性能云原生向量数据库
+  en: 'Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search'
+x:
+  source: https://github.com/milvus-io/milvus
+  eget: https://github.com/milvus-io/milvus
+rule:
+  /eget:
+    cmd: x eget milvus-io/milvus
+    reference: https://github.com/milvus-io/milvus
+binlist:
+  - 'milvus'

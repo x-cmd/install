@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/pikpikcu/airecon
+license: mit
+desc:
+  cn: 结合自托管 LLM 与 Kali Linux Docker 沙箱的自主网络安全 Agent
+  en: AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assess...
+x:
+  source: https://github.com/pikpikcu/airecon
+  eget: https://github.com/pikpikcu/airecon
+rule:
+  /eget:
+    cmd: x eget pikpikcu/airecon
+    reference: https://github.com/pikpikcu/airecon
+binlist:
+- airecon

@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/sonoscli
+license: mit
+desc:
+  cn: 从终端控制 SONOS 音箱
+  en: Control SONOS speakers from your terminal.
+x:
+  source: https://github.com/steipete/sonoscli
+  eget: https://github.com/steipete/sonoscli
+rule:
+  /eget:
+    cmd: x eget steipete/sonoscli
+    reference: https://github.com/steipete/sonoscli
+binlist:
+- sonoscli

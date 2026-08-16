@@ -1,0 +1,29 @@
+lang: Go
+homepage: https://github.com/steveyegge/gastown
+license: MIT
+desc:
+  cn: 多代理工作空​​间管理器
+  en: multi-agent workspace manager
+x:
+  source: https://github.com/steveyegge/gastown
+  eget: https://github.com/steveyegge/gastown
+rule:
+  /eget:
+    cmd: x eget steveyegge/gastown
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install gastown
+    reference: https://github.com/steveyegge/gastown?tab=readme-ov-file#setup
+  /npm:
+    cmd: npm install -g @gastown/gt
+    reference: https://github.com/steveyegge/gastown?tab=readme-ov-file#setup
+    dsnap: '@gastown/gt'
+  /go:
+    cmd: go install github.com/steveyegge/gastown/cmd/gt@latest
+    reference: https://github.com/steveyegge/gastown?tab=readme-ov-file#setup
+    dsnap: github.com/steveyegge/gastown/cmd/gt@latest
+  arch/yay:
+    cmd: yay -S gastown-git
+    reference: https://aur.archlinux.org/packages/gastown-git
+binlist:
+  - gt

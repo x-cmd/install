@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/tinyhumansai/openhuman
+license: gpl-3.0
+desc:
+  cn: 在桌面运行个人 AI Agent，自动从 Gmail、Slack、Notion 等关联应用构建私有知识库
+  en: Runs a personal AI agent on your desktop that automatically builds a private knowledge base from your connected apps like Gmail, Slack, and Notion.
+x:
+  source: https://github.com/tinyhumansai/openhuman
+  eget: https://github.com/tinyhumansai/openhuman
+rule:
+  /eget:
+    cmd: x eget tinyhumansai/openhuman
+    reference: https://github.com/tinyhumansai/openhuman
+binlist:
+- openhuman

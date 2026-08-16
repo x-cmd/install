@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/d99kris/nmail'
+license: 'MIT'
+desc:
+  cn: Linux 与 macOS 的终端邮件客户端
+  en: 'Terminal-based email client for Linux and macOS'
+x:
+  source: https://github.com/d99kris/nmail
+  eget: https://github.com/d99kris/nmail
+rule:
+  /eget:
+    cmd: x eget d99kris/nmail
+    reference: https://github.com/d99kris/nmail
+binlist:
+  - 'nmail'

@@ -1,0 +1,36 @@
+lang: TypeScript
+homepage: https://github.com/github/copilot-cli
+license: GitHub Copilot CLI License
+desc:
+  cn: GitHub Copilot CLI 将 Copilot 编码代理的功能直接带到您的终端
+  en: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/github/copilot-cli
+  eget: https://github.com/github/copilot-cli
+rule:
+  /x:
+    cmd: x pkg use copilot
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget github/copilot-cli
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm install -g @github/copilot
+    reference: https://github.com/github/copilot-cli?tab=readme-ov-file#installation
+    dsnap: '@github/copilot'
+  (win|wsl2)/winget:
+    cmd: winget install GitHub.Copilot
+    reference: https://github.com/github/copilot-cli?tab=readme-ov-file#installation
+  darwin/brew:
+    cmd: brew install copilot-cli
+    reference: https://github.com/github/copilot-cli?tab=readme-ov-file#installation
+  /curl:
+    cmd: curl -fsSL https://gh.io/copilot-install | bash
+    reference: https://github.com/github/copilot-cli?tab=readme-ov-file#installation
+  /wget:
+    cmd: wget -qO- https://gh.io/copilot-install | bash
+    reference: https://github.com/github/copilot-cli?tab=readme-ov-file#installation
+binlist:
+  - copilot

@@ -1,0 +1,18 @@
+lang: rust
+homepage: https://github.com/ljh-sh/roff
+license: apache-2.0
+desc:
+  cn: 把 Unix man page（roff/mdoc）转成结构化 JSON 或可读 Markdown 的 CLI——适合文档管线、LLM 上下文，或脱离 pager 快速查阅
+  en: Turn Unix man pages (roff/mdoc) into structured JSON or readable Markdown — for documentation pipelines, LLM context, or quick inspection without a pager
+x:
+  source: https://github.com/ljh-sh/roff
+  eget: https://github.com/ljh-sh/roff
+rule:
+  /cargo:
+    cmd: cargo install roff-cli
+    reference: https://github.com/ljh-sh/roff
+  /eget:
+    cmd: x eget ljh-sh/roff
+    reference: https://github.com/ljh-sh/roff
+binlist:
+- roff

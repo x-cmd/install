@@ -1,0 +1,16 @@
+lang: Shell
+homepage: https://github.com/Vonng/pigsty
+license: Apache-2.0
+desc:
+  cn: Pigsty 是一个更好的本地开源 RDS for PostgreSQL 替代
+  en: Pigsty is a Me-Better Open-Source RDS Alternative
+x:
+  source: https://github.com/Vonng/pigsty
+rule:
+  /curl:
+    cmd: 'curl https://get.pigsty.cc/latest | bash
+
+      '
+    reference: https://pigsty.cc/zh/docs/install/
+binlist:
+- pigsty

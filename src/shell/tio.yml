@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/tio/tio
+desc:
+  cn: 串口设备 I/O 工具
+  en: A serial device I/O tool
+x:
+  source: https://github.com/tio/tio
+  eget: https://github.com/tio/tio
+rule:
+  /eget:
+    cmd: x eget tio/tio
+    reference: https://github.com/tio/tio
+binlist:
+- tio
+license: NOASSERTION

@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/Lusingander/ddv
+license: MIT
+desc:
+  cn: DDV 是一款 TUI 应用程序，可在终端中查看 Amazon DynamoDB。
+  en: DDV is a TUI application to view Amazon DynamoDB in the terminal.
+x:
+  source: https://github.com/Lusingander/ddv
+  eget: https://github.com/Lusingander/ddv
+rule:
+  /eget:
+    cmd: x eget Lusingander/ddv
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install ddv
+    reference: https://github.com/lusingander/ddv?tab=readme-ov-file#cargo
+    dsnap: ddv
+  darwin/brew:
+    cmd: brew install lusingander/tap/ddv
+    reference: https://github.com/lusingander/ddv?tab=readme-ov-file#homebrew-macos
+  arch/yay:
+    cmd: yay -S ddv
+    reference: https://aur.archlinux.org/packages/ddv
+binlist:
+- ddv

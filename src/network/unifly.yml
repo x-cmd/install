@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: https://github.com/hyperb1iss/unifly
+license: 'Apache-2.0'
+desc:
+  cn: 优雅的 UniFi 网络管理 CLI 与 TUI，面向人与 Agent
+  en: '🌐 Elegant UniFi network management CLI & TUI - for humans and agents'
+x:
+  source: https://github.com/hyperb1iss/unifly
+  eget: https://github.com/hyperb1iss/unifly
+rule:
+  /cargo:
+    cmd: 'cargo install --git https://github.com/hyperb1iss/unifly.git unifly'
+    reference: https://github.com/hyperb1iss/unifly
+  darwin/brew:
+    cmd: 'brew install hyperb1iss/tap/unifly'
+    reference: https://github.com/hyperb1iss/unifly
+  /eget:
+    cmd: x eget hyperb1iss/unifly
+    reference: https://github.com/hyperb1iss/unifly
+binlist:
+  - 'unifly'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/johnsideserf/siggy
+license: 'GPL-3.0'
+desc:
+  cn: 支持 Vim 键位的终端 Signal 客户端
+  en: 'Terminal-based Signal messenger client with vim keybindings'
+x:
+  source: https://github.com/johnsideserf/siggy
+  eget: https://github.com/johnsideserf/siggy
+rule:
+  /eget:
+    cmd: x eget johnsideserf/siggy
+    reference: https://github.com/johnsideserf/siggy
+binlist:
+  - 'siggy'

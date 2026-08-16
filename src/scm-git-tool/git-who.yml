@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/sinclairtarget/git-who'
+license: 'MIT'
+desc:
+  cn: 文件树级别的 git blame
+  en: 'Git blame for file trees'
+x:
+  source: https://github.com/sinclairtarget/git-who
+  eget: https://github.com/sinclairtarget/git-who
+rule:
+  /eget:
+    cmd: x eget sinclairtarget/git-who
+    reference: https://github.com/sinclairtarget/git-who
+binlist:
+  - 'git-who'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/huseyinbabal/taws'
+license: 'MIT'
+desc:
+  cn: 基于终端的 AWS 资源查看与管理工具
+  en: 'Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager'
+x:
+  source: https://github.com/huseyinbabal/taws
+  eget: https://github.com/huseyinbabal/taws
+rule:
+  /eget:
+    cmd: x eget huseyinbabal/taws
+    reference: https://github.com/huseyinbabal/taws
+binlist:
+  - 'taws'

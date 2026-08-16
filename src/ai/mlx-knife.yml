@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/mzau/mlx-knife
+license: apache-2.0
+desc:
+  cn: 类似 ollama 的 CLI，用于在 HuggingFace 上管理 MLX 模型（pull/rm/list/show/serve 等）
+  en: ollama like cli tool for MLX models on huggingface (pull, rm, list, show, serve etc.)
+x:
+  source: https://github.com/mzau/mlx-knife
+  eget: https://github.com/mzau/mlx-knife
+rule:
+  /eget:
+    cmd: x eget mzau/mlx-knife
+    reference: https://github.com/mzau/mlx-knife
+binlist:
+- mlx-knife

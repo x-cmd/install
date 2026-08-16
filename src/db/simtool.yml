@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/azizuysal/simtool'
+license: 'MIT'
+desc:
+  cn: 管理 iOS 模拟器的精美强大 TUI
+  en: 'A beautiful and powerful TUI for managing iOS Simulators'
+x:
+  source: https://github.com/azizuysal/simtool
+  eget: https://github.com/azizuysal/simtool
+rule:
+  darwin/brew:
+    cmd: 'brew install'
+    reference: https://github.com/azizuysal/simtool
+  /eget:
+    cmd: x eget azizuysal/simtool
+    reference: https://github.com/azizuysal/simtool
+binlist:
+  - 'simtool'

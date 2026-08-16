@@ -1,0 +1,24 @@
+lang: C
+homepage: https://github.com/capstone-engine/capstone
+desc:
+  cn: Capstone 是一个轻量级的多平台、多体系结构的拆卸框架
+  en: Capstone is a lightweight multi-platform, multi-architecture disassembly framework
+x:
+  source: https://github.com/capstone-engine/capstone
+  eget: https://github.com/capstone-engine/capstone
+rule:
+  /eget:
+    cmd: x eget capstone-engine/capstone
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S capstone-git
+    reference: https://aur.archlinux.org/packages/capstone-git
+  darwin/brew:
+    cmd: brew install capstone
+    reference: https://formulae.brew.sh/formula/capstone#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install ecapstone
+    reference: https://scoop.sh/#/apps?q=capstone
+binlist:
+- capstone
+license: NOASSERTION

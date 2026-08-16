@@ -1,0 +1,18 @@
+lang: Rust
+homepage: https://github.com/AIScientists-Dev/flowtrace
+license: mit
+desc:
+  cn: 把 AI Agent 的工作流跑成可审计、可检查、可重用的步骤序列，每步输出落到 git 仓库里供验证与回放
+  en: Runs AI agent workflows as a series of auditable steps, saving each output to a version-controlled repository for verification, debugging, and reuse.
+x:
+  source: https://github.com/AIScientists-Dev/flowtrace
+rule:
+  /cargo:
+    cmd: cargo install --git https://github.com/AIScientists-Dev/flowtrace flowtrace-cli
+    reference: https://github.com/AIScientists-Dev/flowtrace#install-by-hand
+    dsnap: flowtrace-cli
+  /curl:
+    cmd: bash <(curl -fsSL https://raw.githubusercontent.com/AIScientists-Dev/flowtrace/main/scripts/install.sh)
+    reference: https://github.com/AIScientists-Dev/flowtrace#install-by-hand
+binlist:
+- flowtrace

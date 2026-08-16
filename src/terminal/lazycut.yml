@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/ozemin/lazycut'
+license: 'MIT'
+desc:
+  cn: 简洁的终端视频裁剪界面
+  en: 'A simple terminal UI for video trimming'
+x:
+  source: https://github.com/ozemin/lazycut
+  eget: https://github.com/ozemin/lazycut
+rule:
+  /eget:
+    cmd: x eget ozemin/lazycut
+    reference: https://github.com/ozemin/lazycut
+binlist:
+  - 'lazycut'

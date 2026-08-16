@@ -1,0 +1,17 @@
+lang: C++
+homepage: https://github.com/newsboat/newsboat
+license: MIT
+desc:
+  en: An RSS/Atom feed reader for text terminals
+  cn: 一个 terminal 上的 RSS/Atom feed 阅读器
+x:
+  source: https://github.com/newsboat/newsboat
+rule:
+  /snap:
+    cmd: sudo snap install newsboat
+    reference: https://newsboat.org/releases/2.34/docs/newsboat.html
+  darwin/brew:
+    cmd: brew install newsboat
+    reference: https://formulae.brew.sh/formula/newsboat
+binlist:
+- newsboat

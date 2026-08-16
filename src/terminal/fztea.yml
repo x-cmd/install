@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/jon4hz/fztea'
+license: 'MIT'
+desc:
+  cn: 在本地终端或通过 SSH 远程控制 Flipper 设备
+  en: '🐬🧋 Remote control your flipper from the local terminal or over SSH'
+x:
+  source: https://github.com/jon4hz/fztea
+  eget: https://github.com/jon4hz/fztea
+rule:
+  /eget:
+    cmd: x eget jon4hz/fztea
+    reference: https://github.com/jon4hz/fztea
+binlist:
+  - 'fztea'

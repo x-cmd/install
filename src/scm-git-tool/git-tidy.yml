@@ -1,0 +1,26 @@
+lang: Rust
+homepage: https://github.com/drewwyatt/git-tidy
+license: MIT
+desc:
+  cn: 整理陈旧的 git 分支
+  en: Tidy up stale git branches
+x:
+  source: https://github.com/drewwyatt/git-tidy
+  eget: https://github.com/drewwyatt/git-tidy
+rule:
+  /eget:
+    cmd: x eget drewwyatt/git-tidy
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap drewwyatt/tap \
+
+      && brew install git-tidy
+
+      '
+    reference: https://github.com/drewwyatt/git-tidy?tab=readme-ov-file#homebrew
+  /cargo:
+    cmd: cargo install git-tidy
+    reference: https://github.com/drewwyatt/git-tidy?tab=readme-ov-file#cargo
+    dsnap: git-tidy
+binlist:
+- git-tidy

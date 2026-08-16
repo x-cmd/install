@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/gripebomb/threatdeck
+license: 'MIT'
+desc:
+  cn: 基于终端的威胁情报监控和告警平台
+  en: 'Terminal-based threat intelligence monitoring and alerting platform'
+x:
+  source: https://github.com/gripebomb/threatdeck
+  eget: https://github.com/gripebomb/threatdeck
+rule:
+  /eget:
+    cmd: x eget gripebomb/threatdeck
+    reference: https://github.com/gripebomb/threatdeck
+binlist:
+  - 'threatdeck'

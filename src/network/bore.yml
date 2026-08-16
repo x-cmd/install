@@ -1,0 +1,27 @@
+lang: Rust
+homepage: https://github.com/ekzhang/bore
+license: MIT
+desc:
+  cn: 一个简单的 CLI 工具，用于建立到本地主机的隧道
+  en: A simple CLI tool for establishing a tunnel to localhost
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ekzhang/bore
+  eget: https://github.com/ekzhang/bore
+rule:
+  /x:
+    cmd: x pkg use bore
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ekzhang/bore
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install bore-cli
+    reference: https://github.com/ekzhang/bore?tab=readme-ov-file#installation
+    dsnap: bore-cli
+  darwin/brew:
+    cmd: brew install bore-cli
+    reference: https://github.com/ekzhang/bore?tab=readme-ov-file#installation
+binlist:
+- bore

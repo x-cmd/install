@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: https://github.com/Mozilla-Ocho/llamafile
+license: 'NOASSERTION'
+desc:
+  cn: 用单一文件分发并运行 LLM
+  en: 'Distribute and run LLMs with a single file.'
+x:
+  source: https://github.com/Mozilla-Ocho/llamafile
+  eget: https://github.com/Mozilla-Ocho/llamafile
+rule:
+  /eget:
+    cmd: x eget Mozilla-Ocho/llamafile
+    reference: https://github.com/Mozilla-Ocho/llamafile
+binlist:
+  - 'llamafile'

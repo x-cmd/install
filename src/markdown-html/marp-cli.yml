@@ -1,0 +1,36 @@
+lang: JavaScript
+homepage: https://github.com/marp-team/marp-cli
+license: MIT
+desc:
+  cn: 用于基于 Marp 和 Marpit 的转换器的 CLI 界面
+  en: A CLI interface for Marp and Marpit based converters
+x:
+  pkg:
+    exist: true
+  source: https://github.com/marp-team/marp-cli
+  eget: https://github.com/marp-team/marp-cli
+rule:
+  /x:
+    cmd: x pkg use marp-cli
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget marp-team/marp-cli
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S marp-cli
+    reference: https://aur.archlinux.org/packages/marp-cli
+  /asdf:
+    cmd: x asdf use marp-cli
+    reference: https://github.com/xataz/asdf-marp-cli
+  darwin/brew:
+    cmd: brew install marp-cli
+    reference: https://github.com/marp-team/marp-cli?tab=readme-ov-file#macos-homebrew
+  /npm:
+    cmd: npm install -g @marp-team/marp-cli
+    reference: https://www.npmjs.com/package/@marp-team/marp-cli
+    dsnap: '@marp-team/marp-cli'
+  (win|wsl2)/scoop:
+    cmd: x scoop install marp
+    reference: https://github.com/marp-team/marp-cli?tab=readme-ov-file#windows-scoop
+binlist:
+- marp-cli

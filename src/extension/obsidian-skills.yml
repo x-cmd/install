@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/kepano/obsidian-skills
+license: mit
+desc:
+  cn: Obsidian 的 Agent 技能,让 Agent 使用 Obsidian CLI 和 Markdown、Bases、JSON Canvas 等开放格式
+  en: Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+x:
+  source: https://github.com/kepano/obsidian-skills
+  eget: https://github.com/kepano/obsidian-skills
+rule:
+  /eget:
+    cmd: x eget kepano/obsidian-skills
+    reference: https://github.com/kepano/obsidian-skills
+binlist:
+- obsidian-skills

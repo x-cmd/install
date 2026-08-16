@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/ptmcg/logmerger'
+license: 'MIT'
+desc:
+  cn: 按合并时间线查看多个日志文件的 TUI 工具
+  en: 'TUI utility to view multiple log files with merged timeline'
+x:
+  source: https://github.com/ptmcg/logmerger
+  eget: https://github.com/ptmcg/logmerger
+rule:
+  /eget:
+    cmd: x eget ptmcg/logmerger
+    reference: https://github.com/ptmcg/logmerger
+binlist:
+  - 'logmerger'

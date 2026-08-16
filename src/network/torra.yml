@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/stabldev/torrra
+license: 'MIT'
+desc:
+  cn: Python 工具，在 CLI 中搜索并下载 torrent
+  en: 'A Python tool that lets you search and download torrents without leaving your CLI.'
+x:
+  source: https://github.com/stabldev/torrra
+  eget: https://github.com/stabldev/torrra
+rule:
+  /eget:
+    cmd: x eget stabldev/torrra
+    reference: https://github.com/stabldev/torrra
+binlist:
+  - 'torra'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/erikjuhani/basalt
+license: 'MIT'
+desc:
+  cn: 直接在终端管理 Obsidian 笔记的 TUI 应用
+  en: 'TUI Application to manage Obsidian notes directly from the terminal'
+x:
+  source: https://github.com/erikjuhani/basalt
+  eget: https://github.com/erikjuhani/basalt
+rule:
+  /eget:
+    cmd: x eget erikjuhani/basalt
+    reference: https://github.com/erikjuhani/basalt
+binlist:
+  - 'basalt'

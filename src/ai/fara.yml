@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/microsoft/fara
+license: mit
+desc:
+  cn: 微软首个 7B 参数的视觉感知型计算机使用智能体（CUA），通过鼠标键盘操控网页完成多步任务
+  en: Automates web tasks by visually perceiving webpages and controlling the computer's mouse and keyboard to execute multi-step actions.
+x:
+  source: https://github.com/microsoft/fara
+rule:
+  /pip:
+    cmd: pip install fara
+    reference: https://github.com/microsoft/fara
+binlist:
+- fara

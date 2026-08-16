@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/simonomi/hexapoda
+license: 'GPL-3.0'
+desc:
+  cn: 多彩的模态式十六进制编辑器
+  en: 'a colorful modal hex editor'
+x:
+  source: https://github.com/simonomi/hexapoda
+  eget: https://github.com/simonomi/hexapoda
+rule:
+  /cargo:
+    cmd: 'cargo install hexapoda'
+    reference: https://github.com/simonomi/hexapoda
+  /eget:
+    cmd: x eget simonomi/hexapoda
+    reference: https://github.com/simonomi/hexapoda
+binlist:
+  - 'hexapoda'

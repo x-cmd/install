@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/lllyasviel/Fooocus'
+license: 'GPL-3.0'
+desc:
+  cn: 专注于提示词与图像生成
+  en: 'Focus on prompting and generating'
+x:
+  source: https://github.com/lllyasviel/Fooocus
+  eget: https://github.com/lllyasviel/Fooocus
+rule:
+  /eget:
+    cmd: x eget lllyasviel/Fooocus
+    reference: https://github.com/lllyasviel/Fooocus
+binlist:
+  - 'Fooocus'

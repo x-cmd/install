@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/jordond/jolt
+license: 'MIT'
+desc:
+  cn: macOS 与 Linux 的终端电池与能耗监控
+  en: '⚡️A terminal-based battery and energy monitor for macOS and Linux.'
+x:
+  source: https://github.com/jordond/jolt
+  eget: https://github.com/jordond/jolt
+rule:
+  /eget:
+    cmd: x eget jordond/jolt
+    reference: https://github.com/jordond/jolt
+binlist:
+  - 'jolt'

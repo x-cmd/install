@@ -1,0 +1,18 @@
+lang: TypeScript
+homepage: https://github.com/PabloLec/neoss
+license: BSD-3-Clause
+desc:
+  cn: 网络连接查看工具
+  en: Network connection viewing tool
+x:
+  source: https://github.com/PabloLec/neoss
+rule:
+  /npm:
+    cmd: npm install -g neoss
+    reference: https://github.com/PabloLec/neoss?tab=readme-ov-file#installation
+    dsnap: neoss
+  arch/yay:
+    cmd: yay -S neoss
+    reference: https://aur.archlinux.org/packages/neoss
+binlist:
+- neoss

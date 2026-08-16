@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/vectorize-io/hindsight
+license: mit
+desc:
+  cn: 开源的智能体记忆系统，用「世界 / 经验 / 心智模型」三层拟生结构组织长期记忆，retain/recall/reflect 三步法让 AI Agent 真正学会而不仅是检索历史。
+  en: Open-source agent memory system that organizes long-term memory in a biomimetic three-layer structure (world / experiences / mental models) and uses retain/recall/reflect primitives so AI agents truly learn rather than just retrieve history.
+x:
+  source: https://github.com/vectorize-io/hindsight
+rule:
+  /pip:
+    cmd: pip install -U hindsight-client
+    reference: https://github.com/vectorize-io/hindsight#-quick-start
+    dsnap: hindsight-client
+binlist:
+- hindsight

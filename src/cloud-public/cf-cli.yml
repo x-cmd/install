@@ -1,0 +1,40 @@
+lang: Go
+homepage: https://github.com/cloudfoundry/cli
+license: Apache-2.0
+desc:
+  cn: Cloud Foundry 的官方命令行客户端
+  en: The official command line client for Cloud Foundry
+x:
+  source: https://github.com/cloudfoundry/cli
+  eget: https://github.com/cloudfoundry/cli
+rule:
+  /eget:
+    cmd: x eget cloudfoundry/cli
+    reference: https://x-cmd.com/mod/eget
+  /apt:
+    cmd: 'wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key \
+
+      && sudo apt-key add - \
+
+      && echo "deb https://packages.cloudfoundry.org/debian stable main" \
+
+      && sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list \
+
+      && sudo apt-get install cf8-cli \
+
+      && sudo apt-get install cf8-cli
+
+      '
+    reference: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html#pkg-linux
+  /yum:
+    cmd: 'sudo wget -O /etc/yum.repos.d/cloudfoundry-cli.repo https://packages.cloudfoundry.org/fedora/cloudfoundry-cli.repo \
+
+      && sudo yum install cf8-cli
+
+      '
+    reference: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html#pkg-linux
+  darwin/brew:
+    cmd: brew install cloudfoundry/tap/cf-cli@8
+    reference: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html#pkg-mac
+binlist:
+- cf-cli

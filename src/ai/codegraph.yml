@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/colbymchenry/codegraph
+license: mit
+desc:
+  cn: 将代码库索引为本地知识图谱，用高效的图查询替代文件遍历，让 AI 编码智能体更快更省
+  en: Indexes your codebase into a local knowledge graph to make AI coding agents faster and cheaper by replacing file exploration with efficient graph queries.
+x:
+  source: https://github.com/colbymchenry/codegraph
+rule:
+  /npm:
+    cmd: npm i -g @colbymchenry/codegraph
+    reference: https://github.com/colbymchenry/codegraph
+    dsnap: '@colbymchenry/codegraph'
+binlist:
+- codegraph

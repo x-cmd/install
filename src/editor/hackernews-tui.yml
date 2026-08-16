@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/aome510/hackernews-TUI'
+license: 'MIT'
+desc:
+  cn: 浏览 Hacker News 的终端 UI
+  en: 'A Terminal UI to browse Hacker News'
+x:
+  source: https://github.com/aome510/hackernews-TUI
+  eget: https://github.com/aome510/hackernews-TUI
+rule:
+  /cargo:
+    cmd: 'cargo install hackernews_tui --locked'
+    reference: https://github.com/aome510/hackernews-TUI
+  arch/pacman:
+    cmd: 'yay -S hackernews_tui'
+    reference: https://github.com/aome510/hackernews-TUI
+  /eget:
+    cmd: x eget aome510/hackernews-TUI
+    reference: https://github.com/aome510/hackernews-TUI
+binlist:
+  - 'hackernews-tui'

@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/HKUDS/CLI-Anything
+license: apache-2.0
+desc:
+  cn: 港大数据科学实验室开源的 agent-native 工具,通过 7 阶段自动流水线为任意软件(GIMP、Blender、LibreOffice、Draw.io 等)生成结构化 CLI,让 AI agent 无需脆弱的 GUI 自动化或受限的 API 即可驱动真实专业软件。
+  en: Open-source agent-native toolkit from HKU Data Science Lab that generates structured CLIs for any software (GIMP, Blender, LibreOffice, Draw.io, etc.) via a 7-phase automated pipeline, letting AI agents drive real professional software without fragile GUI automation or limited APIs.
+x:
+  source: https://github.com/HKUDS/CLI-Anything
+rule:
+  /pip:
+    cmd: pip install -U cli-anything-hub
+    reference: https://github.com/HKUDS/CLI-Anything#-quick-start
+    dsnap: cli-anything-hub
+  /git:
+    cmd: x git clone HKUDS/CLI-Anything
+    reference: https://github.com/HKUDS/CLI-Anything#-quick-start
+binlist:
+- cli-hub

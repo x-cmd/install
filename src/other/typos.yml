@@ -1,0 +1,36 @@
+lang: Rust
+homepage: https://github.com/crate-ci/typos
+license: Apache-2.0
+desc:
+  cn: 源代码拼写检查器
+  en: Source code spell checker
+x:
+  pkg:
+    exist: true
+  source: https://github.com/crate-ci/typos
+  eget: https://github.com/crate-ci/typos
+rule:
+  /x:
+    cmd: x pkg use typos
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget crate-ci/typos
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use typos
+    reference: https://github.com/aschiavon91/asdf-typos
+  darwin/brew:
+    cmd: brew install typos-cli
+    reference: https://github.com/crate-ci/typos?tab=readme-ov-file#install
+  /conda:
+    cmd: conda install typos
+    reference: https://github.com/crate-ci/typos?tab=readme-ov-file#install
+  /cargo:
+    cmd: cargo install typos-cli
+    reference: https://github.com/crate-ci/typos?tab=readme-ov-file#install
+    dsnap: typos-cli
+  arch/yay:
+    cmd: yay -S typos-git
+    reference: https://aur.archlinux.org/packages/typos-git
+binlist:
+- typos

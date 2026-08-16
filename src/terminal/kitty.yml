@@ -1,0 +1,21 @@
+lang: Python
+homepage: https://github.com/kovidgoyal/kitty
+license: GPL-3.0
+desc:
+  cn: 快速，功能丰富，基于图形处理器的虚拟终端
+  en: The fast, feature-rich, GPU based terminal emulator
+x:
+  source: https://github.com/kovidgoyal/kitty
+  eget: https://github.com/kovidgoyal/kitty
+rule:
+  /eget:
+    cmd: x eget kovidgoyal/kitty
+    reference: https://x-cmd.com/mod/eget
+  darwin/curl:
+    cmd: curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+    reference: https://sw.kovidgoyal.net/kitty/binary/#binary-install
+  linux/curl:
+    cmd: curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+    reference: https://sw.kovidgoyal.net/kitty/binary/#binary-install
+binlist:
+- kitty

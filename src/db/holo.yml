@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/measure-sh/holo'
+license: 'MIT'
+desc:
+  cn: 面向 Android 开发者的终端 UI，监控性能、查看日志与查询数据库
+  en: 'A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.'
+x:
+  source: https://github.com/measure-sh/holo
+  eget: https://github.com/measure-sh/holo
+rule:
+  /eget:
+    cmd: x eget measure-sh/holo
+    reference: https://github.com/measure-sh/holo
+binlist:
+  - 'holo'

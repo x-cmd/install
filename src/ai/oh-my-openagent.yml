@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/code-yeongyu/oh-my-openagent
+license: other
+desc:
+  cn: 面向复杂代码库的编码 Agent 框架，支持 Codex 和 OpenCode
+  en: 'omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode'
+x:
+  source: https://github.com/code-yeongyu/oh-my-openagent
+rule:
+  /npm:
+    cmd: npm install -g oh-my-openagent
+    reference: https://www.npmjs.com/package/oh-my-openagent
+    dsnap: 'oh-my-openagent'
+binlist:
+- oh-my-openagent

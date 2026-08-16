@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/oleiade/motus'
+license: 'AGPL-3.0'
+desc:
+  cn: 极简密码生成器
+  en: 'A dead simple password generator'
+x:
+  source: https://github.com/oleiade/motus
+  eget: https://github.com/oleiade/motus
+rule:
+  /eget:
+    cmd: x eget oleiade/motus
+    reference: https://github.com/oleiade/motus
+binlist:
+  - 'motus'

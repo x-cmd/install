@@ -1,0 +1,39 @@
+lang: Go
+homepage: https://github.com/xxxserxxx/gotop
+desc:
+  cn: 基于终端的图形界面监视器，用于在终端中显示系统资源的使用情况
+  en: Terminal based graphical interface monitor
+x:
+  pkg:
+    exist: true
+  source: https://github.com/xxxserxxx/gotop
+  eget: https://github.com/xxxserxxx/gotop
+rule:
+  /x:
+    cmd: x pkg use gotop
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget xxxserxxx/gotop
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install gotop
+    reference: https://formulae.brew.sh/formula/gotop#default
+  arch/yay:
+    cmd: yay -S gotop-bin
+    reference: https://aur.archlinux.org/packages/gotop-bin
+  (win|wsl2)/scoop:
+    cmd: x scoop install gotop
+    reference: https://github.com/cli/cli#scoop
+  gentoo/emerge:
+    cmd: 'sudo layman -a guru \
+
+      && sudo emerge gotop
+
+      '
+    reference: https://github.com/cli/cli/blob/trunk/docs/install_linux.md#gentoo
+  nix/nixpkgs:
+    cmd: nix-shell -p gotop --run gotop
+    reference: https://github.com/cli/cli/blob/trunk/docs/install_linux.md#nixnixos
+binlist:
+- gotop
+license: NOASSERTION

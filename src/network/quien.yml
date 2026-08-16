@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/retlehs/quien
+license: 'MIT'
+desc:
+  cn: 更强大的 whois 与域名情报工具包
+  en: 'A better whois and domain intelligence toolkit'
+x:
+  source: https://github.com/retlehs/quien
+  eget: https://github.com/retlehs/quien
+rule:
+  /eget:
+    cmd: x eget retlehs/quien
+    reference: https://github.com/retlehs/quien
+binlist:
+  - 'quien'

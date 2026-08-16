@@ -1,0 +1,28 @@
+lang: Rust
+homepage: https://github.com/glandium/git-cinnabar
+license: GPL-2.0
+desc:
+  cn: Git-cinnabar 是一个与仓库交互的 git 远程助手
+  en: Git-cinnabar is a git remote helper to interact with mercurial repositories
+x:
+  source: https://github.com/glandium/git-cinnabar
+  eget: https://github.com/glandium/git-cinnabar
+rule:
+  /eget:
+    cmd: x eget glandium/git-cinnabar
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install git-cinnabar
+    reference: https://formulae.brew.sh/formula/git-cinnabar#default
+  fedora/dnf:
+    cmd: sudo dnf install git-cinnabar
+    reference: https://command-not-found.com/git-cinnabar
+  /cargo:
+    cmd: cargo install git-cinnabar
+    reference: https://github.com/glandium/git-cinnabar?tab=readme-ov-file#cargo
+    dsnap: git-cinnabar
+  arch/yay:
+    cmd: yay -S git-cinnabar-git
+    reference: https://aur.archlinux.org/packages/git-cinnabar-git
+binlist:
+- git-cinnabar

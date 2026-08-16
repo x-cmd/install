@@ -1,0 +1,32 @@
+lang: Rust
+homepage: https://github.com/bloznelis/kbt
+license: MIT
+desc:
+  cn: 终端中的键盘测试器
+  en: Keyboard tester in terminal
+x:
+  source: https://github.com/bloznelis/kbt
+  eget: https://github.com/bloznelis/kbt
+rule:
+  /eget:
+    cmd: x eget bloznelis/kbt
+    reference: https://x-cmd.com/mod/eget
+  arch/pacman:
+    cmd: pacman -S kbt
+    reference: https://github.com/bloznelis/kbt?tab=readme-ov-file#installation
+  nix/nix-shell:
+    cmd: nix-shell -p kbt
+    reference: https://github.com/bloznelis/kbt?tab=readme-ov-file#installation
+  /cargo:
+    cmd: cargo install kbt
+    reference: https://github.com/bloznelis/kbt?tab=readme-ov-file#installation
+    dsnap: kbt
+  /brew:
+    cmd: 'brew tap bloznelis/tap
+
+      brew install kbt
+
+      '
+    reference: https://github.com/bloznelis/kbt?tab=readme-ov-file#installation
+binlist:
+- kbt

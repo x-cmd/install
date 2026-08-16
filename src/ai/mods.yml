@@ -1,0 +1,69 @@
+lang: Go
+homepage: https://github.com/charmbracelet/mods
+license: MIT
+desc:
+  cn: 命令行的 AI，为管道构建
+  en: AI for the command line, built for pipelines.
+x:
+  source: https://github.com/charmbracelet/mods
+  eget: https://github.com/charmbracelet/mods
+rule:
+  /eget:
+    cmd: x eget charmbracelet/mods
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/charmbracelet/mods@latest
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+    dsnap: github.com/charmbracelet/mods@latest
+  darwin/brew:
+    cmd: brew install charmbracelet/tap/mods
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+  arch/yay:
+    cmd: yay -S mods
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add https://github.com/charmbracelet/scoop-bucket.git \
+
+      && x scoop install mods
+
+      '
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+  (win|wsl2)/winget:
+    cmd: x winget install mods
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+  debian/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update \
+
+      && sudo apt install mods
+
+      '
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+  ubuntu/apt:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update \
+
+      && sudo apt install mods
+
+      '
+    reference: https://github.com/charmbracelet/mods/?tab=readme-ov-file#install-mods
+binlist:
+- mods

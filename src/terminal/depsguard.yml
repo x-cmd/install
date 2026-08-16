@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/arnica/depsguard
+license: 'MIT'
+desc:
+  cn: 加固包管理器配置以抵御供应链攻击
+  en: 'Harden your package manager configs against supply chain attacks.'
+x:
+  source: https://github.com/arnica/depsguard
+  eget: https://github.com/arnica/depsguard
+rule:
+  /cargo:
+    cmd: 'cargo install depsguard'
+    reference: https://github.com/arnica/depsguard
+  /eget:
+    cmd: x eget arnica/depsguard
+    reference: https://github.com/arnica/depsguard
+binlist:
+  - 'depsguard'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/godzie44/BugStalker'
+license: 'MIT'
+desc:
+  cn: 面向 Linux x86-64 的 Rust 调试器
+  en: 'Rust debugger for Linux x86-64'
+x:
+  source: https://github.com/godzie44/BugStalker
+  eget: https://github.com/godzie44/BugStalker
+rule:
+  /eget:
+    cmd: x eget godzie44/BugStalker
+    reference: https://github.com/godzie44/BugStalker
+binlist:
+  - 'bugstalker'

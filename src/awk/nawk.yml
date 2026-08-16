@@ -1,0 +1,18 @@
+lang: C
+homepage: https://github.com/mturk/nawk
+desc:
+  en: '"The one true awk" descended from UNIX V7'
+  cn: '"真正的 awk" 源自 UNIX V7'
+x:
+  source: https://github.com/mturk/nawk
+rule:
+  arch/pacman:
+    cmd: sudo pacman -S nawk
+    reference: https://command-not-found.com/nawk
+  fedora/dnf:
+    cmd: sudo dnf install nawk
+    reference: https://command-not-found.com/nawk
+    dsnap: nawk
+binlist:
+- nawk
+license: NOASSERTION

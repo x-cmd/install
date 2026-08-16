@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/mvanhorn/last30days-skill
+license: mit
+desc:
+  cn: AI 智能体技能，跨 Reddit、X、YouTube、HN、Polymarket 与全网研究任意话题并合成有据总结
+  en: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+x:
+  source: https://github.com/mvanhorn/last30days-skill
+  eget: https://github.com/mvanhorn/last30days-skill
+rule:
+  /eget:
+    cmd: x eget mvanhorn/last30days-skill
+    reference: https://github.com/mvanhorn/last30days-skill
+binlist:
+- last30days-skill

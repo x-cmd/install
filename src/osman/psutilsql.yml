@@ -1,0 +1,27 @@
+lang: Go
+homepage: https://github.com/noborus/psutilsql
+license: MIT
+desc:
+  cn: 使用 gopsutil 库检索信息并使用 SQL 对其进行处理
+  en: Use the gopsutil library to retrieve information and process it with SQL
+x:
+  pkg:
+    exist: true
+  source: https://github.com/noborus/psutilsql
+  eget: https://github.com/noborus/psutilsql
+rule:
+  /x:
+    cmd: x pkg use psutilsql
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget noborus/psutilsql
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go get -u github.com/noborus/psutilsql...
+    reference: https://github.com/noborus/psutilsql?tab=readme-ov-file#install
+    dsnap: github.com/noborus/psutilsql
+  arch/yay:
+    cmd: yay -S psutilsql-bin
+    reference: https://aur.archlinux.org/packages/psutilsql-bin
+binlist:
+- psutilsql

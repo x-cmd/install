@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/Cretezy/lazyjj
+license: apache-2.0
+desc:
+  cn: Jujutsu/jj 的 TUI 界面
+  en: TUI for Jujutsu/jj
+x:
+  source: https://github.com/Cretezy/lazyjj
+  eget: https://github.com/Cretezy/lazyjj
+rule:
+  /eget:
+    cmd: x eget Cretezy/lazyjj
+    reference: https://github.com/Cretezy/lazyjj
+binlist:
+- lazyjj

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/repowise-dev/repowise
+license: noassertion
+desc:
+  cn: 索引代码库的依赖、Git 历史和架构，为 AI 编码 Agent 提供深度上下文，提升回答质量并节省 token
+  en: Indexes a codebase's dependencies, git history, and architecture to provide deep context to AI coding agents, improving answer quality and token efficiency.
+x:
+  source: https://github.com/repowise-dev/repowise
+  eget: https://github.com/repowise-dev/repowise
+rule:
+  /eget:
+    cmd: x eget repowise-dev/repowise
+    reference: https://github.com/repowise-dev/repowise
+binlist:
+- repowise

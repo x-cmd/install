@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/Vaishnav-Sabari-Girish/ComChan
+license: 'MIT'
+desc:
+  cn: 极速轻量的串口监控，带串口绘图 TUI 等功能
+  en: 'A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more'
+x:
+  source: https://github.com/Vaishnav-Sabari-Girish/ComChan
+  eget: https://github.com/Vaishnav-Sabari-Girish/ComChan
+rule:
+  /cargo:
+    cmd: 'cargo install'
+    reference: https://github.com/Vaishnav-Sabari-Girish/ComChan
+  /eget:
+    cmd: x eget Vaishnav-Sabari-Girish/ComChan
+    reference: https://github.com/Vaishnav-Sabari-Girish/ComChan
+binlist:
+  - 'comchan'

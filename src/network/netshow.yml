@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/taylorwilsdon/netshow
+desc:
+  cn: 轻量高性能的交互式网络连接监控器，显示友好的服务名
+  en: Lightweight, performant interactive network connection monitor with friendly service names
+x:
+  source: https://github.com/taylorwilsdon/netshow
+  eget: https://github.com/taylorwilsdon/netshow
+rule:
+  /eget:
+    cmd: x eget taylorwilsdon/netshow
+    reference: https://github.com/taylorwilsdon/netshow
+binlist:
+- netshow
+license: NOASSERTION

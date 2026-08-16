@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/caixiaoshun/claudex
+license: gpl-3.0
+desc:
+  cn: 通过本地 Anthropic 兼容代理将 Claude Code 桥接到 ChatGPT Codex
+  en: Bridge Claude Code to ChatGPT Codex via a local Anthropic-compatible proxy.
+x:
+  source: https://github.com/caixiaoshun/claudex
+  eget: https://github.com/caixiaoshun/claudex
+rule:
+  /eget:
+    cmd: x eget caixiaoshun/claudex
+    reference: https://github.com/caixiaoshun/claudex
+binlist:
+- claudex

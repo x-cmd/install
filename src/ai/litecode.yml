@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/razvanneculai/litecode
+license: isc
+desc:
+  cn: 面向 8k 上下文 AI 模型的 CLI 工具
+  en: CLI Tool for 8k context ai models
+x:
+  source: https://github.com/razvanneculai/litecode
+  eget: https://github.com/razvanneculai/litecode
+rule:
+  /eget:
+    cmd: x eget razvanneculai/litecode
+    reference: https://github.com/razvanneculai/litecode
+binlist:
+- litecode

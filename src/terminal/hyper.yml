@@ -1,0 +1,36 @@
+lang: TyperScript
+homepage: https://github.com/vercel/hyper
+license: MIT
+desc:
+  cn: hyper 是基于 web 技术的终端
+  en: Hyper is an Electron-based terminal
+x:
+  source: https://github.com/vercel/hyper
+  eget: https://github.com/vercel/hyper
+rule:
+  /eget:
+    cmd: x eget vercel/hyper
+    reference: https://x-cmd.com/mod/eget
+  arch/paru:
+    cmd: paru -S hyper
+    reference: https://github.com/vercel/hyper?tab=readme-ov-file#arch-and-derivatives
+  darwin/brew:
+    cmd: brew install --cask hyper
+    reference: https://github.com/vercel/hyper?tab=readme-ov-file#macos
+  /nix-env:
+    cmd: nix-env -i hyper
+    reference: https://github.com/vercel/hyper?tab=readme-ov-file#nixos
+  (win|wsl2)/choco:
+    cmd: x choco install hyper
+    reference: https://github.com/vercel/hyper?tab=readme-ov-file#windows
+  (win|wsl2)/scoop:
+    cmd: x scoop bucket add extras && x scoop install extras/hyper
+    reference: https://scoop.sh/#/apps?q=hyper
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Vercel.Hyper
+    reference: https://winget.run/pkg/Vercel/Hyper
+  arch/yay:
+    cmd: yay -S hyper-bin
+    reference: https://aur.archlinux.org/packages/hyper-bin
+binlist:
+- hyper

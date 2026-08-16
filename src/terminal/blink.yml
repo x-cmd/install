@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/jart/blink'
+license: 'ISC'
+desc:
+  cn: 最小的 x86-64-linux 模拟器
+  en: 'tiniest x86-64-linux emulator'
+x:
+  source: https://github.com/jart/blink
+  eget: https://github.com/jart/blink
+rule:
+  /eget:
+    cmd: x eget jart/blink
+    reference: https://github.com/jart/blink
+binlist:
+  - 'blink'

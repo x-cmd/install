@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/jucasoliveira/terminalGPT
+license: mit
+desc:
+  cn: 在终端中体验类似 ChatGPT 的对话
+  en: Get GPT like chatGPT on your terminal
+x:
+  source: https://github.com/jucasoliveira/terminalGPT
+  eget: https://github.com/jucasoliveira/terminalGPT
+rule:
+  /eget:
+    cmd: x eget jucasoliveira/terminalGPT
+    reference: https://github.com/jucasoliveira/terminalGPT
+binlist:
+- terminalGPT

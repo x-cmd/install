@@ -1,0 +1,18 @@
+lang: TypeScript
+homepage: https://github.com/AIEraDev/Clypra
+license: mit
+desc:
+  cn: Tauri + React + TypeScript 构建的开源桌面视频编辑器，提供多轨时间线、帧精确剪辑、专业音频波形、FFmpeg 后端导出与跨平台原生性能。
+  en: An open-source desktop video editor built with Tauri, React and TypeScript, featuring a multi-track timeline, frame-accurate trimming, pro-grade audio waveforms, FFmpeg-backed export, and native cross-platform performance.
+x:
+  source: https://github.com/AIEraDev/Clypra
+rule:
+  darwin/brew:
+    cmd: brew install AIEraDev/tap/clypra
+    reference: https://github.com/AIEraDev/Clypra#installation
+    dsnap: clypra
+  /git:
+    cmd: x git clone AIEraDev/Clypra && cd Clypra && npm install && npm run dev
+    reference: https://github.com/AIEraDev/Clypra#development
+binlist:
+- clypra

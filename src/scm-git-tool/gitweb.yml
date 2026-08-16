@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/yoannfleurydev/gitweb
+license: Apache-2.0
+desc:
+  cn: 在浏览器中打开当前远程仓库
+  en: Open the current remote repository in your browser
+x:
+  source: https://github.com/yoannfleurydev/gitweb
+  eget: https://github.com/yoannfleurydev/gitweb
+rule:
+  /eget:
+    cmd: x eget yoannfleurydev/gitweb
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install gitweb
+    reference: https://github.com/yoannfleurydev/gitweb?tab=readme-ov-file#-the-cargo-way
+    dsnap: gitweb
+  darwin/brew:
+    cmd: brew install yoannfleurydev/gitweb/gitweb
+    reference: https://github.com/yoannfleurydev/gitweb?tab=readme-ov-file#-the-homebrew-way
+  darwin/port:
+    cmd: sudo port install gitweb
+    reference: https://github.com/yoannfleurydev/gitweb?tab=readme-ov-file#-the-macports-way
+binlist:
+- gitweb

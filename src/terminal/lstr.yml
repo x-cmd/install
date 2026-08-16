@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/bgreenwell/lstr
+license: 'MIT'
+desc:
+  cn: 用 Rust 编写的快速、极简目录树查看器
+  en: 'A fast, minimalist directory tree viewer, written in Rust.'
+x:
+  source: https://github.com/bgreenwell/lstr
+  eget: https://github.com/bgreenwell/lstr
+rule:
+  /eget:
+    cmd: x eget bgreenwell/lstr
+    reference: https://github.com/bgreenwell/lstr
+binlist:
+  - 'lstr'

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/pamburus/termframe'
+license: 'MIT'
+desc:
+  cn: 终端输出 SVG 截图工具
+  en: '📸 Terminal output SVG screenshot tool'
+x:
+  source: https://github.com/pamburus/termframe
+  eget: https://github.com/pamburus/termframe
+rule:
+  /eget:
+    cmd: x eget pamburus/termframe
+    reference: https://github.com/pamburus/termframe
+binlist:
+  - 'termframe'

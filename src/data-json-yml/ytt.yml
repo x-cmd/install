@@ -1,0 +1,49 @@
+lang: Go
+homepage: https://github.com/carvel-dev/ytt
+license: Apache-2.0
+desc:
+  cn: YAML 结构的模板工具，可以帮助您通过可重复使用的模板和用户提供的值轻松配置复杂的软件
+  en: ytt (pronounced spelled out) is a templating tool that understands YAML structure
+x:
+  pkg:
+    exist: true
+  source: https://github.com/carvel-dev/ytt
+  eget: https://github.com/carvel-dev/ytt
+rule:
+  /x:
+    cmd: x pkg use ytt
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget carvel-dev/ytt
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use ytt
+    reference: https://github.com/vmware-tanzu/asdf-carvel
+  /curl:
+    cmd: 'mkdir local-bin/ \
+
+      && curl -L https://carvel.dev/install.sh | K14SIO_INSTALL_BIN_DIR=local-bin bash \
+
+      && export PATH=$PWD/local-bin/:$PATH
+
+      '
+    reference: https://carvel.dev/ytt/docs/v0.46.x/install/#via-script-macos-or-linux
+  /wget:
+    cmd: 'wget -O- https://carvel.dev/install.sh > install.sh \
+
+      && sudo bash install.sh
+
+      '
+    reference: https://carvel.dev/ytt/docs/v0.46.x/install/#via-script-macos-or-linux
+  darwin/brew:
+    cmd: 'brew tap carvel-dev/carvel \
+
+      && brew install ytt
+
+      '
+    reference: https://carvel.dev/ytt/docs/v0.46.x/install/#via-homebrew-macos-or-linux
+  arch/yay:
+    cmd: yay -S ytt
+    reference: https://aur.archlinux.org/packages/ytt
+binlist:
+- ytt

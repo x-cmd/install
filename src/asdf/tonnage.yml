@@ -1,0 +1,22 @@
+lang: Go
+homepage: https://github.com/elementalvoid/tonnage
+license: Apache-2.0
+desc:
+  cn: Tonnage 是一个小型实用程序，用于总结 Kubernetes 集群的资源容量和分配
+  en: Tonnage is a small utility to summarize the resource capacity and allocation of a Kubernetes cluster
+x:
+  source: https://github.com/elementalvoid/tonnage
+  eget: https://github.com/elementalvoid/tonnage
+rule:
+  /eget:
+    cmd: x eget elementalvoid/tonnage
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/elementalvoid/tonnage@latest
+    reference: https://github.com/elementalvoid/tonnage?tab=readme-ov-file#source-install
+    dsnap: github.com/elementalvoid/tonnage@latest
+  /asdf:
+    cmd: x asdf use tonnage
+    reference: https://github.com/elementalvoid/asdf-tonnage?tab=readme-ov-file#install
+binlist:
+- tonnage

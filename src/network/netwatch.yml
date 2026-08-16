@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/matthart1983/netwatch
+license: 'MIT'
+desc:
+  cn: 终端实时网络诊断，一条命令零配置即时可见
+  en: 'Real-time network diagnostics in your terminal. One command, zero config, instant visibility.'
+x:
+  source: https://github.com/matthart1983/netwatch
+  eget: https://github.com/matthart1983/netwatch
+rule:
+  debian/apt:
+    cmd: 'sudo apt install libpcap-dev'
+    reference: https://github.com/matthart1983/netwatch
+  /eget:
+    cmd: x eget matthart1983/netwatch
+    reference: https://github.com/matthart1983/netwatch
+binlist:
+  - 'netwatch'

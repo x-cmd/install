@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/ko-build/ko
+license: Apache-2.0
+desc:
+  cn: ko 是用于 GO 应用程序的简单快速的容器图像构建器
+  en: ko is a simple, fast container image builder for Go applications.
+x:
+  source: https://github.com/ko-build/ko
+  eget: https://github.com/ko-build/ko
+rule:
+  /eget:
+    cmd: x eget ko-build/ko
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use ko
+    reference: https://github.com/zasdaym/asdf-ko?tab=readme-ov-file#install
+binlist:
+- ko

@@ -1,0 +1,31 @@
+lang: Python
+homepage: https://github.com/bbugyi200/funky
+license: MIT
+desc:
+  cn: Funky 将 shell 函数提升到了一个新的水平，使它们更易于定义、更灵活且更具交互性
+  en: Funky takes shell functions to the next level, making them easier to define, more flexible, and more interactive
+x:
+  pkg:
+    exist: true
+  source: https://github.com/bbugyi200/funky
+rule:
+  /x:
+    cmd: x pkg use funky
+    reference: https://x-cmd.com/install/
+  /pipx:
+    cmd: 'pipx install pyfunky \
+
+      && funky --setup-shell SHELL
+
+      '
+    reference: https://github.com/bbugyi200/funky?tab=readme-ov-file#using-pipx-to-install-preferred
+  /pip:
+    cmd: 'python3 -m pip install --user pyfunky \
+
+      && funky --setup-shell SHELL
+
+      '
+    reference: https://github.com/bbugyi200/funky#using-pip-to-install
+    dsnap: pyfunky
+binlist:
+- funky

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/MitMaro/git-interactive-rebase-tool
+license: 'GPL-3.0'
+desc:
+  cn: 原生跨平台的终端全功能 git 交互式 rebase 序列编辑器
+  en: 'Native cross-platform full feature terminal-based sequence editor for git interactive rebase.'
+x:
+  source: https://github.com/MitMaro/git-interactive-rebase-tool
+  eget: https://github.com/MitMaro/git-interactive-rebase-tool
+rule:
+  /eget:
+    cmd: x eget MitMaro/git-interactive-rebase-tool
+    reference: https://github.com/MitMaro/git-interactive-rebase-tool
+binlist:
+  - 'git-interactive-rebase-tool'

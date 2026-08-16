@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/tareqimbasher/cargo-seek'
+license: 'MIT'
+desc:
+  cn: 搜索、添加并安装 cargo crate 的终端界面
+  en: 'A terminal user interface for searching, adding and installing cargo crates.'
+x:
+  source: https://github.com/tareqimbasher/cargo-seek
+  eget: https://github.com/tareqimbasher/cargo-seek
+rule:
+  /eget:
+    cmd: x eget tareqimbasher/cargo-seek
+    reference: https://github.com/tareqimbasher/cargo-seek
+binlist:
+  - 'cargo-seek'

@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/mahlquistj/octotype'
+license: 'MIT'
+desc:
+  cn: 受 monkeytype 启发、注重自定义的 TUI 打字训练器（开发中）
+  en: 'A WIP TUI typing trainer inspired by monkeytype with a focus on customization'
+x:
+  source: https://github.com/mahlquistj/octotype
+  eget: https://github.com/mahlquistj/octotype
+rule:
+  /cargo:
+    cmd: 'cargo install octotype'
+    reference: https://github.com/mahlquistj/octotype
+  /eget:
+    cmd: x eget mahlquistj/octotype
+    reference: https://github.com/mahlquistj/octotype
+binlist:
+  - 'octotype'

@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/bjarneo/cliamp
+license: 'MIT'
+desc:
+  cn: cliamp — 受 Winamp 启发的终端音乐播放器
+  en: 'cliamp - Terminal music player inspired by winamp'
+x:
+  source: https://github.com/bjarneo/cliamp
+  eget: https://github.com/bjarneo/cliamp
+rule:
+  darwin/brew:
+    cmd: 'brew install bjarneo/cliamp/cliamp'
+    reference: https://github.com/bjarneo/cliamp
+  /eget:
+    cmd: x eget bjarneo/cliamp
+    reference: https://github.com/bjarneo/cliamp
+binlist:
+  - 'cliamp'

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/edoardottt/cariddi
+license: 'GPL-3.0'
+desc:
+  cn: 对域名列表进行爬取，扫描端点、密钥、API key、文件扩展名、token 等
+  en: 'Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more'
+x:
+  source: https://github.com/edoardottt/cariddi
+  eget: https://github.com/edoardottt/cariddi
+rule:
+  /eget:
+    cmd: x eget edoardottt/cariddi
+    reference: https://github.com/edoardottt/cariddi
+binlist:
+  - 'cariddi'

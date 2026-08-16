@@ -1,0 +1,52 @@
+lang: Rust
+homepage: https://github.com/kdash-rs/kdash
+license: MIT
+desc:
+  cn: 使用 Rust 构建的 Kubernetes 简单终端仪表板
+  en: A simple terminal dashboard for Kubernetes built with Rust
+x:
+  source: https://github.com/kdash-rs/kdash
+  eget: https://github.com/kdash-rs/kdash
+rule:
+  /eget:
+    cmd: x eget kdash-rs/kdash
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S kdash
+    reference: https://aur.archlinux.org/packages/kdash
+  darwin/brew:
+    cmd: 'brew tap kdash-rs/kdash && \
+
+      brew install kdash
+
+      '
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#homebrew-mac--linux
+  linux/brew:
+    cmd: 'brew tap kdash-rs/kdash && \
+
+      brew install kdash
+
+      '
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#homebrew-mac--linux
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add kdash-bucket https://github.com/kdash-rs/scoop-kdash && \
+
+      x scoop install kdash
+
+      '
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#scoop-windows---recommended-way
+  (win|wsl2)/choco:
+    cmd: x choco install kdash
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#chocolatey-windows
+  /cargo:
+    cmd: cargo install kdash
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#cargo
+    dsnap: kdash
+  nix/run:
+    cmd: nix run nixpkgs#kdash
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#nix-maintained-by-third-party
+  /curl:
+    cmd: curl https://raw.githubusercontent.com/kdash-rs/kdash/main/deployment/getLatest.sh | bash
+    reference: https://github.com/kdash-rs/kdash?tab=readme-ov-file#install-script
+binlist:
+- kdash

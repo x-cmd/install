@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/kittors/CliRelay
+license: mit
+desc:
+  cn: 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow 封装为 OpenAI/Gemini/Claude/Codex 兼容的 API 服务
+  en: Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwe...
+x:
+  source: https://github.com/kittors/CliRelay
+  eget: https://github.com/kittors/CliRelay
+rule:
+  /eget:
+    cmd: x eget kittors/CliRelay
+    reference: https://github.com/kittors/CliRelay
+binlist:
+- CliRelay

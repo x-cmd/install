@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/ConardLi/easy-llm-cli
+license: apache-2.0
+desc:
+  cn: 兼容多种 LLM 模型的开源 AI 智能体
+  en: An open-source AI agent that is compatible with multiple LLM models
+x:
+  source: https://github.com/ConardLi/easy-llm-cli
+  eget: https://github.com/ConardLi/easy-llm-cli
+rule:
+  /eget:
+    cmd: x eget ConardLi/easy-llm-cli
+    reference: https://github.com/ConardLi/easy-llm-cli
+binlist:
+- easy-llm-cli

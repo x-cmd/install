@@ -1,0 +1,15 @@
+lang: 'Haskell'
+homepage: https://github.com/simonmichael/hledger
+license: 'GPL-3.0'
+desc:
+  cn: 稳健快速的纯文本记账工具,支持 CLI、TUI 和 Web 界面
+  en: 'Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.'
+x:
+  source: https://github.com/simonmichael/hledger
+  eget: https://github.com/simonmichael/hledger
+rule:
+  /eget:
+    cmd: x eget simonmichael/hledger
+    reference: https://github.com/simonmichael/hledger
+binlist:
+  - 'hledger-ui'

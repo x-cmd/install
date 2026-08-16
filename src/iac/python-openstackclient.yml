@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/openstack/python-openstackclient
+license: Apache-2.0
+desc:
+  cn: OpenStack 的命令行客户端
+  en: 'OpenStackClient (aka OSC) is a command-line client for OpenStack '
+x:
+  pkg:
+    exist: true
+  source: https://github.com/openstack/python-openstackclient
+rule:
+  /x:
+    cmd: x pkg use python-openstackclient
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install python-openstackclient
+    reference: https://docs.openstack.org/zh_CN/user-guide/common/cli-install-openstack-command-line-clients.html
+    dsnap: python-openstackclient
+binlist:
+- python-openstackclient

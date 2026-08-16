@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/Ragnt/AngryOxide'
+license: 'GPL-3.0'
+desc:
+  cn: 802.11 攻击工具
+  en: '802.11 Attack Tool'
+x:
+  source: https://github.com/Ragnt/AngryOxide
+  eget: https://github.com/Ragnt/AngryOxide
+rule:
+  /eget:
+    cmd: x eget Ragnt/AngryOxide
+    reference: https://github.com/Ragnt/AngryOxide
+binlist:
+  - 'angryoxide'

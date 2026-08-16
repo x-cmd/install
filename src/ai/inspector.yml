@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/modelcontextprotocol/inspector
+license: other
+desc:
+  cn: MCP 服务器可视化测试工具
+  en: Visual testing tool for MCP servers
+x:
+  source: https://github.com/modelcontextprotocol/inspector
+rule:
+  /npm:
+    cmd: npm install -g @modelcontextprotocol/inspector
+    reference: https://www.npmjs.com/package/@modelcontextprotocol/inspector
+    dsnap: '@modelcontextprotocol/inspector'
+binlist:
+- inspector

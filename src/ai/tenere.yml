@@ -1,0 +1,28 @@
+lang: Rust
+homepage: https://github.com/pythops/tenere
+license: GPL-3.0
+desc:
+  en: TUI interface for LLMs written in Rust
+  cn: 用 Rust 编写的用于大语言模型（LLMs）的 TUI 界面
+x:
+  source: https://github.com/pythops/tenere
+  eget: https://github.com/pythops/tenere
+rule:
+  /eget:
+    cmd: x eget pythops/tenere
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install tenere
+    reference: https://github.com/pythops/tenere?tab=readme-ov-file#-installation
+  /cargo:
+    cmd: cargo install tenere
+    reference: https://github.com/pythops/tenere?tab=readme-ov-file#-installation
+    dsnap: tenere
+  /nix-env:
+    cmd: nix-env -iA nixpkgs.tenere
+    reference: https://github.com/pythops/tenere?tab=readme-ov-file#-installation
+  arch/yay:
+    cmd: yay -S tenere-bin
+    reference: https://aur.archlinux.org/packages/tenere-bin
+binlist:
+- tenere

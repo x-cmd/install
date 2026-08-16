@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/jhillyerd/labcoat'
+license: 'MIT'
+desc:
+  cn: NixOS 系统部署 TUI
+  en: 'NixOS system deployment TUI'
+x:
+  source: https://github.com/jhillyerd/labcoat
+  eget: https://github.com/jhillyerd/labcoat
+rule:
+  /eget:
+    cmd: x eget jhillyerd/labcoat
+    reference: https://github.com/jhillyerd/labcoat
+binlist:
+  - 'labcoat'

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/dhth/mult
+license: 'MIT'
+desc:
+  cn: 多次运行命令并通过 TUI 浏览输出的工具
+  en: 'Run a command multiple times and glance at the outputs via a TUI'
+x:
+  source: https://github.com/dhth/mult
+  eget: https://github.com/dhth/mult
+rule:
+  /eget:
+    cmd: x eget dhth/mult
+    reference: https://github.com/dhth/mult
+binlist:
+  - 'mult'

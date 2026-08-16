@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/convco/convco
+license: MIT
+desc:
+  cn: 传统的提交、更改日志、版本控制、验证
+  en: Conventional commits, changelog, versioning, validation
+x:
+  source: https://github.com/convco/convco
+  eget: https://github.com/convco/convco
+rule:
+  /eget:
+    cmd: x eget convco/convco
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install convco
+    reference: https://github.com/convco/convco?tab=readme-ov-file#installation
+    dsnap: convco
+  darwin/brew:
+    cmd: brew install convco
+    reference: https://convco.github.io/
+binlist:
+- convco

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/B33pBeeps/redthread'
+license: 'MIT'
+desc:
+  cn: 终端便利贴钉板 TUI，可在 ASCII 软木板上拖动便签、连红线、切换命名面板，Go 编写
+  en: 'A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.'
+x:
+  source: https://github.com/B33pBeeps/redthread
+  eget: https://github.com/B33pBeeps/redthread
+rule:
+  /eget:
+    cmd: x eget B33pBeeps/redthread
+    reference: https://github.com/B33pBeeps/redthread
+binlist:
+  - 'redthread'

@@ -1,0 +1,53 @@
+lang: Go
+homepage: https://github.com/kubevela/kubevela
+license: Apache-2.0
+desc:
+  cn: Kubevela 是一个现代的软件交付平台，它使当今混合，多云环境中的部署和操作应用程序更容易，更快，更可靠
+  en: KubeVela is a modern software delivery platform that makes deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable
+x:
+  source: https://github.com/kubevela/kubevela
+  eget: https://github.com/kubevela/kubevela
+rule:
+  /eget:
+    cmd: x eget kubevela/kubevela
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use vela
+    reference: https://github.com/pdemagny/asdf-vela?tab=readme-ov-file#install
+  linux/curl:
+    cmd: 'curl -fsSl https://kubevela.io/script/install-velad.sh | bash \
+
+      && velad install \
+
+      && export KUBECONFIG=$(velad kubeconfig --host) \
+
+      && vela comp
+
+      '
+    reference: https://kubevela.io/docs/installation/standalone/#2-install-velad-and-setup-kubevela
+  darwin/curl:
+    cmd: 'curl -fsSl https://kubevela.io/script/install-velad.sh | bash \
+
+      && velad install \
+
+      && export KUBECONFIG=$(velad kubeconfig --host) \
+
+      && vela comp
+
+      '
+    reference: https://kubevela.io/docs/installation/standalone/#2-install-velad-and-setup-kubevela
+  win/powershell:
+    cmd: 'powershell -Command "iwr -useb https://static.kubevela.net/script/install-velad.ps1 | iex" \
+
+      && velad install \
+
+      && $env:PATH += ";$HOME\.vela\bin;" \
+
+      && $env:KUBECONFIG = $(velad kubeconfig --host) \
+
+      && vela comp
+
+      '
+    reference: https://kubevela.io/docs/installation/standalone/#2-install-velad-and-setup-kubevela
+binlist:
+- vela

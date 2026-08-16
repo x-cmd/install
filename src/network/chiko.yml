@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/felangga/chiko'
+license: 'MIT'
+desc:
+  cn: 终端中极致优雅的 gRPC 客户端
+  en: 'The ultimate beauty gRPC Client on your Terminal!'
+x:
+  source: https://github.com/felangga/chiko
+  eget: https://github.com/felangga/chiko
+rule:
+  /eget:
+    cmd: x eget felangga/chiko
+    reference: https://github.com/felangga/chiko
+binlist:
+  - 'chiko'

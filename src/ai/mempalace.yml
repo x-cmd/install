@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/MemPalace/mempalace
+license: mit
+desc:
+  cn: 基准测试领先的开源 AI 记忆系统，完全免费
+  en: The best-benchmarked open-source AI memory system. And it's free.
+x:
+  source: https://github.com/MemPalace/mempalace
+  eget: https://github.com/MemPalace/mempalace
+rule:
+  /eget:
+    cmd: x eget MemPalace/mempalace
+    reference: https://github.com/MemPalace/mempalace
+binlist:
+- mempalace

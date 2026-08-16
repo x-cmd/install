@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/encode/httpx
+license: BSD-3-Clause
+desc:
+  cn: Python 的下一代 HTTP 客户端
+  en: A next generation HTTP client for Python
+x:
+  pkg:
+    exist: true
+  source: https://github.com/encode/httpx
+rule:
+  /x:
+    cmd: x pkg use httpx
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install 'httpx[cli]'
+    reference: https://github.com/encode/httpx?tab=readme-ov-file#installation
+    dsnap: httpx[cli]
+binlist:
+- httpx

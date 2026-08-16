@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/yamafaktory/jql
+license: 'Apache-2.0'
+desc:
+  cn: JSON 查询语言 CLI 工具
+  en: 'A JSON Query Language CLI tool'
+x:
+  source: https://github.com/yamafaktory/jql
+  eget: https://github.com/yamafaktory/jql
+rule:
+  /eget:
+    cmd: x eget yamafaktory/jql
+    reference: https://github.com/yamafaktory/jql
+binlist:
+  - 'jql'

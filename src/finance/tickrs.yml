@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/tarkah/tickrs'
+license: 'MIT'
+desc:
+  cn: 终端中的实时行情数据
+  en: 'Realtime ticker data in your terminal 📈'
+x:
+  source: https://github.com/tarkah/tickrs
+  eget: https://github.com/tarkah/tickrs
+rule:
+  /eget:
+    cmd: x eget tarkah/tickrs
+    reference: https://github.com/tarkah/tickrs
+binlist:
+  - 'tickrs'

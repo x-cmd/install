@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/openai/whisper'
+license: 'MIT'
+desc:
+  cn: 基于大规模弱监督的稳健语音识别
+  en: 'Robust Speech Recognition via Large-Scale Weak Supervision'
+x:
+  source: https://github.com/openai/whisper
+rule:
+  /pip:
+    cmd: pip install openai-whisper
+    reference: https://pypi.org/project/openai-whisper/
+    dsnap: openai-whisper
+binlist:
+  - 'whisper'

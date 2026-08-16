@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/aliom-v/KiroGate
+license: agpl-3.0
+desc:
+  cn: OpenAI 与 Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
+  en: OpenAI & Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
+x:
+  source: https://github.com/aliom-v/KiroGate
+  eget: https://github.com/aliom-v/KiroGate
+rule:
+  /eget:
+    cmd: x eget aliom-v/KiroGate
+    reference: https://github.com/aliom-v/KiroGate
+binlist:
+- KiroGate

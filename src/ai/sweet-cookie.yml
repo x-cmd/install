@@ -1,0 +1,13 @@
+lang: TypeScript
+homepage: https://sweetcookie.dev
+license: mit
+desc:
+  cn: 浏览器 cookie 提取库，inline 优先 + 本地尽力读取；无原生 Node 插件，TypeScript 实现，跨 macOS/Windows/Linux
+  en: Browser cookie extraction library. Inline-first with best-effort local reads. No native Node addons, TypeScript, cross-platform (macOS/Windows/Linux).
+rule:
+  /npm:
+    cmd: npm i -g @steipete/sweet-cookie
+    reference: https://github.com/steipete/sweet-cookie
+    dsnap: '@steipete/sweet-cookie'
+binlist:
+  - sweet-cookie

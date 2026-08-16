@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/stigoleg/keep-alive'
+license: 'MIT'
+desc:
+  cn: 轻量跨平台工具，防止系统休眠，适合下载、长连接或长时任务
+  en: 'Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.'
+x:
+  source: https://github.com/stigoleg/keep-alive
+  eget: https://github.com/stigoleg/keep-alive
+rule:
+  debian/apt:
+    cmd: 'sudo apt install ydotool'
+    reference: https://github.com/stigoleg/keep-alive
+  /eget:
+    cmd: x eget stigoleg/keep-alive
+    reference: https://github.com/stigoleg/keep-alive
+binlist:
+  - 'keep-alive'

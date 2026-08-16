@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/affaan-m/ECC
+license: mit
+desc:
+  cn: Agent 框架的性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等提供技能、直觉、记忆、安全与研究优先开发
+  en: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+x:
+  source: https://github.com/affaan-m/ECC
+  eget: https://github.com/affaan-m/ECC
+rule:
+  /eget:
+    cmd: x eget affaan-m/ECC
+    reference: https://github.com/affaan-m/ECC
+binlist:
+- ECC

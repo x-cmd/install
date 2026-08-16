@@ -1,0 +1,44 @@
+lang: Go
+desc:
+  cn: 用于创建和恢复加密文件的工具
+  en: Tools for creating and recovering encrypted files
+homepage: https://github.com/jesseduffield/horcrux
+license: MIT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/jesseduffield/horcrux
+  eget: https://github.com/jesseduffield/horcrux
+rule:
+  /x:
+    cmd: x pkg use horcrux
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget jesseduffield/horcrux
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S horcrux
+    reference: https://aur.archlinux.org/packages/horcrux
+  darwin/brew:
+    cmd: brew install jesseduffield/horcrux/horcrux
+    reference: https://github.com/jesseduffield/horcrux?tab=readme-ov-file#installation
+  (win|wsl2)/scoop:
+    cmd: scoop bucket add extras; scoop install horcrux
+    reference: https://github.com/jesseduffield/horcrux?tab=readme-ov-file#installation
+  linux/curl:
+    cmd: 'curl https://api.github.com/repos/jesseduffield/horcrux/releases/latest | \
+
+      jq ''.assets[] | select(.browser_download_url | endswith("_Linux_x86_64.tar.gz")) | .browser_download_url'' | \
+
+      xargs curl -Lo /tmp/horcrux.tar.gz && \
+
+      tar xfz /tmp/horcrux.tar.gz -C /tmp && \
+
+      rm /tmp/horcrux.tar.gz && \
+
+      sudo mv /tmp/horcrux /usr/local/bin/horcrux
+
+      '
+    reference: https://github.com/jesseduffield/horcrux?tab=readme-ov-file#installation
+binlist:
+- horcrux

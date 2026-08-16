@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/linkerd/linkerd2
+license: Apache-2.0
+desc:
+  cn: Linkerd 是 Kubernetes 的服务网
+  en: Linkerd is a service mesh for Kubernetes
+x:
+  source: https://github.com/linkerd/linkerd2
+  eget: https://github.com/linkerd/linkerd2
+rule:
+  /eget:
+    cmd: x eget linkerd/linkerd2
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl --proto '=https' --tlsv1.2 -sSfL https://run.linkerd.io/install | sh
+    reference: https://linkerd.io/2.14/getting-started/#step-1-install-the-cli
+  /asdf:
+    cmd: x asdf use linkerd
+    reference: https://github.com/kforsthoevel/asdf-linkerd?tab=readme-ov-file#install
+binlist:
+- linkerd

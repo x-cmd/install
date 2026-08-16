@@ -1,0 +1,26 @@
+lang: Python
+homepage: https://github.com/jrnl-org/jrnl
+license: GPL-3.0
+desc:
+  cn: 无需离开命令行即可收集您的想法和笔记
+  en: Collect your thoughts and notes without leaving the command line
+x:
+  pkg:
+    exist: true
+  source: https://github.com/jrnl-org/jrnl
+rule:
+  /x:
+    cmd: x pkg use jrnl
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install jrnl
+    reference: https://jrnl.sh/en/stable/installation/
+    dsnap: jrnl
+  darwin/brew:
+    cmd: brew install jrnl
+    reference: https://jrnl.sh/en/stable/installation/
+  /pipx:
+    cmd: pipx install jrnl
+    reference: https://jrnl.sh/en/stable/installation/
+binlist:
+- jrnl

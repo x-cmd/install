@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/pipe-cd/pipecd
+license: Apache-2.0
+desc:
+  cn: 一个 gitOps 风格的持续交付平台，为任何应用程序提供一致的部署和操作体验
+  en: A GitOps style continuous delivery platform that provides consistent deployment and operations experience for any applications
+x:
+  source: https://github.com/pipe-cd/pipecd
+  eget: https://github.com/pipe-cd/pipecd
+rule:
+  /eget:
+    cmd: x eget pipe-cd/pipecd
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use pipectl
+    reference: https://github.com/pipe-cd/asdf-pipectl?tab=readme-ov-file#install
+binlist:
+- pipectl

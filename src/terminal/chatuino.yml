@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/julez-dev/chatuino
+license: 'MIT'
+desc:
+  cn: 功能丰富的 TUI Twitch IRC 客户端
+  en: 'A feature rich TUI Twitch IRC Client'
+x:
+  source: https://github.com/julez-dev/chatuino
+  eget: https://github.com/julez-dev/chatuino
+rule:
+  /eget:
+    cmd: x eget julez-dev/chatuino
+    reference: https://github.com/julez-dev/chatuino
+binlist:
+  - 'chatuino'

@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/rtk-ai/rtk
+license: apache-2.0
+desc:
+  cn: 单文件 Rust 二进制、零依赖的 CLI 代理，可将常见开发命令的 LLM token 消耗降低 60-90%
+  en: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+x:
+  source: https://github.com/rtk-ai/rtk
+  eget: https://github.com/rtk-ai/rtk
+rule:
+  /eget:
+    cmd: x eget rtk-ai/rtk
+    reference: https://github.com/rtk-ai/rtk
+binlist:
+- rtk

@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/Harry-kp/vortix'
+license: 'MIT'
+desc:
+  cn: WireGuard 与 OpenVPN 的终端 UI，含实时遥测与防泄漏
+  en: 'Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.'
+x:
+  source: https://github.com/Harry-kp/vortix
+  eget: https://github.com/Harry-kp/vortix
+rule:
+  /cargo:
+    cmd: 'cargo install vortix'
+    reference: https://github.com/Harry-kp/vortix
+  /eget:
+    cmd: x eget Harry-kp/vortix
+    reference: https://github.com/Harry-kp/vortix
+binlist:
+  - 'vortix'

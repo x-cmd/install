@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/HKUDS/nanobot
+license: mit
+desc:
+  cn: 面向工具、聊天和工作流的轻量开源 AI Agent
+  en: Lightweight, open-source AI agent for your tools, chats, and workflows.
+x:
+  source: https://github.com/HKUDS/nanobot
+  eget: https://github.com/HKUDS/nanobot
+rule:
+  /eget:
+    cmd: x eget HKUDS/nanobot
+    reference: https://github.com/HKUDS/nanobot
+binlist:
+- nanobot

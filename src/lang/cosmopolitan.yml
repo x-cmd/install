@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/cosmopolitan
+license: isc
+desc:
+  cn: 一次构建处处运行的 C 库
+  en: build-once run-anywhere c library
+x:
+  source: https://github.com/jart/cosmopolitan
+  eget: https://github.com/jart/cosmopolitan
+rule:
+  /eget:
+    cmd: x eget jart/cosmopolitan
+    reference: https://github.com/jart/cosmopolitan
+binlist:
+- cosmopolitan

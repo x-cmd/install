@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/ck-zhang/reddix'
+license: 'MIT'
+desc:
+  cn: 为终端优化的 Reddit 客户端
+  en: 'Reddix – Reddit, refined for the terminal.'
+x:
+  source: https://github.com/ck-zhang/reddix
+  eget: https://github.com/ck-zhang/reddix
+rule:
+  /eget:
+    cmd: x eget ck-zhang/reddix
+    reference: https://github.com/ck-zhang/reddix
+binlist:
+  - 'reddix'

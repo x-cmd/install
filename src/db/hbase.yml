@@ -1,0 +1,17 @@
+lang: Java
+homepage: https://github.com/apache/hbase
+license: Apache-2.0
+desc:
+  cn: Apache HBase™ 是 Hadoop 数据库，一个分布式、可伸缩的大型数据存储
+  en: Apache HBase™ is the Hadoop database, a distributed, scalable, big data store
+x:
+  source: https://github.com/apache/hbase
+rule:
+  darwin/brew:
+    cmd: brew install hbase
+    reference: https://formulae.brew.sh/formula/hbase#default
+  arch/yay:
+    cmd: yay -S hbase
+    reference: https://aur.archlinux.org/packages/hbase
+binlist:
+- hbase

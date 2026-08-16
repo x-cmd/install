@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/textfuel/lazyjira'
+license: 'MIT'
+desc:
+  cn: lazygit 风格的 Jira 客户端
+  en: 'Lazygit but for Jira'
+x:
+  source: https://github.com/textfuel/lazyjira
+  eget: https://github.com/textfuel/lazyjira
+rule:
+  /eget:
+    cmd: x eget textfuel/lazyjira
+    reference: https://github.com/textfuel/lazyjira
+binlist:
+  - 'lazyjira'

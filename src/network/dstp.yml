@@ -1,0 +1,28 @@
+lang: Go
+homepage: https://github.com/ycd/dstp
+license: MIT
+desc:
+  cn: 针对您的站点运行常见的网络测试
+  en: run common networking tests against your site
+x:
+  source: https://github.com/ycd/dstp
+  eget: https://github.com/ycd/dstp
+rule:
+  /eget:
+    cmd: x eget ycd/dstp
+    reference: https://x-cmd.com/mod/eget
+  /brew:
+    cmd: brew install ycd/tap/dstp
+    reference: https://github.com/ycd/dstp?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S dstp
+    reference: https://aur.archlinux.org/packages/dstp
+  /go:
+    cmd: go install github.com/ycd/dstp/cmd/dstp@latest
+    reference: https://github.com/ycd/dstp?tab=readme-ov-file#installation
+    dsnap: github.com/ycd/dstp/cmd/dstp@latest
+  nix/nix-shell:
+    cmd: nix-shell -p dstp
+    reference: https://search.nixos.org/packages?query=dstp
+binlist:
+- dstp

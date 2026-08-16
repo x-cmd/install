@@ -1,0 +1,25 @@
+lang: Nim
+homepage: https://github.com/zqqw/pakku
+license: GPL-3.0
+desc:
+  en: A pacman wrapper with additional features, such as AUR support
+  cn: 一个带有额外功能的 pacman 包装器，例如 AUR 支持
+x:
+  source: https://github.com/zqqw/pakku
+rule:
+  arch/pacman:
+    cmd: 'sudo pacman -S git base-devel \
+
+      && git clone https://aur.archlinux.org/pakku.git \
+
+      && cd pakku \
+
+      && makepkg -si
+
+      '
+    reference: https://zhuanlan.zhihu.com/p/114904008
+  arch/yay:
+    cmd: yay -S pakku
+    reference: https://aur.archlinux.org/packages/pakku
+binlist:
+- pakku

@@ -1,0 +1,18 @@
+lang: Rust
+homepage: https://github.com/eythaann/Seelen-UI
+license: AGPL-3.0
+desc:
+  cn: SeelenUI 是一个专注于自定义和生产力的工具，旨在增强您的 Windows 桌面体验
+  en: Seelen UI is a tool designed to enhance your Windows desktop experience with a focus on customization and productivity
+x:
+  source: https://github.com/eythaann/Seelen-UI
+  eget: https://github.com/eythaann/Seelen-UI
+rule:
+  /eget:
+    cmd: x eget eythaann/Seelen-UI
+    reference: https://x-cmd.com/mod/eget
+  (win|wsl2)/winget:
+    cmd: x winget install --id Seelen.SeelenUI
+    reference: https://github.com/eythaann/seelen-ui?tab=readme-ov-file#winget
+binlist:
+- seelen-ui

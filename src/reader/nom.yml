@@ -1,0 +1,19 @@
+lang: Go
+homepage: https://github.com/guyfedwards/nom
+license: GPL-3.0
+desc:
+  en: RSS reader for the terminal
+  cn: 终端上的 RSS 阅读器
+x:
+  source: https://github.com/guyfedwards/nom
+  eget: https://github.com/guyfedwards/nom
+rule:
+  /eget:
+    cmd: x eget guyfedwards/nom
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/guyfedwards/nom/cmd/nom@latest
+    reference: https://github.com/guyfedwards/nom?tab=readme-ov-file#install
+    dsnap: github.com/guyfedwards/nom/cmd/nom@latest
+binlist:
+- nom

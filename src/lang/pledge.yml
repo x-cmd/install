@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/pledge
+license: isc
+desc:
+  cn: 通过 SECCOMP BPF 和 Landlock LSM 将 OpenBSD API 移植到 Linux 用户态
+  en: OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
+x:
+  source: https://github.com/jart/pledge
+  eget: https://github.com/jart/pledge
+rule:
+  /eget:
+    cmd: x eget jart/pledge
+    reference: https://github.com/jart/pledge
+binlist:
+- pledge

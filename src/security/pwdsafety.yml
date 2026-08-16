@@ -1,0 +1,28 @@
+lang: Go
+homepage: https://github.com/edoardottt/pwdsafety
+license: GPL-3.0
+desc:
+  cn: 用于检查密码安全性的命令行工具
+  en: A CLI tool for checking password safety.
+x:
+  source: https://github.com/edoardottt/pwdsafety
+  eget: https://github.com/edoardottt/pwdsafety
+rule:
+  /eget:
+    cmd: x eget edoardottt/pwdsafety
+    reference: https://x-cmd.com/mod/eget
+  arch/pacman:
+    cmd: pacman -S pwdsafety
+    reference: https://github.com/edoardottt/pwdsafety#get-started-
+  /snap:
+    cmd: sudo snap install pwdsafety
+    reference: https://github.com/edoardottt/pwdsafety#get-started-
+  /go:
+    cmd: go install -v github.com/edoardottt/pwdsafety@latest
+    reference: https://github.com/edoardottt/pwdsafety#get-started-
+    dsnap: pwdsafety
+  arch/yay:
+    cmd: yay -S pwdsafety
+    reference: https://aur.archlinux.org/packages/pwdsafety
+binlist:
+- pwdsafety

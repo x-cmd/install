@@ -1,0 +1,44 @@
+lang: Go
+homepage: https://github.com/Yakitrak/obsidian-cli
+license: MIT
+desc:
+  cn: 在终端中与 Obsidian 交互。打开、搜索、创建、更新、移动和删除笔记
+  en: Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes
+x:
+  pkg:
+    exist: true
+  source: https://github.com/Yakitrak/obsidian-cli
+  eget: https://github.com/Yakitrak/obsidian-cli
+rule:
+  /eget:
+    cmd: x eget Yakitrak/obsidian-cli
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use obs
+    reference: https://x-cmd.com/install/
+  arch/yay:
+    cmd: yay -S obsidian-cli-git
+    reference: https://aur.archlinux.org/packages/obsidian-cli-git
+  darwin/brew:
+    cmd: 'brew tap yakitrak/yakitrak && \
+
+      brew install yakitrak/yakitrak/obs
+
+      '
+    reference: https://yakitrak.github.io/obs/docs/install/mac-and-linux
+  linux/brew:
+    cmd: 'brew tap yakitrak/yakitrak && \
+
+      brew install yakitrak/yakitrak/obs
+
+      '
+    reference: https://yakitrak.github.io/obs/docs/install/mac-and-linux
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add scoop-yakitrak https://github.com/yakitrak/scoop-yakitrak.git && \
+
+      x scoop install obs
+
+      '
+    reference: https://yakitrak.github.io/obs/docs/install/windows
+binlist:
+- obs

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/microsoft/LLM2CLIP
+license: mit
+desc:
+  cn: 显著提升 CLIP 模型效果（在已有 SOTA 基础上）
+  en: LLM2CLIP significantly improves already state-of-the-art CLIP models.
+x:
+  source: https://github.com/microsoft/LLM2CLIP
+  eget: https://github.com/microsoft/LLM2CLIP
+rule:
+  /eget:
+    cmd: x eget microsoft/LLM2CLIP
+    reference: https://github.com/microsoft/LLM2CLIP
+binlist:
+- LLM2CLIP

@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/nosarthur/gita'
+license: 'MIT'
+desc:
+  cn: 从容管理多个 git 仓库
+  en: 'Manage many git repos with sanity 从容管理多个git库'
+x:
+  source: https://github.com/nosarthur/gita
+  eget: https://github.com/nosarthur/gita
+rule:
+  /eget:
+    cmd: x eget nosarthur/gita
+    reference: https://github.com/nosarthur/gita
+binlist:
+  - 'gita'

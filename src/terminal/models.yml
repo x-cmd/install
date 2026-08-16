@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/arimxyer/models
+license: 'MIT'
+desc:
+  cn: 浏览各 AI 供应商模型、跑分、编程 Agent 与状态的 TUI 和 CLI
+  en: 'TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.'
+x:
+  source: https://github.com/arimxyer/models
+  eget: https://github.com/arimxyer/models
+rule:
+  /eget:
+    cmd: x eget arimxyer/models
+    reference: https://github.com/arimxyer/models
+binlist:
+  - 'models'

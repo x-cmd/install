@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/soxoj/maigret
+license: mit
+desc:
+  cn: 仅凭用户名即可跨 3000+ 站点探测账号并生成详细 OSINT 档案，用于自查数字足迹、安全研究与授权调查。
+  en: Find a person's online accounts across 3,000+ websites by username and generate detailed OSINT reports.
+x:
+  source: https://github.com/soxoj/maigret
+rule:
+  /pip:
+    cmd: pip install maigret
+    reference: https://github.com/soxoj/maigret
+    dsnap: maigret
+binlist:
+- maigret

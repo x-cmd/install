@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/karlot/sshclick'
+license: 'MIT'
+desc:
+  cn: 基于 Python 和 Click 框架、配 Rich 与 Textual UI 的 SSH 配置终端管理器
+  en: 'SSH Config terminal manager based on Python and Click framework with Rich and Textual UI'
+x:
+  source: https://github.com/karlot/sshclick
+  eget: https://github.com/karlot/sshclick
+rule:
+  /eget:
+    cmd: x eget karlot/sshclick
+    reference: https://github.com/karlot/sshclick
+binlist:
+  - 'sshclick'

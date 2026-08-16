@@ -1,0 +1,41 @@
+lang: Java
+homepage: https://github.com/bazelbuild/bazel
+license: Apache-2.0
+desc:
+  cn: Bazel 是一款与 Make、Maven 和 Gradle 类似的开源构建和测试工具
+  en: Bazel is an open-source build and test tool similar to Make, Maven, and Gradle
+x:
+  source: https://github.com/bazelbuild/bazel
+  eget: https://github.com/bazelbuild/bazel
+rule:
+  /eget:
+    cmd: x eget bazelbuild/bazel
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install bazel
+    reference: https://bazel.build/install/os-x
+  (win|wsl2)/scoop:
+    cmd: x scoop install bazel
+    reference: https://bazel.build/install/windows#scoop
+  (win|wsl2)/choco:
+    cmd: x choco install bazel
+    reference: https://bazel.build/install/windows#chocolately
+  ubuntu/apt:
+    cmd: 'sudo apt install apt-transport-https curl gnupg -y && \
+
+      curl -fsSL https://bazel.build/bazel-release.pub.gpg | gpg --dearmor >bazel-archive-keyring.gpg && \
+
+      sudo mv bazel-archive-keyring.gpg /usr/share/keyrings && \
+
+      echo "deb [arch=amd64 signed-by=/usr/share/keyrings/bazel-archive-keyring.gpg] https://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list  && \
+
+      sudo apt update && sudo apt install bazel
+
+      '
+    reference: https://bazel.build/install/ubuntu#install-on-ubuntu
+    dsnap: bazel
+  opensuse/zypper:
+    cmd: sudo zypper install bazel
+    reference: https://bazel.build/install/suse#install-opensuse
+binlist:
+- bazel

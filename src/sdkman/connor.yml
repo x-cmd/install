@@ -1,0 +1,32 @@
+lang: Java
+homepage: https://github.com/helpermethod/connor/releases
+license: Apache-2.0
+desc:
+  cn: 用于重置 Kafka Connect 源连接器偏移量的命令行工具
+  en: A commandline tool for resetting Kafka Connect source connector offsets
+x:
+  pkg:
+    exist: true
+rule:
+  /x:
+    cmd: x pkg use connor
+    reference: https://x-cmd.com/install/
+  /sdk:
+    cmd: sdk install connor
+    reference: https://github.com/helpermethod/connor?tab=readme-ov-file#sdkman
+  darwin/brew:
+    cmd: 'brew tap helpermethod/homebrew-tap \
+
+      && brew install connor
+
+      '
+    reference: https://github.com/helpermethod/connor?tab=readme-ov-file#homebrew
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add helpermethod https://github.com/helpermethod/scoop-helpermethod.git \
+
+      && x scoop install connor
+
+      '
+    reference: https://github.com/helpermethod/connor?tab=readme-ov-file#scoop
+binlist:
+- connor

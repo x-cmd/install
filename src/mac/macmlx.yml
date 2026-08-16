@@ -1,0 +1,15 @@
+lang: swift
+homepage: https://github.com/ljh-sh/macmlx
+license: apache-2.0
+desc:
+  cn: macOS 本地大模型 CLI —— ljh-sh agent IO 栈的「推理/大脑」层。基于 Apple MLX 框架设备端运行 MLX 模型与 LoRA adapter；FIFO daemon 常驻模型；紧凑 JSON 输出。隐私不离机，省 API 费用
+  en: macOS on-device LLM CLI — the "reasoning" layer of the ljh-sh agent IO stack. Run MLX models and LoRA adapters locally via Apple's MLX framework; FIFO daemon keeps the model resident; compact JSON output. Private, no API bills
+x:
+  source: https://github.com/ljh-sh/macmlx
+  eget: https://github.com/ljh-sh/macmlx
+rule:
+  /eget:
+    cmd: x eget ljh-sh/macmlx
+    reference: https://github.com/ljh-sh/macmlx
+binlist:
+  - macmlx

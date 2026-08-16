@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: https://github.com/PaddiM8/kalker
+license: 'MIT'
+desc:
+  cn: 科学计算器，支持自定义变量与函数、复数以及导数和积分估算
+  en: 'Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals'
+x:
+  source: https://github.com/PaddiM8/kalker
+  eget: https://github.com/PaddiM8/kalker
+rule:
+  /cargo:
+    cmd: 'cargo install kalker'
+    reference: https://github.com/PaddiM8/kalker
+  darwin/brew:
+    cmd: 'brew install kalker'
+    reference: https://github.com/PaddiM8/kalker
+  /eget:
+    cmd: x eget PaddiM8/kalker
+    reference: https://github.com/PaddiM8/kalker
+binlist:
+  - 'kalker'

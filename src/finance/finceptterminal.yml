@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/Fincept-Corporation/FinceptTerminal
+license: noassertion
+desc:
+  cn: 开源桌面终端分析金融市场,提供 CFA 级分析、100+ 数据连接器和 AI 研究助手
+  en: Analyze financial markets with an open-source desktop terminal featuring CFA-level analytics, 100+ data connectors, and AI-powered research agents.
+x:
+  source: https://github.com/Fincept-Corporation/FinceptTerminal
+  eget: https://github.com/Fincept-Corporation/FinceptTerminal
+rule:
+  /eget:
+    cmd: x eget Fincept-Corporation/FinceptTerminal
+    reference: https://github.com/Fincept-Corporation/FinceptTerminal
+binlist:
+- finceptterminal

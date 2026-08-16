@@ -1,0 +1,25 @@
+lang: Python
+homepage: https://github.com/actionless/pikaur
+license: GPL-3.0
+desc:
+  cn: 具有最小依赖性的 AUR 助手
+  en: AUR helper with minimal dependencies
+x:
+  source: https://github.com/actionless/pikaur
+rule:
+  arch/pacman:
+    cmd: 'sudo pacman -S --needed base-devel git \
+
+      && git clone https://aur.archlinux.org/pikaur.git \
+
+      && cd pikaur \
+
+      && makepkg -fsri
+
+      '
+    reference: https://github.com/actionless/pikaur#installation
+  arch/yay:
+    cmd: yay -S pikaur
+    reference: https://aur.archlinux.org/packages/pikaur
+binlist:
+- pikaur

@@ -1,0 +1,15 @@
+lang: 'Zig'
+homepage: https://github.com/neurocyte/flow
+license: 'MIT'
+desc:
+  cn: Flow Control：面向程序员的文本编辑器
+  en: 'Flow Control: a programmer''s text editor'
+x:
+  source: https://github.com/neurocyte/flow
+  eget: https://github.com/neurocyte/flow
+rule:
+  /eget:
+    cmd: x eget neurocyte/flow
+    reference: https://github.com/neurocyte/flow
+binlist:
+  - 'flowcontrol'

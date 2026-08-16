@@ -1,0 +1,19 @@
+lang: Python
+homepage: https://github.com/royreznik/rexi
+license: MIT
+desc:
+  en: Terminal UI for Regex Testing
+  cn: 正则表达式测试的终端 UI
+x:
+  source: https://github.com/royreznik/rexi
+  eget: https://github.com/royreznik/rexi
+rule:
+  /eget:
+    cmd: x eget royreznik/rexi
+    reference: https://x-cmd.com/mod/eget
+  /pip:
+    cmd: pip install rexi
+    reference: https://github.com/royreznik/rexi?tab=readme-ov-file#installation
+    dsnap: rexi
+binlist:
+- rexi

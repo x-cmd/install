@@ -1,0 +1,18 @@
+lang: C++
+homepage: https://github.com/fmtlib/fmt
+license: MIT
+desc:
+  en: '{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams'
+  cn: '{fmt} 是一个开放源码的格式化库，提供了一个快速而安全的 C stdio 和 C + + iostream 的替代品'
+x:
+  source: https://github.com/fmtlib/fmt
+  eget: https://github.com/fmtlib/fmt
+rule:
+  /eget:
+    cmd: x eget fmtlib/fmt
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install fmt
+    reference: https://formulae.brew.sh/formula/fmt#default
+binlist:
+- fmt

@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/jdefrancesco/dskDitto'
+license: 'Apache-2.0'
+desc:
+  cn: 超快易用的重复文件查找器,配 TUI/GUI 管理结果
+  en: 'Ultra fast and easy duplicate file finder. Awesome TUI/GUI to manage results.'
+x:
+  source: https://github.com/jdefrancesco/dskDitto
+  eget: https://github.com/jdefrancesco/dskDitto
+rule:
+  /go:
+    cmd: 'go install github.com/securego/gosec/v2/cmd/gosec@latest'
+    reference: https://github.com/jdefrancesco/dskDitto
+  /eget:
+    cmd: x eget jdefrancesco/dskDitto
+    reference: https://github.com/jdefrancesco/dskDitto
+binlist:
+  - 'dskditto'

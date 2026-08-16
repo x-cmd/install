@@ -1,0 +1,17 @@
+lang: Python
+homepage: https://github.com/davep/hike
+license: GPL-3.0
+desc:
+  cn: Hike 是终端的 Markdown 浏览器。
+  en: Hike is a Markdown browser for the terminal.
+x:
+  source: https://github.com/davep/hike
+rule:
+  /pipx:
+    cmd: pipx install hike
+    reference: https://github.com/davep/hike?tab=readme-ov-file#pipx
+  darwin/brew:
+    cmd: brew tap davep/homebrew && brew install hike
+    reference: https://github.com/davep/hike?tab=readme-ov-file#homebrew
+binlist:
+- hike

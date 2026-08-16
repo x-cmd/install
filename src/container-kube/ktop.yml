@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/vladimirvivien/ktop
+license: 'Apache-2.0'
+desc:
+  cn: Kubernetes 集群指标的 top 类监控工具
+  en: 'A top-like tool for your Kubernetes cluster metrics'
+x:
+  source: https://github.com/vladimirvivien/ktop
+  eget: https://github.com/vladimirvivien/ktop
+rule:
+  /eget:
+    cmd: x eget vladimirvivien/ktop
+    reference: https://github.com/vladimirvivien/ktop
+binlist:
+  - 'ktop'

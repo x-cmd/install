@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Fguedes90/lazycelery
+license: 'MIT'
+desc:
+  cn: 监控和管理 Celery worker 与任务的 TUI，灵感来自 lazydocker 和 lazygit
+  en: 'Terminal UI for monitoring and managing Celery workers and tasks, inspired by lazydocker and lazygit'
+x:
+  source: https://github.com/Fguedes90/lazycelery
+  eget: https://github.com/Fguedes90/lazycelery
+rule:
+  /eget:
+    cmd: x eget Fguedes90/lazycelery
+    reference: https://github.com/Fguedes90/lazycelery
+binlist:
+  - 'lazycelery'

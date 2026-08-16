@@ -1,0 +1,18 @@
+lang: swift
+homepage: https://github.com/ljh-sh/maclisten
+license: apache-2.0
+desc:
+  cn: 轻量 macOS 语音转文字（ASR）CLI —— ljh-sh agent IO 栈的「耳朵」层。原生 Speech 框架，多语言自动选择，流式/文件转录，紧凑 JSON 输出
+  en: Lightweight macOS speech-to-text (ASR) CLI — the "hearing" layer of the ljh-sh agent IO stack. Native Speech framework, multi-locale auto-pick, streaming/file transcription, compact JSON output
+x:
+  source: https://github.com/ljh-sh/maclisten
+  eget: https://github.com/ljh-sh/maclisten
+rule:
+  /eget:
+    cmd: x eget ljh-sh/maclisten
+    reference: https://github.com/ljh-sh/maclisten
+  darwin/brew:
+    cmd: brew install ljh-sh/cli/maclisten
+    reference: https://github.com/ljh-sh/homebrew-cli
+binlist:
+  - maclisten

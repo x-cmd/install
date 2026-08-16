@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/ordinals/ord
+license: CC0-1.0
+desc:
+  cn: ord 是一个索引、区块浏览器和命令行钱包
+  en: ord is an index, block explorer, and command-line wallet
+x:
+  source: https://github.com/ordinals/ord
+  eget: https://github.com/ordinals/ord
+rule:
+  /eget:
+    cmd: x eget ordinals/ord
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl --proto '=https' --tlsv1.2 -fsLS https://ordinals.com/install.sh | bash -s
+    reference: https://github.com/ordinals/ord?tab=readme-ov-file#installation
+  darwin/brew:
+    cmd: brew install ord
+    reference: https://github.com/ordinals/ord?tab=readme-ov-file#homebrew
+binlist:
+- ord

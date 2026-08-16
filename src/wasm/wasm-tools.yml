@@ -1,0 +1,27 @@
+lang: Rust
+homepage: https://github.com/bytecodealliance/wasm-tools
+license: Apache-2.0
+desc:
+  cn: 用于 WebAssembly 模块低级操作的 CLI 和 Rust 库
+  en: CLI and Rust libraries for low-level manipulation of WebAssembly modules
+x:
+  pkg:
+    exist: true
+  source: https://github.com/bytecodealliance/wasm-tools
+  eget: https://github.com/bytecodealliance/wasm-tools
+rule:
+  /x:
+    cmd: x pkg use wasm-tools
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget bytecodealliance/wasm-tools
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install wasm-tools
+    reference: https://github.com/bytecodealliance/wasm-tools?tab=readme-ov-file#installation
+    dsnap: wasm-tools
+  arch/yay:
+    cmd: yay -S wasm-tools-git
+    reference: https://aur.archlinux.org/packages/wasm-tools-git
+binlist:
+- wasm-tools

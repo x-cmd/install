@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/microsoft/graphrag
+license: mit
+desc:
+  cn: 基于图的模块化检索增强生成（RAG）系统
+  en: A modular graph-based Retrieval-Augmented Generation (RAG) system
+x:
+  source: https://github.com/microsoft/graphrag
+rule:
+  /pip:
+    cmd: pip install graphrag
+    reference: https://pypi.org/project/graphrag/
+    dsnap: graphrag
+binlist:
+- graphrag

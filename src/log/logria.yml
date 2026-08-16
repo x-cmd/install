@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/ReagentX/Logria
+license: GPL-3.0
+desc:
+  cn: 一个强大的 CLI 工具，可以将日志聚合放在您的指尖。
+  en: A powerful CLI tool that puts log aggregation at your fingertips.
+x:
+  source: https://github.com/ReagentX/Logria
+  eget: https://github.com/ReagentX/Logria
+rule:
+  /eget:
+    cmd: x eget ReagentX/Logria
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S logria
+    reference: https://aur.archlinux.org/packages/logria
+  /cargo:
+    cmd: cargo install logria
+    reference: https://github.com/ReagentX/Logria?tab=readme-ov-file#cargo-recommended
+    dsnap: logria
+binlist:
+- logria

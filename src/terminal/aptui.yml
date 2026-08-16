@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/mexirica/aptui'
+license: 'MIT'
+desc:
+  cn: 面向 APT 系 Linux 发行版的 TUI 包管理器
+  en: 'TUI package manager for APT-based Linux distributions'
+x:
+  source: https://github.com/mexirica/aptui
+  eget: https://github.com/mexirica/aptui
+rule:
+  /eget:
+    cmd: x eget mexirica/aptui
+    reference: https://github.com/mexirica/aptui
+binlist:
+  - 'aptui'

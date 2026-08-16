@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/adbar/trafilatura
+license: Apache-2.0
+desc:
+  cn: 将 json 数据格式化表格进行查看
+  en: Format json into table view
+x:
+  source: https://github.com/adbar/trafilatura
+rule:
+  /cargo:
+    cmd: cargo install tv-cli
+    reference: https://github.com/uzimaru0000/tv?tab=readme-ov-file#use-cargo
+    dsnap: tv-cli
+  darwin/brew:
+    cmd: brew install uzimaru0000/tap/tv
+    reference: https://github.com/uzimaru0000/tv?tab=readme-ov-file#for-macos
+binlist:
+- tv-cli

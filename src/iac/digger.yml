@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/diggerhq/digger
+license: MIT
+desc:
+  en: Digger is an open-source IaC automation and collaboration software for Terraform and OpenTofu
+  cn: Digger 是用于 Terraform 和 OpenTofu 的开源 IaC 自动化和协作软件
+x:
+  source: https://github.com/diggerhq/digger
+  eget: https://github.com/diggerhq/digger
+rule:
+  /eget:
+    cmd: x eget diggerhq/digger
+    reference: https://x-cmd.com/mod/eget
+  /docker:
+    cmd: docker pull ghcr.io/diggerhq/digger/digger-backend-ee:v0.1.7.29
+    reference: https://github.com/diggerhq/digger?tab=readme-ov-file#getting-started
+binlist:
+- digger

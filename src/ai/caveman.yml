@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/JuliusBrussee/caveman
+license: mit
+desc:
+  cn: Claude Code 技能，用穴居人风格说话可减少 65% 的 token 用量
+  en: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+x:
+  source: https://github.com/JuliusBrussee/caveman
+  eget: https://github.com/JuliusBrussee/caveman
+rule:
+  /eget:
+    cmd: x eget JuliusBrussee/caveman
+    reference: https://github.com/JuliusBrussee/caveman
+binlist:
+- caveman

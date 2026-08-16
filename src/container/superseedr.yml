@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/Jagalite/superseedr'
+license: 'GPL-3.0'
+desc:
+  cn: 终端中的 BitTorrent 客户端
+  en: 'A BitTorrent Client in your Terminal'
+x:
+  source: https://github.com/Jagalite/superseedr
+  eget: https://github.com/Jagalite/superseedr
+rule:
+  /cargo:
+    cmd: 'cargo install superseedr'
+    reference: https://github.com/Jagalite/superseedr
+  darwin/brew:
+    cmd: 'brew install superseedr'
+    reference: https://github.com/Jagalite/superseedr
+  /eget:
+    cmd: x eget Jagalite/superseedr
+    reference: https://github.com/Jagalite/superseedr
+binlist:
+  - 'superseedr'

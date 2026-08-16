@@ -1,0 +1,21 @@
+lang: 'Rust'
+homepage: 'https://github.com/ifd3f/caligula'
+license: 'GPL-3.0'
+desc:
+  cn: 用户友好的轻量级磁盘镜像 TUI
+  en: 'A user-friendly, lightweight TUI for disk imaging'
+x:
+  source: https://github.com/ifd3f/caligula
+  eget: https://github.com/ifd3f/caligula
+rule:
+  /cargo:
+    cmd: 'cargo install caligula'
+    reference: https://github.com/ifd3f/caligula
+  arch/pacman:
+    cmd: 'pacman -S caligula'
+    reference: https://github.com/ifd3f/caligula
+  /eget:
+    cmd: x eget ifd3f/caligula
+    reference: https://github.com/ifd3f/caligula
+binlist:
+  - 'caligula'

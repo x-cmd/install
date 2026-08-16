@@ -1,0 +1,20 @@
+lang: Python
+homepage: https://github.com/deeplcom/deepl-python
+license: MIT
+desc:
+  cn: 用于 DeepL 语言翻译 API 的官方 Python 库
+  en: Official Python library for the DeepL language translation API
+x:
+  pkg:
+    exist: true
+  source: https://github.com/deeplcom/deepl-python
+rule:
+  /x:
+    cmd: x pkg use deepl
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: pip install --upgrade deepl
+    reference: https://github.com/deeplcom/deepl-python?tab=readme-ov-file#installation
+    dsnap: deepl
+binlist:
+- deepl

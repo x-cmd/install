@@ -1,0 +1,21 @@
+lang: c/Perl
+homepage: https://github.com/curl/trurl
+desc:
+  en: trurl is a tool in a similar spirit of tr but for URLs
+  cn: trurl 是一个与 tr 精神类似的工具，但是用于 URL
+x:
+  source: https://github.com/curl/trurl
+  eget: https://github.com/curl/trurl
+rule:
+  /eget:
+    cmd: x eget curl/trurl
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install trurl
+    reference: https://formulae.brew.sh/formula/trurl#default
+  arch/yay:
+    cmd: yay -S trurl-git
+    reference: https://aur.archlinux.org/packages/trurl-git
+binlist:
+- trurl
+license: NOASSERTION

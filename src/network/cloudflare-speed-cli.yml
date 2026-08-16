@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/kavehtehrani/cloudflare-speed-cli'
+license: 'GPL-3.0'
+desc:
+  cn: 通过 Cloudflare 进行网络测速的 CLI
+  en: 'CLI for internet speed test via cloudflare'
+x:
+  source: https://github.com/kavehtehrani/cloudflare-speed-cli
+  eget: https://github.com/kavehtehrani/cloudflare-speed-cli
+rule:
+  /eget:
+    cmd: x eget kavehtehrani/cloudflare-speed-cli
+    reference: https://github.com/kavehtehrani/cloudflare-speed-cli
+binlist:
+  - 'cloudflare-speed-cli'

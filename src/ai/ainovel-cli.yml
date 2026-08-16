@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/voocel/ainovel-cli
+license: apache-2.0
+desc:
+  cn: 多 Agent 实现的全自动 AI 小说生成工具
+  en: ✨多agent实现全自动AI小说生成
+x:
+  source: https://github.com/voocel/ainovel-cli
+  eget: https://github.com/voocel/ainovel-cli
+rule:
+  /eget:
+    cmd: x eget voocel/ainovel-cli
+    reference: https://github.com/voocel/ainovel-cli
+binlist:
+- ainovel-cli

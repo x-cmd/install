@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/FoundationAgents/MetaGPT
+license: mit
+desc:
+  cn: 多 Agent 框架，打造首家 AI 软件公司，迈向自然语言编程
+  en: '🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming'
+x:
+  source: https://github.com/FoundationAgents/MetaGPT
+  eget: https://github.com/FoundationAgents/MetaGPT
+rule:
+  /eget:
+    cmd: x eget FoundationAgents/MetaGPT
+    reference: https://github.com/FoundationAgents/MetaGPT
+binlist:
+- MetaGPT

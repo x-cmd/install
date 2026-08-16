@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/aksakalli/gtop
+license: MIT
+desc:
+  en: System monitoring dashboard for terminal
+  cn: 终端系统监控仪表盘
+x:
+  source: https://github.com/aksakalli/gtop
+rule:
+  /npm:
+    cmd: npm install gtop -g
+    reference: https://github.com/aksakalli/gtop?tab=readme-ov-file#installation
+    dsnap: gtop
+binlist:
+- gtop

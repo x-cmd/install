@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/jart/jtckdint
+license: isc
+desc:
+  cn: C23 带检查的算术运算
+  en: C23 Checked Arithmetic
+x:
+  source: https://github.com/jart/jtckdint
+  eget: https://github.com/jart/jtckdint
+rule:
+  /eget:
+    cmd: x eget jart/jtckdint
+    reference: https://github.com/jart/jtckdint
+binlist:
+- jtckdint

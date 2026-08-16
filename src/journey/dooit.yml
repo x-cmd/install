@@ -1,0 +1,21 @@
+lang: Python
+homepage: https://github.com/dooit-org/dooit
+license: MIT
+desc:
+  cn: 出色的 TUI 待办事项管理器
+  en: An awesome TUI todo manager
+x:
+  source: https://github.com/dooit-org/dooit
+  eget: https://github.com/dooit-org/dooit
+rule:
+  /eget:
+    cmd: x eget dooit-org/dooit
+    reference: https://x-cmd.com/mod/eget
+  /pip:
+    cmd: pip install dooit dooit-extras
+    reference: https://dooit-org.github.io/dooit/getting_started/installation.html
+  arch/yay:
+    cmd: yay -S dooit dooit-extras
+    reference: https://dooit-org.github.io/dooit/getting_started/installation.html
+binlist:
+- dooit

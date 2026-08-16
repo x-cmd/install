@@ -1,0 +1,23 @@
+homepage: https://github.com/trizen/trizen
+license: GPL-3.0
+lang: Perl
+desc:
+  en: Lightweight AUR Package Manager
+  cn: 轻量级 AUR 包管理器
+x:
+  source: https://github.com/trizen/trizen
+rule:
+  arch/pacman:
+    cmd: 'git clone https://aur.archlinux.org/trizen.git \
+
+      && cd trizen \
+
+      && makepkg -si
+
+      '
+    reference: https://github.com/trizen/trizen/blob/master/TRIZEN.md#installation
+  arch/yay:
+    cmd: yay -S trizen
+    reference: https://aur.archlinux.org/packages/trizen
+binlist:
+- trizen

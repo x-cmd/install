@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/chojs23/concord'
+license: 'GPL-3.0'
+desc:
+  cn: 功能丰富的 Discord TUI 客户端
+  en: 'A feature-rich TUI client for Discord'
+x:
+  source: https://github.com/chojs23/concord
+  eget: https://github.com/chojs23/concord
+rule:
+  /eget:
+    cmd: x eget chojs23/concord
+    reference: https://github.com/chojs23/concord
+binlist:
+  - 'concord'

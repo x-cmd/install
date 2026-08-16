@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/kworkflow/patch-hub'
+license: 'GPL-2.0'
+desc:
+  cn: 简化 Linux 开发者与 lore.kernel.org 归档补丁交互的 TUI
+  en: 'patch-hub is a TUI that streamlines the interaction of Linux developers with patches archived on lore.kernel.org'
+x:
+  source: https://github.com/kworkflow/patch-hub
+  eget: https://github.com/kworkflow/patch-hub
+rule:
+  /eget:
+    cmd: x eget kworkflow/patch-hub
+    reference: https://github.com/kworkflow/patch-hub
+binlist:
+  - 'patch-hub'

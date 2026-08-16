@@ -1,0 +1,18 @@
+lang: 'Python'
+homepage: 'https://github.com/sparklost/endcord'
+license: 'GPL-3.0'
+desc:
+  cn: 功能丰富的 Discord TUI 客户端
+  en: 'Feature rich Discord TUI client.'
+x:
+  source: https://github.com/sparklost/endcord
+  eget: https://github.com/sparklost/endcord
+rule:
+  arch/pacman:
+    cmd: 'yay -S endcord'
+    reference: https://github.com/sparklost/endcord
+  /eget:
+    cmd: x eget sparklost/endcord
+    reference: https://github.com/sparklost/endcord
+binlist:
+  - 'endcord'

@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/xaaha/hulak'
+license: 'MIT'
+desc:
+  cn: 轻量基于文件的 CLI API 客户端，支持 age 加密密钥与 GraphQL
+  en: 'Lightweight file-based CLI API client with age-encrypted secrets and first-class GraphQL support.'
+x:
+  source: https://github.com/xaaha/hulak
+  eget: https://github.com/xaaha/hulak
+rule:
+  /go:
+    cmd: 'go install github.com/xaaha/hulak@latest'
+    reference: https://github.com/xaaha/hulak
+  /eget:
+    cmd: x eget xaaha/hulak
+    reference: https://github.com/xaaha/hulak
+binlist:
+  - 'hulak'

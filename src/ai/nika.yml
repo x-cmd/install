@@ -1,0 +1,27 @@
+lang: 'Rust'
+homepage: 'https://github.com/supernovae-st/nika'
+license: 'AGPL-3.0'
+desc:
+  cn: 面向 AI 的工作流引擎：单一 .nika.yaml DAG（LLM 步骤、Shell 步骤、工具调用），执行前静态校验（schema/permits/cost floor），执行后生成可验证的执行轨迹（nika trace verify）。本地优先，mock 与 Ollama 路径无需 API key。
+  en: 'Workflow engine for AI: a single .nika.yaml DAG (LLM steps, shell steps, tool calls) statically checked before a single token is spent (nika check: schema, permits, cost floor) and leaving a tamper-evident trace after (nika trace verify). Local-first, mock and Ollama paths need no API key.'
+x:
+  source: https://github.com/supernovae-st/nika
+  eget: https://github.com/supernovae-st/nika
+rule:
+  /eget:
+    cmd: x eget supernovae-st/nika
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use nika
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install supernovae-st/tap/nika
+    reference: https://github.com/supernovae-st/nika#install
+  /cargo:
+    cmd: cargo binstall --git https://github.com/supernovae-st/nika nika-cli
+    reference: https://github.com/supernovae-st/nika#install
+  /nix:
+    cmd: nix run github:supernovae-st/nika
+    reference: https://github.com/supernovae-st/nika#install
+binlist:
+  - 'nika'

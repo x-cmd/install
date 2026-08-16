@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/MrMarble/termsvg
+license: GPL-3.0
+desc:
+  cn: 记录，共享和导出您的终端作为一个动画 SVG 图像
+  en: Record, share and export your terminal as a animated SVG image
+x:
+  pkg:
+    exist: true
+  source: https://github.com/MrMarble/termsvg
+  eget: https://github.com/MrMarble/termsvg
+rule:
+  /x:
+    cmd: x pkg use termsvg
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget MrMarble/termsvg
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -sL https://raw.githubusercontent.com/MrMarble/termsvg/master/scripts/install-termsvg.sh | sudo -E bash -
+    reference: https://github.com/MrMarble/termsvg#installation
+  /wget:
+    cmd: wget -O - https://raw.githubusercontent.com/MrMarble/termsvg/master/scripts/install-termsvg.sh | sudo -E bash -
+    reference: https://github.com/MrMarble/termsvg#installation
+binlist:
+- termsvg

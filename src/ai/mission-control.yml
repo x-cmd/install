@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/builderz-labs/mission-control
+license: mit
+desc:
+  cn: 面向 AI Agent 集群的自托管编排与监控面板，调度任务、追踪成本、审计安全
+  en: Self-hosted dashboard for orchestrating AI agent fleets — dispatch tasks, track costs, audit security
+x:
+  source: https://github.com/builderz-labs/mission-control
+rule:
+  /git:
+    cmd: x git clone builderz-labs/mission-control
+    reference: https://github.com/builderz-labs/mission-control
+binlist:
+- mission-control

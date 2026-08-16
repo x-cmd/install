@@ -1,0 +1,29 @@
+lang: Go
+homepage: https://github.com/ossf/scorecard
+license: Apache-2.0
+desc:
+  cn: OpenSSF 记分卡 - 开源的安全健康指标
+  en: OpenSSF Scorecard - Security health metrics for Open Source
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ossf/scorecard
+  eget: https://github.com/ossf/scorecard
+rule:
+  /x:
+    cmd: x pkg use scorecard
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ossf/scorecard
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install scorecard
+    reference: https://github.com/ossf/scorecard?tab=readme-ov-file#installation
+  /nix-shell:
+    cmd: nix-shell -p nixpkgs.scorecard
+    reference: https://github.com/ossf/scorecard?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S scorecard-bin
+    reference: https://aur.archlinux.org/packages/scorecard-bin
+binlist:
+- scorecard

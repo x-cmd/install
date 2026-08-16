@@ -1,0 +1,22 @@
+homepage: https://github.com/conventional-changelog/commitlint
+license: MIT
+lang: JavaScript
+desc:
+  cn: 校验 git commit 提交信息
+  en: Lint your git commit messages
+x:
+  pkg:
+    exist: true
+  source: https://github.com/conventional-changelog/commitlint
+rule:
+  /x:
+    cmd: x pkg use commitlint
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install commitlint
+    reference: https://formulae.brew.sh/formula/commitlint#default
+  win/npm:
+    cmd: npm install --save-dev @commitlint/config-conventional @commitlint/cli
+    reference: https://commitlint.js.org/#/guides-local-setup?id=install-commitlint
+binlist:
+- commitlint

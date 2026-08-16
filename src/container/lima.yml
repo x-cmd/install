@@ -1,0 +1,35 @@
+lang: Go
+homepage: https://github.com/lima-vm/lima
+license: Apache-2.0
+desc:
+  cn: Lima 启动具有自动文件共享和端口转发功能的 Linux 虚拟机(类似于 WSL2)
+  en: Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
+x:
+  pkg:
+    exist: true
+  source: https://github.com/lima-vm/lima
+  eget: https://github.com/lima-vm/lima
+rule:
+  /eget:
+    cmd: x eget lima-vm/lima
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use lima
+    reference: https://x-cmd.com/install/
+  /asdf:
+    cmd: x asdf use lima
+    reference: https://github.com/CrouchingMuppet/asdf-lima
+  arch/yay:
+    cmd: yay -S lima
+    reference: https://aur.archlinux.org/packages/lima
+  darwin/brew:
+    cmd: brew install lima
+    reference: https://github.com/lima-vm/lima?tab=readme-ov-file#getting-started
+  darwin/port:
+    cmd: sudo port selfupdate && sudo port install lima
+    reference: https://lima-vm.io/docs/installation/
+  /nixpkgs:
+    cmd: nix-env -i lima
+    reference: https://lima-vm.io/docs/installation/
+binlist:
+- lima

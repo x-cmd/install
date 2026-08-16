@@ -1,0 +1,33 @@
+lang: Go
+homepage: https://github.com/rgburke/grv
+license: GPL-3.0
+desc:
+  cn: GRV 是一个基于终端的界面，用于查看 Git 仓库。
+  en: GRV is a terminal based interface for viewing Git repositories.
+x:
+  source: https://github.com/rgburke/grv
+  eget: https://github.com/rgburke/grv
+rule:
+  /eget:
+    cmd: x eget rgburke/grv
+    reference: https://x-cmd.com/mod/eget
+  /wget:
+    cmd: 'wget -O grv https://github.com/rgburke/grv/releases/download/v0.3.2/grv_v0.3.2_linux64 && \
+
+      chmod +x ./grv && \
+
+      ./grv -repoFilePath /path/to/repo
+
+      '
+    reference: https://github.com/rgburke/grv?tab=readme-ov-file#linux
+  darwin/brew:
+    cmd: brew install grv
+    reference: https://github.com/rgburke/grv?tab=readme-ov-file#mac
+  freebsd/pkg:
+    cmd: pkg install grv
+    reference: https://github.com/rgburke/grv?tab=readme-ov-file#freebsd
+  arch/yay:
+    cmd: yay -S grv
+    reference: https://aur.archlinux.org/packages/grv
+binlist:
+- grv

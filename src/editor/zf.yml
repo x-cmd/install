@@ -1,0 +1,15 @@
+lang: 'Zig'
+homepage: 'https://github.com/natecraddock/zf'
+license: 'MIT'
+desc:
+  cn: 用于过滤文件路径的命令行模糊查找器和 zig 模块
+  en: 'a commandline fuzzy finder and zig module designed for filtering filepaths'
+x:
+  source: https://github.com/natecraddock/zf
+  eget: https://github.com/natecraddock/zf
+rule:
+  /eget:
+    cmd: x eget natecraddock/zf
+    reference: https://github.com/natecraddock/zf
+binlist:
+  - 'zf'

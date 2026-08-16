@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/thomasschafer/scooter'
+license: 'MIT'
+desc:
+  cn: 终端中的交互式查找替换工具
+  en: 'Interactive find-and-replace in the terminal'
+x:
+  source: https://github.com/thomasschafer/scooter
+  eget: https://github.com/thomasschafer/scooter
+rule:
+  /eget:
+    cmd: x eget thomasschafer/scooter
+    reference: https://github.com/thomasschafer/scooter
+binlist:
+  - 'scooter'

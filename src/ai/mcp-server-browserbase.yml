@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/browserbase/mcp-server-browserbase
+license: apache-2.0
+desc:
+  cn: 让 LLM 通过 Browserbase 与 Stagehand 控制浏览器的 MCP 服务器
+  en: Allow LLMs to control a browser with Browserbase and Stagehand
+x:
+  source: https://github.com/browserbase/mcp-server-browserbase
+rule:
+  /npm:
+    cmd: npm install -g @browserbasehq/mcp-server-browserbase
+    reference: https://www.npmjs.com/package/@browserbasehq/mcp-server-browserbase
+    dsnap: '@browserbasehq/mcp-server-browserbase'
+binlist:
+- mcp-server-browserbase

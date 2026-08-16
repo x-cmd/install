@@ -1,0 +1,30 @@
+lang: Go
+homepage: https://github.com/pdfcpu/pdfcpu
+license: Apache-2.0
+desc:
+  cn: pdfcpu 是一个用 Go 编写的支持加密的 PDF 处理库
+  en: pdfcpu is a PDF processing library written in Go supporting encryption
+x:
+  pkg:
+    exist: true
+  source: https://github.com/pdfcpu/pdfcpu
+  eget: https://github.com/pdfcpu/pdfcpu
+rule:
+  /x:
+    cmd: x pkg use pdfcpu
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget pdfcpu/pdfcpu
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install pdfcpu
+    reference: https://formulae.brew.sh/formula/pdfcpu#default
+  arch/yay:
+    cmd: yay -S pdfcpu
+    reference: https://aur.archlinux.org/packages/pdfcpu
+  fedora/dnf:
+    cmd: sudo dnf install golang-github-pdfcpu
+    reference: https://github.com/pdfcpu/pdfcpu#installation
+    dsnap: golang-github-pdfcpu
+binlist:
+- pdfcpu

@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/kubernetes-sigs/cri-tools
+license: Apache-2.0
+desc:
+  cn: Kubelet 容器运行时接口(CRI)的 CLI 和验证工具
+  en: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+x:
+  source: https://github.com/kubernetes-sigs/cri-tools
+  eget: https://github.com/kubernetes-sigs/cri-tools
+rule:
+  /eget:
+    cmd: x eget kubernetes-sigs/cri-tools
+    reference: https://x-cmd.com/mod/eget
+  /wget:
+    cmd: 'VERSION="v1.28.0" \
+
+      && wget https://github.com/kubernetes-sigs/cri-tools/releases/download/$VERSION/critest-$VERSION-linux-amd64.tar.gz \
+
+      && sudo tar zxvf critest-$VERSION-linux-amd64.tar.gz -C /usr/local/bin \
+
+      && rm -f critest-$VERSION-linux-amd64.tar.gz
+
+      '
+    reference: https://github.com/kubernetes-sigs/cri-tools?tab=readme-ov-file#install-critest
+binlist:
+- critest

@@ -1,0 +1,15 @@
+lang: Jupyter Notebook
+homepage: https://github.com/moein-shariatnia/OpenAI-CLIP
+license: mit
+desc:
+  cn: 用 PyTorch 简洁实现 OpenAI CLIP 模型
+  en: Simple implementation of OpenAI CLIP model in PyTorch.
+x:
+  source: https://github.com/moein-shariatnia/OpenAI-CLIP
+  eget: https://github.com/moein-shariatnia/OpenAI-CLIP
+rule:
+  /eget:
+    cmd: x eget moein-shariatnia/OpenAI-CLIP
+    reference: https://github.com/moein-shariatnia/OpenAI-CLIP
+binlist:
+- OpenAI-CLIP

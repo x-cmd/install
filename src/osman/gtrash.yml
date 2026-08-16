@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/umlx5h/gtrash'
+license: 'MIT'
+desc:
+  cn: 功能丰富的回收站 CLI 管理器，rm 与 trash-cli 的替代品
+  en: 'A Featureful Trash CLI manager: alternative to rm and trash-cli'
+x:
+  source: https://github.com/umlx5h/gtrash
+  eget: https://github.com/umlx5h/gtrash
+rule:
+  /eget:
+    cmd: x eget umlx5h/gtrash
+    reference: https://github.com/umlx5h/gtrash
+binlist:
+  - 'gtrash'

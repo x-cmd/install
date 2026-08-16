@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/orailnoor/cross-platform-llm-client
+license: mit
+desc:
+  cn: 统一跨平台 AI 客户端，支持在标准云 API 与设备端离线运行自定义、无审查语言模型间无缝切换
+  en: A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+x:
+  source: https://github.com/orailnoor/cross-platform-llm-client
+  eget: https://github.com/orailnoor/cross-platform-llm-client
+rule:
+  /eget:
+    cmd: x eget orailnoor/cross-platform-llm-client
+    reference: https://github.com/orailnoor/cross-platform-llm-client
+binlist:
+- cross-platform-llm-client

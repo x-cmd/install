@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/kimusan/mastui
+license: 'MIT'
+desc:
+  cn: Python 编写的 Mastodon TUI 客户端
+  en: 'A TUI client for mastodon written in python'
+x:
+  source: https://github.com/kimusan/mastui
+  eget: https://github.com/kimusan/mastui
+rule:
+  /eget:
+    cmd: x eget kimusan/mastui
+    reference: https://github.com/kimusan/mastui
+binlist:
+  - 'mastui'

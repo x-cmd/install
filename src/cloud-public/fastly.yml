@@ -1,0 +1,26 @@
+lang: Go
+desc:
+  cn: fastly 是一个开源命令行工具，用于与 Fastly API 交互。使用它来创建服务、管理后端和域、上传 VCL 或构建和部署计算包
+  en: fastly is an open-source command line tool for interacting with the Fastly API. Use it to create services, manage backends and domains, upload VCL or build and deploy Compute packages
+homepage: https://github.com/fastly/cli
+license: Apache-2.0
+x:
+  pkg:
+    exist: true
+  source: https://github.com/fastly/cli
+  eget: https://github.com/fastly/cli
+rule:
+  /x:
+    cmd: x pkg use fastly
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget fastly/cli
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install fastly/tap/fastly
+    reference: https://developer.fastly.com/learning/tools/cli/#installing
+  arch/yay:
+    cmd: yay -S fastly-bin
+    reference: https://aur.archlinux.org/packages/fastly-bin
+binlist:
+- fastly

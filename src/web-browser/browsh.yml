@@ -1,0 +1,21 @@
+lang: JavaScript
+homepage: https://github.com/browsh-org/browsh
+license: LGPL-2.1
+desc:
+  cn: Browsh 是一个完全现代化的基于文本的浏览器。
+  en: Browsh is a fully-modern text-based browser.
+x:
+  source: https://github.com/browsh-org/browsh
+  eget: https://github.com/browsh-org/browsh
+rule:
+  /eget:
+    cmd: x eget browsh-org/browsh
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew tap browsh-org/homebrew-browsh
+    reference: https://www.brow.sh/downloads/
+  arch/yay:
+    cmd: yay -S browsh-bin
+    reference: https://www.brow.sh/downloads/
+binlist:
+- browsh

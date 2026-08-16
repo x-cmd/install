@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/MacroPower/kat'
+license: 'Apache-2.0'
+desc:
+  cn: Kubernetes 清单的 TUI 与基于规则的渲染引擎
+  en: 'TUI and rule-based rendering engine for Kubernetes manifests'
+x:
+  source: https://github.com/MacroPower/kat
+  eget: https://github.com/MacroPower/kat
+rule:
+  /eget:
+    cmd: x eget MacroPower/kat
+    reference: https://github.com/MacroPower/kat
+binlist:
+  - 'kat'

@@ -1,0 +1,33 @@
+lang: Go
+homepage: https://github.com/justjanne/powerline-go
+license: GPL-3.0
+desc:
+  cn: 用 go 实现的 Powerline 风格 prompt
+  en: Powerline style prompt implemented in go
+x:
+  pkg:
+    exist: true
+  source: https://github.com/justjanne/powerline-go
+  eget: https://github.com/justjanne/powerline-go
+rule:
+  /x:
+    cmd: x pkg use powerline-go
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget justjanne/powerline-go
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use powerline-go
+    reference: https://github.com/dex4er/asdf-powerline-go
+  darwin/brew:
+    cmd: brew install powerline-go
+    reference: https://formulae.brew.sh/formula/powerline-go#default
+  /go:
+    cmd: go install github.com/justjanne/powerline-go@latest
+    reference: https://github.com/justjanne/powerline-go?tab=readme-ov-file#other-platforms
+    dsnap: github.com/justjanne/powerline-go@latest
+  arch/yay:
+    cmd: yay -S powerline-go
+    reference: https://aur.archlinux.org/packages/powerline-go
+binlist:
+- powerline-go

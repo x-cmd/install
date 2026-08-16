@@ -1,0 +1,31 @@
+lang: C++
+homepage: https://github.com/tstack/lnav
+license: BSD-2-Clause
+desc:
+  cn: 日志文件导航器 lnav 是终端的高级日志文件查看器
+  en: The Log File Navigator, lnav, is an advanced log file viewer for the terminal
+x:
+  source: https://github.com/tstack/lnav
+  eget: https://github.com/tstack/lnav
+rule:
+  /eget:
+    cmd: x eget tstack/lnav
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S lnav-git
+    reference: https://aur.archlinux.org/packages/lnav-git
+  darwin/brew:
+    cmd: brew install lnav
+    reference: https://github.com/tstack/lnav?tab=readme-ov-file#brew-on-macos
+  /snap:
+    cmd: sudo snap install lnav
+    reference: https://lnav.org/downloads
+  /yum:
+    cmd: 'curl -s https://packagecloud.io/install/repositories/tstack/lnav/script.rpm.sh | sudo bash && \
+
+      sudo yum install lnav
+
+      '
+    reference: https://lnav.org/downloads
+binlist:
+- lnav

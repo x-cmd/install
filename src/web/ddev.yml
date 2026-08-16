@@ -1,0 +1,113 @@
+lang: Go
+homepage: https://github.com/ddev/ddev
+license: Apache-2.0
+desc:
+  cn: DDEV 是一款开源工具，可在几分钟内启动本地 Web 开发环境。它支持 PHP 和 Node.js。
+  en: DDEV is an open source tool for launching local web development environments in minutes. It supports PHP and Node.js.
+x:
+  source: https://github.com/ddev/ddev
+  eget: https://github.com/ddev/ddev
+rule:
+  /eget:
+    cmd: x eget ddev/ddev
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install ddev/ddev/ddev
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#macos
+  darwin/curl:
+    cmd: curl -fsSL https://ddev.com/install.sh | bash
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#install-script
+  debian/apt:
+    cmd: 'sudo sh -c ''echo ""'' && \
+
+      sudo apt-get update && sudo apt-get install -y curl && \
+
+      sudo install -m 0755 -d /etc/apt/keyrings && \
+
+      curl -fsSL https://pkg.ddev.com/apt/gpg.key | gpg --dearmor | sudo tee /etc/apt/keyrings/ddev.gpg > /dev/null && \
+
+      sudo chmod a+r /etc/apt/keyrings/ddev.gpg && \
+
+      sudo sh -c ''echo ""'' && \
+
+      echo "deb [signed-by=/etc/apt/keyrings/ddev.gpg] https://pkg.ddev.com/apt/ * *" | sudo tee /etc/apt/sources.list.d/ddev.list >/dev/null && \
+
+      sudo sh -c ''echo ""'' && \
+
+      sudo apt-get update && sudo apt-get install -y ddev
+
+      '
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#debianubuntu
+    dsnap: ddev
+  ubuntu/apt:
+    cmd: 'sudo sh -c ''echo ""'' && \
+
+      sudo apt-get update && sudo apt-get install -y curl && \
+
+      sudo install -m 0755 -d /etc/apt/keyrings && \
+
+      curl -fsSL https://pkg.ddev.com/apt/gpg.key | gpg --dearmor | sudo tee /etc/apt/keyrings/ddev.gpg > /dev/null && \
+
+      sudo chmod a+r /etc/apt/keyrings/ddev.gpg && \
+
+      sudo sh -c ''echo ""'' && \
+
+      echo "deb [signed-by=/etc/apt/keyrings/ddev.gpg] https://pkg.ddev.com/apt/ * *" | sudo tee /etc/apt/sources.list.d/ddev.list >/dev/null && \
+
+      sudo sh -c ''echo ""'' && \
+
+      sudo apt-get update && sudo apt-get install -y ddev
+
+      '
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#debianubuntu
+    dsnap: ddev
+  fedora/dnf:
+    cmd: 'sudo sh -c ''echo ""'' && \
+
+      echo ''[ddev] && \
+
+      name=ddev && \
+
+      baseurl=https://pkg.ddev.com/yum/ && \
+
+      gpgcheck=0 && \
+
+      enabled=1'' | perl -p -e ''s/^ +//'' | sudo tee /etc/yum.repos.d/ddev.repo >/dev/null && \
+
+      sudo sh -c ''echo ""'' && \
+
+      sudo dnf install --refresh ddev
+
+      '
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#fedora-red-hat-etc
+    dsnap: ddev
+  rhel/dnf:
+    cmd: 'sudo sh -c ''echo ""'' && \
+
+      echo ''[ddev] && \
+
+      name=ddev && \
+
+      baseurl=https://pkg.ddev.com/yum/ && \
+
+      gpgcheck=0 && \
+
+      enabled=1'' | perl -p -e ''s/^ +//'' | sudo tee /etc/yum.repos.d/ddev.repo >/dev/null && \
+
+      sudo sh -c ''echo ""'' && \
+
+      sudo dnf install --refresh ddev
+
+      '
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#fedora-red-hat-etc
+  arch/yay:
+    cmd: yay -S ddev-bin
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#arch-linux
+  linux/brew:
+    cmd: brew install ddev/ddev/ddev
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#homebrew-amd64-only
+  linux/curl:
+    cmd: curl -fsSL https://ddev.com/install.sh | bash
+    reference: https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/#install-script-linux
+binlist:
+- ddev

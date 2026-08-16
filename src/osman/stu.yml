@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/lusingander/stu
+license: 'MIT'
+desc:
+  cn: Amazon S3 的 TUI 浏览器
+  en: 'TUI explorer application for Amazon S3 (AWS S3) 🪣'
+x:
+  source: https://github.com/lusingander/stu
+  eget: https://github.com/lusingander/stu
+rule:
+  /eget:
+    cmd: x eget lusingander/stu
+    reference: https://github.com/lusingander/stu
+binlist:
+  - 'stu'

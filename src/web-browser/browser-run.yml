@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: https://github.com/juliangruber/browser-run
+desc:
+  cn: 从命令行在浏览器内运行代码
+  en: Run code inside a browser from the command line
+x:
+  pkg:
+    exist: true
+  source: https://github.com/juliangruber/browser-run
+rule:
+  /x:
+    cmd: x pkg use browser-run
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install -g browser-run
+    reference: https://github.com/juliangruber/browser-run?tab=readme-ov-file#installation
+    dsnap: browser-run
+binlist:
+- browser-run
+license: NOASSERTION

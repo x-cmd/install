@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/j4v3l/ADS-B_TUI
+desc:
+  cn: 基于 ADS-B 数据的现代航班跟踪终端界面，以美观表格展示实时航班信息、国旗与航线
+  en: A modern, fast, and user-friendly terminal interface for tracking aircraft using ADS-B data. Display real-time flight information in a beautiful table format with country flags, routes, and more.
+x:
+  source: https://github.com/j4v3l/ADS-B_TUI
+  eget: https://github.com/j4v3l/ADS-B_TUI
+rule:
+  /eget:
+    cmd: x eget j4v3l/ADS-B_TUI
+    reference: https://github.com/j4v3l/ADS-B_TUI
+binlist:
+- adsb-tui
+license: NOASSERTION

@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/juftin/browsr
+license: 'MIT'
+desc:
+  cn: 终端中愉快的文件浏览器，支持所有文件系统
+  en: '🗂️ a pleasant file explorer in your terminal supporting all filesystems'
+x:
+  source: https://github.com/juftin/browsr
+  eget: https://github.com/juftin/browsr
+rule:
+  /eget:
+    cmd: x eget juftin/browsr
+    reference: https://github.com/juftin/browsr
+binlist:
+  - 'browsr'

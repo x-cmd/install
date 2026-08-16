@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/hummingbot/hummingbot
+license: apache-2.0
+desc:
+  cn: 为中心和去中心化加密货币交易所构建并部署自动化交易机器人
+  en: Builds and deploys automated trading bots for centralized and decentralized cryptocurrency exchanges.
+x:
+  source: https://github.com/hummingbot/hummingbot
+  eget: https://github.com/hummingbot/hummingbot
+rule:
+  /eget:
+    cmd: x eget hummingbot/hummingbot
+    reference: https://github.com/hummingbot/hummingbot
+binlist:
+- hummingbot

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/hzqtc/cashd'
+license: 'MIT'
+desc:
+  cn: 快速温馨的个人财务管理 TUI
+  en: 'A fast and cozy TUI for personal finance management.'
+x:
+  source: https://github.com/hzqtc/cashd
+  eget: https://github.com/hzqtc/cashd
+rule:
+  /eget:
+    cmd: x eget hzqtc/cashd
+    reference: https://github.com/hzqtc/cashd
+binlist:
+  - 'cashd'

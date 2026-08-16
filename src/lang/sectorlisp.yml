@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/sectorlisp
+license: isc
+desc:
+  cn: 在引导扇区中引导 LISP
+  en: Bootstrapping LISP in a Boot Sector
+x:
+  source: https://github.com/jart/sectorlisp
+  eget: https://github.com/jart/sectorlisp
+rule:
+  /eget:
+    cmd: x eget jart/sectorlisp
+    reference: https://github.com/jart/sectorlisp
+binlist:
+- sectorlisp

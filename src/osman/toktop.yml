@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/htin1/toktop
+license: 'MIT'
+desc:
+  cn: 终端中的 LLM 用量监控工具
+  en: 'llm usage monitor in terminal'
+x:
+  source: https://github.com/htin1/toktop
+  eget: https://github.com/htin1/toktop
+rule:
+  /eget:
+    cmd: x eget htin1/toktop
+    reference: https://github.com/htin1/toktop
+binlist:
+  - 'toktop'

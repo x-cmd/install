@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/AstrBotDevs/AstrBot
+license: agpl-3.0
+desc:
+  cn: 对接多种 IM 平台、LLM、插件与 AI 能力的 Agent 助手开发框架，可作为 OpenClaw 替代方案
+  en: AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+x:
+  source: https://github.com/AstrBotDevs/AstrBot
+  eget: https://github.com/AstrBotDevs/AstrBot
+rule:
+  /eget:
+    cmd: x eget AstrBotDevs/AstrBot
+    reference: https://github.com/AstrBotDevs/AstrBot
+binlist:
+- AstrBot

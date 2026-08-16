@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/sh1zen/wisu
+license: 'Apache-2.0'
+desc:
+  cn: 用 Rust 编写的快速、极简目录树查看器
+  en: 'A fast, minimalist directory tree viewer, written in Rust.'
+x:
+  source: https://github.com/sh1zen/wisu
+  eget: https://github.com/sh1zen/wisu
+rule:
+  /eget:
+    cmd: x eget sh1zen/wisu
+    reference: https://github.com/sh1zen/wisu
+binlist:
+  - 'wizu'

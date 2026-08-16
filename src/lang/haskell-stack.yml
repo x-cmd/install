@@ -1,0 +1,21 @@
+lang: Haskell
+homepage: https://github.com/commercialhaskell/stack
+desc:
+  cn: Stack 是一个用于开发 Haskell 项目的跨平台程序，适用于新手和有经验的 Haskeller
+  en: Stack is a cross-platform program for developing Haskell projects. It is intended for Haskellers both new and experienced
+x:
+  source: https://github.com/commercialhaskell/stack
+  eget: https://github.com/commercialhaskell/stack
+rule:
+  /eget:
+    cmd: x eget commercialhaskell/stack
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S stack-bin
+    reference: https://aur.archlinux.org/packages/stack-bin
+  darwin/brew:
+    cmd: brew install haskell-stack
+    reference: https://formulae.brew.sh/formula/haskell-stack#default
+binlist:
+- haskell-stack
+license: NOASSERTION

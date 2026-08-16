@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/PabloLec/RecoverPy'
+license: 'GPL-3.0'
+desc:
+  cn: 在终端中交互式查找并恢复已删除或被覆盖的文件
+  en: 'Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal'
+x:
+  source: https://github.com/PabloLec/RecoverPy
+  eget: https://github.com/PabloLec/RecoverPy
+rule:
+  /eget:
+    cmd: x eget PabloLec/RecoverPy
+    reference: https://github.com/PabloLec/RecoverPy
+binlist:
+  - 'recoverpy'

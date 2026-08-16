@@ -1,0 +1,19 @@
+lang: Rust
+homepage: https://github.com/FedericoBruzzone/tgt
+license: Apache-2.0
+desc:
+  en: A terminal user interface for Telegram
+  cn: Telegram 的终端用户界面
+x:
+  source: https://github.com/FedericoBruzzone/tgt
+  eget: https://github.com/FedericoBruzzone/tgt
+rule:
+  /eget:
+    cmd: x eget FedericoBruzzone/tgt
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install tgt
+    reference: https://github.com/FedericoBruzzone/tgt?tab=readme-ov-file#usage
+    dsnap: tgt
+binlist:
+- tgt

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/tak-bro/aicommit2
+license: mit
+desc:
+  cn: 响应式 CLI，使用 Ollama、ChatGPT、Gemini、Claude、Mistral 等 AI 为 Git 与 Jujutsu 生成提交信息
+  en: A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+x:
+  source: https://github.com/tak-bro/aicommit2
+rule:
+  /npm:
+    cmd: npm install -g aicommit2
+    reference: https://www.npmjs.com/package/aicommit2
+    dsnap: 'aicommit2'
+binlist:
+- aicommit2

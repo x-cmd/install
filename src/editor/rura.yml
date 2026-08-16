@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/tlipinski/rura'
+license: 'MIT'
+desc:
+  cn: 用于构建 shell 管道的交互式 TUI 草稿本
+  en: 'Interactive TUI scratchpad for building shell pipelines'
+x:
+  source: https://github.com/tlipinski/rura
+  eget: https://github.com/tlipinski/rura
+rule:
+  /eget:
+    cmd: x eget tlipinski/rura
+    reference: https://github.com/tlipinski/rura
+binlist:
+  - 'rura'

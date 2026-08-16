@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/hzqtc/taproom'
+license: 'MIT'
+desc:
+  cn: Homebrew 的交互式 TUI
+  en: 'An interactive TUI for Homebrew'
+x:
+  source: https://github.com/hzqtc/taproom
+  eget: https://github.com/hzqtc/taproom
+rule:
+  /eget:
+    cmd: x eget hzqtc/taproom
+    reference: https://github.com/hzqtc/taproom
+binlist:
+  - 'taproom'

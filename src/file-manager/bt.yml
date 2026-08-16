@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/LeperGnome/bt
+license: MIT
+desc:
+  cn: 交互式树状终端文件管理器
+  en: Interactive tree-like terminal file manager
+x:
+  source: https://github.com/LeperGnome/bt
+rule:
+  /go:
+    cmd: go install github.com/LeperGnome/bt/cmd/bt@v1.1.0
+    reference: https://github.com/LeperGnome/bt?tab=readme-ov-file#installation
+    dsnap: github.com/LeperGnome/bt/cmd/bt@v1.1.0
+binlist:
+- bt

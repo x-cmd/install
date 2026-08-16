@@ -1,0 +1,24 @@
+lang: Rust
+desc:
+  cn: 计算和检查哈希值的简单工具
+  en: An easy tool to calculate and check hash
+homepage: https://github.com/Metaphorme/ezcheck
+license: MIT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/Metaphorme/ezcheck
+  eget: https://github.com/Metaphorme/ezcheck
+rule:
+  /x:
+    cmd: x pkg use ezcheck
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget Metaphorme/ezcheck
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install ezcheck
+    reference: https://github.com/Metaphorme/ezcheck?tab=readme-ov-file#install-from-cargo
+    dsnap: ezcheck
+binlist:
+- ezcheck

@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/netease-youdao/Confucius4-TTS
+license: apache-2.0
+desc:
+  cn: 网易有道开源的基于 LLM 的多语言零样本语音克隆 TTS 引擎，支持 14 种语言的无口音跨语言迁移与情感保持，无需参考文本即可克隆音色。
+  en: Netease Youdao's open-source LLM-based multilingual zero-shot voice cloning TTS engine, supporting unaccented cross-lingual transfer and emotion preservation across 14 languages with no reference text required.
+x:
+  source: https://github.com/netease-youdao/Confucius4-TTS
+rule:
+  /git:
+    cmd: x git clone netease-youdao/Confucius4-TTS
+    reference: https://github.com/netease-youdao/Confucius4-TTS#installation
+binlist:
+- confucius4-tts

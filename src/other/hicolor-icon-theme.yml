@@ -1,0 +1,14 @@
+lang: Shell
+homepage: https://github.com/Distrotech/hicolor-icon-theme
+license: GPL-2.0
+desc:
+  en: Fallback theme for FreeDesktop.org icon themes
+  cn: FreeDesktop.org 图标主题的后备主题
+x:
+  source: https://github.com/Distrotech/hicolor-icon-theme
+rule:
+  darwin/brew:
+    cmd: brew install hicolor-icon-theme
+    reference: https://formulae.brew.sh/formula/hicolor-icon-theme#default
+binlist:
+- hicolor-icon-theme

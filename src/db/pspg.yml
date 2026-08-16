@@ -1,0 +1,18 @@
+lang: 'C'
+homepage: 'https://github.com/okbob/pspg'
+license: 'BSD-2-Clause'
+desc:
+  cn: 专为表格设计的功能丰富的 Unix 分页器，支持 PostgreSQL/MySQL 及 CSV/TSV 查看
+  en: 'Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It sup...'
+x:
+  source: https://github.com/okbob/pspg
+  eget: https://github.com/okbob/pspg
+rule:
+  darwin/brew:
+    cmd: 'brew install pspg'
+    reference: https://github.com/okbob/pspg
+  /eget:
+    cmd: x eget okbob/pspg
+    reference: https://github.com/okbob/pspg
+binlist:
+  - 'pspg'

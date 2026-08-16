@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/Rodrigodd/strace-tui'
+license: 'Apache-2.0'
+desc:
+  cn: 用于可视化和浏览 strace 输出的 TUI
+  en: 'A terminal user interface (TUI) for visualizing and exploring strace output'
+x:
+  source: https://github.com/Rodrigodd/strace-tui
+  eget: https://github.com/Rodrigodd/strace-tui
+rule:
+  /eget:
+    cmd: x eget Rodrigodd/strace-tui
+    reference: https://github.com/Rodrigodd/strace-tui
+binlist:
+  - 'strace-tui'

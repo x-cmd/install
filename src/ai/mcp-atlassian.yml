@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/sooperset/mcp-atlassian
+license: mit
+desc:
+  cn: 面向 Atlassian 工具（Confluence、Jira）的 MCP 服务器
+  en: MCP server for Atlassian tools (Confluence, Jira)
+x:
+  source: https://github.com/sooperset/mcp-atlassian
+rule:
+  /pip:
+    cmd: pip install mcp-atlassian
+    reference: https://pypi.org/project/mcp-atlassian/
+    dsnap: mcp-atlassian
+binlist:
+- mcp-atlassian

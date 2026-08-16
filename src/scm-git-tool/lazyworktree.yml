@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/chmouel/lazyworktree
+license: 'Apache-2.0'
+desc:
+  cn: 终端下便捷的 Git worktree 管理 CLI 和 TUI
+  en: 'Easy Git worktree management CLI and TUI for the terminal.'
+x:
+  source: https://github.com/chmouel/lazyworktree
+  eget: https://github.com/chmouel/lazyworktree
+rule:
+  /eget:
+    cmd: x eget chmouel/lazyworktree
+    reference: https://github.com/chmouel/lazyworktree
+binlist:
+  - 'lazyworktree'

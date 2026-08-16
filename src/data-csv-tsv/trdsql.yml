@@ -1,0 +1,35 @@
+lang: Go
+homepage: https://github.com/noborus/trdsql
+license: MIT
+desc:
+  cn: trdsql 是一个 CLI 工具，可以对 CSV、 LTSV、 JSON、 YAML 和 TBLN 文件执行 SQL 查询。
+  en: trdsql is a CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN files.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/noborus/trdsql
+  eget: https://github.com/noborus/trdsql
+rule:
+  /x:
+    cmd: x pkg use trdsql
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget noborus/trdsql
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use trdsql
+    reference: https://github.com/johnlayton/asdf-trdsql
+  darwin/brew:
+    cmd: brew install noborus/tap/trdsql
+    reference: https://github.com/noborus/trdsql#install
+  darwin/port:
+    cmd: sudo port selfupdate && $ sudo port install trdsql
+    reference: https://github.com/noborus/trdsql#install
+  freebsd/pkg:
+    cmd: pkg install trdsql
+    reference: https://github.com/noborus/trdsql#install
+  arch/yay:
+    cmd: yay -S trdsql
+    reference: https://aur.archlinux.org/packages/trdsql
+binlist:
+- trdsql

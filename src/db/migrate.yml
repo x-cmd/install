@@ -1,0 +1,29 @@
+lang: Go
+homepage: https://github.com/golang-migrate/migrate
+desc:
+  cn: 用 Go 编写的数据库迁移工具，用作 CLI 或导入为库
+  en: Database migrations written in Go,use as CLI or import as library
+x:
+  pkg:
+    exist: true
+  source: https://github.com/golang-migrate/migrate
+  eget: https://github.com/golang-migrate/migrate
+rule:
+  /x:
+    cmd: x pkg use migrate
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget golang-migrate/migrate
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install golang-migrate
+    reference: https://formulae.brew.sh/formula/golang-migrate#default
+  /scoop:
+    cmd: scoop install main/migrate
+    reference: https://scoop.sh/#/apps?q=migrate
+  arch/yay:
+    cmd: yay -S migrate
+    reference: https://aur.archlinux.org/packages/migrate
+binlist:
+- migrate
+license: NOASSERTION

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/gluesql/glues'
+license: 'Apache-2.0'
+desc:
+  cn: 受 Vim 启发、注重隐私的多后端 TUI 笔记应用
+  en: 'Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused'
+x:
+  source: https://github.com/gluesql/glues
+  eget: https://github.com/gluesql/glues
+rule:
+  /eget:
+    cmd: x eget gluesql/glues
+    reference: https://github.com/gluesql/glues
+binlist:
+  - 'glues'

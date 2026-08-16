@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/cpcloud/micasa
+license: 'Apache-2.0'
+desc:
+  cn: 用于追踪家居项目、维护计划与家电报价的模态 TUI
+  en: 'A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.'
+x:
+  source: https://github.com/cpcloud/micasa
+  eget: https://github.com/cpcloud/micasa
+rule:
+  /eget:
+    cmd: x eget cpcloud/micasa
+    reference: https://github.com/cpcloud/micasa
+binlist:
+  - 'micasa'

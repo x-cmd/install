@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/KINGSTON-115/llm-pid-tuner
+license: other
+desc:
+  cn: 基于 LLM 的极简 PID 自动调参系统（CLI 版）
+  en: 基于 LLM 的极简 PID 自动调参系统 (CLI 版)
+x:
+  source: https://github.com/KINGSTON-115/llm-pid-tuner
+  eget: https://github.com/KINGSTON-115/llm-pid-tuner
+rule:
+  /eget:
+    cmd: x eget KINGSTON-115/llm-pid-tuner
+    reference: https://github.com/KINGSTON-115/llm-pid-tuner
+binlist:
+- llm-pid-tuner

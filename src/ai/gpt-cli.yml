@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/kharvd/gpt-cli
+license: mit
+desc:
+  cn: ChatGPT、Claude 和 Bard 的命令行界面
+  en: Command-line interface for ChatGPT, Claude and Bard
+x:
+  source: https://github.com/kharvd/gpt-cli
+  eget: https://github.com/kharvd/gpt-cli
+rule:
+  /eget:
+    cmd: x eget kharvd/gpt-cli
+    reference: https://github.com/kharvd/gpt-cli
+binlist:
+- gpt-cli

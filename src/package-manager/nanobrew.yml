@@ -1,0 +1,17 @@
+lang: zig
+homepage: https://github.com/justrach/nanobrew
+license: apache-2.0
+desc:
+  cn: Zig 写的极速 macOS/Linux 包管理器——原生安装 top 100 Homebrew formulae 与 cask（无需 brew/Ruby），warm 安装毫秒级，命令为 nb
+  en: A blazing-fast macOS/Linux package manager written in Zig — native install pipeline for the top 100 Homebrew formulae and casks (no brew, no Ruby) with millisecond warm installs; command is nb
+x:
+  source: https://github.com/justrach/nanobrew
+rule:
+  /curl:
+    cmd: curl -fsSL https://nanobrew.trilok.ai/install | bash
+    reference: https://github.com/justrach/nanobrew
+  darwin/brew:
+    cmd: brew tap justrach/nanobrew https://github.com/justrach/nanobrew && brew install nanobrew
+    reference: https://github.com/justrach/nanobrew
+binlist:
+- nb

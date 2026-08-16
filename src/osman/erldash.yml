@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/sile/erldash
+desc:
+  cn: Rust 编写的简洁终端 Erlang 仪表盘
+  en: A simple, terminal-based Erlang dashboard written in Rust
+x:
+  source: https://github.com/sile/erldash
+  eget: https://github.com/sile/erldash
+rule:
+  /eget:
+    cmd: x eget sile/erldash
+    reference: https://github.com/sile/erldash
+binlist:
+- erldash
+license: NOASSERTION

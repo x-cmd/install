@@ -1,0 +1,18 @@
+lang: Perl
+homepage: https://www.eyrie.org/~eagle/software/podlators/
+desc:
+  en: Install podlators
+  cn: 安装 podlators
+rule:
+  /perl:
+    cmd: 'perl Makefile.PL
+
+      make
+
+      make install
+
+      '
+    reference: https://github.com/rra/podlators
+binlist:
+- podlators
+license: NOASSERTION

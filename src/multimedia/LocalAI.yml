@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/mudler/LocalAI
+license: 'MIT'
+desc:
+  cn: 开源 AI 引擎,可在任意硬件上运行 LLM、视觉、语音、图像、视频等各类模型,无需 GPU
+  en: 'LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.'
+x:
+  source: https://github.com/mudler/LocalAI
+  eget: https://github.com/mudler/LocalAI
+rule:
+  /eget:
+    cmd: x eget mudler/LocalAI
+    reference: https://github.com/mudler/LocalAI
+binlist:
+  - 'LocalAI'

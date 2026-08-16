@@ -1,0 +1,35 @@
+lang: Rust
+homepage: https://github.com/rustfs/rustfs
+license: Apache-2.0
+desc:
+  cn: 用 Rust 构建的高性能分布式对象存储系统
+  en: A high-performance, distributed object storage system built in Rust
+x:
+  pkg:
+    exist: true
+  source: https://github.com/rustfs/rustfs
+rule:
+  /x:
+    cmd: x pkg use rustfs
+    reference: https://x-cmd.com/install/
+  /curl:
+    cmd: curl -O https://rustfs.com/install_rustfs.sh && bash install_rustfs.sh
+    reference: https://rustfs.com/download/?platform=linux
+  darwin/rustfs:
+    cmd: brew tap rustfs/homebrew-tap && brew install rustfs
+    reference: https://rustfs.com/download/?platform=macos
+  /docker:
+    cmd: |
+      docker pull rustfs/rustfs:latest
+      docker run -d \
+        --name rustfs \
+        -p 9000:9000 \
+        -p 9001:9001 \
+        -v /data:/data \
+        rustfs/rustfs:latest
+    reference: https://rustfs.com/download/?platform=docker
+  arch/yay:
+    cmd: yay -S rustfs
+    reference: https://aur.archlinux.org/packages/rustfs
+binlist:
+  - rustfs

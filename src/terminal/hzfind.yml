@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/clouedoc/hzfind
+desc:
+  cn: 寻找 Hetzner 专用服务器拍卖最佳性价比的 TUI，内置 PassMark CPU 跑分
+  en: A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
+x:
+  source: https://github.com/clouedoc/hzfind
+  eget: https://github.com/clouedoc/hzfind
+rule:
+  /eget:
+    cmd: x eget clouedoc/hzfind
+    reference: https://github.com/clouedoc/hzfind
+binlist:
+- hzfind
+license: NOASSERTION

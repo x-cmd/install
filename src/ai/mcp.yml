@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/BrowserMCP/mcp
+license: apache-2.0
+desc:
+  cn: 浏览器 MCP 服务器，让 AI 应用可以控制你的浏览器
+  en: Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+x:
+  source: https://github.com/BrowserMCP/mcp
+rule:
+  /npm:
+    cmd: npm install -g @browsermcp/mcp
+    reference: https://www.npmjs.com/package/@browsermcp/mcp
+    dsnap: '@browsermcp/mcp'
+binlist:
+- mcp

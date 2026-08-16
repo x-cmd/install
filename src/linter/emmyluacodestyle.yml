@@ -1,0 +1,23 @@
+lang: C++
+homepage: https://github.com/CppCXY/EmmyLuaCodeStyle
+license: MIT
+desc:
+  cn: 快速、强大且功能丰富的 Lua 格式化和检查工具
+  en: fast, powerful, and feature-rich Lua formatting and checking tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/CppCXY/EmmyLuaCodeStyle
+  eget: https://github.com/CppCXY/EmmyLuaCodeStyle
+rule:
+  /eget:
+    cmd: x eget CppCXY/EmmyLuaCodeStyle
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use emmyluacodestyle
+    reference: https://x-cmd.com/install/
+  (linux|darwin|win|wsl2)/:
+    cmd: x env use emmyluacodestyle
+    reference: https://x-cmd.com/mod/env
+binlist:
+- emmyluacodestyle

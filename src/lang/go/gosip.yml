@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/jart/gosip
+license: apache-2.0
+desc:
+  cn: 面向公共交换电话网络(PSTN)的工具
+  en: Public Switched Telecommunications Network Unleashed
+x:
+  source: https://github.com/jart/gosip
+  eget: https://github.com/jart/gosip
+rule:
+  /eget:
+    cmd: x eget jart/gosip
+    reference: https://github.com/jart/gosip
+binlist:
+- gosip

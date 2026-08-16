@@ -1,0 +1,13 @@
+lang: TypeScript
+homepage: https://www.framelink.ai/
+license: mit
+desc:
+  cn: 为 Cursor 等 AI 编程代理提供 Figma 布局信息的 MCP 服务器（Framelink Figma MCP）
+  en: MCP server to provide Figma layout information to AI coding agents like Cursor (Framelink Figma MCP)
+rule:
+  /npm:
+    cmd: npm install -g figma-developer-mcp
+    reference: https://github.com/GLips/Figma-Context-MCP?tab=readme-ov-file#getting-started
+    dsnap: figma-developer-mcp
+binlist:
+- figma-developer-mcp

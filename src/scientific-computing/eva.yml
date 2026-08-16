@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/oppiliappan/eva'
+license: 'MIT'
+desc:
+  cn: 类似 bc(1) 的计算器 REPL
+  en: 'a calculator REPL, similar to bc(1)'
+x:
+  source: https://github.com/oppiliappan/eva
+  eget: https://github.com/oppiliappan/eva
+rule:
+  /eget:
+    cmd: x eget oppiliappan/eva
+    reference: https://github.com/oppiliappan/eva
+binlist:
+  - 'eva'

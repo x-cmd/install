@@ -1,0 +1,29 @@
+lang: Nim
+homepage: https://github.com/arturo-lang/arturo
+license: MIT
+desc:
+  cn: arturo 编程语言
+  en: arturo programming language
+x:
+  pkg:
+    exist: true
+  source: https://github.com/arturo-lang/arturo
+  eget: https://github.com/arturo-lang/arturo
+rule:
+  /x:
+    cmd: x pkg use arturo
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget arturo-lang/arturo
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S arturo
+    reference: https://aur.archlinux.org/packages/arturo
+  /curl:
+    cmd: curl -sSL https://get.arturo-lang.io | sh
+    reference: https://github.com/arturo-lang/arturo?tab=readme-ov-file#the-alternative-way
+  darwin/brew:
+    cmd: brew install arturo
+    reference: https://github.com/arturo-lang/arturo?tab=readme-ov-file#homebrew
+binlist:
+- arturo

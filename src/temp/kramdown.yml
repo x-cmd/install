@@ -1,0 +1,32 @@
+lang: Ruby
+homepage: https://github.com/gettalong/kramdown
+desc:
+  cn: kramdown 首先是一个用于将 Markdown 超集编写的文本转换为 HTML 的库
+  en: kramdown is first and foremost a library for converting text written in a superset of Markdown to HTML
+x:
+  source: https://github.com/gettalong/kramdown
+  eget: https://github.com/gettalong/kramdown
+rule:
+  /eget:
+    cmd: x eget gettalong/kramdown
+    reference: https://x-cmd.com/mod/eget
+  debian/apt:
+    cmd: sudo apt-get install ruby
+    reference: https://kramdown.gettalong.org/installation.html
+    dsnap: ruby
+  ubuntu/apt:
+    cmd: sudo apt-get install ruby
+    reference: https://kramdown.gettalong.org/installation.html
+    dsnap: ruby
+  linux/gem:
+    cmd: sudo gem install kramdown
+    reference: https://kramdown.gettalong.org/installation.html
+  darwin/gem:
+    cmd: sudo gem install kramdown
+    reference: https://kramdown.gettalong.org/installation.html
+  win/gem:
+    cmd: sudo gem install kramdown
+    reference: https://kramdown.gettalong.org/installation.html
+binlist:
+- kramdown
+license: NOASSERTION

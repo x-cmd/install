@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/graniet/llm
+license: mit
+desc:
+  cn: Rust 库与 CLI 工具,以单一可扩展 API 统一并编排多个 LLM、Agent 与语音后端
+  en: A powerful Rust library and CLI tool to unify and orchestrate multiple LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with a single, extensible API. Build, chain, eva...
+x:
+  source: https://github.com/graniet/llm
+  eget: https://github.com/graniet/llm
+rule:
+  /eget:
+    cmd: x eget graniet/llm
+    reference: https://github.com/graniet/llm
+binlist:
+- llm

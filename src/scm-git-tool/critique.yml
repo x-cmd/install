@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: 'https://github.com/remorses/critique'
+license: 'MIT'
+desc:
+  cn: 用于审查 git 改动的 TUI
+  en: 'TUI for reviewing git changes'
+x:
+  source: https://github.com/remorses/critique
+  eget: https://github.com/remorses/critique
+rule:
+  /eget:
+    cmd: x eget remorses/critique
+    reference: https://github.com/remorses/critique
+binlist:
+  - 'critique'

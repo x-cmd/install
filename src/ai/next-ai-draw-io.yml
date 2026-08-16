@@ -1,0 +1,20 @@
+lang: TypeScript
+homepage: https://github.com/DayuanJiang/next-ai-draw-io
+license: apache-2.0
+desc:
+  cn: 通过 Web 或桌面应用用自然语言生成和编辑 draw.io 图表，包括复杂云架构和流程图
+  en: Generate and edit draw.io diagrams, including complex cloud architectures and flowcharts, using natural language commands in a web or desktop app.
+x:
+  source: https://github.com/DayuanJiang/next-ai-draw-io
+rule:
+  /npm:
+    cmd: x npm install -g next-ai-draw-io
+    reference: https://www.npmjs.com/package/next-ai-draw-io
+  /git:
+    cmd: x git clone DayuanJiang/next-ai-draw-io
+    reference: https://github.com/DayuanJiang/next-ai-draw-io
+  /dsnap:
+    cmd: x dsnap DayuanJiang/next-ai-draw-io
+    reference: https://github.com/DayuanJiang/next-ai-draw-io
+binlist:
+- next-ai-draw-io

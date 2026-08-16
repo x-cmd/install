@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/gitbito/CLI
+license: other
+desc:
+  cn: Bito CLI，为 Bito AI 聊天功能提供命令行界面
+  en: Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation a...
+x:
+  source: https://github.com/gitbito/CLI
+  eget: https://github.com/gitbito/CLI
+rule:
+  /eget:
+    cmd: x eget gitbito/CLI
+    reference: https://github.com/gitbito/CLI
+binlist:
+- CLI

@@ -1,0 +1,36 @@
+lang: Go
+homepage: https://github.com/j178/chatgpt
+license: MIT
+desc:
+  cn: 适用于 ChatGPT 的命令行界面
+  en: Command line interface for ChatGPT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/j178/chatgpt
+  eget: https://github.com/j178/chatgpt
+rule:
+  /x:
+    cmd: x pkg use chatgpt
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget j178/chatgpt
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install j178/tap/chatgpt
+    reference: https://github.com/j178/chatgpt#installation
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add j178 https://github.com/j178/scoop-bucket.git \
+
+      && x scoop install j178/chatgpt
+
+      '
+    reference: https://github.com/j178/chatgpt#installation
+  darwin/nix:
+    cmd: environment.systemPackages = [pkgs.chatgpt-cli];
+    reference: https://github.com/j178/chatgpt#installation
+  arch/yay:
+    cmd: yay -S chatgpt-bin
+    reference: https://aur.archlinux.org/packages/chatgpt-bin
+binlist:
+- chatgpt

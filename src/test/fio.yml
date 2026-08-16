@@ -1,0 +1,40 @@
+lang: C
+homepage: https://github.com/axboe/fio
+license: GPL-2.0-only
+desc:
+  cn: fio（Flexible I/O Tester）由 Jens Axboe 编写，是 Linux 上事实标准的灵活 I/O 基准测试工具 —— 可自定义 IO 引擎、块大小、队列深度、读写模式，输出吞吐量与延迟分布。`ljh-sh/fio` 发行版提供 5 个目标的静态构建（x86_64/aarch64 Linux musl、aarch64/x86_64 macOS、x86_64 Windows）。
+  en: fio (Flexible I/O Tester) by Jens Axboe is the de-facto flexible I/O benchmark on Linux — pluggable IO engines, block sizes, queue depths, and read/write patterns, with throughput + latency histograms as output. The `ljh-sh/fio` distribution ships static binaries for 5 targets (x86_64/aarch64 Linux musl, aarch64/x86_64 macOS, x86_64 Windows).
+rule:
+  /eget:
+    cmd: x eget ljh-sh/fio
+    reference: https://github.com/ljh-sh/fio
+  arch/yay:
+    cmd: yay -S fio
+    reference: https://archlinux.org/packages/extra/x86_64/fio/
+  debian/apt:
+    cmd: sudo apt install fio
+    reference: https://packages.debian.org/bookworm/fio
+    dsnap: fio
+  ubuntu/apt:
+    cmd: sudo apt install fio
+    reference: https://launchpad.net/ubuntu/+source/fio
+    dsnap: fio
+  alpine/apk:
+    cmd: sudo apk add fio
+    reference: https://pkgs.alpinelinux.org/packages?name=fio
+  freebsd/pkg:
+    cmd: pkg install fio
+    reference: https://www.freshports.org/benchmarks/fio/
+  darwin/brew:
+    cmd: brew install fio
+    reference: https://formulae.brew.sh/formula/fio
+  netbsd/pkgin:
+    cmd: pkgin install fio
+    reference: https://pkgin.net/package/fio
+  void/xbps-install:
+    cmd: sudo xbps-install fio
+    reference: https://voidlinux.org/packages/?q=fio
+binlist:
+- fio
+- fio_generate_plots
+- fio2gnuplot

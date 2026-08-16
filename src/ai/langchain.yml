@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/langchain-ai/langchain
+license: mit
+desc:
+  cn: 智能体工程平台
+  en: The agent engineering platform.
+x:
+  source: https://github.com/langchain-ai/langchain
+  eget: https://github.com/langchain-ai/langchain
+rule:
+  /eget:
+    cmd: x eget langchain-ai/langchain
+    reference: https://github.com/langchain-ai/langchain
+binlist:
+- langchain

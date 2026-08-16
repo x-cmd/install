@@ -1,0 +1,147 @@
+lang: C
+homepage: https://github.com/scandum/tintin
+license: GPL-3.0
+desc:
+  cn: TinTin++（又称 tt++）是一款免费的 MUD 客户端，支持 Android、iOS、Linux、Mac OS X 和 Windows。
+  en: TinTin++ (aka tt++) is a free Mud client for Android, iOS, Linux, Mac OS X and Windows.
+x:
+  source: https://github.com/scandum/tintin
+  eget: https://github.com/scandum/tintin
+rule:
+  /eget:
+    cmd: x eget scandum/tintin
+    reference: https://x-cmd.com/mod/eget
+  /snap:
+    cmd: sudo snap install tintin
+    reference: https://tintin.mudhalla.net/install.php
+  alpine/apk:
+    cmd: 'mkdir tintin && \
+
+      cd tintin && \
+
+      apk update && \
+
+      apk upgrade && \
+
+      apk add build-base && \
+
+      apk add zlib-dev && \
+
+      apk add gnutls-dev && \
+
+      apk add pcre-dev && \
+
+      apk add make && \
+
+      apk add wget && \
+
+      wget https://github.com/scandum/tintin/releases/download/2.02.42/tintin-2.02.42.tar.gz && \
+
+      tar -zxvf tintin-2.02.42.tar.gz && \
+
+      cd tt/src && \
+
+      ./configure && \
+
+      make install
+
+      '
+    reference: https://tintin.mudhalla.net/install.php#Alpine
+  openbsd/pkg_add:
+    cmd: 'pkg_add pcre && \
+
+      wget https://github.com/scandum/tintin/releases/download/2.02.42/tintin-2.02.42.tar.gz && \
+
+      tar -zxvf tintin-2.02.42.tar.gz && \
+
+      cd tt/src && \
+
+      ./configure CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib && \
+
+      make CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib && \
+
+      make install
+
+      '
+    reference: https://tintin.mudhalla.net/install.php#BSD
+  debian/apt:
+    cmd: 'mkdir tintin && \
+
+      cd tintin && \
+
+      sudo apt-get install build-essential && \
+
+      sudo apt-get install zlib1g-dev && \
+
+      sudo apt-get install libpcre++-dev && \
+
+      wget https://github.com/scandum/tintin/releases/download/2.02.42/tintin-2.02.42.tar.gz && \
+
+      tar -zxvf tintin-2.02.42.tar.gz && \
+
+      cd tt/src && \
+
+      ./configure && \
+
+      sudo make install
+
+      '
+    reference: https://tintin.mudhalla.net/install.php#Debian
+    dsnap: tintin++
+  fedora/yum:
+    cmd: 'mkdir tintin && \
+
+      cd tintin && \
+
+      sudo yum install make && \
+
+      sudo yum install gcc && \
+
+      sudo yum install zlib-devel && \
+
+      sudo yum install pcre-devel && \
+
+      wget https://github.com/scandum/tintin/releases/download/2.02.42/tintin-2.02.42.tar.gz && \
+
+      tar -zxvf tintin-2.02.42.tar.gz && \
+
+      cd tt/src && \
+
+      ./configure && \
+
+      sudo make install
+
+      '
+    reference: https://tintin.mudhalla.net/install.php#Fedora
+  darwin/brew:
+    cmd: brew install tintin
+    reference: https://tintin.mudhalla.net/install.php#OSX
+  arch/yay:
+    cmd: yay -S tintin
+    reference: https://aur.archlinux.org/packages/tintin
+  ubuntu/apt:
+    cmd: 'mkdir tintin && \
+
+      cd tintin && \
+
+      sudo apt-get update && \
+
+      sudo apt-get install build-essential && \
+
+      sudo apt-get build-dep tintin++ && \
+
+      wget https://github.com/scandum/tintin/releases/download/2.02.42/tintin-2.02.42.tar.gz && \
+
+      tar -zxvf tintin-2.02.42.tar.gz && \
+
+      cd tt/src && \
+
+      ./configure && \
+
+      sudo make install
+
+      '
+    reference: https://tintin.mudhalla.net/install.php#Ubuntu
+    dsnap: tintin++
+binlist:
+- tintin

@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/ShenMian/tracker'
+license: 'Apache-2.0'
+desc:
+  cn: 基于终端的实时卫星追踪和轨道预测应用
+  en: 'A terminal-based real-time satellite tracking and orbit prediction application.'
+x:
+  source: https://github.com/ShenMian/tracker
+  eget: https://github.com/ShenMian/tracker
+rule:
+  /eget:
+    cmd: x eget ShenMian/tracker
+    reference: https://github.com/ShenMian/tracker
+binlist:
+  - 'tracker'

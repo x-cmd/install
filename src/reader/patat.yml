@@ -1,0 +1,15 @@
+lang: 'Haskell'
+homepage: 'https://github.com/jaspervdj/patat'
+license: 'GPL-2.0'
+desc:
+  cn: 基于 Pandoc 的终端演示工具
+  en: 'Terminal-based presentations using Pandoc'
+x:
+  source: https://github.com/jaspervdj/patat
+  eget: https://github.com/jaspervdj/patat
+rule:
+  /eget:
+    cmd: x eget jaspervdj/patat
+    reference: https://github.com/jaspervdj/patat
+binlist:
+  - 'patat'

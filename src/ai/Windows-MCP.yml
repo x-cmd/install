@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/CursorTouch/Windows-MCP
+license: mit
+desc:
+  cn: 面向 Windows 计算机使用的 MCP Server
+  en: MCP Server for Computer Use in Windows
+x:
+  source: https://github.com/CursorTouch/Windows-MCP
+  eget: https://github.com/CursorTouch/Windows-MCP
+rule:
+  /eget:
+    cmd: x eget CursorTouch/Windows-MCP
+    reference: https://github.com/CursorTouch/Windows-MCP
+binlist:
+- Windows-MCP

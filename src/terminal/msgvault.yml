@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/wesm/msgvault
+license: 'MIT'
+desc:
+  cn: 归档一生的邮件与聊天，基于 DuckDB 实现离线检索、分析与 AI 查询
+  en: 'Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB'
+x:
+  source: https://github.com/wesm/msgvault
+  eget: https://github.com/wesm/msgvault
+rule:
+  darwin/brew:
+    cmd: 'brew install prek'
+    reference: https://github.com/wesm/msgvault
+  /eget:
+    cmd: x eget wesm/msgvault
+    reference: https://github.com/wesm/msgvault
+binlist:
+  - 'msgvault'

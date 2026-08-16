@@ -1,0 +1,37 @@
+lang: Go
+homepage: https://github.com/moncho/dry
+license: MIT
+desc:
+  cn: Dry 是一个用于管理 Docker 和 Docker Swarm 的终端应用程序
+  en: Dry is a terminal application to manage Docker and Docker Swarm
+x:
+  pkg:
+    exist: true
+  source: https://github.com/moncho/dry
+  eget: https://github.com/moncho/dry
+rule:
+  /x:
+    cmd: x pkg use dry
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget moncho/dry
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: 'curl -sSf https://moncho.github.io/dry/dryup.sh | sudo sh \
+
+      && sudo chmod 755 /usr/local/bin/dry
+
+      '
+    reference: https://github.com/moncho/dry?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S dry-bin
+    reference: https://aur.archlinux.org/packages/dry-bin
+  darwin/brew:
+    cmd: 'brew tap moncho/dry \
+
+      && brew install dry
+
+      '
+    reference: https://github.com/moncho/dry?tab=readme-ov-file#mac-os-x--homebrew
+binlist:
+- dry

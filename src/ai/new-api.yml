@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/QuantumNous/new-api
+license: agpl-3.0
+desc:
+  cn: 聚合分发各类 LLM 的统一 AI 模型中心，可转换为 OpenAI/Claude/Gemini 兼容格式
+  en: A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for p...
+x:
+  source: https://github.com/QuantumNous/new-api
+  eget: https://github.com/QuantumNous/new-api
+rule:
+  /eget:
+    cmd: x eget QuantumNous/new-api
+    reference: https://github.com/QuantumNous/new-api
+binlist:
+- new-api

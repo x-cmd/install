@@ -1,0 +1,31 @@
+lang: Python
+homepage: https://github.com/mistralai/mistral-vibe
+license: Apache-2.0
+desc:
+  cn: Mistral 的开源 CLI 编码助手
+  en: Mistral's open-source CLI coding assistant.
+x:
+  source: https://github.com/mistralai/mistral-vibe
+  eget: https://github.com/mistralai/mistral-vibe
+rule:
+  /eget:
+    cmd: x eget mistralai/mistral-vibe
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -LsSf https://mistral.ai/vibe/install.sh | bash
+    reference: https://github.com/mistralai/mistral-vibe?tab=readme-ov-file#one-line-install-recommended
+  (win|wsl2)/powershell:
+    cmd: x pwsh -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+    reference: https://github.com/mistralai/mistral-vibe?tab=readme-ov-file#one-line-install-recommended
+  /uv:
+    cmd: uv tool install mistral-vibe
+    reference: https://github.com/mistralai/mistral-vibe?tab=readme-ov-file#one-line-install-recommended
+  /pip:
+    cmd: pip install mistral-vibe
+    reference: https://github.com/mistralai/mistral-vibe?tab=readme-ov-file#one-line-install-recommended
+    dsnap: mistral-vibe
+  arch/yay:
+    cmd: yay -S mistral-vibe
+    reference: https://aur.archlinux.org/packages/mistral-vibe
+binlist:
+  - vibe

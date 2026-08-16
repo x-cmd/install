@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/ndd7xv/heh'
+license: 'MIT'
+desc:
+  cn: 按 nibble 编辑字节的终端 UI
+  en: 'A terminal UI to edit bytes by the nibble.'
+x:
+  source: https://github.com/ndd7xv/heh
+  eget: https://github.com/ndd7xv/heh
+rule:
+  /eget:
+    cmd: x eget ndd7xv/heh
+    reference: https://github.com/ndd7xv/heh
+binlist:
+  - 'heh'

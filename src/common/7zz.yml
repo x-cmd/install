@@ -1,0 +1,23 @@
+lang: C
+homepage: https://github.com/ip7z/7zip
+desc:
+  cn: 7-Zip 是一款拥有极高压缩比的开源压缩软件
+  en: 7-Zip is a file archiver with a high compression ratio
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ip7z/7zip
+  eget: https://github.com/ip7z/7zip
+rule:
+  /x:
+    cmd: x pkg use 7zz
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ip7z/7zip
+    reference: https://x-cmd.com/mod/eget
+  (linux|darwin|win|wsl2)/:
+    cmd: x env use 7zz
+    reference: https://x-cmd.com/mod/env
+binlist:
+- 7zz
+license: NOASSERTION

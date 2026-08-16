@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/pycontribs/gri'
+license: 'MIT'
+desc:
+  cn: Git/Gerrit 审查界面，便于管理来自多服务器的变更请求
+  en: 'Git/Gerrit Review Interface helps you manage change requests from multiple servers.'
+x:
+  source: https://github.com/pycontribs/gri
+  eget: https://github.com/pycontribs/gri
+rule:
+  /eget:
+    cmd: x eget pycontribs/gri
+    reference: https://github.com/pycontribs/gri
+binlist:
+  - 'gri'

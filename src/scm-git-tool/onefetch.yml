@@ -1,0 +1,98 @@
+lang: Rust
+desc:
+  cn: 命令行 Git 信息工具
+  en: Command-line Git information tool
+homepage: https://github.com/o2sh/onefetch
+license: MIT
+x:
+  pkg:
+    exist: true
+  source: https://github.com/o2sh/onefetch
+  eget: https://github.com/o2sh/onefetch
+rule:
+  /x:
+    cmd: x pkg use onefetch
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget o2sh/onefetch
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+    dsnap: onefetch
+  /snap:
+    cmd: snap install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  /build:
+    cmd: 'git clone https://github.com/o2sh/onefetch \
+
+      && cd onefetch \
+
+      && make install
+
+      '
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  alpine/apk:
+    cmd: apk update; apk add onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+    dsnap: onefetch
+  arch/pacman:
+    cmd: pacman -S onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  fedora/dnf:
+    cmd: 'sudo dnf copr enable varlad/onefetch
+
+      sudo dnf install onefetch
+
+      '
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+    dsnap: onefetch
+  freebsd/pkg:
+    cmd: pkg install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  funtoo/emerge:
+    cmd: emerge app-misc/onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  darwin/brew:
+    cmd: brew install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  darwin/port:
+    cmd: sudo port selfupdate && sudo port install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  netbsd/pkg_add:
+    cmd: pkg_add onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  /nix-env:
+    cmd: nix-env -i onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  opensuse/zypper:
+    cmd: zypper install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  ubuntu/apt:
+    cmd: 'sudo add-apt-repository ppa:o2sh/onefetch && \
+
+      sudo apt-get update && \
+
+      sudo apt-get install onefetch
+
+      '
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+    dsnap: onefetch
+  void/xbps:
+    cmd: sudo xbps-install -S onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  (win|wsl2)/winget:
+    cmd: x winget install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add extras \
+
+      && x scoop install onefetch
+
+      '
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+  (win|wsl2)/choco:
+    cmd: x choco install onefetch
+    reference: https://github.com/o2sh/onefetch/wiki/Installation
+binlist:
+- onefetch

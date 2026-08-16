@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/pls-rs/pls
+license: 'GPL-3.0'
+desc:
+  cn: 为专业人士打造的更美观、更强大的 ls(1)
+  en: 'pls is a prettier and powerful ls(1) for the pros.'
+x:
+  source: https://github.com/pls-rs/pls
+  eget: https://github.com/pls-rs/pls
+rule:
+  /eget:
+    cmd: x eget pls-rs/pls
+    reference: https://github.com/pls-rs/pls
+binlist:
+  - 'pls'

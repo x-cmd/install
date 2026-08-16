@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/jonathanruiz/wakey'
+license: 'MIT'
+desc:
+  cn: 通过 Wake-on-LAN 管理与唤醒设备的 TUI
+  en: 'A TUI built for managing and waking your devices using Wake-on-LAN.'
+x:
+  source: https://github.com/jonathanruiz/wakey
+  eget: https://github.com/jonathanruiz/wakey
+rule:
+  /eget:
+    cmd: x eget jonathanruiz/wakey
+    reference: https://github.com/jonathanruiz/wakey
+binlist:
+  - 'wakey'

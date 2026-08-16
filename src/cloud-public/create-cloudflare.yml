@@ -1,0 +1,23 @@
+lang: TypeScript
+homepage: https://github.com/cloudflare/workers-sdk
+license: Apache-2.0
+desc:
+  cn: Cloudflare Workers 的 CLI
+  en: the CLI for Cloudflare Workers
+x:
+  pkg:
+    exist: true
+  source: https://github.com/cloudflare/workers-sdk
+rule:
+  /x:
+    cmd: x pkg use create-cloudflare
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm create cloudflare@latest
+    reference: https://developers.cloudflare.com/workers/get-started/guide/#1-create-a-new-worker-project
+    dsnap: cloudflare
+  /yarn:
+    cmd: yarn create cloudflare
+    reference: https://developers.cloudflare.com/workers/get-started/guide/#1-create-a-new-worker-project
+binlist:
+- create-cloudflare

@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/nassendelft/har-viewer'
+license: 'GPL-3.0'
+desc:
+  cn: 检查 HAR (HTTP Archive) 文件的终端界面
+  en: 'A terminal UI for inspecting HAR (HTTP Archive) files'
+x:
+  source: https://github.com/nassendelft/har-viewer
+  eget: https://github.com/nassendelft/har-viewer
+rule:
+  /eget:
+    cmd: x eget nassendelft/har-viewer
+    reference: https://github.com/nassendelft/har-viewer
+binlist:
+  - 'har-viewer'

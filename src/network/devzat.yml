@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/quackduck/devzat'
+license: 'MIT'
+desc:
+  cn: 通过 SSH 与开发者聊天的工具
+  en: 'The devs are over here at devzat, chat over SSH!'
+x:
+  source: https://github.com/quackduck/devzat
+  eget: https://github.com/quackduck/devzat
+rule:
+  /eget:
+    cmd: x eget quackduck/devzat
+    reference: https://github.com/quackduck/devzat
+binlist:
+  - 'devzat'

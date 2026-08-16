@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/vincelwt/gloomberb
+desc:
+  cn: 运行于终端的金融终端
+  en: Finance terminal, in your terminal.
+x:
+  source: https://github.com/vincelwt/gloomberb
+  eget: https://github.com/vincelwt/gloomberb
+rule:
+  /eget:
+    cmd: x eget vincelwt/gloomberb
+    reference: https://github.com/vincelwt/gloomberb
+binlist:
+- gloomberb
+license: NOASSERTION

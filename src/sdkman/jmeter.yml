@@ -1,0 +1,19 @@
+lang: Java
+homepage: https://github.com/apache/jmeter
+license: Apache-2.0
+desc:
+  cn: 负载测试和性能测量应用程序
+  en: Load testing and performance measurement application
+x:
+  pkg:
+    exist: true
+  source: https://github.com/apache/jmeter
+rule:
+  /x:
+    cmd: x pkg use jmeter
+    reference: https://x-cmd.com/install/
+  arch/yay:
+    cmd: yay -S jmeter
+    reference: https://aur.archlinux.org/packages/jmeter
+binlist:
+- jmeter

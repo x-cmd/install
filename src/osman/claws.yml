@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/clawscli/claws'
+license: 'Apache-2.0'
+desc:
+  cn: 类 k9s 的 AWS 资源管理 TUI，支持 vim 风格导航
+  en: 'k9s-inspired TUI for AWS resource management with vim-style navigation'
+x:
+  source: https://github.com/clawscli/claws
+  eget: https://github.com/clawscli/claws
+rule:
+  /eget:
+    cmd: x eget clawscli/claws
+    reference: https://github.com/clawscli/claws
+binlist:
+  - 'claws'

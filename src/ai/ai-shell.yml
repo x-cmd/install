@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/BuilderIO/ai-shell
+license: mit
+desc:
+  cn: 将自然语言转换为 shell 命令的 CLI
+  en: A CLI that converts natural language to shell commands.
+x:
+  source: https://github.com/BuilderIO/ai-shell
+  eget: https://github.com/BuilderIO/ai-shell
+rule:
+  /eget:
+    cmd: x eget BuilderIO/ai-shell
+    reference: https://github.com/BuilderIO/ai-shell
+binlist:
+- ai-shell

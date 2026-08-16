@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/sigoden/aichat
+license: apache-2.0
+desc:
+  cn: 全功能 LLM CLI 工具，集成 Shell 助手、Chat-REPL、RAG、AI 工具与 Agent，可接入 OpenAI、Claude、Gemini、Ollama、Groq 等
+  en: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+x:
+  source: https://github.com/sigoden/aichat
+  eget: https://github.com/sigoden/aichat
+rule:
+  /eget:
+    cmd: x eget sigoden/aichat
+    reference: https://github.com/sigoden/aichat
+binlist:
+- aichat

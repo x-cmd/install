@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/bjarneo/ku'
+license: 'MIT'
+desc:
+  cn: 快速的键盘驱动 Kubernetes TUI，可浏览资源、编辑对象、跟踪日志并进入 pod shell
+  en: 'A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.'
+x:
+  source: https://github.com/bjarneo/ku
+  eget: https://github.com/bjarneo/ku
+rule:
+  /eget:
+    cmd: x eget bjarneo/ku
+    reference: https://github.com/bjarneo/ku
+binlist:
+  - 'kli'

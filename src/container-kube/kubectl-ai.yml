@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/GoogleCloudPlatform/kubectl-ai
+license: apache-2.0
+desc:
+  cn: AI 驱动的 Kubernetes 助手
+  en: AI powered Kubernetes Assistant
+x:
+  source: https://github.com/GoogleCloudPlatform/kubectl-ai
+  eget: https://github.com/GoogleCloudPlatform/kubectl-ai
+rule:
+  /eget:
+    cmd: x eget GoogleCloudPlatform/kubectl-ai
+    reference: https://github.com/GoogleCloudPlatform/kubectl-ai
+binlist:
+- kubectl-ai

@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/NetApp/trident
+license: Apache-2.0
+desc:
+  cn: 容器的存储编排
+  en: Storage orchestrator for containers
+x:
+  source: https://github.com/NetApp/trident
+  eget: https://github.com/NetApp/trident
+rule:
+  /eget:
+    cmd: x eget NetApp/trident
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use tridentctl
+    reference: https://github.com/asdf-community/asdf-tridentctl?tab=readme-ov-file#install
+binlist:
+- tridentctl

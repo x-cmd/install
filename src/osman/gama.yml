@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/termkit/gama'
+license: 'GPL-3.0'
+desc:
+  cn: 用出色 UI 从终端管理 GitHub Actions
+  en: 'Manage your GitHub Actions from Terminal with great UI 🧪'
+x:
+  source: https://github.com/termkit/gama
+  eget: https://github.com/termkit/gama
+rule:
+  /eget:
+    cmd: x eget termkit/gama
+    reference: https://github.com/termkit/gama
+binlist:
+  - 'gama'

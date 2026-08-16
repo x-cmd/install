@@ -1,0 +1,22 @@
+lang: Rust
+homepage: https://github.com/TheWaWaR/simple-http-server
+license: MIT
+desc:
+  cn: Rust 中的简单 http 服务器（Windows/Mac/Linux）
+  en: Simple http server in Rust (Windows/Mac/Linux)
+x:
+  source: https://github.com/TheWaWaR/simple-http-server
+  eget: https://github.com/TheWaWaR/simple-http-server
+rule:
+  /eget:
+    cmd: x eget TheWaWaR/simple-http-server
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install simple-http-server
+    reference: https://github.com/TheWaWaR/simple-http-server?tab=readme-ov-file#install-by-cargo
+    dsnap: simple-http-server
+  arch/yay:
+    cmd: yay -S simple-http-server
+    reference: https://aur.archlinux.org/packages/simple-http-server
+binlist:
+- simple-http-server

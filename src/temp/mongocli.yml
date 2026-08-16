@@ -1,0 +1,18 @@
+lang: Go
+homepage: https://github.com/mongodb/mongodb-cli
+license: Apache-2.0
+desc:
+  cn: MongoDB CLI 是现代命令行接口，使您能够从终端管理 MongoDB 服务
+  en: The MongoDB CLI is a modern command line interface that enables you to manage your MongoDB services from the terminal
+x:
+  source: https://github.com/mongodb/mongodb-cli
+  eget: https://github.com/mongodb/mongodb-cli
+rule:
+  /eget:
+    cmd: x eget mongodb/mongodb-cli
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install mongocli
+    reference: https://github.com/mongodb/mongodb-atlas-cli/blob/master/mongocli.md#homebrew-on-macos
+binlist:
+- mongocli

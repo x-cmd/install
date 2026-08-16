@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/akunzai/gistui
+license: 'MIT'
+desc:
+  cn: 管理 GitHub Gist 的 TUI
+  en: 'A terminal UI for managing GitHub Gists'
+x:
+  source: https://github.com/akunzai/gistui
+  eget: https://github.com/akunzai/gistui
+rule:
+  /cargo:
+    cmd: 'cargo install gistui --force'
+    reference: https://github.com/akunzai/gistui
+  /eget:
+    cmd: x eget akunzai/gistui
+    reference: https://github.com/akunzai/gistui
+binlist:
+  - 'gistui'

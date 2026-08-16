@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/kts982/wintui'
+license: 'MIT'
+desc:
+  cn: winget 的 Go TUI 前端，基于 Bubble Tea、Bubbles 和 Lip Gloss 构建
+  en: 'Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss'
+x:
+  source: https://github.com/kts982/wintui
+  eget: https://github.com/kts982/wintui
+rule:
+  /eget:
+    cmd: x eget kts982/wintui
+    reference: https://github.com/kts982/wintui
+binlist:
+  - 'wintui'

@@ -1,0 +1,27 @@
+lang: Rust
+homepage: https://github.com/ImageOptim/gifski
+desc:
+  cn: 基于 libimagequant (pngquant) 的 GIF 编码器
+  en: GIF encoder based on libimagequant (pngquant)
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ImageOptim/gifski
+  eget: https://github.com/ImageOptim/gifski
+rule:
+  /eget:
+    cmd: x eget ImageOptim/gifski
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use gifski
+    reference: https://x-cmd.com/install/
+  darwin/brew:
+    cmd: brew install gifski
+    reference: https://github.com/ImageOptim/gifski/?tab=readme-ov-file#download-and-install
+  /cargo:
+    cmd: cargo install gifski
+    reference: https://github.com/ImageOptim/gifski/?tab=readme-ov-file#download-and-install
+    dsnap: gifski
+binlist:
+- gifski
+license: NOASSERTION

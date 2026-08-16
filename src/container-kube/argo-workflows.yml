@@ -1,0 +1,41 @@
+lang: Go
+homepage: https://github.com/argoproj/argo-workflows
+license: Apache-2.0
+desc:
+  cn: Argo Workflow 是一个开源容器-本地工作流引擎，用于编排 Kubernetes 上的并行作业
+  en: Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes
+x:
+  source: https://github.com/argoproj/argo-workflows
+  eget: https://github.com/argoproj/argo-workflows
+rule:
+  /eget:
+    cmd: x eget argoproj/argo-workflows
+    reference: https://x-cmd.com/mod/eget
+  darwin/curl:
+    cmd: 'curl -sLO https://github.com/argoproj/argo-workflows/releases/download/v3.5.2/argo-darwin-amd64.gz \
+
+      && gunzip argo-darwin-amd64.gz \
+
+      && chmod +x argo-darwin-amd64 \
+
+      && mv ./argo-darwin-amd64 /usr/local/bin/argo \
+
+      && argo version
+
+      '
+    reference: https://github.com/argoproj/argo-workflows/releases/tag/v3.5.2
+  linux/curl:
+    cmd: 'curl -sLO https://github.com/argoproj/argo-workflows/releases/download/v3.5.2/argo-linux-amd64.gz \
+
+      && gunzip argo-linux-amd64.gz \
+
+      && chmod +x argo-linux-amd64 \
+
+      && mv ./argo-linux-amd64 /usr/local/bin/argo \
+
+      && argo version
+
+      '
+    reference: https://github.com/argoproj/argo-workflows/releases/tag/v3.5.2
+binlist:
+- argo-workflows

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/kiki-ki/go-qo'
+license: 'MIT'
+desc:
+  cn: 用 SQL 查询 JSON 与 CSV 的极简交互式 TUI
+  en: 'qo is an interactive minimalist TUI to query JSON and CSV using SQL.'
+x:
+  source: https://github.com/kiki-ki/go-qo
+  eget: https://github.com/kiki-ki/go-qo
+rule:
+  /eget:
+    cmd: x eget kiki-ki/go-qo
+    reference: https://github.com/kiki-ki/go-qo
+binlist:
+  - 'qo'

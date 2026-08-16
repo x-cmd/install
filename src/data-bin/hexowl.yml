@@ -1,0 +1,22 @@
+lang: Go
+homepage: https://github.com/dece2183/hexowl
+license: GPL-3.0
+desc:
+  cn: 轻量级、灵活的程序员计算器，具有变量和函数
+  en: Lightweight, flexible programmer's calculator with variables and functions
+x:
+  source: https://github.com/dece2183/hexowl
+  eget: https://github.com/dece2183/hexowl
+rule:
+  /eget:
+    cmd: x eget dece2183/hexowl
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/dece2183/hexowl@latest
+    reference: https://github.com/dece2183/hexowl?tab=readme-ov-file#installation
+    dsnap: github.com/dece2183/hexowl@latest
+  arch/yay:
+    cmd: yay -S hexowl
+    reference: https://aur.archlinux.org/packages/hexowl
+binlist:
+- hexowl

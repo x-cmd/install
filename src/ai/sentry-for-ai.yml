@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/getsentry/sentry-for-ai
+license: mit
+desc:
+  cn: Sentry 官方为 AI 编码助手打造的技能库——35 项 Agent Skills,教 Claude Code / Cursor / Codex / Grok 学会配置 Sentry、排查生产事故、做带 Sentry 上下文的代码评审。
+  en: Sentry's official skill library for AI coding assistants — 35 Agent Skills that teach Claude Code / Cursor / Codex / Grok to set up Sentry, triage production issues, and do code review with Sentry context.
+x:
+  source: https://github.com/getsentry/sentry-for-ai
+rule:
+  /npm:
+    cmd: npx skills add getsentry/sentry-for-ai
+    reference: https://www.skills.sh/getsentry/sentry-for-ai
+    dsnap: skills
+binlist:
+- sentry-for-ai

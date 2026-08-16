@@ -1,0 +1,15 @@
+lang: JavaScript
+homepage: https://github.com/firecrawl/firecrawl-mcp-server
+license: mit
+desc:
+  cn: Firecrawl 官方 MCP 服务器，为 Cursor、Claude 等 LLM 客户端提供强大的网页抓取与搜索能力
+  en: 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+x:
+  source: https://github.com/firecrawl/firecrawl-mcp-server
+rule:
+  /npm:
+    cmd: npm install -g firecrawl-mcp
+    reference: https://www.npmjs.com/package/firecrawl-mcp
+    dsnap: 'firecrawl-mcp'
+binlist:
+- firecrawl-mcp-server

@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/wcampbell0x2a/heretek
+license: 'Apache-2.0'
+desc:
+  cn: 用于理解海量知识的 GDB TUI 仪表盘
+  en: 'GDB TUI Dashboard for the understanding of vast knowledge'
+x:
+  source: https://github.com/wcampbell0x2a/heretek
+  eget: https://github.com/wcampbell0x2a/heretek
+rule:
+  arch/pacman:
+    cmd: 'pacman -S heretek'
+    reference: https://github.com/wcampbell0x2a/heretek
+  /eget:
+    cmd: x eget wcampbell0x2a/heretek
+    reference: https://github.com/wcampbell0x2a/heretek
+binlist:
+  - 'heretek'

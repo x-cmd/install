@@ -1,0 +1,12 @@
+lang: Shell
+homepage: https://www.ksyun.com
+license: NOASSERTION
+desc:
+  cn: 金山云软件安装工具
+  en: ksyun — software install
+rule:
+  /curl:
+    cmd: x env use ksyun
+    reference: https://github.com/x-cmd/doc-2026/blob/main/data/install/cloud-public/ksyun.cn.md
+binlist:
+- ksyun

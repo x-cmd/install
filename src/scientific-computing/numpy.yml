@@ -1,0 +1,22 @@
+lang: Python
+homepage: https://github.com/numpy/numpy
+desc:
+  cn: NumPy 是一个用于科学计算的 Python 库
+  en: NumPy is a Python library for scientific computing
+x:
+  source: https://github.com/numpy/numpy
+  eget: https://github.com/numpy/numpy
+rule:
+  /eget:
+    cmd: x eget numpy/numpy
+    reference: https://x-cmd.com/mod/eget
+  /pip:
+    cmd: pip install numpy
+    reference: https://numpy.org/install/
+    dsnap: numpy
+  /conda:
+    cmd: conda install numpy
+    reference: https://numpy.org/install/
+binlist:
+- numpy
+license: NOASSERTION

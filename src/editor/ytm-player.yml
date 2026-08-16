@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/peternaame-boop/ytm-player
+license: 'MIT'
+desc:
+  cn: 支持 Vim 键位、同步歌词和跨平台媒体键的 YouTube Music TUI 客户端
+  en: 'YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys'
+x:
+  source: https://github.com/peternaame-boop/ytm-player
+  eget: https://github.com/peternaame-boop/ytm-player
+rule:
+  /eget:
+    cmd: x eget peternaame-boop/ytm-player
+    reference: https://github.com/peternaame-boop/ytm-player
+binlist:
+  - 'ytm-player'

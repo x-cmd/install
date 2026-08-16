@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/iann0036/iamlive
+license: MIT
+desc:
+  cn: 使用客户端监控 (CSM) 或嵌入式代理从 AWS、Azure 或 Google Cloud (GCP) 调用生成 IAM 策略
+  en: Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
+x:
+  pkg:
+    exist: true
+  source: https://github.com/iann0036/iamlive
+  eget: https://github.com/iann0036/iamlive
+rule:
+  /x:
+    cmd: x pkg use iamlive
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget iann0036/iamlive
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use iamlive
+    reference: https://github.com/chessmango/asdf-iamlive
+  darwin/brew:
+    cmd: brew install iann0036/iamlive/iamlive
+    reference: https://github.com/iann0036/iamlive?tab=readme-ov-file#homebrew
+binlist:
+- iamlive

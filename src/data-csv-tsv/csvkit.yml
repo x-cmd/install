@@ -1,0 +1,36 @@
+lang: Python
+homepage: https://github.com/wireservice/csvkit
+license: MIT
+desc:
+  cn: csvkit 是一套命令行工具，用于转换和使用 CSV（“表格文件格式之王”）
+  en: csvkit is a suite of command-line tools for converting to and working with CSV ("The king of tabular file formats")
+x:
+  pkg:
+    exist: true
+  source: https://github.com/wireservice/csvkit
+rule:
+  /x:
+    cmd: x pkg use csvkit
+    reference: https://x-cmd.com/install/
+  /pip:
+    cmd: sudo pip install csvkit
+    reference: https://csvkit.readthedocs.io/en/latest/tutorial/1_getting_started.html#installing-csvkit
+    dsnap: csvkit
+  arch/yay:
+    cmd: yay -S csvkit-git
+    reference: https://aur.archlinux.org/packages/csvkit-git
+binlist:
+  - csvclean
+  - csvcut
+  - csvformat
+  - csvgrep
+  - csvjoin
+  - csvjson
+  - csvlook
+  - csvpy
+  - csvsort
+  - csvsql
+  - csvstack
+  - csvstat
+  - in2csv
+  - sql2csv

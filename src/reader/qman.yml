@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/plp13/qman'
+license: 'BSD-2-Clause'
+desc:
+  cn: 更现代的终端 man 手册查看器
+  en: 'A more modern man page viewer for our terminals'
+x:
+  source: https://github.com/plp13/qman
+  eget: https://github.com/plp13/qman
+rule:
+  /eget:
+    cmd: x eget plp13/qman
+    reference: https://github.com/plp13/qman
+binlist:
+  - 'qman'

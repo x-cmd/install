@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/steipete/ordercli
+license: mit
+desc:
+  cn: Foodora 和 Deliveroo 的命令行工具
+  en: CLI for Foodora and Deliveroo
+x:
+  source: https://github.com/steipete/ordercli
+  eget: https://github.com/steipete/ordercli
+rule:
+  /eget:
+    cmd: x eget steipete/ordercli
+    reference: https://github.com/steipete/ordercli
+binlist:
+- ordercli

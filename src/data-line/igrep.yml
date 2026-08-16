@@ -1,0 +1,31 @@
+lang: Rust
+homepage: https://github.com/konradsz/igrep
+license: MIT
+desc:
+  cn: 交互式 Grep
+  en: Interactive Grep
+x:
+  source: https://github.com/konradsz/igrep
+  eget: https://github.com/konradsz/igrep
+rule:
+  /eget:
+    cmd: x eget konradsz/igrep
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap konradsz/igrep https://github.com/konradsz/igrep.git && \
+
+      brew install igrep
+
+      '
+    reference: https://github.com/konradsz/igrep?tab=readme-ov-file#homebrew
+  (win|wsl2)/scoop:
+    cmd: x scoop install igrep
+    reference: https://github.com/konradsz/igrep?tab=readme-ov-file#scoop
+  arch/pacman:
+    cmd: sudo pacman -S igrep
+    reference: https://github.com/konradsz/igrep?tab=readme-ov-file#arch-linux
+  alpine/apk:
+    cmd: apk add igrep
+    reference: https://github.com/konradsz/igrep?tab=readme-ov-file#alpine-linux
+binlist:
+- igrep

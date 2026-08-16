@@ -1,0 +1,24 @@
+lang: JavaScript
+homepage: https://github.com/xwmx/nb
+license: AGPL-3.0
+desc:
+  cn: 一个功能丰富的便携脚本, 提供在命令行和本地网络中记笔记、书签、加密存档、搜索、Git 版本控制、同步、标签等服务和功能
+  en: CLI and local web note-taking, bookmarking, and archiving with encryption, search, Git-backed versioning and syncing, tagging, and more in a single portable script.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/xwmx/nb
+  eget: https://github.com/xwmx/nb
+rule:
+  /x:
+    cmd: x pkg use nb.sh
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget xwmx/nb
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm i -g nb.sh
+    reference: https://www.npmjs.com/package/nb.sh
+    dsnap: nb.sh
+binlist:
+- nb.sh

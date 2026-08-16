@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/TheR1D/shell_gpt
+license: mit
+desc:
+  cn: 由 GPT-5 等 AI 大模型驱动的命令行生产力工具，助你更快更高效地完成任务
+  en: A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+x:
+  source: https://github.com/TheR1D/shell_gpt
+  eget: https://github.com/TheR1D/shell_gpt
+rule:
+  /eget:
+    cmd: x eget TheR1D/shell_gpt
+    reference: https://github.com/TheR1D/shell_gpt
+binlist:
+- shell_gpt

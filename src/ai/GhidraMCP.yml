@@ -1,0 +1,15 @@
+lang: Java
+homepage: https://github.com/LaurieWired/GhidraMCP
+license: apache-2.0
+desc:
+  cn: Ghidra 的 MCP Server
+  en: MCP Server for Ghidra
+x:
+  source: https://github.com/LaurieWired/GhidraMCP
+  eget: https://github.com/LaurieWired/GhidraMCP
+rule:
+  /eget:
+    cmd: x eget LaurieWired/GhidraMCP
+    reference: https://github.com/LaurieWired/GhidraMCP
+binlist:
+- GhidraMCP

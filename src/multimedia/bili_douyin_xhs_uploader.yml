@@ -1,0 +1,23 @@
+lang: Python
+homepage: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader
+license: MIT
+desc:
+  cn: 国内视频网站的 uploader,用来批量上传视频
+  en: The uploader of domestic video website, use to upload video in bulk
+x:
+  source: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader
+rule:
+  /pip:
+    cmd: 'git clone https://github.com/aceliuchanghong/bili_douyin_xhs_uploader.git \
+
+      && conda create -n uploader python=3.9 \
+
+      && conda activate uploader \
+
+      pip install -r requirements.txt --proxy=127.0.0.1:10809
+
+      '
+    reference: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader?tab=readme-ov-file#install
+    dsnap: bili_douyin_xhs_uploader
+binlist:
+- bili_douyin_xhs_uploader

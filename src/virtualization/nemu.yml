@@ -1,0 +1,24 @@
+lang: C
+homepage: https://github.com/nemuTUI/nemu
+license: BSD-2-Clause
+desc:
+  en: Ncurses UI for QEMU
+  cn: QEMU 的 Ncurses UI
+x:
+  source: https://github.com/nemuTUI/nemu
+rule:
+  alpine/apk:
+    cmd: apk add nemu
+    reference: https://github.com/nemuTUI/nemu?tab=readme-ov-file#packages
+    dsnap: nemu
+  freebsd/pkg:
+    cmd: pkg install nemu
+    reference: https://github.com/nemuTUI/nemu?tab=readme-ov-file#packages
+  darwin/brew:
+    cmd: brew install nemu
+    reference: https://github.com/nemuTUI/nemu?tab=readme-ov-file#packages
+  arch/yay:
+    cmd: yay -S nemu
+    reference: https://aur.archlinux.org/packages/nemu
+binlist:
+- nemu

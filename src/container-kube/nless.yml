@@ -1,0 +1,18 @@
+lang: 'Python'
+homepage: https://github.com/mpryor/nothing-less
+license: 'MIT'
+desc:
+  cn: 支持表格数据、分隔符推断与实时事件解析的 TUI 分页器
+  en: 'A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.'
+x:
+  source: https://github.com/mpryor/nothing-less
+  eget: https://github.com/mpryor/nothing-less
+rule:
+  /pip:
+    cmd: 'pip install nothing-less'
+    reference: https://github.com/mpryor/nothing-less
+  /eget:
+    cmd: x eget mpryor/nothing-less
+    reference: https://github.com/mpryor/nothing-less
+binlist:
+  - 'nless'

@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: 'https://github.com/elva-labs/awsesh'
+license: 'MIT'
+desc:
+  cn: AWS 会话与凭证管理器及 SDK
+  en: 'An AWS session and credential manager and SDK ✨'
+x:
+  source: https://github.com/elva-labs/awsesh
+  eget: https://github.com/elva-labs/awsesh
+rule:
+  /eget:
+    cmd: x eget elva-labs/awsesh
+    reference: https://github.com/elva-labs/awsesh
+binlist:
+  - 'awsesh'

@@ -1,0 +1,21 @@
+lang: Python
+homepage: https://github.com/XuehaiPan/nvitop
+license: Apache-2.0
+desc:
+  cn: 一个交互式的 NVIDIA-GPU 进程查看器及更多功能。
+  en: An interactive NVIDIA-GPU process viewer and beyond.
+x:
+  source: https://github.com/XuehaiPan/nvitop
+rule:
+  /pipx:
+    cmd: pipx install nvitop
+    reference: https://github.com/XuehaiPan/nvitop#installation
+  /pip:
+    cmd: pip3 install --upgrade nvitop
+    reference: https://github.com/XuehaiPan/nvitop#installation
+    dsnap: nvitop
+  /conda:
+    cmd: conda install -c conda-forge nvitop
+    reference: https://github.com/XuehaiPan/nvitop#installation
+binlist:
+- nvitop

@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/miklosn/cmdperf'
+license: 'MIT'
+desc:
+  cn: 命令性能基准测试工具
+  en: 'Command Performance Benchmarking'
+x:
+  source: https://github.com/miklosn/cmdperf
+  eget: https://github.com/miklosn/cmdperf
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/miklosn/cmdperf
+  /eget:
+    cmd: x eget miklosn/cmdperf
+    reference: https://github.com/miklosn/cmdperf
+binlist:
+  - 'cmdperf'

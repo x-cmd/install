@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/BaconIsAVeg/outside'
+license: 'AGPL-3.0'
+desc:
+  cn: 终端多用途天气客户端
+  en: 'A multi-purpose weather client for your terminal!'
+x:
+  source: https://github.com/BaconIsAVeg/outside
+  eget: https://github.com/BaconIsAVeg/outside
+rule:
+  /eget:
+    cmd: x eget BaconIsAVeg/outside
+    reference: https://github.com/BaconIsAVeg/outside
+binlist:
+  - 'outside'

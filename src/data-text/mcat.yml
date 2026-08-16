@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/Skardyy/mcat'
+license: 'MIT'
+desc:
+  cn: 终端图片、视频与 Markdown 查看器
+  en: 'Terminal image, video, and Markdown viewer'
+x:
+  source: https://github.com/Skardyy/mcat
+  eget: https://github.com/Skardyy/mcat
+rule:
+  /eget:
+    cmd: x eget Skardyy/mcat
+    reference: https://github.com/Skardyy/mcat
+binlist:
+  - 'mcat'

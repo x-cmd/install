@@ -1,0 +1,28 @@
+lang: Go
+homepage: https://github.com/pomdtr/sunbeam
+license: MIT
+desc:
+  cn: Sunbeam 是一个通用的命令行启动器
+  en: Sunbeam is a general purpose command-line launcher.
+x:
+  source: https://github.com/pomdtr/sunbeam
+  eget: https://github.com/pomdtr/sunbeam
+rule:
+  /eget:
+    cmd: x eget pomdtr/sunbeam
+    reference: https://x-cmd.com/mod/eget
+  /brew:
+    cmd: brew install pomdtr/tap/sunbeam
+    reference: https://sunbeam.pomdtr.me/docs/user-guide/installation.html
+  /nix:
+    cmd: nix shell github:pomdtr/sunbeam --command sunbeam
+    reference: https://sunbeam.pomdtr.me/docs/user-guide/installation.html
+  arch/yay:
+    cmd: yay -S sunbeam-bin
+    reference: https://sunbeam.pomdtr.me/docs/user-guide/installation.html
+  /go:
+    cmd: go install github.com/pomdtr/sunbeam@main
+    reference: https://sunbeam.pomdtr.me/docs/user-guide/installation.html
+    dsnap: sunbeam
+binlist:
+- sunbeam

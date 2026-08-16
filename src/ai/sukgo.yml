@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/reallygood83/sukgo
+license: other
+desc:
+  cn: 决策的艺术 CLI：汇聚 Claude Pro、ChatGPT Plus、Gemini，通过比较、综合、圆桌讨论帮你更深入地思考
+  en: 🧙 sukgo (숙고) — 결정의 기술 CLI. Claude Pro·ChatGPT Plus·Gemini를 한 자리에 모아 비교·종합·원탁토론으로 더 깊이 사고하게 도와주는 한국어 의사결정 도구.
+x:
+  source: https://github.com/reallygood83/sukgo
+  eget: https://github.com/reallygood83/sukgo
+rule:
+  /eget:
+    cmd: x eget reallygood83/sukgo
+    reference: https://github.com/reallygood83/sukgo
+binlist:
+- sukgo

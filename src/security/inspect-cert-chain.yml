@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/robjtede/inspect-cert-chain
+desc:
+  cn: 检查和调试 TLS 证书链（无需 OpenSSL）
+  en: Inspect and debug TLS certificate chains (without OpenSSL)
+x:
+  source: https://github.com/robjtede/inspect-cert-chain
+  eget: https://github.com/robjtede/inspect-cert-chain
+rule:
+  /eget:
+    cmd: x eget robjtede/inspect-cert-chain
+    reference: https://github.com/robjtede/inspect-cert-chain
+binlist:
+- inspect-cert-chain
+license: NOASSERTION

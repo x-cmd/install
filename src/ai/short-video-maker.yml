@@ -1,0 +1,14 @@
+lang: TypeScript
+homepage: https://github.com/gyoridavid/short-video-maker
+license: mit
+desc:
+  cn: 从文本提示生成短视频，自动配音、加字幕、配素材和背景音乐
+  en: Generates short-form videos from text prompts with automated voiceovers, captions, stock footage, and background music.
+x:
+  source: https://github.com/gyoridavid/short-video-maker
+rule:
+  /npm:
+    cmd: npm install -g short-video-maker
+    reference: https://github.com/gyoridavid/short-video-maker?tab=readme-ov-file#npm
+binlist:
+- short-video-maker

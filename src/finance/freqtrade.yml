@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/freqtrade/freqtrade
+license: gpl-3.0
+desc:
+  cn: 用 Python 编写的开源加密货币交易机器人，支持回测、策略优化、机器学习与自动交易，可通过 WebUI 或 Telegram 控制
+  en: Develop, backtest, and deploy automated cryptocurrency trading bots using Python and machine learning.
+x:
+  source: https://github.com/freqtrade/freqtrade
+rule:
+  /pip:
+    cmd: pip install freqtrade
+    reference: https://www.freqtrade.io/en/stable/installation/
+    dsnap: freqtrade
+binlist:
+- freqtrade

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/isd-project/isd
+desc:
+  cn: isd (interactive systemd) — 更好地操作 systemd 单元
+  en: isd (interactive systemd) – a better way to work with systemd units
+x:
+  source: https://github.com/isd-project/isd
+  eget: https://github.com/isd-project/isd
+rule:
+  /eget:
+    cmd: x eget isd-project/isd
+    reference: https://github.com/isd-project/isd
+binlist:
+- isd
+license: NOASSERTION

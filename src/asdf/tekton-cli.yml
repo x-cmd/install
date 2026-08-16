@@ -1,0 +1,103 @@
+lang: Go
+homepage: https://github.com/tektoncd/cli
+license: Apache-2.0
+desc:
+  cn: 与 Tekton 互动的 CLI
+  en: A CLI for interacting with Tekton
+x:
+  source: https://github.com/tektoncd/cli
+  eget: https://github.com/tektoncd/cli
+rule:
+  /eget:
+    cmd: x eget tektoncd/cli
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install tektoncd-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#mac-os-x
+  (win|wsl2)/scoop:
+    cmd: x scoop install tektoncd-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#windows
+  (win|wsl2)/choco:
+    cmd: x choco install tektoncd-cli --confirm
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#windows
+  win/powershell:
+    cmd: 'New-Item -Path "$HOME/tektoncd/cli" -Type Directory \
+
+      && Start-BitsTransfer -Source https://github.com/tektoncd/cli/releases/download/v0.34.0/tkn_0.34.0_Windows_x86_64.zip -Destination "$HOME/tektoncd/cli/." \
+
+      && Expand-Archive $HOME/tektoncd/cli/*.zip -DestinationPath C:\Users\Developer\tektoncd\cli\. \
+
+      && [Environment]::SetEnvironmentVariable("Path",$($env:Path + ";$Home\tektoncd\cli"),''User'')
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#windows
+  linux/curl:
+    cmd: 'curl -LO https://github.com/tektoncd/cli/releases/download/v0.34.0/tkn_0.34.0_Linux_x86_64.tar.gz \
+
+      && sudo tar xvzf tkn_0.34.0_Linux_x86_64.tar.gz -C /usr/local/bin/ tkn
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-tarballs
+  fedora/dnf:
+    cmd: 'sudo dnf copr enable chmouel/tektoncd-cli \
+
+      && sudo dnf install tektoncd-cli
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-rpms
+  /rpm:
+    cmd: rpm -Uvh https://github.com/tektoncd/cli/releases/download/v0.34.0/tektoncd-cli-0.34.0_Linux-64bit.rpm
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-rpms
+  ubuntu/apt:
+    cmd: 'sudo apt update;sudo apt install -y gnupg \
+
+      && sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3EFE0E0A2F2F60AA \
+
+      && echo "deb http://ppa.launchpad.net/tektoncd/cli/ubuntu jammy main"|sudo tee /etc/apt/sources.list.d/tektoncd-ubuntu-cli.list \
+
+      && sudo apt update && sudo apt install -y tektoncd-cli
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-debs
+  debian/apt:
+    cmd: 'sudo apt update;sudo apt install -y gnupg \
+
+      && sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3EFE0E0A2F2F60AA \
+
+      && echo "deb http://ppa.launchpad.net/tektoncd/cli/ubuntu jammy main"|sudo tee /etc/apt/sources.list.d/tektoncd-ubuntu-cli.list \
+
+      && sudo apt update && sudo apt install -y tektoncd-cli
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-debs
+  ubuntu/curl:
+    cmd: 'curl -LO https://github.com/tektoncd/cli/releases/download/v0.34.0/tektoncd-cli-0.34.0_Linux-64bit.deb \
+
+      && dpkg -i tektoncd-cli-0.34.0_Linux-64bit.deb
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-debs
+  debian/curl:
+    cmd: 'curl -LO https://github.com/tektoncd/cli/releases/download/v0.34.0/tektoncd-cli-0.34.0_Linux-64bit.deb \
+
+      && dpkg -i tektoncd-cli-0.34.0_Linux-64bit.deb
+
+      '
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#linux-debs
+  nixos/nix:
+    cmd: nix-env --install tektoncd-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#nixosnix
+  arch/pacman:
+    cmd: sudo pacman -S tekton-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#arch--manjaro
+  manjaro/pacman:
+    cmd: sudo pacman -S tekton-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#arch--manjaro
+  linux/brew:
+    cmd: brew install tektoncd-cli
+    reference: https://github.com/tektoncd/cli?tab=readme-ov-file#homebrew-on-linux
+  /asdf:
+    cmd: x asdf use tekton-cli
+    reference: https://github.com/johnhamelink/asdf-tekton-cli
+binlist:
+- tekton-cli

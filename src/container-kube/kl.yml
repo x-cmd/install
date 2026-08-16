@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/robinovitch61/kl'
+license: 'MIT'
+desc:
+  cn: 终端中的交互式 Kubernetes 日志查看器
+  en: 'An interactive Kubernetes log viewer for your terminal.'
+x:
+  source: https://github.com/robinovitch61/kl
+  eget: https://github.com/robinovitch61/kl
+rule:
+  /eget:
+    cmd: x eget robinovitch61/kl
+    reference: https://github.com/robinovitch61/kl
+binlist:
+  - 'kl'

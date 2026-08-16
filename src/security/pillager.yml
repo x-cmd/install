@@ -1,0 +1,35 @@
+lang: Go
+homepage: https://github.com/brittonhayes/pillager
+license: MIT
+desc:
+  cn: 掠夺文件系统以查找敏感信息。
+  en: Pillage filesystems for sensitive information.
+x:
+  source: https://github.com/brittonhayes/pillager
+rule:
+  /brew:
+    cmd: 'brew tap brittonhayes/homebrew-pillager \
+
+      && brew install pillager
+
+      '
+    reference: https://github.com/brittonhayes/pillager#installation
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add pillager https://github.com/brittonhayes/pillager-scoop.git \
+
+      && x scoop install pillager
+
+      '
+    reference: https://github.com/brittonhayes/pillager#installation
+  /eget:
+    cmd: eget brittonhayes/pillager
+    reference: https://github.com/brittonhayes/pillager#installation
+  /go:
+    cmd: go install github.com/brittonhayes/pillager@latest
+    reference: https://github.com/brittonhayes/pillager#installation
+    dsnap: github.com/brittonhayes/pillager
+  arch/yay:
+    cmd: yay -S pillager-bin
+    reference: https://aur.archlinux.org/packages/pillager-bin
+binlist:
+- pillager

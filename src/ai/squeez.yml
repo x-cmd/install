@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/claudioemmanuel/squeez
+license: apache-2.0
+desc:
+  cn: 基于 hook 的 token 压缩器，支持 Claude Code、Copilot CLI、OpenCode、Gemini CLI、Codex CLI 5 款 AI CLI 主机，bash 输出压缩率最高 95%
+  en: Hook-based token compressor for Claude Code, Copilot CLI, OpenCode, Gemini CLI, and Codex CLI. Up to 95% bash compression with zero runtime dependencies.
+x:
+  source: https://github.com/claudioemmanuel/squeez
+rule:
+  darwin/curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/claudioemmanuel/squeez/main/install.sh | sh
+    reference: https://github.com/claudioemmanuel/squeez#install
+  linux/curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/claudioemmanuel/squeez/main/install.sh | sh
+    reference: https://github.com/claudioemmanuel/squeez#install
+  /npm:
+    cmd: npm install -g squeez
+    dsnap: squeez
+    reference: https://www.npmjs.com/package/squeez
+binlist:
+- squeez

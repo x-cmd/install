@@ -1,0 +1,27 @@
+lang: Go
+homepage: https://github.com/zu1k/nali
+license: MIT
+desc:
+  cn: 一个查询 IP 地理信息和 CDN 服务提供商的离线终端工具
+  en: An offline tool for querying IP geographic information and CDN provider
+x:
+  pkg:
+    exist: true
+  source: https://github.com/zu1k/nali
+  eget: https://github.com/zu1k/nali
+rule:
+  /eget:
+    cmd: x eget zu1k/nali
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use nali
+    reference: https://x-cmd.com/install/
+  /go:
+    cmd: go install github.com/zu1k/nali@latest
+    reference: https://github.com/zu1k/nali/blob/master/README_en.md#install-from-source
+    dsnap: github.com/zu1k/nali@latest
+  arch/yay:
+    cmd: yay -S nali-go-bin
+    reference: https://aur.archlinux.org/packages/nali-go-bin
+binlist:
+- nali

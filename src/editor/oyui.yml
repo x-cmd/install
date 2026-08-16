@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/emilien-jegou/oyui
+desc:
+  cn: 面向 Jujutsu (jj) 和 Git 的现代 TUI 合并工具与交互式 diff 编辑器
+  en: Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
+x:
+  source: https://github.com/emilien-jegou/oyui
+  eget: https://github.com/emilien-jegou/oyui
+rule:
+  /eget:
+    cmd: x eget emilien-jegou/oyui
+    reference: https://github.com/emilien-jegou/oyui
+binlist:
+- oyui
+license: NOASSERTION

@@ -1,0 +1,39 @@
+lang: Go
+homepage: https://github.com/jsonnet-bundler/jsonnet-bundler
+license: Apache-2.0
+desc:
+  cn: 一个 jsonnet 包管理器
+  en: A jsonnet package manager
+x:
+  source: https://github.com/jsonnet-bundler/jsonnet-bundler
+  eget: https://github.com/jsonnet-bundler/jsonnet-bundler
+rule:
+  /eget:
+    cmd: x eget jsonnet-bundler/jsonnet-bundler
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install jsonnet-bundler
+    reference: https://tanka.dev/install#jsonnet-bundler
+  arch/yay:
+    cmd: yay jsonnet-bundler-bin
+    reference: https://tanka.dev/install#jsonnet-bundler
+  linux/curl:
+    cmd: 'sudo curl -Lo /usr/local/bin/jb https://github.com/jsonnet-bundler/jsonnet-bundler/releases/latest/download/jb-linux-amd64 \
+
+      && sudo chmod a+x /usr/local/bin/jb
+
+      '
+    reference: https://tanka.dev/install#jsonnet-bundler
+  darwin/curl:
+    cmd: 'sudo curl -Lo /usr/local/bin/jb https://github.com/jsonnet-bundler/jsonnet-bundler/releases/latest/download/jb-darwin-amd64 \
+
+      && sudo chmod a+x /usr/local/bin/jb
+
+      '
+    reference: https://tanka.dev/install#jsonnet-bundler
+  /go:
+    cmd: go install github.com/jsonnet-bundler/jsonnet-bundler/cmd/jb@latest
+    reference: https://tanka.dev/install#jsonnet-bundler
+    dsnap: github.com/jsonnet-bundler/jsonnet-bundler/cmd/jb@latest
+binlist:
+- jsonnet-bundler

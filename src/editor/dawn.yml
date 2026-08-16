@@ -1,0 +1,15 @@
+lang: 'C'
+homepage: 'https://github.com/andrewmd5/dawn'
+license: 'MIT'
+desc:
+  cn: 无干扰的写作环境，随时开始创作
+  en: 'A distraction-free writing environment; draft anything, write now.'
+x:
+  source: https://github.com/andrewmd5/dawn
+  eget: https://github.com/andrewmd5/dawn
+rule:
+  /eget:
+    cmd: x eget andrewmd5/dawn
+    reference: https://github.com/andrewmd5/dawn
+binlist:
+  - 'dawn'

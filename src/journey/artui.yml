@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/fjonasALICE/arTui
+license: 'MIT'
+desc:
+  cn: 阅读和追踪近期 arXiv 论文的小型 TUI
+  en: 'A small TUI to read and track recent arXiv papers'
+x:
+  source: https://github.com/fjonasALICE/arTui
+  eget: https://github.com/fjonasALICE/arTui
+rule:
+  /eget:
+    cmd: x eget fjonasALICE/arTui
+    reference: https://github.com/fjonasALICE/arTui
+binlist:
+  - 'artui'

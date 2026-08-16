@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/ulyssa/iamb
+license: 'Apache-2.0'
+desc:
+  cn: 面向 Vim 用户的 Matrix 客户端
+  en: 'A Matrix client for Vim addicts'
+x:
+  source: https://github.com/ulyssa/iamb
+  eget: https://github.com/ulyssa/iamb
+rule:
+  /eget:
+    cmd: x eget ulyssa/iamb
+    reference: https://github.com/ulyssa/iamb
+binlist:
+  - 'iamb'

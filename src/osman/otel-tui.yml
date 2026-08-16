@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/ymtdzzz/otel-tui'
+license: 'Apache-2.0'
+desc:
+  cn: 受 otel-desktop-viewer 启发的终端 OpenTelemetry 查看器
+  en: 'A terminal OpenTelemetry viewer inspired by otel-desktop-viewer'
+x:
+  source: https://github.com/ymtdzzz/otel-tui
+  eget: https://github.com/ymtdzzz/otel-tui
+rule:
+  /eget:
+    cmd: x eget ymtdzzz/otel-tui
+    reference: https://github.com/ymtdzzz/otel-tui
+binlist:
+  - 'otel-tui'

@@ -1,0 +1,15 @@
+lang: Go
+homepage: https://github.com/github/github-mcp-server
+license: mit
+desc:
+  cn: GitHub 官方 MCP 服务器
+  en: GitHub's official MCP Server
+x:
+  source: https://github.com/github/github-mcp-server
+  eget: https://github.com/github/github-mcp-server
+rule:
+  /eget:
+    cmd: x eget github/github-mcp-server
+    reference: https://github.com/github/github-mcp-server
+binlist:
+- github-mcp-server

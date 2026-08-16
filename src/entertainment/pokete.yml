@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/lxgr-linux/pokete
+license: GPL-3.0
+desc:
+  cn: 类似口袋妖怪的游戏
+  en: A terminal based Pokemon like game
+x:
+  source: https://github.com/lxgr-linux/pokete
+rule:
+  arch/yay:
+    cmd: yay -S pokete
+    reference: https://aur.archlinux.org/packages/pokete
+  /pip:
+    cmd: pip install pokete
+    reference: https://github.com/lxgr-linux/pokete?tab=readme-ov-file#installation
+    dsnap: pokete
+binlist:
+  - pokete

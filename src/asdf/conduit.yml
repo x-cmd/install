@@ -1,0 +1,21 @@
+lang: Go
+homepage: https://github.com/ConduitIO/conduit
+license: Apache-2.0
+desc:
+  cn: Conduit 是一个面向软件工程师的数据集成工具
+  en: Conduit is a data integration tool for software engineers
+x:
+  source: https://github.com/ConduitIO/conduit
+  eget: https://github.com/ConduitIO/conduit
+rule:
+  /eget:
+    cmd: x eget ConduitIO/conduit
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install conduit
+    reference: https://github.com/ConduitIO/conduit?tab=readme-ov-file#homebrew
+  /asdf:
+    cmd: x asdf use conduit
+    reference: https://github.com/gmcabrita/asdf-conduit?tab=readme-ov-file#installation
+binlist:
+- conduit

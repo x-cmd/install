@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/langflow-ai/langflow
+license: mit
+desc:
+  cn: 构建与部署 AI 智能体和工作流的强力工具
+  en: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+x:
+  source: https://github.com/langflow-ai/langflow
+  eget: https://github.com/langflow-ai/langflow
+rule:
+  /eget:
+    cmd: x eget langflow-ai/langflow
+    reference: https://github.com/langflow-ai/langflow
+binlist:
+- langflow

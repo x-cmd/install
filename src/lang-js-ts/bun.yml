@@ -1,0 +1,43 @@
+lang: Zig
+homepage: https://github.com/oven-sh/bun
+desc:
+  cn: 一个快速的多合一 JavaScript 运行时
+  en: A fast all-in-one JavaScript runtime
+x:
+  pkg:
+    exist: true
+  source: https://github.com/oven-sh/bun
+  eget: https://github.com/oven-sh/bun
+rule:
+  /x:
+    cmd: x pkg use bun
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget oven-sh/bun
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use bun
+    reference: https://github.com/cometkim/asdf-bun
+  /curl:
+    cmd: curl -fsSL https://bun.sh/install | bash
+    reference: https://bun.sh/
+  (win|wsl2)/powershell:
+    cmd: powershell -c "irm bun.sh/install.ps1 | iex"
+    reference: https://bun.sh/
+  /npm:
+    cmd: npm install -g bun
+    reference: https://github.com/oven-sh/bun#install
+    dsnap: bun
+  darwin/brew:
+    cmd: 'brew tap oven-sh/bun \
+
+      && brew install bun
+
+      '
+    reference: https://github.com/oven-sh/bun#install
+  arch/yay:
+    cmd: yay -S bun-bin
+    reference: https://aur.archlinux.org/packages/bun-bin
+binlist:
+- bun
+license: NOASSERTION

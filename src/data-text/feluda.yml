@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/anistark/feluda
+desc:
+  cn: 检测项目中的许可证使用限制
+  en: Detect license usage restrictions in your project!
+x:
+  source: https://github.com/anistark/feluda
+  eget: https://github.com/anistark/feluda
+rule:
+  /eget:
+    cmd: x eget anistark/feluda
+    reference: https://github.com/anistark/feluda
+binlist:
+- feluda
+license: NOASSERTION

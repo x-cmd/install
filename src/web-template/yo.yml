@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: https://github.com/yeoman/yo
+license: BSD-2-Clause
+desc:
+  cn: 运行 Yeoman generators 的 CLI 工具
+  en: CLI tool for running Yeoman generators
+x:
+  pkg:
+    exist: true
+  source: https://github.com/yeoman/yo
+rule:
+  /x:
+    cmd: x pkg use yo
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install --global yo
+    reference: https://github.com/yeoman/yo?tab=readme-ov-file#usage
+    dsnap: yo
+binlist:
+- yo

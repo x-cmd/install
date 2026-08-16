@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/ddddddO/packemon'
+license: 'BSD-2-Clause'
+desc:
+  cn: 任意网络接口收发数据包的 TUI 工具，支持 Windows/macOS/Linux
+  en: 'Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( ''-''ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux'
+x:
+  source: https://github.com/ddddddO/packemon
+  eget: https://github.com/ddddddO/packemon
+rule:
+  /eget:
+    cmd: x eget ddddddO/packemon
+    reference: https://github.com/ddddddO/packemon
+binlist:
+  - 'packemon'

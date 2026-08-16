@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/Tairesh/rustormy'
+license: 'MIT'
+desc:
+  cn: 极简的 neofetch 风格天气 CLI
+  en: '🌦️ Minimal neofetch-like weather CLI'
+x:
+  source: https://github.com/Tairesh/rustormy
+  eget: https://github.com/Tairesh/rustormy
+rule:
+  /eget:
+    cmd: x eget Tairesh/rustormy
+    reference: https://github.com/Tairesh/rustormy
+binlist:
+  - 'rustormy'

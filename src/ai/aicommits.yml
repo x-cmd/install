@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/Nutlope/aicommits
+license: mit
+desc:
+  cn: 用 AI 为你生成 git 提交信息的 CLI
+  en: A CLI that writes your git commit messages for you with AI
+x:
+  source: https://github.com/Nutlope/aicommits
+rule:
+  /npm:
+    cmd: npm install -g aicommits
+    reference: https://www.npmjs.com/package/aicommits
+    dsnap: 'aicommits'
+binlist:
+- aicommits

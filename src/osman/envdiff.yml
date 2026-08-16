@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/GBerghoff/envdiff'
+license: 'MIT'
+desc:
+  cn: 快照与比对环境的 CLI 工具，帮你找出关键差异
+  en: 'cli tool to snapshot and diff environments - helping find the differences that matter'
+x:
+  source: https://github.com/GBerghoff/envdiff
+  eget: https://github.com/GBerghoff/envdiff
+rule:
+  /eget:
+    cmd: x eget GBerghoff/envdiff
+    reference: https://github.com/GBerghoff/envdiff
+binlist:
+  - 'envdiff'

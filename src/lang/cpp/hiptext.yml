@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/jart/hiptext
+license: apache-2.0
+desc:
+  cn: 将图像转为文本,效果优于 caca/aalib
+  en: Turn images into text better than caca/aalib
+x:
+  source: https://github.com/jart/hiptext
+  eget: https://github.com/jart/hiptext
+rule:
+  /eget:
+    cmd: x eget jart/hiptext
+    reference: https://github.com/jart/hiptext
+binlist:
+- hiptext

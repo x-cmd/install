@@ -1,0 +1,21 @@
+lang: Haskell
+homepage: https://github.com/haskell/haskell-language-server
+license: Apache-2.0
+desc:
+  cn: 通过语言服务器(LSP)对 haskell-ide 的官方支持
+  en: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine
+x:
+  source: https://github.com/haskell/haskell-language-server
+  eget: https://github.com/haskell/haskell-language-server
+rule:
+  /eget:
+    cmd: x eget haskell/haskell-language-server
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S haskell-language-server-static
+    reference: https://aur.archlinux.org/packages/haskell-language-server-static
+  darwin/brew:
+    cmd: brew install haskell-language-server
+    reference: https://formulae.brew.sh/formula/haskell-language-server#default
+binlist:
+- haskell-language-server

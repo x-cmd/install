@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/reyamira/aic'
+license: 'MIT'
+desc:
+  cn: 获取 AI 编程助手最新更新日志的 CLI，覆盖 Claude Code、Codex、Gemini CLI 等
+  en: 'CLI to fetch the latest changelogs for AI coding assistants — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw, and a few more'
+x:
+  source: https://github.com/reyamira/aic
+  eget: https://github.com/reyamira/aic
+rule:
+  /eget:
+    cmd: x eget reyamira/aic
+    reference: https://github.com/reyamira/aic
+binlist:
+  - 'aic'

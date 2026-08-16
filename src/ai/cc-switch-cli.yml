@@ -1,0 +1,15 @@
+lang: Rust
+homepage: https://github.com/SaladDay/cc-switch-cli
+license: mit
+desc:
+  cn: 面向 Claude Code、Codex、Gemini CLI 的跨平台 All-in-One CLI 助手工具
+  en: ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+x:
+  source: https://github.com/SaladDay/cc-switch-cli
+  eget: https://github.com/SaladDay/cc-switch-cli
+rule:
+  /eget:
+    cmd: x eget SaladDay/cc-switch-cli
+    reference: https://github.com/SaladDay/cc-switch-cli
+binlist:
+- cc-switch-cli

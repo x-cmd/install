@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/Shishir435/ollama-client
+license: mit
+desc:
+  cn: 在浏览器中与本地 LLM 对话的轻量、隐私优先 Chrome 扩展，支持 Ollama、LM Studio 和 llama.cpp 流式对话
+  en: Ollama Client – Chat with Local LLMs Inside Your Browser A lightweight, privacy‑first Chrome extension to chat with local LLMs via Ollama, LM Studio, and llama.cpp. Supports streaming, stop/regene...
+x:
+  source: https://github.com/Shishir435/ollama-client
+  eget: https://github.com/Shishir435/ollama-client
+rule:
+  /eget:
+    cmd: x eget Shishir435/ollama-client
+    reference: https://github.com/Shishir435/ollama-client
+binlist:
+- ollama-client

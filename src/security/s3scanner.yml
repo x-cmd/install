@@ -1,0 +1,21 @@
+lang: 'Go'
+homepage: https://github.com/sa7mon/S3Scanner
+license: 'MIT'
+desc:
+  cn: 扫描 S3 兼容 API 上配置错误的 S3 存储桶
+  en: 'Scan for misconfigured S3 buckets across S3-compatible APIs!'
+x:
+  source: https://github.com/sa7mon/S3Scanner
+  eget: https://github.com/sa7mon/S3Scanner
+rule:
+  darwin/brew:
+    cmd: 'brew install s3scanner'
+    reference: https://github.com/sa7mon/S3Scanner
+  debian/apt:
+    cmd: 'apt install s3scanner'
+    reference: https://github.com/sa7mon/S3Scanner
+  /eget:
+    cmd: x eget sa7mon/S3Scanner
+    reference: https://github.com/sa7mon/S3Scanner
+binlist:
+  - 's3scanner'

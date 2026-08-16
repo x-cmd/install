@@ -1,0 +1,15 @@
+lang: 'C++'
+homepage: 'https://github.com/shediao/ai.cli'
+license: noassertion
+desc:
+  cn: 支持多供应商、工具调用、流式输出与视觉输入的 AI 驱动 CLI 聊天机器人，基于 C++20
+  en: '🤖 AI-powered CLI chatbot with multi-provider support, tool-calling capabilities, streaming output, and vision input. Built in C++20.'
+x:
+  source: https://github.com/shediao/ai.cli
+  eget: https://github.com/shediao/ai.cli
+rule:
+  /eget:
+    cmd: x eget shediao/ai.cli
+    reference: https://github.com/shediao/ai.cli
+binlist:
+  - 'ai.cli'

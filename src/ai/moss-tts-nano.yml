@@ -1,0 +1,14 @@
+lang: Python
+homepage: https://github.com/OpenMOSS/MOSS-TTS-Nano
+license: apache-2.0
+desc:
+  cn: MOSI.AI 与 OpenMOSS 团队开源的 0.1B 参数多语言 TTS 模型，纯自回归（Audio Tokenizer + LLM）架构，48kHz 立体声、流式推理可在 4 核 CPU 上跑，支持 20 种语言与零样本语音克隆。
+  en: MOSS-TTS-Nano is a 0.1B parameter, open-source multilingual text-to-speech model from MOSI.AI and the OpenMOSS team using a pure autoregressive (Audio Tokenizer + LLM) pipeline; 48 kHz stereo, streaming on a 4-core CPU, 20 languages and zero-shot voice cloning.
+x:
+  source: https://github.com/OpenMOSS/MOSS-TTS-Nano
+rule:
+  /git:
+    cmd: x git clone OpenMOSS/MOSS-TTS-Nano
+    reference: https://github.com/OpenMOSS/MOSS-TTS-Nano#quickstart
+binlist:
+- moss-tts-nano

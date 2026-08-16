@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/DVDTSB/hexhog'
+license: 'MIT'
+desc:
+  cn: 十六进制查看器/编辑器
+  en: 'hex viewer/editor'
+x:
+  source: https://github.com/DVDTSB/hexhog
+  eget: https://github.com/DVDTSB/hexhog
+rule:
+  /eget:
+    cmd: x eget DVDTSB/hexhog
+    reference: https://github.com/DVDTSB/hexhog
+binlist:
+  - 'hexhog'

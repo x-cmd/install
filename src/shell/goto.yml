@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: 'https://github.com/grafviktor/goto'
+license: 'MIT'
+desc:
+  cn: 易用的终端 SSH 管理器，附带高级功能
+  en: 'Easy to use terminal SSH manager with advanced features. Binaries included! 😉'
+x:
+  source: https://github.com/grafviktor/goto
+  eget: https://github.com/grafviktor/goto
+rule:
+  /eget:
+    cmd: x eget grafviktor/goto
+    reference: https://github.com/grafviktor/goto
+binlist:
+  - 'goto'

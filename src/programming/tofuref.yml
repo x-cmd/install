@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/djetelina/tofuref
+license: 'MIT'
+desc:
+  cn: OpenTofu/Terraform provider 注册表的 TUI
+  en: 'TUI for OpenTofu/Terraform provider registry'
+x:
+  source: https://github.com/djetelina/tofuref
+  eget: https://github.com/djetelina/tofuref
+rule:
+  /eget:
+    cmd: x eget djetelina/tofuref
+    reference: https://github.com/djetelina/tofuref
+binlist:
+  - 'tofuref'

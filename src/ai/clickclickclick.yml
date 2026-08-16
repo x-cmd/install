@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/instavm/clickclickclick
+license: mit
+desc:
+  cn: 借助任意 LLM（本地或远程）实现 Android 与电脑的自主操控
+  en: Autonomous Android and computer use using any LLM (local or remote)
+x:
+  source: https://github.com/instavm/clickclickclick
+  eget: https://github.com/instavm/clickclickclick
+rule:
+  /eget:
+    cmd: x eget instavm/clickclickclick
+    reference: https://github.com/instavm/clickclickclick
+binlist:
+- clickclickclick

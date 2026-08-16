@@ -1,0 +1,21 @@
+lang: Python
+homepage: https://github.com/sauljabin/kaskade
+license: MIT
+desc:
+  en: Kaskade is a text user interface (TUI) for Apache Kafka
+  cn: Kaskade 是一个用于 Apache Kafka 的文本用户界面（TUI）。
+x:
+  source: https://github.com/sauljabin/kaskade
+  eget: https://github.com/sauljabin/kaskade
+rule:
+  /eget:
+    cmd: x eget sauljabin/kaskade
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install kaskade
+    reference: https://github.com/sauljabin/kaskade?tab=readme-ov-file#installation
+  /pipx:
+    cmd: pipx install kaskade
+    reference: https://github.com/sauljabin/kaskade?tab=readme-ov-file#installation
+binlist:
+- kaskade

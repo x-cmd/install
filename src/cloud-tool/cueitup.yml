@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/dhth/cueitup
+license: 'MIT'
+desc:
+  cn: 简洁有序地查看 AWS SQS 队列中的消息
+  en: 'Inspect messages in an AWS SQS queue in a simple and deliberate manner'
+x:
+  source: https://github.com/dhth/cueitup
+  eget: https://github.com/dhth/cueitup
+rule:
+  /eget:
+    cmd: x eget dhth/cueitup
+    reference: https://github.com/dhth/cueitup
+binlist:
+  - 'cueitup'

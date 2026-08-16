@@ -1,0 +1,15 @@
+lang: C
+homepage: https://github.com/jart/zsh
+license: NOASSERTION
+desc:
+  cn: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
+  en: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
+x:
+  source: https://github.com/jart/zsh
+  eget: https://github.com/jart/zsh
+rule:
+  /eget:
+    cmd: x eget jart/zsh
+    reference: https://github.com/jart/zsh
+binlist:
+- zsh

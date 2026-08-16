@@ -1,0 +1,20 @@
+lang: JavaScript
+homepage: http://github.com/shelljs/shelljs
+license: BSD-3-Clause
+desc:
+  cn: Node.js 的可移植 Unix shell 命令
+  en: Portable Unix shell commands for Node.js
+x:
+  pkg:
+    exist: true
+  source: http://github.com/shelljs/shelljs
+rule:
+  /x:
+    cmd: x pkg use shelljs
+    reference: https://x-cmd.com/install/
+  /npm:
+    cmd: npm install -g shelljs
+    reference: https://www.npmjs.com/package/shelljs
+    dsnap: shelljs
+binlist:
+- shelljs

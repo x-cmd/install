@@ -1,0 +1,15 @@
+lang: 'TypeScript'
+homepage: https://github.com/cline/cline
+license: 'Apache-2.0'
+desc:
+  cn: 以 SDK、IDE 扩展或 CLI 助手形式提供的自主编码智能体
+  en: 'Autonomous coding agent as an SDK, IDE extension, or CLI assistant.'
+x:
+  source: https://github.com/cline/cline
+  eget: https://github.com/cline/cline
+rule:
+  /eget:
+    cmd: x eget cline/cline
+    reference: https://github.com/cline/cline
+binlist:
+  - 'cline'

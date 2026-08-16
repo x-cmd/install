@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: https://github.com/benjajaja/mdfried
+license: 'GPL-3.0'
+desc:
+  cn: 终端中的 Markdown 查看器,支持渲染图片和大号标题
+  en: 'A markdown viewer for the terminal that renders images and Big Headers™'
+x:
+  source: https://github.com/benjajaja/mdfried
+  eget: https://github.com/benjajaja/mdfried
+rule:
+  /cargo:
+    cmd: 'cargo install mdfried'
+    reference: https://github.com/benjajaja/mdfried
+  /eget:
+    cmd: x eget benjajaja/mdfried
+    reference: https://github.com/benjajaja/mdfried
+binlist:
+  - 'mdfried'

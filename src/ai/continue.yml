@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/continuedev/continue
+license: apache-2.0
+desc:
+  cn: 开源编码智能体
+  en: open-source coding agent
+x:
+  source: https://github.com/continuedev/continue
+  eget: https://github.com/continuedev/continue
+rule:
+  /eget:
+    cmd: x eget continuedev/continue
+    reference: https://github.com/continuedev/continue
+binlist:
+- continue

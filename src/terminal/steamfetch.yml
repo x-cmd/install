@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/unhappychoice/steamfetch'
+license: 'ISC'
+desc:
+  cn: Steam 版 neofetch，在终端展示你的 Steam 统计
+  en: 'neofetch for Steam - Display your Steam stats in terminal'
+x:
+  source: https://github.com/unhappychoice/steamfetch
+  eget: https://github.com/unhappychoice/steamfetch
+rule:
+  /eget:
+    cmd: x eget unhappychoice/steamfetch
+    reference: https://github.com/unhappychoice/steamfetch
+binlist:
+  - 'steamfetch'

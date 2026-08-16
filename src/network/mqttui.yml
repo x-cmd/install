@@ -1,0 +1,18 @@
+lang: 'Rust'
+homepage: 'https://github.com/EdJoPaTo/mqttui'
+license: 'GPL-3.0'
+desc:
+  cn: 从终端快速订阅 MQTT topic 或发布消息
+  en: 'Subscribe to a MQTT Topic or publish something quickly from the terminal'
+x:
+  source: https://github.com/EdJoPaTo/mqttui
+  eget: https://github.com/EdJoPaTo/mqttui
+rule:
+  /cargo:
+    cmd: 'cargo install --path .'
+    reference: https://github.com/EdJoPaTo/mqttui
+  /eget:
+    cmd: x eget EdJoPaTo/mqttui
+    reference: https://github.com/EdJoPaTo/mqttui
+binlist:
+  - 'mqttui'

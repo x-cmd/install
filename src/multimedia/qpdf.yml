@@ -1,0 +1,26 @@
+lang: C++
+homepage: https://github.com/qpdf/qpdf
+license: Apache-2.0
+desc:
+  cn: 用于转换和检查 PDF 文件的工具
+  en: Tools for and transforming and inspecting PDF files
+x:
+  pkg:
+    exist: true
+  source: https://github.com/qpdf/qpdf
+  eget: https://github.com/qpdf/qpdf
+rule:
+  /x:
+    cmd: x pkg use qpdf
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget qpdf/qpdf
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install qpdf
+    reference: https://formulae.brew.sh/formula/qpdf#default
+  (win|wsl2)/scoop:
+    cmd: x scoop install qpdf
+    reference: https://scoop.sh/#/apps?q=qpdf
+binlist:
+- qpdf

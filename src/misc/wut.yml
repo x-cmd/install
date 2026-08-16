@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/shobrook/wut
+license: MIT
+desc:
+  cn: 一个 CLI 工具，用于解释你最后一条命令的输出。
+  en: CLI that explains the output of your last command.
+x:
+  source: https://github.com/shobrook/wut
+  eget: https://github.com/shobrook/wut
+rule:
+  /eget:
+    cmd: x eget shobrook/wut
+    reference: https://x-cmd.com/mod/eget
+  /pipx:
+    cmd: pipx install wut-cli
+    reference: https://github.com/shobrook/wut#installation
+binlist:
+- wut

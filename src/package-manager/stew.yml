@@ -1,0 +1,28 @@
+lang: Go
+homepage: https://github.com/marwanhawari/stew
+license: MIT
+desc:
+  cn: 一个用于已编译二进制文件的独立包管理器。
+  en: An independent package manager for compiled binaries.
+x:
+  source: https://github.com/marwanhawari/stew
+  eget: https://github.com/marwanhawari/stew
+rule:
+  /eget:
+    cmd: x eget marwanhawari/stew
+    reference: https://x-cmd.com/mod/eget
+  arch/pacman:
+    cmd: pacman -S stew
+    reference: https://github.com/marwanhawari/stew
+  arch/yay:
+    cmd: yay -S stew
+    reference: https://aur.archlinux.org/packages/stew
+  darwin/brew:
+    cmd: brew install marwanhawari/tap/stew
+    reference: https://github.com/marwanhawari/stew
+  /go:
+    cmd: go install github.com/marwanhawari/stew@latest
+    reference: https://github.com/marwanhawari/stew
+    dsnap: github.com/marwanhawari/stew
+binlist:
+- stew

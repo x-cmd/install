@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/jvanbuel/flowrs'
+license: 'MIT'
+desc:
+  cn: Apache Airflow 的 TUI 应用,可在终端监控、检查并触发 Airflow DAG
+  en: 'Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.'
+x:
+  source: https://github.com/jvanbuel/flowrs
+  eget: https://github.com/jvanbuel/flowrs
+rule:
+  /eget:
+    cmd: x eget jvanbuel/flowrs
+    reference: https://github.com/jvanbuel/flowrs
+binlist:
+  - 'flowrs'

@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/enderzcx/superx
+license: mit
+desc:
+  cn: 通过 Grok Build CLI 查询 X/Twitter 数据，并将帖子缓存为 Markdown 文件供 AI Agent 使用
+  en: Query X/Twitter data and cache posts as Markdown files using the Grok Build CLI for use by AI agents.
+x:
+  source: https://github.com/enderzcx/superx
+rule:
+  /pip:
+    cmd: pip install superx
+    reference: https://github.com/enderzcx/superx
+    dsnap: superx
+binlist:
+- superx

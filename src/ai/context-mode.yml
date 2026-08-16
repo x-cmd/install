@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/mksglu/context-mode
+license: noassertion
+desc:
+  cn: AI agent 上下文沙箱与持续会话引擎：拦截大输出工具结果、提供 11 个 MCP 工具把原始数据留在 sandbox 外，并通过 SQLite + FTS5 索引追踪会话事件实现压缩后无损恢复。
+  en: AI agent context sandbox and session-continuity engine that intercepts large tool outputs, exposes 11 MCP tools to keep raw data out of the context window, and tracks session events in SQLite + FTS5 so compaction does not lose state.
+x:
+  source: https://github.com/mksglu/context-mode
+rule:
+  /npm:
+    cmd: npm install -g context-mode
+    reference: https://github.com/mksglu/context-mode#install
+    dsnap: context-mode
+binlist:
+- context-mode

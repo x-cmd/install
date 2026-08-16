@@ -1,0 +1,26 @@
+lang: Go
+homepage: https://github.com/txthinking/brook
+license: GPL-3.0
+desc:
+  cn: 一个跨平台可编程网络工具
+  en: A cross-platform programmable network tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/txthinking/brook
+  eget: https://github.com/txthinking/brook
+rule:
+  /x:
+    cmd: x pkg use brook
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget txthinking/brook
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install brook
+    reference: https://formulae.brew.sh/formula/brook#default
+  arch/pacman:
+    cmd: sudo pacman -S brook
+    reference: https://command-not-found.com/brook
+binlist:
+- brook

@@ -1,0 +1,14 @@
+lang: Go
+homepage: https://github.com/brigadecore/brigade
+license: Apache-2.0
+desc:
+  cn: Brigade 是一个建立在 Kubernetes 之上的功能齐全、事件驱动的脚本平台
+  en: Brigade is a full-featured, event-driven scripting platform built on top of Kubernetes
+x:
+  source: https://github.com/brigadecore/brigade
+rule:
+  /asdf:
+    cmd: x asdf use brig
+    reference: https://github.com/Ibotta/asdf-brig?tab=readme-ov-file#installation
+binlist:
+- brig

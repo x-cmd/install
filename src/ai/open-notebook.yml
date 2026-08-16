@@ -1,0 +1,17 @@
+lang: Python
+homepage: https://github.com/lfnovo/open-notebook
+license: mit
+desc:
+  cn: 可私有化部署的 Google NotebookLM 开源替代方案，支持 18+ AI 提供商、多模态资料库、上下文聊天与专业级多说话人播客生成。
+  en: Open source, privacy-focused alternative to Google's NotebookLM. Self-host a private knowledge base with 18+ AI providers, multi-modal research, context-aware chat, and professional multi-speaker podcast generation.
+x:
+  source: https://github.com/lfnovo/open-notebook
+rule:
+  /git:
+    cmd: x git clone lfnovo/open-notebook
+    reference: https://github.com/lfnovo/open-notebook
+  /docker:
+    cmd: curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/docker-compose.yml && docker compose up -d
+    reference: https://github.com/lfnovo/open-notebook?tab=readme-ov-file#step-1-get-docker-composeyml
+binlist:
+- open-notebook

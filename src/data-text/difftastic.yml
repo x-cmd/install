@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/Wilfred/difftastic
+license: 'MIT'
+desc:
+  cn: 理解语法的结构化 diff 工具
+  en: 'a structural diff that understands syntax 🟥🟩'
+x:
+  source: https://github.com/Wilfred/difftastic
+  eget: https://github.com/Wilfred/difftastic
+rule:
+  /eget:
+    cmd: x eget Wilfred/difftastic
+    reference: https://github.com/Wilfred/difftastic
+binlist:
+  - 'difftastic'

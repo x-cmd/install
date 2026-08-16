@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/oxigraph/oxigraph
+license: Apache-2.0
+desc:
+  cn: 用 Rust 编写的 SPARQL 图数据库（同时提供 RDF 解析/序列化、HTTP 服务与命令行工具）
+  en: SPARQL graph database written in Rust, with RDF parsing/serialization, HTTP server and CLI
+x:
+  source: https://github.com/oxigraph/oxigraph
+  eget: https://github.com/oxigraph/oxigraph
+rule:
+  /eget:
+    cmd: x eget oxigraph/oxigraph
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install oxigraph-cli
+    reference: https://github.com/oxigraph/oxigraph/blob/main/cli/README.md#installation
+  /pip:
+    cmd: pip install oxigraph
+    reference: https://pypi.org/project/oxigraph/
+binlist:
+  - oxigraph

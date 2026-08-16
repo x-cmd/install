@@ -1,0 +1,15 @@
+lang: C++
+homepage: https://github.com/jart/tensorflow-makefile
+license: noassertion
+desc:
+  cn: 用纯 Makefile 构建 TensorFlow 1.10 静态库（无需 Bazel），适合嵌入与交叉编译。
+  en: Build TensorFlow 1.10 as a static library using plain Makefile (no Bazel), for embedding and cross-compilation.
+x:
+  source: https://github.com/jart/tensorflow-makefile
+  eget: https://github.com/jart/tensorflow-makefile
+rule:
+  /eget:
+    cmd: x eget jart/tensorflow-makefile
+    reference: https://github.com/jart/tensorflow-makefile
+binlist:
+- tensorflow-makefile

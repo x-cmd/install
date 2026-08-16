@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/Han8931/gorae'
+license: 'MIT'
+desc:
+  cn: 整理 PDF/EPUB 文档的终端 TUI，支持类 Vim 导航与全文搜索
+  en: 'gorae is a terminal TUI program for organizing PDF/EPUB documents, featuring vim-like navigation, metadata management and full-text search.'
+x:
+  source: https://github.com/Han8931/gorae
+  eget: https://github.com/Han8931/gorae
+rule:
+  arch/pacman:
+    cmd: 'yay -S gorae'
+    reference: https://github.com/Han8931/gorae
+  /eget:
+    cmd: x eget Han8931/gorae
+    reference: https://github.com/Han8931/gorae
+binlist:
+  - 'gorae'

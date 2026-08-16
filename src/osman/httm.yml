@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/kimono-koans/httm
+license: 'MPL-2.0'
+desc:
+  cn: ZFS/btrfs/nilfs2 的文件级 Time Machine 式交互工具（也支持 Time Machine 与 Restic 备份）
+  en: 'Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)'
+x:
+  source: https://github.com/kimono-koans/httm
+  eget: https://github.com/kimono-koans/httm
+rule:
+  /eget:
+    cmd: x eget kimono-koans/httm
+    reference: https://github.com/kimono-koans/httm
+binlist:
+  - 'httm'

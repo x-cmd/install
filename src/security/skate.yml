@@ -1,0 +1,131 @@
+lang: Go
+homepage: https://github.com/charmbracelet/skate
+license: MIT
+desc:
+  cn: skate 是一个键值对存储工具
+  en: skate is a personal key-value store tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/charmbracelet/skate
+  eget: https://github.com/charmbracelet/skate
+rule:
+  /x:
+    cmd: x pkg use skate
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget charmbracelet/skate
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use skate
+    reference: https://github.com/chessmango/asdf-skate
+  darwin/brew:
+    cmd: 'brew tap charmbracelet/tap \
+
+      && brew install charmbracelet/tap/skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  debian/curl:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  ubuntu/curl:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  arch/pacman:
+    cmd: sudo pacman -S skate
+    reference: https://command-not-found.com/openssl
+  kali/curl:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  centos/yum:
+    cmd: 'echo ''[charm] \
+
+      && name=Charm \
+
+      && baseurl=https://repo.charm.sh/yum/ \
+
+      && enabled=1 \
+
+      && gpgcheck=1 \
+
+      && gpgkey=https://repo.charm.sh/yum/gpg.key'' \
+
+      && sudo tee /etc/yum.repos.d/charm.repo \
+
+      && sudo yum install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  fedora/yum:
+    cmd: 'echo ''[charm] \
+
+      && name=Charm \
+
+      && baseurl=https://repo.charm.sh/yum/ \
+
+      && enabled=1 \
+
+      && gpgcheck=1 \
+
+      && gpgkey=https://repo.charm.sh/yum/gpg.key'' \
+
+      && sudo tee /etc/yum.repos.d/charm.repo \
+
+      && sudo yum install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+  raspbian/curl:
+    cmd: 'sudo mkdir -p /etc/apt/keyrings \
+
+      && curl -fsSL https://repo.charm.sh/apt/gpg.key \
+
+      && sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg \
+
+      && echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" \
+
+      && sudo tee /etc/apt/sources.list.d/charm.list \
+
+      && sudo apt update && sudo apt install skate
+
+      '
+    reference: https://github.com/charmbracelet/skate#installation
+binlist:
+- skate

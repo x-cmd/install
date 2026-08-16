@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/kaushiksrini/parqeye'
+license: 'MIT'
+desc:
+  cn: 在终端直接查看 Parquet 文件内容
+  en: 'Peek inside Parquet files right from your terminal'
+x:
+  source: https://github.com/kaushiksrini/parqeye
+  eget: https://github.com/kaushiksrini/parqeye
+rule:
+  /eget:
+    cmd: x eget kaushiksrini/parqeye
+    reference: https://github.com/kaushiksrini/parqeye
+binlist:
+  - 'parqeye'

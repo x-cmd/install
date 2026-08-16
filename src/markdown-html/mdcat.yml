@@ -1,0 +1,23 @@
+lang: Rust
+homepage: https://github.com/swsnr/mdcat
+license: MPL-2.0
+desc:
+  cn: 在终端中显示 markdown 文档
+  en: Show markdown documents in terminals
+x:
+  pkg:
+    exist: true
+  source: https://github.com/swsnr/mdcat
+rule:
+  /x:
+    cmd: x pkg use mdcat
+    reference: https://x-cmd.com/install/
+  arch/yay:
+    cmd: yay -S mdcat
+    reference: https://aur.archlinux.org/packages/mdcat
+  /cargo:
+    cmd: cargo install mdcat
+    reference: https://crates.io/crates/mdcat
+    dsnap: mdcat
+binlist:
+- mdcat

@@ -1,0 +1,18 @@
+lang: Python
+homepage: https://github.com/fonttools/fonttools
+license: MIT
+desc:
+  cn: fontTools 是用 Python 编写的操纵字体的库
+  en: fontTools is a library for manipulating fonts, written in Python
+x:
+  source: https://github.com/fonttools/fonttools
+rule:
+  /pip:
+    cmd: pip install fonttools
+    reference: https://github.com/fonttools/fonttools?tab=readme-ov-file#installation
+    dsnap: fonttools
+  darwin/brew:
+    cmd: brew install fonttools
+    reference: https://formulae.brew.sh/formula/fonttools#default
+binlist:
+- fonttools

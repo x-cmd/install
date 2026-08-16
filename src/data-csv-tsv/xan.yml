@@ -1,0 +1,33 @@
+lang: Rust
+homepage: https://github.com/medialab/xan
+license: Unlicense
+desc:
+  cn: 用于直接从 shell 处理 CSV 文件的命令行工具
+  en: a command line tool that can be used to process CSV files directly from the shell.
+x:
+  source: https://github.com/medialab/xan
+  eget: https://github.com/medialab/xan
+rule:
+  /eget:
+    cmd: x eget medialab/xan
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install xan --locked
+    reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
+    dsnap: xan
+  darwin/brew:
+    cmd: brew install xan
+    reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
+  (win|wsl2)/scoop:
+    cmd: |
+      scoop bucket add extras
+      scoop install xan
+    reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
+  arch/pacman:
+    cmd: sudo pacman -S xan
+    reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
+  nix/nix-shell:
+    cmd: nix-shell -p xan
+    reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
+binlist:
+  - xan

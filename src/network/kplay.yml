@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/dhth/kplay
+license: 'MIT'
+desc:
+  cn: 简洁可控地查看 Kafka topic 中的消息
+  en: 'Inspect messages in a Kafka topic in a simple and deliberate manner'
+x:
+  source: https://github.com/dhth/kplay
+  eget: https://github.com/dhth/kplay
+rule:
+  /eget:
+    cmd: x eget dhth/kplay
+    reference: https://github.com/dhth/kplay
+binlist:
+  - 'kplay'

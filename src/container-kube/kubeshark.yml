@@ -1,0 +1,43 @@
+lang: Go
+homepage: https://github.com/kubeshark/kubeshark
+license: Apache-2.0
+desc:
+  cn: Kubernetes API 流量分析器
+  en: The Kubernetes API Traffic Analyzer
+x:
+  source: https://github.com/kubeshark/kubeshark
+  eget: https://github.com/kubeshark/kubeshark
+rule:
+  /eget:
+    cmd: x eget kubeshark/kubeshark
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S kubeshark-bin
+    reference: https://aur.archlinux.org/packages/kubeshark-bin
+  /curl:
+    cmd: sh <(curl -Ls https://kubeshark.co/install)
+    reference: https://www.kubeshark.co/
+  /helm:
+    cmd: 'helm repo add kubeshark https://helm.kubeshark.co && helm install kubeshark kubeshark/kubeshark
+
+      '
+    reference: https://www.kubeshark.co/
+  darwin/brew:
+    cmd: brew tap kubeshark/kubeshark && brew install kubeshark
+    reference: https://www.kubeshark.co/
+  /build:
+    cmd: 'git clone https://github.com/kubeshark/kubeshark.git \
+
+      && cd kubeshark \
+
+      && make \
+
+      && ./bin/kubeshark__ tap
+
+      '
+    reference: https://www.kubeshark.co/
+  /asdf:
+    cmd: x asdf use kubeshark
+    reference: https://github.com/carnei-ro/asdf-kubeshark?tab=readme-ov-file#install
+binlist:
+- kubeshark

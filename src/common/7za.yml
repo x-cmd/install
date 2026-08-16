@@ -1,0 +1,49 @@
+lang: C
+homepage: https://github.com/ip7z/7zip
+desc:
+  cn: 7za 是一个开源的文件压缩和解压工具，是 7-Zip 的命令行版本
+  en: 7za is an open-source file compression and decompression tool, which is a command-line version of 7-Zip
+x:
+  pkg:
+    exist: true
+  source: https://github.com/ip7z/7zip
+  eget: https://github.com/ip7z/7zip
+rule:
+  /x:
+    cmd: x pkg use 7za
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget ip7z/7zip
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install p7zip
+    reference: https://formulae.brew.sh/formula/p7zip#default
+  debian/apt:
+    cmd: sudo apt-get install p7zip-full
+    reference: https://command-not-found.com/7za
+    dsnap: p7zip-full
+  ubuntu/apt:
+    cmd: sudo apt-get install p7zip-full
+    reference: https://command-not-found.com/7za
+    dsnap: p7zip-full
+  alpine/apk:
+    cmd: sudo apk add p7zip
+    reference: https://command-not-found.com/7za
+    dsnap: p7zip
+  arch/pacman:
+    cmd: sudo pacman -S p7zip
+    reference: https://command-not-found.com/7za
+  kali/apt:
+    cmd: sudo apt-get install p7zip-full
+    reference: https://command-not-found.com/7za
+    dsnap: p7zip-full
+  fedora/dnf:
+    cmd: sudo dnf install p7zip
+    reference: https://command-not-found.com/7za
+    dsnap: p7zip
+  raspbian/apt:
+    cmd: sudo apt-get install p7zip-full
+    reference: https://command-not-found.com/7za
+binlist:
+- 7za
+license: NOASSERTION

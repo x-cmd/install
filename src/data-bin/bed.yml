@@ -1,0 +1,30 @@
+lang: Go
+homepage: https://github.com/itchyny/bed
+license: MIT
+desc:
+  cn: 用 Go 编写的二进制编辑器
+  en: Binary editor written in Go
+x:
+  pkg:
+    exist: true
+  source: https://github.com/itchyny/bed
+  eget: https://github.com/itchyny/bed
+rule:
+  /x:
+    cmd: x pkg use bed
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget itchyny/bed
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install itchyny/tap/bed
+    reference: https://github.com/itchyny/bed?tab=readme-ov-file#homebrew
+  /go:
+    cmd: go install github.com/itchyny/bed/cmd/bed@latest
+    reference: https://github.com/itchyny/bed?tab=readme-ov-file#build-from-source
+    dsnap: github.com/itchyny/bed/cmd/bed@latest
+  arch/yay:
+    cmd: yay -S bed-bin
+    reference: https://aur.archlinux.org/packages/bed-bin
+binlist:
+- bed

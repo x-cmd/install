@@ -1,0 +1,12 @@
+lang: C
+homepage: https://gitlab.freedesktop.org/dbus/dbus
+desc:
+  en: Message bus system, providing inter-application communication
+  cn: 消息总线系统，提供应用程序之间的通信
+rule:
+  darwin/brew:
+    cmd: brew install dbus
+    reference: https://formulae.brew.sh/formula/dbus#default
+binlist:
+- dbus
+license: NOASSERTION

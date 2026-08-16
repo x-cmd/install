@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: https://github.com/ashish0kumar/mufetch
+license: 'MIT'
+desc:
+  cn: neofetch 风格的音乐 CLI
+  en: 'neofetch-style music cli'
+x:
+  source: https://github.com/ashish0kumar/mufetch
+  eget: https://github.com/ashish0kumar/mufetch
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/ashish0kumar/mufetch
+  /eget:
+    cmd: x eget ashish0kumar/mufetch
+    reference: https://github.com/ashish0kumar/mufetch
+binlist:
+  - 'mufetch'

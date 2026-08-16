@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: 'https://github.com/akinoiro/ssh-list'
+license: 'GPL-3.0'
+desc:
+  cn: 带 TUI 界面的 SSH 连接管理器
+  en: '🧑‍💻 SSH connection manager with a TUI interface'
+x:
+  source: https://github.com/akinoiro/ssh-list
+  eget: https://github.com/akinoiro/ssh-list
+rule:
+  /eget:
+    cmd: x eget akinoiro/ssh-list
+    reference: https://github.com/akinoiro/ssh-list
+binlist:
+  - 'ssh-list'

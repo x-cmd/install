@@ -1,0 +1,21 @@
+lang: C++
+homepage: https://github.com/abseil/abseil-cpp
+license: Apache-2.0
+desc:
+  cn: Abseil 是一个开源的 C + + 代码集合(兼容 C + + 14) , 旨在增强 C++标准程式库
+  en: Abseil is an open-source collection of C++ code (compliant to C++14) designed to augment the C++ standard library
+x:
+  source: https://github.com/abseil/abseil-cpp
+  eget: https://github.com/abseil/abseil-cpp
+rule:
+  /eget:
+    cmd: x eget abseil/abseil-cpp
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install abseil
+    reference: https://formulae.brew.sh/formula/abseil#default
+  arch/yay:
+    cmd: yay -S abseil-cpp-git
+    reference: https://aur.archlinux.org/packages/abseil-cpp-git
+binlist:
+- abseil

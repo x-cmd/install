@@ -1,0 +1,14 @@
+lang: Shell
+homepage: https://github.com/txthinking/google-hosts
+license: MIT
+desc:
+  cn: 谷歌主机生成器
+  en: Google hosts generator
+x:
+  source: https://github.com/txthinking/google-hosts
+rule:
+  /git:
+    cmd: git clone https://github.com/txthinking/google-hosts.git
+    reference: https://github.com/txthinking/google-hosts/blob/master/scripts/README.md
+binlist:
+- google-hosts

@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/atomicstrata/llm-wiki-compiler
+license: mit
+desc:
+  cn: 知识编译器：原始素材输入，互链 wiki 输出，灵感源自 Karpathy 的 LLM Wiki 模式
+  en: The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
+x:
+  source: https://github.com/atomicstrata/llm-wiki-compiler
+  eget: https://github.com/atomicstrata/llm-wiki-compiler
+rule:
+  /eget:
+    cmd: x eget atomicstrata/llm-wiki-compiler
+    reference: https://github.com/atomicstrata/llm-wiki-compiler
+binlist:
+- llm-wiki-compiler

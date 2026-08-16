@@ -1,0 +1,25 @@
+lang: Rust
+homepage: https://github.com/brocode/fblog
+license: WTFPL
+desc:
+  en: A small tool to view json log files
+  cn: 查看 json 日志文件的小工具
+x:
+  source: https://github.com/brocode/fblog
+  eget: https://github.com/brocode/fblog
+rule:
+  /eget:
+    cmd: x eget brocode/fblog
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S fblog
+    reference: https://aur.archlinux.org/packages/fblog
+  /cargo:
+    cmd: cargo install fblog
+    reference: https://github.com/brocode/fblog?tab=readme-ov-file#installation
+    dsnap: fblog
+  darwin/brew:
+    cmd: brew install fblog
+    reference: https://formulae.brew.sh/formula/fblog#default
+binlist:
+- fblog

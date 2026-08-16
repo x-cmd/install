@@ -1,0 +1,15 @@
+lang: TypeScript
+homepage: https://github.com/ljtn/epiq
+desc:
+  cn: 本地优先、基于 git 的分布式 CLI 原生 issue 跟踪器
+  en: Local first cli-native issue tracker - distributed and backed by git
+x:
+  source: https://github.com/ljtn/epiq
+  eget: https://github.com/ljtn/epiq
+rule:
+  /eget:
+    cmd: x eget ljtn/epiq
+    reference: https://github.com/ljtn/epiq
+binlist:
+- epiq
+license: NOASSERTION

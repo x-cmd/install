@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/browser-use/browser-use
+license: mit
+desc:
+  cn: 让 AI Agent 轻松接入并自动化网站任务的工具
+  en: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+x:
+  source: https://github.com/browser-use/browser-use
+rule:
+  /pip:
+    cmd: pip install browser-use
+    reference: https://pypi.org/project/browser-use/
+    dsnap: browser-use
+binlist:
+- browser-use

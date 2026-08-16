@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: 'https://github.com/srsudar/eg'
+license: 'MIT'
+desc:
+  cn: 在命令行中提供实用的命令示例
+  en: 'Useful examples at the command line.'
+x:
+  source: https://github.com/srsudar/eg
+  eget: https://github.com/srsudar/eg
+rule:
+  /eget:
+    cmd: x eget srsudar/eg
+    reference: https://github.com/srsudar/eg
+binlist:
+  - 'eg'

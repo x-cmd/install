@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/hiyouga/LlamaFactory
+license: apache-2.0
+desc:
+  cn: 100+ LLM 与 VLM 的统一高效微调框架（ACL 2024）
+  en: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+x:
+  source: https://github.com/hiyouga/LlamaFactory
+  eget: https://github.com/hiyouga/LlamaFactory
+rule:
+  /eget:
+    cmd: x eget hiyouga/LlamaFactory
+    reference: https://github.com/hiyouga/LlamaFactory
+binlist:
+- LlamaFactory

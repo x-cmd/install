@@ -1,0 +1,51 @@
+lang: Go
+homepage: https://github.com/snapcore/snapd
+license: GPL-3.0
+desc:
+  cn: Snaps 是易于安装，安全，跨平台和无依赖性的桌面，云和物联网的应用程序软件包
+  en: Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free
+x:
+  source: https://github.com/snapcore/snapd
+rule:
+  debian/apt:
+    cmd: sudo sudo apt install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-debian
+    dsnap: snapd
+  ubuntu/apt:
+    cmd: sudo sudo apt install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-ubuntu
+    dsnap: snapd
+  kali/apt:
+    cmd: sudo sudo apt install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-ubuntu
+    dsnap: sudo sudo apt install snapd
+  fedora/dnf:
+    cmd: sudo dnf install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-fedora
+  raspbian/apt:
+    cmd: sudo apt install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-raspbian
+  opensuse/zypper:
+    cmd: sudo zypper install snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-opensuse
+  arch/git:
+    cmd: 'git clone https://aur.archlinux.org/snapd.git \
+
+      && cd snapd \
+
+      && makepkg -si \
+
+      && sudo systemctl enable --now snapd.socket \
+
+      && sudo ln -s /var/lib/snapd/snap /snap
+
+      '
+    reference: https://snapcraft.io/docs/installing-snap-on-arch-linux
+  arch/yay:
+    cmd: yay -S snapd
+    reference: https://aur.archlinux.org/packages/snapd
+  manjaro/pacman:
+    cmd: sudo pacman -S snapd
+    reference: https://snapcraft.io/docs/installing-snap-on-manjaro-linux
+binlist:
+- snap

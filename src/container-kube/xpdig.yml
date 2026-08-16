@@ -1,0 +1,18 @@
+lang: 'Go'
+homepage: 'https://github.com/brunoluiz/xpdig'
+license: 'Apache-2.0'
+desc:
+  cn: 通过 TUI 深入查看 Crossplane 追踪信息
+  en: '🧰 Dig into Crossplane traces via TUI (a là k9s)'
+x:
+  source: https://github.com/brunoluiz/xpdig
+  eget: https://github.com/brunoluiz/xpdig
+rule:
+  /go:
+    cmd: 'go install'
+    reference: https://github.com/brunoluiz/xpdig
+  /eget:
+    cmd: x eget brunoluiz/xpdig
+    reference: https://github.com/brunoluiz/xpdig
+binlist:
+  - 'xpdig'

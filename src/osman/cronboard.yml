@@ -1,0 +1,15 @@
+lang: 'Python'
+homepage: https://github.com/antoniorodr/cronboard
+license: 'Apache-2.0'
+desc:
+  cn: 本地与服务器上管理 cron 任务的终端仪表盘
+  en: 'A terminal-based dashboard for managing cron jobs locally and on servers.'
+x:
+  source: https://github.com/antoniorodr/cronboard
+  eget: https://github.com/antoniorodr/cronboard
+rule:
+  /eget:
+    cmd: x eget antoniorodr/cronboard
+    reference: https://github.com/antoniorodr/cronboard
+binlist:
+  - 'cronboard'

@@ -1,0 +1,15 @@
+lang: 'Go'
+homepage: https://github.com/thobiasn/tori-cli
+license: 'MIT'
+desc:
+  cn: 单二进制、仅 SSH 的 Docker 服务监控工具，提供指标、日志与告警
+  en: 'Docker server monitoring without the stack. Metrics, logs, and alerts from your terminal. Single binary, zero exposed ports, SSH-only.'
+x:
+  source: https://github.com/thobiasn/tori-cli
+  eget: https://github.com/thobiasn/tori-cli
+rule:
+  /eget:
+    cmd: x eget thobiasn/tori-cli
+    reference: https://github.com/thobiasn/tori-cli
+binlist:
+  - 'tori'

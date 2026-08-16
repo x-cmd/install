@@ -1,0 +1,25 @@
+lang: Python
+homepage: https://github.com/gnebbia/kb
+license: GPL-3.0
+desc:
+  cn: 极简的命令行知识库管理器
+  en: A minimalist command line knowledge base manager
+x:
+  source: https://github.com/gnebbia/kb
+rule:
+  /pip:
+    cmd: pip install -U kb-manager
+    reference: https://github.com/gnebbia/kb?tab=readme-ov-file#installation
+    dsnap: kb-manager
+  arch/yay:
+    cmd: yay -S kb
+    reference: https://github.com/gnebbia/kb?tab=readme-ov-file#installation-from-aur
+  /brew:
+    cmd: 'brew tap gnebbia/kb https://github.com/gnebbia/kb.git
+
+      brew install gnebbia/kb/kb
+
+      '
+    reference: https://github.com/gnebbia/kb?tab=readme-ov-file#installation-with-homebrew
+binlist:
+- kb

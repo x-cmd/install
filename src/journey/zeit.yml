@@ -1,0 +1,22 @@
+lang: Go
+homepage: https://github.com/mrusme/zeit
+desc:
+  cn: 用于跟踪任务和项目所花费时间的命令行工具
+  en: A command line tool for tracking time spent on tasks & projects.
+x:
+  source: https://github.com/mrusme/zeit
+  eget: https://github.com/mrusme/zeit
+rule:
+  /eget:
+    cmd: x eget mrusme/zeit
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S zeit
+    reference: https://aur.archlinux.org/packages/zeit
+  /go:
+    cmd: go install github.com/mrusme/zeit@latest
+    reference: https://pkg.go.dev/github.com/mrusme/zeit
+    dsnap: github.com/mrusme/zeit
+binlist:
+- zeit
+license: NOASSERTION

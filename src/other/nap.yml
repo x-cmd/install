@@ -1,0 +1,25 @@
+lang: Go
+homepage: https://github.com/maaslalani/nap
+desc:
+  cn: 基于终端的代码片段管理器，具有命令行界面 (CLI) 和文本用户界面 (TUI)
+  en: A terminal-based code snippet manager with a command-line interface (CLI) and a text-user interface (TUI)
+x:
+  source: https://github.com/maaslalani/nap
+  eget: https://github.com/maaslalani/nap
+rule:
+  /eget:
+    cmd: x eget maaslalani/nap
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install nap
+    reference: https://formulae.brew.sh/formula/nap#default
+  /nix-env:
+    cmd: nix-env -iA nap
+    reference: https://github.com/maaslalani/nap#installation
+  /go:
+    cmd: go install github.com/maaslalani/nap@main
+    reference: https://github.com/maaslalani/nap#installation
+    dsnap: github.com/maaslalani/nap@main
+binlist:
+- nap
+license: NOASSERTION

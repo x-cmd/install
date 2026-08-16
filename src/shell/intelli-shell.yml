@@ -1,0 +1,15 @@
+lang: 'Rust'
+homepage: https://github.com/lasantosr/intelli-shell
+license: 'Apache-2.0'
+desc:
+  cn: 为 shell 提供 IntelliSense 般的体验
+  en: 'Like IntelliSense, but for shells'
+x:
+  source: https://github.com/lasantosr/intelli-shell
+  eget: https://github.com/lasantosr/intelli-shell
+rule:
+  /eget:
+    cmd: x eget lasantosr/intelli-shell
+    reference: https://github.com/lasantosr/intelli-shell
+binlist:
+  - 'intelli-shell'

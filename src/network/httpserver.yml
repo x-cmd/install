@@ -1,0 +1,15 @@
+lang: Shell
+homepage: https://github.com/akshayKMR/hhttpserver
+license: NOASSERTION
+desc:
+  cn: httpserver — 软件安装
+  en: httpserver — software install
+x:
+  source: https://github.com/akshayKMR/hhttpserver
+  eget: https://github.com/akshayKMR/hhttpserver
+rule:
+  /eget:
+    cmd: x eget akshayKMR/hhttpserver
+    reference: https://github.com/akshayKMR/hhttpserver
+binlist:
+- httpserver

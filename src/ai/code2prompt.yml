@@ -1,0 +1,26 @@
+lang: Rust
+homepage: https://github.com/mufeedvh/code2prompt
+license: mit
+desc:
+  cn: 将代码库转换为单一 LLM 提示词的 Rust CLI，支持源码树、Handlebars 模板、token 计数、Git 集成，并提供 Python SDK 与 MCP Server
+  en: A Rust CLI that converts a codebase into a single LLM prompt with source tree, Handlebars templating, token counting and Git integration; ships with a Python SDK and MCP Server.
+x:
+  source: https://github.com/mufeedvh/code2prompt
+  eget: https://github.com/mufeedvh/code2prompt
+rule:
+  /eget:
+    cmd: x eget mufeedvh/code2prompt
+    reference: https://github.com/mufeedvh/code2prompt
+  darwin/brew:
+    cmd: brew install code2prompt
+    reference: https://github.com/mufeedvh/code2prompt#-quick-install
+  /cargo:
+    cmd: cargo install code2prompt
+    reference: https://github.com/mufeedvh/code2prompt#-quick-install
+    dsnap: code2prompt
+  /pip:
+    cmd: pip install code2prompt-rs
+    reference: https://github.com/mufeedvh/code2prompt#sdk-with-pip-
+    dsnap: code2prompt-rs
+binlist:
+- code2prompt

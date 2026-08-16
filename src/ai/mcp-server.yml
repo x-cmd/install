@@ -1,0 +1,15 @@
+lang: Python
+homepage: https://github.com/financial-datasets/mcp-server
+license: mit
+desc:
+  cn: 用于对接 Financial Datasets 股市 API 的 MCP 服务器
+  en: An MCP server for interacting with the Financial Datasets stock market API.
+x:
+  source: https://github.com/financial-datasets/mcp-server
+  eget: https://github.com/financial-datasets/mcp-server
+rule:
+  /eget:
+    cmd: x eget financial-datasets/mcp-server
+    reference: https://github.com/financial-datasets/mcp-server
+binlist:
+- mcp-server

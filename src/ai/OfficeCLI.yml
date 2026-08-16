@@ -1,0 +1,15 @@
+lang: C#
+homepage: https://github.com/iOfficeAI/OfficeCLI
+license: apache-2.0
+desc:
+  cn: 专为 AI Agent 打造的 Office 套件，可读写自动化 Word、Excel、PowerPoint 文件，免费开源单二进制，无需安装 Office
+  en: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
+x:
+  source: https://github.com/iOfficeAI/OfficeCLI
+  eget: https://github.com/iOfficeAI/OfficeCLI
+rule:
+  /eget:
+    cmd: x eget iOfficeAI/OfficeCLI
+    reference: https://github.com/iOfficeAI/OfficeCLI
+binlist:
+- OfficeCLI

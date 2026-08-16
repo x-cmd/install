@@ -1,0 +1,29 @@
+lang: Rust
+homepage: https://github.com/Morganamilo/paru
+license: GPL-3.0
+desc:
+  cn: Paru 是一个标准的 pacman 包装器，同时也是 AUR 助手，它功能丰富且交互极简。
+  en: Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction
+x:
+  source: https://github.com/Morganamilo/paru
+  eget: https://github.com/Morganamilo/paru
+rule:
+  /eget:
+    cmd: x eget Morganamilo/paru
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: sudo yay -S paru
+    reference: https://aur.archlinux.org/packages/paru
+  arch/pacman:
+    cmd: 'sudo pacman -S --needed base-devel  \
+
+      && git clone https://aur.archlinux.org/paru.git \
+
+      && cd paru \
+
+      && makepkg -si
+
+      '
+    reference: https://github.com/Morganamilo/paru?tab=readme-ov-file#installation
+binlist:
+- paru

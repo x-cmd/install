@@ -1,0 +1,44 @@
+lang: JavaScript
+homepage: https://github.com/snyk/cli
+desc:
+  cn: Snyk 是开发人员优先的云本地安全工具
+  en: Snyk is a developer-first cloud-native security tool
+x:
+  pkg:
+    exist: true
+  source: https://github.com/snyk/cli
+  eget: https://github.com/snyk/cli
+rule:
+  /x:
+    cmd: x pkg use snyk
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget snyk/cli
+    reference: https://x-cmd.com/mod/eget
+  /asdf:
+    cmd: x asdf use snyk
+    reference: https://github.com/nirfuchs/asdf-snyk
+  darwin/brew:
+    cmd: 'brew tap snyk/tap \
+
+      && brew install snyk
+
+      '
+    reference: https://github.com/snyk/cli?tab=readme-ov-file#homebrew
+  /npm:
+    cmd: npm install snyk@latest -g
+    reference: https://github.com/snyk/cli?tab=readme-ov-file#install-with-npm-or-yarn
+    dsnap: snyk
+  /yarn:
+    cmd: yarn global add snyk
+    reference: https://github.com/snyk/cli?tab=readme-ov-file#install-with-npm-or-yarn
+  (win|wsl2)/scoop:
+    cmd: 'x scoop bucket add snyk https://github.com/snyk/scoop-snyk \
+
+      && x scoop install snyk
+
+      '
+    reference: https://scoop.sh/#/apps?q=snyk&o=false
+binlist:
+- snyk
+license: NOASSERTION

@@ -1,0 +1,56 @@
+lang: Go
+homepage: https://github.com/carapace-sh/carapace-bin
+license: MIT
+desc:
+  cn: Carapace-bin 是一个命令行补全工具，能为多个 CLI 命令提供参数补全，并可跨多个 POSIX 和非 POSIX shell 工作。
+  en: Carapace-bin provides argument completion for multiple CLI commands (full list), and works across multiple POSIX and non-POSIX shells.
+x:
+  pkg:
+    exist: true
+  source: https://github.com/carapace-sh/carapace-bin
+  eget: https://github.com/carapace-sh/carapace-bin
+rule:
+  /x:
+    cmd: x pkg use carapace-bin
+    reference: https://x-cmd.com/install/
+  /eget:
+    cmd: x eget carapace-sh/carapace-bin
+    reference: https://x-cmd.com/mod/eget
+  (linux|darwin|win|wsl2)/:
+    cmd: x env use carapace-bin
+    reference: https://x-cmd.com/mod/env
+  /pamac:
+    cmd: pamac install carapace-bin
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  darwin/brew:
+    cmd: 'brew tap rsteube/homebrew-tap
+
+      brew install rsteube/tap/carapace
+
+      '
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  /zypper:
+    cmd: 'zypper ar --gpgcheck-allow-unsigned -f https://yum.fury.io/rsteube/ carapace
+
+      zypper install carapace-bin
+
+      '
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  (win|wsl2)/scoop:
+    cmd: 'scoop bucket add extras
+
+      scoop install extras/carapace-bin
+
+      '
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  (win|wsl2)/winget:
+    cmd: winget install -e --id rsteube.Carapace
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  /curl:
+    cmd: curl termux.carapace.sh | sh
+    reference: https://carapace-sh.github.io/carapace-bin/install.html
+  arch/yay:
+    cmd: yay -S carapace-bin
+    reference: https://aur.archlinux.org/packages/carapace-bin
+binlist:
+- carapace-bin
