@@ -69,10 +69,11 @@ runs:
 
         if gh release download "${{ inputs.if_changed_since }}" \
              --pattern "v*.all.tsv" \
-             --dir "$ref_dir" >/dev/null 2>&1; then
+             --dir "$ref_dir" 2>&1; then
           : # downloaded successfully
         else
-          echo "::notice::Reference release '${{ inputs.if_changed_since }}' not found — will upload today."
+          rc=$?
+          echo "::notice::Reference release '${{ inputs.if_changed_since }}' unavailable (gh rc=$rc) — will upload today."
           echo "changed=true" >> "$GITHUB_OUTPUT"
           exit 0
         fi
