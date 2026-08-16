@@ -31,7 +31,10 @@ Tool name:       <name>
 Upstream repo:   https://github.com/<owner/repo>
 
 Please:
-1. Read CONTRIBUTING.md in this repo for the full workflow and quality bar.
+1. **Before anything else**: read CONTRIBUTING.md and README.md
+   **in full** — they are the source of truth for this repo. Do not
+   skip the reads; the quality bar, PR title convention, and
+   format-versioning rules are enforced by reviewers.
 2. Pick the right category under src/ (existing yml files in nearby
    folders are templates — match their style).
 3. Write src/<category>/<name>.yml with at minimum:

@@ -31,7 +31,9 @@
 上游仓库:      https://github.com/<owner/repo>
 
 请:
-1. 读这个仓库的 CONTRIBUTING.md，了解完整流程和质量门槛。
+1. **动手之前**：**完整**读 CONTRIBUTING.cn.md 和 README.md —— 它
+   们是本仓库的唯一权威。不要跳过阅读；质量门槛、PR 标题约定、
+   格式版本规则由 reviewer 强制执行。
 2. 在 src/ 下选合适的分类（参考附近文件夹里的现有 yml 当模板，
    风格对齐）。
 3. 写 src/<category>/<name>.yml，至少包含：
