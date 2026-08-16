@@ -47,7 +47,7 @@ Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI cod
 
 ---
 
-## How to use this data
+## How does X-CMD use this data
 
 ### Web: <https://x-cmd.com>
 
@@ -110,6 +110,10 @@ That's forward compatibility: new data is visible to old formats automatically; 
 The operational side — when to bump, how to ship `v2`, what stays frozen — lives in [FAQ.md](FAQ.md) → "Format versioning".
 
 ---
+
+## How AI Agent use this data directly
+
+1. download the tsv index directly from xxx
 
 ## FAQ
 
