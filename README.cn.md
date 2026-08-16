@@ -39,11 +39,11 @@
 
 ### 快速 prompt
 
-复制下面这段，把工具的 GitHub 地址（或者官网文档地址）贴到后面，交给你的 AI 助手。
-
 ```text
-参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md ，并向 x-cmd/install 仓库提交新软件：
+参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md ，并向 x-cmd/install 仓库提交这个软件：https://github.com/<owner>/<repo>
 ```
+
+把 `<owner>/<repo>` 换成工具的 GitHub 地址，交给你的 AI 助手。
 
 ---
 
