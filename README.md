@@ -80,6 +80,32 @@ Old format versions are **frozen, not patched**. If a bug is found in v1 output,
 
 ---
 
+## FAQ
+
+### I want to contribute code to `x install`. Where do I go?
+
+This repository contains the **data** — yml files declaring install rules for each package. The actual `x install` module code lives in [`x-cmd/x-cmd`](https://github.com/x-cmd/x-cmd); open your PR there.
+
+For module documentation, see <https://x-cmd.com/mod/install>.
+
+### How do I consume the package index?
+
+Fetch the latest release's assets from GitHub Releases:
+```bash
+curl -L -o all.tsv  https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+curl -L -o all.tar.xz https://github.com/x-cmd/install/releases/latest/download/v1.all.tar.xz
+```
+`all.tsv` is the index; `all.tar.xz` bundles the index plus the full `src/` yml tree.
+
+### What's the difference between the `v<YYYYMMDD>` and `dev` releases?
+
+- `v<YYYYMMDD>` — daily immutable snapshot, marked "Latest". Created at 12:00 UTC (20:00 Asia/Shanghai) and on manual trigger. Identical-data days are skipped (no new tag).
+- `dev` — replaceable pre-release, updated on every manual run of the "Update dev release" workflow.
+
+For stable data, use the latest `v<YYYYMMDD>`. For testing the next build, use `dev`.
+
+---
+
 ## License
 
 Apache 2.0. See [LICENSE](LICENSE).

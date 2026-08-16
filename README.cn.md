@@ -80,6 +80,32 @@ merge 之后，release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v
 
 ---
 
+## FAQ
+
+### 我想给 `x install` 贡献代码，去哪个仓库？
+
+本仓库存的是**数据**——每个包的 yml install 规则。`x install` 模块本身的代码在 [`x-cmd/x-cmd`](https://github.com/x-cmd/x-cmd)，PR 请提交到那里。
+
+模块文档：<https://x-cmd.com/mod/install>。
+
+### 怎么消费这份包索引？
+
+从 GitHub Releases 拉最新 release 的资产：
+```bash
+curl -L -o all.tsv   https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+curl -L -o all.tar.xz https://github.com/x-cmd/install/releases/latest/download/v1.all.tar.xz
+```
+`all.tsv` 是索引；`all.tar.xz` 把索引 + 完整 `src/` yml 树打包在一起。
+
+### `v<YYYYMMDD>` 和 `dev` 两个 release 有什么区别？
+
+- `v<YYYYMMDD>` —— 每日不可变快照，标 "Latest"。UTC 12:00（北京时间 20:00）+ 手动触发创建；数据完全一致的日子跳过（不打新 tag）。
+- `dev` —— 替换式 Pre-release，每次跑 "Update dev release" workflow 都会覆盖。
+
+要稳定数据 → 用最新 `v<YYYYMMDD>`。要测下一个 build → 用 `dev`。
+
+---
+
 ## 协议
 
 Apache 2.0。详见 [LICENSE](LICENSE)。
