@@ -1,0 +1,62 @@
+name: 'release-data'
+description: 'Build every .x-cmd/v*.yml2tsv.py format and publish to a GitHub Release'
+
+inputs:
+  tag:
+    description: 'Git tag (and release name suffix) to attach the release to'
+    required: true
+  name:
+    description: 'Display name of the release'
+    required: true
+  body:
+    description: 'Release notes / description (markdown)'
+    required: false
+    default: ''
+  prerelease:
+    description: 'Mark as pre-release (dev/snapshot channels)'
+    required: false
+    default: 'false'
+  make_latest:
+    description: 'Mark as Latest stable release'
+    required: false
+    default: 'true'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Install yq
+      shell: bash
+      run: |
+        sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+        sudo chmod +x /usr/local/bin/yq
+        yq --version
+
+    - name: Build each format script
+      shell: bash
+      run: |
+        set -e
+        shopt -s nullglob
+        for script in .x-cmd/v*.yml2tsv.py; do
+          N=$(basename "$script" .yml2tsv.py | sed 's/^v//')
+          echo "::group::Building format v$N"
+          python3 "$script" src -o "v${N}.all.tsv"
+          tar -cJf "v${N}.all.tar.xz" "v${N}.all.tsv" src/
+          echo "::endgroup::"
+        done
+
+    - name: List built artifacts
+      shell: bash
+      run: ls -la v*.all.tsv v*.all.tar.xz
+
+    - name: Upload to release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ inputs.tag }}
+        name: ${{ inputs.name }}
+        body: ${{ inputs.body }}
+        files: |
+          v*.all.tsv
+          v*.all.tar.xz
+        fail_on_unmatched_files: false
+        prerelease: ${{ inputs.prerelease == 'true' }}
+        make_latest: ${{ inputs.make_latest == 'true' }}

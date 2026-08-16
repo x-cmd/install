@@ -15,70 +15,38 @@ jobs:
     timeout-minutes: 30
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Install yq
-        run: |
-          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
-          sudo chmod +x /usr/local/bin/yq
-          yq --version
-
-      - name: Build each format script
-        run: |
-          set -e
-          shopt -s nullglob
-          for script in .x-cmd/v*.yml2tsv.py; do
-            N=$(basename "$script" .yml2tsv.py | sed 's/^v//')
-            echo "::group::Building format v$N"
-            python3 "$script" src -o "v${N}.all.tsv"
-            tar -cJf "v${N}.all.tar.xz" "v${N}.all.tsv" src/
-            echo "::endgroup::"
-          done
-
-      - name: List built artifacts
-        run: ls -la v*.all.tsv v*.all.tar.xz
-
-      # ---- Daily release: immutable v<YYYYMMDD> at 12:00 UTC ----
-
+      # Daily path: schedule → immutable v<YYYYMMDD>
       - name: Set TODAY (daily release tag)
         if: github.event_name == 'schedule'
         run: echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
 
-      - name: Upload to daily release
+      - name: Publish daily release
         if: github.event_name == 'schedule'
-        uses: softprops/action-gh-release@v2
+        uses: ./.github/actions/release-data
         with:
-          tag_name: v${{ env.TODAY }}
-          name: "v${{ env.TODAY }} — x-cmd install data"
+          tag: v${{ env.TODAY }}
+          name: 'v${{ env.TODAY }} — x-cmd install data'
           body: |
             Daily snapshot of the x-cmd install package index.
             Each release `vYYYYMMDD` is immutable — assets reflect the
             build state at the time of creation (12:00 UTC).
-          files: |
-            v*.all.tsv
-            v*.all.tar.xz
-          fail_on_unmatched_files: false
-          prerelease: false
-          make_latest: true
+          prerelease: 'false'
+          make_latest: 'true'
 
-      # ---- Dev release: replaceable, triggered manually ----
-
-      - name: Upload to dev release (replaceable)
+      # Dev path: manual trigger → replaceable 'dev' release
+      - name: Publish dev release
         if: github.event_name == 'workflow_dispatch'
-        uses: softprops/action-gh-release@v2
+        uses: ./.github/actions/release-data
         with:
-          tag_name: dev
-          name: "dev — x-cmd install data (latest manual build)"
+          tag: dev
+          name: 'dev — x-cmd install data (latest manual build)'
           body: |
             Latest **manual** build of x-cmd install data.
 
             Assets get **replaced on every workflow_dispatch run** — this
             release is a moving target. For stable, immutable daily
             snapshots, use the `v<YYYYMMDD>` releases (12:00 UTC daily).
-          files: |
-            v*.all.tsv
-            v*.all.tar.xz
-          fail_on_unmatched_files: false
-          prerelease: true
-          make_latest: false
+          prerelease: 'true'
+          make_latest: 'false'
