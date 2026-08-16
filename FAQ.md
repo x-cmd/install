@@ -126,14 +126,11 @@ The plan is in [issue #2](https://github.com/x-cmd/install/issues/2) (`Add eget 
 
 ### Why don't we filter by stars (or other popularity metrics)?
 
-Personally I've now hand-reviewed over 2,000 install entries. The best tools I came across fall into roughly two camps where stars are misleading:
+I've personally now reviewed over 2,000 install entries by hand. What I found: a lot of great projects don't get attention — either they have no promotion (too niche for anyone to notice), or they're infrastructure that everyone relies on but nobody thinks to star. Even the most well-made tool can have only a handful of stars.
 
-- **Niche / infrastructure** — utilities that everyone uses but no one thinks to star. A library at the bottom of your stack; a CLI you'd only open if your main tool failed; a config format you'd grep but never star.
-- **Quiet maintainers** — solid work by people who just don't market themselves. No conference talks, no HN post, no "follow me on Twitter". Pure word-of-mouth, if that.
+The most extreme case I remember: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop) — when I starred it there were only 29 stars, now it's only 50. That's a very professional, very useful project.
 
-Case in point: [`ProtonMail/gosop`](https://github.com/ProtonMail/gosop), a professional Go SMTP/IMAP proxy. When I first added it here, if I remember right, it had about 28 stars; today it's around 50. By any stars-based filter it would have been rejected. By maintenance signals — continuous development, responsive maintainer, does what it says — it cleared easily.
-
-That's why this index doesn't filter by stars. Stars measure marketing reach and existing audience, not whether a tool works. An index filtered by stars would ship whatever's already popular and miss the things people actually need. We curate for usefulness, not popularity. A 50-star but solid tool is more welcome here than a 10k-star meme wrapper.
+That's why this index doesn't filter by stars. Stars measure marketing reach and existing audience, not whether a tool works. An index filtered by stars would ship whatever's already popular and miss the things people actually need. We curate for usefulness, not popularity.
 
 ### Why 78 `[REC]` issues in this repo?
 
