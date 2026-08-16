@@ -40,6 +40,8 @@ x-cmd-install/
 ├── .github/workflows/  # release-today.yml + update-dev-release.yml
 ├── CONTRIBUTING.md     # 贡献指南（英文）
 ├── CONTRIBUTING.cn.md  # 贡献指南（中文）
+├── FAQ.md              # 维护者 FAQ —— 设计、运维、理念（英文）
+├── FAQ.cn.md           # 维护者 FAQ —— 设计、运维、理念
 ├── LICENSE             # Apache 2.0
 └── README.md           # 英文 README
 ```
