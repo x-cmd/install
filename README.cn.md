@@ -25,13 +25,9 @@
 复制下面这段、把工具的 GitHub 地址贴到指定位置，交给你的 AI 编程助手。
 
 ```text
-参考 CONTRIBUTING.cn.md（https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md）
-作为唯一权威，然后把这个工具提交到 x-cmd/install 仓库：
+参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md ，并向 x-cmd/install 仓库提交新软件：
 
-  工具仓库: https://github.com/<在这里贴 owner/repo>
-
-按 CONTRIBUTING.cn.md 的流程走完整。不要跳过质量门槛（1 个月以上维护 +
-最近 1 个月内活跃开发），不要跳过本地 lint，不要跳过 review。
+  https://github.com/<在这里贴 owner/repo>
 ```
 
 ---

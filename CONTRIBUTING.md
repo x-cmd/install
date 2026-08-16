@@ -21,14 +21,9 @@ Thanks for taking the time to contribute. This project is a community-curated pa
 Copy this prompt, fill in `<name>` and `<owner/repo>`, and paste it to your AI coding assistant.
 
 ```text
-参考 CONTRIBUTING.md (this file, the source of truth) and then
-submit this tool to x-cmd/install:
+参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md ，并向 x-cmd/install 仓库提交新软件：
 
-  Tool repo: https://github.com/<paste owner/repo here>
-
-Follow this CONTRIBUTING.md end-to-end. Don't skip the quality bar
-(>1 month maintenance + active development in the last month),
-don't skip the local lint commands, don't skip the review step.
+  https://github.com/<paste owner/repo here>
 ```
 
 ---

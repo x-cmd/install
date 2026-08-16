@@ -25,14 +25,9 @@ Quick check before opening a PR: the upstream project must have **>1 month of ma
 Copy the prompt below, paste the tool's GitHub URL where indicated, and hand it to your AI coding assistant.
 
 ```text
-参考 CONTRIBUTING.md (https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md)
-作为唯一权威，然后把这个工具提交到 x-cmd/install 仓库：
+参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md ，并向 x-cmd/install 仓库提交新软件：
 
-  Tool repo: https://github.com/<paste owner/repo here>
-
-Follow CONTRIBUTING.md end-to-end. Don't skip the quality bar
-(>1 month maintenance + active development in the last month),
-don't skip the local lint commands, don't skip the review step.
+  https://github.com/<在这里贴 owner/repo>
 ```
 
 ---
