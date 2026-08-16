@@ -106,18 +106,15 @@ binlist:                        # 仅当二进制名 ≠ yml 文件名时需要
 
 ## 质量门槛（维护者会查）
 
-上游项目符合以下**任一条件**的提交会被**非常慎重考虑**（可能拒绝）：
-
-- 维护时间**不足 1 个月**
-- 最近 1 个月内**无活跃开发**（commit、release、有意义的 issue / PR 活动）
+上游项目**没有持续的活跃开发**的提交会被**非常慎重考虑**（可能拒绝）——意思是不是一次性爆发就停，而是长期持续有 commit、release、有意义的 issue / PR 活动。
 
 提交前自查：
 
-- GitHub Insights → Contributors（commit 历史）
-- Releases tab（最近 release 日期）
-- 最近 issue / PR 活动（维护者还在响应吗？）
+- GitHub Insights → Contributors（看项目整个生命周期的 commit 节奏）
+- Releases tab —— release 是按一定规律发的吗
+- issue / PR 响应 —— 维护者还在回应吗？
 
-如果你认为值得破例（安全关键工具、solo 维护者短期静默），在 PR 描述里说明。
+如果你认为值得破例（比如安全关键工具、solo 维护者短期静默、或者成熟稳定项目发版频率本来就低），在 PR 描述里说明。
 
 ---
 
