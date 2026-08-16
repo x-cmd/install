@@ -17,8 +17,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set TODAY
-        run: echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
+      - name: Set TODAY + YESTERDAY
+        run: |
+          echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
+          echo "YESTERDAY=$(date -u -d 'yesterday' +%Y%m%d)" >> "$GITHUB_ENV"
 
       - uses: ./.github/actions/release-data
         with:
@@ -28,5 +30,9 @@ jobs:
             Daily snapshot of the x-cmd install package index.
             Each release `vYYYYMMDD` is immutable — assets reflect the
             build state at the time of creation (12:00 UTC).
+
+            If today's build is identical to `v${{ env.YESTERDAY }}`, this
+            release is skipped (no empty duplicate).
           prerelease: 'false'
           make_latest: 'true'
+          if_changed_since: v${{ env.YESTERDAY }}
