@@ -15,7 +15,9 @@ In short: x-cmd has the brain; this repo has the lookup table.
 
 ## Our stance
 
-We love interesting new tools, but this isn't a marketing page. The following are auto-declined (and existing entries removed) without further discussion:
+We welcome interesting new tools, and we don't judge by stars or popularity. Closed-source, commercial, and AI-generated are all fine — what we don't accept are tools with no human thinking behind them, no safety consideration, and no long-term maintenance plan.
+
+That said, this isn't a marketing page. The following are auto-declined, and existing entries that turn out to fall into any of these will be tagged yellow or removed:
 
 - Tools that engage in **malicious behavior**
 - Tools that **collect user privacy** without clear, prominent disclosure
@@ -34,6 +36,14 @@ Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full workflow, yml tem
 The one thing we ask before you open a PR: the upstream project must show **ongoing active development** — not a one-off burst followed by silence, but a steady cadence of commits and releases over its lifetime. This keeps the index trustworthy.
 
 中文版见 **[CONTRIBUTING.cn.md](CONTRIBUTING.cn.md)**。
+
+### Quick prompt
+
+```text
+Reference https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md, and submit this tool to x-cmd/install: https://github.com/<owner>/<repo>
+```
+
+Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI coding assistant.
 
 ### Quick prompt
 
