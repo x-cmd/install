@@ -22,12 +22,10 @@
 
 ### 快速 prompt
 
-复制下面这段、把工具的 GitHub 地址贴到指定位置，交给你的 AI 编程助手。
+复制下面这段，并把工具的 GitHub 地址（或者官网文档地址）贴到后面，交给你的 AI 助手。
 
 ```text
 参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md ，并向 x-cmd/install 仓库提交新软件：
-
-  https://github.com/<在这里贴 owner/repo>
 ```
 
 ---
