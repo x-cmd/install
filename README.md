@@ -38,7 +38,7 @@ The one thing we ask before you open a PR: the upstream project must show **ongo
 ### Quick prompt
 
 ```text
-参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md ，并向 x-cmd/install 仓库提交这个软件：https://github.com/<owner>/<repo>
+Reference https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md, and submit this tool to x-cmd/install: https://github.com/<owner>/<repo>
 ```
 
 Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI coding assistant.
