@@ -85,6 +85,51 @@ x-cmd-install/
 
 ---
 
+## 格式版本
+
+`all.tsv` / `all.tar.xz` 是和 consumer 的**契约**。改它们——加列、删列、改列名、改转义规则、改内嵌 `rule:` JSON 结构——就是 breaking change。本节讲处理这种变更的协议。
+
+整套流水线按 **多格式持续打包** 来设计：每个发布过的格式版本都会**永远**被每天重建并上传，新旧并存。新格式加进来；老格式再也不改。
+
+### 什么时候必须升版本
+
+| 改动 | 升版本？ |
+|---|---|
+| TSV 加列 | 升（新 major format） |
+| 列改名 / 删列 | 升 |
+| TSV 转义规则变 | 升 |
+| 内嵌 `rule:` JSON 结构变 | 升 |
+| `rule:` JSON 内加新的可选字段 | **不升**（format 内向后兼容） |
+| 批量改 `binlist` / `desc.cn` 内容 | **不升**（只是数据） |
+| 改 `src/` 下的 yml schema | 升（输入 schema 自己也是契约） |
+
+### 怎么发布新格式（比如 `v2`）
+
+1. **写 `.x-cmd/v2.yml2tsv.py`**——照 v1 的结构，新 schema。每个格式独立一个脚本，workflow 按文件名挑。
+2. **改 `.format-versions-supported`**——在末尾加 `2`。文件现在内容是：
+   ```
+   1
+   2
+   ```
+   意思是：v1 永远打包；从这个 commit 起，v2 也开始打包。
+3. **改 `.format-version`**——设为 `2`。这是"当前 / 最新"的格式。
+4. **提 PR**。workflow 重建两种格式，上传到同一个 release `x-cmd install data`（tag `data`）。
+5. **更新 README**——在本节记下新格式，让未来贡献者知道。
+
+merge 之后，release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`。用 v1 的 consumer 不受影响；想用 v2 的抓新资产。
+
+### 永远不变的东西
+
+- **`src/` 下 yml schema** —— 输入是独立的稳定契约；改的是输出格式。
+- **release 名 + tag** —— `x-cmd install data` on tag `data`。tag 创建一次再也不动。
+- **`v0.1.0` branch** —— 历史快照，冻结。
+
+### 老格式的命运
+
+老格式版本**冻结，不补 patch**。如果 v1 输出有 bug，修在 v2 里——v1 保持原样。这正是版本边界存在的意义：让 consumer 有一个干净的、可选的升级路径，不会突然爆掉。
+
+---
+
 ## 协议
 
 Apache 2.0。详见 [LICENSE](LICENSE)。

@@ -85,6 +85,51 @@ The `v0.1.0` branch is a frozen snapshot of the legacy state (kept for historica
 
 ---
 
+## Format versioning
+
+The `all.tsv` / `all.tar.xz` artifacts are a **contract with consumers**. Changing them — adding, removing, or renaming a column; changing escape rules; restructuring the inline `rule:` JSON — is a breaking change. This section is the protocol for handling that.
+
+The pipeline is built around **multi-format continuous packaging**: every format version that has ever shipped keeps getting rebuilt and uploaded every day, side by side. New formats are added; old ones never get edited.
+
+### When a bump is needed
+
+| change | bump? |
+|---|---|
+| add a column to the TSV | yes (new major format) |
+| rename or remove a column | yes |
+| change TSV escape rules | yes |
+| restructure the inline `rule:` JSON shape | yes |
+| add a new optional field inside `rule:` JSON | **no** — backward-compat within the format |
+| update `binlist` / `desc.cn` values across many yml | **no** — data only |
+| change the yml schema under `src/` | yes (the input schema is its own contract) |
+
+### How to ship a new format (e.g., `v2`)
+
+1. **Write `.x-cmd/v2.yml2tsv.py`** — mirror v1's structure with the new schema. Each format gets its own script; the workflow picks them up by filename.
+2. **Edit `.format-versions-supported`** — append `2` on a new line. The file now contains:
+   ```
+   1
+   2
+   ```
+   This means: keep packaging v1 forever; also start packaging v2 from this commit onward.
+3. **Edit `.format-version`** — set to `2`. This is the "current / latest" format.
+4. **Open a PR.** The workflow rebuilds both formats and uploads them to the single release `x-cmd install data` (tag `data`).
+5. **Update the README** — note the new format in this section so future contributors know it exists.
+
+After merge, the release carries `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.all.tar.xz`. Consumers using v1 see no change. Consumers wanting v2 fetch the new assets.
+
+### What never changes
+
+- **The yml schema under `src/`** — input is its own stable contract; output format is the thing that moves.
+- **The release name and tag** — `x-cmd install data` on tag `data`. The tag is created once and never moves.
+- **The `v0.1.0` branch** — historical snapshot, frozen.
+
+### What happens to old formats
+
+Old format versions are **frozen, not patched**. If a bug is found in v1 output, the fix lives in v2 — v1 stays as it was. This is the whole point of the version boundary: it gives consumers a clean, opt-in upgrade path with no surprise breakage.
+
+---
+
 ## License
 
 Apache 2.0. See [LICENSE](LICENSE).
