@@ -47,6 +47,25 @@
 
 ---
 
+## AI agent 怎么不通过 x-cmd 直接用这份数据
+
+通常 `x install` 提供了一堆工具可以直接查数据。让 AI 看 `x install --help` 就行。
+
+但 AI 编程助手（Claude Code、Cursor 等）也可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
+
+1. 拉 TSV（≈ 2,350 行，扁平索引）：
+   ```bash
+   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+   ```
+
+2. 解析：表头是 `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`，每行一个包。`rule` 列是 compact JSON 对象，键为 `<os>/<tool>`，值为对应安装命令。
+
+3. 按用户的 OS / 包管理器匹配，返回对应命令。
+
+需要 license、`x.source`、自定义字段等更全的元数据时，改拉 `all.tar.xz` 读原始 yml。
+
+---
+
 ## 怎么用这份数据
 
 ### 网页：<https://x-cmd.com>
@@ -108,23 +127,6 @@ x-cmd-install/
 运维那一侧（什么时候升、怎么发 v2、什么永远不动）见 [FAQ.cn.md](FAQ.cn.md) → "格式版本"。
 
 ---
-
-## AI agent 怎么绕过 x-cmd 直接用这份数据
-
-通常 `x install` 提供了一堆工具可以直接查数据。让 AI 看 `x install --help` 就行。
-
-但 AI 编程助手（Claude Code、Cursor 等）也可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
-
-1. 拉 TSV（≈ 2,350 行，扁平索引）：
-   ```bash
-   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
-   ```
-
-2. 解析：表头是 `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`，每行一个包。`rule` 列是 compact JSON 对象，键为 `<os>/<tool>`，值为对应安装命令。
-
-3. 按用户的 OS / 包管理器匹配，返回对应命令。
-
-需要 license、`x.source`、自定义字段等更全的元数据时，改拉 `all.tar.xz` 读原始 yml。
 
 ## FAQ
 
