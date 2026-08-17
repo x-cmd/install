@@ -47,7 +47,7 @@ Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI cod
 
 ---
 
-## How AI agents use this data directly without using `x-cmd`
+## AI agents use this data directly (no x-cmd needed)
 
 Normally, `x install` provide a bunch of tools to query the data at ease. You can just ask your AI to consult `x install --help`.
 
