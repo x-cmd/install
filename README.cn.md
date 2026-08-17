@@ -47,7 +47,7 @@
 
 ---
 
-## AI agent 怎么不通过 x-cmd 直接用这份数据
+## 无需 x-cmd, AI agent 可以直接用这份数据
 
 通常 `x install` 提供了一堆工具可以直接查数据。让 AI 看 `x install --help` 就行。
 
