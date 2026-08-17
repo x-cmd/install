@@ -109,9 +109,9 @@ x-cmd-install/
 
 ---
 
-## AI agent 怎么直接用这份数据
+## AI agent 怎么绕过 x-cmd 直接用这份数据
 
-通常情况下，直接让 AI 跑 `x install --help` 之类的就行。
+通常 `x install` 提供了一堆工具可以直接查数据。让 AI 看 `x install --help` 就行。
 
 但 AI 编程助手（Claude Code、Cursor 等）也可以直接拉这份索引，回答"`<name>` 怎么装"，不必走 `x install` / `x eget`：
 
