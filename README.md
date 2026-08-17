@@ -47,6 +47,25 @@ Replace `<owner>/<repo>` with the tool's GitHub location. Hand it to your AI cod
 
 ---
 
+## How AI agents use this data directly without using `x-cmd`
+
+Normally, `x install` provide a bunch of tools to query the data at ease. You can just ask your AI to consult `x install --help`.
+
+However, AI coding agents (Claude Code, Cursor, etc.) can directly fetch this index to answer "how do I install `<name>`?" without going through `x install` / `x eget`:
+
+1. Fetch the TSV (≈ 2,350 rows, flat index):
+   ```bash
+   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
+   ```
+
+2. Parse: the header is `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`. Each row is one package. The `rule` column is a compact JSON object mapping `<os>/<tool>` → install command.
+
+3. Match against the user's OS / package manager and respond with the matching command.
+
+For richer metadata (license, `x.source`, custom fields), fetch `all.tar.xz` instead and read the raw yml.
+
+---
+
 ## How does X-CMD use this data
 
 ### Web: <https://x-cmd.com>
@@ -67,24 +86,6 @@ Open the interactive UI from your terminal with `x i` (short for `x install`):
 
 ---
 
-## How AI agents use this data directly
-
-Normally, you can just ask your AI to consult `x install --help`.
-
-However, AI coding agents (Claude Code, Cursor, etc.) can directly fetch this index to answer "how do I install `<name>`?" without going through `x install` / `x eget`:
-
-1. Fetch the TSV (≈ 2,350 rows, flat index):
-   ```bash
-   curl -L https://github.com/x-cmd/install/releases/latest/download/v1.all.tsv
-   ```
-
-2. Parse: the header is `name  category  lang  source  desc_cn  desc_en  binlist  rule  other`. Each row is one package. The `rule` column is a compact JSON object mapping `<os>/<tool>` → install command.
-
-3. Match against the user's OS / package manager and respond with the matching command.
-
-For richer metadata (license, `x.source`, custom fields), fetch `all.tar.xz` instead and read the raw yml.
-
----
 
 ## Repository layout
 
