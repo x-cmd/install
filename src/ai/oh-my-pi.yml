@@ -1,0 +1,33 @@
+lang: Rust
+homepage: https://github.com/can1357/oh-my-pi
+license: mit
+desc:
+  cn: 极简 Agent Pi 的开箱即用分叉，补齐 LSP、调试适配器、持久化运行时、浏览器/桌面自动化与子 Agent，把终端变成完整的 AI 编程工作台
+  en: Batteries-included fork of the minimalist Pi coding agent — adds LSP, debug adapters, persistent runtimes, browser/desktop automation and subagents out of the box.
+x:
+  source: https://github.com/can1357/oh-my-pi
+  eget: https://github.com/can1357/oh-my-pi
+rule:
+  /eget:
+    cmd: x eget can1357/oh-my-pi
+    reference: https://github.com/can1357/oh-my-pi/releases
+  /curl:
+    cmd: curl -fsSL https://omp.sh/install | sh
+    reference: https://github.com/can1357/oh-my-pi#install
+  darwin/brew:
+    cmd: brew install can1357/tap/omp
+    reference: https://github.com/can1357/oh-my-pi#install
+  /bun:
+    cmd: bun install -g @oh-my-pi/pi-coding-agent
+    reference: https://github.com/can1357/oh-my-pi#install
+  /nix:
+    cmd: nix profile install github:can1357/oh-my-pi#install
+    reference: https://github.com/can1357/oh-my-pi
+  win/powershell:
+    cmd: x pwsh 'irm https://omp.sh/install.ps1 | iex'
+    reference: https://github.com/can1357/oh-my-pi#install
+  /mise:
+    cmd: mise use -g github:can1357/oh-my-pi
+    reference: https://github.com/can1357/oh-my-pi#install
+binlist:
+  - omp
