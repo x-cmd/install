@@ -1,0 +1,91 @@
+{
+  "$ref": "#/definitions/InstallMeta",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "I18nDescription": {
+      "additionalProperties": false,
+      "properties": {
+        "cn": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en",
+        "cn"
+      ],
+      "type": "object"
+    },
+    "InstallMeta": {
+      "additionalProperties": false,
+      "description": "`xw gen-schema` generate json schema\n\nfrom 'x-cmd-install/x-cmd-install' repo",
+      "properties": {
+        "binlist": {
+          "description": "软件包提供的命令",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "desc": {
+          "$ref": "#/definitions/I18nDescription",
+          "description": "描述"
+        },
+        "homepage": {
+          "description": "主页 URL",
+          "type": "string"
+        },
+        "lang": {
+          "description": "编程语言",
+          "type": "string"
+        },
+        "license": {
+          "description": "开源协议",
+          "type": "string"
+        },
+        "rule": {
+          "additionalProperties": {
+            "anyOf": [
+              {
+                "additionalProperties": false,
+                "properties": {
+                  "cmd": {
+                    "type": "string"
+                  },
+                  "dsnap": {
+                    "type": "string"
+                  },
+                  "reference": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "description": "下载规则，key 为对应的包管理工具",
+          "type": "object"
+        },
+        "source": {
+          "description": "源码 URL",
+          "type": "string"
+        },
+        "x": {
+          "description": "描述"
+        }
+      },
+      "required": [
+        "lang",
+        "homepage",
+        "desc",
+        "rule"
+      ],
+      "type": "object"
+    }
+  }
+}

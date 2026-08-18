@@ -1,16 +1,16 @@
-lang: TypeScript
+lang: JavaScript
 homepage: https://github.com/jackwener/opencli
-license: Apache-2.0
+license: apache-2.0
 desc:
-  cn: 将任何网站、电子应用或本地工具转换为 CLI 的通用 CLI 中心与 AI 原生运行时。
-  en: Make any website, Electron App, or Local Tool your CLI. A universal CLI Hub and AI-native runtime.
+  cn: 用 AI Agent 把任意网站变为 CLI，并复用你已登录的浏览器
+  en: Make Any Website into CLI & Use your logged-in browser by AI agent.
 x:
   source: https://github.com/jackwener/opencli
   eget: https://github.com/jackwener/opencli
 rule:
   /eget:
-    cmd: x eget jackwener/opencli
-    reference: https://x-cmd.com/mod/eget
+    cmd: x eget use jackwener/opencli
+    reference: https://github.com/jackwener/opencli
   /npm:
     cmd: npm install -g @jackwener/opencli
     reference: https://github.com/jackwener/opencli#installation

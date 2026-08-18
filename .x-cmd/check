@@ -1,0 +1,27 @@
+# shellcheck shell=dash
+
+# Usage:
+#   x ws check
+
+main(){
+    WORK_DIR="$(x wsroot)"
+
+    x:info "Checking for duplicate software"
+    dups=$(find "$WORK_DIR/src" -name "*.yml" | awk -F '/' '{print $NF}' | sort -f | uniq -d -i)
+
+    if [ -n "$dups" ]; then
+        echo "$dups" | while read -r name; do
+            echo "  Duplicate: $name"
+            find "$WORK_DIR/src" -name "$name" | sed "s|$WORK_DIR/||" | while read -r f; do
+                echo "    -> $f"
+            done
+        done
+        x:error "Duplicate software found, please check and handle"
+    else
+        x:info "No duplicate software found, check passed"
+    fi
+}
+
+(
+  main "$@"
+)

@@ -1,6 +1,6 @@
 # FAQ
 
-> 用户向 FAQ（去哪贡献 / 怎么消费 / 两个 release 区别）见 [README.md](README.md) → "FAQ"。
+> 用户向 FAQ（去哪贡献 / 怎么消费 / 两个 release 区别）见 [README.md → FAQ](README.md#faq)。
 >
 > 本文档面向**维护者**——设计理由、运维细节、理念。消费者通常不用看。
 
@@ -8,7 +8,7 @@
 
 ## 格式版本
 
-> 设计理由（每个 `x install` 版本绑一种格式、所有格式每天用最新数据重建）见 [README.md](README.md) → "格式版本"。本节是**运维**那一侧。
+> 设计理由（每个 `x install` 版本绑一种格式、所有格式每天用最新数据重建）见 [README.md → 格式版本](README.md#格式版本设计向前兼容)。本节是**运维**那一侧。
 
 ### 两个 release 通道有什么区别？
 
@@ -53,7 +53,7 @@ merge 之后 release 就有 `v1.all.tsv` + `v1.all.tar.xz` + `v2.all.tsv` + `v2.
 
 ---
 
-## Design
+## 设计
 
 ### 为什么是两个 workflow（release-today + update-dev-release），不是一个？
 
@@ -84,7 +84,7 @@ build + upload 逻辑被 daily 和 dev 两个 workflow 共享。内联会复制 
 
 ---
 
-## Operations
+## 运维
 
 ### 怎么手动触发每个 workflow？
 
@@ -93,7 +93,7 @@ build + upload 逻辑被 daily 和 dev 两个 workflow 共享。内联会复制 
 | 重打今日 daily release | `release-today.yml` | "Release today" | 创建/替换 `v<TODAY>`（与昨天完全一致则跳过） |
 | 刷新 dev release | `update-dev-release.yml` | "Update dev release" | 覆盖 `dev` 资产 |
 
-都自动触发的话：`release-today` 由 cron 12:00 UTC 触发；`update-dev-release` 仅手动。
+自动触发：仅 `release-today` 由 cron 12:00 UTC 自动触发；`update-dev-release` 仅手动。
 
 ### skip-if-unchanged 检测具体怎么走？
 
@@ -117,7 +117,7 @@ cron 是 `0 12 * * *`。失败在 Actions 里显示红 run。常见原因：
 
 ### 怎么发新格式版本（`v2`）？
 
-看 README → "格式版本 → 怎么发布新格式"。摘要：落 `.x-cmd/v2.yml2tsv.py`，改 `.format-versions-supported`（这个文件后来删了，现在 workflow 自动 glob `v*.yml2tsv.py`），改 `.format-version` 为 `2`，提 PR。下次跑 workflow 自动挑到 `v2`，不用其它配置。
+看上方的[怎么发新格式（比如 `v2`）](#怎么发新格式比如-v2)。简短版——落 `.x-cmd/v2.yml2tsv.py`（workflow 自动 glob `v*.yml2tsv.py`，无需改其它配置），提 PR。下次跑 workflow 自动挑到 `v2`。
 
 ### `x-cmd-install/x-cmd-install`（mneme）这个仓库是干嘛的？
 
@@ -129,7 +129,7 @@ cron 是 `0 12 * * *`。失败在 Actions 里显示红 run。常见原因：
 
 ---
 
-## Philosophy
+## 理念
 
 ### 为什么不用 stars（或其它人气指标）过滤？
 

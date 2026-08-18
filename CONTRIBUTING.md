@@ -18,10 +18,10 @@ Thanks for taking the time to contribute. This project is a community-curated pa
 
 ### Quick prompt
 
-Copy this prompt, fill in `<name>` and `<owner/repo>`, and paste it to your AI coding assistant.
+Copy this prompt, fill in `<owner/repo>` (the repo you want to add), and paste it to your AI coding assistant.
 
 ```text
-参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md ，并向 x-cmd/install 仓库提交新软件：
+Following https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md , submit a new package to the x-cmd/install repo:
 
   https://github.com/<paste owner/repo here>
 ```
@@ -36,10 +36,10 @@ Copy this prompt, fill in `<name>` and `<owner/repo>`, and paste it to your AI c
    ```bash
    x ws lint src/<category>/<your-tool>.yml
    x ws check
-   x eget resolve owner/repo    # only if your entry has /eget
+   x eget use owner/repo        # only if your entry has /eget
    ```
 4. Open a PR. CI runs the same lint; the maintainer review covers the quality bar.
-5. Squash-merge to `main` once approved; the next daily rebuild picks it up.
+5. Squash-merge to `main` once approved; the next daily rebuild (03:00 UTC) picks it up.
 
 ---
 
@@ -52,8 +52,8 @@ The most common contributions are:
 | add a new package | small | below |
 | fix a wrong `homepage` / `reference` URL | small | below |
 | improve a `desc.cn` / `desc.en` translation | small | below |
-| add a new install rule for an existing package | medium | schema reference |
-| ship a new format version (`v2.yml2tsv.py`) | large | README → "Format versioning" |
+| add a new install rule for an existing package | medium | [schema](.vscode/install.schema.json) |
+| ship a new format version (`v2.yml2tsv.py`) | large | [README → Format versioning](README.md#format-versioning-designed-for-forward-compatibility) |
 
 ---
 
@@ -70,9 +70,13 @@ desc:
   cn: 一行中文描述
   en: One-line English description
 
+x:
+  source: https://github.com/owner/repo
+  eget: https://github.com/owner/repo
+
 rule:
   /eget:
-    cmd: x eget owner/repo
+    cmd: x eget use owner/repo
     reference: https://github.com/owner/repo
   # add more rules for other OS / package managers as relevant:
   darwin/brew:
@@ -145,7 +149,7 @@ Each format version (`v1.all.tsv`, `v2.all.tsv`, ...) is an independent, frozen 
 - edit `.x-cmd/v1.yml2tsv.py` once `v1` has shipped — `v1` stays frozen
 - add a column, rename one, or change escape rules inside an existing format
 
-If you genuinely need to break a format's contract, ship a **new** format version (see README → "Format versioning"). This is a larger contribution and warrants discussion in an issue first.
+If you genuinely need to break a format's contract, ship a **new** format version (see [README → Format versioning](README.md#format-versioning-designed-for-forward-compatibility)). This is a larger contribution and warrants discussion in an issue first.
 
 ---
 

@@ -1,7 +1,7 @@
 # FAQ
 
 > For the **user-facing** FAQ (where to contribute, how to consume, what
-> the release channels are), see [README.md](README.md) → "FAQ".
+> the release channels are), see [README.md → FAQ](README.md#faq).
 >
 > This document is for **maintainers** — design rationale, operational
 > details, philosophy. Skip if you're just using the data.
@@ -10,7 +10,7 @@
 
 ## Format versioning
 
-> Design rationale (each `x install` version pins to one format; all formats get rebuilt daily with latest data) lives in [README.md](README.md) → "Format versioning". This section is the **operational** side.
+> Design rationale (each `x install` version pins to one format; all formats get rebuilt daily with latest data) lives in [README.md → Format versioning](README.md#format-versioning-designed-for-forward-compatibility). This section is the **operational** side.
 
 ### What's the difference between the two release channels?
 
@@ -119,7 +119,7 @@ A failed run does **not** leave a partial release — the softprops upload step 
 
 ### How do I ship a new format version (`v2`)?
 
-See README → "Format versioning → How to ship a new format". Summary: drop `.x-cmd/v2.yml2tsv.py`, add `2` to `.format-versions-supported` (well, that file got removed; now the workflow globs `v*.yml2tsv.py` automatically), bump `.format-version` to `2`, open PR. The workflow picks up `v2` on the next run without further config.
+See [How to ship a new format](#how-to-ship-a-new-format-eg-v2) above. Short version — drop `.x-cmd/v2.yml2tsv.py` (the workflow globs `v*.yml2tsv.py` automatically, no config edit needed), open a PR. The workflow picks up `v2` on the next run.
 
 ### What's the role of the `x-cmd-install/x-cmd-install` (mneme) repo?
 

@@ -18,7 +18,7 @@
 
 ### 快速 prompt
 
-复制这段、填好 `<name>` 和 `<owner/repo>`、贴给你的 AI 编程助手。
+复制这段、填好 `<owner/repo>`（你要添加的仓库）、贴给你的 AI 编程助手。
 
 ```text
 参考 https://github.com/x-cmd/install/blob/main/CONTRIBUTING.cn.md ，并向 x-cmd/install 仓库提交新软件：
@@ -36,7 +36,7 @@
    ```bash
    x ws lint src/<category>/<your-tool>.yml
    x ws check
-   x eget resolve owner/repo    # 仅当条目带 /eget 规则时
+   x eget use owner/repo        # 仅当条目带 /eget 规则时
    ```
 4. 提 PR。CI 跑同样的 lint；维护者 review 质量门槛。
 5. 通过后 squash merge 进 `main`，下一次每日重建（03:00 UTC）会带上它。
@@ -52,8 +52,8 @@
 | 新增一个包 | 小 | 见下 |
 | 修错误的 `homepage` / `reference` URL | 小 | 见下 |
 | 改进 `desc.cn` / `desc.en` 翻译 | 小 | 见下 |
-| 给现有包补 install 规则 | 中 | schema 参考 |
-| 发新格式版本（`v2.yml2tsv.py`） | 大 | README → "格式版本" |
+| 给现有包补 install 规则 | 中 | [schema](.vscode/install.schema.json) |
+| 发新格式版本（`v2.yml2tsv.py`） | 大 | [README → 格式版本](README.md#格式版本设计向前兼容) |
 
 ---
 
@@ -70,9 +70,13 @@ desc:
   cn: 一行中文描述
   en: One-line English description
 
+x:
+  source: https://github.com/owner/repo
+  eget: https://github.com/owner/repo
+
 rule:
   /eget:
-    cmd: x eget owner/repo
+    cmd: x eget use owner/repo
     reference: https://github.com/owner/repo
   # 按需补其他 OS / 包管理器规则：
   darwin/brew:
@@ -145,7 +149,7 @@ binlist:                        # 仅当二进制名 ≠ yml 文件名时需要
 - 修改 `.x-cmd/v1.yml2tsv.py`（v1 已发布就永远冻结）
 - 给已发布的格式加列、删列、改列名、改转义规则
 
-如果你确实需要破坏某个格式的契约，请**发新版本**（见 README → "格式版本"）。这是较大贡献，建议先开 issue 讨论。
+如果你确实需要破坏某个格式的契约，请**发新版本**（见 [README → 格式版本](README.md#格式版本设计向前兼容)）。这是较大贡献，建议先开 issue 讨论。
 
 ---
 

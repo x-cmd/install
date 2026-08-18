@@ -1,0 +1,32 @@
+# shellcheck shell=dash
+#
+# Usage:
+#   x ws lint <file>...      Lint the specified YAML files
+#
+# Examples:
+#   x ws lint src/ai/claude-code.yml
+#   x ws lint src/ai/*.yml
+#
+# Checks:
+#   1. yaml-lint:   YAML syntax validation
+#   2. ajv-cli:     JSON Schema validation based on install.schema.json
+
+main(){
+    WORK_DIR="$(x wsroot)"
+
+    local file=
+    for file in "$@"; do
+        [ -f "$file" ] || x:error "File not found -> $file"
+        x:info "Start checking -> $file"
+
+        x:info "  [1/2] yaml-lint: Checking YAML syntax (indentation, quotes, structure validity)..."
+        x bun x yaml-lint "$file" || x:error "yaml-lint validation failed"
+
+        x:info "  [2/2] ajv-cli: Validating file structure against Schema (required fields, types, nested format compliance)..."
+        x bun x ajv-cli -s "$WORK_DIR/.vscode/install.schema.json" -d "$file" || x:error "ajv-cli validation failed"
+    done
+}
+
+(
+  main "$@"
+)
