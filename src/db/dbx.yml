@@ -1,0 +1,26 @@
+lang: Rust
+homepage: https://github.com/t8y2/dbx
+license: Apache-2.0
+desc:
+  cn: 轻量级跨平台数据库管理工具，单文件 ~20MB 二进制支持 MySQL、 PostgreSQL、 SQLite、 Redis、 MongoDB、 DuckDB、 SQL Server、 达梦等 80+ 数据库，内置 AI、 MCP Server、 CLI、 桌面端与 Docker 部署
+  en: DBX is a lightweight, cross-platform database management tool — a single ~20 MB binary that supports 80+ databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, Dameng, and more), with built-in AI, MCP Server, CLI, desktop and Docker deployments
+x:
+  source: https://github.com/t8y2/dbx
+  eget: https://github.com/t8y2/dbx
+rule:
+  /eget:
+    cmd: x eget t8y2/dbx
+    reference: https://github.com/t8y2/dbx
+  darwin/brew:
+    cmd: brew install --cask dbx
+    reference: https://github.com/t8y2/dbx#install
+  win/scoop:
+    cmd: |
+      scoop bucket add dbx https://github.com/t8y2/scoop-bucket
+      scoop install dbx
+    reference: https://github.com/t8y2/dbx#install
+  win/winget:
+    cmd: winget install t8y2.dbx
+    reference: https://github.com/t8y2/dbx#install
+binlist:
+  - dbx
