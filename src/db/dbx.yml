@@ -13,6 +13,14 @@ rule:
     reference: https://github.com/t8y2/dbx
   darwin/brew:
     cmd: brew install --cask dbx
-    reference: https://formulae.brew.sh/cask/dbx
+    reference: https://github.com/t8y2/dbx#install
+  win/scoop:
+    cmd: |
+      scoop bucket add dbx https://github.com/t8y2/scoop-bucket
+      scoop install dbx
+    reference: https://github.com/t8y2/dbx#install
+  win/winget:
+    cmd: winget install t8y2.dbx
+    reference: https://github.com/t8y2/dbx#install
 binlist:
   - dbx
