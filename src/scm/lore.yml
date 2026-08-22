@@ -1,0 +1,19 @@
+lang: Rust
+homepage: https://github.com/epicgames/lore
+license: MIT
+
+desc:
+  cn: Lore 是一个开源版本控制系统，旨在实现数据和团队前所未有的可扩展性。
+  en: Lore is an open source version control system designed for unprecedented scalability of both data and teams.
+x:
+  source: https://github.com/epicgames/lore
+rule:
+  darwin/curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/EpicGames/lore/main/scripts/install.sh | bash -s -- --demo
+    reference: https://github.com/epicgames/lore
+  linux/curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/EpicGames/lore/main/scripts/install.sh | bash -s -- --demo
+    reference: https://github.com/epicgames/lore
+  win/powershell:
+    cmd: x pwsh '$env:LORE_DEMO=1; irm https://raw.githubusercontent.com/EpicGames/lore/main/scripts/install.ps1 | iex'
+    reference: https://github.com/epicgames/lore
