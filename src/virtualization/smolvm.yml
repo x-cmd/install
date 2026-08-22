@@ -1,0 +1,18 @@
+lang: Rust
+homepage: https://smolmachines.com
+license: Apache-2.0
+
+desc:
+  cn: 可移植、轻量、自包含的虚拟机，用于在本地以硬件隔离方式运行 Linux 工作负载
+  en: Portable, lightweight, self-contained virtual machine for running Linux workloads locally with hardware isolation
+
+x:
+  source: https://github.com/smol-machines/smolvm
+
+rule:
+  (linux|darwin)/curl:
+    cmd: curl -sSL https://smolmachines.com/install.sh | bash
+    reference: https://github.com/smol-machines/smolvm?tab=readme-ov-file#install
+
+binlist:
+  - smolvm
