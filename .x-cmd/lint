@@ -14,19 +14,35 @@
 main(){
     WORK_DIR="$(x wsroot)"
 
+    local err=0
+
     local file=
     for file in "$@"; do
-        [ -f "$file" ] || x:error "File not found -> $file"
-        x:info "Start checking -> $file"
+        [ -f "$file" ] || {
+            x:error "File not found -> $file"
+            err=1
+        }
+        # x:info "Start checking -> $file"
 
-        x:info "  [1/2] yaml-lint: Checking YAML syntax (indentation, quotes, structure validity)..."
-        x bun x yaml-lint "$file" || x:error "yaml-lint validation failed"
+        # x:info "  [1/2] yaml-lint: Checking YAML syntax (indentation, quotes, structure validity)..."
+        x bun x yaml-lint "$file" || {
+            x:error "yaml-lint validation failed"
+            err=1
+        }
 
-        x:info "  [2/2] ajv-cli: Validating file structure against Schema (required fields, types, nested format compliance)..."
-        x bun x ajv-cli -s "$WORK_DIR/.vscode/install.schema.json" -d "$file" || x:error "ajv-cli validation failed"
+        # x:info "  [2/2] ajv-cli: Validating file structure against Schema (required fields, types, nested format compliance)..."
+        x bun x ajv-cli -s "$WORK_DIR/.vscode/install.schema.json" -d "$file" || {
+            x:error "ajv-cli validation failed"
+            err=1
+        }
     done
+    return $err
 }
 
 (
-  main "$@"
+    if [ $# -eq 0 ]; then
+        find "$(x wsroot)/src" -name "*.yml" | x line args 'main "$@"'
+    else
+        main "$@"
+    fi
 )

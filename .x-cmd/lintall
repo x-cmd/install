@@ -1,0 +1,33 @@
+# shellcheck shell=dash
+#
+# Usage:
+#   x ws lint <file>...      Lint the specified YAML files
+#
+# Examples:
+#   x ws lint src/ai/claude-code.yml
+#   x ws lint src/ai/*.yml
+#
+# Checks:
+#   1. yaml-lint:   YAML syntax validation
+#   2. ajv-cli:     JSON Schema validation based on install.schema.json
+
+mainrun(){
+    local line
+    for i in "$@"; do
+        line="$line -d '$i'"
+    done
+    eval set - "$line"
+    x bun x ajv-cli -s "$(x wsroot)/.vscode/install.schema.json" "$@"
+}
+
+main(){
+    x line args -n 1000 'mainrun "$@"'
+}
+
+(
+    if [ $# -eq 0 ]; then
+        find "$(x wsroot)/src" -name "*.yml" | main
+    else
+        mainrun "$@"
+    fi
+)
