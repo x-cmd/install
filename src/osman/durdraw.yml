@@ -1,15 +1,15 @@
 lang: 'Python'
-homepage: https://github.com/cmang/durdraw
+homepage: https://durdraw.org
 license: 'BSD-3-Clause'
 desc:
   cn: Linux/Unix/macOS 终端中绘图的 ASCII/ANSI 艺术文本编辑器，支持动画、256/16 色、Unicode 与 CP437
   en: 'Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes'
 x:
-  source: https://github.com/cmang/durdraw
-  eget: https://github.com/cmang/durdraw
+  source: https://github.com/durdraw/durdraw
+  eget: https://github.com/durdraw/durdraw
 rule:
   /eget:
-    cmd: x eget cmang/durdraw
-    reference: https://github.com/cmang/durdraw
+    cmd: x eget durdraw/durdraw
+    reference: https://github.com/durdraw/durdraw
 binlist:
   - 'durdraw'
