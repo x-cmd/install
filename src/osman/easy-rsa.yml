@@ -45,3 +45,52 @@ rule:
 binlist:
 - easy-rsa
 license: NOASSERTION
+
+
+info:
+  permission:
+    read:
+      desc:
+      sensitive:
+    write:
+      desc:
+    network:
+      desc:
+
+  disk:
+    estimate:
+    desc:
+
+  mem:
+    min:
+      estimate:
+      desc:
+    max:
+      estimate:
+      desc:
+    avg:
+      estimate:
+      desc:
+  cpu:
+    network-intense:
+    disk-intense:
+    cpu-intense:
+    min:
+      estimate:
+      desc:
+    max:
+      estimate:
+      desc:
+    avg:
+      estimate:
+      desc:
+
+info:
+
+filesystem:
+  data:
+  - 
+  cache:
+  - 
+  
+
