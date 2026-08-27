@@ -54,3 +54,64 @@ rule:
 binlist:
 - irssi
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: true
+      internet: true   # IRC servers
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.irssi/config
+          en: Reads ~/.irssi/config
+        sensitive:
+          - "$HOME/.irssi/config"
+      write:
+        desc:
+          cn: 写入 ~/.irssi/log
+          en: Writes ~/.irssi/log
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: 日志随使用增长
+            en: Logs grow with usage
+      paths:
+        data:
+          - "$HOME/.irssi/log"
+        config:
+          - "$HOME/.irssi/config"
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB TUI
+          en: ~20 MB TUI
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 1
+        desc:
+          cn: 极低（纯文本渲染）
+          en: Negligible (text rendering)

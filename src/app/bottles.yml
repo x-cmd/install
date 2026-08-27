@@ -15,3 +15,62 @@ rule:
     reference: https://aur.archlinux.org/packages/bottles
 binlist:
 - bottles
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: true   # 下载 runner/proton
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.local/share/bottles
+          en: Reads ~/.local/share/bottles
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 bottle prefix
+          en: Writes bottle prefixes
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 100 MB
+          rating: 3
+          desc:
+            cn: 安装 ~100 MB
+            en: ~100 MB install
+        growth:
+          desc:
+            cn: 每个 bottle 占用数 GB
+            en: Each bottle consumes several GB
+      paths:
+        data:
+          - "$HOME/.local/share/bottles"
+        config: []
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: ~200 MB GTK
+          en: ~200 MB GTK
+      peak:
+        estimate: 1 GB
+        desc:
+          cn: 运行 Windows 应用时
+          en: 1 GB when running Windows apps
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 6
+        desc:
+          cn: 运行 wine/proton 时占用多核
+          en: Saturates cores when running wine/proton

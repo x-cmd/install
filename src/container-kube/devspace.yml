@@ -49,3 +49,55 @@ rule:
     reference: https://github.com/NeoHsu/asdf-devspace?tab=readme-ov-file#install
 binlist:
 - devspace
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # k8s API + image registry
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.kube/config 和 devspace.yaml
+          en: Reads ~/.kube/config and devspace.yaml
+        sensitive:
+          - "$HOME/.kube/config"
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 80 MB
+          rating: 3
+          desc:
+            cn: 安装 ~80 MB
+            en: ~80 MB install
+      paths:
+        data: []
+        config:
+          - "$HOME/.kube/config"
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+      peak:
+        estimate: 200 MB
+        desc:
+          cn: ~200 MB（构建镜像时）
+          en: ~200 MB (during image build)
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 5
+        desc:
+          cn: 同步代码/构建时占用
+          en: Spike during sync/build

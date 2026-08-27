@@ -13,3 +13,47 @@ rule:
     reference: https://github.com/jart/blink-isystem
 binlist:
 - blink-isystem
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 C/C++ 头文件
+          en: Reads C/C++ headers
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 头文件处理时短暂占用
+          en: Brief spike on header processing

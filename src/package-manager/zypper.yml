@@ -28,3 +28,64 @@ rule:
 binlist:
 - zypper
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # package repos
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /etc/zypp, /var/cache/zypp
+          en: Reads /etc/zypp, /var/cache/zypp
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 /var/lib/rpm, 包缓存
+          en: Writes /var/lib/rpm, package cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 安装 ~20 MB
+            en: ~20 MB install
+        growth:
+          desc:
+            cn: 包缓存持续增长
+            en: Package cache grows continuously
+      paths:
+        data:
+          - "/var/cache/zypp"
+          - "/var/lib/rpm"
+        config:
+          - "/etc/zypp"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 200 MB
+        desc:
+          cn: 大型包下载/解压时
+          en: Large package download/extract
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 5
+        desc:
+          cn: 依赖解析/GPG 校验时占用
+          en: Spike during dep resolution / GPG verify

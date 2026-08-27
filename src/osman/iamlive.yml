@@ -24,3 +24,58 @@ rule:
     reference: https://github.com/iann0036/iamlive?tab=readme-ov-file#homebrew
 binlist:
 - iamlive
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # AWS STS
+    filesystem:
+      read:
+        desc:
+          cn: 读取 AWS IAM policy JSON
+          en: Reads AWS IAM policy JSON
+        sensitive:
+          - "$HOME/.aws/credentials"
+      write:
+        desc:
+          cn: 输出 Terraform IAM policy
+          en: Outputs Terraform IAM policy
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 60 MB
+        desc:
+          cn: ~60 MB
+          en: ~60 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 解析大 policy 时短暂占用
+          en: Brief spike on large policy parsing

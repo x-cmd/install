@@ -13,3 +13,53 @@ rule:
     reference: https://github.com/antoniorodr/cronboard
 binlist:
   - 'cronboard'
+footprint:
+  behavior:
+    runtime:
+      type: [cli, tui]
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /etc/crontab, /var/spool/cron
+          en: Reads /etc/crontab, /var/spool/cron
+        sensitive: []
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB Python
+          en: ~30 MB Python
+      peak:
+        estimate: 60 MB
+        desc:
+          cn: ~60 MB
+          en: ~60 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 扫描 cron 时短暂占用
+          en: Brief spike on cron scan

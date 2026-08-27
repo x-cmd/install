@@ -13,3 +13,53 @@ rule:
     reference: https://github.com/jart/gosip
 binlist:
 - gosip
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # SIP signaling
+    filesystem:
+      read:
+        desc:
+          cn: 读取 SIP 配置文件
+          en: Reads SIP config files
+        sensitive:
+          - "$HOME/.gosip/config"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: SIP 信令时短暂占用
+          en: Brief spike on SIP signaling

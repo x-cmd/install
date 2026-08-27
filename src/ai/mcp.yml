@@ -13,3 +13,53 @@ rule:
     dsnap: '@browsermcp/mcp'
 binlist:
 - mcp
+footprint:
+  behavior:
+    runtime:
+      type: daemon   # MCP server 持续运行
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取浏览器会话状态
+          en: Reads browser session state
+        sensitive: []
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 2
+          desc:
+            cn: 安装 ~30 MB
+            en: ~30 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB Node.js
+          en: ~50 MB Node.js
+      peak:
+        estimate: 200 MB
+        desc:
+          cn: 浏览器交互时
+          en: During browser interactions
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: 处理浏览器请求时
+          en: Spike during browser request handling

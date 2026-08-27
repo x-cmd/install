@@ -16,3 +16,53 @@ rule:
     reference: https://github.com/kahun/asdf-clusterawsadm?tab=readme-ov-file#install
 binlist:
 - clusterawsadm
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # AWS API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.aws/credentials
+          en: Reads ~/.aws/credentials
+        sensitive:
+          - "$HOME/.aws/credentials"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+          desc:
+            cn: 安装 ~50 MB
+            en: ~50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 80 MB
+        desc:
+          cn: ~80 MB
+          en: ~80 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: AWS API 调用时短暂占用
+          en: Brief spike on AWS API calls
