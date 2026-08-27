@@ -12,3 +12,43 @@ rule:
     reference: https://github.com/ljh-sh/chardet
 binlist:
 - chardet
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 5 MB
+            en: 5 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB
+          en: 30 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
