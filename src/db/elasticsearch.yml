@@ -253,3 +253,43 @@ rule:
 binlist:
 - elasticsearch
 license: NOASSERTION
+
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 1
+          desc:
+            cn: 安装 50 MB
+            en: 50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: 100 MB
+          en: 100 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
