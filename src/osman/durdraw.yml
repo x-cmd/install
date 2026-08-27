@@ -11,14 +11,10 @@ rule:
     cmd: pip install git+https://github.com/durdraw/durdraw
     reference: https://github.com/durdraw/durdraw#via-pip
     dsnap: https://github.com/durdraw/durdraw/archive/refs/heads/master.zip
-  darwin/brew:
+  /brew:
     cmd: brew install durdraw
     reference: https://formulae.brew.sh/formula/durdraw
-  debian/apt:
-    cmd: sudo apt install durdraw
-    reference: https://command-not-found.com/durdraw
-    dsnap: durdraw
-  ubuntu/apt:
+  /apt:
     cmd: sudo apt install durdraw
     reference: https://command-not-found.com/durdraw
     dsnap: durdraw
