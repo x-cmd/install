@@ -94,12 +94,12 @@ footprint:
 
     memory:
       idle:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: 空闲时 <30 MB（CLI 解析 + 配置加载）
           en: <30 MB idle (CLI parsing + config load)
       peak:
-        rating: 3
+        estimate: 60 MB
         desc:
           cn: 4096-bit 密钥生成时短时尖峰
           en: Brief spike during 4096-bit key generation

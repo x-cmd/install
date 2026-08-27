@@ -46,12 +46,12 @@ footprint:
         config: []
     memory:
       idle:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB
       peak:
-        rating: 3
+        estimate: 50 MB
         desc:
           cn: ~50 MB
           en: ~50 MB

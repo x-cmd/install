@@ -98,12 +98,12 @@ footprint:
           - "$HOME/.config/bpytop.cfg"
     memory:
       idle:
-        rating: 3
+        estimate: 80 MB
         desc:
           cn: ~80 MB（Python 解释器）
           en: ~80 MB (Python interpreter)
       peak:
-        rating: 4
+        estimate: 150 MB
         desc:
           cn: ~150 MB
           en: ~150 MB

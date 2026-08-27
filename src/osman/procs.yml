@@ -93,12 +93,12 @@ footprint:
           - "$HOME/.config/procs/config.toml"
     memory:
       idle:
-        rating: 2
+        estimate: 20 MB
         desc:
           cn: ~20 MB
           en: ~20 MB
       peak:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB

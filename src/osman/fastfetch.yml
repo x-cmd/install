@@ -107,12 +107,12 @@ footprint:
           - "$HOME/.config/fastfetch/config.jsonc"
     memory:
       idle:
-        rating: 2
+        estimate: 10 MB
         desc:
           cn: ~10 MB
           en: ~10 MB
       peak:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB

@@ -89,12 +89,12 @@ footprint:
           - "/var/cache/nginx/"
     memory:
       idle:
-        rating: 2
+        estimate: 10 MB
         desc:
           cn: ~10 MB worker 基础
           en: ~10 MB worker baseline
       peak:
-        rating: 4
+        estimate: 150 MB
         desc:
           cn: ~150 MB 高并发下
           en: ~150 MB under high load

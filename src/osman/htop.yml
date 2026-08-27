@@ -85,12 +85,12 @@ footprint:
           - "$HOME/.config/htop/htoprc"
     memory:
       idle:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: ~30 MB TUI 常驻
           en: ~30 MB TUI resident
       peak:
-        rating: 2
+        estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB
