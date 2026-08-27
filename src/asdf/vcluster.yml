@@ -36,3 +36,43 @@ rule:
     reference: https://gitlab.com/wt0f/asdf-vcluster#install
 binlist:
 - vcluster
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB
+          en: 30 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
