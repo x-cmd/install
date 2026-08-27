@@ -25,3 +25,63 @@ rule:
     reference: https://aur.archlinux.org/packages/asdf-vm
 binlist:
 - asdf
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # git clones plugins
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.asdf, .tool-versions
+          en: Reads ~/.asdf, .tool-versions
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 ~/.asdf (插件/版本)
+          en: Writes ~/.asdf (plugins/versions)
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 1 MB
+          rating: 1
+          desc:
+            cn: 安装 ~1 MB (核心)
+            en: ~1 MB install (core)
+        growth:
+          desc:
+            cn: ~/.asdf 随插件/版本安装线性增长
+            en: ~/.asdf grows with plugin/version installs
+      paths:
+        data:
+          - "$HOME/.asdf"
+        config:
+          - ".tool-versions"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 80 MB
+        desc:
+          cn: 安装版本时
+          en: During version install
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 编译安装时短暂占用
+          en: Brief spike on compile install

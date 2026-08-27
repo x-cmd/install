@@ -28,3 +28,54 @@ rule:
     reference: https://github.com/firebase/firebase-tools?tab=readme-ov-file#standalone-binary
 binlist:
 - firebase-tools
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # Firebase API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 firebase.json, .firebaserc
+          en: Reads firebase.json, .firebaserc
+        sensitive:
+          - "$HOME/.config/firebase"
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 80 MB
+          rating: 3
+          desc:
+            cn: 安装 ~80 MB Node.js
+            en: ~80 MB Node.js install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: ~100 MB
+          en: ~100 MB
+      peak:
+        estimate: 300 MB
+        desc:
+          cn: 部署时
+          en: During deploy
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 上传资源时占用
+          en: Spike on asset upload

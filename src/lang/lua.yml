@@ -34,3 +34,53 @@ rule:
 binlist:
 - lua
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: [cli, interactive]
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 .lua 脚本文件
+          en: Reads .lua scripts
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+      paths:
+        data: []
+        config:
+          - "$HOME/.lua"
+    memory:
+      idle:
+        estimate: 5 MB
+        desc:
+          cn: ~5 MB interpreter
+          en: ~5 MB interpreter
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: 大型脚本 ~50 MB
+          en: ~50 MB on large scripts
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 6
+        desc:
+          cn: 脚本执行时占用
+          en: Spike during script execution

@@ -30,3 +30,57 @@ rule:
 binlist:
 - schemacrawler
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # JDBC database connection
+    filesystem:
+      read:
+        desc:
+          cn: 读取数据库 schema
+          en: Reads database schema
+        sensitive: []
+      write:
+        desc:
+          cn: 输出 schema 报告
+          en: Outputs schema report
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 2
+          desc:
+            cn: 安装 ~30 MB JVM
+            en: ~30 MB JVM install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: ~100 MB JVM
+          en: ~100 MB JVM
+      peak:
+        estimate: 500 MB
+        desc:
+          cn: 大型 schema ~500 MB
+          en: ~500 MB on large schemas
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: 大 schema 分析时
+          en: Spike on large schema analysis

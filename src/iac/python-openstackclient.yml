@@ -18,3 +18,54 @@ rule:
     dsnap: python-openstackclient
 binlist:
 - python-openstackclient
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # OpenStack API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.config/openstack
+          en: Reads ~/.config/openstack
+        sensitive:
+          - "$HOME/.config/openstack/clouds.yaml"
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 安装 ~20 MB Python
+            en: ~20 MB Python install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: ~80 MB Python
+          en: ~80 MB Python
+      peak:
+        estimate: 150 MB
+        desc:
+          cn: ~150 MB
+          en: ~150 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: API 调用时短暂占用
+          en: Brief spike on API calls

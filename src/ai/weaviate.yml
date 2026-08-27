@@ -13,3 +13,63 @@ rule:
     reference: https://github.com/weaviate/weaviate
 binlist:
   - 'weaviate'
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      local: true
+      internet: true   # vector DB API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 schema 配置、数据文件
+          en: Reads schema config, data files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入向量索引数据
+          en: Writes vector index data
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 100 MB
+          rating: 3
+          desc:
+            cn: 安装 ~100 MB
+            en: ~100 MB install
+        growth:
+          desc:
+            cn: 随索引数据增长
+            en: Grows with indexed data
+      paths:
+        data:
+          - "/var/lib/weaviate"
+        config:
+          - "/etc/weaviate"
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: ~200 MB baseline
+          en: ~200 MB baseline
+      peak:
+        estimate: 4 GB
+        desc:
+          cn: 大型向量索引
+          en: Large vector indexes
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 1
+        desc:
+          cn: 极低
+          en: Negligible
+      peak:
+        rating: 7
+        desc:
+          cn: 索引/查询时占用
+          en: Spike on indexing/querying

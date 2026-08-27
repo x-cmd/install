@@ -13,3 +13,54 @@ rule:
     reference: https://github.com/github/github-mcp-server
 binlist:
 - github-mcp-server
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      local: true
+      internet: true   # GitHub API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.config/gh, GITHUB_TOKEN
+          en: Reads ~/.config/gh, GITHUB_TOKEN
+        sensitive:
+          - "$HOME/.config/gh/hosts.yml"
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+          desc:
+            cn: 安装 ~50 MB
+            en: ~50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: ~100 MB Node.js
+          en: ~100 MB Node.js
+      peak:
+        estimate: 300 MB
+        desc:
+          cn: ~300 MB
+          en: ~300 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: API 调用时短暂占用
+          en: Brief spike on API calls

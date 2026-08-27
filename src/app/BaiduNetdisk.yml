@@ -19,3 +19,62 @@ rule:
 binlist:
 - BaiduNetdisk
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: true   # Baidu cloud
+    filesystem:
+      read:
+        desc:
+          cn: 读取用户文件
+          en: Reads user files
+        sensitive: []
+      write:
+        desc:
+          cn: 同步文件到云端
+          en: Syncs files to cloud
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 100 MB
+          rating: 3
+          desc:
+            cn: 安装 ~100 MB
+            en: ~100 MB install
+        growth:
+          desc:
+            cn: 缓存随同步文件增长
+            en: Cache grows with synced files
+      paths:
+        data:
+          - "$HOME/BaiduNetdisk"
+        config: []
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: ~200 MB GUI
+          en: ~200 MB GUI
+      peak:
+        estimate: 1 GB
+        desc:
+          cn: 同步大文件时
+          en: During large file sync
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 5
+        desc:
+          cn: 上传/下载时占用
+          en: Spike on upload/download
