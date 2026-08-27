@@ -12,3 +12,43 @@ rule:
     reference: https://docs.orbstack.dev/quick-start#installation
 binlist:
 - orbstack
+
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 1 MB
+          rating: 1
+          desc:
+            cn: 安装 1 MB
+            en: 1 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 5 MB
+        desc:
+          cn: 5 MB
+          en: 5 MB
+    cpu:
+      workload: ['io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
