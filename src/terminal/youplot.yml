@@ -21,3 +21,43 @@ rule:
     reference: https://aur.archlinux.org/packages/ruby-youplot
 binlist:
 - youplot
+
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
