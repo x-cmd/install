@@ -59,3 +59,60 @@ rule:
     reference: https://github.com/dalance/procs
 binlist:
 - procs
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: yes
+      internet: no
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /proc/* 进程信息（含 cmdline、environ）
+          en: Reads /proc/* process info (cmdline, environ)
+        sensitive:
+          - "/proc/*/cmdline"
+          - "/proc/*/environ"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: 几乎不增长
+            en: Minimal growth
+      paths:
+        data: []
+        config:
+          - "$HOME/.config/procs/config.toml"
+        cache: []
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+      peak:
+        rating: 2
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 列出进程时短暂占用
+          en: Brief spike during process listing

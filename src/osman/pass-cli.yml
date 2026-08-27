@@ -13,3 +13,65 @@ rule:
     reference: https://github.com/ari1110/pass-cli
 binlist:
   - 'pass-cli'
+footprint:
+  behavior:
+    runtime:
+      type: [cli, tui]
+    network:
+      local: yes       # 读本地密码库
+      internet: yes     # 可选同步到 git remote
+    filesystem:
+      read:
+        desc:
+          cn: 读取密码库（默认 ~/.pass-cli）下的加密条目
+          en: Reads encrypted entries in password store (default ~/.pass-cli)
+        sensitive:
+          - "$HOME/.pass-cli/**/*.enc"
+      write:
+        desc:
+          cn: 在密码库下生成加密条目
+          en: Writes encrypted entries in password store
+        sensitive:
+          - "$HOME/.pass-cli/**/*.enc"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+        growth:
+          desc:
+            cn: 密码库大小随条目数增长
+            en: Store grows with number of entries
+      paths:
+        data:
+          - "$HOME/.pass-cli"
+        config: []
+        cache: []
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        rating: 3
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: 加解密时短暂占用
+          en: Brief spike during encrypt/decrypt

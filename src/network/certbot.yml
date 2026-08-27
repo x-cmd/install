@@ -56,3 +56,65 @@ rule:
 binlist:
 - certbot
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: [cli, oneshot]      # `certbot` 交互式 CLI；`certbot renew` oneshot
+    network:
+      local: yes
+      internet: yes              # ACME 协议
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /etc/letsencrypt 配置；域名验证文件
+          en: Reads /etc/letsencrypt config; domain validation files
+        sensitive: []
+      write:
+        desc:
+          cn: 在 /etc/letsencrypt/live/ 写入证书和密钥
+          en: Writes certificates and keys in /etc/letsencrypt/live/
+        sensitive:
+          - "/etc/letsencrypt/live/*/privkey.pem"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: /etc/letsencrypt 随域名数增长
+            en: /etc/letsencrypt grows with number of domains
+      paths:
+        data:
+          - "/etc/letsencrypt/"
+          - "/var/log/letsencrypt/"
+        config: []
+        cache: []
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        rating: 3
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 短暂占用（ACME 握手 + 证书生成）
+          en: Brief spike (ACME handshake + cert generation)

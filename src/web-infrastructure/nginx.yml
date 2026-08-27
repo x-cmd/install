@@ -48,3 +48,66 @@ rule:
     reference: https://en.opensuse.org/Nginx
 binlist:
 - nginx
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      local: yes
+      internet: yes       # 监听端口
+    filesystem:
+      read:
+        desc:
+          cn: 读取站点配置 (nginx.conf, sites-enabled/*)，可选 SSL 证书和密钥
+          en: Reads site configs (nginx.conf, sites-enabled/*), optional SSL certs and keys
+        sensitive:
+          - "/etc/nginx/certs/*.key"
+      write:
+        desc:
+          cn: 写入访问日志和错误日志
+          en: Writes access and error logs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+        growth:
+          desc:
+            cn: 访问日志随流量增长（可配置轮转）
+            en: Access logs grow with traffic (configurable rotation)
+      paths:
+        data:
+          - "/var/log/nginx/"
+        config:
+          - "/etc/nginx/nginx.conf"
+        cache:
+          - "/var/cache/nginx/"
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: ~10 MB worker 基础
+          en: ~10 MB worker baseline
+      peak:
+        rating: 4
+        desc:
+          cn: ~150 MB 高并发下
+          en: ~150 MB under high load
+    cpu:
+      workload: [io, compute]
+      processes: 4           # master + workers（可配置）
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 6
+        desc:
+          cn: 高并发下占用多核
+          en: Saturates multiple cores under high concurrency

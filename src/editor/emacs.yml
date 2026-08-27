@@ -57,3 +57,68 @@ rule:
 binlist:
 - emacs
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: [cli, tui, gui]
+    network:
+      local: yes
+      internet: yes        # package fetching
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.emacs.d, 包目录；编辑文件
+          en: Reads ~/.emacs.d, package directory; edits files
+        sensitive:
+          - "~/.authinfo.gpg"
+          - "~/.emacs.d/.authinfo"
+      write:
+        desc:
+          cn: 写入 ~/.emacs.d, autosave 文件，编辑缓冲区
+          en: Writes ~/.emacs.d, autosave files, edit buffers
+        sensitive:
+          - "~/.authinfo.gpg"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+          desc:
+            cn: 安装 ~50 MB（含依赖）
+            en: ~50 MB install (with deps)
+        growth:
+          desc:
+            cn: ~/.emacs.d 随使用增长（包、历史）
+            en: ~/.emacs.d grows with usage (packages, history)
+      paths:
+        data:
+          - "~/.emacs.d/"
+        config:
+          - "~/.emacs"
+          - "~/.emacs.d/init.el"
+        cache: []
+    memory:
+      idle:
+        rating: 3
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+      peak:
+        rating: 4
+        desc:
+          cn: ~200 MB（多 buffer + 模式）
+          en: ~200 MB (multiple buffers + modes)
+    cpu:
+      workload: [compute, io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: 复杂模式（如 lisp 编译）时占用
+          en: Spike during complex modes (e.g., lisp compilation)

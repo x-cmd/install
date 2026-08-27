@@ -13,3 +13,63 @@ rule:
     reference: https://github.com/MitMaro/git-interactive-rebase-tool
 binlist:
   - 'git-interactive-rebase-tool'
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: yes
+      internet: no
+    filesystem:
+      read:
+        desc:
+          cn: 读取 .git/, HEAD, refs, packed-refs
+          en: Reads .git/, HEAD, refs, packed-refs
+        sensitive: []
+      write:
+        desc:
+          cn: 修改 .git/ 内的 commit 历史
+          en: Modifies commit history in .git/
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: 几乎不增长（修改 .git/ 内文件）
+            en: Minimal growth (modifies .git/ files)
+      paths:
+        data:
+          - ".git/"
+        config: []
+        cache: []
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        rating: 3
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 1
+        desc:
+          cn: 极低
+          en: Negligible
+      peak:
+        rating: 2
+        desc:
+          cn: 加载/重写 git 状态时短暂占用
+          en: Brief spike loading/rewriting git state

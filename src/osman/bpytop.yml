@@ -66,3 +66,58 @@ rule:
     reference: https://github.com/aristocratos/bpytop#installation
 binlist:
 - bpytop
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: yes
+      internet: no
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /proc/* 系统状态
+          en: Reads /proc/* system state
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: 几乎不增长
+            en: Minimal growth
+      paths:
+        data: []
+        config:
+          - "$HOME/.config/bpytop.cfg"
+        cache: []
+    memory:
+      idle:
+        rating: 3
+        desc:
+          cn: ~80 MB（Python 解释器）
+          en: ~80 MB (Python interpreter)
+      peak:
+        rating: 4
+        desc:
+          cn: ~150 MB
+          en: ~150 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 1
+        desc:
+          cn: 极低
+          en: Negligible
+      peak:
+        rating: 2
+        desc:
+          cn: 刷新时短暂占用
+          en: Brief spike on refresh
