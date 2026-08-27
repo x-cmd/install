@@ -21,3 +21,43 @@ rule:
     reference: https://aur.archlinux.org/packages/nodejs-is-up-cli
 binlist:
 - is-up-cli
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 1
+          desc:
+            cn: 安装 30 MB
+            en: 30 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 80 MB
+          en: 80 MB
+    cpu:
+      workload: ['io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
