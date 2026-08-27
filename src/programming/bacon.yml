@@ -13,3 +13,53 @@ rule:
     reference: https://github.com/Canop/bacon
 binlist:
   - 'bacon'
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 监视 Rust 源码文件 + cargo metadata
+          en: Watches Rust source files + cargo metadata
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+      paths:
+        data: []
+        config:
+          - "bacon.toml"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 100 MB
+        desc:
+          cn: 大型项目 ~100 MB
+          en: ~100 MB on large projects
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 1
+        desc:
+          cn: 极低（仅文件监视）
+          en: Negligible (file watching only)
+      peak:
+        rating: 6
+        desc:
+          cn: cargo check 触发时占用多核
+          en: Saturates cores when cargo check fires

@@ -19,3 +19,54 @@ rule:
     reference: https://github.com/rubysolo/brows#installation
 binlist:
 - brows
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # GitHub API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 GitHub/GitLab 用户和仓库数据
+          en: Reads GitHub/GitLab user and repo data
+        sensitive:
+          - "$HOME/.config/gh/hosts.yml"
+          - "$HOME/.netrc"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 安装 ~20 MB
+            en: ~20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 列出大量仓库时短暂占用
+          en: Brief spike when listing many repos

@@ -13,3 +13,43 @@ rule:
     reference: https://github.com/mlabonne/llm-course
 binlist:
 - llm-course
+footprint:
+  behavior:
+    runtime:
+      type: library
+    network:
+      local: false
+      internet: true   # notebooks 下载
+    filesystem:
+      read: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+          desc:
+            cn: 课程 notebooks ~50 MB
+            en: ~50 MB of course notebooks
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 0
+        desc:
+          cn: 非运行时资源（notebook 集合）
+          en: No runtime footprint (notebook collection)
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 7
+        desc:
+          cn: notebook 训练时（取决于模型）
+          en: Spike during notebook training (model-dependent)

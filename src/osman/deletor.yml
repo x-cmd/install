@@ -13,3 +13,58 @@ rule:
     reference: https://github.com/pashkov256/deletor
 binlist:
   - 'deletor'
+footprint:
+  behavior:
+    runtime:
+      type: [cli, tui]
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取目录结构以预览待删文件
+          en: Reads directory structure to preview files to delete
+        sensitive: []
+      write:
+        desc:
+          cn: 删除指定文件
+          en: Deletes specified files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 2
+          desc:
+            cn: 安装 ~10 MB
+            en: ~10 MB install
+      paths:
+        data: []
+        config:
+          - "$HOME/.config/deletor"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 扫描大目录时短暂占用
+          en: Brief spike on large directory scan

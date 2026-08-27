@@ -27,3 +27,58 @@ rule:
     reference: https://scoop.sh/#/apps?q=cmake
 binlist:
 - cmake
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 CMakeLists.txt 和源码文件
+          en: Reads CMakeLists.txt and source files
+        sensitive: []
+      write:
+        desc:
+          cn: 生成 build/ 目录、CMakeCache、Makefile
+          en: Generates build/ dir, CMakeCache, Makefiles
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 100 MB
+          rating: 3
+          desc:
+            cn: 安装 ~100 MB
+            en: ~100 MB install
+      paths:
+        data: []
+        config:
+          - "$HOME/.cmake"
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB 闲置
+          en: ~50 MB idle
+      peak:
+        estimate: 500 MB
+        desc:
+          cn: 大型项目配置时可达数百 MB
+          en: Several hundred MB on large project configure
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 5
+        desc:
+          cn: cmake --build 时调度编译器
+          en: Schedules compilers during cmake --build

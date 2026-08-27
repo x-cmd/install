@@ -15,3 +15,55 @@ rule:
     reference: https://github.com/abatilo/asdf-argo-rollouts?tab=readme-ov-file#install
 binlist:
 - argo-rollouts
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # talks to k8s API server
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.kube/config 和 k8s manifest
+          en: Reads ~/.kube/config and k8s manifests
+        sensitive:
+          - "$HOME/.kube/config"
+      write: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+          desc:
+            cn: 安装 ~50 MB
+            en: ~50 MB install
+      paths:
+        data: []
+        config:
+          - "$HOME/.kube/config"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 80 MB
+        desc:
+          cn: ~80 MB（大型 rollout 列表）
+          en: ~80 MB (large rollout lists)
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: watch 模式下短暂占用
+          en: Brief spike in watch mode

@@ -29,3 +29,52 @@ rule:
     reference: https://aur.archlinux.org/packages/gitql-bin
 binlist:
 - gitql
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 .git/objects, .git/packed-refs
+          en: Reads .git/objects, .git/packed-refs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 安装 ~20 MB
+            en: ~20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 100 MB
+        desc:
+          cn: 大型仓库查询 ~100 MB
+          en: ~100 MB on large repo queries
+    cpu:
+      workload: [io, compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: SQL 解析 git 数据时短暂占用
+          en: Brief spike on parsing git data for SQL

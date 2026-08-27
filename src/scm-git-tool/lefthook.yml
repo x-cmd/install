@@ -74,3 +74,58 @@ rule:
     reference: https://github.com/evilmartians/lefthook/blob/master/docs/install.md#-winget-for-windows
 binlist:
 - lefthook
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 lefthook.yml, .git/
+          en: Reads lefthook.yml, .git/
+        sensitive: []
+      write:
+        desc:
+          cn: 安装 git hooks 到 .git/hooks/
+          en: Installs git hooks to .git/hooks/
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 安装 ~20 MB
+            en: ~20 MB install
+      paths:
+        data: []
+        config:
+          - "lefthook.yml"
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 运行用户配置的 hooks 时短暂占用
+          en: Brief spike when running user-configured hooks

@@ -31,3 +31,63 @@ rule:
     reference: https://aur.archlinux.org/packages/pueue-git
 binlist:
 - pueue
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.config/pueue 状态
+          en: Reads ~/.config/pueue state
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 ~/.config/pueue 状态和日志
+          en: Writes ~/.config/pueue state and logs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+        growth:
+          desc:
+            cn: 日志随任务输出增长
+            en: Logs grow with task output
+      paths:
+        data:
+          - "$HOME/.local/share/pueue"
+        config:
+          - "$HOME/.config/pueue"
+    memory:
+      idle:
+        estimate: 10 MB
+        desc:
+          cn: ~10 MB daemon
+          en: ~10 MB daemon
+      peak:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: 任务调度时短暂占用
+          en: Brief spike on task scheduling
