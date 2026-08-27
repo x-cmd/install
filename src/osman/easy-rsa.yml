@@ -47,87 +47,74 @@ binlist:
 license: NOASSERTION
 
 footprint:
-  permission:
+  behavior:
     runtime:
       type: cli
 
     network:
       local: no
       internet: no
-      desc:
-        cn: 完全离线
-        en: Fully offline
 
-    read:
-      desc:
-        cn: 读取 $EASYRSA_PKI 下的 CA、证书、私钥、CSR、CRL，以及 vars 配置与 openssl-easyrsa.cnf
-        en: Reads CA, cert, key, CSR and CRL files under $EASYRSA_PKI, plus the vars config and openssl-easyrsa.cnf
-      normal:
-        - "$EASYRSA_PKI/ca.crt"
-        - "$EASYRSA_PKI/issued/*.crt"
-        - "$EASYRSA_PKI/crl.pem"
-        - "$EASYRSA_PKI/index.txt"
-        - "$EASYRSA_PKI/serial"
-        - "$EASYRSA/vars"
-        - "$EASYRSA/openssl-easyrsa.cnf"
-      sensitive:
-        - "$EASYRSA_PKI/private/*.key"
-        - "$EASYRSA_PKI/reqs/*.req"
-        - "$EASYRSA_PKI/pki/passwords.txt"
-    write:
-      desc:
-        cn: 在 $EASYRSA_PKI 下生成证书、私钥、CSR 与 CRL
-        en: Writes certificates, private keys, CSRs and CRLs under $EASYRSA_PKI
-      normal:
-        - "$EASYRSA_PKI/issued/*.crt"
-        - "$EASYRSA_PKI/crl.pem"
-        - "$EASYRSA_PKI/index.txt"
-        - "$EASYRSA_PKI/serial"
-      sensitive:
-        - "$EASYRSA_PKI/private/*.key"
-        - "$EASYRSA_PKI/reqs/*.req"
+    filesystem:
+      read:
+        desc:
+          cn: 读取 $EASYRSA_PKI 下的 CA、证书、私钥、CSR、CRL，以及 vars 配置与 openssl-easyrsa.cnf
+          en: Reads CA, cert, key, CSR and CRL files under $EASYRSA_PKI, plus the vars config and openssl-easyrsa.cnf
+        sensitive:
+          - "$EASYRSA_PKI/private/*.key"
+          - "$EASYRSA_PKI/reqs/*.req"
+          - "$EASYRSA_PKI/pki/passwords.txt"
+      write:
+        desc:
+          cn: 在 $EASYRSA_PKI 下生成证书、私钥、CSR 与 CRL
+          en: Writes certificates, private keys, CSRs and CRLs under $EASYRSA_PKI
+        sensitive:
+          - "$EASYRSA_PKI/private/*.key"
+          - "$EASYRSA_PKI/reqs/*.req"
 
-  disk:
-    estimate: 5 MB
-    desc:
-      cn: 安装 <5 MB；PKI 目录随签发证书量线性增长
-      en: <5 MB install; $EASYRSA_PKI grows linearly with issued certs
-    data:
-      - "$EASYRSA_PKI"
-    config:
-      - "$EASYRSA/vars"
-      - "$EASYRSA/openssl-easyrsa.cnf"
-    cache: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 <5 MB
+            en: <5 MB install
+        growth:
+          desc:
+            cn: PKI 目录 ($EASYRSA_PKI) 随签发证书量线性增长，无上限（除磁盘空间）
+            en: $EASYRSA_PKI grows linearly with issued certs; bounded only by available disk
+      paths:
+        data:
+          - "$EASYRSA_PKI"
+        config:
+          - "$EASYRSA/vars"
+          - "$EASYRSA/openssl-easyrsa.cnf"
+        cache: []
 
-  mem:
-    min:
-      estimate: 30 MB
-      desc:
-        cn: 空闲时 <30 MB（CLI 解析 + 配置加载）
-        en: <30 MB idle (CLI parsing + config load)
-    max:
-      estimate: 60 MB
-      desc:
-        cn: 4096-bit 密钥生成时短时尖峰
-        en: Brief spike during 4096-bit key generation
-    avg:
-      estimate: 30 MB
-      desc:
-        cn: 日常使用（签发/撤销证书）<30 MB
-        en: <30 MB typical (issue/revoke certs)
+    memory:
+      idle:
+        rating: 2
+        desc:
+          cn: 空闲时 <30 MB（CLI 解析 + 配置加载）
+          en: <30 MB idle (CLI parsing + config load)
+      peak:
+        rating: 3
+        desc:
+          cn: 4096-bit 密钥生成时短时尖峰
+          en: Brief spike during 4096-bit key generation
 
-  cpu:
-    type:
-      compute: yes
-      io: no
-    processes: 1
-    peak:
-      estimate: "≈ openssl genrsa 4096"
-      desc:
-        cn: 4096-bit build-ca / genrsa 时占满单核数秒至数十秒
-        en: Saturates one core for seconds-to-tens-of-seconds during 4096-bit build-ca / genrsa
-    baseline:
-      estimate: "≈ ls -l"
-      desc:
-        cn: 日常使用（签发/撤销证书）几乎不占 CPU
-        en: Near-zero CPU under typical use (issue/revoke certs)
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 日常使用（签发/撤销证书）几乎不占 CPU
+          en: Near-zero CPU under typical use (issue/revoke certs)
+      peak:
+        rating: 7
+        desc:
+          cn: 4096-bit build-ca / genrsa 时占满单核数秒至数十秒
+          en: Saturates one core for seconds-to-tens-of-seconds during 4096-bit build-ca / genrsa
