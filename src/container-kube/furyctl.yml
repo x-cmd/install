@@ -25,3 +25,53 @@ rule:
     reference: https://github.com/sighupio/asdf-furyctl?tab=readme-ov-file#install
 binlist:
 - furyctl
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # k8s API
+    filesystem:
+      read:
+        desc:
+          cn: 读取 furyctl.yaml 配置
+          en: Reads furyctl.yaml config
+        sensitive:
+          - "furyctl.yaml"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 3
+        desc:
+          cn: 安装 ~50 MB
+          en: ~50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 100 MB
+        desc:
+          cn: ~100 MB
+          en: ~100 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 集群 provision 时短暂占用
+          en: Brief spike on cluster provision

@@ -65,3 +65,62 @@ rule:
     reference: https://docs.sigstore.dev/system_config/installation/#nixos
 binlist:
 - cosign
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # OIDC, Rekor, registry
+    filesystem:
+      read:
+        desc:
+          cn: 读取 ~/.docker/config.json, ~/.cosign
+          en: Reads ~/.docker/config.json, ~/.cosign
+        sensitive:
+          - "$HOME/.docker/config.json"
+          - "$HOME/.cosign/cosign.key"
+      write:
+        desc:
+          cn: 写入 ~/.cosign, ~/.local/share/cosign
+          en: Writes ~/.cosign, ~/.local/share/cosign
+        sensitive:
+          - "$HOME/.cosign/cosign.key"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 2
+          desc:
+            cn: 安装 ~30 MB
+            en: ~30 MB install
+      paths:
+        data:
+          - "$HOME/.local/share/cosign"
+        config:
+          - "$HOME/.cosign"
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: ~30 MB
+          en: ~30 MB
+      peak:
+        estimate: 80 MB
+        desc:
+          cn: ~80 MB
+          en: ~80 MB
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 4
+        desc:
+          cn: 签名验证时短暂占用
+          en: Brief spike on signature verification

@@ -21,3 +21,48 @@ rule:
 binlist:
 - Hack-Nerd-Font
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: library
+    network:
+      local: false
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 提供字体文件
+          en: Provides font files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 2
+          desc:
+            cn: 字体 ~30 MB
+            en: ~30 MB fonts
+      paths:
+        data:
+          - "$HOME/.local/share/fonts/Hack"
+        config: []
+    memory:
+      idle:
+        estimate: 0
+        desc:
+          cn: 字体不消耗运行时内存
+          en: Fonts don't consume runtime memory
+    cpu:
+      workload: [compute]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 0
+        desc:
+          cn: 字体加载不占 CPU
+          en: Font loading uses no CPU

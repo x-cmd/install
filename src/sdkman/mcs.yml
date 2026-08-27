@@ -30,3 +30,48 @@ rule:
     reference: https://github.com/mthmulders/mcs?tab=readme-ov-file#installation
 binlist:
 - mcs
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # Minecraft server status
+    filesystem:
+      read: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 2
+          desc:
+            cn: 安装 ~30 MB JVM
+            en: ~30 MB JVM install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: ~80 MB JVM
+          en: ~80 MB JVM
+      peak:
+        estimate: 150 MB
+        desc:
+          cn: ~150 MB
+          en: ~150 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 3
+        desc:
+          cn: 状态查询时短暂占用
+          en: Brief spike on status query

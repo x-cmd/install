@@ -29,3 +29,60 @@ rule:
 binlist:
 - adguardian
 license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   # fetch blocklists
+    filesystem:
+      read:
+        desc:
+          cn: 读取 hosts 文件
+          en: Reads hosts file
+        sensitive:
+          - "/etc/hosts"
+      write:
+        desc:
+          cn: 写入 /etc/hosts (添加黑名单条目)
+          en: Writes /etc/hosts (adds blocklist entries)
+        sensitive:
+          - "/etc/hosts"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 ~5 MB
+            en: ~5 MB install
+      paths:
+        data: []
+        config:
+          - "/etc/hosts"
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: ~20 MB
+          en: ~20 MB
+      peak:
+        estimate: 50 MB
+        desc:
+          cn: ~50 MB
+          en: ~50 MB
+    cpu:
+      workload: [io]
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 几乎为零
+          en: Near-zero
+      peak:
+        rating: 2
+        desc:
+          cn: blocklist 更新时短暂占用
+          en: Brief spike on blocklist update
