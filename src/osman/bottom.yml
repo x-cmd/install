@@ -72,8 +72,8 @@ footprint:
     runtime:
       type: tui
     network:
-      local: yes
-      internet: no
+      local: true
+      internet: false
     filesystem:
       read:
         desc:
@@ -97,7 +97,6 @@ footprint:
         data: []
         config:
           - "$HOME/.config/bottom/bottom.toml"
-        cache: []
     memory:
       idle:
         rating: 2

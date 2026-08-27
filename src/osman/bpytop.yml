@@ -71,8 +71,8 @@ footprint:
     runtime:
       type: tui
     network:
-      local: yes
-      internet: no
+      local: true
+      internet: false
     filesystem:
       read:
         desc:
@@ -96,7 +96,6 @@ footprint:
         data: []
         config:
           - "$HOME/.config/bpytop.cfg"
-        cache: []
     memory:
       idle:
         rating: 3

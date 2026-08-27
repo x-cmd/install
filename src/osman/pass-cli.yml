@@ -18,8 +18,8 @@ footprint:
     runtime:
       type: [cli, tui]
     network:
-      local: yes       # 读本地密码库
-      internet: yes     # 可选同步到 git remote
+      local: true       # 读本地密码库
+      internet: true     # 可选同步到 git remote
     filesystem:
       read:
         desc:
@@ -50,7 +50,6 @@ footprint:
         data:
           - "$HOME/.pass-cli"
         config: []
-        cache: []
     memory:
       idle:
         rating: 2

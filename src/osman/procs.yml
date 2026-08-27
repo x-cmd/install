@@ -64,8 +64,8 @@ footprint:
     runtime:
       type: cli
     network:
-      local: yes
-      internet: no
+      local: true
+      internet: false
     filesystem:
       read:
         desc:
@@ -91,7 +91,6 @@ footprint:
         data: []
         config:
           - "$HOME/.config/procs/config.toml"
-        cache: []
     memory:
       idle:
         rating: 2

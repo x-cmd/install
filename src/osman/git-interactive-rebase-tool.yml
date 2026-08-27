@@ -18,8 +18,8 @@ footprint:
     runtime:
       type: tui
     network:
-      local: yes
-      internet: no
+      local: true
+      internet: false
     filesystem:
       read:
         desc:
@@ -40,15 +40,10 @@ footprint:
           desc:
             cn: 安装 ~5 MB
             en: ~5 MB install
-        growth:
-          desc:
-            cn: 几乎不增长（修改 .git/ 内文件）
-            en: Minimal growth (modifies .git/ files)
-      paths:
+        paths:
         data:
           - ".git/"
         config: []
-        cache: []
     memory:
       idle:
         rating: 2

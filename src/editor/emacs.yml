@@ -62,8 +62,8 @@ footprint:
     runtime:
       type: [cli, tui, gui]
     network:
-      local: yes
-      internet: yes        # package fetching
+      local: true
+      internet: true        # package fetching
     filesystem:
       read:
         desc:
@@ -97,7 +97,6 @@ footprint:
         config:
           - "~/.emacs"
           - "~/.emacs.d/init.el"
-        cache: []
     memory:
       idle:
         rating: 3

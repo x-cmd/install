@@ -61,8 +61,8 @@ footprint:
     runtime:
       type: [cli, oneshot]      # `certbot` 交互式 CLI；`certbot renew` oneshot
     network:
-      local: yes
-      internet: yes              # ACME 协议
+      local: true
+      internet: true              # ACME 协议
     filesystem:
       read:
         desc:
@@ -93,7 +93,6 @@ footprint:
           - "/etc/letsencrypt/"
           - "/var/log/letsencrypt/"
         config: []
-        cache: []
     memory:
       idle:
         rating: 2

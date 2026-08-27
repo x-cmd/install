@@ -52,8 +52,8 @@ footprint:
       type: cli
 
     network:
-      local: no
-      internet: no
+      local: false
+      internet: false
 
     filesystem:
       read:
@@ -91,7 +91,6 @@ footprint:
         config:
           - "$EASYRSA/vars"
           - "$EASYRSA/openssl-easyrsa.cnf"
-        cache: []
 
     memory:
       idle:
