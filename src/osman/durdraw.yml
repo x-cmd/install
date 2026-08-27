@@ -6,10 +6,24 @@ desc:
   en: 'Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes'
 x:
   source: https://github.com/durdraw/durdraw
-  eget: https://github.com/durdraw/durdraw
 rule:
-  /eget:
-    cmd: x eget durdraw/durdraw
-    reference: https://github.com/durdraw/durdraw
+  /pip:
+    cmd: pip install git+https://github.com/durdraw/durdraw
+    reference: https://github.com/durdraw/durdraw#via-pip
+    dsnap: https://github.com/durdraw/durdraw/archive/refs/heads/master.zip
+  darwin/brew:
+    cmd: brew install durdraw
+    reference: https://formulae.brew.sh/formula/durdraw
+  debian/apt:
+    cmd: sudo apt install durdraw
+    reference: https://command-not-found.com/durdraw
+    dsnap: durdraw
+  ubuntu/apt:
+    cmd: sudo apt install durdraw
+    reference: https://command-not-found.com/durdraw
+    dsnap: durdraw
+  arch/yay:
+    cmd: yay -S durdraw
+    reference: https://aur.archlinux.org/packages/durdraw
 binlist:
   - 'durdraw'
