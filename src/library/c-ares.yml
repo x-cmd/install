@@ -19,3 +19,42 @@ rule:
     reference: https://formulae.brew.sh/formula/c-ares#default
 binlist:
 - c-ares
+
+footprint:
+  behavior:
+    runtime:
+      type: library
+    network:
+      local: false
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 2 MB
+          rating: 1
+          desc:
+            cn: 安装 2 MB
+            en: 2 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 10 MB
+        desc:
+          cn: 10 MB
+          en: 10 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
