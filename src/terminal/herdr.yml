@@ -1,18 +1,21 @@
 lang: Rust
-homepage: https://github.com/ogulcancelik/herdr
+homepage: https://github.com/herdrdev/herdr
+license: Apache-2.0
 desc:
   cn: 驻留于终端的 Agent 多路复用器
   en: agent multiplexer that lives in your terminal.
 x:
-  source: https://github.com/ogulcancelik/herdr
-  eget: https://github.com/ogulcancelik/herdr
+  source: https://github.com/herdrdev/herdr
+  eget: https://github.com/herdrdev/herdr
 rule:
   /eget:
-    cmd: x eget ogulcancelik/herdr
-    reference: https://github.com/ogulcancelik/herdr
+    cmd: x eget use herdrdev/herdr
+    reference: https://github.com/herdrdev/herdr/releases
+  /curl:
+    cmd: curl -fsSL https://herdr.dev/install.sh | sh
+    reference: https://github.com/herdrdev/herdr#install
 binlist:
-- herdr
-license: NOASSERTION
+  - herdr
 
 footprint:
   behavior:
