@@ -1,0 +1,60 @@
+# shellcheck shell=dash
+
+bundle_xcmd_install_snap_data()(
+    local tgtprefix=; tgtprefix="$(x wsroot)/.tmp/snap"
+    x:info "BEGIN ==== > bundle install snap data"
+    local binlist
+    local name_pip; local name_npm; local name_cargo; local name_go
+    local name_ubuntu_apt; local name_kali_apt; local name_debian_apt;
+    local name_dnf; local name_apk
+    (
+        x mkdirp "$tgtprefix"
+
+        local i
+        local j
+        local json_name
+
+        for i in "src/"*; do
+            for j in "$i/"*; do
+                if [ -f "$j" ] && [ "$j" != "${j%.yml}" ];then
+                    json_name="${j##*/}"
+                    json_name=${json_name%%.yml}
+                    x:info  "$j"
+                    [ -n "$(x yq eval '.rule' "$j")" ] || continue
+
+                    binlist="$(x yq -r '(.binlist // []) | join("|")' "$j")"
+                    [ -n "$binlist" ] || binlist="$json_name"
+
+                    name_pip=; name_npm=; name_cargo=; name_go=;
+                    name_ubuntu_apt=; name_kali_apt=; name_debian_apt=; name_dnf=; name_apk=;
+                    x yq eval . "$j" -o json \
+                    | {
+                        x jo env . \
+                            name_pip=.rule./pip.dsnap       \
+                            name_npm=.rule./npm.dsnap       \
+                            name_cargo=.rule./cargo.dsnap   \
+                            name_go=.rule./go.dsnap         \
+                            name_ubuntu_apt=.rule.ubuntu/apt.dsnap       \
+                            name_kali_apt=.rule.kali/apt.dsnap           \
+                            name_debian_apt=.rule.debian/apt.dsnap       \
+                            name_dnf=.rule.fedora/dnf.dsnap       \
+                            name_apk=.rule.alpine/apk.dsnap  ;
+                        [ -z "$name_pip" ] || printf "%s\t%s\n" "$name_pip" "$binlist" >> "$tgtprefix/pip.tsv"
+                        [ -z "$name_npm" ] || printf "%s\t%s\n" "$name_npm" "$binlist" >> "$tgtprefix/npm.tsv"
+                        [ -z "$name_cargo" ] || printf "%s\t%s\n" "$name_cargo" "$binlist" >> "$tgtprefix/cargo.tsv"
+                        [ -z "$name_go" ] || printf "%s\t%s\n" "$name_go" "$binlist" >> "$tgtprefix/go.tsv"
+                        [ -z "$name_dnf" ] || printf "%s\t%s\n" "$name_dnf" "$binlist" >> "$tgtprefix/fedora-dnf.tsv"
+                        [ -z "$name_apk" ] || printf "%s\t%s\n" "$name_apk" "$binlist" >> "$tgtprefix/alpine-apk.tsv"
+                        [ -z "$name_ubuntu_apt" ] || printf "%s\t%s\n" "$name_ubuntu_apt" "$binlist" >> "$tgtprefix/ubuntu-apt.tsv"
+                        [ -z "$name_kali_apt" ] ||  printf "%s\t%s\n" "$name_kali_apt" "$binlist" >> "$tgtprefix/kali-apt.tsv"
+                        [ -z "$name_debian_apt" ] ||  printf "%s\t%s\n" "$name_debian_apt" "$binlist" >> "$tgtprefix/debian-apt.tsv"
+                    }
+
+                fi
+            done
+        done
+    ) || return
+    x:info "END ==== > bundle x-cmd install snap data"
+)
+
+bundle_xcmd_install_snap_data "$@"
