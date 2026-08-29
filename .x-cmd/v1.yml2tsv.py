@@ -26,7 +26,8 @@ DEFAULT_OUTPUT = os.path.join(os.getcwd(), "all.tsv")
 COMBINED_YQ_QUERY = (
     '{"lang": (.lang // ""), "homepage": (.homepage // ""), '
     '"desc_cn": (.desc.cn // ""), "desc_en": (.desc.en // ""), '
-    '"binlist": .binlist, "rule": .rule, "license": .license, "x": .x}'
+    '"binlist": .binlist, "rule": .rule, "license": .license, "x": .x, '
+    '"footprint": .footprint}'
 )
 HEADER = ["name", "category", "lang", "source", "desc_cn", "desc_en", "binlist", "rule", "other"]
 
@@ -76,7 +77,7 @@ def process_file(file_path):
     rule = json.dumps(rule_raw, separators=(',', ':')) if rule_raw else ""
 
     other_obj = {}
-    for k in ("homepage", "license", "x"):
+    for k in ("homepage", "license", "x", "footprint"):
         v = data.get(k)
         if v is not None and v != "":
             other_obj[k] = v
