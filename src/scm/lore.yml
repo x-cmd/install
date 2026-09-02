@@ -7,7 +7,11 @@ desc:
   en: Lore is an open source version control system designed for unprecedented scalability of both data and teams.
 x:
   source: https://github.com/epicgames/lore
+  eget: https://github.com/epicgames/lore
 rule:
+  /eget:
+    cmd: x eget epicgames/lore
+    reference: https://github.com/epicgames/lore/releases
   darwin/curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/EpicGames/lore/main/scripts/install.sh | bash -s -- --demo
     reference: https://github.com/epicgames/lore
@@ -17,3 +21,50 @@ rule:
   win/powershell:
     cmd: x pwsh '$env:LORE_DEMO=1; irm https://raw.githubusercontent.com/EpicGames/lore/main/scripts/install.ps1 | iex'
     reference: https://github.com/epicgames/lore
+binlist:
+  - lore
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   
+    filesystem:
+      read:
+        desc:
+          cn: 读取 Lore 仓库与配置文件
+          en: Reads Lore repository and config files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 Lore 仓库 working copy
+          en: Writes Lore repository working copy
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

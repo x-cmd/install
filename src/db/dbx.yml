@@ -24,3 +24,49 @@ rule:
     reference: https://github.com/t8y2/dbx#install
 binlist:
   - dbx
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true   
+    filesystem:
+      read:
+        desc:
+          cn: 读取数据库连接配置与查询文件
+          en: Reads database connection config and query files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入本地缓存与 MCP 服务状态
+          en: Writes local cache and MCP server state
+        sensitive:
+          - "$HOME/.config/dbx"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 80 MB
+          en: 80 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

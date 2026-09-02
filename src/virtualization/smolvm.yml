@@ -8,11 +8,59 @@ desc:
 
 x:
   source: https://github.com/smol-machines/smolvm
-
+  eget: https://github.com/smol-machines/smolvm
 rule:
-  (linux|darwin)/curl:
+  /eget:
+    cmd: x eget smol-machines/smolvm
+    reference: https://github.com/smol-machines/smolvm/releases
+  /curl:
     cmd: curl -sSL https://smolmachines.com/install.sh | bash
     reference: https://github.com/smol-machines/smolvm?tab=readme-ov-file#install
 
 binlist:
   - smolvm
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取镜像与配置文件
+          en: Reads images and config files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 VM 镜像与运行时状态
+          en: Writes VM images and runtime state
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 15 MB
+          rating: 1
+          desc:
+            cn: 安装 15 MB
+            en: 15 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 80 MB
+          en: 80 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
