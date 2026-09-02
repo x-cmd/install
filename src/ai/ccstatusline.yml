@@ -1,0 +1,58 @@
+lang: TypeScript
+homepage: https://github.com/sirmalloc/ccstatusline
+license: mit
+desc:
+  cn: 高度可自定义的 Claude Code CLI 状态行格式化器，支持主题、Powerline 分隔符与渐变色，可展示模型、Git 分支、Token 用量、缓存命中率等指标
+  en: A highly customizable statusline formatter for Claude Code CLI with Powerline support, themes, and widgets for model info, git branch, token usage, cache hit rate, and more.
+x:
+  source: https://github.com/sirmalloc/ccstatusline
+rule:
+  /npm:
+    cmd: npm install -g ccstatusline
+    reference: https://www.npmjs.com/package/ccstatusline
+    dsnap: 'ccstatusline'
+  /bun:
+    cmd: bun add -g ccstatusline
+    reference: https://github.com/sirmalloc/ccstatusline#-quick-start
+binlist:
+  - ccstatusline
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件与 Claude Code 状态上下文
+          en: Reads config files and Claude Code status context
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 5 MB
+            en: 5 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: 20 MB
+          en: 20 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

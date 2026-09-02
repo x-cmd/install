@@ -1,0 +1,59 @@
+lang: TypeScript
+homepage: https://github.com/PrimeIntellect-ai/prime-agent
+license: MIT
+desc:
+  cn: Prime Agent 是一款自进化的 RLM 编程与研究代理，基于持久化 IPython 控制环境与可持续改进的 harness，专为长任务与后台运行而设计。
+  en: Prime Agent is a self-improving RLM coding and research agent with a persistent IPython control environment and a continually-refined harness, built for long-running and background work.
+x:
+  source: https://github.com/PrimeIntellect-ai/prime-agent
+rule:
+  /curl:
+    cmd: curl -fsSL https://app.primeintellect.ai/prime-agent/install.sh | sh
+    reference: https://github.com/PrimeIntellect-ai/prime-agent#getting-started
+binlist:
+  - prime-agent
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件与持久化 IPython 状态
+          en: Reads config files and persistent IPython state
+        sensitive: []
+      write:
+        desc:
+          cn: 写入持久化 IPython 状态与任务产物
+          en: Writes persistent IPython state and task artifacts
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 1
+          desc:
+            cn: 安装 30 MB
+            en: 30 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: 200 MB（持久化运行时）
+          en: 200 MB (persistent runtime)
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中
+          en: Medium

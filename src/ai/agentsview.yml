@@ -1,0 +1,64 @@
+lang: Go
+homepage: https://github.com/kenn-io/agentsview
+license: MIT
+desc:
+  cn: 浏览、搜索并追踪各类 AI 编程 Agent 的会话与成本，所有数据保存在本地
+  en: Browse, search, and track sessions and costs across all your AI coding agents, locally.
+x:
+  source: https://github.com/kenn-io/agentsview
+  eget: https://github.com/kenn-io/agentsview
+rule:
+  /eget:
+    cmd: x eget use kenn-io/agentsview
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://agentsview.io/install.sh | bash
+    reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
+  darwin/brew:
+    cmd: brew install --cask agentsview
+    reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
+  win/powershell:
+    cmd: x pwsh 'irm https://agentsview.io/install.ps1 | iex'
+    reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
+binlist:
+  - agentsview
+
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取本地代理历史记录
+          en: Reads local agent session histories
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

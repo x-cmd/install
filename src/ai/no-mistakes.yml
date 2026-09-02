@@ -1,0 +1,69 @@
+lang: Go
+homepage: https://github.com/kunchenguid/no-mistakes
+license: MIT
+desc:
+  cn: 本地 git 代理，把 git push no-mistakes 拦在 disposable worktree 中，走通 review → test → docs → lint → push → PR → CI 的 AI 校验流水线；所有 gate 全绿后才会把分支转发到真实 remote 并自动开干净的 PR。
+  en: Local git proxy that sits in front of your real remote. Pushing to no-mistakes spins up a disposable worktree, runs an AI-driven validation pipeline (review → test → docs → lint → push → PR → CI), and only forwards the branch to the configured push target — and opens a clean PR — after every gate is green.
+x:
+  source: https://github.com/kunchenguid/no-mistakes
+  eget: https://github.com/kunchenguid/no-mistakes
+rule:
+  /eget:
+    cmd: x eget use kunchenguid/no-mistakes
+    reference: https://x-cmd.com/mod/eget
+  (linux|darwin)/curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/kunchenguid/no-mistakes/main/docs/install.sh | sh
+    reference: https://github.com/kunchenguid/no-mistakes#install
+  (win|wsl2)/powershell:
+    cmd: x pwsh 'irm https://raw.githubusercontent.com/kunchenguid/no-mistakes/main/docs/install.ps1 | iex'
+    reference: https://github.com/kunchenguid/no-mistakes#install
+  /go:
+    cmd: go install github.com/kunchenguid/no-mistakes@latest
+    reference: https://github.com/kunchenguid/no-mistakes#install
+binlist:
+  - no-mistakes
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+      write:
+        desc:
+          cn: 在 disposable worktree 中写入校验结果
+          en: Writes validation results in disposable worktrees
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB
+          en: 30 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

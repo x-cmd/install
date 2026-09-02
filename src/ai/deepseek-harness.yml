@@ -1,0 +1,57 @@
+lang: TypeScript
+homepage: https://github.com/deepseek-ai/deepseek-harness
+license: MIT
+desc:
+  cn: DeepSeek 官方开源的 Agent Harness（dsh），采用"一切皆插件"的架构并由 Cordis 驱动，统一管理 profile 启动、插件加载与 Web UI，可通过 npx 一键拉起本地 Web 界面
+  en: DeepSeek's open-source agent harness (dsh) with an "everything is a plugin" architecture powered by Cordis. Unifies profile boot, plugin management, and a browser UI that you can launch locally via npx.
+x:
+  source: https://github.com/deepseek-ai/deepseek-harness
+rule:
+  /npm:
+    cmd: npm install -g @deepseek-ai/dsh
+    reference: https://www.npmjs.com/package/@deepseek-ai/dsh
+  /npx:
+    cmd: npx @deepseek-ai/dsh web
+    reference: https://github.com/deepseek-ai/deepseek-harness#run
+binlist:
+  - dsh
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件与插件清单
+          en: Reads config files and plugin manifests
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 1
+          desc:
+            cn: 安装 30 MB
+            en: 30 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 80 MB
+          en: 80 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

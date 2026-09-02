@@ -1,0 +1,62 @@
+lang: Go
+homepage: https://github.com/chenhg5/cc-connect
+license: MIT
+desc:
+  cn: 本地 AI 编码代理（Claude Code / Cursor / Gemini CLI / Codex / Kimi CLI / OpenCode 等 10+ 种）到即时通讯平台（飞书、钉钉、Slack、Telegram、Discord、企微、个人微信、QQ、LINE 等 13 种）的桥接服务，可通过聊天远程驱动本地代理执行代码审查、调试与自动化任务，大多数平台无需公网 IP
+  en: Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Kimi CLI, OpenCode, and 10+ more) to chat platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, WeChat Work, personal WeChat, QQ, LINE, Matrix, and 13 total). Drive your local agents remotely from chat for code review, debugging, and automation — most platforms need no public IP.
+x:
+  source: https://github.com/chenhg5/cc-connect
+  eget: https://github.com/chenhg5/cc-connect
+rule:
+  /eget:
+    cmd: x eget use chenhg5/cc-connect
+    reference: https://github.com/chenhg5/cc-connect/releases
+  /npm:
+    cmd: npm install -g cc-connect
+    reference: https://github.com/chenhg5/cc-connect#3%EF%B8%8F%E2%83%A3-install-cc-connect
+    dsnap: cc-connect
+  darwin/brew:
+    cmd: brew install cc-connect
+    reference: https://github.com/chenhg5/cc-connect#3%EF%B8%8F%E2%83%A3-install-cc-connect
+binlist:
+  - cc-connect
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

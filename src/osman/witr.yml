@@ -1,0 +1,83 @@
+lang: Go
+homepage: https://github.com/pranshuparmar/witr
+license: Apache-2.0
+desc:
+  cn: 解释进程为何在运行——追溯任意进程、端口、容器或文件的来源（CLI 与交互式 TUI）
+  en: Why is this running? Trace any process, port, container, or file back to what started it (CLI and interactive TUI)
+x:
+  source: https://github.com/pranshuparmar/witr
+  eget: https://github.com/pranshuparmar/witr
+rule:
+  /eget:
+    cmd: x eget use pranshuparmar/witr
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/pranshuparmar/witr/main/install.sh | bash
+    reference: https://github.com/pranshuparmar/witr#21-quick-install
+  /go:
+    cmd: go install github.com/pranshuparmar/witr/cmd/witr@latest
+    reference: https://github.com/pranshuparmar/witr#23-source--manual-installation
+    dsnap: witr
+  darwin/brew:
+    cmd: brew install witr
+    reference: https://formulae.brew.sh/formula/witr
+  (debian|ubuntu)/apt:
+    cmd: sudo apt install witr
+    reference: https://github.com/pranshuparmar/witr#22-package-managers
+  arch/yay:
+    cmd: yay -S witr-bin
+    reference: https://aur.archlinux.org/packages/witr-bin
+  arch/paru:
+    cmd: paru -S witr-bin
+    reference: https://aur.archlinux.org/packages/witr-bin
+  /conda:
+    cmd: conda install -c conda-forge witr
+    reference: https://github.com/pranshuparmar/witr#22-package-managers
+  /pixi:
+    cmd: pixi global install witr
+    reference: https://github.com/pranshuparmar/witr#22-package-managers
+  win/winget:
+    cmd: winget install -e --id PranshuParmar.witr
+    reference: https://github.com/pranshuparmar/witr#22-package-managers
+binlist:
+  - witr
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取 /proc、进程与容器元数据
+          en: Reads /proc, process and container metadata
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 安装 5 MB
+            en: 5 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 20 MB
+        desc:
+          cn: 20 MB
+          en: 20 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

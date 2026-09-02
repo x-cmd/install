@@ -1,0 +1,73 @@
+lang: Python
+homepage: https://github.com/microsoft/apm
+license: MIT
+desc:
+  cn: APM（Agent Package Manager）是面向 AI 编码代理的社区驱动依赖管理器，通过一份 apm.yml 清单即可在 Copilot、Claude Code、Cursor、OpenCode、Codex、Gemini、Windsurf、Kiro 等客户端之间声明、同步并治理指令、技能、插件与 MCP 服务器。
+  en: APM (Agent Package Manager) is an open-source, community-driven dependency manager for AI coding agents. Declare agentic dependencies once in apm.yml and reproduce a fully configured setup across GitHub Copilot, Claude Code, Cursor, OpenCode, Codex, Gemini, Windsurf, Kiro, and more — with transitive resolution, a lockfile, policy enforcement, and SBOM export.
+x:
+  source: https://github.com/microsoft/apm
+rule:
+  /curl:
+    cmd: curl -sSL https://aka.ms/apm-unix | sh
+    reference: https://github.com/microsoft/apm#linux--macos
+  darwin/brew:
+    cmd: brew install microsoft/apm/apm
+    reference: https://github.com/microsoft/apm#linux--macos
+  /pip:
+    cmd: pip install apm-cli
+    reference: https://github.com/microsoft/apm#linux--macos
+    dsnap: apm-cli
+  /pipx:
+    cmd: pipx install apm-cli
+    reference: https://github.com/microsoft/apm
+    dsnap: apm-cli
+  win/powershell:
+    cmd: x pwsh 'irm https://aka.ms/apm-windows | iex'
+    reference: https://github.com/microsoft/apm#windows
+binlist:
+  - apm
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 AI 代理配置文件与 apm.yml 清单
+          en: Reads AI agent config files and apm.yml manifests
+        sensitive: []
+      write:
+        desc:
+          cn: 在多个代理配置目录下写入依赖与 MCP 服务器配置
+          en: Writes dependencies and MCP server configs into agent config dirs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB
+          en: 30 MB
+    cpu:
+      workload: ['io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

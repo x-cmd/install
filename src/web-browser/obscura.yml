@@ -1,0 +1,58 @@
+lang: Rust
+homepage: https://github.com/h4ckf0r0day/obscura
+license: Apache-2.0
+desc:
+  cn: Obscura 是一款面向 AI Agent 与网络爬虫的开源无头浏览器引擎，基于 Rust 与嵌入式 V8 实现，支持 CDP / Puppeteer / Playwright，内置反指纹与追踪拦截。
+  en: Obscura is an open-source headless browser engine for AI agents and web scraping, built in Rust with embedded V8, supporting CDP / Puppeteer / Playwright, with built-in anti-fingerprinting and tracker blocking.
+x:
+  source: https://github.com/h4ckf0r0day/obscura
+  eget: https://github.com/h4ckf0r0day/obscura
+rule:
+  /eget:
+    cmd: x eget use h4ckf0r0day/obscura
+    reference: https://x-cmd.com/mod/eget
+  arch/yay:
+    cmd: yay -S obscura-browser
+    reference: https://aur.archlinux.org/packages/obscura-browser
+binlist:
+  - obscura
+
+footprint:
+  behavior:
+    runtime:
+      type: library
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 1
+          desc:
+            cn: 安装 50 MB
+            en: 50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 150 MB
+        desc:
+          cn: 150 MB
+          en: 150 MB
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中
+          en: Medium

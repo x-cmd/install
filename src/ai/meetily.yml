@@ -1,0 +1,61 @@
+lang: TypeScript
+homepage: https://github.com/Zackriya-Solutions/meetily
+license: MIT
+desc:
+  cn: 以隐私为先的本地 AI 会议助手，基于 Rust 构建，集成 4x 更快的 Parakeet/Whisper 实时转写、说话人分离与 Ollama 本地摘要，macOS / Windows 一键安装，数据全程不离本机
+  en: Privacy-first AI meeting assistant built with Rust. Local-only processing with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. One-click installer for macOS and Windows; Linux builds from source. No cloud required.
+x:
+  source: https://github.com/Zackriya-Solutions/meetily
+rule:
+  /git:
+    cmd: |
+      git clone https://github.com/Zackriya-Solutions/meeting-minutes
+      cd meeting-minutes/frontend
+      pnpm install
+      ./build-gpu.sh
+    reference: https://github.com/Zackriya-Solutions/meetily#installation
+
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取本地音频与配置文件
+          en: Reads local audio and config files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入本地会议转写与摘要
+          en: Writes local meeting transcripts and summaries
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 1
+          desc:
+            cn: 安装 50 MB（不含模型）
+            en: 50 MB install (models not included)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: 200 MB（含转写模型）
+          en: 200 MB (transcription models included)
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 4
+        desc:
+          cn: 高（实时转写时）
+          en: High (during live transcription)

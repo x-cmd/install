@@ -1,0 +1,70 @@
+lang: Rust
+homepage: https://github.com/1jehuang/jcode
+license: MIT
+desc:
+  cn: 最省内存且最智能的 AI 编码代理终端，支持 Claude、OpenAI、Gemini、Copilot、Azure、MCP、TUI 等
+  en: The most RAM efficient and intelligent AI coding agent for the terminal, supporting Claude, OpenAI, Gemini, Copilot, Azure, MCP and TUI.
+x:
+  source: https://github.com/1jehuang/jcode
+  eget: https://github.com/1jehuang/jcode
+rule:
+  /eget:
+    cmd: x eget use 1jehuang/jcode
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use jcode
+    reference: https://x-cmd.com/install/
+  /curl:
+    cmd: curl -fsSL https://jcode.sh/install | bash
+    reference: https://jcode.sh
+  darwin/brew:
+    cmd: brew tap 1jehuang/jcode; brew install jcode
+    reference: https://github.com/1jehuang/jcode#macos-via-homebrew
+  /cargo:
+    cmd: cargo install --git https://github.com/1jehuang/jcode
+    reference: https://github.com/1jehuang/jcode#from-source-all-platforms
+  win/(pwsh|powershell):
+    cmd: x pwsh 'irm https://jcode.sh/install.ps1 | iex'
+    reference: https://jcode.sh
+binlist:
+  - jcode
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible

@@ -1,0 +1,62 @@
+lang: TypeScript
+homepage: https://github.com/stablyai/orca
+license: MIT
+desc:
+  cn: Orca 是面向多 AI 编码代理的并行开发环境（ADE），可在独立 worktree 中同时运行 Codex、Claude Code、OpenCode、Pi 等 CLI 代理，提供桌面、移动端与 VPS 多端支持。
+  en: Orca is the ADE for working with a fleet of parallel agents. Run Codex, ClaudeCode, OpenCode, or Pi side-by-side, each in its own worktree, tracked in one place. Available on desktop, mobile and VPS.
+x:
+  source: https://github.com/stablyai/orca
+rule:
+  darwin/brew:
+    cmd: brew install --cask stablyai/orca/orca
+    reference: https://github.com/stablyai/orca#desktop--macos-windows-linux
+  arch/yay:
+    cmd: yay -S stably-orca-bin
+    reference: https://github.com/stablyai/orca#desktop--macos-windows-linux
+binlist:
+  - orca
+
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件与 worktree 中的代理会话
+          en: Reads config files and agent sessions in worktrees
+        sensitive: []
+      write:
+        desc:
+          cn: 在独立 worktree 中写入代理输出
+          en: Writes agent output to dedicated worktrees
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 1
+          desc:
+            cn: 安装 50 MB
+            en: 50 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: 200 MB
+          en: 200 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中（并行代理运行时）
+          en: Medium (with parallel agents)

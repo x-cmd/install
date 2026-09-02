@@ -1,0 +1,63 @@
+lang: Rust
+homepage: https://github.com/ctxrs/ctx
+license: apache-2.0
+desc:
+  cn: 开源的本地编码代理历史检索 CLI，基于 Rust 与本地 SQLite 索引，自动发现并导入 Claude Code、Codex、Cursor、Pi 等四十余种代理的本地会话，供当前与未来的代理以 50 倍更少的 token 复用历史决策、命令与失败记录
+  en: Open-source CLI for fast local search across past coding-agent sessions. Written in Rust with a local SQLite index, ctx auto-discovers and imports histories from Claude Code, Codex, Cursor, Pi, and 40+ other agents so current and future agents can reuse prior decisions, commands, and failures at ~50x fewer tokens than raw transcript search.
+x:
+  source: https://github.com/ctxrs/ctx
+  eget: https://github.com/ctxrs/ctx
+rule:
+  /eget:
+    cmd: x eget use ctxrs/ctx
+    reference: https://github.com/ctxrs/ctx/releases
+  /curl:
+    cmd: curl -fsSL https://ctx.rs/install | sh
+    reference: https://github.com/ctxrs/ctx#install-and-set-up-ctx
+binlist:
+  - ctx
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取多个代理的本地会话历史
+          en: Reads local session histories from many coding agents
+        sensitive: []
+      write:
+        desc:
+          cn: 写入本地 SQLite 索引
+          en: Writes a local SQLite index
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 50 MB
+          en: 50 MB
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
