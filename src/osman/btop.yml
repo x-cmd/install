@@ -28,8 +28,11 @@ rule:
   arch/yay:
     cmd: yay -S btop-git
     reference: https://aur.archlinux.org/packages/btop-git
+  ubuntu/apt:
+    cmd: apt install -y btop
+    reference: https://packages.ubuntu.com/resolute/btop
 binlist:
-- btop
+  - btop
 
 footprint:
   behavior:
