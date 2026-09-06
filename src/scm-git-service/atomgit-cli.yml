@@ -1,0 +1,36 @@
+lang: Go
+homepage: https://atomgit.com/hust-open-atom-club/atomgit-cli
+license: MulanPSL-2.0
+desc:
+  cn: AtomGit 命令行工具，用于管理仓库、议题、拉取请求和发布
+  en: Command-line interface for AtomGit to manage repositories, issues, pull requests, and releases
+x:
+  source: https://atomgit.com/hust-open-atom-club/atomgit-cli
+rule:
+  /npm:
+    cmd: npm install -g @hust-open-atom-club/atomgit-cli
+    reference: https://atomgit.com/hust-open-atom-club/atomgit-cli/blob/main/docs/installation.md
+    dsnap: '@hust-open-atom-club/atomgit-cli'
+  (darwin|linux)/brew:
+    cmd: brew install atomgit-cli
+    reference: https://formulae.brew.sh/formula/atomgit-cli
+  (win|wsl2)/winget:
+    cmd: x winget install --id HUSTOpenAtomClub.AtomGitCLI
+    reference: https://atomgit.com/hust-open-atom-club/atomgit-cli/blob/main/docs/installation.md
+  (win|wsl2)/scoop:
+    cmd: |
+      x scoop bucket add hust-open-atom-club https://github.com/hust-open-atom-club/ScoopBucket
+      x scoop install hust-open-atom-club/atomgit-cli
+    reference: https://github.com/hust-open-atom-club/ScoopBucket/blob/master/bucket/atomgit-cli.json
+  /nix:
+    cmd: nix profile install github:NixOS/nixpkgs/nixos-unstable#atomgit-cli
+    reference: https://atomgit.com/hust-open-atom-club/atomgit-cli/blob/main/docs/installation.md
+  arch/yay:
+    cmd: yay -S atomgit-cli-bin
+    reference: https://aur.archlinux.org/packages/atomgit-cli-bin
+  /go:
+    cmd: go install atomgit.com/hust-open-atom-club/atomgit-cli/cmd/ag@latest
+    reference: https://atomgit.com/hust-open-atom-club/atomgit-cli/blob/main/docs/installation.md
+    dsnap: atomgit.com/hust-open-atom-club/atomgit-cli/cmd/ag
+binlist:
+  - ag
