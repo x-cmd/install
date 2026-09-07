@@ -1,0 +1,68 @@
+lang: Rust
+homepage: https://github.com/ekzhang/sshx
+license: MIT
+desc:
+  cn: 基于 Web 的安全协作终端共享器，一条命令即可把终端实时分享给任意多个用户
+  en: A fast, collaborative live terminal sharing tool over the web with end-to-end encryption
+x:
+  source: https://github.com/ekzhang/sshx
+  eget: https://github.com/ekzhang/sshx
+rule:
+  /eget:
+    cmd: x eget ekzhang/sshx
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install sshx
+    reference: https://formulae.brew.sh/formula/sshx#default
+  linux/brew:
+    cmd: brew install sshx
+    reference: https://formulae.brew.sh/formula/sshx#default
+  /cargo:
+    cmd: cargo install --git https://github.com/ekzhang/sshx --bin sshx
+    reference: https://github.com/ekzhang/sshx?tab=readme-ov-file#from-sources
+    dsnap: https://github.com/ekzhang/sshx
+  (darwin|linux)/curl:
+    cmd: curl -sSf https://sshx.io/get | sh
+    reference: https://github.com/ekzhang/sshx?tab=readme-ov-file#one-line-installer
+binlist:
+  - sshx
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 安装 10 MB
+            en: 10 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB
+          en: 30 MB
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
