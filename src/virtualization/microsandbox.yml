@@ -1,0 +1,82 @@
+lang: Rust
+homepage: https://github.com/superradcompany/microsandbox
+license: Apache-2.0
+
+desc:
+  cn: 简单、快速、本地化的微型虚拟机，适用于不受信任的工作负载
+  en: easy, fast, local microVMs for untrusted workloads
+
+x:
+  source: https://github.com/superradcompany/microsandbox
+  eget: https://github.com/superradcompany/microsandbox
+
+rule:
+  /eget:
+    cmd: x eget superradcompany/microsandbox
+    reference: https://github.com/superradcompany/microsandbox/releases
+  /curl:
+    cmd: curl -fsSL https://install.microsandbox.dev | sh
+    reference: https://github.com/superradcompany/microsandbox?tab=readme-ov-file#install-the-cli
+  /cargo:
+    cmd: cargo install microsandbox
+    reference: https://github.com/superradcompany/microsandbox?tab=readme-ov-file#install-the-cli
+  /npm:
+    cmd: npm i -g microsandbox
+    reference: https://github.com/superradcompany/microsandbox?tab=readme-ov-file#install-the-cli
+  /uv:
+    cmd: uv tool install microsandbox
+    reference: https://github.com/superradcompany/microsandbox?tab=readme-ov-file#install-the-cli
+  darwin/brew:
+    cmd: brew install superradcompany/tap/microsandbox
+    reference: https://github.com/superradcompany/homebrew-tap
+  win/powershell:
+    cmd: x pwsh 'irm https://install.microsandbox.dev/windows | iex'
+    reference: https://github.com/superradcompany/microsandbox?tab=readme-ov-file#install-the-cli
+
+binlist:
+  - msb
+
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      local: true
+      internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 OCI 镜像缓存与配置文件
+          en: Reads OCI image cache and config files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 microVM 镜像、根文件系统与运行时状态（默认位于 ~/.microsandbox/）
+          en: Writes microVM images, root filesystems and runtime state under ~/.microsandbox/
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 50 MB
+          rating: 2
+          desc:
+            cn: 安装约 50 MB
+            en: ~50 MB install
+      paths:
+        data: ['~/.microsandbox/']
+        config: ['~/.microsandbox/config.json']
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 约 80 MB 空闲（不含启动后的 microVM）
+          en: ~80 MB idle (excluding launched microVMs)
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 启动与拉取镜像时短时峰值较高
+          en: Brief spikes during boot or image pull
