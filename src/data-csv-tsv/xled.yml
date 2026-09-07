@@ -1,0 +1,26 @@
+lang: Rust
+homepage: https://github.com/excelano/xled
+license: MIT
+
+desc:
+  cn: 表格数据的 sed 和 awk：清洗、转换 CSV 而不破坏数值。
+  en: "sed and awk for tabular data: clean and transform CSV without corrupting values."
+
+x:
+  source: https://github.com/excelano/xled
+  eget: https://github.com/excelano/xled
+
+rule:
+  /eget:
+    cmd: x eget excelano/xled
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install xled --locked
+    reference: https://crates.io/crates/xled
+    dsnap: xled
+  darwin/brew:
+    cmd: brew install excelano/tap/xled
+    reference: https://github.com/excelano/homebrew-tap
+  (win|wsl2)/winget:
+    cmd: x winget install Excelano.xled
+    reference: https://github.com/excelano/xled#windows
