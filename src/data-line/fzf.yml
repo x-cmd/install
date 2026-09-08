@@ -75,6 +75,7 @@ rule:
 binlist:
 - fzf
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -92,25 +93,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
+          estimate: 4.8 MB
           rating: 1
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 4.8 MB
+            en: 4.8 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

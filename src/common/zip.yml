@@ -45,6 +45,7 @@ rule:
 binlist:
 - zip
 license: NOASSERTION
+# complicated
 footprint:
   behavior:
     runtime:
@@ -67,27 +68,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 1 MB
+          estimate: 5.0 MB
           rating: 1
           desc:
-            cn: 安装 ~1 MB
-            en: ~1 MB install
+            cn: 约 5.0 MB（估算）
+            en: ~5.0 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 10 MB
         desc:
-          cn: ~5 MB
-          en: ~5 MB
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 200 MB
         desc:
           cn: 大型压缩 ~200 MB
           en: ~200 MB on large archives
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

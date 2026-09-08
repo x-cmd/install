@@ -46,6 +46,7 @@ binlist:
 - easy-rsa
 license: NOASSERTION
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -76,11 +77,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 4 KB
           rating: 1
           desc:
-            cn: 安装 <5 MB
-            en: <5 MB install
+            cn: 约 4 KB（估算）
+            en: ~4 KB estimated
         growth:
           desc:
             cn: PKI 目录 ($EASYRSA_PKI) 随签发证书量线性增长，无上限（除磁盘空间）
@@ -94,10 +95,10 @@ footprint:
 
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: 空闲时 <30 MB（CLI 解析 + 配置加载）
-          en: <30 MB idle (CLI parsing + config load)
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 60 MB
         desc:
@@ -105,7 +106,7 @@ footprint:
           en: Brief spike during 4096-bit key generation
 
     cpu:
-      workload: [compute]
+      workload: ['io']
       processes: 1
       idle:
         rating: 0
@@ -113,7 +114,7 @@ footprint:
           cn: 日常使用（签发/撤销证书）几乎不占 CPU
           en: Near-zero CPU under typical use (issue/revoke certs)
       peak:
-        rating: 7
+        rating: 2
         desc:
           cn: 4096-bit build-ca / genrsa 时占满单核数秒至数十秒
           en: Saturates one core for seconds-to-tens-of-seconds during 4096-bit build-ca / genrsa

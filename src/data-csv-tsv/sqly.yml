@@ -21,6 +21,7 @@ rule:
 binlist:
 - sqly
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -38,22 +39,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
+          estimate: 5.2 MB
           rating: 1
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 5.2 MB（估算）
+            en: ~5.2 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 10 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 10 MB（估算）
+          en: 10 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

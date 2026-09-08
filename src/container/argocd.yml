@@ -23,6 +23,7 @@ rule:
 binlist:
 - argocd
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -40,20 +41,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 238 MB
+          rating: 4
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 238 MB
+            en: 238 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 91 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 91 MB
+          en: 91 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1

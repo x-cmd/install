@@ -97,6 +97,7 @@ rule:
 binlist:
 - onefetch
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -114,20 +115,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
-          rating: 1
+          estimate: 14 MB
+          rating: 2
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 安装 14 MB
+            en: 14 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 7 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 7 MB
+          en: 7 MB
     cpu:
       workload: ['compute']
       processes: 1

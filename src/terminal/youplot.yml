@@ -22,6 +22,7 @@ rule:
 binlist:
 - youplot
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -39,22 +40,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 10 MB
+          estimate: 3 KB
           rating: 1
           desc:
-            cn: 安装 10 MB
-            en: 10 MB install
+            cn: 约 3 KB（估算）
+            en: ~3 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: 50 MB
-          en: 50 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
-      workload: ['io']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

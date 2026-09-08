@@ -15,6 +15,7 @@ rule:
       ./build-gpu.sh
     reference: https://github.com/Zackriya-Solutions/meetily#installation
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -37,25 +38,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
+          estimate: 3.4 MB
           rating: 1
           desc:
-            cn: 安装 50 MB（不含模型）
-            en: 50 MB install (models not included)
+            cn: 约 3.4 MB（估算）
+            en: ~3.4 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 200 MB
+        estimate: 5 MB
         desc:
-          cn: 200 MB（含转写模型）
-          en: 200 MB (transcription models included)
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 4
+        rating: 2
         desc:
           cn: 高（实时转写时）
           en: High (during live transcription)

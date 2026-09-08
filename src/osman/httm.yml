@@ -13,6 +13,7 @@ rule:
     reference: https://github.com/kimono-koans/httm
 binlist:
   - 'httm'
+# complicated
 footprint:
   behavior:
     runtime:
@@ -30,27 +31,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 463 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 463 KB（估算）
+            en: ~463 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB Rust
-          en: ~30 MB Rust
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 100 MB
         desc:
           cn: 大量快照 ~100 MB
           en: ~100 MB on many snapshots
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -58,7 +59,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 3
+        rating: 2
         desc:
           cn: 扫描快照时短暂占用
           en: Brief spike on snapshot scan

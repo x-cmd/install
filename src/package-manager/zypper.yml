@@ -28,6 +28,7 @@ rule:
 binlist:
 - zypper
 license: NOASSERTION
+# complicated
 footprint:
   behavior:
     runtime:
@@ -50,11 +51,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 2
+          estimate: 1.6 MB
+          rating: 1
           desc:
-            cn: 安装 ~20 MB
-            en: ~20 MB install
+            cn: 约 1.6 MB（估算）
+            en: ~1.6 MB estimated
         growth:
           desc:
             cn: 包缓存持续增长
@@ -67,17 +68,17 @@ footprint:
           - "/etc/zypp"
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 200 MB
         desc:
           cn: 大型包下载/解压时
           en: Large package download/extract
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -85,7 +86,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 5
+        rating: 2
         desc:
           cn: 依赖解析/GPG 校验时占用
           en: Spike during dep resolution / GPG verify

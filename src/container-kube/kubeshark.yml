@@ -42,6 +42,7 @@ rule:
 binlist:
 - kubeshark
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -59,22 +60,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
+          estimate: 793 KB
           rating: 1
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 793 KB（估算）
+            en: ~793 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

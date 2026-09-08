@@ -19,6 +19,7 @@ rule:
     reference: https://www.brow.sh/downloads/
 binlist:
 - browsh
+# complicated
 footprint:
   behavior:
     runtime:
@@ -36,27 +37,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 30 MB
-          rating: 2
+          estimate: 11 KB
+          rating: 1
           desc:
-            cn: 安装 ~30 MB
-            en: ~30 MB install
+            cn: 约 11 KB（估算）
+            en: ~11 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: ~50 MB
-          en: ~50 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 200 MB
         desc:
           cn: ~200 MB
           en: ~200 MB
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -64,7 +65,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 5
+        rating: 2
         desc:
           cn: 渲染网页时占用
           en: Spike during page rendering

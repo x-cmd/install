@@ -49,6 +49,7 @@ rule:
 binlist:
 - rclone
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -66,20 +67,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 91 MB
+          rating: 3
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 91 MB
+            en: 91 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 74 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 74 MB
+          en: 74 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1

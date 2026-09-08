@@ -29,6 +29,7 @@ rule:
 binlist:
 - jreleaser
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -46,22 +47,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
+          estimate: 2.6 MB
           rating: 1
           desc:
-            cn: 安装 50 MB
-            en: 50 MB install
+            cn: 约 2.6 MB（估算）
+            en: ~2.6 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 100 MB
+        estimate: 5 MB
         desc:
-          cn: 100 MB
-          en: 100 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

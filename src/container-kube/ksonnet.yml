@@ -23,6 +23,7 @@ rule:
 binlist:
 - ksonnet
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -39,22 +40,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 13 MB
+          rating: 2
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 13 MB（估算）
+            en: ~13 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 10 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 10 MB（估算）
+          en: 10 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

@@ -34,6 +34,7 @@ rule:
 binlist:
 - lua
 license: NOASSERTION
+# complicated
 footprint:
   behavior:
     runtime:
@@ -51,11 +52,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 1.4 MB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 1.4 MB（估算）
+            en: ~1.4 MB estimated
       paths:
         data: []
         config:
@@ -64,15 +65,15 @@ footprint:
       idle:
         estimate: 5 MB
         desc:
-          cn: ~5 MB interpreter
-          en: ~5 MB interpreter
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 50 MB
         desc:
           cn: 大型脚本 ~50 MB
           en: ~50 MB on large scripts
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -80,7 +81,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 6
+        rating: 2
         desc:
           cn: 脚本执行时占用
           en: Spike during script execution

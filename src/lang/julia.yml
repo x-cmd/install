@@ -50,6 +50,7 @@ rule:
     reference: https://command-not-found.com/julia
 binlist:
 - julia
+# complicated
 footprint:
   behavior:
     runtime:
@@ -67,11 +68,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 200 MB
-          rating: 3
+          estimate: 12 MB
+          rating: 2
           desc:
-            cn: 安装 ~200 MB
-            en: ~200 MB install
+            cn: 约 12 MB（估算）
+            en: ~12 MB estimated
         growth:
           desc:
             cn: ~/.julia/packages 随包安装增长
@@ -82,17 +83,17 @@ footprint:
         config: []
     memory:
       idle:
-        estimate: 100 MB
+        estimate: 10 MB
         desc:
-          cn: ~100 MB
-          en: ~100 MB
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 4 GB
         desc:
           cn: JIT 编译时可达数 GB
           en: Several GB during JIT compile
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -100,7 +101,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 7
+        rating: 2
         desc:
           cn: 计算密集任务时占用多核
           en: Saturates cores on compute-heavy tasks

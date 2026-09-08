@@ -25,6 +25,7 @@ rule:
     reference: https://github.com/mgunyho/tere?tab=readme-ov-file#step-1-obtain-a-copy-of-tere
 binlist:
 - tere
+# complicated
 footprint:
   behavior:
     runtime:
@@ -42,27 +43,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 203 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 203 KB（估算）
+            en: ~203 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 5 MB
         desc:
-          cn: ~20 MB
-          en: ~20 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 50 MB
         desc:
           cn: ~50 MB
           en: ~50 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

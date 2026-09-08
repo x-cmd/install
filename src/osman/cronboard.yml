@@ -13,6 +13,7 @@ rule:
     reference: https://github.com/antoniorodr/cronboard
 binlist:
   - 'cronboard'
+# complicated
 footprint:
   behavior:
     runtime:
@@ -31,27 +32,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 10 MB
-          rating: 2
+          estimate: 9 KB
+          rating: 1
           desc:
-            cn: 安装 ~10 MB
-            en: ~10 MB install
+            cn: 约 9 KB（估算）
+            en: ~9 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB Python
-          en: ~30 MB Python
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 60 MB
         desc:
           cn: ~60 MB
           en: ~60 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

@@ -19,6 +19,7 @@ rule:
 binlist:
 - concat-md
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -36,22 +37,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 30 MB
+          estimate: 1 KB
           rating: 1
           desc:
-            cn: 安装 30 MB
-            en: 30 MB install
+            cn: 约 1 KB（估算）
+            en: ~1 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 5 MB
         desc:
-          cn: 80 MB
-          en: 80 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
-      workload: ['io']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

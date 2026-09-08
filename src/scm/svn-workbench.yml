@@ -22,6 +22,7 @@ rule:
 binlist:
 - svn-workbench
 license: NOASSERTION
+# complicated
 footprint:
   behavior:
     runtime:
@@ -44,28 +45,28 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 3.0 MB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 3.0 MB（估算）
+            en: ~3.0 MB estimated
       paths:
         data: []
         config:
           - "$HOME/.config/svn-workbench"
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 10 MB
         desc:
-          cn: ~50 MB GUI
-          en: ~50 MB GUI
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 150 MB
         desc:
           cn: ~150 MB
           en: ~150 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

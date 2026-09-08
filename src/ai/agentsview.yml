@@ -23,6 +23,7 @@ rule:
 binlist:
   - agentsview
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -40,11 +41,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 76 MB
+          rating: 3
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 76 MB（估算）
+            en: ~76 MB estimated
       paths:
         data: []
         config: []
@@ -52,10 +53,10 @@ footprint:
       idle:
         estimate: 50 MB
         desc:
-          cn: 50 MB
-          en: 50 MB
+          cn: 50 MB（估算）
+          en: 50 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

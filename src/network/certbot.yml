@@ -56,6 +56,7 @@ rule:
 binlist:
 - certbot
 license: NOASSERTION
+# complicated
 footprint:
   behavior:
     runtime:
@@ -79,11 +80,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 156 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 156 KB（估算）
+            en: ~156 KB estimated
         growth:
           desc:
             cn: /etc/letsencrypt 随域名数增长
@@ -95,17 +96,17 @@ footprint:
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 50 MB
         desc:
           cn: ~50 MB
           en: ~50 MB
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -113,7 +114,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 3
+        rating: 2
         desc:
           cn: 短暂占用（ACME 握手 + 证书生成）
           en: Brief spike (ACME handshake + cert generation)

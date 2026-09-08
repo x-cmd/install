@@ -50,6 +50,7 @@ rule:
 binlist:
 - pandoc
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -67,25 +68,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
-          rating: 1
+          estimate: 156 MB
+          rating: 3
           desc:
-            cn: 安装 50 MB
-            en: 50 MB install
+            cn: 安装 156 MB
+            en: 156 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 8 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 8 MB
+          en: 8 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

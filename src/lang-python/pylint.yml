@@ -43,6 +43,7 @@ rule:
 binlist:
 - pylint
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -60,22 +61,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 181 KB
           rating: 1
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 181 KB（估算）
+            en: ~181 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 5 MB
         desc:
-          cn: 80 MB
-          en: 80 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

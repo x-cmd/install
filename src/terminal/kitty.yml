@@ -20,6 +20,7 @@ rule:
 binlist:
 - kitty
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -37,20 +38,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
-          rating: 1
+          estimate: 25 MB
+          rating: 2
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 安装 25 MB
+            en: 25 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 49 MB
         desc:
-          cn: 80 MB
-          en: 80 MB
+          cn: 49 MB
+          en: 49 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1

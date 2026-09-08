@@ -13,6 +13,7 @@ rule:
     reference: https://github.com/pashkov256/deletor
 binlist:
   - 'deletor'
+# complicated
 footprint:
   behavior:
     runtime:
@@ -35,28 +36,28 @@ footprint:
     disk:
       size:
         install:
-          estimate: 10 MB
-          rating: 2
+          estimate: 845 KB
+          rating: 1
           desc:
-            cn: 安装 ~10 MB
-            en: ~10 MB install
+            cn: 约 845 KB（估算）
+            en: ~845 KB estimated
       paths:
         data: []
         config:
           - "$HOME/.config/deletor"
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 50 MB
         desc:
           cn: ~50 MB
           en: ~50 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

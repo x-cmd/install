@@ -13,6 +13,7 @@ rule:
     reference: https://github.com/github/github-mcp-server
 binlist:
 - github-mcp-server
+# complicated
 footprint:
   behavior:
     runtime:
@@ -32,27 +33,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
-          rating: 3
+          estimate: 9.7 MB
+          rating: 1
           desc:
-            cn: 安装 ~50 MB
-            en: ~50 MB install
+            cn: 约 9.7 MB（估算）
+            en: ~9.7 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 100 MB
+        estimate: 10 MB
         desc:
-          cn: ~100 MB Node.js
-          en: ~100 MB Node.js
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 300 MB
         desc:
           cn: ~300 MB
           en: ~300 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -60,7 +61,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 3
+        rating: 2
         desc:
           cn: API 调用时短暂占用
           en: Brief spike on API calls

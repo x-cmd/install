@@ -25,6 +25,7 @@ rule:
 binlist:
   - dbx
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -48,22 +49,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
+          estimate: 8.0 MB
           rating: 1
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 8.0 MB（估算）
+            en: ~8.0 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 15 MB
         desc:
-          cn: 80 MB
-          en: 80 MB
+          cn: 15 MB（估算）
+          en: 15 MB estimated
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

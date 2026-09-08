@@ -73,6 +73,7 @@ rule:
     reference: https://github.com/fastfetch-cli/fastfetch?tab=readme-ov-file#freebsd
 binlist:
 - fastfetch
+# complicated
 footprint:
   behavior:
     runtime:
@@ -92,11 +93,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 2 MB
+          estimate: 4.0 MB
           rating: 1
           desc:
-            cn: 安装 ~2 MB
-            en: ~2 MB install
+            cn: 约 4.0 MB（估算）
+            en: ~4.0 MB estimated
         growth:
           desc:
             cn: 几乎不增长
@@ -107,17 +108,17 @@ footprint:
           - "$HOME/.config/fastfetch/config.jsonc"
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 5 MB
         desc:
-          cn: ~10 MB
-          en: ~10 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -125,7 +126,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 3
+        rating: 2
         desc:
           cn: 解析系统信息时短暂占用
           en: Brief spike on system info parsing

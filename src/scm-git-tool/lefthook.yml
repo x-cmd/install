@@ -74,6 +74,7 @@ rule:
     reference: https://github.com/evilmartians/lefthook/blob/master/docs/install.md#-winget-for-windows
 binlist:
 - lefthook
+# complicated
 footprint:
   behavior:
     runtime:
@@ -96,28 +97,28 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 2
+          estimate: 1.1 MB
+          rating: 1
           desc:
-            cn: 安装 ~20 MB
-            en: ~20 MB install
+            cn: 约 1.1 MB（估算）
+            en: ~1.1 MB estimated
       paths:
         data: []
         config:
           - "lefthook.yml"
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 5 MB
         desc:
-          cn: ~20 MB
-          en: ~20 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 50 MB
         desc:
           cn: ~50 MB
           en: ~50 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -125,7 +126,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 3
+        rating: 2
         desc:
           cn: 运行用户配置的 hooks 时短暂占用
           en: Brief spike when running user-configured hooks

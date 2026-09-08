@@ -21,6 +21,7 @@ rule:
     reference: https://developers.cloudflare.com/workers/get-started/guide/#1-create-a-new-worker-project
 binlist:
 - create-cloudflare
+# complicated
 footprint:
   behavior:
     runtime:
@@ -43,22 +44,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
-          rating: 3
+          estimate: 15 MB
+          rating: 2
           desc:
-            cn: 安装 ~50 MB（含 wrangler）
-            en: ~50 MB install (with wrangler)
+            cn: 约 15 MB（估算）
+            en: ~15 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 100 MB
+        estimate: 35 MB
         desc:
-          cn: ~100 MB Node.js
-          en: ~100 MB Node.js
+          cn: 35 MB（估算）
+          en: 35 MB estimated
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

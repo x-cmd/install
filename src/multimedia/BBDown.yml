@@ -20,6 +20,7 @@ rule:
 binlist:
 - BBDown
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -37,22 +38,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 21 MB
+          rating: 2
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 21 MB
+            en: 21 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 5 MB
+          en: 5 MB
     cpu:
-      workload: ['io', 'compute']
+      workload: ['compute']
       processes: 1
       peak:
         rating: 2

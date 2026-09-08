@@ -13,6 +13,7 @@ rule:
     reference: https://github.com/weaviate/weaviate
 binlist:
   - 'weaviate'
+# complicated
 footprint:
   behavior:
     runtime:
@@ -35,11 +36,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 100 MB
+          estimate: 95 MB
           rating: 3
           desc:
-            cn: 安装 ~100 MB
-            en: ~100 MB install
+            cn: 约 95 MB（估算）
+            en: ~95 MB estimated
         growth:
           desc:
             cn: 随索引数据增长
@@ -51,17 +52,17 @@ footprint:
           - "/etc/weaviate"
     memory:
       idle:
-        estimate: 200 MB
+        estimate: 50 MB
         desc:
-          cn: ~200 MB baseline
-          en: ~200 MB baseline
+          cn: 50 MB（估算）
+          en: 50 MB estimated
       peak:
         estimate: 4 GB
         desc:
           cn: 大型向量索引
           en: Large vector indexes
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 1
@@ -69,7 +70,7 @@ footprint:
           cn: 极低
           en: Negligible
       peak:
-        rating: 7
+        rating: 2
         desc:
           cn: 索引/查询时占用
           en: Spike on indexing/querying

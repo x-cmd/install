@@ -43,6 +43,7 @@ binlist:
 - ffmpeg
 license: NOASSERTION
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -60,20 +61,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 2 MB
-          rating: 1
+          estimate: 75 MB
+          rating: 3
           desc:
-            cn: 安装 2 MB
-            en: 2 MB install
+            cn: 约 75 MB（估算）
+            en: ~75 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 50 MB
         desc:
-          cn: 10 MB
-          en: 10 MB
+          cn: 50 MB（估算）
+          en: 50 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

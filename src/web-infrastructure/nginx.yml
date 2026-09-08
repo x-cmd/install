@@ -48,6 +48,7 @@ rule:
     reference: https://en.opensuse.org/Nginx
 binlist:
 - nginx
+# complicated
 footprint:
   behavior:
     runtime:
@@ -71,11 +72,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 10 MB
-          rating: 2
+          estimate: 6.6 MB
+          rating: 1
           desc:
-            cn: 安装 ~10 MB
-            en: ~10 MB install
+            cn: 约 6.6 MB（估算）
+            en: ~6.6 MB estimated
         growth:
           desc:
             cn: 访问日志随流量增长（可配置轮转）
@@ -91,15 +92,15 @@ footprint:
       idle:
         estimate: 10 MB
         desc:
-          cn: ~10 MB worker 基础
-          en: ~10 MB worker baseline
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 150 MB
         desc:
           cn: ~150 MB 高并发下
           en: ~150 MB under high load
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 4           # master + workers（可配置）
       idle:
         rating: 0
@@ -107,7 +108,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 6
+        rating: 2
         desc:
           cn: 高并发下占用多核
           en: Saturates multiple cores under high concurrency

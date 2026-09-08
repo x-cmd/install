@@ -140,6 +140,7 @@ rule:
 binlist:
 - lazygit
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -157,25 +158,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 19 MB
+          rating: 2
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 19 MB
+            en: 19 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 10 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 10 MB
+          en: 10 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

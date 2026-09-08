@@ -16,6 +16,7 @@ rule:
     reference: https://github.com/kahun/asdf-clusterawsadm?tab=readme-ov-file#install
 binlist:
 - clusterawsadm
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -34,20 +35,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 50 MB
+          estimate: 89 MB
           rating: 3
           desc:
-            cn: 安装 ~50 MB
-            en: ~50 MB install
+            cn: 安装 89 MB
+            en: 89 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 62 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 62 MB
+          en: 62 MB
       peak:
         estimate: 80 MB
         desc:

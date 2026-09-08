@@ -23,6 +23,7 @@ rule:
     reference: https://scoop.sh/#/apps?q=navi
 binlist:
 - navi
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -40,20 +41,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 1.4 MB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 安装 1.4 MB
+            en: 1.4 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 6 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 6 MB
+          en: 6 MB
       peak:
         estimate: 50 MB
         desc:
@@ -68,7 +69,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 1
+        rating: 2
         desc:
           cn: 极低
           en: Negligible

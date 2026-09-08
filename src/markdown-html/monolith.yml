@@ -43,6 +43,7 @@ rule:
 binlist:
 - monolith
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -60,20 +61,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 340 KB
           rating: 1
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 340 KB（估算）
+            en: ~340 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

@@ -87,6 +87,7 @@ rule:
 binlist:
 - zig
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -104,20 +105,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
-          rating: 1
+          estimate: 29 MB
+          rating: 2
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 29 MB（估算）
+            en: ~29 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 10 MB
         desc:
-          cn: 20 MB
-          en: 20 MB
+          cn: 10 MB（估算）
+          en: 10 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

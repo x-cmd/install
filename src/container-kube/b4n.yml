@@ -14,6 +14,7 @@ rule:
 binlist:
   - 'b4n'
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -31,20 +32,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 9.2 MB
           rating: 1
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 安装 9.2 MB
+            en: 9.2 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 7 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 7 MB
+          en: 7 MB
     cpu:
       workload: ['compute']
       processes: 1

@@ -25,6 +25,7 @@ binlist:
 - blender
 license: NOASSERTION
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -42,11 +43,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 156 MB
+          rating: 3
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 156 MB（估算）
+            en: ~156 MB estimated
       paths:
         data: []
         config: []
@@ -54,13 +55,13 @@ footprint:
       idle:
         estimate: 50 MB
         desc:
-          cn: 50 MB
-          en: 50 MB
+          cn: 50 MB（估算）
+          en: 50 MB estimated
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 3
         desc:
           cn: 极低
           en: Negligible

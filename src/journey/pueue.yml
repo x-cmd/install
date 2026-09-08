@@ -31,6 +31,7 @@ rule:
     reference: https://aur.archlinux.org/packages/pueue-git
 binlist:
 - pueue
+# complicated
 footprint:
   behavior:
     runtime:
@@ -53,11 +54,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 666 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 666 KB（估算）
+            en: ~666 KB estimated
         growth:
           desc:
             cn: 日志随任务输出增长
@@ -69,17 +70,17 @@ footprint:
           - "$HOME/.config/pueue"
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 5 MB
         desc:
-          cn: ~10 MB daemon
-          en: ~10 MB daemon
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

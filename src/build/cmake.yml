@@ -27,6 +27,7 @@ rule:
     reference: https://scoop.sh/#/apps?q=cmake
 binlist:
 - cmake
+# complicated
 footprint:
   behavior:
     runtime:
@@ -49,28 +50,28 @@ footprint:
     disk:
       size:
         install:
-          estimate: 100 MB
-          rating: 3
+          estimate: 46 MB
+          rating: 2
           desc:
-            cn: 安装 ~100 MB
-            en: ~100 MB install
+            cn: 约 46 MB（估算）
+            en: ~46 MB estimated
       paths:
         data: []
         config:
           - "$HOME/.cmake"
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 10 MB
         desc:
-          cn: ~50 MB 闲置
-          en: ~50 MB idle
+          cn: 10 MB（估算）
+          en: 10 MB estimated
       peak:
         estimate: 500 MB
         desc:
           cn: 大型项目配置时可达数百 MB
           en: Several hundred MB on large project configure
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -78,7 +79,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 5
+        rating: 2
         desc:
           cn: cmake --build 时调度编译器
           en: Schedules compilers during cmake --build

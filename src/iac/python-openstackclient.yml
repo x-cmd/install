@@ -18,6 +18,7 @@ rule:
     dsnap: python-openstackclient
 binlist:
 - python-openstackclient
+# complicated
 footprint:
   behavior:
     runtime:
@@ -37,27 +38,27 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 2
+          estimate: 321 KB
+          rating: 1
           desc:
-            cn: 安装 ~20 MB Python
-            en: ~20 MB Python install
+            cn: 约 321 KB（估算）
+            en: ~321 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 5 MB
         desc:
-          cn: ~80 MB Python
-          en: ~80 MB Python
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 150 MB
         desc:
           cn: ~150 MB
           en: ~150 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

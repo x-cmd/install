@@ -59,6 +59,7 @@ rule:
     reference: https://github.com/dalance/procs
 binlist:
 - procs
+# complicated
 footprint:
   behavior:
     runtime:
@@ -78,11 +79,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 504 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 504 KB（估算）
+            en: ~504 KB estimated
         growth:
           desc:
             cn: 几乎不增长
@@ -93,17 +94,17 @@ footprint:
           - "$HOME/.config/procs/config.toml"
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 5 MB
         desc:
-          cn: ~20 MB
-          en: ~20 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 30 MB
         desc:
           cn: ~30 MB
           en: ~30 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

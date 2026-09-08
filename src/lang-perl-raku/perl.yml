@@ -27,6 +27,7 @@ binlist:
 - perl
 license: NOASSERTION
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -44,22 +45,22 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 3.0 MB
           rating: 1
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 3.0 MB（估算）
+            en: ~3.0 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 8 MB
         desc:
-          cn: 20 MB
-          en: 20 MB
+          cn: 8 MB（估算）
+          en: 8 MB estimated
     cpu:
-      workload: ['compute']
+      workload: ['io']
       processes: 1
       peak:
         rating: 2

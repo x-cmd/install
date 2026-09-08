@@ -16,6 +16,7 @@ rule:
 binlist:
 - calicoctl
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -33,20 +34,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 91 MB
+          rating: 3
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 91 MB
+            en: 91 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 34 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 34 MB
+          en: 34 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1

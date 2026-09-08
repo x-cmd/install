@@ -66,6 +66,7 @@ rule:
     reference: https://github.com/aristocratos/bpytop#installation
 binlist:
 - bpytop
+# complicated
 footprint:
   behavior:
     runtime:
@@ -83,11 +84,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
+          estimate: 10 KB
           rating: 1
           desc:
-            cn: 安装 ~5 MB
-            en: ~5 MB install
+            cn: 约 10 KB（估算）
+            en: ~10 KB estimated
         growth:
           desc:
             cn: 几乎不增长
@@ -98,17 +99,17 @@ footprint:
           - "$HOME/.config/bpytop.cfg"
     memory:
       idle:
-        estimate: 80 MB
+        estimate: 5 MB
         desc:
-          cn: ~80 MB（Python 解释器）
-          en: ~80 MB (Python interpreter)
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 150 MB
         desc:
           cn: ~150 MB
           en: ~150 MB
     cpu:
-      workload: [io]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 1

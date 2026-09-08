@@ -15,6 +15,7 @@ rule:
     reference: https://aur.archlinux.org/packages/bottles
 binlist:
 - bottles
+# complicated
 footprint:
   behavior:
     runtime:
@@ -37,11 +38,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 100 MB
-          rating: 3
+          estimate: 135 KB
+          rating: 1
           desc:
-            cn: 安装 ~100 MB
-            en: ~100 MB install
+            cn: 约 135 KB（估算）
+            en: ~135 KB estimated
         growth:
           desc:
             cn: 每个 bottle 占用数 GB
@@ -52,17 +53,17 @@ footprint:
         config: []
     memory:
       idle:
-        estimate: 200 MB
+        estimate: 5 MB
         desc:
-          cn: ~200 MB GTK
-          en: ~200 MB GTK
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 1 GB
         desc:
           cn: 运行 Windows 应用时
           en: 1 GB when running Windows apps
     cpu:
-      workload: [io, compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -70,7 +71,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 6
+        rating: 2
         desc:
           cn: 运行 wine/proton 时占用多核
           en: Saturates cores when running wine/proton

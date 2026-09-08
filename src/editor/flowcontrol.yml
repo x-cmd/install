@@ -14,6 +14,7 @@ rule:
 binlist:
   - 'flowcontrol'
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -31,11 +32,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
-          rating: 1
+          estimate: 10 MB
+          rating: 2
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 10 MB（估算）
+            en: ~10 MB estimated
       paths:
         data: []
         config: []
@@ -43,8 +44,8 @@ footprint:
       idle:
         estimate: 20 MB
         desc:
-          cn: 20 MB
-          en: 20 MB
+          cn: 20 MB（估算）
+          en: 20 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

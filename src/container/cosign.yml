@@ -65,6 +65,7 @@ rule:
     reference: https://docs.sigstore.dev/system_config/installation/#nixos
 binlist:
 - cosign
+# complicated
 footprint:
   behavior:
     runtime:
@@ -90,11 +91,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 30 MB
-          rating: 2
+          estimate: 4.8 MB
+          rating: 1
           desc:
-            cn: 安装 ~30 MB
-            en: ~30 MB install
+            cn: 约 4.8 MB（估算）
+            en: ~4.8 MB estimated
       paths:
         data:
           - "$HOME/.local/share/cosign"
@@ -102,17 +103,17 @@ footprint:
           - "$HOME/.cosign"
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 5 MB
         desc:
-          cn: ~30 MB
-          en: ~30 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
       peak:
         estimate: 80 MB
         desc:
           cn: ~80 MB
           en: ~80 MB
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0
@@ -120,7 +121,7 @@ footprint:
           cn: 几乎为零
           en: Near-zero
       peak:
-        rating: 4
+        rating: 2
         desc:
           cn: 签名验证时短暂占用
           en: Brief spike on signature verification

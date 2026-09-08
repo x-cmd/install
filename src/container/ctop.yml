@@ -84,6 +84,7 @@ rule:
 binlist:
 - ctop
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -101,25 +102,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 13 MB
+          rating: 2
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 13 MB
+            en: 13 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 11 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 11 MB
+          en: 11 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

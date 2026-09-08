@@ -34,6 +34,7 @@ rule:
 binlist:
   - rustfs
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -51,20 +52,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 5 MB
-          rating: 1
+          estimate: 58 MB
+          rating: 3
           desc:
-            cn: 安装 5 MB
-            en: 5 MB install
+            cn: 约 58 MB（估算）
+            en: ~58 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 50 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 50 MB（估算）
+          en: 50 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

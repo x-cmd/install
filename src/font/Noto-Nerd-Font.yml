@@ -20,6 +20,7 @@ rule:
     reference: https://github.com/ryanoasis/nerd-fonts/releases/
 binlist:
 - Noto-Nerd-Font
+# complicated
 footprint:
   behavior:
     runtime:
@@ -33,23 +34,23 @@ footprint:
     disk:
       size:
         install:
-          estimate: 30 MB
+          estimate: 10 MB
           rating: 2
           desc:
-            cn: 字体 ~30 MB
-            en: ~30 MB fonts
+            cn: 约 10 MB（估算）
+            en: ~10 MB estimated
       paths:
         data:
           - "$HOME/.local/share/fonts/Noto"
         config: []
     memory:
       idle:
-        estimate: 0
+        estimate: 20 MB
         desc:
-          cn: 字体不消耗运行时内存
-          en: Fonts don't consume runtime memory
+          cn: 20 MB（估算）
+          en: 20 MB estimated
     cpu:
-      workload: [compute]
+      workload: ['compute']
       processes: 1
       idle:
         rating: 0

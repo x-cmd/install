@@ -31,6 +31,7 @@ rule:
 binlist:
 - diagon
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -47,20 +48,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
+          estimate: 289 KB
           rating: 1
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 约 289 KB（估算）
+            en: ~289 KB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: 50 MB
-          en: 50 MB
+          cn: 5 MB（估算）
+          en: 5 MB estimated
     cpu:
       workload: ['compute']
       processes: 1

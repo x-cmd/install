@@ -25,6 +25,7 @@ rule:
 binlist:
 - critest
 
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -42,20 +43,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 MB
-          rating: 1
+          estimate: 38 MB
+          rating: 2
           desc:
-            cn: 安装 20 MB
-            en: 20 MB install
+            cn: 安装 38 MB
+            en: 38 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 51 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 51 MB
+          en: 51 MB
     cpu:
       workload: ['io', 'compute']
       processes: 1

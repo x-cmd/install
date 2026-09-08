@@ -31,6 +31,7 @@ binlist:
 - mysql-workbench
 license: NOASSERTION
 
+# complicated
 footprint:
   behavior:
     runtime:
@@ -48,20 +49,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 30 MB
-          rating: 1
+          estimate: 10 MB
+          rating: 2
           desc:
-            cn: 安装 30 MB
-            en: 30 MB install
+            cn: 约 10 MB（估算）
+            en: ~10 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 30 MB
+        estimate: 20 MB
         desc:
-          cn: 30 MB
-          en: 30 MB
+          cn: 20 MB（估算）
+          en: 20 MB estimated
     cpu:
       workload: ['compute']
       processes: 1
