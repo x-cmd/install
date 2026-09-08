@@ -1,12 +1,16 @@
 lang: Go
-homepage: https://cli.github.com/
+homepage: https://github.com/cli/cli
 desc:
   cn: GitHub 官方的命令行工具，用于在命令行界面中与 GitHub 进行交互
   en: GitHub's official command line tool is used to interact with GitHub in the Command-line interface
+license: MIT
 x:
-  pkg:
-    exist: true
+  source: https://github.com/cli/cli
+  eget: https://github.com/cli/cli
 rule:
+  /eget:
+    cmd: x eget use cli/cli
+    reference: https://github.com/cli/cli/releases
   /x:
     cmd: x pkg use gh
     reference: https://x-cmd.com/install/
@@ -72,8 +76,8 @@ rule:
     cmd: sudo xbps-install github-cli
     reference: https://github.com/cli/cli/blob/trunk/docs/install_linux.md#void-linux
 binlist:
-- gh
-license: NOASSERTION
+  - gh
+
 
 footprint:
   behavior:
