@@ -88,9 +88,11 @@ footprint:
     runtime:
       type: cli
     network:
-      localhost: true
-      lan: true
-      internet: true   # HTTP requests
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # HTTP requests
     filesystem:
       read:
         desc:

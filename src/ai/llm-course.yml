@@ -19,9 +19,11 @@ footprint:
     runtime:
       type: library
     network:
-      localhost: false
-      lan: true
-      internet: true   # notebooks 下载
+      listen: lan
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # notebooks 下载
     filesystem:
       read: []
   resource:

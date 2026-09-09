@@ -62,9 +62,11 @@ footprint:
     runtime:
       type: [cli, oneshot]      # `certbot` 交互式 CLI；`certbot renew` oneshot
     network:
-      localhost: true
-      lan: true
-      internet: true              # ACME 协议
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true              # ACME 协议
     filesystem:
       read:
         desc:

@@ -24,9 +24,11 @@ footprint:
     runtime:
       type: cli
     network:
-      localhost: true
-      lan: true
-      internet: true   # OpenStack API
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # OpenStack API
     filesystem:
       read:
         desc:

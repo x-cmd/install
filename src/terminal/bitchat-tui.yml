@@ -20,9 +20,11 @@ footprint:
     runtime:
       type: tui
     network:
-      localhost: true
-      lan: true
-      internet: false
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: false
     filesystem:
       read:
         desc:

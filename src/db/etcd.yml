@@ -34,9 +34,11 @@ footprint:
     runtime:
       type: daemon
     network:
-      localhost: true
-      lan: false
-      internet: false
+      listen: localhost
+      connect:
+        localhost: true
+        lan: false
+        internet: false
     filesystem:
       read:
         desc:

@@ -30,9 +30,11 @@ footprint:
     runtime:
       type: cli
     network:
-      localhost: true
-      lan: true
-      internet: true   # AWS STS
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # AWS STS
     filesystem:
       read:
         desc:

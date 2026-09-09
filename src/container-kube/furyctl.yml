@@ -31,9 +31,11 @@ footprint:
     runtime:
       type: cli
     network:
-      localhost: true
-      lan: true
-      internet: true   # k8s API
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # k8s API
     filesystem:
       read:
         desc:

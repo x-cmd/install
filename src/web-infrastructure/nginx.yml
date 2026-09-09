@@ -54,9 +54,11 @@ footprint:
     runtime:
       type: daemon
     network:
-      localhost: true
-      lan: true
-      internet: true       # 监听端口
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true       # 监听端口
     filesystem:
       read:
         desc:

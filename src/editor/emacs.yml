@@ -63,9 +63,11 @@ footprint:
     runtime:
       type: [cli, tui, gui]
     network:
-      localhost: true
-      lan: true
-      internet: true        # package fetching
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true        # package fetching
     filesystem:
       read:
         desc:

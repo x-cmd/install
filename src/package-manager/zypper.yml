@@ -34,9 +34,11 @@ footprint:
     runtime:
       type: cli
     network:
-      localhost: true
-      lan: true
-      internet: true   # package repos
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # package repos
     filesystem:
       read:
         desc:

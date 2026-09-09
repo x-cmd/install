@@ -27,9 +27,11 @@ footprint:
     runtime:
       type: oneshot
     network:
-      localhost: true
-      lan: true
-      internet: true   # npm registry, cloudflare API
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # npm registry, cloudflare API
     filesystem:
       read:
         desc:

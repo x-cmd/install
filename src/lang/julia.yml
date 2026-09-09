@@ -56,9 +56,11 @@ footprint:
     runtime:
       type: [cli, interactive]
     network:
-      localhost: true
-      lan: true
-      internet: true   # Pkg registry
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true   # Pkg registry
     filesystem:
       read:
         desc:

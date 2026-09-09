@@ -1,27 +1,19 @@
 #!/usr/bin/env python3
-"""Migrate footprint.behavior.network from {local, internet} to
-{localhost, lan, internet}.
+"""Migrate footprint.behavior.network schemas.
 
-Mapping (conservative — any tool that *can* reach a network surface is
-flagged as such):
+Phase 1 (already shipped): {local, internet} -> {localhost, lan, internet}
+Phase 2 (this script):    {localhost, lan, internet} -> {listen, connect}
 
-  local: true                       -> localhost: true
-  local: false                      -> localhost: false
-  internet: true                    -> internet: true
-  internet: true                    -> lan: true       (same protocol works)
-  internet: false                   -> lan: false
-                                       # unless a LAN-only keyword was
-                                       # spotted, in which case lan=true
+Final schema:
+  network:
+    listen:    none | localhost | lan | internet   # single enum
+    connect:                                 # independent flags
+      localhost: true|false
+      lan:       true|false
+      internet:  true|false
 
-Rationale: HTTP/TCP clients (curl, wget, httpie, gh, ollama, ...) all
-speak the same protocol whether the destination is public or RFC1918.
-Auditors benefit from a permissive default — a tool can talk to LAN
-even when its docs don't say so.
-
-Output (stdout):
-  migrated:    <n>
-    needs review: <n>
-  skipped:     <n>
+Phase 2 is idempotent: files already in the listen/connect shape are
+left alone.
 """
 import re
 import sys
@@ -30,49 +22,86 @@ from pathlib import Path
 SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
 
 # Tools that are KNOWN to talk to LAN even when internet=false (LAN-only
-# discovery / peer protocols — they never hit the public internet).
+# discovery / peer protocols).
 LAN_ONLY_KEYWORDS = re.compile(
     r'\b(sync|p2p|peer[- ]to[- ]peer|smb|nfs|bonjour|mdns|avahi|'
     r'zeroconf|discover|arp|nmap|scan|mosquitto|syncthing|samba|'
-    r'multicast|lan|rfc1918|ssdp|upnp)\b',
+    r'multicast|rfc1918|ssdp|upnp)\b',
     re.IGNORECASE,
 )
 
 
-def migrate(yml_path: Path):
+def derive_listen(lo, lan, inet):
+    """Pick the BROADEST surface the binary binds.
+
+    Rule: pick the widest of the three surfaces that the binary can reach.
+    A binary that can hit RFC1918 is effectively listening on lan too.
+    """
+    if lo:
+        return "localhost"
+    if lan:
+        return "lan"
+    if inet:
+        return "internet"
+    return "none"
+
+
+def derive_connect(text, lan_val, internet_val):
+    """Compute the three connect booleans.
+
+    Rule:
+      connect.internet: same as input internet_val
+      connect.lan:      internet_val OR LAN-keyword override (when internet=false)
+      connect.localhost: true (almost every binary can use loopback for IPC)
+    """
+    if internet_val:
+        return True, True, True
+    # internet=false — strip the network block itself before scanning for
+    # keywords so the field names ('lan:', 'localhost:', 'internet:') don't
+    # match themselves.
+    body = re.sub(
+        r'^\s+(localhost|lan|internet):\s+\S+',
+        '',
+        text,
+        flags=re.MULTILINE,
+    )
+    if LAN_ONLY_KEYWORDS.search(body):
+        return True, True, False
+    return True, False, False
+
+
+def phase2_migrate(yml_path: Path):
     text = yml_path.read_text()
-    if re.search(r'^\s+localhost:', text, re.MULTILINE):
-        return "skipped:already migrated"
+    if re.search(r'^\s+listen:', text, re.MULTILINE):
+        return "skipped:already migrated (listen/connect)"
+
     m = re.search(
-        r'^\s+local:\s+(\S+)\s*\n\s+internet:\s+(\S+)',
+        r'^(\s+)localhost:\s+(true|false)\s*\n'
+        r'\s+lan:\s+(true|false)\s*\n'
+        r'\s+internet:\s+(true|false)',
         text, re.MULTILINE,
     )
     if not m:
-        return "skipped:no network block"
-    local_val = m.group(1)
-    inet_val = m.group(2)
+        return "skipped:no three-bool block"
 
-    if inet_val == "true":
-        lan_val = "true"
-        needs_review = False
-    else:
-        # internet=false but is the tool explicitly LAN-only?
-        if LAN_ONLY_KEYWORDS.search(text):
-            lan_val = "true"
-            needs_review = False
-        else:
-            lan_val = "false"
-            needs_review = False
+    indent = m.group(1)
+    lo = m.group(2) == "true"
+    lan = m.group(3) == "true"
+    inet = m.group(4) == "true"
 
-    new_block_lines = [
-        f"      localhost: {local_val}",
-        f"      lan: {lan_val}",
-        f"      internet: {inet_val}",
-    ]
-    new_block = "\n".join(new_block_lines)
+    listen_val = derive_listen(lo, lan, inet)
+    conn_lo, conn_lan, conn_inet = derive_connect(text, lan, inet)
+
+    new_block = (
+        f"{indent}listen: {listen_val}\n"
+        f"{indent}connect:\n"
+        f"{indent}  localhost: {'true' if conn_lo else 'false'}\n"
+        f"{indent}  lan: {'true' if conn_lan else 'false'}\n"
+        f"{indent}  internet: {'true' if conn_inet else 'false'}"
+    )
 
     new_text, n = re.subn(
-        r'^(\s+)local:\s+\S+\s*\n\s+internet:\s+\S+',
+        r'^\s+localhost:\s+\S+\s*\n\s+lan:\s+\S+\s*\n\s+internet:\s+\S+',
         lambda mm: new_block,
         text,
         count=1,
@@ -88,13 +117,13 @@ def main():
     migrated = 0
     skipped = 0
     for p in SRC.rglob('*.yml'):
-        result = migrate(p)
+        result = phase2_migrate(p)
         if result == "migrated":
             migrated += 1
         else:
             skipped += 1
-    print(f"migrated:    {migrated}")
-    print(f"skipped:     {skipped}")
+    print(f"phase 2 migrated:  {migrated}")
+    print(f"skipped:           {skipped}")
 
 
 if __name__ == "__main__":
