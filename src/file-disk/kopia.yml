@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/kopia/kopia
   eget: https://github.com/kopia/kopia
+  dnf: kopia
+  brew: kopia
 rule:
   /x:
     cmd: x pkg use kopia

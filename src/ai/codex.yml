@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/openai/codex
   eget: https://github.com/openai/codex
+  brew: --cask
 rule:
   /eget:
     cmd: x eget openai/codex

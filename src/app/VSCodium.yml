@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/VSCodium/vscodium
   eget: https://github.com/VSCodium/vscodium
+  apt: codium
+  dnf: codium
+  brew: --cask
+  snap: codium
 rule:
   /eget:
     cmd: x eget VSCodium/vscodium

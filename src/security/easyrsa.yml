@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/OpenVPN/easy-rsa
   eget: https://github.com/OpenVPN/easy-rsa
+  brew: easy-rsa
 rule:
   /x:
     cmd: x pkg use easyrsa

@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/s3tools/s3cmd
   eget: https://github.com/s3tools/s3cmd
+  apt: s3cmd
+  dnf: s3cmd
+  brew: s3cmd
+  pacman: s3cmd
 rule:
   /x:
     cmd: x pkg use s3cmd

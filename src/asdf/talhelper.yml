@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/budimanjojo/talhelper
   eget: https://github.com/budimanjojo/talhelper
+  brew: talhelper
+  pacman: talhelper
 rule:
   /eget:
     cmd: x eget budimanjojo/talhelper

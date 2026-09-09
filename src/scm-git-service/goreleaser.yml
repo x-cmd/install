@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/goreleaser/goreleaser
   eget: https://github.com/goreleaser/goreleaser
+  apt: goreleaser
+  brew: goreleaser
+  snap: --classic
 rule:
   /x:
     cmd: x pkg use goreleaser

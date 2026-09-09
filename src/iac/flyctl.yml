@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/superfly/flyctl
   eget: https://github.com/superfly/flyctl
+  brew: flyctl
 rule:
   /eget:
     cmd: x eget superfly/flyctl

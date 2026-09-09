@@ -5,6 +5,7 @@ desc:
   en: venv module for python3 (default python3 version)
 x:
   source: https://github.com/python/cpython
+  apt: python3-venv
 rule:
   debian/apt:
     cmd: x apt install python3-venv

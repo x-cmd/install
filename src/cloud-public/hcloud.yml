@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/hetznercloud/cli
   eget: https://github.com/hetznercloud/cli
+  apt: hcloud-cli
+  brew: hcloud
 rule:
   /x:
     cmd: x pkg use hcloud

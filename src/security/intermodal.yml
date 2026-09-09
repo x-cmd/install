@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/casey/intermodal
   eget: https://github.com/casey/intermodal
+  brew: intermodal'
 rule:
   /cargo:
     cmd: 'cargo install imdl'

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/AnirudhG07/typeinc
   eget: https://github.com/AnirudhG07/typeinc
+  brew: typeinc
 rule:
   /eget:
     cmd: x eget AnirudhG07/typeinc

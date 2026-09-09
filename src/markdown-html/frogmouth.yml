@@ -6,6 +6,7 @@ desc:
   en: A Markdown viewer/browser for your terminal, built with Textual
 x:
   source: https://github.com/Textualize/frogmouth
+  brew: textualize/homebrew/frogmouth
 rule:
   arch/yay:
     cmd: yay -S frogmouth

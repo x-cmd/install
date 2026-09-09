@@ -6,6 +6,10 @@ desc:
   cn: 用 Rust 实现的非常快速的 tldr 版本
 x:
   source: https://github.com/dbrgn/tealdeer
+  apt: tealdeer
+  dnf: tealdeer
+  brew: tealdeer
+  pacman: tealdeer
 rule:
   /cargo:
     cmd: cargo install tealdeer

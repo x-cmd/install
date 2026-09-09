@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/PaddiM8/kalker
   eget: https://github.com/PaddiM8/kalker
+  brew: kalker'
 rule:
   /cargo:
     cmd: 'cargo install kalker'

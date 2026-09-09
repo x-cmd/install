@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/Canop/broot
   eget: https://github.com/Canop/broot
+  apt: broot
+  brew: broot
+  apk: broot
 rule:
   /eget:
     cmd: x eget Canop/broot

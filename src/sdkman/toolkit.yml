@@ -6,6 +6,7 @@ desc:
 x:
   pkg:
     exist: true
+  brew: iot-technology/tap/toolkit
 rule:
   /x:
     cmd: x pkg use toolkit

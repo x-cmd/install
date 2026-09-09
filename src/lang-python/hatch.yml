@@ -6,6 +6,9 @@ desc:
 x:
   source: https://github.com/pypa/hatch
   eget: https://github.com/pypa/hatch
+  apt: yt-dlp
+  dnf: hatch
+  brew: hatch
 rule:
   /eget:
     cmd: x eget pypa/hatch

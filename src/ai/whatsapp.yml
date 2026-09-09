@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/vicentereig/whatsapp-cli
   eget: https://github.com/vicentereig/whatsapp-cli
+  brew: vicentereig/tap/whatsapp-cli
 rule:
   /eget:
     cmd: x eget vicentereig/whatsapp-cli

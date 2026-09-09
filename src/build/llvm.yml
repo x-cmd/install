@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/llvm/llvm-project
   eget: https://github.com/llvm/llvm-project
+  apt: llvm-dev
+  dnf: llvm
+  brew: llvm
+  pacman: llvm
+  apk: llvm
 rule:
   /eget:
     cmd: x eget llvm/llvm-project

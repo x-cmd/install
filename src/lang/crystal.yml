@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/crystal-lang/crystal
   eget: https://github.com/crystal-lang/crystal
+  brew: crystal
 rule:
   /eget:
     cmd: x eget crystal-lang/crystal

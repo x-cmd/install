@@ -6,6 +6,7 @@ desc:
   cn: 极快的 JavaScript 打包器和压缩器
 x:
   source: https://github.com/evanw/esbuild
+  brew: esbuild
 rule:
   /npm:
     cmd: npm install -g esbuild

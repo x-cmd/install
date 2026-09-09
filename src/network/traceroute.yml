@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/iputils/iputils
   eget: https://github.com/iputils/iputils
+  apt: traceroute
+  dnf: traceroute-3
+  pacman: traceroute
 rule:
   /eget:
     cmd: x eget iputils/iputils

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/lima-vm/lima
   eget: https://github.com/lima-vm/lima
+  brew: lima
 rule:
   /eget:
     cmd: x eget lima-vm/lima

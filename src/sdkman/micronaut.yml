@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/micronaut-projects/micronaut-core
   eget: https://github.com/micronaut-projects/micronaut-core
+  brew: --cask
 rule:
   /x:
     cmd: x pkg use micronaut

@@ -5,6 +5,7 @@ desc:
   cn: 针对 libpoppler-qt5 的 Python 绑定，其目标是完整性和主动维护
 x:
   source: https://github.com/frescobaldi/python-poppler-qt5
+  brew: poppler-qt5
 rule:
   darwin/brew:
     cmd: brew install poppler-qt5

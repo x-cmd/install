@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/Byron/dua-cli
   eget: https://github.com/Byron/dua-cli
+  dnf: dua-cli
+  brew: dua-cli
+  pacman: dua-cli
 rule:
   /eget:
     cmd: x eget Byron/dua-cli

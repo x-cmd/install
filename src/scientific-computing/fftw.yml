@@ -6,6 +6,7 @@ desc:
   cn: FFTW 是一个 C 子程序库，用于在一个或多个维度上计算离散傅里叶变换 （DFT）
 x:
   source: https://github.com/FFTW/fftw3
+  brew: fftw
 rule:
   darwin/brew:
     cmd: brew install fftw

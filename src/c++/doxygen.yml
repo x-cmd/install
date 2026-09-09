@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/doxygen/doxygen
   eget: https://github.com/doxygen/doxygen
+  brew: doxygen
 rule:
   /eget:
     cmd: x eget doxygen/doxygen

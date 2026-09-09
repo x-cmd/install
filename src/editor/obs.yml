@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Yakitrak/obsidian-cli
   eget: https://github.com/Yakitrak/obsidian-cli
+  brew: yakitrak/yakitrak/obs
 rule:
   /eget:
     cmd: x eget Yakitrak/obsidian-cli

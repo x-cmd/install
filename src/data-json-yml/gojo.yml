@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/itchyny/gojo
   eget: https://github.com/itchyny/gojo
+  brew: itchyny/tap/gojo
 rule:
   /x:
     cmd: x pkg use gojo

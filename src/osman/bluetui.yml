@@ -6,6 +6,7 @@ desc:
   en: TUI for managing bluetooth on Linux.
 x:
   source: https://github.com/pythops/bluetui
+  pacman: bluetui
 rule:
   /cargo:
     cmd: cargo install bluetui

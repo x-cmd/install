@@ -5,6 +5,7 @@ desc:
   en: A thin layer of graphic data types
 x:
   source: https://github.com/ebassi/graphene
+  brew: graphene
 rule:
   arch/yay:
     cmd: yay -S graphene-git

@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/gettalong/kramdown
   eget: https://github.com/gettalong/kramdown
+  apt: ruby
 rule:
   /eget:
     cmd: x eget gettalong/kramdown

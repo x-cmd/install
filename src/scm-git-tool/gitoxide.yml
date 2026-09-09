@@ -6,6 +6,8 @@ desc:
   en: gitoxide is an implementation of git written in Rust for developing future-proof applications which strive for correctness and performance while providing a pleasant and unsurprising developer experience
 x:
   source: https://github.com/Byron/gitoxide
+  brew: gitoxide
+  pacman: gitoxide
 rule:
   darwin/brew:
     cmd: brew install gitoxide

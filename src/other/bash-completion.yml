@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/scop/bash-completion
   eget: https://github.com/scop/bash-completion
+  brew: bash-completion
 rule:
   /eget:
     cmd: x eget scop/bash-completion

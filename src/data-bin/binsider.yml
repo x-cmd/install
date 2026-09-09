@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/orhun/binsider
   eget: https://github.com/orhun/binsider
+  brew: binsider
+  pacman: binsider
 rule:
   /x:
     cmd: x pkg use binsider

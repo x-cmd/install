@@ -6,6 +6,10 @@ desc:
   en: Pack, ship and run any application as a lightweight container
 x:
   source: https://github.com/moby/moby
+  apt: docker-ce
+  dnf: docker-ce
+  brew: docker
+  pacman: docker
 rule:
   /curl:
     cmd: curl -sSL "https://get.docker.com/" | sh

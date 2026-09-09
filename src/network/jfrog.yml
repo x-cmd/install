@@ -6,6 +6,7 @@ desc:
   en: JFrog CLI is a compact and smart client that provides a simple interface that automates access to JFrog products simplifying your automation scripts and making them more readable and easier to maintain
 x:
   source: https://github.com/jfrog/jfrog-cli
+  brew: jfrog-cli
 rule:
   darwin/brew:
     cmd: brew install jfrog-cli

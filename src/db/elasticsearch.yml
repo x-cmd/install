@@ -5,6 +5,8 @@ desc:
   en: Elasticsearch is a distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases
 x:
   source: https://github.com/elastic/elasticsearch
+  apt: apt-transport-https
+  dnf: --enablerepo=elasticsearch
 rule:
   debian/apt:
     cmd: 'sudo apt-get install apt-transport-https && \

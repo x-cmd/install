@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/lutris/lutris
   eget: https://github.com/lutris/lutris
+  apt: lutris
+  dnf: lutris
+  pacman: lutris
 rule:
   /eget:
     cmd: x eget lutris/lutris

@@ -6,6 +6,8 @@ desc:
   en: Tools for using git as a client to mercurial repositories
 x:
   source: https://github.com/jdalrymple/gitifyhg
+  dnf: gitifyhg
+  brew: --cask
 rule:
   fedora/dnf:
     cmd: sudo dnf install gitifyhg

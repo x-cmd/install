@@ -6,6 +6,9 @@ desc:
   en: VisiData is a terminal tool for exploring and arranging data, supporting various data formats.
 x:
   source: https://github.com/saulpw/visidata
+  apt: visidata
+  brew: saulpw/vd/visidata
+  pacman: visidata
 rule:
   /pip:
     cmd: pip3 install visidata

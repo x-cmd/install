@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/containerd/nerdctl
   eget: https://github.com/containerd/nerdctl
+  brew: nerdctl
 rule:
   /eget:
     cmd: x eget containerd/nerdctl

@@ -6,6 +6,7 @@ desc:
   en: A TUI and CLI tool that eases the creation of chmod commands through a graphical terminal interface
 x:
   source: https://github.com/Mayowa-Ojo/chmod-cli
+  brew: Mayowa-Ojo/tap/chmod-cli
 rule:
   /brew:
     cmd: brew install Mayowa-Ojo/tap/chmod-cli

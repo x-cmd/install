@@ -6,6 +6,10 @@ desc:
   en: A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 x:
   source: https://github.com/lfos/calcurse
+  apt: calcurse
+  dnf: calcurse
+  brew: calcurse
+  pacman: calcurse
 rule:
   darwin/brew:
     cmd: brew install calcurse

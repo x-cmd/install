@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/evilmartians/lefthook
   eget: https://github.com/evilmartians/lefthook
+  apt: lefthook
+  dnf: lefthook
+  brew: lefthook
+  snap: --classic
 rule:
   /x:
     cmd: x pkg use lefthook

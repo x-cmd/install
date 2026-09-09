@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/ipfs/kubo
   eget: https://github.com/ipfs/kubo
+  brew: ipfs
+  pacman: go-ipfs
 rule:
   /eget:
     cmd: x eget ipfs/kubo

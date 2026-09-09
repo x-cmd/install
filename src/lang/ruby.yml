@@ -5,6 +5,11 @@ desc:
   en: Ruby is an interpreted object-oriented programming language often used for web development.
 x:
   source: https://github.com/ruby/ruby
+  apt: ruby-full
+  dnf: ruby
+  brew: ruby
+  pacman: ruby
+  snap: ruby
 rule:
   debian/apt:
     cmd: sudo apt-get install ruby-full

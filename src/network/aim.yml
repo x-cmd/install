@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/mihaigalos/aim
   eget: https://github.com/mihaigalos/aim
+  brew: aim
 rule:
   /eget:
     cmd: x eget mihaigalos/aim

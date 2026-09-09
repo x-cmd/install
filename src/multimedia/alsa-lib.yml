@@ -6,6 +6,7 @@ desc:
   en: Provides audio and MIDI functionality to the Linux operating system
 x:
   source: https://github.com/alsa-project/alsa-lib
+  brew: alsa-lib
 rule:
   darwin/brew:
     cmd: brew install alsa-lib

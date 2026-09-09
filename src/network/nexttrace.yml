@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/nxtrace/NTrace-core
   eget: https://github.com/nxtrace/NTrace-core
+  apt: nexttrace
+  brew: nexttrace
 rule:
   /x:
     cmd: x pkg use nexttrace

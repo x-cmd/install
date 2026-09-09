@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/FairwindsOps/pluto
   eget: https://github.com/FairwindsOps/pluto
+  brew: pluto
 rule:
   /eget:
     cmd: x eget FairwindsOps/pluto

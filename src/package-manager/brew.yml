@@ -6,6 +6,7 @@ desc:
   en: The missing package manager for macOS (or Linux)
 x:
   source: https://github.com/Homebrew/brew
+  apt: linuxbrew-wrapper
 rule:
   /curl:
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

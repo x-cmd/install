@@ -6,6 +6,10 @@ desc:
   en: Bazaar (bzr) is a decentralized revision control system, designed to be easy for developers and end users alike
 x:
   source: https://github.com/breezy-team/breezy
+  apt: bzr
+  dnf: bzr
+  pacman: bzr
+  apk: bzr
 rule:
   /pip:
     cmd: pip install bzr

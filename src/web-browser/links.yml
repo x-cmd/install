@@ -6,6 +6,11 @@ desc:
   en: Links is a graphics and text mode web browser.
 x:
   source: https://github.com/nmbazima/LinksWWWbrowser
+  apt: links
+  dnf: links
+  brew: links
+  pacman: links
+  apk: links
 rule:
   darwin/brew:
     cmd: brew install links

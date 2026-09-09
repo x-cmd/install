@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/haskell/haskell-language-server
   eget: https://github.com/haskell/haskell-language-server
+  brew: haskell-language-server
 rule:
   /eget:
     cmd: x eget haskell/haskell-language-server

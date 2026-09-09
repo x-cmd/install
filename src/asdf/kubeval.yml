@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/instrumenta/kubeval
   eget: https://github.com/instrumenta/kubeval
+  brew: c
 rule:
   /eget:
     cmd: x eget instrumenta/kubeval

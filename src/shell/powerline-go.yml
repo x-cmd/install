@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/justjanne/powerline-go
   eget: https://github.com/justjanne/powerline-go
+  brew: powerline-go
 rule:
   /x:
     cmd: x pkg use powerline-go

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/marwanhawari/stew
   eget: https://github.com/marwanhawari/stew
+  brew: marwanhawari/tap/stew
+  pacman: stew
 rule:
   /eget:
     cmd: x eget marwanhawari/stew

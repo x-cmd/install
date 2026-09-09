@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/anchore/grype
   eget: https://github.com/anchore/grype
+  brew: grype
 rule:
   /x:
     cmd: x pkg use grype

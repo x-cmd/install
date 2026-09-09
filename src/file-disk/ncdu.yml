@@ -6,6 +6,11 @@ desc:
 x:
   pkg:
     exist: true
+  apt: ncdu
+  dnf: ncdu
+  brew: ncdu
+  pacman: ncdu
+  apk: ncdu
 rule:
   /x:
     cmd: x pkg use ncdu

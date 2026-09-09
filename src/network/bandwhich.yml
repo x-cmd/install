@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/imsnif/bandwhich
   eget: https://github.com/imsnif/bandwhich
+  dnf: bandwhich
+  brew: bandwhich
+  pacman: bandwhich
 rule:
   /x:
     cmd: x pkg use bandwhich

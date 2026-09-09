@@ -6,6 +6,10 @@ desc:
   en: cmus is a small, fast and powerful console music player for Unix-like operating systems.
 x:
   source: https://github.com/cmus/cmus
+  apt: cmus
+  brew: cmus
+  pacman: cmus
+  apk: cmus
 rule:
   darwin/brew:
     cmd: brew install cmus

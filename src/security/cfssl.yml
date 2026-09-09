@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/cloudflare/cfssl
   eget: https://github.com/cloudflare/cfssl
+  brew: cfssl
 rule:
   /x:
     cmd: x pkg use cfssl

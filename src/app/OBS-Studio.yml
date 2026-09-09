@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/obsproject/obs-studio
   eget: https://github.com/obsproject/obs-studio
+  apt: obs-studio
+  brew: --cask
+  pacman: obs-studio
 rule:
   /eget:
     cmd: x eget obsproject/obs-studio

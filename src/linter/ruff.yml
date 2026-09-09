@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/astral-sh/ruff
   eget: https://github.com/astral-sh/ruff
+  brew: ruff
 rule:
   /x:
     cmd: x pkg use ruff

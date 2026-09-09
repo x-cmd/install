@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Kitware/CMake
   eget: https://github.com/Kitware/CMake
+  brew: cmake
 rule:
   /eget:
     cmd: x eget Kitware/CMake

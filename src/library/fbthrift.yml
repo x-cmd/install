@@ -6,6 +6,7 @@ desc:
   cn: Thrift 是一种用于服务通信的序列化和 RPC 框架
 x:
   source: https://github.com/facebook/fbthrift
+  brew: fbthrift
 rule:
   arch/yay:
     cmd: yay -S fbthrift-git

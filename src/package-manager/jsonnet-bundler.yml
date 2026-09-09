@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/jsonnet-bundler/jsonnet-bundler
   eget: https://github.com/jsonnet-bundler/jsonnet-bundler
+  brew: jsonnet-bundler
 rule:
   /eget:
     cmd: x eget jsonnet-bundler/jsonnet-bundler

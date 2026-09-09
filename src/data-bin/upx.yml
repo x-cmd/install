@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/upx/upx
   eget: https://github.com/upx/upx
+  dnf: upx
+  pacman: upx
+  apk: upx
 rule:
   /x:
     cmd: x pkg use upx

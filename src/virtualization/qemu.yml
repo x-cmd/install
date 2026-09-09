@@ -5,6 +5,10 @@ desc:
   cn: 一个通用的开源机器模拟器和虚拟化器
 x:
   source: https://github.com/qemu/qemu
+  apt: qemu-system
+  dnf: qemu-kvm
+  brew: qemu
+  pacman: qemu
 rule:
   darwin/brew:
     cmd: brew install qemu

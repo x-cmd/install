@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/GyulyVGC/sniffnet
   eget: https://github.com/GyulyVGC/sniffnet
+  brew: sniffnet
+  pacman: sniffnet
 rule:
   /eget:
     cmd: x eget GyulyVGC/sniffnet

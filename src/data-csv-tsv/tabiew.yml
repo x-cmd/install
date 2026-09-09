@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/shshemi/tabiew
   eget: https://github.com/shshemi/tabiew
+  brew: shshemi/tabiew/tabiew
+  pacman: tabiew
 rule:
   /x:
     cmd: x pkg use tabiew

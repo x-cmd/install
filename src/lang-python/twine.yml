@@ -6,6 +6,10 @@ desc:
   en: Twine is a utility for publishing Python packages to PyPI and other repositories
 x:
   source: https://github.com/pypa/twine
+  apt: twine
+  dnf: twine
+  brew: --cask
+  pacman: twine
 rule:
   /pip:
     cmd: pip install twine

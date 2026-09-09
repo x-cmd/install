@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/carapace-sh/carapace-bin
   eget: https://github.com/carapace-sh/carapace-bin
+  brew: rsteube/tap/carapace
 rule:
   /x:
     cmd: x pkg use carapace-bin

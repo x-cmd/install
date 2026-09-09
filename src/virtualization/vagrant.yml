@@ -5,6 +5,10 @@ desc:
   cn: Vagrant 是用于管理虚拟机生命周期的命令行实用程序
 x:
   source: https://github.com/hashicorp/vagrant
+  apt: vagrant
+  dnf: vagrant
+  brew: --cask
+  pacman: vagrant
 rule:
   (win|wsl2)/scoop:
     cmd: x scoop install main/vagrant

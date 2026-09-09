@@ -6,6 +6,10 @@ desc:
 x:
   pkg:
     exist: true
+  dnf: glab
+  brew: glab
+  pacman: glab
+  apk: --no-cache
 rule:
   /x:
     cmd: x pkg use glab

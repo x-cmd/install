@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/fastfetch-cli/fastfetch
   eget: https://github.com/fastfetch-cli/fastfetch
+  apt: fastfetch
+  dnf: fastfetch
+  brew: fastfetch
+  pacman: fastfetch
+  apk: --upgrade
 rule:
   /eget:
     cmd: x eget fastfetch-cli/fastfetch

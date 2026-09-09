@@ -6,6 +6,10 @@ desc:
 x:
   pkg:
     exist: true
+  apt: rakudo
+  dnf: rakudo
+  brew: rakudo
+  apk: rakudo
 rule:
   /x:
     cmd: x pkg use raku

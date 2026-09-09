@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/osquery/osquery
   eget: https://github.com/osquery/osquery
+  brew: --cask
 rule:
   /eget:
     cmd: x eget osquery/osquery

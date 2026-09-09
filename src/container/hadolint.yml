@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/hadolint/hadolint
   eget: https://github.com/hadolint/hadolint
+  brew: hadolint
 rule:
   /x:
     cmd: x pkg use hadolint

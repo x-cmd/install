@@ -6,6 +6,10 @@ desc:
   en: WeeChat is a fast, light and extensible chat client, with a text-based user interface.
 x:
   source: https://github.com/weechat/weechat
+  apt: weechat-curses
+  dnf: weechat
+  brew: weechat
+  pacman: weechat
 rule:
   arch/pacman:
     cmd: sudo pacman -S weechat

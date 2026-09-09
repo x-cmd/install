@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/ddev/ddev
   eget: https://github.com/ddev/ddev
+  apt: -y
+  dnf: --refresh
+  brew: ddev/ddev/ddev
 rule:
   /eget:
     cmd: x eget ddev/ddev

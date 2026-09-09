@@ -5,6 +5,11 @@ desc:
   en: A visual file manager, providing a Norton Commander-like interface and functionality, displaying different directories of the file system on the left and right sides, supporting various file operations, and including built-in text editors and file viewers. It is a cross-platform tool that supports multiple operating systems, including Linux and macOS.
 x:
   source: https://github.com/MidnightCommander/mc
+  apt: mc
+  dnf: mc
+  brew: midnight-commander
+  pacman: mc
+  apk: mc
 rule:
   darwin/brew:
     cmd: brew install midnight-commander

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Kotlin/kotlin-interactive-shell
   eget: https://github.com/Kotlin/kotlin-interactive-shell
+  brew: ki
 rule:
   /eget:
     cmd: x eget Kotlin/kotlin-interactive-shell

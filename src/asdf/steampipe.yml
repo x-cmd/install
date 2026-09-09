@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/turbot/steampipe
   eget: https://github.com/turbot/steampipe
+  brew: turbot/tap/steampipe
 rule:
   /eget:
     cmd: x eget turbot/steampipe

@@ -6,6 +6,9 @@ desc:
   cn: 一个用于终端/控制台的实时绘图工具，数据来源于标准输入 (stdin)
 x:
   source: https://github.com/tenox7/ttyplot
+  apt: ttyplot
+  brew: ttyplot
+  snap: ttyplot
 rule:
   ubuntu/snap:
     cmd: snap install ttyplot

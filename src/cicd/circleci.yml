@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/CircleCI-Public/circleci-cli
   eget: https://github.com/CircleCI-Public/circleci-cli
+  brew: circleci
+  snap: circleci
 rule:
   /eget:
     cmd: x eget CircleCI-Public/circleci-cli

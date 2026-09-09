@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/txthinking/zoro
   eget: https://github.com/txthinking/zoro
+  brew: zoro
 rule:
   /x:
     cmd: x pkg use zoro

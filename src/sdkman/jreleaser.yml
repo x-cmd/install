@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/jreleaser/jreleaser
   eget: https://github.com/jreleaser/jreleaser
+  brew: jreleaser
 rule:
   /eget:
     cmd: x eget jreleaser/jreleaser

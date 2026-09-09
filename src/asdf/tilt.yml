@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/tilt-dev/tilt
   eget: https://github.com/tilt-dev/tilt
+  brew: tilt-dev/tap/tilt
 rule:
   /eget:
     cmd: x eget tilt-dev/tilt

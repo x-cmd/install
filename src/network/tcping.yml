@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/pouriyajamshidi/tcping
   eget: https://github.com/pouriyajamshidi/tcping
+  apt: -y
+  brew: pouriyajamshidi/tap/tcping
 rule:
   /x:
     cmd: x pkg use tcping

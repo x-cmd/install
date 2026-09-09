@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/9001/copyparty
   eget: https://github.com/9001/copyparty
+  brew: copyparty
+  pacman: copyparty
 rule:
   /eget:
     cmd: x eget 9001/copyparty

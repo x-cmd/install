@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/charmbracelet/soft-serve
   eget: https://github.com/charmbracelet/soft-serve
+  apt: soft-serve
+  dnf: soft-serve
+  brew: charmbracelet/tap/soft-serve
+  pacman: soft-serve
 rule:
   /x:
     cmd: x pkg use soft-serve

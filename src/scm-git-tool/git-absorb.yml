@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/tummychow/git-absorb
   eget: https://github.com/tummychow/git-absorb
+  apt: git-absorb
+  dnf: git-absorb
+  brew: git-absorb
+  pacman: git-absorb
 rule:
   /eget:
     cmd: x eget tummychow/git-absorb

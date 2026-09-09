@@ -6,6 +6,7 @@ desc:
   cn: Appium 是用于本机，混合，移动网络和桌面应用的开源，跨平台测试自动化工具
 x:
   source: https://github.com/appium/appium
+  brew: appium
 rule:
   darwin/brew:
     cmd: brew install appium

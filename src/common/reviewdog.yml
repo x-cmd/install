@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/reviewdog/reviewdog
   eget: https://github.com/reviewdog/reviewdog
+  brew: reviewdog/tap/reviewdog
 rule:
   /x:
     cmd: x pkg use reviewdog

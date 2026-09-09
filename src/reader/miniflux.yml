@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/miniflux/v2
   eget: https://github.com/miniflux/v2
+  brew: miniflux
+  snap: miniflux
 rule:
   /x:
     cmd: x pkg use miniflux

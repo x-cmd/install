@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/arturo-lang/arturo
   eget: https://github.com/arturo-lang/arturo
+  brew: arturo
 rule:
   /x:
     cmd: x pkg use arturo

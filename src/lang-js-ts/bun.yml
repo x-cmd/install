@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/oven-sh/bun
   eget: https://github.com/oven-sh/bun
+  brew: bun
 rule:
   /x:
     cmd: x pkg use bun

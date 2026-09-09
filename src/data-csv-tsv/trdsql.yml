@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/noborus/trdsql
   eget: https://github.com/noborus/trdsql
+  brew: noborus/tap/trdsql
 rule:
   /x:
     cmd: x pkg use trdsql

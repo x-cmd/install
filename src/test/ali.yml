@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/nakabonne/ali
   eget: https://github.com/nakabonne/ali
+  apt: ./ali_0.7.3_linux_amd64.deb
+  brew: nakabonne/ali/ali
+  pacman: ali
+  apk: ali
 rule:
   /eget:
     cmd: x eget nakabonne/ali

@@ -6,6 +6,8 @@ desc:
 x:
   pkg:
     exist: true
+  apt: tea
+  brew: tea
 rule:
   /x:
     cmd: x pkg use tea

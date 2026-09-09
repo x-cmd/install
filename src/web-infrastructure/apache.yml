@@ -6,6 +6,10 @@ desc:
   en: The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows
 x:
   source: https://github.com/apache/httpd
+  apt: apache2
+  dnf: httpd
+  brew: httpd
+  pacman: apache
 rule:
   darwin/brew:
     cmd: brew install httpd

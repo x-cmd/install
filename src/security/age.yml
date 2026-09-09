@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/FiloSottile/age
   eget: https://github.com/FiloSottile/age
+  apt: age
+  dnf: age
+  brew: age
+  pacman: age
+  apk: age
 rule:
   /eget:
     cmd: x eget FiloSottile/age

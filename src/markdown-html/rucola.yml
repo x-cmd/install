@@ -6,6 +6,8 @@ desc:
   en: A terminal based markdown note manager designed for zettelkasten-style note systems.
 x:
   source: https://github.com/Linus-Mussmaecher/rucola
+  brew: Linus-Mussmaecher/tap/rucola
+  pacman: rucola
 rule:
   arch/yay:
     cmd: yay -S rucola-notes-bin

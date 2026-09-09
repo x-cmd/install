@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/crate-ci/typos
   eget: https://github.com/crate-ci/typos
+  brew: typos-cli
 rule:
   /x:
     cmd: x pkg use typos

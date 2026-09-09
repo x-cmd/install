@@ -6,6 +6,7 @@ desc:
   en: Automate generation of man pages for python click applications
 x:
   source: https://github.com/click-contrib/click-man
+  dnf: python3-click-man
 rule:
   /pip3:
     cmd: pip3 install click-man

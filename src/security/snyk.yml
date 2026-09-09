@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/snyk/cli
   eget: https://github.com/snyk/cli
+  brew: snyk
 rule:
   /x:
     cmd: x pkg use snyk

@@ -9,6 +9,12 @@ x:
     exist: true
   source: https://github.com/charmbracelet/vhs
   eget: https://github.com/charmbracelet/vhs
+  apt: vhs
+  dnf: vhs
+  brew: vhs
+  pacman: vhs
+  apk: vhs
+  snap: ttyd
 rule:
   /x:
     cmd: x pkg use vhs

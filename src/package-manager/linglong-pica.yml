@@ -6,6 +6,7 @@ desc:
   en: Provide the ability to convert the DEB package to the exquisite package, generate the linglong.yaml file required to build the exquisite application, and rely on LL-Builder to achieve application construction and export.
 x:
   source: https://github.com/linuxdeepin/linglong-pica
+  apt: linglong-pica
 rule:
   deepin/apt:
     cmd: sudo apt install linglong-pica

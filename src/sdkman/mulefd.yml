@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/manikmagar/mulefd
   eget: https://github.com/manikmagar/mulefd
+  brew: manikmagar/tap/mulefd
 rule:
   /eget:
     cmd: x eget manikmagar/mulefd

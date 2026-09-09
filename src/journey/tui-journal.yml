@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/AmmarAbouZor/tui-journal
   eget: https://github.com/AmmarAbouZor/tui-journal
+  brew: AmmarAbouZor/homebrew-tui-journal/tui-journal
+  pacman: tui-journal
+  apk: tui-journal
 rule:
   /eget:
     cmd: x eget AmmarAbouZor/tui-journal

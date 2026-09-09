@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/sauljabin/kaskade
   eget: https://github.com/sauljabin/kaskade
+  brew: kaskade
 rule:
   /eget:
     cmd: x eget sauljabin/kaskade

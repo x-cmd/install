@@ -6,6 +6,10 @@ desc:
   en: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser
 x:
   source: https://github.com/allinurl/goaccess
+  apt: goaccess
+  dnf: goaccess
+  brew: goaccess
+  pacman: goaccess
 rule:
   debian/apt:
     cmd: sudo apt-get install goaccess

@@ -6,6 +6,10 @@ desc:
   en: wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
 x:
   source: https://github.com/uoaerg/wavemon
+  apt: wavemon
+  dnf: wavemon
+  pacman: wavemon
+  apk: wavemon
 rule:
   opensuse/zypper:
     cmd: sudo zypper install wavemon

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/itchyny/bed
   eget: https://github.com/itchyny/bed
+  brew: itchyny/tap/bed
 rule:
   /x:
     cmd: x pkg use bed

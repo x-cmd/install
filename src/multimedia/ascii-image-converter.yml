@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/TheZoraiz/ascii-image-converter
   eget: https://github.com/TheZoraiz/ascii-image-converter
+  apt: -y
+  brew: TheZoraiz/ascii-image-converter/ascii-image-converter
+  snap: ascii-image-converter
 rule:
   /x:
     cmd: x pkg use ascii-image-converter

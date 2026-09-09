@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/surge-downloader/surge
   eget: https://github.com/surge-downloader/surge
+  brew: SurgeDM/tap/surge'
 rule:
   darwin/brew:
     cmd: 'brew install SurgeDM/tap/surge'

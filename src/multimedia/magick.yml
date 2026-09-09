@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/ImageMagick/ImageMagick
   eget: https://github.com/ImageMagick/ImageMagick
+  dnf: ImageMagick
+  brew: imagemagick
+  pacman: ImageMagick
 rule:
   /x:
     cmd: x pkg use magick

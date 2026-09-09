@@ -6,6 +6,7 @@ desc:
   en: AUR helper with minimal dependencies
 x:
   source: https://github.com/actionless/pikaur
+  pacman: --needed
 rule:
   arch/pacman:
     cmd: 'sudo pacman -S --needed base-devel git \

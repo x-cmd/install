@@ -5,6 +5,7 @@ desc:
   cn: “AWK 编程语言” 中描述的最初 AWK
 x:
   source: https://github.com/onetrueawk/awk
+  apt: original-awk
 rule:
   debian/apt:
     cmd: sudo apt-get install original-awk

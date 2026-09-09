@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/hisbaan/didyoumean
   eget: https://github.com/hisbaan/didyoumean
+  brew: didyoumean
 rule:
   /eget:
     cmd: x eget hisbaan/didyoumean

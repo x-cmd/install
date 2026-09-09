@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/aitjcize/cppman
   eget: https://github.com/aitjcize/cppman
+  apt: cppman
+  brew: cppman
 rule:
   /eget:
     cmd: x eget aitjcize/cppman

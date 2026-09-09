@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/conda/conda
   eget: https://github.com/conda/conda
+  brew: --cask
 rule:
   /eget:
     cmd: x eget conda/conda

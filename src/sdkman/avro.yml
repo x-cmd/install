@@ -6,6 +6,7 @@ desc:
   en: Apache Avro™ is the leading serialization format for record data, and first choice for streaming data pipelines
 x:
   source: https://github.com/apache/avro
+  brew: avro-cpp
 rule:
   darwin/brew:
     cmd: brew install avro-cpp

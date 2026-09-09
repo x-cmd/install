@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/tstack/lnav
   eget: https://github.com/tstack/lnav
+  dnf: lnav
+  brew: lnav
+  snap: lnav
 rule:
   /eget:
     cmd: x eget tstack/lnav

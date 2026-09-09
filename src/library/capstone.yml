@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/capstone-engine/capstone
   eget: https://github.com/capstone-engine/capstone
+  brew: capstone
 rule:
   /eget:
     cmd: x eget capstone-engine/capstone

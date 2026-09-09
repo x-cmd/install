@@ -6,6 +6,8 @@ desc:
   en: AirPlay-Mirror and AirPlay-Audio server for Linux, macOS, and Unix
 x:
   source: https://github.com/antimof/UxPlay
+  apt: uxplay
+  dnf: uxplay
 rule:
   debian/apt:
     cmd: sudo apt install uxplay

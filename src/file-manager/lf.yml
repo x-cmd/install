@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/gokcehan/lf
   eget: https://github.com/gokcehan/lf
+  dnf: lf
+  brew: lf
+  apk: lf
 rule:
   /x:
     cmd: x pkg use lf

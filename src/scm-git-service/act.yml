@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/nektos/act
   eget: https://github.com/nektos/act
+  apt: artemis
+  dnf: act-cli
+  brew: act
 rule:
   /x:
     cmd: x pkg use act

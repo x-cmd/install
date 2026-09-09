@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/digitalocean/doctl
   eget: https://github.com/digitalocean/doctl
+  dnf: doctl
+  brew: doctl
+  pacman: doctl
+  snap: doctl
 rule:
   /x:
     cmd: x pkg use doctl

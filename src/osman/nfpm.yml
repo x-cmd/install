@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/goreleaser/nfpm
   eget: https://github.com/goreleaser/nfpm
+  brew: nfpm
 rule:
   /x:
     cmd: x pkg use nfpm

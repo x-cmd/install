@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/beetbox/beets
   eget: https://github.com/beetbox/beets
+  apt: beets
+  dnf: beets
+  pacman: beets
 rule:
   /eget:
     cmd: x eget beetbox/beets

@@ -6,6 +6,7 @@ desc:
   en: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods.
 x:
   source: https://github.com/Lifailon/lazyjournal
+  brew: lazyjournal
 rule:
   /curl:
     cmd: curl -sS https://raw.githubusercontent.com/Lifailon/lazyjournal/main/install.sh | bash

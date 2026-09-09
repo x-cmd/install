@@ -6,6 +6,9 @@ desc:
 x:
   source: https://github.com/git-lfs/git-lfs
   eget: https://github.com/git-lfs/git-lfs
+  apt: git-lfs
+  dnf: git-lfs
+  brew: git-lfs
 rule:
   /eget:
     cmd: x eget git-lfs/git-lfs

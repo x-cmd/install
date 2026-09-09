@@ -5,6 +5,9 @@ desc:
   en: WezTerm is a powerful cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 x:
   source: https://github.com/wez/wezterm
+  apt: wezterm
+  dnf: -y
+  brew: --cask
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install wezterm

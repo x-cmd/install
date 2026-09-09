@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/maaslalani/invoice
   eget: https://github.com/maaslalani/invoice
+  brew: invoice
 rule:
   /x:
     cmd: x pkg use invoice

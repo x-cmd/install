@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/peco/peco
   eget: https://github.com/peco/peco
+  apt: peco
+  brew: peco
 rule:
   /x:
     cmd: x pkg use peco

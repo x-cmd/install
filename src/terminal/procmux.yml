@@ -6,6 +6,7 @@ desc:
   en: A terminal multiplexer for processes.
 x:
   source: https://github.com/napisani/procmux
+  brew: procmux
 rule:
   /pip:
     cmd: pip install procmux

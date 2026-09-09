@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/yt-dlp/yt-dlp
   eget: https://github.com/yt-dlp/yt-dlp
+  apt: yt-dlp
+  brew: yt-dlp
 rule:
   /eget:
     cmd: x eget yt-dlp/yt-dlp

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/charmbracelet/pop
   eget: https://github.com/charmbracelet/pop
+  brew: pop
 rule:
   /eget:
     cmd: x eget charmbracelet/pop

@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/k1LoW/octocov
   eget: https://github.com/k1LoW/octocov
+  brew: k1LoW/tap/octocov
 rule:
   /eget:
     cmd: x eget k1LoW/octocov

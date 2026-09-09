@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/fluentci-io/fluentci
   eget: https://github.com/fluentci-io/fluentci
+  brew: fluentci-io/tap/cli
 rule:
   /eget:
     cmd: x eget fluentci-io/fluentci

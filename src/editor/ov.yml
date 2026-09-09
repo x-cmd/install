@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/noborus/ov
   eget: https://github.com/noborus/ov
+  brew: noborus/tap/ov
+  pacman: ov
 rule:
   /eget:
     cmd: x eget noborus/ov

@@ -6,6 +6,8 @@ desc:
   cn: QEMU 的 Ncurses UI
 x:
   source: https://github.com/nemuTUI/nemu
+  brew: nemu
+  apk: nemu
 rule:
   alpine/apk:
     cmd: apk add nemu

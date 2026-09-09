@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/ossf/scorecard
   eget: https://github.com/ossf/scorecard
+  brew: scorecard
 rule:
   /x:
     cmd: x pkg use scorecard

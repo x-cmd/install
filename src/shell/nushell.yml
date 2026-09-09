@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/nushell/nushell
   eget: https://github.com/nushell/nushell
+  brew: nushell
 rule:
   /eget:
     cmd: x eget nushell/nushell

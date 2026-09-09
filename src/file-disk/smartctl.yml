@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/smartmontools/smartmontools
   eget: https://github.com/smartmontools/smartmontools
+  apt: smartmontools
+  dnf: smartmontools-1
+  brew: smartmontools
+  pacman: smartmontools
+  apk: smartmontools
 rule:
   /eget:
     cmd: x eget smartmontools/smartmontools

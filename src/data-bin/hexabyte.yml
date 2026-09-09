@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/thetacom/hexabyte
   eget: https://github.com/thetacom/hexabyte
+  pacman: hexabyte
 rule:
   /eget:
     cmd: x eget thetacom/hexabyte

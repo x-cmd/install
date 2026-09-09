@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/darktable-org/darktable
   eget: https://github.com/darktable-org/darktable
+  apt: darktable
+  dnf: darktable
+  brew: --cask
 rule:
   /eget:
     cmd: x eget darktable-org/darktable

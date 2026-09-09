@@ -6,6 +6,7 @@ desc:
   en: Dwarf Fortress is a deeply complex building and simulation game, known for its intricate systems and high player freedom.
 x:
   source: https://github.com/Baystation12/Baystation12
+  apt: dwarf-fortress
 rule:
   (win|wsl2)/scoop:
     cmd: |

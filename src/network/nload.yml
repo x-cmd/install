@@ -6,6 +6,11 @@ desc:
   en: nload is a console application which monitors network traffic and bandwidth usage in real time.
 x:
   source: https://github.com/rolandriegel/nload
+  apt: nload
+  dnf: nload
+  brew: nload
+  pacman: nload
+  apk: nload
 rule:
   debian/apt:
     cmd: sudo apt-get install nload

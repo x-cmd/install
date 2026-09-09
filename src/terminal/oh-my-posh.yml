@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jandedobbeleer/oh-my-posh
   eget: https://github.com/jandedobbeleer/oh-my-posh
+  brew: jandedobbeleer/oh-my-posh/oh-my-posh
 rule:
   /x:
     cmd: x pkg use oh-my-posh

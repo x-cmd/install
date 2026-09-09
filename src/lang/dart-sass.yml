@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/sass/dart-sass
   eget: https://github.com/sass/dart-sass
+  brew: node-sass
 rule:
   /eget:
     cmd: x eget sass/dart-sass

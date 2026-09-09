@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/moncho/dry
   eget: https://github.com/moncho/dry
+  brew: dry
 rule:
   /x:
     cmd: x pkg use dry

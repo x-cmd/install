@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/Stirling-Tools/Stirling-PDF
   eget: https://github.com/Stirling-Tools/Stirling-PDF
+  apt: -y
+  dnf: -y
 rule:
   /eget:
     cmd: x eget Stirling-Tools/Stirling-PDF

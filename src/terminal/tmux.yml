@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/tmux/tmux
   eget: https://github.com/tmux/tmux
+  apt: tmux
+  dnf: tmux
+  brew: tmux
+  pacman: tmux
+  apk: tmux
 rule:
   /eget:
     cmd: x eget tmux/tmux

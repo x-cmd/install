@@ -5,6 +5,9 @@ desc:
   en: libfido2 provides library functionality and command-line tools to communicate with a FIDO device over USB or NFC, and to verify attestation and assertion signatures
 x:
   source: https://github.com/Yubico/libfido2
+  apt: libfido2-1
+  dnf: libfido2
+  brew: libfido2
 rule:
   arch/yay:
     cmd: yay -S libfido2-git

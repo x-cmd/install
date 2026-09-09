@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/tgraf/bmon
   eget: https://github.com/tgraf/bmon
+  apt: bmon
+  dnf: bmon
+  brew: bmon
+  pacman: bmon
+  apk: bmon
 rule:
   /eget:
     cmd: x eget tgraf/bmon

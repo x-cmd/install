@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/eza-community/eza
   eget: https://github.com/eza-community/eza
+  apt: -y
+  dnf: eza
+  brew: eza
+  pacman: eza
 rule:
   /x:
     cmd: x pkg use eza

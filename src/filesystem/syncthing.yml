@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/syncthing/syncthing
   eget: https://github.com/syncthing/syncthing
+  apt: syncthing
+  dnf: syncthing
+  pacman: syncthing
+  apk: syncthing
 rule:
   /eget:
     cmd: x eget syncthing/syncthing

@@ -6,6 +6,7 @@ desc:
   en: Braindrop is a terminal-based client application for the raindrop.io bookmarking service.
 x:
   source: https://github.com/davep/braindrop
+  brew: braindrop
 rule:
   /pipx:
     cmd: pipx install braindrop

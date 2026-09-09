@@ -6,6 +6,7 @@ desc:
   cn: 用于查看和编辑数据库的图形用户界面（TUI）
 x:
   source: https://github.com/mathaou/termdbms
+  pacman: termdbms-git
 rule:
   /go:
     cmd: go install github.com/mathaou/termdbms@latest

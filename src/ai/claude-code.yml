@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/anthropics/claude-code
   eget: https://github.com/anthropics/claude-code
+  brew: --cask
 rule:
   /x:
     cmd: x pkg use claude-code

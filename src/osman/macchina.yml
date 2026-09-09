@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/macchina-cli/macchina
   eget: https://github.com/macchina-cli/macchina
+  brew: macchina
 rule:
   /x:
     cmd: x pkg use macchina

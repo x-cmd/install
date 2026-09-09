@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/pressly/goose
   eget: https://github.com/pressly/goose
+  brew: goose
 rule:
   /eget:
     cmd: x eget pressly/goose

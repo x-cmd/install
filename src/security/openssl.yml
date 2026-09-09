@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/openssl/openssl
   eget: https://github.com/openssl/openssl
+  apt: openssl
+  dnf: openssl
+  brew: openssl@3.0
+  pacman: openssl
+  apk: openssl
 rule:
   /eget:
     cmd: x eget openssl/openssl

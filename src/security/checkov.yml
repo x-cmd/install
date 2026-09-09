@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/bridgecrewio/checkov
   eget: https://github.com/bridgecrewio/checkov
+  brew: checkov
 rule:
   /eget:
     cmd: x eget bridgecrewio/checkov

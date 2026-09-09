@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/fullstorydev/grpcurl
   eget: https://github.com/fullstorydev/grpcurl
+  dnf: grpcurl
+  brew: grpcurl
 rule:
   /x:
     cmd: x pkg use grpcurl

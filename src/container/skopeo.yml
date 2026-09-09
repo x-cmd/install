@@ -6,6 +6,9 @@ desc:
   en: skopeo is a command line utility that performs various operations on container images and image repositories
 x:
   source: https://github.com/containers/skopeo
+  brew: skopeo
+  pacman: skopeo
+  apk: skopeo
 rule:
   fedora/dnf:
     cmd: sudo dnf -y install skopeo

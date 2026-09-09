@@ -6,6 +6,8 @@ desc:
   en: Linux Kernel Manager and Activity Monitor.
 x:
   source: https://github.com/orhun/kmon
+  pacman: kmon
+  apk: kmon
 rule:
   /cargo:
     cmd: cargo install kmon

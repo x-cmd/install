@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/facebook/wangle
   eget: https://github.com/facebook/wangle
+  brew: wangle
 rule:
   /eget:
     cmd: x eget facebook/wangle

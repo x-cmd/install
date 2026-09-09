@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/certbot/certbot
   eget: https://github.com/certbot/certbot
+  apt: certbot
+  dnf: certbot
+  brew: certbot
+  pacman: certbot
+  apk: certbot
 rule:
   /eget:
     cmd: x eget certbot/certbot

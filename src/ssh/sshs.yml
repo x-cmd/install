@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/quantumsheep/sshs
   eget: https://github.com/quantumsheep/sshs
+  brew: sshs
+  pacman: sshs
+  apk: sshs
 rule:
   /eget:
     cmd: x eget quantumsheep/sshs

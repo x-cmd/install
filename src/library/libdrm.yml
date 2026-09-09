@@ -5,6 +5,7 @@ desc:
   cn: libdrm 是一个用户空间库，用于在 Linux、BSD 和其他支持 ioctl 接口的操作系统上访问 DRM（直接渲染管理器）
 x:
   source: https://github.com/Distrotech/libdrm
+  brew: libdrm
 rule:
   arch/yay:
     cmd: yay -S libdrm-git

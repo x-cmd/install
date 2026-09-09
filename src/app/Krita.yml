@@ -6,6 +6,11 @@ desc:
   cn: Krita 是一个免费和开源的数字绘画应用程序
 x:
   source: https://github.com/KDE/krita
+  apt: krita
+  dnf: krita
+  brew: --cask
+  pacman: krita
+  snap: krita
 rule:
   arch/snap:
     cmd: sudo snap install krita

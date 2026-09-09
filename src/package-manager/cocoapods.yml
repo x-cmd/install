@@ -5,6 +5,7 @@ desc:
   en: CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects
 x:
   source: https://github.com/CocoaPods/CocoaPods
+  brew: cocoapods
 rule:
   /asdf:
     cmd: x asdf use cocoapods

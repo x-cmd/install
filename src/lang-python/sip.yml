@@ -6,6 +6,10 @@ desc:
   en: SIP is a tool that makes it very easy to create Python bindings for C and C++ libraries
 x:
   source: https://github.com/Python-SIP/sip
+  apt: sip-devel
+  dnf: sip-devel
+  brew: sip
+  pacman: sip
 rule:
   darwin/brew:
     cmd: brew install sip

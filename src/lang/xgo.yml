@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/goplus/xgo
   eget: https://github.com/goplus/xgo
+  apt: gop
+  dnf: gop
+  brew: goplus
 rule:
   /eget:
     cmd: x eget goplus/xgo

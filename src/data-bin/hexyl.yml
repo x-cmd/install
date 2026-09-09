@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/sharkdp/hexyl
   eget: https://github.com/sharkdp/hexyl
+  apt: hexyl
+  dnf: hexyl
+  brew: hexyl
+  pacman: hexyl
+  snap: hexyl
 rule:
   /x:
     cmd: x pkg use hexyl

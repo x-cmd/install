@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/noborus/mdtsql
   eget: https://github.com/noborus/mdtsql
+  brew: noborus/tap/mdtsql
 rule:
   /x:
     cmd: x pkg use mdtsql

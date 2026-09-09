@@ -9,6 +9,12 @@ x:
     exist: true
   source: https://github.com/casey/just
   eget: https://github.com/casey/just
+  apt: just
+  dnf: just
+  brew: just
+  pacman: just
+  apk: just
+  snap: --edge
 rule:
   /x:
     cmd: x pkg use just

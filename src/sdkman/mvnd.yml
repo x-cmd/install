@@ -7,6 +7,7 @@ lang: Java
 x:
   pkg:
     exist: true
+  brew: mvndaemon/homebrew-mvnd/mvnd
 rule:
   /x:
     cmd: x pkg use mvnd

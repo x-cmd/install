@@ -6,6 +6,7 @@ desc:
   en: Dart is a client-optimized language for developing fast apps on any platform
 x:
   source: https://github.com/dart-lang/sdk
+  brew: dart-sdk
 rule:
   darwin/brew:
     cmd: brew install dart-sdk

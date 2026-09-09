@@ -6,6 +6,7 @@ desc:
   cn: 一个带有额外功能的 pacman 包装器，例如 AUR 支持
 x:
   source: https://github.com/zqqw/pakku
+  pacman: git
 rule:
   arch/pacman:
     cmd: 'sudo pacman -S git base-devel \

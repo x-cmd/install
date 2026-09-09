@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/ekzhang/bore
   eget: https://github.com/ekzhang/bore
+  brew: bore-cli
 rule:
   /x:
     cmd: x pkg use bore

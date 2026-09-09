@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/simonmichael/hledger
   eget: https://github.com/simonmichael/hledger
+  apt: hledger
+  dnf: hledger
+  brew: hledger
+  apk: hledger
 rule:
   /eget:
     cmd: x eget simonmichael/hledger

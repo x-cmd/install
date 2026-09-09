@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/ynqa/sig
   eget: https://github.com/ynqa/sig
+  brew: ynqa/tap/sigrs
+  pacman: sig
 rule:
   /eget:
     cmd: x eget ynqa/sig

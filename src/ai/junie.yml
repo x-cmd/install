@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/JetBrains/junie
   eget: https://github.com/JetBrains/junie
+  brew: junie
 rule:
   /eget:
     cmd: x eget JetBrains/junie

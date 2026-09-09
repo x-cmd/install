@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/zevv/duc
   eget: https://github.com/zevv/duc
+  apt: duc
+  brew: duc
 rule:
   /eget:
     cmd: x eget zevv/duc

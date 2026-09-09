@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/noborus/xlsxsql
   eget: https://github.com/noborus/xlsxsql
+  brew: noborus/tap/xlsxsql
 rule:
   /x:
     cmd: x pkg use xlsxsql

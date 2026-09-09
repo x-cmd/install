@@ -6,6 +6,9 @@ desc:
   en: A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 x:
   source: https://github.com/slicer69/doas
+  apt: doas
+  dnf: opendoas
+  pacman: opendoas
 rule:
   freebsd/pkg:
     cmd: pkg install doas

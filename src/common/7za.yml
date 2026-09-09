@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/ip7z/7zip
   eget: https://github.com/ip7z/7zip
+  apt: p7zip-full
+  dnf: p7zip
+  brew: p7zip
+  pacman: p7zip
+  apk: p7zip
 rule:
   /x:
     cmd: x pkg use 7za

@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/curl/curl
   eget: https://github.com/curl/curl
+  brew: ca-certificates
 rule:
   /eget:
     cmd: x eget curl/curl

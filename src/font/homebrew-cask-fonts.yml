@@ -5,6 +5,7 @@ desc:
   en: Casks of fonts
 x:
   source: https://github.com/Homebrew/homebrew-cask-fonts
+  brew: font-inconsolata
 rule:
   darwin/brew:
     cmd: 'brew tap homebrew/cask-fonts && brew install font-inconsolata

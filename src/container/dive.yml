@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/wagoodman/dive
   eget: https://github.com/wagoodman/dive
+  apt: ./dive_${DIVE_VERSION}_linux_amd64.deb
+  brew: dive
+  pacman: dive
 rule:
   /x:
     cmd: x pkg use dive

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/amrdeveloper/GQL
   eget: https://github.com/amrdeveloper/GQL
+  brew: gitql
 rule:
   /eget:
     cmd: x eget amrdeveloper/GQL

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/google-gemini/gemini-cli
   eget: https://github.com/google-gemini/gemini-cli
+  brew: gemini-cli
 rule:
   /eget:
     cmd: x eget google-gemini/gemini-cli

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/github/git-sizer
   eget: https://github.com/github/git-sizer
+  apt: git-sizer
+  brew: git-sizer
 rule:
   /eget:
     cmd: x eget github/git-sizer

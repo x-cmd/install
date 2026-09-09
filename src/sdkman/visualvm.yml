@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/oracle/visualvm
   eget: https://github.com/oracle/visualvm
+  apt: visualvm
+  brew: --cask
+  pacman: visualvm
 rule:
   /eget:
     cmd: x eget oracle/visualvm

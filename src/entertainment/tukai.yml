@@ -6,6 +6,7 @@ desc:
   en: Terminal based touch typing application.
 x:
   source: https://github.com/hlsxx/tukai
+  pacman: tukai
 rule:
   arch/pacman:
     cmd: sudo pacman -S tukai

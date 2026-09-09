@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/pimalaya/himalaya
   eget: https://github.com/pimalaya/himalaya
+  dnf: himalaya
+  brew: himalaya
+  pacman: himalaya
 rule:
   /x:
     cmd: x pkg use himalaya

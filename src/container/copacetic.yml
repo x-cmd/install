@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/project-copacetic/copacetic
   eget: https://github.com/project-copacetic/copacetic
+  brew: copa
 rule:
   /x:
     cmd: x pkg use copacetic

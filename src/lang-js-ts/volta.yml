@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/volta-cli/volta
   eget: https://github.com/volta-cli/volta
+  brew: volta
 rule:
   /eget:
     cmd: x eget volta-cli/volta

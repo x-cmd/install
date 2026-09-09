@@ -6,6 +6,7 @@ desc:
   en: eureka is a CLI tool that allows you to quickly write down an idea using your preferred editor, and then have the idea committed and pushed to your idea git repository
 x:
   source: https://github.com/simeg/eureka
+  brew: eureka
 rule:
   /cargo:
     cmd: cargo install eureka

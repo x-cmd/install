@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/aurc/loggo
   eget: https://github.com/aurc/loggo
+  brew: aurc/loggo/loggo
 rule:
   /eget:
     cmd: x eget aurc/loggo

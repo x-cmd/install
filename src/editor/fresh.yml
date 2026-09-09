@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/sinelaw/fresh
   eget: https://github.com/sinelaw/fresh
+  brew: fresh-editor
 rule:
   /eget:
     cmd: x eget sinelaw/fresh

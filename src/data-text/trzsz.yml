@@ -6,6 +6,7 @@ desc:
   en: trzsz is a simple file transfer tools, which similar to lrzsz ( rz / sz ), and compatible with tmux
 x:
   source: https://github.com/trzsz/trzsz
+  brew: trzsz
 rule:
   /pip:
     cmd: sudo python3 -m pip install --upgrade trzsz

@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/xxxserxxx/gotop
   eget: https://github.com/xxxserxxx/gotop
+  brew: gotop
 rule:
   /x:
     cmd: x pkg use gotop

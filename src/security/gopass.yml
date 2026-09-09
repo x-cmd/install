@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/gopasspw/gopass
   eget: https://github.com/gopasspw/gopass
+  dnf: gopass
+  brew: gopass
+  pacman: gopass
+  apk: gopass
 rule:
   /x:
     cmd: x pkg use gopass

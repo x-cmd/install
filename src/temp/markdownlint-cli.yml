@@ -6,6 +6,7 @@ desc:
   en: MarkdownLint Command Line Interface
 x:
   source: https://github.com/igorshubovych/markdownlint-cli
+  brew: markdownlint-cli
 rule:
   /npm:
     cmd: npm install -g markdownlint-cli

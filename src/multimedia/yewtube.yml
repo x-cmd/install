@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/mps-youtube/yewtube
   eget: https://github.com/mps-youtube/yewtube
+  brew: yewtube
 rule:
   /eget:
     cmd: x eget mps-youtube/yewtube

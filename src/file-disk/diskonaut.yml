@@ -6,6 +6,8 @@ desc:
   en: Terminal disk space navigator
 x:
   source: https://github.com/imsnif/diskonaut
+  dnf: diskonaut
+  brew: diskonaut
 rule:
   /cargo:
     cmd: cargo install diskonaut

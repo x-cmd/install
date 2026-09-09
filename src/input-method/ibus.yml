@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/ibus/ibus
   eget: https://github.com/ibus/ibus
+  apt: ibus-gtk
+  dnf: ibus\*
+  pacman: ibus
 rule:
   /eget:
     cmd: x eget ibus/ibus

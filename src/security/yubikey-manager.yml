@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Yubico/yubikey-manager
   eget: https://github.com/Yubico/yubikey-manager
+  brew: --cask
 rule:
   /eget:
     cmd: x eget Yubico/yubikey-manager

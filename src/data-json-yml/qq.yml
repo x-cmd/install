@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/JFryy/qq
   eget: https://github.com/JFryy/qq
+  brew: jfryy/tap/qq
 rule:
   /eget:
     cmd: x eget JFryy/qq

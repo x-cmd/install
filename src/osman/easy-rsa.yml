@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/OpenVPN/easy-rsa
   eget: https://github.com/OpenVPN/easy-rsa
+  apt: easy-rsa
+  dnf: easy-rsa
+  brew: easy-rsa
+  pacman: easy-rsa
+  apk: easy-rsa
 rule:
   /eget:
     cmd: x eget OpenVPN/easy-rsa

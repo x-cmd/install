@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kubernetes/kompose
   eget: https://github.com/kubernetes/kompose
+  brew: kompose
 rule:
   /eget:
     cmd: x eget kubernetes/kompose

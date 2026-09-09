@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/vladkens/macmon
   eget: https://github.com/vladkens/macmon
+  brew: macmon
 rule:
   /eget:
     cmd: x eget vladkens/macmon

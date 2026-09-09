@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/bensadeh/circumflex
   eget: https://github.com/bensadeh/circumflex
+  brew: circumflex
 rule:
   /eget:
     cmd: x eget bensadeh/circumflex

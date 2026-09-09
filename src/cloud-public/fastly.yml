@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/fastly/cli
   eget: https://github.com/fastly/cli
+  brew: fastly/tap/fastly
 rule:
   /x:
     cmd: x pkg use fastly

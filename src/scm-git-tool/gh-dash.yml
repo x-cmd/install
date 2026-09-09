@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/dlvhdr/gh-dash
   eget: https://github.com/dlvhdr/gh-dash
+  brew: gh
 rule:
   /eget:
     cmd: x eget dlvhdr/gh-dash

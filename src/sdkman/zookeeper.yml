@@ -6,6 +6,7 @@ desc:
   en: ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services
 x:
   source: https://github.com/apache/zookeeper
+  brew: zookeeper
 rule:
   darwin/brew:
     cmd: brew install zookeeper

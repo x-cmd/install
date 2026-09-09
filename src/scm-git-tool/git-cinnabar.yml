@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/glandium/git-cinnabar
   eget: https://github.com/glandium/git-cinnabar
+  dnf: git-cinnabar
+  brew: git-cinnabar
 rule:
   /eget:
     cmd: x eget glandium/git-cinnabar

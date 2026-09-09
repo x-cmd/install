@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/microsoft/edit
   eget: https://github.com/microsoft/edit
+  brew: msedit
 rule:
   /eget:
     cmd: x eget microsoft/edit

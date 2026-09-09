@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/mthmulders/mcs
   eget: https://github.com/mthmulders/mcs
+  brew: mthmulders/tap/mcs
+  snap: maven-central-search
 rule:
   /x:
     cmd: x pkg use mcs

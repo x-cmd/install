@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/jwt-rs/jwt-ui
   eget: https://github.com/jwt-rs/jwt-ui
+  brew: jwt-ui
+  pacman: jwt-ui
 rule:
   /eget:
     cmd: x eget jwt-rs/jwt-ui

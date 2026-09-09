@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/odeke-em/drive
   eget: https://github.com/odeke-em/drive
+  dnf: drive-google
 rule:
   /x:
     cmd: x pkg use drive

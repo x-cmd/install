@@ -5,6 +5,11 @@ desc:
   en: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal.
 x:
   source: https://github.com/andmarti1424/sc-im
+  apt: sc-im
+  dnf: sc-im
+  brew: sc-im
+  pacman: sc-im
+  apk: sc-im
 rule:
   darwin/brew:
     cmd: brew install sc-im

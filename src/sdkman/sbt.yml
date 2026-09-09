@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/sbt/sbt
   eget: https://github.com/sbt/sbt
+  apt: sbt
+  dnf: sbt
+  brew: sbt
 rule:
   /eget:
     cmd: x eget sbt/sbt

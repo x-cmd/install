@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/fragglet/lhasa
   eget: https://github.com/ljh-sh/lhasa
+  apt: lhasa
+  brew: lhasa
 rule:
   /eget:
     cmd: x eget ljh-sh/lhasa

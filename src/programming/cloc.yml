@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/AlDanial/cloc
   eget: https://github.com/AlDanial/cloc
+  apt: cloc
+  dnf: cloc
+  brew: cloc
+  pacman: cloc
+  apk: cloc
 rule:
   /eget:
     cmd: x eget AlDanial/cloc

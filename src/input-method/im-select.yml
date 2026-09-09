@@ -6,6 +6,7 @@ desc:
   en: A command-line tool to switch input method on macOS
 x:
   source: https://github.com/daipeihust/im-select
+  brew: im-select
 rule:
   darwin/curl:
     cmd: curl -Ls https://raw.githubusercontent.com/daipeihust/im-select/master/install_mac.sh | sh

@@ -8,6 +8,9 @@ x:
   pkg:
     exist: true
   source: https://github.com/y2z/monolith
+  brew: monolith
+  apk: monolith
+  snap: monolith
 rule:
   /x:
     cmd: x pkg use monolith

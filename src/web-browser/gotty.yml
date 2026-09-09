@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/yudai/gotty
   eget: https://github.com/yudai/gotty
+  brew: yudai/gotty/gotty
 rule:
   /eget:
     cmd: x eget yudai/gotty

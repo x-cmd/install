@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/moul/assh
   eget: https://github.com/moul/assh
+  brew: assh
 rule:
   /x:
     cmd: x pkg use assh

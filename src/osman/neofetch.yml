@@ -6,6 +6,11 @@ desc:
   en: A command-line system information tool written in bash 3.2+
 x:
   source: https://github.com/dylanaraps/neofetch
+  apt: neofetch
+  dnf: neofetch
+  brew: neofetch
+  pacman: neofetch
+  apk: neofetch
 rule:
   darwin/brew:
     cmd: brew install neofetch

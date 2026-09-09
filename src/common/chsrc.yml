@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/RubyMetric/chsrc
   eget: https://github.com/RubyMetric/chsrc
+  brew: chsrc
 rule:
   /x:
     cmd: x pkg use chsrc

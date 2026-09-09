@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jorgerojas26/lazysql
   eget: https://github.com/jorgerojas26/lazysql
+  brew: lazysql
 rule:
   /x:
     cmd: x pkg use lazysql

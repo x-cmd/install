@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/YS-L/csvlens
   eget: https://github.com/YS-L/csvlens
+  brew: csvlens
+  pacman: csvlens
 rule:
   /x:
     cmd: x pkg use csvlens

@@ -6,6 +6,11 @@ desc:
   en: Create, manipulate and optimize GIF images and animations
 x:
   source: https://github.com/kohler/gifsicle
+  apt: gifsicle
+  dnf: gifsicle
+  brew: gifsicle
+  pacman: gifsicle
+  apk: gifsicle
 rule:
   darwin/brew:
     cmd: brew install gifsicle

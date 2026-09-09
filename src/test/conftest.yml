@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/open-policy-agent/conftest
   eget: https://github.com/open-policy-agent/conftest
+  brew: conftest
 rule:
   /eget:
     cmd: x eget open-policy-agent/conftest

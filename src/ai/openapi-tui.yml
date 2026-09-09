@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/zaghaghi/openapi-tui
   eget: https://github.com/zaghaghi/openapi-tui
+  pacman: openapi-tui
 rule:
   /eget:
     cmd: x eget zaghaghi/openapi-tui

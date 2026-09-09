@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/vmware-tanzu/carvel-kapp
   eget: https://github.com/vmware-tanzu/carvel-kapp
+  brew: kapp
 rule:
   /eget:
     cmd: x eget vmware-tanzu/carvel-kapp

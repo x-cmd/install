@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/stigoleg/keep-alive
   eget: https://github.com/stigoleg/keep-alive
+  apt: ydotool'
 rule:
   debian/apt:
     cmd: 'sudo apt install ydotool'

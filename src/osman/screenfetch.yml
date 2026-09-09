@@ -6,6 +6,10 @@ desc:
   en: screenFetch, similar to [fastfetch](https://x-cmd.com/pkg/fastfetch) and [neofetch](https://x-cmd.com/install/neofetch), is a tool that swiftly gathers and displays system information right in your terminal.
 x:
   source: https://github.com/KittyKatt/screenFetch
+  apt: screenfetch
+  dnf: screenfetchh
+  brew: screenfetch
+  pacman: screenfetch
 rule:
   debian/apt:
     cmd: sudo apt install screenfetch

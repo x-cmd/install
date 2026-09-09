@@ -5,6 +5,7 @@ desc:
   cn: HylaFAX™ 是一个企业级的开源系统，用于发送和接收传真以及发送字母数字页面。
 x:
   source: https://github.com/ifax/HylaFAX
+  dnf: hylafax+
 rule:
   fedora/dnf:
     cmd: sudo dnf install hylafax+

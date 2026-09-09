@@ -6,6 +6,7 @@ desc:
   en: MinIO is a high-performance, S3 compatible object store
 x:
   source: https://github.com/minio/minio
+  brew: minio/stable/minio
 rule:
   darwin/brew:
     cmd: 'brew install minio/stable/minio && \

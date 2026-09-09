@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/tmccombs/hcl2json
   eget: https://github.com/tmccombs/hcl2json
+  brew: hcl2json
 rule:
   /x:
     cmd: x pkg use hcl2json

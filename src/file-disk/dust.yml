@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/bootandy/dust
   eget: https://github.com/bootandy/dust
+  brew: dust
 rule:
   /eget:
     cmd: x eget bootandy/dust

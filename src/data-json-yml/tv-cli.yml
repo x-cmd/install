@@ -6,6 +6,7 @@ desc:
   en: Format json into table view
 x:
   source: https://github.com/adbar/trafilatura
+  brew: uzimaru0000/tap/tv
 rule:
   /cargo:
     cmd: cargo install tv-cli

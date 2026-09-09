@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/charmbracelet/mods
   eget: https://github.com/charmbracelet/mods
+  apt: mods
+  brew: charmbracelet/tap/mods
 rule:
   /eget:
     cmd: x eget charmbracelet/mods

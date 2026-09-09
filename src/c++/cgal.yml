@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/CGAL/cgal
   eget: https://github.com/CGAL/cgal
+  apt: libcgal-dev
+  brew: cgal
 rule:
   /eget:
     cmd: x eget CGAL/cgal

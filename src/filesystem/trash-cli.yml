@@ -8,6 +8,10 @@ x:
   pkg:
     exist: true
   source: https://github.com/andreafrancia/trash-cli
+  apt: trash-cli
+  dnf: trash-cli
+  brew: trash-cli
+  pacman: trash-cli
 rule:
   /x:
     cmd: x pkg use trash-cli

@@ -6,6 +6,8 @@ desc:
   en: systeroid is implemented using procfs which is the virtual file system that is typically mapped to a mount point named /proc at boot time
 x:
   source: https://github.com/orhun/systeroid
+  pacman: systeroid
+  apk: systeroid
 rule:
   /cargo:
     cmd: cargo install systeroid

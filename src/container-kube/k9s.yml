@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/derailed/k9s
   eget: https://github.com/derailed/k9s
+  brew: derailed/k9s/k9s
+  pacman: k9s
 rule:
   /x:
     cmd: x pkg use k9s

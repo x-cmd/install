@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/goodwithtech/dockle
   eget: https://github.com/goodwithtech/dockle
+  brew: goodwithtech/r/dockle
 rule:
   /eget:
     cmd: x eget goodwithtech/dockle

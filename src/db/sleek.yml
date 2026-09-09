@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/nrempel/sleek
   eget: https://github.com/nrempel/sleek
+  brew: --cask
 rule:
   /eget:
     cmd: x eget nrempel/sleek

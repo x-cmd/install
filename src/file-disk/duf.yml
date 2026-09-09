@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/muesli/duf
   eget: https://github.com/muesli/duf
+  apt: duf
+  brew: duf
+  pacman: duf
 rule:
   /x:
     cmd: x pkg use duf

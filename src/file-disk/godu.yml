@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/viktomas/godu
   eget: https://github.com/viktomas/godu
+  brew: godu
 rule:
   /x:
     cmd: x pkg use godu

@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/mobile-shell/mosh
   eget: https://github.com/mobile-shell/mosh
+  apt: mosh
+  dnf: mosh
+  brew: mosh
+  pacman: mosh
+  apk: mosh
 rule:
   /eget:
     cmd: x eget mobile-shell/mosh

@@ -6,6 +6,8 @@ desc:
   en: A command line tool to download release assets from GitHub.
 x:
   source: https://github.com/devmatteini/dra
+  brew: dra
+  pacman: dra
 rule:
   arch/pacman:
     cmd: pacman -S dra

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/grafana/tanka
   eget: https://github.com/grafana/tanka
+  brew: tanka
 rule:
   /eget:
     cmd: x eget grafana/tanka

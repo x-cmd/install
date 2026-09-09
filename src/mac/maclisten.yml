@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ljh-sh/maclisten
   eget: https://github.com/ljh-sh/maclisten
+  brew: ljh-sh/cli/maclisten
 rule:
   /eget:
     cmd: x eget ljh-sh/maclisten

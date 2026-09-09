@@ -6,6 +6,9 @@ desc:
   en: Guake is a python based dropdown terminal made for the GNOME desktop environment
 x:
   source: https://github.com/Guake/guake
+  apt: guake
+  dnf: guake
+  pacman: guake
 rule:
   debian/apt:
     cmd: sudo apt install guake

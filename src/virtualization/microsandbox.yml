@@ -9,7 +9,7 @@ desc:
 x:
   source: https://github.com/superradcompany/microsandbox
   eget: https://github.com/superradcompany/microsandbox
-
+  brew: superradcompany/tap/microsandbox
 rule:
   /eget:
     cmd: x eget superradcompany/microsandbox

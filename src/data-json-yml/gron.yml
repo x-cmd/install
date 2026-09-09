@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/tomnomnom/gron
   eget: https://github.com/tomnomnom/gron
+  brew: gron
 rule:
   /x:
     cmd: x pkg use gron

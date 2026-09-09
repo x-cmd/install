@@ -6,6 +6,10 @@ homepage: https://diffoscope.org/
 x:
   pkg:
     exist: true
+  apt: diffoscope
+  dnf: diffoscope
+  brew: diffoscope
+  pacman: diffoscope
 rule:
   /x:
     cmd: x pkg use diffoscope

@@ -6,6 +6,7 @@ desc:
   en: A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 x:
   source: https://github.com/DavidAnson/markdownlint-cli2
+  brew: markdownlint-cli2
 rule:
   /npm:
     cmd: npm install markdownlint-cli2 --global

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/aquasecurity/tfsec
   eget: https://github.com/aquasecurity/tfsec
+  brew: tfsec
 rule:
   /x:
     cmd: x pkg use tfsec

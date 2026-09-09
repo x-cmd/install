@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/aws-cloudformation/cfn-lint
   eget: https://github.com/aws-cloudformation/cfn-lint
+  brew: cfn-lint
 rule:
   /eget:
     cmd: x eget aws-cloudformation/cfn-lint

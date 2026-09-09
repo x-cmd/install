@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/sachaos/viddy
   eget: https://github.com/sachaos/viddy
+  brew: viddy
+  apk: viddy
 rule:
   /x:
     cmd: x pkg use viddy

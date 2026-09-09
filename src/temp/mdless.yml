@@ -6,6 +6,7 @@ desc:
   en: mdless is a utility that provides a formatted and highlighted view of Markdown files in Terminal
 x:
   source: https://github.com/ttscoff/mdless
+  brew: mdless
 rule:
   /gem:
     cmd: gem install mdless

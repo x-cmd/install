@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/jacek-kurlit/pik
   eget: https://github.com/jacek-kurlit/pik
+  dnf: pik
+  pacman: pik
 rule:
   /eget:
     cmd: x eget jacek-kurlit/pik

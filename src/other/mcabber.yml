@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/McKael/mcabber
   eget: https://github.com/McKael/mcabber
+  apt: mcabber
+  dnf: mcabber
+  brew: mcabber
+  pacman: mcabber
+  apk: mcabber
 rule:
   /eget:
     cmd: x eget McKael/mcabber

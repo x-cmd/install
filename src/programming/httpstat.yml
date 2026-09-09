@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/reorx/httpstat
   eget: https://github.com/reorx/httpstat
+  brew: httpstat
 rule:
   /eget:
     cmd: x eget reorx/httpstat

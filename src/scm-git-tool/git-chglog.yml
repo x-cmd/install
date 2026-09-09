@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/git-chglog/git-chglog
   eget: https://github.com/git-chglog/git-chglog
+  brew: git-chglog
 rule:
   /x:
     cmd: x pkg use git-chglog

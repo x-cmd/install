@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/typst/typst
   eget: https://github.com/typst/typst
+  brew: typst
 rule:
   /x:
     cmd: x pkg use typst

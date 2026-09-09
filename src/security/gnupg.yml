@@ -6,6 +6,10 @@ desc:
   en: GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP)
 x:
   source: https://github.com/gpg/gnupg
+  apt: gnupg
+  dnf: gnupg
+  brew: gnupg
+  apk: gnupg
 rule:
   darwin/brew:
     cmd: brew install gnupg

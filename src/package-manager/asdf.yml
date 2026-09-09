@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/asdf-vm/asdf
   eget: https://github.com/asdf-vm/asdf
+  brew: asdf
 rule:
   /eget:
     cmd: x eget asdf-vm/asdf

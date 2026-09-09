@@ -6,6 +6,7 @@ desc:
   cn: Yubikey-agent 是 YubiKeys 的一个无缝 ssh-agent
 x:
   source: https://github.com/FiloSottile/yubikey-agent
+  brew: yubikey-agent
 rule:
   arch/yay:
     cmd: yay -S yubikey-agent

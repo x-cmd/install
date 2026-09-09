@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/starship/starship
   eget: https://github.com/starship/starship
+  dnf: starship
+  brew: starship
+  pacman: starship
+  apk: starship
 rule:
   /x:
     cmd: x pkg use starship

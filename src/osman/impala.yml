@@ -6,6 +6,7 @@ desc:
   en: TUI for managing wifi on Linux.
 x:
   source: https://github.com/pythops/impala
+  pacman: impala
 rule:
   /cargo:
     cmd: cargo install impala

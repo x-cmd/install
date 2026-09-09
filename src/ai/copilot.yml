@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/github/copilot-cli
   eget: https://github.com/github/copilot-cli
+  brew: copilot-cli
 rule:
   /x:
     cmd: x pkg use copilot

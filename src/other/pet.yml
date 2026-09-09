@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/knqyf263/pet
   eget: https://github.com/knqyf263/pet
+  dnf: pet
+  brew: knqyf263/pet/pet
 rule:
   /eget:
     cmd: x eget knqyf263/pet

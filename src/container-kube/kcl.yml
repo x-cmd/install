@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kcl-lang/kcl
   eget: https://github.com/kcl-lang/kcl
+  brew: kcl-lang/tap/kcl@0.7.0
 rule:
   /eget:
     cmd: x eget kcl-lang/kcl

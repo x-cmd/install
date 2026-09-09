@@ -6,6 +6,7 @@ desc:
   en: A fast configurable port scanner with reasonable defaults.
 x:
   source: https://github.com/mrjackwills/havn
+  pacman: havn
 rule:
   /curl:
     cmd: curl https://raw.githubusercontent.com/mrjackwills/havn/main/install.sh | bash

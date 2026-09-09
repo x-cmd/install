@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/pnpm/pnpm
   eget: https://github.com/pnpm/pnpm
+  brew: pnpm
 rule:
   /eget:
     cmd: x eget pnpm/pnpm

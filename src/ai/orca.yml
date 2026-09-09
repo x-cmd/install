@@ -6,6 +6,7 @@ desc:
   en: Orca is the ADE for working with a fleet of parallel agents. Run Codex, ClaudeCode, OpenCode, or Pi side-by-side, each in its own worktree, tracked in one place. Available on desktop, mobile and VPS.
 x:
   source: https://github.com/stablyai/orca
+  brew: --cask
 rule:
   darwin/brew:
     cmd: brew install --cask stablyai/orca/orca

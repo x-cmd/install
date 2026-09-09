@@ -6,6 +6,9 @@ desc:
   cn: Telegram 的命令行界面
 x:
   source: https://github.com/kenorb-contrib/tg
+  apt: libreadline-dev
+  dnf: lua-devel
+  brew: tg
 rule:
   /apt:
     cmd: 'sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson-dev libpython-dev libpython3-dev libgcrypt-dev zlib1g-dev lua-lgi make \

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/pemistahl/grex
   eget: https://github.com/pemistahl/grex
+  brew: grex
 rule:
   /x:
     cmd: x pkg use grex

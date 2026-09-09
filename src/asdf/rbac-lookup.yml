@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/FairwindsOps/rbac-lookup
   eget: https://github.com/FairwindsOps/rbac-lookup
+  brew: FairwindsOps/tap/rbac-lookup
 rule:
   /eget:
     cmd: x eget FairwindsOps/rbac-lookup

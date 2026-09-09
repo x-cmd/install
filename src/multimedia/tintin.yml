@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/scandum/tintin
   eget: https://github.com/scandum/tintin
+  apt: build-essential
+  dnf: make
+  brew: tintin
+  apk: build-base
+  snap: tintin
 rule:
   /eget:
     cmd: x eget scandum/tintin

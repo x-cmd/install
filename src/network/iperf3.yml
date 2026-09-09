@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/esnet/iperf
   eget: https://github.com/esnet/iperf
+  apt: iperf3
+  dnf: iperf3
+  brew: iperf3
+  pacman: iperf3
+  apk: iperf3
 rule:
   /eget:
     cmd: x eget esnet/iperf

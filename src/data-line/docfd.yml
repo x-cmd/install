@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/darrenldl/docfd
   eget: https://github.com/darrenldl/docfd
+  pacman: docfd
 rule:
   /eget:
     cmd: x eget darrenldl/docfd

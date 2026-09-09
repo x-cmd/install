@@ -6,6 +6,10 @@ desc:
   en: libstatgrab is a library that provides cross platform access to statistics about the system on which it’s run.
 x:
   source: https://github.com/i-scream/libstatgrab
+  apt: saidar
+  dnf: saidar
+  brew: libstatgrab
+  pacman: saidar
 rule:
   debian/apt:
     cmd: sudo apt-get install saidar

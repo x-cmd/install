@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/kubernetes-sigs/kind
   eget: https://github.com/kubernetes-sigs/kind
+  brew: kind
 rule:
   /x:
     cmd: x pkg use kind

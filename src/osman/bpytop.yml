@@ -8,6 +8,11 @@ x:
   pkg:
     exist: true
   source: https://github.com/aristocratos/bpytop
+  apt: bpytop
+  dnf: bpytop
+  brew: bpytop
+  pacman: bpytop
+  snap: bpytop
 rule:
   /x:
     cmd: x pkg use bpytop

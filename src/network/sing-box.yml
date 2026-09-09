@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/SagerNet/sing-box
   eget: https://github.com/SagerNet/sing-box
+  brew: sing-box
 rule:
   /eget:
     cmd: x eget SagerNet/sing-box

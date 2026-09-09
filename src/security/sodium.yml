@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/jedisct1/libsodium
   eget: https://github.com/jedisct1/libsodium
+  brew: libsodium
 rule:
   /x:
     cmd: x pkg use sodium

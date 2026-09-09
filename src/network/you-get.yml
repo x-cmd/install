@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/soimort/you-get
   eget: https://github.com/soimort/you-get
+  brew: you-get
+  pacman: you-get
+  apk: you-get
 rule:
   /eget:
     cmd: x eget soimort/you-get

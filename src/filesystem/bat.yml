@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/sharkdp/bat
   eget: https://github.com/sharkdp/bat
+  apt: bat
+  dnf: bat
+  brew: bat
+  pacman: bat
+  apk: bat
 rule:
   /x:
     cmd: x pkg use bat

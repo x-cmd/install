@@ -6,6 +6,7 @@ desc:
   en: Execute SQL against structured text like CSV or TSV
 x:
   source: https://github.com/dinedal/textql
+  brew: textql
 rule:
   /brew:
     cmd: brew install textql

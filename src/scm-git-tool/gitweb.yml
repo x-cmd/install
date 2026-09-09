@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/yoannfleurydev/gitweb
   eget: https://github.com/yoannfleurydev/gitweb
+  brew: yoannfleurydev/gitweb/gitweb
 rule:
   /eget:
     cmd: x eget yoannfleurydev/gitweb

@@ -6,6 +6,7 @@ desc:
   en: basically `ls` but `lsr`, and configurable with lua!
 x:
   source: https://github.com/jmattaa/laser
+  brew: --formula
 rule:
   /brew:
     cmd: 'brew tap jmattaa/laser

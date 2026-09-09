@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/aria2/aria2
   eget: https://github.com/aria2/aria2
+  apt: aria2
+  dnf: aria2
+  brew: aria2
+  pacman: aria2
+  apk: aria2
 rule:
   /x:
     cmd: x pkg use aria2

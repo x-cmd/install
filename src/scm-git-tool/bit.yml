@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/chriswalz/bit
   eget: https://github.com/chriswalz/bit
+  brew: bit-git
 rule:
   /x:
     cmd: x pkg use bit

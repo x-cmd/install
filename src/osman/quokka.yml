@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/dutradotdev/quokka
   eget: https://github.com/dutradotdev/quokka
+  brew: android-platform-tools'
 rule:
   darwin/brew:
     cmd: 'brew install android-platform-tools'

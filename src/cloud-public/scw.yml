@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/scaleway/scaleway-cli
   eget: https://github.com/scaleway/scaleway-cli
+  brew: scw
+  pacman: scaleway-cli
 rule:
   /x:
     cmd: x pkg use scw

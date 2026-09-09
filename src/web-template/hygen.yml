@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jondot/hygen
   eget: https://github.com/jondot/hygen
+  brew: hygen
 rule:
   /x:
     cmd: x pkg use hygen

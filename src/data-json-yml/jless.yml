@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/PaulJuliusMartinez/jless
   eget: https://github.com/PaulJuliusMartinez/jless
+  brew: jless
+  pacman: jless
 rule:
   /x:
     cmd: x pkg use jless

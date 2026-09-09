@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Cod-e-Codes/marchat
   eget: https://github.com/Cod-e-Codes/marchat
+  apt: xclip'
 rule:
   debian/apt:
     cmd: 'sudo apt install xclip'

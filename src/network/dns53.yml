@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/purpleclay/dns53
   eget: https://github.com/purpleclay/dns53
+  apt: -y
+  brew: purpleclay/tap/dns53
 rule:
   /eget:
     cmd: x eget purpleclay/dns53

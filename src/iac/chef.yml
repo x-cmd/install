@@ -6,6 +6,7 @@ desc:
   en: Chef Infra is a powerful automation platform that transforms infrastructure into code
 x:
   source: https://github.com/chef/chef
+  apt: apt-transport-https
 rule:
   debian/wget:
     cmd: 'sudo apt-get install apt-transport-https && \

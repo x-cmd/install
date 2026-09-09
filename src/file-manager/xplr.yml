@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/sayanarijit/xplr
   eget: https://github.com/sayanarijit/xplr
+  brew: xplr
+  pacman: xplr
+  apk: xplr
 rule:
   /x:
     cmd: x pkg use xplr

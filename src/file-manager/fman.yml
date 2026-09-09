@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/nore-dev/fman
   eget: https://github.com/nore-dev/fman
+  brew: fman/tap/fman
 rule:
   /eget:
     cmd: x eget nore-dev/fman

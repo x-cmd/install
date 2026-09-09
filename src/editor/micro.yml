@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/zyedidia/micro
   eget: https://github.com/zyedidia/micro
+  apt: micro
+  dnf: micro
+  brew: micro
+  pacman: micro
+  snap: micro
 rule:
   /eget:
     cmd: x eget zyedidia/micro

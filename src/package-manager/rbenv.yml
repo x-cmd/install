@@ -6,6 +6,8 @@ desc:
   en: rbenv is a version manager tool for the Ruby programming language on Unix-like systems
 x:
   source: https://github.com/rbenv/rbenv
+  apt: gitapt-get
+  brew: rbenv
 rule:
   darwin/brew:
     cmd: brew install rbenv

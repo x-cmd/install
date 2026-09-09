@@ -6,6 +6,9 @@ desc:
 x:
   source: https://github.com/liquibase/liquibase
   eget: https://github.com/liquibase/liquibase
+  apt: liquibase
+  dnf: liquibase
+  brew: liquibase
 rule:
   /eget:
     cmd: x eget liquibase/liquibase

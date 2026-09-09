@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/oz/tz
   eget: https://github.com/oz/tz
+  brew: tz
 rule:
   /x:
     cmd: x pkg use tz

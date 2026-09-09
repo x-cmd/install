@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/kellyjonbrazil/jc
   eget: https://github.com/kellyjonbrazil/jc
+  apt: jc
+  dnf: jc
+  brew: jc
+  pacman: jc
 rule:
   /x:
     cmd: x pkg use jc

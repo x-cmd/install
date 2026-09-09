@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/watchexec/watchexec
   eget: https://github.com/watchexec/watchexec
+  apt: watchexec-cli
+  brew: watchexec
+  pacman: watchexec
+  apk: watchexec
 rule:
   /x:
     cmd: x pkg use watchexec

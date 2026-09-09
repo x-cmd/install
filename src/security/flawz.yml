@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/orhun/flawz
   eget: https://github.com/orhun/flawz
+  brew: flawz
+  pacman: flawz
+  apk: flawz
 rule:
   /eget:
     cmd: x eget orhun/flawz

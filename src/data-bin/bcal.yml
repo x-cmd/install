@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/jarun/bcal
   eget: https://github.com/jarun/bcal
+  apt: bcal
+  dnf: bcal
+  brew: bcal
 rule:
   /eget:
     cmd: x eget jarun/bcal

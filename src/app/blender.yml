@@ -5,6 +5,8 @@ desc:
   en: Free, open-source, cross-platform professional 3D creation software.
 x:
   source: https://github.com/blender/blender
+  brew: --cask
+  snap: blender
 rule:
   darwin/brew:
     cmd: brew install --cask blender

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/aws/aws-cdk
   eget: https://github.com/aws/aws-cdk
+  brew: aws-cdk
 rule:
   /eget:
     cmd: x eget aws/aws-cdk

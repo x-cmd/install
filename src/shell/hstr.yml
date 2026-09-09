@@ -7,6 +7,10 @@ license: Apache-2.0
 x:
   source: https://github.com/dvorka/hstr
   eget: https://github.com/dvorka/hstr
+  apt: hstr
+  dnf: hstr
+  brew: hstr
+  apk: hstr
 rule:
   /eget:
     cmd: x eget dvorka/hstr

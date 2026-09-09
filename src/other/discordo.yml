@@ -6,6 +6,7 @@ desc:
   en: Discordo is a lightweight, secure, and feature-rich Discord terminal client. Heavily work-in-progress, expect breaking changes
 x:
   source: https://github.com/ayn2op/discordo
+  brew: --cask
 rule:
   arch/yay:
     cmd: sudo yay -S discordo-git

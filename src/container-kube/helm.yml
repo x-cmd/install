@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/helm/helm
   eget: https://github.com/helm/helm
+  dnf: helm
+  brew: helm
+  pacman: helm
+  snap: helm
 rule:
   /x:
     cmd: x pkg use helm

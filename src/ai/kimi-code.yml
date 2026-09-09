@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/MoonshotAI/kimi-code
   eget: https://github.com/MoonshotAI/kimi-code
+  brew: kimi-code
 rule:
   /eget:
     cmd: x eget MoonshotAI/kimi-code

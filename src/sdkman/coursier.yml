@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/coursier/coursier
   eget: https://github.com/coursier/coursier
+  brew: coursier/formulas/coursier
 rule:
   /eget:
     cmd: x eget coursier/coursier

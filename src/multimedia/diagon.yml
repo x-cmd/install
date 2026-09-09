@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/ArthurSonzogni/Diagon
   eget: https://github.com/ArthurSonzogni/Diagon
+  snap: diagon
 rule:
   /eget:
     cmd: x eget ArthurSonzogni/Diagon

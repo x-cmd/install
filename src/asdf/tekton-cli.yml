@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/tektoncd/cli
   eget: https://github.com/tektoncd/cli
+  apt: -y
+  dnf: tektoncd-cli
+  brew: tektoncd-cli
+  pacman: tekton-cli
 rule:
   /eget:
     cmd: x eget tektoncd/cli

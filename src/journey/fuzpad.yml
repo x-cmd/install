@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/JianZcar/FuzPad
   eget: https://github.com/JianZcar/FuzPad
+  brew: JianZcar/packages/fuzpad
 rule:
   /eget:
     cmd: x eget JianZcar/FuzPad

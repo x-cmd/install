@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/replydev/cotp
   eget: https://github.com/replydev/cotp
+  brew: cotp
+  pacman: cotp
 rule:
   /eget:
     cmd: x eget replydev/cotp

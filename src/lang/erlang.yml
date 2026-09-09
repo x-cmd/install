@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/erlang/otp
   eget: https://github.com/erlang/otp
+  apt: erlang
+  brew: erlang
 rule:
   /eget:
     cmd: x eget erlang/otp

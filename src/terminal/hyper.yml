@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/vercel/hyper
   eget: https://github.com/vercel/hyper
+  brew: --cask
 rule:
   /eget:
     cmd: x eget vercel/hyper

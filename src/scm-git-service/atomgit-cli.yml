@@ -6,6 +6,7 @@ desc:
   en: Command-line interface for AtomGit to manage repositories, issues, pull requests, and releases
 x:
   source: https://atomgit.com/hust-open-atom-club/atomgit-cli
+  brew: atomgit-cli
 rule:
   /npm:
     cmd: npm install -g @hust-open-atom-club/atomgit-cli

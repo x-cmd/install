@@ -5,6 +5,9 @@ desc:
   en: OpenZFS is an advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
 x:
   source: https://github.com/openzfs/openzfs-docs
+  apt: zfs-dkms
+  dnf: -y
+  apk: zfs
 rule:
   alpine/apk:
     cmd: apk add zfs zfs-lts

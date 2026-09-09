@@ -6,6 +6,8 @@ desc:
   en: Terminal file manager inspired by ranger
 x:
   source: https://github.com/kamiyaa/joshuto
+  dnf: joshuto
+  brew: joshuto
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/kamiyaa/joshuto.git --force

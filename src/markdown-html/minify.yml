@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/tdewolff/minify
   eget: https://github.com/tdewolff/minify
+  brew: tdewolff/tap/minify
+  apk: minify
 rule:
   /x:
     cmd: x pkg use minify

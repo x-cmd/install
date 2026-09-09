@@ -7,6 +7,12 @@ desc:
 x:
   source: https://github.com/Dr-Noob/cpufetch
   eget: https://github.com/Dr-Noob/cpufetch
+  apt: cpufetch
+  dnf: cpufetch
+  brew: cpufetch
+  pacman: cpufetch
+  apk: cpufetch
+  snap: cpufetch
 rule:
   /eget:
     cmd: x eget Dr-Noob/cpufetch

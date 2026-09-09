@@ -6,6 +6,8 @@ desc:
   en: Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 x:
   source: https://github.com/ghostty-org/ghostty
+  brew: ghostty
+  pacman: ghostty
 rule:
   darwin/brew:
     cmd: brew install ghostty

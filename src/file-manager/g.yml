@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Equationzhao/g
   eget: https://github.com/Equationzhao/g
+  brew: g-ls
 rule:
   /x:
     cmd: x pkg use g

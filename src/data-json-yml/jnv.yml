@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ynqa/jnv
   eget: https://github.com/ynqa/jnv
+  brew: ynqa/tap/jnv
 rule:
   /eget:
     cmd: x eget ynqa/jnv

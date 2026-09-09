@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/sorairolake/qrtool
   eget: https://github.com/sorairolake/qrtool
+  brew: qrtool
+  pacman: qrtool
 rule:
   /eget:
     cmd: x eget sorairolake/qrtool

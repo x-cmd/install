@@ -6,6 +6,7 @@ desc:
   en: A TUI for searching and installing Arch Linux packages.
 x:
   source: https://github.com/moson-mo/pacseek
+  pacman: pacseek
 rule:
   arch/manjaro:
     cmd: pacman -S pacseek

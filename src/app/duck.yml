@@ -6,6 +6,7 @@ desc:
   en: A libre file transfer client for macOS and Windows.
 x:
   source: https://github.com/iterate-ch/cyberduck
+  brew: duck
 rule:
   darwin/brew:
     cmd: brew install duck

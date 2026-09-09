@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/qpdf/qpdf
   eget: https://github.com/qpdf/qpdf
+  brew: qpdf
 rule:
   /x:
     cmd: x pkg use qpdf

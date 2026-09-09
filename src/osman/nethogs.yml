@@ -6,6 +6,11 @@ desc:
   en: NetHogs is a small "net top" tool that displays network bandwidth usage grouped by process.
 x:
   source: https://github.com/raboof/nethogs
+  apt: nethogs
+  dnf: nethogs
+  brew: nethogs
+  pacman: nethogs
+  apk: nethogs
 rule:
   darwin/brew:
     cmd: brew install nethogs

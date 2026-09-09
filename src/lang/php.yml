@@ -6,6 +6,11 @@ desc:
   en: A popular general-purpose scripting language that is especially suited to web development
 x:
   source: https://github.com/php/php-src
+  apt: php
+  dnf: php-cli
+  brew: php
+  pacman: php
+  apk: php
 rule:
   /asdf:
     cmd: x asdf use php

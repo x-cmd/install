@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/svenstaro/miniserve
   eget: https://github.com/svenstaro/miniserve
+  brew: miniserve
+  pacman: miniserve
 rule:
   /x:
     cmd: x pkg use miniserve

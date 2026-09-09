@@ -6,6 +6,10 @@ desc:
   en: A code-searching tool similar to ack, but faster
 x:
   source: https://github.com/ggreer/the_silver_searcher
+  apt: silversearcher-ag
+  dnf: the_silver_searcher
+  brew: the_silver_searcher
+  pacman: the_silver_searcher
 rule:
   darwin/brew:
     cmd: brew install the_silver_searcher

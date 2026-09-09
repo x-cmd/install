@@ -5,6 +5,8 @@ desc:
   cn: '"真正的 awk" 源自 UNIX V7'
 x:
   source: https://github.com/mturk/nawk
+  dnf: nawk
+  pacman: nawk
 rule:
   arch/pacman:
     cmd: sudo pacman -S nawk

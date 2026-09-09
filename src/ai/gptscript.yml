@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/gptscript-ai/gptscript
   eget: https://github.com/gptscript-ai/gptscript
+  brew: gptscript-ai/tap/gptscript
 rule:
   /x:
     cmd: x pkg use gptscript

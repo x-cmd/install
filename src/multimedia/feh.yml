@@ -5,6 +5,9 @@ desc:
 homepage: https://github.com/derf/feh
 x:
   source: https://github.com/derf/feh
+  apt: feh
+  brew: feh
+  pacman: feh
 rule:
   darwin/brew:
     cmd: brew install feh

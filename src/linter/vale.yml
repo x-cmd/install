@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/errata-ai/vale
   eget: https://github.com/errata-ai/vale
+  brew: vale
 rule:
   /x:
     cmd: x pkg use vale

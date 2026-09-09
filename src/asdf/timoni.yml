@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/stefanprodan/timoni
   eget: https://github.com/stefanprodan/timoni
+  brew: stefanprodan/tap/timoni
 rule:
   /eget:
     cmd: x eget stefanprodan/timoni

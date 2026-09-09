@@ -6,6 +6,8 @@ desc:
   cn: Tere 是一个终端文件浏览器。它比使用 cd 和 ls 在终端中浏览文件夹更快的替代方案。
 x:
   source: https://github.com/mgunyho/tere
+  brew: tere
+  pacman: tere
 rule:
   darwin/brew:
     cmd: brew install tere

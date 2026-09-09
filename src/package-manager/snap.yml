@@ -6,6 +6,9 @@ desc:
   en: Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free
 x:
   source: https://github.com/snapcore/snapd
+  apt: snapd
+  dnf: snapd
+  pacman: snapd
 rule:
   debian/apt:
     cmd: sudo sudo apt install snapd

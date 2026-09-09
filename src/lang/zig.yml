@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/ziglang/zig
   eget: https://github.com/ziglang/zig
+  apt: helix
+  dnf: zig
+  brew: zig
+  pacman: zig
+  snap: zig
 rule:
   /eget:
     cmd: x eget ziglang/zig

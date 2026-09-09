@@ -9,6 +9,12 @@ x:
     exist: true
   source: https://github.com/gohugoio/hugo
   eget: https://github.com/gohugoio/hugo
+  apt: hugo
+  dnf: hugo
+  brew: hugo
+  pacman: hugo
+  apk: --no-cache
+  snap: hugo
 rule:
   /x:
     cmd: x pkg use hugo

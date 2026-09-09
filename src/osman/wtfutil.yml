@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/wtfutil/wtf
   eget: https://github.com/wtfutil/wtf
+  brew: wtfutil
 rule:
   /x:
     cmd: x pkg use wtfutil

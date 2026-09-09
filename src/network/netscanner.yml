@@ -6,6 +6,8 @@ desc:
   cn: 网络扫描和诊断工具
 x:
   source: https://github.com/Chleba/netscanner
+  pacman: netscanner
+  apk: netscanner
 rule:
   arch/pacman:
     cmd: sudo pacman -S netscanner

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/kubernetes/minikube
   eget: https://github.com/kubernetes/minikube
+  brew: minikube
 rule:
   /x:
     cmd: x pkg use minikube

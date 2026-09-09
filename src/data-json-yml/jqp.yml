@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/noahgorstein/jqp
   eget: https://github.com/noahgorstein/jqp
+  brew: noahgorstein/tap/jqp
 rule:
   /x:
     cmd: x pkg use jqp

@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/p11-glue/p11-kit
   eget: https://github.com/p11-glue/p11-kit
+  brew: p11-kit
 rule:
   /eget:
     cmd: x eget p11-glue/p11-kit

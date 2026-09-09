@@ -17,6 +17,9 @@ x:
     exist: true
   source: https://github.com/direnv/direnv
   eget: https://github.com/direnv/direnv
+  apt: direnv
+  dnf: direnv
+  brew: direnv
 rule:
   /x:
     cmd: x pkg use direnv

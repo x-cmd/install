@@ -6,6 +6,9 @@ desc:
   en: ASN lookup tool and traceroute server
 x:
   source: https://github.com/nitefood/asn
+  apt: asn
+  brew: asn
+  apk: -X
 rule:
   darwin/brew:
     cmd: brew install asn

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/asciinema/agg
   eget: https://github.com/asciinema/agg
+  brew: agg
 rule:
   /x:
     cmd: x pkg use agg

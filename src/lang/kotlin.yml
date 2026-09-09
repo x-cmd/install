@@ -8,6 +8,8 @@ x:
     exist: true
   source: https://github.com/JetBrains/kotlin
   eget: https://github.com/JetBrains/kotlin
+  brew: kotlin
+  pacman: kotlin
 rule:
   /eget:
     cmd: x eget JetBrains/kotlin

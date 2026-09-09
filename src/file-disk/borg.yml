@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/borgbackup/borg
   eget: https://github.com/borgbackup/borg
+  apt: borgbackup
+  dnf: borgbackup
+  brew: borgbackup
+  pacman: borg
+  apk: borgbackup
 rule:
   /eget:
     cmd: x eget borgbackup/borg

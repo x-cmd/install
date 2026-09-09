@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Hyde46/hoard
   eget: https://github.com/Hyde46/hoard
+  brew: hoard
 rule:
   /eget:
     cmd: x eget Hyde46/hoard

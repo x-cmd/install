@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jesseduffield/horcrux
   eget: https://github.com/jesseduffield/horcrux
+  brew: jesseduffield/horcrux/horcrux
 rule:
   /x:
     cmd: x pkg use horcrux

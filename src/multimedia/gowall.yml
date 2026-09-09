@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Achno/gowall
   eget: https://github.com/Achno/gowall
+  brew: gowall
 rule:
   /eget:
     cmd: x eget Achno/gowall

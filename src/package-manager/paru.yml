@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Morganamilo/paru
   eget: https://github.com/Morganamilo/paru
+  pacman: --needed
 rule:
   /eget:
     cmd: x eget Morganamilo/paru

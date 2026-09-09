@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/koalaman/shellcheck
   eget: https://github.com/koalaman/shellcheck
+  apt: shellcheck
+  dnf: ShellCheck
+  brew: shellcheck
+  pacman: shellcheck
+  snap: --channel=edge
 rule:
   /x:
     cmd: x pkg use shellcheck

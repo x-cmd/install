@@ -6,6 +6,7 @@ desc:
   en: A small, fun and easy way to make it snow in your terminal
 x:
   source: https://github.com/sontek/snowmachine
+  brew: sontek/snowmachine/snowmachine
 rule:
   nix/nix-shell:
     cmd: nix-shell -p snowmachine --command snowmachine

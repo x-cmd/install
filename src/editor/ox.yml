@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/curlpipe/ox
   eget: https://github.com/curlpipe/ox
+  brew: ox
 rule:
   /eget:
     cmd: x eget curlpipe/ox

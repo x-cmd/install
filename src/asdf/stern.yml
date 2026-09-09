@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/stern/stern
   eget: https://github.com/stern/stern
+  brew: stern
 rule:
   /eget:
     cmd: x eget stern/stern

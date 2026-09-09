@@ -6,6 +6,7 @@ desc:
   en: A S3-compatible command-line client written in Rust
 x:
   source: https://github.com/rustfs/cli
+  brew: rustfs/tap/rc
 rule:
   (darwin|linux)/brew:
     cmd: brew install rustfs/tap/rc

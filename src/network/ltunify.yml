@@ -5,6 +5,7 @@ desc:
   cn: 使用 Logitech 统一接收器和设备（镜像）的工具
 x:
   source: https://github.com/Lekensteyn/ltunify
+  dnf: ltunify
 rule:
   fedora/dnf:
     cmd: sudo dnf install ltunify

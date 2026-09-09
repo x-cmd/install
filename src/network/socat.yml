@@ -6,6 +6,11 @@ desc:
 x:
   pkg:
     exist: true
+  apt: socat
+  dnf: socat
+  brew: socat
+  pacman: socat
+  apk: socat
 rule:
   /x:
     cmd: x pkg use socat

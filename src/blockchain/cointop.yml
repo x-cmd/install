@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/cointop-sh/cointop
   eget: https://github.com/cointop-sh/cointop
+  dnf: cointo
+  brew: cointop
+  snap: cointop
 rule:
   /eget:
     cmd: x eget cointop-sh/cointop

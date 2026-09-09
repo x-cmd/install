@@ -5,6 +5,9 @@ desc:
   en: openssh-server is a client for the OpenSSH connection tool
 x:
   source: https://github.com/openssh/openssh-portable
+  apt: openssh-client
+  brew: openssh
+  apk: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

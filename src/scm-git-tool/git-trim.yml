@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/foriequal0/git-trim
   eget: https://github.com/foriequal0/git-trim
+  brew: git-trim
 rule:
   /eget:
     cmd: x eget foriequal0/git-trim

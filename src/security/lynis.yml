@@ -8,6 +8,10 @@ x:
   pkg:
     exist: true
   source: https://github.com/CISOfy/lynis
+  apt: lynis
+  dnf: lynis
+  brew: lynis
+  pacman: lynis
 rule:
   /x:
     cmd: x pkg use lynis

@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/hairyhenderson/gomplate
   eget: https://github.com/hairyhenderson/gomplate
+  brew: gomplate
+  apk: --no-cache
 rule:
   /x:
     cmd: x pkg use gomplate

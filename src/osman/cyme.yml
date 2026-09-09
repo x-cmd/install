@@ -6,6 +6,8 @@ desc:
   en: A cross-platform CLI tool designed to list system USB buses and devices.
 x:
   source: https://github.com/tuna-f1sh/cyme
+  brew: cyme
+  pacman: cyme
 rule:
   arch/pacman:
     cmd: sudo pacman -S cyme

@@ -6,6 +6,7 @@ desc:
   en: fontTools is a library for manipulating fonts, written in Python
 x:
   source: https://github.com/fonttools/fonttools
+  brew: fonttools
 rule:
   /pip:
     cmd: pip install fonttools

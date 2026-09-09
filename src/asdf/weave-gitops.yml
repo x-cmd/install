@@ -6,6 +6,7 @@ desc:
   en: Weave GitOps is a powerful extension to Flux, a leading GitOps engine and CNCF project
 x:
   source: https://github.com/weaveworks/weave-gitops
+  brew: weaveworks/tap/gitops
 rule:
   /curl:
     cmd: 'curl --silent --location "https://github.com/weaveworks/weave-gitops/releases/download/v0.38.0/gitops-$(uname)-$(uname -m).tar.gz" | tar xz -C /tmp \

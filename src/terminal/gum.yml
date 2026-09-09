@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/charmbracelet/gum
   eget: https://github.com/charmbracelet/gum
+  apt: gum
+  dnf: gum
+  brew: gum
+  pacman: gum
+  apk: gum
 rule:
   /x:
     cmd: x pkg use gum

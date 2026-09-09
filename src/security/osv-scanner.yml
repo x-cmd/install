@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/google/osv-scanner
   eget: https://github.com/google/osv-scanner
+  brew: osv-scanner
+  pacman: osv-scanner
+  apk: osv-scanner
 rule:
   /x:
     cmd: x pkg use osv-scanner

@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/atuinsh/atuin
   eget: https://github.com/atuinsh/atuin
+  brew: atuin
+  pacman: atuin
 rule:
   /x:
     cmd: x pkg use atuin

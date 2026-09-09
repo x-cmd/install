@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/VirtusLab/scala-cli
   eget: https://github.com/VirtusLab/scala-cli
+  apt: scala-cli
+  dnf: scala-cli
+  brew: Virtuslab/scala-cli/scala-cli
 rule:
   /eget:
     cmd: x eget VirtusLab/scala-cli

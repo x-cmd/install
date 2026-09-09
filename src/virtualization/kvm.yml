@@ -5,6 +5,8 @@ desc:
   cn: KVM (Kernel-based Virtual Machine)是一种完全虚拟化
 x:
   source: https://github.com/qemu/qemu
+  apt: qemu-kvm
+  dnf: qemu-kvm
 rule:
   debian/apt:
     cmd: sudo apt-get install qemu-kvm

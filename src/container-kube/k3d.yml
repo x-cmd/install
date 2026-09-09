@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/k3d-io/k3d
   eget: https://github.com/k3d-io/k3d
+  apt: k3d
+  dnf: k3d
+  brew: k3d
 rule:
   /x:
     cmd: x pkg use k3d

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/can1357/oh-my-pi
   eget: https://github.com/can1357/oh-my-pi
+  brew: can1357/tap/omp
 rule:
   /eget:
     cmd: x eget can1357/oh-my-pi

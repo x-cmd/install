@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/jesseduffield/lazygit
   eget: https://github.com/jesseduffield/lazygit
+  dnf: lazygit
+  brew: lazygit
+  pacman: lazygit
 rule:
   /x:
     cmd: x pkg use lazygit

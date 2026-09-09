@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jbake-org/jbake
   eget: https://github.com/jbake-org/jbake
+  brew: jbake
 rule:
   /eget:
     cmd: x eget jbake-org/jbake

@@ -6,6 +6,9 @@ desc:
   en: systemd is a suite of basic building blocks for a Linux system
 x:
   source: https://github.com/systemd/systemd
+  apt: systemd
+  dnf: systemd
+  pacman: systemd
 rule:
   debian/apt:
     cmd: sudo apt-get install systemd

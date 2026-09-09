@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/slimtoolkit/slim
   eget: https://github.com/slimtoolkit/slim
+  brew: docker-slim
 rule:
   /eget:
     cmd: x eget slimtoolkit/slim

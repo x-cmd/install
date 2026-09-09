@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kubeshark/kubeshark
   eget: https://github.com/kubeshark/kubeshark
+  brew: kubeshark
 rule:
   /eget:
     cmd: x eget kubeshark/kubeshark

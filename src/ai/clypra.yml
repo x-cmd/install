@@ -6,6 +6,7 @@ desc:
   en: An open-source desktop video editor built with Tauri, React and TypeScript, featuring a multi-track timeline, frame-accurate trimming, pro-grade audio waveforms, FFmpeg-backed export, and native cross-platform performance.
 x:
   source: https://github.com/AIEraDev/Clypra
+  brew: AIEraDev/tap/clypra
 rule:
   darwin/brew:
     cmd: brew install AIEraDev/tap/clypra

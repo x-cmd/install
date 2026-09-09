@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/sigstore/cosign
   eget: https://github.com/sigstore/cosign
+  brew: cosign
+  pacman: cosign
+  apk: cosign
 rule:
   /x:
     cmd: x pkg use cosign

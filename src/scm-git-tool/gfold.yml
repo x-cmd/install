@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/nickgerace/gfold
   eget: https://github.com/nickgerace/gfold
+  brew: gfold
+  pacman: gfold
+  apk: gfold
 rule:
   /eget:
     cmd: x eget nickgerace/gfold

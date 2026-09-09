@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/lusingander/serie
   eget: https://github.com/lusingander/serie
+  brew: lusingander/tap/serie
+  pacman: serie
 rule:
   /eget:
     cmd: x eget lusingander/serie

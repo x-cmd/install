@@ -6,6 +6,8 @@ desc:
   en: A simple hex viewer.
 x:
   source: https://github.com/Arnau478/hevi
+  brew: hevi
+  pacman: hevi
 rule:
   arch/pacman:
     cmd: pacman -S hevi

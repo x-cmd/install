@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/jonas/tig
   eget: https://github.com/jonas/tig
+  apt: tig
+  dnf: tig
+  brew: tig
+  pacman: tig
+  apk: tig
 rule:
   /eget:
     cmd: x eget jonas/tig

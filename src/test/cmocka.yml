@@ -6,6 +6,8 @@ desc:
   en: Unit testing framework for C
 x:
   source: https://github.com/clibs/cmocka
+  apt: libcmocka-dev
+  brew: cmocka
 rule:
   darwin/brew:
     cmd: brew install cmocka

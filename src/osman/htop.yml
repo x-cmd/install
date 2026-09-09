@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/htop-dev/htop
   eget: https://github.com/htop-dev/htop
+  apt: htop
+  dnf: htop
+  brew: htop
+  pacman: htop
 rule:
   /eget:
     cmd: x eget htop-dev/htop

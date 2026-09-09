@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/johnkerl/miller
   eget: https://github.com/johnkerl/miller
+  apt: miller
+  dnf: miller
+  brew: miller
 rule:
   /x:
     cmd: x pkg use miller

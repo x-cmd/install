@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/stackrox/kube-linter
   eget: https://github.com/stackrox/kube-linter
+  brew: kube-linter
 rule:
   /x:
     cmd: x pkg use kube-linter

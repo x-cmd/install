@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/timkicker/podliner
   eget: https://github.com/timkicker/podliner
+  apt: -y
 rule:
   debian/apt:
     cmd: 'sudo apt-get install -y vlc mpv ffmpeg'

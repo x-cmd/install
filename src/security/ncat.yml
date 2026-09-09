@@ -7,6 +7,11 @@ x:
   pkg:
     exist: true
   source: https://github.com/nmap/nmap
+  apt: ncat
+  dnf: nmap-ncat-2
+  brew: nmap
+  pacman: nmap
+  apk: nmap
 rule:
   /x:
     cmd: x pkg use ncat

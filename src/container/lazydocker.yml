@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jesseduffield/lazydocker
   eget: https://github.com/jesseduffield/lazydocker
+  brew: jesseduffield/lazydocker/lazydocker
 rule:
   /x:
     cmd: x pkg use lazydocker

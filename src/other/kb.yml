@@ -6,6 +6,7 @@ desc:
   en: A minimalist command line knowledge base manager
 x:
   source: https://github.com/gnebbia/kb
+  brew: gnebbia/kb/kb
 rule:
   /pip:
     cmd: pip install -U kb-manager

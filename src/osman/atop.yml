@@ -6,6 +6,11 @@ desc:
   en: Atop is an ASCII full-screen performance monitor for Linux
 x:
   source: https://github.com/Atoptool/atop
+  apt: atop
+  dnf: atop
+  brew: atop
+  pacman: atop
+  apk: atop
 rule:
   debian/apt:
     cmd: sudo apt install atop

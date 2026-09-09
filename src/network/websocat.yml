@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/vi/websocat
   eget: https://github.com/vi/websocat
+  dnf: websocat
+  brew: websocat
 rule:
   /x:
     cmd: x pkg use websocat

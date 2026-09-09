@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/sigoden/dufs
   eget: https://github.com/sigoden/dufs
+  brew: dufs
 rule:
   /x:
     cmd: x pkg use dufs

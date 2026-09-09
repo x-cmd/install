@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/JuliaLang/julia
   eget: https://github.com/JuliaLang/julia
+  apt: julia
+  dnf: julia
+  brew: julia
+  pacman: julia
+  apk: julia
 rule:
   /eget:
     cmd: x eget JuliaLang/julia

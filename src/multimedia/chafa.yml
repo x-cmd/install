@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/hpjansson/chafa
   eget: https://github.com/hpjansson/chafa
+  apt: chaf
+  dnf: chafa
+  brew: chafa
+  pacman: chafa
 rule:
   /eget:
     cmd: x eget hpjansson/chafa

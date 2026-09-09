@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/openziti/zrok
   eget: https://github.com/openziti/zrok
+  brew: zrok
 rule:
   /eget:
     cmd: x eget openziti/zrok

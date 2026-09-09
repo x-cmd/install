@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ifd3f/caligula
   eget: https://github.com/ifd3f/caligula
+  pacman: caligula'
 rule:
   /cargo:
     cmd: 'cargo install caligula'

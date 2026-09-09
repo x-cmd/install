@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/extrawurst/gitui
   eget: https://github.com/extrawurst/gitui
+  brew: gitui
 rule:
   /x:
     cmd: x pkg use gitui

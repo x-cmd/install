@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/lotabout/skim
   eget: https://github.com/lotabout/skim
+  dnf: skim
+  brew: sk
+  pacman: skim
+  apk: skim
 rule:
   /x:
     cmd: x pkg use skim

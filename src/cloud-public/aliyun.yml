@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/aliyun/aliyun-cli
   eget: https://github.com/aliyun/aliyun-cli
+  brew: aliyun-cli
 rule:
   /x:
     cmd: x pkg use aliyun

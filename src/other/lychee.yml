@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/lycheeverse/lychee
   eget: https://github.com/lycheeverse/lychee
+  brew: lychee
+  pacman: lychee
+  apk: lychee
 rule:
   /eget:
     cmd: x eget lycheeverse/lychee

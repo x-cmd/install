@@ -5,6 +5,10 @@ desc:
   en: openssh-server is the server side of the OpenSSH connection tool
 x:
   source: https://github.com/openssh/openssh-portable
+  apt: openssh-server
+  dnf: openssh-server
+  brew: openssh
+  apk: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

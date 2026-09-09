@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/jdx/mise
   eget: https://github.com/jdx/mise
+  apt: -y
+  dnf: -y
+  brew: mise
+  apk: mise
 rule:
   /eget:
     cmd: x eget jdx/mise

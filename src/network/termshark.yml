@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/gcla/termshark
   eget: https://github.com/gcla/termshark
+  apt: termshark
+  brew: termshark
+  pacman: termshark
+  snap: termshark
 rule:
   /x:
     cmd: x pkg use termshark

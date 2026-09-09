@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/anchore/syft
   eget: https://github.com/anchore/syft
+  brew: syft
 rule:
   /x:
     cmd: x pkg use syft

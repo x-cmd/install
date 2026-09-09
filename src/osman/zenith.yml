@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/bvaisvil/zenith
   eget: https://github.com/bvaisvil/zenith
+  brew: zenith
+  pacman: zenith
 rule:
   /x:
     cmd: x pkg use zenith

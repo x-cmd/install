@@ -6,6 +6,8 @@ desc:
 x:
   pkg:
     exist: true
+  brew: --cask
+  snap: google-cloud-cli
 rule:
   /x:
     cmd: x pkg use gcloud

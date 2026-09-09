@@ -6,6 +6,7 @@ desc:
   cn: YouPlot 是一个在终端上绘制图形的命令行工具
 x:
   source: https://github.com/red-data-tools/YouPlot
+  brew: youplot
 rule:
   darwin/brew:
     cmd: brew install youplot

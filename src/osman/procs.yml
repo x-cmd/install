@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/dalance/procs
   eget: https://github.com/dalance/procs
+  dnf: procs
+  brew: procs
+  pacman: procs
+  apk: procs
+  snap: procs
 rule:
   /x:
     cmd: x pkg use procs

@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/derailed/popeye
   eget: https://github.com/derailed/popeye
+  brew: derailed/popeye/popeye
 rule:
   /eget:
     cmd: x eget derailed/popeye

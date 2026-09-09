@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/yannh/kubeconform
   eget: https://github.com/yannh/kubeconform
+  brew: kubeconform
 rule:
   /eget:
     cmd: x eget yannh/kubeconform

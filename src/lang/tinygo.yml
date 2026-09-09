@@ -8,6 +8,8 @@ x:
     exist: true
   source: https://github.com/tinygo-org/tinygo
   eget: https://github.com/tinygo-org/tinygo
+  dnf: tinygo
+  brew: tinygo
 rule:
   /eget:
     cmd: x eget tinygo-org/tinygo

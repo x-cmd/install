@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/sharkdp/fd
   eget: https://github.com/sharkdp/fd
+  apt: fd-find
+  dnf: fd-find
+  brew: fd
+  pacman: fd
+  apk: fd
 rule:
   /x:
     cmd: x pkg use fd

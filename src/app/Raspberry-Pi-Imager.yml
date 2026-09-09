@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/raspberrypi/rpi-imager
   eget: https://github.com/raspberrypi/rpi-imager
+  apt: rpi-imager
 rule:
   /eget:
     cmd: x eget raspberrypi/rpi-imager

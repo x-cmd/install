@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/trzsz/trzsz-go
   eget: https://github.com/trzsz/trzsz-go
+  apt: software-properties-common
+  dnf: trzsz
+  brew: trzsz-go
 rule:
   /eget:
     cmd: x eget trzsz/trzsz-go

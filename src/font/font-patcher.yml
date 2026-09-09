@@ -5,6 +5,7 @@ desc:
   en: FontForge is a free (libre) font editor for Windows, Mac OS X and GNU+Linux
 x:
   source: https://github.com/ryanoasis/nerd-fonts
+  brew: fontforge
 rule:
   darwin/brew:
     cmd: brew install fontforge

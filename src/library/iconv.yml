@@ -5,6 +5,10 @@ desc:
   en: Fast encoding conversion library for Erlang / Elixir
 x:
   source: https://github.com/processone/iconv
+  apt: libc-bin
+  dnf: glibc-common
+  brew: plan9port
+  pacman: plan9port
 rule:
   darwin/brew:
     cmd: brew install plan9port

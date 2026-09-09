@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/sqshq/sampler
   eget: https://github.com/sqshq/sampler
+  brew: sampler
 rule:
   /eget:
     cmd: x eget sqshq/sampler

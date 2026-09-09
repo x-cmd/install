@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/twpayne/chezmoi
   eget: https://github.com/twpayne/chezmoi
+  brew: chezmoi
+  pacman: chezmoi
+  apk: chezmoi
+  snap: chezmoi
 rule:
   /eget:
     cmd: x eget twpayne/chezmoi

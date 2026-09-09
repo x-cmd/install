@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/JohnnyMorganz/StyLua
   eget: https://github.com/JohnnyMorganz/StyLua
+  brew: stylua
 rule:
   /x:
     cmd: x pkg use stylua

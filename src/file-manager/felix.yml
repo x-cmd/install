@@ -6,6 +6,7 @@ desc:
   en: A tui file manager with Vim-like key mapping, written in Rust.
 x:
   source: https://github.com/kyoheiu/felix
+  pacman: felix-rs
 rule:
   /cargo:
     cmd: cargo install felix

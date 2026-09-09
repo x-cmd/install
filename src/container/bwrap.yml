@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/containers/bubblewrap
   eget: https://github.com/containers/bubblewrap
+  apt: bubblewrap
+  dnf: bubblewrap
+  brew: bubblewrap
+  pacman: bubblewrap
+  apk: bubblewrap
 rule:
   /eget:
     cmd: x eget containers/bubblewrap

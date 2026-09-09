@@ -6,6 +6,8 @@ desc:
   en: Command line music player
 x:
   source: https://github.com/ravachol/kew
+  apt: kew
+  brew: kew
 rule:
   debian/apt:
     cmd: sudo apt install kew

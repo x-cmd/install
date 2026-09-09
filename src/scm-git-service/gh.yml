@@ -7,6 +7,11 @@ license: MIT
 x:
   source: https://github.com/cli/cli
   eget: https://github.com/cli/cli
+  apt: wget
+  dnf: gh
+  brew: gh
+  pacman: github-cli
+  apk: github-cli
 rule:
   /eget:
     cmd: x eget use cli/cli

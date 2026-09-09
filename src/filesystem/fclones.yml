@@ -6,6 +6,8 @@ desc:
   en: Efficient duplicate file finder and remover
 x:
   source: https://github.com/pkolaczk/fclones
+  brew: fclones
+  snap: fclones
 rule:
   linux/snap:
     cmd: snap install fclones

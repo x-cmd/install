@@ -6,6 +6,10 @@ desc:
 x:
   source: https://github.com/hashcat/hashcat
   eget: https://github.com/hashcat/hashcat
+  apt: hashcat
+  dnf: hashcat
+  brew: hashcat
+  apk: hashcat
 rule:
   /eget:
     cmd: x eget hashcat/hashcat

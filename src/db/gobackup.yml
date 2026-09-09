@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/gobackup/gobackup
   eget: https://github.com/gobackup/gobackup
+  brew: gobackup
 rule:
   /x:
     cmd: x pkg use gobackup

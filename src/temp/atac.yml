@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/Julien-cpsn/ATAC
   eget: https://github.com/Julien-cpsn/ATAC
+  dnf: atac
+  brew: atac
+  pacman: atac
 rule:
   /eget:
     cmd: x eget Julien-cpsn/ATAC

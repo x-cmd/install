@@ -6,6 +6,7 @@ desc:
   en: Facebook PathPicker is a simple command line tool that solves the perpetual problem of selecting files out of bash output
 x:
   source: https://github.com/facebook/PathPicker
+  brew: fpp
 rule:
   darwin/brew:
     cmd: brew install fpp

@@ -6,6 +6,9 @@ desc:
 x:
   source: https://github.com/mxcl/Workbench
   eget: https://github.com/mxcl/Workbench
+  apt: mysql-workbench
+  brew: --cask
+  pacman: mysql-workbench
 rule:
   /eget:
     cmd: x eget mxcl/Workbench

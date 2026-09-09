@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/wasmerio/wasmer
   eget: https://github.com/wasmerio/wasmer
+  brew: wasmer
 rule:
   /eget:
     cmd: x eget wasmerio/wasmer

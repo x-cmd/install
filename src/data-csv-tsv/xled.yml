@@ -9,7 +9,7 @@ desc:
 x:
   source: https://github.com/excelano/xled
   eget: https://github.com/excelano/xled
-
+  brew: excelano/tap/xled
 rule:
   /eget:
     cmd: x eget excelano/xled

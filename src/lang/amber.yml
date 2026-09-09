@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/amber-lang/Amber
   eget: https://github.com/amber-lang/Amber
+  brew: amber-lang/amber/amber-lang
 rule:
   /eget:
     cmd: x eget amber-lang/Amber

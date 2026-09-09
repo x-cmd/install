@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/carvel-dev/ytt
   eget: https://github.com/carvel-dev/ytt
+  brew: ytt
 rule:
   /x:
     cmd: x pkg use ytt

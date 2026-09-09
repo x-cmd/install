@@ -6,6 +6,7 @@ desc:
   en: odo is a fast, iterative and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes
 x:
   source: https://github.com/redhat-developer/odo
+  brew: odo-dev
 rule:
   linux/curl:
     cmd: 'curl -L https://developers.redhat.com/content-gateway/rest/mirror/pub/openshift-v4/clients/odo/v3.15.0/odo-linux-amd64 -o odo \

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/wfxr/forgit
   eget: https://github.com/wfxr/forgit
+  brew: forgit
 rule:
   /eget:
     cmd: x eget wfxr/forgit

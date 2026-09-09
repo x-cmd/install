@@ -6,6 +6,7 @@ desc:
   cn: 从命令行控制 Google Chrome
 x:
   source: https://github.com/prasmussen/chrome-cli
+  brew: chrome-cli
 rule:
   darwin/brew:
     cmd: brew install chrome-cli

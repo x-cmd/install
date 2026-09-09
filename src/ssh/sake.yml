@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/alajmo/sake
   eget: https://github.com/alajmo/sake
+  brew: sake
+  pacman: sake
 rule:
   /eget:
     cmd: x eget alajmo/sake

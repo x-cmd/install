@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/bitnami-labs/sealed-secrets
   eget: https://github.com/bitnami-labs/sealed-secrets
+  brew: kubeseal
 rule:
   /eget:
     cmd: x eget bitnami-labs/sealed-secrets

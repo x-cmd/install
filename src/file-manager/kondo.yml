@@ -6,6 +6,9 @@ desc:
   en: A command line tool to clean node_modules, target, build, and friends from your projects.
 x:
   source: https://github.com/tbillington/kondo
+  brew: kondo
+  pacman: kondo
+  apk: kondo
 rule:
   arch/pacman:
     cmd: pacman -S kondo

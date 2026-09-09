@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/FiloSottile/mkcert
   eget: https://github.com/FiloSottile/mkcert
+  brew: mkcert
 rule:
   /x:
     cmd: x pkg use mkcert

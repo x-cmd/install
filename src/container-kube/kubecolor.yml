@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/hidetatz/kubecolor
   eget: https://github.com/hidetatz/kubecolor
+  brew: hidetatz/tap/kubecolor
 rule:
   /eget:
     cmd: x eget hidetatz/kubecolor

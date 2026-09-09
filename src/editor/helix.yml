@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/helix-editor/helix
   eget: https://github.com/helix-editor/helix
+  apt: helix
+  dnf: helix
+  brew: helix
+  pacman: helix
+  snap: --classic
 rule:
   /eget:
     cmd: x eget helix-editor/helix

@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/nginx/nginx
   eget: https://github.com/nginx/nginx
+  apt: nginx-extras
+  dnf: nginx-extras
+  brew: nginx
+  pacman: nginx
+  apk: nginx
 rule:
   /eget:
     cmd: x eget nginx/nginx

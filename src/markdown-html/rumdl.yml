@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/rvben/rumdl
   eget: https://github.com/rvben/rumdl
+  pacman: rumdl
 rule:
   /x:
     cmd: x pkg use rumdl

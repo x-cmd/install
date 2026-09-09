@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/neovim/neovim
   eget: https://github.com/neovim/neovim
+  apt: neovim
+  dnf: -y
+  brew: neovim
+  pacman: neovim
+  apk: neovim
 rule:
   /eget:
     cmd: x eget neovim/neovim

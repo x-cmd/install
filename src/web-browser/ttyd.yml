@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/tsl0922/ttyd
   eget: https://github.com/tsl0922/ttyd
+  brew: ttyd
+  apk: ttyd
 rule:
   /x:
     cmd: x pkg use ttyd

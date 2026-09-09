@@ -6,6 +6,9 @@ desc:
   cn: gpg-tui 是 GnuPG 的终端用户界面
 x:
   source: https://github.com/orhun/gpg-tui
+  brew: gpg-tui
+  pacman: gpg-tui
+  apk: gpg-tui
 rule:
   /cargo:
     cmd: cargo install gpg-tui

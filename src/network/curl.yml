@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/curl/curl
   eget: https://github.com/curl/curl
+  apt: curl
+  dnf: curl
+  brew: curl
+  pacman: curl
+  apk: curl
 rule:
   /eget:
     cmd: x eget curl/curl

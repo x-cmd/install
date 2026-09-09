@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/lavv17/lftp
   eget: https://github.com/lavv17/lftp
+  brew: lftp
 rule:
   /eget:
     cmd: x eget lavv17/lftp

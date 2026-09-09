@@ -6,6 +6,10 @@ desc:
   en: Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites
 x:
   source: https://github.com/jekyll/jekyll
+  apt: ruby-full
+  dnf: ruby
+  brew: chruby
+  pacman: ruby
 rule:
   darwin/gem:
     cmd: 'brew install chruby ruby-install xz \

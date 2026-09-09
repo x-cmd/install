@@ -6,6 +6,7 @@ desc:
   en: Apple's tool for creating and running Linux containers using lightweight virtual machines on macOS, optimized for Apple Silicon
 x:
   source: https://github.com/apple/container
+  brew: container
 rule:
   darwin/brew:
     cmd: brew install container

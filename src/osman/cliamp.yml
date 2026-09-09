@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/bjarneo/cliamp
   eget: https://github.com/bjarneo/cliamp
+  brew: bjarneo/cliamp/cliamp'
 rule:
   darwin/brew:
     cmd: 'brew install bjarneo/cliamp/cliamp'

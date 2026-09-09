@@ -6,6 +6,7 @@ desc:
   cn: 一个用于 JavaScript 和友好的资源打包工具
 x:
   source: https://github.com/webpack/webpack
+  brew: webpack
 rule:
   /npm:
     cmd: npm install -g webpack

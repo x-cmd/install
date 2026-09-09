@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/phiresky/ripgrep-all
   eget: https://github.com/phiresky/ripgrep-all
+  brew: rga
+  pacman: ripgrep-all
 rule:
   /eget:
     cmd: x eget phiresky/ripgrep-all

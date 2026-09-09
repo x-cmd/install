@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/flameshot-org/flameshot
   eget: https://github.com/flameshot-org/flameshot
+  apt: flameshot
+  dnf: flameshot
+  brew: --cask
+  pacman: flameshot
+  snap: flameshot
 rule:
   /eget:
     cmd: x eget flameshot-org/flameshot

@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/rclone/rclone
   eget: https://github.com/rclone/rclone
+  brew: rclone
+  snap: rclone
 rule:
   /x:
     cmd: x pkg use rclone

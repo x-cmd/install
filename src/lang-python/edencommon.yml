@@ -6,6 +6,7 @@ desc:
   cn: Edencommon 是 Meta 源代码控制系统工具（EdenFS 和 Watchman）的共享库
 x:
   source: https://github.com/facebookexperimental/edencommon
+  brew: edencommon
 rule:
   darwin/brew:
     cmd: brew install edencommon

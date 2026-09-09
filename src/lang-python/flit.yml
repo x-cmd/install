@@ -6,6 +6,8 @@ desc:
   cn: Flit 是一种将 Python 包和模块放在 PyPI 上的简单方法
 x:
   source: https://github.com/pypa/flit
+  dnf: python3-flit
+  brew: flit
 rule:
   /pip:
     cmd: python3 -m pip install flit

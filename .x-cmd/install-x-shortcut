@@ -1,0 +1,143 @@
+#!/usr/bin/env python3
+"""Auto-populate x: package-manager shortcuts from rule: block.
+
+Convention:
+  - Generic keys: apt, dnf, brew, apk, pacman, snap
+  - Specific overrides (only when cmd genuinely differs): kali/apt, ubuntu/apt
+
+For each yml, scan the rule: block for cmd lines like
+  `apt-get install <pkg>` -> x.apt: <pkg>
+  `brew install <pkg>`   -> x.brew: <pkg>
+  etc.
+
+If the file already has x.<key>: set, leave alone.
+"""
+import re
+from pathlib import Path
+
+SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
+
+GENERIC_RULES = [
+    # (x-key,  cmd regex with one pkg capture)
+    ('apt',     re.compile(r'\bapt(?:-get)?\s+install\s+(\S+)')),
+    ('dnf',     re.compile(r'\b(?:dnf|yum)\s+install\s+(\S+)')),
+    ('brew',    re.compile(r'\bbrew\s+install\s+(\S+)')),
+    ('pacman',  re.compile(r'\bpacman\s+-S\s+(\S+)')),
+    ('apk',     re.compile(r'\bapk\s+add\s+(\S+)')),
+    ('snap',    re.compile(r'\bsnap\s+install\s+(\S+)')),
+]
+
+# Only added when the cmd differs from the generic apt cmd.
+SPECIFIC_OVERRIDES = [
+    # (x-key,  cmd regex with one pkg capture)
+    ('kali/apt',    re.compile(r'\bkali[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
+    ('ubuntu/apt',  re.compile(r'\bubuntu[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
+    ('debian/apt',  re.compile(r'\bdebian[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
+    ('fedora/dnf',  re.compile(r'\bfedora[-_/].*(?:dnf|yum)\s+install\s+(\S+)')),
+    ('arch/pacman', re.compile(r'\barch[-_/].*pacman\s+-S\s+(\S+)')),
+    ('alpine/apk',  re.compile(r'\balpine[-_/].*apk\s+add\s+(\S+)')),
+]
+
+
+def extract_rule_block(text):
+    """Return the text of the rule: block, or None."""
+    m = re.search(r'^rule:\s*\n', text, re.MULTILINE)
+    if not m:
+        return None
+    start = m.end()
+    # Find the next sibling top-level key (an unindented '<word>:' line)
+    nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[start:], re.MULTILINE)
+    end = start + (nxt.start() if nxt else len(text) - start)
+    return text[start:end]
+
+
+def find_x_block(text):
+    """Return (start, end) byte offsets of the x: block, or (None, None).
+    The end is at the LAST line of x: (before next top-level key)."""
+    m = re.search(r'^x:\s*\n', text, re.MULTILINE)
+    if not m:
+        return None, None
+    start = m.start()
+    pos = m.end()
+    while pos < len(text):
+        nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[pos:], re.MULTILINE)
+        if not nxt:
+            return start, len(text)
+        # Make sure this isn't a continuation of the x: block (e.g. indented)
+        next_line_start = pos + nxt.start()
+        # Walk back: if the matched line is at column 0 (unindented),
+        # then it's a sibling top-level key.
+        if text[next_line_start] != ' ' and text[next_line_start] != '\t':
+            return start, next_line_start
+        # Otherwise skip past this line and keep scanning
+        pos = text.find('\n', next_line_start) + 1
+    return start, len(text)
+
+
+def existing_keys(x_block):
+    """Set of '<key>:' values already in the x: block (top-level keys)."""
+    keys = set()
+    for m in re.finditer(r'^  ([a-z][\w/-]*):\s', x_block, re.MULTILINE):
+        keys.add(m.group(1))
+    return keys
+
+
+def fixup(yml_path: Path):
+    text = yml_path.read_text()
+    rule_block = extract_rule_block(text)
+    if not rule_block:
+        return False
+    x_start, x_end = find_x_block(text)
+    if x_start is None:
+        return False
+    x_block = text[x_start:x_end]
+    existing = existing_keys(x_block)
+
+    generic = {}
+    for key, rx in GENERIC_RULES:
+        m = rx.search(rule_block)
+        if m and key not in generic:
+            generic[key] = m.group(1)
+
+    specific = {}
+    for key, rx in SPECIFIC_OVERRIDES:
+        m = rx.search(rule_block)
+        if m and key not in specific:
+            specific[key] = m.group(1)
+
+    # Decide what to add
+    additions = []
+    for key, pkg in generic.items():
+        if key not in existing:
+            additions.append((key, pkg))
+    for key, pkg in specific.items():
+        if key not in existing:
+            parent = key.split('/', 1)[0]
+            # Map 'kali/apt' -> 'apt', 'arch/pacman' -> 'pacman'
+            if '/' in key:
+                parent = key.split('/')[1]
+                parent_key = {'apt': 'apt', 'dnf': 'dnf', 'pacman': 'pacman', 'apk': 'apk'}.get(parent, None)
+            else:
+                parent_key = None
+            # Only add if it differs from the generic
+            if parent_key and generic.get(parent_key) != pkg:
+                additions.append((key, pkg))
+
+    if not additions:
+        return False
+
+    # Build new x_block with additions inserted before the closing newline
+    new_keys_block = '\n'.join(f'  {k}: {v}' for k, v in additions)
+    # Strip trailing newline from x_block, add new keys, re-add newline
+    stripped = x_block.rstrip('\n')
+    new_x_block = stripped + '\n' + new_keys_block + '\n'
+    text = text[:x_start] + new_x_block + text[x_end:]
+    yml_path.write_text(text)
+    return True
+
+
+FIXED = 0
+for p in SRC.rglob('*.yml'):
+    if fixup(p):
+        FIXED += 1
+print(f"updated: {FIXED}")

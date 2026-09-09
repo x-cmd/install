@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/karlstav/cava
   eget: https://github.com/karlstav/cava
+  apt: cava
+  dnf: cava
+  brew: cava
 rule:
   /eget:
     cmd: x eget karlstav/cava

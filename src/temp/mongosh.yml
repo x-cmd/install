@@ -7,6 +7,7 @@ lang: JavaScript
 x:
   source: https://github.com/mongodb-js/mongosh
   eget: https://github.com/mongodb-js/mongosh
+  brew: mongosh
 rule:
   /eget:
     cmd: x eget mongodb-js/mongosh

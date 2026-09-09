@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/bcicen/ctop
   eget: https://github.com/bcicen/ctop
+  apt: ca-certificates
+  brew: ctop
+  pacman: ctop
 rule:
   /eget:
     cmd: x eget bcicen/ctop

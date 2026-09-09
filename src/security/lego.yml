@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/go-acme/lego
   eget: https://github.com/go-acme/lego
+  brew: lego
+  pacman: lego
+  snap: lego
 rule:
   /x:
     cmd: x pkg use lego

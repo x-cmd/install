@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/c-ares/c-ares
   eget: https://github.com/c-ares/c-ares
+  brew: c-ares
 rule:
   /eget:
     cmd: x eget c-ares/c-ares

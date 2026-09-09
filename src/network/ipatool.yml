@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/majd/ipatool
   eget: https://github.com/majd/ipatool
+  brew: ipatool
 rule:
   /x:
     cmd: x pkg use ipatool

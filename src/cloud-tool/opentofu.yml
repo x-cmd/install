@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/opentofu/opentofu
   eget: https://github.com/opentofu/opentofu
+  apt: -y
+  dnf: -y
+  brew: opentofu
+  snap: --classic
 rule:
   /x:
     cmd: x pkg use opentofu

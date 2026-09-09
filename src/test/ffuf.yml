@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/ffuf/ffuf
   eget: https://github.com/ffuf/ffuf
+  brew: ffuf
 rule:
   /x:
     cmd: x pkg use ffuf

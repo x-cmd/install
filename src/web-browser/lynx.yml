@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/lynx-family/lynx
   eget: https://github.com/lynx-family/lynx
+  brew: lynx
 rule:
   /eget:
     cmd: x eget lynx-family/lynx

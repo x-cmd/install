@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/dduan/tre
   eget: https://github.com/dduan/tre
+  apt: tre-command
+  brew: tre-command
 rule:
   /eget:
     cmd: x eget dduan/tre

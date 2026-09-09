@@ -5,6 +5,10 @@ desc:
   en: NVTOP stands for Neat Videocard TOP, a (h)top like task monitor for GPUs and accelerators.
 x:
   source: https://github.com/Syllo/nvtop
+  apt: nvtop
+  dnf: nvtop
+  pacman: nvtop
+  snap: nvtop
 rule:
   debian/apt:
     cmd: sudo apt install nvtop

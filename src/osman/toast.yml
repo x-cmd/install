@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/stepchowfun/toast
   eget: https://github.com/stepchowfun/toast
+  brew: toast
 rule:
   /eget:
     cmd: x eget stepchowfun/toast

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/medialab/xan
   eget: https://github.com/medialab/xan
+  brew: xan
+  pacman: xan
 rule:
   /eget:
     cmd: x eget medialab/xan

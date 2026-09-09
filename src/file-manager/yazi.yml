@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/sxyazi/yazi
   eget: https://github.com/sxyazi/yazi
+  brew: yazi
+  pacman: yazi
 rule:
   /eget:
     cmd: x eget sxyazi/yazi

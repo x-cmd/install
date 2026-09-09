@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ckaznable/poketex
   eget: https://github.com/ckaznable/poketex
+  pacman: poketex
 rule:
   /eget:
     cmd: x eget ckaznable/poketex

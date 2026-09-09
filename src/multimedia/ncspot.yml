@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/hrkfdn/ncspot
   eget: https://github.com/hrkfdn/ncspot
+  brew: ncspot
 rule:
   /eget:
     cmd: x eget hrkfdn/ncspot

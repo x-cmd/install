@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/anomalyco/opencode
   eget: https://github.com/anomalyco/opencode
+  brew: opencode
 rule:
   /x:
     cmd: x pkg use opencode

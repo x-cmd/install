@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/dagger/dagger
   eget: https://github.com/dagger/dagger
+  brew: dagger/tap/dagger
 rule:
   /x:
     cmd: x pkg use dagger

@@ -6,6 +6,7 @@ desc:
   cn: 一个最小化用户交互的 AUR 帮助程序
 x:
   source: https://github.com/rmarquis/pacaur
+  pacman: git
 rule:
   arch/pacman:
     cmd: 'sudo pacman -S git base-devel \

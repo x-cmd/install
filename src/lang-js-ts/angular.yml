@@ -6,6 +6,7 @@ desc:
   en: CLI for initializing, developing, building, and maintaining Angular applications directly from the command shell
 x:
   source: https://github.com/angular/angular-cli
+  brew: angular-cli
 rule:
   /npm:
     cmd: npm install -g @angular/cli

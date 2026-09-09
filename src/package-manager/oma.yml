@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/aosc-dev/oma
   eget: https://github.com/aosc-dev/oma
+  apt: oma
 rule:
   /eget:
     cmd: x eget aosc-dev/oma

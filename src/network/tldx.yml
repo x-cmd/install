@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/brandonyoungdev/tldx
   eget: https://github.com/brandonyoungdev/tldx
+  brew: brandonyoungdev/tldx/tldx
 rule:
   /eget:
     cmd: x eget brandonyoungdev/tldx

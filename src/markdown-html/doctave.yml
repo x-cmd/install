@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Doctave/doctave
   eget: https://github.com/Doctave/doctave
+  brew: doctave/doctave/doctave
 rule:
   /eget:
     cmd: x eget Doctave/doctave

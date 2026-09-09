@@ -6,6 +6,8 @@ desc:
   en: A simple CLI timezone info tool.
 x:
   source: https://github.com/merschformann/gotz
+  brew: gotz
+  pacman: gotz-bin
 rule:
   /go:
     cmd: go install github.com/merschformann/gotz@latest

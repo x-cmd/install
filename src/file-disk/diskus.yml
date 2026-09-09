@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/sharkdp/diskus
   eget: https://github.com/sharkdp/diskus
+  brew: diskus
+  pacman: diskus
 rule:
   /eget:
     cmd: x eget sharkdp/diskus

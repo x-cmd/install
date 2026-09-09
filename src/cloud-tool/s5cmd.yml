@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/peak/s5cmd
   eget: https://github.com/peak/s5cmd
+  brew: peak/tap/s5cmd
 rule:
   /eget:
     cmd: x eget peak/s5cmd

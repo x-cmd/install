@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/neurocyte/flow
   eget: https://github.com/neurocyte/flow
+  brew: flow-control
+  pacman: flow-control
 rule:
   /eget:
     cmd: x eget neurocyte/flow

@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/fujiapple852/trippy
   eget: https://github.com/fujiapple852/trippy
+  brew: trippy
+  pacman: trippy
+  snap: trippy
 rule:
   /x:
     cmd: x pkg use trippy

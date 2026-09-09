@@ -6,6 +6,7 @@ desc:
   cn: mvfst 是 Facebook 在 C++ 中实现 IETF QUIC 协议的客户端和服务器
 x:
   source: https://github.com/facebook/mvfst
+  brew: mvfst
 rule:
   arch/yay:
     cmd: yay -S mvfst

@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/go-gost/gost
   eget: https://github.com/go-gost/gost
+  apt: gost
+  brew: gost
+  pacman: gost
+  apk: mosquitto
 rule:
   /x:
     cmd: x pkg use gost

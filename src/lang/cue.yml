@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/cuelang/cue
   eget: https://github.com/cuelang/cue
+  brew: cue-lang/tap/cue
 rule:
   /eget:
     cmd: x eget cuelang/cue

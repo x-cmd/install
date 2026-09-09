@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/thetumultuousunicornofdarkness/CPU-X
   eget: https://github.com/thetumultuousunicornofdarkness/CPU-X
+  apt: cpu-x
+  dnf: cpu-x
 rule:
   /eget:
     cmd: x eget thetumultuousunicornofdarkness/CPU-X

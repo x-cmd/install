@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/preiter93/wireman
   eget: https://github.com/preiter93/wireman
+  brew: preiter93/wireman/wireman
 rule:
   /eget:
     cmd: x eget preiter93/wireman

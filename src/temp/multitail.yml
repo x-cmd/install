@@ -6,6 +6,11 @@ desc:
   en: MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
 x:
   source: https://github.com/folkertvanheusden/multitail
+  apt: multitail
+  dnf: multitail
+  brew: multitail
+  pacman: multitail
+  apk: multitail
 rule:
   darwin/brew:
     cmd: brew install multitail

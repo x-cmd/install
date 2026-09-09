@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/aquasecurity/trivy
   eget: https://github.com/aquasecurity/trivy
+  apt: trivy
+  brew: trivy
 rule:
   /x:
     cmd: x pkg use trivy

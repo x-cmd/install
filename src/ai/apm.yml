@@ -6,6 +6,7 @@ desc:
   en: APM (Agent Package Manager) is an open-source, community-driven dependency manager for AI coding agents. Declare agentic dependencies once in apm.yml and reproduce a fully configured setup across GitHub Copilot, Claude Code, Cursor, OpenCode, Codex, Gemini, Windsurf, Kiro, and more — with transitive resolution, a lockfile, policy enforcement, and SBOM export.
 x:
   source: https://github.com/microsoft/apm
+  brew: microsoft/apm/apm
 rule:
   /curl:
     cmd: curl -sSL https://aka.ms/apm-unix | sh

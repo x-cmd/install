@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/loft-sh/vcluster
   eget: https://github.com/loft-sh/vcluster
+  brew: vcluster
 rule:
   /eget:
     cmd: x eget loft-sh/vcluster

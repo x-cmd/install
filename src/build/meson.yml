@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/mesonbuild/meson
   eget: https://github.com/mesonbuild/meson
+  apt: meson
+  dnf: meson
+  brew: meson
+  pacman: meson
 rule:
   /eget:
     cmd: x eget mesonbuild/meson

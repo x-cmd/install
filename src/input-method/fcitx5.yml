@@ -5,6 +5,9 @@ desc:
   en: Fcitx is an input method framework with extension support
 x:
   source: https://github.com/fcitx/fcitx5
+  apt: fcitx5
+  dnf: fcitx5
+  pacman: fcitx5
 rule:
   centos/yum:
     cmd: sudo yum install fcitx5

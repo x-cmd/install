@@ -6,6 +6,8 @@ desc:
   en: rustup installs The Rust Programming Language from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated
 x:
   source: https://github.com/rust-lang/rustup
+  brew: rustup-init
+  pacman: rustup
 rule:
   darwin/brew:
     cmd: brew install rustup-init

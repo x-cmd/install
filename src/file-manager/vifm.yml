@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/vifm/vifm
   eget: https://github.com/vifm/vifm
+  apt: vifm
+  dnf: vifm
+  brew: vifm
+  pacman: vifm
+  apk: vifm
 rule:
   /eget:
     cmd: x eget vifm/vifm

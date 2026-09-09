@@ -6,6 +6,11 @@ desc:
   en: cgdb is a lightweight curses (terminal-based) interface to the GNU Debugger (GDB).
 x:
   source: https://github.com/cgdb/cgdb
+  apt: cgdb
+  dnf: cgdb
+  brew: cgdb
+  pacman: cgdb
+  apk: cgdb
 rule:
   darwin/brew:
     cmd: brew install cgdb

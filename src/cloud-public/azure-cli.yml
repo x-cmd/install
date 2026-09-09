@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Azure/azure-cli
   eget: https://github.com/Azure/azure-cli
+  brew: azure-cli
 rule:
   /eget:
     cmd: x eget Azure/azure-cli

@@ -5,6 +5,11 @@ desc:
   en: ELinks is an advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
 x:
   source: https://github.com/nabetaro/elinks
+  apt: elinks
+  dnf: elinks
+  brew: elinks
+  pacman: elinks
+  apk: elinks
 rule:
   darwin/brew:
     cmd: brew install elinks

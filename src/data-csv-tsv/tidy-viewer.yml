@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/alexhallam/tv
   eget: https://github.com/alexhallam/tv
+  brew: tidy-viewer
+  snap: --edge
 rule:
   /eget:
     cmd: x eget alexhallam/tv

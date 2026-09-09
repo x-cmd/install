@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/supernovae-st/nika
   eget: https://github.com/supernovae-st/nika
+  brew: supernovae-st/tap/nika
 rule:
   /eget:
     cmd: x eget supernovae-st/nika

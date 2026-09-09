@@ -6,6 +6,11 @@ desc:
   en: pstree is a small program that shows the process listing (ps) as a tree
 x:
   source: https://github.com/FredHucht/pstree
+  apt: psmisc
+  dnf: psmisc
+  brew: pstree
+  pacman: psmisc
+  apk: psmisc
 rule:
   darwin/brew:
     cmd: brew install pstree

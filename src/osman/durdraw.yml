@@ -11,7 +11,8 @@ x:
 #   brew:
 #   apt:
 #   arch/yay:
-
+  apt: durdraw
+  brew: durdraw
 rule:
   /pip:
     cmd: pip install git+https://github.com/durdraw/durdraw

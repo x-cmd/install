@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/jqlang/jq
   eget: https://github.com/jqlang/jq
+  apt: jq
+  dnf: jq
+  brew: jq
+  pacman: jq
+  apk: jq
 rule:
   /x:
     cmd: x pkg use jq

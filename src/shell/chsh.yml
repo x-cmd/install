@@ -6,6 +6,10 @@ desc:
 x:
   source: https://github.com/shadow-maint/shadow
   eget: https://github.com/shadow-maint/shadow
+  apt: passwd
+  dnf: util-linux-ng
+  pacman: util-linux
+  apk: util-linux
 rule:
   /eget:
     cmd: x eget shadow-maint/shadow

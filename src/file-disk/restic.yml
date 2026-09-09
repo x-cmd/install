@@ -9,6 +9,11 @@ x:
     exist: true
   source: https://github.com/restic/restic
   eget: https://github.com/restic/restic
+  apt: restic
+  dnf: restic
+  brew: restic
+  pacman: restic
+  apk: restic
 rule:
   /eget:
     cmd: x eget restic/restic

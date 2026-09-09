@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/flyway/flyway
   eget: https://github.com/flyway/flyway
+  brew: flyway
 rule:
   /eget:
     cmd: x eget flyway/flyway

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/santinic/how2
   eget: https://github.com/santinic/how2
+  brew: how2
 rule:
   /x:
     cmd: x pkg use how2

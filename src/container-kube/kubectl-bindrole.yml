@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Ladicle/kubectl-rolesum
   eget: https://github.com/Ladicle/kubectl-rolesum
+  brew: Ladicle/kubectl-bindrole/kubectl-rolesum
 rule:
   /eget:
     cmd: x eget Ladicle/kubectl-rolesum

@@ -5,6 +5,9 @@ desc:
   en: Pycairo is a Python module providing bindings for the cairo graphics library
 x:
   source: https://github.com/pygobject/pycairo
+  apt: libcairo2-dev
+  dnf: cairo-devel
+  pacman: cairo
 rule:
   /pip3:
     cmd: pip3 install pycairo

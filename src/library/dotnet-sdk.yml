@@ -6,6 +6,7 @@ desc:
   en: .NET is the free, open-source, cross-platform framework for building modern apps and powerful cloud services
 x:
   source: https://github.com/dotnet/sdk
+  brew: --cask
 rule:
   arch/yay:
     cmd: yay -S dotnet-sdk-bin

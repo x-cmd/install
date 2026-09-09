@@ -9,6 +9,12 @@ x:
     exist: true
   source: https://github.com/ocrmypdf/OCRmyPDF
   eget: https://github.com/ocrmypdf/OCRmyPDF
+  apt: ocrmypdf
+  dnf: ocrmypdf
+  brew: ocrmypdf
+  pacman: ocrmypdf
+  apk: ocrmypdf
+  snap: ocrmypdf
 rule:
   /eget:
     cmd: x eget ocrmypdf/OCRmyPDF

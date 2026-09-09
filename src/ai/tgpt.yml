@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/aandrew-me/tgpt
   eget: https://github.com/aandrew-me/tgpt
+  pacman: tgpt
 rule:
   /eget:
     cmd: x eget aandrew-me/tgpt

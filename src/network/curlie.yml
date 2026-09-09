@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/rs/curlie
   eget: https://github.com/rs/curlie
+  brew: curlie
 rule:
   /x:
     cmd: x pkg use curlie

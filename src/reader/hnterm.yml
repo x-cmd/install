@@ -6,6 +6,8 @@ desc:
   en: HNTerm is a small console application written in C++ for browsing Hacker News.
 x:
   source: https://github.com/ggerganov/hnterm
+  brew: ggerganov/ggerganov/hnterm
+  snap: hnterm
 rule:
   linux/snap:
     cmd: sudo snap install hnterm

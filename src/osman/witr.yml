@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/pranshuparmar/witr
   eget: https://github.com/pranshuparmar/witr
+  apt: witr
+  brew: witr
 rule:
   /eget:
     cmd: x eget use pranshuparmar/witr

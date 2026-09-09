@@ -6,6 +6,11 @@ desc:
   cn: Siege 是一个开源的回归测试和基准测试工具
 x:
   source: https://github.com/JoeDog/siege
+  apt: siege
+  dnf: siege
+  brew: siege
+  pacman: siege
+  apk: siege
 rule:
   darwin/brew:
     cmd: brew install siege

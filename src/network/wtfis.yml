@@ -6,6 +6,7 @@ desc:
   en: Passive hostname, domain and IP lookup tool for non-robots
 x:
   source: https://github.com/pirxthepilot/wtfis
+  brew: wtfis
 rule:
   /pip:
     cmd: pip install wtfis

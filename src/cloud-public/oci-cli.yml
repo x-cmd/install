@@ -8,6 +8,8 @@ x:
     exist: true
   source: https://github.com/oracle/oci-cli
   eget: https://github.com/oracle/oci-cli
+  dnf: oci-cli
+  brew: oci-cli
 rule:
   /eget:
     cmd: x eget oracle/oci-cli

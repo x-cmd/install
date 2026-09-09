@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/veeso/termscp
   eget: https://github.com/veeso/termscp
+  pacman: termscp
 rule:
   /x:
     cmd: x pkg use termscp

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/lfaoro/ssm
   eget: https://github.com/lfaoro/ssm
+  apt: ./ssm_*_linux_*.deb'
+  brew: lfaoro/tap/ssm'
 rule:
   darwin/brew:
     cmd: 'brew install lfaoro/tap/ssm'

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ikanago/omekasy
   eget: https://github.com/ikanago/omekasy
+  brew: omekasy
 rule:
   /eget:
     cmd: x eget ikanago/omekasy

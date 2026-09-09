@@ -5,6 +5,10 @@ desc:
   en: Matplotlib is a Python library for creating publication quality graphics
 x:
   source: https://github.com/matplotlib/matplotlib
+  apt: python3-matplotlib
+  dnf: python3-matplotlib
+  brew: python-matplotlib
+  pacman: python-matplotlib
 rule:
   /pip:
     cmd: python -m pip install -U matplotlib

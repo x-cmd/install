@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kdash-rs/kdash
   eget: https://github.com/kdash-rs/kdash
+  brew: kdash
 rule:
   /eget:
     cmd: x eget kdash-rs/kdash

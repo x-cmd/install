@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/dandavison/delta
   eget: https://github.com/dandavison/delta
+  dnf: git-delta
+  brew: git-delta
+  pacman: git-delta
 rule:
   /x:
     cmd: x pkg use delta

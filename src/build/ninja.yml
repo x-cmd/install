@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/ninja-build/ninja
   eget: https://github.com/ninja-build/ninja
+  apt: ninja-build
+  dnf: ninja-build
+  brew: ninja
+  pacman: ninja
+  apk: ninja
 rule:
   /eget:
     cmd: x eget ninja-build/ninja

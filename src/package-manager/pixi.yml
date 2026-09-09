@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/prefix-dev/pixi
   eget: https://github.com/prefix-dev/pixi
+  brew: pixi
+  pacman: pixi
+  apk: pixi
 rule:
   /eget:
     cmd: x eget prefix-dev/pixi

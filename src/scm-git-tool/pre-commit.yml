@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/pre-commit/pre-commit
   eget: https://github.com/pre-commit/pre-commit
+  brew: pre-commit
 rule:
   /x:
     cmd: x pkg use pre-commit

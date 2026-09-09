@@ -6,6 +6,7 @@ desc:
   en: Apache HBase™ is the Hadoop database, a distributed, scalable, big data store
 x:
   source: https://github.com/apache/hbase
+  brew: hbase
 rule:
   darwin/brew:
     cmd: brew install hbase

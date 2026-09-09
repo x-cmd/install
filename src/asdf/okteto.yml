@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/okteto/okteto
   eget: https://github.com/okteto/okteto
+  brew: okteto
 rule:
   /eget:
     cmd: x eget okteto/okteto

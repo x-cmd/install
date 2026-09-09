@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/shadowsocks/shadowsocks-rust
   eget: https://github.com/shadowsocks/shadowsocks-rust
+  brew: shadowsocks-rust
+  snap: shadowsocks-rust
 rule:
   /eget:
     cmd: x eget shadowsocks/shadowsocks-rust

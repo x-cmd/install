@@ -8,6 +8,7 @@ x:
   pkg:
     exist: true
   source: https://github.com/dylanaraps/pywal
+  pacman: python-pywal
 rule:
   /x:
     cmd: x pkg use pywal

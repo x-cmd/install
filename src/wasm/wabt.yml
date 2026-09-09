@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/WebAssembly/wabt
   eget: https://github.com/WebAssembly/wabt
+  apt: wabt
+  brew: wabt
 rule:
   /eget:
     cmd: x eget WebAssembly/wabt

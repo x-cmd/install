@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/stepchowfun/docuum
   eget: https://github.com/stepchowfun/docuum
+  brew: docuum
 rule:
   /eget:
     cmd: x eget stepchowfun/docuum

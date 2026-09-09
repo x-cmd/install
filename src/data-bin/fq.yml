@@ -8,6 +8,9 @@ x:
     exist: true
   source: https://github.com/wader/fq
   eget: https://github.com/wader/fq
+  brew: wader/tap/fq
+  pacman: fq
+  apk: -X
 rule:
   /x:
     cmd: x pkg use fq

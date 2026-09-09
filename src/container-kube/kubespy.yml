@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/pulumi/kubespy
   eget: https://github.com/pulumi/kubespy
+  brew: kubespy
 rule:
   /eget:
     cmd: x eget pulumi/kubespy

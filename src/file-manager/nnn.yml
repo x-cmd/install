@@ -7,6 +7,11 @@ license: BSD-2-Clause
 x:
   source: https://github.com/jarun/nnn
   eget: https://github.com/jarun/nnn
+  apt: nnn
+  dnf: nnn
+  brew: nnn
+  pacman: nnn
+  apk: nnn
 rule:
   /eget:
     cmd: x eget jarun/nnn

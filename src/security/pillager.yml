@@ -6,6 +6,7 @@ desc:
   en: Pillage filesystems for sensitive information.
 x:
   source: https://github.com/brittonhayes/pillager
+  brew: pillager
 rule:
   /brew:
     cmd: 'brew tap brittonhayes/homebrew-pillager \

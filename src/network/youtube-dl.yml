@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/ytdl-org/youtube-dl
   eget: https://github.com/ytdl-org/youtube-dl
+  brew: youtube-dl
 rule:
   /eget:
     cmd: x eget ytdl-org/youtube-dl

@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/irssi/irssi
   eget: https://github.com/irssi/irssi
+  apt: irssi
+  dnf: irssi
+  brew: irssi
+  pacman: irssi
+  apk: irssi
 rule:
   /eget:
     cmd: x eget irssi/irssi

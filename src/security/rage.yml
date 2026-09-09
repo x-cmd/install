@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/str4d/rage
   eget: https://github.com/str4d/rage
+  brew: rage
 rule:
   /eget:
     cmd: x eget str4d/rage

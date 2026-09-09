@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/yorukot/superfile
   eget: https://github.com/yorukot/superfile
+  brew: superfile
+  pacman: superfile
 rule:
   /x:
     cmd: x pkg use superfile

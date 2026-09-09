@@ -6,6 +6,7 @@ desc:
   en: A tool for generating functional, easy to maintain, and aesthetically pleasing user guides.
 x:
   source: https://github.com/testingisdocumenting/znai
+  brew: testingisdocumenting/brew/znai
 rule:
   darwin/brew:
     cmd: brew install testingisdocumenting/brew/znai

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/bytecodealliance/wasmtime
   eget: https://github.com/bytecodealliance/wasmtime
+  brew: wasmtime
 rule:
   /x:
     cmd: x pkg use wasmtime

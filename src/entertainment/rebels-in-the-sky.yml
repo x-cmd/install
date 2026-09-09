@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ricott1/rebels-in-the-sky
   eget: https://github.com/ricott1/rebels-in-the-sky
+  pacman: rebels-in-the-sky
 rule:
   /eget:
     cmd: x eget ricott1/rebels-in-the-sky

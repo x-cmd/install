@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/abiosoft/colima
   eget: https://github.com/abiosoft/colima
+  brew: colima
 rule:
   /eget:
     cmd: x eget abiosoft/colima

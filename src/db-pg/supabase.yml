@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/supabase/cli
   eget: https://github.com/supabase/cli
+  brew: supabase/tap/supabase
 rule:
   /eget:
     cmd: x eget supabase/cli

@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/scipy/scipy
   eget: https://github.com/scipy/scipy
+  apt: python3-scipy
+  dnf: python3-scipy
+  brew: scipy
 rule:
   /eget:
     cmd: x eget scipy/scipy

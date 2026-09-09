@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/antonmedv/fx
   eget: https://github.com/antonmedv/fx
+  brew: fx
+  pacman: fx
+  snap: fx
 rule:
   /x:
     cmd: x pkg use fx

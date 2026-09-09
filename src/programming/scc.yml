@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/boyter/scc
   eget: https://github.com/boyter/scc
+  snap: scc
 rule:
   /x:
     cmd: x pkg use scc

@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/jgm/pandoc
   eget: https://github.com/jgm/pandoc
+  apt: pandoc
+  dnf: pandoc
+  brew: pandoc
+  pacman: pandoc
 rule:
   /x:
     cmd: x pkg use pandoc

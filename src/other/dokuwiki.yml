@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/dokuwiki/dokuwiki
   eget: https://github.com/dokuwiki/dokuwiki
+  apt: php
+  dnf: httpd
 rule:
   /eget:
     cmd: x eget dokuwiki/dokuwiki

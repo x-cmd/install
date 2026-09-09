@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/konradsz/igrep
   eget: https://github.com/konradsz/igrep
+  brew: igrep
+  pacman: igrep
+  apk: igrep
 rule:
   /eget:
     cmd: x eget konradsz/igrep

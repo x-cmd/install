@@ -5,6 +5,11 @@ desc:
   en: Asciidoctor is a fast, open source, Ruby-based text processor
 x:
   source: https://github.com/asciidoctor/asciidoctor
+  apt: -y
+  dnf: -y
+  brew: asciidoctor
+  pacman: asciidoctor
+  apk: asciidoctor
 rule:
   alpine/apk:
     cmd: sudo apk add asciidoctor

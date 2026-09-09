@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/txthinking/brook
   eget: https://github.com/txthinking/brook
+  brew: brook
+  pacman: brook
 rule:
   /x:
     cmd: x pkg use brook

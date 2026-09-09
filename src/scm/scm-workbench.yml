@@ -6,6 +6,7 @@ desc:
   en: SCM Workbench is a GUI to easily work with Git, Mercurial (hg) and Subversion (svn) repositories in the style of PySVN WorkBench
 x:
   source: https://github.com/barry-scott/scm-workbench
+  dnf: scm-workbench
 rule:
   fedora/dnf:
     cmd: 'sudo dnf copr enable barryascott/tools \

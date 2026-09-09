@@ -6,6 +6,9 @@ desc:
   cn: Podman 是一个开源容器、 pod 和容器映像管理引擎
 x:
   source: https://github.com/containers/podman
+  brew: podman
+  pacman: podman
+  apk: podman
 rule:
   darwin/brew:
     cmd: brew install podman

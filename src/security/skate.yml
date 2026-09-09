@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/charmbracelet/skate
   eget: https://github.com/charmbracelet/skate
+  apt: skate
+  dnf: skate
+  brew: charmbracelet/tap/skate
+  pacman: skate
 rule:
   /x:
     cmd: x pkg use skate

@@ -6,6 +6,8 @@ desc:
   en: A command line image resizer and rotator for JPEG and PNG images
 x:
   source: https://github.com/jarun/imgp
+  apt: imgp
+  dnf: imgp
 rule:
   /pip3:
     cmd: sudo pip3 install pillow

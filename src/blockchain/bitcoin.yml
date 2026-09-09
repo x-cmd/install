@@ -6,6 +6,7 @@ desc:
   cn: 比特币核心连接到比特币对等网络以下载并完全验证块和交易
 x:
   source: https://github.com/bitcoin/bitcoin
+  brew: bitcoin
 rule:
   darwin/brew:
     cmd: brew install bitcoin

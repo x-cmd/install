@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/duckdb/duckdb
   eget: https://github.com/duckdb/duckdb
+  brew: duckdb
 rule:
   /eget:
     cmd: x eget duckdb/duckdb

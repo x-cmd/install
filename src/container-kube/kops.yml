@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kubernetes/kops
   eget: https://github.com/kubernetes/kops
+  brew: kops
 rule:
   /eget:
     cmd: x eget kubernetes/kops

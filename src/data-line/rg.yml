@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/BurntSushi/ripgrep
   eget: https://github.com/BurntSushi/ripgrep
+  apt: ripgrep
+  dnf: ripgrep
+  brew: ripgrep
+  pacman: ripgrep
 rule:
   /x:
     cmd: x pkg use rg

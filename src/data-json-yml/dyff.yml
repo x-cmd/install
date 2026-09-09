@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/homeport/dyff
   eget: https://github.com/homeport/dyff
+  brew: homeport/tap/dyff
 rule:
   /x:
     cmd: x pkg use dyff

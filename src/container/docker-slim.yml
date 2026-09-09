@@ -6,6 +6,7 @@ desc:
   en: Optimize Your Experience with Containers. Make Your Containers Better, Smaller, More Secure and Do Less to Get There
 x:
   source: https://github.com/docker-slim/docker-slim
+  brew: docker-slim
 rule:
   /asdf:
     cmd: x asdf use docker-slim

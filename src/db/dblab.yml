@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/danvergara/dblab
   eget: https://github.com/danvergara/dblab
+  brew: danvergara/tools/dblab
 rule:
   /eget:
     cmd: x eget danvergara/dblab

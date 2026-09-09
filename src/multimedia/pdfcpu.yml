@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/pdfcpu/pdfcpu
   eget: https://github.com/pdfcpu/pdfcpu
+  dnf: golang-github-pdfcpu
+  brew: pdfcpu
 rule:
   /x:
     cmd: x pkg use pdfcpu

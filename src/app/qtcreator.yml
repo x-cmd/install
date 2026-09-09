@@ -6,6 +6,10 @@ desc:
 x:
   source: https://github.com/qt-creator/qt-creator
   eget: https://github.com/qt-creator/qt-creator
+  apt: qtcreator
+  dnf: qt-creator
+  brew: --cask
+  pacman: qtcreator
 rule:
   /eget:
     cmd: x eget qt-creator/qt-creator

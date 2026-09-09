@@ -6,6 +6,9 @@ desc:
   cn: Tsung 是一个多协议分布式负载测试工具
 x:
   source: https://github.com/processone/tsung
+  apt: tsung
+  dnf: tsung
+  brew: tsung
 rule:
   darwin/brew:
     cmd: brew install tsung

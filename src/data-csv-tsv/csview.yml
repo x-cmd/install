@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/wfxr/csview
   eget: https://github.com/wfxr/csview
+  brew: csview
 rule:
   /x:
     cmd: x pkg use csview

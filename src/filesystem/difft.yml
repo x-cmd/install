@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Wilfred/difftastic
   eget: https://github.com/Wilfred/difftastic
+  brew: difftastic
 rule:
   /x:
     cmd: x pkg use difft

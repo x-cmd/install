@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/kdheepak/taskwarrior-tui
   eget: https://github.com/kdheepak/taskwarrior-tui
+  brew: taskwarrior-tui
+  pacman: taskwarrior-tui
+  snap: taskwarrior-tui
 rule:
   /eget:
     cmd: x eget kdheepak/taskwarrior-tui

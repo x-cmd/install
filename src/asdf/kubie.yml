@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/sbstp/kubie
   eget: https://github.com/sbstp/kubie
+  brew: kubie
+  pacman: kubie
 rule:
   /eget:
     cmd: x eget sbstp/kubie

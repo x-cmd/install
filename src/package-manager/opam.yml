@@ -6,6 +6,10 @@ desc:
 x:
   source: https://github.com/ocaml/opam
   eget: https://github.com/ocaml/opam
+  apt: opam
+  dnf: opam
+  brew: opam
+  pacman: opam
 rule:
   /eget:
     cmd: x eget ocaml/opam

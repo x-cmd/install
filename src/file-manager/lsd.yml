@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/lsd-rs/lsd
   eget: https://github.com/lsd-rs/lsd
+  apt: lsd
+  dnf: lsd
+  brew: lsd
+  pacman: lsd
 rule:
   /x:
     cmd: x pkg use lsd

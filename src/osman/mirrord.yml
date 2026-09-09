@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/metalbear-co/mirrord
   eget: https://github.com/metalbear-co/mirrord
+  brew: metalbear-co/mirrord/mirrord
 rule:
   /x:
     cmd: x pkg use mirrord

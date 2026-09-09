@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/denoland/deno
   eget: https://github.com/denoland/deno
+  brew: deno
 rule:
   /x:
     cmd: x pkg use deno

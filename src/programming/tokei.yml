@@ -7,6 +7,10 @@ x:
   pkg:
     exist: true
   source: https://github.com/XAMPPRocky/tokei
+  dnf: tokei
+  brew: tokei
+  pacman: tokei
+  apk: tokei
 rule:
   /x:
     cmd: x pkg use tokei

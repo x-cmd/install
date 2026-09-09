@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/trzsz/trzsz-ssh
   eget: https://github.com/trzsz/trzsz-ssh
+  brew: trzsz-ssh
 rule:
   /eget:
     cmd: x eget trzsz/trzsz-ssh

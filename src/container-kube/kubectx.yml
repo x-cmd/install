@@ -9,6 +9,9 @@ x:
     exist: true
   source: https://github.com/ahmetb/kubectx
   eget: https://github.com/ahmetb/kubectx
+  apt: kubectx
+  brew: kubectx
+  pacman: kubectx
 rule:
   /x:
     cmd: x pkg use kubectx

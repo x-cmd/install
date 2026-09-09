@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/itchyny/gojq
   eget: https://github.com/itchyny/gojq
+  brew: gojq
 rule:
   /x:
     cmd: x pkg use gojq

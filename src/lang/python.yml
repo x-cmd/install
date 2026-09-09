@@ -7,6 +7,11 @@ x:
   pkg:
     exist: true
   source: https://github.com/python/cpython
+  apt: python-minimal
+  dnf: python
+  brew: python
+  pacman: python
+  apk: python
 rule:
   /x:
     cmd: x pkg use python

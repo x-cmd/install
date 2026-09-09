@@ -6,6 +6,7 @@ desc:
   en: SCons is an Open Source software construction tool
 x:
   source: https://github.com/SCons/scons
+  brew: scons
 rule:
   /pip:
     cmd: python -m pip install scons

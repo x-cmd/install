@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/ClementTsang/bottom
   eget: https://github.com/ClementTsang/bottom
+  dnf: bottom
+  brew: bottom
+  pacman: bottom
+  snap: bottom
 rule:
   /x:
     cmd: x pkg use bottom

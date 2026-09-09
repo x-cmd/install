@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/bloznelis/typioca
   eget: https://github.com/bloznelis/typioca
+  brew: typioca
 rule:
   /eget:
     cmd: x eget bloznelis/typioca

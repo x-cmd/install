@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/mr-karan/doggo
   eget: https://github.com/mr-karan/doggo
+  brew: doggo
 rule:
   /x:
     cmd: x pkg use doggo

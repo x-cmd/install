@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/arduino/arduino-cli
   eget: https://github.com/arduino/arduino-cli
+  brew: arduino-cli
 rule:
   /eget:
     cmd: x eget arduino/arduino-cli

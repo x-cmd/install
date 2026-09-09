@@ -6,6 +6,8 @@ desc:
   cn: 一个 terminal 上的 RSS/Atom feed 阅读器
 x:
   source: https://github.com/newsboat/newsboat
+  brew: newsboat
+  snap: newsboat
 rule:
   /snap:
     cmd: sudo snap install newsboat

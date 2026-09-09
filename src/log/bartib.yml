@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/nikolassv/bartib
   eget: https://github.com/nikolassv/bartib
+  brew: bartib
+  apk: bartib
 rule:
   /eget:
     cmd: x eget nikolassv/bartib

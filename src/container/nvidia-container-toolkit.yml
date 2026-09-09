@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/NVIDIA/nvidia-container-toolkit
   eget: https://github.com/NVIDIA/nvidia-container-toolkit
+  apt: -y
+  dnf: -y
 rule:
   /eget:
     cmd: x eget NVIDIA/nvidia-container-toolkit

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/terrastruct/d2
   eget: https://github.com/terrastruct/d2
+  brew: d2
 rule:
   /eget:
     cmd: x eget terrastruct/d2

@@ -6,6 +6,7 @@ desc:
   en: Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL.
 x:
   source: https://github.com/charles-001/dolphie
+  brew: dolphie
 rule:
   /brew:
     cmd: brew install dolphie

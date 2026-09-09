@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/golang-migrate/migrate
   eget: https://github.com/golang-migrate/migrate
+  brew: golang-migrate
 rule:
   /x:
     cmd: x pkg use migrate

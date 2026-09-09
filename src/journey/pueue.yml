@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/Nukesor/pueue
   eget: https://github.com/Nukesor/pueue
+  brew: pueue
 rule:
   /x:
     cmd: x pkg use pueue

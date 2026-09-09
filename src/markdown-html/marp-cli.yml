@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/marp-team/marp-cli
   eget: https://github.com/marp-team/marp-cli
+  brew: marp-cli
 rule:
   /x:
     cmd: x pkg use marp-cli

@@ -6,6 +6,7 @@ desc:
   en: has checks presence of various command line tools on the PATH and reports their installed version
 x:
   source: https://github.com/kdabir/has
+  brew: kdabir/tap/has
 rule:
   /curl:
     cmd: alias has="curl -sL https://git.io/_has | bash -s"

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/alajmo/mani
   eget: https://github.com/alajmo/mani
+  brew: mani
+  pacman: mani
 rule:
   /eget:
     cmd: x eget alajmo/mani

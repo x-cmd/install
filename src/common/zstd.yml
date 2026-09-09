@@ -8,6 +8,11 @@ x:
     exist: true
   source: https://github.com/facebook/zstd
   eget: https://github.com/facebook/zstd
+  apt: zstd
+  dnf: zstd
+  brew: zstd
+  pacman: zstd
+  apk: zstd
 rule:
   /eget:
     cmd: x eget facebook/zstd

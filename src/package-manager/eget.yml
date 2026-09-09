@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/zyedidia/eget
   eget: https://github.com/zyedidia/eget
+  brew: eget
+  pacman: eget-bin
 rule:
   /eget:
     cmd: x eget zyedidia/eget

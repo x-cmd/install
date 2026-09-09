@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/akheron/jansson
   eget: https://github.com/akheron/jansson
+  brew: jansson
 rule:
   /eget:
     cmd: x eget akheron/jansson

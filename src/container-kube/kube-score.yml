@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/zegl/kube-score
   eget: https://github.com/zegl/kube-score
+  brew: kube-score
 rule:
   /x:
     cmd: x pkg use kube-score

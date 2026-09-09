@@ -9,6 +9,8 @@ x:
     exist: true
   source: https://github.com/chmln/sd
   eget: https://github.com/chmln/sd
+  apt: sd
+  brew: sd
 rule:
   /x:
     cmd: x pkg use sd

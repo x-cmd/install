@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/unfrl/dug
   eget: https://github.com/unfrl/dug
+  brew: dug
+  pacman: dug
+  snap: unfrl-dug
 rule:
   /eget:
     cmd: x eget unfrl/dug

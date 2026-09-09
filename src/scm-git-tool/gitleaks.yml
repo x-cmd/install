@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/gitleaks/gitleaks
   eget: https://github.com/gitleaks/gitleaks
+  brew: gitleaks
 rule:
   /x:
     cmd: x pkg use gitleaks

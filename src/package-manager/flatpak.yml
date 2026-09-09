@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/flatpak/flatpak
   eget: https://github.com/flatpak/flatpak
+  apt: flatpak
+  dnf: flatpak
+  pacman: flatpak
 rule:
   /eget:
     cmd: x eget flatpak/flatpak

@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/dnote/dnote
   eget: https://github.com/dnote/dnote
+  brew: dnote
 rule:
   /x:
     cmd: x pkg use dnote

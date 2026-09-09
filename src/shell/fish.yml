@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/fish-shell/fish-shell
   eget: https://github.com/fish-shell/fish-shell
+  apt: fish
+  dnf: fish
+  brew: fish
+  pacman: fish
+  apk: fish
 rule:
   /eget:
     cmd: x eget fish-shell/fish-shell

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/argoproj/argo-cd
   eget: https://github.com/argoproj/argo-cd
+  brew: argocd
 rule:
   /eget:
     cmd: x eget argoproj/argo-cd

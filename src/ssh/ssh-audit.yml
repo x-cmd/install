@@ -9,6 +9,7 @@ x:
     exist: true
   source: https://github.com/jtesta/ssh-audit
   eget: https://github.com/jtesta/ssh-audit
+  snap: ssh-audit
 rule:
   /eget:
     cmd: x eget jtesta/ssh-audit

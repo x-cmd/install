@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/schollz/croc
   eget: https://github.com/schollz/croc
+  dnf: croc
+  brew: croc
+  pacman: croc
+  apk: bash
 rule:
   /x:
     cmd: x pkg use croc

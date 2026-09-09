@@ -6,6 +6,11 @@ desc:
   en: A program for managing partition tables and partitions on a hard disk using a curses UI
 x:
   source: https://github.com/util-linux/util-linux
+  apt: util-linux
+  dnf: util-linux
+  brew: util-linux
+  pacman: util-linux
+  apk: util-linux
 rule:
   debian/apt:
     cmd: sudo apt-get install util-linux

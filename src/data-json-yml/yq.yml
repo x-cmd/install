@@ -9,6 +9,10 @@ x:
     exist: true
   source: https://github.com/mikefarah/yq
   eget: https://github.com/mikefarah/yq
+  brew: yq
+  pacman: go-yq
+  apk: yq
+  snap: yq
 rule:
   /x:
     cmd: x pkg use yq

@@ -8,6 +8,7 @@ x:
     exist: true
   source: https://github.com/ouch-org/ouch
   eget: https://github.com/ouch-org/ouch
+  pacman: ouch
 rule:
   /x:
     cmd: x pkg use ouch

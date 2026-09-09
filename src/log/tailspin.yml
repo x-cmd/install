@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/bensadeh/tailspin
   eget: https://github.com/bensadeh/tailspin
+  brew: tailspin
+  pacman: tailspin
 rule:
   /eget:
     cmd: x eget bensadeh/tailspin

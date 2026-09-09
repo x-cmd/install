@@ -5,6 +5,10 @@ desc:
   en: An optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing
 x:
   source: https://github.com/python/mypy
+  apt: mypy
+  dnf: mypy
+  brew: mypy
+  pacman: mypy
 rule:
   /pip:
     cmd: pip install -U mypy

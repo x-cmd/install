@@ -6,6 +6,7 @@ desc:
   en: Newman is a command-line collection runner for Postman
 x:
   source: https://github.com/postmanlabs/newman
+  brew: newman
 rule:
   /npm:
     cmd: npm install -g newman

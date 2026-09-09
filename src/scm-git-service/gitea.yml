@@ -6,6 +6,9 @@ desc:
 x:
   pkg:
     exist: true
+  brew: gitea
+  pacman: gitea
+  apk: gitea
 rule:
   /x:
     cmd: x pkg use gitea

@@ -6,6 +6,11 @@ desc:
 x:
   source: https://github.com/RsyncProject/rsync
   eget: https://github.com/RsyncProject/rsync
+  apt: rsync
+  dnf: rsync
+  brew: rsync
+  pacman: rsync
+  apk: rsync
 rule:
   /eget:
     cmd: x eget RsyncProject/rsync
