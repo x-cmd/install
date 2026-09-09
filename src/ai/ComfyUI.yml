@@ -20,7 +20,7 @@ footprint:
     runtime:
       type: gui
     network:
-  listen: localhost
+      listen: localhost
       connect:
         localhost: false
         lan: false

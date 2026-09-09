@@ -33,7 +33,7 @@ footprint:
     runtime:
       type: cli
     network:
-  listen: localhost
+      listen: localhost
       connect:
         localhost: false
         lan: false
