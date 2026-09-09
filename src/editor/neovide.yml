@@ -1,0 +1,71 @@
+lang: 'Rust'
+homepage: https://github.com/neovide/neovide
+license: 'MIT'
+desc:
+  cn: Neovim 的 Rust 图形客户端，在保持 TUI 行为一致的前提下提供更现代的图形体验
+  en: 'No Nonsense Neovim Client in Rust — a simple graphical user interface for Neovim that stays functionally close to the TUI while offering nicer graphics'
+x:
+  source: https://github.com/neovide/neovide
+  eget: https://github.com/neovide/neovide
+rule:
+  /eget:
+    cmd: x eget neovide/neovide
+    reference: https://github.com/neovide/neovide
+  /cargo:
+    cmd: 'cargo install neovide'
+    reference: https://crates.io/crates/neovide
+    dsnap: neovide
+  darwin/brew:
+    cmd: 'brew install neovide'
+    reference: https://formulae.brew.sh/formula/neovide#default
+  arch/pacman:
+    cmd: pacman -S neovide
+    reference: https://neovide.dev/installation.html
+  (win|wsl2)/scoop:
+    cmd: x scoop bucket add extras && x scoop install neovide
+    reference: https://neovide.dev/installation.html#windows
+  nix/nix-shell:
+    cmd: nix-shell -p neovide
+    reference: https://neovide.dev/installation.html#nix
+binlist:
+  - 'neovide'
+
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      local: true
+      internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 1
+          desc:
+            cn: 安装 20 MB
+            en: 20 MB install
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 80 MB
+          en: 80 MB
+    cpu:
+      workload: ['compute', 'gpu']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
