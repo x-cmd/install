@@ -57,11 +57,16 @@ footprint:
           desc:
             cn: ~/.asdf 随插件/版本安装线性增长
             en: ~/.asdf grows with plugin/version installs
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (linux/x64)
+            en: ~2 MB download (linux/x64)
       paths:
         data:
-          - "$HOME/.asdf"
+        - "$HOME/.asdf"
         config:
-          - ".tool-versions"
+        - ".tool-versions"
     memory:
       idle:
         estimate: 11 MB
@@ -86,3 +91,7 @@ footprint:
         desc:
           cn: 编译安装时短暂占用
           en: Brief spike on compile install
+  platform:
+    win: none
+    linux: full
+    darwin: full

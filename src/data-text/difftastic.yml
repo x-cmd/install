@@ -12,7 +12,7 @@ rule:
     cmd: x eget Wilfred/difftastic
     reference: https://github.com/Wilfred/difftastic
 binlist:
-  - 'difftastic'
+- 'difftastic'
 
 # already profiled
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 安装 114 MB
             en: 114 MB install
+        download:
+          estimate: 11 MB
+          desc:
+            cn: 约 11 MB 下载 (linux/x64)
+            en: ~11 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

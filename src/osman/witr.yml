@@ -40,7 +40,7 @@ rule:
     cmd: winget install -e --id PranshuParmar.witr
     reference: https://github.com/pranshuparmar/witr#22-package-managers
 binlist:
-  - witr
+- witr
 
 # complicated
 footprint:
@@ -65,6 +65,11 @@ footprint:
           desc:
             cn: 约 1.6 MB（估算）
             en: ~1.6 MB estimated
+        download:
+          estimate: 8 MB
+          desc:
+            cn: 约 8 MB 下载 (linux/x64)
+            en: ~8 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -82,3 +87,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

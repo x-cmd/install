@@ -12,7 +12,7 @@ rule:
     cmd: x eget andrewmd5/dawn
     reference: https://github.com/andrewmd5/dawn
 binlist:
-  - 'dawn'
+- 'dawn'
 
 # already profiled
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 安装 1.9 MB
             en: 1.9 MB install
+        download:
+          estimate: 727 KB
+          desc:
+            cn: 约 727 KB 下载 (linux/x64)
+            en: ~727 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

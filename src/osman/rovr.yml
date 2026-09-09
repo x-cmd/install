@@ -12,7 +12,7 @@ rule:
     cmd: x eget NSPC911/rovr
     reference: https://github.com/NSPC911/rovr
 binlist:
-  - 'rovr'
+- 'rovr'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 51 KB（估算）
             en: ~51 KB estimated
+        download:
+          estimate: 31 MB
+          desc:
+            cn: 约 31 MB 下载 (linux/x64)
+            en: ~31 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

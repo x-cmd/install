@@ -23,8 +23,8 @@ rule:
     cmd: yay -S frpc frps
     reference: https://aur.archlinux.org/packages/frpc
 binlist:
-  - frps
-  - frpc
+- frps
+- frpc
 
 # already profiled
 footprint:
@@ -49,6 +49,11 @@ footprint:
           desc:
             cn: 安装 36 MB
             en: 36 MB install
+        download:
+          estimate: 13 MB
+          desc:
+            cn: 约 13 MB 下载 (linux/x64)
+            en: ~13 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -66,3 +71,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

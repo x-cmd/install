@@ -15,7 +15,7 @@ rule:
     cmd: x eget affromero/gitpane
     reference: https://github.com/affromero/gitpane
 binlist:
-  - 'gitpane'
+- 'gitpane'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 1.0 MB（估算）
             en: ~1.0 MB estimated
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (linux/x64)
+            en: ~5 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

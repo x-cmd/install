@@ -19,7 +19,7 @@ rule:
     cmd: brew install cc-connect
     reference: https://github.com/chenhg5/cc-connect#3%EF%B8%8F%E2%83%A3-install-cc-connect
 binlist:
-  - cc-connect
+- cc-connect
 
 # complicated
 footprint:
@@ -44,6 +44,11 @@ footprint:
           desc:
             cn: 约 17 MB（估算）
             en: ~17 MB estimated
+        download:
+          estimate: 16 MB
+          desc:
+            cn: 约 16 MB 下载 (linux/x64)
+            en: ~16 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -61,3 +66,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

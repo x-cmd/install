@@ -26,7 +26,7 @@ rule:
     cmd: yay -S gastown-git
     reference: https://aur.archlinux.org/packages/gastown-git
 binlist:
-  - gt
+- gt
 
 # complicated
 footprint:
@@ -51,6 +51,11 @@ footprint:
           desc:
             cn: 约 37 MB（估算）
             en: ~37 MB estimated
+        download:
+          estimate: 13 MB
+          desc:
+            cn: 约 13 MB 下载 (linux/x64)
+            en: ~13 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -68,3 +73,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -169,6 +169,11 @@ footprint:
           desc:
             cn: 约 7.1 MB（估算）
             en: ~7.1 MB estimated
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (msi)
+            en: ~4 MB download (msi)
       paths:
         data: []
         config: []
@@ -186,3 +191,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: none
+    darwin: none

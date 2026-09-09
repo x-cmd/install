@@ -12,7 +12,7 @@ rule:
     cmd: x eget bendews/apw
     reference: https://github.com/bendews/apw
 binlist:
-  - 'apw'
+- 'apw'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 1 KB（估算）
             en: ~1 KB estimated
+        download:
+          estimate: 78 MB
+          desc:
+            cn: 约 78 MB 下载 (macos/x64)
+            en: ~78 MB download (macos/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

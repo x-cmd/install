@@ -29,7 +29,7 @@ footprint:
           cn: 读取 ~/.kube/config 和 k8s manifest
           en: Reads ~/.kube/config and k8s manifests
         sensitive:
-          - "$HOME/.kube/config"
+        - "$HOME/.kube/config"
       write: []
   resource:
     disk:
@@ -40,10 +40,15 @@ footprint:
           desc:
             cn: 安装 135 MB
             en: 135 MB install
+        download:
+          estimate: 135 MB
+          desc:
+            cn: 约 135 MB 下载 (linux/x64)
+            en: ~135 MB download (linux/x64)
       paths:
         data: []
         config:
-          - "$HOME/.kube/config"
+        - "$HOME/.kube/config"
     memory:
       idle:
         estimate: 73 MB
@@ -68,3 +73,7 @@ footprint:
         desc:
           cn: watch 模式下短暂占用
           en: Brief spike in watch mode
+  platform:
+    win: full
+    linux: full
+    darwin: full

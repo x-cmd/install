@@ -12,7 +12,7 @@ rule:
     cmd: x eget MitMaro/git-interactive-rebase-tool
     reference: https://github.com/MitMaro/git-interactive-rebase-tool
 binlist:
-  - 'git-interactive-rebase-tool'
+- 'git-interactive-rebase-tool'
 # complicated
 footprint:
   behavior:
@@ -43,8 +43,13 @@ footprint:
             en: ~1.0 MB estimated
         paths:
         data:
-          - ".git/"
+        - ".git/"
         config: []
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (linux/x64)
+            en: ~2 MB download (linux/x64)
     memory:
       idle:
         estimate: 5 MB
@@ -69,3 +74,7 @@ footprint:
         desc:
           cn: 加载/重写 git 状态时短暂占用
           en: Brief spike loading/rewriting git state
+  platform:
+    win: none
+    linux: full
+    darwin: full

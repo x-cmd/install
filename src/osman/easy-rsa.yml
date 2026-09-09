@@ -62,16 +62,16 @@ footprint:
           cn: 读取 $EASYRSA_PKI 下的 CA、证书、私钥、CSR、CRL，以及 vars 配置与 openssl-easyrsa.cnf
           en: Reads CA, cert, key, CSR and CRL files under $EASYRSA_PKI, plus the vars config and openssl-easyrsa.cnf
         sensitive:
-          - "$EASYRSA_PKI/private/*.key"
-          - "$EASYRSA_PKI/reqs/*.req"
-          - "$EASYRSA_PKI/pki/passwords.txt"
+        - "$EASYRSA_PKI/private/*.key"
+        - "$EASYRSA_PKI/reqs/*.req"
+        - "$EASYRSA_PKI/pki/passwords.txt"
       write:
         desc:
           cn: 在 $EASYRSA_PKI 下生成证书、私钥、CSR 与 CRL
           en: Writes certificates, private keys, CSRs and CRLs under $EASYRSA_PKI
         sensitive:
-          - "$EASYRSA_PKI/private/*.key"
-          - "$EASYRSA_PKI/reqs/*.req"
+        - "$EASYRSA_PKI/private/*.key"
+        - "$EASYRSA_PKI/reqs/*.req"
 
   resource:
     disk:
@@ -86,12 +86,17 @@ footprint:
           desc:
             cn: PKI 目录 ($EASYRSA_PKI) 随签发证书量线性增长，无上限（除磁盘空间）
             en: $EASYRSA_PKI grows linearly with issued certs; bounded only by available disk
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (win/arm64)
+            en: ~4 MB download (win/arm64)
       paths:
         data:
-          - "$EASYRSA_PKI"
+        - "$EASYRSA_PKI"
         config:
-          - "$EASYRSA/vars"
-          - "$EASYRSA/openssl-easyrsa.cnf"
+        - "$EASYRSA/vars"
+        - "$EASYRSA/openssl-easyrsa.cnf"
 
     memory:
       idle:
@@ -118,3 +123,7 @@ footprint:
         desc:
           cn: 4096-bit build-ca / genrsa 时占满单核数秒至数十秒
           en: Saturates one core for seconds-to-tens-of-seconds during 4096-bit build-ca / genrsa
+  platform:
+    win: full
+    linux: none
+    darwin: none

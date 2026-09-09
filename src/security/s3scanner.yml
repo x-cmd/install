@@ -18,7 +18,7 @@ rule:
     cmd: x eget sa7mon/S3Scanner
     reference: https://github.com/sa7mon/S3Scanner
 binlist:
-  - 's3scanner'
+- 's3scanner'
 
 # complicated
 footprint:
@@ -43,6 +43,11 @@ footprint:
           desc:
             cn: 约 294 KB（估算）
             en: ~294 KB estimated
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (linux/x64)
+            en: ~5 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -60,3 +65,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

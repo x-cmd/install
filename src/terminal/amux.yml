@@ -12,7 +12,7 @@ rule:
     cmd: x eget andyrewlee/amux
     reference: https://github.com/andyrewlee/amux
 binlist:
-  - 'amux'
+- 'amux'
 # complicated
 footprint:
   behavior:
@@ -36,6 +36,11 @@ footprint:
           desc:
             cn: 约 13 MB（估算）
             en: ~13 MB estimated
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (linux/x64)
+            en: ~5 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -63,3 +68,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

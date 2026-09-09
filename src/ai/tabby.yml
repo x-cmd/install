@@ -12,7 +12,7 @@ rule:
     cmd: x eget TabbyML/tabby
     reference: https://github.com/TabbyML/tabby
 binlist:
-  - 'tabby'
+- 'tabby'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 48 KB（估算）
             en: ~48 KB estimated
+        download:
+          estimate: 1 KB
+          desc:
+            cn: 约 1 KB 下载 (linux/x64)
+            en: ~1 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

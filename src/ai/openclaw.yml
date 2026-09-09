@@ -13,7 +13,7 @@ rule:
     reference: https://x-cmd.com/mod/eget
   /x:
     cmd: x openclaw --install
-    reference:  https://www.x-cmd.com/mod/openclaw
+    reference: https://www.x-cmd.com/mod/openclaw
   /curl:
     cmd: curl -fsSL https://openclaw.ai/install.sh | bash
     reference: https://openclaw.ai/
@@ -27,7 +27,7 @@ rule:
     cmd: yay -S openclaw-git
     reference: https://aur.archlinux.org/packages/openclaw-git
 binlist:
-  - openclaw
+- openclaw
 
 # complicated
 footprint:
@@ -52,6 +52,11 @@ footprint:
           desc:
             cn: 约 14 MB（估算）
             en: ~14 MB estimated
+        download:
+          estimate: 401 MB
+          desc:
+            cn: 约 401 MB 下载 (dmg)
+            en: ~401 MB download (dmg)
       paths:
         data: []
         config: []
@@ -69,3 +74,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

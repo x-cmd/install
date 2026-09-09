@@ -39,6 +39,11 @@ footprint:
           desc:
             cn: 安装 88 MB
             en: 88 MB install
+        download:
+          estimate: 27 MB
+          desc:
+            cn: 约 27 MB 下载 (macos/arm64)
+            en: ~27 MB download (macos/arm64)
       paths:
         data: []
         config: []
@@ -56,3 +61,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -27,7 +27,7 @@ rule:
     cmd: yay -S gemini-cli-live-bin
     reference: https://aur.archlinux.org/packages/gemini-cli-live-bin
 binlist:
-  - gemini
+- gemini
 
 # complicated
 footprint:
@@ -52,6 +52,11 @@ footprint:
           desc:
             cn: 约 835 KB（估算）
             en: ~835 KB estimated
+        download:
+          estimate: 36 MB
+          desc:
+            cn: 约 36 MB 下载 (macos/x64)
+            en: ~36 MB download (macos/x64)
       paths:
         data: []
         config: []
@@ -69,3 +74,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

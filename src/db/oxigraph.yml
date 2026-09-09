@@ -18,7 +18,7 @@ rule:
     cmd: pip install oxigraph
     reference: https://pypi.org/project/oxigraph/
 binlist:
-  - oxigraph
+- oxigraph
 
 # complicated
 footprint:
@@ -43,6 +43,11 @@ footprint:
           desc:
             cn: 约 3.5 MB（估算）
             en: ~3.5 MB estimated
+        download:
+          estimate: 21 MB
+          desc:
+            cn: 约 21 MB 下载 (linux/x64)
+            en: ~21 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -60,3 +65,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

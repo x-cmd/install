@@ -15,7 +15,7 @@ rule:
     cmd: brew install ljh-sh/cli/maclisten
     reference: https://github.com/ljh-sh/homebrew-cli
 binlist:
-  - maclisten
+- maclisten
 
 # complicated
 footprint:
@@ -39,6 +39,11 @@ footprint:
           desc:
             cn: 约 88 KB（估算）
             en: ~88 KB estimated
+        download:
+          estimate: 53 KB
+          desc:
+            cn: 约 53 KB 下载 (macos/arm64)
+            en: ~53 KB download (macos/arm64)
       paths:
         data: []
         config: []
@@ -56,3 +61,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

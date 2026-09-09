@@ -12,7 +12,7 @@ rule:
     cmd: x eget ari1110/pass-cli
     reference: https://github.com/ari1110/pass-cli
 binlist:
-  - 'pass-cli'
+- 'pass-cli'
 # complicated
 footprint:
   behavior:
@@ -27,13 +27,13 @@ footprint:
           cn: 读取密码库（默认 ~/.pass-cli）下的加密条目
           en: Reads encrypted entries in password store (default ~/.pass-cli)
         sensitive:
-          - "$HOME/.pass-cli/**/*.enc"
+        - "$HOME/.pass-cli/**/*.enc"
       write:
         desc:
           cn: 在密码库下生成加密条目
           en: Writes encrypted entries in password store
         sensitive:
-          - "$HOME/.pass-cli/**/*.enc"
+        - "$HOME/.pass-cli/**/*.enc"
   resource:
     disk:
       size:
@@ -47,9 +47,14 @@ footprint:
           desc:
             cn: 密码库大小随条目数增长
             en: Store grows with number of entries
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (linux/x64)
+            en: ~5 MB download (linux/x64)
       paths:
         data:
-          - "$HOME/.pass-cli"
+        - "$HOME/.pass-cli"
         config: []
     memory:
       idle:
@@ -75,3 +80,7 @@ footprint:
         desc:
           cn: 加解密时短暂占用
           en: Brief spike during encrypt/decrypt
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -24,7 +24,7 @@ rule:
     cmd: nix run github:supernovae-st/nika
     reference: https://github.com/supernovae-st/nika#install
 binlist:
-  - 'nika'
+- 'nika'
 # complicated
 footprint:
   behavior:
@@ -47,6 +47,11 @@ footprint:
           desc:
             cn: 约 19 MB（估算）
             en: ~19 MB estimated
+        download:
+          estimate: 17 MB
+          desc:
+            cn: 约 17 MB 下载 (linux/x64)
+            en: ~17 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -64,3 +69,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

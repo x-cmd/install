@@ -27,7 +27,7 @@ rule:
     cmd: yay -S kimi-cli
     reference: https://aur.archlinux.org/packages/kimi-cli
 binlist:
-  - kimi
+- kimi
 # complicated
 footprint:
   behavior:
@@ -51,6 +51,11 @@ footprint:
           desc:
             cn: 约 303 KB（估算）
             en: ~303 KB estimated
+        download:
+          estimate: 91 MB
+          desc:
+            cn: 约 91 MB 下载 (linux/x64)
+            en: ~91 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -68,3 +73,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

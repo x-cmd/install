@@ -15,7 +15,7 @@ rule:
     cmd: x eget dimonomid/nerdlog
     reference: https://github.com/dimonomid/nerdlog
 binlist:
-  - 'nerdlog'
+- 'nerdlog'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 1.4 MB（估算）
             en: ~1.4 MB estimated
+        download:
+          estimate: 3 MB
+          desc:
+            cn: 约 3 MB 下载 (linux/x64)
+            en: ~3 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

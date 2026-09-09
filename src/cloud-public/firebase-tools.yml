@@ -42,7 +42,7 @@ footprint:
           cn: 读取 firebase.json, .firebaserc
           en: Reads firebase.json, .firebaserc
         sensitive:
-          - "$HOME/.config/firebase"
+        - "$HOME/.config/firebase"
       write: []
   resource:
     disk:
@@ -53,6 +53,11 @@ footprint:
           desc:
             cn: 约 406 KB（估算）
             en: ~406 KB estimated
+        download:
+          estimate: 240 MB
+          desc:
+            cn: 约 240 MB 下载 (linux/arm64)
+            en: ~240 MB download (linux/arm64)
       paths:
         data: []
         config: []
@@ -80,3 +85,7 @@ footprint:
         desc:
           cn: 上传资源时占用
           en: Spike on asset upload
+  platform:
+    win: none
+    linux: full
+    darwin: full

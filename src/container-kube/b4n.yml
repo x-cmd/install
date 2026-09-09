@@ -12,7 +12,7 @@ rule:
     cmd: x eget fioletoven/b4n
     reference: https://github.com/fioletoven/b4n
 binlist:
-  - 'b4n'
+- 'b4n'
 
 # already profiled
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 安装 9.2 MB
             en: 9.2 MB install
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (linux/x64)
+            en: ~4 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -91,6 +91,11 @@ footprint:
           desc:
             cn: 约 7.2 MB（估算）
             en: ~7.2 MB estimated
+        download:
+          estimate: 6 KB
+          desc:
+            cn: 约 6 KB 下载 (macos/x64)
+            en: ~6 KB download (macos/x64)
       paths:
         data: []
         config: []
@@ -108,3 +113,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

@@ -15,7 +15,7 @@ rule:
     cmd: brew install ljh-sh/macli/macli
     reference: https://github.com/ljh-sh/homebrew-macli
 binlist:
-  - macli
+- macli
 
 # complicated
 footprint:
@@ -39,6 +39,11 @@ footprint:
           desc:
             cn: 约 319 KB（估算）
             en: ~319 KB estimated
+        download:
+          estimate: 134 KB
+          desc:
+            cn: 约 134 KB 下载 (macos/arm64)
+            en: ~134 KB download (macos/arm64)
       paths:
         data: []
         config: []
@@ -56,3 +61,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

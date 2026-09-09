@@ -18,7 +18,7 @@ rule:
     cmd: x eget timkicker/podliner
     reference: https://github.com/timkicker/podliner
 binlist:
-  - 'podliner'
+- 'podliner'
 
 # complicated
 footprint:
@@ -43,6 +43,11 @@ footprint:
           desc:
             cn: 约 1.0 MB（估算）
             en: ~1.0 MB estimated
+        download:
+          estimate: 32 MB
+          desc:
+            cn: 约 32 MB 下载 (linux/x64)
+            en: ~32 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -60,3 +65,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

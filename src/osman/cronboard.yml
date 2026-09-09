@@ -12,7 +12,7 @@ rule:
     cmd: x eget antoniorodr/cronboard
     reference: https://github.com/antoniorodr/cronboard
 binlist:
-  - 'cronboard'
+- 'cronboard'
 # complicated
 footprint:
   behavior:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 9 KB（估算）
             en: ~9 KB estimated
+        download:
+          estimate: 45 KB
+          desc:
+            cn: 约 45 KB 下载 (whl)
+            en: ~45 KB download (whl)
       paths:
         data: []
         config: []
@@ -64,3 +69,7 @@ footprint:
         desc:
           cn: 扫描 cron 时短暂占用
           en: Brief spike on cron scan
+  platform:
+    win: full
+    linux: full
+    darwin: full

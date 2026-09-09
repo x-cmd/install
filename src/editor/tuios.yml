@@ -12,7 +12,7 @@ rule:
     cmd: x eget Gaurav-Gosain/tuios
     reference: https://github.com/Gaurav-Gosain/tuios
 binlist:
-  - 'tuios'
+- 'tuios'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 28 MB（估算）
             en: ~28 MB estimated
+        download:
+          estimate: 11 MB
+          desc:
+            cn: 约 11 MB 下载 (linux/x64)
+            en: ~11 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

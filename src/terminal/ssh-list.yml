@@ -12,7 +12,7 @@ rule:
     cmd: x eget akinoiro/ssh-list
     reference: https://github.com/akinoiro/ssh-list
 binlist:
-  - 'ssh-list'
+- 'ssh-list'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 66 KB（估算）
             en: ~66 KB estimated
+        download:
+          estimate: 763 KB
+          desc:
+            cn: 约 763 KB 下载 (linux/x64)
+            en: ~763 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

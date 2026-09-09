@@ -33,8 +33,8 @@ footprint:
           cn: 读取 GitHub/GitLab 用户和仓库数据
           en: Reads GitHub/GitLab user and repo data
         sensitive:
-          - "$HOME/.config/gh/hosts.yml"
-          - "$HOME/.netrc"
+        - "$HOME/.config/gh/hosts.yml"
+        - "$HOME/.netrc"
   resource:
     disk:
       size:
@@ -44,6 +44,11 @@ footprint:
           desc:
             cn: 约 40 KB（估算）
             en: ~40 KB estimated
+        download:
+          estimate: 6 MB
+          desc:
+            cn: 约 6 MB 下载 (linux/x64)
+            en: ~6 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -71,3 +76,7 @@ footprint:
         desc:
           cn: 列出大量仓库时短暂占用
           en: Brief spike when listing many repos
+  platform:
+    win: full
+    linux: full
+    darwin: full

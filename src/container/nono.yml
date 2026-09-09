@@ -28,7 +28,7 @@ rule:
       sudo dpkg -i nono-cli_${VERSION}_${ARCH}.deb
     reference: https://nono.sh/docs/cli/getting_started/installation
 binlist:
-  - nono
+- nono
 
 # complicated
 footprint:
@@ -53,6 +53,11 @@ footprint:
           desc:
             cn: 约 8.1 MB（估算）
             en: ~8.1 MB estimated
+        download:
+          estimate: 12 MB
+          desc:
+            cn: 约 12 MB 下载 (linux/x64)
+            en: ~12 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -70,3 +75,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

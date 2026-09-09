@@ -12,7 +12,7 @@ rule:
     cmd: x eget robinovitch61/kl
     reference: https://github.com/robinovitch61/kl
 binlist:
-  - 'kl'
+- 'kl'
 
 # complicated
 footprint:
@@ -36,6 +36,11 @@ footprint:
           desc:
             cn: 约 825 KB（估算）
             en: ~825 KB estimated
+        download:
+          estimate: 13 MB
+          desc:
+            cn: 约 13 MB 下载 (linux/x64)
+            en: ~13 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -53,3 +58,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

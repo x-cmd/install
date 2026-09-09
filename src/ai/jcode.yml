@@ -27,7 +27,7 @@ rule:
     cmd: x pwsh 'irm https://jcode.sh/install.ps1 | iex'
     reference: https://jcode.sh
 binlist:
-  - jcode
+- jcode
 
 # complicated
 footprint:
@@ -52,6 +52,11 @@ footprint:
           desc:
             cn: 约 27 MB（估算）
             en: ~27 MB estimated
+        download:
+          estimate: 47 MB
+          desc:
+            cn: 约 47 MB 下载 (linux/x64)
+            en: ~47 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -69,3 +74,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

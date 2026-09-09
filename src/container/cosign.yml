@@ -79,14 +79,14 @@ footprint:
           cn: 读取 ~/.docker/config.json, ~/.cosign
           en: Reads ~/.docker/config.json, ~/.cosign
         sensitive:
-          - "$HOME/.docker/config.json"
-          - "$HOME/.cosign/cosign.key"
+        - "$HOME/.docker/config.json"
+        - "$HOME/.cosign/cosign.key"
       write:
         desc:
           cn: 写入 ~/.cosign, ~/.local/share/cosign
           en: Writes ~/.cosign, ~/.local/share/cosign
         sensitive:
-          - "$HOME/.cosign/cosign.key"
+        - "$HOME/.cosign/cosign.key"
   resource:
     disk:
       size:
@@ -96,11 +96,16 @@ footprint:
           desc:
             cn: 约 4.8 MB（估算）
             en: ~4.8 MB estimated
+        download:
+          estimate: 135 MB
+          desc:
+            cn: 约 135 MB 下载 (linux/x64)
+            en: ~135 MB download (linux/x64)
       paths:
         data:
-          - "$HOME/.local/share/cosign"
+        - "$HOME/.local/share/cosign"
         config:
-          - "$HOME/.cosign"
+        - "$HOME/.cosign"
     memory:
       idle:
         estimate: 5 MB
@@ -125,3 +130,7 @@ footprint:
         desc:
           cn: 签名验证时短暂占用
           en: Brief spike on signature verification
+  platform:
+    win: none
+    linux: full
+    darwin: full

@@ -12,7 +12,7 @@ rule:
     cmd: x eget elva-labs/awsesh
     reference: https://github.com/elva-labs/awsesh
 binlist:
-  - 'awsesh'
+- 'awsesh'
 
 # complicated
 footprint:
@@ -36,6 +36,11 @@ footprint:
           desc:
             cn: 约 15 KB（估算）
             en: ~15 KB estimated
+        download:
+          estimate: 52 MB
+          desc:
+            cn: 约 52 MB 下载 (linux/x64)
+            en: ~52 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -53,3 +58,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

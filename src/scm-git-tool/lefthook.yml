@@ -102,10 +102,15 @@ footprint:
           desc:
             cn: 约 1.1 MB（估算）
             en: ~1.1 MB estimated
+        download:
+          estimate: 14 MB
+          desc:
+            cn: 约 14 MB 下载 (linux/x64)
+            en: ~14 MB download (linux/x64)
       paths:
         data: []
         config:
-          - "lefthook.yml"
+        - "lefthook.yml"
     memory:
       idle:
         estimate: 5 MB
@@ -130,3 +135,7 @@ footprint:
         desc:
           cn: 运行用户配置的 hooks 时短暂占用
           en: Brief spike when running user-configured hooks
+  platform:
+    win: full
+    linux: full
+    darwin: full

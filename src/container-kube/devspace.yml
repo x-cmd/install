@@ -63,7 +63,7 @@ footprint:
           cn: 读取 ~/.kube/config 和 devspace.yaml
           en: Reads ~/.kube/config and devspace.yaml
         sensitive:
-          - "$HOME/.kube/config"
+        - "$HOME/.kube/config"
       write: []
   resource:
     disk:
@@ -74,10 +74,15 @@ footprint:
           desc:
             cn: 约 6.9 MB（估算）
             en: ~6.9 MB estimated
+        download:
+          estimate: 68 MB
+          desc:
+            cn: 约 68 MB 下载 (linux/x64)
+            en: ~68 MB download (linux/x64)
       paths:
         data: []
         config:
-          - "$HOME/.kube/config"
+        - "$HOME/.kube/config"
     memory:
       idle:
         estimate: 10 MB
@@ -102,3 +107,7 @@ footprint:
         desc:
           cn: 同步代码/构建时占用
           en: Spike during sync/build
+  platform:
+    win: none
+    linux: full
+    darwin: full

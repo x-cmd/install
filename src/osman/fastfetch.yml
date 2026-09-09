@@ -87,8 +87,8 @@ footprint:
           cn: 读取 /etc/os-release, /proc, /sys, 可选 dmidecode
           en: Reads /etc/os-release, /proc, /sys, optionally dmidecode
         sensitive:
-          - "/sys/class/dmi/id/product_serial"
-          - "/sys/class/dmi/id/product_uuid"
+        - "/sys/class/dmi/id/product_serial"
+        - "/sys/class/dmi/id/product_uuid"
   resource:
     disk:
       size:
@@ -102,10 +102,15 @@ footprint:
           desc:
             cn: 几乎不增长
             en: Minimal growth
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (linux/x64)
+            en: ~2 MB download (linux/x64)
       paths:
         data: []
         config:
-          - "$HOME/.config/fastfetch/config.jsonc"
+        - "$HOME/.config/fastfetch/config.jsonc"
     memory:
       idle:
         estimate: 6 MB
@@ -130,3 +135,7 @@ footprint:
         desc:
           cn: 解析系统信息时短暂占用
           en: Brief spike on system info parsing
+  platform:
+    win: full
+    linux: full
+    darwin: full

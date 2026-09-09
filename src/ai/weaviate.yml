@@ -12,7 +12,7 @@ rule:
     cmd: x eget weaviate/weaviate
     reference: https://github.com/weaviate/weaviate
 binlist:
-  - 'weaviate'
+- 'weaviate'
 # complicated
 footprint:
   behavior:
@@ -45,11 +45,16 @@ footprint:
           desc:
             cn: 随索引数据增长
             en: Grows with indexed data
+        download:
+          estimate: 70 MB
+          desc:
+            cn: 约 70 MB 下载 (linux/x64)
+            en: ~70 MB download (linux/x64)
       paths:
         data:
-          - "/var/lib/weaviate"
+        - "/var/lib/weaviate"
         config:
-          - "/etc/weaviate"
+        - "/etc/weaviate"
     memory:
       idle:
         estimate: 50 MB
@@ -74,3 +79,7 @@ footprint:
         desc:
           cn: 索引/查询时占用
           en: Spike on indexing/querying
+  platform:
+    win: none
+    linux: full
+    darwin: full

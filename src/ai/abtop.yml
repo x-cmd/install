@@ -19,7 +19,7 @@ rule:
     reference: https://github.com/graykode/abtop?tab=readme-ov-file#install
     dsnap: abtop
 binlist:
-  - abtop
+- abtop
 
 # complicated
 footprint:
@@ -44,6 +44,11 @@ footprint:
           desc:
             cn: 约 696 KB（估算）
             en: ~696 KB estimated
+        download:
+          estimate: 782 KB
+          desc:
+            cn: 约 782 KB 下载 (linux/x64)
+            en: ~782 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -61,3 +66,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

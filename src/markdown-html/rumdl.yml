@@ -37,7 +37,7 @@ rule:
     cmd: pacman -S rumdl
     reference: https://github.com/rvben/rumdl?tab=readme-ov-file#installation
 binlist:
-  - rumdl
+- rumdl
 
 # complicated
 footprint:
@@ -62,6 +62,11 @@ footprint:
           desc:
             cn: 约 15 MB（估算）
             en: ~15 MB estimated
+        download:
+          estimate: 7 MB
+          desc:
+            cn: 约 7 MB 下载 (linux/x64)
+            en: ~7 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -79,3 +84,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

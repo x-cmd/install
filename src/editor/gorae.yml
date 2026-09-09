@@ -15,7 +15,7 @@ rule:
     cmd: x eget Han8931/gorae
     reference: https://github.com/Han8931/gorae
 binlist:
-  - 'gorae'
+- 'gorae'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 1.4 MB（估算）
             en: ~1.4 MB estimated
+        download:
+          estimate: 13 MB
+          desc:
+            cn: 约 13 MB 下载 (linux/x64)
+            en: ~13 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

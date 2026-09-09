@@ -15,7 +15,7 @@ rule:
     cmd: x eget kpumuk/lazykiq
     reference: https://github.com/kpumuk/lazykiq
 binlist:
-  - 'lazykiq'
+- 'lazykiq'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 1.9 MB（估算）
             en: ~1.9 MB estimated
+        download:
+          estimate: 6 MB
+          desc:
+            cn: 约 6 MB 下载 (linux/x64)
+            en: ~6 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -28,7 +28,7 @@ rule:
     cmd: yay -S mistral-vibe
     reference: https://aur.archlinux.org/packages/mistral-vibe
 binlist:
-  - vibe
+- vibe
 
 # complicated
 footprint:
@@ -53,6 +53,11 @@ footprint:
           desc:
             cn: 约 555 KB（估算）
             en: ~555 KB estimated
+        download:
+          estimate: 43 MB
+          desc:
+            cn: 约 43 MB 下载 (linux/x64)
+            en: ~43 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -70,3 +75,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

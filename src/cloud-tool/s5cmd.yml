@@ -34,7 +34,7 @@ rule:
     dsnap: github.com/peak/s5cmd/v2@master
 
 binlist:
-  - s5cmd
+- s5cmd
 
 # complicated
 footprint:
@@ -59,6 +59,11 @@ footprint:
           desc:
             cn: 约 1.8 MB（估算）
             en: ~1.8 MB estimated
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (linux/arm64)
+            en: ~4 MB download (linux/arm64)
       paths:
         data: []
         config: []
@@ -76,3 +81,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

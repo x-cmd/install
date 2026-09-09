@@ -15,7 +15,7 @@ rule:
     cmd: x eget fumiyas/qrc
     reference: https://github.com/fumiyas/qrc
 binlist:
-  - 'qrc'
+- 'qrc'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 91 KB（估算）
             en: ~91 KB estimated
+        download:
+          estimate: 853 KB
+          desc:
+            cn: 约 853 KB 下载 (linux/x64)
+            en: ~853 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

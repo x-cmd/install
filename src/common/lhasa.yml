@@ -38,7 +38,7 @@ rule:
     cmd: sudo xbps-install lhasa
     reference: https://fragglet.github.io/lhasa/
 binlist:
-  - lha
+- lha
 
 # complicated
 footprint:
@@ -62,6 +62,11 @@ footprint:
           desc:
             cn: 约 454 KB（估算）
             en: ~454 KB estimated
+        download:
+          estimate: 65 KB
+          desc:
+            cn: 约 65 KB 下载 (win/arm64)
+            en: ~65 KB download (win/arm64)
       paths:
         data: []
         config: []
@@ -79,3 +84,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: none
+    darwin: none

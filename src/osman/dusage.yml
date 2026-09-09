@@ -12,7 +12,7 @@ rule:
     cmd: x eget mihaigalos/dusage
     reference: https://github.com/mihaigalos/dusage
 binlist:
-  - 'dusage'
+- 'dusage'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 20 KB（估算）
             en: ~20 KB estimated
+        download:
+          estimate: 407 KB
+          desc:
+            cn: 约 407 KB 下载 (linux/x64)
+            en: ~407 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none

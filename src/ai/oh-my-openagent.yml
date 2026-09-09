@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 安装 124 MB
             en: 124 MB install
+        download:
+          estimate: 124 MB
+          desc:
+            cn: 约 124 MB 下载 (linux/x64)
+            en: ~124 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

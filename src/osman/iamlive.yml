@@ -38,7 +38,7 @@ footprint:
           cn: 读取 AWS IAM policy JSON
           en: Reads AWS IAM policy JSON
         sensitive:
-          - "$HOME/.aws/credentials"
+        - "$HOME/.aws/credentials"
       write:
         desc:
           cn: 输出 Terraform IAM policy
@@ -53,6 +53,11 @@ footprint:
           desc:
             cn: 约 171 KB（估算）
             en: ~171 KB estimated
+        download:
+          estimate: 10 MB
+          desc:
+            cn: 约 10 MB 下载 (linux/x64)
+            en: ~10 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -80,3 +85,7 @@ footprint:
         desc:
           cn: 解析大 policy 时短暂占用
           en: Brief spike on large policy parsing
+  platform:
+    win: full
+    linux: full
+    darwin: full

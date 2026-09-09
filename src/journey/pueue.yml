@@ -63,11 +63,16 @@ footprint:
           desc:
             cn: 日志随任务输出增长
             en: Logs grow with task output
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (linux/x64)
+            en: ~2 MB download (linux/x64)
       paths:
         data:
-          - "$HOME/.local/share/pueue"
+        - "$HOME/.local/share/pueue"
         config:
-          - "$HOME/.config/pueue"
+        - "$HOME/.config/pueue"
     memory:
       idle:
         estimate: 5 MB
@@ -92,3 +97,7 @@ footprint:
         desc:
           cn: 任务调度时短暂占用
           en: Brief spike on task scheduling
+  platform:
+    win: none
+    linux: full
+    darwin: full

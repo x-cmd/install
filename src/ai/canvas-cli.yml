@@ -12,7 +12,7 @@ rule:
     cmd: x eget echosoar/canvas-cli
     reference: https://github.com/echosoar/canvas-cli
 binlist:
-  - 'canvas-cli'
+- 'canvas-cli'
 
 # complicated
 footprint:
@@ -36,6 +36,11 @@ footprint:
           desc:
             cn: 约 267 KB（估算）
             en: ~267 KB estimated
+        download:
+          estimate: 1 MB
+          desc:
+            cn: 约 1 MB 下载 (linux/x64)
+            en: ~1 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -53,3 +58,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none

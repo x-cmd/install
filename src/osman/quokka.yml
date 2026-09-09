@@ -15,7 +15,7 @@ rule:
     cmd: x eget dutradotdev/quokka
     reference: https://github.com/dutradotdev/quokka
 binlist:
-  - 'quokka'
+- 'quokka'
 
 # complicated
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 约 887 KB（估算）
             en: ~887 KB estimated
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (macos/x64)
+            en: ~5 MB download (macos/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: none
+    darwin: full

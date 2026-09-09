@@ -32,7 +32,7 @@ rule:
     cmd: apt install -y btop
     reference: https://packages.ubuntu.com/resolute/btop
 binlist:
-  - btop
+- btop
 
 # already profiled
 footprint:
@@ -57,6 +57,11 @@ footprint:
           desc:
             cn: 安装 2.5 MB
             en: 2.5 MB install
+        download:
+          estimate: 1022 KB
+          desc:
+            cn: 约 1022 KB 下载 (linux/x64)
+            en: ~1022 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -74,3 +79,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none

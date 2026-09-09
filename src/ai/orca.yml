@@ -14,7 +14,7 @@ rule:
     cmd: yay -S stably-orca-bin
     reference: https://github.com/stablyai/orca#desktop--macos-windows-linux
 binlist:
-  - orca
+- orca
 
 # complicated
 footprint:
@@ -44,6 +44,11 @@ footprint:
           desc:
             cn: 约 5.7 MB（估算）
             en: ~5.7 MB estimated
+        download:
+          estimate: 214 KB
+          desc:
+            cn: 约 214 KB 下载 (macos/x64)
+            en: ~214 KB download (macos/x64)
       paths:
         data: []
         config: []
@@ -61,3 +66,7 @@ footprint:
         desc:
           cn: 中（并行代理运行时）
           en: Medium (with parallel agents)
+  platform:
+    win: full
+    linux: full
+    darwin: full

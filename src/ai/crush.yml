@@ -34,7 +34,7 @@ rule:
     reference: https://github.com/charmbracelet/crush?tab=readme-ov-file#installation
     dsnap: github.com/charmbracelet/crush@latest
 binlist:
-  - crush
+- crush
 
 # already profiled
 footprint:
@@ -59,6 +59,11 @@ footprint:
           desc:
             cn: 安装 90 MB
             en: 90 MB install
+        download:
+          estimate: 27 MB
+          desc:
+            cn: 约 27 MB 下载 (linux/x64)
+            en: ~27 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -76,3 +81,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

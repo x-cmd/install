@@ -12,7 +12,7 @@ rule:
     cmd: x eget InCom-0/incplot
     reference: https://github.com/InCom-0/incplot
 binlist:
-  - 'incplot'
+- 'incplot'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 120 KB（估算）
             en: ~120 KB estimated
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (win/x64)
+            en: ~4 MB download (win/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: none
+    darwin: none

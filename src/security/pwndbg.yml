@@ -12,7 +12,7 @@ rule:
     cmd: x eget pwndbg/pwndbg
     reference: https://github.com/pwndbg/pwndbg
 binlist:
-  - 'pwndbg'
+- 'pwndbg'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 238 KB（估算）
             en: ~238 KB estimated
+        download:
+          estimate: 130 MB
+          desc:
+            cn: 约 130 MB 下载 (macos/x64)
+            en: ~130 MB download (macos/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

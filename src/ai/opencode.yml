@@ -38,7 +38,7 @@ rule:
     cmd: nix run nixpkgs#opencode
     reference: https://github.com/anomalyco/opencode?tab=readme-ov-file#installation
 binlist:
-  - opencode
+- opencode
 
 # complicated
 footprint:
@@ -63,6 +63,11 @@ footprint:
           desc:
             cn: 约 1.4 MB（估算）
             en: ~1.4 MB estimated
+        download:
+          estimate: 60 MB
+          desc:
+            cn: 约 60 MB 下载 (linux/x64)
+            en: ~60 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -80,3 +85,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -15,7 +15,7 @@ rule:
     cmd: yay -S obscura-browser
     reference: https://aur.archlinux.org/packages/obscura-browser
 binlist:
-  - obscura
+- obscura
 
 # already profiled
 footprint:
@@ -40,6 +40,11 @@ footprint:
           desc:
             cn: 安装 159 MB
             en: 159 MB install
+        download:
+          estimate: 51 MB
+          desc:
+            cn: 约 51 MB 下载 (linux/x64)
+            en: ~51 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -57,3 +62,7 @@ footprint:
         desc:
           cn: 中
           en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

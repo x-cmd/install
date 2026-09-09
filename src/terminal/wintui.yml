@@ -12,7 +12,7 @@ rule:
     cmd: x eget kts982/wintui
     reference: https://github.com/kts982/wintui
 binlist:
-  - 'wintui'
+- 'wintui'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 2.5 MB（估算）
             en: ~2.5 MB estimated
+        download:
+          estimate: 3 MB
+          desc:
+            cn: 约 3 MB 下载 (win/x64)
+            en: ~3 MB download (win/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: none
+    darwin: none

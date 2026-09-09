@@ -18,7 +18,7 @@ rule:
     cmd: x eget unkn0wn-root/resterm
     reference: https://github.com/unkn0wn-root/resterm
 binlist:
-  - 'resterm'
+- 'resterm'
 
 # complicated
 footprint:
@@ -43,6 +43,11 @@ footprint:
           desc:
             cn: 约 17 MB（估算）
             en: ~17 MB estimated
+        download:
+          estimate: 83 MB
+          desc:
+            cn: 约 83 MB 下载 (linux/x64)
+            en: ~83 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -60,3 +65,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: full

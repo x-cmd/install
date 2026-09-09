@@ -12,7 +12,7 @@ rule:
     cmd: x eget luis-ota/swaptop
     reference: https://github.com/luis-ota/swaptop
 binlist:
-  - 'swaptop'
+- 'swaptop'
 
 # complicated
 footprint:
@@ -37,6 +37,11 @@ footprint:
           desc:
             cn: 约 35 KB（估算）
             en: ~35 KB estimated
+        download:
+          estimate: 828 KB
+          desc:
+            cn: 约 828 KB 下载 (linux/x64)
+            en: ~828 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -54,3 +59,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: none

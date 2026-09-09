@@ -15,7 +15,7 @@ rule:
     cmd: x eget arnica/depsguard
     reference: https://github.com/arnica/depsguard
 binlist:
-  - 'depsguard'
+- 'depsguard'
 
 # complicated
 footprint:
@@ -39,6 +39,11 @@ footprint:
           desc:
             cn: 约 369 KB（估算）
             en: ~369 KB estimated
+        download:
+          estimate: 272 KB
+          desc:
+            cn: 约 272 KB 下载 (linux/x64)
+            en: ~272 KB download (linux/x64)
       paths:
         data: []
         config: []
@@ -56,3 +61,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

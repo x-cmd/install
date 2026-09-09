@@ -12,7 +12,7 @@ rule:
     cmd: x eget yashksaini-coder/Rustlens
     reference: https://github.com/yashksaini-coder/Rustlens
 binlist:
-  - 'rustlens'
+- 'rustlens'
 
 # complicated
 footprint:
@@ -36,6 +36,11 @@ footprint:
           desc:
             cn: 约 331 KB（估算）
             en: ~331 KB estimated
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (linux/x64)
+            en: ~2 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -53,3 +58,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

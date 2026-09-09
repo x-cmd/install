@@ -27,7 +27,7 @@ footprint:
           cn: 读取 ~/.config/gh, GITHUB_TOKEN
           en: Reads ~/.config/gh, GITHUB_TOKEN
         sensitive:
-          - "$HOME/.config/gh/hosts.yml"
+        - "$HOME/.config/gh/hosts.yml"
       write: []
   resource:
     disk:
@@ -38,6 +38,11 @@ footprint:
           desc:
             cn: 安装 24 MB
             en: 24 MB install
+        download:
+          estimate: 8 MB
+          desc:
+            cn: 约 8 MB 下载 (linux/x64)
+            en: ~8 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -65,3 +70,7 @@ footprint:
         desc:
           cn: API 调用时短暂占用
           en: Brief spike on API calls
+  platform:
+    win: full
+    linux: full
+    darwin: full

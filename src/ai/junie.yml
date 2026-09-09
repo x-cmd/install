@@ -27,7 +27,7 @@ rule:
     reference: https://github.com/JetBrains/junie?tab=readme-ov-file#-install
     dsnap: '@jetbrains/junie'
 binlist:
-  - junie
+- junie
 
 
 # complicated
@@ -53,6 +53,11 @@ footprint:
           desc:
             cn: 约 7 KB（估算）
             en: ~7 KB estimated
+        download:
+          estimate: 317 MB
+          desc:
+            cn: 约 317 MB 下载 (linux/x64)
+            en: ~317 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -70,3 +75,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -30,7 +30,7 @@ rule:
     cmd: nix-shell -p xan
     reference: https://github.com/medialab/xan?tab=readme-ov-file#how-to-install
 binlist:
-  - xan
+- xan
 
 # complicated
 footprint:
@@ -54,6 +54,11 @@ footprint:
           desc:
             cn: 约 2.1 MB（估算）
             en: ~2.1 MB estimated
+        download:
+          estimate: 7 MB
+          desc:
+            cn: 约 7 MB 下载 (linux/x64)
+            en: ~7 MB download (linux/x64)
       paths:
         data: []
         config: []
@@ -71,3 +76,7 @@ footprint:
         desc:
           cn: 极低
           en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full
