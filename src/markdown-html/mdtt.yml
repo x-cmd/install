@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/szktkfm/mdtt
   eget: https://github.com/szktkfm/mdtt
+  yay: mdtt
+  go: github.com/szktkfm/mdtt/cmd/mdtt@latest
 rule:
   /eget:
     cmd: x eget szktkfm/mdtt

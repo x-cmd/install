@@ -4,9 +4,9 @@ desc:
   cn: toolkit 是一款客户端命令行工具，支持多种物联网协议
   en: toolkit is a client-side command line tool that supports multiple iot protocols
 x:
-  pkg:
-    exist: true
   brew: iot-technology/tap/toolkit
+  choco: toolkit
+  powershell: toolkit
 rule:
   /x:
     cmd: x pkg use toolkit

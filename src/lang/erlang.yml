@@ -9,6 +9,8 @@ x:
   eget: https://github.com/erlang/otp
   apt: erlang
   brew: erlang
+  apt-get: erlang
+  scoop: erlang
 rule:
   /eget:
     cmd: x eget erlang/otp

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/SCons/scons
   brew: scons
+  pip: scons
 rule:
   /pip:
     cmd: python -m pip install scons

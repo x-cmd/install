@@ -5,12 +5,12 @@ desc:
   cn: Maven Central Search，或简称 mcs，是一个小型 CLI，用于从命令行查询 Maven Central
   en: Maven Central Search, or mcs for short, is a small CLI to query Maven Central from your command line
 x:
-  pkg:
-    exist: true
   source: https://github.com/mthmulders/mcs
   eget: https://github.com/mthmulders/mcs
   brew: mthmulders/tap/mcs
   snap: maven-central-search
+  choco: mcs
+  powershell: mcs
 rule:
   /x:
     cmd: x pkg use mcs

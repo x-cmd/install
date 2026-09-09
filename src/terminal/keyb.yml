@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kencx/keyb
   eget: https://github.com/kencx/keyb
+  go: github.com/kencx/keyb@latest
+  git: https://github.com/kencx/keyb
 rule:
   /eget:
     cmd: x eget kencx/keyb

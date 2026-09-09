@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/dooit-org/dooit
   eget: https://github.com/dooit-org/dooit
+  yay: dooit
+  pip: dooit
 rule:
   /eget:
     cmd: x eget dooit-org/dooit

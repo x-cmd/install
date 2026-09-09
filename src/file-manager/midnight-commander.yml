@@ -10,6 +10,14 @@ x:
   brew: midnight-commander
   pacman: mc
   apk: mc
+  apt-get: mc
+  yum: mc
+  zypper: mc
+  emerge: -a
+  scoop: extras/mc
+  choco: mc
+  winget: -e
+  powershell: mc
 rule:
   darwin/brew:
     cmd: brew install midnight-commander

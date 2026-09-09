@@ -8,6 +8,8 @@ x:
   source: https://github.com/pkolaczk/fclones
   brew: fclones
   snap: fclones
+  yay: fclones-git
+  cargo: fclones
 rule:
   linux/snap:
     cmd: snap install fclones

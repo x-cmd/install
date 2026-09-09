@@ -8,6 +8,8 @@ x:
   source: https://github.com/mike-engel/jwt-cli
   eget: https://github.com/mike-engel/jwt-cli
   brew: mike-engel/jwt-cli/jwt-cli
+  port: jwt-cli
+  cargo: jwt-cli
 rule:
   /eget:
     cmd: x eget mike-engel/jwt-cli

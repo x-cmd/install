@@ -5,11 +5,10 @@ desc:
   cn: 根据 AWS CloudFormation 资源规范和其他检查验证 AWS CloudFormation yaml/json 模板
   en: Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation Resource Specification and additional checks
 x:
-  pkg:
-    exist: true
   source: https://github.com/aws-cloudformation/cfn-lint
   eget: https://github.com/aws-cloudformation/cfn-lint
   brew: cfn-lint
+  pip: cfn-lint
 rule:
   /eget:
     cmd: x eget aws-cloudformation/cfn-lint

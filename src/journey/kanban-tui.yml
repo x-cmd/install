@@ -6,6 +6,7 @@ desc:
   en: Task Manager with a TUI written in Python
 x:
   source: https://github.com/Zaloog/kanban-tui
+  pip: kanban-tui
 rule:
   /pip:
     cmd: pip install kanban-tui

@@ -10,6 +10,10 @@ x:
   apt: flatpak
   dnf: flatpak
   pacman: flatpak
+  apt-get: apt
+  yum: flatpak
+  zypper: flatpak
+  emerge: sys-apps/flatpak
 rule:
   /eget:
     cmd: x eget flatpak/flatpak

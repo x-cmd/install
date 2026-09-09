@@ -8,6 +8,7 @@ x:
   source: https://github.com/LucasPickering/slumber
   eget: https://github.com/LucasPickering/slumber
   brew: slumber
+  cargo: slumber
 rule:
   /eget:
     cmd: x eget LucasPickering/slumber

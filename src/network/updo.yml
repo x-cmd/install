@@ -6,6 +6,8 @@ desc:
   en: Updo is a command-line tool for monitoring website uptime and performance.
 x:
   source: https://github.com/Owloops/updo
+  yay: updo
+  go: github.com/Owloops/updo@latest
 rule:
   /go:
     cmd: go install github.com/Owloops/updo@latest

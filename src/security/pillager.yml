@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/brittonhayes/pillager
   brew: pillager
+  scoop: pillager
+  yay: pillager-bin
+  go: github.com/brittonhayes/pillager@latest
 rule:
   /brew:
     cmd: 'brew tap brittonhayes/homebrew-pillager \

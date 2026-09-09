@@ -5,6 +5,9 @@ desc:
   en: k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM
 x:
   source: https://github.com/alexellis/k3sup
+  yay: k3sup
+  asdf: asdf
+  curl: curl
 rule:
   arch/yay:
     cmd: yay -S k3sup

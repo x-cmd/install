@@ -6,6 +6,7 @@ desc:
   en: Build AI Agents, Visually
 x:
   source: https://github.com/FlowiseAI/Flowise
+  npm: flowise
 rule:
   /npm:
     cmd: npm install -g flowise

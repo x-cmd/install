@@ -4,14 +4,15 @@ desc:
   cn: Python 是一种结合了解释性、编译性、互动性和面向对象的脚本语言
   en: Python is a Scripting language that combines interpretability, compilation, interactivity and object orientation
 x:
-  pkg:
-    exist: true
   source: https://github.com/python/cpython
   apt: python-minimal
   dnf: python
   brew: python
   pacman: python
   apk: python
+  apt-get: python-minimal
+  yum: python
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use python

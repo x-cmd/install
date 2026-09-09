@@ -9,6 +9,8 @@ x:
   dnf: openssh-server
   brew: openssh
   apk: openssh
+  apt-get: openssh-server
+  zypper: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

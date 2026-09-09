@@ -5,14 +5,20 @@ desc:
   cn: LuaRocks 是 Lua 模块的包管理器
   en: LuaRocks is the package manager for Lua modules
 x:
-  pkg:
-    exist: true
   source: https://github.com/luarocks/luarocks
   apt: build-essential
   dnf: libtermcap-devel
   brew: luarocks
   pacman: luarocks
   apk: luarocks
+  apt-get: luarocks
+  yum: libtermcap-devel
+  port: lua-luarocks
+  scoop: main/luarocks
+  choco: luarocks
+  powershell: luarocks
+  curl: curl
+  make: make
 rule:
   /x:
     cmd: x pkg use luarocks

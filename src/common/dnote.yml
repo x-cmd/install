@@ -5,11 +5,11 @@ desc:
   cn: Dnote 是一款面向程序员的简单命令行笔记本
   en: Dnote is a simple command line notebook for programmers
 x:
-  pkg:
-    exist: true
   source: https://github.com/dnote/dnote
   eget: https://github.com/dnote/dnote
   brew: dnote
+  yay: dnote-cli-bin
+  curl: curl
 rule:
   /x:
     cmd: x pkg use dnote

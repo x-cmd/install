@@ -11,6 +11,12 @@ x:
   dnf: chafa
   brew: chafa
   pacman: chafa
+  zypper: chafa
+  port: chafa
+  emerge: media-gfx/chafa
+  scoop: chafa
+  winget: hpjansson.Chafa
+  powershell: install
 rule:
   /eget:
     cmd: x eget hpjansson/chafa

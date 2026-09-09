@@ -8,6 +8,7 @@ x:
   source: https://github.com/raftario/licensor
   eget: https://github.com/raftario/licensor
   brew: licensor
+  cargo: licensor
 rule:
   /eget:
     cmd: x eget raftario/licensor

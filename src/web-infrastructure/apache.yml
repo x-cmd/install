@@ -10,6 +10,7 @@ x:
   dnf: httpd
   brew: httpd
   pacman: apache
+  yum: httpd
 rule:
   darwin/brew:
     cmd: brew install httpd

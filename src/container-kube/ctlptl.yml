@@ -6,6 +6,8 @@ desc:
   en: ctlptl is a CLI for declaratively setting up local Kubernetes clusters
 x:
   source: https://github.com/tilt-dev/ctlptl
+  yay: ctlptl-bin
+  asdf: asdf
 rule:
   arch/yay:
     cmd: yay -S ctlptl-bin

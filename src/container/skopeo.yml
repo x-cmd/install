@@ -9,6 +9,8 @@ x:
   brew: skopeo
   pacman: skopeo
   apk: skopeo
+  zypper: skopeo
+  emerge: app-containers/skopeo
 rule:
   fedora/dnf:
     cmd: sudo dnf -y install skopeo

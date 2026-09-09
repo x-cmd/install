@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/TheWaWaR/simple-http-server
   eget: https://github.com/TheWaWaR/simple-http-server
+  yay: simple-http-server
+  cargo: simple-http-server
 rule:
   /eget:
     cmd: x eget TheWaWaR/simple-http-server

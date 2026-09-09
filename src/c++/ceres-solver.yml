@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/ceres-solver/ceres-solver
   brew: ceres-solver
+  port: ceres-solver
+  yay: ceres-solver-git
 rule:
   darwin/brew:
     cmd: brew install ceres-solver

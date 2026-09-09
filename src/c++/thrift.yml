@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/apache/thrift
   brew: thrift
+  scoop: thrift
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use thrift

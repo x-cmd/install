@@ -6,6 +6,7 @@ desc:
   cn: 一个命令行工具，用于可视化 GraphQL 模式，并将图形数据结构输出为 Graphviz 的.dot 格式
 x:
   source: https://github.com/yamafaktory/craftql
+  cargo: craftql
 rule:
   /cargo:
     cmd: cargo install craftql

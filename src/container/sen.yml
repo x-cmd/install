@@ -6,6 +6,7 @@ desc:
   cn: 容器的终端用户界面
 x:
   source: https://github.com/TomasTomecek/sen
+  pip: sen
 rule:
   /pip3:
     cmd: pip3 install sen

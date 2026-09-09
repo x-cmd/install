@@ -5,13 +5,17 @@ desc:
   cn: 用于管理基于 email-lib 电子邮件的命令行工具
   en: The Command-Line Interface to manage emails based on email-lib
 x:
-  pkg:
-    exist: true
   source: https://github.com/pimalaya/himalaya
   eget: https://github.com/pimalaya/himalaya
   dnf: himalaya
   brew: himalaya
   pacman: himalaya
+  zypper: himalaya
+  scoop: himalaya
+  nix: himalaya
+  yay: himalaya-git
+  cargo: himalaya
+  curl: curl
 rule:
   /x:
     cmd: x pkg use himalaya

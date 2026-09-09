@@ -9,6 +9,7 @@ x:
   eget: https://github.com/xyproto/orbiton
   brew: orbiton
   pacman: orbiton
+  go: github.com/xyproto/orbiton/v2@latest
 rule:
   /eget:
     cmd: x eget xyproto/orbiton

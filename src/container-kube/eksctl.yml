@@ -7,6 +7,11 @@ x:
   source: https://github.com/eksctl-io/eksctl
   eget: https://github.com/eksctl-io/eksctl
   brew: weaveworks/tap/eksctl
+  scoop: eksctl
+  choco: eksctl
+  powershell: eksctl
+  yay: eksctl-latest
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget eksctl-io/eksctl

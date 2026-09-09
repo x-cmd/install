@@ -4,12 +4,14 @@ desc:
   cn: Oracle 云基础设施的命令行界面
   en: Command Line Interface for Oracle Cloud Infrastructure
 x:
-  pkg:
-    exist: true
   source: https://github.com/oracle/oci-cli
   eget: https://github.com/oracle/oci-cli
   dnf: oci-cli
   brew: oci-cli
+  yum: python36-oci-cli
+  yay: oci-cli
+  pip: oci-cli
+  curl: curl
 rule:
   /eget:
     cmd: x eget oracle/oci-cli

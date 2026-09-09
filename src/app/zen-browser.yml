@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/zen-browser/desktop
   eget: https://github.com/zen-browser/desktop
+  flatpak: flathub
+  yay: zen-browser-bin
 rule:
   /eget:
     cmd: x eget zen-browser/desktop

@@ -7,6 +7,7 @@ x:
   source: https://github.com/maaslalani/nap
   eget: https://github.com/maaslalani/nap
   brew: nap
+  go: github.com/maaslalani/nap@main
 rule:
   /eget:
     cmd: x eget maaslalani/nap

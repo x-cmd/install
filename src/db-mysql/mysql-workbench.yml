@@ -9,6 +9,7 @@ x:
   apt: mysql-workbench
   brew: --cask
   pacman: mysql-workbench
+  apt-get: mysql-workbench
 rule:
   /eget:
     cmd: x eget mxcl/Workbench

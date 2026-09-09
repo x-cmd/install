@@ -6,6 +6,7 @@ desc:
   en: pqviewer is a TUI tool for viewing Apache Parquet files directly in the terminal.
 x:
   source: https://github.com/thread53/pqviewer?ref=terminaltrove
+  pip: pqviewer
 rule:
   /pip:
     cmd: pip install pqviewer

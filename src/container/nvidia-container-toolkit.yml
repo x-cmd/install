@@ -9,6 +9,8 @@ x:
   eget: https://github.com/NVIDIA/nvidia-container-toolkit
   apt: -y
   dnf: -y
+  apt-get: -y
+  curl: curl
 rule:
   /eget:
     cmd: x eget NVIDIA/nvidia-container-toolkit

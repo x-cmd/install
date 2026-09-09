@@ -6,6 +6,7 @@ desc:
   cn: 将您的 Node.js 项目打包成可执行文件，即使在没有安装 Node.js 的设备上也可以运行
 x:
   source: https://github.com/vercel/pkg
+  npm: pkg
 rule:
   /npm:
     cmd: npm install -g pkg

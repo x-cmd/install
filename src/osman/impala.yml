@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/pythops/impala
   pacman: impala
+  cargo: impala
 rule:
   /cargo:
     cmd: cargo install impala

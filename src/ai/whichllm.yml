@@ -6,6 +6,8 @@ desc:
   en: Find the best local LLM that runs on your hardware by ranking HuggingFace models based on benchmarks and system specs.
 x:
   source: https://github.com/Andyyyy64/whichllm
+  pip: whichllm
+  git: Andyyyy64/whichllm
 rule:
   /pip:
     cmd: pip install whichllm

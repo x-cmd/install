@@ -4,10 +4,12 @@ desc:
   cn: 与 Gitea 服务器交互，Gitea 官方 CLI
   en: Interact with Gitea servers, Official CLI for Gitea
 x:
-  pkg:
-    exist: true
   apt: tea
   brew: tea
+  apt-get: tea
+  scoop: tea
+  asdf: asdf
+  git: https://gitea.com/gitea/tea.git
 rule:
   /x:
     cmd: x pkg use tea

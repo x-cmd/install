@@ -9,6 +9,8 @@ x:
   eget: https://github.com/nikolassv/bartib
   brew: bartib
   apk: bartib
+  yay: bartib
+  cargo: bartib
 rule:
   /eget:
     cmd: x eget nikolassv/bartib

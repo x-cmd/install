@@ -8,6 +8,13 @@ x:
   source: https://github.com/sinelaw/fresh
   eget: https://github.com/sinelaw/fresh
   brew: fresh-editor
+  zypper: fresh-editor
+  emerge: app-editors/fresh
+  winget: fresh-editor
+  powershell: install
+  yay: fresh-editor-bin
+  cargo: --locked
+  curl: curl
 rule:
   /eget:
     cmd: x eget sinelaw/fresh

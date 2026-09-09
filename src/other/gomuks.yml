@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/tulir/gomuks
   eget: https://github.com/tulir/gomuks
+  zypper: gomuks
+  port: gomuks
 rule:
   /eget:
     cmd: x eget tulir/gomuks

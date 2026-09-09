@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/dinedal/textql
   brew: textql
+  yay: textql-git
 rule:
   /brew:
     cmd: brew install textql

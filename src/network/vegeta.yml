@@ -9,6 +9,7 @@ x:
   eget: https://github.com/tsenart/vegeta
   brew: vegeta
   pacman: vegeta
+  port: vegeta
 rule:
   /eget:
     cmd: x eget tsenart/vegeta

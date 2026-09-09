@@ -8,6 +8,7 @@ x:
   apt: libfido2-1
   dnf: libfido2
   brew: libfido2
+  yay: libfido2-git
 rule:
   arch/yay:
     cmd: yay -S libfido2-git

@@ -6,6 +6,7 @@ desc:
   en: Power CLI and Workflow manager for LLMs (core package)
 x:
   source: https://github.com/llm-workflow-engine/llm-workflow-engine
+  pip: llm-workflow-engine
 rule:
   /pip:
     cmd: pip install llm-workflow-engine

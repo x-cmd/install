@@ -8,6 +8,8 @@ x:
   source: https://github.com/apache/tomcat
   dnf: tomcat
   brew: tomcat
+  yum: tomcat
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use tomcat

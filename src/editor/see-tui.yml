@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/NustyFrozen/SEE
   eget: https://github.com/NustyFrozen/SEE
+  cargo: seetui'
 rule:
   /cargo:
     cmd: 'cargo install seetui'

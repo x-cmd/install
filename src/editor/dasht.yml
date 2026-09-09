@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/sunaku/dasht
   brew: dasht
+  yay: dasht
 rule:
   arch/yay:
     cmd: yay -S dasht

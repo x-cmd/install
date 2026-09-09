@@ -12,6 +12,12 @@ x:
   brew: mosh
   pacman: mosh
   apk: mosh
+  apt-get: mosh
+  zypper: mosh
+  port: mosh
+  emerge: net-misc/mosh
+  guix: mosh
+  make: make
 rule:
   /eget:
     cmd: x eget mobile-shell/mosh

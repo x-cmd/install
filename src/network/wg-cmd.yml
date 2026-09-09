@@ -6,6 +6,8 @@ desc:
   en: TUI for managing WireGuard configuration files
 x:
   source: https://github.com/AndrianBdn/wg-cmd
+  yay: wg-cmd
+  curl: curl
 rule:
   linux-x64/curl:
     cmd: curl -SL https://github.com/andrianbdn/wg-cmd/releases/download/v0.1.6/wg-cmd-0.1.6-linux-amd64 -o /usr/local/bin/wg-cmd

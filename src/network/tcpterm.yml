@@ -6,6 +6,8 @@ desc:
   en: tcpterm is a packet visualizer in TUI.
 x:
   source: https://github.com/sachaos/tcpterm
+  yay: tcpterm
+  go: github.com/sachaos/tcpterm
 rule:
   /go:
     cmd: go install github.com/sachaos/tcpterm

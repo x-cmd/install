@@ -9,6 +9,8 @@ x:
   apt: visidata
   brew: saulpw/vd/visidata
   pacman: visidata
+  yay: visidata-git
+  pip: visidata
 rule:
   /pip:
     cmd: pip3 install visidata

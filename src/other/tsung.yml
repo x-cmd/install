@@ -9,6 +9,8 @@ x:
   apt: tsung
   dnf: tsung
   brew: tsung
+  apt-get: tsung
+  yay: tsung
 rule:
   darwin/brew:
     cmd: brew install tsung

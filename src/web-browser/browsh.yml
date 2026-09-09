@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/browsh-org/browsh
   eget: https://github.com/browsh-org/browsh
+  yay: browsh-bin
 rule:
   /eget:
     cmd: x eget browsh-org/browsh

@@ -6,6 +6,7 @@ desc:
   en: '🙌 OpenHands: AI-Driven Development'
 x:
   source: https://github.com/OpenHands/OpenHands
+  pip: openhands-ai
 rule:
   /pip:
     cmd: pip install openhands-ai

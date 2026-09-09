@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/drdo/redu
   eget: https://github.com/drdo/redu
+  yay: redu
 rule:
   /eget:
     cmd: x eget drdo/redu

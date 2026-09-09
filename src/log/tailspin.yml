@@ -9,6 +9,7 @@ x:
   eget: https://github.com/bensadeh/tailspin
   brew: tailspin
   pacman: tailspin
+  cargo: tailspin
 rule:
   /eget:
     cmd: x eget bensadeh/tailspin

@@ -5,9 +5,8 @@ desc:
   cn: 异步递归文件复制实用程序
   en: Asynchronous recursive file copy utility.
 x:
-  pkg:
-    exist: true
   source: https://github.com/AvianFlu/ncp
+  yay: ncp
 rule:
   /x:
     cmd: x pkg use ncp

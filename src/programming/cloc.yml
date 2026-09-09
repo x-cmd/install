@@ -12,6 +12,14 @@ x:
   brew: cloc
   pacman: cloc
   apk: cloc
+  yum: cloc
+  port: cloc
+  emerge: -av
+  scoop: cloc
+  choco: cloc
+  winget: AlDanial.Cloc
+  powershell: cloc
+  npm: cloc
 rule:
   /eget:
     cmd: x eget AlDanial/cloc

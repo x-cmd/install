@@ -8,6 +8,7 @@ x:
   source: https://github.com/thomas-mauran/chess-tui
   eget: https://github.com/thomas-mauran/chess-tui
   brew: thomas-mauran/tap/chess-tui'
+  cargo: chess-tui'
 rule:
   /cargo:
     cmd: 'cargo install chess-tui'

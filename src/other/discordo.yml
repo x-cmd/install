@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/ayn2op/discordo
   brew: --cask
+  scoop: discordo
+  yay: discordo-git
 rule:
   arch/yay:
     cmd: sudo yay -S discordo-git

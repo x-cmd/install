@@ -5,6 +5,7 @@ desc:
   en: htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
 x:
   source: https://github.com/bigskysoftware/htmx
+  npm: htmx.org
 rule:
   /npm:
     cmd: npm install htmx.org

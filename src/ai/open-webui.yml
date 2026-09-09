@@ -6,6 +6,7 @@ desc:
   en: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 x:
   source: https://github.com/open-webui/open-webui
+  pip: open-webui
 rule:
   /pip:
     cmd: pip install open-webui

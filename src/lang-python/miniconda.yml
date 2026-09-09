@@ -4,11 +4,12 @@ desc:
   cn: Anaconda Distribution 的精简版本，包含 `conda`、`Python` 以及少量的软件包，适用于数据科学和机器学习领域
   en: A streamlined version of Anaconda Distribution, featuring `conda`, `Python`, and a curated selection of packages, designed specifically for the fields of data science and machine learning.
 x:
-  pkg:
-    exist: true
   source: https://github.com/conda/conda
   eget: https://github.com/conda/conda
   brew: --cask
+  yay: miniconda3
+  curl: curl
+  wget: wget
 rule:
   /eget:
     cmd: x eget conda/conda

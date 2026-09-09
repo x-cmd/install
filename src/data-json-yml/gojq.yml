@@ -5,11 +5,11 @@ desc:
   cn: 纯用 Go 实现的 jq
   en: Pure Go implementation of jq
 x:
-  pkg:
-    exist: true
   source: https://github.com/itchyny/gojq
   eget: https://github.com/itchyny/gojq
   brew: gojq
+  yay: gojq
+  go: github.com/itchyny/gojq/cmd/gojq@latest
 rule:
   /x:
     cmd: x pkg use gojq

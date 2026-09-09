@@ -5,14 +5,16 @@ desc:
   cn: OpenTofu 是一种基础架构即代码工具，可让您在人类可读的配置文件中定义云资源和本地资源，您可以对其进行版本控制、重用和共享。它是 Terraform 0.11.14 的分叉，由 Linux 基金会支持。
   en: OpenTofu is an infrastructure-as-code tool that allows you to define cloud resources and on-premises resources in human-readable configuration files, which you can version control, reuse, and share. It is a fork of Terraform 0.11.14, supported by the Linux Foundation.
 x:
-  pkg:
-    exist: true
   source: https://github.com/opentofu/opentofu
   eget: https://github.com/opentofu/opentofu
   apt: -y
   dnf: -y
   brew: opentofu
   snap: --classic
+  apt-get: -y
+  yum: -y
+  zypper: -y
+  yay: opentofu-bin
 rule:
   /x:
     cmd: x pkg use opentofu

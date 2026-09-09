@@ -11,6 +11,7 @@ x:
   dnf: git-absorb
   brew: git-absorb
   pacman: git-absorb
+  cargo: git-absorb
 rule:
   /eget:
     cmd: x eget tummychow/git-absorb

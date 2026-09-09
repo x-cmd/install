@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/linuxdeepin/linglong-pica
   apt: linglong-pica
+  yay: linglong-pica
 rule:
   deepin/apt:
     cmd: sudo apt install linglong-pica

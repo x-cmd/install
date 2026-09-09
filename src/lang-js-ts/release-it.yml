@@ -6,6 +6,8 @@ desc:
   en: Automate versioning and package publishing
 x:
   source: https://github.com/release-it/release-it
+  yay: release-it
+  npm: -D
 rule:
   /npm:
     cmd: npm install -D release-it

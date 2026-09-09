@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/oxigraph/oxigraph
   eget: https://github.com/oxigraph/oxigraph
+  pip: oxigraph
+  cargo: oxigraph-cli
 rule:
   /eget:
     cmd: x eget oxigraph/oxigraph

@@ -6,6 +6,7 @@ desc:
   cn: 一个强大的工具，用于可视化被忽略的文件
 x:
   source: https://github.com/james4ever0/vignore
+  pip: vignore
 rule:
   /pip3:
     cmd: pip3 install vignore

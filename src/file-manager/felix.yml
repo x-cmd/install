@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kyoheiu/felix
   pacman: felix-rs
+  cargo: felix
 rule:
   /cargo:
     cmd: cargo install felix

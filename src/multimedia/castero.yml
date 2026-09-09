@@ -6,6 +6,8 @@ desc:
   en: castero is a TUI podcast client for the terminal.
 x:
   source: https://github.com/xgi/castero
+  yay: castero
+  pip: castero
 rule:
   /pip:
     cmd: pip3 install castero

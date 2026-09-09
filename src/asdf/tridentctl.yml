@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/NetApp/trident
   eget: https://github.com/NetApp/trident
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget NetApp/trident

@@ -6,6 +6,8 @@ desc:
   en: Hook-based token compressor for Claude Code, Copilot CLI, OpenCode, Gemini CLI, and Codex CLI. Up to 95% bash compression with zero runtime dependencies.
 x:
   source: https://github.com/claudioemmanuel/squeez
+  npm: squeez
+  curl: curl
 rule:
   darwin/curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/claudioemmanuel/squeez/main/install.sh | sh

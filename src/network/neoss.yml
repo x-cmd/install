@@ -6,6 +6,8 @@ desc:
   en: Network connection viewing tool
 x:
   source: https://github.com/PabloLec/neoss
+  yay: neoss
+  npm: neoss
 rule:
   /npm:
     cmd: npm install -g neoss

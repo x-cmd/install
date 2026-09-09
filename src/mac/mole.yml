@@ -8,6 +8,7 @@ x:
   source: https://github.com/tw93/Mole
   eget: https://github.com/tw93/Mole
   brew: tw93/tap/mole
+  curl: curl
 rule:
   /eget:
     cmd: x eget tw93/Mole

@@ -8,6 +8,7 @@ x:
   source: https://github.com/JFryy/qq
   eget: https://github.com/JFryy/qq
   brew: jfryy/tap/qq
+  go: github.com/JFryy/qq/cli@latest
 rule:
   /eget:
     cmd: x eget JFryy/qq

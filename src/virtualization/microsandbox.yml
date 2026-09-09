@@ -10,6 +10,8 @@ x:
   source: https://github.com/superradcompany/microsandbox
   eget: https://github.com/superradcompany/microsandbox
   brew: superradcompany/tap/microsandbox
+  cargo: microsandbox
+  curl: curl
 rule:
   /eget:
     cmd: x eget superradcompany/microsandbox

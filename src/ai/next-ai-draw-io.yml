@@ -6,6 +6,8 @@ desc:
   en: Generate and edit draw.io diagrams, including complex cloud architectures and flowcharts, using natural language commands in a web or desktop app.
 x:
   source: https://github.com/DayuanJiang/next-ai-draw-io
+  npm: next-ai-draw-io
+  git: DayuanJiang/next-ai-draw-io
 rule:
   /npm:
     cmd: x npm install -g next-ai-draw-io

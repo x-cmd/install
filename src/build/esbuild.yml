@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/evanw/esbuild
   brew: esbuild
+  yay: esbuild-git
+  npm: esbuild
 rule:
   /npm:
     cmd: npm install -g esbuild

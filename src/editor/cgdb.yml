@@ -11,6 +11,8 @@ x:
   brew: cgdb
   pacman: cgdb
   apk: cgdb
+  apt-get: cgdb
+  zypper: cgdb
 rule:
   darwin/brew:
     cmd: brew install cgdb

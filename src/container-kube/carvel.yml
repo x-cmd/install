@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/vmware-tanzu/carvel
   brew: ytt
+  yay: carvel-tools
+  asdf: asdf
+  curl: curl
 rule:
   arch/yay:
     cmd: yay -S carvel-tools

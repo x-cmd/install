@@ -8,6 +8,8 @@ x:
   source: https://github.com/pypa/flit
   dnf: python3-flit
   brew: flit
+  yay: flit-git
+  pip: flit
 rule:
   /pip:
     cmd: python3 -m pip install flit

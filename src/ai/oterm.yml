@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/ggozad/oterm
   brew: ggozad/formulas/oterm
+  yay: oterm
+  pip: oterm
 rule:
   /uvx:
     cmd: uvx oterm

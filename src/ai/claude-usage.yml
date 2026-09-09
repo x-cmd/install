@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/phuryn/claude-usage
   brew: --formula
+  git: https://github.com/phuryn/claude-usage
 rule:
   /git:
     cmd: |

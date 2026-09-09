@@ -5,11 +5,10 @@ desc:
   cn: Mule 流程调用图和图表
   en: Mule flow call graphs and diagrams
 x:
-  pkg:
-    exist: true
   source: https://github.com/manikmagar/mulefd
   eget: https://github.com/manikmagar/mulefd
   brew: manikmagar/tap/mulefd
+  scoop: mulefd
 rule:
   /eget:
     cmd: x eget manikmagar/mulefd

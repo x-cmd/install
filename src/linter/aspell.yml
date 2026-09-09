@@ -8,6 +8,7 @@ x:
   source: https://github.com/GNUAspell/aspell
   eget: https://github.com/GNUAspell/aspell
   brew: aspell
+  scoop: aspell
 rule:
   /eget:
     cmd: x eget GNUAspell/aspell

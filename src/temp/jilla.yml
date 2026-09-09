@@ -5,6 +5,7 @@ desc:
   en: jilla is a Jira client for lazy people
 x:
   source: https://github.com/juliangruber/jilla
+  npm: jilla
 rule:
   /npm:
     cmd: npm install -g jilla

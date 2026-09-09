@@ -6,6 +6,8 @@ desc:
   en: BlackSheep is an asynchronous web framework to build event-based web applications with Python.
 x:
   source: https://github.com/Neoteroi/BlackSheep
+  yay: python-blacksheep
+  pip: blacksheep
 rule:
   /pip:
     cmd: pip install blacksheep

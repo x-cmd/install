@@ -8,6 +8,7 @@ x:
   source: https://github.com/fastlane/fastlane
   eget: https://github.com/fastlane/fastlane
   brew: fastlane
+  yay: fastlane
 rule:
   /eget:
     cmd: x eget fastlane/fastlane

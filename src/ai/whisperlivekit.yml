@@ -6,6 +6,8 @@ desc:
   en: Ultra-low-latency, self-hosted speech-to-text with speaker identification
 x:
   source: https://github.com/QuentinFuxa/WhisperLiveKit
+  yay: whisperlivekit
+  pip: whisperlivekit
 rule:
   /pip:
     cmd: pip install whisperlivekit

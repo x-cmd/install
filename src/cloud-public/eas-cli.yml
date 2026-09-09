@@ -6,6 +6,7 @@ desc:
   en: Expo Application Services (EAS) are deeply integrated cloud services for Expo and React Native apps, from the team behind Expo
 x:
   source: https://github.com/expo/eas-cli
+  npm: eas-cli
 rule:
   /npm:
     cmd: npm install -g eas-cli

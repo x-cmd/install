@@ -8,6 +8,8 @@ x:
   source: https://github.com/max-niederman/ttyper
   eget: https://github.com/max-niederman/ttyper
   pacman: ttyper
+  scoop: ttyper
+  cargo: ttyper
 rule:
   /eget:
     cmd: x eget max-niederman/ttyper

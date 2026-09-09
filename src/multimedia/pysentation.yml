@@ -6,6 +6,7 @@ desc:
   cn: pysentation 是一个用于显示 Python 演示文稿的命令行界面（CLI）。
 x:
   source: https://github.com/mimseyedi/pysentation
+  pip: pysentation
 rule:
   /pip:
     cmd: python3 -m pip install pysentation

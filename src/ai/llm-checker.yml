@@ -6,6 +6,7 @@ desc:
   en: Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 x:
   source: https://github.com/Pavelevich/llm-checker
+  npm: llm-checker
 rule:
   /npm:
     cmd: npm install -g llm-checker

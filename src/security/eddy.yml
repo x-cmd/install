@@ -6,6 +6,8 @@ desc:
   en: Simple, fast CLI file encryption tool.
 x:
   source: https://github.com/70sh1/eddy
+  yay: eddy
+  go: github.com/70sh1/eddy@latest
 rule:
   /go:
     cmd: go install github.com/70sh1/eddy@latest

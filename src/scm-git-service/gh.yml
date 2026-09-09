@@ -12,6 +12,15 @@ x:
   brew: gh
   pacman: github-cli
   apk: github-cli
+  apt-get: wget
+  zypper: gh
+  port: gh
+  emerge: -av
+  xbps: github-cli
+  scoop: gh
+  choco: gh
+  winget: GitHub.cli
+  powershell: install
 rule:
   /eget:
     cmd: x eget use cli/cli

@@ -11,6 +11,9 @@ x:
   brew: php
   pacman: php
   apk: php
+  apt-get: php
+  yum: php-cli
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use php

@@ -6,6 +6,7 @@ desc:
   en: Analyze codebases or wikis to generate an interactive knowledge graph for visual exploration, search, and impact analysis.
 x:
   source: https://github.com/Lum1104/Understand-Anything
+  git: Lum1104/Understand-Anything
 rule:
   /git:
     cmd: x git clone Lum1104/Understand-Anything

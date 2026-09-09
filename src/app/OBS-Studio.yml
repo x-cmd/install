@@ -10,6 +10,13 @@ x:
   apt: obs-studio
   brew: --cask
   pacman: obs-studio
+  apt-get: obs-studio
+  scoop: extras/obs-studio
+  choco: obs-studio
+  winget: OBSProject.OBSStudio
+  powershell: obs-studio
+  flatpak: flathub
+  yay: obs-studio
 rule:
   /eget:
     cmd: x eget obsproject/obs-studio

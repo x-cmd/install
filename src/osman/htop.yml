@@ -11,6 +11,9 @@ x:
   dnf: htop
   brew: htop
   pacman: htop
+  zypper: htop
+  emerge: sys-process/htop
+  yay: htop-git
 rule:
   /eget:
     cmd: x eget htop-dev/htop

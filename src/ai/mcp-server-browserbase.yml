@@ -6,6 +6,7 @@ desc:
   en: Allow LLMs to control a browser with Browserbase and Stagehand
 x:
   source: https://github.com/browserbase/mcp-server-browserbase
+  npm: "@browserbasehq/mcp-server-browserbase"
 rule:
   /npm:
     cmd: npm install -g @browserbasehq/mcp-server-browserbase

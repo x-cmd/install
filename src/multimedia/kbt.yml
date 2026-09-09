@@ -9,6 +9,7 @@ x:
   eget: https://github.com/bloznelis/kbt
   brew: kbt
   pacman: kbt
+  cargo: kbt
 rule:
   /eget:
     cmd: x eget bloznelis/kbt

@@ -5,11 +5,13 @@ desc:
   cn: Oh My Posh 是一个自定义提示引擎，可以用函数或变量来调整提示字符串
   en: Oh My Posh is a custom prompt engine for any shell that has the ability to adjust the prompt string with a function or variable
 x:
-  pkg:
-    exist: true
   source: https://github.com/jandedobbeleer/oh-my-posh
   eget: https://github.com/jandedobbeleer/oh-my-posh
   brew: jandedobbeleer/oh-my-posh/oh-my-posh
+  scoop: https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
+  winget: JanDeDobbeleer.OhMyPosh
+  powershell: install
+  curl: curl
 rule:
   /x:
     cmd: x pkg use oh-my-posh

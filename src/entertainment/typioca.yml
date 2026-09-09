@@ -8,6 +8,13 @@ x:
   source: https://github.com/bloznelis/typioca
   eget: https://github.com/bloznelis/typioca
   brew: typioca
+  zypper: typioca
+  xbps: typioca
+  scoop: typioca
+  winget: bloznelis.typioca
+  powershell: install
+  yay: typioca-git
+  go: github.com/bloznelis/typioca@latest
 rule:
   /eget:
     cmd: x eget bloznelis/typioca

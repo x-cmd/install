@@ -8,6 +8,8 @@ x:
   source: https://github.com/doxygen/doxygen
   eget: https://github.com/doxygen/doxygen
   brew: doxygen
+  scoop: doxygen
+  yay: doxygen-git
 rule:
   /eget:
     cmd: x eget doxygen/doxygen

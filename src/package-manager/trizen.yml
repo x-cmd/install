@@ -6,6 +6,9 @@ desc:
   cn: 轻量级 AUR 包管理器
 x:
   source: https://github.com/trizen/trizen
+  makepkg: makepkg
+  yay: trizen
+  git: https://aur.archlinux.org/trizen.git
 rule:
   arch/pacman:
     cmd: 'git clone https://aur.archlinux.org/trizen.git \

@@ -8,6 +8,9 @@ x:
   apt: zfs-dkms
   dnf: -y
   apk: zfs
+  yum: -y
+  zypper: zfs
+  emerge: sys-fs/zfs
 rule:
   alpine/apk:
     cmd: apk add zfs zfs-lts

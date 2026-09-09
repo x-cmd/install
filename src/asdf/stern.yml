@@ -8,6 +8,8 @@ x:
   source: https://github.com/stern/stern
   eget: https://github.com/stern/stern
   brew: stern
+  go: github.com/stern/stern@latest
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget stern/stern

@@ -5,14 +5,19 @@ desc:
   cn: 纯文本记账工具，提供 CLI、TUI 和 Web 界面
   en: A plain text accounting tool that provides CLI, TUI, and web interfaces.
 x:
-  pkg:
-    exist: true
   source: https://github.com/simonmichael/hledger
   eget: https://github.com/simonmichael/hledger
   apt: hledger
   dnf: hledger
   brew: hledger
   apk: hledger
+  emerge: hledger
+  xbps: hledger
+  scoop: hledger
+  choco: hledger
+  winget: simonmichael.hledger
+  powershell: hledger
+  yay: hledger-bin
 rule:
   /eget:
     cmd: x eget simonmichael/hledger

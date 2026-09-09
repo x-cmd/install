@@ -10,6 +10,10 @@ x:
   dnf: ruby
   brew: chruby
   pacman: ruby
+  apt-get: ruby-full
+  zypper: -t
+  emerge: -av
+  gem: jekyll
 rule:
   darwin/gem:
     cmd: 'brew install chruby ruby-install xz \

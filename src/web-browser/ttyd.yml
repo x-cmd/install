@@ -5,12 +5,11 @@ desc:
   cn: ttyd 是一个简单的命令行工具，用于通过 Web 共享终端
   en: ttyd is a simple command-line tool for sharing terminal over the web
 x:
-  pkg:
-    exist: true
   source: https://github.com/tsl0922/ttyd
   eget: https://github.com/tsl0922/ttyd
   brew: ttyd
   apk: ttyd
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use ttyd

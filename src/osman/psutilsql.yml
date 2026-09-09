@@ -5,10 +5,9 @@ desc:
   cn: 使用 gopsutil 库检索信息并使用 SQL 对其进行处理
   en: Use the gopsutil library to retrieve information and process it with SQL
 x:
-  pkg:
-    exist: true
   source: https://github.com/noborus/psutilsql
   eget: https://github.com/noborus/psutilsql
+  yay: psutilsql-bin
 rule:
   /x:
     cmd: x pkg use psutilsql

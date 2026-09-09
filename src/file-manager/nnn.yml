@@ -12,6 +12,10 @@ x:
   brew: nnn
   pacman: nnn
   apk: nnn
+  apt-get: nnn
+  yum: nnn
+  zypper: nnn
+  emerge: -a
 rule:
   /eget:
     cmd: x eget jarun/nnn

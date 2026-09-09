@@ -8,6 +8,9 @@ x:
   source: https://github.com/stefanha/git-publish
   apt: git-publish
   dnf: git
+  apt-get: git-publish
+  yum: git-publish
+  yay: git-publish
 rule:
   debian/apt:
     cmd: sudo apt-get install git-publish

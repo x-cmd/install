@@ -6,6 +6,7 @@ desc:
   cn: Node.js 客户端调用 Tinify (压缩图像) API。
 x:
   source: https://github.com/tinify/tinify-nodejs
+  npm: tinify
 rule:
   /npm:
     cmd: npm install -g tinify

@@ -11,6 +11,10 @@ x:
   dnf: hstr
   brew: hstr
   apk: hstr
+  yum: hstr
+  port: hstr
+  emerge: app-shells/hstr
+  yay: hstr
 rule:
   /eget:
     cmd: x eget dvorka/hstr

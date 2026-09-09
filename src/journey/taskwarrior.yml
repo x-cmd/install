@@ -11,6 +11,10 @@ x:
   dnf: task
   brew: task
   pacman: task
+  apt-get: taskwarrior
+  yum: task
+  emerge: task
+  xbps: task
 rule:
   /eget:
     cmd: x eget GothenburgBitFactory/taskwarrior

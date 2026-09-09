@@ -8,6 +8,8 @@ x:
   source: https://github.com/crystal-lang/crystal
   eget: https://github.com/crystal-lang/crystal
   brew: crystal
+  scoop: vs_2022_cpp_build_tools
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget crystal-lang/crystal

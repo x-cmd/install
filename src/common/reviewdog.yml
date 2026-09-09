@@ -5,11 +5,12 @@ desc:
 homepage: https://github.com/reviewdog/reviewdog
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/reviewdog/reviewdog
   eget: https://github.com/reviewdog/reviewdog
   brew: reviewdog/tap/reviewdog
+  scoop: reviewdog
+  yay: reviewdog-bin
+  curl: curl
 rule:
   /x:
     cmd: x pkg use reviewdog

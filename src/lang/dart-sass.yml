@@ -8,6 +8,10 @@ x:
   source: https://github.com/sass/dart-sass
   eget: https://github.com/sass/dart-sass
   brew: node-sass
+  scoop: sass
+  choco: sass
+  powershell: sass
+  npm: sass
 rule:
   /eget:
     cmd: x eget sass/dart-sass

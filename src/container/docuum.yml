@@ -7,6 +7,9 @@ x:
   source: https://github.com/stepchowfun/docuum
   eget: https://github.com/stepchowfun/docuum
   brew: docuum
+  cargo: docuum
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget stepchowfun/docuum

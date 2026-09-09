@@ -6,6 +6,7 @@ desc:
   en: Build and deploy autonomous, self-improving multi-agent AI systems in 5 lines of code; Python/YAML framework with 100+ LLMs, MCP, deep research, and visual orchestration.
 x:
   source: https://github.com/MervinPraison/PraisonAI
+  pip: praisonai
 rule:
   /pip:
     cmd: pip install praisonai

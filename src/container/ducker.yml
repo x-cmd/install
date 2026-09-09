@@ -8,6 +8,7 @@ x:
   source: https://github.com/robertpsoane/ducker
   brew: ducker
   pacman: ducker
+  cargo: --locked
 rule:
   /cargo:
     cmd: cargo install --locked ducker

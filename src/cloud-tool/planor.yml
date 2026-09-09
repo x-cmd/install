@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/mrusme/planor
   eget: https://github.com/mrusme/planor
+  go: github.com/mrusme/planor@latest
 rule:
   /eget:
     cmd: x eget mrusme/planor

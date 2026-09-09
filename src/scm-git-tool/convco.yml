@@ -8,6 +8,7 @@ x:
   source: https://github.com/convco/convco
   eget: https://github.com/convco/convco
   brew: convco
+  cargo: convco
 rule:
   /eget:
     cmd: x eget convco/convco

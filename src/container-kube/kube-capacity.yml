@@ -5,11 +5,10 @@ desc:
   cn: 一个简单的命令行界面（CLI），用于提供 Kubernetes 集群中资源请求、限制和利用率的概览
   en: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 x:
-  pkg:
-    exist: true
   source: https://github.com/robscott/kube-capacity
   eget: https://github.com/robscott/kube-capacity
   brew: robscott/tap/kube-capacity
+  yay: kube-capacity-bin
 rule:
   /x:
     cmd: x pkg use kube-capacity

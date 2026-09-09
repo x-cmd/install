@@ -8,6 +8,10 @@ x:
   source: https://github.com/pvolok/mprocs
   eget: https://github.com/pvolok/mprocs
   brew: mprocs
+  scoop: mprocs
+  yay: mprocs
+  npm: mprocs
+  cargo: mprocs
 rule:
   /eget:
     cmd: x eget pvolok/mprocs

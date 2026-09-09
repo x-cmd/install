@@ -8,6 +8,8 @@ x:
   source: https://github.com/turbot/steampipe
   eget: https://github.com/turbot/steampipe
   brew: turbot/tap/steampipe
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget turbot/steampipe

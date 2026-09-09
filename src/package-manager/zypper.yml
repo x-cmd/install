@@ -7,6 +7,7 @@ x:
   source: https://github.com/openSUSE/zypper
   apt: zypper
   dnf: zypper
+  apt-get: zypper
 rule:
   debian/apt:
     cmd: sudo apt-get install zypper

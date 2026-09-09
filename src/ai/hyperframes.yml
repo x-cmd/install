@@ -6,6 +6,7 @@ desc:
   en: Render deterministic MP4 videos from HTML, CSS, and JavaScript animations using a CLI and agent-friendly framework.
 x:
   source: https://github.com/heygen-com/hyperframes
+  npm: hyperframes
 rule:
   /npm:
     cmd: npm install -g hyperframes

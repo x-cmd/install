@@ -6,6 +6,10 @@ desc:
   en: trashy is a simple, fast, and featureful alternative to rm and trash-cli written in rust
 x:
   source: https://github.com/oberblastmeister/trashy
+  nix: nixpkgs#trashy
+  yay: trashy
+  paru: trashy
+  cargo: trashy
 rule:
   /paru:
     cmd: sudo paru -S trashy

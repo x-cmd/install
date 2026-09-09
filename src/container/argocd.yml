@@ -8,6 +8,8 @@ x:
   source: https://github.com/argoproj/argo-cd
   eget: https://github.com/argoproj/argo-cd
   brew: argocd
+  scoop: argocd
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget argoproj/argo-cd

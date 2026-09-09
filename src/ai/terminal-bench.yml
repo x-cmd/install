@@ -6,6 +6,7 @@ desc:
   en: a benchmark for ai agents in terminal environments (requires git and Docker)
 x:
   source: https://github.com/laude-institute/terminal-bench
+  pip: terminal-bench
 rule:
   /uv:
     cmd: uv tool install terminal-bench

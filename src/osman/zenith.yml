@@ -5,12 +5,13 @@ desc:
   cn: 一个系统资源监控工具，用来监控 CPU、内存、硬盘、网络等系统资源
   en: A system resource monitoring tool that monitors system resources such as CPU, memory, hard disk, network, etc
 x:
-  pkg:
-    exist: true
   source: https://github.com/bvaisvil/zenith
   eget: https://github.com/bvaisvil/zenith
   brew: zenith
   pacman: zenith
+  deb-get: zenith
+  yay: zenith-git
+  curl: curl
 rule:
   /x:
     cmd: x pkg use zenith

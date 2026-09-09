@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Max-Levitskiy/DockBridge
   eget: https://github.com/Max-Levitskiy/DockBridge
+  curl: curl
 rule:
   /eget:
     cmd: x eget Max-Levitskiy/DockBridge

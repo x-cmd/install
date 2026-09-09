@@ -4,10 +4,11 @@ desc:
   cn: Amazon Web Services 的通用命令行界面
   en: Universal Command Line Interface for Amazon Web Services
 x:
-  pkg:
-    exist: true
   source: https://github.com/aws/aws-cli
   brew: awscli
+  scoop: aws
+  pip: awscli
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use awscli

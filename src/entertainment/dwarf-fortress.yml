@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Baystation12/Baystation12
   apt: dwarf-fortress
+  scoop: games/dwarf-fortress
 rule:
   (win|wsl2)/scoop:
     cmd: |

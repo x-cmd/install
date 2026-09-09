@@ -6,6 +6,7 @@ desc:
   en: Generates short-form videos from text prompts with automated voiceovers, captions, stock footage, and background music.
 x:
   source: https://github.com/gyoridavid/short-video-maker
+  npm: short-video-maker
 rule:
   /npm:
     cmd: npm install -g short-video-maker

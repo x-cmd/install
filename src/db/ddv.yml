@@ -8,6 +8,8 @@ x:
   source: https://github.com/Lusingander/ddv
   eget: https://github.com/Lusingander/ddv
   brew: lusingander/tap/ddv
+  yay: ddv
+  cargo: ddv
 rule:
   /eget:
     cmd: x eget Lusingander/ddv

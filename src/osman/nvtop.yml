@@ -9,6 +9,9 @@ x:
   dnf: nvtop
   pacman: nvtop
   snap: nvtop
+  zypper: nvtop
+  emerge: -av
+  yay: nvtop-git
 rule:
   debian/apt:
     cmd: sudo apt install nvtop

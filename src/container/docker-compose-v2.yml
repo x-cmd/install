@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/docker/compose
   eget: https://github.com/docker/compose
+  yay: docker-compose-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget docker/compose

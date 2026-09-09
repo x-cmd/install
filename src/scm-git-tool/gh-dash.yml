@@ -8,6 +8,13 @@ x:
   source: https://github.com/dlvhdr/gh-dash
   eget: https://github.com/dlvhdr/gh-dash
   brew: gh
+  port: gh
+  scoop: gh
+  choco: gh
+  winget: GitHub.cli
+  powershell: install
+  yay: gh-dash
+  curl: curl
 rule:
   /eget:
     cmd: x eget dlvhdr/gh-dash

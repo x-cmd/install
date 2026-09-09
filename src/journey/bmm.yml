@@ -8,6 +8,8 @@ x:
   source: https://github.com/dhth/bmm
   eget: https://github.com/dhth/bmm
   brew: dhth/tap/bmm
+  yay: bmm
+  cargo: bmm
 rule:
   /eget:
     cmd: x eget dhth/bmm

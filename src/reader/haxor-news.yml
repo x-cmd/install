@@ -4,9 +4,9 @@ desc:
   cn: 在命令行查看和过滤 Hacker News 的帖子、评论和链接的 Web 内容
   en: 'View and filter Hacker News from the command line: Posts, comments, and linked web content.'
 x:
-  pkg:
-    exist: true
   source: https://github.com/donnemartin/haxor-news
+  yay: haxor-news
+  pip: haxor-news
 rule:
   /x:
     cmd: x pkg use haxor-news

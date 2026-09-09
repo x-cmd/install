@@ -7,6 +7,9 @@ license: GPL-3.0
 x:
   source: https://github.com/dominikwilkowski/cfonts
   brew: cfonts
+  port: cfonts
+  yay: cfonts
+  cargo: cfonts
 rule:
   darwin/brew:
     cmd: brew install cfonts

@@ -6,6 +6,8 @@ desc:
   en: EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm
 x:
   source: https://github.com/edgedb/edgedb
+  scoop: edgedb
+  yay: edgedb-cli-bin
 rule:
   /curl:
     cmd: curl --proto '=https' --tlsv1.2 -sSf https://sh.edgedb.com | sh

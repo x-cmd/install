@@ -10,6 +10,11 @@ x:
   dnf: cointo
   brew: cointop
   snap: cointop
+  xbps: cointop
+  makepkg: makepkg
+  yay: cointop
+  go: github.com/cointop-sh/cointop@latest
+  git: git@github.com:benthosdev/benthos
 rule:
   /eget:
     cmd: x eget cointop-sh/cointop

@@ -8,6 +8,7 @@ x:
   source: https://github.com/facebook/folly
   eget: https://github.com/facebook/folly
   brew: folly
+  yay: folly
 rule:
   /eget:
     cmd: x eget facebook/folly

@@ -4,14 +4,14 @@ desc:
   cn: ncat 是一个功能丰富的网络实用程序，可从命令行跨网络读取和写入数据
   en: ncat is a feature-packed networking utility which reads and writes data across networks from the command line
 x:
-  pkg:
-    exist: true
   source: https://github.com/nmap/nmap
   apt: ncat
   dnf: nmap-ncat-2
   brew: nmap
   pacman: nmap
   apk: nmap
+  apt-get: ncat
+  yum: nmap-ncat-2
 rule:
   /x:
     cmd: x pkg use ncat

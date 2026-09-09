@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/guyfedwards/nom
   eget: https://github.com/guyfedwards/nom
+  go: github.com/guyfedwards/nom/cmd/nom@latest
 rule:
   /eget:
     cmd: x eget guyfedwards/nom

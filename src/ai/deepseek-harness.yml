@@ -6,6 +6,7 @@ desc:
   en: DeepSeek's open-source agent harness (dsh) with an "everything is a plugin" architecture powered by Cordis. Unifies profile boot, plugin management, and a browser UI that you can launch locally via npx.
 x:
   source: https://github.com/deepseek-ai/deepseek-harness
+  npm: "@deepseek-ai/dsh"
 rule:
   /npm:
     cmd: npm install -g @deepseek-ai/dsh

@@ -4,12 +4,14 @@ desc:
   en: In-depth comparison of files, archives, and directories.
 homepage: https://diffoscope.org/
 x:
-  pkg:
-    exist: true
   apt: diffoscope
   dnf: diffoscope
   brew: diffoscope
   pacman: diffoscope
+  zypper: diffoscope
+  yay: diffoscope-git
+  pip: diffoscope
+  git: https://salsa.debian.org/reproducible-builds/diffoscope.git
 rule:
   /x:
     cmd: x pkg use diffoscope

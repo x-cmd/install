@@ -8,6 +8,10 @@ x:
   source: https://github.com/loft-sh/devspace
   eget: https://github.com/loft-sh/devspace
   brew: devspace
+  scoop: devspace
+  yay: devspace-bin
+  npm: devspace
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget loft-sh/devspace

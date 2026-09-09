@@ -8,6 +8,8 @@ x:
   source: https://github.com/ollama/ollama
   eget: https://github.com/ollama/ollama
   brew: ollama
+  yay: ollama-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget ollama/ollama

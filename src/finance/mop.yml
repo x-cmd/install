@@ -6,6 +6,8 @@ desc:
   en: A command line tool that shows information on markets and individual stocks in the terminal.
 x:
   source: https://github.com/mop-tracker/mop
+  git: https://github.com/mop-tracker/mop
+  build: build
 rule:
   /go:
     cmd: 'git clone https://github.com/mop-tracker/mop && \

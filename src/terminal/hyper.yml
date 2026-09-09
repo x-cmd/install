@@ -8,6 +8,12 @@ x:
   source: https://github.com/vercel/hyper
   eget: https://github.com/vercel/hyper
   brew: --cask
+  scoop: extras/hyper
+  choco: hyper
+  winget: -e
+  powershell: hyper
+  yay: hyper-bin
+  paru: hyper
 rule:
   /eget:
     cmd: x eget vercel/hyper

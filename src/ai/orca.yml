@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/stablyai/orca
   brew: --cask
+  yay: stably-orca-bin
 rule:
   darwin/brew:
     cmd: brew install --cask stablyai/orca/orca

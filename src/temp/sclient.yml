@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/therootcompany/sclient
   eget: https://github.com/therootcompany/sclient
+  curl: curl
 rule:
   /eget:
     cmd: x eget therootcompany/sclient

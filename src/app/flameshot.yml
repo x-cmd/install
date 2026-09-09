@@ -12,6 +12,14 @@ x:
   brew: --cask
   pacman: flameshot
   snap: flameshot
+  zypper: flameshot
+  port: flameshot
+  scoop: extras/flameshot
+  choco: flameshot
+  winget: Flameshot.Flameshot
+  powershell: flameshot
+  flatpak: flathub
+  yay: flameshot
 rule:
   /eget:
     cmd: x eget flameshot-org/flameshot

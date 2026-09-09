@@ -9,6 +9,7 @@ x:
   apt: asn
   brew: asn
   apk: -X
+  yay: asn-git
 rule:
   darwin/brew:
     cmd: brew install asn

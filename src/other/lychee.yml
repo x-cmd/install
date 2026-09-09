@@ -10,6 +10,13 @@ x:
   brew: lychee
   pacman: lychee
   apk: lychee
+  zypper: lychee
+  port: lychee
+  scoop: lychee
+  choco: lychee
+  winget: -e
+  powershell: lychee
+  cargo: lychee
 rule:
   /eget:
     cmd: x eget lycheeverse/lychee

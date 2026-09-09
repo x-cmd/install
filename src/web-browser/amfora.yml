@@ -11,6 +11,12 @@ x:
   brew: amfora
   pacman: amfora
   apk: amfora
+  apt-get: amfora
+  zypper: amfora
+  port: amfora
+  emerge: amfora
+  scoop: amfora
+  yay: amfora-git
 rule:
   /eget:
     cmd: x eget makew0rld/amfora

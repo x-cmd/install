@@ -9,6 +9,9 @@ x:
   eget: https://github.com/ljh-sh/lhasa
   apt: lhasa
   brew: lhasa
+  zypper: lhasa
+  xbps: lhasa
+  yay: lhasa-git
 rule:
   /eget:
     cmd: x eget ljh-sh/lhasa

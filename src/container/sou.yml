@@ -8,6 +8,7 @@ x:
   source: https://github.com/knqyf263/sou
   eget: https://github.com/knqyf263/sou
   brew: knqyf263/sou/sou
+  go: github.com/knqyf263/sou@latest
 rule:
   /eget:
     cmd: x eget knqyf263/sou

@@ -6,6 +6,7 @@ desc:
   en: Text-based interface for the Transmission BitTorrent daemon.
 x:
   source: https://github.com/anlar/tewi
+  pip: tewi-transmission
 rule:
   /pip:
     cmd: pip install tewi-transmission

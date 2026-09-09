@@ -4,8 +4,8 @@ desc:
   cn: 在终端中渲染 Mermaid 图表
   en: Render Mermaid graphs inside your terminal
 x:
-  pkg:
-    exist: true
+  yay: mermaid-ascii-git
+  curl: curl
 rule:
   /x:
     cmd: x pkg use mermaid-ascii

@@ -8,6 +8,7 @@ x:
   source: https://github.com/ArthurSonzogni/Diagon
   eget: https://github.com/ArthurSonzogni/Diagon
   snap: diagon
+  yay: diagon-bin
 rule:
   /eget:
     cmd: x eget ArthurSonzogni/Diagon

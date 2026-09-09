@@ -6,6 +6,7 @@ desc:
   en: Google hosts generator
 x:
   source: https://github.com/txthinking/google-hosts
+  git: https://github.com/txthinking/google-hosts.git
 rule:
   /git:
     cmd: git clone https://github.com/txthinking/google-hosts.git

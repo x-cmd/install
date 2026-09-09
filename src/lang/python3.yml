@@ -10,6 +10,8 @@ x:
   brew: python3
   pacman: python3
   apk: python3
+  apt-get: python3
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use python

@@ -6,6 +6,7 @@ desc:
   en: ByteRover CLI (brv) - The portable memory layer for autonomous coding agents (formerly Cipher)
 x:
   source: https://github.com/campfirein/byterover-cli
+  npm: byterover-cli
 rule:
   /npm:
     cmd: npm install -g byterover-cli

@@ -6,6 +6,7 @@ desc:
   en: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 x:
   source: https://github.com/browser-use/browser-use
+  pip: browser-use
 rule:
   /pip:
     cmd: pip install browser-use

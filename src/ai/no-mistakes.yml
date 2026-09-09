@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kunchenguid/no-mistakes
   eget: https://github.com/kunchenguid/no-mistakes
+  go: github.com/kunchenguid/no-mistakes@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget use kunchenguid/no-mistakes

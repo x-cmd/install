@@ -6,6 +6,8 @@ desc:
   en: Convert config files between different API versions
 x:
   source: https://github.com/kubernetes/kubectl
+  yay: kubectl-convert-bin
+  asdf: asdf
 rule:
   arch/yay:
     cmd: yay -S kubectl-convert-bin

@@ -8,6 +8,8 @@ x:
   source: https://github.com/dhth/hours
   eget: https://github.com/dhth/hours
   brew: dhth/tap/hours
+  yay: hours
+  go: github.com/dhth/hours@latest
 rule:
   /eget:
     cmd: x eget dhth/hours

@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/iterate-ch/cyberduck
   brew: duck
+  port: duck
+  choco: duck
+  powershell: duck
+  yay: duck
 rule:
   darwin/brew:
     cmd: brew install duck

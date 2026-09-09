@@ -9,6 +9,10 @@ x:
   eget: https://github.com/budimanjojo/talhelper
   brew: talhelper
   pacman: talhelper
+  scoop: talhelper
+  yay: talhelper-bin
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget budimanjojo/talhelper

@@ -5,11 +5,11 @@ desc:
   cn: 在终端中与 Obsidian 交互。打开、搜索、创建、更新、移动和删除笔记
   en: Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes
 x:
-  pkg:
-    exist: true
   source: https://github.com/Yakitrak/obsidian-cli
   eget: https://github.com/Yakitrak/obsidian-cli
   brew: yakitrak/yakitrak/obs
+  scoop: obs
+  yay: obsidian-cli-git
 rule:
   /eget:
     cmd: x eget Yakitrak/obsidian-cli

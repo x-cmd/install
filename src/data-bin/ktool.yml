@@ -6,6 +6,7 @@ desc:
   en: MachO/ObjC Analysis + Editing toolkit.
 x:
   source: https://github.com/0cyn/ktool
+  pip: k2l
 rule:
   /pip:
     cmd: pip3 install k2l

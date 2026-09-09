@@ -5,14 +5,20 @@ desc:
   cn: watchexec 是一个简单的独立工具，可以监视路径并在检测到修改时运行命令
   en: watchexec is a simple, standalone tool that watches a path and runs a command whenever it detects modifications
 x:
-  pkg:
-    exist: true
   source: https://github.com/watchexec/watchexec
   eget: https://github.com/watchexec/watchexec
   apt: watchexec-cli
   brew: watchexec
   pacman: watchexec
   apk: watchexec
+  zypper: watchexec
+  emerge: -av
+  xbps: watchexec
+  scoop: watchexec
+  choco: watchexec
+  powershell: watchexec
+  cargo: --locked
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use watchexec

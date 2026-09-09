@@ -11,6 +11,11 @@ x:
   dnf: tektoncd-cli
   brew: tektoncd-cli
   pacman: tekton-cli
+  scoop: tektoncd-cli
+  choco: tektoncd-cli
+  powershell: tektoncd-cli
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget tektoncd/cli

@@ -10,6 +10,9 @@ x:
   dnf: weechat
   brew: weechat
   pacman: weechat
+  apt-get: weechat-curses
+  zypper: weechat
+  emerge: weechat
 rule:
   arch/pacman:
     cmd: sudo pacman -S weechat

@@ -5,11 +5,10 @@ desc:
   cn: hygen 是简单、快速、可扩展的代码生成器，它存在于您的项目中。
 lang: JavaScript
 x:
-  pkg:
-    exist: true
   source: https://github.com/jondot/hygen
   eget: https://github.com/jondot/hygen
   brew: hygen
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use hygen

@@ -8,6 +8,8 @@ x:
   source: https://github.com/Doctave/doctave
   eget: https://github.com/Doctave/doctave
   brew: doctave/doctave/doctave
+  yay: doctave
+  cargo: --git
 rule:
   /eget:
     cmd: x eget Doctave/doctave

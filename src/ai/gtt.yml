@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/eeeXun/GTT
   eget: https://github.com/eeeXun/GTT
+  yay: gtt-bin
+  go: -ldflags="-s
 rule:
   /eget:
     cmd: x eget eeeXun/GTT

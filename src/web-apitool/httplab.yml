@@ -6,6 +6,7 @@ desc:
   en: An interactive web server for inspecting HTTP requests and mocking their responses in the terminal.
 x:
   source: https://github.com/qustavo/httplab
+  go: github.com/gchaincl/httplab/cmd/httplab@latest
 rule:
   arch/yaourt:
     cmd: yaourt httplab

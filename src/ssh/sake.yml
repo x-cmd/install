@@ -9,6 +9,9 @@ x:
   eget: https://github.com/alajmo/sake
   brew: sake
   pacman: sake
+  port: sake
+  go: github.com/alajmo/sake@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget alajmo/sake

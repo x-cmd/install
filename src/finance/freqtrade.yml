@@ -6,6 +6,7 @@ desc:
   en: Develop, backtest, and deploy automated cryptocurrency trading bots using Python and machine learning.
 x:
   source: https://github.com/freqtrade/freqtrade
+  pip: freqtrade
 rule:
   /pip:
     cmd: pip install freqtrade

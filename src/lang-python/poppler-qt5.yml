@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/frescobaldi/python-poppler-qt5
   brew: poppler-qt5
+  yay: poppler-qt5-git
 rule:
   darwin/brew:
     cmd: brew install poppler-qt5

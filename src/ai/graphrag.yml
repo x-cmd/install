@@ -6,6 +6,7 @@ desc:
   en: A modular graph-based Retrieval-Augmented Generation (RAG) system
 x:
   source: https://github.com/microsoft/graphrag
+  pip: graphrag
 rule:
   /pip:
     cmd: pip install graphrag

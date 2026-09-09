@@ -9,6 +9,7 @@ x:
   eget: https://github.com/ynqa/sig
   brew: ynqa/tap/sigrs
   pacman: sig
+  cargo: sigrs
 rule:
   /eget:
     cmd: x eget ynqa/sig

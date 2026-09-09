@@ -8,6 +8,7 @@ x:
   source: https://github.com/FairwindsOps/pluto
   eget: https://github.com/FairwindsOps/pluto
   brew: pluto
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget FairwindsOps/pluto

@@ -5,11 +5,10 @@ desc:
   cn: 用于转换和检查 PDF 文件的工具
   en: Tools for and transforming and inspecting PDF files
 x:
-  pkg:
-    exist: true
   source: https://github.com/qpdf/qpdf
   eget: https://github.com/qpdf/qpdf
   brew: qpdf
+  scoop: qpdf
 rule:
   /x:
     cmd: x pkg use qpdf

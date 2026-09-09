@@ -6,6 +6,7 @@ desc:
   en: Create MP4 videos programmatically using React components, CSS, and other web technologies.
 x:
   source: https://github.com/remotion-dev/remotion
+  npm: remotion
 rule:
   /npm:
     cmd: npm install -g remotion

@@ -8,6 +8,13 @@ x:
   apt: ./docker-desktop-amd64.deb
   dnf: ./docker-desktop-x86_64.rpm
   brew: --cask
+  apt-get: ./docker-desktop-amd64.deb
+  scoop: main/docker
+  choco: docker-desktop
+  winget: -e
+  powershell: docker-desktop
+  curl: curl
+  wget: wget
 rule:
   darwin/brew:
     cmd: brew install --cask docker

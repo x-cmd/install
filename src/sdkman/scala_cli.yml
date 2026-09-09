@@ -10,6 +10,13 @@ x:
   apt: scala-cli
   dnf: scala-cli
   brew: Virtuslab/scala-cli/scala-cli
+  yum: scala-cli
+  scoop: scala-cli
+  choco: scala-cli
+  winget: virtuslab.scalacli
+  powershell: scala-cli
+  yay: scala-cli
+  curl: curl
 rule:
   /eget:
     cmd: x eget VirtusLab/scala-cli

@@ -8,6 +8,7 @@ x:
   source: https://github.com/dhth/act3
   eget: https://github.com/dhth/act3
   brew: dhth/tap/act3
+  go: github.com/dhth/act3@latest
 rule:
   /eget:
     cmd: x eget dhth/act3

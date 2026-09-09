@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/aome510/hackernews-TUI
   eget: https://github.com/aome510/hackernews-TUI
+  yay: hackernews_tui'
+  cargo: hackernews_tui
 rule:
   /cargo:
     cmd: 'cargo install hackernews_tui --locked'

@@ -4,8 +4,6 @@ desc:
   cn: 7za 是一个开源的文件压缩和解压工具，是 7-Zip 的命令行版本
   en: 7za is an open-source file compression and decompression tool, which is a command-line version of 7-Zip
 x:
-  pkg:
-    exist: true
   source: https://github.com/ip7z/7zip
   eget: https://github.com/ip7z/7zip
   apt: p7zip-full
@@ -13,6 +11,7 @@ x:
   brew: p7zip
   pacman: p7zip
   apk: p7zip
+  apt-get: p7zip-full
 rule:
   /x:
     cmd: x pkg use 7za

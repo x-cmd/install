@@ -8,6 +8,7 @@ x:
   source: https://github.com/ravachol/kew
   apt: kew
   brew: kew
+  curl: curl
 rule:
   debian/apt:
     cmd: sudo apt install kew

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kubevela/velad
   eget: https://github.com/kubevela/velad
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget kubevela/velad

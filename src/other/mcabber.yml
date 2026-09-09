@@ -11,6 +11,7 @@ x:
   brew: mcabber
   pacman: mcabber
   apk: mcabber
+  apt-get: mcabber
 rule:
   /eget:
     cmd: x eget McKael/mcabber

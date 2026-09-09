@@ -5,11 +5,14 @@ desc:
   cn: 用于从 YouTube.com 和其他视频网站下载视频的命令行程序
   en: Command-line program to download videos from YouTube.com and other video sites
 x:
-  pkg:
-    exist: true
   source: https://github.com/ytdl-org/youtube-dl
   eget: https://github.com/ytdl-org/youtube-dl
   brew: youtube-dl
+  port: youtube-dl
+  yay: youtube-dl
+  pip: --upgrade
+  curl: curl
+  wget: wget
 rule:
   /eget:
     cmd: x eget ytdl-org/youtube-dl

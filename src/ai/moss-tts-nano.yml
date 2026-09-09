@@ -6,6 +6,7 @@ desc:
   en: MOSS-TTS-Nano is a 0.1B parameter, open-source multilingual text-to-speech model from MOSI.AI and the OpenMOSS team using a pure autoregressive (Audio Tokenizer + LLM) pipeline; 48 kHz stereo, streaming on a 4-core CPU, 20 languages and zero-shot voice cloning.
 x:
   source: https://github.com/OpenMOSS/MOSS-TTS-Nano
+  git: OpenMOSS/MOSS-TTS-Nano
 rule:
   /git:
     cmd: x git clone OpenMOSS/MOSS-TTS-Nano

@@ -6,6 +6,7 @@ desc:
   en: Autonomous agent for deep financial research — a Claude Code for finance. Written in TypeScript and run on Bun, Dexter turns complex queries into step-by-step plans, picks the right financial-data APIs (real-time income statements, cash flow, balance sheets), self-validates results, and refines until it produces a confident, data-backed answer.
 x:
   source: https://github.com/virattt/dexter
+  git: https://github.com/virattt/dexter.git
 rule:
   /git:
     cmd: |

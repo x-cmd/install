@@ -5,14 +5,20 @@ desc:
   cn: 下一代 ls 命令
   en: The next gen ls command
 x:
-  pkg:
-    exist: true
   source: https://github.com/lsd-rs/lsd
   eget: https://github.com/lsd-rs/lsd
   apt: lsd
   dnf: lsd
   brew: lsd
   pacman: lsd
+  zypper: lsd
+  port: lsd
+  emerge: sys-apps/lsd
+  xbps: lsd
+  scoop: lsd
+  winget: lsd-rs.lsd
+  powershell: install
+  cargo: lsd
 rule:
   /x:
     cmd: x pkg use lsd

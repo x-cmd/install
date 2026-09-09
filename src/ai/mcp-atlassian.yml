@@ -6,6 +6,7 @@ desc:
   en: MCP server for Atlassian tools (Confluence, Jira)
 x:
   source: https://github.com/sooperset/mcp-atlassian
+  pip: mcp-atlassian
 rule:
   /pip:
     cmd: pip install mcp-atlassian

@@ -5,6 +5,7 @@ desc:
   en: CoAP-CLI is a command line interface for CoAP, built on node.js and node-coap
 x:
   source: https://github.com/coapjs/coap-cli
+  npm: coap-cli
 rule:
   /npm:
     cmd: npm install coap-cli -g

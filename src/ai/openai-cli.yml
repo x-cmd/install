@@ -6,6 +6,7 @@ desc:
   en: Command-line client for OpenAI APIs
 x:
   source: https://github.com/peterdemin/openai-cli
+  pip: openai-cli
 rule:
   /pip:
     cmd: pip install openai-cli

@@ -6,6 +6,7 @@ desc:
   en: Automates machine learning development by researching, writing, and shipping code using the Hugging Face ecosystem via a command-line interface.
 x:
   source: https://github.com/huggingface/ml-intern
+  pip: ml-intern
 rule:
   /pip:
     cmd: pip install ml-intern

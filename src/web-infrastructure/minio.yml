@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/minio/minio
   brew: minio/stable/minio
+  yay: minio
+  pip: minio
+  npm: --save
 rule:
   darwin/brew:
     cmd: 'brew install minio/stable/minio && \

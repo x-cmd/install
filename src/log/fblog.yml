@@ -8,6 +8,8 @@ x:
   source: https://github.com/brocode/fblog
   eget: https://github.com/brocode/fblog
   brew: fblog
+  yay: fblog
+  cargo: fblog
 rule:
   /eget:
     cmd: x eget brocode/fblog

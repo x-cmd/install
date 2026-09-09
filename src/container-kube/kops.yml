@@ -8,6 +8,9 @@ x:
   source: https://github.com/kubernetes/kops
   eget: https://github.com/kubernetes/kops
   brew: kops
+  yay: kops-bin
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget kubernetes/kops

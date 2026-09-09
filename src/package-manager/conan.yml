@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/conan-io/conan
   eget: https://github.com/conan-io/conan
+  yay: conan-bin
+  pip: conan
 rule:
   /eget:
     cmd: x eget conan-io/conan

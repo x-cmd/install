@@ -5,9 +5,9 @@ desc:
   cn: 用于将文件和办公文档转换为 Markdown 的 Python 工具
   en: Python tool for converting files and office documents to Markdown.
 x:
-  pkg:
-    exist: true
   source: https://github.com/microsoft/markitdown
+  yay: python-markitdown-git
+  pip: 'markitdown[all]'
 rule:
   /x:
     cmd: x pkg use markitdown

@@ -8,6 +8,8 @@ x:
   source: https://github.com/thetacom/hexabyte
   eget: https://github.com/thetacom/hexabyte
   pacman: hexabyte
+  yay: hexabyte
+  pip: hexabyte
 rule:
   /eget:
     cmd: x eget thetacom/hexabyte

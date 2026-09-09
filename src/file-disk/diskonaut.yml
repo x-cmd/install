@@ -8,6 +8,7 @@ x:
   source: https://github.com/imsnif/diskonaut
   dnf: diskonaut
   brew: diskonaut
+  cargo: diskonaut
 rule:
   /cargo:
     cmd: cargo install diskonaut

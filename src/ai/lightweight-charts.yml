@@ -6,6 +6,7 @@ desc:
   en: TradingView's lightweight, high-performance financial charting library for interactive candlestick, line, and area charts on HTML5 canvas.
 x:
   source: https://github.com/tradingview/lightweight-charts
+  npm: lightweight-charts
 rule:
   /npm:
     cmd: npm install lightweight-charts

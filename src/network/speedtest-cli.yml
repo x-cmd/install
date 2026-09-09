@@ -5,14 +5,17 @@ desc:
   cn: 使用 speedtest.net 测试互联网带宽的命令行界面
   en: Command line interface for testing internet bandwidth using speedtest.net
 x:
-  pkg:
-    exist: true
   source: https://github.com/sivel/speedtest-cli
   apt: speedtest-cli
   dnf: speedtest-cli
   brew: speedtest-cli
   pacman: speedtest-cli
   apk: speedtest-cli
+  apt-get: speedtest-cli
+  choco: speedtest-cli
+  powershell: speedtest-cli
+  yay: speedtest-cli-git
+  pip: speedtest-cli
 rule:
   /x:
     cmd: x pkg use speedtest-cli

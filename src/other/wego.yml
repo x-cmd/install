@@ -6,6 +6,8 @@ homepage: https://github.com/schachmat/wego
 license: ISC
 x:
   source: https://github.com/schachmat/wego
+  yay: wego
+  go: github.com/schachmat/wego@latest
 rule:
   /go:
     cmd: go install github.com/schachmat/wego@latest

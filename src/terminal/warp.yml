@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/warpdotdev/Warp
   brew: --cask
+  winget: Warp.Warp
+  powershell: install
 rule:
   darwin/brew:
     cmd: brew install --cask warp

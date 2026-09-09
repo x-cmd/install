@@ -6,6 +6,7 @@ desc:
   en: A CLI that writes your git commit messages for you with AI
 x:
   source: https://github.com/Nutlope/aicommits
+  npm: aicommits
 rule:
   /npm:
     cmd: npm install -g aicommits

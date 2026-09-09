@@ -6,6 +6,7 @@ desc:
   cn: 命令行密码生成器
 x:
   source: https://github.com/ctsrc/Pgen
+  cargo: pgen
 rule:
   /cargo:
     cmd: cargo install pgen

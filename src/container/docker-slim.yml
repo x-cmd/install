@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/docker-slim/docker-slim
   brew: docker-slim
+  yay: docker-slim-bin
+  asdf: asdf
+  curl: curl
 rule:
   /asdf:
     cmd: x asdf use docker-slim

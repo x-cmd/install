@@ -6,6 +6,8 @@ desc:
   en: Bottles is an application that allows you to easily manage Windows prefixes on your favorite Linux distribution.
 x:
   source: https://github.com/bottlesdevs/Bottles
+  flatpak: flathub
+  yay: bottles
 rule:
   /flatpak:
     cmd: flatpak install flathub com.usebottles.bottles

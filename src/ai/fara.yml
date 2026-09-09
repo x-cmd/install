@@ -6,6 +6,7 @@ desc:
   en: Automates web tasks by visually perceiving webpages and controlling the computer's mouse and keyboard to execute multi-step actions.
 x:
   source: https://github.com/microsoft/fara
+  pip: fara
 rule:
   /pip:
     cmd: pip install fara

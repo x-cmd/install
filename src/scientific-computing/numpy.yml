@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/numpy/numpy
   eget: https://github.com/numpy/numpy
+  pip: numpy
 rule:
   /eget:
     cmd: x eget numpy/numpy

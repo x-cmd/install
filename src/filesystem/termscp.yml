@@ -5,11 +5,11 @@ desc:
   cn: termscp 是一个功能丰富的终端文件传输和浏览器，支持 SCP/SFTP/FTP/S3
   en: Termscp is a feature rich terminal file transfer and explorer, with support for SCP/SFTP/FTP/S3
 x:
-  pkg:
-    exist: true
   source: https://github.com/veeso/termscp
   eget: https://github.com/veeso/termscp
   pacman: termscp
+  choco: termscp
+  powershell: termscp
 rule:
   /x:
     cmd: x pkg use termscp

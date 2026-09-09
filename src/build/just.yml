@@ -5,8 +5,6 @@ desc:
   cn: just 是保存和运行项目特定命令的便捷方法
   en: just is a handy way to save and run project-specific commands
 x:
-  pkg:
-    exist: true
   source: https://github.com/casey/just
   eget: https://github.com/casey/just
   apt: just
@@ -15,6 +13,16 @@ x:
   pacman: just
   apk: just
   snap: --edge
+  port: just
+  emerge: --sync
+  xbps: just
+  eopkg: just
+  scoop: just
+  choco: just
+  powershell: just
+  cargo: just
+  asdf: asdf
+  git: https://mpr.makedeb.org/just
 rule:
   /x:
     cmd: x pkg use just
@@ -57,13 +65,13 @@ rule:
     cmd: sudo dnf install just
     reference: https://just.systems/man/zh/chapter_4.html
   gentoo/emerge:
-    cmd: 'eselect repository enable guru && \
+    cmd: "eselect repository enable guru && \
 
       emerge --sync guru && \
 
       emerge sys-devel/just
 
-      '
+      "
     reference: https://just.systems/man/zh/chapter_4.html
   /conda:
     cmd: conda install -c conda-forge just
@@ -78,7 +86,7 @@ rule:
     cmd: x asdf use just
     reference: https://github.com/olofvndrhr/asdf-just
   debian/make:
-    cmd: 'git clone ''https://mpr.makedeb.org/just'' && \
+    cmd: 'git clone https://mpr.makedeb.org/just && \
 
       cd just && \
 
@@ -87,7 +95,7 @@ rule:
       '
     reference: https://just.systems/man/zh/chapter_4.html
   ubuntu/make:
-    cmd: 'git clone ''https://mpr.makedeb.org/just'' && \
+    cmd: 'git clone https://mpr.makedeb.org/just && \
 
       cd just && \
 

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/savedra1/clipse
   eget: https://github.com/savedra1/clipse
+  yay: clipse
+  go: github.com/savedra1/clipse@v1.1.0
 rule:
   /eget:
     cmd: x eget savedra1/clipse

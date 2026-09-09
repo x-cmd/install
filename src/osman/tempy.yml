@@ -6,6 +6,8 @@ desc:
   cn: 在终端中显示一个简洁且美观的天气预报
 x:
   source: https://github.com/noprobelm/tempy
+  yay: tempy
+  pip: git+https://github.com/noprobelm/tempy
 rule:
   /pip:
     cmd: pip install git+https://github.com/noprobelm/tempy

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/steipete/Markdansi
   eget: https://github.com/steipete/Markdansi
+  npm: markdansi
 rule:
   /npm:
     cmd: npm install -g markdansi

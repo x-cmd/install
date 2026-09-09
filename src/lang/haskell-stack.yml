@@ -7,6 +7,7 @@ x:
   source: https://github.com/commercialhaskell/stack
   eget: https://github.com/commercialhaskell/stack
   brew: haskell-stack
+  yay: stack-bin
 rule:
   /eget:
     cmd: x eget commercialhaskell/stack

@@ -10,6 +10,7 @@ x:
   brew: igrep
   pacman: igrep
   apk: igrep
+  scoop: igrep
 rule:
   /eget:
     cmd: x eget konradsz/igrep

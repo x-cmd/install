@@ -10,6 +10,10 @@ x:
   brew: elinks
   pacman: elinks
   apk: elinks
+  apt-get: elinks
+  yum: elinks
+  zypper: elinks
+  yay: elinks-git
 rule:
   darwin/brew:
     cmd: brew install elinks

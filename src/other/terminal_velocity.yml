@@ -6,6 +6,7 @@ desc:
   en: (Archived) A fast, cross-platform note-taking application for the UNIX terminal, inspired by Notational Velocity.
 x:
   source: https://github.com/vhp/terminal_velocity
+  pip: terminal_velocity
 rule:
   /pip:
     cmd: pip install terminal_velocity

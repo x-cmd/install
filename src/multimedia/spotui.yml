@@ -6,6 +6,7 @@ desc:
   en: spotui is Spotify in the terminal.
 x:
   source: https://github.com/ceuk/spotui
+  pip: spotui
 rule:
   /pip:
     cmd: pip install spotui

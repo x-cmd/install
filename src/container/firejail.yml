@@ -11,6 +11,9 @@ x:
   dnf: firejail
   pacman: firejail
   apk: firejail
+  apt-get: firejail
+  yum: firejail
+  zypper: firejail
 rule:
   /eget:
     cmd: x eget netblue30/firejail

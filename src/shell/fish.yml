@@ -11,6 +11,13 @@ x:
   brew: fish
   pacman: fish
   apk: fish
+  apt-get: fish
+  zypper: fish
+  port: fish
+  emerge: fish
+  xbps: fish-shell
+  eopkg: fish
+  guix: fish
 rule:
   /eget:
     cmd: x eget fish-shell/fish-shell

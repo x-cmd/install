@@ -10,6 +10,7 @@ x:
   dnf: calcurse
   brew: calcurse
   pacman: calcurse
+  yay: calcurse-git
 rule:
   darwin/brew:
     cmd: brew install calcurse

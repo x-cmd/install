@@ -7,6 +7,11 @@ x:
   source: https://github.com/icons8/lunacy
   brew: --cask
   snap: lunacy
+  scoop: extras/lunacy
+  choco: lunacy
+  winget: Icons8.Lunacy
+  powershell: lunacy
+  flatpak: flathub
 rule:
   (win|wsl2)/scoop:
     cmd: x scoop bucket add extras && x scoop install extras/lunacy

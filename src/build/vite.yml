@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/vitejs/vite
   brew: vite
+  npm: vite
 rule:
   /npm:
     cmd: npm install -g vite

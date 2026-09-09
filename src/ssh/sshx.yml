@@ -8,6 +8,8 @@ x:
   source: https://github.com/ekzhang/sshx
   eget: https://github.com/ekzhang/sshx
   brew: sshx
+  cargo: --git
+  curl: curl
 rule:
   /eget:
     cmd: x eget ekzhang/sshx

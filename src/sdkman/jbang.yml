@@ -9,6 +9,12 @@ x:
   eget: https://github.com/jbangdev/jbang
   dnf: jbang
   brew: jbangdev/tap/jbang
+  scoop: jbang
+  choco: jbang
+  powershell: jbang
+  yay: jbang
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget jbangdev/jbang

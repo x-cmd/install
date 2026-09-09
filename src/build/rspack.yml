@@ -6,6 +6,7 @@ desc:
   en: A fast Rust-based web bundler
 x:
   source: https://github.com/web-infra-dev/rspack
+  npm: "@rspack/cli"
 rule:
   /npm:
     cmd: npm install -g @rspack/cli

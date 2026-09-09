@@ -4,13 +4,14 @@ desc:
   cn: 一个多功能的网络工具
   en: A versatile web tool
 x:
-  pkg:
-    exist: true
   apt: socat
   dnf: socat
   brew: socat
   pacman: socat
   apk: socat
+  apt-get: socat
+  yum: socat
+  yay: socat-git
 rule:
   /x:
     cmd: x pkg use socat

@@ -9,6 +9,9 @@ x:
   eget: https://github.com/OpenSCAP/scap-workbench
   apt: scap-workbench
   dnf: scap-workbench
+  apt-get: scap-workbench
+  yum: scap-workbench
+  yay: scap-workbench
 rule:
   /eget:
     cmd: x eget OpenSCAP/scap-workbench

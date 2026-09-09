@@ -6,6 +6,7 @@ desc:
   en: an automated tool that transforms documentation websites, GitHub repositories, and PDF files into production-ready Claude AI skills.
 x:
   source: https://github.com/yusufkaraaslan/Skill_Seekers
+  pip: 'skill-seekers[all-llms]'
 rule:
   /pip:
     cmd: pip install 'skill-seekers[all-llms]'

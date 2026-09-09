@@ -4,8 +4,8 @@ desc:
   en: Gitea Actions runner
   cn: 运行 Gitea Actions
 x:
-  pkg:
-    exist: true
+  yay: act-runner-bin
+  git: https://gitea.com/gitea/act_runner.git
 rule:
   /x:
     cmd: x pkg use act_runner

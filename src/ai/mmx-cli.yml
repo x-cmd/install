@@ -6,6 +6,7 @@ desc:
   en: The official CLI for the MiniMax AI Platform, supporting text chat, image generation, video generation, speech synthesis, music creation, vision understanding, and web search
 x:
   source: https://github.com/MiniMax-AI/cli
+  npm: mmx-cli
 rule:
   /npm:
     cmd: npm install -g mmx-cli

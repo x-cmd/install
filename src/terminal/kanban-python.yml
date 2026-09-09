@@ -5,9 +5,8 @@ desc:
   cn: 用 Python 编写的终端看板应用程序，可提高您的工作效率🚀
   en: A Terminal Kanban Application written in Python to boost your productivity 🚀
 x:
-  pkg:
-    exist: true
   source: https://github.com/Zaloog/kanban-python
+  pip: kanban-python
 rule:
   /x:
     cmd: x pkg use kanban-python

@@ -8,6 +8,10 @@ x:
   source: https://github.com/pdm-project/pdm
   eget: https://github.com/pdm-project/pdm
   brew: pdm
+  scoop: pdm
+  pip: --user
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget pdm-project/pdm

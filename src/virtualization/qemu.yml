@@ -9,6 +9,12 @@ x:
   dnf: qemu-kvm
   brew: qemu
   pacman: qemu
+  apt-get: qemu-system
+  yum: qemu-kvm
+  zypper: qemu
+  port: qemu
+  emerge: app-emulation/qemu
+  yay: qemu-git
 rule:
   darwin/brew:
     cmd: brew install qemu

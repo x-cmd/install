@@ -6,6 +6,8 @@ desc:
   en: The uploader of domestic video website, use to upload video in bulk
 x:
   source: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader
+  pip: -r
+  git: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader.git
 rule:
   /pip:
     cmd: 'git clone https://github.com/aceliuchanghong/bili_douyin_xhs_uploader.git \

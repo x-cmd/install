@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/driscollis/squall
   eget: https://github.com/driscollis/squall
+  pip: squall-sql'
 rule:
   /pip:
     cmd: 'pip install squall-sql'

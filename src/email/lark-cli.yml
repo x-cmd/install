@@ -5,9 +5,9 @@ desc:
   cn: 飞书/Lark 开放平台命令行工具
   en: A command-line tool for Lark/Feishu Open Platform
 x:
-  pkg:
-    exist: true
   source: https://github.com/larksuite/cli
+  yay: lark-cli-bin
+  npm: "@larksuite/cli"
 rule:
   /x:
     cmd: x pkg use lark-cli

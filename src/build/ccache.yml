@@ -7,6 +7,10 @@ x:
   source: https://github.com/ccache/ccache
   eget: https://github.com/ccache/ccache
   brew: ccache
+  scoop: ccache
+  choco: ccache
+  powershell: ccache
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget ccache/ccache

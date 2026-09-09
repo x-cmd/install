@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/kivikakk/comrak
   eget: https://github.com/kivikakk/comrak
+  yay: comrak
+  curl: curl
 rule:
   /eget:
     cmd: x eget kivikakk/comrak

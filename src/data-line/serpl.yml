@@ -9,6 +9,8 @@ x:
   eget: https://github.com/yassinebridi/serpl
   brew: serpl
   pacman: serpl
+  nix: nixpkgs#serpl
+  cargo: serpl
 rule:
   /eget:
     cmd: x eget yassinebridi/serpl

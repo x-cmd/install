@@ -9,6 +9,13 @@ x:
   eget: https://github.com/charmbracelet/melt
   apt: melt
   brew: charmbracelet/tap/melt
+  scoop: melt
+  yay: melt-bin
+  go: github.com/charmbracelet/melt/cmd/melt@latest
+  asdf: asdf
+  curl: curl
+  git: https://github.com/charmbracelet/melt.git
+  build: build
 rule:
   /eget:
     cmd: x eget charmbracelet/melt

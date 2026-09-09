@@ -8,6 +8,13 @@ x:
   source: https://github.com/raphamorim/rio
   eget: https://github.com/raphamorim/rio
   brew: --cask
+  zypper: rioterm
+  port: rio
+  xbps: rio
+  choco: rio-terminal
+  winget: -e
+  powershell: rio-terminal
+  cargo: rioterm
 rule:
   /eget:
     cmd: x eget raphamorim/rio

@@ -8,6 +8,11 @@ x:
   source: https://github.com/hrkfdn/ncspot
   eget: https://github.com/hrkfdn/ncspot
   brew: ncspot
+  scoop: main/ncspot
+  winget: hrkfdn.ncspot
+  powershell: install
+  yay: ncspot-git
+  cargo: ncspot
 rule:
   /eget:
     cmd: x eget hrkfdn/ncspot

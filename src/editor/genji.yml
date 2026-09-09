@@ -6,6 +6,7 @@ desc:
   en: Markdown Genji is the markdown extension for authoring interactive documents
 x:
   source: https://github.com/genjidb/genji
+  npm: genji-theme-vitepress
 rule:
   /npm:
     cmd: npm install genji-theme-vitepress

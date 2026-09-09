@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/click-contrib/click-man
   dnf: python3-click-man
+  yay: python-click-man
+  pip: click-man
 rule:
   /pip3:
     cmd: pip3 install click-man

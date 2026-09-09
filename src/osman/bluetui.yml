@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/pythops/bluetui
   pacman: bluetui
+  emerge: -av
+  yay: bluetui
+  cargo: bluetui
 rule:
   /cargo:
     cmd: cargo install bluetui

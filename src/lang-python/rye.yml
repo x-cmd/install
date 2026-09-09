@@ -5,9 +5,9 @@ desc:
 homepage: https://github.com/astral-sh/rye
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/astral-sh/rye
+  yay: rye-git
+  curl: curl
 rule:
   /x:
     cmd: x pkg use rye

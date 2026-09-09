@@ -10,6 +10,7 @@ x:
   brew: dstask
   pacman: dstask
   apk: dstask
+  yay: dstask
 rule:
   /eget:
     cmd: x eget naggie/dstask

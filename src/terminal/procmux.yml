@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/napisani/procmux
   brew: procmux
+  pip: procmux
 rule:
   /pip:
     cmd: pip install procmux

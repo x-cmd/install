@@ -5,14 +5,16 @@ desc:
   cn: 一个开源的文档转换工具，支持将多种文档格式相互转换，包括 Markdown、HTML、PDF、DOCX 等
   en: An open-source document conversion tool that supports converting multiple document formats to each other, including Markdown, HTML, PDF, DOCX, and more
 x:
-  pkg:
-    exist: true
   source: https://github.com/jgm/pandoc
   eget: https://github.com/jgm/pandoc
   apt: pandoc
   dnf: pandoc
   brew: pandoc
   pacman: pandoc
+  apt-get: pandoc
+  choco: pandoc
+  winget: --source
+  powershell: install
 rule:
   /x:
     cmd: x pkg use pandoc

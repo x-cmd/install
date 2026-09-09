@@ -6,6 +6,8 @@ desc:
   en: Encoder/converter for AVIF images
 x:
   source: https://github.com/kornelski/cavif-rs
+  yay: cavif
+  cargo: cavif
 rule:
   /cargo:
     cmd: cargo install cavif

@@ -5,11 +5,12 @@ desc:
   cn: Redis 的终端客户端，具有自动完成和语法功能突出显示
   en: IRedis is a terminal client for redis with auto-completion and syntax highlighting.
 x:
-  pkg:
-    exist: true
   source: https://github.com/laixintao/iredis
   apt: iredis
   brew: iredis
+  yay: iredis
+  pip: iredis
+  wget: wget
 rule:
   /x:
     cmd: x pkg use iredis

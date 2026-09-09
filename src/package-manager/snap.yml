@@ -9,6 +9,10 @@ x:
   apt: snapd
   dnf: snapd
   pacman: snapd
+  zypper: snapd
+  makepkg: makepkg
+  yay: snapd
+  git: https://aur.archlinux.org/snapd.git
 rule:
   debian/apt:
     cmd: sudo sudo apt install snapd

@@ -8,6 +8,9 @@ x:
   source: https://github.com/steveyegge/gastown
   eget: https://github.com/steveyegge/gastown
   brew: gastown
+  yay: gastown-git
+  npm: "@gastown/gt"
+  go: github.com/steveyegge/gastown/cmd/gt@latest
 rule:
   /eget:
     cmd: x eget steveyegge/gastown

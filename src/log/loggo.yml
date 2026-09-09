@@ -8,6 +8,8 @@ x:
   source: https://github.com/aurc/loggo
   eget: https://github.com/aurc/loggo
   brew: aurc/loggo/loggo
+  yay: loggo
+  go: github.com/aurc/loggo@latest
 rule:
   /eget:
     cmd: x eget aurc/loggo

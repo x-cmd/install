@@ -5,11 +5,14 @@ desc:
   cn: '`du` 命令的现代化替代品， 用于查看磁盘空间使用情况'
   en: A modern alternative to the `du` command, used to view disk space usage
 x:
-  pkg:
-    exist: true
   source: https://github.com/bootandy/dust
   eget: https://github.com/bootandy/dust
   brew: dust
+  scoop: dust
+  pacstall: dust-bin
+  deb-get: du-dust
+  yay: dust-git
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget bootandy/dust

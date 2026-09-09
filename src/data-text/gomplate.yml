@@ -5,12 +5,18 @@ desc:
   cn: gomplate 是一个用于模板渲染的命令行工具，支持许多本地和远程数据源
   en: gomplate is a flexible commandline tool for template rendering. Supports lots of local and remote datasources
 x:
-  pkg:
-    exist: true
   source: https://github.com/hairyhenderson/gomplate
   eget: https://github.com/hairyhenderson/gomplate
   brew: gomplate
   apk: --no-cache
+  port: gomplate
+  choco: gomplate
+  powershell: gomplate
+  yay: gomplate-bin
+  npm: gomplate
+  go: github.com/hairyhenderson/gomplate/v4/cmd/gomplate@latest
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use gomplate

@@ -11,6 +11,9 @@ x:
   brew: links
   pacman: links
   apk: links
+  apt-get: links
+  yum: links
+  zypper: links
 rule:
   darwin/brew:
     cmd: brew install links

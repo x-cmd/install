@@ -5,11 +5,11 @@ desc:
   cn: 超级 S3 命令行工具
   en: Super S3 command line tool
 x:
-  pkg:
-    exist: true
   source: https://github.com/bloomreach/s4cmd
   apt: s4cmd
   brew: s4cmd
+  apt-get: s4cmd
+  pip: s4cmd
 rule:
   /x:
     cmd: x pkg use s4cmd

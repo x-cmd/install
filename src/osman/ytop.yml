@@ -9,6 +9,8 @@ x:
   eget: https://github.com/cjbassi/ytop
   dnf: ytop
   brew: ytop
+  yay: ytop
+  cargo: ytop
 rule:
   /eget:
     cmd: x eget cjbassi/ytop

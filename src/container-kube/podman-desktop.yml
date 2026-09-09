@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/containers/podman-desktop
   brew: --cask
+  winget: -e
+  powershell: install
+  flatpak: flathub
+  curl: curl
 rule:
   /flatpak:
     cmd: flatpak install flathub io.podman_desktop.PodmanDesktop

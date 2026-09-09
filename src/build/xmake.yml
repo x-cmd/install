@@ -6,6 +6,8 @@ desc:
   en: Xmake is a cross-platform build utility based on the Lua scripting language
 x:
   source: https://github.com/xmake-io/xmake
+  curl: curl
+  wget: wget
 rule:
   /curl:
     cmd: curl -fsSL https://xmake.io/shget.text | bash

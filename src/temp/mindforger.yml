@@ -9,6 +9,7 @@ x:
   apt: mindforger
   dnf: mindforger-MAJOR.MINOR.REVISION.rpm
   brew: mindforger
+  yay: mindforger
 rule:
   debian/apt:
     cmd: sudo apt install mindforger

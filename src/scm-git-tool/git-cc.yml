@@ -7,6 +7,7 @@ x:
   source: https://github.com/SKalt/git-cc
   eget: https://github.com/SKalt/git-cc
   brew: git-cc
+  yay: git-cc
 rule:
   /eget:
     cmd: x eget SKalt/git-cc

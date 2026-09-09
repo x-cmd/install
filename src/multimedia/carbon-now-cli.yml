@@ -5,9 +5,8 @@ desc:
   cn: Carbon 可让您创建并分享源代码的精美图像
   en: Carbon lets you create and share beautiful images of your source code
 x:
-  pkg:
-    exist: true
   source: https://github.com/mixn/carbon-now-cli
+  yay: carbon-now-cli-bin
 rule:
   /x:
     cmd: x pkg use carbon-now-cli

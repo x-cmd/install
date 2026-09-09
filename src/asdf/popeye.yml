@@ -7,6 +7,8 @@ x:
   source: https://github.com/derailed/popeye
   eget: https://github.com/derailed/popeye
   brew: derailed/popeye/popeye
+  go: github.com/derailed/popeye@latest
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget derailed/popeye

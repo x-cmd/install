@@ -10,6 +10,8 @@ x:
   brew: gfold
   pacman: gfold
   apk: gfold
+  port: gfold
+  cargo: gfold
 rule:
   /eget:
     cmd: x eget nickgerace/gfold

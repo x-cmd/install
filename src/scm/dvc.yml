@@ -5,13 +5,16 @@ desc:
   cn: DVC 是利用现有软件工程工具集的数据科学工具
   en: DVC is a tool for data science that takes advantage of existing software engineering toolset
 x:
-  pkg:
-    exist: true
   source: https://github.com/iterative/dvc
   apt: ./dvc_0.62.1_amd64.deb
   dnf: dvc-0.62.1-1.x86_64.rpm
   brew: dvc
   snap: --classic
+  yum: dvc-0.62.1-1.x86_64.rpm
+  choco: dvc
+  powershell: dvc
+  yay: dvc
+  pip: dvc
 rule:
   /x:
     cmd: x pkg use dvc

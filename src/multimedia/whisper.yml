@@ -6,6 +6,7 @@ desc:
   en: 'Robust Speech Recognition via Large-Scale Weak Supervision'
 x:
   source: https://github.com/openai/whisper
+  pip: openai-whisper
 rule:
   /pip:
     cmd: pip install openai-whisper

@@ -8,6 +8,10 @@ x:
   source: https://github.com/stefanprodan/timoni
   eget: https://github.com/stefanprodan/timoni
   brew: stefanprodan/tap/timoni
+  zypper: timoni
+  yay: timoni
+  go: github.com/stefanprodan/timoni/cmd/timoni@latest
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget stefanprodan/timoni

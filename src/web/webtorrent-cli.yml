@@ -5,9 +5,9 @@ desc:
   cn: webtorrent-cli 是一个简单的 torrent 客户端，可用于 Node.js，作为命令行应用
   en: webtorrent-cli is a simple torrent client for use in node.js, as a command line app
 x:
-  pkg:
-    exist: true
   source: https://github.com/webtorrent/webtorrent-cli
+  yay: webtorrent-cli
+  npm: webtorrent-cli
 rule:
   /x:
     cmd: x pkg use webtorrent-cli

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/microsoft/apm
   brew: microsoft/apm/apm
+  pip: apm-cli
+  curl: curl
 rule:
   /curl:
     cmd: curl -sSL https://aka.ms/apm-unix | sh

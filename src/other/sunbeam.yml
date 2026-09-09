@@ -8,6 +8,8 @@ x:
   source: https://github.com/pomdtr/sunbeam
   eget: https://github.com/pomdtr/sunbeam
   brew: pomdtr/tap/sunbeam
+  yay: sunbeam-bin
+  go: github.com/pomdtr/sunbeam@main
 rule:
   /eget:
     cmd: x eget pomdtr/sunbeam

@@ -8,6 +8,10 @@ x:
   source: https://github.com/ast-grep/ast-grep
   eget: https://github.com/ast-grep/ast-grep
   brew: ast-grep
+  scoop: ast-grep
+  yay: ast-grep-bin
+  pip: ast-grep-cli
+  cargo: ast-grep
 rule:
   /eget:
     cmd: x eget ast-grep/ast-grep

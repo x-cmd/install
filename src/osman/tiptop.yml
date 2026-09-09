@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/nschloe/tiptop
   apt: tiptop
+  yay: tiptop-cli
+  pip: tiptop
 rule:
   arch/yay:
     cmd: yay -S tiptop-cli

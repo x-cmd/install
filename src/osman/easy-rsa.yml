@@ -11,6 +11,8 @@ x:
   brew: easy-rsa
   pacman: easy-rsa
   apk: easy-rsa
+  apt-get: easy-rsa
+  yay: easy-rsa-git
 rule:
   /eget:
     cmd: x eget OpenVPN/easy-rsa

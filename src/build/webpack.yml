@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/webpack/webpack
   brew: webpack
+  yay: nodejs-webpack
+  npm: webpack
 rule:
   /npm:
     cmd: npm install -g webpack

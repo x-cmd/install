@@ -9,6 +9,7 @@ x:
   eget: https://github.com/lusingander/serie
   brew: lusingander/tap/serie
   pacman: serie
+  cargo: --locked
 rule:
   /eget:
     cmd: x eget lusingander/serie

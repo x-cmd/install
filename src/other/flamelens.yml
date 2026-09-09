@@ -8,6 +8,7 @@ x:
   source: https://github.com/YS-L/flamelens
   eget: https://github.com/YS-L/flamelens
   pacman: flamelens
+  cargo: flamelens
 rule:
   /eget:
     cmd: x eget YS-L/flamelens

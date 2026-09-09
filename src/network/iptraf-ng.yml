@@ -10,6 +10,8 @@ x:
   dnf: iptraf-ng
   pacman: iptraf-ng
   apk: iptraf-ng
+  apt-get: iptraf-ng
+  zypper: iptraf-ng
 rule:
   debian/apt:
     cmd: sudo apt-get install iptraf-ng

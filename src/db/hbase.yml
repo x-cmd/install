@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/apache/hbase
   brew: hbase
+  yay: hbase
 rule:
   darwin/brew:
     cmd: brew install hbase

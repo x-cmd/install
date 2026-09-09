@@ -8,6 +8,7 @@ x:
   source: https://github.com/chenhg5/cc-connect
   eget: https://github.com/chenhg5/cc-connect
   brew: cc-connect
+  npm: cc-connect
 rule:
   /eget:
     cmd: x eget use chenhg5/cc-connect

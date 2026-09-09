@@ -5,12 +5,13 @@ desc:
 homepage: https://github.com/scaleway/scaleway-cli
 license: Apache-2.0
 x:
-  pkg:
-    exist: true
   source: https://github.com/scaleway/scaleway-cli
   eget: https://github.com/scaleway/scaleway-cli
   brew: scw
   pacman: scaleway-cli
+  choco: scaleway-cli
+  powershell: scaleway-cli
+  curl: curl
 rule:
   /x:
     cmd: x pkg use scw

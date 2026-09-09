@@ -5,14 +5,14 @@ desc:
   cn: 一种强大的静态类型高级通用编程语言，支持面向对象编程和函数式编程。
   en: a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.
 x:
-  pkg:
-    exist: true
   source: https://github.com/scala/scala
   eget: https://github.com/scala/scala
   apt: scala
   dnf: scala
   brew: scala
   pacman: scala
+  apt-get: scala
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget scala/scala

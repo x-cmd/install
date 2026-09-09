@@ -8,6 +8,10 @@ x:
   source: https://github.com/Hyde46/hoard
   eget: https://github.com/Hyde46/hoard
   brew: hoard
+  port: hoard-cli
+  yay: hoard
+  paru: hoard
+  cargo: hoard-rs
 rule:
   /eget:
     cmd: x eget Hyde46/hoard

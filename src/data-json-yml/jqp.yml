@@ -5,11 +5,12 @@ desc:
   cn: 用于试验 jq 的 TUI
   en: a TUI playground for exploring jq
 x:
-  pkg:
-    exist: true
   source: https://github.com/noahgorstein/jqp
   eget: https://github.com/noahgorstein/jqp
   brew: noahgorstein/tap/jqp
+  port: jqp
+  yay: jqp-bin
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use jqp

@@ -4,13 +4,19 @@ desc:
   cn: tokei 是一个用 Rust 编写的代码行数统计工具
   en: Tokei is a line count tool written in Rust
 x:
-  pkg:
-    exist: true
   source: https://github.com/XAMPPRocky/tokei
   dnf: tokei
   brew: tokei
   pacman: tokei
   apk: tokei
+  zypper: tokei
+  port: tokei
+  xbps: tokei
+  scoop: tokei
+  winget: XAMPPRocky.tokei
+  powershell: install
+  cargo: tokei
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use tokei

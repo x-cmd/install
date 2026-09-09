@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/Han8931/gorae
   eget: https://github.com/Han8931/gorae
+  yay: gorae'
 rule:
   arch/pacman:
     cmd: 'yay -S gorae'

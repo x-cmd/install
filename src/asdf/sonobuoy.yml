@@ -8,6 +8,7 @@ x:
   source: https://github.com/vmware-tanzu/sonobuoy
   eget: https://github.com/vmware-tanzu/sonobuoy
   brew: sonobuoy
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget vmware-tanzu/sonobuoy

@@ -5,11 +5,13 @@ desc:
   cn: WTF 是您终端的个人信息仪表板
   en: WTF is the personal information dashboard for your terminal
 x:
-  pkg:
-    exist: true
   source: https://github.com/wtfutil/wtf
   eget: https://github.com/wtfutil/wtf
   brew: wtfutil
+  port: wtfutil
+  yay: wtfutil
+  asdf: asdf
+  make: make
 rule:
   /x:
     cmd: x pkg use wtfutil

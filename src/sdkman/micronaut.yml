@@ -5,11 +5,14 @@ desc:
   cn: micronaut 是一个基于 JVM 的框架，用于构建轻量级、模块化的应用和微服务。micronaut 采用了预编译（AOT）的技术，可以提高启动速度和降低内存消耗，与传统的 JVM 框架相比，具有更高的效率和易用性。micronaut 支持多种语言（如 Java、Kotlin、Groovy 等）和多种平台（如 GraalVM、AWS Lambda、Google Cloud 等）。
   en: micronaut is a JVM-based framework for building lightweight, modular applications and microservices. Micronaut uses pre-compilation (AOT) technology, which can improve startup speed and reduce memory consumption. Compared with traditional JVM frameworks, it is more efficient and easier to use. micronaut supports multiple languages (such as Java, Kotlin, Groovy, etc.) and multiple platforms (such as GraalVM, AWS Lambda, Google Cloud, etc.).
 x:
-  pkg:
-    exist: true
   source: https://github.com/micronaut-projects/micronaut-core
   eget: https://github.com/micronaut-projects/micronaut-core
   brew: --cask
+  port: micronaut
+  choco: micronaut
+  powershell: micronaut
+  yay: micronaut
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use micronaut

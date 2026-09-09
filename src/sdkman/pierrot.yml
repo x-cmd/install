@@ -5,8 +5,6 @@ desc:
   cn: 多仓库 GitHub 管理工具
   en: Multi-repository GitHub Governance Tool
 x:
-  pkg:
-    exist: true
   source: https://github.com/agorapulse/pierrot
   eget: https://github.com/agorapulse/pierrot
 rule:

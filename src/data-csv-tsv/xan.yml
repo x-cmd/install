@@ -9,6 +9,8 @@ x:
   eget: https://github.com/medialab/xan
   brew: xan
   pacman: xan
+  scoop: xan
+  cargo: xan
 rule:
   /eget:
     cmd: x eget medialab/xan

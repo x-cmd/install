@@ -5,11 +5,11 @@ desc:
   cn: Dufs 是一款独特的实用文件服务器，支持静态服务、上传、搜索、访问控制、webdav...
   en: Dufs is a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav...
 x:
-  pkg:
-    exist: true
   source: https://github.com/sigoden/dufs
   eget: https://github.com/sigoden/dufs
   brew: dufs
+  yay: dufs
+  cargo: dufs
 rule:
   /x:
     cmd: x pkg use dufs

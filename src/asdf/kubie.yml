@@ -9,6 +9,9 @@ x:
   eget: https://github.com/sbstp/kubie
   brew: kubie
   pacman: kubie
+  port: kubie
+  cargo: kubie
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget sbstp/kubie

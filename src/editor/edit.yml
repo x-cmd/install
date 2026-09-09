@@ -8,6 +8,8 @@ x:
   source: https://github.com/microsoft/edit
   eget: https://github.com/microsoft/edit
   brew: msedit
+  winget: Microsoft.Edit
+  powershell: install
 rule:
   /eget:
     cmd: x eget microsoft/edit

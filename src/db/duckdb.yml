@@ -8,6 +8,9 @@ x:
   source: https://github.com/duckdb/duckdb
   eget: https://github.com/duckdb/duckdb
   brew: duckdb
+  scoop: duckdb
+  winget: DuckDB.cli
+  powershell: install
 rule:
   /eget:
     cmd: x eget duckdb/duckdb

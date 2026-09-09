@@ -5,14 +5,15 @@ desc:
   cn: Ansible 是一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护
   en: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain
 x:
-  pkg:
-    exist: true
   source: https://github.com/ansible/ansible
   apt: ansible
   dnf: ansible
   brew: ansible
   pacman: ansible
   apk: ansible
+  apt-get: ansible
+  yum: ansible
+  pip: --user
 rule:
   /x:
     cmd: x pkg use ansible

@@ -5,12 +5,13 @@ desc:
   cn: Java 是一种编程语言和计算平台，由 Sun Microsystems 于 1995 年首次发布
   en: Java is a programming language and computing platform first released by Sun Microsystems in 1995
 x:
-  pkg:
-    exist: true
   source: https://github.com/openjdk/jdk
   apt: java
   dnf: java
   pacman: java
+  apt-get: java
+  yum: java
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use java

@@ -7,6 +7,7 @@ x:
   source: https://github.com/blender/blender
   brew: --cask
   snap: blender
+  yay: blender-bin
 rule:
   darwin/brew:
     cmd: brew install --cask blender

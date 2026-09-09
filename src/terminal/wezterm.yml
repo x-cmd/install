@@ -8,6 +8,15 @@ x:
   apt: wezterm
   dnf: -y
   brew: --cask
+  zypper: wezterm
+  port: wezterm
+  scoop: wezterm
+  choco: wezterm
+  winget: wez.wezterm
+  powershell: wezterm
+  flatpak: flathub
+  curl: curl
+  build: build
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install wezterm

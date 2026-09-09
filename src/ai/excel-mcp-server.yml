@@ -6,6 +6,7 @@ desc:
   en: A Model Context Protocol server for Excel file manipulation
 x:
   source: https://github.com/haris-musa/excel-mcp-server
+  pip: excel-mcp-server
 rule:
   /pip:
     cmd: pip install excel-mcp-server

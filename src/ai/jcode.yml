@@ -8,6 +8,8 @@ x:
   source: https://github.com/1jehuang/jcode
   eget: https://github.com/1jehuang/jcode
   brew: jcode
+  cargo: --git
+  curl: curl
 rule:
   /eget:
     cmd: x eget use 1jehuang/jcode

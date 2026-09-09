@@ -10,6 +10,9 @@ x:
   dnf: tealdeer
   brew: tealdeer
   pacman: tealdeer
+  port: tealdeer
+  scoop: tealdeer
+  cargo: tealdeer
 rule:
   /cargo:
     cmd: cargo install tealdeer

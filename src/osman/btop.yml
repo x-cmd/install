@@ -9,6 +9,8 @@ x:
   apt: -y
   dnf: btop
   brew: btop
+  zypper: btop
+  yay: btop-git
 rule:
   opensuse/zypper:
     cmd: sudo zypper in btop

@@ -8,6 +8,7 @@ x:
   source: https://github.com/graelo/pumas
   eget: https://github.com/graelo/pumas
   brew: graelo/tap/pumas
+  cargo: pumas
 rule:
   /eget:
     cmd: x eget graelo/pumas

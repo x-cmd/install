@@ -10,6 +10,10 @@ x:
   dnf: bzr
   pacman: bzr
   apk: bzr
+  apt-get: bzr
+  yum: bzr
+  port: bzr
+  pip: bzr
 rule:
   /pip:
     cmd: pip install bzr

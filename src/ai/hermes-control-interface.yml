@@ -6,6 +6,7 @@ desc:
   en: Self-hosted web dashboard for the Hermes AI agent stack — manage chat, terminals, files, token analytics, MCP servers, and multi-agent workflows behind a password gate.
 x:
   source: https://github.com/xaspx/hermes-control-interface
+  git: https://github.com/xaspx/hermes-control-interface.git
 rule:
   /git:
     cmd: git clone https://github.com/xaspx/hermes-control-interface.git

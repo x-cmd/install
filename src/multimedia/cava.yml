@@ -10,6 +10,9 @@ x:
   apt: cava
   dnf: cava
   brew: cava
+  zypper: cava
+  yay: cava-git
+  pacaur: cava
 rule:
   /eget:
     cmd: x eget karlstav/cava

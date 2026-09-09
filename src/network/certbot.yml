@@ -4,8 +4,6 @@ desc:
   cn: Certbot 是 EFF 的工具，用于从 Let's Encrypt 获取证书并（可选）在您的服务器上自动启用 HTTPS
   en: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.
 x:
-  pkg:
-    exist: true
   source: https://github.com/certbot/certbot
   eget: https://github.com/certbot/certbot
   apt: certbot
@@ -13,6 +11,11 @@ x:
   brew: certbot
   pacman: certbot
   apk: certbot
+  apt-get: certbot
+  winget: EFF.Certbot
+  powershell: install
+  yay: certbot-git
+  pip: certbot
 rule:
   /eget:
     cmd: x eget certbot/certbot

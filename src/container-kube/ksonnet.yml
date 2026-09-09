@@ -8,6 +8,8 @@ x:
   source: https://github.com/ksonnet/ksonnet
   eget: https://github.com/ksonnet/ksonnet
   brew: ksonnet/tap/ks
+  yay: ksonnet-bin
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget ksonnet/ksonnet

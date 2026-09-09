@@ -6,6 +6,10 @@ desc:
   en: A port of asciinema for Windows, based on Windows Pseudo Console(ConPTY)
 x:
   source: https://github.com/Watfaq/PowerSession-rs
+  scoop: powersession-rs
+  winget: Watfaq.PowerSession
+  powershell: install
+  cargo: PowerSession
 rule:
   (win|wsl2)/cargo:
     cmd: cargo install PowerSession

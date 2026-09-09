@@ -10,6 +10,9 @@ x:
   dnf: wavemon
   pacman: wavemon
   apk: wavemon
+  apt-get: wavemon
+  zypper: wavemon
+  yay: wavemon-git
 rule:
   opensuse/zypper:
     cmd: sudo zypper install wavemon

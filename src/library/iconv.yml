@@ -9,6 +9,8 @@ x:
   dnf: glibc-common
   brew: plan9port
   pacman: plan9port
+  apt-get: libc-bin
+  yum: glibc-common
 rule:
   darwin/brew:
     cmd: brew install plan9port

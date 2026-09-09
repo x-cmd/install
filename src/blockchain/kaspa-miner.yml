@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/elichai/kaspa-miner
   eget: https://github.com/elichai/kaspa-miner
+  cargo: kaspa-miner
 rule:
   /eget:
     cmd: x eget elichai/kaspa-miner

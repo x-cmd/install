@@ -8,6 +8,8 @@ x:
   source: https://github.com/GabAlpha/basilk
   eget: https://github.com/GabAlpha/basilk
   brew: GabAlpha/tap/basilk
+  paru: basilk
+  cargo: basilk
 rule:
   /eget:
     cmd: x eget GabAlpha/basilk

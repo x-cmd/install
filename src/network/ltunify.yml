@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/Lekensteyn/ltunify
   dnf: ltunify
+  yay: ltunify
 rule:
   fedora/dnf:
     cmd: sudo dnf install ltunify

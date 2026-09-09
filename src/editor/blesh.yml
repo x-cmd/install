@@ -6,6 +6,10 @@ desc:
   en: a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc.
 x:
   source: https://github.com/akinomyoga/ble.sh
+  yay: blesh
+  paru: blesh-git
+  curl: curl
+  git: --recursive
 rule:
   /git:
     cmd: 'git clone --recursive --depth 1 --shallow-submodule https://github.com/akinomyoga/ble.sh.git ~/.local/share/blesh

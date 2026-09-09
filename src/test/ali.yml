@@ -11,6 +11,9 @@ x:
   brew: nakabonne/ali/ali
   pacman: ali
   apk: ali
+  port: ali
+  go: github.com/nakabonne/ali@latest
+  wget: wget
 rule:
   /eget:
     cmd: x eget nakabonne/ali

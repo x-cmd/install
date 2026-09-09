@@ -8,6 +8,8 @@ x:
   source: https://github.com/antonmedv/walk
   eget: https://github.com/antonmedv/walk
   brew: walk
+  yay: walk
+  go: github.com/antonmedv/walk@latest
 rule:
   /eget:
     cmd: x eget antonmedv/walk

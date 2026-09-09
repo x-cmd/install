@@ -8,6 +8,9 @@ x:
   source: https://github.com/jarun/imgp
   apt: imgp
   dnf: imgp
+  apt-get: imgp
+  yay: imgp-git
+  pip: pillow
 rule:
   /pip3:
     cmd: sudo pip3 install pillow

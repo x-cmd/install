@@ -8,6 +8,10 @@ x:
   source: https://github.com/steveyegge/beads
   eget: https://github.com/steveyegge/beads
   brew: beads
+  yay: beads-bin
+  npm: "@beads/bd"
+  go: github.com/steveyegge/beads/cmd/bd@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget steveyegge/beads

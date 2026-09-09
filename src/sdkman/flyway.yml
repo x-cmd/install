@@ -8,6 +8,11 @@ x:
   source: https://github.com/flyway/flyway
   eget: https://github.com/flyway/flyway
   brew: flyway
+  scoop: main/flyway
+  choco: flyway.commandline
+  powershell: flyway.commandline
+  yay: flyway
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget flyway/flyway

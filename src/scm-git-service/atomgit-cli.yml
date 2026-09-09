@@ -7,6 +7,13 @@ desc:
 x:
   source: https://atomgit.com/hust-open-atom-club/atomgit-cli
   brew: atomgit-cli
+  scoop: hust-open-atom-club/atomgit-cli
+  winget: HUSTOpenAtomClub.AtomGitCLI
+  powershell: install
+  nix: github:NixOS/nixpkgs/nixos-unstable#atomgit-cli
+  yay: atomgit-cli-bin
+  npm: "@hust-open-atom-club/atomgit-cli"
+  go: atomgit.com/hust-open-atom-club/atomgit-cli/cmd/ag@latest
 rule:
   /npm:
     cmd: npm install -g @hust-open-atom-club/atomgit-cli

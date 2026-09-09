@@ -6,6 +6,8 @@ desc:
   en: Adds layered long-term and symbolic short-term memory to AI agents to reduce token usage and improve task success.
 x:
   source: https://github.com/Tencent/TencentDB-Agent-Memory
+  npm: "@tencentdb-agent-memory/memory-tencentdb"
+  git: Tencent/TencentDB-Agent-Memory
 rule:
   /npm:
     cmd: npm install -g @tencentdb-agent-memory/memory-tencentdb

@@ -5,9 +5,8 @@ desc:
   en: A CLI for running TypeScript and ESM seamlessly (tsx is a standalone binary designed to replace node)
   cn: 一个用于无缝运行 TypeScript 和 ESM 的 CLI（tsx 是一个独立的二进制文件，设计用于替代 node）
 x:
-  pkg:
-    exist: true
   source: https://github.com/privatenumber/tsx#readme
+  npm: --global
 rule:
   /x:
     cmd: x pkg use tsx

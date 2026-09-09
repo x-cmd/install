@@ -6,6 +6,7 @@ desc:
   en: Bundler for your TypeScript library, powered by esbuild
 x:
   source: https://github.com/egoist/tsup
+  npm: tsup
 rule:
   /npm:
     cmd: npm install -g tsup

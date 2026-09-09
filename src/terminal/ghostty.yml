@@ -8,6 +8,7 @@ x:
   source: https://github.com/ghostty-org/ghostty
   brew: ghostty
   pacman: ghostty
+  yay: ghostty-git
 rule:
   darwin/brew:
     cmd: brew install ghostty

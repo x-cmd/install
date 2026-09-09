@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/jfrog/jfrog-cli
   brew: jfrog-cli
+  scoop: jfrog
+  yay: jfrog-cli
 rule:
   darwin/brew:
     cmd: brew install jfrog-cli

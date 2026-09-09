@@ -6,6 +6,9 @@ desc:
   en: Oh My Zsh is an open source, community-driven framework for managing your zsh configuration
 x:
   source: https://github.com/ohmyzsh/ohmyzsh
+  yay: oh-my-zsh-git
+  curl: curl
+  wget: wget
 rule:
   /curl:
     cmd: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

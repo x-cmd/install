@@ -8,6 +8,7 @@ x:
   source: https://github.com/liqotech/liqo
   eget: https://github.com/liqotech/liqo
   brew: liqoctl
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget liqotech/liqo

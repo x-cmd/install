@@ -5,9 +5,8 @@ desc:
   cn: 在不到 30 秒的时间内获取具有零编码的完整假 REST API
   en: Get a full fake REST API with zero coding in less than 30 seconds
 x:
-  pkg:
-    exist: true
   source: https://github.com/typicode/json-server
+  npm: json-server
 rule:
   /x:
     cmd: x pkg use json-server

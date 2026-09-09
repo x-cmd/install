@@ -5,8 +5,6 @@ desc:
   cn: 一个使用打包模板的简单项目创建工具
   en: A simple project creation tool that uses packaged templates
 x:
-  pkg:
-    exist: true
   source: https://github.com/cbmarcum/skeletal
   eget: https://github.com/cbmarcum/skeletal
 rule:

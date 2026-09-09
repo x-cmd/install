@@ -8,6 +8,12 @@ x:
   eget: https://github.com/phiresky/ripgrep-all
   brew: rga
   pacman: ripgrep-all
+  port: ripgrep-all
+  emerge: sys-apps/ripgrep-all
+  scoop: rga
+  choco: ripgrep-all
+  powershell: ripgrep-all
+  cargo: --locked
 rule:
   /eget:
     cmd: x eget phiresky/ripgrep-all

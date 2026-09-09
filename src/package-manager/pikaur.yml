@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/actionless/pikaur
   pacman: --needed
+  yay: pikaur
+  git: https://aur.archlinux.org/pikaur.git
 rule:
   arch/pacman:
     cmd: 'sudo pacman -S --needed base-devel git \

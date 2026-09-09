@@ -10,6 +10,8 @@ x:
   dnf: saidar
   brew: libstatgrab
   pacman: saidar
+  apt-get: saidar
+  zypper: libstatgrab
 rule:
   debian/apt:
     cmd: sudo apt-get install saidar

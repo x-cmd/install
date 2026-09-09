@@ -5,13 +5,15 @@ desc:
   cn: XGo 是第一个将软件工程整合为统一整体的 AI 原生编程语言
   en: XGo is the first AI-native programming language that integrates software engineering into a unified whole.
 x:
-  pkg:
-    exist: true
   source: https://github.com/goplus/xgo
   eget: https://github.com/goplus/xgo
   apt: gop
   dnf: gop
   brew: goplus
+  yum: gop
+  winget: goplus.gop
+  powershell: install
+  yay: xgo
 rule:
   /eget:
     cmd: x eget goplus/xgo

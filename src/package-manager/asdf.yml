@@ -8,6 +8,10 @@ x:
   source: https://github.com/asdf-vm/asdf
   eget: https://github.com/asdf-vm/asdf
   brew: asdf
+  makepkg: makepkg
+  yay: asdf-vm
+  asdf: asdf
+  git: https://aur.archlinux.org/asdf-vm.git
 rule:
   /eget:
     cmd: x eget asdf-vm/asdf

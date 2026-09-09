@@ -5,14 +5,22 @@ desc:
   cn: rg 是面向行（line-oriented）搜索工具，以递归的方式在当前目录中搜索与 regex 模式匹配的文本
   en: rg is a line-oriented search tool that recursively searches the current directory for a regex pattern
 x:
-  pkg:
-    exist: true
   source: https://github.com/BurntSushi/ripgrep
   eget: https://github.com/BurntSushi/ripgrep
   apt: ripgrep
   dnf: ripgrep
   brew: ripgrep
   pacman: ripgrep
+  apt-get: ripgrep
+  yum: -y
+  zypper: ripgrep
+  port: ripgrep
+  emerge: sys-apps/ripgrep
+  scoop: ripgrep
+  choco: ripgrep
+  winget: BurntSushi.ripgrep.MSVC
+  powershell: install
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use rg

@@ -8,6 +8,8 @@ x:
   source: https://github.com/clibs/cmocka
   apt: libcmocka-dev
   brew: cmocka
+  apt-get: libcmocka-dev
+  yay: cmocka-git
 rule:
   darwin/brew:
     cmd: brew install cmocka

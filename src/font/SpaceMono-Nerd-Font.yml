@@ -5,6 +5,8 @@ desc:
   en: SpaceMono font
 x:
   source: https://github.com/ryanoasis/nerd-fonts
+  curl: curl
+  wget: wget
 rule:
   (linux|darwin|wsl2)/:
     cmd: x font nerd install SpaceMono

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/jeffkowalski/geeknote
   brew: --HEAD
+  yay: geeknote
+  pip: --upgrade
 rule:
   /pip:
     cmd: pip install --upgrade geeknote

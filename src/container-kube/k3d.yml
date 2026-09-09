@@ -5,13 +5,14 @@ desc:
   cn: k3d 是一个轻量级封装工具，用于在 Docker 中运行 k3s（Rancher Lab 的精简 Kubernetes 发行版）
   en: k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker
 x:
-  pkg:
-    exist: true
   source: https://github.com/k3d-io/k3d
   eget: https://github.com/k3d-io/k3d
   apt: k3d
   dnf: k3d
   brew: k3d
+  apt-get: k3d
+  yay: rancher-k3d-bin
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use k3d

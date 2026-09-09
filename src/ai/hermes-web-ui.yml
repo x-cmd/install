@@ -6,6 +6,7 @@ desc:
   en: Deploy a self-hosted web dashboard to manage Hermes Agent chat sessions, configure channels, monitor usage, and schedule jobs.
 x:
   source: https://github.com/EKKOLearnAI/hermes-web-ui
+  npm: hermes-web-ui
 rule:
   /npm:
     cmd: npm install -g hermes-web-ui

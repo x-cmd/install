@@ -5,6 +5,7 @@ desc:
   en: Lynx is a framework that uses JavaScript to build native Android and iOS applications.
 x:
   source: https://github.com/hxxft/lynx-cli
+  npm: lynx-cli
 rule:
   /npm:
     cmd: npm install -g lynx-cli

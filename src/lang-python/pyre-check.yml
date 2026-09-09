@@ -5,11 +5,11 @@ desc:
   cn: Pyre 是符合 PEP 484 的 Python 的表现类型检查器
   en: Pyre is a performant type checker for Python compliant with PEP 484
 x:
-  pkg:
-    exist: true
   source: https://github.com/facebook/pyre-check
   apt: python3
   brew: python3
+  apt-get: python3
+  pip: pyre-check
 rule:
   /x:
     cmd: x pkg use pyre-check

@@ -5,8 +5,6 @@ desc:
   en: A `cat` clone with git integration and syntax highlighting support
 lang: Go
 x:
-  pkg:
-    exist: true
   source: https://github.com/sharkdp/bat
   eget: https://github.com/sharkdp/bat
   apt: bat
@@ -14,6 +12,17 @@ x:
   brew: bat
   pacman: bat
   apk: bat
+  apt-get: bat
+  yum: bat
+  zypper: bat
+  port: bat
+  emerge: sys-apps/bat
+  xbps: bat
+  scoop: bat
+  choco: bat
+  winget: sharkdp.bat
+  powershell: install
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use bat

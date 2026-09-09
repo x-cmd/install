@@ -5,12 +5,13 @@ desc:
   cn: 基于终端的 CPU 压力和监控实用程序
   en: Stress Terminal UI stress test and monitoring tool
 x:
-  pkg:
-    exist: true
   source: https://github.com/amanusk/s-tui
   apt: s-tui
   dnf: s-tui
   pacman: s-tui
+  zypper: s-tui
+  yay: s-tui-git
+  pip: s-tui
 rule:
   /x:
     cmd: x pkg use s-tui

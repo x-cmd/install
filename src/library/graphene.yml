@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/ebassi/graphene
   brew: graphene
+  yay: graphene-git
 rule:
   arch/yay:
     cmd: yay -S graphene-git

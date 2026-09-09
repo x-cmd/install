@@ -11,6 +11,7 @@ x:
   brew: atop
   pacman: atop
   apk: atop
+  zypper: atop
 rule:
   debian/apt:
     cmd: sudo apt install atop

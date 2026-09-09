@@ -6,6 +6,7 @@ desc:
   en: yizhiyanhua-ai's open-source Claude Code Skill that turns natural-language (Chinese/English) system descriptions into SVG + 1920px PNG diagrams across 8 visual styles and 14 UML / AI-Agent diagram types, with built-in domain knowledge for AI/RAG/Mem0/Multi-Agent patterns — no DSL, no drag-and-drop.
 x:
   source: https://github.com/yizhiyanhua-ai/fireworks-tech-graph
+  git: yizhiyanhua-ai/fireworks-tech-graph
 rule:
   /git:
     cmd: x git clone yizhiyanhua-ai/fireworks-tech-graph && mkdir -p ~/.claude/skills && mv fireworks-tech-graph ~/.claude/skills/fireworks-tech-graph

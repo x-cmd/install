@@ -5,10 +5,9 @@ desc:
 homepage: https://github.com/Metaphorme/ezcheck
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/Metaphorme/ezcheck
   eget: https://github.com/Metaphorme/ezcheck
+  cargo: ezcheck
 rule:
   /x:
     cmd: x pkg use ezcheck

@@ -6,6 +6,7 @@ desc:
   en: Self-hosted dashboard for orchestrating AI agent fleets — dispatch tasks, track costs, audit security
 x:
   source: https://github.com/builderz-labs/mission-control
+  git: builderz-labs/mission-control
 rule:
   /git:
     cmd: x git clone builderz-labs/mission-control

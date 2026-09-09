@@ -8,6 +8,7 @@ x:
   source: https://github.com/carloscuesta/gitmoji-cli
   eget: https://github.com/carloscuesta/gitmoji-cli
   brew: gitmoji
+  yay: nodejs-gitmoji-cli
 rule:
   /eget:
     cmd: x eget carloscuesta/gitmoji-cli

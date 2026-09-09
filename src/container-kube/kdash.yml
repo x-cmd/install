@@ -8,6 +8,12 @@ x:
   source: https://github.com/kdash-rs/kdash
   eget: https://github.com/kdash-rs/kdash
   brew: kdash
+  scoop: kdash
+  choco: kdash
+  powershell: kdash
+  yay: kdash
+  cargo: kdash
+  curl: curl
 rule:
   /eget:
     cmd: x eget kdash-rs/kdash

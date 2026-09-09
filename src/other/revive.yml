@@ -5,10 +5,9 @@ desc:
   cn: Go 语言代码质量检测工具（golint 替代品），可配置且更为美观
   en: Go language code quality detection tool (golint replacement), configurable and more beautiful
 x:
-  pkg:
-    exist: true
   source: https://github.com/mgechev/revive
   eget: https://github.com/mgechev/revive
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use revive

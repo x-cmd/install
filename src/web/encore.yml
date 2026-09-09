@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/encoredev/encore
   brew: encoredev/tap/encore
+  curl: curl
 rule:
   darwin/brew:
     cmd: brew install encoredev/tap/encore

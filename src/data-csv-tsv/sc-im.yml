@@ -10,6 +10,7 @@ x:
   brew: sc-im
   pacman: sc-im
   apk: sc-im
+  zypper: sc-im
 rule:
   darwin/brew:
     cmd: brew install sc-im

@@ -11,6 +11,13 @@ x:
   brew: --cask
   pacman: krita
   snap: krita
+  apt-get: krita
+  yum: krita
+  scoop: extras/krita
+  choco: krita
+  winget: KDE.Krita
+  powershell: krita
+  flatpak: flathub
 rule:
   arch/snap:
     cmd: sudo snap install krita

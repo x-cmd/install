@@ -11,6 +11,7 @@ x:
   brew: siege
   pacman: siege
   apk: siege
+  apt-get: siege
 rule:
   darwin/brew:
     cmd: brew install siege

@@ -12,6 +12,11 @@ x:
   brew: tintin
   apk: build-base
   snap: tintin
+  apt-get: build-essential
+  yum: make
+  yay: tintin
+  wget: wget
+  make: make
 rule:
   /eget:
     cmd: x eget scandum/tintin

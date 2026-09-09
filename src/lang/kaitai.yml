@@ -7,6 +7,9 @@ x:
   source: https://github.com/kaitai-io/kaitai_struct
   apt: ./kaitai-struct-compiler_0.10_all.deb
   brew: kaitai-struct-compiler
+  apt-get: ./kaitai-struct-compiler_0.10_all.deb
+  yay: kaitai-struct-compiler
+  curl: curl
 rule:
   debian/apt:
     cmd: 'curl -LO https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler_0.10_all.deb && \

@@ -5,6 +5,7 @@ desc:
   en: The Postman CLI is the command-line companion that is developed, supported, and signed by Postman
 x:
   source: https://github.com/postmanlabs/postman-app-support
+  yay: postman-bin
 rule:
   linux/curl:
     cmd: curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh

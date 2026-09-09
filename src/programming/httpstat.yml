@@ -8,6 +8,8 @@ x:
   source: https://github.com/reorx/httpstat
   eget: https://github.com/reorx/httpstat
   brew: httpstat
+  pip: httpstat
+  wget: wget
 rule:
   /eget:
     cmd: x eget reorx/httpstat

@@ -5,11 +5,11 @@ desc:
   cn: 时区助手
   en: A time zone helper
 x:
-  pkg:
-    exist: true
   source: https://github.com/oz/tz
   eget: https://github.com/oz/tz
   brew: tz
+  yay: tz
+  go: github.com/oz/tz@latest
 rule:
   /x:
     cmd: x pkg use tz

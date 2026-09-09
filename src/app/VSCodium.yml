@@ -11,6 +11,16 @@ x:
   dnf: codium
   brew: --cask
   snap: codium
+  zypper: codium
+  port: codium
+  emerge: -av
+  scoop: vscodium
+  choco: vscodium
+  winget: vscodium
+  powershell: vscodium
+  flatpak: flathub
+  aura: vscodium-bin
+  yay: vscodium-bin
 rule:
   /eget:
     cmd: x eget VSCodium/vscodium

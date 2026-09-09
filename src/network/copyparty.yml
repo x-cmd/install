@@ -9,6 +9,8 @@ x:
   eget: https://github.com/9001/copyparty
   brew: copyparty
   pacman: copyparty
+  nix: github:9001/copyparty
+  pip: --user
 rule:
   /eget:
     cmd: x eget 9001/copyparty

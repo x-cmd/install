@@ -6,6 +6,7 @@ desc:
   en: Spark is a unified analytics engine for large-scale data processing
 x:
   source: https://github.com/apache/spark
+  pip: pyspark
 rule:
   /pip:
     cmd: pip install pyspark

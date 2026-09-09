@@ -6,6 +6,7 @@ desc:
   en: Simple command-line tool to sanitize a directory to a specific whitelist, written in Rust
 x:
   source: https://github.com/jhheider/sanitize
+  cargo: sanitize
 rule:
   /cargo:
     cmd: cargo install sanitize

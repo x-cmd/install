@@ -6,6 +6,7 @@ desc:
   en: Local AI router that aggregates 40+ providers and 100+ models with auto-fallback and RTK token compression (20-40% savings), unifying Claude Code / Codex / Cursor and other coding tools.
 x:
   source: https://github.com/decolua/9router
+  npm: 9router
 rule:
   /npm:
     cmd: npm install -g 9router

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/OJ/gobuster
   eget: https://github.com/OJ/gobuster
+  yay: gobuster-git
+  go: github.com/OJ/gobuster/v3@latest
 rule:
   /eget:
     cmd: x eget OJ/gobuster

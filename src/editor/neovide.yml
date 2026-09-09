@@ -9,6 +9,8 @@ x:
   eget: https://github.com/neovide/neovide
   brew: neovide'
   pacman: neovide
+  scoop: neovide
+  cargo: neovide'
 rule:
   /eget:
     cmd: x eget neovide/neovide

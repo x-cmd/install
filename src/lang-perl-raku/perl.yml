@@ -4,9 +4,10 @@ desc:
   cn: 一种通用脚本语言，具有强大的文本处理和正则表达式功能
   en: A general scripting language with powerful text processing and regular expression functions
 x:
-  pkg:
-    exist: true
   source: https://github.com/Perl/perl5
+  yay: perl
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use perl

@@ -5,10 +5,9 @@ desc:
   cn: Doctoolchain 是一个开源项目，致力于自动创建技术文档
   en: docToolchain is an open source project dedicated to automating the creation of technical documentation
 x:
-  pkg:
-    exist: true
   source: https://github.com/docToolchain/docToolchain
   eget: https://github.com/docToolchain/docToolchain
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget docToolchain/docToolchain

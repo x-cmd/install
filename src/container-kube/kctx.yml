@@ -6,6 +6,7 @@ desc:
   en: Kubernetes context tool
 x:
   source: https://github.com/krix38/kctx
+  npm: kctx
 rule:
   /npm:
     cmd: npm install -g kctx

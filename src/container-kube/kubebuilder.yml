@@ -6,6 +6,8 @@ desc:
   en: Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs)
 x:
   source: https://github.com/kubernetes-sigs/kubebuilder
+  yay: kubebuilder-bin
+  asdf: asdf
 rule:
   arch/yay:
     cmd: yay -S kubebuilder-bin

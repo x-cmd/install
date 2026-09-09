@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/protocolbuffers/protobuf-go
   eget: https://github.com/protocolbuffers/protobuf-go
+  go: google.golang.org/protobuf/cmd/protoc-gen-go@latest
 rule:
   /eget:
     cmd: x eget protocolbuffers/protobuf-go

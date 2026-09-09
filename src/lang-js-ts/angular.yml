@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/angular/angular-cli
   brew: angular-cli
+  yay: angular-cli
+  npm: "@angular/cli"
 rule:
   /npm:
     cmd: npm install -g @angular/cli

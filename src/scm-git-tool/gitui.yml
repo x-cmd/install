@@ -5,11 +5,16 @@ desc:
   cn: gitui 是一个基于终端的 Git 用户界面工具
   en: gitui is a terminal-based Git user interface tool
 x:
-  pkg:
-    exist: true
   source: https://github.com/extrawurst/gitui
   eget: https://github.com/extrawurst/gitui
   brew: gitui
+  scoop: gitui
+  choco: gitui
+  winget: -e
+  powershell: gitui
+  yay: gitui-bin
+  cargo: gitui
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use gitui

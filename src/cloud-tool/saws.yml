@@ -5,6 +5,7 @@ desc:
   en: A supercharged AWS command line interface (CLI)
 x:
   source: https://github.com/donnemartin/saws
+  pip: saws
 rule:
   /pip:
     cmd: sudo pip install saws

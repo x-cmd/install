@@ -10,6 +10,11 @@ x:
   brew: asciidoctor
   pacman: asciidoctor
   apk: asciidoctor
+  apt-get: -y
+  port: asciidoctor
+  choco: ruby
+  powershell: ruby
+  gem: asciidoctor
 rule:
   alpine/apk:
     cmd: sudo apk add asciidoctor

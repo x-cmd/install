@@ -5,10 +5,10 @@ desc:
   cn: dotenv-linter 可以检查/修复/比较 .env 文件是否存在可能导致应用程序故障的问题
   en: dotenv-linter can check / fix / compare .env files for problems that may cause the application to malfunction
 x:
-  pkg:
-    exist: true
   source: https://github.com/dotenv-linter/dotenv-linter
   eget: https://github.com/dotenv-linter/dotenv-linter
+  yay: dotenv-linter-bin
+  curl: curl
 rule:
   /x:
     cmd: x pkg use dotenv-linter

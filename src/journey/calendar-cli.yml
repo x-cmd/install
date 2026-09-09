@@ -6,6 +6,8 @@ desc:
   en: Simple command-line CalDav client, for adding and browsing calendar items, todo list items
 x:
   source: https://github.com/tobixen/calendar-cli
+  yay: calendar-cli
+  git: https://github.com/tobixen/calendar-cli.git
 rule:
   arch/yay:
     cmd: yay -S calendar-cli

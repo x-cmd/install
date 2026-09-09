@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/d2learn/xlings
   eget: https://github.com/d2learn/xlings
+  curl: curl
+  wget: wget
 rule:
   /eget:
     cmd: x eget d2learn/xlings

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/eythaann/Seelen-UI
   eget: https://github.com/eythaann/Seelen-UI
+  winget: Seelen.SeelenUI
+  powershell: install
 rule:
   /eget:
     cmd: x eget eythaann/Seelen-UI

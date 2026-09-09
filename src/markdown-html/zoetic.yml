@@ -6,6 +6,7 @@ desc:
   en: Markdown presentations using your webcam
 x:
   source: https://github.com/kantord/zoetic
+  git: git@github.com:kantord/zoetic.git
 rule:
   /yarn:
     cmd: 'git clone git@github.com:kantord/zoetic.git \

@@ -8,6 +8,8 @@ x:
   source: https://github.com/Etto48/HexPatch
   eget: https://github.com/Etto48/HexPatch
   pacman: hexpatch
+  yay: hexpatch-git
+  cargo: hex-patch
 rule:
   /eget:
     cmd: x eget Etto48/HexPatch

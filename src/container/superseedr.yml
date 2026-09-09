@@ -8,6 +8,7 @@ x:
   source: https://github.com/Jagalite/superseedr
   eget: https://github.com/Jagalite/superseedr
   brew: superseedr'
+  cargo: superseedr'
 rule:
   /cargo:
     cmd: 'cargo install superseedr'

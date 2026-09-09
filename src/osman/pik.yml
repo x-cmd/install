@@ -9,6 +9,8 @@ x:
   eget: https://github.com/jacek-kurlit/pik
   dnf: pik
   pacman: pik
+  zypper: pik
+  cargo: pik
 rule:
   /eget:
     cmd: x eget jacek-kurlit/pik

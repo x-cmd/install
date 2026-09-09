@@ -9,6 +9,12 @@ x:
   eget: https://github.com/abhimanyu003/sttr
   brew: abhimanyu003/sttr/sttr
   snap: sttr
+  scoop: sttr
+  winget: -e
+  powershell: install
+  yay: sttr-bin
+  go: github.com/abhimanyu003/sttr@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget abhimanyu003/sttr

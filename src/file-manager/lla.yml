@@ -8,6 +8,9 @@ x:
   source: https://github.com/chaqchase/lla
   eget: https://github.com/chaqchase/lla
   brew: lla
+  paru: lla
+  cargo: lla
+  curl: curl
 rule:
   /eget:
     cmd: x eget chaqchase/lla

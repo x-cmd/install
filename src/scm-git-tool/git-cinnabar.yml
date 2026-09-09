@@ -9,6 +9,8 @@ x:
   eget: https://github.com/glandium/git-cinnabar
   dnf: git-cinnabar
   brew: git-cinnabar
+  yay: git-cinnabar-git
+  cargo: git-cinnabar
 rule:
   /eget:
     cmd: x eget glandium/git-cinnabar

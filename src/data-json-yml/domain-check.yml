@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/saidutt46/domain-check
   eget: https://github.com/saidutt46/domain-check
+  cargo: domain-check
 rule:
   /cargo:
     cmd: cargo install domain-check

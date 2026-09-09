@@ -5,13 +5,16 @@ desc:
   cn: 一个跨平台、快速且可扩展的 TUI 模糊查找器
   en: A cross-platform, fast and extensible fuzzy finder TUI
 x:
-  pkg:
-    exist: true
   source: https://github.com/alexpasmantier/television
   eget: https://github.com/alexpasmantier/television
   brew: television
   pacman: television
   apk: chimera-repo-user
+  scoop: television
+  winget: --exact
+  powershell: install
+  cargo: --locked
+  curl: curl
 rule:
   /x:
     cmd: x pkg use television

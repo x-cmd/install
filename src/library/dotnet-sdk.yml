@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/dotnet/sdk
   brew: --cask
+  yay: dotnet-sdk-bin
 rule:
   arch/yay:
     cmd: yay -S dotnet-sdk-bin

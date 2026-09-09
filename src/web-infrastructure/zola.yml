@@ -5,8 +5,6 @@ desc:
   cn: 单个二进制中的快速静态站点生成器，所有内容都内置
   en: A fast static site generator in a single binary with everything built-in
 x:
-  pkg:
-    exist: true
   source: https://github.com/getzola/zola
   eget: https://github.com/getzola/zola
   dnf: zola
@@ -14,6 +12,16 @@ x:
   pacman: zola
   apk: zola
   snap: --edge
+  port: zola
+  xbps: zola
+  scoop: zola
+  choco: zola
+  winget: getzola.zola
+  powershell: zola
+  flatpak: flathub
+  yay: zola-git
+  cargo: --path
+  git: https://github.com/getzola/zola.git
 rule:
   /x:
     cmd: x pkg use zola

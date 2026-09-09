@@ -8,6 +8,7 @@ x:
   source: https://github.com/aosc-dev/oma
   eget: https://github.com/aosc-dev/oma
   apt: oma
+  curl: curl
 rule:
   /eget:
     cmd: x eget aosc-dev/oma

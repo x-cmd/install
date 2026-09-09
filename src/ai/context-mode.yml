@@ -6,6 +6,7 @@ desc:
   en: AI agent context sandbox and session-continuity engine that intercepts large tool outputs, exposes 11 MCP tools to keep raw data out of the context window, and tracks session events in SQLite + FTS5 so compaction does not lose state.
 x:
   source: https://github.com/mksglu/context-mode
+  npm: context-mode
 rule:
   /npm:
     cmd: npm install -g context-mode

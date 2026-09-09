@@ -5,6 +5,7 @@ desc:
   en: Utility that makes backups of your files/directories.
 x:
   source: https://github.com/gergelyk/bkp
+  pip: bkp
 rule:
   /pip:
     cmd: pip install bkp

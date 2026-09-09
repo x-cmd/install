@@ -8,6 +8,8 @@ x:
   source: https://github.com/isamert/scli
   eget: https://github.com/isamert/scli
   apt: python3-scli
+  apt-get: python3-scli
+  yay: scli-git
 rule:
   /eget:
     cmd: x eget isamert/scli

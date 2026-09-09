@@ -5,6 +5,7 @@ desc:
   en: bpb is a tool to automatically sign git commits, replacing gpg for that purpose
 x:
   source: https://github.com/withoutboats/bpb
+  cargo: bpb
 rule:
   /cargo:
     cmd: cargo install bpb

@@ -6,6 +6,7 @@ desc:
   en: Print colored text, stylized ASCII art and bitmap images from Python — plus a transient-logging handler that keeps verbose output from drowning out warnings.
 x:
   source: https://github.com/jart/fabulous
+  pip: fabulous
 rule:
   /pip:
     cmd: pip install fabulous

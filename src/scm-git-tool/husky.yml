@@ -6,6 +6,7 @@ desc:
   en: Git hooks made easy
 x:
   source: https://github.com/typicode/husky
+  yay: husky
 rule:
   /npx:
     cmd: npx husky init

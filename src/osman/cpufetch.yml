@@ -13,6 +13,14 @@ x:
   pacman: cpufetch
   apk: cpufetch
   snap: cpufetch
+  apt-get: cpufetch
+  yum: cpufetch
+  zypper: cpufetch
+  emerge: app-misc/cpufetch
+  scoop: cpufetch
+  choco: cpufetch
+  powershell: cpufetch
+  yay: cpufetch-git
 rule:
   /eget:
     cmd: x eget Dr-Noob/cpufetch

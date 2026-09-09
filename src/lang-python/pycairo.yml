@@ -8,6 +8,8 @@ x:
   apt: libcairo2-dev
   dnf: cairo-devel
   pacman: cairo
+  zypper: cairo-devel
+  pip: pycairo
 rule:
   /pip3:
     cmd: pip3 install pycairo

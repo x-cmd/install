@@ -4,13 +4,13 @@ desc:
   cn: magick 用于显示、转换和编辑光栅图像和矢量图像文件
   en: magick is used to display, convert, and edit raster and vector image files
 x:
-  pkg:
-    exist: true
   source: https://github.com/ImageMagick/ImageMagick
   eget: https://github.com/ImageMagick/ImageMagick
   dnf: ImageMagick
   brew: imagemagick
   pacman: ImageMagick
+  yum: ImageMagick
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use magick

@@ -5,8 +5,6 @@ desc:
   cn: 更智能的 cd 命令。支持所有主要 shell。
   en: A smarter cd command. Supports all major shells.
 x:
-  pkg:
-    exist: true
   source: https://github.com/ajeetdsouza/zoxide
   eget: https://github.com/ajeetdsouza/zoxide
   apt: zoxide
@@ -14,6 +12,19 @@ x:
   brew: zoxide
   pacman: zoxide
   apk: zoxide
+  zypper: zoxide
+  port: zoxide
+  emerge: --sync
+  xbps: zoxide
+  scoop: zoxide
+  choco: zoxide
+  winget: ajeetdsouza.zoxide
+  powershell: zoxide
+  pacstall: zoxide-deb
+  yay: zoxide-git
+  cargo: zoxide
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use zoxide

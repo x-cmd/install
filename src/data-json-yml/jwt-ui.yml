@@ -9,6 +9,9 @@ x:
   eget: https://github.com/jwt-rs/jwt-ui
   brew: jwt-ui
   pacman: jwt-ui
+  scoop: jwt-ui
+  cargo: jwt-ui
+  curl: curl
 rule:
   /eget:
     cmd: x eget jwt-rs/jwt-ui

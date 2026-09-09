@@ -5,6 +5,7 @@ desc:
   en: Locally view markdown files in a browser
 x:
   source: https://github.com/commenthol/md-fileserver
+  npm: md-fileserver
 rule:
   /npm:
     cmd: npm install -g md-fileserver

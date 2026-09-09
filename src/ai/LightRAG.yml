@@ -6,6 +6,7 @@ desc:
   en: '[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"'
 x:
   source: https://github.com/HKUDS/LightRAG
+  pip: lightrag-hku
 rule:
   /pip:
     cmd: pip install lightrag-hku

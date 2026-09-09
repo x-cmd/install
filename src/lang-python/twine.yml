@@ -10,6 +10,8 @@ x:
   dnf: twine
   brew: --cask
   pacman: twine
+  apt-get: twine
+  pip: twine
 rule:
   /pip:
     cmd: pip install twine

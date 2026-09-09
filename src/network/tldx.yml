@@ -8,6 +8,8 @@ x:
   source: https://github.com/brandonyoungdev/tldx
   eget: https://github.com/brandonyoungdev/tldx
   brew: brandonyoungdev/tldx/tldx
+  yay: tldx
+  go: github.com/brandonyoungdev/tldx@latest
 rule:
   /eget:
     cmd: x eget brandonyoungdev/tldx

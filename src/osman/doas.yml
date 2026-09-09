@@ -9,6 +9,9 @@ x:
   apt: doas
   dnf: opendoas
   pacman: opendoas
+  xbps: opendoas
+  pacstall: doas-git
+  yay: doas
 rule:
   freebsd/pkg:
     cmd: pkg install doas

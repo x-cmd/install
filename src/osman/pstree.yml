@@ -11,6 +11,8 @@ x:
   brew: pstree
   pacman: psmisc
   apk: psmisc
+  apt-get: psmisc
+  yum: psmisc
 rule:
   darwin/brew:
     cmd: brew install pstree

@@ -5,9 +5,9 @@ desc:
   cn: gpt-engineer 是一个通过自然语言与 AI 交互来自动生成 web 应用程序的商业项目
   en: gpt-engineer is a commercial project that automatically generates web applications by interacting with AI through natural language
 x:
-  pkg:
-    exist: true
   source: https://github.com/AntonOsika/gpt-engineer
+  yay: gpt-engineer
+  pip: gpt_engineer
 rule:
   /x:
     cmd: x pkg use gpt-engineer

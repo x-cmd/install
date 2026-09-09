@@ -5,13 +5,12 @@ desc:
   cn: Vultr 服务的官方命令行工具
   en: Official command line tool for Vultr services
 x:
-  pkg:
-    exist: true
   source: https://github.com/vultr/vultr-cli
   eget: https://github.com/vultr/vultr-cli
   dnf: vultr-cli
   brew: vultr/vultr-cli/vultr-cli
   pacman: vultr-cli
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use vultr-cli

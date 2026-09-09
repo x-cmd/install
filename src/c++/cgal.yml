@@ -8,6 +8,8 @@ x:
   eget: https://github.com/CGAL/cgal
   apt: libcgal-dev
   brew: cgal
+  apt-get: libcgal-dev
+  yay: cgal-git
 rule:
   /eget:
     cmd: x eget CGAL/cgal

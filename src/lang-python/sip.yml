@@ -10,6 +10,8 @@ x:
   dnf: sip-devel
   brew: sip
   pacman: sip
+  apt-get: sip-devel
+  yum: sip-devel
 rule:
   darwin/brew:
     cmd: brew install sip

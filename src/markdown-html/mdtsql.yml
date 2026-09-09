@@ -5,11 +5,11 @@ desc:
   cn: 执行 SQL 查询并将结果转换为 Markdown 表的 CLI 工具
   en: A CLI tool that executes SQL queries and converts the results into a Markdown table
 x:
-  pkg:
-    exist: true
   source: https://github.com/noborus/mdtsql
   eget: https://github.com/noborus/mdtsql
   brew: noborus/tap/mdtsql
+  yay: mdtsql-bin
+  go: github.com/noborus/mdtsql/cmd/mdtsql@latest
 rule:
   /x:
     cmd: x pkg use mdtsql

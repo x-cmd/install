@@ -12,6 +12,9 @@ x:
   brew: nginx
   pacman: nginx
   apk: nginx
+  apt-get: nginx-extras
+  zypper: nginx
+  emerge: www-servers/nginx
 rule:
   /eget:
     cmd: x eget nginx/nginx

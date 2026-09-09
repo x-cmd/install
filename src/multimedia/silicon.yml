@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/Aloxaf/silicon
   brew: silicon
+  scoop: silicon
+  cargo: silicon
 rule:
   /cargo:
     cmd: cargo install silicon

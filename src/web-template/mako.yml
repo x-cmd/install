@@ -6,6 +6,7 @@ desc:
   en: A high-performance template engine, similar to Jinja2 or the Django template engine, for generating dynamic content in Python applications
 x:
   source: https://github.com/sqlalchemy/mako
+  pip: Mako
 rule:
   /pip:
     cmd: pip install Mako

@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/nthnd/tuime
   eget: https://github.com/nthnd/tuime
+  nix: github:nate-sys/tuime
+  yay: tuime
+  cargo: --git
 rule:
   /eget:
     cmd: x eget nthnd/tuime

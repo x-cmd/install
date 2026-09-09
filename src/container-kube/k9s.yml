@@ -5,12 +5,15 @@ desc:
   cn: K9s 是一个基于终端的 UI，用于与 Kubernetes 集群交互
   en: K9s is a terminal based UI to interact with your Kubernetes clusters
 x:
-  pkg:
-    exist: true
   source: https://github.com/derailed/k9s
   eget: https://github.com/derailed/k9s
   brew: derailed/k9s/k9s
   pacman: k9s
+  port: k9s
+  scoop: k9s
+  choco: k9s
+  powershell: k9s
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use k9s

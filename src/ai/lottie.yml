@@ -6,6 +6,7 @@ desc:
   en: Text-to-lottie is an open-source framework that lets coding agents (Claude Code, Codex, Cursor, etc.) generate production-ready Lottie animations from text prompts, with a hot-reloading player for live preview and inspection.
 x:
   source: https://github.com/diffusionstudio/lottie
+  git: diffusionstudio/lottie
 rule:
   /npm:
     cmd: npx skills add diffusionstudio/lottie

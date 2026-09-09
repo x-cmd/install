@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/pipe-cd/pipecd
   eget: https://github.com/pipe-cd/pipecd
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget pipe-cd/pipecd

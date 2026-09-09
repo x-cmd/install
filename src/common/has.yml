@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kdabir/has
   brew: kdabir/tap/has
+  asdf: asdf
+  curl: curl
 rule:
   /curl:
     cmd: alias has="curl -sL https://git.io/_has | bash -s"

@@ -6,6 +6,7 @@ desc:
   en: Talk to your shell — commands run, questions go to AI. No prefixes.
 x:
   source: https://github.com/lacymorrow/lacy
+  npm: lacy
 rule:
   /npm:
     cmd: npm install -g lacy

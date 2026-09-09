@@ -8,6 +8,12 @@ x:
   source: https://github.com/kamiyaa/joshuto
   dnf: joshuto
   brew: joshuto
+  port: joshuto
+  emerge: -av
+  yay: joshuto
+  paru: joshuto
+  cargo: --git
+  curl: curl
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/kamiyaa/joshuto.git --force

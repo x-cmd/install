@@ -10,6 +10,10 @@ x:
   apt: darktable
   dnf: darktable
   brew: --cask
+  zypper: darktable
+  port: darktable
+  flatpak: flathub
+  yay: darktable-git
 rule:
   /eget:
     cmd: x eget darktable-org/darktable

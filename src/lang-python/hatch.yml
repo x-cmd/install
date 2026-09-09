@@ -9,6 +9,10 @@ x:
   apt: yt-dlp
   dnf: hatch
   brew: hatch
+  port: hatch
+  xbps: hatch
+  yay: python-hatch-git
+  pip: hatch
 rule:
   /eget:
     cmd: x eget pypa/hatch

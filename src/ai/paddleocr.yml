@@ -6,6 +6,7 @@ desc:
   en: Extracts structured text, tables, and formulas from images and PDF documents to make them LLM-ready.
 x:
   source: https://github.com/PaddlePaddle/PaddleOCR
+  pip: paddleocr
 rule:
   /pip:
     cmd: pip install paddleocr

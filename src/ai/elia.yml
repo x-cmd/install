@@ -6,6 +6,7 @@ desc:
   en: elia is an application for interacting with LLMs which runs entirely in your terminal, and is designed to be keyboard-focused, efficient, and fun to use!
 x:
   source: https://github.com/darrenburns/elia
+  yay: elia
 rule:
   /pipx:
     cmd: pipx install --python 3.11 elia-chat

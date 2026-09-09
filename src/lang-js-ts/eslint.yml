@@ -5,10 +5,9 @@ desc:
   en: ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code
   cn: ESLint 是一个识别和报告 ECMAScript/JavaScript 代码中的模式的工具
 x:
-  pkg:
-    exist: true
   source: https://github.com/eslint/eslint
   brew: eslint
+  npm: eslint
 rule:
   /x:
     cmd: x pkg use eslint

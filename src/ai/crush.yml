@@ -5,11 +5,12 @@ desc:
   cn: 由 Charm 团队提供的终端的 AI 编码代理
   en: AI encoding agent for terminals provided by the Charm team
 x:
-  pkg:
-    exist: true
   source: https://github.com/charmbracelet/crush
   eget: https://github.com/charmbracelet/crush
   brew: charmbracelet/tap/crush
+  yay: crush-bin
+  npm: "@charmland/crush"
+  go: github.com/charmbracelet/crush@latest
 rule:
   /x:
     cmd: x pkg use crush

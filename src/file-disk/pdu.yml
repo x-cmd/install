@@ -8,6 +8,8 @@ x:
   source: https://github.com/KSXGitHub/parallel-disk-usage
   eget: https://github.com/KSXGitHub/parallel-disk-usage
   pacman: parallel-disk-usage
+  paru: parallel-disk-usage
+  cargo: parallel-disk-usage
 rule:
   /eget:
     cmd: x eget KSXGitHub/parallel-disk-usage

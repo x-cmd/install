@@ -8,6 +8,7 @@ x:
   source: https://github.com/hyperb1iss/unifly
   eget: https://github.com/hyperb1iss/unifly
   brew: hyperb1iss/tap/unifly'
+  cargo: --git
 rule:
   /cargo:
     cmd: 'cargo install --git https://github.com/hyperb1iss/unifly.git unifly'

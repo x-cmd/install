@@ -5,9 +5,9 @@ desc:
   cn: nodemon 是一个 Node.js 开发工具，当代码文件发生变化时，它会自动重启 Node.js 应用，帮助开发者提升开发效率
   en: nodemon is a Node.js development tool that automatically restarts your Node.js application whenever you make changes to your code files, saving you time and effort during development.
 x:
-  pkg:
-    exist: true
   source: https://github.com/remy/nodemon
+  yay: nodejs-nodemon
+  npm: nodemon
 rule:
   /x:
     cmd: x pkg use nodemon

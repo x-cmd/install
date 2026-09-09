@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/deepin-community/dpkg-awk
   apt: dpkg-awk
+  apt-get: dpkg-awk
 rule:
   debian/apt:
     cmd: sudo apt-get install dpkg-awk

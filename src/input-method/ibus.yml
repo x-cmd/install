@@ -10,6 +10,9 @@ x:
   apt: ibus-gtk
   dnf: ibus\*
   pacman: ibus
+  apt-get: ibus-gtk
+  zypper: ibus-libpinyin
+  emerge: -av
 rule:
   /eget:
     cmd: x eget ibus/ibus

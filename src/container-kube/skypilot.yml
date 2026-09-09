@@ -6,6 +6,7 @@ desc:
   en: 'Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).'
 x:
   source: https://github.com/skypilot-org/skypilot
+  pip: skypilot
 rule:
   /pip:
     cmd: pip install skypilot

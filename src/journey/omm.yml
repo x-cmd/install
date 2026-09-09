@@ -8,6 +8,7 @@ x:
   source: https://github.com/dhth/omm
   eget: https://github.com/dhth/omm
   brew: dhth/tap/omm
+  go: github.com/dhth/omm@latest
 rule:
   /eget:
     cmd: x eget dhth/omm

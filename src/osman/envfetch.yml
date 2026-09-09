@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/ankddev/envfetch
   eget: https://github.com/ankddev/envfetch
+  scoop: https://gist.githubusercontent.com/ankddev/f6314b552aa021f676fc999ec697f833/raw/envfetch.json
+  yay: envfetch
+  paru: envfetch
+  cargo: envfetch
+  curl: curl
 rule:
   /eget:
     cmd: x eget ankddev/envfetch

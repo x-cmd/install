@@ -5,11 +5,11 @@ desc:
   cn: 使用单个工具从 JSON、TOML、YAML、XML 和 CSV 文件中选择、放置和删除数据。支持格式之间的转换，可以作为 Go 包使用。
   en: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 x:
-  pkg:
-    exist: true
   source: https://github.com/tomwright/dasel
   eget: https://github.com/tomwright/dasel
   brew: dasel
+  yay: dasel
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use dasel

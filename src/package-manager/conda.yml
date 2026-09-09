@@ -7,6 +7,7 @@ x:
   source: https://github.com/conda/conda
   eget: https://github.com/conda/conda
   dnf: conda
+  yay: python-conda
 rule:
   /eget:
     cmd: x eget conda/conda

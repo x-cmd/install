@@ -10,6 +10,7 @@ x:
   brew: taskwarrior-tui
   pacman: taskwarrior-tui
   snap: taskwarrior-tui
+  yay: taskwarrior-tui-git
 rule:
   /eget:
     cmd: x eget kdheepak/taskwarrior-tui

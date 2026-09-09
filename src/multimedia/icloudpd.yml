@@ -5,10 +5,10 @@ desc:
   cn: iCloud Photos Downloader 是一个从 iCloud 下载照片的命令行工具
   en: iCloud Photos Downloader is a command-line tool to download photos from iCloud
 x:
-  pkg:
-    exist: true
   source: https://github.com/icloud-photos-downloader/icloud_photos_downloader
   eget: https://github.com/icloud-photos-downloader/icloud_photos_downloader
+  yay: icloudpd-bin
+  pip: icloudpd
 rule:
   /eget:
     cmd: x eget icloud-photos-downloader/icloud_photos_downloader

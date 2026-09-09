@@ -4,13 +4,13 @@ desc:
   cn: Lua 是一种强大、高效、轻量级、可嵌入的脚本语言。它支持过程式编程、面向对象编程、函数式编程、数据驱动编程和数据描述。
   en: Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
 x:
-  pkg:
-    exist: true
   source: https://github.com/lua/lua
   dnf: lua
   brew: lua
   pacman: lua
   apk: lua
+  yum: lua
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use lua

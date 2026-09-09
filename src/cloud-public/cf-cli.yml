@@ -10,6 +10,8 @@ x:
   apt: cf8-cli
   dnf: cf8-cli
   brew: cloudfoundry/tap/cf-cli@8
+  apt-get: cf8-cli
+  yum: cf8-cli
 rule:
   /eget:
     cmd: x eget cloudfoundry/cli

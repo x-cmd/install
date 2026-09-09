@@ -7,6 +7,8 @@ x:
   source: https://github.com/yarnpkg/yarn
   eget: https://github.com/yarnpkg/yarn
   brew: yarn
+  scoop: yarn
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget yarnpkg/yarn

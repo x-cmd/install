@@ -10,6 +10,8 @@ x:
   apt: xxd
   dnf: xxd
   pacman: xxd
+  apt-get: xxd
+  yum: xxd
 rule:
   /eget:
     cmd: x eget ckormanyos/xxd

@@ -5,13 +5,18 @@ desc:
   cn: 一个用于探索 Docker 图像、图层内容和发现缩小 Docker/OCI 图像大小的方法的工具
   en: A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image
 x:
-  pkg:
-    exist: true
   source: https://github.com/wagoodman/dive
   eget: https://github.com/wagoodman/dive
   apt: ./dive_${DIVE_VERSION}_linux_amd64.deb
   brew: dive
   pacman: dive
+  port: dive
+  scoop: main/dive
+  choco: dive
+  winget: wagoodman.dive
+  powershell: dive
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use dive

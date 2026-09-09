@@ -6,6 +6,7 @@ desc:
   en: Cargo is the Rust package manager
 x:
   source: https://github.com/rust-lang/cargo
+  curl: curl
 rule:
   linux/curl:
     cmd: curl https://sh.rustup.rs -sSf | sh

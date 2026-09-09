@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/ReagentX/Logria
   eget: https://github.com/ReagentX/Logria
+  yay: logria
+  cargo: logria
 rule:
   /eget:
     cmd: x eget ReagentX/Logria

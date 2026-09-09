@@ -8,6 +8,8 @@ x:
   source: https://github.com/curlpipe/ox
   eget: https://github.com/curlpipe/ox
   brew: ox
+  port: ox
+  cargo: --git
 rule:
   /eget:
     cmd: x eget curlpipe/ox

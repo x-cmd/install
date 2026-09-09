@@ -10,6 +10,12 @@ x:
   apt: imagemagick
   brew: t-rec
   snap: t-rec
+  apt-get: imagemagick
+  port: t-rec
+  yay: t-rec
+  paru: t-rec
+  cargo: -f
+  wget: wget
 rule:
   /eget:
     cmd: x eget sassman/t-rec-rs

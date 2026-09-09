@@ -6,6 +6,7 @@ desc:
   en: Co-op Translator is a Python package designed to automate multilingual translations for your projects using advanced Large Language Model (LLM) technology and Azure AI Services.
 x:
   source: https://github.com/Azure/co-op-translator
+  pip: co-op-translator
 rule:
   /pip:
     cmd: pip install co-op-translator

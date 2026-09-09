@@ -6,15 +6,17 @@ desc:
   en: AI chat for every model
 x:
   source: https://github.com/mckaywrigley/chatbot-ui
+  npm: "chatbot-ui"
+  git: https://github.com/mckaywrigley/chatbot-ui.git
 rule:
   /npm:
-    cmd: 'git clone https://github.com/mckaywrigley/chatbot-ui.git \
+    cmd: "git clone https://github.com/mckaywrigley/chatbot-ui.git \
 
       && cd chatbot-ui/ \
 
       && npm install
 
-      '
+      "
     reference: https://github.com/mckaywrigley/chatbot-ui?tab=readme-ov-file#local-quickstart
     dsnap: chatbot-ui
 binlist:
@@ -56,7 +58,7 @@ footprint:
           cn: 5 MB（估算）
           en: 5 MB estimated
     cpu:
-      workload: ['compute']
+      workload: [compute]
       processes: 1
       peak:
         rating: 2

@@ -8,6 +8,11 @@ x:
   source: https://github.com/blacknon/hwatch
   eget: https://github.com/blacknon/hwatch
   brew: hwatch
+  port: hwatch
+  yay: hwatch
+  paru: hwatch
+  cargo: hwatch
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget blacknon/hwatch

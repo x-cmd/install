@@ -6,6 +6,7 @@ desc:
   en: Next.js is a React framework for building full-stack web applications.
 x:
   source: https://github.com/vercel/next.js
+  npm: next@latest
 rule:
   /npx:
     cmd: npx create-next-app@latest

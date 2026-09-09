@@ -6,6 +6,8 @@ desc:
   cn: 使用 OpenAI 格式调用所有 LLM API。使用 Bedrock、Azure、OpenAI、Cohere、Anthropic、Ollama、Sagemaker、HuggingFace、Replicate（100+ LLMs）
 x:
   source: https://github.com/BerriAI/litellm
+  yay: litellm
+  pip: litellm
 rule:
   /pip:
     cmd: pip install litellm

@@ -8,6 +8,8 @@ x:
   source: https://github.com/dhth/prs
   eget: https://github.com/dhth/prs
   brew: dhth/tap/prs
+  yay: prs-tui
+  go: github.com/dhth/prs@latest
 rule:
   /eget:
     cmd: x eget dhth/prs

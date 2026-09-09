@@ -6,6 +6,8 @@ desc:
   en: Calico is a networking and security solution that enables Kubernetes workloads and non-Kubernetes/legacy workloads to communicate seamlessly and securely
 x:
   source: https://github.com/projectcalico/calico
+  yay: calicoctl
+  asdf: asdf
 rule:
   arch/yay:
     cmd: yay -S calicoctl

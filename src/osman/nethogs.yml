@@ -11,6 +11,9 @@ x:
   brew: nethogs
   pacman: nethogs
   apk: nethogs
+  apt-get: nethogs
+  zypper: nethogs
+  yay: nethogs-git
 rule:
   darwin/brew:
     cmd: brew install nethogs

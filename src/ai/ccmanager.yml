@@ -6,6 +6,7 @@ desc:
   en: Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 x:
   source: https://github.com/kbwo/ccmanager
+  npm: ccmanager
 rule:
   /npm:
     cmd: npm install -g ccmanager

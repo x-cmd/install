@@ -8,6 +8,10 @@ x:
   source: https://github.com/bufbuild/buf
   eget: https://github.com/bufbuild/buf
   brew: bufbuild/buf/buf
+  scoop: buf
+  yay: buf-bin
+  npm: "@bufbuild/buf"
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget bufbuild/buf

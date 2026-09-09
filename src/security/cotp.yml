@@ -9,6 +9,7 @@ x:
   eget: https://github.com/replydev/cotp
   brew: cotp
   pacman: cotp
+  cargo: cotp
 rule:
   /eget:
     cmd: x eget replydev/cotp

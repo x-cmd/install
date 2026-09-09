@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/joknarf/pgtree
   eget: https://github.com/joknarf/pgtree
+  pip: pgtree
 rule:
   /eget:
     cmd: x eget joknarf/pgtree

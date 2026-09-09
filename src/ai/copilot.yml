@@ -5,11 +5,13 @@ desc:
   cn: GitHub Copilot CLI 将 Copilot 编码代理的功能直接带到您的终端
   en: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 x:
-  pkg:
-    exist: true
   source: https://github.com/github/copilot-cli
   eget: https://github.com/github/copilot-cli
   brew: copilot-cli
+  winget: GitHub.Copilot
+  powershell: install
+  npm: "@github/copilot"
+  curl: curl
 rule:
   /x:
     cmd: x pkg use copilot

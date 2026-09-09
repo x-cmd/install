@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kubernetes-sigs/aws-iam-authenticator
   eget: https://github.com/kubernetes-sigs/aws-iam-authenticator
+  yay: aws-iam-authenticator
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget kubernetes-sigs/aws-iam-authenticator

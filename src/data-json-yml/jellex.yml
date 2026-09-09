@@ -6,6 +6,8 @@ desc:
   en: A TUI to filter JSON and JSON Lines data with Python syntax.
 x:
   source: https://github.com/kellyjonbrazil/jellex
+  yay: jellex
+  pip: jellex
 rule:
   /pip:
     cmd: pip install jellex

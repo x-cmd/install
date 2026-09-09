@@ -4,8 +4,6 @@ desc:
   cn: Neovim 是 Vim 传统上的一次重构，有时也是一次重写（redactor），它并不是一次完全的重写，而是对 Vim 的延续和扩展。
   en: Neovim is a refactor, and sometimes redactor, in the tradition of Vim (which itself derives from Stevie). It is not a rewrite but a continuation and extension of Vim.
 x:
-  pkg:
-    exist: true
   source: https://github.com/neovim/neovim
   eget: https://github.com/neovim/neovim
   apt: neovim
@@ -13,6 +11,19 @@ x:
   brew: neovim
   pacman: neovim
   apk: neovim
+  apt-get: neovim
+  yum: -y
+  zypper: neovim
+  port: neovim
+  emerge: -a
+  xbps: neovim
+  eopkg: neovim
+  scoop: neovim
+  choco: neovim
+  winget: Neovim.Neovim
+  powershell: neovim
+  flatpak: flathub
+  nix: nixpkgs#neovim
 rule:
   /eget:
     cmd: x eget neovim/neovim

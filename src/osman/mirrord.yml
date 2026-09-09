@@ -5,11 +5,11 @@ desc:
   cn: 用于连接本地进程和云环境，以在云条件下运行本地代码
   en: Connect your local process and your cloud environment, and run local code in cloud conditions
 x:
-  pkg:
-    exist: true
   source: https://github.com/metalbear-co/mirrord
   eget: https://github.com/metalbear-co/mirrord
   brew: metalbear-co/mirrord/mirrord
+  yay: mirrord
+  curl: curl
 rule:
   /x:
     cmd: x pkg use mirrord

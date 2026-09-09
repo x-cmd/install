@@ -6,6 +6,7 @@ homepage: https://github.com/rye/eb
 license: GPL-3.0
 x:
   source: https://github.com/rye/eb
+  cargo: eb
 rule:
   /cargo:
     cmd: cargo install eb

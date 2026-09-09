@@ -8,6 +8,7 @@ x:
   source: https://github.com/rgburke/grv
   eget: https://github.com/rgburke/grv
   brew: grv
+  yay: grv
 rule:
   /eget:
     cmd: x eget rgburke/grv

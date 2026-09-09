@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/ljh-sh/roff
   eget: https://github.com/ljh-sh/roff
+  cargo: roff-cli
 rule:
   /cargo:
     cmd: cargo install roff-cli

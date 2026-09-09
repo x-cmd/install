@@ -8,6 +8,10 @@ x:
   apt: fcitx5
   dnf: fcitx5
   pacman: fcitx5
+  apt-get: fcitx5
+  yum: fcitx5
+  zypper: fcitx5
+  flatpak: org.fcitx.Fcitx5
 rule:
   centos/yum:
     cmd: sudo yum install fcitx5

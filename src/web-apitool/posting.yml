@@ -6,6 +6,8 @@ desc:
   en: Posting is an HTTP client, not unlike Postman and Insomnia.
 x:
   source: https://github.com/darrenburns/posting
+  yay: posting
+  curl: curl
 rule:
   /curl:
     cmd: curl -LsSf https://astral.sh/uv/install.sh | sh

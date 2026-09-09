@@ -8,6 +8,12 @@ x:
   source: https://github.com/tldr-pages/tlrc
   eget: https://github.com/tldr-pages/tlrc
   brew: tlrc
+  zypper: tlrc
+  port: tlrc
+  winget: tldr-pages.tlrc
+  powershell: install
+  yay: tlrc
+  cargo: tlrc
 rule:
   /eget:
     cmd: x eget tldr-pages/tlrc

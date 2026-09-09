@@ -11,6 +11,15 @@ x:
   dnf: glow
   brew: glow
   pacman: glow
+  yum: glow
+  port: glow
+  xbps: glow
+  eopkg: glow
+  scoop: glow
+  choco: glow
+  powershell: glow
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget charmbracelet/glow

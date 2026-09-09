@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/onetrueawk/awk
   apt: original-awk
+  apt-get: original-awk
 rule:
   debian/apt:
     cmd: sudo apt-get install original-awk

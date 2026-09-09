@@ -6,6 +6,7 @@ desc:
   en: Interact with Twitter/X from the command line to read timelines, manage tweets, and export data without an API key.
 x:
   source: https://github.com/public-clis/twitter-cli
+  pip: twitter-cli
 rule:
   /pip:
     cmd: pip install twitter-cli

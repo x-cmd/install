@@ -6,6 +6,7 @@ desc:
   en: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools lik...
 x:
   source: https://github.com/yamadashy/repomix
+  npm: repomix
 rule:
   /npm:
     cmd: npm install -g repomix

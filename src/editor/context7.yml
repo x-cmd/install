@@ -6,6 +6,7 @@ desc:
   en: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 x:
   source: https://github.com/upstash/context7
+  npm: "@upstash/context7-mcp"
 rule:
   /npm:
     cmd: npm install -g @upstash/context7-mcp

@@ -8,6 +8,10 @@ x:
   apt: ngrok\n"
   brew: ngrok
   snap: ngrok
+  choco: ngrok
+  powershell: ngrok
+  yay: ngrok
+  curl: curl
 rule:
   darwin/brew:
     cmd: brew install ngrok

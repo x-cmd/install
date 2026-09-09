@@ -6,6 +6,8 @@ desc:
   cn: 用于监控 Nvidia Jetson 开发板的 TUI
 x:
   source: https://github.com/pythops/tegratop
+  yay: tegratop
+  cargo: tegratop
 rule:
   /cargo:
     cmd: cargo install tegratop

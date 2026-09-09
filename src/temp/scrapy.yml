@@ -6,6 +6,7 @@ homepage: https://github.com/scrapy/scrapy
 license: BSD-3-Clause
 x:
   source: https://github.com/scrapy/scrapy
+  pip: scrapy
 rule:
   /pip:
     cmd: pip install scrapy

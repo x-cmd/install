@@ -4,8 +4,6 @@ desc:
   cn: WebP 编码器工具
   en: WebP encoder tool
 x:
-  pkg:
-    exist: true
   brew: webp
 rule:
   /x:

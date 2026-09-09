@@ -5,14 +5,20 @@ desc:
   cn: ls 的现代、维护替代品，构建于 exa 之上，功能更加丰富
   en: A modern, maintained replacement for ls
 x:
-  pkg:
-    exist: true
   source: https://github.com/eza-community/eza
   eget: https://github.com/eza-community/eza
   apt: -y
   dnf: eza
   brew: eza
   pacman: eza
+  zypper: eza
+  port: eza
+  emerge: sys-apps/eza
+  xbps: eza
+  scoop: eza
+  winget: eza-community.eza
+  powershell: install
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use eza

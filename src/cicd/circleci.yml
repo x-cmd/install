@@ -9,6 +9,10 @@ x:
   eget: https://github.com/CircleCI-Public/circleci-cli
   brew: circleci
   snap: circleci
+  choco: circleci-cli
+  powershell: circleci-cli
+  yay: circleci-cli-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget CircleCI-Public/circleci-cli

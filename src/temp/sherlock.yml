@@ -6,6 +6,9 @@ desc:
   en: Sherlock, a powerful command line tool provided by Sherlock Project, can be used to find usernames across many social networks
 x:
   source: https://github.com/sherlock-project/sherlock
+  yay: sherlock
+  pip: -r
+  git: https://github.com/sherlock-project/sherlock.git
 rule:
   /pip:
     cmd: 'git clone https://github.com/sherlock-project/sherlock.git \

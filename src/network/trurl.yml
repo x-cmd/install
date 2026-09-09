@@ -7,6 +7,7 @@ x:
   source: https://github.com/curl/trurl
   eget: https://github.com/curl/trurl
   brew: trurl
+  yay: trurl-git
 rule:
   /eget:
     cmd: x eget curl/trurl

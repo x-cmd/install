@@ -9,6 +9,8 @@ x:
   eget: https://github.com/marwanhawari/stew
   brew: marwanhawari/tap/stew
   pacman: stew
+  yay: stew
+  go: github.com/marwanhawari/stew@latest
 rule:
   /eget:
     cmd: x eget marwanhawari/stew

@@ -5,11 +5,12 @@ desc:
   cn: 用 go 实现的 Powerline 风格 prompt
   en: Powerline style prompt implemented in go
 x:
-  pkg:
-    exist: true
   source: https://github.com/justjanne/powerline-go
   eget: https://github.com/justjanne/powerline-go
   brew: powerline-go
+  yay: powerline-go
+  go: github.com/justjanne/powerline-go@latest
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use powerline-go

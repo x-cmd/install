@@ -10,6 +10,15 @@ x:
   dnf: the_silver_searcher
   brew: the_silver_searcher
   pacman: the_silver_searcher
+  apt-get: silversearcher-ag
+  yum: epel-release.noarch
+  zypper: the_silver_searcher
+  port: the_silver_searcher
+  emerge: -a
+  scoop: main/ag
+  choco: ag
+  winget: TheSilverSearcher
+  powershell: ag
 rule:
   darwin/brew:
     cmd: brew install the_silver_searcher
@@ -63,10 +72,10 @@ rule:
     cmd: x choco install ag
     reference: https://community.chocolatey.org/packages/discord
   (win|wsl2)/winget:
-    cmd: x winget install "The Silver Searcher"
+    cmd: x winget install TheSilverSearcher
     reference: https://github.com/ggreer/the_silver_searcher?tab=readme-ov-file#windows
   win/msys2:
-    cmd: sudo pacman -S mingw-w64-{i686,x86_64}-ag
+    cmd: sudo pacman -S ag
     reference: https://github.com/ggreer/the_silver_searcher?tab=readme-ov-file#windows
 binlist:
 - the_silver_searcher

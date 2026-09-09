@@ -9,6 +9,8 @@ x:
   eget: https://github.com/zevv/duc
   apt: duc
   brew: duc
+  apt-get: duc
+  yay: duc
 rule:
   /eget:
     cmd: x eget zevv/duc

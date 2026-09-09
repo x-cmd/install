@@ -5,8 +5,6 @@ desc:
   cn: 命令行基准测试工具。
   en: A command-line benchmarking tool.
 x:
-  pkg:
-    exist: true
   source: https://github.com/sharkdp/hyperfine
   eget: https://github.com/sharkdp/hyperfine
   apt: hyperfine
@@ -14,6 +12,17 @@ x:
   brew: hyperfine
   pacman: hyperfine
   apk: hyperfine
+  zypper: hyperfine
+  port: hyperfine
+  emerge: app-benchmarks/hyperfine
+  xbps: hyperfine
+  scoop: hyperfine
+  choco: hyperfine
+  winget: hyperfine
+  powershell: install
+  yay: hyperfine-git
+  asdf: asdf
+  wget: wget
 rule:
   /x:
     cmd: x pkg use hyperfine

@@ -11,6 +11,13 @@ x:
   brew: borgbackup
   pacman: borg
   apk: borgbackup
+  apt-get: borgbackup
+  zypper: borgbackup
+  emerge: borgbackup
+  guix: --install
+  pip: borgbackup
+  asdf: asdf
+  make: make
 rule:
   /eget:
     cmd: x eget borgbackup/borg

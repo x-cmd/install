@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/Textualize/frogmouth
   brew: textualize/homebrew/frogmouth
+  yay: frogmouth
+  pip: frogmouth
 rule:
   arch/yay:
     cmd: yay -S frogmouth

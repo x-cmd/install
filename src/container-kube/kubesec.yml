@@ -8,6 +8,8 @@ x:
   source: https://github.com/shyiko/kubesec
   eget: https://github.com/shyiko/kubesec
   brew: shyiko/kubesec/kubesec
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget shyiko/kubesec

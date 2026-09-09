@@ -6,6 +6,8 @@ desc:
   cn: ufw 的终端用户界面
 x:
   source: https://github.com/peltho/tufw
+  yaourt: tufw-git
+  go: github.com/peltho/tufw/cmd/tufw@latest
 rule:
   /go:
     cmd: go install github.com/peltho/tufw/cmd/tufw@latest

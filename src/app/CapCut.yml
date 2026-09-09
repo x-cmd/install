@@ -6,6 +6,8 @@ desc:
   en: CapCut,Versatile and easy-to-use video editing tool
 x:
   source: https://github.com/Leonidas-from-XIV/node-xml2js
+  winget: ByteDance.JianyingPro
+  powershell: install
 rule:
   (win|wsl2)/winget:
     cmd: x winget install ByteDance.JianyingPro

@@ -8,6 +8,13 @@ x:
   source: https://github.com/Schniz/fnm
   eget: https://github.com/Schniz/fnm
   brew: fnm
+  scoop: fnm
+  choco: fnm
+  winget: Schniz.fnm
+  powershell: fnm
+  yay: fnm-bin
+  cargo: fnm
+  curl: curl
 rule:
   /eget:
     cmd: x eget Schniz/fnm

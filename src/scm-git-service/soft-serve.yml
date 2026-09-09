@@ -5,14 +5,16 @@ desc:
   cn: soft-serve 是一个用于命令行的自托管 Git 服务器
   en: soft-serve is a self-hostable Git server for the command-line
 x:
-  pkg:
-    exist: true
   source: https://github.com/charmbracelet/soft-serve
   eget: https://github.com/charmbracelet/soft-serve
   apt: soft-serve
   dnf: soft-serve
   brew: charmbracelet/tap/soft-serve
   pacman: soft-serve
+  yum: soft-serve
+  port: lazygit
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use soft-serve

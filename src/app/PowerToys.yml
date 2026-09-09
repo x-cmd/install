@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/microsoft/PowerToys
   eget: https://github.com/microsoft/PowerToys
+  scoop: powertoys
+  choco: powertoys
+  winget: Microsoft.PowerToys
+  powershell: powertoys
 rule:
   /eget:
     cmd: x eget microsoft/PowerToys

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/telepresenceio/telepresence
   eget: https://github.com/telepresenceio/telepresence
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget telepresenceio/telepresence

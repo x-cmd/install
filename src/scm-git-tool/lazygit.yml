@@ -5,13 +5,21 @@ desc:
   cn: 一个 `git` 命令的终端 UI
   en: A simple terminal UI for `git` commands
 x:
-  pkg:
-    exist: true
   source: https://github.com/jesseduffield/lazygit
   eget: https://github.com/jesseduffield/lazygit
   dnf: lazygit
   brew: lazygit
   pacman: lazygit
+  zypper: lazygit
+  port: lazygit
+  emerge: dev-vcs/lazygit
+  xbps: lazygit
+  eopkg: lazygit
+  scoop: lazygit
+  choco: lazygit
+  winget: -e
+  powershell: install
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use lazygit

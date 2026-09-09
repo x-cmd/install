@@ -6,6 +6,8 @@ desc:
   en: netop is a terminal command line interface that can customize the filter network traffic rule.
 x:
   source: https://github.com/ZingerLittleBee/netop
+  yay: netop
+  cargo: netop
 rule:
   /cargo:
     cmd: sudo cargo install netop

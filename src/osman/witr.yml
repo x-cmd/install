@@ -9,6 +9,12 @@ x:
   eget: https://github.com/pranshuparmar/witr
   apt: witr
   brew: witr
+  winget: -e
+  powershell: install
+  yay: witr-bin
+  paru: witr-bin
+  go: github.com/pranshuparmar/witr/cmd/witr@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget use pranshuparmar/witr

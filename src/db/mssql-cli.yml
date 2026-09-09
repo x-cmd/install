@@ -5,11 +5,13 @@ desc:
   cn: SQL Server 命令行客户端，具有自动补全和语法突出显示功能
   en: A command-line client for SQL Server with auto-completion and syntax highlighting
 x:
-  pkg:
-    exist: true
   source: https://github.com/dbcli/mssql-cli
   apt: mssql-cli
   dnf: libunwind
+  apt-get: mssql-cli
+  yum: libunwind
+  pip: mssql-cli
+  curl: curl
 rule:
   /x:
     cmd: x pkg use mssql-cli

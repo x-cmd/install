@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/sontek/snowmachine
   brew: sontek/snowmachine/snowmachine
+  pip: snowmachine
 rule:
   nix/nix-shell:
     cmd: nix-shell -p snowmachine --command snowmachine

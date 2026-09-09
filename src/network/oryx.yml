@@ -6,6 +6,8 @@ desc:
   en: A network traffic sniffer using eBPF (extended Berkeley Packet Filter).
 x:
   source: https://github.com/pythops/oryx
+  yay: oryx
+  paru: oryx
 rule:
   arch/yay:
     cmd: yay -S oryx

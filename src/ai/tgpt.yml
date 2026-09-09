@@ -8,6 +8,12 @@ x:
   source: https://github.com/aandrew-me/tgpt
   eget: https://github.com/aandrew-me/tgpt
   pacman: tgpt
+  scoop: https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
+  choco: tgpt
+  powershell: tgpt
+  yay: tgpt-git
+  go: github.com/aandrew-me/tgpt/v2@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget aandrew-me/tgpt

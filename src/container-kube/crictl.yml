@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/kubernetes-sigs/cri-tools
   eget: https://github.com/kubernetes-sigs/cri-tools
+  asdf: asdf
+  wget: wget
 rule:
   /eget:
     cmd: x eget kubernetes-sigs/cri-tools

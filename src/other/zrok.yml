@@ -8,6 +8,9 @@ x:
   source: https://github.com/openziti/zrok
   eget: https://github.com/openziti/zrok
   brew: zrok
+  scoop: extras/zrok
+  yay: zrok
+  curl: curl
 rule:
   /eget:
     cmd: x eget openziti/zrok

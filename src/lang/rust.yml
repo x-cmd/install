@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/rust-lang/rust
   brew: rust
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use rust

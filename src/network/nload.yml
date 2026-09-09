@@ -11,6 +11,7 @@ x:
   brew: nload
   pacman: nload
   apk: nload
+  apt-get: nload
 rule:
   debian/apt:
     cmd: sudo apt-get install nload

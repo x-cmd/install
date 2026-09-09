@@ -8,6 +8,8 @@ x:
   source: https://github.com/mongodb-js/mongosh
   eget: https://github.com/mongodb-js/mongosh
   brew: mongosh
+  yay: mongosh-bin
+  npm: mongosh
 rule:
   /eget:
     cmd: x eget mongodb-js/mongosh

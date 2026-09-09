@@ -8,6 +8,8 @@ x:
   source: https://github.com/kcctl/kcctl
   eget: https://github.com/kcctl/kcctl
   brew: kcctl/tap/kcctl
+  asdf: asdf
+  wget: wget
 rule:
   /eget:
     cmd: x eget kcctl/kcctl

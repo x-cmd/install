@@ -11,6 +11,8 @@ x:
   brew: bmon
   pacman: bmon
   apk: bmon
+  zypper: bmon
+  yay: bmon-git
 rule:
   /eget:
     cmd: x eget tgraf/bmon

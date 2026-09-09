@@ -4,14 +4,14 @@ desc:
   cn: 一个集成了多个常用命令和工具的单个可执行文件，旨在为嵌入式系统和资源受限的环境提供常用的命令和实用程序
   en: A streamlined tool set that integrates multiple commonly used commands and tools
 x:
-  pkg:
-    exist: true
   source: https://github.com/mirror/busybox
   apt: busybox
   dnf: busybox
   brew: procs
   pacman: busybox
   apk: busybox
+  apt-get: busybox
+  yum: busybox
 rule:
   /x:
     cmd: x pkg use busybox

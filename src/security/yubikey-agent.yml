@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/FiloSottile/yubikey-agent
   brew: yubikey-agent
+  yay: yubikey-agent
 rule:
   arch/yay:
     cmd: yay -S yubikey-agent

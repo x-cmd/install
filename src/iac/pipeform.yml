@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/magodo/pipeform
   eget: https://github.com/magodo/pipeform
+  yay: pipeform
+  go: github.com/magodo/pipeform@main
 rule:
   /eget:
     cmd: x eget magodo/pipeform

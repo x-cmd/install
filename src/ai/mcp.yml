@@ -6,6 +6,7 @@ desc:
   en: Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 x:
   source: https://github.com/BrowserMCP/mcp
+  npm: "@browsermcp/mcp"
 rule:
   /npm:
     cmd: npm install -g @browsermcp/mcp

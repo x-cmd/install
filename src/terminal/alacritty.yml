@@ -6,6 +6,11 @@ desc:
   en: Alacritty is a modern terminal emulator that comes with sensible defaults, but allows for extensive configuration
 x:
   source: https://github.com/alacritty/alacritty
+  scoop: extras/alacritty
+  choco: alacritty
+  winget: -e
+  powershell: install
+  cargo: alacritty
 rule:
   /cargo:
     cmd: cargo install alacritty

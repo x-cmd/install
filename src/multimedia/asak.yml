@@ -6,6 +6,8 @@ desc:
   en: A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 x:
   source: https://github.com/chaosprint/asak
+  yay: asak
+  cargo: asak
 rule:
   /cargo:
     cmd: cargo install asak

@@ -9,6 +9,9 @@ x:
   dnf: mypy
   brew: mypy
   pacman: mypy
+  apt-get: mypy
+  yay: mypy-git
+  pip: -U
 rule:
   /pip:
     cmd: pip install -U mypy

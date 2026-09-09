@@ -5,11 +5,13 @@ desc:
   cn: 用于基于 Marp 和 Marpit 的转换器的 CLI 界面
   en: A CLI interface for Marp and Marpit based converters
 x:
-  pkg:
-    exist: true
   source: https://github.com/marp-team/marp-cli
   eget: https://github.com/marp-team/marp-cli
   brew: marp-cli
+  scoop: marp
+  yay: marp-cli
+  npm: "@marp-team/marp-cli"
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use marp-cli

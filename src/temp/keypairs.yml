@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/therootcompany/keypairs
   eget: https://github.com/therootcompany/keypairs
+  curl: curl
 rule:
   /eget:
     cmd: x eget therootcompany/keypairs

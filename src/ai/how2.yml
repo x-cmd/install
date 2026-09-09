@@ -5,11 +5,11 @@ desc:
   en: Use an external AI server to find the best unix command line suggestions
   cn: 使用外部 AI 服务器来查找最佳的 unix 命令行建议
 x:
-  pkg:
-    exist: true
   source: https://github.com/santinic/how2
   eget: https://github.com/santinic/how2
   brew: how2
+  yay: how2
+  npm: how2
 rule:
   /x:
     cmd: x pkg use how2

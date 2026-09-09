@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/facebook/mvfst
   brew: mvfst
+  yay: mvfst
 rule:
   arch/yay:
     cmd: yay -S mvfst

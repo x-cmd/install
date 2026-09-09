@@ -8,6 +8,9 @@ x:
   source: https://github.com/kptdev/kpt
   eget: https://github.com/kptdev/kpt
   brew: kpt
+  yay: kpt-bin
+  go: -v
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget kptdev/kpt

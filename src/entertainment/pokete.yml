@@ -6,6 +6,8 @@ desc:
   en: A terminal based Pokemon like game
 x:
   source: https://github.com/lxgr-linux/pokete
+  yay: pokete
+  pip: pokete
 rule:
   arch/yay:
     cmd: yay -S pokete

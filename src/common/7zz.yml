@@ -4,8 +4,6 @@ desc:
   cn: 7-Zip 是一款拥有极高压缩比的开源压缩软件
   en: 7-Zip is a file archiver with a high compression ratio
 x:
-  pkg:
-    exist: true
   source: https://github.com/ip7z/7zip
   eget: https://github.com/ip7z/7zip
 rule:

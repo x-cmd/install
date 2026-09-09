@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/red-data-tools/YouPlot
   brew: youplot
+  yay: ruby-youplot
+  gem: youplot
 rule:
   darwin/brew:
     cmd: brew install youplot

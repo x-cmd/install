@@ -8,6 +8,7 @@ x:
   source: https://github.com/nrempel/sleek
   eget: https://github.com/nrempel/sleek
   brew: --cask
+  cargo: sleek
 rule:
   /eget:
     cmd: x eget nrempel/sleek

@@ -6,6 +6,8 @@ desc:
   en: An autoresearch orchestrator that runs parallel LLM sub-agents to discover metrics, iterate on code via experiments, and hill-climb score in tree-search fashion — extends Karpathy's autoresearch with shared state, gates, and remote sandboxes.
 x:
   source: https://github.com/evo-hq/evo
+  pip: -U
+  git: evo-hq/evo
 rule:
   /pip:
     cmd: pip install -U evo-hq-cli

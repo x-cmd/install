@@ -6,6 +6,7 @@ desc:
   en: A pure Unix shell script implementing ACME client protocol
 x:
   source: https://github.com/acmesh-official/acme.sh
+  curl: curl
 rule:
   /curl:
     cmd: curl https://get.acme.sh | sh -s email=my@example.com

@@ -11,6 +11,13 @@ x:
   dnf: -y
   brew: mise
   apk: mise
+  scoop: mise
+  choco: mise
+  winget: jdx.mise
+  powershell: mise
+  npm: "@jdxcode/mise"
+  cargo: mise
+  curl: curl
 rule:
   /eget:
     cmd: x eget jdx/mise

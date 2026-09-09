@@ -11,6 +11,9 @@ x:
   dnf: virtualenv
   brew: virtualenv
   pacman: virtualenv
+  apt-get: virtualenv
+  yum: virtualenv
+  pip: --user
 rule:
   /eget:
     cmd: x eget pypa/virtualenv

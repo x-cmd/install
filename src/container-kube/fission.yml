@@ -8,6 +8,9 @@ x:
   source: https://github.com/fission/fission
   eget: https://github.com/fission/fission
   brew: --cask
+  scoop: main/fission-cli
+  yay: fission-bin
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget fission/fission

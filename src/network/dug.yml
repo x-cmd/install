@@ -10,6 +10,9 @@ x:
   brew: dug
   pacman: dug
   snap: unfrl-dug
+  choco: dug
+  powershell: dug
+  yay: unfrl-dug-bin
 rule:
   /eget:
     cmd: x eget unfrl/dug

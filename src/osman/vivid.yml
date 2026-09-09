@@ -8,6 +8,7 @@ x:
   source: https://github.com/sharkdp/vivid
   eget: https://github.com/sharkdp/vivid
   brew: vivid
+  cargo: vivid
 rule:
   /eget:
     cmd: x eget sharkdp/vivid

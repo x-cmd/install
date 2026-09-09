@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/googleworkspace/cli
   eget: https://github.com/googleworkspace/cli
+  yay: googleworkspace-cli-bin
+  npm: "@googleworkspace/cli"
 rule:
   /eget:
     cmd: x eget googleworkspace/cli

@@ -7,6 +7,8 @@ x:
   source: https://github.com/qemu/qemu
   apt: qemu-kvm
   dnf: qemu-kvm
+  apt-get: qemu-kvm
+  yum: qemu-kvm
 rule:
   debian/apt:
     cmd: sudo apt-get install qemu-kvm

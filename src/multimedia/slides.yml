@@ -9,6 +9,8 @@ x:
   eget: https://github.com/maaslalani/slides
   brew: slides
   snap: slides
+  yay: slides
+  go: github.com/maaslalani/slides@latest
 rule:
   /eget:
     cmd: x eget maaslalani/slides

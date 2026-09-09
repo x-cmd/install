@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/mathaou/termdbms
   pacman: termdbms-git
+  yay: termdbms-git
+  go: github.com/mathaou/termdbms@latest
 rule:
   /go:
     cmd: go install github.com/mathaou/termdbms@latest

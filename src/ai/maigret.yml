@@ -6,6 +6,7 @@ desc:
   en: Find a person's online accounts across 3,000+ websites by username and generate detailed OSINT reports.
 x:
   source: https://github.com/soxoj/maigret
+  pip: maigret
 rule:
   /pip:
     cmd: pip install maigret

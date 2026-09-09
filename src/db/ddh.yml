@@ -7,6 +7,8 @@ x:
   source: https://github.com/darakian/ddh
   eget: https://github.com/darakian/ddh
   brew: ddh
+  yay: ddh
+  cargo: --git
 rule:
   /eget:
     cmd: x eget darakian/ddh

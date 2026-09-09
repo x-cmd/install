@@ -6,6 +6,7 @@ desc:
   en: A CLI tool and framework for creating and presenting richly-styled terminal presentations.
 x:
   source: https://github.com/JoshKarpel/spiel
+  pip: spiel
 rule:
   /pip:
     cmd: pip install spiel

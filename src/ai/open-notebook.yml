@@ -6,6 +6,7 @@ desc:
   en: Open source, privacy-focused alternative to Google's NotebookLM. Self-host a private knowledge base with 18+ AI providers, multi-modal research, context-aware chat, and professional multi-speaker podcast generation.
 x:
   source: https://github.com/lfnovo/open-notebook
+  git: lfnovo/open-notebook
 rule:
   /git:
     cmd: x git clone lfnovo/open-notebook

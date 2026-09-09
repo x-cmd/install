@@ -5,12 +5,17 @@ desc:
   cn: youtube-dl 的一个分支，主要重点是添加新功能和补丁
   en: A youtube-dl fork with additional features and fixes
 x:
-  pkg:
-    exist: true
   source: https://github.com/yt-dlp/yt-dlp
   eget: https://github.com/yt-dlp/yt-dlp
   apt: yt-dlp
   brew: yt-dlp
+  port: yt-dlp
+  scoop: yt-dlp
+  choco: yt-dlp
+  winget: yt-dlp
+  powershell: install
+  yay: yt-dlp-git
+  pip: -U
 rule:
   /eget:
     cmd: x eget yt-dlp/yt-dlp

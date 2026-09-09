@@ -6,6 +6,7 @@ desc:
   en: Query X/Twitter data and cache posts as Markdown files using the Grok Build CLI for use by AI agents.
 x:
   source: https://github.com/enderzcx/superx
+  pip: superx
 rule:
   /pip:
     cmd: pip install superx

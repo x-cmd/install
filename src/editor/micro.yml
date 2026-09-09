@@ -5,8 +5,6 @@ desc:
   cn: 一款直观且现代化的基于终端的文本编辑器
   en: A modern and intuitive terminal-based text editor
 x:
-  pkg:
-    exist: true
   source: https://github.com/zyedidia/micro
   eget: https://github.com/zyedidia/micro
   apt: micro
@@ -14,6 +12,16 @@ x:
   brew: micro
   pacman: micro
   snap: micro
+  apt-get: micro
+  zypper: micro-editor
+  port: micro
+  emerge: app-editors/micro
+  eopkg: micro
+  scoop: micro
+  choco: micro
+  powershell: micro
+  pacstall: micro
+  curl: curl
 rule:
   /eget:
     cmd: x eget zyedidia/micro

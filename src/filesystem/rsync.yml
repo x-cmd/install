@@ -11,6 +11,8 @@ x:
   brew: rsync
   pacman: rsync
   apk: rsync
+  apt-get: rsync
+  scoop: main/cwrsync
 rule:
   /eget:
     cmd: x eget RsyncProject/rsync

@@ -8,6 +8,8 @@ x:
   source: https://github.com/bridgecrewio/checkov
   eget: https://github.com/bridgecrewio/checkov
   brew: checkov
+  pip: checkov
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget bridgecrewio/checkov

@@ -9,6 +9,8 @@ x:
   apt: liquibase
   dnf: liquibase
   brew: liquibase
+  apt-get: liquibase
+  yum: liquibase
 rule:
   /eget:
     cmd: x eget liquibase/liquibase

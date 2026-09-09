@@ -9,6 +9,10 @@ x:
   apt: git-lfs
   dnf: git-lfs
   brew: git-lfs
+  apt-get: git-lfs
+  yum: git-lfs
+  choco: git-lfs.install
+  powershell: git-lfs.install
 rule:
   /eget:
     cmd: x eget git-lfs/git-lfs

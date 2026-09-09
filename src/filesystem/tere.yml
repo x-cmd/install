@@ -8,6 +8,8 @@ x:
   source: https://github.com/mgunyho/tere
   brew: tere
   pacman: tere
+  scoop: tere
+  cargo: tere
 rule:
   darwin/brew:
     cmd: brew install tere

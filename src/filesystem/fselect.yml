@@ -5,10 +5,15 @@ desc:
   cn: find 命令的现代化替代品，用于在文件系统中进行快速查找文件和目录
   en: A modern replacement for the find command for quickly finding files and directories in a file system
 x:
-  pkg:
-    exist: true
   source: https://github.com/jhspetersson/fselect
   brew: fselect
+  port: fselect
+  scoop: fselect
+  choco: fselect
+  winget: -e
+  powershell: fselect
+  yay: fselect
+  cargo: fselect
 rule:
   /x:
     cmd: x pkg use fselect

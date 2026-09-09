@@ -10,6 +10,8 @@ x:
   brew: flawz
   pacman: flawz
   apk: flawz
+  yay: flawz
+  cargo: flawz
 rule:
   /eget:
     cmd: x eget orhun/flawz

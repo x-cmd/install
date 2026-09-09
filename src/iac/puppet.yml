@@ -6,6 +6,7 @@ desc:
   en: Puppet is the most powerful configuration management tool in the solar system
 x:
   source: https://github.com/puppetlabs/puppet
+  wget: wget
 rule:
   /rpm:
     cmd: sudo rpm -Uvh https://yum.puppet.com/puppet8-release-el-8.noarch.rpm

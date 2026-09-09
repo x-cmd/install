@@ -8,6 +8,9 @@ x:
   source: https://github.com/orhun/halp
   eget: https://github.com/orhun/halp
   pacman: halp
+  yay: halp-bin
+  paru: halp-git
+  cargo: halp
 rule:
   /eget:
     cmd: x eget orhun/halp

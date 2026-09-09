@@ -6,6 +6,7 @@ desc:
   en: Zim is a Zsh configuration framework that bundles a plugin manager, useful modules and a wide variety of themes, without compromising on speed
 x:
   source: https://github.com/zimfw/zimfw
+  curl: curl
 rule:
   /curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh

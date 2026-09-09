@@ -9,6 +9,7 @@ x:
   eget: https://github.com/neurocyte/flow
   brew: flow-control
   pacman: flow-control
+  curl: curl
 rule:
   /eget:
     cmd: x eget neurocyte/flow

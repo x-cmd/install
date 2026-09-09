@@ -10,6 +10,14 @@ x:
   dnf: kubernetes-client
   brew: kubectl
   snap: kubectl
+  apt-get: kubernetes-client
+  yum: kubernetes-client
+  port: kubectl
+  scoop: kubectl
+  choco: kubernetes-cli
+  winget: -e
+  powershell: kubernetes-cli
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use kubectl

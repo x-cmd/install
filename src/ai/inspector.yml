@@ -6,6 +6,7 @@ desc:
   en: Visual testing tool for MCP servers
 x:
   source: https://github.com/modelcontextprotocol/inspector
+  npm: "@modelcontextprotocol/inspector"
 rule:
   /npm:
     cmd: npm install -g @modelcontextprotocol/inspector

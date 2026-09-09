@@ -9,6 +9,7 @@ x:
   eget: https://github.com/GyulyVGC/sniffnet
   brew: sniffnet
   pacman: sniffnet
+  cargo: sniffnet
 rule:
   /eget:
     cmd: x eget GyulyVGC/sniffnet

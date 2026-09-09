@@ -9,6 +9,8 @@ x:
   apt: ttyplot
   brew: ttyplot
   snap: ttyplot
+  emerge: -av
+  yay: ttyplot
 rule:
   ubuntu/snap:
     cmd: snap install ttyplot

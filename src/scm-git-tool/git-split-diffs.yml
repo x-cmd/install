@@ -6,6 +6,8 @@ desc:
   en: GitHub style split (side by side) diffs with syntax highlighting in your terminal.
 x:
   source: https://github.com/banga/git-split-diffs
+  yay: nodejs-git-split-diffs
+  npm: git-split-diffs
 rule:
   /npm:
     cmd: npm install -g git-split-diffs

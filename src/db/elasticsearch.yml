@@ -7,6 +7,12 @@ x:
   source: https://github.com/elastic/elasticsearch
   apt: apt-transport-https
   dnf: --enablerepo=elasticsearch
+  apt-get: apt-transport-https
+  yum: --enablerepo=elasticsearch
+  zypper: elasticsearch
+  yay: elasticsearch
+  curl: curl
+  wget: wget
 rule:
   debian/apt:
     cmd: 'sudo apt-get install apt-transport-https && \

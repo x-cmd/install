@@ -5,11 +5,14 @@ desc:
   cn: 无需离开终端，扫描二维码即可通过 wifi 将文件从计算机传输到移动设备
   en: Scan the QR code to transfer files from your computer to your mobile device over wifi without leaving the terminal
 x:
-  pkg:
-    exist: true
   source: https://github.com/claudiodangelis/qrcp
   eget: https://github.com/claudiodangelis/qrcp
   brew: qrcp
+  scoop: qrcp
+  choco: qrcp
+  powershell: qrcp
+  yay: qrcp
+  go: github.com/claudiodangelis/qrcp@latest
 rule:
   /x:
     cmd: x pkg use qrcp

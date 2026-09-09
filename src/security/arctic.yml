@@ -6,6 +6,7 @@ desc:
   en: Arctic is a collection of OAuth 2.0 clients for popular providers. Only the authorization code flow is supported.
 x:
   source: https://github.com/pilcrowonpaper/arctic
+  npm: arctic
 rule:
   /npm:
     cmd: npm install arctic

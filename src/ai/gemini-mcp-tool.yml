@@ -6,6 +6,7 @@ desc:
   en: MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 x:
   source: https://github.com/jamubc/gemini-mcp-tool
+  npm: gemini-mcp-tool
 rule:
   /npm:
     cmd: npm install -g gemini-mcp-tool

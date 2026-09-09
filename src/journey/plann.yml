@@ -6,6 +6,7 @@ desc:
   en: Simple command-line CalDAV client, making it possible to add calendar events, browse an agenda and do task management
 x:
   source: https://github.com/tobixen/plann
+  yay: plann
 rule:
   arch/yay:
     cmd: yay -S plann

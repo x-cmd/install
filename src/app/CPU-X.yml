@@ -9,6 +9,9 @@ x:
   eget: https://github.com/thetumultuousunicornofdarkness/CPU-X
   apt: cpu-x
   dnf: cpu-x
+  zypper: cpu-x
+  eopkg: cpu-x
+  yay: cpu-x-git
 rule:
   /eget:
     cmd: x eget thetumultuousunicornofdarkness/CPU-X

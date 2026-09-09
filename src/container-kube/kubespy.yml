@@ -8,6 +8,9 @@ x:
   source: https://github.com/pulumi/kubespy
   eget: https://github.com/pulumi/kubespy
   brew: kubespy
+  yay: kubespy
+  go: github.com/pulumi/kubespy@latest
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget pulumi/kubespy

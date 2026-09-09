@@ -5,11 +5,14 @@ desc:
   cn: 针对容器镜像和文件系统的漏洞扫描器
   en: A vulnerability scanner for container images and filesystems
 x:
-  pkg:
-    exist: true
   source: https://github.com/anchore/grype
   eget: https://github.com/anchore/grype
   brew: grype
+  port: grype
+  choco: grype
+  powershell: grype
+  yay: grype-bin
+  curl: curl
 rule:
   /x:
     cmd: x pkg use grype

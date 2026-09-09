@@ -5,9 +5,9 @@ desc:
   en: providing faster Maven builds using techniques known from Gradle and Takari
 lang: Java
 x:
-  pkg:
-    exist: true
   brew: mvndaemon/homebrew-mvnd/mvnd
+  yay: mvnd
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use mvnd

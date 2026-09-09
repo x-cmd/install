@@ -5,12 +5,11 @@ desc:
   cn: sd 是一个直观的查找和替换 CLI
   en: sd is an intuitive find & replace CLI
 x:
-  pkg:
-    exist: true
   source: https://github.com/chmln/sd
   eget: https://github.com/chmln/sd
   apt: sd
   brew: sd
+  apt-get: sd
 rule:
   /x:
     cmd: x pkg use sd

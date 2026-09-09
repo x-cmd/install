@@ -6,6 +6,7 @@ desc:
   en: Redis-Commander is a node.js web application used to view, edit, and manage a Redis Database
 x:
   source: https://github.com/joeferner/redis-commander
+  npm: redis-commander
 rule:
   /npm:
     cmd: npm install -g redis-commander

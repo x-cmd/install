@@ -5,11 +5,12 @@ desc:
   cn: 用于 YAML 文件（有时也用于 JSON）的 diff 工具
   en: A diff tool for YAML files, and sometimes JSON
 x:
-  pkg:
-    exist: true
   source: https://github.com/homeport/dyff
   eget: https://github.com/homeport/dyff
   brew: homeport/tap/dyff
+  port: dyff
+  yay: dyff
+  go: github.com/homeport/dyff/cmd/dyff@latest
 rule:
   /x:
     cmd: x pkg use dyff

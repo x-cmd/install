@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/simeg/eureka
   brew: eureka
+  yay: eureka-notes
+  cargo: eureka
 rule:
   /cargo:
     cmd: cargo install eureka

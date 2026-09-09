@@ -5,9 +5,9 @@ desc:
   cn: 面向规范驱动开发（spec-driven development）的 AI 原生系统
   en: AI-native system for spec-driven development
 x:
-  pkg:
-    exist: true
   source: https://github.com/Fission-AI/OpenSpec
+  yay: openspec
+  npm: "@fission-ai/openspec"
 rule:
   /x:
     cmd: x pkg use openspec

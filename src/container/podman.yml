@@ -9,6 +9,8 @@ x:
   brew: podman
   pacman: podman
   apk: podman
+  zypper: podman
+  emerge: app-containers/podman
 rule:
   darwin/brew:
     cmd: brew install podman

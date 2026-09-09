@@ -5,11 +5,10 @@ desc:
   cn: nFPM 是一个简单的、零依赖项、 deb、 rpm、 apk 和 Arch Linux 打包器
   en: nFPM is a simple, 0-dependencies, deb, rpm, apk, and Arch Linux packager
 x:
-  pkg:
-    exist: true
   source: https://github.com/goreleaser/nfpm
   eget: https://github.com/goreleaser/nfpm
   brew: nfpm
+  yay: nfpm
 rule:
   /x:
     cmd: x pkg use nfpm

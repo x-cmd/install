@@ -10,6 +10,8 @@ x:
   brew: cmus
   pacman: cmus
   apk: cmus
+  apt-get: cmus
+  zypper: cmus
 rule:
   darwin/brew:
     cmd: brew install cmus

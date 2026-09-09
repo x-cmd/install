@@ -5,6 +5,7 @@ desc:
   en: Pure rust implementation of teaxyz/lib:semver.ts for command-line usage
 x:
   source: https://github.com/jhheider/semverator
+  cargo: semverator
 rule:
   /cargo:
     cmd: cargo install semverator

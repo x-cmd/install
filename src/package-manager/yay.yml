@@ -8,6 +8,10 @@ x:
   source: https://github.com/Jguer/yay
   eget: https://github.com/Jguer/yay
   pacman: --needed
+  makepkg: makepkg
+  yay: yay
+  asdf: asdf
+  git: https://aur.archlinux.org/yay.git
 rule:
   /eget:
     cmd: x eget Jguer/yay

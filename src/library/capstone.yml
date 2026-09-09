@@ -7,6 +7,8 @@ x:
   source: https://github.com/capstone-engine/capstone
   eget: https://github.com/capstone-engine/capstone
   brew: capstone
+  scoop: ecapstone
+  yay: capstone-git
 rule:
   /eget:
     cmd: x eget capstone-engine/capstone

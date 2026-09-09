@@ -5,11 +5,12 @@ desc:
   cn: "rumdl 是 Rust 编写的 Markdown 检查和格式化工具，帮助你自动发现并修复文档问题。"
   en: "rumdl is a Markdown linter and formatter written in Rust, helping you automatically detect and fix document issues. Install via x-cmd for cleaner documents."
 x:
-  pkg:
-    exist: true
   source: https://github.com/rvben/rumdl
   eget: https://github.com/rvben/rumdl
   pacman: rumdl
+  pip: rumdl
+  npm: rumdl
+  cargo: rumdl
 rule:
   /x:
     cmd: x pkg use rumdl

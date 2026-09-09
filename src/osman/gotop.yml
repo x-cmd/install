@@ -4,11 +4,12 @@ desc:
   cn: 基于终端的图形界面监视器，用于在终端中显示系统资源的使用情况
   en: Terminal based graphical interface monitor
 x:
-  pkg:
-    exist: true
   source: https://github.com/xxxserxxx/gotop
   eget: https://github.com/xxxserxxx/gotop
   brew: gotop
+  emerge: gotop
+  scoop: gotop
+  yay: gotop-bin
 rule:
   /x:
     cmd: x pkg use gotop

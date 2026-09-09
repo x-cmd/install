@@ -9,6 +9,11 @@ x:
   eget: https://github.com/bazelbuild/bazel
   apt: apt-transport-https
   brew: bazel
+  zypper: bazel
+  scoop: bazel
+  choco: bazel
+  powershell: bazel
+  curl: curl
 rule:
   /eget:
     cmd: x eget bazelbuild/bazel

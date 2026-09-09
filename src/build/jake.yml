@@ -6,6 +6,7 @@ desc:
   en: JavaScript build tool, similar to Make or Rake. Built to work with Node.js
 x:
   source: https://github.com/jakejs/jake
+  npm: jake
 rule:
   /npm:
     cmd: npm install -g jake

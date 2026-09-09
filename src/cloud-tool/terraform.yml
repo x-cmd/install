@@ -4,14 +4,14 @@ desc:
   cn: 使用 Terraform 可以在任何云上实现基础架构自动化
   en: Automate infrastructure on any cloud with Terraform
 x:
-  pkg:
-    exist: true
   source: https://github.com/hashicorp/terraform
   apt: terraform
   dnf: -y
   brew: hashicorp/tap/terraform
   pacman: terraform
   apk: terraform
+  yum: -y
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use terraform

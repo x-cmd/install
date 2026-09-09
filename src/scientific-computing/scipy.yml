@@ -10,6 +10,8 @@ x:
   apt: python3-scipy
   dnf: python3-scipy
   brew: scipy
+  apt-get: python3-scipy
+  pip: scipy
 rule:
   /eget:
     cmd: x eget scipy/scipy

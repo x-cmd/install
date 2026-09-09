@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/lance0/xfr
   eget: https://github.com/lance0/xfr
+  cargo: xfr'
 rule:
   /cargo:
     cmd: 'cargo install xfr'

@@ -5,13 +5,18 @@ desc:
   cn: '`broot` 是一款用于快速定位、操作文件和目录的终端文件管理器，可以按照多种标准排序、过滤、操作文件和目录'
   en: '`broot` is a terminal-based file manager that allows for quick locating and manipulation of files and directories. It enables sorting, filtering, and operations on files and directories based on various criteria'
 x:
-  pkg:
-    exist: true
   source: https://github.com/Canop/broot
   eget: https://github.com/Canop/broot
   apt: broot
   brew: broot
   apk: broot
+  apt-get: broot
+  zypper: broot
+  port: broot
+  emerge: broot
+  scoop: broot
+  yay: broot-git
+  cargo: --locked
 rule:
   /eget:
     cmd: x eget Canop/broot

@@ -5,8 +5,6 @@ desc:
   cn: 用于将 PDF 文档中的图像文本转换为可搜索文本（OCR）的开源工具
   en: Open source tool for converting image text in PDF documents to searchable text (OCR)
 x:
-  pkg:
-    exist: true
   source: https://github.com/ocrmypdf/OCRmyPDF
   eget: https://github.com/ocrmypdf/OCRmyPDF
   apt: ocrmypdf
@@ -15,6 +13,13 @@ x:
   pacman: ocrmypdf
   apk: ocrmypdf
   snap: ocrmypdf
+  emerge: app-text/OCRmyPDF
+  scoop: googlechrome
+  choco: python3
+  winget: -e
+  powershell: python3
+  yay: ocrmypdf
+  pip: --user
 rule:
   /eget:
     cmd: x eget ocrmypdf/OCRmyPDF

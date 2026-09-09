@@ -12,6 +12,13 @@ x:
   brew: vifm
   pacman: vifm
   apk: vifm
+  apt-get: vifm
+  yum: vifm
+  zypper: vifm
+  emerge: -a
+  scoop: extras/vifm
+  choco: vifm
+  powershell: vifm
 rule:
   /eget:
     cmd: x eget vifm/vifm

@@ -6,6 +6,7 @@ desc:
   en: CLI to start BlackSheep projects.
 x:
   source: https://github.com/Neoteroi/BlackSheep
+  pip: blacksheep-cli
 rule:
   /pip:
     cmd: pip install blacksheep-cli

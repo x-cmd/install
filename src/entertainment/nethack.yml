@@ -10,6 +10,7 @@ x:
   brew: nethack
   pacman: nethack
   apk: nethack
+  scoop: games/nethack
 rule:
   darwin/brew:
     cmd: brew install nethack

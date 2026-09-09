@@ -6,6 +6,7 @@ desc:
   en: A flamegraph viewer in the terminal.
 x:
   source: https://github.com/laixintao/flameshow
+  pip: flameshow
 rule:
   /pip:
     cmd: pip install flameshow

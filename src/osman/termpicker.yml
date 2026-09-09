@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/ChausseBenjamin/termpicker
   eget: https://github.com/ChausseBenjamin/termpicker
+  yay: termpicker-bin
+  go: github.com/ChausseBenjamin/termpicker@latest
 rule:
   /eget:
     cmd: x eget ChausseBenjamin/termpicker

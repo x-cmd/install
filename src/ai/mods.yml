@@ -9,6 +9,12 @@ x:
   eget: https://github.com/charmbracelet/mods
   apt: mods
   brew: charmbracelet/tap/mods
+  scoop: mods
+  winget: mods
+  powershell: install
+  yay: mods
+  go: github.com/charmbracelet/mods@latest
+  curl: curl
 rule:
   /eget:
     cmd: x eget charmbracelet/mods

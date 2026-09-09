@@ -8,6 +8,9 @@ x:
   source: https://github.com/t8y2/dbx
   eget: https://github.com/t8y2/dbx
   brew: --cask
+  scoop: dbx
+  winget: t8y2.dbx
+  powershell: install
 rule:
   /eget:
     cmd: x eget t8y2/dbx

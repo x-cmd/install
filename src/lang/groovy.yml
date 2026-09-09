@@ -5,13 +5,14 @@ desc:
   cn: Groovy 是用于 JVM 平台的一种强大的多方面编程语言
   en: Groovy is a powerful multi-faceted programming language for the JVM platform
 x:
-  pkg:
-    exist: true
   source: https://github.com/apache/groovy
   apt: groovy
   dnf: groovy
   brew: groovy
   pacman: groovy
+  apt-get: groovy
+  yum: groovy
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use groovy

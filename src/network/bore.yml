@@ -5,11 +5,10 @@ desc:
   cn: 一个简单的 CLI 工具，用于建立到本地主机的隧道
   en: A simple CLI tool for establishing a tunnel to localhost
 x:
-  pkg:
-    exist: true
   source: https://github.com/ekzhang/bore
   eget: https://github.com/ekzhang/bore
   brew: bore-cli
+  cargo: bore-cli
 rule:
   /x:
     cmd: x pkg use bore

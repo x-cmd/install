@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/carvel-dev/kwt
   eget: https://github.com/carvel-dev/kwt
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget carvel-dev/kwt

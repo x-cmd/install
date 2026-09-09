@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/jmattaa/laser
   brew: --formula
+  yay: laser-git
 rule:
   /brew:
     cmd: 'brew tap jmattaa/laser

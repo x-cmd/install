@@ -5,11 +5,13 @@ desc:
 homepage: https://github.com/Equationzhao/g
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/Equationzhao/g
   eget: https://github.com/Equationzhao/g
   brew: g-ls
+  scoop: https://raw.githubusercontent.com/Equationzhao/g/master/scoop/g.json
+  yay: g-ls
+  go: -ldflags="-s
+  curl: curl
 rule:
   /x:
     cmd: x pkg use g

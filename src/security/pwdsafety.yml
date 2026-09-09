@@ -9,6 +9,8 @@ x:
   eget: https://github.com/edoardottt/pwdsafety
   pacman: pwdsafety
   snap: pwdsafety
+  yay: pwdsafety
+  go: -v
 rule:
   /eget:
     cmd: x eget edoardottt/pwdsafety

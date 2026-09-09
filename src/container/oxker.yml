@@ -7,6 +7,11 @@ desc:
 x:
   source: https://github.com/mrjackwills/oxker
   eget: https://github.com/mrjackwills/oxker
+  yay: oxker
+  paru: oxker
+  cargo: oxker
+  curl: curl
+  wget: wget
 rule:
   /eget:
     cmd: x eget mrjackwills/oxker

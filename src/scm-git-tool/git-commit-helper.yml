@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/newdee/git-commit-helper
   eget: https://github.com/newdee/git-commit-helper
+  yay: git-commit-helper
+  cargo: git-commit-helper
 rule:
   /eget:
     cmd: x eget newdee/git-commit-helper

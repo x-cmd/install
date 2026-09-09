@@ -5,11 +5,11 @@ desc:
 homepage: https://github.com/macchina-cli/macchina
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/macchina-cli/macchina
   eget: https://github.com/macchina-cli/macchina
   brew: macchina
+  zypper: macchina
+  yay: macchina-git
 rule:
   /x:
     cmd: x pkg use macchina

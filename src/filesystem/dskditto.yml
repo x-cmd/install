@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/jdefrancesco/dskDitto
   eget: https://github.com/jdefrancesco/dskDitto
+  go: github.com/securego/gosec/v2/cmd/gosec@latest'
 rule:
   /go:
     cmd: 'go install github.com/securego/gosec/v2/cmd/gosec@latest'

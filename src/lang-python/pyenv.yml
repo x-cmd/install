@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/pyenv/pyenv-installer
   brew: pyenv
+  curl: curl
 rule:
   /curl:
     cmd: curl https://pyenv.run | bash

@@ -6,6 +6,8 @@ desc:
   en: Argo Rollouts is a Kubernetes controller and set of CRDs which provide advanced deployment capabilities such as blue-green, canary, canary analysis, experimentation, and progressive delivery features to Kubernetes
 x:
   source: https://github.com/argoproj/argo-rollouts
+  yay: kubectl-argo-rollouts-bin
+  asdf: asdf
 rule:
   arch/yay:
     cmd: yay -S kubectl-argo-rollouts-bin

@@ -5,11 +5,11 @@ desc:
   cn: MinIO 是 GNU AGPL v3 和商业许可下的双重许可。要了解更多关于许可和商标指导的信息，请访问合规页面
   en: MinIO is dual licensed under GNU AGPL v3 and commercial license. To learn more about licensing and trademark guidance, visit the Compliance page
 x:
-  pkg:
-    exist: true
   source: https://github.com/minio/mc
   eget: https://github.com/minio/mc
   brew: minio/stable/mc
+  zypper: mc
+  go: github.com/minio/mc@latest
 rule:
   /x:
     cmd: x pkg use mc

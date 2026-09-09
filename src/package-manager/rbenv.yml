@@ -8,6 +8,7 @@ x:
   source: https://github.com/rbenv/rbenv
   apt: gitapt-get
   brew: rbenv
+  apt-get: gitapt-get
 rule:
   darwin/brew:
     cmd: brew install rbenv

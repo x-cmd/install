@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/EnhancedJax/Bagels
   brew: bagels
+  yay: bagels
 rule:
   /uv:
     cmd: uv tool install --python 3.13 bagels

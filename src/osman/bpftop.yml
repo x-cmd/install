@@ -6,6 +6,7 @@ desc:
   en: bpftop provides a dynamic real-time view of running eBPF programs
 x:
   source: https://github.com/Netflix/bpftop
+  curl: curl
 rule:
   /curl:
     cmd: curl -fLJ https://github.com/Netflix/bpftop/releases/latest/download/bpftop -o bpftop && chmod +x bpftop

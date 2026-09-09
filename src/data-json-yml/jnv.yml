@@ -8,6 +8,8 @@ x:
   source: https://github.com/ynqa/jnv
   eget: https://github.com/ynqa/jnv
   brew: ynqa/tap/jnv
+  port: jnv
+  cargo: jnv
 rule:
   /eget:
     cmd: x eget ynqa/jnv

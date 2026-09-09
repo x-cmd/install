@@ -9,6 +9,8 @@ x:
   eget: https://github.com/cocogitto/cocogitto
   brew: cocogitto
   pacman: cocogitto
+  xbps: cocogitto
+  cargo: --locked
 rule:
   /eget:
     cmd: x eget cocogitto/cocogitto

@@ -10,6 +10,13 @@ x:
   apt: software-properties-common
   dnf: trzsz
   brew: trzsz-go
+  yum: trzsz
+  scoop: trzsz
+  choco: trzsz
+  winget: trzsz
+  powershell: trzsz
+  yay: trzsz
+  go: github.com/trzsz/trzsz-go/cmd/trzsz@latest
 rule:
   /eget:
     cmd: x eget trzsz/trzsz-go

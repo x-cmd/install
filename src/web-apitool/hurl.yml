@@ -5,14 +5,20 @@ desc:
   cn: 用于运行以简单纯文本格式定义的 HTTP 请求
   en: runs HTTP requests defined in a simple plain text format
 x:
-  pkg:
-    exist: true
   source: https://github.com/Orange-OpenSource/hurl
   eget: https://github.com/Orange-OpenSource/hurl
   apt: ./hurl_$VERSION_amd64.deb
   brew: hurl
   pacman: hurl-bin
   apk: --repository
+  apt-get: hurl
+  port: hurl
+  scoop: hurl
+  choco: hurl
+  winget: hurl
+  powershell: hurl
+  npm: --save-dev
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget Orange-OpenSource/hurl

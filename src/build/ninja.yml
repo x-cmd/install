@@ -12,6 +12,15 @@ x:
   brew: ninja
   pacman: ninja
   apk: ninja
+  apt-get: ninja-build
+  zypper: ninja
+  port: ninja
+  emerge: dev-util/ninja
+  xbps: ninja
+  scoop: ninja
+  choco: ninja
+  powershell: ninja
+  pip: ninja
 rule:
   /eget:
     cmd: x eget ninja-build/ninja

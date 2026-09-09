@@ -6,6 +6,7 @@ desc:
   en: try is an easy-to-use cli tool to try out Python packages
 x:
   source: https://github.com/timofurrer/try
+  pip: trypackage
 rule:
   /pip:
     cmd: pip3 install trypackage

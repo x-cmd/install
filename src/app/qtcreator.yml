@@ -10,6 +10,10 @@ x:
   dnf: qt-creator
   brew: --cask
   pacman: qtcreator
+  apt-get: qtcreator
+  choco: qtcreator
+  powershell: qtcreator
+  yay: qtcreator
 rule:
   /eget:
     cmd: x eget qt-creator/qt-creator

@@ -7,6 +7,12 @@ desc:
 x:
   source: https://github.com/Eugeny/tabby
   eget: https://github.com/Eugeny/tabby
+  scoop: extras/tabby
+  choco: tabby
+  winget: -e
+  powershell: install
+  yay: tabby-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget Eugeny/tabby

@@ -8,6 +8,9 @@ x:
   source: https://github.com/benbjohnson/litestream
   eget: https://github.com/benbjohnson/litestream
   brew: benbjohnson/litestream/litestream
+  yay: litestream
+  go: ./cmd/litestream
+  wget: wget
 rule:
   /eget:
     cmd: x eget benbjohnson/litestream

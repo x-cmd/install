@@ -9,6 +9,8 @@ x:
   eget: https://github.com/sharkdp/diskus
   brew: diskus
   pacman: diskus
+  yay: diskus-git
+  cargo: diskus
 rule:
   /eget:
     cmd: x eget sharkdp/diskus

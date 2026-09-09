@@ -10,6 +10,8 @@ x:
   dnf: atac
   brew: atac
   pacman: atac
+  scoop: atac
+  cargo: atac
 rule:
   /eget:
     cmd: x eget Julien-cpsn/ATAC

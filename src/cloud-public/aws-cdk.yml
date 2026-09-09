@@ -8,6 +8,8 @@ x:
   source: https://github.com/aws/aws-cdk
   eget: https://github.com/aws/aws-cdk
   brew: aws-cdk
+  yay: aws-cdk
+  pip: aws-cdk-lib
 rule:
   /eget:
     cmd: x eget aws/aws-cdk

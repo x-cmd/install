@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/rustfs/cli
   brew: rustfs/tap/rc
+  scoop: rustfs/rc
+  yay: rustfs-cli-bin
+  cargo: rustfs-cli
 rule:
   (darwin|linux)/brew:
     cmd: brew install rustfs/tap/rc

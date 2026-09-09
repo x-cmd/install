@@ -8,6 +8,8 @@ x:
   source: https://github.com/mufeedvh/code2prompt
   eget: https://github.com/mufeedvh/code2prompt
   brew: code2prompt
+  pip: code2prompt-rs
+  cargo: code2prompt
 rule:
   /eget:
     cmd: x eget mufeedvh/code2prompt

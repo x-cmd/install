@@ -8,6 +8,8 @@ x:
   source: https://github.com/timkicker/podliner
   eget: https://github.com/timkicker/podliner
   apt: -y
+  apt-get: -y
+  yay: podliner-bin'
 rule:
   debian/apt:
     cmd: 'sudo apt-get install -y vlc mpv ffmpeg'

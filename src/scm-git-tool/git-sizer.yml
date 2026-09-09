@@ -9,6 +9,8 @@ x:
   eget: https://github.com/github/git-sizer
   apt: git-sizer
   brew: git-sizer
+  apt-get: git-sizer
+  yay: git-sizer-git
 rule:
   /eget:
     cmd: x eget github/git-sizer

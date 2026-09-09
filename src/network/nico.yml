@@ -5,8 +5,6 @@ desc:
   cn: 用于反向代理和单页应用的 HTTP3 Web 服务器
   en: A HTTP3 web server for reverse proxy and single page application
 x:
-  pkg:
-    exist: true
   source: https://github.com/txthinking/nico
   eget: https://github.com/txthinking/nico
 rule:

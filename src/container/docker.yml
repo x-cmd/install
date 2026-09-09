@@ -10,6 +10,13 @@ x:
   dnf: docker-ce
   brew: docker
   pacman: docker
+  apt-get: docker-ce
+  yum: docker-ce
+  zypper: docker-ce
+  scoop: main/docker
+  choco: docker-desktop
+  winget: Docker.DockerDesktop
+  powershell: docker-desktop
 rule:
   /curl:
     cmd: curl -sSL "https://get.docker.com/" | sh

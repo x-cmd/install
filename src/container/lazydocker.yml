@@ -5,11 +5,16 @@ desc:
 homepage: https://github.com/jesseduffield/lazydocker
 license: MIT
 x:
-  pkg:
-    exist: true
   source: https://github.com/jesseduffield/lazydocker
   eget: https://github.com/jesseduffield/lazydocker
   brew: jesseduffield/lazydocker/lazydocker
+  scoop: lazydocker
+  choco: lazydocker
+  powershell: lazydocker
+  yay: lazydocker
+  go: github.com/jesseduffield/lazydocker@latest
+  asdf: asdf
+  curl: curl
 rule:
   /x:
     cmd: x pkg use lazydocker

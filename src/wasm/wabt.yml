@@ -5,12 +5,13 @@ desc:
   cn: WABT（我们发音为“wabbit”）是一套用于 WebAssembly 的工具
   en: WABT (we pronounce it "wabbit") is a suite of tools for WebAssembly
 x:
-  pkg:
-    exist: true
   source: https://github.com/WebAssembly/wabt
   eget: https://github.com/WebAssembly/wabt
   apt: wabt
   brew: wabt
+  apt-get: wabt
+  scoop: extras/wabt
+  yay: wabt-git
 rule:
   /eget:
     cmd: x eget WebAssembly/wabt

@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/wezm/git-grab
   eget: https://github.com/wezm/git-grab
+  cargo: git-grab
 rule:
   /eget:
     cmd: x eget wezm/git-grab

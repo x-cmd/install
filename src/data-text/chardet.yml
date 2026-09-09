@@ -6,6 +6,7 @@ desc:
   en: Detect text file encoding via chardetng — BOM-aware, single-binary Rust CLI; prints encoding, confidence, and path
 x:
   source: https://github.com/ljh-sh/chardet
+  cargo: chardet-cli
 rule:
   /cargo:
     cmd: cargo install chardet-cli

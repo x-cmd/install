@@ -10,6 +10,8 @@ x:
   apt: bcal
   dnf: bcal
   brew: bcal
+  apt-get: bcal
+  yay: bcal
 rule:
   /eget:
     cmd: x eget jarun/bcal

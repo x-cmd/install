@@ -5,8 +5,6 @@ desc:
   cn: 命令行十六进制查看器
   en: A command-line hex viewer
 x:
-  pkg:
-    exist: true
   source: https://github.com/sharkdp/hexyl
   eget: https://github.com/sharkdp/hexyl
   apt: hexyl
@@ -14,6 +12,16 @@ x:
   brew: hexyl
   pacman: hexyl
   snap: hexyl
+  apt-get: hexyl
+  port: hexyl
+  emerge: --sync
+  xbps: hexyl
+  scoop: hexyl
+  choco: hexyl
+  powershell: hexyl
+  guix: hexyl
+  yay: hexyl-git
+  cargo: hexyl
 rule:
   /x:
     cmd: x pkg use hexyl

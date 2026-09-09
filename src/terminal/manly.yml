@@ -6,6 +6,7 @@ desc:
   en: A TUI for viewing man pages in the terminal.
 x:
   source: https://github.com/whoop-t/manly
+  go: github.com/whoop-t/manly@latest
 rule:
   /go:
     cmd: go install github.com/whoop-t/manly@latest

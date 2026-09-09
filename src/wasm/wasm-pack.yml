@@ -7,6 +7,10 @@ desc:
 x:
   source: https://github.com/rustwasm/wasm-pack
   brew: wasm-pack
+  yay: wasm-pack-bin
+  npm: wasm-pack
+  cargo: wasm-pack
+  curl: curl
 rule:
   /curl:
     cmd: curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh

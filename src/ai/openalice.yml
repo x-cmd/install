@@ -6,6 +6,7 @@ desc:
   en: Your one-person Wall Street — an AI trading agent covering equities, crypto, commodities, forex, and macro, end-to-end from research through position entry and ongoing management to exit. UTA isolates broker credentials, Trading-as-Git leaves a reviewable audit trail, and every order requires explicit human approval.
 x:
   source: https://github.com/TraderAlice/OpenAlice
+  git: TraderAlice/OpenAlice
 rule:
   /git:
     cmd: x git clone TraderAlice/OpenAlice

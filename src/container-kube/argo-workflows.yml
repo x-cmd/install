@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/argoproj/argo-workflows
   eget: https://github.com/argoproj/argo-workflows
+  curl: curl
 rule:
   /eget:
     cmd: x eget argoproj/argo-workflows

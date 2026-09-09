@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/kovidgoyal/kitty
   eget: https://github.com/kovidgoyal/kitty
+  curl: curl
 rule:
   /eget:
     cmd: x eget kovidgoyal/kitty

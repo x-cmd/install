@@ -5,11 +5,14 @@ desc:
   cn: tfsec 是一款针对 Terraform 代码的静态分析安全扫描器
   en: tfsec is a static analysis security scanner for your Terraform code
 x:
-  pkg:
-    exist: true
   source: https://github.com/aquasecurity/tfsec
   eget: https://github.com/aquasecurity/tfsec
   brew: tfsec
+  scoop: tfsec
+  choco: tfsec
+  powershell: tfsec
+  yay: tfsec-bin
+  go: github.com/aquasecurity/tfsec/cmd/tfsec@latest
 rule:
   /x:
     cmd: x pkg use tfsec

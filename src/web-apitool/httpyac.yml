@@ -6,6 +6,7 @@ desc:
   en: A command line interface to execute *.http, *.rest files.
 x:
   source: https://github.com/anweber/httpyac
+  npm: httpyac
 rule:
   /npm:
     cmd: npm install -g httpyac

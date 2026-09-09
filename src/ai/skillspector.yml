@@ -6,6 +6,7 @@ desc:
   en: NVIDIA's security scanner that detects vulnerabilities, malicious code, and security risks in AI agent skills before installation.
 x:
   source: https://github.com/nvidia/skillspector
+  pip: git+https://github.com/NVIDIA/skillspector.git
 rule:
   /pip:
     cmd: pip install git+https://github.com/NVIDIA/skillspector.git

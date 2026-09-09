@@ -5,12 +5,13 @@ desc:
   cn: Tabiew 是一个基于终端的轻量级应用程序，用于查看和查询分隔符分隔值格式的文档，例如 CSV 或 TSV 文件
   en: Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files
 x:
-  pkg:
-    exist: true
   source: https://github.com/shshemi/tabiew
   eget: https://github.com/shshemi/tabiew
   brew: shshemi/tabiew/tabiew
   pacman: tabiew
+  cargo: tabiew
+  curl: curl
+  wget: wget
 rule:
   /x:
     cmd: x pkg use tabiew

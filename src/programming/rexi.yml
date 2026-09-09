@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/royreznik/rexi
   eget: https://github.com/royreznik/rexi
+  pip: rexi
 rule:
   /eget:
     cmd: x eget royreznik/rexi

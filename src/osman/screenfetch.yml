@@ -10,6 +10,9 @@ x:
   dnf: screenfetchh
   brew: screenfetch
   pacman: screenfetch
+  zypper: screenfetch
+  emerge: app-misc/screenfetch
+  yay: screenfetch-git
 rule:
   debian/apt:
     cmd: sudo apt install screenfetch

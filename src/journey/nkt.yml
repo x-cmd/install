@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/fjebaker/nkt
   eget: https://github.com/fjebaker/nkt
+  git: https://github.com/fjebaker/nkt
 rule:
   /eget:
     cmd: x eget fjebaker/nkt

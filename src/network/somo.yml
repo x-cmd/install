@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/theopfr/somo
   eget: https://github.com/theopfr/somo
+  yay: somo
+  cargo: somo
 rule:
   /eget:
     cmd: x eget theopfr/somo

@@ -13,13 +13,15 @@ desc:
 
     '
 x:
-  pkg:
-    exist: true
   source: https://github.com/direnv/direnv
   eget: https://github.com/direnv/direnv
   apt: direnv
   dnf: direnv
   brew: direnv
+  apt-get: direnv
+  port: direnv
+  scoop: main/direnv
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use direnv

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/Broderick-Westrope/tetrigo
   eget: https://github.com/Broderick-Westrope/tetrigo
+  yay: tetrigo-bin
+  go: github.com/Broderick-Westrope/tetrigo/cmd/tetrigo@v0.1.6
 rule:
   /eget:
     cmd: x eget Broderick-Westrope/tetrigo

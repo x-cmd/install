@@ -8,6 +8,8 @@ x:
   source: https://github.com/mps-youtube/yewtube
   eget: https://github.com/mps-youtube/yewtube
   brew: yewtube
+  yay: yewtube
+  pip: yewtube
 rule:
   /eget:
     cmd: x eget mps-youtube/yewtube

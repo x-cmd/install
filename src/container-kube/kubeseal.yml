@@ -8,6 +8,9 @@ x:
   source: https://github.com/bitnami-labs/sealed-secrets
   eget: https://github.com/bitnami-labs/sealed-secrets
   brew: kubeseal
+  port: kubeseal
+  go: github.com/bitnami-labs/sealed-secrets/cmd/kubeseal@main
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget bitnami-labs/sealed-secrets

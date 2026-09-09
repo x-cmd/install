@@ -11,6 +11,8 @@ x:
   brew: llvm
   pacman: llvm
   apk: llvm
+  apt-get: llvm-dev
+  yum: llvm
 rule:
   /eget:
     cmd: x eget llvm/llvm-project

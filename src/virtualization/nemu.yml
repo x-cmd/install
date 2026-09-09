@@ -8,6 +8,7 @@ x:
   source: https://github.com/nemuTUI/nemu
   brew: nemu
   apk: nemu
+  yay: nemu
 rule:
   alpine/apk:
     cmd: apk add nemu

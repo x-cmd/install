@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/facebook/fbthrift
   brew: fbthrift
+  yay: fbthrift-git
 rule:
   arch/yay:
     cmd: yay -S fbthrift-git

@@ -8,6 +8,8 @@ x:
   source: https://github.com/charmbracelet/pop
   eget: https://github.com/charmbracelet/pop
   brew: pop
+  yay: charm-pop-bin
+  go: github.com/charmbracelet/pop@latest
 rule:
   /eget:
     cmd: x eget charmbracelet/pop

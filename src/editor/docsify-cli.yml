@@ -5,9 +5,8 @@ desc:
   cn: 文档生成器，支持热加载
   en: Document generator, supports hot loading
 x:
-  pkg:
-    exist: true
   source: https://github.com/docsifyjs/docsify-cli#readme
+  yay: docsify-cli
 rule:
   /x:
     cmd: x pkg use docsify-cli

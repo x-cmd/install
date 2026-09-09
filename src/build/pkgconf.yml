@@ -6,6 +6,7 @@ desc:
 x:
   source: https://github.com/prkgconf/pkgconf
   brew: pkgconf
+  yay: pkgconf-git
 rule:
   darwin/brew:
     cmd: brew install pkgconf

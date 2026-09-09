@@ -5,11 +5,12 @@ desc:
   cn: assh 是一个智能工具，旨在紧密包裹您的 SSH 和增强它，就像一个超级英雄服装，有各种小工具安装
   en: assh is a smart tool that was designed to wrap tightly around your SSH and enhance it, like a superhero suit that has various gadgets installed
 x:
-  pkg:
-    exist: true
   source: https://github.com/moul/assh
   eget: https://github.com/moul/assh
   brew: assh
+  yay: assh-bin
+  go: moul.io/assh/v2@latest
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use assh

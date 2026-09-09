@@ -11,6 +11,8 @@ x:
   brew: multitail
   pacman: multitail
   apk: multitail
+  apt-get: multitail
+  yum: multitail
 rule:
   darwin/brew:
     cmd: brew install multitail

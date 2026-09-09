@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/particledecay/kconf
   eget: https://github.com/particledecay/kconf
+  yay: kconf
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget particledecay/kconf

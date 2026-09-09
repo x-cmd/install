@@ -8,6 +8,8 @@ x:
   source: https://github.com/ycd/dstp
   eget: https://github.com/ycd/dstp
   brew: ycd/tap/dstp
+  yay: dstp
+  go: github.com/ycd/dstp/cmd/dstp@latest
 rule:
   /eget:
     cmd: x eget ycd/dstp

@@ -5,9 +5,10 @@ desc:
   cn: Simplenote CLI (Simplenote 是一款简单而轻量级的笔记应用程序，旨在提供清晰、直观的笔记管理体验)
   en: Simplenote CLI (Simplenote is a simple and lightweight note-taking application designed to provide a clear and intuitive note management experience)
 x:
-  pkg:
-    exist: true
   source: https://github.com/insanum/sncli
+  yay: sncli
+  pip: sncli
+  git: https://github.com/insanum/sncli.git
 rule:
   /x:
     cmd: x pkg use sncli

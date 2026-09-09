@@ -6,6 +6,7 @@ desc:
   en: Meituan's open-source 13.6B foundational video generation model, unifying text/image/audio-to-video and video continuation with minutes-long generation and multi-reward RLHF.
 x:
   source: https://github.com/meituan-longcat/LongCat-Video
+  git: meituan-longcat/LongCat-Video
 rule:
   /git:
     cmd: x git clone meituan-longcat/LongCat-Video

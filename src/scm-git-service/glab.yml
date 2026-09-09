@@ -4,12 +4,16 @@ desc:
   cn: GitLab CLI 工具将 GitLab 带到您的命令行
   en: A GitLab CLI tool bringing GitLab to your command line
 x:
-  pkg:
-    exist: true
   dnf: glab
   brew: glab
   pacman: glab
   apk: --no-cache
+  port: glab
+  scoop: glab
+  choco: glab
+  winget: glab.glab
+  powershell: glab
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use glab

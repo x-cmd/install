@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/Homebrew/brew
   apt: linuxbrew-wrapper
+  apt-get: linuxbrew-wrapper
+  yay: brew-git
+  curl: curl
 rule:
   /curl:
     cmd: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

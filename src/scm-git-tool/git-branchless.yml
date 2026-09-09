@@ -8,6 +8,8 @@ x:
   source: https://github.com/arxanas/git-branchless
   eget: https://github.com/arxanas/git-branchless
   brew: git-branchless
+  scoop: git-branchless
+  cargo: git-branchless
 rule:
   /eget:
     cmd: x eget arxanas/git-branchless

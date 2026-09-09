@@ -7,6 +7,9 @@ desc:
 x:
   source: https://github.com/macports/macports-base
   eget: https://github.com/macports/macports-base
+  curl: curl
+  git: https://github.com/macports/macports-base.git
+  make: make
 rule:
   /eget:
     cmd: x eget macports/macports-base

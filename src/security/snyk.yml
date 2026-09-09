@@ -4,11 +4,12 @@ desc:
   cn: Snyk 是开发人员优先的云本地安全工具
   en: Snyk is a developer-first cloud-native security tool
 x:
-  pkg:
-    exist: true
   source: https://github.com/snyk/cli
   eget: https://github.com/snyk/cli
   brew: snyk
+  scoop: snyk
+  npm: snyk@latest
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use snyk

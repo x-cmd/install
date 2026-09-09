@@ -5,11 +5,12 @@ desc:
   cn: Dockerfile linter，能分析 Dockerfile 并给出建议（能基于 shellcheck 对 RUN 指令内的 bash 代码进行检查）
   en: Dockerfile linter, which can analyze Dockerfile and give suggestions (can check the bash code in the RUN instruction based on shellcheck)
 x:
-  pkg:
-    exist: true
   source: https://github.com/hadolint/hadolint
   eget: https://github.com/hadolint/hadolint
   brew: hadolint
+  scoop: hadolint
+  yay: hadolint
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use hadolint

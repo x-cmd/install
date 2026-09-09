@@ -5,8 +5,6 @@ desc:
   cn: Julia 是一种高性能，动态，多范式的编程语言，它专注于数值计算和数据分析。Julia 有着简洁的语法，强大的多重派发机制，丰富的内置类型和函数，以及易于扩展的特性。Julia 也支持并行，分布式，元编程等编程风格。
   en: Julia is a high-level, high-performance dynamic language for technical computing
 x:
-  pkg:
-    exist: true
   source: https://github.com/JuliaLang/julia
   eget: https://github.com/JuliaLang/julia
   apt: julia
@@ -14,6 +12,8 @@ x:
   brew: julia
   pacman: julia
   apk: julia
+  apt-get: julia
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget JuliaLang/julia

@@ -5,13 +5,14 @@ desc:
   cn: 一个面向开发人员、运营人员以及任何热爱终端用户的终端多路复用器
   en: A terminal multiplexer for developers, ops-oriented people and anyone who loves the terminal
 x:
-  pkg:
-    exist: true
   source: https://github.com/zellij-org/zellij
   eget: https://github.com/zellij-org/zellij
   dnf: zellij
   brew: zellij
   pacman: zellij
+  port: zellij
+  xbps: zellij
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use zellij

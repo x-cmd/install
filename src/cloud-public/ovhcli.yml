@@ -5,6 +5,7 @@ desc:
   en: OVH command line interface
 x:
   source: https://github.com/ovh/ovh-cli
+  pip: ovhcli
 rule:
   /pip:
     cmd: pip install ovhcli

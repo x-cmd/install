@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/justrach/nanobrew
   brew: nanobrew
+  curl: curl
 rule:
   /curl:
     cmd: curl -fsSL https://nanobrew.trilok.ai/install | bash

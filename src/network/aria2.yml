@@ -5,8 +5,6 @@ desc:
   cn: 一款功能强大的命令行下载工具。它支持同时下载多个文件，并能够从多个来源获取数据，以提供更快的下载速度
   en: An efficient compression algorithm and tool designed to provide fast compression and decompression speeds while maintaining a high compression ratio
 x:
-  pkg:
-    exist: true
   source: https://github.com/aria2/aria2
   eget: https://github.com/aria2/aria2
   apt: aria2
@@ -14,6 +12,9 @@ x:
   brew: aria2
   pacman: aria2
   apk: aria2
+  apt-get: aria2
+  yay: aria2-git
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use aria2

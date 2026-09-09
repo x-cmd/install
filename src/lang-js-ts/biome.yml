@@ -8,6 +8,8 @@ x:
   source: https://github.com/biomejs/biome
   eget: https://github.com/biomejs/biome
   brew: biome
+  scoop: biome
+  npm: "@biomejs/biome"
 rule:
   /eget:
     cmd: x eget biomejs/biome

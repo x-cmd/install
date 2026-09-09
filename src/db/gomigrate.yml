@@ -7,6 +7,9 @@ x:
   source: https://github.com/golang-migrate/migrate
   eget: https://github.com/golang-migrate/migrate
   brew: golang-migrate
+  scoop: migrate
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget golang-migrate/migrate

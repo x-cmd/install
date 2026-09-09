@@ -6,6 +6,7 @@ desc:
   en: A highly customizable statusline formatter for Claude Code CLI with Powerline support, themes, and widgets for model info, git branch, token usage, cache hit rate, and more.
 x:
   source: https://github.com/sirmalloc/ccstatusline
+  npm: ccstatusline
 rule:
   /npm:
     cmd: npm install -g ccstatusline

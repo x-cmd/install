@@ -4,8 +4,7 @@ desc:
   cn: Rock-solid 应用沙箱内核，为 Linux 应用提供强隔离。
   en: Rock-solid application kernel to sandbox applications on Linux>=5.19.
 x:
-  pkg:
-    exist: true
+  cargo: sydbox
 rule:
   /x:
     cmd: x pkg use sydbox

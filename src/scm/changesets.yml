@@ -6,6 +6,7 @@ desc:
   en: A tool to manage versioning and changelogs with a focus on multi-package repositories
 x:
   source: https://github.com/changesets/changesets
+  npm: "@changesets/cli"
 rule:
   /npm:
     cmd: npm install -g @changesets/cli

@@ -5,8 +5,6 @@ desc:
   cn: Restic 是一个快速，高效且安全的备份程序
   en: Restic is a backup program that is fast, efficient and secure
 x:
-  pkg:
-    exist: true
   source: https://github.com/restic/restic
   eget: https://github.com/restic/restic
   apt: restic
@@ -14,6 +12,16 @@ x:
   brew: restic
   pacman: restic
   apk: restic
+  apt-get: restic
+  zypper: restic
+  port: restic
+  eopkg: restic
+  scoop: restic
+  choco: restic
+  winget: restic.restic
+  powershell: restic
+  asdf: asdf
+  git: https://github.com/restic/restic
 rule:
   /eget:
     cmd: x eget restic/restic

@@ -5,11 +5,15 @@ desc:
   cn: Nushell 是一种新型的 shell
   en: Nushell is a new type of shell
 x:
-  pkg:
-    exist: true
   source: https://github.com/nushell/nushell
   eget: https://github.com/nushell/nushell
   brew: nushell
+  scoop: nu
+  choco: nushell
+  winget: nushell
+  powershell: nushell
+  nix: nixpkgs#nushell
+  npm: nushell
 rule:
   /eget:
     cmd: x eget nushell/nushell

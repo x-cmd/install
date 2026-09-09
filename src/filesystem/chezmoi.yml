@@ -5,14 +5,22 @@ desc:
   cn: 跨多个不同的机器安全地管理您的 dotfiles
   en: Manage your dotfiles across multiple diverse machines, securely
 x:
-  pkg:
-    exist: true
   source: https://github.com/twpayne/chezmoi
   eget: https://github.com/twpayne/chezmoi
   brew: chezmoi
   pacman: chezmoi
   apk: chezmoi
   snap: chezmoi
+  zypper: chezmoi
+  port: chezmoi
+  xbps: chezmoi
+  scoop: chezmoi
+  choco: chezmoi
+  winget: twpayne.chezmoi
+  powershell: chezmoi
+  asdf: asdf
+  git: https://github.com/twpayne/chezmoi.git
+  make: make
 rule:
   /eget:
     cmd: x eget twpayne/chezmoi

@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/dece2183/hexowl
   eget: https://github.com/dece2183/hexowl
+  yay: hexowl
+  go: github.com/dece2183/hexowl@latest
 rule:
   /eget:
     cmd: x eget dece2183/hexowl

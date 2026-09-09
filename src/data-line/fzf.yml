@@ -5,8 +5,6 @@ desc:
   cn: 通用命令行模糊查找器
   en: general-purpose command-line fuzzy finder
 x:
-  pkg:
-    exist: true
   source: https://github.com/junegunn/fzf
   eget: https://github.com/junegunn/fzf
   apt: fzf
@@ -14,6 +12,13 @@ x:
   brew: fzf
   pacman: fzf
   apk: fzf
+  zypper: fzf
+  emerge: app-shells/fzf
+  scoop: fzf
+  choco: fzf
+  winget: fzf
+  powershell: fzf
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use fzf

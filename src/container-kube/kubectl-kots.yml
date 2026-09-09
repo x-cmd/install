@@ -6,6 +6,9 @@ desc:
   en: KOTS is a kubectl plugin and admin console to help manage Kubernetes Off-The-Shelf software
 x:
   source: https://github.com/replicatedhq/kots
+  yay: kubectl-kots-bin
+  asdf: asdf
+  curl: curl
 rule:
   arch/yay:
     cmd: yay -S kubectl-kots-bin

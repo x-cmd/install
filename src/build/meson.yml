@@ -11,6 +11,9 @@ x:
   dnf: meson
   brew: meson
   pacman: meson
+  apt-get: meson
+  pip: meson
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget mesonbuild/meson

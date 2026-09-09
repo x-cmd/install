@@ -10,6 +10,10 @@ x:
   dnf: spotify-tui
   brew: spotify-tui
   snap: spt
+  xbps: -Su
+  scoop: spotify-tui
+  yay: spotify-tui
+  cargo: spotify-tui
 rule:
   /eget:
     cmd: x eget Rigellute/spotify-tui

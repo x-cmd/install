@@ -7,6 +7,12 @@ x:
   source: https://github.com/volta-cli/volta
   eget: https://github.com/volta-cli/volta
   brew: volta
+  scoop: volta
+  choco: volta
+  winget: Volta.Volta
+  powershell: volta
+  yay: volta-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget volta-cli/volta

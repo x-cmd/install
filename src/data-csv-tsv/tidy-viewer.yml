@@ -9,6 +9,10 @@ x:
   eget: https://github.com/alexhallam/tv
   brew: tidy-viewer
   snap: --edge
+  yay: tidy-viewer
+  paru: tidy-viewer
+  cargo: tidy-viewer
+  wget: wget
 rule:
   /eget:
     cmd: x eget alexhallam/tv

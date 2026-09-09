@@ -6,6 +6,8 @@ desc:
   en: CPU monitoring and tuning software designed for 64-bit processors.
 x:
   source: https://github.com/cyring/CoreFreq
+  zypper: CoreFreq
+  yay: corefreq-client
 rule:
   arch/yay:
     cmd: yay -S corefreq-client corefreq-server

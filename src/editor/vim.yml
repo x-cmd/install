@@ -11,6 +11,11 @@ x:
   brew: vim
   pacman: vim
   apk: vim
+  apt-get: vim
+  yum: vim
+  zypper: vim
+  emerge: app-editors/vim
+  asdf: asdf
 rule:
   /asdf:
     cmd: x asdf use vim

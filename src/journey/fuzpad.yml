@@ -8,6 +8,7 @@ x:
   source: https://github.com/JianZcar/FuzPad
   eget: https://github.com/JianZcar/FuzPad
   brew: JianZcar/packages/fuzpad
+  curl: curl
 rule:
   /eget:
     cmd: x eget JianZcar/FuzPad

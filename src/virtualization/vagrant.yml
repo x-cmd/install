@@ -9,6 +9,13 @@ x:
   dnf: vagrant
   brew: --cask
   pacman: vagrant
+  apt-get: vagrant
+  yum: vagrant
+  scoop: main/vagrant
+  choco: vagrant
+  winget: Hashicorp.Vagrant
+  powershell: vagrant
+  yay: vagrant
 rule:
   (win|wsl2)/scoop:
     cmd: x scoop install main/vagrant

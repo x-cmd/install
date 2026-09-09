@@ -5,6 +5,7 @@ desc:
   en: Filter out duplicates on the command line
 x:
   source: https://github.com/koraa/huniq
+  cargo: huniq
 rule:
   /cargo:
     cmd: cargo install huniq

@@ -4,12 +4,17 @@ desc:
   cn: 一种通用的、渐进式类型的编程语言，支持多重编程范式
   en: A general, progressive type of programming language that supports multiple programming paradigms
 x:
-  pkg:
-    exist: true
   apt: rakudo
   dnf: rakudo
   brew: rakudo
   apk: rakudo
+  apt-get: rakudo
+  zypper: rakudo
+  port: rakudo
+  emerge: --verbose
+  scoop: rakudo-moar
+  yay: rakudo
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use raku

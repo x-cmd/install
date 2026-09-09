@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/lightpanda-io/browser
   eget: https://github.com/lightpanda-io/browser
+  yay: lightpanda-bin
+  curl: curl
 rule:
   /eget:
     cmd: x eget lightpanda-io/browser

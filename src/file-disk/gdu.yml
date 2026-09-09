@@ -5,10 +5,10 @@ desc:
   cn: 用 Go 编写的磁盘使用分析器
   en: Pretty fast disk usage analyzer written in Go
 x:
-  pkg:
-    exist: true
   source: https://github.com/dundee/gdu
   eget: https://github.com/dundee/gdu
+  yay: gdu-bin
+  curl: curl
 rule:
   /x:
     cmd: x pkg use gdu

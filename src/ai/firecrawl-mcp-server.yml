@@ -6,6 +6,7 @@ desc:
   en: 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 x:
   source: https://github.com/firecrawl/firecrawl-mcp-server
+  npm: firecrawl-mcp
 rule:
   /npm:
     cmd: npm install -g firecrawl-mcp

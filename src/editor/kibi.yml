@@ -8,6 +8,7 @@ x:
   source: https://github.com/ilai-deutel/kibi
   dnf: kibi
   apk: kibi
+  cargo: kibi
 rule:
   /cargo:
     cmd: cargo install kibi

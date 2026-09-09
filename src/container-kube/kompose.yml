@@ -8,6 +8,13 @@ x:
   source: https://github.com/kubernetes/kompose
   eget: https://github.com/kubernetes/kompose
   brew: kompose
+  choco: kubernetes-kompose
+  winget: Kubernetes.kompose
+  powershell: kubernetes-kompose
+  yay: kompose-git
+  go: github.com/kubernetes/kompose@latest
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget kubernetes/kompose

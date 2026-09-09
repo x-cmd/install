@@ -6,6 +6,7 @@ desc:
   cn: 在 48 小时内让你的网站被 Google 收录
 x:
   source: https://github.com/goenning/google-indexing-script
+  npm: google-indexing-script
 rule:
   /npm:
     cmd: npm install -g google-indexing-script

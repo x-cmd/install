@@ -10,6 +10,8 @@ x:
   dnf: util-linux-ng
   pacman: util-linux
   apk: util-linux
+  apt-get: passwd
+  yum: util-linux-ng
 rule:
   /eget:
     cmd: x eget shadow-maint/shadow

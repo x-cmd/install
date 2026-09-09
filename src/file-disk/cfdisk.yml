@@ -11,6 +11,8 @@ x:
   brew: util-linux
   pacman: util-linux
   apk: util-linux
+  apt-get: util-linux
+  yum: util-linux
 rule:
   debian/apt:
     cmd: sudo apt-get install util-linux

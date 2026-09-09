@@ -6,6 +6,8 @@ desc:
   en: Moltbot is a personal AI assistant you run on your own devices.
 x:
   source: https://github.com/moltbot/moltbot
+  npm: moltbot@latest
+  curl: curl
 rule:
   /curl:
     cmd: curl -fsSL https://molt.bot/install.sh | bash

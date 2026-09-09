@@ -6,6 +6,8 @@ desc:
   en: The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop
 x:
   source: https://github.com/nousresearch/hermes-agent
+  yay: hermes-agent
+  curl: curl
 rule:
   /curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash

@@ -5,11 +5,10 @@ desc:
   en: cfssl is CloudFlare's PKI/TLS toolkit, an HTTP API server for signing, validating, and bundling TLS certificates
 lang: Go
 x:
-  pkg:
-    exist: true
   source: https://github.com/cloudflare/cfssl
   eget: https://github.com/cloudflare/cfssl
   brew: cfssl
+  asdf: asdf
 rule:
   /x:
     cmd: x pkg use cfssl

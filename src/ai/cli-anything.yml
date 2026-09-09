@@ -6,6 +6,8 @@ desc:
   en: Open-source agent-native toolkit from HKU Data Science Lab that generates structured CLIs for any software (GIMP, Blender, LibreOffice, Draw.io, etc.) via a 7-phase automated pipeline, letting AI agents drive real professional software without fragile GUI automation or limited APIs.
 x:
   source: https://github.com/HKUDS/CLI-Anything
+  pip: -U
+  git: HKUDS/CLI-Anything
 rule:
   /pip:
     cmd: pip install -U cli-anything-hub

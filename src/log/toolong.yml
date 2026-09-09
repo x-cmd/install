@@ -6,6 +6,8 @@ desc:
   en: A terminal application to view, tail, merge, and search log files (plus JSONL).
 x:
   source: https://github.com/Textualize/toolong
+  yay: toolong
+  pip: toolong
 rule:
   arch/yay:
     cmd: yay -S toolong

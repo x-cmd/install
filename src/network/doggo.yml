@@ -5,11 +5,11 @@ desc:
   cn: doggo 是一个用 Golang 编写的现代命令行 DNS 客户端
   en: doggo is a modern command-line DNS client (like dig) written in Golang
 x:
-  pkg:
-    exist: true
   source: https://github.com/mr-karan/doggo
   eget: https://github.com/mr-karan/doggo
   brew: doggo
+  scoop: doggo
+  yay: doggo-bin
 rule:
   /x:
     cmd: x pkg use doggo

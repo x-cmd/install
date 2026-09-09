@@ -5,6 +5,8 @@ desc:
   en: Packaging multiple small JavaScript modules into a large application or library
 x:
   source: https://github.com/rollup/rollup
+  yay: rollup
+  npm: --global
 rule:
   /npm:
     cmd: npm install --global rollup

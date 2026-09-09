@@ -8,6 +8,11 @@ x:
   source: https://github.com/amrdeveloper/GQL
   eget: https://github.com/amrdeveloper/GQL
   brew: gitql
+  scoop: gitql
+  winget: gitql
+  powershell: install
+  yay: gitql-bin
+  cargo: gitql
 rule:
   /eget:
     cmd: x eget amrdeveloper/GQL

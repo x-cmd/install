@@ -5,6 +5,7 @@ desc:
   en: A Vertica client that does auto-completion and syntax highlighting, based on pgcli
 x:
   source: https://github.com/dbcli/vcli
+  pip: vcli
 rule:
   /pip:
     cmd: pip install vcli

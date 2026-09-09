@@ -8,6 +8,8 @@ x:
   source: https://github.com/projectdiscovery/nuclei
   eget: https://github.com/projectdiscovery/nuclei
   brew: nuclei
+  yay: nuclei-bin
+  go: -v
 rule:
   /eget:
     cmd: x eget projectdiscovery/nuclei

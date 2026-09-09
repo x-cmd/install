@@ -10,6 +10,9 @@ x:
   dnf: pipenv
   brew: pipenv
   pacman: pipenv
+  apt-get: pipenv
+  emerge: pipenv
+  pip: --user
 rule:
   /pip:
     cmd: pip install --user pipenv

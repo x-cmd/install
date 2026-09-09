@@ -5,6 +5,8 @@ desc:
   en: A Posix Shell Script (Bash-compatible) for tracking your IP address (at home, or on devices)
 x:
   source: https://github.com/BeyondCodeBootcamp/DuckDNS.sh
+  yay: duckdns
+  curl: curl
 rule:
   /webi:
     cmd: 'curl -sS https://webi.sh/duckdns.sh@v1 | sh \

@@ -4,9 +4,9 @@ desc:
   cn: doitlive 是终端中实时演示的工具
   en: doitlive is a tool for live presentations in the terminal
 x:
-  pkg:
-    exist: true
   brew: doitlive
+  yay: doitlive
+  pip: doitlive
 rule:
   /x:
     cmd: x pkg use doitlive

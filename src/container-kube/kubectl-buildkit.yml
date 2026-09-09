@@ -7,6 +7,9 @@ x:
   source: https://github.com/vmware-archive/buildkit-cli-for-kubectl
   eget: https://github.com/vmware-archive/buildkit-cli-for-kubectl
   brew: kubectl-buildkit
+  choco: .\kubectl-buildkit*.nupkg
+  powershell: .\kubectl-buildkit*.nupkg
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget vmware-archive/buildkit-cli-for-kubectl

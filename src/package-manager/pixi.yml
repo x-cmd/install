@@ -10,6 +10,10 @@ x:
   brew: pixi
   pacman: pixi
   apk: pixi
+  winget: prefix-dev.pixi
+  powershell: install
+  cargo: --locked
+  curl: curl
 rule:
   /eget:
     cmd: x eget prefix-dev/pixi

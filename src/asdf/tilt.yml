@@ -8,6 +8,9 @@ x:
   source: https://github.com/tilt-dev/tilt
   eget: https://github.com/tilt-dev/tilt
   brew: tilt-dev/tap/tilt
+  scoop: tilt
+  asdf: asdf
+  curl: curl
 rule:
   /eget:
     cmd: x eget tilt-dev/tilt

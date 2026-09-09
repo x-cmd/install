@@ -6,6 +6,7 @@ desc:
   en: Provide an agent-friendly backend platform that allows AI to directly configure databases, authentication, storage, and serverless functions.
 x:
   source: https://github.com/InsForge/InsForge
+  git: InsForge/InsForge
 rule:
   /git:
     cmd: x git clone InsForge/InsForge

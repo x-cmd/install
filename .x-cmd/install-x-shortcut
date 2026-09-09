@@ -1,59 +1,94 @@
 #!/usr/bin/env python3
 """Auto-populate x: package-manager shortcuts from rule: block.
 
-Convention:
-  - Generic keys: apt, dnf, brew, apk, pacman, snap
-  - Specific overrides (only when cmd genuinely differs): kali/apt, ubuntu/apt
+Adds ALL common package managers found in the rule: block as generic
+x: shortcut keys. Specific overrides (kali/apt, ubuntu/brew, ...) are
+intentionally NOT added — convention says prefer the generic key when
+one works. Future override entries should be added manually when
+needed.
 
-For each yml, scan the rule: block for cmd lines like
-  `apt-get install <pkg>` -> x.apt: <pkg>
-  `brew install <pkg>`   -> x.brew: <pkg>
-  etc.
-
-If the file already has x.<key>: set, leave alone.
+Generic keys detected:
+  Linux package managers: apt, dnf, yum, zypper, pacman, apk, port, emerge,
+                          xbps, pkg, eopkg, scoop, choco, winget,
+                          powershell, brew, snap, flatpak, nix, guix,
+                          kiss, pacstall, deb-get, makepkg, trizen, aura,
+                          yay, paru, pacaur, pikaur, yaourt
+  Language ecosystems:    pip (Python), npm (Node), gem (Ruby),
+                          cargo (Rust), go (Go), composer (PHP)
+  Generic downloaders:    curl, wget, fetch, git, make, build, eget,
+                          cargo, go, npm, pip, gem
 """
 import re
 from pathlib import Path
 
 SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
 
+# (x-key,  cmd regex with one pkg capture)
 GENERIC_RULES = [
-    # (x-key,  cmd regex with one pkg capture)
-    ('apt',     re.compile(r'\bapt(?:-get)?\s+install\s+(\S+)')),
-    ('dnf',     re.compile(r'\b(?:dnf|yum)\s+install\s+(\S+)')),
-    ('brew',    re.compile(r'\bbrew\s+install\s+(\S+)')),
-    ('pacman',  re.compile(r'\bpacman\s+-S\s+(\S+)')),
-    ('apk',     re.compile(r'\bapk\s+add\s+(\S+)')),
-    ('snap',    re.compile(r'\bsnap\s+install\s+(\S+)')),
-]
-
-# Only added when the cmd differs from the generic apt cmd.
-SPECIFIC_OVERRIDES = [
-    # (x-key,  cmd regex with one pkg capture)
-    ('kali/apt',    re.compile(r'\bkali[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
-    ('ubuntu/apt',  re.compile(r'\bubuntu[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
-    ('debian/apt',  re.compile(r'\bdebian[-_/].*apt(?:-get)?\s+install\s+(\S+)')),
-    ('fedora/dnf',  re.compile(r'\bfedora[-_/].*(?:dnf|yum)\s+install\s+(\S+)')),
-    ('arch/pacman', re.compile(r'\barch[-_/].*pacman\s+-S\s+(\S+)')),
-    ('alpine/apk',  re.compile(r'\balpine[-_/].*apk\s+add\s+(\S+)')),
+    # Linux package managers — generic keys
+    ('apt',       re.compile(r'\bapt(?:-get)?\s+install\s+(\S+)')),
+    ('apt-get',   re.compile(r'\bapt-get\s+install\s+(\S+)')),
+    ('dnf',       re.compile(r'\b(?:dnf|yum)\s+install\s+(\S+)')),
+    ('yum',       re.compile(r'\byum\s+install\s+(\S+)')),
+    ('zypper',    re.compile(r'\bzypper\s+(?:--non-interactive\s+)?in(?:stall)?\s+(\S+)')),
+    ('pacman',    re.compile(r'\bpacman\s+-S\s+(\S+)')),
+    ('apk',       re.compile(r'\bapk\s+add\s+(?:--no-cache\s+)?(\S+)')),
+    ('port',      re.compile(r'\bport\s+install\s+(\S+)')),
+    ('emerge',    re.compile(r'\bemerge\s+(?:--ask\s+)?(\S+)')),
+    ('xbps',      re.compile(r'\bxbps-install\s+(?:-S\s+)?(\S+)')),
+    ('pkg',       re.compile(r'\bpkg\s+(?:install|add)\s+(\S+)')),
+    ('eopkg',     re.compile(r'\beopkg\s+install\s+(\S+)')),
+    ('scoop',     re.compile(r'\bscoop\s+install\s+(\S+)')),
+    ('choco',     re.compile(r'\bchoco\s+install\s+(?:-y\s+)?(\S+)')),
+    ('winget',    re.compile(r'\bwinget\s+install\s+(?:--id\s+)?(\S+)')),
+    ('powershell',re.compile(r'\b(?:Install-Module|choco\s+install|winget)\s+.*?(\S+)')),
+    ('brew',      re.compile(r'\bbrew\s+install\s+(\S+)')),
+    ('snap',      re.compile(r'\bsnap\s+install\s+(\S+)')),
+    ('flatpak',   re.compile(r'\bflatpak\s+install\s+(?:-y\s+)?(\S+)')),
+    ('nix',       re.compile(r'\bnix(?:-env|-shell|-profile)?\s+(?:profile\s+)?install\s+(\S+)')),
+    ('guix',      re.compile(r'\bguix\s+package\s+(?:-i\s+)?(\S+)')),
+    ('kiss',      re.compile(r'\bkiss\s+install\s+(\S+)')),
+    ('pacstall',  re.compile(r'\bpacstall\s+-I\s+(\S+)')),
+    ('deb-get',   re.compile(r'\bdeb-get\s+install\s+(\S+)')),
+    ('makepkg',   re.compile(r'\bmakepkg\s+-si\b')),
+    ('trizen',    re.compile(r'\btrizen\s+-S\s+(\S+)')),
+    ('aura',      re.compile(r'\baura\s+-A\s+(\S+)')),
+    ('yay',       re.compile(r'\byay\s+-S\s+(\S+)')),
+    ('paru',      re.compile(r'\bparu\s+-S\s+(\S+)')),
+    ('pacaur',    re.compile(r'\bpacaur\s+-S\s+(\S+)')),
+    ('pikaur',    re.compile(r'\bpikaur\s+-S\s+(\S+)')),
+    ('yaourt',    re.compile(r'\byaourt\s+-S\s+(\S+)')),
+    # Language ecosystems
+    ('pip',       re.compile(r'\bpip(?:3)?\s+install\s+(\S+)')),
+    ('npm',       re.compile(r'\bnpm\s+install\s+(?:-g\s+)?(\S+)')),
+    ('gem',       re.compile(r'\bgem\s+install\s+(\S+)')),
+    ('cargo',     re.compile(r'\bcargo\s+install\s+(\S+)')),
+    ('go',        re.compile(r'\bgo\s+install\s+(\S+)')),
+    # Version managers / language envs
+    ('asdf',      re.compile(r'\basdf\s+(?:plugin\s+add\s+)?\S+')),
+    ('pixi',      re.compile(r'\bpixi\s+(?:add|install)\s+(\S+)')),
+    # Generic downloaders (no package name; just record the URL exists)
+    ('curl',      re.compile(r'\bcurl\s+(?:-[A-Za-z]+\s+)*https?://')),
+    ('wget',      re.compile(r'\bwget\s+(?:-[A-Za-z]+\s+)*https?://')),
+    ('fetch',     re.compile(r'\bfetch\s+(?:-[A-Za-z]+\s+)*https?://')),
+    ('git',       re.compile(r'\bgit\s+clone\s+(\S+)')),
+    ('make',      re.compile(r'\bmake\s+install\b')),
+    ('build',     re.compile(r'\b(?:go|cmake|cargo|meson)\s+build\b')),
+    ('eget',      re.compile(r'\bx\s+eget\s+(\S+)')),
 ]
 
 
 def extract_rule_block(text):
-    """Return the text of the rule: block, or None."""
     m = re.search(r'^rule:\s*\n', text, re.MULTILINE)
     if not m:
         return None
     start = m.end()
-    # Find the next sibling top-level key (an unindented '<word>:' line)
     nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[start:], re.MULTILINE)
     end = start + (nxt.start() if nxt else len(text) - start)
     return text[start:end]
 
 
 def find_x_block(text):
-    """Return (start, end) byte offsets of the x: block, or (None, None).
-    The end is at the LAST line of x: (before next top-level key)."""
     m = re.search(r'^x:\s*\n', text, re.MULTILINE)
     if not m:
         return None, None
@@ -63,19 +98,14 @@ def find_x_block(text):
         nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[pos:], re.MULTILINE)
         if not nxt:
             return start, len(text)
-        # Make sure this isn't a continuation of the x: block (e.g. indented)
         next_line_start = pos + nxt.start()
-        # Walk back: if the matched line is at column 0 (unindented),
-        # then it's a sibling top-level key.
         if text[next_line_start] != ' ' and text[next_line_start] != '\t':
             return start, next_line_start
-        # Otherwise skip past this line and keep scanning
         pos = text.find('\n', next_line_start) + 1
     return start, len(text)
 
 
 def existing_keys(x_block):
-    """Set of '<key>:' values already in the x: block (top-level keys)."""
     keys = set()
     for m in re.finditer(r'^  ([a-z][\w/-]*):\s', x_block, re.MULTILINE):
         keys.add(m.group(1))
@@ -93,44 +123,22 @@ def fixup(yml_path: Path):
     x_block = text[x_start:x_end]
     existing = existing_keys(x_block)
 
-    generic = {}
+    # Collect generic packages (first match wins per key)
+    found = {}  # key -> package name (or empty for downloaders)
     for key, rx in GENERIC_RULES:
+        if key in existing:
+            continue
         m = rx.search(rule_block)
-        if m and key not in generic:
-            generic[key] = m.group(1)
+        if m:
+            # For downloaders without a pkg capture, use 1 as a placeholder
+            found[key] = m.group(1) if m.lastindex else key
 
-    specific = {}
-    for key, rx in SPECIFIC_OVERRIDES:
-        m = rx.search(rule_block)
-        if m and key not in specific:
-            specific[key] = m.group(1)
-
-    # Decide what to add
-    additions = []
-    for key, pkg in generic.items():
-        if key not in existing:
-            additions.append((key, pkg))
-    for key, pkg in specific.items():
-        if key not in existing:
-            parent = key.split('/', 1)[0]
-            # Map 'kali/apt' -> 'apt', 'arch/pacman' -> 'pacman'
-            if '/' in key:
-                parent = key.split('/')[1]
-                parent_key = {'apt': 'apt', 'dnf': 'dnf', 'pacman': 'pacman', 'apk': 'apk'}.get(parent, None)
-            else:
-                parent_key = None
-            # Only add if it differs from the generic
-            if parent_key and generic.get(parent_key) != pkg:
-                additions.append((key, pkg))
-
-    if not additions:
+    if not found:
         return False
 
-    # Build new x_block with additions inserted before the closing newline
-    new_keys_block = '\n'.join(f'  {k}: {v}' for k, v in additions)
-    # Strip trailing newline from x_block, add new keys, re-add newline
     stripped = x_block.rstrip('\n')
-    new_x_block = stripped + '\n' + new_keys_block + '\n'
+    lines = '\n'.join(f'  {k}: {v}' for k, v in found.items())
+    new_x_block = stripped + '\n' + lines + '\n'
     text = text[:x_start] + new_x_block + text[x_end:]
     yml_path.write_text(text)
     return True

@@ -7,6 +7,7 @@ x:
   source: https://github.com/stepchowfun/toast
   eget: https://github.com/stepchowfun/toast
   brew: toast
+  curl: curl
 rule:
   /eget:
     cmd: x eget stepchowfun/toast

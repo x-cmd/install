@@ -8,6 +8,7 @@ x:
   source: https://github.com/nao1215/sqly
   eget: https://github.com/nao1215/sqly
   brew: nao1215/tap/sqly
+  go: github.com/nao1215/sqly@latest
 rule:
   /eget:
     cmd: x eget nao1215/sqly

@@ -11,6 +11,10 @@ x:
   brew: irssi
   pacman: irssi
   apk: irssi
+  apt-get: irssi
+  yum: irssi
+  zypper: irssi
+  port: irssi
 rule:
   /eget:
     cmd: x eget irssi/irssi

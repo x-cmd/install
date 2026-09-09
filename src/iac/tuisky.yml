@@ -6,6 +6,9 @@ desc:
   en: TUI client for Bluesky.
 x:
   source: https://github.com/sugyan/tuisky
+  yay: tuisky
+  paru: tuisky
+  cargo: tuisky
 rule:
   /cargo:
     cmd: cargo install tuisky

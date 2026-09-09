@@ -6,6 +6,7 @@ desc:
   en: CLI for editing a PATH env variable.
 x:
   source: https://github.com/chip/pathos
+  go: github.com/chip/pathos@latest
 rule:
   /go:
     cmd: go install github.com/chip/pathos@latest

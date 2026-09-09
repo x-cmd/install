@@ -7,6 +7,10 @@ x:
   source: https://github.com/supabase/cli
   eget: https://github.com/supabase/cli
   brew: supabase/tap/supabase
+  scoop: supabase
+  yay: supabase-bin
+  npm: supabase
+  go: github.com/supabase/cli@latest
 rule:
   /eget:
     cmd: x eget supabase/cli

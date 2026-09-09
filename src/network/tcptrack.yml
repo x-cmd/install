@@ -8,6 +8,8 @@ x:
   source: https://github.com/bchretien/tcptrack
   apt: tcptrack
   dnf: tcptrack
+  apt-get: tcptrack
+  yay: tcptrack
 rule:
   arch/yay:
     cmd: yay -S tcptrack

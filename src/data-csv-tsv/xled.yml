@@ -10,6 +10,9 @@ x:
   source: https://github.com/excelano/xled
   eget: https://github.com/excelano/xled
   brew: excelano/tap/xled
+  winget: Excelano.xled
+  powershell: install
+  cargo: xled
 rule:
   /eget:
     cmd: x eget excelano/xled

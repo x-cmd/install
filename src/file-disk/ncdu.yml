@@ -4,13 +4,14 @@ desc:
   cn: Ncdu 是一个带有 ncurses 接口的磁盘使用分析器
   en: Ncdu is a disk usage analyzer with an ncurses interface
 x:
-  pkg:
-    exist: true
   apt: ncdu
   dnf: ncdu
   brew: ncdu
   pacman: ncdu
   apk: ncdu
+  apt-get: ncdu
+  yum: ncdu
+  zypper: ncdu
 rule:
   /x:
     cmd: x pkg use ncdu

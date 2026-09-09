@@ -4,14 +4,14 @@ desc:
   cn: SQLite 是一个 C 语言库，它实现了一个小型、快速、自包含、高可靠、功能齐全的 SQL 数据库引擎
   en: SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
 x:
-  pkg:
-    exist: true
   source: https://github.com/sqlite/sqlite
   apt: sqlite3
   dnf: sqlite
   brew: sqlite
   pacman: sqlite3
   apk: sqlite
+  apt-get: sqlite3
+  yum: sqlite
 rule:
   /x:
     cmd: x pkg use sqlite3

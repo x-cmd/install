@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/osa1/tiny
   eget: https://github.com/osa1/tiny
+  cargo: --git
 rule:
   /eget:
     cmd: x eget osa1/tiny

@@ -6,6 +6,8 @@ desc:
   en: Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 x:
   source: https://github.com/hackerb9/lsix
+  curl: curl
+  wget: wget
 rule:
   /wget:
     cmd: 'wget https://raw.githubusercontent.com/hackerb9/lsix/master/lsix && \

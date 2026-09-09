@@ -9,6 +9,7 @@ x:
   eget: https://github.com/dokuwiki/dokuwiki
   apt: php
   dnf: httpd
+  wget: wget
 rule:
   /eget:
     cmd: x eget dokuwiki/dokuwiki

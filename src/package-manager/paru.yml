@@ -8,6 +8,9 @@ x:
   source: https://github.com/Morganamilo/paru
   eget: https://github.com/Morganamilo/paru
   pacman: --needed
+  makepkg: makepkg
+  yay: paru
+  git: https://aur.archlinux.org/paru.git
 rule:
   /eget:
     cmd: x eget Morganamilo/paru

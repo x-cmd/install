@@ -5,9 +5,9 @@ desc:
   cn: 毫不妥协的 Python 代码格式化程序
   en: Black is a PEP 8 compliant opinionated formatter with its own style
 x:
-  pkg:
-    exist: true
   source: https://github.com/psf/black
+  yay: python-black-git
+  pip: black
 rule:
   /x:
     cmd: x pkg use black

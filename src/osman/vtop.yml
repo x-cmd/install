@@ -6,6 +6,8 @@ desc:
   en: A graphical activity monitor for the command line.
 x:
   source: https://github.com/MrRio/vtop
+  yay: vtop
+  npm: vtop
 rule:
   arch/yay:
     cmd: yay -S vtop

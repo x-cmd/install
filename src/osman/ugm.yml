@@ -6,6 +6,8 @@ desc:
   en: A CLI tool with a TUI interface to view information about UNIX users and groups on your machine
 x:
   source: https://github.com/ariasmn/ugm
+  yay: ugm
+  go: github.com/ariasmn/ugm@latest
 rule:
   arch/yay:
     cmd: yay -S ugm

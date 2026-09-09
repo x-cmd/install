@@ -5,11 +5,12 @@ desc:
   cn: 支持 cjk/emoji 的高性能 csv 查看器
   en: A high performance csv viewer with cjk/emoji support
 x:
-  pkg:
-    exist: true
   source: https://github.com/wfxr/csview
   eget: https://github.com/wfxr/csview
   brew: csview
+  scoop: csview
+  yay: csview
+  cargo: --locked
 rule:
   /x:
     cmd: x pkg use csview

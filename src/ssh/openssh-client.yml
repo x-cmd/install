@@ -8,6 +8,8 @@ x:
   apt: openssh-client
   brew: openssh
   apk: openssh
+  apt-get: openssh-client
+  zypper: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

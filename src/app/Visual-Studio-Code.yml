@@ -9,6 +9,12 @@ x:
   brew: --cask
   pacman: code
   snap: code
+  scoop: extras/vscode
+  choco: vscode
+  winget: Microsoft.VisualStudioCode
+  powershell: vscode
+  flatpak: flathub
+  yay: visual-studio-code-bin
 rule:
   /flatpak:
     cmd: flatpak install flathub com.visualstudio.code

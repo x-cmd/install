@@ -7,6 +7,7 @@ desc:
 x:
   source: https://github.com/EdJoPaTo/mqttui
   eget: https://github.com/EdJoPaTo/mqttui
+  cargo: --path
 rule:
   /cargo:
     cmd: 'cargo install --path .'

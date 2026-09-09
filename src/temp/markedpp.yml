@@ -6,6 +6,7 @@ desc:
   en: markedpp is a preprocessor for documents written in markdown
 x:
   source: https://github.com/commenthol/markedpp
+  npm: markedpp
 rule:
   /npm:
     cmd: npm install -g markedpp

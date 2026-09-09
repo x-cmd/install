@@ -8,6 +8,8 @@ x:
   eget: https://github.com/sorairolake/qrtool
   brew: qrtool
   pacman: qrtool
+  zypper: qrtool
+  cargo: qrtool
 rule:
   /eget:
     cmd: x eget sorairolake/qrtool

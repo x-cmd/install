@@ -7,6 +7,8 @@ desc:
 x:
   source: https://github.com/Builditluc/wiki-tui
   eget: https://github.com/Builditluc/wiki-tui
+  xbps: wiki-tui
+  cargo: wiki-tui
 rule:
   /eget:
     cmd: x eget Builditluc/wiki-tui

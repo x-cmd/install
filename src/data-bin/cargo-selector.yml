@@ -6,6 +6,9 @@ desc:
   cn: Cargo 子命令用于选择并执行二进制/示例目标
 x:
   source: https://github.com/lusingander/cargo-selector
+  yay: cargo-selector
+  paru: cargo-selector
+  cargo: cargo-selector
 rule:
   /cargo:
     cmd: cargo install cargo-selector

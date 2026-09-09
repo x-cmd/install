@@ -8,6 +8,10 @@ x:
   source: https://github.com/neilotoole/sq
   eget: https://github.com/neilotoole/sq
   brew: sq
+  scoop: sq
+  yay: sq-bin
+  go: github.com/neilotoole/sq
+  curl: curl
 rule:
   /eget:
     cmd: x eget neilotoole/sq

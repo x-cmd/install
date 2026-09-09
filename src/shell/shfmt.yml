@@ -5,10 +5,9 @@ desc:
   cn: shell 解析器、格式化器和解释器
   en: A shell parser, formatter, and interpreter
 x:
-  pkg:
-    exist: true
   source: https://github.com/mvdan/sh
   eget: https://github.com/mvdan/sh
+  go: mvdan.cc/sh/v3/cmd/shfmt@latest
 rule:
   /x:
     cmd: x pkg use shfmt

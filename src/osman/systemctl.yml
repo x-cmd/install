@@ -9,6 +9,8 @@ x:
   apt: systemd
   dnf: systemd
   pacman: systemd
+  apt-get: systemd
+  yum: systemd
 rule:
   debian/apt:
     cmd: sudo apt-get install systemd

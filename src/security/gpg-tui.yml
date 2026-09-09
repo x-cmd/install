@@ -9,6 +9,9 @@ x:
   brew: gpg-tui
   pacman: gpg-tui
   apk: gpg-tui
+  yay: gpg-tui-git
+  paru: gpg-tui-git
+  cargo: gpg-tui
 rule:
   /cargo:
     cmd: cargo install gpg-tui

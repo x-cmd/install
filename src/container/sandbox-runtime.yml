@@ -6,6 +6,7 @@ desc:
   cn: 轻量级的沙箱工具，可以在操作系统级别对任意进程强制执行文件系统和网络限制，而无需容器
 x:
   source: https://github.com/anthropic-experimental/sandbox-runtime
+  npm: "@anthropic-ai/sandbox-runtime"
 rule:
   /npm:
     cmd: npm install -g @anthropic-ai/sandbox-runtime

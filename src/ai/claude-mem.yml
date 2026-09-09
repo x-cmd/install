@@ -6,6 +6,7 @@ desc:
   en: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with ...
 x:
   source: https://github.com/thedotmack/claude-mem
+  npm: claude-mem
 rule:
   /npm:
     cmd: npm install -g claude-mem

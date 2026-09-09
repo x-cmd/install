@@ -6,6 +6,8 @@ desc:
 x:
   source: https://github.com/mrusme/zeit
   eget: https://github.com/mrusme/zeit
+  yay: zeit
+  go: github.com/mrusme/zeit@latest
 rule:
   /eget:
     cmd: x eget mrusme/zeit

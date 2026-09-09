@@ -6,6 +6,7 @@ desc:
   cn: 一个受到 Vim 启发、用 Nim 语言编写的基于命令行的编辑器
 x:
   source: https://github.com/fox0430/moe
+  yay: moe-nim
 rule:
   arch/yay:
     cmd: yay -S moe-nim

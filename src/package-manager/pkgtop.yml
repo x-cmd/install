@@ -6,6 +6,8 @@ desc:
   en: An interactive package manager and resource monitor for GNU/Linux systems
 x:
   source: https://github.com/orhun/pkgtop
+  yay: pkgtop
+  go: github.com/orhun/pkgtop/cmd@latest
 rule:
   arch/yay:
     cmd: yay -S pkgtop

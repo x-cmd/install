@@ -6,6 +6,7 @@ desc:
   en: Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, h...
 x:
   source: https://github.com/jonigl/mcp-client-for-ollama
+  pip: mcp-client-for-ollama
 rule:
   /pip:
     cmd: pip install mcp-client-for-ollama

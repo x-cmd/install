@@ -8,6 +8,8 @@ x:
   source: https://github.com/leg100/pug
   eget: https://github.com/leg100/pug
   brew: leg100/tap/pug
+  yay: terraform-pug-bin
+  go: github.com/leg100/pug@latest
 rule:
   /eget:
     cmd: x eget leg100/pug

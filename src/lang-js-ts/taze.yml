@@ -6,6 +6,7 @@ desc:
   en: npm dependency upgrade manager
 x:
   source: https://github.com/antfu/taze
+  npm: taze
 rule:
   /npm:
     cmd: npm install -g taze

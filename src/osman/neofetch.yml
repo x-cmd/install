@@ -11,6 +11,14 @@ x:
   brew: neofetch
   pacman: neofetch
   apk: neofetch
+  apt-get: neofetch
+  zypper: neofetch
+  emerge: app-misc/neofetch
+  xbps: neofetch
+  scoop: neofetch
+  winget: nepnep.neofetch-win
+  powershell: install
+  yay: neofetch
 rule:
   darwin/brew:
     cmd: brew install neofetch

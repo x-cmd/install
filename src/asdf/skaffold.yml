@@ -8,6 +8,11 @@ x:
   source: https://github.com/GoogleContainerTools/skaffold
   eget: https://github.com/GoogleContainerTools/skaffold
   brew: skaffold
+  port: skaffold
+  scoop: skaffold
+  choco: skaffold
+  powershell: -y
+  asdf: asdf
 rule:
   /eget:
     cmd: x eget GoogleContainerTools/skaffold

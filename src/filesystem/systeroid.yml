@@ -8,6 +8,8 @@ x:
   source: https://github.com/orhun/systeroid
   pacman: systeroid
   apk: systeroid
+  zypper: systeroid
+  cargo: systeroid
 rule:
   /cargo:
     cmd: cargo install systeroid
