@@ -18,6 +18,224 @@
       ],
       "type": "object"
     },
+    "ListenEnum": {
+      "description": "Single-value enum for behavior.network.listen",
+      "enum": ["none", "localhost", "lan", "internet"],
+      "type": "string"
+    },
+    "Connect": {
+      "additionalProperties": false,
+      "description": "Independent flags for each outbound destination",
+      "properties": {
+        "localhost": { "type": "boolean" },
+        "lan":       { "type": "boolean" },
+        "internet":  { "type": "boolean" }
+      },
+      "required": ["localhost", "lan", "internet"],
+      "type": "object"
+    },
+    "Network": {
+      "additionalProperties": false,
+      "description": "Network permissions — direction (listen/connect) x surface (localhost/lan/internet)",
+      "properties": {
+        "listen":  { "$ref": "#/definitions/ListenEnum" },
+        "connect": { "$ref": "#/definitions/Connect" }
+      },
+      "required": ["listen", "connect"],
+      "type": "object"
+    },
+    "Estimate": {
+      "description": "Size estimate — human-readable string like '12 MB' or '2.5 GB'",
+      "type": "string"
+    },
+    "Rating1to5": {
+      "description": "0..5 rating (0 = idle/none, 1..5 = active — see rating.md § 4)",
+      "enum": [0, 1, 2, 3, 4, 5],
+      "type": "integer"
+    },
+    "DiskSize": {
+      "additionalProperties": false,
+      "description": "Disk size block — estimate + (rating only for install) + i18n desc",
+      "properties": {
+        "estimate": { "$ref": "#/definitions/Estimate" },
+        "rating":   { "$ref": "#/definitions/Rating1to5" },
+        "desc":     { "$ref": "#/definitions/I18nDescription" }
+      },
+      "required": ["estimate"],
+      "type": "object"
+    },
+    "Disk": {
+      "additionalProperties": false,
+      "description": "Resource disk block — install/download sizes + paths + growth",
+      "properties": {
+        "size": {
+          "additionalProperties": false,
+          "properties": {
+            "install":  { "$ref": "#/definitions/DiskSize" },
+            "download": { "$ref": "#/definitions/DiskSize" },
+            "growth": {
+              "additionalProperties": false,
+              "properties": {
+                "desc": { "$ref": "#/definitions/I18nDescription" }
+              },
+              "required": ["desc"],
+              "type": "object"
+            }
+          },
+          "required": ["install"],
+          "type": "object"
+        },
+        "paths": {
+          "additionalProperties": false,
+          "properties": {
+            "data":   { "items": { "type": "string" }, "type": "array" },
+            "config": { "items": { "type": "string" }, "type": "array" }
+          },
+          "type": "object"
+        }
+      },
+      "required": ["size"],
+      "type": "object"
+    },
+    "Memory": {
+      "additionalProperties": false,
+      "description": "Resource memory block — idle (and optional peak)",
+      "properties": {
+        "idle": {
+          "additionalProperties": false,
+          "properties": {
+            "estimate": { "$ref": "#/definitions/Estimate" },
+            "desc":     { "$ref": "#/definitions/I18nDescription" }
+          },
+          "required": ["estimate"],
+          "type": "object"
+        },
+        "peak": {
+          "additionalProperties": false,
+          "properties": {
+            "estimate": { "$ref": "#/definitions/Estimate" },
+            "desc":     { "$ref": "#/definitions/I18nDescription" }
+          },
+          "type": "object"
+        }
+      },
+      "required": ["idle"],
+      "type": "object"
+    },
+    "CPUSubblock": {
+      "additionalProperties": false,
+      "description": "Subblock for idle/peak (rating + i18n desc, comments allowed)",
+      "properties": {
+        "rating": { "$ref": "#/definitions/Rating1to5" },
+        "desc":   { "$ref": "#/definitions/I18nDescription" }
+      },
+      "required": ["rating"],
+      "type": "object"
+    },
+    "CPU": {
+      "additionalProperties": false,
+      "description": "Resource CPU block — workload + processes + idle/peak ratings",
+      "properties": {
+        "workload": {
+          "items": {
+            "enum": ["compute", "io", "network", "memory", "gpu"],
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "processes": { "type": "integer" },
+        "idle": { "$ref": "#/definitions/CPUSubblock" },
+        "peak": { "$ref": "#/definitions/CPUSubblock" }
+      },
+      "required": ["workload", "processes"],
+      "type": "object"
+    },
+    "Resource": {
+      "additionalProperties": false,
+      "description": "Resource block — disk + memory + cpu",
+      "properties": {
+        "disk":   { "$ref": "#/definitions/Disk" },
+        "memory": { "$ref": "#/definitions/Memory" },
+        "cpu":    { "$ref": "#/definitions/CPU" }
+      },
+      "type": "object"
+    },
+    "Filesystem": {
+      "additionalProperties": false,
+      "description": "behavior.filesystem block — what the binary reads/writes",
+      "properties": {
+        "read": {
+          "additionalProperties": false,
+          "properties": {
+            "desc": { "$ref": "#/definitions/I18nDescription" },
+            "sensitive": {
+              "items": { "type": "string" },
+              "type": "array"
+            }
+          },
+          "required": ["desc"],
+          "type": "object"
+        },
+        "write": {
+          "additionalProperties": false,
+          "properties": {
+            "desc": { "$ref": "#/definitions/I18nDescription" },
+            "sensitive": {
+              "items": { "type": "string" },
+              "type": "array"
+            }
+          },
+          "type": "object"
+        }
+      },
+      "type": "object"
+    },
+    "Runtime": {
+      "additionalProperties": false,
+      "description": "behavior.runtime — type is either a string or array of strings",
+      "properties": {
+        "type": {
+          "anyOf": [
+            { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive"], "type": "string" },
+            {
+              "items": { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive"], "type": "string" },
+              "type": "array"
+            }
+          ]
+        }
+      },
+      "required": ["type"],
+      "type": "object"
+    },
+    "Footprint": {
+      "additionalProperties": false,
+      "description": "Footprint block — behavior + resource + (optional) platform",
+      "properties": {
+        "behavior": {
+          "additionalProperties": false,
+          "properties": {
+            "runtime": { "$ref": "#/definitions/Runtime" },
+            "network": { "$ref": "#/definitions/Network" },
+            "filesystem": { "$ref": "#/definitions/Filesystem" }
+          },
+          "required": ["runtime", "network"],
+          "type": "object"
+        },
+        "resource": { "$ref": "#/definitions/Resource" },
+        "platform": {
+          "additionalProperties": false,
+          "description": "Optional per-OS support levels (full / partial / none)",
+          "properties": {
+            "win":    { "enum": ["full", "partial", "none"], "type": "string" },
+            "linux":  { "enum": ["full", "partial", "none"], "type": "string" },
+            "darwin": { "enum": ["full", "partial", "none"], "type": "string" }
+          },
+          "type": "object"
+        }
+      },
+      "required": ["behavior", "resource"],
+      "type": "object"
+    },
     "InstallMeta": {
       "additionalProperties": false,
       "description": "`xw gen-schema` generate json schema\n\nfrom 'x-cmd-install/x-cmd-install' repo",
@@ -32,6 +250,10 @@
         "desc": {
           "$ref": "#/definitions/I18nDescription",
           "description": "描述"
+        },
+        "footprint": {
+          "$ref": "#/definitions/Footprint",
+          "description": "Estimated footprint ( install >= download, see CONTRIBUTING.md )"
         },
         "homepage": {
           "description": "主页 URL",

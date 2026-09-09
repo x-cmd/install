@@ -19,8 +19,11 @@ footprint:
     runtime:
       type: [cli, tui]
     network:
-      local: true       # 读本地密码库
-      internet: true     # 可选同步到 git remote
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true
     filesystem:
       read:
         desc:
