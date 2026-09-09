@@ -1,26 +1,19 @@
 # shellcheck shell=dash
 #
 # Usage:
-#   x ws lint <file>...      Lint the specified YAML files
+#   x ws lint                    # lint all yml in src/
+#   x ws lint path/to/x.yml      # lint specific files
 #
-# Examples:
-#   x ws lint src/ai/claude-code.yml
-#   x ws lint src/ai/*.yml
-#
-# File-level linter — yaml + ajv per file, parallel via x line args.
-# Subset of smoke.test.sh ⊂ test.sh.
+# File-level linter. Subset of smoke.test.sh ⊂ test.sh.
 
-mainrun(){
-    for f in "$@"; do
-        x bun x yaml-lint "$f" || x:error "yaml-lint failed -> $f"
-        x bun x ajv-cli -s "$(x wsroot)/.vscode/install.schema.json" -d "$f" || x:error "ajv-cli failed -> $f"
-    done
+WS="$(x wsroot)"
+A="$WS/.x-cmd/install-yml-check.schema.json"
+B="$WS/.vscode/install.schema.json"
+
+# Bail early if the two schema copies have drifted.
+diff -q "$A" "$B" >/dev/null 2>&1 || {
+    x:error "schema drift: $A vs $B differ; run: cp $A $B (or vice versa)"
+    exit 1
 }
 
-(
-    if [ $# -eq 0 ]; then
-        find "$(x wsroot)/src" -name "*.yml" | x line args -n 1000 'mainrun "$@"'
-    else
-        mainrun "$@"
-    fi
-)
+x ajv -s "$A" "$@"
