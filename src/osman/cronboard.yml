@@ -30,7 +30,10 @@ footprint:
           cn: 读取 /etc/crontab, /var/spool/cron
           en: Reads /etc/crontab, /var/spool/cron
         sensitive: []
-      write: []
+      write:
+        desc:
+          cn: 无文件系统读写
+          en: No filesystem reads or writes
   resource:
     disk:
       size:

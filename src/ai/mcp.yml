@@ -30,7 +30,10 @@ footprint:
           cn: 读取浏览器会话状态
           en: Reads browser session state
         sensitive: []
-      write: []
+      write:
+        desc:
+          cn: 无文件系统读写
+          en: No filesystem reads or writes
   resource:
     disk:
       size:

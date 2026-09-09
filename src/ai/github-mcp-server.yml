@@ -31,7 +31,10 @@ footprint:
           en: Reads ~/.config/gh, GITHUB_TOKEN
         sensitive:
         - "$HOME/.config/gh/hosts.yml"
-      write: []
+      write:
+        desc:
+          cn: 无文件系统读写
+          en: No filesystem reads or writes
   resource:
     disk:
       size:

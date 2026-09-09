@@ -44,15 +44,15 @@ footprint:
           desc:
             cn: 安装 2 MB
             en: 2 MB install
-        paths:
-        data:
-        - ".git/"
-        config: []
         download:
           estimate: 2 MB
           desc:
             cn: 约 2 MB 下载 (linux/x64)
             en: ~2 MB download (linux/x64)
+      paths:
+        data:
+        - ".git/"
+        config: []
     memory:
       idle:
         estimate: 5 MB

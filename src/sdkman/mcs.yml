@@ -42,7 +42,10 @@ footprint:
         lan: true
         internet: true   # Minecraft server status
     filesystem:
-      read: []
+      read:
+        desc:
+          cn: 无文件系统读写
+          en: No filesystem reads or writes
   resource:
     disk:
       size:

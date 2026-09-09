@@ -49,9 +49,10 @@ footprint:
         install:
           estimate: 7.1 MB
           rating: 1
-        desc:
-          cn: 约 7.1 MB（估算）
-          en: ~7.1 MB estimated
+          desc:
+            cn: 约 7.1 MB（估算）
+            en: ~7.1 MB estimated
+
       paths:
         data: []
         config: []

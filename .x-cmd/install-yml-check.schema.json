@@ -66,13 +66,21 @@
     },
     "Disk": {
       "additionalProperties": false,
-      "description": "Resource disk block — install/download sizes + paths",
+      "description": "Resource disk block — install/download sizes + paths + growth",
       "properties": {
         "size": {
           "additionalProperties": false,
           "properties": {
             "install":  { "$ref": "#/definitions/DiskSize" },
-            "download": { "$ref": "#/definitions/DiskSize" }
+            "download": { "$ref": "#/definitions/DiskSize" },
+            "growth": {
+              "additionalProperties": false,
+              "properties": {
+                "desc": { "$ref": "#/definitions/I18nDescription" }
+              },
+              "required": ["desc"],
+              "type": "object"
+            }
           },
           "required": ["install"],
           "type": "object"
@@ -81,7 +89,8 @@
           "additionalProperties": false,
           "properties": {
             "data":   { "items": { "type": "string" }, "type": "array" },
-            "config": { "items": { "type": "string" }, "type": "array" }
+            "config": { "items": { "type": "string" }, "type": "array" },
+            "cache":  { "items": { "type": "string" }, "type": "array" }
           },
           "type": "object"
         }
@@ -188,9 +197,9 @@
       "properties": {
         "type": {
           "anyOf": [
-            { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive"], "type": "string" },
+            { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive", "oneshot", "script", "wrapper"], "type": "string" },
             {
-              "items": { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive"], "type": "string" },
+              "items": { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive", "oneshot", "script", "wrapper"], "type": "string" },
               "type": "array"
             }
           ]

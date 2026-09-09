@@ -33,7 +33,10 @@ footprint:
           en: Reads ~/.kube/config and k8s manifests
         sensitive:
         - "$HOME/.kube/config"
-      write: []
+      write:
+        desc:
+          cn: 无文件系统读写
+          en: No filesystem reads or writes
   resource:
     disk:
       size:
