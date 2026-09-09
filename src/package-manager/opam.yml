@@ -17,6 +17,7 @@ x:
   powershell: install
   yay: opam-git
   curl: curl
+  pkg: ocaml-opam
 rule:
   /eget:
     cmd: x eget ocaml/opam

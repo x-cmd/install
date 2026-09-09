@@ -21,6 +21,7 @@ x:
   choco: ninja
   powershell: ninja
   pip: ninja
+  pkg: ninja
 rule:
   /eget:
     cmd: x eget ninja-build/ninja

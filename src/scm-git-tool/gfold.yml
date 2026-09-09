@@ -12,6 +12,7 @@ x:
   apk: gfold
   port: gfold
   cargo: gfold
+  pkg: devel/gfold
 rule:
   /eget:
     cmd: x eget nickgerace/gfold

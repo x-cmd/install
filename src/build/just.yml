@@ -23,6 +23,7 @@ x:
   cargo: just
   asdf: asdf
   git: https://mpr.makedeb.org/just
+  pkg: just
 rule:
   /x:
     cmd: x pkg use just

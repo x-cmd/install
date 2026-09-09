@@ -8,6 +8,9 @@ rule:
     cmd: pip install glance
     reference: https://pypi.org/project/glance/
     dsnap: glance
+
+x:
+  pip: glance
 binlist:
 - glance
 license: NOASSERTION

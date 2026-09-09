@@ -33,6 +33,10 @@ rule:
 
       '
     reference: https://github.com/kubemq-io/kubemqctl?tab=readme-ov-file#linux-64-bits
+
+x:
+  asdf: asdf
+  curl: curl
 binlist:
 - kubemqctl
 license: NOASSERTION

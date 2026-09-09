@@ -66,6 +66,16 @@ rule:
   arch/yay:
     cmd: yay -S telegram-desktop-bin
     reference: https://aur.archlinux.org/packages/telegram-desktop
+
+x:
+  scoop: extras/telegram
+  choco: telegram
+  winget: Telegram.TelegramDesktop
+  powershell: telegram
+  brew: --cask
+  snap: telegram-desktop
+  flatpak: flathub
+  yay: telegram-desktop-bin
 binlist:
 - Telegram
 license: NOASSERTION

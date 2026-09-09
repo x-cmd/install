@@ -18,6 +18,7 @@ x:
   xbps: fish-shell
   eopkg: fish
   guix: fish
+  pkg: fish
 rule:
   /eget:
     cmd: x eget fish-shell/fish-shell

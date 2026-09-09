@@ -18,6 +18,7 @@ x:
   emerge: net-misc/mosh
   guix: mosh
   make: make
+  pkg: net/mosh
 rule:
   /eget:
     cmd: x eget mobile-shell/mosh

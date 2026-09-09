@@ -14,6 +14,7 @@ x:
   zypper: -t
   emerge: -av
   gem: jekyll
+  pkg: ruby3x-gems
 rule:
   darwin/gem:
     cmd: 'brew install chruby ruby-install xz \

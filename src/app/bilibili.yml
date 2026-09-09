@@ -10,6 +10,10 @@ rule:
   arch/yay:
     cmd: yay -S bilibili-bin
     reference: https://aur.archlinux.org/packages/bilibili-bin
+
+x:
+  brew: --cask
+  yay: bilibili-bin
 binlist:
 - bilibili
 license: NOASSERTION

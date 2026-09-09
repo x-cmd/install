@@ -9,6 +9,9 @@ rule:
     cmd: cargo install fsrx
     reference: https://github.com/jrnxf/fsrx?tab=readme-ov-file#cargo
     dsnap: fsrx
+
+x:
+  cargo: fsrx
 binlist:
 - fsrx
 

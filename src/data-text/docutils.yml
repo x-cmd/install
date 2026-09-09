@@ -11,6 +11,10 @@ rule:
     cmd: pip install docutils
     reference: https://pypi.org/project/docutils/#files
     dsnap: docutils
+
+x:
+  brew: docutils
+  pip: docutils
 binlist:
 - docutils
 license: NOASSERTION

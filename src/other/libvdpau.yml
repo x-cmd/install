@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install libvdpau
     reference: https://formulae.brew.sh/formula/libvdpau#default
+
+x:
+  brew: libvdpau
 binlist:
 - libvdpau
 license: NOASSERTION

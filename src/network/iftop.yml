@@ -39,6 +39,16 @@ rule:
   opensuse/zypper:
     cmd: sudo zypper install iftop
     reference: https://software.opensuse.org//download.html?project=openSUSE%3AFactory&package=iftop
+
+x:
+  apt: iftop
+  apt-get: iftop
+  dnf: iftop
+  zypper: iftop
+  pacman: iftop
+  apk: iftop
+  brew: iftop
+  yay: iftop-git
 binlist:
 - iftop
 license: NOASSERTION

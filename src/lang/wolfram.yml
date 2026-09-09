@@ -10,6 +10,10 @@ rule:
   (win|wsl2)/winget:
     cmd: x winget install WolframEngine
     reference: https://www.wolfram.com/engine/
+
+x:
+  winget: WolframEngine
+  powershell: install
 binlist:
 - wolfram
 license: NOASSERTION

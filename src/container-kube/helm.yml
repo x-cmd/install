@@ -15,6 +15,7 @@ x:
   choco: kubernetes-helm
   powershell: kubernetes-helm
   asdf: asdf
+  pkg: helm
 rule:
   /x:
     cmd: x pkg use helm

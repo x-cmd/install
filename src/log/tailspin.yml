@@ -10,6 +10,7 @@ x:
   brew: tailspin
   pacman: tailspin
   cargo: tailspin
+  pkg: tailspin
 rule:
   /eget:
     cmd: x eget bensadeh/tailspin

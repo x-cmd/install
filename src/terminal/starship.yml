@@ -21,6 +21,7 @@ x:
   powershell: starship
   cargo: starship
   curl: curl
+  pkg: starship
 rule:
   /x:
     cmd: x pkg use starship

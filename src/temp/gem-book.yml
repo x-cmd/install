@@ -8,6 +8,9 @@ rule:
     cmd: npm install -g gem-book
     reference: https://book.gemjs.org/cli
     dsnap: gem-book
+
+x:
+  npm: gem-book
 binlist:
 - gem-book
 license: NOASSERTION

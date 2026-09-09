@@ -66,6 +66,15 @@ rule:
   arch/yay:
     cmd: yay -S todesk-appimage
     reference: https://aur.archlinux.org/packages/todesk-app
+
+x:
+  apt: ./todesk-v4.7.2.0-amd64.deb
+  apt-get: ./todesk-v4.7.2.0-amd64.deb
+  winget: Youqu.ToDesk
+  powershell: install
+  yay: todesk-appimage
+  curl: curl
+  wget: wget
 binlist:
 - ToDesk
 license: NOASSERTION

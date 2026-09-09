@@ -8,6 +8,7 @@ x:
   brew: openssh
   apk: openssh
   zypper: openssh
+  pacman: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

@@ -35,6 +35,15 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install coreutils
     reference: https://command-not-found.com/true
+
+x:
+  apt: coreutils
+  apt-get: coreutils
+  dnf: coreutils
+  yum: coreutils
+  pacman: coreutils
+  apk: coreutils
+  brew: coreutils
 binlist:
 - coreutils
 license: NOASSERTION

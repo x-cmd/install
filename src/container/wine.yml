@@ -45,6 +45,17 @@ rule:
   mageia/dnf:
     cmd: sudo dnf install winehq-stable
     reference: https://wiki.winehq.org/Mageia
+
+x:
+  apt: wine
+  apt-get: wine
+  dnf: epel-release
+  yum: epel-release
+  zypper: wine
+  pacman: wine
+  apk: wine
+  emerge: virtual/wine
+  brew: --cask
 binlist:
 - wine
 license: NOASSERTION

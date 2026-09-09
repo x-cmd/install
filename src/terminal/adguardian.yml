@@ -26,6 +26,15 @@ rule:
   /nix-env:
     cmd: nix-env -iA nixos.adguardian
     reference: https://search.nixos.org/packages?channel=unstable&show=adguardian&from=0&size=50&sort=relevance&type=packages&query=adguardian
+
+x:
+  scoop: extras/adguardian
+  makepkg: makepkg
+  yay: adguardian
+  paru: adguardian
+  cargo: adguardian
+  curl: curl
+  git: https://aur.archlinux.org/adguardian.git
 binlist:
 - adguardian
 license: NOASSERTION

@@ -29,6 +29,13 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install git-annex
     reference: https://command-not-found.com/git-remote-tor-annex
+
+x:
+  apt: git-annex
+  apt-get: git-annex
+  dnf: git-annex
+  pacman: git-annex
+  brew: git-annex
 binlist:
 - git-annex
 license: NOASSERTION

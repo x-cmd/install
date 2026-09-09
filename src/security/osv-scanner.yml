@@ -12,6 +12,7 @@ x:
   apk: osv-scanner
   scoop: osv-scanner
   go: github.com/google/osv-scanner/cmd/osv-scanner@v1
+  pkg: osv-scanner
 rule:
   /x:
     cmd: x pkg use osv-scanner

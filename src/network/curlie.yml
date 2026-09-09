@@ -12,6 +12,7 @@ x:
   scoop: curlie
   go: github.com/rs/curlie@latest
   curl: curl
+  pkg: curlie
 rule:
   /x:
     cmd: x pkg use curlie

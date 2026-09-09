@@ -23,6 +23,7 @@ x:
   yay: hyperfine-git
   asdf: asdf
   wget: wget
+  pkg: hyperfine
 rule:
   /x:
     cmd: x pkg use hyperfine

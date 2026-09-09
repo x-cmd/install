@@ -25,6 +25,7 @@ x:
   cargo: onefetch
   git: https://github.com/o2sh/onefetch
   make: make
+  pkg: onefetch
 rule:
   /x:
     cmd: x pkg use onefetch

@@ -17,6 +17,7 @@ x:
   flatpak: flathub
   curl: curl
   build: build
+  pkg: wezterm
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install wezterm

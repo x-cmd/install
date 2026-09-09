@@ -21,6 +21,7 @@ x:
   choco: cpufetch
   powershell: cpufetch
   yay: cpufetch-git
+  pkg: cpufetch
 rule:
   /eget:
     cmd: x eget Dr-Noob/cpufetch

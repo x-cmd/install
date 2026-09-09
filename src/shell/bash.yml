@@ -36,6 +36,15 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install bash
     reference: https://command-not-found.com/bash
+
+x:
+  apt: bash
+  apt-get: bash
+  dnf: bash
+  yum: bash
+  pacman: bash
+  apk: bash
+  brew: bash
 binlist:
 - bash
 license: NOASSERTION

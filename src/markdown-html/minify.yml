@@ -16,6 +16,7 @@ x:
   asdf: asdf
   git: https://github.com/tdewolff/minify.git
   make: make
+  pkg: minify
 rule:
   /x:
     cmd: x pkg use minify

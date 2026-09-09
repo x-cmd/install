@@ -66,6 +66,14 @@ rule:
   ubuntu/snap:
     cmd: sudo snap install bcrypt-tool
     reference: https://snapcraft.io/install/bcrypt-tool/ubuntu
+
+x:
+  apt: bcrypt
+  apt-get: bcrypt
+  dnf: bcrypt
+  brew: bcrypt
+  snap: bcrypt-tool
+  pip: bcrypt
 binlist:
 - bcrypt
 license: NOASSERTION

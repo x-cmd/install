@@ -12,6 +12,7 @@ x:
   port: ov
   go: github.com/noborus/ov@latest
   curl: curl
+  pkg: ov
 rule:
   /eget:
     cmd: x eget noborus/ov

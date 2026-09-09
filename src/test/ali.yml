@@ -14,6 +14,7 @@ x:
   port: ali
   go: github.com/nakabonne/ali@latest
   wget: wget
+  pkg: benchmarks/ali
 rule:
   /eget:
     cmd: x eget nakabonne/ali

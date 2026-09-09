@@ -48,6 +48,17 @@ rule:
   opensuse/snap:
     cmd: sudo snap install tree
     reference: https://snapcraft.io/install/tree/opensuse
+
+x:
+  apt: tree
+  apt-get: tree
+  dnf: tree
+  yum: tree
+  zypper: tree
+  pacman: tree
+  apk: tree
+  brew: tree
+  snap: tree
 binlist:
 - tree
 license: NOASSERTION

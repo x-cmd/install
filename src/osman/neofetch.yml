@@ -19,6 +19,7 @@ x:
   winget: nepnep.neofetch-win
   powershell: install
   yay: neofetch
+  pkg: neofetch
 rule:
   darwin/brew:
     cmd: brew install neofetch

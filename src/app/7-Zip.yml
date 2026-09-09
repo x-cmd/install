@@ -21,6 +21,14 @@ rule:
     reference: https://aur.archlinux.org/packages/p7zip-full-bin
 
 # complicated
+
+x:
+  scoop: 7zip
+  choco: 7zip
+  winget: 7zip.7zip
+  powershell: 7zip
+  brew: sevenzip
+  yay: p7zip-full-bin
 footprint:
   behavior:
     runtime:

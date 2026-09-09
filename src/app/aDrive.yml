@@ -13,6 +13,12 @@ rule:
   arch/yay:
     cmd: yay -S aliyun-adrive-bin
     reference: https://aur.archlinux.org/packages/aliyun-adrive-bin
+
+x:
+  winget: Alibaba.aDrive
+  powershell: install
+  brew: --cask
+  yay: aliyun-adrive-bin
 binlist:
 - aDrive
 license: NOASSERTION

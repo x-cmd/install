@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install dav1d
     reference: https://formulae.brew.sh/formula/dav1d#default
+
+x:
+  brew: dav1d
 binlist:
 - dav1d
 license: NOASSERTION

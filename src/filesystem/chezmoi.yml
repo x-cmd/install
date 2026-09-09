@@ -21,6 +21,7 @@ x:
   asdf: asdf
   git: https://github.com/twpayne/chezmoi.git
   make: make
+  pkg: chezmoi
 rule:
   /eget:
     cmd: x eget twpayne/chezmoi

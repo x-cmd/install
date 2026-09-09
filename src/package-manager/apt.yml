@@ -25,6 +25,12 @@ rule:
   linux/brew:
     cmd: brew install apt
     reference: https://formulae.brew.sh/formula/apt#default
+
+x:
+  apt: apt
+  apt-get: apt
+  dnf: apt
+  brew: apt
 binlist:
 - apt
 license: NOASSERTION

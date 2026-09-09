@@ -10,6 +10,10 @@ rule:
   /asdf:
     cmd: x asdf use teller
     reference: https://github.com/pdemagny/asdf-teller?tab=readme-ov-file#install
+
+x:
+  brew: teller
+  asdf: asdf
 binlist:
 - teller
 license: NOASSERTION

@@ -16,6 +16,13 @@ rule:
   darwin/brew:
     cmd: brew install --cask microsoft-office
     reference: https://formulae.brew.sh/cask/microsoft-office#default
+
+x:
+  scoop: extras/wpsoffice
+  choco: wps-office-free
+  winget: Kingsoft.WPSOffice
+  powershell: wps-office-free
+  brew: --cask
 binlist:
 - Microsoft-Office
 license: NOASSERTION

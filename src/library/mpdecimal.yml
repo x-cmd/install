@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install mpdecimal
     reference: https://formulae.brew.sh/formula/mpdecimal#default
+
+x:
+  brew: mpdecimal
 binlist:
 - mpdecimal
 license: NOASSERTION

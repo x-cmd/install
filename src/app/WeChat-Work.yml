@@ -13,6 +13,12 @@ rule:
   darwin/brew:
     cmd: brew install --cask wechatwork
     reference: https://formulae.brew.sh/cask/wechatwork#default
+
+x:
+  choco: wecom
+  winget: Tencent.WeCom
+  powershell: wecom
+  brew: --cask
 binlist:
 - WeChat-Work
 license: NOASSERTION

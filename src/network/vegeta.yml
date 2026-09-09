@@ -10,6 +10,7 @@ x:
   brew: vegeta
   pacman: vegeta
   port: vegeta
+  pkg: vegeta
 rule:
   /eget:
     cmd: x eget tsenart/vegeta

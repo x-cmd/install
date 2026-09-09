@@ -20,6 +20,7 @@ x:
   scoop: shellcheck
   choco: shellcheck
   powershell: shellcheck
+  pkg: hs-ShellCheck
 rule:
   /x:
     cmd: x pkg use shellcheck

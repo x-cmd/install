@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install mesa-glu
     reference: https://formulae.brew.sh/formula/mesa-glu#default
+
+x:
+  brew: mesa-glu
 binlist:
 - mesa-glu
 license: NOASSERTION

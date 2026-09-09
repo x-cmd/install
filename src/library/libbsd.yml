@@ -10,6 +10,10 @@ rule:
   darwin/brew:
     cmd: brew install libbsd
     reference: https://formulae.brew.sh/formula/libbsd#default
+
+x:
+  brew: libbsd
+  yay: libbsd-git
 binlist:
 - libbsd
 license: NOASSERTION

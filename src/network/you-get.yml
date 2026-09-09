@@ -11,6 +11,7 @@ x:
   apk: you-get
   yay: you-get-git
   pip: you-get
+  pkg: you-get
 rule:
   /eget:
     cmd: x eget soimort/you-get

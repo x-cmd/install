@@ -39,6 +39,17 @@ rule:
   arch/yay:
     cmd: yay -S mercurial-hg
     reference: https://aur.archlinux.org/packages/mercurial-hg
+
+x:
+  apt: mercurial
+  apt-get: mercurial
+  dnf: mercurial
+  emerge: mercurial
+  pkg: SUNWmercurial
+  brew: mercurial
+  yay: mercurial-hg
+  pip: mercurial
+  make: make
 binlist:
 - mercurial
 license: NOASSERTION

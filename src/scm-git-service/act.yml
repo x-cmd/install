@@ -19,6 +19,7 @@ x:
   asdf: asdf
   git: https://github.com/nektos/act.git
   build: build
+  yay: act
 rule:
   /x:
     cmd: x pkg use act

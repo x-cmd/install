@@ -92,6 +92,18 @@ rule:
   arch/yay:
     cmd: yay -S clifm
     reference: https://aur.archlinux.org/packages/clifm
+
+x:
+  apt: clifm
+  dnf: clifm
+  yum: clifm
+  zypper: clifm
+  pacman: home_archcrack_Arch/clifm
+  port: clifm
+  brew: clifm
+  yay: clifm
+  curl: curl
+  wget: wget
 binlist:
 - clifm
 license: NOASSERTION

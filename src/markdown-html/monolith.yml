@@ -13,6 +13,7 @@ x:
   choco: monolith
   powershell: monolith
   cargo: monolith
+  pkg: monolith
 rule:
   /x:
     cmd: x pkg use monolith

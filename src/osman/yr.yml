@@ -11,6 +11,10 @@ rule:
   /brew:
     cmd: brew install timharek/tap/yr
     reference: https://git.sr.ht/~timharek/yr?ref=terminaltrove#install-cli
+
+x:
+  brew: timharek/tap/yr
+  go: git.sr.ht/~timharek/yr@latest
 binlist:
 - yr
 license: NOASSERTION

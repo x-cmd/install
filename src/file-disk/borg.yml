@@ -18,6 +18,7 @@ x:
   pip: borgbackup
   asdf: asdf
   make: make
+  pkg: borg
 rule:
   /eget:
     cmd: x eget borgbackup/borg

@@ -10,6 +10,10 @@ rule:
   darwin/brew:
     cmd: brew install daemontools
     reference: https://formulae.brew.sh/formula/daemontools#default
+
+x:
+  brew: daemontools
+  yay: daemontools-encore
 binlist:
 - daemontools
 license: NOASSERTION

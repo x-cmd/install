@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install halibut
     reference: https://formulae.brew.sh/formula/halibut#default
+
+x:
+  brew: halibut
 binlist:
 - halibut
 license: NOASSERTION

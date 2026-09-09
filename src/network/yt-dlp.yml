@@ -16,6 +16,7 @@ x:
   powershell: install
   yay: yt-dlp-git
   pip: -U
+  pacman: yt-dlp
 rule:
   /eget:
     cmd: x eget yt-dlp/yt-dlp

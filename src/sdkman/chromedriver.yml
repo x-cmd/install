@@ -31,6 +31,17 @@ rule:
   arch/yay:
     cmd: yay -S chromedriver
     reference: https://aur.archlinux.org/packages/chromedriver
+
+x:
+  apt: chromium-driver
+  apt-get: chromium-driver
+  scoop: chromedriver
+  choco: chromedriver
+  powershell: chromedriver
+  brew: --cask
+  yay: chromedriver
+  asdf: asdf
+  curl: curl
 binlist:
 - chromedriver
 license: NOASSERTION

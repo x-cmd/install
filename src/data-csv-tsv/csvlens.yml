@@ -12,6 +12,7 @@ x:
   winget: YS-L.csvlens
   powershell: install
   cargo: csvlens
+  pkg: csvlens
 rule:
   /x:
     cmd: x pkg use csvlens

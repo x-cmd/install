@@ -20,6 +20,7 @@ x:
   powershell: glow
   asdf: asdf
   curl: curl
+  pkg: glow
 rule:
   /eget:
     cmd: x eget charmbracelet/glow

@@ -17,6 +17,7 @@ x:
   scoop: chafa
   winget: hpjansson.Chafa
   powershell: install
+  pkg: chafa
 rule:
   /eget:
     cmd: x eget hpjansson/chafa

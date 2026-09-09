@@ -72,6 +72,11 @@ rule:
 
       '
     reference: https://linglong.dev/guide/start/install.html#openkylin-2-0rc
+
+x:
+  apt: linglong-builder
+  dnf: linglong-builder
+  curl: curl
 binlist:
 - ll-cli
 license: NOASSERTION

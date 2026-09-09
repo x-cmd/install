@@ -10,6 +10,7 @@ x:
   brew: mkcert
   yay: mkcert-git
   asdf: asdf
+  pacman: mkcert
 rule:
   /x:
     cmd: x pkg use mkcert

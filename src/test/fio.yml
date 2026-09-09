@@ -34,6 +34,15 @@ rule:
   void/xbps-install:
     cmd: sudo xbps-install fio
     reference: https://voidlinux.org/packages/?q=fio
+
+x:
+  apt: fio
+  apk: fio
+  xbps: fio
+  pkg: fio
+  brew: fio
+  yay: fio
+  eget: ljh-sh/fio
 binlist:
 - fio
 - fio_generate_plots

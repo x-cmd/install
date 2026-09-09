@@ -39,6 +39,15 @@ rule:
     cmd: sudo dnf install w3m
     reference: https://command-not-found.com/w3m
     dsnap: w3m
+
+x:
+  apt: w3m
+  apt-get: w3m
+  dnf: w3m
+  yum: w3m
+  pacman: w3m
+  apk: w3m
+  brew: w3m
 binlist:
 - w3m
 license: NOASSERTION

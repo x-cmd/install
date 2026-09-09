@@ -17,6 +17,7 @@ x:
   yay: gallery-dl
   pip: -U
   asdf: asdf
+  pacman: yt-dlp
 rule:
   /x:
     cmd: x pkg use gallery-dl

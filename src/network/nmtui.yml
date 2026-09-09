@@ -33,6 +33,13 @@ rule:
     cmd: sudo dnf install NetworkManager-tui-1
     reference: https://command-not-found.com/nmtui
     dsnap: NetworkManager-tui-1
+
+x:
+  apt: network-manager
+  apt-get: network-manager
+  dnf: NetworkManager-tui-1
+  pacman: networkmanager
+  apk: networkmanager
 binlist:
 - nmtui
 license: NOASSERTION

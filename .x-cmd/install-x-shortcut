@@ -1,22 +1,25 @@
 #!/usr/bin/env python3
 """Auto-populate x: package-manager shortcuts from rule: block.
 
-Adds ALL common package managers found in the rule: block as generic
-x: shortcut keys. Specific overrides (kali/apt, ubuntu/brew, ...) are
-intentionally NOT added — convention says prefer the generic key when
-one works. Future override entries should be added manually when
-needed.
+Adds common package managers and language ecosystems to the x: shortcut
+keys. Generic keys only — specific overrides (kali/apt, ubuntu/brew, ...)
+are intentionally NOT added.
 
-Generic keys detected:
-  Linux package managers: apt, dnf, yum, zypper, pacman, apk, port, emerge,
-                          xbps, pkg, eopkg, scoop, choco, winget,
-                          powershell, brew, snap, flatpak, nix, guix,
-                          kiss, pacstall, deb-get, makepkg, trizen, aura,
+Generic keys:
+  Linux package managers: apt, apt-get, dnf, yum, zypper, pacman, apk,
+                          brew, snap, port, emerge, xbps, pkg, eopkg,
+                          scoop, choco, winget, flatpak, nix, guix, kiss,
+                          pacstall, deb-get, makepkg, trizen, aura,
                           yay, paru, pacaur, pikaur, yaourt
-  Language ecosystems:    pip (Python), npm (Node), gem (Ruby),
-                          cargo (Rust), go (Go), composer (PHP)
-  Generic downloaders:    curl, wget, fetch, git, make, build, eget,
-                          cargo, go, npm, pip, gem
+  Language ecosystems:    pip, npm, gem, cargo, go
+  Version managers:       asdf, pixi
+  Download methods:       curl, wget, fetch, git, make, build
+
+Behavior:
+  - rule: block is NEVER touched
+  - If x: block already exists: append missing shortcuts
+  - If x: block does NOT exist: create one right after the rule: block
+  - @-prefixed values (e.g. npm scoped packages) are auto-quoted
 """
 import re
 from pathlib import Path
@@ -24,14 +27,15 @@ from pathlib import Path
 SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
 
 # (x-key,  cmd regex with one pkg capture)
+# \w* suffix on flags covers -Syu, -Sy, -S --needed, etc.
 GENERIC_RULES = [
-    # Linux package managers — generic keys
+    # Linux package managers
     ('apt',       re.compile(r'\bapt(?:-get)?\s+install\s+(\S+)')),
     ('apt-get',   re.compile(r'\bapt-get\s+install\s+(\S+)')),
     ('dnf',       re.compile(r'\b(?:dnf|yum)\s+install\s+(\S+)')),
     ('yum',       re.compile(r'\byum\s+install\s+(\S+)')),
     ('zypper',    re.compile(r'\bzypper\s+(?:--non-interactive\s+)?in(?:stall)?\s+(\S+)')),
-    ('pacman',    re.compile(r'\bpacman\s+-S\s+(\S+)')),
+    ('pacman',    re.compile(r'\bpacman\s+-S\w*\s+(\S+)')),
     ('apk',       re.compile(r'\bapk\s+add\s+(?:--no-cache\s+)?(\S+)')),
     ('port',      re.compile(r'\bport\s+install\s+(\S+)')),
     ('emerge',    re.compile(r'\bemerge\s+(?:--ask\s+)?(\S+)')),
@@ -51,23 +55,23 @@ GENERIC_RULES = [
     ('pacstall',  re.compile(r'\bpacstall\s+-I\s+(\S+)')),
     ('deb-get',   re.compile(r'\bdeb-get\s+install\s+(\S+)')),
     ('makepkg',   re.compile(r'\bmakepkg\s+-si\b')),
-    ('trizen',    re.compile(r'\btrizen\s+-S\s+(\S+)')),
+    ('trizen',    re.compile(r'\btrizen\s+-S\w*\s+(\S+)')),
     ('aura',      re.compile(r'\baura\s+-A\s+(\S+)')),
-    ('yay',       re.compile(r'\byay\s+-S\s+(\S+)')),
-    ('paru',      re.compile(r'\bparu\s+-S\s+(\S+)')),
-    ('pacaur',    re.compile(r'\bpacaur\s+-S\s+(\S+)')),
-    ('pikaur',    re.compile(r'\bpikaur\s+-S\s+(\S+)')),
-    ('yaourt',    re.compile(r'\byaourt\s+-S\s+(\S+)')),
+    ('yay',       re.compile(r'\byay\s+-S\w*\s+(\S+)')),
+    ('paru',      re.compile(r'\bparu\s+-S\w*\s+(\S+)')),
+    ('pacaur',    re.compile(r'\bpacaur\s+-S\w*\s+(\S+)')),
+    ('pikaur',    re.compile(r'\bpikaur\s+-S\w*\s+(\S+)')),
+    ('yaourt',    re.compile(r'\byaourt\s+-S\w*\s+(\S+)')),
     # Language ecosystems
     ('pip',       re.compile(r'\bpip(?:3)?\s+install\s+(\S+)')),
     ('npm',       re.compile(r'\bnpm\s+install\s+(?:-g\s+)?(\S+)')),
     ('gem',       re.compile(r'\bgem\s+install\s+(\S+)')),
     ('cargo',     re.compile(r'\bcargo\s+install\s+(\S+)')),
     ('go',        re.compile(r'\bgo\s+install\s+(\S+)')),
-    # Version managers / language envs
+    # Version managers
     ('asdf',      re.compile(r'\basdf\s+(?:plugin\s+add\s+)?\S+')),
     ('pixi',      re.compile(r'\bpixi\s+(?:add|install)\s+(\S+)')),
-    # Generic downloaders (no package name; just record the URL exists)
+    # Downloaders (no pkg capture; key itself is the value)
     ('curl',      re.compile(r'\bcurl\s+(?:-[A-Za-z]+\s+)*https?://')),
     ('wget',      re.compile(r'\bwget\s+(?:-[A-Za-z]+\s+)*https?://')),
     ('fetch',     re.compile(r'\bfetch\s+(?:-[A-Za-z]+\s+)*https?://')),
@@ -81,11 +85,11 @@ GENERIC_RULES = [
 def extract_rule_block(text):
     m = re.search(r'^rule:\s*\n', text, re.MULTILINE)
     if not m:
-        return None
+        return None, None
     start = m.end()
     nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[start:], re.MULTILINE)
     end = start + (nxt.start() if nxt else len(text) - start)
-    return text[start:end]
+    return start, end
 
 
 def find_x_block(text):
@@ -112,34 +116,50 @@ def existing_keys(x_block):
     return keys
 
 
+def format_value(key, raw):
+    """Quote values that start with @ (YAML 1.1 doesn't allow @ in plain
+    scalars at start of value)."""
+    if raw.startswith('@'):
+        return f'"{raw}"'
+    return raw
+
+
 def fixup(yml_path: Path):
     text = yml_path.read_text()
-    rule_block = extract_rule_block(text)
-    if not rule_block:
+    r_start, r_end = extract_rule_block(text)
+    if r_start is None:
         return False
-    x_start, x_end = find_x_block(text)
-    if x_start is None:
-        return False
-    x_block = text[x_start:x_end]
-    existing = existing_keys(x_block)
+    rule_block = text[r_start:r_end]
 
-    # Collect generic packages (first match wins per key)
-    found = {}  # key -> package name (or empty for downloaders)
+    x_start, x_end = find_x_block(text)
+
+    if x_start is None:
+        existing = set()
+    else:
+        existing = existing_keys(text[x_start:x_end])
+
+    # Collect missing shortcuts
+    found = {}
     for key, rx in GENERIC_RULES:
         if key in existing:
             continue
         m = rx.search(rule_block)
         if m:
-            # For downloaders without a pkg capture, use 1 as a placeholder
-            found[key] = m.group(1) if m.lastindex else key
+            found[key] = format_value(key, m.group(1) if m.lastindex else key)
 
     if not found:
         return False
 
-    stripped = x_block.rstrip('\n')
     lines = '\n'.join(f'  {k}: {v}' for k, v in found.items())
-    new_x_block = stripped + '\n' + lines + '\n'
-    text = text[:x_start] + new_x_block + text[x_end:]
+
+    if x_start is None:
+        new_block = f'\nx:\n{lines}\n'
+        text = text[:r_end] + new_block + text[r_end:]
+    else:
+        stripped = text[x_start:x_end].rstrip('\n')
+        new_x_block = stripped + '\n' + lines + '\n'
+        text = text[:x_start] + new_x_block + text[x_end:]
+
     yml_path.write_text(text)
     return True
 

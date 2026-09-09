@@ -7,6 +7,9 @@ rule:
   /curl:
     cmd: curl -sL https://tiron.run/install.sh | sh
     reference: https://tiron.run/docs/getting-started/overview/
+
+x:
+  curl: curl
 binlist:
 - tiron
 license: NOASSERTION

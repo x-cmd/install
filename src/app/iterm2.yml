@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install --cask iterm2
     reference: https://formulae.brew.sh/cask/iterm2#default
+
+x:
+  brew: --cask
 binlist:
 - iterm2
 license: NOASSERTION

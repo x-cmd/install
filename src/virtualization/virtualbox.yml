@@ -37,6 +37,18 @@ rule:
   arch/yay:
     cmd: yay -S virtualbox-bin
     reference: https://aur.archlinux.org/packages/virtualbox-bin
+
+x:
+  apt: virtualbox-qt
+  apt-get: virtualbox-qt
+  zypper: virtualbox
+  pacman: virtualbox
+  scoop: extras/portable-virtualbox
+  choco: virtualbox
+  winget: Oracle.VirtualBox
+  powershell: virtualbox
+  brew: --cask
+  yay: virtualbox-bin
 binlist:
 - virtualbox
 license: NOASSERTION

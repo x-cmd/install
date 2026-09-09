@@ -8,6 +8,9 @@ rule:
     cmd: npm install --save-dev lint-staged
     reference: https://github.com/lint-staged/lint-staged?tab=readme-ov-file#installation-and-setup
     dsnap: lint-staged
+
+x:
+  npm: --save-dev
 binlist:
 - lint-staged
 license: NOASSERTION

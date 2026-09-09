@@ -8,6 +8,9 @@ rule:
     cmd: cargo install drft
     reference: https://codeberg.org/nightsail/drft
     dsnap: drft
+
+x:
+  cargo: drft
 binlist:
 - drft
 license: NOASSERTION

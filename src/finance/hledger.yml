@@ -18,6 +18,8 @@ x:
   winget: simonmichael.hledger
   powershell: hledger
   yay: hledger-bin
+  pacman: hledger
+  pkg: hs-hledger
 rule:
   /eget:
     cmd: x eget simonmichael/hledger

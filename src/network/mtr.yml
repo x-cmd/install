@@ -66,6 +66,18 @@ rule:
 
       '
     reference: https://software.opensuse.org/download.html?project=network%3Autilities&package=mtr
+
+x:
+  apt: mtr
+  apt-get: mtr
+  dnf: mtr
+  yum: mtr
+  zypper: mtr
+  pacman: mtr
+  apk: mtr
+  scoop: extras/winmtr
+  brew: mtr
+  yay: mtr-git
 binlist:
 - mtr
 license: NOASSERTION

@@ -24,6 +24,15 @@ rule:
   darwin/port:
     cmd: sudo port install cairo
     reference: https://cairographics.org/download/
+
+x:
+  apt: libcairo2-dev
+  apt-get: libcairo2-dev
+  dnf: cairo-devel
+  yum: cairo-devel
+  zypper: cairo-devel
+  port: cairo
+  brew: cairo
 binlist:
 - cairo
 license: NOASSERTION

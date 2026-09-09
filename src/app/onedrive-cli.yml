@@ -40,6 +40,9 @@ rule:
   ubuntu/snap:
     cmd: sudo snap install onedrive-cli
     reference: https://snapcraft.io/install/onedrive-cli/ubuntu
+
+x:
+  snap: onedrive-cli
 binlist:
 - onedrive-cli
 license: NOASSERTION

@@ -26,6 +26,13 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install pacman
     reference: https://command-not-found.com/pacman
+
+x:
+  apt: pacman
+  apt-get: pacman
+  dnf: pacman
+  pacman: pacman
+  apk: pacman
 binlist:
 - pacman
 license: NOASSERTION

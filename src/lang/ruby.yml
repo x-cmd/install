@@ -17,6 +17,7 @@ x:
   choco: ruby
   winget: RubyInstallerTeam.Ruby.3.4.1
   powershell: ruby
+  pkg: ruby
 rule:
   debian/apt:
     cmd: sudo apt-get install ruby-full

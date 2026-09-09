@@ -19,6 +19,7 @@ x:
   winget: eza-community.eza
   powershell: install
   asdf: asdf
+  pkg: eza
 rule:
   /x:
     cmd: x pkg use eza

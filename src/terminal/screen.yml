@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install screen
     reference: https://formulae.brew.sh/formula/screen#default
+
+x:
+  brew: screen
 binlist:
 - screen
 license: NOASSERTION

@@ -17,6 +17,11 @@ rule:
   arch/yay:
     cmd: yay -S superdb-bin
     reference: https://aur.archlinux.org/packages/superdb-bin
+
+x:
+  brew: brimdata/tap/super
+  yay: superdb-bin
+  go: github.com/brimdata/super/cmd/super@latest
 binlist:
 - superdb
 license: NOASSERTION

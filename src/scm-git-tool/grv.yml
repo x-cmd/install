@@ -9,6 +9,7 @@ x:
   eget: https://github.com/rgburke/grv
   brew: grv
   yay: grv
+  pkg: grv
 rule:
   /eget:
     cmd: x eget rgburke/grv

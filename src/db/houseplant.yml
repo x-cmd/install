@@ -8,6 +8,9 @@ rule:
     cmd: pip install houseplant
     reference: https://houseplant.readthedocs.io/en/latest/install.html
     dsnap: houseplant
+
+x:
+  pip: houseplant
 binlist:
 - houseplant
 license: NOASSERTION

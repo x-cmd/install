@@ -12,6 +12,7 @@ x:
   xbps: peco
   choco: peco
   powershell: peco
+  pacman: peco
 rule:
   /x:
     cmd: x pkg use peco

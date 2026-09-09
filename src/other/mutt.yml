@@ -31,6 +31,13 @@ rule:
   fedora/dnf:
     cmd: sudo dnf install mutt
     reference: https://command-not-found.com/mutt
+
+x:
+  apt: mutt
+  apt-get: mutt
+  dnf: mutt
+  yum: mutt
+  apk: mutt
 binlist:
 - mutt
 license: NOASSERTION

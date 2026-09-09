@@ -12,6 +12,7 @@ x:
   zypper: lhasa
   xbps: lhasa
   yay: lhasa-git
+  pkg: archivers/lhasa
 rule:
   /eget:
     cmd: x eget ljh-sh/lhasa

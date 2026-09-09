@@ -13,6 +13,7 @@ x:
   pacman: tig
   apk: tig
   apt-get: tig
+  pkg: tig
 rule:
   /eget:
     cmd: x eget jonas/tig

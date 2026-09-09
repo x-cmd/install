@@ -12,6 +12,7 @@ x:
   xbps: opendoas
   pacstall: doas-git
   yay: doas
+  pkg: doas
 rule:
   freebsd/pkg:
     cmd: pkg install doas

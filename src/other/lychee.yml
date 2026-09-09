@@ -17,6 +17,7 @@ x:
   winget: -e
   powershell: lychee
   cargo: lychee
+  pkg: lychee
 rule:
   /eget:
     cmd: x eget lycheeverse/lychee

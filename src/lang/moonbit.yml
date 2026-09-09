@@ -16,6 +16,10 @@ rule:
   win/powershell:
     cmd: x pwsh Set-ExecutionPolicy RemoteSigned -Scope CurrentUser; irm https://cli.moonbitlang.com/install/powershell.ps1 | iex
     reference: https://www.moonbitlang.com/download/#moonbit-cli-tools
+
+x:
+  yay: moonbit-bin
+  curl: curl
 binlist:
 - moonbit
 license: NOASSERTION

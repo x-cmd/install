@@ -12,6 +12,7 @@ x:
   zypper: cpu-x
   eopkg: cpu-x
   yay: cpu-x-git
+  pkg: cpu-x
 rule:
   /eget:
     cmd: x eget thetumultuousunicornofdarkness/CPU-X

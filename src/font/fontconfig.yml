@@ -28,6 +28,15 @@ rule:
   fedora/dnf:
     cmd: sudo dnf install fontconfig
     reference: https://command-not-found.com/fc-cache
+
+x:
+  apt: fontconfig
+  apt-get: fontconfig
+  dnf: fontconfig
+  yum: fontconfig
+  pacman: fontconfig
+  apk: fontconfig
+  brew: fontconfig
 binlist:
 - fontconfig
 license: NOASSERTION

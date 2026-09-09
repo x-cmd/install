@@ -24,6 +24,7 @@ x:
   powershell: neovim
   flatpak: flathub
   nix: nixpkgs#neovim
+  pkg: neovim
 rule:
   /eget:
     cmd: x eget neovim/neovim

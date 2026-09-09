@@ -63,6 +63,15 @@ rule:
   arch/yay:
     cmd: yay -S slack
     reference: https://aur.archlinux.org/packages/slack
+
+x:
+  scoop: extras/slack
+  choco: slack
+  winget: SlackTechnologies.Slack
+  powershell: slack
+  brew: --cask
+  snap: slack
+  yay: slack
 binlist:
 - Slack
 license: NOASSERTION

@@ -13,6 +13,7 @@ x:
   cargo: genact
   curl: curl
   wget: wget
+  pkg: genact
 rule:
   /eget:
     cmd: x eget svenstaro/genact

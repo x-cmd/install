@@ -19,6 +19,7 @@ x:
   choco: ag
   winget: TheSilverSearcher
   powershell: ag
+  pkg: the_silver_searcher
 rule:
   darwin/brew:
     cmd: brew install the_silver_searcher

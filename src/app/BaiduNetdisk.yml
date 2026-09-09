@@ -16,6 +16,13 @@ rule:
   arch/yay:
     cmd: yay -S baidunetdisk-bin
     reference: https://aur.archlinux.org/packages/baidunetdisk-bin
+
+x:
+  winget: Baidu.BaiduNetdisk
+  powershell: install
+  brew: --cask
+  flatpak: flathub
+  yay: baidunetdisk-bin
 binlist:
 - BaiduNetdisk
 license: NOASSERTION

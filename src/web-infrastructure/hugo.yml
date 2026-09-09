@@ -21,6 +21,7 @@ x:
   winget: Hugo.Hugo.Extended
   powershell: hugo-extended
   yay: hugo-git
+  pkg: gohugo
 rule:
   /x:
     cmd: x pkg use hugo

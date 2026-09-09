@@ -54,6 +54,18 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install emacs
     reference: https://command-not-found.com/emacs
+
+x:
+  apt: emacs
+  apt-get: emacs
+  dnf: emacs
+  yum: emacs-1
+  zypper: emacs
+  pacman: emacs
+  apk: emacs
+  port: emacs-app
+  brew: --cask
+  guix: emacs
 binlist:
 - emacs
 license: NOASSERTION

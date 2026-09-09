@@ -20,6 +20,7 @@ x:
   winget: AlDanial.Cloc
   powershell: cloc
   npm: cloc
+  pkg: cloc
 rule:
   /eget:
     cmd: x eget AlDanial/cloc

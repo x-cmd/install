@@ -12,6 +12,7 @@ x:
   apt-get: ncdu
   yum: ncdu
   zypper: ncdu
+  pkg: ncdu
 rule:
   /x:
     cmd: x pkg use ncdu

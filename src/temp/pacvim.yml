@@ -11,6 +11,10 @@ rule:
   arch/yay:
     cmd: yay -S pacvim-git
     reference: https://aur.archlinux.org/packages/pacvim-git
+
+x:
+  brew: pacvim
+  yay: pacvim-git
 binlist:
 - pacvim
 

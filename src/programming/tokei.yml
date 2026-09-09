@@ -17,6 +17,7 @@ x:
   powershell: install
   cargo: tokei
   asdf: asdf
+  pkg: tokei
 rule:
   /x:
     cmd: x pkg use tokei

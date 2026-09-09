@@ -13,6 +13,12 @@ rule:
   darwin/brew:
     cmd: brew install --cask visual-studio
     reference: https://formulae.brew.sh/cask/visual-studio#default
+
+x:
+  choco: visualstudio2022community
+  winget: Microsoft.VisualStudio.2022.Community
+  powershell: visualstudio2022community
+  brew: --cask
 binlist:
 - Visual-Studio-2022
 license: NOASSERTION

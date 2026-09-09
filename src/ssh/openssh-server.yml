@@ -11,6 +11,7 @@ x:
   apk: openssh
   apt-get: openssh-server
   zypper: openssh
+  pacman: openssh
 rule:
   darwin/brew:
     cmd: brew install openssh

@@ -9,6 +9,7 @@ x:
   dnf: kibi
   apk: kibi
   cargo: kibi
+  yay: kibi
 rule:
   /cargo:
     cmd: cargo install kibi

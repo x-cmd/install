@@ -9,6 +9,7 @@ x:
   brew: --cask
   scoop: discordo
   yay: discordo-git
+  pkg: discordo
 rule:
   arch/yay:
     cmd: sudo yay -S discordo-git

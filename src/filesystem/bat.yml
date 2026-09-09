@@ -23,6 +23,7 @@ x:
   winget: sharkdp.bat
   powershell: install
   asdf: asdf
+  pkg: bat
 rule:
   /x:
     cmd: x pkg use bat

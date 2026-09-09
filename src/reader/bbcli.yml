@@ -8,6 +8,9 @@ rule:
     cmd: pip install bbcli
     reference: https://github.com/hako/bbcli?tab=readme-ov-file#installation--usage
     dsnap: bbcli
+
+x:
+  pip: bbcli
 binlist:
 - bbcli
 license: NOASSERTION

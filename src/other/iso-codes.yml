@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install iso-codes
     reference: https://formulae.brew.sh/formula/iso-codes#default
+
+x:
+  brew: iso-codes
 binlist:
 - iso-codes
 license: NOASSERTION

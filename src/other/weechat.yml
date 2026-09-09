@@ -13,6 +13,7 @@ x:
   apt-get: weechat-curses
   zypper: weechat
   emerge: weechat
+  pkg: weechat
 rule:
   arch/pacman:
     cmd: sudo pacman -S weechat

@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install aribb24
     reference: https://formulae.brew.sh/formula/aribb24#default
+
+x:
+  brew: aribb24
 binlist:
 - aribb24
 license: NOASSERTION

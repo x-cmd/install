@@ -11,6 +11,7 @@ x:
   pacman: dstask
   apk: dstask
   yay: dstask
+  pkg: dstask
 rule:
   /eget:
     cmd: x eget naggie/dstask

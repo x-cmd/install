@@ -17,6 +17,7 @@ x:
   choco: beets
   powershell: beets
   pip: beets
+  pkg: audio/beets
 rule:
   /eget:
     cmd: x eget beetbox/beets

@@ -17,6 +17,10 @@ rule:
   /nix-env:
     cmd: nix-env -iA bibiman
     reference: https://codeberg.org/lukeflo/bibiman
+
+x:
+  yay: bibiman
+  cargo: bibiman
 binlist:
 - bibiman
 license: NOASSERTION

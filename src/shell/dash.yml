@@ -36,6 +36,15 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install dash
     reference: https://command-not-found.com/dash
+
+x:
+  apt: dash
+  apt-get: dash
+  dnf: dash
+  yum: dash
+  pacman: dash
+  apk: dash
+  brew: dash
 binlist:
 - dash
 license: NOASSERTION

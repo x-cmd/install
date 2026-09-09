@@ -14,6 +14,7 @@ x:
   powershell: scc
   yay: scc
   go: github.com/boyter/scc@master
+  pkg: scc
 rule:
   /x:
     cmd: x pkg use scc

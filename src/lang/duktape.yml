@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install duktape
     reference: https://formulae.brew.sh/formula/duktape#default
+
+x:
+  brew: duktape
 binlist:
 - duktape
 license: NOASSERTION

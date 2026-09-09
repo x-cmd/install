@@ -8,6 +8,9 @@ rule:
     cmd: pip install rebound
     reference: https://rebound.readthedocs.io/en/latest/quickstart_installation/
     dsnap: rebound
+
+x:
+  pip: rebound
 binlist:
 - rebound
 license: NOASSERTION

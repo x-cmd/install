@@ -16,6 +16,7 @@ x:
   choco: duf
   powershell: duf
   asdf: asdf
+  pkg: duf
 rule:
   /x:
     cmd: x pkg use duf

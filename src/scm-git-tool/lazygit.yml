@@ -20,6 +20,7 @@ x:
   winget: -e
   powershell: install
   asdf: asdf
+  pkg: lazygit
 rule:
   /x:
     cmd: x pkg use lazygit

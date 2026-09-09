@@ -42,6 +42,17 @@ rule:
   opensuse/zypper:
     cmd: sudo zypper install zip
     reference: https://software.opensuse.org/download/package?package=zip&project=Archiving
+
+x:
+  apt: zip
+  apt-get: zip
+  dnf: zip
+  yum: zip
+  zypper: zip
+  pacman: zip
+  apk: zip
+  emerge: app-arch/zip
+  brew: zip
 binlist:
 - zip
 license: NOASSERTION

@@ -60,6 +60,15 @@ rule:
   darwin/brew:
     cmd: brew install --cask steam
     reference: https://formulae.brew.sh/cask/steam#default
+
+x:
+  scoop: games/steam
+  choco: steam
+  winget: Valve.Steam
+  powershell: steam
+  brew: --cask
+  snap: steam
+  flatpak: flathub
 binlist:
 - Steam
 license: NOASSERTION

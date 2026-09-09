@@ -13,6 +13,7 @@ x:
   xbps: jless
   cargo: jless
   asdf: asdf
+  pkg: jless
 rule:
   /x:
     cmd: x pkg use jless

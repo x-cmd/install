@@ -19,6 +19,7 @@ x:
   winget: lsd-rs.lsd
   powershell: install
   cargo: lsd
+  pkg: lsd
 rule:
   /x:
     cmd: x pkg use lsd

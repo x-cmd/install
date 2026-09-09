@@ -18,6 +18,7 @@ x:
   pip: bpytop
   git: https://github.com/aristocratos/bpytop.git
   make: make
+  pkg: bpytop
 rule:
   /x:
     cmd: x pkg use bpytop

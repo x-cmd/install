@@ -11,6 +11,7 @@ x:
   port: s5cmd
   yay: s5cmd
   go: github.com/peak/s5cmd/v2@master
+  pkg: s5cmd
 rule:
   /eget:
     cmd: x eget peak/s5cmd

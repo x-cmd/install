@@ -19,6 +19,7 @@ x:
   winget: fastfetch
   powershell: install
   yay: fastfetch-git
+  pkg: fastfetch
 rule:
   /eget:
     cmd: x eget fastfetch-cli/fastfetch

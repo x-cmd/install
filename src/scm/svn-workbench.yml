@@ -19,6 +19,10 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install svn-workbench
     reference: https://command-not-found.com/svn-workbench
+
+x:
+  apt: svn-workbench
+  apt-get: svn-workbench
 binlist:
 - svn-workbench
 license: NOASSERTION

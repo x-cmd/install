@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install eigen
     reference: https://formulae.brew.sh/formula/eigen#default
+
+x:
+  brew: eigen
 binlist:
 - eigen
 license: NOASSERTION

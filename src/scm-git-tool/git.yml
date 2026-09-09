@@ -66,6 +66,18 @@ rule:
   slitaz/tazpkg:
     cmd: tazpkg get-install git
     reference: https://git-scm.com/download/linux
+
+x:
+  apt: git
+  apt-get: git
+  dnf: git
+  yum: git
+  zypper: git
+  pacman: git
+  apk: git
+  emerge: --verbose
+  pkg: git
+  brew: git
 binlist:
 - git
 license: NOASSERTION

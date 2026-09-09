@@ -11,6 +11,10 @@ rule:
   arch/yay:
     cmd: yay -S git-gone
     reference: https://aur.archlinux.org/packages/git-gone
+
+x:
+  yay: git-gone
+  cargo: git-gone
 binlist:
 - git-gone
 license: NOASSERTION

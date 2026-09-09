@@ -12,6 +12,7 @@ x:
   port: websocat
   yay: websocat-git
   asdf: asdf
+  pkg: websocat
 rule:
   /x:
     cmd: x pkg use websocat

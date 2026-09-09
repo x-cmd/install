@@ -18,6 +18,12 @@ rule:
     cmd: sudo apt-get install musl-tools
     reference: https://command-not-found.com/musl-gcc
     dsnap: musl-tools
+
+x:
+  apt: musl-tools
+  apt-get: musl-tools
+  pacman: musl
+  apk: musl
 binlist:
 - musl
 license: NOASSERTION

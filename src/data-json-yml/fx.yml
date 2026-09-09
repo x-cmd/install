@@ -13,6 +13,7 @@ x:
   scoop: fx
   go: github.com/antonmedv/fx@latest
   asdf: asdf
+  pkg: fx
 rule:
   /x:
     cmd: x pkg use fx

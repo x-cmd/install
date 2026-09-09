@@ -8,6 +8,7 @@ x:
   apt: feh
   brew: feh
   pacman: feh
+  pkg: feh
 rule:
   darwin/brew:
     cmd: brew install feh

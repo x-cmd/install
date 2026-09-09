@@ -16,6 +16,10 @@ rule:
   arch/yay:
     cmd: yay -S sunloginclient
     reference: https://aur.archlinux.org/packages/sunloginclient
+
+x:
+  yay: sunloginclient
+  wget: wget
 binlist:
 - sunlogin-cli
 license: NOASSERTION

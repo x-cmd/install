@@ -16,6 +16,7 @@ x:
   zypper: vim
   emerge: app-editors/vim
   asdf: asdf
+  pkg: vim
 rule:
   /asdf:
     cmd: x asdf use vim

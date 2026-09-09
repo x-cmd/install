@@ -41,6 +41,17 @@ rule:
   opensuse/zypper:
     cmd: sudo zypper install -y gawk
     reference: http://blog.fpliu.com/it/software/GNU/awk
+
+x:
+  apt: gawk
+  apt-get: gawk
+  dnf: gawk
+  yum: gawk
+  zypper: -y
+  pacman: gawk
+  apk: gawk
+  emerge: gawk
+  brew: gawk
 binlist:
 - gawk
 license: NOASSERTION

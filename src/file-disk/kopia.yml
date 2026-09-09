@@ -15,6 +15,7 @@ x:
   go: github.com/kopia/kopia@latest
   curl: curl
   make: make
+  pkg: sysutils/kopia
 rule:
   /x:
     cmd: x pkg use kopia

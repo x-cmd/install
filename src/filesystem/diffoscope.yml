@@ -12,6 +12,7 @@ x:
   yay: diffoscope-git
   pip: diffoscope
   git: https://salsa.debian.org/reproducible-builds/diffoscope.git
+  pkg: py38-diffoscope
 rule:
   /x:
     cmd: x pkg use diffoscope

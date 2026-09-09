@@ -60,6 +60,16 @@ rule:
   arch/yay:
     cmd: yay -S wechat-universal-bwrap
     reference: https://aur.archlinux.org/packages/wechat-universal-b
+
+x:
+  scoop: extras/wechat
+  choco: wechat
+  winget: Tencent.WeChat
+  powershell: wechat
+  brew: --cask
+  snap: electronic-wechat
+  flatpak: flathub
+  yay: wechat-universal-bwrap
 binlist:
 - WeChat
 license: NOASSERTION

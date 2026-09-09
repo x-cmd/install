@@ -23,6 +23,7 @@ x:
   powershell: install
   npm: fd-find
   asdf: asdf
+  pkg: fd-find
 rule:
   /x:
     cmd: x pkg use fd

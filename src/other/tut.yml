@@ -16,6 +16,11 @@ rule:
   arch/yay:
     cmd: yay -S tut
     reference: https://aur.archlinux.org/packages/tut
+
+x:
+  zypper: tut
+  brew: tut
+  yay: tut
 binlist:
 - tut
 license: NOASSERTION

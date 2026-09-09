@@ -10,6 +10,7 @@ x:
   brew: thefuck
   pacman: thefuck
   pip: thefuck
+  pkg: thefuck
 rule:
   /x:
     cmd: x pkg use thefuck

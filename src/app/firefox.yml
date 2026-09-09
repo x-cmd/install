@@ -49,6 +49,21 @@ rule:
   arch/yay:
     cmd: yay -S firefox-bin
     reference: https://aur.archlinux.org/packages/firefox-bin
+
+x:
+  apt: firefox
+  apt-get: firefox
+  dnf: firefox
+  yum: firefox
+  pacman: firefox
+  apk: firefox
+  scoop: extras/firefox
+  choco: firefox
+  winget: -e
+  powershell: firefox
+  brew: --cask
+  flatpak: flathub
+  yay: firefox-bin
 binlist:
 - firefox
 license: NOASSERTION

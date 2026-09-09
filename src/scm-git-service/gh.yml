@@ -21,6 +21,7 @@ x:
   choco: gh
   winget: GitHub.cli
   powershell: install
+  pkg: gh
 rule:
   /eget:
     cmd: x eget use cli/cli

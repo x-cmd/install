@@ -17,6 +17,12 @@ rule:
   (win|wsl2)/winget:
     cmd: x winget install MSYS2.MSYS2
     reference: https://winget.run/pkg/MSYS2/MSYS2
+
+x:
+  scoop: main/msys2
+  choco: msys2
+  winget: MSYS2.MSYS2
+  powershell: msys2
 binlist:
 - msys2
 license: NOASSERTION

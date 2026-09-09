@@ -19,6 +19,7 @@ x:
   powershell: hurl
   npm: --save-dev
   asdf: asdf
+  pkg: hurl
 rule:
   /eget:
     cmd: x eget Orange-OpenSource/hurl

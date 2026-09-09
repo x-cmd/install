@@ -15,6 +15,7 @@ x:
   yum: -y
   zypper: -y
   yay: opentofu-bin
+  pkg: opentofu
 rule:
   /x:
     cmd: x pkg use opentofu

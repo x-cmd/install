@@ -13,6 +13,7 @@ x:
   emerge: app-crypt/lego
   yay: lego-bin
   go: github.com/go-acme/lego/v4/cmd/lego@latest
+  pkg: lego
 rule:
   /x:
     cmd: x pkg use lego

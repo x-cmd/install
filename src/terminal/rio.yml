@@ -15,6 +15,7 @@ x:
   winget: -e
   powershell: rio-terminal
   cargo: rioterm
+  pkg: rio
 rule:
   /eget:
     cmd: x eget raphamorim/rio

@@ -11,6 +11,7 @@ x:
   pacman: miniserve
   scoop: miniserve
   cargo: --locked
+  pkg: miniserve
 rule:
   /x:
     cmd: x pkg use miniserve

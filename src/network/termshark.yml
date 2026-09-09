@@ -13,6 +13,7 @@ x:
   snap: termshark
   port: termshark
   yay: termshark-git
+  pkg: termshark
 rule:
   /x:
     cmd: x pkg use termshark

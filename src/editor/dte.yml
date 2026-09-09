@@ -24,6 +24,11 @@ rule:
   termux/pkg:
     cmd: pkg install dte
     reference: https://gitlab.com/craigbarnes/dte#installing
+
+x:
+  apt: dte
+  pacman: dte
+  pkg: dte
 binlist:
 - dte
 license: NOASSERTION

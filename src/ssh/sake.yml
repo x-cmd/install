@@ -12,6 +12,7 @@ x:
   port: sake
   go: github.com/alajmo/sake@latest
   curl: curl
+  pkg: sake
 rule:
   /eget:
     cmd: x eget alajmo/sake

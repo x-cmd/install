@@ -11,6 +11,7 @@ x:
   brew: btop
   zypper: btop
   yay: btop-git
+  pkg: btop
 rule:
   opensuse/zypper:
     cmd: sudo zypper in btop

@@ -20,6 +20,7 @@ x:
   yay: gping-git
   cargo: gping
   make: make
+  pkg: gping
 rule:
   /x:
     cmd: x pkg use gping

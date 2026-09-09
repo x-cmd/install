@@ -9,6 +9,7 @@ x:
   apt: uxplay
   dnf: uxplay
   yay: uxplay
+  pkg: uxplay
 rule:
   debian/apt:
     cmd: sudo apt install uxplay

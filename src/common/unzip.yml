@@ -42,6 +42,17 @@ rule:
   opensuse/zypper:
     cmd: sudo zypper install unzip
     reference: https://www.edustorage.net/entry/how-to-unzip-file-in-opensuse-linux
+
+x:
+  apt: unzip
+  apt-get: unzip
+  dnf: unzip
+  yum: unzip
+  zypper: unzip
+  pacman: unzip
+  apk: unzip
+  emerge: app-arch/unzip
+  brew: unzip
 binlist:
 - unzip
 license: NOASSERTION

@@ -39,6 +39,17 @@ rule:
   fedora/dnf:
     cmd: sudo dnf install google-chrome-stable
     reference: https://linuxtldr.com/installing-google-chrome/
+
+x:
+  dnf: google-chrome-stable
+  scoop: googlechrome
+  choco: googlechrome
+  winget: Google.Chrome
+  powershell: googlechrome
+  brew: --cask
+  flatpak: flathub
+  yay: google-chrome
+  wget: wget
 binlist:
 - Chrome
 license: NOASSERTION

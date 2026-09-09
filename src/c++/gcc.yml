@@ -28,6 +28,15 @@ rule:
     cmd: sudo dnf install gcc
     reference: https://command-not-found.com/gcc
     dsnap: gcc
+
+x:
+  apt: gcc
+  apt-get: gcc
+  dnf: gcc
+  yum: gcc
+  pacman: gcc
+  apk: gcc
+  brew: gcc
 binlist:
 - gcc
 license: NOASSERTION

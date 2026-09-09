@@ -24,6 +24,14 @@ rule:
   arch/yay:
     cmd: yay -S linuxqq
     reference: https://aur.archlinux.org/packages/linux
+
+x:
+  scoop: extras/qq
+  choco: tencentqq
+  powershell: tencentqq
+  brew: --cask
+  flatpak: flathub
+  yay: linuxqq
 binlist:
 - Tencent_QQ
 license: NOASSERTION

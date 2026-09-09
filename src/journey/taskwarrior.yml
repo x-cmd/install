@@ -15,6 +15,7 @@ x:
   yum: task
   emerge: task
   xbps: task
+  pkg: taskwarrior
 rule:
   /eget:
     cmd: x eget GothenburgBitFactory/taskwarrior

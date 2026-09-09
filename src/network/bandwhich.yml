@@ -12,6 +12,7 @@ x:
   pacman: bandwhich
   port: bandwhich
   yay: bandwhich-git
+  pkg: bandwhich
 rule:
   /x:
     cmd: x pkg use bandwhich

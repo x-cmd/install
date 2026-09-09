@@ -20,6 +20,7 @@ x:
   powershell: python3
   yay: ocrmypdf
   pip: --user
+  pkg: textproc/py-ocrmypdf
 rule:
   /eget:
     cmd: x eget ocrmypdf/OCRmyPDF

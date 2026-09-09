@@ -11,6 +11,9 @@ rule:
     cmd: cargo add portfolio_rs
     reference: https://crates.io/crates/portfolio_rs
     dsnap: portfolio_rs
+
+x:
+  yay: portfolio
 binlist:
 - portfolio_rs
 license: NOASSERTION

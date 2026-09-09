@@ -21,6 +21,7 @@ x:
   powershell: install
   npm: n
   asdf: asdf
+  pkg: node
 rule:
   /x:
     cmd: x pkg use node

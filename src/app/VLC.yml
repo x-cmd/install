@@ -54,6 +54,21 @@ rule:
   centos/yum:
     cmd: sudo yum install vlc
     reference: https://www.videolan.org/vlc/download-redhat.html
+
+x:
+  apt: vlc
+  apt-get: vlc
+  dnf: vlc
+  yum: vlc
+  zypper: vlc
+  pacman: vlc
+  apk: vlc
+  scoop: extras/vlc
+  choco: vlc
+  winget: VideoLAN.VLC
+  powershell: vlc
+  brew: --cask
+  snap: vlc
 binlist:
 - VLC
 license: NOASSERTION

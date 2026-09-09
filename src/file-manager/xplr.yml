@@ -15,6 +15,7 @@ x:
   yay: xplr-git
   paru: xplr-git
   cargo: --locked
+  pkg: xplr
 rule:
   /x:
     cmd: x pkg use xplr

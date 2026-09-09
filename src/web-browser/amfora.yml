@@ -17,6 +17,7 @@ x:
   emerge: amfora
   scoop: amfora
   yay: amfora-git
+  pkg: amfora
 rule:
   /eget:
     cmd: x eget makew0rld/amfora

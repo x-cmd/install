@@ -10,6 +10,7 @@ x:
   brew: sniffnet
   pacman: sniffnet
   cargo: sniffnet
+  pkg: sniffnet
 rule:
   /eget:
     cmd: x eget GyulyVGC/sniffnet

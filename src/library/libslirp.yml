@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install libslirp
     reference: https://formulae.brew.sh/formula/libslirp#default
+
+x:
+  brew: libslirp
 binlist:
 - libslirp
 license: NOASSERTION

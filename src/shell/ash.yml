@@ -19,6 +19,10 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install ash
     reference: https://command-not-found.com/ash
+
+x:
+  apt: ash
+  apt-get: ash
 binlist:
 - ash
 license: NOASSERTION

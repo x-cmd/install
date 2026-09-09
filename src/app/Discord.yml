@@ -61,6 +61,16 @@ rule:
   arch/yay:
     cmd: yay -S discord_arch_electron
     reference: https://aur.archlinux.org/packages/discord_arch_electron
+
+x:
+  scoop: extras/discord
+  choco: discord
+  winget: Discord.Discord
+  powershell: discord
+  brew: --cask
+  snap: discord
+  flatpak: flathub
+  yay: discord_arch_electron
 binlist:
 - Discord
 license: NOASSERTION

@@ -25,6 +25,7 @@ x:
   cargo: zoxide
   asdf: asdf
   curl: curl
+  pkg: zoxide
 rule:
   /x:
     cmd: x pkg use zoxide

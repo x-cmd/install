@@ -19,6 +19,10 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install aptitude
     reference: https://command-not-found.com/aptitude-curses
+
+x:
+  apt: aptitude
+  apt-get: aptitude
 binlist:
 - aptitude
 license: NOASSERTION

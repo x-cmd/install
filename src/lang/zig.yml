@@ -20,6 +20,7 @@ x:
   winget: zig.zig
   powershell: install
   asdf: asdf
+  pkg: lang/zig
 rule:
   /eget:
     cmd: x eget ziglang/zig

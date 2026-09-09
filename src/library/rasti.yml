@@ -8,6 +8,9 @@ rule:
     cmd: npm install rasti
     reference: https://rasti.js.org/#gettingstarted
     dsnap: rasti
+
+x:
+  npm: rasti
 binlist:
 - rasti
 license: NOASSERTION

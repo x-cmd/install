@@ -11,6 +11,9 @@ rule:
   /npm:
     cmd: npx skills add mukul975/Anthropic-Cybersecurity-Skills
     reference: https://github.com/mukul975/Anthropic-Cybersecurity-Skills#quick-start
+
+x:
+  git: mukul975/Anthropic-Cybersecurity-Skills
 binlist:
 - Anthropic-Cybersecurity-Skills
 

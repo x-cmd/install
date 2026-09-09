@@ -46,6 +46,9 @@ rule:
   raspbian/snap:
     cmd: sudo snap-get install snap
     reference: https://snapcraft.io/install/snap-store/raspbian
+
+x:
+  snap: snap-store
 binlist:
 - snap-store
 license: NOASSERTION

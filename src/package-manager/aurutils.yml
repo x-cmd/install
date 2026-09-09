@@ -16,6 +16,11 @@ rule:
   arch/yay:
     cmd: yay -S aurutils
     reference: https://aur.archlinux.org/packages/aurutils
+
+x:
+  makepkg: makepkg
+  yay: aurutils
+  git: https://aur.archlinux.org/aurutils.git
 binlist:
 - aurutils
 license: NOASSERTION

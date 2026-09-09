@@ -16,6 +16,8 @@ x:
   powershell: httpie
   pip: --upgrade
   curl: curl
+  pacman: httpie
+  pkg: www/py-httpie
 rule:
   /x:
     cmd: x pkg use httpie

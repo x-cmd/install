@@ -7,6 +7,9 @@ rule:
   darwin/brew:
     cmd: brew install pyqt-builder
     reference: https://formulae.brew.sh/formula/pyqt-builder#default
+
+x:
+  brew: pyqt-builder
 binlist:
 - pyqt-builder
 license: NOASSERTION

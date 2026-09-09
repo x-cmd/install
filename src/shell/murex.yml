@@ -9,6 +9,7 @@ x:
   brew: murex
   port: murex
   yay: murex
+  pkg: murex
 rule:
   /x:
     cmd: x pkg use murex

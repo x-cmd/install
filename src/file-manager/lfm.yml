@@ -57,6 +57,17 @@ rule:
   alpine/apk:
     cmd: sudo apk add lfm
     reference: https://www.tecmint.com/linux-terminal-file-managers/
+
+x:
+  apt: lfm
+  apt-get: lfm
+  dnf: lfm
+  yum: lfm
+  zypper: lfm
+  pacman: lfm
+  apk: lfm
+  emerge: -a
+  pip: lfm
 binlist:
 - lfm
 license: NOASSERTION

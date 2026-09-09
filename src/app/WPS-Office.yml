@@ -21,6 +21,14 @@ rule:
   arch/yay:
     cmd: yay -S wps-office
     reference: https://aur.archlinux.org/packages/wps
+
+x:
+  scoop: extras/wpsoffice
+  choco: wps-office-free
+  winget: Kingsoft.WPSOffice
+  powershell: wps-office-free
+  brew: --cask
+  yay: wps-office
 binlist:
 - WPS-Office
 license: NOASSERTION

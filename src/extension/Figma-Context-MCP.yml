@@ -9,6 +9,9 @@ rule:
     cmd: npm install -g figma-developer-mcp
     reference: https://github.com/GLips/Figma-Context-MCP?tab=readme-ov-file#getting-started
     dsnap: figma-developer-mcp
+
+x:
+  npm: figma-developer-mcp
 binlist:
 - figma-developer-mcp
 

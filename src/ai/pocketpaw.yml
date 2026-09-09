@@ -12,6 +12,9 @@ rule:
   /pipx:
     cmd: pipx install pocketpaw
     reference: https://github.com/pocketpaw/pocketpaw?tab=readme-ov-file#install-via-terminal
+
+x:
+  pip: pocketpaw
 binlist:
 - pocketpaw
 

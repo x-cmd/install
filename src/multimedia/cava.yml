@@ -13,6 +13,7 @@ x:
   zypper: cava
   yay: cava-git
   pacaur: cava
+  pkg: cava
 rule:
   /eget:
     cmd: x eget karlstav/cava

@@ -29,6 +29,13 @@ rule:
   opensuse/zypper:
     cmd: sudo zypper install nmon
     reference: https://software.opensuse.org//download.html?project=openSUSE%3AFactory&package=nmon
+
+x:
+  apt: nmon
+  apt-get: nmon
+  dnf: nmon
+  zypper: nmon
+  pacman: nmon
 binlist:
 - nmon
 license: NOASSERTION

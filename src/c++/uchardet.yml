@@ -10,6 +10,10 @@ rule:
   arch/yay:
     cmd: yay -S uchardet-git
     reference: https://aur.archlinux.org/packages/uchardet-git
+
+x:
+  brew: uchardet
+  yay: uchardet-git
 binlist:
 - uchardet
 license: NOASSERTION

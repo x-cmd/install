@@ -10,6 +10,10 @@ rule:
   darwin/brew:
     cmd: brew install shared-mime-info
     reference: https://formulae.brew.sh/formula/shared-mime-info#default
+
+x:
+  brew: shared-mime-info
+  yay: shared-mime-info-git
 binlist:
 - shared-mime-info
 license: NOASSERTION

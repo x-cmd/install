@@ -11,6 +11,7 @@ x:
   pacman: tui-journal
   apk: tui-journal
   cargo: tui-journal
+  pkg: -y
 rule:
   /eget:
     cmd: x eget AmmarAbouZor/tui-journal

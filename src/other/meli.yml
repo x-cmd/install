@@ -27,6 +27,13 @@ rule:
   arch/yay:
     cmd: yay -S meli
     reference: https://aur.archlinux.org/packages/meli
+
+x:
+  apt: meli
+  port: meli
+  brew: meli
+  yay: meli
+  cargo: meli
 binlist:
 - meli
 license: NOASSERTION

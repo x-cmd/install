@@ -9,6 +9,9 @@ rule:
     cmd: 'pip install textual-paint'
     reference: https://pypi.org/project/textual-paint/
     dsnap: textual-paint
+
+x:
+  pip: textual-paint'
 binlist:
   - 'textual-paint'
 

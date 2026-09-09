@@ -25,6 +25,14 @@ rule:
   arch/yay:
     cmd: yay -S github-desktop
     reference: https://aur.archlinux.org/packages/github-desktop
+
+x:
+  scoop: extras/github
+  choco: github-desktop
+  winget: github-desktop
+  powershell: install
+  brew: --cask
+  yay: github-desktop
 binlist:
 - GitHub-Desktop
 license: NOASSERTION

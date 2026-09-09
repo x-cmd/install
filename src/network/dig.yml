@@ -30,6 +30,13 @@ rule:
   raspbian/apt:
     cmd: sudo apt-get install dnsutils
     reference: https://command-not-found.com/dig
+
+x:
+  apt: dnsutils
+  apt-get: dnsutils
+  dnf: bind-utils
+  pacman: bind-tools
+  apk: bind-tools
 binlist:
 - dig
 license: NOASSERTION
