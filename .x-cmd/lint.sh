@@ -4,7 +4,7 @@
 #   x ws lint                    # lint all yml in src/
 #   x ws lint path/to/x.yml      # lint specific files
 #
-# File-level linter. Subset of smoke.test.sh ⊂ test.sh.
+# File-level linter. Subset of test.smoke.sh ⊂ test.sh.
 
 WS="$(x wsroot)"
 A="$WS/.x-cmd/install-yml-check.schema.json"

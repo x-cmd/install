@@ -4,7 +4,7 @@
 #   x ws test                  # full suite (default)
 #   x ws test sample            # re-measure 3 random # already profiled entries
 #
-# Full suite. Runs smoke.test.sh first, then re-measures a sample of
+# Full suite. Runs test.smoke.sh first, then re-measures a sample of
 # profiled entries to verify values haven't drifted.
 
 WS="$(x wsroot)"
@@ -24,7 +24,7 @@ sample(){
 main(){
     case "${1:-all}" in
         sample) sample ;;
-        all|default|"") x ws smoke.test && sample ;;
+        all|default|"") x ws test.smoke && sample ;;
         *) x:error "unknown: $1"; return 2 ;;
     esac
 }

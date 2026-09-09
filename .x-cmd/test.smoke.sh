@@ -1,7 +1,7 @@
 # shellcheck shell=dash
 #
 # Usage:
-#   x ws smoke.test
+#   x ws test.smoke
 #
 # Fast integration (~30s). Runs lint.sh first, then rate-limit, harness
 # smoke, and heavier invariants. Subset of test.sh.
