@@ -32,9 +32,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # k8s API
+      lan: true
+      internet: true   # k8s API
     filesystem:
       read:
         desc:

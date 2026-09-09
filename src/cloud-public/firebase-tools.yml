@@ -35,9 +35,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # Firebase API
+      lan: true
+      internet: true   # Firebase API
     filesystem:
       read:
         desc:

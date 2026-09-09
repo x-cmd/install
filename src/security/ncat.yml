@@ -54,7 +54,7 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
+      lan: true
       internet: false
     filesystem:
       read:

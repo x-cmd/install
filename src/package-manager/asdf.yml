@@ -32,9 +32,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # git clones plugins
+      lan: true
+      internet: true   # git clones plugins
     filesystem:
       read:
         desc:

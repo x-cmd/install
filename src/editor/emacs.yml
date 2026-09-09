@@ -64,9 +64,8 @@ footprint:
       type: [cli, tui, gui]
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false        # package fetching
+      lan: true
+      internet: true        # package fetching
     filesystem:
       read:
         desc:

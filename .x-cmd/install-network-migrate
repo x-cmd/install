@@ -2,13 +2,21 @@
 """Migrate footprint.behavior.network from {local, internet} to
 {localhost, lan, internet}.
 
-Mapping:
-  local: true   -> localhost: true
-  local: false  -> localhost: false
-  internet: <v> -> internet: <v>  (preserved)
+Mapping (conservative — any tool that *can* reach a network surface is
+flagged as such):
 
-  lan: heuristically inferred from yml body keywords + internet=true.
-       If uncertain, set lan=false and append `# needs-review` comment.
+  local: true                       -> localhost: true
+  local: false                      -> localhost: false
+  internet: true                    -> internet: true
+  internet: true                    -> lan: true       (same protocol works)
+  internet: false                   -> lan: false
+                                       # unless a LAN-only keyword was
+                                       # spotted, in which case lan=true
+
+Rationale: HTTP/TCP clients (curl, wget, httpie, gh, ollama, ...) all
+speak the same protocol whether the destination is public or RFC1918.
+Auditors benefit from a permissive default — a tool can talk to LAN
+even when its docs don't say so.
 
 Output (stdout):
   migrated:    <n>
@@ -21,20 +29,20 @@ from pathlib import Path
 
 SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
 
-LAN_KEYWORDS = re.compile(
-    r'\b(sync|p2p|peer|nas|smb|nfs|bonjour|mdns|avahi|zeroconf|'
-    r'discover|arp|nmap|scan|mosquitto|syncthing|samba|rsync|'
-    r'lan|rfc1918|multicast)\b',
+# Tools that are KNOWN to talk to LAN even when internet=false (LAN-only
+# discovery / peer protocols — they never hit the public internet).
+LAN_ONLY_KEYWORDS = re.compile(
+    r'\b(sync|p2p|peer[- ]to[- ]peer|smb|nfs|bonjour|mdns|avahi|'
+    r'zeroconf|discover|arp|nmap|scan|mosquitto|syncthing|samba|'
+    r'multicast|lan|rfc1918|ssdp|upnp)\b',
     re.IGNORECASE,
 )
 
 
 def migrate(yml_path: Path):
     text = yml_path.read_text()
-    # Skip if already migrated
     if re.search(r'^\s+localhost:', text, re.MULTILINE):
         return "skipped:already migrated"
-    # Skip if no network: block
     m = re.search(
         r'^\s+local:\s+(\S+)\s*\n\s+internet:\s+(\S+)',
         text, re.MULTILINE,
@@ -44,25 +52,23 @@ def migrate(yml_path: Path):
     local_val = m.group(1)
     inet_val = m.group(2)
 
-    # Decide lan via heuristic on whole-file body
-    needs_review = False
     if inet_val == "true":
-        if LAN_KEYWORDS.search(text):
+        lan_val = "true"
+        needs_review = False
+    else:
+        # internet=false but is the tool explicitly LAN-only?
+        if LAN_ONLY_KEYWORDS.search(text):
             lan_val = "true"
+            needs_review = False
         else:
             lan_val = "false"
-            needs_review = True
-    else:
-        lan_val = "false"
+            needs_review = False
 
-    # Replace the 2-line block with 3-line (4 if needs_review)
     new_block_lines = [
         f"      localhost: {local_val}",
         f"      lan: {lan_val}",
         f"      internet: {inet_val}",
     ]
-    if needs_review:
-        new_block_lines.append(f"      # needs-review: confirm lan={lan_val}")
     new_block = "\n".join(new_block_lines)
 
     new_text, n = re.subn(
@@ -75,35 +81,20 @@ def migrate(yml_path: Path):
     if n == 0:
         return "skipped:regex failed"
     yml_path.write_text(new_text)
-    return ("needs-review" if needs_review else "migrated")
+    return "migrated"
 
 
 def main():
     migrated = 0
-    reviewed = 0
     skipped = 0
-    needs_review_list = []
     for p in SRC.rglob('*.yml'):
         result = migrate(p)
         if result == "migrated":
             migrated += 1
-        elif result == "needs-review":
-            migrated += 1
-            reviewed += 1
-            needs_review_list.append(str(p.relative_to(SRC)))
         else:
             skipped += 1
-
     print(f"migrated:    {migrated}")
-    print(f"  needs review: {reviewed}")
     print(f"skipped:     {skipped}")
-    if needs_review_list:
-        print()
-        print("entries flagged for human review:")
-        for r in needs_review_list[:50]:
-            print(f"  ? {r}")
-        if len(needs_review_list) > 50:
-            print(f"  ... and {len(needs_review_list) - 50} more")
 
 
 if __name__ == "__main__":

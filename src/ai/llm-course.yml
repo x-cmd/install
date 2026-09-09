@@ -20,9 +20,8 @@ footprint:
       type: library
     network:
       localhost: false
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # notebooks 下载
+      lan: true
+      internet: true   # notebooks 下载
     filesystem:
       read: []
   resource:

@@ -26,9 +26,8 @@ footprint:
       type: tui
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # renders web pages
+      lan: true
+      internet: true   # renders web pages
     filesystem:
       read:
         desc:

@@ -25,9 +25,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # OpenStack API
+      lan: true
+      internet: true   # OpenStack API
     filesystem:
       read:
         desc:

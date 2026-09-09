@@ -23,9 +23,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # AWS API
+      lan: true
+      internet: true   # AWS API
     filesystem:
       read:
         desc:

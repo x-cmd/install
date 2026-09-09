@@ -61,9 +61,8 @@ footprint:
       type: tui
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # IRC servers
+      lan: true
+      internet: true   # IRC servers
     filesystem:
       read:
         desc:

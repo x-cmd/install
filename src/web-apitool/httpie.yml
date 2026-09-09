@@ -89,9 +89,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # HTTP requests
+      lan: true
+      internet: true   # HTTP requests
     filesystem:
       read:
         desc:

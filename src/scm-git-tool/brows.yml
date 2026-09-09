@@ -26,9 +26,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # GitHub API
+      lan: true
+      internet: true   # GitHub API
     filesystem:
       read:
         desc:

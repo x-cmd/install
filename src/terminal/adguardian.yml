@@ -36,9 +36,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # fetch blocklists
+      lan: true
+      internet: true   # fetch blocklists
     filesystem:
       read:
         desc:

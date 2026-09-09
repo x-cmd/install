@@ -31,9 +31,8 @@ footprint:
       type: cli
     network:
       localhost: true
-      lan: false
-      internet: true
-      # needs-review: confirm lan=false   # AWS STS
+      lan: true
+      internet: true   # AWS STS
     filesystem:
       read:
         desc:

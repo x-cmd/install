@@ -147,7 +147,7 @@ footprint:
       type: tui
     network:
       localhost: true
-      lan: false
+      lan: true
       internet: false
     filesystem:
       read:
