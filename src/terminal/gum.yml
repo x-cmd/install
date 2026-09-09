@@ -145,7 +145,7 @@ rule:
 binlist:
 - gum
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -163,20 +163,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 412 KB
-          rating: 1
+          estimate: 14 MB
+          rating: 2
           desc:
-            cn: 约 412 KB（估算）
-            en: ~412 KB estimated
+            cn: 安装 14 MB
+            en: 14 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 54 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 54 MB
+          en: 54 MB
     cpu:
       workload: ['compute']
       processes: 1

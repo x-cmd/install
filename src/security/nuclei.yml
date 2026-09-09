@@ -24,7 +24,7 @@ rule:
 binlist:
 - nuclei
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -42,20 +42,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 11 MB
-          rating: 2
+          estimate: 137 MB
+          rating: 3
           desc:
-            cn: 约 11 MB（估算）
-            en: ~11 MB estimated
+            cn: 安装 137 MB
+            en: 137 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 98 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 98 MB
+          en: 98 MB
     cpu:
       workload: ['compute']
       processes: 1

@@ -34,7 +34,7 @@ rule:
 binlist:
 - mkcert
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -52,25 +52,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 100 KB
+          estimate: 4.6 MB
           rating: 1
           desc:
-            cn: 约 100 KB（估算）
-            en: ~100 KB estimated
+            cn: 安装 4.6 MB
+            en: 4.6 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 9 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 9 MB
+          en: 9 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

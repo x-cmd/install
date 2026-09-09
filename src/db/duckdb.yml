@@ -23,7 +23,7 @@ rule:
 binlist:
 - duckdb
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -41,20 +41,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 64 MB
+          estimate: 63 MB
           rating: 3
           desc:
-            cn: 约 64 MB（估算）
-            en: ~64 MB estimated
+            cn: 安装 63 MB
+            en: 63 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: 50 MB（估算）
-          en: 50 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1

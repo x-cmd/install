@@ -14,7 +14,7 @@ rule:
 binlist:
 - CodeWhale
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -32,25 +32,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 44 MB
-          rating: 2
+          estimate: 133 MB
+          rating: 3
           desc:
-            cn: 约 44 MB（估算）
-            en: ~44 MB estimated
+            cn: 安装 133 MB
+            en: 133 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 14 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 14 MB
+          en: 14 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

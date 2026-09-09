@@ -30,7 +30,7 @@ binlist:
 - sing-box
 license: NOASSERTION
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -48,20 +48,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 13 MB
-          rating: 2
+          estimate: 88 MB
+          rating: 3
           desc:
-            cn: 约 13 MB（估算）
-            en: ~13 MB estimated
+            cn: 安装 88 MB
+            en: 88 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 62 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 62 MB
+          en: 62 MB
     cpu:
       workload: ['compute']
       processes: 1

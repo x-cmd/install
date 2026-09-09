@@ -14,7 +14,7 @@ rule:
 binlist:
 - deepseek-reasonix
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -32,20 +32,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 97 MB
+          estimate: 130 MB
           rating: 3
           desc:
-            cn: 约 97 MB（估算）
-            en: ~97 MB estimated
+            cn: 安装 130 MB
+            en: 130 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 41 MB
         desc:
-          cn: 50 MB（估算）
-          en: 50 MB estimated
+          cn: 41 MB
+          en: 41 MB
     cpu:
       workload: ['compute']
       processes: 1

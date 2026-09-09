@@ -14,7 +14,7 @@ rule:
 binlist:
 - caveman
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -32,25 +32,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 23 MB
+          estimate: 33 MB
           rating: 2
           desc:
-            cn: 约 23 MB（估算）
-            en: ~23 MB estimated
+            cn: 安装 33 MB
+            en: 33 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 5 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

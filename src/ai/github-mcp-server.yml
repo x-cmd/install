@@ -13,7 +13,7 @@ rule:
     reference: https://github.com/github/github-mcp-server
 binlist:
 - github-mcp-server
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -33,20 +33,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 9.7 MB
-          rating: 1
+          estimate: 24 MB
+          rating: 2
           desc:
-            cn: 约 9.7 MB（估算）
-            en: ~9.7 MB estimated
+            cn: 安装 24 MB
+            en: 24 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 18 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 18 MB
+          en: 18 MB
       peak:
         estimate: 300 MB
         desc:

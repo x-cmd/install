@@ -26,7 +26,7 @@ rule:
 binlist:
 - colima
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -44,25 +44,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 945 KB
-          rating: 1
+          estimate: 15 MB
+          rating: 2
           desc:
-            cn: 约 945 KB（估算）
-            en: ~945 KB estimated
+            cn: 安装 15 MB
+            en: 15 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 38 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 38 MB
+          en: 38 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

@@ -14,7 +14,7 @@ rule:
 binlist:
   - 'qdrant'
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -32,25 +32,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 19 MB
-          rating: 2
+          estimate: 85 MB
+          rating: 3
           desc:
-            cn: 约 19 MB（估算）
-            en: ~19 MB estimated
+            cn: 安装 85 MB
+            en: 85 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 12 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 12 MB
+          en: 12 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

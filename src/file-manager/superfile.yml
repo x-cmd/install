@@ -37,7 +37,7 @@ rule:
 binlist:
 - superfile
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -55,11 +55,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 2.6 MB
-          rating: 1
+          estimate: 27 MB
+          rating: 2
           desc:
-            cn: 约 2.6 MB（估算）
-            en: ~2.6 MB estimated
+            cn: 安装 27 MB
+            en: 27 MB install
       paths:
         data: []
         config: []
@@ -67,13 +67,13 @@ footprint:
       idle:
         estimate: 5 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

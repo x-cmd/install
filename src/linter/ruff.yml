@@ -38,7 +38,7 @@ rule:
 binlist:
 - ruff
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -56,25 +56,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 27 MB
+          estimate: 23 MB
           rating: 2
           desc:
-            cn: 约 27 MB（估算）
-            en: ~27 MB estimated
+            cn: 安装 23 MB
+            en: 23 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 11 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 11 MB
+          en: 11 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

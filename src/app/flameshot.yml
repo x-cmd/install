@@ -94,7 +94,7 @@ rule:
 binlist:
 - flameshot
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -112,11 +112,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 981 KB
+          estimate: 804 KB
           rating: 1
           desc:
-            cn: 约 981 KB（估算）
-            en: ~981 KB estimated
+            cn: 安装 804 KB
+            en: 804 KB install
       paths:
         data: []
         config: []
@@ -124,8 +124,8 @@ footprint:
       idle:
         estimate: 5 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1

@@ -38,7 +38,7 @@ rule:
 binlist:
   - claude
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -56,11 +56,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 22 KB
-          rating: 1
+          estimate: 200 MB
+          rating: 4
           desc:
-            cn: 约 22 KB（估算）
-            en: ~22 KB estimated
+            cn: 安装 200 MB
+            en: 200 MB install
       paths:
         data: []
         config: []
@@ -68,8 +68,8 @@ footprint:
       idle:
         estimate: 5 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1

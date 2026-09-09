@@ -49,7 +49,7 @@ rule:
 binlist:
 - syncthing
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -67,20 +67,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 8.3 MB
-          rating: 1
+          estimate: 26 MB
+          rating: 2
           desc:
-            cn: 约 8.3 MB（估算）
-            en: ~8.3 MB estimated
+            cn: 安装 26 MB
+            en: 26 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 51 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 51 MB
+          en: 51 MB
     cpu:
       workload: ['compute']
       processes: 1

@@ -42,7 +42,7 @@ binlist:
 - bun
 license: NOASSERTION
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -60,20 +60,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 59 MB
-          rating: 3
+          estimate: 809 MB
+          rating: 4
           desc:
-            cn: 约 59 MB（估算）
-            en: ~59 MB estimated
+            cn: 安装 809 MB
+            en: 809 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: 50 MB（估算）
-          en: 50 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1

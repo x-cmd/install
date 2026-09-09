@@ -28,7 +28,7 @@ binlist:
 - kotlin
 license: NOASSERTION
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -46,20 +46,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 42 MB
-          rating: 2
+          estimate: 194 MB
+          rating: 3
           desc:
-            cn: 约 42 MB（估算）
-            en: ~42 MB estimated
+            cn: 安装 194 MB
+            en: 194 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 19 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 19 MB
+          en: 19 MB
     cpu:
       workload: ['compute']
       processes: 1

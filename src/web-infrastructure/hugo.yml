@@ -70,7 +70,7 @@ rule:
 binlist:
 - hugo
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -88,20 +88,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 16 MB
-          rating: 2
+          estimate: 58 MB
+          rating: 3
           desc:
-            cn: 约 16 MB（估算）
-            en: ~16 MB estimated
+            cn: 安装 58 MB
+            en: 58 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 63 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 63 MB
+          en: 63 MB
     cpu:
       workload: ['compute']
       processes: 1

@@ -29,7 +29,7 @@ rule:
 binlist:
   - codex
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -47,25 +47,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 58 MB
-          rating: 3
+          estimate: 9.7 MB
+          rating: 1
           desc:
-            cn: 约 58 MB（估算）
-            en: ~58 MB estimated
+            cn: 安装 9.7 MB
+            en: 9.7 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 50 MB
+        estimate: 5 MB
         desc:
-          cn: 50 MB（估算）
-          en: 50 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 1
         desc:
           cn: 极低
           en: Negligible

@@ -25,7 +25,7 @@ binlist:
 - protobuf
 license: NOASSERTION
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -43,20 +43,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 46 MB
+          estimate: 10 MB
           rating: 2
           desc:
-            cn: 约 46 MB（估算）
-            en: ~46 MB estimated
+            cn: 安装 10 MB
+            en: 10 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 9 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 9 MB
+          en: 9 MB
     cpu:
       workload: ['compute']
       processes: 1

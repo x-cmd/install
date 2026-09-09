@@ -22,7 +22,7 @@ binlist:
 - osquery
 license: NOASSERTION
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -39,20 +39,20 @@ footprint:
     disk:
       size:
         install:
-          estimate: 15 MB
-          rating: 2
+          estimate: 193 MB
+          rating: 3
           desc:
-            cn: 约 15 MB（估算）
-            en: ~15 MB estimated
+            cn: 安装 193 MB
+            en: 193 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 5 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 5 MB
+          en: 5 MB
     cpu:
       workload: ['compute']
       processes: 1

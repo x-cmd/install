@@ -32,7 +32,7 @@ rule:
 binlist:
   - omp
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -50,25 +50,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 2.4 MB
-          rating: 1
+          estimate: 191 MB
+          rating: 3
           desc:
-            cn: 约 2.4 MB（估算）
-            en: ~2.4 MB estimated
+            cn: 安装 191 MB
+            en: 191 MB install
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 79 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 79 MB
+          en: 79 MB
     cpu:
       workload: ['compute']
       processes: 1
       peak:
-        rating: 2
+        rating: 3
         desc:
           cn: 极低
           en: Negligible

@@ -49,7 +49,7 @@ rule:
 binlist:
 - exa
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -67,11 +67,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 428 KB
+          estimate: 1.7 MB
           rating: 1
           desc:
-            cn: 约 428 KB（估算）
-            en: ~428 KB estimated
+            cn: 安装 1.7 MB
+            en: 1.7 MB install
       paths:
         data: []
         config: []
