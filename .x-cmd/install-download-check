@@ -1,0 +1,112 @@
+#!/usr/bin/env bash
+# shellcheck shell=dash
+#
+# Usage:
+#   x ws install-download-check
+#
+# Invariant: footprint.disk.size.install.estimate >= footprint.disk.size.download.estimate
+#   (extracted size cannot be smaller than the compressed archive it came from).
+#
+# Expected result: 0 offenders.
+# Exit code:
+#   0 = no offenders (test PASSED)
+#   1 = offenders found (test FAILED)
+#
+# This is a fast read-only check — it does not run containers or hit the
+# network. For the canonical measurement pipeline, see
+# x-cmd-install/mneme/profile/scripts/measure.sh.
+
+# Convert size string like "5 MB", "3.8M", "524 KB" to bytes. Returns -1
+# on parse failure.
+to_bytes() {
+    local s="$1"
+    local num unit
+    num=$(echo "$s" | sed -E 's/^([0-9.]+).*/\1/')
+    unit=$(echo "$s" | sed -E 's/^[0-9.]+//' | tr '[:lower:]' '[:upper:]')
+    case "$unit" in
+        ""|"B")  awk -v n="$num" 'BEGIN { printf "%d", n }' ;;
+        "K"|"KB") awk -v n="$num" 'BEGIN { printf "%d", n * 1024 }' ;;
+        "M"|"MB") awk -v n="$num" 'BEGIN { printf "%d", n * 1048576 }' ;;
+        "G"|"GB") awk -v n="$num" 'BEGIN { printf "%d", n * 1073741824 }' ;;
+        *)        echo "-1" ;;
+    esac
+}
+
+main() {
+    WORK_DIR="$(x wsroot 2>/dev/null || pwd)"
+    SRC_DIR="$WORK_DIR/src"
+
+    # x:info / x:error come from x-cmd runtime; fall back when invoked directly.
+    if ! command -v x:info >/dev/null 2>&1; then
+        x:info() { echo "[INFO] $*"; }
+        x:error() { echo "[ERROR] $*" >&2; }
+    fi
+
+    x:info "Checking install >= download invariant in $SRC_DIR"
+
+    local offenders=0
+    local total_with_dl=0
+
+    while IFS= read -r f; do
+        rel="${f#$WORK_DIR/}"
+        # Single-pass awk: track the install: and download: blocks and emit
+        # install=X|download=Y when both have been captured.
+        result=$(awk '
+            /^[ ]+install:[ ]*$/    { in_install=1; in_download=0; next }
+            /^[ ]+download:[ ]*$/   { in_install=0; in_download=1; next }
+            /^      paths:/         { in_install=0; in_download=0; next }
+            in_install && /^[ ]+estimate:/ {
+                # Strip "estimate: " prefix and trailing whitespace
+                est = $0
+                sub(/^[ ]+estimate:[ ]*/, "", est)
+                sub(/[ ]+$/, "", est)
+                install_val = est
+                in_install = 0
+            }
+            in_download && /^[ ]+estimate:/ {
+                est = $0
+                sub(/^[ ]+estimate:[ ]*/, "", est)
+                sub(/[ ]+$/, "", est)
+                download_val = est
+                in_download = 0
+            }
+            install_val != "" && download_val != "" {
+                print install_val "|" download_val
+                install_val = ""
+                download_val = ""
+            }
+        ' "$f")
+        # Read result line-by-line (pairs may have spaces inside)
+        while IFS= read -r pair; do
+            [ -z "$pair" ] && continue
+            inst="${pair%|*}"
+            dl="${pair#*|}"
+            total_with_dl=$((total_with_dl + 1))
+            inst_b=$(to_bytes "$inst")
+            dl_b=$(to_bytes "$dl")
+            if [ "$inst_b" -lt 0 ] || [ "$dl_b" -lt 0 ]; then
+                continue  # unparseable, skip
+            fi
+            if [ "$dl_b" -gt "$inst_b" ]; then
+                echo "  ✗ $rel  install=$inst  download=$dl"
+                offenders=$((offenders + 1))
+            fi
+        done <<< "$result"
+    done < <(find "$SRC_DIR" -name '*.yml')
+
+    echo
+    echo "scanned:   $total_with_dl entries with both install+download"
+    echo "offenders: $offenders"
+
+    if [ "$offenders" -gt 0 ]; then
+        x:error "install-download invariant violated: $offenders offender(s)"
+        return 1
+    fi
+
+    x:info "test PASSED — 0 offenders"
+    return 0
+}
+
+(
+  main "$@"
+)
