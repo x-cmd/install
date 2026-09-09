@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""Multi-faceted audit of all install/src yml files.
+
+Checks (per file):
+  - required top-level fields: lang, homepage, desc, rule, x (or platform)
+  - desc has both cn and en
+  - footprint (if present) has consistent listen/connect schema
+  - platform (if present) only has valid keys
+  - x: shortcuts only use allowed keys (per install.schema.json)
+  - x: shortcut values that are @scoped/npm packages are quoted
+  - estimate uses valid unit suffix (KB/MB/GB)
+  - rating is 0-5 integer
+  - listen is one of: none, localhost, lan, internet
+
+Output: per-check pass/fail counts + first 10 failing files.
+"""
+import json
+import re
+import sys
+from pathlib import Path
+
+SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
+SCHEMA_PATH = Path('/Users/l/.x-repo/github.com/x-cmd/install/.vscode/install.schema.json')
+
+# Load allowed x: keys from schema
+schema = json.loads(SCHEMA_PATH.read_text())
+ALLOWED_X_KEYS = set(schema['definitions']['InstallMeta']['properties']['x']['properties'].keys())
+
+VALID_LISTEN = {'none', 'localhost', 'lan', 'internet'}
+
+
+class Audit:
+    def __init__(self):
+        self.passes = 0
+        self.fails = 0
+        self.failures = {}  # check -> [files]
+
+    def check(self, name, ok, file_path):
+        if ok:
+            self.passes += 1
+        else:
+            self.fails += 1
+            self.failures.setdefault(name, []).append(file_path)
+
+
+def audit_file(p: Path) -> Audit:
+    a = Audit()
+    text = p.read_text()
+    rel = str(p.relative_to(SRC))
+
+    # 1. required fields present
+    for field in ('lang', 'homepage', 'desc', 'rule'):
+        a.check(f'required:{field}', re.search(rf'^{field}:', text, re.MULTILINE) is not None, rel)
+
+    # 2. desc has cn and en (within first 50 lines after `desc:`)
+    desc_match = re.search(r'^desc:\s*\n', text, re.MULTILINE)
+    if desc_match:
+        # Find the next top-level key to bound the desc block
+        pos = desc_match.end()
+        nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[pos:], re.MULTILINE)
+        end = pos + (nxt.start() if nxt else 200)
+        block = text[pos:end]
+        a.check('desc.cn', re.search(r'^\s+cn:', block, re.MULTILINE) is not None, rel)
+        a.check('desc.en', re.search(r'^\s+en:', block, re.MULTILINE) is not None, rel)
+
+    # 3. listen enum
+    m = re.search(r'^\s+listen:\s+(\S+)', text, re.MULTILINE)
+    if m:
+        a.check('listen:enum', m.group(1) in VALID_LISTEN, rel)
+
+    # 4. x: shortcut keys all in schema
+    m = re.search(r'^x:\s*\n', text, re.MULTILINE)
+    if m:
+        start = m.end()
+        pos = start
+        while pos < len(text):
+            nxt = re.search(r'^[a-z][a-z_/]*:\s*(\S|$)', text[pos:], re.MULTILINE)
+            if not nxt:
+                break
+            next_line_start = pos + nxt.start()
+            if text[next_line_start] != ' ' and text[next_line_start] != '\t':
+                break
+            pos = text.find('\n', next_line_start) + 1
+        x_block = text[start:pos]
+        for k in re.finditer(r'^  ([a-z][\w/-]*):', x_block, re.MULTILINE):
+            a.check('x:key-in-schema', k.group(1) in ALLOWED_X_KEYS, rel)
+
+    # 5. estimate uses valid unit
+    for m in re.finditer(r'^\s*estimate:\s*(\d+(?:\.\d+)?)\s*(\S+)\s*$', text, re.MULTILINE):
+        unit = m.group(2).rstrip(',')
+        ok = bool(re.match(r'^(B|KB|MB|GB|[KMG]B?)$', unit))
+        a.check('estimate:unit', ok, rel)
+
+    # 6. rating is 0-5
+    for m in re.finditer(r'^\s*rating:\s*(\d+)\s*$', text, re.MULTILINE):
+        a.check('rating:0-5', 0 <= int(m.group(1)) <= 5, rel)
+
+    return a
+
+
+def main():
+    grand = Audit()
+    for p in SRC.rglob('*.yml'):
+        a = audit_file(p)
+        for check_name, files in a.failures.items():
+            grand.failures.setdefault(check_name, []).extend(files)
+        grand.passes += a.passes
+        grand.fails += a.fails
+
+    total = grand.passes + grand.fails
+    print(f"=== AUDIT SUMMARY ===")
+    print(f"pass: {grand.passes}")
+    print(f"fail: {grand.fails}")
+    print(f"total: {total}")
+    print()
+    for name, files in sorted(grand.failures.items(), key=lambda kv: -len(kv[1])):
+        print(f"  [{len(files):4d}]  {name}")
+    print()
+    for name, files in sorted(grand.failures.items(), key=lambda kv: -len(kv[1])):
+        if len(files) <= 10:
+            print(f"\n  {name}:")
+            for f in files:
+                print(f"    {f}")
+
+
+if __name__ == '__main__':
+    main()

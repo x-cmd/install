@@ -45,8 +45,9 @@
       "type": "object"
     },
     "Estimate": {
-      "description": "Size estimate — human-readable string like '12 MB' or '2.5 GB'",
-      "type": "string"
+      "description": "Size estimate — human-readable string with unit. Allowed units: B, KB, MB, GB (and lowercase). Examples: '12 MB', '2.5 GB', '500 KB', '65 B'.",
+      "type": "string",
+      "pattern": "^[\\d.]+\\s+(B|KB|MB|GB|[KMG]B?)$"
     },
     "Rating1to5": {
       "description": "0..5 rating (0 = idle/none, 1..5 = active — see rating.md § 4)",
