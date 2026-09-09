@@ -25,7 +25,8 @@ footprint:
     runtime:
       type: gui
     network:
-      local: true
+      localhost: true
+      lan: true
       internet: true   # Baidu cloud
     filesystem:
       read:

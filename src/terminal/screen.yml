@@ -16,8 +16,10 @@ footprint:
     runtime:
       type: daemon
     network:
-      local: true
-      internet: true   # serial-over-network
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # serial-over-network
     filesystem:
       read:
         desc:

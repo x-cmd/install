@@ -19,7 +19,8 @@ footprint:
     runtime:
       type: [cli, tui]
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

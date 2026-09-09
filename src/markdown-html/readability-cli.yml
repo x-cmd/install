@@ -27,7 +27,8 @@ footprint:
     runtime:
       type: library
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

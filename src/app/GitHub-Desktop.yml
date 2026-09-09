@@ -35,7 +35,8 @@ footprint:
     runtime:
       type: gui
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

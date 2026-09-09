@@ -26,7 +26,8 @@ footprint:
     runtime:
       type: daemon
     network:
-      local: false
+      localhost: false
+      lan: false
       internet: false
     filesystem:
       read:

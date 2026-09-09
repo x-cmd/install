@@ -36,8 +36,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # JDBC database connection
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # JDBC database connection
     filesystem:
       read:
         desc:

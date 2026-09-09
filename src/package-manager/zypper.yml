@@ -34,8 +34,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # package repos
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # package repos
     filesystem:
       read:
         desc:

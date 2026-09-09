@@ -21,8 +21,10 @@ footprint:
     runtime:
       type: gui
     network:
-      local: true
-      internet: true   # 下载 runner/proton
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # 下载 runner/proton
     filesystem:
       read:
         desc:

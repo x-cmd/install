@@ -1,0 +1,110 @@
+#!/usr/bin/env python3
+"""Migrate footprint.behavior.network from {local, internet} to
+{localhost, lan, internet}.
+
+Mapping:
+  local: true   -> localhost: true
+  local: false  -> localhost: false
+  internet: <v> -> internet: <v>  (preserved)
+
+  lan: heuristically inferred from yml body keywords + internet=true.
+       If uncertain, set lan=false and append `# needs-review` comment.
+
+Output (stdout):
+  migrated:    <n>
+    needs review: <n>
+  skipped:     <n>
+"""
+import re
+import sys
+from pathlib import Path
+
+SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
+
+LAN_KEYWORDS = re.compile(
+    r'\b(sync|p2p|peer|nas|smb|nfs|bonjour|mdns|avahi|zeroconf|'
+    r'discover|arp|nmap|scan|mosquitto|syncthing|samba|rsync|'
+    r'lan|rfc1918|multicast)\b',
+    re.IGNORECASE,
+)
+
+
+def migrate(yml_path: Path):
+    text = yml_path.read_text()
+    # Skip if already migrated
+    if re.search(r'^\s+localhost:', text, re.MULTILINE):
+        return "skipped:already migrated"
+    # Skip if no network: block
+    m = re.search(
+        r'^\s+local:\s+(\S+)\s*\n\s+internet:\s+(\S+)',
+        text, re.MULTILINE,
+    )
+    if not m:
+        return "skipped:no network block"
+    local_val = m.group(1)
+    inet_val = m.group(2)
+
+    # Decide lan via heuristic on whole-file body
+    needs_review = False
+    if inet_val == "true":
+        if LAN_KEYWORDS.search(text):
+            lan_val = "true"
+        else:
+            lan_val = "false"
+            needs_review = True
+    else:
+        lan_val = "false"
+
+    # Replace the 2-line block with 3-line (4 if needs_review)
+    new_block_lines = [
+        f"      localhost: {local_val}",
+        f"      lan: {lan_val}",
+        f"      internet: {inet_val}",
+    ]
+    if needs_review:
+        new_block_lines.append(f"      # needs-review: confirm lan={lan_val}")
+    new_block = "\n".join(new_block_lines)
+
+    new_text, n = re.subn(
+        r'^(\s+)local:\s+\S+\s*\n\s+internet:\s+\S+',
+        lambda mm: new_block,
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if n == 0:
+        return "skipped:regex failed"
+    yml_path.write_text(new_text)
+    return ("needs-review" if needs_review else "migrated")
+
+
+def main():
+    migrated = 0
+    reviewed = 0
+    skipped = 0
+    needs_review_list = []
+    for p in SRC.rglob('*.yml'):
+        result = migrate(p)
+        if result == "migrated":
+            migrated += 1
+        elif result == "needs-review":
+            migrated += 1
+            reviewed += 1
+            needs_review_list.append(str(p.relative_to(SRC)))
+        else:
+            skipped += 1
+
+    print(f"migrated:    {migrated}")
+    print(f"  needs review: {reviewed}")
+    print(f"skipped:     {skipped}")
+    if needs_review_list:
+        print()
+        print("entries flagged for human review:")
+        for r in needs_review_list[:50]:
+            print(f"  ? {r}")
+        if len(needs_review_list) > 50:
+            print(f"  ... and {len(needs_review_list) - 50} more")
+
+
+if __name__ == "__main__":
+    main()

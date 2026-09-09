@@ -19,8 +19,10 @@ footprint:
     runtime:
       type: daemon
     network:
-      local: true
-      internet: true   # vector DB API
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # vector DB API
     filesystem:
       read:
         desc:

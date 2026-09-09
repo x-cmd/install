@@ -25,8 +25,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # GitHub API
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # GitHub API
     filesystem:
       read:
         desc:

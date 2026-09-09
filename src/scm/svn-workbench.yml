@@ -28,8 +28,10 @@ footprint:
     runtime:
       type: gui
     network:
-      local: true
-      internet: true   # svn operations remote
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # svn operations remote
     filesystem:
       read:
         desc:

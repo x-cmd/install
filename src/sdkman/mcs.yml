@@ -36,8 +36,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # Minecraft server status
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # Minecraft server status
     filesystem:
       read: []
   resource:

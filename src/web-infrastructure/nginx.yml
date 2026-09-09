@@ -54,8 +54,10 @@ footprint:
     runtime:
       type: daemon
     network:
-      local: true
-      internet: true       # 监听端口
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false       # 监听端口
     filesystem:
       read:
         desc:

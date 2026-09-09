@@ -36,7 +36,8 @@ footprint:
     runtime:
       type: tui
     network:
-      local: false
+      localhost: false
+      lan: false
       internet: false
     filesystem:
       read:

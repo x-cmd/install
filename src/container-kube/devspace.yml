@@ -55,7 +55,8 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
+      localhost: true
+      lan: true
       internet: true   # k8s API + image registry
     filesystem:
       read:

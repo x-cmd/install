@@ -30,8 +30,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   
     filesystem:
       read:
         desc:

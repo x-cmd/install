@@ -34,8 +34,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # Firebase API
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # Firebase API
     filesystem:
       read:
         desc:

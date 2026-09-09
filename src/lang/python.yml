@@ -59,7 +59,8 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

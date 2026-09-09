@@ -31,8 +31,10 @@ footprint:
     runtime:
       type: library
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: true
+      # needs-review: confirm lan=false
     filesystem:
       read:
         desc:

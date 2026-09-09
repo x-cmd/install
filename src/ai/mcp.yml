@@ -19,7 +19,8 @@ footprint:
     runtime:
       type: daemon   # MCP server 持续运行
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

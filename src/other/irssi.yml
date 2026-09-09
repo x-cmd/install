@@ -60,8 +60,10 @@ footprint:
     runtime:
       type: tui
     network:
-      local: true
-      internet: true   # IRC servers
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # IRC servers
     filesystem:
       read:
         desc:

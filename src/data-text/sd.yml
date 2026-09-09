@@ -34,7 +34,8 @@ footprint:
     runtime:
       type: interactive
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

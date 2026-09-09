@@ -53,7 +53,8 @@ footprint:
       type: cli
 
     network:
-      local: false
+      localhost: false
+      lan: false
       internet: false
 
     filesystem:

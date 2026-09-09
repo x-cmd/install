@@ -29,7 +29,8 @@ footprint:
     runtime:
       type: [cli, interactive]
     network:
-      local: true
+      localhost: true
+      lan: false
       internet: false
     filesystem:
       read:

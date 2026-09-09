@@ -71,8 +71,10 @@ footprint:
     runtime:
       type: cli
     network:
-      local: true
-      internet: true   # OIDC, Rekor, registry
+      localhost: true
+      lan: false
+      internet: true
+      # needs-review: confirm lan=false   # OIDC, Rekor, registry
     filesystem:
       read:
         desc:
