@@ -63,19 +63,19 @@ footprint:
             cn: 安装 7.6 MB
             en: 7.6 MB install
         download:
-          estimate: 8 MB
+          estimate: 7.6 MB
           desc:
-            cn: 约 8 MB 下载 (linux/x64)
-            en: ~8 MB download (linux/x64)
+            cn: 约 7.6 MB 下载
+            en: ~7.6 MB download
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 7 MB
+        estimate: 6 MB
         desc:
-          cn: 7 MB
-          en: 7 MB
+          cn: 6 MB
+          en: 6 MB
     cpu:
       workload: ['compute']
       processes: 1

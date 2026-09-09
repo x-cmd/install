@@ -77,11 +77,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 4 KB
+          estimate: 4 MB
           rating: 1
           desc:
-            cn: 约 4 KB（估算）
-            en: ~4 KB estimated
+            cn: 安装 4 MB
+            en: 4 MB install
         growth:
           desc:
             cn: PKI 目录 ($EASYRSA_PKI) 随签发证书量线性增长，无上限（除磁盘空间）

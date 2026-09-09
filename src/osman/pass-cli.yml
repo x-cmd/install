@@ -38,11 +38,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 4.6 MB
+          estimate: 5 MB
           rating: 1
           desc:
-            cn: 约 4.6 MB（估算）
-            en: ~4.6 MB estimated
+            cn: 安装 5 MB
+            en: 5 MB install
         growth:
           desc:
             cn: 密码库大小随条目数增长

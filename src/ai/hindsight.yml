@@ -38,10 +38,10 @@ footprint:
             cn: 安装 3.8 MB
             en: 3.8 MB install
         download:
-          estimate: 4 MB
+          estimate: 3.8 MB
           desc:
-            cn: 约 4 MB 下载 (linux/x64)
-            en: ~4 MB download (linux/x64)
+            cn: 约 3.8 MB 下载
+            en: ~3.8 MB download
       paths:
         data: []
         config: []

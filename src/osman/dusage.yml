@@ -32,11 +32,11 @@ footprint:
     disk:
       size:
         install:
-          estimate: 20 KB
+          estimate: 407 KB
           rating: 1
           desc:
-            cn: 约 20 KB（估算）
-            en: ~20 KB estimated
+            cn: 安装 407 KB
+            en: 407 KB install
         download:
           estimate: 407 KB
           desc:

@@ -54,19 +54,19 @@ footprint:
             cn: 安装 88 MB
             en: 88 MB install
         download:
-          estimate: 102 MB
+          estimate: 30.9 MB
           desc:
-            cn: 约 102 MB 下载 (deb)
-            en: ~102 MB download (deb)
+            cn: 约 30.9 MB 下载
+            en: ~30.9 MB download
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 62 MB
+        estimate: 67 MB
         desc:
-          cn: 62 MB
-          en: 62 MB
+          cn: 67 MB
+          en: 67 MB
     cpu:
       workload: ['compute']
       processes: 1
