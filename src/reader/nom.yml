@@ -26,7 +26,7 @@ footprint:
     network:
       listen: none
       connect:
-        localhost: true
+        localhost: false
         lan: false
         internet: false
     filesystem:

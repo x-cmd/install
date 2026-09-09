@@ -33,9 +33,9 @@ footprint:
     runtime:
       type: library
     network:
-      listen: localhost
+      listen: none
       connect:
-        localhost: true
+        localhost: false
         lan: false
         internet: false
     filesystem:

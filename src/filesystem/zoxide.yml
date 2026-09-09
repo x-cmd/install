@@ -124,9 +124,9 @@ footprint:
     runtime:
       type: interactive
     network:
-      listen: localhost
+      listen: none
       connect:
-        localhost: true
+        localhost: false
         lan: true
         internet: false
     filesystem:

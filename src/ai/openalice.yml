@@ -22,9 +22,9 @@ footprint:
     network:
       listen: localhost
       connect:
-        localhost: true
+        localhost: false
         lan: true
-        internet: true
+        internet: false
     filesystem:
       read:
         desc:

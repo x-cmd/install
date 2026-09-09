@@ -43,9 +43,9 @@ footprint:
     runtime:
       type: cli
     network:
-      listen: localhost
+      listen: none
       connect:
-        localhost: true
+        localhost: false
         lan: false
         internet: false
     filesystem:

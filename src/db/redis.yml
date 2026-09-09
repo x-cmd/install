@@ -53,8 +53,8 @@ footprint:
     network:
       listen: localhost
       connect:
-        localhost: true
-        lan: false
+        localhost: false
+        lan: true
         internet: false
     filesystem:
       read:

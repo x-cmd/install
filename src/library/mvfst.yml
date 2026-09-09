@@ -22,9 +22,9 @@ footprint:
     runtime:
       type: daemon
     network:
-      listen: none
+      listen: localhost
       connect:
-        localhost: true
+        localhost: false
         lan: false
         internet: false
     filesystem:

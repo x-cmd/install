@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Migrate footprint.behavior.network schemas.
 
 Phase 1 (already shipped): {local, internet} -> {localhost, lan, internet}
@@ -12,8 +11,10 @@ Final schema:
       lan:       true|false
       internet:  true|false
 
-Phase 2 is idempotent: files already in the listen/connect shape are
-left alone.
+By default the migration only writes files still on the {localhost, lan,
+internet} triple (phase 1 output). With --force it also rewrites files
+already in the {listen, connect} shape, recomputing the values with the
+new heuristic defaults.
 """
 import re
 import sys
@@ -21,8 +22,8 @@ from pathlib import Path
 
 SRC = Path('/Users/l/.x-repo/github.com/x-cmd/install/src')
 
-# Tools that are KNOWN to talk to LAN even when internet=false (LAN-only
-# discovery / peer protocols).
+# Keywords that imply LAN-only behavior (talk to RFC1918 peers even
+# without hitting the public internet).
 LAN_ONLY_KEYWORDS = re.compile(
     r'\b(sync|p2p|peer[- ]to[- ]peer|smb|nfs|bonjour|mdns|avahi|'
     r'zeroconf|discover|arp|nmap|scan|mosquitto|syncthing|samba|'
@@ -30,83 +31,75 @@ LAN_ONLY_KEYWORDS = re.compile(
     re.IGNORECASE,
 )
 
-
-def derive_listen(lo, lan, inet):
-    """Pick the BROADEST surface the binary binds.
-
-    Rule: pick the widest of the three surfaces that the binary can reach.
-    A binary that can hit RFC1918 is effectively listening on lan too.
-    """
-    if lo:
-        return "localhost"
-    if lan:
-        return "lan"
-    if inet:
-        return "internet"
-    return "none"
+# Keywords that imply the binary BINDS something (server / broker /
+# daemon / listener). Bump `listen` above `none` only when these match.
+LISTEN_KEYWORDS = re.compile(
+    r'\b(server|daemon|broker|listen|bind|socket|proxy|tunnel|'
+    r'mosquitto|syncthing|ngrok|sshd|nfsd|smbd)\b',
+    re.IGNORECASE,
+)
 
 
-def derive_connect(text, lan_val, internet_val):
-    """Compute the three connect booleans.
-
-    Rule:
-      connect.internet: same as input internet_val
-      connect.lan:      internet_val OR LAN-keyword override (when internet=false)
-      connect.localhost: true (almost every binary can use loopback for IPC)
-    """
-    if internet_val:
-        return True, True, True
-    # internet=false — strip the network block itself before scanning for
-    # keywords so the field names ('lan:', 'localhost:', 'internet:') don't
-    # match themselves.
-    body = re.sub(
-        r'^\s+(localhost|lan|internet):\s+\S+',
+def strip_network_block(text):
+    return re.sub(
+        r'^[ \t]+(localhost|lan|internet|listen|connect):.*',
         '',
         text,
         flags=re.MULTILINE,
     )
-    if LAN_ONLY_KEYWORDS.search(body):
-        return True, True, False
-    return True, False, False
 
 
-def phase2_migrate(yml_path: Path):
+def derive_listen(text):
+    """Default `none`. Bump up only with LISTEN_KEYWORDS."""
+    if LISTEN_KEYWORDS.search(strip_network_block(text)):
+        return "localhost"
+    return "none"
+
+
+def derive_connect(text):
+    """Conservative defaults: localhost: false; lan: false; internet: false.
+    LAN-keyword override sets lan: true. Public-internet markers (which
+    only exist in the original `internet: true` legacy schema — not in
+    the new shape) are no longer relevant here."""
+    if LAN_ONLY_KEYWORDS.search(strip_network_block(text)):
+        return False, True, False
+    return False, False, False
+
+
+# Match either:
+#   (a) phase-1 shape: localhost: <b>\n lan: <b>\n internet: <b>
+#   (b) phase-2 shape: listen: <x>\n connect:\n   localhost: <b>\n   lan: <b>\n   internet: <b>
+# Both should be replaced with the new listen/connect block at the
+# SAME outer indent as the first matched line.
+
+TRIPLE_RE = re.compile(
+    r'^([ \t]+)(?:listen:\s+\S+[ \t]*\n'
+    r'\1connect:[ \t]*\n)?'
+    r'(?:[ \t]+)?localhost:\s+(true|false)[ \t]*\n'
+    r'\1[ \t]*lan:\s+(true|false)[ \t]*\n'
+    r'\1[ \t]*internet:\s+(true|false)[ \t]*\n',
+    re.MULTILINE,
+)
+
+
+def phase2_migrate(yml_path: Path, force=False):
     text = yml_path.read_text()
-    if re.search(r'^\s+listen:', text, re.MULTILINE):
-        return "skipped:already migrated (listen/connect)"
+    if not force and not TRIPLE_RE.search(text):
+        return "skipped:no triple block"
 
-    m = re.search(
-        r'^(\s+)localhost:\s+(true|false)\s*\n'
-        r'\s+lan:\s+(true|false)\s*\n'
-        r'\s+internet:\s+(true|false)',
-        text, re.MULTILINE,
-    )
-    if not m:
-        return "skipped:no three-bool block"
+    def repl(m):
+        indent = m.group(1)
+        listen_val = derive_listen(text)
+        lo, lan, inet = derive_connect(text)
+        return (
+            f"{indent}listen: {listen_val}\n"
+            f"{indent}connect:\n"
+            f"{indent}  localhost: {'true' if lo else 'false'}\n"
+            f"{indent}  lan: {'true' if lan else 'false'}\n"
+            f"{indent}  internet: {'true' if inet else 'false'}\n"
+        )
 
-    indent = m.group(1)
-    lo = m.group(2) == "true"
-    lan = m.group(3) == "true"
-    inet = m.group(4) == "true"
-
-    listen_val = derive_listen(lo, lan, inet)
-    conn_lo, conn_lan, conn_inet = derive_connect(text, lan, inet)
-
-    new_block = (
-        f"{indent}listen: {listen_val}\n"
-        f"{indent}connect:\n"
-        f"{indent}  localhost: {'true' if conn_lo else 'false'}\n"
-        f"{indent}  lan: {'true' if conn_lan else 'false'}\n"
-        f"{indent}  internet: {'true' if conn_inet else 'false'}"
-    )
-
-    new_text, n = re.subn(
-        r'^\s+localhost:\s+\S+\s*\n\s+lan:\s+\S+\s*\n\s+internet:\s+\S+',
-        lambda mm: new_block,
-        text,
-        count=1,
-        flags=re.MULTILINE,
-    )
+    new_text, n = TRIPLE_RE.subn(repl, text)
     if n == 0:
         return "skipped:regex failed"
     yml_path.write_text(new_text)
@@ -114,10 +107,11 @@ def phase2_migrate(yml_path: Path):
 
 
 def main():
+    force = "--force" in sys.argv
     migrated = 0
     skipped = 0
     for p in SRC.rglob('*.yml'):
-        result = phase2_migrate(p)
+        result = phase2_migrate(p, force=force)
         if result == "migrated":
             migrated += 1
         else:

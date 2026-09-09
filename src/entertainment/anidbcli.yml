@@ -25,10 +25,10 @@ footprint:
     runtime:
       type: cli
     network:
-      listen: localhost
+      listen: none
       connect:
-        localhost: true
-        lan: false
+        localhost: false
+        lan: true
         internet: false
     filesystem:
       read:
