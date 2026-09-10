@@ -17,7 +17,6 @@ x:
   port: mosh
   emerge: net-misc/mosh
   guix: mosh
-  make: make
   pkg: net/mosh
 rule:
   /eget:

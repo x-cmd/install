@@ -12,7 +12,6 @@ x:
   scoop: gh
   choco: gh
   winget: GitHub.cli
-  powershell: install
   yay: gh-dash
 rule:
   /eget:

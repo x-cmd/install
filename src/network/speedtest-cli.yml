@@ -13,7 +13,6 @@ x:
   apk: speedtest-cli
   apt-get: speedtest-cli
   choco: speedtest-cli
-  powershell: speedtest-cli
   yay: speedtest-cli-git
   pip: speedtest-cli
 rule:

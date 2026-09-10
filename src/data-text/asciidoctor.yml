@@ -13,7 +13,6 @@ x:
   apt-get: -y
   port: asciidoctor
   choco: ruby
-  powershell: ruby
   gem: asciidoctor
 rule:
   alpine/apk:

@@ -7,8 +7,6 @@ desc:
 x:
   source: https://github.com/scmmishra/slick-deploy
   eget: https://github.com/scmmishra/slick-deploy
-  git: https://github.com/scmmishra/slick-deploy.git
-  make: make
 rule:
   /x:
     cmd: x pkg use slick

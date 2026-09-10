@@ -9,7 +9,6 @@ x:
   brew: atomgit-cli
   scoop: hust-open-atom-club/atomgit-cli
   winget: HUSTOpenAtomClub.AtomGitCLI
-  powershell: install
   nix: github:NixOS/nixpkgs/nixos-unstable#atomgit-cli
   yay: atomgit-cli-bin
   npm: "@hust-open-atom-club/atomgit-cli"

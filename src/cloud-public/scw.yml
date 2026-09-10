@@ -10,7 +10,6 @@ x:
   brew: scw
   pacman: scaleway-cli
   choco: scaleway-cli
-  powershell: scaleway-cli
 rule:
   /x:
     cmd: x pkg use scw

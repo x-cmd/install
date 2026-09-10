@@ -15,7 +15,6 @@ x:
   yum: gum
   scoop: charm-gum
   winget: charmbracelet.gum
-  powershell: install
   asdf: gum
 rule:
   /x:

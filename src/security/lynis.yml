@@ -14,7 +14,6 @@ x:
   yum: lynis
   zypper: lynis
   yay: lynis
-  git: https://github.com/CISOfy/lynis
 rule:
   /x:
     cmd: x pkg use lynis

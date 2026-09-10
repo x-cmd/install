@@ -6,7 +6,6 @@ desc:
   en: "Self-hosted AI news radar: aggregate, fetch, score, deduplicate, and summarize Hacker News, Reddit, RSS, Telegram, GitHub, and more into a daily bilingual briefing — with Pages publishing, email subscription, Feishu/Slack/Webhook push, and MCP integration."
 x:
   source: https://github.com/Thysrael/Horizon
-  git: Thysrael/Horizon
 rule:
   /git:
     cmd: x git clone Thysrael/Horizon

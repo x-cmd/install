@@ -10,7 +10,6 @@ x:
   brew: fluxcd/tap/flux
   scoop: main/flux
   choco: flux
-  powershell: flux
   yay: flux-bin
   asdf: flux2
 rule:

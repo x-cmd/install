@@ -10,7 +10,6 @@ x:
   pacman: --needed
   makepkg: makepkg
   yay: paru
-  git: https://aur.archlinux.org/paru.git
 rule:
   /eget:
     cmd: x eget Morganamilo/paru

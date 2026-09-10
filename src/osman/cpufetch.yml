@@ -19,7 +19,6 @@ x:
   emerge: app-misc/cpufetch
   scoop: cpufetch
   choco: cpufetch
-  powershell: cpufetch
   yay: cpufetch-git
   pkg: cpufetch
 rule:

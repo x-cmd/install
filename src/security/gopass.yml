@@ -15,7 +15,6 @@ x:
   scoop: gopass
   choco: gopass
   winget: gopass.gopass
-  powershell: gopass
   go: github.com/gopasspw/gopass@latest
 rule:
   /x:

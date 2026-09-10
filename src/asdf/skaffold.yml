@@ -11,7 +11,6 @@ x:
   port: skaffold
   scoop: skaffold
   choco: skaffold
-  powershell: -y
   asdf: skaffold
 rule:
   /eget:

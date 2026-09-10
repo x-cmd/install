@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/semantica-agi/semantica
   pip: -U
-  git: semantica-agi/semantica
 rule:
   /pip:
     cmd: pip install -U semantica

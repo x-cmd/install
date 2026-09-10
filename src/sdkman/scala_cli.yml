@@ -14,7 +14,6 @@ x:
   scoop: scala-cli
   choco: scala-cli
   winget: virtuslab.scalacli
-  powershell: scala-cli
   yay: scala-cli
 rule:
   /eget:

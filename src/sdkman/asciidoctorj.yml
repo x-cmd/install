@@ -8,7 +8,6 @@ x:
   source: https://github.com/asciidoctor/asciidoctorj
   brew: asciidoctorj
   choco: asciidoctorj
-  powershell: asciidoctorj
   asdf: asciidoctorj
 rule:
   /asdf:

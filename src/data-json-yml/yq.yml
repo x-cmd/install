@@ -15,7 +15,6 @@ x:
   scoop: main/yq
   choco: yq
   winget: MikeFarah.yq
-  powershell: install
   yay: yq
   go: github.com/mikefarah/yq/v4@latest
   asdf: yq

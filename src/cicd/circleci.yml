@@ -10,7 +10,6 @@ x:
   brew: circleci
   snap: circleci
   choco: circleci-cli
-  powershell: circleci-cli
   yay: circleci-cli-bin
 rule:
   /eget:

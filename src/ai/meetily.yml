@@ -6,7 +6,6 @@ desc:
   en: Privacy-first AI meeting assistant built with Rust. Local-only processing with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. One-click installer for macOS and Windows; Linux builds from source. No cloud required.
 x:
   source: https://github.com/Zackriya-Solutions/meetily
-  git: https://github.com/Zackriya-Solutions/meeting-minutes
 rule:
   /git:
     cmd: |

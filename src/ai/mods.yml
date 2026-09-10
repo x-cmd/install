@@ -11,7 +11,6 @@ x:
   brew: charmbracelet/tap/mods
   scoop: mods
   winget: mods
-  powershell: install
   yay: mods
   go: github.com/charmbracelet/mods@latest
 rule:

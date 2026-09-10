@@ -16,7 +16,6 @@ x:
   xbps: watchexec
   scoop: watchexec
   choco: watchexec
-  powershell: watchexec
   cargo: --locked
   asdf: watchexec
 rule:

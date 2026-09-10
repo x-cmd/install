@@ -6,7 +6,6 @@ desc:
   en: Open-source Claude Design alternative — turns the Claude Code / Codex / Cursor CLI on your laptop into a design engine. Type a brief, stream UI prototypes, decks, videos, and brand-grade artifacts; 150 DESIGN.md systems, 100+ skills, and 261 plugins ship in the box.
 x:
   source: https://github.com/nexu-io/open-design
-  git: nexu-io/open-design
 rule:
   /git:
     cmd: x git clone nexu-io/open-design

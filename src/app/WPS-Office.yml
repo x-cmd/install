@@ -26,7 +26,6 @@ x:
   scoop: extras/wpsoffice
   choco: wps-office-free
   winget: Kingsoft.WPSOffice
-  powershell: wps-office-free
   brew: --cask
   yay: wps-office
 binlist:

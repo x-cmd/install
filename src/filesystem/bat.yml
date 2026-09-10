@@ -21,7 +21,6 @@ x:
   scoop: bat
   choco: bat
   winget: sharkdp.bat
-  powershell: install
   asdf: bat
   pkg: bat
 rule:

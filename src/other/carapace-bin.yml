@@ -11,7 +11,6 @@ x:
   zypper: carapace-bin
   scoop: extras/carapace-bin
   winget: -e
-  powershell: install
   yay: carapace-bin
 rule:
   /x:

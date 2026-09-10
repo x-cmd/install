@@ -13,7 +13,6 @@ x:
   scoop: rclone
   choco: rclone
   winget: Rclone.Rclone
-  powershell: install
   asdf: rclone
 rule:
   /x:

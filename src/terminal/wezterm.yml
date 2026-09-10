@@ -13,9 +13,7 @@ x:
   scoop: wezterm
   choco: wezterm
   winget: wez.wezterm
-  powershell: wezterm
   flatpak: flathub
-  build: build
   pkg: wezterm
 rule:
   (win|wsl2)/scoop:

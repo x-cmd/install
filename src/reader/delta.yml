@@ -17,7 +17,6 @@ x:
   scoop: delta
   choco: delta
   winget: dandavison.delta
-  powershell: delta
   cargo: git-delta
   pkg: git-delta
 rule:

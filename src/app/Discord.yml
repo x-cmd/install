@@ -66,7 +66,6 @@ x:
   scoop: extras/discord
   choco: discord
   winget: Discord.Discord
-  powershell: discord
   brew: --cask
   snap: discord
   flatpak: flathub

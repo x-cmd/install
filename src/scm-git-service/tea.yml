@@ -9,7 +9,6 @@ x:
   apt-get: tea
   scoop: tea
   asdf: tea
-  git: https://gitea.com/gitea/tea.git
 rule:
   /x:
     cmd: x pkg use tea

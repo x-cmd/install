@@ -9,7 +9,6 @@ x:
   brew: ngrok
   snap: ngrok
   choco: ngrok
-  powershell: ngrok
   yay: ngrok
 rule:
   darwin/brew:

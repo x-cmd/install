@@ -9,7 +9,6 @@ x:
   brew: ccache
   scoop: ccache
   choco: ccache
-  powershell: ccache
   asdf: ccache
 rule:
   /eget:

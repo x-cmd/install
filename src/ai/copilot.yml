@@ -9,7 +9,6 @@ x:
   eget: https://github.com/github/copilot-cli
   brew: copilot-cli
   winget: GitHub.Copilot
-  powershell: install
   npm: "@github/copilot"
 rule:
   /x:

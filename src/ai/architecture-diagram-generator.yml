@@ -6,7 +6,6 @@ desc:
   en: Cocoon-AI's open-source Claude Skill that turns plain-English system descriptions into professional dark-themed architecture diagrams as a self-contained HTML file, with built-in Copy/PNG/PDF export and iterative chat refinement.
 x:
   source: https://github.com/Cocoon-AI/architecture-diagram-generator
-  git: Cocoon-AI/architecture-diagram-generator
 rule:
   /curl:
     cmd: curl -fsSL -o architecture-diagram.zip https://github.com/Cocoon-AI/architecture-diagram-generator/releases/latest/download/architecture-diagram.zip && unzip architecture-diagram.zip -d ~/.claude/skills/architecture-diagram

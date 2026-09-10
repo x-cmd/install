@@ -15,7 +15,6 @@ x:
   emerge: beets
   eopkg: beets
   choco: beets
-  powershell: beets
   pip: beets
   pkg: audio/beets
 rule:

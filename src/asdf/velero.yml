@@ -9,7 +9,6 @@ x:
   eget: https://github.com/vmware-tanzu/velero
   brew: velero
   choco: velero
-  powershell: velero
   asdf: velero
 rule:
   /eget:

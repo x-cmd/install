@@ -13,7 +13,6 @@ x:
   yum: epel-release
   port: httpie
   choco: httpie
-  powershell: httpie
   pip: --upgrade
   pacman: httpie
   pkg: www/py-httpie

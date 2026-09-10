@@ -10,7 +10,6 @@ x:
   scoop: extras/lunacy
   choco: lunacy
   winget: Icons8.Lunacy
-  powershell: lunacy
   flatpak: flathub
 rule:
   (win|wsl2)/scoop:

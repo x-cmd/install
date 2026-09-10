@@ -12,7 +12,6 @@ x:
   zypper: bazel
   scoop: bazel
   choco: bazel
-  powershell: bazel
 rule:
   /eget:
     cmd: x eget bazelbuild/bazel

@@ -10,7 +10,6 @@ x:
   brew: sampler
   port: sampler
   choco: sampler
-  powershell: sampler
   yay: sampler
 rule:
   /eget:

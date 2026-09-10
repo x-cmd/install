@@ -16,7 +16,6 @@ x:
   scoop: procs
   choco: bat
   winget: procs
-  powershell: install
   yay: procs-git
 rule:
   /x:

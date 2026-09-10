@@ -10,7 +10,6 @@ x:
   brew: gitql
   scoop: gitql
   winget: gitql
-  powershell: install
   yay: gitql-bin
   cargo: gitql
 rule:

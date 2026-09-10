@@ -12,7 +12,6 @@ x:
   apk: chimera-repo-user
   scoop: television
   winget: --exact
-  powershell: install
   cargo: --locked
 rule:
   /x:

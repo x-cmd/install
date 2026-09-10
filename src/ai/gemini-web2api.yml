@@ -6,7 +6,6 @@ desc:
   en: Convert Google Gemini's web interface into a free, self-hosted, OpenAI-compatible API for development and experimentation.
 x:
   source: https://github.com/Sophomoresty/gemini-web2api
-  git: Sophomoresty/gemini-web2api
 rule:
   /git:
     cmd: x git clone Sophomoresty/gemini-web2api

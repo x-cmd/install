@@ -15,10 +15,7 @@ x:
   scoop: act
   choco: act-cli
   winget: nektos.act
-  powershell: act-cli
   asdf: act
-  git: https://github.com/nektos/act.git
-  build: build
   yay: act
 rule:
   /x:

@@ -10,7 +10,6 @@ x:
   brew: tfsec
   scoop: tfsec
   choco: tfsec
-  powershell: tfsec
   yay: tfsec-bin
   go: github.com/aquasecurity/tfsec/cmd/tfsec@latest
 rule:

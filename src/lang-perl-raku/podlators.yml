@@ -15,7 +15,6 @@ rule:
     reference: https://github.com/rra/podlators
 
 x:
-  make: make
 binlist:
 - podlators
 license: NOASSERTION

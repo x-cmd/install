@@ -10,7 +10,6 @@ x:
   brew: jandedobbeleer/oh-my-posh/oh-my-posh
   scoop: https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
   winget: JanDeDobbeleer.OhMyPosh
-  powershell: install
 rule:
   /x:
     cmd: x pkg use oh-my-posh

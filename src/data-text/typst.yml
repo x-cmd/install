@@ -9,7 +9,6 @@ x:
   eget: https://github.com/typst/typst
   brew: typst
   winget: Typst.Typst
-  powershell: install
   cargo: --git
 rule:
   /x:

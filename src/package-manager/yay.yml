@@ -11,7 +11,6 @@ x:
   makepkg: makepkg
   yay: yay
   asdf: yay
-  git: https://aur.archlinux.org/yay.git
 rule:
   /eget:
     cmd: x eget Jguer/yay

@@ -9,7 +9,6 @@ x:
   pacman: git
   makepkg: makepkg
   yay: pakku
-  git: https://aur.archlinux.org/pakku.git
 rule:
   arch/pacman:
     cmd: 'sudo pacman -S git base-devel \

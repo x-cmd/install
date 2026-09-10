@@ -11,7 +11,6 @@ x:
   scoop: nodejs-lts
   choco: pnpm
   winget: pnpm
-  powershell: pnpm
   npm: pnpm
   asdf: pnpm
 rule:

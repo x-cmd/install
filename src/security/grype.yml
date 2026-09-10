@@ -10,7 +10,6 @@ x:
   brew: anchore/grype/grype
   port: grype
   choco: grype
-  powershell: grype
   yay: grype-bin
 rule:
   /x:

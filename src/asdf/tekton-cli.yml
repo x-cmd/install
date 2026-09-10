@@ -13,7 +13,6 @@ x:
   pacman: tekton-cli
   scoop: tektoncd-cli
   choco: tektoncd-cli
-  powershell: tektoncd-cli
   asdf: tekton-cli
 rule:
   /eget:

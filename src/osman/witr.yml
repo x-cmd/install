@@ -10,7 +10,6 @@ x:
   apt: witr
   brew: witr
   winget: -e
-  powershell: install
   yay: witr-bin
   paru: witr-bin
   go: github.com/pranshuparmar/witr/cmd/witr@latest

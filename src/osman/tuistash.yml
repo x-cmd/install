@@ -10,8 +10,6 @@ x:
   brew: edmocosta/homebrew-tap/tuistash
   yay: tuistash
   paru: tuistash
-  git: https://github.com/edmocosta/tuistash.git
-  build: build
 rule:
   /eget:
     cmd: x eget edmocosta/tuistash

@@ -12,7 +12,6 @@ x:
   snap: trippy
   scoop: trippy
   winget: trippy
-  powershell: install
   cargo: trippy
 rule:
   /x:

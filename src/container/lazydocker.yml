@@ -10,7 +10,6 @@ x:
   brew: jesseduffield/lazydocker/lazydocker
   scoop: lazydocker
   choco: lazydocker
-  powershell: lazydocker
   yay: lazydocker
   go: github.com/jesseduffield/lazydocker@latest
   asdf: lazydocker

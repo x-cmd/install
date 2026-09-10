@@ -15,7 +15,6 @@ x:
   emerge: dev-python/jc
   yay: jc
   pip: jc
-  make: make
 rule:
   /x:
     cmd: x pkg use jc

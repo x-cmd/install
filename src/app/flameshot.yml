@@ -17,7 +17,6 @@ x:
   scoop: extras/flameshot
   choco: flameshot
   winget: Flameshot.Flameshot
-  powershell: flameshot
   flatpak: flathub
   yay: flameshot
 rule:

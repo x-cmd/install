@@ -10,7 +10,6 @@ x:
   brew: ncspot
   scoop: main/ncspot
   winget: hrkfdn.ncspot
-  powershell: install
   yay: ncspot-git
   cargo: ncspot
 rule:

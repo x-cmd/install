@@ -10,7 +10,6 @@ x:
   brew: csvlens
   pacman: csvlens
   winget: YS-L.csvlens
-  powershell: install
   cargo: csvlens
   pkg: csvlens
 rule:

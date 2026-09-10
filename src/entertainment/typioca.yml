@@ -12,7 +12,6 @@ x:
   xbps: typioca
   scoop: typioca
   winget: bloznelis.typioca
-  powershell: install
   yay: typioca-git
   go: github.com/bloznelis/typioca@latest
 rule:

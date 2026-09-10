@@ -19,7 +19,6 @@ x:
   eopkg: micro
   scoop: micro
   choco: micro
-  powershell: micro
   pacstall: micro
 rule:
   /eget:

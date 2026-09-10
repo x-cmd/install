@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/Andyyyy64/whichllm
   pip: whichllm
-  git: Andyyyy64/whichllm
 rule:
   /pip:
     cmd: pip install whichllm

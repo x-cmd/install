@@ -15,7 +15,6 @@ x:
   scoop: helix
   choco: helix
   winget: Helix.Helix
-  powershell: install
 rule:
   /eget:
     cmd: x eget helix-editor/helix

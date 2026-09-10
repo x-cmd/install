@@ -49,7 +49,6 @@ x:
   brew: mercurial
   yay: mercurial-hg
   pip: mercurial
-  make: make
 binlist:
 - mercurial
 license: NOASSERTION

@@ -10,7 +10,6 @@ x:
   dnf: googler
   apt-get: googler
   choco: googler
-  powershell: googler
   yay: googler
 rule:
   /curl:

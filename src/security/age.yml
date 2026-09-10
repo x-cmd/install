@@ -16,7 +16,6 @@ x:
   emerge: app-crypt/age
   scoop: extras/age
   choco: age.portable
-  powershell: age.portable
   yay: age
 rule:
   /eget:

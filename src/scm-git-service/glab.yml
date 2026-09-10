@@ -12,7 +12,6 @@ x:
   scoop: glab
   choco: glab
   winget: glab.glab
-  powershell: glab
   asdf: glab
 rule:
   /x:

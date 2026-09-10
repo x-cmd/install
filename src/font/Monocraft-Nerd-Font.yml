@@ -11,8 +11,6 @@ x:
   /eget:
     cmd: x eget IdreesInc/Monocraft
     reference: https://x-cmd.com/mod/eget
-  win/powershell:
-    cmd: x pwsh Invoke-WebRequest -Uri https://github.com/IdreesInc/Monocraft/releases/download/v3.0/Monocraft.ttf -OutFile Monocraft.ttf
     reference: https://github.com/IdreesInc/Monocraft?tab=readme-ov-file#windows
   darwin/brew:
     cmd: 'brew tap homebrew/cask-fonts \

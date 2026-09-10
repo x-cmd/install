@@ -8,7 +8,6 @@ x:
   source: https://github.com/getcursor/cursor
   brew: --cask
   winget: Cursor.Cursor
-  powershell: install
   yay: cursor-bin
 rule:
   /curl:

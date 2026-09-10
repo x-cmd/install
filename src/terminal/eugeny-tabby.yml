@@ -10,7 +10,6 @@ x:
   scoop: extras/tabby
   choco: tabby
   winget: -e
-  powershell: install
   yay: tabby-bin
 rule:
   /eget:

@@ -14,7 +14,6 @@ x:
   xbps: Clipboard
   scoop: clipboard
   winget: -e
-  powershell: install
   flatpak: app.getclipboard.Clipboard
   pacstall: clipboard-bin
   yay: clipboard

@@ -46,7 +46,6 @@ x:
   scoop: extras/portable-virtualbox
   choco: virtualbox
   winget: Oracle.VirtualBox
-  powershell: virtualbox
   brew: --cask
   yay: virtualbox-bin
 binlist:

@@ -19,7 +19,6 @@ x:
   xbps: ninja
   scoop: ninja
   choco: ninja
-  powershell: ninja
   pip: ninja
   pkg: ninja
 rule:

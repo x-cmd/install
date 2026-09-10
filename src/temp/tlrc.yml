@@ -11,7 +11,6 @@ x:
   zypper: tlrc
   port: tlrc
   winget: tldr-pages.tlrc
-  powershell: install
   yay: tlrc
   cargo: tlrc
 rule:

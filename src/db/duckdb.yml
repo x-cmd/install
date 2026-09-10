@@ -10,7 +10,6 @@ x:
   brew: duckdb
   scoop: duckdb
   winget: DuckDB.cli
-  powershell: install
 rule:
   /eget:
     cmd: x eget duckdb/duckdb

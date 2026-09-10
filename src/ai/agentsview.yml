@@ -17,8 +17,6 @@ x:
   darwin/brew:
     cmd: brew install --cask agentsview
     reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
-  win/powershell:
-    cmd: x pwsh 'irm https://agentsview.io/install.ps1 | iex'
     reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
 binlist:
 - agentsview

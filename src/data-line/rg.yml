@@ -19,7 +19,6 @@ x:
   scoop: ripgrep
   choco: ripgrep
   winget: BurntSushi.ripgrep.MSVC
-  powershell: install
   asdf: rg
 rule:
   /x:

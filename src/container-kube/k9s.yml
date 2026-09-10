@@ -12,7 +12,6 @@ x:
   port: k9s
   scoop: k9s
   choco: k9s
-  powershell: k9s
   asdf: k9s
 rule:
   /x:

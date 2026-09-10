@@ -17,7 +17,6 @@ x:
   emerge: app-misc/fastfetch
   scoop: fastfetch
   winget: fastfetch
-  powershell: install
   yay: fastfetch-git
   pkg: fastfetch
 rule:

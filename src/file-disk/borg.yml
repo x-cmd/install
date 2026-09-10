@@ -17,7 +17,6 @@ x:
   guix: --install
   pip: borgbackup
   asdf: borg
-  make: make
   pkg: borg
 rule:
   /eget:

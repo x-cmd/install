@@ -14,7 +14,6 @@ x:
   scoop: main/vagrant
   choco: vagrant
   winget: Hashicorp.Vagrant
-  powershell: vagrant
   yay: vagrant
 rule:
   (win|wsl2)/scoop:

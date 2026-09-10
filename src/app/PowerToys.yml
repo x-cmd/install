@@ -10,7 +10,6 @@ x:
   scoop: powertoys
   choco: powertoys
   winget: Microsoft.PowerToys
-  powershell: powertoys
 rule:
   /eget:
     cmd: x eget microsoft/PowerToys

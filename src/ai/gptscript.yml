@@ -10,7 +10,6 @@ x:
   brew: gptscript-ai/tap/gptscript
   scoop: gptscript
   winget: gptscript-ai.gptscript
-  powershell: install
   yay: gptscript
 rule:
   /x:

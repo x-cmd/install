@@ -14,8 +14,6 @@ x:
   npm: minify
   go: ./cmd/minify
   asdf: minify
-  git: https://github.com/tdewolff/minify.git
-  make: make
   pkg: minify
 rule:
   /x:

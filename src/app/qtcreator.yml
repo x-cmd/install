@@ -12,7 +12,6 @@ x:
   pacman: qtcreator
   apt-get: qtcreator
   choco: qtcreator
-  powershell: qtcreator
   yay: qtcreator
 rule:
   /eget:

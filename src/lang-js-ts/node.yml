@@ -18,7 +18,6 @@ x:
   eopkg: nodejs
   scoop: nodejs-lts
   winget: OpenJS.NodeJS.LTS
-  powershell: install
   npm: n
   asdf: node
   pkg: node

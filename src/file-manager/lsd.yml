@@ -17,7 +17,6 @@ x:
   xbps: lsd
   scoop: lsd
   winget: lsd-rs.lsd
-  powershell: install
   cargo: lsd
   pkg: lsd
 rule:

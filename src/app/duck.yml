@@ -9,7 +9,6 @@ x:
   brew: duck
   port: duck
   choco: duck
-  powershell: duck
   yay: duck
 rule:
   darwin/brew:

@@ -17,10 +17,7 @@ x:
   scoop: chezmoi
   choco: chezmoi
   winget: twpayne.chezmoi
-  powershell: chezmoi
   asdf: chezmoi
-  git: https://github.com/twpayne/chezmoi.git
-  make: make
   pkg: chezmoi
 rule:
   /eget:

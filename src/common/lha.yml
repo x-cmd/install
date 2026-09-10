@@ -7,8 +7,6 @@ desc:
 x:
   source: https://github.com/jca02266/lha/
   eget: https://github.com/ljh-sh/lha
-  git: https://github.com/jca02266/lha.git
-  make: make
 rule:
   /git:
     cmd: git clone https://github.com/jca02266/lha.git && cd lha && autoreconf -is && ./configure && make && sudo make install

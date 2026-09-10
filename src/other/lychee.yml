@@ -15,7 +15,6 @@ x:
   scoop: lychee
   choco: lychee
   winget: -e
-  powershell: lychee
   cargo: lychee
   pkg: lychee
 rule:

@@ -8,7 +8,6 @@ x:
   source: https://github.com/ProtonMail/gosop
   eget: https://github.com/ProtonMail/gosop
   go: "gosop"
-  git: git@github.com:ProtonMail/gosop.git
 rule:
   /x:
     cmd: x pkg use gosop

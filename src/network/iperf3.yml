@@ -14,7 +14,6 @@ x:
   apt-get: iperf3
   scoop: main/iperf3
   choco: iperf3
-  powershell: iperf3
 rule:
   /eget:
     cmd: x eget esnet/iperf

@@ -14,8 +14,6 @@ x:
   /curl:
     cmd: curl -fsSL https://cutt.ly/tran-cli | bash
     reference: https://github.com/abdfnx/tran?tab=readme-ov-file#using-script
-  win/powershell:
-    cmd: x pwsh iwr -useb https://cutt.ly/tran-win | iex
     reference: https://github.com/abdfnx/tran?tab=readme-ov-file#using-script
   darwin/brew:
     cmd: brew install abdfnx/tap/tran

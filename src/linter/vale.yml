@@ -9,7 +9,6 @@ x:
   eget: https://github.com/errata-ai/vale
   brew: vale
   choco: vale
-  powershell: vale
   asdf: vale
 rule:
   /x:

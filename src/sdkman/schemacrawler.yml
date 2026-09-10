@@ -8,7 +8,6 @@ x:
   eget: https://github.com/schemacrawler/SchemaCrawler
   scoop: schemacrawler
   choco: schemacrawler
-  powershell: schemacrawler
   asdf: schemacrawler
 rule:
   /eget:

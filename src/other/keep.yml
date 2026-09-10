@@ -8,7 +8,6 @@ x:
   source: https://github.com/orkohunter/keep
   brew: --cask
   pip: .
-  git: https://github.com/keephq/keep.git
 rule:
   /x:
     cmd: x pkg use keep

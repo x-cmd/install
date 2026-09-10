@@ -16,7 +16,6 @@ x:
   emerge: media-gfx/chafa
   scoop: chafa
   winget: hpjansson.Chafa
-  powershell: install
   pkg: chafa
 rule:
   /eget:

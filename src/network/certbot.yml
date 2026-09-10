@@ -13,7 +13,6 @@ x:
   apk: certbot
   apt-get: certbot
   winget: EFF.Certbot
-  powershell: install
   yay: certbot-git
   pip: certbot
 rule:

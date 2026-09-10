@@ -9,7 +9,6 @@ x:
   eget: https://github.com/veeso/termscp
   pacman: termscp
   choco: termscp
-  powershell: termscp
 rule:
   /x:
     cmd: x pkg use termscp

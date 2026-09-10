@@ -19,10 +19,8 @@ x:
   eopkg: just
   scoop: just
   choco: just
-  powershell: just
   cargo: just
   asdf: just
-  git: https://mpr.makedeb.org/just
   pkg: just
 rule:
   /x:

@@ -68,7 +68,6 @@ x:
   scoop: extras/slack
   choco: slack
   winget: SlackTechnologies.Slack
-  powershell: slack
   brew: --cask
   snap: slack
   yay: slack

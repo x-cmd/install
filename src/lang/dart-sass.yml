@@ -10,7 +10,6 @@ x:
   brew: node-sass
   scoop: sass
   choco: sass
-  powershell: sass
   npm: sass
 rule:
   /eget:

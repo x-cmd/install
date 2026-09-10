@@ -12,7 +12,6 @@ x:
   port: tre-tree
   scoop: tre-command
   winget: tre-command
-  powershell: install
   yay: tre-command
   cargo: tre-command
 rule:

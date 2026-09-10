@@ -10,7 +10,6 @@ x:
   dnf: -y
   apt-get: -y
   pip: uno
-  git: https://github.com/Stirling-Tools/Stirling-PDF.git
 rule:
   /eget:
     cmd: x eget Stirling-Tools/Stirling-PDF

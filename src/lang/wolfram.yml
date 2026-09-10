@@ -13,7 +13,6 @@ rule:
 
 x:
   winget: WolframEngine
-  powershell: install
 binlist:
 - wolfram
 license: NOASSERTION

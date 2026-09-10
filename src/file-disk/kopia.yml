@@ -13,7 +13,6 @@ x:
   scoop: kopia
   yay: kopia
   go: github.com/kopia/kopia@latest
-  make: make
   pkg: sysutils/kopia
 rule:
   /x:

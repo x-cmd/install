@@ -16,7 +16,6 @@ x:
   scoop: lf
   choco: lf
   winget: gokcehan.lf
-  powershell: lf
 rule:
   /x:
     cmd: x pkg use lf

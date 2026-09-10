@@ -28,7 +28,6 @@ rule:
 x:
   scoop: extras/qq
   choco: tencentqq
-  powershell: tencentqq
   brew: --cask
   flatpak: flathub
   yay: linuxqq

@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/tobixen/calendar-cli
   yay: calendar-cli
-  git: https://github.com/tobixen/calendar-cli.git
 rule:
   arch/yay:
     cmd: yay -S calendar-cli

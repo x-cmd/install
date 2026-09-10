@@ -11,7 +11,6 @@ x:
   apk: --no-cache
   port: gomplate
   choco: gomplate
-  powershell: gomplate
   yay: gomplate-bin
   npm: gomplate
   go: github.com/hairyhenderson/gomplate/v4/cmd/gomplate@latest

@@ -10,7 +10,6 @@ x:
   brew: kubeshark/kubeshark/kubeshark
   yay: kubeshark-bin
   asdf: kubeshark
-  git: https://github.com/kubeshark/kubeshark.git
 rule:
   /eget:
     cmd: x eget kubeshark/kubeshark

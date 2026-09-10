@@ -17,11 +17,9 @@ x:
   scoop: zola
   choco: zola
   winget: getzola.zola
-  powershell: zola
   flatpak: flathub
   yay: zola-git
   cargo: --path
-  git: https://github.com/getzola/zola.git
   pkg: zola
 rule:
   /x:

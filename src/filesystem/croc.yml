@@ -16,7 +16,6 @@ x:
   scoop: croc
   choco: croc
   winget: schollz.croc
-  powershell: croc
   yay: croc-git
   go: github.com/schollz/croc/v9@latest
   pkg: croc

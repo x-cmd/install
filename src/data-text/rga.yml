@@ -12,7 +12,6 @@ x:
   emerge: sys-apps/ripgrep-all
   scoop: rga
   choco: ripgrep-all
-  powershell: ripgrep-all
   cargo: --locked
 rule:
   /eget:

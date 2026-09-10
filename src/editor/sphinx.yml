@@ -12,7 +12,6 @@ x:
   yum: python-sphinx
   port: py39-sphinx
   choco: sphinx
-  powershell: sphinx
   pip: -U
 rule:
   /x:

@@ -19,7 +19,6 @@ x:
   scoop: hyperfine
   choco: hyperfine
   winget: hyperfine
-  powershell: install
   yay: hyperfine-git
   asdf: hyperfine
   pkg: hyperfine

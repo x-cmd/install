@@ -65,7 +65,6 @@ x:
   scoop: extras/wechat
   choco: wechat
   winget: Tencent.WeChat
-  powershell: wechat
   brew: --cask
   snap: electronic-wechat
   flatpak: flathub

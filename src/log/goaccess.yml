@@ -15,7 +15,6 @@ x:
   zypper: goaccess
   emerge: net-analyzer/goaccess
   yay: goaccess-git
-  make: make
   pkg: sysutils/goaccess
 rule:
   debian/apt:

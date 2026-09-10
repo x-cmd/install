@@ -30,7 +30,6 @@ x:
   scoop: extras/github
   choco: github-desktop
   winget: github-desktop
-  powershell: install
   brew: --cask
   yay: github-desktop
 binlist:

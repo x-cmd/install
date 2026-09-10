@@ -20,7 +20,6 @@ x:
   scoop: gh
   choco: gh
   winget: GitHub.cli
-  powershell: install
   pkg: gh
 rule:
   /eget:

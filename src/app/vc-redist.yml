@@ -20,7 +20,6 @@ x:
   scoop: extras/vcredist2022
   choco: vcredist140
   winget: Microsoft.VCRedist.2015+.x64
-  powershell: vcredist140
 binlist:
 - vc-redist
 license: NOASSERTION

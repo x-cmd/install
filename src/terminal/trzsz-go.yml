@@ -14,7 +14,6 @@ x:
   scoop: trzsz
   choco: trzsz
   winget: trzsz
-  powershell: trzsz
   yay: trzsz
   go: github.com/trzsz/trzsz-go/cmd/trzsz@latest
 rule:

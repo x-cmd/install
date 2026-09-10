@@ -13,7 +13,6 @@ x:
   scoop: yt-dlp
   choco: yt-dlp
   winget: yt-dlp
-  powershell: install
   yay: yt-dlp-git
   pip: -U
   pacman: yt-dlp

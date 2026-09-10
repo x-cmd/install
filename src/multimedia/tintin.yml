@@ -15,7 +15,6 @@ x:
   apt-get: build-essential
   yum: make
   yay: tintin
-  make: make
 rule:
   /eget:
     cmd: x eget scandum/tintin

@@ -16,7 +16,6 @@ x:
   scoop: main/docker
   choco: docker-desktop
   winget: Docker.DockerDesktop
-  powershell: docker-desktop
 rule:
   /curl:
     cmd: curl -sSL "https://get.docker.com/" | sh

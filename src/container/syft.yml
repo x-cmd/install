@@ -10,7 +10,6 @@ x:
   brew: syft
   scoop: syft
   choco: syft
-  powershell: syft
   asdf: syft
 rule:
   /x:

@@ -10,7 +10,6 @@ x:
   brew: jsdelivr/globalping/globalping
   choco: globalping
   winget: globalping
-  powershell: globalping
   yay: globalping-cli
 rule:
   /x:

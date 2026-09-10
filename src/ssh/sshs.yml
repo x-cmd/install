@@ -12,7 +12,6 @@ x:
   apk: sshs
   scoop: extras/sshs
   choco: sshs
-  powershell: sshs
   nix: 'github:quantumsheep/sshs'
   cargo: --git
 rule:

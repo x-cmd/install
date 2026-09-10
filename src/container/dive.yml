@@ -14,7 +14,6 @@ x:
   scoop: main/dive
   choco: dive
   winget: wagoodman.dive
-  powershell: dive
   asdf: dive
 rule:
   /x:

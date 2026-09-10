@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/fosskers/aura
   yay: aura
-  git: https://github.com/fosskers/aura.git
 rule:
   arch/stack:
     cmd: 'git clone https://github.com/fosskers/aura.git \

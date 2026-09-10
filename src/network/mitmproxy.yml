@@ -15,7 +15,6 @@ x:
   scoop: extras/mitmproxy
   choco: mitmproxy
   winget: mitmproxy.mitmproxy
-  powershell: install
   yay: mitmproxy-git
   asdf: mitmproxy
 rule:

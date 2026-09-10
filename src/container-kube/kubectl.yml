@@ -16,7 +16,6 @@ x:
   scoop: kubectl
   choco: kubernetes-cli
   winget: -e
-  powershell: kubernetes-cli
   asdf: kubectl
 rule:
   /asdf:

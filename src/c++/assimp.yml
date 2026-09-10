@@ -12,7 +12,6 @@ x:
   scoop: versions/assimp3
   yay: assimp-git
   pip: pyassimp
-  git: https://github.com/Microsoft/vcpkg.git
 rule:
   /eget:
     cmd: x eget assimp/assimp

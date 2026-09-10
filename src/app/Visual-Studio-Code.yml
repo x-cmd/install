@@ -12,7 +12,6 @@ x:
   scoop: extras/vscode
   choco: vscode
   winget: Microsoft.VisualStudioCode
-  powershell: vscode
   flatpak: flathub
   yay: visual-studio-code-bin
 rule:

@@ -16,7 +16,6 @@ x:
   scoop: extras/krita
   choco: krita
   winget: KDE.Krita
-  powershell: krita
   flatpak: flathub
 rule:
   arch/snap:

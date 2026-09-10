@@ -14,7 +14,6 @@ x:
   scoop: extras/obs-studio
   choco: obs-studio
   winget: OBSProject.OBSStudio
-  powershell: obs-studio
   flatpak: flathub
   yay: obs-studio
 rule:

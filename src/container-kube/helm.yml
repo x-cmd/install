@@ -13,7 +13,6 @@ x:
   snap: helm
   scoop: helm
   choco: kubernetes-helm
-  powershell: kubernetes-helm
   asdf: helm
   pkg: helm
 rule:

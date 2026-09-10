@@ -16,10 +16,8 @@ x:
   emerge: --sync
   scoop: gping
   choco: gping
-  powershell: gping
   yay: gping-git
   cargo: gping
-  make: make
   pkg: gping
 rule:
   /x:

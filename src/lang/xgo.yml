@@ -12,7 +12,6 @@ x:
   brew: goplus
   yum: gop
   winget: goplus.gop
-  powershell: install
   yay: xgo
 rule:
   /eget:

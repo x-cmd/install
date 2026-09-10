@@ -15,8 +15,6 @@ x:
   zypper: ranger
   emerge: -a
   pip: ranger-fm
-  git: https://github.com/ranger/ranger.git
-  make: make
 rule:
   /x:
     cmd: x pkg use ranger

@@ -18,7 +18,6 @@ x:
   scoop: main/ag
   choco: ag
   winget: TheSilverSearcher
-  powershell: ag
   pkg: the_silver_searcher
 rule:
   darwin/brew:

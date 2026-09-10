@@ -8,10 +8,8 @@ x:
   source: https://github.com/gruntwork-io/kubergrunt
   eget: https://github.com/gruntwork-io/kubergrunt
   choco: kubergrunt
-  powershell: kubergrunt
   yay: kubergrunt
   asdf: kubergrunt
-  build: build
 rule:
   /eget:
     cmd: x eget gruntwork-io/kubergrunt

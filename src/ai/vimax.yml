@@ -6,7 +6,6 @@ desc:
   en: HKUDS's open-source multi-agent video generation framework that turns ideas, scripts, or full novels into finished multi-shot videos — automating script, character, storyboard, shot, and video production end-to-end.
 x:
   source: https://github.com/HKUDS/ViMax
-  git: HKUDS/ViMax
 rule:
   /git:
     cmd: x git clone HKUDS/ViMax

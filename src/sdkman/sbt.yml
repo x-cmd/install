@@ -14,7 +14,6 @@ x:
   yum: sbt
   scoop: sbt
   choco: sbt
-  powershell: sbt
   asdf: sbt
 rule:
   /eget:

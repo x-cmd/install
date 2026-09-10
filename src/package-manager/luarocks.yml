@@ -16,8 +16,6 @@ x:
   port: lua-luarocks
   scoop: main/luarocks
   choco: luarocks
-  powershell: luarocks
-  make: make
 rule:
   /x:
     cmd: x pkg use luarocks

@@ -14,7 +14,6 @@ x:
   port: opam
   scoop: main/opam
   winget: Git.Git
-  powershell: install
   yay: opam-git
   pkg: ocaml-opam
 rule:

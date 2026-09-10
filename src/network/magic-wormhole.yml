@@ -13,7 +13,6 @@ x:
   apt-get: magic-wormhole
   zypper: python-magic-wormhole
   choco: magic-wormhole
-  powershell: magic-wormhole
   yay: magic-wormhole-git
   pip: --user
 rule:

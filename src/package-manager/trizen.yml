@@ -8,7 +8,6 @@ x:
   source: https://github.com/trizen/trizen
   makepkg: makepkg
   yay: trizen
-  git: https://aur.archlinux.org/trizen.git
 rule:
   arch/pacman:
     cmd: 'git clone https://aur.archlinux.org/trizen.git \

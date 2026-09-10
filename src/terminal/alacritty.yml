@@ -9,7 +9,6 @@ x:
   scoop: extras/alacritty
   choco: alacritty
   winget: -e
-  powershell: install
   cargo: alacritty
 rule:
   /cargo:

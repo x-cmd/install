@@ -13,8 +13,6 @@ x:
   yay: melt-bin
   go: github.com/charmbracelet/melt/cmd/melt@latest
   asdf: melt
-  git: https://github.com/charmbracelet/melt.git
-  build: build
 rule:
   /eget:
     cmd: x eget charmbracelet/melt

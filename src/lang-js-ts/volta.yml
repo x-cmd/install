@@ -10,7 +10,6 @@ x:
   scoop: volta
   choco: volta
   winget: Volta.Volta
-  powershell: volta
   yay: volta-bin
 rule:
   /eget:

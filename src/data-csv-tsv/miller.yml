@@ -15,7 +15,6 @@ x:
   scoop: main/miller
   choco: miller
   winget: Miller.Miller
-  powershell: miller
   yay: miller-git
 rule:
   /x:

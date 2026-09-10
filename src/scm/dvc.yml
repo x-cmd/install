@@ -12,7 +12,6 @@ x:
   snap: --classic
   yum: dvc-0.62.1-1.x86_64.rpm
   choco: dvc
-  powershell: dvc
   yay: dvc
   pip: dvc
 rule:

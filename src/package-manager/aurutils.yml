@@ -20,7 +20,6 @@ rule:
 x:
   makepkg: makepkg
   yay: aurutils
-  git: https://aur.archlinux.org/aurutils.git
 binlist:
 - aurutils
 license: NOASSERTION

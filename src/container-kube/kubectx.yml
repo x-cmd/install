@@ -14,7 +14,6 @@ x:
   scoop: main/kubens
   choco: kubens
   winget: ahmetb.kubectx
-  powershell: kubens
   asdf: kubectx
 rule:
   /x:

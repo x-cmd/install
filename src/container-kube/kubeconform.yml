@@ -9,7 +9,6 @@ x:
   eget: https://github.com/yannh/kubeconform
   brew: kubeconform
   winget: YannHamon.kubeconform
-  powershell: install
   go: github.com/yannh/kubeconform/cmd/kubeconform@latest
   asdf: kubeconform
 rule:

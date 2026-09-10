@@ -6,7 +6,6 @@ desc:
   en: "Self-hosted personal AI infrastructure: build a long-running digital assistant on Claude Code, with the filesystem as context, skills and memory as substrate, that learns your goals and ideal state."
 x:
   source: https://github.com/danielmiessler/Personal_AI_Infrastructure
-  git: danielmiessler/Personal_AI_Infrastructure
 rule:
   /git:
     cmd: x git clone danielmiessler/Personal_AI_Infrastructure

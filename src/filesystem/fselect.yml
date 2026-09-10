@@ -11,7 +11,6 @@ x:
   scoop: fselect
   choco: fselect
   winget: -e
-  powershell: fselect
   yay: fselect
   cargo: fselect
 rule:

@@ -8,8 +8,6 @@ x:
   source: https://github.com/caddyserver/caddy
   yay: caddy-git
   asdf: caddy
-  git: "https://github.com/caddyserver/caddy.git"
-  build: build
 rule:
   /x:
     cmd: x pkg use caddy

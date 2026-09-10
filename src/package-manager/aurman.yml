@@ -8,7 +8,6 @@ x:
   source: https://github.com/polygamma/aurman
   makepkg: makepkg
   yay: aurman
-  git: https://aur.archlinux.org/aurman.git
 rule:
   arch/pacman:
     cmd: 'git clone https://aur.archlinux.org/aurman.git

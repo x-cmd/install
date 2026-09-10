@@ -13,7 +13,6 @@ x:
   xbps: rio
   choco: rio-terminal
   winget: -e
-  powershell: rio-terminal
   cargo: rioterm
   pkg: rio
 rule:

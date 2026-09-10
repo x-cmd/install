@@ -9,7 +9,6 @@ x:
   eget: https://github.com/microsoft/edit
   brew: msedit
   winget: Microsoft.Edit
-  powershell: install
 rule:
   /eget:
     cmd: x eget microsoft/edit

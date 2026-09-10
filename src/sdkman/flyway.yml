@@ -10,7 +10,6 @@ x:
   brew: flyway
   scoop: main/flyway
   choco: flyway.commandline
-  powershell: flyway.commandline
   yay: flyway
   asdf: flyway
 rule:

@@ -18,7 +18,6 @@ x:
   scoop: lazygit
   choco: lazygit
   winget: -e
-  powershell: install
   asdf: lazygit
   pkg: lazygit
 rule:

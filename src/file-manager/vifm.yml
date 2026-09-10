@@ -18,7 +18,6 @@ x:
   emerge: -a
   scoop: extras/vifm
   choco: vifm
-  powershell: vifm
 rule:
   /eget:
     cmd: x eget vifm/vifm

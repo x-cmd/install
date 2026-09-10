@@ -6,7 +6,6 @@ desc:
 x:
   brew: iot-technology/tap/toolkit
   choco: toolkit
-  powershell: toolkit
 rule:
   /x:
     cmd: x pkg use toolkit

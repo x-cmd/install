@@ -11,7 +11,6 @@ x:
   pacman: eget-bin
   scoop: eget
   choco: eget
-  powershell: eget
   yay: eget-bin
   go: github.com/zyedidia/eget@latest
 rule:

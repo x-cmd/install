@@ -14,7 +14,6 @@ x:
   scoop: mise
   choco: mise
   winget: jdx.mise
-  powershell: mise
   npm: "@jdxcode/mise"
   cargo: mise
 rule:

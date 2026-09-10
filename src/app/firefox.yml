@@ -60,7 +60,6 @@ x:
   scoop: extras/firefox
   choco: firefox
   winget: -e
-  powershell: firefox
   brew: --cask
   flatpak: flathub
   yay: firefox-bin

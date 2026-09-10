@@ -17,7 +17,6 @@ x:
   scoop: googlechrome
   choco: python3
   winget: -e
-  powershell: python3
   yay: ocrmypdf
   pip: --user
   pkg: textproc/py-ocrmypdf

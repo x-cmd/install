@@ -6,7 +6,6 @@ desc:
   en: An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 x:
   source: https://github.com/breferrari/obsidian-mind
-  git: https://github.com/breferrari/obsidian-mind.git
 rule:
   /npx:
     cmd: npx shardmind install github:breferrari/obsidian-mind

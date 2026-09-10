@@ -5,7 +5,6 @@ desc:
   cn: 运行 Gitea Actions
 x:
   yay: act-runner-bin
-  git: https://gitea.com/gitea/act_runner.git
 rule:
   /x:
     cmd: x pkg use act_runner

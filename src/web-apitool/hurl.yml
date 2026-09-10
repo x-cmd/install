@@ -16,7 +16,6 @@ x:
   scoop: hurl
   choco: hurl
   winget: hurl
-  powershell: hurl
   npm: --save-dev
   asdf: hurl
   pkg: hurl

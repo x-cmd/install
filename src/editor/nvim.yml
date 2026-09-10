@@ -21,7 +21,6 @@ x:
   scoop: neovim
   choco: neovim
   winget: Neovim.Neovim
-  powershell: neovim
   flatpak: flathub
   nix: nixpkgs#neovim
   pkg: neovim

@@ -12,7 +12,6 @@ x:
   port: kondo
   scoop: kondo
   winget: kondo
-  powershell: install
 rule:
   arch/pacman:
     cmd: pacman -S kondo

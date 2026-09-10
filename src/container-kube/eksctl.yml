@@ -9,7 +9,6 @@ x:
   brew: weaveworks/tap/eksctl
   scoop: eksctl
   choco: eksctl
-  powershell: eksctl
   yay: eksctl-latest
   asdf: eksctl
 rule:

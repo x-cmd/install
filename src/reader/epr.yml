@@ -8,7 +8,6 @@ x:
   source: https://github.com/wustho/epr
   brew: epr
   choco: epr
-  powershell: epr
   yay: epr-git
   pip: epr-reader
 rule:

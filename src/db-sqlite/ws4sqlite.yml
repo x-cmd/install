@@ -8,7 +8,6 @@ x:
   source: https://github.com/proofrock/ws4sqlite
   eget: https://github.com/proofrock/ws4sqlite
   yay: ws4sqlite-bin
-  git: https://github.com/proofrock/ws4sqlite
 rule:
   /x:
     cmd: x pkg use ws4sqlite

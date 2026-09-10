@@ -14,7 +14,6 @@ x:
   apt-get: gifsicle
   scoop: main/gifsicle
   choco: gifsicle
-  powershell: gifsicle
 rule:
   darwin/brew:
     cmd: brew install gifsicle

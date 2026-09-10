@@ -12,7 +12,6 @@ x:
   scoop: main/docker
   choco: docker-desktop
   winget: -e
-  powershell: docker-desktop
 rule:
   darwin/brew:
     cmd: brew install --cask docker

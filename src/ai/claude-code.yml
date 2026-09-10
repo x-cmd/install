@@ -9,7 +9,6 @@ x:
   eget: https://github.com/anthropics/claude-code
   brew: --cask
   winget: Anthropic.ClaudeCode
-  powershell: install
   yay: claude-code
   npm: "@anthropic-ai/claude-code"
 rule:

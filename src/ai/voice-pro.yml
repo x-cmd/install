@@ -6,7 +6,6 @@ desc:
   en: Transcribe, translate, and dub audio or video content with voice cloning using a free, self-hosted web application.
 x:
   source: https://github.com/abus-aikorea/voice-pro
-  git: abus-aikorea/voice-pro
 rule:
   /git:
     cmd: x git clone abus-aikorea/voice-pro

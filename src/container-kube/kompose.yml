@@ -10,7 +10,6 @@ x:
   brew: kompose
   choco: kubernetes-kompose
   winget: Kubernetes.kompose
-  powershell: kubernetes-kompose
   yay: kompose-git
   go: github.com/kubernetes/kompose@latest
   asdf: kompose

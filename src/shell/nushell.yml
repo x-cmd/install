@@ -11,7 +11,6 @@ x:
   scoop: nu
   choco: nushell
   winget: nushell
-  powershell: nushell
   nix: nixpkgs#nushell
   npm: nushell
 rule:

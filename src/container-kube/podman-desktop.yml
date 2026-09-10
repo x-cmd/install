@@ -8,7 +8,6 @@ x:
   source: https://github.com/containers/podman-desktop
   brew: --cask
   winget: -e
-  powershell: install
   flatpak: flathub
 rule:
   /flatpak:

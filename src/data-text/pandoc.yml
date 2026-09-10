@@ -14,7 +14,6 @@ x:
   apt-get: pandoc
   choco: pandoc
   winget: --source
-  powershell: install
 rule:
   /x:
     cmd: x pkg use pandoc

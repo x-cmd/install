@@ -9,7 +9,6 @@ x:
   eget: https://github.com/WasmEdge/WasmEdge
   dnf: wasmedge
   winget: wasmedge
-  powershell: install
   yay: wasmedge
 rule:
   /eget:

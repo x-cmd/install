@@ -19,9 +19,7 @@ x:
   scoop: restic
   choco: restic
   winget: restic.restic
-  powershell: restic
   asdf: restic
-  git: https://github.com/restic/restic
   pkg: restic
 rule:
   /eget:

@@ -10,7 +10,6 @@ x:
   brew: qrcp
   scoop: qrcp
   choco: qrcp
-  powershell: qrcp
   yay: qrcp
   go: github.com/claudiodangelis/qrcp@latest
 rule:

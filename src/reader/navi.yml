@@ -9,7 +9,6 @@ x:
   brew: navi
   scoop: navi
   choco: navi
-  powershell: navi
 rule:
   /x:
     cmd: x pkg use navi

@@ -19,7 +19,6 @@ x:
   scoop: hugo-extended
   choco: hugo-extended
   winget: Hugo.Hugo.Extended
-  powershell: hugo-extended
   yay: hugo-git
   pkg: gohugo
 rule:

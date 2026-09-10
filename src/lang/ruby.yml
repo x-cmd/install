@@ -16,7 +16,6 @@ x:
   scoop: main/ruby
   choco: ruby
   winget: RubyInstallerTeam.Ruby.3.4.1
-  powershell: ruby
   pkg: ruby
 rule:
   debian/apt:

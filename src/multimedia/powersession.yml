@@ -8,7 +8,6 @@ x:
   source: https://github.com/Watfaq/PowerSession-rs
   scoop: powersession-rs
   winget: Watfaq.PowerSession
-  powershell: install
   cargo: PowerSession
 rule:
   (win|wsl2)/cargo:

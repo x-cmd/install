@@ -71,7 +71,6 @@ x:
   apt: ./todesk-v4.7.2.0-amd64.deb
   apt-get: ./todesk-v4.7.2.0-amd64.deb
   winget: Youqu.ToDesk
-  powershell: install
   yay: todesk-appimage
 binlist:
 - ToDesk

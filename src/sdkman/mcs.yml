@@ -10,7 +10,6 @@ x:
   brew: mthmulders/tap/mcs
   snap: maven-central-search
   choco: mcs
-  powershell: mcs
 rule:
   /x:
     cmd: x pkg use mcs

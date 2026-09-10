@@ -9,7 +9,6 @@ x:
   brew: dart-sdk
   scoop: dart
   choco: dart-sdk
-  powershell: dart-sdk
 rule:
   darwin/brew:
     cmd: brew install dart-sdk

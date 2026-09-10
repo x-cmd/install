@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/evo-hq/evo
   pip: -U
-  git: evo-hq/evo
 rule:
   /pip:
     cmd: pip install -U evo-hq-cli

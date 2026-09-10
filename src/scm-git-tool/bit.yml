@@ -10,7 +10,6 @@ x:
   brew: bit-git
   port: bit
   choco: bit-git
-  powershell: bit-git
   yay: bit-bin
 rule:
   /x:

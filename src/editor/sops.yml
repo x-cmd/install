@@ -8,8 +8,6 @@ x:
   source: https://github.com/mozilla/sops
   yay: sops-git
   asdf: sops
-  git: https://github.com/getsops/sops.git
-  make: make
 rule:
   /x:
     cmd: x pkg use sops
