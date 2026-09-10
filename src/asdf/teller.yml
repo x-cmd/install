@@ -12,7 +12,7 @@ rule:
     reference: https://github.com/pdemagny/asdf-teller?tab=readme-ov-file#install
 
 x:
-  brew: teller
+  brew: spectralops/tap/teller
   asdf: teller
 binlist:
 - teller

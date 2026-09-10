@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/kptdev/kpt
   eget: https://github.com/kptdev/kpt
-  brew: kpt
+  brew: GoogleContainerTools/kpt/kpt
   yay: kpt-bin
   go: -v
   asdf: kpt

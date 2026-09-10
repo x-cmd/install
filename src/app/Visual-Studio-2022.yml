@@ -18,8 +18,7 @@ x:
   choco: visualstudio2022community
   winget: Microsoft.VisualStudio.2022.Community
   powershell: visualstudio2022community
-  brew: --cask
-binlist:
+  brew: --caskbinlist:
 - Visual-Studio-2022
 license: NOASSERTION
 

@@ -8,7 +8,7 @@ x:
   source: https://github.com/Julien-cpsn/ATAC
   eget: https://github.com/Julien-cpsn/ATAC
   dnf: atac
-  brew: atac
+  brew: julien-cpsn/atac/atac
   pacman: atac
   scoop: atac
   cargo: atac

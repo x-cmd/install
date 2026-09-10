@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/cask/iterm2#default
 
 x:
-  brew: --cask
-binlist:
+  brew: --caskbinlist:
 - iterm2
 license: NOASSERTION
 

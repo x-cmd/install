@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/git-chglog/git-chglog
   eget: https://github.com/git-chglog/git-chglog
-  brew: git-chglog
+  brew: git-chglog/git-chglog/git-chglog
   scoop: git-chglog
   yay: git-chglog
   go: github.com/git-chglog/git-chglog/cmd/git-chglog@latest

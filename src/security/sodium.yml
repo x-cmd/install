@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/jedisct1/libsodium
   eget: https://github.com/jedisct1/libsodium
-  brew: libsodium
-rule:
+  brew: libsodiumrule:
   /x:
     cmd: x pkg use sodium
     reference: https://x-cmd.com/install/

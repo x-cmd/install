@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/gobackup/gobackup
   eget: https://github.com/gobackup/gobackup
-  brew: gobackup
-rule:
+  brew: gobackuprule:
   /x:
     cmd: x pkg use gobackup
     reference: https://x-cmd.com/install/

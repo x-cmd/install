@@ -5,8 +5,7 @@ desc:
   en: Get, unpack, build, and install modules from CPAN
 x:
   source: https://github.com/miyagawa/cpanminus
-  brew: cpanminus
-rule:
+  brew: cpanminusrule:
   darwin/brew:
     cmd: brew install cpanminus
     reference: https://formulae.brew.sh/formula/cpanminus#default

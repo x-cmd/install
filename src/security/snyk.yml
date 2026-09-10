@@ -6,7 +6,7 @@ desc:
 x:
   source: https://github.com/snyk/cli
   eget: https://github.com/snyk/cli
-  brew: snyk
+  brew: snyk/tap/snyk
   scoop: snyk
   npm: snyk@latest
   asdf: snyk

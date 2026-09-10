@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/moncho/dry
   eget: https://github.com/moncho/dry
-  brew: dry
+  brew: moncho/dry/dry
   yay: dry-bin
 rule:
   /x:

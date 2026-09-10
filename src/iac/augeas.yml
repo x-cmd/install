@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/hercules-team/augeas
   eget: https://github.com/hercules-team/augeas
-  brew: augeas
-rule:
+  brew: augeasrule:
   /eget:
     cmd: x eget hercules-team/augeas
     reference: https://x-cmd.com/mod/eget

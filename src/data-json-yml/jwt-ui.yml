@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/jwt-rs/jwt-ui
   eget: https://github.com/jwt-rs/jwt-ui
-  brew: jwt-ui
+  brew: jwt-rs/jwt-ui/jwt-ui
   pacman: jwt-ui
   scoop: jwt-ui
   cargo: jwt-ui

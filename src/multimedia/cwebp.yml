@@ -4,8 +4,7 @@ desc:
   cn: WebP 编码器工具
   en: WebP encoder tool
 x:
-  brew: webp
-rule:
+  brew: webprule:
   /x:
     cmd: x pkg use cwebp
     reference: https://x-cmd.com/install/

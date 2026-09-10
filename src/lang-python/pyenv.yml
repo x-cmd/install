@@ -6,8 +6,7 @@ desc:
   en: pyenv is used to install pyenv and friends
 x:
   source: https://github.com/pyenv/pyenv-installer
-  brew: pyenv
-rule:
+  brew: pyenvrule:
   /curl:
     cmd: curl https://pyenv.run | bash
     reference: https://github.com/pyenv/pyenv-installer

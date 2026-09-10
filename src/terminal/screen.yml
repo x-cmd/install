@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/screen#default
 
 x:
-  brew: screen
-binlist:
+  brew: screenbinlist:
 - screen
 license: NOASSERTION
 # complicated

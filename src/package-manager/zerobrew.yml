@@ -6,8 +6,7 @@ desc:
   en: A 5-20x faster experimental Homebrew alternative that brings uv-style architecture to Homebrew packages on macOS and Linux
 x:
   source: https://github.com/lucasgelfond/zerobrew
-  brew: lucasgelfond/zerobrew/zerobrew
-rule:
+  brew: lucasgelfond/zerobrew/zerobrewrule:
   /curl:
     cmd: curl -fsSL https://zerobrew.rs/install | bash
     reference: https://github.com/lucasgelfond/zerobrew

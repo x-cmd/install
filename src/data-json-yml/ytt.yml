@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/carvel-dev/ytt
   eget: https://github.com/carvel-dev/ytt
-  brew: ytt
+  brew: carvel-dev/carvel/ytt
   yay: ytt
   asdf: ytt
 rule:

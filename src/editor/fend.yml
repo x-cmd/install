@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/printfn/fend
   eget: https://github.com/printfn/fend
-  brew: fend'
+  brew: fend
   cargo: fend'
 rule:
   /cargo:

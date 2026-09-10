@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/mpdecimal#default
 
 x:
-  brew: mpdecimal
-binlist:
+  brew: mpdecimalbinlist:
 - mpdecimal
 license: NOASSERTION
 

@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/Azure/draft
   eget: https://github.com/Azure/draft
-  brew: draft
+  brew: azure/draft/draft
   yay: draft-bin
   asdf: draft
 rule:

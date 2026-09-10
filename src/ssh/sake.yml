@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/alajmo/sake
   eget: https://github.com/alajmo/sake
-  brew: sake
+  brew: alajmo/sake/sake
   pacman: sake
   port: sake
   go: github.com/alajmo/sake@latest

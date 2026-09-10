@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/konradsz/igrep
   eget: https://github.com/konradsz/igrep
-  brew: igrep
+  brew: konradsz/igrep/igrep
   pacman: igrep
   apk: igrep
   scoop: igrep

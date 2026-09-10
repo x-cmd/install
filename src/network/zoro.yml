@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/txthinking/zoro
   eget: https://github.com/txthinking/zoro
-  brew: zoro
-rule:
+  brew: zororule:
   /x:
     cmd: x pkg use zoro
     reference: https://x-cmd.com/install/

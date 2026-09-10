@@ -13,8 +13,7 @@ rule:
     dsnap: moul.io/sshportal
 
 x:
-  brew: sshportal
-binlist:
+  brew: sshportalbinlist:
 - sshportal
 license: NOASSERTION
 

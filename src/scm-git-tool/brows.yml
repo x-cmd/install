@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/rubysolo/brows
   eget: https://github.com/rubysolo/brows
-  brew: rubysolo/tools/brows
-rule:
+  brew: rubysolo/tools/browsrule:
   /eget:
     cmd: x eget rubysolo/brows
     reference: https://x-cmd.com/mod/eget

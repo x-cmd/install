@@ -6,7 +6,7 @@ desc:
   en: Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes
 x:
   source: https://github.com/vmware-tanzu/carvel
-  brew: ytt
+  brew: carvel-dev/carvel/ytt
   yay: carvel-tools
   asdf: carvel
 rule:

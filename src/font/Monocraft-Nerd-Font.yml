@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/IdreesInc/Monocraft
   eget: https://github.com/IdreesInc/Monocraft
-  brew: --cask
-rule:
+  brew: homebrew/cask-fonts/--caskrule:
   /eget:
     cmd: x eget IdreesInc/Monocraft
     reference: https://x-cmd.com/mod/eget

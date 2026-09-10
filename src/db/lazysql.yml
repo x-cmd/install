@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/jorgerojas26/lazysql
   eget: https://github.com/jorgerojas26/lazysql
-  brew: lazysql
+  brew: jorgerojas26/lazysql/lazysql
   yay: lazysql
   paru: lazysql
   go: github.com/jorgerojas26/lazysql@latest

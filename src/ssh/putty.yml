@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/putty#default
 
 x:
-  brew: putty
-binlist:
+  brew: puttybinlist:
 - putty
 license: NOASSERTION
 

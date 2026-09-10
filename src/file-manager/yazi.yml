@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/sxyazi/yazi
   eget: https://github.com/sxyazi/yazi
-  brew: yazi
+  brew: homebrew/cask-fonts/yazi
   pacman: yazi
   zypper: yazi
   scoop: yazi

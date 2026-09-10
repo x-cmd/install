@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/apache/arrow
   eget: https://github.com/apache/arrow
-  brew: apache-arrow
-rule:
+  brew: apache-arrowrule:
   /eget:
     cmd: x eget apache/arrow
     reference: https://x-cmd.com/mod/eget

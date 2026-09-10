@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/str4d/rage
   eget: https://github.com/str4d/rage
-  brew: rage
+  brew: str4d.xyz/rage/rage
   zypper: rage-encryption
   cargo: rage
 rule:

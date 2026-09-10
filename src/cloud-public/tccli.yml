@@ -6,7 +6,7 @@ desc:
   en: tccli is a command-line tool for managing Tencent Cloud resources
 x:
   source: https://github.com/TencentCloud/tencentcloud-cli
-  brew: tccli
+  brew: tencentcloud/tccli/tccli
   pip: tccli
 rule:
   /x:

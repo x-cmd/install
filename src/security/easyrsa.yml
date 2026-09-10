@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/OpenVPN/easy-rsa
   eget: https://github.com/OpenVPN/easy-rsa
-  brew: easy-rsa
-rule:
+  brew: easy-rsarule:
   /x:
     cmd: x pkg use easyrsa
     reference: https://x-cmd.com/install/

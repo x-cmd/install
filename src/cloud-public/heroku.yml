@@ -6,7 +6,7 @@ homepage: https://github.com/heroku/cli
 license: ISC
 x:
   source: https://github.com/heroku/cli
-  brew: heroku
+  brew: heroku/brew/heroku
   choco: heroku-cli
   powershell: heroku-cli
 rule:

@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/sauljabin/kaskade
   eget: https://github.com/sauljabin/kaskade
-  brew: kaskade
-rule:
+  brew: kaskaderule:
   /eget:
     cmd: x eget sauljabin/kaskade
     reference: https://x-cmd.com/mod/eget

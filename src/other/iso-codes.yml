@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/iso-codes#default
 
 x:
-  brew: iso-codes
-binlist:
+  brew: iso-codesbinlist:
 - iso-codes
 license: NOASSERTION
 

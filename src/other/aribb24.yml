@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/aribb24#default
 
 x:
-  brew: aribb24
-binlist:
+  brew: aribb24binlist:
 - aribb24
 license: NOASSERTION
 

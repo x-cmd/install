@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/topgrade-rs/topgrade
   eget: https://github.com/topgrade-rs/topgrade
-  brew: topgrade'
+  brew: topgrade
   cargo: topgrade'
 rule:
   /cargo:

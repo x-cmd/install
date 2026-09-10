@@ -6,7 +6,7 @@ desc:
 x:
   source: https://github.com/SKalt/git-cc
   eget: https://github.com/SKalt/git-cc
-  brew: git-cc
+  brew: skalt/git-cc/git-cc
   yay: git-cc
 rule:
   /eget:

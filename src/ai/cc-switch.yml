@@ -6,7 +6,7 @@ desc:
   en: CC-Switch is a cross-platform desktop app for unified management and one-click switching of API configurations, MCP servers, and Skills across multiple AI CLI coding assistants.
 x:
   source: https://github.com/farion1231/cc-switch
-  brew: --cask
+  brew: farion1231/ccswitch/--cask
   paru: cc-switch-bin
 rule:
   darwin/brew:

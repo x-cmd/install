@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/wez/atomicparsley
   eget: https://github.com/wez/atomicparsley
-  brew: atomicparsley
-rule:
+  brew: atomicparsleyrule:
   /eget:
     cmd: x eget wez/atomicparsley
     reference: https://x-cmd.com/mod/eget

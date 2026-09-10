@@ -61,8 +61,7 @@ x:
   choco: nano
   winget: GNU.Nano
   powershell: nano
-  brew: nano
-binlist:
+  brew: nanobinlist:
 - nano
 license: NOASSERTION
 

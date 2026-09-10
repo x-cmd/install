@@ -8,7 +8,7 @@ x:
   source: https://github.com/kenorb-contrib/tg
   apt: libreadline-dev
   dnf: lua-devel
-  brew: tg
+  brew: ivoputzer/tg/tg
   apt-get: libreadline-dev
   yum: lua-devel
   zypper: lua-devel

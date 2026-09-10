@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/tw93/Mole
   eget: https://github.com/tw93/Mole
-  brew: tw93/tap/mole
-rule:
+  brew: tw93/tap/molerule:
   /eget:
     cmd: x eget tw93/Mole
     reference: https://x-cmd.com/mod/eget

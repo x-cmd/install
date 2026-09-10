@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/1jehuang/jcode
   eget: https://github.com/1jehuang/jcode
-  brew: jcode
+  brew: 1jehuang/jcode/jcode
   cargo: --git
 rule:
   /eget:

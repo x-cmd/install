@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/ordinals/ord
   eget: https://github.com/ordinals/ord
-  brew: ord
-rule:
+  brew: ordrule:
   /eget:
     cmd: x eget ordinals/ord
     reference: https://x-cmd.com/mod/eget

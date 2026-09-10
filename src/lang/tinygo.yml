@@ -7,7 +7,7 @@ x:
   source: https://github.com/tinygo-org/tinygo
   eget: https://github.com/tinygo-org/tinygo
   dnf: tinygo
-  brew: tinygo
+  brew: tinygo-org/tools/tinygo
   scoop: tinygo
   yay: tinygo-bin
 rule:

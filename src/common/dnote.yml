@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/dnote/dnote
   eget: https://github.com/dnote/dnote
-  brew: dnote
+  brew: dnote/dnote/dnote
   yay: dnote-cli-bin
 rule:
   /x:

@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/libslirp#default
 
 x:
-  brew: libslirp
-binlist:
+  brew: libslirpbinlist:
 - libslirp
 license: NOASSERTION
 

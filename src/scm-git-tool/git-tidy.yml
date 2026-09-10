@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/drewwyatt/git-tidy
   eget: https://github.com/drewwyatt/git-tidy
-  brew: git-tidy
+  brew: drewwyatt/tap/git-tidy
   cargo: git-tidy
 rule:
   /eget:

@@ -9,7 +9,7 @@ x:
   eget: https://github.com/openssl/openssl
   apt: openssl
   dnf: openssl
-  brew: openssl@3.0
+  brew: openssl
   pacman: openssl
   apk: openssl
   apt-get: openssl

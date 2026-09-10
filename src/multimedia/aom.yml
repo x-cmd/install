@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/aom#default
 
 x:
-  brew: aom
-binlist:
+  brew: aombinlist:
 - aom
 license: NOASSERTION
 

@@ -18,8 +18,7 @@ x:
   choco: wecom
   winget: Tencent.WeCom
   powershell: wecom
-  brew: --cask
-binlist:
+  brew: --caskbinlist:
 - WeChat-Work
 license: NOASSERTION
 

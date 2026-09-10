@@ -8,8 +8,7 @@ x:
   source: https://github.com/unkn0wn-root/resterm
   eget: https://github.com/unkn0wn-root/resterm
   apt: jq'
-  brew: jq'
-rule:
+  brew: jqrule:
   darwin/brew:
     cmd: 'brew install jq'
     reference: https://github.com/unkn0wn-root/resterm

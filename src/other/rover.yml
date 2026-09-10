@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/apollographql/rover
   eget: https://github.com/apollographql/rover
-  brew: rover
-rule:
+  brew: roverrule:
   /eget:
     cmd: x eget apollographql/rover
     reference: https://x-cmd.com/mod/eget

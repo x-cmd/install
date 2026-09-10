@@ -13,8 +13,7 @@ rule:
     reference: https://refactoringhq.github.io/tolaria/download/
 
 x:
-  brew: --cask
-binlist:
+  brew: --caskbinlist:
 - tolaria
 # complicated
 footprint:

@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/fluxcd/flux2
   eget: https://github.com/fluxcd/flux2
-  brew: fluxcd/tap/flux
-rule:
+  brew: fluxcd/tap/fluxrule:
   /eget:
     cmd: x eget fluxcd/flux2
     reference: https://x-cmd.com/mod/eget

@@ -6,8 +6,7 @@ desc:
   en: Atlas is a language-agnostic tool for managing and migrating database schemas using modern DevOps principles
 x:
   source: https://github.com/ariga/atlas
-  brew: ariga/tap/atlas
-rule:
+  brew: ariga/tap/atlasrule:
   /curl:
     cmd: curl -sSf https://atlasgo.sh | sh
     reference: https://github.com/ariga/atlas?tab=readme-ov-file#quick-installation

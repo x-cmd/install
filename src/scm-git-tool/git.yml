@@ -77,8 +77,7 @@ x:
   apk: git
   emerge: --verbose
   pkg: git
-  brew: git
-binlist:
+  brew: gitbinlist:
 - git
 license: NOASSERTION
 

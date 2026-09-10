@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/okbob/pspg
   eget: https://github.com/okbob/pspg
-  brew: pspg'
-rule:
+  brew: pspgrule:
   darwin/brew:
     cmd: 'brew install pspg'
     reference: https://github.com/okbob/pspg

@@ -9,7 +9,7 @@ x:
   eget: https://github.com/cloudfoundry/cli
   apt: cf8-cli
   dnf: cf8-cli
-  brew: cloudfoundry/tap/cf-cli@8
+  brew: cloudfoundry/tap/cf-cli
   apt-get: cf8-cli
   yum: cf8-cli
 rule:

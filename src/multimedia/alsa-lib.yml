@@ -6,8 +6,7 @@ desc:
   en: Provides audio and MIDI functionality to the Linux operating system
 x:
   source: https://github.com/alsa-project/alsa-lib
-  brew: alsa-lib
-rule:
+  brew: alsa-librule:
   darwin/brew:
     cmd: brew install alsa-lib
     reference: https://formulae.brew.sh/formula/alsa-lib#default

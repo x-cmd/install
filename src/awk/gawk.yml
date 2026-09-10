@@ -51,8 +51,7 @@ x:
   pacman: gawk
   apk: gawk
   emerge: gawk
-  brew: gawk
-binlist:
+  brew: gawkbinlist:
 - gawk
 license: NOASSERTION
 

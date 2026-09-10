@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/hisbaan/didyoumean
   eget: https://github.com/hisbaan/didyoumean
-  brew: didyoumean
+  brew: hisbaan/tap/didyoumean
   nix: -iA
   yay: didyoumean
   cargo: didyoumean

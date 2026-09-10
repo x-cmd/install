@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/dav1d#default
 
 x:
-  brew: dav1d
-binlist:
+  brew: dav1dbinlist:
 - dav1d
 license: NOASSERTION
 

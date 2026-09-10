@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/fmtlib/fmt
   eget: https://github.com/fmtlib/fmt
-  brew: fmt
-rule:
+  brew: fmtrule:
   /eget:
     cmd: x eget fmtlib/fmt
     reference: https://x-cmd.com/mod/eget

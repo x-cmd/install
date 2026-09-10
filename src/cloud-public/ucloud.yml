@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/ucloud/ucloud-cli
   eget: https://github.com/ucloud/ucloud-cli
-  brew: ucloud
-rule:
+  brew: ucloudrule:
   /x:
     cmd: x pkg use ucloud
     reference: https://x-cmd.com/install/

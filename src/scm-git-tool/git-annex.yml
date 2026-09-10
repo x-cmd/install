@@ -35,8 +35,7 @@ x:
   apt-get: git-annex
   dnf: git-annex
   pacman: git-annex
-  brew: git-annex
-binlist:
+  brew: git-annexbinlist:
 - git-annex
 license: NOASSERTION
 

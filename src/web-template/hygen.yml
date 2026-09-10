@@ -7,7 +7,7 @@ lang: JavaScript
 x:
   source: https://github.com/jondot/hygen
   eget: https://github.com/jondot/hygen
-  brew: hygen
+  brew: jondot/tap/hygen
   asdf: hygen
 rule:
   /x:

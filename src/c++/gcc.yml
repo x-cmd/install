@@ -36,8 +36,7 @@ x:
   yum: gcc
   pacman: gcc
   apk: gcc
-  brew: gcc
-binlist:
+  brew: gccbinlist:
 - gcc
 license: NOASSERTION
 

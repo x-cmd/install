@@ -8,7 +8,7 @@ x:
   source: https://github.com/cjbassi/ytop
   eget: https://github.com/cjbassi/ytop
   dnf: ytop
-  brew: ytop
+  brew: cjbassi/ytop/ytop
   yay: ytop
   cargo: ytop
 rule:

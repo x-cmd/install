@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/docbook/docbook
   eget: https://github.com/docbook/docbook
-  brew: docbook
-rule:
+  brew: docbookrule:
   /eget:
     cmd: x eget docbook/docbook
     reference: https://x-cmd.com/mod/eget

@@ -44,8 +44,7 @@ x:
   yum: dash
   pacman: dash
   apk: dash
-  brew: dash
-binlist:
+  brew: dashbinlist:
 - dash
 license: NOASSERTION
 

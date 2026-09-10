@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/0xjuanma/golazo
   eget: https://github.com/0xjuanma/golazo
-  brew: 0xjuanma/tap/golazo'
-rule:
+  brew: 0xjuanma/tap/golazorule:
   darwin/brew:
     cmd: 'brew install 0xjuanma/tap/golazo'
     reference: https://github.com/0xjuanma/golazo

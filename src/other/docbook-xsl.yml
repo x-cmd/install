@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/docbook/xslt10-stylesheets
   eget: https://github.com/docbook/xslt10-stylesheets
-  brew: docbook-xsl
-rule:
+  brew: docbook-xslrule:
   /eget:
     cmd: x eget docbook/xslt10-stylesheets
     reference: https://x-cmd.com/mod/eget

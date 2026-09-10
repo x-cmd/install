@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/wallix/awless
   eget: https://github.com/wallix/awless
-  brew: awless
+  brew: wallix/awless/awless
   yay: awless
 rule:
   /eget:

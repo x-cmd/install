@@ -36,8 +36,7 @@ x:
   yum: fontconfig
   pacman: fontconfig
   apk: fontconfig
-  brew: fontconfig
-binlist:
+  brew: fontconfigbinlist:
 - fontconfig
 license: NOASSERTION
 

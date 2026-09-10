@@ -6,8 +6,7 @@ desc:
   cn: CppUnit 是著名的 JUnit 框架 for unit 的 C + + 端口测试
 x:
   source: https://github.com/Ultimaker/CppUnit
-  brew: cppunit
-rule:
+  brew: cppunitrule:
   darwin/brew:
     cmd: brew install cppunit
     reference: https://formulae.brew.sh/formula/cppunit#default

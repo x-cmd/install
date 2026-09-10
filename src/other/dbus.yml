@@ -9,8 +9,7 @@ rule:
     reference: https://formulae.brew.sh/formula/dbus#default
 
 x:
-  brew: dbus
-binlist:
+  brew: dbusbinlist:
 - dbus
 license: NOASSERTION
 
