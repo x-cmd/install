@@ -10,8 +10,7 @@ x:
   brew: coursier/formulas/coursier
   yay: coursier
   pacaur: coursier
-  asdf: asdf
-  curl: curl
+  asdf: coursier
 rule:
   /eget:
     cmd: x eget coursier/coursier

@@ -12,7 +12,7 @@ x:
   pacman: zellij
   port: zellij
   xbps: zellij
-  asdf: asdf
+  asdf: zellij
 rule:
   /x:
     cmd: x pkg use zellij

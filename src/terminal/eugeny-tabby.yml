@@ -12,7 +12,6 @@ x:
   winget: -e
   powershell: install
   yay: tabby-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget Eugeny/tabby

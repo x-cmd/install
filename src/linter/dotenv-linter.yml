@@ -8,7 +8,6 @@ x:
   source: https://github.com/dotenv-linter/dotenv-linter
   eget: https://github.com/dotenv-linter/dotenv-linter
   yay: dotenv-linter-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use dotenv-linter

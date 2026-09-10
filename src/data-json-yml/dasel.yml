@@ -9,7 +9,7 @@ x:
   eget: https://github.com/tomwright/dasel
   brew: dasel
   yay: dasel
-  asdf: asdf
+  asdf: dasel
 rule:
   /x:
     cmd: x pkg use dasel

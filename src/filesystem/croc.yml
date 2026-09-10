@@ -19,7 +19,6 @@ x:
   powershell: croc
   yay: croc-git
   go: github.com/schollz/croc/v9@latest
-  curl: curl
   pkg: croc
 rule:
   /x:

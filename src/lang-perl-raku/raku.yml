@@ -14,7 +14,7 @@ x:
   emerge: --verbose
   scoop: rakudo-moar
   yay: rakudo
-  asdf: asdf
+  asdf: raku
 rule:
   /x:
     cmd: x pkg use raku

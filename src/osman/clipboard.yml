@@ -18,7 +18,6 @@ x:
   flatpak: app.getclipboard.Clipboard
   pacstall: clipboard-bin
   yay: clipboard
-  curl: curl
 rule:
   /eget:
     cmd: x eget Slackadays/Clipboard

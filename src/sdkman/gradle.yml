@@ -13,7 +13,7 @@ x:
   apk: gradle
   apt-get: gradle
   yay: gradle
-  asdf: asdf
+  asdf: gradle
 rule:
   /x:
     cmd: x pkg use gradle

@@ -19,7 +19,6 @@ rule:
 
 x:
   yay: sunloginclient
-  wget: wget
 binlist:
 - sunlogin-cli
 license: NOASSERTION

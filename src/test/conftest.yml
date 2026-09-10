@@ -9,7 +9,7 @@ x:
   brew: conftest
   scoop: conftest
   yay: conftest
-  asdf: asdf
+  asdf: conftest
 rule:
   /eget:
     cmd: x eget open-policy-agent/conftest

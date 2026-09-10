@@ -11,8 +11,6 @@ x:
   port: youtube-dl
   yay: youtube-dl
   pip: --upgrade
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget ytdl-org/youtube-dl

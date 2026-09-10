@@ -11,7 +11,7 @@ x:
   port: ki-shell
   trizen: ki-shell-bin
   yay: ki-shell-bin
-  asdf: asdf
+  asdf: ki
 rule:
   /eget:
     cmd: x eget Kotlin/kotlin-interactive-shell

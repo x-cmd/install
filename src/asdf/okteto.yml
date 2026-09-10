@@ -9,8 +9,7 @@ x:
   eget: https://github.com/okteto/okteto
   brew: okteto
   scoop: okteto
-  asdf: asdf
-  curl: curl
+  asdf: okteto
 rule:
   /eget:
     cmd: x eget okteto/okteto

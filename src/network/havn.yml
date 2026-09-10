@@ -8,7 +8,6 @@ x:
   source: https://github.com/mrjackwills/havn
   pacman: havn
   cargo: havn
-  curl: curl
 rule:
   /curl:
     cmd: curl https://raw.githubusercontent.com/mrjackwills/havn/main/install.sh | bash

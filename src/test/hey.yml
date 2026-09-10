@@ -10,7 +10,7 @@ x:
   brew: hey
   apt-get: hey
   yay: hey-bin
-  asdf: asdf
+  asdf: hey
 rule:
   /x:
     cmd: x pkg use hey

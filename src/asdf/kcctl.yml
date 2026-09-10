@@ -8,8 +8,7 @@ x:
   source: https://github.com/kcctl/kcctl
   eget: https://github.com/kcctl/kcctl
   brew: kcctl/tap/kcctl
-  asdf: asdf
-  wget: wget
+  asdf: kcctl
 rule:
   /eget:
     cmd: x eget kcctl/kcctl
@@ -21,11 +20,7 @@ rule:
     cmd: brew install kcctl/tap/kcctl
     reference: https://github.com/kcctl/kcctl?tab=readme-ov-file#installation
   /wget:
-    cmd: 'wget https://raw.githubusercontent.com/kcctl/kcctl/main/kcctl_completion \
-
-      && . kcctl_completion
-
-      '
+    cmd: ". <(wget -O - https://raw.githubusercontent.com/kcctl/kcctl/main/kcctl_completion)"
     reference: https://github.com/kcctl/kcctl?tab=readme-ov-file#installation
   /asdf:
     cmd: x asdf use kcctl

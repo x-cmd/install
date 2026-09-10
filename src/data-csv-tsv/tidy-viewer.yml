@@ -12,7 +12,6 @@ x:
   yay: tidy-viewer
   paru: tidy-viewer
   cargo: tidy-viewer
-  wget: wget
 rule:
   /eget:
     cmd: x eget alexhallam/tv

@@ -11,7 +11,7 @@ x:
   scoop: buf
   yay: buf-bin
   npm: "@bufbuild/buf"
-  asdf: asdf
+  asdf: buf
 rule:
   /eget:
     cmd: x eget bufbuild/buf

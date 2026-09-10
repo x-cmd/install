@@ -8,7 +8,7 @@ x:
   source: https://github.com/kudobuilder/kuttl
   eget: https://github.com/kudobuilder/kuttl
   brew: kuttl-cli
-  asdf: asdf
+  asdf: kuttl
 rule:
   /eget:
     cmd: x eget kudobuilder/kuttl

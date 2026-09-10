@@ -18,7 +18,7 @@ x:
   choco: watchexec
   powershell: watchexec
   cargo: --locked
-  asdf: asdf
+  asdf: watchexec
 rule:
   /x:
     cmd: x pkg use watchexec

@@ -9,7 +9,7 @@ x:
   eget: https://github.com/etcd-io/etcd
   brew: etcd
   yay: etcd
-  asdf: asdf
+  asdf: etcd
 rule:
   /eget:
     cmd: x eget etcd-io/etcd

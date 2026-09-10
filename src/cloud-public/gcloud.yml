@@ -6,7 +6,7 @@ desc:
 x:
   brew: --cask
   snap: google-cloud-cli
-  asdf: asdf
+  asdf: gcloud
 rule:
   /x:
     cmd: x pkg use gcloud

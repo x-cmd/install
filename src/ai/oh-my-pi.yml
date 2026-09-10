@@ -9,7 +9,6 @@ x:
   eget: https://github.com/can1357/oh-my-pi
   brew: can1357/tap/omp
   nix: github:can1357/oh-my-pi#install
-  curl: curl
 rule:
   /eget:
     cmd: x eget can1357/oh-my-pi

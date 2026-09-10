@@ -11,7 +11,7 @@ x:
   pacman: ant
   apt-get: ant
   yum: ant
-  asdf: asdf
+  asdf: ant
 rule:
   /x:
     cmd: x pkg use ant

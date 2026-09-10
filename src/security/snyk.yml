@@ -9,7 +9,7 @@ x:
   brew: snyk
   scoop: snyk
   npm: snyk@latest
-  asdf: asdf
+  asdf: snyk
 rule:
   /x:
     cmd: x pkg use snyk

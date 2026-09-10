@@ -15,7 +15,7 @@ x:
   choco: kubens
   winget: ahmetb.kubectx
   powershell: kubens
-  asdf: asdf
+  asdf: kubectx
 rule:
   /x:
     cmd: x pkg use kubectx

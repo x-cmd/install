@@ -10,7 +10,6 @@ x:
   brew: d2
   scoop: d2
   go: oss.terrastruct.com/d2
-  curl: curl
 rule:
   /eget:
     cmd: x eget terrastruct/d2

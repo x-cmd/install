@@ -9,7 +9,7 @@ x:
   brew: kubectl-buildkit
   choco: .\kubectl-buildkit*.nupkg
   powershell: .\kubectl-buildkit*.nupkg
-  asdf: asdf
+  asdf: kubectl-buildkit
 rule:
   /eget:
     cmd: x eget vmware-archive/buildkit-cli-for-kubectl

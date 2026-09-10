@@ -33,7 +33,6 @@ x:
   yay: adguardian
   paru: adguardian
   cargo: adguardian
-  curl: curl
   git: https://aur.archlinux.org/adguardian.git
 binlist:
 - adguardian

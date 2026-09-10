@@ -9,7 +9,6 @@ rule:
     reference: https://tiron.run/docs/getting-started/overview/
 
 x:
-  curl: curl
 binlist:
 - tiron
 license: NOASSERTION

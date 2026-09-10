@@ -13,7 +13,7 @@ x:
   apk: php
   apt-get: php
   yum: php-cli
-  asdf: asdf
+  asdf: php
 rule:
   /asdf:
     cmd: x asdf use php

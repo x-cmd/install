@@ -9,8 +9,7 @@ x:
   eget: https://github.com/bytecodealliance/wasmtime
   brew: wasmtime
   yay: wasmtime-git
-  asdf: asdf
-  curl: curl
+  asdf: wasmtime
 rule:
   /x:
     cmd: x pkg use wasmtime

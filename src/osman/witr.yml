@@ -14,7 +14,6 @@ x:
   yay: witr-bin
   paru: witr-bin
   go: github.com/pranshuparmar/witr/cmd/witr@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget use pranshuparmar/witr

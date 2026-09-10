@@ -13,7 +13,7 @@ x:
   scoop: extras/viddy
   yay: viddy
   go: github.com/sachaos/viddy@latest
-  asdf: asdf
+  asdf: viddy
 rule:
   /x:
     cmd: x pkg use viddy

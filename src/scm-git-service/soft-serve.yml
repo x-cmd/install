@@ -13,8 +13,7 @@ x:
   pacman: soft-serve
   yum: soft-serve
   port: lazygit
-  asdf: asdf
-  curl: curl
+  asdf: soft-serve
 rule:
   /x:
     cmd: x pkg use soft-serve

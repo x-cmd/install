@@ -10,7 +10,6 @@ x:
   brew: jesseduffield/horcrux/horcrux
   scoop: horcrux
   yay: horcrux
-  curl: curl
 rule:
   /x:
     cmd: x pkg use horcrux

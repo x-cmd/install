@@ -9,7 +9,7 @@ x:
   eget: https://github.com/kubernetes-sigs/kind
   brew: kind
   yay: kind-bin
-  asdf: asdf
+  asdf: kind
 rule:
   /x:
     cmd: x pkg use kind

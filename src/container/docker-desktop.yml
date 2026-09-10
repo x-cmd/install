@@ -13,8 +13,6 @@ x:
   choco: docker-desktop
   winget: -e
   powershell: docker-desktop
-  curl: curl
-  wget: wget
 rule:
   darwin/brew:
     cmd: brew install --cask docker

@@ -7,7 +7,6 @@ x:
   source: https://github.com/beyondgrep/ack3
   brew: ack
   scoop: ack
-  curl: curl
 rule:
   /curl:
     cmd: curl https://beyondgrep.com/ack-v3.7.0 > ~/bin/ack && chmod 0755 ~/bin/ack

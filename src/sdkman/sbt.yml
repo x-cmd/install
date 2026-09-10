@@ -15,8 +15,7 @@ x:
   scoop: sbt
   choco: sbt
   powershell: sbt
-  asdf: asdf
-  curl: curl
+  asdf: sbt
 rule:
   /eget:
     cmd: x eget sbt/sbt

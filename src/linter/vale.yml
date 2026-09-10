@@ -10,8 +10,7 @@ x:
   brew: vale
   choco: vale
   powershell: vale
-  asdf: asdf
-  wget: wget
+  asdf: vale
 rule:
   /x:
     cmd: x pkg use vale

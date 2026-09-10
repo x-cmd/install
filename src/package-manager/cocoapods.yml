@@ -7,7 +7,7 @@ x:
   source: https://github.com/CocoaPods/CocoaPods
   brew: cocoapods
   gem: cocoapods
-  asdf: asdf
+  asdf: cocoapods
 rule:
   /asdf:
     cmd: x asdf use cocoapods

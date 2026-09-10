@@ -11,7 +11,7 @@ x:
   zypper: timoni
   yay: timoni
   go: github.com/stefanprodan/timoni/cmd/timoni@latest
-  asdf: asdf
+  asdf: timoni
 rule:
   /eget:
     cmd: x eget stefanprodan/timoni

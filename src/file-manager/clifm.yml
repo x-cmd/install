@@ -102,8 +102,6 @@ x:
   port: clifm
   brew: clifm
   yay: clifm
-  curl: curl
-  wget: wget
 binlist:
 - clifm
 license: NOASSERTION

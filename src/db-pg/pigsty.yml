@@ -6,7 +6,6 @@ desc:
   en: Pigsty is a Me-Better Open-Source RDS Alternative
 x:
   source: https://github.com/Vonng/pigsty
-  curl: curl
 rule:
   /curl:
     cmd: 'curl https://get.pigsty.cc/latest | bash

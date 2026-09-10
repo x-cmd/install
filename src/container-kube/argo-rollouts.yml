@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/argoproj/argo-rollouts
   yay: kubectl-argo-rollouts-bin
-  asdf: asdf
+  asdf: argo-rollouts
 rule:
   arch/yay:
     cmd: yay -S kubectl-argo-rollouts-bin

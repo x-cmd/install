@@ -8,7 +8,7 @@ x:
   source: https://github.com/iann0036/iamlive
   eget: https://github.com/iann0036/iamlive
   brew: iann0036/iamlive/iamlive
-  asdf: asdf
+  asdf: iamlive
 rule:
   /x:
     cmd: x pkg use iamlive

@@ -14,7 +14,6 @@ x:
   powershell: install
   yay: fresh-editor-bin
   cargo: --locked
-  curl: curl
 rule:
   /eget:
     cmd: x eget sinelaw/fresh

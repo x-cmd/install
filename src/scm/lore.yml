@@ -8,7 +8,6 @@ desc:
 x:
   source: https://github.com/epicgames/lore
   eget: https://github.com/epicgames/lore
-  curl: curl
 rule:
   /eget:
     cmd: x eget epicgames/lore

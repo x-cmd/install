@@ -14,8 +14,7 @@ x:
   scoop: tektoncd-cli
   choco: tektoncd-cli
   powershell: tektoncd-cli
-  asdf: asdf
-  curl: curl
+  asdf: tekton-cli
 rule:
   /eget:
     cmd: x eget tektoncd/cli

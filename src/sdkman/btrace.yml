@@ -7,8 +7,6 @@ desc:
 x:
   source: https://github.com/btraceio/btrace
   eget: https://github.com/btraceio/btrace
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget btraceio/btrace

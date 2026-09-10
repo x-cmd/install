@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/replicatedhq/kots
   yay: kubectl-kots-bin
-  asdf: asdf
-  curl: curl
+  asdf: kubectl-kots
 rule:
   arch/yay:
     cmd: yay -S kubectl-kots-bin

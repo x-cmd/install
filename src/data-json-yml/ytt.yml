@@ -9,8 +9,7 @@ x:
   eget: https://github.com/carvel-dev/ytt
   brew: ytt
   yay: ytt
-  asdf: asdf
-  curl: curl
+  asdf: ytt
 rule:
   /x:
     cmd: x pkg use ytt

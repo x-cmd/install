@@ -11,7 +11,7 @@ x:
   winget: YannHamon.kubeconform
   powershell: install
   go: github.com/yannh/kubeconform/cmd/kubeconform@latest
-  asdf: asdf
+  asdf: kubeconform
 rule:
   /eget:
     cmd: x eget yannh/kubeconform

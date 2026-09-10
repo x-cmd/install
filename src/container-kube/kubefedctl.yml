@@ -6,7 +6,7 @@ desc:
   en: Federation for managing and coordinating multiple Kubernetes clusters
 x:
   source: https://github.com/kubernetes-retired/kubefed
-  asdf: asdf
+  asdf: kubefedctl
 rule:
   /asdf:
     cmd: x asdf use kubefedctl

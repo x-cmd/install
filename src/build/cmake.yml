@@ -9,7 +9,7 @@ x:
   eget: https://github.com/Kitware/CMake
   brew: cmake
   scoop: cmake
-  asdf: asdf
+  asdf: cmake
 rule:
   /eget:
     cmd: x eget Kitware/CMake

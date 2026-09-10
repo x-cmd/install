@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/docToolchain/docToolchain
   eget: https://github.com/docToolchain/docToolchain
-  asdf: asdf
+  asdf: doctoolchain
 rule:
   /eget:
     cmd: x eget docToolchain/docToolchain

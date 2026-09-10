@@ -12,7 +12,7 @@ x:
   pacman: groovy
   apt-get: groovy
   yum: groovy
-  asdf: asdf
+  asdf: groovy
 rule:
   /x:
     cmd: x pkg use groovy

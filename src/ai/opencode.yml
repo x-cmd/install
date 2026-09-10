@@ -10,7 +10,6 @@ x:
   brew: opencode
   scoop: extras/opencode
   paru: opencode-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use opencode

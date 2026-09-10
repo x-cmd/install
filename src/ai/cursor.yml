@@ -10,7 +10,6 @@ x:
   winget: Cursor.Cursor
   powershell: install
   yay: cursor-bin
-  curl: curl
 rule:
   /curl:
     cmd: curl https://cursor.com/install -fsS | bash

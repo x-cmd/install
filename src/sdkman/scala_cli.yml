@@ -16,7 +16,6 @@ x:
   winget: virtuslab.scalacli
   powershell: scala-cli
   yay: scala-cli
-  curl: curl
 rule:
   /eget:
     cmd: x eget VirtusLab/scala-cli

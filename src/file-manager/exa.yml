@@ -11,7 +11,7 @@ x:
   pacman: exa
   zypper: exa
   emerge: sys-apps/exa
-  asdf: asdf
+  asdf: exa
 rule:
   /x:
     cmd: x pkg use exa

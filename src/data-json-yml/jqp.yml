@@ -10,7 +10,7 @@ x:
   brew: noahgorstein/tap/jqp
   port: jqp
   yay: jqp-bin
-  asdf: asdf
+  asdf: jqp
 rule:
   /x:
     cmd: x pkg use jqp

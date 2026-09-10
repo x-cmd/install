@@ -9,7 +9,6 @@ x:
   eget: https://github.com/moncho/dry
   brew: dry
   yay: dry-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use dry

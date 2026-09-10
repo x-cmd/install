@@ -10,7 +10,7 @@ x:
   brew: typos-cli
   yay: typos-git
   cargo: typos-cli
-  asdf: asdf
+  asdf: typos
 rule:
   /x:
     cmd: x pkg use typos

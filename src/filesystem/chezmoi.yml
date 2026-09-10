@@ -18,7 +18,7 @@ x:
   choco: chezmoi
   winget: twpayne.chezmoi
   powershell: chezmoi
-  asdf: asdf
+  asdf: chezmoi
   git: https://github.com/twpayne/chezmoi.git
   make: make
   pkg: chezmoi

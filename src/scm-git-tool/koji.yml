@@ -9,7 +9,6 @@ x:
   eget: https://github.com/cococonscious/koji
   yay: git-koji-bin
   cargo: --locked
-  curl: curl
 rule:
   /eget:
     cmd: x eget cococonscious/koji

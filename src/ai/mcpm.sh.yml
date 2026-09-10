@@ -8,7 +8,6 @@ x:
   source: https://github.com/pathintegral-institute/mcpm.sh
   brew: mcpm
   pip: mcpm
-  curl: curl
 rule:
   /curl:
     cmd: curl -sSL https://mcpm.sh/install | bash

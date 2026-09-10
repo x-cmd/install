@@ -10,7 +10,7 @@ x:
   brew: grails
   pacman: grails
   yay: grails
-  asdf: asdf
+  asdf: grails
 rule:
   /eget:
     cmd: x eget apache/grails-core

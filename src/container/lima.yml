@@ -10,7 +10,7 @@ x:
   brew: lima
   port: lima
   yay: lima
-  asdf: asdf
+  asdf: lima
 rule:
   /eget:
     cmd: x eget lima-vm/lima

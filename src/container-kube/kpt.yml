@@ -10,7 +10,7 @@ x:
   brew: kpt
   yay: kpt-bin
   go: -v
-  asdf: asdf
+  asdf: kpt
 rule:
   /eget:
     cmd: x eget kptdev/kpt

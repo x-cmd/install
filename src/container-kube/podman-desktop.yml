@@ -10,7 +10,6 @@ x:
   winget: -e
   powershell: install
   flatpak: flathub
-  curl: curl
 rule:
   /flatpak:
     cmd: flatpak install flathub io.podman_desktop.PodmanDesktop

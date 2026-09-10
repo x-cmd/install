@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/ctxrs/ctx
   eget: https://github.com/ctxrs/ctx
-  curl: curl
 rule:
   /eget:
     cmd: x eget use ctxrs/ctx

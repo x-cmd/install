@@ -10,7 +10,7 @@ x:
   brew: argo
   scoop: argo
   yay: argo-bin
-  asdf: asdf
+  asdf: argo
 rule:
   /eget:
     cmd: x eget argoproj/argo-cd

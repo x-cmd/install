@@ -9,7 +9,6 @@ x:
   eget: https://github.com/metalbear-co/mirrord
   brew: metalbear-co/mirrord/mirrord
   yay: mirrord
-  curl: curl
 rule:
   /x:
     cmd: x pkg use mirrord

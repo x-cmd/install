@@ -76,7 +76,6 @@ rule:
 x:
   apt: linglong-builder
   dnf: linglong-builder
-  curl: curl
 binlist:
 - ll-cli
 license: NOASSERTION

@@ -17,8 +17,7 @@ x:
   port: vhs
   xbps: vhs
   scoop: vhs
-  asdf: asdf
-  curl: curl
+  asdf: vhs
 rule:
   /x:
     cmd: x pkg use vhs

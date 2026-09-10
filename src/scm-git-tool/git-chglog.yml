@@ -11,7 +11,7 @@ x:
   scoop: git-chglog
   yay: git-chglog
   go: github.com/git-chglog/git-chglog/cmd/git-chglog@latest
-  asdf: asdf
+  asdf: git-chglog
 rule:
   /x:
     cmd: x pkg use git-chglog

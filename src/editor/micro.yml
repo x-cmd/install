@@ -21,7 +21,6 @@ x:
   choco: micro
   powershell: micro
   pacstall: micro
-  curl: curl
 rule:
   /eget:
     cmd: x eget zyedidia/micro

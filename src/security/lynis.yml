@@ -14,8 +14,6 @@ x:
   yum: lynis
   zypper: lynis
   yay: lynis
-  curl: curl
-  wget: wget
   git: https://github.com/CISOfy/lynis
 rule:
   /x:

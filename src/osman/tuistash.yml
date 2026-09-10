@@ -10,7 +10,6 @@ x:
   brew: edmocosta/homebrew-tap/tuistash
   yay: tuistash
   paru: tuistash
-  curl: curl
   git: https://github.com/edmocosta/tuistash.git
   build: build
 rule:

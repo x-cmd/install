@@ -8,7 +8,7 @@ x:
   source: https://github.com/FairwindsOps/polaris
   eget: https://github.com/FairwindsOps/polaris
   brew: reactiveops/tap/polaris
-  asdf: asdf
+  asdf: polaris
 rule:
   /eget:
     cmd: x eget FairwindsOps/polaris

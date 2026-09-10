@@ -9,8 +9,7 @@ x:
   eget: https://github.com/python-poetry/poetry
   brew: poetry
   yay: python-poetry-git
-  asdf: asdf
-  curl: curl
+  asdf: poetry
 rule:
   /eget:
     cmd: x eget python-poetry/poetry

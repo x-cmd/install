@@ -12,7 +12,7 @@ x:
   choco: micronaut
   powershell: micronaut
   yay: micronaut
-  asdf: asdf
+  asdf: micronaut
 rule:
   /x:
     cmd: x pkg use micronaut

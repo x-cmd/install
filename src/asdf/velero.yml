@@ -10,7 +10,7 @@ x:
   brew: velero
   choco: velero
   powershell: velero
-  asdf: asdf
+  asdf: velero
 rule:
   /eget:
     cmd: x eget vmware-tanzu/velero

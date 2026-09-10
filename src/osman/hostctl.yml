@@ -10,7 +10,7 @@ x:
   brew: guumaster/tap/hostctl
   scoop: hostctl
   yay: hostctl
-  asdf: asdf
+  asdf: hostctl
 rule:
   /x:
     cmd: x pkg use hostctl

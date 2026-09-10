@@ -12,7 +12,7 @@ x:
   pacman: doctl
   snap: doctl
   port: doctl
-  asdf: asdf
+  asdf: doctl
 rule:
   /x:
     cmd: x pkg use doctl

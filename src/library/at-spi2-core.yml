@@ -8,7 +8,7 @@ x:
   source: https://github.com/GNOME/at-spi2-core
   brew: at-spi2-core
   yay: at-spi2-core-git
-  asdf: asdf
+  asdf: at-spi2-core
 rule:
   arch/yay:
     cmd: yay -S at-spi2-core-git

@@ -10,7 +10,7 @@ x:
   brew: cue-lang/tap/cue
   scoop: cue
   go: cuelang.org/go/cmd/cue@latest
-  asdf: asdf
+  asdf: cue
 rule:
   /eget:
     cmd: x eget cuelang/cue

@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/ducaale/xh
   eget: https://github.com/ducaale/xh
-  asdf: asdf
-  curl: curl
+  asdf: xh
 rule:
   /x:
     cmd: x pkg use xh

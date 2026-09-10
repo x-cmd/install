@@ -9,7 +9,6 @@ desc:
 x:
   source: https://github.com/smol-machines/smolvm
   eget: https://github.com/smol-machines/smolvm
-  curl: curl
 rule:
   /eget:
     cmd: x eget smol-machines/smolvm

@@ -9,7 +9,7 @@ x:
   eget: https://github.com/containerd/nerdctl
   brew: nerdctl
   yay: nerdctl-git
-  asdf: asdf
+  asdf: nerdctl
 rule:
   /eget:
     cmd: x eget containerd/nerdctl

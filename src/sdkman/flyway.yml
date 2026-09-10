@@ -12,7 +12,7 @@ x:
   choco: flyway.commandline
   powershell: flyway.commandline
   yay: flyway
-  asdf: asdf
+  asdf: flyway
 rule:
   /eget:
     cmd: x eget flyway/flyway

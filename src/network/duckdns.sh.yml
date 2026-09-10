@@ -6,7 +6,6 @@ desc:
 x:
   source: https://github.com/BeyondCodeBootcamp/DuckDNS.sh
   yay: duckdns
-  curl: curl
 rule:
   /webi:
     cmd: 'curl -sS https://webi.sh/duckdns.sh@v1 | sh \

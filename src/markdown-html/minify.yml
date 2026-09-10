@@ -13,7 +13,7 @@ x:
   pip: minify
   npm: minify
   go: ./cmd/minify
-  asdf: asdf
+  asdf: minify
   git: https://github.com/tdewolff/minify.git
   make: make
   pkg: minify

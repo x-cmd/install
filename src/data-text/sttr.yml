@@ -14,7 +14,6 @@ x:
   powershell: install
   yay: sttr-bin
   go: github.com/abhimanyu003/sttr@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget abhimanyu003/sttr

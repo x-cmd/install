@@ -9,7 +9,6 @@ x:
   eget: https://github.com/openclaw/openclaw
   yay: openclaw-git
   npm: openclaw@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget openclaw/openclaw

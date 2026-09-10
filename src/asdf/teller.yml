@@ -13,7 +13,7 @@ rule:
 
 x:
   brew: teller
-  asdf: asdf
+  asdf: teller
 binlist:
 - teller
 license: NOASSERTION

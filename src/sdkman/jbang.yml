@@ -13,8 +13,7 @@ x:
   choco: jbang
   powershell: jbang
   yay: jbang
-  asdf: asdf
-  curl: curl
+  asdf: jbang
 rule:
   /eget:
     cmd: x eget jbangdev/jbang

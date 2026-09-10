@@ -9,7 +9,7 @@ x:
   eget: https://github.com/mvdan/gofumpt
   yay: gofumpt-git
   go: mvdan.cc/gofumpt@latest
-  asdf: asdf
+  asdf: gofumpt
 rule:
   /x:
     cmd: x pkg use gofumpt

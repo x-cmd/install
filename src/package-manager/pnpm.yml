@@ -13,8 +13,7 @@ x:
   winget: pnpm
   powershell: pnpm
   npm: pnpm
-  asdf: asdf
-  curl: curl
+  asdf: pnpm
 rule:
   /eget:
     cmd: x eget pnpm/pnpm

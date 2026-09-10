@@ -12,7 +12,6 @@ x:
   powershell: install
   yay: claude-code
   npm: "@anthropic-ai/claude-code"
-  curl: curl
 rule:
   /x:
     cmd: x pkg use claude-code

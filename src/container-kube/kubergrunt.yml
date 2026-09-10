@@ -10,7 +10,7 @@ x:
   choco: kubergrunt
   powershell: kubergrunt
   yay: kubergrunt
-  asdf: asdf
+  asdf: kubergrunt
   build: build
 rule:
   /eget:

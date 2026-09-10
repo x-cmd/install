@@ -12,7 +12,7 @@ x:
   snap: fx
   scoop: fx
   go: github.com/antonmedv/fx@latest
-  asdf: asdf
+  asdf: fx
   pkg: fx
 rule:
   /x:

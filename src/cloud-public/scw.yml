@@ -11,7 +11,6 @@ x:
   pacman: scaleway-cli
   choco: scaleway-cli
   powershell: scaleway-cli
-  curl: curl
 rule:
   /x:
     cmd: x pkg use scw

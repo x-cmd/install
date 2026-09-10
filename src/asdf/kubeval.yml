@@ -8,8 +8,7 @@ x:
   eget: https://github.com/instrumenta/kubeval
   brew: c
   scoop: kubeval
-  asdf: asdf
-  wget: wget
+  asdf: kubeval
 rule:
   /eget:
     cmd: x eget instrumenta/kubeval

@@ -5,7 +5,6 @@ desc:
   en: PATH management tool for managing PATH on Windows 10, Mac and Linux
 x:
   npm: pathman
-  curl: curl
 rule:
   /x:
     cmd: x pkg use pathman

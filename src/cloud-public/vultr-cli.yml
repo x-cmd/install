@@ -10,7 +10,7 @@ x:
   dnf: vultr-cli
   brew: vultr/vultr-cli/vultr-cli
   pacman: vultr-cli
-  asdf: asdf
+  asdf: vultr-cli
 rule:
   /x:
     cmd: x pkg use vultr-cli

@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/claudioemmanuel/squeez
   npm: squeez
-  curl: curl
 rule:
   darwin/curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/claudioemmanuel/squeez/main/install.sh | sh

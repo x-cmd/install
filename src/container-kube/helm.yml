@@ -14,7 +14,7 @@ x:
   scoop: helm
   choco: kubernetes-helm
   powershell: kubernetes-helm
-  asdf: asdf
+  asdf: helm
   pkg: helm
 rule:
   /x:

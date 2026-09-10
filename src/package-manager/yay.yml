@@ -10,7 +10,7 @@ x:
   pacman: --needed
   makepkg: makepkg
   yay: yay
-  asdf: asdf
+  asdf: yay
   git: https://aur.archlinux.org/yay.git
 rule:
   /eget:

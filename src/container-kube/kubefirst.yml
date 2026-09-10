@@ -8,9 +8,7 @@ x:
   source: https://github.com/kubefirst/kubefirst
   eget: https://github.com/kubefirst/kubefirst
   brew: kubefirst/tools/kubefirst
-  asdf: asdf
-  curl: curl
-  wget: wget
+  asdf: kubefirst
 rule:
   /eget:
     cmd: x eget kubefirst/kubefirst

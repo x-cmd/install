@@ -10,7 +10,7 @@ x:
   brew: assh
   yay: assh-bin
   go: moul.io/assh/v2@latest
-  asdf: asdf
+  asdf: assh
 rule:
   /x:
     cmd: x pkg use assh

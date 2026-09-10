@@ -9,7 +9,6 @@ x:
   eget: https://github.com/alajmo/mani
   brew: mani
   pacman: mani
-  curl: curl
 rule:
   /eget:
     cmd: x eget alajmo/mani

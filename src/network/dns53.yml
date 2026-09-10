@@ -12,7 +12,6 @@ x:
   scoop: dns53
   yay: dns53-bin
   go: github.com/purpleclay/dns53@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget purpleclay/dns53

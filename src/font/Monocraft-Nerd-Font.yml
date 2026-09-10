@@ -8,8 +8,6 @@ x:
   source: https://github.com/IdreesInc/Monocraft
   eget: https://github.com/IdreesInc/Monocraft
   brew: --cask
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget IdreesInc/Monocraft

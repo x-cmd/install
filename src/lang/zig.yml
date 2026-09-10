@@ -19,7 +19,7 @@ x:
   choco: zig
   winget: zig.zig
   powershell: install
-  asdf: asdf
+  asdf: zig
   pkg: lang/zig
 rule:
   /eget:

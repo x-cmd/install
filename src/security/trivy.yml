@@ -12,8 +12,7 @@ x:
   apt-get: trivy
   port: trivy
   yay: trivy-bin
-  asdf: asdf
-  wget: wget
+  asdf: trivy
 rule:
   /x:
     cmd: x pkg use trivy

@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/linkerd/linkerd2
   eget: https://github.com/linkerd/linkerd2
-  asdf: asdf
+  asdf: linkerd
 rule:
   /eget:
     cmd: x eget linkerd/linkerd2

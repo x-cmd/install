@@ -16,7 +16,7 @@ x:
   emerge: borgbackup
   guix: --install
   pip: borgbackup
-  asdf: asdf
+  asdf: borg
   make: make
   pkg: borg
 rule:

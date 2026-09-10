@@ -17,7 +17,7 @@ x:
   winget: mitmproxy.mitmproxy
   powershell: install
   yay: mitmproxy-git
-  asdf: asdf
+  asdf: mitmproxy
 rule:
   /x:
     cmd: x pkg use mitmproxy

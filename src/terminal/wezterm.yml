@@ -15,7 +15,6 @@ x:
   winget: wez.wezterm
   powershell: wezterm
   flatpak: flathub
-  curl: curl
   build: build
   pkg: wezterm
 rule:

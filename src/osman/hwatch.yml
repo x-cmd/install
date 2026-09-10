@@ -12,7 +12,7 @@ x:
   yay: hwatch
   paru: hwatch
   cargo: hwatch
-  asdf: asdf
+  asdf: hwatch
 rule:
   /eget:
     cmd: x eget blacknon/hwatch

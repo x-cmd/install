@@ -9,7 +9,6 @@ x:
   brew: uv
   pip: uv
   cargo: uv
-  curl: curl
 rule:
   /x:
     cmd: x pkg use uv

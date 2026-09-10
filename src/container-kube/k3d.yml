@@ -12,7 +12,7 @@ x:
   brew: k3d
   apt-get: k3d
   yay: rancher-k3d-bin
-  asdf: asdf
+  asdf: k3d
 rule:
   /x:
     cmd: x pkg use k3d

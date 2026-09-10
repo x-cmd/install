@@ -9,8 +9,7 @@ x:
   brew: bun
   yay: bun-bin
   npm: bun
-  asdf: asdf
-  curl: curl
+  asdf: bun
 rule:
   /x:
     cmd: x pkg use bun

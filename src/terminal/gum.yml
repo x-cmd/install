@@ -16,8 +16,7 @@ x:
   scoop: charm-gum
   winget: charmbracelet.gum
   powershell: install
-  asdf: asdf
-  curl: curl
+  asdf: gum
 rule:
   /x:
     cmd: x pkg use gum

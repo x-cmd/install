@@ -12,7 +12,7 @@ x:
   apk: redis
   apt-get: redis-tools
   yay: redis
-  asdf: asdf
+  asdf: redis
 rule:
   /asdf:
     cmd: x asdf use redis

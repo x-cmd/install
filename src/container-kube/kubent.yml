@@ -9,8 +9,7 @@ x:
   eget: https://github.com/doitintl/kube-no-trouble
   brew: kubent
   yay: kubent-bin
-  asdf: asdf
-  curl: curl
+  asdf: kubent
 rule:
   /eget:
     cmd: x eget doitintl/kube-no-trouble

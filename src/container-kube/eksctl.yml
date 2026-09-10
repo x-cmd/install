@@ -11,7 +11,7 @@ x:
   choco: eksctl
   powershell: eksctl
   yay: eksctl-latest
-  asdf: asdf
+  asdf: eksctl
 rule:
   /eget:
     cmd: x eget eksctl-io/eksctl

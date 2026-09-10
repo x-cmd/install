@@ -7,7 +7,6 @@ license: MIT
 x:
   source: https://github.com/astral-sh/rye
   yay: rye-git
-  curl: curl
 rule:
   /x:
     cmd: x pkg use rye

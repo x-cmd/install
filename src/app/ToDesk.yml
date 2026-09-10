@@ -73,8 +73,6 @@ x:
   winget: Youqu.ToDesk
   powershell: install
   yay: todesk-appimage
-  curl: curl
-  wget: wget
 binlist:
 - ToDesk
 license: NOASSERTION

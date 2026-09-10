@@ -9,7 +9,7 @@ x:
   brew: wrk
   apt-get: wrk
   yay: wrk
-  asdf: asdf
+  asdf: wrk
 rule:
   /asdf:
     cmd: x asdf use wrk

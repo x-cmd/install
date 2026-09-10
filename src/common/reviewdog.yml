@@ -10,7 +10,6 @@ x:
   brew: reviewdog/tap/reviewdog
   scoop: reviewdog
   yay: reviewdog-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use reviewdog

@@ -9,7 +9,6 @@ x:
   eget: https://github.com/slimtoolkit/slim
   brew: docker-slim
   yay: docker-slim-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget slimtoolkit/slim

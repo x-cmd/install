@@ -5,7 +5,6 @@ desc:
   en: Render Mermaid graphs inside your terminal
 x:
   yay: mermaid-ascii-git
-  curl: curl
 rule:
   /x:
     cmd: x pkg use mermaid-ascii

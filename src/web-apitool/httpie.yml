@@ -15,7 +15,6 @@ x:
   choco: httpie
   powershell: httpie
   pip: --upgrade
-  curl: curl
   pacman: httpie
   pkg: www/py-httpie
 rule:

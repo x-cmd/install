@@ -9,7 +9,7 @@ x:
   eget: https://github.com/bridgecrewio/checkov
   brew: checkov
   pip: checkov
-  asdf: asdf
+  asdf: checkov
 rule:
   /eget:
     cmd: x eget bridgecrewio/checkov

@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/1Panel-dev/1Panel
   yay: 1panel
-  curl: curl
 rule:
   rhel/curl:
     cmd: curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_start.sh && sh quick_start.sh

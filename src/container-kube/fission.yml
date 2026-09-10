@@ -10,7 +10,7 @@ x:
   brew: --cask
   scoop: main/fission-cli
   yay: fission-bin
-  asdf: asdf
+  asdf: fission
 rule:
   /eget:
     cmd: x eget fission/fission

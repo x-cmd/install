@@ -11,7 +11,7 @@ x:
   pacman: kubie
   port: kubie
   cargo: kubie
-  asdf: asdf
+  asdf: kubie
 rule:
   /eget:
     cmd: x eget sbstp/kubie

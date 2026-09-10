@@ -8,7 +8,6 @@ x:
   source: https://github.com/qiniu/qshell
   eget: https://github.com/qiniu/qshell
   yay: qiniu-qshell-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use qshell

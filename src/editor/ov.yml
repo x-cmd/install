@@ -11,7 +11,6 @@ x:
   pacman: ov
   port: ov
   go: github.com/noborus/ov@latest
-  curl: curl
   pkg: ov
 rule:
   /eget:

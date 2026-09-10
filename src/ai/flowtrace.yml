@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/AIScientists-Dev/flowtrace
   cargo: --git
-  curl: curl
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/AIScientists-Dev/flowtrace flowtrace-cli

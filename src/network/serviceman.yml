@@ -4,7 +4,6 @@ desc:
   cn: 适用于 Mac、Linux 和 Windows 的跨平台 service management
   en: Cross-platform service management for Mac, Linux, and Windows
 x:
-  curl: curl
 rule:
   /x:
     cmd: x pkg use serviceman

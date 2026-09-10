@@ -6,7 +6,6 @@ desc:
   en: Prettyping is a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read
 x:
   source: https://github.com/denilsonsa/prettyping
-  curl: curl
 rule:
   /curl:
     cmd: 'curl -O https://raw.githubusercontent.com/denilsonsa/prettyping/master/prettyping \

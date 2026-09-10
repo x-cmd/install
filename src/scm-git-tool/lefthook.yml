@@ -18,7 +18,7 @@ x:
   yay: lefthook
   pip: --user
   npm: lefthook
-  asdf: asdf
+  asdf: lefthook
 rule:
   /x:
     cmd: x pkg use lefthook

@@ -6,7 +6,7 @@ desc:
   en: Automatically provision and manage TLS certificates in Kubernetes
 x:
   source: https://github.com/cert-manager/cert-manager
-  asdf: asdf
+  asdf: cmctl
 rule:
   /x:
     cmd: x pkg use cmctl

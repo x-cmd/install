@@ -8,7 +8,7 @@ x:
   source: https://github.com/elementalvoid/tonnage
   eget: https://github.com/elementalvoid/tonnage
   go: github.com/elementalvoid/tonnage@latest
-  asdf: asdf
+  asdf: tonnage
 rule:
   /eget:
     cmd: x eget elementalvoid/tonnage

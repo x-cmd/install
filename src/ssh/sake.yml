@@ -11,7 +11,6 @@ x:
   pacman: sake
   port: sake
   go: github.com/alajmo/sake@latest
-  curl: curl
   pkg: sake
 rule:
   /eget:

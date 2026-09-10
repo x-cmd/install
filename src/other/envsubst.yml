@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/a8m/envsubst
   eget: https://github.com/a8m/envsubst
-  asdf: asdf
-  curl: curl
+  asdf: envsubst
 rule:
   /x:
     cmd: x pkg use envsubst

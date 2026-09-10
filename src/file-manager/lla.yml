@@ -10,7 +10,6 @@ x:
   brew: lla
   paru: lla
   cargo: lla
-  curl: curl
 rule:
   /eget:
     cmd: x eget chaqchase/lla

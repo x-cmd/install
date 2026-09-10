@@ -12,7 +12,6 @@ x:
   brew: ddev/ddev/ddev
   apt-get: -y
   yay: ddev-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget ddev/ddev

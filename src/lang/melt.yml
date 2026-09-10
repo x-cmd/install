@@ -12,8 +12,7 @@ x:
   scoop: melt
   yay: melt-bin
   go: github.com/charmbracelet/melt/cmd/melt@latest
-  asdf: asdf
-  curl: curl
+  asdf: melt
   git: https://github.com/charmbracelet/melt.git
   build: build
 rule:

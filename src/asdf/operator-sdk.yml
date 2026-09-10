@@ -8,7 +8,7 @@ x:
   source: https://github.com/operator-framework/operator-sdk
   eget: https://github.com/operator-framework/operator-sdk
   brew: operator-sdk
-  asdf: asdf
+  asdf: operator-sdk
 rule:
   /eget:
     cmd: x eget operator-framework/operator-sdk

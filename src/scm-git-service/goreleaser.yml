@@ -13,8 +13,7 @@ x:
   scoop: goreleaser
   yay: goreleaser-bin
   go: github.com/goreleaser/goreleaser@latest
-  asdf: asdf
-  curl: curl
+  asdf: goreleaser
 rule:
   /x:
     cmd: x pkg use goreleaser

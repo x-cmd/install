@@ -13,8 +13,7 @@ x:
   powershell: wasmer
   yay: wasmer-git
   cargo: wasmer-cli
-  asdf: asdf
-  curl: curl
+  asdf: wasmer
 rule:
   /eget:
     cmd: x eget wasmerio/wasmer

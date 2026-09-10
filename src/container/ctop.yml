@@ -13,9 +13,7 @@ x:
   apt-get: ca-certificates
   port: ctop
   scoop: ctop
-  asdf: asdf
-  curl: curl
-  wget: wget
+  asdf: ctop
 rule:
   /eget:
     cmd: x eget bcicen/ctop

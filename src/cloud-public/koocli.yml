@@ -4,7 +4,6 @@ desc:
   cn: 华为云命令行工具，提供了一种通过 CLI 调用云服务 API 的方法
   en: HUAWEI cloud Command Line Tool provides a way to call cloud service APIs through the CLI
 x:
-  curl: curl
 rule:
   /x:
     cmd: x pkg use koocli

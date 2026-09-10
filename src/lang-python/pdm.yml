@@ -10,8 +10,7 @@ x:
   brew: pdm
   scoop: pdm
   pip: --user
-  asdf: asdf
-  curl: curl
+  asdf: pdm
 rule:
   /eget:
     cmd: x eget pdm-project/pdm

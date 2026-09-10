@@ -10,7 +10,7 @@ x:
   apt: pipx
   brew: pipx
   apt-get: pipx
-  asdf: asdf
+  asdf: pipx
 rule:
   /x:
     cmd: x pkg use pipx

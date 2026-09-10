@@ -19,7 +19,6 @@ rule:
 
 x:
   yay: moonbit-bin
-  curl: curl
 binlist:
 - moonbit
 license: NOASSERTION

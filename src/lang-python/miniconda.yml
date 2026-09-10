@@ -8,8 +8,6 @@ x:
   eget: https://github.com/conda/conda
   brew: --cask
   yay: miniconda3
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget conda/conda

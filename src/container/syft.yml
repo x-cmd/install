@@ -11,8 +11,7 @@ x:
   scoop: syft
   choco: syft
   powershell: syft
-  asdf: asdf
-  curl: curl
+  asdf: syft
 rule:
   /x:
     cmd: x pkg use syft

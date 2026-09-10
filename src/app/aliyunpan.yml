@@ -16,8 +16,6 @@ x:
   winget: tickstep.aliyunpan
   powershell: install
   yay: aliyunpan-go
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget tickstep/aliyunpan

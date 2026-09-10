@@ -22,7 +22,7 @@ x:
   winget: sharkdp.fd
   powershell: install
   npm: fd-find
-  asdf: asdf
+  asdf: fd
   pkg: fd-find
 rule:
   /x:

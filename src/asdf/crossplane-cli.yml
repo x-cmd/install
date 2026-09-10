@@ -6,7 +6,7 @@ desc:
   en: Crossplane is a framework for building cloud native control planes without needing to write code
 x:
   source: https://github.com/crossplane/crossplane
-  asdf: asdf
+  asdf: crossplane-cli
 rule:
   /helm:
     cmd: helm repo add crossplane-stable https://charts.crossplane.io/stable

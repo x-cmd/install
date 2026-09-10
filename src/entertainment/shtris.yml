@@ -6,7 +6,6 @@ desc:
   en: A Tetris game implemented by a shell
 x:
   source: https://github.com/contentsviewer/shtris
-  wget: wget
 rule:
   /x:
     cmd: x pkg use shtris

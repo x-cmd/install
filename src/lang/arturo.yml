@@ -9,7 +9,6 @@ x:
   eget: https://github.com/arturo-lang/arturo
   brew: arturo
   yay: arturo
-  curl: curl
 rule:
   /x:
     cmd: x pkg use arturo

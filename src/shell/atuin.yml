@@ -10,7 +10,6 @@ x:
   brew: atuin
   pacman: atuin
   port: atuin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use atuin

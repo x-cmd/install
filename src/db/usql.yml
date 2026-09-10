@@ -11,7 +11,7 @@ x:
   pacman: usql
   scoop: usql
   yay: usql
-  asdf: asdf
+  asdf: usql
 rule:
   /x:
     cmd: x pkg use usql

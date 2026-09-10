@@ -10,7 +10,7 @@ x:
   brew: hadolint
   scoop: hadolint
   yay: hadolint
-  asdf: asdf
+  asdf: hadolint
 rule:
   /x:
     cmd: x pkg use hadolint

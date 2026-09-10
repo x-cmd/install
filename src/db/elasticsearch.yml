@@ -11,8 +11,6 @@ x:
   yum: --enablerepo=elasticsearch
   zypper: elasticsearch
   yay: elasticsearch
-  curl: curl
-  wget: wget
 rule:
   debian/apt:
     cmd: 'sudo apt-get install apt-transport-https && \

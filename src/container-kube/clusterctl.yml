@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/kubernetes-sigs/cluster-api
   yay: clusterctl
-  asdf: asdf
+  asdf: clusterctl
 rule:
   arch/yay:
     cmd: yay -S clusterctl

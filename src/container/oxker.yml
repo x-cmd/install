@@ -10,8 +10,6 @@ x:
   yay: oxker
   paru: oxker
   cargo: oxker
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget mrjackwills/oxker

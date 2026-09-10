@@ -10,7 +10,7 @@ x:
   brew: imagemagick
   pacman: ImageMagick
   yum: ImageMagick
-  asdf: asdf
+  asdf: magick
 rule:
   /x:
     cmd: x pkg use magick

@@ -20,7 +20,7 @@ x:
   choco: ripgrep
   winget: BurntSushi.ripgrep.MSVC
   powershell: install
-  asdf: asdf
+  asdf: rg
 rule:
   /x:
     cmd: x pkg use rg

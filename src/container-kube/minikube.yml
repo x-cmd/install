@@ -11,7 +11,7 @@ x:
   choco: minikube
   winget: minikube
   powershell: minikube
-  asdf: asdf
+  asdf: minikube
 rule:
   /x:
     cmd: x pkg use minikube

@@ -9,8 +9,7 @@ x:
   eget: https://github.com/Azure/azure-cli
   brew: azure-cli
   pip: azure-cli
-  asdf: asdf
-  curl: curl
+  asdf: azure-cli
 rule:
   /eget:
     cmd: x eget Azure/azure-cli

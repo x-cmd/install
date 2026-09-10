@@ -11,8 +11,6 @@ x:
   port: genact
   scoop: genact
   cargo: genact
-  curl: curl
-  wget: wget
   pkg: genact
 rule:
   /eget:

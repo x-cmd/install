@@ -8,7 +8,6 @@ x:
   source: https://github.com/nalgeon/sqlean
   eget: https://github.com/nalgeon/sqlean
   yay: sqlean-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use sqlean

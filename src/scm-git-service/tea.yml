@@ -8,7 +8,7 @@ x:
   brew: tea
   apt-get: tea
   scoop: tea
-  asdf: asdf
+  asdf: tea
   git: https://gitea.com/gitea/tea.git
 rule:
   /x:

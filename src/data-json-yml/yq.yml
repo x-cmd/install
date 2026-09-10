@@ -18,7 +18,7 @@ x:
   powershell: install
   yay: yq
   go: github.com/mikefarah/yq/v4@latest
-  asdf: asdf
+  asdf: yq
 rule:
   /x:
     cmd: x pkg use yq

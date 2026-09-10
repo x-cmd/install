@@ -9,7 +9,6 @@ x:
   brew: heroku
   choco: heroku-cli
   powershell: heroku-cli
-  curl: curl
 rule:
   /x:
     cmd: x pkg use heroku

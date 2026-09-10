@@ -10,7 +10,7 @@ x:
   brew: noborus/tap/trdsql
   port: trdsql
   yay: trdsql
-  asdf: asdf
+  asdf: trdsql
   pkg: trdsql
 rule:
   /x:

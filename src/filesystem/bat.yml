@@ -22,7 +22,7 @@ x:
   choco: bat
   winget: sharkdp.bat
   powershell: install
-  asdf: asdf
+  asdf: bat
   pkg: bat
 rule:
   /x:

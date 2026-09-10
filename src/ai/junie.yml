@@ -9,7 +9,6 @@ x:
   eget: https://github.com/JetBrains/junie
   brew: junie
   npm: "@jetbrains/junie"
-  curl: curl
 rule:
   /eget:
     cmd: x eget JetBrains/junie

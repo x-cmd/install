@@ -13,8 +13,7 @@ x:
   powershell: kubernetes-kompose
   yay: kompose-git
   go: github.com/kubernetes/kompose@latest
-  asdf: asdf
-  curl: curl
+  asdf: kompose
 rule:
   /eget:
     cmd: x eget kubernetes/kompose

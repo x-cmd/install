@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/scmmishra/slick-deploy
   eget: https://github.com/scmmishra/slick-deploy
-  curl: curl
   git: https://github.com/scmmishra/slick-deploy.git
   make: make
 rule:

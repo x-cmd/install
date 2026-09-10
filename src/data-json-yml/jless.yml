@@ -12,7 +12,7 @@ x:
   port: jless
   xbps: jless
   cargo: jless
-  asdf: asdf
+  asdf: jless
   pkg: jless
 rule:
   /x:

@@ -11,7 +11,7 @@ x:
   brew: websocat
   port: websocat
   yay: websocat-git
-  asdf: asdf
+  asdf: websocat
   pkg: websocat
 rule:
   /x:

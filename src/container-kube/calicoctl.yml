@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/projectcalico/calico
   yay: calicoctl
-  asdf: asdf
+  asdf: calicoctl
 rule:
   arch/yay:
     cmd: yay -S calicoctl

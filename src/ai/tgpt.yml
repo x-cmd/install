@@ -13,7 +13,6 @@ x:
   powershell: tgpt
   yay: tgpt-git
   go: github.com/aandrew-me/tgpt/v2@latest
-  curl: curl
   pkg: tgpt
 rule:
   /eget:

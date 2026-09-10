@@ -12,7 +12,7 @@ x:
   brew: scala
   pacman: scala
   apt-get: scala
-  asdf: asdf
+  asdf: scala
 rule:
   /eget:
     cmd: x eget scala/scala

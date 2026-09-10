@@ -10,7 +10,6 @@ x:
   yay: lazyjournal
   paru: lazyjournal
   go: github.com/Lifailon/lazyjournal@latest
-  curl: curl
 rule:
   /curl:
     cmd: curl -sS https://raw.githubusercontent.com/Lifailon/lazyjournal/main/install.sh | bash

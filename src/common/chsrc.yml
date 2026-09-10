@@ -10,7 +10,6 @@ x:
   brew: chsrc
   scoop: chsrc
   yay: chsrc-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use chsrc

@@ -13,7 +13,7 @@ x:
   choco: glab
   winget: glab.glab
   powershell: glab
-  asdf: asdf
+  asdf: glab
 rule:
   /x:
     cmd: x pkg use glab

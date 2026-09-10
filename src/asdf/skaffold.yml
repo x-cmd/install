@@ -12,7 +12,7 @@ x:
   scoop: skaffold
   choco: skaffold
   powershell: -y
-  asdf: asdf
+  asdf: skaffold
 rule:
   /eget:
     cmd: x eget GoogleContainerTools/skaffold

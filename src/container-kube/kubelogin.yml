@@ -12,7 +12,7 @@ x:
   choco: kubernetes-cli
   winget: --id=Kubernetes.kubectl
   powershell: kubernetes-cli
-  asdf: asdf
+  asdf: kubelogin
 rule:
   /eget:
     cmd: x eget Azure/kubelogin

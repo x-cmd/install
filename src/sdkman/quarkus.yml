@@ -8,8 +8,7 @@ x:
   source: https://github.com/quarkusio/quarkus
   eget: https://github.com/quarkusio/quarkus
   yay: quarkuscli-bin
-  asdf: asdf
-  curl: curl
+  asdf: quarkus
 rule:
   /eget:
     cmd: x eget quarkusio/quarkus

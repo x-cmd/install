@@ -6,7 +6,6 @@ desc:
   en: Convert between any document format supported by LibreOffice/OpenOffice
 x:
   source: https://github.com/unoconv/unoconv
-  wget: wget
 rule:
   /x:
     cmd: x pkg use unoconv

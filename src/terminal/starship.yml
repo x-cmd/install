@@ -20,7 +20,6 @@ x:
   winget: starship
   powershell: starship
   cargo: starship
-  curl: curl
   pkg: starship
 rule:
   /x:

@@ -12,7 +12,6 @@ x:
   choco: sampler
   powershell: sampler
   yay: sampler
-  wget: wget
 rule:
   /eget:
     cmd: x eget sqshq/sampler

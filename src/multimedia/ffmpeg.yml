@@ -10,7 +10,7 @@ x:
   pacman: ffmpeg
   apk: ffmpeg
   apt-get: ffmpeg
-  asdf: asdf
+  asdf: ffmpeg
 rule:
   /x:
     cmd: x pkg use ffmpeg

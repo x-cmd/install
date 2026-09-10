@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/kubernetes/kubectl
   yay: kubectl-convert-bin
-  asdf: asdf
+  asdf: kubectl-convert
 rule:
   arch/yay:
     cmd: yay -S kubectl-convert-bin

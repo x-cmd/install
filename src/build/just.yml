@@ -21,7 +21,7 @@ x:
   choco: just
   powershell: just
   cargo: just
-  asdf: asdf
+  asdf: just
   git: https://mpr.makedeb.org/just
   pkg: just
 rule:

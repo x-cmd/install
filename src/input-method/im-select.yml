@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/daipeihust/im-select
   brew: im-select
-  curl: curl
 rule:
   darwin/curl:
     cmd: curl -Ls https://raw.githubusercontent.com/daipeihust/im-select/master/install_mac.sh | sh

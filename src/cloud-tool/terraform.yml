@@ -11,7 +11,7 @@ x:
   pacman: terraform
   apk: terraform
   yum: -y
-  asdf: asdf
+  asdf: terraform
 rule:
   /x:
     cmd: x pkg use terraform

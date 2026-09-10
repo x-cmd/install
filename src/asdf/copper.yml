@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/cloud66-oss/copper
   eget: https://github.com/cloud66-oss/copper
-  asdf: asdf
+  asdf: copper
 rule:
   /eget:
     cmd: x eget cloud66-oss/copper

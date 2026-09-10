@@ -11,7 +11,6 @@ x:
   pacman: zenith
   deb-get: zenith
   yay: zenith-git
-  curl: curl
 rule:
   /x:
     cmd: x pkg use zenith

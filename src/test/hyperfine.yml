@@ -21,8 +21,7 @@ x:
   winget: hyperfine
   powershell: install
   yay: hyperfine-git
-  asdf: asdf
-  wget: wget
+  asdf: hyperfine
   pkg: hyperfine
 rule:
   /x:

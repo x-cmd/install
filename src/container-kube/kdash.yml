@@ -13,7 +13,6 @@ x:
   powershell: kdash
   yay: kdash
   cargo: kdash
-  curl: curl
 rule:
   /eget:
     cmd: x eget kdash-rs/kdash

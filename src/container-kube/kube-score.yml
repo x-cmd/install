@@ -9,7 +9,7 @@ x:
   eget: https://github.com/zegl/kube-score
   brew: kube-score
   yay: kube-score-bin
-  asdf: asdf
+  asdf: kube-score
 rule:
   /x:
     cmd: x pkg use kube-score

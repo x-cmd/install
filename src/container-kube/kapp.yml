@@ -9,8 +9,7 @@ x:
   eget: https://github.com/vmware-tanzu/carvel-kapp
   brew: kapp
   yay: kapp
-  asdf: asdf
-  curl: curl
+  asdf: kapp
 rule:
   /eget:
     cmd: x eget vmware-tanzu/carvel-kapp

@@ -18,7 +18,7 @@ x:
   scoop: eza
   winget: eza-community.eza
   powershell: install
-  asdf: asdf
+  asdf: eza
   pkg: eza
 rule:
   /x:

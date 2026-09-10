@@ -9,7 +9,7 @@ x:
   eget: https://github.com/argoproj/argo-cd
   brew: argocd
   scoop: argocd
-  asdf: asdf
+  asdf: argocd
 rule:
   /eget:
     cmd: x eget argoproj/argo-cd

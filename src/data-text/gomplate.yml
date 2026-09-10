@@ -15,8 +15,7 @@ x:
   yay: gomplate-bin
   npm: gomplate
   go: github.com/hairyhenderson/gomplate/v4/cmd/gomplate@latest
-  asdf: asdf
-  curl: curl
+  asdf: gomplate
 rule:
   /x:
     cmd: x pkg use gomplate

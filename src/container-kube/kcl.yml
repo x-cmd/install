@@ -10,8 +10,6 @@ x:
   brew: kcl-lang/tap/kcl@0.7.0
   scoop: kcl-lang/kcl
   go: kcl-lang.io/cli/cmd/kcl@latest
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget kcl-lang/kcl

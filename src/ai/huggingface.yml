@@ -8,7 +8,6 @@ x:
   source: https://github.com/huggingface/huggingface_hub
   brew: huggingface-cli
   pip: huggingface_hub
-  curl: curl
 rule:
   /x:
     cmd: x pkg use huggingface

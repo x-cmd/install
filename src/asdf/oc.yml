@@ -6,7 +6,7 @@ desc:
   en: The OpenShift Command Line, part of OKD
 x:
   source: https://github.com/openshift/oc
-  asdf: asdf
+  asdf: oc
 rule:
   /asdf:
     cmd: x asdf use oc

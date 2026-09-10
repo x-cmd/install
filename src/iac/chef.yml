@@ -8,7 +8,6 @@ x:
   source: https://github.com/chef/chef
   apt: apt-transport-https
   apt-get: apt-transport-https
-  curl: curl
 rule:
   debian/wget:
     cmd: 'sudo apt-get install apt-transport-https && \

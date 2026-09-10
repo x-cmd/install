@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/ko-build/ko
   eget: https://github.com/ko-build/ko
-  asdf: asdf
+  asdf: ko
 rule:
   /eget:
     cmd: x eget ko-build/ko

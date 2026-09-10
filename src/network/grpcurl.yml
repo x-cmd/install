@@ -10,7 +10,7 @@ x:
   dnf: grpcurl
   brew: grpcurl
   yay: grpcurl-bin
-  asdf: asdf
+  asdf: grpcurl
 rule:
   /x:
     cmd: x pkg use grpcurl

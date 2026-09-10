@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/IBM-Cloud/ibm-cloud-cli-release
   yay: ibmcloud-cli
-  asdf: asdf
-  curl: curl
+  asdf: ibmcloud
 rule:
   /x:
     cmd: x pkg use ibmcloud

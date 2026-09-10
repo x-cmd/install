@@ -10,7 +10,6 @@ x:
   brew: zrok
   scoop: extras/zrok
   yay: zrok
-  curl: curl
 rule:
   /eget:
     cmd: x eget openziti/zrok

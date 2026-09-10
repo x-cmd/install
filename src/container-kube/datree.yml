@@ -6,7 +6,7 @@ desc:
   en: Datree secures your Kubernetes by blocking the deployment of misconfigured resources
 x:
   source: https://github.com/datreeio/datree
-  asdf: asdf
+  asdf: datree
 rule:
   /helm:
     cmd: helm repo add datree-webhook https://datreeio.github.io/admission-webhook-datree

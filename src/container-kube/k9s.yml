@@ -13,7 +13,7 @@ x:
   scoop: k9s
   choco: k9s
   powershell: k9s
-  asdf: asdf
+  asdf: k9s
 rule:
   /x:
     cmd: x pkg use k9s

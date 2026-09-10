@@ -6,8 +6,7 @@ desc:
 x:
   source: https://github.com/alexellis/k3sup
   yay: k3sup
-  asdf: asdf
-  curl: curl
+  asdf: k3sup
 rule:
   arch/yay:
     cmd: yay -S k3sup

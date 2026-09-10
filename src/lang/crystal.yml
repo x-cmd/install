@@ -9,7 +9,7 @@ x:
   eget: https://github.com/crystal-lang/crystal
   brew: crystal
   scoop: vs_2022_cpp_build_tools
-  asdf: asdf
+  asdf: crystal
 rule:
   /eget:
     cmd: x eget crystal-lang/crystal

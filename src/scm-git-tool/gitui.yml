@@ -14,7 +14,7 @@ x:
   powershell: gitui
   yay: gitui-bin
   cargo: gitui
-  asdf: asdf
+  asdf: gitui
 rule:
   /x:
     cmd: x pkg use gitui

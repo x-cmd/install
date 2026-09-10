@@ -9,7 +9,7 @@ x:
   dnf: tomcat
   brew: tomcat
   yum: tomcat
-  asdf: asdf
+  asdf: tomcat
 rule:
   /asdf:
     cmd: x asdf use tomcat

@@ -20,7 +20,7 @@ x:
   choco: restic
   winget: restic.restic
   powershell: restic
-  asdf: asdf
+  asdf: restic
   git: https://github.com/restic/restic
   pkg: restic
 rule:

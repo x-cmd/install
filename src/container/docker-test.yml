@@ -9,7 +9,6 @@ rule:
     reference: https://github.com/docker/docker-install?tab=readme-ov-file#usage
 
 x:
-  curl: curl
 binlist:
 - docker-test
 license: NOASSERTION

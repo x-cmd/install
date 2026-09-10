@@ -11,8 +11,7 @@ x:
   pacman: talhelper
   scoop: talhelper
   yay: talhelper-bin
-  asdf: asdf
-  curl: curl
+  asdf: talhelper
 rule:
   /eget:
     cmd: x eget budimanjojo/talhelper

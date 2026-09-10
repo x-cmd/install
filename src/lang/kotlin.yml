@@ -8,7 +8,7 @@ x:
   eget: https://github.com/JetBrains/kotlin
   brew: kotlin
   pacman: kotlin
-  asdf: asdf
+  asdf: kotlin
 rule:
   /eget:
     cmd: x eget JetBrains/kotlin

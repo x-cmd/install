@@ -8,7 +8,6 @@ x:
   source: https://github.com/kenn-io/agentsview
   eget: https://github.com/kenn-io/agentsview
   brew: --cask
-  curl: curl
 rule:
   /eget:
     cmd: x eget use kenn-io/agentsview

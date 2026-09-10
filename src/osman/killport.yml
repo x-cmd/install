@@ -10,7 +10,6 @@ x:
   brew: killport
   yay: killport
   cargo: killport
-  curl: curl
 rule:
   /eget:
     cmd: x eget jkfran/killport

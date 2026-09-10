@@ -21,7 +21,7 @@ x:
   apt-get: direnv
   port: direnv
   scoop: main/direnv
-  asdf: asdf
+  asdf: direnv
 rule:
   /x:
     cmd: x pkg use direnv

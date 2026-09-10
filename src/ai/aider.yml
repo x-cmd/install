@@ -9,7 +9,6 @@ x:
   brew: aider
   yay: aider-chat
   pip: -U
-  curl: curl
 rule:
   /x:
     cmd: x pkg use aider

@@ -9,7 +9,6 @@ x:
   eget: https://github.com/superfly/flyctl
   brew: flyctl
   yay: flyctl
-  curl: curl
 rule:
   /eget:
     cmd: x eget superfly/flyctl

@@ -17,7 +17,7 @@ x:
   choco: kubernetes-cli
   winget: -e
   powershell: kubernetes-cli
-  asdf: asdf
+  asdf: kubectl
 rule:
   /asdf:
     cmd: x asdf use kubectl

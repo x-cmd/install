@@ -17,8 +17,7 @@ x:
   powershell: bottom
   yay: bottom-git
   cargo: bottom
-  asdf: asdf
-  curl: curl
+  asdf: bottom
 rule:
   /x:
     cmd: x pkg use bottom

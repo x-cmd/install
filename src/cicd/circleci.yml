@@ -12,7 +12,6 @@ x:
   choco: circleci-cli
   powershell: circleci-cli
   yay: circleci-cli-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget CircleCI-Public/circleci-cli

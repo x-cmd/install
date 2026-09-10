@@ -10,8 +10,6 @@ x:
   brew: shshemi/tabiew/tabiew
   pacman: tabiew
   cargo: tabiew
-  curl: curl
-  wget: wget
 rule:
   /x:
     cmd: x pkg use tabiew

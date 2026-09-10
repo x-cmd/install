@@ -15,7 +15,6 @@ x:
   nix: himalaya
   yay: himalaya-git
   cargo: himalaya
-  curl: curl
 rule:
   /x:
     cmd: x pkg use himalaya

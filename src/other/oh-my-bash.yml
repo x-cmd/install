@@ -7,8 +7,6 @@ desc:
 x:
   source: https://github.com/ohmybash/oh-my-bash
   yay: oh-my-bash-git
-  curl: curl
-  wget: wget
 rule:
   /curl:
     cmd: sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"

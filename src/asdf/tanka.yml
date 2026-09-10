@@ -9,7 +9,7 @@ x:
   eget: https://github.com/grafana/tanka
   brew: tanka
   go: github.com/grafana/tanka/cmd/tk@latest
-  asdf: asdf
+  asdf: tanka
 rule:
   /eget:
     cmd: x eget grafana/tanka

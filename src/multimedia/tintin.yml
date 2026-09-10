@@ -15,7 +15,6 @@ x:
   apt-get: build-essential
   yum: make
   yay: tintin
-  wget: wget
   make: make
 rule:
   /eget:

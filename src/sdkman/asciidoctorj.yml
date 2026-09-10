@@ -9,7 +9,7 @@ x:
   brew: asciidoctorj
   choco: asciidoctorj
   powershell: asciidoctorj
-  asdf: asdf
+  asdf: asciidoctorj
 rule:
   /asdf:
     cmd: x asdf use asciidoctorj

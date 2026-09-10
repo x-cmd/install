@@ -13,7 +13,6 @@ x:
   apk: syncthing
   apt-get: syncthing
   yay: syncthing-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget syncthing/syncthing

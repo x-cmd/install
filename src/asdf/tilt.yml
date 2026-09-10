@@ -9,8 +9,7 @@ x:
   eget: https://github.com/tilt-dev/tilt
   brew: tilt-dev/tap/tilt
   scoop: tilt
-  asdf: asdf
-  curl: curl
+  asdf: tilt
 rule:
   /eget:
     cmd: x eget tilt-dev/tilt

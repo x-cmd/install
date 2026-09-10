@@ -8,7 +8,7 @@ x:
   source: https://github.com/jondot/hygen
   eget: https://github.com/jondot/hygen
   brew: hygen
-  asdf: asdf
+  asdf: hygen
 rule:
   /x:
     cmd: x pkg use hygen

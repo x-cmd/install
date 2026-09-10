@@ -6,8 +6,7 @@ desc:
   en: The Teleport community is comprised of people using Teleport at work, home or any situation that needs to provide secure infrastructure access
 x:
   source: https://github.com/gravitational/teleport
-  asdf: asdf
-  curl: curl
+  asdf: teleport-community
 rule:
   /curl:
     cmd: curl https://goteleport.com/static/install.sh | bash -s 15.0.0

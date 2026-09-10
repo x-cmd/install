@@ -9,7 +9,6 @@ x:
   eget: https://github.com/pkgxdev/pkgx
   brew: pkgxdev/made/pkgx
   yay: pkgx
-  curl: curl
 rule:
   /eget:
     cmd: x eget pkgxdev/pkgx

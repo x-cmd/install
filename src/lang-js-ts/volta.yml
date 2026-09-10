@@ -12,7 +12,6 @@ x:
   winget: Volta.Volta
   powershell: volta
   yay: volta-bin
-  curl: curl
 rule:
   /eget:
     cmd: x eget volta-cli/volta

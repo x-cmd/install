@@ -14,7 +14,6 @@ x:
   winget: --exact
   powershell: install
   cargo: --locked
-  curl: curl
 rule:
   /x:
     cmd: x pkg use television

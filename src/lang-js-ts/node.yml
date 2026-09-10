@@ -20,7 +20,7 @@ x:
   winget: OpenJS.NodeJS.LTS
   powershell: install
   npm: n
-  asdf: asdf
+  asdf: node
   pkg: node
 rule:
   /x:

@@ -10,7 +10,7 @@ x:
   brew: hidetatz/tap/kubecolor
   yay: kubecolor
   go: github.com/hidetatz/kubecolor/cmd/kubecolor@latest
-  asdf: asdf
+  asdf: kubecolor
 rule:
   /eget:
     cmd: x eget hidetatz/kubecolor

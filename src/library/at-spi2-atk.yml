@@ -9,7 +9,7 @@ rule:
     reference: https://github.com/GNOME/at-spi2-atk
 
 x:
-  asdf: asdf
+  asdf: at-spi2-atk
 binlist:
 - at-spi2-atk
 license: NOASSERTION

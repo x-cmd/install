@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/rome/tools
   eget: https://github.com/rome/tools
-  asdf: asdf
+  asdf: rome
 rule:
   /eget:
     cmd: x eget rome/tools

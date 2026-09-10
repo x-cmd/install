@@ -14,7 +14,7 @@ x:
   apk: tmux
   apt-get: tmux
   yum: tmux
-  asdf: asdf
+  asdf: tmux
 rule:
   /eget:
     cmd: x eget tmux/tmux

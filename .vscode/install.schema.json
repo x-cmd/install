@@ -352,8 +352,6 @@
             "go":          { "type": "string" },
             "asdf":        { "type": "string" },
             "pixi":        { "type": "string" },
-            "curl":        { "type": "string" },
-            "wget":        { "type": "string" },
             "fetch":       { "type": "string" },
             "git":         { "type": "string" },
             "make":        { "type": "string" },

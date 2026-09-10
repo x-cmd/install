@@ -23,8 +23,7 @@ x:
   pacstall: zoxide-deb
   yay: zoxide-git
   cargo: zoxide
-  asdf: asdf
-  curl: curl
+  asdf: zoxide
   pkg: zoxide
 rule:
   /x:

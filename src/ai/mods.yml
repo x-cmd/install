@@ -14,7 +14,6 @@ x:
   powershell: install
   yay: mods
   go: github.com/charmbracelet/mods@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget charmbracelet/mods

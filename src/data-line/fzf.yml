@@ -18,7 +18,7 @@ x:
   choco: fzf
   winget: fzf
   powershell: fzf
-  asdf: asdf
+  asdf: fzf
   pkg: fzf
 rule:
   /x:

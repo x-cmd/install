@@ -8,7 +8,7 @@ x:
   source: https://github.com/stackrox/kube-linter
   eget: https://github.com/stackrox/kube-linter
   brew: kube-linter
-  asdf: asdf
+  asdf: kube-linter
 rule:
   /x:
     cmd: x pkg use kube-linter

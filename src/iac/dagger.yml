@@ -10,8 +10,7 @@ x:
   brew: dagger/tap/dagger
   scoop: dagger
   yay: dagger-bin
-  asdf: asdf
-  curl: curl
+  asdf: dagger
 rule:
   /x:
     cmd: x pkg use dagger

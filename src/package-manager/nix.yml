@@ -6,7 +6,6 @@ desc:
   en: Nix is a tool that takes a unique approach to package management and system configuration
 x:
   source: https://github.com/NixOS/nix
-  curl: curl
 rule:
   linux/curl:
     cmd: curl -L https://nixos.org/nix/install | sh -s -- --daemon

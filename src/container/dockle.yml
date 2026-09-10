@@ -9,7 +9,7 @@ x:
   eget: https://github.com/goodwithtech/dockle
   brew: goodwithtech/r/dockle
   yay: dockle
-  asdf: asdf
+  asdf: dockle
 rule:
   /eget:
     cmd: x eget goodwithtech/dockle

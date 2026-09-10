@@ -9,7 +9,7 @@ x:
   eget: https://github.com/sl1pm4t/k2tf
   brew: k2tf
   yay: k2tf
-  asdf: asdf
+  asdf: k2tf
 rule:
   /eget:
     cmd: x eget sl1pm4t/k2tf

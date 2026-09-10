@@ -16,7 +16,6 @@ x:
   winget: Git.Git
   powershell: install
   yay: opam-git
-  curl: curl
   pkg: ocaml-opam
 rule:
   /eget:

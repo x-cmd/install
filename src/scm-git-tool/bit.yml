@@ -12,7 +12,6 @@ x:
   choco: bit-git
   powershell: bit-git
   yay: bit-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use bit

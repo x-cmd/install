@@ -8,7 +8,6 @@ x:
   source: https://github.com/akinomyoga/ble.sh
   yay: blesh
   paru: blesh-git
-  curl: curl
   git: --recursive
 rule:
   /git:

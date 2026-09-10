@@ -15,7 +15,7 @@ x:
   yum: vim
   zypper: vim
   emerge: app-editors/vim
-  asdf: asdf
+  asdf: vim
   pkg: vim
 rule:
   /asdf:

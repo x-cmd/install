@@ -18,8 +18,7 @@ x:
   scoop: glow
   choco: glow
   powershell: glow
-  asdf: asdf
-  curl: curl
+  asdf: glow
   pkg: glow
 rule:
   /eget:

@@ -14,7 +14,7 @@ x:
   yum: mysql-server
   emerge: dev-db/mysql
   yay: mysql
-  asdf: asdf
+  asdf: mysql
 rule:
   /x:
     cmd: x pkg use mysql

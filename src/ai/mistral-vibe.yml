@@ -9,7 +9,6 @@ x:
   eget: https://github.com/mistralai/mistral-vibe
   yay: mistral-vibe
   pip: mistral-vibe
-  curl: curl
 rule:
   /eget:
     cmd: x eget mistralai/mistral-vibe

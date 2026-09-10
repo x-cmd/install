@@ -10,7 +10,7 @@ x:
   brew: kubespy
   yay: kubespy
   go: github.com/pulumi/kubespy@latest
-  asdf: asdf
+  asdf: kubespy
 rule:
   /eget:
     cmd: x eget pulumi/kubespy

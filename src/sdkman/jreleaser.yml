@@ -10,7 +10,7 @@ x:
   brew: jreleaser
   port: jreleaser
   yay: jreleaser-bin
-  asdf: asdf
+  asdf: jreleaser
 rule:
   /eget:
     cmd: x eget jreleaser/jreleaser

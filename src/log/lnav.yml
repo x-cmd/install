@@ -12,7 +12,6 @@ x:
   snap: lnav
   yum: lnav
   yay: lnav-git
-  curl: curl
 rule:
   /eget:
     cmd: x eget tstack/lnav

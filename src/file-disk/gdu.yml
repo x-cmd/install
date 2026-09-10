@@ -8,7 +8,6 @@ x:
   source: https://github.com/dundee/gdu
   eget: https://github.com/dundee/gdu
   yay: gdu-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use gdu

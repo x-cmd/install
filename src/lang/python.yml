@@ -12,7 +12,7 @@ x:
   apk: python
   apt-get: python-minimal
   yum: python
-  asdf: asdf
+  asdf: python
 rule:
   /x:
     cmd: x pkg use python

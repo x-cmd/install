@@ -14,7 +14,7 @@ x:
   apk: aria2
   apt-get: aria2
   yay: aria2-git
-  asdf: asdf
+  asdf: aria2
 rule:
   /x:
     cmd: x pkg use aria2

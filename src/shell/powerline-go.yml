@@ -10,7 +10,7 @@ x:
   brew: powerline-go
   yay: powerline-go
   go: github.com/justjanne/powerline-go@latest
-  asdf: asdf
+  asdf: powerline-go
 rule:
   /x:
     cmd: x pkg use powerline-go

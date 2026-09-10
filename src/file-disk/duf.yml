@@ -15,7 +15,7 @@ x:
   scoop: duf
   choco: duf
   powershell: duf
-  asdf: asdf
+  asdf: duf
   pkg: duf
 rule:
   /x:

@@ -6,8 +6,6 @@ desc:
 x:
   source: https://github.com/ssadedin/bpipe
   eget: https://github.com/ssadedin/bpipe
-  curl: curl
-  wget: wget
 rule:
   /eget:
     cmd: x eget ssadedin/bpipe

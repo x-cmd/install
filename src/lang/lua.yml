@@ -10,7 +10,7 @@ x:
   pacman: lua
   apk: lua
   yum: lua
-  asdf: asdf
+  asdf: lua
 rule:
   /x:
     cmd: x pkg use lua

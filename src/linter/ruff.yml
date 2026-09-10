@@ -9,7 +9,6 @@ x:
   eget: https://github.com/astral-sh/ruff
   brew: ruff
   pip: ruff
-  curl: curl
 rule:
   /x:
     cmd: x pkg use ruff

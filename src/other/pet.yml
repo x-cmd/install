@@ -10,7 +10,6 @@ x:
   dnf: pet
   brew: knqyf263/pet/pet
   yay: pet-git
-  wget: wget
 rule:
   /eget:
     cmd: x eget knqyf263/pet

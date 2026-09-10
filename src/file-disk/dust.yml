@@ -12,7 +12,7 @@ x:
   pacstall: dust-bin
   deb-get: du-dust
   yay: dust-git
-  asdf: asdf
+  asdf: dust
 rule:
   /eget:
     cmd: x eget bootandy/dust

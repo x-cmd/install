@@ -49,7 +49,6 @@ x:
   brew: --cask
   flatpak: flathub
   yay: google-chrome
-  wget: wget
 binlist:
 - Chrome
 license: NOASSERTION

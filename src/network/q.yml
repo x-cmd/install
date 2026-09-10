@@ -9,7 +9,6 @@ x:
   eget: https://github.com/natesales/q
   yay: q-dns
   go: github.com/natesales/q@latest
-  curl: curl
 rule:
   /x:
     cmd: x pkg use q

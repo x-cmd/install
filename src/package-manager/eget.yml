@@ -14,7 +14,6 @@ x:
   powershell: eget
   yay: eget-bin
   go: github.com/zyedidia/eget@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget zyedidia/eget

@@ -12,7 +12,6 @@ x:
   winget: globalping
   powershell: globalping
   yay: globalping-cli
-  curl: curl
 rule:
   /x:
     cmd: x pkg use globalping

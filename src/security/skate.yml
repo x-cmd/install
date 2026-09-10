@@ -12,8 +12,7 @@ x:
   brew: charmbracelet/tap/skate
   pacman: skate
   yum: skate
-  asdf: asdf
-  curl: curl
+  asdf: skate
 rule:
   /x:
     cmd: x pkg use skate

@@ -13,7 +13,7 @@ x:
   pacman: julia
   apk: julia
   apt-get: julia
-  asdf: asdf
+  asdf: julia
 rule:
   /eget:
     cmd: x eget JuliaLang/julia

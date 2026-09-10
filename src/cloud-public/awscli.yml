@@ -8,7 +8,7 @@ x:
   brew: awscli
   scoop: aws
   pip: awscli
-  asdf: asdf
+  asdf: awscli
 rule:
   /x:
     cmd: x pkg use awscli

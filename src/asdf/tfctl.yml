@@ -7,7 +7,7 @@ desc:
 x:
   source: https://github.com/weaveworks/tf-controller
   eget: https://github.com/weaveworks/tf-controller
-  asdf: asdf
+  asdf: tfctl
 rule:
   /eget:
     cmd: x eget weaveworks/tf-controller

@@ -15,8 +15,7 @@ x:
   choco: dive
   winget: wagoodman.dive
   powershell: dive
-  asdf: asdf
-  curl: curl
+  asdf: dive
 rule:
   /x:
     cmd: x pkg use dive

@@ -9,8 +9,7 @@ x:
   eget: https://github.com/Azure/draft
   brew: draft
   yay: draft-bin
-  asdf: asdf
-  curl: curl
+  asdf: draft
 rule:
   /eget:
     cmd: x eget Azure/draft

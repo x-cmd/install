@@ -16,7 +16,7 @@ x:
   powershell: install
   yay: gallery-dl
   pip: -U
-  asdf: asdf
+  asdf: gallery-dl
   pacman: yt-dlp
 rule:
   /x:

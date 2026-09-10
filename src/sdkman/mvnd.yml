@@ -7,7 +7,7 @@ lang: Java
 x:
   brew: mvndaemon/homebrew-mvnd/mvnd
   yay: mvnd
-  asdf: asdf
+  asdf: mvnd
 rule:
   /x:
     cmd: x pkg use mvnd

@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/redpanda-data/benthos
   brew: benthos
-  asdf: asdf
-  curl: curl
+  asdf: benthos
   git: git@github.com:benthosdev/benthos
 rule:
   /x:

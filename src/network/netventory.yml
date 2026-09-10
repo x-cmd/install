@@ -8,7 +8,6 @@ x:
   source: https://github.com/RamboRogers/netventory
   eget: https://github.com/RamboRogers/netventory
   yay: netventory-git
-  curl: curl
 rule:
   /eget:
     cmd: x eget RamboRogers/netventory

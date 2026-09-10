@@ -11,7 +11,6 @@ x:
   scoop: https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
   winget: JanDeDobbeleer.OhMyPosh
   powershell: install
-  curl: curl
 rule:
   /x:
     cmd: x pkg use oh-my-posh

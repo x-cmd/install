@@ -8,7 +8,7 @@ x:
   eget: https://github.com/yarnpkg/yarn
   brew: yarn
   scoop: yarn
-  asdf: asdf
+  asdf: yarn
 rule:
   /eget:
     cmd: x eget yarnpkg/yarn

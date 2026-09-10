@@ -7,7 +7,6 @@ x:
   source: https://github.com/protocolbuffers/protobuf
   eget: https://github.com/protocolbuffers/protobuf
   yay: protobuf-git
-  curl: curl
 rule:
   /x:
     cmd: x pkg use protobuf

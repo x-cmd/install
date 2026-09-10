@@ -16,7 +16,7 @@ x:
   winget: XAMPPRocky.tokei
   powershell: install
   cargo: tokei
-  asdf: asdf
+  asdf: tokei
   pkg: tokei
 rule:
   /x:

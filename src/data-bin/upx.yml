@@ -10,7 +10,7 @@ x:
   pacman: upx
   apk: upx
   yay: upx-git
-  asdf: asdf
+  asdf: upx
 rule:
   /x:
     cmd: x pkg use upx

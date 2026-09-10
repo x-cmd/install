@@ -12,7 +12,7 @@ x:
   pacman: jq
   apk: jq
   apt-get: jq
-  asdf: asdf
+  asdf: jq
 rule:
   /x:
     cmd: x pkg use jq

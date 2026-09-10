@@ -13,7 +13,7 @@ x:
   pacman: meson
   apt-get: meson
   pip: meson
-  asdf: asdf
+  asdf: meson
 rule:
   /eget:
     cmd: x eget mesonbuild/meson

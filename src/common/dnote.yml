@@ -9,7 +9,6 @@ x:
   eget: https://github.com/dnote/dnote
   brew: dnote
   yay: dnote-cli-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use dnote

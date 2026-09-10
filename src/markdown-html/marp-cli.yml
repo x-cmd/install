@@ -11,7 +11,7 @@ x:
   scoop: marp
   yay: marp-cli
   npm: "@marp-team/marp-cli"
-  asdf: asdf
+  asdf: marp-cli
 rule:
   /x:
     cmd: x pkg use marp-cli

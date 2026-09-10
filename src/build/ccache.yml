@@ -10,7 +10,7 @@ x:
   scoop: ccache
   choco: ccache
   powershell: ccache
-  asdf: asdf
+  asdf: ccache
 rule:
   /eget:
     cmd: x eget ccache/ccache

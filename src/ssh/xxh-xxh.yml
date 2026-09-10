@@ -9,7 +9,6 @@ x:
   brew: xxh
   port: xxh
   pip: xxh-xxh
-  wget: wget
 rule:
   /x:
     cmd: x pkg use xxh-xxh

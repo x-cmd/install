@@ -8,7 +8,7 @@ x:
   source: https://github.com/loft-sh/vcluster
   eget: https://github.com/loft-sh/vcluster
   brew: vcluster
-  asdf: asdf
+  asdf: vcluster
 rule:
   /eget:
     cmd: x eget loft-sh/vcluster

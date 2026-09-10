@@ -12,7 +12,6 @@ x:
   winget: gptscript-ai.gptscript
   powershell: install
   yay: gptscript
-  curl: curl
 rule:
   /x:
     cmd: x pkg use gptscript

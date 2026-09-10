@@ -13,7 +13,6 @@ x:
   yay: joshuto
   paru: joshuto
   cargo: --git
-  curl: curl
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/kamiyaa/joshuto.git --force

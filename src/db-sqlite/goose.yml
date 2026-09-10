@@ -8,7 +8,6 @@ x:
   eget: https://github.com/pressly/goose
   brew: goose
   go: github.com/pressly/goose/v3/cmd/goose@latest
-  curl: curl
 rule:
   /eget:
     cmd: x eget pressly/goose

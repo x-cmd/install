@@ -11,7 +11,7 @@ x:
   brew: hcloud
   apt-get: hcloud-cli
   scoop: hcloud
-  asdf: asdf
+  asdf: hcloud
 rule:
   /x:
     cmd: x pkg use hcloud

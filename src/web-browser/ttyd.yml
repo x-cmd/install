@@ -9,7 +9,7 @@ x:
   eget: https://github.com/tsl0922/ttyd
   brew: ttyd
   apk: ttyd
-  asdf: asdf
+  asdf: ttyd
 rule:
   /x:
     cmd: x pkg use ttyd

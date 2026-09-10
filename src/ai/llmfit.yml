@@ -10,7 +10,6 @@ x:
   brew: llmfit
   port: llmfit
   scoop: llmfit
-  curl: curl
 rule:
   /eget:
     cmd: x eget AlexsJones/llmfit

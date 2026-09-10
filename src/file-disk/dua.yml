@@ -13,7 +13,6 @@ x:
   port: dua-cli
   scoop: dua
   cargo: dua-cli
-  curl: curl
 rule:
   /eget:
     cmd: x eget Byron/dua-cli

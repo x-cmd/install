@@ -9,7 +9,6 @@ x:
   eget: https://github.com/aliyun/aliyun-cli
   brew: aliyun-cli
   yay: aliyun-cli-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use aliyun

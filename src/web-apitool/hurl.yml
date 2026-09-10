@@ -18,7 +18,7 @@ x:
   winget: hurl
   powershell: hurl
   npm: --save-dev
-  asdf: asdf
+  asdf: hurl
   pkg: hurl
 rule:
   /eget:

@@ -9,8 +9,7 @@ x:
   eget: https://github.com/kubeshark/kubeshark
   brew: kubeshark
   yay: kubeshark-bin
-  asdf: asdf
-  curl: curl
+  asdf: kubeshark
   git: https://github.com/kubeshark/kubeshark.git
 rule:
   /eget:

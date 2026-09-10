@@ -11,7 +11,7 @@ x:
   scoop: devspace
   yay: devspace-bin
   npm: devspace
-  asdf: asdf
+  asdf: devspace
 rule:
   /eget:
     cmd: x eget loft-sh/devspace

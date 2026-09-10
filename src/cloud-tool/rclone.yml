@@ -14,8 +14,7 @@ x:
   choco: rclone
   winget: Rclone.Rclone
   powershell: install
-  asdf: asdf
-  curl: curl
+  asdf: rclone
 rule:
   /x:
     cmd: x pkg use rclone

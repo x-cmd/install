@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/MrMarble/termsvg
   eget: https://github.com/MrMarble/termsvg
-  curl: curl
 rule:
   /x:
     cmd: x pkg use termsvg

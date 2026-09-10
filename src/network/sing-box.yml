@@ -10,7 +10,6 @@ x:
   scoop: sing-box
   yay: sing-box
   go: github.com/sagernet/sing-box/cmd/sing-box@stable
-  curl: curl
 rule:
   /eget:
     cmd: x eget SagerNet/sing-box

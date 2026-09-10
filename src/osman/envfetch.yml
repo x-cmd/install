@@ -11,7 +11,6 @@ x:
   yay: envfetch
   paru: envfetch
   cargo: envfetch
-  curl: curl
 rule:
   /eget:
     cmd: x eget ankddev/envfetch

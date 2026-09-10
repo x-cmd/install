@@ -7,8 +7,7 @@ desc:
 x:
   source: https://github.com/redhat-developer/odo
   brew: odo-dev
-  asdf: asdf
-  curl: curl
+  asdf: odo
 rule:
   linux/curl:
     cmd: 'curl -L https://developers.redhat.com/content-gateway/rest/mirror/pub/openshift-v4/clients/odo/v3.15.0/odo-linux-amd64 -o odo \

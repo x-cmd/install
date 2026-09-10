@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/moltbot/moltbot
   npm: moltbot@latest
-  curl: curl
 rule:
   /curl:
     cmd: curl -fsSL https://molt.bot/install.sh | bash

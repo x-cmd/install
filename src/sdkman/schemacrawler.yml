@@ -9,7 +9,7 @@ x:
   scoop: schemacrawler
   choco: schemacrawler
   powershell: schemacrawler
-  asdf: asdf
+  asdf: schemacrawler
 rule:
   /eget:
     cmd: x eget schemacrawler/SchemaCrawler

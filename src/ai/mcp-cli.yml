@@ -8,7 +8,6 @@ x:
   source: https://github.com/philschmid/mcp-cli
   eget: https://github.com/philschmid/mcp-cli
   yay: mcp-cli-git
-  curl: curl
 rule:
   /x:
     cmd: x pkg use mcp-cli

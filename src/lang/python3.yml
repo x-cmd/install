@@ -11,7 +11,7 @@ x:
   pacman: python3
   apk: python3
   apt-get: python3
-  asdf: asdf
+  asdf: python3
 rule:
   /asdf:
     cmd: x asdf use python

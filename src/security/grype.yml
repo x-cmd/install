@@ -12,7 +12,6 @@ x:
   choco: grype
   powershell: grype
   yay: grype-bin
-  curl: curl
 rule:
   /x:
     cmd: x pkg use grype

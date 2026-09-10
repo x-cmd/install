@@ -5,7 +5,6 @@ desc:
   en: A terminal-based process controller that provides a user-friendly interface to manage processes.
 x:
   source: https://github.com/MohamedSherifNoureldin/PCtrl
-  curl: curl
 rule:
   linux/curl:
     cmd: 'curl -O https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.AppImage \

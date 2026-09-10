@@ -11,7 +11,7 @@ x:
   pacman: java
   apt-get: java
   yum: java
-  asdf: asdf
+  asdf: java
 rule:
   /x:
     cmd: x pkg use java

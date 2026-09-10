@@ -14,7 +14,6 @@ x:
   winget: GitHub.cli
   powershell: install
   yay: gh-dash
-  curl: curl
 rule:
   /eget:
     cmd: x eget dlvhdr/gh-dash

@@ -13,7 +13,6 @@ x:
   scoop: bazel
   choco: bazel
   powershell: bazel
-  curl: curl
 rule:
   /eget:
     cmd: x eget bazelbuild/bazel

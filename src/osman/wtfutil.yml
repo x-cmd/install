@@ -10,7 +10,7 @@ x:
   brew: wtfutil
   port: wtfutil
   yay: wtfutil
-  asdf: asdf
+  asdf: wtfutil
   make: make
 rule:
   /x:
