@@ -1,0 +1,86 @@
+lang: Rust
+homepage: https://alphai.io/tui
+license: MIT
+
+desc:
+  cn: 待作者补充（terminal stock dashboard with AI-scored news）
+  en: An open-source (MIT) terminal stock dashboard — live quotes / candlestick charts plus AI-scored news, SEC Form 4 insider filings, and earnings reads. (Author to expand.)
+
+x:
+  source: https://github.com/makeev/alphai-tui
+  eget: https://github.com/makeev/alphai-tui
+
+rule:
+  /eget:
+    cmd: x eget makeev/alphai-tui
+    reference: https://github.com/makeev/alphai-tui/releases/latest
+  /curl:
+    cmd: curl -LsSf https://github.com/makeev/alphai-tui/releases/latest/download/alphai-tui-installer.sh | sh
+    reference: https://github.com/makeev/alphai-tui#install
+  /brew:
+    cmd: brew install makeev/tap/alphai-tui
+    reference: https://github.com/makeev/homebrew-tap
+  /cargo:
+    cmd: cargo install alphai-tui
+    reference: https://crates.io/crates/alphai-tui
+  /aur:
+    cmd: paru -S alphai-tui-bin
+    reference: https://aur.archlinux.org/packages/alphai-tui-bin
+
+binlist:
+  - alphai-tui
+
+# Notes for the author:
+#   - footprint fields below are placeholder defaults — adjust to
+#     reflect the real network / disk / memory profile of the app.
+#   - rule /breakdown/ sub-keys (other targets / distro-specific
+#     installs) are welcome — see src/finance/mop.yml for the
+#     canonical pattern.
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+      write:
+        desc:
+          cn: 写入缓存 / 用户数据
+          en: Writes cache / user data
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 15 MB
+          rating: 1
+          desc:
+            cn: 约 15 MB（估算，待作者校准）
+            en: ~15 MB estimated (placeholder — author to verify)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB（估算，待作者校准）
+          en: 30 MB estimated (placeholder — author to verify)
+    cpu:
+      workload: ['network', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低（仅限本地渲染）
+          en: Low (local rendering only)
