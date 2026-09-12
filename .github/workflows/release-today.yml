@@ -17,6 +17,33 @@ jobs:
     timeout-minutes: 1
     steps:
       - run: echo "preflight ok"
+
+  # Inlined lint — release cannot use `needs: <other-workflow-job>`
+  # via workflow_dispatch (GitHub's static validator rejects it).
+  lint:
+    runs-on: ubuntu-slim
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install x-cmd
+        run: |
+          curl -sf https://get.x-cmd.com | sh -s -- -y
+          echo "$HOME/.x-cmd.root/bin" >> "$GITHUB_PATH"
+
+      - name: ajv schema check
+        run: |
+          diff -q .vscode/install.schema.json .x-cmd/install-yml-check.schema.json
+          x ajv -s .vscode/install.schema.json src/
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: deno field linter
+        run: deno run --allow-read .x-cmd/lint-yml.deno.ts
+
   build:
     needs: [preflight, lint]
     runs-on: ubuntu-slim
