@@ -8,6 +8,7 @@ permissions:
 
 jobs:
   build:
+    needs: lint
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
