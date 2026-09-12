@@ -6,7 +6,7 @@ desc:
   en: 'a stylish, batteries-included terminal file manager.'
 x:
   source: https://github.com/NSPC911/rovr
-  eget: https://github.com/NSPC911/rovr
+  eget: NSPC911/rovr
 rule:
   /eget:
     cmd: x eget NSPC911/rovr

@@ -6,7 +6,7 @@ desc:
   en: 'Self-hosted AI coding assistant'
 x:
   source: https://github.com/TabbyML/tabby
-  eget: https://github.com/TabbyML/tabby
+  eget: TabbyML/tabby
 rule:
   /eget:
     cmd: x eget TabbyML/tabby

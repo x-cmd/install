@@ -14,11 +14,9 @@ x:
   yum: epel-release.noarch
   zypper: the_silver_searcher
   port: the_silver_searcher
-  emerge: -a
   scoop: main/ag
   choco: ag
   winget: TheSilverSearcher
-  pkg: the_silver_searcher
 rule:
   darwin/brew:
     cmd: brew install the_silver_searcher

@@ -21,7 +21,7 @@ x:
   scoop: extras/wpsoffice
   choco: wps-office-free
   winget: Kingsoft.WPSOffice
-  brew: --caskbinlist:
+binlist:
 - Microsoft-Office
 license: NOASSERTION
 

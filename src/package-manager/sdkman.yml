@@ -6,7 +6,7 @@ desc:
   en: SDKMAN is a tool for managing parallel Versions of multiple Software Development Kits on any Unix based system
 x:
   source: https://github.com/sdkman/sdkman-cli
-  eget: https://github.com/sdkman/sdkman-cli
+  eget: sdkman/sdkman-cli
 rule:
   /eget:
     cmd: x eget sdkman/sdkman-cli

@@ -6,7 +6,7 @@ desc:
   en: Pure Go implementation of jq
 x:
   source: https://github.com/itchyny/gojq
-  eget: https://github.com/itchyny/gojq
+  eget: itchyny/gojq
   brew: gojq
   yay: gojq
   go: github.com/itchyny/gojq/cmd/gojq@latest

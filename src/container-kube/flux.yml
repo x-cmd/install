@@ -6,8 +6,9 @@ desc:
   cn: Flux 是一套连续和渐进的交付解决方案，是开放和可扩展的 Kubernetes
 x:
   source: https://github.com/fluxcd/flux2
-  eget: https://github.com/fluxcd/flux2
-  brew: fluxcd/tap/fluxrule:
+  eget: fluxcd/flux2
+  brew: fluxcd/tap/flux
+rule:
   /eget:
     cmd: x eget fluxcd/flux2
     reference: https://x-cmd.com/mod/eget

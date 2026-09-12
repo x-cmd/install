@@ -6,7 +6,7 @@ desc:
   en: 'Go manage your Ollama models'
 x:
   source: https://github.com/sammcj/gollama
-  eget: https://github.com/sammcj/gollama
+  eget: sammcj/gollama
 rule:
   /eget:
     cmd: x eget sammcj/gollama

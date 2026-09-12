@@ -5,7 +5,7 @@ desc:
   en: Database migrations written in Go,use as CLI or import as library
 x:
   source: https://github.com/golang-migrate/migrate
-  eget: https://github.com/golang-migrate/migrate
+  eget: golang-migrate/migrate
   brew: golang-migrate
   scoop: main/migrate
   yay: migrate

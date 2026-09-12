@@ -6,7 +6,7 @@ desc:
   en: 'Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who''s there? 🚪'
 x:
   source: https://github.com/ramonvermeulen/whosthere
-  eget: https://github.com/ramonvermeulen/whosthere
+  eget: ramonvermeulen/whosthere
 rule:
   /eget:
     cmd: x eget ramonvermeulen/whosthere

@@ -6,7 +6,7 @@ desc:
   en: Batteries-included fork of the minimalist Pi coding agent — adds LSP, debug adapters, persistent runtimes, browser/desktop automation and subagents out of the box.
 x:
   source: https://github.com/can1357/oh-my-pi
-  eget: https://github.com/can1357/oh-my-pi
+  eget: can1357/oh-my-pi
   brew: can1357/tap/omp
   nix: github:can1357/oh-my-pi#install
 rule:

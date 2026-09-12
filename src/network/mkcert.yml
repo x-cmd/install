@@ -6,7 +6,7 @@ desc:
   en: mkcert is a simple tool for making locally-trusted development certificates
 x:
   source: https://github.com/FiloSottile/mkcert
-  eget: https://github.com/FiloSottile/mkcert
+  eget: FiloSottile/mkcert
   brew: mkcert
   yay: mkcert-git
   asdf: mkcert

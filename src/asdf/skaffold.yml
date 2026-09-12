@@ -6,7 +6,7 @@ desc:
   en: Skaffold is a command line tool that facilitates continuous development for container based & Kubernetes applications
 x:
   source: https://github.com/GoogleContainerTools/skaffold
-  eget: https://github.com/GoogleContainerTools/skaffold
+  eget: GoogleContainerTools/skaffold
   brew: skaffold
   port: skaffold
   scoop: skaffold

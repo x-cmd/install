@@ -6,7 +6,7 @@ desc:
   en: '`bit` is an experimental modernized git CLI built on top of git that provides happy defaults '
 x:
   source: https://github.com/chriswalz/bit
-  eget: https://github.com/chriswalz/bit
+  eget: chriswalz/bit
   brew: bit-git
   port: bit
   choco: bit-git

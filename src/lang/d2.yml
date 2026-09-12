@@ -6,7 +6,7 @@ desc:
   en: D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming
 x:
   source: https://github.com/terrastruct/d2
-  eget: https://github.com/terrastruct/d2
+  eget: terrastruct/d2
   brew: d2
   scoop: d2
   go: oss.terrastruct.com/d2

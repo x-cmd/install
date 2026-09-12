@@ -6,7 +6,7 @@ desc:
   en: Clusterawsadm plugin for the asdf version manager
 x:
   source: https://github.com/kubernetes-sigs/cluster-api-provider-aws
-  eget: https://github.com/kubernetes-sigs/cluster-api-provider-aws
+  eget: kubernetes-sigs/cluster-api-provider-aws
   asdf: clusterawsadm
 rule:
   /eget:

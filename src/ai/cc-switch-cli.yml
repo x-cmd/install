@@ -6,7 +6,7 @@ desc:
   en: ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 x:
   source: https://github.com/SaladDay/cc-switch-cli
-  eget: https://github.com/SaladDay/cc-switch-cli
+  eget: SaladDay/cc-switch-cli
 rule:
   /eget:
     cmd: x eget SaladDay/cc-switch-cli

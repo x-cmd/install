@@ -6,7 +6,7 @@ desc:
   en: htop is a cross-platform interactive process viewer.
 x:
   source: https://github.com/htop-dev/htop
-  eget: https://github.com/htop-dev/htop
+  eget: htop-dev/htop
   apt: htop
   dnf: htop
   brew: htop

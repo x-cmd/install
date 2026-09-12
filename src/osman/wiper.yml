@@ -6,7 +6,7 @@ desc:
   en: 'Disk analyser and cleanup tool'
 x:
   source: https://github.com/ikebastuz/wiper
-  eget: https://github.com/ikebastuz/wiper
+  eget: ikebastuz/wiper
 rule:
   /eget:
     cmd: x eget ikebastuz/wiper

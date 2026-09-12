@@ -6,9 +6,7 @@ desc:
   en: Mise (mise-en-place) is a development environment setup tool similar to asdf, used for installing and managing development tools/runtimes (such as Node, Python, or Terraform), managing environment variables, and handling project tasks.
 x:
   source: https://github.com/jdx/mise
-  eget: https://github.com/jdx/mise
-  apt: -y
-  dnf: -y
+  eget: jdx/mise
   brew: mise
   apk: mise
   scoop: mise

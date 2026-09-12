@@ -6,7 +6,7 @@ desc:
   en: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 x:
   source: https://github.com/anchore/syft
-  eget: https://github.com/anchore/syft
+  eget: anchore/syft
   brew: syft
   scoop: syft
   choco: syft

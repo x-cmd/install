@@ -6,7 +6,8 @@ homepage: https://github.com/influxdata/influxdb
 license: Apache-2.0
 x:
   source: https://github.com/influxdata/influxdb
-  brew: influxdbrule:
+  brew: influxdb
+rule:
   /x:
     cmd: x pkg use influxdb
     reference: https://x-cmd.com/install/

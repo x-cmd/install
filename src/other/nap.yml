@@ -5,7 +5,7 @@ desc:
   en: A terminal-based code snippet manager with a command-line interface (CLI) and a text-user interface (TUI)
 x:
   source: https://github.com/maaslalani/nap
-  eget: https://github.com/maaslalani/nap
+  eget: maaslalani/nap
   brew: nap
   go: github.com/maaslalani/nap@main
 rule:

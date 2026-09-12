@@ -6,7 +6,7 @@ desc:
   en: CHANGELOG generator implemented in Go (Golang)
 x:
   source: https://github.com/git-chglog/git-chglog
-  eget: https://github.com/git-chglog/git-chglog
+  eget: git-chglog/git-chglog
   brew: git-chglog/git-chglog/git-chglog
   scoop: git-chglog
   yay: git-chglog

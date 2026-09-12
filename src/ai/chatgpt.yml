@@ -6,7 +6,7 @@ desc:
   en: Command line interface for ChatGPT
 x:
   source: https://github.com/j178/chatgpt
-  eget: https://github.com/j178/chatgpt
+  eget: j178/chatgpt
   brew: j178/tap/chatgpt
   scoop: j178/chatgpt
   yay: chatgpt-bin

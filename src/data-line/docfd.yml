@@ -6,7 +6,7 @@ desc:
   cn: TUI 多行模糊文档查找器
 x:
   source: https://github.com/darrenldl/docfd
-  eget: https://github.com/darrenldl/docfd
+  eget: darrenldl/docfd
   pacman: docfd
 rule:
   /eget:

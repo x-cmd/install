@@ -8,7 +8,6 @@ x:
   source: https://github.com/lra/mackup
   brew: mackup
   yay: mackup
-  pip: --upgrade
 rule:
   /x:
     cmd: x pkg use mackup

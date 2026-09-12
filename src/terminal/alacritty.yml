@@ -8,7 +8,6 @@ x:
   source: https://github.com/alacritty/alacritty
   scoop: extras/alacritty
   choco: alacritty
-  winget: -e
   cargo: alacritty
 rule:
   /cargo:

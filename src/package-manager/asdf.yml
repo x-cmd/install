@@ -6,7 +6,7 @@ desc:
   en: asdf is a CLI tool that can manage multiple language runtime versions on a per-project basis
 x:
   source: https://github.com/asdf-vm/asdf
-  eget: https://github.com/asdf-vm/asdf
+  eget: asdf-vm/asdf
   brew: asdf
   makepkg: makepkg
   yay: asdf-vm

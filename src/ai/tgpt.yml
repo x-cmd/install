@@ -6,13 +6,12 @@ desc:
   en: tgpt is a cross-platform command-line interface (CLI) tool that allows you to use AI chatbot in your Terminal without requiring API keys.
 x:
   source: https://github.com/aandrew-me/tgpt
-  eget: https://github.com/aandrew-me/tgpt
+  eget: aandrew-me/tgpt
   pacman: tgpt
   scoop: https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
   choco: tgpt
   yay: tgpt-git
   go: github.com/aandrew-me/tgpt/v2@latest
-  pkg: tgpt
 rule:
   /eget:
     cmd: x eget aandrew-me/tgpt

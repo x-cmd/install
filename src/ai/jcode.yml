@@ -6,9 +6,8 @@ desc:
   en: The most RAM efficient and intelligent AI coding agent for the terminal, supporting Claude, OpenAI, Gemini, Copilot, Azure, MCP and TUI.
 x:
   source: https://github.com/1jehuang/jcode
-  eget: https://github.com/1jehuang/jcode
+  eget: 1jehuang/jcode
   brew: 1jehuang/jcode/jcode
-  cargo: --git
 rule:
   /eget:
     cmd: x eget use 1jehuang/jcode

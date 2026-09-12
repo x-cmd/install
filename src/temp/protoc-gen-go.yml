@@ -6,7 +6,7 @@ desc:
   en: The protoc-gen-go tool is a compiler plugin to protoc, the protocol buffer compiler
 x:
   source: https://github.com/protocolbuffers/protobuf-go
-  eget: https://github.com/protocolbuffers/protobuf-go
+  eget: protocolbuffers/protobuf-go
   go: google.golang.org/protobuf/cmd/protoc-gen-go@latest
 rule:
   /eget:

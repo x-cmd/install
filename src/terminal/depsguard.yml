@@ -6,8 +6,8 @@ desc:
   en: 'Harden your package manager configs against supply chain attacks.'
 x:
   source: https://github.com/arnica/depsguard
-  eget: https://github.com/arnica/depsguard
-  cargo: depsguard'
+  eget: arnica/depsguard
+  cargo: depsguard
 rule:
   /cargo:
     cmd: 'cargo install depsguard'

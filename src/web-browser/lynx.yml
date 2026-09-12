@@ -6,7 +6,7 @@ desc:
   en: Lynx is a fully featured World-Wide Web browser for users on both Unix and VMS platforms who are connected to those systems via cursor-addressable, character-cell terminals or emulators.
 x:
   source: https://github.com/lynx-family/lynx
-  eget: https://github.com/lynx-family/lynx
+  eget: lynx-family/lynx
   brew: lynx
   yay: lynx-git
 rule:

@@ -6,7 +6,7 @@ desc:
   en: An opinionated command line tool for managing multiple kubeconfigs
 x:
   source: https://github.com/particledecay/kconf
-  eget: https://github.com/particledecay/kconf
+  eget: particledecay/kconf
   yay: kconf
   asdf: kconf
 rule:

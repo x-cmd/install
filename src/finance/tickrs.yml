@@ -6,7 +6,7 @@ desc:
   en: 'Realtime ticker data in your terminal 📈'
 x:
   source: https://github.com/tarkah/tickrs
-  eget: https://github.com/tarkah/tickrs
+  eget: tarkah/tickrs
 rule:
   /eget:
     cmd: x eget tarkah/tickrs

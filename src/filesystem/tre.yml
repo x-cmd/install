@@ -6,7 +6,7 @@ desc:
   cn: 树状结构命令的现代替代方案
 x:
   source: https://github.com/dduan/tre
-  eget: https://github.com/dduan/tre
+  eget: dduan/tre
   apt: tre-command
   brew: tre-command
   port: tre-tree

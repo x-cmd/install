@@ -6,7 +6,7 @@ desc:
   en: pdfcpu is a PDF processing library written in Go supporting encryption
 x:
   source: https://github.com/pdfcpu/pdfcpu
-  eget: https://github.com/pdfcpu/pdfcpu
+  eget: pdfcpu/pdfcpu
   dnf: golang-github-pdfcpu
   brew: pdfcpu
   yay: pdfcpu

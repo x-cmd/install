@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based bulk file renamer with a TUI'
 x:
   source: https://github.com/andrianllmm/renux
-  eget: https://github.com/andrianllmm/renux
+  eget: andrianllmm/renux
 rule:
   /eget:
     cmd: x eget andrianllmm/renux

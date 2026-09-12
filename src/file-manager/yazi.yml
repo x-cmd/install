@@ -6,13 +6,12 @@ desc:
   cn: 超快终端文件管理器
 x:
   source: https://github.com/sxyazi/yazi
-  eget: https://github.com/sxyazi/yazi
+  eget: sxyazi/yazi
   brew: homebrew/cask-fonts/yazi
   pacman: yazi
   zypper: yazi
   scoop: yazi
   paru: yazi-git
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget sxyazi/yazi

@@ -6,7 +6,7 @@ desc:
   en: A powerful Groovy-based web application framework for the JVM built on top of Spring Boot
 x:
   source: https://github.com/apache/grails-core
-  eget: https://github.com/apache/grails-core
+  eget: apache/grails-core
   brew: grails
   pacman: grails
   yay: grails

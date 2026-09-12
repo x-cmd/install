@@ -6,7 +6,7 @@ desc:
   en: 'A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾'
 x:
   source: https://github.com/mlb-rs/mlbt
-  eget: https://github.com/mlb-rs/mlbt
+  eget: mlb-rs/mlbt
 rule:
   /eget:
     cmd: x eget mlb-rs/mlbt

@@ -6,7 +6,7 @@ desc:
   en: 'A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.'
 x:
   source: https://github.com/cpcloud/micasa
-  eget: https://github.com/cpcloud/micasa
+  eget: cpcloud/micasa
 rule:
   /eget:
     cmd: x eget cpcloud/micasa

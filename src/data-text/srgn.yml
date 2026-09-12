@@ -6,8 +6,8 @@ desc:
   en: 'A grep-like tool which understands source code syntax and allows for manipulation in addition to search'
 x:
   source: https://github.com/alexpovel/srgn
-  eget: https://github.com/alexpovel/srgn
-  cargo: cargo-binstall'
+  eget: alexpovel/srgn
+  cargo: cargo-binstall
 rule:
   /cargo:
     cmd: 'cargo install cargo-binstall'

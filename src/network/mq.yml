@@ -6,7 +6,7 @@ desc:
   en: 'A jq-like Markdown query language for command-line processing'
 x:
   source: https://github.com/harehare/mq
-  eget: https://github.com/harehare/mq
+  eget: harehare/mq
 rule:
   /eget:
     cmd: x eget harehare/mq

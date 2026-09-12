@@ -6,7 +6,7 @@ desc:
   en: 'Provides a collection of open-source, plug-and-play modules for building AI agents that interact with blockchain protocols and decentralized applications.'
 x:
   source: https://github.com/BankrBot/skills
-  eget: https://github.com/BankrBot/skills
+  eget: BankrBot/skills
 rule:
   /eget:
     cmd: x eget BankrBot/skills

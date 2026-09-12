@@ -6,8 +6,8 @@ desc:
   en: 'Feature rich Discord TUI client.'
 x:
   source: https://github.com/sparklost/endcord
-  eget: https://github.com/sparklost/endcord
-  yay: endcord'
+  eget: sparklost/endcord
+  yay: endcord
 rule:
   arch/pacman:
     cmd: 'yay -S endcord'

@@ -6,12 +6,11 @@ desc:
   en: pixi is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem
 x:
   source: https://github.com/prefix-dev/pixi
-  eget: https://github.com/prefix-dev/pixi
+  eget: prefix-dev/pixi
   brew: pixi
   pacman: pixi
   apk: pixi
   winget: prefix-dev.pixi
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget prefix-dev/pixi

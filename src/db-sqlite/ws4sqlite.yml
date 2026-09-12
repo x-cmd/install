@@ -6,7 +6,7 @@ desc:
   en: ws4sqlite is a server-side application that, applied to one or more SQLite files, allows to perform SQL queries and statements on them via REST (or better, JSON over HTTP)
 x:
   source: https://github.com/proofrock/ws4sqlite
-  eget: https://github.com/proofrock/ws4sqlite
+  eget: proofrock/ws4sqlite
   yay: ws4sqlite-bin
 rule:
   /x:

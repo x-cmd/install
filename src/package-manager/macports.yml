@@ -6,7 +6,7 @@ desc:
   en: MacPorts is an easy to use system for compiling, installing, and managing open source software
 x:
   source: https://github.com/macports/macports-base
-  eget: https://github.com/macports/macports-base
+  eget: macports/macports-base
 rule:
   /eget:
     cmd: x eget macports/macports-base

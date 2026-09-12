@@ -6,7 +6,7 @@ desc:
   en: httpserver — software install
 x:
   source: https://github.com/akshayKMR/hhttpserver
-  eget: https://github.com/akshayKMR/hhttpserver
+  eget: akshayKMR/hhttpserver
 rule:
   /eget:
     cmd: x eget akshayKMR/hhttpserver

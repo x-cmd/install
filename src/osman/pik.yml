@@ -6,7 +6,7 @@ desc:
   en: Process Interactive Kill is a command line tool that helps to find and kill process
 x:
   source: https://github.com/jacek-kurlit/pik
-  eget: https://github.com/jacek-kurlit/pik
+  eget: jacek-kurlit/pik
   dnf: pik
   pacman: pik
   zypper: pik

@@ -6,7 +6,7 @@ desc:
   en: 'Track stocks, crypto, and derivatives prices and positions in real time from your terminal'
 x:
   source: https://github.com/achannarasappa/ticker
-  eget: https://github.com/achannarasappa/ticker
+  eget: achannarasappa/ticker
 rule:
   /eget:
     cmd: x eget achannarasappa/ticker

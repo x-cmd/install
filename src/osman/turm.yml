@@ -6,7 +6,7 @@ desc:
   en: 'TUI for the Slurm Workload Manager'
 x:
   source: https://github.com/kabouzeid/turm
-  eget: https://github.com/kabouzeid/turm
+  eget: kabouzeid/turm
 rule:
   /eget:
     cmd: x eget kabouzeid/turm

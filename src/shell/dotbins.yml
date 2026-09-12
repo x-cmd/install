@@ -6,7 +6,7 @@ desc:
   en: 'Keep updated binaries in your dotfiles 🧰'
 x:
   source: https://github.com/basnijholt/dotbins
-  eget: https://github.com/basnijholt/dotbins
+  eget: basnijholt/dotbins
 rule:
   /eget:
     cmd: x eget basnijholt/dotbins

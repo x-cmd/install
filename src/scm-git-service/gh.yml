@@ -6,7 +6,7 @@ desc:
 license: MIT
 x:
   source: https://github.com/cli/cli
-  eget: https://github.com/cli/cli
+  eget: cli/cli
   apt: wget
   dnf: gh
   brew: gh
@@ -15,12 +15,10 @@ x:
   apt-get: wget
   zypper: gh
   port: gh
-  emerge: -av
   xbps: github-cli
   scoop: gh
   choco: gh
   winget: GitHub.cli
-  pkg: gh
 rule:
   /eget:
     cmd: x eget use cli/cli

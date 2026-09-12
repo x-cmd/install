@@ -18,7 +18,6 @@ x:
   scoop: neofetch
   winget: nepnep.neofetch-win
   yay: neofetch
-  pkg: neofetch
 rule:
   darwin/brew:
     cmd: brew install neofetch

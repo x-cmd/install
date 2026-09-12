@@ -6,7 +6,7 @@ desc:
   en: Terminal file manager
 x:
   source: https://github.com/gokcehan/lf
-  eget: https://github.com/gokcehan/lf
+  eget: gokcehan/lf
   dnf: lf
   brew: lf
   apk: lf

@@ -6,7 +6,7 @@ desc:
   en: tfsec is a static analysis security scanner for your Terraform code
 x:
   source: https://github.com/aquasecurity/tfsec
-  eget: https://github.com/aquasecurity/tfsec
+  eget: aquasecurity/tfsec
   brew: tfsec
   scoop: tfsec
   choco: tfsec

@@ -6,7 +6,7 @@ desc:
   cn: 用 Rust 编写的用于大语言模型（LLMs）的 TUI 界面
 x:
   source: https://github.com/pythops/tenere
-  eget: https://github.com/pythops/tenere
+  eget: pythops/tenere
   brew: tenere
   yay: tenere-bin
   cargo: tenere

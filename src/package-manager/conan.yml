@@ -6,7 +6,7 @@ desc:
   en: Conan is a dependency and package manager for C and C++ languages
 x:
   source: https://github.com/conan-io/conan
-  eget: https://github.com/conan-io/conan
+  eget: conan-io/conan
   yay: conan-bin
   pip: conan
 rule:

@@ -6,7 +6,7 @@ homepage: https://github.com/reviewdog/reviewdog
 license: MIT
 x:
   source: https://github.com/reviewdog/reviewdog
-  eget: https://github.com/reviewdog/reviewdog
+  eget: reviewdog/reviewdog
   brew: reviewdog/tap/reviewdog
   scoop: reviewdog
   yay: reviewdog-bin

@@ -6,7 +6,7 @@ desc:
   en: 'Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.'
 x:
   source: https://github.com/SoptikHa2/desed
-  eget: https://github.com/SoptikHa2/desed
+  eget: SoptikHa2/desed
 rule:
   /eget:
     cmd: x eget SoptikHa2/desed

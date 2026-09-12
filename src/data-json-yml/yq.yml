@@ -6,7 +6,7 @@ homepage: https://github.com/mikefarah/yq
 license: MIT
 x:
   source: https://github.com/mikefarah/yq
-  eget: https://github.com/mikefarah/yq
+  eget: mikefarah/yq
   brew: yq
   pacman: go-yq
   apk: yq

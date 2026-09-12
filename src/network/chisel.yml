@@ -6,7 +6,7 @@ desc:
   en: Fast TCP/UDP tunnel over HTTP
 x:
   source: https://github.com/jpillora/chisel
-  eget: https://github.com/jpillora/chisel
+  eget: jpillora/chisel
   yay: chisel-bin
   go: github.com/jpillora/chisel@latest
 rule:

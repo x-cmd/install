@@ -6,7 +6,7 @@ desc:
   en: 'A Python tool that lets you search and download torrents without leaving your CLI.'
 x:
   source: https://github.com/stabldev/torrra
-  eget: https://github.com/stabldev/torrra
+  eget: stabldev/torrra
 rule:
   /eget:
     cmd: x eget stabldev/torrra

@@ -6,7 +6,7 @@ desc:
   en: Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes
 x:
   source: https://github.com/Azure/draft
-  eget: https://github.com/Azure/draft
+  eget: Azure/draft
   brew: azure/draft/draft
   yay: draft-bin
   asdf: draft

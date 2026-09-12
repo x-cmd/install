@@ -5,7 +5,7 @@ desc:
   en: An utility for encoding or decoding QR code
 x:
   source: https://github.com/sorairolake/qrtool
-  eget: https://github.com/sorairolake/qrtool
+  eget: sorairolake/qrtool
   brew: qrtool
   pacman: qrtool
   zypper: qrtool

@@ -16,7 +16,6 @@ rule:
 
 x:
   winget: Alibaba.aDrive
-  brew: --cask
   yay: aliyun-adrive-bin
 binlist:
 - aDrive

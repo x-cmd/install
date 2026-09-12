@@ -5,7 +5,7 @@ desc:
   en: Git LFS is a command line extension and specification for managing large files with Git.
 x:
   source: https://github.com/git-lfs/git-lfs
-  eget: https://github.com/git-lfs/git-lfs
+  eget: git-lfs/git-lfs
   apt: git-lfs
   dnf: git-lfs
   brew: git-lfs

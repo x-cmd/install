@@ -6,7 +6,7 @@ desc:
   en: concise commandline monitoring for containers
 x:
   source: https://github.com/bcicen/ctop
-  eget: https://github.com/bcicen/ctop
+  eget: bcicen/ctop
   apt: ca-certificates
   brew: ctop
   pacman: ctop

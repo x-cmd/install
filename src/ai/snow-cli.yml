@@ -6,7 +6,7 @@ desc:
   en: Agentic coding in your terminal — simultaneously compatible with DeepSeek, OpenAI, Gemini, and Claude.
 x:
   source: https://github.com/MayDay-wpf/snow-cli
-  eget: https://github.com/MayDay-wpf/snow-cli
+  eget: MayDay-wpf/snow-cli
 rule:
   /eget:
     cmd: x eget MayDay-wpf/snow-cli

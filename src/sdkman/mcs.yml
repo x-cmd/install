@@ -6,7 +6,7 @@ desc:
   en: Maven Central Search, or mcs for short, is a small CLI to query Maven Central from your command line
 x:
   source: https://github.com/mthmulders/mcs
-  eget: https://github.com/mthmulders/mcs
+  eget: mthmulders/mcs
   brew: mthmulders/tap/mcs
   snap: maven-central-search
   choco: mcs

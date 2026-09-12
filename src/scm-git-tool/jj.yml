@@ -6,10 +6,9 @@ desc:
   en: A Git-compatible VCS that is both simple and powerful
 x:
   source: https://github.com/jj-vcs/jj
-  eget: https://github.com/jj-vcs/jj
+  eget: jj-vcs/jj
   brew: jj
   pacman: jujutsu
-  emerge: -av
   scoop: main/jj
   yay: jujutsu-git
 rule:

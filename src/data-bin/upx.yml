@@ -5,7 +5,7 @@ desc:
   en: UPX is a free, secure, portable, extendable, high-performance executable packer for several executable formats.
 x:
   source: https://github.com/upx/upx
-  eget: https://github.com/upx/upx
+  eget: upx/upx
   dnf: upx
   pacman: upx
   apk: upx

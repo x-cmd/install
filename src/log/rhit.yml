@@ -6,7 +6,7 @@ desc:
   en: A nginx log explorer.
 x:
   source: https://github.com/Canop/rhit
-  eget: https://github.com/Canop/rhit
+  eget: Canop/rhit
   brew: bmon
   pacman: rhit
   port: rhit

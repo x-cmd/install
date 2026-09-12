@@ -6,7 +6,7 @@ desc:
   en: 'tiniest x86-64-linux emulator'
 x:
   source: https://github.com/jart/blink
-  eget: https://github.com/jart/blink
+  eget: jart/blink
 rule:
   /eget:
     cmd: x eget jart/blink

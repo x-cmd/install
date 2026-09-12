@@ -6,7 +6,7 @@ desc:
   en: 'CLI to fetch the latest changelogs for AI coding assistants — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw, and a few more'
 x:
   source: https://github.com/reyamira/aic
-  eget: https://github.com/reyamira/aic
+  eget: reyamira/aic
 rule:
   /eget:
     cmd: x eget reyamira/aic

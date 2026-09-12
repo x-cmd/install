@@ -6,7 +6,7 @@ desc:
   en: kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 x:
   source: https://github.com/vmware-tanzu/carvel-kapp
-  eget: https://github.com/vmware-tanzu/carvel-kapp
+  eget: vmware-tanzu/carvel-kapp
   brew: carvel-dev/carvel/kapp
   yay: kapp
   asdf: kapp

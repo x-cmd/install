@@ -6,7 +6,7 @@ desc:
   en: assh is a smart tool that was designed to wrap tightly around your SSH and enhance it, like a superhero suit that has various gadgets installed
 x:
   source: https://github.com/moul/assh
-  eget: https://github.com/moul/assh
+  eget: moul/assh
   brew: assh
   yay: assh-bin
   go: moul.io/assh/v2@latest

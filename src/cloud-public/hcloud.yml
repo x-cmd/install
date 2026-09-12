@@ -6,7 +6,7 @@ desc:
   en: hcloud is a command-line interface for interacting with Hetzner Cloud.
 x:
   source: https://github.com/hetznercloud/cli
-  eget: https://github.com/hetznercloud/cli
+  eget: hetznercloud/cli
   apt: hcloud-cli
   brew: hcloud
   apt-get: hcloud-cli

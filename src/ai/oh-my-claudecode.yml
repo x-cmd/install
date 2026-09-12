@@ -6,7 +6,7 @@ desc:
   en: Teams-first Multi-agent orchestration for Claude Code
 x:
   source: https://github.com/Yeachan-Heo/oh-my-claudecode
-  eget: https://github.com/Yeachan-Heo/oh-my-claudecode
+  eget: Yeachan-Heo/oh-my-claudecode
 rule:
   /eget:
     cmd: x eget Yeachan-Heo/oh-my-claudecode

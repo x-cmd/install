@@ -6,7 +6,7 @@ desc:
   en: 'A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more'
 x:
   source: https://github.com/Vaishnav-Sabari-Girish/ComChan
-  eget: https://github.com/Vaishnav-Sabari-Girish/ComChan
+  eget: Vaishnav-Sabari-Girish/ComChan
 rule:
   /cargo:
     cmd: 'cargo install'

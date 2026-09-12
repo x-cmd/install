@@ -6,7 +6,7 @@ desc:
   en: Jenkins X automates and accelerates Continuous Integration and Continuous Delivery for developers on the cloud, so they can focus on building awesome software
 x:
   source: https://github.com/jenkins-x/jx
-  eget: https://github.com/jenkins-x/jx
+  eget: jenkins-x/jx
   asdf: jx
 rule:
   /eget:

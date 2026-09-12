@@ -6,12 +6,11 @@ desc:
   en: A nonsense activity generator
 x:
   source: https://github.com/svenstaro/genact
-  eget: https://github.com/svenstaro/genact
+  eget: svenstaro/genact
   brew: genact
   port: genact
   scoop: genact
   cargo: genact
-  pkg: genact
 rule:
   /eget:
     cmd: x eget svenstaro/genact

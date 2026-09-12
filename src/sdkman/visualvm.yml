@@ -5,9 +5,8 @@ desc:
   en: VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities
 x:
   source: https://github.com/oracle/visualvm
-  eget: https://github.com/oracle/visualvm
+  eget: oracle/visualvm
   apt: visualvm
-  brew: --cask
   pacman: visualvm
   apt-get: visualvm
   yay: visualvm

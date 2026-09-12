@@ -6,7 +6,7 @@ desc:
   en: agent multiplexer that lives in your terminal.
 x:
   source: https://github.com/herdrdev/herdr
-  eget: https://github.com/herdrdev/herdr
+  eget: herdrdev/herdr
 rule:
   /eget:
     cmd: x eget use herdrdev/herdr

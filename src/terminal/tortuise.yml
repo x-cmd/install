@@ -6,7 +6,7 @@ desc:
   en: 'Gaussian splats in your terminal.'
 x:
   source: https://github.com/buildoak/tortuise
-  eget: https://github.com/buildoak/tortuise
+  eget: buildoak/tortuise
 rule:
   /eget:
     cmd: x eget buildoak/tortuise

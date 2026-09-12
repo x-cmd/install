@@ -6,7 +6,7 @@ desc:
   en: 'The Triton Inference Server provides an optimized cloud and edge inferencing solution.'
 x:
   source: https://github.com/NVIDIA/triton-inference-server
-  eget: https://github.com/NVIDIA/triton-inference-server
+  eget: NVIDIA/triton-inference-server
 rule:
   /eget:
     cmd: x eget NVIDIA/triton-inference-server

@@ -6,13 +6,12 @@ desc:
   en: A modern, full-featured terminal text editor and IDE that's easy, powerful, and fast
 x:
   source: https://github.com/sinelaw/fresh
-  eget: https://github.com/sinelaw/fresh
+  eget: sinelaw/fresh
   brew: fresh-editor
   zypper: fresh-editor
   emerge: app-editors/fresh
   winget: fresh-editor
   yay: fresh-editor-bin
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget sinelaw/fresh

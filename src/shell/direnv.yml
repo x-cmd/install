@@ -14,7 +14,7 @@ desc:
     '
 x:
   source: https://github.com/direnv/direnv
-  eget: https://github.com/direnv/direnv
+  eget: direnv/direnv
   apt: direnv
   dnf: direnv
   brew: direnv

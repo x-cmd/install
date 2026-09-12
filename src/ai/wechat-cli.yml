@@ -6,7 +6,7 @@ desc:
   en: A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration.
 x:
   source: https://github.com/huohuoer/wechat-cli
-  eget: https://github.com/huohuoer/wechat-cli
+  eget: huohuoer/wechat-cli
 rule:
   /eget:
     cmd: x eget huohuoer/wechat-cli

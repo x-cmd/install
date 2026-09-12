@@ -6,7 +6,7 @@ desc:
   en: 'Terminal UI for monitoring and managing Celery workers and tasks, inspired by lazydocker and lazygit'
 x:
   source: https://github.com/Fguedes90/lazycelery
-  eget: https://github.com/Fguedes90/lazycelery
+  eget: Fguedes90/lazycelery
 rule:
   /eget:
     cmd: x eget Fguedes90/lazycelery

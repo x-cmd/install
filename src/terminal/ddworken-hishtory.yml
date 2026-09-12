@@ -6,7 +6,7 @@ desc:
   en: 'Your shell history: synced, queryable, and in context'
 x:
   source: https://github.com/ddworken/hishtory
-  eget: https://github.com/ddworken/hishtory
+  eget: ddworken/hishtory
 rule:
   /eget:
     cmd: x eget ddworken/hishtory

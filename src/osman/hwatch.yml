@@ -6,7 +6,7 @@ desc:
   en: A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 x:
   source: https://github.com/blacknon/hwatch
-  eget: https://github.com/blacknon/hwatch
+  eget: blacknon/hwatch
   brew: hwatch
   port: hwatch
   yay: hwatch

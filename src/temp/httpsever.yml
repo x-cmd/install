@@ -6,7 +6,7 @@ desc:
   en: A very simple http static server, sometimes we need it for testing
 x:
   source: https://github.com/txthinking/httpserver
-  eget: https://github.com/txthinking/httpserver
+  eget: txthinking/httpserver
 rule:
   /eget:
     cmd: x eget txthinking/httpserver

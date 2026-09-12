@@ -6,7 +6,7 @@ desc:
   en: xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files
 x:
   source: https://github.com/BurntSushi/xsv
-  eget: https://github.com/BurntSushi/xsv
+  eget: BurntSushi/xsv
   brew: xsv
   port: xsv
   yay: xsv-git

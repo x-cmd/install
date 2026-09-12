@@ -6,7 +6,7 @@ desc:
   en: circleci is CircleCI's command-line application
 x:
   source: https://github.com/CircleCI-Public/circleci-cli
-  eget: https://github.com/CircleCI-Public/circleci-cli
+  eget: CircleCI-Public/circleci-cli
   brew: circleci
   snap: circleci
   choco: circleci-cli

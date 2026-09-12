@@ -6,7 +6,7 @@ desc:
   en: kwt (Kubernetes Workstation Tools) (pronounced spelled out) CLI provides helpful set of commands for application developers to develop applications with Kubernetes
 x:
   source: https://github.com/carvel-dev/kwt
-  eget: https://github.com/carvel-dev/kwt
+  eget: carvel-dev/kwt
   asdf: kwt
 rule:
   /eget:

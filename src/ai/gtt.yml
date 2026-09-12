@@ -6,9 +6,8 @@ desc:
   en: Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 x:
   source: https://github.com/eeeXun/GTT
-  eget: https://github.com/eeeXun/GTT
+  eget: eeeXun/GTT
   yay: gtt-bin
-  go: -ldflags="-s
 rule:
   /eget:
     cmd: x eget eeeXun/GTT

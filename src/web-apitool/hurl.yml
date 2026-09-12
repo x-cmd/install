@@ -6,19 +6,15 @@ desc:
   en: runs HTTP requests defined in a simple plain text format
 x:
   source: https://github.com/Orange-OpenSource/hurl
-  eget: https://github.com/Orange-OpenSource/hurl
-  apt: ./hurl_$VERSION_amd64.deb
+  eget: Orange-OpenSource/hurl
   brew: hurl
   pacman: hurl-bin
-  apk: --repository
   apt-get: hurl
   port: hurl
   scoop: hurl
   choco: hurl
   winget: hurl
-  npm: --save-dev
   asdf: hurl
-  pkg: hurl
 rule:
   /eget:
     cmd: x eget Orange-OpenSource/hurl

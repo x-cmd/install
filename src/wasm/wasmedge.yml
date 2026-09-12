@@ -6,7 +6,7 @@ desc:
   en: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud-native, edge, and decentralized applications
 x:
   source: https://github.com/WasmEdge/WasmEdge
-  eget: https://github.com/WasmEdge/WasmEdge
+  eget: WasmEdge/WasmEdge
   dnf: wasmedge
   winget: wasmedge
   yay: wasmedge

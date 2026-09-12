@@ -6,7 +6,7 @@ desc:
   en: A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 x:
   source: https://github.com/mark3labs/mcphost
-  eget: https://github.com/mark3labs/mcphost
+  eget: mark3labs/mcphost
   yay: mcphost
   go: github.com/mark3labs/mcphost@latest
 rule:

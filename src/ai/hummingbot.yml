@@ -6,7 +6,7 @@ desc:
   en: Builds and deploys automated trading bots for centralized and decentralized cryptocurrency exchanges.
 x:
   source: https://github.com/hummingbot/hummingbot
-  eget: https://github.com/hummingbot/hummingbot
+  eget: hummingbot/hummingbot
 rule:
   /eget:
     cmd: x eget hummingbot/hummingbot

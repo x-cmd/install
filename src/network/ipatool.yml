@@ -6,7 +6,7 @@ desc:
   en: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 x:
   source: https://github.com/majd/ipatool
-  eget: https://github.com/majd/ipatool
+  eget: majd/ipatool
   brew: majd/repo/ipatool
   yay: ipatool
 rule:

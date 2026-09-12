@@ -6,7 +6,7 @@ desc:
   en: A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for p...
 x:
   source: https://github.com/QuantumNous/new-api
-  eget: https://github.com/QuantumNous/new-api
+  eget: QuantumNous/new-api
 rule:
   /eget:
     cmd: x eget QuantumNous/new-api

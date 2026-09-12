@@ -6,11 +6,10 @@ desc:
   en: A CLI tool for checking password safety.
 x:
   source: https://github.com/edoardottt/pwdsafety
-  eget: https://github.com/edoardottt/pwdsafety
+  eget: edoardottt/pwdsafety
   pacman: pwdsafety
   snap: pwdsafety
   yay: pwdsafety
-  go: -v
 rule:
   /eget:
     cmd: x eget edoardottt/pwdsafety

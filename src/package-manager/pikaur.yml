@@ -6,7 +6,6 @@ desc:
   en: AUR helper with minimal dependencies
 x:
   source: https://github.com/actionless/pikaur
-  pacman: --needed
   yay: pikaur
 rule:
   arch/pacman:

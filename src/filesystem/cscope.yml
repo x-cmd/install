@@ -13,7 +13,8 @@ rule:
 
 x:
   scoop: cscope
-  brew: cscopebinlist:
+  brew: cscope
+binlist:
 - cscope
 license: NOASSERTION
 

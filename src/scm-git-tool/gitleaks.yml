@@ -6,7 +6,7 @@ desc:
   en: gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos
 x:
   source: https://github.com/gitleaks/gitleaks
-  eget: https://github.com/gitleaks/gitleaks
+  eget: gitleaks/gitleaks
   brew: gitleaks
   asdf: gitleaks
 rule:

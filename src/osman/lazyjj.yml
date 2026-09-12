@@ -6,7 +6,7 @@ desc:
   en: 'TUI for Jujutsu/jj'
 x:
   source: https://github.com/Cretezy/lazyjj
-  eget: https://github.com/Cretezy/lazyjj
+  eget: Cretezy/lazyjj
 rule:
   /cargo:
     cmd: 'cargo install'

@@ -6,7 +6,7 @@ desc:
   en: python package and dependency management tool (python 3.8+)
 x:
   source: https://github.com/python-poetry/poetry
-  eget: https://github.com/python-poetry/poetry
+  eget: python-poetry/poetry
   brew: poetry
   yay: python-poetry-git
   asdf: poetry

@@ -6,7 +6,7 @@ desc:
   en: Liqo is an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures
 x:
   source: https://github.com/liqotech/liqo
-  eget: https://github.com/liqotech/liqo
+  eget: liqotech/liqo
   brew: liqoctl
   asdf: liqoctl
 rule:

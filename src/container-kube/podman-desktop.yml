@@ -6,8 +6,6 @@ desc:
   en: Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers
 x:
   source: https://github.com/containers/podman-desktop
-  brew: --cask
-  winget: -e
   flatpak: flathub
 rule:
   /flatpak:

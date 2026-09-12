@@ -6,7 +6,7 @@ desc:
   en: a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.
 x:
   source: https://github.com/scala/scala
-  eget: https://github.com/scala/scala
+  eget: scala/scala
   apt: scala
   dnf: scala
   brew: scala

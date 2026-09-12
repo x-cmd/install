@@ -6,7 +6,7 @@ desc:
   en: A command-line tool for managing cloud storage files
 x:
   source: https://github.com/rclone/rclone
-  eget: https://github.com/rclone/rclone
+  eget: rclone/rclone
   brew: rclone
   snap: rclone
   port: rclone

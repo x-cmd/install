@@ -6,7 +6,7 @@ desc:
   en: Restic is a backup program that is fast, efficient and secure
 x:
   source: https://github.com/restic/restic
-  eget: https://github.com/restic/restic
+  eget: restic/restic
   apt: restic
   dnf: restic
   brew: restic
@@ -20,7 +20,6 @@ x:
   choco: restic
   winget: restic.restic
   asdf: restic
-  pkg: restic
 rule:
   /eget:
     cmd: x eget restic/restic

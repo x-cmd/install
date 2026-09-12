@@ -6,7 +6,7 @@ desc:
   en: vivid is a generator for the LS_COLORS environment variable that controls the colorized output of ls, tree, fd, bfs, dust and many other tools
 x:
   source: https://github.com/sharkdp/vivid
-  eget: https://github.com/sharkdp/vivid
+  eget: sharkdp/vivid
   brew: vivid
   cargo: vivid
 rule:

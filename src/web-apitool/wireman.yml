@@ -6,7 +6,7 @@ desc:
   en: WireMan is a terminal-based gRPC client with a user-friendly interface.
 x:
   source: https://github.com/preiter93/wireman
-  eget: https://github.com/preiter93/wireman
+  eget: preiter93/wireman
   brew: preiter93/wireman/wireman
   cargo: wireman
 rule:

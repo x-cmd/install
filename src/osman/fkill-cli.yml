@@ -6,7 +6,6 @@ desc:
   en: Fabulously kill processes. Cross-platform.
 x:
   source: https://github.com/sindresorhus/fkill-cli
-  npm: --global
 rule:
   /x:
     cmd: x pkg use fkill-cli

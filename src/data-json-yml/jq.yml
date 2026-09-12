@@ -5,7 +5,7 @@ desc:
   en: jq is a lightweight and flexible command-line JSON processor
 x:
   source: https://github.com/jqlang/jq
-  eget: https://github.com/jqlang/jq
+  eget: jqlang/jq
   apt: jq
   dnf: jq
   brew: jq

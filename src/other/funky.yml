@@ -6,7 +6,6 @@ desc:
   en: Funky takes shell functions to the next level, making them easier to define, more flexible, and more interactive
 x:
   source: https://github.com/bbugyi200/funky
-  pip: --user
 rule:
   /x:
     cmd: x pkg use funky

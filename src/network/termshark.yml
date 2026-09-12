@@ -6,14 +6,13 @@ desc:
   en: A terminal UI for tshark, inspired by Wireshark
 x:
   source: https://github.com/gcla/termshark
-  eget: https://github.com/gcla/termshark
+  eget: gcla/termshark
   apt: termshark
   brew: termshark
   pacman: termshark
   snap: termshark
   port: termshark
   yay: termshark-git
-  pkg: termshark
 rule:
   /x:
     cmd: x pkg use termshark

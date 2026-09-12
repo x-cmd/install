@@ -6,7 +6,7 @@ desc:
   en: Turn Unix man pages (roff/mdoc) into structured JSON or readable Markdown — for documentation pipelines, LLM context, or quick inspection without a pager
 x:
   source: https://github.com/ljh-sh/roff
-  eget: https://github.com/ljh-sh/roff
+  eget: ljh-sh/roff
   cargo: roff-cli
 rule:
   /cargo:

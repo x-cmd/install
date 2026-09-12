@@ -6,7 +6,7 @@ desc:
   en: Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tables, lists and more.
 x:
   source: https://github.com/steipete/Markdansi
-  eget: https://github.com/steipete/Markdansi
+  eget: steipete/Markdansi
   npm: markdansi
 rule:
   /npm:

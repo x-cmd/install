@@ -6,7 +6,7 @@ desc:
   en: Real-time usage, cost & quota tracking across 50+ AI CLI tools (Claude Code, Codex, Gemini, Cursor, Copilot…) — plus remote-control your Mac's AI coding sessions from your phone. macOS menu bar · i...
 x:
   source: https://github.com/JasonYeYuhe/cli-pulse
-  eget: https://github.com/JasonYeYuhe/cli-pulse
+  eget: JasonYeYuhe/cli-pulse
 rule:
   /eget:
     cmd: x eget JasonYeYuhe/cli-pulse

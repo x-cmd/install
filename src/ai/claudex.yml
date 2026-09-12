@@ -6,7 +6,7 @@ desc:
   en: Bridge Claude Code to ChatGPT Codex via a local Anthropic-compatible proxy.
 x:
   source: https://github.com/caixiaoshun/claudex
-  eget: https://github.com/caixiaoshun/claudex
+  eget: caixiaoshun/claudex
 rule:
   /eget:
     cmd: x eget caixiaoshun/claudex

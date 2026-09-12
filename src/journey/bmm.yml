@@ -6,7 +6,7 @@ desc:
   en: A CLI tool bookmark manager that stores your links locally.
 x:
   source: https://github.com/dhth/bmm
-  eget: https://github.com/dhth/bmm
+  eget: dhth/bmm
   brew: dhth/tap/bmm
   yay: bmm
   cargo: bmm

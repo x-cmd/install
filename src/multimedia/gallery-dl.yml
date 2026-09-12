@@ -14,7 +14,6 @@ x:
   choco: gallery-dl
   winget: yt-dlp
   yay: gallery-dl
-  pip: -U
   asdf: gallery-dl
   pacman: yt-dlp
 rule:

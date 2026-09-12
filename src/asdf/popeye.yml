@@ -5,7 +5,7 @@ desc:
   en: Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations
 x:
   source: https://github.com/derailed/popeye
-  eget: https://github.com/derailed/popeye
+  eget: derailed/popeye
   brew: derailed/popeye/popeye
   go: github.com/derailed/popeye@latest
   asdf: popeye

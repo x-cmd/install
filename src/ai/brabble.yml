@@ -6,7 +6,7 @@ desc:
   en: '"Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit''s scary.'
 x:
   source: https://github.com/steipete/brabble
-  eget: https://github.com/steipete/brabble
+  eget: steipete/brabble
 rule:
   /eget:
     cmd: x eget steipete/brabble

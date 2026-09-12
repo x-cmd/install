@@ -6,7 +6,7 @@ desc:
   en: 'Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)'
 x:
   source: https://github.com/kimono-koans/httm
-  eget: https://github.com/kimono-koans/httm
+  eget: kimono-koans/httm
 rule:
   /eget:
     cmd: x eget kimono-koans/httm

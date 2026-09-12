@@ -6,7 +6,7 @@ desc:
   en: Environment variables substitution for Go
 x:
   source: https://github.com/a8m/envsubst
-  eget: https://github.com/a8m/envsubst
+  eget: a8m/envsubst
   asdf: envsubst
 rule:
   /x:

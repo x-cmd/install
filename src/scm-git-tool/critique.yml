@@ -6,7 +6,7 @@ desc:
   en: 'TUI for reviewing git changes'
 x:
   source: https://github.com/remorses/critique
-  eget: https://github.com/remorses/critique
+  eget: remorses/critique
 rule:
   /eget:
     cmd: x eget remorses/critique

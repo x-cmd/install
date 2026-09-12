@@ -6,8 +6,8 @@ desc:
   en: 'a colorful modal hex editor'
 x:
   source: https://github.com/simonomi/hexapoda
-  eget: https://github.com/simonomi/hexapoda
-  cargo: hexapoda'
+  eget: simonomi/hexapoda
+  cargo: hexapoda
 rule:
   /cargo:
     cmd: 'cargo install hexapoda'

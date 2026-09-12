@@ -6,7 +6,7 @@ desc:
   en: The Alibaba Cloud CLI is a tool to manage and use Alibaba Cloud resources through a command line interface
 x:
   source: https://github.com/aliyun/aliyun-cli
-  eget: https://github.com/aliyun/aliyun-cli
+  eget: aliyun/aliyun-cli
   brew: aliyun-cli
   yay: aliyun-cli-bin
 rule:

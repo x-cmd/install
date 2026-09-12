@@ -5,8 +5,9 @@ desc:
   en: Rover is the command-line interface for managing and maintaining graphs with Apollo GraphOS
 x:
   source: https://github.com/apollographql/rover
-  eget: https://github.com/apollographql/rover
-  brew: roverrule:
+  eget: apollographql/rover
+  brew: rover
+rule:
   /eget:
     cmd: x eget apollographql/rover
     reference: https://x-cmd.com/mod/eget

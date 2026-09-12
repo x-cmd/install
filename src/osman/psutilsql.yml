@@ -6,7 +6,7 @@ desc:
   en: Use the gopsutil library to retrieve information and process it with SQL
 x:
   source: https://github.com/noborus/psutilsql
-  eget: https://github.com/noborus/psutilsql
+  eget: noborus/psutilsql
   yay: psutilsql-bin
 rule:
   /x:

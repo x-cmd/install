@@ -6,11 +6,10 @@ homepage: https://github.com/Equationzhao/g
 license: MIT
 x:
   source: https://github.com/Equationzhao/g
-  eget: https://github.com/Equationzhao/g
+  eget: Equationzhao/g
   brew: g-ls
   scoop: https://raw.githubusercontent.com/Equationzhao/g/master/scoop/g.json
   yay: g-ls
-  go: -ldflags="-s
 rule:
   /x:
     cmd: x pkg use g

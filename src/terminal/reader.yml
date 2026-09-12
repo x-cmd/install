@@ -6,7 +6,7 @@ desc:
   en: 'reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://codeberg.org/mr...'
 x:
   source: https://github.com/mrusme/reader
-  eget: https://github.com/mrusme/reader
+  eget: mrusme/reader
 rule:
   /eget:
     cmd: x eget mrusme/reader

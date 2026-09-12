@@ -6,7 +6,7 @@ desc:
   en: An interactive flamegraph viewer in the terminal.
 x:
   source: https://github.com/YS-L/flamelens
-  eget: https://github.com/YS-L/flamelens
+  eget: YS-L/flamelens
   pacman: flamelens
   cargo: flamelens
 rule:

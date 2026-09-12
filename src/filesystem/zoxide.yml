@@ -6,7 +6,7 @@ desc:
   en: A smarter cd command. Supports all major shells.
 x:
   source: https://github.com/ajeetdsouza/zoxide
-  eget: https://github.com/ajeetdsouza/zoxide
+  eget: ajeetdsouza/zoxide
   apt: zoxide
   dnf: zoxide
   brew: zoxide
@@ -14,7 +14,6 @@ x:
   apk: zoxide
   zypper: zoxide
   port: zoxide
-  emerge: --sync
   xbps: zoxide
   scoop: zoxide
   choco: zoxide
@@ -23,7 +22,6 @@ x:
   yay: zoxide-git
   cargo: zoxide
   asdf: zoxide
-  pkg: zoxide
 rule:
   /x:
     cmd: x pkg use zoxide

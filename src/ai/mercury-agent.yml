@@ -6,7 +6,7 @@ desc:
   en: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
 x:
   source: https://github.com/cosmicstack-labs/mercury-agent
-  eget: https://github.com/cosmicstack-labs/mercury-agent
+  eget: cosmicstack-labs/mercury-agent
 rule:
   /eget:
     cmd: x eget cosmicstack-labs/mercury-agent

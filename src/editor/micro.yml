@@ -6,7 +6,7 @@ desc:
   en: A modern and intuitive terminal-based text editor
 x:
   source: https://github.com/zyedidia/micro
-  eget: https://github.com/zyedidia/micro
+  eget: zyedidia/micro
   apt: micro
   dnf: micro
   brew: micro

@@ -6,9 +6,10 @@ desc:
   en: 'Scan for misconfigured S3 buckets across S3-compatible APIs!'
 x:
   source: https://github.com/sa7mon/S3Scanner
-  eget: https://github.com/sa7mon/S3Scanner
-  apt: s3scanner'
-  brew: s3scannerrule:
+  eget: sa7mon/S3Scanner
+  apt: s3scanner
+  brew: s3scanner
+rule:
   darwin/brew:
     cmd: 'brew install s3scanner'
     reference: https://github.com/sa7mon/S3Scanner

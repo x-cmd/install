@@ -5,7 +5,7 @@ desc:
   en: A command line tool for tracking time spent on tasks & projects.
 x:
   source: https://github.com/mrusme/zeit
-  eget: https://github.com/mrusme/zeit
+  eget: mrusme/zeit
   yay: zeit
   go: github.com/mrusme/zeit@latest
 rule:

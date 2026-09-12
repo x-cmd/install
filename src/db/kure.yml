@@ -6,7 +6,7 @@ desc:
   en: 'CLI password manager with sessions'
 x:
   source: https://github.com/GGP1/kure
-  eget: https://github.com/GGP1/kure
+  eget: GGP1/kure
 rule:
   /eget:
     cmd: x eget GGP1/kure

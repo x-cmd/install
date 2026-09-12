@@ -6,7 +6,7 @@ desc:
   en: 'Task Timer (tt) is a dead simple TUI task timer'
 x:
   source: https://github.com/caarlos0/tasktimer
-  eget: https://github.com/caarlos0/tasktimer
+  eget: caarlos0/tasktimer
 rule:
   /eget:
     cmd: x eget caarlos0/tasktimer

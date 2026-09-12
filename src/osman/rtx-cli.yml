@@ -6,8 +6,9 @@ desc:
   en: Rtx is a tool for managing programming language and tool versions
 x:
   source: https://github.com/jdx/rtx
-  eget: https://github.com/jdx/rtx
-  brew: rtxrule:
+  eget: jdx/rtx
+  brew: rtx
+rule:
   /eget:
     cmd: x eget jdx/rtx
     reference: https://x-cmd.com/mod/eget

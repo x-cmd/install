@@ -6,7 +6,7 @@ desc:
   en: ClaudeCode related repository
 x:
   source: https://github.com/LING71671/Open-ClaudeCode
-  eget: https://github.com/LING71671/Open-ClaudeCode
+  eget: LING71671/Open-ClaudeCode
 rule:
   /eget:
     cmd: x eget LING71671/Open-ClaudeCode

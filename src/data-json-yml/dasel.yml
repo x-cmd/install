@@ -6,7 +6,7 @@ desc:
   en: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 x:
   source: https://github.com/tomwright/dasel
-  eget: https://github.com/tomwright/dasel
+  eget: tomwright/dasel
   brew: dasel
   yay: dasel
   asdf: dasel

@@ -6,7 +6,6 @@ desc:
   en: A better npm publish
 x:
   source: https://github.com/sindresorhus/np
-  npm: --global
 rule:
   /npm:
     cmd: npm install --global np

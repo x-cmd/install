@@ -6,7 +6,7 @@ desc:
   en: 'Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.'
 x:
   source: https://github.com/domcyrus/rustnet
-  eget: https://github.com/domcyrus/rustnet
+  eget: domcyrus/rustnet
 rule:
   /eget:
     cmd: x eget domcyrus/rustnet

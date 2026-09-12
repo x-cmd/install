@@ -6,7 +6,7 @@ desc:
   en: 'Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!'
 x:
   source: https://github.com/bgreenwell/doxx
-  eget: https://github.com/bgreenwell/doxx
+  eget: bgreenwell/doxx
 rule:
   /eget:
     cmd: x eget bgreenwell/doxx

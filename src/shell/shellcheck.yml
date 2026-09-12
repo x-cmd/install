@@ -6,12 +6,11 @@ desc:
   en: Static analysis tool for shell scripts
 x:
   source: https://github.com/koalaman/shellcheck
-  eget: https://github.com/koalaman/shellcheck
+  eget: koalaman/shellcheck
   apt: shellcheck
   dnf: ShellCheck
   brew: shellcheck
   pacman: shellcheck
-  snap: --channel=edge
   yum: ShellCheck
   zypper: ShellCheck
   port: shellcheck
@@ -19,7 +18,6 @@ x:
   eopkg: shellcheck
   scoop: shellcheck
   choco: shellcheck
-  pkg: hs-ShellCheck
 rule:
   /x:
     cmd: x pkg use shellcheck

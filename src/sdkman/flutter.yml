@@ -6,7 +6,6 @@ desc:
   cn: Flutter 是 Google 的 SDK，用于从一个代码库中为移动、网络和桌面提供漂亮、快速的用户体验
 x:
   source: https://github.com/flutter/flutter
-  brew: --cask
   snap: flutter
   scoop: extras/flutter
 rule:

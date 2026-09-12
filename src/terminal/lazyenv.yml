@@ -6,7 +6,7 @@ desc:
   en: 'TUI for managing .env files'
 x:
   source: https://github.com/lazynop/lazyenv
-  eget: https://github.com/lazynop/lazyenv
+  eget: lazynop/lazyenv
 rule:
   /eget:
     cmd: x eget lazynop/lazyenv

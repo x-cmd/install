@@ -6,7 +6,7 @@ desc:
   en: AI for the command line, built for pipelines.
 x:
   source: https://github.com/charmbracelet/mods
-  eget: https://github.com/charmbracelet/mods
+  eget: charmbracelet/mods
   apt: mods
   brew: charmbracelet/tap/mods
   scoop: mods

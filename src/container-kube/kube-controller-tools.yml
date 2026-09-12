@@ -6,7 +6,7 @@ desc:
   en: The Kubernetes controller-tools Project is a set of go libraries for building Controllers
 x:
   source: https://github.com/kubernetes-sigs/controller-tools
-  eget: https://github.com/kubernetes-sigs/controller-tools
+  eget: kubernetes-sigs/controller-tools
   asdf: kube-controller-tools
 rule:
   /eget:

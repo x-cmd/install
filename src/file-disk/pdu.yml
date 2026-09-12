@@ -6,7 +6,7 @@ desc:
   en: pdu is a CLI program that renders a graphical chart for disk usages of files and directories, it is an alternative to dust and dutree.
 x:
   source: https://github.com/KSXGitHub/parallel-disk-usage
-  eget: https://github.com/KSXGitHub/parallel-disk-usage
+  eget: KSXGitHub/parallel-disk-usage
   pacman: parallel-disk-usage
   paru: parallel-disk-usage
   cargo: parallel-disk-usage

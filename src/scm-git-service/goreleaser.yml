@@ -6,10 +6,9 @@ desc:
   en: goreleaser is a release automation tool for Go projects
 x:
   source: https://github.com/goreleaser/goreleaser
-  eget: https://github.com/goreleaser/goreleaser
+  eget: goreleaser/goreleaser
   apt: goreleaser
   brew: goreleaser
-  snap: --classic
   scoop: goreleaser
   yay: goreleaser-bin
   go: github.com/goreleaser/goreleaser@latest

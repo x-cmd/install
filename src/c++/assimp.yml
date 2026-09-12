@@ -5,7 +5,7 @@ desc:
   en: Open Asset Import Library is a library to load various 3d file formats into a shared, in-memory format
 x:
   source: https://github.com/assimp/assimp
-  eget: https://github.com/assimp/assimp
+  eget: assimp/assimp
   apt: libassimp-dev
   brew: assimp
   apt-get: libassimp-dev

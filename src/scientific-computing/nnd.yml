@@ -6,7 +6,7 @@ desc:
   en: 'A debugger for Linux'
 x:
   source: https://github.com/al13n321/nnd
-  eget: https://github.com/al13n321/nnd
+  eget: al13n321/nnd
 rule:
   /eget:
     cmd: x eget al13n321/nnd

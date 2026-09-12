@@ -6,7 +6,7 @@ desc:
   en: 'A terminal based file manager'
 x:
   source: https://github.com/mistakenelf/fm
-  eget: https://github.com/mistakenelf/fm
+  eget: mistakenelf/fm
 rule:
   /eget:
     cmd: x eget mistakenelf/fm

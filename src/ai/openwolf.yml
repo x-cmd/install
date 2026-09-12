@@ -6,7 +6,7 @@ desc:
   en: Sharper context. Fewer tokens. Open-source middleware for Claude Code.
 x:
   source: https://github.com/cytostack/openwolf
-  eget: https://github.com/cytostack/openwolf
+  eget: cytostack/openwolf
 rule:
   /eget:
     cmd: x eget cytostack/openwolf

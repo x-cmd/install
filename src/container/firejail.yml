@@ -6,7 +6,7 @@ desc:
   en: Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
 x:
   source: https://github.com/netblue30/firejail
-  eget: https://github.com/netblue30/firejail
+  eget: netblue30/firejail
   apt: firejail
   dnf: firejail
   pacman: firejail

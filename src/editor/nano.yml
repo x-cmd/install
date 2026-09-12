@@ -60,7 +60,8 @@ x:
   scoop: main/nano
   choco: nano
   winget: GNU.Nano
-  brew: nanobinlist:
+  brew: nano
+binlist:
 - nano
 license: NOASSERTION
 

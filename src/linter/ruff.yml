@@ -6,7 +6,7 @@ homepage: https://github.com/astral-sh/ruff
 license: MIT
 x:
   source: https://github.com/astral-sh/ruff
-  eget: https://github.com/astral-sh/ruff
+  eget: astral-sh/ruff
   brew: ruff
   pip: ruff
 rule:

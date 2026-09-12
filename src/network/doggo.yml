@@ -6,7 +6,7 @@ desc:
   en: doggo is a modern command-line DNS client (like dig) written in Golang
 x:
   source: https://github.com/mr-karan/doggo
-  eget: https://github.com/mr-karan/doggo
+  eget: mr-karan/doggo
   brew: doggo
   scoop: doggo
   yay: doggo-bin

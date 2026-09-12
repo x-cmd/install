@@ -6,7 +6,7 @@ desc:
   en: A modern replacement for ps written in Rust
 x:
   source: https://github.com/dalance/procs
-  eget: https://github.com/dalance/procs
+  eget: dalance/procs
   dnf: procs
   brew: procs
   pacman: procs

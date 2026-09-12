@@ -6,7 +6,7 @@ desc:
   en: 'A TUI app for analyzing audio data such as frequencies and loudness (LUFS)'
 x:
   source: https://github.com/bananaofhappiness/soundscope
-  eget: https://github.com/bananaofhappiness/soundscope
+  eget: bananaofhappiness/soundscope
 rule:
   /eget:
     cmd: x eget bananaofhappiness/soundscope

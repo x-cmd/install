@@ -6,7 +6,7 @@ desc:
   cn: 用于解码/编码 JSON Web Token 的终端用户界面
 x:
   source: https://github.com/jwt-rs/jwt-ui
-  eget: https://github.com/jwt-rs/jwt-ui
+  eget: jwt-rs/jwt-ui
   brew: jwt-rs/jwt-ui/jwt-ui
   pacman: jwt-ui
   scoop: jwt-ui

@@ -6,7 +6,7 @@ desc:
   cn: 命令组织器可以让你保存经常使用的命令，但这些命令太复杂或太长而难以记忆。
 x:
   source: https://github.com/Hyde46/hoard
-  eget: https://github.com/Hyde46/hoard
+  eget: Hyde46/hoard
   brew: Hyde46/hoard/hoard
   port: hoard-cli
   yay: hoard

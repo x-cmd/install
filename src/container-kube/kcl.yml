@@ -6,7 +6,7 @@ desc:
   en: KCL is an open-source constraint-based record & functional language mainly used in configuration and policy scenarios
 x:
   source: https://github.com/kcl-lang/kcl
-  eget: https://github.com/kcl-lang/kcl
+  eget: kcl-lang/kcl
   brew: kcl-lang/tap/kcl
   scoop: kcl-lang/kcl
   go: kcl-lang.io/cli/cmd/kcl@latest

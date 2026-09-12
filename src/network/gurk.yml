@@ -6,7 +6,7 @@ desc:
   en: 'Signal Messenger client for terminal'
 x:
   source: https://github.com/boxdot/gurk-rs
-  eget: https://github.com/boxdot/gurk-rs
+  eget: boxdot/gurk-rs
 rule:
   /eget:
     cmd: x eget boxdot/gurk-rs

@@ -8,7 +8,6 @@ x:
   source: https://github.com/KDE/krita
   apt: krita
   dnf: krita
-  brew: --cask
   pacman: krita
   snap: krita
   apt-get: krita

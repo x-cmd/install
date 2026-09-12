@@ -5,7 +5,7 @@ desc:
   en: goose is a database migration tool. Manage your database schema by creating incremental SQL changes and/or Go functions
 x:
   source: https://github.com/pressly/goose
-  eget: https://github.com/pressly/goose
+  eget: pressly/goose
   brew: goose
   go: github.com/pressly/goose/v3/cmd/goose@latest
 rule:

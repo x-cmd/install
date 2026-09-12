@@ -6,7 +6,7 @@ desc:
   en: Sup is a simple deployment tool that performs given set of commands on multiple hosts in parallel.
 x:
   source: https://github.com/pressly/sup
-  eget: https://github.com/pressly/sup
+  eget: pressly/sup
 rule:
   /eget:
     cmd: x eget pressly/sup

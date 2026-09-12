@@ -6,7 +6,7 @@ desc:
   en: Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes
 x:
   source: https://github.com/Yakitrak/obsidian-cli
-  eget: https://github.com/Yakitrak/obsidian-cli
+  eget: Yakitrak/obsidian-cli
   brew: yakitrak/yakitrak/obs
   scoop: obs
   yay: obsidian-cli-git

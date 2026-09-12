@@ -5,10 +5,9 @@ desc:
   en: Qt Creator is a cross-platform, integrated development environment (IDE) for application developers to create applications for multiple desktop, embedded, and mobile device platforms
 x:
   source: https://github.com/qt-creator/qt-creator
-  eget: https://github.com/qt-creator/qt-creator
+  eget: qt-creator/qt-creator
   apt: qtcreator
   dnf: qt-creator
-  brew: --cask
   pacman: qtcreator
   apt-get: qtcreator
   choco: qtcreator

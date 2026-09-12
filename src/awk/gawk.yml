@@ -47,11 +47,11 @@ x:
   apt-get: gawk
   dnf: gawk
   yum: gawk
-  zypper: -y
   pacman: gawk
   apk: gawk
   emerge: gawk
-  brew: gawkbinlist:
+  brew: gawk
+binlist:
 - gawk
 license: NOASSERTION
 

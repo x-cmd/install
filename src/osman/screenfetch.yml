@@ -13,7 +13,6 @@ x:
   zypper: screenfetch
   emerge: app-misc/screenfetch
   yay: screenfetch-git
-  pkg: screenFetch
 rule:
   debian/apt:
     cmd: sudo apt install screenfetch

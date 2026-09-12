@@ -5,7 +5,7 @@ desc:
   en: An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
 x:
   source: https://github.com/MAIF/yozefu
-  eget: https://github.com/MAIF/yozefu
+  eget: MAIF/yozefu
 rule:
   /eget:
     cmd: x eget MAIF/yozefu

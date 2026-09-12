@@ -26,7 +26,8 @@ rule:
 x:
   apt: epsilon-bin
   apt-get: epsilon-bin
-  brew: epsilonbinlist:
+  brew: epsilon
+binlist:
 - epsilon
 license: NOASSERTION
 

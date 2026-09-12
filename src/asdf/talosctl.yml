@@ -6,7 +6,7 @@ desc:
   en: The design and use of the Talos Linux control application
 x:
   source: https://github.com/siderolabs/talos
-  eget: https://github.com/siderolabs/talos
+  eget: siderolabs/talos
   asdf: talosctl
 rule:
   /eget:

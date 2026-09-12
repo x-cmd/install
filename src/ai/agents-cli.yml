@@ -6,7 +6,7 @@ desc:
   en: The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 x:
   source: https://github.com/google/agents-cli
-  eget: https://github.com/google/agents-cli
+  eget: google/agents-cli
 rule:
   /eget:
     cmd: x eget google/agents-cli

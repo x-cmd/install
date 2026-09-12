@@ -5,7 +5,7 @@ desc:
   en: Write tests against structured configuration data using the Open Policy Agent Rego query language
 x:
   source: https://github.com/open-policy-agent/conftest
-  eget: https://github.com/open-policy-agent/conftest
+  eget: open-policy-agent/conftest
   brew: conftest
   scoop: conftest
   yay: conftest

@@ -6,7 +6,7 @@ desc:
   en: 'Run a command multiple times and glance at the outputs via a TUI'
 x:
   source: https://github.com/dhth/mult
-  eget: https://github.com/dhth/mult
+  eget: dhth/mult
 rule:
   /eget:
     cmd: x eget dhth/mult

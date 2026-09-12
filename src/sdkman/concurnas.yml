@@ -6,7 +6,7 @@ desc:
   en: Concurnas is an open source programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
 x:
   source: https://github.com/Concurnas/Concurnas
-  eget: https://github.com/Concurnas/Concurnas
+  eget: Concurnas/Concurnas
 rule:
   /eget:
     cmd: x eget Concurnas/Concurnas

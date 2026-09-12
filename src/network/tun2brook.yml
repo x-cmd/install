@@ -6,7 +6,7 @@ desc:
   en: The CLI version of Brook GUI
 x:
   source: https://github.com/txthinking/tun2brook
-  eget: https://github.com/txthinking/tun2brook
+  eget: txthinking/tun2brook
 rule:
   /x:
     cmd: x pkg use tun2brook

@@ -6,7 +6,8 @@ desc:
 x:
   source: https://github.com/ashang/unar
   apt: unar
-  brew: unarrule:
+  brew: unar
+rule:
   darwin/brew:
     cmd: brew install unar
     reference: https://github.com/ashang/unar#build-on-macos-via-brew

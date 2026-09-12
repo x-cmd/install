@@ -6,7 +6,7 @@ desc:
 lang: Rust
 x:
   source: https://github.com/bytecodealliance/wasmtime
-  eget: https://github.com/bytecodealliance/wasmtime
+  eget: bytecodealliance/wasmtime
   brew: wasmtime
   yay: wasmtime-git
   asdf: wasmtime

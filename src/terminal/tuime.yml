@@ -6,10 +6,9 @@ desc:
   en: A simple clock for your terminal made using Rust.
 x:
   source: https://github.com/nthnd/tuime
-  eget: https://github.com/nthnd/tuime
+  eget: nthnd/tuime
   nix: github:nate-sys/tuime
   yay: tuime
-  cargo: --git
 rule:
   /eget:
     cmd: x eget nthnd/tuime

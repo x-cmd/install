@@ -6,7 +6,7 @@ desc:
   en: Tonnage is a small utility to summarize the resource capacity and allocation of a Kubernetes cluster
 x:
   source: https://github.com/elementalvoid/tonnage
-  eget: https://github.com/elementalvoid/tonnage
+  eget: elementalvoid/tonnage
   go: github.com/elementalvoid/tonnage@latest
   asdf: tonnage
 rule:

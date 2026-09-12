@@ -6,7 +6,7 @@ desc:
   en: Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm
 x:
   source: https://github.com/stefanprodan/timoni
-  eget: https://github.com/stefanprodan/timoni
+  eget: stefanprodan/timoni
   brew: stefanprodan/tap/timoni
   zypper: timoni
   yay: timoni

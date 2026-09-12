@@ -6,7 +6,7 @@ desc:
   en: glow is a terminal based markdown reader
 x:
   source: https://github.com/charmbracelet/glow
-  eget: https://github.com/charmbracelet/glow
+  eget: charmbracelet/glow
   apt: glow
   dnf: glow
   brew: glow
@@ -18,7 +18,6 @@ x:
   scoop: glow
   choco: glow
   asdf: glow
-  pkg: glow
 rule:
   /eget:
     cmd: x eget charmbracelet/glow

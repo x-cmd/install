@@ -6,7 +6,7 @@ desc:
   en: 'Search infrastructure for AI'
 x:
   source: https://github.com/chroma-core/chroma
-  eget: https://github.com/chroma-core/chroma
+  eget: chroma-core/chroma
 rule:
   /eget:
     cmd: x eget chroma-core/chroma

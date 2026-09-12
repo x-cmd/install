@@ -5,7 +5,7 @@ desc:
   en: ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
 x:
   source: https://github.com/GoodBoyNeon/sprofile
-  eget: https://github.com/GoodBoyNeon/sprofile
+  eget: GoodBoyNeon/sprofile
 rule:
   /eget:
     cmd: x eget GoodBoyNeon/sprofile

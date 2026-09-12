@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based dashboard for managing cron jobs locally and on servers.'
 x:
   source: https://github.com/antoniorodr/cronboard
-  eget: https://github.com/antoniorodr/cronboard
+  eget: antoniorodr/cronboard
 rule:
   /eget:
     cmd: x eget antoniorodr/cronboard

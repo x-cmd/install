@@ -68,8 +68,6 @@ rule:
     reference: https://aur.archlinux.org/packages/todesk-app
 
 x:
-  apt: ./todesk-v4.7.2.0-amd64.deb
-  apt-get: ./todesk-v4.7.2.0-amd64.deb
   winget: Youqu.ToDesk
   yay: todesk-appimage
 binlist:

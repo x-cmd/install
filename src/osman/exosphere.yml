@@ -6,7 +6,7 @@ desc:
   en: 'A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python'
 x:
   source: https://github.com/mrdaemon/exosphere
-  eget: https://github.com/mrdaemon/exosphere
+  eget: mrdaemon/exosphere
 rule:
   /eget:
     cmd: x eget mrdaemon/exosphere

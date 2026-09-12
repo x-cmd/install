@@ -6,7 +6,7 @@ desc:
   en: SGPT (aka shell-gpt) is a powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI models directly from your terminal.
 x:
   source: https://github.com/tbckr/sgpt
-  eget: https://github.com/tbckr/sgpt
+  eget: tbckr/sgpt
   brew: tbckr/tap/sgpt
   scoop: tbckr/sgpt
   yay: shell-gpt

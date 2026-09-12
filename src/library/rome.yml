@@ -6,7 +6,7 @@ desc:
   en: Rome is a formatter, linter, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS
 x:
   source: https://github.com/rome/tools
-  eget: https://github.com/rome/tools
+  eget: rome/tools
   asdf: rome
 rule:
   /eget:

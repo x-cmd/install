@@ -6,7 +6,7 @@ desc:
   en: 'background code checker'
 x:
   source: https://github.com/Canop/bacon
-  eget: https://github.com/Canop/bacon
+  eget: Canop/bacon
 rule:
   /eget:
     cmd: x eget Canop/bacon

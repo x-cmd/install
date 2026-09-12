@@ -6,7 +6,7 @@ desc:
   cn: LFTP 是一个复杂的文件传输程序，支持许多网络协议(ftp、 http、 sftp、 fish、 torrent)
 x:
   source: https://github.com/lavv17/lftp
-  eget: https://github.com/lavv17/lftp
+  eget: lavv17/lftp
   brew: lftp
   scoop: main/lftp
   yay: lftp-git

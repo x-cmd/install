@@ -6,8 +6,7 @@ desc:
   en: A modern, maintained replacement for ls
 x:
   source: https://github.com/eza-community/eza
-  eget: https://github.com/eza-community/eza
-  apt: -y
+  eget: eza-community/eza
   dnf: eza
   brew: eza
   pacman: eza
@@ -18,7 +17,6 @@ x:
   scoop: eza
   winget: eza-community.eza
   asdf: eza
-  pkg: eza
 rule:
   /x:
     cmd: x pkg use eza

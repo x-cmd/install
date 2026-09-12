@@ -6,7 +6,7 @@ desc:
   en: Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files
 x:
   source: https://github.com/shshemi/tabiew
-  eget: https://github.com/shshemi/tabiew
+  eget: shshemi/tabiew
   brew: shshemi/tabiew/tabiew
   pacman: tabiew
   cargo: tabiew

@@ -6,7 +6,7 @@ desc:
   en: 'A Matrix client for Vim addicts'
 x:
   source: https://github.com/ulyssa/iamb
-  eget: https://github.com/ulyssa/iamb
+  eget: ulyssa/iamb
 rule:
   /eget:
     cmd: x eget ulyssa/iamb

@@ -6,7 +6,7 @@ desc:
   cn: cointop 是一个基于快速且轻巧的交互式终端的 UI 应用程序，用于实时跟踪和监视加密货币硬币统计信息
 x:
   source: https://github.com/cointop-sh/cointop
-  eget: https://github.com/cointop-sh/cointop
+  eget: cointop-sh/cointop
   dnf: cointo
   brew: cointop
   snap: cointop

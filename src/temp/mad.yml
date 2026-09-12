@@ -6,7 +6,7 @@ desc:
   en: Generate root CA and derivative certificate for any domains and any IPs
 x:
   source: https://github.com/txthinking/mad
-  eget: https://github.com/txthinking/mad
+  eget: txthinking/mad
 rule:
   /eget:
     cmd: x eget txthinking/mad

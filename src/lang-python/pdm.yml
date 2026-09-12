@@ -6,10 +6,9 @@ desc:
   en: pdm is a Python dependency manager that uses pyproject.toml file to manage project dependencies and packages. It supports multiple Python versions, virtual environments, plugin system and more. (python version 3.7 or higher)
 x:
   source: https://github.com/pdm-project/pdm
-  eget: https://github.com/pdm-project/pdm
+  eget: pdm-project/pdm
   brew: pdm
   scoop: pdm
-  pip: --user
   asdf: pdm
 rule:
   /eget:

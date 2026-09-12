@@ -6,7 +6,7 @@ desc:
   en: A simple terminal UI for `git` commands
 x:
   source: https://github.com/jesseduffield/lazygit
-  eget: https://github.com/jesseduffield/lazygit
+  eget: jesseduffield/lazygit
   dnf: lazygit
   brew: lazygit
   pacman: lazygit
@@ -17,9 +17,7 @@ x:
   eopkg: lazygit
   scoop: lazygit
   choco: lazygit
-  winget: -e
   asdf: lazygit
-  pkg: lazygit
 rule:
   /x:
     cmd: x pkg use lazygit

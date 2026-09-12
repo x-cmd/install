@@ -6,7 +6,7 @@ desc:
   en: gron transforms JSON into discrete assignments to make it easier to `grep` for what you want and see the absolute 'path' to it. It eases the exploration of APIs that return large blobs of JSON but have terrible documentation
 x:
   source: https://github.com/tomnomnom/gron
-  eget: https://github.com/tomnomnom/gron
+  eget: tomnomnom/gron
   brew: gron
   go: github.com/tomnomnom/gron@latest
 rule:

@@ -6,7 +6,7 @@ desc:
   en: JumpServer Privileged Access Management (PAM) Complying with 4A Secification
 x:
   source: https://github.com/jumpserver/jumpserver
-  eget: https://github.com/jumpserver/jumpserver
+  eget: jumpserver/jumpserver
 rule:
   /eget:
     cmd: x eget jumpserver/jumpserver

@@ -6,7 +6,7 @@ desc:
   en: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 x:
   source: https://github.com/goodwithtech/dockle
-  eget: https://github.com/goodwithtech/dockle
+  eget: goodwithtech/dockle
   brew: goodwithtech/r/dockle
   yay: dockle
   asdf: dockle

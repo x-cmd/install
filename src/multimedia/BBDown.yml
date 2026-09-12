@@ -6,7 +6,7 @@ desc:
   en: A command-line Bilibili Downloader
 x:
   source: https://github.com/nilaoda/BBDown
-  eget: https://github.com/nilaoda/BBDown
+  eget: nilaoda/BBDown
   yay: bbdown-bin
 rule:
   /eget:

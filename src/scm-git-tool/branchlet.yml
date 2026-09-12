@@ -6,7 +6,7 @@ desc:
   en: 'Branchlet: A simple CLI Git worktree manager'
 x:
   source: https://github.com/raghavpillai/branchlet
-  eget: https://github.com/raghavpillai/branchlet
+  eget: raghavpillai/branchlet
 rule:
   /eget:
     cmd: x eget raghavpillai/branchlet

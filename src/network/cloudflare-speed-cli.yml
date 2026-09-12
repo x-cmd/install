@@ -6,7 +6,7 @@ desc:
   en: 'CLI for internet speed test via cloudflare'
 x:
   source: https://github.com/kavehtehrani/cloudflare-speed-cli
-  eget: https://github.com/kavehtehrani/cloudflare-speed-cli
+  eget: kavehtehrani/cloudflare-speed-cli
 rule:
   /eget:
     cmd: x eget kavehtehrani/cloudflare-speed-cli

@@ -6,7 +6,7 @@ desc:
   en: 'LLM inference in C/C++'
 x:
   source: https://github.com/ggerganov/llama.cpp
-  eget: https://github.com/ggerganov/llama.cpp
+  eget: ggerganov/llama.cpp
 rule:
   /eget:
     cmd: x eget ggerganov/llama.cpp

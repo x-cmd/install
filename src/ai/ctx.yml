@@ -6,7 +6,7 @@ desc:
   en: Open-source CLI for fast local search across past coding-agent sessions. Written in Rust with a local SQLite index, ctx auto-discovers and imports histories from Claude Code, Codex, Cursor, Pi, and 40+ other agents so current and future agents can reuse prior decisions, commands, and failures at ~50x fewer tokens than raw transcript search.
 x:
   source: https://github.com/ctxrs/ctx
-  eget: https://github.com/ctxrs/ctx
+  eget: ctxrs/ctx
 rule:
   /eget:
     cmd: x eget use ctxrs/ctx

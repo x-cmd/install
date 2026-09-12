@@ -6,7 +6,7 @@ desc:
   cn: JupyterLab 计算环境
 x:
   source: https://github.com/jupyterlab/jupyterlab
-  eget: https://github.com/jupyterlab/jupyterlab
+  eget: jupyterlab/jupyterlab
   pip: jupyterlab
 rule:
   /eget:

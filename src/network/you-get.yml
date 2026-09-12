@@ -5,13 +5,12 @@ desc:
   en: You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web
 x:
   source: https://github.com/soimort/you-get
-  eget: https://github.com/soimort/you-get
+  eget: soimort/you-get
   brew: you-get
   pacman: you-get
   apk: you-get
   yay: you-get-git
   pip: you-get
-  pkg: you-get
 rule:
   /eget:
     cmd: x eget soimort/you-get

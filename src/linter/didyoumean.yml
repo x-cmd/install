@@ -6,9 +6,8 @@ desc:
   en: DidYouMean (or dym) is a command-line spelling corrector written in rust utilizing a simplified version of Damerau-Levenshtein distance
 x:
   source: https://github.com/hisbaan/didyoumean
-  eget: https://github.com/hisbaan/didyoumean
+  eget: hisbaan/didyoumean
   brew: hisbaan/tap/didyoumean
-  nix: -iA
   yay: didyoumean
   cargo: didyoumean
 rule:

@@ -6,7 +6,7 @@ desc:
   en: A simple project creation tool that uses packaged templates
 x:
   source: https://github.com/cbmarcum/skeletal
-  eget: https://github.com/cbmarcum/skeletal
+  eget: cbmarcum/skeletal
 rule:
   /eget:
     cmd: x eget cbmarcum/skeletal

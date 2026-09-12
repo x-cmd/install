@@ -6,7 +6,7 @@ desc:
   en: 'Port of OpenAI''s Whisper model in C/C++'
 x:
   source: https://github.com/ggml-org/whisper.cpp
-  eget: https://github.com/ggml-org/whisper.cpp
+  eget: ggml-org/whisper.cpp
 rule:
   /eget:
     cmd: x eget ggml-org/whisper.cpp

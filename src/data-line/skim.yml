@@ -6,7 +6,7 @@ homepage: https://github.com/lotabout/skim
 license: MIT
 x:
   source: https://github.com/lotabout/skim
-  eget: https://github.com/lotabout/skim
+  eget: lotabout/skim
   dnf: skim
   brew: sk
   pacman: skim

@@ -6,7 +6,7 @@ desc:
   en: 'Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.'
 x:
   source: https://github.com/yashksaini-coder/Rustlens
-  eget: https://github.com/yashksaini-coder/Rustlens
+  eget: yashksaini-coder/Rustlens
 rule:
   /eget:
     cmd: x eget yashksaini-coder/Rustlens

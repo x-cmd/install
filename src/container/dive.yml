@@ -6,8 +6,7 @@ desc:
   en: A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image
 x:
   source: https://github.com/wagoodman/dive
-  eget: https://github.com/wagoodman/dive
-  apt: ./dive_${DIVE_VERSION}_linux_amd64.deb
+  eget: wagoodman/dive
   brew: dive
   pacman: dive
   port: dive

@@ -6,7 +6,7 @@ desc:
 lang: Go
 x:
   source: https://github.com/sharkdp/bat
-  eget: https://github.com/sharkdp/bat
+  eget: sharkdp/bat
   apt: bat
   dnf: bat
   brew: bat
@@ -22,7 +22,6 @@ x:
   choco: bat
   winget: sharkdp.bat
   asdf: bat
-  pkg: bat
 rule:
   /x:
     cmd: x pkg use bat

@@ -6,7 +6,7 @@ desc:
   en: 'Useful examples at the command line.'
 x:
   source: https://github.com/srsudar/eg
-  eget: https://github.com/srsudar/eg
+  eget: srsudar/eg
 rule:
   /eget:
     cmd: x eget srsudar/eg

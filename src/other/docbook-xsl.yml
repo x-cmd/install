@@ -5,8 +5,9 @@ desc:
   cn: 用于创建与表示无关的文档的 XML 词汇表
 x:
   source: https://github.com/docbook/xslt10-stylesheets
-  eget: https://github.com/docbook/xslt10-stylesheets
-  brew: docbook-xslrule:
+  eget: docbook/xslt10-stylesheets
+  brew: docbook-xsl
+rule:
   /eget:
     cmd: x eget docbook/xslt10-stylesheets
     reference: https://x-cmd.com/mod/eget

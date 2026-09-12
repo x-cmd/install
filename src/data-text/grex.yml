@@ -6,7 +6,7 @@ desc:
   en: A command-line tool and Rust library for generating regular expressions from user-provided test cases
 x:
   source: https://github.com/pemistahl/grex
-  eget: https://github.com/pemistahl/grex
+  eget: pemistahl/grex
   brew: grex
   port: grex
   scoop: grex

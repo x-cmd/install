@@ -5,7 +5,7 @@ desc:
   cn: 管理 postgres 迁移，本地运行 Supabase, 部署边缘函数。Postgres 备份。从数据库模式生成类型
 x:
   source: https://github.com/supabase/cli
-  eget: https://github.com/supabase/cli
+  eget: supabase/cli
   brew: supabase/tap/supabase
   scoop: supabase
   yay: supabase-bin

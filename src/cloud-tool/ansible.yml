@@ -13,7 +13,6 @@ x:
   apk: ansible
   apt-get: ansible
   yum: ansible
-  pip: --user
 rule:
   /x:
     cmd: x pkg use ansible

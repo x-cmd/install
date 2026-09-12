@@ -6,9 +6,8 @@ desc:
   en: Carbonyl is a Chromium based browser built to run in a terminal
 x:
   source: https://github.com/fathyb/carbonyl
-  eget: https://github.com/fathyb/carbonyl
+  eget: fathyb/carbonyl
   yay: carbonyl
-  npm: --global
 rule:
   /x:
     cmd: x pkg use carbonyl

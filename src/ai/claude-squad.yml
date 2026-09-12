@@ -6,7 +6,7 @@ desc:
   en: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 x:
   source: https://github.com/smtg-ai/claude-squad
-  eget: https://github.com/smtg-ai/claude-squad
+  eget: smtg-ai/claude-squad
 rule:
   /eget:
     cmd: x eget smtg-ai/claude-squad

@@ -6,7 +6,7 @@ desc:
   en: A CLI interface for Marp and Marpit based converters
 x:
   source: https://github.com/marp-team/marp-cli
-  eget: https://github.com/marp-team/marp-cli
+  eget: marp-team/marp-cli
   brew: marp-cli
   scoop: marp
   yay: marp-cli

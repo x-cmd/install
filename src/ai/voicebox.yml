@@ -6,7 +6,7 @@ desc:
   en: Clone voices, generate multi-lingual speech, and dictate into any app with an open-source, local-first AI voice studio that runs on your machine.
 x:
   source: https://github.com/jamiepine/voicebox
-  eget: https://github.com/jamiepine/voicebox
+  eget: jamiepine/voicebox
 rule:
   /eget:
     cmd: x eget jamiepine/voicebox

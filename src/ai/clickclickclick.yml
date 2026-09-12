@@ -6,7 +6,7 @@ desc:
   en: Autonomous Android and computer use using any LLM (local or remote)
 x:
   source: https://github.com/instavm/clickclickclick
-  eget: https://github.com/instavm/clickclickclick
+  eget: instavm/clickclickclick
 rule:
   /eget:
     cmd: x eget instavm/clickclickclick

@@ -6,7 +6,7 @@ desc:
   en: Send emails from your terminal
 x:
   source: https://github.com/charmbracelet/pop
-  eget: https://github.com/charmbracelet/pop
+  eget: charmbracelet/pop
   brew: pop
   yay: charm-pop-bin
   go: github.com/charmbracelet/pop@latest

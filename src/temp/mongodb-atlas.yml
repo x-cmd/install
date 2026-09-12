@@ -6,7 +6,7 @@ homepage: https://github.com/mongodb/mongodb-atlas-cli
 license: Apache-2.0
 x:
   source: https://github.com/mongodb/mongodb-atlas-cli
-  eget: https://github.com/mongodb/mongodb-atlas-cli
+  eget: mongodb/mongodb-atlas-cli
 rule:
   /eget:
     cmd: x eget mongodb/mongodb-atlas-cli

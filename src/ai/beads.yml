@@ -6,7 +6,7 @@ desc:
   en: A memory upgrade for your coding agent
 x:
   source: https://github.com/steveyegge/beads
-  eget: https://github.com/steveyegge/beads
+  eget: steveyegge/beads
   brew: beads
   yay: beads-bin
   npm: "@beads/bd"

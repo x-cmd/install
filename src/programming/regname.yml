@@ -6,7 +6,7 @@ desc:
   en: 'Mass renamer TUI written in Rust'
 x:
   source: https://github.com/linkdd/regname
-  eget: https://github.com/linkdd/regname
+  eget: linkdd/regname
 rule:
   /eget:
     cmd: x eget linkdd/regname

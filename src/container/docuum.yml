@@ -5,7 +5,7 @@ desc:
   en: Docuum is ideal for use cases such as continuous integration (CI) workers, developer workstations, or any other environment in which Docker images accumulate on disk over time
 x:
   source: https://github.com/stepchowfun/docuum
-  eget: https://github.com/stepchowfun/docuum
+  eget: stepchowfun/docuum
   brew: docuum
   cargo: docuum
   asdf: docuum

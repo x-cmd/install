@@ -6,7 +6,7 @@ desc:
   en: A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
 x:
   source: https://github.com/microsoft/conductor
-  eget: https://github.com/microsoft/conductor
+  eget: microsoft/conductor
 rule:
   /eget:
     cmd: x eget microsoft/conductor

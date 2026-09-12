@@ -52,7 +52,8 @@ x:
   pacman: zip
   apk: zip
   emerge: app-arch/zip
-  brew: zipbinlist:
+  brew: zip
+binlist:
 - zip
 license: NOASSERTION
 # complicated

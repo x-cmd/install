@@ -6,7 +6,7 @@ desc:
   en: Open-source, community-driven agent harness
 x:
   source: https://github.com/Hmbown/CodeWhale
-  eget: https://github.com/Hmbown/CodeWhale
+  eget: Hmbown/CodeWhale
 rule:
   /eget:
     cmd: x eget Hmbown/CodeWhale

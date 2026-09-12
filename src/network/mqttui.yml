@@ -6,8 +6,7 @@ desc:
   en: 'Subscribe to a MQTT Topic or publish something quickly from the terminal'
 x:
   source: https://github.com/EdJoPaTo/mqttui
-  eget: https://github.com/EdJoPaTo/mqttui
-  cargo: --path
+  eget: EdJoPaTo/mqttui
 rule:
   /cargo:
     cmd: 'cargo install --path .'

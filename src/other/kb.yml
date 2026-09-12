@@ -8,7 +8,6 @@ x:
   source: https://github.com/gnebbia/kb
   brew: gnebbia/kb/kb
   yay: kb
-  pip: -U
 rule:
   /pip:
     cmd: pip install -U kb-manager

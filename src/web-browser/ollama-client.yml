@@ -6,7 +6,7 @@ desc:
   en: Ollama Client – Chat with Local LLMs Inside Your Browser A lightweight, privacy‑first Chrome extension to chat with local LLMs via Ollama, LM Studio, and llama.cpp. Supports streaming, stop/regene...
 x:
   source: https://github.com/Shishir435/ollama-client
-  eget: https://github.com/Shishir435/ollama-client
+  eget: Shishir435/ollama-client
 rule:
   /eget:
     cmd: x eget Shishir435/ollama-client

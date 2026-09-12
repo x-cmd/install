@@ -6,7 +6,7 @@ desc:
   en: ncspot is an ncurses Spotify client written in Rust using librespot.
 x:
   source: https://github.com/hrkfdn/ncspot
-  eget: https://github.com/hrkfdn/ncspot
+  eget: hrkfdn/ncspot
   brew: ncspot
   scoop: main/ncspot
   winget: hrkfdn.ncspot

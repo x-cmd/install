@@ -6,7 +6,7 @@ desc:
   en: Orchestrate AI agents to manage spec-driven software development, from planning and research to code execution and verification, directly from your command line.
 x:
   source: https://github.com/gsd-build/get-shit-done
-  eget: https://github.com/gsd-build/get-shit-done
+  eget: gsd-build/get-shit-done
 rule:
   /eget:
     cmd: x eget gsd-build/get-shit-done

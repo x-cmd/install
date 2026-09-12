@@ -6,7 +6,7 @@ desc:
   en: 'A beautiful and powerful TUI for managing iOS Simulators'
 x:
   source: https://github.com/azizuysal/simtool
-  eget: https://github.com/azizuysal/simtool
+  eget: azizuysal/simtool
 rule:
   darwin/brew:
     cmd: 'brew install'

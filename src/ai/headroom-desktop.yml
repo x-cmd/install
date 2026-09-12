@@ -6,7 +6,7 @@ desc:
   en: 'Unlock 2x more Claude Code and Codex usage'
 x:
   source: https://github.com/gglucass/headroom-desktop
-  eget: https://github.com/gglucass/headroom-desktop
+  eget: gglucass/headroom-desktop
 rule:
   /eget:
     cmd: x eget gglucass/headroom-desktop

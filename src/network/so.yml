@@ -6,7 +6,7 @@ desc:
   en: 'A terminal interface for Stack Overflow'
 x:
   source: https://github.com/samtay/so
-  eget: https://github.com/samtay/so
+  eget: samtay/so
 rule:
   /eget:
     cmd: x eget samtay/so

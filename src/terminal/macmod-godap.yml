@@ -6,7 +6,7 @@ desc:
   en: A complete terminal user interface (TUI) for LDAP.
 x:
   source: https://github.com/Macmod/godap
-  eget: https://github.com/Macmod/godap
+  eget: Macmod/godap
 rule:
   /eget:
     cmd: x eget Macmod/godap

@@ -6,7 +6,7 @@ desc:
   en: 'Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td'
 x:
   source: https://github.com/marcus/sidecar
-  eget: https://github.com/marcus/sidecar
+  eget: marcus/sidecar
 rule:
   /eget:
     cmd: x eget marcus/sidecar

@@ -6,7 +6,7 @@ desc:
   en: 'A linux utility to get information on filesystems, like df but better'
 x:
   source: https://github.com/canop/dysk
-  eget: https://github.com/canop/dysk
+  eget: canop/dysk
 rule:
   /eget:
     cmd: x eget canop/dysk

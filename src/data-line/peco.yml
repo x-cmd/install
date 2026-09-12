@@ -6,7 +6,7 @@ homepage: https://github.com/peco/peco
 license: MIT
 x:
   source: https://github.com/peco/peco
-  eget: https://github.com/peco/peco
+  eget: peco/peco
   apt: peco
   brew: peco
   xbps: peco

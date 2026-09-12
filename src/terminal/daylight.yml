@@ -6,7 +6,7 @@ desc:
   en: 'a command-line program for tracking sunrise and sunset times'
 x:
   source: https://github.com/jbreckmckye/daylight
-  eget: https://github.com/jbreckmckye/daylight
+  eget: jbreckmckye/daylight
 rule:
   /eget:
     cmd: x eget jbreckmckye/daylight

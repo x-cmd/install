@@ -6,7 +6,7 @@ desc:
   en: kubecolor colorizes your kubectl command output and does nothing else
 x:
   source: https://github.com/hidetatz/kubecolor
-  eget: https://github.com/hidetatz/kubecolor
+  eget: hidetatz/kubecolor
   brew: hidetatz/tap/kubecolor
   yay: kubecolor
   go: github.com/hidetatz/kubecolor/cmd/kubecolor@latest

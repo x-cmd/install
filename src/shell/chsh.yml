@@ -5,7 +5,7 @@ desc:
   en: The shadow-utils package includes the necessary programs for converting UNIX password files to the shadow password format, plus programs for managing user and group accounts
 x:
   source: https://github.com/shadow-maint/shadow
-  eget: https://github.com/shadow-maint/shadow
+  eget: shadow-maint/shadow
   apt: passwd
   dnf: util-linux-ng
   pacman: util-linux

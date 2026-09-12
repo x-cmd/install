@@ -6,7 +6,6 @@ desc:
 lang: JavaScript
 x:
   source: https://github.com/sindresorhus/is-online-cli#readme
-  npm: --global
 rule:
   /x:
     cmd: x pkg use is-online-cli

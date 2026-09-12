@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/eigen#default
 
 x:
-  brew: eigenbinlist:
+  brew: eigen
+binlist:
 - eigen
 license: NOASSERTION
 

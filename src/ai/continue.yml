@@ -6,7 +6,7 @@ desc:
   en: open-source coding agent
 x:
   source: https://github.com/continuedev/continue
-  eget: https://github.com/continuedev/continue
+  eget: continuedev/continue
 rule:
   /eget:
     cmd: x eget continuedev/continue

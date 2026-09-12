@@ -6,7 +6,7 @@ desc:
   en: Tool that can switch between kubectl contexts easily and create aliases
 x:
   source: https://github.com/ahmetb/kubectx
-  eget: https://github.com/ahmetb/kubectx
+  eget: ahmetb/kubectx
   apt: kubectx
   brew: kubectx
   pacman: kubectx

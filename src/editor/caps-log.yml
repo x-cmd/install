@@ -6,7 +6,7 @@ desc:
   en: 'A small TUI journaling tool. 📖'
 x:
   source: https://github.com/NikolaDucak/caps-log
-  eget: https://github.com/NikolaDucak/caps-log
+  eget: NikolaDucak/caps-log
 rule:
   /eget:
     cmd: x eget NikolaDucak/caps-log

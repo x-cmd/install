@@ -6,7 +6,7 @@ desc:
   cn: 使用外部 AI 服务器来查找最佳的 unix 命令行建议
 x:
   source: https://github.com/santinic/how2
-  eget: https://github.com/santinic/how2
+  eget: santinic/how2
   brew: how2terminal/how2/how2
   yay: how2
   npm: how2

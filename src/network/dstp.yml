@@ -6,7 +6,7 @@ desc:
   en: run common networking tests against your site
 x:
   source: https://github.com/ycd/dstp
-  eget: https://github.com/ycd/dstp
+  eget: ycd/dstp
   brew: ycd/tap/dstp
   yay: dstp
   go: github.com/ycd/dstp/cmd/dstp@latest

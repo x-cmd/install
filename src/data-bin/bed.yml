@@ -6,7 +6,7 @@ desc:
   en: Binary editor written in Go
 x:
   source: https://github.com/itchyny/bed
-  eget: https://github.com/itchyny/bed
+  eget: itchyny/bed
   brew: itchyny/tap/bed
   yay: bed-bin
   go: github.com/itchyny/bed/cmd/bed@latest

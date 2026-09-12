@@ -5,7 +5,7 @@ desc:
   en: GIF encoder based on libimagequant (pngquant)
 x:
   source: https://github.com/ImageOptim/gifski
-  eget: https://github.com/ImageOptim/gifski
+  eget: ImageOptim/gifski
   brew: gifski
   cargo: gifski
 rule:

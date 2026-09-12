@@ -6,8 +6,7 @@ desc:
   en: A cross-platform command-line tool to convert images into ascii art and print them on the console
 x:
   source: https://github.com/TheZoraiz/ascii-image-converter
-  eget: https://github.com/TheZoraiz/ascii-image-converter
-  apt: -y
+  eget: TheZoraiz/ascii-image-converter
   brew: TheZoraiz/ascii-image-converter/ascii-image-converter
   snap: ascii-image-converter
   scoop: ascii-image-converter

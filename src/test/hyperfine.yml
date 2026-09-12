@@ -6,7 +6,7 @@ desc:
   en: A command-line benchmarking tool.
 x:
   source: https://github.com/sharkdp/hyperfine
-  eget: https://github.com/sharkdp/hyperfine
+  eget: sharkdp/hyperfine
   apt: hyperfine
   dnf: hyperfine
   brew: hyperfine
@@ -21,7 +21,6 @@ x:
   winget: hyperfine
   yay: hyperfine-git
   asdf: hyperfine
-  pkg: hyperfine
 rule:
   /x:
     cmd: x pkg use hyperfine

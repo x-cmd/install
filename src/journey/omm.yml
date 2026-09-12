@@ -6,7 +6,7 @@ desc:
   en: A keyboard-driven task manager for the terminal.
 x:
   source: https://github.com/dhth/omm
-  eget: https://github.com/dhth/omm
+  eget: dhth/omm
   brew: dhth/tap/omm
   go: github.com/dhth/omm@latest
 rule:

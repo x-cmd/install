@@ -6,7 +6,7 @@ desc:
   en: 'Remote repository management made easy'
 x:
   source: https://github.com/x-motemen/ghq
-  eget: https://github.com/x-motemen/ghq
+  eget: x-motemen/ghq
 rule:
   /eget:
     cmd: x eget x-motemen/ghq

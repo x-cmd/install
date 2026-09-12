@@ -6,7 +6,7 @@ desc:
   en: grpcurl is a command-line tool that lets you interact with gRPC servers
 x:
   source: https://github.com/fullstorydev/grpcurl
-  eget: https://github.com/fullstorydev/grpcurl
+  eget: fullstorydev/grpcurl
   dnf: grpcurl
   brew: grpcurl
   yay: grpcurl-bin

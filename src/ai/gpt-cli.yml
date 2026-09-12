@@ -6,7 +6,7 @@ desc:
   en: Command-line interface for ChatGPT, Claude and Bard
 x:
   source: https://github.com/kharvd/gpt-cli
-  eget: https://github.com/kharvd/gpt-cli
+  eget: kharvd/gpt-cli
 rule:
   /eget:
     cmd: x eget kharvd/gpt-cli

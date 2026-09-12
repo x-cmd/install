@@ -6,7 +6,7 @@ desc:
   en: 'A command line tool for datetime arithmetic, parsing, formatting and more.'
 x:
   source: https://github.com/BurntSushi/bttf
-  eget: https://github.com/BurntSushi/bttf
+  eget: BurntSushi/bttf
 rule:
   /eget:
     cmd: x eget BurntSushi/bttf

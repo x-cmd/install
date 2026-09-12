@@ -6,7 +6,7 @@ desc:
   en: an open-source tool that transforms your object storage into a Git-like repository.
 x:
   source: https://github.com/treeverse/lakeFS
-  eget: https://github.com/treeverse/lakeFS
+  eget: treeverse/lakeFS
   yay: lakefs-bin
 rule:
   /eget:

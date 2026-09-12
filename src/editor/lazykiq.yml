@@ -6,7 +6,7 @@ desc:
   en: 'rich terminal UI for Sidekiq'
 x:
   source: https://github.com/kpumuk/lazykiq
-  eget: https://github.com/kpumuk/lazykiq
+  eget: kpumuk/lazykiq
 rule:
   /go:
     cmd: 'go install'

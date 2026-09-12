@@ -6,7 +6,7 @@ desc:
   en: ko is a simple, fast container image builder for Go applications.
 x:
   source: https://github.com/ko-build/ko
-  eget: https://github.com/ko-build/ko
+  eget: ko-build/ko
   asdf: ko
 rule:
   /eget:

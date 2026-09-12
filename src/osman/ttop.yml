@@ -6,7 +6,7 @@ desc:
   en: System monitoring tool with historical data service, triggers and top-like TUI
 x:
   source: https://github.com/inv2004/ttop
-  eget: https://github.com/inv2004/ttop
+  eget: inv2004/ttop
   yay: ttop
 rule:
   /eget:

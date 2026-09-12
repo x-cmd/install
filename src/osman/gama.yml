@@ -6,7 +6,7 @@ desc:
   en: 'Manage your GitHub Actions from Terminal with great UI 🧪'
 x:
   source: https://github.com/termkit/gama
-  eget: https://github.com/termkit/gama
+  eget: termkit/gama
 rule:
   /eget:
     cmd: x eget termkit/gama

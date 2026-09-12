@@ -6,7 +6,7 @@ desc:
   en: Convert hcl2 to json
 x:
   source: https://github.com/tmccombs/hcl2json
-  eget: https://github.com/tmccombs/hcl2json
+  eget: tmccombs/hcl2json
   brew: hcl2json
   port: hcl2json
 rule:

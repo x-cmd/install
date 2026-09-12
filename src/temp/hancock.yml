@@ -6,7 +6,7 @@ desc:
   en: Manage multiple remote servers and execute commands remotely
 x:
   source: https://github.com/txthinking/hancock
-  eget: https://github.com/txthinking/hancock
+  eget: txthinking/hancock
 rule:
   /eget:
     cmd: x eget txthinking/hancock

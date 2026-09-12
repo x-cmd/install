@@ -6,7 +6,7 @@ desc:
   en: 'Docker server monitoring without the stack. Metrics, logs, and alerts from your terminal. Single binary, zero exposed ports, SSH-only.'
 x:
   source: https://github.com/thobiasn/tori-cli
-  eget: https://github.com/thobiasn/tori-cli
+  eget: thobiasn/tori-cli
 rule:
   /eget:
     cmd: x eget thobiasn/tori-cli

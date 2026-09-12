@@ -9,7 +9,6 @@ x:
   apt: pgcli
   brew: pgcli
   apt-get: pgcli
-  pip: -U
 rule:
   /x:
     cmd: x pkg use pgcli

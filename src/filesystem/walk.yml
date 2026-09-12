@@ -6,7 +6,7 @@ desc:
   en: Walk is a terminal-based navigator that serves as an alternative to the traditional ls and cd commands
 x:
   source: https://github.com/antonmedv/walk
-  eget: https://github.com/antonmedv/walk
+  eget: antonmedv/walk
   brew: walk
   yay: walk
   go: github.com/antonmedv/walk@latest

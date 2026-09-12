@@ -6,7 +6,7 @@ desc:
   en: Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 x:
   source: https://github.com/kepano/obsidian-skills
-  eget: https://github.com/kepano/obsidian-skills
+  eget: kepano/obsidian-skills
 rule:
   /eget:
     cmd: x eget kepano/obsidian-skills

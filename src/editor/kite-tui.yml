@@ -6,7 +6,7 @@ desc:
   en: 'A terminal reader for Kagi News.'
 x:
   source: https://github.com/KernelFreeze/kite-tui
-  eget: https://github.com/KernelFreeze/kite-tui
+  eget: KernelFreeze/kite-tui
 rule:
   /eget:
     cmd: x eget KernelFreeze/kite-tui

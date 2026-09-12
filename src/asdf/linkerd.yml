@@ -6,7 +6,7 @@ desc:
   en: Linkerd is a service mesh for Kubernetes
 x:
   source: https://github.com/linkerd/linkerd2
-  eget: https://github.com/linkerd/linkerd2
+  eget: linkerd/linkerd2
   asdf: linkerd
 rule:
   /eget:

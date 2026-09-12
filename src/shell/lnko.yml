@@ -6,7 +6,7 @@ desc:
   en: 'Simple stow-like dotfile linker'
 x:
   source: https://github.com/luanvil/lnko
-  eget: https://github.com/luanvil/lnko
+  eget: luanvil/lnko
 rule:
   /eget:
     cmd: x eget luanvil/lnko

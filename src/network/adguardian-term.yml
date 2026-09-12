@@ -6,7 +6,7 @@ desc:
   en: '🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance'
 x:
   source: https://github.com/Lissy93/AdGuardian-Term
-  eget: https://github.com/Lissy93/AdGuardian-Term
+  eget: Lissy93/AdGuardian-Term
 rule:
   /eget:
     cmd: x eget Lissy93/AdGuardian-Term

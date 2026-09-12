@@ -6,7 +6,7 @@ desc:
   en: ANSI Standard X3.64 Teletypewriter Command Session Library
 x:
   source: https://github.com/jart/bestline
-  eget: https://github.com/jart/bestline
+  eget: jart/bestline
 rule:
   /eget:
     cmd: x eget jart/bestline

@@ -5,7 +5,7 @@ desc:
   en: kramdown is first and foremost a library for converting text written in a superset of Markdown to HTML
 x:
   source: https://github.com/gettalong/kramdown
-  eget: https://github.com/gettalong/kramdown
+  eget: gettalong/kramdown
   apt: ruby
   apt-get: ruby
   gem: kramdown

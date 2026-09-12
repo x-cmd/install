@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/halibut#default
 
 x:
-  brew: halibutbinlist:
+  brew: halibut
+binlist:
 - halibut
 license: NOASSERTION
 

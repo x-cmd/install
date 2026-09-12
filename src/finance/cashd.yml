@@ -6,7 +6,7 @@ desc:
   en: 'A fast and cozy TUI for personal finance management.'
 x:
   source: https://github.com/hzqtc/cashd
-  eget: https://github.com/hzqtc/cashd
+  eget: hzqtc/cashd
 rule:
   /eget:
     cmd: x eget hzqtc/cashd

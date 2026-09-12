@@ -6,7 +6,7 @@ desc:
   en: 'Static analysis for GitHub Actions'
 x:
   source: https://github.com/woodruffw/zizmor
-  eget: https://github.com/woodruffw/zizmor
+  eget: woodruffw/zizmor
 rule:
   /eget:
     cmd: x eget woodruffw/zizmor

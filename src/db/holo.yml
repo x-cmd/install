@@ -6,7 +6,7 @@ desc:
   en: 'A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.'
 x:
   source: https://github.com/measure-sh/holo
-  eget: https://github.com/measure-sh/holo
+  eget: measure-sh/holo
 rule:
   /eget:
     cmd: x eget measure-sh/holo

@@ -6,7 +6,7 @@ desc:
   en: Write a license to standard output given its SPDX ID
 x:
   source: https://github.com/raftario/licensor
-  eget: https://github.com/raftario/licensor
+  eget: raftario/licensor
   brew: licensor
   cargo: licensor
 rule:

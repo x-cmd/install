@@ -6,7 +6,7 @@ desc:
   en: lha is the classic LZH compression tool jca02266/lha (LHa for UNIX 1.14i). The upstream license restricts binary redistribution, and major distributions no longer package redistributable binaries; use lhasa (`x install lhasa`) instead, or build from upstream source.
 x:
   source: https://github.com/jca02266/lha/
-  eget: https://github.com/ljh-sh/lha
+  eget: ljh-sh/lha
 rule:
   /git:
     cmd: git clone https://github.com/jca02266/lha.git && cd lha && autoreconf -is && ./configure && make && sudo make install

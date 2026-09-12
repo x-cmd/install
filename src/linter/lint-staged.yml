@@ -9,8 +9,7 @@ rule:
     reference: https://github.com/lint-staged/lint-staged?tab=readme-ov-file#installation-and-setup
     dsnap: lint-staged
 
-x:
-  npm: --save-dev
+x: {}
 binlist:
 - lint-staged
 license: NOASSERTION

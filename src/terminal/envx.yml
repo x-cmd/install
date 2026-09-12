@@ -6,7 +6,7 @@ desc:
   en: 'A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.'
 x:
   source: https://github.com/mikeleppane/envx
-  eget: https://github.com/mikeleppane/envx
+  eget: mikeleppane/envx
 rule:
   /eget:
     cmd: x eget mikeleppane/envx

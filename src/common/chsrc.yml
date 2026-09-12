@@ -6,7 +6,7 @@ desc:
   en: Full platform command line source swap tool
 x:
   source: https://github.com/RubyMetric/chsrc
-  eget: https://github.com/RubyMetric/chsrc
+  eget: RubyMetric/chsrc
   brew: chsrc
   scoop: chsrc
   yay: chsrc-bin

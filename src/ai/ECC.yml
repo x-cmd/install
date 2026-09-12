@@ -6,7 +6,7 @@ desc:
   en: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 x:
   source: https://github.com/affaan-m/ECC
-  eget: https://github.com/affaan-m/ECC
+  eget: affaan-m/ECC
 rule:
   /eget:
     cmd: x eget affaan-m/ECC

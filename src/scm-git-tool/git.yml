@@ -75,9 +75,8 @@ x:
   zypper: git
   pacman: git
   apk: git
-  emerge: --verbose
-  pkg: git
-  brew: gitbinlist:
+  brew: git
+binlist:
 - git
 license: NOASSERTION
 

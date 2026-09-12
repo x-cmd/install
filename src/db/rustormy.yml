@@ -6,7 +6,7 @@ desc:
   en: '🌦️ Minimal neofetch-like weather CLI'
 x:
   source: https://github.com/Tairesh/rustormy
-  eget: https://github.com/Tairesh/rustormy
+  eget: Tairesh/rustormy
 rule:
   /eget:
     cmd: x eget Tairesh/rustormy

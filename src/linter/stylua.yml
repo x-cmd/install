@@ -6,7 +6,7 @@ desc:
   en: An opinionated code formatter for Lua 5.1, 5.2, 5.3, 5.4 and Luau, built using full-moon
 x:
   source: https://github.com/JohnnyMorganz/StyLua
-  eget: https://github.com/JohnnyMorganz/StyLua
+  eget: JohnnyMorganz/StyLua
   brew: stylua
   port: stylua
   scoop: main/stylua

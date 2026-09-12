@@ -6,7 +6,7 @@ desc:
   en: kubie is an alternative to kubectx, kubens and the k on prompt modification script
 x:
   source: https://github.com/sbstp/kubie
-  eget: https://github.com/sbstp/kubie
+  eget: sbstp/kubie
   brew: kubie
   pacman: kubie
   port: kubie

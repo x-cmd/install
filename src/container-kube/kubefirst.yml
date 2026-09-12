@@ -6,7 +6,7 @@ desc:
   en: kubefirst is a free, fully automated, and instantly operational open source platform that includes some of the most popular open source tools available in the Kubernetes space, all working together in a click
 x:
   source: https://github.com/kubefirst/kubefirst
-  eget: https://github.com/kubefirst/kubefirst
+  eget: kubefirst/kubefirst
   brew: kubefirst/tools/kubefirst
   asdf: kubefirst
 rule:

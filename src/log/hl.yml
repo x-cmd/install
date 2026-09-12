@@ -6,7 +6,7 @@ desc:
   en: 'A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.'
 x:
   source: https://github.com/pamburus/hl
-  eget: https://github.com/pamburus/hl
+  eget: pamburus/hl
 rule:
   /eget:
     cmd: x eget pamburus/hl

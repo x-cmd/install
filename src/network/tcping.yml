@@ -6,8 +6,7 @@ desc:
   en: A tool to ping over a TCP connection
 x:
   source: https://github.com/pouriyajamshidi/tcping
-  eget: https://github.com/pouriyajamshidi/tcping
-  apt: -y
+  eget: pouriyajamshidi/tcping
   brew: pouriyajamshidi/tap/tcping
   yay: tcping-go
   go: github.com/pouriyajamshidi/tcping@latest

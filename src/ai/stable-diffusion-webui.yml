@@ -6,7 +6,7 @@ desc:
   en: 'Stable Diffusion web UI'
 x:
   source: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-  eget: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  eget: AUTOMATIC1111/stable-diffusion-webui
 rule:
   /eget:
     cmd: x eget AUTOMATIC1111/stable-diffusion-webui

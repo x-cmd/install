@@ -6,7 +6,7 @@ desc:
   en: Pretty fast disk usage analyzer written in Go
 x:
   source: https://github.com/dundee/gdu
-  eget: https://github.com/dundee/gdu
+  eget: dundee/gdu
   yay: gdu-bin
 rule:
   /x:

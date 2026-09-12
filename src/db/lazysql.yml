@@ -6,7 +6,7 @@ desc:
   en: A cross-platform TUI database management tool written in Go
 x:
   source: https://github.com/jorgerojas26/lazysql
-  eget: https://github.com/jorgerojas26/lazysql
+  eget: jorgerojas26/lazysql
   brew: jorgerojas26/lazysql/lazysql
   yay: lazysql
   paru: lazysql

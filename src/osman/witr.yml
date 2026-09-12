@@ -6,10 +6,9 @@ desc:
   en: Why is this running? Trace any process, port, container, or file back to what started it (CLI and interactive TUI)
 x:
   source: https://github.com/pranshuparmar/witr
-  eget: https://github.com/pranshuparmar/witr
+  eget: pranshuparmar/witr
   apt: witr
   brew: witr
-  winget: -e
   yay: witr-bin
   paru: witr-bin
   go: github.com/pranshuparmar/witr/cmd/witr@latest

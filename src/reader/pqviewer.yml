@@ -1,11 +1,11 @@
 lang: Python
-homepage: https://github.com/thread53/pqviewer?ref=terminaltrove
+homepage: https://github.com/thread53/pqviewer
 license: MIT
 desc:
   cn: pqviewer 是一个 TUI 工具，用于直接在终端中查看 Apache Parquet 文件。
   en: pqviewer is a TUI tool for viewing Apache Parquet files directly in the terminal.
 x:
-  source: https://github.com/thread53/pqviewer?ref=terminaltrove
+  source: https://github.com/thread53/pqviewer
   pip: pqviewer
 rule:
   /pip:

@@ -6,7 +6,7 @@ desc:
   en: Oxlint is designed to catch erroneous or useless code without requiring any configurations by default
 x:
   source: https://github.com/oxc-project/oxc
-  eget: https://github.com/oxc-project/oxc
+  eget: oxc-project/oxc
   yay: oxlint
 rule:
   /eget:

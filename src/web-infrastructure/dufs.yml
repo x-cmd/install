@@ -6,7 +6,7 @@ desc:
   en: Dufs is a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav...
 x:
   source: https://github.com/sigoden/dufs
-  eget: https://github.com/sigoden/dufs
+  eget: sigoden/dufs
   brew: dufs
   yay: dufs
   cargo: dufs

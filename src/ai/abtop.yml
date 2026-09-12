@@ -6,7 +6,7 @@ desc:
   en: abtop is a top-like CLI tool for real-time monitoring of multiple AI coding agents, showing token usage, context window, and rate limits.
 x:
   source: https://github.com/graykode/abtop
-  eget: https://github.com/graykode/abtop
+  eget: graykode/abtop
   cargo: abtop
 rule:
   /eget:

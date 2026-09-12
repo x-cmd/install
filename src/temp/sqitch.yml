@@ -6,7 +6,7 @@ desc:
   en: Sqitch is a database change management application
 x:
   source: https://github.com/sqitchers/sqitch
-  eget: https://github.com/sqitchers/sqitch
+  eget: sqitchers/sqitch
 rule:
   /eget:
     cmd: x eget sqitchers/sqitch

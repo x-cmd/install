@@ -6,7 +6,7 @@ desc:
   en: A toolkit for fixing the pains of microservice development
 x:
   source: https://github.com/tilt-dev/tilt
-  eget: https://github.com/tilt-dev/tilt
+  eget: tilt-dev/tilt
   brew: tilt-dev/tap/tilt
   scoop: tilt
   asdf: tilt

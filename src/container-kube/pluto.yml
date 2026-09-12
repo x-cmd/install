@@ -6,7 +6,7 @@ desc:
   cn: Pluto 是一个实用工具，可以帮助用户在他们的代码库和舵手版本中找到不推荐的 Kubernetes apiVersions
 x:
   source: https://github.com/FairwindsOps/pluto
-  eget: https://github.com/FairwindsOps/pluto
+  eget: FairwindsOps/pluto
   brew: pluto
   asdf: pluto
 rule:

@@ -6,7 +6,7 @@ desc:
   en: Kubeconform is a Kubernetes manifest validation tool
 x:
   source: https://github.com/yannh/kubeconform
-  eget: https://github.com/yannh/kubeconform
+  eget: yannh/kubeconform
   brew: kubeconform
   winget: YannHamon.kubeconform
   go: github.com/yannh/kubeconform/cmd/kubeconform@latest

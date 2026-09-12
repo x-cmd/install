@@ -6,7 +6,7 @@ desc:
   en: flawz is a Terminal User Interface (TUI) for browsing security vulnerabilities (also known as CVEs)
 x:
   source: https://github.com/orhun/flawz
-  eget: https://github.com/orhun/flawz
+  eget: orhun/flawz
   brew: flawz
   pacman: flawz
   apk: flawz

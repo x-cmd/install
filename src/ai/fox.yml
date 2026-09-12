@@ -6,7 +6,7 @@ desc:
   en: High-performance local LLM inference server and drop-in replacement for Ollama, with lower TTFT and higher throughput via prefix caching and continuous batching
 x:
   source: https://github.com/ferrumox/fox
-  eget: https://github.com/ferrumox/fox
+  eget: ferrumox/fox
 rule:
   /eget:
     cmd: x eget use ferrumox/fox

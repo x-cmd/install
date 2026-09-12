@@ -6,7 +6,7 @@ desc:
   en: Dexios is a command-line file encryption utility, suitable for encrypting files before uploading them to a cloud service
 x:
   source: https://github.com/brxken128/dexios
-  eget: https://github.com/brxken128/dexios
+  eget: brxken128/dexios
   yay: dexios-bin
   cargo: dexios
 rule:

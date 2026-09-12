@@ -6,7 +6,7 @@ desc:
   en: Eight Sleep cli to fetch data and control your pods.
 x:
   source: https://github.com/steipete/eightctl
-  eget: https://github.com/steipete/eightctl
+  eget: steipete/eightctl
 rule:
   /eget:
     cmd: x eget steipete/eightctl

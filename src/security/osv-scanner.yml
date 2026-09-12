@@ -6,13 +6,12 @@ desc:
   en: Vulnerability scanner written in Go which uses the data provided by
 x:
   source: https://github.com/google/osv-scanner
-  eget: https://github.com/google/osv-scanner
+  eget: google/osv-scanner
   brew: osv-scanner
   pacman: osv-scanner
   apk: osv-scanner
   scoop: osv-scanner
   go: github.com/google/osv-scanner/cmd/osv-scanner@v1
-  pkg: osv-scanner
 rule:
   /x:
     cmd: x pkg use osv-scanner

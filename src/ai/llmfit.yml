@@ -6,7 +6,7 @@ desc:
   cn: 数百个模型和提供商，一个命令找到能在你的硬件上运行的模型
 x:
   source: https://github.com/AlexsJones/llmfit
-  eget: https://github.com/AlexsJones/llmfit
+  eget: AlexsJones/llmfit
   brew: llmfit
   port: llmfit
   scoop: llmfit

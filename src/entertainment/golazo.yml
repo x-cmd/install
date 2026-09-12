@@ -6,8 +6,9 @@ desc:
   en: 'The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.'
 x:
   source: https://github.com/0xjuanma/golazo
-  eget: https://github.com/0xjuanma/golazo
-  brew: 0xjuanma/tap/golazorule:
+  eget: 0xjuanma/golazo
+  brew: 0xjuanma/tap/golazo
+rule:
   darwin/brew:
     cmd: 'brew install 0xjuanma/tap/golazo'
     reference: https://github.com/0xjuanma/golazo

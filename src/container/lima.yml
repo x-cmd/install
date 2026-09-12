@@ -6,7 +6,7 @@ desc:
   en: Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 x:
   source: https://github.com/lima-vm/lima
-  eget: https://github.com/lima-vm/lima
+  eget: lima-vm/lima
   brew: lima
   port: lima
   yay: lima

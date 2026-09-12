@@ -7,7 +7,6 @@ lang: JavaScript
 x:
   source: https://github.com/sindresorhus/fast-cli#readme
   yay: nodejs-fast-cli
-  npm: --global
 rule:
   /x:
     cmd: x pkg use fast-cli

@@ -6,14 +6,13 @@ desc:
   en: Cross-platform backup tool for Windows, macOS, and Linux with fast incremental backups, client-side end-to-end encryption, compression, and deduplication
 x:
   source: https://github.com/kopia/kopia
-  eget: https://github.com/kopia/kopia
+  eget: kopia/kopia
   dnf: kopia
   brew: kopia
   yum: kopia
   scoop: kopia
   yay: kopia
   go: github.com/kopia/kopia@latest
-  pkg: sysutils/kopia
 rule:
   /x:
     cmd: x pkg use kopia

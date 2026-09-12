@@ -6,11 +6,10 @@ desc:
   en: Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate
 x:
   source: https://github.com/tsenart/vegeta
-  eget: https://github.com/tsenart/vegeta
+  eget: tsenart/vegeta
   brew: vegeta
   pacman: vegeta
   port: vegeta
-  pkg: vegeta
 rule:
   /eget:
     cmd: x eget tsenart/vegeta

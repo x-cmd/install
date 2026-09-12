@@ -6,7 +6,7 @@ desc:
   en: A modern, modular, and robust TUI hex editor.
 x:
   source: https://github.com/thetacom/hexabyte
-  eget: https://github.com/thetacom/hexabyte
+  eget: thetacom/hexabyte
   pacman: hexabyte
   yay: hexabyte
   pip: hexabyte

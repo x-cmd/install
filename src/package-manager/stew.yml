@@ -6,7 +6,7 @@ desc:
   en: An independent package manager for compiled binaries.
 x:
   source: https://github.com/marwanhawari/stew
-  eget: https://github.com/marwanhawari/stew
+  eget: marwanhawari/stew
   brew: marwanhawari/tap/stew
   pacman: stew
   yay: stew

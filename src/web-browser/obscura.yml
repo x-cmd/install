@@ -6,7 +6,7 @@ desc:
   en: Obscura is an open-source headless browser engine for AI agents and web scraping, built in Rust with embedded V8, supporting CDP / Puppeteer / Playwright, with built-in anti-fingerprinting and tracker blocking.
 x:
   source: https://github.com/h4ckf0r0day/obscura
-  eget: https://github.com/h4ckf0r0day/obscura
+  eget: h4ckf0r0day/obscura
   yay: obscura-browser
 rule:
   /eget:

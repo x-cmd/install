@@ -6,7 +6,7 @@ desc:
   en: Open source local terminal cli with any LLM
 x:
   source: https://github.com/zhijiewong/openharness
-  eget: https://github.com/zhijiewong/openharness
+  eget: zhijiewong/openharness
 rule:
   /eget:
     cmd: x eget zhijiewong/openharness

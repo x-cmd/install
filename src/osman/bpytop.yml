@@ -12,11 +12,9 @@ x:
   pacman: bpytop
   snap: bpytop
   port: bpytop
-  emerge: -av
   xbps: bpytop
   yay: bpytop-git
   pip: bpytop
-  pkg: bpytop
 rule:
   /x:
     cmd: x pkg use bpytop

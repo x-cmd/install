@@ -6,7 +6,7 @@ desc:
   en: 'neofetch-style music cli'
 x:
   source: https://github.com/ashish0kumar/mufetch
-  eget: https://github.com/ashish0kumar/mufetch
+  eget: ashish0kumar/mufetch
 rule:
   /go:
     cmd: 'go install'

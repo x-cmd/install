@@ -6,7 +6,7 @@ desc:
   en: rage is a simple, modern, and secure file encryption tool
 x:
   source: https://github.com/str4d/rage
-  eget: https://github.com/str4d/rage
+  eget: str4d/rage
   brew: str4d.xyz/rage/rage
   zypper: rage-encryption
   cargo: rage

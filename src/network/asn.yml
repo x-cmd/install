@@ -8,7 +8,6 @@ x:
   source: https://github.com/nitefood/asn
   apt: asn
   brew: asn
-  apk: -X
   yay: asn-git
 rule:
   darwin/brew:

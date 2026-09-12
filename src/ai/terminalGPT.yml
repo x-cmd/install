@@ -6,7 +6,7 @@ desc:
   en: Get GPT like chatGPT on your terminal
 x:
   source: https://github.com/jucasoliveira/terminalGPT
-  eget: https://github.com/jucasoliveira/terminalGPT
+  eget: jucasoliveira/terminalGPT
 rule:
   /eget:
     cmd: x eget jucasoliveira/terminalGPT

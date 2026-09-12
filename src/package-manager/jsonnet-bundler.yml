@@ -6,7 +6,7 @@ desc:
   en: A jsonnet package manager
 x:
   source: https://github.com/jsonnet-bundler/jsonnet-bundler
-  eget: https://github.com/jsonnet-bundler/jsonnet-bundler
+  eget: jsonnet-bundler/jsonnet-bundler
   brew: jsonnet-bundler
   go: github.com/jsonnet-bundler/jsonnet-bundler/cmd/jb@latest
 rule:

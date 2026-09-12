@@ -6,7 +6,7 @@ desc:
   en: Docker-compatible CLI for containerd
 x:
   source: https://github.com/containerd/nerdctl
-  eget: https://github.com/containerd/nerdctl
+  eget: containerd/nerdctl
   brew: nerdctl
   yay: nerdctl-git
   asdf: nerdctl

@@ -6,7 +6,7 @@ desc:
   en: Fast web fuzzer written in Go
 x:
   source: https://github.com/ffuf/ffuf
-  eget: https://github.com/ffuf/ffuf
+  eget: ffuf/ffuf
   brew: ffuf
   yay: ffuf
   go: github.com/ffuf/ffuf/v2@latest

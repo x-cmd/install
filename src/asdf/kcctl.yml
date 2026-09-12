@@ -6,7 +6,7 @@ desc:
   en: A modern and intuitive command line client for Kafka Connect
 x:
   source: https://github.com/kcctl/kcctl
-  eget: https://github.com/kcctl/kcctl
+  eget: kcctl/kcctl
   brew: kcctl/tap/kcctl
   asdf: kcctl
 rule:

@@ -6,7 +6,7 @@ desc:
   en: '🔥 Feature-rich interactive Jira command line.'
 x:
   source: https://github.com/ankitpokhrel/jira-cli
-  eget: https://github.com/ankitpokhrel/jira-cli
+  eget: ankitpokhrel/jira-cli
 rule:
   /eget:
     cmd: x eget ankitpokhrel/jira-cli

@@ -6,7 +6,6 @@ desc:
   cn: 以各种分辨率捕获网站的屏幕截图
 x:
   source: https://github.com/sindresorhus/pageres-cli
-  npm: --global
 rule:
   /x:
     cmd: x pkg use pageres-cli

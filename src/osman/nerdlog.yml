@@ -6,7 +6,7 @@ desc:
   en: 'Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server'
 x:
   source: https://github.com/dimonomid/nerdlog
-  eget: https://github.com/dimonomid/nerdlog
+  eget: dimonomid/nerdlog
 rule:
   /go:
     cmd: 'go install'

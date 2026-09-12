@@ -6,7 +6,7 @@ homepage: https://github.com/jtesta/ssh-audit
 license: MIT
 x:
   source: https://github.com/jtesta/ssh-audit
-  eget: https://github.com/jtesta/ssh-audit
+  eget: jtesta/ssh-audit
   snap: ssh-audit
   yay: ssh-audit-git
   pip: ssh-audit

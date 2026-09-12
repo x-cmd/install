@@ -5,7 +5,7 @@ desc:
   cn: Rsync 是一个用于远程和本地文件的快速且通用的文件复制工具
 x:
   source: https://github.com/RsyncProject/rsync
-  eget: https://github.com/RsyncProject/rsync
+  eget: RsyncProject/rsync
   apt: rsync
   dnf: rsync
   brew: rsync

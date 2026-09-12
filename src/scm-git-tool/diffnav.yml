@@ -6,8 +6,8 @@ desc:
   en: 'A git diff pager based on delta but with a file tree, à la GitHub.'
 x:
   source: https://github.com/dlvhdr/diffnav
-  eget: https://github.com/dlvhdr/diffnav
-  brew: --caskrule:
+  eget: dlvhdr/diffnav
+rule:
   darwin/brew:
     cmd: 'brew install --cask font-<FONT NAME>-nerd-font'
     reference: https://github.com/dlvhdr/diffnav

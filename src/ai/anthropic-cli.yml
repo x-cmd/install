@@ -6,7 +6,7 @@ desc:
   en: The CLI for the Claude API
 x:
   source: https://github.com/anthropics/anthropic-cli
-  eget: https://github.com/anthropics/anthropic-cli
+  eget: anthropics/anthropic-cli
 rule:
   /eget:
     cmd: x eget anthropics/anthropic-cli

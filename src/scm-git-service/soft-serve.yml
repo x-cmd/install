@@ -6,7 +6,7 @@ desc:
   en: soft-serve is a self-hostable Git server for the command-line
 x:
   source: https://github.com/charmbracelet/soft-serve
-  eget: https://github.com/charmbracelet/soft-serve
+  eget: charmbracelet/soft-serve
   apt: soft-serve
   dnf: soft-serve
   brew: charmbracelet/tap/soft-serve

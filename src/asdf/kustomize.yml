@@ -6,7 +6,7 @@ desc:
   en: kustomize lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is
 x:
   source: https://github.com/kubernetes-sigs/kustomize
-  eget: https://github.com/kubernetes-sigs/kustomize
+  eget: kubernetes-sigs/kustomize
   brew: kustomize
   port: kustomize
   choco: kustomize

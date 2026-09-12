@@ -6,7 +6,7 @@ desc:
   en: 'Sandboxing for GNU Make has never been easier'
 x:
   source: https://github.com/jart/landlock-make
-  eget: https://github.com/jart/landlock-make
+  eget: jart/landlock-make
 rule:
   /eget:
     cmd: x eget jart/landlock-make

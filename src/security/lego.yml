@@ -6,14 +6,13 @@ desc:
   en: A Let's Encrypt/ACME client written in Go
 x:
   source: https://github.com/go-acme/lego
-  eget: https://github.com/go-acme/lego
+  eget: go-acme/lego
   brew: lego
   pacman: lego
   snap: lego
   emerge: app-crypt/lego
   yay: lego-bin
   go: github.com/go-acme/lego/v4/cmd/lego@latest
-  pkg: lego
 rule:
   /x:
     cmd: x pkg use lego

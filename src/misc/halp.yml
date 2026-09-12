@@ -6,7 +6,7 @@ desc:
   cn: 一个用于获取命令行工具帮助的命令行工具
 x:
   source: https://github.com/orhun/halp
-  eget: https://github.com/orhun/halp
+  eget: orhun/halp
   pacman: halp
   yay: halp-bin
   paru: halp-git

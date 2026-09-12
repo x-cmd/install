@@ -6,7 +6,7 @@ desc:
   en: 'A (TUI/CLI) markdown navigator with tree-based structural navigation.'
 x:
   source: https://github.com/Epistates/treemd
-  eget: https://github.com/Epistates/treemd
+  eget: Epistates/treemd
 rule:
   /eget:
     cmd: x eget Epistates/treemd

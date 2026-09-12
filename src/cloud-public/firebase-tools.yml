@@ -6,7 +6,7 @@ desc:
   en: The Firebase Command Line Interface (CLI) Tools can be used to test, manage, and deploy your Firebase project from the command line
 x:
   source: https://github.com/firebase/firebase-tools
-  eget: https://github.com/firebase/firebase-tools
+  eget: firebase/firebase-tools
   yay: firebase-tools
   npm: firebase-tools
 rule:

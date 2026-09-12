@@ -6,7 +6,7 @@ desc:
   en: An MCP server for interacting with the Financial Datasets stock market API.
 x:
   source: https://github.com/financial-datasets/mcp-server
-  eget: https://github.com/financial-datasets/mcp-server
+  eget: financial-datasets/mcp-server
 rule:
   /eget:
     cmd: x eget financial-datasets/mcp-server

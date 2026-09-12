@@ -6,7 +6,7 @@ desc:
   en: Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues
 x:
   source: https://github.com/fujiapple852/trippy
-  eget: https://github.com/fujiapple852/trippy
+  eget: fujiapple852/trippy
   brew: trippy
   pacman: trippy
   snap: trippy

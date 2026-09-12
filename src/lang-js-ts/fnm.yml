@@ -6,7 +6,7 @@ desc:
   en: Fast and simple Node.js version manager, built in Rust
 x:
   source: https://github.com/Schniz/fnm
-  eget: https://github.com/Schniz/fnm
+  eget: Schniz/fnm
   brew: fnm
   scoop: fnm
   choco: fnm

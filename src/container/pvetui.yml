@@ -6,7 +6,7 @@ desc:
   en: 'Terminal UI for Proxmox VE'
 x:
   source: https://github.com/devnullvoid/pvetui
-  eget: https://github.com/devnullvoid/pvetui
+  eget: devnullvoid/pvetui
 rule:
   /eget:
     cmd: x eget devnullvoid/pvetui

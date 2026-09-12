@@ -6,7 +6,7 @@ desc:
   cn: Folly 是一个由 C++ 14 组件构成的库，其设计考虑到了实用性和效率
 x:
   source: https://github.com/facebook/folly
-  eget: https://github.com/facebook/folly
+  eget: facebook/folly
   brew: folly
   yay: folly
 rule:

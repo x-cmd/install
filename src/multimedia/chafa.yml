@@ -6,7 +6,7 @@ desc:
   en: Chafa is a command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 x:
   source: https://github.com/hpjansson/chafa
-  eget: https://github.com/hpjansson/chafa
+  eget: hpjansson/chafa
   apt: chaf
   dnf: chafa
   brew: chafa
@@ -16,7 +16,6 @@ x:
   emerge: media-gfx/chafa
   scoop: chafa
   winget: hpjansson.Chafa
-  pkg: chafa
 rule:
   /eget:
     cmd: x eget hpjansson/chafa

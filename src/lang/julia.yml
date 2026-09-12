@@ -6,7 +6,7 @@ desc:
   en: Julia is a high-level, high-performance dynamic language for technical computing
 x:
   source: https://github.com/JuliaLang/julia
-  eget: https://github.com/JuliaLang/julia
+  eget: JuliaLang/julia
   apt: julia
   dnf: julia
   brew: julia

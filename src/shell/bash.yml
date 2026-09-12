@@ -44,7 +44,8 @@ x:
   yum: bash
   pacman: bash
   apk: bash
-  brew: bashbinlist:
+  brew: bash
+binlist:
 - bash
 license: NOASSERTION
 

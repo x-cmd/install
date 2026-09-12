@@ -6,7 +6,7 @@ desc:
   en: a command line tool that can be used to process CSV files directly from the shell.
 x:
   source: https://github.com/medialab/xan
-  eget: https://github.com/medialab/xan
+  eget: medialab/xan
   brew: xan
   pacman: xan
   scoop: xan

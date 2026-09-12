@@ -6,22 +6,19 @@ desc:
   en: just is a handy way to save and run project-specific commands
 x:
   source: https://github.com/casey/just
-  eget: https://github.com/casey/just
+  eget: casey/just
   apt: just
   dnf: just
   brew: just
   pacman: just
   apk: just
-  snap: --edge
   port: just
-  emerge: --sync
   xbps: just
   eopkg: just
   scoop: just
   choco: just
   cargo: just
   asdf: just
-  pkg: just
 rule:
   /x:
     cmd: x pkg use just

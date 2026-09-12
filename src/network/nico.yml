@@ -6,7 +6,7 @@ desc:
   en: A HTTP3 web server for reverse proxy and single page application
 x:
   source: https://github.com/txthinking/nico
-  eget: https://github.com/txthinking/nico
+  eget: txthinking/nico
 rule:
   /x:
     cmd: x pkg use nico

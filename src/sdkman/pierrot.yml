@@ -6,7 +6,7 @@ desc:
   en: Multi-repository GitHub Governance Tool
 x:
   source: https://github.com/agorapulse/pierrot
-  eget: https://github.com/agorapulse/pierrot
+  eget: agorapulse/pierrot
 rule:
   /eget:
     cmd: x eget agorapulse/pierrot

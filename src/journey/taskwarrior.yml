@@ -6,7 +6,7 @@ desc:
   cn: Taskwarrior 是一个具有多种特性的命令行任务列表管理实用程序
 x:
   source: https://github.com/GothenburgBitFactory/taskwarrior
-  eget: https://github.com/GothenburgBitFactory/taskwarrior
+  eget: GothenburgBitFactory/taskwarrior
   apt: taskwarrior
   dnf: task
   brew: task
@@ -15,7 +15,6 @@ x:
   yum: task
   emerge: task
   xbps: task
-  pkg: taskwarrior
 rule:
   /eget:
     cmd: x eget GothenburgBitFactory/taskwarrior

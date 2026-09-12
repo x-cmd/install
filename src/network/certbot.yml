@@ -5,7 +5,7 @@ desc:
   en: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.
 x:
   source: https://github.com/certbot/certbot
-  eget: https://github.com/certbot/certbot
+  eget: certbot/certbot
   apt: certbot
   dnf: certbot
   brew: certbot

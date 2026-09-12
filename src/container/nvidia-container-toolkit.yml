@@ -6,10 +6,7 @@ desc:
   en: The NVIDIA Container Toolkit is a collection of libraries and utilities enabling users to build and run GPU-accelerated containers.
 x:
   source: https://github.com/NVIDIA/nvidia-container-toolkit
-  eget: https://github.com/NVIDIA/nvidia-container-toolkit
-  apt: -y
-  dnf: -y
-  apt-get: -y
+  eget: NVIDIA/nvidia-container-toolkit
 rule:
   /eget:
     cmd: x eget NVIDIA/nvidia-container-toolkit

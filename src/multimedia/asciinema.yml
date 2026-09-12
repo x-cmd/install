@@ -6,11 +6,10 @@ desc:
   en: Terminal session recorder, streamer and player
 x:
   source: https://github.com/asciinema/asciinema
-  eget: https://github.com/asciinema/asciinema
+  eget: asciinema/asciinema
   apt: asciinema
   brew: asciinema
   pacman: asciinema
-  cargo: --locked
 rule:
   /x:
     cmd: x pkg use asciinema

@@ -6,12 +6,10 @@ homepage: https://github.com/svenstaro/miniserve
 license: MIT
 x:
   source: https://github.com/svenstaro/miniserve
-  eget: https://github.com/svenstaro/miniserve
+  eget: svenstaro/miniserve
   brew: miniserve
   pacman: miniserve
   scoop: miniserve
-  cargo: --locked
-  pkg: miniserve
 rule:
   /x:
     cmd: x pkg use miniserve

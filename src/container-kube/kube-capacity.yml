@@ -6,7 +6,7 @@ desc:
   en: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 x:
   source: https://github.com/robscott/kube-capacity
-  eget: https://github.com/robscott/kube-capacity
+  eget: robscott/kube-capacity
   brew: robscott/tap/kube-capacity
   yay: kube-capacity-bin
 rule:

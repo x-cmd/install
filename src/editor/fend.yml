@@ -6,9 +6,9 @@ desc:
   en: 'Arbitrary-precision unit-aware calculator'
 x:
   source: https://github.com/printfn/fend
-  eget: https://github.com/printfn/fend
+  eget: printfn/fend
   brew: fend
-  cargo: fend'
+  cargo: fend
 rule:
   /cargo:
     cmd: 'cargo install fend'

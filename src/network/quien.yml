@@ -6,7 +6,7 @@ desc:
   en: 'A better whois and domain intelligence toolkit'
 x:
   source: https://github.com/retlehs/quien
-  eget: https://github.com/retlehs/quien
+  eget: retlehs/quien
 rule:
   /eget:
     cmd: x eget retlehs/quien

@@ -6,7 +6,7 @@ desc:
   en: 'A terminal OpenTelemetry viewer inspired by otel-desktop-viewer'
 x:
   source: https://github.com/ymtdzzz/otel-tui
-  eget: https://github.com/ymtdzzz/otel-tui
+  eget: ymtdzzz/otel-tui
 rule:
   /eget:
     cmd: x eget ymtdzzz/otel-tui

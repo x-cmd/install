@@ -6,7 +6,7 @@ desc:
   en: 'Validate and Run GitHub Actions locally.'
 x:
   source: https://github.com/bahdotsh/wrkflw
-  eget: https://github.com/bahdotsh/wrkflw
+  eget: bahdotsh/wrkflw
 rule:
   /eget:
     cmd: x eget bahdotsh/wrkflw

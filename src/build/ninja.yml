@@ -6,7 +6,7 @@ desc:
   en: Ninja is a small build system with a focus on speed
 x:
   source: https://github.com/ninja-build/ninja
-  eget: https://github.com/ninja-build/ninja
+  eget: ninja-build/ninja
   apt: ninja-build
   dnf: ninja-build
   brew: ninja
@@ -20,7 +20,6 @@ x:
   scoop: ninja
   choco: ninja
   pip: ninja
-  pkg: ninja
 rule:
   /eget:
     cmd: x eget ninja-build/ninja

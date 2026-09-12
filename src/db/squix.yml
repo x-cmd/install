@@ -6,7 +6,7 @@ desc:
   en: 'A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea'
 x:
   source: https://github.com/eduardofuncao/squix
-  eget: https://github.com/eduardofuncao/squix
+  eget: eduardofuncao/squix
 rule:
   /eget:
     cmd: x eget eduardofuncao/squix

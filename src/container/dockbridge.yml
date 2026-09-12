@@ -6,7 +6,7 @@ desc:
   en: DockBridge is a Go-based client-server system that provisions Hetzner Cloud servers for Docker containers, with laptop lock detection and keep-alive features.
 x:
   source: https://github.com/Max-Levitskiy/DockBridge
-  eget: https://github.com/Max-Levitskiy/DockBridge
+  eget: Max-Levitskiy/DockBridge
 rule:
   /eget:
     cmd: x eget Max-Levitskiy/DockBridge

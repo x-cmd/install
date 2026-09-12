@@ -6,14 +6,13 @@ desc:
   en: tig is an ncurses-based text-mode interface for git
 x:
   source: https://github.com/jonas/tig
-  eget: https://github.com/jonas/tig
+  eget: jonas/tig
   apt: tig
   dnf: tig
   brew: tig
   pacman: tig
   apk: tig
   apt-get: tig
-  pkg: tig
 rule:
   /eget:
     cmd: x eget jonas/tig

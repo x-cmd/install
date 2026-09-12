@@ -6,7 +6,7 @@ desc:
   en: A high-throughput and memory-efficient inference and serving engine for LLMs
 x:
   source: https://github.com/vllm-project/vllm
-  eget: https://github.com/vllm-project/vllm
+  eget: vllm-project/vllm
 rule:
   /eget:
     cmd: x eget vllm-project/vllm

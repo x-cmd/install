@@ -6,7 +6,7 @@ desc:
   en: A CLI tool that executes SQL queries and converts the results into a Markdown table
 x:
   source: https://github.com/noborus/mdtsql
-  eget: https://github.com/noborus/mdtsql
+  eget: noborus/mdtsql
   brew: noborus/tap/mdtsql
   yay: mdtsql-bin
   go: github.com/noborus/mdtsql/cmd/mdtsql@latest

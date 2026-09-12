@@ -6,8 +6,9 @@ desc:
   en: 'Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.'
 x:
   source: https://github.com/dutradotdev/quokka
-  eget: https://github.com/dutradotdev/quokka
-  brew: android-platform-toolsrule:
+  eget: dutradotdev/quokka
+  brew: android-platform-tools
+rule:
   darwin/brew:
     cmd: 'brew install android-platform-tools'
     reference: https://github.com/dutradotdev/quokka

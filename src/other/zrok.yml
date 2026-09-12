@@ -6,7 +6,7 @@ desc:
   en: Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 x:
   source: https://github.com/openziti/zrok
-  eget: https://github.com/openziti/zrok
+  eget: openziti/zrok
   brew: zrok
   scoop: extras/zrok
   yay: zrok

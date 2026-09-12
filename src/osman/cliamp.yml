@@ -6,8 +6,9 @@ desc:
   en: 'cliamp - Terminal music player inspired by winamp'
 x:
   source: https://github.com/bjarneo/cliamp
-  eget: https://github.com/bjarneo/cliamp
-  brew: bjarneo/cliamp/cliamprule:
+  eget: bjarneo/cliamp
+  brew: bjarneo/cliamp/cliamp
+rule:
   darwin/brew:
     cmd: 'brew install bjarneo/cliamp/cliamp'
     reference: https://github.com/bjarneo/cliamp

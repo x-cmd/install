@@ -6,7 +6,7 @@ desc:
   en: tlrc is a tldr client written in Rust
 x:
   source: https://github.com/tldr-pages/tlrc
-  eget: https://github.com/tldr-pages/tlrc
+  eget: tldr-pages/tlrc
   brew: tlrc
   zypper: tlrc
   port: tlrc

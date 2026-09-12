@@ -6,7 +6,7 @@ desc:
   en: The best-benchmarked open-source AI memory system. And it's free.
 x:
   source: https://github.com/MemPalace/mempalace
-  eget: https://github.com/MemPalace/mempalace
+  eget: MemPalace/mempalace
 rule:
   /eget:
     cmd: x eget MemPalace/mempalace

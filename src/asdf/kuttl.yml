@@ -6,7 +6,7 @@ desc:
   en: The KUbernetes Test TooL (KUTTL) is a toolkit that makes it easy to test Kubernetes Operators (opens new window), just using YAML
 x:
   source: https://github.com/kudobuilder/kuttl
-  eget: https://github.com/kudobuilder/kuttl
+  eget: kudobuilder/kuttl
   brew: kudobuilder/tap/kuttl-cli
   asdf: kuttl
 rule:

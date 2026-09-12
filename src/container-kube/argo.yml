@@ -6,7 +6,7 @@ desc:
   en: Open source tools for Kubernetes to run workflows, manage clusters, and do GitOps right
 x:
   source: https://github.com/argoproj/argo-cd
-  eget: https://github.com/argoproj/argo-cd
+  eget: argoproj/argo-cd
   brew: argo
   scoop: argo
   yay: argo-bin

@@ -6,7 +6,7 @@ desc:
   en: Binsider can perform static and dynamic analysis, inspect strings, examine linked libraries, and perform hexdumps, all within a user-friendly terminal user interface!
 x:
   source: https://github.com/orhun/binsider
-  eget: https://github.com/orhun/binsider
+  eget: orhun/binsider
   brew: binsider
   pacman: binsider
   yay: binsider-git

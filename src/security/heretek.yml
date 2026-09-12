@@ -6,8 +6,8 @@ desc:
   en: 'GDB TUI Dashboard for the understanding of vast knowledge'
 x:
   source: https://github.com/wcampbell0x2a/heretek
-  eget: https://github.com/wcampbell0x2a/heretek
-  pacman: heretek'
+  eget: wcampbell0x2a/heretek
+  pacman: heretek
 rule:
   arch/pacman:
     cmd: 'pacman -S heretek'

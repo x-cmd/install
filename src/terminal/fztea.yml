@@ -6,7 +6,7 @@ desc:
   en: '🐬🧋 Remote control your flipper from the local terminal or over SSH'
 x:
   source: https://github.com/jon4hz/fztea
-  eget: https://github.com/jon4hz/fztea
+  eget: jon4hz/fztea
 rule:
   /eget:
     cmd: x eget jon4hz/fztea

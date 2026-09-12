@@ -6,7 +6,7 @@ desc:
   en: 'Smassh your Keyboard, TUI Edition'
 x:
   source: https://github.com/kraanzu/smassh
-  eget: https://github.com/kraanzu/smassh
+  eget: kraanzu/smassh
 rule:
   /eget:
     cmd: x eget kraanzu/smassh

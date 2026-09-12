@@ -6,7 +6,7 @@ desc:
   en: A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters
 x:
   source: https://github.com/ksonnet/ksonnet
-  eget: https://github.com/ksonnet/ksonnet
+  eget: ksonnet/ksonnet
   brew: ksonnet/tap/ks
   yay: ksonnet-bin
   asdf: ksonnet

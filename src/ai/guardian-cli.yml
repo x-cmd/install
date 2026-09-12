@@ -6,7 +6,7 @@ desc:
   en: Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows w...
 x:
   source: https://github.com/zakirkun/guardian-cli
-  eget: https://github.com/zakirkun/guardian-cli
+  eget: zakirkun/guardian-cli
 rule:
   /eget:
     cmd: x eget zakirkun/guardian-cli

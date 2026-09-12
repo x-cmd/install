@@ -43,7 +43,8 @@ x:
   yum: coreutils
   pacman: coreutils
   apk: coreutils
-  brew: coreutilsbinlist:
+  brew: coreutils
+binlist:
 - coreutils
 license: NOASSERTION
 

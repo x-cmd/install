@@ -6,7 +6,7 @@ desc:
   en: 'A terminal UI to edit bytes by the nibble.'
 x:
   source: https://github.com/ndd7xv/heh
-  eget: https://github.com/ndd7xv/heh
+  eget: ndd7xv/heh
 rule:
   /eget:
     cmd: x eget ndd7xv/heh

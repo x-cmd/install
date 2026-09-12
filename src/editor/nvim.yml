@@ -5,17 +5,14 @@ desc:
   en: Neovim is a refactor, and sometimes redactor, in the tradition of Vim (which itself derives from Stevie). It is not a rewrite but a continuation and extension of Vim.
 x:
   source: https://github.com/neovim/neovim
-  eget: https://github.com/neovim/neovim
+  eget: neovim/neovim
   apt: neovim
-  dnf: -y
   brew: neovim
   pacman: neovim
   apk: neovim
   apt-get: neovim
-  yum: -y
   zypper: neovim
   port: neovim
-  emerge: -a
   xbps: neovim
   eopkg: neovim
   scoop: neovim
@@ -23,7 +20,6 @@ x:
   winget: Neovim.Neovim
   flatpak: flathub
   nix: nixpkgs#neovim
-  pkg: neovim
 rule:
   /eget:
     cmd: x eget neovim/neovim

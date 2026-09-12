@@ -6,7 +6,7 @@ desc:
   en: Tools for and transforming and inspecting PDF files
 x:
   source: https://github.com/qpdf/qpdf
-  eget: https://github.com/qpdf/qpdf
+  eget: qpdf/qpdf
   brew: qpdf
   scoop: qpdf
 rule:

@@ -20,170 +20,283 @@
     },
     "ListenEnum": {
       "description": "Single-value enum for behavior.network.listen",
-      "enum": ["none", "localhost", "lan", "internet"],
+      "enum": [
+        "none",
+        "localhost",
+        "lan",
+        "internet"
+      ],
       "type": "string"
     },
     "Connect": {
       "additionalProperties": false,
       "description": "Independent flags for each outbound destination",
       "properties": {
-        "localhost": { "type": "boolean" },
-        "lan":       { "type": "boolean" },
-        "internet":  { "type": "boolean" }
+        "localhost": {
+          "type": "boolean"
+        },
+        "lan": {
+          "type": "boolean"
+        },
+        "internet": {
+          "type": "boolean"
+        }
       },
-      "required": ["localhost", "lan", "internet"],
+      "required": [
+        "localhost",
+        "lan",
+        "internet"
+      ],
       "type": "object"
     },
     "Network": {
       "additionalProperties": false,
-      "description": "Network permissions — direction (listen/connect) x surface (localhost/lan/internet)",
+      "description": "Network permissions \u2014 direction (listen/connect) x surface (localhost/lan/internet)",
       "properties": {
-        "listen":  { "$ref": "#/definitions/ListenEnum" },
-        "connect": { "$ref": "#/definitions/Connect" }
+        "listen": {
+          "$ref": "#/definitions/ListenEnum"
+        },
+        "connect": {
+          "$ref": "#/definitions/Connect"
+        }
       },
-      "required": ["listen", "connect"],
+      "required": [
+        "listen",
+        "connect"
+      ],
       "type": "object"
     },
     "Estimate": {
-      "description": "Size estimate — human-readable string with unit. Allowed units: B, KB, MB, GB (and lowercase). Examples: '12 MB', '2.5 GB', '500 KB', '65 B'.",
+      "description": "Size estimate \u2014 human-readable string with unit. Allowed units: B, KB, MB, GB (and lowercase). Examples: '12 MB', '2.5 GB', '500 KB', '65 B'.",
       "type": "string",
       "pattern": "^[\\d.]+\\s+(B|KB|MB|GB|[KMG]B?)$"
     },
     "Rating1to5": {
-      "description": "0..5 rating (0 = idle/none, 1..5 = active — see rating.md § 4)",
-      "enum": [0, 1, 2, 3, 4, 5],
+      "description": "0..5 rating (0 = idle/none, 1..5 = active \u2014 see rating.md \u00a7 4)",
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
       "type": "integer"
     },
     "DiskSize": {
       "additionalProperties": false,
-      "description": "Disk size block — estimate + (rating only for install) + i18n desc",
+      "description": "Disk size block \u2014 estimate + (rating only for install) + i18n desc",
       "properties": {
-        "estimate": { "$ref": "#/definitions/Estimate" },
-        "rating":   { "$ref": "#/definitions/Rating1to5" },
-        "desc":     { "$ref": "#/definitions/I18nDescription" }
+        "estimate": {
+          "$ref": "#/definitions/Estimate"
+        },
+        "rating": {
+          "$ref": "#/definitions/Rating1to5"
+        },
+        "desc": {
+          "$ref": "#/definitions/I18nDescription"
+        }
       },
-      "required": ["estimate"],
+      "required": [
+        "estimate"
+      ],
       "type": "object"
     },
     "Disk": {
       "additionalProperties": false,
-      "description": "Resource disk block — install/download sizes + paths + growth",
+      "description": "Resource disk block \u2014 install/download sizes + paths + growth",
       "properties": {
         "size": {
           "additionalProperties": false,
           "properties": {
-            "install":  { "$ref": "#/definitions/DiskSize" },
-            "download": { "$ref": "#/definitions/DiskSize" },
+            "install": {
+              "$ref": "#/definitions/DiskSize"
+            },
+            "download": {
+              "$ref": "#/definitions/DiskSize"
+            },
             "growth": {
               "additionalProperties": false,
               "properties": {
-                "desc": { "$ref": "#/definitions/I18nDescription" }
+                "desc": {
+                  "$ref": "#/definitions/I18nDescription"
+                }
               },
-              "required": ["desc"],
+              "required": [
+                "desc"
+              ],
               "type": "object"
             }
           },
-          "required": ["install"],
+          "required": [
+            "install"
+          ],
           "type": "object"
         },
         "paths": {
           "additionalProperties": false,
           "properties": {
-            "data":   { "items": { "type": "string" }, "type": "array" },
-            "config": { "items": { "type": "string" }, "type": "array" },
-            "cache":  { "items": { "type": "string" }, "type": "array" }
+            "data": {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            "config": {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            "cache": {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            }
           },
           "type": "object"
         }
       },
-      "required": ["size"],
+      "required": [
+        "size"
+      ],
       "type": "object"
     },
     "Memory": {
       "additionalProperties": false,
-      "description": "Resource memory block — idle (and optional peak)",
+      "description": "Resource memory block \u2014 idle (and optional peak)",
       "properties": {
         "idle": {
           "additionalProperties": false,
           "properties": {
-            "estimate": { "$ref": "#/definitions/Estimate" },
-            "desc":     { "$ref": "#/definitions/I18nDescription" }
+            "estimate": {
+              "$ref": "#/definitions/Estimate"
+            },
+            "desc": {
+              "$ref": "#/definitions/I18nDescription"
+            }
           },
-          "required": ["estimate"],
+          "required": [
+            "estimate"
+          ],
           "type": "object"
         },
         "peak": {
           "additionalProperties": false,
           "properties": {
-            "estimate": { "$ref": "#/definitions/Estimate" },
-            "desc":     { "$ref": "#/definitions/I18nDescription" }
+            "estimate": {
+              "$ref": "#/definitions/Estimate"
+            },
+            "desc": {
+              "$ref": "#/definitions/I18nDescription"
+            }
           },
           "type": "object"
         }
       },
-      "required": ["idle"],
+      "required": [
+        "idle"
+      ],
       "type": "object"
     },
     "CPUSubblock": {
       "additionalProperties": false,
       "description": "Subblock for idle/peak (rating + i18n desc, comments allowed)",
       "properties": {
-        "rating": { "$ref": "#/definitions/Rating1to5" },
-        "desc":   { "$ref": "#/definitions/I18nDescription" }
+        "rating": {
+          "$ref": "#/definitions/Rating1to5"
+        },
+        "desc": {
+          "$ref": "#/definitions/I18nDescription"
+        }
       },
-      "required": ["rating"],
+      "required": [
+        "rating"
+      ],
       "type": "object"
     },
     "CPU": {
       "additionalProperties": false,
-      "description": "Resource CPU block — workload + processes + idle/peak ratings",
+      "description": "Resource CPU block \u2014 workload + processes + idle/peak ratings",
       "properties": {
         "workload": {
           "items": {
-            "enum": ["compute", "io", "network", "memory", "gpu"],
+            "enum": [
+              "compute",
+              "io",
+              "network",
+              "memory",
+              "gpu"
+            ],
             "type": "string"
           },
           "type": "array"
         },
-        "processes": { "type": "integer" },
-        "idle": { "$ref": "#/definitions/CPUSubblock" },
-        "peak": { "$ref": "#/definitions/CPUSubblock" }
+        "processes": {
+          "type": "integer"
+        },
+        "idle": {
+          "$ref": "#/definitions/CPUSubblock"
+        },
+        "peak": {
+          "$ref": "#/definitions/CPUSubblock"
+        }
       },
-      "required": ["workload", "processes"],
+      "required": [
+        "workload",
+        "processes"
+      ],
       "type": "object"
     },
     "Resource": {
       "additionalProperties": false,
-      "description": "Resource block — disk + memory + cpu",
+      "description": "Resource block \u2014 disk + memory + cpu",
       "properties": {
-        "disk":   { "$ref": "#/definitions/Disk" },
-        "memory": { "$ref": "#/definitions/Memory" },
-        "cpu":    { "$ref": "#/definitions/CPU" }
+        "disk": {
+          "$ref": "#/definitions/Disk"
+        },
+        "memory": {
+          "$ref": "#/definitions/Memory"
+        },
+        "cpu": {
+          "$ref": "#/definitions/CPU"
+        }
       },
       "type": "object"
     },
     "Filesystem": {
       "additionalProperties": false,
-      "description": "behavior.filesystem block — what the binary reads/writes",
+      "description": "behavior.filesystem block \u2014 what the binary reads/writes",
       "properties": {
         "read": {
           "additionalProperties": false,
           "properties": {
-            "desc": { "$ref": "#/definitions/I18nDescription" },
+            "desc": {
+              "$ref": "#/definitions/I18nDescription"
+            },
             "sensitive": {
-              "items": { "type": "string" },
+              "items": {
+                "type": "string"
+              },
               "type": "array"
             }
           },
-          "required": ["desc"],
+          "required": [
+            "desc"
+          ],
           "type": "object"
         },
         "write": {
           "additionalProperties": false,
           "properties": {
-            "desc": { "$ref": "#/definitions/I18nDescription" },
+            "desc": {
+              "$ref": "#/definitions/I18nDescription"
+            },
             "sensitive": {
-              "items": { "type": "string" },
+              "items": {
+                "type": "string"
+              },
               "type": "array"
             }
           },
@@ -194,48 +307,117 @@
     },
     "Runtime": {
       "additionalProperties": false,
-      "description": "behavior.runtime — type is either a string or array of strings",
+      "description": "behavior.runtime \u2014 type is either a string or array of strings",
       "properties": {
         "type": {
           "anyOf": [
-            { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive", "oneshot", "script", "wrapper"], "type": "string" },
             {
-              "items": { "enum": ["cli", "tui", "gui", "daemon", "server", "lib", "library", "plugin", "interactive", "oneshot", "script", "wrapper"], "type": "string" },
+              "enum": [
+                "cli",
+                "tui",
+                "gui",
+                "daemon",
+                "server",
+                "lib",
+                "library",
+                "plugin",
+                "interactive",
+                "oneshot",
+                "script",
+                "wrapper"
+              ],
+              "type": "string"
+            },
+            {
+              "items": {
+                "enum": [
+                  "cli",
+                  "tui",
+                  "gui",
+                  "daemon",
+                  "server",
+                  "lib",
+                  "library",
+                  "plugin",
+                  "interactive",
+                  "oneshot",
+                  "script",
+                  "wrapper"
+                ],
+                "type": "string"
+              },
               "type": "array"
             }
           ]
         }
       },
-      "required": ["type"],
+      "required": [
+        "type"
+      ],
       "type": "object"
     },
     "Footprint": {
       "additionalProperties": false,
-      "description": "Footprint block — behavior + resource + (optional) platform",
+      "description": "Footprint block \u2014 behavior + resource + (optional) platform",
       "properties": {
         "behavior": {
           "additionalProperties": false,
           "properties": {
-            "runtime": { "$ref": "#/definitions/Runtime" },
-            "network": { "$ref": "#/definitions/Network" },
-            "filesystem": { "$ref": "#/definitions/Filesystem" }
+            "runtime": {
+              "$ref": "#/definitions/Runtime"
+            },
+            "network": {
+              "$ref": "#/definitions/Network"
+            },
+            "filesystem": {
+              "$ref": "#/definitions/Filesystem"
+            }
           },
-          "required": ["runtime", "network"],
+          "required": [
+            "runtime",
+            "network"
+          ],
           "type": "object"
         },
-        "resource": { "$ref": "#/definitions/Resource" },
+        "resource": {
+          "$ref": "#/definitions/Resource"
+        },
         "platform": {
           "additionalProperties": false,
           "description": "Optional per-OS support levels (full / partial / none)",
           "properties": {
-            "win":    { "enum": ["full", "partial", "none"], "type": "string" },
-            "linux":  { "enum": ["full", "partial", "none"], "type": "string" },
-            "darwin": { "enum": ["full", "partial", "none"], "type": "string" }
+            "win": {
+              "enum": [
+                "full",
+                "partial",
+                "none"
+              ],
+              "type": "string"
+            },
+            "linux": {
+              "enum": [
+                "full",
+                "partial",
+                "none"
+              ],
+              "type": "string"
+            },
+            "darwin": {
+              "enum": [
+                "full",
+                "partial",
+                "none"
+              ],
+              "type": "string"
+            }
           },
           "type": "object"
         }
       },
-      "required": ["behavior", "resource"],
+      "required": [
+        "behavior",
+        "resource"
+      ],
       "type": "object"
     },
     "InstallMeta": {
@@ -243,7 +425,7 @@
       "description": "`xw gen-schema` generate json schema\n\nfrom 'x-cmd-install/x-cmd-install' repo",
       "properties": {
         "binlist": {
-          "description": "软件包提供的命令",
+          "description": "\u8f6f\u4ef6\u5305\u63d0\u4f9b\u7684\u547d\u4ee4",
           "items": {
             "type": "string"
           },
@@ -251,22 +433,22 @@
         },
         "desc": {
           "$ref": "#/definitions/I18nDescription",
-          "description": "描述"
+          "description": "\u63cf\u8ff0"
         },
         "footprint": {
           "$ref": "#/definitions/Footprint",
           "description": "Estimated footprint ( install >= download, see CONTRIBUTING.md )"
         },
         "homepage": {
-          "description": "主页 URL",
+          "description": "\u4e3b\u9875 URL",
           "type": "string"
         },
         "lang": {
-          "description": "编程语言",
+          "description": "\u7f16\u7a0b\u8bed\u8a00",
           "type": "string"
         },
         "license": {
-          "description": "开源协议",
+          "description": "\u5f00\u6e90\u534f\u8bae",
           "type": "string"
         },
         "rule": {
@@ -292,70 +474,213 @@
               }
             ]
           },
-          "description": "下载规则，key 为对应的包管理工具",
+          "description": "\u4e0b\u8f7d\u89c4\u5219\uff0ckey \u4e3a\u5bf9\u5e94\u7684\u5305\u7ba1\u7406\u5de5\u5177",
           "type": "object"
         },
         "source": {
-          "description": "源码 URL",
+          "description": "\u6e90\u7801 URL",
           "type": "string"
         },
         "x": {
           "additionalProperties": false,
-          "description": "Cross-platform package-manager shortcuts. The value is the package name (or '1' as a placeholder for downloaders that don't have a package concept). Use the generic key (apt, dnf, brew, ...) when one installation works across all derivatives of that OS family. Only add specific overrides (kali/apt, ubuntu/apt, ...) when the install genuinely differs.",
+          "description": "Cross-platform package-manager shortcuts. Each value must match the general package-name pattern ^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$ \u2014 strict enough to reject garbage (`--cask`, `&&`, `.`) but permissive enough for any legitimate package name (scoped npm, brew taps, Gentoo categories, nix attrs, go URLs). The value is the package name (or '1' as a placeholder for downloaders that don't have a package concept). Use the generic key (apt, dnf, brew, ...) when one installation works across all derivatives of that OS family. Only add specific overrides (kali/apt, ubuntu/apt, ...) when the install genuinely differs.",
           "properties": {
             "pkg": {
               "additionalProperties": false,
               "properties": {
-                "exist": { "type": "boolean" }
+                "exist": {
+                  "type": "boolean"
+                }
               },
-              "required": ["exist"],
+              "required": [
+                "exist"
+              ],
               "type": "object"
             },
-            "source":     { "type": "string" },
-            "eget":       { "type": "string" },
-            "x":          { "type": "string" },
-            "x-cmd":      { "type": "string" },
-            "apt":         { "type": "string" },
-            "apt-get":     { "type": "string" },
-            "dnf":         { "type": "string" },
-            "yum":         { "type": "string" },
-            "zypper":      { "type": "string" },
-            "pacman":      { "type": "string" },
-            "apk":         { "type": "string" },
-            "port":        { "type": "string" },
-            "emerge":      { "type": "string" },
-            "xbps":        { "type": "string" },            "eopkg":       { "type": "string" },
-            "scoop":       { "type": "string" },
-            "choco":       { "type": "string" },
-            "winget":      { "type": "string" },
-            "powershell":  { "type": "string" },
-            "brew":        { "type": "string" },
-            "snap":        { "type": "string" },
-            "flatpak":     { "type": "string" },
-            "nix":         { "type": "string" },
-            "guix":        { "type": "string" },
-            "kiss":        { "type": "string" },
-            "pacstall":    { "type": "string" },
-            "deb-get":     { "type": "string" },
-            "makepkg":     { "type": "string" },
-            "trizen":      { "type": "string" },
-            "aura":        { "type": "string" },
-            "yay":         { "type": "string" },
-            "paru":        { "type": "string" },
-            "pacaur":      { "type": "string" },
-            "pikaur":      { "type": "string" },
-            "yaourt":      { "type": "string" },
-            "pip":         { "type": "string" },
-            "npm":         { "type": "string" },
-            "gem":         { "type": "string" },
-            "cargo":       { "type": "string" },
-            "go":          { "type": "string" },
-            "asdf":        { "type": "string" },
-            "pixi":        { "type": "string" },
-            "fetch":       { "type": "string" },
-            "git":         { "type": "string" },
-            "make":        { "type": "string" },
-            "build":       { "type": "string" }
+            "source": {
+              "type": "string",
+              "pattern": "^https?://[^\\s]+$"
+            },
+            "eget": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9_.+-]{0,127}/[A-Za-z0-9][A-Za-z0-9_.+-]{0,127}$"
+            },
+            "x": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "x-cmd": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "apt": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "apt-get": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "dnf": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "yum": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "zypper": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pacman": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "apk": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "port": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "emerge": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "xbps": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "eopkg": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "scoop": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "choco": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "winget": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "powershell": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "brew": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "snap": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "flatpak": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "nix": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "guix": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "kiss": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pacstall": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "deb-get": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "makepkg": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "trizen": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "aura": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "yay": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "paru": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pacaur": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pikaur": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "yaourt": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pip": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "npm": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "gem": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "cargo": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "go": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "asdf": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "pixi": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "fetch": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "git": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "make": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            },
+            "build": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9@][A-Za-z0-9_.@/+:\\-#\\[\\]~?]{0,255}$"
+            }
           },
           "type": "object"
         }

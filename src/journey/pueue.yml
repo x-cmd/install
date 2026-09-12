@@ -6,11 +6,10 @@ desc:
   en: Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks
 x:
   source: https://github.com/Nukesor/pueue
-  eget: https://github.com/Nukesor/pueue
+  eget: Nukesor/pueue
   brew: pueue
   scoop: pueue
   yay: pueue-git
-  cargo: --locked
 rule:
   /x:
     cmd: x pkg use pueue

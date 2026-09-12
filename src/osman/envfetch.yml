@@ -6,7 +6,7 @@ desc:
   cn: 用于处理环境变量的轻量级跨平台命令行工具
 x:
   source: https://github.com/ankddev/envfetch
-  eget: https://github.com/ankddev/envfetch
+  eget: ankddev/envfetch
   scoop: https://gist.githubusercontent.com/ankddev/f6314b552aa021f676fc999ec697f833/raw/envfetch.json
   yay: envfetch
   paru: envfetch

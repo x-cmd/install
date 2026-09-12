@@ -6,7 +6,7 @@ desc:
   en: Dblab is a fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go and works on OSX, Linux and Windows machines
 x:
   source: https://github.com/danvergara/dblab
-  eget: https://github.com/danvergara/dblab
+  eget: danvergara/dblab
   brew: danvergara/tools/dblab
   yay: dblab
 rule:

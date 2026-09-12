@@ -6,7 +6,7 @@ desc:
   en: general-purpose command-line fuzzy finder
 x:
   source: https://github.com/junegunn/fzf
-  eget: https://github.com/junegunn/fzf
+  eget: junegunn/fzf
   apt: fzf
   dnf: fzf
   brew: fzf
@@ -18,7 +18,6 @@ x:
   choco: fzf
   winget: fzf
   asdf: fzf
-  pkg: fzf
 rule:
   /x:
     cmd: x pkg use fzf

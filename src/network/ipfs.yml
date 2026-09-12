@@ -5,7 +5,7 @@ desc:
   en: IPFS is an open system to manage data without a central server. IPFS's versatility shines across different industries – making it the multi-purpose tool for the decentralized age.
 x:
   source: https://github.com/ipfs/kubo
-  eget: https://github.com/ipfs/kubo
+  eget: ipfs/kubo
   brew: ipfs
   pacman: go-ipfs
 rule:

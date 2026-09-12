@@ -6,9 +6,7 @@ desc:
 x:
   source: https://github.com/elastic/elasticsearch
   apt: apt-transport-https
-  dnf: --enablerepo=elasticsearch
   apt-get: apt-transport-https
-  yum: --enablerepo=elasticsearch
   zypper: elasticsearch
   yay: elasticsearch
 rule:

@@ -6,7 +6,7 @@ desc:
   en: ttyd is a simple command-line tool for sharing terminal over the web
 x:
   source: https://github.com/tsl0922/ttyd
-  eget: https://github.com/tsl0922/ttyd
+  eget: tsl0922/ttyd
   brew: ttyd
   apk: ttyd
   asdf: ttyd

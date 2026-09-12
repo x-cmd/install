@@ -6,7 +6,7 @@ desc:
   en: copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy
 x:
   source: https://github.com/project-copacetic/copacetic
-  eget: https://github.com/project-copacetic/copacetic
+  eget: project-copacetic/copacetic
   brew: copa
   yay: copacetic-bin
 rule:

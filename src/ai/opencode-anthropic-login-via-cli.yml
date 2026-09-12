@@ -6,7 +6,7 @@ desc:
   en: 'OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription'
 x:
   source: https://github.com/cemalturkcan/opencode-anthropic-login-via-cli
-  eget: https://github.com/cemalturkcan/opencode-anthropic-login-via-cli
+  eget: cemalturkcan/opencode-anthropic-login-via-cli
 rule:
   /eget:
     cmd: x eget cemalturkcan/opencode-anthropic-login-via-cli

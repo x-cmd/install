@@ -5,7 +5,7 @@ desc:
   en: ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them.
 x:
   source: https://github.com/ngrok/ngrok
-  apt: ngrok\n"
+  apt: ngrok
   brew: ngrok
   snap: ngrok
   choco: ngrok

@@ -6,7 +6,7 @@ desc:
   en: 'A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)'
 x:
   source: https://github.com/ari1110/pass-cli
-  eget: https://github.com/ari1110/pass-cli
+  eget: ari1110/pass-cli
 rule:
   /eget:
     cmd: x eget ari1110/pass-cli

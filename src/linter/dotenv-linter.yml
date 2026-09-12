@@ -6,7 +6,7 @@ desc:
   en: dotenv-linter can check / fix / compare .env files for problems that may cause the application to malfunction
 x:
   source: https://github.com/dotenv-linter/dotenv-linter
-  eget: https://github.com/dotenv-linter/dotenv-linter
+  eget: dotenv-linter/dotenv-linter
   yay: dotenv-linter-bin
 rule:
   /x:

@@ -6,9 +6,10 @@ desc:
   en: 'Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.'
 x:
   source: https://github.com/unkn0wn-root/resterm
-  eget: https://github.com/unkn0wn-root/resterm
-  apt: jq'
-  brew: jqrule:
+  eget: unkn0wn-root/resterm
+  apt: jq
+  brew: jq
+rule:
   darwin/brew:
     cmd: 'brew install jq'
     reference: https://github.com/unkn0wn-root/resterm

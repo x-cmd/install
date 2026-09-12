@@ -6,7 +6,7 @@ desc:
   en: Manage your dotfiles across multiple diverse machines, securely
 x:
   source: https://github.com/twpayne/chezmoi
-  eget: https://github.com/twpayne/chezmoi
+  eget: twpayne/chezmoi
   brew: chezmoi
   pacman: chezmoi
   apk: chezmoi
@@ -18,7 +18,6 @@ x:
   choco: chezmoi
   winget: twpayne.chezmoi
   asdf: chezmoi
-  pkg: chezmoi
 rule:
   /eget:
     cmd: x eget twpayne/chezmoi

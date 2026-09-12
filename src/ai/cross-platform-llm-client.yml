@@ -6,7 +6,7 @@ desc:
   en: A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 x:
   source: https://github.com/orailnoor/cross-platform-llm-client
-  eget: https://github.com/orailnoor/cross-platform-llm-client
+  eget: orailnoor/cross-platform-llm-client
 rule:
   /eget:
     cmd: x eget orailnoor/cross-platform-llm-client

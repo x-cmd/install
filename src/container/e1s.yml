@@ -6,7 +6,7 @@ desc:
   en: 'E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱'
 x:
   source: https://github.com/keidarcy/e1s
-  eget: https://github.com/keidarcy/e1s
+  eget: keidarcy/e1s
 rule:
   /eget:
     cmd: x eget keidarcy/e1s

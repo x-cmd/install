@@ -6,7 +6,7 @@ desc:
   en: 'Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search'
 x:
   source: https://github.com/milvus-io/milvus
-  eget: https://github.com/milvus-io/milvus
+  eget: milvus-io/milvus
 rule:
   /eget:
     cmd: x eget milvus-io/milvus

@@ -6,7 +6,7 @@ desc:
   en: A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
 x:
   source: https://github.com/dlvhdr/gh-dash
-  eget: https://github.com/dlvhdr/gh-dash
+  eget: dlvhdr/gh-dash
   brew: gh
   port: gh
   scoop: gh

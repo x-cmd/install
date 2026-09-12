@@ -6,8 +6,9 @@ desc:
   en: a command-line interface for the Mac App Store that is designed for scripting & automation.
 x:
   source: https://github.com/mas-cli/mas
-  eget: https://github.com/mas-cli/mas
-  brew: masrule:
+  eget: mas-cli/mas
+  brew: mas
+rule:
   /eget:
     cmd: x eget mas-cli/mas
     reference: https://x-cmd.com/mod/eget

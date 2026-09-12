@@ -6,7 +6,7 @@ desc:
   en: mani is a CLI tool for managing multiple repositories, allowing users to perform centralized pulls and execute cross-repository commands in microservices, multi-project systems, multiple repositories, or any collection of repositories.
 x:
   source: https://github.com/alajmo/mani
-  eget: https://github.com/alajmo/mani
+  eget: alajmo/mani
   brew: alajmo/mani/mani
   pacman: mani
 rule:

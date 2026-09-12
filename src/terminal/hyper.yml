@@ -6,11 +6,9 @@ desc:
   en: Hyper is an Electron-based terminal
 x:
   source: https://github.com/vercel/hyper
-  eget: https://github.com/vercel/hyper
-  brew: --cask
+  eget: vercel/hyper
   scoop: extras/hyper
   choco: hyper
-  winget: -e
   yay: hyper-bin
   paru: hyper
 rule:

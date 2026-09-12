@@ -6,7 +6,7 @@ desc:
   en: The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 x:
   source: https://github.com/atomicstrata/llm-wiki-compiler
-  eget: https://github.com/atomicstrata/llm-wiki-compiler
+  eget: atomicstrata/llm-wiki-compiler
 rule:
   /eget:
     cmd: x eget atomicstrata/llm-wiki-compiler

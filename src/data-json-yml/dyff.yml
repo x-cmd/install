@@ -6,7 +6,7 @@ desc:
   en: A diff tool for YAML files, and sometimes JSON
 x:
   source: https://github.com/homeport/dyff
-  eget: https://github.com/homeport/dyff
+  eget: homeport/dyff
   brew: homeport/tap/dyff
   port: dyff
   yay: dyff

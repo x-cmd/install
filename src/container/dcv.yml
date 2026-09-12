@@ -5,7 +5,7 @@ desc:
   en: TUI viewer for docker-compose
 x:
   source: https://github.com/tokuhirom/dcv
-  eget: https://github.com/tokuhirom/dcv
+  eget: tokuhirom/dcv
 rule:
   /eget:
     cmd: x eget tokuhirom/dcv

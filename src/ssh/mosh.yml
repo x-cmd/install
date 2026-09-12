@@ -6,7 +6,7 @@ desc:
   en: Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.
 x:
   source: https://github.com/mobile-shell/mosh
-  eget: https://github.com/mobile-shell/mosh
+  eget: mobile-shell/mosh
   apt: mosh
   dnf: mosh
   brew: mosh
@@ -17,7 +17,6 @@ x:
   port: mosh
   emerge: net-misc/mosh
   guix: mosh
-  pkg: net/mosh
 rule:
   /eget:
     cmd: x eget mobile-shell/mosh

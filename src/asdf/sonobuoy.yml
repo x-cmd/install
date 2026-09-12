@@ -6,7 +6,7 @@ desc:
   en: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a choice of configuration tests in an accessible and non-destructive manner
 x:
   source: https://github.com/vmware-tanzu/sonobuoy
-  eget: https://github.com/vmware-tanzu/sonobuoy
+  eget: vmware-tanzu/sonobuoy
   brew: sonobuoy
   asdf: sonobuoy
 rule:

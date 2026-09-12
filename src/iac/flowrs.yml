@@ -6,7 +6,7 @@ desc:
   en: 'Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.'
 x:
   source: https://github.com/jvanbuel/flowrs
-  eget: https://github.com/jvanbuel/flowrs
+  eget: jvanbuel/flowrs
 rule:
   /eget:
     cmd: x eget jvanbuel/flowrs

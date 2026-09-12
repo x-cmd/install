@@ -6,8 +6,9 @@ desc:
   en: Summarize RBAC roles for the specified subject (ServiceAccount, User and Group)
 x:
   source: https://github.com/Ladicle/kubectl-rolesum
-  eget: https://github.com/Ladicle/kubectl-rolesum
-  brew: Ladicle/kubectl-bindrole/kubectl-rolesumrule:
+  eget: Ladicle/kubectl-rolesum
+  brew: Ladicle/kubectl-bindrole/kubectl-rolesum
+rule:
   /eget:
     cmd: x eget Ladicle/kubectl-rolesum
     reference: https://x-cmd.com/mod/eget

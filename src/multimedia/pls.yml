@@ -6,7 +6,7 @@ desc:
   en: 'pls is a prettier and powerful ls(1) for the pros.'
 x:
   source: https://github.com/pls-rs/pls
-  eget: https://github.com/pls-rs/pls
+  eget: pls-rs/pls
 rule:
   /eget:
     cmd: x eget pls-rs/pls

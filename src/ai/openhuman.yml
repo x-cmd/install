@@ -6,7 +6,7 @@ desc:
   en: Runs a personal AI agent on your desktop that automatically builds a private knowledge base from your connected apps like Gmail, Slack, and Notion.
 x:
   source: https://github.com/tinyhumansai/openhuman
-  eget: https://github.com/tinyhumansai/openhuman
+  eget: tinyhumansai/openhuman
 rule:
   /eget:
     cmd: x eget tinyhumansai/openhuman

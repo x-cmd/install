@@ -6,7 +6,7 @@ desc:
   en: Open source tool for converting image text in PDF documents to searchable text (OCR)
 x:
   source: https://github.com/ocrmypdf/OCRmyPDF
-  eget: https://github.com/ocrmypdf/OCRmyPDF
+  eget: ocrmypdf/OCRmyPDF
   apt: ocrmypdf
   dnf: ocrmypdf
   brew: ocrmypdf
@@ -16,10 +16,7 @@ x:
   emerge: app-text/OCRmyPDF
   scoop: googlechrome
   choco: python3
-  winget: -e
   yay: ocrmypdf
-  pip: --user
-  pkg: textproc/py-ocrmypdf
 rule:
   /eget:
     cmd: x eget ocrmypdf/OCRmyPDF

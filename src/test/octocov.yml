@@ -5,7 +5,7 @@ desc:
   en: a toolkit for collecting code metrics (code coverage, code to test ratio, test execution time and your own custom metrics).
 x:
   source: https://github.com/k1LoW/octocov
-  eget: https://github.com/k1LoW/octocov
+  eget: k1LoW/octocov
   brew: k1LoW/tap/octocov
   go: github.com/k1LoW/octocov@latest
 rule:

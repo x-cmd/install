@@ -6,7 +6,7 @@ desc:
   en: '✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat'
 x:
   source: https://github.com/neomutt/neomutt
-  eget: https://github.com/neomutt/neomutt
+  eget: neomutt/neomutt
 rule:
   /eget:
     cmd: x eget neomutt/neomutt

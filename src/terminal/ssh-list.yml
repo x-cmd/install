@@ -6,7 +6,7 @@ desc:
   en: '🧑‍💻 SSH connection manager with a TUI interface'
 x:
   source: https://github.com/akinoiro/ssh-list
-  eget: https://github.com/akinoiro/ssh-list
+  eget: akinoiro/ssh-list
 rule:
   /eget:
     cmd: x eget akinoiro/ssh-list

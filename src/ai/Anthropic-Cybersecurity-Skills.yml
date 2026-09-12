@@ -12,7 +12,7 @@ rule:
     cmd: npx skills add mukul975/Anthropic-Cybersecurity-Skills
     reference: https://github.com/mukul975/Anthropic-Cybersecurity-Skills#quick-start
 
-x:
+x: {}
 binlist:
 - Anthropic-Cybersecurity-Skills
 

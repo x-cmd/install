@@ -6,7 +6,7 @@ desc:
   en: LangChain powered shell command generator and runner CLI
 x:
   source: https://github.com/ricklamers/shell-ai
-  eget: https://github.com/ricklamers/shell-ai
+  eget: ricklamers/shell-ai
 rule:
   /eget:
     cmd: x eget ricklamers/shell-ai

@@ -5,7 +5,7 @@ desc:
   cn: CCACHE 是编译器缓存
 x:
   source: https://github.com/ccache/ccache
-  eget: https://github.com/ccache/ccache
+  eget: ccache/ccache
   brew: ccache
   scoop: ccache
   choco: ccache

@@ -6,7 +6,7 @@ desc:
   en: An open-source AI agent that is compatible with multiple LLM models
 x:
   source: https://github.com/ConardLi/easy-llm-cli
-  eget: https://github.com/ConardLi/easy-llm-cli
+  eget: ConardLi/easy-llm-cli
 rule:
   /eget:
     cmd: x eget ConardLi/easy-llm-cli

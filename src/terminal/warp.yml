@@ -6,7 +6,6 @@ desc:
   en: Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 x:
   source: https://github.com/warpdotdev/Warp
-  brew: --cask
   winget: Warp.Warp
 rule:
   darwin/brew:

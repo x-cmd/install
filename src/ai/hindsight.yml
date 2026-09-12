@@ -6,7 +6,6 @@ desc:
   en: Open-source agent memory system that organizes long-term memory in a biomimetic three-layer structure (world / experiences / mental models) and uses retain/recall/reflect primitives so AI agents truly learn rather than just retrieve history.
 x:
   source: https://github.com/vectorize-io/hindsight
-  pip: -U
 rule:
   /pip:
     cmd: pip install -U hindsight-client

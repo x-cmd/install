@@ -6,7 +6,7 @@ desc:
   en: DevSpace is an open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster
 x:
   source: https://github.com/loft-sh/devspace
-  eget: https://github.com/loft-sh/devspace
+  eget: loft-sh/devspace
   brew: devspace
   scoop: devspace
   yay: devspace-bin

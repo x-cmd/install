@@ -66,7 +66,6 @@ x:
   scoop: extras/vlc
   choco: vlc
   winget: VideoLAN.VLC
-  brew: --cask
   snap: vlc
 binlist:
 - VLC

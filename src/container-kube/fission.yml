@@ -6,8 +6,7 @@ desc:
   en: Fission is a framework for serverless functions on Kubernetes
 x:
   source: https://github.com/fission/fission
-  eget: https://github.com/fission/fission
-  brew: --cask
+  eget: fission/fission
   scoop: main/fission-cli
   yay: fission-bin
   asdf: fission

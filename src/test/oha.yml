@@ -6,7 +6,7 @@ desc:
   en: HTTP load generator
 x:
   source: https://github.com/hatoo/oha
-  eget: https://github.com/hatoo/oha
+  eget: hatoo/oha
   brew: oha
   pacman: oha
   yay: oha-git

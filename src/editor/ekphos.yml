@@ -6,7 +6,7 @@ desc:
   en: 'A lightweight, fast, terminal-based markdown research tool inspired by Obsidian'
 x:
   source: https://github.com/hanebox/ekphos
-  eget: https://github.com/hanebox/ekphos
+  eget: hanebox/ekphos
 rule:
   /eget:
     cmd: x eget hanebox/ekphos

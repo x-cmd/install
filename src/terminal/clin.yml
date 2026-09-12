@@ -6,7 +6,7 @@ desc:
   en: 'TUI note management app inspired by Obsidian'
 x:
   source: https://github.com/reekta92/clin-rs
-  eget: https://github.com/reekta92/clin-rs
+  eget: reekta92/clin-rs
 rule:
   /eget:
     cmd: x eget reekta92/clin-rs

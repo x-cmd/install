@@ -6,16 +6,9 @@ desc:
   en: OpenTofu is an infrastructure-as-code tool that allows you to define cloud resources and on-premises resources in human-readable configuration files, which you can version control, reuse, and share. It is a fork of Terraform 0.11.14, supported by the Linux Foundation.
 x:
   source: https://github.com/opentofu/opentofu
-  eget: https://github.com/opentofu/opentofu
-  apt: -y
-  dnf: -y
+  eget: opentofu/opentofu
   brew: opentofu
-  snap: --classic
-  apt-get: -y
-  yum: -y
-  zypper: -y
   yay: opentofu-bin
-  pkg: opentofu
 rule:
   /x:
     cmd: x pkg use opentofu

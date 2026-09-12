@@ -6,7 +6,7 @@ desc:
   en: Install and Run Python Applications in Isolated Environments
 x:
   source: https://github.com/pypa/pipx
-  eget: https://github.com/pypa/pipx
+  eget: pypa/pipx
   apt: pipx
   brew: pipx
   apt-get: pipx

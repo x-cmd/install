@@ -6,7 +6,7 @@ desc:
   en: 'Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation'
 x:
   source: https://github.com/filiparag/wikiman
-  eget: https://github.com/filiparag/wikiman
+  eget: filiparag/wikiman
 rule:
   /eget:
     cmd: x eget filiparag/wikiman

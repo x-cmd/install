@@ -6,7 +6,7 @@ desc:
   en: The fast, feature-rich, GPU based terminal emulator
 x:
   source: https://github.com/kovidgoyal/kitty
-  eget: https://github.com/kovidgoyal/kitty
+  eget: kovidgoyal/kitty
 rule:
   /eget:
     cmd: x eget kovidgoyal/kitty

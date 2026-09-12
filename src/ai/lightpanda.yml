@@ -6,7 +6,7 @@ desc:
   en: the headless browser designed for AI and automation
 x:
   source: https://github.com/lightpanda-io/browser
-  eget: https://github.com/lightpanda-io/browser
+  eget: lightpanda-io/browser
   yay: lightpanda-bin
 rule:
   /eget:

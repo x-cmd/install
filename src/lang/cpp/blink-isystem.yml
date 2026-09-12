@@ -6,7 +6,7 @@ desc:
   en: A subset of Musl Libc and Linux Kernel headers for the Blink Virtual Machine, with APIs incompatible with Blink commented out.
 x:
   source: https://github.com/jart/blink-isystem
-  eget: https://github.com/jart/blink-isystem
+  eget: jart/blink-isystem
 rule:
   /eget:
     cmd: x eget jart/blink-isystem

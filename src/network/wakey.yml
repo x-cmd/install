@@ -6,7 +6,7 @@ desc:
   en: 'A TUI built for managing and waking your devices using Wake-on-LAN.'
 x:
   source: https://github.com/jonathanruiz/wakey
-  eget: https://github.com/jonathanruiz/wakey
+  eget: jonathanruiz/wakey
 rule:
   /eget:
     cmd: x eget jonathanruiz/wakey

@@ -6,7 +6,7 @@ desc:
   en: OpenAI & Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
 x:
   source: https://github.com/aliom-v/KiroGate
-  eget: https://github.com/aliom-v/KiroGate
+  eget: aliom-v/KiroGate
 rule:
   /eget:
     cmd: x eget aliom-v/KiroGate

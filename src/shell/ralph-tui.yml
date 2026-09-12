@@ -6,7 +6,7 @@ desc:
   en: 'ralph-tui is a terminal tool that works through a defined list of tasks and orchestrates AI agents to work though them.'
 x:
   source: https://github.com/subsy/ralph-tui
-  eget: https://github.com/subsy/ralph-tui
+  eget: subsy/ralph-tui
 rule:
   /eget:
     cmd: x eget subsy/ralph-tui

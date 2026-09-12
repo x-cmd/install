@@ -6,7 +6,7 @@ desc:
   en: SSH3 is a complete revisit of the SSH protocol, mapping its semantics on top of the HTTP mechanisms
 x:
   source: https://github.com/francoismichel/ssh3
-  eget: https://github.com/francoismichel/ssh3
+  eget: francoismichel/ssh3
   brew: ssh3
   scoop: main/ssh3
   yay: ssh3

@@ -8,7 +8,6 @@ x:
   source: https://github.com/ageitgey/face_recognition
   yay: python-face_recognition
   pip: face_recognition
-  pkg: graphics/py-face_recognition
 rule:
   /x:
     cmd: x pkg use face_recognition

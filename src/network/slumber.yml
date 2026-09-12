@@ -6,7 +6,7 @@ desc:
   en: Slumber is a TUI (terminal user interface) HTTP client.
 x:
   source: https://github.com/LucasPickering/slumber
-  eget: https://github.com/LucasPickering/slumber
+  eget: LucasPickering/slumber
   brew: slumber
   cargo: slumber
 rule:

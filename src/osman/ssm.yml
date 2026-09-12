@@ -6,9 +6,9 @@ desc:
   en: 'A fast, keyboard-driven TUI that makes your existing ~/.ssh/config delightful to use at fleet scale.'
 x:
   source: https://github.com/lfaoro/ssm
-  eget: https://github.com/lfaoro/ssm
-  apt: ./ssm_*_linux_*.deb'
-  brew: lfaoro/tap/ssmrule:
+  eget: lfaoro/ssm
+  brew: lfaoro/tap/ssm
+rule:
   darwin/brew:
     cmd: 'brew install lfaoro/tap/ssm'
     reference: https://github.com/lfaoro/ssm

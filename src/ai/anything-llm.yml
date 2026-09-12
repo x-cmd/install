@@ -6,7 +6,7 @@ desc:
   en: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 x:
   source: https://github.com/Mintplex-Labs/anything-llm
-  eget: https://github.com/Mintplex-Labs/anything-llm
+  eget: Mintplex-Labs/anything-llm
 rule:
   /eget:
     cmd: x eget Mintplex-Labs/anything-llm

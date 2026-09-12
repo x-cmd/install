@@ -6,19 +6,17 @@ desc:
   en: Ping, but with graphs
 x:
   source: https://github.com/orf/gping
-  eget: https://github.com/orf/gping
+  eget: orf/gping
   apt: gping
   dnf: gping
   brew: gping
   pacman: gping
   apk: gping
   port: gping
-  emerge: --sync
   scoop: gping
   choco: gping
   yay: gping-git
   cargo: gping
-  pkg: gping
 rule:
   /x:
     cmd: x pkg use gping

@@ -6,7 +6,7 @@ desc:
   en: arkade is how developers install the latest versions of their favourite CLI tools and Kubernetes apps
 x:
   source: https://github.com/alexellis/arkade
-  eget: https://github.com/alexellis/arkade
+  eget: alexellis/arkade
 rule:
   /eget:
     cmd: x eget alexellis/arkade

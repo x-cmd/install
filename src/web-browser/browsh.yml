@@ -6,7 +6,7 @@ desc:
   en: Browsh is a fully-modern text-based browser.
 x:
   source: https://github.com/browsh-org/browsh
-  eget: https://github.com/browsh-org/browsh
+  eget: browsh-org/browsh
   yay: browsh-bin
 rule:
   /eget:

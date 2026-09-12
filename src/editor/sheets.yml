@@ -6,7 +6,7 @@ desc:
   en: 'Terminal based spreadsheet tool'
 x:
   source: https://github.com/maaslalani/sheets
-  eget: https://github.com/maaslalani/sheets
+  eget: maaslalani/sheets
 rule:
   /eget:
     cmd: x eget maaslalani/sheets

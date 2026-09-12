@@ -6,7 +6,7 @@ desc:
   en: High performance self-hosted photo and video management solution
 x:
   source: https://github.com/immich-app/immich
-  eget: https://github.com/immich-app/immich
+  eget: immich-app/immich
 rule:
   /eget:
     cmd: x eget immich-app/immich

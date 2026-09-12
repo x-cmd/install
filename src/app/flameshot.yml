@@ -6,10 +6,9 @@ desc:
   cn: 功能强大但易于使用的屏幕截图软件
 x:
   source: https://github.com/flameshot-org/flameshot
-  eget: https://github.com/flameshot-org/flameshot
+  eget: flameshot-org/flameshot
   apt: flameshot
   dnf: flameshot
-  brew: --cask
   pacman: flameshot
   snap: flameshot
   zypper: flameshot

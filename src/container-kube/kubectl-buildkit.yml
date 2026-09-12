@@ -5,9 +5,8 @@ desc:
   en: BuildKit CLI for kubectl is a tool for building OCI and Docker images with your kubernetes cluster
 x:
   source: https://github.com/vmware-archive/buildkit-cli-for-kubectl
-  eget: https://github.com/vmware-archive/buildkit-cli-for-kubectl
+  eget: vmware-archive/buildkit-cli-for-kubectl
   brew: vmware-tanzu/buildkit-cli-for-kubectl/kubectl-buildkit
-  choco: .\kubectl-buildkit*.nupkg
   asdf: kubectl-buildkit
 rule:
   /eget:

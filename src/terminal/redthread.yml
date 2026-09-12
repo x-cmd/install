@@ -6,7 +6,7 @@ desc:
   en: 'A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.'
 x:
   source: https://github.com/B33pBeeps/redthread
-  eget: https://github.com/B33pBeeps/redthread
+  eget: B33pBeeps/redthread
 rule:
   /eget:
     cmd: x eget B33pBeeps/redthread

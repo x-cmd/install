@@ -6,7 +6,7 @@ desc:
   en: Mprocs runs multiple commands in parallel and shows output of each command separately
 x:
   source: https://github.com/pvolok/mprocs
-  eget: https://github.com/pvolok/mprocs
+  eget: pvolok/mprocs
   brew: mprocs
   scoop: mprocs
   yay: mprocs

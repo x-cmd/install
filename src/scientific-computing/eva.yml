@@ -6,7 +6,7 @@ desc:
   en: 'a calculator REPL, similar to bc(1)'
 x:
   source: https://github.com/oppiliappan/eva
-  eget: https://github.com/oppiliappan/eva
+  eget: oppiliappan/eva
 rule:
   /eget:
     cmd: x eget oppiliappan/eva

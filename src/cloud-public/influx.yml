@@ -6,7 +6,8 @@ homepage: https://github.com/influxdata/influx-cli
 license: MIT
 x:
   source: https://github.com/influxdata/influx-cli
-  brew: influxdb-clirule:
+  brew: influxdb-cli
+rule:
   /x:
     cmd: x pkg use influx
     reference: https://x-cmd.com/install/

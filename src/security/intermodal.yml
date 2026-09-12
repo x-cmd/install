@@ -6,9 +6,9 @@ desc:
   en: 'A command-line utility for BitTorrent torrent file creation, verification, and more'
 x:
   source: https://github.com/casey/intermodal
-  eget: https://github.com/casey/intermodal
+  eget: casey/intermodal
   brew: intermodal
-  cargo: imdl'
+  cargo: imdl
 rule:
   /cargo:
     cmd: 'cargo install imdl'

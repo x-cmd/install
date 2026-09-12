@@ -6,7 +6,7 @@ desc:
   en: Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl
 x:
   source: https://github.com/gruntwork-io/kubergrunt
-  eget: https://github.com/gruntwork-io/kubergrunt
+  eget: gruntwork-io/kubergrunt
   choco: kubergrunt
   yay: kubergrunt
   asdf: kubergrunt

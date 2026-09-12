@@ -6,7 +6,7 @@ homepage: https://github.com/odeke-em/drive
 license: Apache-2.0
 x:
   source: https://github.com/odeke-em/drive
-  eget: https://github.com/odeke-em/drive
+  eget: odeke-em/drive
   dnf: drive-google
   yay: drive-bin
 rule:

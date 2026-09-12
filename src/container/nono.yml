@@ -6,7 +6,7 @@ desc:
   en: Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads.
 x:
   source: https://github.com/always-further/nono
-  eget: https://github.com/always-further/nono
+  eget: always-further/nono
   brew: nono
   yay: nono-ai
   cargo: nono-cli

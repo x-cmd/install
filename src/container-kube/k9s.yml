@@ -6,7 +6,7 @@ desc:
   en: K9s is a terminal based UI to interact with your Kubernetes clusters
 x:
   source: https://github.com/derailed/k9s
-  eget: https://github.com/derailed/k9s
+  eget: derailed/k9s
   brew: derailed/k9s/k9s
   pacman: k9s
   port: k9s

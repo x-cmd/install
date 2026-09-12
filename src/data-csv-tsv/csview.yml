@@ -6,11 +6,10 @@ desc:
   en: A high performance csv viewer with cjk/emoji support
 x:
   source: https://github.com/wfxr/csview
-  eget: https://github.com/wfxr/csview
+  eget: wfxr/csview
   brew: csview
   scoop: csview
   yay: csview
-  cargo: --locked
 rule:
   /x:
     cmd: x pkg use csview

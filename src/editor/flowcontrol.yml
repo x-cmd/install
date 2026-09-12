@@ -6,7 +6,7 @@ desc:
   en: 'Flow Control: a programmer''s text editor'
 x:
   source: https://github.com/neurocyte/flow
-  eget: https://github.com/neurocyte/flow
+  eget: neurocyte/flow
 rule:
   /eget:
     cmd: x eget neurocyte/flow

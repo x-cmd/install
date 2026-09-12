@@ -6,7 +6,7 @@ desc:
   en: A customizable cross-platform graphical process/system monitor for the terminal
 x:
   source: https://github.com/ClementTsang/bottom
-  eget: https://github.com/ClementTsang/bottom
+  eget: ClementTsang/bottom
   dnf: bottom
   brew: bottom
   pacman: bottom

@@ -6,7 +6,7 @@ desc:
 lang: Ki
 x:
   source: https://github.com/Kotlin/kotlin-interactive-shell
-  eget: https://github.com/Kotlin/kotlin-interactive-shell
+  eget: Kotlin/kotlin-interactive-shell
   brew: ki
   port: ki-shell
   trizen: ki-shell-bin

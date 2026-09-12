@@ -6,7 +6,7 @@ desc:
   en: The Command-Line Interface to manage emails based on email-lib
 x:
   source: https://github.com/pimalaya/himalaya
-  eget: https://github.com/pimalaya/himalaya
+  eget: pimalaya/himalaya
   dnf: himalaya
   brew: himalaya
   pacman: himalaya

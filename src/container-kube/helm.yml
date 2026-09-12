@@ -6,7 +6,7 @@ desc:
 lang: Go
 x:
   source: https://github.com/helm/helm
-  eget: https://github.com/helm/helm
+  eget: helm/helm
   dnf: helm
   brew: helm
   pacman: helm
@@ -14,7 +14,6 @@ x:
   scoop: helm
   choco: kubernetes-helm
   asdf: helm
-  pkg: helm
 rule:
   /x:
     cmd: x pkg use helm

@@ -6,7 +6,7 @@ desc:
   en: Planor is a text user interface for cloud services.
 x:
   source: https://github.com/mrusme/planor
-  eget: https://github.com/mrusme/planor
+  eget: mrusme/planor
   go: github.com/mrusme/planor@latest
 rule:
   /eget:

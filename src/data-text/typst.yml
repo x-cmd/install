@@ -6,10 +6,9 @@ homepage: https://github.com/typst/typst
 license: Apache-2.0
 x:
   source: https://github.com/typst/typst
-  eget: https://github.com/typst/typst
+  eget: typst/typst
   brew: typst
   winget: Typst.Typst
-  cargo: --git
 rule:
   /x:
     cmd: x pkg use typst

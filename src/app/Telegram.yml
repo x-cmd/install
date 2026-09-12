@@ -71,7 +71,6 @@ x:
   scoop: extras/telegram
   choco: telegram
   winget: Telegram.TelegramDesktop
-  brew: --cask
   snap: telegram-desktop
   flatpak: flathub
   yay: telegram-desktop-bin

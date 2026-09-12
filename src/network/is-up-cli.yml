@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/sindresorhus/is-up-cli#readme
   yay: nodejs-is-up-cli
-  npm: --global
 rule:
   /x:
     cmd: x pkg use is-up-cli

@@ -6,7 +6,7 @@ desc:
   en: Magika is a tool to detect common file content types, using deep learning
 x:
   source: https://github.com/google/magika
-  eget: https://github.com/google/magika
+  eget: google/magika
   yay: magika
   pip: magika
 rule:

@@ -6,7 +6,7 @@ desc:
   cn: 将 Sass 编译为 CSS
 x:
   source: https://github.com/sass/dart-sass
-  eget: https://github.com/sass/dart-sass
+  eget: sass/dart-sass
   brew: node-sass
   scoop: sass
   choco: sass

@@ -6,7 +6,7 @@ desc:
   en: 'TUI and rule-based rendering engine for Kubernetes manifests'
 x:
   source: https://github.com/MacroPower/kat
-  eget: https://github.com/MacroPower/kat
+  eget: MacroPower/kat
 rule:
   /eget:
     cmd: x eget MacroPower/kat

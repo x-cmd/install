@@ -6,7 +6,7 @@ desc:
   en: C23 Checked Arithmetic
 x:
   source: https://github.com/jart/jtckdint
-  eget: https://github.com/jart/jtckdint
+  eget: jart/jtckdint
 rule:
   /eget:
     cmd: x eget jart/jtckdint

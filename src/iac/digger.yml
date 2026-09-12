@@ -6,7 +6,7 @@ desc:
   cn: Digger 是用于 Terraform 和 OpenTofu 的开源 IaC 自动化和协作软件
 x:
   source: https://github.com/diggerhq/digger
-  eget: https://github.com/diggerhq/digger
+  eget: diggerhq/digger
 rule:
   /eget:
     cmd: x eget diggerhq/digger

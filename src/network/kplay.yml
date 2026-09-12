@@ -6,7 +6,7 @@ desc:
   en: 'Inspect messages in a Kafka topic in a simple and deliberate manner'
 x:
   source: https://github.com/dhth/kplay
-  eget: https://github.com/dhth/kplay
+  eget: dhth/kplay
 rule:
   /eget:
     cmd: x eget dhth/kplay

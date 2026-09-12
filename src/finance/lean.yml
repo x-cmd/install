@@ -6,7 +6,7 @@ desc:
   en: Develop, backtest, and deploy algorithmic trading strategies locally using an open-source engine that supports C# and Python.
 x:
   source: https://github.com/QuantConnect/Lean
-  eget: https://github.com/QuantConnect/Lean
+  eget: QuantConnect/Lean
 rule:
   /eget:
     cmd: x eget QuantConnect/Lean

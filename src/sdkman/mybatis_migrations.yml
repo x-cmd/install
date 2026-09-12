@@ -6,7 +6,7 @@ desc:
   en: MyBatis Migrations is a command line Database migrations tool
 x:
   source: https://github.com/mybatis/migrations
-  eget: https://github.com/mybatis/migrations
+  eget: mybatis/migrations
 rule:
   /eget:
     cmd: x eget mybatis/migrations

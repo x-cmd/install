@@ -6,7 +6,7 @@ desc:
   en: Nushell is a new type of shell
 x:
   source: https://github.com/nushell/nushell
-  eget: https://github.com/nushell/nushell
+  eget: nushell/nushell
   brew: nushell
   scoop: nu
   choco: nushell

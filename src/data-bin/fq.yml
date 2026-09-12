@@ -5,10 +5,9 @@ desc:
   en: jq for binary formats - tool, language and decoders for working with binary and text formats
 x:
   source: https://github.com/wader/fq
-  eget: https://github.com/wader/fq
+  eget: wader/fq
   brew: wader/tap/fq
   pacman: fq
-  apk: -X
   port: fq
   scoop: fq
   yay: fq-git

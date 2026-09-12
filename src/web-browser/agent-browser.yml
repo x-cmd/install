@@ -6,7 +6,7 @@ desc:
   en: Browser automation CLI for AI agents
 x:
   source: https://github.com/vercel-labs/agent-browser
-  eget: https://github.com/vercel-labs/agent-browser
+  eget: vercel-labs/agent-browser
 rule:
   /eget:
     cmd: x eget vercel-labs/agent-browser

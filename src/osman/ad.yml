@@ -6,7 +6,7 @@ desc:
   en: 'an adaptable text editor'
 x:
   source: https://github.com/sminez/ad
-  eget: https://github.com/sminez/ad
+  eget: sminez/ad
 rule:
   /eget:
     cmd: x eget sminez/ad

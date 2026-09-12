@@ -6,7 +6,7 @@ desc:
   en: Domain Availability Research Tool
 x:
   source: https://github.com/brandonyoungdev/tldx
-  eget: https://github.com/brandonyoungdev/tldx
+  eget: brandonyoungdev/tldx
   brew: brandonyoungdev/tldx/tldx
   yay: tldx
   go: github.com/brandonyoungdev/tldx@latest

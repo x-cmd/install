@@ -6,7 +6,7 @@ desc:
   en: fast, powerful, and feature-rich Lua formatting and checking tool
 x:
   source: https://github.com/CppCXY/EmmyLuaCodeStyle
-  eget: https://github.com/CppCXY/EmmyLuaCodeStyle
+  eget: CppCXY/EmmyLuaCodeStyle
 rule:
   /eget:
     cmd: x eget CppCXY/EmmyLuaCodeStyle

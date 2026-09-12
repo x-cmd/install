@@ -6,7 +6,7 @@ desc:
   en: Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt
 x:
   source: https://github.com/vifm/vifm
-  eget: https://github.com/vifm/vifm
+  eget: vifm/vifm
   apt: vifm
   dnf: vifm
   brew: vifm
@@ -15,7 +15,6 @@ x:
   apt-get: vifm
   yum: vifm
   zypper: vifm
-  emerge: -a
   scoop: extras/vifm
   choco: vifm
 rule:

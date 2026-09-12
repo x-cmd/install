@@ -6,7 +6,7 @@ desc:
   en: SCAP Workbench is a graphical utility that offers an easy way to perform common  oscap  tasks
 x:
   source: https://github.com/OpenSCAP/scap-workbench
-  eget: https://github.com/OpenSCAP/scap-workbench
+  eget: OpenSCAP/scap-workbench
   apt: scap-workbench
   dnf: scap-workbench
   apt-get: scap-workbench

@@ -5,7 +5,7 @@ desc:
   cn: 跨平台隐藏文件库与工具
 x:
   source: https://github.com/sorairolake/hf
-  eget: https://github.com/sorairolake/hf
+  eget: sorairolake/hf
   cargo: hf
 rule:
   /eget:

@@ -6,7 +6,7 @@ desc:
   cn: 一个开源以太网共识客户端，用 Rust 语言编写，由 Sigma Prime 维护
 x:
   source: https://github.com/sigp/lighthouse
-  eget: https://github.com/sigp/lighthouse
+  eget: sigp/lighthouse
   brew: lighthouse
   yay: lighthouse-ethereum-bin
 rule:

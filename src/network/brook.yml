@@ -6,7 +6,7 @@ desc:
   en: A cross-platform programmable network tool
 x:
   source: https://github.com/txthinking/brook
-  eget: https://github.com/txthinking/brook
+  eget: txthinking/brook
   brew: brook
   pacman: brook
 rule:

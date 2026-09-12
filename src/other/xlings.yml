@@ -6,7 +6,7 @@ desc:
   en: A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 x:
   source: https://github.com/d2learn/xlings
-  eget: https://github.com/d2learn/xlings
+  eget: d2learn/xlings
 rule:
   /eget:
     cmd: x eget d2learn/xlings

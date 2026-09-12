@@ -5,7 +5,7 @@ desc:
   en: A modern alternative to the `df` command, used to view disk space usage and disk file system information
 x:
   source: https://github.com/muesli/duf
-  eget: https://github.com/muesli/duf
+  eget: muesli/duf
   apt: duf
   brew: duf
   pacman: duf
@@ -15,7 +15,6 @@ x:
   scoop: duf
   choco: duf
   asdf: duf
-  pkg: duf
 rule:
   /x:
     cmd: x pkg use duf

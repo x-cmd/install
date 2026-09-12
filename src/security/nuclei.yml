@@ -6,10 +6,9 @@ desc:
   en: Nuclei is a fast vulnerability scanner designed to probe modern applications, infrastructure, cloud platforms, and networks, aiding in the identification and mitigation of exploitable vulnerabilities
 x:
   source: https://github.com/projectdiscovery/nuclei
-  eget: https://github.com/projectdiscovery/nuclei
+  eget: projectdiscovery/nuclei
   brew: nuclei
   yay: nuclei-bin
-  go: -v
 rule:
   /eget:
     cmd: x eget projectdiscovery/nuclei

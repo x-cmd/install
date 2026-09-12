@@ -6,7 +6,7 @@ desc:
   en: Make Any Website into CLI & Use your logged-in browser by AI agent.
 x:
   source: https://github.com/jackwener/opencli
-  eget: https://github.com/jackwener/opencli
+  eget: jackwener/opencli
   npm: "@jackwener/opencli"
 rule:
   /eget:

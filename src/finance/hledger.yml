@@ -6,7 +6,7 @@ desc:
   en: A plain text accounting tool that provides CLI, TUI, and web interfaces.
 x:
   source: https://github.com/simonmichael/hledger
-  eget: https://github.com/simonmichael/hledger
+  eget: simonmichael/hledger
   apt: hledger
   dnf: hledger
   brew: hledger
@@ -18,7 +18,6 @@ x:
   winget: simonmichael.hledger
   yay: hledger-bin
   pacman: hledger
-  pkg: hs-hledger
 rule:
   /eget:
     cmd: x eget simonmichael/hledger

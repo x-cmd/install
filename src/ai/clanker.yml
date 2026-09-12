@@ -6,7 +6,7 @@ desc:
   en: Query, create, and manage cloud infrastructure on AWS, Kubernetes, and more using natural language commands from your terminal.
 x:
   source: https://github.com/bgdnvk/clanker
-  eget: https://github.com/bgdnvk/clanker
+  eget: bgdnvk/clanker
 rule:
   /eget:
     cmd: x eget bgdnvk/clanker

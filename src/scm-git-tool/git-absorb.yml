@@ -6,7 +6,7 @@ desc:
   en: git absorb will automatically identify which commits are safe to modify, and which staged changes belong to each of those commits. It will then write fixup
 x:
   source: https://github.com/tummychow/git-absorb
-  eget: https://github.com/tummychow/git-absorb
+  eget: tummychow/git-absorb
   apt: git-absorb
   dnf: git-absorb
   brew: git-absorb

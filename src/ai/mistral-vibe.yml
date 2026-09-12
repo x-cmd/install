@@ -6,7 +6,7 @@ desc:
   en: Mistral's open-source CLI coding assistant.
 x:
   source: https://github.com/mistralai/mistral-vibe
-  eget: https://github.com/mistralai/mistral-vibe
+  eget: mistralai/mistral-vibe
   yay: mistral-vibe
   pip: mistral-vibe
 rule:

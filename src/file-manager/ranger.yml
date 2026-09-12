@@ -13,7 +13,6 @@ x:
   apt-get: ranger
   yum: ranger
   zypper: ranger
-  emerge: -a
   pip: ranger-fm
 rule:
   /x:

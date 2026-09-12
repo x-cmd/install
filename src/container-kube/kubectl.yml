@@ -15,7 +15,6 @@ x:
   port: kubectl
   scoop: kubectl
   choco: kubernetes-cli
-  winget: -e
   asdf: kubectl
 rule:
   /asdf:

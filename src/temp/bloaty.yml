@@ -6,7 +6,7 @@ desc:
   en: 'Bloaty: a size profiler for binaries'
 x:
   source: https://github.com/google/bloaty
-  eget: https://github.com/google/bloaty
+  eget: google/bloaty
   yay: bloaty-git
 rule:
   /eget:

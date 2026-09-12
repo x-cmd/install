@@ -6,7 +6,7 @@ desc:
   en: Create and view custom hotkey cheatsheets in the terminal
 x:
   source: https://github.com/kencx/keyb
-  eget: https://github.com/kencx/keyb
+  eget: kencx/keyb
   go: github.com/kencx/keyb@latest
 rule:
   /eget:

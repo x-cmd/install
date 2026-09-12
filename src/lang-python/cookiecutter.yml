@@ -6,7 +6,6 @@ desc:
   en: Create projects swiftly from cookiecutters (project templates) with this command-line utility
 x:
   source: https://github.com/cookiecutter/cookiecutter
-  pip: --user
 rule:
   /x:
     cmd: x pkg use cookiecutter

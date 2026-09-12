@@ -6,7 +6,7 @@ desc:
   en: 'A modern, secure, and user-friendly dotfile manager built with Rust'
 x:
   source: https://github.com/serkanyersen/dotstate
-  eget: https://github.com/serkanyersen/dotstate
+  eget: serkanyersen/dotstate
 rule:
   /eget:
     cmd: x eget serkanyersen/dotstate

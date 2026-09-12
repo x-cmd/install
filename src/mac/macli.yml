@@ -6,8 +6,9 @@ desc:
   en: macOS system tools for AI agents. Native Apple frameworks with JSON/TSV output — SMC sensors, streaming monitor, EventKit calendar/reminders, TTS/notifications
 x:
   source: https://github.com/ljh-sh/macli
-  eget: https://github.com/ljh-sh/macli
-  brew: ljh-sh/macli/maclirule:
+  eget: ljh-sh/macli
+  brew: ljh-sh/macli/macli
+rule:
   /eget:
     cmd: x eget ljh-sh/macli
     reference: https://github.com/ljh-sh/macli

@@ -6,8 +6,9 @@ desc:
   en: bash-completion is a collection of command line command completions for the Bash shell,
 x:
   source: https://github.com/scop/bash-completion
-  eget: https://github.com/scop/bash-completion
-  brew: bash-completionrule:
+  eget: scop/bash-completion
+  brew: bash-completion
+rule:
   /eget:
     cmd: x eget scop/bash-completion
     reference: https://x-cmd.com/mod/eget

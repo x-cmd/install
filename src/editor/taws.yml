@@ -6,7 +6,7 @@ desc:
   en: 'Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager'
 x:
   source: https://github.com/huseyinbabal/taws
-  eget: https://github.com/huseyinbabal/taws
+  eget: huseyinbabal/taws
 rule:
   /eget:
     cmd: x eget huseyinbabal/taws

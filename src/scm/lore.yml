@@ -7,7 +7,7 @@ desc:
   en: Lore is an open source version control system designed for unprecedented scalability of both data and teams.
 x:
   source: https://github.com/epicgames/lore
-  eget: https://github.com/epicgames/lore
+  eget: epicgames/lore
 rule:
   /eget:
     cmd: x eget epicgames/lore

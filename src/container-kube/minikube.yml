@@ -6,7 +6,7 @@ desc:
   en: minikube is a tool for running single-node Kubernetes clusters on your local machine
 x:
   source: https://github.com/kubernetes/minikube
-  eget: https://github.com/kubernetes/minikube
+  eget: kubernetes/minikube
   brew: minikube
   choco: minikube
   winget: minikube

@@ -6,7 +6,7 @@ desc:
   en: Virtual clusters are fully working Kubernetes clusters that run on top of other Kubernetes clusters
 x:
   source: https://github.com/loft-sh/vcluster
-  eget: https://github.com/loft-sh/vcluster
+  eget: loft-sh/vcluster
   brew: vcluster
   asdf: vcluster
 rule:

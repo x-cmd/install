@@ -6,7 +6,8 @@ desc:
   en: jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable
 x:
   source: https://github.com/jenv/jenv
-  brew: jenvrule:
+  brew: jenv
+rule:
   darwin/brew:
     cmd: brew install jenv
     reference: https://www.jenv.be/

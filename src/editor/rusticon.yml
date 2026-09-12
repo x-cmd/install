@@ -5,7 +5,7 @@ desc:
   en: A mouse driven SVG favicon editor for your terminal (written in Rust)
 x:
   source: https://github.com/ronilan/rusticon
-  eget: https://github.com/ronilan/rusticon
+  eget: ronilan/rusticon
 rule:
   /eget:
     cmd: x eget ronilan/rusticon

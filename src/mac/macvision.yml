@@ -6,7 +6,7 @@ desc:
   en: macOS Vision CLI for AI agents — the "sight" layer of the ljh-sh agent IO stack. Turn any image into agent-friendly JSON — multi-language OCR, face/barcode/document detection, classification, saliency, feature fingerprints. On-device, private, no upload
 x:
   source: https://github.com/ljh-sh/macvision
-  eget: https://github.com/ljh-sh/macvision
+  eget: ljh-sh/macvision
 rule:
   /eget:
     cmd: x eget ljh-sh/macvision

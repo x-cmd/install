@@ -6,7 +6,7 @@ desc:
   en: Easily check your clusters for use of deprecated APIs
 x:
   source: https://github.com/doitintl/kube-no-trouble
-  eget: https://github.com/doitintl/kube-no-trouble
+  eget: doitintl/kube-no-trouble
   brew: kubent
   yay: kubent-bin
   asdf: kubent

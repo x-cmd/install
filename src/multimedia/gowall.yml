@@ -6,7 +6,7 @@ desc:
   en: A tool to convert an image to any color-scheme / pallete you like.
 x:
   source: https://github.com/Achno/gowall
-  eget: https://github.com/Achno/gowall
+  eget: Achno/gowall
   brew: gowall
   yay: gowall
   go: github.com/Achno/gowall@latest

@@ -6,7 +6,7 @@ desc:
   en: 'a commandline fuzzy finder and zig module designed for filtering filepaths'
 x:
   source: https://github.com/natecraddock/zf
-  eget: https://github.com/natecraddock/zf
+  eget: natecraddock/zf
 rule:
   /eget:
     cmd: x eget natecraddock/zf

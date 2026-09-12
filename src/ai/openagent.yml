@@ -6,7 +6,7 @@ desc:
   en: Open-source agentic coding CLI for your terminal. Multi-provider (OpenAI, Anthropic, Gemini, Mistral, Groq, DeepSeek, xAI, Ollama, OpenRouter), token-efficient, with web search, MCP server support...
 x:
   source: https://github.com/ask-sol/openagent
-  eget: https://github.com/ask-sol/openagent
+  eget: ask-sol/openagent
 rule:
   /eget:
     cmd: x eget ask-sol/openagent

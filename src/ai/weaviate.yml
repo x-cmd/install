@@ -6,7 +6,7 @@ desc:
   en: 'Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of ...'
 x:
   source: https://github.com/weaviate/weaviate
-  eget: https://github.com/weaviate/weaviate
+  eget: weaviate/weaviate
 rule:
   /eget:
     cmd: x eget weaviate/weaviate

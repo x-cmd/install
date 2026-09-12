@@ -6,7 +6,7 @@ desc:
   cn: 在 `cat` 背后放置一个大脑 将语言模型融入 Unix 命令生态系统，通过文本流进行集成
 x:
   source: https://github.com/efugier/smartcat
-  eget: https://github.com/efugier/smartcat
+  eget: efugier/smartcat
   pacman: smartcat
   cargo: smartcat
 rule:

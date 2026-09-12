@@ -5,7 +5,7 @@ desc:
   en: Command Line Interface for Oracle Cloud Infrastructure
 x:
   source: https://github.com/oracle/oci-cli
-  eget: https://github.com/oracle/oci-cli
+  eget: oracle/oci-cli
   dnf: oci-cli
   brew: oci-cli
   yum: python36-oci-cli

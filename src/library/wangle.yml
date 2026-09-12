@@ -6,7 +6,7 @@ desc:
   cn: Wangle 是一个可以轻松构建协议、应用程序客户端和应用服务器的库
 x:
   source: https://github.com/facebook/wangle
-  eget: https://github.com/facebook/wangle
+  eget: facebook/wangle
   brew: wangle
   yay: wangle
 rule:

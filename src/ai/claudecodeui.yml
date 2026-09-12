@@ -6,7 +6,7 @@ desc:
   en: Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and pr...
 x:
   source: https://github.com/siteboon/claudecodeui
-  eget: https://github.com/siteboon/claudecodeui
+  eget: siteboon/claudecodeui
 rule:
   /eget:
     cmd: x eget siteboon/claudecodeui

@@ -6,7 +6,7 @@ desc:
   en: The AI coding agent built for the terminal.
 x:
   source: https://github.com/anomalyco/opencode
-  eget: https://github.com/anomalyco/opencode
+  eget: anomalyco/opencode
   brew: opencode
   scoop: extras/opencode
   paru: opencode-bin

@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.'
 x:
   source: https://github.com/blacknon/lssh
-  eget: https://github.com/blacknon/lssh
+  eget: blacknon/lssh
 rule:
   /eget:
     cmd: x eget blacknon/lssh

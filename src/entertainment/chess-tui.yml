@@ -6,9 +6,9 @@ desc:
   en: 'Play chess in any terminal. Rust TUI, Stockfish, Lichess.'
 x:
   source: https://github.com/thomas-mauran/chess-tui
-  eget: https://github.com/thomas-mauran/chess-tui
+  eget: thomas-mauran/chess-tui
   brew: thomas-mauran/tap/chess-tui
-  cargo: chess-tui'
+  cargo: chess-tui
 rule:
   /cargo:
     cmd: 'cargo install chess-tui'

@@ -6,7 +6,7 @@ desc:
   en: A simple CLI tool for establishing a tunnel to localhost
 x:
   source: https://github.com/ekzhang/bore
-  eget: https://github.com/ekzhang/bore
+  eget: ekzhang/bore
   brew: bore-cli
   cargo: bore-cli
 rule:

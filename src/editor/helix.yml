@@ -6,12 +6,11 @@ desc:
   en: A post-modern multimodal text editor that supports multi window editing
 x:
   source: https://github.com/helix-editor/helix
-  eget: https://github.com/helix-editor/helix
+  eget: helix-editor/helix
   apt: helix
   dnf: helix
   brew: helix
   pacman: helix
-  snap: --classic
   scoop: helix
   choco: helix
   winget: Helix.Helix

@@ -6,12 +6,11 @@ desc:
   en: Hugo is a static site generator written in Go
 x:
   source: https://github.com/gohugoio/hugo
-  eget: https://github.com/gohugoio/hugo
+  eget: gohugoio/hugo
   apt: hugo
   dnf: hugo
   brew: hugo
   pacman: hugo
-  apk: --no-cache
   snap: hugo
   zypper: hugo
   port: hugo
@@ -20,7 +19,6 @@ x:
   choco: hugo-extended
   winget: Hugo.Hugo.Extended
   yay: hugo-git
-  pkg: gohugo
 rule:
   /x:
     cmd: x pkg use hugo

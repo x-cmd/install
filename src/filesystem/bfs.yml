@@ -6,7 +6,7 @@ desc:
   en: 'A breadth-first version of the UNIX find command'
 x:
   source: https://github.com/tavianator/bfs
-  eget: https://github.com/tavianator/bfs
+  eget: tavianator/bfs
 rule:
   /eget:
     cmd: x eget tavianator/bfs

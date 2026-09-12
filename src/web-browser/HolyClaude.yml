@@ -6,7 +6,7 @@ desc:
   en: 'AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools'
 x:
   source: https://github.com/CoderLuii/HolyClaude
-  eget: https://github.com/CoderLuii/HolyClaude
+  eget: CoderLuii/HolyClaude
 rule:
   /eget:
     cmd: x eget CoderLuii/HolyClaude

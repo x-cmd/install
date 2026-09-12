@@ -6,8 +6,8 @@ desc:
   en: 'Ultra fast and easy duplicate file finder. Awesome TUI/GUI to manage results.'
 x:
   source: https://github.com/jdefrancesco/dskDitto
-  eget: https://github.com/jdefrancesco/dskDitto
-  go: github.com/securego/gosec/v2/cmd/gosec@latest'
+  eget: jdefrancesco/dskDitto
+  go: github.com/securego/gosec/v2/cmd/gosec@latest
 rule:
   /go:
     cmd: 'go install github.com/securego/gosec/v2/cmd/gosec@latest'

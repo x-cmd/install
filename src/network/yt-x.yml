@@ -6,7 +6,7 @@ desc:
   en: 'Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)'
 x:
   source: https://github.com/Benexl/yt-x
-  eget: https://github.com/Benexl/yt-x
+  eget: Benexl/yt-x
 rule:
   /eget:
     cmd: x eget Benexl/yt-x

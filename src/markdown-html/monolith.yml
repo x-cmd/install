@@ -12,7 +12,6 @@ x:
   port: monolith
   choco: monolith
   cargo: monolith
-  pkg: monolith
 rule:
   /x:
     cmd: x pkg use monolith

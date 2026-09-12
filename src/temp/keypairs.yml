@@ -6,7 +6,7 @@ desc:
   en: A cross-platform Command Line Tool and Golang Library that works with RSA, ECDSA, PEM, DER, JWK, and the JOSE suite
 x:
   source: https://github.com/therootcompany/keypairs
-  eget: https://github.com/therootcompany/keypairs
+  eget: therootcompany/keypairs
 rule:
   /eget:
     cmd: x eget therootcompany/keypairs

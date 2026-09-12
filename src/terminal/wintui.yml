@@ -6,7 +6,7 @@ desc:
   en: 'Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss'
 x:
   source: https://github.com/kts982/wintui
-  eget: https://github.com/kts982/wintui
+  eget: kts982/wintui
 rule:
   /eget:
     cmd: x eget kts982/wintui

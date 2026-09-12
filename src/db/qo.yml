@@ -6,7 +6,7 @@ desc:
   en: 'qo is an interactive minimalist TUI to query JSON and CSV using SQL.'
 x:
   source: https://github.com/kiki-ki/go-qo
-  eget: https://github.com/kiki-ki/go-qo
+  eget: kiki-ki/go-qo
 rule:
   /eget:
     cmd: x eget kiki-ki/go-qo

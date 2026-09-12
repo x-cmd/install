@@ -6,11 +6,10 @@ desc:
   en: Application to comfortably monitor your Internet traffic
 x:
   source: https://github.com/GyulyVGC/sniffnet
-  eget: https://github.com/GyulyVGC/sniffnet
+  eget: GyulyVGC/sniffnet
   brew: sniffnet
   pacman: sniffnet
   cargo: sniffnet
-  pkg: sniffnet
 rule:
   /eget:
     cmd: x eget GyulyVGC/sniffnet

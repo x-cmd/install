@@ -6,7 +6,7 @@ desc:
   en: Run autonomous agents on schedules to perform continuous tasks like research, lead generation, and social media management.
 x:
   source: https://github.com/RightNow-AI/openfang
-  eget: https://github.com/RightNow-AI/openfang
+  eget: RightNow-AI/openfang
 rule:
   /eget:
     cmd: x eget RightNow-AI/openfang

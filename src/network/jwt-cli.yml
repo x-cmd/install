@@ -6,7 +6,7 @@ desc:
   en: jwt-cli is a command line tool to help you work with JSON Web Tokens (JWTs)
 x:
   source: https://github.com/mike-engel/jwt-cli
-  eget: https://github.com/mike-engel/jwt-cli
+  eget: mike-engel/jwt-cli
   brew: mike-engel/jwt-cli/jwt-cli
   port: jwt-cli
   cargo: jwt-cli

@@ -6,7 +6,7 @@ desc:
   en: 'A statically typed programming language for scientific computations with first class support for physical dimensions and units'
 x:
   source: https://github.com/sharkdp/numbat
-  eget: https://github.com/sharkdp/numbat
+  eget: sharkdp/numbat
 rule:
   /eget:
     cmd: x eget sharkdp/numbat

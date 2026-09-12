@@ -6,7 +6,7 @@ desc:
   en: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 x:
   source: https://github.com/natesales/q
-  eget: https://github.com/natesales/q
+  eget: natesales/q
   yay: q-dns
   go: github.com/natesales/q@latest
 rule:

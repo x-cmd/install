@@ -5,7 +5,7 @@ desc:
   en: Lightweight, performant interactive network connection monitor with friendly service names
 x:
   source: https://github.com/taylorwilsdon/netshow
-  eget: https://github.com/taylorwilsdon/netshow
+  eget: taylorwilsdon/netshow
 rule:
   /eget:
     cmd: x eget taylorwilsdon/netshow

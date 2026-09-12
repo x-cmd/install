@@ -6,7 +6,7 @@ desc:
   cn: 一个用 Go 语言编写的简单命令行工具，为命令行添加垃圾桶功能
 x:
   source: https://github.com/babarot/gomi
-  eget: https://github.com/babarot/gomi
+  eget: babarot/gomi
   brew: gomi
   scoop: gomi
   yay: gomi

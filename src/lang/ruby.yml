@@ -16,7 +16,6 @@ x:
   scoop: main/ruby
   choco: ruby
   winget: RubyInstallerTeam.Ruby.3.4.1
-  pkg: ruby
 rule:
   debian/apt:
     cmd: sudo apt-get install ruby-full

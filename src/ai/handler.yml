@@ -6,7 +6,7 @@ desc:
   en: 'A2A protocol client for your terminal'
 x:
   source: https://github.com/alDuncanson/Handler
-  eget: https://github.com/alDuncanson/Handler
+  eget: alDuncanson/Handler
 rule:
   /eget:
     cmd: x eget alDuncanson/Handler

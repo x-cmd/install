@@ -6,10 +6,9 @@ desc:
   en: darktable is an open source photography workflow application and raw developer.
 x:
   source: https://github.com/darktable-org/darktable
-  eget: https://github.com/darktable-org/darktable
+  eget: darktable-org/darktable
   apt: darktable
   dnf: darktable
-  brew: --cask
   zypper: darktable
   port: darktable
   flatpak: flathub

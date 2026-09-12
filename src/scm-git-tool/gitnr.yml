@@ -6,7 +6,7 @@ desc:
   cn: 一个跨平台 CLI 实用程序，使用模板创建 .gitignore 文件
 x:
   source: https://github.com/reemus-dev/gitnr
-  eget: https://github.com/reemus-dev/gitnr
+  eget: reemus-dev/gitnr
   yay: gitnr
   cargo: gitnr
 rule:

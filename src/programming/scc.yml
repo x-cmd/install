@@ -6,14 +6,13 @@ homepage: https://github.com/boyter/scc
 license: MIT
 x:
   source: https://github.com/boyter/scc
-  eget: https://github.com/boyter/scc
+  eget: boyter/scc
   snap: scc
   port: scc
   scoop: scc
   choco: scc
   yay: scc
   go: github.com/boyter/scc@master
-  pkg: scc
 rule:
   /x:
     cmd: x pkg use scc

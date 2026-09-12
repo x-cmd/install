@@ -5,9 +5,8 @@ desc:
   en: Workbench is a visual database modeling, administration and queuing tool
 x:
   source: https://github.com/mxcl/Workbench
-  eget: https://github.com/mxcl/Workbench
+  eget: mxcl/Workbench
   apt: mysql-workbench
-  brew: --cask
   pacman: mysql-workbench
   apt-get: mysql-workbench
 rule:

@@ -6,9 +6,9 @@ desc:
   en: 'Simple TUI audio mixer for PipeWire'
 x:
   source: https://github.com/tsowell/wiremix
-  eget: https://github.com/tsowell/wiremix
+  eget: tsowell/wiremix
   apt: cargo
-  cargo: wiremix'
+  cargo: wiremix
 rule:
   /cargo:
     cmd: 'cargo install wiremix'

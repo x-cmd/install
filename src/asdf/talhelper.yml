@@ -6,7 +6,7 @@ desc:
   en: talhelper is a tool to help creating Talos configuration files declaratively\
 x:
   source: https://github.com/budimanjojo/talhelper
-  eget: https://github.com/budimanjojo/talhelper
+  eget: budimanjojo/talhelper
   brew: talhelper
   pacman: talhelper
   scoop: talhelper

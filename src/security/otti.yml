@@ -5,10 +5,9 @@ desc:
   en: A one-time TUI password manager for the terminal.
 x:
   source: https://github.com/dnaka91/otti
-  eget: https://github.com/dnaka91/otti
+  eget: dnaka91/otti
   yay: otti
   paru: otti
-  cargo: --git
 rule:
   /eget:
     cmd: x eget dnaka91/otti

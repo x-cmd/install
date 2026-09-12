@@ -6,7 +6,7 @@ desc:
   en: 'TUI utility to view multiple log files with merged timeline'
 x:
   source: https://github.com/ptmcg/logmerger
-  eget: https://github.com/ptmcg/logmerger
+  eget: ptmcg/logmerger
 rule:
   /eget:
     cmd: x eget ptmcg/logmerger

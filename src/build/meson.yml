@@ -6,7 +6,7 @@ desc:
   en: Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible
 x:
   source: https://github.com/mesonbuild/meson
-  eget: https://github.com/mesonbuild/meson
+  eget: mesonbuild/meson
   apt: meson
   dnf: meson
   brew: meson

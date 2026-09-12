@@ -6,7 +6,7 @@ homepage: https://github.com/asciimoo/wuzz
 license: AGPL-3.0
 x:
   source: https://github.com/asciimoo/wuzz
-  eget: https://github.com/asciimoo/wuzz
+  eget: asciimoo/wuzz
   apt: wuzz
   apk: wuzz
   scoop: main/wuzz

@@ -5,7 +5,7 @@ desc:
   cn: 为你的终端提供的完整文本编辑器
 x:
   source: https://github.com/jmacdonald/amp
-  eget: https://github.com/jmacdonald/amp
+  eget: jmacdonald/amp
   brew: amp
   cargo: amp
 rule:

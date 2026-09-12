@@ -6,7 +6,7 @@ desc:
   en: Dockerfile linter, which can analyze Dockerfile and give suggestions (can check the bash code in the RUN instruction based on shellcheck)
 x:
   source: https://github.com/hadolint/hadolint
-  eget: https://github.com/hadolint/hadolint
+  eget: hadolint/hadolint
   brew: hadolint
   scoop: hadolint
   yay: hadolint

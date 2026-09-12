@@ -6,7 +6,7 @@ homepage: https://github.com/benfred/py-spy
 license: MIT
 x:
   source: https://github.com/benfred/py-spy
-  eget: https://github.com/benfred/py-spy
+  eget: benfred/py-spy
   yay: py-spy
   pip: py-spy
 rule:

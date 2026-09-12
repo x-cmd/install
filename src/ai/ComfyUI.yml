@@ -6,7 +6,7 @@ desc:
   en: 'The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.'
 x:
   source: https://github.com/comfyanonymous/ComfyUI
-  eget: https://github.com/comfyanonymous/ComfyUI
+  eget: comfyanonymous/ComfyUI
 rule:
   /eget:
     cmd: x eget comfyanonymous/ComfyUI

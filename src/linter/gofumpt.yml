@@ -6,7 +6,7 @@ desc:
   en: A stricter gofmt
 x:
   source: https://github.com/mvdan/gofumpt
-  eget: https://github.com/mvdan/gofumpt
+  eget: mvdan/gofumpt
   yay: gofumpt-git
   go: mvdan.cc/gofumpt@latest
   asdf: gofumpt

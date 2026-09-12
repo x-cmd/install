@@ -6,7 +6,7 @@ desc:
   en: 'The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.'
 x:
   source: https://github.com/wandb/wandb
-  eget: https://github.com/wandb/wandb
+  eget: wandb/wandb
 rule:
   /eget:
     cmd: x eget wandb/wandb

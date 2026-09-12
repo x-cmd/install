@@ -6,7 +6,7 @@ desc:
   en: Mule flow call graphs and diagrams
 x:
   source: https://github.com/manikmagar/mulefd
-  eget: https://github.com/manikmagar/mulefd
+  eget: manikmagar/mulefd
   brew: manikmagar/tap/mulefd
   scoop: mulefd
 rule:

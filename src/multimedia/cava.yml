@@ -6,14 +6,13 @@ desc:
   en: Cava is a bar spectrum audio visualizer for terminal or desktop (SDL).
 x:
   source: https://github.com/karlstav/cava
-  eget: https://github.com/karlstav/cava
+  eget: karlstav/cava
   apt: cava
   dnf: cava
   brew: cava
   zypper: cava
   yay: cava-git
   pacaur: cava
-  pkg: cava
 rule:
   /eget:
     cmd: x eget karlstav/cava

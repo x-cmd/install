@@ -6,8 +6,8 @@ desc:
   en: 'Real-time network diagnostics in your terminal. One command, zero config, instant visibility.'
 x:
   source: https://github.com/matthart1983/netwatch
-  eget: https://github.com/matthart1983/netwatch
-  apt: libpcap-dev'
+  eget: matthart1983/netwatch
+  apt: libpcap-dev
 rule:
   debian/apt:
     cmd: 'sudo apt install libpcap-dev'

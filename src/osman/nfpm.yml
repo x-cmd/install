@@ -6,7 +6,7 @@ desc:
   en: nFPM is a simple, 0-dependencies, deb, rpm, apk, and Arch Linux packager
 x:
   source: https://github.com/goreleaser/nfpm
-  eget: https://github.com/goreleaser/nfpm
+  eget: goreleaser/nfpm
   brew: nfpm
   yay: nfpm
 rule:

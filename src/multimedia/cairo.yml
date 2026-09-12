@@ -32,7 +32,8 @@ x:
   yum: cairo-devel
   zypper: cairo-devel
   port: cairo
-  brew: cairobinlist:
+  brew: cairo
+binlist:
 - cairo
 license: NOASSERTION
 

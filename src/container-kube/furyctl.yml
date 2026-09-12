@@ -6,7 +6,7 @@ desc:
   en: furyctl is the command line companion for the Kubernetes Fury Distribution to manage the full lifecycle of your Kubernetes Fury clusters
 x:
   source: https://github.com/sighupio/furyctl
-  eget: https://github.com/sighupio/furyctl
+  eget: sighupio/furyctl
   asdf: furyctl
 rule:
   /eget:

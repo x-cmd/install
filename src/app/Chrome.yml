@@ -45,7 +45,6 @@ x:
   scoop: googlechrome
   choco: googlechrome
   winget: Google.Chrome
-  brew: --cask
   flatpak: flathub
   yay: google-chrome
 binlist:

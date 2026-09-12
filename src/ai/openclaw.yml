@@ -6,7 +6,7 @@ desc:
   en: a personal AI assistant you run on your own devices.
 x:
   source: https://github.com/openclaw/openclaw
-  eget: https://github.com/openclaw/openclaw
+  eget: openclaw/openclaw
   yay: openclaw-git
   npm: openclaw@latest
 rule:

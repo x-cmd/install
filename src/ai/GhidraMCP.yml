@@ -6,7 +6,7 @@ desc:
   en: MCP Server for Ghidra
 x:
   source: https://github.com/LaurieWired/GhidraMCP
-  eget: https://github.com/LaurieWired/GhidraMCP
+  eget: LaurieWired/GhidraMCP
 rule:
   /eget:
     cmd: x eget LaurieWired/GhidraMCP

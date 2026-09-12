@@ -7,7 +7,6 @@ desc:
 x:
   source: https://github.com/AIEraDev/Clypra
   brew: AIEraDev/tap/clypra
-  npm: &&
 rule:
   darwin/brew:
     cmd: brew install AIEraDev/tap/clypra

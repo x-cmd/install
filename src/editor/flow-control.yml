@@ -6,7 +6,7 @@ desc:
   cn: 程序员的文本编辑器
 x:
   source: https://github.com/neurocyte/flow
-  eget: https://github.com/neurocyte/flow
+  eget: neurocyte/flow
   brew: flow-control
   pacman: flow-control
 rule:

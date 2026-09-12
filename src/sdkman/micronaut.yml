@@ -6,8 +6,7 @@ desc:
   en: micronaut is a JVM-based framework for building lightweight, modular applications and microservices. Micronaut uses pre-compilation (AOT) technology, which can improve startup speed and reduce memory consumption. Compared with traditional JVM frameworks, it is more efficient and easier to use. micronaut supports multiple languages (such as Java, Kotlin, Groovy, etc.) and multiple platforms (such as GraalVM, AWS Lambda, Google Cloud, etc.).
 x:
   source: https://github.com/micronaut-projects/micronaut-core
-  eget: https://github.com/micronaut-projects/micronaut-core
-  brew: --cask
+  eget: micronaut-projects/micronaut-core
   port: micronaut
   choco: micronaut
   yay: micronaut

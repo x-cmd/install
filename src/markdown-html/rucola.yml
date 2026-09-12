@@ -9,7 +9,6 @@ x:
   brew: Linus-Mussmaecher/tap/rucola
   pacman: rucola
   yay: rucola-notes-bin
-  cargo: --locked
 rule:
   arch/yay:
     cmd: yay -S rucola-notes-bin

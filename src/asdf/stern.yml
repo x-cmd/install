@@ -6,7 +6,7 @@ desc:
   en: Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod
 x:
   source: https://github.com/stern/stern
-  eget: https://github.com/stern/stern
+  eget: stern/stern
   brew: stern
   go: github.com/stern/stern@latest
   asdf: stern

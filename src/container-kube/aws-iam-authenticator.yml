@@ -6,7 +6,7 @@ desc:
   en: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 x:
   source: https://github.com/kubernetes-sigs/aws-iam-authenticator
-  eget: https://github.com/kubernetes-sigs/aws-iam-authenticator
+  eget: kubernetes-sigs/aws-iam-authenticator
   yay: aws-iam-authenticator
   asdf: aws-iam-authenticator
 rule:

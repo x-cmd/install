@@ -6,7 +6,7 @@ desc:
   en: 'Terminal-based presentations using Pandoc'
 x:
   source: https://github.com/jaspervdj/patat
-  eget: https://github.com/jaspervdj/patat
+  eget: jaspervdj/patat
 rule:
   /eget:
     cmd: x eget jaspervdj/patat

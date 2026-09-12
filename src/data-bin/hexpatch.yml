@@ -6,7 +6,7 @@ desc:
   en: A binary patcher and editor written in Rust with terminal user interface (TUI).
 x:
   source: https://github.com/Etto48/HexPatch
-  eget: https://github.com/Etto48/HexPatch
+  eget: Etto48/HexPatch
   pacman: hexpatch
   yay: hexpatch-git
   cargo: hex-patch

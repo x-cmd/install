@@ -6,7 +6,7 @@ desc:
   en: Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation a...
 x:
   source: https://github.com/gitbito/CLI
-  eget: https://github.com/gitbito/CLI
+  eget: gitbito/CLI
 rule:
   /eget:
     cmd: x eget gitbito/CLI

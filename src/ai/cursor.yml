@@ -6,7 +6,6 @@ desc:
   en: A modern code editor with deep AI-assisted coding integration
 x:
   source: https://github.com/getcursor/cursor
-  brew: --cask
   winget: Cursor.Cursor
   yay: cursor-bin
 rule:

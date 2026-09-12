@@ -6,7 +6,7 @@ homepage: https://github.com/scaleway/scaleway-cli
 license: Apache-2.0
 x:
   source: https://github.com/scaleway/scaleway-cli
-  eget: https://github.com/scaleway/scaleway-cli
+  eget: scaleway/scaleway-cli
   brew: scw
   pacman: scaleway-cli
   choco: scaleway-cli

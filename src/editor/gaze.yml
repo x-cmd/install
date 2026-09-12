@@ -6,8 +6,9 @@ desc:
   cn: 在保存文件后立即运行相关命令
 x:
   source: https://github.com/wtetsu/gaze
-  eget: https://github.com/wtetsu/gaze
-  brew: gazerule:
+  eget: wtetsu/gaze
+  brew: gaze
+rule:
   /eget:
     cmd: x eget wtetsu/gaze
     reference: https://x-cmd.com/mod/eget

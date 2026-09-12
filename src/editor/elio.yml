@@ -6,7 +6,7 @@ desc:
   en: 'Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support'
 x:
   source: https://github.com/elio-fm/elio
-  eget: https://github.com/elio-fm/elio
+  eget: elio-fm/elio
 rule:
   /eget:
     cmd: x eget elio-fm/elio

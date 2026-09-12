@@ -6,15 +6,12 @@ desc:
   en: Rio is a terminal built to run everywhere, as a native desktop applications by Rust or even in the browser powered by WebAssembly.
 x:
   source: https://github.com/raphamorim/rio
-  eget: https://github.com/raphamorim/rio
-  brew: --cask
+  eget: raphamorim/rio
   zypper: rioterm
   port: rio
   xbps: rio
   choco: rio-terminal
-  winget: -e
   cargo: rioterm
-  pkg: rio
 rule:
   /eget:
     cmd: x eget raphamorim/rio

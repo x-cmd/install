@@ -5,8 +5,7 @@ desc:
   en: A streamlined version of Anaconda Distribution, featuring `conda`, `Python`, and a curated selection of packages, designed specifically for the fields of data science and machine learning.
 x:
   source: https://github.com/conda/conda
-  eget: https://github.com/conda/conda
-  brew: --cask
+  eget: conda/conda
   yay: miniconda3
 rule:
   /eget:

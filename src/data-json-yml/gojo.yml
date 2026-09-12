@@ -6,7 +6,7 @@ desc:
   en: Yet another Go implementation of jo
 x:
   source: https://github.com/itchyny/gojo
-  eget: https://github.com/itchyny/gojo
+  eget: itchyny/gojo
   brew: itchyny/tap/gojo
   go: github.com/itchyny/gojo/cmd/gojo@latest
 rule:

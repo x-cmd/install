@@ -6,7 +6,7 @@ desc:
   en: Static analysis tool for Kubernetes YAML files and Helm charts
 x:
   source: https://github.com/stackrox/kube-linter
-  eget: https://github.com/stackrox/kube-linter
+  eget: stackrox/kube-linter
   brew: kube-linter
   asdf: kube-linter
 rule:

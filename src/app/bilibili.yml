@@ -12,7 +12,6 @@ rule:
     reference: https://aur.archlinux.org/packages/bilibili-bin
 
 x:
-  brew: --cask
   yay: bilibili-bin
 binlist:
 - bilibili

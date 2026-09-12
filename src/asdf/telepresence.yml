@@ -6,7 +6,7 @@ desc:
   en: Telepresence is an open source tool for Kubernetes application developers that lets you run a single service locally while connecting that service to a remote Kubernetes cluster
 x:
   source: https://github.com/telepresenceio/telepresence
-  eget: https://github.com/telepresenceio/telepresence
+  eget: telepresenceio/telepresence
   asdf: telepresence
 rule:
   /eget:

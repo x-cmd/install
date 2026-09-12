@@ -6,7 +6,7 @@ desc:
   en: 'TUI for OpenTofu/Terraform provider registry'
 x:
   source: https://github.com/djetelina/tofuref
-  eget: https://github.com/djetelina/tofuref
+  eget: djetelina/tofuref
 rule:
   /eget:
     cmd: x eget djetelina/tofuref

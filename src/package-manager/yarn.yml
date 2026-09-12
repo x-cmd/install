@@ -5,7 +5,7 @@ desc:
   en: Yarn is a package manager that doubles down as project manager
 x:
   source: https://github.com/yarnpkg/yarn
-  eget: https://github.com/yarnpkg/yarn
+  eget: yarnpkg/yarn
   brew: yarn
   scoop: yarn
   asdf: yarn

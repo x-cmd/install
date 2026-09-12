@@ -6,7 +6,7 @@ desc:
   en: Backup and restore SSH private keys using memorizable seed phrases
 x:
   source: https://github.com/charmbracelet/melt
-  eget: https://github.com/charmbracelet/melt
+  eget: charmbracelet/melt
   apt: melt
   brew: charmbracelet/tap/melt
   scoop: melt

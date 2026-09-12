@@ -6,11 +6,10 @@ desc:
   en: asciinema gif generator
 x:
   source: https://github.com/asciinema/agg
-  eget: https://github.com/asciinema/agg
+  eget: asciinema/agg
   brew: agg
   scoop: agg
   yay: asciinema-agg
-  cargo: --git
 rule:
   /x:
     cmd: x pkg use agg

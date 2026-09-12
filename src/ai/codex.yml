@@ -6,8 +6,7 @@ desc:
   en: OpenAI Codex CLI - Lightweight coding agent that runs in your terminal
 x:
   source: https://github.com/openai/codex
-  eget: https://github.com/openai/codex
-  brew: --cask
+  eget: openai/codex
   yay: openai-codex-bin
   npm: "@openai/codex"
 rule:

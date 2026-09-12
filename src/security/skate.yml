@@ -6,7 +6,7 @@ desc:
   en: skate is a personal key-value store tool
 x:
   source: https://github.com/charmbracelet/skate
-  eget: https://github.com/charmbracelet/skate
+  eget: charmbracelet/skate
   apt: skate
   dnf: skate
   brew: charmbracelet/tap/skate

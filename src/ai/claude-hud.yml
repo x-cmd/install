@@ -6,7 +6,7 @@ desc:
   en: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 x:
   source: https://github.com/jarrodwatts/claude-hud
-  eget: https://github.com/jarrodwatts/claude-hud
+  eget: jarrodwatts/claude-hud
 rule:
   /eget:
     cmd: x eget jarrodwatts/claude-hud

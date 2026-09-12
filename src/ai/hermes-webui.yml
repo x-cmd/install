@@ -6,7 +6,7 @@ desc:
   en: Provides a self-hosted web interface to interact with and manage the persistent, self-improving Hermes AI agent, enabling continuous learning and task automation.
 x:
   source: https://github.com/nesquena/hermes-webui
-  eget: https://github.com/nesquena/hermes-webui
+  eget: nesquena/hermes-webui
 rule:
   /eget:
     cmd: x eget nesquena/hermes-webui

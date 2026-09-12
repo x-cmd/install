@@ -6,7 +6,7 @@ desc:
   en: A time zone helper
 x:
   source: https://github.com/oz/tz
-  eget: https://github.com/oz/tz
+  eget: oz/tz
   brew: tz
   yay: tz
   go: github.com/oz/tz@latest

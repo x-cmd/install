@@ -5,7 +5,7 @@ desc:
   en: Miller is a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines
 x:
   source: https://github.com/johnkerl/miller
-  eget: https://github.com/johnkerl/miller
+  eget: johnkerl/miller
   apt: miller
   dnf: miller
   brew: miller

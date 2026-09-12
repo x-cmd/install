@@ -5,7 +5,7 @@ desc:
   en: An efficient file compression tool based on the ZStandard algorithm
 x:
   source: https://github.com/facebook/zstd
-  eget: https://github.com/facebook/zstd
+  eget: facebook/zstd
   apt: zstd
   dnf: zstd
   brew: zstd

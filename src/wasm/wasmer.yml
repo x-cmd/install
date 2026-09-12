@@ -6,7 +6,7 @@ desc:
 lang: Rust
 x:
   source: https://github.com/wasmerio/wasmer
-  eget: https://github.com/wasmerio/wasmer
+  eget: wasmerio/wasmer
   brew: wasmer
   scoop: wasmer
   choco: wasmer

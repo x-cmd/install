@@ -7,7 +7,6 @@ x:
   dnf: glab
   brew: glab
   pacman: glab
-  apk: --no-cache
   port: glab
   scoop: glab
   choco: glab

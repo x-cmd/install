@@ -6,7 +6,7 @@ desc:
   cn: 阿里云盘 WebDAV 服务
 x:
   source: https://github.com/messense/aliyundrive-webdav
-  eget: https://github.com/messense/aliyundrive-webdav
+  eget: messense/aliyundrive-webdav
   snap: aliyundrive-webdav
   scoop: main/aliyundrive-webdav
   yay: aliyundrive-webdav

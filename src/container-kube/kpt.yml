@@ -6,10 +6,9 @@ desc:
   en: Automate Kubernetes Configuration Editing
 x:
   source: https://github.com/kptdev/kpt
-  eget: https://github.com/kptdev/kpt
+  eget: kptdev/kpt
   brew: GoogleContainerTools/kpt/kpt
   yay: kpt-bin
-  go: -v
   asdf: kpt
 rule:
   /eget:

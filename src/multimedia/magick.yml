@@ -5,7 +5,7 @@ desc:
   en: magick is used to display, convert, and edit raster and vector image files
 x:
   source: https://github.com/ImageMagick/ImageMagick
-  eget: https://github.com/ImageMagick/ImageMagick
+  eget: ImageMagick/ImageMagick
   dnf: ImageMagick
   brew: imagemagick
   pacman: ImageMagick

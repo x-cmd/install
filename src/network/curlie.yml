@@ -6,12 +6,11 @@ desc:
   en: Curlie is a frontend to curl that adds the ease of use of httpie, without compromising on features and performance
 x:
   source: https://github.com/rs/curlie
-  eget: https://github.com/rs/curlie
+  eget: rs/curlie
   brew: curlie
   port: curlie
   scoop: curlie
   go: github.com/rs/curlie@latest
-  pkg: curlie
 rule:
   /x:
     cmd: x pkg use curlie

@@ -6,7 +6,7 @@ desc:
   en: Programmatic access to Google NotebookLM — via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.
 x:
   source: https://github.com/jacob-bd/notebooklm-mcp-cli
-  eget: https://github.com/jacob-bd/notebooklm-mcp-cli
+  eget: jacob-bd/notebooklm-mcp-cli
 rule:
   /eget:
     cmd: x eget jacob-bd/notebooklm-mcp-cli

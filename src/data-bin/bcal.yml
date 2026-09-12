@@ -6,7 +6,7 @@ desc:
   en: bcal (Byte CALculator) is a REPL CLI utility for storage expression (e.g. "(2GiB * 2) / (2KiB >> 2)") evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 x:
   source: https://github.com/jarun/bcal
-  eget: https://github.com/jarun/bcal
+  eget: jarun/bcal
   apt: bcal
   dnf: bcal
   brew: bcal

@@ -6,7 +6,7 @@ desc:
   cn: 正则表达式测试的终端 UI
 x:
   source: https://github.com/royreznik/rexi
-  eget: https://github.com/royreznik/rexi
+  eget: royreznik/rexi
   pip: rexi
 rule:
   /eget:

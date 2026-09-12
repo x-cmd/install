@@ -6,7 +6,6 @@ desc:
   en: Serve static sites, single-page apps and assets (HTML, JavaScript, CSS, and images)
 x:
   source: https://github.com/vercel/serve#readme
-  npm: --global
 rule:
   /x:
     cmd: x pkg use serve

@@ -6,7 +6,7 @@ desc:
   en: A command-line (CLI) tool designed to fetch and display your computer or server's CPU architecture information in the terminal.
 x:
   source: https://github.com/Dr-Noob/cpufetch
-  eget: https://github.com/Dr-Noob/cpufetch
+  eget: Dr-Noob/cpufetch
   apt: cpufetch
   dnf: cpufetch
   brew: cpufetch
@@ -20,7 +20,6 @@ x:
   scoop: cpufetch
   choco: cpufetch
   yay: cpufetch-git
-  pkg: cpufetch
 rule:
   /eget:
     cmd: x eget Dr-Noob/cpufetch

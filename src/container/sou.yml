@@ -6,7 +6,7 @@ desc:
   cn: 一个具有直观界面的现代 TUI 工具，用于浏览容器镜像层
 x:
   source: https://github.com/knqyf263/sou
-  eget: https://github.com/knqyf263/sou
+  eget: knqyf263/sou
   brew: knqyf263/sou/sou
   go: github.com/knqyf263/sou@latest
 rule:

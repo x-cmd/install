@@ -6,7 +6,7 @@ desc:
   en: Control SONOS speakers from your terminal.
 x:
   source: https://github.com/steipete/sonoscli
-  eget: https://github.com/steipete/sonoscli
+  eget: steipete/sonoscli
 rule:
   /eget:
     cmd: x eget steipete/sonoscli

@@ -6,7 +6,7 @@ desc:
   en: Anthropic Dev Container Features, including Claude Code CLI
 x:
   source: https://github.com/anthropics/devcontainer-features
-  eget: https://github.com/anthropics/devcontainer-features
+  eget: anthropics/devcontainer-features
 rule:
   /eget:
     cmd: x eget anthropics/devcontainer-features

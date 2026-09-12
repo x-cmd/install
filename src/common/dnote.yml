@@ -6,7 +6,7 @@ desc:
   en: Dnote is a simple command line notebook for programmers
 x:
   source: https://github.com/dnote/dnote
-  eget: https://github.com/dnote/dnote
+  eget: dnote/dnote
   brew: dnote/dnote/dnote
   yay: dnote-cli-bin
 rule:

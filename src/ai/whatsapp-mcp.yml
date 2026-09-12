@@ -6,7 +6,7 @@ desc:
   en: WhatsApp MCP server
 x:
   source: https://github.com/lharries/whatsapp-mcp
-  eget: https://github.com/lharries/whatsapp-mcp
+  eget: lharries/whatsapp-mcp
 rule:
   /eget:
     cmd: x eget lharries/whatsapp-mcp

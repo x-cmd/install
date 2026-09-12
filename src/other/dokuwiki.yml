@@ -6,7 +6,7 @@ desc:
   en: DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database
 x:
   source: https://github.com/dokuwiki/dokuwiki
-  eget: https://github.com/dokuwiki/dokuwiki
+  eget: dokuwiki/dokuwiki
   apt: php
   dnf: httpd
 rule:

@@ -6,7 +6,7 @@ desc:
   en: Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation Resource Specification and additional checks
 x:
   source: https://github.com/aws-cloudformation/cfn-lint
-  eget: https://github.com/aws-cloudformation/cfn-lint
+  eget: aws-cloudformation/cfn-lint
   brew: cfn-lint
   pip: cfn-lint
 rule:

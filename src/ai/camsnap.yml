@@ -6,7 +6,7 @@ desc:
   en: CLI to capture snapshots, short clips, and run motion detection against RTSP/ONVIF came ras
 x:
   source: https://github.com/steipete/camsnap
-  eget: https://github.com/steipete/camsnap
+  eget: steipete/camsnap
 rule:
   /eget:
     cmd: x eget steipete/camsnap

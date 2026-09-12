@@ -6,8 +6,8 @@ desc:
   en: 'Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.'
 x:
   source: https://github.com/Harry-kp/vortix
-  eget: https://github.com/Harry-kp/vortix
-  cargo: vortix'
+  eget: Harry-kp/vortix
+  cargo: vortix
 rule:
   /cargo:
     cmd: 'cargo install vortix'

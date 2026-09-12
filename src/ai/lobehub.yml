@@ -6,7 +6,7 @@ desc:
   en: '🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.'
 x:
   source: https://github.com/lobehub/lobe-chat
-  eget: https://github.com/lobehub/lobe-chat
+  eget: lobehub/lobe-chat
 rule:
   /eget:
     cmd: x eget lobehub/lobe-chat

@@ -6,7 +6,7 @@ desc:
   en: 'TUI explorer application for Amazon S3 (AWS S3) 🪣'
 x:
   source: https://github.com/lusingander/stu
-  eget: https://github.com/lusingander/stu
+  eget: lusingander/stu
 rule:
   /eget:
     cmd: x eget lusingander/stu

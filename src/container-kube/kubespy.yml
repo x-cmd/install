@@ -6,7 +6,7 @@ desc:
   en: kubespy is a small tool that makes it easy to observe how Kubernetes resources change in real time, derived from the work we did to make Kubernetes deployments predictable in Pulumi's CLI
 x:
   source: https://github.com/pulumi/kubespy
-  eget: https://github.com/pulumi/kubespy
+  eget: pulumi/kubespy
   brew: kubespy
   yay: kubespy
   go: github.com/pulumi/kubespy@latest

@@ -5,7 +5,7 @@ desc:
   en: The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
 x:
   source: https://github.com/CGAL/cgal
-  eget: https://github.com/CGAL/cgal
+  eget: CGAL/cgal
   apt: libcgal-dev
   brew: cgal
   apt-get: libcgal-dev

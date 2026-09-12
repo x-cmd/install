@@ -6,7 +6,7 @@ desc:
   en: Simple golang utility helping to discover large files/folders
 x:
   source: https://github.com/viktomas/godu
-  eget: https://github.com/viktomas/godu
+  eget: viktomas/godu
   brew: viktomas/taps/godu
   go: github.com/viktomas/godu@latest
 rule:

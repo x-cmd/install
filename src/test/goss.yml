@@ -6,7 +6,7 @@ desc:
   en: Goss is a YAML based serverspec alternative tool for validating a server’s configuration. It eases the process of writing tests by allowing the user to generate tests from the current system state
 x:
   source: https://github.com/goss-org/goss
-  eget: https://github.com/goss-org/goss
+  eget: goss-org/goss
   yay: goss-bin
 rule:
   /x:

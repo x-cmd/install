@@ -6,7 +6,8 @@ desc:
   en: OrbStack is the fast, light, and easy way to run Docker containers and Linux. Develop at lightspeed with our Docker Desktop alternative.
 x:
   source: https://github.com/orbstack/orbstack
-  brew: orbstackrule:
+  brew: orbstack
+rule:
   darwin/brew:
     cmd: brew install orbstack
     reference: https://docs.orbstack.dev/quick-start#installation

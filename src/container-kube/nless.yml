@@ -6,8 +6,8 @@ desc:
   en: 'A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.'
 x:
   source: https://github.com/mpryor/nothing-less
-  eget: https://github.com/mpryor/nothing-less
-  pip: nothing-less'
+  eget: mpryor/nothing-less
+  pip: nothing-less
 rule:
   /pip:
     cmd: 'pip install nothing-less'

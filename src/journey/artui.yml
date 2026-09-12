@@ -6,7 +6,7 @@ desc:
   en: 'A small TUI to read and track recent arXiv papers'
 x:
   source: https://github.com/fjonasALICE/arTui
-  eget: https://github.com/fjonasALICE/arTui
+  eget: fjonasALICE/arTui
 rule:
   /eget:
     cmd: x eget fjonasALICE/arTui

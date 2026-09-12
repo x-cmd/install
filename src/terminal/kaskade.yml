@@ -6,8 +6,9 @@ desc:
   cn: Kaskade 是一个用于 Apache Kafka 的文本用户界面（TUI）。
 x:
   source: https://github.com/sauljabin/kaskade
-  eget: https://github.com/sauljabin/kaskade
-  brew: kaskaderule:
+  eget: sauljabin/kaskade
+  brew: kaskade
+rule:
   /eget:
     cmd: x eget sauljabin/kaskade
     reference: https://x-cmd.com/mod/eget

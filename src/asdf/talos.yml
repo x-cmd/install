@@ -6,7 +6,7 @@ desc:
   en: Talos Linux is Linux designed for Kubernetes – secure, immutable, and minimal
 x:
   source: https://github.com/siderolabs/talos
-  eget: https://github.com/siderolabs/talos
+  eget: siderolabs/talos
   asdf: talos
 rule:
   /eget:

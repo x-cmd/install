@@ -6,7 +6,7 @@ desc:
   en: 'ZUSE is an irc client for the terminal made in Go with Bubbletea'
 x:
   source: https://github.com/babycommando/zuse
-  eget: https://github.com/babycommando/zuse
+  eget: babycommando/zuse
 rule:
   /eget:
     cmd: x eget babycommando/zuse

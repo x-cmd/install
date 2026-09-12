@@ -6,7 +6,7 @@ desc:
   en: 'Simplify your Git workflow with visual feedback, keyboard-driven controls, and a streamlined experience.'
 x:
   source: https://github.com/thewizardshell/froggit
-  eget: https://github.com/thewizardshell/froggit
+  eget: thewizardshell/froggit
 rule:
   /eget:
     cmd: x eget thewizardshell/froggit

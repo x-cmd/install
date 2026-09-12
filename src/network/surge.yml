@@ -6,9 +6,9 @@ desc:
   en: 'Blazing fast TUI download manager built in Go for power users'
 x:
   source: https://github.com/surge-downloader/surge
-  eget: https://github.com/surge-downloader/surge
+  eget: surge-downloader/surge
   brew: SurgeDM/tap/surge
-  go: github.com/SurgeDM/Surge@latest'
+  go: github.com/SurgeDM/Surge@latest
 rule:
   darwin/brew:
     cmd: 'brew install SurgeDM/tap/surge'

@@ -6,7 +6,7 @@ desc:
   en: JReleaser is a release automation tool for Java and non-Java projects (Rust, Elixir, C#, etc)
 x:
   source: https://github.com/jreleaser/jreleaser
-  eget: https://github.com/jreleaser/jreleaser
+  eget: jreleaser/jreleaser
   brew: jreleaser
   port: jreleaser
   yay: jreleaser-bin

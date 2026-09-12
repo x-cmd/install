@@ -6,7 +6,7 @@ desc:
   en: Tools for managing /etc/hosts
 x:
   source: https://github.com/guumaster/hostctl
-  eget: https://github.com/guumaster/hostctl
+  eget: guumaster/hostctl
   brew: guumaster/tap/hostctl
   scoop: hostctl
   yay: hostctl

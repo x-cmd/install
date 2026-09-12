@@ -6,7 +6,7 @@ desc:
   cn: prs 让你可以通过终端随时了解 pull requests 的最新动态
 x:
   source: https://github.com/dhth/prs
-  eget: https://github.com/dhth/prs
+  eget: dhth/prs
   brew: dhth/tap/prs
   yay: prs-tui
   go: github.com/dhth/prs@latest

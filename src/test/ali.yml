@@ -6,14 +6,12 @@ desc:
   en: A load testing tool capable of performing real-time analysis.
 x:
   source: https://github.com/nakabonne/ali
-  eget: https://github.com/nakabonne/ali
-  apt: ./ali_0.7.3_linux_amd64.deb
+  eget: nakabonne/ali
   brew: nakabonne/ali/ali
   pacman: ali
   apk: ali
   port: ali
   go: github.com/nakabonne/ali@latest
-  pkg: benchmarks/ali
 rule:
   /eget:
     cmd: x eget nakabonne/ali

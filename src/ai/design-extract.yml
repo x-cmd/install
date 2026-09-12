@@ -6,7 +6,7 @@ desc:
   en: Extracts comprehensive design language from live websites, generating multi-platform code, design tokens, and auditing system consistency.
 x:
   source: https://github.com/Manavarya09/design-extract
-  eget: https://github.com/Manavarya09/design-extract
+  eget: Manavarya09/design-extract
 rule:
   /eget:
     cmd: x eget Manavarya09/design-extract

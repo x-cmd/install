@@ -6,7 +6,7 @@ desc:
   en: 'TUI for Ollama and other LLM providers'
 x:
   source: https://github.com/paulrobello/parllama
-  eget: https://github.com/paulrobello/parllama
+  eget: paulrobello/parllama
 rule:
   /eget:
     cmd: x eget paulrobello/parllama

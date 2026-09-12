@@ -6,8 +6,9 @@ desc:
   en: zoro can help you expose local server to external network
 x:
   source: https://github.com/txthinking/zoro
-  eget: https://github.com/txthinking/zoro
-  brew: zororule:
+  eget: txthinking/zoro
+  brew: zoro
+rule:
   /x:
     cmd: x pkg use zoro
     reference: https://x-cmd.com/install/

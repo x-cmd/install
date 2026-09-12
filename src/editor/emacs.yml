@@ -64,7 +64,6 @@ x:
   pacman: emacs
   apk: emacs
   port: emacs-app
-  brew: --cask
   guix: emacs
 binlist:
 - emacs

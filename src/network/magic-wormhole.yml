@@ -14,7 +14,6 @@ x:
   zypper: python-magic-wormhole
   choco: magic-wormhole
   yay: magic-wormhole-git
-  pip: --user
 rule:
   /x:
     cmd: x pkg use magic-wormhole

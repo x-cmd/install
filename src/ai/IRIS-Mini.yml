@@ -6,7 +6,7 @@ desc:
   en: IRIS Mini ⚡ — The agentic CLI heartbeat. Scaffolds code 🏗️, commands the local filesystem 📂, and automates your developer workflow directly from the terminal 🚀. Pure execution, zero friction, local...
 x:
   source: https://github.com/IRISX-AI/IRIS-Mini
-  eget: https://github.com/IRISX-AI/IRIS-Mini
+  eget: IRISX-AI/IRIS-Mini
 rule:
   /eget:
     cmd: x eget IRISX-AI/IRIS-Mini

@@ -6,7 +6,7 @@ desc:
   en: A simple terminal dashboard for Kubernetes built with Rust
 x:
   source: https://github.com/kdash-rs/kdash
-  eget: https://github.com/kdash-rs/kdash
+  eget: kdash-rs/kdash
   brew: kdash-rs/kdash/kdash
   scoop: kdash
   choco: kdash

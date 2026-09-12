@@ -6,7 +6,7 @@ desc:
   en: The buf CLI is a tool for working with Protocol Buffers
 x:
   source: https://github.com/bufbuild/buf
-  eget: https://github.com/bufbuild/buf
+  eget: bufbuild/buf
   brew: bufbuild/buf/buf
   scoop: buf
   yay: buf-bin

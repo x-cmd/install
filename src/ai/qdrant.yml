@@ -6,7 +6,7 @@ desc:
   en: 'Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/'
 x:
   source: https://github.com/qdrant/qdrant
-  eget: https://github.com/qdrant/qdrant
+  eget: qdrant/qdrant
 rule:
   /eget:
     cmd: x eget qdrant/qdrant

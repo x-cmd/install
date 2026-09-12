@@ -6,7 +6,7 @@ desc:
   en: TUI File Manager
 x:
   source: https://github.com/nore-dev/fman
-  eget: https://github.com/nore-dev/fman
+  eget: nore-dev/fman
   brew: fman/tap/fman
   go: github.com/nore-dev/fman@latest
 rule:

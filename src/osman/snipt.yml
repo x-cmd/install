@@ -6,7 +6,7 @@ desc:
   en: 'Snipt is a powerful text snippet expansion tool!'
 x:
   source: https://github.com/snipt/snipt
-  eget: https://github.com/snipt/snipt
+  eget: snipt/snipt
 rule:
   /eget:
     cmd: x eget snipt/snipt

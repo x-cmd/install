@@ -6,7 +6,7 @@ desc:
   en: Build TensorFlow 1.10 as a static library using plain Makefile (no Bazel), for embedding and cross-compilation.
 x:
   source: https://github.com/jart/tensorflow-makefile
-  eget: https://github.com/jart/tensorflow-makefile
+  eget: jart/tensorflow-makefile
 rule:
   /eget:
     cmd: x eget jart/tensorflow-makefile

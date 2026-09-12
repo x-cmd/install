@@ -6,7 +6,7 @@ desc:
   en: jLink is the ultimate solution for managing Jabra headsets and dongles on Linux.
 x:
   source: https://github.com/Watchdog0x/jLink
-  eget: https://github.com/Watchdog0x/jLink
+  eget: Watchdog0x/jLink
 rule:
   /eget:
     cmd: x eget Watchdog0x/jLink

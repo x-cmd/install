@@ -10,7 +10,6 @@ x:
   dnf: guake
   pacman: guake
   apt-get: guake
-  pip: --user
 rule:
   debian/apt:
     cmd: sudo apt install guake

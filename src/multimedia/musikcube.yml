@@ -6,8 +6,9 @@ desc:
   en: 'a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++'
 x:
   source: https://github.com/clangen/musikcube
-  eget: https://github.com/clangen/musikcube
-  brew: musikcuberule:
+  eget: clangen/musikcube
+  brew: musikcube
+rule:
   darwin/brew:
     cmd: 'brew install musikcube'
     reference: https://github.com/clangen/musikcube

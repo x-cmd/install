@@ -6,7 +6,7 @@ desc:
   en: Open the current remote repository in your browser
 x:
   source: https://github.com/yoannfleurydev/gitweb
-  eget: https://github.com/yoannfleurydev/gitweb
+  eget: yoannfleurydev/gitweb
   brew: yoannfleurydev/gitweb/gitweb
   port: gitweb
   cargo: gitweb

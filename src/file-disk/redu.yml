@@ -6,7 +6,7 @@ desc:
   cn: redu 是您的 restic repo 的 ncdu
 x:
   source: https://github.com/drdo/redu
-  eget: https://github.com/drdo/redu
+  eget: drdo/redu
   yay: redu
 rule:
   /eget:

@@ -6,7 +6,7 @@ desc:
   en: Storage orchestrator for containers
 x:
   source: https://github.com/NetApp/trident
-  eget: https://github.com/NetApp/trident
+  eget: NetApp/trident
   asdf: tridentctl
 rule:
   /eget:

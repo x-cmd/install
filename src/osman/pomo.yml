@@ -6,7 +6,7 @@ desc:
   en: 'Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.'
 x:
   source: https://github.com/Bahaaio/pomo
-  eget: https://github.com/Bahaaio/pomo
+  eget: Bahaaio/pomo
 rule:
   /eget:
     cmd: x eget Bahaaio/pomo

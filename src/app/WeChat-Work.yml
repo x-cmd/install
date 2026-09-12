@@ -17,7 +17,7 @@ rule:
 x:
   choco: wecom
   winget: Tencent.WeCom
-  brew: --caskbinlist:
+binlist:
 - WeChat-Work
 license: NOASSERTION
 

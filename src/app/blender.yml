@@ -5,7 +5,6 @@ desc:
   en: Free, open-source, cross-platform professional 3D creation software.
 x:
   source: https://github.com/blender/blender
-  brew: --cask
   snap: blender
   yay: blender-bin
 rule:

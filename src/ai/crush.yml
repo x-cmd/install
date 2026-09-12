@@ -6,7 +6,7 @@ desc:
   en: AI encoding agent for terminals provided by the Charm team
 x:
   source: https://github.com/charmbracelet/crush
-  eget: https://github.com/charmbracelet/crush
+  eget: charmbracelet/crush
   brew: charmbracelet/tap/crush
   yay: crush-bin
   npm: "@charmland/crush"

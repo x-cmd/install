@@ -6,7 +6,7 @@ desc:
   en: A Rust CLI that converts a codebase into a single LLM prompt with source tree, Handlebars templating, token counting and Git integration; ships with a Python SDK and MCP Server.
 x:
   source: https://github.com/mufeedvh/code2prompt
-  eget: https://github.com/mufeedvh/code2prompt
+  eget: mufeedvh/code2prompt
   brew: code2prompt
   pip: code2prompt-rs
   cargo: code2prompt

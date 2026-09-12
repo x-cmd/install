@@ -6,7 +6,7 @@ desc:
   en: 'Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.'
 x:
   source: https://github.com/bschaatsbergen/cidr
-  eget: https://github.com/bschaatsbergen/cidr
+  eget: bschaatsbergen/cidr
 rule:
   /eget:
     cmd: x eget bschaatsbergen/cidr

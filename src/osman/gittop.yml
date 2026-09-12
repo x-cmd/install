@@ -6,7 +6,7 @@ desc:
   en: 'A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.'
 x:
   source: https://github.com/hjr265/gittop
-  eget: https://github.com/hjr265/gittop
+  eget: hjr265/gittop
 rule:
   /eget:
     cmd: x eget hjr265/gittop

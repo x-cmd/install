@@ -6,7 +6,7 @@ desc:
   en: Bootstrapping LISP in a Boot Sector
 x:
   source: https://github.com/jart/sectorlisp
-  eget: https://github.com/jart/sectorlisp
+  eget: jart/sectorlisp
 rule:
   /eget:
     cmd: x eget jart/sectorlisp

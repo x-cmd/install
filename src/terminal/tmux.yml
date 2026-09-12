@@ -6,7 +6,7 @@ desc:
 lang: C
 x:
   source: https://github.com/tmux/tmux
-  eget: https://github.com/tmux/tmux
+  eget: tmux/tmux
   apt: tmux
   dnf: tmux
   brew: tmux

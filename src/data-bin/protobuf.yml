@@ -5,7 +5,7 @@ desc:
   cn: Protocol Buffers 是用于序列化结构化数据的语言中立、平台中立的可扩展机制
 x:
   source: https://github.com/protocolbuffers/protobuf
-  eget: https://github.com/protocolbuffers/protobuf
+  eget: protocolbuffers/protobuf
   yay: protobuf-git
 rule:
   /x:

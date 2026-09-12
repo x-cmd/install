@@ -6,11 +6,11 @@ desc:
   en: 'No Nonsense Neovim Client in Rust — a simple graphical user interface for Neovim that stays functionally close to the TUI while offering nicer graphics'
 x:
   source: https://github.com/neovide/neovide
-  eget: https://github.com/neovide/neovide
+  eget: neovide/neovide
   brew: neovide
   pacman: neovide
   scoop: neovide
-  cargo: neovide'
+  cargo: neovide
 rule:
   /eget:
     cmd: x eget neovide/neovide

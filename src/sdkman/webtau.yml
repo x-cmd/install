@@ -6,7 +6,8 @@ desc:
   en: WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests
 x:
   source: https://github.com/testingisdocumenting/webtau
-  brew: testingisdocumenting/brew/webtaurule:
+  brew: testingisdocumenting/brew/webtau
+rule:
   /sdk:
     cmd: sdk install webtau
     reference: https://testingisdocumenting.org/webtau/getting-started/installation#groovy-runner

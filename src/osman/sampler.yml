@@ -6,7 +6,7 @@ homepage: https://github.com/sqshq/sampler
 license: GPL-3.0
 x:
   source: https://github.com/sqshq/sampler
-  eget: https://github.com/sqshq/sampler
+  eget: sqshq/sampler
   brew: sampler
   port: sampler
   choco: sampler

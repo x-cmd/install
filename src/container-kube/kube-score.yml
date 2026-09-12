@@ -6,7 +6,7 @@ desc:
   en: kube-score is a tool that performs static code analysis of your Kubernetes object definitions
 x:
   source: https://github.com/zegl/kube-score
-  eget: https://github.com/zegl/kube-score
+  eget: zegl/kube-score
   brew: kube-score
   yay: kube-score-bin
   asdf: kube-score

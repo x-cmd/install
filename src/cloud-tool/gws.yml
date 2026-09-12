@@ -6,7 +6,7 @@ desc:
   cn: Google Workspace CLI——一款命令行工具，可用于管理云端硬盘、Gmail、日历、表格、文档、聊天、管理后台等。它基于 Google Discovery Service 动态构建，并包含 AI 代理功能
 x:
   source: https://github.com/googleworkspace/cli
-  eget: https://github.com/googleworkspace/cli
+  eget: googleworkspace/cli
   yay: googleworkspace-cli-bin
   npm: "@googleworkspace/cli"
 rule:

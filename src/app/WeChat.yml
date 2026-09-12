@@ -65,7 +65,6 @@ x:
   scoop: extras/wechat
   choco: wechat
   winget: Tencent.WeChat
-  brew: --cask
   snap: electronic-wechat
   flatpak: flathub
   yay: wechat-universal-bwrap

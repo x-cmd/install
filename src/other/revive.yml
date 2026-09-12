@@ -6,7 +6,7 @@ desc:
   en: Go language code quality detection tool (golint replacement), configurable and more beautiful
 x:
   source: https://github.com/mgechev/revive
-  eget: https://github.com/mgechev/revive
+  eget: mgechev/revive
   asdf: revive
 rule:
   /x:

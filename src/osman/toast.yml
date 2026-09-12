@@ -5,8 +5,9 @@ desc:
   en: Toast is a tool for doing work in containers,containerize your development and continuous integration environments
 x:
   source: https://github.com/stepchowfun/toast
-  eget: https://github.com/stepchowfun/toast
-  brew: toastrule:
+  eget: stepchowfun/toast
+  brew: toast
+rule:
   /eget:
     cmd: x eget stepchowfun/toast
     reference: https://x-cmd.com/mod/eget

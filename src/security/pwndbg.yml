@@ -6,7 +6,7 @@ desc:
   en: 'Exploit Development and Reverse Engineering with GDB & LLDB Made Easy'
 x:
   source: https://github.com/pwndbg/pwndbg
-  eget: https://github.com/pwndbg/pwndbg
+  eget: pwndbg/pwndbg
 rule:
   /eget:
     cmd: x eget pwndbg/pwndbg

@@ -6,7 +6,7 @@ desc:
   en: 'A multi-purpose weather client for your terminal!'
 x:
   source: https://github.com/BaconIsAVeg/outside
-  eget: https://github.com/BaconIsAVeg/outside
+  eget: BaconIsAVeg/outside
 rule:
   /eget:
     cmd: x eget BaconIsAVeg/outside

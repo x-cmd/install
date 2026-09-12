@@ -6,7 +6,7 @@ desc:
   en: DDV is a TUI application to view Amazon DynamoDB in the terminal.
 x:
   source: https://github.com/Lusingander/ddv
-  eget: https://github.com/Lusingander/ddv
+  eget: Lusingander/ddv
   brew: lusingander/tap/ddv
   yay: ddv
   cargo: ddv

@@ -6,7 +6,7 @@ desc:
   en: Synchronize AI CLI configuration (rules / skills / commands / references / MCP) across 11 tools — Claude Code, Codex, Cursor, Copilot, Windsurf, Gemini CLI, Aider, Cline, OpenCode, Continue.dev, An...
 x:
   source: https://github.com/StringKe/std-ai
-  eget: https://github.com/StringKe/std-ai
+  eget: StringKe/std-ai
 rule:
   /eget:
     cmd: x eget StringKe/std-ai

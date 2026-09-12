@@ -6,14 +6,12 @@ desc:
   en: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code
 x:
   source: https://github.com/VSCodium/vscodium
-  eget: https://github.com/VSCodium/vscodium
+  eget: VSCodium/vscodium
   apt: codium
   dnf: codium
-  brew: --cask
   snap: codium
   zypper: codium
   port: codium
-  emerge: -av
   scoop: vscodium
   choco: vscodium
   winget: vscodium

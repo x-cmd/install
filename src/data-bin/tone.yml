@@ -6,7 +6,7 @@ desc:
   en: tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more
 x:
   source: https://github.com/sandreas/tone
-  eget: https://github.com/sandreas/tone
+  eget: sandreas/tone
 rule:
   /eget:
     cmd: x eget sandreas/tone

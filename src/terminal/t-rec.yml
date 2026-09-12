@@ -6,7 +6,7 @@ desc:
   en: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 x:
   source: https://github.com/sassman/t-rec-rs
-  eget: https://github.com/sassman/t-rec-rs
+  eget: sassman/t-rec-rs
   apt: imagemagick
   brew: t-rec
   snap: t-rec
@@ -14,7 +14,6 @@ x:
   port: t-rec
   yay: t-rec
   paru: t-rec
-  cargo: -f
 rule:
   /eget:
     cmd: x eget sassman/t-rec-rs

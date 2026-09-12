@@ -6,7 +6,7 @@ desc:
   en: 'Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.'
 x:
   source: https://github.com/Kohei-Wada/taskdog
-  eget: https://github.com/Kohei-Wada/taskdog
+  eget: Kohei-Wada/taskdog
 rule:
   /eget:
     cmd: x eget Kohei-Wada/taskdog

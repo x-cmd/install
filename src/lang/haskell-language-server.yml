@@ -6,7 +6,7 @@ desc:
   en: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine
 x:
   source: https://github.com/haskell/haskell-language-server
-  eget: https://github.com/haskell/haskell-language-server
+  eget: haskell/haskell-language-server
   brew: haskell-language-server
   yay: haskell-language-server-static
 rule:

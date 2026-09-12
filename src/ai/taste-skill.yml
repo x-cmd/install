@@ -6,7 +6,7 @@ desc:
   en: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 x:
   source: https://github.com/Leonxlnx/taste-skill
-  eget: https://github.com/Leonxlnx/taste-skill
+  eget: Leonxlnx/taste-skill
 rule:
   /eget:
     cmd: x eget Leonxlnx/taste-skill

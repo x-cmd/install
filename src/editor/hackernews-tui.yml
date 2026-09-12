@@ -6,8 +6,8 @@ desc:
   en: 'A Terminal UI to browse Hacker News'
 x:
   source: https://github.com/aome510/hackernews-TUI
-  eget: https://github.com/aome510/hackernews-TUI
-  yay: hackernews_tui'
+  eget: aome510/hackernews-TUI
+  yay: hackernews_tui
   cargo: hackernews_tui
 rule:
   /cargo:

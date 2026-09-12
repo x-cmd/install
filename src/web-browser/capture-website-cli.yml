@@ -6,7 +6,6 @@ desc:
   en: Capture screenshots of websites from the command-line
 x:
   source: https://github.com/sindresorhus/capture-website-cli#readme
-  npm: --global
 rule:
   /x:
     cmd: x pkg use capture-website-cli

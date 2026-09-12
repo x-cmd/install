@@ -6,7 +6,7 @@ desc:
   en: 'TUI package manager for APT-based Linux distributions'
 x:
   source: https://github.com/mexirica/aptui
-  eget: https://github.com/mexirica/aptui
+  eget: mexirica/aptui
 rule:
   /eget:
     cmd: x eget mexirica/aptui

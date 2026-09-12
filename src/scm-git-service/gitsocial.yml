@@ -6,7 +6,7 @@ desc:
   en: 'Cross-forge collaboration platform'
 x:
   source: https://github.com/gitsocial-org/gitsocial
-  eget: https://github.com/gitsocial-org/gitsocial
+  eget: gitsocial-org/gitsocial
 rule:
   /eget:
     cmd: x eget gitsocial-org/gitsocial

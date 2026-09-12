@@ -6,7 +6,7 @@ desc:
   en: Configurable TUI clipboard manager for Unix
 x:
   source: https://github.com/savedra1/clipse
-  eget: https://github.com/savedra1/clipse
+  eget: savedra1/clipse
   yay: clipse
   go: github.com/savedra1/clipse@v1.1.0
 rule:

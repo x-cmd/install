@@ -6,8 +6,9 @@ desc:
   cn: '{fmt} 是一个开放源码的格式化库，提供了一个快速而安全的 C stdio 和 C + + iostream 的替代品'
 x:
   source: https://github.com/fmtlib/fmt
-  eget: https://github.com/fmtlib/fmt
-  brew: fmtrule:
+  eget: fmtlib/fmt
+  brew: fmt
+rule:
   /eget:
     cmd: x eget fmtlib/fmt
     reference: https://x-cmd.com/mod/eget

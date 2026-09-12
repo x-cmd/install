@@ -6,7 +6,7 @@ desc:
   en: 'Tatuin (Task Aggregator TUI for N providers)'
 x:
   source: https://github.com/panter-dsd/tatuin
-  eget: https://github.com/panter-dsd/tatuin
+  eget: panter-dsd/tatuin
 rule:
   /eget:
     cmd: x eget panter-dsd/tatuin

@@ -6,7 +6,6 @@ desc:
   en: Get your public IP address
 x:
   source: https://github.com/sindresorhus/public-ip-cli#readme
-  npm: --global
 rule:
   /x:
     cmd: x pkg use public-ip-cli

@@ -6,7 +6,7 @@ desc:
   cn: 适用于苹果硅处理器的无声音性能监测命令行工具
 x:
   source: https://github.com/vladkens/macmon
-  eget: https://github.com/vladkens/macmon
+  eget: vladkens/macmon
   brew: macmon
   port: macmon
 rule:

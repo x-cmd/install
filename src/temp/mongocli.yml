@@ -6,8 +6,9 @@ desc:
   en: The MongoDB CLI is a modern command line interface that enables you to manage your MongoDB services from the terminal
 x:
   source: https://github.com/mongodb/mongodb-cli
-  eget: https://github.com/mongodb/mongodb-cli
-  brew: mongoclirule:
+  eget: mongodb/mongodb-cli
+  brew: mongocli
+rule:
   /eget:
     cmd: x eget mongodb/mongodb-cli
     reference: https://x-cmd.com/mod/eget

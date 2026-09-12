@@ -6,7 +6,7 @@ desc:
   en: Test suite for musl libc — regression tests verifying C library correctness.
 x:
   source: https://github.com/jart/libc-test
-  eget: https://github.com/jart/libc-test
+  eget: jart/libc-test
 rule:
   /eget:
     cmd: x eget jart/libc-test

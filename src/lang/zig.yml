@@ -6,20 +6,17 @@ desc:
   en: Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
 x:
   source: https://github.com/ziglang/zig
-  eget: https://github.com/ziglang/zig
+  eget: ziglang/zig
   apt: helix
   dnf: zig
   brew: zig
   pacman: zig
   snap: zig
   port: zig
-  emerge: -av
-  xbps: -Su
   scoop: zig
   choco: zig
   winget: zig.zig
   asdf: zig
-  pkg: lang/zig
 rule:
   /eget:
     cmd: x eget ziglang/zig

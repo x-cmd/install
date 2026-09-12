@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/wumpus#default
 
 x:
-  brew: wumpusbinlist:
+  brew: wumpus
+binlist:
 - wumpus
 license: NOASSERTION
 

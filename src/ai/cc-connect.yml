@@ -6,7 +6,7 @@ desc:
   en: Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Kimi CLI, OpenCode, and 10+ more) to chat platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, WeChat Work, personal WeChat, QQ, LINE, Matrix, and 13 total). Drive your local agents remotely from chat for code review, debugging, and automation — most platforms need no public IP.
 x:
   source: https://github.com/chenhg5/cc-connect
-  eget: https://github.com/chenhg5/cc-connect
+  eget: chenhg5/cc-connect
   brew: cc-connect
   npm: cc-connect
 rule:

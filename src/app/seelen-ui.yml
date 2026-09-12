@@ -6,7 +6,7 @@ desc:
   en: Seelen UI is a tool designed to enhance your Windows desktop experience with a focus on customization and productivity
 x:
   source: https://github.com/eythaann/Seelen-UI
-  eget: https://github.com/eythaann/Seelen-UI
+  eget: eythaann/Seelen-UI
   winget: Seelen.SeelenUI
 rule:
   /eget:

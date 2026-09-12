@@ -6,7 +6,7 @@ desc:
   en: Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 x:
   source: https://github.com/doxygen/doxygen
-  eget: https://github.com/doxygen/doxygen
+  eget: doxygen/doxygen
   brew: doxygen
   scoop: doxygen
   yay: doxygen-git

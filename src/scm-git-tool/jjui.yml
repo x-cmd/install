@@ -6,7 +6,7 @@ desc:
   en: 'jjui is a TUI designed for interacting with the Jujutsu version control system.'
 x:
   source: https://github.com/idursun/jjui
-  eget: https://github.com/idursun/jjui
+  eget: idursun/jjui
 rule:
   /eget:
     cmd: x eget idursun/jjui

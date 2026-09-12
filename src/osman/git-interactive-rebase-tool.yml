@@ -6,7 +6,7 @@ desc:
   en: 'Native cross-platform full feature terminal-based sequence editor for git interactive rebase.'
 x:
   source: https://github.com/MitMaro/git-interactive-rebase-tool
-  eget: https://github.com/MitMaro/git-interactive-rebase-tool
+  eget: MitMaro/git-interactive-rebase-tool
 rule:
   /eget:
     cmd: x eget MitMaro/git-interactive-rebase-tool

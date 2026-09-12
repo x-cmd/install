@@ -6,7 +6,7 @@ desc:
   en: A command-line hex viewer
 x:
   source: https://github.com/sharkdp/hexyl
-  eget: https://github.com/sharkdp/hexyl
+  eget: sharkdp/hexyl
   apt: hexyl
   dnf: hexyl
   brew: hexyl
@@ -14,14 +14,12 @@ x:
   snap: hexyl
   apt-get: hexyl
   port: hexyl
-  emerge: --sync
   xbps: hexyl
   scoop: hexyl
   choco: hexyl
   guix: hexyl
   yay: hexyl-git
   cargo: hexyl
-  pkg: hexyl
 rule:
   /x:
     cmd: x pkg use hexyl

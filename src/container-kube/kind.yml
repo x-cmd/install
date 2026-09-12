@@ -6,7 +6,7 @@ desc:
   en: kind is a tool for running local Kubernetes clusters using Docker container "nodes"
 x:
   source: https://github.com/kubernetes-sigs/kind
-  eget: https://github.com/kubernetes-sigs/kind
+  eget: kubernetes-sigs/kind
   brew: kind
   yay: kind-bin
   asdf: kind

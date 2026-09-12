@@ -6,7 +6,7 @@ desc:
   en: A framework for managing and maintaining multi-language pre-commit hooks.
 x:
   source: https://github.com/pre-commit/pre-commit
-  eget: https://github.com/pre-commit/pre-commit
+  eget: pre-commit/pre-commit
   brew: pre-commit
   pip: pre-commit
   asdf: pre-commit

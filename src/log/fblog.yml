@@ -6,7 +6,7 @@ desc:
   cn: 查看 json 日志文件的小工具
 x:
   source: https://github.com/brocode/fblog
-  eget: https://github.com/brocode/fblog
+  eget: brocode/fblog
   brew: fblog
   yay: fblog
   cargo: fblog

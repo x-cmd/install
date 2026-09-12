@@ -6,7 +6,7 @@ desc:
   en: Interactive Grep
 x:
   source: https://github.com/konradsz/igrep
-  eget: https://github.com/konradsz/igrep
+  eget: konradsz/igrep
   brew: konradsz/igrep/igrep
   pacman: igrep
   apk: igrep

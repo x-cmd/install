@@ -5,7 +5,7 @@ desc:
   en: A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
 x:
   source: https://github.com/clouedoc/hzfind
-  eget: https://github.com/clouedoc/hzfind
+  eget: clouedoc/hzfind
 rule:
   /eget:
     cmd: x eget clouedoc/hzfind

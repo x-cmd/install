@@ -6,7 +6,7 @@ desc:
   en: Steampipe is the zero-ETL solution for getting data directly from APIs and services
 x:
   source: https://github.com/turbot/steampipe
-  eget: https://github.com/turbot/steampipe
+  eget: turbot/steampipe
   brew: turbot/tap/steampipe
   asdf: steampipe
 rule:

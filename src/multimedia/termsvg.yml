@@ -6,7 +6,7 @@ desc:
   en: Record, share and export your terminal as a animated SVG image
 x:
   source: https://github.com/MrMarble/termsvg
-  eget: https://github.com/MrMarble/termsvg
+  eget: MrMarble/termsvg
 rule:
   /x:
     cmd: x pkg use termsvg

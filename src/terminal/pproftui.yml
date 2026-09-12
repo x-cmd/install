@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based diagnostic tool for Go pprof data'
 x:
   source: https://github.com/Oloruntobi1/pproftui
-  eget: https://github.com/Oloruntobi1/pproftui
+  eget: Oloruntobi1/pproftui
 rule:
   /eget:
     cmd: x eget Oloruntobi1/pproftui

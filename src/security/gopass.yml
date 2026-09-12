@@ -6,7 +6,7 @@ desc:
   en: unix password manager
 x:
   source: https://github.com/gopasspw/gopass
-  eget: https://github.com/gopasspw/gopass
+  eget: gopasspw/gopass
   dnf: gopass
   brew: gopass
   pacman: gopass

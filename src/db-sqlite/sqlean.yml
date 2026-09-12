@@ -6,7 +6,7 @@ desc:
   en: sqlean is an extended collection of sqlite
 x:
   source: https://github.com/nalgeon/sqlean
-  eget: https://github.com/nalgeon/sqlean
+  eget: nalgeon/sqlean
   yay: sqlean-bin
 rule:
   /x:

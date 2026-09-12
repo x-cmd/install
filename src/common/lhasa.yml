@@ -6,13 +6,12 @@ desc:
   en: Lhasa is a library + CLI for parsing LHA (.lzh), LArc (.lzs) and PMarc (.pma) archives — pure FOSS (ISC) replacement for the non-free Unix LHA tool. The CLI binary is intentionally named `lha` (upstream Makefile.am `bin_PROGRAMS=lha`) to mirror the original LHa for UNIX command; after install, run `lha`, not `lhasa`.
 x:
   source: https://github.com/fragglet/lhasa
-  eget: https://github.com/ljh-sh/lhasa
+  eget: ljh-sh/lhasa
   apt: lhasa
   brew: lhasa
   zypper: lhasa
   xbps: lhasa
   yay: lhasa-git
-  pkg: archivers/lhasa
 rule:
   /eget:
     cmd: x eget ljh-sh/lhasa

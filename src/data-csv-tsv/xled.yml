@@ -8,7 +8,7 @@ desc:
 
 x:
   source: https://github.com/excelano/xled
-  eget: https://github.com/excelano/xled
+  eget: excelano/xled
   brew: excelano/tap/xled
   winget: Excelano.xled
   cargo: xled

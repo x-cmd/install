@@ -7,7 +7,6 @@ x:
   source: https://github.com/hashicorp/vagrant
   apt: vagrant
   dnf: vagrant
-  brew: --cask
   pacman: vagrant
   apt-get: vagrant
   yum: vagrant

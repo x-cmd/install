@@ -6,7 +6,7 @@ desc:
   en: 'Fast CLI for searching, tracing, and streaming logs across files, Docker containers, and remote hosts using request IDs, trace IDs, and key/value search.'
 x:
   source: https://github.com/SagarMaheshwary/reqlog
-  eget: https://github.com/SagarMaheshwary/reqlog
+  eget: SagarMaheshwary/reqlog
 rule:
   /eget:
     cmd: x eget SagarMaheshwary/reqlog

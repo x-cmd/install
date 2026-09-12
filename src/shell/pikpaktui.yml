@@ -6,7 +6,7 @@ desc:
   en: 'A TUI and CLI client for PikPak cloud storage — written in pure Rust. OpenClaw friendly. Browse, download, upload, stream, and manage your files from the terminal.'
 x:
   source: https://github.com/Bengerthelorf/pikpaktui
-  eget: https://github.com/Bengerthelorf/pikpaktui
+  eget: Bengerthelorf/pikpaktui
 rule:
   /eget:
     cmd: x eget Bengerthelorf/pikpaktui

@@ -8,7 +8,6 @@ x:
   source: https://github.com/pypa/twine
   apt: twine
   dnf: twine
-  brew: --cask
   pacman: twine
   apt-get: twine
   pip: twine

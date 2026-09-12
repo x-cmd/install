@@ -6,7 +6,7 @@ desc:
   en: docToolchain is an open source project dedicated to automating the creation of technical documentation
 x:
   source: https://github.com/docToolchain/docToolchain
-  eget: https://github.com/docToolchain/docToolchain
+  eget: docToolchain/docToolchain
   asdf: doctoolchain
 rule:
   /eget:

@@ -6,7 +6,7 @@ desc:
   en: Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages
 x:
   source: https://github.com/bridgecrewio/checkov
-  eget: https://github.com/bridgecrewio/checkov
+  eget: bridgecrewio/checkov
   brew: checkov
   pip: checkov
   asdf: checkov

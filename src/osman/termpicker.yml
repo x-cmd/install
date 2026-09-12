@@ -5,7 +5,7 @@ desc:
   en: termpicker is a color picker that lets users visually select and preview colors in a truecolor terminal.
 x:
   source: https://github.com/ChausseBenjamin/termpicker
-  eget: https://github.com/ChausseBenjamin/termpicker
+  eget: ChausseBenjamin/termpicker
   yay: termpicker-bin
   go: github.com/ChausseBenjamin/termpicker@latest
 rule:

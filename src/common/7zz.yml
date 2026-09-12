@@ -5,7 +5,7 @@ desc:
   en: 7-Zip is a file archiver with a high compression ratio
 x:
   source: https://github.com/ip7z/7zip
-  eget: https://github.com/ip7z/7zip
+  eget: ip7z/7zip
 rule:
   /x:
     cmd: x pkg use 7zz

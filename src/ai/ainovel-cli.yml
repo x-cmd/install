@@ -6,7 +6,7 @@ desc:
   en: ✨多agent实现全自动AI小说生成
 x:
   source: https://github.com/voocel/ainovel-cli
-  eget: https://github.com/voocel/ainovel-cli
+  eget: voocel/ainovel-cli
 rule:
   /eget:
     cmd: x eget voocel/ainovel-cli

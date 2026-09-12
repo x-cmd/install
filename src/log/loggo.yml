@@ -6,7 +6,7 @@ desc:
   en: l'oGGo or Log & Go is a rich Terminal User Interface app written in golang that harness the power of your terminal to digest log streams based on JSON based logs.
 x:
   source: https://github.com/aurc/loggo
-  eget: https://github.com/aurc/loggo
+  eget: aurc/loggo
   brew: aurc/loggo/loggo
   yay: loggo
   go: github.com/aurc/loggo@latest

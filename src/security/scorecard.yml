@@ -6,7 +6,7 @@ desc:
   en: OpenSSF Scorecard - Security health metrics for Open Source
 x:
   source: https://github.com/ossf/scorecard
-  eget: https://github.com/ossf/scorecard
+  eget: ossf/scorecard
   brew: scorecard
   yay: scorecard-bin
 rule:

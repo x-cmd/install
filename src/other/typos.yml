@@ -6,7 +6,7 @@ desc:
   en: Source code spell checker
 x:
   source: https://github.com/crate-ci/typos
-  eget: https://github.com/crate-ci/typos
+  eget: crate-ci/typos
   brew: typos-cli
   yay: typos-git
   cargo: typos-cli

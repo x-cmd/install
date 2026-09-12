@@ -6,7 +6,7 @@ desc:
   en: NextTrace, an open source visual route tracking CLI tool
 x:
   source: https://github.com/nxtrace/NTrace-core
-  eget: https://github.com/nxtrace/NTrace-core
+  eget: nxtrace/NTrace-core
   apt: nexttrace
   brew: nexttrace
   scoop: extras/nexttrace

@@ -6,7 +6,7 @@ desc:
   en: 'QR code generator for text terminals (ANSI color, Unicode, Sixel)'
 x:
   source: https://github.com/fumiyas/qrc
-  eget: https://github.com/fumiyas/qrc
+  eget: fumiyas/qrc
 rule:
   /go:
     cmd: 'go install'

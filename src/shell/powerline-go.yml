@@ -6,7 +6,7 @@ desc:
   en: Powerline style prompt implemented in go
 x:
   source: https://github.com/justjanne/powerline-go
-  eget: https://github.com/justjanne/powerline-go
+  eget: justjanne/powerline-go
   brew: powerline-go
   yay: powerline-go
   go: github.com/justjanne/powerline-go@latest

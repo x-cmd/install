@@ -6,7 +6,7 @@ desc:
   en: 'A CLI code-typing game that turns your source code into typing challenges'
 x:
   source: https://github.com/unhappychoice/gittype
-  eget: https://github.com/unhappychoice/gittype
+  eget: unhappychoice/gittype
 rule:
   /cargo:
     cmd: 'cargo install'

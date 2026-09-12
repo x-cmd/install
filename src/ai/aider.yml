@@ -8,7 +8,6 @@ x:
   source: https://github.com/Aider-AI/aider
   brew: aider
   yay: aider-chat
-  pip: -U
 rule:
   /x:
     cmd: x pkg use aider

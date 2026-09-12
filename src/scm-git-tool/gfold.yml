@@ -6,13 +6,12 @@ desc:
   en: A CLI tool that helps you keep track of multiple Git repositories.
 x:
   source: https://github.com/nickgerace/gfold
-  eget: https://github.com/nickgerace/gfold
+  eget: nickgerace/gfold
   brew: gfold
   pacman: gfold
   apk: gfold
   port: gfold
   cargo: gfold
-  pkg: devel/gfold
 rule:
   /eget:
     cmd: x eget nickgerace/gfold

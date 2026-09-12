@@ -6,7 +6,7 @@ desc:
   en: Run your GitHub Actions locally
 x:
   source: https://github.com/nektos/act
-  eget: https://github.com/nektos/act
+  eget: nektos/act
   apt: artemis
   dnf: act-cli
   brew: act

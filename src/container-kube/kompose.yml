@@ -6,7 +6,7 @@ desc:
   en: Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift)
 x:
   source: https://github.com/kubernetes/kompose
-  eget: https://github.com/kubernetes/kompose
+  eget: kubernetes/kompose
   brew: kompose
   choco: kubernetes-kompose
   winget: Kubernetes.kompose

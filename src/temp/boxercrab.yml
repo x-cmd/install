@@ -6,7 +6,6 @@ desc:
   en: MySQL binlog parser impl with Rust
 x:
   source: https://github.com/PrivateRookie/boxercrab
-  cargo: --bin
 rule:
   /cargo:
     cmd: cargo install --bin bcrab --git https://github.com/PrivateRookie/boxercrab.git

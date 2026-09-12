@@ -6,7 +6,7 @@ desc:
   en: A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 x:
   source: https://github.com/ozgrozer/ai-renamer
-  eget: https://github.com/ozgrozer/ai-renamer
+  eget: ozgrozer/ai-renamer
 rule:
   /eget:
     cmd: x eget ozgrozer/ai-renamer

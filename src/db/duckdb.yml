@@ -6,7 +6,7 @@ desc:
   en: DuckDB is an in-process SQL OLAP database management system
 x:
   source: https://github.com/duckdb/duckdb
-  eget: https://github.com/duckdb/duckdb
+  eget: duckdb/duckdb
   brew: duckdb
   scoop: duckdb
   winget: DuckDB.cli

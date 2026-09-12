@@ -6,14 +6,12 @@ desc:
   en: A cross-platform command-line clipboard tool.
 x:
   source: https://github.com/Slackadays/Clipboard
-  eget: https://github.com/Slackadays/Clipboard
+  eget: Slackadays/Clipboard
   brew: clipboard
   apk: clipboard
   snap: clipboard
-  emerge: -av
   xbps: Clipboard
   scoop: clipboard
-  winget: -e
   flatpak: app.getclipboard.Clipboard
   pacstall: clipboard-bin
   yay: clipboard

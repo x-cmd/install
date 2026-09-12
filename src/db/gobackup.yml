@@ -6,8 +6,9 @@ desc:
   en: GoBackup is a backup tool specifically designed for application servers, used to regularly back up your databases (MySQL, PostgreSQL, Redis, MongoDB, SQLite, Microsoft SQL Server, InfluxDB, MariaDB, etcd) and files to cloud storage (FTP, SCP, S3, GCS, Alibaba Cloud OSS, etc.).
 x:
   source: https://github.com/gobackup/gobackup
-  eget: https://github.com/gobackup/gobackup
-  brew: gobackuprule:
+  eget: gobackup/gobackup
+  brew: gobackup
+rule:
   /x:
     cmd: x pkg use gobackup
     reference: https://x-cmd.com/install/

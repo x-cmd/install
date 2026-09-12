@@ -6,7 +6,7 @@ desc:
   en: 'TUI to list, search and run package.json scripts 🥃'
 x:
   source: https://github.com/thekarel/rum
-  eget: https://github.com/thekarel/rum
+  eget: thekarel/rum
 rule:
   /eget:
     cmd: x eget thekarel/rum

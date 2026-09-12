@@ -6,7 +6,7 @@ desc:
   en: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 x:
   source: https://github.com/santifer/career-ops
-  eget: https://github.com/santifer/career-ops
+  eget: santifer/career-ops
 rule:
   /eget:
     cmd: x eget santifer/career-ops

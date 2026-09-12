@@ -6,7 +6,7 @@ desc:
   en: 'A distraction-free writing environment; draft anything, write now.'
 x:
   source: https://github.com/andrewmd5/dawn
-  eget: https://github.com/andrewmd5/dawn
+  eget: andrewmd5/dawn
 rule:
   /eget:
     cmd: x eget andrewmd5/dawn

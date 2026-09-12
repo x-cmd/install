@@ -47,7 +47,8 @@ x:
   yum: w3m
   pacman: w3m
   apk: w3m
-  brew: w3mbinlist:
+  brew: w3m
+binlist:
 - w3m
 license: NOASSERTION
 

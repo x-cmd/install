@@ -6,9 +6,8 @@ desc:
   cn: FluentCI 是一个 CI/CD 工具，允许您构建、测试和部署代码
 x:
   source: https://github.com/fluentci-io/fluentci
-  eget: https://github.com/fluentci-io/fluentci
+  eget: fluentci-io/fluentci
   brew: fluentci-io/tap/cli
-  nix: --experimental-features
   yay: fluentci
 rule:
   /eget:

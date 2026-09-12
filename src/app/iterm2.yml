@@ -8,8 +8,8 @@ rule:
     cmd: brew install --cask iterm2
     reference: https://formulae.brew.sh/cask/iterm2#default
 
-x:
-  brew: --caskbinlist:
+x: {}
+binlist:
 - iterm2
 license: NOASSERTION
 

@@ -5,7 +5,7 @@ desc:
   en: Stack is a cross-platform program for developing Haskell projects. It is intended for Haskellers both new and experienced
 x:
   source: https://github.com/commercialhaskell/stack
-  eget: https://github.com/commercialhaskell/stack
+  eget: commercialhaskell/stack
   brew: haskell-stack
   yay: stack-bin
 rule:

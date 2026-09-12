@@ -6,7 +6,7 @@ desc:
   en: 'A minimal, lightning-fast typing TUI for your terminal'
 x:
   source: https://github.com/vyrx-dev/toofan
-  eget: https://github.com/vyrx-dev/toofan
+  eget: vyrx-dev/toofan
 rule:
   /eget:
     cmd: x eget vyrx-dev/toofan

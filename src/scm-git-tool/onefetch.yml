@@ -6,7 +6,7 @@ homepage: https://github.com/o2sh/onefetch
 license: MIT
 x:
   source: https://github.com/o2sh/onefetch
-  eget: https://github.com/o2sh/onefetch
+  eget: o2sh/onefetch
   apt: onefetch
   dnf: onefetch
   brew: onefetch
@@ -22,7 +22,6 @@ x:
   choco: onefetch
   winget: onefetch
   cargo: onefetch
-  pkg: onefetch
 rule:
   /x:
     cmd: x pkg use onefetch

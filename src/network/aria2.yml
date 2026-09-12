@@ -6,7 +6,7 @@ desc:
   en: An efficient compression algorithm and tool designed to provide fast compression and decompression speeds while maintaining a high compression ratio
 x:
   source: https://github.com/aria2/aria2
-  eget: https://github.com/aria2/aria2
+  eget: aria2/aria2
   apt: aria2
   dnf: aria2
   brew: aria2

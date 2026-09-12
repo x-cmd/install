@@ -6,7 +6,7 @@ desc:
   en: '🐼 CLI tool for compressing images using the TinyPNG'
 x:
   source: https://github.com/tarampampam/tinifier
-  eget: https://github.com/tarampampam/tinifier
+  eget: tarampampam/tinifier
 rule:
   /eget:
     cmd: x eget tarampampam/tinifier

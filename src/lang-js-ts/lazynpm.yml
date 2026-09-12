@@ -6,7 +6,7 @@ desc:
   en: A simple TUI for npm commands.
 x:
   source: https://github.com/jesseduffield/lazynpm
-  eget: https://github.com/jesseduffield/lazynpm
+  eget: jesseduffield/lazynpm
   brew: jesseduffield/lazynpm/lazynpm
   yay: lazynpm
   go: github.com/jesseduffield/lazynpm@latest

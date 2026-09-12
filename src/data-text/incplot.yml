@@ -6,7 +6,7 @@ desc:
   en: 'CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity'
 x:
   source: https://github.com/InCom-0/incplot
-  eget: https://github.com/InCom-0/incplot
+  eget: InCom-0/incplot
 rule:
   /eget:
     cmd: x eget InCom-0/incplot

@@ -6,7 +6,7 @@ desc:
   en: 'An AWS session and credential manager and SDK ✨'
 x:
   source: https://github.com/elva-labs/awsesh
-  eget: https://github.com/elva-labs/awsesh
+  eget: elva-labs/awsesh
 rule:
   /eget:
     cmd: x eget elva-labs/awsesh

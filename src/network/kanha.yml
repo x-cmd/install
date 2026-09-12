@@ -6,7 +6,7 @@ desc:
   en: '🦚 A web-app pentesting suite written in rust .'
 x:
   source: https://github.com/pwnwriter/kanha
-  eget: https://github.com/pwnwriter/kanha
+  eget: pwnwriter/kanha
 rule:
   /eget:
     cmd: x eget pwnwriter/kanha

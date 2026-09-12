@@ -5,7 +5,7 @@ desc:
   en: Local first cli-native issue tracker - distributed and backed by git
 x:
   source: https://github.com/ljtn/epiq
-  eget: https://github.com/ljtn/epiq
+  eget: ljtn/epiq
 rule:
   /eget:
     cmd: x eget ljtn/epiq

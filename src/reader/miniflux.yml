@@ -6,7 +6,7 @@ desc:
   en: A minimalist self-hosted RSS / Atom / JSON Feed reader. Go single binary + PostgreSQL.
 x:
   source: https://github.com/miniflux/v2
-  eget: https://github.com/miniflux/v2
+  eget: miniflux/v2
   brew: miniflux
   snap: miniflux
 rule:

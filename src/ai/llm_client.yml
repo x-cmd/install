@@ -6,7 +6,7 @@ desc:
   en: The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
 x:
   source: https://github.com/ShelbyJenkins/llm_client
-  eget: https://github.com/ShelbyJenkins/llm_client
+  eget: ShelbyJenkins/llm_client
 rule:
   /eget:
     cmd: x eget ShelbyJenkins/llm_client

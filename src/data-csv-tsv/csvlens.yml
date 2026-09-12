@@ -6,12 +6,11 @@ desc:
   en: csvlens is a command line CSV file viewer
 x:
   source: https://github.com/YS-L/csvlens
-  eget: https://github.com/YS-L/csvlens
+  eget: YS-L/csvlens
   brew: csvlens
   pacman: csvlens
   winget: YS-L.csvlens
   cargo: csvlens
-  pkg: csvlens
 rule:
   /x:
     cmd: x pkg use csvlens

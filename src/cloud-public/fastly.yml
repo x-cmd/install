@@ -6,7 +6,7 @@ homepage: https://github.com/fastly/cli
 license: Apache-2.0
 x:
   source: https://github.com/fastly/cli
-  eget: https://github.com/fastly/cli
+  eget: fastly/cli
   brew: fastly/tap/fastly
   yay: fastly-bin
 rule:

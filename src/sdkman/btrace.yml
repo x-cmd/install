@@ -6,7 +6,7 @@ desc:
   en: a safe, dynamic tracing tool for the Java platform
 x:
   source: https://github.com/btraceio/btrace
-  eget: https://github.com/btraceio/btrace
+  eget: btraceio/btrace
 rule:
   /eget:
     cmd: x eget btraceio/btrace

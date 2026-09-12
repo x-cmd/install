@@ -6,7 +6,7 @@ desc:
   en: hours is a no-frills time tracking toolkit for the command line.
 x:
   source: https://github.com/dhth/hours
-  eget: https://github.com/dhth/hours
+  eget: dhth/hours
   brew: dhth/tap/hours
   yay: hours
   go: github.com/dhth/hours@latest

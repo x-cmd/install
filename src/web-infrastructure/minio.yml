@@ -9,7 +9,6 @@ x:
   brew: minio/stable/minio
   yay: minio
   pip: minio
-  npm: --save
 rule:
   darwin/brew:
     cmd: 'brew install minio/stable/minio && \

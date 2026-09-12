@@ -6,7 +6,6 @@ desc:
   en: WeChat SILK audio converter — single Rust binary, no Python deps; decode/encode SILK to and from WAV/MP3/Opus/AAC, detect format, batch process
 x:
   source: https://github.com/ljh-sh/silk
-  cargo: --git
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/ljh-sh/silk

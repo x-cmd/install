@@ -6,7 +6,7 @@ desc:
   en: 'A happy toy chess engine, just for fun :) If you want a proper chess engine, check out Stockfish.'
 x:
   source: https://github.com/jart/chessy
-  eget: https://github.com/jart/chessy
+  eget: jart/chessy
 rule:
   /eget:
     cmd: x eget jart/chessy

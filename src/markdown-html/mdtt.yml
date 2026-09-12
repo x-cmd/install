@@ -6,7 +6,7 @@ desc:
   en: A TUI for editing markdown tables
 x:
   source: https://github.com/szktkfm/mdtt
-  eget: https://github.com/szktkfm/mdtt
+  eget: szktkfm/mdtt
   yay: mdtt
   go: github.com/szktkfm/mdtt/cmd/mdtt@latest
 rule:

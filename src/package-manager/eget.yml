@@ -6,7 +6,7 @@ desc:
   en: A command-line tool for easily fetching and extracting pre-built binaries from GitHub releases.
 x:
   source: https://github.com/zyedidia/eget
-  eget: https://github.com/zyedidia/eget
+  eget: zyedidia/eget
   brew: eget
   pacman: eget-bin
   scoop: eget

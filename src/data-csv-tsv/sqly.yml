@@ -6,7 +6,7 @@ desc:
   cn: sqly 是一个强大的命令行工具，能够对 CSV、TSV、LTSV、JSON 甚至 Microsoft Excel™ 文件执行 SQL 查询。
 x:
   source: https://github.com/nao1215/sqly
-  eget: https://github.com/nao1215/sqly
+  eget: nao1215/sqly
   brew: nao1215/tap/sqly
   go: github.com/nao1215/sqly@latest
 rule:

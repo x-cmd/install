@@ -6,7 +6,7 @@ desc:
   en: Lutris is a video game preservation platform aiming to keep your video game collection up and running for the years to come
 x:
   source: https://github.com/lutris/lutris
-  eget: https://github.com/lutris/lutris
+  eget: lutris/lutris
   apt: lutris
   dnf: lutris
   pacman: lutris

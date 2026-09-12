@@ -5,8 +5,9 @@ desc:
   cn: '加载和枚举 PKCS # 11 模块的库'
 x:
   source: https://github.com/p11-glue/p11-kit
-  eget: https://github.com/p11-glue/p11-kit
-  brew: p11-kitrule:
+  eget: p11-glue/p11-kit
+  brew: p11-kit
+rule:
   /eget:
     cmd: x eget p11-glue/p11-kit
     reference: https://x-cmd.com/mod/eget

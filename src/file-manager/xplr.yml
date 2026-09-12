@@ -6,7 +6,7 @@ desc:
   en: xplr is a terminal UI based file explorer that aims to increase our terminal productivity by being a flexible, interactive orchestrator for the ever growing awesome command-line utilities that work with the file-system
 x:
   source: https://github.com/sayanarijit/xplr
-  eget: https://github.com/sayanarijit/xplr
+  eget: sayanarijit/xplr
   brew: xplr
   pacman: xplr
   apk: xplr
@@ -14,8 +14,6 @@ x:
   port: xplr
   yay: xplr-git
   paru: xplr-git
-  cargo: --locked
-  pkg: xplr
 rule:
   /x:
     cmd: x pkg use xplr

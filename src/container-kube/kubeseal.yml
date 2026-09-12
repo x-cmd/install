@@ -6,7 +6,7 @@ desc:
   en: A Kubernetes controller and tool for one-way encrypted Secrets
 x:
   source: https://github.com/bitnami-labs/sealed-secrets
-  eget: https://github.com/bitnami-labs/sealed-secrets
+  eget: bitnami-labs/sealed-secrets
   brew: kubeseal
   port: kubeseal
   go: github.com/bitnami-labs/sealed-secrets/cmd/kubeseal@main

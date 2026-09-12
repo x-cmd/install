@@ -9,7 +9,6 @@ x:
   brew: nemu
   apk: nemu
   yay: nemu
-  pkg: nemu
 rule:
   alpine/apk:
     cmd: apk add nemu

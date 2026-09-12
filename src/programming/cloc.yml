@@ -6,7 +6,7 @@ desc:
   en: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 x:
   source: https://github.com/AlDanial/cloc
-  eget: https://github.com/AlDanial/cloc
+  eget: AlDanial/cloc
   apt: cloc
   dnf: cloc
   brew: cloc
@@ -14,12 +14,10 @@ x:
   apk: cloc
   yum: cloc
   port: cloc
-  emerge: -av
   scoop: cloc
   choco: cloc
   winget: AlDanial.Cloc
   npm: cloc
-  pkg: cloc
 rule:
   /eget:
     cmd: x eget AlDanial/cloc

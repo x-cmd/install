@@ -6,7 +6,7 @@ desc:
   en: A TUI for Terraform runtime progress.
 x:
   source: https://github.com/magodo/pipeform
-  eget: https://github.com/magodo/pipeform
+  eget: magodo/pipeform
   yay: pipeform
   go: github.com/magodo/pipeform@main
 rule:

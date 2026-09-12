@@ -6,8 +6,9 @@ desc:
   en: 'Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It sup...'
 x:
   source: https://github.com/okbob/pspg
-  eget: https://github.com/okbob/pspg
-  brew: pspgrule:
+  eget: okbob/pspg
+  brew: pspg
+rule:
   darwin/brew:
     cmd: 'brew install pspg'
     reference: https://github.com/okbob/pspg

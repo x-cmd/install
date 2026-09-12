@@ -6,7 +6,7 @@ desc:
   cn: age 是一个简单、现代和安全的文件加密工具、格式和 Go 库
 x:
   source: https://github.com/FiloSottile/age
-  eget: https://github.com/FiloSottile/age
+  eget: FiloSottile/age
   apt: age
   dnf: age
   brew: age

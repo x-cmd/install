@@ -6,7 +6,7 @@ desc:
   en: 'CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it'
 x:
   source: https://github.com/cuelang/cue
-  eget: https://github.com/cuelang/cue
+  eget: cuelang/cue
   brew: cue-lang/tap/cue
   scoop: cue
   go: cuelang.org/go/cmd/cue@latest

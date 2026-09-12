@@ -6,7 +6,7 @@ homepage: https://github.com/kevwan/tproxy
 license: MIT
 x:
   source: https://github.com/kevwan/tproxy
-  eget: https://github.com/kevwan/tproxy
+  eget: kevwan/tproxy
   scoop: tproxy
   go: github.com/kevwan/tproxy@latest
 rule:

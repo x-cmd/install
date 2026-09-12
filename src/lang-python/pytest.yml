@@ -6,7 +6,6 @@ desc:
   en: The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
 x:
   source: https://github.com/pytest-dev/pytest
-  pip: -U
 rule:
   /pip:
     cmd: pip install -U pytest

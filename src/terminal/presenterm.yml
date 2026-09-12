@@ -6,7 +6,7 @@ desc:
   en: 'A markdown terminal slideshow tool'
 x:
   source: https://github.com/mfontanini/presenterm
-  eget: https://github.com/mfontanini/presenterm
+  eget: mfontanini/presenterm
 rule:
   /eget:
     cmd: x eget mfontanini/presenterm

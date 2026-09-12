@@ -6,7 +6,7 @@ desc:
   en: 'MongoDB TUI manager designed to simplify data visualization and quick manipulation'
 x:
   source: https://github.com/kopecmaciej/vi-mongo
-  eget: https://github.com/kopecmaciej/vi-mongo
+  eget: kopecmaciej/vi-mongo
 rule:
   /eget:
     cmd: x eget kopecmaciej/vi-mongo

@@ -6,7 +6,7 @@ desc:
   en: A system resource monitoring tool that monitors system resources such as CPU, memory, hard disk, network, etc
 x:
   source: https://github.com/bvaisvil/zenith
-  eget: https://github.com/bvaisvil/zenith
+  eget: bvaisvil/zenith
   brew: zenith
   pacman: zenith
   deb-get: zenith

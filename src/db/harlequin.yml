@@ -6,7 +6,7 @@ desc:
   en: Harlequin is a SQL IDE for DuckDB, SQLite, and other databases that runs in your Terminal
 x:
   source: https://github.com/tconbeer/harlequin
-  eget: https://github.com/tconbeer/harlequin
+  eget: tconbeer/harlequin
   brew: harlequin
   yay: harlequin
   pip: harlequin

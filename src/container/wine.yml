@@ -55,7 +55,7 @@ x:
   pacman: wine
   apk: wine
   emerge: virtual/wine
-  brew: --caskbinlist:
+binlist:
 - wine
 license: NOASSERTION
 

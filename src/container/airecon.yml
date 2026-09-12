@@ -6,7 +6,7 @@ desc:
   en: AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assess...
 x:
   source: https://github.com/pikpikcu/airecon
-  eget: https://github.com/pikpikcu/airecon
+  eget: pikpikcu/airecon
 rule:
   /eget:
     cmd: x eget pikpikcu/airecon

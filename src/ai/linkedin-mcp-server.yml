@@ -6,7 +6,7 @@ desc:
   en: Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 x:
   source: https://github.com/stickerdaniel/linkedin-mcp-server
-  eget: https://github.com/stickerdaniel/linkedin-mcp-server
+  eget: stickerdaniel/linkedin-mcp-server
 rule:
   /eget:
     cmd: x eget stickerdaniel/linkedin-mcp-server

@@ -6,7 +6,7 @@ desc:
   en: ttyper is a terminal-based typing test built with Rust and Ratatui
 x:
   source: https://github.com/max-niederman/ttyper
-  eget: https://github.com/max-niederman/ttyper
+  eget: max-niederman/ttyper
   pacman: ttyper
   scoop: ttyper
   cargo: ttyper

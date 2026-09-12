@@ -6,7 +6,7 @@ desc:
   en: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 x:
   source: https://github.com/github/copilot-cli
-  eget: https://github.com/github/copilot-cli
+  eget: github/copilot-cli
   brew: copilot-cli
   winget: GitHub.Copilot
   npm: "@github/copilot"

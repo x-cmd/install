@@ -6,7 +6,7 @@ desc:
   en: Programming language that compiles to Bash
 x:
   source: https://github.com/amber-lang/Amber
-  eget: https://github.com/amber-lang/Amber
+  eget: amber-lang/Amber
   brew: amber-lang/amber/amber-lang
   yay: amber-bash-bin
 rule:

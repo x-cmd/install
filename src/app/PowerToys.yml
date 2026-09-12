@@ -6,7 +6,7 @@ desc:
   cn: MicrosoftPowerToys 是一组工具，供高级用户优化和简化 Windows 体验，以提高生产力
 x:
   source: https://github.com/microsoft/PowerToys
-  eget: https://github.com/microsoft/PowerToys
+  eget: microsoft/PowerToys
   scoop: powertoys
   choco: powertoys
   winget: Microsoft.PowerToys

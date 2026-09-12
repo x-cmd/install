@@ -8,7 +8,7 @@ desc:
 
 x:
   source: https://github.com/smol-machines/smolvm
-  eget: https://github.com/smol-machines/smolvm
+  eget: smol-machines/smolvm
 rule:
   /eget:
     cmd: x eget smol-machines/smolvm

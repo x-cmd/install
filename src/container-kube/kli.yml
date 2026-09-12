@@ -6,7 +6,7 @@ desc:
   en: 'A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.'
 x:
   source: https://github.com/bjarneo/ku
-  eget: https://github.com/bjarneo/ku
+  eget: bjarneo/ku
 rule:
   /eget:
     cmd: x eget bjarneo/ku

@@ -12,8 +12,8 @@ rule:
     cmd: curl -L -o tolaria.dmg https://github.com/refactoringhq/tolaria/releases/latest
     reference: https://refactoringhq.github.io/tolaria/download/
 
-x:
-  brew: --caskbinlist:
+x: {}
+binlist:
 - tolaria
 # complicated
 footprint:

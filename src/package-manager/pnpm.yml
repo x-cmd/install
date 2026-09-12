@@ -6,7 +6,7 @@ desc:
   en: Fast, disk space efficient package manager
 x:
   source: https://github.com/pnpm/pnpm
-  eget: https://github.com/pnpm/pnpm
+  eget: pnpm/pnpm
   brew: pnpm
   scoop: nodejs-lts
   choco: pnpm

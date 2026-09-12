@@ -6,12 +6,12 @@ desc:
   en: Monocraft is a font for developers who like Minecraft a little too much
 x:
   source: https://github.com/IdreesInc/Monocraft
-  eget: https://github.com/IdreesInc/Monocraft
-  brew: homebrew/cask-fonts/--caskrule:
+  eget: IdreesInc/Monocraft
+  brew: homebrew/cask-fonts/--cask
+rule:
   /eget:
     cmd: x eget IdreesInc/Monocraft
     reference: https://x-cmd.com/mod/eget
-    reference: https://github.com/IdreesInc/Monocraft?tab=readme-ov-file#windows
   darwin/brew:
     cmd: 'brew tap homebrew/cask-fonts \
 

@@ -6,7 +6,7 @@ desc:
   en: CLI tool to declaratively deploy containers with Caddy
 x:
   source: https://github.com/scmmishra/slick-deploy
-  eget: https://github.com/scmmishra/slick-deploy
+  eget: scmmishra/slick-deploy
 rule:
   /x:
     cmd: x pkg use slick

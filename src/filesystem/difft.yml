@@ -6,7 +6,7 @@ desc:
   en: Difftastic is a structural diff tool that compares files based on their syntax.
 x:
   source: https://github.com/Wilfred/difftastic
-  eget: https://github.com/Wilfred/difftastic
+  eget: Wilfred/difftastic
   brew: difftastic
   yay: difftastic-git
 rule:

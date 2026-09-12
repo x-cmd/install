@@ -6,7 +6,6 @@ desc:
   en: Adds an auditable knowledge graph and decision intelligence layer to AI agent systems for improved governance, reasoning, and explainability.
 x:
   source: https://github.com/semantica-agi/semantica
-  pip: -U
 rule:
   /pip:
     cmd: pip install -U semantica

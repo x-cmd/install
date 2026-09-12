@@ -6,7 +6,7 @@ desc:
   en: Powerful AI Client
 x:
   source: https://github.com/chatboxai/chatbox
-  eget: https://github.com/chatboxai/chatbox
+  eget: chatboxai/chatbox
 rule:
   /eget:
     cmd: x eget chatboxai/chatbox

@@ -6,7 +6,7 @@ desc:
   en: 'For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp'
 x:
   source: https://github.com/KoboldAI/KoboldAI-Client
-  eget: https://github.com/KoboldAI/KoboldAI-Client
+  eget: KoboldAI/KoboldAI-Client
 rule:
   /eget:
     cmd: x eget KoboldAI/KoboldAI-Client

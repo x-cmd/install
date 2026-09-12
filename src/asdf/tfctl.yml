@@ -6,7 +6,7 @@ desc:
   en: Weave GitOps' Terraform Controller (aka Weave TF-Controller) is a controller for Flux to reconcile Terraform resources in the GitOps way
 x:
   source: https://github.com/weaveworks/tf-controller
-  eget: https://github.com/weaveworks/tf-controller
+  eget: weaveworks/tf-controller
   asdf: tfctl
 rule:
   /eget:

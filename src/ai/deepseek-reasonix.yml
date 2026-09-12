@@ -6,7 +6,7 @@ desc:
   en: Run a cost-efficient AI coding agent in your terminal, specifically engineered for DeepSeek's prefix-caching to minimize API costs.
 x:
   source: https://github.com/esengine/DeepSeek-Reasonix
-  eget: https://github.com/esengine/DeepSeek-Reasonix
+  eget: esengine/DeepSeek-Reasonix
 rule:
   /eget:
     cmd: x eget esengine/DeepSeek-Reasonix

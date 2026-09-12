@@ -6,7 +6,7 @@ desc:
   en: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 x:
   source: https://github.com/harry0703/MoneyPrinterTurbo
-  eget: https://github.com/harry0703/MoneyPrinterTurbo
+  eget: harry0703/MoneyPrinterTurbo
 rule:
   /eget:
     cmd: x eget harry0703/MoneyPrinterTurbo

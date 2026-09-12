@@ -6,7 +6,7 @@ desc:
   en: Simple implementation of OpenAI CLIP model in PyTorch.
 x:
   source: https://github.com/moein-shariatnia/OpenAI-CLIP
-  eget: https://github.com/moein-shariatnia/OpenAI-CLIP
+  eget: moein-shariatnia/OpenAI-CLIP
 rule:
   /eget:
     cmd: x eget moein-shariatnia/OpenAI-CLIP

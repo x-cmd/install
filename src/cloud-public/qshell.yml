@@ -6,7 +6,7 @@ desc:
   en: Shell Tools for Qiniu Cloud
 x:
   source: https://github.com/qiniu/qshell
-  eget: https://github.com/qiniu/qshell
+  eget: qiniu/qshell
   yay: qiniu-qshell-bin
 rule:
   /x:

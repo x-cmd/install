@@ -5,7 +5,7 @@ desc:
   en: a tool for running and managing bioinformatics pipelines
 x:
   source: https://github.com/ssadedin/bpipe
-  eget: https://github.com/ssadedin/bpipe
+  eget: ssadedin/bpipe
 rule:
   /eget:
     cmd: x eget ssadedin/bpipe

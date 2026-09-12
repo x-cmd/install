@@ -6,8 +6,9 @@ desc:
   en: Augeas is a configuration editing tool
 x:
   source: https://github.com/hercules-team/augeas
-  eget: https://github.com/hercules-team/augeas
-  brew: augeasrule:
+  eget: hercules-team/augeas
+  brew: augeas
+rule:
   /eget:
     cmd: x eget hercules-team/augeas
     reference: https://x-cmd.com/mod/eget

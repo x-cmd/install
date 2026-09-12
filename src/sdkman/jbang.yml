@@ -6,7 +6,7 @@ desc:
   en: Enables students, educators, and professional developers to create, edit, and run standalone source-only Java programs easier than ever
 x:
   source: https://github.com/jbangdev/jbang
-  eget: https://github.com/jbangdev/jbang
+  eget: jbangdev/jbang
   dnf: jbang
   brew: jbangdev/tap/jbang
   scoop: jbang

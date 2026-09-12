@@ -6,7 +6,6 @@ desc:
   en: Ulp is a command-line tool that can be used to find and interact with URLs from a given input.
 x:
   source: https://github.com/victal/ulp
-  pip: -U
 rule:
   /x:
     cmd: x pkg use ulp

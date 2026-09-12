@@ -6,7 +6,7 @@ desc:
   en: dog is an open-source DNS client for the command-line
 x:
   source: https://github.com/ogham/dog
-  eget: https://github.com/ogham/dog
+  eget: ogham/dog
   scoop: dog
 rule:
   /eget:

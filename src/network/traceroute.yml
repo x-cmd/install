@@ -5,7 +5,7 @@ desc:
   en: A network diagnostic tool used to track the path of data packets from the source host to the target host
 x:
   source: https://github.com/iputils/iputils
-  eget: https://github.com/iputils/iputils
+  eget: iputils/iputils
   apt: traceroute
   dnf: traceroute-3
   pacman: traceroute

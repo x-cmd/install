@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/pyqt-builder#default
 
 x:
-  brew: pyqt-builderbinlist:
+  brew: pyqt-builder
+binlist:
 - pyqt-builder
 license: NOASSERTION
 

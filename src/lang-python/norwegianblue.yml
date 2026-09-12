@@ -6,7 +6,6 @@ desc:
   en: CLI to show end-of-life dates for a number of products. Such as Python, Ubuntu, Centos.
 x:
   source: https://github.com/hugovk/norwegianblue
-  pip: --upgrade
 rule:
   /x:
     cmd: x pkg use norwegianblue

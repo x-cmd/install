@@ -11,7 +11,7 @@ rule:
     dsnap: textual-paint
 
 x:
-  pip: textual-paint'
+  pip: textual-paint
 binlist:
   - 'textual-paint'
 

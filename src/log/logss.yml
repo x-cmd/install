@@ -6,7 +6,7 @@ desc:
   en: 'A simple cli for logs splitting'
 x:
   source: https://github.com/todoesverso/logss
-  eget: https://github.com/todoesverso/logss
+  eget: todoesverso/logss
 rule:
   /eget:
     cmd: x eget todoesverso/logss

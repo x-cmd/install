@@ -6,7 +6,7 @@ desc:
   en: 'Bold Brew (bbrew) - A Homebrew TUI Manager'
 x:
   source: https://github.com/Valkyrie00/bold-brew
-  eget: https://github.com/Valkyrie00/bold-brew
+  eget: Valkyrie00/bold-brew
 rule:
   /eget:
     cmd: x eget Valkyrie00/bold-brew

@@ -6,10 +6,9 @@ desc:
   cn: Ox 是一款文本编辑器，可以用来编写从文本到代码的各种内容。
 x:
   source: https://github.com/curlpipe/ox
-  eget: https://github.com/curlpipe/ox
+  eget: curlpipe/ox
   brew: ox
   port: ox
-  cargo: --git
 rule:
   /eget:
     cmd: x eget curlpipe/ox

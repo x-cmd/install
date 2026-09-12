@@ -6,7 +6,8 @@ desc:
   en: The Modern Port Scanner
 x:
   source: https://github.com/RustScan/RustScan
-  brew: rustscanrule:
+  brew: rustscan
+rule:
   /x:
     cmd: x pkg use rustscan
     reference: https://x-cmd.com/install/

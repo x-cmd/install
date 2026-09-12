@@ -6,7 +6,7 @@ desc:
   en: A git prepare-commit-msg hook for authoring commit messages with LLMs.
 x:
   source: https://github.com/zurawiki/gptcommit
-  eget: https://github.com/zurawiki/gptcommit
+  eget: zurawiki/gptcommit
 rule:
   /eget:
     cmd: x eget zurawiki/gptcommit

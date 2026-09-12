@@ -8,7 +8,6 @@ x:
   source: https://github.com/dbcli/litecli
   brew: litecli
   yay: litecli
-  pip: -U
 rule:
   /x:
     cmd: x pkg use litecli

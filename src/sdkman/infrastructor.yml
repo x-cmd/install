@@ -6,7 +6,7 @@ desc:
   en: Infrastructor is a server provisioning and configuration management tool written in Groovy programming language
 x:
   source: https://github.com/infrastructor/infrastructor
-  eget: https://github.com/infrastructor/infrastructor
+  eget: infrastructor/infrastructor
 rule:
   /eget:
     cmd: x eget infrastructor/infrastructor

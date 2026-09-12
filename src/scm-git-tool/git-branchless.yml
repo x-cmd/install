@@ -6,7 +6,7 @@ desc:
   en: git-branchless is a suite of tools which enhances Git in several ways
 x:
   source: https://github.com/arxanas/git-branchless
-  eget: https://github.com/arxanas/git-branchless
+  eget: arxanas/git-branchless
   brew: git-branchless
   scoop: git-branchless
   cargo: git-branchless

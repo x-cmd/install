@@ -6,12 +6,11 @@ desc:
   en: trdsql is a CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN files.
 x:
   source: https://github.com/noborus/trdsql
-  eget: https://github.com/noborus/trdsql
+  eget: noborus/trdsql
   brew: noborus/tap/trdsql
   port: trdsql
   yay: trdsql
   asdf: trdsql
-  pkg: trdsql
 rule:
   /x:
     cmd: x pkg use trdsql

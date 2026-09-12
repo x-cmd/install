@@ -6,7 +6,7 @@ desc:
   en: GitHub's official MCP Server
 x:
   source: https://github.com/github/github-mcp-server
-  eget: https://github.com/github/github-mcp-server
+  eget: github/github-mcp-server
 rule:
   /eget:
     cmd: x eget github/github-mcp-server

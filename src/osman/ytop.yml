@@ -6,7 +6,7 @@ desc:
   en: A TUI system monitor written in Rust
 x:
   source: https://github.com/cjbassi/ytop
-  eget: https://github.com/cjbassi/ytop
+  eget: cjbassi/ytop
   dnf: ytop
   brew: cjbassi/ytop/ytop
   yay: ytop

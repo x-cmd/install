@@ -6,7 +6,7 @@ desc:
   en: A youtube-dl fork with additional features and fixes
 x:
   source: https://github.com/yt-dlp/yt-dlp
-  eget: https://github.com/yt-dlp/yt-dlp
+  eget: yt-dlp/yt-dlp
   apt: yt-dlp
   brew: yt-dlp
   port: yt-dlp
@@ -14,7 +14,6 @@ x:
   choco: yt-dlp
   winget: yt-dlp
   yay: yt-dlp-git
-  pip: -U
   pacman: yt-dlp
 rule:
   /eget:

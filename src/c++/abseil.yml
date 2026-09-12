@@ -6,7 +6,7 @@ desc:
   en: Abseil is an open-source collection of C++ code (compliant to C++14) designed to augment the C++ standard library
 x:
   source: https://github.com/abseil/abseil-cpp
-  eget: https://github.com/abseil/abseil-cpp
+  eget: abseil/abseil-cpp
   brew: abseil
   yay: abseil-cpp-git
 rule:

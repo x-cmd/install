@@ -6,7 +6,7 @@ desc:
   en: A TUI Git client inspired by Magit
 x:
   source: https://github.com/altsem/gitu
-  eget: https://github.com/altsem/gitu
+  eget: altsem/gitu
   brew: gitu
   pacman: gitu
   cargo: gitu

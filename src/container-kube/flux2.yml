@@ -6,7 +6,7 @@ desc:
   en: Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible
 x:
   source: https://github.com/fluxcd/flux2
-  eget: https://github.com/fluxcd/flux2
+  eget: fluxcd/flux2
   brew: fluxcd/tap/flux
   scoop: main/flux
   choco: flux

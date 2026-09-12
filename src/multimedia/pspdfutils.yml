@@ -6,7 +6,7 @@ desc:
   en: PSUtils is a suite of utilities for manipulating PDF and PostScript documents
 x:
   source: https://github.com/rrthomas/psutils
-  eget: https://github.com/rrthomas/psutils
+  eget: rrthomas/psutils
   pip: pspdfutils
 rule:
   /eget:

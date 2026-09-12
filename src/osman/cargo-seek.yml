@@ -6,7 +6,7 @@ desc:
   en: 'A terminal user interface for searching, adding and installing cargo crates.'
 x:
   source: https://github.com/tareqimbasher/cargo-seek
-  eget: https://github.com/tareqimbasher/cargo-seek
+  eget: tareqimbasher/cargo-seek
 rule:
   /eget:
     cmd: x eget tareqimbasher/cargo-seek

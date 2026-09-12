@@ -6,7 +6,7 @@ desc:
   en: smartctl is a command-line suite or tool that implements SMART tasks under Unix-like systems
 x:
   source: https://github.com/smartmontools/smartmontools
-  eget: https://github.com/smartmontools/smartmontools
+  eget: smartmontools/smartmontools
   apt: smartmontools
   dnf: smartmontools-1
   brew: smartmontools

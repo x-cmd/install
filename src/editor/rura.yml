@@ -6,7 +6,7 @@ desc:
   en: 'Interactive TUI scratchpad for building shell pipelines'
 x:
   source: https://github.com/tlipinski/rura
-  eget: https://github.com/tlipinski/rura
+  eget: tlipinski/rura
 rule:
   /eget:
     cmd: x eget tlipinski/rura

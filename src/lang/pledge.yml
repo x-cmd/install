@@ -6,7 +6,7 @@ desc:
   en: OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
 x:
   source: https://github.com/jart/pledge
-  eget: https://github.com/jart/pledge
+  eget: jart/pledge
 rule:
   /eget:
     cmd: x eget jart/pledge

@@ -6,11 +6,10 @@ desc:
   en: A log file highlighter
 x:
   source: https://github.com/bensadeh/tailspin
-  eget: https://github.com/bensadeh/tailspin
+  eget: bensadeh/tailspin
   brew: tailspin
   pacman: tailspin
   cargo: tailspin
-  pkg: tailspin
 rule:
   /eget:
     cmd: x eget bensadeh/tailspin

@@ -6,7 +6,7 @@ desc:
   en: nkt is a command line tool for helping you track and build your notes, todo lists, habits, and more.
 x:
   source: https://github.com/fjebaker/nkt
-  eget: https://github.com/fjebaker/nkt
+  eget: fjebaker/nkt
 rule:
   /eget:
     cmd: x eget fjebaker/nkt

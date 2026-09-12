@@ -6,7 +6,7 @@ desc:
   en: '✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows'
 x:
   source: https://github.com/ChatGPTNextWeb/NextChat
-  eget: https://github.com/ChatGPTNextWeb/NextChat
+  eget: ChatGPTNextWeb/NextChat
 rule:
   /eget:
     cmd: x eget ChatGPTNextWeb/NextChat

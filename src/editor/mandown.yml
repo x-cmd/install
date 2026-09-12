@@ -6,7 +6,7 @@ desc:
   en: 'man-page inspired Markdown viewer'
 x:
   source: https://github.com/Titor8115/mandown
-  eget: https://github.com/Titor8115/mandown
+  eget: Titor8115/mandown
 rule:
   /eget:
     cmd: x eget Titor8115/mandown

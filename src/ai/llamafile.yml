@@ -6,7 +6,7 @@ desc:
   en: 'Distribute and run LLMs with a single file.'
 x:
   source: https://github.com/Mozilla-Ocho/llamafile
-  eget: https://github.com/Mozilla-Ocho/llamafile
+  eget: Mozilla-Ocho/llamafile
 rule:
   /eget:
     cmd: x eget Mozilla-Ocho/llamafile

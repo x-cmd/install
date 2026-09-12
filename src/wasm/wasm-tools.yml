@@ -6,7 +6,7 @@ desc:
   en: CLI and Rust libraries for low-level manipulation of WebAssembly modules
 x:
   source: https://github.com/bytecodealliance/wasm-tools
-  eget: https://github.com/bytecodealliance/wasm-tools
+  eget: bytecodealliance/wasm-tools
   yay: wasm-tools-git
   cargo: wasm-tools
 rule:

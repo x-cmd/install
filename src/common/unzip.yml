@@ -52,7 +52,8 @@ x:
   pacman: unzip
   apk: unzip
   emerge: app-arch/unzip
-  brew: unzipbinlist:
+  brew: unzip
+binlist:
 - unzip
 license: NOASSERTION
 

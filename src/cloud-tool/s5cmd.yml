@@ -6,12 +6,11 @@ desc:
   en: A very fast S3 and local filesystem execution tool.
 x:
   source: https://github.com/peak/s5cmd
-  eget: https://github.com/peak/s5cmd
+  eget: peak/s5cmd
   brew: peak/tap/s5cmd
   port: s5cmd
   yay: s5cmd
   go: github.com/peak/s5cmd/v2@master
-  pkg: s5cmd
 rule:
   /eget:
     cmd: x eget peak/s5cmd

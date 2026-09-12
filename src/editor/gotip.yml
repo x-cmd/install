@@ -6,7 +6,7 @@ desc:
   en: 'Go Test Interactive Picker 🧪'
 x:
   source: https://github.com/lusingander/gotip
-  eget: https://github.com/lusingander/gotip
+  eget: lusingander/gotip
 rule:
   /eget:
     cmd: x eget lusingander/gotip

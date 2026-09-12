@@ -6,7 +6,7 @@ desc:
   en: Pkgx is a blazingly fast, standalone, cross‐platform binary that runs anything
 x:
   source: https://github.com/pkgxdev/pkgx
-  eget: https://github.com/pkgxdev/pkgx
+  eget: pkgxdev/pkgx
   brew: pkgxdev/made/pkgx
   yay: pkgx
 rule:

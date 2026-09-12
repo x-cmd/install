@@ -6,7 +6,7 @@ desc:
   en: 'a creative coding environment for the terminal :fireworks:'
 x:
   source: https://github.com/emprcl/runal
-  eget: https://github.com/emprcl/runal
+  eget: emprcl/runal
 rule:
   /eget:
     cmd: x eget emprcl/runal

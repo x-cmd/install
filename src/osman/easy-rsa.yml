@@ -5,7 +5,7 @@ desc:
   en: Easy-rsa is a CLI utility to build and manage a PKI CA
 x:
   source: https://github.com/OpenVPN/easy-rsa
-  eget: https://github.com/OpenVPN/easy-rsa
+  eget: OpenVPN/easy-rsa
   apt: easy-rsa
   dnf: easy-rsa
   brew: easy-rsa

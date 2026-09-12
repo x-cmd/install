@@ -6,7 +6,7 @@ desc:
   en: Termscp is a feature rich terminal file transfer and explorer, with support for SCP/SFTP/FTP/S3
 x:
   source: https://github.com/veeso/termscp
-  eget: https://github.com/veeso/termscp
+  eget: veeso/termscp
   pacman: termscp
   choco: termscp
 rule:

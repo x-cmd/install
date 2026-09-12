@@ -5,7 +5,7 @@ desc:
   en: An open-source package management and environment management system for installing, running, and updating packages and their dependencies across multiple languages and platforms. Widely used in scientific computing and data science
 x:
   source: https://github.com/conda/conda
-  eget: https://github.com/conda/conda
+  eget: conda/conda
   dnf: conda
   yay: python-conda
 rule:

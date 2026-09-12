@@ -14,8 +14,6 @@ x:
   zypper: python-Glances
   port: glances
   yay: glances-git
-  pip: --user
-  pkg: py39-glances
 rule:
   /x:
     cmd: x pkg use glances

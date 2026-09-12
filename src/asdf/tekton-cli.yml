@@ -6,8 +6,7 @@ desc:
   en: A CLI for interacting with Tekton
 x:
   source: https://github.com/tektoncd/cli
-  eget: https://github.com/tektoncd/cli
-  apt: -y
+  eget: tektoncd/cli
   dnf: tektoncd-cli
   brew: tektoncd-cli
   pacman: tekton-cli

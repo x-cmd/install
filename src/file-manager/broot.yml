@@ -6,7 +6,7 @@ desc:
   en: '`broot` is a terminal-based file manager that allows for quick locating and manipulation of files and directories. It enables sorting, filtering, and operations on files and directories based on various criteria'
 x:
   source: https://github.com/Canop/broot
-  eget: https://github.com/Canop/broot
+  eget: Canop/broot
   apt: broot
   brew: broot
   apk: broot
@@ -16,7 +16,6 @@ x:
   emerge: broot
   scoop: broot
   yay: broot-git
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget Canop/broot

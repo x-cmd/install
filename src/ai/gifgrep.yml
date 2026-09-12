@@ -6,7 +6,7 @@ desc:
   en: Grep the GIF. Stick the landing.
 x:
   source: https://github.com/steipete/gifgrep
-  eget: https://github.com/steipete/gifgrep
+  eget: steipete/gifgrep
 rule:
   /eget:
     cmd: x eget steipete/gifgrep

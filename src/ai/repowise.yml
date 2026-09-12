@@ -6,7 +6,7 @@ desc:
   en: Indexes a codebase's dependencies, git history, and architecture to provide deep context to AI coding agents, improving answer quality and token efficiency.
 x:
   source: https://github.com/repowise-dev/repowise
-  eget: https://github.com/repowise-dev/repowise
+  eget: repowise-dev/repowise
 rule:
   /eget:
     cmd: x eget repowise-dev/repowise

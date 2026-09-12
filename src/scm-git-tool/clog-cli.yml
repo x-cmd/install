@@ -6,7 +6,7 @@ desc:
   en: clog creates a changelog automatically from your local git metadata
 x:
   source: https://github.com/clog-tool/clog-cli
-  eget: https://github.com/clog-tool/clog-cli
+  eget: clog-tool/clog-cli
   yay: clog-bin
   cargo: clog-cli
 rule:

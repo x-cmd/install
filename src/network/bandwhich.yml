@@ -6,13 +6,12 @@ desc:
   en: bandwhich is a CLI utility for displaying current network utilization by process, connection and remote IP/hostname
 x:
   source: https://github.com/imsnif/bandwhich
-  eget: https://github.com/imsnif/bandwhich
+  eget: imsnif/bandwhich
   dnf: bandwhich
   brew: bandwhich
   pacman: bandwhich
   port: bandwhich
   yay: bandwhich-git
-  pkg: bandwhich
 rule:
   /x:
     cmd: x pkg use bandwhich

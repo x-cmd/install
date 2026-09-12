@@ -6,7 +6,7 @@ desc:
   en: scli is a simple terminal user interface for Signal. It uses signal-cli and urwid.
 x:
   source: https://github.com/isamert/scli
-  eget: https://github.com/isamert/scli
+  eget: isamert/scli
   apt: python3-scli
   apt-get: python3-scli
   yay: scli-git

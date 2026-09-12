@@ -6,11 +6,8 @@ desc:
   en: DDEV is an open source tool for launching local web development environments in minutes. It supports PHP and Node.js.
 x:
   source: https://github.com/ddev/ddev
-  eget: https://github.com/ddev/ddev
-  apt: -y
-  dnf: --refresh
+  eget: ddev/ddev
   brew: ddev/ddev/ddev
-  apt-get: -y
   yay: ddev-bin
 rule:
   /eget:

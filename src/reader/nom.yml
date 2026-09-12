@@ -6,7 +6,7 @@ desc:
   cn: 终端上的 RSS 阅读器
 x:
   source: https://github.com/guyfedwards/nom
-  eget: https://github.com/guyfedwards/nom
+  eget: guyfedwards/nom
   go: github.com/guyfedwards/nom/cmd/nom@latest
 rule:
   /eget:

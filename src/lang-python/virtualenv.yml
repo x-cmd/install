@@ -6,14 +6,13 @@ desc:
   en: virtualenv is a tool to create isolated Python environments
 x:
   source: https://github.com/pypa/virtualenv
-  eget: https://github.com/pypa/virtualenv
+  eget: pypa/virtualenv
   apt: virtualenv
   dnf: virtualenv
   brew: virtualenv
   pacman: virtualenv
   apt-get: virtualenv
   yum: virtualenv
-  pip: --user
 rule:
   /eget:
     cmd: x eget pypa/virtualenv

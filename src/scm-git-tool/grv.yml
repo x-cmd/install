@@ -6,10 +6,9 @@ desc:
   en: GRV is a terminal based interface for viewing Git repositories.
 x:
   source: https://github.com/rgburke/grv
-  eget: https://github.com/rgburke/grv
+  eget: rgburke/grv
   brew: grv
   yay: grv
-  pkg: grv
 rule:
   /eget:
     cmd: x eget rgburke/grv

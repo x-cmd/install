@@ -6,9 +6,8 @@ desc:
   en: An interactive CLI for creating conventional commits
 x:
   source: https://github.com/cococonscious/koji
-  eget: https://github.com/cococonscious/koji
+  eget: cococonscious/koji
   yay: git-koji-bin
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget cococonscious/koji

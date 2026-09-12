@@ -6,7 +6,7 @@ homepage: https://github.com/macchina-cli/macchina
 license: MIT
 x:
   source: https://github.com/macchina-cli/macchina
-  eget: https://github.com/macchina-cli/macchina
+  eget: macchina-cli/macchina
   brew: macchina
   zypper: macchina
   yay: macchina-git

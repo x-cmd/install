@@ -6,7 +6,7 @@ desc:
   en: Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration
 x:
   source: https://github.com/FairwindsOps/polaris
-  eget: https://github.com/FairwindsOps/polaris
+  eget: FairwindsOps/polaris
   brew: reactiveops/tap/polaris
   asdf: polaris
 rule:

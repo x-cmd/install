@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based HTTP client for REST and gRPC APIs'
 x:
   source: https://github.com/pranav-cs-1/nexus
-  eget: https://github.com/pranav-cs-1/nexus
+  eget: pranav-cs-1/nexus
 rule:
   /eget:
     cmd: x eget pranav-cs-1/nexus

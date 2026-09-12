@@ -6,7 +6,7 @@ desc:
   en: Okteto is a platform that simplifies the process of launching cloud development environments without requiring the expertise to do this yourself
 x:
   source: https://github.com/okteto/okteto
-  eget: https://github.com/okteto/okteto
+  eget: okteto/okteto
   brew: okteto
   scoop: okteto
   asdf: okteto

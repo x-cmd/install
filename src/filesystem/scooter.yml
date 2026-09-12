@@ -6,7 +6,7 @@ desc:
   en: 'Interactive find-and-replace in the terminal'
 x:
   source: https://github.com/thomasschafer/scooter
-  eget: https://github.com/thomasschafer/scooter
+  eget: thomasschafer/scooter
 rule:
   /eget:
     cmd: x eget thomasschafer/scooter

@@ -6,7 +6,7 @@ desc:
   en: GPTScript is a new scripting language to automate your interaction with a Large Language Model (LLM), namely OpenAI
 x:
   source: https://github.com/gptscript-ai/gptscript
-  eget: https://github.com/gptscript-ai/gptscript
+  eget: gptscript-ai/gptscript
   brew: gptscript-ai/tap/gptscript
   scoop: gptscript
   winget: gptscript-ai.gptscript

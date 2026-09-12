@@ -6,10 +6,9 @@ desc:
   en: Litestream is a standalone disaster recovery tool for SQLite
 x:
   source: https://github.com/benbjohnson/litestream
-  eget: https://github.com/benbjohnson/litestream
+  eget: benbjohnson/litestream
   brew: benbjohnson/litestream/litestream
   yay: litestream
-  go: ./cmd/litestream
 rule:
   /eget:
     cmd: x eget benbjohnson/litestream

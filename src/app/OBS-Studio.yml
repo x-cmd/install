@@ -6,9 +6,8 @@ desc:
   en: Free and open source software for video recording and live streaming
 x:
   source: https://github.com/obsproject/obs-studio
-  eget: https://github.com/obsproject/obs-studio
+  eget: obsproject/obs-studio
   apt: obs-studio
-  brew: --cask
   pacman: obs-studio
   apt-get: obs-studio
   scoop: extras/obs-studio

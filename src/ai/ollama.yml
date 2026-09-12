@@ -6,7 +6,7 @@ desc:
   en: Get up and running with Llama 2, Mistral, and other large language models
 x:
   source: https://github.com/ollama/ollama
-  eget: https://github.com/ollama/ollama
+  eget: ollama/ollama
   brew: ollama
   yay: ollama-bin
 rule:

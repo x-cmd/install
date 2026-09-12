@@ -6,7 +6,7 @@ desc:
   en: 'A fast and convenient TUI file browser for remote servers'
 x:
   source: https://github.com/JayanAXHF/filessh
-  eget: https://github.com/JayanAXHF/filessh
+  eget: JayanAXHF/filessh
 rule:
   /eget:
     cmd: x eget JayanAXHF/filessh

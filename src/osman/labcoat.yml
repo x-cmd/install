@@ -6,7 +6,7 @@ desc:
   en: 'NixOS system deployment TUI'
 x:
   source: https://github.com/jhillyerd/labcoat
-  eget: https://github.com/jhillyerd/labcoat
+  eget: jhillyerd/labcoat
 rule:
   /eget:
     cmd: x eget jhillyerd/labcoat

@@ -6,7 +6,7 @@ homepage: https://github.com/projectdiscovery/cloudlist
 license: MIT
 x:
   source: https://github.com/projectdiscovery/cloudlist
-  eget: https://github.com/projectdiscovery/cloudlist
+  eget: projectdiscovery/cloudlist
   brew: cloudlist
   yay: cloudlist
 rule:

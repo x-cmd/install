@@ -6,7 +6,7 @@ desc:
   cn: CMake 是一种管理源代码构建的工具。最初，CMake 被设计为各种 Makefile 方言的生成器，如今 CMake 生成现代构建系统，比如 Ninja，以及用于诸如 Visual Studio 和 Xcode 等集成开发环境的项目文件。
 x:
   source: https://github.com/Kitware/CMake
-  eget: https://github.com/Kitware/CMake
+  eget: Kitware/CMake
   brew: cmake
   scoop: cmake
   asdf: cmake

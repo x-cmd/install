@@ -6,7 +6,7 @@ desc:
   en: WABT (we pronounce it "wabbit") is a suite of tools for WebAssembly
 x:
   source: https://github.com/WebAssembly/wabt
-  eget: https://github.com/WebAssembly/wabt
+  eget: WebAssembly/wabt
   apt: wabt
   brew: wabt
   apt-get: wabt

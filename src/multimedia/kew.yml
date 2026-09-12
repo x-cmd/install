@@ -7,7 +7,8 @@ desc:
 x:
   source: https://github.com/ravachol/kew
   apt: kew
-  brew: kewrule:
+  brew: kew
+rule:
   debian/apt:
     cmd: sudo apt install kew
     reference: https://github.com/ravachol/kew?tab=readme-ov-file#installing-on-debian

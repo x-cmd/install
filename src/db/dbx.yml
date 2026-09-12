@@ -6,8 +6,7 @@ desc:
   en: DBX is a lightweight, cross-platform database management tool — a single ~20 MB binary that supports 80+ databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, Dameng, and more), with built-in AI, MCP Server, CLI, desktop and Docker deployments
 x:
   source: https://github.com/t8y2/dbx
-  eget: https://github.com/t8y2/dbx
-  brew: --cask
+  eget: t8y2/dbx
   scoop: dbx
   winget: t8y2.dbx
 rule:

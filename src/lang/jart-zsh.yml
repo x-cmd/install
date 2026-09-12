@@ -6,7 +6,7 @@ desc:
   en: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
 x:
   source: https://github.com/jart/zsh
-  eget: https://github.com/jart/zsh
+  eget: jart/zsh
 rule:
   /eget:
     cmd: x eget jart/zsh

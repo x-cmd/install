@@ -12,9 +12,7 @@ x:
   apt-get: libreadline-dev
   yum: lua-devel
   zypper: lua-devel
-  emerge: -av
   yay: telegram-cli-git
-  pkg: telegram-cli
 rule:
   /apt:
     cmd: 'sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson-dev libpython-dev libpython3-dev libgcrypt-dev zlib1g-dev lua-lgi make \

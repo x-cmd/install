@@ -5,7 +5,7 @@ desc:
   cn: 现代、可扩展的 Python 项目管理
 x:
   source: https://github.com/pypa/hatch
-  eget: https://github.com/pypa/hatch
+  eget: pypa/hatch
   apt: yt-dlp
   dnf: hatch
   brew: hatch

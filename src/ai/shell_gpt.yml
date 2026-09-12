@@ -6,7 +6,7 @@ desc:
   en: A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 x:
   source: https://github.com/TheR1D/shell_gpt
-  eget: https://github.com/TheR1D/shell_gpt
+  eget: TheR1D/shell_gpt
 rule:
   /eget:
     cmd: x eget TheR1D/shell_gpt

@@ -6,7 +6,7 @@ desc:
   en: The official command line client for Cloud Foundry
 x:
   source: https://github.com/cloudfoundry/cli
-  eget: https://github.com/cloudfoundry/cli
+  eget: cloudfoundry/cli
   apt: cf8-cli
   dnf: cf8-cli
   brew: cloudfoundry/tap/cf-cli

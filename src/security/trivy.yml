@@ -6,7 +6,7 @@ desc:
   en: Find vulnerabilities, security issues, and secrets in containers, Kubernetes, code repositories, cloud
 x:
   source: https://github.com/aquasecurity/trivy
-  eget: https://github.com/aquasecurity/trivy
+  eget: aquasecurity/trivy
   apt: trivy
   brew: trivy
   apt-get: trivy

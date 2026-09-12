@@ -6,13 +6,11 @@ desc:
   en: A cross-platform, fast and extensible fuzzy finder TUI
 x:
   source: https://github.com/alexpasmantier/television
-  eget: https://github.com/alexpasmantier/television
+  eget: alexpasmantier/television
   brew: television
   pacman: television
   apk: chimera-repo-user
   scoop: television
-  winget: --exact
-  cargo: --locked
 rule:
   /x:
     cmd: x pkg use television

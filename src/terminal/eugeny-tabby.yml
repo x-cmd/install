@@ -6,10 +6,9 @@ desc:
   en: Tabby is an alternative to Windows' standard terminal (conhost), PowerShell ISE, PuTTY, macOS Terminal.app and iTerm
 x:
   source: https://github.com/Eugeny/tabby
-  eget: https://github.com/Eugeny/tabby
+  eget: Eugeny/tabby
   scoop: extras/tabby
   choco: tabby
-  winget: -e
   yay: tabby-bin
 rule:
   /eget:

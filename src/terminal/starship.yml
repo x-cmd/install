@@ -6,7 +6,7 @@ homepage: https://github.com/starship/starship
 license: ISC
 x:
   source: https://github.com/starship/starship
-  eget: https://github.com/starship/starship
+  eget: starship/starship
   dnf: starship
   brew: starship
   pacman: starship
@@ -19,7 +19,6 @@ x:
   choco: starship
   winget: starship
   cargo: starship
-  pkg: starship
 rule:
   /x:
     cmd: x pkg use starship

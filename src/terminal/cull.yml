@@ -6,7 +6,7 @@ desc:
   en: 'Interactive TUI disk space analyzer'
 x:
   source: https://github.com/legostin/cull
-  eget: https://github.com/legostin/cull
+  eget: legostin/cull
 rule:
   /eget:
     cmd: x eget legostin/cull

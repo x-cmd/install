@@ -6,7 +6,7 @@ desc:
   en: An AI agent released by MoonshotAI that helps you with software development tasks and terminal operations.
 x:
   source: https://github.com/MoonshotAI/kimi-cli
-  eget: https://github.com/MoonshotAI/kimi-cli
+  eget: MoonshotAI/kimi-cli
   yay: kimi-cli
 rule:
   /eget:

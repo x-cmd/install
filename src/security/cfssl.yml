@@ -6,7 +6,7 @@ desc:
 lang: Go
 x:
   source: https://github.com/cloudflare/cfssl
-  eget: https://github.com/cloudflare/cfssl
+  eget: cloudflare/cfssl
   brew: cfssl
   asdf: cfssl
 rule:

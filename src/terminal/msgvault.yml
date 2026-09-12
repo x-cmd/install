@@ -6,8 +6,9 @@ desc:
   en: 'Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB'
 x:
   source: https://github.com/wesm/msgvault
-  eget: https://github.com/wesm/msgvault
-  brew: prekrule:
+  eget: wesm/msgvault
+  brew: prek
+rule:
   darwin/brew:
     cmd: 'brew install prek'
     reference: https://github.com/wesm/msgvault

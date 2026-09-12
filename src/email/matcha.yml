@@ -6,7 +6,7 @@ desc:
   en: 'A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!'
 x:
   source: https://github.com/floatpane/matcha
-  eget: https://github.com/floatpane/matcha
+  eget: floatpane/matcha
 rule:
   /eget:
     cmd: x eget floatpane/matcha

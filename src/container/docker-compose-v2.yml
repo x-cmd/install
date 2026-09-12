@@ -6,7 +6,7 @@ desc:
   en: Compose is a tool for defining and running multi-container Docker applications.
 x:
   source: https://github.com/docker/compose
-  eget: https://github.com/docker/compose
+  eget: docker/compose
   yay: docker-compose-bin
 rule:
   /eget:

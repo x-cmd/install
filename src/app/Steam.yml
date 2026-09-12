@@ -65,7 +65,6 @@ x:
   scoop: games/steam
   choco: steam
   winget: Valve.Steam
-  brew: --cask
   snap: steam
   flatpak: flathub
 binlist:

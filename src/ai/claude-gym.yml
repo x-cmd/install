@@ -6,7 +6,7 @@ desc:
   en: Reminds developers using Claude Code to perform deskside exercises during long-running tasks by watching local logs.
 x:
   source: https://github.com/477-Studio/claude-gym
-  eget: https://github.com/477-Studio/claude-gym
+  eget: 477-Studio/claude-gym
 rule:
   /eget:
     cmd: x eget 477-Studio/claude-gym

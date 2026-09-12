@@ -6,7 +6,7 @@ desc:
   en: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 x:
   source: https://github.com/kubernetes/kops
-  eget: https://github.com/kubernetes/kops
+  eget: kubernetes/kops
   brew: kops
   yay: kops-bin
   asdf: kops

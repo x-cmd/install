@@ -6,7 +6,7 @@ desc:
   en: 'a structural diff that understands syntax 🟥🟩'
 x:
   source: https://github.com/Wilfred/difftastic
-  eget: https://github.com/Wilfred/difftastic
+  eget: Wilfred/difftastic
 rule:
   /eget:
     cmd: x eget Wilfred/difftastic

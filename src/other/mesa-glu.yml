@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/mesa-glu#default
 
 x:
-  brew: mesa-glubinlist:
+  brew: mesa-glu
+binlist:
 - mesa-glu
 license: NOASSERTION
 

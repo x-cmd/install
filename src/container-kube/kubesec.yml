@@ -6,7 +6,7 @@ desc:
   en: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 x:
   source: https://github.com/shyiko/kubesec
-  eget: https://github.com/shyiko/kubesec
+  eget: shyiko/kubesec
   brew: shyiko/kubesec/kubesec
   asdf: kubesec
 rule:

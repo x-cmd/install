@@ -6,11 +6,10 @@ desc:
   en: Command-line program to download videos from YouTube.com and other video sites
 x:
   source: https://github.com/ytdl-org/youtube-dl
-  eget: https://github.com/ytdl-org/youtube-dl
+  eget: ytdl-org/youtube-dl
   brew: youtube-dl
   port: youtube-dl
   yay: youtube-dl
-  pip: --upgrade
 rule:
   /eget:
     cmd: x eget ytdl-org/youtube-dl

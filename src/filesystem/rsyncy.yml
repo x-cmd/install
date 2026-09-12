@@ -6,7 +6,7 @@ desc:
   en: A status/progress bar for rsync.
 x:
   source: https://github.com/laktak/rsyncy
-  eget: https://github.com/laktak/rsyncy
+  eget: laktak/rsyncy
   brew: rsyncy
   yay: rsyncy-bin
   pip: rsyncy

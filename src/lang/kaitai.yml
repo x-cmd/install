@@ -5,9 +5,7 @@ desc:
   en: 'Kaitai Struct is a domain-specific language (DSL) that is designed with one particular task in mind: dealing with arbitrary binary formats'
 x:
   source: https://github.com/kaitai-io/kaitai_struct
-  apt: ./kaitai-struct-compiler_0.10_all.deb
   brew: kaitai-struct-compiler
-  apt-get: ./kaitai-struct-compiler_0.10_all.deb
   yay: kaitai-struct-compiler
 rule:
   debian/apt:

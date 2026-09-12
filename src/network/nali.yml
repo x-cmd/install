@@ -6,7 +6,7 @@ desc:
   en: An offline tool for querying IP geographic information and CDN provider
 x:
   source: https://github.com/zu1k/nali
-  eget: https://github.com/zu1k/nali
+  eget: zu1k/nali
   yay: nali-go-bin
   go: github.com/zu1k/nali@latest
 rule:

@@ -6,19 +6,17 @@ desc:
   en: Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way
 x:
   source: https://github.com/fastfetch-cli/fastfetch
-  eget: https://github.com/fastfetch-cli/fastfetch
+  eget: fastfetch-cli/fastfetch
   apt: fastfetch
   dnf: fastfetch
   brew: fastfetch
   pacman: fastfetch
-  apk: --upgrade
   zypper: fastfetch
   port: fastfetch
   emerge: app-misc/fastfetch
   scoop: fastfetch
   winget: fastfetch
   yay: fastfetch-git
-  pkg: fastfetch
 rule:
   /eget:
     cmd: x eget fastfetch-cli/fastfetch

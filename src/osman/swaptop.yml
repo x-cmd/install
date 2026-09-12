@@ -6,7 +6,7 @@ desc:
   en: 'swap usage monitor written in rust'
 x:
   source: https://github.com/luis-ota/swaptop
-  eget: https://github.com/luis-ota/swaptop
+  eget: luis-ota/swaptop
 rule:
   /eget:
     cmd: x eget luis-ota/swaptop

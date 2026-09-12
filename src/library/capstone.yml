@@ -5,7 +5,7 @@ desc:
   en: Capstone is a lightweight multi-platform, multi-architecture disassembly framework
 x:
   source: https://github.com/capstone-engine/capstone
-  eget: https://github.com/capstone-engine/capstone
+  eget: capstone-engine/capstone
   brew: capstone
   scoop: ecapstone
   yay: capstone-git

@@ -6,7 +6,7 @@ desc:
   en: 'Terminal-based threat intelligence monitoring and alerting platform'
 x:
   source: https://github.com/gripebomb/threatdeck
-  eget: https://github.com/gripebomb/threatdeck
+  eget: gripebomb/threatdeck
 rule:
   /eget:
     cmd: x eget gripebomb/threatdeck

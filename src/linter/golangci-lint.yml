@@ -6,7 +6,7 @@ desc:
   en: golangci-lint is a fast Go linters runner
 x:
   source: https://github.com/golangci/golangci-lint
-  eget: https://github.com/golangci/golangci-lint
+  eget: golangci/golangci-lint
   brew: golangci-lint
   port: golangci-lint
   yay: golangci-lint-bin

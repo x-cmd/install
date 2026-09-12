@@ -6,7 +6,7 @@ desc:
   en: Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux
 x:
   source: https://github.com/flatpak/flatpak
-  eget: https://github.com/flatpak/flatpak
+  eget: flatpak/flatpak
   apt: flatpak
   dnf: flatpak
   pacman: flatpak

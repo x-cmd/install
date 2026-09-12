@@ -6,7 +6,7 @@ desc:
   en: 'Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.'
 x:
   source: https://github.com/matthart1983/syswatch
-  eget: https://github.com/matthart1983/syswatch
+  eget: matthart1983/syswatch
 rule:
   /eget:
     cmd: x eget matthart1983/syswatch

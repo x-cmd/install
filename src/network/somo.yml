@@ -6,7 +6,7 @@ desc:
   en: A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 x:
   source: https://github.com/theopfr/somo
-  eget: https://github.com/theopfr/somo
+  eget: theopfr/somo
   yay: somo
   cargo: somo
 rule:

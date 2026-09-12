@@ -6,13 +6,12 @@ desc:
   en: Netcat, curl and socat for WebSockets
 x:
   source: https://github.com/vi/websocat
-  eget: https://github.com/vi/websocat
+  eget: vi/websocat
   dnf: websocat
   brew: websocat
   port: websocat
   yay: websocat-git
   asdf: websocat
-  pkg: websocat
 rule:
   /x:
     cmd: x pkg use websocat

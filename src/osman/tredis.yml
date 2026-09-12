@@ -6,7 +6,7 @@ desc:
   en: 'Terminal UI for Redis (tredis) - A terminal-based Redis data viewer and manager'
 x:
   source: https://github.com/huseyinbabal/tredis
-  eget: https://github.com/huseyinbabal/tredis
+  eget: huseyinbabal/tredis
 rule:
   /eget:
     cmd: x eget huseyinbabal/tredis

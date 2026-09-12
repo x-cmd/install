@@ -12,8 +12,6 @@ x:
   pacman: pipenv
   apt-get: pipenv
   emerge: pipenv
-  pip: --user
-  pkg: py39-pipenv
 rule:
   /pip:
     cmd: pip install --user pipenv

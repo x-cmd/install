@@ -6,7 +6,7 @@ desc:
   en: K3s is Lightweight Kubernetes
 x:
   source: https://github.com/k3s-io/k3s
-  eget: https://github.com/k3s-io/k3s
+  eget: k3s-io/k3s
   yay: k3s-bin
 rule:
   /eget:

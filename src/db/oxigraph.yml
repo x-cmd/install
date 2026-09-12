@@ -6,7 +6,7 @@ desc:
   en: SPARQL graph database written in Rust, with RDF parsing/serialization, HTTP server and CLI
 x:
   source: https://github.com/oxigraph/oxigraph
-  eget: https://github.com/oxigraph/oxigraph
+  eget: oxigraph/oxigraph
   pip: oxigraph
   cargo: oxigraph-cli
 rule:

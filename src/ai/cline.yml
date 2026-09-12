@@ -6,7 +6,7 @@ desc:
   en: 'Autonomous coding agent as an SDK, IDE extension, or CLI assistant.'
 x:
   source: https://github.com/cline/cline
-  eget: https://github.com/cline/cline
+  eget: cline/cline
 rule:
   /eget:
     cmd: x eget cline/cline

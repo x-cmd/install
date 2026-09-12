@@ -6,7 +6,7 @@ desc:
   en: A modern alternative for the `find` command, used for quickly searching files and directories in the file system
 x:
   source: https://github.com/sharkdp/fd
-  eget: https://github.com/sharkdp/fd
+  eget: sharkdp/fd
   apt: fd-find
   dnf: fd-find
   brew: fd
@@ -15,14 +15,12 @@ x:
   apt-get: fd-find
   zypper: fd
   port: fd
-  emerge: -av
   xbps: fd
   scoop: fd
   choco: fd
   winget: sharkdp.fd
   npm: fd-find
   asdf: fd
-  pkg: fd-find
 rule:
   /x:
     cmd: x pkg use fd

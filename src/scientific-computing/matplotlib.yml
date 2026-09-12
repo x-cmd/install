@@ -11,7 +11,6 @@ x:
   pacman: python-matplotlib
   apt-get: python3-matplotlib
   yum: python3-matplotlib
-  pip: -U
 rule:
   /pip:
     cmd: python -m pip install -U matplotlib

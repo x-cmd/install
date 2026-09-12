@@ -6,7 +6,7 @@ desc:
   en: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 x:
   source: https://github.com/langflow-ai/langflow
-  eget: https://github.com/langflow-ai/langflow
+  eget: langflow-ai/langflow
 rule:
   /eget:
     cmd: x eget langflow-ai/langflow

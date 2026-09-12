@@ -6,7 +6,7 @@ desc:
   en: 'Command Performance Benchmarking'
 x:
   source: https://github.com/miklosn/cmdperf
-  eget: https://github.com/miklosn/cmdperf
+  eget: miklosn/cmdperf
 rule:
   /go:
     cmd: 'go install'

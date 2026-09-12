@@ -45,7 +45,6 @@ x:
   apt-get: mercurial
   dnf: mercurial
   emerge: mercurial
-  pkg: SUNWmercurial
   brew: mercurial
   yay: mercurial-hg
   pip: mercurial

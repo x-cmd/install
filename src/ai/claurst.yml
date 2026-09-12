@@ -6,7 +6,7 @@ desc:
   en: Agentic Coding for Builders who Ship
 x:
   source: https://github.com/Kuberwastaken/claurst
-  eget: https://github.com/Kuberwastaken/claurst
+  eget: Kuberwastaken/claurst
 rule:
   /eget:
     cmd: x eget Kuberwastaken/claurst

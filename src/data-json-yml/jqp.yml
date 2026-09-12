@@ -6,7 +6,7 @@ desc:
   en: a TUI playground for exploring jq
 x:
   source: https://github.com/noahgorstein/jqp
-  eget: https://github.com/noahgorstein/jqp
+  eget: noahgorstein/jqp
   brew: noahgorstein/tap/jqp
   port: jqp
   yay: jqp-bin

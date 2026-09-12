@@ -6,7 +6,7 @@ desc:
   en: a tool that allows any two computers to simply and securely transfer files and folders
 x:
   source: https://github.com/schollz/croc
-  eget: https://github.com/schollz/croc
+  eget: schollz/croc
   dnf: croc
   brew: croc
   pacman: croc
@@ -18,7 +18,6 @@ x:
   winget: schollz.croc
   yay: croc-git
   go: github.com/schollz/croc/v9@latest
-  pkg: croc
 rule:
   /x:
     cmd: x pkg use croc

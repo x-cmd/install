@@ -6,7 +6,7 @@ desc:
   en: 'Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻'
 x:
   source: https://github.com/orlangure/gocovsh
-  eget: https://github.com/orlangure/gocovsh
+  eget: orlangure/gocovsh
 rule:
   /eget:
     cmd: x eget orlangure/gocovsh

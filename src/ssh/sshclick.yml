@@ -6,7 +6,7 @@ desc:
   en: 'SSH Config terminal manager based on Python and Click framework with Rich and Textual UI'
 x:
   source: https://github.com/karlot/sshclick
-  eget: https://github.com/karlot/sshclick
+  eget: karlot/sshclick
 rule:
   /eget:
     cmd: x eget karlot/sshclick

@@ -6,7 +6,7 @@ desc:
   en: 'Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused'
 x:
   source: https://github.com/gluesql/glues
-  eget: https://github.com/gluesql/glues
+  eget: gluesql/glues
 rule:
   /eget:
     cmd: x eget gluesql/glues

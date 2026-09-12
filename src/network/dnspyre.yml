@@ -6,7 +6,7 @@ desc:
   en: 'CLI tool for a high QPS DNS benchmark'
 x:
   source: https://github.com/Tantalor93/dnspyre
-  eget: https://github.com/Tantalor93/dnspyre
+  eget: Tantalor93/dnspyre
 rule:
   /eget:
     cmd: x eget Tantalor93/dnspyre

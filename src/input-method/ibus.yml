@@ -6,13 +6,13 @@ desc:
   en: IBus is an open source input framework for Linux/Unix OS
 x:
   source: https://github.com/ibus/ibus
-  eget: https://github.com/ibus/ibus
+  eget: ibus/ibus
   apt: ibus-gtk
-  dnf: ibus\*
+  dnf: ibus
   pacman: ibus
   apt-get: ibus-gtk
   zypper: ibus-libpinyin
-  emerge: -av
+  emerge: ibus-pinyin
 rule:
   /eget:
     cmd: x eget ibus/ibus

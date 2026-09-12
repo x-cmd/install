@@ -6,11 +6,10 @@ desc:
   en: kubelogin is a client-go credential (exec) plugin implementing azure authentication
 x:
   source: https://github.com/Azure/kubelogin
-  eget: https://github.com/Azure/kubelogin
+  eget: Azure/kubelogin
   brew: Azure/kubelogin/kubelogin
   scoop: kubectl
   choco: kubernetes-cli
-  winget: --id=Kubernetes.kubectl
   asdf: kubelogin
 rule:
   /eget:

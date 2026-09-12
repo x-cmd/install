@@ -6,7 +6,7 @@ desc:
   en: Connect your local process and your cloud environment, and run local code in cloud conditions
 x:
   source: https://github.com/metalbear-co/mirrord
-  eget: https://github.com/metalbear-co/mirrord
+  eget: metalbear-co/mirrord
   brew: metalbear-co/mirrord/mirrord
   yay: mirrord
 rule:

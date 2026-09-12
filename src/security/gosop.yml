@@ -6,7 +6,7 @@ desc:
   en: Stateless CLI for GopenPGP
 x:
   source: https://github.com/ProtonMail/gosop
-  eget: https://github.com/ProtonMail/gosop
+  eget: ProtonMail/gosop
   go: "gosop"
 rule:
   /x:

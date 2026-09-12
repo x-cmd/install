@@ -6,7 +6,7 @@ desc:
   en: Git-cinnabar is a git remote helper to interact with mercurial repositories
 x:
   source: https://github.com/glandium/git-cinnabar
-  eget: https://github.com/glandium/git-cinnabar
+  eget: glandium/git-cinnabar
   dnf: git-cinnabar
   brew: git-cinnabar
   yay: git-cinnabar-git

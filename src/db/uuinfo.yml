@@ -5,7 +5,7 @@ desc:
   en: A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
 x:
   source: https://github.com/Racum/uuinfo
-  eget: https://github.com/Racum/uuinfo
+  eget: Racum/uuinfo
 rule:
   /eget:
     cmd: x eget Racum/uuinfo

@@ -6,7 +6,7 @@ desc:
   en: Gobuster is a tool used to brute-force
 x:
   source: https://github.com/OJ/gobuster
-  eget: https://github.com/OJ/gobuster
+  eget: OJ/gobuster
   yay: gobuster-git
   go: github.com/OJ/gobuster/v3@latest
 rule:

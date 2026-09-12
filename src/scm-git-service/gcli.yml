@@ -6,7 +6,7 @@ desc:
   en: 'Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel'
 x:
   source: https://github.com/herrhotzenplotz/gcli
-  eget: https://github.com/herrhotzenplotz/gcli
+  eget: herrhotzenplotz/gcli
 rule:
   /eget:
     cmd: x eget herrhotzenplotz/gcli

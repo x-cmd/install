@@ -6,7 +6,7 @@ desc:
 lang: Scala
 x:
   source: https://github.com/sbt/sbt
-  eget: https://github.com/sbt/sbt
+  eget: sbt/sbt
   apt: sbt
   dnf: sbt
   brew: sbt

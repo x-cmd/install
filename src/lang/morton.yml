@@ -6,7 +6,7 @@ desc:
   en: Morton encoding (Z-order curve) library — maps multi-dimensional coordinates to one dimension for faster spatial indexing and range queries.
 x:
   source: https://github.com/jart/morton
-  eget: https://github.com/jart/morton
+  eget: jart/morton
 rule:
   /eget:
     cmd: x eget jart/morton

@@ -6,8 +6,9 @@ desc:
   en: ord is an index, block explorer, and command-line wallet
 x:
   source: https://github.com/ordinals/ord
-  eget: https://github.com/ordinals/ord
-  brew: ordrule:
+  eget: ordinals/ord
+  brew: ord
+rule:
   /eget:
     cmd: x eget ordinals/ord
     reference: https://x-cmd.com/mod/eget

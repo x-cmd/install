@@ -6,7 +6,7 @@ desc:
   en: 'A TUI client for mastodon written in python'
 x:
   source: https://github.com/kimusan/mastui
-  eget: https://github.com/kimusan/mastui
+  eget: kimusan/mastui
 rule:
   /eget:
     cmd: x eget kimusan/mastui

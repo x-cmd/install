@@ -6,7 +6,7 @@ desc:
   en: A cross-platform ascii-art firework simulator in terminal
 x:
   source: https://github.com/Wayoung7/firework-rs
-  eget: https://github.com/Wayoung7/firework-rs
+  eget: Wayoung7/firework-rs
   cargo: firework-rs
 rule:
   /eget:

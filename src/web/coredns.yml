@@ -6,7 +6,7 @@ desc:
   en: CoreDNS is a DNS server/forwarder, written in Go, that chains plugins. Each plugin performs a (DNS) function.
 x:
   source: https://github.com/coredns/coredns
-  eget: https://github.com/coredns/coredns
+  eget: coredns/coredns
   brew: coredns
   scoop: coredns
   yay: coredns

@@ -10,7 +10,6 @@ x:
   port: fselect
   scoop: fselect
   choco: fselect
-  winget: -e
   yay: fselect
   cargo: fselect
 rule:

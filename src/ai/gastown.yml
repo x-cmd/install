@@ -6,7 +6,7 @@ desc:
   en: multi-agent workspace manager
 x:
   source: https://github.com/steveyegge/gastown
-  eget: https://github.com/steveyegge/gastown
+  eget: steveyegge/gastown
   brew: gastown
   yay: gastown-git
   npm: "@gastown/gt"

@@ -6,7 +6,7 @@ desc:
   en: SciPy is an open-source Python library and math toolkit
 x:
   source: https://github.com/scipy/scipy
-  eget: https://github.com/scipy/scipy
+  eget: scipy/scipy
   apt: python3-scipy
   dnf: python3-scipy
   brew: scipy

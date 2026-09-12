@@ -6,7 +6,7 @@ desc:
   en: trusted, encrypted, TOTP/HOTP authenticator with import functionality.
 x:
   source: https://github.com/replydev/cotp
-  eget: https://github.com/replydev/cotp
+  eget: replydev/cotp
   brew: cotp
   pacman: cotp
   cargo: cotp

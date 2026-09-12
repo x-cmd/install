@@ -6,7 +6,7 @@ desc:
   en: 'An interactive TUI for Homebrew'
 x:
   source: https://github.com/hzqtc/taproom
-  eget: https://github.com/hzqtc/taproom
+  eget: hzqtc/taproom
 rule:
   /eget:
     cmd: x eget hzqtc/taproom

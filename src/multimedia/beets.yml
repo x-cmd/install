@@ -6,7 +6,7 @@ desc:
   en: Beets is the media library management system for obsessive music geeks
 x:
   source: https://github.com/beetbox/beets
-  eget: https://github.com/beetbox/beets
+  eget: beetbox/beets
   apt: beets
   dnf: beets
   pacman: beets
@@ -16,7 +16,6 @@ x:
   eopkg: beets
   choco: beets
   pip: beets
-  pkg: audio/beets
 rule:
   /eget:
     cmd: x eget beetbox/beets

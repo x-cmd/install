@@ -6,13 +6,12 @@ desc:
   en: rg is a line-oriented search tool that recursively searches the current directory for a regex pattern
 x:
   source: https://github.com/BurntSushi/ripgrep
-  eget: https://github.com/BurntSushi/ripgrep
+  eget: BurntSushi/ripgrep
   apt: ripgrep
   dnf: ripgrep
   brew: ripgrep
   pacman: ripgrep
   apt-get: ripgrep
-  yum: -y
   zypper: ripgrep
   port: ripgrep
   emerge: sys-apps/ripgrep

@@ -6,7 +6,7 @@ desc:
   en: A command-line interface tool for serving LLM using vLLM.
 x:
   source: https://github.com/Chen-zexi/vllm-cli
-  eget: https://github.com/Chen-zexi/vllm-cli
+  eget: Chen-zexi/vllm-cli
 rule:
   /eget:
     cmd: x eget Chen-zexi/vllm-cli

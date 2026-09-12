@@ -6,7 +6,7 @@ desc:
   en: Analyze financial markets with an open-source desktop terminal featuring CFA-level analytics, 100+ data connectors, and AI-powered research agents.
 x:
   source: https://github.com/Fincept-Corporation/FinceptTerminal
-  eget: https://github.com/Fincept-Corporation/FinceptTerminal
+  eget: Fincept-Corporation/FinceptTerminal
 rule:
   /eget:
     cmd: x eget Fincept-Corporation/FinceptTerminal

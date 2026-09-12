@@ -6,7 +6,7 @@ desc:
   cn: Flyctl 是 fly.io 的命令行界面
 x:
   source: https://github.com/superfly/flyctl
-  eget: https://github.com/superfly/flyctl
+  eget: superfly/flyctl
   brew: flyctl
   yay: flyctl
 rule:

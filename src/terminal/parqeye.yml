@@ -6,7 +6,7 @@ desc:
   en: 'Peek inside Parquet files right from your terminal'
 x:
   source: https://github.com/kaushiksrini/parqeye
-  eget: https://github.com/kaushiksrini/parqeye
+  eget: kaushiksrini/parqeye
 rule:
   /eget:
     cmd: x eget kaushiksrini/parqeye

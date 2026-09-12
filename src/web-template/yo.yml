@@ -6,7 +6,6 @@ desc:
   en: CLI tool for running Yeoman generators
 x:
   source: https://github.com/yeoman/yo
-  npm: --global
 rule:
   /x:
     cmd: x pkg use yo

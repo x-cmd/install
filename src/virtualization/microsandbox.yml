@@ -8,7 +8,7 @@ desc:
 
 x:
   source: https://github.com/superradcompany/microsandbox
-  eget: https://github.com/superradcompany/microsandbox
+  eget: superradcompany/microsandbox
   brew: superradcompany/tap/microsandbox
   cargo: microsandbox
 rule:

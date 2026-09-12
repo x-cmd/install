@@ -6,7 +6,7 @@ desc:
   en: 'Dig into ClickHouse with TUI interface.'
 x:
   source: https://github.com/azat/chdig
-  eget: https://github.com/azat/chdig
+  eget: azat/chdig
 rule:
   /eget:
     cmd: x eget azat/chdig

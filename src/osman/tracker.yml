@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based real-time satellite tracking and orbit prediction application.'
 x:
   source: https://github.com/ShenMian/tracker
-  eget: https://github.com/ShenMian/tracker
+  eget: ShenMian/tracker
 rule:
   /eget:
     cmd: x eget ShenMian/tracker

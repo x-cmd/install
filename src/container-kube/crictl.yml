@@ -6,7 +6,7 @@ desc:
   en: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
 x:
   source: https://github.com/kubernetes-sigs/cri-tools
-  eget: https://github.com/kubernetes-sigs/cri-tools
+  eget: kubernetes-sigs/cri-tools
   asdf: crictl
 rule:
   /eget:

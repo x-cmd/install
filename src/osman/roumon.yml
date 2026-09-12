@@ -6,7 +6,7 @@ desc:
   en: 'Universal goroutine monitor using pprof and termui'
 x:
   source: https://github.com/becheran/roumon
-  eget: https://github.com/becheran/roumon
+  eget: becheran/roumon
 rule:
   /eget:
     cmd: x eget becheran/roumon

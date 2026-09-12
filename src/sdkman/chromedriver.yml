@@ -37,7 +37,6 @@ x:
   apt-get: chromium-driver
   scoop: chromedriver
   choco: chromedriver
-  brew: --cask
   yay: chromedriver
   asdf: chromedriver
 binlist:

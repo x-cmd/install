@@ -5,7 +5,7 @@ desc:
   en: Finance terminal, in your terminal.
 x:
   source: https://github.com/vincelwt/gloomberb
-  eget: https://github.com/vincelwt/gloomberb
+  eget: vincelwt/gloomberb
 rule:
   /eget:
     cmd: x eget vincelwt/gloomberb

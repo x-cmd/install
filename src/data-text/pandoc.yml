@@ -6,14 +6,13 @@ desc:
   en: An open-source document conversion tool that supports converting multiple document formats to each other, including Markdown, HTML, PDF, DOCX, and more
 x:
   source: https://github.com/jgm/pandoc
-  eget: https://github.com/jgm/pandoc
+  eget: jgm/pandoc
   apt: pandoc
   dnf: pandoc
   brew: pandoc
   pacman: pandoc
   apt-get: pandoc
   choco: pandoc
-  winget: --source
 rule:
   /x:
     cmd: x pkg use pandoc

@@ -6,7 +6,7 @@ desc:
   en: CLI for Foodora and Deliveroo
 x:
   source: https://github.com/steipete/ordercli
-  eget: https://github.com/steipete/ordercli
+  eget: steipete/ordercli
 rule:
   /eget:
     cmd: x eget steipete/ordercli

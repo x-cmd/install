@@ -6,7 +6,7 @@ desc:
   en: 'Multi-repo Git workspace dashboard for the terminal'
 x:
   source: https://github.com/affromero/gitpane
-  eget: https://github.com/affromero/gitpane
+  eget: affromero/gitpane
 rule:
   /cargo:
     cmd: 'cargo install'

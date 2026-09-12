@@ -6,7 +6,7 @@ desc:
   en: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability
 x:
   source: https://github.com/erlang/otp
-  eget: https://github.com/erlang/otp
+  eget: erlang/otp
   apt: erlang
   brew: erlang
   apt-get: erlang

@@ -6,7 +6,6 @@ desc:
   en: Runs AI agent workflows as a series of auditable steps, saving each output to a version-controlled repository for verification, debugging, and reuse.
 x:
   source: https://github.com/AIScientists-Dev/flowtrace
-  cargo: --git
 rule:
   /cargo:
     cmd: cargo install --git https://github.com/AIScientists-Dev/flowtrace flowtrace-cli

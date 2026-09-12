@@ -6,7 +6,7 @@ desc:
   en: A unix process hierarchy tree display tool for specific processes.
 x:
   source: https://github.com/joknarf/pgtree
-  eget: https://github.com/joknarf/pgtree
+  eget: joknarf/pgtree
   pip: pgtree
 rule:
   /eget:

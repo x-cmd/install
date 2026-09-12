@@ -6,7 +6,7 @@ desc:
   en: A TUI power usage monitoring tool for Apple Silicon Macs
 x:
   source: https://github.com/graelo/pumas
-  eget: https://github.com/graelo/pumas
+  eget: graelo/pumas
   brew: graelo/tap/pumas
   cargo: pumas
 rule:

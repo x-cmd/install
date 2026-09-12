@@ -5,13 +5,8 @@ desc:
   en: 'The #1 containerization software for developers and teams'
 x:
   source: https://github.com/docker/for-mac
-  apt: ./docker-desktop-amd64.deb
-  dnf: ./docker-desktop-x86_64.rpm
-  brew: --cask
-  apt-get: ./docker-desktop-amd64.deb
   scoop: main/docker
   choco: docker-desktop
-  winget: -e
 rule:
   darwin/brew:
     cmd: brew install --cask docker

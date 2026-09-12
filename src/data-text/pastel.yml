@@ -6,7 +6,7 @@ desc:
   en: 'A command-line tool to generate, analyze, convert and manipulate colors'
 x:
   source: https://github.com/sharkdp/pastel
-  eget: https://github.com/sharkdp/pastel
+  eget: sharkdp/pastel
 rule:
   /eget:
     cmd: x eget sharkdp/pastel

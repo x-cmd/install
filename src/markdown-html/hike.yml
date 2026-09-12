@@ -6,7 +6,8 @@ desc:
   en: Hike is a Markdown browser for the terminal.
 x:
   source: https://github.com/davep/hike
-  brew: davep/homebrew/hikerule:
+  brew: davep/homebrew/hike
+rule:
   /pipx:
     cmd: pipx install hike
     reference: https://github.com/davep/hike?tab=readme-ov-file#pipx

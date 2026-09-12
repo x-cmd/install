@@ -6,7 +6,6 @@ desc:
   en: Visualize Claude token usage and estimate costs by scanning local logs and serving a dashboard in your browser or VS Code.
 x:
   source: https://github.com/phuryn/claude-usage
-  brew: --formula
 rule:
   /git:
     cmd: |

@@ -6,7 +6,7 @@ desc:
   en: An extremely fast Swift package and project manager, written in Rust.
 x:
   source: https://github.com/quantbagel/gust
-  eget: https://github.com/quantbagel/gust
+  eget: quantbagel/gust
   brew: quantbagel/tap/gust
   cargo: gust
 rule:

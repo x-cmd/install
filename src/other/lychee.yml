@@ -6,7 +6,7 @@ desc:
   en: A fast, async link checker written in Rust.
 x:
   source: https://github.com/lycheeverse/lychee
-  eget: https://github.com/lycheeverse/lychee
+  eget: lycheeverse/lychee
   brew: lychee
   pacman: lychee
   apk: lychee
@@ -14,9 +14,7 @@ x:
   port: lychee
   scoop: lychee
   choco: lychee
-  winget: -e
   cargo: lychee
-  pkg: lychee
 rule:
   /eget:
     cmd: x eget lycheeverse/lychee

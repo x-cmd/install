@@ -6,12 +6,11 @@ desc:
   en: Pluggable and configurable code formatting platform written in Rust
 x:
   source: https://github.com/dprint/dprint
-  eget: https://github.com/dprint/dprint
+  eget: dprint/dprint
   brew: dprint
   scoop: dprint
   yay: dprint
   npm: dprint
-  cargo: --locked
   asdf: dprint
 rule:
   /eget:

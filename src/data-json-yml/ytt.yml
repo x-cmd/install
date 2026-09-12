@@ -6,7 +6,7 @@ desc:
   en: ytt (pronounced spelled out) is a templating tool that understands YAML structure
 x:
   source: https://github.com/carvel-dev/ytt
-  eget: https://github.com/carvel-dev/ytt
+  eget: carvel-dev/ytt
   brew: carvel-dev/carvel/ytt
   yay: ytt
   asdf: ytt

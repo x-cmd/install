@@ -6,7 +6,7 @@ desc:
   en: Run modular, AI-powered scripts from your terminal to automate software development tasks like project planning, TDD, code refactoring, and tooling setup.
 x:
   source: https://github.com/mattpocock/skills
-  eget: https://github.com/mattpocock/skills
+  eget: mattpocock/skills
 rule:
   /eget:
     cmd: x eget mattpocock/skills

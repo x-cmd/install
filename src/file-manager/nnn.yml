@@ -6,7 +6,7 @@ homepage: https://github.com/jarun/nnn
 license: BSD-2-Clause
 x:
   source: https://github.com/jarun/nnn
-  eget: https://github.com/jarun/nnn
+  eget: jarun/nnn
   apt: nnn
   dnf: nnn
   brew: nnn
@@ -15,7 +15,6 @@ x:
   apt-get: nnn
   yum: nnn
   zypper: nnn
-  emerge: -a
 rule:
   /eget:
     cmd: x eget jarun/nnn

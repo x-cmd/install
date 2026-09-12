@@ -6,7 +6,7 @@ desc:
   en: A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interactive debugger.
 x:
   source: https://github.com/conikeec/mcp-probe
-  eget: https://github.com/conikeec/mcp-probe
+  eget: conikeec/mcp-probe
 rule:
   /eget:
     cmd: x eget conikeec/mcp-probe

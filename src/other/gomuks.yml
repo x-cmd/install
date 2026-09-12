@@ -6,7 +6,7 @@ desc:
   en: A Matrix client written in Go.
 x:
   source: https://github.com/tulir/gomuks
-  eget: https://github.com/tulir/gomuks
+  eget: tulir/gomuks
   zypper: gomuks
   port: gomuks
 rule:

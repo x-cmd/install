@@ -6,7 +6,7 @@ desc:
 lang: Java
 x:
   source: https://github.com/quarkusio/quarkus
-  eget: https://github.com/quarkusio/quarkus
+  eget: quarkusio/quarkus
   yay: quarkuscli-bin
   asdf: quarkus
 rule:

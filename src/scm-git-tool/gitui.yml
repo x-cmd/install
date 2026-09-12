@@ -6,11 +6,10 @@ desc:
   en: gitui is a terminal-based Git user interface tool
 x:
   source: https://github.com/extrawurst/gitui
-  eget: https://github.com/extrawurst/gitui
+  eget: extrawurst/gitui
   brew: gitui
   scoop: gitui
   choco: gitui
-  winget: -e
   yay: gitui-bin
   cargo: gitui
   asdf: gitui

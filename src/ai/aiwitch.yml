@@ -6,7 +6,7 @@ desc:
   en: Multi-account manager for AI CLIs (Codex, Claude Code)
 x:
   source: https://github.com/baedonguri/aiwitch
-  eget: https://github.com/baedonguri/aiwitch
+  eget: baedonguri/aiwitch
 rule:
   /eget:
     cmd: x eget baedonguri/aiwitch

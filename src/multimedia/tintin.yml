@@ -6,7 +6,7 @@ desc:
   en: TinTin++ (aka tt++) is a free Mud client for Android, iOS, Linux, Mac OS X and Windows.
 x:
   source: https://github.com/scandum/tintin
-  eget: https://github.com/scandum/tintin
+  eget: scandum/tintin
   apt: build-essential
   dnf: make
   brew: tintin

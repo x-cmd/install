@@ -6,7 +6,7 @@ desc:
   en: Gaiden is a tool that makes it easy to create documentation with Markdown
 x:
   source: https://github.com/kobo/gaiden
-  eget: https://github.com/kobo/gaiden
+  eget: kobo/gaiden
 rule:
   /eget:
     cmd: x eget kobo/gaiden

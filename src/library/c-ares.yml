@@ -6,7 +6,7 @@ desc:
   en: c-ares is a C library for asynchronous DNS requests (including name resolves)
 x:
   source: https://github.com/c-ares/c-ares
-  eget: https://github.com/c-ares/c-ares
+  eget: c-ares/c-ares
   brew: c-ares
   yay: c-ares-git
 rule:

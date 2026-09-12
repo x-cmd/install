@@ -6,7 +6,7 @@ desc:
   en: build-once run-anywhere c library
 x:
   source: https://github.com/jart/cosmopolitan
-  eget: https://github.com/jart/cosmopolitan
+  eget: jart/cosmopolitan
 rule:
   /eget:
     cmd: x eget jart/cosmopolitan

@@ -5,7 +5,7 @@ desc:
   en: Jansson is a C library for encoding, decoding and manipulating JSON data
 x:
   source: https://github.com/akheron/jansson
-  eget: https://github.com/akheron/jansson
+  eget: akheron/jansson
   brew: jansson
   yay: jansson-git
 rule:

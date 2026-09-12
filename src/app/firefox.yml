@@ -59,8 +59,6 @@ x:
   apk: firefox
   scoop: extras/firefox
   choco: firefox
-  winget: -e
-  brew: --cask
   flatpak: flathub
   yay: firefox-bin
 binlist:

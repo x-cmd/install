@@ -6,7 +6,7 @@ desc:
   en: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 x:
   source: https://github.com/aws/aws-cdk
-  eget: https://github.com/aws/aws-cdk
+  eget: aws/aws-cdk
   brew: aws-cdk
   yay: aws-cdk
   pip: aws-cdk-lib

@@ -39,7 +39,6 @@ x:
   apt: fio
   apk: fio
   xbps: fio
-  pkg: fio
   brew: fio
   yay: fio
   eget: ljh-sh/fio

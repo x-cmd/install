@@ -6,7 +6,7 @@ desc:
   en: 'A feature-rich TUI client for Discord'
 x:
   source: https://github.com/chojs23/concord
-  eget: https://github.com/chojs23/concord
+  eget: chojs23/concord
 rule:
   /eget:
     cmd: x eget chojs23/concord

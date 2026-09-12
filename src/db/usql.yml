@@ -6,7 +6,7 @@ desc:
 lang: Go
 x:
   source: https://github.com/xo/usql
-  eget: https://github.com/xo/usql
+  eget: xo/usql
   brew: xo/xo/usql
   pacman: usql
   scoop: usql

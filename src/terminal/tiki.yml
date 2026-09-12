@@ -6,7 +6,7 @@ desc:
   en: 'Terminal Markdown-based shapeless workflow builder'
 x:
   source: https://github.com/boolean-maybe/tiki
-  eget: https://github.com/boolean-maybe/tiki
+  eget: boolean-maybe/tiki
 rule:
   /eget:
     cmd: x eget boolean-maybe/tiki

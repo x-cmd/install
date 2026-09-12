@@ -5,7 +5,7 @@ desc:
   en: opam is a source-based package manager for OCaml.
 x:
   source: https://github.com/ocaml/opam
-  eget: https://github.com/ocaml/opam
+  eget: ocaml/opam
   apt: opam
   dnf: opam
   brew: opam
@@ -15,7 +15,6 @@ x:
   scoop: main/opam
   winget: Git.Git
   yay: opam-git
-  pkg: ocaml-opam
 rule:
   /eget:
     cmd: x eget ocaml/opam

@@ -6,7 +6,7 @@ desc:
   en: 'A terminal-based SSH manager inspired by lazydocker and k9s - Written in go'
 x:
   source: https://github.com/Adembc/lazyssh
-  eget: https://github.com/Adembc/lazyssh
+  eget: Adembc/lazyssh
 rule:
   /eget:
     cmd: x eget Adembc/lazyssh

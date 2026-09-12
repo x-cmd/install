@@ -6,14 +6,14 @@ desc:
   en: A command line tool and TUI that allows secure transfer and sending of files and directories between computers.
 x:
   source: https://github.com/abdfnx/tran
-  eget: https://github.com/abdfnx/tran
-  brew: abdfnx/tap/tranrule:
+  eget: abdfnx/tran
+  brew: abdfnx/tap/tran
+rule:
   /eget:
     cmd: x eget abdfnx/tran
     reference: https://x-cmd.com/mod/eget
   /curl:
     cmd: curl -fsSL https://cutt.ly/tran-cli | bash
-    reference: https://github.com/abdfnx/tran?tab=readme-ov-file#using-script
     reference: https://github.com/abdfnx/tran?tab=readme-ov-file#using-script
   darwin/brew:
     cmd: brew install abdfnx/tap/tran

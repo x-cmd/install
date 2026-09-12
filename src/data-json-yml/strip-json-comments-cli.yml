@@ -6,7 +6,6 @@ desc:
   en: Strip comments from JSON. Lets you use comments in your JSON files
 x:
   source: https://github.com/sindresorhus/strip-json-comments-cli
-  npm: --global
 rule:
   /x:
     cmd: x pkg use strip-json-comments-cli

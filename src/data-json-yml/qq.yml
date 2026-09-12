@@ -6,7 +6,7 @@ desc:
   en: jq, but with many interoperable configuration format transcodings and interactive querying.
 x:
   source: https://github.com/JFryy/qq
-  eget: https://github.com/JFryy/qq
+  eget: JFryy/qq
   brew: jfryy/tap/qq
   go: github.com/JFryy/qq/cli@latest
 rule:

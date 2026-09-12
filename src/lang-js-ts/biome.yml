@@ -6,7 +6,7 @@ desc:
   en: Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects
 x:
   source: https://github.com/biomejs/biome
-  eget: https://github.com/biomejs/biome
+  eget: biomejs/biome
   brew: biome
   scoop: biome
   npm: "@biomejs/biome"

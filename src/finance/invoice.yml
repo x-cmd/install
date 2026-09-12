@@ -6,7 +6,7 @@ desc:
   en: Generate invoices from the command line
 x:
   source: https://github.com/maaslalani/invoice
-  eget: https://github.com/maaslalani/invoice
+  eget: maaslalani/invoice
   brew: invoice
   yay: invoice
   go: github.com/maaslalani/invoice@main

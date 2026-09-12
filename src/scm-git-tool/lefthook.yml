@@ -6,16 +6,14 @@ desc:
   en: Fast and powerful Git hooks manager for any type of projects
 x:
   source: https://github.com/evilmartians/lefthook
-  eget: https://github.com/evilmartians/lefthook
+  eget: evilmartians/lefthook
   apt: lefthook
   dnf: lefthook
   brew: lefthook
-  snap: --classic
   yum: lefthook
   scoop: lefthook
   winget: evilmartians.lefthook
   yay: lefthook
-  pip: --user
   npm: lefthook
   asdf: lefthook
 rule:

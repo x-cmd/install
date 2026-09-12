@@ -6,7 +6,6 @@ desc:
 x:
   source: https://github.com/rollup/rollup
   yay: rollup
-  npm: --global
 rule:
   /npm:
     cmd: npm install --global rollup

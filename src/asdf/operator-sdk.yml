@@ -6,7 +6,7 @@ desc:
   en: An open source toolkit to manage Kubernetes native applications, called Operators, in an effective, automated
 x:
   source: https://github.com/operator-framework/operator-sdk
-  eget: https://github.com/operator-framework/operator-sdk
+  eget: operator-framework/operator-sdk
   brew: operator-sdk
   asdf: operator-sdk
 rule:

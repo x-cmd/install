@@ -6,12 +6,11 @@ desc:
   en: Feature-rich terminal text viewer
 x:
   source: https://github.com/noborus/ov
-  eget: https://github.com/noborus/ov
+  eget: noborus/ov
   brew: noborus/tap/ov
   pacman: ov
   port: ov
   go: github.com/noborus/ov@latest
-  pkg: ov
 rule:
   /eget:
     cmd: x eget noborus/ov

@@ -6,7 +6,7 @@ desc:
   en: yewtube is a Terminal based YouTube player and downloader.
 x:
   source: https://github.com/mps-youtube/yewtube
-  eget: https://github.com/mps-youtube/yewtube
+  eget: mps-youtube/yewtube
   brew: yewtube
   yay: yewtube
   pip: yewtube

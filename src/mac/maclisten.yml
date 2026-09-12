@@ -6,8 +6,9 @@ desc:
   en: Lightweight macOS speech-to-text (ASR) CLI — the "hearing" layer of the ljh-sh agent IO stack. Native Speech framework, multi-locale auto-pick, streaming/file transcription, compact JSON output
 x:
   source: https://github.com/ljh-sh/maclisten
-  eget: https://github.com/ljh-sh/maclisten
-  brew: ljh-sh/cli/maclistenrule:
+  eget: ljh-sh/maclisten
+  brew: ljh-sh/cli/maclisten
+rule:
   /eget:
     cmd: x eget ljh-sh/maclisten
     reference: https://github.com/ljh-sh/maclisten

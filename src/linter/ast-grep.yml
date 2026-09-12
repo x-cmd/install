@@ -6,7 +6,7 @@ desc:
   en: ast-grep(sg) is a fast and polyglot tool for code structural search, lint, rewriting at large scale
 x:
   source: https://github.com/ast-grep/ast-grep
-  eget: https://github.com/ast-grep/ast-grep
+  eget: ast-grep/ast-grep
   brew: ast-grep
   scoop: ast-grep
   yay: ast-grep-bin

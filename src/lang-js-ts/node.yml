@@ -14,13 +14,11 @@ x:
   zypper: nodejs14
   port: nodejs18
   emerge: nodejs
-  xbps: -Sy
   eopkg: nodejs
   scoop: nodejs-lts
   winget: OpenJS.NodeJS.LTS
   npm: n
   asdf: node
-  pkg: node
 rule:
   /x:
     cmd: x pkg use node

@@ -6,7 +6,7 @@ desc:
   en: An open-source coding agent for the Grok API
 x:
   source: https://github.com/superagent-ai/grok-cli
-  eget: https://github.com/superagent-ai/grok-cli
+  eget: superagent-ai/grok-cli
 rule:
   /eget:
     cmd: x eget superagent-ai/grok-cli

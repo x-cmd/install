@@ -6,7 +6,7 @@ desc:
   en: etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines
 x:
   source: https://github.com/etcd-io/etcd
-  eget: https://github.com/etcd-io/etcd
+  eget: etcd-io/etcd
   brew: etcd
   yay: etcd
   asdf: etcd

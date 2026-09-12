@@ -6,7 +6,7 @@ desc:
   en: A markup-aware linter for prose built with speed and extensibility in mind
 x:
   source: https://github.com/errata-ai/vale
-  eget: https://github.com/errata-ai/vale
+  eget: errata-ai/vale
   brew: vale
   choco: vale
   asdf: vale

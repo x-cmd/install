@@ -6,11 +6,10 @@ desc:
   en: Cocogitto is a CLI and GitOps toolbox for the Conventional Commits and Semver specifications
 x:
   source: https://github.com/cocogitto/cocogitto
-  eget: https://github.com/cocogitto/cocogitto
+  eget: cocogitto/cocogitto
   brew: cocogitto
   pacman: cocogitto
   xbps: cocogitto
-  cargo: --locked
 rule:
   /eget:
     cmd: x eget cocogitto/cocogitto

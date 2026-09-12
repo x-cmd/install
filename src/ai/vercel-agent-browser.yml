@@ -6,7 +6,7 @@ desc:
   en: Headless browser automation CLI for AI agents. Fast Rust CLI with Node.js fallback.
 x:
   source: https://github.com/vercel-labs/agent-browser
-  eget: https://github.com/vercel-labs/agent-browser
+  eget: vercel-labs/agent-browser
   brew: agent-browser
   npm: agent-browser
   cargo: agent-browser

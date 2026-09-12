@@ -6,7 +6,7 @@ desc:
   en: shadowsocks is a fast tunnel proxy that helps you bypass firewalls
 x:
   source: https://github.com/shadowsocks/shadowsocks-rust
-  eget: https://github.com/shadowsocks/shadowsocks-rust
+  eget: shadowsocks/shadowsocks-rust
   brew: shadowsocks-rust
   snap: shadowsocks-rust
   yay: shadowsocks-rust-git

@@ -6,7 +6,6 @@ desc:
   en: Official Python library for the DeepL language translation API
 x:
   source: https://github.com/deeplcom/deepl-python
-  pip: --upgrade
 rule:
   /x:
     cmd: x pkg use deepl

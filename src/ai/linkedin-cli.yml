@@ -6,7 +6,7 @@ desc:
   en: AI-agent-friendly CLI for controlling LinkedIn accounts and retrieving real-time data.
 x:
   source: https://github.com/Linked-API/linkedin-cli
-  eget: https://github.com/Linked-API/linkedin-cli
+  eget: Linked-API/linkedin-cli
 rule:
   /eget:
     cmd: x eget Linked-API/linkedin-cli

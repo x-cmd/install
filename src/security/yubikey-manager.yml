@@ -6,9 +6,7 @@ desc:
   en: A tool developed by Yubico for configuring and managing YubiKey devices. It provides an interface for changing settings on the YubiKey, including PIN management, FIDO2, OTP, and PIV functionality. This tool supports multiple operating systems, allowing users to customize the security features of the YubiKey to meet specific security needs.
 x:
   source: https://github.com/Yubico/yubikey-manager
-  eget: https://github.com/Yubico/yubikey-manager
-  brew: --cask
-  pip: --user
+  eget: Yubico/yubikey-manager
 rule:
   /eget:
     cmd: x eget Yubico/yubikey-manager

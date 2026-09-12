@@ -6,11 +6,10 @@ desc:
   en: Carapace-bin provides argument completion for multiple CLI commands (full list), and works across multiple POSIX and non-POSIX shells.
 x:
   source: https://github.com/carapace-sh/carapace-bin
-  eget: https://github.com/carapace-sh/carapace-bin
+  eget: carapace-sh/carapace-bin
   brew: rsteube/tap/carapace
   zypper: carapace-bin
   scoop: extras/carapace-bin
-  winget: -e
   yay: carapace-bin
 rule:
   /x:

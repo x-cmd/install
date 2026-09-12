@@ -6,8 +6,7 @@ desc:
   en: Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity
 x:
   source: https://github.com/nrempel/sleek
-  eget: https://github.com/nrempel/sleek
-  brew: --cask
+  eget: nrempel/sleek
   cargo: sleek
 rule:
   /eget:

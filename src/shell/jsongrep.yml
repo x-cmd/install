@@ -6,7 +6,7 @@ desc:
   en: 'A path query language for JSON, YAML, TOML, and other serialization formats.'
 x:
   source: https://github.com/micahkepe/jsongrep
-  eget: https://github.com/micahkepe/jsongrep
+  eget: micahkepe/jsongrep
 rule:
   /eget:
     cmd: x eget micahkepe/jsongrep

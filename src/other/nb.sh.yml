@@ -6,7 +6,7 @@ desc:
   en: CLI and local web note-taking, bookmarking, and archiving with encryption, search, Git-backed versioning and syncing, tagging, and more in a single portable script.
 x:
   source: https://github.com/xwmx/nb
-  eget: https://github.com/xwmx/nb
+  eget: xwmx/nb
 rule:
   /x:
     cmd: x pkg use nb.sh

@@ -6,11 +6,10 @@ desc:
   en: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 x:
   source: https://github.com/9001/copyparty
-  eget: https://github.com/9001/copyparty
+  eget: 9001/copyparty
   brew: copyparty
   pacman: copyparty
   nix: github:9001/copyparty
-  pip: --user
 rule:
   /eget:
     cmd: x eget 9001/copyparty

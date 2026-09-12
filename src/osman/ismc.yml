@@ -6,7 +6,7 @@ desc:
   en: Apple SMC CLI tool that can decode and display temperature, fans, battery, power, voltage and current information
 x:
   source: https://github.com/dkorunic/iSMC
-  eget: https://github.com/dkorunic/iSMC
+  eget: dkorunic/iSMC
   go: github.com/dkorunic/iSMC@latest
 rule:
   /x:

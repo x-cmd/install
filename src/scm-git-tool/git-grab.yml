@@ -6,7 +6,7 @@ desc:
   en: A small tool to clone git repositories to a standard location, organised by domain name and path. It runs on BSD, Linux, macOS, Windows, and more
 x:
   source: https://github.com/wezm/git-grab
-  eget: https://github.com/wezm/git-grab
+  eget: wezm/git-grab
   cargo: git-grab
 rule:
   /eget:

@@ -6,8 +6,8 @@ desc:
   en: Browse, search, and track sessions and costs across all your AI coding agents, locally.
 x:
   source: https://github.com/kenn-io/agentsview
-  eget: https://github.com/kenn-io/agentsview
-  brew: --caskrule:
+  eget: kenn-io/agentsview
+rule:
   /eget:
     cmd: x eget use kenn-io/agentsview
     reference: https://x-cmd.com/mod/eget
@@ -16,7 +16,6 @@ x:
     reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
   darwin/brew:
     cmd: brew install --cask agentsview
-    reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
     reference: https://github.com/kenn-io/agentsview?tab=readme-ov-file#install
 binlist:
 - agentsview

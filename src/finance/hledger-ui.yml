@@ -6,7 +6,7 @@ desc:
   en: 'Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.'
 x:
   source: https://github.com/simonmichael/hledger
-  eget: https://github.com/simonmichael/hledger
+  eget: simonmichael/hledger
 rule:
   /eget:
     cmd: x eget simonmichael/hledger

@@ -6,7 +6,7 @@ desc:
   en: A modern alternative to the `du` command, used to view disk space usage
 x:
   source: https://github.com/bootandy/dust
-  eget: https://github.com/bootandy/dust
+  eget: bootandy/dust
   brew: dust
   scoop: dust
   pacstall: dust-bin

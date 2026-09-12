@@ -6,13 +6,13 @@ desc:
   cn: Encore 是自动提供类型安全基础设施的开发平台，从本地开发到在 AWS/GCP 上在云中扩展生产
 x:
   source: https://github.com/encoredev/encore
-  brew: encoredev/tap/encorerule:
+  brew: encoredev/tap/encore
+rule:
   darwin/brew:
     cmd: brew install encoredev/tap/encore
     reference: https://encore.dev/docs/quick-start#1-install-the-encore-cli
   /curl:
     cmd: curl -L https://encore.dev/install.sh | bash
-    reference: https://encore.dev/docs/quick-start#1-install-the-encore-cli
     reference: https://encore.dev/docs/quick-start#1-install-the-encore-cli
 binlist:
 - encore

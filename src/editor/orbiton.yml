@@ -6,7 +6,7 @@ desc:
   cn: Orbiton 是一款文本编辑器和简易的集成开发环境（IDE）。
 x:
   source: https://github.com/xyproto/orbiton
-  eget: https://github.com/xyproto/orbiton
+  eget: xyproto/orbiton
   brew: orbiton
   pacman: orbiton
   go: github.com/xyproto/orbiton/v2@latest

@@ -6,7 +6,7 @@ desc:
   en: A command-line tool that brings jq-style querying to structured data sources, including SQL databases and document formats like CSV or Excel.
 x:
   source: https://github.com/neilotoole/sq
-  eget: https://github.com/neilotoole/sq
+  eget: neilotoole/sq
   brew: sq
   scoop: sq
   yay: sq-bin

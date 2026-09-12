@@ -6,7 +6,7 @@ license: MIT
 lang: Go
 x:
   source: https://github.com/charmbracelet/gum
-  eget: https://github.com/charmbracelet/gum
+  eget: charmbracelet/gum
   apt: gum
   dnf: gum
   brew: gum

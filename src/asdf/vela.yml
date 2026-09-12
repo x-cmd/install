@@ -6,7 +6,7 @@ desc:
   en: KubeVela is a modern software delivery platform that makes deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable
 x:
   source: https://github.com/kubevela/kubevela
-  eget: https://github.com/kubevela/kubevela
+  eget: kubevela/kubevela
   asdf: vela
 rule:
   /eget:

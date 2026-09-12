@@ -6,7 +6,6 @@ desc:
   en: An interactive NVIDIA-GPU process viewer and beyond.
 x:
   source: https://github.com/XuehaiPan/nvitop
-  pip: --upgrade
 rule:
   /pipx:
     cmd: pipx install nvitop

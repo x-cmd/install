@@ -6,7 +6,7 @@ desc:
   en: Syncthing is a continuous file synchronization program
 x:
   source: https://github.com/syncthing/syncthing
-  eget: https://github.com/syncthing/syncthing
+  eget: syncthing/syncthing
   apt: syncthing
   dnf: syncthing
   pacman: syncthing

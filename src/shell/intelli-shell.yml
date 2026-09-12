@@ -6,7 +6,7 @@ desc:
   en: 'Like IntelliSense, but for shells'
 x:
   source: https://github.com/lasantosr/intelli-shell
-  eget: https://github.com/lasantosr/intelli-shell
+  eget: lasantosr/intelli-shell
 rule:
   /eget:
     cmd: x eget lasantosr/intelli-shell

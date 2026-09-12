@@ -6,7 +6,7 @@ desc:
   en: A Launcher and API for Modularized Java Applications
 x:
   source: https://github.com/moditect/layrry
-  eget: https://github.com/moditect/layrry
+  eget: moditect/layrry
 rule:
   /eget:
     cmd: x eget moditect/layrry

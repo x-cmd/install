@@ -6,7 +6,7 @@ desc:
   en: 'Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more'
 x:
   source: https://github.com/edoardottt/cariddi
-  eget: https://github.com/edoardottt/cariddi
+  eget: edoardottt/cariddi
 rule:
   /eget:
     cmd: x eget edoardottt/cariddi

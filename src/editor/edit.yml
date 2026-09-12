@@ -6,7 +6,7 @@ desc:
   en: A lightweight open-source command-line text editor from Microsoft, a homage to MS-DOS Editor with a VS Code-like interface
 x:
   source: https://github.com/microsoft/edit
-  eget: https://github.com/microsoft/edit
+  eget: microsoft/edit
   brew: msedit
   winget: Microsoft.Edit
 rule:

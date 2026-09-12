@@ -6,7 +6,7 @@ desc:
   en: ':key: Hash type identifier (CLI & lib)'
 x:
   source: https://github.com/noraj/haiti
-  eget: https://github.com/noraj/haiti
+  eget: noraj/haiti
 rule:
   /eget:
     cmd: x eget noraj/haiti

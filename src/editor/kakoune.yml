@@ -6,7 +6,7 @@ desc:
   en: 'mawww''s experiment for a better code editor'
 x:
   source: https://github.com/mawww/kakoune
-  eget: https://github.com/mawww/kakoune
+  eget: mawww/kakoune
 rule:
   /eget:
     cmd: x eget mawww/kakoune

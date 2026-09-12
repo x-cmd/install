@@ -6,7 +6,7 @@ desc:
   en: The starting point for next-gen agents by MoonshotAI. An AI coding agent that lives in your terminal, helping you read and edit code, run shell commands, search files, and complete software development tasks faster.
 x:
   source: https://github.com/MoonshotAI/kimi-code
-  eget: https://github.com/MoonshotAI/kimi-code
+  eget: MoonshotAI/kimi-code
   brew: kimi-code
 rule:
   /eget:

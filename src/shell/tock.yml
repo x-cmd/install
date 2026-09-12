@@ -6,7 +6,7 @@ desc:
   en: 'Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.'
 x:
   source: https://github.com/kriuchkov/tock
-  eget: https://github.com/kriuchkov/tock
+  eget: kriuchkov/tock
 rule:
   /eget:
     cmd: x eget kriuchkov/tock

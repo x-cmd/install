@@ -6,7 +6,7 @@ desc:
   en: A tool for converting Kubernetes API Objects (in YAML format) into HashiCorp's Terraform configuration language
 x:
   source: https://github.com/sl1pm4t/k2tf
-  eget: https://github.com/sl1pm4t/k2tf
+  eget: sl1pm4t/k2tf
   brew: k2tf
   yay: k2tf
   asdf: k2tf

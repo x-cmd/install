@@ -6,7 +6,7 @@ homepage: https://github.com/chenquan/diskusage
 license: Apache-2.0
 x:
   source: https://github.com/chenquan/diskusage
-  eget: https://github.com/chenquan/diskusage
+  eget: chenquan/diskusage
   yay: diskusage-bin
   go: github.com/chenquan/diskusage@latest
 rule:

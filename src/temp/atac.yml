@@ -6,7 +6,7 @@ desc:
   en: ATAC is Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed.
 x:
   source: https://github.com/Julien-cpsn/ATAC
-  eget: https://github.com/Julien-cpsn/ATAC
+  eget: Julien-cpsn/ATAC
   dnf: atac
   brew: julien-cpsn/atac/atac
   pacman: atac

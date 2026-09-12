@@ -6,7 +6,7 @@ desc:
   en: 'A blazing fast, Rust-based workspace manager for your temporary experiments.'
 x:
   source: https://github.com/tassiovirginio/try-rs
-  eget: https://github.com/tassiovirginio/try-rs
+  eget: tassiovirginio/try-rs
 rule:
   /eget:
     cmd: x eget tassiovirginio/try-rs

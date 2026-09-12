@@ -6,7 +6,7 @@ desc:
   en: 'Diff & Review'
 x:
   source: https://github.com/ahkohd/oyo
-  eget: https://github.com/ahkohd/oyo
+  eget: ahkohd/oyo
 rule:
   /eget:
     cmd: x eget ahkohd/oyo

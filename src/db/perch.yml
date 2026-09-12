@@ -6,7 +6,7 @@ desc:
   en: 'A beautiful terminal social client for Mastodon and Bluesky 🐦'
 x:
   source: https://github.com/ricardodantas/perch
-  eget: https://github.com/ricardodantas/perch
+  eget: ricardodantas/perch
 rule:
   /eget:
     cmd: x eget ricardodantas/perch

@@ -5,7 +5,7 @@ desc:
   en: Snyk is a developer-first cloud-native security tool
 x:
   source: https://github.com/snyk/cli
-  eget: https://github.com/snyk/cli
+  eget: snyk/cli
   brew: snyk/tap/snyk
   scoop: snyk
   npm: snyk@latest

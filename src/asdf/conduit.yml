@@ -6,7 +6,7 @@ desc:
   en: Conduit is a data integration tool for software engineers
 x:
   source: https://github.com/ConduitIO/conduit
-  eget: https://github.com/ConduitIO/conduit
+  eget: ConduitIO/conduit
   brew: conduit
   asdf: conduit
 rule:

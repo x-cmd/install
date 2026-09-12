@@ -6,10 +6,9 @@ desc:
   en: wiki-tui is a simple and easy-to-use Wikipedia text user interface written in rust
 x:
   source: https://github.com/Builditluc/wiki-tui
-  eget: https://github.com/Builditluc/wiki-tui
+  eget: Builditluc/wiki-tui
   xbps: wiki-tui
   cargo: wiki-tui
-  pkg: wiki-tui
 rule:
   /eget:
     cmd: x eget Builditluc/wiki-tui

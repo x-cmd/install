@@ -6,7 +6,7 @@ desc:
   en: Lightweight, open-source AI agent for your tools, chats, and workflows.
 x:
   source: https://github.com/HKUDS/nanobot
-  eget: https://github.com/HKUDS/nanobot
+  eget: HKUDS/nanobot
 rule:
   /eget:
     cmd: x eget HKUDS/nanobot

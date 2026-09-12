@@ -6,7 +6,7 @@ desc:
   en: openssl is the most popular SSL cryptographic library tool available today, providing a versatile, robust, and full-featured toolkit
 x:
   source: https://github.com/openssl/openssl
-  eget: https://github.com/openssl/openssl
+  eget: openssl/openssl
   apt: openssl
   dnf: openssl
   brew: openssl

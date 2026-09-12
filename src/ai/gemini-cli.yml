@@ -6,7 +6,7 @@ desc:
   en: Gemini CLI is an official command-line tool from Google. Designed as an AI-powered assistant for developers, it connects to your local tools, understands your code, and helps streamline your workflow.
 x:
   source: https://github.com/google-gemini/gemini-cli
-  eget: https://github.com/google-gemini/gemini-cli
+  eget: google-gemini/gemini-cli
   brew: gemini-cli
   yay: gemini-cli-live-bin
   npm: "@google/gemini-cli"

@@ -19,7 +19,6 @@ rule:
 
 x:
   winget: Baidu.BaiduNetdisk
-  brew: --cask
   flatpak: flathub
   yay: baidunetdisk-bin
 binlist:

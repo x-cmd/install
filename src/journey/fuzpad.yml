@@ -6,8 +6,9 @@ desc:
   cn: 一个极简的笔记管理解决方案
 x:
   source: https://github.com/JianZcar/FuzPad
-  eget: https://github.com/JianZcar/FuzPad
-  brew: JianZcar/packages/fuzpadrule:
+  eget: JianZcar/FuzPad
+  brew: JianZcar/packages/fuzpad
+rule:
   /eget:
     cmd: x eget JianZcar/FuzPad
     reference: https://x-cmd.com/mod/eget

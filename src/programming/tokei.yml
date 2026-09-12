@@ -16,7 +16,6 @@ x:
   winget: XAMPPRocky.tokei
   cargo: tokei
   asdf: tokei
-  pkg: tokei
 rule:
   /x:
     cmd: x pkg use tokei

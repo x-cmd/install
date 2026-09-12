@@ -6,7 +6,7 @@ desc:
   cn: Fastlane 是 iOS 和 Android 开发人员的一个工具，可以自动完成诸如生成屏幕截图、处理配置文件和发布应用程序等乏味的任务
 x:
   source: https://github.com/fastlane/fastlane
-  eget: https://github.com/fastlane/fastlane
+  eget: fastlane/fastlane
   brew: fastlane
   yay: fastlane
 rule:

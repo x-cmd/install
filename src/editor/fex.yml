@@ -6,7 +6,7 @@ desc:
   en: 'A command-line file explorer prioritizing quick navigation.'
 x:
   source: https://github.com/18alantom/fex
-  eget: https://github.com/18alantom/fex
+  eget: 18alantom/fex
 rule:
   /eget:
     cmd: x eget 18alantom/fex

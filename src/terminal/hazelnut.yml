@@ -6,7 +6,7 @@ desc:
   en: '🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.'
 x:
   source: https://github.com/ricardodantas/hazelnut
-  eget: https://github.com/ricardodantas/hazelnut
+  eget: ricardodantas/hazelnut
 rule:
   /eget:
     cmd: x eget ricardodantas/hazelnut

@@ -6,7 +6,7 @@ desc:
   en: The Azure Command-Line Interface to connect to Azure and execute administrative commands on Azure resources
 x:
   source: https://github.com/Azure/azure-cli
-  eget: https://github.com/Azure/azure-cli
+  eget: Azure/azure-cli
   brew: azure-cli
   pip: azure-cli
   asdf: azure-cli

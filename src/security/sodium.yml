@@ -5,8 +5,9 @@ desc:
   en: Sodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing, and more
 x:
   source: https://github.com/jedisct1/libsodium
-  eget: https://github.com/jedisct1/libsodium
-  brew: libsodiumrule:
+  eget: jedisct1/libsodium
+  brew: libsodium
+rule:
   /x:
     cmd: x pkg use sodium
     reference: https://x-cmd.com/install/

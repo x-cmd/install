@@ -6,7 +6,7 @@ desc:
   en: Grafana Tanka is the robust configuration utility for your Kubernetes cluster, powered by the unique Jsonnet language
 x:
   source: https://github.com/grafana/tanka
-  eget: https://github.com/grafana/tanka
+  eget: grafana/tanka
   brew: tanka
   go: github.com/grafana/tanka/cmd/tk@latest
   asdf: tanka

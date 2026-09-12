@@ -6,7 +6,7 @@ desc:
   en: Conventional commits, changelog, versioning, validation
 x:
   source: https://github.com/convco/convco
-  eget: https://github.com/convco/convco
+  eget: convco/convco
   brew: convco
   cargo: convco
 rule:

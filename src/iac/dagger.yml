@@ -6,7 +6,7 @@ desc:
   en: Dagger is an integrated platform to orchestrate the delivery of applications to the cloud from start to finish
 x:
   source: https://github.com/dagger/dagger
-  eget: https://github.com/dagger/dagger
+  eget: dagger/dagger
   brew: dagger/tap/dagger
   scoop: dagger
   yay: dagger-bin

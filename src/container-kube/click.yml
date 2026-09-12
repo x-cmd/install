@@ -6,7 +6,7 @@ desc:
   en: Click is the Command Line Interactive Controller for Kubernetes. Its purpose is to manage a large number of Kubernetes clusters/objects quickly and efficiently
 x:
   source: https://github.com/databricks/click
-  eget: https://github.com/databricks/click
+  eget: databricks/click
   brew: click
   cargo: click
 rule:

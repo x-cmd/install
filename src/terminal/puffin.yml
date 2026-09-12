@@ -6,7 +6,7 @@ desc:
   en: 'A beautiful terminal dashboard for hledger 💰'
 x:
   source: https://github.com/siddhantac/puffin
-  eget: https://github.com/siddhantac/puffin
+  eget: siddhantac/puffin
 rule:
   /eget:
     cmd: x eget siddhantac/puffin

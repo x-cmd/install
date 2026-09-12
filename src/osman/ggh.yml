@@ -6,7 +6,7 @@ desc:
   en: 'Recall your SSH sessions (also search your SSH config file)'
 x:
   source: https://github.com/byawitz/ggh
-  eget: https://github.com/byawitz/ggh
+  eget: byawitz/ggh
 rule:
   /eget:
     cmd: x eget byawitz/ggh

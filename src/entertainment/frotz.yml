@@ -28,7 +28,8 @@ x:
   dnf: frotz
   pacman: frotz
   apk: frotz
-  brew: frotzbinlist:
+  brew: frotz
+binlist:
 - frotz
 license: NOASSERTION
 

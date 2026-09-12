@@ -6,7 +6,7 @@ desc:
   en: A simple client and utils for interacting with OpenAI's Realtime API in Python
 x:
   source: https://github.com/run-llama/openai_realtime_client
-  eget: https://github.com/run-llama/openai_realtime_client
+  eget: run-llama/openai_realtime_client
 rule:
   /eget:
     cmd: x eget run-llama/openai_realtime_client

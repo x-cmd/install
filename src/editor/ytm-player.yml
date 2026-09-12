@@ -6,7 +6,7 @@ desc:
   en: 'YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys'
 x:
   source: https://github.com/peternaame-boop/ytm-player
-  eget: https://github.com/peternaame-boop/ytm-player
+  eget: peternaame-boop/ytm-player
 rule:
   /eget:
     cmd: x eget peternaame-boop/ytm-player

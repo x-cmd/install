@@ -6,8 +6,8 @@ desc:
   en: A command-line tool to switch input method on macOS
 x:
   source: https://github.com/daipeihust/im-select
-  brew: daipeihust/tap/im-selectrule:
-    reference: https://github.com/daipeihust/im-select?tab=readme-ov-file
+  brew: daipeihust/tap/im-select
+rule:
   darwin/brew:
     cmd: 'brew tap daipeihust/tap
 

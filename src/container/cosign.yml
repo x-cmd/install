@@ -6,7 +6,7 @@ desc:
   en: Cosign is developed as part of the sigstore project
 x:
   source: https://github.com/sigstore/cosign
-  eget: https://github.com/sigstore/cosign
+  eget: sigstore/cosign
   brew: cosign
   pacman: cosign
   apk: cosign

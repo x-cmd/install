@@ -6,7 +6,7 @@ desc:
   en: oma (Oh My Ailurus) is a package manager frontend for libapt-pkg
 x:
   source: https://github.com/aosc-dev/oma
-  eget: https://github.com/aosc-dev/oma
+  eget: aosc-dev/oma
   apt: oma
 rule:
   /eget:

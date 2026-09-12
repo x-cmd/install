@@ -6,8 +6,8 @@ desc:
   en: 'A markdown viewer for the terminal that renders images and Big Headers™'
 x:
   source: https://github.com/benjajaja/mdfried
-  eget: https://github.com/benjajaja/mdfried
-  cargo: mdfried'
+  eget: benjajaja/mdfried
+  cargo: mdfried
 rule:
   /cargo:
     cmd: 'cargo install mdfried'

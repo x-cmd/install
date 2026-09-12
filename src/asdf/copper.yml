@@ -6,7 +6,7 @@ desc:
   en: Copper is a simple tool for validate your configuration files
 x:
   source: https://github.com/cloud66-oss/copper
-  eget: https://github.com/cloud66-oss/copper
+  eget: cloud66-oss/copper
   asdf: copper
 rule:
   /eget:

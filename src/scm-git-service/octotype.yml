@@ -6,8 +6,8 @@ desc:
   en: 'A WIP TUI typing trainer inspired by monkeytype with a focus on customization'
 x:
   source: https://github.com/mahlquistj/octotype
-  eget: https://github.com/mahlquistj/octotype
-  cargo: octotype'
+  eget: mahlquistj/octotype
+  cargo: octotype
 rule:
   /cargo:
     cmd: 'cargo install octotype'

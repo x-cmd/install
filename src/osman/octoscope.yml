@@ -6,8 +6,9 @@ desc:
   en: 'Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed'
 x:
   source: https://github.com/gfazioli/octoscope
-  eget: https://github.com/gfazioli/octoscope
-  brew: terminal-notifierrule:
+  eget: gfazioli/octoscope
+  brew: terminal-notifier
+rule:
   darwin/brew:
     cmd: 'brew install terminal-notifier'
     reference: https://github.com/gfazioli/octoscope

@@ -6,7 +6,7 @@ desc:
   en: frp is a fast reverse proxy that allows you to expose a local server located behind a NAT or firewall to the Internet
 x:
   source: https://github.com/fatedier/frp
-  eget: https://github.com/fatedier/frp
+  eget: fatedier/frp
   brew: frpc
   yay: frpc
 rule:

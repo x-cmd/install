@@ -6,7 +6,7 @@ desc:
   en: '📸 Terminal output SVG screenshot tool'
 x:
   source: https://github.com/pamburus/termframe
-  eget: https://github.com/pamburus/termframe
+  eget: pamburus/termframe
 rule:
   /eget:
     cmd: x eget pamburus/termframe

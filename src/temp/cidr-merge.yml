@@ -6,7 +6,7 @@ desc:
   en: A simple utility to merge ip/ip cidr/ip range, support IPv4/IPv6
 x:
   source: https://github.com/zhanhb/cidr-merger
-  eget: https://github.com/zhanhb/cidr-merger
+  eget: zhanhb/cidr-merger
 rule:
   /eget:
     cmd: x eget zhanhb/cidr-merger

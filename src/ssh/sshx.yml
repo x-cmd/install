@@ -6,9 +6,8 @@ desc:
   en: A fast, collaborative live terminal sharing tool over the web with end-to-end encryption
 x:
   source: https://github.com/ekzhang/sshx
-  eget: https://github.com/ekzhang/sshx
+  eget: ekzhang/sshx
   brew: sshx
-  cargo: --git
 rule:
   /eget:
     cmd: x eget ekzhang/sshx

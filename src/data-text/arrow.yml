@@ -6,8 +6,9 @@ desc:
   en: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 x:
   source: https://github.com/apache/arrow
-  eget: https://github.com/apache/arrow
-  brew: apache-arrowrule:
+  eget: apache/arrow
+  brew: apache-arrow
+rule:
   /eget:
     cmd: x eget apache/arrow
     reference: https://x-cmd.com/mod/eget

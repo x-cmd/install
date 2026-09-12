@@ -6,7 +6,7 @@ desc:
   en: C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
 x:
   source: https://github.com/BLAKE2/libb2
-  eget: https://github.com/BLAKE2/libb2
+  eget: BLAKE2/libb2
   yay: libb2-git
 rule:
   /eget:

@@ -14,7 +14,7 @@ rule:
       '
     reference: https://github.com/rra/podlators
 
-x:
+x: {}
 binlist:
 - podlators
 license: NOASSERTION

@@ -6,8 +6,6 @@ desc:
   en: 'A Meta CLI toolkit : Personal shell command keeper and snippets manager'
 x:
   source: https://github.com/orkohunter/keep
-  brew: --cask
-  pip: .
 rule:
   /x:
     cmd: x pkg use keep

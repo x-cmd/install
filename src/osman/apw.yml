@@ -6,7 +6,7 @@ desc:
   en: 'A CLI for Apple Passwords (also known as iCloud Keychain)'
 x:
   source: https://github.com/bendews/apw
-  eget: https://github.com/bendews/apw
+  eget: bendews/apw
 rule:
   /eget:
     cmd: x eget bendews/apw

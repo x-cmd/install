@@ -5,7 +5,7 @@ desc:
   en: A Cloud Native Buildpack that adds custom CA certificates to a build and a created image
 x:
   source: https://github.com/curl/curl
-  eget: https://github.com/curl/curl
+  eget: curl/curl
   brew: ca-certificates
   scoop: cacert
 rule:

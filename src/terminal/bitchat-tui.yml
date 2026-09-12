@@ -6,7 +6,7 @@ desc:
   en: '🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.'
 x:
   source: https://github.com/vaibhav-mattoo/bitchat-tui
-  eget: https://github.com/vaibhav-mattoo/bitchat-tui
+  eget: vaibhav-mattoo/bitchat-tui
 rule:
   /eget:
     cmd: x eget vaibhav-mattoo/bitchat-tui

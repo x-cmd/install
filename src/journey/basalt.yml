@@ -6,7 +6,7 @@ desc:
   en: 'TUI Application to manage Obsidian notes directly from the terminal'
 x:
   source: https://github.com/erikjuhani/basalt
-  eget: https://github.com/erikjuhani/basalt
+  eget: erikjuhani/basalt
 rule:
   /eget:
     cmd: x eget erikjuhani/basalt

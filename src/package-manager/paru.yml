@@ -6,8 +6,7 @@ desc:
   en: Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction
 x:
   source: https://github.com/Morganamilo/paru
-  eget: https://github.com/Morganamilo/paru
-  pacman: --needed
+  eget: Morganamilo/paru
   makepkg: makepkg
   yay: paru
 rule:

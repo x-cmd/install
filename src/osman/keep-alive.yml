@@ -6,8 +6,8 @@ desc:
   en: 'Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.'
 x:
   source: https://github.com/stigoleg/keep-alive
-  eget: https://github.com/stigoleg/keep-alive
-  apt: ydotool'
+  eget: stigoleg/keep-alive
+  apt: ydotool
 rule:
   debian/apt:
     cmd: 'sudo apt install ydotool'

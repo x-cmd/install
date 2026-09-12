@@ -6,7 +6,7 @@ desc:
   en: Scan the QR code to transfer files from your computer to your mobile device over wifi without leaving the terminal
 x:
   source: https://github.com/claudiodangelis/qrcp
-  eget: https://github.com/claudiodangelis/qrcp
+  eget: claudiodangelis/qrcp
   brew: qrcp
   scoop: qrcp
   choco: qrcp

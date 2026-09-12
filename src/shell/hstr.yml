@@ -6,7 +6,7 @@ homepage: https://github.com/dvorka/hstr
 license: Apache-2.0
 x:
   source: https://github.com/dvorka/hstr
-  eget: https://github.com/dvorka/hstr
+  eget: dvorka/hstr
   apt: hstr
   dnf: hstr
   brew: hstr

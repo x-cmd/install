@@ -6,7 +6,6 @@ desc:
   en: jdcloud CLI
 x:
   source: https://github.com/jdcloud-api/jdcloud-cli
-  pip: -U
 rule:
   /x:
     cmd: x pkg use jdcloud_cli

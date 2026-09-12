@@ -6,7 +6,7 @@ desc:
   en: A customizable linting tool that helps you improve your website's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
 x:
   source: https://github.com/webhintio/hint
-  eget: https://github.com/webhintio/hint
+  eget: webhintio/hint
   npm: hint
 rule:
   /eget:

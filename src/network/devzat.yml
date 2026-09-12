@@ -6,7 +6,7 @@ desc:
   en: 'The devs are over here at devzat, chat over SSH!'
 x:
   source: https://github.com/quackduck/devzat
-  eget: https://github.com/quackduck/devzat
+  eget: quackduck/devzat
 rule:
   /eget:
     cmd: x eget quackduck/devzat

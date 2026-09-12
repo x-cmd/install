@@ -6,8 +6,7 @@ desc:
   en: tiny is an IRC client written in Rust
 x:
   source: https://github.com/osa1/tiny
-  eget: https://github.com/osa1/tiny
-  cargo: --git
+  eget: osa1/tiny
 rule:
   /eget:
     cmd: x eget osa1/tiny

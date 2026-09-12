@@ -6,7 +6,7 @@ desc:
   en: A CLI based DNS propagation checker with attractive output.
 x:
   source: https://github.com/unfrl/dug
-  eget: https://github.com/unfrl/dug
+  eget: unfrl/dug
   brew: dug
   pacman: dug
   snap: unfrl-dug

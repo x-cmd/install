@@ -6,7 +6,7 @@ desc:
   en: 'The ultimate beauty gRPC Client on your Terminal!'
 x:
   source: https://github.com/felangga/chiko
-  eget: https://github.com/felangga/chiko
+  eget: felangga/chiko
 rule:
   /eget:
     cmd: x eget felangga/chiko

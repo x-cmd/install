@@ -6,7 +6,7 @@ desc:
   en: RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name. Binaries are generated with goreleaser for each release for simple installation
 x:
   source: https://github.com/FairwindsOps/rbac-lookup
-  eget: https://github.com/FairwindsOps/rbac-lookup
+  eget: FairwindsOps/rbac-lookup
   brew: FairwindsOps/tap/rbac-lookup
   asdf: rbac-lookup
 rule:

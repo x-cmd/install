@@ -6,7 +6,7 @@ homepage: https://github.com/Metaphorme/ezcheck
 license: MIT
 x:
   source: https://github.com/Metaphorme/ezcheck
-  eget: https://github.com/Metaphorme/ezcheck
+  eget: Metaphorme/ezcheck
   cargo: ezcheck
 rule:
   /x:

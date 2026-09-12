@@ -6,7 +6,7 @@ desc:
   en: 'A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.'
 x:
   source: https://github.com/StakeSquid/dtop
-  eget: https://github.com/StakeSquid/dtop
+  eget: StakeSquid/dtop
 rule:
   /eget:
     cmd: x eget StakeSquid/dtop

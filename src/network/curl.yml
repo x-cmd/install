@@ -5,7 +5,7 @@ desc:
   en: A command line tool for transferring data with URL syntax
 x:
   source: https://github.com/curl/curl
-  eget: https://github.com/curl/curl
+  eget: curl/curl
   apt: curl
   dnf: curl
   brew: curl

@@ -6,7 +6,7 @@ desc:
   en: Oh My Posh is a custom prompt engine for any shell that has the ability to adjust the prompt string with a function or variable
 x:
   source: https://github.com/jandedobbeleer/oh-my-posh
-  eget: https://github.com/jandedobbeleer/oh-my-posh
+  eget: jandedobbeleer/oh-my-posh
   brew: jandedobbeleer/oh-my-posh/oh-my-posh
   scoop: https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
   winget: JanDeDobbeleer.OhMyPosh

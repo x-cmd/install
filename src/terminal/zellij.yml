@@ -6,7 +6,7 @@ desc:
   en: A terminal multiplexer for developers, ops-oriented people and anyone who loves the terminal
 x:
   source: https://github.com/zellij-org/zellij
-  eget: https://github.com/zellij-org/zellij
+  eget: zellij-org/zellij
   dnf: zellij
   brew: zellij
   pacman: zellij

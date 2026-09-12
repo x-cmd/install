@@ -6,14 +6,13 @@ desc:
   en: Fx is a dual-purpose command-line tool tailored for JSON, providing both a terminal-based JSON viewer and a JSON processing utility
 x:
   source: https://github.com/antonmedv/fx
-  eget: https://github.com/antonmedv/fx
+  eget: antonmedv/fx
   brew: fx
   pacman: fx
   snap: fx
   scoop: fx
   go: github.com/antonmedv/fx@latest
   asdf: fx
-  pkg: fx
 rule:
   /x:
     cmd: x pkg use fx

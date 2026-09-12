@@ -6,7 +6,7 @@ desc:
   en: k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker
 x:
   source: https://github.com/k3d-io/k3d
-  eget: https://github.com/k3d-io/k3d
+  eget: k3d-io/k3d
   apt: k3d
   dnf: k3d
   brew: k3d

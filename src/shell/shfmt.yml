@@ -6,7 +6,7 @@ desc:
   en: A shell parser, formatter, and interpreter
 x:
   source: https://github.com/mvdan/sh
-  eget: https://github.com/mvdan/sh
+  eget: mvdan/sh
   go: mvdan.cc/sh/v3/cmd/shfmt@latest
 rule:
   /x:

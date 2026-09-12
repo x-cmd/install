@@ -6,8 +6,8 @@ desc:
   en: 'see (Service Event Extraction) is a TUI based tool to lookup logs from services (systemd)'
 x:
   source: https://github.com/NustyFrozen/SEE
-  eget: https://github.com/NustyFrozen/SEE
-  cargo: seetui'
+  eget: NustyFrozen/SEE
+  cargo: seetui
 rule:
   /cargo:
     cmd: 'cargo install seetui'

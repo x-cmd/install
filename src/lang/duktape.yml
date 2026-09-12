@@ -9,7 +9,8 @@ rule:
     reference: https://formulae.brew.sh/formula/duktape#default
 
 x:
-  brew: duktapebinlist:
+  brew: duktape
+binlist:
 - duktape
 license: NOASSERTION
 

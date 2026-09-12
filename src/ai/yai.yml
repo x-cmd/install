@@ -6,7 +6,7 @@ desc:
   en: An assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
 x:
   source: https://github.com/ekkinox/yai
-  eget: https://github.com/ekkinox/yai
+  eget: ekkinox/yai
   yay: yai
 rule:
   /eget:

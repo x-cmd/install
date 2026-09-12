@@ -6,7 +6,7 @@ desc:
   en: '🗂️ a pleasant file explorer in your terminal supporting all filesystems'
 x:
   source: https://github.com/juftin/browsr
-  eget: https://github.com/juftin/browsr
+  eget: juftin/browsr
 rule:
   /eget:
     cmd: x eget juftin/browsr

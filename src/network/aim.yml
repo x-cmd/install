@@ -6,7 +6,7 @@ desc:
   en: A command line download/upload tool with resume.
 x:
   source: https://github.com/mihaigalos/aim
-  eget: https://github.com/mihaigalos/aim
+  eget: mihaigalos/aim
   brew: aim
   yay: aim-bin
   paru: aim

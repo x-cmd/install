@@ -8,7 +8,6 @@ x:
   source: https://github.com/cjlin1/liblinear
   brew: liblinear
   yay: liblinear
-  pip: -U
 rule:
   arch/yay:
     cmd: yay -S liblinear

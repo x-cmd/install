@@ -10,7 +10,6 @@ x:
   pacman: nvtop
   snap: nvtop
   zypper: nvtop
-  emerge: -av
   yay: nvtop-git
 rule:
   debian/apt:

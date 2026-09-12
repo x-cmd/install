@@ -6,7 +6,7 @@ desc:
   en: 'minimal terminal typing tester'
 x:
   source: https://github.com/ashish0kumar/typtea
-  eget: https://github.com/ashish0kumar/typtea
+  eget: ashish0kumar/typtea
 rule:
   /go:
     cmd: 'go install'

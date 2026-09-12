@@ -6,7 +6,7 @@ desc:
   en: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 x:
   source: https://github.com/mlabonne/llm-course
-  eget: https://github.com/mlabonne/llm-course
+  eget: mlabonne/llm-course
 rule:
   /eget:
     cmd: x eget mlabonne/llm-course

@@ -6,7 +6,7 @@ desc:
   en: Dry is a terminal application to manage Docker and Docker Swarm
 x:
   source: https://github.com/moncho/dry
-  eget: https://github.com/moncho/dry
+  eget: moncho/dry
   brew: moncho/dry/dry
   yay: dry-bin
 rule:

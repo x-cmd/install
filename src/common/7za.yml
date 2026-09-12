@@ -5,7 +5,7 @@ desc:
   en: 7za is an open-source file compression and decompression tool, which is a command-line version of 7-Zip
 x:
   source: https://github.com/ip7z/7zip
-  eget: https://github.com/ip7z/7zip
+  eget: ip7z/7zip
   apt: p7zip-full
   dnf: p7zip
   brew: p7zip

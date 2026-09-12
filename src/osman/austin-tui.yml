@@ -6,7 +6,7 @@ desc:
   en: 'The top-like text-based user interface for Austin'
 x:
   source: https://github.com/P403n1x87/austin-tui
-  eget: https://github.com/P403n1x87/austin-tui
+  eget: P403n1x87/austin-tui
 rule:
   /eget:
     cmd: x eget P403n1x87/austin-tui

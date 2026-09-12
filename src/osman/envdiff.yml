@@ -6,7 +6,7 @@ desc:
   en: 'cli tool to snapshot and diff environments - helping find the differences that matter'
 x:
   source: https://github.com/GBerghoff/envdiff
-  eget: https://github.com/GBerghoff/envdiff
+  eget: GBerghoff/envdiff
 rule:
   /eget:
     cmd: x eget GBerghoff/envdiff

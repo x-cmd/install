@@ -6,8 +6,8 @@ desc:
   en: 'Lightweight file-based CLI API client with age-encrypted secrets and first-class GraphQL support.'
 x:
   source: https://github.com/xaaha/hulak
-  eget: https://github.com/xaaha/hulak
-  go: github.com/xaaha/hulak@latest'
+  eget: xaaha/hulak
+  go: github.com/xaaha/hulak@latest
 rule:
   /go:
     cmd: 'go install github.com/xaaha/hulak@latest'

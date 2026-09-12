@@ -6,7 +6,7 @@ desc:
   en: CLI Tool for 8k context ai models
 x:
   source: https://github.com/razvanneculai/litecode
-  eget: https://github.com/razvanneculai/litecode
+  eget: razvanneculai/litecode
 rule:
   /eget:
     cmd: x eget razvanneculai/litecode

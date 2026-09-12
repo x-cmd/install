@@ -6,7 +6,7 @@ desc:
   en: 'Jupyter notebooks in the terminal'
 x:
   source: https://github.com/joouha/euporie
-  eget: https://github.com/joouha/euporie
+  eget: joouha/euporie
 rule:
   /eget:
     cmd: x eget joouha/euporie

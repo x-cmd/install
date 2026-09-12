@@ -5,7 +5,7 @@ desc:
   en: A tool proclaims itself the world's fastest, most advanced password cracker, boasting support for a wide array of password hashing algorithms, including LM hash, MD5, and the SHA family.
 x:
   source: https://github.com/hashcat/hashcat
-  eget: https://github.com/hashcat/hashcat
+  eget: hashcat/hashcat
   apt: hashcat
   dnf: hashcat
   brew: hashcat

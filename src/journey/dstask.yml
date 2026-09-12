@@ -6,12 +6,11 @@ desc:
   en: Dstask is a personal task tracker designed to help you focus. It is similar to Taskwarrior but uses git to synchronise instead of a special protocol.
 x:
   source: https://github.com/naggie/dstask
-  eget: https://github.com/naggie/dstask
+  eget: naggie/dstask
   brew: dstask
   pacman: dstask
   apk: dstask
   yay: dstask
-  pkg: dstask
 rule:
   /eget:
     cmd: x eget naggie/dstask

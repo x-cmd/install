@@ -6,11 +6,9 @@ desc:
 x:
   source: https://github.com/hashicorp/terraform
   apt: terraform
-  dnf: -y
   brew: hashicorp/tap/terraform
   pacman: terraform
   apk: terraform
-  yum: -y
   asdf: terraform
 rule:
   /x:

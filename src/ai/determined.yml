@@ -6,7 +6,7 @@ desc:
   en: 'Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.'
 x:
   source: https://github.com/determined-ai/determined
-  eget: https://github.com/determined-ai/determined
+  eget: determined-ai/determined
 rule:
   /eget:
     cmd: x eget determined-ai/determined

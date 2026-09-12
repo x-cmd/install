@@ -6,9 +6,8 @@ desc:
   en: gomplate is a flexible commandline tool for template rendering. Supports lots of local and remote datasources
 x:
   source: https://github.com/hairyhenderson/gomplate
-  eget: https://github.com/hairyhenderson/gomplate
+  eget: hairyhenderson/gomplate
   brew: gomplate
-  apk: --no-cache
   port: gomplate
   choco: gomplate
   yay: gomplate-bin

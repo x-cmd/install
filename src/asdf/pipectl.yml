@@ -6,7 +6,7 @@ desc:
   en: A GitOps style continuous delivery platform that provides consistent deployment and operations experience for any applications
 x:
   source: https://github.com/pipe-cd/pipecd
-  eget: https://github.com/pipe-cd/pipecd
+  eget: pipe-cd/pipecd
   asdf: pipectl
 rule:
   /eget:
