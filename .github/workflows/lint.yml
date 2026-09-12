@@ -12,7 +12,7 @@ permissions:
 jobs:
   lint:
     name: ajv schema + deno field linter
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     timeout-minutes: 5
 
     steps:
