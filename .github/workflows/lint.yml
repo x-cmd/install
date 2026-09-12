@@ -1,0 +1,44 @@
+name: Lint
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: ajv schema + deno field linter
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install x-cmd (provides `x ajv`).
+      # Mirrors what every contributor does locally per CLAUDE.md.
+      - name: Install x-cmd
+        run: |
+          curl -sf https://get.x-cmd.com | sh -s -- -y
+          echo "$HOME/.x-cmd.root/bin" >> "$GITHUB_PATH"
+
+      # Schema check via x ajv — same command run locally.
+      - name: ajv schema check
+        run: |
+          # fail if the two schema copies drift
+          diff -q .vscode/install.schema.json .x-cmd/install-yml-check.schema.json
+          # validate every yml in src/
+          x ajv -s .vscode/install.schema.json src/
+
+      # Field-level linter (catches issues schema can't express:
+      # pkg-as-string, concat-line, flag-as-value, etc.).
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: deno field linter
+        run: deno run --allow-read .x-cmd/lint-yml.deno.ts
