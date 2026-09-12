@@ -7,8 +7,15 @@ permissions:
   contents: write
 
 jobs:
+  # Empty trigger-anchor so workflow_dispatch can fire this workflow.
+  # GitHub rejects dispatch when every job has a `needs:` dep.
+  preflight:
+    runs-on: ubuntu-slim
+    timeout-minutes: 1
+    steps:
+      - run: echo "preflight ok"
   build:
-    needs: lint
+    needs: [preflight, lint]
     runs-on: ubuntu-slim
     timeout-minutes: 30
 
