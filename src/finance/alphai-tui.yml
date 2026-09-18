@@ -8,7 +8,9 @@ desc:
 
 x:
   source: https://github.com/makeev/alphai-tui
-  eget: makeev/alphai-tui
+  eget: https://github.com/makeev/alphai-tui
+  brew: makeev/tap/alphai-tui
+
 rule:
   /eget:
     cmd: x eget makeev/alphai-tui
@@ -39,6 +41,9 @@ rule:
       echo "deb [signed-by=/etc/apt/keyrings/alphai-tui.gpg] https://makeev.github.io/alphai-tui-apt stable main" | sudo tee /etc/apt/sources.list.d/alphai-tui.list && \
       sudo apt update && sudo apt install alphai-tui
     reference: https://makeev.github.io/alphai-tui-apt/
+  win/powershell:
+    cmd: x pwsh 'powershell -ExecutionPolicy Bypass -c "irm https://github.com/makeev/alphai-tui/releases/latest/download/alphai-tui-installer.ps1 | iex"'
+    reference: https://github.com/makeev/alphai-tui#install
 
 binlist:
   - alphai-tui
