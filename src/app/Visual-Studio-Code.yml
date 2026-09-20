@@ -82,46 +82,53 @@ rule:
 binlist:
 - Visual-Studio-Code
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
       type: gui
     network:
-      listen: none
+      listen: localhost
       connect:
-        localhost: false
+        localhost: true
         lan: false
-        internet: false
+        internet: true
     filesystem:
       read:
         desc:
-          cn: 读取配置文件
-          en: Reads config files
+          cn: 读取配置文件、扩展设置
+          en: Reads config files, extension settings
         sensitive: []
   resource:
     disk:
       size:
         install:
-          estimate: 15 MB
-          rating: 2
+          estimate: 1.2 GB
+          rating: 5
           desc:
-            cn: 约 15 MB（估算）
-            en: ~15 MB estimated
+            cn: 安装 1.2 GB（Electron 运行时）
+            en: 1.2 GB install (Electron runtime)
+        download:
+          estimate: 227 MB
+          desc:
+            cn: 约 227 MB 下载 (linux/x64 .deb)
+            en: ~227 MB download (linux/x64 .deb)
       paths:
-        data: []
+        data:
+          - ~/.vscode/extensions
+          - ~/.config/Code
         config: []
     memory:
       idle:
-        estimate: 35 MB
+        estimate: 300 MB
         desc:
-          cn: 35 MB（估算）
-          en: 35 MB estimated
+          cn: 300 MB（公开数据，未实测）
+          en: 300 MB (public data, not measured here)
     cpu:
-      workload: ['compute']
-      processes: 1
+      workload: ['compute', 'io']
+      processes: 4
       peak:
-        rating: 2
+        rating: 4
         desc:
-          cn: 极低
-          en: Negligible
+          cn: 高
+          en: Heavy

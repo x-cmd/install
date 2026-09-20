@@ -67,7 +67,7 @@ rule:
 binlist:
 - vim
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -81,27 +81,34 @@ footprint:
     filesystem:
       read:
         desc:
-          cn: 读取配置文件
-          en: Reads config files
+          cn: 读取 ~/.vimrc, ~/.vim/
+          en: Reads ~/.vimrc, ~/.vim/
         sensitive: []
   resource:
     disk:
       size:
         install:
-          estimate: 19 MB
-          rating: 2
+          estimate: 4 MB
+          rating: 1
           desc:
-            cn: 约 19 MB（估算）
-            en: ~19 MB estimated
+            cn: 安装 4 MB (apt vim-nox)
+            en: 4 MB install (apt vim-nox)
+        download:
+          estimate: 4 MB
+          desc:
+            cn: 约 4 MB 下载 (apt)
+            en: ~4 MB download (apt)
       paths:
         data: []
-        config: []
+        config:
+          - ~/.vimrc
+          - ~/.vim/
     memory:
       idle:
         estimate: 10 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 10 MB（实测，RSS=9720 KB）
+          en: 10 MB (measured, RSS=9720 KB)
     cpu:
       workload: ['compute']
       processes: 1

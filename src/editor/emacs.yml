@@ -97,11 +97,16 @@ footprint:
     disk:
       size:
         install:
-          estimate: 10 MB
+          estimate: 38 MB
           rating: 2
           desc:
-            cn: 约 10 MB（估算）
-            en: ~10 MB estimated
+            cn: 安装 38 MB (apt emacs-nox + el)
+            en: 38 MB install (apt emacs-nox + el)
+        download:
+          estimate: 40 MB
+          desc:
+            cn: 约 40 MB 下载 (apt)
+            en: ~40 MB download (apt)
         growth:
           desc:
             cn: ~/.emacs.d 随使用增长（包、历史）
@@ -114,10 +119,10 @@ footprint:
           - "~/.emacs.d/init.el"
     memory:
       idle:
-        estimate: 20 MB
+        estimate: 18 MB
         desc:
-          cn: 20 MB（估算）
-          en: 20 MB estimated
+          cn: 18 MB（实测，RSS=18148 KB）
+          en: 18 MB (measured, RSS=18148 KB)
       peak:
         estimate: 200 MB
         desc:
