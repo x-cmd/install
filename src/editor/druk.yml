@@ -1,0 +1,48 @@
+lang: TypeScript
+homepage: https://github.com/letstri/druk
+license: MIT
+desc:
+  cn: 终端代码编辑器：单文件二进制、tree-sitter 语法高亮与 LSP、git 标记、文件树与多标签
+  en: A code editor for the terminal — one self-contained binary with tree-sitter syntax, language servers, git marks, file tree and tabs
+x:
+  source: https://github.com/letstri/druk
+  eget: letstri/druk
+  brew: druk
+  npm: druk
+rule:
+  /eget:
+    cmd: x eget letstri/druk
+    reference: https://x-cmd.com/mod/eget
+  /x:
+    cmd: x pkg use druk
+    reference: https://x-cmd.com/install/
+  /curl:
+    cmd: curl -fsSL https://druk.letstri.dev/install | bash
+    reference: https://github.com/letstri/druk#install
+  /npm:
+    cmd: npm install -g druk
+    reference: https://github.com/letstri/druk#install
+    dsnap: druk
+  /bun:
+    cmd: bun add -g druk
+    reference: https://github.com/letstri/druk#install
+  darwin/brew:
+    cmd: brew install letstri/tap/druk
+    reference: https://github.com/letstri/druk#install
+  debian/apt:
+    cmd: sudo dpkg -i druk_*.deb
+    reference: https://github.com/letstri/druk/releases
+  ubuntu/apt:
+    cmd: sudo dpkg -i druk_*.deb
+    reference: https://github.com/letstri/druk/releases
+  fedora/dnf:
+    cmd: sudo rpm -U druk-*.rpm
+    reference: https://github.com/letstri/druk/releases
+  opensuse/zypper:
+    cmd: sudo rpm -U druk-*.rpm
+    reference: https://github.com/letstri/druk/releases
+  (win|wsl2)/scoop:
+    cmd: x scoop install druk
+    reference: https://github.com/letstri/druk#install
+binlist:
+  - druk
