@@ -58,7 +58,7 @@ rule:
 binlist:
 - fresh
 
-# complicated
+# already profiled
 footprint:
   behavior:
     runtime:
@@ -79,25 +79,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 33 MB
+          estimate: 38 MB
           rating: 2
           desc:
-            cn: 约 33 MB（估算）
-            en: ~33 MB estimated
+            cn: 安装 38 MB
+            en: 38 MB install
         download:
           estimate: 10 MB
           desc:
-            cn: 约 10 MB 下载 (linux/arm64)
-            en: ~10 MB download (linux/arm64)
+            cn: 约 10 MB 下载 (linux/x64)
+            en: ~10 MB download (linux/x64)
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 5 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 5 MB（空闲）
+          en: 5 MB idle
     cpu:
       workload: ['compute']
       processes: 1

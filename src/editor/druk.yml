@@ -46,3 +46,56 @@ rule:
     reference: https://github.com/letstri/druk#install
 binlist:
   - druk
+
+# already profiled
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 140 MB
+          rating: 3
+          desc:
+            cn: 安装 140 MB
+            en: 140 MB install
+        download:
+          estimate: 46 MB
+          desc:
+            cn: 约 46 MB 下载 (linux/x64)
+            en: ~46 MB download (linux/x64)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 33 MB
+        desc:
+          cn: 33 MB（空闲）
+          en: 33 MB idle
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中
+          en: Moderate
+  platform:
+    win: full
+    linux: full
+    darwin: full
