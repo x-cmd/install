@@ -1,0 +1,94 @@
+lang: TypeScript
+homepage: https://tabby.sh/
+license: MPL-2.0
+desc:
+  cn: Tabby 是一个基于 Electron 的跨平台终端，内置 SSH 连接管理器、串口、插件。
+  en: Tabby is a cross-platform Electron-based terminal with built-in SSH connection manager, serial port, and plugin system.
+x:
+  source: https://github.com/Eugeny/tabby
+  brew: tabby
+  scoop: tabby
+  choco: tabby
+  winget: Eugeny.Tabby
+  apt: tabby-terminal
+  dnf: tabby
+  pacman: tabby
+  flatpak: org.tabby.Terminal
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'curl -fsSL https://packagecloud.io/ Eugeny/tabby/gpgkey | sudo gpg --dearmor -o /usr/share/keyrings/tabby.gpg && echo "deb [signed-by=/usr/share/keyrings/tabby.gpg] https://packagecloud.io/Eugeny/tabby/debian/ bookworm main" | sudo tee /etc/apt/sources.list.d/tabby.list && sudo apt update && sudo apt install -y tabby-terminal'
+    reference: https://github.com/Eugeny/tabby
+    dsnap: tabby-terminal
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'curl -fsSL https://packagecloud.io/Eugeny/tabby/gpgkey | sudo gpg --dearmor -o /etc/pki/rpm-gpg/RPM-GPG-KEY-tabby && echo "[tabby] name=tabby baseurl=https://packagecloud.io/Eugeny/tabby/fedora/36/x86_64 enabled=1 gpgcheck=1 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-tabby" | sudo tee /etc/yum.repos.d/tabby.repo && sudo dnf install -y tabby'
+    reference: https://github.com/Eugeny/tabby
+    dsnap: tabby
+  (linux|arch|manjaro)/pacman:
+    cmd: yay -S tabby
+    reference: https://aur.archlinux.org/packages/tabby
+  darwin/brew:
+    cmd: brew install --cask tabby
+    reference: https://formulae.brew.sh/cask/tabby
+  (win|wsl2)/scoop:
+    cmd: x scoop install tabby
+    reference: https://scoop.sh/#/apps?q=tabby
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Eugeny.Tabby
+    reference: https://winget.run/pkg/Eugeny/Tabby
+  (win|wsl2)/choco:
+    cmd: x choco install tabby
+    reference: https://community.chocolatey.org/packages/tabby
+  /flatpak:
+    cmd: flatpak install flathub org.tabby.Terminal
+    reference: https://flathub.org/apps/org.tabby.Terminal
+binlist:
+- tabby
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、SSH 配置
+          en: Reads config files, SSH config
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 200 MB
+          rating: 3
+          desc:
+            cn: 约 200 MB 安装（Electron 类）
+            en: ~200 MB install (Electron-based)
+      paths:
+        data:
+          - ~/.config/Eugeny
+        config:
+          - ~/.config/Eugeny
+    memory:
+      idle:
+        estimate: 250 MB
+        desc:
+          cn: 约 250 MB 闲置
+          en: ~250 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 中（Electron 类）
+          en: Medium (Electron-based)
+  platform:
+    win: full
+    linux: full
+    darwin: full

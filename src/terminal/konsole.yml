@@ -1,0 +1,81 @@
+lang: C++
+homepage: https://konsole.kde.org/
+license: GPL-2.0
+desc:
+  cn: Konsole 是 KDE 桌面的默认终端模拟器，带分割、标签、配置文件等丰富功能。
+  en: Konsole is the default terminal emulator of the KDE desktop, with splits, tabs, profiles, and rich features.
+x:
+  source: https://invent.kde.org/utilities/konsole
+  apt: konsole
+  dnf: konsole
+  pacman: konsole
+  brew: konsole
+  snap: konsole
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: sudo apt-get install konsole
+    reference: https://konsole.kde.org/download.html
+    dsnap: konsole
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: sudo dnf install konsole
+    reference: https://src.fedoraproject.org/rpms/konsole
+    dsnap: konsole
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S konsole
+    reference: https://wiki.archlinux.org/title/Konsole
+  darwin/brew:
+    cmd: brew install --cask konsole
+    reference: https://formulae.brew.sh/cask/konsole
+  /snap:
+    cmd: sudo snap install konsole
+    reference: https://snapcraft.io/konsole
+binlist:
+- konsole
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 35 MB
+          rating: 1
+          desc:
+            cn: 约 35 MB 安装
+            en: ~35 MB install
+      paths:
+        data: []
+        config:
+          - ~/.config/konsolerc
+    memory:
+      idle:
+        estimate: 60 MB
+        desc:
+          cn: 约 60 MB 闲置
+          en: ~60 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 2
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none

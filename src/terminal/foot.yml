@@ -1,0 +1,78 @@
+lang: C
+homepage: https://codeberg.org/dnkl/foot
+license: MIT
+desc:
+  cn: foot 是一个轻量、快速的 Wayland 终端模拟器，使用 wlroots 构建。
+  en: foot is a lightweight, fast Wayland terminal emulator built on wlroots.
+x:
+  source: https://codeberg.org/dnkl/foot
+  apt: foot
+  dnf: foot
+  pacman: foot
+  brew: foot
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: sudo apt-get install foot
+    reference: https://codeberg.org/dnkl/foot
+    dsnap: foot
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: sudo dnf install foot
+    reference: https://src.fedoraproject.org/rpms/foot
+    dsnap: foot
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S foot
+    reference: https://wiki.archlinux.org/title/Foot
+  darwin/brew:
+    cmd: brew install foot
+    reference: https://formulae.brew.sh/foot
+binlist:
+- foot
+- footclient
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 5 MB
+          rating: 1
+          desc:
+            cn: 约 5 MB 安装
+            en: ~5 MB install
+      paths:
+        data: []
+        config:
+          - ~/.config/foot/foot.ini
+    memory:
+      idle:
+        estimate: 15 MB
+        desc:
+          cn: 约 15 MB 闲置
+          en: ~15 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none

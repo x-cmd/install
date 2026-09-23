@@ -1,0 +1,77 @@
+lang: C
+homepage: https://gitlab.gnome.org/GNOME/gnome-terminal
+license: GPL-2.0
+desc:
+  cn: GNOME Terminal 是 GNOME 桌面的默认终端模拟器，使用 VTE 库。
+  en: GNOME Terminal is the default terminal emulator of the GNOME desktop, built on the VTE library.
+x:
+  source: https://gitlab.gnome.org/GNOME/gnome-terminal
+  apt: gnome-terminal
+  dnf: gnome-terminal
+  pacman: gnome-terminal
+  brew: gnome-terminal
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: sudo apt-get install gnome-terminal
+    reference: https://help.gnome.org/users/gnome-terminal/stable/
+    dsnap: gnome-terminal
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: sudo dnf install gnome-terminal
+    reference: https://src.fedoraproject.org/rpms/gnome-terminal
+    dsnap: gnome-terminal
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S gnome-terminal
+    reference: https://wiki.archlinux.org/title/GNOME_Terminal
+  darwin/brew:
+    cmd: brew install --cask gnome-terminal
+    reference: https://formulae.brew.sh/cask/gnome-terminal
+binlist:
+- gnome-terminal
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件
+          en: Reads config files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 30 MB
+          rating: 1
+          desc:
+            cn: 约 30 MB 安装
+            en: ~30 MB install
+      paths:
+        data: []
+        config:
+          - ~/.gconf/apps/gnome-terminal
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 约 50 MB 闲置
+          en: ~50 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 2
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: none
+    linux: full
+    darwin: none
