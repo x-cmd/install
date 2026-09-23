@@ -1,0 +1,82 @@
+lang: C++
+homepage: https://www.microsoft.com/edge
+license: NOASSERTION
+desc:
+  cn: Microsoft Edge 是 Microsoft 的 Chromium 浏览器，与 Windows 深度集成，内置 Copilot AI。
+  en: Microsoft Edge is Microsoft's Chromium browser, deeply integrated with Windows and built-in Copilot AI.
+x:
+  source: https://github.com/microsoft-edge/microsoft-edge
+  brew: microsoft-edge
+  pacman: microsoft-edge-stable
+  winget: Microsoft.Edge
+  dnf: microsoft-edge-stable
+  apt: microsoft-edge-stable
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-edge.gpg && echo "deb [signed-by=/usr/share/keyrings/microsoft-edge.gpg] https://packages.microsoft.com/repos/edge stable main" | sudo tee /etc/apt/sources.list.d/microsoft-edge.list && sudo apt update && sudo apt install -y microsoft-edge-stable'
+    reference: https://learn.microsoft.com/en-us/deployedge/
+    dsnap: microsoft-edge-stable
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc && sudo dnf config-manager --add-repo https://packages.microsoft.com/yumrepos/edge && sudo dnf install -y microsoft-edge-stable'
+    reference: https://learn.microsoft.com/en-us/deployedge/
+    dsnap: microsoft-edge-stable
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S microsoft-edge-stable
+    reference: https://aur.archlinux.org/packages/microsoft-edge-stable
+  darwin/brew:
+    cmd: brew install --cask microsoft-edge
+    reference: https://formulae.brew.sh/cask/microsoft-edge
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Microsoft.Edge
+    reference: https://winget.run/pkg/Microsoft/Edge
+binlist:
+- microsoft-edge
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 350 MB
+          rating: 2
+          desc:
+            cn: 约 350 MB 安装
+            en: ~350 MB install
+      paths:
+        data:
+          - ~/.config/microsoft-edge
+        config:
+          - ~/.config/microsoft-edge
+    memory:
+      idle:
+        estimate: 300 MB
+        desc:
+          cn: 约 300 MB 闲置
+          en: ~300 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 7
+      peak:
+        rating: 2
+        desc:
+          cn: 中
+          en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

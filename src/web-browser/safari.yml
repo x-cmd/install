@@ -1,0 +1,63 @@
+lang: C++
+homepage: https://www.apple.com/safari/
+license: NOASSERTION
+desc:
+  cn: Safari 是 Apple 的网页浏览器，基于 WebKit 引擎，与 macOS / iOS / iPadOS 深度集成。
+  en: Safari is Apple's web browser, powered by WebKit, deeply integrated with macOS / iOS / iPadOS.
+x:
+  source: https://github.com/WebKit/WebKit
+rule:
+  darwin/system:
+    cmd: 'Safari ships bundled with macOS — no separate install needed. Update via System Settings → Software Update.'
+    reference: https://support.apple.com/guide/safari/welcome/mac
+binlist:
+- safari
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 100 MB
+          rating: 1
+          desc:
+            cn: 随 macOS 自带
+            en: Bundled with macOS
+      paths:
+        data:
+          - ~/Library/Safari
+        config:
+          - ~/Library/Safari
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: 约 200 MB 闲置
+          en: ~200 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 中（Apple silicon 上低）
+          en: Medium (low on Apple silicon)
+  platform:
+    win: none
+    linux: none
+    darwin: full

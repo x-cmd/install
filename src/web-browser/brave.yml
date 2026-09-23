@@ -1,0 +1,98 @@
+lang: C++
+homepage: https://brave.com/
+license: MPL-2.0
+desc:
+  cn: Brave 是一个注重隐私的 Chromium 浏览器，内置广告拦截、防追踪与可选 VPN。
+  en: Brave is a privacy-focused Chromium browser with built-in ad-blocking, anti-tracking, and optional VPN.
+x:
+  source: https://github.com/brave/brave-browser
+  apt: brave-browser
+  dnf: brave-browser
+  brew: brave-browser
+  pacman: brave-browser
+  scoop: brave
+  choco: brave
+  winget: BraveSoftware.BraveBrowser
+  flatpak: com.brave.Browser
+  snap: brave
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'sudo apt install -y curl && curl -fsSL https://brave-browser-apt-key.s3.brave.com/brave-core.asc | sudo gpg --dearmor -o /usr/share/keyrings/brave-browser-release.gpg && echo "deb [signed-by=/usr/share/keyrings/brave-browser-release.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list && sudo apt update && sudo apt install -y brave-browser'
+    reference: https://brave.com/linux/
+    dsnap: brave-browser
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo dnf install -y dnf-plugins-core && sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo && sudo dnf install -y brave-browser'
+    reference: https://brave.com/linux/
+    dsnap: brave-browser
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S brave-browser
+    reference: https://wiki.archlinux.org/title/Brave
+  darwin/brew:
+    cmd: brew install --cask brave-browser
+    reference: https://formulae.brew.sh/cask/brave-browser
+  (win|wsl2)/scoop:
+    cmd: x scoop install brave
+    reference: https://scoop.sh/#/apps?q=brave
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id BraveSoftware.BraveBrowser
+    reference: https://winget.run/pkg/BraveSoftware/BraveBrowser
+  (win|wsl2)/choco:
+    cmd: x choco install brave
+    reference: https://community.chocolatey.org/packages/brave
+  /flatpak:
+    cmd: flatpak install flathub com.brave.Browser
+    reference: https://flathub.org/apps/com.brave.Browser
+  /snap:
+    cmd: sudo snap install brave
+    reference: https://snapcraft.io/brave
+binlist:
+- brave-browser
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 320 MB
+          rating: 2
+          desc:
+            cn: 约 320 MB 安装
+            en: ~320 MB install
+      paths:
+        data:
+          - ~/.config/BraveSoftware
+        config:
+          - ~/.config/BraveSoftware
+    memory:
+      idle:
+        estimate: 280 MB
+        desc:
+          cn: 约 280 MB 闲置
+          en: ~280 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 中
+          en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

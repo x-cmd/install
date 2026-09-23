@@ -1,0 +1,89 @@
+lang: C++
+homepage: https://www.mozilla.org/firefox/
+license: MPL-2.0
+desc:
+  cn: Mozilla Firefox 是一个快速、轻量、注重隐私的网页浏览器，使用 Gecko 引擎。
+  en: Mozilla Firefox is a fast, lightweight, privacy-respecting web browser powered by the Gecko engine.
+x:
+  source: https://github.com/mozilla/gecko-dev
+  apt: firefox
+  dnf: firefox
+  brew: firefox
+  scoop: firefox
+  choco: firefox
+  winget: mozilla.firefox
+  pacman: firefox
+rule:
+  (linux|debian|ubuntu|kali|raspbian|mint)/apt:
+    cmd: sudo apt-get install firefox
+    reference: https://support.mozilla.org/en-US/kb/install-firefox-linux
+    dsnap: firefox
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: sudo dnf install firefox
+    reference: https://support.mozilla.org/en-US/kb/install-firefox-linux
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S firefox
+    reference: https://wiki.archlinux.org/title/Firefox
+  darwin/brew:
+    cmd: brew install --cask firefox
+    reference: https://formulae.brew.sh/cask/firefox
+  (win|wsl2)/scoop:
+    cmd: x scoop bucket add extras && x scoop install firefox
+    reference: https://scoop.sh/#/apps?q=firefox
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id mozilla.firefox
+    reference: https://winget.run/pkg/Mozilla/Firefox
+  (win|wsl2)/choco:
+    cmd: x choco install firefox
+    reference: https://community.chocolatey.org/packages/firefox
+binlist:
+- firefox
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件、扩展、缓存
+          en: Reads config files, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 250 MB
+          rating: 2
+          desc:
+            cn: 约 250 MB 安装
+            en: ~250 MB install
+      paths:
+        data:
+          - ~/.mozilla/firefox
+        config:
+          - ~/.mozilla/firefox
+    memory:
+      idle:
+        estimate: 200 MB
+        desc:
+          cn: 约 200 MB 闲置
+          en: ~200 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 5
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full

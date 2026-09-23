@@ -1,0 +1,94 @@
+lang: C++
+homepage: https://www.chromium.org/
+license: BSD-3-Clause
+desc:
+  cn: Chromium 是 Google Chrome 的开源上游项目，提供同源代码但无 Google 专有服务。
+  en: Chromium is the open-source upstream of Google Chrome, providing the same code without Google's proprietary services.
+x:
+  source: https://chromium.googlesource.com/chromium/src/
+  apt: chromium
+  dnf: chromium
+  brew: chromium
+  pacman: chromium
+  scoop: chromium
+  winget: XPDP0K2.JMPGM29
+  flatpak: org.chromium.Chromium
+  snap: chromium
+rule:
+  (linux|debian|ubuntu|kali|raspbian|mint)/apt:
+    cmd: sudo apt-get install chromium
+    reference: https://packages.ubuntu.com/search?keywords=chromium
+    dsnap: chromium
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: sudo dnf install chromium
+    reference: https://src.fedoraproject.org/rpms/chromium
+    dsnap: chromium
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S chromium
+    reference: https://archlinux.org/packages/extra/x86_64/
+  darwin/brew:
+    cmd: brew install --cask chromium
+    reference: https://formulae.brew.sh/cask/chromium
+  (win|wsl2)/scoop:
+    cmd: x scoop install chromium
+    reference: https://scoop.sh/#/apps?q=chromium
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id XPDP0K2.JMPGM29
+    reference: https://winget.run/pkg/XPDP0K2/JMPGM29
+  /flatpak:
+    cmd: flatpak install flathub org.chromium.Chromium
+    reference: https://flathub.org/apps/org.chromium.Chromium
+  /snap:
+    cmd: sudo snap install chromium
+    reference: https://snapcraft.io/chromium
+binlist:
+- chromium
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 300 MB
+          rating: 2
+          desc:
+            cn: 约 300 MB 安装
+            en: ~300 MB install
+      paths:
+        data:
+          - ~/.config/chromium
+        config:
+          - ~/.config/chromium
+    memory:
+      idle:
+        estimate: 250 MB
+        desc:
+          cn: 约 250 MB 闲置
+          en: ~250 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 中
+          en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

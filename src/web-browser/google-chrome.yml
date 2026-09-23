@@ -1,0 +1,106 @@
+lang: C++
+homepage: https://www.google.com/chrome/
+license: NOASSERTION
+desc:
+  cn: Google Chrome 是一个由 Google 开发的快速、安全的网页浏览器，基于 Blink 引擎。
+  en: Google Chrome is a fast, secure web browser built by Google, powered by the Blink engine.
+x:
+  source: https://chromium.googlesource.com/chromium/src/
+  brew: google-chrome
+  pacman: google-chrome
+  yay: google-chrome
+  scoop: googlechrome
+  choco: googlechrome
+  winget: Google.Chrome
+  apt: google-chrome-stable
+  dnf: google-chrome-stable
+  flatpak: com.google.Chrome
+  snap: chrome
+rule:
+  (linux|debian|ubuntu|kali|raspbian|mint)/apt:
+    cmd: 'wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install -y ./google-chrome-stable_current_amd64.deb'
+    reference: https://www.google.com/chrome/linux/
+    dsnap: google-chrome-stable
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo dnf install -y https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm'
+    reference: https://www.google.com/chrome/linux/
+    dsnap: google-chrome-stable
+  (linux|arch|manjaro)/pacman:
+    cmd: 'pamac install google-chrome'
+
+      or
+
+      sudo pacman -U https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=google-chrome
+    reference: https://aur.archlinux.org/packages/google-chrome
+  (linux|arch|manjaro)/yay:
+    cmd: yay -S google-chrome
+    reference: https://aur.archlinux.org/packages/google-chrome
+  darwin/brew:
+    cmd: brew install --cask google-chrome
+    reference: https://formulae.brew.sh/cask/google-chrome
+  (win|wsl2)/scoop:
+    cmd: x scoop install googlechrome
+    reference: https://scoop.sh/#/apps?q=googlechrome
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Google.Chrome
+    reference: https://winget.run/pkg/Google/Chrome
+  (win|wsl2)/choco:
+    cmd: x choco install googlechrome
+    reference: https://community.chocolatey.org/packages/googlechrome
+  /flatpak:
+    cmd: flatpak install flathub com.google.Chrome
+    reference: https://flathub.org/apps/com.google.Chrome
+  /snap:
+    cmd: sudo snap install chrome
+    reference: https://snapcraft.io/chrome
+binlist:
+- google-chrome
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 350 MB
+          rating: 2
+          desc:
+            cn: 约 350 MB 安装
+            en: ~350 MB install
+      paths:
+        data:
+          - ~/.config/google-chrome
+        config:
+          - ~/.config/google-chrome
+    memory:
+      idle:
+        estimate: 300 MB
+        desc:
+          cn: 约 300 MB 闲置
+          en: ~300 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 8
+      peak:
+        rating: 2
+        desc:
+          cn: 中
+          en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full
