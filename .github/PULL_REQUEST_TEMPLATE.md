@@ -41,10 +41,13 @@ or the full YAML — an AI agent will fill those in from the URL above.
 
 ## update: — modify existing entry
 
-- **file changed:** `src/<category>/<tool>.yml`
-- **field(s) touched:** <homepage | license | x.source | x.eget | rule | desc.* | …>
+- **package:** <x-cmd install URL | GitHub URL | tool name — any one>
+- **where the problem is:** <which field is wrong / what is broken>
 
-**Diff summary**
+The submitter is not expected to paste the diff or pick a field — an AI
+agent will identify the field and write the patch from the URL above.
+
+**Diff summary** (optional — only if you drafted the change yourself)
 
 ```diff
 - old line

@@ -1,76 +1,31 @@
 name: "update: update existing entry"
-description: Update metadata, install rule, or translation for an existing package
-title: "update: <owner/repo> — <short summary>"
+description: Report a problem with an existing entry in x-cmd/install
+title: "update: <short tool name> — <one-line summary>"
 labels: ["update"]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this template to fix or improve an existing entry under `src/<category>/`.
-        For typos in user-facing docs see the `article:` template instead.
+        All fields are optional — an AI will verify the rest. Just tell us
+        **which package** and **where the problem is**.
 
   - type: input
-    id: owner_repo
+    id: package
     attributes:
-      label: Upstream owner/repo
-      placeholder: "<owner>/<repo>"
+      label: Package
+      description: Paste the x-cmd install page URL (https://x-cmd.com/install/<tool>), the GitHub repo URL, or just the tool name. Any one is enough.
+      placeholder: "https://x-cmd.com/install/jq  |  https://github.com/jqlang/jq  |  jq"
     validations:
-      required: true
-
-  - type: input
-    id: file_path
-    attributes:
-      label: Existing file path
-      description: e.g. `src/text/jq.yml` — copy from the GitHub URL of the file you want to update.
-      placeholder: "src/<category>/<tool>.yml"
-    validations:
-      required: true
-
-  - type: dropdown
-    id: change_kind
-    attributes:
-      label: Kind of update
-      options:
-        - homepage / reference URL is wrong
-        - license is wrong or missing
-        - install rule (eget / brew / apt / ...) is broken or outdated
-        - x.source / x.eget / x.brew pinned to a fork or mirror
-        - desc.cn / desc.en translation
-        - bumped format version / metadata fields
-        - Other
-    validations:
-      required: true
+      required: false
 
   - type: textarea
-    id: before
+    id: problem
     attributes:
-      label: Current value
-      description: Paste the current YAML block (or field) you want to change.
+      label: Where the problem is
+      description: Which field is wrong / what behavior is broken. Quote the line if you can.
+      placeholder: |
+        homepage points to https://... (404)
+        rule./eget cmd is `x eget use jqlang/jq` but the latest release asset name is …
+        desc.en says "JSON parser" but the project is now archived
     validations:
-      required: true
-
-  - type: textarea
-    id: after
-    attributes:
-      label: Proposed value
-      description: Paste the YAML block you would like to replace it with.
-    validations:
-      required: true
-
-  - type: textarea
-    id: rationale
-    attributes:
-      label: Why this change is needed
-      description: Source of truth (release notes, upstream issue, broken install command, etc.).
-    validations:
-      required: true
-
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Pre-flight checks
-      options:
-        - label: I ran `x ws lint <file>` and `x ws check` locally — both pass.
-          required: false
-        - label: I read [CONTRIBUTING.md](https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md) and confirm my change matches the existing conventions.
-          required: true
+      required: false
