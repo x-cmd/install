@@ -1,0 +1,76 @@
+name: "article: 订正文章"
+description: Correct a typo, factual error, or broken link in a generated article
+title: "article: <owner/repo> — <short summary>"
+labels: ["article"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for prose-level fixes in the auto-generated articles:
+        install articles, READMEs, FAQ entries, and any user-facing copy
+        rendered from `data/`. For metadata/YAML fixes use the `[UPDATE]` template.
+
+  - type: input
+    id: owner_repo
+    attributes:
+      label: Upstream owner/repo
+      placeholder: "<owner>/<repo>"
+    validations:
+      required: true
+
+  - type: input
+    id: article_url
+    attributes:
+      label: Article URL
+      description: Direct link to the page or section that needs correcting.
+      placeholder: "https://x-cmd.com/install/<tool>"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Article language
+      options:
+        - 中文
+        - English
+        - Both
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Kind of correction
+      options:
+        - typo (spelling / punctuation)
+        - factual error (wrong version, license, description)
+        - broken link
+        - inaccurate translation
+        - outdated content (release notes, screenshots)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: before
+    attributes:
+      label: Current text
+      description: Quote the offending passage exactly as rendered.
+    validations:
+      required: true
+
+  - type: textarea
+    id: after
+    attributes:
+      label: Suggested replacement
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / reference
+      description: Where the correct info comes from (upstream README, release page, official docs).
+    validations:
+      required: false
