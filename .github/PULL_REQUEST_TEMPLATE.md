@@ -1,8 +1,8 @@
 <!--
 Thanks for contributing to x-cmd/install.
 
-Please pick one of the categories below and fill out the matching block.
-Delete the other blocks — keep only the one that matches your change.
+Pick exactly one category below and fill out the matching block. Delete
+the other blocks — keep only the one that matches your change.
 
 For guidance see:
 - README.md                              → repo overview
@@ -15,6 +15,7 @@ For guidance see:
 - [ ] **rec:** add a new package under `src/<category>/`
 - [ ] **update:** modify an existing entry
 - [ ] **article:** correct prose in a generated article / README
+- [ ] **faq:** add or fix an entry in FAQ.md / FAQ.cn.md
 - [ ] **chore:** non-content change (workflow, schema, docs)
 
 ---
@@ -59,7 +60,7 @@ For guidance see:
 ## article: — correct prose
 
 - **article URL:** <x-cmd.com/install/<tool>>
-- **language:** <中文 | English | both>
+- **language:** <Chinese | English | both>
 - **kind:** <typo | factual error | broken link | bad translation | outdated>
 
 **Before**
@@ -72,8 +73,28 @@ For guidance see:
 
 ---
 
+## faq: — add or fix an FAQ entry
+
+- **file changed:** <FAQ.md | FAQ.cn.md | both>
+- **action:** <add | correct | remove>
+- **section (closest match):** <Installation | Configuration | Upgrades | Platforms | Troubleshooting | Other>
+- **related entries:** <comma-separated anchors or links>
+
+**Proposed entry**
+
+```markdown
+### <question>
+
+<answer, matching the style of nearby entries>
+```
+
+- [ ] I matched the tone and length of nearby FAQ entries
+- [ ] I confirmed the question isn't already covered
+
+---
+
 ## Checklist (always)
 
 - [ ] I read [CONTRIBUTING.md](https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md).
-- [ ] My PR title follows `rec:` / `update:` / `article:` / `chore:` prefix.
+- [ ] My PR title follows `rec:` / `update:` / `article:` / `faq:` / `chore:` prefix.
 - [ ] No unrelated files are modified.

@@ -1,4 +1,4 @@
-name: "update: 更新已有条目"
+name: "update: update existing entry"
 description: Update metadata, install rule, or translation for an existing package
 title: "update: <owner/repo> — <short summary>"
 labels: ["update"]
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Use this template to fix or improve an existing entry under `src/<category>/`.
-        For typos in user-facing docs see the `[ARTICLE]` template instead.
+        For typos in user-facing docs see the `article:` template instead.
 
   - type: input
     id: owner_repo

@@ -1,4 +1,4 @@
-name: "article: 订正文章"
+name: "article: fix article"
 description: Correct a typo, factual error, or broken link in a generated article
 title: "article: <owner/repo> — <short summary>"
 labels: ["article"]
@@ -8,7 +8,7 @@ body:
       value: |
         Use this for prose-level fixes in the auto-generated articles:
         install articles, READMEs, FAQ entries, and any user-facing copy
-        rendered from `data/`. For metadata/YAML fixes use the `[UPDATE]` template.
+        rendered from `data/`. For metadata/YAML fixes use the `update:` template.
 
   - type: input
     id: owner_repo
@@ -32,7 +32,7 @@ body:
     attributes:
       label: Article language
       options:
-        - 中文
+        - Chinese
         - English
         - Both
     validations:

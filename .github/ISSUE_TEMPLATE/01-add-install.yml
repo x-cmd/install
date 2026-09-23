@@ -1,4 +1,4 @@
-name: "rec: 增加 install"
+name: "rec: add install"
 description: Request adding a new package to x-cmd/install
 title: "rec: <owner/repo> — <short tool name>"
 labels: ["rec", "enhancement"]
@@ -23,7 +23,7 @@ body:
     id: homepage
     attributes:
       label: Homepage URL
-      description: Project's homepage (often the same as the GitHub URL)
+      description: Project homepage (often the same as the GitHub URL).
       placeholder: "https://github.com/<owner>/<repo>"
     validations:
       required: true
@@ -41,7 +41,7 @@ body:
     id: category
     attributes:
       label: Suggested category
-      description: Pick the closest existing folder under `src/` (add `Other` if unsure).
+      description: Pick the closest existing folder under `src/` (use Other if unsure).
       options:
         - bin
         - osman
@@ -65,7 +65,7 @@ body:
     attributes:
       label: One-line descriptions (cn + en)
       description: |
-        Mirror the `desc:` block style — single-line each, no wrapping.
+        Mirror the `desc:` block style — single line each, no wrapping.
       placeholder: |
         cn: 中文一行描述
         en: One-line English description

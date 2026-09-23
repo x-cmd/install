@@ -1,0 +1,89 @@
+name: "faq: add or fix FAQ entry"
+description: Propose a new FAQ entry or fix an existing one in FAQ.md / FAQ.cn.md
+title: "faq: <short question>"
+labels: ["faq"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to add a new entry to `FAQ.md` / `FAQ.cn.md`, or to
+        correct an existing one. For issues with install metadata use `rec:`
+        or `update:`; for prose in install articles use `article:`.
+
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action
+      options:
+        - add a new FAQ entry
+        - correct an existing FAQ entry
+        - remove / deprecate an FAQ entry
+    validations:
+      required: true
+
+  - type: input
+    id: question
+    attributes:
+      label: Question
+      description: One short question a real user would search for.
+      placeholder: "How do I install <tool> offline?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Which FAQ file is affected.
+      options:
+        - English (FAQ.md)
+        - Chinese (FAQ.cn.md)
+        - Both
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section (closest match)
+      options:
+        - Installation
+        - Configuration
+        - Upgrades
+        - Platforms
+        - Troubleshooting
+        - Other
+    validations:
+      required: false
+
+  - type: textarea
+    id: answer
+    attributes:
+      label: Proposed answer
+      description: |
+        Write the answer in the same tone and length as existing FAQ entries:
+        one short paragraph + (optional) a small fenced code block. No walls of
+        text; link out for depth.
+    validations:
+      required: true
+
+  - type: input
+    id: related
+    attributes:
+      label: Related entries / links
+      description: Comma-separated list of related FAQ anchors or external docs.
+      placeholder: "#how-do-i-uninstall, https://example.com/docs"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-flight checks
+      options:
+        - label: I searched existing FAQ entries to confirm this question isn't already covered.
+          required: true
+        - label: I matched the style of nearby entries (tone, length, code block usage).
+          required: true
+        - label: I read [CONTRIBUTING.md](https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md).
+          required: true
