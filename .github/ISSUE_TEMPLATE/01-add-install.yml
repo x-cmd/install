@@ -1,114 +1,47 @@
 name: "rec: add install"
-description: Request adding a new package to x-cmd/install
-title: "rec: <owner/repo> — <short tool name>"
+description: Suggest a new package to add to x-cmd/install
+title: "rec: <short tool name>"
 labels: ["rec", "enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for suggesting a new package for `x-cmd/install`. Please fill in
-        the fields below — these map 1:1 to the YAML schema documented in
-        [CONTRIBUTING.md](https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md).
+        All fields are optional — an AI will verify the rest from the URL
+        you provide. Fill in only what you actually know.
 
   - type: input
-    id: owner_repo
+    id: project_url
     attributes:
-      label: Upstream owner/repo
-      description: e.g. `jqlang/jq`
-      placeholder: "<owner>/<repo>"
+      label: Project URL
+      description: GitHub / GitLab / Codeberg / Gitea / SourceHut / self-hosted URL of the project.
+      placeholder: "https://github.com/<owner>/<repo>"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: homepage
     attributes:
-      label: Homepage URL
-      description: Project homepage (often the same as the GitHub URL).
-      placeholder: "https://github.com/<owner>/<repo>"
+      label: Homepage (optional)
+      description: Official homepage if it differs from the project URL above.
+      placeholder: "https://example.com"
     validations:
-      required: true
+      required: false
 
   - type: input
-    id: license
+    id: description
     attributes:
-      label: SPDX license identifier
-      description: Optional but encouraged — find it at https://spdx.org/licenses/
-      placeholder: "MIT"
+      label: One-line description (optional)
+      description: What the tool does, in your own words.
+      placeholder: "A command-line JSON processor."
     validations:
       required: false
 
-  - type: dropdown
-    id: category
-    attributes:
-      label: Suggested category
-      description: Pick the closest existing folder under `src/` (use Other if unsure).
-      options:
-        - bin
-        - osman
-        - reader
-        - text
-        - misc
-        - java
-        - node
-        - python
-        - ruby
-        - lua
-        - perl
-        - php
-        - tldr
-        - Other
-    validations:
-      required: true
-
   - type: textarea
-    id: desc
+    id: recommendation
     attributes:
-      label: One-line descriptions (cn + en)
-      description: |
-        Mirror the `desc:` block style — single line each, no wrapping.
+      label: Why you'd recommend it (optional)
+      description: Anything personal — what you use it for, what problem it solves, why it deserves a spot here.
       placeholder: |
-        cn: 中文一行描述
-        en: One-line English description
-    validations:
-      required: true
-
-  - type: dropdown
-    id: install_method
-    attributes:
-      label: Primary install rule
-      description: Most entries use one of these. Pick the closest match.
-      options:
-        - eget (binary from GitHub release)
-        - brew
-        - apt
-        - cargo
-        - npm
-        - pip
-        - go install
-        - gem
-        - cpan
-        - Other
-    validations:
-      required: true
-
-  - type: textarea
-    id: extra
-    attributes:
-      label: Proposed YAML (optional)
-      description: |
-        Paste the full YAML block you would commit under `src/<category>/<tool>.yml`.
-        Leave empty if you only want to flag the request — a maintainer can draft it.
+        I use this daily to … It's the only tool that does … Beats <other-tool> at …
     validations:
       required: false
-
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Pre-flight checks
-      options:
-        - label: I searched existing issues / PRs for this package and didn't find a duplicate.
-          required: true
-        - label: The upstream repository is publicly accessible without auth and ships a release artifact.
-          required: true
-        - label: I have read [CONTRIBUTING.md](https://github.com/x-cmd/install/blob/main/CONTRIBUTING.md).
-          required: true

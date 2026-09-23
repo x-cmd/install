@@ -22,15 +22,16 @@ For guidance see:
 
 ## rec: — new package
 
-- **owner/repo:** <owner>/<repo>
-- **homepage:** <URL>
-- **license (SPDX):** <e.g. MIT>
-- **category:** <src/<category>/>
-- **install rule:** <eget | brew | apt | cargo | npm | pip | go | …>
-- **proposed file:** `src/<category>/<tool>.yml`
+- **project URL:** <https://github.com/<owner>/<repo> | https://gitlab.com/... | ...>
+- **homepage (optional):** <URL>
+- **description (optional):** <one line>
+- **personal recommendation (optional):** <why you'd recommend it>
+
+The submitter is not expected to fill in license, category, install rule,
+or the full YAML — an AI agent will fill those in from the URL above.
 
 ```yaml
-# paste the full YAML block you intend to commit
+# (optional) paste a draft YAML block if you have one — otherwise leave empty
 ```
 
 - [ ] I ran `x ws lint src/<category>/<tool>.yml` locally
