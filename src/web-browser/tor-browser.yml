@@ -1,0 +1,84 @@
+lang: C++
+homepage: https://www.torproject.org/
+license: MPL-2.0
+desc:
+  cn: Tor Browser 是通过 Tor 网络路由流量的 Firefox 派生版，专为匿名浏览设计。
+  en: Tor Browser is a Firefox derivative that routes traffic through the Tor network, designed for anonymous browsing.
+x:
+  source: https://gitlab.torproject.org/tor-browser
+  apt: torbrowser-launcher
+  dnf: torbrowser-launcher
+  pacman: torbrowser-launcher
+  brew: tor-browser
+  flatpak: org.torproject.torbrowser-launcher
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'sudo apt install -y torbrowser-launcher && torbrowser-launcher'
+    reference: https://tb-manual.torproject.org/installing/
+    dsnap: torbrowser-launcher
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo dnf install -y torbrowser-launcher && torbrowser-launcher'
+    reference: https://tb-manual.torproject.org/installing/
+    dsnap: torbrowser-launcher
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S torbrowser-launcher
+    reference: https://wiki.archlinux.org/title/Tor_Browser
+  darwin/brew:
+    cmd: brew install --cask tor-browser
+    reference: https://formulae.brew.sh/cask/tor-browser
+  /flatpak:
+    cmd: flatpak install flathub org.torproject.torbrowser-launcher
+    reference: https://flathub.org/apps/org.torproject.torbrowser-launcher
+binlist:
+- torbrowser-launcher
+- start-tor-browser
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 250 MB
+          rating: 2
+          desc:
+            cn: 约 250 MB 安装（含 Tor 浏览器本体）
+            en: ~250 MB install (includes Tor Browser binary)
+      paths:
+        data:
+          - ~/.local/share/torbrowser
+          - ~/.cache/torbrowser
+        config:
+          - ~/.config/torbrowser
+    memory:
+      idle:
+        estimate: 300 MB
+        desc:
+          cn: 约 300 MB 闲置
+          en: ~300 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full

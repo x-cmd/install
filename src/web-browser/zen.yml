@@ -1,0 +1,84 @@
+lang: C++
+homepage: https://zen-browser.app/
+license: MPL-2.0
+desc:
+  cn: Zen Browser 是基于 Firefox 的现代化分屏 / 工作区浏览器，注重隐私与极简设计。
+  en: Zen Browser is a Firefox-based modern split-view / workspace browser focused on privacy and minimal design.
+x:
+  source: https://github.com/zen-browser/desktop
+  flatpak: app.zenbrowser.Zen-Browser
+  brew: zen-browser
+  winget: Zen.ZenBrowser
+  pacman: zen-browser-bin
+  scoop: zen-browser
+rule:
+  (linux|arch|manjaro)/pacman:
+    cmd: 'yay -S zen-browser-bin'
+
+      or
+
+      sudo pacman -U zen-browser-bin-*.pkg.tar.zst
+    reference: https://wiki.archlinux.org/title/Zen_Browser
+  darwin/brew:
+    cmd: brew install --cask zen-browser
+    reference: https://formulae.brew.sh/cask/zen-browser
+  (win|wsl2)/scoop:
+    cmd: x scoop install zen-browser
+    reference: https://scoop.sh/#/apps?q=zen-browser
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Zen.ZenBrowser
+    reference: https://winget.run/pkg/Zen/ZenBrowser
+  /flatpak:
+    cmd: flatpak install flathub app.zenbrowser.Zen-Browser
+    reference: https://flathub.org/apps/app.zenbrowser.Zen-Browser
+binlist:
+- zen
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 250 MB
+          rating: 2
+          desc:
+            cn: 约 250 MB 安装
+            en: ~250 MB install
+      paths:
+        data:
+          - ~/.zen
+        config:
+          - ~/.zen
+    memory:
+      idle:
+        estimate: 250 MB
+        desc:
+          cn: 约 250 MB 闲置
+          en: ~250 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 5
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full

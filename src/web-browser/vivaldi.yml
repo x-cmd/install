@@ -1,0 +1,98 @@
+lang: C++
+homepage: https://vivaldi.com/
+license: NOASSERTION
+desc:
+  cn: Vivaldi 是一个高度可定制的 Chromium 浏览器，内置标签平铺、笔记、邮件与 RSS 阅读器。
+  en: Vivaldi is a highly customizable Chromium browser with built-in tab tiling, notes, mail, and RSS reader.
+x:
+  source: https://vivaldi.com/source/
+  apt: vivaldi-stable
+  dnf: vivaldi-stable
+  brew: vivaldi
+  pacman: vivaldi
+  scoop: vivaldi
+  choco: vivaldi
+  winget: Vivaldi.Vivaldi
+  flatpak: com.vivaldi.Vivaldi
+  snap: vivaldi
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'wget -qO- https://repo.vivaldi.com/archive/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/vivaldi.gpg && echo "deb [signed-by=/usr/share/keyrings/vivaldi.gpg] https://repo.vivaldi.com/archive/deb/ stable main" | sudo tee /etc/apt/sources.list.d/vivaldi.list && sudo apt update && sudo apt install -y vivaldi-stable'
+    reference: https://help.vivaldi.com/article/install-vivaldi-on-debian-ubuntu-and-their-derivatives/
+    dsnap: vivaldi-stable
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo dnf config-manager --add-repo https://repo.vivaldi.com/archive/vivaldi-fedora.repo && sudo dnf install -y vivaldi-stable'
+    reference: https://help.vivaldi.com/article/install-vivaldi-on-fedora-and-rhel/
+    dsnap: vivaldi-stable
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S vivaldi
+    reference: https://wiki.archlinux.org/title/Vivaldi
+  darwin/brew:
+    cmd: brew install --cask vivaldi
+    reference: https://formulae.brew.sh/cask/vivaldi
+  (win|wsl2)/scoop:
+    cmd: x scoop install vivaldi
+    reference: https://scoop.sh/#/apps?q=vivaldi
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Vivaldi.Vivaldi
+    reference: https://winget.run/pkg/Vivaldi/Vivaldi
+  (win|wsl2)/choco:
+    cmd: x choco install vivaldi
+    reference: https://community.chocolatey.org/packages/vivaldi
+  /flatpak:
+    cmd: flatpak install flathub com.vivaldi.Vivaldi
+    reference: https://flathub.org/apps/com.vivaldi.Vivaldi
+  /snap:
+    cmd: sudo snap install vivaldi
+    reference: https://snapcraft.io/vivaldi
+binlist:
+- vivaldi
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 310 MB
+          rating: 2
+          desc:
+            cn: 约 310 MB 安装
+            en: ~310 MB install
+      paths:
+        data:
+          - ~/.config/vivaldi
+        config:
+          - ~/.config/vivaldi
+    memory:
+      idle:
+        estimate: 280 MB
+        desc:
+          cn: 约 280 MB 闲置
+          en: ~280 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 7
+      peak:
+        rating: 2
+        desc:
+            cn: 中
+            en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

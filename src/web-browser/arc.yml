@@ -1,0 +1,67 @@
+lang: C++
+homepage: https://arc.net/
+license: NOASSERTION
+desc:
+  cn: Arc 是一个 Chromium 浏览器，专注多空间 / 多面板的生产力工作流。
+  en: Arc is a Chromium browser focused on multi-space / multi-pane productivity workflows.
+x:
+  source: https://github.com/arcbrowser/arc-themestore
+  brew: arc
+rule:
+  darwin/brew:
+    cmd: brew install --cask arc
+    reference: https://formulae.brew.sh/cask/arc
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id TheBrowserCompany.Arc
+    reference: https://winget.run/pkg/TheBrowserCompany/Arc
+binlist:
+- arc
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 350 MB
+          rating: 2
+          desc:
+            cn: 约 350 MB 安装
+            en: ~350 MB install
+      paths:
+        data:
+          - ~/Library/Application Support/Arc
+        config:
+          - ~/Library/Application Support/Arc
+    memory:
+      idle:
+        estimate: 400 MB
+        desc:
+          cn: 约 400 MB 闲置（Electron 类较重）
+          en: ~400 MB idle (Electron-heavy)
+    cpu:
+      workload: ['io', 'compute']
+      processes: 8
+      peak:
+        rating: 3
+        desc:
+          cn: 较高（Electron 类）
+          en: High (Electron-heavy)
+  platform:
+    win: full
+    linux: none
+    darwin: full

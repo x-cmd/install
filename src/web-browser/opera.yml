@@ -1,0 +1,94 @@
+lang: C++
+homepage: https://www.opera.com/
+license: NOASSERTION
+desc:
+  cn: Opera 是一个历史悠久的 Chromium 浏览器，自带内置广告拦截、VPN 与消息应用。
+  en: Opera is a long-established Chromium browser with built-in ad-blocking, VPN, and messaging apps.
+x:
+  source: https://github.com/operasoftware/desktop
+  apt: opera-stable
+  dnf: opera-stable
+  brew: opera
+  pacman: opera
+  scoop: opera
+  choco: opera
+  winget: Opera.Opera
+  snap: opera
+rule:
+  (linux|debian|ubuntu|kali|mint)/apt:
+    cmd: 'wget -qO- https://deb.opera.com/archive.key | sudo gpg --dearmor -o /usr/share/keyrings/opera.gpg && echo "deb [signed-by=/usr/share/keyrings/opera.gpg] https://deb.opera.com/opera-stable/ stable non-free" | sudo tee /etc/apt/sources.list.d/opera.list && sudo apt update && sudo apt install -y opera-stable'
+    reference: https://deb.opera.com/manual.html
+    dsnap: opera-stable
+  (linux|fedora|rhel|centos)/dnf:
+    cmd: 'sudo dnf config-manager --add-repo https://rpm.opera.com/rpmrepo && sudo dnf install -y opera-stable'
+    reference: https://rpm.opera.com/
+    dsnap: opera-stable
+  (linux|arch|manjaro)/pacman:
+    cmd: sudo pacman -S opera
+    reference: https://wiki.archlinux.org/title/Opera
+  darwin/brew:
+    cmd: brew install --cask opera
+    reference: https://formulae.brew.sh/cask/opera
+  (win|wsl2)/scoop:
+    cmd: x scoop install opera
+    reference: https://scoop.sh/#/apps?q=opera
+  (win|wsl2)/winget:
+    cmd: x winget install -e --id Opera.Opera
+    reference: https://winget.run/pkg/Opera/Opera
+  (win|wsl2)/choco:
+    cmd: x choco install opera
+    reference: https://community.chocolatey.org/packages/opera
+  /snap:
+    cmd: sudo snap install opera
+    reference: https://snapcraft.io/opera
+binlist:
+- opera
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 320 MB
+          rating: 2
+          desc:
+            cn: 约 320 MB 安装
+            en: ~320 MB install
+      paths:
+        data:
+          - ~/.config/opera
+        config:
+          - ~/.config/opera
+    memory:
+      idle:
+        estimate: 280 MB
+        desc:
+          cn: 约 280 MB 闲置
+          en: ~280 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 6
+      peak:
+        rating: 2
+        desc:
+          cn: 中
+          en: Medium
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -1,0 +1,80 @@
+lang: C++
+homepage: https://librewolf.net/
+license: MPL-2.0
+desc:
+  cn: LibreWolf 是 Firefox 的无遥测分支，移除了所有 Mozilla 跟踪并强化隐私默认。
+  en: LibreWolf is a telemetry-free Firefox fork with all Mozilla tracking removed and privacy defaults hardened.
+x:
+  source: https://gitlab.com/librewolf-community/browser
+  brew: librewolf
+  flatpak: io.gitlab.librewolf-community
+  pacman: librewolf-bin
+  scoop: librewolf
+rule:
+  (linux|arch|manjaro)/pacman:
+    cmd: 'yay -S librewolf-bin'
+
+      or
+
+      sudo pacman -U librewolf-bin-*.pkg.tar.zst
+    reference: https://wiki.archlinux.org/title/LibreWolf
+  darwin/brew:
+    cmd: brew install --cask librewolf
+    reference: https://formulae.brew.sh/cask/librewolf
+  (win|wsl2)/scoop:
+    cmd: x scoop install librewolf
+    reference: https://scoop.sh/#/apps?q=librewolf
+  /flatpak:
+    cmd: flatpak install flathub io.gitlab.librewolf-community
+    reference: https://flathub.org/apps/io.gitlab.librewolf-community
+binlist:
+- librewolf
+license: NOASSERTION
+footprint:
+  behavior:
+    runtime:
+      type: gui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、扩展、缓存
+          en: Reads config, extensions, cache
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 230 MB
+          rating: 2
+          desc:
+            cn: 约 230 MB 安装
+            en: ~230 MB install
+      paths:
+        data:
+          - ~/.librewolf
+        config:
+          - ~/.librewolf
+    memory:
+      idle:
+        estimate: 220 MB
+        desc:
+          cn: 约 220 MB 闲置
+          en: ~220 MB idle
+    cpu:
+      workload: ['io', 'compute']
+      processes: 5
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full
