@@ -32,7 +32,6 @@ rule:
 binlist:
 - torbrowser-launcher
 - start-tor-browser
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

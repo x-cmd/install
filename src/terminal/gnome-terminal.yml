@@ -27,7 +27,6 @@ rule:
     reference: https://formulae.brew.sh/cask/gnome-terminal
 binlist:
 - gnome-terminal
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

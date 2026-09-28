@@ -27,7 +27,6 @@ rule:
     dsnap: st
 binlist:
 - st
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

@@ -28,7 +28,6 @@ rule:
 binlist:
 - foot
 - footclient
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

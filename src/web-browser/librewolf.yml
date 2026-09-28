@@ -11,13 +11,6 @@ x:
   pacman: librewolf-bin
   scoop: librewolf
 rule:
-  (linux|arch|manjaro)/pacman:
-    cmd: 'yay -S librewolf-bin'
-
-      or
-
-      sudo pacman -U librewolf-bin-*.pkg.tar.zst
-    reference: https://wiki.archlinux.org/title/LibreWolf
   darwin/brew:
     cmd: brew install --cask librewolf
     reference: https://formulae.brew.sh/cask/librewolf
@@ -29,7 +22,6 @@ rule:
     reference: https://flathub.org/apps/io.gitlab.librewolf-community
 binlist:
 - librewolf
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

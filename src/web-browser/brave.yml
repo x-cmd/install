@@ -47,7 +47,6 @@ rule:
     reference: https://snapcraft.io/brave
 binlist:
 - brave-browser
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

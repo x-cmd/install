@@ -43,7 +43,6 @@ rule:
     reference: https://snapcraft.io/opera
 binlist:
 - opera
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

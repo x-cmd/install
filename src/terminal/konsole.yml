@@ -31,7 +31,6 @@ rule:
     reference: https://snapcraft.io/konsole
 binlist:
 - konsole
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

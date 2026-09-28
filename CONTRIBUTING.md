@@ -72,7 +72,7 @@ desc:
 
 x:
   source: https://github.com/owner/repo
-  eget: https://github.com/owner/repo
+  eget: owner/repo
 
 rule:
   /eget:

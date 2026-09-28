@@ -47,7 +47,6 @@ rule:
     reference: https://snapcraft.io/vivaldi
 binlist:
 - vivaldi
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

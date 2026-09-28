@@ -5,7 +5,6 @@ desc:
   cn: Arc 是一个 Chromium 浏览器，专注多空间 / 多面板的生产力工作流。
   en: Arc is a Chromium browser focused on multi-space / multi-pane productivity workflows.
 x:
-  source: https://github.com/arcbrowser/arc-themestore
   brew: arc
 rule:
   darwin/brew:
@@ -16,7 +15,6 @@ rule:
     reference: https://winget.run/pkg/TheBrowserCompany/Arc
 binlist:
 - arc
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

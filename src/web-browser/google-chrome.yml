@@ -26,11 +26,7 @@ rule:
     reference: https://www.google.com/chrome/linux/
     dsnap: google-chrome-stable
   (linux|arch|manjaro)/pacman:
-    cmd: 'pamac install google-chrome'
-
-      or
-
-      sudo pacman -U https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=google-chrome
+    cmd: sudo pacman -U https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=google-chrome
     reference: https://aur.archlinux.org/packages/google-chrome
   (linux|arch|manjaro)/yay:
     cmd: yay -S google-chrome
@@ -55,7 +51,6 @@ rule:
     reference: https://snapcraft.io/chrome
 binlist:
 - google-chrome
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

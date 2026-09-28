@@ -43,7 +43,6 @@ rule:
     reference: https://flathub.org/apps/org.tabby.Terminal
 binlist:
 - tabby
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

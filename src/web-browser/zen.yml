@@ -13,11 +13,7 @@ x:
   scoop: zen-browser
 rule:
   (linux|arch|manjaro)/pacman:
-    cmd: 'yay -S zen-browser-bin'
-
-      or
-
-      sudo pacman -U zen-browser-bin-*.pkg.tar.zst
+    cmd: sudo pacman -U zen-browser-bin-*.pkg.tar.zst
     reference: https://wiki.archlinux.org/title/Zen_Browser
   darwin/brew:
     cmd: brew install --cask zen-browser
@@ -33,7 +29,6 @@ rule:
     reference: https://flathub.org/apps/app.zenbrowser.Zen-Browser
 binlist:
 - zen
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

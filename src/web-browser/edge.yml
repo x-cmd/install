@@ -31,7 +31,6 @@ rule:
     reference: https://winget.run/pkg/Microsoft/Edge
 binlist:
 - microsoft-edge
-license: NOASSERTION
 footprint:
   behavior:
     runtime:

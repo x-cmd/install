@@ -12,7 +12,6 @@ rule:
     reference: https://support.apple.com/guide/safari/welcome/mac
 binlist:
 - safari
-license: NOASSERTION
 footprint:
   behavior:
     runtime:
