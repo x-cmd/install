@@ -49,25 +49,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 229 KB
+          estimate: 72 MB
           rating: 1
           desc:
-            cn: 约 229 KB（估算）
-            en: ~229 KB estimated
+            cn: 约 72 MB（估算，jar包体积）
+            en: ~72 MB estimated
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 5 MB
+        estimate: 100 MB
         desc:
-          cn: 5 MB（估算）
-          en: 5 MB estimated
+          cn: 100 MB（估算）
+          en: 100 MB estimated
     cpu:
       workload: ['compute']
       processes: 1
       peak:
         rating: 2
         desc:
-          cn: 极低
+          cn: 低
           en: Negligible
