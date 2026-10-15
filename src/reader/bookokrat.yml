@@ -1,0 +1,85 @@
+lang: Rust
+homepage: https://github.com/bugzmanov/bookokrat
+license: AGPL-3.0-or-later
+desc:
+  cn: 终端里的电子书阅读器，支持 EPUB、PDF 与 DJVU
+  en: Terminal e-book reader for EPUB, PDF and DJVU.
+x:
+  source: https://github.com/bugzmanov/bookokrat
+  eget: bugzmanov/bookokrat
+  brew: bookokrat
+  yay: bookokrat-bin
+  cargo: bookokrat
+  nix: bookokrat
+rule:
+  /eget:
+    cmd: x eget bugzmanov/bookokrat
+    reference: https://github.com/bugzmanov/bookokrat
+  /cargo:
+    cmd: cargo install bookokrat
+    reference: https://crates.io/crates/bookokrat
+    dsnap: bookokrat
+  darwin/brew:
+    cmd: brew install bookokrat
+    reference: https://formulae.brew.sh/formula/bookokrat
+  arch/yay:
+    cmd: yay -S bookokrat-bin
+    reference: https://aur.archlinux.org/packages/bookokrat-bin
+  (linux|nixos)/nix:
+    cmd: nix run github:bugzmanov/bookokrat
+    reference: https://github.com/bugzmanov/bookokrat
+binlist:
+  - bookokrat
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取本地电子书文件
+          en: Reads local e-book files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 15 MB
+          rating: 2
+          desc:
+            cn: 约 15 MB 安装
+            en: ~15 MB install
+        download:
+          estimate: 8 MB
+          desc:
+            cn: 约 8 MB 下载 (linux/x64)
+            en: ~8 MB download (linux/x64)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 约 30 MB 闲置
+          en: ~30 MB idle
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full

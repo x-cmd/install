@@ -1,0 +1,95 @@
+lang: Rust
+homepage: https://github.com/Jorji49/streamtop
+license: MIT
+desc:
+  en: streamtop is a Rust TUI/CLI for monitoring HLS, DASH, IPTV and WHEP streams — wire probes, TR 101 290, SCTE-35, linter score, Prometheus metrics and CI-friendly summary JSON.
+  cn: streamtop 是用 Rust 写的 TUI/CLI，监控 HLS、DASH、IPTV 与 WHEP 流：线缆探测、TR 101 290、SCTE-35、linter 评分、Prometheus 指标与 CI 友好的 JSON 摘要。
+x:
+  source: https://github.com/Jorji49/streamtop
+  eget: Jorji49/streamtop
+  brew: Jorji49/tap/streamtop
+  cargo: streamtop
+  yay: streamtop-bin
+rule:
+  /eget:
+    cmd: x eget Jorji49/streamtop
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install streamtop
+    reference: https://github.com/Jorji49/streamtop
+    dsnap: streamtop
+  /cargo-binstall:
+    cmd: cargo binstall streamtop
+    reference: https://github.com/Jorji49/streamtop
+    dsnap: streamtop
+  darwin/brew:
+    cmd: 'brew tap Jorji49/tap && brew install streamtop'
+    reference: https://github.com/Jorji49/streamtop
+  arch/yay:
+    cmd: makepkg -si -p dist/aur/PKGBUILD
+    reference: https://github.com/Jorji49/streamtop?tab=readme-ov-file#arch-linux
+  (win|wsl2)/scoop:
+    cmd: 'scoop bucket add streamtop https://github.com/Jorji49/streamtop && scoop install streamtop'
+    reference: https://github.com/Jorji49/streamtop
+binlist:
+- streamtop
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'cli']
+    network:
+      listen: localhost
+      connect:
+        localhost: false
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取用户指定的流、清单与日志
+          en: Reads user-specified streams, manifests and logs
+        sensitive: []
+      write:
+        desc:
+          cn: 写出诊断 JSON/HAR/SARIF 报告
+          en: Writes diagnostic JSON / HAR / SARIF reports
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 约 20 MB 安装
+            en: ~20 MB install
+        download:
+          estimate: 7 MB
+          desc:
+            cn: 约 7 MB 下载 (linux/x64 tar.gz)
+            en: ~7 MB download (linux/x64 tar.gz)
+      paths:
+        data:
+          - ~/.local/share/streamtop/
+        config:
+          - ~/.config/streamtop/
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 约 80 MB 闲置
+          en: ~80 MB idle
+    cpu:
+      workload: ['compute', 'network', 'io']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（持续轮询与解析）
+          en: Moderate (continuous polling & parsing)
+  platform:
+    win: full
+    linux: full
+    darwin: full

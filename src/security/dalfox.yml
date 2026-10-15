@@ -1,0 +1,88 @@
+lang: Rust
+homepage: https://github.com/hahwul/dalfox
+license: MIT
+desc:
+  en: Dalfox is an open-source XSS scanner focused on automation, with parameter analysis and an advanced testing engine for detecting and verifying vulnerabilities.
+  cn: Dalfox 是一个面向自动化的开源 XSS 扫描器，具备参数分析与高级测试引擎，可用于发现与验证漏洞。
+x:
+  source: https://github.com/hahwul/dalfox
+  eget: hahwul/dalfox
+  brew: dalfox
+  snap: dalfox
+  choco: dalfox
+  yay: dalfox
+  nix: dalfox
+rule:
+  /eget:
+    cmd: x eget hahwul/dalfox
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install dalfox
+    reference: https://github.com/hahwul/dalfox?tab=readme-ov-file#homebrew
+  (linux|ubuntu|kali|mint)/snap:
+    cmd: sudo snap install dalfox
+    reference: https://github.com/hahwul/dalfox?tab=readme-ov-file#snapcraft
+  (win|wsl2)/choco:
+    cmd: x choco install dalfox
+    reference: https://github.com/hahwul/dalfox?tab=readme-ov-file#chocolatey
+  arch/yay:
+    cmd: yay -S dalfox
+    reference: https://aur.archlinux.org/packages/dalfox
+  nix/nixpkgs:
+    cmd: nix-shell -p dalfox
+    reference: https://github.com/hahwul/dalfox?tab=readme-ov-file#nixpkgs
+binlist:
+- dalfox
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取用户提供的 URL / payload 文件
+          en: Reads user-supplied URL / payload files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 20 MB
+          rating: 2
+          desc:
+            cn: 约 20 MB 安装
+            en: ~20 MB install
+        download:
+          estimate: 10 MB
+          desc:
+            cn: 约 10 MB 下载 (linux/x64)
+            en: ~10 MB download (linux/x64)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 40 MB
+        desc:
+          cn: 约 40 MB 闲置
+          en: ~40 MB idle
+    cpu:
+      workload: ['compute', 'network']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（主动扫描期间）
+          en: Moderate (during active scanning)
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -1,0 +1,83 @@
+lang: Rust
+homepage: https://github.com/szabodanika/microbin
+license: EUPL-1.2
+desc:
+  en: Microbin is a self-hosted, feature-complete pastebin and file-sharing server written in Rust — supports snippets, uploads, URL shortener, encryption and expiration.
+  cn: Microbin 是一个自托管、功能完备的 Rust 粘贴与文件分享服务，支持代码片段、上传、短链、加密与过期。
+x:
+  source: https://github.com/szabodanika/microbin
+  eget: szabodanika/microbin
+  brew: microbin
+  cargo: microbin
+rule:
+  /eget:
+    cmd: x eget szabodanika/microbin
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install microbin
+    reference: https://crates.io/crates/microbin
+    dsnap: microbin
+  darwin/brew:
+    cmd: brew install microbin
+    reference: https://formulae.brew.sh/formula/microbin
+binlist:
+- microbin
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: daemon
+    network:
+      listen: localhost
+      connect:
+        localhost: false
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取上传的数据与数据库
+          en: Reads uploaded data and database
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 paste、上传文件与数据库
+          en: Writes pastes, uploads and database
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 10 MB
+          rating: 1
+          desc:
+            cn: 约 10 MB 安装
+            en: ~10 MB install
+        download:
+          estimate: 5 MB
+          desc:
+            cn: 约 5 MB 下载 (linux/x64)
+            en: ~5 MB download (linux/x64)
+      paths:
+        data:
+          - ~/.local/share/microbin/
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 约 30 MB 闲置
+          en: ~30 MB idle
+    cpu:
+      workload: ['compute', 'network']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full
