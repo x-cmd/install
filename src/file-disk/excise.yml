@@ -1,0 +1,87 @@
+lang: Rust
+homepage: https://github.com/findyourexit/excise
+license: MIT
+desc:
+  en: excise is a surgical terminal storage navigator — interactive storage map TUI plus JSON/table outputs, with accurate space accounting, hard-link handling, scoped scanning, and a deliberate review step before permanent deletion.
+  cn: excise 是"外科手术式"终端存储导航器：交互式存储地图 TUI，外加 JSON/表格输出；具备精确空间计算、硬链接处理、范围受限的扫描，并在永久删除前留出确认步骤。
+x:
+  source: https://github.com/findyourexit/excise
+  eget: findyourexit/excise
+  brew: findyourexit/tap/excise
+  cargo: excise
+  nix: excise
+rule:
+  /eget:
+    cmd: x eget findyourexit/excise
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install excise --locked
+    reference: https://crates.io/crates/excise
+    dsnap: excise
+  darwin/brew:
+    cmd: 'brew tap findyourexit/tap && brew install findyourexit/tap/excise'
+    reference: https://github.com/findyourexit/excise?tab=readme-ov-file#install
+  nixos/nix:
+    cmd: nix run github:findyourexit/excise -- --format table /path/to/inspect
+    reference: https://github.com/findyourexit/excise?tab=readme-ov-file#build-from-source
+binlist:
+- excise
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'cli']
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 扫描用户指定的目录并读取文件元数据
+          en: Scans user-specified directories and reads file metadata
+        sensitive: []
+      write:
+        desc:
+          cn: 删除用户明确选择的文件/目录（仅在确认后）
+          en: Deletes user-explicitly-chosen files/directories (after confirmation)
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 7 MB
+          rating: 1
+          desc:
+            cn: 约 7 MB 安装
+            en: ~7 MB install
+        download:
+          estimate: 2.8 MB
+          desc:
+            cn: 约 2.8 MB 下载 (linux/x86_64 tar.gz)
+            en: ~2.8 MB download (linux/x86_64 tar.gz)
+      paths:
+        data: []
+        config:
+          - ~/.config/excise/
+    memory:
+      idle:
+        estimate: 40 MB
+        desc:
+          cn: 约 40 MB 闲置
+          en: ~40 MB idle
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（活动扫描期间）
+          en: Moderate (during active scan)
+  platform:
+    win: full
+    linux: full
+    darwin: full

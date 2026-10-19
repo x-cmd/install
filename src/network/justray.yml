@@ -1,0 +1,97 @@
+lang: Go
+homepage: https://github.com/luynrs/justray
+license: GPL-3.0-or-later
+desc:
+  en: justray is a modern VPN client that lives in your terminal — TUI front-end plus a headless daemon with embedded sing-box core, supporting VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 and more.
+  cn: justray 是住在终端里的现代 VPN 客户端：TUI 前端 + 后台守护进程（内置 sing-box 内核），支持 VMess、VLESS、Trojan、WireGuard、Hysteria 1/2、TUIC、Shadowsocks、SOCKS5 等协议。
+x:
+  source: https://github.com/luynrs/justray
+  eget: luynrs/justray
+  brew: luynrs/tap/justray
+  yay: justray-bin
+  winget: luynrs.justray
+  nix: justray
+rule:
+  /eget:
+    cmd: x eget luynrs/justray
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: 'brew tap luynrs/tap && brew install justray'
+    reference: https://github.com/luynrs/justray?tab=readme-ov-file#installation
+  arch/yay:
+    cmd: yay -S justray-bin
+    reference: https://aur.archlinux.org/packages/justray-bin
+  (win|wsl2)/winget:
+    cmd: x winget install luynrs.justray
+    reference: https://github.com/luynrs/justray?tab=readme-ov-file#installation
+  /curl:
+    cmd: 'curl -fsSL https://raw.githubusercontent.com/luynrs/justray/main/install.sh | sh'
+    reference: https://github.com/luynrs/justray?tab=readme-ov-file#installation
+  (linux|nixos)/nix:
+    cmd: nix run github:luynrs/justray
+    reference: https://github.com/luynrs/justray?tab=readme-ov-file#nix
+binlist:
+- justray
+- justrayd
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'daemon']
+    network:
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取订阅、节点配置与代理协议
+          en: Reads subscriptions, node configs and proxy protocols
+        sensitive:
+          - ~/.config/justray/subscriptions.yaml
+      write:
+        desc:
+          cn: 写入订阅缓存、节点探测结果与日志
+          en: Writes subscription cache, probe results and logs
+        sensitive:
+          - ~/.config/justray/subscriptions.yaml
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 15 MB
+          rating: 2
+          desc:
+            cn: 约 15 MB 安装
+            en: ~15 MB install
+        download:
+          estimate: 8 MB
+          desc:
+            cn: 约 8 MB 下载 (linux/x64)
+            en: ~8 MB download (linux/x64)
+      paths:
+        data:
+          - ~/.local/share/justray/
+        config:
+          - ~/.config/justray/
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 约 50 MB 闲置（Linux/macOS，README 标注）
+          en: ~50 MB idle (Linux/macOS, per README)
+    cpu:
+      workload: ['compute', 'network']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低（流量代理转发）
+          en: Low (proxy forwarding)
+  platform:
+    win: full
+    linux: full
+    darwin: full

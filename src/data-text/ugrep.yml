@@ -1,0 +1,116 @@
+lang: C++
+homepage: https://github.com/Genivia/ugrep
+license: BSD-3-Clause
+desc:
+  en: ugrep is a user-friendly, faster, more capable grep replacement with a TUI, Google-like Boolean queries, fuzzy search, hexdumps, and searches inside archives, compressed files, PDFs and docs.
+  cn: ugrep 是更友好、更快、更强的 grep 替代品，支持 TUI、Google 风格布尔查询、模糊搜索、十六进制转储，以及在归档/压缩/PDF/文档内搜索。
+x:
+  source: https://github.com/Genivia/ugrep
+  brew: ugrep
+  port: ugrep
+  winget: Genivia.ugrep
+  choco: ugrep
+  scoop: ugrep
+  apk: ugrep
+  pacman: ugrep
+  apt: ugrep
+  dnf: ugrep
+rule:
+  darwin/brew:
+    cmd: brew install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#how-to-install
+  darwin/port:
+    cmd: sudo port install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#how-to-install
+  (win|wsl2)/winget:
+    cmd: x winget install Genivia.ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#windows
+  (win|wsl2)/choco:
+    cmd: x choco install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#windows
+  (win|wsl2)/scoop:
+    cmd: x scoop install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#windows
+  alpine/apk:
+    cmd: sudo apk add ugrep ugrep-doc
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#alpine-linux
+    dsnap: ugrep
+  arch/pacman:
+    cmd: sudo pacman -S ugrep
+    reference: https://archlinux.org/packages/extra/x86_64/ugrep
+  debian/apt:
+    cmd: sudo apt-get install ugrep
+    reference: https://packages.debian.org/ugrep
+    dsnap: ugrep
+  ubuntu/apt:
+    cmd: sudo apt-get install ugrep
+    reference: https://packages.ubuntu.com/ugrep
+    dsnap: ugrep
+  fedora/dnf:
+    cmd: sudo dnf install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#fedora
+    dsnap: ugrep
+  rhel/dnf:
+    cmd: sudo dnf install epel-release && sudo dnf install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#rhel
+  centos/dnf:
+    cmd: sudo dnf install epel-release && sudo dnf install ugrep
+    reference: https://github.com/Genivia/ugrep?tab=readme-ov-file#centos
+
+binlist:
+- ugrep
+- ug
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取用户文件、归档与压缩内容
+          en: Reads user files, archives and compressed content
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 3 MB
+          rating: 1
+          desc:
+            cn: 约 3 MB 安装
+            en: ~3 MB install
+        download:
+          estimate: 2 MB
+          desc:
+            cn: 约 2 MB 下载 (windows x64)
+            en: ~2 MB download (windows x64)
+      paths:
+        data: []
+        config:
+          - ~/.ugrep
+    memory:
+      idle:
+        estimate: 10 MB
+        desc:
+          cn: 约 10 MB 闲置
+          en: ~10 MB idle
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full

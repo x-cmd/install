@@ -1,0 +1,86 @@
+lang: Rust
+homepage: https://github.com/matthart1983/diskwatch
+license: MIT
+desc:
+  en: diskwatch is a single-host, read-only disk diagnostics TUI — inspects disk activity, capacity, SMART health, and busy files with anomaly cards across 8 tabs (overview, devices, volumes, FS, IO, SMART, hot files, insights).
+  cn: diskwatch 是单主机、只读的磁盘诊断 TUI：通过 8 个标签页（概览、设备、卷、文件系统、IO、SMART、热文件、洞察）检查磁盘活动、容量、健康度与异常。
+x:
+  source: https://github.com/matthart1983/diskwatch
+  eget: matthart1983/diskwatch
+  brew: diskwatch
+  cargo: diskwatch
+  yay: diskwatch
+  nix: diskwatch
+rule:
+  /eget:
+    cmd: x eget matthart1983/diskwatch
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install diskwatch
+    reference: https://crates.io/crates/diskwatch
+    dsnap: diskwatch
+  darwin/brew:
+    cmd: brew install diskwatch
+    reference: https://github.com/matthart1983/diskwatch?tab=readme-ov-file#install
+  arch/yay:
+    cmd: yay -S diskwatch
+    reference: https://aur.archlinux.org/packages/diskwatch
+  nixos/nix:
+    cmd: nix-shell -p diskwatch
+    reference: https://github.com/matthart1983/diskwatch?tab=readme-ov-file#install
+binlist:
+- diskwatch
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取设备、卷、文件系统、SMART 与文件 IO 状态
+          en: Reads device, volume, filesystem, SMART and file-IO state
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 4 MB
+          rating: 1
+          desc:
+            cn: 约 4 MB 安装
+            en: ~4 MB install
+        download:
+          estimate: 1.2 MB
+          desc:
+            cn: 约 1.2 MB 下载 (linux/x86_64 tar.gz)
+            en: ~1.2 MB download (linux/x86_64 tar.gz)
+      paths:
+        data: []
+        config:
+          - ~/.config/diskwatch/
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 约 30 MB 闲置
+          en: ~30 MB idle
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低（持续采样）
+          en: Low (continuous sampling)
+  platform:
+    win: full
+    linux: full
+    darwin: full
