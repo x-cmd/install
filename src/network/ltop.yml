@@ -1,0 +1,21 @@
+lang: Rust
+homepage: https://github.com/uMaj35ty/ltop
+license: MIT
+desc:
+  cn: ltop 是 btop 风格的本地终端监控：每进程/每连接网络计费（TCP+UDP，可选 eBPF 助手）、局域网邻居发现与磁盘 I/O，六盒布局、41 主题热切换、中英双语。
+  en: ltop is a btop-styled terminal monitor: per-process/per-connection network accounting (TCP+UDP via an optional eBPF helper), LAN neighbour discovery and disk I/O. Six boxes, 41 themes, EN/中文 UI.
+x:
+  source: https://github.com/uMaj35ty/ltop
+  eget: uMaj35ty/ltop
+  cargo: ltop
+rule:
+  /eget:
+    cmd: x eget uMaj35ty/ltop
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install ltop
+    reference: https://crates.io/crates/ltop
+binlist:
+- ltop
+- ltop-bpf
+- loli
