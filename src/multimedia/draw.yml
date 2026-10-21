@@ -1,0 +1,74 @@
+lang: TypeScript
+homepage: https://github.com/x-cmd/draw
+license: Apache-2.0
+desc:
+  cn: SVG 图表生成服务 / 库 / CLI，支持 pie、bar、hbar、line、area、radar、gauge、scatter、combo、sankey、qr 共 11 种图表，所有入口共享同一参数
+  en: SVG chart rendering as a service, a library, and a CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, same params everywhere.
+x:
+  source: https://github.com/x-cmd/draw
+  npm: "@x-cmd/draw"
+rule:
+  /npm:
+    cmd: npm install -g @x-cmd/draw
+    reference: https://github.com/x-cmd/draw?tab=readme-ov-file#cli
+    dsnap: '@x-cmd/draw'
+  /bun:
+    cmd: bun add -g @x-cmd/draw
+    reference: https://github.com/x-cmd/draw?tab=readme-ov-file#cli
+  /deno:
+    cmd: deno add jsr:@x-cmd/draw
+    reference: https://jsr.io/@x-cmd/draw
+  /curl:
+    cmd: 'curl -fsSL https://raw.githubusercontent.com/x-cmd/draw/main/scripts/setup.sh | bash'
+    reference: https://github.com/x-cmd/draw?tab=readme-ov-file#one-shot-self-deploy
+binlist:
+- draw
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件与可选的数据输出文件
+          en: Reads config files and optionally writes SVG output files
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 6 MB
+          rating: 1
+          desc:
+            cn: 约 6 MB（估算）
+            en: ~6 MB estimated
+      paths:
+        data: []
+        config:
+          - ~/.config/x-cmd/draw
+    memory:
+      idle:
+        estimate: 15 MB
+        desc:
+          cn: 15 MB（估算）
+          en: 15 MB estimated
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full
