@@ -1,11 +1,11 @@
 lang: Rust
-homepage: https://github.com/rustwasm/wasm-pack
+homepage: https://github.com/wasm-bindgen/wasm-pack
 license: Apache-2.0
 desc:
   en: wasm-pack is a tool for building and using Rust-generated WebAssembly that can be easily integrated with JavaScript.
   cn: wasm-pack 是一个用于构建和使用由 Rust 生成的 WebAssembly 的工具，可以轻松地与 JavaScript 集成。
 x:
-  source: https://github.com/rustwasm/wasm-pack
+  source: https://github.com/wasm-bindgen/wasm-pack
   brew: wasm-pack
   yay: wasm-pack-bin
   npm: wasm-pack

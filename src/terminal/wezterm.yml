@@ -1,10 +1,10 @@
 lang: Rust
-homepage: https://github.com/wez/wezterm
+homepage: https://github.com/wezterm/wezterm
 desc:
   cn: WezTerm 是一个功能强大的跨平台终端仿真器和多路复用器，由 @wez 编写，用 Rust winget install 实现
   en: WezTerm is a powerful cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 x:
-  source: https://github.com/wez/wezterm
+  source: https://github.com/wezterm/wezterm
   apt: wezterm
   zypper: wezterm
   port: wezterm
@@ -46,7 +46,7 @@ rule:
     reference: https://wezfurlong.org/wezterm/install/linux.html#using-the-apt-repo
     dsnap: wezterm
   ubuntu/curl:
-    cmd: 'curl -LO https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb && \
+    cmd: 'curl -LO https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb && \
 
       sudo apt install -y ./wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb
 
@@ -65,7 +65,7 @@ rule:
     reference: https://wezfurlong.org/wezterm/install/linux.html#using-the-apt-repo
     dsnap: wezterm
   fedora/dnf:
-    cmd: sudo dnf install -y https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm
+    cmd: sudo dnf install -y https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm
     reference: https://wezfurlong.org/wezterm/install/linux.html#installing-on-fedora-and-rpm-based-systems
     dsnap: wezterm
   opensuse/zypper:

@@ -1,11 +1,11 @@
 lang: Rust
-homepage: https://github.com/extrawurst/gitui
+homepage: https://github.com/gitui-org/gitui
 license: MIT
 desc:
   cn: gitui 是一个基于终端的 Git 用户界面工具
   en: gitui is a terminal-based Git user interface tool
 x:
-  source: https://github.com/extrawurst/gitui
+  source: https://github.com/gitui-org/gitui
   eget: extrawurst/gitui
   brew: gitui
   scoop: gitui
@@ -25,7 +25,7 @@ rule:
     reference: https://github.com/looztra/asdf-gitui
   /cargo:
     cmd: cargo install gitui
-    reference: https://github.com/extrawurst/gitui?tab=readme-ov-file#cargo-install
+    reference: https://github.com/gitui-org/gitui?tab=readme-ov-file#cargo-install
     dsnap: gitui
   darwin/brew:
     cmd: brew install gitui

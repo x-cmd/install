@@ -1,11 +1,11 @@
 lang: Go
-homepage: https://github.com/mozilla/sops
+homepage: https://github.com/getsops/sops
 license: MPL-2.0
 desc:
   cn: 加密文件编辑器
   en: Encrypted file editor
 x:
-  source: https://github.com/mozilla/sops
+  source: https://github.com/getsops/sops
   yay: sops-git
   asdf: sops
 rule:

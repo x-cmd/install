@@ -1,10 +1,10 @@
 lang: C
-homepage: https://github.com/eclipse/mosquitto
+homepage: https://github.com/eclipse-mosquitto/mosquitto
 desc:
   cn: 实现 MQTT 协议的消息代理
   en: Message broker implementing the MQTT protocol
 x:
-  source: https://github.com/eclipse/mosquitto
+  source: https://github.com/eclipse-mosquitto/mosquitto
   apt: mosquitto
   dnf: mosquitto
   brew: mosquitto

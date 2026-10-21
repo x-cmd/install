@@ -1,11 +1,11 @@
 lang: Go
-homepage: https://github.com/terrastruct/d2
+homepage: https://github.com/d2lang/d2
 license: MPL-2.0
 desc:
   cn: D2 是一个将文本转换为图表的图表脚本语言，它代表了声明性图表
   en: D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming
 x:
-  source: https://github.com/terrastruct/d2
+  source: https://github.com/d2lang/d2
   eget: terrastruct/d2
   brew: d2
   scoop: d2

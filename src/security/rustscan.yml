@@ -1,11 +1,11 @@
 lang: Rust
-homepage: https://github.com/RustScan/RustScan
+homepage: https://github.com/bee-san/RustScan
 license: GPL-3.0
 desc:
   cn: 现代端口扫描器
   en: The Modern Port Scanner
 x:
-  source: https://github.com/RustScan/RustScan
+  source: https://github.com/bee-san/RustScan
   brew: rustscan
 rule:
   /x:
@@ -13,7 +13,7 @@ rule:
     reference: https://x-cmd.com/install/
   darwin/brew:
     cmd: brew install rustscan
-    reference: https://github.com/RustScan/RustScan/wiki/Installation-Guide#-homebrew
+    reference: https://github.com/bee-san/RustScan/wiki/Installation-Guide#-homebrew
 binlist:
 - rustscan
 
