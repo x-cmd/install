@@ -50,6 +50,10 @@ footprint:
           en: Writes local cache and MCP server state
         sensitive:
           - "$HOME/.config/dbx"
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

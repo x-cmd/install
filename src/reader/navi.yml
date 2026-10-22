@@ -41,6 +41,10 @@ footprint:
           cn: 读取 cheatsheet 文件
           en: Reads cheatsheet files
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

@@ -51,6 +51,10 @@ footprint:
           cn: 在多个代理配置目录下写入依赖与 MCP 服务器配置
           en: Writes dependencies and MCP server configs into agent config dirs
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

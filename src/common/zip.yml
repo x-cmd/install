@@ -78,6 +78,10 @@ footprint:
           cn: 写入 .zip 归档
           en: Writes .zip archives
         sensitive: []
+  platform:
+    win: none
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

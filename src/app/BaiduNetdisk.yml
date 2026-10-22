@@ -46,6 +46,10 @@ footprint:
           cn: 同步文件到云端
           en: Syncs files to cloud
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

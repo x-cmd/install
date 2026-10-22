@@ -35,6 +35,10 @@ footprint:
           cn: 写入 /tmp/screen-*/ socket 和 scrollback
           en: Writes /tmp/screen-*/ sockets and scrollback
         sensitive: []
+  platform:
+    win: none
+    linux: none
+    darwin: full
   resource:
     disk:
       size:

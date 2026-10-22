@@ -64,6 +64,10 @@ footprint:
           cn: 读取配置文件
           en: Reads config files
         sensitive: []
+  platform:
+    win: none
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

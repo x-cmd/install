@@ -30,6 +30,10 @@ footprint:
           cn: 读取 ZFS/btrfs 快照元数据
           en: Reads ZFS/btrfs snapshot metadata
         sensitive: []
+  platform:
+    win: none
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

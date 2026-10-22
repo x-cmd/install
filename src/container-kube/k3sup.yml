@@ -74,6 +74,6 @@ footprint:
           cn: 极低
           en: Negligible
   platform:
-    win: none
+    win: full
     linux: none
     darwin: full

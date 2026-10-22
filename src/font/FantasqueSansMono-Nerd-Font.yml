@@ -38,6 +38,10 @@ footprint:
         desc:
           cn: 读取配置文件
           en: Reads config files
+  platform:
+    win: partial
+    linux: full
+    darwin: partial
   resource:
     disk:
       size:

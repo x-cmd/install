@@ -38,6 +38,10 @@ footprint:
           cn: 提供字体文件
           en: Provides font files
         sensitive: []
+  platform:
+    win: partial
+    linux: full
+    darwin: partial
   resource:
     disk:
       size:
