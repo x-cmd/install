@@ -1,0 +1,75 @@
+lang: Rust
+homepage: https://github.com/h5i-dev/h5i
+license: Apache-2.0
+desc:
+  en: h5i is a Rust web framework that unifies web development, Lean 4 formal verification and red teaming. Its CLI drives browser automation, HTTP security testing, reconnaissance and sandboxed AI agents.
+  cn: h5i 是一个 Rust Web 框架，把 Web 开发、Lean 4 形式化验证和红队测试统一在一套可组合的框架中。它的 CLI 覆盖浏览器自动化、HTTP 安全测试、侦察以及沙箱化的 AI agent。
+x:
+  source: https://github.com/h5i-dev/h5i
+  eget: h5i-dev/h5i
+rule:
+  /eget:
+    cmd: x eget h5i-dev/h5i
+    reference: https://github.com/h5i-dev/h5i/releases
+  /curl:
+    cmd: curl -fsSL https://h5i.dev/install.sh | sh -s -- --websec --recon --test
+    reference: https://github.com/h5i-dev/h5i?tab=readme-ov-file#1-install
+  /cargo:
+    cmd: cargo add h5i-app
+    reference: https://github.com/h5i-dev/h5i
+
+binlist:
+- h5i
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: localhost
+      connect:
+        localhost: true
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取项目源码、用户指定的目标与测试定义；沙箱内按声明的 profile 读取宿主配置
+          en: Reads project sources, user-supplied targets and test definitions; reads host config inside a box per its declared profile
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 65 MB
+          rating: 3
+          desc:
+            cn: 约 65 MB（含 websec/recon/test 三个插件；仅主二进制约 40 MB）
+            en: ~65 MB (with the websec/recon/test plugins; main binary alone is ~40 MB)
+        download:
+          estimate: 23 MB
+          desc:
+            cn: 约 23 MB 下载 (linux/x64)
+            en: ~23 MB download (linux/x64)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB（估算）
+          en: 30 MB estimated
+    cpu:
+      workload: ['compute', 'network']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（浏览器自动化期间会驱动 Chromium）
+          en: Moderate (drives Chromium during browser automation)
+  platform:
+    win: partial
+    linux: full
+    darwin: full
