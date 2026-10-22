@@ -93,6 +93,10 @@ footprint:
           en: Writes ~/.emacs.d, autosave files, edit buffers
         sensitive:
           - "~/.authinfo.gpg"
+  platform:
+    win: none
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

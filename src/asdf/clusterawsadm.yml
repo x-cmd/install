@@ -35,6 +35,10 @@ footprint:
           en: Reads ~/.aws/credentials
         sensitive:
           - "$HOME/.aws/credentials"
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

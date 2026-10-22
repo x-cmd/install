@@ -46,6 +46,10 @@ footprint:
           cn: 写入 Lore 仓库 working copy
           en: Writes Lore repository working copy
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

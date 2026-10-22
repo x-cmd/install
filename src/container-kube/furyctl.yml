@@ -44,6 +44,10 @@ footprint:
           en: Reads furyctl.yaml config
         sensitive:
           - "furyctl.yaml"
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

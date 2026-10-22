@@ -119,6 +119,6 @@ footprint:
           cn: 同步代码/构建时占用
           en: Spike during sync/build
   platform:
-    win: none
+    win: full
     linux: full
     darwin: full

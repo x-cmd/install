@@ -48,6 +48,10 @@ footprint:
           cn: 修改 SVN working copy
           en: Modifies SVN working copy
         sensitive: []
+  platform:
+    win: none
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

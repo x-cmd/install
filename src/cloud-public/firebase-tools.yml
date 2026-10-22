@@ -92,6 +92,6 @@ footprint:
           cn: 上传资源时占用
           en: Spike on asset upload
   platform:
-    win: none
+    win: full
     linux: full
     darwin: full

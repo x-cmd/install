@@ -47,6 +47,10 @@ footprint:
         desc:
           cn: 无文件系统读写
           en: No filesystem reads or writes
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

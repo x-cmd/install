@@ -99,6 +99,6 @@ footprint:
           cn: 编译安装时短暂占用
           en: Brief spike on compile install
   platform:
-    win: none
+    win: full
     linux: full
     darwin: full

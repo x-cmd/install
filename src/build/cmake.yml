@@ -93,6 +93,6 @@ footprint:
           cn: cmake --build 时调度编译器
           en: Schedules compilers during cmake --build
   platform:
-    win: none
+    win: full
     linux: full
     darwin: full

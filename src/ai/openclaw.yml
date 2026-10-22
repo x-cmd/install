@@ -81,5 +81,5 @@ footprint:
           en: Negligible
   platform:
     win: none
-    linux: none
+    linux: full
     darwin: full

@@ -78,6 +78,6 @@ footprint:
           cn: 加载/重写 git 状态时短暂占用
           en: Brief spike loading/rewriting git state
   platform:
-    win: none
+    win: full
     linux: full
     darwin: full

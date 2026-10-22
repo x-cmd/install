@@ -71,6 +71,10 @@ footprint:
           en: Writes the config file (holds API keys, mode 0600) and a quote cache at ~/.cache/alphai-tui/quotes.json
         sensitive:
           - ~/.config/alphai-tui/config.toml
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

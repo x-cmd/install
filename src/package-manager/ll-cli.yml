@@ -96,6 +96,10 @@ footprint:
         desc:
           cn: 读取配置文件
           en: Reads config files
+  platform:
+    win: none
+    linux: full
+    darwin: none
   resource:
     disk:
       size:

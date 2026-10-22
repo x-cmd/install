@@ -60,6 +60,10 @@ footprint:
           en: Writes /etc/hosts (adds blocklist entries)
         sensitive:
           - "/etc/hosts"
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

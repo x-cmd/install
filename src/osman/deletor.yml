@@ -35,6 +35,10 @@ footprint:
           cn: 删除指定文件
           en: Deletes specified files
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

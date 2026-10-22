@@ -80,6 +80,6 @@ footprint:
           cn: 低
           en: Low
   platform:
-    win: full
+    win: none
     linux: full
     darwin: full

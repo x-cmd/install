@@ -51,6 +51,10 @@ footprint:
           cn: 读取 .git/objects, .git/packed-refs
           en: Reads .git/objects, .git/packed-refs
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:

@@ -42,6 +42,10 @@ footprint:
           cn: 写入 VM 镜像与运行时状态
           en: Writes VM images and runtime state
         sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
   resource:
     disk:
       size:
