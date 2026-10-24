@@ -1,0 +1,96 @@
+lang: Rust
+homepage: https://shellfirm.vercel.app/
+license: Apache-2.0
+desc:
+  en: shellfirm is a safety guardrail for the terminal — it intercepts risky shell commands with a quick challenge before they run, covering 100+ patterns across git, Kubernetes, Terraform, Docker, cloud and databases, and can also serve as an MCP tool for AI agents; run `shellfirm init` once to install the shell hook.
+  cn: shellfirm 是终端的安全护栏：在危险命令执行前用一道小挑战拦下来，覆盖 git、Kubernetes、Terraform、Docker、各云与数据库等 9 类生态的 100+ 条规则，也可作为 MCP 工具供 AI 代理调用；安装后执行一次 `shellfirm init` 装上 shell 钩子。
+x:
+  source: https://github.com/kaplanelad/shellfirm
+  eget: kaplanelad/shellfirm
+  brew: kaplanelad/tap/shellfirm
+  npm: '@shellfirm/cli'
+  cargo: shellfirm
+rule:
+  /eget:
+    cmd: x eget kaplanelad/shellfirm
+    reference: https://x-cmd.com/mod/eget
+  /npm:
+    cmd: npm install -g @shellfirm/cli
+    reference: https://github.com/kaplanelad/shellfirm#installation
+    dsnap: '@shellfirm/cli'
+  /cargo:
+    cmd: cargo install shellfirm
+    reference: https://github.com/kaplanelad/shellfirm#installation
+    dsnap: shellfirm
+  darwin/brew:
+    cmd: brew tap kaplanelad/tap && brew install shellfirm
+    reference: https://github.com/kaplanelad/shellfirm#installation
+binlist:
+- shellfirm
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['cli', 'tui']
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取待执行的命令、当前目录与 git 状态用于风险评估，并读取项目策略 .shellfirm.yaml 与自定义检查规则
+          en: Reads the command being run, the working directory and git state for risk assessment, plus project policies (.shellfirm.yaml) and custom check rules
+        sensitive: []
+      write:
+        desc:
+          cn: 写入 ~/.shellfirm 下的配置与审计日志，并在 shellfirm init 时向 shell rc（~/.zshrc、~/.bashrc、~/.config/fish/config.fish 等）注入钩子
+          en: Writes the config and audit log under ~/.shellfirm, and injects hooks into shell rc files (~/.zshrc, ~/.bashrc, ~/.config/fish/config.fish, etc.) when running shellfirm init
+        sensitive:
+        - "$HOME/.shellfirm/audit.log"
+        - "$HOME/.zshrc"
+        - "$HOME/.bashrc"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 6 MB
+          rating: 1
+          desc:
+            cn: 约 6 MB 安装 (linux/x64)
+            en: ~6 MB install (linux/x64)
+        download:
+          estimate: 1.6 MB
+          desc:
+            cn: 约 1.6 MB 下载 (linux/x64 tar.xz)
+            en: ~1.6 MB download (linux/x64 tar.xz)
+        growth:
+          desc:
+            cn: 审计日志 ~/.shellfirm/audit.log 按被拦截的命令逐条追加
+            en: The audit log ~/.shellfirm/audit.log grows with every intercepted command
+      paths:
+        data:
+          - ~/.shellfirm/audit.log
+        config:
+          - ~/.shellfirm/
+    memory:
+      idle:
+        estimate: 10 MB
+        desc:
+          cn: 约 10 MB 闲置
+          en: ~10 MB idle
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低（每条命令执行前的快速规则匹配）
+          en: Low (a quick rule match before every command)
+  platform:
+    win: partial
+    linux: partial
+    darwin: full

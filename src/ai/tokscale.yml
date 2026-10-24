@@ -1,0 +1,93 @@
+lang: Rust
+homepage: https://tokscale.ai
+license: MIT
+desc:
+  en: tokscale tracks token usage and spend across AI coding agents — Claude Code, Codex, Cursor, Gemini CLI, OpenCode and dozens more — in a terminal TUI, with per-day cost reports and an optional global leaderboard.
+  cn: tokscale 在终端 TUI 中统计各家 AI 编码代理——Claude Code、Codex、Cursor、Gemini CLI、OpenCode 等数十种——的 token 用量与花费，按天给出成本报告，并可选上报全球排行榜。
+x:
+  source: https://github.com/junhoyeo/tokscale
+  npm: tokscale
+rule:
+  /npm:
+    cmd: npm install -g tokscale
+    reference: https://www.npmjs.com/package/tokscale
+    dsnap: tokscale
+  /bun:
+    cmd: bun add -g tokscale
+    reference: https://github.com/junhoyeo/tokscale#installation
+  /npx:
+    cmd: npx tokscale@latest
+    reference: https://github.com/junhoyeo/tokscale#installation
+binlist:
+- tokscale
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'cli']
+    network:
+      listen: none
+      connect:
+        localhost: true
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 扫描各家 AI 代理的会话记录与本地数据库（Claude Code、Codex、Cursor、Gemini CLI、VS Code 插件等），并读取定价库与排行榜
+          en: Scans AI agents' session logs and local databases (Claude Code, Codex, Cursor, Gemini CLI, VS Code extensions, etc.), and reads pricing data and leaderboards
+        sensitive:
+        - "$HOME/.claude/projects/*"
+        - "$HOME/.codex/sessions/*"
+        - "$HOME/.config/tokscale/credentials.json"
+        - "$HOME/.config/tokscale/cursor-credentials.json"
+      write:
+        desc:
+          cn: 写入 ~/.config/tokscale 下的设置、定价覆盖、登录凭据与各客户端同步缓存
+          en: Writes settings, pricing overrides, login credentials and per-client sync caches under ~/.config/tokscale
+        sensitive:
+        - "$HOME/.config/tokscale/credentials.json"
+        - "$HOME/.config/tokscale/cursor-credentials.json"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 38 MB
+          rating: 2
+          desc:
+            cn: 约 38 MB 安装 (linux/x64)
+            en: ~38 MB install (linux/x64)
+        download:
+          estimate: 15 MB
+          desc:
+            cn: 约 15 MB 下载 (linux/x64)
+            en: ~15 MB download (linux/x64)
+        growth:
+          desc:
+            cn: cursor/amp/antigravity/trae/warp 等客户端的同步缓存随抓取的数据量增长
+            en: The cursor/amp/antigravity/trae/warp sync caches grow with the amount of fetched data
+      paths:
+        data: []
+        config:
+          - ~/.config/tokscale/
+        cache:
+          - ~/.config/tokscale/*-cache/
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: 约 100 MB 闲置，随扫描到的会话数量增长
+          en: ~100 MB idle, growing with the number of scanned sessions
+    cpu:
+      workload: ['compute', 'io', 'network']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（并行扫描与解析大量会话文件）
+          en: Moderate (parallel scanning and parsing of many session files)
+  platform:
+    win: full
+    linux: full
+    darwin: full

@@ -1,0 +1,98 @@
+lang: Go
+homepage: https://envd.tensorchord.ai/
+license: Apache-2.0
+desc:
+  en: envd is a reproducible, container-based development environment for AI/ML — declare dependencies in build.envd and `envd up` builds an isolated environment with BuildKit, exported as an OCI-compatible image; run `envd bootstrap` once after installing.
+  cn: envd 是面向 AI/ML 的可复现容器化开发环境：在 build.envd 中声明依赖，`envd up` 用 BuildKit 构建隔离环境并产出兼容 OCI 规范的镜像；安装后需执行一次 `envd bootstrap`。
+x:
+  source: https://github.com/tensorchord/envd
+  brew: envd
+  pip: envd
+rule:
+  /curl:
+    cmd: curl -sSfL https://envd.tensorchord.ai/install.sh | sudo bash
+    reference: https://envd.tensorchord.ai/guide/getting-started.html#install-and-bootstrap-envd
+  /pip:
+    cmd: pip install --upgrade envd
+    reference: https://envd.tensorchord.ai/guide/getting-started.html#install-and-bootstrap-envd
+  /pipx:
+    cmd: pipx install envd
+    reference: https://envd.tensorchord.ai/guide/getting-started.html#install-and-bootstrap-envd
+  /uv:
+    cmd: uv tool install envd
+    reference: https://envd.tensorchord.ai/guide/getting-started.html#install-and-bootstrap-envd
+  darwin/brew:
+    cmd: brew install envd
+    reference: https://envd.tensorchord.ai/guide/getting-started.html#install-and-bootstrap-envd
+binlist:
+- envd
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: true
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 build.envd 声明文件、Docker 上下文配置与 ~/.ssh/config
+          en: Reads the build.envd declaration, the Docker context config and ~/.ssh/config
+        sensitive:
+        - "$HOME/.ssh/config"
+      write:
+        desc:
+          cn: 写入 ~/.config/envd（配置、SSH 密钥对、遥测 UID）、~/.cache/envd（环境数据与缓存），并向 ~/.ssh/config 追加环境条目
+          en: Writes ~/.config/envd (config, SSH key pair, telemetry UID), ~/.cache/envd (environment data and caches), and appends environment entries to ~/.ssh/config
+        sensitive:
+        - "$HOME/.ssh/config"
+        - "$HOME/.config/envd/id_rsa_envd"
+        - "$HOME/.config/envd/id_rsa_envd.pub"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 60 MB
+          rating: 3
+          desc:
+            cn: 约 60 MB 安装 (linux/x64；macOS 通用二进制 119 MB)
+            en: ~60 MB install (linux/x64; 119 MB for the macOS universal binary)
+        download:
+          estimate: 60 MB
+          desc:
+            cn: 约 60 MB 下载 (linux/x64)
+            en: ~60 MB download (linux/x64)
+        growth:
+          desc:
+            cn: 环境数据与构建缓存写入 ~/.cache/envd，随环境数量增长
+            en: Environment data and build caches land in ~/.cache/envd and grow with the number of environments
+      paths:
+        data:
+          - ~/.cache/envd/data/
+        config:
+          - ~/.config/envd/
+        cache:
+          - ~/.cache/envd/
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 约 30 MB 闲置
+          en: ~30 MB idle
+    cpu:
+      workload: ['compute', 'io', 'network']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低（实际构建由 buildkitd 容器承担）
+          en: Low (the build itself runs in buildkitd containers)
+  platform:
+    win: none
+    linux: full
+    darwin: full

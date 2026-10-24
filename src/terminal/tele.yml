@@ -1,0 +1,99 @@
+lang: Go
+homepage: https://github.com/sorokin-vladimir/tele
+license: GPL-3.0
+desc:
+  en: tele is a keyboard-first Telegram client for the terminal — vim-style navigation, inline photos and voice notes, reactions and chat folders, plus a daemon mode that keeps the account connected and delivers desktop notifications with no window open.
+  cn: tele 是面向终端的键盘优先 Telegram 客户端：vim 风格导航、内联图片与语音消息、表情回应与会话文件夹，并支持守护进程模式——没有窗口打开时仍保持账号在线并推送桌面通知。
+x:
+  source: https://github.com/sorokin-vladimir/tele
+  eget: sorokin-vladimir/tele
+  brew: tele
+  winget: sorokin-vladimir.tele
+rule:
+  /eget:
+    cmd: x eget sorokin-vladimir/tele
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -sL https://raw.githubusercontent.com/sorokin-vladimir/tele/main/scripts/install.sh | sh
+    reference: https://github.com/sorokin-vladimir/tele#installation
+  darwin/brew:
+    cmd: brew install tele
+    reference: https://github.com/sorokin-vladimir/tele#installation
+  (win|wsl2)/scoop:
+    cmd: |
+      x scoop bucket add tele https://github.com/sorokin-vladimir/scoop-tele && \
+      x scoop install tele
+    reference: https://github.com/sorokin-vladimir/tele#installation
+  (win|wsl2)/winget:
+    cmd: x winget install sorokin-vladimir.tele
+    reference: https://github.com/sorokin-vladimir/tele#installation
+  nixos/nix:
+    cmd: nix profile install github:sorokin-vladimir/tele
+    reference: https://github.com/sorokin-vladimir/tele#installation
+
+binlist:
+- tele
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'daemon']
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置、Telegram 会话与本地历史数据库、媒体缓存
+          en: Reads the config, the Telegram session and local history database, and the media cache
+        sensitive: []
+      write:
+        desc:
+          cn: 写入配置、会话与本地数据库、媒体缓存及日志
+          en: Writes the config, the session and local database, the media cache and logs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 29 MB
+          rating: 2
+          desc:
+            cn: 约 29 MB 安装
+            en: ~29 MB install
+        download:
+          estimate: 29 MB
+          desc:
+            cn: 约 29 MB 下载 (linux/x64)
+            en: ~29 MB download (linux/x64)
+        growth:
+          desc:
+            cn: 媒体缓存默认 256 MB 预算，头像另有 16 MB 预算
+            en: Media cache defaults to a 256 MB budget, with a separate 16 MB budget for avatars
+      paths:
+        data:
+          - ~/.local/state/tele/
+        config:
+          - ~/.config/tele/
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: 约 50 MB 闲置
+          en: ~50 MB idle
+    cpu:
+      workload: ['compute', 'network', 'io']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 中等（长期运行的 TUI）
+          en: Moderate (long-running TUI)
+  platform:
+    win: full
+    linux: full
+    darwin: full
