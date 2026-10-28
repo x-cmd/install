@@ -1,18 +1,39 @@
-lang: 'Rust'
-homepage: https://github.com/jqnatividad/qsv
-license: 'Unlicense'
+lang: Rust
+homepage: https://github.com/dathere/qsv
+license: MIT
 desc:
   cn: 极速数据处理工具包
-  en: 'Blazing-fast Data-Wrangling toolkit'
+  en: Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
 x:
-  source: https://github.com/jqnatividad/qsv
-  eget: jqnatividad/qsv
+  source: https://github.com/dathere/qsv
+  eget: dathere/qsv
+  brew: qsv
+  scoop: qsv
 rule:
   /eget:
-    cmd: x eget jqnatividad/qsv
-    reference: https://github.com/jqnatividad/qsv
+    cmd: x eget dathere/qsv
+    reference: https://github.com/dathere/qsv
+  darwin/brew:
+    cmd: brew install qsv
+    reference: https://github.com/dathere/qsv#option-2-package-managers--distributions
+  /mise:
+    cmd: mise use -g qsv@latest
+    reference: https://github.com/dathere/qsv#option-2-package-managers--distributions
+  /conda:
+    cmd: conda install conda-forge::qsv
+    reference: https://anaconda.org/conda-forge/qsv
+  arch/pacman:
+    cmd: pacman -S qsv
+    reference: https://github.com/dathere/qsv#option-2-package-managers--distributions
+  darwin/port:
+    cmd: sudo port install qsv
+    reference: https://ports.macports.org/port/qsv/
+  (win|wsl2)/scoop:
+    cmd: x scoop install qsv
+    reference: https://scoop.sh/#/apps?q=qsv
+
 binlist:
-  - 'qsv'
+  - qsv
 
 # complicated
 footprint:
@@ -23,14 +44,18 @@ footprint:
       listen: none
       connect:
         localhost: false
-        lan: false
-        internet: false
+        lan: true
+        internet: true
     filesystem:
       read:
         desc:
-          cn: 读取配置文件
-          en: Reads config files
+          cn: 读取 CSV/TSV 数据文件与配置文件
+          en: Reads CSV/TSV data files and config files
         sensitive: []
+      write:
+        desc:
+          cn: 写出处理结果到 CSV/TSV 文件
+          en: Writes processed results to CSV/TSV files
   platform:
     win: full
     linux: full
@@ -39,20 +64,25 @@ footprint:
     disk:
       size:
         install:
-          estimate: 15 MB
-          rating: 2
+          estimate: 195 MB
+          rating: 3
           desc:
-            cn: 约 15 MB（估算）
-            en: ~15 MB estimated
+            cn: 约 195 MB
+            en: ~195 MB
       paths:
         data: []
         config: []
     memory:
       idle:
-        estimate: 10 MB
+        estimate: 20 MB
         desc:
-          cn: 10 MB（估算）
-          en: 10 MB estimated
+          cn: 约 20 MB
+          en: ~20 MB
+      peak:
+        estimate: 300 MB
+        desc:
+          cn: 处理大文件时可达数百 MB
+          en: Hundreds of MB when processing large files
     cpu:
       workload: ['compute']
       processes: 1
