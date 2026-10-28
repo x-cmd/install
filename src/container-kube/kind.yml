@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: kind 是一个使用 Docker 容器 "nodes" 运行本地 Kubernetes 集群的工具
   en: kind is a tool for running local Kubernetes clusters using Docker container "nodes"
+  cs: kind je nástroj pro spuštění místních clusterů Kubernetes pomocí kontejnerových "uzlů" v Dockeru
+  de: kind ist ein Werkzeug zum Ausführen lokaler Kubernetes-Cluster mit Docker-Container-"Knoten"
+  es: kind es una herramienta para ejecutar clústeres locales de Kubernetes usando "nodos" de contenedor de Docker
+  fr: kind est un outil pour exécuter des clusters Kubernetes locaux à l'aide de "nœuds" conteneurisés Docker
+  id: kind adalah alat untuk menjalankan klaster Kubernetes lokal menggunakan "node" kontainer Docker
+  it: kind è uno strumento per eseguire cluster Kubernetes locali usando "nodi" container Docker
+  ja: kind は Docker コンテナの「ノード」を使ってローカルの Kubernetes クラスターを実行するツールです
+  ko: kind는 Docker 컨테이너 "노드"를 사용하여 로컬 Kubernetes 클러스터를 실행하는 도구입니다
+  pl: kind to narzędzie do uruchamiania lokalnych klastrów Kubernetes przy użyciu kontenerowych "węzłów" Dockera
+  pt: kind é uma ferramenta para executar clusters locais do Kubernetes usando "nós" de contêiner do Docker
+  ro: kind este un instrument pentru rularea clusterelor locale Kubernetes folosind "noduri" de container Docker
+  ru: kind — это инструмент для запуска локальных кластеров Kubernetes с использованием контейнерных «узлов» Docker
+  th: kind คือเครื่องมือสำหรับรันคลัสเตอร์ Kubernetes ในเครื่องโดยใช้ "โหนด" คอนเทนเนอร์ของ Docker
+  tr: kind, Docker konteyner "düğümleri" kullanarak yerel Kubernetes kümelerini çalıştırmak için bir araçtır
+  uk: kind — інструмент для запуску локальних кластерів Kubernetes із використанням контейнерних «вузлів» Docker
+  vi: kind là công cụ để chạy các cụm Kubernetes cục bộ bằng các "nút" container Docker
 x:
   source: https://github.com/kubernetes-sigs/kind
   eget: kubernetes-sigs/kind

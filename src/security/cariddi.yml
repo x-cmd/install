@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 对域名列表进行爬取，扫描端点、密钥、API key、文件扩展名、token 等
   en: 'Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more'
+  cs: Zadejte seznam domén, procházejte URL a skenujte koncové body, tajné klíče, API klíče, přípony souborů, tokeny a další
+  de: Eine Liste von Domains angeben, URLs crawlen und nach Endpunkten, Geheimnissen, API-Schlüsseln, Dateiendungen, Tokens und mehr suchen
+  es: Toma una lista de dominios, rastrea las URL y busca endpoints, secretos, claves de API, extensiones de archivo, tokens y más
+  fr: Prenez une liste de domaines, explorez les URL et detectez points de terminaison, secrets, clés d'API, extensions de fichiers, jetons et plus encore
+  id: Ambil daftar domain, crawl URL, dan pindai endpoint, rahasia, kunci API, ekstensi file, token, dan lainnya
+  it: Prendi un elenco di domini, esegui il crawling degli URL e cerca endpoint, segreti, chiavi API, estensioni dei file, token e altro
+  ja: ドメインのリストを取り込み、URL をクロールして、エンドポイント、シークレット、API キー、ファイル拡張子、トークンなどをスキャンします
+  ko: 도메인 목록을 가져와 URL을 크롤링하고 엔드포인트, 시크릿, API 키, 파일 확장자, 토큰 등을 검사합니다
+  pl: Pobierz listę domen, przeszukaj adresy URL i skanuj w poszukiwaniu punktów końcowych, sekretów, kluczy API, rozszerzeń plików, tokenów i nie tylko
+  pt: Forneça uma lista de domínios, rastreie URLs e procure endpoints, segredos, chaves de API, extensões de arquivo, tokens e muito mais
+  ro: Preluați o listă de domenii, parcurgeți URL-urile și căutați puncte de acces, secrete, chei API, extensii de fișiere, tokenuri și multe altele
+  ru: Возьмите список доменов, обойдите URL и просканируйте на конечные точки, секреты, API-ключи, расширения файлов, токены и многое другое
+  th: รับรายการโดเมน แล้ว crawl URL เพื่อสแกนหา endpoint, secret, API key, นามสกุลไฟล์, token และอื่น ๆ
+  tr: Bir alan adı listesi alın, URL'leri tarayın ve uç noktalar, sırlar, API anahtarları, dosya uzantıları, belirteçler ve daha fazlası için arayın
+  uk: Візьміть список доменів, обійдіть URL-адреси та проскануйте на кінцеві точки, секрети, API-ключі, розширення файлів, токени та багато іншого
+  vi: Lấy danh sách tên miền, thu thập URL và quét tìm endpoint, bí mật, khóa API, phần mở rộng tệp, token và hơn thế
 x:
   source: https://github.com/edoardottt/cariddi
   eget: edoardottt/cariddi

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 功能完整的 LDAP 终端界面(TUI)
   en: 'A complete terminal user interface (TUI) for LDAP.'
+  cs: Kompletní terminálové uživatelské rozhraní (TUI) pro LDAP.
+  de: Ein vollständiges Terminal-Benutzerinterface (TUI) für LDAP.
+  es: Una interfaz de usuario de terminal (TUI) completa para LDAP.
+  fr: Une interface utilisateur terminal (TUI) complète pour LDAP.
+  id: Antarmuka pengguna terminal (TUI) lengkap untuk LDAP.
+  it: Un'interfaccia utente da terminale (TUI) completa per LDAP.
+  ja: LDAP のための完全なターミナルユーザーインターフェース (TUI)。
+  ko: LDAP를 위한 완전한 터미널 사용자 인터페이스(TUI).
+  pl: Kompletny terminalowy interfejs użytkownika (TUI) dla LDAP.
+  pt: Uma interface de usuário de terminal (TUI) completa para LDAP
+  ro: O interfață de utilizator în terminal (TUI) completă pentru LDAP.
+  ru: Полноценный терминальный пользовательский интерфейс (TUI) для LDAP.
+  th: อินเทอร์เฟซผู้ใช้บนเทอร์มินัล (TUI) ที่สมบูรณ์แบบสำหรับ LDAP
+  tr: LDAP için eksiksiz bir terminal kullanıcı arayüzü (TUI).
+  uk: Повний термінальний інтерфейс користувача (TUI) для LDAP.
+  vi: Giao diện người dùng trên terminal (TUI) đầy đủ cho LDAP.
 x:
   source: https://github.com/Macmod/godap
   eget: Macmod/godap

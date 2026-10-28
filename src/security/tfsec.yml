@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: tfsec 是一款针对 Terraform 代码的静态分析安全扫描器
   en: tfsec is a static analysis security scanner for your Terraform code
+  cs: tfsec je skener bezpečnosti pro statickou analýzu vašeho kódu Terraform
+  de: tfsec ist ein Sicherheitsscanner für die statische Analyse Ihres Terraform-Codes
+  es: tfsec es un escáner de seguridad de análisis estático para tu código de Terraform
+  fr: tfsec est un scanner de sécurité par analyse statique pour votre code Terraform
+  id: tfsec adalah pemindai keamanan analisis statis untuk kode Terraform Anda
+  it: tfsec è uno scanner di sicurezza per l'analisi statica del tuo codice Terraform
+  ja: tfsec は Terraform コードの静的解析を行うセキュリティスキャナーです
+  ko: tfsec는 Terraform 코드의 정적 분석을 수행하는 보안 스캐너입니다
+  pl: tfsec to skaner bezpieczeństwa do statycznej analizy kodu Terraform
+  pt: tfsec é um scanner de segurança de análise estática para seu código Terraform
+  ro: tfsec este un scanner de securitate pentru analiza statică a codului dumneavoastră Terraform
+  ru: tfsec — сканер безопасности для статического анализа вашего кода Terraform
+  th: tfsec เป็นเครื่องสแกนความปลอดภัยด้วยการวิเคราะห์แบบคงที่สำหรับโค้ด Terraform ของคุณ
+  tr: tfsec, Terraform kodunuz için statik analiz yapan bir güvenlik tarayıcısıdır
+  uk: tfsec — сканер безпеки для статичного аналізу вашого коду Terraform
+  vi: tfsec là trình quét bảo mật phân tích tĩnh cho mã Terraform của bạn
 x:
   source: https://github.com/aquasecurity/tfsec
   eget: aquasecurity/tfsec

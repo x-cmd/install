@@ -3,6 +3,22 @@ homepage: https://github.com/derailed/popeye
 desc:
   cn: Popeye 是一个实用程序，它扫描实时 Kubernetes 集群，并报告已部署资源和配置的潜在问题
   en: Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations
+  cs: Popeye je nástroj, který skenuje živý cluster Kubernetes a hlásí potenciální problémy s nasazenými zdroji a konfiguracemi
+  de: Popeye ist ein Werkzeug, das einen laufenden Kubernetes-Cluster scannt und mögliche Probleme mit bereitgestellten Ressourcen und Konfigurationen meldet
+  es: Popeye es una utilidad que escanea un clúster de Kubernetes en vivo e informa de posibles problemas en los recursos y configuraciones desplegados
+  fr: Popeye est un utilitaire qui analyse un cluster Kubernetes actif et signale les problèmes potentiels liés aux ressources et configurations déployées
+  id: Popeye adalah utilitas yang memindai klaster Kubernetes yang berjalan dan melaporkan potensi masalah pada sumber daya dan konfigurasi yang telah diterapkan
+  it: Popeye è un'utilità che analizza un cluster Kubernetes attivo e segnala potenziali problemi con le risorse e le configurazioni distribuite
+  ja: Popeye は稼働中の Kubernetes クラスタをスキャンし、展開されたリソースや構成の潜在的な問題を報告するユーティリティです
+  ko: Popeye는 실행 중인 Kubernetes 클러스터를 스캔하여 배포된 리소스와 구성의 잠재적인 문제를 보고하는 유틸리티입니다
+  pl: Popeye to narzędzie, które skanuje działający klaster Kubernetes i zgłasza potencjalne problemy z wdrożonymi zasobami i konfiguracjami
+  pt: Popeye é um utilitário que examina um cluster Kubernetes ativo e relata possíveis problemas nos recursos e configurações implantados
+  ro: Popeye este un utilitar care scanează un cluster Kubernetes activ și raportează potențiale probleme cu resursele și configurațiile implementate
+  ru: Popeye — утилита, сканирующая работающий кластер Kubernetes и сообщающая о возможных проблемах с развёрнутыми ресурсами и конфигурациями
+  th: Popeye คือเครื่องมือที่สแกนคลัสเตอร์ Kubernetes ที่ทำงานอยู่และรายงานปัญหาที่อาจเกิดขึ้นกับทรัพยากรและค่าคอนฟิกที่ปรับใช้งานแล้ว
+  tr: Popeye, çalışan bir Kubernetes kümesini tarayan ve dağıtılan kaynaklarla yapılandırmalardaki olası sorunları bildiren bir araçtır
+  uk: Popeye — утиліта, яка сканує робочий кластер Kubernetes і повідомляє про можливі проблеми з розгорнутими ресурсами та конфігураціями
+  vi: Popeye là một tiện ích quét cụm Kubernetes đang hoạt động và báo cáo các vấn đề tiềm ẩn với tài nguyên và cấu hình đã triển khai
 x:
   source: https://github.com/derailed/popeye
   eget: derailed/popeye

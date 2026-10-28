@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个面向开发人员、运营人员以及任何热爱终端用户的终端多路复用器
   en: A terminal multiplexer for developers, ops-oriented people and anyone who loves the terminal
+  cs: Multiplexer terminálu pro vývojáře, provozní specialisty a každého, kdo má rád terminál
+  de: Ein Terminal-Multiplexer für Entwickler, Ops-Mitarbeiter und alle, die das Terminal lieben
+  es: Un multiplexor de terminal para desarrolladores, personal de operaciones y cualquiera que ame el terminal
+  fr: Un multiplexeur de terminal pour les développeurs, les équipes d'exploitation et tous ceux qui aiment le terminal
+  id: Multiplexer terminal untuk pengembang, orang yang berorientasi pada operasi, dan siapa pun yang menyukai terminal
+  it: Un multiplexer da terminale per sviluppatori, addetti alle operazioni e chiunque ami il terminale
+  ja: 開発者、オペレーション担当者、そしてターミナルの好きな人々のためのターミナルマルチプレクサ
+  ko: 개발자와 운영 담당자, 그리고 터미널을 좋아하는 모든 이를 위한 터미널 멀티플렉서
+  pl: Multiplexer terminala dla deweloperów, osób odpowiedzialnych za operacje i każdego, kto lubi terminal
+  pt: Um multiplexador de terminal para desenvolvedores, pessoas voltadas para operações e qualquer pessoa que ame o terminal
+  ro: Un multiplexor de terminal pentru dezvoltatori, specialiști în operațiuni și oricine iubește terminalul
+  ru: Мультиплексор терминала для разработчиков, операционистов и всех, кто любит терминал
+  th: มัลติเพล็กเซอร์เทอร์มินัลสำหรับนักพัฒนา ผู้ดูแลระบบ และทุกคนที่รักเทอร์มินัล
+  tr: geliştiriciler, operasyon ekipleri ve terminali seven herkes için bir terminal çoklayıcı
+  uk: Мультиплексор термінала для розробників, операційників і всіх, хто любить термінал
+  vi: Bộ ghép kênh terminal cho các nhà phát triển, người vận hành và bất kỳ ai yêu thích terminal
 x:
   source: https://github.com/zellij-org/zellij
   eget: zellij-org/zellij

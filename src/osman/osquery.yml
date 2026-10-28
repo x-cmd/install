@@ -3,6 +3,22 @@ homepage: https://github.com/osquery/osquery
 desc:
   cn: osquery 是一个 SQL 驱动的操作系统检测、监视和分析框架
   en: osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework
+  cs: osquery je framework pro instrumentaci, monitorování a analýzu operačního systému založený na SQL
+  de: osquery ist ein SQL-basiertes Instrumentierungs-, Monitoring- und Analyse-Framework für Betriebssysteme
+  es: osquery es un marco de instrumentación, monitorización y análisis de sistemas operativos basado en SQL
+  fr: osquery est un framework SQL d'instrumentation, de surveillance et d'analyse des systèmes d'exploitation
+  id: osquery adalah kerangka kerja instrumentasi, pemantauan, dan analitik sistem operasi bertenaga SQL
+  it: osquery è un framework SQL per la strumentazione, il monitoraggio e l'analisi dei sistemi operativi
+  ja: osquery は SQL に対応した OS の計測・監視・分析フレームワークです
+  ko: osquery는 SQL 기반 운영체제 계측, 모니터링 및 분석 프레임워크입니다
+  pl: osquery to oparty na SQL ramka do instrumentacji, monitorowania i analizy systemów operacyjnych
+  pt: osquery é uma estrutura de instrumentação, monitoramento e análise de sistemas operacionais baseada em SQL
+  ro: osquery este un cadru SQL pentru instrumentarea, monitorizarea și analiza sistemelor de operare
+  ru: osquery — SQL-фреймворк для инструментирования, мониторинга и аналитики операционных систем
+  th: osquery เป็นเฟรมเวิร์กสำหรับการวัด ตรวจสอบ และวิเคราะห์ระบบปฏิบัติการที่ขับเคลื่อนด้วย SQL
+  tr: osquery, işletim sistemleri için SQL destekli bir izleme, gözlem ve analiz çerçevesidir.
+  uk: osquery — SQL-фреймворк для інструментування, моніторингу та аналітики операційних систем.
+  vi: osquery là framework dụng cụ hóa, giám sát và phân tích hệ điều hành dựa trên SQL.
 x:
   source: https://github.com/osquery/osquery
   eget: osquery/osquery

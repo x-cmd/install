@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 Rust 的高性能 Web 构建工具
   en: A fast Rust-based web bundler
+  cs: Rychlý webový bundler založený na Rustu
+  de: Ein schneller, auf Rust basierender Web-Bundler
+  es: Un empaquetador web rápido basado en Rust
+  fr: Un bundler web rapide basé sur Rust
+  id: Bundler web cepat berbasis Rust
+  it: Un bundler web veloce basato su Rust
+  ja: Rust ベースの高速な Web バンドラー
+  ko: Rust 기반의 빠른 웹 번들러
+  pl: Szybki bundler internetowy oparty na Rust
+  pt: Um empacotador web rápido baseado em Rust
+  ro: Un bundler web rapid bazat pe Rust
+  ru: Быстрый веб-бандлер на основе Rust
+  th: ตัวรวมเว็บที่เร็วซึ่งพัฒนาด้วย Rust
+  tr: Rust tabanlı hızlı bir web paketleyici
+  uk: Швидкий веб-бандлер на основі Rust
+  vi: Trình đóng gói web nhanh dựa trên Rust
 x:
   source: https://github.com/web-infra-dev/rspack
   npm: "@rspack/cli"

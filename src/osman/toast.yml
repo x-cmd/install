@@ -3,6 +3,22 @@ homepage: https://github.com/stepchowfun/toast
 desc:
   cn: Toast 是一种在容器中工作的工具,将您的开发和持续集成环境集成在一起
   en: Toast is a tool for doing work in containers,containerize your development and continuous integration environments
+  cs: Toast je nástroj pro práci v kontejnerech, který umožňuje kontejnerizovat vaše vývojové a CI prostředí
+  de: Toast ist ein Werkzeug für die Arbeit in Containern, das Ihre Entwicklungs- und CI-Umgebungen containerisiert
+  es: Toast es una herramienta para trabajar en contenedores que permite containerizar tus entornos de desarrollo e integración continua
+  fr: Toast est un outil pour travailler dans des conteneurs, qui permet de conteneuriser vos environnements de développement et d'intégration continue
+  id: Toast adalah alat untuk bekerja dalam container yang mengcontainerisasi lingkungan pengembangan dan integrasi berkelanjutan Anda
+  it: Toast è uno strumento per lavorare nei container che consente di containerizzare i tuoi ambienti di sviluppo e integrazione continua
+  ja: Toast はコンテナ上で作業するためのツールで、開発環境と継続的インテグレーション環境をコンテナ化できます
+  ko: Toast는 컨테이너에서 작업하고 개발 및 지속적 통합 환경을 컨테이너화하는 도구입니다
+  pl: Toast to narzędzie do pracy w kontenerach, które pozwala skonteneryzować środowiska deweloperskie i ciągłej integracji
+  pt: Toast é uma ferramenta para trabalhar em contêineres que permite containerizar seus ambientes de desenvolvimento e integração contínua
+  ro: Toast este un instrument pentru lucrul în containere, care vă permite să containerizați mediile de dezvoltare și integrare continuă
+  ru: Toast — инструмент для работы в контейнерах, позволяющий помещать среды разработки и непрерывной интеграции в контейнеры
+  th: Toast คือเครื่องมือสำหรับทำงานในคอนเทนเนอร์ ช่วยคอนเทนเนอร์ไซซ์สภาพแวดล้อมการพัฒนาและการรวมต่อเนื่องของคุณ
+  tr: Toast, konteynerlerde çalışmak için geliştirme ve sürekli entegrasyon ortamlarınızı konteynerize etmenizi sağlayan bir araçtır
+  uk: Toast — інструмент для роботи в контейнерах, який дозволяє контейнеризувати середовища розробки та безперервної інтеграції
+  vi: Toast là công cụ để làm việc trong container, giúp bạn đóng gói môi trường phát triển và tích hợp liên tục thành container
 x:
   source: https://github.com/stepchowfun/toast
   eget: stepchowfun/toast

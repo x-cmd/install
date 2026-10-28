@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Pigsty 是一个更好的本地开源 RDS for PostgreSQL 替代
   en: Pigsty is a Me-Better Open-Source RDS Alternative
+  cs: Pigsty je lepší open source alternativa k RDS
+  de: Pigsty ist die bessere quelloffene RDS-Alternative
+  es: Pigsty es una alternativa de código abierto mejor que RDS
+  fr: Pigsty est une alternative open source préférable à RDS
+  id: Pigsty adalah alternatif RDS sumber terbuka yang lebih baik
+  it: Pigsty è un'alternativa open source migliore di RDS
+  ja: Pigsty はより優れたオープンソースの RDS 代替です
+  ko: Pigsty는 더 나은 오픈 소스 RDS 대안입니다
+  pl: Pigsty to lepsza otwartoźródłowa alternatywa dla RDS
+  pt: Pigsty é uma alternativa de código aberto melhor que o RDS
+  ro: Pigsty este o alternativă open source mai bună decât RDS
+  ru: Pigsty — лучшая открытая альтернатива RDS
+  th: Pigsty เป็นทางเลือกโอเพนซอร์สที่ดีกว่า RDS
+  tr: Pigsty, RDS'den daha iyi bir açık kaynak alternatiftir
+  uk: Pigsty — краща відкрита альтернатива RDS
+  vi: Pigsty là lựa chọn thay thế RDS mã nguồn mở tốt hơn
 x:
   source: https://github.com/Vonng/pigsty
 rule:

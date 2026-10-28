@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于搜索和替换的简单终端 UI，类似于 VS Code 界面风格
   en: A simple terminal UI for search and replace, ala VS Code.
+  cs: Jednoduché terminálové UI pro vyhledávání a nahrazování, ve stylu VS Code.
+  de: Eine einfache Terminal-Benutzeroberfläche zum Suchen und Ersetzen, à la VS Code.
+  es: Una interfaz de terminal sencilla para buscar y reemplazar, al estilo de VS Code.
+  fr: Une simple interface de terminal pour la recherche et le remplacement, à la VS Code.
+  id: UI terminal sederhana untuk mencari dan mengganti, ala VS Code.
+  it: Una semplice interfaccia a terminale per cercare e sostituire, in stile VS Code.
+  ja: VS Code風の、simple な検索・置換用ターミナル UI
+  ko: VS Code 스타일의 간단한 검색 및 바꾸기 터미널 UI
+  pl: Prosty interfejs terminala do wyszukiwania i zamiany, w stylu VS Code.
+  pt: Uma interface de terminal simples para pesquisar e substituir, ao estilo do VS Code.
+  ro: O interfață de terminal simplă pentru căutare și înlocuire, în stilul VS Code.
+  ru: Простой терминальный интерфейс для поиска и замены, как в VS Code.
+  th: UI เทอร์มินัลอย่างง่ายสำหรับการค้นหาและแทนที่ คล้าย VS Code
+  tr: VS Code tarzında basit bir terminal arama ve değiştirme arayüzü
+  uk: Простий термінальний інтерфейс для пошуку та заміни, як у VS Code.
+  vi: Giao diện terminal đơn giản để tìm kiếm và thay thế, phong cách VS Code
 x:
   source: https://github.com/yassinebridi/serpl
   eget: yassinebridi/serpl

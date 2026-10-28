@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向 Grok API 的开源编码智能体
   en: An open-source coding agent for the Grok API
+  cs: Open-source kódovací agent pro Grok API
+  de: Ein Open-Source-Coding-Agent für die Grok API
+  es: Un agente de programación de código abierto para la API de Grok
+  fr: Un agent de codage open source pour l'API Grok
+  id: Agen coding open-source untuk Grok API
+  it: Un agente di programmazione open source per l'API Grok
+  ja: Grok API 向けのオープンソースコーディングエージェント
+  ko: Grok API를 위한 오픈소스 코딩 에이전트
+  pl: Agent kodujący open source dla API Grok
+  pt: Um agente de programação de código aberto para a API do Grok
+  ro: Un agent de codare open source pentru API-ul Grok
+  ru: Агент для написания кода с открытым исходным кодом для Grok API
+  th: เอเจนต์เขียนโค้ดแบบโอเพนซอร์สสำหรับ Grok API
+  tr: Grok API için açık kaynaklı bir kodlama ajanı
+  uk: Агент для написання коду з відкритим кодом для Grok API
+  vi: Một tác nhân viết mã mã nguồn mở cho Grok API
 x:
   source: https://github.com/superagent-ai/grok-cli
   eget: superagent-ai/grok-cli

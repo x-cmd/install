@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Odo 是一个快速、迭代和直观的 CLI 工具，适用于在 Kubernetes 上编写、构建和部署应用程序的开发人员
   en: odo is a fast, iterative and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes
+  cs: odo je rychlé, iterativní a přímé CLI nástroj pro vývojáře, kteří píší, sestavují a nasazují aplikace na Kubernetes
+  de: odo ist ein schnelles, iteratives und unkompliziertes CLI-Tool für Entwickler, die Anwendungen auf Kubernetes schreiben, bauen und bereitstellen
+  es: odo es una herramienta de CLI rápida, iterativa y sencilla para desarrolladores que escriben, compilan y despliegan aplicaciones en Kubernetes
+  fr: odo est un outil CLI rapide, itératif et simple pour les développeurs qui écrivent, compilent et déploient des applications sur Kubernetes
+  id: odo adalah alat CLI yang cepat, iteratif, dan sederhana bagi pengembang yang menulis, membangun, dan menerapkan aplikasi di Kubernetes
+  it: odo è uno strumento CLI rapido, iterativo e intuitivo per sviluppatori che scrivono, compilano e distribuiscono applicazioni su Kubernetes
+  ja: odo は Kubernetes 上でアプリケーションを書いて、ビルドして、デプロイする開発者向けの高速で反復的な CLI ツールです
+  ko: odo는 Kubernetes에서 애플리케이션을 작성, 빌드 및 배포하는 개발자를 위한 빠르고 반복적인 CLI 도구입니다
+  pl: odo to szybkie, iteracyjne i przejrzyste narzędzie CLI dla deweloperów, którzy tworzą, budują i wdrażają aplikacje na Kubernetes
+  pt: odo é uma ferramenta de CLI rápida, iterativa e direta para desenvolvedores que escrevem, compilam e implantam aplicações no Kubernetes
+  ro: odo este un instrument CLI rapid, iterativ și simplu pentru dezvoltatorii care scriu, construiesc și implementează aplicații pe Kubernetes
+  ru: odo — быстрый, итеративный и простой CLI-инструмент для разработчиков, которые пишут, собирают и разворачивают приложения в Kubernetes
+  th: odo เป็นเครื่องมือ CLI ที่รวดเร็ว วนซ้ำได้ และใช้งานง่าย สำหรับนักพัฒนาที่เขียน สร้าง และประสงค์แอปพลิเคชันบน Kubernetes
+  tr: odo, Kubernetes üzerinde uygulama yazan, derleyen ve dağıtan geliştiriciler için hızlı, yinelemeli ve anlaşılır bir CLI aracıdır
+  uk: odo — швидкий, ітеративний і простий CLI-інструмент для розробників, які пишуть, збирають і розгортають застосунки в Kubernetes
+  vi: odo là công cụ CLI nhanh, lặp lại và trực quan dành cho các nhà phát triển viết, xây dựng và triển khai ứng dụng trên Kubernetes
 x:
   source: https://github.com/redhat-developer/odo
   brew: odo-dev

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 支持语音合成朗读的终端电子书阅读器，支持 EPUB、PDF、DOCX、HTML、RTF、TXT 和 MD
   en: 'Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.'
+  cs: Čtečka elektronických knih v terminálu s převodem textu na řeč v kvalitě audioknih — podporuje EPUB, PDF, DOCX, HTML, RTF, TXT a MD.
+  de: E-Book-Reader für das Terminal mit Text-to-Speech in Audiobuch-Qualität — unterstützt EPUB, PDF, DOCX, HTML, RTF, TXT und MD.
+  es: "Lector de ebooks de terminal con voz en off de calidad audiolibro: compatible con EPUB, PDF, DOCX, HTML, RTF, TXT y MD."
+  fr: Lecteur de livres électroniques pour terminal avec synthèse vocale de qualité audiobook — prend en charge EPUB, PDF, DOCX, HTML, RTF, TXT et MD.
+  id: Pembaca eBook terminal dengan text-to-speech kualitas audiobook — mendukung EPUB, PDF, DOCX, HTML, RTF, TXT, dan MD.
+  it: Lettore di eBook da terminale con sintesi vocale di qualità audiolibro — supporta EPUB, PDF, DOCX, HTML, RTF, TXT e MD.
+  ja: オーディオブック品質の音声合成に対応したターミナル向け電子書籍リーダー — EPUB、PDF、DOCX、HTML、RTF、TXT、MD に対応。
+  ko: 오디오북 품질의 음성 합성을 갖춘 터미널 전자책 리더 — EPUB, PDF, DOCX, HTML, RTF, TXT, MD 지원.
+  pl: Czytnik e-booków w terminalu z syntezą mowy w jakości audiobooka — obsługuje EPUB, PDF, DOCX, HTML, RTF, TXT i MD.
+  pt: Leitor de ebooks de terminal com conversão de texto em voz de qualidade audiolivro — suporta EPUB, PDF, DOCX, HTML, RTF, TXT e MD.
+  ro: Cititor de cărți electronice pentru terminal cu sinteză vocală de calitate audiobook — acceptă EPUB, PDF, DOCX, HTML, RTF, TXT și MD.
+  ru: Терминальный читалка электронных книг с синтезом речи качества аудиокниги — поддерживает EPUB, PDF, DOCX, HTML, RTF, TXT и MD.
+  th: โปรแกรมอ่านหนังสืออิเล็กทรอนิกส์บนเทอร์มินัลพร้อมการแปลงข้อความเป็นเสียงคุณภาพเสียงบรรยาย — รองรับ EPUB, PDF, DOCX, HTML, RTF, TXT และ MD
+  tr: Sesli kit kalitesinde metin-sesten dönüştürme sunan terminal eKitap okuyucu — EPUB, PDF, DOCX, HTML, RTF, TXT ve MD destekler.
+  uk: Термінальний читач електронних книг із синтезом мовлення якістю аудіокниги — підтримує EPUB, PDF, DOCX, HTML, RTF, TXT та MD.
+  vi: Trình đọc sách điện tử trên terminal với chuyển văn bản thành giọng nói chất lượng audiobook — hỗ trợ EPUB, PDF, DOCX, HTML, RTF, TXT và MD.
 x:
   source: https://github.com/superstarryeyes/lue
   eget: superstarryeyes/lue

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 科学计算器，支持自定义变量与函数、复数以及导数和积分估算
   en: 'Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals'
+  cs: Vědecká kalkulačka s matematickou syntaxí, která podporuje uživatelem definované proměnné a funkce, komplexní čísla a odhad derivací a integrálů
+  de: Taschenrechner mit mathematischer Syntax, der benutzerdefinierte Variablen und Funktionen, komplexe Zahlen sowie die Schätzung von Ableitungen und Integralen unterstützt
+  es: Calculadora científica con sintaxis matemática que admite variables y funciones definidas por el usuario, números complejos y estimación de derivadas e integrales
+  fr: Calculatrice scientifique avec une syntaxe mathématique prenant en charge les variables et fonctions définies par l'utilisateur, les nombres complexes et l'estimation des dérivées et des intégrales
+  id: Kalkulator ilmiah dengan sintaks matematika yang mendukung variabel dan fungsi yang didefinisikan pengguna, bilangan kompleks, serta estimasi turunan dan integral
+  it: Calcolatrice scientifica con sintassi matematica che supporta variabili e funzioni definite dall'utente, numeri complessi e stima di derivate e integrali
+  ja: ユーザー定義の変数と関数、複素数、微分と積分の推定に対応した数式構文を備えた科学計算機
+  ko: 사용자 정의 변수와 함수, 복소수, 도함수와 적분의 추정을 지원하는 수학 구문을 갖춘 과학 계산기
+  pl: Kalkulator naukowy z matematyczną składnią obsługujący zmienne i funkcje zdefiniowane przez użytkownika, liczby zespolone oraz szacowanie pochodnych i całek
+  pt: Calculadora científica com sintaxe matemática que oferece variáveis e funções definidas pelo usuário, números complexos e estimativa de derivadas e integrais
+  ro: Calculator științific cu sintaxă matematică care acceptă variabile și funcții definite de utilizator, numere complexe și estimarea derivatelor și integralelor
+  ru: Научный калькулятор с математическим синтаксисом, поддерживающим определяемые пользователем переменные и функции, комплексные числа, а также вычисление производных и интегралов
+  th: เครื่องคำนวณวิทยาศาสตร์พร้อมไวยากรณ์ทางคณิตศาสตร์ที่รองรับตัวแปรและฟังก์ชันที่ผู้ใช้กำหนด ตัวเลขเชิงซ้อน และการประมาณค่าอนุพันธ์และอินทิเกรต
+  tr: Kullanıcı tanımlı değişkenleri ve fonksiyonları, karmaşık sayıları ile türev ve integral tahminlerini destekleyen matematik söz dizimli bilimsel hesap makinesi
+  uk: Науковий калькулятор із математичним синтаксисом, який підтримує визначені користувачем змінні та функції, комплексні числа, а також обчислення похідних та інтегралів
+  vi: Máy tính khoa học với cú pháp toán học hỗ trợ biến và hàm do người dùng định nghĩa, số phức và ước tính đạo hàm cùng tích phân
 x:
   source: https://github.com/PaddiM8/kalker
   eget: PaddiM8/kalker

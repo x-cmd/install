@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: fontTools 是用 Python 编写的操纵字体的库
   en: fontTools is a library for manipulating fonts, written in Python
+  cs: fontTools je knihovna pro manipulaci s fonty napsaná v Pythonu
+  de: fontTools ist eine in Python geschriebene Bibliothek zur Manipulation von Schriften
+  es: fontTools es una biblioteca para manipular fuentes escrita en Python
+  fr: fontTools est une bibliothèque de manipulation de polices écrite en Python
+  id: fontTools adalah pustaka untuk memanipulasi font yang ditulis dalam Python
+  it: fontTools è una libreria per la manipolazione dei caratteri scritta in Python
+  ja: fontTools は Python で書かれたフォント操作のためのライブラリです
+  ko: fontTools는 Python으로 작성된 폰트 조작 라이브러리입니다
+  pl: fontTools to biblioteka do manipulacji czcionek napisana w Pythonie
+  pt: fontTools é uma biblioteca para manipular fontes escrita em Python
+  ro: fontTools este o bibliotecă pentru manipularea fonturilor scrisă în Python
+  ru: fontTools — библиотека для работы со шрифтами, написанная на Python
+  th: fontTools คือไลบรารีสำหรับจัดการฟอนต์ที่เขียนด้วย Python
+  tr: fontTools, Python ile yazılmış yazı tipi manipülasyonu kütüphanesidir
+  uk: fontTools — бібліотека для роботи зі шрифтами, написана на Python
+  vi: fontTools là thư viện thao tác phông chữ được viết bằng Python
 x:
   source: https://github.com/fonttools/fonttools
   brew: fonttools

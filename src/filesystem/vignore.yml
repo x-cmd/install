@@ -4,6 +4,22 @@ license: Unlicense
 desc:
   en: A powerful tool to visualize ignored files
   cn: 一个强大的工具，用于可视化被忽略的文件
+  cs: Výkonný nástroj pro vizualizaci ignorovaných souborů
+  de: Ein leistungsstarkes Werkzeug zur Visualisierung ignorierter Dateien
+  es: Una potente herramienta para visualizar los archivos ignorados
+  fr: Un outil puissant pour visualiser les fichiers ignorés
+  id: Alat kuat untuk memvisualisasikan file yang diabaikan
+  it: Un potente strumento per visualizzare i file ignorati
+  ja: 無視されるファイルを可視化するための強力なツール
+  ko: 무시되는 파일을 시각화하는 강력한 도구
+  pl: Potężne narzędzie do wizualizacji ignorowanych plików
+  pt: Uma ferramenta poderosa para visualizar arquivos ignorados
+  ro: Un instrument puternic pentru vizualizarea fișierelor ignorate
+  ru: Мощный инструмент для визуализации игнорируемых файлов
+  th: เครื่องมือที่ทรงพลังสำหรับดูภาพไฟล์ที่ถูกข้าม
+  tr: Yok sayılan dosyaları görselleştirmek için güçlü bir araç
+  uk: Потужний інструмент для візуалізації ігнорованих файлів
+  vi: Công cụ mạnh mẽ để trực quan hóa các tập tin bị bỏ qua
 x:
   source: https://github.com/james4ever0/vignore
   pip: vignore

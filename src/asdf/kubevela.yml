@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: KubeVela 是一个现代化的软件交付平台，它使得在当今的混合、多云环境中部署和操作应用程序更加容易、快速和可靠
   en: KubeVela is a modern software delivery platform that makes deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable
+  cs: KubeVela je moderní platforma pro doručování softwaru, která usnadňuje, urychluje a zvyšuje spolehlivost nasazování a provozování aplikací v dnešních hybridních vícecloudových prostředích
+  de: KubeVela ist eine moderne Softwarebereitstellungsplattform, die das Bereitstellen und Betreiben von Anwendungen in heutigen hybriden Multi-Cloud-Umgebungen einfacher, schneller und zuverlässiger macht
+  es: KubeVela es una plataforma moderna de entrega de software que facilita, acelera y hace más fiable el despliegue y la operación de aplicaciones en los actuales entornos híbridos de múltiples nubes
+  fr: KubeVela est une plateforme moderne de livraison de logiciels qui rend le déploiement et l'exploitation des applications dans les environnements hybrides multi-cloud actuels plus simples, plus rapides et plus fiables
+  id: KubeVela adalah platform pengiriman perangkat lunak modern yang membuat penerapan dan pengoperasian aplikasi di lingkungan hybrid multi-cloud saat ini menjadi lebih mudah, cepat, dan andal
+  it: KubeVela è una piattaforma moderna di delivery del software che rende il rilascio e la gestione delle applicazioni negli odierni ambienti ibridi multi-cloud più facili, più veloci e più affidabili
+  ja: KubeVela は現代のソフトウェア提供プラットフォームで、今日のハイブリッドマルチクラウド環境でのアプリケーションの展開と運用をより簡単、迅速、信頼できるものにします
+  ko: KubeVela는 오늘날의 하이브리드 멀티 클라우드 환경에서 애플리케이션 배포와 운영을 더 쉽고 빠르고 안정적으로 만드는 현대적인 소프트웨어 제공 플랫폼입니다
+  pl: KubeVela to nowoczesna platforma dostarczania oprogramowania, która ułatwia, przyspiesza i zwiększa niezawodność wdrażania i obsługi aplikacji w dzisiejszych hybrydnych środowiskach multi-cloud
+  pt: O KubeVela é uma plataforma moderna de entrega de software que torna o implantação e a operação de aplicações em ambientes híbridos de multi-nuvem atuais mais fáceis, mais rápidas e mais confiáveis
+  ro: KubeVela este o platformă modernă de livrare a software-ului care face implementarea și operarea aplicațiilor în mediile hibride multi-cloud de astăzi mai ușoare, mai rapide și mai fiabile
+  ru: KubeVela — современная платформа доставки программного обеспечения, которая делает развертывание и эксплуатацию приложений в современных гибридных мультиоблачных средах проще, быстрее и надежнее
+  th: KubeVela เป็นแพลตฟอร์มการส่งมอบซอฟต์แวร์สมัยใหม่ที่ทำให้การปรับใช้และการดำเนินงานแอปพลิเคชันในสภาพแวดล้อมไฮบริดมัลติคลาวด์ในปัจจุบันง่ายขึ้น เร็วขึ้น และน่าเชื่อถือยิ่งขึ้น
+  tr: KubeVela, bugünün hibrit çoklu bulut ortamlarında uygulamaları dağıtmayı ve işletmeyi daha kolay, daha hızlı ve daha güvenilir kılan modern bir yazılım teslim platformudur
+  uk: KubeVela — сучасна платформа доставки програмного забезпечення, яка робить розгортання та експлуатацію застосунків у сучасних гібридних мультихмарних середовищах простішими, швидшими та надійнішими
+  vi: KubeVela là nền tảng cung cấp phần mềm hiện đại giúp triển khai và vận hành ứng dụng trong các môi trường hybrid đa đám mây ngày nay dễ dàng, nhanh chóng và đáng tin cậy hơn
 x:
   source: https://github.com/kubevela/kubevela
   eget: kubevela/kubevela

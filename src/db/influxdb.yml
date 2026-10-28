@@ -2,6 +2,22 @@ lang: Rust
 desc:
   en: Scalable datastore for metrics, events, and real-time analytics
   cn: 用于指标、事件和实时分析的可扩展数据存储
+  cs: Škálovatelný datový sklad pro metriky, události a analýzu v reálném čase
+  de: Skalierbarer Datenspeicher für Metriken, Ereignisse und Echtzeitanalyse
+  es: Almacén de datos escalable para métricas, eventos y análisis en tiempo real
+  fr: Magasin de données évolutif pour les métriques, les événements et l'analyse en temps réel
+  id: Penyimpanan data yang dapat diskalakan untuk metrik, peristiwa, dan analitik real-time
+  it: Archivio dati scalabile per metriche, eventi e analisi in tempo reale
+  ja: メトリクス、イベント、リアルタイム分析のためのスケーラブルなデータストア
+  ko: 메트릭, 이벤트 및 실시간 분석을 위한 확장 가능한 데이터 저장소
+  pl: Skalowalny magazyn danych dla metryk, zdarzeń i analityki w czasie rzeczywistym
+  pt: Armazenamento de dados escalável para métricas, eventos e análises em tempo real
+  ro: Depozit de date scalabil pentru metrici, evenimente și analiză în timp real
+  ru: Масштабируемое хранилище данных для метрик, событий и аналитики в реальном времени
+  th: คลังข้อมูลที่ปรับขยายได้สำหรับเมตริก เหตุการณ์ และการวิเคราะห์แบบเรียลไทม์
+  tr: Metrikler, olaylar ve gerçek zamanlı analitik için ölçeklenebilir veri deposu
+  uk: Масштабоване сховище даних для метрик, подій та аналітики в реальному часі
+  vi: Kho dữ liệu có thể mở rộng cho số liệu, sự kiện và phân tích thời gian thực
 homepage: https://github.com/influxdata/influxdb
 license: Apache-2.0
 x:

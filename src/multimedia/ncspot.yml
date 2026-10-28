@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: ncspot 是一个基于 ncurses 的 Spotify 客户端，使用 Rust 编写，并依赖 librespot 库。
   en: ncspot is an ncurses Spotify client written in Rust using librespot.
+  cs: ncspot je klient Spotify založený na ncurses, napsaný v Rustu s použitím knihovny librespot.
+  de: ncspot ist ein ncurses-basierter Spotify-Client, der in Rust unter Verwendung von librespot geschrieben wurde.
+  es: ncspot es un cliente de Spotify basado en ncurses, escrito en Rust y usando librespot.
+  fr: ncspot est un client Spotify basé sur ncurses, écrit en Rust et utilisant librespot.
+  id: ncspot adalah klien Spotify berbasis ncurses yang ditulis dengan Rust menggunakan librespot.
+  it: ncspot è un client Spotify basato su ncurses, scritto in Rust e che utilizza librespot.
+  ja: ncspot は librepot を使用した Rust 製の ncurses ベースの Spotify クライアントです。
+  ko: ncspot은 librespot을 사용하여 Rust로 작성된 ncurses 기반 Spotify 클라이언트입니다.
+  pl: ncspot to klient Spotify oparty na ncurses, napisany w Rust z użyciem librespot.
+  pt: ncspot é um cliente Spotify baseado em ncurses, escrito em Rust e usando librespot.
+  ro: ncspot este un client Spotify bazat pe ncurses, scris în Rust folosind librespot.
+  ru: ncspot — это клиент Spotify на основе ncurses, написанный на Rust с использованием librespot.
+  th: ncspot เป็นไคลเอนต์ Spotify ที่ใช้ ncurses เขียนด้วย Rust โดยใช้ librespot
+  tr: ncspot, librespot kullanılarak Rust ile yazılmış ncurses tabanlı bir Spotify istemcisidir.
+  uk: ncspot — клієнт Spotify на основі ncurses, написаний на Rust з використанням librespot.
+  vi: ncspot là ứng dụng Spotify dựa trên ncurses, viết bằng Rust và sử dụng librespot.
 x:
   source: https://github.com/hrkfdn/ncspot
   eget: hrkfdn/ncspot

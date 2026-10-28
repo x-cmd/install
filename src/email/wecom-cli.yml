@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 企业微信开放平台命令行工具
   en: A command-line tool for WeCom Open Platform
+  cs: Nástroj příkazové řádky pro platformu WeCom Open Platform
+  de: Ein Befehlszeilenwerkzeug für die WeCom Open Platform
+  es: Una herramienta de línea de comandos para WeCom Open Platform
+  fr: Un outil en ligne de commande pour WeCom Open Platform
+  id: Alat baris perintah untuk WeCom Open Platform
+  it: Uno strumento da riga di comando per WeCom Open Platform
+  ja: WeCom Open Platform 用のコマンドラインツール
+  ko: WeCom Open Platform용 명령줄 도구
+  pl: Narzędzie wiersza poleceń dla WeCom Open Platform
+  pt: Uma ferramenta de linha de comando para o WeCom Open Platform
+  ro: Un instrument de linie de comandi pentru WeCom Open Platform
+  ru: Инструмент командной строки для WeCom Open Platform
+  th: เครื่องมือบรรทัดคำสั่งสำหรับ WeCom Open Platform
+  tr: WeCom Open Platform için bir komut satırı aracı
+  uk: Інструмент командного рядка для WeCom Open Platform
+  vi: Công cụ dòng lệnh cho WeCom Open Platform
 x:
   source: https://github.com/WecomTeam/wecom-cli
   npm: "@wecom/cli"

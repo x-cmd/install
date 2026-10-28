@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Notion 官方 MCP 服务器
   en: Official Notion MCP Server
+  cs: Oficiální Notion MCP Server
+  de: Offizieller Notion MCP Server
+  es: Servidor MCP oficial de Notion
+  fr: Serveur MCP officiel de Notion
+  id: Server MCP resmi Notion
+  it: Server MCP ufficiale di Notion
+  ja: 公式 Notion MCP サーバー
+  ko: 공식 Notion MCP 서버
+  pl: Oficjalny serwer Notion MCP
+  pt: Servidor MCP oficial do Notion
+  ro: Server MCP oficial Notion
+  ru: Официальный сервер Notion MCP
+  th: เซิร์ฟเวอร์ MCP อย่างเป็นทางการของ Notion
+  tr: Resmî Notion MCP Sunucusu
+  uk: Офіційний сервер Notion MCP
+  vi: Máy chủ MCP chính thức của Notion
 x:
   source: https://github.com/makenotion/notion-mcp-server
   npm: "@notionhq/notion-mcp-server"

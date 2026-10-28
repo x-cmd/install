@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: protoc-gen-go 工具是 protoc（protocol buffer 编译器）的编译器插件
   en: The protoc-gen-go tool is a compiler plugin to protoc, the protocol buffer compiler
+  cs: Nástroj protoc-gen-go je kompilátorový plugin pro protoc, kompilátor protocol buffer
+  de: Das Werkzeug protoc-gen-go ist ein Compiler-Plugin für protoc, den Protocol-Buffer-Compiler
+  es: La herramienta protoc-gen-go es un complemento del compilador para protoc, el compilador de protocol buffer
+  fr: L'outil protoc-gen-go est un plugin de compilateur pour protoc, le compilateur de protocol buffer
+  id: Alat protoc-gen-go adalah plugin kompilator untuk protoc, kompilator protocol buffer
+  it: Lo strumento protoc-gen-go è un plugin del compilatore per protoc, il compilatore di protocol buffer
+  ja: protoc-gen-go ツールは protocol buffer コンパイラの protoc のコンパイラプラグインです
+  ko: protoc-gen-go 도구는 protocol buffer 컴파일러인 protoc의 컴파일러 플러그인입니다
+  pl: Narzędzie protoc-gen-go jest wtyczką kompilatora dla protoc, kompilatora protocol buffer
+  pt: A ferramenta protoc-gen-go é um plugin de compilador para o protoc, o compilador de protocol buffer
+  ro: Instrumentul protoc-gen-go este un plugin de compilator pentru protoc, compilatorul de protocol buffer
+  ru: Инструмент protoc-gen-go — это плагин компилятора для protoc, компилятора protocol buffer
+  th: เครื่องมือ protoc-gen-go เป็นปลั๊กอินคอมไพเลอร์สำหรับ protoc ซึ่งเป็นคอมไพเลอร์ protocol buffer
+  tr: protoc-gen-go aracı, protocol buffer derleyicisi olan protoc için bir derleyici eklentisidir
+  uk: Інструмент protoc-gen-go — це плагін компілятора для protoc, компілятора protocol buffer
+  vi: Công cụ protoc-gen-go là plugin trình biên dịch cho protoc, trình biên dịch protocol buffer
 x:
   source: https://github.com/protocolbuffers/protobuf-go
   eget: protocolbuffers/protobuf-go

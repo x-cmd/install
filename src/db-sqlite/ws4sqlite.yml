@@ -4,6 +4,22 @@ license: ISC
 desc:
   cn: ws4sqlite 是一个服务器端应用程序，应用于一个或多个 SQLite 文件，允许通过 REST（或更好地说，通过 HTTP 上的 JSON）对它们执行 SQL 查询和语句
   en: ws4sqlite is a server-side application that, applied to one or more SQLite files, allows to perform SQL queries and statements on them via REST (or better, JSON over HTTP)
+  cs: ws4sqlite je serverová aplikace, která při použití na jeden nebo více souborů SQLite umožňuje provádět na nich SQL dotazy a příkazy přes REST (neboli lépe JSON přes HTTP)
+  de: "ws4sqlite ist eine serverseitige Anwendung, die auf eine oder mehrere SQLite-Dateien angewendet werden kann und erlaubt, SQL-Abfragen und -Anweisungen über REST (besser: JSON über HTTP) darauf auszuführen"
+  es: ws4sqlite es una aplicación del lado del servidor que, aplicada a uno o más archivos SQLite, permite ejecutar consultas y sentencias SQL sobre ellos vía REST (o mejor, JSON sobre HTTP)
+  fr: ws4sqlite est une application côté serveur qui, appliquée à un ou plusieurs fichiers SQLite, permet d'y exécuter des requêtes et instructions SQL via REST (ou plutôt, JSON via HTTP)
+  id: ws4sqlite adalah aplikasi sisi server yang, jika diterapkan pada satu atau beberapa berkas SQLite, memungkinkan menjalankan kueri dan pernyataan SQL padanya melalui REST (atau lebih tepatnya, JSON melalui HTTP)
+  it: ws4sqlite è un'applicazione lato server che, applicata a uno o più file SQLite, consente di eseguire query e istruzioni SQL su di essi tramite REST (o meglio, JSON via HTTP)
+  ja: ws4sqlite はサーバーサイドアプリケーションで、1つ以上の SQLite ファイルに適用することで、REST（より properly は HTTP 上の JSON）経由でそれらの SQL クエリと文を実行できます
+  ko: ws4sqlite는 서버 측 애플리케이션으로, 하나 이상의 SQLite 파일에 적용하여 REST(더 정확히는 HTTP 위의 JSON)를 통해 해당 파일에 SQL 쿼리와 문을 실행할 수 있게 합니다
+  pl: ws4sqlite to aplikacja działająca po stronie serwera, która zastosowana do jednego lub więcej plików SQLite umożliwia wykonywanie na nich zapytań i instrukcji SQL przez REST (lub lepiej, JSON przez HTTP)
+  pt: ws4sqlite é uma aplicação do lado do servidor que, aplicada a um ou mais arquivos SQLite, permite executar consultas e instruções SQL neles via REST (ou melhor, JSON sobre HTTP)
+  ro: ws4sqlite este o aplicație server-side care, aplicată unuia sau mai multor fișiere SQLite, permite executarea de interogări și instrucțiuni SQL pe acestea prin REST (sau mai bine, JSON prin HTTP)
+  ru: ws4sqlite — серверное приложение, которое, будучи применено к одному или нескольким файлам SQLite, позволяет выполнять по ним SQL-запросы и операторы через REST (или, точнее, JSON поверх HTTP)
+  th: ws4sqlite คือแอปพลิเคชันฝั่งเซิร์ฟเวอร์ที่เมื่อใช้กับไฟล์ SQLite หนึ่งหรือหลายไฟล์ จะสามารถเรียกใช้ SQL queries และ statements บนไฟล์เหล่านั้นผ่าน REST (หรือดีกว่าคือ JSON บน HTTP)
+  tr: ws4sqlite, bir veya daha fazla SQLite dosyasına uygulandığında onlar üzerinde REST (daha doğrusu HTTP üzerinden JSON) aracılığıyla SQL sorguları ve ifadeleri çalıştırmayı sağlayan sunucu tarafı bir uygulamadır
+  uk: ws4sqlite — серверний застосунок, який, застосований до одного або кількох файлів SQLite, дозволяє виконувати на них SQL запити та оператори через REST (або, точніше, JSON поверх HTTP)
+  vi: ws4sqlite là ứng dụng phía máy chủ, khi áp dụng cho một hoặc nhiều tệp SQLite cho phép thực hiện truy vấn và câu lệnh SQL trên chúng qua REST (hoặc chính xác hơn là JSON qua HTTP)
 x:
   source: https://github.com/proofrock/ws4sqlite
   eget: proofrock/ws4sqlite

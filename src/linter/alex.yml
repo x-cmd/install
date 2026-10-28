@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: alex 帮助您找到性别偏好、两极分化、种族相关、宗教不顾及其他不平等的措辞
   en: alex helps you find gender favouring, polarising, race related, religion inconsiderate, or other unequal phrasing
+  cs: alex vám pomůže najít formulace zvýhodňující pohlaví, polarizující, související s rasou, ohrožující náboženství nebo jinak nerovné
+  de: alex hilft Ihnen, Formulierungen zu finden, die Geschlecht bevorzugen, polarisieren, mit Rasse zu tun haben, Religion missachten oder sonst ungleich sind
+  es: alex te ayuda a encontrar formulaciones que favorecen el género, polarizan, se relacionan con la raza, son desconsiderados con la religión o son desiguales de otro modo
+  fr: alex vous aide à trouver des formulations favorecer le genre, polarisantes, liées à la race, irrespectueuses de la religion ou autrement inéquitables
+  id: alex membantu Anda menemukan ungkapan yang condong gender, memolarisasi, terkait ras, tidak menghormati agama, atau tidak setara dalam hal lain
+  it: alex ti aiuta a trovare formulazioni che favoriscono il genere, polarizzano, riguardano la razza, non rispettano la religione o sono comunque disuguali
+  ja: alex は、性別を偏重する表現、話題を分断する表現、人種に関する表現、宗教を無視する表現、その他不平等な表現を見つけるのに助けります
+  ko: alex는 성별을 편향하는 표현, 양 극화를 일으키는 표현, 인종 관련 표현, 종교를 무시하는 표현 등 불평등한 표현을 찾는 데 도움을 줍니다
+  pl: alex pomaga znaleźć sformułowania faworyzujące płeć, polaryzujące, odnoszące się do rasy, lekceważące religię lub w inny sposób nierówne
+  pt: alex ajuda você a encontrar formulações que favorecem o gênero, polarizam, têm a ver com raça, desconsideram a religião ou são desiguais por outras razões
+  ro: alex vă ajută să găsiți formulări care favorizează genul, polarizează, țin de rasă, sunt neacceptante față de religie sau sunt inegale în alte moduri
+  ru: alex помогает находить формулировки, отдающие предпочтение полу, раскалывающие общество, связанные с расой, неуважительные к религии или иным образом неравные
+  th: alex ช่วยคุณค้นหาข้อความที่เอนเอียงเพศ สร้างความแตกแยก เกี่ยวข้องกับเชื้อชาติ ไม่เคารพศาสนา หรือไม่เป็นธรรมในทางอื่น
+  tr: alex, cinsiyeti öne çıkaran, kutuplaştıran, ırkla ilgili, dine saygısızlık eden veya başka şekillerde eşitsiz ifadeleri bulmanıza yardımcı olur
+  uk: alex допомагає знаходити формулювання, які надають перевагу статі, розколюють суспільство, пов'язані з расовою ознакою, нешанобливі до релігії або з інших причин нерівні
+  vi: alex giúp bạn tìm các cách diễn đạt thiên về giới tính, gây chia rẽ, liên quan đến chủng tộc, không tôn trọng tôn giáo hoặc không công bằng theo những cách khác
 x:
   source: https://github.com/get-alex/alex
   yay: alexjs

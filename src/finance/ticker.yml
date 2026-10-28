@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 在终端实时追踪股票、加密货币和衍生品价格与持仓
   en: 'Track stocks, crypto, and derivatives prices and positions in real time from your terminal'
+  cs: Sledujte v reálném čase ceny a pozice akcií, kryptoměn a derivátů přímo z vašeho terminálu
+  de: Verfolgen Sie Aktien-, Krypto- und Derivatkurse sowie Positionen in Echtzeit direkt aus Ihrem Terminal
+  es: Sigue en tiempo real los precios y las posiciones de acciones, cripto y derivados desde tu terminal
+  fr: Suivez en temps réel les prix et les positions des actions, des cryptomonnaies et des dérivés depuis votre terminal
+  id: Lacak harga dan posisi saham, kripto, dan derivatif secara real-time dari terminal Anda
+  it: Monitora in tempo reale prezzi e posizioni di azioni, criptovalute e derivati direttamente dal tuo terminale
+  ja: ターミナルから株・暗号資産・デリバティブの価格とポジションをリアルタイムで追跡します。
+  ko: 터미널에서 주식, 암호화폐, 파생상품의 가격과 포지션을 실시간으로 추적하세요.
+  pl: Śleduj w czasie rzeczywistym ceny i pozycje akcji, kryptowalut oraz instrumentów pochodnych prosto z terminala.
+  pt: Acompanhe em tempo real os preços e as posições de ações, cripto e derivativos direto do seu terminal
+  ro: Urmăriți în timp real prețurile și pozițiile acțiunilor, criptomonedelor și derivatelor direct din terminalul dumneavoastră
+  ru: Отслеживайте в реальном времени цены и позиции по акциям, криптовалютам и деривативам прямо из вашего терминала
+  th: ติดตามราคาและสถานะการลงทุนของหุ้น คริปโต และอนุพันธ์แบบเรียลไทม์จากเทอร์มินัลของคุณ
+  tr: Hisse, kripto ve türevlerin fiyatlarını ve pozisyonlarını terminalinizden gerçek zamanlı olarak takip edin.
+  uk: Відстежуйте в реальному часі ціни та позиції за акціями, криптовалютами та деривативами прямо зі свого термінала
+  vi: Theo dõi theo thời gian thực giá và vị thế cổ phiếu, tiền mã hóa và phái sinh trực tiếp từ terminal của bạn
 x:
   source: https://github.com/achannarasappa/ticker
   eget: achannarasappa/ticker

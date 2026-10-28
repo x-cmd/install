@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: elia 是一个与大型语言模型（LLM）交互的应用程序，完全在终端中运行，旨在以键盘为中心，既高效又有趣。
   en: elia is an application for interacting with LLMs which runs entirely in your terminal, and is designed to be keyboard-focused, efficient, and fun to use!
+  cs: elia je aplikace pro interakci s LLM, která běží výhradně v terminálu a je navržena s důrazem na klávesnici, efektivitu a zábavu!
+  de: elia ist eine Anwendung zur Interaktion mit LLMs, die vollständig in Ihrem Terminal läuft und auf Tastaturfokus, Effizienz und Spaß bei der Nutzung ausgelegt ist!
+  es: elia es una aplicación para interactuar con LLMs que se ejecuta enteramente en tu terminal y está diseñada para ser eficiente, enfocada en el teclado y divertida de usar.
+  fr: elia est une application permettant d'interagir avec des LLM, qui fonctionne entièrement dans votre terminal et a été conçue pour être axée clavier, efficace et agréable à utiliser !
+  id: elia adalah aplikasi untuk berinteraksi dengan LLM yang berjalan sepenuhnya di terminal Anda dan dirancang untuk berfokus pada keyboard, efisien, serta menyenangkan digunakan!
+  it: elia è un'applicazione per interagire con gli LLM che funziona interamente nel tuo terminale ed è progettata per essere incentrata sulla tastiera, efficiente e divertente da usare!
+  ja: elia は LLM と対話するためのアプリケーションで、完全にターミナル内で動作し、キーボード中心・効率的で楽しく使えるように設計されています!
+  ko: elia는 LLM과 상호작용하기 위한 애플리케이션으로, 완전히 터미널에서 실행되며 키보드 중심적이고 효율적이며 사용하기 재미있도록 설계되었습니다!
+  pl: elia to aplikacja do interakcji z LLM, działająca w całości w terminalu i zaprojektowana z naciskiem na klawiaturę, wydajność i przyjemność użycia!
+  pt: elia é um aplicativo para interagir com LLMs que roda inteiramente no seu terminal e foi projetado para ser focado no teclado, eficiente e divertido de usar!
+  ro: elia este o aplicație pentru interacțiunea cu LLM-urile, care rulează complet în terminalul tău și este proiectată să fie orientată pe tastatură, eficientă și plăcută la utilizare!
+  ru: elia — приложение для взаимодействия с LLM, работающее полностью в терминале и созданное с акцентом на клавиатуру, эффективность и удобство использования!
+  th: elia คือแอปพลิเคชันสำหรับโต้ตอบกับ LLM ที่ทำงานทั้งหมดในเทอร์มินัลของคุณ และออกแบบให้เน้นการใช้คีย์บอร์ด มีประสิทธิภาพ และสนุกใช้งาน!
+  tr: elia, terminalinizde tamamen çalışan ve klavye odaklı, verimli ve kullanması eğlenceli olacak şekilde tasarlanmış, LLM'lerle etkileşim kurmak için bir uygulamadır!
+  uk: elia — застосунок для взаємодії з LLM, що повністю працює у вашому терміналі та спроєктований з акцентом на клавіатуру, ефективність і зручність використання!
+  vi: elia là ứng dụng để tương tác với LLM, chạy hoàn toàn trong terminal của bạn và được thiết kế lấy keyboard làm trọng tâm, hiệu quả và thú vị khi sử dụng!
 x:
   source: https://github.com/darrenburns/elia
   yay: elia

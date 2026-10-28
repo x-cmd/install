@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 具备权限加固工具、token 预算和多通道访问的灵魂驱动型 AI Agent，可通过 CLI 或 Telegram 7x24 小时运行
   en: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
+  cs: AI agent řízený duší, s nástroji s posílenými oprávněními, rozpočty tokenů a přístupem z více kanálů. Běží 24/7 z CLI nebo z Telegramu.
+  de: Seelengetriebener KI-Agent mit berechtigungsgehärteten Tools, Token-Budgets und Multi-Channel-Zugriff. Läuft rund um die Uhr über CLI oder Telegram.
+  es: Agente de IA guiado por el alma, con herramientas de permisos reforzados, presupuestos de tokens y acceso multidispositivo. Funciona 24/7 desde la CLI o Telegram.
+  fr: Agent IA piloté par l'âme, avec des outils à permissions renforcées, des budgets de jetons et un accès multicanal. Fonctionne 24 h/24 et 7 j/7 depuis la CLI ou Telegram.
+  id: Agen AI bertenaga jiwa dengan alat berkeamanan izin diperketat, anggaran token, dan akses multi-channel. Berjalan 24/7 dari CLI atau Telegram.
+  it: Agente IA guidato dall'anima, con strumenti a permessi irrobustiti, budget di token e accesso multi-canale. Funziona 24/7 dalla CLI o da Telegram.
+  ja: 魂に導かれる AI エージェントで、権限制御が強化されたツール、トークン予算、マルチチャネルアクセスを備えています。CLI または Telegram から 24 時間 365 日稼働します。
+  ko: 영혼으로 움직이는 AI 에이전트로, 권한이 강화된 도구, 토큰 예산, 멀티채널 접근을 제공합니다. CLI나 Telegram에서 24/7로 실행됩니다.
+  pl: Agent AI sterowany duszą, z narzędziami o wzmocnionych uprawnieniach, budżetami tokenów i dostępem wielokanałowym. Działa 24/7 z CLI lub Telegrama.
+  pt: Agente de IA orientado pela alma, com ferramentas de permissões reforçadas, orçamentos de tokens e acesso multicanal. Roda 24/7 pela CLI ou pelo Telegram.
+  ro: Agent AI ghidat de suflet, cu unelte cu permisiuni întărite, bugete de tokenuri și acces multicanal. Rulează 24/7 din CLI sau Telegram.
+  ru: AI-агент, управляемый душой, с инструментами усиленной защиты, бюджетами токенов и доступом по нескольким каналам. Работает 24/7 из CLI или Telegram.
+  th: เอเจนต์ AI ที่ขับเคลื่อนด้วยจิตวิญญาณ พร้อมเครื่องมือที่ปรับสิทธิ์แบบเข้มงวด งบโทเคน และการเข้าถึงหลายช่องทาง ทำงาน 24/7 จาก CLI หรือ Telegram
+  tr: Ruhla yönlendirilen, izinleri sıkılaştırılmış araçlara, token bütçelerine ve çok kanallı erişime sahip bir YZ ajanı. CLI veya Telegram üzerinden 7/24 çalışır.
+  uk: AI-агент, керований духом, із посиленими інструментами, бюджетами токенів і багатоканальним доступом. Працює 24/7 з CLI або Telegram.
+  vi: Agent AI được dẫn dắt bởi tinh thần, với công cụ siết chặt quyền hạn, ngân sách token và truy cập đa kênh. Chạy 24/7 từ CLI hoặc Telegram.
 x:
   source: https://github.com/cosmicstack-labs/mercury-agent
   eget: cosmicstack-labs/mercury-agent

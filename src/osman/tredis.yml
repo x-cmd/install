@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端版 Redis 数据查看与管理工具
   en: 'Terminal UI for Redis (tredis) - A terminal-based Redis data viewer and manager'
+  cs: Terminálové UI pro Redis (tredis) - terminálový prohlížeč a správce dat Redis
+  de: Terminal-UI für Redis (tredis) - ein Terminal-basierter Redis-Datenbetrachter und -Verwalter
+  es: Interfaz de terminal para Redis (tredis) - un visor y gestor de datos Redis basado en terminal
+  fr: Interface en terminal pour Redis (tredis) - un navigateur et gestionnaire de données Redis en ligne de commande
+  id: UI terminal untuk Redis (tredis) - pemutar dan pengelola data Redis berbasis terminal
+  it: Interfaccia a terminale per Redis (tredis) - un visualizzatore e gestore di dati Redis basato sul terminale
+  ja: Redis (tredis) 用のターミナルUI - ターミナルベースの Redis データビューア兼マネージャー
+  ko: Redis용 터미널 UI (tredis) - 터미널 기반 Redis 데이터 뷰어 및 관리자
+  pl: Interfejs terminala dla Redis (tredis) - terminalowa przeglądarka i menedżer danych Redis
+  pt: Interface de terminal para o Redis (tredis) - um visualizador e gerenciador de dados Redis baseado em terminal
+  ro: Interfață de terminal pentru Redis (tredis) - un vizualizator și manager de date Redis bazat pe terminal
+  ru: Терминальный интерфейс для Redis (tredis) - терминальный просмотрщик и менеджер данных Redis
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ Redis (tredis) - เครื่องมือดูและจัดการข้อมูล Redis บนเทอร์มินัล
+  tr: Redis (tredis) için terminal arayüzü - terminal tabanlı bir Redis veri görüntüleyici ve yöneticisi
+  uk: Термінальний інтерфейс для Redis (tredis) - термінальний переглядач і менеджер даних Redis
+  vi: Giao diện terminal cho Redis (tredis) - trình xem và quản lý dữ liệu Redis chạy trên terminal
 x:
   source: https://github.com/huseyinbabal/tredis
   eget: huseyinbabal/tredis

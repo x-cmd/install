@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Chinese-English translation tool, powered by youDao/iciba/ChatGPT
   cn: 中英文翻译工具，由 youDao/iciba/ChatGPT 提供支持
+  cs: Nástroj pro překlad čínštiny a angličtiny, podporovaný youDao/iciba/ChatGPT
+  de: Chinesisch-Englisch-Übersetzungswerkzeug, unterstützt von youDao/iciba/ChatGPT
+  es: Herramienta de traducción chino-inglés, respaldada por youDao/iciba/ChatGPT
+  fr: Outil de traduction chinois-anglais, propulsé par youDao/iciba/ChatGPT
+  id: Alat terjemahan Mandarin-Inggris, didukung oleh youDao/iciba/ChatGPT
+  it: Strumento di traduzione cinese-inglese, supportato da youDao/iciba/ChatGPT
+  ja: 中国語と英語の翻訳ツール。youDao/iciba/ChatGPTが対応しています
+  ko: 중국어-영어 번역 도구로 youDao/iciba/ChatGPT를 지원합니다
+  pl: Narzędzie do tłumaczenia chińskiego i angielskiego, wspierane przez youDao/iciba/ChatGPT
+  pt: Ferramenta de tradução chinês-inglês, com suporte de youDao/iciba/ChatGPT
+  ro: Instrument de traducere chineză-engleză, susținut de youDao/iciba/ChatGPT
+  ru: Инструмент перевода китайского и английского, поддерживаемый youDao/iciba/ChatGPT
+  th: เครื่องมือแปลภาษาจีน-อังกฤษ รองรับโดย youDao/iciba/ChatGPT
+  tr: Çince-İngilizce çeviri aracı, youDao/iciba/ChatGPT desteklidir
+  uk: Інструмент перекладу китайської та англійської, підтримується youDao/iciba/ChatGPT
+  vi: Công cụ dịch Trung-Anh, được hỗ trợ bởi youDao/iciba/ChatGPT
 x:
   source: https://github.com/afc163/fanyi
   apt: festival

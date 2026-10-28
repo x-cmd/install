@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个开源服务框架，帮助你使用前端编程 API 构建和开发服务，如 JAX-WS 和 JAX-RS
   en: An Open-Source Services Framework,helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS
+  cs: Open-source framework služeb, který vám pomáhá vytvářet a vyvíjet služby pomocí front-endových programovacích API, jako jsou JAX-WS a JAX-RS
+  de: Ein quelloffenes Services-Framework, das Ihnen hilft, Dienste mit Frontend-Programmier-APIs wie JAX-WS und JAX-RS zu erstellen und zu entwickeln
+  es: Un framework de servicios de código abierto que le ayuda a crear y desarrollar servicios usando APIs de programación frontend, como JAX-WS y JAX-RS
+  fr: Un framework de services open source qui vous aide à créer et développer des services à l'aide d'API de programmation frontend, comme JAX-WS et JAX-RS
+  id: Kerangka kerja layanan open source yang membantu Anda membangun dan mengembangkan layanan menggunakan API pemrograman frontend, seperti JAX-WS dan JAX-RS
+  it: Un framework di servizi open source che ti aiuta a costruire e sviluppare servizi utilizzando API di programmazione frontend, come JAX-WS e JAX-RS
+  ja: オープンソースのサービスフレームワークで、JAX-WS や JAX-RS などのフロントエンドプログラミング API を使ってサービスを構築し開発できます
+  ko: JAX-WS 및 JAX-RS와 같은 프런트엔드 프로그래밍 API를 사용하여 서비스를 구축하고 개발할 수 있게 해주는 오픈 소스 서비스 프레임워크
+  pl: Oprogramowanie usług o otwartym kodzie, które pomaga budować i rozwijać usługi za pomocą programistycznych API front-endu, takich jak JAX-WS i JAX-RS
+  pt: Um framework de serviços de código aberto que ajuda você a criar e desenvolver serviços usando APIs de programação front-end, como JAX-WS e JAX-RS
+  ro: Un framework de servicii open source care vă ajută să construiți și să dezvoltați servicii folosind API-uri de programare front-end, precum JAX-WS și JAX-RS
+  ru: Фреймворк сервисов с открытым исходным кодом, который помогает создавать и разрабатывать сервисы с помощью интерфейсных API программирования, таких как JAX-WS и JAX-RS
+  th: เฟรมเวิร์กเซอร์วิสโอเพนซอร์สที่ช่วยคุณสร้างและพัฒนาเซอร์วิสด้วย API การเขียนโปรแกรมส่วนหน้า เช่น JAX-WS และ JAX-RS
+  tr: JAX-WS ve JAX-RS gibi ön uç programlama API'leriyle servis oluşturmanıza ve geliştirmenize yardımcı olan açık kaynaklı servis çerçevesi
+  uk: Фреймворк сервісів з відкритим кодом, який допомагає створювати та розробляти сервіси за допомогою фронтендових API програмування, таких як JAX-WS і JAX-RS
+  vi: Khung dịch vụ mã nguồn mở giúp bạn xây dựng và phát triển dịch vụ bằng các API lập trình front-end như JAX-WS và JAX-RS
 x:
   source: https://github.com/apache/cxf
   yay: apache-cxf

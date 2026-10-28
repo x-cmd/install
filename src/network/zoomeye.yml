@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 一个网络空间搜索引擎，可以让用户使用浏览器搜索网络设备
   en: A cyberspace search engine that allows users to search for network devices using a browser
+  cs: Vyhledávač v kyberprostoru, který umožňuje uživatelům hledat síťová zařízení pomocí prohlížeče
+  de: Eine Cyberspace-Suchmaschine, mit der Benutzer über den Browser nach Netzwerkgeräten suchen können
+  es: Un motor de búsqueda del ciberespacio que permite a los usuarios buscar dispositivos de red con el navegador
+  fr: Un moteur de recherche du cyberespace qui permet aux utilisateurs de rechercher des périphériques réseau à l'aide d'un navigateur
+  id: Mesin pencari cyberspace yang memungkinkan pengguna mencari perangkat jaringan menggunakan browser
+  it: Un motore di ricerca del cyberspazio che consente agli utenti di cercare dispositivi di rete tramite il browser
+  ja: ブラウザを使ってネットワークデバイスを検索できるサイバー空間検索エンジン
+  ko: 브라우저를 사용하여 네트워크 장치를 검색할 수 있게 하는 사이버 스페이스 검색 엔진
+  pl: Wyszukiwarka w cyberprzestrzeni, która pozwala użytkownikom wyszukiwać urządzenia sieciowe w przeglądarce
+  pt: Um mecanismo de busca do ciberespaço que permite aos usuários pesquisar dispositivos de rede usando um navegador
+  ro: Un motor de căutare în cyberspace care permite utilizatorilor să caute dispozitive de rețea folosind un browser
+  ru: Поисковая система киберпространства, позволяющая искать сетевые устройства через браузер
+  th: เครื่องมือค้นหาในไซเบอร์สเปซที่ให้ผู้ใช้ค้นหาอุปกรณ์เครือข่ายผ่านเบราว์เซอร์
+  tr: Kullanıcıların tarayıcı üzerinden ağ cihazları aramasına olanak tanıyan siber uzay arama motoru
+  uk: Пошукова система кіберпростору, яка дозволяє користувачам шукати мережеві пристрої через браузер
+  vi: Công cụ tìm kiếm trong không gian mạng cho phép người dùng tìm thiết bị mạng bằng trình duyệt
 x:
   source: https://github.com/knownsec/ZoomEye
   pip: zoomeye

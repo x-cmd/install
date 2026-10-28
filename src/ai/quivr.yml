@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 面向 GenAI 集成的 RAG 框架，专注于产品本身而非 RAG 细节，支持 GPT4、Groq、Llama 等多种 LLM
   en: 'Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstor...'
+  cs: "RAG s vlastním názorem pro integraci GenAI do vašich aplikací 🧠 Soustřeďte se na svůj produkt, ne na RAG. Snadná integrace do existujících produktů s přizpůsobením! Jakýkoli LLM: GPT4, Groq, Llama. Jakékoli vektorové úložiště..."
+  de: "Meinungsstarkes RAG für die Integration von GenAI in Ihre Apps 🧠 Konzentrieren Sie sich auf Ihr Produkt statt auf das RAG. Einfache Integration in bestehende Produkte mit Anpassungsmöglichkeiten! Jedes LLM: GPT4, Groq, Llama. Jeder Vektorspeicher..."
+  es: "RAG con opinión para integrar GenAI en tus aplicaciones 🧠 Enfócate en tu producto en lugar del RAG. ¡Integración fácil en productos existentes con personalización! Cualquier LLM: GPT4, Groq, Llama. Cualquier almacén vectorial..."
+  fr: "RAG avisé pour intégrer la GenAI dans vos applications 🧠 Concentrez-vous sur votre produit plutôt que sur le RAG. Intégration facile dans des produits existants avec personnalisation ! N'importe quel LLM : GPT4, Groq, Llama. N'importe quel vector store..."
+  id: "RAG beropini untuk mengintegrasikan GenAI ke aplikasi Anda 🧠 Fokuslah pada produk Anda, bukan pada RAG. Integrasi mudah ke produk yang sudah ada dengan kustomisasi! LLM apa pun: GPT4, Groq, Llama. Vector store apa pun..."
+  it: "RAG convinto per integrare la GenAI nelle tue app 🧠 Concentrati sul tuo prodotto invece che sul RAG. Integrazione facile in prodotti esistenti con personalizzazione! Qualsiasi LLM: GPT4, Groq, Llama. Qualsiasi vector store..."
+  ja: "アプリに GenAI を統合するための確かな視点の RAG 🧠 RAG ではなくプロダクトに集中しましょう。既存製品への容易な統合とカスタマイズに対応！あらゆる LLM: GPT4、Groq、Llama。あらゆるベクトルストア..."
+  ko: "앱에 GenAI를 통합하기 위한 확고한 RAG 🧠 RAG 대신 여러분의 제품에 집중하세요. 기존 제품에 쉽게 통합하고 사용자 지정할 수 있습니다! 모든 LLM: GPT4, Groq, Llama. 모든 벡터 스토어..."
+  pl: "RAG z wyrazistym stanowiskiem do integracji GenAI w Twoich aplikacjach 🧠 Skup się na swoim produkcie, a nie na RAG. Łatwa integracja z istniejącymi produktami i możliwość dostosowania! Dowolny LLM: GPT4, Groq, Llama. Dowolny magazyn wektorów..."
+  pt: "RAG com opinião para integrar GenAI em seus aplicativos 🧠 Concentre-se no seu produto, não no RAG. Integração fácil em produtos existentes com personalização! Qualquer LLM: GPT4, Groq, Llama. Qualquer armazenamento vetorial..."
+  ro: "RAG cu opinie pentru integrarea GenAI în aplicațiile tale 🧠 Concentrează-te pe produsul tău, nu pe RAG. Integrare ușoară în produse existente cu personalizare! Orice LLM: GPT4, Groq, Llama. Orice vector store..."
+  ru: "Убедительный RAG для интеграции GenAI в ваши приложения 🧠 Сосредоточьтесь на своём продукте, а не на самом RAG. Простая интеграция в существующие продукты с настройкой! Любая LLM: GPT4, Groq, Llama. Любое векторное хранилище..."
+  th: "RAG ที่มีความคิดเห็นสำหรับการผสาน GenAI เข้ากับแอปของคุณ 🧠 โฟกัสที่ผลิตภัณฑ์ของคุณ ไม่ใช่ตัว RAG ผสานเข้ากับผลิตภัณฑ์เดิมได้อย่างง่าย พร้อมปรับแต่งได้! รองรับ LLM ทุกตัว: GPT4, Groq, Llama รองรับ vector store ทุกแบบ..."
+  tr: "Uygulamalarınıza GenAI entegrasyonu için görüşlü RAG 🧠 RAG yerine ürününüze odaklanın. Mevcut ürünlere özelleştirme ile kolay entegrasyon! Her LLM: GPT4, Groq, Llama. Her vektör deposu..."
+  uk: "Впечатливий RAG для інтеграції GenAI у ваші застосунки 🧠 Зосередьтеся на своєму продукті, а не на RAG. Легка інтеграція в наявні продукти з налаштуванням! Будь-яка LLM: GPT4, Groq, Llama. Будь-яке векторне сховище..."
+  vi: "RAG có tính cách để tích hợp GenAI vào ứng dụng của bạn 🧠 Hãy tập trung vào sản phẩm của bạn thay vì RAG. Dễ dàng tích hợp vào các sản phẩm hiện có với khả năng tùy chỉnh! Mọi LLM: GPT4, Groq, Llama. Mọi kho vector..."
 x:
   source: https://github.com/QuivrHQ/quivr
   eget: QuivrHQ/quivr

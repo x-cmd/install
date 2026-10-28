@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Sup 是一个简单的部署工具，可以在多个主机上并行执行给定的命令集。
   en: Sup is a simple deployment tool that performs given set of commands on multiple hosts in parallel.
+  cs: Sup je jednoduchý nástroj pro nasazování, který paralelně provádí zadanou sadu příkazů na více hostitelích.
+  de: Sup ist ein einfaches Deployment-Tool, das eine vorgegebene Befehlsmenge parallel auf mehreren Hosts ausführt.
+  es: Sup es una sencilla herramienta de despliegue que ejecuta en paralelo un conjunto de comandos dado en varios hosts.
+  fr: Sup est un simple outil de déploiement qui exécute en parallèle un ensemble de commandes donné sur plusieurs hôtes.
+  id: Sup adalah alat deployment sederhana yang menjalankan sekumpulan perintah secara paralel pada beberapa host.
+  it: Sup è un semplice strumento di distribuzione che esegue in parallelo un insieme di comandi su più host.
+  ja: Sup は、複数のホスト上で指定されたコマンド群を並列に実行する、シンプルなデプロイツールです。
+  ko: Sup은 여러 호스트에서 주어진 명령 집합을 병렬로 실행하는 간단한 배포 도구입니다.
+  pl: Sup to proste narzędzie do wdrażania, które wykonuje wskazany zestaw poleceń równolegle na wielu hostach.
+  pt: Sup é uma ferramenta de implantação simples que executa em paralelo um conjunto de comandos em vários hosts.
+  ro: Sup este un instrument simplu de implementare care execută în paralel un set de comenzi date pe mai multe gazde.
+  ru: Sup — простое средство развёртывания, которое параллельно выполняет заданный набор команд на нескольких узлах.
+  th: Sup เป็นเครื่องมือ deployment อย่างง่ายที่รันชุดคำสั่งที่กำหนดไว้แบบขนานบนหลายโฮสต์
+  tr: Sup, verilen komut kümesini birden çok ana bilgisayarda paralel olarak çalıştıran basit bir dağıtım aracıdır.
+  uk: Sup — простий інструмент розгортання, який паралельно виконує заданий набір команд на кількох вузлах.
+  vi: Sup là công cụ triển khai đơn giản, thực hiện song song một bộ lệnh cho trước trên nhiều máy chủ.
 x:
   source: https://github.com/pressly/sup
   eget: pressly/sup

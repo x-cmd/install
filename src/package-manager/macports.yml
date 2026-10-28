@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: MacPorts 是一个易于使用的系统，用于编译、安装和管理开源软件
   en: MacPorts is an easy to use system for compiling, installing, and managing open source software
+  cs: MacPorts je snadno použitelný systém pro kompilaci, instalaci a správu open source softwaru
+  de: MacPorts ist ein leicht zu verwendendes System zum Kompilieren, Installieren und Verwalten von Open-Source-Software
+  es: MacPorts es un sistema fácil de usar para compilar, instalar y gestionar software de código abierto
+  fr: MacPorts est un système facile à utiliser pour compiler, installer et gérer des logiciels open source
+  id: MacPorts adalah sistem yang mudah digunakan untuk mengompilasi, memasang, dan mengelola perangkat lunak sumber terbuka
+  it: MacPorts è un sistema facile da usare per compilare, installare e gestire software open source
+  ja: MacPorts はオープンソースソフトウェアをコンパイル・インストール・管理するための易于使うシステムです
+  ko: MacPorts는 오픈 소스 소프트웨어를 컴파일, 설치 및 관리하기 위한 사용하기 쉬운 시스템입니다
+  pl: MacPorts to łatwy w użyciu system do kompilacji, instalacji i zarządzania oprogramowaniem open source
+  pt: MacPorts é um sistema fácil de usar para compilar, instalar e gerenciar software de código aberto
+  ro: MacPorts este un sistem ușor de utilizat pentru compilarea, instalarea și gestionarea software-ului open source
+  ru: MacPorts — это простая в использовании система для компиляции, установки и управления программным обеспечением с открытым исходным кодом
+  th: MacPorts คือระบบที่ใช้งานง่ายสำหรับการคอมไพล์ ติดตั้ง และจัดการซอฟต์แวร์โอเพนซอร์ส
+  tr: MacPorts, açık kaynaklı yazılımı derlemek, kurmak ve yönetmek için kullanımı kolay bir sistemdir
+  uk: MacPorts — це проста у використанні система для компіляції, встановлення та керування програмним забезпеченням з відкритим кодом
+  vi: MacPorts là hệ thống dễ sử dụng để biên dịch, cài đặt và quản lý phần mềm mã nguồn mở
 x:
   source: https://github.com/macports/macports-base
   eget: macports/macports-base

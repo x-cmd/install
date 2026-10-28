@@ -3,6 +3,22 @@ homepage: https://www.bytereef.org/mpdecimal/
 desc:
   cn: Mpdecal 是一个用于正确舍入任意精度十进制浮点运算的包
   en: mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic
+  cs: mpdecimal je balíček pro správně zaokrouhlenou aritmetiku s libovolnou přesností v desetinné plovoucí čísel
+  de: mpdecimal ist ein Paket für korrekt gerundete Gleitkomma-Arithmetik mit beliebiger Genauigkeit
+  es: mpdecimal es un paquete para aritmética de punto flotante decimal de precisión arbitraria correctamente redondeada
+  fr: mpdecimal est un paquet pour l'arithmétique en virgule flottante décimale à précision arbitraire correctement arrondie
+  id: mpdecimal adalah paket untuk aritmetika titik desimal berketepatan sebarak yang dibulatkan dengan benar
+  it: mpdecimal è un pacchetto per l'aritmetica in virgola mobile decimale a precisione arbitraria correttamente arrotondata
+  ja: mpdecimal は、任意精度で正しく丸められる十進浮動小数点演算のためのパッケージです
+  ko: mpdecimal은 임의 정밀도 십진 부동소수점 연산을 정확하게 반올림하기 위한 패키지입니다
+  pl: mpdecimal to pakiet do poprawnie zaokrąglonej arytmetyki zmiennoprzecinkowej dziesiętnej o dowolnej precyzji
+  pt: mpdecimal é um pacote para aritmética de ponto flutuante decimal de precisão arbitrária corretamente arredondada
+  ro: mpdecimal este un pachet pentru aritmetică în virgulă mobilă zecimală cu precizie arbitrară, corect rotunjită
+  ru: mpdecimal — это пакет для корректно округляемой арифметики десятичных чисел с плавающей точкой произвольной точности
+  th: mpdecimal เป็นแพ็กเกจสำหรับการคำนวณเลขทศนิยมแบบ float ความแม่นยำตามต้องการที่ปัดเศษอย่างถูกต้อง
+  tr: mpdecimal, keyfi rastgele basamaklı ondalık kayan nokta aritmetiği için doğru yuvarlanmış işlemler sunan bir pakettir
+  uk: mpdecimal — це пакет для правильно округлюваної арифметики десяткових чисел з плаваючою точкою довільної точності
+  vi: mpdecimal là gói hỗ trợ số học số thập phân dấu phẩy động độ chính xác tùy ý với việc làm tròn chính xác
 rule:
   darwin/brew:
     cmd: brew install mpdecimal

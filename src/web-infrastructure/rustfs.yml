@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Rust 构建的高性能分布式对象存储系统
   en: A high-performance, distributed object storage system built in Rust
+  cs: Vysoce výkonný distribuovaný systém úložiště objektů postavený v Rustu
+  de: Ein in Rust entwickeltes, hochleistungsfähiges verteiltes Objektspeichersystem
+  es: Sistema de almacenamiento de objetos distribuido y de alto rendimiento construido en Rust
+  fr: Un système de stockage d'objets distribué et performant conçu en Rust
+  id: Sistem penyimpanan objek terdistribusi berkinerja tinggi yang dibangun dengan Rust
+  it: Un sistema di archiviazione oggetti distribuito ad alte prestazioni costruito in Rust
+  ja: Rust で構築された高性能な分散オブジェクトストレージシステム
+  ko: Rust로 구축된 고성능 분산 객체 스토리지 시스템
+  pl: Wysokowydajny rozproszony system magazynowania obiektów zbudowany w Rust
+  pt: Um sistema de armazenamento de objetos distribuído e de alto desempenho construído em Rust
+  ro: Un sistem de stocare distribuită de obiecte, de înaltă performanță, construit în Rust
+  ru: Высокопроизводительная распределённая система объектного хранения, построенная на Rust
+  th: ระบบจัดเก็บอ็อบเจกต์แบบกระจายประสิทธิภาพสูงที่สร้างด้วย Rust
+  tr: Rust ile derlenmiş, yüksek performanslı dağıtık nesne depolama sistemi
+  uk: Високопродуктивна розподілена система об'єктного зберігання, побудована на Rust
+  vi: Hệ thống lưu trữ đối tượng phân tán hiệu năng cao được xây dựng bằng Rust
 x:
   source: https://github.com/rustfs/rustfs
   brew: rustfs

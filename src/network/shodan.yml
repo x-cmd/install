@@ -3,6 +3,22 @@ homepage: https://github.com/achillean/shodan-python
 desc:
   cn: Shodan 是一个针对互联网连接设备的搜索引擎
   en: Shodan is a search engine for Internet-connected devices
+  cs: Shodan je vyhledávač pro zařízení připojená k Internetu
+  de: Shodan ist eine Suchmaschine für internetverbundene Geräte
+  es: Shodan es un motor de búsqueda para dispositivos conectados a Internet
+  fr: Shodan est un moteur de recherche pour les appareils connectés à Internet
+  id: Shodan adalah mesin pencari untuk perangkat yang terhubung ke Internet
+  it: Shodan è un motore di ricerca per i dispositivi connessi a Internet
+  ja: Shodan はインターネットに接続されたデバイスの検索エンジンです
+  ko: Shodan은 인터넷에 연결된 기기를 검색하는 검색 엔진입니다
+  pl: Shodan to wyszukiwarka urządzeń podłączonych do Internetu
+  pt: Shodan é um mecanismo de busca para dispositivos conectados à Internet
+  ro: Shodan este un motor de căutare pentru dispozitive conectate la Internet
+  ru: Shodan — это поисковая система для устройств, подключённых к Интернету
+  th: Shodan เป็นเครื่องมือค้นหาสำหรับอุปกรณ์ที่เชื่อมต่ออินเทอร์เน็ต
+  tr: Shodan, internete bağlı cihazlar için bir arama motorudur
+  uk: Shodan — це пошукова система для пристроїв, підключених до Інтернету
+  vi: Shodan là công cụ tìm kiếm dành cho các thiết bị kết nối Internet
 x:
   source: https://github.com/achillean/shodan-python
   pip: shodan

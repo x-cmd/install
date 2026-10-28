@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 以容器为中心的机器管理
   en: Machine management for a container-centric world
+  cs: Správa strojů pro svět zaměřený na kontejnery
+  de: Maschinenverwaltung für eine containerzentrierte Welt
+  es: Gestión de máquinas para un mundo centrado en contenedores
+  fr: Gestion de machines pour un monde centré sur les conteneurs
+  id: Manajemen mesin untuk dunia yang berpusat pada kontainer
+  it: Gestione delle macchine per un mondo incentrato sui container
+  ja: コンテナ中心のワールドのためのマシン管理
+  ko: 컨테이너 중심 세계를 위한 머신 관리
+  pl: Zarządzanie maszynami dla świata skoncentrowanego na kontenerach
+  pt: Gerenciamento de máquinas para um mundo centrado em contêineres
+  ro: Managementul mașinilor pentru o lume centrată pe containere
+  ru: Управление машинами для мира, построенного вокруг контейнеров
+  th: การจัดการเครื่องจักรสำหรับโลกที่มีคอนเทนเนอร์เป็นแกนกลาง
+  tr: Konteyner odaklı bir dünya için makine yönetimi
+  uk: Керування машинами для світу, побудованого навколо контейнерів
+  vi: Quản lý máy cho một thế giới lấy container làm trung tâm
 x:
   source: https://github.com/docker/machine
   brew: docker-machine

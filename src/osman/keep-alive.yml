@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 轻量跨平台工具，防止系统休眠，适合下载、长连接或长时任务
   en: 'Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.'
+  cs: Keep-Alive je lehký multiplatformní nástroj, který zabrání uspání systému. Ideální pro nepřerušované stahování, aktivní připojení nebo dlouho běžící úlohy.
+  de: Keep-Alive ist ein leichtgewichtiges, plattformübergreifendes Werkzeug, das verhindert, dass Ihr System in den Ruhezustand geht. Perfekt für unterbrechungsfreie Downloads, aktive Verbindungen oder lang laufende Aufgaben.
+  es: Keep-Alive es una utilidad ligera y multiplataforma que evita que el sistema se suspenda. Perfecta para descargas ininterrumpidas, conexiones activas o tareas largas.
+  fr: Keep-Alive est un utilitaire léger et multiplateforme qui empêche votre système de se mettre en veille. Parfait pour les téléchargements ininterrompus, les connexions actives ou les tâches de longue durée.
+  id: Keep-Alive adalah utilitas ringan lintas platform untuk mencegah sistem Anda tidur. Sempurna untuk unduhan tanpa gangguan, koneksi aktif, atau tugas jangka panjang.
+  it: Keep-Alive è un'utilità leggera e multipiattaforma che impedisce al sistema di andare in sospensione. Perfetta per download ininterrotti, connessioni attive o attività di lunga durata.
+  ja: Keep-Alive はシステムのスリープを防ぐ軽量なクロスプラットフォームユーティリティです。途切れないダウンロード、継続的な接続、長時間の作業に最適です。
+  ko: Keep-Alive는 시스템이 절전 모드로 들어가지 않도록 하는 가볍고 다중 플랫폼 유틸리티입니다. 중단 없는 다운로드, 지속적인 연결, 장시간 작업에 완벽합니다.
+  pl: Keep-Alive to lekka, wieloplatformowe narzędzie zapobiegające uśpieniu systemu. Idealne do nieprzerwanych pobrań, aktywnych połączeń lub długotrwałych zadań.
+  pt: Keep-Alive é um utilitário leve e multiplataforma que impede que o sistema entre em suspensão. Perfeito para downloads ininterruptos, conexões ativas ou tarefas longas.
+  ro: Keep-Alive este o utilitar ușor, multiplataforma, care împiedică sistemul să intre în repaus. Perfect pentru descărcări neîntrerupte, conexiuni active sau sarcini de lungă durată.
+  ru: Keep-Alive — лёгкая кроссплатформенная утилита, не дающая системе уснуть. Идеальна для непрерывных загрузок, активных соединений и долгих задач.
+  th: Keep-Alive เป็นเครื่องมือขนาดเล็กแบบข้ามแพลตฟอร์มที่ป้องกันไม่ให้ระบบเข้าสู่โหมดพัก เหมาะสำหรับการดาวน์โหลดต่อเนื่อง การเชื่อมต่อที่ใช้งานอยู่ หรืองานที่ใช้เวลานาน
+  tr: Keep-Alive, sisteminizin uykuya geçmesini önleyen hafif ve platformlar arası bir yardımcı programdır. Kesintisiz indirmeler, etkin bağlantılar veya uzun süreli görevler için idealdir.
+  uk: Keep-Alive — легка кроссплатформенна утиліта, яка не дає системі заснути. Ідеальна для безперервних завантажень, активних з'єднань і тривалих завдань.
+  vi: Keep-Alive là tiện ích nhẹ đa nền tảng giúp ngăn hệ thống ngủ. Lý tưởng cho tải xuống liên tục, kết nối đang hoạt động hoặc các tác vụ chạy lâu.
 x:
   source: https://github.com/stigoleg/keep-alive
   eget: stigoleg/keep-alive

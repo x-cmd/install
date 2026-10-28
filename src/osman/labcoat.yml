@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: NixOS 系统部署 TUI
   en: 'NixOS system deployment TUI'
+  cs: TUI pro nasazování systémů NixOS
+  de: TUI für die Bereitstellung von NixOS-Systemen
+  es: TUI para despliegues de sistemas NixOS
+  fr: TUI pour le déploiement de systèmes NixOS
+  id: TUI untuk penerapan sistem NixOS
+  it: TUI per il deployment di sistemi NixOS
+  ja: NixOS システムのデプロイ用 TUI
+  ko: NixOS 시스템 배포용 TUI
+  pl: TUI do wdrażania systemów NixOS
+  pt: TUI para implantação de sistemas NixOS
+  ro: TUI pentru implementarea sistemelor NixOS
+  ru: TUI для развёртывания систем NixOS
+  th: TUI สำหรับการติดตั้งระบบ NixOS
+  tr: NixOS sistem dağıtımı için TUI
+  uk: TUI для розгортання систем NixOS
+  vi: TUI cho triển khai hệ thống NixOS
 x:
   source: https://github.com/jhillyerd/labcoat
   eget: jhillyerd/labcoat

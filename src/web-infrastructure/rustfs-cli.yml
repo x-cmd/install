@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Rust 编写的与 S3 兼容的命令行客户端
   en: A S3-compatible command-line client written in Rust
+  cs: Příkazový klient kompatibilní se S3 napsaný v Rustu
+  de: Ein in Rust geschriebener S3-kompatibler Kommandozeilen-Client
+  es: Cliente de línea de comandos compatible con S3 escrito en Rust
+  fr: Client en ligne de commande compatible avec S3 écrit en Rust
+  id: Klien baris perintah yang kompatibel dengan S3 dan ditulis dengan Rust
+  it: Client da riga di comando compatibile con S3 scritto in Rust
+  ja: Rust で書かれた S3 互換のコマンドラインクライアント
+  ko: Rust로 작성된 S3 호환 명령줄 클라이언트
+  pl: Klient wiersza poleceń zgodny z S3 napisany w Rust
+  pt: Cliente de linha de comando compatível com S3 escrito em Rust
+  ro: Client de linie de comandă compatibil cu S3 scris în Rust
+  ru: S3-совместимый клиент командной строки, написанный на Rust
+  th: ไคลเอนต์บรรทัดคำสั่งที่เข้ากันได้กับ S3 เขียนด้วย Rust
+  tr: Rust ile yazılmış, S3 uyumlu bir komut satırı istemcisi
+  uk: S3-сумісний клієнт командного рядка, написаний на Rust
+  vi: Ứng dụng dòng lệnh tương thích với S3 được viết bằng Rust
 x:
   source: https://github.com/rustfs/cli
   brew: rustfs/tap/rc

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Obscura 是一款面向 AI Agent 与网络爬虫的开源无头浏览器引擎，基于 Rust 与嵌入式 V8 实现，支持 CDP / Puppeteer / Playwright，内置反指纹与追踪拦截。
   en: Obscura is an open-source headless browser engine for AI agents and web scraping, built in Rust with embedded V8, supporting CDP / Puppeteer / Playwright, with built-in anti-fingerprinting and tracker blocking.
+  cs: Obscura je open-source bezhlavý prohlížečový engine pro AI agenty a scrapování webu, napsaný v Rustu s vestavěným V8, podporující CDP / Puppeteer / Playwright, s vestavěnou ochranou proti fingerprintingu a blokováním trackerů.
+  de: Obscura ist eine quelloffene Headless-Browser-Engine für KI-Agenten und Web-Scraping, in Rust mit eingebettetem V8 implementiert, die CDP / Puppeteer / Playwright unterstützt und Anti-Fingerprinting sowie Tracker-Blockierung integriert bietet.
+  es: Obscura es un motor de navegador headless de código abierto para agentes de IA y scraping web, construido en Rust con V8 integrado, compatible con CDP / Puppeteer / Playwright, con anti-huella digital y bloqueo de rastreadores integrados.
+  fr: Obscura est un moteur de navigateur headless open source pour les agents IA et le scraping web, écrit en Rust avec V8 intégré, prenant en charge CDP / Puppeteer / Playwright, avec anti-empreinte numérique et blocage des traqueurs intégrés.
+  id: Obscura adalah mesin browser headless open source untuk agen AI dan web scraping, dibangun dengan Rust dan V8 tertanam, mendukung CDP / Puppeteer / Playwright, dengan anti-fingerprinting dan pemblokir pelacak bawaan.
+  it: Obscura è un motore di browser headless open source per agenti AI e web scraping, costruito in Rust con V8 integrato, che supporta CDP / Puppeteer / Playwright, con anti-fingerprinting e blocco dei tracker integrati.
+  ja: Obscura は AI エージェントとウェブスクレイピング向けのオープンソースのヘッドレスブラウザエンジンで、Rust と組み込み V8 で書かれ、CDP / Puppeteer / Playwright に対応し、フィンガープリント防止とトラッカー遮断が内蔵されています。
+  ko: Obscura는 AI 에이전트와 웹 스크래핑을 위한 오픈 소스 헤드리스 브라우저 엔진으로, Rust와 내장 V8로 제작되었으며 CDP / Puppeteer / Playwright를 지원하고 안티 핑거프린팅과 트래커 차단이 내장되어 있습니다.
+  pl: Obscura to otwartoźródłowa bezgłowa silnik przeglądarki dla agentów AI i scrapowania stron, zbudowany w Rust z osadzonym V8, obsługujący CDP / Puppeteer / Playwright, z wbudowaną ochroną przed odciskami palców i blokowaniem trackerów.
+  pt: Obscura é um motor de navegador headless de código aberto para agentes de IA e web scraping, construído em Rust com V8 embutido, com suporte a CDP / Puppeteer / Playwright, com anti-fingerprinting e bloqueio de rastreadores integrados.
+  ro: Obscura este un motor de browser headless open source pentru agenți AI și web scraping, construit în Rust cu V8 încorporat, care acceptă CDP / Puppeteer / Playwright, cu protecție anti-fingerprint și blocarea trackerelor integrate.
+  ru: Obscura — это движок headless-браузера с открытым исходным кодом для ИИ-агентов и веб-скрейпинга, написанный на Rust со встроенным V8, поддерживающий CDP / Puppeteer / Playwright, со встроенной защитой от fingerprinting и блокировкой трекеров.
+  th: Obscura เป็นเอนจินเบราว์เซอร์แบบไม่มีส่วนหัวโอเพนซอร์สสำหรับเอไอเอเจนต์และการเก็บข้อมูลเว็บ สร้างด้วย Rust พร้อม V8 ฝังตัว รองรับ CDP / Puppeteer / Playwright พร้อมระบบป้องกันการพิมพ์ลายนิ้วมือและบล็อกตัวติดตามในตัว
+  tr: Obscura, yapay zeka ajanları ve web kazıma için gömülü V8 ile Rust'ta yazılmış, CDP / Puppeteer / Playwright destekleyen, parmak izi koruması ve izleyici engelleme özellikleri yerleşik açık kaynaklı bir headless tarayıcı motorudur.
+  uk: Obscura — це рушій безголового браузера з відкритим кодом для ІІ-агентів та веб-скрейпінгу, написаний на Rust із вбудованим V8, підтримує CDP / Puppeteer / Playwright, має вбудований захист від fingerprinting та блокування трекерів.
+  vi: Obscura là engine trình duyệt headless mã nguồn mở dành cho agent AI và thu thập dữ liệu web, được xây dựng bằng Rust với V8 nhúng, hỗ trợ CDP / Puppeteer / Playwright, kèm chống dấu vân tay và chặn tracker tích hợp sẵn.
 x:
   source: https://github.com/h4ckf0r0day/obscura
   eget: h4ckf0r0day/obscura

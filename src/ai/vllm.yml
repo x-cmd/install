@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 面向 LLM 的高吞吐、低内存占用的推理与服务引擎
   en: A high-throughput and memory-efficient inference and serving engine for LLMs
+  cs: Vysoce výkonný a paměťově efektivní engine pro inferenci a obsluhu LLM
+  de: Ein hochdurchsatzfähiger und speichereffizienter Inferenz- und Serving-Engine für LLMs
+  es: Un motor de inferencia y servicio para LLM de alto rendimiento y eficiente en memoria
+  fr: Un moteur d'inférence et de service pour les LLM, à haut débit et économe en mémoire
+  id: Mesin inferensi dan serving untuk LLM dengan throughput tinggi dan hemat memori
+  it: Un motore di inferenza e serving ad alto throughput ed efficiente in termini di memoria per gli LLM
+  ja: LLM 向けの高スループット・省メモリな推論およびサービングエンジン
+  ko: LLM을 위한 고처리량·메모리 효율적인 추론 및 서빙 엔진
+  pl: Silnik do wnioskowania i obsługi LLM o wysokiej przepustowości i niskim zużyciu pamięci
+  pt: Um mecanismo de inferência e serviço de alto throughput e eficiente em memória para LLMs
+  ro: Un motor de inferență și servire pentru LLM cu debit ridicat și eficient din punct de vedere al memoriei
+  ru: Высокопроизводительный и экономный по памяти движок инференса и обслуживания для LLM
+  th: เอนจินอินเฟอเรนซ์และเซิร์ฟสำหรับ LLM ที่มีปริมาณงานสูงและใช้หน่วยความจำอย่างมีประสิทธิภาพ
+  tr: LLM'ler için yüksek verim ve bellek verimli çıkarım ve sunum motoru
+  uk: Високопродуктивний і ефективний за пам'яттю рушій інференції та обслуговування для LLM
+  vi: Động cơ suy luận và phục vụ LLM với thông lượng cao và tiết kiệm bộ nhớ
 x:
   source: https://github.com/vllm-project/vllm
   eget: vllm-project/vllm

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个小工具，克隆 git 库到一个标准位置，按域名和路径组织。它运行在 BSD、 Linux、 macOS、 Windows 等系统上
   en: A small tool to clone git repositories to a standard location, organised by domain name and path. It runs on BSD, Linux, macOS, Windows, and more
+  cs: Malý nástroj pro klonování git repozitářů do standardního umístění organizovaného podle názvu domény a cesty. Běží na BSD, Linux, macOS, Windows a dalších systémech
+  de: Ein kleines Tool zum Klonieren von Git-Repositories an einen Standardort, organisiert nach Domainname und Pfad. Es läuft auf BSD, Linux, macOS, Windows und mehr
+  es: Una pequeña herramienta para clonar repositorios de git en una ubicación estándar, organizada por nombre de dominio y ruta. Funciona en BSD, Linux, macOS, Windows y más
+  fr: Un petit outil pour cloner des dépôts git dans un emplacement standard, organisés par nom de domaine et chemin. Il fonctionne sur BSD, Linux, macOS, Windows et plus encore
+  id: Alat kecil untuk mengkloning repositori git ke lokasi standar, terorganisasi berdasarkan nama domain dan path. Berjalan di BSD, Linux, macOS, Windows, dan lainnya
+  it: Un piccolo strumento per clonare i repository git in una posizione standard, organizzati per nome di dominio e percorso. Funziona su BSD, Linux, macOS, Windows e altro
+  ja: git リポジトリをドメイン名とパスで整理された標準的な場所にクローンする小さなツール。BSD、Linux、macOS、Windows などで動作する
+  ko: git 저장소를 도메인 이름과 경로에 따라 정리된 표준 위치로 클론하는 작은 도구입니다. BSD, Linux, macOS, Windows 등 다양한 OS에서 실행됩니다
+  pl: Małe narzędzie do klonowania repozytoriów git do standardowej lokalizacji, zorganizowanej według nazwy domeny i ścieżki. Działa na BSD, Linux, macOS, Windows i innych
+  pt: Uma pequena ferramenta para clonar repositórios git em um local padrão, organizados por nome de domínio e caminho. Funciona no BSD, Linux, macOS, Windows e mais
+  ro: Un mic instrument pentru clonarea depozitelor git într-o locație standard, organizată după numele domeniului și cale. Rulează pe BSD, Linux, macOS, Windows și altele
+  ru: Небольшой инструмент для клонирования git-репозиториев в стандартное место, упорядоченное по имени домена и пути. Работает на BSD, Linux, macOS, Windows и других системах
+  th: เครื่องมือเล็ก ๆ สำหรับโคลนที่เก็บ git ไปยังตำแหน่งมาตรฐาน โดยจัดโครงสร้างตามชื่อโดเมนและพาธ ใช้งานได้บน BSD, Linux, macOS, Windows และอื่น ๆ
+  tr: Git depolarını alan adı ve yola göre düzenlenen standart bir konuma klonlamak için küçük bir araç. BSD, Linux, macOS, Windows ve daha fazlasında çalışır
+  uk: Невеликий інструмент для клонування git-репозиторіїв у стандартне місце, упорядковане за назвою домену та шляхом. Працює на BSD, Linux, macOS, Windows та інших
+  vi: Công cụ nhỏ để clone kho git vào một vị trí tiêu chuẩn, được sắp xếp theo tên miền và đường dẫn. Chạy trên BSD, Linux, macOS, Windows và nhiều nền tảng khác
 x:
   source: https://github.com/wezm/git-grab
   eget: wezm/git-grab

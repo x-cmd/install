@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简洁的终端视频裁剪界面
   en: 'A simple terminal UI for video trimming'
+  cs: Jednoduché terminálové rozhraní pro střih videa
+  de: Eine einfache Terminal-Oberfläche zum Trimmen von Videos
+  es: Una sencilla interfaz de terminal para recortar videos
+  fr: Une interface terminal simple pour le montage vidéo
+  id: Antarmuka terminal sederhana untuk memotong video
+  it: Una semplice interfaccia a terminale per il taglio dei video
+  ja: 動画のトリミング用のシンプルなターミナル UI
+  ko: 동영상 자르기를 위한 간단한 터미널 UI
+  pl: Prosty interfejs terminala do przycinania filmów
+  pt: Uma interface de terminal simples para cortar vídeos
+  ro: O interfață de terminal simplă pentru tăierea videoclipurilor
+  ru: Простой терминальный интерфейс для обрезки видео
+  th: ส่วนติดต่อเทอร์มินัลอย่างง่ายสำหรับตัดต่อวิดีโอ
+  tr: Video kırpma için basit bir terminal arayüzü
+  uk: Простий термінальний інтерфейс для обрізання відео
+  vi: Giao diện terminal đơn giản để cắt video
 x:
   source: https://github.com/ozemin/lazycut
   eget: ozemin/lazycut

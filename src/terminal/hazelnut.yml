@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 灵感来自 Hazel 的终端自动文件整理器，监控文件夹并按规则归档
   en: '🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.'
+  cs: 🌰 Automatický organizátor souborů v terminálu inspirovaný aplikací Hazel. Sledujte složky a organizujte soubory pomocí pravidel.
+  de: 🌰 Automatischer Dateiorganisierer im Terminal, inspiriert von Hazel. Ordner überwachen und Dateien nach Regeln organisieren.
+  es: 🌰 Organizador de archivos automatizado basado en terminal, inspirado en Hazel. Vigila carpetas y organiza archivos con reglas.
+  fr: 🌰 Organiseur de fichiers automatisé pour terminal, inspiré de Hazel. Surveillez des dossiers et organisez les fichiers avec des règles.
+  id: 🌰 Organizer file otomatis berbasis terminal yang terinspirasi Hazel. Pantau folder dan atur file dengan aturan.
+  it: 🌰 Organizzatore di file automatizzato basato su terminale, ispirato a Hazel. Sorveglia le cartelle e organizza i file con regole.
+  ja: 🌰 Hazel にインスパイアされたターミナルベースの自動ファイル整理ツール。フォルダーを監視し、ルールでファイルを整理します。
+  ko: 🌰 Hazel에서 영감을 받은 터미널 기반 자동 파일 정리 도구입니다. 폴더를 감시하고 규칙으로 파일을 정리합니다.
+  pl: 🌰 Automatyczny organizator plików w terminalu inspirowany przez Hazel. Obserwuj foldery i organizuj pliki według reguł.
+  pt: 🌰 Organizador de arquivos automatizado baseado em terminal, inspirado no Hazel. Monitore pastas e organize arquivos com regras.
+  ro: 🌰 Organizator automat de fișiere bazat pe terminal, inspirat de Hazel. Monitorizează foldere și organizează fișiere după reguli.
+  ru: 🌰 Автоматический организатор файлов на основе терминала, вдохновлённый Hazel. Следите за папками и упорядочивайте файлы по правилам.
+  th: 🌰 เครื่องมือจัดระเบียบไฟล์อัตโนมัติบนเทอร์มินัลที่ได้แรงบันดาลใจจาก Hazel เฝ้าดูโฟลเดอร์และจัดระเบียบไฟล์ตามกฎ
+  tr: 🌰 Hazel'den esinlenen, terminal tabanlı otomatik dosya düzenleyici. Klasörleri izleyin ve dosyaları kurallara göre düzenleyin.
+  uk: 🌰 Автоматичний організатор файлів на основі термінала, натхненний Hazel. Слідкуйте за папками та впорядковуйте файли за правилами.
+  vi: 🌰 Trình tổ chức tệp tự động chạy trên terminal, lấy cảm hứng từ Hazel. Theo dõi thư mục và sắp xếp tệp theo quy tắc
 x:
   source: https://github.com/ricardodantas/hazelnut
   eget: ricardodantas/hazelnut

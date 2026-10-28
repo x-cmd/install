@@ -3,6 +3,22 @@ homepage: https://github.com/leo-arch/clifm/wiki
 desc:
   cn: Clifm 是一个类似 shell 的基于文本的终端文件管理器，运行在命令行界面上。
   en: Clifm is a shell-like, text-based terminal file manager that sits on the command line.
+  cs: Clifm je textový správce souborů v terminálu podobný shellu, který běží v příkazovém řádku.
+  de: Clifm ist ein textbasierter, shell-ähnlicher Terminal-Dateimanager, der in der Kommandozeile läuft.
+  es: Clifm es un gestor de archivos de terminal basado en texto, similar a un shell, que se ejecuta en la línea de comandos.
+  fr: Clifm est un gestionnaire de fichiers texte pour terminal, similaire à un shell, qui s'exécute sur la ligne de commande.
+  id: Clifm adalah pengelola file terminal berbasis teks mirip shell yang berjalan di baris perintah.
+  it: Clifm è un file manager da terminale basato su testo, simile a una shell, che opera sulla riga di comando.
+  ja: Clifm は、シェルに似たテキストベースのターミナルファイルマネージャーで、コマンドライン上で動作します。
+  ko: Clifm은 명령줄에서 실행되는 셸과 유사한 텍스트 기반 터미널 파일 관리자입니다.
+  pl: Clifm to tekstowy menedżer plików dla terminala, podobny do powłoki, działający w wierszu poleceń.
+  pt: Clifm é um gerenciador de arquivos de terminal baseado em texto, semelhante a um shell, que roda na linha de comando.
+  ro: Clifm este un manager de fișiere pentru terminal bazat pe text, asemănător unui shell, care rulează în linia de comandă.
+  ru: Clifm — текстовый файловый менеджер для терминала, похожий на shell, работающий в командной строке.
+  th: Clifm เป็นตัวจัดการไฟล์แบบข้อความบนเทอร์มินัลที่คล้าย shell และทำงานอยู่ในบรรทัดคำสั่ง
+  tr: Clifm, kabuk benzeri, metin tabanlı bir terminal dosya yöneticisidir ve komut satırında çalışır.
+  uk: Clifm — текстовий файловий менеджер для термінала, схожий на shell, що працює в командному рядку.
+  vi: Clifm là trình quản lý tệp dòng lệnh dựa trên văn bản, tương tự shell, chạy trên dòng lệnh
 rule:
   darwin/port:
     cmd: sudo port install clifm

@@ -3,6 +3,22 @@ homepage: https://github.com/stepchowfun/docuum
 desc:
   cn: 对于持续集成(CI)工作人员、开发人员工作站或任何其他 Docker 映像随时间累积在磁盘上的环境等用例来说，Docum 是理想的
   en: Docuum is ideal for use cases such as continuous integration (CI) workers, developer workstations, or any other environment in which Docker images accumulate on disk over time
+  cs: Docuum je ideální pro případy jako je pracovník průběžné integrace (CI), vývojářská pracovní stanice nebo jakékoli jiné prostředí, kde se obrazy Docker postupně hromadí na disku
+  de: Docuum eignet sich ideal für Anwendungsfälle wie Continuous-Integration-(CI)-Worker, Entwicklerarbeitsplätze oder jede andere Umgebung, in der sich Docker-Images im Laufe der Zeit auf der Festplatte ansammeln
+  es: Docuum es ideal para casos de uso como workers de integración continua (CI), estaciones de trabajo de desarrolladores o cualquier otro entorno donde las imágenes de Docker se acumulan en el disco con el tiempo
+  fr: Docuum est idéal pour des cas d'usage tels que les agents d'intégration continue (CI), les postes de développement ou tout autre environnement où les images Docker s'accumulent sur le disque au fil du temps
+  id: Docuum Ideal untuk kasus penggunaan seperti worker integrasi berkelanjutan (CI), workstation pengembang, atau lingkungan lain tempat image Docker menumpuk di disk seiring waktu
+  it: Docuum è ideale per casi d'uso come worker di integrazione continua (CI), postazioni di sviluppo o qualsiasi altro ambiente in cui le immagini Docker si accumulano sul disco nel tempo
+  ja: Docuum は、継続的インテグレーション (CI) ワーカー、開発者のワークステーション、Disk 上で Docker イメージが増え続ける環境などに最適です
+  ko: Docuum은 지속적 통합(CI) 워커, 개발자 워크스테이션 또는 Docker 이미지가 시간이 지나 디스크에 쌓이는 기타 환경에 이상적입니다
+  pl: Docuum jest idealny do zastosowań takich jak agenci ciągłej integracji (CI), stacje robocze deweloperów lub każde inne środowisko, w którym obrazy Dockera gromadzą się na dysku z czasem
+  pt: O Docuum é ideal para casos de uso como workers de integração contínua (CI), estações de trabalho de desenvolvedores ou qualquer outro ambiente onde as imagens Docker se acumulam no disco ao longo do tempo
+  ro: Docuum este ideal pentru cazuri de utilizare precum workerii de integrare continuă (CI), stațiile de lucru ale dezvoltatorilor sau orice alt mediu în care imaginile Docker se acumulează pe disc în timp
+  ru: Docuum идеально подходит для таких сценариев, как рабочие узлы непрерывной интеграции (CI), рабочие станции разработчиков или любая другая среда, где образы Docker со временем накапливаются на диске
+  th: Docuum เหมาะอย่างยิ่งสำหรับกรณีการใช้งาน เช่น worker ของการผสานรวมต่อเนื่อง (CI), เวิร์กสเตชันของนักพัฒนา หรือสภาพแวดล้อมอื่นใดที่อิมเมจ Docker สะสมบนดิสก์ในตลอดเวลา
+  tr: Docuum, sürekli entegrasyon (CI) işçileri, geliştirici iş istasyonları veya Docker imajlarının zamanla diskte biriktiği diğer ortamlar gibi kullanım senaryoları için idealdir
+  uk: Docuum ідеально підходить для таких сценаріїв, як вузли безперервної інтеграції (CI), робочі станції розробників або будь-яке інше середовище, де образи Docker з часом накопичуються на диску
+  vi: Docuum là lựa chọn lý tưởng cho các trường hợp như worker tích hợp liên tục (CI), máy trạm làm việc của nhà phát triển, hoặc bất kỳ môi trường nào mà ảnh Docker tích tụ trên đĩa theo thời gian
 x:
   source: https://github.com/stepchowfun/docuum
   eget: stepchowfun/docuum

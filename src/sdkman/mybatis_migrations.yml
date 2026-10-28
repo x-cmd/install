@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: MyBatis Migrations 是一个命令行数据库迁移工具
   en: MyBatis Migrations is a command line Database migrations tool
+  cs: MyBatis Migrations je nástroj pro migraci databází z příkazového řádku
+  de: MyBatis Migrations ist ein Kommandozeilen-Tool für Datenbankmigrationen
+  es: MyBatis Migrations es una herramienta de línea de comandos para migraciones de base de datos
+  fr: MyBatis Migrations est un outil en ligne de commande pour les migrations de base de données
+  id: MyBatis Migrations adalah alat migrasi basis data baris perintah
+  it: MyBatis Migrations è uno strumento da riga di comando per le migrazioni di database
+  ja: MyBatis Migrations は、コマンドラインのデータベース移行ツールです
+  ko: MyBatis Migrations는 데이터베이스 마이그레이션을 위한 명령줄 도구입니다
+  pl: MyBatis Migrations to narzędzie wiersza poleceń do migracji baz danych
+  pt: MyBatis Migrations é uma ferramenta de linha de comando para migrações de banco de dados
+  ro: MyBatis Migrations este un instrument de linie de comandă pentru migrări de baze de date
+  ru: MyBatis Migrations — это инструмент командной строки для миграций баз данных
+  th: MyBatis Migrations เป็นเครื่องมือบรรทัดคำสั่งสำหรับการย้ายข้อมูลฐานข้อมูล
+  tr: MyBatis Migrations, veritabanı geçişleri için bir komut satırı aracıdır
+  uk: MyBatis Migrations — це інструмент командного рядка для міграцій баз даних
+  vi: MyBatis Migrations là công cụ dòng lệnh cho việc di trú bảng dữ liệu
 x:
   source: https://github.com/mybatis/migrations
   eget: mybatis/migrations

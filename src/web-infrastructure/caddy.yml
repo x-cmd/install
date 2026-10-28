@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 多功能多平台的 HTTP/1-2-3 Web 服务器
   en: Fast, multi-platform web server with automatic HTTPS
+  cs: Rychlý víceplatformní webový server s automatickým HTTPS
+  de: Schneller, plattformübergreifender Webserver mit automatischem HTTPS
+  es: Servidor web rápido y multiplataforma con HTTPS automático
+  fr: Serveur web rapide et multiplateforme avec HTTPS automatique
+  id: Server web cepat multiplatform dengan HTTPS otomatis
+  it: Server web veloce e multipiattaforma con HTTPS automatico
+  ja: HTTPS を自動設定する高速なマルチプラットフォーム Web サーバー
+  ko: 자동 HTTPS를 지원하는 빠르고 여러 플랫폼에서 동작하는 웹 서버
+  pl: Szybki, wieloplatformowy serwer WWW z automatycznym HTTPS
+  pt: Servidor web rápido e multiplataforma com HTTPS automático
+  ro: Server web rapid și multiplatformă cu HTTPS automat
+  ru: Быстрый кроссплатформенный веб-сервер с автоматическим HTTPS
+  th: เว็บเซิร์ฟเวอร์ที่รวดเร็วและรองรับหลายแพลตฟอร์ม พร้อม HTTPS อัตโนมัติ
+  tr: Otomatik HTTPS destekleyen hızlı, çok platformlu web sunucusu
+  uk: Швидкий кросплатформний веб-сервер з автоматичним HTTPS
+  vi: Máy chủ web nhanh, đa nền tảng với HTTPS tự động
 x:
   source: https://github.com/caddyserver/caddy
   yay: caddy-git

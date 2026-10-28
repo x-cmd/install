@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 开源 AI 引擎,可在任意硬件上运行 LLM、视觉、语音、图像、视频等各类模型,无需 GPU
   en: 'LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.'
+  cs: LocalAI je open-source AI engine. Spusťte libovolný model - LLM, zrakový, hlasový, obrazový, video - na libovolném hardwaru. Není potřeba GPU.
+  de: LocalAI ist die quelloffene KI-Engine. Führen Sie jedes Modell aus - LLMs, Vision, Sprache, Bild, Video - auf beliebiger Hardware. Keine GPU erforderlich.
+  es: "LocalAI es el motor de IA de código abierto. Ejecuta cualquier modelo: LLM, visión, voz, imagen o vídeo, en cualquier hardware. No se requiere GPU."
+  fr: LocalAI est le moteur d'IA open source. Exécutez n'importe quel modèle - LLM, vision, voix, image, vidéo - sur n'importe quel matériel. Aucun GPU requis.
+  id: LocalAI adalah mesin AI open-source. Jalankan model apa pun - LLM, visi, suara, gambar, video - di perangkat keras apa pun. Tidak memerlukan GPU.
+  it: LocalAI è il motore AI open source. Esegui qualsiasi modello - LLM, visione, voce, immagine, video - su qualsiasi hardware. Non è richiesta una GPU.
+  ja: LocalAI はオープンソースの AI エンジンです。任意のモデル - LLM、画像認識、音声、画像、ビデオ - を任意のハードウェアで実行できます。GPU は不要です。
+  ko: LocalAI는 오픈 소스 AI 엔진입니다. 어떤 모델이든 - LLM, 비전, 음성, 이미지, 비디오 - 어떤 하드웨어에서나 실행할 수 있습니다. GPU가 필요 없습니다.
+  pl: LocalAI to otwartoźródłowy silnik AI. Uruchom dowolny model - LLM, wizję, głos, obraz, wideo - na dowolnym sprzęcie. Nie jest wymagana karta GPU.
+  pt: LocalAI é o motor de IA de código aberto. Execute qualquer modelo - LLMs, visão, voz, imagem, vídeo - em qualquer hardware. Nenhuma GPU necessária.
+  ro: LocalAI este motorul AI open source. Rulează orice model - LLM, văz, voce, imagine, video - pe orice hardware. Nu este necesară o placă GPU.
+  ru: LocalAI — это AI-движок с открытым исходным кодом. Запускайте любую модель — LLM, зрение, речь, изображения, видео — на любом оборудовании. GPU не требуется.
+  th: LocalAI คือเอนจิน AI แบบโอเพนซอร์ส รันโมเดลใดก็ได้ - LLM, ภาพ, เสียง, รูปภาพ, วิดีโอ - บนฮาร์ดแวร์ใดก็ได้ ไม่ต้องใช้ GPU
+  tr: LocalAI açık kaynaklı yapay zeka motorudur. Her modeli - LLM, görüntü, ses, resim, video - her türlü donanımda çalıştırın. GPU gerekmez.
+  uk: LocalAI — це AI-двигун з відкритим кодом. Запускайте будь-яку модель — LLM, зір, мовлення, зображення, відео — на будь-якому обладнанні. GPU не потрібен.
+  vi: LocalAI là engine AI mã nguồn mở. Chạy mọi mô hình - LLM, thị giác, giọng nói, hình ảnh, video - trên mọi phần cứng. Không cần GPU.
 x:
   source: https://github.com/mudler/LocalAI
   eget: mudler/LocalAI

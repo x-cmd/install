@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 智能调度优化的终端任务管理器，纯键盘操作
   en: 'Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.'
+  cs: Správce terminálových úkolů s inteligentní optimalizací rozvrhu. Pouze klávesnice. Žádné tažení, žádný dohled.
+  de: Terminal-Aufgabenmanager mit intelligenter Zeitplanoptimierung. Nur Tastatur. Kein Ziehen, kein Mikromanagement.
+  es: Gestor de tareas de terminal con optimización inteligente del horario. Solo teclado. Sin arrastrar, sin micromanagement.
+  fr: Gestionnaire de tâches terminal avec optimisation intelligente de la planification. Au clavier uniquement. Pas de glissement, pas de micro-management.
+  id: Pengelola tugas terminal dengan optimasi jadwal cerdas. Hanya keyboard. Tanpa menyeret, tanpa micromanagement.
+  it: Gestore di attività da terminale con ottimizzazione intelligente della pianificazione. Solo tastiera. Niente trascinamento, nessun micromanagement.
+  ja: インテリジェントなスケジュール最適化機能を備えたターミナルタスクマネージャー。キーボード操作のみ。ドラッグ不要、細かい管理も不要。
+  ko: 지능형 일정 최적화를 갖춘 터미널 작업 관리자. 키보드 전용. 드래그 없음, 과도한 관리 없음.
+  pl: Menedżer zadań terminala z inteligentną optymalizacją harmonogramu. Tylko klawiatura. Bez przeciągania, bez nadmiernego zarządzania.
+  pt: Gerenciador de tarefas de terminal com otimização inteligente de agenda. Somente teclado. Sem arrastar, sem microgerenciamento.
+  ro: Manager de sarcini de terminal cu optimizare inteligentă a programului. Doar tastatură. Fără glisare, fără micromanagement.
+  ru: Менеджер терминальных задач с интеллектуальной оптимизацией расписания. Только клавиатура. Без перетаскивания, без микроменеджмента.
+  th: ตัวจัดการงานเทอร์มินัลพร้อมการเพิ่มประสิทธิภาพตารางเวลาอย่างชาญฉลาด ใช้คีย์บอร์ดเท่านั้น ไม่ต้องลาก ไม่ต้องควบคุมละเอียด
+  tr: Akıllı zamanlama optimizasyonuna sahip terminal görev yöneticisi. Yalnızca klavye. Sürükleme yok, micromanagement yok.
+  uk: Менеджер термінальних завдань з інтелектуальною оптимізацією розкладу. Лише клавіатура. Без перетягування, без мікроменеджменту.
+  vi: Trình quản lý tác vụ terminal với tối ưu hóa lịch thông minh. Chỉ dùng bàn phím. Không kéo thả, không quản lý vi mô.
 x:
   source: https://github.com/Kohei-Wada/taskdog
   eget: Kohei-Wada/taskdog

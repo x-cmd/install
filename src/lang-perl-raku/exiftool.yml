@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: Perl lib for reading and writing EXIF metadata
   cn: 用于读取和写入 EXIF 元数据的 Perl 库
+  cs: Perl knihovna pro čtení a zápis metadat EXIF
+  de: Perl-Bibliothek zum Lesen und Schreiben von EXIF-Metadaten
+  es: Biblioteca de Perl para leer y escribir metadatos EXIF
+  fr: Bibliothèque Perl pour lire et écrire les métadonnées EXIF
+  id: Pustaka Perl untuk membaca dan menulis metadata EXIF
+  it: Libreria Perl per leggere e scrivere metadati EXIF
+  ja: EXIF メタデータを読み書きするための Perl ライブラリ
+  ko: EXIF 메타데이터를 읽고 쓰기 위한 Perl 라이브러리
+  pl: Biblioteka Perl do odczytu i zapisu metadanych EXIF
+  pt: Biblioteca Perl para ler e escrever metadados EXIF
+  ro: Bibliotecă Perl pentru citirea și scrierea metadelor EXIF
+  ru: Библиотека Perl для чтения и записи метаданных EXIF
+  th: ไลบรารี Perl สำหรับอ่านและเขียนเมทาดาทา EXIF
+  tr: EXIF meta verisi okumak ve yazmak için Perl kitaplığı
+  uk: Бібліотека Perl для читання та запису метаданих EXIF
+  vi: Thư viện Perl để đọc và ghi siêu dữ liệu EXIF
 x:
   source: https://github.com/exiftool/exiftool
   scoop: exiftool

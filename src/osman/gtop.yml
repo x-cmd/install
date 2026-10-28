@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: System monitoring dashboard for terminal
   cn: 终端系统监控仪表盘
+  cs: Dashboard pro monitorování systému v terminálu
+  de: Systemüberwachungs-Dashboard für das Terminal
+  es: Panel de monitorización del sistema para terminal
+  fr: Tableau de bord de supervision du système pour le terminal
+  id: Dasbor pemantauan sistem untuk terminal
+  it: Dashboard di monitoraggio del sistema per terminale
+  ja: ターミナル向けのシステムモニタリングダッシュボード
+  ko: 터미널용 시스템 모니터링 대시보드
+  pl: Panel monitorowania systemu dla terminala
+  pt: Painel de monitoramento do sistema para terminal
+  ro: Panou de monitorizare a sistemului pentru terminal
+  ru: Панель мониторинга системы для терминала
+  th: แดชบอร์ดติดตามระบบสำหรับเทอร์มินัล
+  tr: Terminal için sistem izleme panosu
+  uk: Панель моніторингу системи для термінала
+  vi: Bảng điều khiển giám sát hệ thống cho terminal
 x:
   source: https://github.com/aksakalli/gtop
   npm: gtop

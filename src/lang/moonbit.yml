@@ -3,6 +3,22 @@ homepage: https://www.moonbitlang.com/
 desc:
   cn: MoonBit 是一个用于云计算和边缘计算的 WebAssembly 端到端的编程语言工具链
   en: MoonBit is an end-to-end programming language toolchain for cloud and edge computing using WebAssembly
+  cs: MoonBit je kompletní sada nástrojů programovacího jazyka pro cloudové a edgeové výpočty s využitím WebAssembly
+  de: MoonBit ist eine durchgängige Programiersprache-Toolchain für Cloud- und Edge-Computing mit WebAssembly
+  es: MoonBit es una cadena de herramientas completa de lenguaje de programación para computación en la nube y en el borde con WebAssembly
+  fr: MoonBit est une chaîne d'outils de langage de programmation de bout en bout pour le cloud et l'inférence en périphérie utilisant WebAssembly
+  id: MoonBit adalah toolchain bahasa pemrograman ujung-ke-ujung untuk komputasi cloud dan edge dengan WebAssembly
+  it: MoonBit è una toolchain completa per linguaggi di programmazione per il cloud computing e l'edge computing basata su WebAssembly
+  ja: MoonBit は WebAssembly を利用したクラウドおよびエッジコンピューティング向けのエンドツーエンドのプログラミング言語ツールチェーンです
+  ko: MoonBit는 WebAssembly를 사용하는 클라우드 및 엣지 컴퓨팅용 엔드투엔드 프로그래밍 언어 툴체인입니다
+  pl: MoonBit to kompletny łańcuch narzędzi języka programowania do obliczeń chmurowych i brzegowych oparty na WebAssembly
+  pt: MoonBit é um conjunto de ferramentas de linguagem de programação de ponta a ponta para computação em nuvem e na borda usando WebAssembly
+  ro: MoonBit este un lanț de instrumente pentru limbajul de programare, de la un capăt la altul, pentru calcul în cloud și la margine, bazat pe WebAssembly
+  ru: MoonBit — полноценный инструментарий языка программирования для облачных и периферийных вычислений на базе WebAssembly
+  th: MoonBit เป็นชุดเครื่องมือภาษาโปรแกรมแบบครบวงจรสำหรับการประมวลผลแบบคลาวด์และเอดจ์ด้วย WebAssembly
+  tr: MoonBit, WebAssembly kullanarak bulut ve uç bilişim için uçtan uca programlama dili araç zinciridir
+  uk: MoonBit — наскрізний інструментарій мови програмування для хмарних та периферійних обчислень на базі WebAssembly
+  vi: MoonBit là bộ công cụ ngôn ngữ lập trình end-to-end cho điện toán đám mây và biên, dựa trên WebAssembly
 rule:
   arch/yay:
     cmd: yay -S moonbit-bin

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: oma (Oh My Ailurus) 是 liBapt-pkg 的包管理器前端
   en: oma (Oh My Ailurus) is a package manager frontend for libapt-pkg
+  cs: oma (Oh My Ailurus) je frontend správce balíčků pro libapt-pkg
+  de: oma (Oh My Ailurus) ist ein Frontend für den Paketmanager libapt-pkg
+  es: oma (Oh My Ailurus) es una interfaz para el gestor de paquetes libapt-pkg
+  fr: oma (Oh My Ailurus) est une interface pour le gestionnaire de paquets libapt-pkg
+  id: oma (Oh My Ailurus) adalah antarmuka untuk pengelola paket libapt-pkg
+  it: oma (Oh My Ailurus) è un frontend per il gestore di pacchetti libapt-pkg
+  ja: oma (Oh My Ailurus) は libapt-pkg のパッケージマネージャフロントエンドです
+  ko: oma (Oh My Ailurus)는 libapt-pkg의 패키지 관리자 프론트엔드입니다
+  pl: oma (Oh My Ailurus) to frontend menedżera pakietów libapt-pkg
+  pt: oma (Oh My Ailurus) é um frontend para o gerenciador de pacotes libapt-pkg
+  ro: oma (Oh My Ailurus) este un frontend pentru managerul de pachete libapt-pkg
+  ru: oma (Oh My Ailurus) — это фронтенд для менеджера пакетов libapt-pkg
+  th: oma (Oh My Ailurus) เป็นส่วนหน้าสำหรับตัวจัดการแพ็กเกจ libapt-pkg
+  tr: oma (Oh My Ailurus), libapt-pkg paket yöneticisi için bir ön uçtır
+  uk: oma (Oh My Ailurus) — це фронтенд для менеджера пакетів libapt-pkg
+  vi: oma (Oh My Ailurus) là giao diện cho trình quản lý gói libapt-pkg
 x:
   source: https://github.com/aosc-dev/oma
   eget: aosc-dev/oma

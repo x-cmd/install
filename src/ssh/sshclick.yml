@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于 Python 和 Click 框架、配 Rich 与 Textual UI 的 SSH 配置终端管理器
   en: 'SSH Config terminal manager based on Python and Click framework with Rich and Textual UI'
+  cs: Správce konfigurace SSH v terminálu založený na Pythonu a frameworku Click s rozhraním Rich a Textual
+  de: SSH-Konfigurations-Terminalmanager auf Basis von Python und dem Click-Framework mit Rich- und Textual-Oberfläche
+  es: Gestor de configuración SSH de terminal basado en Python y el framework Click con interfaz Rich y Textual
+  fr: Gestionnaire de configuration SSH en terminal basé sur Python et le framework Click avec une interface Rich et Textual
+  id: Pengelola konfigurasi SSH terminal berbasis Python dan framework Click dengan UI Rich dan Textual
+  it: Gestore della configurazione SSH da terminale basato su Python e sul framework Click con interfaccia Rich e Textual
+  ja: Python と Click フレームワークを基盤に Rich と Textual UI を備えた SSH 設定端末マネージャー
+  ko: Python과 Click 프레임워크를 기반으로 Rich 및 Textual UI를 갖춘 SSH 설정 터미널 관리자
+  pl: Terminalowy menedżer konfiguracji SSH oparty na Pythonie i frameworku Click z interfejsem Rich i Textual
+  pt: Gerenciador de configuração SSH de terminal baseado em Python e no framework Click com UI Rich e Textual
+  ro: Manager de configurație SSH în terminal bazat pe Python și frameworkul Click cu interfață Rich și Textual
+  ru: Терминальный менеджер конфигурации SSH на основе Python и фреймворка Click с интерфейсом Rich и Textual
+  th: ตัวจัดการการตั้งค่า SSH ในเทอร์มินัล สร้างด้วย Python และเฟรมเวิร์ก Click พร้อม UI ของ Rich และ Textual
+  tr: Rich ve Textual arayüzüyle Python ve Click framework üzerine kurulmuş SSH yapılandırma terminal yöneticisi
+  uk: Термінальний менеджер конфігурації SSH на основі Python та фреймворку Click з інтерфейсом Rich і Textual
+  vi: Trình quản lý cấu hình SSH trong terminal dựa trên Python và framework Click với giao diện Rich và Textual
 x:
   source: https://github.com/karlot/sshclick
   eget: karlot/sshclick

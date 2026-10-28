@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: bash-completion  是 Bash Shell 的命令行命令完成的集合
   en: bash-completion is a collection of command line command completions for the Bash shell,
+  cs: bash-completion je sbírka dokončování příkazů příkazové řádky pro shell Bash
+  de: bash-completion ist eine Sammlung von Befehlszeilen-Completion für die Bash-Shell
+  es: bash-completion es una colección de completados de comandos de línea de comandos para el shell Bash
+  fr: bash-completion est une collection de complétions de commandes en ligne de commande pour le shell Bash
+  id: bash-completion adalah kumpulan penyelesaian perintah baris perintah untuk shell Bash
+  it: bash-completion è una raccolta di completamenti dei comandi da riga di comando per la shell Bash
+  ja: bash-completion は Bash シェルのためのコマンドライン補完集です
+  ko: bash-completion은 Bash 셸을 위한 명령줄 완성 모음입니다
+  pl: bash-completion to zbiór uzupełniania poleceń wiersza poleceń dla powłoki Bash
+  pt: bash-completion é uma coleção de completação de comandos de linha de comando para o shell Bash
+  ro: bash-completion este o colecție de completări de comenzi pentru shell-ul Bash
+  ru: bash-completion — набор дополнений командной строки для оболочки Bash
+  th: bash-completion คือชุดการเติมคำสั่งบรรทัดคำสั่งสำหรับเชลล์ Bash
+  tr: bash-completion, Bash kabuğu için komut satırı tamamlama koleksiyonudur
+  uk: bash-completion — набір доповнень командного рядка для оболонки Bash
+  vi: bash-completion là bộ sưu tập hoàn thiện lệnh dòng lệnh cho shell Bash
 x:
   source: https://github.com/scop/bash-completion
   eget: scop/bash-completion

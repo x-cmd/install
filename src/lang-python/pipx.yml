@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 在隔离环境中安装和运行 Python 应用程序
   en: Install and Run Python Applications in Isolated Environments
+  cs: Instalovat a spouštět aplikace Python v izolovaných prostředích
+  de: Python-Anwendungen in isolierten Umgebungen installieren und ausführen
+  es: Instalar y ejecutar aplicaciones Python en entornos aislados
+  fr: Installer et exécuter des applications Python dans des environnements isolés
+  id: Memasang dan menjalankan aplikasi Python di lingkungan terisolasi
+  it: Installa ed esegui applicazioni Python in ambienti isolati
+  ja: 隔離された環境で Python アプリケーションをインストールして実行します
+  ko: 격리된 환경에서 Python 애플리케이션을 설치하고 실행합니다
+  pl: Instalowanie i uruchamianie aplikacji Pythona w izolowanych środowiskach
+  pt: Instalar e executar aplicativos Python em ambientes isolados
+  ro: Instalează și rulează aplicații Python în medii izolate
+  ru: Установка и запуск приложений Python в изолированных средах
+  th: ติดตั้งและรันแอปพลิเคชัน Python ในสภาพแวดล้อมที่แยกขาด
+  tr: Python uygulamalarını izole ortamlarda kurmak ve çalıştırmak
+  uk: Встановлення та запуск застосунків Python в ізольованих середовищах
+  vi: Cài đặt và chạy các ứng dụng Python trong môi trường cô lập
 x:
   source: https://github.com/pypa/pipx
   eget: pypa/pipx

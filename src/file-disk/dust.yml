@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: '`du` 命令的现代化替代品， 用于查看磁盘空间使用情况'
   en: A modern alternative to the `du` command, used to view disk space usage
+  cs: Moderní alternativa k příkazu `du`, která se používá k zobrazení využití diskového prostoru
+  de: Eine moderne Alternative zum Befehl `du`, die zum Anzeigen des Datenträgerplatzbedarfs verwendet wird
+  es: Una alternativa moderna al comando `du`, que se usa para ver el uso del espacio en disco
+  fr: Une alternative moderne à la commande `du`, utilisée pour consulter l'utilisation de l'espace disque
+  id: Alternatif modern untuk perintah `du`, digunakan untuk melihat penggunaan ruang disk
+  it: Un'alternativa moderna al comando `du`, usata per visualizzare l'uso dello spazio disco
+  ja: "`du` コマンドのモダンな代替品で、ディスク容量の使用状況を表示するために使われます"
+  ko: "`du` 명령의 현대적인 대안으로, 디스크 공간 사용량을 확인하는 데 사용됩니다"
+  pl: Nowoczesna alternatywa dla polecenia `du`, używana do przeglądania wykorzystania miejsca na dysku
+  pt: Uma alternativa moderna ao comando `du`, usada para ver o uso de espaço em disco
+  ro: O alternativă modernă la comanda `du`, folosită pentru a vedea utilizarea spațiului pe disc
+  ru: Современная альтернатива команде `du`, используемая для просмотра использования дискового пространства
+  th: ทางเลือกสมัยใหม่ของคำสั่ง `du` ใช้ดูการใช้พื้นที่ดิสก์
+  tr: "`du` komutuna modern bir alternatiftir; disk alanı kullanımını görüntülemek için kullanılır"
+  uk: Сучасна альтернатива команді `du`, яка використовується для перегляду використання дискового простору
+  vi: Một giải pháp thay thế hiện đại cho lệnh `du`, dùng để xem mức sử dụng dung lượng đĩa
 x:
   source: https://github.com/bootandy/dust
   eget: bootandy/dust

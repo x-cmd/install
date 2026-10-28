@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   en: Ncurses UI for QEMU
   cn: QEMU 的 Ncurses UI
+  cs: Ncurses UI pro QEMU
+  de: Ncurses-UI für QEMU
+  es: Interfaz de usuario Ncurses para QEMU
+  fr: Interface utilisateur Ncurses pour QEMU
+  id: Antarmuka Ncurses untuk QEMU
+  it: Interfaccia utente Ncurses per QEMU
+  ja: QEMU の Ncurses UI
+  ko: QEMU를 위한 Ncurses UI
+  pl: Interfejs Ncurses dla QEMU
+  pt: Interface de usuário Ncurses para QEMU
+  ro: Interfață Ncurses pentru QEMU
+  ru: Ncurses UI для QEMU
+  th: ส่วนติดต่อผู้ใช้ Ncurses สำหรับ QEMU
+  tr: QEMU için Ncurses arayüzü
+  uk: Ncurses UI для QEMU
+  vi: Giao diện Ncurses cho QEMU
 x:
   source: https://github.com/nemuTUI/nemu
   brew: nemu

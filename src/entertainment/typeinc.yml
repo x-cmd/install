@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Typeinc 是一个基于 ncurses 的炫酷打字速度测试工具，允许你在终端中享受打字体验，并提供不同的难度等级。
   en: Typeinc is a cool ncurses based Typing Speed Test tool where you can enjoy typing experience in Terminal with different difficulty levels.
+  cs: Typeinc je cool test rychlosti psaní založený na ncurses, ve kterém si v terminálu užijete psaní s různými úrovněmi obtížnosti.
+  de: Typeinc ist ein cooler, auf ncurses basierender Tippgeschwindigkeitstest, mit dem Sie im Terminal tippen und verschiedene Schwierigkeitsgrade genießen können.
+  es: Typeinc es una cool prueba de velocidad de escritura basada en ncurses donde puedes disfrutar escribiendo en la terminal con distintos niveles de dificultad.
+  fr: Typeinc est un cool test de vitesse de frappe basé sur ncurses, où vous pouvez profiter de la frappe dans le terminal avec différents niveaux de difficulté.
+  id: Typeinc adalah alat uji kecepatan mengetik keren berbasis ncurses tempat Anda dapat menikmati pengalaman mengetik di Terminal dengan berbagai tingkat kesulitan.
+  it: Typeinc è un divertente test di velocità di scrittura basato su ncurses, dove puoi divertirti a scrivere nel terminale con diversi livelli di difficoltà.
+  ja: Typeinc は ncurses ベースのクールなタイピング速度テストで、難易度が異なるオプションでターミナルでの入力体験を楽しめます。
+  ko: Typeinc는 ncurses 기반의 멋진 타이핑 속도 테스트로, 다양한 난이도로 터미널에서 타이핑을즐길 수 있습니다.
+  pl: Typeinc to fajny test prędkości pisania oparty na ncurses, w którym możesz cieszyć się pisaniem w terminalu przy różnych poziomach trudności.
+  pt: Typeinc é um legal teste de velocidade de digitação baseado em ncurses, onde você pode aproveitar a experiência de digitar no terminal com diferentes níveis de dificuldade.
+  ro: Typeinc este un test cool de viteză de scriere bazat pe ncurses, în care te poți bucura de scriere în terminal cu diferite niveluri de dificultate.
+  ru: Typeinc — это крутой тест скорости набора текста на базе ncurses, где можно наслаждаться набором в терминале с разными уровнями сложности.
+  th: Typeinc คือเครื่องมือทดสอบความเร็วในการพิมพ์ที่สนุกแบบ ncurses ซึ่งให้คุณสนุกกับการพิมพ์ในเทอร์มินัลพร้อมระดับความยากต่าง ๆ
+  tr: Typeinc, ncurses tabanlı eğlenceli bir yazma hızı testidir; terminalde farklı zorluk seviyeleriyle yazma deneyimini yaşayabilirsiniz.
+  uk: Typeinc — це крутий тест швидкості набору тексту на основі ncurses, де ви можете насолоджуватися набором у терміналі з різними рівнями складності.
+  vi: Typeinc là công cụ kiểm tra tốc độ gõ phím thú vị dựa trên ncurses, cho phép bạn tận hưởng trải nghiệm gõ phím trong Terminal với nhiều mức độ khó khác nhau
 x:
   source: https://github.com/AnirudhG07/typeinc
   eget: AnirudhG07/typeinc

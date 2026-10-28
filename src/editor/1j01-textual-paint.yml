@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 在终端里复刻 MS Paint 的字符艺术编辑器，基于 Textual 框架
   en: ':art: MS Paint in your terminal.'
+  cs: ":art: MS Paint ve vašem terminálu."
+  de: ":art: MS Paint in Ihrem Terminal."
+  es: ":art: MS Paint en tu terminal."
+  fr: ":art: MS Paint dans votre terminal."
+  id: ":art: MS Paint di terminal Anda."
+  it: ":art: MS Paint nel tuo terminale."
+  ja: ":art: 端末で MS Paint。"
+  ko: ":art: 터미널에서 MS Paint."
+  pl: ":art: MS Paint w Twoim terminalu."
+  pt: ":art: MS Paint no seu terminal."
+  ro: ":art: MS Paint în terminalul tău."
+  ru: ":art: MS Paint в вашем терминале."
+  th: ":art: MS Paint ในเทอร์มินัลของคุณ"
+  tr: ":art: Terminalinizde MS Paint."
+  uk: ":art: MS Paint у вашому терміналі."
+  vi: ":art: MS Paint trong terminal của bạn."
 rule:
   /pip:
     cmd: pip install textual-paint

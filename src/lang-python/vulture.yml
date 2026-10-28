@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 查找无效的 Python 代码
   en: Find dead Python code
+  cs: Najít mrtvý Python kód
+  de: Toten Python-Code finden
+  es: Encontrar código Python muerto
+  fr: Trouver le code Python mort
+  id: Temukan kode Python yang mati
+  it: Trova codice Python morto
+  ja: 使用されていない Python コードを見つける
+  ko: 사용하지 않는 Python 코드 찾기
+  pl: Znajdź martwy kod Pythona
+  pt: Encontrar código Python morto
+  ro: Găsește cod Python mort
+  ru: Найти неиспользуемый код Python
+  th: ค้นหาโค้ด Python ที่ไม่ได้ใช้งาน
+  tr: Ölü Python kodunu bulun
+  uk: Знайти мертвий код Python
+  vi: Tìm mã Python chết
 x:
   source: https://github.com/jendrikseipp/vulture
   pip: vulture

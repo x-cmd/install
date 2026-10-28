@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 受信任的加密 TOTP/HOTP 身份验证器，具有导入功能。
   en: trusted, encrypted, TOTP/HOTP authenticator with import functionality.
+  cs: Důvěryhodný, šifrovaný TOTP/HOTP autentifikátor s funkcí importu.
+  de: Vertrauenswürdiger, verschlüsselter TOTP/HOTP-Authenticator mit Importfunktion.
+  es: Autenticador TOTP/HOTP confiable y cifrado con función de importación.
+  fr: Authentificateur TOTP/HOTP de confiance et chiffré, avec fonction d'importation.
+  id: Autentikator TOTP/HOTP yang tepercaya dan terenkripsi dengan fungsi impor.
+  it: Autenticatore TOTP/HOTP sicuro e cifrato con funzionalità di importazione.
+  ja: インポート機能を備えた、信頼性が高く暗号化された TOTP/HOTP 認証アプリです。
+  ko: 신뢰할 수 있고 암호화된 TOTP/HOTP 인증기이며 가져오기 기능을 지원합니다.
+  pl: Zaufany, szyfrowany autentykator TOTP/HOTP z funkcją importu.
+  pt: Autenticador TOTP/HOTP confiável e criptografado com funcionalidade de importação.
+  ro: Autentificator TOTP/HOTP de încredere, criptat, cu funcționalitate de import.
+  ru: Надёжный зашифрованный аутентификатор TOTP/HOTP с функцией импорта.
+  th: ตัวรับรองสัญญาณ TOTP/HOTP ที่เชื่อถือได้และเข้ารหัส พร้อมความสามารถในการนำเข้า
+  tr: İçe aktarma özelliğine sahip, güvenilir ve şifrelenmiş TOTP/HOTP kimlik doğrulayıcı.
+  uk: Достовірний, зашифрований аутентифікатор TOTP/HOTP з функцією імпорту.
+  vi: Trình xác thực TOTP/HOTP đáng tin cậy, được mã hóa, có chức năng nhập.
 x:
   source: https://github.com/replydev/cotp
   eget: replydev/cotp

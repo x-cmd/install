@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 通过终端自然语言命令查询、创建与管理 AWS、Kubernetes 等云基础设施
   en: Query, create, and manage cloud infrastructure on AWS, Kubernetes, and more using natural language commands from your terminal.
+  cs: Dotazujte, vytvářejte a spravujte cloudovou infrastrukturu na AWS, Kubernetes a dalších pomocí přirozených jazykových příkazů z terminálu.
+  de: Fragen Sie cloudbasierte Infrastruktur auf AWS, Kubernetes und mehr über natürliche Sprachbefehle aus Ihrem Terminal ab, erstellen und verwalten Sie sie.
+  es: Consulta, crea y gestiona infraestructura en la nube en AWS, Kubernetes y más mediante comandos en lenguaje natural desde tu terminal.
+  fr: Interrogez, créez et gérez l'infrastructure cloud sur AWS, Kubernetes et plus encore à l'aide de commandes en langage naturel depuis votre terminal.
+  id: Kueri, buat, dan kelola infrastruktur cloud di AWS, Kubernetes, dan lainnya menggunakan perintah bahasa alami dari terminal Anda.
+  it: Interroga, crea e gestisci l'infrastruttura cloud su AWS, Kubernetes e altro usando comandi in linguaggio naturale dal terminale.
+  ja: ターミナルから自然言語コマンドで AWS、Kubernetes などのクラウドインフラを照会・作成・管理します。
+  ko: 터미널에서 자연어 명령으로 AWS, Kubernetes 등의 클라우드 인프라를 조회, 생성 및 관리합니다.
+  pl: Zapytuj, twórz i zarządzaj infrastrukturą chmurową w AWS, Kubernetes i nie tylko, używając poleceń w języku naturalnym z terminala.
+  pt: Consulte, crie e gerencie a infraestrutura de nuvem na AWS, Kubernetes e mais usando comandos em linguagem natural a partir do seu terminal.
+  ro: Interogați, creați și administrați infrastructura cloud pe AWS, Kubernetes și altele folosind comenzi în limbaj natural din terminalul dumneavoastră.
+  ru: Запрашивайте, создавайте и управляйте облачной инфраструктурой в AWS, Kubernetes и других сервисах с помощью команд на естественном языке из терминала.
+  th: สอบถาม สร้าง และจัดการโครงสร้างพื้นฐานคลาวด์บน AWS, Kubernetes และอื่น ๆ ด้วยคำสั่งภาษาธรรมชาติจากเทอร์มินัลของคุณ
+  tr: Terminalinizden doğal dil komutlarıyla AWS, Kubernetes ve daha fazlası üzerindeki bulut altyapısını sorgulayın, oluşturun ve yönetin.
+  uk: Запитуйте, створюйте та керуйте хмарною інфраструктурою в AWS, Kubernetes та інших за допомогою команд природною мовою з термінала.
+  vi: Truy vấn, tạo và quản lý hạ tầng đám mây trên AWS, Kubernetes và nhiều hơn nữa bằng các lệnh ngôn ngữ tự nhiên từ terminal của bạn.
 x:
   source: https://github.com/bgdnvk/clanker
   eget: bgdnvk/clanker

@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/gawk.git
 desc:
   en: The awk utility interprets a special-purpose programming language that makes it possible to handle simple data-reformatting jobs with just a few lines of code
   cn: Awk 实用程序解释了一种特殊用途的编程语言，它可以用几行代码处理简单的数据重新格式化工作
+  cs: Nástroj awk interpretuje specializovaný programovací jazyk, který umožňuje zvládnout jednoduché úlohy s přeformátováním dat jen pomocí několika řádků kódu
+  de: Das awk-Werkzeug interpretiert eine spezialisierte Programmiersprache, die es ermöglicht, einfache Aufgaben zur Umformatierung von Daten mit nur wenigen Codezeilen zu erledigen
+  es: La utilidad awk interpreta un lenguaje de programación de propósito especial que permite manejar tareas sencillas de reformateo de datos con solo unas pocas líneas de código
+  fr: L'utilitaire awk interprète un langage de programmation à usage spécial qui permet de gérer des tâches simples de reformatage de données en quelques lignes de code seulement
+  id: Utilitas awk menginterpretasikan bahasa pemrograman khusus yang memungkinkan penanganan tugas pemformatan ulang data sederhana hanya dengan beberapa baris kode
+  it: L'utilità awk interpreta un linguaggio di programmazione specialistico che consente di gestire semplici attività di riformattazione dei dati con poche righe di codice
+  ja: awk ユーティリティは、ほんの数行のコードで簡単なデータ整形の作業を扱える専用プログラミング言語を解釈します
+  ko: awk 유틸리티는 몇 줄의 코드만으로 간단한 데이터 재형식화 작업을 처리할 수 있는 특수 목적 프로그래밍 언어를 해석합니다
+  pl: Narzędzie awk interpretuje specjalistyczny język programowania, który pozwala wykonywać proste zadania przeformatowywania danych zaledwie kilkoma liniami kodu
+  pt: O utilitário awk interpreta uma linguagem de programação de uso especial que permite lidar com tarefas simples de reformatação de dados com apenas algumas linhas de código
+  ro: Utilitarul awk interpretează un limbaj de programare de uz special, care permite gestionarea unor sarcini simple de reformatare a datelor cu doar câteva linii de cod
+  ru: Утилита awk интерпретирует специализированный язык программирования, позволяющий выполнять простые задачи по переформатированию данных всего несколькими строками кода
+  th: ยูทิลิตี awk ตีความภาษาโปรแกรมเฉพาะทางที่ช่วยให้จัดการงานจัดรูปแบบข้อมูลอย่างง่ายดายได้ด้วยเพียงไม่กี่บรรทัดของโค้ด
+  tr: awk aracı, basit veri yeniden biçimlendirme işlerini yalnızca birkaç satır kodla ele almayı mümkün kılan özel amaçlı bir programlama dilini yorumlar
+  uk: Утиліта awk інтерпретує спеціалізований мову програмування, яка дозволяє виконувати прості завдання з переформатування даних лише кількома рядками коду
+  vi: Tiện ích awk diễn giải một ngôn ngữ lập trình chuyên dụng giúp xử lý các tác vụ định dạng lại dữ liệu đơn giản chỉ với vài dòng mã
 rule:
   darwin/brew:
     cmd: brew install gawk

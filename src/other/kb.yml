@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 极简的命令行知识库管理器
   en: A minimalist command line knowledge base manager
+  cs: Minimální správce znalostní báze pro příkazovou řádku
+  de: Ein minimalistischer Knowledge-Base-Manager für die Kommandozeile
+  es: Un gestor minimalista de bases de conocimiento para la línea de comandos
+  fr: Un gestionnaire de base de connaissances minimaliste en ligne de commande
+  id: Manajer basis pengetahuan baris perintah yang minimalistis
+  it: Un gestore di base di conoscenza minimalista da riga di comando
+  ja: ミニマルなコマンドラインのナレッジベースマネージャー
+  ko: 미니멀한 명령줄 지식 베이스 관리자
+  pl: Minimalistyczny menedżer bazy wiedzy dla wiersza poleceń
+  pt: Um gerenciador de base de conhecimento minimalista de linha de comando
+  ro: Un manager minimalist de bază de cunoștințe pentru linia de comandă
+  ru: Минималистичный менеджер базы знаний для командной строки
+  th: ตัวจัดการฐานความรู้แบบเรียบง่ายสำหรับบรรทัดคำสั่ง
+  tr: Minimalist bir komut satırı bilgi tabanı yöneticisi
+  uk: Мінімалістичний менеджер бази знань для командного рядка
+  vi: Trình quản lý cơ sở tri thức tối giản cho dòng lệnh
 x:
   source: https://github.com/gnebbia/kb
   brew: gnebbia/kb/kb

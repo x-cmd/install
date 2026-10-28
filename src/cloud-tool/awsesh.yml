@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: AWS 会话与凭证管理器及 SDK
   en: 'An AWS session and credential manager and SDK ✨'
+  cs: Správce relací a přihlašovacích údajů AWS a SDK
+  de: AWS-Sitzungs- und Anmeldeinformationsverwaltung und SDK
+  es: Un gestor de sesión y credenciales de AWS y un SDK
+  fr: Un gestionnaire de session et d'identifiants AWS et un SDK
+  id: Pengelola sesi dan kredensial AWS beserta SDK-nya
+  it: Un gestore di sessioni e credenziali AWS e un SDK
+  ja: AWS セッションと資格情報のマネージャーおよび SDK
+  ko: AWS 세션 및 자격 증명 관리자이자 SDK
+  pl: Menedżer sesji i poświadczeń AWS oraz SDK
+  pt: Um gerenciador de sessão e credenciais da AWS e um SDK
+  ro: Un manager de sesiune și credențiale AWS și un SDK
+  ru: Менеджер сессий и учётных данных AWS, а также SDK
+  th: ตัวจัดการเซสชันและข้อมูลรับรองของ AWS พร้อม SDK
+  tr: AWS oturum ve kimlik bilgisi yöneticisi ve SDK
+  uk: Менеджер сесій та облікових даних AWS, а також SDK
+  vi: Trình quản lý phiên và thông tin xác thực AWS cùng SDK
 x:
   source: https://github.com/elva-labs/awsesh
   eget: elva-labs/awsesh

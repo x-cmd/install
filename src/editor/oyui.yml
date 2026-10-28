@@ -3,6 +3,22 @@ homepage: https://github.com/emilien-jegou/oyui
 desc:
   cn: 面向 Jujutsu (jj) 和 Git 的现代 TUI 合并工具与交互式 diff 编辑器
   en: Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
+  cs: Moderní TUI nástroj pro slučování a interaktivní editor diffů pro Jujutsu (jj) a Git
+  de: Modernes TUI-Merge-Tool und interaktiver Diff-Editor für Jujutsu (jj) und Git
+  es: Herramienta de fusión TUI moderna y editor de diferencias interactivo para Jujutsu (jj) y Git
+  fr: Outil de fusion TUI moderne et éditeur de différences interactif pour Jujutsu (jj) et Git
+  id: Alat penggabungan TUI modern dan editor diff interaktif untuk Jujutsu (jj) dan Git
+  it: Moderno strumento di merge TUI ed editor diff interattivo per Jujutsu (jj) e Git
+  ja: Jujutsu (jj) と Git 向けのモダンな TUI マージツール兼インタラクティブ diff エディタ
+  ko: Jujutsu (jj) 및 Git을 위한 현대적인 TUI 병합 도구이자 대화형 diff 편집기
+  pl: Nowoczesne narzędzie do scalania w TUI i interaktywny edytor diffów dla Jujutsu (jj) i Git
+  pt: Ferramenta de mesclagem TUI moderna e editor de diff interativo para Jujutsu (jj) e Git
+  ro: Instrument modern de îmbinare TUI și editor interactiv de diferențe pentru Jujutsu (jj) și Git
+  ru: Современный TUI-инструмент для слияния и интерактивный редактор diff для Jujutsu (jj) и Git
+  th: เครื่องมือรวมแบบ TUI สมัยใหม่และตัวแก้ไข diff แบบโต้ตอบสำหรับ Jujutsu (jj) และ Git
+  tr: Jujutsu (jj) ve Git için modern TUI birleştirme aracı ve etkileşimli diff düzenleyici
+  uk: Сучасний TUI-інструмент для злиття та інтерактивний редактор diff для Jujutsu (jj) і Git
+  vi: Công cụ hợp nhất TUI hiện đại và trình chỉnh sửa diff tương tác cho Jujutsu (jj) và Git
 x:
   source: https://github.com/emilien-jegou/oyui
   eget: emilien-jegou/oyui

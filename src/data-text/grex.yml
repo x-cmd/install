@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 命令行工具和 Rust 库，用于从用户提供的测试用例生成正则表达式
   en: A command-line tool and Rust library for generating regular expressions from user-provided test cases
+  cs: Nástroj příkazové řádky a knihovna Rust pro generování regulárních výrazů z uživatelem poskytnutých testovacích případů
+  de: Ein Kommandozeilenwerkzeug und eine Rust-Bibliothek zum Generieren von regulären Ausdrücken aus vom Benutzer bereitgestellten Testfällen
+  es: Una herramienta de línea de comandos y una biblioteca de Rust para generar expresiones regulares a partir de casos de prueba proporcionados por el usuario
+  fr: Un outil en ligne de commande et une bibliothèque Rust pour générer des expressions régulières à partir de cas de test fournis par l'utilisateur
+  id: Alat baris perintah dan pustaka Rust untuk membuat regex dari kasus uji yang diberikan pengguna
+  it: Uno strumento a riga di comando e una libreria Rust per generare espressioni regolari da casi di test forniti dall'utente
+  ja: ユーザー提供のテストケースから正規表現を生成するコマンドラインツールと Rust ライブラリ
+  ko: 사용자가 제공한 테스트 케이스로부터 정규식을 생성하는 명령줄 도구이자 Rust 라이브러리
+  pl: Narzędzie wiersza poleceń i biblioteka Rust do generowania wyrażeń regularnych z podanych przez użytkownika przypadków testowych
+  pt: Uma ferramenta de linha de comando e uma biblioteca Rust para gerar expressões regulares a partir de casos de teste fornecidos pelo usuário
+  ro: Un instrument de linie de comandă și o bibliotecă Rust pentru generarea expresiilor regulate din cazuri de test furnizate de utilizator
+  ru: Инструмент командной строки и библиотека Rust для генерации регулярных выражений из предоставленных пользователем тестовых случаев
+  th: เครื่องมือบรรทัดคำสั่งและไลบรารี Rust สำหรับสร้างนิพจน์ทั่วไปจากกรณีทดสอบที่ผู้ใช้ให้มา
+  tr: Kullanıcı tarafından sağlanan test durumlarından düzenli ifadeler üretmek için bir komut satırı aracı ve Rust kitaplığı
+  uk: Інструмент командного рядка та бібліотека Rust для генерації регулярних виразів із наданих користувачем тестових випадків
+  vi: Công cụ dòng lệnh và thư viện Rust để tạo biểu thức chính quy từ các bộ test do người dùng cung cấp
 x:
   source: https://github.com/pemistahl/grex
   eget: pemistahl/grex

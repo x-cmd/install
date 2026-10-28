@@ -4,6 +4,22 @@ lang: JavaScript
 desc:
   en: A CLI for running TypeScript and ESM seamlessly (tsx is a standalone binary designed to replace node)
   cn: 一个用于无缝运行 TypeScript 和 ESM 的 CLI（tsx 是一个独立的二进制文件，设计用于替代 node）
+  cs: CLI pro bezproblémové spouštění TypeScriptu a ESM (tsx je samostatný binární soubor navržený jako náhrada za node)
+  de: CLI zum nahtlosen Ausführen von TypeScript und ESM (tsx ist eine eigenständige Binärdatei, die node ersetzen soll)
+  es: Una CLI para ejecutar TypeScript y ESM sin problemas (tsx es un binario independiente diseñado para reemplazar a node)
+  fr: Un CLI pour exécuter TypeScript et ESM sans friction (tsx est un binaire autonome conçu pour remplacer node)
+  id: CLI untuk menjalankan TypeScript dan ESM dengan mulus (tsx adalah biner mandiri yang dirancang untuk menggantikan node)
+  it: Una CLI per eseguire TypeScript ed ESM senza intoppi (tsx è un binario autonomo progettato per sostituire node)
+  ja: TypeScript と ESM をシームレスに実行する CLI（tsx は node の代替として設計された単独バイナリです）
+  ko: TypeScript와 ESM을 매끄럽게 실행하기 위한 CLI(tsx는 node를 대체하도록 설계된 독립형 바이너리입니다)
+  pl: CLI do bezproblemowego uruchamiania TypeScript i ESM (tsx to samodzielny plik binarny zaprojektowany jako zamiennik node)
+  pt: Uma CLI para executar TypeScript e ESM de forma contínua (tsx é um binário independente projetado para substituir o node)
+  ro: Un CLI pentru rularea fără probleme a TypeScript și ESM (tsx este un binar autonom conceput pentru a înlocui node)
+  ru: CLI для беспрепятственного запуска TypeScript и ESM (tsx — это отдельный бинарный файл, созданный как замена node)
+  th: CLI สำหรับรัน TypeScript และ ESM ได้อย่างราบรื่น (tsx คือไบนารีแยกส่วนที่ออกแบบมาเพื่อแทนที่ node)
+  tr: TypeScript ve ESM'yi sorunsuz çalıştırmak için bir CLI (tsx, node'un yerini almak üzere tasarlanmış bağımsız bir ikili dosyadır)
+  uk: CLI для безперебійного запуску TypeScript та ESM (tsx — це окремий бінарний файл, створений як заміна node)
+  vi: CLI để chạy TypeScript và ESM liền mạch (tsx là tệp nhị phân độc lập được thiết kế để thay thế node)
 x:
   source: https://github.com/privatenumber/tsx#readme
 rule:

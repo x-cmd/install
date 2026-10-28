@@ -3,6 +3,22 @@ homepage: https://opendev.org/openstack/glance
 desc:
   cn: Glance 是一个 OpenStack 项目，提供服务和相关库来存储、浏览、共享、分发和管理可启动磁盘映像、与初始化计算资源密切相关的其他数据以及元数据定义
   en: Glance is an OpenStack project that provides services and associated libraries to store, browse, share, distribute and manage bootable disk images, other data closely associated with initializing compute resources, and metadata definitions
+  cs: Glance je projekt OpenStack, který poskytuje služby a související knihovny pro ukládání, procházení, sdílení, distribuci a správu zaváděcích bitových obrazů, dalších dat úzce souvisejících s inicializací výpočetních zdrojů a definic metadat
+  de: Glance ist ein OpenStack-Projekt, das Dienste und zugehörige Bibliotheken zum Speichern, Durchsuchen, Teilen, Verteilen und Verwalten von bootfähigen Datenträgerabbildern, anderen eng mit der Initialisierung von Rechenressourcen verbundenen Daten sowie Metadatendefinitionen bereitstellt
+  es: Glance es un proyecto de OpenStack que ofrece servicios y bibliotecas asociadas para almacenar, explorar, compartir, distribuir y gestionar imágenes de disco arrancables, otros datos estrechamente relacionados con la inicialización de recursos de cómputo y definiciones de metadatos
+  fr: Glance est un projet OpenStack qui fournit des services et des bibliothèques associées pour stocker, parcourir, partager, distribuer et gérer des images disque amorçables, d'autres données étroitement liées à l'initialisation des ressources de calcul et des définitions de métadonnées
+  id: Glance adalah proyek OpenStack yang menyediakan layanan dan pustaka terkait untuk menyimpan, menelusuri, berbagi, mendistribusikan, dan mengelola citra disk yang dapat di-boot, data lain yang berkaitan erat dengan inisialisasi sumber daya komputasi, serta definisi metadata
+  it: Glance è un progetto OpenStack che fornisce servizi e librerie associate per archiviare, esplorare, condividere, distribuire e gestire immagini disco avviabili, altri dati strettamente associati all'inizializzazione delle risorse di calcolo e definizioni di metadati
+  ja: Glance は OpenStack プロジェクトで、起動可能なディスクイメージ、計算リソースの初期化密接に関連するその他のデータ、メタデータ定義を保存・閲覧・共有・配布・管理するためのサービスと関連ライブラリを提供します
+  ko: Glance는 부팅 가능한 디스크 이미지, 컴퓨팅 리소스 초기화와 밀접하게 관련된 다른 데이터, 메타데이터 정의를 저장, 탐색, 공유, 배포, 관리할 수 있는 서비스와 관련 라이브러리를 제공하는 OpenStack 프로젝트입니다
+  pl: Glance to projekt OpenStack, który udostępnia usługi i powiązane biblioteki do przechowywania, przeglądania, udostępniania, dystrybucji i zarządzania uruchamialnymi obrazami dysków, innymi danymi ściśle związanymi z inicjalizacją zasobów obliczeniowych oraz definicjami metadanych
+  pt: O Glance é um projeto do OpenStack que oferece serviços e bibliotecas associadas para armazenar, navegar, compartilhar, distribuir e gerenciar imagens de disco inicializáveis, outros dados estrechamente relacionados à inicialização de recursos de computação e definições de metadados
+  ro: Glance este un proiect OpenStack care oferă servicii și biblioteci asociate pentru stocarea, parcurgerea, partajarea, distribuirea și gestionarea imaginilor de disc pornibile, a altor date strâns asociate inițierii resurselor de calcul și a definițiilor de metadate
+  ru: Glance — это проект OpenStack, предоставляющий сервисы и связанные с ними библиотеки для хранения, просмотра, совместного использования, распространения и управления загрузочными образами дисков, другими данными, тесно связанными с инициализацией вычислительных ресурсов, и определениями метаданных
+  th: Glance เป็นโครงการของ OpenStack ที่ให้บริการและไลบรารีที่เกี่ยวข้องสำหรับการจัดเก็บ เรียกดู แบ่งปัน แจกจ่าย และจัดการดิสก์อิมเมจที่บูตได้ ข้อมูลอื่นที่เกี่ยวข้องอย่างใกล้ชิดกับการเริ่มต้นทรัพยากรคำนวณ และคำจำกัดความเมทาดาทา
+  tr: Glance, önyüklenebilir disk görüntülerini, hesaplama kaynaklarının başlatılmasıyla yakından ilişkili diğer verileri ve meta veri tanımlarını saklamak, göz atmak, paylaşmak, dağıtmak ve yönetmek için servisler ve ilgili kütüphaneler sağlayan bir OpenStack projesidir
+  uk: Glance — це проєкт OpenStack, який надає сервіси та пов'язані з ними бібліотеки для зберігання, перегляду, спільного використання, поширення й керування завантажуваними образами дисків, іншими даними, тісно пов'язаними з ініціалізацією обчислювальних ресурсів, і визначеннями метаданих
+  vi: Glance là một dự án OpenStack cung cấp các dịch vụ và thư viện liên quan để lưu trữ, duyệt, chia sẻ, phân phối và quản lý ảnh đĩa có thể khởi động, dữ liệu khác gắn chặt với việc khởi tạo tài nguyên tính toán, cùng các định nghĩa metadata
 rule:
   /pip:
     cmd: pip install glance

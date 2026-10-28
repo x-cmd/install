@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Markdownlint 命令行接口
   en: MarkdownLint Command Line Interface
+  cs: MarkdownLint rozhraní příkazové řádky
+  de: MarkdownLint-Kommandozeilenschnittstelle
+  es: Interfaz de línea de comandos de MarkdownLint
+  fr: Interface de ligne de commande MarkdownLint
+  id: Antarmuka baris perintah MarkdownLint
+  it: Interfaccia a riga di comando di MarkdownLint
+  ja: MarkdownLint のコマンドラインインターフェース
+  ko: MarkdownLint 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń MarkdownLint
+  pt: Interface de linha de comando do MarkdownLint
+  ro: Interfață de linie de comandă MarkdownLint
+  ru: Интерфейс командной строки MarkdownLint
+  th: อินเทอร์เฟซบรรทัดคำสั่งของ MarkdownLint
+  tr: MarkdownLint komut satırı arayüzü
+  uk: Інтерфейс командного рядка MarkdownLint
+  vi: Giao diện dòng lệnh MarkdownLint
 x:
   source: https://github.com/igorshubovych/markdownlint-cli
   brew: markdownlint-cli

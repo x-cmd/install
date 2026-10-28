@@ -2,6 +2,22 @@ lang: JavaScript
 desc:
   cn: Heroku CLI 用于从命令行管理 Heroku 应用程序
   en: Heroku CLI for managing Heroku applications from the command line
+  cs: Heroku CLI pro správu aplikací Heroku z příkazové řádky
+  de: Heroku CLI zum Verwalten von Heroku-Anwendungen über die Befehlszeile
+  es: Heroku CLI para gestionar aplicaciones de Heroku desde la línea de comandos
+  fr: Heroku CLI pour gérer les applications Heroku depuis la ligne de commande
+  id: Heroku CLI untuk mengelola aplikasi Heroku dari baris perintah
+  it: Heroku CLI per gestire le applicazioni Heroku dalla riga di comando
+  ja: コマンドラインから Heroku アプリケーションを管理するための Heroku CLI
+  ko: 명령줄에서 Heroku 애플리케이션을 관리하기 위한 Heroku CLI
+  pl: Heroku CLI do zarządzania aplikacjami Heroku z wiersza poleceń
+  pt: Heroku CLI para gerenciar aplicativos Heroku pela linha de comando
+  ro: Heroku CLI pentru gestionarea aplicațiilor Heroku din linia de comandă
+  ru: Heroku CLI для управления приложениями Heroku из командной строки
+  th: Heroku CLI สำหรับจัดการแอปพลิเคชัน Heroku จากบรรทัดคำสั่ง
+  tr: Heroku uygulamalarını komut satırından yönetmek için Heroku CLI
+  uk: Heroku CLI для керування застосунками Heroku з командного рядка
+  vi: Heroku CLI để quản lý các ứng dụng Heroku từ dòng lệnh
 homepage: https://github.com/heroku/cli
 license: ISC
 x:

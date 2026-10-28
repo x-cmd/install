@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: GitHub 终端仪表盘，一眼掌握粉丝、星标、PR 与 issue，自动刷新
   en: 'Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed'
+  cs: Terminálový dashboard pro GitHub — sledující, hvězdy, PR a issue na první pohled, automaticky obnovovaný
+  de: Terminal-Dashboard für GitHub — Follower, Sterne, PRs und Issues auf einen Blick, automatisch aktualisiert
+  es: "Panel de terminal para GitHub: seguidores, estrellas, PR e incidencias de un vistazo, con actualización automática"
+  fr: Tableau de bord terminal pour GitHub — abonnés, étoiles, PR et issues en un coup d'œil, actualisé automatiquement
+  id: Dasbor terminal untuk GitHub — pengikut, bintang, PR, dan issue sekilas, otomatis disegarkan
+  it: Dashboard da terminale per GitHub — follower, stelle, PR e issue a colpo d'occhio, aggiornato automaticamente
+  ja: GitHub 向けのターミナルダッシュボード — フォロワー、スター、PR、issue をひと目で確認でき、自動的に更新されます
+  ko: GitHub용 터미널 대시보드 - 팔로워, 스타, PR, 이슈를 한눈에 확인하고 자동으로 갱신됩니다
+  pl: Panel terminalowy dla GitHub — obserwujący, gwiazdki, PR-y i issues na wyciągnięcie ręki, automatycznie odświeżany
+  pt: Painel de terminal para GitHub — seguidores, estrelas, PRs e issues num relance, atualizado automaticamente
+  ro: Panou de terminal pentru GitHub — urmăritori, stele, PR-uri și issue-uri dintr-o privire, reîmprospătat automat
+  ru: Терминальная панель для GitHub — подписчики, звёзды, PR и issues с первого взгляда, с автообновлением
+  th: แดชบอร์ดเทอร์มินัลสำหรับ GitHub — ผู้ติดตาม ดาว PR และ issue แบบเห็นได้ทันที พร้อมรีเฟรชอัตโนมัติ
+  tr: GitHub için terminal panosu — takipçiler, yıldızlar, PR'ler ve sorunlar bir bakışta, otomatik olarak yenilenir
+  uk: Термінальна панель для GitHub — підписники, зірки, PR та issues з першого погляду, з автооновленням
+  vi: Bảng điều khiển terminal cho GitHub — người theo dõi, sao, PR và issue nhìn là biết, tự động làm mới
 x:
   source: https://github.com/gfazioli/octoscope
   eget: gfazioli/octoscope

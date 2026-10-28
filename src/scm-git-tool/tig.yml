@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: tig 是一个基于 nucurses 的 git 文本模式界面
   en: tig is an ncurses-based text-mode interface for git
+  cs: tig je textové rozhraní pro git založené na ncurses
+  de: tig ist eine ncurses-basierte Textmodus-Oberfläche für Git
+  es: tig es una interfaz de modo texto para git basada en ncurses
+  fr: tig est une interface en mode texte pour git basée sur ncurses
+  id: tig adalah antarmuka mode teks untuk git berbasis ncurses
+  it: tig è un'interfaccia testuale per git basata su ncurses
+  ja: tigはncursesベースのgit用テキストモードインターフェースです
+  ko: tig는 ncurses 기반의 git 텍스트 모드 인터페이스입니다
+  pl: tig to tekstowy interfejs dla git oparty na ncurses
+  pt: tig é uma interface de modo texto para git baseada em ncurses
+  ro: tig este o interfață în mod text pentru git bazată pe ncurses
+  ru: tig — это текстовый интерфейс для git на основе ncurses
+  th: tig คืออินเทอร์เฟซโหมดข้อความสำหรับ git ที่ใช้ ncurses
+  tr: tig, ncurses tabanlı git metin modu arayüzüdür
+  uk: tig — це текстовий інтерфейс для git на основі ncurses
+  vi: tig là giao diện chế độ văn bản cho git dựa trên ncurses
 x:
   source: https://github.com/jonas/tig
   eget: jonas/tig

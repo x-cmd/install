@@ -4,6 +4,22 @@ license: 'ISC'
 desc:
   cn: Steam 版 neofetch，在终端展示你的 Steam 统计
   en: 'neofetch for Steam - Display your Steam stats in terminal'
+  cs: neofetch pro Steam — zobrazte své Steam statistiky v terminálu
+  de: neofetch für Steam – Zeige deine Steam-Statistiken im Terminal
+  es: "neofetch para Steam: muestra tus estadísticas de Steam en la terminal"
+  fr: neofetch pour Steam - Affichez vos statistiques Steam dans le terminal
+  id: neofetch untuk Steam - Tampilkan statistik Steam Anda di terminal
+  it: neofetch per Steam - Visualizza le tue statistiche Steam nel terminale
+  ja: Steam 版の neofetch - ターミナルに Steam の統計を表示します
+  ko: Steam용 neofetch - 터미널에서 Steam 통계를 표시합니다
+  pl: neofetch dla Steam — wyświetlaj swoje statystyki Steam w terminalu
+  pt: neofetch para Steam - Exiba suas estatísticas do Steam no terminal
+  ro: neofetch pentru Steam - Afișează-ți statisticile Steam în terminal
+  ru: neofetch для Steam — показывайте статистику Steam в терминале
+  th: neofetch สำหรับ Steam - แสดงสถิติ Steam ของคุณในเทอร์มินัล
+  tr: Steam için neofetch - Steam istatistiklerinizi terminalde gösterin
+  uk: neofetch для Steam — показуйте статистику Steam у терміналі
+  vi: neofetch cho Steam - Hiển thị thống kê Steam của bạn trong terminal
 x:
   source: https://github.com/unhappychoice/steamfetch
   eget: unhappychoice/steamfetch

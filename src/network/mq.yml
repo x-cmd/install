@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 类 jq 的 Markdown 查询语言，用于命令行处理
   en: 'A jq-like Markdown query language for command-line processing'
+  cs: Dotazovací jazyk Markdown podobný jq pro zpracování na příkazové řádce
+  de: Eine jq-ähnliche Markdown-Abfragesprache für die Verarbeitung auf der Kommandozeile
+  es: Un lenguaje de consulta Markdown similar a jq para el procesamiento en línea de comandos
+  fr: Un langage de requête Markdown similaire à jq pour le traitement en ligne de commande
+  id: Bahasa kueri Markdown mirip jq untuk pemrosesan baris perintah
+  it: Un linguaggio di interrogazione Markdown simile a jq per l'elaborazione da riga di comando
+  ja: コマンドライン処理のための jq 風の Markdown クエリ言語
+  ko: 명령줄 처리를 위한 jq 유사 Markdown 질의 언어
+  pl: Język zapytań Markdown podobny do jq do przetwarzania w wierszu poleceń
+  pt: Uma linguagem de consulta Markdown semelhante ao jq para processamento em linha de comando
+  ro: Un limbaj de interogare Markdown similar cu jq pentru procesarea în linia de comandă
+  ru: Язык запросов Markdown, похожий на jq, для обработки в командной строке
+  th: ภาษาคิวรี Markdown คล้าย jq สำหรับการประมวลผลบนบรรทัดคำสั่ง
+  tr: Komut satırı işleme için jq benzeri bir Markdown sorgu dili.
+  uk: Мова запитів Markdown, схожа на jq, для обробки в командному рядку
+  vi: Ngôn ngữ truy vấn Markdown tương tự jq để xử lý trên dòng lệnh
 x:
   source: https://github.com/harehare/mq
   eget: harehare/mq

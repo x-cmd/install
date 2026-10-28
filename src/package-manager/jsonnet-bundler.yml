@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个 jsonnet 包管理器
   en: A jsonnet package manager
+  cs: Správce balíčků jsonnet
+  de: Ein jsonnet-Paketmanager
+  es: Un gestor de paquetes de jsonnet
+  fr: Un gestionnaire de paquets jsonnet
+  id: Manajer paket jsonnet
+  it: Un gestore di pacchetti jsonnet
+  ja: jsonnet パッケージマネージャー
+  ko: jsonnet 패키지 관리자
+  pl: Menedżer pakietów jsonnet
+  pt: Um gerenciador de pacotes jsonnet
+  ro: Un manager de pachete jsonnet
+  ru: Менеджер пакетов jsonnet
+  th: ตัวจัดการแพ็กเกจ jsonnet
+  tr: Bir jsonnet paket yöneticisi
+  uk: Менеджер пакетів jsonnet
+  vi: Trình quản lý gói jsonnet
 x:
   source: https://github.com/jsonnet-bundler/jsonnet-bundler
   eget: jsonnet-bundler/jsonnet-bundler

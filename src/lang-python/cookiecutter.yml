@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 一个命令行实用程序，可从 cookiecutter（项目模板）创建项目
   en: Create projects swiftly from cookiecutters (project templates) with this command-line utility
+  cs: Vytvářejte rychle projekty z cookiecutters (šablon projektů) pomocí tohoto nástroje příkazové řádky
+  de: Erstellen Sie mit diesem Kommandozeilenwerkzeug schnell Projekte aus Cookiecutters (Projektvorlagen)
+  es: Crea proyectos rápidamente a partir de cookiecutters (plantillas de proyecto) con esta utilidad de línea de comandos
+  fr: Créez rapidement des projets à partir de cookiecutters (modèles de projet) avec cet utilitaire en ligne de commande
+  id: Buat proyek dengan cepat dari cookiecutters (templat proyek) dengan utilitas baris perintah ini
+  it: Crea rapidamente progetti da cookiecutter (modelli di progetto) con questa utility da riga di comando
+  ja: このコマンドラインユーティリティで cookiecutter（プロジェクトテンプレート）からプロジェクトをすばやく作成できます
+  ko: 이 명령줄 유틸리티를 사용하면 cookiecutter(프로젝트 템플릿)에서 프로젝트를 빠르게 만들 수 있습니다
+  pl: Szybko twórz projekty z cookiecutters (szablonów projektów) za pomocą tego narzędzia wiersza poleceń
+  pt: Crie projetos rapidamente a partir de cookiecutters (modelos de projeto) com este utilitário de linha de comando
+  ro: Creați rapid proiecte din cookiecutters (șabloane de proiect) cu acest utilitar de linie de comandă
+  ru: Быстро создавайте проекты из cookiecutters (шаблонов проектов) с помощью этой утилиты командной строки
+  th: สร้างโครงการได้อย่างรวดเร็วจาก cookiecutter (เทมเพลตโครงการ) ด้วยยูทิลิตี้บรรทัดคำสั่งนี้
+  tr: Bu komut satırı aracıyla cookiecutter (proje şablonları) kullanarak projeleri hızla oluşturun
+  uk: Швидко створюйте проєкти з cookiecutter (шаблонів проєктів) за допомогою цієї утиліти командного рядка
+  vi: Tạo dự án nhanh chóng từ cookiecutter (mẫu dự án) với tiện ích dòng lệnh này
 x:
   source: https://github.com/cookiecutter/cookiecutter
 rule:

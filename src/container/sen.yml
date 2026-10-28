@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Terminal User Interface for containers
   cn: 容器的终端用户界面
+  cs: Terminálové uživatelské rozhraní pro kontejnery
+  de: Terminal-Benutzeroberfläche für Container
+  es: Interfaz de usuario de terminal para contenedores
+  fr: Interface utilisateur de terminal pour les conteneurs
+  id: Antarmuka pengguna terminal untuk kontainer
+  it: Interfaccia utente da terminale per i container
+  ja: コンテナ向けのターミナルユーザーインターフェース
+  ko: 컨테이너를 위한 터미널 사용자 인터페이스
+  pl: Terminalowy interfejs użytkownika dla kontenerów
+  pt: Interface de usuário de terminal para contêineres
+  ro: Interfață de utilizator în terminal pentru containere
+  ru: Терминальный пользовательский интерфейс для контейнеров
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับคอนเทนเนอร์
+  tr: Konteynerler için terminal kullanıcı arayüzü
+  uk: Термінальний користувацький інтерфейс для контейнерів
+  vi: Giao diện người dùng dòng lệnh cho container
 x:
   source: https://github.com/TomasTomecek/sen
   pip: sen

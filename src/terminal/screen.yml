@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/screen.git
 desc:
   cn: Screen 是一个全屏窗口管理器，它在多个进程（通常是交互式 shell）之间复用物理终端
   en: Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells
+  cs: Screen je správce oken v celoobrazovém režimu, který multiplexuje fyzický terminál mezi několika procesy, typicky interaktivními shelly
+  de: Screen ist ein Vollbild-Fenstermanager, der ein physisches Terminal zwischen mehreren Prozessen, typischerweise interaktiven Shells, multiplexiert
+  es: Screen es un gestor de ventanas a pantalla completa que multiplexa un terminal físico entre varios procesos, normalmente shells interactivas
+  fr: Screen est un gestionnaire de fenêtres plein écran qui multiplexe un terminal physique entre plusieurs processus, généralement des shells interactifs
+  id: Screen adalah pengelola jendela layar penuh yang memultiplexing terminal fisik di antara beberapa proses, biasanya shell interaktif
+  it: Screen è un gestore di finestre a schermo intero che multiplexa un terminale fisico tra più processi, tipicamente shell interattive
+  ja: Screen はフルスクリーンウィンドウマネージャで、1つの物理ターミナルを複数のプロセス（通常は対話型シェル）間で多重化します
+  ko: Screen은 하나의 물리적 터미널을 여러 프로세스(보통 대화형 셸) 사이에서 다중화하는 전체 화면 창 관리자입니다
+  pl: Screen jest menedżerem okien pełnoekranowych, który multipleksuje fizyczny terminal między kilkoma procesami, zwykle interaktywnymi powłokami
+  pt: Screen é um gerenciador de janelas em tela cheia que multiplexa um terminal físico entre vários processos, normalmente shells interativos
+  ro: Screen este un manager de ferestre pe ecran complet care multiplexează un terminal fizic între mai multe procese, de obicei shell-uri interactive
+  ru: Screen — это менеджер полноэкранных окон, мультиплексирующий физический терминал между несколькими процессами, обычно интерактивными оболочками
+  th: Screen คือตัวจัดการหน้าต่างแบบเต็มจอที่มัลติเพล็กซ์เทอร์มินัลจริงหนึ่งตัวระหว่างหลายกระบวนการ ซึ่งมักเป็นเชลล์แบบโต้ตอบ
+  tr: Screen, fiziksel bir terminali genellikle etkileşimli kabuklar olmak üzere birden fazla süreç arasında çoklaman tam ekran pencere yöneticisidir
+  uk: Screen — це менеджер повноекранних вікон, який мультиплексує фізичний термінал між кількома процесами, зазвичай інтерактивними оболонками
+  vi: Screen là trình quản lý cửa sổ toàn màn hình ghép kênh một terminal vật lý giữa nhiều tiến trình, thường là các shell tương tác
 rule:
   darwin/brew:
     cmd: brew install screen

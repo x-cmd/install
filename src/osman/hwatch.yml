@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: watch 命令的替代品，可以记录命令执行的结果，并可以显示它的历史记录和差异
   en: A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+  cs: Moderní alternativa k příkazu watch, zaznamenává rozdíly ve výsledcích spuštění a umožňuje je později kontrolovat.
+  de: Eine moderne Alternative zum Befehl watch, die Unterschiede in den Ausführungsergebnissen aufzeichnet und später überprüft werden können.
+  es: Una alternativa moderna al comando watch, que registra las diferencias en los resultados de ejecución y puede revisarlas después.
+  fr: Une alternative moderne à la commande watch, qui enregistre les différences entre les résultats d'exécution et permet de les vérifier ensuite.
+  id: Alternatif modern untuk perintah watch, mencatat perbedaan pada hasil eksekusi dan dapat memeriksa perbedaan tersebut setelahnya.
+  it: Un'alternativa moderna al comando watch, registra le differenze nei risultati di esecuzione e permette di verificarle in seguito.
+  ja: watch コマンドのモダンな代替で、実行結果の違いを記録し、後から確認できます。
+  ko: watch 명령의 현대적인 대안으로, 실행 결과의 차이를 기록하고 나중에 확인할 수 있습니다.
+  pl: Nowoczesna alternatywa dla polecenia watch, zapisuje różnice w wynikach wykonania i pozwala później je sprawdzić.
+  pt: Uma alternativa moderna ao comando watch, registra as diferenças nos resultados de execução e permite verificá-las depois.
+  ro: O alternativă modernă la comanda watch, înregistrează diferențele în rezultatele execuției și permite verificarea lor ulterior.
+  ru: Современная альтернатива команде watch, записывает различия в результатах выполнения и позволяет проверить их позже.
+  th: ทางเลือกสมัยใหม่แทนคำสั่ง watch บันทึกความแตกต่างของผลการทำงานและตรวจสอบความแตกต่างเหล่านั้นในภายหลังได้
+  tr: watch komutuna modern bir alternatif; çalıştırma sonuçlarındaki farkları kaydeder ve bu farkları sonradan kontrol edebilir.
+  uk: Сучасна альтернатива команді watch, записує відмінності в результатах виконання та дозволяє перевірити їх згодом.
+  vi: Bản thay thế hiện đại cho lệnh watch, ghi lại sự khác biệt trong kết quả thực thi và có thể kiểm tra sau đó.
 x:
   source: https://github.com/blacknon/hwatch
   eget: blacknon/hwatch

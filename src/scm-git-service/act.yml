@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 在本地运行您的 GitHub Actions
   en: Run your GitHub Actions locally
+  cs: Spusťte své GitHub Actions lokálně
+  de: Führen Sie Ihre GitHub Actions lokal aus
+  es: Ejecute sus GitHub Actions localmente
+  fr: Exécutez vos GitHub Actions localement
+  id: Jalankan GitHub Actions Anda secara lokal
+  it: Esegui le tue GitHub Actions in locale
+  ja: GitHub Actions をローカルで実行します
+  ko: GitHub Actions를 로컬에서 실행합니다
+  pl: Uruchom swoje GitHub Actions lokalnie
+  pt: Execute suas GitHub Actions localmente
+  ro: Rulați acțiunile GitHub local
+  ru: Запускайте свои GitHub Actions локально
+  th: เรียกใช้ GitHub Actions ของคุณในเครื่อง
+  tr: GitHub Actions işlemlerinizi yerel olarak çalıştırın
+  uk: Запускайте свої GitHub Actions локально
+  vi: Chạy GitHub Actions của bạn cục bộ
 x:
   source: https://github.com/nektos/act
   eget: nektos/act

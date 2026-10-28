@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: ANSI X3.64 标准的电传命令会话库
   en: ANSI Standard X3.64 Teletypewriter Command Session Library
+  cs: Knihovna relací příkazů teletypu podle standardu ANSI X3.64
+  de: ANSI-Standard-X3.64-Teletypewriter-Befehlssitzungsbibliothek
+  es: Biblioteca de sesión de comandos de teletipo del estándar ANSI X3.64
+  fr: Bibliothèque de session de commandes de télétyper selon la norme ANSI X3.64
+  id: Pustaka sesi perintah teletipe standar ANSI X3.64
+  it: Libreria di sessione dei comandi teletype standard ANSI X3.64
+  ja: ANSI 標準 X3.64 テレタイプ端末コマンドセッションライブラリ
+  ko: ANSI X3.64 표준 텔레타이퍼 명령 세션 라이브러리
+  pl: Biblioteka sesji poleceń teletyperu w standardzie ANSI X3.64
+  pt: Biblioteca de sessão de comandos de teletipo do padrão ANSI X3.64
+  ro: Bibliotecă de sesiune pentru comenzi de teletip conform standardului ANSI X3.64
+  ru: Библиотека сессий команд телетайпа по стандарту ANSI X3.64
+  th: ไลบรารีเซสชันคำสั่งเทเลทิปตามมาตรฐาน ANSI X3.64
+  tr: ANSI X3.64 standartı Teletypewriter komut oturum kitaplığı
+  uk: Бібліотека сесій команд телетайпа за стандартом ANSI X3.64
+  vi: Thư viện phiên lệnh teletype theo tiêu chuẩn ANSI X3.64
 x:
   source: https://github.com/jart/bestline
   eget: jart/bestline

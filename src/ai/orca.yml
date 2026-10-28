@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Orca 是面向多 AI 编码代理的并行开发环境（ADE），可在独立 worktree 中同时运行 Codex、Claude Code、OpenCode、Pi 等 CLI 代理，提供桌面、移动端与 VPS 多端支持。
   en: Orca is the ADE for working with a fleet of parallel agents. Run Codex, ClaudeCode, OpenCode, or Pi side-by-side, each in its own worktree, tracked in one place. Available on desktop, mobile and VPS.
+  cs: Orca je ADE pro práci s flotou paralelních agentů. Spusťte Codex, ClaudeCode, OpenCode nebo Pi vedle sebe, každý ve vlastním worktree, sledované na jednom místě. K dispozici pro desktop, mobil a VPS.
+  de: Orca ist die ADE für die Arbeit mit einer Flotte paralleler Agenten. Führen Sie Codex, ClaudeCode, OpenCode oder Pi nebeneinander aus, jeder in seinem eigenen Worktree, an einem Ort verfolgt. Verfügbar für Desktop, Mobil und VPS.
+  es: Orca es el ADE para trabajar con una flota de agentes en paralelo. Ejecuta Codex, ClaudeCode, OpenCode o Pi uno al lado del otro, cada uno en su propio worktree, todo registrado en un solo lugar. Disponible para escritorio, móvil y VPS.
+  fr: Orca est l'ADE pour travailler avec une flotte d'agents parallèles. Lancez Codex, ClaudeCode, OpenCode ou Pi côte à côte, chacun dans son propre worktree, suivis au même endroit. Disponible sur ordinateur, mobile et VPS.
+  id: Orca adalah ADE untuk bekerja dengan armada agen paralel. Jalankan Codex, ClaudeCode, OpenCode, atau Pi berdampingan, masing-masing di worktree sendiri, dilacak dalam satu tempat. Tersedia untuk desktop, seluler, dan VPS.
+  it: Orca è l'ADE per lavorare con una flotta di agenti paralleli. Esegui Codex, ClaudeCode, OpenCode o Pi fianco a fianco, ciascuno nel proprio worktree, monitorati in un unico posto. Disponibile per desktop, mobile e VPS.
+  ja: Orca は多数の並列エージェントを扱うための ADE です。Codex、ClaudeCode、OpenCode、Pi などをそれぞれ専用の worktree で並べて実行し、まとめて管理できます。デスクトップ、モバイル、VPS に対応しています。
+  ko: Orca는 병렬 에이전트 무리를 다루기 위한 ADE입니다. Codex, ClaudeCode, OpenCode 또는 Pi를 각각 전용 worktree에서 나란히 실행하고 한곳에서 추적합니다. 데스크톱, 모바일, VPS에서 사용할 수 있습니다.
+  pl: Orca to ADE do pracy z flotą równoległych agentów. Uruchamiaj Codex, ClaudeCode, OpenCode lub Pi obok siebie, każdego w własnym worktree, śledzone w jednym miejscu. Dostępne na komputerze, telefonie i VPS.
+  pt: O Orca é o ADE para trabalhar com uma frota de agentes paralelos. Execute Codex, ClaudeCode, OpenCode ou Pi lado a lado, cada um em seu próprio worktree, acompanhados em um só lugar. Disponível para desktop, celular e VPS.
+  ro: Orca este ADE-ul pentru lucrul cu o flotă de agenți paraleli. Rulați Codex, ClaudeCode, OpenCode sau Pi alături, fiecare în propriul worktree, urmărite într-un singur loc. Disponibil pentru desktop, mobil și VPS.
+  ru: Orca — это ADE для работы с парком параллельных агентов. Запускайте Codex, ClaudeCode, OpenCode или Pi рядом, каждый в своём worktree, отслеживая всё в одном месте. Доступно для десктопа, мобильных устройств и VPS.
+  th: Orca คือ ADE สำหรับทำงานกับกองเอเจนต์แบบขนาน เรียก Codex, ClaudeCode, OpenCode หรือ Pi ให้ทำงานเคียงข้างกัน แต่ละตัวอยู่ใน worktree ของตัวเอง และติดตามได้ในที่เดียว ใช้ได้ทั้งเดสก์ท็อป มือถือ และ VPS.
+  tr: Orca, paralel ajan filosuyla çalışmak için ADE'dir. Codex, ClaudeCode, OpenCode veya Pi'yi yan yana, her biri kendi worktree'sinde çalıştırın ve tek bir yerden takip edin. Masaüstü, mobil ve VPS için kullanılabilir.
+  uk: Orca — це ADE для роботи з парком паралельних агентів. Запускайте Codex, ClaudeCode, OpenCode або Pi поруч, кожен у власному worktree, відстежуючи все в одному місці. Доступно для десктопа, мобільних пристроїв і VPS.
+  vi: Orca là ADE để làm việc với một đội tác nhân song song. Chạy Codex, ClaudeCode, OpenCode hoặc Pi cạnh nhau, mỗi cái trong worktree riêng, theo dõi tất cả ở một nơi. Có cho desktop, di động và VPS.
 x:
   source: https://github.com/stablyai/orca
   yay: stably-orca-bin

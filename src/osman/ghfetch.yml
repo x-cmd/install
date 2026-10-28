@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: ghfetch 是抓取 GitHub 用户信息并以 neofetch 风格展示的 CLI 工具
   en: ':octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.'
+  cs: ":octocat: ghfetch je CLI nástroj pro získání informací o uživatelích GitHubu a zobrazení ve stylu neofetch."
+  de: ":octocat: ghfetch ist ein CLI-Werkzeug zum Abrufen von GitHub-Benutzerinformationen und zur Anzeige im neofetch-Stil."
+  es: ":octocat: ghfetch es una herramienta de línea de comandos para obtener información de usuarios de GitHub y mostrarla como neofetch."
+  fr: ":octocat: ghfetch est un outil en ligne de commande pour récupérer les informations des utilisateurs GitHub et les afficher à la neofetch."
+  id: ":octocat: ghfetch adalah alat CLI untuk mengambil informasi pengguna GitHub dan menampilkannya seperti neofetch."
+  it: ":octocat: ghfetch è uno strumento CLI per recuperare le informazioni degli utenti GitHub e mostrarle in stile neofetch."
+  ja: ":octocat: ghfetch は GitHub のユーザー情報を取得して neofetch のように表示する CLI ツールです。"
+  ko: ":octocat: ghfetch는 GitHub 사용자 정보를 가져와 neofetch처럼 보여주는 CLI 도구입니다."
+  pl: ":octocat: ghfetch to narzędzie CLI do pobierania informacji o użytkownikach GitHub i wyświetlania ich w stylu neofetch."
+  pt: ":octocat: ghfetch é uma ferramenta de linha de comando para obter informações de usuários do GitHub e mostrar no estilo neofetch."
+  ro: ":octocat: ghfetch este un instrument CLI pentru preluarea informațiilor despre utilizatorii GitHub și afișarea lor în stil neofetch."
+  ru: ":octocat: ghfetch — инструмент командной строки для получения информации о пользователях GitHub и вывода в стиле neofetch."
+  th: ":octocat: ghfetch เป็นเครื่องมือ CLI ที่ดึงข้อมูลผู้ใช้ GitHub และแสดงผลในสไตล์ neofetch"
+  tr: ":octocat: ghfetch, GitHub kullanıcı bilgilerini alıp neofetch tarzında gösteren bir CLI aracıdır"
+  uk: ":octocat: ghfetch — інструмент командного рядка для отримання даних про користувачів GitHub і виводу у стилі neofetch."
+  vi: ":octocat: ghfetch là công cụ CLI để lấy thông tin người dùng GitHub và hiển thị theo phong cách neofetch."
 x:
   source: https://github.com/orangekame3/ghfetch
   eget: orangekame3/ghfetch

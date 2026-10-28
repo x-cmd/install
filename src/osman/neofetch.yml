@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用 bash 3.2+ 编写的美化命令行系统信息（操作系统、软件和硬件的信息）显示的工具
   en: A command-line system information tool written in bash 3.2+
+  cs: Nástroj příkazového řádku pro zobrazení informací o systému, napsaný v bash 3.2+
+  de: Ein Kommandozeilen-Werkzeug zur Anzeige von Systeminformationen, geschrieben in bash 3.2+
+  es: Una herramienta de línea de comandos para mostrar información del sistema, escrita en bash 3.2+
+  fr: Un outil en ligne de commande affichant les informations système, écrit en bash 3.2+
+  id: Alat baris perintah untuk menampilkan informasi sistem yang ditulis dengan bash 3.2+
+  it: Uno strumento da riga di comando per visualizzare le informazioni di sistema, scritto in bash 3.2+
+  ja: bash 3.2+ で書かれたシステム情報を表示するコマンドラインツール
+  ko: bash 3.2+로 작성된 시스템 정보를 표시하는 명령줄 도구
+  pl: Narzędzie wiersza poleceń do wyświetlania informacji o systemie, napisane w bash 3.2+
+  pt: Uma ferramenta de linha de comando para exibir informações do sistema, escrita em bash 3.2+
+  ro: Un instrument de linie de comandă pentru afișarea informațiilor despre sistem, scris în bash 3.2+
+  ru: Инструмент командной строки для отображения информации о системе, написанный на bash 3.2+
+  th: เครื่องมือบรรทัดคำสั่งแสดงข้อมูลระบบ เขียนด้วย bash 3.2+
+  tr: Sistem bilgilerini gösteren, bash 3.2+ ile yazılmış komut satırı aracı
+  uk: Інструмент командного рядка для відображення інформації про систему, написаний на bash 3.2+
+  vi: Công cụ dòng lệnh hiển thị thông tin hệ thống, được viết bằng bash 3.2+
 x:
   source: https://github.com/dylanaraps/neofetch
   apt: neofetch

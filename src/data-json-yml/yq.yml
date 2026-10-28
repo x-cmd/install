@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: "一个可移植的命令行 YAML、JSON、XML、CSV、TOML 的数据处理工具"
   en: "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor"
+  cs: yq je přenosný nástroj příkazové řádky pro zpracování YAML, JSON, XML, CSV, TOML a vlastností
+  de: yq ist ein portables Kommandozeilen-Tool zur Verarbeitung von YAML, JSON, XML, CSV, TOML und Properties
+  es: yq es un procesador portátil de línea de comandos para YAML, JSON, XML, CSV, TOML y propiedades
+  fr: yq est un outil portable en ligne de commande pour traiter YAML, JSON, XML, CSV, TOML et les properties
+  id: yq adalah alat baris perintah portabel untuk memproses YAML, JSON, XML, CSV, TOML, dan properties
+  it: yq è un processore da riga di comando portatile per YAML, JSON, XML, CSV, TOML e properties
+  ja: yqはYAML、JSON、XML、CSV、TOML、propertiesを処理するポータブルなコマンドラインツールです
+  ko: yq는 YAML, JSON, XML, CSV, TOML 및 properties를 처리하는 이식 가능한 명령줄 도구입니다
+  pl: yq to przenośne narzędzie wiersza poleceń do przetwarzania YAML, JSON, XML, CSV, TOML i właściwości
+  pt: yq é um processador portátil de linha de comando para YAML, JSON, XML, CSV, TOML e properties
+  ro: yq este un procesor portabil de linie de comandă pentru YAML, JSON, XML, CSV, TOML și properties
+  ru: yq — переносимый консольный инструмент для обработки YAML, JSON, XML, CSV, TOML и properties
+  th: yq คือเครื่องมือบรรทัดคำสั่งแบบพกพาสำหรับประมวลผล YAML, JSON, XML, CSV, TOML และ properties
+  tr: yq, YAML, JSON, XML, CSV, TOML ve properties işlemek için taşınabilir bir komut satırı işlemcisidir
+  uk: yq — портативний інструмент командного рядка для обробки YAML, JSON, XML, CSV, TOML і properties
+  vi: yq là bộ xử lý dòng lệnh di động cho YAML, JSON, XML, CSV, TOML và properties
 homepage: https://github.com/mikefarah/yq
 license: MIT
 x:

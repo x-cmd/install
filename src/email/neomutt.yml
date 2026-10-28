@@ -4,6 +4,22 @@ license: 'GPL-2.0'
 desc:
   cn: 为老牌邮件客户端注入新特性的终端邮件工具
   en: '✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat'
+  cs: "✉️ Učí starého psa novým trikům -- IRC: #neomutt na irc.libera.chat"
+  de: "✉️ Dem alten Hund neue Tricks beibringen -- IRC: #neomutt auf irc.libera.chat"
+  es: "✉️ Enseñando nuevos trucos a un viejo perro -- IRC: #neomutt en irc.libera.chat"
+  fr: "✉️ Apprendre de nouveaux tours à un vieux chien -- IRC : #neomutt sur irc.libera.chat"
+  id: "✉️ Mengajari anjing tua trik baru -- IRC: #neomutt di irc.libera.chat"
+  it: "✉️ Insegnare nuovi trucchi a un vecchio cane -- IRC: #neomutt su irc.libera.chat"
+  ja: "✉️ 老犬にも新しい芸を仕込む -- IRC: irc.libera.chat の #neomutt"
+  ko: "✉️ 오래된 개에게 새로운 재주 가르치기 -- IRC: irc.libera.chat 의 #neomutt"
+  pl: "✉️ Stary piesz uczy się nowych sztuczek -- IRC: #neomutt na irc.libera.chat"
+  pt: "✉️ Ensinando truques novos a um velho cachorro -- IRC: #neomutt em irc.libera.chat"
+  ro: "✉️ Învățând trucuri noi unui câine bătrân -- IRC: #neomutt pe irc.libera.chat"
+  ru: "✉️ Старая собака учится новым трюкам -- IRC: #neomutt на irc.libera.chat"
+  th: "✉️ สอนสุนัขตัวเก่าเทคนิคใหม่ -- IRC: #neomutt บน irc.libera.chat"
+  tr: "✉️ Eski köpeğe yeni numaralar öğretmek -- IRC: irc.libera.chat üzerinde #neomutt"
+  uk: "✉️ Стара собака освоює нові трюки -- IRC: #neomutt на irc.libera.chat"
+  vi: "✉️ Dạy chó già những trò mới -- IRC: #neomutt trên irc.libera.chat"
 x:
   source: https://github.com/neomutt/neomutt
   eget: neomutt/neomutt

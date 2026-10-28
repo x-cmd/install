@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 面向智能体工作流开发的生产级平台
   en: Production-ready platform for agentic workflow development.
+  cs: Produkční platforma pro vývoj agentních workflow.
+  de: Produktionsreife Plattform für die Entwicklung agentischer Workflows.
+  es: Plataforma lista para producción para el desarrollo de flujos de trabajo agénticos.
+  fr: Plateforme prête pour la production pour le développement de workflows agentiques.
+  id: Platform siap produksi untuk pengembangan alur kerja agen.
+  it: Piattaforma pronta per la produzione per lo sviluppo di workflow agentici.
+  ja: エージェントワークフロー開発向けの本番対応プラットフォーム。
+  ko: 에이전트 워크플로 개발을 위한 프로덕션 준비 플랫폼.
+  pl: Platforma gotowa do produkcji do tworzenia przepływów pracy opartych na agentach.
+  pt: Plataforma pronta para produção para desenvolvimento de fluxos de trabalho agentic.
+  ro: Platformă gata de producție pentru dezvoltarea fluxurilor de lucru agentice.
+  ru: Готовая к промышленной эксплуатации платформа для разработки агентных рабочих процессов.
+  th: แพลตฟอร์มพร้อมใช้งานในระบบ production สำหรับการพัฒนาเวิร์กโฟลว์แบบอินเทลลิเจนต์
+  tr: Ajan tabanlı iş akışları geliştirmek için üretime hazır platform.
+  uk: Готова до промислового використання платформа для розробки агентних робочих процесів.
+  vi: Nền tảng sẵn sàng cho môi trường production để phát triển quy trình làm việc dạng agent.
 x:
   source: https://github.com/langgenius/dify
   eget: langgenius/dify

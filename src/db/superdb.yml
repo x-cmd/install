@@ -3,6 +3,22 @@ homepage: https://superdb.org/
 desc:
   cn: SuperDB 是一个新的分析型数据库，支持关系表和 JSON 数据结构，并且在这两者之间提供平等的支持。
   en: SuperDB is a new analytics database that supports relational tables and JSON on an equal footing.
+  cs: SuperDB je nová analytická databáze, která podporuje relační tabulky a JSON na stejné úrovni.
+  de: SuperDB ist eine neue analytische Datenbank, die relationale Tabellen und JSON gleichwertig unterstützt.
+  es: SuperDB es una nueva base de datos analítica que admite tablas relacionales y JSON en pie de igualdad.
+  fr: SuperDB est une nouvelle base de données analytique qui prend en charge les tables relationnelles et JSON sur un même footing.
+  id: SuperDB adalah database analitik baru yang mendukung tabel relasional dan JSON secara setara.
+  it: SuperDB è un nuovo database analitico che supporta in pari misura tabelle relazionali e JSON.
+  ja: SuperDB は、リレーショナルテーブルと JSON を同等にサポートする新しい分析型データベースです。
+  ko: SuperDB는 관계형 테이블과 JSON을 동등하게 지원하는 새로운 분석형 데이터베이스입니다
+  pl: SuperDB to nowa analityczna baza danych, która równorzędnie obsługuje tabele relacyjne i JSON.
+  pt: O SuperDB é um novo banco de dados analítico que oferece suporte igual a tabelas relacionais e JSON.
+  ro: SuperDB este o nouă bază de date analitică care acceptă tabele relaționale și JSON pe bază egală.
+  ru: SuperDB — новая аналитическая база данных, которая в равной мере поддерживает реляционные таблицы и JSON.
+  th: SuperDB คือฐานข้อมูลเชิงวิเคราะห์แบบใหม่ที่รองรับตารางเชิงสัมพันธ์และ JSON อย่างเท่าเทียมกัน
+  tr: SuperDB, ilişkisel tabloları ve JSON'u eşit düzeyde destekleyen yeni bir analitik veritabanıdır.
+  uk: SuperDB — це нова аналітична база даних, яка однаково підтримує реляційні таблиці та JSON.
+  vi: SuperDB là cơ sở dữ liệu phân tích mới hỗ trợ bảng quan hệ và JSON như nhau
 rule:
   darwin/brew:
     cmd: brew install brimdata/tap/super

@@ -3,6 +3,22 @@ homepage: https://github.com/aws/aws-cli
 desc:
   cn: Amazon Web Services 的通用命令行界面
   en: Universal Command Line Interface for Amazon Web Services
+  cs: Univerzální příkazový řádek pro Amazon Web Services
+  de: Universelle Kommandozeile für Amazon Web Services
+  es: Interfaz de línea de comandos universal para Amazon Web Services
+  fr: Interface de ligne de commande universelle pour Amazon Web Services
+  id: Antarmuka Baris Perintah Universal untuk Amazon Web Services
+  it: Interfaccia a riga di comando universale per Amazon Web Services
+  ja: Amazon Web Services 用の汎用コマンドラインインターフェース
+  ko: Amazon Web Services를 위한 범용 명령줄 인터페이스
+  pl: Uniwersalny interfejs wiersza poleceń dla Amazon Web Services
+  pt: Interface de linha de comando universal para a Amazon Web Services
+  ro: Interfață de linie de comandă universală pentru Amazon Web Services
+  ru: Универсальный интерфейс командной строки для Amazon Web Services
+  th: อินเทอร์เฟซบรรทัดคำสั่งสากลสำหรับ Amazon Web Services
+  tr: Amazon Web Services için evrensel komut satırı arayüzü
+  uk: Універсальний інтерфейс командного рядка для Amazon Web Services
+  vi: Giao diện dòng lệnh phổ quát cho Amazon Web Services
 x:
   source: https://github.com/aws/aws-cli
   brew: awscli

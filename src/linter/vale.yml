@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 文本质量检查工具（类似代码的 linting），用于在写作过程中识别和修复文本中的问题，比如语法错误、风格问题、一致性和标准性问题等
   en: A markup-aware linter for prose built with speed and extensibility in mind
+  cs: Linter pro text, který rozumí značkám, navržený s ohledem na rychlost a rozšiřitelnost
+  de: Ein markupbewusster Linter für Prosa, gebaut mit Blick auf Geschwindigkeit und Erweiterbarkeit
+  es: Un linter consciente del marcado para prosa, diseñado pensando en la velocidad y la extensibilidad
+  fr: Un linter conscient du balisage pour la prose, conçu en pensant à la vitesse et à l'extensibilité
+  id: Linter untuk prosa yang sadar markup, dibangun dengan mempertimbangkan kecepatan dan ekstensibilitas
+  it: Un linter per la prosa che riconosce il markup, progettato con cura velocità ed estensibilità
+  ja: 速度と拡張性を重視して作られた、マークアップ対応の散文用 linter
+  ko: 속도와 확장성을 염두에 두고 만든 마크업 인식형 산문 linter
+  pl: Linter dla prozy świadomy znaczników, zbudowany z myślą o szybkości i rozszerzalności
+  pt: Um linter para prosa com consciência de marcação, construído com foco em velocidade e extensibilidade
+  ro: Un linter pentru proză care înțelege marcajele, construit cu gând la viteză și extensibilitate
+  ru: Линтер для прозы, понимающий разметку и созданный с упором на скорость и расширяемость
+  th: ตัว lint สำหรับงานเขียนที่เข้าใจมาร์กอัป สร้างขึ้นโดยคำนึงถึงความเร็วและความสามารถในการขยายตัว
+  tr: Hız ve genişletilebilirliği göz önünde bulunduran, işaretleme farkındalığına sahip düzyazı linter'ı
+  uk: Лінтер для прози, що розуміє розмітку та створений із акцентом на швидкість і розширюваність
+  vi: Trình lint cho văn xuôi có nhận biết markup, được xây dựng với tâm niệm về tốc độ và khả năng mở rộng
 x:
   source: https://github.com/errata-ai/vale
   eget: errata-ai/vale

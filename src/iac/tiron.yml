@@ -3,6 +3,22 @@ homepage: https://tiron.run/
 desc:
   cn: Tiron 是一种易于使用的自动化工具，其目标是尽可能快
   en: Tiron is an automation tool that's easy to use and aims to be as fast as possible
+  cs: Tiron je automatizační nástroj, který se snadno používá a snaží se být co nejrychlejší
+  de: Tiron ist ein Automatisierungstool, das einfach zu bedienen ist und so schnell wie möglich sein will
+  es: Tiron es una herramienta de automatización fácil de usar que busca ser lo más rápida posible
+  fr: Tiron est un outil d'automatisation facile à utiliser qui vise à être aussi rapide que possible
+  id: Tiron adalah alat otomatisasi yang mudah digunakan dan bertujuan untuk menjadi secepat mungkin
+  it: Tiron è uno strumento di automazione facile da usare che punta a essere il più veloce possibile
+  ja: Tiron は使いやすく、できるだけ高速であることを目指す自動化ツールです
+  ko: Tiron은 사용하기 쉽고 가능한 한 빠르도록 설계된 자동화 도구입니다
+  pl: Tiron to narzędzie do automatyzacji, które jest łatwe w użyciu i dąży do jak największej szybkości
+  pt: O Tiron é uma ferramenta de automação fácil de usar que busca ser o mais rápida possível
+  ro: Tiron este un instrument de automatizare ușor de folosit, care urmărește să fie cât mai rapid
+  ru: Tiron — инструмент автоматизации, простой в использовании и нацеленный на максимальную скорость
+  th: Tiron คือเครื่องมืออัตโนมัติที่ใช้งานง่ายและมุ่งหวังจะให้เร็วที่สุดเท่าที่จะเป็นไปได้
+  tr: Tiron, kullanımı kolay ve mümkün olduğunca hızlı olmayı amaçlayan bir otomasyon aracıdır
+  uk: Tiron — інструмент автоматизації, простий у використанні та спрямований на максимальну швидкість
+  vi: Tiron là công cụ tự động hóa dễ sử dụng, nhằm đạt tốc độ nhanh nhất có thể
 rule:
   /curl:
     cmd: curl -sL https://tiron.run/install.sh | sh

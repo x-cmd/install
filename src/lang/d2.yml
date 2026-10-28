@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: D2 是一个将文本转换为图表的图表脚本语言，它代表了声明性图表
   en: D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming
+  cs: D2 je skriptovací jazyk diagramů, který převádí text na diagramy. Znamená Declarative Diagramming
+  de: D2 ist eine Diagramm-Skriptsprache, die Text in Diagramme umwandelt. D steht für Declarative Diagramming
+  es: D2 es un lenguaje de secuencias de diagramas que convierte texto en diagramas. Significa Declarative Diagramming
+  fr: D2 est un langage de script de diagrammes qui transforme le texte en diagrammes. D signifie Declarative Diagramming
+  id: D2 adalah bahasa skrip diagram yang mengubah teks menjadi diagram. D berarti Declarative Diagramming
+  it: D2 è un linguaggio di scripting per diagrammi che trasforma il testo in diagrammi. D sta per Declarative Diagramming
+  ja: D2 はテキストを図に変換するダイアグラムスクリプト言語です。D は Declarative Diagramming を表します
+  ko: D2는 텍스트를 다이어그램으로 변환하는 다이어그램 스크립팅 언어입니다. D는 Declarative Diagramming을 뜻합니다
+  pl: D2 to język skryptowy diagramów zamieniający tekst w diagramy. D oznacza Declarative Diagramming
+  pt: D2 é uma linguagem de script de diagramas que transforma texto em diagramas. D significa Declarative Diagramming
+  ro: D2 este un limbaj de script pentru diagrame care transformă textul în diagrame. D înseamnă Declarative Diagramming
+  ru: D2 — это скриптовый язык диаграмм, превращающий текст в диаграммы. D означает Declarative Diagramming
+  th: D2 คือภาษาสคริปต์สำหรับวาดไดอะแกรมที่เปลี่ยนข้อความให้เป็นไดอะแกรม D ย่อมาจาก Declarative Diagramming
+  tr: D2, metni diyagramlara dönüştüren bir diyagram betik dilidir. D, Declarative Diagramming ifadesinin kısaltmasıdır
+  uk: D2 — це мова скриптів для діаграм, яка перетворює текст у діаграми. D означає Declarative Diagramming
+  vi: D2 là ngôn ngữ kịch bản vẽ sơ đồ, biến văn bản thành sơ đồ. D là viết tắt của Declarative Diagramming
 x:
   source: https://github.com/d2lang/d2
   eget: terrastruct/d2

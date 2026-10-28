@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 现代端口扫描器
   en: The Modern Port Scanner
+  cs: Moderní skener portů
+  de: Der moderne Portscanner
+  es: El escáner de puertos moderno
+  fr: Le scanner de ports moderne
+  id: Pemindai port modern
+  it: Il moderno scanner di porte
+  ja: モダンなポートスキャナー
+  ko: 현대적인 포트 스캐너
+  pl: Nowoczesny skaner portów
+  pt: O scanner de portas moderno
+  ro: Scannerul de porturi modern
+  ru: Современный сканер портов
+  th: เครื่องสแกนพอร์ตยุคใหม่
+  tr: Modern port tarayıcı
+  uk: Сучасний сканер портів
+  vi: Máy quét cổng hiện đại
 x:
   source: https://github.com/bee-san/RustScan
   brew: rustscan

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: ctlptl 是一个用于声明性地设置本地 Kubernetes 集群的 CLI
   en: ctlptl is a CLI for declaratively setting up local Kubernetes clusters
+  cs: ctlptl je CLI pro deklarativní nastavení lokálních clusterů Kubernetes
+  de: ctlptl ist eine CLI zum deklarativen Einrichten lokaler Kubernetes-Cluster
+  es: ctlptl es una CLI para configurar de forma declarativa clústeres locales de Kubernetes
+  fr: ctlptl est une CLI pour configurer de manière déclarative des clusters Kubernetes locaux
+  id: ctlptl adalah CLI untuk menyiapkan cluster Kubernetes lokal secara deklaratif
+  it: ctlptl è una CLI per configurare in modo dichiarativo cluster Kubernetes locali
+  ja: ctlptl はローカル Kubernetes クラスタを宣言的にセットアップする CLI です
+  ko: ctlptl은 로컬 Kubernetes 클러스터를 선언적으로 설정하는 CLI입니다
+  pl: ctlptl to CLI do deklaratywnego konfigurowania lokalnych klastrów Kubernetes
+  pt: O ctlptl é uma CLI para configurar de forma declarativa clusters Kubernetes locais
+  ro: ctlptl este o interfață CLI pentru configurarea declarativă a clusterelor locale Kubernetes
+  ru: ctlptl — это CLI для декларативной настройки локальных кластеров Kubernetes
+  th: ctlptl คือ CLI สำหรับตั้งค่าคลัสเตอร์ Kubernetes ในเครื่องแบบประกาศ
+  tr: ctlptl, yerel Kubernetes kümelerini bildirimsel olarak kurmak için bir CLI'dır
+  uk: ctlptl — це CLI для декларативного налаштування локальних кластерів Kubernetes
+  vi: ctlptl là CLI để thiết lập cụm Kubernetes cục bộ theo kiểu khai báo
 x:
   source: https://github.com/tilt-dev/ctlptl
   yay: ctlptl-bin

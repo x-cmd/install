@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 适用于 ChatGPT 的命令行界面
   en: Command line interface for ChatGPT
+  cs: Rozhraní příkazové řádky pro ChatGPT
+  de: Kommandozeilenoberfläche für ChatGPT
+  es: Interfaz de línea de comandos para ChatGPT
+  fr: Interface de ligne de commande pour ChatGPT
+  id: Antarmuka baris perintah untuk ChatGPT
+  it: Interfaccia a riga di comando per ChatGPT
+  ja: ChatGPT のためのコマンドラインインターフェース
+  ko: ChatGPT를 위한 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla ChatGPT
+  pt: Interface de linha de comando para ChatGPT
+  ro: Interfață de linie de comandă pentru ChatGPT
+  ru: Интерфейс командной строки для ChatGPT
+  th: ส่วนติดต่อบรรทัดคำสั่งสำหรับ ChatGPT
+  tr: ChatGPT için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для ChatGPT
+  vi: Giao diện dòng lệnh cho ChatGPT
 x:
   source: https://github.com/j178/chatgpt
   eget: j178/chatgpt

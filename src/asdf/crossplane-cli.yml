@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Crossplane 是一个构建云本地控制平面的框架，不需要编写代码
   en: Crossplane is a framework for building cloud native control planes without needing to write code
+  cs: Crossplane je framework pro budování cloudově nativních řídicích rovin bez nutnosti psát kód
+  de: Crossplane ist ein Framework zum Erstellen cloudnativer Steuerungsebenen, ohne Code schreiben zu müssen
+  es: Crossplane es un framework para crear planos de control nativos de la nube sin necesidad de escribir código
+  fr: Crossplane est un framework pour construire des plans de contrôle cloud native sans avoir à écrire de code
+  id: Crossplane adalah framework untuk membangun control plane cloud native tanpa perlu menulis kode
+  it: Crossplane è un framework per costruire control plane cloud native senza scrivere codice
+  ja: Crossplane は、コードを書くことなくクラウドネイティブのコントロールプレーンを構築するためのフレームワークです
+  ko: Crossplane은 코드를 작성하지 않고 클라우드 네이티브 제어 평면을 구축할 수 있는 프레임워크입니다
+  pl: Crossplane to framework do budowania natywnie chmurowych płaszczyzn sterowania bez konieczności pisania kodu
+  pt: O Crossplane é um framework para construir planos de controle nativos de nuvem sem precisar escrever código
+  ro: Crossplane este un cadru pentru construirea planurilor de control cloud-native fără a scrie cod
+  ru: Crossplane — это фреймворк для создания облачно-нативных систем управления без написания кода
+  th: Crossplane เป็นเฟรมเวิร์กสำหรับสร้าง control plane แบบ cloud native โดยไม่ต้องเขียนโค้ด
+  tr: Crossplane, kod yazmaya gerek kalmadan bulut tabanlı kontrol düzlemleri kurmak için bir çerçevedir
+  uk: Crossplane — це фреймворк для створення хмарно-орієнтованих систем керування без написання коду
+  vi: Crossplane là framework để xây dựng control plane cloud native mà không cần viết mã
 x:
   source: https://github.com/crossplane/crossplane
   asdf: crossplane-cli

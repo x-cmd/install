@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Discordo 是一个轻量级的、安全的、功能丰富的 Discord 终端客户端
   en: Discordo is a lightweight, secure, and feature-rich Discord terminal client. Heavily work-in-progress, expect breaking changes
+  cs: Discordo je lehký, bezpečný a funkčně bohatý terminálový klient pro Discord. Je ve vývoji, čekejte zlomové změny
+  de: Discordo ist ein leichter, sicherer und funktionsreicher Discord-Terminal-Client. Stark in Entwicklung, es sind breaking changes zu erwarten
+  es: Discordo es un cliente de terminal para Discord ligero, seguro y lleno de funciones. En heavily work-in-progress, espere cambios incompatibles
+  fr: Discordo est un client terminal Discord léger, sécurisé et riche en fonctionnalités. Très en cours de développement, attendez-vous à des changements incompatibles
+  id: Discordo adalah klien terminal Discord yang ringan, aman, dan kaya fitur. Masih dalam pengembangan,siapkan diri untuk perubahan yang merusak
+  it: Discordo è un client terminale Discord leggero, sicuro e ricco di funzionalità. Fortemente in fase di sviluppo, aspettati cambiamenti incompatibili
+  ja: Discordo は軽量で安全、機能豊富な Discord 用ターミナルクライアントです。開発途上のため、破壊的な変更が生じる可能性があります
+  ko: Discordo는 가볍고 안전하며 기능이 풍부한 Discord 터미널 클라이언트입니다. 개발이 진행 중이므로 호환성 깨지는 변경이 예상됩니다
+  pl: Discordo to lekki, bezpieczny i bogaty w funkcje klient terminalowy Discorda. Projekt jest w trakcie intensywnego rozwoju, można oczekiwać zmian łamiących zgodność
+  pt: O Discordo é um cliente de terminal do Discord leve, seguro e cheio de recursos. Fortemente em desenvolvimento, espere mudanças incompatíveis
+  ro: Discordo este un client terminal pentru Discord ușor, sigur și bogat în funcții. Foarte în curs de dezvoltare, așteptați-vă la schimbări incompatibile
+  ru: Discordo — лёгкий, безопасный и функциональный терминальный клиент для Discord. Проект активно разрабатывается, ожидайте несовместимых изменений
+  th: Discordo คือไคลเอนต์เทอร์มินัลสำหรับ Discord ที่มีน้ำหนักเบา ปลอดภัย และมีคุณสมบัติครบถ้วน ยังอยู่ระหว่างการพัฒนาอย่างหนัก อาจมีการเปลี่ยนแปลงที่ทำให้ใช้งานไม่ได้
+  tr: Discordo, hafif, güvenli ve özellik açısından zengin bir Discord terminal istemcisidir. Yoğun geliştirme aşamasındadır, uyumsuz değişiklikler bekleyin
+  uk: Discordo — легкий, безпечний і функціональний термінальний клієнт для Discord. Проект перебуває в активній розробці, очікуйте несумісних змін
+  vi: Discordo là ứng dụng terminal cho Discord nhẹ, an toàn và giàu tính năng. Đang trong quá trình phát triển nên có thể xảy ra các thay đổi không tương thích
 x:
   source: https://github.com/ayn2op/discordo
   scoop: discordo

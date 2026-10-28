@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: webtorrent-cli 是一个简单的 torrent 客户端，可用于 Node.js，作为命令行应用
   en: webtorrent-cli is a simple torrent client for use in node.js, as a command line app
+  cs: webtorrent-cli je jednoduchý torrent klient pro použití v node.js, jako aplikace příkazové řádky
+  de: webtorrent-cli ist ein einfacher Torrent-Client für die Verwendung in node.js, als Kommandozeilenanwendung
+  es: webtorrent-cli es un cliente de torrent sencillo para usar en node.js, como aplicación de línea de comandos
+  fr: webtorrent-cli est un client torrent simple à utiliser dans node.js, comme application en ligne de commande
+  id: webtorrent-cli adalah klien torrent sederhana untuk digunakan di node.js, sebagai aplikasi baris perintah
+  it: webtorrent-cli è un semplice client torrent da usare in node.js, come applicazione a riga di comando
+  ja: webtorrent-cli は node.js で使用するシンプルな torrent クライアントで、コマンドラインアプリケーションとして動作します
+  ko: webtorrent-cli는 node.js에서 사용할 수 있는 간단한 torrent 클라이언트로, 명령줄 애플리케이션입니다
+  pl: webtorrent-cli to prosty klient torrentów do użycia w node.js, jako aplikacja wiersza poleceń
+  pt: webtorrent-cli é um cliente de torrent simples para uso no node.js, como um aplicativo de linha de comando
+  ro: webtorrent-cli este un client torrent simplu pentru utilizare în node.js, ca aplicație de linie de comandă
+  ru: webtorrent-cli — простой torrent-клиент для использования в node.js, в виде приложения командной строки
+  th: webtorrent-cli เป็นไคลเอนต์ torrent อย่างง่ายที่ใช้ใน node.js ในรูปแบบแอปบรรทัดคำสั่ง
+  tr: webtorrent-cli, node.js içinde komut satırı uygulaması olarak kullanılan basit bir torrent istemcisidir
+  uk: webtorrent-cli — простий torrent-клієнт для використання в node.js, як застосунок командного рядка
+  vi: webtorrent-cli là một torrent client đơn giản để dùng trong node.js, dưới dạng ứng dụng dòng lệnh
 x:
   source: https://github.com/webtorrent/webtorrent-cli
   yay: webtorrent-cli

@@ -4,6 +4,22 @@ lang: Scala
 desc:
   cn: Scala CLI 是一个与 Scala 语言交互的命令行工具。可以编译、运行、测试和打包 Scala 代码
   en: Scala CLI is a command-line tool for interacting with the Scala language. It can compile, run, test, and package Scala code
+  cs: Scala CLI je nástroj příkazového řádku pro práci s jazykem Scala. Umí kompilovat, spouštět, testovat a balit kód Scala
+  de: Scala CLI ist ein Befehlszeilenwerkzeug für die Arbeit mit der Sprache Scala. Es kann Scala-Code kompilieren, ausführen, testen und paketieren
+  es: Scala CLI es una herramienta de línea de comandos para interactuar con el lenguaje Scala. Puede compilar, ejecutar, probar y empaquetar código Scala
+  fr: Scala CLI est un outil en ligne de commande pour interagir avec le langage Scala. Il peut compiler, exécuter, tester et empaqueter du code Scala
+  id: Scala CLI adalah alat baris perintah untuk berinteraksi dengan bahasa Scala. Dapat mengompilasi, menjalankan, menguji, dan mengemas kode Scala
+  it: Scala CLI è uno strumento da riga di comando per interagire con il linguaggio Scala. Può compilare, eseguire, testare e impacchettare codice Scala
+  ja: Scala CLI は Scala 言語と対話するためのコマンドラインツールです。Scala コードのコンパイル、実行、テスト、パッケージングができます
+  ko: Scala CLI는 Scala 언어와 상호작용하기 위한 명령줄 도구입니다. Scala 코드를 컴파일, 실행, 테스트 및 패키징할 수 있습니다
+  pl: Scala CLI to narzędzie wiersza poleceń do pracy z językiem Scala. Potrafi kompilować, uruchamiać, testować i pakować kod Scali
+  pt: O Scala CLI é uma ferramenta de linha de comando para interagir com a linguagem Scala. Ele pode compilar, executar, testar e empacotar código Scala
+  ro: Scala CLI este un instrument de linie de comandă pentru interacțiunea cu limbajul Scala. Poate compila, rula, testa și împacheta cod Scala
+  ru: Scala CLI — инструмент командной строки для работы с языком Scala. Он умеет компилировать, запускать, тестировать и упаковывать код Scala
+  th: Scala CLI เป็นเครื่องมือบรรทัดคำสั่งสำหรับการทำงานกับภาษา Scala สามารถคอมไพล์ รัน ทดสอบ และแพ็กเกจโค้ด Scala
+  tr: Scala CLI, Scala diliyle etkileşim kurmak için bir komut satırı aracıdır. Scala kodunu derleyebilir, çalıştırabilir, test edebilir ve paketleyebilir
+  uk: Scala CLI — це інструмент командного рядка для роботи з мовою Scala. Він може компілювати, запускати, тестувати та пакувати код Scala
+  vi: Scala CLI là công cụ dòng lệnh để tương tác với ngôn ngữ Scala. Nó có thể biên dịch, chạy, kiểm thử và đóng gói mã Scala
 x:
   source: https://github.com/VirtusLab/scala-cli
   eget: VirtusLab/scala-cli

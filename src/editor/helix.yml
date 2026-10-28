@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 一款后现代的多模态文本编辑器，支持多窗口编辑
   en: A post-modern multimodal text editor that supports multi window editing
+  cs: Postmoderní multimodální textový editor s podporou editace ve více oknech
+  de: Ein postmoderner multimodaler Texteditor, der die Bearbeitung in mehreren Fenstern unterstützt
+  es: Un editor de texto multimodal posmoderno que admite edición en varias ventanas
+  fr: Un éditeur de texte multimodal postmoderne prenant en charge l'édition multi-fenêtre
+  id: Editor teks multimodal postmodern yang mendukung pengeditan multi jendela
+  it: Un editor di testo multimodale post-moderno che supporta l'editing multi-finestra
+  ja: マルチウィンドウ編集に対応したポストモダンのマルチモーダルテキストエディタ
+  ko: 다중 창 편집을 지원하는 포스트모던 멀티모달 텍스트 편집기
+  pl: Postmoderny multimodalny edytor tekstu z obsługą edycji w wielu oknach
+  pt: Um editor de texto multimodal pós-moderno que suporta edição em várias janelas
+  ro: Un editor de text multimodal postmodern care acceptă editarea în mai multe ferestre
+  ru: Постмодернистский мультимодальный текстовый редактор с поддержкой редактирования в нескольких окнах
+  th: โปรแกรมแก้ไขข้อความมัลติโมดัลยุคโพสต์โมเดิร์นที่รองรับการแก้ไขแบบหลายหน้าต่าง
+  tr: Çoklu pencere düzenlemeyi destekleyen postmodern, çok modlu bir metin düzenleyici
+  uk: Постмодерністський мультимодальний текстовий редактор із підтримкою редагування у кількох вікнах
+  vi: Trình soạn thảo văn bản đa phương thức hậu hiện đại, hỗ trợ chỉnh sửa nhiều cửa sổ
 x:
   source: https://github.com/helix-editor/helix
   eget: helix-editor/helix

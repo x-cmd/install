@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubebuilder 是一个使用自定义资源定义 (CRD) 构建 Kubernetes API 的框架
   en: Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs)
+  cs: Kubebuilder je rámec pro tvorbu API Kubernetes pomocí vlastních definic zdrojů (CRD)
+  de: Kubebuilder ist ein Framework zum Erstellen von Kubernetes-APIs mithilfe benutzerdefinierter Ressourcendefinitionen (CRDs)
+  es: Kubebuilder es un framework para construir APIs de Kubernetes mediante definiciones de recursos personalizados (CRD)
+  fr: Kubebuilder est un framework pour construire des API Kubernetes à l'aide de définitions de ressources personnalisées (CRD)
+  id: Kubebuilder adalah framework untuk membangun API Kubernetes menggunakan definisi sumber daya kustom (CRD)
+  it: Kubebuilder è un framework per costruire API Kubernetes utilizzando definizioni di risorse personalizzate (CRD)
+  ja: Kubebuilder はカスタムリソース定義 (CRD) を使用して Kubernetes API を構築するためのフレームワークです
+  ko: Kubebuilder는 사용자 정의 리소스 정의(CRD)를 사용하여 Kubernetes API를 구축하는 프레임워크입니다
+  pl: Kubebuilder to framework do budowania API Kubernetes przy użyciu niestandardowych definicji zasobów (CRD)
+  pt: Kubebuilder é um framework para construir APIs do Kubernetes usando definições de recursos personalizados (CRD)
+  ro: Kubebuilder este un framework pentru construirea API-urilor Kubernetes folosind definiții personalizate de resurse (CRD)
+  ru: Kubebuilder — фреймворк для создания API Kubernetes с использованием пользовательских определений ресурсов (CRD)
+  th: Kubebuilder เป็นเฟรมเวิร์กสำหรับสร้าง API ของ Kubernetes โดยใช้ custom resource definitions (CRD)
+  tr: Kubebuilder, özel kaynak tanımlarını (CRD) kullanarak Kubernetes API'leri oluşturmak için bir çerçevedir
+  uk: Kubebuilder — фреймворк для створення API Kubernetes з використанням користувацьких визначень ресурсів (CRD)
+  vi: Kubebuilder là framework để xây dựng API Kubernetes bằng cách dùng các định nghĩa tài nguyên tùy chỉnh (CRD)
 x:
   source: https://github.com/kubernetes-sigs/kubebuilder
   yay: kubebuilder-bin

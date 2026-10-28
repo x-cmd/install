@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 ping 多个服务器并在类似 top 的终端 UI 中显示结果的 TUI 工具
   en: A TUI tool for pinging multiple servers and showing the result in a top like terminal UI.
+  cs: Nástroj TUI pro pingování více serverů a zobrazení výsledků v terminálovém UI podobném top.
+  de: Ein TUI-Tool zum Pingen mehrerer Server und Anzeigen des Ergebnisses in einer top-ähnlichen Terminal-Benutzeroberfläche.
+  es: Una herramienta TUI para hacer ping a varios servidores y mostrar el resultado en una interfaz de terminal similar a top.
+  fr: Un outil TUI pour pinger plusieurs serveurs et afficher le résultat dans une interface terminal de type top.
+  id: Alat TUI untuk melakukan ping ke beberapa server dan menampilkan hasilnya dalam UI terminal seperti top.
+  it: Uno strumento TUI per eseguire ping su più server e mostrare il risultato in una UI da terminale simile a top.
+  ja: 複数のサーバーに ping を実行し、top 風のターミナル UI に結果を表示する TUI ツール。
+  ko: 여러 서버에 ping을 보내고 top과 같은 터미널 UI에 결과를 표시하는 TUI 도구.
+  pl: Narzędzie TUI do pingowania wielu serwerów i wyświetlania wyników w terminalowym UI podobnym do top.
+  pt: Uma ferramenta TUI para fazer ping em vários servidores e mostrar o resultado em uma UI de terminal semelhante ao top.
+  ro: Un instrument TUI pentru ping la mai multe servere și afișarea rezultatului într-o interfață de terminal ca top.
+  ru: TUI-инструмент для ping нескольких серверов с выводом результата в терминальном интерфейсе в стиле top.
+  th: เครื่องมือ TUI สำหรับ ping หลายเซิร์ฟเวอร์และแสดงผลใน UI เทอร์มินัลแบบ top
+  tr: Birden fazla sunucuya ping gönderen ve sonucu top benzeri bir terminal arayüzünde gösteren TUI aracı.
+  uk: TUI-інструмент для ping кількох серверів із виводом результату в термінальному інтерфейсі у стилі top.
+  vi: Công cụ TUI để ping nhiều máy chủ và hiển thị kết quả trong giao diện terminal kiểu top.
 x:
   source: https://github.com/laixintao/pingtop
   pip: pingtop

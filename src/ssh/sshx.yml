@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 Web 的安全协作终端共享器，一条命令即可把终端实时分享给任意多个用户
   en: A fast, collaborative live terminal sharing tool over the web with end-to-end encryption
+  cs: Rychlé kolaborativní nástroj pro živé sdílení terminálu přes web s šifrováním end-to-end
+  de: Ein schnelles, kollaboratives Werkzeug zur Live-Terminalfreigabe über das Web mit Ende-zu-Ende-Verschlüsselung
+  es: Una rápida herramienta colaborativa para compartir el terminal en vivo a través de la web con cifrado de extremo a extremo
+  fr: Un outil collaboratif rapide de partage de terminal en direct sur le web avec chiffrement de bout en bout
+  id: Alat berbagi terminal langsung kolaboratif yang cepat melalui web dengan enkripsi ujung ke ujung
+  it: Un rapido strumento collaborativo di condivisione del terminal dal vivo via web con crittografia end-to-end
+  ja: エンドツーエンド暗号化を備えた、ウェブベースの高速な共同ライブターミナル共有ツール
+  ko: 종단 간 암호화를 지원하는 빠른 웹 기반 협업형 라이브 터미널 공유 도구
+  pl: Szybkie, współdzielone narzędzie do udostępniania terminala na żywo przez internet z szyfrowaniem end-to-end
+  pt: Uma ferramenta colaborativa rápida de compartilhamento de terminal ao vivo pela web com criptografia ponta a ponta
+  ro: Un instrument rapid de partajare live a terminalului prin web cu criptare capăt la capăt
+  ru: Быстрый инструмент совместного разделения терминала в реальном времени через веб с сквозным шифрованием
+  th: เครื่องมือแชร์เทอร์มินัลสดแบบร่วมมือที่รวดเร็วผ่านเว็บ พร้อมการเข้ารหัสแบบปลายทางถึงปลายทาง
+  tr: Uçtan uca şifreleme ile web üzerinden canlı terminal paylaşımı için hızlı, işbirlikçi bir araç
+  uk: Швидкий інструмент спільного розподілу термінала в реальному часі через веб із наскрізним шифруванням
+  vi: Công cụ chia sẻ terminal trực tiếp nhanh, cộng tác qua web với mã hóa đầu cuối
 x:
   source: https://github.com/ekzhang/sshx
   eget: ekzhang/sshx

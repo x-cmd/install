@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用于审查 git 改动的 TUI
   en: 'TUI for reviewing git changes'
+  cs: TUI pro kontrolu git změn
+  de: TUI zum Prüfen von git-Änderungen
+  es: TUI para revisar cambios en git
+  fr: Une TUI pour examiner les modifications git
+  id: TUI untuk meninjau perubahan git
+  it: TUI per rivedere le modifiche git
+  ja: git の変更をレビューするための TUI
+  ko: git 변경 사항을 검토하기 위한 TUI
+  pl: TUI do przeglądania zmian git
+  pt: TUI para revisar alterações do git
+  ro: TUI pentru revizuirea modificărilor git
+  ru: TUI для просмотра изменений git
+  th: TUI สำหรับตรวจทานการเปลี่ยนแปลงของ git
+  tr: Git değişikliklerini incelemek için TUI
+  uk: TUI для перегляду змін git
+  vi: Giao diện TUI để xem lại các thay đổi git
 x:
   source: https://github.com/remorses/critique
   eget: remorses/critique

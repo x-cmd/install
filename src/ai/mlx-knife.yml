@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 类似 ollama 的 CLI，用于在 HuggingFace 上管理 MLX 模型（pull/rm/list/show/serve 等）
   en: ollama like cli tool for MLX models on huggingface (pull, rm, list, show, serve etc.)
+  cs: CLI nástroj podobný ollama pro správu modelů MLX na huggingface (pull, rm, list, show, serve atd.)
+  de: ollama-ähnliches CLI-Werkzeug für MLX-Modelle auf huggingface (pull, rm, list, show, serve usw.)
+  es: Herramienta de línea de comandos similar a ollama para modelos MLX en huggingface (pull, rm, list, show, serve, etc.)
+  fr: Outil en ligne de commande similaire à ollama pour les modèles MLX sur huggingface (pull, rm, list, show, serve, etc.)
+  id: Alat CLI seperti ollama untuk model MLX di huggingface (pull, rm, list, show, serve, dll.)
+  it: Strumento CLI simile a ollama per i modelli MLX su huggingface (pull, rm, list, show, serve, ecc.)
+  ja: huggingface 上の MLX モデルを管理するための ollama 風 CLI ツール (pull, rm, list, show, serve など)
+  ko: huggingface의 MLX 모델을 관리하는 ollama 유사 CLI 도구 (pull, rm, list, show, serve 등)
+  pl: Narzędzie CLI podobne do ollama dla modeli MLX na huggingface (pull, rm, list, show, serve itd.)
+  pt: Ferramenta de linha de comando similar ao ollama para modelos MLX no huggingface (pull, rm, list, show, serve etc.)
+  ro: Instrument CLI asemănător cu ollama pentru modelele MLX de pe huggingface (pull, rm, list, show, serve etc.)
+  ru: CLI-инструмент, похожий на ollama, для моделей MLX на huggingface (pull, rm, list, show, serve и т.д.)
+  th: เครื่องมือ CLI คล้าย ollama สำหรับจัดการโมเดล MLX บน huggingface (pull, rm, list, show, serve เป็นต้น)
+  tr: huggingface üzerindeki MLX modelleri için ollama benzeri bir CLI aracı (pull, rm, list, show, serve vb.)
+  uk: CLI-інструмент, схожий на ollama, для моделей MLX на huggingface (pull, rm, list, show, serve тощо)
+  vi: Công cụ CLI tương tự ollama cho các mô hình MLX trên huggingface (pull, rm, list, show, serve, v.v.)
 x:
   source: https://github.com/mzau/mlx-knife
   eget: mzau/mlx-knife

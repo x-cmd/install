@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 命令行基准测试工具。
   en: A command-line benchmarking tool.
+  cs: Nástroj pro benchmarkování z příkazové řádky.
+  de: Ein Benchmark-Werkzeug für die Kommandozeile.
+  es: Una herramienta de benchmark desde la línea de órdenes.
+  fr: Un outil de benchmark en ligne de commande.
+  id: Alat benchmarking berbasis baris perintah.
+  it: Uno strumento di benchmarking da riga di comando.
+  ja: コマンドラインのベンチマークツール。.
+  ko: 명령줄 벤치마킹 도구.
+  pl: Narzędzie do benchmarkingu z wiersza poleceń.
+  pt: Uma ferramenta de benchmark de linha de comando.
+  ro: Un instrument de benchmark din linia de comandă.
+  ru: Инструмент для бенчмаркинга из командной строки.
+  th: เครื่องมือทดสอบเบนชมาร์กจากบรรทัดคำสั่ง.
+  tr: Komut satırından kıyaslama aracı.
+  uk: Інструмент для бенчмаркінгу з командного рядка.
+  vi: Công cụ đo hiệu năng từ dòng lệnh.
 x:
   source: https://github.com/sharkdp/hyperfine
   eget: sharkdp/hyperfine

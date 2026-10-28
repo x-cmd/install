@@ -3,6 +3,22 @@ homepage: https://im.qq.com/index/
 desc:
   en: QQ (Tencent QQ) is an Internet-based instant messaging software developed by Tencent based on ICQ
   cn: QQ（ Tencent QQ）是 腾讯公司 借鉴于 ICQ 开发的一款 基于 Internet 的 即时通信 软件
+  cs: QQ (Tencent QQ) je instantní komunikační software založený na ICQ, vyvinutý společností Tencent
+  de: QQ (Tencent QQ) ist eine auf ICQ basierende Instant-Messaging-Software, die von Tencent entwickelt wurde
+  es: QQ (Tencent QQ) es un software de mensajería instantánea basado en ICQ desarrollado por Tencent
+  fr: QQ (Tencent QQ) est un logiciel de messagerie instantanée basé sur ICQ et développé par Tencent
+  id: QQ (Tencent QQ) adalah perangkat lunak pesan instan berbasis ICQ yang dikembangkan oleh Tencent
+  it: QQ (Tencent QQ) è un software di messaggistica istantanea basato su ICQ, sviluppato da Tencent
+  ja: QQ (Tencent QQ) は Tencent が ICQ をヒントに開発したインターネット上のインスタントメッセージソフトです
+  ko: QQ (Tencent QQ)는 Tencent가 ICQ를 바탕으로 개발한 인터넷 기반 인스턴트 메시징 소프트웨어입니다
+  pl: QQ (Tencent QQ) to oprogramowanie do natychmiastowej komunikacji oparte na ICQ, opracowane przez firmę Tencent
+  pt: O QQ (Tencent QQ) é um software de mensagens instantâneas baseado no ICQ, desenvolvido pela Tencent
+  ro: QQ (Tencent QQ) este un software de mesagerie instantanee bazat pe ICQ, dezvoltat de Tencent
+  ru: QQ (Tencent QQ) — программа для мгновенного обмена сообщениями через интернет, разработанная Tencent на основе ICQ
+  th: QQ (Tencent QQ) คือซอฟต์แวร์แชทแบบทันทีบนอินเทอร์เน็ตที่พัฒนาโดย Tencent โดยอ้างอิงจาก ICQ
+  tr: QQ (Tencent QQ), Tencent tarafından ICQ'dan esinlenerek geliştirilen internete dayalı bir anlık mesajlaşma yazılımıdır
+  uk: QQ (Tencent QQ) — програма миттєвого обміну повідомленнями через інтернет, розроблена Tencent на основі ICQ
+  vi: QQ (Tencent QQ) là phần mềm nhắn tin tức thì qua internet dựa trên ICQ, do Tencent phát triển
 rule:
   darwin/brew:
     cmd: brew install --cask qq

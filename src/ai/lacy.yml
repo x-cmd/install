@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 与你的 shell 对话：命令直接执行，问题交给 AI，无需前缀
   en: Talk to your shell — commands run, questions go to AI. No prefixes.
+  cs: Mluvte se se svým shellem — příkazy se spouštějí, otázky jdou AI. Bez předpon.
+  de: Sprechen Sie mit Ihrer Shell — Befehle werden ausgeführt, Fragen gehen an die KI. Ohne Präfixe.
+  es: "Habla con tu shell: los comandos se ejecutan, las preguntas van a la IA. Sin prefijos."
+  fr: "Parlez à votre shell : les commandes s'exécutent, les questions vont à l'IA. Sans préfixes."
+  id: Bicara dengan shell Anda — perintah dijalankan, pertanyaan diberikan ke AI. Tanpa awalan.
+  it: "Parla con la tua shell: i comandi vengono eseguiti, le domande vanno all'IA. Nessun prefisso."
+  ja: シェルと対話 — コマンドは実行され、質問はAIに任されます。接頭辞は不要です。
+  ko: 셸과 대화하세요 — 명령은 실행되고, 질문은 AI로 전달됩니다. 접두사 없이.
+  pl: Rozmawiaj ze swoją powłoką — polecenia są wykonywane, a pytania trafiają do AI. Bez prefiksów.
+  pt: "Converse com seu shell: comandos são executados, perguntas vão para a IA. Sem prefixos."
+  ro: Vorbește cu shell-ul tău — comenzile rulează, întrebările merg către AI. Fără prefixe.
+  ru: Общайтесь со своей оболочкой — команды выполняются, а вопросы уходят ИИ. Без префиксов.
+  th: คุยกับเชลล์ของคุณ — คำสั่งจะถูกเรียกใช้ คำถามจะส่งให้ AI โดยไม่ต้องใช้คำนำหน้า
+  tr: Kabuğunuzla konuşun — komutlar çalışır, sorular yapay zekâya gider. Önek yok.
+  uk: Спілкуйтеся зі своєю оболонкою — команди виконуються, а запитання надсилаються ШІ. Без префіксів.
+  vi: Trò chuyện với shell của bạn — lệnh được chạy, câu hỏi chuyển cho AI. Không tiền tố.
 x:
   source: https://github.com/lacymorrow/lacy
   npm: lacy

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Go 编写的 CLI，借助 ChatGPT（gpt-4.1、gpt-4o）生成 git 提交信息或代码评审摘要，并自动安装 prepare-commit-msg 钩子
   en: A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
+  cs: CLI napsaný v Go, který vám pomocí AI ChatGPT (modely gpt-4.1, gpt-4o) píše git commit zprávy nebo vytváří souhrn code review, a automaticky instaluje git hook prepare-commit-msg.
+  de: Ein in Go geschriebenes CLI, das mit ChatGPT AI (gpt-4.1, gpt-4o) git-Commit-Nachrichten schreibt oder einen Code-Review-Überblick erstellt und automatisch einen git prepare-commit-msg-Hook installiert.
+  es: Una CLI escrita en Go que escribe mensajes de commit de git o genera un resumen de revisión de código usando la IA de ChatGPT (modelos gpt-4.1, gpt-4o) e instala automáticamente un hook prepare-commit-msg de git.
+  fr: Une CLI écrite en Go qui écrit les messages de commit git ou produit un résumé de revue de code à l'aide de l'IA ChatGPT (modèles gpt-4.1, gpt-4o) et installe automatiquement un hook git prepare-commit-msg.
+  id: CLI yang ditulis dengan Go untuk menulis pesan commit git atau membuat ringkasan code review menggunakan AI ChatGPT (model gpt-4.1, gpt-4o) dan otomatis memasang hook git prepare-commit-msg.
+  it: Una CLI scritta in Go che scrive i messaggi di commit git o produce un riepilogo della code review usando l'IA di ChatGPT (modelli gpt-4.1, gpt-4o) e installa automaticamente un hook git prepare-commit-msg.
+  ja: Go で書かれた CLI で、ChatGPT AI（gpt-4.1、gpt-4o モデル）を使って git コミットメッセージの作成やコードレビュー要約の生成を行い、git の prepare-commit-msg フックを自動的にインストールします。
+  ko: Go로 작성된 CLI로, ChatGPT AI(gpt-4.1, gpt-4o 모델)를 이용해 git 커밋 메시지를 작성하거나 코드 리뷰 요약을 생성하고, git prepare-commit-msg 훅을 자동으로 설치합니다.
+  pl: CLI napisane w Go, które za pomocą AI ChatGPT (modele gpt-4.1, gpt-4o) pisze komunikaty commitów git lub tworzy podsumowanie recenzji kodu i automatycznie instaluje hook git prepare-commit-msg.
+  pt: Uma CLI escrita em Go que escreve mensagens de commit do git ou faz um resumo de revisão de código usando a IA do ChatGPT (modelos gpt-4.1, gpt-4o) e instala automaticamente um hook git prepare-commit-msg.
+  ro: O CLI scris în Go care scrie mesaje de commit git sau realizează un rezumat al reviziei de cod folosind AI-ul ChatGPT (modelele gpt-4.1, gpt-4o) și instalează automat un hook git prepare-commit-msg.
+  ru: CLI на Go, который с помощью ИИ ChatGPT (модели gpt-4.1, gpt-4o) пишет сообщения коммитов git или составляет краткий обзор кода и автоматически устанавливает git-хук prepare-commit-msg.
+  th: CLI ที่เขียนด้วย Go ซึ่งใช้ AI ของ ChatGPT (โมเดล gpt-4.1, gpt-4o) เขียนข้อความ commit ของ git หรือสรุปผล code review ให้คุณ พร้อมติดตั้ง git hook prepare-commit-msg โดยอัตโนมัติ
+  tr: Go ile yazılmış bir CLI; ChatGPT AI (gpt-4.1, gpt-4o modelleri) ile git commit mesajları yazar veya kod incelemesi özeti hazırlar ve git prepare-commit-msg kancasını otomatik olarak kurar.
+  uk: CLI, написаний на Go, який за допомогою ІІ ChatGPT (моделі gpt-4.1, gpt-4o) пише повідомлення комітів git або складає короткий огляд коду та автоматично встановлює git-хук prepare-commit-msg.
+  vi: CLI viết bằng Go giúp viết thông điệp commit git hoặc tóm tắt đánh giá mã nguồn bằng AI ChatGPT (mô hình gpt-4.1, gpt-4o) và tự động cài đặt hook git prepare-commit-msg.
 x:
   source: https://github.com/appleboy/CodeGPT
   eget: appleboy/CodeGPT

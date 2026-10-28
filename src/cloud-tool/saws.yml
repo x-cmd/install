@@ -3,6 +3,22 @@ homepage: https://github.com/donnemartin/saws
 desc:
   cn: 采用 python 编写的增强 aws-cli
   en: A supercharged AWS command line interface (CLI)
+  cs: Vylepšené rozhraní příkazové řádky (CLI) pro AWS
+  de: Ein aufgemitteltes Kommandozeilen-Interface (CLI) für AWS
+  es: Una interfaz de línea de comandos (CLI) mejorada para AWS
+  fr: Une interface de ligne de commande (CLI) renforcée pour AWS
+  id: Antarmuka baris perintah (CLI) AWS yang lebih lengkap
+  it: Un'interfaccia a riga di comando (CLI) potenziata per AWS
+  ja: 強化された AWS コマンドラインインターフェース (CLI)
+  ko: 강화된 AWS 명령줄 인터페이스 (CLI)
+  pl: Rozbudowane interfejs wiersza poleceń (CLI) dla AWS
+  pt: Uma interface de linha de comando (CLI) turbinada para AWS
+  ro: O interfață de linie de comandă (CLI) îmbunătățită pentru AWS
+  ru: Усиленный интерфейс командной строки (CLI) для AWS
+  th: อินเทอร์เฟซบรรทัดคำสั่ง (CLI) สำหรับ AWS แบบสมบูรณ์แบบยิ่งขึ้น
+  tr: AWS için güçlendirilmiş bir komut satırı arayüzü (CLI)
+  uk: Посилений інтерфейс командного рядка (CLI) для AWS
+  vi: Giao diện dòng lệnh (CLI) nâng cấp cho AWS
 x:
   source: https://github.com/donnemartin/saws
   pip: saws

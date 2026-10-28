@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: YAML 结构的模板工具，可以帮助您通过可重复使用的模板和用户提供的值轻松配置复杂的软件
   en: ytt (pronounced spelled out) is a templating tool that understands YAML structure
+  cs: ytt (vyslovováno doslova) je šablonovací nástroj, který rozumí struktuře YAML
+  de: ytt (buchstabiert ausgesprochen) ist ein Template-Werkzeug, das die YAML-Struktur versteht
+  es: ytt (pronunciado letra a letra) es una herramienta de plantillas que comprende la estructura de YAML
+  fr: ytt (prononcé lettre par lettre) est un outil de templating qui comprend la structure YAML
+  id: ytt (dibaca dieja-jHuruf) adalah alat templating yang memahami struktur YAML
+  it: ytt (pronunciato lettera per lettera) è uno strumento di templating che comprende la struttura YAML
+  ja: ytt（文字をそのまま読む）はYAMLの構造を理解するテンプレートツールです
+  ko: ytt(철자로 발음)는 YAML 구조를 이해하는 템플릿 도구입니다
+  pl: ytt (wymawiane litera po literze) to narzędzie szablonujące, które rozumie strukturę YAML
+  pt: ytt (pronunciado letra por letra) é uma ferramenta de templates que entende a estrutura YAML
+  ro: ytt (pronunțat literă cu literă) este un instrument de șablone care înțelege structura YAML
+  ru: ytt (произносится буква в букву) — инструмент шаблонизации, понимающий структуру YAML
+  th: ytt (อ่านออกเสียงทีละตัวอักษร) คือเครื่องมือเทมเพลตที่เข้าใจโครงสร้าง YAML
+  tr: ytt (harf harf okunur) YAML yapısını anlayan bir şablonlama aracıdır
+  uk: ytt (вимовляється по літерах) — інструмент шаблонізації, що розуміє структуру YAML
+  vi: ytt (đọc theo từng chữ cái) là công cụ tạo khuôn mẫu hiểu cấu trúc YAML
 x:
   source: https://github.com/carvel-dev/ytt
   eget: carvel-dev/ytt

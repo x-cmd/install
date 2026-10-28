@@ -3,6 +3,22 @@ homepage: https://sourceforge.net/p/mingw-w64/mingw-w64/
 desc:
   cn: Mingw-w64 是原始 mingw.org 项目的进步，旨在支持 Windows 系统上的 GCC 编译器
   en: Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems
+  cs: Mingw-w64 je vylepšením původního projektu mingw.org, vytvořeným pro podporu kompilátoru GCC na systémech Windows
+  de: Mingw-w64 ist eine Weiterentwicklung des ursprünglichen mingw.org-Projekts, die den GCC-Compiler auf Windows-Systemen unterstützen soll
+  es: Mingw-w64 es una mejora del proyecto original mingw.org, creado para admitir el compilador GCC en sistemas Windows
+  fr: Mingw-w64 est une évolution du projet original mingw.org, créée pour prendre en charge le compilateur GCC sur les systèmes Windows
+  id: Mingw-w64 adalah pengembangan dari proyek asli mingw.org, yang dibuat untuk mendukung kompilator GCC pada sistem Windows
+  it: Mingw-w64 è un miglioramento del progetto originale mingw.org, creato per supportare il compilatore GCC sui sistemi Windows
+  ja: Mingw-w64 は、Windows システム上で GCC コンパイラをサポートするために作られた、元の mingw.org プロジェクトの後継です
+  ko: Mingw-w64는 Windows 시스템에서 GCC 컴파일러를 지원하기 위해 만들어진 원본 mingw.org 프로젝트의 발전형입니다
+  pl: Mingw-w64 to udoskonolenie oryginalnego projektu mingw.org, stworzone w celu obsługi kompilatora GCC w systemach Windows
+  pt: Mingw-w64 é um avanço do projeto original mingw.org, criado para dar suporte ao compilador GCC em sistemas Windows
+  ro: Mingw-w64 este o evoluție a proiectului original mingw.org, creat pentru a sprijini compilatorul GCC pe sistemele Windows
+  ru: Mingw-w64 — это развитие исходного проекта mingw.org, созданное для поддержки компилятора GCC в системах Windows
+  th: Mingw-w64 เป็นการพัฒนาต่อยอดจากโครงการ mingw.org เดิม เพื่อรองรับคอมไพเลอร์ GCC บนระบบ Windows
+  tr: Mingw-w64, Windows sistemlerinde GCC derleyicisini desteklemek için oluşturulan özgün mingw.org projesinin bir geliştirmesidir
+  uk: Mingw-w64 — це розвиток оригінального проєкту mingw.org, створений для підтримки компілятора GCC у системах Windows
+  vi: Mingw-w64 là sự phát triển của dự án mingw.org ban đầu, được tạo ra để hỗ trợ trình biên dịch GCC trên các hệ thống Windows
 rule:
   darwin/port:
     cmd: sudo port install mingw-w64

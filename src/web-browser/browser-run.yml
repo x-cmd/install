@@ -3,6 +3,22 @@ homepage: https://github.com/juliangruber/browser-run
 desc:
   cn: 从命令行在浏览器内运行代码
   en: Run code inside a browser from the command line
+  cs: Spouští kód v prohlížeči z příkazové řádky
+  de: Führt Code in einem Browser über die Kommandozeile aus
+  es: Ejecuta código dentro de un navegador desde la línea de comandos
+  fr: Exécute du code dans un navigateur depuis la ligne de commande
+  id: Menjalankan kode di dalam browser dari baris perintah
+  it: Esegue codice all'interno di un browser dalla riga di comando
+  ja: コマンドラインからブラウザ内でコードを実行する
+  ko: 명령줄에서 브라우저 안의 코드를 실행합니다
+  pl: Uruchamia kod w przeglądarce z wiersza poleceń
+  pt: Executa código dentro de um navegador a partir da linha de comando
+  ro: Rulează cod într-un browser din linia de comandă
+  ru: Запускает код в браузере из командной строки
+  th: เรียกใช้โค้ดภายในเบราว์เซอร์จากบรรทัดคำสั่ง
+  tr: Komut satırından tarayıcı içinde kod çalıştırır
+  uk: Запускає код у браузері з командного рядка
+  vi: Chạy mã bên trong trình duyệt từ dòng lệnh
 x:
   source: https://github.com/juliangruber/browser-run
   npm: browser-run

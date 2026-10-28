@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Fastfetch 是一个类似 neofetch 的工具，用于获取系统信息并以漂亮的方式显示它们
   en: Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way
+  cs: Fastfetch je nástroj podobný neofetch, který získává systémové informace a zobrazuje je hezky
+  de: Fastfetch ist ein neofetch-ähnliches Werkzeug zum Abrufen von Systeminformationen und deren ansprechender Anzeige
+  es: Fastfetch es una herramienta similar a neofetch que obtiene información del sistema y la muestra de forma atractiva
+  fr: Fastfetch est un outil similaire à neofetch qui récupère les informations système et les affiche de manière soignée
+  id: Fastfetch adalah alat mirip neofetch untuk mengambil informasi sistem dan menampilkannya dengan rapi
+  it: Fastfetch è uno strumento simile a neofetch che raccoglie informazioni di sistema e le mostra in modo accattivante
+  ja: Fastfetchはneofetchに似た、システムの情報を取得してしているのですばやく表示するツール
+  ko: Fastfetch는 시스템 정보를 가져와 보기 좋게 표시하는 neofetch 유사 도구입니다
+  pl: Fastfetch to narzędzie podobne do neofetch, które pobiera informacje o systemie i wyświetla je w atrakcyjny sposób
+  pt: Fastfetch é uma ferramenta semelhante ao neofetch que obtém informações do sistema e as exibe de forma apresentável
+  ro: Fastfetch este un instrument asemănător cu neofetch, care adună informații despre sistem și le afișează într-un mod elegant
+  ru: Fastfetch — инструмент, похожий на neofetch, который получает сведения о системе и красиво их отображает
+  th: Fastfetch เป็นเครื่องมือคล้าย neofetch ที่ดึงข้อมูลระบบและแสดงผลอย่างสวยงาม
+  tr: Fastfetch, sistem bilgilerini alıp güzel bir şekilde gösteren neofetch benzeri bir araçtır
+  uk: Fastfetch — інструмент, схожий на neofetch, який збирає відомості про систему та красиво їх показує
+  vi: Fastfetch là công cụ tương tự neofetch để lấy thông tin hệ thống và hiển thị một cách đẹp mắt
 x:
   source: https://github.com/fastfetch-cli/fastfetch
   eget: fastfetch-cli/fastfetch

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 时区助手
   en: A time zone helper
+  cs: Pomůník pro časová pásma
+  de: Ein Zeitzonen-Helfer
+  es: Un asistente de zona horaria
+  fr: Un assistant de fuseau horaire
+  id: Pembantu zona waktu
+  it: Un assistente per i fusi orari
+  ja: タイムゾーンヘルパー
+  ko: 시간대 도우미
+  pl: Pomocnik stref czasowych
+  pt: Um auxiliar de fuso horário
+  ro: Un ajutor pentru fusele orare
+  ru: Помощник для часовых поясов
+  th: ตัวช่วยเขตเวลา
+  tr: Saat dilimi yardımcısı
+  uk: Помічник для часових поясів
+  vi: Trợ giúp múi giờ
 x:
   source: https://github.com/oz/tz
   eget: oz/tz

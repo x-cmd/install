@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于在终端中管理支出和跟踪预算的 TUI 工具。
   en: A comprehensive TUI tool for managing expenses and tracking budgets in the terminal.
+  cs: Komplexní TUI nástroj pro správu výdajů a sledování rozpočtu v terminálu.
+  de: Ein umfassendes TUI-Werkzeug zur Verwaltung von Ausgaben und Budgetüberwachung im Terminal.
+  es: Una herramienta TUI completa para gestionar gastos y hacer seguimiento de presupuestos en la terminal.
+  fr: Un outil TUI complet pour gérer les dépenses et suivre les budgets dans le terminal.
+  id: Alat TUI lengkap untuk mengelola pengeluaran dan melacak anggaran di terminal.
+  it: Un utensile TUI completo per gestire le spese e monitorare i budget nel terminale.
+  ja: ターミナル内で支出管理と予算の追跡を行うための包括的なTUIツールです。
+  ko: 터미널에서 지출을 관리하고 예산을 추적하기 위한 종합적인 TUI 도구입니다.
+  pl: Kompleksowe narzędzie TUI do zarządzania wydatkami i śledzenia budżetów w terminalu.
+  pt: Uma ferramenta TUI completa para gerenciar despesas e acompanhar orçamentos no terminal.
+  ro: Un instrument TUI cuprinzător pentru gestionarea cheltuielilor și urmărirea bugetelor în terminal.
+  ru: Комплексный инструмент TUI для управления расходами и отслеживания бюджетов в терминале.
+  th: เครื่องมือ TUI ที่ครอบคลุมสำหรับจัดการค่าใช้จ่ายและติดตามงบประมาณในเทอร์มินัล
+  tr: Terminalde gider yönetimi ve bütçe takibi için kapsamlı bir TUI aracı.
+  uk: Комплексний інструмент TUI для керування витратами та відстеження бюджетів у терміналі.
+  vi: Công cụ TUI toàn diện để quản lý chi phí và theo dõi ngân sách trong terminal.
 x:
   source: https://github.com/ChrisBuilds/moneyterm
   pip: moneyterm

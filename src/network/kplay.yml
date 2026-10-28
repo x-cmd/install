@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简洁可控地查看 Kafka topic 中的消息
   en: 'Inspect messages in a Kafka topic in a simple and deliberate manner'
+  cs: Prohlížejte zprávy v tématu Kafka jednoduchým a přesným způsobem
+  de: Nachrichten in einem Kafka-Topic auf einfache und gezielte Weise inspizieren
+  es: Inspecciona mensajes en un tema de Kafka de forma simple y deliberada
+  fr: Inspectez les messages d'un topic Kafka de manière simple et délibérée
+  id: Periksa pesan pada topik Kafka dengan cara yang sederhana dan sengaja
+  it: Ispeziona i messaggi in un topic Kafka in modo semplice e mirato
+  ja: Kafka トピック内のメッセージを簡単かつ意図的に確認できます
+  ko: Kafka 토픽의 메시지를 간단하고 정밀하게 살펴봅니다
+  pl: Przeglądaj wiadomości w temacie Kafka w prosty i precyzyjny sposób
+  pt: Inspecione mensagens em um tópico Kafka de forma simples e deliberada
+  ro: Inspectează mesajele dintr-un topic Kafka într-un mod simplu și precis
+  ru: Просматривайте сообщения в теме Kafka простым и точным способом
+  th: ตรวจสอบข้อความในหัวข้อ Kafka อย่างง่ายดายและตั้งใจ
+  tr: Kafka topicindeki mesajları basit ve bilinçli bir şekilde inceleyin
+  uk: Переглядайте повідомлення в темі Kafka простим і точним способом
+  vi: Kiểm tra tin nhắn trong topic Kafka một cách đơn giản và có chủ đích
 x:
   source: https://github.com/dhth/kplay
   eget: dhth/kplay

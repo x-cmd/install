@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 通过 Web 或桌面应用用自然语言生成和编辑 draw.io 图表，包括复杂云架构和流程图
   en: Generate and edit draw.io diagrams, including complex cloud architectures and flowcharts, using natural language commands in a web or desktop app.
+  cs: Generujte a upravujte draw.io diagramy, včetně složitých cloudových architektur a vývojových diagramů, pomocí příkazů v přirozeném jazyce ve webové nebo desktopové aplikaci.
+  de: Erstellen und bearbeiten Sie draw.io-Diagramme – einschließlich komplexer Cloud-Architekturen und Flussdiagrammen – mit Befehlen in natürlicher Sprache in einer Web- oder Desktop-App.
+  es: Genera y edita diagramas de draw.io, incluidas arquitecturas de nube complejas y diagramas de flujo, usando comandos en lenguaje natural en una aplicación web o de escritorio.
+  fr: Créez et modifiez des diagrammes draw.io, y compris des architectures cloud complexes et des organigrammes, à l'aide de commandes en langage naturel dans une application web ou de bureau.
+  id: Buat dan edit diagram draw.io, termasuk arsitektur cloud kompleks dan diagram alur, menggunakan perintah bahasa alami di aplikasi web atau desktop.
+  it: Crea e modifica diagrammi draw.io, incluse architetture cloud complesse e diagrammi di flusso, usando comandi in linguaggio naturale in un'app web o desktop.
+  ja: ウェブアプリまたはデスクトップアプリの自然言語コマンドで、複雑なクラウドアーキテクチャやフローチャート在内的にdraw.ioの図を作成・編集します。
+  ko: 웹 또는 데스크톱 앱에서 자연어 명령으로 복잡한 클라우드 아키텍처와 플로우차트를 포함한 draw.io 다이어그램을 생성하고 편집합니다.
+  pl: Twórz i edytuj diagramy draw.io, w tym złożone architektury chmurowe i diagramy przepływu, za pomocą poleceń w języku naturalnym w aplikacji webowej lub desktopowej.
+  pt: Gere e edite diagramas do draw.io, incluindo arquiteturas de nuvem complexas e fluxogramas, usando comandos em linguagem natural em um aplicativo web ou desktop.
+  ro: Generați și editați diagrame draw.io, inclusiv arhitecturi cloud complexe și diagrame de flux, folosind comenzi în limbaj natural într-o aplicație web sau desktop.
+  ru: Создавайте и редактируйте диаграммы draw.io, включая сложные облачные архитектуры и блок-схемы, с помощью команд на естественном языке в веб- или настольном приложении.
+  th: สร้างและแก้ไขไดอะแกรม draw.io รวมถึงสถาปัตยกรรมคลาวด์ที่ซับซ้อนและผังงาน โดยใช้คำสั่งภาษาธรรมชาติในแอปเว็บหรือเดสก์ท็อป
+  tr: Web veya masaüstü uygulamasında doğal dil komutlarıyla draw.io diyagramları oluşturun ve düzenleyin; karmaşık bulut mimarileri ve akış şemaları dahil.
+  uk: Створюйте та редагуйте діаграми draw.io, зокрема складні хмарні архітектури та блок-схеми, за допомогою команд природною мовою у веб- або настільному застосунку.
+  vi: Tạo và chỉnh sửa sơ đồ draw.io, bao gồm kiến trúc đám mây phức tạp và lưu đồ, bằng các lệnh ngôn ngữ tự nhiên trong ứng dụng web hoặc desktop.
 x:
   source: https://github.com/DayuanJiang/next-ai-draw-io
   npm: next-ai-draw-io

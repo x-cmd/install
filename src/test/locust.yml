@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Locust 是一个用于 HTTP 和其他协议的开源性能/负载测试工具
   en: Locust is an open source performance/load testing tool for HTTP and other protocols
+  cs: Locust je open source nástroj pro testování výkonu a zátěže pro HTTP a další protokoly
+  de: Locust ist ein Open-Source-Werkzeug zum Performance- und Lasttesten für HTTP und andere Protokolle
+  es: Locust es una herramienta de código abierto para pruebas de rendimiento y de carga para HTTP y otros protocolos
+  fr: Locust est un outil open source de test de performance et de charge pour HTTP et d'autres protocoles
+  id: Locust adalah alat pengujian performa/beban sumber terbuka untuk HTTP dan protokol lainnya
+  it: Locust è uno strumento open source per test di prestazioni e di carico per HTTP e altri protocolli
+  ja: Locust は HTTP およびその他のプロトコル向けのオープンソースな性能・負荷テストツールです
+  ko: Locust는 HTTP 및 기타 프로토콜을 위한 오픈 소스 성능/부하 테스트 도구입니다
+  pl: Locust to narzędzie open source do testowania wydajności i obciążenia dla HTTP i innych protokołów
+  pt: Locust é uma ferramenta de código aberto para testes de desempenho e de carga em HTTP e outros protocolos
+  ro: Locust este un instrument open source pentru testarea performanței și a încărcării pentru HTTP și alte protocoale
+  ru: Locust — инструмент с открытым исходным кодом для нагрузочного и теста производительности по HTTP и другим протоколам
+  th: Locust เป็นเครื่องมือทดสอบประสิทธิภาพ/โหลดโอเพนซอร์สสำหรับ HTTP และโปรโตคอลอื่น ๆ
+  tr: Locust, HTTP ve diğer protokoller için performans/yük testi yapan açık kaynaklı bir araçtır
+  uk: Locust — інструмент з відкритим кодом для тестування продуктивності та навантаження для HTTP та інших протоколів
+  vi: Locust là công cụ mã nguồn mở để kiểm thử hiệu năng và tải cho HTTP và các giao thức khác
 x:
   source: https://github.com/locustio/locust
   brew: locust

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 可私有化部署的 Google NotebookLM 开源替代方案，支持 18+ AI 提供商、多模态资料库、上下文聊天与专业级多说话人播客生成。
   en: Open source, privacy-focused alternative to Google's NotebookLM. Self-host a private knowledge base with 18+ AI providers, multi-modal research, context-aware chat, and professional multi-speaker podcast generation.
+  cs: Otevřená alternativa k NotebookLM od Google se zaměřením na soukromí. Nasadte si vlastní soukromou znalostní bázi s 18+ AI poskytovateli, multimodálním výzkumem, kontextovým chatem a profesionální generací podcastů s více mluvčími.
+  de: Open-Source-Alternative zu Googles NotebookLM mit Fokus auf Privatsphäre. Hosten Sie eine private Wissensdatenbank mit 18+ KI-Anbietern, multimodaler Recherche, kontextbewusstem Chat und professioneller Erstellung von Podcasts mit mehreren Sprechern.
+  es: Alternativa de código abierto y orientada a la privacidad al NotebookLM de Google. Aloja tu propia base de conocimiento privada con más de 18 proveedores de IA, investigación multimodal, chat consciente del contexto y generación profesional de podcasts con varios hablantes.
+  fr: Alternative open source axée sur la confidentialité à Google NotebookLM. Auto-hébergez une base de connaissances privée avec plus de 18 fournisseurs d'IA, une recherche multimodale, un chat sensible au contexte et une génération professionnelle de podcasts à plusieurs voix.
+  id: Alternatif sumber terbuka yang berfokus pada privasi untuk Google NotebookLM. Jalankan basis pengetahuan pribadi sendiri dengan 18+ penyedia AI, riset multimodal, chat yang sadar konteks, dan pembuatan podcast multi-pembicara yang profesional.
+  it: Alternativa open source orientata alla privacy a Google NotebookLM. Self-host una base di conoscenza privata con oltre 18 provider di IA, ricerca multimodale, chat context-aware e generazione professionale di podcast a più voci.
+  ja: Google NotebookLM のオープンソースでプライバシー重視の代替。18 以上の AI プロバイダーを備えた自分だけの知識ベースを自前の環境でホストし、マルチモーダル調査、コンテキスト対応チャット、専門的なマルチスピーカーのポッドキャスト生成に対応します。
+  ko: Google NotebookLM의 오픈소스이며 프라이버시 중심적인 대안. 18개 이상의 AI 제공업체, 멀티모달 리서치, 컨텍스트 인식 채팅, 전문적인 다중 화자 팟캐스트 생성을 갖춘 개인 지식 베이스를 직접 호스팅하세요.
+  pl: Alternatywa open source do NotebookLM od Google, z naciskiem na prywatność. Postaw samodzielnie prywatną bazę wiedzy z ponad 18 dostawcami AI, wielomodalnymi badaniami, czatem świadomym kontekstu i profesjonalnym generowaniem podcastów wielogłosowych.
+  pt: Alternativa de código aberto com foco em privacidade ao Google NotebookLM. Hospede sua própria base de conhecimento privada com mais de 18 provedores de IA, pesquisa multimodal, chat com consciência de contexto e geração profissional de podcasts com vários apresentadores.
+  ro: Alternativă open source cu accent pe confidențialitate la Google NotebookLM. Găzduiește-ți o bază de cunoștințe privată cu 18+ furnizori de AI, căutare multimodală, chat conștient de context și generare profesională de podcasturi cu mai mulți vorbitori.
+  ru: Открытая альтернатива Google NotebookLM, ориентированная на приватность. Разверните собственную приватную базу знаний с более чем 18 AI-провайдерами, мультимодальным исследованием, контекстно-зависимым чатом и профессиональной генерацией подкастов с несколькими ведущими.
+  th: ทางเลือกโอเพนซอร์สที่ให้ความสำคัญกับความเป็นส่วนตัวแทน Google NotebookLM ติดตั้งฐานความรู้ส่วนตัวเองพร้อมผู้ให้บริการ AI กว่า 18 ราย การค้นคว้าหลายโมดัล แชทที่เข้าใจบริบท และการสร้างพอดแคสต์มืออาชีพแบบหลายผู้พูด
+  tr: Gizliliğe odaklanan açık kaynak Google NotebookLM alternatifi. 18'den fazla AI sağlayıcısı, çok modlu araştırma, bağlam farkındalıklı sohbet ve profesyonel çok konuşmacılı podcast üretimi ile kendi özel bilgi tabanınızı kendi sunucunuzda barındırın.
+  uk: Відкрита альтернатива Google NotebookLM, орієнтована на приватність. Розгорніть власну приватну базу знань із понад 18 AI-провайдерами, мультимодальним дослідженням, контекстно-залежним чатом і професійною генерацією подкастів із кількома ведучими.
+  vi: Giải pháp mã nguồn mở lấy cảm hứng từ quyền riêng tư thay cho Google NotebookLM. Tự host cơ sở kiến thức riêng với hơn 18 nhà cung cấp AI, nghiên cứu đa phương thức, trò chuyện nhận biết ngữ cảnh và tạo podcast nhiều người nói ở mức chuyên nghiệp.
 x:
   source: https://github.com/lfnovo/open-notebook
 rule:

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: flawz 是一个终端用户界面（TUI），用于浏览安全漏洞（也称为 CVE）。
   en: flawz is a Terminal User Interface (TUI) for browsing security vulnerabilities (also known as CVEs)
+  cs: flawz je textové uživatelské rozhraní (TUI) pro prohlížení bezpečnostních zranitelností (známých také jako CVE)
+  de: flawz ist eine Terminal-Benutzeroberfläche (TUI) zum Durchsuchen von Sicherheitslücken (auch CVEs genannt)
+  es: flawz es una interfaz de usuario de terminal (TUI) para explorar vulnerabilidades de seguridad (también conocidas como CVE)
+  fr: flawz est une interface utilisateur terminal (TUI) pour parcourir les vulnérabilités de sécurité (également connues sous le nom de CVE)
+  id: flawz adalah antarmuka pengguna terminal (TUI) untuk menelusuri kerentanan keamanan (yang juga dikenal sebagai CVE)
+  it: flawz è un'interfaccia utente da terminale (TUI) per esplorare le vulnerabilità di sicurezza (note anche come CVE)
+  ja: flawz はセキュリティ脆弱性 (CVE とも呼ばれます) を閲覧するためのターミナルユーザーインターフェース (TUI) です
+  ko: flawz는 보안 취약점(또한 CVE로도 알려짐)을 탐색하기 위한 터미널 사용자 인터페이스(TUI)입니다.
+  pl: flawz to terminalowy interfejs użytkownika (TUI) do przeglądania luk bezpieczeństwa (znanych także jako CVE)
+  pt: O flawz é uma interface de usuário de terminal (TUI) para navegar por vulnerabilidades de segurança (também conhecidas como CVEs)
+  ro: flawz este o interfață utilizator în terminal (TUI) pentru parcurgerea vulnerabilităților de securitate (numite și CVE)
+  ru: flawz — это терминальный пользовательский интерфейс (TUI) для просмотра уязвимостей безопасности (также известных как CVE)
+  th: flawz คืออินเทอร์เฟซผู้ใช้แบบเทอร์มินัล (TUI) สำหรับเรียกดูช่องโหว่ความปลอดภัย (ที่เรียกว่า CVE)
+  tr: flawz, güvenlik açıklarını (CVE olarak da bilinir) incelemek için bir Terminal Kullanıcı Arayüzüdür (TUI)
+  uk: flawz — це термінальний інтерфейс користувача (TUI) для перегляду вразливостей безпеки (також відомих як CVE)
+  vi: flawz là giao diện người dùng dựa trên terminal (TUI) để duyệt các lỗ hổng bảo mật (còn gọi là CVE)
 x:
   source: https://github.com/orhun/flawz
   eget: orhun/flawz

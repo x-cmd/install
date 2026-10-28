@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Kafka TUI 客户端
   en: 'Kafka TUI client'
+  cs: TUI klient pro Kafka
+  de: Kafka-TUI-Client
+  es: Cliente TUI para Kafka
+  fr: Client TUI pour Kafka
+  id: Klien TUI untuk Kafka
+  it: Client TUI per Kafka
+  ja: Kafka の TUI クライアント
+  ko: Kafka TUI 클라이언트
+  pl: Klient TUI dla Kafka
+  pt: Cliente TUI para Kafka
+  ro: Client TUI pentru Kafka
+  ru: TUI-клиент для Kafka
+  th: ไคลเอนต์ TUI สำหรับ Kafka
+  tr: Kafka için TUI istemcisi
+  uk: TUI-клієнт для Kafka
+  vi: Ứng dụng khách TUI cho Kafka
 x:
   source: https://github.com/jonas-grgt/ktea
   eget: jonas-grgt/ktea

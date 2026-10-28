@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 为中心和去中心化加密货币交易所构建并部署自动化交易机器人
   en: Builds and deploys automated trading bots for centralized and decentralized cryptocurrency exchanges.
+  cs: Staví a nasazuje automatizované obchodní roboty pro centralizované i decentralizované kryptoměnové burzy.
+  de: Entwickelt und deployt automatisierte Handelsbots für zentralisierte und dezentralisierte Kryptowährungsbörsen.
+  es: Construye y despliega robots de trading automatizados para intercambios de criptomonedas centralizados y descentralizados.
+  fr: Développe et déploie des robots de trading automatisés pour les plateformes d'échange de cryptomonnaies centralisées et décentralisées.
+  id: Membangun dan mendeploy robot perdagangan otomatis untuk bursa kripto terpusat dan terdesentralisasi.
+  it: Costruisce e distribuisce bot di trading automatico per exchange di criptovalute centralizzati e decentralizzati.
+  ja: 中央集権型と分散型の暗号通貨取引所向けの自動取引ボットを構築・デプロイします。
+  ko: 중앙화 및 분산형 암호화폐 거래소를 위한 자동 거래 봇을 구축하고 배포합니다.
+  pl: Buduje i wdraża automatyczne boty handlowe dla scentralizowanych i zdecentralizowanych giełd kryptowalut.
+  pt: Constrói e implanta robôs de trading automatizado para corretoras de criptomoedas centralizadas e descentralizadas.
+  ro: Construiește și implementează roboți de tranzacționare automată pentru burse de criptomonede centralizate și descentralizate.
+  ru: Создаёт и разворачивает автоматизированных торговых ботов для централизованных и децентрализованных криптовалютных бирж.
+  th: สร้างและติดตั้งบอทเทรดอัตโนมัติสำหรับตลาดแลกเปลี่ยนคริปโตสกุลแบบรวมศูนย์และกระจายศูนย์
+  tr: Merkezi ve merkezi olmayan kripto para borsaları için otomatik işlem botları geliştirir ve dağıtır.
+  uk: Створює та розгортає автоматизованих торгових ботів для централізованих і децентралізованих криптовалютних бірж.
+  vi: Xây dựng và triển khai bot giao dịch tự động cho các sàn giao dịch tiền mã hóa tập trung và phi tập trung.
 x:
   source: https://github.com/hummingbot/hummingbot
   eget: hummingbot/hummingbot

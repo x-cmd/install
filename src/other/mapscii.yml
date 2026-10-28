@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ASCII 世界地图渲染器
   en: ASCII world map renderer
+  cs: Vykreslování světové mapy v ASCII
+  de: ASCII-Weltkarten-Renderer
+  es: Renderizador de mapas del mundo en ASCII
+  fr: Rendu de carte du monde en ASCII
+  id: Perender peta dunia ASCII
+  it: Renderer di mappe del mondo in ASCII
+  ja: ASCII による世界地図レンダラー
+  ko: ASCII 세계 지도 렌더러
+  pl: Renderer mapy świata w ASCII
+  pt: Renderizador de mapas do mundo em ASCII
+  ro: Randator de hartă a lumii în ASCII
+  ru: Рендерер карты мира в ASCII
+  th: ตัวเรนเดอร์แผนที่โลกแบบ ASCII
+  tr: ASCII dünya haritası oluşturucu
+  uk: Рендерер карти світу в ASCII
+  vi: Trình kết xuất bản đồ thế giới ASCII
 x:
   source: https://github.com/rastapasta/mapscii
   yay: nodejs-mapscii

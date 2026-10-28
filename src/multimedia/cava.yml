@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Cava 是一个用于终端或桌面的条形频谱音频可视化工具（SDL）。
   en: Cava is a bar spectrum audio visualizer for terminal or desktop (SDL).
+  cs: Cava je vizualizátor zvukového spektra pro terminál nebo plochu (SDL).
+  de: Cava ist ein Balkenspektrum-Audiovisualizer für Terminal oder Desktop (SDL).
+  es: Cava es un visualizador de espectro de audio de barras para terminal o escritorio (SDL).
+  fr: Cava est un visualiseur de spectre audio à barres pour terminal ou bureau (SDL).
+  id: Cava adalah visualizer spektrum audio batang untuk terminal atau desktop (SDL).
+  it: Cava è un visualizzatore di spettro audio a barre per terminale o desktop (SDL).
+  ja: Cava はターミナルまたはデスクトップ向けのバー型オーディオスペクトラムビジュアライザ（SDL）です。
+  ko: Cava는 터미널 또는 데스크톱용 막대 스펙트럼 오디오 시각화 도구(SDL)입니다.
+  pl: Cava to wizualizator widma dźwięku w formie pasków dla terminala lub pulpitu (SDL).
+  pt: Cava é um visualizador de espectro de áudio em barras para terminal ou desktop (SDL).
+  ro: Cava este un vizualizator de spectru audio cu bare pentru terminal sau desktop (SDL).
+  ru: Cava — визуализатор звукового спектра в виде полос для терминала или рабочего стола (SDL).
+  th: Cava คือตัวแสดงสเปกตรัมเสียงแบบแถบสำหรับเทอร์มินัลหรือเดสก์ท็อป (SDL)
+  tr: Cava, terminal veya masaüstü için bir çubuk spektrum ses görselleştiricisidir (SDL).
+  uk: Cava — візуалізатор звукового спектра у вигляді смуг для термінала або робочого столу (SDL).
+  vi: Cava là trình trực quan hóa phổ âm thanh dạng thanh cho terminal hoặc desktop (SDL).
 x:
   source: https://github.com/karlstav/cava
   eget: karlstav/cava

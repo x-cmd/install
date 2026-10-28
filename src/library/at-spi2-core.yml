@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: 'At-spi2-core 是一个辅助技术服务供应介面，它提供了两个功能: 一组用于可访问性的 DBus 接口，以及一个用于使用这些接口的 C 语言绑定'
   en: 'at-spi2-core is the Assistive Technology Service Provider Interface, which provides two things: a set of DBus interfaces for accessibility, and a C language binding to use those interfaces'
+  cs: "at-spi2-core je rozhraní poskytovatele služeb asistivních technologií, které poskytuje dvě věci: sadu DBus rozhraní pro přístupnost a jazykové vazbání C pro použití těchto rozhraní"
+  de: "at-spi2-core ist die Schnittstelle für Assistive-Technology-Dienstanbieter und bietet zwei Dinge: eine Reihe von DBus-Schnittstellen für Barrierefreiheit sowie eine C-Sprachbindung zur Nutzung dieser Schnittstellen"
+  es: "at-spi2-core es la interfaz de proveedor de servicios de tecnología de asistencia, que ofrece dos cosas: un conjunto de interfaces DBus para la accesibilidad y un enlace en lenguaje C para usar esas interfaces"
+  fr: "at-spi2-core est l'interface de fournisseur de services de technologies d'assistance, qui fournit deux choses : un ensemble d'interfaces DBus pour l'accessibilité et une liaison en langage C pour utiliser ces interfaces"
+  id: "at-spi2-core adalah Antarmuka Penyedia Layanan Teknologi Assistif, yang menyediakan dua hal: sekumpulan antarmuka DBus untuk aksesibilitas dan pengikatan bahasa C untuk menggunakan antarmuka tersebut"
+  it: "at-spi2-core è l'interfaccia del fornitore di servizi di tecnologia assistive, che fornisce due cose: un insieme di interfacce DBus per l'accessibilità e un binding in linguaggio C per usare tali interfacce"
+  ja: at-spi2-core はアクセシビリティのための DBus インターフェース群と、それらの利用ための C 言語バインディングを提供する補助技術サービスプロバイダインターフェースです
+  ko: at-spi2-core는 보조 기술 서비스 제공자 인터페이스로, 접근성을 위한 DBus 인터페이스 모음과 해당 인터페이스를 사용하기 위한 C 언어 바인딩을 제공합니다
+  pl: "at-spi2-core to interfejs dostawcy usług technologii wspomagających, który zapewnia dwie rzeczy: zestaw interfejsów DBus dla dostępności oraz powiązanie w języku C do korzystania z tych interfejsów"
+  pt: "at-spi2-core é a Interface de Provedor de Serviços de Tecnologia Assistiva, que oferece duas coisas: um conjunto de interfaces DBus para acessibilidade e uma vinculação em linguagem C para usar essas interfaces"
+  ro: "at-spi2-core este interfața furnizorului de servicii de tehnologie asistivă, care oferă două lucruri: o serie de interfețe DBus pentru accesibilitate și o legătură în limbajul C pentru utilizarea acestor interfețe"
+  ru: "at-spi2-core — это интерфейс поставщика услуг вспомогательных технологий, который предоставляет две вещи: набор интерфейсов DBus для доступности и привязку языка C для использования этих интерфейсов"
+  th: at-spi2-core คือส่วนติดต่อผู้ให้บริการเทคโนโลยีช่วยเหลือ ซึ่งให้สองสิ่งคือชุดของส่วนติดต่อ DBus สำหรับการเข้าถึง และการผูกภาษา C เพื่อใช้ส่วนติดต่อเหล่านั้น
+  tr: at-spi2-core, erişilebilirlik için bir dizi DBus arayüzü ve bu arayüzleri kullanmak için C dilinde bağlama sağlayan Yardımcı Teknoloji Hizmet Sağlayıcısı Arayüzüdür
+  uk: "at-spi2-core — це інтерфейс постачальника послуг допоміжних технологій, який надає дві речі: набір інтерфейсів DBus для доступності та прив'язку мовою C для використання цих інтерфейсів"
+  vi: "at-spi2-core là Giao diện Nhà cung cấp Dịch vụ Công nghệ Hỗ trợ, cung cấp hai thứ: một bộ giao diện DBus cho khả năng tiếp cận và một ràng buộc ngôn ngữ C để sử dụng các giao diện đó"
 x:
   source: https://github.com/GNOME/at-spi2-core
   brew: at-spi2-core

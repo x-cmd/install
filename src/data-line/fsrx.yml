@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端中的流状态读取
   en: (f)low (s)tate (r)eading e(x)change – flow state reading in the terminal
+  cs: (f)low (s)tate (r)eading e(x)change – čtení stavu toku v terminálu
+  de: (f)low (s)tate (r)eading e(x)change – Flusszustandsablesen im Terminal
+  es: "(f)low (s)tate (r)eading e(x)change: lectura del estado del flujo en la terminal"
+  fr: (f)low (s)tate (r)eading e(x)change – lecture de l'état de flux dans le terminal
+  id: (f)low (s)tate (r)eading e(x)change – pembacaan status aliran di terminal
+  it: (f)low (s)tate (r)eading e(x)change – lettura dello stato del flusso nel terminale
+  ja: (f)low (s)tate (r)eading e(x)change – ターミナルでのフロー状態の読み取り
+  ko: (f)low (s)tate (r)eading e(x)change – 터미널에서 흐름 상태 읽기
+  pl: (f)low (s)tate (r)eading e(x)change – odczyt stanu przepływu w terminalu
+  pt: (f)low (s)tate (r)eading e(x)change – leitura do estado do fluxo no terminal
+  ro: (f)low (s)tate (r)eading e(x)change – citirea stării fluxului în terminal
+  ru: (f)low (s)tate (r)eading e(x)change — чтение состояния потока в терминале
+  th: (f)low (s)tate (r)eading e(x)change – การอ่านสถานะการไหลในเทอร์มินัล
+  tr: (f)low (s)tate (r)eading e(x)change – terminalde akış durumu okuma
+  uk: (f)low (s)tate (r)eading e(x)change — читання стану потоку в терміналі
+  vi: (f)low (s)tate (r)eading e(x)change – đọc trạng thái luồng trong terminal
 rule:
   /cargo:
     cmd: cargo install fsrx

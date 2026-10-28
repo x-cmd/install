@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Visual Studio Code 是一个轻量级但功能强大的源代码编辑器，可以在桌面上运行，适用于 Windows、 macOS 和 Linux
   en: Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux
+  cs: Visual Studio Code je lehký, ale výkonný editor zdrojového kódu, který běží na vaší ploše a je dostupný pro Windows, macOS a Linux
+  de: Visual Studio Code ist ein schlanker, aber leistungsstarker Quellcode-Editor, der auf Ihrem Desktop läuft und für Windows, macOS und Linux verfügbar ist
+  es: Visual Studio Code es un editor de código fuente ligero pero potente que se ejecuta en tu escritorio y está disponible para Windows, macOS y Linux
+  fr: Visual Studio Code est un éditeur de code source léger mais puissant qui s'exécute sur votre bureau et est disponible pour Windows, macOS et Linux
+  id: Visual Studio Code adalah editor kode sumber yang ringan namun powerful, berjalan di desktop Anda dan tersedia untuk Windows, macOS, dan Linux
+  it: Visual Studio Code è un editor di codice sorgente leggero ma potente che gira sul desktop ed è disponibile per Windows, macOS e Linux
+  ja: Visual Studio Code はデスクトップで動作する軽量だが強力なソースコードエディタで、Windows、macOS、Linux に対応しています
+  ko: Visual Studio Code는 데스크톱에서 실행되는 가볍지만 강력한 소스 코드 편집기로 Windows, macOS, Linux에서 사용할 수 있습니다
+  pl: Visual Studio Code to lekki, ale potężny edytor kodu źródłowego działający na pulpicie, dostępny w systemach Windows, macOS i Linux
+  pt: O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que roda na sua área de trabalho e está disponível para Windows, macOS e Linux
+  ro: Visual Studio Code este un editor de cod sursă ușor, dar puternic, care rulează pe desktop și este disponibil pentru Windows, macOS și Linux
+  ru: Visual Studio Code — лёгкий, но мощный редактор исходного кода, работающий на вашем компьютере и доступный для Windows, macOS и Linux
+  th: Visual Studio Code คือโปรแกรมแก้ไขซอร์สโค้ดที่เบากว่าแต่ทรงพลัง รันบนเดสก์ท็อปของคุณ และใช้งานได้บน Windows, macOS และ Linux
+  tr: Visual Studio Code, masaüstünüzde çalışan ve Windows, macOS ile Linux için kullanılabilen hafif ama güçlü bir kaynak kod düzenleyicisidir
+  uk: Visual Studio Code — легкий, але потужний редактор вихідного коду, що працює на вашому комп'ютері та доступний для Windows, macOS і Linux
+  vi: Visual Studio Code là trình soạn thảo mã nguồn nhẹ nhưng mạnh mẽ, chạy trên máy tính của bạn và hỗ trợ Windows, macOS và Linux
 x:
   source: https://github.com/microsoft/vscode
   pacman: code

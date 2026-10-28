@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ASN 查询工具和 Traceroute（路由跟踪）服务器。
   en: ASN lookup tool and traceroute server
+  cs: Nástroj pro vyhledávání ASN a server pro traceroute
+  de: ASN-Lookup-Tool und Traceroute-Server
+  es: Herramienta de consulta de ASN y servidor de traceroute
+  fr: Outil de recherche d'ASN et serveur de traceroute
+  id: Alat pencarian ASN dan server traceroute
+  it: Strumento di ricerca ASN e server traceroute
+  ja: ASN 検索ツールと traceroute サーバー
+  ko: ASN 조회 도구 및 traceroute 서버
+  pl: Narzędzie do wyszukiwania ASN i serwer traceroute
+  pt: Ferramenta de consulta de ASN e servidor de traceroute
+  ro: Instrument de căutare ASN și server de traceroute
+  ru: Инструмент для поиска ASN и сервер traceroute
+  th: เครื่องมือค้นหา ASN และเซิร์ฟเวอร์ traceroute
+  tr: ASN sorgulama aracı ve traceroute sunucusu
+  uk: Інструмент пошуку ASN і сервер traceroute
+  vi: Công cụ tra cứu ASN và máy chủ traceroute
 x:
   source: https://github.com/nitefood/asn
   apt: asn

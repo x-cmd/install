@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: (已存档)一款适用于 UNIX 终端的快速、跨平台笔记应用程序，它是 OS X 应用程序 Notational Velocity 的克隆
   en: (Archived) A fast, cross-platform note-taking application for the UNIX terminal, inspired by Notational Velocity.
+  cs: (Archivováno) Rychlá, multiplatformní aplikace pro psaní poznámek v terminálu UNIX, inspirovaná Notational Velocity.
+  de: (Archiviert) Eine schnelle, plattformübergreifende Notiz-App für das UNIX-Terminal, inspiriert von Notational Velocity.
+  es: (Archivado) Una rápida aplicación de notas multiplataforma para el terminal UNIX, inspirada en Notational Velocity.
+  fr: (Archivé) Une application de prise de notes rapide et multiplateforme pour le terminal UNIX, inspirée de Notational Velocity.
+  id: (Diarsipkan) Aplikasi catatan cepat lintas platform untuk terminal UNIX, terinspirasi dari Notational Velocity.
+  it: (Archiviato) Un'applicazione rapida e multipiattaforma per prendere appunti nel terminale UNIX, ispirata a Notational Velocity.
+  ja: (アーカイブ済み) UNIX 终端向けの高速なクロスプラットフォームのメモアプリ。Notational Velocity を参考にしています。
+  ko: (보관됨) UNIX 터미널을 위한 빠르고 크로스 플랫폼인 노트 작성 앱으로, Notational Velocity에서 영감을 받았습니다.
+  pl: (Zarchiwizowane) Szybka, wieloplatformowa aplikacja do notatek w terminalu UNIX, inspirowana Notational Velocity.
+  pt: (Arquivado) Um aplicativo rápido de notas multiplataforma para o terminal UNIX, inspirado no Notational Velocity.
+  ro: (Arhivat) O aplicație rapidă, multiplatformă de notițe pentru terminalul UNIX, inspirată de Notational Velocity.
+  ru: (В архиве) Быстрое кроссплатформенное приложение для заметок в терминале UNIX, созданное по образцу Notational Velocity.
+  th: (เก็บถาวรแล้ว) แอปจดบันทึกที่รวดเร็วและข้ามแพลตฟอร์มสำหรับเทอร์มินัล UNIX ได้แรงบันดาลใจจาก Notational Velocity
+  tr: (Arşivlendi) Notational Velocity'den esinlenen, UNIX terminali için hızlı ve platformlar arası bir not alma uygulaması.
+  uk: (В архіві) Швидкий кроссплатформний застосунок для нотаток у терміналі UNIX, створений за зразком Notational Velocity.
+  vi: (Đã lưu trữ) Ứng dụng ghi chú nhanh, đa nền tảng cho terminal UNIX, lấy cảm hứng từ Notational Velocity.
 x:
   source: https://github.com/vhp/terminal_velocity
   pip: terminal_velocity

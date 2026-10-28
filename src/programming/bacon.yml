@@ -4,6 +4,22 @@ license: 'AGPL-3.0'
 desc:
   cn: 后台代码检查器
   en: 'background code checker'
+  cs: Kontrolor kódu na pozadí
+  de: Hintergrund-Codeprüfer
+  es: Verificador de código en segundo plano
+  fr: Vérificateur de code en arrière-plan
+  id: Pemeriksa kode latar belakang
+  it: Verificatore di codice in background
+  ja: バックグラウンドのコードチェッカー
+  ko: 백그라운드 코드 검사기
+  pl: Kontroler kodu w tle
+  pt: Verificador de código em segundo plano
+  ro: Verificator de cod în fundal
+  ru: Фоновая проверка кода
+  th: ตัวตรวจสอบโค้ดแบบเบื้องหลัง
+  tr: Arka planda çalışan kod denetleyici
+  uk: Фонова перевірка коду
+  vi: Trình kiểm tra mã nguồn chạy nền
 x:
   source: https://github.com/Canop/bacon
   eget: Canop/bacon

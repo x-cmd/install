@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于查看 Logstash 的终端用户界面
   en: A terminal user interface for Logstash.
+  cs: Terminálové uživatelské rozhraní pro Logstash.
+  de: Eine Terminal-Benutzeroberfläche für Logstash.
+  es: Una interfaz de usuario de terminal para Logstash.
+  fr: Une interface utilisateur en terminal pour Logstash.
+  id: Antarmuka pengguna berbasis terminal untuk Logstash.
+  it: Un'interfaccia utente a terminale per Logstash.
+  ja: Logstash 用のターミナルユーザーインターフェース。
+  ko: Logstash를 위한 터미널 사용자 인터페이스.
+  pl: Terminalowy interfejs użytkownika dla Logstash.
+  pt: Uma interface de usuário de terminal para o Logstash.
+  ro: O interfață de utilizator în terminal pentru Logstash.
+  ru: Терминальный пользовательский интерфейс для Logstash.
+  th: ส่วนติดต่อผู้ใช้บนเทอร์มินัลสำหรับ Logstash
+  tr: Logstash için terminal kullanıcı arayüzü.
+  uk: Термінальний користувацький інтерфейс для Logstash.
+  vi: Giao diện người dùng trên terminal cho Logstash.
 x:
   source: https://github.com/edmocosta/tuistash
   eget: edmocosta/tuistash

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: YouPlot is a command line tool that draws plots on the terminal
   cn: YouPlot 是一个在终端上绘制图形的命令行工具
+  cs: YouPlot je nástroj příkazové řádky, který kresí grafy v terminálu
+  de: YouPlot ist ein Kommandozeilenwerkzeug, das Diagramme im Terminal zeichnet
+  es: YouPlot es una herramienta de línea de comandos que dibuja gráficos en el terminal
+  fr: YouPlot est un outil en ligne de commande qui trace des graphiques dans le terminal
+  id: YouPlot adalah alat baris perintah yang menggambar grafik di terminal
+  it: YouPlot è uno strumento da riga di comando che disegna grafici sul terminale
+  ja: YouPlot はターミナル上にグラフを描画するコマンドラインツール
+  ko: YouPlot은 터미널에서 그래프를 그리는 명령줄 도구입니다
+  pl: YouPlot to narzędzie wiersza poleceń rysujące wykresy w terminalu
+  pt: YouPlot é uma ferramenta de linha de comando que desenha gráficos no terminal
+  ro: YouPlot este o utilitar de linie de comandă care desenează grafice în terminal
+  ru: YouPlot — инструмент командной строки, рисующий графики в терминале
+  th: YouPlot เป็นเครื่องมือบรรทัดคำสั่งที่วาดกราฟบนเทอร์มินัล
+  tr: YouPlot, terminalde grafik çizen bir komut satırı aracıdır
+  uk: YouPlot — інструмент командного рядка, що малює графіки в терміналі
+  vi: YouPlot là công cụ dòng lệnh vẽ biểu đồ trên terminal
 x:
   source: https://github.com/red-data-tools/YouPlot
   brew: youplot

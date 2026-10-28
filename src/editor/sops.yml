@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 加密文件编辑器
   en: Encrypted file editor
+  cs: Editor šifrovaných souborů
+  de: Editor für verschlüsselte Dateien
+  es: Editor de archivos cifrados
+  fr: Éditeur de fichiers chiffrés
+  id: Editor berkas terenkripsi
+  it: Editor di file cifrati
+  ja: 暗号化ファイルのエディタ
+  ko: 암호화된 파일 편집기
+  pl: Edytor zaszyfrowanych plików
+  pt: Editor de arquivos criptografados
+  ro: Editor de fișiere criptate
+  ru: Редактор зашифрованных файлов
+  th: ตัวแก้ไขไฟล์ที่เข้ารหัส
+  tr: Şifrelenmiş dosya düzenleyici
+  uk: Редактор зашифрованих файлів
+  vi: Trình chỉnh sửa tệp đã mã hóa
 x:
   source: https://github.com/getsops/sops
   yay: sops-git

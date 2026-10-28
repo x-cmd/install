@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Golang 编写的现代 CLI 工具,按用户名在各大社交网络中追踪账号
   en: 'This is Sherlock''s sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks'
+  cs: "Moderní špičkový nástroj CLI napsaný v Golang, který vám pomůže: 🔎 vyhledávat účty na sociálních sítích podle uživatelského jména"
+  de: "Modernes, glänzendes CLI-Tool in Golang, das Ihnen hilft: 🔎 Konten in sozialen Netzwerken anhand des Benutzernamens aufzuspüren"
+  es: "Herramienta CLI moderna y elegante escrita en Golang que te ayuda a: 🔎 Localizar cuentas en redes sociales por nombre de usuario"
+  fr: "Outil CLI moderne et élégant écrit en Golang pour vous aider à : 🔎 Repérer des comptes sur les réseaux sociaux par nom d'utilisateur"
+  id: "Alat CLI modern dan bergaya yang ditulis dengan Golang untuk membantu Anda: 🔎 Menelusuri akun media sosial berdasarkan nama pengguna"
+  it: "Moderno e rifinito strumento CLI scritto in Golang per aiutarti a: 🔎 Trovare account sui social network tramite nome utente"
+  ja: Golang で書かれたモダンで光沢のある CLI ツール。🔎 ユーザー名でソーシャルメディアのアカウントを特定できます
+  ko: "Golang으로 작성된 현대적이고 세련된 CLI 도구로 다음을 도와줍니다: 🔎 사용자 이름으로 소셜 미디어 계정 찾기"
+  pl: "Nowoczesne, eleganckie narzędzie CLI napisane w Golang, które pomoże Ci: 🔎 Znaleźć konta w mediach społecznościowych po nazwie użytkownika"
+  pt: "Ferramenta CLI moderna e brilhante escrita em Golang para ajudar você a: 🔎 Localizar contas em redes sociais por nome de usuário"
+  ro: "Instrument CLI modern și elegant scris în Golang care vă ajută: 🔎 Să găsiți conturi pe rețele sociale după numele de utilizator"
+  ru: "Современный стильный CLI-инструмент на Golang, который поможет вам: 🔎 Находить аккаунты в социальных сетях по имени пользователя"
+  th: "เครื่องมือ CLI สมัยใหม่ที่เขียนด้วย Golang เพื่อช่วยคุณ: 🔎 ค้นหาบัญชีโซเชียลมีเดียโดยชื่อผู้ใช้"
+  tr: "Golang ile yazılmış, size yardımcı olan modern ve şık CLI aracı: 🔎 Kullanıcı adına göre sosyal medya hesaplarını bulma"
+  uk: "Сучасний стильний CLI-інструмент на Golang, який допоможе вам: 🔎 Шукати облікові записи в соцмережах за іменем користувача"
+  vi: "Công cụ CLI hiện đại và bắt mắt viết bằng Golang giúp bạn: 🔎 Truy tìm tài khoản mạng xã hội theo tên người dùng"
 x:
   source: https://github.com/TheYahya/enola
   eget: TheYahya/enola

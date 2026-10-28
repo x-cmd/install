@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个在终端中书写、管理和组织笔记的工具。
   en: A tool for writing, managing and organizing your notes in the terminal.
+  cs: Nástroj pro psaní, správu a organizaci poznámek v terminálu.
+  de: Ein Tool zum Schreiben, Verwalten und Organisieren Ihrer Notizen im Terminal.
+  es: Una herramienta para escribir, gestionar y organizar tus notas en la terminal.
+  fr: Un outil pour écrire, gérer et organiser vos notes dans le terminal.
+  id: Alat untuk menulis, mengelola, dan mengorganisasi catatan Anda di terminal.
+  it: Uno strumento per scrivere, gestire e organizzare le tue note nel terminale.
+  ja: ターミナルでメモを書く・整理・管理するためのツール。
+  ko: 터미널에서 노트를 작성, 관리, 정리하는 도구입니다.
+  pl: Narzędzie do pisania, zarządzania i organizowania notatek w terminalu.
+  pt: Uma ferramenta para escrever, gerenciar e organizar suas notas no terminal.
+  ro: Un instrument pentru scrierea, gestionarea și organizarea notițelor în terminal.
+  ru: Инструмент для записи, управления и упорядочивания заметок в терминале.
+  th: เครื่องมือสำหรับเขียน จัดการ และจัดระเบียบบันทึกของคุณในเทอร์มินัล
+  tr: Terminalde notlarınızı yazmak, yönetmek ve düzenlemek için bir araç.
+  uk: Інструмент для запису, керування та впорядкування нотаток у терміналі.
+  vi: Công cụ để viết, quản lý và sắp xếp ghi chú của bạn trong terminal.
 x:
   source: https://github.com/AmmarAbouZor/tui-journal
   eget: AmmarAbouZor/tui-journal

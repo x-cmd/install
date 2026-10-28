@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: OpenSSF 记分卡 - 开源的安全健康指标
   en: OpenSSF Scorecard - Security health metrics for Open Source
+  cs: OpenSSF Scorecard - metriky zdraví zabezpečení open source
+  de: OpenSSF Scorecard - Sicherheits-Metriken für Open Source
+  es: OpenSSF Scorecard - métricas de seguridad de código abierto
+  fr: OpenSSF Scorecard - métriques de sécurité pour l'open source
+  id: OpenSSF Scorecard - metrik keamanan sumber terbuka
+  it: OpenSSF Scorecard - metriche di sicurezza per l'open source
+  ja: OpenSSF Scorecard - オープンソースのセキュリティヘルスメトリクス
+  ko: OpenSSF Scorecard - 오픈 소스 보안 건강 지표
+  pl: OpenSSF Scorecard - metryki bezpieczeństwa oprogramowania open source
+  pt: OpenSSF Scorecard - métricas de segurança de código aberto
+  ro: OpenSSF Scorecard - metrici de securitate pentru open source
+  ru: OpenSSF Scorecard - метрики безопасности открытого ПО
+  th: OpenSSF Scorecard - เมตริกความปลอดภัยของซอฟต์แวร์โอเพนซอร์ส
+  tr: OpenSSF Scorecard - açık kaynak için güvenlik sağlığı metrikleri
+  uk: OpenSSF Scorecard - метрики безпеки відкритого ПЗ
+  vi: OpenSSF Scorecard - số liệu bảo mật của mã nguồn mở
 x:
   source: https://github.com/ossf/scorecard
   eget: ossf/scorecard

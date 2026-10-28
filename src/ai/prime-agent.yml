@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Prime Agent 是一款自进化的 RLM 编程与研究代理，基于持久化 IPython 控制环境与可持续改进的 harness，专为长任务与后台运行而设计。
   en: Prime Agent is a self-improving RLM coding and research agent with a persistent IPython control environment and a continually-refined harness, built for long-running and background work.
+  cs: Prime Agent je samouzdokonující se RLM agent pro kódování a výzkum s trvalým řídicím prostředím IPython a neustále zdokonalovanou harness, postavený pro dlouhotrvající a práci na pozadí.
+  de: Prime Agent ist ein RLM-Coding- und Forschungsagent mit selbstverbesserndem Verhalten, dauerhaftem IPython-Steuerungsumfeld und ständig verfeinertem Harness, gebaut für langlebige Aufgaben und Hintergrundarbeit.
+  es: Prime Agent es un agente de programación e investigación RLM que se auto-mejora, con un entorno de control IPython persistente y un harness continuamente refinado, diseñado para tareas largas y trabajo en segundo plano.
+  fr: Prime Agent est un agent de codage et de recherche RLM auto-améliorant, doté d'un environnement de contrôle IPython persistant et d'un harnais sans cesse affiné, conçu pour les tâches longues et le travail en arrière-plan.
+  id: Prime Agent adalah agen coding dan riset RLM yang mampu/self-memperbaiki diri, dengan lingkungan kontrol IPython persisten dan harness yang terus disempurnakan, dirancang untuk pekerjaan jangka panjang dan latar belakang.
+  it: Prime Agent è un agente di programmazione e ricerca RLM che migliora da sé, con ambiente di controllo IPython persistente e un harness continuamente perfezionato, progettato per attività lunghe e lavoro in background.
+  ja: Prime Agentは自己改善型のRLMコーディング＆リサーチエージェントで、永続的なIPython制御環境と継続的に改良されるハーネスを備えており、長時間の作業やバックグラウンド処理向けに設計されています。
+  ko: Prime Agent는 지속형 IPython 제어 환경과 계속 정제되는 하네스를 갖춘 자기 개선형 RLM 코딩 및 리서치 에이전트로, 장시간 작업과 백그라운드 처리를 위해 설계되었습니다.
+  pl: Prime Agent to samodoskonalający się agent programistyczno-badawczy RLM z trwałym środowiskiem sterowania IPython i ciągle doskonalonym harnessem, stworzony do długotrwałych zadań i pracy w tle.
+  pt: O Prime Agent é um agente de programação e pesquisa RLM que se autoaperfeiçoa, com ambiente de controle IPython persistente e um harness continuamente refinado, criado para tarefas longas e trabalho em segundo plano.
+  ro: Prime Agent este un agent de programare și cercetare RLM care se îmbunătățește singur, cu mediu de control IPython persistent și un harness continuu rafinat, creat pentru sarcini de lungă durată și lucru în fundal.
+  ru: Prime Agent — самообучающийся RLM-агент для программирования и исследований с постоянной средой управления IPython и постоянно дорабатываемым harness, созданный для длительных задач и фоновой работы.
+  th: Prime Agent คือเอเจนต์เขียนโค้ดและวิจัยแบบ RLM ที่พัฒนาตัวเองได้ พร้อมสภาพแวดล้อมควบคุม IPython แบบถาวรและ harness ที่ได้รับการปรับปรุงอย่างต่อเนื่อง ออกแบบมาสำหรับงานระยะยาวและการทำงานเบื้องหลัง
+  tr: Prime Agent, kalıcı bir IPython kontrol ortamına ve sürekli iyileştirilen bir harness'a sahip, kendini geliştiren bir RLM kodlama ve araştırma ajanıdır; uzun süreli işler ve arka plan çalışması için tasarlanmıştır.
+  uk: Prime Agent — самовдосконалюваний RLM-агент для програмування та досліджень зі сталою середовищем керування IPython і постійно вдосконалюваним harness, створений для тривалих завдань і фонової роботи.
+  vi: Prime Agent là tác nhân lập trình và nghiên cứu RLM tự cải thiện, với môi trường điều khiển IPython bền vững và harness liên tục được tinh chỉnh, được thiết kế cho công việc kéo dài và chạy nền.
 x:
   source: https://github.com/PrimeIntellect-ai/prime-agent
 rule:

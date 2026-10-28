@@ -3,6 +3,22 @@ homepage: https://github.com/hxxft/lynx-cli
 desc:
   cn: Lynx 是一个使用 Javascript 来编写 Android 和 iOS 原生应用的框架
   en: Lynx is a framework that uses JavaScript to build native Android and iOS applications.
+  cs: Lynx je framework, který používá JavaScript k tvorbě nativních aplikací pro Android a iOS.
+  de: Lynx ist ein Framework, das JavaScript verwendet, um native Android- und iOS-Anwendungen zu erstellen.
+  es: Lynx es un framework que usa JavaScript para crear aplicaciones nativas para Android e iOS.
+  fr: Lynx est un framework qui utilise JavaScript pour créer des applications natives Android et iOS.
+  id: Lynx adalah framework yang menggunakan JavaScript untuk membangun aplikasi native Android dan iOS.
+  it: Lynx è un framework che usa JavaScript per creare applicazioni native per Android e iOS.
+  ja: Lynx は JavaScript を使って Android と iOS のネイティブアプリを作るフレームワークです。
+  ko: Lynx는 JavaScript를 사용하여 Android 및 iOS 네이티브 애플리케이션을 만드는 프레임워크입니다.
+  pl: Lynx to framework, który wykorzystuje JavaScript do tworzenia natywnych aplikacji na Androida i iOS.
+  pt: O Lynx é um framework que usa JavaScript para criar aplicativos nativos para Android e iOS.
+  ro: Lynx este un framework care folosește JavaScript pentru a construi aplicații native pentru Android și iOS.
+  ru: Lynx — это фреймворк, использующий JavaScript для создания нативных приложений для Android и iOS.
+  th: Lynx เป็นเฟรมเวิร์กที่ใช้ JavaScript เพื่อสร้างแอปพลิเคชันแบบเนทีฟสำหรับ Android และ iOS
+  tr: Lynx, Android ve iOS için yerel uygulamalar oluşturmak üzere JavaScript kullanan bir çerçevedir.
+  uk: Lynx — це фреймворк, який використовує JavaScript для створення нативних застосунків для Android та iOS.
+  vi: Lynx là một framework dùng JavaScript để xây dựng ứng dụng native cho Android và iOS.
 x:
   source: https://github.com/hxxft/lynx-cli
   npm: lynx-cli

@@ -3,6 +3,22 @@ homepage: https://github.com/kaitai-io/kaitai_struct
 desc:
   cn: Kaitai 结构是一种特定领域的语言（DSL），其设计为一个特定任务：处理任意二进制格式
   en: 'Kaitai Struct is a domain-specific language (DSL) that is designed with one particular task in mind: dealing with arbitrary binary formats'
+  cs: "Kaitai Struct je doménově specifický jazyk (DSL) navržený s jedním konkrétním cílem: zpracování libovolných binárních formátů"
+  de: "Kaitai Struct ist eine domänenspezifische Sprache (DSL), die mit einem bestimmten Ziel entworfen wurde: den Umgang mit beliebigen Binärformaten"
+  es: "Kaitai Struct es un lenguaje específico de dominio (DSL) diseñado con una tarea concreta: tratar con formatos binarios arbitrarios"
+  fr: "Kaitai Struct est un langage spécifique à un domaine (DSL) conçu autour d'un objectif particulier : traiter des formats binaires arbitraires"
+  id: "Kaitai Struct adalah bahasa spesifik domain (DSL) yang dirancang dengan satu tugas tertentu: menangani format biner sewenang-wenang"
+  it: "Kaitai Struct è un linguaggio specifico di dominio (DSL) progettato con un obiettivo preciso: gestire formati binari arbitrari"
+  ja: Kaitai Struct は、任意のバイナリ形式を扱うという特定の目的を念頭に設計されたドメイン固有言語 (DSL) です
+  ko: Kaitai Struct는 임의의 바이너리 형식을 처리한다는 하나의 목표를 염두에 설계된 도메인 전용 언어(DSL)입니다
+  pl: "Kaitai Struct to język dziedzinowy (DSL) zaprojektowany z myślą o jednym konkretnym zadaniu: obsłudze dowolnych formatów binarnych"
+  pt: "Kaitai Struct é uma linguagem específica de domínio (DSL) projetada com uma tarefa em mente: lidar com formatos binários arbitrários"
+  ro: "Kaitai Struct este un limbaj specific unui domeniu (DSL) proiectat cu un singur scop în vedere: gestionarea formatelor binare arbitrare"
+  ru: "Kaitai Struct — это предметно-ориентированный язык (DSL), спроектированный под одну конкретную задачу: работу с произвольными двоичными форматами"
+  th: "Kaitai Struct เป็นภาษาเฉพาะโดเมน (DSL) ที่ออกแบบโดยคิดถึงงานเฉพาะหนึ่งอย่าง: การจัดการกับรูปแบบไบนารีแบบใดก็ได้"
+  tr: "Kaitai Struct, belirli bir amaçla tasarlanmış alan özel bir dildir (DSL): keyfi ikili biçimlerle başa çıkmak"
+  uk: "Kaitai Struct — предметно-орієнтована мова (DSL), спроєктована під одне конкретне завдання: роботу з довільними двійковими форматами"
+  vi: "Kaitai Struct là ngôn ngữ chuyên miền (DSL) được thiết kế với mục tiêu rõ ràng: xử lý các định dạng nhị phân tùy ý"
 x:
   source: https://github.com/kaitai-io/kaitai_struct
   brew: kaitai-struct-compiler

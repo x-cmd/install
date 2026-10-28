@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 超级 S3 命令行工具
   en: Super S3 command line tool
+  cs: Super nástroj příkazové řádky pro S3
+  de: Super S3-Kommandozeilen-Werkzeug
+  es: Super herramienta de línea de comandos para S3
+  fr: Super outil en ligne de commande S3
+  id: Alat baris perintah S3|super
+  it: Super strumento a riga di comando per S3
+  ja: 最強の S3 コマンドラインツール
+  ko: 슈퍼 S3 명령줄 도구
+  pl: Super narzędzie wiersza poleceń S3
+  pt: Super ferramenta de linha de comando S3
+  ro: Super instrument de linie de comandă S3
+  ru: Супер инструмент командной строки для S3
+  th: เครื่องมือบรรทัดคำสั่ง S3 สุดเหนืย
+  tr: S3 için süper komut satırı aracı
+  uk: Супер інструмент командного рядка для S3
+  vi: Công cụ dòng lệnh S3 siêu tốc
 x:
   source: https://github.com/bloomreach/s4cmd
   apt: s4cmd

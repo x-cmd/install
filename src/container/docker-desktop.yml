@@ -3,6 +3,22 @@ homepage: https://github.com/docker/for-mac
 desc:
   cn: 面向开发人员和团队的排名第一的容器化软件
   en: 'The #1 containerization software for developers and teams'
+  cs: Nejpoužívanější kontejnerizační software pro vývojáře a týmy
+  de: Die Nr. 1 Containerisierungs-Software für Entwickler und Teams
+  es: El software de contenedorización número 1 para desarrolladores y equipos
+  fr: Le logiciel de conteneurisation n°1 pour les développeurs et les équipes
+  id: Software containerisasi nomor 1 untuk pengembang dan tim
+  it: Il software di containerizzazione numero 1 per sviluppatori e team
+  ja: 開発者とチームのためのNo.1コンテナライゼーションソフトウェア
+  ko: 개발자와 팀을 위한 1위 컨테이너화 소프트웨어
+  pl: Najpopularniejsze oprogramowanie do konteneryzacji dla deweloperów i zespołów
+  pt: O software de conteinerização nº 1 para desenvolvedores e equipes
+  ro: Software-ul de containerizare nr. 1 pentru dezvoltatori și echipe
+  ru: Программное обеспечение №1 для контейнеризации, созданное для разработчиков и команд
+  th: ซอฟต์แวร์คอนเทนเนอร์อันดับ 1 สำหรับนักพัฒนาและทีม
+  tr: Geliştiriciler ve ekipler için bir numaralı konteynerleştirme yazılımı
+  uk: Програмне забезпечення №1 для контейнеризації, створене для розробників і команд
+  vi: Phần mềm container hóa số 1 dành cho nhà phát triển và đội ngũ
 x:
   source: https://github.com/docker/for-mac
   scoop: main/docker

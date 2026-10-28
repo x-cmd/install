@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: melt 是一个用于开发 GCC 扩展的领域特定语言，它是一个 Lisp 方言，可以编译成 C 代码。melt 可以让你用 Lisp 语法来编写中间端的优化和分析过程，例如静态单赋值形式、控制流图、数据流分析等。
   en: Backup and restore SSH private keys using memorizable seed phrases
+  cs: Zálohování a obnovování soukromých klíčů SSH pomocí zapamatovatelných heslových frází
+  de: Sichern und Wiederherstellen privater SSH-Schlüssel mit memoriierbaren Seed-Phrasen
+  es: Copia de seguridad y restauración de claves privadas SSH mediante frases de recuperación memorizables
+  fr: Sauvegarde et restauration de clés privées SSH à l'aide de phrases de récupération mémorisables
+  id: Mencadangkan dan memulihkan kunci privat SSH menggunakan frasa benih yang mudah diingat
+  it: Backup e ripristino delle chiavi private SSH usando frasi seed memorizzabili
+  ja: 記憶しやすいシードフレーズを使って SSH 秘密鍵をバックアップと復元します
+  ko: 기억하기 쉬운 시드 문구를 사용하여 SSH 개인 키를 백업하고 복원합니다
+  pl: Kopia zapasowa i przywracanie prywatnych kluczy SSH z użyciem zapamiętywalnych fraz ziarna
+  pt: Backup e restauração de chaves privadas SSH usando frases-semente memoráveis
+  ro: Copiere de rezervă și restaurarea cheilor private SSH folosind fraze de semințe ușor de memorat
+  ru: Резервное копирование и восстановление приватных ключей SSH с помощью запоминающихся seed-фраз
+  th: สำรองและกู้คืนคีย์ส่วนตัวของ SSH โดยใช้วลีซีดที่จดจำได้ง่าย
+  tr: Hatırlanabilir seed ifadeleriyle SSH özel anahtarlarını yedekleme ve geri yükleme
+  uk: Резервне копіювання та відновлення приватних ключів SSH за допомогою запам'ятовуваних seed-фраз
+  vi: Sao lưu và khôi phục khóa riêng SSH bằng các cụm từ hạt giống dễ nhớ
 x:
   source: https://github.com/charmbracelet/melt
   eget: charmbracelet/melt

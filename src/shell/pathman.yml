@@ -3,6 +3,22 @@ homepage: https://git.rootprojects.org/root/pathman
 desc:
   cn: PATH 管理工具，用于管理 Windows 10、Mac 和 Linux 上的 PATH
   en: PATH management tool for managing PATH on Windows 10, Mac and Linux
+  cs: Nástroj pro správu PATH, ktery spravuje PATH na Windows 10, Mac a Linux
+  de: PATH-Verwaltungstool zum Verwalten von PATH unter Windows 10, Mac und Linux
+  es: Herramienta de gestión de PATH para administrar PATH en Windows 10, Mac y Linux
+  fr: Outil de gestion de PATH pour gérer le PATH sous Windows 10, Mac et Linux
+  id: Alat manajemen PATH untuk mengelola PATH di Windows 10, Mac, dan Linux
+  it: Strumento di gestione di PATH per gestire il PATH su Windows 10, Mac e Linux
+  ja: Windows 10、Mac、Linux 上で PATH を管理するための PATH 管理ツール
+  ko: Windows 10, Mac, Linux에서 PATH를 관리하는 PATH 관리 도구
+  pl: Narzędzie do zarządzania PATH, służące do zarządzania PATH w Windows 10, Mac i Linux
+  pt: Ferramenta de gerenciamento de PATH para gerenciar o PATH no Windows 10, Mac e Linux
+  ro: Instrument de gestionare PATH pentru gestionarea PATH pe Windows 10, Mac și Linux
+  ru: Инструмент управления PATH для работы с PATH в Windows 10, Mac и Linux
+  th: เครื่องมือจัดการ PATH สำหรับจัดการ PATH บน Windows 10, Mac และ Linux
+  tr: Windows 10, Mac ve Linux'ta PATH yönetmek için PATH yönetim aracı
+  uk: Інструмент керування PATH для керування PATH у Windows 10, Mac та Linux
+  vi: Công cụ quản lý PATH để quản lý PATH trên Windows 10, Mac và Linux
 x:
   npm: pathman
 rule:

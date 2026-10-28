@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Python 文件的格式化程序
   en: A formatter for Python files
+  cs: Formátovač pro soubory Python
+  de: Ein Formatter für Python-Dateien
+  es: Un formateador para archivos Python
+  fr: Un formateur pour les fichiers Python
+  id: Pemformat untuk berkas Python
+  it: Un formattatore per file Python
+  ja: Python ファイルのフォーマッタ
+  ko: Python 파일용 포매터
+  pl: Formatter plików Python
+  pt: Um formatador para arquivos Python
+  ro: Un formatator pentru fișiere Python
+  ru: Форматтер для файлов Python
+  th: ตัวจัดรูปแบบสำหรับไฟล์ Python
+  tr: Python dosyaları için bir biçimlendirici
+  uk: Форматтер для файлів Python
+  vi: Công cụ định dạng cho các tệp Python
 x:
   source: https://github.com/google/yapf
   pip: yapf

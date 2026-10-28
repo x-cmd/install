@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: eureka 是一个 CLI 工具，它允许您使用首选编辑器快速写下一个想法，然后将这个想法提交并推送到您的想法 git 存储库中
   en: eureka is a CLI tool that allows you to quickly write down an idea using your preferred editor, and then have the idea committed and pushed to your idea git repository
+  cs: eureka je CLI nástroj, který vám umožní rychle zapsat nápad v preferovaném editoru a poté nechat nápad commitnout a pushnout do vašeho git repozitáře nápadů
+  de: eureka ist ein CLI-Werkzeug, mit dem Sie eine Idee schnell in Ihrem bevorzugten Editor notieren und anschließend in Ihr Ideen-git-Repository committen und pushen können
+  es: eureka es una herramienta de CLI que te permite escribir rápidamente una idea con tu editor preferido y luego hacer que esa idea se confirme y se publique en tu repositorio git de ideas
+  fr: eureka est un outil en ligne de commande qui vous permet d'écrire rapidement une idée avec votre éditeur préféré, puis de la valider et de la pousser vers votre dépôt git d'idées
+  id: eureka adalah alat CLI yang memungkinkan Anda cepat menulis ide menggunakan editor pilihan Anda, lalu ide itu di-commit dan di-push ke repositori git ide Anda
+  it: eureka è uno strumento CLI che ti permette di annotare rapidamente un'idea con il tuo editor preferito e poi farla committare e pushare nel tuo repository git di idee
+  ja: eurekaは、お好きなエディタですぐアイデアを書き留め、そのアイデアをコミットしてアイデア用gitリポジトリへプッシュできるCLIツールです
+  ko: eureka는 선호하는 편집기로 아이디어를 빠르게 기록한 뒤 해당 아이디어를 커밋하고 아이디어 git 저장소에 푸시할 수 있게 해 주는 CLI 도구입니다
+  pl: eureka to narzędzie CLI, które pozwala szybko zapisać pomysł w preferowanym edytorze, a następnie zatwierdzić go i wypchnąć do Twojego repozytorium git z pomysłami
+  pt: eureka é uma ferramenta de CLI que permite escrever rapidamente uma ideia usando seu editor preferido e depois ter essa ideia confirmada e enviada ao seu repositório git de ideias
+  ro: eureka este un instrument CLI care vă permite să notați rapid o idee folosind editorul preferat, iar apoi ideea este commituită și trimisă în repository-ul git de idei
+  ru: eureka — это CLI-инструмент, который позволяет быстро записать идею в предпочитаемом редакторе, а затем закоммитить и отправить её в ваш git-репозиторий идей
+  th: eureka เป็นเครื่องมือ CLI ที่ให้คุณเขียนความคิดลงได้อย่างรวดเร็วด้วยโปรแกรมแก้ไขที่คุณชอบ จากนั้นจะ commit และ push ความคิดนั้นไปยัง git repository ของคุณ
+  tr: eureka, fikrinizi tercih ettiğiniz düzenleyicide hızla yazmanıza ve ardından bu fikrin git fikir deponuzda commit edilip gönderilmesine olanak tanıyan bir CLI aracıdır
+  uk: eureka — це CLI-інструмент, який дозволяє швидко записати ідею у вашому улюбленому редакторі, а потім закомітити та запушити її до вашого git-репозиторію ідей
+  vi: eureka là công cụ CLI cho phép bạn nhanh chóng viết một ý tưởng bằng trình soạn thảo yêu thích, rồi commit và push ý tưởng đó vào kho git ý tưởng của bạn
 x:
   source: https://github.com/simeg/eureka
   brew: eureka

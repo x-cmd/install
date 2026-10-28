@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 强大的开源消息传递服务器
   en: powerful open source messaging server
+  cs: výkonný open source messaging server
+  de: leistungsstarker quelloffener Messaging-Server
+  es: servidor de mensajería de código abierto potente
+  fr: serveur de messagerie open source puissant
+  id: server pesan open source yang powerful
+  it: potente server di messaggistica open source
+  ja: 強力なオープンソースのメッセージングサーバー
+  ko: 강력한 오픈 소스 메시징 서버
+  pl: potężny open source serwer komunikacji
+  pt: servidor de mensagens de código aberto poderoso
+  ro: server de mesagerie open source puternic
+  ru: мощный сервер обмена сообщениями с открытым исходным кодом
+  th: เซิร์ฟเวอร์ส่งข้อความโอเพนซอร์สที่ทรงพลัง
+  tr: güçlü açık kaynaklı mesajlaşma sunucusu
+  uk: потужний сервер обміну повідомленнями з відкритим кодом
+  vi: máy chủ nhắn tin mã nguồn mở mạnh mẽ
 x:
   source: https://github.com/apache/activemq
   apt: activemq

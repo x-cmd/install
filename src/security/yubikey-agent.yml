@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: yubikey-agent is a seamless ssh-agent for YubiKeys
   cn: Yubikey-agent 是 YubiKeys 的一个无缝 ssh-agent
+  cs: yubikey-agent je bezproblémový ssh-agent pro YubiKeys
+  de: yubikey-agent ist ein nahtloser ssh-agent für YubiKeys
+  es: yubikey-agent es un ssh-agent fluido para YubiKeys
+  fr: yubikey-agent est un ssh-agent transparent pour YubiKeys
+  id: yubikey-agent adalah ssh-agent mulus untuk YubiKey
+  it: yubikey-agent è un ssh-agent senza soluzione di continuità per YubiKey
+  ja: yubikey-agent は YubiKey 用のシームレスな ssh-agent です
+  ko: yubikey-agent는 YubiKey를 위한 원활한 ssh-agent입니다
+  pl: yubikey-agent to bezproblemowy ssh-agent dla YubiKey
+  pt: yubikey-agent é um ssh-agent fluido para YubiKeys
+  ro: yubikey-agent este un ssh-agent fluid pentru YubiKeys
+  ru: yubikey-agent — бесшовный ssh-agent для YubiKey
+  th: yubikey-agent เป็น ssh-agent ที่ราบรื่นสำหรับ YubiKey
+  tr: yubikey-agent, YubiKey'ler için sorunsuz bir ssh-agent'tır
+  uk: yubikey-agent — безшовний ssh-agent для YubiKey
+  vi: yubikey-agent là ssh-agent liền mạch cho YubiKey
 x:
   source: https://github.com/FiloSottile/yubikey-agent
   brew: yubikey-agent

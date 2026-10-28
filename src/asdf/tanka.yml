@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Grafana Tanka 是您的 Kubernetes 群集的强大配置实用程序，由唯一的 JSONNET 语言提供支持
   en: Grafana Tanka is the robust configuration utility for your Kubernetes cluster, powered by the unique Jsonnet language
+  cs: Grafana Tanka je robustní konfigurační nástroj pro váš cluster Kubernetes, postavený na jedinečném jazyce Jsonnet
+  de: Grafana Tanka ist das robuste Konfigurationswerkzeug für Ihren Kubernetes-Cluster, angetrieben von der einzigartigen Jsonnet-Sprache
+  es: Grafana Tanka es la robusta utilidad de configuración para tu clúster de Kubernetes, potenciada por el lenguaje único Jsonnet
+  fr: Grafana Tanka est l'utilitaire de configuration robuste pour votre cluster Kubernetes, propulsé par le langage unique Jsonnet
+  id: Grafana Tanka adalah utilitas konfigurasi yang andal untuk klaster Kubernetes Anda, didukung oleh bahasa Jsonnet yang unik
+  it: Grafana Tanka è la robusta utility di configurazione per il tuo cluster Kubernetes, basata sul linguaggio unico Jsonnet
+  ja: Grafana Tanka は、ユニークな Jsonnet 言語で動く、あなたの Kubernetes クラスタ向けの堅牢な設定ユーティリティです
+  ko: Grafana Tanka는 독특한 Jsonnet 언어 기반으로 동작하는 Kubernetes 클러스터용 강력한 설정 유틸리티입니다
+  pl: Grafana Tanka to solidne narzędzie konfiguracyjne dla klastra Kubernetes, oparte na unikalnym języku Jsonnet
+  pt: O Grafana Tanka é o utilitário de configuração robusto para o seu cluster Kubernetes, com o poder da linguagem única Jsonnet
+  ro: Grafana Tanka este utilitarul robust de configurare pentru clusterul tău Kubernetes, susținut de unicul limbaj Jsonnet
+  ru: Grafana Tanka — надёжный инструмент настройки для вашего кластера Kubernetes, основанный на уникальном языке Jsonnet
+  th: Grafana Tanka คือเครื่องมือกำหนดค่าที่แข็งแรงสำหรับคลัสเตอร์ Kubernetes ของคุณ โดยใช้ภาษา Jsonnet ที่ไม่ซ้ำกัน
+  tr: Grafana Tanka, Kubernetes kümeniz için sağlam bir yapılandırma aracıdır ve eşsiz Jsonnet diliyle desteklenir
+  uk: Grafana Tanka — надійний інструмент налаштування для вашого кластера Kubernetes, що працює на основі унікальної мови Jsonnet
+  vi: Grafana Tanka là tiện ích cấu hình mạnh mẽ cho cụm Kubernetes của bạn, được hỗ trợ bởi ngôn ngữ Jsonnet độc đáo
 x:
   source: https://github.com/grafana/tanka
   eget: grafana/tanka

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: cointop is a fast and lightweight interactive terminal based UI application for tracking and monitoring cryptocurrency coin stats in real-time
   cn: cointop 是一个基于快速且轻巧的交互式终端的 UI 应用程序，用于实时跟踪和监视加密货币硬币统计信息
+  cs: cointop je rychlá a lehká interaktivní aplikace s uživatelským rozhraním v terminálu pro sledování a monitorování statistik kryptoměn v reálném čase
+  de: cointop ist eine schnelle und leichte interaktive Terminal-UI-Anwendung zum Verfolgen und Überwachen von Kryptowährungsstatistiken in Echtzeit
+  es: cointop es una aplicación de interfaz de usuario de terminal rápida y ligera para seguir y supervisar estadísticas de criptomonedas en tiempo real
+  fr: cointop est une application d'interface en terminal rapide et légère pour suivre et surveiller les statistiques de crypto-actifs en temps réel
+  id: cointop adalah aplikasi UI terminal interaktif yang cepat dan ringan untuk melacak dan memantau statistik koin kripto secara real-time
+  it: cointop è una veloce e leggera applicazione con interfaccia a terminale per tracciare e monitorare le statistiche delle criptovalute in tempo reale
+  ja: cointop は、暗号通貨の統計情報をリアルタイムで追跡・監視するための高速で軽量な対話型ターミナル UI アプリケーションです
+  ko: cointop는 암호화폐 통계를 실시간으로 추적하고 모니터링하는 빠르고 가벼운 대화형 터미널 UI 애플리케이션입니다
+  pl: cointop to szybka i lekka interaktywna aplikacja z interfejsem terminala do śledzenia i monitorowania statystyk kryptowalut w czasie rzeczywistym
+  pt: O cointop é um aplicativo de interface de terminal rápido e leve para acompanhar e monitorar estatísticas de criptomoedas em tempo real
+  ro: cointop este o aplicație rapidă și ușoară cu interfață în terminal pentru urmărirea și monitorizarea statisticilor criptomonedelor în timp real
+  ru: cointop — быстрое и лёгкое интерактивное терминальное приложение для отслеживания и мониторинга статистики криптовалют в реальном времени
+  th: cointop เป็นแอปพลิเคชัน UI แบบเทอร์มินัลแบบโต้ตอบที่เร็วและเบา สำหรับติดตามและเฝ้าดูสถิติคริปโตคอร์เนียในเวลาจริง
+  tr: cointop, kripto para birimi istatistiklerini gerçek zamanlı olarak izlemek ve takip etmek için hızlı ve hafif etkileşimli terminal kullanıcı arayüzü uygulamasıdır
+  uk: cointop — швидкий і легкий інтерактивний застосунок з термінальним інтерфейсом для відстеження та моніторингу статистики криптовалют у реальному часі
+  vi: cointop là ứng dụng giao diện terminal tương tác nhanh nhẹ để theo dõi và giám sát số liệu tiền mã hóa theo thời gian thực
 x:
   source: https://github.com/cointop-sh/cointop
   eget: cointop-sh/cointop

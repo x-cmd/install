@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase
   cn: Flutter 是 Google 的 SDK，用于从一个代码库中为移动、网络和桌面提供漂亮、快速的用户体验
+  cs: Flutter je SDK společnosti Google pro tvorbu krásných a rychlých uživatelských zážitků na mobilních zařízeních, webu a desktopu z jediné kódové základny
+  de: Flutter ist Googles SDK, um aus einer einzigen Codebasis wunderschöne, schnelle Benutzererlebnisse für Mobil, Web und Desktop zu erstellen
+  es: Flutter es el SDK de Google para crear experiencias de usuario hermosas, rápidas para móvil, web y escritorio a partir de una base de código única
+  fr: Flutter est le SDK de Google permettant de créer de belles expériences utilisateur rapides pour mobile, web et desktop à partir d'une base de code unique
+  id: Flutter adalah SDK milik Google untuk membangun pengalaman pengguna yang indah dan cepat di mobile, web, dan desktop dari satu basis kode
+  it: Flutter è l'SDK di Google per creare esperienze utente bellissime e veloci per mobile, web e desktop da un'unica base di codice
+  ja: Flutter は Google の SDK で、単一のコードベースからモバイル、Web、デスクトップ向けの美しい高速なユーザー体験を実現します
+  ko: Flutter는 Google의 SDK로, 하나의 코드베이스에서 모바일, 웹, 데스크톱을 위한 아름답고 빠른 사용자 경험을 만들어 냅니다
+  pl: Flutter to SDK firmy Google do tworzenia pięknych i szybkich doświadczeń użytkownika na urządzeniach mobilnych, w sieci i na komputerach z jednej bazy kodu
+  pt: Flutter é o SDK do Google para criar experiências de usuário bonitas e rápidas para mobile, web e desktop a partir de uma única base de código
+  ro: Flutter este SDK-ul Google pentru a crea experiențe de utilizator frumoase și rapide pentru mobil, web și desktop dintr-o singură bază de cod
+  ru: Flutter — это SDK от Google для создания красивых и быстрых пользовательских интерфейсов для мобильных устройств, веба и десктопа из единой кодовой базы
+  th: Flutter คือ SDK ของ Google สำหรับสร้างประสบการณ์ผู้ใช้ที่สวยงามและรวดเร็วสำหรับมือถือ เว็บ และเดสก์ท็อป จากฐานโค้ดเดียว
+  tr: Flutter, tek bir kod tabanından mobil, web ve masaüstü için güzel ve hızlı kullanıcı deneyimleri oluşturmaya yarayan Google SDK'sıdır
+  uk: Flutter — це SDK від Google для створення красивих і швидких користувацьких вражень для мобільних пристроїв, вебу та десктопу з єдиної кодової бази
+  vi: Flutter là SDK của Google giúp tạo trải nghiệm người dùng đẹp và nhanh cho mobile, web và desktop từ một cơ sở mã nguồn duy nhất
 x:
   source: https://github.com/flutter/flutter
   snap: flutter

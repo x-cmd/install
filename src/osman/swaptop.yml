@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的 swap 使用监控工具
   en: 'swap usage monitor written in rust'
+  cs: Monitor využití swapu napsaný v jazyce Rust
+  de: In Rust geschriebener Swap-Nutzungsmonitor
+  es: Monitor de uso de swap escrito en Rust
+  fr: Moniteur d'utilisation du swap écrit en Rust
+  id: Monitor penggunaan swap yang ditulis dalam Rust
+  it: Monitor dell'uso dello swap scritto in Rust
+  ja: Rust で書かれた swap 使用量モニター
+  ko: Rust로 작성된 swap 사용량 모니터
+  pl: Monitor zużycia swap napisany w Rust
+  pt: Monitor de uso de swap escrito em Rust
+  ro: Monitor al utilizării swap-ului scris în Rust
+  ru: Монитор использования swap, написанный на Rust
+  th: มอนิเตอร์การใช้งาน swap ที่เขียนด้วย Rust
+  tr: Rust ile yazılmış swap kullanım izleyici
+  uk: Монітор використання swap, написаний на Rust
+  vi: Trình giám sát mức sử dụng swap viết bằng Rust
 x:
   source: https://github.com/luis-ota/swaptop
   eget: luis-ota/swaptop

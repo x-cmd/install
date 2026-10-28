@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: Fallback theme for FreeDesktop.org icon themes
   cn: FreeDesktop.org 图标主题的后备主题
+  cs: Záložní motiv pro ikony FreeDesktop.org
+  de: Fallback-Design für FreeDesktop.org-Icon-Themes
+  es: Tema de respaldo para los temas de iconos de FreeDesktop.org
+  fr: Thème de repli pour les thèmes d'icônes FreeDesktop.org
+  id: Tema cadangan untuk tema ikon FreeDesktop.org
+  it: Tema di fallback per i temi di icone FreeDesktop.org
+  ja: FreeDesktop.org アイコンテーマのフォールバックテーマ
+  ko: FreeDesktop.org 아이콘 테마의 대체 테마
+  pl: Motyw zapasowy dla motywów ikon FreeDesktop.org
+  pt: Tema de fallback para temas de ícones do FreeDesktop.org
+  ro: Temă de rezervă pentru temele de pictograme FreeDesktop.org
+  ru: Запасная тема для тем значков FreeDesktop.org
+  th: ธีมสำรองสำหรับธีมไอคอน FreeDesktop.org
+  tr: FreeDesktop.org simge temaları için yedek tema
+  uk: Запасна тема для тем піктограм FreeDesktop.org
+  vi: Chủ đề dự phòng cho các chủ đề biểu tượng FreeDesktop.org
 x:
   source: https://github.com/Distrotech/hicolor-icon-theme
   brew: hicolor-icon-theme

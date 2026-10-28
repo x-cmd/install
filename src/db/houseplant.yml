@@ -3,6 +3,22 @@ homepage: https://houseplant.readthedocs.io/en/latest/#
 desc:
   cn: Houseplant 是一个命令行工具，帮助你管理 ClickHouse 数据库的迁移。
   en: Houseplant is a CLI tool that helps you manage database migrations for ClickHouse.
+  cs: Houseplant je nástroj CLI, který vám pomáhá spravovat migrace databází pro ClickHouse.
+  de: Houseplant ist ein CLI-Tool, das Ihnen bei der Verwaltung von Datenbankmigrationen für ClickHouse hilft.
+  es: Houseplant es una herramienta de CLI que le ayuda a gestionar migraciones de bases de datos para ClickHouse.
+  fr: Houseplant est un outil CLI qui vous aide à gérer les migrations de bases de données pour ClickHouse.
+  id: Houseplant adalah alat CLI yang membantu Anda mengelola migrasi database untuk ClickHouse.
+  it: Houseplant è uno strumento CLI che ti aiuta a gestire le migrazioni del database per ClickHouse.
+  ja: Houseplant は ClickHouse のデータベース移行を管理するための CLI ツールです。
+  ko: Houseplant는 ClickHouse를 위한 데이터베이스 마이그레이션을 관리하도록 돕는 CLI 도구입니다.
+  pl: Houseplant to narzędzie CLI, które pomaga zarządzać migracjami baz danych dla ClickHouse.
+  pt: Houseplant é uma ferramenta de CLI que ajuda você a gerenciar migrações de banco de dados para o ClickHouse.
+  ro: Houseplant este un instrument CLI care vă ajută să gestionați migrările bazei de date pentru ClickHouse.
+  ru: Houseplant — это CLI-инструмент, который помогает управлять миграциями баз данных для ClickHouse.
+  th: Houseplant เป็นเครื่องมือ CLI ที่ช่วยคุณจัดการการย้ายฐานข้อมูลสำหรับ ClickHouse
+  tr: Houseplant, ClickHouse için veritabanı geçişlerini yönetmenize yardımcı olan bir CLI aracıdır.
+  uk: Houseplant — це CLI-інструмент, який допомагає керувати міграціями баз даних для ClickHouse.
+  vi: Houseplant là công cụ CLI giúp bạn quản lý các bản di chuyển cơ sở dữ liệu cho ClickHouse.
 rule:
   /pip:
     cmd: pip install houseplant

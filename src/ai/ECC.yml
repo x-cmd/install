@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Agent 框架的性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等提供技能、直觉、记忆、安全与研究优先开发
   en: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+  cs: Systém optimalizace výkonu pro harnes AI agentů. Dovednosti, instinkty, paměť, bezpečnost a vývoj řízený výzkumem pro Claude Code, Codex, OpenCode, Cursor a další.
+  de: Optimierungssystem für die Leistung von KI-Agent-Harnesses. Skills, Instinkte, Speicher, Sicherheit und forschungsorientierte Entwicklung für Claude Code, Codex, Opencode, Cursor und darüber hinaus.
+  es: Sistema de optimización del rendimiento del harness de agentes de IA. Habilidades, instintos, memoria, seguridad y desarrollo con investigación primero para Claude Code, Codex, Opencode, Cursor y más.
+  fr: Système d'optimisation des performances du harnais d'agents IA. Compétences, instincts, mémoire, sécurité et développement axé recherche pour Claude Code, Codex, Opencode, Cursor et au-delà.
+  id: Sistem optimasi performa untuk harness agen AI. Keterampilan, naluri, memori, keamanan, dan pengembangan riset-ber-centred untuk Claude Code, Codex, Opencode, Cursor, danbeyond.
+  it: Sistema di ottimizzazione delle prestazioni dell'harness per agenti AI. Skill, istinti, memoria, sicurezza e sviluppo orientato alla ricerca per Claude Code, Codex, Opencode, Cursor e oltre.
+  ja: AIエージェントハーネスのパフォーマンス最適化システム。Claude Code、Codex、Opencode、Cursor などのためのスキル、直感、記憶、セキュリティ、リサーチファーストな開発を提供します。
+  ko: AI 에이전트 하네스의 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등을 위한 스킬, 직감, 메모리, 보안, 리서치 우선 개발을 제공합니다.
+  pl: System optymalizacji wydajności dla harnessu agentów AI. Umiejętności, instynkty, pamięć, bezpieczeństwo i rozwój oparty na badaniach dla Claude Code, Codex, Opencode, Cursor i nie tylko.
+  pt: Sistema de otimização de desempenho do harness de agentes de IA. Habilidades, instintos, memória, segurança e desenvolvimento com pesquisa em primeiro plano para Claude Code, Codex, Opencode, Cursor e além.
+  ro: Sistem de optimizare a performanței pentru harness-ul de agenți AI. Abilități, instincte, memorie, securitate și dezvoltare orientată spre cercetare pentru Claude Code, Codex, Opencode, Cursor și nu numai.
+  ru: Система оптимизации производительности харнесса ИИ-агентов. Навыки, инстинкты, память, безопасность и исследовательский подход к разработке для Claude Code, Codex, Opencode, Cursor и не только.
+  th: ระบบเพิ่มประสิทธิภาพของ harness เอเจนต์ AI ทักษะ สัญชาตญาณ ความจำ ความปลอดภัย และการพัฒนาแบบวิจัยมาก่อน สำหรับ Claude Code, Codex, Opencode, Cursor และอื่น ๆ
+  tr: AI ajanı harness'ı için performans optimizasyon sistemi. Claude Code, Codex, Opencode, Cursor ve ötesi için beceriler, sezgiler, bellek, güvenlik ve araştırma öncelikli geliştirme.
+  uk: Система оптимізації продуктивності харнеса ІІ-агентів. Навички, інстинкти, пам'ять, безпека та розвиток, орієнтований на дослідження, для Claude Code, Codex, Opencode, Cursor та інших.
+  vi: Hệ thống tối ưu hiệu năng cho harness tác nhân AI. Kỹ năng, trực giác, bộ nhớ, bảo mật và phát triển ưu tiên nghiên cứu cho Claude Code, Codex, Opencode, Cursor và hơn thế.
 x:
   source: https://github.com/affaan-m/ECC
   eget: affaan-m/ECC

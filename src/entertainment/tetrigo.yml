@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 俄罗斯方块的 Golang 实现，遵循官方 2009 年俄罗斯方块设计指南 。
   en: A Golang implementation of Tetris, following the official 2009 Tetris Design Guideline.
+  cs: Implementace hry Tetris v Golang podle oficiálního návrhového dokumentu Tetris z roku 2009.
+  de: Eine Golang-Implementierung von Tetris, die dem offiziellen Tetris Design Guideline von 2009 folgt.
+  es: Una implementación en Golang de Tetris, siguiendo la guía oficial de diseño de Tetris de 2009.
+  fr: Une implémentation Golang de Tetris, suivant le guide officiel de conception de Tetris de 2009.
+  id: Implementasi Tetris dengan Golang, mengikuti Panduan Desain Tetris resmi tahun 2009.
+  it: Un'implementazione Golang di Tetris, che segue le linee guida di design ufficiali di Tetris del 2009.
+  ja: Golang によるテトリスの実装で、2009 年の公式 Tetris Design Guideline に従っています。
+  ko: 2009년 공식 Tetris 디자인 가이드라인을 따르는 Golang 기반 테트리스 구현입니다.
+  pl: Implementacja Tetris w Golang, zgodna z oficjalnym wytycznym projektowania Tetris z 2009 roku.
+  pt: Uma implementação de Tetris em Golang, seguindo o guia de design oficial do Tetris de 2009.
+  ro: O implementare Tetris în Golang, care urmează ghidul oficial de design Tetris din 2009.
+  ru: Реализация игры «Тетрис» на Golang, следующая официальному руководству по дизайну Tetris 2009 года.
+  th: การพัฒนาเกม Tetris ด้วย Golang ตามแนวทางการออกแบบ Tetris อย่างเป็นทางการปี 2009
+  tr: 2009 tarihli resmî Tetris Tasarım Kılavuzu'na uygun Golang ile bir Tetris uygulaması.
+  uk: Реалізація гри «Тетріс» на Golang, що відповідає офіційному посібнику з дизайну Tetris 2009 року.
+  vi: Bản triển khai Tetris bằng Golang, tuân theo hướng dẫn thiết kế Tetris chính thức năm 2009.
 x:
   source: https://github.com/Broderick-Westrope/tetrigo
   eget: Broderick-Westrope/tetrigo

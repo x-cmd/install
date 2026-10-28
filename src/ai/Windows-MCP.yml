@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向 Windows 计算机使用的 MCP Server
   en: MCP Server for Computer Use in Windows
+  cs: MCP Server pro použití počítače ve Windows
+  de: MCP-Server für Computer Use unter Windows
+  es: Servidor MCP para el uso del ordenador en Windows
+  fr: Serveur MCP pour l'utilisation de l'ordinateur sous Windows
+  id: MCP Server untuk penggunaan komputer di Windows
+  it: Server MCP per l'uso del computer su Windows
+  ja: Windows でのコンピューター利用のための MCP サーバー
+  ko: Windows에서 컴퓨터 사용을 위한 MCP 서버
+  pl: Serwer MCP do sterowania komputerem w systemie Windows
+  pt: Servidor MCP para uso do computador no Windows
+  ro: Server MCP pentru utilizarea computerului în Windows
+  ru: MCP-сервер для использования компьютера в Windows
+  th: เซิร์ฟเวอร์ MCP สำหรับการใช้คอมพิวเตอร์บน Windows
+  tr: Windows'ta bilgisayar kullanımı için MCP sunucusu
+  uk: MCP-сервер для використання комп'ютера у Windows
+  vi: MCP Server cho việc sử dụng máy tính trên Windows
 x:
   source: https://github.com/CursorTouch/Windows-MCP
   eget: CursorTouch/Windows-MCP

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Oh My Posh 的安装与管理工具，集中浏览主题、安装字体和配置 Shell
   en: 'Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and configure shells'
+  cs: Instalace a správce pro Oh My Posh! Vše, co potřebujete k prohlížení motivů, instalaci fontů a konfiguraci shellů
+  de: Installation und Manager für Oh My Posh! Alles, was Sie zum Durchsuchen von Themes, Installieren von Fonts und Konfigurieren von Shells brauchen
+  es: ¡Instalador y gestor de Oh My Posh! Todo lo que necesitas para explorar temas, instalar fuentes y configurar shells
+  fr: Installation et gestionnaire pour Oh My Posh ! Tout ce qu'il faut pour parcourir les thèmes, installer des polices et configurer les shells
+  id: Installer dan manajer untuk Oh My Posh! Semua yang Anda perlukan untuk menjelajahi tema, memasang font, dan mengonfigurasi shell
+  it: Installer e gestore per Oh My Posh! Tutto ciò che serve per sfogliare i temi, installare i font e configurare le shell
+  ja: Oh My Posh のインストーラー兼マネージャー。テーマの閲覧、フォントのインストール、シェルの設定に必要なすべてがここにあります
+  ko: Oh My Posh 설치 도구 및 관리자! 테마 둘러보기, 글꼴 설치, 셸 구성을 위한 모든 것을 제공합니다
+  pl: Instalator i menedżer dla Oh My Posh! Wszystko, czego potrzebujesz do przeglądania motywów, instalowania czcionek i konfigurowania powłok
+  pt: Instalador e gerenciador do Oh My Posh! Tudo o que você precisa para navegar pelos temas, instalar fontes e configurar shells
+  ro: Instalator și manager pentru Oh My Posh! Tot ce ai nevoie pentru a parcurge temele, a instala fonturi și a configura shell-urile
+  ru: Установщик и менеджер для Oh My Posh! Всё, что нужно для просмотра тем, установки шрифтов и настройки оболочек
+  th: ตัวติดตั้งและตัวจัดการสำหรับ Oh My Posh! ทุกสิ่งที่คุณต้องการเพื่อเรียกดูธีม ติดตั้งฟอนต์ และกำหนดค่าเชลล์
+  tr: Oh My Posh için kurulum ve yönetim aracı! Temaları gezmek, yazı tiplerini yüklemek ve kabukları yapılandırmak için ihtiyacınız olan her şey
+  uk: Інсталятор і менеджер для Oh My Posh! Усе потрібне для перегляду тем, встановлення шрифтів і налаштування оболонок
+  vi: Trình cài đặt và quản lý cho Oh My Posh! Mọi thứ bạn cần để duyệt chủ đề, cài phông chữ và cấu hình shell
 x:
   source: https://github.com/marlocarlo/omp-manager
   eget: marlocarlo/omp-manager

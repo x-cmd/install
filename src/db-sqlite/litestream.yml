@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Litestream 是 SQLite 的独立灾难恢复工具
   en: Litestream is a standalone disaster recovery tool for SQLite
+  cs: Litestream je samostatný nástroj pro obnovu po katastrofách pro SQLite
+  de: Litestream ist ein eigenständiges Disaster-Recovery-Tool für SQLite
+  es: Litestream es una herramienta independiente de recuperación ante desastres para SQLite
+  fr: Litestream est un outil de reprise après sinistre autonome pour SQLite
+  id: Litestream adalah alat pemulihan bencana mandiri untuk SQLite
+  it: Litestream è uno strumento di ripristino dopo i disastri autonomo per SQLite
+  ja: Litestream は SQLite 向けの独立した災害復旧ツールです
+  ko: Litestream은 SQLite를 위한 독립적인 재해 복구 도구입니다
+  pl: Litestream to samodzielne narzędzie do odtwarzania po awariach dla SQLite
+  pt: Litestream é uma ferramenta independente de recuperação de desastres para o SQLite
+  ro: Litestream este un instrument independent de recuperare în caz de dezastre pentru SQLite
+  ru: Litestream — автономный инструмент аварийного восстановления для SQLite
+  th: Litestream เป็นเครื่องมือกู้คืนระบบภัยภาพสำหรับ SQLite แบบสแตนด์อโลน
+  tr: Litestream, SQLite için bağımsız bir felaket kurtarma aracıdır
+  uk: Litestream — автономний інструмент аварійного відновлення для SQLite
+  vi: Litestream là công cụ khôi phục thảm họa độc lập cho SQLite
 x:
   source: https://github.com/benbjohnson/litestream
   eget: benbjohnson/litestream

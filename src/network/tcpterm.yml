@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: tcpterm 是一个基于 TUI 的数据包可视化工具。
   en: tcpterm is a packet visualizer in TUI.
+  cs: tcpterm je vizualizátor paketů v TUI.
+  de: tcpterm ist ein Paketvisualisierer in TUI.
+  es: tcpterm es un visualizador de paquetes en TUI.
+  fr: tcpterm est un visualiseur de paquets en TUI.
+  id: tcpterm adalah visualizer paket dalam TUI.
+  it: tcpterm è un visualizzatore di pacchetti in TUI.
+  ja: tcptermはTUIのパケット可視化ツールです。
+  ko: tcpterm은 TUI 기반 패킷 시각화 도구입니다.
+  pl: tcpterm to wizualizator pakietów w TUI.
+  pt: tcpterm é um visualizador de pacotes em TUI.
+  ro: tcpterm este un vizualizator de pachete în TUI.
+  ru: tcpterm — визуализатор пакетов в TUI.
+  th: tcpterm คือเครื่องมือแสดงภาพแพ็กเก็ตใน TUI.
+  tr: tcpterm, TUI tabanlı bir paket görselleştiricisidir.
+  uk: tcpterm — візуалізатор пакетів у TUI.
+  vi: tcpterm là trình hiển thị gói tin trong TUI.
 x:
   source: https://github.com/sachaos/tcpterm
   yay: tcpterm

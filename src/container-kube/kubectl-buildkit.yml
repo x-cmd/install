@@ -3,6 +3,22 @@ homepage: https://github.com/vmware-archive/buildkit-cli-for-kubectl
 desc:
   cn: Kubectl 的 BuildKit CLI 是使用 Kubernetes 群集构建 OCI 和 Docker 图像的工具
   en: BuildKit CLI for kubectl is a tool for building OCI and Docker images with your kubernetes cluster
+  cs: BuildKit CLI pro kubectl je nástroj pro sestavování OCI a Docker obrazů pomocí vašeho clusteru Kubernetes
+  de: Die BuildKit CLI für kubectl ist ein Werkzeug zum Erstellen von OCI- und Docker-Images mit Ihrem Kubernetes-Cluster
+  es: BuildKit CLI para kubectl es una herramienta para crear imágenes OCI y Docker con tu clúster de Kubernetes
+  fr: BuildKit CLI pour kubectl est un outil pour construire des images OCI et Docker avec votre cluster Kubernetes
+  id: BuildKit CLI untuk kubectl adalah alat untuk membangun image OCI dan Docker dengan klaster Kubernetes Anda
+  it: BuildKit CLI per kubectl è uno strumento per costruire immagini OCI e Docker con il tuo cluster Kubernetes
+  ja: kubectl 用の BuildKit CLI は、Kubernetes クラスターで OCI イメージと Docker イメージを構築するためのツールです
+  ko: kubectl용 BuildKit CLI는 Kubernetes 클러스터로 OCI 및 Docker 이미지를 빌드하는 도구입니다
+  pl: BuildKit CLI dla kubectl to narzędzie do budowania obrazów OCI i Docker przy użyciu klastra Kubernetes
+  pt: O BuildKit CLI para kubectl é uma ferramenta para construir imagens OCI e Docker com o seu cluster Kubernetes
+  ro: BuildKit CLI pentru kubectl este un instrument pentru construirea imaginilor OCI și Docker cu clusterul tău Kubernetes
+  ru: BuildKit CLI для kubectl — это инструмент для сборки OCI- и Docker-образов с помощью вашего кластера Kubernetes
+  th: BuildKit CLI สำหรับ kubectl เป็นเครื่องมือสร้างอิมเมจ OCI และ Docker ด้วยคลัสเตอร์ Kubernetes ของคุณ
+  tr: kubectl için BuildKit CLI, Kubernetes kümenizle OCI ve Docker imajları oluşturmak için bir araçtır
+  uk: BuildKit CLI для kubectl — це інструмент для збору OCI- та Docker-образів за допомогою вашого кластеру Kubernetes
+  vi: BuildKit CLI cho kubectl là công cụ để build ảnh OCI và Docker với cụm Kubernetes của bạn
 x:
   source: https://github.com/vmware-archive/buildkit-cli-for-kubectl
   eget: vmware-archive/buildkit-cli-for-kubectl

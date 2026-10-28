@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubergrunt 是一个独立的 go 二进制文件，包含一系列命令来填补 Terraform、Helm 和 Kubectl 之间的空白
   en: Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl
+  cs: Kubergrunt je samostatný binární soubor Go s kolekcí příkazů, které vyplňují mezery mezi Terraform, Helm a Kubectl
+  de: Kubergrunt ist eine eigenständige Go-Binärdatei mit einer Sammlung von Befehlen, die die Lücken zwischen Terraform, Helm und Kubectl füllen
+  es: Kubergrunt es un binario Go independiente con una colección de comandos que cubren las brechas entre Terraform, Helm y Kubectl
+  fr: Kubergrunt est un binaire Go autonome qui fournit une collection de commandes comblant les écarts entre Terraform, Helm et Kubectl
+  id: Kubergrunt adalah biner Go mandiri dengan kumpulan perintah untuk menutup celah antara Terraform, Helm, dan Kubectl
+  it: Kubergrunt è un binario Go autonomo con una raccolta di comandi che colma le lacune tra Terraform, Helm e Kubectl
+  ja: Kubergrunt は Terraform、Helm、Kubectl の間の隙間を埋めるコマンド群を備えた独立した Go バイナリです
+  ko: Kubergrunt는 Terraform, Helm, Kubectl 사이의 간극을 채우는 명령 모음을 담은 독립형 Go 바이너리입니다
+  pl: Kubergrunt to samodzielny plik binarny Go z zestawem poleceń wypełniających luki między Terraform, Helm i Kubectl
+  pt: O Kubergrunt é um binário Go independente com um conjunto de comandos que preenche as lacunas entre Terraform, Helm e Kubectl
+  ro: Kubergrunt este un binar Go independent cu o colecție de comenzi care umple golurile dintre Terraform, Helm și Kubectl
+  ru: Kubergrunt — это самостоятельный бинарный файл Go с набором команд, закрывающих пробелы между Terraform, Helm и Kubectl
+  th: Kubergrunt เป็นไบนารี Go แบบสแตนด์โดนที่มีชุดคำสั่งเพื่อเติมช่องว่างระหว่าง Terraform, Helm และ Kubectl
+  tr: Kubergrunt, Terraform, Helm ve Kubectl arasındaki boşlukları dolduran bir dizi komut içeren bağımsız bir Go ikili dosyasıdır
+  uk: Kubergrunt — це самостійний двійковий файл Go з набором команд, які закривають прогалини між Terraform, Helm і Kubectl
+  vi: Kubergrunt là tệp nhị phân Go độc lập với một bộ lệnh lấp đầy khoảng trống giữa Terraform, Helm và Kubectl
 x:
   source: https://github.com/gruntwork-io/kubergrunt
   eget: gruntwork-io/kubergrunt

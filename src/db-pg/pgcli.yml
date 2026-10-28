@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: postgres 的 CLI，具有自动补全和语法突出显示功能
   en: CLI for postgres with autocompletion and syntax highlighting
+  cs: CLI pro postgres s automatickým dokončováním a zvýrazňováním syntaxe
+  de: CLI für postgres mit Autovervollständigung und Syntaxhervorhebung
+  es: CLI para postgres con autocompletado y resaltado de sintaxis
+  fr: CLI pour postgres avec complétion automatique et coloration syntaxique
+  id: CLI untuk postgres dengan penyelesaian otomatis dan penyorotan sintaks
+  it: CLI per postgres con completamento automatico ed evidenziazione della sintassi
+  ja: postgres 用の CLI、自動補完と構文ハイライトに対応
+  ko: 자동 완성과 구문 강조 표시를 지원하는 postgres용 CLI
+  pl: CLI dla postgres z autouzupełnianiem i podświetlaniem składni
+  pt: CLI para postgres com preenchimento automático e realce de sintaxe
+  ro: CLI pentru postgres cu completare automată și evidențierea sintaxei
+  ru: CLI для postgres с автодополнением и подсветкой синтаксиса
+  th: CLI สำหรับ postgres พร้อมการเติมข้อความอัตโนมัติและการไฮไลต์ไวยากรณ์
+  tr: Otomatik tamamlama ve sözdizimi vurgulama özellikleriyle postgres için CLI
+  uk: CLI для postgres з автозавершенням та підсвічуванням синтаксису
+  vi: CLI cho postgres với tính năng tự động hoàn thành và tô sáng cú pháp
 x:
   source: https://github.com/dbcli/pgcli
   apt: pgcli

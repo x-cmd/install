@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 受 Vim 启发、注重隐私的多后端 TUI 笔记应用
   en: 'Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused'
+  cs: TUI aplikace pro zápisky inspirovaná Vimem, s více backendy úložiště — zaměřená na soukromí
+  de: Eine von Vim inspirierte TUI-Notiz-App mit Multi-Backend-Speicherung — auf Privatsphäre ausgerichtet
+  es: Una aplicación TUI de toma de notas inspirada en Vim, con almacenamiento multibackend y centrada en la privacidad
+  fr: Une application TUI de prise de notes inspirée de Vim, avec stockage multi-backend — axée sur la confidentialité
+  id: Aplikasi catatan TUI terinspirasi Vim dengan penyimpanan multi-backend — berfokus pada privasi
+  it: Un'app TUI per prendere appunti ispirata a Vim, con archiviazione multi-backend — orientata alla privacy
+  ja: Vim にインスパイアされたマルチバックエンドストレージの TUI ノートアプリ — プライバシー重視
+  ko: Vim에서 영감을 받은 멀티 백엔드 스토리지 TUI 노트 앱 — 개인정보 보호에 중점
+  pl: Aplikacja TUI do notatek inspirowana Vimem, z obsługą wielu backendów pamięci — nastawiona na prywatność
+  pt: Um aplicativo TUI de anotações inspirado no Vim, com armazenamento mult backend — focado em privacidade
+  ro: O aplicație TUI de notițe inspirată de Vim, cu stocare pe mai multe backend-uri — orientată spre confidențialitate
+  ru: TUI-приложение для заметок, вдохновлённое Vim, с хранением на нескольких бэкендах — с акцентом на приватность
+  th: แอปพลิเคชันจดบันทึก TUI ที่ได้แรงบันดาลใจจาก Vim พร้อมที่เก็บข้อมูลแบบหลายแบ็กเอนด์ — เน้นความเป็นส่วนตัว
+  tr: Vim'den esinlenen, çoklu arka uç depolamaya sahip TUI not alma uygulaması — gizliliğe odaklı
+  uk: TUI-застосунок для нотаток, натхненний Vim, зі зберіганням на кількох бекендах — з акцентом на приватність
+  vi: Ứng dụng ghi chú TUI lấy cảm hứng từ Vim, với lưu trữ đa phương diện — tập trung vào quyền riêng tư
 x:
   source: https://github.com/gluesql/glues
   eget: gluesql/glues

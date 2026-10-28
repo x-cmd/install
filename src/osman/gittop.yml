@@ -4,6 +4,22 @@ license: 'BSD-3-Clause'
 desc:
   cn: 受 htop/btop 启发的 Git 仓库统计可视化终端 UI
   en: 'A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.'
+  cs: Krásné terminálové UI pro vizualizaci statistik Git repozitářů, inspirované htop/btop.
+  de: Eine schöne Terminal-Oberfläche zur Visualisierung von Git-Repository-Statistiken, inspiriert von htop/btop.
+  es: Una interfaz de terminal bonita para visualizar estadísticas de repositorios Git, inspirada en htop/btop.
+  fr: Une belle interface terminal pour visualiser les statistiques des dépôts Git, inspirée de htop/btop.
+  id: UI terminal yang indah untuk memvisualisasikan statistik repositori Git, terinspirasi dari htop/btop.
+  it: Una bellissima interfaccia terminale per visualizzare le statistiche dei repository Git, ispirata a htop/btop.
+  ja: htop/btopから着想を得た、Gitリポジトリの統計情報を見せる美しいターミナルUI
+  ko: htop/btop에서 영감을 받은, Git 저장소 통계를 시각화하는 아름다운 터미널 UI
+  pl: Ładny terminalowy interfejs do wizualizacji statystyk repozytoriów Git, inspirowany przez htop/btop.
+  pt: Uma interface de terminal bonita para visualizar estatísticas de repositórios Git, inspirada no htop/btop.
+  ro: O interfață terminală frumoasă pentru vizualizarea statisticilor depozitelor Git, inspirată de htop/btop.
+  ru: Красивый терминальный интерфейс для визуализации статистики Git-репозиториев, вдохновлённый htop/btop.
+  th: UI เทอร์มินัลสวยงามสำหรับแสดงสถิติของที่เก็บ Git ได้รับแรงบันดาลใจจาก htop/btop
+  tr: Git depo istatistiklerini görselleştiren, htop/btop'tan esinlenen güzel bir terminal arayüzü.
+  uk: Красивий термінальний інтерфейс для візуалізації статистики Git-репозиторіїв, натхненний htop/btop.
+  vi: Giao diện terminal xinh đẹp để trực quan hóa thống kê kho Git, lấy cảm hứng từ htop/btop.
 x:
   source: https://github.com/hjr265/gittop
   eget: hjr265/gittop

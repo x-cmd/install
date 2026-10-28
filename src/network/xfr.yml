@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: iperf3 的现代替代品，带实时 TUI、多客户端服务端与 QUIC 支持，Rust 编写
   en: 'A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.'
+  cs: Moderní alternativa iperf3 s živým TUI, víceklientovým serverem a podporou QUIC, napsaná v Rust
+  de: Eine moderne iperf3-Alternative mit Live-TUI, Multi-Client-Server und QUIC-Unterstützung, in Rust geschrieben
+  es: Una alternativa moderna a iperf3 con TUI en vivo, servidor multicliente y soporte QUIC, escrita en Rust
+  fr: Une alternative moderne à iperf3 avec TUI en direct, serveur multi-client et prise en charge de QUIC, écrite en Rust
+  id: Alternatif modern untuk iperf3 dengan TUI langsung, server multi-klien, dan dukungan QUIC, ditulis dengan Rust
+  it: Un'alternativa moderna a iperf3 con TUI live, server multi-client e supporto QUIC, scritta in Rust
+  ja: ライブ TUI、マルチクライアントサーバー、QUIC サポートを備えた近代的な iperf3 の代替ツール、Rust で書かれました
+  ko: 실시간 TUI, 멀티 클라이언트 서버, QUIC 지원을 갖춘 현대적인 iperf3 대안으로 Rust로 작성되었습니다
+  pl: Nowoczesna alternatywa dla iperf3 z TUI na żywo, serwerem wieloklientowym i obsługą QUIC, napisana w Rust
+  pt: Uma alternativa moderna ao iperf3 com TUI ao vivo, servidor multicliente e suporte a QUIC, escrita em Rust
+  ro: O alternativă modernă la iperf3 cu TUI live, server pentru mai mulți clienți și suport QUIC, scrisă în Rust
+  ru: Современная альтернатива iperf3 с live TUI, многоклиентским сервером и поддержкой QUIC, написанная на Rust
+  th: ทางเลือกสมัยใหม่ของ iperf3 พร้อม TUI แบบเรียลไทม์ เซิร์ฟเวอร์แบบหลายไคลเอนต์ และการรองรับ QUIC เขียนด้วย Rust
+  tr: Canlı TUI, çok istemcili sunucu ve QUIC desteğiyle modern bir iperf3 alternatifi, Rust ile yazıldı
+  uk: Сучасна альтернатива iperf3 з живим TUI, багатоклієнтським сервером і підтримкою QUIC, написана на Rust
+  vi: Một giải pháp thay thế hiện đại cho iperf3 với TUI trực tiếp, máy chủ đa client và hỗ trợ QUIC, viết bằng Rust
 x:
   source: https://github.com/lance0/xfr
   eget: lance0/xfr

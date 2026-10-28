@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个为 Claude Code 提供多模型支持的路由器，可将请求分配到不同的模型后端，实现灵活切换、自动路由与多模型协作
   en: A router that enables Claude Code to work with multiple model backends, supporting flexible switching, automatic routing, and seamless multi-model collaboration.
+  cs: Router, který umožňuje Claude Code pracovat s více backendy modelů, a podporuje flexibilní přepínání, automatické směrování a bezproblémovou spolupráci více modelů.
+  de: Ein Router, der Claude Code die Arbeit mit mehreren Modell-Backends ermöglicht und flexible Umschaltung, automatisches Routing und reibungslose Multi-Modell-Zusammenarbeit unterstützt.
+  es: Un router que permite que Claude Code funcione con varios backends de modelos, compatible con conmutación flexible, enrutamiento automático y colaboración fluida entre varios modelos.
+  fr: Un routeur qui permet à Claude Code de fonctionner avec plusieurs backends de modèles, en prenant en charge la bascule flexible, le routage automatique et la collaboration fluide entre plusieurs modèles.
+  id: Router yang memungkinkan Claude Code bekerja dengan beberapa backend model, mendukung pergantian fleksibel, perutean otomatis, dan kolaborasi multi-model yang mulus.
+  it: Un router che consente a Claude Code di lavorare con più backend di modelli, supportando il passaggio flessibile, il routing automatico e la collaborazione fluida tra più modelli.
+  ja: Claude Code を複数のモデルバックエンドで動作させるためのルーターで、柔軟な切り替え、自動ルーティング、スムーズなマルチモデル連携に対応しています。
+  ko: Claude Code가 여러 모델 백엔드와 함께 작동하도록 하는 라우터로, 유연한 전환, 자동 라우팅, 원활한 멀티 모델 협업을 지원합니다.
+  pl: Router umożliwiający Claude Code współpracę z wieloma backendami modeli, z obsługą elastycznego przełączania, automatycznego routingu i płynnej współpracy wielu modeli.
+  pt: Um roteador que permite que o Claude Code funcione com vários backends de modelo, com suporte a troca flexível, roteamento automático e colaboração integrada entre vários modelos.
+  ro: Un router care permite ca Claude Code să funcționeze cu mai multe backenduri de model, cu suport pentru comutare flexibilă, rutare automată și colaborare fluidă între mai multe modele.
+  ru: Маршрутизатор, позволяющий Claude Code работать с несколькими бэкендами моделей, с поддержкой гибкого переключения, автоматической маршрутизации и бесшовного взаимодействия нескольких моделей.
+  th: ตัวกำหนดเส้นทางที่ทำให้ Claude Code ทำงานร่วมกับแบ็กเอนด์โมเดลได้หลายแบบ พร้อมรองรับการสลับอย่างยืดหยุ่น การกำหนดเส้นทางอัตโนมัติ และการทำงานร่วมกันหลายโมเดลอย่างราบรื่น
+  tr: Claude Code'un birden fazla model arka ucu ile çalışmasını sağlayan, esnek geçiş, otomatik yönlendirme ve sorunsuz çoklu model iş birliğini destekleyen bir yönlendirici.
+  uk: Маршрутизатор, що дозволяє Claude Code працювати з кількома бекендами моделей, з підтримкою гнучкого перемикання, автоматичної маршрутизації та безшовної спільної роботи кількох моделей.
+  vi: Bộ định tuyến cho phép Claude Code hoạt động với nhiều backend mô hình, hỗ trợ chuyển đổi linh hoạt, định tuyến tự động và cộng tác đa mô hình liền mạch.
 x:
   source: https://github.com/musistudio/claude-code-router
   yay: claude-code-router

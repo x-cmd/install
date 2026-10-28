@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: PRoot 的 Rust 实现，是基于 ptrace 的沙盒
   en: Rust implementation of PRoot, a ptrace-based sandbox
+  cs: Implementace PRoot v jazyce Rust, sandbox založený na ptrace
+  de: Rust-Implementierung von PRoot, einer ptrace-basierten Sandbox
+  es: Implementación de PRoot en Rust, un entorno aislado basado en ptrace
+  fr: Implémentation de PRoot en Rust, un bac à sable basé sur ptrace
+  id: Implementasi PRoot dalam Rust, sandbox berbasis ptrace
+  it: Implementazione di PRoot in Rust, una sandbox basata su ptrace
+  ja: PRoot の Rust 実装で、ptrace ベースのサンドボックスです。
+  ko: PRoot의 Rust 구현으로, ptrace 기반 샌드박스입니다.
+  pl: Implementacja PRoot w Rust, piaskownica oparta na ptrace
+  pt: Implementação do PRoot em Rust, um sandbox baseado em ptrace
+  ro: Implementarea PRoot în Rust, o mașină virtuală izolată bazată pe ptrace
+  ru: Реализация PRoot на Rust, песочница на базе ptrace
+  th: การแยกส่วนเว็บแบบแยกขั้วของ PRoot ในภาษา Rust ซึ่งเป็น sandbox ที่ใช้ ptrace
+  tr: PRoot'un Rust uygulaması, ptrace tabanlı bir sandbox
+  uk: Реалізація PRoot мовою Rust, пісочниця на основі ptrace
+  vi: Bản triển khai PRoot bằng Rust, một sandbox dựa trên ptrace
 x:
   source: https://github.com/proot-me/proot-rs
   apt: proot

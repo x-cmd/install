@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: CPU-X 是一个系统分析和监控应用程序(类似于 Windows 中的 CPU-Z) ，但是 CPU-X 是一个为 GNU/Linux 和 FreeBSD 设计的免费开源软件
   en: CPU-X is a system profiling and monitoring application (similar to CPU-Z for Windows), but CPU-X is a Free and Open Source software designed for GNU/Linux and FreeBSD
+  cs: CPU-X je aplikace pro analýzu a monitorování systému (podobná CPU-Z pro Windows), ale CPU-X je bezplatný open source software navržený pro GNU/Linux a FreeBSD
+  de: CPU-X ist eine Anwendung zur Systemanalyse und -überwachung (ähnlich CPU-Z für Windows), wobei CPU-X freie und quelloffene Software für GNU/Linux und FreeBSD ist
+  es: CPU-X es una aplicación de análisis y monitorización del sistema (similar a CPU-Z para Windows), pero CPU-X es software libre y de código abierto diseñado para GNU/Linux y FreeBSD
+  fr: CPU-X est une application d'analyse et de surveillance du système (similaire à CPU-Z pour Windows), mais CPU-X est un logiciel libre et open source conçu pour GNU/Linux et FreeBSD
+  id: CPU-X adalah aplikasi analisis dan pemantauan sistem (mirip CPU-Z untuk Windows), tetapi CPU-X adalah perangkat lunak bebas dan sumber terbuka yang dirancang untuk GNU/Linux dan FreeBSD
+  it: CPU-X è un'applicazione di profilazione e monitoraggio del sistema (simile a CPU-Z per Windows), ma CPU-X è software libero e open source progettato per GNU/Linux e FreeBSD
+  ja: CPU-X はシステム解析と監視のアプリケーション（Windows 用 CPU-Z に似ています）で、GNU/Linux と FreeBSD 向けの無料オープンソースソフトウェアです
+  ko: CPU-X는 시스템 분석 및 모니터링 애플리케이션(Windows용 CPU-Z와 유사)이며, GNU/Linux와 FreeBSD를 위한 무료 오픈 소스 소프트웨어입니다
+  pl: CPU-X to aplikacja do analizy i monitorowania systemu (podobna do CPU-Z dla Windows), ale CPU-X to bezpłatne oprogramowanie o otwartym kodzie źródłowym stworzone dla GNU/Linux i FreeBSD
+  pt: CPU-X é um aplicativo de análise e monitoramento do sistema (semelhante ao CPU-Z para Windows), mas o CPU-X é um software livre e de código aberto projetado para GNU/Linux e FreeBSD
+  ro: CPU-X este o aplicație de profilare și monitorizare a sistemului (similară cu CPU-Z pentru Windows), însă CPU-X este un software liber și open source proiectat pentru GNU/Linux și FreeBSD
+  ru: CPU-X — приложение для анализа и мониторинга системы (аналог CPU-Z для Windows), причём CPU-X — свободное программное обеспечение с открытым исходным кодом, разработанное для GNU/Linux и FreeBSD
+  th: CPU-X คือแอปพลิเคชันสำหรับวิเคราะห์และตรวจสอบระบบ (คล้าย CPU-Z สำหรับ Windows) แต่ CPU-X เป็นซอฟต์แวร์ฟรีและโอเพนซอร์สที่ออกแบบมาสำหรับ GNU/Linux และ FreeBSD
+  tr: CPU-X, sistem profilleme ve izleme uygulamasıdır (Windows için CPU-Z'ye benzer), ancak CPU-X GNU/Linux ve FreeBSD için tasarlanmış ücretsiz ve açık kaynaklı bir yazılımdır
+  uk: CPU-X — застосунок для аналізу та моніторингу системи (аналог CPU-Z для Windows), причому CPU-X — вільне програмне забезпечення з відкритим кодом, розроблене для GNU/Linux та FreeBSD
+  vi: CPU-X là ứng dụng phân tích và giám sát hệ thống (tương tự CPU-Z cho Windows), nhưng CPU-X là phần mềm miễn phí và mã nguồn mở được thiết kế cho GNU/Linux và FreeBSD
 x:
   source: https://github.com/thetumultuousunicornofdarkness/CPU-X
   eget: thetumultuousunicornofdarkness/CPU-X

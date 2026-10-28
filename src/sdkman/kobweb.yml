@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kobweb 是一个基于 Kotlin 的框架，用于创建网站和 Web 应用程序
   en: Kobweb is a Kotlin-based framework for creating websites and web applications
+  cs: Kobweb je framework založený na Kotlinu pro tvorbu webových stránek a webových aplikací
+  de: Kobweb ist ein auf Kotlin basierendes Framework zum Erstellen von Websites und Webanwendungen
+  es: Kobweb es un framework basado en Kotlin para crear sitios web y aplicaciones web
+  fr: Kobweb est un framework based on Kotlin pour créer des sites web et des applications web
+  id: Kobweb adalah framework berbasis Kotlin untuk membuat situs web dan aplikasi web
+  it: Kobweb è un framework basato su Kotlin per creare siti web e applicazioni web
+  ja: Kobweb は、Web サイトや Web アプリケーションを作成するための Kotlin ベースのフレームワークです
+  ko: Kobweb는 웹사이트와 웹 애플리케이션을 만들기 위한 Kotlin 기반 프레임워크입니다
+  pl: Kobweb to framework oparty na Kotlinie do tworzenia stron internetowych i aplikacji webowych
+  pt: Kobweb é um framework baseado em Kotlin para criar sites e aplicações web
+  ro: Kobweb este un framework bazat pe Kotlin pentru crearea de site-uri și aplicații web
+  ru: Kobweb — это фреймворк на базе Kotlin для создания веб-сайтов и веб-приложений
+  th: Kobweb เป็นเฟรมเวิร์กบนพื้นฐาน Kotlin สำหรับการสร้างเว็บไซต์และเว็บแอปพลิเคชัน
+  tr: Kobweb, web siteleri ve web uygulamaları oluşturmak için Kotlin tabanlı bir çerçevedir
+  uk: Kobweb — це фреймворк на базі Kotlin для створення веб-сайтів і веб-застосунків
+  vi: Kobweb là framework dựa trên Kotlin để tạo trang web và ứng dụng web
 x:
   source: https://github.com/varabyte/kobweb
   brew: varabyte/tap/kobweb

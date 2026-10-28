@@ -4,6 +4,22 @@ lang: Rust
 desc:
   cn: HTTP 负载生成器
   en: HTTP load generator
+  cs: Generátor zátěže HTTP
+  de: HTTP-Lastgenerator
+  es: Generador de carga HTTP
+  fr: Générateur de charge HTTP
+  id: Generator beban HTTP
+  it: Generatore di carico HTTP
+  ja: HTTP 負荷生成ツール
+  ko: HTTP 부하 생성기
+  pl: Generator obciążenia HTTP
+  pt: Gerador de carga HTTP
+  ro: Generator de încărcare HTTP
+  ru: Генератор нагрузки HTTP
+  th: ตัวสร้างโหลด HTTP
+  tr: HTTP yük oluşturucu
+  uk: Генератор навантаження HTTP
+  vi: Trình tạo tải HTTP
 x:
   source: https://github.com/hatoo/oha
   eget: hatoo/oha

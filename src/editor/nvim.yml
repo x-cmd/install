@@ -3,6 +3,22 @@ homepage: https://github.com/neovim/neovim
 desc:
   cn: Neovim 是 Vim 传统上的一次重构，有时也是一次重写（redactor），它并不是一次完全的重写，而是对 Vim 的延续和扩展。
   en: Neovim is a refactor, and sometimes redactor, in the tradition of Vim (which itself derives from Stevie). It is not a rewrite but a continuation and extension of Vim.
+  cs: Neovim je refaktorizací, někdy i přepsáním v tradici Vim (který sám pochází ze Stevie). Není to přepsaní, ale pokračování a rozšíření Vim.
+  de: Neovim ist eine Refaktorisierung und manchmal ein Rewrite in der Tradition von Vim (das selbst von Stevie stammt). Es ist kein Rewrite, sondern eine Fortführung und Erweiterung von Vim.
+  es: Neovim es una refactorización, y a veces una reescritura, en la tradición de Vim (que a su vez deriva de Stevie). No es una reescritura, sino una continuación y extensión de Vim.
+  fr: Neovim est une refactorisation, et parfois une réécriture, dans la tradition de Vim (qui dérive lui-même de Stevie). Ce n'est pas une réécriture, mais une continuation et une extension de Vim.
+  id: Neovim merupakan refactorisasi, dan kadang penulisan ulang, dalam tradisi Vim (yang sendiri berasal dari Stevie). Ini bukan penulisan ulang, melainkan kelanjutan dan perluasan dari Vim.
+  it: Neovim è un refactoring, e a volte una riscrittura, nella tradizione di Vim (che a sua volta deriva da Stevie). Non è una riscrittura, ma una continuazione ed estensione di Vim.
+  ja: Neovim は Vim の伝統（Vim 自体が Stevie に由来）に基づくリファクタリングであり、しばしば書き換えでもあります。完全な書き換えではなく、Vim の継続と拡張です。
+  ko: Neovim은 Vim의 전통(그 자체로 Stevie에서 유래)을 따르는 리팩터링이며, 때로는 재작성이기도 합니다. 완전한 재작성이 아니라 Vim의 계승과 확장입니다.
+  pl: Neovim to refaktoryzacja, a czasem przepisanie w tradycji Vim (który sam wywodzi się ze Stevie). To nie jest przepisanie, lecz kontynuacja i rozszerzenie Vim.
+  pt: Neovim é uma refatoração, e às vezes uma reescrita, na tradição do Vim (que por sua vez deriva do Stevie). Não é uma reescrita, mas uma continuação e extensão do Vim.
+  ro: Neovim este o refactorizare și, uneori, o rescriere, în tradiția lui Vim (care la rândul său derivă din Stevie). Nu este o rescriere, ci o continuare și o extindere a lui Vim.
+  ru: Neovim — это рефакторинг, а иногда и переписывание в традиции Vim (который сам происходит от Stevie). Это не переписывание, а продолжение и расширение Vim.
+  th: Neovim เป็นการรีแฟกเตอร์ และบางครั้งเป็นการเขียนใหม่ ตามธรรมเนียมของ Vim (ซึ่งตัวมันเองสืบทอดมาจาก Stevie) ไม่ใช่การเขียนใหม่ทั้งหมด แต่เป็นการสานต่อและขยาย Vim
+  tr: Neovim, Vim geleneğinde (Vim'in kendisi Stevie'den türemiştir) bir yeniden düzenleme ve bazen bir yeniden yazımdır. Tam bir yeniden yazım değil, Vim'in devamı ve genişletilmesidir.
+  uk: Neovim — це рефакторинг, а іноді й переписування в традиції Vim (який сам походить від Stevie). Це не переписування, а продовження та розширення Vim.
+  vi: Neovim là một đợt tái cấu trúc, đôi khi là viết lại, theo truyền thống của Vim (bản thân Vim bắt nguồn từ Stevie). Nó không phải là viết lại hoàn toàn mà là sự tiếp nối và mở rộng của Vim.
 x:
   source: https://github.com/neovim/neovim
   eget: neovim/neovim

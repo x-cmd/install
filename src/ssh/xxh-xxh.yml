@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: xxh 允许您通过 ssh 在没有 root 访问权限或系统安装的情况下，将喜爱的 Shell 带到您所在的任何地方。支持 Xonsh Shell、Fish、Zsh、Osquery 等等
   en: The mission of xxh is to bring your favorite shell wherever you go through ssh without root access or system installations. Xonsh shell, fish, zsh, osquery and so on
+  cs: Posláním xxh je přinést si svůj oblíbený shell kamkoli přes ssh bez přístupu root nebo systémové instalace. Xonsh shell, fish, zsh, osquery a další
+  de: Das Ziel von xxh ist es, Ihren bevorzugten Shell überall über ssh mitzunehmen, ohne Root-Zugriff oder Systeminstallationen. Xonsh-Shell, fish, zsh, osquery und so weiter
+  es: La misión de xxh es llevar tu shell favorito a dondequiera que vayas a través de ssh, sin acceso root ni instalaciones del sistema. Xonsh shell, fish, zsh, osquery y así sucesivamente
+  fr: La mission de xxh est de vous permettre d'emporter votre shell préféré partout où vous allez via ssh, sans accès root ni installation système. Xonsh shell, fish, zsh, osquery et ainsi de suite
+  id: Misi xxh adalah membawa shell favorit Anda ke mana saja melalui ssh tanpa akses root atau instalasi sistem. Xonsh shell, fish, zsh, osquery, dan sebagainya
+  it: La missione di xxh è portare la tua shell preferita ovunque tu vada tramite ssh, senza accesso root o installazioni di sistema. Xonsh shell, fish, zsh, osquery e così via
+  ja: xxh の使命は、root 権限やシステムインストールなしに ssh 経由でお好きなシェルをどこにでも持ち歩けるようにすることです。Xonsh shell、fish、zsh、osquery など
+  ko: xxh의 임무는 root 권한이나 시스템 설치 없이 ssh를 통해 어디서든 좋아하는 셸을 가져가는 것입니다. Xonsh shell, fish, zsh, osquery 등
+  pl: Misją xxh jest umożliwienie zabrania ulubionej powłoki wszędzie przez ssh, bez dostępu root i bez instalacji systemowych. Xonsh shell, fish, zsh, osquery i tak dalej
+  pt: A missão do xxh é levar o seu shell favorito a qualquer lugar via ssh, sem acesso root ou instalações de sistema. Xonsh shell, fish, zsh, osquery e assim por diante
+  ro: Misiunea xxh este de a vă aduce shell-ul preferat oriunde mergeți prin ssh, fără acces root sau instalări de sistem. Xonsh shell, fish, zsh, osquery și așa mai departe
+  ru: Миссия xxh — перенести любимый shell куда угодно через ssh, без root-доступа и системных установок. Xonsh shell, fish, zsh, osquery и так далее
+  th: ภารกิจของ xxh คือการพาความรักเชลล์ของคุณไปกับคุณทุกที่ผ่าน ssh โดยไม่ต้องมีสิทธิ์ root หรือการติดตั้งระบบ Xonsh shell, fish, zsh, osquery และอื่น ๆ
+  tr: xxh'in görevi, kök erişimi veya sistem kurulumu olmadan ssh üzerinden sevdiğiniz kabuğu nereye giderseniz gidin yanında taşımaktır. Xonsh shell, fish, zsh, osquery ve benzeri
+  uk: Місія xxh — перенести улюблену оболонку куди завгодно через ssh, без доступу root і системних встановлень. Xonsh shell, fish, zsh, osquery та інші
+  vi: Sứ mệnh của xxh là mang theo shell yêu thích của bạn đi bất cứ đâu qua ssh mà không cần quyền root hay cài đặt hệ thống. Xonsh shell, fish, zsh, osquery và những thứ tương tự
 x:
   source: https://github.com/xxh/xxh
   brew: xxh

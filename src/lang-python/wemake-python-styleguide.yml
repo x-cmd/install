@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: wemake-python-styleguide 实际上是一个 flake8 插件，其中包含一些其他插件作为依赖项
   en: wemake-python-styleguide is actually a flake8 plugin with some other plugins as dependencies
+  cs: wemake-python-styleguide je ve skutečnosti plugin pro flake8, který má jako závislosti několik dalších pluginů
+  de: wemake-python-styleguide ist eigentlich ein flake8-Plugin, das einige andere Plugins als Abhängigkeiten hat
+  es: wemake-python-styleguide es en realidad un plugin de flake8 con algunos otros plugins como dependencias
+  fr: wemake-python-styleguide est en fait un plugin flake8 dont dépendent d'autres plugins
+  id: wemake-python-styleguide sebenarnya adalah plugin flake8 dengan beberapa plugin lain sebagai dependensi
+  it: wemake-python-styleguide è in realtà un plugin per flake8 che ha altri plugin come dipendenze
+  ja: wemake-python-styleguide は実際には flake8 のプラグインで、他のいくつかのプラグインを依存関係として持ちます
+  ko: wemake-python-styleguide는 실제로 다른 여러 플러그인을 의존성으로 사용하는 flake8 플러그인입니다
+  pl: wemake-python-styleguide jest w rzeczywistości wtyczką flake8, która ma jako zależności kilka innych wtyczek
+  pt: wemake-python-styleguide é na verdade um plugin do flake8 com alguns outros plugins como dependências
+  ro: wemake-python-styleguide este de fapt un plugin flake8, cu alte pluginuri ca dependențe
+  ru: wemake-python-styleguide — на самом деле плагин для flake8, зависящий от нескольких других плагинов
+  th: wemake-python-styleguide เป็นจริงแล้วคือปลั๊กอินของ flake8 ที่มีปลั๊กอินอื่นเป็นการพึ่งพา
+  tr: wemake-python-styleguide aslında başka bazı eklentileri bağımlılık olarak içeren bir flake8 eklentisidir
+  uk: wemake-python-styleguide — це насправді плагін для flake8, що має як залежності кілька інших плагінів
+  vi: wemake-python-styleguide thực ra là một plugin flake8 với một số plugin khác làm phụ thuộc
 x:
   source: https://github.com/wemake-services/wemake-python-styleguide
   pip: wemake-python-styleguide

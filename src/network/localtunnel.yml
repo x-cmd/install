@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Localtunnel 允许您轻松地在本地开发机器上共享 Web 服务，而无需改变 DNS 和防火墙设置
   en: Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings
+  cs: Localtunnel vám umožní snadno sdílet webovou službu na místním vývojovém stroji bez zásahů do nastavení DNS a firewallu
+  de: Localtunnel ermöglicht es Ihnen, einen Webdienst auf Ihrem lokalen Entwicklungsrechner einfach zu teilen, ohne DNS- und Firewall-Einstellungen anzufassen
+  es: Localtunnel te permite compartir fácilmente un servicio web en tu máquina de desarrollo local sin tocar la configuración de DNS y del firewall
+  fr: Localtunnel vous permet de partager facilement un service web sur votre machine de développement locale sans modifier les paramètres DNS et pare-feu
+  id: Localtunnel memungkinkan Anda dengan mudah membagikan layanan web di mesin pengembangan lokal tanpa mengubah pengaturan DNS dan firewall
+  it: Localtunnel ti permette di condividere facilmente un servizio web sulla tua macchina di sviluppo locale senza toccare le impostazioni DNS e del firewall
+  ja: Localtunnel を使うと、DNS やファイアウォールの設定を変更することなく、ローカルの開発マシン上の Web サービスを簡単に共有できます
+  ko: Localtunnel을 사용하면 DNS와 방화벽 설정을 건드리지 않고 로컬 개발 컴퓨터의 웹 서비스를 쉽게 공유할 수 있습니다
+  pl: Localtunnel umożliwia łatwe udostępnianie usługi internetowej na lokalnej maszynie deweloperskiej bez ingerencji w ustawienia DNS i zapory sieciowej
+  pt: O Localtunnel permite que você compartilhe facilmente um serviço web em sua máquina de desenvolvimento local sem mexer nas configurações de DNS e firewall
+  ro: Localtunnel vă permite să partajați cu ușurință un serviciu web pe mașina locală de dezvoltare, fără a modifica setările DNS și firewall
+  ru: Localtunnel позволяет легко поделиться веб-сервисом на локальной машине разработчика, не меняя настройки DNS и брандмауэра
+  th: Localtunnel ช่วยให้คุณแชร์เว็บเซิร์วิสบนเครื่องพัฒนาในเครื่องได้อย่างง่ายดายโดยไม่ต้องแตะการตั้งค่า DNS และไฟร์วอลล์
+  tr: Localtunnel, DNS ve güvenlik duvarı ayarlarına dokunmadan yerel geliştirme makinenizde bir web servisini kolayca paylaşmanızı sağlar.
+  uk: Localtunnel дозволяє легко поділитися вебсервісом на локальній машині розробки, не змінюючи налаштування DNS та брандмауера
+  vi: Localtunnel cho phép bạn dễ dàng chia sẻ dịch vụ web trên máy phát triển cục bộ mà không cần chỉnh sửa cấu hình DNS và tường lửa
 x:
   source: https://github.com/localtunnel/localtunnel
   brew: localtunnel

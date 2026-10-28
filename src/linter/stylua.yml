@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Lua 5.1、5.2、5.3、5.4、LuaJIT 和 Luau 的确定性代码格式化程序，使用 full-moon 构建
   en: An opinionated code formatter for Lua 5.1, 5.2, 5.3, 5.4 and Luau, built using full-moon
+  cs: Formátovač kódu s vlastním názorem pro Lua 5.1, 5.2, 5.3, 5.4 a Luau, postavený pomocí full-moon
+  de: Ein opinionierter Codeformatter für Lua 5.1, 5.2, 5.3, 5.4 und Luau, erstellt mit full-moon
+  es: Un formateador de código con opiniones firmes para Lua 5.1, 5.2, 5.3, 5.4 y Luau, construido con full-moon
+  fr: Un formateur de code aux avis tranchés pour Lua 5.1, 5.2, 5.3, 5.4 et Luau, construit avec full-moon
+  id: Pemformat kode beropini kuat untuk Lua 5.1, 5.2, 5.3, 5.4 dan Luau, dibangun dengan full-moon
+  it: Un formattatore di codice dalle opinioni decise per Lua 5.1, 5.2, 5.3, 5.4 e Luau, costruito con full-moon
+  ja: Lua 5.1、5.2、5.3、5.4 と Luau 向けの opinionated コードフォーマッタ、full-moon で構築
+  ko: Lua 5.1, 5.2, 5.3, 5.4 및 Luau를 위한 자체 스타일의 코드 포매터로 full-moon으로 제작되었습니다
+  pl: Formatter kodu o wyraźnych poglądach dla Lua 5.1, 5.2, 5.3, 5.4 i Luau, zbudowany przy użyciu full-moon
+  pt: Um formatador de código com opiniões fortes para Lua 5.1, 5.2, 5.3, 5.4 e Luau, construído com full-moon
+  ro: Un formatator de cod cu opinii bine conturate pentru Lua 5.1, 5.2, 5.3, 5.4 și Luau, construit cu full-moon
+  ru: Форматтер кода с собственными строгими правилами для Lua 5.1, 5.2, 5.3, 5.4 и Luau, созданный с помощью full-moon
+  th: ตัวจัดรูปแบบโค้ดที่ยึดความคิดเห็นของตนอย่างชัดเจนสำหรับ Lua 5.1, 5.2, 5.3, 5.4 และ Luau สร้างด้วย full-moon
+  tr: full-moon kullanılarak geliştirilmiş, Lua 5.1, 5.2, 5.3, 5.4 ve Luau için kendi görüşünü dayanan kod biçimlendirici
+  uk: Форматтер коду з власними суворими правилами для Lua 5.1, 5.2, 5.3, 5.4 та Luau, створений за допомогою full-moon
+  vi: Công cụ định dạng mã theo quan điểm riêng cho Lua 5.1, 5.2, 5.3, 5.4 và Luau, xây dựng bằng full-moon
 x:
   source: https://github.com/JohnnyMorganz/StyLua
   eget: JohnnyMorganz/StyLua

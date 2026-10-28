@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 世界上最简单的 Python 和命令行面部识别 API
   en: The world's simplest facial recognition api for Python and the command line
+  cs: Nejjednodušší API pro rozpoznávání obličejů v Pythonu a v příkazové řádce na světě
+  de: Die einfachste Gesichtserkennungs-API der Welt für Python und die Kommandozeile
+  es: La API de reconocimiento facial más sencilla del mundo para Python y la línea de comandos
+  fr: L'API de reconnaissance faciale la plus simple au monde pour Python et la ligne de commande
+  id: API pengenalan wajah paling sederhana di dunia untuk Python dan baris perintah
+  it: L'API di riconoscimento facciale più semplice al mondo per Python e la riga di comando
+  ja: Python とコマンドライン向けの世界一単純な顔認識 API
+  ko: Python과 명령줄을 위한 세계에서 가장 간단한 얼굴 인식 API
+  pl: Najprostsze na świecie API rozpoznawania twarzy dla Pythona i wiersza poleceń
+  pt: A API de reconhecimento facial mais simples do mundo para Python e para a linha de comando
+  ro: Cea mai simplă API de recunoaștere facială din lume pentru Python și linia de comandă
+  ru: Самый простой в мире API распознавания лиц для Python и командной строки
+  th: API การจดจำใบหน้าที่ง่ายที่สุดในโลกสำหรับ Python และบรรทัดคำสั่ง
+  tr: Python ve komut satırı için dünyanın en basit yüz tanıma API'si
+  uk: Найпростіший у світі API розпізнавання облич для Python і командного рядка
+  vi: API nhận dạng khuôn mặt đơn giản nhất thế giới cho Python và dòng lệnh
 x:
   source: https://github.com/ageitgey/face_recognition
   yay: python-face_recognition

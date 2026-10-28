@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A fast CPU miner for Kaspa
   cn: Kaspa 的快速 CPU 矿工
+  cs: Rychlý těžič CPU pro Kaspa
+  de: Ein schneller CPU-Miner für Kaspa
+  es: Un minero de CPU rápido para Kaspa
+  fr: Un mineur CPU rapide pour Kaspa
+  id: Penambang CPU cepat untuk Kaspa
+  it: Un miner CPU veloce per Kaspa
+  ja: Kaspa 用の高速 CPU マイナー
+  ko: Kaspa를 위한 빠른 CPU 마이너
+  pl: Szybki kopacz CPU dla Kaspa
+  pt: Um minerador de CPU rápido para Kaspa
+  ro: Un miner de CPU rapid pentru Kaspa
+  ru: Быстрый CPU-майнер для Kaspa
+  th: มายเนอร์ CPU ความเร็วสูงสำหรับ Kaspa
+  tr: Kaspa için hızlı bir CPU madenci
+  uk: Швидкий CPU-майнер для Kaspa
+  vi: Mỏ CPU nhanh cho Kaspa
 x:
   source: https://github.com/elichai/kaspa-miner
   eget: elichai/kaspa-miner

@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 让 Python 程序在终端打印彩色文字、风格化 ASCII 艺术与位图，并自带一种「瞬时日志」让 verbose 输出不再淹没 WARNING。
   en: Print colored text, stylized ASCII art and bitmap images from Python — plus a transient-logging handler that keeps verbose output from drowning out warnings.
+  cs: Tisk barevného textu, stylizovaného ASCII artu a bitmapových obrázků z Pythonu — plus přechodné logování, které zabrání tomu, aby verbose výstup přehlušil varování.
+  de: Drucke farbigen Text, stilisierte ASCII-Kunst und Bitmap-Bilder aus Python — plus ein Handler für temporäres Logging, der verhindert, dass ausführliche Ausgaben Warnungen überdecken.
+  es: Imprime texto coloreado, arte ASCII estilizado e imágenes de mapa de bits desde Python, además de un gestor de registro transitorio que evita que la salida verbose ahogue las advertencias.
+  fr: Imprime du texte coloré, de l'art ASCII stylisé et des images matricielles depuis Python — avec un gestionnaire de journalisation transitoire qui empêche la sortie détaillée de noyer les avertissements.
+  id: Mencetak teks berwarna, seni ASCII bergaya, dan gambar bitmap dari Python — ditambah pencatat sementara yang mencegah keluaran verbose menutupi peringatan.
+  it: Stampa testo a colori, arte ASCII stilizzata e immagini bitmap da Python, con un handler di logging transitorio che impedisce all'output prolisso di coprire gli avvisi.
+  ja: Python からカラフルなテキスト、様式化された ASCII アート、ビットマップ画像を書き出します。さらに、冗長な出力が警告を覆い隠さないようにする一時ログハンドラーが付属しています。
+  ko: Python에서 색상 텍스트, 스타일리시한 ASCII 아트, 비트맵 이미지를 출력하며, 상세 출력이 경고를 덮지 못하게 하는 임시 로깅 핸들러를 함께 제공합니다.
+  pl: Drukuje kolorowy tekst, stylizowaną grafikę ASCII i obrazy bitmapowe z Pythona — wraz z obsługą logowania tymczasowego, która zapobiega przytłoczeniu ostrzeżeń przez rozbudowane wyjście.
+  pt: Imprime texto colorido, arte ASCII estilizada e imagens bitmap a partir do Python — além de um manipulador de log temporário que evita que a saída verbosa afogue os avisos.
+  ro: Tipărește text colorat, artă ASCII stilizată și imagini bitmap din Python — plus un handler de jurnalizare tranzitorie care împiedică ieșirea detaliată să acopere avertismentele.
+  ru: Печатает цветной текст, стилизованное ASCII-арт и растровые изображения из Python — а также обработчик временного логирования, который не даёт подробному выводу заглушить предупреждения.
+  th: พิมพ์ข้อความสี ศิลปะ ASCII ที่มีสไตล์ และภาพบิตแมปจาก Python พร้อมตัวจัดการบันทึกชั่วคราวที่ไม่ให้ผลลัพธ์แบบละเอียดกลบเตือน
+  tr: Python'dan renkli metin, stillenmiş ASCII sanatı ve bitmap görseller yazdırır — ayrıca ayrıntılı çıktının uyarıları bastırmasını önleyen geçici günlükleme işleyicisiyle birlikte.
+  uk: Друкує кольоровий текст, стилізоване ASCII-мистецтво та растрові зображення з Python — а також обробник тимчасової журналізації, який не дає докладному виводу заглушити попередження.
+  vi: In văn bản màu, nghệ thuật ASCII được tạo kiểu và ảnh bitmap từ Python — kèm trình xử lý ghi nhật tạm thời giúp đầu ra chi tiết không lấn át cảnh báo.
 x:
   source: https://github.com/jart/fabulous
   pip: fabulous

@@ -3,6 +3,22 @@ homepage: https://www.huaweicloud.com/
 desc:
   cn: 华为云命令行工具，提供了一种通过 CLI 调用云服务 API 的方法
   en: HUAWEI cloud Command Line Tool provides a way to call cloud service APIs through the CLI
+  cs: Nástroj HUAWEI Cloud Command Line poskytuje způsob, jak volat cloudová API služby pomocí CLI
+  de: Das HUAWEI Cloud Command Line Tool bietet eine Möglichkeit, Cloud-Service-APIs über die CLI aufzurufen
+  es: HUAWEI Cloud Command Line Tool ofrece una forma de llamar a las API de servicios en la nube a través de la CLI
+  fr: HUAWEI Cloud Command Line Tool offre un moyen d'appeler les API des services cloud via la CLI
+  id: HUAWEI cloud Command Line Tool menyediakan cara untuk memanggil API layanan cloud melalui CLI
+  it: HUAWEI cloud Command Line Tool offre un modo per richiamare le API dei servizi cloud tramite la CLI
+  ja: HUAWEI Cloud Command Line Tool は、CLI を通じてクラウドサービスの API を呼び出す手段を提供します
+  ko: HUAWEI cloud Command Line Tool은 CLI를 통해 클라우드 서비스 API를 호출하는 방법을 제공합니다
+  pl: HUAWEI Cloud Command Line Tool umożliwia wywoływanie API usług chmurowych za pomocą CLI
+  pt: O HUAWEI cloud Command Line Tool oferece uma maneira de chamar APIs de serviços de nuvem por meio da CLI
+  ro: HUAWEI cloud Command Line Tool oferă o modalitate de a apela API-urile serviciilor cloud prin CLI
+  ru: HUAWEI cloud Command Line Tool предоставляет способ вызывать API облачных сервисов через CLI
+  th: HUAWEI cloud Command Line Tool ให้วิธีเรียก API ของบริการคลาวด์ผ่าน CLI
+  tr: HUAWEI cloud Command Line Tool, bulut hizmeti API'lerini CLI üzerinden çağırmanın bir yolunu sunar
+  uk: HUAWEI cloud Command Line Tool надає спосіб викликати API хмарних сервісів через CLI
+  vi: HUAWEI cloud Command Line Tool cung cấp cách gọi API của dịch vụ đám mây thông qua CLI
 x: {}
 rule:
   /x:

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Check whether a website is up or down
   cn: 检查网站是否正常运行
+  cs: Zkontrolovat, zda je webová stránka v provozu nebo mimo provoz
+  de: Prüfen, ob eine Website online oder offline ist
+  es: Comprobar si un sitio web está activo o inactivo
+  fr: Vérifier si un site web est en ligne ou hors ligne
+  id: Periksa apakah sebuah situs web aktif atau tidak aktif
+  it: Verificare se un sito web è online o offline
+  ja: ウェブサイトが稼働しているかダウンしているかを確認します
+  ko: 웹사이트가 작동하는지 중단되었는지 확인
+  pl: Sprawdź, czy witryna działa, czy jest niedostępna
+  pt: Verificar se um site está no ar ou fora do ar
+  ro: Verifică dacă un site web este activ sau inactiv
+  ru: Проверить, работает ли веб-сайт или он недоступен
+  th: ตรวจสอบว่าเว็บไซต์ทำงานอยู่หรือล่ม
+  tr: Bir web sitesinin açık mı kapalı mı olduğunu kontrol et
+  uk: Перевірити, чи працює веб-сайт чи він недоступний
+  vi: Kiểm tra xem một trang web đang hoạt động hay bị sập
 x:
   source: https://github.com/sindresorhus/is-up-cli#readme
   yay: nodejs-is-up-cli

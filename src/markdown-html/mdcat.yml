@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 在终端中显示 markdown 文档
   en: Show markdown documents in terminals
+  cs: Zobrazovat markdown dokumenty v terminálech
+  de: Markdown-Dokumente in Terminals anzeigen
+  es: Mostrar documentos markdown en terminales
+  fr: Afficher des documents markdown dans les terminaux
+  id: Menampilkan dokumen markdown di terminal
+  it: Mostra i documenti markdown nei terminali
+  ja: ターミナルで markdown ドキュメントを表示する
+  ko: 터미널에서 markdown 문서 표시
+  pl: Wyświetlanie dokumentów markdown w terminalach
+  pt: Exibir documentos markdown em terminais
+  ro: Afișarea documentelor markdown în terminale
+  ru: Показывать документы markdown в терминалах
+  th: แสดงเอกสาร markdown ในเทอร์มินัล
+  tr: Markdown belgelerini terminallerde gösterme
+  uk: Показувати документи markdown у терміналах
+  vi: Hiển thị tài liệu markdown trong terminal
 x:
   source: https://github.com/swsnr/mdcat
   yay: mdcat

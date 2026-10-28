@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于编辑 PATH 环境变量的 CLI 工具。
   en: CLI for editing a PATH env variable.
+  cs: CLI pro úpravu proměnné prostředí PATH.
+  de: CLI zum Bearbeiten der PATH-Umgebungsvariablen.
+  es: CLI para editar la variable de entorno PATH.
+  fr: CLI pour modifier la variable d'environnement PATH.
+  id: CLI untuk mengedit variabel lingkungan PATH.
+  it: CLI per modificare la variabile d'ambiente PATH.
+  ja: PATH 環境変数を編集するための CLI。
+  ko: PATH 환경 변수를 편집하는 CLI.
+  pl: CLI do edycji zmiennej środowiskowej PATH.
+  pt: CLI para editar a variável de ambiente PATH.
+  ro: CLI pentru editarea variabilei de mediu PATH.
+  ru: CLI для редактирования переменной окружения PATH.
+  th: CLI สำหรับแก้ไขตัวแปรสภาพแวดล้อม PATH
+  tr: PATH ortam değişkenini düzenlemek için CLI.
+  uk: CLI для редагування змінної оточення PATH.
+  vi: CLI để chỉnh sửa biến môi trường PATH.
 x:
   source: https://github.com/chip/pathos
   go: github.com/chip/pathos@latest

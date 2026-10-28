@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: 文件、档案和目录的深入比较。
   en: In-depth comparison of files, archives, and directories.
+  cs: Podrobné porovnání souborů, archivů a adresářů.
+  de: Tiefgehender Vergleich von Dateien, Archiven und Verzeichnissen.
+  es: Comparación detallada de archivos, archivos comprimidos y directorios.
+  fr: Comparaison approfondie des fichiers, des archives et des répertoires.
+  id: Perbandingan mendetail file, arsip, dan direktori.
+  it: Confronto approfondito di file, archivi e directory.
+  ja: ファイル、アーカイブ、ディレクトリの詳細な比較。
+  ko: 파일, 아카이브, 디렉터리의 심층 비교.
+  pl: Dogłębne porównanie plików, archiwów i katalogów.
+  pt: Comparação detalhada de arquivos, arquivos compactados e diretórios.
+  ro: Comparare detaliată a fișierelor, arhivelor și directoarelor.
+  ru: Подробное сравнение файлов, архивов и каталогов.
+  th: การเปรียบเทียบอย่างละเอียดของไฟล์ คลังซิป และไดเรกทอรี
+  tr: Dosyaların, arşivlerin ve dizinlerin ayrıntılı karşılaştırması.
+  uk: Поглиблене порівняння файлів, архівів і каталогів.
+  vi: So sánh chuyên sâu các tệp, kho lưu trữ và thư mục.
 homepage: https://diffoscope.org/
 x:
   apt: diffoscope

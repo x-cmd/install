@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: AVIF 图像的编码器/转换器
   en: Encoder/converter for AVIF images
+  cs: Kodér/konvertér pro obrázky AVIF
+  de: Encoder/Konverter für AVIF-Bilder
+  es: Codificador/conversor para imágenes AVIF
+  fr: Encodeur/convertisseur pour les images AVIF
+  id: Encoder/konverter untuk gambar AVIF
+  it: Encoder/converter per immagini AVIF
+  ja: AVIF 画像用のエンコーダ/コンバーター
+  ko: AVIF 이미지를 위한 인코더/컨버터
+  pl: Enkoder/konwerter obrazów AVIF
+  pt: Codificador/conversor para imagens AVIF
+  ro: Codificator/convertor pentru imagini AVIF
+  ru: Кодировщик/конвертер для изображений AVIF
+  th: ตัวเข้ารหัส/ตัวแปลงสำหรับรูปภาพ AVIF
+  tr: AVIF görüntüleri için kodlayıcı/dönüştürücü
+  uk: Кодувальник/конвертер для зображень AVIF
+  vi: Bộ mã hóa/chuyển đổi cho hình ảnh AVIF
 x:
   source: https://github.com/kornelski/cavif-rs
   yay: cavif

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Jless 是一个命令行 JSON 查看器，用于读取、探索和搜索 JSON 数据
   en: jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data
+  cs: jless je prohlížeč JSON pro příkazovou řádku navržený ke čtení, průzkumu a vyhledávání v datech JSON
+  de: jless ist ein JSON-Viewer für die Kommandozeile, der zum Lesen, Erkunden und Durchsuchen von JSON-Daten entwickelt wurde
+  es: jless es un visor de JSON de línea de comandos diseñado para leer, explorar y buscar en datos JSON
+  fr: jless est une visionneuse JSON en ligne de commande conçue pour lire, explorer et parcourir des données JSON
+  id: jless adalah penampil JSON untuk baris perintah yang dirancang untuk membaca, menjelajahi, dan mencari data JSON
+  it: jless è un visualizzatore JSON da riga di comando progettato per leggere, esplorare e cercare nei dati JSON
+  ja: jless は、JSON データの読み取り・探索・検索のために設計されたコマンドライン JSON ビューアです
+  ko: jless는 JSON 데이터를 읽고, 탐색하고, 검색하기 위해 설계된 명령줄 JSON 뷰어입니다
+  pl: jless to przeglądarka JSON dla wiersza poleceń, zaprojektowana do czytania, eksploracji i przeszukiwania danych JSON
+  pt: jless é um visualizador de JSON de linha de comando projetado para ler, explorar e pesquisar dados JSON
+  ro: jless este un vizualizator JSON pentru linia de comandă, conceput pentru citirea, explorarea și căutarea în datele JSON
+  ru: jless — это просмотрщик JSON для командной строки, созданный для чтения, исследования и поиска по данным JSON
+  th: jless เป็น JSON viewer สำหรับบรรทัดคำสั่ง ที่ออกแบบมาเพื่ออ่าน สำรวจ และค้นหาข้อมูล JSON
+  tr: jless, JSON verilerini okumak, keşfetmek ve aramak için tasarlanmış komut satırı JSON görüntüleyicisidir
+  uk: jless — це переглядач JSON для командного рядка, створений для читання, дослідження та пошуку даних JSON
+  vi: jless là trình xem JSON dòng lệnh được thiết kế để đọc, khám phá và tìm kiếm trong dữ liệu JSON
 x:
   source: https://github.com/PaulJuliusMartinez/jless
   eget: PaulJuliusMartinez/jless

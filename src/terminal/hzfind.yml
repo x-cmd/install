@@ -3,6 +3,22 @@ homepage: https://github.com/clouedoc/hzfind
 desc:
   cn: 寻找 Hetzner 专用服务器拍卖最佳性价比的 TUI，内置 PassMark CPU 跑分
   en: A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
+  cs: TUI pro nalezení nejlepších nabídek na aukce dedikovaných serverů Hetzner s vestavěnými benchmarky CPU PassMark
+  de: Ein TUI, um die besten Auktionsangebote für Hetzner-Dedicated-Server zu finden, mit integrierten PassMark-CPU-Benchmarks
+  es: Una TUI para encontrar las mejores ofertas de subastas de servidores dedicados de Hetzner, con benchmarks de CPU PassMark integrados
+  fr: Un TUI pour trouver les meilleures enchères de serveurs dédiés Hetzner, avec benchmarks CPU PassMark intégrés
+  id: TUI untuk mencari penawaran lelang server dedikasi Hetzner terbaik, dengan benchmark CPU PassMark bawaan
+  it: Una TUI per trovare le migliori offerte di aste di server dedicati Hetzner, con benchmark CPU PassMark integrati
+  ja: Hetzner 専用サーバーのオークションで最良の取引を探す TUI。PassMark CPU ベンチマークを内蔵しています
+  ko: Hetzner 전용 서버 경매에서 가장 좋은 딜을 찾는 TUI이며, PassMark CPU 벤치마크가 내장되어 있습니다
+  pl: TUI do wyszukiwania najlepszych ofert aukcji dedykowanych serwerów Hetzner, z wbudowanymi benchmarkami CPU PassMark
+  pt: Uma TUI para encontrar as melhores ofertas de leilão de servidores dedicados Hetzner, com benchmarks de CPU PassMark integrados
+  ro: Un TUI pentru a găsi cele mai bune licitații de servere dedicate Hetzner, cu benchmark-uri CPU PassMark integrate
+  ru: TUI для поиска лучших аукционных предложений по выделенным серверам Hetzner со встроенными бенчмарками PassMark CPU
+  th: TUI เพื่อค้นหาดีลประมูลเซิร์ฟเวอร์เฉพาะ Hetznerที่ดีที่สุด พร้อมคะแนน CPU PassMark ในตัว
+  tr: Hetzner özel sunucu açık artırmalarında en iyi fırsatları bulmak için PassMark CPU kıyaslamaları yerleşik TUI
+  uk: TUI для пошуку найкращих аукційних пропозицій щодо виділених серверів Hetzner із вбудованими бенчмарками PassMark CPU
+  vi: TUI để tìm các giao dịch đấu giá máy chủ riêng Hetzner tốt nhất, tích hợp sẵn benchmark CPU PassMark
 x:
   source: https://github.com/clouedoc/hzfind
   eget: clouedoc/hzfind

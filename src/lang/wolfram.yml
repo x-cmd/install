@@ -3,6 +3,22 @@ homepage: https://www.wolfram.com/language/
 desc:
   cn: Wolfram 语言是一种高度发展的基于知识的语言，它集合了大量编程模式，并且使用独特的符号编程理念，以对基本编程概念增加灵活度.
   en: Wolfram Language is a symbolic language, deliberately designed with the breadth and unity needed to develop powerful programs quickly.
+  cs: Wolfram Language je symbolický jazyk, záměrně navržený s šířkou a jednotou potřebnou k rychlému vývoji výkonných programů.
+  de: Wolfram Language ist eine symbolische Sprache, die bewusst mit der Breite und Einheitlichkeit entworfen wurde, die zur schnellen Entwicklung leistungsfähiger Programme nötig sind.
+  es: Wolfram Language es un lenguaje simbólico, deliberadamente diseñado con la amplitud y la unidad necesarias para desarrollar rápidamente programas potentes.
+  fr: Wolfram Language est un langage symbolique, délibérément conçu avec l'ampleur et l'unité nécessaires pour développer rapidement des programmes puissants.
+  id: Wolfram Language adalah bahasa simbolik yang sengaja dirancang dengan keluasan dan kesatuan yang dibutuhkan untuk mengembangkan program-program kuat dengan cepat.
+  it: Wolfram Language è un linguaggio simbolico, progettato appositamente con l'ampiezza e l'unità necessarie per sviluppare rapidamente programmi potenti.
+  ja: Wolfram Language は、強力なプログラムを迅速に開発するために必要な幅と統一感を持つよう意図して設計された記号言語です。
+  ko: Wolfram Language는 강력한 프로그램을 빠르게 개발하는 데 필요한 폭과 통일을 갖추도록 의도적으로 설계된 기호 언어입니다.
+  pl: Wolfram Language to symboliczny język, celowo zaprojektowany z szerokością i jednością potrzebnymi do szybkiego tworzenia potężnych programów.
+  pt: Wolfram Language é uma linguagem simbólica, deliberadamente projetada com a amplitude e a unidade necessárias para desenvolver rapidamente programas poderosos.
+  ro: Wolfram Language este un limbaj simbolic, conceput intenționat cu lățimea și unitatea necesare pentru a dezvolta rapid programe puternice.
+  ru: Wolfram Language — символический язык, намеренно спроектированный с той широтой и цельностью, которые нужны для быстрой разработки мощных программ.
+  th: Wolfram Language เป็นภาษาสัญลักษณ์ที่ออกแบบมาอย่างตั้งใจ ให้มีทั้งความกว้างและความกลมกลืนเพื่อพัฒนาโปรแกรมที่ทรงพลังได้อย่างรวดเร็ว
+  tr: Wolfram Language, güçlü programları hızla geliştirmek için gereken genişlik ve bütünlükle kasıtlı olarak tasarlanmış sembolik bir dildir.
+  uk: Wolfram Language — символічна мова, свідомо спроєктована з тиєю широтою та єдністю, потрібними для швидкої розробки потужних програм.
+  vi: Wolfram Language là ngôn ngữ ký hiệu, được thiết kế có chủ đích với sự rộng lớn và thống nhất cần thiết để nhanh chóng phát triển các chương trình mạnh mẽ
 rule:
   darwin/brew:
     cmd: brew cask install wolfram-engine

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Sudoless performance monitoring CLI tool for Apple Silicon processors
   cn: 适用于苹果硅处理器的无声音性能监测命令行工具
+  cs: Nástroj příkazového řádku pro sledování výkonu procesorů Apple Silicon bez zvuku
+  de: Soundloses Kommandozeilen-Tool zur Leistungsüberwachung für Apple-Silicon-Prozessoren
+  es: Herramienta de línea de comandos de monitorización de rendimiento sin sonido para procesadores Apple Silicon
+  fr: Outil en ligne de commande de surveillance des performances, sans son, pour les processeurs Apple Silicon
+  id: Alat baris perintah pemantauan kinerja tanpa suara untukEra prosesor Apple Silicon
+  it: Strumento da riga di comando per il monitoraggio delle prestazioni, senza audio, per processori Apple Silicon
+  ja: Apple Silicon プロセッサー向けのサウンドなしパフォーマンス監視 CLI ツール
+  ko: Apple Silicon 프로세서를 위한 무음 성능 모니터링 CLI 도구
+  pl: Narzędzie wiersza poleceń do monitorowania wydajności bez dźwięku dla procesorów Apple Silicon
+  pt: Ferramento de linha de comando de monitoramento de desempenho sem som para processadores Apple Silicon
+  ro: Instrument de linie de comandă pentru monitorizarea performanței, fără sunet, pentru procesoare Apple Silicon
+  ru: Инструмент командной строки для мониторинга производительности процессоров Apple Silicon без звука
+  th: เครื่องมือบรรทัดคำสั่งติดตามประสิทธิภาพแบบไม่มีเสียงสำหรับโปรเซสเซอร์ Apple Silicon
+  tr: Apple Silicon işlemciler için sessiz performans izleme komut satırı aracı
+  uk: Інструмент командного рядка для моніторингу продуктивності процесорів Apple Silicon без звуку
+  vi: Công cụ dòng lệnh theo dõi hiệu năng không phát âm thanh cho bộ xử lý Apple Silicon
 x:
   source: https://github.com/vladkens/macmon
   eget: vladkens/macmon

@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 用纯 Makefile 构建 TensorFlow 1.10 静态库（无需 Bazel），适合嵌入与交叉编译。
   en: Build TensorFlow 1.10 as a static library using plain Makefile (no Bazel), for embedding and cross-compilation.
+  cs: Sestavit TensorFlow 1.10 jako statickou knihovnu pomocí čistého Makefile (bez Bazelu), pro vkládání a křížovou kompilaci.
+  de: TensorFlow 1.10 als statische Bibliothek mit reinem Makefile (ohne Bazel) bauen, zum Einbetten und Cross-Kompilieren.
+  es: Compile TensorFlow 1.10 como biblioteca estática usando Makefile puro (sin Bazel), para incrustación y compilación cruzada.
+  fr: Compiler TensorFlow 1.10 en bibliothèque statique avec un simple Makefile (sans Bazel), pour l'intégration et la compilation croisée.
+  id: Bangun TensorFlow 1.10 sebagai pustaka statis menggunakan Makefile biasa (tanpa Bazel), untuk embedding dan kompilasi silang.
+  it: Compila TensorFlow 1.10 come libreria statica usando il solo Makefile (senza Bazel), per embedding e compilazione incrociata.
+  ja: 純粋な Makefile だけで（bazel を使わずに）TensorFlow 1.10 を静的ライブラリとしてビルドし埋め込みやクロスコンパイルに対応
+  ko: 순수한 Makefile만 사용하여( Bazel 없이) TensorFlow 1.10을 정적 라이브러리로 빌드하여 임베딩과 교차 컴파일을 지원합니다
+  pl: Zbuduj TensorFlow 1.10 jako bibliotekę statyczną przy użyciu zwykłego Makefile (bez Bazel), do osadzania i kompilacji krzyżowej.
+  pt: Compilar o TensorFlow 1.10 como biblioteca estática usando apenas Makefile (sem Bazel), para incorporação e compilação cruzada.
+  ro: Compilează TensorFlow 1.10 ca bibliotecă statică folosind doar Makefile (fără Bazel), pentru încorporare și compilare încrucișată.
+  ru: Сборка TensorFlow 1.10 в виде статической библиотеки с помощью обычного Makefile (без Bazel), для встраивания и кросс-компиляции.
+  th: สร้าง TensorFlow 1.10 เป็นไลบรารีสถิตโดยใช้ Makefile ธรรมดา (ไม่ต้องใช้ Bazel) เพื่อฝังและคอมไพล์ข้ามแพลตฟอร์ม
+  tr: TensorFlow 1.10'u yalnızca Makefile kullanarak (Bazel olmadan) statik kütüphane olarak derleyin; gömme ve çapraz derleme için.
+  uk: Збірка TensorFlow 1.10 як статичної бібліотеки звичайним Makefile (без Bazel), для вбудовування та крос-компіляції.
+  vi: Build TensorFlow 1.10 thành thư viện tĩnh bằng Makefile thuần (không cần Bazel), để nhúng và biên dịch chéo
 x:
   source: https://github.com/jart/tensorflow-makefile
   eget: jart/tensorflow-makefile

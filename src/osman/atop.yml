@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Atop 是一个用于 Linux 的 ASCII 全屏性能监视器。
   en: Atop is an ASCII full-screen performance monitor for Linux
+  cs: Atop je plnoplošný textový monitor výkonu pro Linux
+  de: Atop ist ein textbasierter Vollbild-Performance-Monitor für Linux
+  es: Atop es un monitor de rendimiento de pantalla completa basado en texto para Linux
+  fr: Atop est un moniteur de performance plein écran en mode texte pour Linux
+  id: Atop adalah monitor kinerja layar penuh berbasis teks untuk Linux
+  it: Atop è un monitor delle prestazioni a schermo intero basato su testo per Linux
+  ja: Atop は Linux 向けの ASCII フルスクリーン・パフォーマンスモニターです
+  ko: Atop은 Linux용 텍스트 기반 전체 화면 성능 모니터입니다
+  pl: Atop to pełnoekranowy monitor wydajności oparty na tekście dla Linuksa
+  pt: O Atop é um monitor de desempenho em tela cheia baseado em texto para Linux
+  ro: Atop este un monitor de performanță pe ecran complet bazat pe text pentru Linux
+  ru: Atop — полноэкранный текстовый монитор производительности для Linux
+  th: Atop เป็นมอนิเตอร์ประสิทธิภาพเต็มหน้าจอแบบข้อความสำหรับ Linux
+  tr: Atop, Linux için metin tabanlı tam ekran performans izleyicisidir
+  uk: Atop — повноекранний текстовий монітор продуктивності для Linux
+  vi: Atop là trình theo dõi hiệu năng toàn màn hình dạng văn bản cho Linux
 x:
   source: https://github.com/Atoptool/atop
   apt: atop

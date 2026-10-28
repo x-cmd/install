@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Opera 是一个历史悠久的 Chromium 浏览器，自带内置广告拦截、VPN 与消息应用。
   en: Opera is a long-established Chromium browser with built-in ad-blocking, VPN, and messaging apps.
+  cs: Opera je dlouho etablovaný prohlížeč Chromium s vestavěným blokováním reklam, VPN a aplikacemi pro zasílání zpráv.
+  de: Opera ist ein lang etablierter Chromium-Browser mit integriertem Werbeblocker, VPN und Messaging-Apps.
+  es: Opera es un navegador Chromium de larga trayectoria con bloqueo de anuncios, VPN y aplicaciones de mensajería integrados.
+  fr: Opera est un navigateur Chromium de longue date, avec bloqueur de publicités, VPN et applications de messagerie intégrés.
+  id: Opera adalah browser Chromium yang sudah lama ada dengan pemblokir iklan, VPN, dan aplikasi pesan bawaan.
+  it: Opera è un browser Chromium di lunga tradizione con blocco degli annunci, VPN e app di messaggistica integrati.
+  ja: Opera は長い実績を持つ Chromium ブラウザで、広告ブロック、VPN、メッセージングアプリを内蔵しています。
+  ko: Opera는 광고 차단, VPN, 메시징 앱이 내장된 오래된 Chromium 브라우저입니다.
+  pl: Opera to długo obecny na rynku przeglądarka Chromium z wbudowanym blokowaniem reklam, VPN i aplikacjami do komunikacji.
+  pt: Opera é um navegador Chromium de longa tradição com bloqueador de anúncios, VPN e aplicativos de mensagens integrados.
+  ro: Opera este un browser Chromium de lungă tradiție cu blocare de reclame, VPN și aplicații de mesagerie integrate.
+  ru: Opera — это давно известный браузер Chromium со встроенным блокировщиком рекламы, VPN и приложениями для обмена сообщениями.
+  th: Opera เป็นเบราว์เซอร์ Chromium ที่มีมานาน พร้อมคุณสมบัติบล็อกโฆษณา VPN และแอปแชทในตัว
+  tr: Opera, yerleşik reklam engelleyici, VPN ve mesajlaşma uygulamalarıyla uzun süredir var olan bir Chromium tarayıcısıdır.
+  uk: Opera — це давно відомий браузер Chromium зі вбудованим блокувальником реклами, VPN та застосунками для обміну повідомленнями.
+  vi: Opera là trình duyệt Chromium lâu đời với trình chặn quảng cáo, VPN và ứng dụng nhắn tin tích hợp sẵn.
 x:
   source: https://github.com/operasoftware/desktop
   apt: opera-stable

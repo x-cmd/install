@@ -3,6 +3,22 @@ homepage: https://github.com/p11-glue/p11-kit
 desc:
   en: Library to load and enumerate PKCS#11 modules
   cn: '加载和枚举 PKCS # 11 模块的库'
+  cs: Knihovna pro načítání a výčet modulů PKCS#11
+  de: Bibliothek zum Laden und Auflisten von PKCS#11-Modulen
+  es: Biblioteca para cargar y enumerar módulos PKCS#11
+  fr: Bibliothèque pour charger et énumérer les modules PKCS#11
+  id: Pustaka untuk memuat dan mencantum modul PKCS#11
+  it: Libreria per caricare ed enumerare i moduli PKCS#11
+  ja: PKCS#11 モジュールを読み込み、列挙するためのライブラリ
+  ko: PKCS#11 모듈을 로드하고 열거하는 라이브러리
+  pl: Biblioteka do ładowania i wyliczania modułów PKCS#11
+  pt: Biblioteca para carregar e enumerar módulos PKCS#11
+  ro: Bibliotecă pentru încărcarea și enumerarea modulelor PKCS#11
+  ru: Библиотека для загрузки и перечисления модулей PKCS#11
+  th: ไลบรารีสำหรับโหลดและแสดงรายการโมดูล PKCS#11
+  tr: PKCS#11 modüllerini yükleyen ve listeleyen kütüphane
+  uk: Бібліотека для завантаження та перелічення модулів PKCS#11
+  vi: Thư viện để tải và liệt kê các mô-đun PKCS#11
 x:
   source: https://github.com/p11-glue/p11-kit
   eget: p11-glue/p11-kit

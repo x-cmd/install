@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
   cn: 使用 OpenAI 格式调用所有 LLM API。使用 Bedrock、Azure、OpenAI、Cohere、Anthropic、Ollama、Sagemaker、HuggingFace、Replicate（100+ LLMs）
+  cs: Voltejte všechna LLM API ve formátu OpenAI. Použijte Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  de: Rufen Sie alle LLM-APIs im OpenAI-Format auf. Nutzen Sie Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+  es: Llama a todas las API de LLM usando el formato de OpenAI. Usa Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  fr: Appelez toutes les API LLM au format OpenAI. Utilisez Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  id: Panggil semua API LLM menggunakan format OpenAI. Gunakan Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  it: Chiama tutte le API LLM usando il formato OpenAI. Usa Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  ja: OpenAI形式ですべてのLLM APIを呼べます。Bedrock、Azure、OpenAI、Cohere、Anthropic、Ollama、Sagemaker、HuggingFace、Replicate（100以上のLLM）に対応
+  ko: OpenAI 형식으로 모든 LLM API를 호출하세요. Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100개 이상의 LLM)
+  pl: Wywołuj wszystkie API LLM w formacie OpenAI. Używaj Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  pt: Chame todas as APIs de LLM usando o formato da OpenAI. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+  ro: Apelați toate API-urile LLM în formatul OpenAI. Folosiți Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  ru: Вызывайте любые LLM API в формате OpenAI. Поддерживаются Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  th: เรียก API ของ LLM ทั้งหมดโดยใช้รูปแบบ OpenAI รองรับ Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  tr: Tüm LLM API'lerini OpenAI formatında çağırın. Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM) kullanın
+  uk: Викликайте будь-які LLM API у форматі OpenAI. Підтримуються Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
+  vi: Gọi mọi API LLM theo định dạng OpenAI. Hỗ trợ Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLM)
 x:
   source: https://github.com/BerriAI/litellm
   yay: litellm

@@ -3,6 +3,22 @@ homepage: https://github.com/withoutboats/bpb
 desc:
   cn: bpb 是一个自动签署 Git 提交的工具，为此目的取代了 gpg
   en: bpb is a tool to automatically sign git commits, replacing gpg for that purpose
+  cs: bpb je nástroj pro automatické podepisování git commitů, který v tomto ohledu nahrazuje gpg
+  de: bpb ist ein Werkzeug zum automatischen Signieren von git-Commits und ersetzt dabei gpg
+  es: bpb es una herramienta para firmar automáticamente los commits de git, reemplazando a gpg para ese propósito
+  fr: bpb est un outil pour signer automatiquement les commits git, en remplacement de gpg à cet effet
+  id: bpb adalah alat untuk menandatangani commit git secara otomatis, menggantikan gpg untuk tujuan tersebut
+  it: bpb è uno strumento per firmare automaticamente i commit git, sostituendo gpg per questo scopo
+  ja: bpb は git コミットを自動的に署名するためのツールで、その目的では gpg の代わりになります
+  ko: bpb는 git 커밋을 자동으로 서명하는 도구로, 그 목적에서는 gpg를 대체합니다
+  pl: bpb to narzędzie do automatycznego podpisywania commitów git, zastępujące w tym celu gpg
+  pt: bpb é uma ferramenta para assinar commits do git automaticamente, substituindo o gpg para essa finalidade
+  ro: bpb este un instrument pentru semnarea automată a commiturilor git, înlocuind gpg în acest scop
+  ru: bpb — инструмент для автоматической подписи git-коммитов, заменяющий gpg в этой задаче
+  th: bpb คือเครื่องมือสำหรับลงลายเซ็นคอมมิต git อัตโนมัติ โดยแทนที่ gpg ในจุดประสงค์นี้
+  tr: bpb, git commit'lerini otomatik olarak imzalayan ve bu amaçla gpg'nin yerini alan bir araçtır
+  uk: bpb — інструмент для автоматичного підпису git-комітів, що замінює gpg у цій задачі
+  vi: bpb là công cụ tự động ký commit git, thay thế gpg cho mục đích đó
 x:
   source: https://github.com/withoutboats/bpb
   cargo: bpb

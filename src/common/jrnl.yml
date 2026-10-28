@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 无需离开命令行即可收集您的想法和笔记
   en: Collect your thoughts and notes without leaving the command line
+  cs: Sbírejte své myšlenky a poznámky, aniž byste museli opustit příkazovou řádku
+  de: Sammeln Sie Ihre Gedanken und Notizen, ohne die Kommandozeile zu verlassen
+  es: Recoge tus ideas y notas sin salir de la línea de comandos
+  fr: Recueillez vos idées et vos notes sans quitter la ligne de commande
+  id: Kumpulkan pikiran dan catatan Anda tanpa meninggalkan baris perintah
+  it: Raccogli i tuoi pensieri e le tue note senza lasciare la riga di comando
+  ja: コマンドラインを離れずに考えやメモを集められます
+  ko: 명령줄을 벗어나지 않고 생각과 메모를 모을 수 있습니다
+  pl: Zbieraj swoje myśli i notatki, nie wychodząc z wiersza poleceń
+  pt: Colete seus pensamentos e anotações sem sair da linha de comando
+  ro: Colectează gândurile și notițele tale fără a părăsi linia de comandă
+  ru: Собирайте свои мысли и заметки, не покидая командную строку
+  th: รวบรวมความคิดและบันทึกของคุณโดยไม่ต้องออกจากบรรทัดคำสั่ง
+  tr: Komut satırından ayrılmadan düşüncelerinizi ve notlarınızı bir araya getirin
+  uk: Збирайте свої думки та нотатки, не залишаючи командний рядок
+  vi: Ghi lại suy nghĩ và ghi chú của bạn mà không cần rời dòng lệnh
 x:
   source: https://github.com/jrnl-org/jrnl
   brew: jrnl

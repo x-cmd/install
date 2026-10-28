@@ -3,6 +3,22 @@ homepage: https://github.com/docbook/xslt10-stylesheets
 desc:
   en: XML vocabulary to create presentation-neutral documents
   cn: 用于创建与表示无关的文档的 XML 词汇表
+  cs: XML slovník pro tvorbu dokumentů nezávislých na prezentaci
+  de: XML-Vokabular zur Erstellung von präsentationsneutralen Dokumenten
+  es: Vocabulario XML para crear documentos independientes de la presentación
+  fr: Vocabulaire XML pour créer des documents indépendants de la présentation
+  id: Kosakata XML untuk membuat dokumen yang netral terhadap presentasi
+  it: Vocabolario XML per creare documenti indipendenti dalla presentazione
+  ja: 表現に依存しない文書を作成するための XML ボキャブラリ
+  ko: 표현에 중립적인 문서를 만들기 위한 XML 어휘
+  pl: Słownik XML do tworzenia dokumentów niezależnych od prezentacji
+  pt: Vocabulário XML para criar documentos independentes de apresentação
+  ro: Vocabular XML pentru crearea documentelor independente de prezentare
+  ru: XML-словарь для создания документов, не зависящих от представления
+  th: คำศัพท์ XML สำหรับสร้างเอกสารที่ไม่ขึ้นกับการนำเสนอ
+  tr: Görünümden bağımsız belgeler oluşturmak için XML sözlüğü
+  uk: XML-словник для створення документів, незалежних від подання
+  vi: Từ vựng XML để tạo tài liệu không phụ thuộc vào cách hiển thị
 x:
   source: https://github.com/docbook/xslt10-stylesheets
   eget: docbook/xslt10-stylesheets

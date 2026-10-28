@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Git/Gerrit 审查界面，便于管理来自多服务器的变更请求
   en: 'Git/Gerrit Review Interface helps you manage change requests from multiple servers.'
+  cs: Git/Gerrit Review Interface vám pomáhá spravovat žádosti na změny z více serverů.
+  de: Die Git/Gerrit Review Interface hilft Ihnen, Änderungsanträge von mehreren Servern zu verwalten.
+  es: Git/Gerrit Review Interface le ayuda a gestionar solicitudes de cambio de varios servidores.
+  fr: Git/Gerrit Review Interface vous aide à gérer les demandes de modification provenant de plusieurs serveurs.
+  id: Git/Gerrit Review Interface membantu Anda mengelola permintaan perubahan dari beberapa server.
+  it: Git/Gerrit Review Interface ti aiuta a gestire le richieste di modifica da più server.
+  ja: Git/Gerrit Review Interface は、複数のサーバーからの変更リクエストを管理する助けになります。
+  ko: Git/Gerrit Review Interface는 여러 서버에서 오는 변경 요청을 관리하도록 돕습니다.
+  pl: Git/Gerrit Review Interface pomaga zarządzać żądaniami zmian z wielu serwerów.
+  pt: O Git/Gerrit Review Interface ajuda você a gerenciar solicitações de mudança de vários servidores.
+  ro: Git/Gerrit Review Interface vă ajută să gestionați cereri de modificare de la mai multe servere.
+  ru: Git/Gerrit Review Interface помогает управлять запросами на изменения с нескольких серверов.
+  th: Git/Gerrit Review Interface ช่วยคุณจัดการคำขอการเปลี่ยนแปลงจากเซิร์ฟเวอร์หลายแห่ง
+  tr: Git/Gerrit Review Interface, birden fazla sunucudan gelen değişiklik taleplerini yönetmenize yardımcı olur.
+  uk: Git/Gerrit Review Interface допомагає керувати запитами на зміни з кількох серверів.
+  vi: Git/Gerrit Review Interface giúp bạn quản lý các yêu cầu thay đổi từ nhiều máy chủ
 x:
   source: https://github.com/pycontribs/gri
   eget: pycontribs/gri

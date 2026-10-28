@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 监控和管理 Celery worker 与任务的 TUI，灵感来自 lazydocker 和 lazygit
   en: 'Terminal UI for monitoring and managing Celery workers and tasks, inspired by lazydocker and lazygit'
+  cs: Terminálové UI pro monitorování a správu workerů a úloh Celery, inspirované lazydocker a lazygit
+  de: Terminal-UI zum Überwachen und Verwalten von Celery-Workern und -Aufgaben, inspiriert von lazydocker und lazygit
+  es: Interfaz de terminal para supervisar y gestionar workers y tareas de Celery, inspirada en lazydocker y lazygit
+  fr: Une interface terminal pour surveiller et gérer les workers et les tâches Celery, inspirée de lazydocker et lazygit
+  id: UI terminal untuk memantau dan mengelola worker serta task Celery, terinspirasi oleh lazydocker dan lazygit
+  it: UI da terminale per monitorare e gestire worker e task Celery, ispirato a lazydocker e lazygit
+  ja: lazydocker と lazygit に着想を得た、Celery のワーカーとタスクを監視・管理するための端末 UI
+  ko: lazydocker와 lazygit에서 영감받은 Celery 워커와 작업 모니터링 및 관리용 터미널 UI
+  pl: Interfejs terminala do monitorowania i zarządzania workerami i zadaniami Celery, inspirowany przez lazydocker i lazygit
+  pt: Interface de terminal para monitorar e gerenciar workers e tarefas do Celery, inspirada no lazydocker e lazygit
+  ro: Interfață de terminal pentru monitorizarea și gestionarea workerilor și taskurilor Celery, inspirată de lazydocker și lazygit
+  ru: Терминальный интерфейс для мониторинга и управления воркерами и задачами Celery, вдохновлённый lazydocker и lazygit
+  th: UI เทอร์มินัลสำหรับติดตามและจัดการ Celery worker และ task ได้แรงบันดาลใจจาก lazydocker และ lazygit
+  tr: lazydocker ve lazygit'ten esinlenen Celery worker ve görevlerini izlemek ve yönetmek için terminal arayüzü
+  uk: Термінальний інтерфейс для моніторингу та керування воркерами й завданнями Celery, натхненний lazydocker і lazygit
+  vi: Giao diện terminal để theo dõi và quản lý worker và tác vụ Celery, lấy cảm hứng từ lazydocker và lazygit
 x:
   source: https://github.com/Fguedes90/lazycelery
   eget: Fguedes90/lazycelery

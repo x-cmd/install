@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于从 iOS App Store 搜索和下载应用程序包（称为 ipa 文件）的命令行工具
   en: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+  cs: Nástroj příkazové řádky, který umožňuje vyhledávat a stahovat balíčky aplikací (známé jako soubory ipa) z App Store pro iOS
+  de: Kommandozeilen-Tool zum Suchen und Herunterladen von App-Paketen (bekannt als ipa-Dateien) aus dem iOS App Store
+  es: Herramienta de línea de comandos que permite buscar y descargar paquetes de aplicaciones (conocidos como archivos ipa) desde la App Store de iOS
+  fr: Outil en ligne de commande permettant de rechercher et télécharger des paquets d'applications (connus sous le nom de fichiers ipa) depuis l'App Store iOS
+  id: Alat baris perintah yang memungkinkan mencari dan mengunduh paket aplikasi (dikenal sebagai file ipa) dari iOS App Store
+  it: Strumento da riga di comando che consente di cercare e scaricare pacchetti di app (noti come file ipa) dall'App Store di iOS
+  ja: iOS App Storeでアプリパッケージ（ipaファイルとして知られる）を検索してダウンロードできるコマンドラインツール
+  ko: iOS App Store에서 앱 패키지(ipa 파일이라고도 함)를 검색하고 다운로드할 수 있는 명령줄 도구
+  pl: Narzędzie wiersza poleceń umożliwiające wyszukiwanie i pobieranie pakietów aplikacji (znanych jako pliki ipa) ze sklepu App Store dla iOS
+  pt: Ferramenta de linha de comando que permite pesquisar e baixar pacotes de aplicativos (conhecidos como arquivos ipa) na App Store do iOS
+  ro: Instrument de linie de comandă care permite căutarea și descărcarea pachetelor de aplicații (cunoscute ca fișiere ipa) din App Store pentru iOS
+  ru: Командный инструмент для поиска и загрузки пакетов приложений (известных как файлы ipa) из App Store для iOS
+  th: เครื่องมือบรรทัดคำสั่งที่ให้คุณค้นหาและดาวน์โหลดแพ็กเกจแอป (ที่เรียกว่าไฟล์ ipa) จาก iOS App Store
+  tr: iOS App Store'dan uygulama paketlerini (ipa dosyaları olarak bilinir) aramaya ve indirmeye olanak tanıyan komut satırı aracı
+  uk: Командний інструмент для пошуку та завантаження пакетів застосунків (відомих як файли ipa) з App Store для iOS
+  vi: Công cụ dòng lệnh cho phép tìm kiếm và tải xuống các gói ứng dụng (gọi là tệp ipa) từ iOS App Store
 x:
   source: https://github.com/majd/ipatool
   eget: majd/ipatool

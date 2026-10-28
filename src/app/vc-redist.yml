@@ -3,6 +3,22 @@ homepage: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redi
 desc:
   cn: Visual C++ Redistributable 安装 Microsoft C 和 C++ （MSVC） 运行时库
   en: The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries
+  cs: Visual C++ Redistributable instaluje běhové knihovny Microsoft C a C++ (MSVC)
+  de: Visual C++ Redistributable installiert die Laufzeitbibliotheken von Microsoft C und C++ (MSVC)
+  es: Visual C++ Redistributable instala las bibliotecas de tiempo de ejecución de Microsoft C y C++ (MSVC)
+  fr: Visual C++ Redistributable installe les bibliothèques d'exécution Microsoft C et C++ (MSVC)
+  id: Visual C++ Redistributable memasang pustaka runtime Microsoft C dan C++ (MSVC)
+  it: Visual C++ Redistributable installa le librerie di runtime Microsoft C e C++ (MSVC)
+  ja: Visual C++ Redistributable は Microsoft C および C++ (MSVC) のランタイムライブラリをインストールします
+  ko: Visual C++ Redistributable은 Microsoft C 및 C++ (MSVC) 런타임 라이브러리를 설치합니다
+  pl: Visual C++ Redistributable instaluje biblioteki uruchomieniowe Microsoft C i C++ (MSVC)
+  pt: O Visual C++ Redistributable instala as bibliotecas de tempo de execução do Microsoft C e C++ (MSVC)
+  ro: Visual C++ Redistributable instalează bibliotecile de runtime Microsoft C și C++ (MSVC)
+  ru: Visual C++ Redistributable устанавливает библиотеки среды выполнения Microsoft C и C++ (MSVC)
+  th: Visual C++ Redistributable ติดตั้งไลบรารีรันไทม์ของ Microsoft C และ C++ (MSVC)
+  tr: Visual C++ Redistributable, Microsoft C ve C++ (MSVC) çalışma zamanı kitaplıklarını kurar
+  uk: Visual C++ Redistributable встановлює бібліотеки середовища виконання Microsoft C і C++ (MSVC)
+  vi: Visual C++ Redistributable cài đặt các thư viện runtime Microsoft C và C++ (MSVC)
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install extras/vcredist2022

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 将 Python 和 JavaScript 代码转换为 DOT 流程图
   en: Code2flow generates call graphs for dynamic programming language
+  cs: Code2flow generuje grafy volání pro dynamické programovací jazyky
+  de: Code2flow erzeugt Aufrufgraphen für dynamische Programmiersprachen
+  es: Code2flow genera gráficos de llamadas para lenguajes de programación dinámicos
+  fr: Code2flow génère des graphes d'appels pour les langages de programmation dynamiques
+  id: Code2flow menghasilkan grafik panggilan untuk bahasa pemrograman dinamis
+  it: Code2flow genera grafi delle chiamate per linguaggi di programmazione dinamici
+  ja: Code2flow は動的プログラミング言語の呼び出しグラフを生成します
+  ko: Code2flow은 동적 프로그래밍 언어의 호출 그래프를 생성합니다
+  pl: Code2flow generuje grafy wywołań dla dynamicznych języków programowania
+  pt: Code2flow gera grafos de chamadas para linguagens de programação dinâmicas
+  ro: Code2flow generează grafuri de apeluri pentru limbaje de programare dinamice
+  ru: Code2flow создаёт графы вызовов для динамических языков программирования
+  th: Code2flow สร้างกราฟการเรียกสำหรับภาษาโปรแกรมแบบไดนามิก
+  tr: Code2flow, dinamik programlama dilleri için çağrı grafikleri oluşturur
+  uk: Code2flow генерує графи викликів для динамічних мов програмування
+  vi: Code2flow tạo đồ thị lệnh gọi cho các ngôn ngữ lập trình động
 x:
   source: https://github.com/scottrogowski/code2flow
   yay: python-code2flow

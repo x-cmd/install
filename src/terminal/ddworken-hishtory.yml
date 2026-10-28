@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 可同步、可检索、带上下文的 Shell 历史记录
   en: 'Your shell history: synced, queryable, and in context'
+  cs: "Vaše historie shellu: synchronizovaná, prohledavatelná a v kontextu"
+  de: "Ihre Shell-Historie: synchronisiert, durchsuchbar und mit Kontext"
+  es: "Su historial de shell: sincronizado, consultable y en contexto"
+  fr: "Votre historique du shell : synchronisé, consultable et contextualisé"
+  id: "Riwayat shell Anda: tersinkronisasi, dapat dicari, dan kontekstual"
+  it: "La tua cronologia della shell: sincronizzata, ricercabile e contestualizzata"
+  ja: シェル履歴:同期・検索可能・コンテキスト対応
+  ko: "셸 히스토리: 동기화되고 검색 가능하며 컨텍스트를 제공합니다"
+  pl: "Twoja historia powłoki: synchronizowana, przeszukiwalna i z kontekstem"
+  pt: "Seu histórico de shell: sincronizado, pesquisável e com contexto"
+  ro: "Istoricul shell-ului dumneavoastră: sincronizat, căutabil și cu context"
+  ru: "История вашей оболочки: синхронизированная, доступная для поиска и с контекстом"
+  th: "ประวัติเชลของคุณ: ซิงค์ ค้นหาได้ และมีบริบท"
+  tr: "Kabuk geçmişiniz: eşitlenmiş, aranabilir ve bağlam içinde"
+  uk: "Історія вашої оболонки: синхронізована, доступна для пошуку та з контекстом"
+  vi: "Lịch sử shell của bạn: đồng bộ, tra cứu được và có ngữ cảnh"
 x:
   source: https://github.com/ddworken/hishtory
   eget: ddworken/hishtory

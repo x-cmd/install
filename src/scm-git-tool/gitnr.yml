@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A cross-platform CLI utility to create .gitignore files using templates.
   cn: 一个跨平台 CLI 实用程序，使用模板创建 .gitignore 文件
+  cs: Cross-platform CLI utilita pro vytváření souborů .gitignore z šablon.
+  de: Ein plattformübergreifendes CLI-Dienstprogramm zum Erstellen von .gitignore-Dateien aus Vorlagen.
+  es: Una utilidad CLI multiplataforma para crear archivos .gitignore usando plantillas.
+  fr: Un utilitaire CLI multiplateforme pour créer des fichiers .gitignore à partir de modèles.
+  id: Utilitas CLI lintas platform untuk membuat berkas .gitignore menggunakan templat.
+  it: Un'utilità CLI multipiattaforma per creare file .gitignore usando modelli.
+  ja: テンプレートを使って .gitignore ファイルを作成するクロスプラットフォームの CLI ユーティリティ。
+  ko: 템플릿을 사용하여 .gitignore 파일을 만드는 크로스 플랫폼 CLI 유틸리티
+  pl: Narzędzie CLI działające na różnych platformach, tworzące pliki .gitignore z szablonów.
+  pt: Um utilitário CLI multiplataforma para criar arquivos .gitignore usando modelos.
+  ro: O utilitar CLI multiplatformă pentru crearea fișierelor .gitignore folosind șabloane.
+  ru: Кроссплатформенная CLI-утилита для создания файлов .gitignore по шаблонам.
+  th: ยูทิลิตี้ CLI ข้ามแพลตฟอร์มสำหรับสร้างไฟล์ .gitignore จากเทมเพลต
+  tr: Şablonları kullanarak .gitignore dosyaları oluşturan platformlar arası bir CLI aracı.
+  uk: Кроссплатформна CLI-утиліта для створення файлів .gitignore за шаблонами.
+  vi: Tiện ích CLI đa nền tảng để tạo tệp .gitignore bằng các mẫu.
 x:
   source: https://github.com/reemus-dev/gitnr
   eget: reemus-dev/gitnr

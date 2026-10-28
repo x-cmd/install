@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Redis 的终端客户端，具有自动完成和语法功能突出显示
   en: IRedis is a terminal client for redis with auto-completion and syntax highlighting.
+  cs: IRedis je terminálový klient pro redis s automatickým doplňováním a zvýrazňováním syntaxe.
+  de: IRedis ist ein Terminal-Client für redis mit Autovervollständigung und Syntaxhervorhebung.
+  es: IRedis es un cliente de terminal para redis con autocompletado y resaltado de sintaxis.
+  fr: IRedis est un client terminal pour redis avec complétion automatique et coloration syntaxique.
+  id: IRedis adalah klien terminal untuk redis dengan pelengkapan otomatis dan penyorotan sintaks.
+  it: IRedis è un client da terminale per redis con completamento automatico ed evidenziazione della sintassi.
+  ja: IRedis は redis 向けのターミナルクライアントで、自动補完と構文ハイライトに対応しています。
+  ko: IRedis는 자동 완성과 구문 강조 표시를 지원하는 redis용 터미널 클라이언트입니다.
+  pl: IRedis to terminalowy klient dla redis z automatycznym uzupełnianiem i podświetlaniem składni.
+  pt: IRedis é um cliente de terminal para redis com preenchimento automático e realce de sintaxe.
+  ro: IRedis este un client terminal pentru redis cu completare automată și evidențierea sintaxei.
+  ru: IRedis — терминальный клиент для redis с автодополнением и подсветкой синтаксиса.
+  th: IRedis เป็นไคลเอนต์เทอร์มินัลสำหรับ redis พร้อมการเติมคำอัตโนมัติและการเน้นไวยากรณ์
+  tr: IRedis, otomatik tamamlama ve sözdizimi vurgulama özelliklerine sahip bir redis terminal istemcisidir.
+  uk: IRedis — термінальний клієнт для redis з автозавершенням і підсвічуванням синтаксису.
+  vi: IRedis là client terminal cho redis với tính năng tự động hoàn thành và tô sáng cú pháp.
 x:
   source: https://github.com/laixintao/iredis
   apt: iredis

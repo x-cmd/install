@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: ZooKeeper 是用于维护配置信息、命名、提供分布式同步和提供组服务的集中式服务
   en: ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services
+  cs: ZooKeeper je centralizovaná služba pro správu konfiguračních informací, pojmenování, poskytování distribuované synchronizace a poskytování skupinových služeb
+  de: ZooKeeper ist ein zentralisierter Dienst zur Verwaltung von Konfigurationsinformationen, zur Namensvergabe, für verteilte Synchronisation und für Gruppendienste
+  es: ZooKeeper es un servicio centralizado para mantener información de configuración, nomenclatura, sincronización distribuida y servicios de grupo
+  fr: ZooKeeper est un service centralisé de gestion des informations de configuration, de nommage, de synchronisation distribuée et de services de groupe
+  id: ZooKeeper adalah layanan terpusat untuk mengelola informasi konfigurasi, penamaan, menyediakan sinkronisasi terdistribusi, dan menyediakan layanan grup
+  it: ZooKeeper è un servizio centralizzato per la gestione delle informazioni di configurazione, la denominazione, la sincronizzazione distribuita e i servizi di gruppo
+  ja: ZooKeeper は、設定情報の管理、名前付け、分散同期の提供、グループサービスの提供を行う集中型サービスです
+  ko: ZooKeeper는 구성 정보 관리, 이름 지정, 분산 동기화 제공 및 그룹 서비스 제공을 위한 중앙 집중형 서비스입니다
+  pl: ZooKeeper to scentralizowana usługa do zarządzania informacjami konfiguracyjnymi, nadawania nazw, zapewniania synchronizacji rozproszonej i świadczenia usług grupowych
+  pt: O ZooKeeper é um serviço centralizado para manter informações de configuração, nomenclatura, sincronização distribuída e serviços de grupo
+  ro: ZooKeeper este un serviciu centralizat pentru menținerea informațiilor de configurare, denumire, furnizarea sincronizării distribuite și a serviciilor de grup
+  ru: ZooKeeper — централизованная служба для хранения конфигурационной информации, наименования, обеспечения распределённой синхронизации и групповых сервисов
+  th: ZooKeeper เป็นบริการแบบรวมศูนย์สำหรับการดูแลข้อมูลการตั้งค่า การตั้งชื่อ การให้บริการซิงโครไนซ์แบบกระจาย และการให้บริการกลุ่ม
+  tr: ZooKeeper, yapılandırma bilgilerini yönetmek, adlandırma sağlamak, dağıtık eşitleme ve grup hizmetleri sunmak için merkezi bir hizmettir
+  uk: ZooKeeper — централізована служба для зберігання конфігураційної інформації, надання імен, розподіленої синхронізації та групових сервісів
+  vi: ZooKeeper là dịch vụ tập trung để duy trì thông tin cấu hình, đặt tên, cung cấp đồng bộ phân tán và cung cấp dịch vụ nhóm
 x:
   source: https://github.com/apache/zookeeper
   brew: zookeeper

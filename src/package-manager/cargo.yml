@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Cargo 是 Rust 包管理器
   en: Cargo is the Rust package manager
+  cs: Cargo je správce balíčků Rustu
+  de: Cargo ist der Paketmanager von Rust
+  es: Cargo es el gestor de paquetes de Rust
+  fr: Cargo est le gestionnaire de paquets de Rust
+  id: Cargo adalah pengelola paket untuk Rust
+  it: Cargo è il gestore di pacchetti di Rust
+  ja: Cargo は Rust のパッケージマネージャーです
+  ko: Cargo는 Rust 패키지 관리자입니다
+  pl: Cargo to menedżer pakietów dla Rust
+  pt: Cargo é o gerenciador de pacotes do Rust
+  ro: Cargo este managerul de pachete pentru Rust
+  ru: Cargo — менеджер пакетов для Rust
+  th: Cargo คือตัวจัดการแพ็กเกจของ Rust
+  tr: Cargo, Rust paket yöneticisidir
+  uk: Cargo — менеджер пакетів для Rust
+  vi: Cargo là trình quản lý gói của Rust
 x:
   source: https://github.com/rust-lang/cargo
 rule:

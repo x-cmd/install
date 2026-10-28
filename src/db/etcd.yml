@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: etcd 是一个具有强一致性的分布式键值存储，提供了一种可靠的方式来存储需要被分布式系统或机器集群访问的数据
   en: etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines
+  cs: etcd je silně konzistentní, distribuované úložiště klíč-hodnota, které poskytuje spolehlivý způsob ukládání dat přístupných distribuovanému systému či clusteru strojů
+  de: etcd ist ein stark konsistenter, verteilter Schlüssel-Wert-Speicher, der eine zuverlässige Möglichkeit bietet, Daten abzulegen, auf die ein verteiltes System oder ein Rechnercluster zugreifen muss
+  es: etcd es un almacén de claves y valores distribuido y fuertemente consistente que ofrece una forma fiable de almacenar datos a los que deben acceder un sistema distribuido o un grupo de máquinas
+  fr: etcd est un magasin de clés-valeurs distribué à forte cohérence qui fournit un moyen fiable de stocker des données accessibles par un système distribué ou un cluster de machines
+  id: etcd adalah penyimpanan kunci-nilai terdistribusi dengan konsistensi kuat yang menyediakan cara andal untuk menyimpan data yang perlu diakses oleh sistem terdistribusi atau klaster mesin
+  it: etcd è un archivio chiave-valore distribuito e fortemente coerente che offre un modo affidabile di archiviare i dati che devono essere accessibili da un sistema distribuito o da un cluster di macchine
+  ja: etcd は強整合性を備えた分散键値ストアで、分散システムや機械クラスタからアクセスが必要なデータを確実に保存する手段を提供します
+  ko: etcd는 강한 일관성을 제공하는 분산 키-값 저장소로, 분산 시스템이나 머신 클러스터에서 접근해야 하는 데이터를 안정적으로 저장할 수 있게 합니다
+  pl: etcd to silnie spójny, rozproszony magazyn klucz-wartość, który zapewnia niezawodny sposób przechowywania danych wymagających dostępu przez system rozproszony lub klaster maszyn
+  pt: O etcd é um armazenamento de chave-valor distribuído e fortemente consistente que oferece uma forma confiável de guardar dados que precisam ser acessados por um sistema distribuído ou um cluster de máquinas
+  ro: etcd este un magazin cheie-valoare distribuit, cu consistență puternică, care oferă o modalitate fiabilă de a stoca date accesibile unui sistem distribuit sau unui cluster de mașini
+  ru: etcd — это сильно согласованное распределённое хранилище ключ-значение, предоставляющее надёжный способ хранить данные, к которым должны обращаться распределённая система или кластер машин
+  th: etcd คือที่เก็บคีย์-ค่าแบบกระจายที่มีความสอดคล้องสูง และเป็นวิธีที่เชื่อถือได้ในการจัดเก็บข้อมูลที่ระบบแบบกระจายหรือคลัสเตอร์ของเครื่องต้องเข้าถึง
+  tr: etcd, dağıtık bir sistem veya makine kümesi tarafından erişilmesi gereken verileri güvenilir biçimde saklamayı sağlayan, güçlü tutarlılığa sahip dağıtık bir anahtar-değer deposudur
+  uk: etcd — це сильно узгоджений розподілений сховище ключ-значення, яке надає надійний спосіб зберігати дані, до яких мають звертатися розподілена система або кластер машин
+  vi: etcd là kho khóa-giá trị phân tán với tính nhất quán mạnh, cung cấp cách đáng tin cậy để lưu dữ liệu cần được truy cập bởi hệ thống phân tán hoặc cụm máy
 x:
   source: https://github.com/etcd-io/etcd
   eget: etcd-io/etcd

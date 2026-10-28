@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在终端中轻松管理 AWS ECS 资源（类似 k9s）
   en: 'E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱'
+  cs: E1S - Snadno spravujte zdroje AWS ECS v terminálu (podobně jako k9s pro ECS) 🐱
+  de: E1S - AWS ECS-Ressourcen ganz einfach im Terminal verwalten (wie k9s für ECS) 🐱
+  es: E1S - Gestiona fácilmente los recursos de AWS ECS en la terminal (~k9s para ECS) 🐱
+  fr: E1S - Gérez facilement les ressources AWS ECS dans le terminal (~k9s pour ECS) 🐱
+  id: E1S - Easily Manage AWS ECS Resources in Terminal (~k9s for ECS) 🐱
+  it: E1S - Gestisci facilmente le risorse AWS ECS da terminale (~k9s per ECS) 🐱
+  ja: E1S - ターミナルで AWS ECS リソースを手軽に管理（ECS 版の k9s）🐱
+  ko: E1S - 터미널에서 AWS ECS 리소스를 손쉽게 관리 (ECS용 k9s) 🐱
+  pl: E1S - Łatwe zarządzanie zasobami AWS ECS w terminalu (jak k9s dla ECS) 🐱
+  pt: E1S - Gerencie facilmente recursos do AWS ECS no terminal (~k9s para ECS) 🐱
+  ro: E1S - Gestionați cu ușurință resursele AWS ECS în terminal (similar cu k9s pentru ECS) 🐱
+  ru: E1S - Простое управление ресурсами AWS ECS в терминале (аналог k9s для ECS) 🐱
+  th: E1S - จัดการทรัพยากร AWS ECS ได้ง่ายในเทอร์มินัล (คล้าย k9s สำหรับ ECS) 🐱
+  tr: E1S - AWS ECS kaynaklarını terminalden kolayca yönetin (ECS için k9s gibi) 🐱
+  uk: E1S - Легке керування ресурсами AWS ECS у терміналі (аналог k9s для ECS) 🐱
+  vi: E1S - Dễ dàng quản lý tài nguyên AWS ECS ngay trong terminal (tương tự k9s cho ECS) 🐱
 x:
   source: https://github.com/keidarcy/e1s
   eget: keidarcy/e1s

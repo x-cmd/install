@@ -4,6 +4,22 @@ license: '0BSD'
 desc:
   cn: UNIX find 命令的广度优先版本
   en: 'A breadth-first version of the UNIX find command'
+  cs: Verze příkazu UNIX find s průchodem do šířky
+  de: Eine Breitensuche-Version des UNIX-Befehls find
+  es: Una versión en anchura del comando UNIX find
+  fr: Une version en largeur de la commande UNIX find
+  id: Versi breadth-first dari perintah UNIX find
+  it: Una versione in larghezza del comando UNIX find
+  ja: UNIX find コマンドの幅優先版
+  ko: UNIX find 명령의 너비 우선 버전
+  pl: Wersja polecenia UNIX find działająca wszerz
+  pt: Uma versão em largura do comando UNIX find
+  ro: O versiune în lățime a comenzii UNIX find
+  ru: Версия команды UNIX find с обходом в ширину
+  th: เวอร์ชันแบบกว้างก่อนของคำสั่ง UNIX find
+  tr: UNIX find komutunun genişlik öncelikli sürümü
+  uk: Версія команди UNIX find з обходом у ширину
+  vi: Phiên bản duyệt theo chiều rộng của lệnh UNIX find
 x:
   source: https://github.com/tavianator/bfs
   eget: tavianator/bfs

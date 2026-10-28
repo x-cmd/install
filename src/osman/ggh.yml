@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 回顾你的 SSH 会话（也可搜索 SSH 配置文件）
   en: 'Recall your SSH sessions (also search your SSH config file)'
+  cs: Vyvolávejte své relace SSH (také hledejte v konfiguračním souboru SSH)
+  de: SSH-Sitzungen abrufen (auch in der SSH-Konfigurationsdatei suchen)
+  es: Recupera tus sesiones SSH (y busca en tu archivo de configuración SSH)
+  fr: Rappelez vos sessions SSH (et recherchez dans votre fichier de configuration SSH)
+  id: Ingat kembali sesi SSH Anda (juga cari di file konfigurasi SSH)
+  it: Richiama le tue sessioni SSH (e cerca anche nel file di configurazione SSH)
+  ja: SSHセッション履歴を検索・再接続（SSH設定ファイルの検索も可能）
+  ko: SSH 세션을 다시 불러오세요 (SSH 설정 파일 검색도 가능)
+  pl: Przypomnij sobie sesje SSH (i przeszukaj plik konfiguracyjny SSH)
+  pt: Revise suas sessões SSH (e também pesquise no seu arquivo de configuração SSH)
+  ro: Reamintiți-vă sesiunile SSH (și căutați în fișierul de configurare SSH)
+  ru: Возвращайтесь к своим SSH-сессиям (и ищите в файле конфигурации SSH)
+  th: เรียกดูเซสชัน SSH ของคุณ (และค้นหาในไฟล์กำหนดค่า SSH)
+  tr: SSH oturumlarınızı hatırlayın (SSH yapılandırma dosyanızda da arayın)
+  uk: Повертайтеся до своїх SSH-сесій (і шукайте у файлі конфігурації SSH)
+  vi: Xem lại các phiên SSH của bạn (cũng có thể tìm trong tệp cấu hình SSH)
 x:
   source: https://github.com/byawitz/ggh
   eget: byawitz/ggh

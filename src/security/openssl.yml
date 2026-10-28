@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: openssl 是目前最流行的 SSL 密码库工具，其提供了一个通用、健壮、功能完备的工具套件
   en: openssl is the most popular SSL cryptographic library tool available today, providing a versatile, robust, and full-featured toolkit
+  cs: openssl je dnes nejpopulárnější nástroj pro kryptografickou knihovnu SSL a poskytuje univerzální, robustní a kompletní sadu nástrojů
+  de: openssl ist das heute beliebteste Werkzeug für SSL-Kryptografiebibliotheken und bietet eine vielseitige, robuste und funktionsreiche Toolkit-Sammlung
+  es: openssl es la herramienta de biblioteca criptográfica SSL más popular del mundo, que ofrece un conjunto de herramientas versátil, robusto y completo
+  fr: openssl est l'outil de bibliothèque cryptographique SSL le plus populaire aujourd'hui, fournissant un ensemble d'outils polyvalent, robuste et complet
+  id: openssl adalah pustaka kriptografi SSL yang paling populer saat ini, menyediakan perangkat perkakas yang serbaguna, kuat, dan lengkap
+  it: openssl è lo strumento per la libreria crittografica SSL più diffuso al giorno d'oggi, offrendo un toolkit versatile, robusto e completo di funzionalità
+  ja: openssl は現在最も使われている SSL 暗号ライブラリツールで、多用途で堅牢なフル-featured なツールキットを提供します
+  ko: openssl는 현재 가장 널리 사용되는 SSL 암호화 라이브러리 도구로, 다목적적이고 견고하며 기능이 완전한 도구 모음을 제공합니다
+  pl: openssl to dziś najpopularniejsze narzędzie dla biblioteki kryptograficznej SSL, oferujące wszechstronny, solidny i bogaty w funkcje zestaw narzędzi
+  pt: openssl é a ferramenta de biblioteca criptográfica SSL mais popular atualmente, oferecendo um conjunto de ferramentas versátil, robusto e completo
+  ro: openssl este cel mai popular instrument pentru bibliotecile criptografice SSL din zilele noastre, oferind un set de instrumente versatile, robuste și complet
+  ru: openssl — самый популярный сегодня инструмент для библиотеки SSL-криптографии, предоставляющий универсальный, надёжный и полнофункциональный набор средств
+  th: openssl คือเครื่องมือไลบรารีเข้ารหัส SSL ที่ได้รับความนิยมมากที่สุดในปัจจุบัน โดยมีชุดเครื่องมือที่ใช้งานได้หลากหลาย มั่นคง และครบถ้วน
+  tr: openssl, bugün en yaygın kullanılan SSL kriptografik kütüphane aracıdır ve çok yönlü, sağlam ve özellikle tam bir araç seti sunar
+  uk: openssl — найпопулярніший сьогодні інструмент для бібліотеки SSL-криптографії, що надає універсальний, надійний і повнофункціональний набір засобів
+  vi: openssl là công cụ thư viện mã hóa SSL phổ biến nhất hiện nay, cung cấp bộ công cụ đa dụng, chắc chắn và đầy đủ tính năng
 x:
   source: https://github.com/openssl/openssl
   eget: openssl/openssl

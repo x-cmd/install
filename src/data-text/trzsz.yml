@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: trzsz 是一种简单的文件传输工具，类似于 lrzsz ( rz / sz )，并且与 tmux 兼容
   en: trzsz is a simple file transfer tools, which similar to lrzsz ( rz / sz ), and compatible with tmux
+  cs: trzsz je jednoduchý nástroj pro přenos souborů, podobný lrzsz (rz / sz), a je kompatibilní s tmux
+  de: trzsz ist ein einfaches Dateiübertragungswerkzeug, ähnlich lrzsz (rz / sz), und kompatibel mit tmux
+  es: trzsz es una sencilla herramienta de transferencia de archivos, similar a lrzsz (rz / sz), y compatible con tmux
+  fr: trzsz est un outil simple de transfert de fichiers, similaire à lrzsz (rz / sz), et compatible avec tmux
+  id: trzsz adalah alat transfer file sederhana mirip lrzsz (rz / sz), dan kompatibel dengan tmux
+  it: trzsz è un semplice strumento di trasferimento file, simile a lrzsz (rz / sz), e compatibile con tmux
+  ja: trzsz は lrzsz (rz / sz) に似たシンプルなファイル転送ツールで、tmux とも互換性があります
+  ko: trzsz는 lrzsz(rz / sz)와 유사한 간단한 파일 전송 도구이며 tmux와 호환됩니다
+  pl: trzsz to proste narzędzie do przesyłania plików, podobne do lrzsz (rz / sz) i kompatybilne z tmux
+  pt: trzsz é uma ferramenta simples de transferência de arquivos, semelhante a lrzsz (rz / sz), e compatível com tmux
+  ro: trzsz este un instrument simplu de transfer de fișiere, similar cu lrzsz (rz / sz), și compatibil cu tmux
+  ru: trzsz — простой инструмент передачи файлов, похожий на lrzsz (rz / sz) и совместимый с tmux
+  th: trzsz เป็นเครื่องมือถ่ายโอนไฟล์อย่างง่าย คล้าย lrzsz (rz / sz) และเข้ากันได้กับ tmux
+  tr: trzsz, lrzsz (rz / sz) benzeri basit bir dosya aktarma aracıdır ve tmux ile uyumludur
+  uk: trzsz — простий інструмент передачі файлів, схожий на lrzsz (rz / sz) та сумісний з tmux
+  vi: trzsz là công cụ truyền tệp đơn giản, tương tự lrzsz (rz / sz) và tương thích với tmux
 x:
   source: https://github.com/trzsz/trzsz
   brew: trzsz

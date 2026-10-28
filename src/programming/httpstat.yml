@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: httpstat 是一个命令行工具，可在终端中以可视化方式显示 `curl` 请求的统计信息。
   en: httpstat is a CLI tool that displays curl request statistics in a visually in the terminal.
+  cs: httpstat je nástroj příkazové řádky, který zobrazuje statistiky požadavků curl vizuálně v terminálu.
+  de: httpstat ist ein Kommandozeilenwerkzeug, das curl-Request-Statistiken visuell im Terminal darstellt.
+  es: httpstat es una herramienta de línea de comandos que muestra visualmente en el terminal las estadísticas de las peticiones de curl.
+  fr: httpstat est un outil en ligne de commande qui affiche visuellement dans le terminal les statistiques des requêtes curl.
+  id: httpstat adalah alat baris perintah yang menampilkan statistik permintaan curl secara visual di terminal.
+  it: httpstat è uno strumento da riga di comando che mostra visivamente nel terminale le statistiche delle richieste curl.
+  ja: httpstat は curl リクエストの統計情報をターミナルに視覚的に表示するコマンドラインツールです。
+  ko: httpstat은 curl 요청 통계를 터미널에 시각적으로 표시하는 명령줄 도구입니다.
+  pl: httpstat to narzędzie wiersza poleceń, które wizualnie wyświetla w terminalu statystyki żądań curl.
+  pt: httpstat é uma ferramenta de linha de comando que exibe visualmente no terminal as estatísticas das requisições curl.
+  ro: httpstat este o unealtă din linia de comandă care afișează vizual în terminal statisticile cererilor curl.
+  ru: httpstat — инструмент командной строки, который визуально отображает в терминале статистику запросов curl.
+  th: httpstat เป็นเครื่องมือบรรทัดคำสั่งที่แสดงสถิติคำขอ curl ในเทอร์มินัลแบบภาพ
+  tr: httpstat, curl istek istatistiklerini terminalde görsel olarak gösteren bir komut satırı aracıdır.
+  uk: httpstat — інструмент командного рядка, який візуально показує в терміналі статистику запитів curl.
+  vi: httpstat là công cụ dòng lệnh hiển thị trực quan thống kê yêu cầu curl trong terminal.
 x:
   source: https://github.com/reorx/httpstat
   eget: reorx/httpstat

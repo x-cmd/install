@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 使用 eBPF (扩展 Berkeley 数据包过滤器) 的网络流量嗅探器。
   en: A network traffic sniffer using eBPF (extended Berkeley Packet Filter).
+  cs: Síťový sniffer provozu paketů založený na eBPF (extended Berkeley Packet Filter).
+  de: Ein Netzwerk-Sniffer auf Basis von eBPF (extended Berkeley Packet Filter).
+  es: Un sniffer de tráfico de red que usa eBPF (extended Berkeley Packet Filter).
+  fr: Un sniffer de trafic réseau utilisant eBPF (extended Berkeley Packet Filter).
+  id: Sniffer lalu lintas jaringan menggunakan eBPF (extended Berkeley Packet Filter).
+  it: Uno sniffer del traffico di rete basato su eBPF (extended Berkeley Packet Filter).
+  ja: eBPF (extended Berkeley Packet Filter) を使用したネットワークトラフィックスニッパー。
+  ko: eBPF(extended Berkeley Packet Filter)를 사용하는 네트워크 트래픽 스니퍼.
+  pl: Sniffer ruchu sieciowego wykorzystujący eBPF (extended Berkeley Packet Filter).
+  pt: Um sniffer de tráfego de rede que usa eBPF (extended Berkeley Packet Filter).
+  ro: Un sniffer de trafic de rețea bazat pe eBPF (extended Berkeley Packet Filter).
+  ru: Сетевой сниффер трафика на основе eBPF (extended Berkeley Packet Filter).
+  th: ตัวดักจับปริมาณข้อมูลเครือข่ายที่ใช้ eBPF (extended Berkeley Packet Filter)
+  tr: eBPF (extended Berkeley Packet Filter) kullanan bir ağ trafiği sniffer'ı.
+  uk: Мережевий снифер трафіку на основі eBPF (extended Berkeley Packet Filter).
+  vi: Trình bắt gói lưu lượng mạng sử dụng eBPF (extended Berkeley Packet Filter).
 x:
   source: https://github.com/pythops/oryx
   yay: oryx

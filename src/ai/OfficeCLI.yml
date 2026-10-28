@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 专为 AI Agent 打造的 Office 套件，可读写自动化 Word、Excel、PowerPoint 文件，免费开源单二进制，无需安装 Office
   en: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...
+  cs: OfficeCLI je první a nejlepší kancelářská sada určená AI agentům pro čtení, úpravu a automatizaci souborů Word, Excel a PowerPoint. Zdarma, open-source, jediný binární soubor, bez nutnosti instalace Office
+  de: OfficeCLI ist die erste und beste Office-Suite, die eigens für KI-Agenten entwickelt wurde, um Word-, Excel- und PowerPoint-Dateien zu lesen, zu bearbeiten und zu automatisieren. Kostenlos, quelloffen, einzelne Binärdatei, keine Office-Installation nötig
+  es: OfficeCLI es la primera y mejor suite de Office creada para agentes de IA que permite leer, editar y automatizar archivos de Word, Excel y PowerPoint. Gratuita, de código abierto, binario único, sin necesidad de instalar Office
+  fr: OfficeCLI est la première et meilleure suite bureautique conçue pour les agents IA afin de lire, modifier et automatiser des fichiers Word, Excel et PowerPoint. Gratuite, open source, binaire unique, aucune installation d'Office requise
+  id: OfficeCLI adalah rangkaian Office pertama dan terbaik yang dirancang khusus untuk agen AI untuk membaca, mengedit, dan mengotomasi file Word, Excel, dan PowerPoint. Gratis, sumber terbuka, satu biner, tanpa perlu instalasi Office
+  it: OfficeCLI è la prima e migliore suite Office progettata per gli agenti AI per leggere, modificare e automatizzare file Word, Excel e PowerPoint. Gratuita, open source, binario singolo, senza necessità di installare Office
+  ja: OfficeCLI は AI エージェント向けに構築された初の最強の Office スイートで、Word、Excel、PowerPoint ファイルの読み取り、編集、自動化に対応します。無料、オープンソース、単一バイナリ、Office のインストール不要
+  ko: OfficeCLI는 AI 에이전트를 위해 설계된 최초이자 최고의 Office 제품군으로, Word, Excel, PowerPoint 파일을 읽고, 편집하고, 자동화합니다. 무료, 오픈소스, 단일 바이너리, Office 설치 불필요
+  pl: OfficeCLI to pierwsza i najlepsza pakiet biurowy stworzony z myślą o agentach AI, umożliwiający czytanie, edycję i automatyzację plików Word, Excel i PowerPoint. Bezpłatny, open source, pojedynczy plik binarny, bez konieczności instalacji Office
+  pt: O OfficeCLI é a primeira e melhor suíte do Office criada para agentes de IA lerem, editarem e automatizarem arquivos do Word, Excel e PowerPoint. Gratuita, de código aberto, binário único, sem necessidade de instalar o Office
+  ro: OfficeCLI este prima și cea mai bună suită Office concepută pentru agenți AI, pentru a citi, edita și automatiza fișiere Word, Excel și PowerPoint. Gratuită, open source, binar unică, fără instalarea Office
+  ru: OfficeCLI — первый и лучший офисный пакет, созданный специально для ИИ-агентов, чтобы читать, редактировать и автоматизировать файлы Word, Excel и PowerPoint. Бесплатно, открытый исходный код, один бинарный файл, установка Office не требуется
+  th: OfficeCLI คือชุดโปรแกรมสำนักงานชุดแรกและดีที่สุดที่สร้างมาเพื่อเอเจนต์ AI โดยเฉพาะ เพื่ออ่าน แก้ไข และทำให้ไฟล์ Word, Excel และ PowerPoint อัตโนมัติ ฟรี เปิดต้นทาง ไบนารีไฟล์เดียว ไม่ต้องติดตั้ง Office
+  tr: OfficeCLI, Word, Excel ve PowerPoint dosyalarını okumak, düzenlemek ve otomatikleştirmek için yapay zeka ajanlarına özel geliştirilmiş ilk ve en iyi Office paketidir. Ücretsiz, açık kaynak, tek ikili dosya, Office kurulumu gerekmez
+  uk: OfficeCLI — перший і найкращий офісний пакет, створений спеціально для ІІ-агентів, щоб читати, редагувати та автоматизувати файли Word, Excel і PowerPoint. Безкоштовний, з відкритим кодом, один бінарний файл, встановлення Office не потрібне
+  vi: OfficeCLI là bộ ứng dụng văn phòng đầu tiên và tốt nhất được xây dựng riêng cho các agent AI để đọc, chỉnh sửa và tự động hóa các tệp Word, Excel và PowerPoint. Miễn phí, mã nguồn mở, một tệp nhị phân, không cần cài đặt Office
 x:
   source: https://github.com/iOfficeAI/OfficeCLI
   eget: iOfficeAI/OfficeCLI

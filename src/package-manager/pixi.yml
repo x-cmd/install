@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: pixi 是一个建立在 conda 生态系统基础上的跨平台、多语言包管理器和工作流工具。
   en: pixi is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem
+  cs: pixi je multiplatformní, vícejazyčný správce balíčků a nástroj pro pracovní postupy založený na ekosystému conda
+  de: pixi ist ein plattformübergreifender, mehrsprachiger Paketmanager und Workflow-Tool auf Basis des conda-Ökosystems
+  es: pixi es un gestor de paquetes multiplataforma y multilingüe y una herramienta de flujos de trabajo construida sobre el ecosistema conda
+  fr: pixi est un gestionnaire de paquets multplateforme et multilingue, ainsi qu'un outil de workflow fondé sur l'écosystème conda
+  id: pixi adalah pengelola paket lintas platform dan multi-bahasa serta alat alur kerja yang dibangun di atas ekosistem conda
+  it: pixi è un gestore di pacchetti multipiattaforma e multilingue e uno strumento di workflow basato sull'ecosistema conda
+  ja: pixi は conda エコシステムを基盤とするクロスプラットフォームの多言語パッケージマネージャー兼ワークフローツールです
+  ko: pixi는 conda 생태계를 기반으로 구축된 크로스 플랫폼 다국어 패키지 관리자이자 워크플로 도구입니다
+  pl: pixi to wieloplatformowy, wielojęzyczny menedżer pakietów i narzędzie do przepływów pracy oparte na ekosystemie conda
+  pt: pixi é um gerenciador de pacotes multiplataforma e multilíngue e uma ferramenta de fluxo de trabalho construída sobre o ecossistema conda
+  ro: pixi este un manager de pachete multiplatformă și multilingvă, precum și un instrument de flux de lucru construit pe ecosistemul conda
+  ru: pixi — кроссплатформенный многоязычный менеджер пакетов и инструмент рабочих процессов, построенный на основе экосистемы conda
+  th: pixi คือตัวจัดการแพ็กเกจข้ามแพลตฟอร์มและหลายภาษา รวมถึงเครื่องมือเวิร์กโฟลว์ที่สร้างบนพื้นฐานของระบบนิเวศ conda
+  tr: pixi, conda ekosistemu üzerine kurulmuş çok platformlu, çok dilli bir paket yöneticisi ve iş akışı aracıdır
+  uk: pixi — кросплатформний багатомовний менеджер пакуватів та інструмент робочих процесів, побудований на основі екосистеми conda
+  vi: pixi là trình quản lý gói đa nền tảng, đa ngôn ngữ và công cụ quy trình làm việc được xây dựng trên nền tảng hệ sinh thái conda
 x:
   source: https://github.com/prefix-dev/pixi
   eget: prefix-dev/pixi

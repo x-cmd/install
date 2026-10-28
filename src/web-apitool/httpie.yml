@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: httpie - 命令行 HTTP 客户端，用户友好的 cURL 替代品
   en: HTTPie is making APIs simple and intuitive for those building the tools of our time
+  cs: HTTPie dělá API jednoduchými a intuitivními pro ty, kteří staví nástroje naší doby
+  de: HTTPie macht APIs für diejenigen einfach und intuitiv, die die Werkzeuge unserer Zeit bauen
+  es: HTTPie hace que las API sean sencillas e intuitivas para quienes construyen las herramientas de nuestro tiempo
+  fr: HTTPie rend les API simples et intuitives pour ceux qui construisent les outils de notre époque
+  id: HTTPie membuat API menjadi sederhana dan intuitif bagi para pembuat alat di era kami
+  it: HTTPie rende le API semplici e intuitive per chi costruisce gli strumenti dei nostri tempi
+  ja: HTTPie は、現代のツールを作る人々にとって API をシンプルで直感的なものにします
+  ko: HTTPie는 우리 시대의 도구를 만드는 사람들에게 API를 단순하고 직관적으로 만들어 줍니다
+  pl: HTTPie sprawia, że API są proste i intuicyjne dla tych, którzy tworzą narzędzia naszych czasów
+  pt: O HTTPie torna as APIs simples e intuitivas para quem constrói as ferramentas do nosso tempo
+  ro: HTTPie face API-urile simple și intuitive pentru cei care construiesc instrumentele vremii noastre
+  ru: HTTPie делает API простыми и интуитивно понятными для тех, кто создаёт инструменты нашего времени
+  th: HTTPie ทำให้ API เรียบง่ายและใช้งานง่ายสำหรับผู้สร้างเครื่องมือในยุคของเรา
+  tr: HTTPie, çağımızın araçlarını geliştirenler için API'leri basit ve sezgisel hale getirir
+  uk: HTTPie робить API простими та інтуїтивними для тих, хто створює інструменти нашого часу
+  vi: HTTPie giúp các API trở nên đơn giản và trực quan cho những người xây dựng công cụ thời đại ngày
 x:
   source: https://github.com/httpie/cli
   apt: httpie

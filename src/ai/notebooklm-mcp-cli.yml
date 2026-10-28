@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 通过命令行、MCP 服务器和 AI Agent 技能以编程方式访问 Google NotebookLM
   en: Programmatic access to Google NotebookLM — via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.
+  cs: Programový přístup k Google NotebookLM – přes rozhraní příkazové řádky (CLI), server Model Context Protocol (MCP) a dovednosti AI agentů.
+  de: Programmatischer Zugriff auf Google NotebookLM – über die Kommandozeile (CLI), einen Model Context Protocol (MCP)-Server und KI-Agent-Skills.
+  es: "Acceso programático a Google NotebookLM: mediante interfaz de línea de comandos (CLI), servidor Model Context Protocol (MCP) y habilidades de agentes de IA."
+  fr: Accès programmatique à Google NotebookLM — via l'interface en ligne de commande (CLI), un serveur Model Context Protocol (MCP) et des compétences d'agents IA.
+  id: Akses terprogram ke Google NotebookLM — melalui antarmuka baris perintah (CLI), server Model Context Protocol (MCP), dan skill agen AI.
+  it: Accesso programmatico a Google NotebookLM — tramite interfaccia a riga di comando (CLI), server Model Context Protocol (MCP) e skill degli agenti IA.
+  ja: Google NotebookLMへのプログラムアクセス — コマンドラインインターフェース（CLI）、Model Context Protocol（MCP）サーバー、AIエージェントスキル経由。
+  ko: Google NotebookLM에 대한 프로그래밍 방식 접근 — 명령줄 인터페이스(CLI), Model Context Protocol(MCP) 서버, AI 에이전트 스킬을 통해 제공됩니다.
+  pl: Programistyczny dostęp do Google NotebookLM — przez interfejs wiersza poleceń (CLI), serwer Model Context Protocol (MCP) i umiejętności agentów AI.
+  pt: Acesso programático ao Google NotebookLM — via interface de linha de comando (CLI), servidor Model Context Protocol (MCP) e habilidades de agentes de IA.
+  ro: Acces programatic la Google NotebookLM — prin interfața de linie de comandă (CLI), un server Model Context Protocol (MCP) și skill-uri de agenți AI.
+  ru: Программный доступ к Google NotebookLM — через интерфейс командной строки (CLI), сервер Model Context Protocol (MCP) и навыки ИИ-агентов.
+  th: เข้าถึง Google NotebookLM ด้วยการเขียนโปรแกรม — ผ่านอินเทอร์เฟซบรรทัดคำสั่ง (CLI) เซิร์ฟเวอร์ Model Context Protocol (MCP) และทักษะของเอเจนต์ AI
+  tr: Google NotebookLM'e programatik erişim — komut satırı arayüzü (CLI), Model Context Protocol (MCP) sunucusu ve yapay zeka ajanı becerileri aracılığıyla.
+  uk: Програмний доступ до Google NotebookLM — через інтерфейс командного рядка (CLI), сервер Model Context Protocol (MCP) та навички ШІ-агентів.
+  vi: Truy cập Google NotebookLM theo lập trình — qua giao diện dòng lệnh (CLI), máy chủ Model Context Protocol (MCP) và các kỹ năng của agent AI.
 x:
   source: https://github.com/jacob-bd/notebooklm-mcp-cli
   eget: jacob-bd/notebooklm-mcp-cli

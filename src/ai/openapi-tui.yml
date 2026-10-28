@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于列出、浏览和运行 OpenAPI v3.0 和 v3.1 规范定义的 API 的终端 UI
   en: Terminal UI to list, browse and run APIs defined with OpenAPI v3.0 and v3.1 spec
+  cs: Terminálové UI pro výpis, prohlížení a spouštění API definovaných specifikací OpenAPI v3.0 a v3.1
+  de: Terminal-UI zum Auflisten, Durchsuchen und Ausführen von APIs, die mit OpenAPI v3.0 und v3.1 spezifiziert sind
+  es: Interfaz de terminal para listar, explorar y ejecutar API definidas con las especificaciones OpenAPI v3.0 y v3.1
+  fr: Une interface terminal pour lister, parcourir et exécuter les API définies par les spécifications OpenAPI v3.0 et v3.1
+  id: UI terminal untuk mencantumkan, menelusuri, dan menjalankan API yang didefinisikan dengan spesifikasi OpenAPI v3.0 dan v3.1
+  it: UI da terminale per elencare, sfogliare ed eseguire API definite dalle specifiche OpenAPI v3.0 e v3.1
+  ja: OpenAPI v3.0 および v3.1 仕様で定義された API を一覧・閲覧・実行するターミナル UI
+  ko: OpenAPI v3.0 및 v3.1 스펙으로 정의된 API를 나열, 탐색, 실행하는 터미널 UI
+  pl: Terminalowy interfejs do listowania, przeglądania i uruchamiania API zdefiniowanych w specyfikacji OpenAPI v3.0 i v3.1
+  pt: Interface de terminal para listar, navegar e executar APIs definidas pelas especificações OpenAPI v3.0 e v3.1
+  ro: Interfață de terminal pentru listarea, navigarea și rularea API-urilor definite prin specificațiile OpenAPI v3.0 și v3.1
+  ru: Терминальный интерфейс для просмотра, изучения и запуска API, описанных спецификациями OpenAPI v3.0 и v3.1
+  th: UI เทอร์มินัลสำหรับแสดงรายการ เรียกดู และรัน API ที่กำหนดด้วยสเปก OpenAPI v3.0 และ v3.1
+  tr: OpenAPI v3.0 ve v3.1 spesifikasyonuyla tanımlanan API'leri listelemek, gezmek ve çalıştırmak için terminal arayüzü
+  uk: Термінальний інтерфейс для перегляду, вивчення та запуску API, описаних специфікаціями OpenAPI v3.0 і v3.1
+  vi: Giao diện terminal để liệt kê, duyệt và chạy các API được định nghĩa theo đặc tả OpenAPI v3.0 và v3.1
 x:
   source: https://github.com/zaghaghi/openapi-tui
   eget: zaghaghi/openapi-tui

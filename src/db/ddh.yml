@@ -3,6 +3,22 @@ homepage: https://github.com/darakian/ddh
 desc:
   cn: DDH  是一个快速的重复文件查找器
   en: DDH is a fast duplicate file finder
+  cs: DDH je rychlý nástroj na hledání duplicitních souborů
+  de: DDH ist ein schneller Datei-Duplikat-Sucher
+  es: DDH es un buscador rápido de archivos duplicados
+  fr: DDH est un détecteur rapide de fichiers en double
+  id: DDH adalahalat pencarian cepat untuk file duplikat
+  it: DDH è un rapido strumento di ricerca dei file duplicati
+  ja: DDH は高速な重複ファイル検索ツールです
+  ko: DDH은 빠른 중복 파일 탐색 도구입니다
+  pl: DDH to szybkie narzędzie do wyszukiwania duplikatów plików
+  pt: O DDH é um localizador rápido de arquivos duplicados
+  ro: DDH este un instrument rapid de găsire a fișierelor duplicate
+  ru: DDH — это быстрый инструмент поиска дублирующихся файлов
+  th: DDH เป็นเครื่องมือค้นหาไฟล์ซ้ำอย่างรวดเร็ว
+  tr: DDH, yinelenen dosyaları bulan hızlı bir araçtır
+  uk: DDH — це швидкий інструмент пошуку дублікатів файлів
+  vi: DDH là công cụ tìm kiếm tệp trùng lặp nhanh chóng
 x:
   source: https://github.com/darakian/ddh
   eget: darakian/ddh

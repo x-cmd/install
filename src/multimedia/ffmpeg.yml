@@ -2,6 +2,22 @@ homepage: https://github.com/FFmpeg/FFmpeg
 desc:
   cn: ffmpeg 是用于处理音频、视频、字幕和相关元数据等多媒体内容的库和工具的集合
   en: ffmpeg is a collection of libraries and tools for working with multimedia content such as audio, video, subtitles, and related metadata
+  cs: ffmpeg je sada knihoven a nástrojů pro práci s multimediálním obsahem, jako je zvuk, video, titulky a související metadata
+  de: ffmpeg ist eine Sammlung von Bibliotheken und Werkzeugen für die Arbeit mit Multimedia-Inhalten wie Audio, Video, Untertiteln und zugehörigen Metadaten
+  es: ffmpeg es un conjunto de bibliotecas y herramientas para trabajar con contenido multimedia como audio, vídeo, subtítulos y metadatos relacionados
+  fr: ffmpeg est un ensemble de bibliothèques et d'outils pour travailler avec des contenus multimédias tels que l'audio, la vidéo, les sous-titres et les métadonnées associées
+  id: ffmpeg adalah kumpulan pustaka dan alat untuk bekerja dengan konten multimedia seperti audio, video, subtitel, dan metadata terkait
+  it: ffmpeg è un insieme di librerie e strumenti per lavorare con contenuti multimediali come audio, video, sottotitoli e metadati correlati
+  ja: ffmpeg はオーディオ、字幕、字幕 以及 関連メタデータなどのマルチメディアコンテンツを扱うためのライブラリとツールの集合です
+  ko: ffmpeg는 오디오, 비디오, 자막 및 관련 메타데이터와 같은 멀티미디어 콘텐츠를 다루기 위한 라이브러리와 도구 모음입니다
+  pl: ffmpeg to zestaw bibliotek i narzędzi do pracy z treściami multimedialnymi, takimi jak dźwięk, wideo, napisy i powiązane metadane
+  pt: ffmpeg é um conjunto de bibliotecas e ferramentas para trabalhar com conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados
+  ro: ffmpeg este o colecție de biblioteci și instrumente pentru lucrul cu conținut multimedia precum audio, video, subtitrare și metadate asociate
+  ru: ffmpeg — набор библиотек и инструментов для работы с мультимедийным содержимым, таким как аудио, видео, субтитры и связанные метаданные
+  th: ffmpeg คือชุดของไลบรารีและเครื่องมือสำหรับทำงานกับเนื้อหามัลติมีเดีย เช่น เสียง วิดีโอ คำบรรยาย และข้อมูลเมทาดาที่เกี่ยวข้อง
+  tr: ffmpeg, ses, video, altyazı ve ilgili meta veriler gibi multimedya içeriğiyle çalışmak için bir kütüphane ve araç koleksiyonudur
+  uk: ffmpeg — набір бібліотек та інструментів для роботи з мультимедійним вмістом, таким як аудіо, відео, субтитри та пов'язані метадані
+  vi: ffmpeg là tập hợp các thư viện và công cụ để làm việc với nội dung đa phương tiện như âm thanh, video, phụ đề và siêu dữ liệu liên quan
 lang: C
 x:
   source: https://github.com/FFmpeg/FFmpeg

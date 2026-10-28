@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Python 编写的 Mastodon TUI 客户端
   en: 'A TUI client for mastodon written in python'
+  cs: Klient TUI pro Mastodon napsaný v Pythonu
+  de: Ein in Python geschriebener TUI-Client für Mastodon
+  es: Un cliente TUI para Mastodon escrito en Python
+  fr: Un client TUI pour Mastodon écrit en Python
+  id: Klien TUI untuk Mastodon yang ditulis dengan Python
+  it: Un client TUI per Mastodon scritto in Python
+  ja: Python で書かれた Mastodon の TUI クライアント
+  ko: Python으로 작성된 Mastodon TUI 클라이언트
+  pl: Klient TUI dla Mastodona napisany w Pythonie
+  pt: Um cliente TUI para Mastodon escrito em Python
+  ro: Un client TUI pentru Mastodon scris în Python
+  ru: TUI-клиент для Mastodon, написанный на Python
+  th: ไคลเอนต์ TUI สำหรับ Mastodon ที่เขียนด้วย Python
+  tr: Python ile yazılmış Mastodon için bir TUI istemcisi
+  uk: TUI-клієнт для Mastodon, написаний на Python
+  vi: Ứng dụng khách TUI cho Mastodon viết bằng Python
 x:
   source: https://github.com/kimusan/mastui
   eget: kimusan/mastui

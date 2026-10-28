@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 键盘练手 TUI 工具
   en: 'Smassh your Keyboard, TUI Edition'
+  cs: Nástroj TUI pro trénink klávesnice Smassh
+  de: Smassh deine Tastatur, TUI-Ausgabe
+  es: Smassh tu teclado, versión TUI
+  fr: Smassh votre clavier, édition TUI
+  id: Smassh keyboard Anda, edisi TUI
+  it: Smassh la tua tastiera, edizione TUI
+  ja: キーボードを叩く練習をする TUI ツール、Smassh。
+  ko: 키보드를 두드리는 TUI 도구, Smassh.
+  pl: Smassh twoją klawiaturę, wersja TUI
+  pt: Smassh seu teclado, edição TUI
+  ro: Smassh-uri tastatura, ediție TUI
+  ru: Smassh — тренировка набора на клавиатуре в терминале (TUI).
+  th: Smassh แป้นพิมพ์ของคุณ เวอร์ชัน TUI
+  tr: Smassh klavyeniz, TUI sürümü
+  uk: Smassh — тренування набору на клавіатурі в терміналі (TUI).
+  vi: Smassh bàn phím của bạn, phiên bản TUI
 x:
   source: https://github.com/kraanzu/smassh
   eget: kraanzu/smassh

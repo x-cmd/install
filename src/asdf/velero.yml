@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Velero 是安全备份和恢复，执行灾难恢复和迁移 Kubernetes 集群资源和持续量的开源工具
   en: Velero is an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes
+  cs: Velero je open source nástroj pro bezpečné zálohování a obnovu, obnovení po katastrofách a migraci zdrojů clusteru Kubernetes a trvalých svazků
+  de: Velero ist ein Open-Source-Tool zum sicheren Sichern und Wiederherstellen, für Katastrophenschutz und zum Migrieren von Kubernetes-Cluster-Ressourcen und persistenten Volumes
+  es: Velero es una herramienta de código abierto para realizar copias de seguridad y restauraciones seguras, recuperación ante desastres y migrar recursos de clústeres de Kubernetes y volúmenes persistentes
+  fr: Velero est un outil open source pour sauvegarder et restaurer en toute sécurité, effectuer une reprise après sinistre et migrer les ressources de clusters Kubernetes et les volumes persistants
+  id: Velero adalah alat sumber terbuka untuk mencadangkan dan memulihkan dengan aman, melakukan pemulihan bencana, dan memigrasi sumber daya klaster Kubernetes serta volume persisten
+  it: Velero è uno strumento open source per eseguire backup e ripristini in modo sicuro, il disaster recovery e la migrazione delle risorse dei cluster Kubernetes e dei volumi persistenti
+  ja: Velero は Kubernetes クラスターリソースと永続ボリュームを安全にバックアップ・復元し、災害復旧と移行を行うためのオープンソースツールです
+  ko: Velero는 Kubernetes 클러스터 리소스와 영구 볼륨을 안전하게 백업하고 복원하며, 재해 복구와 마이그레이션을 수행하는 오픈 소스 도구입니다
+  pl: Velero to narzędzie open source do bezpiecznego tworzenia kopii zapasowych i przywracania, odtwarzania po awariach oraz migrowania zasobów klastrów Kubernetes i woluminów trwałych
+  pt: O Velero é uma ferramenta de código aberto para fazer backup e restauração com segurança, recuperação de desastres e migração de recursos de clusters do Kubernetes e volumes persistentes
+  ro: Velero este un instrument open source pentru backup și restaurare sigure, recuperare în caz de dezastre și migrarea resurselor clusterelor Kubernetes și a volumelor persistente
+  ru: Velero — инструмент с открытым исходным кодом для безопасного резервного копирования и восстановления, аварийного восстановления и миграции ресурсов кластеров Kubernetes и постоянных томов
+  th: Velero เป็นเครื่องมือโอเพนซอร์สสำหรับสำรองและกู้คืนข้อมูลอย่างปลอดภัย ทำการกู้คืนภัยพิบัติ และย้ายทรัพยากรของคลัสเตอร์ Kubernetes กับโวลุ่มแบบถาวร
+  tr: Velero, Kubernetes küme kaynaklarını ve kalıcı birimleri güvenle yedeklemek ve geri yüklemek, felaket kurtarma yapmak ve taşımak için açık kaynaklı bir araçtır
+  uk: Velero — інструмент з відкритим кодом для безпечного резервного копіювання та відновлення, аварійного відновлення та міграції ресурсів кластерів Kubernetes і постійних томів
+  vi: Velero là công cụ mã nguồn mở để sao lưu và khôi phục an toàn, thực hiện phục hồi thảm họa và di chuyển tài nguyên cụm Kubernetes cùng các ổ đĩa bền
 x:
   source: https://github.com/vmware-tanzu/velero
   eget: vmware-tanzu/velero

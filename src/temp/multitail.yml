@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: MultiTail 允许您在终端的多个窗口中监视日志文件和命令输出、着色、过滤和合并
   en: MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
+  cs: MultiTail vám umožňuje sledovat soubory protokolů a výstup příkazů v více oknech terminálu, barevně je zvýrazňovat, filtrovat a slučovat
+  de: MultiTail ermöglicht es Ihnen, Protokolldateien und Befehlsausgaben in mehreren Terminalfenstern zu überwachen, einzufärben, zu filtern und zusammenzuführen
+  es: MultiTail le permite supervisar archivos de registro y salida de comandos en varias ventanas de una terminal, colorearlos, filtrarlos y combinarlos
+  fr: MultiTail vous permet de surveiller les fichiers journaux et la sortie des commandes dans plusieurs fenêtres de terminal, de les colorer, de les filtrer et de les fusionner
+  id: MultiTail memungkinkan Anda memantau berkas log dan keluaran perintah di beberapa jendela terminal, mewarnai, memfilter, dan menggabungkannya
+  it: MultiTail consente di monitorare file di log e output dei comandi in più finestre di terminale, colorarli, filtrarli e unirli
+  ja: MultiTail は、端末の複数ウィンドウでログファイルとコマンド出力を監視し、色付け、フィルタリング、マージできます
+  ko: MultiTail은 터미널의 여러 창에서 로그 파일과 명령 출력을 모니터링하고 색칠하며 필터링하고 병합할 수 있습니다
+  pl: MultiTail umożliwia monitorowanie plików dzienników i wyjścia poleceń w wielu oknach terminala, ich kolorowanie, filtrowanie i scalanie
+  pt: O MultiTail permite monitorar arquivos de log e saída de comandos em várias janelas de terminal, colori-los, filtrá-los e combiná-los
+  ro: MultiTail vă permite să monitorizați fișierele jurnal și ieșirea comenzilor în mai multe ferestre de terminal, să le colorați, filtrați și combina
+  ru: MultiTail позволяет отслеживать файлы журналов и вывод команд в нескольких окнах терминала, раскрашивать, фильтровать и объединять их
+  th: MultiTail ให้คุณตรวจสอบไฟล์บันทึกและผลลัพธ์คำสั่งในหลายหน้าต่างเทอร์มินัล พร้อมทั้งใส่สี กรอง และรวมเข้าด้วยกัน
+  tr: MultiTail, terminalde birden fazla pencerede günlük dosyalarını ve komut çıktılarını izlemenizi, renklendirmenizi, filtrelemenizi ve birleştirmenizi sağlar
+  uk: MultiTail дозволяє відстежувати файли журналів і вивід команд у кількох вікнах термінала, підсвічувати, фільтрувати та об'єднувати їх
+  vi: MultiTail cho phép bạn theo dõi tệp nhật ký và đầu ra lệnh trong nhiều cửa sổ terminal, tô màu, lọc và hợp nhất chúng
 x:
   source: https://github.com/folkertvanheusden/multitail
   apt: multitail

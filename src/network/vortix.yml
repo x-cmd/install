@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: WireGuard 与 OpenVPN 的终端 UI，含实时遥测与防泄漏
   en: 'Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.'
+  cs: Terminálové UI pro WireGuard a OpenVPN s telemetrií v reálném čase a ochranou proti úniku dat.
+  de: Terminal-UI für WireGuard und OpenVPN mit Echtzeit-Telemetrie und Schutz vor Datenlecks.
+  es: Interfaz de terminal para WireGuard y OpenVPN con telemetría en tiempo real y protección contra fugas.
+  fr: Interface terminal pour WireGuard et OpenVPN avec télémétrie en temps réel et protection contre les fuites.
+  id: UI terminal untuk WireGuard dan OpenVPN dengan telemetri waktu nyata dan guarding kebocoran.
+  it: Interfaccia a terminale per WireGuard e OpenVPN con telemetria in tempo reale e protezione dalle perdite.
+  ja: WireGuard と OpenVPN 向けのターミナル UI。リアルタイムテレメトリと漏洩防止 functionalities を備えます。
+  ko: WireGuard와 OpenVPN을 위한 터미널 UI로, 실시간 텔레메트리와 누출 방지를 지원합니다.
+  pl: Terminalowy interfejs dla WireGuard i OpenVPN z telemetrią w czasie rzeczywistym i ochroną przed wyciekami.
+  pt: Interface de terminal para WireGuard e OpenVPN com telemetria em tempo real e proteção contra vazamentos.
+  ro: Interfață de terminal pentru WireGuard și OpenVPN cu telemetrie în timp real și protecție împotriva scurgerilor.
+  ru: Терминальный интерфейс для WireGuard и OpenVPN с телеметрией в реальном времени и защитой от утечек.
+  th: UI เทอร์มินัลสำหรับ WireGuard และ OpenVPN พร้อมเทเลเมตรีแบบเรียลไทม์และการป้องกันการรั่วไหล
+  tr: Gerçek zamanlı telemetri ve sızıntı korumasıyla WireGuard ve OpenVPN için terminal arayüzü.
+  uk: Термінальний інтерфейс для WireGuard та OpenVPN із телеметрією в реальному часі та захистом від витоку.
+  vi: Giao diện terminal cho WireGuard và OpenVPN với telemetri thời gian thực và bảo vệ chống rò rỉ
 x:
   source: https://github.com/Harry-kp/vortix
   eget: Harry-kp/vortix

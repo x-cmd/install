@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 把 n8n 全量节点库（816 核心 + 1029 社区）、操作、2352 个模板与工作流管理 API 暴露给 AI 助手的 MCP 服务器，支持检索、校验、生成和部署 n8n 工作流。
   en: MCP server that exposes n8n's full node library (816 core + 1029 community), operations, 2352 templates, and workflow management API to AI assistants for searching, validating, generating, and deploying n8n workflows.
+  cs: MCP server, který vystavuje AI asistentům celou knihovnu uzlů n8n (816 základních + 1029 komunitních), operace, 2352 šablon a API pro správu pracovních postupů, a umožňuje je vyhledávat, validovat, generovat a nasazovat.
+  de: MCP-Server, der AI-Assistenten die vollständige n8n-Knotenbibliothek (816 Kern- + 1029 Community-Knoten), Operationen, 2352 Vorlagen und die Workflow-Verwaltungs-API bereitstellt – zum Suchen, Validieren, Erzeugen und Deployen von n8n-Workflows.
+  es: Servidor MCP que expone a los asistentes de IA la biblioteca completa de nodos de n8n (816 nativos + 1029 de la comunidad), las operaciones, 2352 plantillas y la API de gestión de flujos de trabajo, para buscar, validar, generar y desplegar flujos de n8n.
+  fr: Serveur MCP qui expose aux assistants IA la bibliothèque complète de nœuds n8n (816 natifs + 1029 communautaires), les opérations, 2352 modèles et l'API de gestion des workflows, pour rechercher, valider, générer et déployer des workflows n8n.
+  id: Server MCP yang mengeksposakan seluruh pustaka node n8n (816 inti + 1029 komunitas), operasi, 2352 templat, dan API manajemen workflow kepada asisten AI untuk mencari, memvalidasi, membuat, dan-deployment workflow n8n.
+  it: Server MCP che espone agli assistenti IA l'intera libreria di nodi n8n (816 core + 1029 community), le operazioni, 2352 modelli e l'API di gestione dei workflow, per cercare, convalidare, generare e distribuire workflow n8n.
+  ja: n8nの完全なノードライブラリ（コア816 + コミュニティ1029）、操作、2352のテンプレート、ワークフロー管理APIをAIアシスタントに公開し、n8nワークフローの検索・検証・生成・デプロイを可能にするMCPサーバーです。
+  ko: AI 어시스턴트에 n8n의 전체 노드 라이브러리(코어 816개 + 커뮤니티 1029개), 작업, 템플릿 2352개, 워크플로 관리 API를 노출하여 n8n 워크플로를 검색, 검증, 생성, 배포할 수 있게 하는 MCP 서버입니다.
+  pl: Serwer MCP, który udostępnia asystentom AI pełną bibliotekę węzłów n8n (816 podstawowych + 1029 społecznościowych), operacje, 2352 szablony oraz API zarządzania przepływami pracy, umożliwiając wyszukiwanie, walidowanie, generowanie i wdrażanie przepływów n8n.
+  pt: Servidor MCP que expõe aos assistentes de IA a biblioteca completa de nós do n8n (816 principais + 1029 da comunidade), as operações, 2352 modelos e a API de gerenciamento de workflows, para pesquisar, validar, gerar e implantar workflows do n8n.
+  ro: Server MCP care expune asistentelor AI întreaga bibliotecă de noduri n8n (816 de bază + 1029 din comunitate), operațiunile, 2352 de șabloane și API-ul de management al fluxurilor de lucru, pentru căutarea, validarea, generarea și publicarea fluxurilor n8n.
+  ru: MCP-сервер, который предоставляет ИИ-ассистентам полную библиотеку узлов n8n (816 базовых + 1029 пользовательских), операции, 2352 шаблона и API управления рабочими процессами для поиска, проверки, генерации и развёртывания рабочих процессов n8n.
+  th: เซิร์ฟเวอร์ MCP ที่เปิดเผยไลบรารีโหนด n8n ทั้งหมด (816 หลัก + 1029 ชุมชน) การดำเนินการ เทมเพลต 2352 รายการ และ API การจัดการเวิร์กโฟลว์ ให้ผู้ช่วย AI เพื่อค้นหา ตรวจสอบ สร้าง และปรับใช้เวิร์กโฟลว์ n8n
+  tr: n8n'in tam düğüm kitaplığını (816 çekirdek + 1029 topluluk), operasyonlarını, 2352 şablonunu ve iş akışı yönetim API'sini AI asistanlara açarak n8n iş akışlarını arama, doğrulama, oluşturma ve dağıtma imkânı sunan MCP sunucusu.
+  uk: MCP-сервер, який надає ШІ-асистентам повну бібліотеку вузлів n8n (816 базових + 1029 користувацьких), операції, 2352 шаблони та API керування робочими процесами для пошуку, перевірки, генерації та розгортання робочих процесів n8n.
+  vi: MCP server cung cấp cho các trợ lý AI toàn bộ thư viện node n8n (816 lõi + 1029 cộng đồng), các thao tác, 2352 mẫu và API quản lý workflow, để tìm kiếm, kiểm tra, tạo và triển khai workflow n8n.
 x:
   source: https://github.com/czlonkowski/n8n-mcp
 rule:

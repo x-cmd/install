@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: dnsglobe is a TUI that checks DNS record propagation across 34 public resolvers worldwide, with NSID, EDNS Client Subnet, watch mode, and a world map / spinning globe in the terminal.
   cn: dnsglobe 是 TUI DNS 传播检查器：并行查询 34 个公共 DNS 解析器，支持 NSID、EDNS Client Subnet、watch 模式，并在终端里展示世界地图/旋转地球。
+  cs: dnsglobe je TUI, které kontroluje šíření DNS záznamů na 34 veřejných resolverech po celém světě, s podporou NSID, EDNS Client Subnet, režimu sledování a mapy světa / rotujícího glóbu v terminálu.
+  de: dnsglobe ist eine TUI, die die Verbreitung von DNS-Einträgen über 34 öffentliche Resolver weltweit prüft, mit NSID, EDNS Client Subnet, Beobachtungsmodus und einer Weltkarte / rotierendem Globus im Terminal.
+  es: dnsglobe es una TUI que comprueba la propagación de registros DNS en 34 resolvers públicos de todo el mundo, con NSID, EDNS Client Subnet, modo de vigilancia y un mapa del mundo / globo giratorio en la terminal.
+  fr: dnsglobe est une TUI qui vérifie la propagation des enregistrements DNS sur 34 résolveurs publics dans le monde, avec NSID, EDNS Client Subnet, un mode surveillance et une carte du monde / globe tournant dans le terminal.
+  id: dnsglobe adalah TUI yang memeriksa propagasi catatan DNS di 34 resolver publik seluruh dunia, dengan NSID, EDNS Client Subnet, mode watch, dan peta dunia / globe berputar di terminal.
+  it: dnsglobe è una TUI che verifica la propagazione dei record DNS su 34 resolver pubblici in tutto il mondo, con NSID, EDNS Client Subnet, modalità watch e una mappa del mondo / globo rotante nel terminale.
+  ja: dnsglobe は世界中の 34 個のパブリックリゾルバで DNS レコードの伝播を確認する TUI で、NSID、EDNS Client Subnet、ウォッチモード、端末内の世界地図／回転する地球儀に対応しています。
+  ko: dnsglobe는 전 세계 34개 공용 리졸버에서 DNS 레코드 전파를 확인하는 TUI로, NSID, EDNS Client Subnet, 워치 모드, 터미널 속 세계 지도/회전 지구구를 지원합니다.
+  pl: dnsglobe to TUI, które sprawdza propagowanie rekordów DNS w 34 publicznych resolwerach na całym świecie, z obsługą NSID, EDNS Client Subnet, trybu obserwacji oraz mapy świata / wirującego kuli w terminalu.
+  pt: dnsglobe é uma TUI que verifica a propagação de registros DNS em 34 resolvedores públicos do mundo todo, com NSID, EDNS Client Subnet, modo de observação e um mapa do mundo / globo girando no terminal.
+  ro: dnsglobe este o interfață TUI care verifică propagarea înregistrărilor DNS la 34 rezolvatori publici din lume, cu NSID, EDNS Client Subnet, mod de urmărire și hartă a lumii / glob rotitor în terminal.
+  ru: dnsglobe — это TUI, проверяющий распространение DNS-записей на 34 публичных резолверах по всему миру, с поддержкой NSID, EDNS Client Subnet, режима наблюдения и карты мира / вращающегося глобуса в терминале.
+  th: dnsglobe เป็น TUI ที่ตรวจสอบการกระจายตัวของ DNS record ไปยัง public resolver 34 ตัวทั่วโลก พร้อม NSID, EDNS Client Subnet, โหมด watch และแผนที่โลก / ลูกโลกหมุนในเทอร์มินัล.
+  tr: dnsglobe, dünya genelindeki 34 herkese açık çözümleyicide DNS kayıtlarının yayılımını denetleyen bir TUI'dir; NSID, EDNS Client Subnet, izleme modu ve terminalde dünya haritası / dönen küre sunar.
+  uk: dnsglobe — це TUI, яка перевіряє поширення DNS-записів на 34 публічних резолверах у всьому світі, з підтримкою NSID, EDNS Client Subnet, режиму спостереження та карти світу / обертальної кулі в терміналі.
+  vi: dnsglobe là TUI kiểm tra sự lan truyền của bản ghi DNS trên 34 trình phân giải công cộng trên toàn thế giới, hỗ trợ NSID, EDNS Client Subnet, chế độ theo dõi và bản đồ thế giới / quả địa cầu xoay trong terminal.
 x:
   source: https://github.com/514-labs/dnsglobe
   eget: 514-labs/dnsglobe

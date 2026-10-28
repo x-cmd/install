@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: sd 是一个直观的查找和替换 CLI
   en: sd is an intuitive find & replace CLI
+  cs: sd je intuitivní nástroj pro nahrazování textu v souborech
+  de: sd ist ein intuitives CLI zum Suchen und Ersetzen
+  es: sd es una CLI intuitiva para buscar y reemplazar
+  fr: sd est une CLI intuitive de recherche et remplacement
+  id: sd adalah CLI intuitif untuk mencari dan mengganti
+  it: sd è una CLI intuitiva per cercare e sostituire
+  ja: sd は直感的な検索・置換の CLI です
+  ko: sd는 직관적인 검색 및 교체 CLI입니다
+  pl: sd to intuicyjne narzędzie CLI do wyszukiwania i zastępowania
+  pt: sd é uma CLI intuitiva para buscar e substituir
+  ro: sd este un instrument CLI intuitiv de căutare și înlocuire
+  ru: sd — интуитивный CLI для поиска и замены
+  th: sd เป็น CLI ที่ใช้งานง่ายสำหรับการค้นหาและแทนที่
+  tr: sd, bul ve değiştir için sezgisel bir CLI'dır
+  uk: sd — інтуїтивний CLI для пошуку та заміни
+  vi: sd là CLI trực quan để tìm kiếm và thay thế
 x:
   source: https://github.com/chmln/sd
   eget: chmln/sd

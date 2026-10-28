@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 网络连接查看工具
   en: Network connection viewing tool
+  cs: Nástroj pro zobrazení síťových připojení
+  de: Tool zum Anzeigen von Netzwerkverbindungen
+  es: Herramienta para ver conexiones de red
+  fr: Outil de visualisation des connexions réseau
+  id: Alat untuk melihat koneksi jaringan
+  it: Strumento per visualizzare le connessioni di rete
+  ja: ネットワーク接続を表示するツール
+  ko: 네트워크 연결을 확인하는 도구
+  pl: Narzędzie do przeglądania połączeń sieciowych
+  pt: Ferramenta para visualizar conexões de rede
+  ro: Instrument pentru vizualizarea conexiunilor de rețea
+  ru: Инструмент для просмотра сетевых подключений
+  th: เครื่องมือดูการเชื่อมต่อเครือข่าย
+  tr: Ağ bağlantılarını görüntüleme aracı
+  uk: Інструмент для перегляду мережевих з'єднань
+  vi: Công cụ xem kết nối mạng
 x:
   source: https://github.com/PabloLec/neoss
   yay: neoss

@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 基于 LLM 的极简 PID 自动调参系统（CLI 版）
   en: 基于 LLM 的极简 PID 自动调参系统 (CLI 版)
+  cs: Minimální systém automatického ladění PID založený na LLM (verze CLI)
+  de: Minimales, auf LLM basierendes PID-Autotuning-System (CLI-Version)
+  es: Sistema mínimo de autoajuste de PID basado en LLM (versión CLI)
+  fr: Système minimal de réglage automatique PID basé sur LLM (version CLI)
+  id: Sistem penyetelan otomatis PID minimal berbasis LLM (versi CLI)
+  it: Sistema minimale di autotuning PID basato su LLM (versione CLI)
+  ja: LLM に基づくミニマルな PID 自動調整システム (CLI バージョン)
+  ko: LLM 기반 미니멀 PID 자동 튜닝 시스템 (CLI 버전)
+  pl: Minimalny system automatycznego strojenia PID oparty na LLM (wersja CLI)
+  pt: Sistema mínimo de autoajuste de PID baseado em LLM (versão CLI)
+  ro: Sistem minim de reglare automată PID bazat pe LLM (versiune CLI)
+  ru: Минималистичная система автонастройки PID на базе LLM (версия CLI)
+  th: ระบบจูน PID อัตโนมัติแบบเรียบง่ายที่ใช้ LLM (เวอร์ชัน CLI)
+  tr: LLM tabanlı minimal PID otomatik ayarlama sistemi (CLI sürümü)
+  uk: Мінімалістична система автоналаштування PID на базі LLM (версія CLI)
+  vi: Hệ thống tự động chỉnh PID tối giản dựa trên LLM (phiên bản CLI)
 x:
   source: https://github.com/KINGSTON-115/llm-pid-tuner
   eget: KINGSTON-115/llm-pid-tuner

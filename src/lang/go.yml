@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Go 是一种开源编程语言，它使得构建简单、可靠和高效的软件变得非常容易
   en: Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+  cs: Go je open source programovací jazyk, který usnadňuje tvorbu jednoduchého, spolehlivého a efektivního softwaru.
+  de: Go ist eine quelloffene Programmiersprache, die es einfach macht, einfache, zuverlässige und effiziente Software zu bauen.
+  es: Go es un lenguaje de programación de código abierto que facilita la creación de software simple, fiable y eficiente.
+  fr: Go est un langage de programmation open source qui facilite la création de logiciels simples, fiables et efficaces.
+  id: Go adalah bahasa pemrograman sumber terbuka yang memudahkan membangun perangkat lunak yang sederhana, andal, dan efisien.
+  it: Go è un linguaggio di programmazione open source che rende facile creare software semplice, affidabile ed efficiente.
+  ja: Go は、単純で信頼性が高く効率的なソフトウェアの開発を可能にするオープンソースのプログラミング言語です
+  ko: Go는 단순하고 안정적이며 효율적인 소프트웨어를 쉽게 만들 수 있게 하는 오픈 소스 프로그래밍 언어입니다
+  pl: Go to język programowania open source, który ułatwia tworzenie prostego, niezawodnego i wydajnego oprogramowania.
+  pt: Go é uma linguagem de programação de código aberto que facilita a criação de software simples, confiável e eficiente.
+  ro: Go este un limbaj de programare open source care facilitează dezvoltarea software-ului simplu, fiabil și eficient.
+  ru: Go — это открытый язык программирования, который упрощает создание простого, надёжного и эффективного программного обеспечения.
+  th: Go คือภาษาโปรแกรมโอเพนซอร์สที่ทำให้การสร้างซอฟต์แวร์ที่เรียบง่าย เชื่อถือได้ และมีประสิทธิภาพเป็นเรื่องง่าย
+  tr: Go, basit, güvenilir ve verimli yazılımlar geliştirmeyi kolaylaştıran açık kaynaklı bir programlama dilidir.
+  uk: Go — це мова програмування з відкритим кодом, яка спрощує створення простого, надійного та ефективного програмного забезпечення.
+  vi: Go là ngôn ngữ lập trình mã nguồn mở giúp việc xây dựng phần mềm đơn giản, đáng tin cậy và hiệu quả trở nên dễ dàng.
 x:
   source: https://github.com/golang/go
   apt: golang-go

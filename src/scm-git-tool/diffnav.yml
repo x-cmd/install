@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于 delta 的 git diff 分页器，带 GitHub 风格的文件树
   en: 'A git diff pager based on delta but with a file tree, à la GitHub.'
+  cs: Paginator git diff založený na delta, ale s file stromem ve stylu GitHubu
+  de: Ein git diff Pager auf Basis von delta, aber mit einem Dateibaum im GitHub-Stil
+  es: Un paginador de git diff basado en delta pero con un árbol de archivos al estilo de GitHub
+  fr: Un pagineur git diff basé sur delta, mais avec une arborescence de fichiers à la GitHub
+  id: Pager git diff berbasis delta tetapi dengan pohon berkas ala GitHub
+  it: Un pager per git diff basato su delta ma con un albero dei file in stile GitHub
+  ja: deltaベースのgit diffページャー、GitHub風のファイルツリー付き
+  ko: delta를 기반으로 한 git diff 페이지저, GitHub 스타일 파일 트리 제공
+  pl: Paginator git diff oparty na delta, ale z drzewem plików w stylu GitHuba
+  pt: Um paginador de git diff baseado no delta, mas com uma árvore de arquivos ao estilo do GitHub
+  ro: Un pager pentru git diff bazat pe delta, dar cu un arbore de fișiere în stil GitHub
+  ru: Пейджер git diff на основе delta, но с деревом файлов в стиле GitHub
+  th: ตัวแบ่งหน้า git diff ที่ใช้ delta แต่มีแผนผังไฟล์แบบ GitHub
+  tr: delta tabanlı, GitHub tarzı dosya ağacı içeren bir git diff sayfalayıcı
+  uk: Пейджер git diff на основі delta, але з деревом файлів у стилі GitHub
+  vi: Bộ phân trang git diff dựa trên delta nhưng có cây thư mục kiểu GitHub
 x:
   source: https://github.com/dlvhdr/diffnav
   eget: dlvhdr/diffnav

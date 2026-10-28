@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GoAccess 是一种开源实时网络日志分析仪和交互式查看器，它在 *nix 系统中或通过浏览器中运行
   en: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser
+  cs: GoAccess je open source analyzátor webových logů v reálném čase a interaktivní prohlížeč, který běží v terminálu na systémech *nix nebo prostřednictvím prohlížeče
+  de: GoAccess ist ein quelloffener Echtzeit-Web-Log-Analyzer und interaktiver Betrachter, der in einem Terminal auf *nix-Systemen oder über den Browser läuft
+  es: GoAccess es un analizador de registros web de código abierto en tiempo real y un visor interactivo que se ejecuta en una terminal en sistemas *nix o a través del navegador
+  fr: GoAccess est un analyseur de journaux web open source en temps réel et une visionneuse interactive qui s'exécute dans un terminal sur les systèmes *nix ou via le navigateur
+  id: GoAccess adalah penganalisis log web sumber terbuka waktu nyata dan penampil interaktif yang berjalan di terminal pada sistem *nix atau melalui peramban
+  it: GoAccess è un analizzatore di log web open source in tempo reale e un visualizzatore interattivo che viene eseguito in un terminale su sistemi *nix o tramite il browser
+  ja: GoAccess はオープンソースのリアルタイム Web ログ解析ツール兼対話型ビューアで、*nix システムではターミナルで、ブラウザ経由でも動作します
+  ko: GoAccess는 오픈 소스 실시간 웹 로그 분석기이자 대화형 뷰어로, *nix 시스템의 터미널이나 브라우저를 통해 실행됩니다
+  pl: GoAccess to otwartoźródowy analizator logów sieciowych w czasie rzeczywistym i interaktywna przeglądarka działająca w terminalu w systemach *nix lub w przeglądarce
+  pt: GoAccess é um analisador de logs web de código aberto em tempo real e visualizador interativo que roda em um terminal em sistemas *nix ou pelo navegador
+  ro: GoAccess este un analizor de jurnale web open source în timp real și un vizualizator interactiv care rulează într-un terminal pe sisteme *nix sau prin browser
+  ru: GoAccess — анализатор веб-журналов реального времени и интерактивный просмотрщик с открытым исходным кодом, работающий в терминале на системах *nix или через браузер
+  th: GoAccess เป็นตัววิเคราะห์บันทึกเว็บแบบเรียลไทม์และตัวดูภาพโต้ตอบแบบโอเพนซอร์ส ที่ทำงานในเทอร์มินัลบนระบบ *nix หรือผ่านเบราว์เซอร์
+  tr: GoAccess, *nix sistemlerinde terminalde veya tarayıcı üzerinden çalışan açık kaynaklı gerçek zamanlı web günlüğü analizörü ve etkileşimli görüntüleyicidir
+  uk: GoAccess — аналізатор веб-журналів реального часу та інтерактивний переглядач з відкритим кодом, що працює в терміналі на системах *nix або через браузер
+  vi: GoAccess là trình phân tích log web mã nguồn mở theo thời gian thực và trình xem tương tác chạy trong terminal trên hệ thống *nix hoặc qua trình duyệt
 x:
   source: https://github.com/allinurl/goaccess
   apt: goaccess

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: try 是一个易于使用的 CLI 工具，可以尝试 Python 软件包
   en: try is an easy-to-use cli tool to try out Python packages
+  cs: try je snadno použitelný nástroj CLI pro vyzkoušení Python balíčků
+  de: try ist ein einfach zu verwendendes CLI-Werkzeug zum Ausprobieren von Python-Paketen
+  es: try es una herramienta de CLI fácil de usar para probar paquetes de Python
+  fr: try est un outil en ligne de commande facile à utiliser pour essayer des paquets Python
+  id: try adalah alat CLI mudah digunakan untuk mencoba paket Python
+  it: try è un utile strumento CLI facile da usare per provare i pacchetti Python
+  ja: try は Python パッケージを試すための使いやすい CLI ツールです
+  ko: try는 Python 패키지를 체험하기 쉽게 하는 CLI 도구입니다
+  pl: try to łatwy w użyciu narzędzie CLI do wypróbowywania pakietów Pythona
+  pt: try é uma ferramenta de CLI fácil de usar para experimentar pacotes Python
+  ro: try este un instrument CLI ușor de utilizat pentru testarea pachetelor Python
+  ru: try — простой в использовании CLI-инструмент для пробы пакетов Python
+  th: try เป็นเครื่องมือ CLI ที่ใช้งานง่ายสำหรับการทดลองแพ็กเกจ Python
+  tr: try, Python paketlerini denemek için kullanımı kolay bir CLI aracıdır
+  uk: try — простий у використанні CLI-інструмент для перевірки пакетів Python
+  vi: try là công cụ CLI dễ sử dụng để thử các gói Python
 x:
   source: https://github.com/timofurrer/try
   pip: trypackage

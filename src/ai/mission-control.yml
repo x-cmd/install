@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向 AI Agent 集群的自托管编排与监控面板，调度任务、追踪成本、审计安全
   en: Self-hosted dashboard for orchestrating AI agent fleets — dispatch tasks, track costs, audit security
+  cs: Samohostovaný panel pro orchestraci flotil AI agentů — rozdělování úloh, sledování nákladů, audit bezpečnosti
+  de: Self-hosted Dashboard für die Orchestrierung von KI-Agentenflotten — Aufgabenverteilung, Kostenverfolgung, Sicherheitsaudit
+  es: "Panel autoalojado para orquestar flotas de agentes de IA: distribuir tareas, seguir costos y auditar la seguridad"
+  fr: Tableau de bord auto-hébergé pour orchestrer des flottes d'agents IA — répartition des tâches, suivi des coûts, audit de sécurité
+  id: Dasbor yang di-host sendiri untuk mengorkestrasi armada agen AI — dispatch tugas, melacak biaya, mengaudit keamanan
+  it: Dashboard self-hosted per orchestrare flotte di agenti IA — distribuisce attività, monitora i costi, verifica la sicurezza
+  ja: AI エージェント群をオーケストレーションするためのセルフホスト型ダッシュボード — タスクの割り当て、コストの追跡、セキュリティの監査
+  ko: AI 에이전트 플릿을 오케스트레이션하기 위한 자체 호스팅 대시보드 — 작업 분배, 비용 추적, 보안 감사
+  pl: Samodzielnie hostowany panel do orkiestracji flot agentów AI — dystrybucja zadań, śledzenie kosztów, audyt bezpieczeństwa
+  pt: Painel auto-hospedado para orquestar frotas de agentes de IA — distribuir tarefas, acompanhar custos, auditar segurança
+  ro: Panou auto-găzduit pentru orchestrarea flotilelor de agenți AI — distribuirea sarcinilor, urmărirea costurilor, auditul securității
+  ru: Собственная веб-панель для оркестрации парков ИИ-агентов — распределение задач, отслеживание затрат, аудит безопасности
+  th: แดชบอร์ดแบบโฮสต์เองสำหรับจัดการกองยานเอเจนต์ AI — ส่งงาน ติดตามต้นทุน และตรวจสอบความปลอดภัย
+  tr: Yapay zeka ajan filolarını yönetmek için kendi sunucunuzda çalışan pano — görev dağıtımı, maliyet takibi, güvenlik denetimi
+  uk: Власна панель для оркестрації парків ШІ-агентів — розподіл завдань, відстеження витрат, аудит безпеки
+  vi: Bảng điều khiển tự lưu trữ để điều phối đội agent AI — phân công tác vụ, theo dõi chi phí, kiểm tra bảo mật
 x:
   source: https://github.com/builderz-labs/mission-control
 rule:

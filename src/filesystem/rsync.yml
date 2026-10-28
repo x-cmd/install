@@ -3,6 +3,22 @@ homepage: https://github.com/RsyncProject/rsync
 desc:
   en: Rsync is a fast and extraordinarily versatile file copying tool for both remote and local files
   cn: Rsync 是一个用于远程和本地文件的快速且通用的文件复制工具
+  cs: Rsync je rychlý a mimořádně univerzální nástroj pro kopírování souborů, a to jak vzdálených, tak lokálních
+  de: Rsync ist ein schnelles und außergewöhnlich vielseitiges Dateikopierwerkzeug für entfernte und lokale Dateien
+  es: Rsync es una herramienta de copia de archivos rápida y extremadamente versátil para archivos remotos y locales
+  fr: Rsync est un outil de copie de fichiers rapide et extrêmement polyvalent, pour les fichiers distants et locaux
+  id: Rsync adalah alat penyalinan file yang cepat dan sangat serbaguna untuk file jarak jauh dan lokal
+  it: Rsync è un veloce ed estremamente versatile strumento per copiare file, sia remoti che locali
+  ja: Rsyncは、リモートファイルにもローカルファイルにも使える高速で非常に汎用性の高いファイルコピー・ツールです。
+  ko: Rsync은 원격 및 로컬 파일을 위한 빠르고 매우 다재용능한 파일 복사 도구입니다.
+  pl: Rsync to szybkie i niezwykle uniwersalne narzędzie do kopiowania plików, zdalnych i lokalnych
+  pt: Rsync é uma ferramenta de cópia de arquivos rápida e extremamente versátil para arquivos remotos e locais
+  ro: Rsync este un instrument de copiere a fișierelor rapid și extrem de versatil, atât pentru fișiere la distanță, cât și locale
+  ru: Rsync — быстрый и чрезвычайно универсальный инструмент копирования файлов как удалённых, так и локальных
+  th: Rsync คือเครื่องมือคัดลอกไฟล์ที่รวดเร็วและยืดหยุ่นอย่างยิ่ง รองรับทั้งไฟล์ระยะไกลและไฟล์ในเครื่อง
+  tr: Rsync, hem uzak hem yerel dosyalar için hızlı ve son derece çok yönlü bir dosya kopyalama aracıdır
+  uk: Rsync — швидкий і надзвичайно універсальний інструмент копіювання файлів як віддалених, так і локальних
+  vi: Rsync là công cụ sao chép tệp nhanh và cực kỳ linh hoạt cho cả tệp từ xa và tệp cục bộ
 x:
   source: https://github.com/RsyncProject/rsync
   eget: RsyncProject/rsync

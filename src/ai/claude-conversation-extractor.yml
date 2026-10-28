@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 从 Claude Code 内部存储中提取干净的对话记录
   en: Extract clean conversation logs from Claude Code's internal storage
+  cs: Extrahuje čisté záznamy konverzací z interního úložiště Claude Code
+  de: Extrahiert saubere Gesprächsprotokolle aus dem internen Speicher von Claude Code
+  es: Extrae registros de conversación limpios del almacenamiento interno de Claude Code
+  fr: Extrait des journaux de conversation propres du stockage interne de Claude Code
+  id: Mengekstrak log percakapan bersih dari penyimpanan internal Claude Code
+  it: Estrae registri di conversazione puliti dall'archivio interno di Claude Code
+  ja: Claude Code の内部ストレージからきれいな会話ログを抽出します。
+  ko: Claude Code의 내부 저장소에서 깔끔한 대화 로그를 추출합니다.
+  pl: Wyodrębnia czyste dzienniki rozmów z wewnętrznej pamięci Claude Code
+  pt: Extrai registros de conversa limpos do armazenamento interno do Claude Code
+  ro: Extrage jurnale de conversație curate din stocarea internă a lui Claude Code
+  ru: Извлекает чистые журналы бесед из внутреннего хранилища Claude Code
+  th: ดึงบันทึกการสนทนาที่สะอาดออกจากที่จัดเก็บภายในของ Claude Code
+  tr: Claude Code'un dahili deposundan temiz konuşma kayıtlarını çıkarır
+  uk: Витягує чисті журнали бесід із внутрішнього сховища Claude Code
+  vi: Trích xuất nhật ký hội thoại sạch từ bộ nhớ nội bộ của Claude Code
 x:
   source: https://github.com/ZeroSumQuant/claude-conversation-extractor
   eget: ZeroSumQuant/claude-conversation-extractor

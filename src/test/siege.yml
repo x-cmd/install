@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: Siege is an open source regression test and benchmark utility
   cn: Siege 是一个开源的回归测试和基准测试工具
+  cs: Siege je open source nástroj pro regresní testy a benchmarky
+  de: Siege ist ein Open-Source-Werkzeug für Regressionstests und Benchmarks
+  es: Siege es una herramienta de código abierto para pruebas de regresión y benchmarking
+  fr: Siege est un utilitaire open source de test de régression et de benchmark
+  id: Siege adalah utilitas pengujian regresi dan benchmark sumber terbuka
+  it: Siege è un'utilità open source per test di regressione e benchmark
+  ja: Siege はオープンソースの回帰テストおよびベンチマークユーティリティです
+  ko: Siege는 오픈 소스 회귀 테스트 및 벤치마크 유틸리티입니다
+  pl: Siege to narzędzie open source do testów regresyjnych i benchmarków
+  pt: Siege é um utilitário de código aberto para teste de regressão e benchmark
+  ro: Siege este o utilitate open source pentru teste de regresie și benchmark
+  ru: Siege — утилита с открытым исходным кодом для регрессионного тестирования и бенчмаркинга
+  th: Siege เป็นยูทิลิตีโอเพนซอร์สสำหรับการทดสอบการถดถอยและการเบนชมาร์ก
+  tr: Siege, regresyon testi ve kıyaslama için açık kaynaklı bir yardımcı programdır
+  uk: Siege — утиліта з відкритим кодом для регресійного тестування та бенчмаркінгу
+  vi: Siege là tiện ích mã nguồn mở cho kiểm thử hồi quy và đo hiệu năng
 x:
   source: https://github.com/JoeDog/siege
   apt: siege

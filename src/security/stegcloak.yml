@@ -3,6 +3,22 @@ homepage: https://github.com/KuroLabs/stegcloak
 desc:
   cn: StegCloak 是一款用 JavaScript 编写的隐写术工具，可以将秘密信息隐藏在文本中，肉眼不可见。
   en: StegCloak is a JavaScript steganography tool that hides secret messages within plain text, making them invisible to the naked eye.
+  cs: StegCloak je nástroj pro steganografii napsaný v JavaScriptu, který skrývá tajné zprávy v prostém textu tak, že jsou lidskému oku neviditelné.
+  de: StegCloak ist ein in JavaScript geschriebenes Steganografie-Werkzeug, das geheime Nachrichten in reinem Text versteckt und für das bloße Auge unsichtbar macht.
+  es: StegCloak es una herramienta de esteganografía escrita en JavaScript que oculta mensajes secretos dentro de texto plano, haciéndolos invisibles a simple vista.
+  fr: StegCloak est un outil de stéganographie écrit en JavaScript qui cache des messages secrets dans du texte brut, les rendant invisibles à l'œil nu.
+  id: StegCloak adalah alat steganografi yang ditulis dengan JavaScript untuk menyembunyikan pesan rahasia dalam teks biasa sehingga tidak terlihat oleh mata telanjang.
+  it: StegCloak è un tool di steganografia scritto in JavaScript che nasconde messaggi segreti nel testo semplice, rendendoli invisibili a occhio nudo.
+  ja: StegCloak は JavaScript で書かれたステガノグラフィツールで、秘密のメッセージをプレーンテキストに埋め込み、肉眼では見えないようにします。
+  ko: StegCloak는 JavaScript로 작성된 스테가노그래피 도구로, 일반 텍스트 안에 비밀 메시지를 숨겨 눈에 보이지 않게 만듭니다.
+  pl: StegCloak to narzędzie steganograficzne napisane w JavaScript, które ukrywa tajne wiadomości w zwykłym tekście, czyniąc je niewidocznymi gołym okiem.
+  pt: StegCloak é uma ferramenta de esteganografia escrita em JavaScript que esconde mensagens secretas em texto simples, tornando-as invisíveis a olho nu.
+  ro: StegCloak este un instrument de steganografie scris în JavaScript care ascunde mesaje secrete în text simplu, făcându-le invizibile cu ochiul liber.
+  ru: StegCloak — инструмент стеганографии на JavaScript, скрывающий секретные сообщения в обычном тексте, делая их невидимыми для глаза.
+  th: StegCloak เป็นเครื่องมือสเตกาโนกราฟีที่เขียนด้วย JavaScript ซึ่งซ่อนข้อความลับไว้ในข้อความธรรมดาจนมองไม่เห็นด้วยตาเปล่า
+  tr: StegCloak, gizli mesajları düz metin içine saklayarak onları çıplak gözle görünmez kılan JavaScript ile yazılmış bir steganografi aracıdır.
+  uk: StegCloak — інструмент стеганографії на JavaScript, який ховає секретні повідомлення у звичайному тексті, роблячи їх невидимими для ока.
+  vi: StegCloak là công cụ steganography viết bằng JavaScript, ẩn các thông điệp bí mật trong văn bản thuần khiến chúng không thể nhìn thấy bằng mắt thường
 x:
   source: https://github.com/KuroLabs/stegcloak
   yay: nodejs-stegcloak

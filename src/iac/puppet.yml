@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Puppet 是太阳系中最强大的配置管理工具
   en: Puppet is the most powerful configuration management tool in the solar system
+  cs: Puppet je nejvýkonnější nástroj správy konfigurací na světě
+  de: Puppet ist das leistungsfähigste Konfigurationsmanagement-Tool der Welt
+  es: Puppet es la herramienta de gestión de configuración más potente del mundo
+  fr: Puppet est l'outil de gestion de configuration le plus puissant au monde
+  id: Puppet adalah alat manajemen konfigurasi terkuat di dunia
+  it: Puppet è lo strumento di gestione della configurazione più potente al mondo
+  ja: Puppet は太陽系で最も強力な構成管理ツールです
+  ko: Puppet는 세계에서 가장 강력한 구성 관리 도구입니다
+  pl: Puppet jest najpotężniejszym narzędziem do zarządzania konfiguracją na świecie
+  pt: O Puppet é a ferramenta de gerenciamento de configuração mais poderosa do mundo
+  ro: Puppet este cel mai puternic instrument de management al configurației din lume
+  ru: Puppet — самый мощный инструмент управления конфигурациями в мире
+  th: Puppet คือเครื่องมือจัดการการตั้งค่าที่ทรงพลังที่สุดในระบบสุริยะ
+  tr: Puppet, dünyanın en güçlü yapılandırma yönetimi aracıdır
+  uk: Puppet — найпотужніший інструмент керування конфігурацією у світі
+  vi: Puppet là công cụ quản lý cấu hình mạnh nhất thế giới
 x:
   source: https://github.com/puppetlabs/puppet
 rule:

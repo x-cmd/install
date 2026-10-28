@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简洁有序地查看 AWS SQS 队列中的消息
   en: 'Inspect messages in an AWS SQS queue in a simple and deliberate manner'
+  cs: Prohlížejte zprávy ve frontě AWS SQS jednoduchým a promyšleným způsobem
+  de: Nachrichten in einer AWS SQS-Warteschlange auf einfache und durchdachte Weise inspizieren
+  es: Inspecciona mensajes en una cola de AWS SQS de forma simple y deliberada
+  fr: Inspectez les messages d'une file d'attente AWS SQS de manière simple et délibérée
+  id: Periksa pesan dalam antrean AWS SQS dengan cara yang sederhana dan terarah
+  it: Ispeziona i messaggi in una coda AWS SQS in modo semplice e mirato
+  ja: シンプルで意図的な方法で AWS SQS キューのメッセージを調べます
+  ko: 간결하고도 명료한 방식으로 AWS SQS 큐의 메시지를 살펴봅니다
+  pl: Przeglądaj wiadomości w kolejce AWS SQS w prosty i przemyślany sposób
+  pt: Inspecione mensagens em uma fila do AWS SQS de forma simples e intencional
+  ro: Inspectează mesajele dintr-o coadă AWS SQS într-un mod simplu și deliberat
+  ru: Просматривайте сообщения в очереди AWS SQS простым и продуманным способом
+  th: ตรวจดูข้อความในคิว AWS SQS อย่างง่ายดายและอย่างมีจุดประสงค์
+  tr: AWS SQS kuyruğundaki mesajları basit ve bilinçli bir şekilde inceleyin
+  uk: Переглядайте повідомлення в черзі AWS SQS простим і продуманим способом
+  vi: Kiểm tra tin nhắn trong hàng đợi AWS SQS một cách đơn giản và có chủ đích
 x:
   source: https://github.com/dhth/cueitup
   eget: dhth/cueitup

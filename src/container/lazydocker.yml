@@ -2,6 +2,22 @@ lang: Go
 desc:
   en: A simple terminal UI for both docker and docker-compose
   cn: Docker 和 Docker Compose 的多功能终端看板
+  cs: Jednoduché terminálové UI pro docker i docker-compose
+  de: Eine einfache Terminal-UI für docker und docker-compose
+  es: Una interfaz de terminal sencilla para docker y docker-compose
+  fr: Une interface terminal simple pour docker et docker-compose
+  id: Antarmuka terminal sederhana untuk docker dan docker-compose
+  it: Un'interfaccia terminale semplice per docker e docker-compose
+  ja: docker と docker-compose のためのシンプルなターミナル UI
+  ko: docker와 docker-compose를 위한 간단한 터미널 UI
+  pl: Prosty interfejs terminala dla dockera i docker-compose
+  pt: Uma interface de terminal simples para docker e docker-compose
+  ro: O interfață terminală simplă pentru docker și docker-compose
+  ru: Простой терминальный интерфейс для docker и docker-compose
+  th: เทอร์มินัล UI อย่างง่ายสำหรับ docker และ docker-compose
+  tr: docker ve docker-compose için basit bir terminal arayüzü
+  uk: Простий термінальний інтерфейс для docker і docker-compose
+  vi: Giao diện terminal đơn giản cho docker và docker-compose
 homepage: https://github.com/jesseduffield/lazydocker
 license: MIT
 x:

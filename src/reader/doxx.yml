@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在终端中直接查看 .docx 文件内容，无需 Office
   en: 'Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!'
+  cs: Zobrazte obsah souborů .docx, aniž byste opustili svůj terminál. Rychlé, bezpečné a chytré — není potřeba Office!
+  de: Inhalte von .docx-Dateien anzeigen, ohne das Terminal zu verlassen. Schnell, sicher und intelligent — kein Office nötig!
+  es: "Consulta el contenido de los archivos .docx sin salir de tu terminal. Rápido, seguro e inteligente: ¡no se necesita Office!"
+  fr: Consultez le contenu des fichiers .docx sans quitter votre terminal. Rapide, sûr et malin — aucun Office requis !
+  id: Lihat isi file .docx tanpa meninggalkan terminal. Cepat, aman, dan cerdas — tidak butuh Office!
+  it: Guarda il contenuto dei file .docx senza uscire dal terminale. Veloce, sicuro e intelligente — non serve Office!
+  ja: ターミナルを離れずに .docx ファイルの内容を確認できます。高速・安全・スマート — Office は不要です！
+  ko: 터미널을 벗어나지 않고 .docx 파일 내용을 확인하세요. 빠르고 안전하며 스마트합니다 — Office가 필요 없습니다!
+  pl: Przeglądaj zawartość plików .docx bez wychodzenia z terminala. Szybko, bezpiecznie i inteligentnie — bez Office!
+  pt: Veja o conteúdo dos arquivos .docx sem sair do terminal. Rápido, seguro e inteligente — sem necessidade de Office!
+  ro: Vizualizați conținutul fișierelor .docx fără a părăsi terminalul. Rapid, sigur și inteligent — nu este nevoie de Office!
+  ru: Просматривайте содержимое файлов .docx, не покидая терминал. Быстро, безопасно и удобно — Office не нужен!
+  th: ดูเนื้อหาไฟล์ .docx โดยไม่ต้องออกจากเทอร์มินัล รวดเร็ว ปลอดภัย และชาญฉลาด — ไม่ต้องใช้ Office!
+  tr: Terminalden ayrılmadan .docx dosyalarının içeriğini görüntüleyin. Hızlı, güvenli ve akıllı — Office gerekmez!
+  uk: Переглядайте вміст файлів .docx, не залишаючи термінал. Швидко, безпечно та зручно — Office не потрібен!
+  vi: Xem nội dung tệp .docx mà không cần rời terminal. Nhanh, an toàn và thông minh — không cần Office!
 x:
   source: https://github.com/bgreenwell/doxx
   eget: bgreenwell/doxx

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 针对 RTSP/ONVIF 摄像头抓取快照、短视频并执行运动检测的 CLI
   en: CLI to capture snapshots, short clips, and run motion detection against RTSP/ONVIF came ras
+  cs: CLI pro pořizování snímků a krátkých videí a detekci pohybu u kamer RTSP/ONVIF
+  de: CLI zum Aufnehmen von Schnappschüssen und kurzen Clips sowie zur Bewegungserkennung bei RTSP/ONVIF-Kameras
+  es: CLI para capturar instantáneas, clips cortos y ejecutar detección de movimiento en cámaras RTSP/ONVIF
+  fr: CLI pour capturer des instantanés et de courtes clips et effectuer de la détection de mouvement sur des caméras RTSP/ONVIF
+  id: CLI untuk mengambil snapshot, klip pendek, dan menjalankan deteksi gerak pada kamera RTSP/ONVIF
+  it: CLI per catturare snapshot e brevi clip ed eseguire il rilevamento del movimento su telecamere RTSP/ONVIF
+  ja: RTSP/ONVIF カメラに対してスナップショットと短いクリップを取得し、動き検出を実行する CLI
+  ko: RTSP/ONVIF 카메라에서 스냅숏과 짧은 클립을 촬영하고 동작 감지를 수행하는 CLI
+  pl: CLI do przechwytywania migawek i krótkich klipów oraz do wykrywania ruchu w kamerach RTSP/ONVIF
+  pt: CLI para capturar instantâneos, clipes curtos e executar detecção de movimento em câmeras RTSP/ONVIF
+  ro: CLI pentru capturarea de instantanee și clipuri scurte și pentru detectarea mișcării pe camerele RTSP/ONVIF
+  ru: CLI для съёмки снимков и коротких клипов и обнаружения движения на камерах RTSP/ONVIF
+  th: CLI สำหรับจับภาพนิ่ง คลิปสั้น และตรวจจับการเคลื่อนไหวบนกล้อง RTSP/ONVIF
+  tr: RTSP/ONVIF kameralarında anlık görüntü ve kısa klip almak ve hareket algılama yapmak için CLI
+  uk: CLI для знімків і коротких відеокліпів та виявлення руху на камерах RTSP/ONVIF
+  vi: CLI để chụp ảnh, video ngắn và chạy phát hiện chuyển động trên camera RTSP/ONVIF
 x:
   source: https://github.com/steipete/camsnap
   eget: steipete/camsnap

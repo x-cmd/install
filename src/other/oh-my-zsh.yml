@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Oh My Zsh 是一个开源、社区驱动的框架，用于管理您的 zsh 配置
   en: Oh My Zsh is an open source, community-driven framework for managing your zsh configuration
+  cs: Oh My Zsh je open source framework řízený komunitou pro správu konfigurace zsh
+  de: Oh My Zsh ist ein quelloffenes, community-getriebenes Framework zur Verwaltung deiner zsh-Konfiguration
+  es: Oh My Zsh es un framework de código abierto y dirigido por la comunidad para gestionar tu configuración de zsh
+  fr: Oh My Zsh est un framework open source piloté par la communauté pour gérer votre configuration zsh
+  id: Oh My Zsh adalah framework open source yang digerakkan oleh komunitas untuk mengelola konfigurasi zsh Anda
+  it: Oh My Zsh è un framework open source guidato dalla community per gestire la tua configurazione zsh
+  ja: Oh My Zsh は、zsh の設定を管理するためのオープンソースでコミュニティ主導のフレームワークです
+  ko: Oh My Zsh는 zsh 설정을 관리하기 위한 오픈 소스 커뮤니티 중심 프레임워크입니다
+  pl: Oh My Zsh to open source'owe, rozwijane przez społeczność środowisko do zarządzania konfiguracją zsh
+  pt: Oh My Zsh é um framework de código aberto, mantido pela comunidade, para gerenciar sua configuração do zsh
+  ro: Oh My Zsh este un framework open source, dezvoltat de comunitate, pentru gestionarea configurației tale zsh
+  ru: Oh My Zsh — это открытый фреймворк, развиваемый сообществом, для управления конфигурацией zsh
+  th: Oh My Zsh เป็นเฟรมเวิร์กโอเพนซอร์สที่ขับเคลื่อนโดยชุมชนสำหรับการจัดการค่ากำหนดของ zsh
+  tr: Oh My Zsh, zsh yapılandırmanızı yönetmek için açık kaynaklı, topluluk destekli bir çerçevedir
+  uk: Oh My Zsh — це відкритий фреймворк, що розвивається спільнотою, для керування конфігурацією zsh
+  vi: Oh My Zsh là khung mã nguồn mở do cộng đồng phát triển để quản lý cấu hình zsh của bạn
 x:
   source: https://github.com/ohmyzsh/ohmyzsh
   yay: oh-my-zsh-git

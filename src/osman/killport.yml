@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: killport 是一个命令行实用程序，用于终止监听特定端口的进程
   en: killport is a command-line utility for killing processes listening on specific ports
+  cs: killport je nástroj příkazového řádku pro ukončení procesů naslouchajících na konkrétních portech
+  de: killport ist ein Kommandozeilen-Dienstprogram zum Beenden von Prozessen, die auf bestimmten Ports lauschen
+  es: killport es una utilidad de línea de comandos para terminar procesos que escuchan en puertos específicos
+  fr: killport est un utilitaire en ligne de commande pour tuer les processus à l'écoute sur des ports spécifiques
+  id: killport adalah utilitas baris perintah untuk menghentikan proses yang mendengarkan pada port tertentu
+  it: killport è un'utilità da riga di comando per terminare i processi in ascolto su porte specifiche
+  ja: killport は、特定のポートで待ち受けているプロセスを終了するためのコマンドラインユーティリティです
+  ko: killport는 특정 포트에서 대기 중인 프로세스를 종료하는 명령줄 유틸리티입니다
+  pl: killport to narzędzie wiersza poleceń do kończenia procesów nasłuchujących na określonych portach
+  pt: killport é um utilitário de linha de comando para encerrar processos que escutam em portas específicas
+  ro: killport este o utilitar de linie de comandă pentru a opri procesele care ascultă pe anumite porturi
+  ru: killport — это утилита командной строки для завершения процессов, слушающих определённые порты
+  th: killport เป็นยูทิลิตี้บรรทัดคำสั่งสำหรับยุติกระบวนการที่ฟังอยู่บนพอร์ตที่ระบุ
+  tr: killport, belirli portları dinleyen süreçleri sonlandırmak için bir komut satırı aracıdır
+  uk: killport — це утиліта командного рядка для завершення процесів, які слухають на певних портах
+  vi: killport là tiện ích dòng lệnh để kết thúc các tiến trình đang lắng nghe trên các cổng cụ thể
 x:
   source: https://github.com/jkfran/killport
   eget: jkfran/killport

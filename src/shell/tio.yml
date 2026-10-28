@@ -3,6 +3,22 @@ homepage: https://github.com/tio/tio
 desc:
   cn: 串口设备 I/O 工具
   en: A serial device I/O tool
+  cs: Nástroj pro I/O sériových zařízení
+  de: Ein Werkzeug für die Ein-/Ausgabe serieller Geräte
+  es: Una herramienta de E/S para dispositivos en serie
+  fr: Un outil d'E/S pour les périphériques série
+  id: Alat I/O perangkat serial
+  it: Uno strumento di I/O per dispositivi seriali
+  ja: シリアルデバイスの I/O ツール
+  ko: 직렬 장치용 I/O 도구
+  pl: Narzędzie do wejścia/wyjścia urządzeń szeregowych
+  pt: Uma ferramenta de E/S para dispositivos seriais
+  ro: Un instrument de I/O pentru dispozitive seriale
+  ru: Инструмент ввода-вывода для последовательных устройств
+  th: เครื่องมือ I/O สำหรับอุปกรณ์อินเทอร์เฟซแบบอนุกรม
+  tr: Seri aygıtlar için G/Ç aracı
+  uk: Інструмент вводу-виводу для послідовних пристроїв
+  vi: Công cụ I/O cho thiết bị nối tiếp
 x:
   source: https://github.com/tio/tio
   eget: tio/tio

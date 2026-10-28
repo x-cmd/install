@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 多仓库 GitHub 管理工具
   en: Multi-repository GitHub Governance Tool
+  cs: Nástroj pro správu více repozitářů na GitHubu
+  de: Multi-Repository GitHub Governance Tool
+  es: Herramienta de gobernanza de GitHub para múltiples repositorios
+  fr: Outil de gouvernance GitHub multi-dépôts
+  id: Alat tata kelola GitHub untuk multi-repositori
+  it: Strumento di governance GitHub multi-repository
+  ja: マルチリポジトリの GitHub ガバナンスツール
+  ko: 멀티 저장소 GitHub 거버넌스 도구
+  pl: Narzędzie do zarządzania wieloma repozytoriami GitHub
+  pt: Ferramenta de governança do GitHub para múltiplos repositórios
+  ro: Instrument de guvernanță GitHub pentru mai multe depozite
+  ru: Инструмент управления несколькими репозиториями GitHub
+  th: เครื่องมือกำกับดูแล GitHub สำหรับหลาย repository
+  tr: Çoklu depozito için GitHub yönetişim aracı
+  uk: Інструмент управління кількома репозиторіями GitHub
+  vi: Công cụ quản trị GitHub cho nhiều kho lưu trữ
 x:
   source: https://github.com/agorapulse/pierrot
   eget: agorapulse/pierrot

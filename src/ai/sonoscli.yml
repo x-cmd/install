@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 从终端控制 SONOS 音箱
   en: Control SONOS speakers from your terminal.
+  cs: Ovládejte reproduktory SONOS z terminálu.
+  de: Steuern Sie SONOS-Lautsprecher von Ihrem Terminal aus.
+  es: Controla los altavoces SONOS desde tu terminal.
+  fr: Contrôlez les enceintes SONOS depuis votre terminal.
+  id: Kendalikan speaker SONOS dari terminal Anda.
+  it: Controlla i diffusori SONOS dal tuo terminale.
+  ja: ターミナルから SONOS スピーカーを操作します。
+  ko: 터미널에서 SONOS 스피커를 제어합니다.
+  pl: Steruj głośnikami SONOS z terminala.
+  pt: Controle alto-falantes SONOS a partir do terminal.
+  ro: Controlați difuzoarele SONOS din terminalul dumneavoastră.
+  ru: Управляйте колонками SONOS из терминала.
+  th: ควบคุมลำโพง SONOS จากเทอร์มินัลของคุณ
+  tr: SONOS hoparlörleri terminalinizden kontrol edin.
+  uk: Керуйте колонками SONOS із термінала.
+  vi: Điều khiển loa SONOS từ terminal của bạn.
 x:
   source: https://github.com/steipete/sonoscli
   eget: steipete/sonoscli

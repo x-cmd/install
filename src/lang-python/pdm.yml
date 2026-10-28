@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: pdm 是一个 Python 依赖管理工具，可以让你使用 pyproject.toml 文件来管理项目的依赖和包。它支持多版本的 Python，虚拟环境，插件系统等功能。（python 版本 3.7 或更高版本）
   en: pdm is a Python dependency manager that uses pyproject.toml file to manage project dependencies and packages. It supports multiple Python versions, virtual environments, plugin system and more. (python version 3.7 or higher)
+  cs: pdm je správce závislostí pro Python, který používá soubor pyproject.toml ke správě závislostí a balíčků projektu. Podporuje více verzí Pythonu, virtuální prostředí, systém pluginů a další. (verze pythonu 3.7 nebo vyšší)
+  de: pdm ist ein Python-Abhängigkeitsmanager, der die Datei pyproject.toml zur Verwaltung von Projektabhängigkeiten und -paketen verwendet. Er unterstützt mehrere Python-Versionen, virtuelle Umgebungen, ein Plugin-System und mehr. (Python-Version 3.7 oder höher)
+  es: pdm es un gestor de dependencias de Python que usa el archivo pyproject.toml para gestionar las dependencias y los paquetes del proyecto. Admite varias versiones de Python, entornos virtuales, sistema de plugins y más. (versión de python 3.7 o superior)
+  fr: pdm est un gestionnaire de dépendances Python qui utilise le fichier pyproject.toml pour gérer les dépendances et les paquets du projet. Il prend en charge plusieurs versions de Python, les environnements virtuels, un système de plugins et plus encore. (version de python 3.7 ou supérieure)
+  id: pdm adalah pengelola dependensi Python yang menggunakan berkas pyproject.toml untuk mengelola dependensi dan paket proyek. Ini mendukung banyak versi Python, lingkungan virtual, sistem plugin, dan lainnya. (versi python 3.7 atau lebih tinggi)
+  it: pdm è un gestore delle dipendenze Python che usa il file pyproject.toml per gestire dipendenze e pacchetti del progetto. Supporta più versioni di Python, ambienti virtuali, sistema di plugin e altro ancora. (versione di python 3.7 o successiva)
+  ja: pdm は pyproject.toml ファイルを使ってプロジェクトの依存関係とパッケージを管理する Python の依存関係マネージャーです。複数の Python バージョン、仮想環境、プラグインシステムなどに対応しています。(python バージョン 3.7 以上)
+  ko: pdm은 pyproject.toml 파일을 사용해 프로젝트 의존성과 패키지를 관리하는 Python 의존성 관리 도구입니다. 여러 Python 버전, 가상 환경, 플러그인 시스템 등을 지원합니다. (python 버전 3.7 이상)
+  pl: pdm to menedżer zależności Pythona, który korzysta z pliku pyproject.toml do zarządzania zależnościami i pakietami projektu. Obsługuje wiele wersji Pythona, środowiska wirtualne, system wtyczek i nie tylko. (wersja Pythona 3.7 lub nowsza)
+  pt: O pdm é um gerenciador de dependências Python que usa o arquivo pyproject.toml para gerenciar as dependências e os pacotes do projeto. Ele oferece suporte a várias versões do Python, ambientes virtuais, sistema de plugins e muito mais. (versão do python 3.7 ou superior)
+  ro: pdm este un manager de dependențe Python care folosește fișierul pyproject.toml pentru a gestiona dependențele și pachetele proiectului. Acceptă mai multe versiuni de Python, medii virtuale, sistem de pluginuri și multe altele. (versiune python 3.7 sau mai nouă)
+  ru: pdm — менеджер зависимостей Python, использующий файл pyproject.toml для управления зависимостями и пакетами проекта. Он поддерживает несколько версий Python, виртуальные окружения, систему плагинов и многое другое. (версия python 3.7 или выше)
+  th: pdm เป็นตัวจัดการการพึ่งพาของ Python ที่ใช้ไฟล์ pyproject.toml เพื่อจัดการการพึ่งพาและแพ็กเกจของโปรเจกต์ รองรับ Python หลายเวอร์ชัน สภาพแวดล้อมเสมือน ระบบปลั๊กอิน และอื่น ๆ (เวอร์ชัน python 3.7 หรือสูงกว่า)
+  tr: pdm, proje bağımlılıklarını ve paketlerini yönetmek için pyproject.toml dosyasını kullanan bir Python bağımlılık yöneticisidir. Birden çok Python sürümünü, sanal ortamları, eklenti sistemini ve daha fazlasını destekler. (python sürümü 3.7 veya üzeri)
+  uk: pdm — менеджер залежностей Python, який використовує файл pyproject.toml для керування залежностями та пакетами проєкту. Він підтримує кілька версій Python, віртуальні оточення, систему плагінів і багато іншого. (версія python 3.7 або новіша)
+  vi: pdm là trình quản lý phụ thuộc Python, dùng tệp pyproject.toml để quản lý phụ thuộc và gói của dự án. Nó hỗ trợ nhiều phiên bản Python, môi trường ảo, hệ thống plugin và nhiều hơn nữa. (phiên bản python 3.7 trở lên)
 x:
   source: https://github.com/pdm-project/pdm
   eget: pdm-project/pdm

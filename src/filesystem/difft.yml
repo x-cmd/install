@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Difftastic 是一种结构差异工具，可根据语法对文件进行比较。
   en: Difftastic is a structural diff tool that compares files based on their syntax.
+  cs: Difftastic je nástroj pro strukturální porovnávání, který porovnává soubory na základě jejich syntaxe.
+  de: Difftastic ist ein strukturelles Diff-Werkzeug, das Dateien anhand ihrer Syntax vergleicht.
+  es: Difftastic es una herramienta de diferencias estructurales que compara archivos según su sintaxis.
+  fr: Difftastic est un outil de diff structurel qui compare les fichiers en fonction de leur syntaxe.
+  id: Difftastic adalah alat diff struktural yang membandingkan file berdasarkan sintaksnya.
+  it: Difftastic è uno strumento di diff strutturale che confronta i file in base alla loro sintassi.
+  ja: Difftastic は構文に基づいてファイルを比較する構造差分ツールです。
+  ko: Difftastic는 구문을 기준으로 파일을 비교하는 구조적 diff 도구입니다.
+  pl: Difftastic to narzędzie do porównywania strukturalnego, które porównuje pliki na podstawie ich składni.
+  pt: O Difftastic é uma ferramenta de diff estrutural que compara arquivos com base em sua sintaxe.
+  ro: Difftastic este un instrument de diferențe structurale care compară fișierele în funcție de sintaxa lor.
+  ru: Difftastic — инструмент структурного сравнения, сравнивающий файлы по их синтаксису.
+  th: Difftastic คือเครื่องมือเปรียบเทียบโครงสร้างที่เปรียบเทียบไฟล์ตามไวยากรณ์ของไฟล์
+  tr: Difftastic, dosyaları söz dizimlerine göre karşılaştıran yapısal bir diff aracıdır.
+  uk: Difftastic — інструмент структурного порівняння, який порівнює файли за їхнім синтаксисом.
+  vi: Difftastic là công cụ so sánh cấu trúc, so sánh các tệp dựa trên cú pháp của chúng.
 x:
   source: https://github.com/Wilfred/difftastic
   eget: Wilfred/difftastic

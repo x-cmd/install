@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 理解源码语法并支持搜索与修改的 grep 类工具
   en: 'A grep-like tool which understands source code syntax and allows for manipulation in addition to search'
+  cs: Nástroj podobný grep, který rozumí syntaxi zdrojového kódu a umožňuje její úpravy kromě vyhledávání
+  de: Ein grep-ähnliches Werkzeug, das die Syntax von Quellcode versteht und neben dem Suchen auch Bearbeiten erlaubt
+  es: Una herramienta similar a grep que entiende la sintaxis del código fuente y permite manipularlo además de buscar
+  fr: Un outil similaire à grep qui comprend la syntaxe du code source et permet de le manipuler en plus de la recherche
+  id: Alat mirip grep yang memahami sintaks kode sumber dan memungkinkan manipulasi selain pencarian
+  it: Uno strumento simile a grep che comprende la sintassi del codice sorgente e ne permette la manipolazione oltre alla ricerca
+  ja: ソースコードの構文を理解し、検索に加えて編集も行える grep 風のツール
+  ko: 소스 코드 구문을 이해하며 검색 뿐 아니라 편집도 가능한 grep 도구
+  pl: Narzędzie podobne do grep, które rozumie składnię kodu źródłowego i pozwala na manipulowanie nim oprócz wyszukiwania
+  pt: Uma ferramenta semelhante ao grep que entende a sintaxe do código-fonte e permite manipulá-la além da busca
+  ro: Un instrument similar cu grep care înțelege sintaxa codului sursă și permite manipularea ei pe lângă căutare
+  ru: Инструмент, похожий на grep, который понимает синтаксис исходного кода и позволяет изменять его, а не только искать
+  th: เครื่องมือคล้าย grep ที่เข้าใจไวยากรณ์ซอร์สโค้ดและให้คุณจัดการนอกเหนือจากการค้นหา
+  tr: Kaynak kodu sözdizimini anlayan ve aramanın yanı sıra düzenleme de yapabilen grep benzeri bir araç
+  uk: Інструмент, схожий на grep, який розуміє синтаксис вихідного коду та дозволяє його змінювати окрім пошуку
+  vi: Công cụ tương tự grep hiểu cú pháp mã nguồn và cho phép thao tác ngoài việc tìm kiếm
 x:
   source: https://github.com/alexpovel/srgn
   eget: alexpovel/srgn

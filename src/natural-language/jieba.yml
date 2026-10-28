@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 结巴中文分词 做最好的 Python 中文分词组件
   en: Jieba Chinese word segmentation, built to be the best Python Chinese word segmentation component
+  cs: Jieba – segmentace čínských slov, vytvořená jako nejlepší komponenta pro segmentaci čínských slov v Pythonu
+  de: Jieba chinesische Wortsegmentierung, entwickelt als beste Komponente zur chinesischen Wortsegmentierung in Python
+  es: Segmentación de palabras chinas Jieba, creada para ser el mejor componente de segmentación de palabras chinas en Python
+  fr: Segmentation de mots chinois Jieba, conçue comme le meilleur composant de segmentation de mots chinois en Python
+  id: Segmentasi kata Mandarin Jieba, dibangun menjadi komponen segmentasi kata Mandarin Python terbaik
+  it: Segmentazione delle parole cinesi Jieba, realizzata per essere il miglior componente di segmentazione cinese in Python
+  ja: Jieba は中国語単語分割で、Python における最良の中国語単語分割コンポーネントとして構築されました
+  ko: Jieba 중국어 단어 분절, 파이썬 최고의 중국어 단어 분할 구성 요소로 만들어졌습니다
+  pl: Segmentacja słów chińskich Jieba, stworzona jako najlepszy komponent segmentacji chińskich słów w Pythonie
+  pt: Segmentação de palavras chinesas Jieba, criada para ser o melhor componente de segmentação de palavras chinesas em Python
+  ro: Segmentarea cuvintelor chinezești Jieba, creat pentru a fi cea mai bună componentă de segmentare a cuvintelor chinezești în Python
+  ru: Jieba — сегментация китайских слов, созданная, чтобы стать лучшим компонентом сегментации китайских слов на Python
+  th: Jieba การตัดคำภาษาจีน สร้างขึ้นเพื่อเป็นคอมโพเนนต์การตัดคำภาษาจีนที่ดีที่สุดใน Python
+  tr: Jieba Çince kelime bölümleme, Python için en iyi Çince kelime bölümleme bileşeni olmak üzere geliştirildi
+  uk: Jieba — сегментація китайських слів, створена як найкращий компонент сегментації китайських слів на Python
+  vi: Jieba phân tách từ tiếng Trung, được xây dựng để trở thành thành phần phân tách từ tiếng Trung tốt nhất trong Python
 x:
   source: https://github.com/fxsjy/jieba
   yay: python-jieba3

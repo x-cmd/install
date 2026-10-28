@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 适用于任何 shell 的最小、速度极快且可无限定制的提示
   en: The minimal, blazing-fast, and infinitely customizable prompt for any shell
+  cs: Minimální, bleskově rychlý a neomezeně přizpůsobitelný prompt pro jakýkoli shell
+  de: Die minimale, blitzschnelle und unbegrenzt anpassbare Prompt für jede Shell
+  es: El prompt minimalista, velocísimo e infinitamente personalizable para cualquier shell
+  fr: L'invite minimaliste, ultrarapide et infiniment personnalisable pour n'importe quel shell
+  id: Prompt minimal, sangat cepat, dan dapat dikustomisasi tanpa batas untuk shell apa pun
+  it: Il prompt minimale, velocissimo e infinitamente personalizzabile per qualsiasi shell
+  ja: あらゆるシェルに対応する、最小限で超高速、そして無限にカスタマイズできるプロンプト
+  ko: 어떤 셸에서도 사용할 수 있는 최소한의, 아주 빠른, 무한히 사용자 정의 가능한 프롬프트
+  pl: Minimalny, błyskawicznie szybki i nieograniczalny prompt dla każdej powłoki
+  pt: O prompt mínimo, ultra-rápido e infinitamente customizável para qualquer shell
+  ro: Promptul minim, rapid ca fulgerul și infinit personalizabil pentru orice shell
+  ru: Минимальный, сверхбыстрый и бесконечно настраиваемый промпт для любой оболочки
+  th: พรอมต์ที่เล็กที่สุด เร็วดั่งพริบไฟ และปรับแต่งได้ไม่จำกัด สำหรับเชลล์ใดก็ตาม
+  tr: Herhangi bir kabuk için minimal, çok hızlı ve sınırsız özelleştirilebilir istem
+  uk: Мінімальний, надшвидкий і необмежено налаштовуваний промпт для будь-якої оболонки
+  vi: Prompt tối giản, siêu nhanh và tùy chỉnh không giới hạn cho mọi shell
 homepage: https://github.com/starship/starship
 license: ISC
 x:

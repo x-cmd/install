@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Compile Sass to CSS
   cn: 将 Sass 编译为 CSS
+  cs: Kompilovat Sass do CSS
+  de: Sass zu CSS kompilieren
+  es: Compilar Sass a CSS
+  fr: Compiler Sass en CSS
+  id: Kompilasi Sass ke CSS
+  it: Compila Sass in CSS
+  ja: Sass を CSS にコンパイルする
+  ko: Sass를 CSS로 컴파일
+  pl: Kompiluj Sass do CSS
+  pt: Compilar Sass para CSS
+  ro: Compilează Sass în CSS
+  ru: Компилировать Sass в CSS
+  th: คอมไพล์ Sass เป็น CSS
+  tr: Sass'i CSS'e derle
+  uk: Компілювати Sass у CSS
+  vi: Biên dịch Sass sang CSS
 x:
   source: https://github.com/sass/dart-sass
   eget: sass/dart-sass

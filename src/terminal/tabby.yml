@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Tabby 是一个基于 Electron 的跨平台终端，内置 SSH 连接管理器、串口、插件。
   en: Tabby is a cross-platform Electron-based terminal with built-in SSH connection manager, serial port, and plugin system.
+  cs: Tabby je multiplatformní terminál založený na Electronu s vestavěným správcem připojení SSH, sériovým portem a systémem pluginů.
+  de: Tabby ist ein plattformübergreifendes Electron-basiertes Terminal mit integriertem SSH-Verbindungsmanager, seriellem Port und Plugin-System.
+  es: Tabby es una terminal multiplataforma basada en Electron con gestor de conexiones SSH integrado, puerto serie y sistema de complementos.
+  fr: Tabby est un terminal multiplateforme basé sur Electron, avec gestionnaire de connexions SSH intégré, port série et système d'extensions.
+  id: Tabby adalah terminal lintas platform berbasis Electron dengan manajer koneksi SSH bawaan, port serial, dan sistem plugin.
+  it: Tabby è un terminal multipiattaforma basato su Electron con gestore delle connessioni SSH integrato, porta seriale e sistema di plugin.
+  ja: Tabby は Electron ベースのクロスプラットフォーム端末で、SSH 接続マネージャー、シリアルポート、プラグインシステムを内蔵しています。
+  ko: Tabby는 SSH 연결 관리자, 시리얼 포트, 플러그인 시스템을 내장한 Electron 기반 크로스 플랫폼 터미널입니다.
+  pl: Tabby to wieloplatformowy terminal oparty na Electronie z wbudowanym menedżerem połączeń SSH, portem szeregowym i systemem wtyczek.
+  pt: O Tabby é um terminal multiplataforma baseado em Electron com gerenciador de conexões SSH integrado, porta serial e sistema de plugins.
+  ro: Tabby este un terminal multiplatfă bazat pe Electron, cu manager de conexiuni SSH integrat, port serial și sistem de pluginuri.
+  ru: Tabby — кроссплатформенный терминал на базе Electron со встроенным менеджером SSH-подключений, последовательным портом и системой плагинов.
+  th: Tabby เป็นเทอร์มินัลข้ามแพลตฟอร์มที่ใช้ Electron พร้อมตัวจัดการการเชื่อมต่อ SSH, พอร์ตอนุกรม และระบบปลั๊กอินในตัว.
+  tr: Tabby, yerleşik SSH bağlantı yöneticisi, seri port ve eklenti sistemiyle çok platformlu, Electron tabanlı bir terminaldir.
+  uk: Tabby — кроссплатформний термінал на базі Electron із вбудованим менеджером SSH-з'єднань, послідовним портом і системою плагінів.
+  vi: Tabby là terminal đa nền tảng dựa trên Electron với trình quản lý kết nối SSH tích hợp, cổng nối tiếp và hệ thống plugin.
 x:
   source: https://github.com/Eugeny/tabby
   brew: tabby

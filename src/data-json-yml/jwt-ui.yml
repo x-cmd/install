@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A Terminal UI for decoding/encoding JSON Web Tokens
   cn: 用于解码/编码 JSON Web Token 的终端用户界面
+  cs: Terminalové rozhraní pro kódování a dekódování JSON Web Tokenů
+  de: Eine Terminal-Benutzeroberfläche zum Dekodieren und Kodieren von JSON Web Tokens
+  es: Una interfaz de usuario de terminal para decodificar y codificar JSON Web Tokens
+  fr: Une interface utilisateur terminal pour décoder et encoder les JSON Web Tokens
+  id: Antarmuka pengguna terminal untuk mendekode dan mengodekan JSON Web Token
+  it: Un'interfaccia utente da terminale per decodificare e codificare i JSON Web Token
+  ja: JSON Web Token をデコード/エンコードするためのターミナル UI
+  ko: JSON Web Token을 디코딩/인코딩하기 위한 터미널 UI
+  pl: Terminalowy interfejs użytkownika do dekodowania i kodowania tokenów JSON Web Token
+  pt: Uma interface de usuário de terminal para decodificar e codificar JSON Web Tokens
+  ro: O interfață de utilizator în terminal pentru decodificarea și codificarea JSON Web Token
+  ru: Терминальный интерфейс для декодирования и кодирования JSON Web Token
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับการถอดรหัสและเข้ารหัส JSON Web Token
+  tr: JSON Web Token'larını çözmek ve kodlamak için bir terminal kullanıcı arayüzü
+  uk: Термінальний інтерфейс користувача для декодування та кодування JSON Web Token
+  vi: Giao diện người dùng trên terminal để giải mã và mã hóa JSON Web Token
 x:
   source: https://github.com/jwt-rs/jwt-ui
   eget: jwt-rs/jwt-ui

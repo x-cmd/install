@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 在浏览器中打开当前远程仓库
   en: Open the current remote repository in your browser
+  cs: Otevřít aktuální vzdálené repozitář v prohlížeči
+  de: Das aktuelle Remote-Repository im Browser öffnen
+  es: Abrir el repositorio remoto actual en el navegador
+  fr: Ouvrir le dépôt distant actuel dans votre navigateur
+  id: Buka repositori remote saat ini di browser Anda
+  it: Apri il repository remoto corrente nel browser
+  ja: 現在のリモートリポジトリをブラウザで開く
+  ko: 현재 원격 저장소를 브라우저에서 열기
+  pl: Otwórz bieżące zdalne repozytorium w przeglądarce
+  pt: Abra o repositório remoto atual no seu navegador
+  ro: Deschide depozitul remote curent în browserul dvs.
+  ru: Открыть текущий удалённый репозиторий в браузере
+  th: เปิดที่เก็บข้อมูลรีโมตปัจจุบันในเบราว์เซอร์ของคุณ
+  tr: Geçerli uzak depoyu tarayıcınızda açın
+  uk: Відкрити поточний віддалений репозиторій у браузері
+  vi: Mở kho lưu trữ từ xa hiện tại trong trình duyệt của bạn
 x:
   source: https://github.com/yoannfleurydev/gitweb
   eget: yoannfleurydev/gitweb

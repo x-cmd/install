@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Karaf 是一个支持各种框架和技术的模块化运行时
   en: Karaf is the modulith runtime, supporting a wide range of frameworks and technologies
+  cs: Karaf je modulární běhové prostředí podporující širokou škálu frameworků a technologií
+  de: Karaf ist die modulare Laufzeitumgebung, die eine breite Palette von Frameworks und Technologien unterstützt
+  es: Karaf es el runtime modular, compatible con una amplia gama de frameworks y tecnologías
+  fr: Karaf est le runtime modulaire, pris en charge d'un large éventail de frameworks et de technologies
+  id: Karaf adalah runtime modular yang mendukung beragam framework dan teknologi
+  it: Karaf è il runtime modulare che supporta un'ampia gamma di framework e tecnologie
+  ja: Karaf は幅広いフレームワークと技術に対応したモジュール型ランタイムです
+  ko: Karaf는 다양한 프레임워크와 기술을 지원하는 모듈형 런타임입니다
+  pl: Karaf to modularne środowisko uruchomieniowe obsługujące szeroką gamę frameworków i technologii
+  pt: Karaf é o runtime modular que suporta uma ampla gama de frameworks e tecnologias
+  ro: Karaf este runtime-ul modular, care acceptă o gamă largă de framework-uri și tehnologii
+  ru: Karaf — это модульная среда выполнения, поддерживающая широкий спектр фреймворков и технологий
+  th: Karaf คือรันไทม์แบบโมดูลที่รองรับเฟรมเวิร์กและเทคโนโลยีที่หลากหลาย
+  tr: Karaf, çok çeşitli framework ve teknolojileri destekleyen modüler çalışma zamanıdır
+  uk: Karaf — це модульне середовище виконання, що підтримує широкий спектр фреймворків і технологій
+  vi: Karaf là runtime mô-đun hỗ trợ nhiều loại framework và công nghệ khác nhau
 x:
   source: https://github.com/apache/karaf
   yay: apache-karaf

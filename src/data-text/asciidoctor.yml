@@ -3,6 +3,22 @@ homepage: https://github.com/asciidoctor/asciidoctor
 desc:
   cn: Asciidoctor 是一个快速、开源、基于 Ruby 的文本处理器
   en: Asciidoctor is a fast, open source, Ruby-based text processor
+  cs: Asciidoctor je rychlý textový procesor založený na Ruby s otevřeným zdrojovým kódem
+  de: Asciidoctor ist ein schneller, quelloffener Textprozessor auf Basis von Ruby
+  es: Asciidoctor es un procesador de texto rápido, de código abierto y basado en Ruby
+  fr: Asciidoctor est un processeur de texte rapide, open source et basé sur Ruby
+  id: Asciidoctor adalah pemproses teks yang cepat, sumber terbuka, dan berbasis Ruby
+  it: Asciidoctor è un elaboratore di testo veloce, open source e basato su Ruby
+  ja: Asciidoctor は高速なオープンソースの Ruby ベーステキストプロセッサです
+  ko: Asciidoctor는 빠르고 오픈 소스인 Ruby 기반 텍스트 처리기입니다
+  pl: Asciidoctor to szybki, open source'owy procesor tekstu oparty na Ruby
+  pt: O Asciidoctor é um processador de texto rápido, de código aberto e baseado em Ruby
+  ro: Asciidoctor este un procesor de text rapid, open source, bazat pe Ruby
+  ru: Asciidoctor — быстрый текстовый процессор с открытым исходным кодом на основе Ruby
+  th: Asciidoctor เป็นโปรแกรมประมวลผลข้อความที่เร็ว เป็นโอเพนซอร์ส และใช้ Ruby
+  tr: Asciidoctor, Ruby tabanlı hızlı ve açık kaynaklı bir metin işleyicidir
+  uk: Asciidoctor — швидкий текстовий процесор з відкритим кодом на основі Ruby
+  vi: Asciidoctor là trình xử lý văn bản nhanh, mã nguồn mở, dựa trên Ruby
 x:
   source: https://github.com/asciidoctor/asciidoctor
   brew: asciidoctor

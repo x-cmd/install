@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 交互式 Grep
   en: Interactive Grep
+  cs: Interaktivní Grep
+  de: Interaktives Grep
+  es: Grep interactivo
+  fr: Grep interactif
+  id: Grep interaktif
+  it: Grep interattivo
+  ja: 対話型 Grep
+  ko: 대화형 Grep
+  pl: Interaktywny Grep
+  pt: Grep interativo
+  ro: Grep interactiv
+  ru: Интерактивный Grep
+  th: Grep แบบโต้ตอบ
+  tr: Etkileşimli Grep
+  uk: Інтерактивний Grep
+  vi: Grep tương tác
 x:
   source: https://github.com/konradsz/igrep
   eget: konradsz/igrep

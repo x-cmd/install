@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于 WebAssembly 模块低级操作的 CLI 和 Rust 库
   en: CLI and Rust libraries for low-level manipulation of WebAssembly modules
+  cs: CLI a knihovny Rust pro nízkoúrovňovou manipulaci s moduly WebAssembly
+  de: CLI und Rust-Bibliotheken für die Low-Level-Manipulation von WebAssembly-Modulen
+  es: CLI y bibliotecas de Rust para la manipulación de bajo nivel de módulos WebAssembly
+  fr: CLI et bibliothèques Rust pour la manipulation de bas niveau des modules WebAssembly
+  id: CLI dan pustaka Rust untuk manipulasi tingkat rendah pada modul WebAssembly
+  it: CLI e librerie Rust per la manipolazione a basso livello dei moduli WebAssembly
+  ja: WebAssembly モジュールの低レベル操作のための CLI と Rust ライブラリ
+  ko: WebAssembly 모듈의 저수준 조작을 위한 CLI 및 Rust 라이브러리
+  pl: CLI i biblioteki Rust do niskopoziomowej manipulacji modułami WebAssembly
+  pt: CLI e bibliotecas Rust para manipulação de baixo nível de módulos WebAssembly
+  ro: CLI și biblioteci Rust pentru manipularea la nivel scăzut a modulelor WebAssembly
+  ru: CLI и библиотеки Rust для низкоуровневой работы с модулями WebAssembly
+  th: CLI และไลบรารี Rust สำหรับการจัดการโมดูล WebAssembly ระดับต่ำ
+  tr: WebAssembly modüllerinin düşük seviyede manipülasyonu için CLI ve Rust kütüphaneleri
+  uk: CLI та бібліотеки Rust для низькорівневої роботи з модулями WebAssembly
+  vi: CLI và thư viện Rust để thao tác mức thấp với các module WebAssembly
 x:
   source: https://github.com/bytecodealliance/wasm-tools
   eget: bytecodealliance/wasm-tools

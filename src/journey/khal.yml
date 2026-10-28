@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Khal 是基于标准的 CLI（控制台）日历程序，能够通过 vdirsyncer 与 CalDAV 服务器同步
   en: Khal is a standards based CLI (console) calendar program, able to synchronize with CalDAV servers through vdirsyncer
+  cs: Khal je standardizovaný program kalendáře pro CLI (konzoli), který dokáže synchronizovat se servery CalDAV prostřednictvím vdirsyncer
+  de: Khal ist ein standardbasiertes CLI-(Konsolen-)Kalenderprogramm, das über vdirsyncer mit CalDAV-Servern synchronisieren kann
+  es: Khal es un programa de calendario para CLI (consola) basado en estándares, capaz de sincronizarse con servidores CalDAV mediante vdirsyncer
+  fr: Khal est un programme de calendrier CLI (console) basé sur les normes, capable de se synchroniser avec des serveurs CalDAV via vdirsyncer
+  id: Khal adalah program kalender CLI (konsol) berbasis standar yang dapat menyinkronkan dengan server CalDAV melalui vdirsyncer
+  it: Khal è un programma di calendario per CLI (console) basato su standard, in grado di sincronizzarsi con i server CalDAV tramite vdirsyncer
+  ja: Khalは標準規格に準拠したCLI（コンソール）カレンダープログラムで、vdirsyncerを通じてCalDAVサーバーと同期できます
+  ko: Khal은 표준 기반 CLI(콘솔) 캘린더 프로그램으로, vdirsyncer를 통해 CalDAV 서버와 동기화할 수 있습니다
+  pl: Khal to standardowy program kalendarza CLI (konsolowy), który potrafi synchronizować się z serwerami CalDAV przez vdirsyncer
+  pt: Khal é um programa de calendário para CLI (console) baseado em padrões, capaz de sincronizar com servidores CalDAV por meio do vdirsyncer
+  ro: Khal este un program de calendar pentru CLI (consolă) bazat pe standarde, capabil să se sincronizeze cu servere CalDAV prin vdirsyncer
+  ru: Khal — стандартная консольная (CLI) программа-календарь, умеющая синхронизироваться с серверами CalDAV через vdirsyncer
+  th: Khal เป็นโปรแกรมปฏิทิน CLI (คอนโซล) ตามมาตรฐาน สามารถซิงค์กับเซิร์ฟเวอร์ CalDAV ผ่าน vdirsyncer ได้
+  tr: Khal, standartlara dayalı bir CLI (konsol) takvim programıdır ve vdirsyncer üzerinden CalDAV sunucularıyla eşitleyebilir
+  uk: Khal — стандартна консольна (CLI) програма-календар, здатна синхронізуватися із серверами CalDAV через vdirsyncer
+  vi: Khal là chương trình lịch CLI (bảng điều khiển) dựa trên tiêu chuẩn, có thể đồng bộ với máy chủ CalDAV qua vdirsyncer
 x:
   source: https://github.com/pimutils/khal
   apt: khal

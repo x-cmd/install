@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: AI 驱动的 Kubernetes 助手
   en: AI powered Kubernetes Assistant
+  cs: Asistent Kubernetes poháněný umělou inteligencí
+  de: KI-gestützter Kubernetes-Assistent
+  es: Asistente de Kubernetes impulsado por IA
+  fr: Assistant Kubernetes propulsé par l'IA
+  id: Asisten Kubernetes bertenaga AI
+  it: Assistente Kubernetes basato sull'IA
+  ja: AI 驱动的 Kubernetes アシスタント
+  ko: AI 기반 Kubernetes 어시스턴트
+  pl: Asystent Kubernetes sterowany sztuczną inteligencją
+  pt: Assistente do Kubernetes com IA
+  ro: Asistent Kubernetes bazat pe AI
+  ru: Ассистент Kubernetes на базе ИИ
+  th: ผู้ช่วย Kubernetes ที่ขับเคลื่อนด้วย AI
+  tr: Yapay zeka destekli Kubernetes Asistanı
+  uk: Асистент Kubernetes на основі ШІ
+  vi: Trợ lý Kubernetes được hỗ trợ bởi AI
 x:
   source: https://github.com/GoogleCloudPlatform/kubectl-ai
   eget: GoogleCloudPlatform/kubectl-ai

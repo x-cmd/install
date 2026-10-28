@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: CheckOV 是用于基础架构（IAC）的静态代码分析工具，也是图像和开源软件包的软件组成分析（SCA）工具
   en: Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages
+  cs: Checkov je nástroj pro statickou analýzu kódu pro infrastrukturu jako kód (IaC) a zároveň nástroj pro analýzu kompozice softwaru (SCA) obrazů a open source balíčků
+  de: Checkov ist ein Tool zur statischen Codeanalyse für Infrastructure as Code (IaC) und zugleich ein Tool zur Software Composition Analysis (SCA) für Images und Open-Source-Pakete
+  es: Checkov es una herramienta de análisis estático de código para infraestructura como código (IaC) y también una herramienta de análisis de composición de software (SCA) para imágenes y paquetes de código abierto
+  fr: Checkov est un outil d'analyse statique de code pour l'infrastructure as code (IaC), ainsi qu'un outil d'analyse de composition logicielle (SCA) pour les images et les paquets open source
+  id: Checkov adalah alat analisis kode statis untuk infrastruktur sebagai kode (IaC) dan juga alat analisis komposisi perangkat lunak (SCA) untuk image dan paket open source
+  it: Checkov è uno strumento di analisi statica del codice per Infrastructure as Code (IaC) e anche uno strumento di analisi della composizione del software (SCA) per immagini e pacchetti open source
+  ja: Checkov は Infrastructure as Code (IaC) のための静的コード解析ツールであり、イメージやオープンソースパッケージ向けのソフトウェア構成分析 (SCA) ツールでもあります
+  ko: Checkov는 Infrastructure as Code (IaC)를 위한 정적 코드 분석 도구이며, 동시에 이미지와 오픈 소스 패키지를 위한 소프트웨어 구성 분석 (SCA) 도구입니다
+  pl: Checkov to narzędzie do statycznej analizy kodu dla Infrastructure as Code (IaC), a także narzędzie do analizy składu oprogramowania (SCA) dla obrazów i pakietów open source
+  pt: O Checkov é uma ferramenta de análise estática de código para infraestrutura como código (IaC) e também uma ferramenta de análise de composição de software (SCA) para imagens e pacotes de código aberto
+  ro: Checkov este un instrument de analiză statică a codului pentru infrastructură ca cod (IaC) și, de asemenea, un instrument de analiză a compoziției software (SCA) pentru imagini și pachete open source
+  ru: Checkov — это инструмент статического анализа кода для инфраструктуры как кода (IaC), а также инструмент анализа состава программного обеспечения (SCA) для образов и пакетов с открытым исходным кодом
+  th: Checkov คือเครื่องมือวิเคราะห์โค้ดแบบสถิติสำหรับ Infrastructure as Code (IaC) และยังเป็นเครื่องมือวิเคราะห์องค์ประกอบซอฟต์แวร์ (SCA) สำหรับอิมเมจและแพ็กเกจโอเพนซอร์ส
+  tr: Checkov, Infrastructure as Code (IaC) için statik kod analizi aracı ve aynı zamanda imajlar ile açık kaynak paketler için Yazılım Bileşimi Analizi (SCA) aracıdır
+  uk: Checkov — це інструмент статичного аналізу коду для інфраструктури як коду (IaC), а також інструмент аналізу складу програмного забезпечення (SCA) для образів і пакетів з відкритим кодом
+  vi: Checkov là công cụ phân tích mã tĩnh dành cho Infrastructure as Code (IaC) và cũng là công cụ phân tích thành phần phần mềm (SCA) cho image và các gói mã nguồn mở
 x:
   source: https://github.com/bridgecrewio/checkov
   eget: bridgecrewio/checkov

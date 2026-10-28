@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Dry 是一个用于管理 Docker 和 Docker Swarm 的终端应用程序
   en: Dry is a terminal application to manage Docker and Docker Swarm
+  cs: Dry je terminálová aplikace pro správu Dockeru a Docker Swarm
+  de: Dry ist eine Terminal-Anwendung zur Verwaltung von Docker und Docker Swarm
+  es: Dry es una aplicación de terminal para gestionar Docker y Docker Swarm
+  fr: Dry est une application terminal pour gérer Docker et Docker Swarm
+  id: Dry adalah aplikasi terminal untuk mengelola Docker dan Docker Swarm
+  it: Dry è un'applicazione terminale per gestire Docker e Docker Swarm
+  ja: Dry は Docker と Docker Swarm を管理するためのターミナルアプリケーションです
+  ko: Dry는 Docker와 Docker Swarm을 관리하는 터미널 애플리케이션입니다
+  pl: Dry to aplikacja terminalowa do zarządzania Dockerem i Docker Swarm
+  pt: O Dry é um aplicativo de terminal para gerenciar Docker e Docker Swarm
+  ro: Dry este o aplicație terminal pentru gestionarea Docker și Docker Swarm
+  ru: Dry — терминальное приложение для управления Docker и Docker Swarm
+  th: Dry เป็นแอปพลิเคชันเทอร์มินัลสำหรับจัดการ Docker และ Docker Swarm
+  tr: Dry, Docker ve Docker Swarm'ı yönetmek için bir terminal uygulamasıdır
+  uk: Dry — термінальний застосунок для керування Docker і Docker Swarm
+  vi: Dry là ứng dụng terminal để quản lý Docker và Docker Swarm
 x:
   source: https://github.com/moncho/dry
   eget: moncho/dry

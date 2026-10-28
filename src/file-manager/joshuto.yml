@@ -4,6 +4,22 @@ license: LGPL-3.0
 desc:
   cn: 受 Ranger 启发的终端文件管理器
   en: Terminal file manager inspired by ranger
+  cs: Správce souborů v terminálu inspirovaný programem ranger
+  de: Terminal-Dateimanager, inspiriert von ranger
+  es: Gestor de archivos de terminal inspirado en ranger
+  fr: Gestionnaire de fichiers en terminal inspiré de ranger
+  id: Pengelola file terminal terinspirasi oleh ranger
+  it: File manager da terminale ispirato a ranger
+  ja: ranger から着想を得たターミナルファイルマネージャー
+  ko: ranger에서 영감을 받은 터미널 파일 관리자
+  pl: Terminalowy menedżer plików inspirowany programem ranger
+  pt: Gerenciador de arquivos de terminal inspirado no ranger
+  ro: Manager de fișiere pentru terminal inspirat de ranger
+  ru: Терминальный файловый менеджер, вдохновлённый ranger
+  th: ตัวจัดการไฟล์บนเทอร์มินัลที่ได้แรงบันดาลใจจาก ranger
+  tr: ranger'dan esinlenen terminal dosya yöneticisi
+  uk: Термінальний файловий менеджер, натхненний ranger
+  vi: Trình quản lý tệp dòng lệnh lấy cảm hứng từ ranger
 x:
   source: https://github.com/kamiyaa/joshuto
   dnf: joshuto

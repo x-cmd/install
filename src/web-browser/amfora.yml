@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个用于 Gemini 协议的漂亮终端浏览器。
   en: A fancy terminal browser for the Gemini protocol.
+  cs: Pěkný terminálový prohlížeč pro protokol Gemini.
+  de: Ein eleganter Terminal-Browser für das Gemini-Protokoll.
+  es: Un elegante navegador de terminal para el protocolo Gemini.
+  fr: Un navigateur terminal élégant pour le protocole Gemini.
+  id: Peramban terminal yang anggun untuk protokol Gemini.
+  it: Un elegante browser da terminale per il protocollo Gemini.
+  ja: Gemini プロトコル向けの端末向けブラウザ。
+  ko: Gemini 프로토콜을 위한 멋진 터미널 브라우저.
+  pl: Elegancki przeglądarka terminalowa dla protokołu Gemini.
+  pt: Um elegante navegador de terminal para o protocolo Gemini.
+  ro: Un browser de terminal elegant pentru protocolul Gemini.
+  ru: Элегантный терминальный браузер для протокола Gemini.
+  th: เบราว์เซอร์เทอร์มินัลที่สวยงามสำหรับโปรโตคอล Gemini๏
+  tr: Gemini protokolü için şık bir terminal tarayıcısı.
+  uk: Елегантний термінальний браузер для протоколу Gemini.
+  vi: Trình duyệt terminal thanh lịch cho giao thức Gemini.
 x:
   source: https://github.com/makew0rld/amfora
   eget: makew0rld/amfora

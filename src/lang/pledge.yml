@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: 通过 SECCOMP BPF 和 Landlock LSM 将 OpenBSD API 移植到 Linux 用户态
   en: OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
+  cs: API OpenBSD přenesené do uživatelského prostoru Linuxu pomocí SECCOMP BPF a Landlock LSM
+  de: OpenBSD-APIs mithilfe von SECCOMP BPF und Landlock LSM in den Benutzerbereich von Linux portiert
+  es: API de OpenBSD portadas al espacio de usuario de Linux mediante SECCOMP BPF y Landlock LSM
+  fr: API OpenBSD porté vers l'espace utilisateur Linux à l'aide de SECCOMP BPF et Landlock LSM
+  id: API OpenBSD dipindahkan ke ruang pengguna Linux menggunakan SECCOMP BPF dan Landlock LSM
+  it: API di OpenBSD portate nello spazio utente di Linux usando SECCOMP BPF e Landlock LSM
+  ja: SECCOMP BPF と Landlock LSM を使って OpenBSD の API を Linux のユーザー空間へ移植したもの
+  ko: SECCOMP BPF와 Landlock LSM을 사용해 OpenBSD API를 Linux 사용자 공간으로 이식한 것
+  pl: API OpenBSD przeniesione do przestrzeni użytkownika Linuksa za pomocą SECCOMP BPF i Landlock LSM
+  pt: APIs do OpenBSD portadas para o espaço de usuário do Linux usando SECCOMP BPF e Landlock LSM
+  ro: API-uri OpenBSD portate în spațiul de utilizator Linux folosind SECCOMP BPF și Landlock LSM
+  ru: API OpenBSD перенесены в пользовательское пространство Linux с помощью SECCOMP BPF и Landlock LSM
+  th: พอร์ต API ของ OpenBSD ไปยังพื้นที่ผู้ใช้ของ Linux โดยใช้ SECCOMP BPF และ Landlock LSM
+  tr: OpenBSD API'leri SECCOMP BPF ve Landlock LSM kullanılarak Linux kullanıcı alanına taşındı
+  uk: API OpenBSD перенесено до користувацького простору Linux за допомогою SECCOMP BPF і Landlock LSM
+  vi: API của OpenBSD được chuyển sang không gian người dùng Linux bằng SECCOMP BPF và Landlock LSM
 x:
   source: https://github.com/jart/pledge
   eget: jart/pledge

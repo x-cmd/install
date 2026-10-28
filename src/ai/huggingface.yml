@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Huggingface Hub 的官方 Python 客户端
   en: The official Python client for the Huggingface Hub
+  cs: Oficiální Python klient pro Huggingface Hub
+  de: Der offizielle Python-Client für den Huggingface Hub
+  es: El cliente oficial de Python para Huggingface Hub
+  fr: Le client Python officiel pour Huggingface Hub
+  id: Klien Python resmi untuk Huggingface Hub
+  it: Il client Python ufficiale per Huggingface Hub
+  ja: Huggingface Hub 用の公式 Python クライアント
+  ko: Huggingface Hub용 공식 Python 클라이언트
+  pl: Oficjalny klient Python dla Huggingface Hub
+  pt: O cliente oficial em Python para o Huggingface Hub
+  ro: Clientul oficial Python pentru Huggingface Hub
+  ru: Официальный клиент Python для Huggingface Hub
+  th: ไคลเอนต์ Python อย่างเป็นทางการของ Huggingface Hub
+  tr: Huggingface Hub için resmi Python istemcisi
+  uk: Офіційний клієнт Python для Huggingface Hub
+  vi: Trình khách Python chính thức cho Huggingface Hub
 x:
   source: https://github.com/huggingface/huggingface_hub
   brew: huggingface-cli

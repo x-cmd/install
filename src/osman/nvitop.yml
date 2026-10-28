@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个交互式的 NVIDIA-GPU 进程查看器及更多功能。
   en: An interactive NVIDIA-GPU process viewer and beyond.
+  cs: Interaktivní prohlížeč procesů NVIDIA GPU a mnohem více.
+  de: Ein interaktiver NVIDIA-GPU-Prozessbetrachter und mehr.
+  es: Un visor de procesos de GPU NVIDIA interactivo y mucho más.
+  fr: Un visionneuse interactive des processus GPU NVIDIA, et bien plus encore.
+  id: Penampil proses NVIDIA GPU interaktif dan banyak lagi.
+  it: Un visualizzatore interattivo dei processi GPU NVIDIA e molto altro.
+  ja: 対話型の NVIDIA GPU プロセスビューア、そしてそれ以上。
+  ko: 대화형 NVIDIA GPU 프로세스 뷰어 그 외 더 많은 기능.
+  pl: Interaktywna przeglądarka procesów NVIDIA GPU i wiele więcej.
+  pt: Um visualizador interativo de processos de GPU NVIDIA e muito mais.
+  ro: Un vizualizator interactiv de procese GPU NVIDIA și multe altele.
+  ru: Интерактивный просмотр процессов NVIDIA GPU и многое другое.
+  th: ตัวดูกระบวนการ GPU ของ NVIDIA แบบโต้ตอบ และอีกมาก
+  tr: Etkileşimli bir NVIDIA GPU işlem görüntüleyicisi ve fazlası.
+  uk: Інтерактивний переглядач процесів NVIDIA GPU і багато іншого.
+  vi: Trình xem tiến trình GPU NVIDIA tương tác và nhiều hơn nữa.
 x:
   source: https://github.com/XuehaiPan/nvitop
 rule:

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于 asdf 版本管理器的 Clusterawsadm 插件
   en: Clusterawsadm plugin for the asdf version manager
+  cs: Plugin Clusterawsadm pro správce verzí asdf
+  de: Clusterawsadm-Plugin für den Versionsmanager asdf
+  es: Complemento Clusterawsadm para el gestor de versiones asdf
+  fr: Plugin Clusterawsadm pour le gestionnaire de versions asdf
+  id: Plugin Clusterawsadm untuk pengelola versi asdf
+  it: Plugin Clusterawsadm per il gestore di versioni asdf
+  ja: asdf バージョンマネージャ向けの Clusterawsadm プラグイン
+  ko: asdf 버전 관리자를 위한 Clusterawsadm 플러그인
+  pl: Wtyczka Clusterawsadm dla menedżera wersji asdf
+  pt: Plugin Clusterawsadm para o gerenciador de versões asdf
+  ro: Pluginul Clusterawsadm pentru managerul de versiuni asdf
+  ru: Плагин Clusterawsadm для менеджера версий asdf
+  th: ปลั๊กอิน Clusterawsadm สำหรับตัวจัดการเวอร์ชัน asdf
+  tr: asdf sürüm yöneticisi için Clusterawsadm eklentisi
+  uk: Плагін Clusterawsadm для менеджера версій asdf
+  vi: Plugin Clusterawsadm cho trình quản lý phiên bản asdf
 x:
   source: https://github.com/kubernetes-sigs/cluster-api-provider-aws
   eget: kubernetes-sigs/cluster-api-provider-aws

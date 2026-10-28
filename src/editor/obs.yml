@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 在终端中与 Obsidian 交互。打开、搜索、创建、更新、移动和删除笔记
   en: Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes
+  cs: Pracujte s Obsidianem v terminálu. Otevírejte, hledejte, vytvářejte, upravujte, přesouvejte a mažte poznámky
+  de: Arbeite mit Obsidian im Terminal. Notizen öffnen, suchen, erstellen, aktualisieren, verschieben und löschen
+  es: Interactúa con Obsidian en la terminal. Abre, busca, crea, actualiza, mueve y elimina notas
+  fr: Interagissez avec Obsidian dans le terminal. Ouvrez, recherchez, créez, mettez à jour, déplacez et supprimez des notes
+  id: Bekerja dengan Obsidian di terminal. Buka, cari, buat, perbarui, pindahkan, dan hapus catatan
+  it: Interagisci con Obsidian nel terminale. Apri, cerca, crea, aggiorna, sposta ed elimina note
+  ja: ターミナルで Obsidian を操作します。ノートを開く、検索、作成、更新、移動、削除できます
+  ko: 터미널에서 Obsidian과 상호작용하세요. 노트 열기, 검색, 만들기, 업데이트, 이동, 삭제
+  pl: Interakcja z Obsidian w terminalu. Otwieraj, szukaj, twórz, aktualizuj, przenosz i usuwaj notatki
+  pt: Interaja com o Obsidian no terminal. Abra, pesquise, crie, atualize, mova e exclua notas
+  ro: Interacționează cu Obsidian în terminal. Deschide, caută, creează, actualizează, mută și șterge notițe
+  ru: Взаимодействуйте с Obsidian в терминале. Открывайте, ищите, создавайте, обновляйте, перемещайте и удаляйте заметки
+  th: โต้ตอบกับ Obsidian ในเทอร์มินัล เปิด ค้นหา สร้าง อัปเดต ย้าย และลบโน้ต
+  tr: Terminalde Obsidian ile etkileşim kurun. Notları açın, arayın, oluşturun, güncelleyin, taşıyın ve silin
+  uk: Взаємодійствуйте з Obsidian у терміналі. Відкривайте, шукайте, створюйте, оновлюйте, переміщуйте та видаляйте нотатки
+  vi: Tương tác với Obsidian trong terminal. Mở, tìm kiếm, tạo, cập nhật, di chuyển và xóa ghi chú
 x:
   source: https://github.com/Yakitrak/obsidian-cli
   eget: Yakitrak/obsidian-cli

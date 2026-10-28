@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端文件管理器
   en: Terminal file manager
+  cs: Správce souborů v terminálu
+  de: Terminal-Dateimanager
+  es: Gestor de archivos de terminal
+  fr: Gestionnaire de fichiers en terminal
+  id: Pengelola file terminal
+  it: File manager da terminale
+  ja: ターミナルファイルマネージャー
+  ko: 터미널 파일 관리자
+  pl: Terminalowy menedżer plików
+  pt: Gerenciador de arquivos de terminal
+  ro: Manager de fișiere pentru terminal
+  ru: Терминальный файловый менеджер
+  th: ตัวจัดการไฟล์บนเทอร์มินัล
+  tr: Terminal dosya yöneticisi
+  uk: Термінальний файловий менеджер
+  vi: Trình quản lý tệp dòng lệnh
 x:
   source: https://github.com/gokcehan/lf
   eget: gokcehan/lf

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 自动化 Kubernetes 配置编辑
   en: Automate Kubernetes Configuration Editing
+  cs: Automatizujte úpravu konfigurace Kubernetes
+  de: Bearbeitung der Kubernetes-Konfiguration automatisieren
+  es: Automatiza la edición de la configuración de Kubernetes
+  fr: Automatisez l'édition de la configuration Kubernetes
+  id: Otomatisasi penyuntingan konfigurasi Kubernetes
+  it: Automatizza la modifica della configurazione Kubernetes
+  ja: Kubernetes の設定編集を自動化する
+  ko: Kubernetes 구성 편집 자동화
+  pl: Zautomatyzuj edycję konfiguracji Kubernetes
+  pt: Automatize a edição de configuração do Kubernetes
+  ro: Automatizați editarea configurației Kubernetes
+  ru: Автоматизация редактирования конфигурации Kubernetes
+  th: ทำให้การแก้ไขค่า configuration ของ Kubernetes เป็นอัตโนมัติ
+  tr: Kubernetes yapılandırması düzenlemesini otomatikleştirin
+  uk: Автоматизація редагування конфігурації Kubernetes
+  vi: Tự động hóa việc chỉnh sửa cấu hình Kubernetes
 x:
   source: https://github.com/kptdev/kpt
   eget: kptdev/kpt

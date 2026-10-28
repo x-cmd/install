@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: 在引导扇区中引导 LISP
   en: Bootstrapping LISP in a Boot Sector
+  cs: Bootstrapping LISP v bootovacím sektoru
+  de: LISP in einem Bootsektor bootstrappen
+  es: Arranque de LISP en un sector de arranque
+  fr: Bootstrap de LISP dans un secteur de démarrage
+  id: Bootstrap LISP di dalam Boot Sector
+  it: Bootstrap di LISP in un settore di avvio
+  ja: ブートセクタで LISP をブートストラップする
+  ko: 부트 섹터에서 LISP를 부트스트랩하기
+  pl: Bootstrapowanie LISP w sektorze rozruchowym
+  pt: Inicialização do LISP em um setor de inicialização
+  ro: Bootstrapping LISP într-un sector de boot
+  ru: Загрузка LISP в загрузочном секторе
+  th: บูตสแตรป LISP ในบูตเซกเตอร์
+  tr: Önyükleme sektöründe LISP başlatma
+  uk: Завантаження LISP у завантажувальному секторі
+  vi: Khởi động LISP trong sector khởi động
 x:
   source: https://github.com/jart/sectorlisp
   eget: jart/sectorlisp

@@ -3,6 +3,22 @@ homepage: https://www.riverbankcomputing.com/hg
 desc:
   cn: PyQt 构建器是用于 PyQt 和扩展 PyQt 的项目的符合 PEP 517 的构建系统
   en: PyQt-builder is the PEP 517 compliant build system for PyQt and projects that extend PyQt
+  cs: PyQt-builder je systém sestavení vyhovující PEP 517 pro PyQt a projekty, které PyQt rozšiřují
+  de: PyQt-builder ist das PEP 517-konforme Buildsystem für PyQt und Projekte, die PyQt erweitern
+  es: PyQt-builder es el sistema de compilación conforme a PEP 517 para PyQt y para proyectos que amplían PyQt
+  fr: PyQt-builder est le système de build conforme à PEP 517 pour PyQt et les projets qui étendent PyQt
+  id: PyQt-builder adalah sistem build yang sesuai PEP 517 untuk PyQt dan proyek yang memperluas PyQt
+  it: PyQt-builder è il sistema di build conforme a PEP 517 per PyQt e per i progetti che estendono PyQt
+  ja: PyQt-builder は PyQt および PyQt を拡張するプロジェクト向けの PEP 517 準拠のビルドシステムです
+  ko: PyQt-builder는 PyQt 및 PyQt를 확장하는 프로젝트를 위한 PEP 517 준수 빌드 시스템입니다
+  pl: PyQt-builder to system budowania zgodny z PEP 517 dla PyQt oraz projektów rozszerzających PyQt
+  pt: PyQt-builder é o sistema de build compatível com PEP 517 para PyQt e projetos que estendem o PyQt
+  ro: PyQt-builder este sistemul de build conform PEP 517 pentru PyQt și pentru proiectele care extind PyQt
+  ru: PyQt-builder — это система сборки, соответствующая PEP 517, для PyQt и проектов, расширяющих PyQt
+  th: PyQt-builder เป็นระบบบิลด์ที่สอดคล้องกับ PEP 517 สำหรับ PyQt และโปรเจกต์ที่ขยาย PyQt
+  tr: PyQt-builder, PyQt ve PyQt'yi genişleten projeler için PEP 517 uyumlu bir derleme sistemidir
+  uk: PyQt-builder — це система збирання, що відповідає PEP 517, для PyQt та проєктів, які розширюють PyQt
+  vi: PyQt-builder là hệ thống build tuân thủ PEP 517 cho PyQt và cho các dự án mở rộng PyQt
 rule:
   darwin/brew:
     cmd: brew install pyqt-builder

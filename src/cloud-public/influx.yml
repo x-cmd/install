@@ -2,6 +2,22 @@ lang: Go
 desc:
   en: CLI for managing resources in InfluxDB v2
   cn: 用于管理 InfluxDB v2 中资源的 CLI
+  cs: CLI pro správu zdrojů v InfluxDB v2
+  de: CLI zur Verwaltung von Ressourcen in InfluxDB v2
+  es: CLI para gestionar recursos en InfluxDB v2
+  fr: CLI pour gérer les ressources dans InfluxDB v2
+  id: CLI untuk mengelola sumber daya di InfluxDB v2
+  it: CLI per gestire le risorse in InfluxDB v2
+  ja: InfluxDB v2 のリソースを管理するための CLI
+  ko: InfluxDB v2에서 리소스를 관리하는 CLI
+  pl: CLI do zarządzania zasobami w InfluxDB v2
+  pt: CLI para gerenciar recursos no InfluxDB v2
+  ro: CLI pentru gestionarea resurselor în InfluxDB v2
+  ru: CLI для управления ресурсами в InfluxDB v2
+  th: CLI สำหรับจัดการทรัพยากรใน InfluxDB v2
+  tr: InfluxDB v2 içindeki kaynakları yönetmek için CLI
+  uk: CLI для керування ресурсами в InfluxDB v2
+  vi: CLI để quản lý các tài nguyên trong InfluxDB v2
 homepage: https://github.com/influxdata/influx-cli
 license: MIT
 x:

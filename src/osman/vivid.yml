@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: vivid 是一个控制 ls、 tree、 fd、 bfs、dust 和许多其他工具的彩色输出的 LS _ COlors 环境变量的生成器
   en: vivid is a generator for the LS_COLORS environment variable that controls the colorized output of ls, tree, fd, bfs, dust and many other tools
+  cs: vivid je generátor proměnné prostředí LS_COLORS, která řídí barevný výstup nástrojů ls, tree, fd, bfs, dust a mnoha dalších
+  de: vivid ist ein Generator für die Umgebungsvariable LS_COLORS, die die farbige Ausgabe von ls, tree, fd, bfs, dust und vielen anderen Werkzeugen steuert
+  es: vivid es un generador de la variable de entorno LS_COLORS que controla la salida en color de ls, tree, fd, bfs, dust y muchas otras herramientas
+  fr: vivid est un générateur de la variable d'environnement LS_COLORS qui contrôle la sortie colorée de ls, tree, fd, bfs, dust et de nombreux autres outils
+  id: vivid adalah generator untuk variabel lingkungan LS_COLORS yang mengatur keluaran berwarna dari ls, tree, fd, bfs, dust dan banyak alat lainnya
+  it: vivid è un generatore per la variabile d'ambiente LS_COLORS che controlla l'output a colori di ls, tree, fd, bfs, dust e molti altri strumenti
+  ja: vivid は、ls、tree、fd、bfs、dust およびその他多くのツールのカラー出力を制御する環境変数 LS_COLORS のジェネレーターです
+  ko: vivid는 ls, tree, fd, bfs, dust 및 많은 다른 도구의 컬러 출력을 제어하는 환경 변수 LS_COLORS 생성기입니다
+  pl: vivid to generator zmiennej środowiskowej LS_COLORS, która steruje kolorowym wyjściem narzędzi ls, tree, fd, bfs, dust i wielu innych
+  pt: vivid é um gerador da variável de ambiente LS_COLORS que controla a saída colorida de ls, tree, fd, bfs, dust e muitas outras ferramentas
+  ro: vivid este un generator pentru variabila de mediu LS_COLORS care controlează ieșirea colorată a instrumentelor ls, tree, fd, bfs, dust și a mulor altele
+  ru: vivid - генератор переменной окружения LS_COLORS, управляющей цветным выводом ls, tree, fd, bfs, dust и многих других утилит
+  th: vivid คือตัวสร้างตัวแปรสภาพแวดล้อม LS_COLORS ที่ควบคุมผลลัพธ์สีของ ls, tree, fd, bfs, dust และเครื่องมืออื่น ๆ อีกมาก
+  tr: vivid, ls, tree, fd, bfs, dust ve diğer birçok aracın renkli çıktısını denetleyen LS_COLORS ortam değişkeni oluşturucusudur
+  uk: vivid - генератор змінної оточення LS_COLORS, яка керує кольоровим виводом ls, tree, fd, bfs, dust та багатьох інших утиліт
+  vi: vivid là trình tạo biến môi trường LS_COLORS để điều khiển đầu ra có màu của ls, tree, fd, bfs, dust và nhiều công cụ khác
 x:
   source: https://github.com/sharkdp/vivid
   eget: sharkdp/vivid

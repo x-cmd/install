@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 安装最少的 macOS (和 Linux)上的容器运行时
   en: Container runtimes on macOS (and Linux) with minimal setup
+  cs: Kontejnerové běhové prostředí na macOS (a Linuxu) s minimálním nastavením
+  de: Container-Laufzeitumgebungen unter macOS (und Linux) mit minimaler Einrichtung
+  es: Entornos de ejecución de contenedores en macOS (y Linux) con una configuración mínima
+  fr: Runtime de conteneurs sur macOS (et Linux) avec une configuration minimale
+  id: Runtime kontainer di macOS (dan Linux) dengan pengaturan minimum
+  it: Runtime per container su macOS (e Linux) con configurazione minima
+  ja: 最小限の設定でmacOS（およびLinux）で動くコンテナランタイム
+  ko: 최소한의 설정으로 macOS(및 Linux)에서 동작하는 컨테이너 런타임
+  pl: Środowiska uruchomieniowe kontenerów na macOS (i Linuxie) przy minimalnej konfiguracji
+  pt: Runtimes de contêiner no macOS (e Linux) com configuração mínima
+  ro: Medii de execuție pentru containere pe macOS (și Linux) cu configurare minimă
+  ru: Среды выполнения контейнеров на macOS (и Linux) с минимальной настройкой
+  th: สภาพแวดล้อมรันคอนเทนเนอร์บน macOS (และ Linux) พร้อมการตั้งค่าขั้นต่ำ
+  tr: macOS (ve Linux) üzerinde asgari kurulumla konteiner çalıştırma ortamları
+  uk: Середовища виконання контейнерів на macOS (і Linux) з мінімальним налаштуванням
+  vi: Môi trường chạy container trên macOS (và Linux) với thiết lập tối giản
 x:
   source: https://github.com/abiosoft/colima
   eget: abiosoft/colima

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: WireMan 是一个基于终端的 gRPC 客户端。
   en: WireMan is a terminal-based gRPC client with a user-friendly interface.
+  cs: WireMan je klient gRPC založený na terminálu s uživatelsky přátelským rozhraním.
+  de: WireMan ist ein terminalbasierter gRPC-Client mit einer benutzerfreundlichen Oberfläche.
+  es: WireMan es un cliente gRPC basado en terminal con una interfaz amigable.
+  fr: WireMan est un client gRPC based sur le terminal avec une interface conviviale.
+  id: WireMan adalah klien gRPC berbasis terminal dengan antarmuka yang ramah pengguna.
+  it: WireMan è un client gRPC basato su terminale con un'interfaccia intuitiva.
+  ja: WireMan はユーザーが使いやすいインターフェースを備えたターミナルベースの gRPC クライアントです。
+  ko: WireMan은 사용자 친화적인 인터페이스를 갖춘 터미널 기반 gRPC 클라이언트입니다.
+  pl: WireMan to klient gRPC oparty na terminalu z przyjaznym interfejsem użytkownika.
+  pt: WireMan é um cliente gRPC baseado em terminal com uma interface amigável.
+  ro: WireMan este un client gRPC bazat pe terminal, cu o interfață prietenoasă cu utilizatorul.
+  ru: WireMan — терминальный gRPC-клиент с удобным интерфейсом.
+  th: WireMan คือไคลเอนต์ gRPC บนเทอร์มินัลที่มีอินเทอร์เฟซเป็นมิตรกับผู้ใช้๏
+  tr: WireMan, kullanıcı dostu bir arayüze sahip terminal tabanlı bir gRPC istemcisidir.
+  uk: WireMan — термінальний gRPC-клієнт із зручним для користувача інтерфейсом.
+  vi: WireMan là một gRPC client dựa trên terminal với giao diện thân thiện với người dùng.
 x:
   source: https://github.com/preiter93/wireman
   eget: preiter93/wireman

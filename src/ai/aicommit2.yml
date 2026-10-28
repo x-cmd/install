@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 响应式 CLI，使用 Ollama、ChatGPT、Gemini、Claude、Mistral 等 AI 为 Git 与 Jujutsu 生成提交信息
   en: A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+  cs: Reaktivní CLI nástroj, který generuje commit zprávy pro Git a Jujutsu pomocí Ollama, ChatGPT, Gemini, Claude, Mistral a dalších AI
+  de: Ein reaktives CLI-Werkzeug, das Commit-Nachrichten für Git und Jujutsu mit Ollama, ChatGPT, Gemini, Claude, Mistral und anderen KIs erzeugt
+  es: Una CLI reactiva que genera mensajes de commit para Git y Jujutsu con Ollama, ChatGPT, Gemini, Claude, Mistral y otras IA
+  fr: Une CLI réactive qui génère des messages de commit pour Git et Jujutsu avec Ollama, ChatGPT, Gemini, Claude, Mistral et d'autres IA
+  id: CLI reaktif yang menghasilkan pesan commit untuk Git dan Jujutsu dengan Ollama, ChatGPT, Gemini, Claude, Mistral, dan AI lainnya
+  it: Una CLI reattiva che genera messaggi di commit per Git e Jujutsu con Ollama, ChatGPT, Gemini, Claude, Mistral e altre IA
+  ja: Ollama、ChatGPT、Gemini、Claude、Mistral などの AI を使って Git と Jujutsu のコミットメッセージを生成するリアクティブな CLI です。
+  ko: Ollama, ChatGPT, Gemini, Claude, Mistral 등 AI를 사용해 Git 및 Jujutsu용 커밋 메시지를 생성하는 반응형 CLI입니다.
+  pl: Reaktywne narzędzie CLI generujące komunikaty commitów dla Git i Jujutsu za pomocą Ollamy, ChatGPT, Gemini, Claude, Mistral i innych modeli AI
+  pt: Uma CLI reativa que gera mensagens de commit para Git e Jujutsu com Ollama, ChatGPT, Gemini, Claude, Mistral e outras IAs
+  ro: Un CLI reactiv care generează mesaje de commit pentru Git și Jujutsu cu Ollama, ChatGPT, Gemini, Claude, Mistral și alte IA-uri
+  ru: Реактивный CLI-инструмент, генерирующий сообщения коммитов для Git и Jujutsu с помощью Ollama, ChatGPT, Gemini, Claude, Mistral и других ИИ
+  th: เครื่องมือ CLI แบบ reactive ที่สร้างข้อความ commit สำหรับ Git และ Jujutsu ด้วย Ollama, ChatGPT, Gemini, Claude, Mistral และ AI อื่น ๆ
+  tr: Ollama, ChatGPT, Gemini, Claude, Mistral ve diğer yapay zekâ modelleriyle Git ve Jujutsu için commit mesajları üreten reaktif bir CLI.
+  uk: Реактивний CLI-інструмент, що генерує повідомлення комітів для Git і Jujutsu за допомогою Ollama, ChatGPT, Gemini, Claude, Mistral та інших ШІ
+  vi: CLI phản hồi tạo thông điệp commit cho Git và Jujutsu với Ollama, ChatGPT, Gemini, Claude, Mistral và các AI khác
 x:
   source: https://github.com/tak-bro/aicommit2
   npm: aicommit2

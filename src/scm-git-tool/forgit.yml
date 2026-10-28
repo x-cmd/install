@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于使用 Git 交互的命令行工具，由 fzf 提供支持
   en: A utility tool powered by fzf for using Git interactively.
+  cs: Nástroj pro práci s Gitem interaktivně, poháněný fzf
+  de: Ein fzf-gestütztes Werkzeug für die interaktive Nutzung von Git
+  es: Una herramienta bazada en fzf para usar Git de forma interactiva
+  fr: Un outil utilitaire propulsé par fzf pour utiliser Git de manière interactive
+  id: Alat bantu bertenaga fzf untuk menggunakan Git secara interaktif
+  it: Uno strumento utility basato su fzf per usare Git in modo interattivo
+  ja: fzfによる支援でGitを対話的に扱うためのユーティリティツール
+  ko: fzf로 구동되어 Git을 대화형으로 사용하기 위한 유틸리티 도구
+  pl: Narzędzie wspierane przez fzf do interaktywnej pracy z Gitem
+  pt: Uma ferramenta utilitária com suporte do fzf para usar o Git interativamente
+  ro: Un instrument utilitar bazat pe fzf pentru utilizarea interactivă a lui Git
+  ru: Утилита на базе fzf для интерактивной работы с Git
+  th: เครื่องมืออำนวยความสะดวกที่ขับเคลื่อนด้วย fzf สำหรับการใช้ Git แบบโต้ตอบ
+  tr: Git'i etkileşimli kullanmak için fzf destekli bir yardımcı araç
+  uk: Допоміжний інструмент на базі fzf для інтерактивної роботи з Git
+  vi: Công cụ tiện ích dựa trên fzf để sử dụng Git theo cách tương tác
 x:
   source: https://github.com/wfxr/forgit
   eget: wfxr/forgit

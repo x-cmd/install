@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向开发者的终端聊天：Go WebSocket 服务端 + Bubble Tea TUI 客户端，支持端到端加密与多后端
   en: 'Terminal chat for developers: Go WebSocket server + Bubble Tea TUI client, optional E2E, reactions, DMs, channels, plugins, files, code snippets, admin UI. Backends: SQLite, PostgreSQL, or MySQL. S...'
+  cs: "Terminálový chat pro vývojáře: Go WebSocket server + Bubble Tea TUI klient, volitelně E2E, reakce, soukromé zprávy, kanály, pluginy, soubory, úryvky kódu, administrační UI. Backends: SQLite, PostgreSQL nebo MySQL. S..."
+  de: "Terminal-Chat für Entwickler: Go-WebSocket-Server + Bubble-Tea-TUI-Client, optional E2E, Reaktionen, DMs, Kanäle, Plugins, Dateien, Code-Snippets, Admin-UI. Backends: SQLite, PostgreSQL oder MySQL. S..."
+  es: "Chat de terminal para desarrolladores: servidor WebSocket en Go + cliente TUI Bubble Tea, E2E opcional, reacciones, DM, canales, plugins, archivos, fragmentos de código, UI de administración. Backends: SQLite, PostgreSQL o MySQL. S..."
+  fr: "Chat terminal pour les développeurs : serveur WebSocket Go + client TUI Bubble Tea, E2E en option, réactions, DM, canaux, plugins, fichiers, extraits de code, interface d'administration. Backends : SQLite, PostgreSQL ou MySQL. S..."
+  id: "Obrolan terminal untuk pengembang: server WebSocket Go + klien TUI Bubble Tea, E2E opsional, reaksi, DM, kanal, plugin, berkas, cuplikan kode, UI admin. Backend: SQLite, PostgreSQL, atau MySQL. S..."
+  it: "Chat da terminale per sviluppatori: server WebSocket in Go + client TUI Bubble Tea, E2E opzionale, reazioni, DM, canali, plugin, file, frammenti di codice, UI di amministrazione. Backend: SQLite, PostgreSQL o MySQL. S..."
+  ja: "開発者向けターミナルチャット: Go WebSocket サーバー + Bubble Tea TUI クライアント。E2E 暗号化、リアクション、DM、チャンネル、プラグイン、ファイル、コードスニペット、管理 UI に対応。バックエンド: SQLite、PostgreSQL、MySQL。S..."
+  ko: "개발자를 위한 터미널 채팅: Go WebSocket 서버 + Bubble Tea TUI 클라이언트, 선택적 E2E, 반응, DM, 채널, 플러그인, 파일, 코드 조각, 관리 UI. 백엔드: SQLite, PostgreSQL 또는 MySQL. S..."
+  pl: "Czat terminalowy dla deweloperów: serwer WebSocket w Go + klient TUI Bubble Tea, opcjonalne E2E, reakcje, wiadomości bezpośrednie, kanały, wtyczki, pliki, fragmenty kodu, panel administracyjny. Backendy: SQLite, PostgreSQL lub MySQL. S..."
+  pt: "Chat de terminal para desenvolvedores: servidor WebSocket em Go + cliente TUI Bubble Tea, E2E opcional, reações, DMs, canais, plugins, arquivos, trechos de código, interface de administração. Backends: SQLite, PostgreSQL ou MySQL. S..."
+  ro: "Chat de terminal pentru dezvoltatori: server WebSocket Go + client TUI Bubble Tea, E2E opțional, reacții, mesaje directe, canale, pluginuri, fișiere, fragmente de cod, interfață de administrare. Backend-uri: SQLite, PostgreSQL sau MySQL. S..."
+  ru: "Терминальный чат для разработчиков: Go WebSocket сервер + Bubble Tea TUI клиент, опционально E2E, реакции, личные сообщения, каналы, плагины, файлы, фрагменты кода, админ-интерфейс. Бэкенды: SQLite, PostgreSQL или MySQL. S..."
+  th: "แชตเทอร์มินัลสำหรับนักพัฒนา: เซิร์ฟเวอร์ WebSocket ภาษา Go + ไคลเอนต์ TUI Bubble Tea, รองรับ E2E, รีแอคชัน, DM, ช่อง, ปลั๊กอิน, ไฟล์, สแนปเช็ตโค้ด, UI ผู้ดูแลระบบ แบ็กเอนด์: SQLite, PostgreSQL หรือ MySQL S..."
+  tr: "Geliştiriciler için terminal sohbeti: Go WebSocket sunucusu + Bubble Tea TUI istemcisi, isteğe bağlı E2E, tepkiler, DM'ler, kanallar, eklentiler, dosyalar, kod parçacıkları, yönetim arayüzü. Arka uçlar: SQLite, PostgreSQL veya MySQL. S..."
+  uk: "Термінальний чат для розробників: Go WebSocket сервер + Bubble Tea TUI клієнт, опційно E2E, реакції, особисті повідомлення, канали, плагіни, файли, фрагменти коду, адмін-інтерфейс. Бекенди: SQLite, PostgreSQL або MySQL. S..."
+  vi: "Chat terminal cho nhà phát triển: máy chủ WebSocket viết bằng Go + client TUI Bubble Tea, E2E tùy chọn, biểu cảm, tin nhắn riêng, kênh, plugin, tệp, đoạn mã, giao diện quản trị. Backend: SQLite, PostgreSQL hoặc MySQL. S..."
 x:
   source: https://github.com/Cod-e-Codes/marchat
   eget: Cod-e-Codes/marchat

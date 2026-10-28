@@ -3,6 +3,22 @@ homepage: https://github.com/fish-shell/fish-shell
 desc:
   cn: 用户友好的命令行 shell
   en: The user-friendly command line shell
+  cs: Přívětivá shoda pro příkazový řádek
+  de: Die benutzerfreundliche Kommandozeilen-Shell
+  es: El shell de línea de comandos fácil de usar
+  fr: Le shell de ligne de commande convivial
+  id: Shell baris perintah yang ramah pengguna
+  it: La shell della riga di comando intuitiva
+  ja: ユーザーフレンドリーなコマンドラインシェル
+  ko: 사용자 친화적인 명령줄 셸
+  pl: Przyjazna powłoka wiersza poleceń
+  pt: O shell de linha de comando amigável
+  ro: Shell-ul de linie de comandă prietenos cu utilizatorul
+  ru: Дружелюбная командная оболочка
+  th: เชลล์บรรทัดคำสั่งที่ใช้งานง่าย
+  tr: Kullanıcı dostu komut satırı kabuğu
+  uk: Зручна для користувача командна оболонка
+  vi: Shell dòng lệnh thân thiện với người dùng
 x:
   source: https://github.com/fish-shell/fish-shell
   eget: fish-shell/fish-shell

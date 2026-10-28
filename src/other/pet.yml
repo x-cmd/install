@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: pet 是一个简单的命令行片段管理器
   en: pet is a simple command-line snippet manager
+  cs: pet je jednoduchý správce úryvků příkazového řádku
+  de: pet ist ein einfacher Snippet-Manager für die Kommandozeile
+  es: pet es un gestor de fragmentos de línea de comandos sencillo
+  fr: pet est un simple gestionnaire de fragments en ligne de commande
+  id: pet adalah pengelola potongan baris perintah yang sederhana
+  it: pet è un semplice gestore di snippet da riga di comando
+  ja: pet はシンプルなコマンドライン用スニペットマネージャーです
+  ko: pet은 간단한 명령줄 스니펫 관리자입니다
+  pl: pet to prosty menedżer fragmentów wiersza poleceń
+  pt: pet é um simples gerenciador de trechos de linha de comando
+  ro: pet este un simplu manager de fragmente din linia de comandă
+  ru: pet — простой менеджер фрагментов командной строки
+  th: pet เป็นตัวจัดการชิ้นส่วนบรรทัดคำสั่งอย่างง่ายดาย
+  tr: pet, komut satırı için basit bir parça yöneticisidir
+  uk: pet — простий менеджер фрагментів командного рядка
+  vi: pet là trình quản lý đoạn lệnh dòng lệnh đơn giản
 x:
   source: https://github.com/knqyf263/pet
   eget: knqyf263/pet

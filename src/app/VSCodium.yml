@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: VSCodium 是 Microsoft 编辑器 VS Code 的社区驱动、免费许可的二进制发行版
   en: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code
+  cs: VSCodium je komunitou řízená, volně licencovaná binární distribuce editoru Microsoft VS Code
+  de: VSCodium ist eine von der Community getragene, frei lizenzierte Binärdistribution des Microsoft-Editors VS Code
+  es: VSCodium es una distribución binaria del editor VS Code de Microsoft, desarrollada por la comunidad y con licencia libre
+  fr: VSCodium est une distribution binaire communautaire et librement sous licence de l'éditeur VS Code de Microsoft
+  id: VSCodium adalah distribusi biner yang dikelola komunitas dan berlisensi bebas dari editor VS Code milik Microsoft
+  it: VSCodium è una distribuzione binaria community-driven e con licenza libera dell'editor VS Code di Microsoft
+  ja: VSCodium は Microsoft のエディタ VS Code をコミュニティ主导で自由にライセンス供与されたバイナリ配布版です
+  ko: VSCodium는 Microsoft 편집기 VS Code를 커뮤니티 주도로 자유 라이선스한 바이너리 배포판입니다
+  pl: VSCodium to dystrybucja binarna edytora Microsoft VS Code, tworzona przez społeczność na wolnej licencji
+  pt: O VSCodium é uma distribuição binária do editor VS Code da Microsoft, conduzida pela comunidade e com licença livre
+  ro: VSCodium este o distribuție binară a editorului VS Code de la Microsoft, dezvoltată de comunitate și cu licență liberă
+  ru: VSCodium — распространяемый сообществом бинарный дистрибутив редактора Microsoft VS Code со свободной лицензией
+  th: VSCodium คือไบนารีดิสทริบิวชันของโปรแกรมแก้ไข VS Code ของ Microsoft ที่พัฒนาโดยชุมชนและใช้สัญญาอนุญาตเสรี
+  tr: VSCodium, Microsoft'un VS Code düzenleyicisinin topluluk destekli, özgür lisanslı ikili dağıtımıdır
+  uk: VSCodium — бінарний дистрибутив редактора Microsoft VS Code, який розвивається спільнотою та має вільну ліцензію
+  vi: VSCodium là bản phân phối nhị phân của trình soạn thảo VS Code của Microsoft, do cộng đồng phát triển và dùng giấy phép tự do
 x:
   source: https://github.com/VSCodium/vscodium
   eget: VSCodium/vscodium

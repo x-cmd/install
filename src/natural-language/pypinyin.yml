@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 将汉字转为拼音。可以用于汉字注音、排序、检索
   en: Convert Chinese characters to Pinyin. Can be used for Chinese character phonetic notation, sorting, and retrieval
+  cs: Převádí čínské znaky na pinyin. Lze použít pro fonetickou anotaci čínských znaků, řazení a vyhledávání
+  de: Wandelt chinesische Zeichen in Pinyin um. Kann für phonetische Notation, Sortierung und Abruf chinesischer Zeichen verwendet werden
+  es: Convierte caracteres chinos en Pinyin. Se puede usar para la notación fonética, la ordenación y la recuperación de caracteres chinos
+  fr: Convertit les caractères chinois en pinyin. Peut être utilisé pour la notation phonétique, le tri et la recherche de caractères chinois
+  id: Mengubah karakter Mandarin menjadi Pinyin. Dapat digunakan untuk notasi fonetik, pengurutan, dan pengambilan karakter Mandarin
+  it: Converte i caratteri cinesi in Pinyin. Può essere usato per la notazione fonetica, l'ordinamento e il recupero dei caratteri cinesi
+  ja: 漢字をピン音に変換します。漢字のルビ付け、並べ替え、検索に使用できます
+  ko: 중국어 문자를 병음으로 변환합니다. 중국어 발음 표기, 정렬, 검색에 사용할 수 있습니다
+  pl: Konwertuje znaki chińskie na pinyin. Może być używane do zapisu fonetycznego, sortowania i wyszukiwania znaków chińskich
+  pt: Converte caracteres chineses em Pinyin. Pode ser usado para notação fonética, ordenação e recuperação de caracteres chineses
+  ro: Converte caracterele chinezești în Pinyin. Poate fi folosit pentru notație fonetică, sortare și căutarea caracterelor chinezești
+  ru: Преобразует китайские иероглифы в пиньинь. Можно использовать для фонетической записи, сортировки и поиска китайских иероглифов
+  th: แปลงอักษรจีนเป็นพินอิน ใช้สำหรับการกำกับเสียงอักษรจีน การเรียงลำดับ และการค้นหา
+  tr: Çin karakterlerini Pin Yin'e dönüştürür. Çin karakterleri için fonetik gösterim, sıralama ve arama için kullanılabilir
+  uk: Перетворює китайські ієрогліфи на піньінь. Може використовуватися для фонетичного запису, сортування та пошуку китайських ієрогліфів
+  vi: Chuyển ký tự Trung sang Pinyin. Có thể dùng để ghi âm, sắp xếp và tra cứu ký tự Trung
 x:
   source: https://github.com/mozillazg/python-pinyin
   pip: pypinyin

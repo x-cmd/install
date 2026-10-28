@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 通过管道连接到浏览器的实用程序
   en: A pipe to browser utility
+  cs: Nástroj pro přesměrování výstupu do prohlížeče
+  de: Ein Werkzeug, um Ausgaben an den Browser weiterzureichen
+  es: Una utilidad para canalizar la salida hacia el navegador
+  fr: Un utilitaire pour acheminer la sortie vers le navigateur
+  id: Utilitas untuk mengalirkan keluaran ke peramban
+  it: Un'utilità per reindirizzare l'output al browser
+  ja: ブラウザにパイプで出力するユーティリティ
+  ko: 출력을 브라우저로 파이프하는 유틸리티
+  pl: Narzędzie do przesyłania wyjścia do przeglądarki
+  pt: Um utilitário para canalizar a saída para o navegador
+  ro: Un utilitar pentru dirijarea ieșirii către browser
+  ru: Утилита для перенаправления вывода в браузер
+  th: ยูทิลิตี้สำหรับส่งเอาต์พุตไปยังเบราว์เซอร์ผ่านท่อ
+  tr: Çıktıyı tarayıcıya yönlendiren bir araç
+  uk: Утиліта для перенаправлення виводу до браузера
+  vi: Tiện ích truyền đầu ra tới trình duyệt qua pipe
 x:
   source: https://github.com/kessler/node-bcat
   npm: bcat

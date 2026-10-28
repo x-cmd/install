@@ -3,6 +3,22 @@ homepage: https://github.com/dnaka91/otti
 desc:
   cn: 基于 TUI 的一次性密码管理器
   en: A one-time TUI password manager for the terminal.
+  cs: Jednorázový TUI správce hesel pro terminál.
+  de: Ein einmaliger TUI-Passwortmanager für das Terminal.
+  es: Un gestor de contraseñas TUI de un solo uso para la terminal.
+  fr: Un gestionnaire de mots de passe TUI à usage unique pour le terminal.
+  id: Manajer kata sandi TUI sekali pakai untuk terminal.
+  it: Un gestore di password TUI monouso per il terminale.
+  ja: ターミナル向けの一度限りの TUI パスワードマネージャー。
+  ko: 터미널용 일회용 TUI 비밀번호 관리자입니다.
+  pl: Jednorazowy menedżer haseł TUI dla terminala.
+  pt: Um gerenciador de senhas TUI de uso único para o terminal.
+  ro: Un manager de parole TUI de unică utilizare pentru terminal.
+  ru: Одноразовый TUI-менеджер паролей для терминала.
+  th: ตัวจัดการรหัสผ่าน TUI แบบใช้ครั้งเดียวสำหรับเทอร์มินัล
+  tr: Terminal için tek kullanımlık TUI parola yöneticisi.
+  uk: Одноразовий TUI-менеджер паролів для терміналу.
+  vi: Trình quản lý mật khẩu TUI dùng một lần cho terminal.
 x:
   source: https://github.com/dnaka91/otti
   eget: dnaka91/otti

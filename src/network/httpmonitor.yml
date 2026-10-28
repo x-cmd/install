@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 监控单个或多个目标的小型 TUI 应用
   en: 'A small TUI application to monitor a single or multiple targets'
+  cs: Malá TUI aplikace pro monitorování jednoho nebo více cílů
+  de: Eine kleine TUI-Anwendung zur Überwachung eines oder mehrerer Ziele
+  es: Una pequeña aplicación TUI para supervisar uno o varios objetivos
+  fr: Une petite application TUI pour surveiller une ou plusieurs cibles
+  id: Aplikasi TUI kecil untuk memantau satu atau beberapa target
+  it: Una piccola applicazione TUI per monitorare uno o più target
+  ja: 単一または複数のターゲットを監視する小さなTUIアプリケーション
+  ko: 하나 이상의 대상을 모니터링하는 소형 TUI 애플리케이션
+  pl: Mała aplikacja TUI do monitorowania jednego lub wielu celów
+  pt: Um pequeno aplicativo TUI para monitorar um ou vários alvos
+  ro: O mică aplicație TUI pentru monitorizarea uneia sau mai multor ținte
+  ru: Небольшое TUI-приложение для мониторинга одной или нескольких целей
+  th: แอปพลิเคชัน TUI ขนาดเล็กสำหรับตรวจสอบเป้าหมายเดียวหรือหลายเป้าหมาย
+  tr: Tek bir veya birden fazla hedefi izlemek için küçük bir TUI uygulaması
+  uk: Невеликий TUI-додаток для моніторингу однієї або кількох цілей
+  vi: Ứng dụng TUI nhỏ để theo dõi một hoặc nhiều mục tiêu
 x:
   source: https://github.com/ricoberger/httpmonitor
   eget: ricoberger/httpmonitor

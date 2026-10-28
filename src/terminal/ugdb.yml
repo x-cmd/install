@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: gdb 的替代 TUI
   en: 'An alternative TUI for gdb'
+  cs: Alternativní TUI pro gdb
+  de: Eine alternative TUI für gdb
+  es: Una TUI alternativa para gdb
+  fr: Une TUI alternative pour gdb
+  id: TUI alternatif untuk gdb
+  it: Una TUI alternativa per gdb
+  ja: gdb の代替 TUI
+  ko: gdb를 위한 대안적 TUI
+  pl: Alternatywne TUI dla gdb
+  pt: Uma TUI alternativa para o gdb
+  ro: O interfață TUI alternativă pentru gdb
+  ru: Альтернативный TUI для gdb
+  th: TUI ทางเลือกสำหรับ gdb
+  tr: gdb için alternatif bir TUI
+  uk: Альтернативний TUI для gdb
+  vi: Giao diện TUI thay thế cho gdb
 x:
   source: https://github.com/ftilde/ugdb
   eget: ftilde/ugdb

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个受到 Wireshark 启发的 tshark 终端用户界面
   en: A terminal UI for tshark, inspired by Wireshark
+  cs: Terminálové UI pro tshark, inspirované Wiresharkem
+  de: Eine Terminal-Oberfläche für tshark, inspiriert von Wireshark
+  es: Una interfaz de terminal para tshark, inspirada en Wireshark
+  fr: Une interface terminal pour tshark, inspirée de Wireshark
+  id: Antarmuka terminal untuk tshark, terinspirasi dari Wireshark
+  it: Un'interfaccia a terminale per tshark, ispirata a Wireshark
+  ja: Wiresharkから着想を得た、tsharkのターミナルUI
+  ko: Wireshark에서 영감을 받은 tshark용 터미널 UI
+  pl: Terminalowy interfejs użytkownika dla tshark, inspirowany Wiresharkiem
+  pt: Uma interface de terminal para o tshark, inspirada no Wireshark
+  ro: O interfață terminal pentru tshark, inspirată de Wireshark
+  ru: Терминальный интерфейс для tshark, вдохновлённый Wireshark
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ tshark ได้รับแรงบันดาลใจจาก Wireshark
+  tr: Wireshark'tan esinlenilmiş, tshark için bir terminal arayüzü
+  uk: Термінальний інтерфейс для tshark, натхненний Wireshark
+  vi: Giao diện terminal cho tshark, lấy cảm hứng từ Wireshark
 x:
   source: https://github.com/gcla/termshark
   eget: gcla/termshark

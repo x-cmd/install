@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Control Google Chrome from the command-line
   cn: 从命令行控制 Google Chrome
+  cs: Ovládejte Google Chrome z příkazové řádky
+  de: Google Chrome über die Kommandozeile steuern
+  es: Controla Google Chrome desde la línea de comandos
+  fr: Contrôlez Google Chrome depuis la ligne de commande
+  id: Kontrol Google Chrome dari baris perintah
+  it: Controlla Google Chrome dalla riga di comando
+  ja: コマンドラインから Google Chrome を制御する
+  ko: 명령줄에서 Google Chrome 제어하기
+  pl: Steruj Google Chrome z wiersza poleceń
+  pt: Controle o Google Chrome pela linha de comando
+  ro: Controlați Google Chrome din linia de comandă
+  ru: Управляйте Google Chrome из командной строки
+  th: ควบคุม Google Chrome จากบรรทัดคำสั่ง
+  tr: Google Chrome'u komut satırından kontrol edin
+  uk: Керуйте Google Chrome з командного рядка
+  vi: Điều khiển Google Chrome từ dòng lệnh
 x:
   source: https://github.com/prasmussen/chrome-cli
   brew: chrome-cli

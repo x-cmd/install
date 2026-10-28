@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 更智能的 shell 和脚本环境，具有专为可用性、安全性和生产力而设计的高级功能
   en: A more intelligent shell and scripting environment with advanced features designed for usability, security, and productivity
+  cs: Chytřejší shell a skriptovací prostředí s pokročilými funkcemi pro použitelnost, bezpečnost a produktivitu
+  de: Ein intelligenteres Shell- und Skriptumgebung mit erweiterten Funktionen für Benutzerfreundlichkeit, Sicherheit und Produktivität
+  es: Un entorno de shell y scripts más inteligente con funciones avanzadas pensadas para usabilidad, seguridad y productividad
+  fr: Un environnement shell et de script plus intelligent, avec des fonctionnalités avancées conçues pour l'ergonomie, la sécurité et la productivité
+  id: Lingkungan shell dan skrip yang lebih cerdas dengan fitur lanjutan untuk kegunaan, keamanan, dan produktivitas
+  it: Un ambiente shell e scripting più intelligente con funzioni avanzate pensate per usabilità, sicurezza e produttività
+  ja: 使いやすさ、セキュリティ、生産性のための高度な機能を備えた、より賢いシェルとスクリプト環境
+  ko: 사용 편의성, 보안, 생산성을 위한 고급 기능이 있는 더 스마트한 셸 및 스크립팅 환경
+  pl: Bardziej inteligentne środowisko powłoki i skryptów z zaawansowanymi funkcjami użyteczności, bezpieczeństwa i produktywności
+  pt: Um ambiente de shell e scripts mais inteligente, com recursos avançados voltados para usabilidade, segurança e produtividade
+  ro: Un mediu de shell și scripturi mai inteligent, cu funcții avansate concepute pentru utilizare, securitate și productivitate
+  ru: Более интеллектуальная среда оболочки и скриптов с расширенными возможностями для удобства, безопасности и продуктивности
+  th: สภาพแวดล้อมเชลล์และสคริปต์ที่ชาญฉลาดกว่า พร้อมคุณสมบัติขั้นสูงที่ออกแบบมาเพื่อความสะดวก ความปลอดภัย และประสิทธิภาพ
+  tr: Kullanılabilirlik, güvenlik ve üretkenlik için tasarlanmış gelişmiş özelliklere sahip daha akıllı bir kabuk ve betik ortamı
+  uk: Більш інтелектуальне середовище оболонки та скриптів з розширеними можливостями для зручності, безпеки та продуктивності
+  vi: Môi trường shell và script thông minh hơn với các tính năng nâng cao được thiết kế cho tính dễ dùng, bảo mật và năng suất
 homepage: https://github.com/lmorg/murex
 license: GPL-2.0
 x:

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 类 k9s 的 AWS 资源管理 TUI，支持 vim 风格导航
   en: 'k9s-inspired TUI for AWS resource management with vim-style navigation'
+  cs: TUI inspirovaný k9s pro správu zdrojů AWS s navigací ve stylu vim
+  de: Eine von k9s inspirierte TUI zur AWS-Ressourcenverwaltung mit Navigation im vim-Stil
+  es: TUI inspirada en k9s para la gestión de recursos de AWS con navegación al estilo vim
+  fr: Une TUI inspirée de k9s pour la gestion des ressources AWS avec une navigation de style vim
+  id: TUI terinspirasi k9s untuk manajemen sumber daya AWS dengan navigasi bergaya vim
+  it: TUI ispirata a k9s per la gestione delle risorse AWS con navigazione in stile vim
+  ja: k9s から着想を得た、vim スタイルのナビゲーションを備えた AWS リソース管理 TUI
+  ko: k9s에서 영감을 받은 vim 스타일 탐색을 제공하는 AWS 리소스 관리 TUI
+  pl: TUI inspirowany k9s do zarządzania zasobami AWS z nawigacją w stylu vima
+  pt: TUI inspirada no k9s para gerenciamento de recursos da AWS com navegação no estilo vim
+  ro: TUI inspirată de k9s pentru gestionarea resurselor AWS cu navigare în stil vim
+  ru: TUI, вдохновлённый k9s, для управления ресурсами AWS с навигацией в стиле vim
+  th: TUI ได้แรงบันดาลใจจาก k9s สำหรับการจัดการทรัพยากร AWS พร้อมการนำทางแบบ vim
+  tr: vim tarzı gezinmeyle AWS kaynak yönetimi için k9s esinli TUI
+  uk: TUI, натхненний k9s, для керування ресурсами AWS з навігацією у стилі vim
+  vi: TUI lấy cảm hứng từ k9s để quản lý tài nguyên AWS với điều hướng kiểu vim
 x:
   source: https://github.com/clawscli/claws
   eget: clawscli/claws

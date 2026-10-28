@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个无意义的活动发生器
   en: A nonsense activity generator
+  cs: Generátor nesmyslných aktivit
+  de: Ein Generator für sinnlose Aktivitäten
+  es: Un generador de actividades sin sentido
+  fr: Un générateur d'activités sans sens
+  id: Generator aktivitas tanpa makna
+  it: Un generatore di attività senza senso
+  ja: 無意味なアクティビティジェネレーター
+  ko: 무의미한 활동 생성기
+  pl: Generator bezsensownych aktywności
+  pt: Um gerador de atividades sem sentido
+  ro: Un generator de activități fără sens
+  ru: Генератор бессмысленной активности
+  th: ตัวสร้างกิจกรรมไร้สาระ
+  tr: Anlamsız etkinlik üreteci.
+  uk: Генератор безглуздої активності.
+  vi: Trình tạo hoạt động vô nghĩa
 x:
   source: https://github.com/svenstaro/genact
   eget: svenstaro/genact

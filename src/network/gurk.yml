@@ -4,6 +4,22 @@ license: 'AGPL-3.0'
 desc:
   cn: 终端版 Signal Messenger 客户端
   en: 'Signal Messenger client for terminal'
+  cs: Klient Signal Messenger pro terminál
+  de: Signal Messenger-Client für das Terminal
+  es: Cliente de Signal Messenger para terminal
+  fr: Client Signal Messenger pour le terminal
+  id: Klien Signal Messenger untuk terminal
+  it: Client Signal Messenger per terminale
+  ja: ターミナル向け Signal Messenger クライアント
+  ko: 터미널용 Signal Messenger 클라이언트
+  pl: Klient Signal Messenger dla terminala
+  pt: Cliente do Signal Messenger para terminal
+  ro: Client Signal Messenger pentru terminal
+  ru: Клиент Signal Messenger для терминала
+  th: ไคลเอนต์ Signal Messenger สำหรับเทอร์มินัล
+  tr: Terminal için Signal Messenger istemcisi
+  uk: Клієнт Signal Messenger для термінала
+  vi: Ứng dụng Signal Messenger cho terminal
 x:
   source: https://github.com/boxdot/gurk-rs
   eget: boxdot/gurk-rs

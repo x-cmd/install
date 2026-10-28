@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 HTTP 的快速 TCP/UDP 隧道
   en: Fast TCP/UDP tunnel over HTTP
+  cs: Rychlý tunel TCP/UDP přes HTTP
+  de: Schneller TCP/UDP-Tunnel über HTTP
+  es: Túnel TCP/UDP rápido sobre HTTP
+  fr: Tunnel TCP/UDP rapide sur HTTP
+  id: Terowongan TCP/UDP cepat melalui HTTP
+  it: Tunnel TCP/UDP veloce su HTTP
+  ja: HTTP 上の高速な TCP/UDP トンネル
+  ko: HTTP를 통한 빠른 TCP/UDP 터널
+  pl: Szybki tunel TCP/UDP przez HTTP
+  pt: Túnel TCP/UDP rápido sobre HTTP
+  ro: Tunel TCP/UDP rapid peste HTTP
+  ru: Быстрый туннель TCP/UDP поверх HTTP
+  th: อุโมงค์ TCP/UDP ความเร็วสูงผ่าน HTTP
+  tr: HTTP üzerinden hızlı TCP/UDP tüneli
+  uk: Швидкий тунель TCP/UDP поверх HTTP
+  vi: Đường hầm TCP/UDP nhanh qua HTTP
 x:
   source: https://github.com/jpillora/chisel
   eget: jpillora/chisel

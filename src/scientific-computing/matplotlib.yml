@@ -3,6 +3,22 @@ homepage: https://github.com/matplotlib/matplotlib
 desc:
   cn: Matplotlib 是一个用于创建出版质量图表的 Python 库
   en: Matplotlib is a Python library for creating publication quality graphics
+  cs: Matplotlib je knihovna Pythonu pro vytváření grafů v kvalitě vhodné pro publikování
+  de: Matplotlib ist eine Python-Bibliothek zum Erstellen von Grafiken in Publikationsqualität
+  es: Matplotlib es una biblioteca de Python para crear gráficos de calidad publicable
+  fr: Matplotlib est une bibliothèque Python pour créer des graphiques de qualité publication
+  id: Matplotlib adalah pustaka Python untuk membuat grafik berkualitas publikasi
+  it: Matplotlib è una libreria Python per creare grafica di qualità da pubblicazione
+  ja: Matplotlib は、出版品質のグラフを作成するための Python ライブラリです
+  ko: Matplotlib는 출판 품질의 그래프를 만들기 위한 Python 라이브러리입니다
+  pl: Matplotlib to biblioteka Pythona do tworzenia wykresów o jakości publikacyjnej
+  pt: Matplotlib é uma biblioteca Python para criar gráficos com qualidade de publicação
+  ro: Matplotlib este o bibliotecă Python pentru crearea de grafice de calitate editorială
+  ru: Matplotlib — это библиотека Python для создания графиков публикационного качества
+  th: Matplotlib เป็นไลบรารี Python สำหรับสร้างกราฟิกคุณภาพระดับตีพิมพ์
+  tr: Matplotlib, yayın kalitesinde grafikler oluşturmak için bir Python kitaplığıdır
+  uk: Matplotlib — це бібліотека Python для створення графіки видажнякової якості
+  vi: Matplotlib là thư viện Python để tạo đồ họa chất lượng xuất bản
 x:
   source: https://github.com/matplotlib/matplotlib
   apt: python3-matplotlib

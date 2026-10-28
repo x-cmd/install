@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: hours 是一个用于命令行的简洁的时间跟踪工具包
   en: hours is a no-frills time tracking toolkit for the command line.
+  cs: hours je jednoduchá sada nástrojů pro sledování času pro příkazovou řádku.
+  de: hours ist eine unkomplizierte Zeiterfassungstoolbox für die Befehlszeile.
+  es: hours es un conjunto de herramientas sencillo para el seguimiento del tiempo en la línea de comandos.
+  fr: hours est une boîte à outils simple de suivi du temps pour la ligne de commande.
+  id: hours adalah perangkat lunak pelacakan waktu sederhana untuk baris perintah.
+  it: hours è un semplice toolkit di tracciamento del tempo per la riga di comando.
+  ja: hoursはコマンドライン向けの簡潔な時間追跡ツールキットです。
+  ko: hours는 명령줄을 위한 간단한 시간 추적 도구 모음입니다.
+  pl: hours to prosty zestaw narzędzi do śledzenia czasu dla wiersza poleceń.
+  pt: hours é um conjunto de ferramentas simples de acompanhamento de tempo para a linha de comando.
+  ro: hours este un set de instrumente simplu pentru urmărirea timpului în linia de comandă.
+  ru: hours — простой набор инструментов для учёта времени в командной строке.
+  th: hours คือชุดเครื่องมือติดตามเวลาแบบเรียบง่ายสำหรับบรรทัดคำสั่ง
+  tr: hours, komut satırı için sade bir zaman takibi araç setidir.
+  uk: hours — простий набір інструментів для обліку часу в командному рядку.
+  vi: hours là bộ công cụ theo dõi thời gian đơn giản dành cho dòng lệnh.
 x:
   source: https://github.com/dhth/hours
   eget: dhth/hours

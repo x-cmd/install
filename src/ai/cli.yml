@@ -4,6 +4,22 @@ license: other
 desc:
   cn: Bito CLI，为 Bito AI 聊天功能提供命令行界面
   en: Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation a...
+  cs: Bito CLI (Command Line Interface) poskytuje příkazový řádek pro chatovací funkci Bito AI. Postupem bude CLI přidávat další funkce a nové možnosti příkazů pro podporu složité automatizace a produktivity.
+  de: Bito CLI (Command Line Interface) bietet eine Kommandozeilenschnittstelle für die Chat-Funktion von Bito AI. Im Laufe der Zeit wird CLI weitere Funktionen und neue Befehlsoptionen hinzufügen, um komplexe Automatisierung und Produktivität zu unterstützen.
+  es: Bito CLI (Command Line Interface) proporciona una interfaz de línea de comandos para la funcionalidad de chat de Bito AI. Con el tiempo, CLI añadirá más funciones y nuevas opciones de comandos para soportar la automatización compleja y la productividad.
+  fr: Bito CLI (Command Line Interface) fournit une interface en ligne de commande pour la fonctionnalité de chat de Bito AI. Au fil du temps, CLI ajoutera davantage de fonctions et de nouvelles options de commande pour prendre en charge une automatisation complexe et améliorer la productivité.
+  id: Bito CLI (Command Line Interface) menyediakan antarmuka baris perintah untuk fungsi chat Bito AI. Seiring waktu, CLI akan menambahkan lebih banyak fungsi dan opsi perintah baru untuk mendukung otomasi kompleks dan produktivitas.
+  it: Bito CLI (Command Line Interface) fornisce un'interfaccia a riga di comando per la funzionalità di chat di Bito AI. Nel tempo, CLI aggiungerà altre funzioni e nuove opzioni di comando per supportare automazioni complesse e la produttività.
+  ja: Bito CLI（Command Line Interface）は Bito AI のチャット機能にコマンドラインからアクセスできるようにします。今後 CLI は、より複雑な自動化と生産性をサポートするため、より多くの関数と新しいコマンドオプションを追加していきます。
+  ko: Bito CLI(Command Line Interface)는 Bito AI 채팅 기능에 명령줄 인터페이스를 제공합니다. 앞으로 CLI는 복잡한 자동화와 생산성을 지원하기 위해 더 많은 기능과 새로운 명령 옵션을 추가할 예정입니다.
+  pl: Bito CLI (Command Line Interface) zapewnia interfejs wiersza poleceń dla funkcji czatu Bito AI. Z czasem CLI będzie dodawać kolejne funkcje i nowe opcje poleceń, aby obsługiwać złożoną automatyzację i zwiększać produktywność.
+  pt: O Bito CLI (Command Line Interface) fornece uma interface de linha de comando para os recursos de chat da Bito AI. Com o tempo, o CLI adicionará mais funções e novas opções de comando para dar suporte a automações complexas e produtividade.
+  ro: Bito CLI (Command Line Interface) oferă o interfață de linie de comandă pentru funcționalitatea de chat a Bito AI. În timp, CLI va adăuga mai multe funcții și opțiuni noi de comandă pentru a sprijini automatizarea complexă și productivitatea.
+  ru: Bito CLI (Command Line Interface) предоставляет интерфейс командной строки для чат-функций Bito AI. Со временем CLI будет добавлять новые функции и параметры команд для поддержки сложной автоматизации и повышения продуктивности.
+  th: Bito CLI (Command Line Interface) ให้อินเทอร์เฟซบรรทัดคำสั่งสำหรับฟีเจอร์แชทของ Bito AI ในอนาคต CLI จะเพิ่มฟังก์ชันและตัวเลือกคำสั่งใหม่ ๆ เพื่อรองรับระบบอัตโนมัติที่ซับซ้อนและเพิ่มประสิทธิภาพ
+  tr: Bito CLI (Command Line Interface), Bito AI sohbet işlevi için bir komut satırı arayüzü sağlar. Zamanla CLI, karmaşık otomasyonu ve üretkenliği desteklemek için daha fazla işlev ve yeni komut seçeneği ekleyecektir.
+  uk: Bito CLI (Command Line Interface) надає інтерфейс командного рядка для чат-функцій Bito AI. З часом CLI додаватиме нові функції та параметри команд для підтримки складної автоматизації та продуктивності.
+  vi: Bito CLI (Command Line Interface) cung cấp giao diện dòng lệnh cho tính năng trò chuyện của Bito AI. Theo thời gian, CLI sẽ bổ sung thêm chức năng và các tùy chọn lệnh mới để hỗ trợ tự động hóa phức tạp và nâng cao năng suất.
 x:
   source: https://github.com/gitbito/CLI
   eget: gitbito/CLI

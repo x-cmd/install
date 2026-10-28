@@ -3,6 +3,22 @@ homepage: https://rasti.js.org/#gettingstarted
 desc:
   cn: Rasti 是一个轻量级的 MVC 库，用于构建快速、响应式的用户界面。
   en: Rasti is a lightweight MVC library for building fast, reactive user interfaces.
+  cs: Rasti je lehká knihovna MVC pro tvorbu rychlých a reaktivních uživatelských rozhraní.
+  de: Rasti ist eine schlanke MVC-Bibliothek zum Erstellen schneller, reaktiver Benutzeroberflächen.
+  es: Rasti es una biblioteca MVC ligera para crear interfaces de usuario rápidas y reactivas.
+  fr: Rasti est une bibliothèque MVC légère pour créer des interfaces utilisateur rapides et réactives.
+  id: Rasti adalah pustaka MVC ringan untuk membangun antarmuka pengguna yang cepat dan reaktif.
+  it: Rasti è una libreria MVC leggera per costruire interfacce utente veloci e reattive.
+  ja: Rasti は、高速でリアクティブなユーザーインターフェースを構築するための軽量な MVC ライブラリです。
+  ko: Rasti는 빠르고 반응형인 사용자 인터페이스를 만들기 위한 가벼운 MVC 라이브러리입니다.
+  pl: Rasti to lekka biblioteka MVC do budowania szybkich, reaktywnych interfejsów użytkownika.
+  pt: Rasti é uma biblioteca MVC leve para construir interfaces de usuário rápidas e reativas.
+  ro: Rasti este o bibliotecă MVC ușoară pentru construirea interfețelor de utilizator rapide și reactive.
+  ru: Rasti — это лёгкая MVC-библиотека для создания быстрых и реактивных пользовательских интерфейсов.
+  th: Rasti คือไลบรารี MVC แบบเบา สำหรับสร้างส่วนติดต่อผู้ใช้ที่รวดเร็วและตอบสนองได้ดี
+  tr: Rasti, hızlı ve reaktif kullanıcı arayüzleri oluşturmak için hafif bir MVC kitaplığıdır.
+  uk: Rasti — це легка MVC-бібліотека для створення швидких і реактивних користувацьких інтерфейсів.
+  vi: Rasti là thư viện MVC nhẹ để xây dựng giao diện người dùng nhanh và phản hồi tốt
 rule:
   /npm:
     cmd: npm install rasti

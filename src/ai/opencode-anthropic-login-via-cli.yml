@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 让你用 Claude Pro/Max 订阅调用 Anthropic 模型的 OpenCode 插件
   en: 'OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription'
+  cs: Plugin OpenCode pro použití modelů Anthropic s vaším předplatným Claude Pro/Max
+  de: OpenCode-Plugin zur Nutzung von Anthropic-Modellen mit Ihrem Claude Pro/Max-Abonnement
+  es: Plugin de OpenCode para usar modelos de Anthropic con tu suscripción Claude Pro/Max
+  fr: Plugin OpenCode pour utiliser les modèles Anthropic avec votre abonnement Claude Pro/Max
+  id: Plugin OpenCode untuk menggunakan model Anthropic dengan langganan Claude Pro/Max Anda
+  it: Plugin OpenCode per usare i modelli Anthropic con il tuo abbonamento Claude Pro/Max
+  ja: Claude Pro/Max サブスクリプションで Anthropic モデルを使うための OpenCode プラグイン
+  ko: Claude Pro/Max 구독으로 Anthropic 모델을 사용하기 위한 OpenCode 플러그인
+  pl: Wtyczka OpenCode do korzystania z modeli Anthropic w ramach subskrypcji Claude Pro/Max
+  pt: Plugin do OpenCode para usar modelos da Anthropic com sua assinatura Claude Pro/Max
+  ro: Plugin OpenCode pentru folosirea modelelor Anthropic cu abonamentul Claude Pro/Max
+  ru: Плагин OpenCode для использования моделей Anthropic с подпиской Claude Pro/Max
+  th: ปลั๊กอิน OpenCode สำหรับใช้โมเดล Anthropic กับการสมัคร Claude Pro/Max ของคุณ
+  tr: Claude Pro/Max aboneliğinizle Anthropic modellerini kullanmak için OpenCode eklentisi
+  uk: Плагін OpenCode для використання моделей Anthropic з підпискою Claude Pro/Max
+  vi: Plugin OpenCode để dùng các mô hình Anthropic với gói đăng ký Claude Pro/Max của bạn
 x:
   source: https://github.com/cemalturkcan/opencode-anthropic-login-via-cli
   eget: cemalturkcan/opencode-anthropic-login-via-cli

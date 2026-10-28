@@ -3,6 +3,22 @@ homepage: https://desktop.github.com/
 desc:
   cn: GitHub Desktop 是一个基于 Electron 的开源 GitHub 应用程序
   en: GitHub Desktop is an open-source Electron-based GitHub app
+  cs: GitHub Desktop je open source aplikace GitHub postavená na Electronu
+  de: GitHub Desktop ist eine quelloffene, auf Electron basierende GitHub-App
+  es: GitHub Desktop es una aplicación de GitHub de código abierto basada en Electron
+  fr: GitHub Desktop est une application GitHub open source basée sur Electron
+  id: GitHub Desktop adalah aplikasi GitHub sumber terbuka berbasis Electron
+  it: GitHub Desktop è un'app GitHub open source basata su Electron
+  ja: GitHub Desktop は Electron をベースとしたオープンソースの GitHub アプリケーションです
+  ko: GitHub Desktop는 Electron을 기반으로 한 오픈 소스 GitHub 앱입니다
+  pl: GitHub Desktop to otwarta aplikacja GitHub oparta na Electron
+  pt: O GitHub Desktop é um aplicativo GitHub de código aberto baseado em Electron
+  ro: GitHub Desktop este o aplicație GitHub open source bazată pe Electron
+  ru: GitHub Desktop — приложение GitHub с открытым исходным кодом на базе Electron
+  th: GitHub Desktop คือแอป GitHub แบบโอเพนซอร์สที่สร้างบน Electron
+  tr: GitHub Desktop, Electron tabanlı açık kaynaklı bir GitHub uygulamasıdır
+  uk: GitHub Desktop — застосунок GitHub з відкритим кодом на базі Electron
+  vi: GitHub Desktop là ứng dụng GitHub mã nguồn mở dựa trên Electron
 rule:
   darwin/brew:
     cmd: brew install --cask github

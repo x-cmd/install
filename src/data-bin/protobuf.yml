@@ -3,6 +3,22 @@ homepage: https://github.com/protocolbuffers/protobuf
 desc:
   en: Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data
   cn: Protocol Buffers 是用于序列化结构化数据的语言中立、平台中立的可扩展机制
+  cs: Protocol Buffers jsou jazykově neutrální, na platformě nezávislé rozšiřitelné mechanismy pro serializaci strukturovaných dat
+  de: Protocol Buffers sind sprachneutrale, plattformneutrale, erweiterbare Mechanismen zum Serialisieren strukturierter Daten
+  es: Protocol Buffers son mecanismos extensibles, neutrales respecto al lenguaje y a la plataforma, para serializar datos estructurados
+  fr: Protocol Buffers sont des mécanismes extensibles, neutres vis-à-vis du langage et de la plateforme, pour sérialiser des données structurées
+  id: Protocol Buffers adalah mekanisme yang dapat diperluas, netral terhadap bahasa dan platform untuk menserialkan data terstruktur
+  it: Protocol Buffers sono meccanismi estensibili, neutrali rispetto al linguaggio e alla piattaforma, per serializzare dati strutturati
+  ja: Protocol Buffers は、構造化データをシリアライズするための言語非依存・プラットフォーム非依存の拡張可能なメカニズムです
+  ko: Protocol Buffers는 구조화된 데이터를 직렬화하기 위한 언어 중립이며 플랫폼 중립적인 확장 가능한 메커니즘입니다
+  pl: Protocol Buffers to rozszerzalne mechanizmy neutralne pod względem języka i platformy, służące do serializacji danych strukturalnych
+  pt: Protocol Buffers são mecanismos extensíveis, neutros em relação a linguagem e plataforma, para serializar dados estruturados
+  ro: Protocol Buffers sunt mecanisme extensibile, neutre din punct de vedere al limbajului și platformei, pentru serializarea datelor structurate
+  ru: Protocol Buffers — это расширяемые механизмы, независимые от языка и платформы, для сериализации структурированных данных
+  th: Protocol Buffers เป็นกลไกที่ขยายได้ ไม่ขึ้นกับภาษาและแพลตฟอร์ม สำหรับการทำให้ข้อมูลโครงสร้างเป็นอนุกรม
+  tr: Protocol Buffers, yapılandırılmış verileri serileştirmek için dilden ve platformdan bağımsız, genişletilebilir mekanizmalardır.
+  uk: Protocol Buffers — це розширювані механізми, незалежні від мови та платформи, для серіалізації структурованих даних
+  vi: Protocol Buffers là các cơ chế mở rộng được, độc lập với ngôn ngữ và nền tảng, dùng để tuần tự hóa dữ liệu có cấu trúc
 x:
   source: https://github.com/protocolbuffers/protobuf
   eget: protocolbuffers/protobuf

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: NVIDIA Container Toolkit 是一套库和工具，帮助用户构建和运行 GPU 加速的容器。
   en: The NVIDIA Container Toolkit is a collection of libraries and utilities enabling users to build and run GPU-accelerated containers.
+  cs: NVIDIA Container Toolkit je sada knihoven a nástrojů, které umožňují uživatelům sestavovat a spouštět kontejnery s akcelerací GPU.
+  de: Das NVIDIA Container Toolkit ist eine Sammlung von Bibliotheken und Werkzeugen, die es Benutzern ermöglichen, GPU-beschleunigte Container zu erstellen und auszuführen.
+  es: El NVIDIA Container Toolkit es una colección de bibliotecas y utilidades que permiten a los usuarios crear y ejecutar contenedores acelerados por GPU.
+  fr: Le NVIDIA Container Toolkit est un ensemble de bibliothèques et d'utilitaires permettant aux utilisateurs de créer et d'exécuter des conteneurs accélérés par GPU.
+  id: NVIDIA Container Toolkit adalah kumpulan pustaka dan utilitas yang memungkinkan pengguna membangun dan menjalankan kontainer dengan akselerasi GPU.
+  it: NVIDIA Container Toolkit è una raccolta di librerie e utilità che consentono agli utenti di creare ed eseguire container con accelerazione GPU.
+  ja: NVIDIA Container Toolkit は、ユーザーが GPU アクセラレーション対応コンテナを構築して実行できるようにするライブラリとユーティリティの集合です。
+  ko: NVIDIA Container Toolkit는 사용자가 GPU 가속 컨테이너를 빌드하고 실행할 수 있도록 하는 라이브러리와 유틸리티 모음입니다.
+  pl: NVIDIA Container Toolkit to zestaw bibliotek i narzędzi umożliwiający użytkownikom budowanie i uruchamianie kontenerów z akceleracją GPU.
+  pt: O NVIDIA Container Toolkit é um conjunto de bibliotecas e utilitários que permitem aos usuários criar e executar contêineres acelerados por GPU.
+  ro: NVIDIA Container Toolkit este o colecție de biblioteci și utilitare care permit utilizatorilor să construiască și să ruleze containere accelerate de GPU.
+  ru: NVIDIA Container Toolkit — это набор библиотек и утилит, позволяющих пользователям создавать и запускать контейнеры с ускорением на GPU.
+  th: NVIDIA Container Toolkit คือชุดไลบรารีและยูทิลิตี้ที่ช่วยให้ผู้ใช้สร้างและรันคอนเทนเนอร์ที่เร่งความเร็วด้วย GPU
+  tr: NVIDIA Container Toolkit, kullanıcıların GPU hızlandırmalı konteynerler oluşturmasını ve çalıştırmasını sağlayan bir kütüphane ve araç koleksiyonudur.
+  uk: NVIDIA Container Toolkit — це набір бібліотек та утиліт, які дають змогу користувачам створювати та запускати контейнери з прискоренням на GPU.
+  vi: NVIDIA Container Toolkit là bộ thư viện và tiện ích giúp người dùng xây dựng và chạy container được tăng tốc bằng GPU.
 x:
   source: https://github.com/NVIDIA/nvidia-container-toolkit
   eget: NVIDIA/nvidia-container-toolkit

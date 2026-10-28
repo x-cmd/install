@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用 TUI 深入探查 ClickHouse
   en: 'Dig into ClickHouse with TUI interface.'
+  cs: Ponikněte do ClickHouse s rozhraním TUI.
+  de: Mit der TUI-Oberfläche in ClickHouse herumstöbern.
+  es: Indaga en ClickHouse con la interfaz TUI.
+  fr: Explorez ClickHouse avec une interface TUI.
+  id: Telusuri ClickHouse dengan antarmuka TUI.
+  it: Esplora ClickHouse con l'interfaccia TUI.
+  ja: TUI インターフェースで ClickHouse を深掘りする。
+  ko: TUI 인터페이스로 ClickHouse를 탐색하세요.
+  pl: Zagłęb się w ClickHouse za pomocą interfejsu TUI.
+  pt: Explore o ClickHouse com a interface TUI.
+  ro: Explorați ClickHouse cu interfața TUI.
+  ru: Погружение в ClickHouse с помощью интерфейса TUI.
+  th: เจาะลึก ClickHouse ด้วยอินเทอร์เฟซ TUI
+  tr: TUI arayüzüyle ClickHouse içinde dolaşın.
+  uk: Досліджуйте ClickHouse за допомогою інтерфейсу TUI.
+  vi: Khám phá sâu ClickHouse với giao diện TUI.
 x:
   source: https://github.com/azat/chdig
   eget: azat/chdig

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 美团开源的 13.6B 参数视频生成基础模型，统一支持文本/图像/音频到视频与视频续写，擅长分钟级长视频生成，多奖励 RLHF 后性能对标商业方案。
   en: Meituan's open-source 13.6B foundational video generation model, unifying text/image/audio-to-video and video continuation with minutes-long generation and multi-reward RLHF.
+  cs: Open-source model generování videa od Meituanu o 13,6B parametrech, který sjednocuje text/obraz/audio na video a pokračování videa s generováním trvajícím minuty a vícenásobnou RLHF.
+  de: Meituan's quelloffenes 13,6B-Modell zur Videogenerierung, das Text/Bild/Audio-zu-Video und Video-Fortsetzung mit minutenlanger Generierung und Multi-Reward-RLHF vereint.
+  es: Modelo fundacional de generación de vídeo de 13,6B de código abierto de Meituan, que unifica texto/imagen/audio a vídeo y continuación de vídeo con generación de minutos y RLHF multirrecompensa.
+  fr: Modèle fondationnel de génération vidéo open source de 13,6B de Meituan, unifiant texte/image/audio vers vidéo et continuation vidéo avec génération de plusieurs minutes et RLHF multi-récompense.
+  id: Model dasar generasi video 13.6B sumber terbuka dari Meituan, menyatukan teks/gambar/audio-ke-video dan kelanjutan video dengan generasi berdurasi menit dan RLHF multi-imbalan.
+  it: Modello fondazionale open source di Meituan da 13,6B per la generazione video, che unifica testo/immagine/audio in video e continuazione video con generazione di minuti e RLHF multi-r-premio.
+  ja: Meituan のオープンソース 13.6B 基盤動画生成モデル。テキスト/画像/音声から動画生成と動画継続を統合し、分単位の生成とマルチリワード RLHF を実現。
+  ko: Meituan의 오픈소스 13.6B 파운데이션 비디오 생성 모델로, 텍스트/이미지/오디오에서 비디오로의 생성과 비디오 연속 생성을 통합하고 분 단위 생성과 멀티 리워드 RLHF를 지원합니다.
+  pl: Otwartoźródłowy model bazowy generowania wideo od Meituan o 13,6B parametrach, łączący tekst/obraz/audio w wideo i kontynuację wideo z generowaniem trwającym minuty i RLHF z wieloma nagrodami.
+  pt: Modelo fundacional de geração de vídeo de 13,6B de código aberto da Meituan, unificando texto/imagem/áudio para vídeo e continuação de vídeo com geração de minutos e RLHF multi-recompensa.
+  ro: Model fundamental generativ de video open source de 13,6B din Meituan, care unifică text/imagine/audio în video și continuarea video cu generare de minute și RLHF cu recompense multiple.
+  ru: Открытая фундаментальная модель генерации видео от Meituan на 13,6B параметров, объединяющая text/image/audio-to-video и продолжение видео с генерацией длиной в минуты и RLHF с несколькими наградами.
+  th: โมเดลพื้นฐานการสร้างวิดีโอโอเพนซอร์สของ Meituan ขนาด 13.6B ที่รวมการแปลงข้อความ/ภาพ/เสียงเป็นวิดีโอและการต่อวิดีโอ พร้อมการสร้างยาวหลายนาทีและ RLHF แบบหลายรางวัล
+  tr: Metinden görüntüye ve sesten görüntüye ile video devamlılığını dakikalarca süren üretim ve çoklu ödüllü RLHF ile birleştiren, Meituan'ın açık kaynaklı 13,6B temel video üretim modeli.
+  uk: Відкрита базова модель генерації відео від Meituan на 13,6B параметрів, що поєднує перетворення тексту/зображення/аудіо у відео та продовження відео з генерацією тривалістю в хвилини та RLHF з кількома нагородами.
+  vi: Mô hình nền tảng tạo video mã nguồn mở 13.6B của Meituan, hợp nhất văn bản/hình ảnh/âm thanh thành video và nối tiếp video với thời lượng tạo hàng phút và RLHF đa phần thưởng.
 x:
   source: https://github.com/meituan-longcat/LongCat-Video
 rule:

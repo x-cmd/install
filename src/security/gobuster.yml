@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Gobuster 是一个用于暴力破解的工具
   en: Gobuster is a tool used to brute-force
+  cs: Gobuster je nástroj používaný k hrubému sílení
+  de: Gobuster ist ein Werkzeug zum Brute-Force
+  es: Gobuster es una herramienta utilizada para la fuerza bruta
+  fr: Gobuster est un outil utilisé pour le brute-force
+  id: Gobuster adalah alat yang digunakan untuk brute-force
+  it: Gobuster è uno strumento utilizzato per il brute-force
+  ja: Gobuster はブルートフォース攻撃に使用されるツールです
+  ko: Gobuster는 무차별 대입 공격에 사용되는 도구입니다
+  pl: Gobuster to narzędzie używane do ataków brute-force
+  pt: O Gobuster é uma ferramenta usada para força bruta
+  ro: Gobuster este un instrument folosit pentru forță brută
+  ru: Gobuster — это инструмент для перебора паролей
+  th: Gobuster คือเครื่องมือที่ใช้สำหรับการเดารหัสผ่านแบบ brute-force
+  tr: Gobuster, kaba kuvvet (brute-force) saldırıları için kullanılan bir araçtır
+  uk: Gobuster — це інструмент для брутфорсу
+  vi: Gobuster là công cụ được dùng để dò mật khẩu theo kiểu brute-force
 x:
   source: https://github.com/OJ/gobuster
   eget: OJ/gobuster

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Curlie 是 curl 的前端，它增加了 httpie 的易用性，而不影响功能和性能
   en: Curlie is a frontend to curl that adds the ease of use of httpie, without compromising on features and performance
+  cs: Curlie je frontend pro curl, který přidává snadnost použití httpie, aniž by slevoval z funkcí a výkonu
+  de: Curlie ist ein Frontend für curl, das die Benutzerfreundlichkeit von httpie hinzufügt, ohne bei Funktionen und Leistung Abstriche zu machen
+  es: Curlie es una interfaz para curl que añade la facilidad de uso de httpie sin renunciar a funciones ni rendimiento
+  fr: Curlie est une interface pour curl qui ajoute la facilité d'utilisation de httpie, sans compromettre les fonctionnalités ni les performances
+  id: Curlie adalah frontend untuk curl yang menambahkan kemudahan penggunaan httpie tanpa mengorbankan fitur dan performa
+  it: Curlie è un frontend per curl che aggiunge la facilità d'uso di httpie senza compromettere funzionalità e prestazioni
+  ja: Curlie は curl のフロントエンドで、機能とパフォーマンスを妥協なく httpie の使いやすさを追加します
+  ko: Curlie는 curl의 프런트엔드로, 기능과 성능을 타협하지 않고 httpie의 사용 편의성을 더합니다
+  pl: Curlie to frontend dla curl, który dodaje wygodę użycia httpie bez kompromisów w zakresie funkcji i wydajności
+  pt: Curlie é um frontend para o curl que acrescenta a facilidade de uso do httpie sem sacrificar recursos e desempenho
+  ro: Curlie este un frontend pentru curl care adaugă ușurința în utilizare a lui httpie, fără compromise în privința funcțiilor și a performanței
+  ru: Curlie — это фронтенд для curl, добавляющий удобство httpie без ущерба для функциональности и производительности
+  th: Curlie เป็น frontend ของ curl ที่เพิ่มความง่ายในการใช้งานแบบ httpie โดยไม่ลดทอนความสามารถและประสิทธิภาพ
+  tr: Curlie, curl için bir ön yüz olup httpie'nin kullanım kolaylığını özellik ve performanstan ödün vermeden ekler
+  uk: Curlie — це фронтенд для curl, що додає зручність httpie, не жертвуючи функціоналом та продуктивністю
+  vi: Curlie là frontend cho curl, bổ sung sự dễ sử dụng của httpie mà không ảnh hưởng đến tính năng và hiệu năng
 x:
   source: https://github.com/rs/curlie
   eget: rs/curlie

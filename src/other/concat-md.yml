@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: CLI 和 API 连接 markdown 文件，并根据需要进行修改
   en: CLI and API to concatenate markdown files and modify as necessary
+  cs: CLI a API pro spojování souborů markdown a jejich úpravu podle potřeby
+  de: CLI und API zum Zusammenführen von Markdown-Dateien und zur bedarfsgerechten Änderung
+  es: CLI y API para concatenar archivos markdown y modificarlos según sea necesario
+  fr: CLI et API pour concaténer des fichiers markdown et les modifier au besoin
+  id: CLI dan API untuk menggabungkan berkas markdown dan mengubahnya seperlunya
+  it: CLI e API per concatenare file markdown e modificarli quando necessario
+  ja: markdown ファイルを結合し、必要に応じて修正するためのCLIとAPI
+  ko: markdown 파일을 이어 붙이고 필요에 따라 수정하는 CLI와 API
+  pl: CLI i API do łączenia plików markdown i ich modyfikowania w razie potrzeby
+  pt: CLI e API para concatenar arquivos markdown e modificá-los conforme necessário
+  ro: CLI și API pentru concatenarea fișierelor markdown și modificarea lor după nevoie
+  ru: CLI и API для объединения файлов markdown и их изменения по мере необходимости
+  th: CLI และ API สำหรับรวมไฟล์ markdown และปรับแก้ตามความจำเป็น
+  tr: Markdown dosyalarını birleştirmek ve gerektiğinde değiştirmek için CLI ve API
+  uk: CLI та API для об'єднання файлів markdown та їх зміни за потреби
+  vi: CLI và API để nối các tệp markdown và sửa đổi khi cần thiết
 x:
   source: https://github.com/ozum/concat-md
   npm: concat-md

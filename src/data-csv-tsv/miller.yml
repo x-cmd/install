@@ -3,6 +3,22 @@ homepage: https://github.com/johnkerl/miller
 desc:
   cn: Miller 是一个命令行工具，用于查询、调整和重新格式化各种格式的数据文件，包括 CSV、TSV、JSON 和 JSON Lines
   en: Miller is a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines
+  cs: Miller je nástroj příkazové řádky pro dotazování, tvarování a přeformátování datových souborů v různých formátech včetně CSV, TSV, JSON a JSON Lines
+  de: Miller ist ein Befehlszeilen-Tool zum Abfragen, Formen und Neuk formatieren von Datendateien in verschiedenen Formaten, darunter CSV, TSV, JSON und JSON Lines
+  es: Miller es una herramienta de línea de comandos para consultar, dar forma y reformatear archivos de datos en varios formatos, incluidos CSV, TSV, JSON y JSON Lines
+  fr: Miller est un outil en ligne de commande pour interroger, transformer et reformater des fichiers de données dans divers formats, dont CSV, TSV, JSON et JSON Lines
+  id: Miller adalah alat baris perintah untuk melakukan kueri, membentuk, dan memformat ulang berkas data dalam berbagai format termasuk CSV, TSV, JSON, dan JSON Lines
+  it: Miller è uno strumento da riga di comando per interrogare, dare forma e riformattare file di dati in vari formati tra cui CSV, TSV, JSON e JSON Lines
+  ja: Miller は CSV、TSV、JSON、JSON Lines などのさまざまな形式のデータファイルをクエリ、整形、再書式化するためのコマンドラインツールです
+  ko: Miller는 CSV, TSV, JSON, JSON Lines 등 다양한 형식의 데이터 파일을 조회하고 가공하며 재포맷하는 명령줄 도구
+  pl: Miller to narzędzie wiersza poleceń do odpytywania, kształtowania i przeformatowywania plików danych w różnych formatach, w tym CSV, TSV, JSON i JSON Lines
+  pt: Miller é uma ferramenta de linha de comando para consultar, modelar e reformular arquivos de dados em vários formatos, incluindo CSV, TSV, JSON e JSON Lines
+  ro: Miller este un instrument de linie de comandă pentru interogarea, modelarea și reformatarea fișierelor de date în diverse formate, inclusiv CSV, TSV, JSON și JSON Lines
+  ru: Miller — инструмент командной строки для запросов, преобразования и переформатирования файлов данных в различных форматах, включая CSV, TSV, JSON и JSON Lines
+  th: Miller คือเครื่องมือบรรทัดคำสั่งสำหรับสอบถาม จัดรูปแบบ และจัดรูปแบบใหม่ของไฟล์ข้อมูลในรูปแบบต่าง ๆ รวมถึง CSV, TSV, JSON และ JSON Lines
+  tr: Miller, CSV, TSV, JSON ve JSON Lines dahil çeşitli formatlardaki veri dosyalarını sorgulamak, şekillendirmek ve yeniden biçimlendirmek için bir komut satırı aracıdır.
+  uk: Miller — інструмент командного рядка для запитів, формування та переформатування файлів даних у різних форматах, зокрема CSV, TSV, JSON і JSON Lines
+  vi: Miller là công cụ dòng lệnh để truy vấn, định hình và định dạng lại các tệp dữ liệu ở nhiều định dạng, gồm CSV, TSV, JSON và JSON Lines
 x:
   source: https://github.com/johnkerl/miller
   eget: johnkerl/miller

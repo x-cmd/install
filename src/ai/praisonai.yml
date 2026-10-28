@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 5 行代码搭建 7x24 小时多智能体 AI 团队的 Python/YAML 框架，支持 100+ LLM、MCP 协议、深度研究、可视化编排与自反思。
   en: Build and deploy autonomous, self-improving multi-agent AI systems in 5 lines of code; Python/YAML framework with 100+ LLMs, MCP, deep research, and visual orchestration.
+  cs: Sestavte a nasazujte autonomní, se zlepšující víceagenní AI systémy v 5 řádcích kódu; Python/YAML framework s 100+ LLM, MCP, hlubokým výzkumem a vizuální orchestrací.
+  de: Autonome, selbstverbessernde Multi-Agenten-KI-Systeme in 5 Zeilen Code bauen und bereitstellen; Python/YAML-Framework mit 100+ LLMs, MCP, Deep Research und visueller Orchestrierung.
+  es: Crea y despliega sistemas de IA multiagente autónomos y auto-mejorables en 5 líneas de código; framework Python/YAML con más de 100 LLM, MCP, investigación profunda y orquestación visual.
+  fr: Créez et déployez des systèmes IA multi-agents autonomes et auto-améliorants en 5 lignes de code ; framework Python/YAML avec plus de 100 LLM, MCP, recherche approfondie et orchestration visuelle.
+  id: Bangun dan terapkan sistem AI multiagen otonom yang dapat berdiri sendiri dalam 5 baris kode; framework Python/YAML dengan 100+ LLM, MCP, riset mendalam, dan orkestrasi visual.
+  it: Crea e distribuisci sistemi IA multi-agente autonomi e auto-miglioranti in 5 righe di codice; framework Python/YAML con oltre 100 LLM, MCP, ricerca approfondita e orchestrazione visuale.
+  ja: 5行のコードで自律的かつ自己改善するマルチエージェントAIシステムを構築・デプロイ。100以上のLLM、MCP、ディープリサーチ、ビジュアルオーケストレーションに対応したPython/YAMLフレームワークです。
+  ko: 5줄의 코드로 자율적이고 자기 개선형 멀티에이전트 AI 시스템을 구축하고 배포하세요. 100개 이상의 LLM, MCP, 딥 리서치, 비주얼 오케스트레이션을 지원하는 Python/YAML 프레임워크입니다.
+  pl: Buduj i wdrażaj autonomiczne, samodoskonalące się systemy AI z wieloma agentami w 5 wierszach kodu; framework Python/YAML z ponad 100 LLM, MCP, głębokim researchem i orkiestracją wizualną.
+  pt: Crie e implmente sistemas de IA multiagente autônomos e autoaperfeiçoáveis em 5 linhas de código; framework Python/YAML com mais de 100 LLMs, MCP, pesquisa aprofundada e orquestração visual.
+  ro: Construiește și implementează sisteme AI multi-agent autonome și care se îmbunătățesc singure în 5 linii de cod; framework Python/YAML cu peste 100 de LLM-uri, MCP, cercetare profundă și orchestrare vizuală.
+  ru: Создавайте и разворачивайте автономные, самообучающиеся мультиагентные ИИ-системы всего в 5 строк кода; Python/YAML-фреймворк с более чем 100 LLM, MCP, глубоким исследованием и визуальной оркестрацией.
+  th: สร้างและปล่อยระบบ AI หลายเอเจนต์แบบอัตโนมัติและพัฒนาตัวเองได้ใน 5 บรรทัดโค้ด เป็นเฟรมเวิร์ก Python/YAML ที่รองรับ LLM กว่า 100 ตัว, MCP, การวิจัยเชิงลึก และการจัดวงจรแบบภาพ
+  tr: Otonom, kendini geliştiren çoklu ajanlı AI sistemlerini 5 satır kodla oluşturun ve dağıtın; 100'den fazla LLM, MCP, derin araştırma ve görsel orkestrasyon içeren Python/YAML çerçevesi.
+  uk: Створюйте та розгортайте автономні, самовдосконалювані мультиагентні AI-системи всього у 5 рядках коду; Python/YAML-фреймворк із понад 100 LLM, MCP, глибоким дослідженням і візуальною оркестрацією.
+  vi: Xây dựng và triển khai các hệ thống AI đa tác nhân tự trị, tự cải thiện chỉ với 5 dòng mã; framework Python/YAML hỗ trợ hơn 100 LLM, MCP, nghiên cứu chuyên sâu và điều phối trực quan.
 x:
   source: https://github.com/MervinPraison/PraisonAI
   pip: praisonai

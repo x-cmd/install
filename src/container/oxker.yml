@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个简单的 tui 来查看和控制 docker 容器
   en: A simple tui to view & control docker containers
+  cs: Jednoduché tui pro zobrazení a ovládání kontejnerů docker
+  de: Ein einfaches TUI zum Anzeigen und Steuern von Docker-Containern
+  es: Un tui sencillo para ver y controlar contenedores de docker
+  fr: Un tui simple pour afficher et contrôler les conteneurs docker
+  id: TUI sederhana untuk melihat dan mengendalikan kontainer docker
+  it: Una semplice tui per visualizzare e controllare i container docker
+  ja: docker コンテナを表示・制御するためのシンプルな tui
+  ko: docker 컨테이너를 확인하고 제어하는 간단한 tui
+  pl: Proste tui do przeglądania i sterowania kontenerami dockera
+  pt: Uma tui simples para visualizar e controlar contêineres do docker
+  ro: Un tui simplu pentru vizualizarea și controlul containerelor docker
+  ru: Простой tui для просмотра и управления контейнерами docker
+  th: tui อย่างง่ายสำหรับดูและควบคุมคอนเทนเนอร์ docker
+  tr: docker konteynerlerini görüntülemek ve denetlemek için basit bir tui
+  uk: Простий tui для перегляду та керування контейнерами docker
+  vi: Một tui đơn giản để xem và điều khiển container docker
 x:
   source: https://github.com/mrjackwills/oxker
   eget: mrjackwills/oxker

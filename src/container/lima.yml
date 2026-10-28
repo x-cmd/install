@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Lima 启动具有自动文件共享和端口转发功能的 Linux 虚拟机(类似于 WSL2)
   en: Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
+  cs: Lima spouští virtuální počítače Linux s automatickým sdílením souborů a přesměrováním portů (podobně jako WSL2)
+  de: Lima startet Linux-Virtualmachines mit automatischer Dateifreigabe und Portweiterleitung (ähnlich WSL2)
+  es: Lima lanza máquinas virtuales Linux con compartición automática de archivos y reenvío de puertos (similar a WSL2)
+  fr: Lima lance des machines virtuelles Linux avec partage de fichiers automatique et redirection de ports (similaire à WSL2)
+  id: Lima menjalankan mesin virtual Linux dengan berbagi file otomatis dan penerusan port (mirip WSL2)
+  it: Lima avvia macchine virtuali Linux con condivisione file automatica e port forwarding (simile a WSL2)
+  ja: Lima は自動ファイル共有とポートフォワーディングを備えた Linux 仮想マシンを起動します（WSL2 に似ています）
+  ko: Lima는 자동 파일 공유와 포트 포워딩을 제공하는 Linux 가상 머신을 실행합니다 (WSL2와 유사)
+  pl: Lima uruchamia maszyny wirtualne Linux z automatycznym udostępnianiem plików i przekierowaniem portów (podobnie do WSL2)
+  pt: O Lima inicia máquinas virtuais Linux com compartilhamento automático de arquivos e encaminhamento de portas (semelhante ao WSL2)
+  ro: Lima pornește mașini virtuale Linux cu partajare automată a fișierelor și redirecționare de porturi (similar WSL2)
+  ru: Lima запускает виртуальные машины Linux с автоматическим общим доступом к файлам и переадресацией портов (аналогично WSL2)
+  th: Lima เปิดเครื่องเสมือน Linux พร้อมการแชร์ไฟล์อัตโนมัติและการส่งต่อพอร์ต (คล้าย WSL2)
+  tr: Lima, otomatik dosya paylaşımı ve port yönlendirme ile Linux sanal makinelerini başlatır (WSL2'ye benzer)
+  uk: Lima запускає віртуальні машини Linux з автоматичним спільним доступом до файлів і переадресацією портів (аналогічно WSL2)
+  vi: Lima khởi chạy máy ảo Linux với tự động chia sẻ tệp và chuyển tiếp cổng (tương tự WSL2)
 x:
   source: https://github.com/lima-vm/lima
   eget: lima-vm/lima

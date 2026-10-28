@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: libsql 软件安装工具
   en: libsql — software install
+  cs: libsql — instalace softwaru
+  de: libsql — Softwareinstallation
+  es: libsql — instalación de software
+  fr: libsql — installation de logiciels
+  id: libsql — pemasangan perangkat lunak
+  it: libsql — installazione del software
+  ja: libsql — ソフトウェアのインストール
+  ko: libsql — 소프트웨어 설치
+  pl: libsql — instalacja oprogramowania
+  pt: libsql — instalação de software
+  ro: libsql — instalare software
+  ru: libsql — установка программного обеспечения
+  th: libsql — การติดตั้งซอฟต์แวร์
+  tr: libsql — yazılım kurulumu
+  uk: libsql — встановлення програмного забезпечення
+  vi: libsql — cài đặt phần mềm
 x:
   source: https://github.com/libsql/libsql
   eget: libsql/libsql

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 可定制的 TUI 番茄钟，含 ASCII 艺术、进度条、桌面通知与效率统计
   en: 'Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.'
+  cs: Přizpůsobitelný TUI časovač Pomodoro s ASCII grafikou, ukazatelem průběhu, systémovými oznámeními a statistikami produktivity.
+  de: Anpassbarer Pomodoro-Timer mit TUI, ASCII-Grafik, Fortschrittsbalken, Desktop-Benachrichtigungen und Produktivitätsstatistiken.
+  es: Temporizador Pomodoro TUI personalizable con arte ASCII, barra de progreso, notificaciones de escritorio y estadísticas de productividad.
+  fr: Minuteur Pomodoro TUI personnalisable avec art ASCII, barre de progression, notifications de bureau et statistiques de productivité.
+  id: Timer Pomodoro TUI yang dapat dikustomisasi dengan seni ASCII, bilah progres, notifikasi desktop, dan statistik produktivitas.
+  it: Timer Pomodoro TUI personalizzabile con grafica ASCII, barra di avanzamento, notifiche desktop e statistiche di produttività.
+  ja: ASCIIアート、進捗バー、デスクトップ通知、生産性統計を備えたカスタマイズ可能なTUI ポモドーロタイマーです。
+  ko: ASCII 아트, 진행률 표시줄, 데스크톱 알림, 생산성 통계를 갖춘 사용자 정의 가능한 TUI 포모도로 타이머입니다.
+  pl: Konfigurowalny timer Pomodoro w TUI z grafiką ASCII, paskiem postępu, powiadomieniami pulpitu i statystykami produktywności.
+  pt: Temporizador Pomodoro TUI personalizável com arte ASCII, barra de progresso, notificações de desktop e estatísticas de produtividade.
+  ro: Temporizator Pomodoro TUI personalizabil cu artă ASCII, bară de progres, notificări desktop și statistici de productivitate.
+  ru: Настраиваемый TUI-таймер Pomodoro с ASCII-артом, индикатором прогресса, уведомлениями рабочего стола и статистикой продуктивности.
+  th: ตัวจับเวลา Pomodoro แบบ TUI ที่ปรับแต่งได้ พร้อมภาพ ASCII แถบความคืบหน้า การแจ้งเตือนบนเดสก์ท็อป และสถิติประสิทธิภาพการทำงาน
+  tr: ASCII sanatı, ilerleme çubuğu, masaüstü bildirimleri ve üretkenlik istatistikleriyle özelleştirilebilir TUI Pomodoro zamanlayıcısı.
+  uk: Налаштований TUI-таймер Pomodoro з ASCII-графікою, індикатором прогресу, сповіщеннями робочого столу та статистикою продуктивності.
+  vi: Bộ hẹn giờ Pomodoro TUI có thể tùy chỉnh với nghệ thuật ASCII, thanh tiến trình, thông báo máy tính và thống kê năng suất.
 x:
   source: https://github.com/Bahaaio/pomo
   eget: Bahaaio/pomo

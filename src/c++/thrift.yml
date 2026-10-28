@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Thrift 是一个轻量级的、独立于语言的用于点对点 RPC 实现的软件栈
   en: Thrift is a lightweight, language-independent software stack for point-to-point RPC implementation
+  cs: Thrift je lehký, nezávislý na jazyce softwarový stack pro implementaci point-to-point RPC
+  de: Thrift ist ein leichter, sprachunabhängiger Software-Stack zur Implementierung von Point-to-Point-RPC
+  es: Thrift es una pila de software ligera e independiente del lenguaje para la implementación de RPC punto a punto
+  fr: Thrift est une pile logicielle légère et indépendante du langage pour l'implémentation de RPC pair-à-pair
+  id: Thrift adalah tumpukan perangkat lunak yang ringan dan independen dari bahasa untuk implementasi RPC point-to-point
+  it: Thrift è uno stack software leggero e indipendente dal linguaggio per l'implementazione di RPC punto a punto
+  ja: Thrift は、ポイントツーポイント RPC の実装のための軽量で言語非依存的なソフトウェアスタックです
+  ko: Thrift는 포인트투포인트 RPC 구현을 위한 가볍고 언어 독립적인 소프트웨어 스택입니다
+  pl: Thrift to lekki, niezależny od języka stos oprogramowania do implementacji RPC punkt-punkt
+  pt: Thrift é uma pilha de software leve e independente de linguagem para a implementação de RPC ponto a ponto
+  ro: Thrift este o stivă de software ușoară și independentă de limbaj pentru implementarea RPC punct la punct
+  ru: Thrift — это лёгкий, не зависящий от языка программный стек для реализации RPC по схеме «точка-точка»
+  th: Thrift คือซอฟต์แวร์สแต็กที่เบาและไม่ขึ้นกับภาษา สำหรับการสร้าง RPC แบบจุดต่อจุด
+  tr: Thrift, noktadan noktaya RPC uygulaması için hafif ve dilden bağımsız bir yazılım yığınıdır
+  uk: Thrift — це легкий, незалежний від мови програмний стек для реалізації RPC за схемою «точка-точка»
+  vi: Thrift là ngăn xếp phần mềm nhẹ và không phụ thuộc ngôn ngữ để triển khai RPC điểm-điểm
 x:
   source: https://github.com/apache/thrift
   brew: thrift

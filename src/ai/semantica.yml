@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 为 AI Agent 系统添加可审计的知识图谱和决策智能层，提升治理、推理和可解释性
   en: Adds an auditable knowledge graph and decision intelligence layer to AI agent systems for improved governance, reasoning, and explainability.
+  cs: Přidává auditovatelnou vrstvu knowledge graphu a decision intelligence do systémů AI agentů pro lepší správu, uvažování a vysvětlitelnost.
+  de: Fügt AI-Agentensystemen eine auditierbare Wissensgraph- und Decision-Intelligence-Schicht hinzu, für bessere Governance, Reasoning und Erklärbarkeit.
+  es: Añade a los sistemas de agentes de IA una capa auditable de grafo de conocimiento e inteligencia de decisiones, para mejorar la gobernanza, el razonamiento y la explicabilidad.
+  fr: Ajoute aux systèmes d'agents IA une couche auditable de graphe de connaissances et d'intelligence décisionnelle, pour une meilleure gouvernance, un meilleur raisonnement et une meilleure explicabilité.
+  id: Menambahkan lapisan graf pengetahuan dan kecerdasan keputusan yang dapat diaudit ke sistem agen AI untuk meningkatkan tata kelola, penalaran, dan keterjelasan.
+  it: Aggiunge ai sistemi di agenti IA un livello verificabile di knowledge graph e decision intelligence, per migliorare governance, ragionamento e spiegabilità.
+  ja: AI エージェントシステムに監査可能なナレッジグラフ層と意思決定インテリジェンス層を追加し、ガバナンス、推論、説明可能性を向上させます。
+  ko: AI 에이전트 시스템에 감사 가능한 지식 그래프 계층과 의사결정 인텔리전스 계층을 추가해 거버넌스, 추론, 설명 가능성을 높입니다.
+  pl: Dodaje do systemów agentów AI warstwę audytowalnego grafu wiedzy i inteligencji decyzyjnej, poprawiając zarządzanie, rozumowanie i wyjaśnialność.
+  pt: Adiciona aos sistemas de agentes de IA uma camada auditável de grafo de conhecimento e inteligência de decisão, melhorando governança, raciocínio e explicabilidade.
+  ro: Adaugă sistemelor de agenți AI un strat auditabil de graf de cunoștințe și inteligență decizională, pentru guvernanță, raționament și explicabilitate mai bune.
+  ru: Добавляет к системам ИИ-агентов аудируемый слой графа знаний и decision intelligence, улучшая управляемость, рассуждения и объяснимость.
+  th: เพิ่มชั้น knowledge graph ที่ตรวจสอบได้และชั้น decision intelligence ให้ระบบเอเจนต์ AI เพื่อปรับปรุงการกำกับดูแล การให้เหตุผล และความสามารถในการอธิบาย
+  tr: AI ajan sistemlerine denetlenebilir bir bilgi grafiği ve karar zekâsı katmanı ekler; yönetişim, akıl yürütme ve açıklanabilirliği iyileştirir.
+  uk: Додає до систем ІІ-агентів перевірюваний шар графа знань і decision intelligence, покращуючи управління, міркування та пояснюваність.
+  vi: Bổ sung lớp đồ thị tri thức có thể kiểm toán và lớp trí tuệ quyết định vào các hệ thống tác nhân AI để cải thiện quản trị, suy luận và khả năng giải thích.
 x:
   source: https://github.com/semantica-agi/semantica
 rule:

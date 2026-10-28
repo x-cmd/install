@@ -3,6 +3,22 @@ homepage: https://gitlab.com/gardenappl/readability-cli
 desc:
   cn: Firefox Reader CLI，用于消除 HTML 页面不必要的内容，仅显示核心内容
   en: Firefox Reader Mode in your terminal - get useful text from a web page using Mozilla's Readability library
+  cs: Režim čtení Firefoxu v terminálu - získejte užitečný text z webové stránky pomocí knihovny Readability od Mozilly
+  de: Firefox-Lesemodus im Terminal - holen Sie nützlichen Text aus einer Webseite mit Mozillas Readability-Bibliothek
+  es: "Modo lectura de Firefox en tu terminal: obtén texto útil de una página web con la biblioteca Readability de Mozilla"
+  fr: Mode lecture de Firefox dans votre terminal - extrayez le texte utile d'une page web grâce à la bibliothèque Readability de Mozilla
+  id: Mode baca Firefox di terminal Anda - ambil teks berguna dari halaman web menggunakan pustaka Readability dari Mozilla
+  it: "Modalità lettura di Firefox nel terminale: ottieni il testo utile da una pagina web usando la libreria Readability di Mozilla"
+  ja: ターミナルで Firefox のリーダーモード - Mozilla の Readability ライブラリを使ってウェブページから有用なテキストを取得
+  ko: 터미널의 Firefox 리더 모드 - Mozilla의 Readability 라이브러리로 웹 페이지에서 유용한 텍스트를 가져오기
+  pl: Tryb czytania Firefoksa w terminalu - pobierz przydatny tekst ze strony internetowej za pomocą biblioteki Readability firmy Mozilla
+  pt: Modo de leitura do Firefox no seu terminal - obtenha texto útil de uma página da web usando a biblioteca Readability da Mozilla
+  ro: Mod de citire Firefox în terminalul tău - extrage text util dintr-o pagină web folosind biblioteca Readability de la Mozilla
+  ru: Режим чтения Firefox в терминале — получите полезный текст веб-страницы с помощью библиотеки Readability от Mozilla
+  th: โหมดอ่านของ Firefox ในเทอร์มินัล - ดึงข้อความที่มีประโยชน์จากหน้าเว็บด้วยไลบรารี Readability ของ Mozilla
+  tr: Terminalinizde Firefox Okuma Modu - Mozilla'nın Readability kitaplığıyla bir web sayfasından faydalı metin alın
+  uk: Режим читання Firefox у терміналі — отримайте корисний текст веб-сторінки за допомогою бібліотеки Readability від Mozilla
+  vi: Chế độ đọc của Firefox trong terminal - lấy nội dung hữu ích từ trang web bằng thư viện Readability của Mozilla
 x:
   yay: nodejs-readability-cli
   npm: readability-cli

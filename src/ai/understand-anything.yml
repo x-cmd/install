@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 分析代码库或 Wiki，生成交互式知识图谱，支持可视化探索、搜索和影响分析
   en: Analyze codebases or wikis to generate an interactive knowledge graph for visual exploration, search, and impact analysis.
+  cs: Analyzuje kódové základny nebo wiki a generuje interaktivní znalostní graf pro vizuální průzkum, vyhledávání a analýzu dopadů.
+  de: Analysiert Codebasen oder Wikis und erzeugt einen interaktiven Wissensgraphen für visuelle Exploration, Suche und Auswirkungsanalyse.
+  es: Analiza bases de código o wikis para generar un grafo de conocimiento interactivo que permite exploración visual, búsqueda y análisis de impacto.
+  fr: Analyse les bases de code ou les wikis pour générer un graphe de connaissances interactif destiné à l'exploration visuelle, à la recherche et à l'analyse d'impact.
+  id: Menganalisis basis kode atau wiki untuk menghasilkan graf pengetahuan interaktif untuk eksplorasi visual, pencarian, dan analisis dampak.
+  it: Analizza basi di codice o wiki per generare un grafo della conoscenza interattivo per esplorazione visiva, ricerca e analisi dell'impatto.
+  ja: コードベースやWikiを解析し、視覚的な探索・検索・影響分析のためのインタラクティブなナレッジグラフを生成します。
+  ko: 코드베이스나 위키를 분석해 시각적 탐색, 검색, 영향 분석을 위한 대화형 지식 그래프를 생성합니다.
+  pl: Analizuje bazy kodu lub wiki, generując interaktywny graf wiedzy do wizualnej eksploracji, wyszukiwania i analizy wpływu.
+  pt: Analisa bases de código ou wikis para gerar um grafo de conhecimento interativo para exploração visual, busca e análise de impacto.
+  ro: Analizează baze de cod sau wiki pentru a genera un graf de cunoștințe interactiv pentru explorare vizuală, căutare și analiză de impact.
+  ru: Анализирует базы кода или wiki и создаёт интерактивный граф знаний для визуального исследования, поиска и анализа влияния.
+  th: วิเคราะห์ฐานโค้ดหรือวิกิเพื่อสร้างกราฟความรู้แบบโต้ตอบ สำหรับการสำรวจด้วยภาพ การค้นหา และการวิเคราะห์ผลกระทบ
+  tr: Kod tabanlarını veya wikileri analiz ederek görsel keşif, arama ve etki analizi için etkileşimli bir bilgi grafiği oluşturur.
+  uk: Аналізує бази коду або вікі та створює інтерактивний граф знань для візуального дослідження, пошуку й аналізу впливу.
+  vi: Phân tích mã nguồn hoặc wiki để tạo đồ thị tri thức tương tác phục vụ khám phá trực quan, tìm kiếm và phân tích tác động.
 x:
   source: https://github.com/Lum1104/Understand-Anything
 rule:

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 命令行下版本可控的交互式待办清单
   en: 'Interactive version-controlled todo-list for the command-line'
+  cs: Interaktivní todo seznam pod verzí pro příkazovou řádu
+  de: Interaktive, versionskontrollierte Aufgabenliste für die Kommandozeile
+  es: Lista de tareas interactiva y versionada para la línea de comandos
+  fr: Liste de tâches interactive et versionnée pour la ligne de commande
+  id: Daftar tugas interaktif dengan kontrol versi untuk baris perintah
+  it: Elenco di attività interattivo e versionato per la riga di comando
+  ja: コマンドライン向けの対話型バージョン管理ToDoリスト
+  ko: 명령줄을 위한 대화형 버전 관리 할 일 목록
+  pl: Interaktywna, wersjonowana lista zadań dla wiersza poleceń
+  pt: Lista de tarefas interativa e versionada para a linha de comando
+  ro: O listă de sarcini interactivă și versionată pentru linia de comandă
+  ru: Интерактивный список дел с контролем версий для командной строки
+  th: รายการงานแบบโต้ตอบที่มีการควบคุมเวอร์ชันสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için etkileşimli, sürüm kontrolü olan yapılacaklar listesi
+  uk: Інтерактивний список справ із контролем версій для командного рядка
+  vi: Danh sách việc cần làm tương tác có kiểm soát phiên bản cho dòng lệnh
 x:
   source: https://github.com/handlebargh/yatto
   eget: handlebargh/yatto

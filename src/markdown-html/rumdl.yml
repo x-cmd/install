@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: "rumdl 是 Rust 编写的 Markdown 检查和格式化工具，帮助你自动发现并修复文档问题。"
   en: "rumdl is a Markdown linter and formatter written in Rust, helping you automatically detect and fix document issues. Install via x-cmd for cleaner documents."
+  cs: rumdl je linter a formátovač Markdownu napsaný v Rustu, který vám pomáhá automaticky odhalit a opravit problémy v dokumentu. Nainstalujte jej přes x-cmd pro čistší dokumenty.
+  de: rumdl ist ein in Rust geschriebener Markdown-Linter und -Formatter, der Ihnen hilft, Dokumentprobleme automatisch zu erkennen und zu beheben. Installieren Sie es über x-cmd für sauberere Dokumente.
+  es: rumdl es un linter y formateador de Markdown escrito en Rust que te ayuda a detectar y corregir automáticamente problemas en los documentos. Instálalo mediante x-cmd para obtener documentos más limpios.
+  fr: rumdl est un linter et un formateur Markdown écrits en Rust, qui vous aide à détecter et corriger automatiquement les problèmes de vos documents. Installez-le via x-cmd pour des documents plus propres.
+  id: rumdl adalah linter dan formatter Markdown yang ditulis dengan Rust, membantu Anda menemukan dan memperbaiki masalah dokumen secara otomatis. Pasang lewat x-cmd untuk dokumen yang lebih rapi.
+  it: rumdl è un linter e formattatore Markdown scritto in Rust che ti aiuta a rilevare e correggere automaticamente i problemi dei documenti. Installalo tramite x-cmd per documenti più puliti.
+  ja: rumdl は Rust で書かれた Markdown のリンターおよびフォーマッタで、文書の問題を自動的に検出・修正できます。x-cmd でインストールするとドキュメントがすっきりします。
+  ko: rumdl은 Rust로 작성된 Markdown 린터이자 포맷터로, 문서 문제를 자동으로 찾아 수정하도록 도와줍니다. x-cmd로 설치하면 문서가 더 깔끔해집니다.
+  pl: rumdl to linter i formatujący Markdown napisany w Rust, który pomaga automatycznie wykrywać i naprawiać problemy w dokumentach. Zainstaluj go przez x-cmd, aby mieć czystsze dokumenty.
+  pt: rumdl é um linter e formatador de Markdown escrito em Rust que ajuda a detectar e corrigir automaticamente problemas em documentos. Instale via x-cmd para documentos mais limpos.
+  ro: rumdl este un linter și formatator Markdown scris în Rust, care vă ajută să detectați și să remediați automat problemele documentelor. Instalați-l prin x-cmd pentru documente mai curate.
+  ru: rumdl — это линтер и форматтер Markdown, написанный на Rust, который помогает автоматически находить и исправлять проблемы в документах. Установите его через x-cmd для более чистых документов.
+  th: rumdl เป็นตัวตรวจและจัดรูปแบบ Markdown ที่เขียนด้วย Rust ช่วยให้คุณตรวจจับและแก้ไขปัญหาเอกสารได้อัตโนมัติ ติดตั้งผ่าน x-cmd เพื่อให้เอกสารสะอาดยิ่งขึ้น
+  tr: rumdl, Rust ile yazılmış bir Markdown linter ve biçimlendiricidir; belge sorunlarını otomatik olarak algılamanıza ve düzeltmenize yardımcı olur. Daha temiz belgeler için x-cmd üzerinden kurun.
+  uk: rumdl — це лінтер і форматувальник Markdown, написаний на Rust, який допомагає автоматично знаходити та виправляти проблеми в документах. Встановіть його через x-cmd для чистіших документів.
+  vi: rumdl là trình linter và trình định dạng Markdown được viết bằng Rust, giúp bạn tự động phát hiện và sửa các vấn đề trong tài liệu. Cài đặt qua x-cmd để có tài liệu gọn gàng hơn
 x:
   source: https://github.com/rvben/rumdl
   eget: rvben/rumdl

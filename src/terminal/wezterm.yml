@@ -3,6 +3,22 @@ homepage: https://github.com/wezterm/wezterm
 desc:
   cn: WezTerm 是一个功能强大的跨平台终端仿真器和多路复用器，由 @wez 编写，用 Rust winget install 实现
   en: WezTerm is a powerful cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  cs: WezTerm je výkonný multiplatformní emulátor terminálu a multiplexer napsaný @wez a implementovaný v Rust
+  de: WezTerm ist ein leistungsfähiger plattformübergreifender Terminal-Emulator und Multiplexer, geschrieben von @wez und in Rust implementiert
+  es: WezTerm es un potente emulador de terminal multiplataforma y multiplexor escrito por @wez e implementado en Rust
+  fr: WezTerm est un émulateur de terminal multplateforme et un multiplexeur puissant, écrit par @wez et implémenté en Rust
+  id: WezTerm adalah emulator terminal dan multiplexer lintas platform yang kuat, ditulis oleh @wez dan diimplementasikan dengan Rust
+  it: WezTerm è un potente emulatore di terminale multipiattaforma e multiplexer scritto da @wez e implementato in Rust
+  ja: WezTerm は @wez が编写し Rust で実装された強力なクロスプラットフォームのターミナルエミュレータ兼マルチプレクサ
+  ko: WezTerm은 @wez가 작성하고 Rust로 구현한 강력한 크로스 플랫폼 터미널 에뮬레이터 및 멀티플렉서입니다
+  pl: WezTerm to wydajny, wieloplatformowy emulator terminala i multiplekser napisany przez @wez i zaimplementowany w Rust
+  pt: WezTerm é um emulador de terminal multiplataforma e multiplexer poderoso, escrito por @wez e implementado em Rust
+  ro: WezTerm este un emulator de terminal cross-platform și un multiplexor puternic, scris de @wez și implementat în Rust
+  ru: WezTerm — мощный кроссплатформенный эмулятор терминала и мультиплексор, написанный @wez и реализованный на Rust
+  th: WezTerm คือโปรแกรมจำลองเทอร์มินัลและมัลติเพล็กเซอร์ข้ามแพลตฟอร์มที่ทรงพลัง เขียนโดย @wez และพัฒนาด้วย Rust
+  tr: WezTerm, @wez tarafından yazılan ve Rust ile uygulanan güçlü, platformlar arası bir terminal emülatörü ve çoklayıcıdır
+  uk: WezTerm — потужний кроссплатформний емулятор термінала та мультиплексор, написаний @wez і реалізований на Rust
+  vi: WezTerm là trình giả lập terminal đa nền tảng mạnh mẽ và bộ ghép kênh, được @wez viết và triển khai bằng Rust
 x:
   source: https://github.com/wezterm/wezterm
   apt: wezterm

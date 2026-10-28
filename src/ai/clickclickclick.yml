@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 借助任意 LLM（本地或远程）实现 Android 与电脑的自主操控
   en: Autonomous Android and computer use using any LLM (local or remote)
+  cs: Autonomní ovládání Androidu a počítače pomocí libovolného LLM (lokálního nebo vzdáleného)
+  de: Autonomer Android- und Computereinsatz mit jedem LLM (lokal oder remote)
+  es: Uso autónomo de Android y del ordenador con cualquier LLM (local o remoto)
+  fr: Utilisation autonome d'Android et de l'ordinateur avec n'importe quel LLM (local ou distant)
+  id: Penggunaan Android dan komputer secara otonom dengan LLM apa pun (lokal atau jarak jauh)
+  it: Utilizzo autonomo di Android e del computer con qualsiasi LLM (locale o remoto)
+  ja: 任意の LLM（ローカルまたはリモート）による Android と コンピュータの自律的な操作
+  ko: 어떤 LLM(로컬 또는 원격)을 이용한 자율적인 Android 및 컴퓨터 사용
+  pl: Autonomiczne sterowanie Androidem i komputerem przy użyciu dowolnego LLM (lokalnego lub zdalnego)
+  pt: Uso autônomo de Android e do computador com qualquer LLM (local ou remoto)
+  ro: Utilizare autonomă a Androidului și a computerului cu orice LLM (local sau la distanță)
+  ru: Автономное управление Android и компьютером с помощью любой LLM (локальной или удалённой)
+  th: ใช้งาน Android และคอมพิวเตอร์แบบอัตโนมัติด้วย LLM ใด ๆ (ทั้งแบบโลคัลและระยะไกล)
+  tr: Herhangi bir LLM ile (yerel veya uzak) Android ve bilgisayara otonom kullanım.
+  uk: Автономне керування Android і комп'ютером за допомогою будь-якої LLM (локальної або віддаленої).
+  vi: Sử dụng Android và máy tính một cách tự động với mọi LLM (cục bộ hoặc từ xa).
 x:
   source: https://github.com/instavm/clickclickclick
   eget: instavm/clickclickclick

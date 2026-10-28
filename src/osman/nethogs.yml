@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: NetHogs 是一个小型的 "net top" 工具，用于显示按进程分组的网络带宽使用情况。
   en: NetHogs is a small "net top" tool that displays network bandwidth usage grouped by process.
+  cs: NetHogs je malý nástroj "net top", který zobrazuje využití šířky pásma sítě seskupené podle procesů.
+  de: NetHogs ist ein kleines "net top"-Tool, das die Netzwerkbandbreitennutzung nach Prozessen gruppiert anzeigt.
+  es: NetHogs es una pequeña herramienta "net top" que muestra el uso del ancho de banda de red agrupado por proceso.
+  fr: NetHogs est un petit outil « net top » qui affiche l'utilisation de la bande passante réseau regroupée par processus.
+  id: NetHogs adalah alat "net top" kecil yang menampilkan penggunaan bandwidth jaringan dikelompokkan menurut proses.
+  it: NetHogs è un piccolo strumento "net top" che mostra l'uso della banda di rete raggruppato per processo.
+  ja: NetHogs は、プロセスごとにグループ化したネットワーク帯域幅の使用状況を表示する小さな「net top」ツールです。
+  ko: NetHogs는 프로세스별로 묶어 네트워크 대역폭 사용량을 보여주는 작은 "net top" 도구입니다.
+  pl: NetHogs to małe narzędzie typu "net top", które wyświetla zużycie przepustowości sieci w grupach procesów.
+  pt: O NetHogs é uma pequena ferramenta "net top" que exibe o uso de largura de banda da rede agrupado por processo.
+  ro: NetHogs este o mică unealtă "net top" care afișează utilizarea lățimii de bandă a rețelei grupată după proces.
+  ru: NetHogs — небольшая утилита «net top», показывающая использование пропускной способности сети с группировкой по процессам.
+  th: NetHogs เป็นเครื่องมือ "net top" ขนาดเล็กที่แสดงการใช้แบนด์วิดท์เครือข่ายจัดกลุ่มตามโปรเซส
+  tr: NetHogs, ağ bant genişliği kullanımını sürece göre gruplandırarak gösteren küçük bir "net top" aracıdır.
+  uk: NetHogs — невелика утиліта «net top», яка показує використання пропускної здатності мережі з групуванням за процесами.
+  vi: NetHogs là công cụ "net top" nhỏ hiển thị mức sử dụng băng thông mạng được nhóm theo tiến trình.
 x:
   source: https://github.com/raboof/nethogs
   apt: nethogs

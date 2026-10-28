@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Nuclei 是一款快速漏洞扫描器，旨在探测现代应用程序、基础设施、云平台和网络，帮助识别和缓解可利用的漏洞
   en: Nuclei is a fast vulnerability scanner designed to probe modern applications, infrastructure, cloud platforms, and networks, aiding in the identification and mitigation of exploitable vulnerabilities
+  cs: Nuclei je rychlý skener zranitelností, který je navržen k testování moderních aplikací, infrastruktury, cloudových platforem a sítí a pomáhá identifikovat a zmírnit zneužitelné zranitelnosti
+  de: Nuclei ist ein schneller Schwachstellen-Scanner, der moderne Anwendungen, Infrastruktur, Cloud-Plattformen und Netzwerke untersucht und dabei hilft, ausnutzbare Schwachstellen zu erkennen und zu entschärfen
+  es: Nuclei es un rápido escáner de vulnerabilidades diseñado para sondear aplicaciones modernas, infraestructura, plataformas en la nube y redes, ayudando a identificar y mitigar vulnerabilidades explotables
+  fr: Nuclei est un scanner de vulnérabilités rapide, conçu pour sonder les applications modernes, les infrastructures, les plateformes cloud et les réseaux, afin d'aider à identifier et à atténuer les vulnérabilités exploitables
+  id: Nuclei adalah pemindai kerentanan cepat yang dirancang untuk menjelajahi aplikasi modern, infrastruktur, platform cloud, dan jaringan, membantu mengidentifikasi dan mengurangi kerentanan yang dapat dieksploitasi
+  it: Nuclei è un rapido scanner di vulnerabilità progettato per sondare applicazioni moderne, infrastrutture, piattaforme cloud e reti, aiutando a identificare e mitigare le vulnerabilità sfruttabili
+  ja: Nuclei は、現代的なアプリケーション、インフラストラ/cloud プラットフォーム、ネットワークを探索する高速な脆弱性スキャナーで、利用可能な脆弱性の特定と緩和を支援します
+  ko: Nuclei는 현대적인 애플리케이션, 인프라, 클라우드 플랫폼 및 네트워크를 탐색하도록 설계된 빠른 취약점 스캐너로, 악용 가능한 취약점을 식별하고 완화하는 데 도움을 줍니다
+  pl: Nuclei to szybki skaner podatności, zaprojektowany do badania nowoczesnych aplikacji, infrastruktury, platform chmurowych i sieci, pomagający w identyfikacji i łagodzeniu podatności możliwych do wykorzystania
+  pt: O Nuclei é um scanner de vulnerabilidades rápido, projetado para sondar aplicações modernas, infraestrutura, plataformas de nuvem e redes, ajudando a identificar e mitigar vulnerabilidades exploráveis
+  ro: Nuclei este un scanner rapid de vulnerabilități, conceput pentru a sonda aplicații moderne, infrastructuri, platforme cloud și rețele, ajutând la identificarea și atenuarea vulnerabilităților exploatabile
+  ru: Nuclei — быстрый сканер уязвимостей, предназначенный для проверки современных приложений, инфраструктуры, облачных платформ и сетей и помогающий выявлять и устранять эксплуатируемые уязвимости
+  th: Nuclei เป็นเครื่องสแกนช่องโหว่ที่รวดเร็ว ออกแบบมาเพื่อสแกนแอปพลิเคชันสมัยใหม่ โครงสร้างพื้นฐาน แพลตฟอร์มคลาวด์ และเครือข่าย เพื่อช่วยระบุและลดช่องโหว่ที่เอาเปรียบได้
+  tr: Nuclei, modern uygulamaları, altyapıları, bulut platformlarını ve ağları tarayan, sömürülebilir güvenlik açıklarını tespit etmeye ve azaltmaya yardımcı olan hızlı bir güvenlik açık tarayıcısıdır
+  uk: Nuclei — швидкий сканер вразливимостей, призначений для перевірки сучасних застосунків, інфраструктури, хмарних платформ і мереж, який допомагає виявляти та усувати експлуатні вразливість
+  vi: Nuclei là một máy quét lỗ hổng nhanh, được thiết kế để thăm dò các ứng dụng hiện đại, hạ tầng, nền tảng đám mây và mạng, giúp xác định và khắc phục các lỗ hổng có thể khai thác
 x:
   source: https://github.com/projectdiscovery/nuclei
   eget: projectdiscovery/nuclei

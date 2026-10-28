@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端代码编辑器：单文件二进制、tree-sitter 语法高亮与 LSP、git 标记、文件树与多标签
   en: A code editor for the terminal — one self-contained binary with tree-sitter syntax, language servers, git marks, file tree and tabs
+  cs: Editor kódu pro terminál — jediný samostatný binární soubor s tree-sitter syntaxí, jazykovými servery, git značkami, stromem souborů a kartami
+  de: Ein Code-Editor für das Terminal – ein eigenständiges Binary mit tree-sitter-Syntax, Language-Servern, Git-Markierungen, Dateibaum und Tabs
+  es: "Un editor de código para el terminal: un único binario autónomo con sintaxis de tree-sitter, servidores de lenguaje, marcas de git, árbol de archivos y pestañas"
+  fr: Un éditeur de code pour le terminal — un binaire autonome avec syntaxe tree-sitter, serveurs de langage, marques git, arborescence de fichiers et onglets
+  id: Editor kode untuk terminal — satu biner mandiri dengan sintaks tree-sitter, server bahasa, tanda git, pohon berkas, dan tab
+  it: "Un editor di codice per il terminale: un unico binario autonomo con sintassi tree-sitter, server di linguaggio, marcatori git, albero dei file e schede"
+  ja: ターミナル向けコードエディタ — 単一バイナリに tree-sitter 構文、言語サーバー、git マーク、ファイルツリー、タブを収録
+  ko: 터미널용 코드 편집기 — 단일 바이너리에 tree-sitter 구문, 언어 서버, git 마크, 파일 트리, 탭을 모두 담았습니다
+  pl: Edytor kodu dla terminala — jeden samodzielny plik wykonywalny z składnią tree-sitter, serwerami językowymi, znacznikami git, drzewem plików i kartami
+  pt: Um editor de código para o terminal — um único binário autônomo com sintaxe tree-sitter, servidores de linguagem, marcas do git, árvore de arquivos e abas
+  ro: Un editor de cod pentru terminal — un singur binar autonom cu sintaxă tree-sitter, servere de limbaj, marcaje git, arbore de fișiere și file de tab
+  ru: Редактор кода для терминала — единый самодостаточный бинарный файл с подсветкой tree-sitter, языковыми серверами, git-метками, деревом файлов и вкладками
+  th: โปรแกรมแก้ไขโค้ดสำหรับเทอร์มินัล — ไฟล์ไบนารีเดียวที่มาพร้อมไวยากรณ์ tree-sitter เซิร์ฟเวอร์ภาษา ป้ายกำกับ git โครงสร้างไฟล์ และแท็บ
+  tr: Terminal için bir kod düzenleyici — tree-sitter sözdizimi, dil sunucuları, git işaretleri, dosya ağacı ve sekmelerle gelen tek bir bağımsız ikili dosya
+  uk: Редактор коду для термінала — єдиний самодостатній бінарний файл із синтаксисом tree-sitter, мовними серверами, git-мітками, деревом файлів і вкладками
+  vi: Trình soạn thảo mã cho terminal — một tệp nhị phân độc lập với cú pháp tree-sitter, máy chủ ngôn ngữ, dấu git, cây tệp và thẻ
 x:
   source: https://github.com/letstri/druk
   eget: letstri/druk

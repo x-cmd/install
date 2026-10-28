@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端中的交互式火焰图查看器。
   en: An interactive flamegraph viewer in the terminal.
+  cs: Interaktivní prohlížeč flamegraphů v terminálu.
+  de: Ein interaktiver Flamegraph-Viewer im Terminal.
+  es: Un visor de flamegraphs interactivo en la terminal.
+  fr: Un visualiseur de flamegraphs interactif dans le terminal.
+  id: Penampil flamegraph interaktif di terminal.
+  it: Un visualizzatore di flamegraph interattivo nel terminale.
+  ja: ターミナル内のインタラクティブなフレームグラフビューア。
+  ko: 터미널의 대화형 프레임그래프 뷰어.
+  pl: Interaktywna przeglądarka flamegraphów w terminalu.
+  pt: Um visualizador de flamegraphs interativo no terminal.
+  ro: Un vizualizator de flamegraph-uri interactiv în terminal.
+  ru: Интерактивный просмотрщик флеймграфов в терминале.
+  th: เครื่องดูภาพ flamegraph แบบโต้ตอบในเทอร์มินัล
+  tr: Terminalde etkileşimli flamegraph görüntüleyici.
+  uk: Інтерактивний переглядач флеймграфів у терміналі.
+  vi: Trình xem flamegraph tương tác trong terminal.
 x:
   source: https://github.com/YS-L/flamelens
   eget: YS-L/flamelens

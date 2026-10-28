@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: skopeo 是一个命令行实用程序，可对容器镜像和镜像存储库执行各种操作
   en: skopeo is a command line utility that performs various operations on container images and image repositories
+  cs: skopeo je nástroj příkazové řádky, který provádí různé operace nad obrazy kontejnerů a repozitáři obrazů
+  de: skopeo ist ein Kommandozeilen-Dienstprogramm, das verschiedene Vorgänge auf Container-Images und Image-Repositories ausführt
+  es: skopeo es una utilidad de línea de comandos que realiza distintas operaciones sobre imágenes de contenedor y repositorios de imágenes
+  fr: skopeo est un utilitaire en ligne de commande qui effectue diverses opérations sur les images de conteneurs et les dépôts d'images
+  id: skopeo adalah utilitas baris perintah yang melakukan berbagai operasi pada image kontainer dan repositori image
+  it: skopeo è un'utilità della riga di comando che esegue varie operazioni su immagini di container e repository di immagini
+  ja: skopeo はコンテナイメージとイメージリポジトリに対してさまざまな操作を行うコマンドラインツールです
+  ko: skopeo는 컨테이너 이미지와 이미지 저장소에서 다양한 작업을 수행하는 명령줄 유틸리티
+  pl: skopeo to narzędzie wiersza poleceń wykonujące różne operacje na obrazach kontenerów i repozytoriach obrazów
+  pt: skopeo é um utilitário de linha de comando que executa várias operações em imagens de contêiner e repositórios de imagens
+  ro: skopeo este un utilitar de linie de comandă care efectuează diverse operații pe imagini de container și depozite de imagini
+  ru: skopeo — утилита командной строки, выполняющая различные операции с образами контейнеров и репозиториями образов
+  th: skopeo เป็นยูทิลิตีบรรทัดคำสั่งที่ทำการดำเนินการต่าง ๆ กับอิมเมจคอนเทนเนอร์และที่เก็บอิมเมจ
+  tr: skopeo, konteyner imajları ve imaj depoları üzerinde çeşitli işlemler gerçekleştiren bir komut satırı aracıdır
+  uk: skopeo — утиліта командного рядка, що виконує різні операції над образами контейнерів і репозиторіями образів
+  vi: skopeo là tiện ích dòng lệnh thực hiện nhiều thao tác trên image container và kho image
 x:
   source: https://github.com/podman-container-tools/skopeo
   brew: skopeo

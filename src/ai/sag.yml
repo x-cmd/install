@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 类似 macOS say 命令，但使用现代化语音
   en: Like the macOS say command, but with a modern voice.
+  cs: Podobně jako příkaz macOS say, ale s moderním hlasem.
+  de: Wie der macOS-Befehl say, aber mit einer modernen Stimme.
+  es: Como el comando say de macOS, pero con una voz moderna.
+  fr: Comme la commande say de macOS, mais avec une voix moderne.
+  id: Seperti perintah say di macOS, tetapi dengan suara modern.
+  it: Come il comando say di macOS, ma con una voce moderna.
+  ja: macOS の say コマンドのように、ただしモダンな声で。
+  ko: macOS의 say 명령과 같지만, 현대적인 목소리를 사용합니다.
+  pl: Jak polecenie say w macOS, ale z nowoczesnym głosem.
+  pt: Como o comando say do macOS, mas com uma voz moderna.
+  ro: Ca comanda say din macOS, dar cu o voce modernă.
+  ru: Похоже на команду say в macOS, но с современным голосом.
+  th: คล้ายคำสั่ง say ของ macOS แต่ใช้เสียงที่ทันสมัย
+  tr: macOS'taki say komutu gibi, ama modern bir sesle.
+  uk: Як команда say у macOS, але з сучасним голосом.
+  vi: Giống lệnh say của macOS, nhưng với giọng nói hiện đại.
 x:
   source: https://github.com/steipete/sag
   eget: steipete/sag

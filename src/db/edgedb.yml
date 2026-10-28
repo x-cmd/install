@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: EdgeDB 是一个开源数据库，被设计成 SQL 和关系范式的精神续作
   en: EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm
+  cs: EdgeDB je open-source databáze navržená jako duchovní nástupce SQL a relačního paradigmatu
+  de: EdgeDB ist eine Open-Source-Datenbank, die als geistiger Nachfolger von SQL und dem relationalen Paradigma konzipiert wurde
+  es: EdgeDB es una base de datos de código abierto concebida como sucesora espiritual de SQL y del paradigma relacional
+  fr: EdgeDB est une base de données open source conçue comme un successeur spirituel de SQL et du paradigme relationnel
+  id: EdgeDB adalah basis data sumber terbuka yang dirancang sebagai penerusspiritual SQL dan paradigma relasional
+  it: EdgeDB è un database open source progettato come erede spirituale di SQL e del paradigma relazionale
+  ja: EdgeDB は SQL とリレーショナル・パラダイムの精神的な後継者として設計されたオープンソースデータベースです
+  ko: EdgeDB는 SQL과 관계형 패러다임의 정신적 후속자로 설계된 오픈 소스 데이터베이스입니다
+  pl: EdgeDB to otwartoźródłowa baza danych zaprojektowana jako duchowy następca SQL i paradygmu relacyjnego
+  pt: O EdgeDB é um banco de dados de código aberto projetado como sucessor espiritual de SQL e do paradigma relacional
+  ro: EdgeDB este o bază de date open source concepută ca succesor spiritual al SQL-ului și al paradigmii relaționale
+  ru: EdgeDB — это база данных с открытым исходным кодом, спроектированная как духовный наследник SQL и реляционной парадигмы
+  th: EdgeDB คือฐานข้อมูลโอเพนซอร์สที่ออกแบบให้เป็นทายาททางจิตวิญญาณของ SQL และกรอบคิดเชิงสัมพันธ์
+  tr: EdgeDB, SQL ve ilişkisel paradigmanın ruhani varisi olarak tasarlanmış açık kaynaklı bir veritabanıdır
+  uk: EdgeDB — це база даних з відкритим кодом, спроєктована як духовний нащадок SQL та реляційної парадигми
+  vi: EdgeDB là cơ sở dữ liệu mã nguồn mở được thiết kế như kẻ thừa kế tinh thần của SQL và mô hình quan hệ
 x:
   source: https://github.com/edgedb/edgedb
   scoop: edgedb

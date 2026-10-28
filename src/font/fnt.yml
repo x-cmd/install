@@ -3,6 +3,22 @@ homepage: https://github.com/alexmyczko/fnt
 desc:
   en: apt for fonts, the missing font manager for macOS/linux
   cn: 适用于字体的缺失字体管理器，适用于 macOS 和 Linux
+  cs: apt pro fonty, chybějící správce fontů pro macOS/Linux
+  de: apt für Schriften, der fehlende Schriftmanager für macOS/Linux
+  es: apt para fuentes, el gestor de fuentes que falta para macOS/Linux
+  fr: apt pour les polices, le gestionnaire de polices qui manque pour macOS/Linux
+  id: apt untuk font, manajer font yang dibutuhkan untuk macOS/Linux
+  it: apt per i font, il gestore di font mancante per macOS/Linux
+  ja: フォントのための apt。macOS/Linux 向けフォントマネージャー
+  ko: 글꼴을 위한 apt, macOS/Linux에 필요한 글꼴 관리자
+  pl: apt dla czcionek, brakujący menedżer czcionek dla macOS/Linux
+  pt: apt para fontes, o gerenciador de fontes que falta para macOS/Linux
+  ro: apt pentru fonturi, managerul de fonturi lipsă pentru macOS/Linux
+  ru: apt для шрифтов, недостающий менеджер шрифтов для macOS/Linux
+  th: apt สำหรับฟอนต์ ตัวจัดการฟอนต์ที่ขาดหายไปสำหรับ macOS/Linux
+  tr: yazı tipleri için apt, macOS/Linux için eksik yazı tipi yöneticisi
+  uk: apt для шрифтів, бракуючий менеджер шрифтів для macOS/Linux
+  vi: apt cho phông chữ, trình quản lý phông chữ còn thiếu cho macOS/Linux
 x:
   source: https://github.com/alexmyczko/fnt
   apt: fnt

@@ -3,6 +3,22 @@ homepage: https://github.com/xonsh/xonsh
 desc:
   cn: 由 Python 驱动的 shell，能支持用户在命令行中混合使用 Python 和 shell 命令
   en: A Python-powered shell that allows users to mix Python and shell commands on the command line
+  cs: Shell poháněný Pythonem, který uživatelům umožňuje kombinovat příkazy Pythonu a shellu na příkazovém řádku
+  de: Eine von Python angetriebene Shell, die es Nutzern erlaubt, Python- und Shell-Befehle an der Kommandozeile zu mischen
+  es: Un shell impulsado por Python que permite a los usuarios combinar comandos de Python y de shell en la línea de comandos
+  fr: Un shell propulsé par Python qui permet aux utilisateurs de mélanger commandes Python et shell sur la ligne de commande
+  id: Shell berbasis Python yang memungkinkan pengguna menggabungkan perintah Python dan shell di baris perintah
+  it: Una shell basata su Python che consente agli utenti di mescolare comandi Python e shell alla riga di comando
+  ja: Python をベースにしたシェルで、コマンドラインで Python と shell のコマンドを自由に組み合わせられます
+  ko: Python 기반 셸로, 명령줄에서 Python과 셸 명령을 자유롭게 섞어 쓸 수 있습니다
+  pl: Shell napędzany przez Pythona, który pozwala użytkownikom mieszać polecenia Pythona i shella w wierszu poleceń
+  pt: Um shell movimentado por Python que permite aos usuários misturar comandos de Python e shell na linha de comando
+  ro: Un shell bazat pe Python care le permite utilizatorilor să combineze comenzi Python și shell în linia de comandă
+  ru: Оболочка на базе Python, позволяющая пользователям смешивать команды Python и shell в командной строке
+  th: เชลล์ที่ขับเคลื่อนด้วย Python ช่วยให้ผู้ใช้ผสมคำสั่ง Python และเชลล์ในบรรทัดคำสั่งได้
+  tr: Python ile güçlendirilmiş bir kabuk; kullanıcıların komut satırında Python ve kabuk komutlarını karıştırmasına olanak tanır
+  uk: Оболонка на базі Python, яка дозволяє користувачам поєднувати команди Python і shell у командному рядку
+  vi: Shell dựa trên Python cho phép người dùng kết hợp lệnh Python và shell trên dòng lệnh
 x:
   source: https://github.com/xonsh/xonsh
   apt: xonsh

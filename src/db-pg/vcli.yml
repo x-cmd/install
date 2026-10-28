@@ -3,6 +3,22 @@ homepage: https://github.com/dbcli/vcli
 desc:
   cn: Vertica 是一个基于 pgcli 的自动完成和语法突显的客户端
   en: A Vertica client that does auto-completion and syntax highlighting, based on pgcli
+  cs: Klient Vertica s automatickým dokončováním a zvýrazňováním syntaxe, založený na pgcli
+  de: Ein Vertica-Client mit Autovervollständigung und Syntaxhervorhebung, basierend auf pgcli
+  es: Un cliente de Vertica con autocompletado y resaltado de sintaxis, basado en pgcli
+  fr: Un client Vertica avec auto-complétion et coloration syntaxique, basé sur pgcli
+  id: Klien Vertica dengan autocompletion dan penyorotan sintaks, berbasis pgcli
+  it: Un client Vertica con completamento automatico ed evidenziazione della sintassi, basato su pgcli
+  ja: pgcli をベースにした、補完とシンタックスハイライトを備えた Vertica クライアント
+  ko: pgcli를 기반으로 한 자동 완성 및 구문 강조 기능을 제공하는 Vertica 클라이언트
+  pl: Klient Vertica z autouzupełnianiem i podświetlaniem składni, oparty na pgcli
+  pt: Um cliente Vertica com autocompletar e realce de sintaxe, baseado no pgcli
+  ro: Un client Vertica cu autocompletare și evidențierea sintaxei, bazat pe pgcli
+  ru: Клиент Vertica с автодополнением и подсветкой синтаксиса, основанный на pgcli
+  th: ไคลเอนต์ Vertica ที่มีการเติมเต็มอัตโนมัติและการเน้นไวยากรณ์ พัฒนาบนพื้นฐานของ pgcli
+  tr: pgcli tabanlı, otomatik tamamlama ve sözdizimi vurgulama özelliğine sahip bir Vertica istemcisi
+  uk: Клієнт Vertica з автозавершенням і підсвічуванням синтаксису, на основі pgcli
+  vi: Client Vertica có tự động hoàn thành và tô sáng cú pháp, dựa trên pgcli
 x:
   source: https://github.com/dbcli/vcli
   pip: vcli

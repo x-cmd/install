@@ -3,6 +3,22 @@ homepage: https://github.com/tinygo-org/tinygo
 desc:
   cn: 适用于小型场景的 Go 编译器
   en: Go compiler for small places
+  cs: Kompilátor Go pro malá zařízení
+  de: Go-Compiler für kleine Geräte
+  es: Compilador de Go para equipos pequeños
+  fr: Compilateur Go pour les petits appareils
+  id: Kompilator Go untuk perangkat kecil
+  it: Compilatore Go per piccoli dispositivi
+  ja: 小さなデバイス向けの Go コンパイラ
+  ko: 작은 기기를 위한 Go 컴파일러
+  pl: Kompilator Go dla małych urządzeń
+  pt: Compilador Go para dispositivos pequenos
+  ro: Compilator Go pentru dispozitive mici
+  ru: Компилятор Go для небольших устройств
+  th: คอมไพเลอร์ Go สำหรับอุปกรณ์ขนาดเล็ก
+  tr: Küçük cihazlar için Go derleyicisi
+  uk: Компілятор Go для невеликих пристроїв
+  vi: Trình biên dịch Go cho thiết bị nhỏ
 x:
   source: https://github.com/tinygo-org/tinygo
   eget: tinygo-org/tinygo

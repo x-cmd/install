@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 由 Esbuild 提供支持, 捆绑您的 TypeScript 库
   en: Bundler for your TypeScript library, powered by esbuild
+  cs: Bundler pro vaši TypeScript knihovnu, poháněný esbuild
+  de: Bundler für deine TypeScript-Bibliothek, angetrieben von esbuild
+  es: Empaquetador para tu biblioteca de TypeScript, impulsado por esbuild
+  fr: Bundler pour votre bibliothèque TypeScript, propulsé par esbuild
+  id: Bundler untuk pustaka TypeScript Anda, didukung oleh esbuild
+  it: Bundler per la tua libreria TypeScript, basato su esbuild
+  ja: esbuild をエンジンとする TypeScript ライブラリのバンドラー
+  ko: esbuild를 기반으로 하는 TypeScript 라이브러리 번들러
+  pl: Bundler dla Twojej biblioteki TypeScript, napędzany przez esbuild
+  pt: Empacotador para sua biblioteca TypeScript, com o poder do esbuild
+  ro: Bundler pentru biblioteca ta TypeScript, susținut de esbuild
+  ru: Бандлер для вашей библиотеки TypeScript на базе esbuild
+  th: ตัวรวมสำหรับไลบรารี TypeScript ของคุณ โดยใช้ esbuild เป็นเครื่องยนต์
+  tr: esbuild destekli, TypeScript kütüphaneniz için paketleyici
+  uk: Бандлер для вашої бібліотеки TypeScript на основі esbuild
+  vi: Trình đóng gói cho thư viện TypeScript của bạn, dựa trên esbuild
 x:
   source: https://github.com/egoist/tsup
   npm: tsup

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 在不同的 API 版本之间转换配置文件
   en: Convert config files between different API versions
+  cs: Převádět konfigurační soubory mezi různými verzemi API
+  de: Konfigurationsdateien zwischen verschiedenen API-Versionen konvertieren
+  es: Convertir archivos de configuración entre diferentes versiones de la API
+  fr: Convertir des fichiers de configuration entre différentes versions de l'API
+  id: Konversi berkas konfigurasi antara berbagai versi API
+  it: Converti i file di configurazione tra diverse versioni dell'API
+  ja: 異なる API バージョン間で設定ファイルを変換する
+  ko: 서로 다른 API 버전 간에 설정 파일을 변환합니다
+  pl: Konwertuj pliki konfiguracyjne między różnymi wersjami API
+  pt: Converter arquivos de configuração entre diferentes versões da API
+  ro: Conversie fișierele de configurare între diferite versiuni ale API-ului
+  ru: Преобразование конфигурационных файлов между различными версиями API
+  th: แปลงไฟล์การตั้งค่าระหว่างเวอร์ชัน API ที่แตกต่างกัน
+  tr: Yapılandırma dosyalarını farklı API sürümleri arasında dönüştürün
+  uk: Перетворення конфігураційних файлів між різними версіями API
+  vi: Chuyển đổi tệp cấu hình giữa các phiên bản API khác nhau
 x:
   source: https://github.com/kubernetes/kubectl
   yay: kubectl-convert-bin

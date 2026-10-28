@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Joker 可以将进程变成守护进程
   en: Joker can turn process into daemon
+  cs: Joker může převést proces na daemon
+  de: Joker kann einen Prozess in einen Daemon verwandeln
+  es: Joker puede convertir un proceso en un demonio
+  fr: Joker peut transformer un processus en démon
+  id: Joker dapat mengubah proses menjadi daemon
+  it: Joker può trasformare un processo in un demone
+  ja: Joker はプロセスをデーモンに変えることができます
+  ko: Joker는 프로세스를 데몬으로 바꿀 수 있습니다
+  pl: Joker może zamienić proces w demona
+  pt: O Joker pode transformar um processo em daemon
+  ro: Joker poate transforma un proces în demon
+  ru: Joker может превратить процесс в демон
+  th: Joker สามารถเปลี่ยนกระบวนการให้เป็น daemon ได้
+  tr: Joker bir süreci arka plan sürecine (daemon) dönüştürebilir
+  uk: Joker може перетворити процес на демон
+  vi: Joker có thể biến một tiến trình thành daemon
 x:
   source: https://github.com/txthinking/joker
   eget: txthinking/joker

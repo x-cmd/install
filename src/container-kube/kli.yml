@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 快速的键盘驱动 Kubernetes TUI，可浏览资源、编辑对象、跟踪日志并进入 pod shell
   en: 'A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.'
+  cs: "Rychlé TUI pro Kubernetes ovládané klávesnicí: prohlížejte zdroje, upravujte objekty, sledujte logy a vstupujte do shellu podů"
+  de: Ein schnelles, tastaturgesteuertes Kubernetes-TUI. Durchsuchen Sie Ressourcen, bearbeiten Sie Objekte, verfolgen Sie Logs und öffnen Sie eine Shell in Pods.
+  es: Un TUI de Kubernetes rápido y controlado por teclado. Explore cualquier recurso, edite objetos, siga registros y acceda a un shell en los pods.
+  fr: Un TUI Kubernetes rapide et piloté au clavier. Parcourez n'importe quelle ressource, modifiez des objets, suivez les journaux et entrez dans le shell des pods.
+  id: TUI Kubernetes cepat yang dikendalikan keyboard. Jelajahi sumber daya apa pun, edit objek, ikuti log, dan masuk ke shell pod.
+  it: Una TUI Kubernetes veloce controllata da tastiera. Sfoglia qualsiasi risorsa, modifica gli oggetti, segui i log e accedi alla shell dei pod.
+  ja: 高速なキーボード操作の Kubernetes TUI。任意のリソースの閲覧、オブジェクトの編集、ログの追跡、pod へのシェルへの進入が可能です
+  ko: 빠르고 키보드로 조작하는 Kubernetes TUI. 모든 리소스를 탐색하고, 객체를 편집하고, 로그를 따라가며, pod에 셸로 들어가세요.
+  pl: Szybkie TUI dla Kubernetes sterowane klawiaturą. Przeglądaj dowolne zasoby, edytuj obiekty, śledź logi i wchodź do shella w podach.
+  pt: Uma TUI do Kubernetes rápida e controlada por teclado. Navegue por qualquer recurso, edite objetos, acompanhe logs e entre no shell de pods.
+  ro: Un TUI Kubernetes rapid, controlat de la tastatură. Răsfoiește orice resursă, editează obiecte, urmărește jurnalele și intră în shell în poduri.
+  ru: Быстрый TUI для Kubernetes с управлением с клавиатуры. Просматривайте любые ресурсы, редактируйте объекты, следите за логами и заходите в оболочку подов.
+  th: TUI ของ Kubernetes ที่เร็วและควบคุมด้วยคีย์บอร์ด เรียกดูทรัพยากรใดก็ได้ แก้ไขอ็อบเจกต์ ติดตามบันทึก และเข้าไปใช้เชลล์ในพอด
+  tr: Hızlı, klavyeyle çalışan bir Kubernetes TUI. Herhangi bir kaynağı gezin, nesneleri düzenleyin, günlükleri takip edin ve pod'lara kabuk açın.
+  uk: Швидкий TUI для Kubernetes з керуванням з клавіатури. Переглядайте будь-які ресурси, редагуйте об'єкти, стежте за журналами та заходіть у оболонку pod-ів.
+  vi: TUI Kubernetes nhanh, điều khiển bằng bàn phím. Duyệt mọi tài nguyên, chỉnh sửa đối tượng, theo dõi log và vào shell trong pod
 x:
   source: https://github.com/bjarneo/ku
   eget: bjarneo/ku

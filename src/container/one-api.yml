@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 支持 OpenAI、Azure、Anthropic、Gemini 等主流模型的 LLM API 管理与分发系统，单文件部署
   en: LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & k...
+  cs: Systém správy a distribuce LLM API podporující mainstream modely jako OpenAI, Azure, Anthropic a Gemini, nasazený v jediném souboru
+  de: LLM-API-Management- und Verteilungsystem für gängige Modelle wie OpenAI, Azure, Anthropic und Gemini, Installation aus einer einzelnen Datei
+  es: Sistema de gestión y distribución de API de LLM compatible con modelos populares como OpenAI, Azure, Anthropic y Gemini, desplegado en un solo archivo
+  fr: Système de gestion et de distribution d'API LLM compatible avec les modèles courants comme OpenAI, Azure, Anthropic et Gemini, déployé en un seul fichier
+  id: Sistem manajemen & distribusi API LLM yang mendukung model populer seperti OpenAI, Azure, Anthropic, dan Gemini, dengan sekali pasang dalam satu berkas
+  it: Sistema di gestione e distribuzione delle API LLM che supporta i modelli più diffusi come OpenAI, Azure, Anthropic e Gemini, con distribuzione in un unico file
+  ja: OpenAI、Azure、Anthropic、Gemini などの主要モデルに対応した LLM API の管理・配信システム。単一ファイルで導入可能
+  ko: OpenAI, Azure, Anthropic, Gemini 등 주요 모델을 지원하는 LLM API 관리 및 배포 시스템으로, 단일 파일로 배포
+  pl: System zarządzania i dystrybucji API LLM obsługujący popularne modele takie jak OpenAI, Azure, Anthropic i Gemini, wdrażany w jednym pliku
+  pt: Sistema de gerenciamento e distribuição de API de LLM que oferece suporte a modelos populares como OpenAI, Azure, Anthropic e Gemini, implantado em um único arquivo
+  ro: Sistem de management și distribuire a API-urilor LLM care acceptă modele populare precum OpenAI, Azure, Anthropic și Gemini, livrat într-un singur fișier
+  ru: Система управления и распространения LLM API с поддержкой популярных моделей OpenAI, Azure, Anthropic, Gemini, развёртываемая одним файлом
+  th: ระบบจัดการและกระจาย LLM API ที่รองรับโมเดลยอดนิยม เช่น OpenAI, Azure, Anthropic และ Gemini พร้อมติดตั้งไฟล์เดียว
+  tr: OpenAI, Azure, Anthropic ve Gemini gibi yaygın modelleri destekleyen, tek dosyayla dağıtılabilen LLM API yönetim ve dağıtım sistemi
+  uk: Система керування та поширення LLM API з підтримкою популярних моделей OpenAI, Azure, Anthropic, Gemini, що розгортається одним файлом
+  vi: Hệ thống quản lý và phân phối API LLM hỗ trợ các mô hình phổ biến như OpenAI, Azure, Anthropic và Gemini, triển khai bằng một tệp duy nhất
 x:
   source: https://github.com/songquanpeng/one-api
   eget: songquanpeng/one-api

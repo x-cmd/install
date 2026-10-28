@@ -3,6 +3,22 @@ homepage: https://code.videolan.org/jeeb/aribb24
 desc:
   en: A library for ARIB STD-B24, decoding JIS 8 bit characters and parsing MPEG-TS stream
   cn: 一个用于 ARIB STD-B24、 JIS 8 位字符解码和 MPEG-TS 流解析的库
+  cs: Knihovna pro ARIB STD-B24, dekódování 8bitových znaků JIS a parsování streamů MPEG-TS
+  de: Eine Bibliothek für ARIB STD-B24, zur Dekodierung von JIS-8-Bit-Zeichen und zum Parsen von MPEG-TS-Streams
+  es: Una biblioteca para ARIB STD-B24, que decodifica caracteres JIS de 8 bits y analiza flujos MPEG-TS
+  fr: Une bibliothèque pour ARIB STD-B24, le décodage des caractères JIS 8 bits et l'analyse des flux MPEG-TS
+  id: Pustaka untuk ARIB STD-B24, mendekode karakter JIS 8-bit, dan mengurai stream MPEG-TS
+  it: Una libreria per ARIB STD-B24, la decodifica dei caratteri JIS a 8 bit e l'analisi dei flussi MPEG-TS
+  ja: ARIB STD-B24対応、JIS 8ビット文字のデコードとMPEG-TSストリームの解析を行うライブラリ
+  ko: ARIB STD-B24 지원, JIS 8비트 문자 디코딩 및 MPEG-TS 스트림 파싱을 위한 라이브러리
+  pl: Biblioteka dla ARIB STD-B24, dekodująca znaki JIS 8-bitowe i parsująca strumienie MPEG-TS
+  pt: Uma biblioteca para ARIB STD-B24, decodificação de caracteres JIS de 8 bits e análise de fluxos MPEG-TS
+  ro: O bibliotecă pentru ARIB STD-B24, decodificarea caracterelor JIS pe 8 biți și parsarea fluxurilor MPEG-TS
+  ru: Библиотека для ARIB STD-B24, декодирования 8-битных символов JIS и разбора потоков MPEG-TS
+  th: ไลบรารีสำหรับ ARIB STD-B24 ถอดรหัสอักขระ JIS แบบ 8 บิต และแยกวิเคราะห์สตรีม MPEG-TS
+  tr: ARIB STD-B24 için, JIS 8 bit karakterleri çözen ve MPEG-TS akışlarını ayrıştıran bir kütüphane
+  uk: Бібліотека для ARIB STD-B24, декодування 8-бітних символів JIS та розбору потоків MPEG-TS
+  vi: Thư viện cho ARIB STD-B24, giải mã ký tự JIS 8 bit và phân tích luồng MPEG-TS
 rule:
   darwin/brew:
     cmd: brew install aribb24

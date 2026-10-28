@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Argo Rollouts 是一个 Kubernetes 控制器和一组 CRD，为 Kubernetes 提供高级部署功能，例如  blue-green, canary, canary analysis,实验和渐进式交付功能
   en: Argo Rollouts is a Kubernetes controller and set of CRDs which provide advanced deployment capabilities such as blue-green, canary, canary analysis, experimentation, and progressive delivery features to Kubernetes
+  cs: Argo Rollouts je Kubernetes controller a sada CRD, které poskytují pokročilé možnosti nasazení, jako je blue-green, canary, analýza canary, experimentování a postupné doručování
+  de: Argo Rollouts ist ein Kubernetes-Controller und ein Satz von CRDs, die erweiterte Deployment-Funktionen wie Blue-Green, Canary, Canary-Analyse, Experimente und progressive Bereitstellung für Kubernetes bieten
+  es: Argo Rollouts es un controlador de Kubernetes y un conjunto de CRD que proporcionan capacidades de despliegue avanzadas como blue-green, canary, análisis de canary, experimentación y entrega progresiva a Kubernetes
+  fr: Argo Rollouts est un contrôleur Kubernetes et un ensemble de CRD qui offrent à Kubernetes des capacités de déploiement avancées telles que blue-green, canary, analyse de canary, expérimentation et livraison progressive
+  id: Argo Rollouts adalah controller Kubernetes dan sekumpulan CRD yang menyediakan kemampuan deployment lanjutan seperti blue-green, canary, analisis canary, eksperimen, dan progressive delivery untuk Kubernetes
+  it: Argo Rollouts è un controller Kubernetes e un insieme di CRD che forniscono a Kubernetes funzionalità di distribuzione avanzate come blue-green, canary, analisi canary, sperimentazione e progressive delivery
+  ja: Argo Rollouts は Kubernetes のコントローラーと CRD の集合で、blue-green、canary、canary 分析、実験、渐进式デリバリーといった高度なデプロイ機能を Kubernetes に提供します。
+  ko: Argo Rollouts는 Kubernetes 컨트롤러이자 CRD 모음으로, blue-green, canary, canary 분석, 실험, 점진적 배포와 같은 고급 배포 기능을 Kubernetes에 제공합니다
+  pl: Argo Rollouts to kontroler Kubernetes i zestaw CRD, które zapewniają zaawansowane możliwości wdrażania, takie jak blue-green, canary, analiza canary, eksperymentowanie i stopniowe dostarczanie w Kubernetes
+  pt: Argo Rollouts é um controlador do Kubernetes e um conjunto de CRDs que fornecem capacidades avançadas de implantação, como blue-green, canary, análise de canary, experimentação e entrega progressiva ao Kubernetes
+  ro: Argo Rollouts este un controler Kubernetes și o mulțime de CRD-uri care oferă Kubernetes capability-uri avansate de implementare, precum blue-green, canary, analiza canary, experimentare și livrare progresivă
+  ru: Argo Rollouts — это контроллер Kubernetes и набор CRD, предоставляющих Kubernetes расширенные возможности развёртывания, такие как blue-green, canary, анализ canary, эксперименты и прогрессивная доставка
+  th: Argo Rollouts คือคอนโทรลเลอร์ Kubernetes และชุดของ CRD ที่มอบความสามารถในการดีพลอยที่ขั้นสูง เช่น blue-green, canary, การวิเคราะห์ canary, การทดลอง และ progressive delivery ให้กับ Kubernetes
+  tr: Argo Rollouts, Kubernetes için blue-green, canary, canary analizi, deney ve aşamalı dağıtım gibi gelişmiş dağıtım yetenekleri sağlayan bir Kubernetes denetleyicisi ve CRD kümesidir
+  uk: Argo Rollouts — це контролер Kubernetes і набір CRD, які надають Kubernetes розширені можливості розгортання, такі як blue-green, canary, аналіз canary, експерименти та прогресивна доставка
+  vi: Argo Rollouts là một controller Kubernetes và tập hợp CRD, cung cấp cho Kubernetes các khả năng triển khai nâng cao như blue-green, canary, phân tích canary, thử nghiệm và triển khai dần
 x:
   source: https://github.com/argoproj/argo-rollouts
   yay: kubectl-argo-rollouts-bin

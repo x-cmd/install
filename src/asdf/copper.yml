@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Copper 是验证配置文件的简单工具
   en: Copper is a simple tool for validate your configuration files
+  cs: Copper je jednoduchý nástroj pro validaci konfiguračních souborů
+  de: Copper ist ein einfaches Werkzeug zum Validieren Ihrer Konfigurationsdateien
+  es: Copper es una herramienta sencilla para validar sus archivos de configuración
+  fr: Copper est un outil simple pour valider vos fichiers de configuration
+  id: Copper adalah alat sederhana untuk memvalidasi berkas konfigurasi Anda
+  it: Copper è un semplice strumento per convalidare i file di configurazione
+  ja: Copper は設定ファイルを検証するシンプルなツールです
+  ko: Copper는 구성 파일을 검증하는 간단한 도구입니다
+  pl: Copper to proste narzędzie do walidacji plików konfiguracyjnych
+  pt: O Copper é uma ferramenta simples para validar seus arquivos de configuração
+  ro: Copper este un instrument simplu pentru validarea fișierelor de configurare
+  ru: Copper — простой инструмент для проверки файлов конфигурации
+  th: Copper เป็นเครื่องมือง่าย ๆ สำหรับตรวจสอบไฟล์คอนฟิกของคุณ
+  tr: Copper, yapılandırma dosyalarınızı doğrulamak için basit bir araçtır
+  uk: Copper — простий інструмент для перевірки файлів конфігурації
+  vi: Copper là công cụ đơn giản để kiểm tra các tệp cấu hình của bạn
 x:
   source: https://github.com/cloud66-oss/copper
   eget: cloud66-oss/copper

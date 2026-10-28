@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: DokuWiki1 是一个简单易用、用途多样并且不依赖数据库的开源维基软件
   en: DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database
+  cs: DokuWiki je snadno použitelný a velmi všestranný open source wiki software, který nevyžaduje databázi
+  de: DokuWiki ist eine einfach zu verwendende und äußerst vielseitige Open-Source-Wiki-Software, die keine Datenbank benötigt
+  es: DokuWiki es un software wiki de código abierto fácil de usar y muy versátil que no requiere una base de datos
+  fr: DokuWiki est un logiciel wiki open source simple à utiliser et très polyvalent qui ne nécessite pas de base de données
+  id: DokuWiki adalah perangkat lunak wiki open source yang mudah digunakan dan sangat serbaguna tanpa memerlukan basis data
+  it: DokuWiki è un software wiki open source facile da usare e molto versatile che non richiede un database
+  ja: DokuWiki はデータベースを必要としない、使いやすい非常に汎用性の高いオープンソースのウィキソフトウェアです
+  ko: DokuWiki는 데이터베이스가 필요 없는 사용하기 쉬운 다목적 오픈 소스 위키 소프트웨어입니다
+  pl: DokuWiki to łatwy w użyciu i bardzo wszechstronny open source'owy program wiki, który nie wymaga bazy danych
+  pt: O DokuWiki é um software wiki open source fácil de usar e altamente versátil que não requer banco de dados
+  ro: DokuWiki este un software wiki open source ușor de utilizat și extrem de versatil care nu necesită o bază de date
+  ru: DokuWiki — это простой в использовании и очень универсальный wiki-софт с открытым исходным кодом, не требующий базы данных
+  th: DokuWiki คือซอฟต์แวร์ wiki โอเพนซอร์สที่ใช้งานง่ายและยืดหยุ่นสูง โดยไม่ต้องใช้ฐานข้อมูล
+  tr: DokuWiki, veritabanı gerektirmeyen, kullanımı kolay ve son derece çok yönlü bir açık kaynak wiki yazılımıdır
+  uk: DokuWiki — це просте у використанні та надзвичайно багатофункціональне wiki-ПЗ з відкритим кодом, що не потребує бази даних
+  vi: DokuWiki là phần mềm wiki mã nguồn mở dễ sử dụng và rất linh hoạt, không yêu cầu cơ sở dữ liệu
 x:
   source: https://github.com/dokuwiki/dokuwiki
   eget: dokuwiki/dokuwiki

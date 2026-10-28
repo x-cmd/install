@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Nous Research 开发的自学习型 AI 智能体， 是唯一一款内置学习循环的智能体
   en: The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop
+  cs: Samozlepšující se AI agent od Nous Research. Je to jediný agent s vestavěnou smyčkou učení
+  de: Der selbstverbessernde KI-Agent von Nous Research. Es ist der einzige Agent mit integrierter Lernschleife
+  es: El agente de IA que se automejora de Nous Research. Es el único agente con un bucle de aprendizaje integrado
+  fr: L'agent IA auto-améliorant de Nous Research. C'est le seul agent doté d'une boucle d'apprentissage intégrée
+  id: Agen AI yang terus belajar dari Nous Research. Ini satu-satunya agen dengan loop pembelajaran bawaan
+  it: L'agente AI che si migliora da solo di Nous Research. È l'unico agente con un ciclo di apprendimento integrato
+  ja: Nous Research が開発した自己改善型 AI エージェント。組み込みの学習ループを持つ唯一のエージェントです
+  ko: Nous Research가 만든 자기 개선형 AI 에이전트로, 내장 학습 루프를 갖춘 유일한 에이전트입니다
+  pl: Samodoskonalący się agent AI od Nous Research. To jedyny agent z wbudowaną pętlą uczenia się
+  pt: O agente de IA que se autoaperfeiçoa da Nous Research. É o único agente com um loop de aprendizado integrado
+  ro: Agentul AI care se auto-îmbunătățește de la Nous Research. Este singurul agent cu o buclă de învățare integrată
+  ru: Самообучающийся ИИ-агент от Nous Research. Это единственный агент со встроенным циклом обучения
+  th: เอเจนต์ AI ที่พัฒนาตัวเองจาก Nous Research เป็นเอเจนต์เดียวที่มีวงจรการเรียนรู้ในตัว
+  tr: Nous Research tarafından geliştirilen kendini geliştiren yapay zekâ ajanı. Dahili öğrenme döngüsüne sahip tek ajan
+  uk: Самовдосконалюваний ШІ-агент від Nous Research. Це єдиний агент із вбудованим циклом навчання
+  vi: Tác nhân AI tự cải thiện do Nous Research xây dựng. Đây là tác nhân duy nhất có vòng lặp học tập tích hợp
 x:
   source: https://github.com/nousresearch/hermes-agent
   yay: hermes-agent

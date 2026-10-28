@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 高性能的 Docker 容器管理终端 UI，支持实时监控与日志查看
   en: 'A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.'
+  cs: Vysoce výkonné terminálové UI pro správu kontejnerů Docker s monitorováním v reálném čase, pokročilým zobrazením logů a komplexními operacemi s kontejnery.
+  de: Eine leistungsstarke Terminal-UI für die Docker-Container-Verwaltung mit Echtzeit-Überwachung, erweiterter Log-Ansicht und umfassenden Container-Operationen.
+  es: Una interfaz de terminal de alto rendimiento para la gestión de contenedores Docker con monitorización en tiempo real, visualización avanzada de registros y operacionesintegral de contenedores.
+  fr: Une interface terminal haute performance pour la gestion des conteneurs Docker, avec surveillance en temps réel, visualisation avancée des journaux et opérations complètes sur les conteneurs.
+  id: Antarmuka terminal berkinerja tinggi untuk manajemen kontainer Docker dengan pemantauan waktu nyata, tampilan log lanjutan, dan operasi kontainer menyeluruh.
+  it: Un'interfaccia terminale ad alte prestazioni per la gestione dei container Docker, con monitoraggio in tempo reale, visualizzazione avanzata dei log e operazioni complete sui container.
+  ja: リアルタイム監視、高度なログ閲覧、包括的なコンテナ操作に対応した高性能なDockerコンテナ管理用ターミナルUI。
+  ko: 실시간 모니터링, 고급 로그 보기, 포괄적인 컨테이너 작업을 지원하는 고성능 Docker 컨테이너 관리용 터미널 UI.
+  pl: Wydajny interfejs terminala do zarządzania kontenerami Docker z monitorowaniem w czasie rzeczywistym, zaawansowanym podglądem logów i kompleksowymi operacjami na kontenerach.
+  pt: Uma interface de terminal de alto desempenho para gerenciamento de contêineres Docker, com monitoramento em tempo real, visualização avançada de logs e operações abrangentes de contêineres.
+  ro: O interfață terminală de înaltă performanță pentru gestionarea containerelor Docker, cu monitorizare în timp real, vizualizare avansată a jurnalelor și operațiuni cuprinzătoare pe containere.
+  ru: Высокопроизводительный терминальный интерфейс для управления контейнерами Docker с мониторингом в реальном времени, расширенным просмотром логов и полным набором операций с контейнерами.
+  th: เทอร์มินัล UI ประสิทธิภาพสูงสำหรับการจัดการคอนเทนเนอร์ Docker พร้อมการตรวจสอบแบบเรียลไทม์ การดูบันทึกขั้นสูง และการดำเนินการคอนเทนเนอร์อย่างครบถ้วน
+  tr: Gerçek zamanlı izleme, gelişmiş günlük görüntüleme ve kapsamlı konteyner işlemleriyle Docker konteyner yönetimi için yüksek performanslı terminal arayüzü.
+  uk: Високопродуктивний термінальний інтерфейс для керування контейнерами Docker з моніторингом у реальному часі, розширеним переглядом логів і повним набором операцій із контейнерами.
+  vi: Giao diện terminal hiệu năng cao để quản lý container Docker với giám sát thời gian thực, xem log nâng cao và các thao tác container toàn diện.
 x:
   source: https://github.com/StakeSquid/dtop
   eget: StakeSquid/dtop

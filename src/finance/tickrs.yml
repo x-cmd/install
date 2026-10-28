@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的实时行情数据
   en: 'Realtime ticker data in your terminal 📈'
+  cs: Data kurzů v reálném čase ve vašem terminálu 📈
+  de: Kursdaten in Echtzeit in Ihrem Terminal 📈
+  es: Datos de cotización en tiempo real en tu terminal 📈
+  fr: Données de cotisation en temps réel dans votre terminal 📈
+  id: Data harga real-time di terminal Anda 📈
+  it: Dati di quotazione in tempo reale nel tuo terminale 📈
+  ja: ターミナル内でリアルタイムの相場データを取得 📈
+  ko: 터미널에서 실시간 시세 데이터 📈
+  pl: Dane giełdowe w czasie rzeczywistym w twoim terminalu 📈
+  pt: Dados de cotação em tempo real no seu terminal 📈
+  ro: Date de cotație în timp real în terminalul dumneavoastră 📈
+  ru: Котировки в реальном времени прямо в вашем терминале 📈
+  th: ข้อมูลราคาหุ้นแบบเรียลไทม์ในเทอร์มินัลของคุณ 📈
+  tr: Terminalinizde gerçek zamanlı fiyat verileri 📈
+  uk: Котирування в реальному часі просто у вашому терміналі 📈
+  vi: Dữ liệu giá theo thời gian thực trong terminal của bạn 📈
 x:
   source: https://github.com/tarkah/tickrs
   eget: tarkah/tickrs

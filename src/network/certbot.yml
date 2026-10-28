@@ -3,6 +3,22 @@ homepage: https://github.com/certbot/certbot
 desc:
   cn: Certbot 是 EFF 的工具，用于从 Let's Encrypt 获取证书并（可选）在您的服务器上自动启用 HTTPS
   en: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.
+  cs: Certbot je nástroj EFF k získávání certifikátů od Let's Encrypt a volitelnému automatickému zapnutí HTTPS na vašem serveru.
+  de: Certbot ist das Werkzeug von EFF zum Beziehen von Zertifikaten von Let's Encrypt und zum optionalen automatischen Aktivieren von HTTPS auf Ihrem Server.
+  es: Certbot es la herramienta de EFF para obtener certificados de Let's Encrypt y (opcionalmente) habilitar HTTPS automáticamente en tu servidor.
+  fr: Certbot est l'outil de l'EFF pour obtenir des certificats auprès de Let's Encrypt et (facultativement) activer automatiquement HTTPS sur votre serveur.
+  id: Certbot adalah alat dari EFF untuk memperoleh sertifikat dari Let's Encrypt dan (opsional) otomatis mengaktifkan HTTPS di server Anda.
+  it: Certbot è lo strumento di EFF per ottenere certificati da Let's Encrypt e (opzionalmente) abilitare automaticamente HTTPS sul tuo server.
+  ja: Certbot は Let's Encrypt から証明書を取得し、必要に応じてサーバー上で HTTPS を自動的に有効にする EFF のツールです。
+  ko: Certbot는 Let's Encrypt에서 인증서를 받고 (선택적으로) 서버에서 HTTPS를 자동으로 활성화하는 EFF의 도구입니다.
+  pl: Certbot to narzędzie EFF do uzyskiwania certyfikatów z Let's Encrypt i (opcjonalnie) automatycznego włączania HTTPS na serwerze.
+  pt: O Certbot é a ferramenta da EFF para obter certificados do Let's Encrypt e (opcionalmente) ativar HTTPS automaticamente no seu servidor.
+  ro: Certbot este instrumentul EFF pentru obținerea certificatelor de la Let's Encrypt și (opțional) activarea automată a HTTPS pe serverul dvs.
+  ru: Certbot — инструмент EFF для получения сертификатов от Let's Encrypt и (при желании) автоматического включения HTTPS на вашем сервере.
+  th: Certbot เป็นเครื่องมือของ EFF สำหรับรับใบรับรองจาก Let's Encrypt และ (โดยไม่บังคับ) เปิดใช้งาน HTTPS บนเซิร์ฟเวอร์ของคุณโดยอัตโนมัติ
+  tr: Certbot, Let's Encrypt'ten sertifika almak ve (isteğe bağlı olarak) sunucunuzda HTTPS'yi otomatik olarak etkinleştirmek için EFF aracıdır.
+  uk: Certbot — інструмент EFF для отримання сертифікатів від Let's Encrypt і (за бажанням) автоматичного ввімкнення HTTPS на вашому сервері.
+  vi: Certbot là công cụ của EFF để lấy chứng chỉ từ Let's Encrypt và (tùy chọn) tự động bật HTTPS trên máy chủ của bạn.
 x:
   source: https://github.com/certbot/certbot
   eget: certbot/certbot

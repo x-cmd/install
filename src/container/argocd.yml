@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Argo CD 是一个声明性的、针对库伯内特的 gitOps 持续交付工具
   en: Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes
+  cs: Argo CD je deklarativní nástroj pro průběžné doručování GitOps pro Kubernetes
+  de: Argo CD ist ein deklaratives GitOps-Continuous-Delivery-Werkzeug für Kubernetes
+  es: Argo CD es una herramienta declarativa de entrega continua GitOps para Kubernetes
+  fr: Argo CD est un outil de livraison continue GitOps déclaratif pour Kubernetes
+  id: Argo CD adalah alat continuous delivery GitOps yang deklaratif untuk Kubernetes
+  it: Argo CD è uno strumento di continuous delivery GitOps dichiarativo per Kubernetes
+  ja: Argo CD は Kubernetes 向けの宣言的な GitOps 継続的デリバツールです
+  ko: Argo CD는 Kubernetes를 위한 선언적 GitOps 지속적 배포 도구입니다
+  pl: Argo CD to deklaracyjne narzędzie do ciągłego dostarczania GitOps dla Kubernetes
+  pt: O Argo CD é uma ferramenta declarativa de entrega contínua GitOps para o Kubernetes
+  ro: Argo CD este un instrument declarativ de livrare continuă GitOps pentru Kubernetes
+  ru: Argo CD — это декларативный инструмент непрерывной доставки GitOps для Kubernetes
+  th: Argo CD คือเครื่องมือส่งมอบต่อเนื่องแบบ declarative ในสไตล์ GitOps สำหรับ Kubernetes
+  tr: Argo CD, Kubernetes için bildirimsel GitOps sürekli teslim aracıdır
+  uk: Argo CD — це декларативний інструмент безперервної доставки GitOps для Kubernetes
+  vi: Argo CD là công cụ triển khai liên tục kiểu khai báo (declarative) theo mô hình GitOps cho Kubernetes
 x:
   source: https://github.com/argoproj/argo-cd
   eget: argoproj/argo-cd

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 稳健快速的纯文本记账工具,支持 CLI、TUI 和 Web 界面
   en: 'Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.'
+  cs: Odolný, rychlý a intuitivní textový účetní nástroj s rozhraními CLI, TUI a web.
+  de: Robustes, schnelles, intuitives Text-Accounting-Werkzeug mit CLI-, TUI- und Web-Oberflächen.
+  es: Herramienta de contabilidad en texto plano robusta, rápida e intuitiva, con interfaces CLI, TUI y web.
+  fr: Un outil de comptabilité en texte brut robuste, rapide et intuitif, avec des interfaces CLI, TUI et web.
+  id: Alat akuntansi teks biasa yang kokoh, cepat, dan intuitif dengan antarmuka CLI, TUI, dan web.
+  it: Robusto, veloce e intuitivo strumento di contabilità in testo semplice con interfacce CLI, TUI e web.
+  ja: CLI、TUI、Webインターフェースを備えた、堅牢で高速なプレーンテキスト記帳ツールです。
+  ko: CLI, TUI, 웹 인터페이스를 갖춘 견고하고 빠른 직관적 플레인 텍스트 회계 도구입니다.
+  pl: Solidne, szybkie i intuicyjne narzędzie do księgowości w zwykłym tekście z interfejsami CLI, TUI i webowym.
+  pt: Ferramenta de contabilidade em texto simples robusta, rápida e intuitiva, com interfaces CLI, TUI e web.
+  ro: Un instrument robust, rapid și intuitiv de contabilitate în text simplu, cu interfețe CLI, TUI și web.
+  ru: Надёжный, быстрый и интуитивно понятный инструмент для бухгалтерии в текстовом формате с интерфейсами CLI, TUI и веб.
+  th: เครื่องมือบัญชีแบบข้อความธรรมดาที่แข็งแรง เร็ว และใช้งานง่าย พร้อมอินเทอร์เฟซ CLI, TUI และเว็บ
+  tr: CLI, TUI ve web arayüzlerine sahip sağlam, hızlı ve sezgisel düz metin muhasebe aracı.
+  uk: Надійний, швидкий та інтуїтивно зрозумілий інструмент для бухгалтерії у текстовому форматі з інтерфейсами CLI, TUI та веб.
+  vi: Công cụ kế toán văn bản thuần đơn giản, mạnh mẽ, nhanh và trực quan với giao diện CLI, TUI và web.
 x:
   source: https://github.com/simonmichael/hledger
   eget: simonmichael/hledger

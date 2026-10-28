@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于 JPEG 和 PNG 图像的命令行图像调整器和旋转器
   en: A command line image resizer and rotator for JPEG and PNG images
+  cs: Nástroj pro příkazovou řádek pro změnu velikosti a otáčení obrázků JPEG a PNG
+  de: Ein Kommandozeilen-Tool zum Skalieren und Drehen von JPEG- und PNG-Bildern
+  es: Una herramienta de línea de comandos para redimensionar y rotar imágenes JPEG y PNG
+  fr: Un outil en ligne de commande pour redimensionner et faire pivoter des images JPEG et PNG
+  id: Alat baris perintah untuk mengubah ukuran dan memutar gambar JPEG dan PNG
+  it: Uno strumento da riga di comando per ridimensionare e ruotare immagini JPEG e PNG
+  ja: JPEG と PNG 画像をリサイズ・回転させるコマンドラインツール
+  ko: JPEG 및 PNG 이미지의 크기 조정과 회전을 위한 명령줄 도구
+  pl: Narzędzie wiersza poleceń do zmiany rozmiaru i obracania obrazów JPEG i PNG
+  pt: Uma ferramenta de linha de comando para redimensionar e girar imagens JPEG e PNG
+  ro: Un instrument de linie de comandă pentru redimensionarea și rotirea imaginilor JPEG și PNG
+  ru: Инструмент командной строки для изменения размера и поворота изображений JPEG и PNG
+  th: เครื่องมือบรรทัดคำสั่งสำหรับปรับขนาดและหมุนภาพ JPEG และ PNG
+  tr: JPEG ve PNG görsellerini yeniden boyutlandırmak ve döndürmek için komut satırı aracı
+  uk: Інструмент командного рядка для зміни розміру та обертання зображень JPEG і PNG
+  vi: Công cụ dòng lệnh để thay đổi kích thước và xoay ảnh JPEG và PNG
 x:
   source: https://github.com/jarun/imgp
   apt: imgp

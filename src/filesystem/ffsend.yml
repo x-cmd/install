@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 一个功能齐全的 Firefox Send 客户端，可以通过安全、私密和加密的链接，从命令行轻松、安全地共享文件和目录
   en: A feature-rich Firefox Send client that allows easy, secure, and encrypted sharing of files and directories from the command line via secure, private links
+  cs: Plnohodnotný klient Firefox Send, který umožňuje snadné, bezpečné a šifrované sdílení souborů a adresářů z příkazové řádky pomocí bezpečných a soukromých odkazů
+  de: Ein voll ausgestatteter Firefox Send-Client, der das einfache, sichere und verschlüsselte Teilen von Dateien und Verzeichnissen über sichere, private Links von der Kommandozeile ermöglicht
+  es: Un cliente de Firefox Send con muchas funciones que permite compartir archivos y directorios de forma fácil, segura y cifrada desde la línea de comandos mediante enlaces seguros y privados
+  fr: Un client Firefox Send riche en fonctionnalités qui permet de partager facilement, en toute sécurité et de manière chiffrée des fichiers et des répertoires depuis la ligne de commande via des liens sécurisés et privés
+  id: Klien Firefox Send lengkap fitur yang memudahkan berbagi berkas dan direktori secara aman dan terenkripsi dari baris perintah lewat tautan yang aman dan privat
+  it: Un client Firefox Send ricco di funzionalità che consente la condivisione semplice, sicura e cifrata di file e directory dalla riga di comando tramite link sicuri e privati
+  ja: 安全なプライベートリンクを使って、コマンドラインからファイルやディレクトリを簡単かつ安全に暗号化して共有できる高機能なFirefox Sendクライアント。
+  ko: 안전하고 비공개 링크를 통해 명령줄에서 파일과 디렉터리를 쉽고 안전하게 암호화해 공유할 수 있는 다기능 Firefox Send 클라이언트
+  pl: Pełnowyposażony klient Firefox Send, który umożliwia łatwe, bezpieczne i szyfrowane udostępnianie plików i katalogów z wiersza poleceń za pomocą bezpiecznych, prywatnych linków
+  pt: Um cliente do Firefox Send cheio de recursos que permite compartilhar arquivos e diretórios de forma fácil, segura e criptografada a partir da linha de comando por meio de links seguros e privados
+  ro: Un client Firefox Send bogat în funcții care permite partajarea ușoară, sigură și criptată a fișierelor și directoarelor din linia de comandă prin linkuri sigure și private
+  ru: Многофункциональный клиент Firefox Send, позволяющий легко, безопасно и с шифрованием делиться файлами и каталогами из командной строки по безопасным приватным ссылкам
+  th: ไคลเอนต์ Firefox Send ที่มีความสามารถครบถ้วน ช่วยให้แชร์ไฟล์และไดเรกทอรีได้อย่างง่ายดาย ปลอดภัย และเข้ารหัส จากบรรทัดคำสั่งผ่านลิงก์ที่ปลอดภัยและเป็นส่วนตัว
+  tr: Güvenli ve özel bağlantılar üzerinden komut satırından dosya ve dizinleri kolayca, güvenli ve şifreli paylaşmayı sağlayan özellik bakımından zengin bir Firefox Send istemcisi
+  uk: Функціональний клієнт Firefox Send, що дозволяє легко, безпечно та з шифруванням ділитися файлами й каталогами з командного рядка за безпечними приватними посиланнями
+  vi: Ứng dụng Firefox Send nhiều tính năng giúp chia sẻ tệp và thư mục dễ dàng, an toàn và có mã hóa ngay từ dòng lệnh qua các liên kết an toàn và riêng tư
 homepage: https://github.com/timvisee/ffsend
 license: GPL-3.0
 x:

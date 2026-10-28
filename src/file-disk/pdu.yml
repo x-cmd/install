@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: pdu 是一个命令行程序，用于渲染文件和目录的磁盘使用情况图表，是 dust 和 dutree 的替代工具。
   en: pdu is a CLI program that renders a graphical chart for disk usages of files and directories, it is an alternative to dust and dutree.
+  cs: pdu je program pro příkazovou řádek, který vykresluje grafický graf využití disku souborů a adresářů, je alternativou k dust a dutree.
+  de: pdu ist ein Kommandozeilenprogramm, das ein Diagramm zur Plattennutzung von Dateien und Verzeichnissen darstellt, und ist eine Alternative zu dust und dutree.
+  es: pdu es un programa de línea de comandos que dibuja un gráfico del uso de disco de archivos y directorios, y es una alternativa a dust y dutree.
+  fr: pdu est un programme en ligne de commande qui trace un graphique de l'utilisation de l'espace disque des fichiers et des répertoires, et constitue une alternative à dust et dutree.
+  id: pdu adalah program baris perintah yang menampilkan grafik penggunaan disk untuk berkas dan direktori, sebagai alternatif dari dust dan dutree.
+  it: pdu è un programma a riga di comando che traccia un grafico dell'uso del disco di file e directory, ed è un'alternativa a dust e dutree.
+  ja: pdu はファイルとディレクトリのディスク使用量をグラフ表示するコマンドラインプログラムで、dust や dutree の代替になります。
+  ko: pdu는 파일과 디렉터리의 디스크 사용량을 그래프로 표시하는 명령줄 프로그램으로, dust와 dutree의 대안입니다.
+  pl: pdu to program wiersza poleceń, który rysuje wykres zużycia dysku dla plików i katalogów, będący alternatywą dla dust i dutree.
+  pt: pdu é um programa de linha de comando que renderiza um gráfico do uso de disco de arquivos e diretórios, sendo uma alternativa ao dust e ao dutree.
+  ro: pdu este un program de linie de comandă care redă un grafic al utilizării discului pentru fișiere și directoare, fiind o alternativă la dust și dutree.
+  ru: pdu — это программа командной строки, отображающая график использования диска для файлов и каталогов, альтернатива dust и dutree.
+  th: pdu เป็นโปรแกรมบรรทัดคำสั่งที่วาดกราฟการใช้พื้นที่ดิสก์ของไฟล์และไดเรกทอรี เป็นทางเลือกแทน dust และ dutree
+  tr: pdu, dosyaların ve dizinlerin disk kullanımını grafik olarak çizen bir komut satırı programıdır ve dust ile dutree'ye bir alternatiftir.
+  uk: pdu — це програма командного рядка, яка малює графік використання диска для файлів і каталогів, альтернатива dust і dutree.
+  vi: pdu là chương trình dòng lệnh vẽ biểu đồ mức sử dụng đĩa của các tệp và thư mục, là giải pháp thay thế cho dust và dutree.
 x:
   source: https://github.com/KSXGitHub/parallel-disk-usage
   eget: KSXGitHub/parallel-disk-usage

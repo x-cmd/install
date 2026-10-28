@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 Windows 伪控制台 (ConPTY) 的 asciinema Windows 移植版
   en: A port of asciinema for Windows, based on Windows Pseudo Console(ConPTY)
+  cs: Port asciinema pro Windows založený na Windows Pseudo Console (ConPTY)
+  de: Eine Portierung von asciinema für Windows, basierend auf der Windows Pseudo Console (ConPTY)
+  es: Un port de asciinema para Windows, basado en Windows Pseudo Console (ConPTY)
+  fr: Un portage d'asciinema pour Windows, basé sur la Windows Pseudo Console (ConPTY)
+  id: Port asciinema untuk Windows, berbasis Windows Pseudo Console (ConPTY)
+  it: Un porting di asciinema per Windows, basato su Windows Pseudo Console (ConPTY)
+  ja: Windows Pseudo Console (ConPTY) に基づく Windows 向け asciinema の移植版
+  ko: Windows Pseudo Console(ConPTY)를 기반으로 한 Windows용 asciinema 포트
+  pl: Port asciinema dla Windows, oparty na Windows Pseudo Console (ConPTY)
+  pt: Uma portação do asciinema para Windows, baseada no Windows Pseudo Console (ConPTY)
+  ro: O portare a asciinema pentru Windows, bazată pe Windows Pseudo Console (ConPTY)
+  ru: Порт asciinema для Windows на базе Windows Pseudo Console (ConPTY)
+  th: พอร์ตของ asciinema สำหรับ Windows บนพื้นฐานของ Windows Pseudo Console (ConPTY)
+  tr: Windows Pseudo Console (ConPTY) tabanlı, Windows için bir asciinema portu
+  uk: Порт asciinema для Windows на основі Windows Pseudo Console (ConPTY)
+  vi: Bản port của asciinema cho Windows, dựa trên Windows Pseudo Console (ConPTY)
 x:
   source: https://github.com/Watfaq/PowerSession-rs
   scoop: powersession-rs

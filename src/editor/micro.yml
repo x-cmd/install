@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一款直观且现代化的基于终端的文本编辑器
   en: A modern and intuitive terminal-based text editor
+  cs: Moderní a intuitivní textový editor pro terminál
+  de: Ein moderner und intuitiver terminalbasierter Texteditor
+  es: Un editor de texto moderno e intuitivo basado en terminal
+  fr: Un éditeur de texte moderne et intuitif basé sur le terminal
+  id: Editor teks modern dan intuitif berbasis terminal
+  it: Un editor di testo moderno e intuitivo basato sul terminale
+  ja: モダンで直感的なターミナルベースのエディタ
+  ko: 현대적이고 직관적인 터미널 기반 텍스트 편집기
+  pl: Nowoczesny i intuicyjny edytor tekstu oparty na terminalu
+  pt: Um editor de texto moderno e intuitivo baseado em terminal
+  ro: Un editor de text modern și intuitiv bazat pe terminal
+  ru: Современный и интуитивный текстовый редактор для терминала
+  th: โปรแกรมแก้ไขข้อความที่ทันสมัยและใช้งานง่ายบนเทอร์มินัล
+  tr: Modern ve sezgisel, terminal tabanlı bir metin düzenleyici
+  uk: Сучасний та інтуїтивний текстовий редактор для термінала
+  vi: Trình soạn thảo văn bản hiện đại và trực quan dựa trên terminal
 x:
   source: https://github.com/micro-editor/micro
   eget: zyedidia/micro

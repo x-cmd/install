@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 跨平台、多格式的归档实用程序和 Go 库
   en: a cross-platform, multi-format archive utility and Go library
+  cs: multiplatformní utilita pro archivování v různých formátech a knihovna pro Go
+  de: Ein plattformübergreifendes Archivierungswerkzeug für mehrere Formate und eine Go-Bibliothek
+  es: una utilidad de archivado multiplataforma y multiformato y una biblioteca de Go
+  fr: un utilitaire d'archivage multiplateforme et multifORMAT, ainsi qu'une bibliothèque Go
+  id: utilitas arsip lintas platform multi-format dan pustaka Go
+  it: un'utilità di archiviazione multipiattaforma e multi-formato e una libreria Go
+  ja: クロスプラットフォーム・マルチフォーマットのアーカイブユーティリティと Go ライブラリ
+  ko: 크로스 플랫폼, 멀티 포맷 아카이브 유틸리티 및 Go 라이브러리
+  pl: narzędzie do archiwizacji międzyplatformowe i wiel formatów oraz biblioteka Go
+  pt: um utilitário de arquivamento multiplataforma e multifORMATO e uma biblioteca Go
+  ro: o utilitar de arhivare multiplatformă și multi-format și o bibliotecă Go
+  ru: кроссплатформенная утилита для архивирования в разных форматах и библиотека Go
+  th: ยูทิลิตี้สำหรับสร้างไฟล์บีบอัดข้ามแพลตฟอร์มและหลายรูปแบบ พร้อมไลบรารี Go
+  tr: çapraz platformlu, çok biçimli arşivleme aracı ve Go kitaplığı
+  uk: кроссплатформна утиліта для архівування в різних форматах і бібліотека Go
+  vi: tiện ích lưu trữ đa nền tảng, đa định dạng và thư viện Go
 x:
   source: https://github.com/mholt/archiver
 rule:

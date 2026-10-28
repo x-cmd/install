@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases
   cn: Pluto 是一个实用工具，可以帮助用户在他们的代码库和舵手版本中找到不推荐的 Kubernetes apiVersions
+  cs: Pluto je nástroj, který uživatelům pomáhá najít zastaralé apiVersion Kubernetes v jejich úložištích kódu a v jejich releasích Helm
+  de: Pluto ist ein Werkzeug, das Benutzern hilft, veraltete Kubernetes-apiVersionen in ihren Code-Repositories und ihren Helm-Releases zu finden
+  es: Pluto es una utilidad que ayuda a los usuarios a encontrar apiVersions obsoletas de Kubernetes en sus repositorios de código y en sus releases de Helm
+  fr: Pluto est un utilitaire qui aide les utilisateurs à trouver les apiVersions Kubernetes obsolètes dans leurs dépôts de code et leurs versions Helm
+  id: Pluto adalah utilitas yang membantu pengguna menemukan apiVersion Kubernetes yang usang di repositori kode dan rilis Helm mereka
+  it: Pluto è un'utilità che aiuta gli utenti a trovare apiVersion deprecate di Kubernetes nei loro repository di codice e nelle loro release Helm
+  ja: Pluto は、コードリポジトリや Helm リリース内の非推奨な Kubernetes apiVersion を見つけるためのユーティリティです
+  ko: Pluto는 사용자가 코드 저장소와 Helm 릴리스에서 사용 중단된 Kubernetes apiVersion을 찾는 데 도움을 주는 유틸리티입니다
+  pl: Pluto to narzędzie pomagające użytkownikom znajdować przestarzałe apiVersion Kubernetes w ich repozytoriach kodu i wydaniach Helm
+  pt: O Pluto é um utilitário que ajuda os usuários a encontrar apiVersions obsoletas do Kubernetes em seus repositórios de código e em seus releases do Helm
+  ro: Pluto este un utilitar care ajută utilizatorii să găsească apiVersions Kubernetes învechite în depozitele lor de cod și în release-urile Helm
+  ru: Pluto — это утилита, помогающая пользователям находить устаревшие apiVersion Kubernetes в репозиториях кода и в релизах Helm
+  th: Pluto คือเครื่องมือช่วยให้ผู้ใช้ค้นหา apiVersion ของ Kubernetes ที่ล้าสมัยในที่เก็บโค้ดและรุ่นที่ปล่อยของ Helm
+  tr: Pluto, kullanıcıların kod depolarında ve Helm sürümlerinde kullanımdan kaldırılmış Kubernetes apiVersion sürümlerini bulmasına yardımcı olan bir yardımcı programdır
+  uk: Pluto — це утиліта, яка допомагає користувачам знаходити застарілі apiVersion Kubernetes у репозиторіях коду та в релізах Helm
+  vi: Pluto là tiện ích giúp người dùng tìm các apiVersion Kubernetes đã lỗi thời trong kho mã nguồn và các bản phát hành Helm của họ
 x:
   source: https://github.com/FairwindsOps/pluto
   eget: FairwindsOps/pluto

@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 用 ASCII 转译 Unicode 文本
   en: ASCII transliterations of Unicode text
+  cs: ASCII přepisy textu v Unicode
+  de: ASCII-Transliterationen von Unicode-Text
+  es: Transliteraciones ASCII de texto Unicode
+  fr: Translittérations ASCII de texte Unicode
+  id: Transliterasi ASCII dari teks Unicode
+  it: Traslitterazioni ASCII di testo Unicode
+  ja: Unicode テキストの ASCII 翻字
+  ko: 유니코드 텍스트의 ASCII 음역
+  pl: Transliteracje ASCII tekstu Unicode
+  pt: Transliterações ASCII de texto Unicode
+  ro: Translitereiri ASCII ale textului Unicode
+  ru: ASCII-транслитерации текста Unicode
+  th: การถอดอักษรละตินของข้อความ Unicode
+  tr: Unicode metnin ASCII transkripsiyonları
+  uk: ASCII-транслітерації тексту Unicode
+  vi: Chuyển văn bản Unicode sang ASCII
 x:
   source: https://github.com/avian2/unidecode#installation
   apt: python3-unidecode

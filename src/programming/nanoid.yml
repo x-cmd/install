@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个小巧、安全、URL 友好、唯一的 JavaScript 字符串 ID 生成器
   en: A tiny, secure, URL-friendly, unique string ID generator for JavaScript
+  cs: Malý, bezpečný, URL-friendly generátor jedinečných řetězcových ID pro JavaScript
+  de: Ein winziger, sicherer, URL-freundlicher Generator eindeutiger Zeichenketten-IDs für JavaScript
+  es: Un diminuto, seguro y compatible con URL generador de IDs de cadena únicos para JavaScript
+  fr: Un minuscule générateur d'identifiants de chaînes uniques, sécurisé et compatible avec les URL pour JavaScript
+  id: Pembuat ID string unik yang kecil, aman, dan ramah URL untuk JavaScript
+  it: Un piccolo generatore sicuro e compatibile con gli URL di ID di stringa univoci per JavaScript
+  ja: JavaScript向けの小さな、安全でURLフレンドリーな一意な文字列IDジェネレーター
+  ko: JavaScript를 위한 작고 안전하며 URL 친화적인 고유 문자열 ID 생성기
+  pl: Mały, bezpieczny, przyjazny URL generator unikalnych identyfikatorów tekstowych dla JavaScript
+  pt: Um pequeno, seguro e compatível com URL gerador de IDs de string únicos para JavaScript
+  ro: Un generator mic de ID-uri de șir unice, sigur și compatibil cu URL-urile, pentru JavaScript
+  ru: Маленький, безопасный, дружественный к URL генератор уникальных строковых идентификаторов для JavaScript
+  th: ตัวสร้าง ID สตริงที่ไม่ซ้ำกันขนาดเล็ก ปลอดภัย และเป็นมิตรกับ URL สำหรับ JavaScript
+  tr: JavaScript için küçük, güvenli, URL dostu benzersiz dize kimliği oluşturucu
+  uk: Маленький, безпечний, зручний для URL генератор унікальних рядкових ідентифікаторів для JavaScript
+  vi: Trình tạo ID chuỗi duy nhất nhỏ gọn, an toàn và thân thiện với URL cho JavaScript
 x:
   source: https://github.com/ai/nanoid
   npm: nanoid

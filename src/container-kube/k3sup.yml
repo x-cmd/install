@@ -3,6 +3,22 @@ homepage: https://github.com/alexellis/k3sup
 desc:
   cn: k3sup 是一个轻量级实用程序，可在任何本地或远程虚拟机上使用 k3s 从零到 KUBECONFIG
   en: k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM
+  cs: k3sup je lehký nástroj, který vám na libovolném lokálním nebo vzdáleném VM dostane k3s od nuly na KUBECONFIG
+  de: k3sup ist ein schlankes Werkzeug, das auf jedem lokalen oder entfernten VM in einem Schritt von null zu KUBECONFIG mit k3s führt
+  es: k3sup es una utilidad ligera para pasar de cero a KUBECONFIG con k3s en cualquier VM local o remota
+  fr: k3sup est un utilitaire léger permettant de passer de zéro à KUBECONFIG avec k3s sur n'importe quelle VM locale ou distante
+  id: k3sup adalah utilitas ringan untuk beralih dari nol ke KUBECONFIG dengan k3s di VM lokal atau jarak jauh mana pun
+  it: k3sup è un'utilità leggera per passare da zero a KUBECONFIG con k3s su qualsiasi VM locale o remota
+  ja: k3sup は、ローカルまたはリモートのどの VM でも k3s を使ってゼロから KUBECONFIG まで.setup する軽量なユーティリティです
+  ko: k3sup은 로컬 또는 원격 VM에서 k3s를 사용해 0에서 KUBECONFIG까지 설정하는 가벼운 유틸리티입니다
+  pl: k3sup to lekki program, który pozwala przejść od zera do KUBECONFIG za pomocą k3s na dowolnej lokalnej lub zdalnej maszynie wirtualnej
+  pt: k3sup é um utilitário leve para ir do zero ao KUBECONFIG com k3s em qualquer VM local ou remota
+  ro: k3sup este un utilitar ușor care te duce de la zero la KUBECONFIG cu k3s pe orice VM local sau la distanță
+  ru: k3sup — это лёгкая утилита, которая развернёт k3s от нуля до KUBECONFIG на любой локальной или удалённой VM
+  th: k3sup เป็นยูทิลิตีแบบเบาที่พาคุณจากศูนย์ไปสู่ KUBECONFIG ด้วย k3s บน VM ใดก็ตาม ทั้งแบบในเครื่องและแบบระยะไกล
+  tr: k3sup, herhangi bir yerel veya uzak VM'de k3s ile sıfırdan KUBECONFIG'a ulaşmayı sağlayan hafif bir yardımcı programdır
+  uk: k3sup — це легкий інструмент, який за допомогою k3s на будь-якій локальній або віддаленій VM переводить з нуля до KUBECONFIG
+  vi: k3sup là tiện ích nhẹ giúp bạn đi từ con số 0 đến KUBECONFIG với k3s trên mọi máy ảo cục bộ hoặc từ xa
 x:
   source: https://github.com/alexellis/k3sup
   yay: k3sup

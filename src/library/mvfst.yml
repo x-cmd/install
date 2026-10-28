@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: mvfst is a client and server implementation of IETF QUIC protocol in C++ by Facebook
   cn: mvfst 是 Facebook 在 C++ 中实现 IETF QUIC 协议的客户端和服务器
+  cs: mvfst je implementace klienta a serveru protokolu IETF QUIC v jazyce C++ od Facebooku
+  de: mvfst ist eine Client- und Server-Implementierung des IETF-QUIC-Protokolls in C++ von Facebook
+  es: mvfst es una implementación de cliente y servidor del protocolo IETF QUIC en C++ de Facebook
+  fr: mvfst est une implémentation client et serveur du protocole IETF QUIC en C++ par Facebook
+  id: mvfst adalah implementasi klien dan server protokol IETF QUIC dalam C++ oleh Facebook
+  it: mvfst è un'implementazione client e server del protocollo IETF QUIC in C++ di Facebook
+  ja: mvfst は Facebook による IETF QUIC プロトコルの C++ クライアント兼サーバー実装です
+  ko: mvfst는 Facebook이 C++로 구현한 IETF QUIC 프로토콜의 클라이언트 및 서버 구현입니다
+  pl: mvfst to implementacja klienta i serwera protokołu IETF QUIC w C++ autorstwa Facebooka
+  pt: mvfst é uma implementação de cliente e servidor do protocolo IETF QUIC em C++ pela Facebook
+  ro: mvfst este o implementare a clientului și a serverului pentru protocolul IETF QUIC în C++ realizată de Facebook
+  ru: mvfst — это реализация клиента и сервера протокола IETF QUIC на C++ от Facebook
+  th: mvfst คือการทำงานของไคลเอนต์และเซิร์ฟเวอร์สำหรับโปรโตคอล IETF QUIC ใน C++ โดย Facebook
+  tr: mvfst, Facebook tarafından C++ dilinde yazılan IETF QUIC protokolünün istemci ve sunucu uygulamasıdır
+  uk: mvfst — це реалізація клієнта та сервера протоколу IETF QUIC мовою C++ від Facebook
+  vi: mvfst là hiện thực client và server của giao thức IETF QUIC bằng C++ do Facebook phát triển
 x:
   source: https://github.com/facebook/mvfst
   brew: mvfst

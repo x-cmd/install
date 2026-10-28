@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 面向大众的企业级集中版本控制
   en: Enterprise-level centralized version control for the masses
+  cs: Podniková verze správy zdrojového kódu na podnikové úrovni pro širokou veřejnost
+  de: Unternehmensweites zentralisiertes Versionskontrollsystem für die Allgemeinheit
+  es: Control de versiones centralizado de nivel empresarial para las masas
+  fr: Gestion de versions centralisée de niveau entreprise pour le grand public
+  id: Kontrol versi terpusat kelas perusahaan untuk masyarakat luas
+  it: Controllo versione centralizzato di livello aziendale per il grande pubblico
+  ja: 一般公众のためのエンタープライズ向け集中バージョン管理
+  ko: 일반인을 위한 엔터프라이즈급 중앙 집중식 버전 관리
+  pl: Centralne zarządzanie wersjami na poziomie korporacyjnym dla mas
+  pt: Controle de versão centralizado de nível empresarial para o público em geral
+  ro: Control versiuni centralizat de nivel enterprise pentru mase
+  ru: Централизованный корпоративный контроль версий для широкой аудитории
+  th: การควบคุมเวอร์ชันแบบรวมศูนย์ระดับองค์กรสำหรับผู้ใช้ทั่วไป
+  tr: Geniş kullanıcı kitlesi için kurumsal düzeyde merkezi sürüm kontrolü
+  uk: Централізований корпоративний контроль версій для широкої аудиторії
+  vi: Quản lý phiên bản tập trung cấp doanh nghiệp cho mọi người
 x:
   source: https://github.com/apache/subversion
   brew: subversion

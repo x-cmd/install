@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: has 检查 PATH 上是否存在各种命令行工具，并报告其安装版本
   en: has checks presence of various command line tools on the PATH and reports their installed version
+  cs: has kontroluje přítomnost různých nástrojů příkazové řádky v PATH a hlásí jejich nainstalovanou verzi
+  de: has prüft das Vorhandensein verschiedener Kommandozeilenwerkzeuge im PATH und meldet deren installierte Version
+  es: has comprueba la presencia de varias herramientas de línea de comandos en el PATH e informa su versión instalada
+  fr: has vérifie la présence de divers outils en ligne de commande dans le PATH et indique leur version installée
+  id: has memeriksa keberadaan berbagai alat baris perintah di PATH dan melaporkan versi yang terpasang
+  it: has controlla la presenza di vari strumenti a riga di comando nel PATH e ne riporta la versione installata
+  ja: has は PATH 上にあるさまざまなコマンドラインツールを確認し、インストール済みバージョンを報告します
+  ko: has는 PATH에 있는 여러 명령줄 도구의 존재 여부를 확인하고 설치된 버전을 보고합니다
+  pl: has sprawdza obecność różnych narzędzi wiersza poleceń w PATH i raportuje ich zainstalowaną wersję
+  pt: has verifica a presença de várias ferramentas de linha de comando no PATH e informa a versão instalada
+  ro: has verifică prezența diverselor instrumente de linie de comandă în PATH și raportează versiunea instalată
+  ru: has проверяет наличие различных инструментов командной строки в PATH и сообщает их установленную версию
+  th: has ตรวจสอบการมีอยู่ของเครื่องมือบรรทัดคำสั่งต่าง ๆ ใน PATH และรายงานเวอร์ชันที่ติดตั้งไว้
+  tr: has, PATH üzerindeki çeşitli komut satırı araçlarının varlığını kontrol eder ve kurulu sürümlerini bildirir
+  uk: has перевіряє наявність різних інструментів командного рядка в PATH і повідомляє їх встановлену версію
+  vi: has kiểm tra sự hiện diện của các công cụ dòng lệnh khác nhau trong PATH và báo cáo phiên bản đã cài đặt
 x:
   source: https://github.com/kdabir/has
   brew: kdabir/tap/has

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 纯文本记账工具，提供 CLI、TUI 和 Web 界面
   en: A plain text accounting tool that provides CLI, TUI, and web interfaces.
+  cs: Textový účetní nástroj, který poskytuje rozhraní CLI, TUI a web.
+  de: Ein Text-Accounting-Werkzeug mit CLI-, TUI- und Web-Oberflächen.
+  es: Herramienta de contabilidad en texto plano que ofrece interfaces CLI, TUI y web.
+  fr: Un outil de comptabilité en texte brut qui fournit des interfaces CLI, TUI et web.
+  id: Alat akuntansi teks biasa yang menyediakan antarmuka CLI, TUI, dan web.
+  it: Uno strumento di contabilità in testo semplice che offre interfacce CLI, TUI e web.
+  ja: CLI、TUI、Webインターフェースを備えたプレーンテキスト記帳ツールです。
+  ko: CLI, TUI, 웹 인터페이스를 제공하는 플레인 텍스트 회계 도구입니다.
+  pl: Narzędzie do księgowości w zwykłym tekście oferujące interfejsy CLI, TUI i webowe.
+  pt: Uma ferramenta de contabilidade em texto simples que oferece interfaces CLI, TUI e web.
+  ro: Un instrument de contabilitate în text simplu care oferă interfețe CLI, TUI și web.
+  ru: Инструмент для бухгалтерии в текстовом формате с интерфейсами CLI, TUI и веб.
+  th: เครื่องมือบัญชีแบบข้อความธรรมดาที่มีอินเทอร์เฟซ CLI, TUI และเว็บ
+  tr: CLI, TUI ve web arayüzleri sunan düz metin muhasebe aracı.
+  uk: Інструмент для бухгалтерії у текстовому форматі з інтерфейсами CLI, TUI та веб.
+  vi: Công cụ kế toán văn bản thuần cung cấp giao diện CLI, TUI và web.
 x:
   source: https://github.com/simonmichael/hledger
   eget: simonmichael/hledger

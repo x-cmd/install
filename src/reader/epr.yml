@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: CLI Epub 阅读器
   en: CLI Epub Reader
+  cs: Čtečka Epub v příkazové řádce
+  de: Epub-Reader für die Kommandozeile
+  es: Lector de Epub para la línea de comandos
+  fr: Lecteur Epub en ligne de commande
+  id: Pembaca Epub untuk baris perintah
+  it: Lettore Epub da riga di comando
+  ja: コマンドライン用の Epub リーダー
+  ko: 명령줄용 Epub 리더
+  pl: Czytnik Epub dla wiersza poleceń
+  pt: Leitor de Epub para linha de comando
+  ro: Cititor Epub pentru linia de comandă
+  ru: Читалка Epub для командной строки
+  th: โปรแกรมอ่าน Epub สำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için Epub okuyucu
+  uk: Читалка Epub для командного рядка
+  vi: Trình đọc Epub cho dòng lệnh
 x:
   source: https://github.com/wustho/epr
   brew: epr

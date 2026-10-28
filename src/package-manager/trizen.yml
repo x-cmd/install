@@ -4,6 +4,22 @@ lang: Perl
 desc:
   en: Lightweight AUR Package Manager
   cn: 轻量级 AUR 包管理器
+  cs: Lehký správce balíčků AUR
+  de: Leichtgewichtiger AUR-Paketmanager
+  es: Gestor de paquetes AUR ligero
+  fr: Gestionnaire de paquets AUR léger
+  id: Manajer paket AUR yang ringan
+  it: Gestore di pacchetti AUR leggero
+  ja: 軽量な AUR パッケージマネージャー
+  ko: 가벼운 AUR 패키지 관리자
+  pl: Lekki menedżer pakietów AUR
+  pt: Gerenciador de pacotes AUR leve
+  ro: Manager de pachete AUR ușor
+  ru: Лёгкий менеджер пакетов AUR
+  th: ตัวจัดการแพ็กเกจ AUR ขนาดเบา
+  tr: Hafif AUR paket yöneticisi
+  uk: Легкий менеджер пакетів AUR
+  vi: Trình quản lý gói AUR nhẹ
 x:
   source: https://github.com/trizen/trizen
   makepkg: makepkg

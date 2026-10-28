@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: xplr 是一个基于终端 UI 的文件浏览器，旨在通过成为与文件系统一起使用的不断增长的出色命令行实用程序的灵活、交互式编排器来提高我们的终端生产力
   en: xplr is a terminal UI based file explorer that aims to increase our terminal productivity by being a flexible, interactive orchestrator for the ever growing awesome command-line utilities that work with the file-system
+  cs: xplr je průzkumník souborů založený na terminálovém UI, který se snaží zvýšit naši produktivitu v terminálu tím, že je flexibilním a interaktivním organizátorem pro stále rostoucí skvělé nástroje příkazové řádky pracující se souborovým systémem
+  de: xplr ist ein Datei-Explorer mit Terminal-UI, der unsere Terminal-Produktivität steigern soll, indem er ein flexibler, interaktiver Orchestrator für die stetig wachsende Zahl großartiger Kommandozeilen-Werkzeuge ist, die mit dem Dateisystem arbeiten
+  es: xplr es un explorador de archivos basado en una UI de terminal que busca aumentar nuestra productividad en la terminal al ser un orquestador flexible e interactivo para las útiles utilidades de línea de comandos, cada vez más numerosas, que trabajan con el sistema de archivos
+  fr: xplr est un explorateur de fichiers à interface terminal qui vise à améliorer notre productivité terminal en étant un orchestrateur flexible et interactif pour l'ensemble croissant des excellents utilitaires en ligne de commande travaillant avec le système de fichiers
+  id: xplr adalah penjelajah berkas berbasis UI terminal yang bertujuan meningkatkan produktivitas terminal kita dengan menjadi orkestrator fleksibel dan interaktif untuk utilitas command-line hebat yang terus berkembang dan bekerja dengan sistem berkas
+  it: xplr è un file explorer basato su UI da terminale che mira ad aumentare la nostra produttività nel terminale essendo un orchestratore flessibile e interattivo per la sempre più numerosa gamma di eccellenti utilità della riga di comando che lavorano con il file system
+  ja: xplr はターミナル UI ベースのファイルブラウザで、ファイルシステムと連携する増え続ける素晴らしいコマンドラインユーティリティのための柔軟で対話的なオーケストレーターとなることで、ターミナル生産性の向上を目指す
+  ko: xplr은 터미널 UI 기반 파일 탐색기로, 파일 시스템과 함께 작동하는 점점 더 늘어가는 뛰어난 명령줄 유틸리티를 유연하고 대화형으로 조율하여 터미널 생산성을 높이려 합니다
+  pl: xplr to eksplorator plików oparty na interfejsie terminala, który ma zwiększać naszą produktywność w terminalu, będąc elastycznym i interaktywnym orkiestratorem dla stale rosnącej liczby świetnych narzędzi wiersza poleceń współpracujących z systemem plików
+  pt: O xplr é um explorador de arquivos com interface de terminal que visa aumentar nossa produtividade no terminal agindo como um orquestrador flexível e interativo para o sempre crescente conjunto de ótimos utilitários de linha de comando que trabalham com o sistema de arquivos
+  ro: xplr este un explorator de fișiere cu interfață de terminal care urmărește să ne crească productivitatea în terminal, fiind un orchestrator flexibil și interactiv pentru utilitarele de linie de comandă, tot mai numeroase și excelente, care lucrează cu sistemul de fișiere
+  ru: xplr — это файловый обозреватель с терминальным интерфейсом, который стремится повысить нашу продуктивность в терминале, выступая гибким и интерактивным оркестратором для постоянно растущего числа отличных утилит командной строки, работающих с файловой системой
+  th: xplr คือตัวสำรวจไฟล์ที่ใช้ UI เทอร์มินัล ซึ่งมีเป้าหมายเพิ่มประสิทธิภาพการทำงานในเทอร์มินัลของเรา โดยทำหน้าที่เป็นตัวประสานการที่ยืดหยุ่นและโต้ตอบได้สำหรับชุดเครื่องมือบรรทัดคำสั่งอันยอดเยี่ยมที่เติบโตขึ้นเรื่อย ๆ และทำงานร่วมกับระบบไฟล์
+  tr: xplr, dosya sistemiyle çalışan ve giderek çoğalan harika komut satırı araçları için esnek ve etkileşimli bir orkestratör olarak terminal verimliliğimizi artırmayı amaçlayan terminal UI tabanlı bir dosya gezginidir
+  uk: xplr — це файловий провідник із термінальним інтерфейсом, який має на меті підвищити нашу продуктивність у терміналі, виступаючи гнучким та інтерактивним оркестратором для дедалі більшої кількості чудових утиліт командного рядка, що працюють із файловою системою
+  vi: xplr là trình duyệt tệp dựa trên giao diện terminal nhằm nâng cao năng suất làm việc trong terminal của chúng ta, đóng vai trò một bộ điều phối linh hoạt và tương tác cho những tiện ích dòng lệnh tuyệt vời ngày càng nhiều, hoạt động cùng hệ thống tệp
 x:
   source: https://github.com/sayanarijit/xplr
   eget: sayanarijit/xplr

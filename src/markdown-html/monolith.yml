@@ -2,6 +2,22 @@ lang: Rust
 desc:
   en: CLI tool for saving complete web pages as a single HTML file
   cn: 用于将完整的网页保存为单个 HTML 文件的 CLI 工具
+  cs: Nástroj CLI pro uložení celé webové stránky do jednoho souboru HTML
+  de: CLI-Tool zum Speichern vollständiger Webseiten als einzelne HTML-Datei
+  es: Herramienta de línea de comandos para guardar páginas web completas como un único archivo HTML
+  fr: Outil en ligne de commande pour enregistrer des pages web complètes dans un seul fichier HTML
+  id: Alat CLI untuk menyimpan halaman web lengkap sebagai satu file HTML
+  it: Strumento da riga di comando per salvare pagine web complete in un unico file HTML
+  ja: 完全な Web ページを 1 つの HTML ファイルとして保存する CLI ツール
+  ko: 전체 웹 페이지를 하나의 HTML 파일로 저장하는 CLI 도구
+  pl: Narzędzie CLI do zapisywania kompletnych stron internetowych w jednym pliku HTML
+  pt: Ferramenta de linha de comando para salvar páginas da web inteiras em um único arquivo HTML
+  ro: Instrument CLI pentru salvarea paginilor web complete într-un singur fișier HTML
+  ru: CLI-инструмент для сохранения целых веб-страниц в один HTML-файл
+  th: เครื่องมือ CLI สำหรับบันทึกหน้าเว็บทั้งหมดเป็นไฟล์ HTML เดียว
+  tr: Tam web sayfalarını tek bir HTML dosyası olarak kaydetmek için CLI aracı
+  uk: CLI-інструмент для збереження повних веб-сторінок в один HTML-файл
+  vi: Công cụ CLI để lưu toàn bộ trang web thành một tệp HTML duy nhất
 homepage: https://github.com/y2z/monolith
 license: CC0-1.0
 x:

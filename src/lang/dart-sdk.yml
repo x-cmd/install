@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Dart 是一种客户端优化的语言，用于在任何平台上开发快速应用程序
   en: Dart is a client-optimized language for developing fast apps on any platform
+  cs: Dart je jazyk optimalizovaný pro klienty, určený pro vývoj rychlých aplikací na jakékoli platformě
+  de: Dart ist eine clientoptimierte Sprache zur Entwicklung schneller Apps auf jeder Plattform
+  es: Dart es un lenguaje optimizado para clientes para desarrollar aplicaciones rápidas en cualquier plataforma
+  fr: Dart est un langage optimisé pour les clients, pour développer des applications rapides sur n'importe quelle plateforme
+  id: Dart adalah bahasa yang dioptimalkan untuk klien untuk mengembangkan aplikasi cepat di platform apa pun
+  it: Dart è un linguaggio ottimizzato per i client per sviluppare app veloci su qualsiasi piattaforma
+  ja: Dart はあらゆるプラットフォームで高速なアプリを開発するためのクライアント最適化言語です
+  ko: Dart는 어떤 플랫폼에서든 빠른 앱을 개발하도록 설계된 클라이언트 최적화 언어입니다
+  pl: Dart to język zoptymalizowany pod kątem klienta do tworzenia szybkich aplikacji na dowolnej platformie
+  pt: Dart é uma linguagem otimizada para clientes para desenvolver aplicativos rápidos em qualquer plataforma
+  ro: Dart este un limbaj optimizat pentru clienți, pentru dezvoltarea aplicațiilor rapide pe orice platformă
+  ru: Dart — это клиент-оптимизированный язык для разработки быстрых приложений на любой платформе
+  th: Dart คือภาษาที่ปรับจูนสำหรับไคลเอนต์ เพื่อพัฒนาแอปที่รวดเร็วบนทุกแพลตฟอร์ม
+  tr: Dart, herhangi bir platformda hızlı uygulamalar geliştirmek için istemciye optimize edilmiş bir dildir
+  uk: Dart — це клієнт-оптимізована мова для розробки швидких застосунків на будь-якій платформі
+  vi: Dart là ngôn ngữ được tối ưu cho phía khách hàng để phát triển ứng dụng nhanh trên mọi nền tảng
 x:
   source: https://github.com/dart-lang/sdk
   brew: dart-sdk

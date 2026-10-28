@@ -3,6 +3,22 @@ homepage: https://cscope.sourceforge.net/
 desc:
   cn: Cscope 是一个用于浏览源代码的开发人员工具
   en: Cscope is a developer's tool for browsing source code
+  cs: Cscope je nástroj pro vývojáře k procházení zdrojového kódu
+  de: Cscope ist ein Entwicklerwerkzeug zum Browsen im Quellcode
+  es: Cscope es una herramienta para desarrolladores para explorar código fuente
+  fr: Cscope est un outil de développement permettant de parcourir le code source
+  id: Cscope adalah alat pengembang untuk menelusuri kode sumber
+  it: Cscope è uno strumento per sviluppatori per sfogliare il codice sorgente
+  ja: Cscope はソースコードを閲覧するための開発者向けツールです
+  ko: Cscope은 소스 코드를 탐색하기 위한 개발자 도구입니다
+  pl: Cscope to narzędzie dla programistów do przeglądania kodu źródłowego
+  pt: O Cscope é uma ferramenta para desenvolvedores navegarem pelo código-fonte
+  ro: Cscope este un instrument pentru dezvoltatori pentru parcurgerea codului sursă
+  ru: Cscope — инструмент разработчика для просмотра исходного кода
+  th: Cscope คือเครื่องมือสำหรับนักพัฒนาเพื่อสำรวจโค้ดต้นฉบับ
+  tr: Cscope, kaynak kodda gezinmek için geliştiricilere yönelik bir araçtır
+  uk: Cscope — інструмент для розробників для перегляду вихідного коду
+  vi: Cscope là công cụ dành cho nhà phát triển để duyệt mã nguồn
 rule:
   darwin/brew:
     cmd: brew install cscope

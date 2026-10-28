@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 适用于非机器人的被动主机名、域名和 IP 查找工具
   en: Passive hostname, domain and IP lookup tool for non-robots
+  cs: Pasivní nástroj pro vyhledávání hostname, domény a IP adres, určený pro nelidi
+  de: Passives Werkzeug zur Suche nach Hostname, Domain und IP-Adresse, für Menschen statt für Bots
+  es: Herramienta pasiva de búsqueda de nombre de host, dominio e IP para personas, no para robots
+  fr: Outil passif de recherche de nom d'hôte, de domaine et d'adresse IP pour les humains, pas pour les robots
+  id: Alat pencarian pasif untuk nama host, domain, dan IP untuk manusia, bukan robot
+  it: Strumento passivo per cercare hostname, dominio e IP, per esseri umani e non robot
+  ja: ロボットではなく人間のための、ホスト名・ドメイン・IP のパッシブ検索ツール
+  ko: 로봇이 아니라 사람을 위한 수동적 호스트명, 도메인 및 IP 조회 도구
+  pl: Pasywne narzędzie do wyszukiwania nazw hostów, domen i adresów IP dla ludzi, a nie robotów
+  pt: Ferramenta passiva de pesquisa de hostname, domínio e IP para humanos, não para robôs
+  ro: Instrument pasiv de căutare a numelui de gazdă, domeniului și adresei IP pentru oameni, nu pentru roboți
+  ru: Пассивный инструмент поиска имени хоста, домена и IP-адреса для людей, а не для роботов
+  th: เครื่องมือค้นหาแบบ Passive สำหรับชื่อโฮสต์ โดเมน และ IP สำหรับมนุษย์ ไม่ใช่หุ่นยนต์
+  tr: Robotlar için değil, insanlar için pasif ana makine, alan adı ve IP arama aracı
+  uk: Пасивний інструмент пошуку імені хоста, домену та IP-адреси для людей, а не для роботів
+  vi: Công cụ tra cứu thụ động tên máy chủ, tên miền và địa chỉ IP dành cho con người, không phải robot
 x:
   source: https://github.com/pirxthepilot/wtfis
   brew: wtfis

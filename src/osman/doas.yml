@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: OpenBSD doas 的一个端口，运行在 FreeBSD、Linux、NetBSD、illumos、macOS 和 MidnightBSD 上
   en: A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
+  cs: Port OpenBSD doas, který běží na FreeBSD, Linux, NetBSD a illumos
+  de: Ein Port von OpenBSD doas, der auf FreeBSD, Linux, NetBSD und illumos läuft
+  es: Un port de OpenBSD doas que se ejecuta en FreeBSD, Linux, NetBSD e illumos
+  fr: Un port d'OpenBSD doas qui fonctionne sur FreeBSD, Linux, NetBSD et illumos
+  id: Port dari OpenBSD doas yang berjalan di FreeBSD, Linux, NetBSD, dan illumos
+  it: Un port di OpenBSD doas che gira su FreeBSD, Linux, NetBSD e illumos
+  ja: OpenBSD doasの移植版で、FreeBSD、Linux、NetBSD、illumosで動作します
+  ko: FreeBSD, Linux, NetBSD, illumos에서 실행되는 OpenBSD doas의 포트
+  pl: Port OpenBSD doas działający na FreeBSD, Linux, NetBSD i illumos
+  pt: Um port do OpenBSD doas que roda em FreeBSD, Linux, NetBSD e illumos
+  ro: Un port al OpenBSD doas care rulează pe FreeBSD, Linux, NetBSD și illumos
+  ru: Порт OpenBSD doas, работающий на FreeBSD, Linux, NetBSD и illumos
+  th: พอร์ตของ OpenBSD doas ที่ทำงานบน FreeBSD, Linux, NetBSD และ illumos
+  tr: FreeBSD, Linux, NetBSD ve illumos üzerinde çalışan OpenBSD doas portu
+  uk: Порт OpenBSD doas, що працює на FreeBSD, Linux, NetBSD та illumos
+  vi: Bản port của OpenBSD doas chạy trên FreeBSD, Linux, NetBSD và illumos
 x:
   source: https://github.com/slicer69/doas
   apt: doas

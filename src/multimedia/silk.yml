@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 微信 SILK 语音转换器——单个 Rust 二进制，无 Python 依赖；SILK 与 WAV/MP3/Opus/AAC 互转、格式探测、批量处理
   en: WeChat SILK audio converter — single Rust binary, no Python deps; decode/encode SILK to and from WAV/MP3/Opus/AAC, detect format, batch process
+  cs: Konvertor zvuku WeChat SILK — jediný binární soubor Rustu bez závislostí na Pythonu; dekódování a kódování SILK do a z WAV/MP3/Opus/AAC, detekce formátu, dávkové zpracování
+  de: WeChat-SILK-Audiokonverter — einzelne Rust-Binärdatei ohne Python-Abhängigkeiten; SILK dekodieren und in WAV/MP3/Opus/AAC kodieren und umgekehrt, Format erkennen, Stapelverarbeitung
+  es: Conversor de audio WeChat SILK — binario único de Rust, sin dependencias de Python; decodifica y codifica SILK hacia y desde WAV/MP3/Opus/AAC, detecta el formato y procesa por lotes
+  fr: Convertisseur audio WeChat SILK — binaire Rust unique, sans dépendance Python ; décodage et encodage SILK vers et depuis WAV/MP3/Opus/AAC, détection du format, traitement par lots
+  id: Konverter audio WeChat SILK — biner Rust tunggal, tanpa dependensi Python; decode/encode SILK ke dan dari WAV/MP3/Opus/AAC, deteksi format, pemrosesan batch
+  it: Convertitore audio WeChat SILK — singolo binario Rust, senza dipendenze Python; decodifica e codifica SILK verso e da WAV/MP3/Opus/AAC, rilevamento del formato, elaborazione in batch
+  ja: WeChat SILK 音声コンバーター — Python 依存なしの単一 Rust バイナリ、SILK と WAV/MP3/Opus/AAC の相互変換、形式検出、バッチ処理
+  ko: WeChat SILK 오디오 변환기 — Python 의존성 없는 단일 Rust 바이너리, SILK와 WAV/MP3/Opus/AAC 상호 변환, 형식 감지, 배치 처리
+  pl: Konwerter dźwięku WeChat SILK — pojedynczy plik binarny Rust bez zależności od Pythona; dekodowanie i kodowanie SILK do i z WAV/MP3/Opus/AAC, wykrywanie formatu, przetwarzanie wsadowe
+  pt: Conversor de áudio WeChat SILK — único binário Rust, sem dependências de Python; decodifica e codifica SILK para e de WAV/MP3/Opus/AAC, detecta o formato, processa em lotes
+  ro: Convertor audio WeChat SILK — binar Rust unic, fără dependențe Python; decodare și codare SILK către și din WAV/MP3/Opus/AAC, detectarea formatului, procesare în lot
+  ru: Конвертер аудио WeChat SILK — один бинарник на Rust без зависимостей от Python; декодирование и кодирование SILK в WAV/MP3/Opus/AAC и обратно, определение формата, пакетная обработка
+  th: ตัวแปลงเสียง WeChat SILK — ไบนารี Rust ไฟล์เดียว ไม่ต้องพึ่ง Python; ถอดรหัสและเข้ารหัส SILK ไปยังและกลับจาก WAV/MP3/Opus/AAC ตรวจจับรูปแบบ ประมวลผลแบบชุด
+  tr: WeChat SILK ses dönüştürücü — tek Rust ikili dosyası, Python bağımlılığı yok; SILK'i WAV/MP3/Opus/AAC formatlarına ve geri dönüştürme, biçim algılama, toplu işleme
+  uk: Конвертер аудіо WeChat SILK — один двійковий файл Rust без залежностей від Python; декодування та кодування SILK у WAV/MP3/Opus/AAC і навпаки, визначення формату, пакетна обробка
+  vi: Bộ chuyển đổi âm thanh WeChat SILK — tệp nhị phân Rust đơn lẻ, không phụ thuộc Python; giải mã và mã hóa SILK sang và từ WAV/MP3/Opus/AAC, phát hiện định dạng, xử lý hàng loạt
 x:
   source: https://github.com/ljh-sh/silk
 rule:

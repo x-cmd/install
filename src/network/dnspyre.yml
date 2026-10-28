@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 高 QPS 的 DNS 基准测试 CLI 工具
   en: 'CLI tool for a high QPS DNS benchmark'
+  cs: Nástroj CLI pro benchmark DNS s vysokým QPS
+  de: CLI-Tool für einen DNS-Benchmark mit hoher QPS
+  es: Herramienta de CLI para una prueba de rendimiento DNS con QPS alto
+  fr: Outil CLI pour un banc d'essai DNS à haut QPS
+  id: Alat CLI untuk benchmark DNS dengan QPS tinggi
+  it: Strumento CLI per un benchmark DNS ad alto QPS
+  ja: 高 QPS の DNS ベンチマーク用 CLI ツール
+  ko: 높은 QPS를 위한 DNS 벤치마크 CLI 도구
+  pl: Narzędzie CLI do benchmarku DNS z wysokim QPS
+  pt: Ferramenta de CLI para benchmark de DNS com alto QPS
+  ro: Instrument CLI pentru un benchmark DNS cu QPS ridicat
+  ru: CLI-инструмент для DNS-бенчмарка с высоким QPS
+  th: เครื่องมือ CLI สำหรับการทดสอบประสิทธิภาพ DNS ด้วย QPS สูง
+  tr: Yüksek QPS'li DNS kıyaslaması için bir CLI aracı
+  uk: CLI-інструмент для DNS-бенчмарку з високим QPS
+  vi: Công cụ CLI để đánh giá hiệu năng DNS với QPS cao
 x:
   source: https://github.com/Tantalor93/dnspyre
   eget: Tantalor93/dnspyre

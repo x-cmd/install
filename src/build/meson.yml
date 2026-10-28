@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Meson 是一种开源构建系统，既要快，又更重要的是，尽可能用户友好
   en: Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible
+  cs: Meson je open source build systém, který má být extrémně rychlý a, co je ještě důležitější, co nejpřívětivější pro uživatele
+  de: Meson ist ein Open-Source-Buildsystem, das sowohl äußerst schnell als auch, noch wichtiger, so benutzerfreundlich wie möglich sein soll
+  es: Meson es un sistema de compilación de código abierto pensado para ser extremadamente rápido y, más aún, lo más fácil de usar posible
+  fr: Meson est un système de build open source conçu pour être à la fois extrêmement rapide et, plus encore, aussi simple d'utilisation que possible
+  id: Meson adalah sistem build sumber terbuka yang dirancang agar sangat cepat dan, yang lebih penting, ramah pengguna quanto mungkin
+  it: Meson è un sistema di build open source pensato per essere sia estremamente veloce sia, ancora più importante, il più possibile intuitivo
+  ja: Meson はオープンソースのビルドシステムで、極めて高速であること、そしてさらに重要な点として、可能な限りユーザーフriendlyであることを目指しています
+  ko: Meson은 극도로 빠르고, 그보다 더 중요한 점으로 가능한 한 사용자 친화적인 것을 목표로 하는 오픈 소스 빌드 시스템입니다
+  pl: Meson to otwartoźródłowy system budowania, który ma być zarówno bardzo szybki, jak i — co jeszcze ważniejsze — możliwie przyjazny użytkownikowi
+  pt: Meson é um sistema de build de código aberto pensado para ser extremamente rápido e, ainda mais importante, o mais amigável possível para o usuário
+  ro: Meson este un sistem de build open source conceput pentru a fi extrem de rapid și, mai important, cât mai ușor de utilizat
+  ru: Meson — это система сборки с открытым исходным кодом, которая должна быть предельно быстрой и, что ещё важнее, максимально удобной для пользователя
+  th: Meson เป็นระบบบิลด์โอเพนซอร์สที่มุ่งจะเร็วที่สุด และที่สำคัญกว่านั้นคือเป็นมิตรกับผู้ใช้มากที่สุดเท่าที่จะเป็นไปได้
+  tr: Meson, hem son derece hızlı hem de daha önemlisi mümkün olduğunca kullanıcı dostu olmayı amaçlayan açık kaynak bir derleme sistemidir
+  uk: Meson — це система складання з відкритим кодом, яка має бути надзвичайно швидкою і, що ще важливіше, максимально зручною для користувача
+  vi: Meson là hệ thống build mã nguồn mở nhằm đạt tốc độ cực nhanh và, điều quan trọng hơn, thân thiện với người dùng nhất có thể
 x:
   source: https://github.com/mesonbuild/meson
   eget: mesonbuild/meson

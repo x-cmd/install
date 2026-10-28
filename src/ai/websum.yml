@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用可插拔的 LLM 后端（Ollama、OpenAI）总结网页和 YouTube 视频，提供 CLI、库与 Gradio 界面
   en: Summarize web pages and YouTube videos with pluggable LLM backends (Ollama, OpenAI). CLI, library, and Gradio UI.
+  cs: Shrnujte webové stránky a videa na YouTube pomocí vyměnitelných LLM backendů (Ollama, OpenAI). CLI, knihovna a Gradio UI.
+  de: Fassen Sie Webseiten und YouTube-Videos mit austauschbaren LLM-Backends (Ollama, OpenAI) zusammen. CLI, Bibliothek und Gradio-UI.
+  es: Resume páginas web y vídeos de YouTube con backends LLM intercambiables (Ollama, OpenAI). CLI, biblioteca e interfaz Gradio.
+  fr: Résumez des pages web et des vidéos YouTube avec des backends LLM interchangeables (Ollama, OpenAI). CLI, bibliothèque et interface Gradio.
+  id: Ringkas halaman web dan video YouTube dengan backend LLM yang dapat diganti (Ollama, OpenAI). CLI, pustaka, dan UI Gradio.
+  it: Riassumi pagine web e video di YouTube con backend LLM intercambiabili (Ollama, OpenAI). CLI, libreria e interfaccia Gradio.
+  ja: 差し替え可能な LLM バックエンド (Ollama、OpenAI) でウェブページや YouTube 動画を要約します。CLI、ライブラリ、Gradio UI を備えています。
+  ko: 교체 가능한 LLM 백엔드(Ollama, OpenAI)로 웹페이지와 YouTube 동영상을 요약합니다. CLI, 라이브러리, Gradio UI를 제공합니다.
+  pl: Podsumowuj strony internetowe i filmy z YouTube za pomocą wymiennych backendów LLM (Ollama, OpenAI). CLI, biblioteka i interfejs Gradio.
+  pt: Resuma páginas da web e vídeos do YouTube com backends de LLM substituíveis (Ollama, OpenAI). CLI, biblioteca e interface Gradio.
+  ro: Rezumați pagini web și video-uri de pe YouTube cu backend-uri LLM interschimbabile (Ollama, OpenAI). CLI, bibliotecă și interfață Gradio.
+  ru: Суммируйте веб-страницы и видео на YouTube с помощью сменяемых LLM-бэкендов (Ollama, OpenAI). CLI, библиотека и интерфейс Gradio.
+  th: สรุปหน้าเว็บและวิดีโอ YouTube ด้วย LLM backend ที่เปลี่ยนได้ (Ollama, OpenAI) พร้อม CLI, ไลบรารี และ Gradio UI
+  tr: Değiştirilebilir LLM arka uçlarıyla (Ollama, OpenAI) web sayfalarını ve YouTube videolarını özetleyin. CLI, kütüphane ve Gradio arayüzü.
+  uk: Підсумовуйте веб-сторінки та відео на YouTube за допомогою замінних LLM-бекендів (Ollama, OpenAI). CLI, бібліотека та інтерфейс Gradio.
+  vi: Tóm tắt trang web và video YouTube với các backend LLM có thể thay thế (Ollama, OpenAI). CLI, thư viện và giao diện Gradio.
 x:
   source: https://github.com/cobanov/websum
   pip: websum

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个在终端中同时运行所有 lint、测试和命令的 多路复用器
   en: A TUI and multiplexer designed for running lints, tests, and other commands concurrently in the terminal.
+  cs: TUI a multiplexor navržený pro souběžné spouštění lintů, testů a dalších příkazů v terminálu.
+  de: Eine TUI und ein Multiplexer zum gleichzeitigen Ausführen von Lints, Tests und anderen Befehlen im Terminal.
+  es: Una TUI y multiplexor diseñada para ejecutar linters, pruebas y otros comandos de forma concurrente en el terminal.
+  fr: Une TUI et un multiplexeur conçus pour exécuter simultanément des linters, des tests et d'autres commandes dans le terminal.
+  id: TUI dan multiplexer yang dirancang untuk menjalankan lint, tes, dan perintah lain secara bersamaan di terminal.
+  it: Una TUI e un multiplexer progettati per eseguire contemporaneamente linter, test e altri comandi nel terminale.
+  ja: ターミナルでlint、テスト、その他のコマンドを並行実行するために設計されたTUI兼マルチプレクサ
+  ko: 터미널에서 린트, 테스트 및 기타 명령을 동시에 실행하도록 설계된 TUI 및 멀티플렉서
+  pl: TUI i multiplekser zaprojektowany do równoległego uruchamiania linterów, testów i innych poleceń w terminalu.
+  pt: Uma TUI e multiplexador projetados para executar linters, testes e outros comandos simultaneamente no terminal.
+  ro: O TUI și un multiplexor concepute pentru a rula verificatoare de stil, teste și alte comenzi concurent în terminal.
+  ru: TUI и мультиплексор, разработанные для параллельного запуска линтеров, тестов и других команд в терминале.
+  th: TUI และมัลติเพล็กเซอร์ที่ออกแบบมาเพื่อรัน linter, เทสต์ และคำสั่งอื่น ๆ พร้อมกันในเทอร์มินัล
+  tr: Terminalde lint, test ve diğer komutları eş zamanlı çalıştırmak için tasarlanmış bir TUI ve çoklayıcı
+  uk: TUI та мультиплексор, призначені для паралельного запуску лінтерів, тестів та інших команд у терміналі.
+  vi: TUI và bộ ghép kênh được thiết kế để chạy đồng thời các trình lint, kiểm thử và lệnh khác trong terminal
 x:
   source: https://github.com/nickolaj-jepsen/fnug
   eget: nickolaj-jepsen/fnug

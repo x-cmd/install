@@ -3,6 +3,22 @@ license: MIT
 desc:
   cn: 使用 fast.com 测试下载和上传速度
   en: Test your download and upload speed using fast.com
+  cs: Otestujte rychlost stahování a nahrávání pomocí fast.com
+  de: Download- und Upload-Geschwindigkeit mit fast.com testen
+  es: Prueba tu velocidad de descarga y subida con fast.com
+  fr: Testez votre vitesse de téléchargement et d'envoi avec fast.com
+  id: Uji kecepatan unduh dan unggah Anda menggunakan fast.com
+  it: Testa la tua velocità di download e upload con fast.com
+  ja: fast.com を使ってダウンロード速度とアップロード速度をテストする
+  ko: fast.com을 사용하여 다운로드 및 업로드 속도를 테스트하세요
+  pl: Sprawdź prędkość pobierania i wysyłania za pomocą fast.com
+  pt: Teste sua velocidade de download e upload usando o fast.com
+  ro: Testează-ți viteza de descărcare și încărcare folosind fast.com
+  ru: Проверьте скорость загрузки и выгрузки с помощью fast.com
+  th: ทดสอบความเร็วในการดาวน์โหลดและอัปโหลดด้วย fast.com
+  tr: fast.com kullanarak indirme ve yükleme hızınızı test edin
+  uk: Перевірте швидкість завантаження та вивантаження за допомогою fast.com
+  vi: Kiểm tra tốc độ tải xuống và tải lên bằng fast.com
 lang: JavaScript
 x:
   source: https://github.com/sindresorhus/fast-cli#readme

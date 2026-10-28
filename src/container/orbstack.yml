@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: OrbStack 是一种快速、轻量且易于使用的 Docker 容器和 Linux 运行工具。它是 Docker Desktop 的替代方案，旨在帮助开发人员以光速进行开发。
   en: OrbStack is the fast, light, and easy way to run Docker containers and Linux. Develop at lightspeed with our Docker Desktop alternative.
+  cs: OrbStack je rychlý, lehký a snadno použitelný způsob, jak spouštět Docker kontejnery a Linux. Vyvíjejte bleskově díky alternativě k Docker Desktop.
+  de: OrbStack ist die schnelle, leichte und einfache Möglichkeit, Docker-Container und Linux auszuführen. Entwickeln Sie blitzschnell mit unserer Alternative zu Docker Desktop.
+  es: OrbStack es la forma rápida, ligera y fácil de ejecutar contenedores Docker y Linux. Desarrolle a toda velocidad con nuestra alternativa a Docker Desktop.
+  fr: OrbStack est la solution rapide, légère et simple pour exécuter des conteneurs Docker et Linux. Développez à toute vitesse avec notre alternative à Docker Desktop.
+  id: OrbStack adalah cara tercepat, teringan, dan termudah untuk menjalankan kontainer Docker dan Linux. Kembangkan dengan sangat cepat menggunakan alternatif Docker Desktop.
+  it: OrbStack è il modo rapido, leggero e semplice per eseguire container Docker e Linux. Sviluppa a gran velocità con la nostra alternativa a Docker Desktop.
+  ja: OrbStack は Docker コンテナと Linux を高速・軽量・簡単に実行する方法です。Docker Desktop の代替として、走上了速さで開発できます。
+  ko: OrbStack은 Docker 컨테이너와 Linux를 빠르고 가볍게 실행하는 방법입니다. Docker Desktop 대안으로 빛의 속도로 개발하세요.
+  pl: OrbStack to szybki, lekki i wygodny sposób uruchamiania kontenerów Docker i Linuksa. Rozwijaj z prędkością światła dzięki alternatywie dla Docker Desktop.
+  pt: OrbStack é a forma rápida, leve e fácil de executar contêineres Docker e Linux. Desenvolva em velocidade máxima com nossa alternativa ao Docker Desktop.
+  ro: OrbStack este cea mai rapidă, ușoară și simplă modalitate de a rula containere Docker și Linux. Dezvoltați cu viteza luminii cu alternativa noastră la Docker Desktop.
+  ru: OrbStack — быстрый, лёгкий и простой способ запускать контейнеры Docker и Linux. Разрабатывайте со скоростью света с нашей альтернативой Docker Desktop.
+  th: OrbStack คือวิธีที่รวดเร็ว เบา และใช้งานง่ายในการรันคอนเทนเนอร์ Docker และ Linux พัฒนาด้วยความเร็วแสงโดยใช้ทางเลือกแทน Docker Desktop.
+  tr: OrbStack, Docker konteynerlerini ve Linux'u çalıştırmanın hızlı, hafif ve kolay yoludur. Docker Desktop alternatifimizle ışık hızında geliştirin.
+  uk: OrbStack — швидкий, легкий і простий спосіб запускати контейнери Docker та Linux. Розробляйте зі швидкістю світла з нашою альтернативою Docker Desktop.
+  vi: OrbStack là cách nhanh, nhẹ và dễ dùng để chạy container Docker và Linux. Phát triển với tốc độ ánh sáng nhờ lựa chọn thay thế cho Docker Desktop.
 x:
   source: https://github.com/orbstack/orbstack
   brew: orbstack

@@ -4,6 +4,22 @@ license: 'MPL-2.0'
 desc:
   cn: ZFS/btrfs/nilfs2 的文件级 Time Machine 式交互工具（也支持 Time Machine 与 Restic 备份）
   en: 'Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)'
+  cs: Interaktivní nástroj na úrovni souborů podobný Time Machine pro ZFS/btrfs/nilfs2 (a dokonce i pro zálohy Time Machine a Restic)
+  de: Interaktives, dateibasiertes Time-Machine-ähnliches Werkzeug für ZFS/btrfs/nilfs2 (und sogar für Time-Machine- und Restic-Backups)
+  es: Herramienta interactiva a nivel de archivo similar a Time Machine para ZFS/btrfs/nilfs2 (¡incluso para copias de Time Machine y Restic!)
+  fr: Outil interactif au niveau fichier, similaire à Time Machine, pour ZFS/btrfs/nilfs2 (et même pour les sauvegardes Time Machine et Restic)
+  id: Alat interaktif tingkat file mirip Time Machine untuk ZFS/btrfs/nilfs2 (bahkan untuk cadangan Time Machine dan Restic)
+  it: Strumento interattivo a livello di file simile a Time Machine per ZFS/btrfs/nilfs2 (e anche per i backup Time Machine e Restic)
+  ja: ZFS/btrfs/nilfs2 向けの対話的なファイル単位の Time Machine 風ツール（Time Machine や Restic のバックアップにも対応）
+  ko: ZFS/btrfs/nilfs2를 위한 대화형 파일 수준 Time Machine 유사 도구 (Time Machine 및 Restic 백업도 지원)
+  pl: Interaktywne narzędzie na poziomie plików podobne do Time Machine dla ZFS/btrfs/nilfs2 (nawet dla kopii Time Machine i Restic)
+  pt: Ferramenta interativa em nível de arquivo semelhante ao Time Machine para ZFS/btrfs/nilfs2 (e até para backups do Time Machine e do Restic)
+  ro: Instrument interactiv la nivel de fișier, asemănător Time Machine, pentru ZFS/btrfs/nilfs2 (și chiar pentru copii de rezervă Time Machine și Restic)
+  ru: Интерактивный файловый инструмент, похожий на Time Machine, для ZFS/btrfs/nilfs2 (и даже для резервных копий Time Machine и Restic)
+  th: เครื่องมือแบบโต้ตอบระดับไฟล์คล้าย Time Machine สำหรับ ZFS/btrfs/nilfs2 (และแม้แต่การสำรองข้อมูลด้วย Time Machine และ Restic)
+  tr: ZFS/btrfs/nilfs2 için dosya düzeyinde, Time Machine benzeri etkileşimli araç (Time Machine ve Restic yedeklemeleri için bile)
+  uk: Інтерактивний файловий інструмент, схожий на Time Machine, для ZFS/btrfs/nilfs2 (і навіть для резервних копій Time Machine та Restic)
+  vi: Công cụ tương tác ở cấp tệp giống Time Machine cho ZFS/btrfs/nilfs2 (thậm chí cho cả bản sao lưu Time Machine và Restic)
 x:
   source: https://github.com/kimono-koans/httm
   eget: kimono-koans/httm

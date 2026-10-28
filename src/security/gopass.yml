@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Unix 密码管理器
   en: unix password manager
+  cs: Unix správce hesel
+  de: Unix-Passwortmanager
+  es: Gestor de contraseñas para Unix
+  fr: Gestionnaire de mots de passe Unix
+  id: Pengelola kata sandi Unix
+  it: Gestore di password Unix
+  ja: Unix 用パスワードマネージャー
+  ko: Unix 비밀번호 관리자
+  pl: Menedżer haseł dla Unixa
+  pt: Gerenciador de senhas para Unix
+  ro: Manager de parole pentru Unix
+  ru: Менеджер паролей для Unix
+  th: ตัวจัดการรหัสผ่านสำหรับ Unix
+  tr: Unix parola yöneticisi
+  uk: Менеджер паролів для Unix
+  vi: Trình quản lý mật khẩu cho Unix
 x:
   source: https://github.com/gopasspw/gopass
   eget: gopasspw/gopass

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Go 编写的漏洞扫描器，使用 https://osv.dev 提供的数据
   en: Vulnerability scanner written in Go which uses the data provided by
+  cs: Skener zranitelností napsaný v Go, který používá data poskytovaná službou https://osv.dev
+  de: Ein in Go geschriebener Schwachstellen-Scanner, der die von https://osv.dev bereitgestellten Daten verwendet
+  es: Escáner de vulnerabilidades escrito en Go que utiliza los datos proporcionados por https://osv.dev
+  fr: Scanner de vulnérabilités écrit en Go qui utilise les données fournies par https://osv.dev
+  id: Pemindai kerentanan yang ditulis dengan Go dan menggunakan data yang disediakan oleh https://osv.dev
+  it: Scanner di vulnerabilità scritto in Go che utilizza i dati forniti da https://osv.dev
+  ja: https://osv.dev が提供するデータを使用する Go 製の脆弱性スキャナー
+  ko: https://osv.dev에서 제공하는 데이터를 사용하는 Go로 작성된 취약점 스캐너
+  pl: Skaner podatności napisany w Go, korzystający z danych udostępnianych przez https://osv.dev
+  pt: Scanner de vulnerabilidades escrito em Go que usa os dados fornecidos por https://osv.dev
+  ro: Scanner de vulnerabilități scris în Go care folosește datele furnizate de https://osv.dev
+  ru: Сканер уязвимостей, написанный на Go и использующий данные, предоставляемые https://osv.dev
+  th: เครื่องสแกนช่องโหว่ที่เขียนด้วย Go ซึ่งใช้ข้อมูลจาก https://osv.dev
+  tr: https://osv.dev tarafından sağlanan verileri kullanan Go ile yazılmış bir güvenlik açık tarayıcısı
+  uk: Сканер вразливимостей, написаний на Go, який використовує дані, що надаються https://osv.dev
+  vi: Máy quét lỗ hổng được viết bằng Go, sử dụng dữ liệu do https://osv.dev cung cấp
 x:
   source: https://github.com/google/osv-scanner
   eget: google/osv-scanner

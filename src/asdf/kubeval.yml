@@ -3,6 +3,22 @@ homepage: https://github.com/instrumenta/kubeval
 desc:
   cn: Kubeval 是用于验证 Kubernetes YAML 或 JSON 配置文件的工具
   en: kubeval is a tool for validating a Kubernetes YAML or JSON configuration file
+  cs: kubeval je nástroj pro validaci konfiguračních souborů Kubernetes ve formátu YAML nebo JSON
+  de: kubeval ist ein Werkzeug zum Validieren von Kubernetes-YAML- oder JSON-Konfigurationsdateien
+  es: kubeval es una herramienta para validar archivos de configuración YAML o JSON de Kubernetes
+  fr: kubeval est un outil pour valider un fichier de configuration YAML ou JSON de Kubernetes
+  id: kubeval adalah alat untuk memvalidasi berkas konfigurasi YAML atau JSON pada Kubernetes
+  it: kubeval è uno strumento per convalidare i file di configurazione YAML o JSON di Kubernetes
+  ja: kubeval は Kubernetes の YAML または JSON 設定ファイルを検証するツールです
+  ko: kubeval은 Kubernetes YAML 또는 JSON 구성 파일을 검증하는 도구입니다
+  pl: kubeval to narzędzie do walidacji plików konfiguracyjnych Kubernetes w formacie YAML lub JSON
+  pt: O kubeval é uma ferramenta para validar arquivos de configuração YAML ou JSON do Kubernetes
+  ro: kubeval este un instrument pentru validarea fișierelor de configurare Kubernetes în format YAML sau JSON
+  ru: kubeval — это инструмент для проверки конфигурационных файлов Kubernetes в формате YAML или JSON
+  th: kubeval เป็นเครื่องมือสำหรับตรวจสอบไฟล์คอนฟิก YAML หรือ JSON ของ Kubernetes
+  tr: kubeval, Kubernetes YAML veya JSON yapılandırma dosyalarını doğrulamak için bir araçtır
+  uk: kubeval — це інструмент для перевірки конфігураційних файлів Kubernetes у форматі YAML або JSON
+  vi: kubeval là công cụ để kiểm tra tệp cấu hình YAML hoặc JSON của Kubernetes
 x:
   source: https://github.com/instrumenta/kubeval
   eget: instrumenta/kubeval

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Network scanning & diagnostic tool
   cn: 网络扫描和诊断工具
+  cs: Nástroj pro skenování sítě a diagnostiku
+  de: Netzwerkscan- und Diagnosewerkzeug
+  es: Herramienta de escaneo de red y diagnóstico
+  fr: Outil de scan réseau et de diagnostic
+  id: Alat pemindaian jaringan dan diagnostik
+  it: Strumento di scansione di rete e diagnostica
+  ja: ネットワークスキャンと診断のツール
+  ko: 네트워크 스캔 및 진단 도구
+  pl: Narzędzie do skanowania sieci i diagnostyki
+  pt: Ferramenta de varredura de rede e diagnóstico
+  ro: Instrument de scanare a rețelei și diagnosticare
+  ru: Инструмент для сканирования сети и диагностики
+  th: เครื่องมือสแกนเครือข่ายและวินิจฉัย
+  tr: Ağ tarama ve tanılama aracı
+  uk: Інструмент для сканування мережі та діагностики
+  vi: Công cụ quét mạng và chẩn đoán
 x:
   source: https://github.com/Chleba/netscanner
   pacman: netscanner

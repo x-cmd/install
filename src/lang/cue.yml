@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: CUE 是一门开源语言，有丰富的 API 和 工具链。可以用于定义、生成以及校验各种各样的数据：配置、API、数据库结构、代码等等，应有尽有
   en: 'CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it'
+  cs: "CUE je open source jazyk s bohatou sadou API a nástrojů pro definování, generování a validaci všech druhů dat: konfigurací, API, databázových schémat, kódu a dalších"
+  de: "CUE ist eine quelloffene Sprache mit reichhaltigen APIs und Werkzeugen zum Definieren, Erzeugen und Validieren aller Art von Daten: Konfigurationen, APIs, Datenbankschemata, Code und mehr"
+  es: "CUE es un lenguaje de código abierto con un amplio conjunto de API y herramientas para definir, generar y validar todo tipo de datos: configuraciones, API, esquemas de base de datos, código y mucho más"
+  fr: "CUE est un langage open source, doté d'un riche ensemble d'API et d'outils, pour définir, générer et valider toutes sortes de données : configurations, API, schémas de base de données, code, etc."
+  id: "CUE adalah bahasa sumber terbuka dengan sekumpulan API dan perkakas yang kaya untuk mendefinisikan, menghasilkan, dan memvalidasi berbagai jenis data: konfigurasi, API, skema basis data, kode, dan lain-lain"
+  it: "CUE è un linguaggio open source con un ricco insieme di API e strumenti per definire, generare e convalidare ogni tipo di dato: configurazioni, API, schemi di database, codice e altro"
+  ja: CUE はオープンソース言語で、豊富な API とツールを持ち、設定、API、データベーススキーマ、コードなどあらゆるデータの定義、生成、検証ができます
+  ko: CUE는 풍부한 API와 도구를 갖춘 오픈 소스 언어로, 설정, API, 데이터베이스 스키마, 코드 등 모든 종류의 데이터를 정의하고 생성하며 검증할 수 있습니다
+  pl: "CUE to język open source z bogatym zestawem API i narzędzi do definiowania, generowania i walidacji wszelkich danych: konfiguracji, API, schematów baz danych, kodu i nie tylko"
+  pt: "CUE é uma linguagem de código aberto, com um rico conjunto de APIs e ferramentas para definir, gerar e validar todos os tipos de dados: configurações, APIs, esquemas de banco de dados, código e muito mais"
+  ro: "CUE este un limbaj open source, cu un set bogat de API-uri și instrumente pentru definirea, generarea și validarea tuturor tipurilor de date: configurații, API-uri, scheme de baze de date, cod și multe altele"
+  ru: "CUE — это открытый язык с богатым набором API и инструментов для определения, генерации и проверки любых видов данных: конфигураций, API, схем баз данных, кода и многого другого"
+  th: "CUE เป็นภาษาโอเพนซอร์สที่มีชุด API และเครื่องมือที่หลากหลาย สำหรับการนิยาม สร้าง และตรวจสอบข้อมูลทุกรูปแบบ: ค่าคอนฟิก, API, สคีมาฐานข้อมูล, โค้ด และอื่น ๆ"
+  tr: CUE, yapılandırmalar, API'ler, veritabanı şemaları, kod ve daha fazlası dahil her türlü veriyi tanımlamak, üretmek ve doğrulamak için zengin bir API ve araç setine sahip açık kaynaklı bir dildir
+  uk: "CUE — це відкрита мова з багатим набором API та інструментів для визначення, генерації та перевірки будь-яких типів даних: конфігурацій, API, схем баз даних, коду та іншого"
+  vi: "CUE là ngôn ngữ mã nguồn mở với bộ API và công cụ phong phú để định nghĩa, sinh và kiểm tra mọi loại dữ liệu: cấu hình, API, lược đồ cơ sở dữ liệu, mã nguồn và nhiều hơn nữa"
 x:
   source: https://github.com/cuelang/cue
   eget: cuelang/cue

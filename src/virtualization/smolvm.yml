@@ -5,6 +5,22 @@ license: Apache-2.0
 desc:
   cn: 可移植、轻量、自包含的虚拟机，用于在本地以硬件隔离方式运行 Linux 工作负载
   en: Portable, lightweight, self-contained virtual machine for running Linux workloads locally with hardware isolation
+  cs: Přenosná, lehká a samostatná virtuální stroj pro lokální provoz workloadů Linux s hardwarovou izolací
+  de: Tragbare, schlanke, in sich geschlossene virtuelle Maschine zum Ausführen von Linux-Workloads lokal mit Hardware-Isolierung
+  es: Máquina virtual portátil, ligera y autónoma para ejecutar cargas de trabajo de Linux localmente con aislamiento de hardware
+  fr: Machine virtuelle portable, légère et autonome pour exécuter localement des charges de travail Linux avec isolation matérielle
+  id: Mesin virtual portabel, ringan, dan mandiri untuk menjalankan beban kerja Linux secara lokal dengan isolasi perangkat keras
+  it: Macchina virtuale portatile, leggera e autonoma per eseguire localmente i carichi di lavoro Linux con isolamento hardware
+  ja: ハードウェア分離によりローカルで Linux ワークロードを実行するための、移植性が高く軽量で自立した仮想マシン
+  ko: 하드웨어 격리로 로컬에서 Linux 워크로드를 실행하기 위한 이식성 있고 가벼우며 자체 완결적인 가상 머신
+  pl: Przenośna, lekka i samodzielna maszyna wirtualna do lokalnego uruchamiania obciążeń Linux z izolacją sprzętową
+  pt: Máquina virtual portátil, leve e autossuficiente para executar cargas de trabalho do Linux localmente com isolamento de hardware
+  ro: Mașină virtuală portabilă, ușoară și autonomă pentru rularea locală a sarcinilor Linux cu izolare hardware
+  ru: Портативная, лёгкая и автономная виртуальная машина для локального запуска рабочих нагрузок Linux с аппаратной изоляцией
+  th: เครื่องเสมือนแบบพกพา เบา และพึ่งพาตนเอง สำหรับรันเวิร์กโหลด Linux ในเครื่องแบบแยกฮาร์ดแวร์
+  tr: Linux iş yüklerini yerel olarak donanım izolasyonuyla çalıştırmak için taşınabilir, hafif ve kendi kendine yeten sanal makine
+  uk: Портативна, легка та автономна віртуальна машина для локального запуску робочих навантажень Linux з апаратною ізоляцією
+  vi: Máy ảo di động, nhẹ và độc lập để chạy các tác vụ Linux cục bộ với cách ly phần cứng
 
 x:
   source: https://github.com/smol-machines/smolvm

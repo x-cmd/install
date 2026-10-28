@@ -3,6 +3,22 @@ homepage: https://github.com/commercialhaskell/stack
 desc:
   cn: Stack 是一个用于开发 Haskell 项目的跨平台程序，适用于新手和有经验的 Haskeller
   en: Stack is a cross-platform program for developing Haskell projects. It is intended for Haskellers both new and experienced
+  cs: Stack je multiplatformní program pro vývoj projektů v Haskellu. Je určen pro začínající i zkušené Haskellery
+  de: Stack ist ein plattformübergreifendes Programm zur Entwicklung von Haskell-Projekten. Es richtet sich an neue und erfahrene Haskell-Programmierer
+  es: Stack es un programa multiplataforma para desarrollar proyectos en Haskell. Está pensado tanto para principiantes como para programadores de Haskell con experiencia
+  fr: Stack est un programme multiplateforme pour développer des projets Haskell. Il s'adresse aux développeurs Haskell aussi bien novices qu'expérimentés
+  id: Stack adalah program lintas platform untuk mengembangkan proyek Haskell. Ditujukan untuk programmer Haskell baik yang baru maupun yang berpengalaman
+  it: Stack è un programma multipiattaforma per lo sviluppo di progetti Haskell. È pensato per sviluppatori Haskell sia alle prime esperienze che esperti
+  ja: Stack は Haskell プロジェクト開発用のクロスプラットフォームプログラムです。初心者と熟練者いずれの Haskell 開発者にも向いています
+  ko: Stack은 Haskell 프로젝트 개발을 위한 크로스 플랫폼 프로그램입니다. 초보자와 숙련된 Haskell 개발자 모두를 위한 도구입니다
+  pl: Stack to wieloplatformowy program do tworzenia projektów w Haskellu. Jest przeznaczony dla programistów Haskell zarówno początkujących, jak i doświadczonych
+  pt: O Stack é um programa multiplataforma para desenvolver projetos em Haskell. Destina-se a programadores Haskell, tanto novatos quanto experientes
+  ro: Stack este un program multiplatformă pentru dezvoltarea proiectelor în Haskell. Este destinat atât începătorilor, cât și dezvoltatorilor Haskell cu experiență
+  ru: Stack — кроссплатформенная программа для разработки проектов на Haskell. Она подходит как новичкам, так и опытным Haskell-разработчикам
+  th: Stack เป็นโปรแกรมข้ามแพลตฟอร์มสำหรับการพัฒนาโปรเจกต์ Haskell รองรับทั้งผู้เริ่มต้นและผู้มีประสบการณ์ด้าน Haskell
+  tr: Stack, Haskell projeleri geliştirmek için platformlar arası bir programdır. Hem yeni başlayanlar hem de deneyimli Haskell geliştiricileri için tasarlanmıştır
+  uk: Stack — кроссплатформена програма для розробки проєктів на Haskell. Вона призначена як початківцям, так і досвідченим Haskell-розробникам
+  vi: Stack là chương trình đa nền tảng để phát triển dự án Haskell. Dành cho cả người mới lẫn lập trình viên Haskell già kinh nghiệm
 x:
   source: https://github.com/commercialhaskell/stack
   eget: commercialhaskell/stack

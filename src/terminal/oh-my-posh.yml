@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Oh My Posh 是一个自定义提示引擎，可以用函数或变量来调整提示字符串
   en: Oh My Posh is a custom prompt engine for any shell that has the ability to adjust the prompt string with a function or variable
+  cs: Oh My Posh je vlastní engine promptů pro jakýkoli shell, který dokáže upravit řetězec promptu pomocí funkce nebo proměnné
+  de: Oh My Posh ist eine benutzerdefinierte Prompt-Engine für jede Shell, die den Prompt-String über eine Funktion oder Variable anpassen kann
+  es: Oh My Posh es un motor de prompts personalizado para cualquier shell que pueda ajustar la cadena del prompt con una función o variable
+  fr: Oh My Posh est un moteur de prompts personnalisé pour tout shell capable d'ajuster la chaîne du prompt via une fonction ou une variable
+  id: Oh My Posh adalah mesin prompt khusus untuk shell apa pun yang mampu menyesuaikan string prompt dengan fungsi atau variabel
+  it: Oh My Posh è un motore di prompt personalizzato per qualsiasi shell in grado di regolare la stringa del prompt con una funzione o una variabile
+  ja: Oh My Posh は、関数や変数でプロンプト文字列を調整できるあらゆるシェル向けのカスタムプロンプトエンジンです
+  ko: Oh My Posh는 함수나 변수로 프롬프트 문자열을 조정할 수 있는 모든 셸을 위한 사용자 정의 프롬프트 엔진입니다
+  pl: Oh My Posh to niestandardowy silnik promptów dla każdej powłoki, która potrafi dostosować ciąg znaku zachęty za pomocą funkcji lub zmiennej
+  pt: Oh My Posh é um mecanismo de prompt personalizado para qualquer shell que consiga ajustar a string do prompt com uma função ou variável
+  ro: Oh My Posh este un motor de prompt personalizat pentru orice shell care poate ajusta șirul de prompt folosind o funcție sau o variabilă
+  ru: Oh My Posh — это пользовательский движок приглашений для любой оболочки, умеющей настраивать строку приглашения с помощью функции или переменной
+  th: Oh My Posh คือเอนจินพรอมต์แบบกำหนดเองสำหรับเชลล์ใด ๆ ที่สามารถปรับข้อความพรอมต์ด้วยฟังก์ชันหรือตัวแปร
+  tr: Oh My Posh, bir fonksiyon veya değişkenle istem dizesini düzenleyebilen her kabuk için özel bir istem motorudur
+  uk: Oh My Posh — це користувацький движок запрошень для будь-якої оболонки, яка вміє налаштовувати рядок запиту функцією або змінною
+  vi: Oh My Posh là công cụ tạo lời nhắc tùy chỉnh cho mọi shell có khả năng điều chỉnh chuỗi lời nhắc bằng hàm hoặc biến
 x:
   source: https://github.com/jandedobbeleer/oh-my-posh
   eget: jandedobbeleer/oh-my-posh

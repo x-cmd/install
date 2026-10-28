@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache Flink 是一个框架和分布式处理引擎
   en: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams
+  cs: Apache Flink je framework a distribuovaný zpracovací engine pro stavové výpočty nad neomezenými a ohraničenými datovými toky
+  de: Apache Flink ist ein Framework und eine verteilte Verarbeitungs-Engine für zustandsbehaftete Berechnungen über unbegrenzte und begrenzte Datenströme
+  es: Apache Flink es un framework y un motor de procesamiento distribuido para cálculos con estado sobre flujos de datos ilimitados y acotados
+  fr: Apache Flink est un framework et un moteur de traitement distribué pour les calculs avec état sur des flux de données illimités et bornés
+  id: Apache Flink adalah framework dan mesin pemrosesan terdistribusi untuk komputasi stateful pada aliran data tak terbatas dan terbatas
+  it: Apache Flink è un framework e un motore di elaborazione distribuito per calcoli con stato su flussi di dati illimitati e limitati
+  ja: Apache Flink は、無制限および有制限のデータストリームに対するステートフル計算のためのフレームワークと分散処理エンジンです
+  ko: Apache Flink는 무한 및 유한 데이터 스트림에 대한 상태 기반 계산을 위한 프레임워크이자 분산 처리 엔진입니다
+  pl: Apache Flink to framework i rozproszony silnik przetwarzania do obliczeń stanowych na strumieniach danych nieograniczonych i ograniczonych
+  pt: Apache Flink é um framework e um mecanismo de processamento distribuído para computações stateful sobre fluxos de dados ilimitados e limitados
+  ro: Apache Flink este un framework și un motor de procesare distribuit pentru calcule cu stare pe fluxuri de date nelimitate și limitate
+  ru: Apache Flink — это фреймворк и распределённый движок обработки для состоянийных вычислений над неограниченными и ограниченными потоками данных
+  th: Apache Flink คือเฟรมเวิร์กและเอนจินประมวลผลแบบกระจายสำหรับการคำนวณแบบมีสถานะบนสตรีมข้อมูลไม่จำกัดและจำกัดขอบเขต
+  tr: Apache Flink, sınırsız ve sınırlı veri akışları üzerinde durumlu hesaplamalar için bir çerçeve ve dağıtık işleme motorudur
+  uk: Apache Flink — це фреймворк і розподілений руш обробки для станових обчислень над необмеженими та обмеженими потоками даних
+  vi: Apache Flink là một framework và công cụ xử lý phân tán cho các phép tính có trạng thái trên luồng dữ liệu không giới hạn và có giới hạn
 x:
   source: https://github.com/apache/flink
   brew: apache-flink

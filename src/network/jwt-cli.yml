@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: jwt-cli 是一个命令行工具，可以帮助您使用 JSON Web Tokens (JWT)
   en: jwt-cli is a command line tool to help you work with JSON Web Tokens (JWTs)
+  cs: jwt-cli je nástroj příkazové řádky, který vám pomůže pracovat s JSON Web Tokens (JWT)
+  de: jwt-cli ist ein Kommandozeilen-Tool, das Ihnen beim Umgang mit JSON Web Tokens (JWTs) hilft
+  es: jwt-cli es una herramienta de línea de comandos que te ayuda a trabajar con JSON Web Tokens (JWT)
+  fr: jwt-cli est un outil en ligne de commande qui vous aide à travailler avec les JSON Web Tokens (JWT)
+  id: jwt-cli adalah alat baris perintah untuk membantu Anda bekerja dengan JSON Web Tokens (JWT)
+  it: jwt-cli è uno strumento da riga di comando che ti aiuta a lavorare con JSON Web Tokens (JWT)
+  ja: jwt-cliはJSON Web Tokens (JWT)の扱いを助于コマンドラインツールです
+  ko: jwt-cli는 JSON Web Tokens(JWT)를 다루도록 돕는 명령줄 도구입니다
+  pl: jwt-cli to narzędzie wiersza poleceń, które pomaga pracować z JSON Web Tokens (JWT)
+  pt: jwt-cli é uma ferramenta de linha de comando que ajuda você a trabalhar com JSON Web Tokens (JWTs)
+  ro: jwt-cli este un instrument de linie de comandă care vă ajută să lucrați cu JSON Web Tokens (JWT)
+  ru: jwt-cli — инструмент командной строки, который помогает работать с JSON Web Tokens (JWT)
+  th: jwt-cli เป็นเครื่องมือบรรทัดคำสั่งที่ช่วยคุณทำงานกับ JSON Web Tokens (JWT)
+  tr: jwt-cli, JSON Web Tokens (JWT) ile çalışmanıza yardımcı olan bir komut satırı aracıdır
+  uk: jwt-cli — інструмент командного рядка, який допомагає працювати з JSON Web Tokens (JWT)
+  vi: jwt-cli là công cụ dòng lệnh giúp bạn làm việc với JSON Web Tokens (JWT)
 x:
   source: https://github.com/mike-engel/jwt-cli
   eget: mike-engel/jwt-cli

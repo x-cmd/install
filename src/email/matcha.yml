@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于 Go 和 Bubble Tea 构建的终端邮件客户端,收发邮件无需离开命令行
   en: 'A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!'
+  cs: Krásný a funkční e-mailový klient pro váš terminál, postavený na Go a půvabné knihovně Bubble Tea TUI. Už nikdy neopouštějte příkazovou řádku, abyste zkontrolovali doručenou poštu nebo poslali e-mail!
+  de: Ein wunderschöner und funktionaler E-Mail-Client für dein Terminal, gebaut mit Go und der charmanten Bubble Tea TUI-Bibliothek. Verlasse deine Kommandozeile nie wieder, um den Posteingang zu prüfen oder eine E-Mail zu senden!
+  es: Un cliente de correo electrónico hermoso y funcional para tu terminal, creado con Go y la encantadora biblioteca TUI Bubble Tea. ¡Nunca más abandones tu línea de comandos para revisar tu bandeja de entrada o enviar un correo!
+  fr: Un client e-mail magnifique et fonctionnel pour votre terminal, construit avec Go et la charmante bibliothèque TUI Bubble Tea. Ne quittez plus jamais votre ligne de commande pour consulter votre boîte de réception ou envoyer un e-mail !
+  id: Klien email yang indah dan fungsional untuk terminal Anda, dibangun dengan Go dan pustaka TUI Bubble Tea yang menawan. Jangan pernah meninggalkan baris perintah Anda untuk memeriksa kotak masuk atau mengirim email lagi!
+  it: Un meraviglioso e funzionale client di posta elettronica per il tuo terminale, costruito con Go e l'affascinante libreria TUI Bubble Tea. Non lasciare più la riga di comando per controllare la posta in arrivo o inviare un'email!
+  ja: Go と素敵な Bubble Tea TUI ライブラリで作られた、美しいメールクライアント。受信箱を確認したりメールを送信したりするために、もうコマンドラインから離れなくてすみます！
+  ko: Go와 매력적인 Bubble Tea TUI 라이브러리로 만든 아름답고 기능적인 터미널 이메일 클라이언트. 이제 받은편지함을 확인하거나 메일을 보내기 위해 명령줄을 벗어나지 않아도 됩니다!
+  pl: Piękny i funkcjonalny klient poczty e-mail dla Twojego terminala, zbudowany w Go i uroczej bibliotece TUI Bubble Tea. Już nigdy nie musisz opuszczać wiersza poleceń, aby sprawdzić skrzynkę odbiorczą lub wysłać e-mail!
+  pt: Um cliente de e-mail bonito e funcional para o seu terminal, construído com Go e a encantadora biblioteca TUI Bubble Tea. Nunca mais deixe sua linha de comando para verificar sua caixa de entrada ou enviar um e-mail!
+  ro: Un client de e-mail frumos și funcțional pentru terminalul tău, construit cu Go și biblioteca TUI Bubble Tea. Nu mai părăsi niciodată linia de comandă pentru a-ți verifica inboxul sau a trimite un e-mail!
+  ru: Красивый и функциональный почтовый клиент для терминала, созданный на Go и очаровательной TUI-библиотеке Bubble Tea. Больше никогда не покидайте командную строку, чтобы проверить почту или отправить письмо!
+  th: ไคลเอนต์อีเมลที่สวยงามและใช้งานได้จริงสำหรับเทอร์มินัลของคุณ สร้างด้วย Go และไลบรารี TUI Bubble Tea ที่น่าหลงให้ จากนี้ไปคุณไม่ต้องออกจากบรรทัดคำสั่งเพื่อเช็คอีเมลหรือส่งอีเมลอีกต่อไป!
+  tr: Go ve sevimli Bubble Tea TUI kütüphanesiyle yapılmış, terminaliniz için şık ve işlevsel e-posta istemcisi. Gelen kutunuzu kontrol etmek veya e-posta göndermek için artık asla komut satırından çıkmayın!
+  uk: Красивий і функціональний поштовий клієнт для вашого термінала, створений на Go та чарівній TUI-бібліотеці Bubble Tea. Більше ніколи не залишайте командний рядок, щоб перевірити вхідні або надіслати лист!
+  vi: Ứng dụng email tuyệt đẹp và đầy tính năng cho terminal của bạn, xây dựng bằng Go và thư viện TUI Bubble Tea dễ thương. Từ giờ bạn không cần rời khỏi dòng lệnh để kiểm tra hộp thư hay gửi email nữa!
 x:
   source: https://github.com/floatpane/matcha
   eget: floatpane/matcha

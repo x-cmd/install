@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 Bluesky 的 TUI 客户端。
   en: TUI client for Bluesky.
+  cs: TUI klient pro Bluesky.
+  de: TUI-Client für Bluesky.
+  es: Cliente TUI para Bluesky.
+  fr: Client TUI pour Bluesky.
+  id: Klien TUI untuk Bluesky.
+  it: Client TUI per Bluesky.
+  ja: Bluesky 用の TUI クライアント。
+  ko: Bluesky용 TUI 클라이언트입니다.
+  pl: Klient TUI dla Bluesky.
+  pt: Cliente TUI para o Bluesky.
+  ro: Client TUI pentru Bluesky.
+  ru: TUI-клиент для Bluesky.
+  th: ไคลเอนต์ TUI สำหรับ Bluesky
+  tr: Bluesky için bir TUI istemcisi.
+  uk: TUI-клієнт для Bluesky.
+  vi: Ứng dụng khách TUI cho Bluesky.
 x:
   source: https://github.com/sugyan/tuisky
   yay: tuisky

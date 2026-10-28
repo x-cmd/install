@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 浏览各 AI 供应商模型、跑分、编程 Agent 与状态的 TUI 和 CLI
   en: 'TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.'
+  cs: TUI a CLI pro procházení AI modelů, benchmarků, programovacích agentů a stavů poskytovatelů AI.
+  de: TUI und CLI zum Durchsuchen von KI-Modellen, Benchmarks, Coding-Agenten und Statusangaben von KI-Anbietern.
+  es: TUI y CLI para explorar modelos de IA, benchmarks, agentes de programación y estados de proveedores de IA.
+  fr: TUI et CLI pour parcourir les modèles d'IA, les benchmarks, les agents de codage et les statuts des fournisseurs d'IA.
+  id: TUI dan CLI untuk menjelajahi model AI, benchmark, agen pengodean, dan status penyedia AI.
+  it: TUI e CLI per esplorare modelli di IA, benchmark, agenti di programmazione e stati dei fornitori di IA.
+  ja: AI モデル、ベンチマークコーディングエージェント、各 AI プロバイダーの状況を閲覧するための TUI と CLI。
+  ko: AI 모델, 벤치마크, 코딩 에이전트와 AI 제공업체 상태를 둘러보기 위한 TUI 및 CLI.
+  pl: TUI i CLI do przeglądania modeli AI, benchmarków, agentów programistycznych oraz statusów dostawców AI.
+  pt: TUI e CLI para navegar por modelos de IA, benchmarks, agentes de programação e status de provedores de IA.
+  ro: TUI și CLI pentru a parcurge modele de IA, benchmarkuri, agenți de programare și stările furnizorilor de IA.
+  ru: TUI и CLI для просмотра ИИ-моделей, бенчмарков, программных агентов и состояний поставщиков ИИ.
+  th: TUI และ CLI สำหรับสำรวจโมเดล AI เกณฑ์มาตรฐาน เอเจนต์เขียนโค้ด และสถานะของผู้ให้บริการ AI
+  tr: AI modelleri, kıyaslamaları, kodlama ajanlarını ve AI sağlayıcılarının durumlarını gezmek için TUI ve CLI.
+  uk: TUI та CLI для перегляду AI-моделей, бенчмарків, програмних агентів і станів постачальників AI.
+  vi: TUI và CLI để duyệt các mô hình AI, benchmark, tác tử lập trình và trạng thái của nhà cung cấp AI.
 x:
   source: https://github.com/arimxyer/models
   eget: arimxyer/models

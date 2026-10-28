@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端输出 SVG 截图工具
   en: '📸 Terminal output SVG screenshot tool'
+  cs: 📸 Nástroj pro pořizování SVG snímků výstupu terminálu
+  de: 📸 Tool für SVG-Screenshots der Terminalausgabe
+  es: 📸 Herramienta de capturas SVG de la salida de la terminal
+  fr: 📸 Outil de capture d'écran SVG de la sortie du terminal
+  id: 📸 Alat tangkapan layar SVG dari keluaran terminal
+  it: 📸 Strumento per schermate SVG dell'output del terminale
+  ja: 📸 ターミナル出力を SVG 画像としてキャプチャするツール
+  ko: 📸 터미널 출력을 SVG 이미지로 캡처하는 도구
+  pl: 📸 Narzędzie do zrzutów ekranu SVG z wyjścia terminala
+  pt: 📸 Ferramenta de captura de tela em SVG da saída do terminal
+  ro: 📸 Instrument pentru capturi de ecran SVG din ieșirea terminalului
+  ru: 📸 Инструмент для создания SVG-снимков вывода терминала
+  th: 📸 เครื่องมือจับภาพหน้าจอเป็น SVG ของผลลัพธ์เทอร์มินัล
+  tr: 📸 Terminal çıktısı için SVG ekran görüntüsü aracı
+  uk: 📸 Інструмент для SVG-знімків виводу термінала
+  vi: 📸 Công cụ chụp ảnh SVG từ output của terminal
 x:
   source: https://github.com/pamburus/termframe
   eget: pamburus/termframe

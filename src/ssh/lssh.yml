@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 原生终端的远程访问套件，覆盖 SSH、云资产清单、并行命令、mux 工作区、文件传输与监控
   en: 'A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.'
+  cs: Terminálová sada pro vzdálený přístup k SSH, cloudovým inventářům, konektorům poskytovatelů, paralelním příkazům, pracovním prostorům mux, přenosu souborů a monitorování.
+  de: Eine terminal-native Fernzugriff-Suite für SSH, Cloud-Inventare, Anbieter-Connectoren, parallele Befehle, mux-Arbeitsbereiche, Dateiübertragung und Überwachung.
+  es: Una suite de acceso remoto nativa del terminal para SSH, inventarios de nube, conectores de proveedores, comandos en paralelo, espacios de trabajo mux, transferencia de archivos y monitorización.
+  fr: Une suite d'accès à distance native au terminal pour SSH, les inventaires cloud, les connecteurs fournisseurs, les commandes parallèles, les espaces de travail mux, le transfert de fichiers et la supervision.
+  id: Suite akses remote asli terminal untuk SSH, inventaris cloud, konektor penyedia, perintah paralel, ruang kerja mux, transfer file, dan pemantauan.
+  it: Una suite di accesso remoto nativa del terminale per SSH, inventari cloud, connettori dei provider, comandi paralleli, spazi di lavoro mux, trasferimento file e monitoraggio.
+  ja: SSH、クラウドの資産棚卸、プロバイダーのコネクタ、並列コマンド、mux ワークスペース、ファイル転送、監視のためのターミナルネイティブのリモートアクセス・スイート。
+  ko: SSH, 클라우드 인벤토리, 제공업체 커넥터, 병렬 명령, mux 작업 공간, 파일 전송, 모니터링을 위한 터미널 네이티브 원격 액세스 도구 모음.
+  pl: Zestaw zdalnego dostępu wbudowany w terminal dla SSH, inwentarzy chmurowych, konektorów dostawców, poleceń równoległych, przestrzeni roboczych mux, transferu plików i monitorowania.
+  pt: Uma suíte de acesso remoto nativa de terminal para SSH, inventários de nuvem, conectores de provedores, comandos paralelos, espaços de trabalho mux, transferência de arquivos e monitoramento.
+  ro: O suită de acces la distanță nativă pentru terminal, pentru SSH, inventare cloud, conectori de furnizori, comenzi paralele, spații de lucru mux, transfer de fișiere și monitorizare.
+  ru: "Терминальный набор инструментов для удалённого доступа: SSH, облачные инвентаризации, коннекторы провайдеров, параллельные команды, рабочие пространства mux, передача файлов и мониторинг."
+  th: ชุดเครื่องมือเข้าถึงระยะไกลแบบเนทีฟเทอร์มินัล สำหรับ SSH, รายการทรัพย์สินบนคลาวด์, ตัวเชื่อมต่อของผู้ให้บริการ, คำสั่งแบบขนาน, พื้นที่ทำงาน mux, การถ่ายโอนไฟล์ และการตรวจสอบ
+  tr: SSH, bulut envanterleri, sağlayıcı bağlantıları, paralel komutlar, mux çalışma alanları, dosya aktarımı ve izleme için terminal yerel uzak erişim paketi.
+  uk: "Набір інструментів для віддаленого доступу з термінала: SSH, хмарні інвентаризації, конектори провайдерів, паралельні команди, робочі простори mux, передача файлів і моніторинг."
+  vi: Bộ công cụ truy cập từ xa gốc terminal cho SSH, kiểm kê cloud, trình kết nối của nhà cung cấp, lệnh song song, không gian làm việc mux, truyền tệp và giám sát.
 x:
   source: https://github.com/blacknon/lssh
   eget: blacknon/lssh

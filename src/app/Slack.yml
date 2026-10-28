@@ -3,6 +3,22 @@ homepage: https://slack.com/
 desc:
   en: Slack is a productivity management platform that puts no-code automation and AI capabilities in the hands of everyone, seamlessly connects search and knowledge sharing, and keeps teams connected and engaged
   cn: Slack 是一个工作效率管理平台，让每个人都能够使用无代码自动化和 AI 功能，还可以无缝连接搜索和知识共享，并确保团队保持联系和参与
+  cs: Slack je platforma pro řízení produktivity, která dává každému do rukou automatizaci bez kódu a AI funkce, bezproblémově propojuje vyhledávání a sdílení znalostí a udržuje tým ve spojení
+  de: Slack ist eine Plattform für Produktivitätsmanagement, die jedem No-Code-Automatisierung und KI-Funktionen an die Hand gibt, Suche und Wissensaustausch nahtlos verbindet und Teams verbunden und engagiert hält
+  es: Slack es una plataforma de gestión de la productividad que pone la automatización sin código y las funciones de IA al alcance de todos, conecta sin problemas la búsqueda y el intercambio de conocimiento, y mantiene a los equipos conectados y comprometidos
+  fr: Slack est une plateforme de gestion de la productivité qui met l'automatisation sans code et les capacités de l'IA à la portée de tous, relie fluidement la recherche et le partage de connaissances, et garde les équipes connectées et engagées
+  id: Slack adalah platform manajemen produktivitas yang menghadirkan otomatisasi tanpa kode dan kemampuan AI ke tangan semua orang, menghubungkan pencarian dan berbagi pengetahuan dengan mulus, serta menjaga tim tetap terhubung dan aktif
+  it: Slack è una piattaforma di gestione della produttività che mette automazione senza codice e funzionalità IA alla portata di tutti, collega in modo fluido ricerca e condivisione della conoscenza e mantiene i team connessi e coinvolti
+  ja: Slack は生産性管理プラットフォームで、誰もがコード不要の自動化と AI 機能を利用でき、検索と知識共有をシームレスにつなぎ、チームをつなげ続けます
+  ko: Slack은 모든 사람이 코딩 없는 자동화와 AI 기능을 활용할 수 있게 하는 생산성 관리 플랫폼으로, 검색과 지식 공유를 매끄럽게 연결하고 팀을 계속 함께 유지합니다
+  pl: Slack to platforma do zarządzania produktywnością, która daje każdemu automatyzację bez kodu i funkcje AI, płynnie łączy wyszukiwanie i dzielenie się wiedzą oraz utrzymuje zespoły w kontakcie
+  pt: O Slack é uma plataforma de gestão de produtividade que coloca automação sem código e recursos de IA ao alcance de todos, conecta de forma contínua busca e compartilhamento de conhecimento e mantém as equipes conectadas e engajadas
+  ro: Slack este o platformă de management al productivității care pune automatizarea fără cod și capacitățile AI la îndemâna tuturor, leagă fără efort căutarea și partajarea cunoștințelor și păstrează echipele conectate și implicate
+  ru: Slack — платформа управления продуктивностью, которая даёт каждому автоматизацию без кода и возможности ИИ, бесшовно связывает поиск и обмен знаниями и поддерживает связь и вовлечённость команд
+  th: Slack คือแพลตฟอร์มจัดการประสิทธิภาพการทำงานที่ทำให้ทุกคนเข้าถึงระบบอัตโนมัติแบบไม่ต้องเขียนโค้ดและความสามารถด้าน AI เชื่อมต่อการค้นหาและการแบ่งปันความรู้ได้อย่างราบรื่น และช่วยให้ทีมอยู่เชื่อมโยงและมีส่วนร่วม
+  tr: Slack, herkese kod yazmadan otomasyon ve yapay zeka özelliklerini sunan, aramayı ve bilgi paylaşımını sorunsuz birleştiren ve ekipleri bağlı ve aktif tutan bir üretkenlik yönetimi platformudur
+  uk: Slack — платформа керування продуктивністю, яка дає кожному автоматизацію без коду та можливості ШІ, безшовно поєднує пошук і обмін знаннями та підтримує зв'язок і залученість команд
+  vi: Slack là nền tảng quản lý năng suất đưa tự động hóa không cần mã và các năng lực AI đến với mọi người, kết nối liền mạch tìm kiếm và chia sẻ tri thức, giúp đội ngũ luôn kết nối và tham gia
 rule:
   /flatpak:
     cmd: flatpak run com.slack.Slack

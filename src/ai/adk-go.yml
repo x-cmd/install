@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Agent Development Kit（ADK）是一款灵活且模块化的框架，用于开发和部署人工智能代理（AI agents）。
   en: Agent Development Kit (ADK) is a flexible and modular framework for developing and deploying AI agents.
+  cs: Agent Development Kit (ADK) je flexibilní a modulární framework pro vývoj a nasazování AI agentů.
+  de: Das Agent Development Kit (ADK) ist ein flexibles und modulares Framework zur Entwicklung und Bereitstellung von KI-Agenten.
+  es: Agent Development Kit (ADK) es un framework flexible y modular para desarrollar y desplegar agentes de IA.
+  fr: L'Agent Development Kit (ADK) est un framework flexible et modulaire pour développer et déployer des agents IA.
+  id: Agent Development Kit (ADK) adalah framework yang fleksibel dan modular untuk mengembangkan dan men-deploy agen AI.
+  it: Agent Development Kit (ADK) è un framework flessibile e modulare per sviluppare e distribuire agenti IA.
+  ja: Agent Development Kit (ADK) は、AI エージェント的开发とデプロイのための柔軟でモジュール化されたフレームワークです。
+  ko: Agent Development Kit(ADK)는 AI 에이전트를 개발하고 배포하기 위한 유연하고 모듈식 프레임워크입니다.
+  pl: Agent Development Kit (ADK) to elastyczny i modularny framework do tworzenia i wdrażania agentów AI.
+  pt: O Agent Development Kit (ADK) é um framework flexível e modular para desenvolver e implantar agentes de IA.
+  ro: Agent Development Kit (ADK) este un framework flexibil și modular pentru dezvoltarea și implementarea agenților AI.
+  ru: Agent Development Kit (ADK) — гибкий и модульный фреймворк для разработки и развёртывания ИИ-агентов.
+  th: Agent Development Kit (ADK) คือเฟรมเวิร์กที่ยืดหยุ่นและเป็นโมดูลสำหรับการพัฒนาและปรับใช้เอเจนต์ AI
+  tr: Agent Development Kit (ADK), AI ajanları geliştirmek ve dağıtmak için esnek ve modüler bir çerçevedir.
+  uk: Agent Development Kit (ADK) — гнучкий і модульний фреймворк для розробки та розгортання ІІ-агентів.
+  vi: Agent Development Kit (ADK) là framework linh hoạt và mô-đun để phát triển và triển khai các agent AI.
 x:
   source: https://github.com/google/adk-go
   pip: google-adk

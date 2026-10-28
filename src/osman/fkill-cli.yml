@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 绝妙地杀死进程。跨平台
   en: Fabulously kill processes. Cross-platform.
+  cs: Skvěle zabíjejte procesy. Multiplatformní.
+  de: Prozesse einfach beenden. Plattformübergreifend.
+  es: Mata procesos genialmente. Multiplataforma.
+  fr: Tuez des processus superbement. Multiplateforme.
+  id: Bunuh proses dengan elegan. Lintas platform.
+  it: Elimina i processi in modo fantastico. Multiplatforma.
+  ja: プロセスを souveränに終了する。クロスプラットフォーム。
+  ko: 프로세스를 멋지게 종료합니다. 크로스 플랫폼.
+  pl: Zabijaj procesy wspaniale. Wieloplatformowe.
+  pt: Mate processos de forma fabulousa. Multiplataforma.
+  ro: Omoară procesele cu stil. Multiplatformă.
+  ru: Убивайте процессы с удовольствием. Кроссплатформенно.
+  th: ฆ่ากระบวนการได้อย่างวิจิตร ข้ามแพลตฟอร์ม
+  tr: Süreçleri harika bir şekilde öldürün. Çapraz platform.
+  uk: Вбивайте процеси з задоволенням. Кроссплатформенно.
+  vi: Tiêu diệt tiến trình một cách tuyệt vời. Đa nền tảng.
 x:
   source: https://github.com/sindresorhus/fkill-cli
 rule:

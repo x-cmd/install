@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个基于 CLI 的 DNS 传播检查器，具有美观的输出。
   en: A CLI based DNS propagation checker with attractive output.
+  cs: Kontrolor šíření DNS založený na CLI s přitažlivým výstupem.
+  de: Ein CLI-basierter DNS-Propagation-Checker mit ansprechender Ausgabe.
+  es: Un comprobador de propagación DNS basado en CLI con una salida atractiva.
+  fr: Un vérificateur de propagation DNS basé sur la CLI avec une sortie soignée.
+  id: Pemeriksa propagasi DNS berbasis CLI dengan output yang menarik.
+  it: Un verificatore di propagazione DNS basato sulla CLI con un output accattivante.
+  ja: CLI ベースの DNS 伝播チェッカーで、美しい出力を備えています。
+  ko: 매력적인 출력을 갖춘 CLI 기반 DNS 전파 검사기.
+  pl: Narzędzie CLI do sprawdzania propagacji DNS z atrakcyjnym wyjściem.
+  pt: Um verificador de propagação de DNS baseado em CLI com saída atraente.
+  ro: Un verificator de propagare DNS bazat pe CLI, cu ieșire atractivă.
+  ru: Проверка распространения DNS на основе CLI с привлекательным выводом.
+  th: ตัวตรวจการกระจาย DNS บนพื้นฐาน CLI พร้อมผลลัพธ์ที่สวยงาม.
+  tr: Çekici çıktıya sahip, CLI tabanlı bir DNS yayılım denetleyicisi.
+  uk: Перевіряльник поширення DNS на основі CLI з привабливим виводом.
+  vi: Trình kiểm tra lan truyền DNS dựa trên CLI với kết quả hiển thị bắt mắt.
 x:
   source: https://github.com/unfrl/dug
   eget: unfrl/dug

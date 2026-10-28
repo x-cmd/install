@@ -3,6 +3,22 @@ homepage: https://github.com/NetHack/NetHack
 desc:
   cn: 一款经典的开源 roguelike 地牢探险游戏，以其深度、复杂性和极高的重玩价值闻名
   en: A classic open-source roguelike dungeon exploration game, renowned for its depth, complexity, and immense replayability.
+  cs: Klasická open-source roguelike hra s průzkumem podzemí, proslulá svou hloubkou, složitostí a obrovskou znovuhratelností.
+  de: Ein klassisches Open-Source-Roguelike-Dungeon-Erkundungsspiel, bekannt für seine Tiefe, Komplexität und immense Wiederholbarkeit.
+  es: Un clásico juego roguelike de exploración de mazmorras de código abierto, reconocido por su profundidad, complejidad y enorme rejugabilidad.
+  fr: Un jeu d'exploration de donjon roguelike classique et open source, réputé pour sa profondeur, sa complexité et son immense rejouabilité.
+  id: Permainan eksplorasi dungeon roguelike open-source klasik, terkenal karena kedalamannya, kompleksitasnya, dan kemampuan bermain ulang yang luar biasa.
+  it: Un classico roguelike open-source di esplorazione dei sotterranei, rinomato per la sua profondità, complessità e enorme rigiocabilità.
+  ja: 古典的なオープンソースの roguelike ダンジョン探索ゲームで、深さ、複雑さ、そして豊富な再プレイ性を誇ります。
+  ko: 깊이, 복잡성, 엄청난 재플레이 가치로 유명한 클래식 오픈 소스 roguelike 던전 탐험 게임.
+  pl: Klasyczna open-source'owa gra roguelike o eksploracji podziemi, znana ze swojej głębi, złożoności i ogromnej powtarzalności.
+  pt: Um clássico jogo roguelike de exploração de masmorras de código aberto, reconhecido por sua profundidade, complexidade e enorme rejogabilidade.
+  ro: Un joc clasic open-source roguelike de explorare a labirinturilor, renumit pentru adancimea, complexitatea si enorma sa reutilizabilitate.
+  ru: Классическая рогалик-игра с открытым исходным кодом про исследование подземелий, известная глубиной, сложностью и огромной реиграбельностью.
+  th: เกม roguelike สำรวจดันเจียนแบบคลาสสิกโอเพนซอร์ส เป็นที่รู้จักด้านความลึกลึกซึ้ง ความซับซ้อน และความสามารถในการเล่นซ้ำที่สูงมาก
+  tr: Derinliği, karmaşıklığı ve muazzam tekrar oynanabilirliğiyle tanınan klasik açık kaynak roguelike zindan keşif oyunu.
+  uk: Класична рогалик-гра з відкритим кодом про дослідження підземель, відома своєю глибиною, складністю та величезною переграбельністю.
+  vi: Một game roguelike khám phá hầm ngục kinh điển mã nguồn mở, nổi tiếng với độ sâu, độ phức tạp và khả năng chơi lại gần như vô hạn.
 x:
   source: https://github.com/NetHack/NetHack
   apt: nethack-console

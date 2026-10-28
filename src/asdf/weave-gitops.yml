@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Weave Gitops 是 Flux 的强大扩展，这是领先的 Gitops Engine and CNCF 项目
   en: Weave GitOps is a powerful extension to Flux, a leading GitOps engine and CNCF project
+  cs: Weave GitOps je mocné rozšíření pro Flux, přední GitOps engine a projekt CNCF
+  de: Weave GitOps ist eine leistungsstarke Erweiterung für Flux, eine führende GitOps-Engine und ein CNCF-Projekt
+  es: Weave GitOps es una potente extensión de Flux, un motor GitOps líder y un proyecto de CNCF
+  fr: Weave GitOps est une extension powerful de Flux, un moteur GitOps de premier plan et un projet CNCF
+  id: Weave GitOps adalah ekstensi kuat untuk Flux, mesin GitOps terkemuka dan proyek CNCF
+  it: Weave GitOps è una potente estensione di Flux, un motore GitOps leader e un progetto CNCF
+  ja: Weave GitOps は、主要な GitOps エンジンであり CNCF プロジェクトである Flux の強力な拡張機能です
+  ko: Weave GitOps는 선명한 GitOps 엔진이자 CNCF 프로젝트인 Flux를 위한 강력한 확장입니다
+  pl: Weave GitOps to potężne rozszerzenie Flux, wiodącego silnika GitOps i projektu CNCF
+  pt: Weave GitOps é uma extensão poderosa do Flux, um mecanismo GitOps líder e um projeto da CNCF
+  ro: Weave GitOps este o extensie puternică pentru Flux, un motor GitOps de vârf și un proiect CNCF
+  ru: Weave GitOps — мощное расширение для Flux, ведущего движка GitOps и проекта CNCF
+  th: Weave GitOps เป็นส่วนขยายอย่างมีประสิทธิภาพของ Flux ซึ่งเป็น GitOps engine ชั้นนำและโครงการของ CNCF
+  tr: Weave GitOps, önde gelen bir GitOps motoru ve CNCF projesi olan Flux için güçlü bir eklentidir
+  uk: Weave GitOps — потужне розширення для Flux, провідного рушія GitOps і проєкту CNCF
+  vi: Weave GitOps là tiện ích mở rộng mạnh mẽ cho Flux, một GitOps engine hàng đầu và dự án của CNCF
 x:
   source: https://github.com/weaveworks/weave-gitops
   brew: weaveworks/tap/gitops

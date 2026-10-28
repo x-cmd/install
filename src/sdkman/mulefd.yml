@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Mule 流程调用图和图表
   en: Mule flow call graphs and diagrams
+  cs: Grafy volání a diagramy toků Mule
+  de: Mule Flow Call Graphs und Diagramme
+  es: Grafos de llamadas y diagramas de flujos de Mule
+  fr: Graphes d'appels et diagrammes de flux Mule
+  id: Graf panggilan dan diagram alur Mule
+  it: Grafici delle chiamate e diagrammi dei flussi Mule
+  ja: Mule フローの呼び出しグラフと図
+  ko: Mule 플로우 호출 그래프 및 다이어그램
+  pl: Wykresy wywołań i diagramy przepływów Mule
+  pt: Grafos de chamadas e diagramas de fluxos do Mule
+  ro: Grafuri de apeluri și diagrame de fluxuri Mule
+  ru: Графы вызовов и диаграммы потоков Mule
+  th: กราฟการเรียกและไดอะแกรมของ Mule flow
+  tr: Mule akış çağrı grafikleri ve diyagramları
+  uk: Графи викликів та діаграми потоків Mule
+  vi: Đồ thị lời gọi và sơ đồ luồng Mule
 x:
   source: https://github.com/manikmagar/mulefd
   eget: manikmagar/mulefd

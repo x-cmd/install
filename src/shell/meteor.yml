@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 高度可配置的 Conventional Commits 提交编写 CLI
   en: 'A highly configurable CLI tool for writing conventional commits'
+  cs: Vysoce konfigurovatelný nástroj CLI pro zápis konvenčních commitů
+  de: Ein hochkonfigurierbares CLI-Werkzeug zum Schreiben konventioneller Commits
+  es: Una herramienta CLI altamente configurable para escribir commits convencionales
+  fr: Un outil CLI hautement configurable pour écrire des commits conventionnels
+  id: Alat CLI yang sangat dapat dikonfigurasi untuk menulis commit konvensional
+  it: Uno strumento CLI altamente configurabile per scrivere commit convenzionali
+  ja: Conventional Commits を書くための高度に設定可能な CLI ツール
+  ko: Conventional Commits 작성을 위한 매우 설정 가능한 CLI 도구
+  pl: Wysoce konfigurowalne narzędzie CLI do tworzenia konwencjonalnych commitów
+  pt: Uma ferramenta CLI altamente configurável para escrever commits convencionais
+  ro: Un instrument CLI extrem de configurabil pentru scrierea commit-urilor convenționale
+  ru: Высоконастраиваемый инструмент CLI для написания conventional-коммитов
+  th: เครื่องมือ CLI ที่ปรับแต่งได้อย่างสูงสำหรับการเขียน conventional commits
+  tr: Konvansiyonel commit yazmak için yüksek düzeyde yapılandırılabilir CLI aracı
+  uk: Високоналаштовуваний інструмент CLI для написання conventional-комітів
+  vi: Công cụ CLI có thể tùy chỉnh cao để viết commit theo quy ước
 x:
   source: https://github.com/stefanlogue/meteor
   eget: stefanlogue/meteor

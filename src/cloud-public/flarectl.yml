@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于与 Cloudflare 帐户交互的 CLI 应用程序
   en: A CLI application for interacting with a Cloudflare account
+  cs: CLI aplikace pro interakci s účtem Cloudflare
+  de: Eine CLI-Anwendung zur Interaktion mit einem Cloudflare-Konto
+  es: Una aplicación de CLI para interactuar con una cuenta de Cloudflare
+  fr: Une application CLI pour interagir avec un compte Cloudflare
+  id: Aplikasi CLI untuk berinteraksi dengan akun Cloudflare
+  it: Un'applicazione CLI per interagire con un account Cloudflare
+  ja: Cloudflare アカウントと対話するための CLI アプリケーション
+  ko: Cloudflare 계정과 상호작용하기 위한 CLI 애플리케이션
+  pl: Aplikacja CLI do interakcji z kontem Cloudflare
+  pt: Um aplicativo de CLI para interagir com uma conta do Cloudflare
+  ro: O aplicație CLI pentru interacțiunea cu un cont Cloudflare
+  ru: CLI-приложение для взаимодействия с учётной записью Cloudflare
+  th: แอปพลิเคชัน CLI สำหรับโต้ตอบกับบัญชี Cloudflare
+  tr: Cloudflare hesabıyla etkileşim kurmak için bir CLI uygulaması
+  uk: CLI-застосунок для взаємодії з обліковим записом Cloudflare
+  vi: Ứng dụng CLI để tương tác với tài khoản Cloudflare
 x:
   source: https://github.com/cloudflare/cloudflare-go
   yay: flarectl-bin

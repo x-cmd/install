@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个使用打包模板的简单项目创建工具
   en: A simple project creation tool that uses packaged templates
+  cs: Jednoduchý nástroj pro vytváření projektů, který používá připravené šablony
+  de: Ein einfaches Werkzeug zur Projekterstellung mit fertigen Vorlagen
+  es: Una sencilla herramienta de creación de proyectos que usa plantillas empaquetadas
+  fr: Un simple outil de création de projets utilisant des modèles préemballés
+  id: Alat pembuatan proyek sederhana yang menggunakan templat siap pakai
+  it: Un semplice strumento di creazione di progetti che usa modelli preconfezionati
+  ja: 同梱のテンプレートを使う、簡単なプロジェクト作成ツールです
+  ko: 미리 packaged된 템플릿을 사용하는 간단한 프로젝트 생성 도구입니다
+  pl: Proste narzędzie do tworzenia projektów korzystające z gotowych szablonów
+  pt: Uma ferramenta simples de criação de projetos que usa modelos empacotados
+  ro: Un instrument simplu de creare de proiecte care folosește șabloane ambalate
+  ru: Простой инструмент для создания проектов на основе готовых шаблонов
+  th: เครื่องมือสร้างโครงการอย่างง่ายที่ใช้เทมเพลตที่แพ็กมา
+  tr: Hazır şablonları kullanan basit bir proje oluşturma aracı
+  uk: Простий інструмент для створення проєктів на основі готових шаблонів
+  vi: Công cụ tạo dự án đơn giản sử dụng các mẫu có sẵn
 x:
   source: https://github.com/cbmarcum/skeletal
   eget: cbmarcum/skeletal

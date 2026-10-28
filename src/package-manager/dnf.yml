@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Dandied YUM (DNF)是 YUM 的下一个主要版本
   en: Dandified YUM (DNF) is the next upcoming major version of YUM
+  cs: Dandified YUM (DNF) je příští hlavní verze YUM
+  de: Dandified YUM (DNF) ist die nächste kommende Hauptversion von YUM
+  es: Dandified YUM (DNF) es la próxima versión principal de YUM
+  fr: Dandified YUM (DNF) est la prochaine version majeure de YUM
+  id: Dandified YUM (DNF) adalah versi utama YUM berikutnya yang akan datang
+  it: Dandified YUM (DNF) è la prossima versione principale di YUM
+  ja: Dandified YUM (DNF) は YUM の次のメジャーバージョンです
+  ko: Dandified YUM (DNF)은(는) YUM의 다음 주요 버전입니다
+  pl: Dandified YUM (DNF) to kolejna główna wersja YUM
+  pt: Dandified YUM (DNF) é a próxima grande versão do YUM
+  ro: Dandified YUM (DNF) este următoarea versiune majoră a YUM
+  ru: Dandified YUM (DNF) — следующая крупная версия YUM
+  th: Dandified YUM (DNF) คือเวอร์ชันหลักถัดไปของ YUM
+  tr: Dandified YUM (DNF), YUM'un sıradaki büyük sürümüdür
+  uk: Dandified YUM (DNF) — це наступна велика версія YUM
+  vi: Dandified YUM (DNF) là phiên bản chính tiếp theo của YUM
 x:
   source: https://github.com/rpm-software-management/dnf
   eget: rpm-software-management/dnf

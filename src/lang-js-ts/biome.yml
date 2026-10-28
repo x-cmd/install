@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Biome 是一个用于 Web 项目的高性能工具链，旨在为开发者提供维护项目的工具
   en: Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects
+  cs: Biome je výkonná sada nástrojů pro webové projekty, která poskytuje vývojářské nástroje pro udržování jejich zdraví
+  de: Biome ist eine leistungsstarke Toolchain für Webprojekte und bietet Entwicklerwerkzeuge zur Pflege deren Zustand
+  es: Biome es una cadena de herramientas de alto rendimiento para proyectos web, que busca proporcionar a los desarrolladores herramientas para mantener la salud de dichos proyectos
+  fr: Biome est une chaîne d'outils performante pour les projets web, qui vise à fournir aux développeurs des outils pour maintenir la santé de ces projets
+  id: Biome adalah toolchain berkinerja tinggi untuk proyek web, yang Bertujuan menyediakan alat bagi pengembang untuk menjaga kesehatan proyek tersebut
+  it: Biome è una toolchain performante per i progetti web, pensata per fornire agli sviluppatori strumenti per mantenere la salute di tali progetti
+  ja: Biome はウェブプロジェクト向けの高性能ツールチェーンであり、そのプロジェクトの健康を保つための開発者ツールを提供します
+  ko: Biome은 웹 프로젝트용 고성능 도구 모음으로, 해당 프로젝트의 상태를 관리하는 개발자 도구를 제공하는 것을 목표로 합니다
+  pl: Biome to wydajny zestaw narzędzi do projektów webowych, który ma zapewnić programistom narzędzia do utrzymania ich kondycji
+  pt: Biome é um conjunto de ferramentas de alto desempenho para projetos web, que visa fornecer aos desenvolvedores ferramentas para manter a saúde desses projetos
+  ro: Biome este un lanț de instrumente performant pentru proiecte web, cu scopul de a oferi dezvoltatorilor unelte pentru menținerea stării de sănătate a acestora
+  ru: Biome — это производительный набор инструментов для веб-проектов, предназначенный для того, чтобы дать разработчикам средства поддерживать их в хорошем состоянии
+  th: Biome เป็นชุดเครื่องมือประสิทธิภาพสูงสำหรับโครงการเว็บ มุ่งให้เครื่องมือแก่ผู้พัฒนาเพื่อรักษาสุขภาพของโครงการเหล่านั้น
+  tr: Biome, web projeleri için performanslı bir araç zinciridir ve bu projelerin sağlığını korumak için geliştirici araçları sunmayı amaçlar
+  uk: Biome — це продуктивний набір інструментів для вебпроєктів, мета якого — надати розробникам засоби для підтримки їх у здоровому стані
+  vi: Biome là bộ công cụ hiệu năng cao cho các dự án web, nhằm cung cấp công cụ cho nhà phát triển để duy trì sức khỏe của các dự án đó
 x:
   source: https://github.com/biomejs/biome
   eget: biomejs/biome

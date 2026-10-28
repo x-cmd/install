@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用 Go 编写、基于 BubbleTea 的跨多数据库 SQL 查询管理 CLI
   en: 'A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea'
+  cs: Minimální nástroj CLI pro správu a spouštění SQL dotazů napříč více databázemi. Napsán v Go, krásný díky BubbleTea
+  de: Ein minimales CLI-Werkzeug zum Verwalten und Ausführen von SQL-Abfragen über mehrere Datenbanken hinweg. In Go geschrieben, schön mit BubbleTea
+  es: Una herramienta CLI minimalista para gestionar y ejecutar consultas SQL en varias bases de datos. Escrita en Go, hecha bella con BubbleTea
+  fr: Un outil CLI minimaliste pour gérer et exécuter des requêtes SQL sur plusieurs bases de données. Écrit en Go, rendu beau avec BubbleTea
+  id: Alat CLI minimal untuk mengelola dan menjalankan kueri SQL di banyak basis data. Ditulis dengan Go, dibuat cantik dengan BubbleTea
+  it: Un minimale strumento CLI per gestire ed eseguire query SQL su più database. Scritto in Go, reso bello con BubbleTea
+  ja: 複数のデータベースをまたいで SQL クエリの管理と実行を行うミニマルな CLI ツール。Go 製、BubbleTea で美しく仕上げ
+  ko: 여러 데이터베이스에 걸친 SQL 쿼리 관리 및 실행을 위한 미니멀한 CLI 도구. Go로 작성되었으며 BubbleTea로 멋지게 만들었습니다
+  pl: Minimalne narzędzie CLI do zarządzania i wykonywania zapytań SQL w wielu bazach danych. Napisane w Go, piękne dzięki BubbleTea
+  pt: Uma ferramenta CLI minimalista para gerenciar e executar consultas SQL em vários bancos de dados. Escrita em Go, feita bonita com BubbleTea
+  ro: Un instrument CLI minimal pentru gestionarea și executarea interogărilor SQL pe mai multe baze de date. Scris în Go, frumos cu BubbleTea
+  ru: Минимальный CLI-инструмент для управления и выполнения SQL-запросов по нескольким базам данных. Написан на Go, красиво оформлен с помощью BubbleTea
+  th: เครื่องมือ CLI ขั้นต่ำสำหรับจัดการและเรียกใช้คิวรี SQL ข้ามฐานข้อมูลหลายแห่ง เขียนด้วย Go สวยงามด้วย BubbleTea
+  tr: Birden çok veritabanı boyunca SQL sorgularını yönetmek ve çalıştırmak için minimal bir CLI aracı. Go ile yazıldı, BubbleTea ile güzelleştirildi
+  uk: Мінімальний CLI-інструмент для керування та виконання SQL-запитів у кількох базах даних. Написаний на Go, красивий завдяки BubbleTea
+  vi: Công cụ CLI tối giản để quản lý và thực thi truy vấn SQL trên nhiều cơ sở dữ liệu. Viết bằng Go, đẹp nhờ BubbleTea
 x:
   source: https://github.com/eduardofuncao/squix
   eget: eduardofuncao/squix

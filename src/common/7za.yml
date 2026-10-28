@@ -3,6 +3,22 @@ homepage: https://github.com/ip7z/7zip
 desc:
   cn: 7za 是一个开源的文件压缩和解压工具，是 7-Zip 的命令行版本
   en: 7za is an open-source file compression and decompression tool, which is a command-line version of 7-Zip
+  cs: 7za je open-source nástroj pro kompresi a dekompresi souborů, což je verze 7-Zip pro příkazovou řádku
+  de: 7za ist ein Open-Source-Tool zum Komprimieren und Entpacken von Dateien, die Kommandozeilenversion von 7-Zip
+  es: 7za es una herramienta de código abierto para comprimir y descomprimir archivos, la versión de 7-Zip para línea de comandos
+  fr: 7za est un outil open source de compression et de décompression de fichiers, la version en ligne de commande de 7-Zip
+  id: 7za adalah alat open source untuk kompresi dan dekompresi file, merupakan versi 7-Zip untuk baris perintah
+  it: 7za è uno strumento open source per la compressione e decompressione dei file, la versione a riga di comando di 7-Zip
+  ja: 7za はオープンソースのファイル圧縮・展開ツールで、7-Zip のコマンドライン版です
+  ko: 7za는 파일 압축 및 해제 도구인 오픈 소스 7-Zip의 명령줄 버전입니다
+  pl: 7za to narzędzie open source do kompresji i dekompresji plików, wersja 7-Zip dla wiersza poleceń
+  pt: O 7za é uma ferramenta de código aberto para compressão e descompressão de arquivos, a versão de linha de comando do 7-Zip
+  ro: 7za este un instrument open source pentru comprimarea și decomprimarea fișierelor, versiunea pentru linia de comandă a 7-Zip
+  ru: 7za — это инструмент с открытым исходным кодом для сжатия и распаковки файлов, версия 7-Zip для командной строки
+  th: 7za เป็นเครื่องมือโอเพนซอร์สสำหรับบีบอัดและแตกไฟล์ ซึ่งเป็นเวอร์ชันบรรทัดคำสั่งของ 7-Zip
+  tr: 7za, dosyaları sıkıştırmak ve açmak için açık kaynaklı bir araç, 7-Zip'in komut satırı sürümüdür
+  uk: 7za — це інструмент з відкритим кодом для стиснення та розпакування файлів, версія 7-Zip для командного рядка
+  vi: 7za là công cụ mã nguồn mở để nén và giải nén tệp, là phiên bản dòng lệnh của 7-Zip
 x:
   source: https://github.com/ip7z/7zip
   eget: ip7z/7zip

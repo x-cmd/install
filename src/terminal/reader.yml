@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 命令行下的网页可读性工具，为网页与 EML 文件提供更易读的呈现
   en: 'reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://codeberg.org/mr...'
+  cs: "reader je pro váš příkazový řádek to, co je pro moderní prohlížeče zobrazení „čitelnosti“: lehký nástroj, který nabízí lepší čitelnost webových stránek (a souborů EML!) v příkazové řádce. (https://codeberg.org/mr..."
+  de: "reader ist für Ihre Kommandozeile das, was die „Lesbarkeits“-Ansicht für moderne Browser ist: Ein leichtgewichtiges Werkzeug, das Webseiten (und EML-Dateien!) auf der CLI besser lesbar macht. (https://codeberg.org/mr..."
+  es: "reader es para tu línea de comandos lo que la vista de «legibilidad» es para los navegadores modernos: una herramienta ligera que ofrece una mejor legibilidad de páginas web (¡y archivos EML!) en la CLI. (https://codeberg.org/mr..."
+  fr: "reader est pour votre ligne de commande ce que la vue « lisibilité » est pour les navigateurs modernes : un outil léger offrant une meilleure lisibilité des pages web (et des fichiers EML !) sur la CLI. (https://codeberg.org/mr..."
+  id: "reader adalah untuk baris perintah Anda apa yang tampilan \"keterbacaan\" bagi peramban modern: alat ringan yang menawarkan keterbacaan lebih baik dari halaman web (dan berkas EML!) di CLI. (https://codeberg.org/mr..."
+  it: "reader è per la tua riga di comando ciò che la vista «leggibilità» è per i browser moderni: uno strumento leggero che offre una migliore leggibilità delle pagine web (e dei file EML!) sulla CLI. (https://codeberg.org/mr..."
+  ja: reader は、現代のブラウザにおける「読みやすさ」表示がコマンドラインにとって持つものと同じです：Web ページ（および EML ファイル！）を CLI 上でより読みやすくする軽量なツールです。(https://codeberg.org/mr...
+  ko: "reader는 현대 브라우저의 \"가독성\" 보기가 명령줄에서 하는 일을 하는 도구입니다: 웹 페이지(및 EML 파일!)를 CLI에서 더 쉽게 읽을 수 있게 해 주는 가벼운 도구입니다. (https://codeberg.org/mr..."
+  pl: "reader jest dla twojej wiersza poleceń tym, czym widok „czytelności” jest dla nowoczesnych przeglądarek: lekki narzędzie oferujące lepszą czytelność stron internetowych (i plików EML!) w wierszu poleceń. (https://codeberg.org/mr..."
+  pt: "reader é para a sua linha de comando o que a visão de \"legibilidade\" é para os navegadores modernos: uma ferramenta leve que oferece melhor legibilidade de páginas web (e arquivos EML!) na CLI. (https://codeberg.org/mr..."
+  ro: "reader este pentru linia ta de comandă ceea ce este vizualizarea „lizibilitate” pentru browserele moderne: un instrument ușor care oferă o lizibilitate mai bună a paginilor web (și a fișierelor EML!) în CLI. (https://codeberg.org/mr..."
+  ru: "reader — это для вашей командной строки то, что режим «читаемости» — для современных браузеров: лёгкий инструмент, делающий веб-страницы (и файлы EML!) удобнее для чтения в CLI. (https://codeberg.org/mr..."
+  th: "reader คือสิ่งที่คำสั่งดู \"ความอ่านง่าย\" ทำกับเบราว์เซอร์สมัยใหม่: เครื่องมือเบาที่ช่วยให้หน้าเว็บ (และไฟล์ EML!) อ่านง่ายขึ้นบน CLI (https://codeberg.org/mr..."
+  tr: "reader, komut satırınız için modern tarayıcılardaki \"okunabilirlik\" görünümünün yaptığı şeyi yapar: web sayfalarını (ve EML dosyalarını!) CLI'de daha okunabilir hale getiren hafif bir araç. (https://codeberg.org/mr..."
+  uk: "reader — це для вашого командного рядка те, що режим «читабельності» — для сучасних браузерів: легкий інструмент, що робить веб-сторінки (та файли EML!) зручнішими для читання в CLI. (https://codeberg.org/mr..."
+  vi: "reader là cho dòng lệnh của bạn điều mà chế độ \"khả năng đọc\" là với các trình duyệt hiện đại: một công cụ nhẹ giúp các trang web (và tệp EML!) dễ đọc hơn trên CLI. (https://codeberg.org/mr..."
 x:
   source: https://github.com/mrusme/reader
   eget: mrusme/reader

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: RSS reader for the terminal
   cn: 终端上的 RSS 阅读器
+  cs: Čtečka RSS pro terminál
+  de: RSS-Reader für das Terminal
+  es: Lector de RSS para el terminal
+  fr: Lecteur RSS pour le terminal
+  id: Pembaca RSS untuk terminal
+  it: Lettore RSS per il terminale
+  ja: ターミナル用の RSS リーダー
+  ko: 터미널용 RSS 리더
+  pl: Czytnik RSS dla terminala
+  pt: Leitor de RSS para o terminal
+  ro: Cititor RSS pentru terminal
+  ru: RSS-читалка для терминала
+  th: โปรแกรมอ่าน RSS สำหรับเทอร์มินัล
+  tr: Terminal için bir RSS okuyucu
+  uk: RSS-читалка для термінала
+  vi: Trình đọc RSS cho terminal
 x:
   source: https://github.com/guyfedwards/nom
   eget: guyfedwards/nom

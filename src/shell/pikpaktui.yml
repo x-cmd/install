@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: PikPak 云存储的 TUI 与 CLI 客户端，纯 Rust 实现，支持浏览、下载、上传、流式播放和文件管理
   en: 'A TUI and CLI client for PikPak cloud storage — written in pure Rust. OpenClaw friendly. Browse, download, upload, stream, and manage your files from the terminal.'
+  cs: TUI a CLI klient pro cloudové úložiště PikPak — napsáno čistě v Rustu. Přátelský k OpenClaw. Prohlížejte, stahujte, nahrávejte, streamujte a spravujte své soubory z terminálu.
+  de: TUI- und CLI-Client für den PikPak-Cloud-Speicher — rein in Rust geschrieben. OpenClaw-freundlich. Durchsuchen, herunterladen, hochladen, streamen und verwalten Sie Ihre Dateien vom Terminal aus.
+  es: Un cliente TUI y CLI para el almacenamiento en la nube PikPak — escrito en Rust puro. Compatible con OpenClaw. Explora, descarga, sube, transmite y gestiona tus archivos desde el terminal.
+  fr: Un client TUI et CLI pour le stockage cloud PikPak — écrit en Rust pur. Compatible OpenClaw. Parcourez, téléchargez, envoyez, diffusez et gérez vos fichiers depuis le terminal.
+  id: Klien TUI dan CLI untuk penyimpanan cloud PikPak — ditulis murni dengan Rust. Ramah OpenClaw. Jelajahi, unduh, unggah, streaming, dan kelola file Anda dari terminal.
+  it: Un client TUI e CLI per l'archiviazione cloud PikPak — scritto in puro Rust. Compatibile con OpenClaw. Sfoglia, scarica, carica, trasmetti in streaming e gestisci i tuoi file dal terminale.
+  ja: PikPak クラウドストレージ向けの TUI および CLI クライアント — 純 Rust で実装。OpenClaw 対応。ターミナルからファイルの閲覧、ダウンロード、アップロード、ストリーミング、管理ができます。
+  ko: PikPak 클라우드 스토리지용 TUI 및 CLI 클라이언트 — 순수 Rust로 작성되었습니다. OpenClaw 친화적입니다. 터미널에서 파일을 찾아보고, 다운로드하고, 업로드하고, 스트리밍하고, 관리하세요.
+  pl: Klient TUI i CLI dla chmury PikPak — napisany w czystym Rust. Przyjazny OpenClaw. Przeglądaj, pobieraj, przesyłaj, strumieniuj i zarządzaj plikami z terminala.
+  pt: Um cliente TUI e CLI para o armazenamento em nuvem PikPak — escrito em Rust puro. Compatível com OpenClaw. Navegue, baixe, envie, transmita e gerencie seus arquivos pelo terminal.
+  ro: Un client TUI și CLI pentru stocarea în cloud PikPak — scris în Rust pur. Prietenos cu OpenClaw. Răsfoiește, descarcă, încarcă, redă în flux și gestionează-ți fișierele din terminal.
+  ru: TUI- и CLI-клиент для облачного хранилища PikPak — написан на чистом Rust. Совместим с OpenClaw. Просматривайте, скачивайте, загружайте, транслируйте и управляйте файлами из терминала.
+  th: ไคลเอนต์ TUI และ CLI สำหรับที่เก็บข้อมูลบนคลาวด์ PikPak — เขียนด้วย Rust ล้วน เป็นมิตรกับ OpenClaw เรียกดู ดาวน์โหลด อัปโหลด สตรีม และจัดการไฟล์ของคุณจากเทอร์มินัล
+  tr: PikPak bulut depolaması için TUI ve CLI istemcisi — tamamen Rust ile yazıldı. OpenClaw uyumlu. Dosyalarınızı terminalden görüntüleyin, indirin, yükleyin, yayınlayın ve yönetin.
+  uk: TUI- та CLI-клієнт для хмарного сховища PikPak — написаний на чистому Rust. Сумісний з OpenClaw. Переглядайте, завантажуйте, вивантажуйте, транслюйте та керуйте файлами з термінала.
+  vi: Ứng dụng khách TUI và CLI cho lưu trữ đám mây PikPak — viết bằng Rust thuần. Thân thiện với OpenClaw. Duyệt, tải xuống, tải lên, truyền trực tiếp và quản lý tệp của bạn ngay từ terminal.
 x:
   source: https://github.com/Bengerthelorf/pikpaktui
   eget: Bengerthelorf/pikpaktui

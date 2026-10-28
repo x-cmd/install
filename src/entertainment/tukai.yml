@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于终端的打字练习应用程序
   en: Terminal based touch typing application.
+  cs: Terminálová aplikace pro trénink psaní na klávesnici.
+  de: Terminalbasierte Touch-Typing-Anwendung.
+  es: Aplicación de terminal para practicar la escritura al tacto.
+  fr: Application de terminal pour s'entraîner à la frappe au toucher.
+  id: Aplikasi terminal untuk latihan mengetik dengan sentuhan.
+  it: Applicazione da terminale per l'addestramento alla digitazione.
+  ja: タッチタイピングを練習するためのターミナルアプリケーション。
+  ko: 터미널 기반 터치 타이핑 애플리케이션.
+  pl: Terminalowa aplikacja do ćwiczenia pisania bezwzrokowego.
+  pt: Aplicativo de terminal para praticar digitação por toque.
+  ro: Aplicație de terminal pentru antrenamentul la tastare tactilă.
+  ru: Терминальное приложение для тренировки слепой печати.
+  th: แอปพลิเคชันเทอร์มินัลสำหรับฝึกพิมพ์แบบสัมผัส
+  tr: Dokunarak yazmayı öğrenmek için terminal tabanlı uygulama.
+  uk: Термінальний застосунок для тренування сліпого друку.
+  vi: Ứng dụng terminal để luyện gõ phím bằng cảm giác
 x:
   source: https://github.com/hlsxx/tukai
   pacman: tukai

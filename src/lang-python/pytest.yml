@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Pytest 框架使得编写小型的、可读的测试变得容易，并且可以扩展以支持应用程序和库的复杂功能测试
   en: The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+  cs: Rámec pytest usnadňuje psaní malých, čitelných testů a lze jej škálovat pro podporu složitých funkčních testů aplikací a knihoven.
+  de: Das pytest-Framework erleichtert das Schreiben kleiner, lesbarer Tests und lässt sich für komplexe Funktionstests von Anwendungen und Bibliotheken skalieren.
+  es: El framework pytest facilita la escritura de pruebas pequeñas y legibles, y puede escalar para soportar pruebas funcionales complejas de aplicaciones y bibliotecas.
+  fr: Le framework pytest facilite l'écriture de petits tests lisibles et peut s'adapter pour prendre en charge des tests fonctionnels complexes pour les applications et les bibliothèques.
+  id: Framework pytest memudahkan penulisan pengujian kecil yang mudah dibaca, dan dapat_diskalakan untuk mendukung pengujian fungsional yang kompleks untuk aplikasi dan pustaka.
+  it: Il framework pytest rende facile scrivere test piccoli e leggibili e può scalare per supportare test funzionali complessi per applicazioni e librerie.
+  ja: pytest フレームワークは、小さく読みやすいテストを書くことを容易にし、アプリケーションやライブラリの複雑な機能テストにも対応できます。
+  ko: pytest 프레임워크는 작고 읽기 쉬운 테스트를 쉽게 작성할 수 있게 해 주며, 애플리케이션과 라이브러리의 복잡한 기능 테스트도 지원하도록 확장할 수 있습니다.
+  pl: Framework pytest ułatwia pisanie małych, czytelnych testów i może skalować się, aby obsługiwać złożone testy funkcjonalne aplikacji i bibliotek.
+  pt: O framework pytest facilita escrever testes pequenos e legíveis, e pode escalar para suportar testes funcionais complexos de aplicações e bibliotecas.
+  ro: Cadrul pytest face ușoară scrierea unor teste mici și lizibile și poate fi extins pentru a suporta testare funcțională complexă pentru aplicații și biblioteci.
+  ru: Фреймворк pytest упрощает написание небольших и читаемых тестов и масштабируется для поддержки сложного функционального тестирования приложений и библиотек.
+  th: เฟรมเวิร์ก pytest ทำให้เขียนเทสต์ขนาดเล็กที่อ่านง่ายได้ง่าย และสามารถขยายขนาดเพื่อรองรับการทดสอบเชิงฟังก์ชันที่ซับซ้อนของแอปพลิเคชันและไลบรารี
+  tr: pytest çerçevesi küçük ve okunabilir testler yazmayı kolaylaştırır ve uygulamalar ile kitaplıklar için karmaşık işlevsel testleri destekleyecek şekilde ölçeklenebilir.
+  uk: Фреймворк pytest спрощує написання невеликих і читабельних тестів і масштабується для підтримки складного функціонального тестування застосунків і бібліотек.
+  vi: Framework pytest giúp viết các bài kiểm thử nhỏ và dễ đọc, đồng thời có thể mở rộng để hỗ trợ kiểm thử chức năng phức tạp cho các ứng dụng và thư viện.
 x:
   source: https://github.com/pytest-dev/pytest
 rule:

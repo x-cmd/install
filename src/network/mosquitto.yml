@@ -3,6 +3,22 @@ homepage: https://github.com/eclipse-mosquitto/mosquitto
 desc:
   cn: 实现 MQTT 协议的消息代理
   en: Message broker implementing the MQTT protocol
+  cs: Zprostředkovatel zpráv implementující protokol MQTT
+  de: Message-Broker, der das MQTT-Protokoll implementiert
+  es: Agente de mensajes que implementa el protocolo MQTT
+  fr: Courtier de messages implémentant le protocole MQTT
+  id: Message broker yang mengimplementasikan protokol MQTT
+  it: Message broker che implementa il protocollo MQTT
+  ja: MQTT プロトコルを実装したメッセージブローカー
+  ko: MQTT 프로토콜을 구현한 메시지 브로커
+  pl: Broker wiadomości implementujący protokół MQTT
+  pt: Agente de mensagens que implementa o protocolo MQTT
+  ro: Broker de mesaje care implementează protocolul MQTT
+  ru: Брокер сообщений, реализующий протокол MQTT
+  th: ตัวรับส่งข้อความที่ใช้โปรโตคอล MQTT
+  tr: MQTT protokolünü uygulayan bir mesaj aracısı.
+  uk: Брокер повідомлень, що реалізує протокол MQTT
+  vi: Bộ môi giới tin nhắn hiện thực giao thức MQTT
 x:
   source: https://github.com/eclipse-mosquitto/mosquitto
   apt: mosquitto

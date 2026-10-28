@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Tabiew 是一个基于终端的轻量级应用程序，用于查看和查询分隔符分隔值格式的文档，例如 CSV 或 TSV 文件
   en: Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files
+  cs: Tabiew je lehká aplikace založená na terminálu pro prohlížení a dotazování na dokumenty s oddělovači, jako jsou soubory CSV nebo TSV.
+  de: Tabiew ist eine schlanke terminalbasierte Anwendung zum Anzeigen und Abfragen von Dokumenten mit Trennzeichen, etwa CSV- oder TSV-Dateien.
+  es: Tabiew es una aplicación ligera basada en terminal para ver y consultar documentos con valores separados por delimitadores, como archivos CSV o TSV.
+  fr: Tabiew est une application légère basée sur le terminal pour afficher et interroger des documents à valeurs séparées par des délimiteurs, tels que les fichiers CSV ou TSV.
+  id: Tabiew adalah aplikasi ringan berbasis terminal untuk melihat dan menanyakan dokumen dengan nilai yang dipisahkan delimiter, seperti file CSV atau TSV.
+  it: Tabiew è una leggera applicazione basata su terminale per visualizzare e interrogare documenti con valori separati da delimitatori, come file CSV o TSV.
+  ja: Tabiew は、CSV や TSV ファイルなどの区切り文字区切り値形式のドキュメントを表示してクエリする、軽量なターミナルベースのアプリケーションです。
+  ko: Tabiew는 CSV나 TSV 파일과 같은 구분자 구분 값 형식의 문서를 보고 질의하기 위한 가벼운 터미널 기반 애플리케이션입니다.
+  pl: Tabiew to lekka aplikacja oparta na terminalu do przeglądania i odpytywania dokumentów z wartościami rozdzielonymi separatorami, takich jak pliki CSV lub TSV.
+  pt: Tabiew é um aplicativo leve baseado em terminal para visualizar e consultar documentos com valores separados por delimitadores, como arquivos CSV ou TSV.
+  ro: Tabiew este o aplicație ușoară bazată pe terminal pentru vizualizarea și interogarea documentelor cu valori separate prin delimitatori, precum fișierele CSV sau TSV.
+  ru: Tabiew — лёгкое терминальное приложение для просмотра и запросов к документам с разделёнными значениями, например к файлам CSV или TSV.
+  th: Tabiew เป็นแอปพลิเคชันแบบเบาที่ใช้เทอร์มินัล สำหรับดูและสอบถามเอกสารที่แยกค่าด้วยตัวคั่น เช่น ไฟล์ CSV หรือ TSV
+  tr: Tabiew, CSV veya TSV dosyaları gibi sınırlandırıcıyla ayrılmış değerlere sahip belgeleri görüntülemek ve sorgulamak için hafif, terminal tabanlı bir uygulamadır.
+  uk: Tabiew — легкий термінальний застосунок для перегляду та запитів до документів із розділеними значеннями, наприклад файлів CSV або TSV.
+  vi: Tabiew là một ứng dụng nhẹ chạy trên terminal để xem và truy vấn các tài liệu có giá trị phân tách bằng dấu phân cách, chẳng hạn như tệp CSV hoặc TSV.
 x:
   source: https://github.com/shshemi/tabiew
   eget: shshemi/tabiew

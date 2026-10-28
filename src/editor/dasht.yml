@@ -3,6 +3,22 @@ homepage: https://github.com/sunaku/dasht
 desc:
   cn: dasht 是一组用于搜索、浏览和管理 API 文档的 shell 脚本（提供 200 多个离线文档集，感谢 macOS 上的 Dash），让你可以在终端中轻松访问和使用这些文档。
   en: dasht is a collection of shell scripts for searching, browsing, and managing API documentation (in the form of 200+ offline documentation sets, courtesy of Dash for macOS) all from the comfort of your own terminal!
+  cs: dasht je sbírka shellových skriptů pro vyhledávání, prohlížení a správu dokumentace API (ve formě 200+ offline sad dokumentace, díky Dash pro macOS), a to vše přímo z vašeho terminálu!
+  de: dasht ist eine Sammlung von Shell-Skripten zum Suchen, Durchsuchen und Verwalten von API-Dokumentation (in Form von über 200 Offline-Dokumentationssets, courtesy of Dash für macOS), alles bequem aus Ihrem eigenen Terminal!
+  es: dasht es una colección de scripts de shell para buscar, explorar y gestionar documentación de API (en forma de más de 200 conjuntos de documentación sin conexión, cortesía de Dash para macOS), todo desde la comodidad de tu propio terminal.
+  fr: dasht est une collection de scripts shell pour rechercher, parcourir et gérer la documentation des API (sous la forme de plus de 200 jeux de documentation hors ligne, grâce à Dash pour macOS), le tout depuis le confort de votre terminal !
+  id: dasht adalah kumpulan skrip shell untuk mencari, menjelajahi, dan mengelola dokumentasi API (dalam bentuk 200+ set dokumentasi luring, courtesy of Dash untuk macOS), semuanya dari kenyamanan terminal Anda sendiri!
+  it: dasht è una raccolta di script shell per cercare, esplorare e gestire la documentazione delle API (sotto forma di oltre 200 set di documentazione offline, grazie a Dash per macOS), tutto dalla comodità del proprio terminale!
+  ja: dasht は API ドキュメントの検索、閲覧、管理を行うためのシェルスクリプト集です (macOS 向け Dash による 200 件以上のオフラインドキュメントセット形式)。すべて自分のターミナルから利用できます。
+  ko: dasht는 API 문서를 검색하고 탐색하며 관리하기 위한 셸 스크립트 모음입니다 (macOS용 Dash 후원의 200개 이상의 오프라인 문서 세트 형태), 모두 터미널 안에서 편하게 사용할 수 있습니다!
+  pl: dasht to zbiór skryptów powłoki do wyszukiwania, przeglądania i zarządzania dokumentacją API (w formie ponad 200 zestawów dokumentacji offline, dzięki Dash dla macOS), wszystko z wygodą własnego terminala!
+  pt: O dasht é uma coleção de scripts shell para pesquisar, navegar e gerenciar documentação de API (na forma de mais de 200 conjuntos de documentação offline, cortesia do Dash para macOS), tudo a partir do conforto do seu próprio terminal!
+  ro: dasht este o colecție de scripturi shell pentru căutarea, navigarea și gestionarea documentației API (sub forma a peste 200 de seturi de documentație offline, datorită Dash pentru macOS), toate din confortul terminalului tău!
+  ru: dasht — это набор shell-скриптов для поиска, просмотра и управления документацией API (в виде более 200 офлайн-наборов документации, благодаря Dash для macOS), всё прямо из вашего терминала!
+  th: dasht คือคอลเลกชันสคริปต์เชลสำหรับค้นหา เรียกดู และจัดการเอกสาร API (ในรูปแบบชุดเอกสารออฟไลน์กว่า 200 ชุด จาก Dash สำหรับ macOS) ทั้งหมดจากเทอร์มินัลของคุณเอง!
+  tr: dasht, API belgelerini arama, inceleme ve yönetmek için bir kabuk betiği koleksiyonudur (macOS için Dash sayesinde 200'den fazla çevrimdışı belge seti biçiminde), hepsi kendi terminalinizin konforundan!
+  uk: dasht — це збірка shell-скриптів для пошуку, перегляду та керування документацією API (у вигляді понад 200 офлайн-наборів документації, завдяки Dash для macOS), усе просто з вашого термінала!
+  vi: dasht là bộ sưu tập script shell để tìm kiếm, duyệt và quản lý tài liệu API (dưới dạng hơn 200 bộ tài liệu ngoại tuyến, nhờ Dash cho macOS), tất cả ngay trong terminal của bạn!
 x:
   source: https://github.com/sunaku/dasht
   brew: dasht

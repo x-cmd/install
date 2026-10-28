@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: DevSpace 是一个面向 Kubernetes 的开源开发工具，可以让您更快地开发和部署云本地软件
   en: DevSpace is an open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster
+  cs: DevSpace je open-source vývojářský nástroj pro Kubernetes, který vám umožňuje rychleji vyvíjet a nasazovat cloud-native software
+  de: DevSpace ist ein quelloffenes Entwicklerwerkzeug für Kubernetes, mit dem Sie Cloud-native Software schneller entwickeln und bereitstellen können
+  es: DevSpace es una herramienta de desarrollo de código abierto para Kubernetes que le permite desarrollar y desplegar software nativo de la nube más rápido
+  fr: DevSpace est un outil de développement open source pour Kubernetes qui vous permet de développer et de déployer plus rapidement des logiciels cloud native
+  id: DevSpace adalah alat pengembang sumber terbuka untuk Kubernetes yang memungkinkan Anda mengembangkan dan menerapkan perangkat lunak cloud-native lebih cepat
+  it: DevSpace è uno strumento di sviluppo open source per Kubernetes che ti permette di sviluppare e distribuire software cloud-native più velocemente
+  ja: DevSpace は Kubernetes 向けのオープンソース開発ツールで、クラウドネイティブなソフトウェアをより速く開発・デプロイできます
+  ko: DevSpace는 Kubernetes를 위한 오픈소스 개발 도구로, 클라우드 네이티브 소프트웨어를 더 빠르게 개발하고 배포할 수 있게 해줍니다
+  pl: DevSpace to narzędzie deweloperskie o otwartym kodzie dla Kubernetes, które pozwala szybciej tworzyć i wdrażać oprogramowanie cloud-native
+  pt: O DevSpace é uma ferramenta de desenvolvimento de código aberto para Kubernetes que permite desenvolver e implantar software cloud-native mais rápido
+  ro: DevSpace este un instrument de dezvoltare open source pentru Kubernetes care vă permite să dezvoltați și să implementați software cloud-native mai rapid
+  ru: DevSpace — это инструмент разработки с открытым исходным кодом для Kubernetes, позволяющий быстрее разрабатывать и развёртывать облачно-ориентированное ПО
+  th: DevSpace เป็นเครื่องมือพัฒนาแบบโอเพนซอร์สสำหรับ Kubernetes ที่ช่วยให้คุณพัฒนาและติดตั้งซอฟต์แวร์แบบคลาวด์เนทีฟได้เร็วขึ้น
+  tr: DevSpace, bulut tabanlı yazılımları daha hızlı geliştirmenizi ve dağıtmanızı sağlayan Kubernetes için açık kaynaklı bir geliştirici aracıdır
+  uk: DevSpace — це інструмент розробки з відкритим кодом для Kubernetes, який дозволяє швидше розробляти та розгортати хмарно-орієнтоване ПЗ
+  vi: DevSpace là công cụ phát triển mã nguồn mở cho Kubernetes, giúp bạn phát triển và triển khai phần mềm cloud-native nhanh hơn
 x:
   source: https://github.com/loft-sh/devspace
   eget: loft-sh/devspace

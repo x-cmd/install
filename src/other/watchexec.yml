@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: watchexec 是一个简单的独立工具，可以监视路径并在检测到修改时运行命令
   en: watchexec is a simple, standalone tool that watches a path and runs a command whenever it detects modifications
+  cs: watchexec je jednoduchý samostatný nástroj, který hlídá cestu a spustí příkaz pokaždé, když zaznamená změnu
+  de: watchexec ist ein einfaches, eigenständiges Werkzeug, das einen Pfad überwacht und bei erkannten Änderungen einen Befehl ausführt
+  es: watchexec es una herramienta sencilla e independiente que vigila una ruta y ejecuta un comando cada vez que detecta modificaciones
+  fr: watchexec est un simple outil autonome qui surveille un chemin et exécute une commande dès qu'il détecte des modifications
+  id: watchexec adalah alat sederhana mandiri yang memantau sebuah jalur dan menjalankan perintah setiap kali menemukan modifikasi
+  it: watchexec è un semplice strumento autonomo che sorveglia un percorso ed esegue un comando ogni volta che rileva modifiche
+  ja: watchexec は、パスを監視し、変更を検出するたびにコマンドを実行する、シンプルな独立系ツールです。
+  ko: watchexec는 경로를 감시하고 변경 사항을 감지할 때마다 명령을 실행하는 간단한 독립 실행 도구입니다.
+  pl: watchexec to proste, samodzielne narzędzie, które obserwuje ścieżkę i uruchamia polecenie za każdym razem, gdy wykryje zmiany
+  pt: watchexec é uma ferramenta simples e independente que observa um caminho e executa um comando sempre que detecta modificações
+  ro: watchexec este un instrument simplu și independent care monitorizează o cale și rulează o comandă de fiecare dată când detectează modificări
+  ru: watchexec — простое автономное средство, отслеживающее путь и запускающее команду при каждом обнаружении изменений
+  th: watchexec เป็นเครื่องมือแบบเรียบง่ายและสแตนด์โดยนที่เฝ้าดูพาธและรันคำสั่งทุกครั้งที่ตรวจพบการเปลี่ยนแปลง
+  tr: watchexec, bir yolu izleyen ve her değişiklik algıladığında bir komut çalıştıran basit, bağımsız bir araçtır.
+  uk: watchexec — простий автономний інструмент, що спостерігає за шляхом і запускає команду щоразу, коли виявляє зміни
+  vi: watchexec là công cụ độc lập đơn giản, theo dõi một đường dẫn và chạy lệnh mỗi khi phát hiện thay đổi
 x:
   source: https://github.com/watchexec/watchexec
   eget: watchexec/watchexec

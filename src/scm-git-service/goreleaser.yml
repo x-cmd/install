@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: goreleaser 是 Go 项目的发布自动化工具
   en: goreleaser is a release automation tool for Go projects
+  cs: goreleaser je nástroj pro automatizaci vydávání projektů v Go
+  de: goreleaser ist ein Release-Automatisierungstool für Go-Projekte
+  es: goreleaser es una herramienta de automatización de lanzamientos para proyectos de Go
+  fr: goreleaser est un outil d'automatisation des versions pour les projets Go
+  id: goreleaser adalah alat otomatisasi rilis untuk proyek Go
+  it: goreleaser è uno strumento di automazione del rilascio per i progetti Go
+  ja: goreleaser は Go プロジェクト向けのリリース自動化ツールです
+  ko: goreleaser는 Go 프로젝트를 위한 릴리스 자동화 도구입니다
+  pl: goreleaser to narzędzie do automatyzacji wydań projektów w Go
+  pt: goreleaser é uma ferramenta de automação de lançamentos para projetos Go
+  ro: goreleaser este un instrument de automatizare a lansărilor pentru proiecte Go
+  ru: goreleaser — инструмент автоматизации релизов для проектов на Go
+  th: goreleaser เป็นเครื่องมืออัตโนมัติการปล่อยเวอร์ชันสำหรับโปรเจกต์ Go
+  tr: goreleaser, Go projeleri için bir sürüm otomasyon aracıdır
+  uk: goreleaser — інструмент автоматизації релізів для проєктів на Go
+  vi: goreleaser là công cụ tự động hóa việc phát hành cho các dự án Go
 x:
   source: https://github.com/goreleaser/goreleaser
   eget: goreleaser/goreleaser

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个由 shell 实现的俄罗斯方块游戏
   en: A Tetris game implemented by a shell
+  cs: Hra Tetris implementovaná v shellu
+  de: Ein Tetris-Spiel, in Shell implementiert
+  es: Un juego de Tetris implementado en shell
+  fr: Un jeu de Tetris implémenté en shell
+  id: Permainan Tetris yang diimplementasikan dengan shell
+  it: Un gioco di Tetris implementato in shell
+  ja: shell で実装されたテトリスゲーム
+  ko: shell로 구현된 테트리스 게임
+  pl: Gra Tetris zaimplementowana w shellu
+  pt: Um jogo Tetris implementado em shell
+  ro: Un joc Tetris implementat în shell
+  ru: Игра «Тетрис», реализованная на shell
+  th: เกม Tetris ที่เขียนด้วย shell
+  tr: Shell ile uygulanmış bir Tetris oyunu
+  uk: Гра «Тетріс», реалізована на shell
+  vi: Trò chơi Tetris được viết bằng shell
 x:
   source: https://github.com/contentsviewer/shtris
 rule:

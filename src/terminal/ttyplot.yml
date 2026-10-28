@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: a realtime plotting utility for terminal/console with data input from stdin
   cn: 一个用于终端/控制台的实时绘图工具，数据来源于标准输入 (stdin)
+  cs: nástroj pro realtime vykreslování grafů v terminálu/konzoli s daty ze standardního vstupu
+  de: ein Echtzeit-Plotprogramm für Terminal/Konsole mit Daten aus der Standardeingabe
+  es: una utilidad de trazado en tiempo real para terminal/consola con datos de entrada desde stdin
+  fr: un utilitaire de traçage en temps réel pour terminal/console avec des données entrantes depuis stdin
+  id: utilitas plot waktu nyata untuk terminal/konsol dengan data input dari stdin
+  it: un'utilità di plotting in tempo reale per terminale/console con dati in ingresso da stdin
+  ja: 標準入力からデータを取り込むターミナル/コンソール用のリアルタイムプロットツール
+  ko: stdin에서 데이터를 입력받는 터미널/콘솔용 실시간 그래프 도구
+  pl: narzędzie do rysowania wykresów w czasie rzeczywistym dla terminala/konsoli z danymi ze standardowego wejścia
+  pt: um utilitário de plotagem em tempo real para terminal/console com dados de entrada de stdin
+  ro: un utilitar de trasare în timp real pentru terminal/consolă cu date de intrare de la stdin
+  ru: утилита построения графиков в реальном времени для терминала/консоли с данными из стандартного ввода
+  th: เครื่องมือวาดกราฟแบบเรียลไทม์สำหรับเทอร์มินัล/คอนโซล โดยรับข้อมูลจาก stdin
+  tr: standart girdiden veri alan terminal/konsol için gerçek zamanlı grafik çizme aracı
+  uk: утиліта побудови графіків у реальному часі для термінала/консолі з даними зі стандартного вводу
+  vi: tiện ích vẽ đồ thị thời gian thực cho terminal/bảng điều khiển với dữ liệu đầu vào từ stdin
 x:
   source: https://github.com/tenox7/ttyplot
   apt: ttyplot

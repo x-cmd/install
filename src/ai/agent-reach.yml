@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 给 AI Agent 装上互联网之眼，一键安装并打通多个平台的内容阅读与搜索能力
   en: Equip AI agents with read and search access to content across multiple internet platforms
+  cs: Vybavte AI agenty přístupem ke čtení a vyhledávání obsahu na různých internetových platformách
+  de: KI-Agenten Lese- und Suchzugriff auf Inhalte über mehrere Internetplattformen geben
+  es: Equipa a los agentes de IA con acceso de lectura y búsqueda a contenido en varias plataformas de internet
+  fr: Donne aux agents IA un accès en lecture et en recherche au contenu de plusieurs plateformes internet
+  id: Beri agen AI kemampuan membaca dan mencari konten di berbagai platform internet
+  it: Fornisci agli agenti IA accesso in lettura e ricerca ai contenuti di diverse piattaforme internet
+  ja: 複数のインターネットプラットフォームのコンテンツを読み取り、検索できる機能をAIエージェントに与えます
+  ko: 여러 인터넷 플랫폼의 콘텐츠를 읽고 검색할 수 있는 접근 권한을 AI 에이전트에 부여합니다
+  pl: Wyposaż agentów AI w dostęp do odczytu i wyszukiwania treści na wielu platformach internetowych
+  pt: Equipe os agentes de IA com acesso de leitura e busca a conteúdos em várias plataformas da internet
+  ro: Echipament agenții AI cu acces de citire și căutare a conținutului de pe multiple platforme internet
+  ru: Дайте ИИ-агентам доступ к чтению и поиску контента на различных интернет-платформах
+  th: ให้เอเจนต์ AI มีสิทธิ์อ่านและค้นหาเนื้อหาจากแพลตฟอร์มอินเทอร์เน็ตหลายแห่ง
+  tr: Yapay zekâ ajanlarına birçok internet platformundaki içeriklere okuma ve arama erişimi sağlar
+  uk: Дайте ІІ-агентам доступ до читання та пошуку контенту на різних інтернет-платформах
+  vi: Trang bị cho agent AI khả năng đọc và tìm kiếm nội dung trên nhiều nền tảng internet
 x:
   source: https://github.com/Panniantong/Agent-Reach
 rule:

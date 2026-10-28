@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: .NET 是免费的、开源的、跨平台的框架，用于构建新式应用和强大的云服务
   en: .NET is the free, open-source, cross-platform framework for building modern apps and powerful cloud services
+  cs: .NET je bezplatný open-source multiplatformní framework pro tvorbu moderních aplikací a výkonných cloudových služeb
+  de: .NET ist das kostenlose, quelloffene, plattformübergreifende Framework zum Erstellen moderner Apps und leistungsfähiger Cloud-Dienste
+  es: .NET es el framework gratuito, de código abierto y multiplataforma para crear aplicaciones modernas y servicios de nube potentes
+  fr: .NET est le framework gratuit, open source et multiplateforme permettant de créer des applications modernes et des services cloud performants
+  id: .NET adalah framework gratis, open-source, lintas platform untuk membangun aplikasi modern dan layanan cloud yang andal
+  it: .NET è il framework gratuito, open source e multipiattaforma per creare app moderne e potentissimi servizi cloud
+  ja: .NET は、モダンなアプリと強力なクラウドサービスを構築するための無料でオープンソースのクロスプラットフォームフレームワークです
+  ko: .NET은 현대적인 앱과 강력한 클라우드 서비스를 구축하기 위한 무료 오픈소스 크로스 플랫폼 프레임워크입니다
+  pl: .NET to bezpłatny, open source'owy, wieloplatformowy framework do budowania nowoczesnych aplikacji i potężnych usług chmurowych
+  pt: .NET é o framework gratuito, de código aberto e multiplataforma para criar aplicativos modernos e serviços de nuvem avançados
+  ro: .NET este frameworkul gratuit, open source și multiplatformă pentru construirea aplicațiilor moderne și a serviciilor cloud puternice
+  ru: .NET — это бесплатный кроссплатформенный фреймворк с открытым исходным кодом для создания современных приложений и мощных облачных сервисов
+  th: .NET คือเฟรมเวิร์กโอเพนซอร์ส ใช้ฟรี รองรับหลายแพลตฟอร์ม สำหรับสร้างแอปสมัยใหม่และบริการคลาวด์ที่ทรงพลัง
+  tr: .NET, modern uygulamalar ve güçlü bulut hizmetleri oluşturmak için ücretsiz, açık kaynaklı, çoklu platformlu bir çerçevedir
+  uk: .NET — це безкоштовний кроссплатформний фреймворк з відкритим кодом для створення сучасних застосунків і потужних хмарних сервісів
+  vi: .NET là framework miễn phí, mã nguồn mở, đa nền tảng để xây dựng ứng dụng hiện đại và dịch vụ đám mây mạnh mẽ
 x:
   source: https://github.com/dotnet/sdk
   yay: dotnet-sdk-bin

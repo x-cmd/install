@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Python 编写的带有 TUI 的任务管理器
   en: Task Manager with a TUI written in Python
+  cs: Správce úkolů s TUI napsaný v Pythonu
+  de: Aufgabenmanager mit TUI, in Python geschrieben
+  es: Gestor de tareas con TUI escrito en Python
+  fr: Gestionnaire de tâches avec TUI écrit en Python
+  id: Manajer tugas dengan TUI yang ditulis dengan Python
+  it: Gestore delle attività con TUI scritto in Python
+  ja: Pythonで書かれたTUI付きタスクマネージャー
+  ko: Python으로 작성된 TUI 작업 관리 도구
+  pl: Menedżer zadań z TUI napisany w Pythonie
+  pt: Gerenciador de tarefas com TUI escrito em Python
+  ro: Manager de sarcini cu TUI scris în Python
+  ru: Менеджер задач с TUI, написанный на Python
+  th: ตัวจัดการงานพร้อม TUI ที่เขียนด้วย Python
+  tr: Python ile yazılmış TUI destekli görev yöneticisi
+  uk: Менеджер завдань з TUI, написаний на Python
+  vi: Trình quản lý công việc có TUI viết bằng Python
 x:
   source: https://github.com/Zaloog/kanban-tui
   pip: kanban-tui

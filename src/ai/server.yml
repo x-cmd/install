@@ -4,6 +4,22 @@ license: 'BSD-3-Clause'
 desc:
   cn: Triton 推理服务器，提供优化的云端和边缘推理方案
   en: 'The Triton Inference Server provides an optimized cloud and edge inferencing solution.'
+  cs: Triton Inference Server poskytuje optimalizované řešení pro cloudové i edge inference.
+  de: Der Triton Inference Server bietet eine optimierte Inferencing-Lösung für Cloud und Edge.
+  es: Triton Inference Server ofrece una solución optimizada de inferencia para la nube y el edge.
+  fr: Le Triton Inference Server fournit une solution d'inférence optimisée pour le cloud et l'edge.
+  id: Triton Inference Server menyediakan solusi inferensi yang dioptimalkan untuk cloud dan edge.
+  it: Triton Inference Server offre una soluzione di inferenza ottimizzata per cloud ed edge.
+  ja: Triton Inference Server は、クラウドとエッジ向けの最適化された推論ソリューションを提供します。
+  ko: Triton Inference Server는 클라우드 및 엣지용으로 최적화된 추론 솔루션을 제공합니다.
+  pl: Triton Inference Server zapewnia zoptymalizowane rozwiązanie do wnioskowania w chmurze i na urządzeniach brzegowych.
+  pt: O Triton Inference Server fornece uma solução de inferência otimizada para nuvem e edge.
+  ro: Triton Inference Server oferă o soluție optimizată de inferență pentru cloud și edge.
+  ru: Triton Inference Server предоставляет оптимизированное решение для инференса в облаке и на edge-устройствах.
+  th: Triton Inference Server ให้บริการโซลูชันการอนุมานที่ปรับให้เหมาะสมสำหรับทั้งคลาวด์และ edge
+  tr: Triton Inference Server, bulut ve edge için optimize edilmiş bir çıkarım çözümü sunar.
+  uk: Triton Inference Server надає оптимізоване рішення для інференсу в хмарі та на edge-пристроях.
+  vi: Triton Inference Server cung cấp giải pháp suy luận tối ưu cho cả cloud và edge.
 x:
   source: https://github.com/NVIDIA/triton-inference-server
   eget: NVIDIA/triton-inference-server

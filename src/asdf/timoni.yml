@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Timoni 是 Kubernetes 的包管理器，由 CUE 提供支持并受到 Helm 的启发
   en: Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm
+  cs: Timoni je správce balíčků pro Kubernetes, poháněný CUE a inspirovaný Helm
+  de: Timoni ist ein Paketmanager für Kubernetes, angetrieben von CUE und inspiriert von Helm
+  es: Timoni es un gestor de paquetes para Kubernetes, impulsado por CUE e inspirado en Helm
+  fr: Timoni est un gestionnaire de paquets pour Kubernetes, propulsé par CUE et inspiré de Helm
+  id: Timoni adalah package manager untuk Kubernetes, didukung oleh CUE dan terinspirasi oleh Helm
+  it: Timoni è un package manager per Kubernetes, basato su CUE e ispirato a Helm
+  ja: Timoni は CUE により動かし、Helm から着想を得た Kubernetes 向けパッケージマネージャーです
+  ko: Timoni는 CUE로 구동되며 Helm에서 영감을 받은 Kubernetes용 패키지 매니저입니다
+  pl: Timoni to menedżer pakietów dla Kubernetes, oparty na CUE i inspirowany przez Helm
+  pt: O Timoni é um gerenciador de pacotes para Kubernetes, com o poder do CUE e inspirado no Helm
+  ro: Timoni este un manager de pachete pentru Kubernetes, susținut de CUE și inspirat de Helm
+  ru: Timoni — менеджер пакетов для Kubernetes, работающий на CUE и вдохновлённый Helm
+  th: Timoni คือตัวจัดการแพ็กเกจสำหรับ Kubernetes ที่ขับเคลื่อนด้วย CUE และได้แรงบันดาลใจจาก Helm
+  tr: Timoni, CUE ile çalışan ve Helm'den esinlenen Kubernetes için bir paket yöneticisidir
+  uk: Timoni — менеджер пакетів для Kubernetes, що працює на CUE та натхненний Helm
+  vi: Timoni là trình quản lý gói cho Kubernetes, được hỗ trợ bởi CUE và lấy cảm hứng từ Helm
 x:
   source: https://github.com/stefanprodan/timoni
   eget: stefanprodan/timoni

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于渲染项目模板的库和命令行实用程序
   en: A library and CLI app for rendering project templates
+  cs: Knihovna a CLI aplikace pro vykreslování šablon projektů
+  de: Eine Bibliothek und CLI-App zum Rendern von Projektvorlagen
+  es: Una biblioteca y aplicación de CLI para renderizar plantillas de proyecto
+  fr: Une bibliothèque et une application CLI pour le rendu de modèles de projet
+  id: Pustaka dan aplikasi CLI untuk merender templat proyek
+  it: Una libreria e un'app CLI per il rendering dei modelli di progetto
+  ja: プロジェクトテンプレートを描画するためのライブラリと CLI アプリ
+  ko: 프로젝트 템플릿을 렌더링하기 위한 라이브러리 및 CLI 앱
+  pl: Biblioteka i aplikacja CLI do renderowania szablonów projektów
+  pt: Uma biblioteca e aplicativo de CLI para renderizar modelos de projeto
+  ro: O bibliotecă și o aplicație CLI pentru randarea șabloanelor de proiect
+  ru: Библиотека и CLI-приложение для рендеринга шаблонов проектов
+  th: ไลบรารีและแอป CLI สำหรับเรนเดอร์เทมเพลตโครงการ
+  tr: Proje şablonlarını işlemek için bir kütüphane ve CLI uygulaması
+  uk: Бібліотека та CLI-застосунок для рендерингу шаблонів проєктів
+  vi: Thư viện và ứng dụng CLI để kết xuất mẫu dự án
 x:
   source: https://github.com/copier-org/copier
   yay: python-copier

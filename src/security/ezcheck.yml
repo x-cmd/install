@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 计算和检查哈希值的简单工具
   en: An easy tool to calculate and check hash
+  cs: Jednoduchý nástroj pro výpočet a kontrolu hashů
+  de: Ein einfaches Tool zum Berechnen und Prüfen von Hashes
+  es: Una herramienta sencilla para calcular y comprobar hashes
+  fr: Un outil simple pour calculer et vérifier les hachages
+  id: Alat sederhana untuk menghitung dan memeriksa hash
+  it: Uno strumento semplice per calcolare e verificare gli hash
+  ja: ハッシュ値の計算と検証ができるシンプルなツール
+  ko: 해시 값을 계산하고 확인하는 간단한 도구
+  pl: Proste narzędzie do obliczania i sprawdzania skrótów
+  pt: Uma ferramenta fácil para calcular e verificar hashes
+  ro: Un instrument simplu pentru calcularea și verificarea hash-urilor
+  ru: Простой инструмент для вычисления и проверки хешей
+  th: เครื่องมือง่าย ๆ สำหรับคำนวณและตรวจสอบค่าแฮช
+  tr: Hash hesaplamak ve denetlemek için kullanışlı bir araç
+  uk: Простий інструмент для обчислення та перевірки хешів
+  vi: Công cụ đơn giản để tính toán và kiểm tra hash
 homepage: https://github.com/Metaphorme/ezcheck
 license: MIT
 x:

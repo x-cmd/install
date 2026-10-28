@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 用于管理非容器化应用的轻量灵活调度与编排工具
   en: 'Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.'
+  cs: Process Compose je jednoduchý a flexibilní plánovač a orchestrátor pro správu aplikací mimo kontejnery.
+  de: Process Compose ist ein einfacher und flexibler Scheduler und Orchestrator zur Verwaltung von Anwendungen ohne Container.
+  es: Process Compose es un planificador y orquestador sencillo y flexible para gestionar aplicaciones no contenidas.
+  fr: Process Compose est un ordonnanceur et orchestrateur simple et flexible pour gérer les applications non conteneurisées.
+  id: Process Compose adalah penjadwal dan orkestrator sederhana serta fleksibel untuk mengelola aplikasi non-kontainer.
+  it: Process Compose è uno scheduler e orchestratore semplice e flessibile per gestire le applicazioni non containerizzate.
+  ja: Process Compose は、コンテナ化されていないアプリケーションを管理するための、シンプルで柔軟なスケジューラ兼オーケストレーターです。
+  ko: Process Compose는 비컨테이너화 애플리케이션을 관리하기 위한 간단하고 유연한 스케줄러이자 오케스트레이터입니다.
+  pl: Process Compose to prosty i elastyczny harmonogramator oraz orkiestrator do zarządzania aplikacjami bez kontenerów.
+  pt: Process Compose é um agendador e orquestrador simples e flexível para gerenciar aplicações não conteinerizadas.
+  ro: Process Compose este un planificator și orchestrator simplu și flexibil pentru gestionarea aplicațiilor necontainerizate.
+  ru: Process Compose — простой и гибкий планировщик и оркестратор для управления приложениями без контейнеризации.
+  th: Process Compose เป็นตัวจัดตารางและตัวประสานงานที่เรียบง่ายและยืดหยุ่นสำหรับจัดการแอปพลิเคชันที่ไม่ได้รันในคอนเทนเนอร์.
+  tr: Process Compose, konteynerleştirilmemiş uygulamaları yönetmek için basit ve esnek bir zamanlayıcı ve orkestratördür.
+  uk: Process Compose — простий і гнучкий планувальник та оркестратор для керування застосунками без контейнеризації.
+  vi: Process Compose là bộ lập lịch và điều phối đơn giản, linh hoạt để quản lý các ứng dụng không chạy trong container.
 x:
   source: https://github.com/F1bonacc1/process-compose
   eget: F1bonacc1/process-compose

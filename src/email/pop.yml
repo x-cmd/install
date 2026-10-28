@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 从你的终端发送电子邮件
   en: Send emails from your terminal
+  cs: Posílejte e-maily ze svého terminálu
+  de: Senden Sie E-Mails aus Ihrem Terminal
+  es: Envía correos electrónicos desde tu terminal
+  fr: Envoyez des courriels depuis votre terminal
+  id: Kirim email dari terminal Anda
+  it: Invia email dal tuo terminale
+  ja: ターミナルからメールを送信する
+  ko: 터미널에서 이메일 보내기
+  pl: Wysyłaj e-maile z terminala
+  pt: Envie emails a partir do seu terminal
+  ro: Trimite e-mailuri din terminalul tău
+  ru: Отправляйте письма из терминала
+  th: ส่งอีเมลจากเทอร์มินัลของคุณ
+  tr: Terminalinizden e-posta gönderin
+  uk: Надсилайте листи зі свого термінала
+  vi: Gửi email ngay từ terminal của bạn
 x:
   source: https://github.com/charmbracelet/pop
   eget: charmbracelet/pop

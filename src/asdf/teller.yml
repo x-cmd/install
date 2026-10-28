@@ -3,6 +3,22 @@ homepage: https://tlr.dev/
 desc:
   cn: Teller 是支持云本地应用程序和多个云提供商的开发人员的生产力秘密管理器
   en: Teller is a productivity secret manager for developers supporting cloud-native apps and multiple cloud providers
+  cs: Teller je produktivní správce tajných údajů pro vývojáře, kteří podporují cloud-native aplikace a více cloudových poskytovatelů
+  de: Teller ist ein produktiver Secret-Manager für Entwickler, die Cloud-Native-Apps und mehrere Cloud-Anbieter unterstützen
+  es: Teller es un gestor de secretos que mejora la productividad de los desarrolladores que admiten aplicaciones nativas de la nube y múltiples proveedores de nube
+  fr: Teller est un gestionnaire de secrets productif pour les développeurs prenant en charge les applications cloud-native et plusieurs fournisseurs de cloud
+  id: Teller adalah pengelola rahasia yang produktif bagi pengembang yang mendukung aplikasi cloud-native dan banyak penyedia cloud
+  it: Teller è un gestore di segreti produttivo per sviluppatori che supportano applicazioni cloud-native e più provider cloud
+  ja: Teller は、クラウドネイティブアプリケーションと複数のクラウドプロバイダーを扱う開発者向けの生産的なシークレットマネージャーです
+  ko: Teller는 클라우드 네이티브 앱과 여러 클라우드 제공자를 지원하는 개발자를 위한 생산적인 비밀 관리자입니다
+  pl: Teller to produktywny menedżer sekretów dla deweloperów wspierających aplikacje cloud-native i wielu dostawców chmury
+  pt: O Teller é um gerenciador de segredos produtivo para desenvolvedores que suportam aplicações cloud-native e vários provedores de nuvem
+  ro: Teller este un manager de secrete productiv pentru dezvoltatori care acceptă aplicații cloud-native și mai mulți furnizori de cloud
+  ru: Teller — это продуктивный менеджер секретов для разработчиков, поддерживающих облачные приложения и нескольких облачных провайдеров
+  th: Teller คือตัวจัดการลับที่เพิ่มประสิทธิภาพสำหรับนักพัฒนาที่รองรับแอปแบบ cloud-native และผู้ให้บริการคลาวด์หลายราย
+  tr: Teller, cloud-native uygulamaları ve birden fazla bulut sağlayıcısını destekleyen geliştiriciler için üretken bir sır yöneticisidir
+  uk: Teller — це продуктивний менеджер секретів для розробників, які підтримують хмарні застосунки та кількох хмарних провайдерів
+  vi: Teller là trình quản lý bí mật giúp nâng cao năng suất cho các nhà phát triển hỗ trợ ứng dụng cloud-native và nhiều nhà cung cấp đám mây
 rule:
   darwin/brew:
     cmd: brew tap spectralops/tap && brew install teller

@@ -3,6 +3,22 @@ homepage: https://github.com/upx/upx
 desc:
   cn: UPX 是一款免费、安全、便携、可扩展、高性能的可执行文件打包工具，适用于多种可执行文件格式。
   en: UPX is a free, secure, portable, extendable, high-performance executable packer for several executable formats.
+  cs: UPX je bezplatný, bezpečný, přenosný, rozšiřitelný a vysoce výkonný nástroj na kompresi spustitelných souborů pro několik formátů spustitelných souborů.
+  de: UPX ist ein kostenloser, sicherer, portabler, erweiterbarer und hochleistungsfähiger Packer für ausführbare Dateien in mehreren Formaten.
+  es: UPX es un empaquetador de ejecutables gratuito, seguro, portable, ampliable y de alto rendimiento para varios formatos de ejecutables.
+  fr: UPX est un packer d'exécutables gratuit, sécurisé, portable, extensible et hautes performances pour plusieurs formats d'exécutables.
+  id: UPX adalah pengepaket executable yang gratis, aman, portabel, dapat diperluas, dan berkinerja tinggi untuk berbagai format executable.
+  it: UPX è un packer di eseguibili gratuito, sicuro, portatile, estendibile e ad alte prestazioni per diversi formati di eseguibili.
+  ja: UPX は、いくつかの実行可能ファイル形式に対応した無料・安全・ポータブル・拡張可能で高性能な実行可能ファイルパッカーです。
+  ko: UPX는 여러 실행 파일 형식을 위한 무료이고 안전한 이식성 높은 확장 가능한 고성능 실행 파일 패커입니다.
+  pl: UPX to darmowy, bezpieczny, przenośny, rozszerzalny i wysoko wydajny pakujący pliki wykonywalne dla kilku formatów plików wykonywalnych.
+  pt: UPX é um empacotador de executáveis gratuito, seguro, portátil, extensível e de alto desempenho para vários formatos de executáveis.
+  ro: UPX este un împachetator de executabile gratuit, sigur, portabil, extensibil și de înaltă performanță pentru mai multe formate de executabile.
+  ru: UPX — бесплатный, безопасный, переносимый, расширяемый высокопроизводительный упаковщик исполняемых файлов для нескольких их форматов.
+  th: UPX เป็นตัวแพ็คไฟล์เรียกทำงานที่ฟรี ปลอดภัย พกพาได้ ขยายได้ และมีประสิทธิภาพสูง สำหรับรูปแบบไฟล์เรียกทำงานหลายแบบ
+  tr: UPX, çeşitli yürütülebilir dosya biçimleri için ücretsiz, güvenli, taşınabilir, genişletilebilir ve yüksek performanslı bir yürütülebilir dosya paketleyicisidir.
+  uk: UPX — це безкоштовний, безпечний, переносний, розширюваний високопродуктивний пакувальник виконуваних файлів для кількох їх форматів.
+  vi: UPX là trình đóng gói tệp thực thi miễn phí, an toàn, có thể mang theo, có thể mở rộng và hiệu năng cao cho nhiều định dạng tệp thực thi.
 x:
   source: https://github.com/upx/upx
   eget: upx/upx

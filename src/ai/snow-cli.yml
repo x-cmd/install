@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 运行在终端的 AI 编程智能体，同时兼容 OpenAI、Gemini 和 Claude
   en: Agentic coding in your terminal — simultaneously compatible with DeepSeek, OpenAI, Gemini, and Claude.
+  cs: Agentní programování ve vašem terminálu — současně kompatibilní s DeepSeek, OpenAI, Gemini a Claude.
+  de: Agentisches Coding in Ihrem Terminal – gleichzeitig kompatibel mit DeepSeek, OpenAI, Gemini und Claude.
+  es: "Programación agéntica en tu terminal: compatible simultáneamente con DeepSeek, OpenAI, Gemini y Claude."
+  fr: Programmation agentique dans votre terminal — compatible simultanément avec DeepSeek, OpenAI, Gemini et Claude.
+  id: Pemrograman agenik di terminal Anda — kompatibel dengan DeepSeek, OpenAI, Gemini, dan Claude sekaligus.
+  it: Programmazione agentica nel tuo terminale — compatibile contemporaneamente con DeepSeek, OpenAI, Gemini e Claude.
+  ja: ターミナルでエージェント型のコーディング — DeepSeek、OpenAI、Gemini、Claude に同時に対応します。
+  ko: 터미널에서 에이전트형 코딩을 수행합니다 — DeepSeek, OpenAI, Gemini, Claude을 동시에 지원합니다.
+  pl: Programowanie agentowe w terminalu — jednoczesna zgodność z DeepSeek, OpenAI, Gemini i Claude.
+  pt: Programação agêntica no seu terminal — simultaneamente compatível com DeepSeek, OpenAI, Gemini e Claude.
+  ro: Programare agentică în terminalul tău — compatibil simultan cu DeepSeek, OpenAI, Gemini și Claude.
+  ru: Агентное программирование прямо в терминале — одновременно совместимо с DeepSeek, OpenAI, Gemini и Claude.
+  th: เขียนโค้ดแบบเอเจนต์ในเทอร์มินัล — รองรับ DeepSeek, OpenAI, Gemini และ Claude ได้พร้อมกัน
+  tr: Terminalinizde ajan tabanlı kodlama — DeepSeek, OpenAI, Gemini ve Claude ile aynı anda uyumlu.
+  uk: Агентне програмування прямо в терміналі — одночасно сумісне з DeepSeek, OpenAI, Gemini та Claude.
+  vi: Lập trình dạng tác nhân ngay trong terminal — đồng thời tương thích với DeepSeek, OpenAI, Gemini và Claude.
 x:
   source: https://github.com/MayDay-wpf/snow-cli
   eget: MayDay-wpf/snow-cli

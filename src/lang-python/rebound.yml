@@ -3,6 +3,22 @@ homepage: https://rebound.readthedocs.io/en/latest/
 desc:
   cn: REBOUND 是一个 N-body 积分器，即一个软件包，用于计算粒子在引力作用下的运动。
   en: REBOUND is an N-body integrator, i.e. a software package that can integrate the motion of particles under the influence of gravity.
+  cs: REBOUND je N-tělový integrátor, tedy softwarový balíček, který umí integrovat pohyb částic pod vlivem gravitace.
+  de: REBOUND ist ein N-Body-Integrator, also ein Softwarepaket, das die Bewegung von Teilchen unter dem Einfluss der Schwerkraft integrieren kann.
+  es: REBOUND es un integrador de N cuerpos, es decir, un paquete de software que puede integrar el movimiento de partículas bajo la influencia de la gravedad.
+  fr: REBOUND est un intégrateur à N corps, c'est-à-dire un logiciel capable d'intégrer le mouvement de particules sous l'influence de la gravité.
+  id: REBOUND adalah integrator N-body, yaitu paket perangkat lunak yang dapat mengintegrasikan gerak partikel di bawah pengaruh gravitasi.
+  it: REBOUND è un integratore N-body, cioè un pacchetto software in grado di integrare il moto delle particelle sotto l'influenza della gravità.
+  ja: REBOUND は N-body 積分器、すなわち重力の影響下にある粒子の運動を積分できるソフトウェアパッケージです。
+  ko: REBOUND는 N-body 적분기로, 중력이 작용하는 입자의 운동을 적분할 수 있는 소프트웨어 패키지입니다.
+  pl: REBOUND to integrator N-ciałowy, czyli pakiet oprogramowania, który potrafi całkować ruch cząstek pod wpływem grawitacji.
+  pt: O REBOUND é um integrador N-corpos, ou seja, um pacote de software que integra o movimento de partículas sob a influência da gravidade.
+  ro: REBOUND este un integrator N-corpi, adică un pachet software care poate integra mișcarea particulelor sub influența gravitației.
+  ru: REBOUND — это N-body интегратор, то есть программный пакет, который может интегрировать движение частиц под действием гравитации.
+  th: REBOUND คือตัวอินทิเกรต N-body ซึ่งเป็นแพ็กเกจซอฟต์แวร์ที่สามารถอินทิเกรตการเคลื่อนที่ของอนุภาคภายใต้แรงโน้มถ่วง
+  tr: REBOUND, yerçekiminin etkisi altındaki parçacıkların hareketini entegre edebilen bir N-gövde entegratörüdür, yani bir yazılım paketidir.
+  uk: REBOUND — це N-тіловий інтегратор, тобто програмний пакет, здатний інтегрувати рух частинок під дією гравітації.
+  vi: REBOUND là bộ tích phân N-body, tức là một gói phần mềm có thể tích phân chuyển động của các hạt dưới tác động của trọng lực.
 rule:
   /pip:
     cmd: pip install rebound

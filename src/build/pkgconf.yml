@@ -3,6 +3,22 @@ homepage: https://github.com/prkgconf/pkgconf
 desc:
   en: pkgconf is a program which helps to configure compiler and linker flags for development libraries
   cn: pkgconf 是一个帮助配置开发库的编译器和链接器标志的程序。
+  cs: pkgconf je program, který pomáhá konfigurovat příznaky kompilátoru a linkeru pro vývojové knihovny
+  de: pkgconf ist ein Programm, das dabei hilft, Compiler- und Linker-Flags für Entwicklungslibraries einzurichten
+  es: pkgconf es un programa que ayuda a configurar las banderas del compilador y del enlazador para bibliotecas de desarrollo
+  fr: pkgconf est un programme qui aide à configurer les options du compilateur et du linker pour les bibliothèques de développement
+  id: pkgconf adalah program yang membantu mengonfigurasi flag kompilator dan linker untuk pustaka pengembangan
+  it: pkgconf è un programma che aiuta a configurare i flag del compilatore e del linker per le librerie di sviluppo
+  ja: pkgconf は、開発ライブラリのコンパイラフラグとリンカフラグを設定助于プログラムです
+  ko: pkgconf는 개발 라이브러리를 위한 컴파일러 및 링커 플래그를 설정하도록 돕는 프로그램입니다
+  pl: pkgconf to program, który pomaga konfigurować flagi kompilatora i linkera dla bibliotek programistycznych
+  pt: pkgconf é um programa que ajuda a configurar flags de compilador e de linker para bibliotecas de desenvolvimento
+  ro: pkgconf este un program care ajută la configurarea flag-urilor de compilator și linker pentru bibliotecile de dezvoltare
+  ru: pkgconf — это программа, которая помогает настраивать флаги компилятора и компоновщика для библиотек разработки
+  th: pkgconf เป็นโปรแกรมที่ช่วยกำหนดค่าแฟล็กของคอมไพเลอร์และลิงเกอร์สำหรับไลบรารีพัฒนา
+  tr: pkgconf, geliştirme kitaplıkları için derleyici ve bağlayıcı bayraklarını yapılandırmaya yardımcı olan bir programdır
+  uk: pkgconf — це програма, яка допомагає налаштовувати прапорці компілятора та компонувальника для бібліотек розробки
+  vi: pkgconf là chương trình giúp cấu hình các cờ trình biên dịch và trình liên kết cho thư viện phát triển
 x:
   source: https://github.com/prkgconf/pkgconf
   brew: pkgconf

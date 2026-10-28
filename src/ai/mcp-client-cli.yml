@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 运行 LLM 提示并实现 MCP 客户端的简易 CLI
   en: A simple CLI to run LLM prompt and implement MCP client.
+  cs: Jednoduchý CLI pro spouštění LLM promptů a implementaci MCP klienta.
+  de: Ein einfaches CLI zum Ausführen von LLM-Prompts und Implementieren eines MCP-Clients.
+  es: Un CLI sencillo para ejecutar prompts de LLM e implementar un cliente MCP.
+  fr: Un CLI simple pour exécuter des prompts LLM et implémenter un client MCP.
+  id: CLI sederhana untuk menjalankan prompt LLM dan mengimplementasikan klien MCP.
+  it: Una CLI semplice per eseguire prompt LLM e implementare un client MCP.
+  ja: LLM プロンプトを実行し MCP クライアントを実装するためのシンプルな CLI。
+  ko: LLM 프롬프트를 실행하고 MCP 클라이언트를 구현하기 위한 간단한 CLI.
+  pl: Prosty CLI do uruchamiania promptów LLM i implementacji klienta MCP.
+  pt: Um CLI simples para executar prompts de LLM e implementar um cliente MCP.
+  ro: Un CLI simplu pentru rularea prompturilor LLM și implementarea unui client MCP.
+  ru: Простой CLI для запуска промптов LLM и реализации клиента MCP.
+  th: CLI อย่างง่ายสำหรับเรียกใช้พรอมต์ LLM และสร้างไคลเอนต์ MCP
+  tr: LLM istemlerini çalıştırmak ve bir MCP istemcisi uygulamak için basit bir CLI.
+  uk: Простий CLI для запуску промптів LLM та реалізації клієнта MCP.
+  vi: CLI đơn giản để chạy prompt LLM và triển khai client MCP.
 x:
   source: https://github.com/adhikasp/mcp-client-cli
   eget: adhikasp/mcp-client-cli

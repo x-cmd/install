@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 管理多个 AI 终端 Agent，如 Claude Code、Codex、OpenCode、Amp
   en: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+  cs: Spravujte více terminálových AI agentů, jako jsou Claude Code, Codex, OpenCode a Amp.
+  de: Verwalten Sie mehrere KI-Terminal-Agents wie Claude Code, Codex, OpenCode und Amp.
+  es: Gestiona varios agentes de terminal de IA como Claude Code, Codex, OpenCode y Amp.
+  fr: Gérez plusieurs agents IA en terminal comme Claude Code, Codex, OpenCode et Amp.
+  id: Kelola beberapa agen terminal AI seperti Claude Code, Codex, OpenCode, dan Amp.
+  it: Gestisci più agenti terminale IA come Claude Code, Codex, OpenCode e Amp.
+  ja: Claude Code、Codex、OpenCode、Amp などの複数の AI ターミナルエージェントを管理します。
+  ko: Claude Code, Codex, OpenCode, Amp 등 여러 AI 터미널 에이전트를 관리합니다.
+  pl: Zarządzaj wieloma agentami terminalowymi AI, takimi jak Claude Code, Codex, OpenCode i Amp.
+  pt: Gerencie vários agentes de terminal de IA como Claude Code, Codex, OpenCode e Amp.
+  ro: Gestionați mai mulți agenți AI de terminal precum Claude Code, Codex, OpenCode și Amp.
+  ru: Управляйте несколькими терминальными ИИ-агентами, такими как Claude Code, Codex, OpenCode и Amp.
+  th: จัดการเอเจนต์เทอร์มินัล AI หลายตัว เช่น Claude Code, Codex, OpenCode และ Amp
+  tr: Claude Code, Codex, OpenCode ve Amp gibi birden fazla AI terminal ajanını yönetin.
+  uk: Керуйте кількома термінальними ІІ-агентами, такими як Claude Code, Codex, OpenCode та Amp.
+  vi: Quản lý nhiều tác nhân terminal AI như Claude Code, Codex, OpenCode và Amp.
 x:
   source: https://github.com/smtg-ai/claude-squad
   eget: smtg-ai/claude-squad

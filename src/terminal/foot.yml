@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: foot 是一个轻量、快速的 Wayland 终端模拟器，使用 wlroots 构建。
   en: foot is a lightweight, fast Wayland terminal emulator built on wlroots.
+  cs: foot je lehký a rychlý emulátor terminálu Wayland postavený na wlroots.
+  de: foot ist ein leichter, schneller Wayland-Terminalemulator auf Basis von wlroots.
+  es: foot es un emulador de terminal Wayland ligero y rápido basado en wlroots.
+  fr: foot est un émulateur de terminal Wayland léger et rapide basé sur wlroots.
+  id: foot adalah emulator terminal Wayland yang ringan dan cepat, dibangun di atas wlroots.
+  it: foot è un emulatore di terminale Wayland leggero e veloce, basato su wlroots.
+  ja: foot は wlroots をベースとした軽量で高速な Wayland ターミナルエミュレーターです。
+  ko: foot는 wlroots를 기반으로 한 가볍고 빠른 Wayland 터미널 에뮬레이터입니다.
+  pl: foot to lekki i szybki emulator terminala Wayland zbudowany na wlroots.
+  pt: O foot é um emulador de terminal Wayland leve e rápido, construído sobre o wlroots.
+  ro: foot este un emulator de terminal Wayland ușor și rapid, construit pe baza bibliotecii wlroots.
+  ru: foot — лёгкий и быстрый эмулятор терминала Wayland, построенный на wlroots.
+  th: foot คือเทอร์มินัลอีมูเลเตอร์แบบ Wayland ที่เบาและเร็ว สร้างบน wlroots
+  tr: foot, wlroots üzerine kurulmuş hafif ve hızlı bir Wayland terminal emülatörüdür.
+  uk: foot — легкий і швидкий емулятор термінала Wayland, побудований на wlroots.
+  vi: foot là trình giả lập terminal Wayland nhẹ và nhanh, xây dựng trên wlroots.
 x:
   source: https://codeberg.org/dnkl/foot
   apt: foot

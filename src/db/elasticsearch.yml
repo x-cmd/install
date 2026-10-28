@@ -3,6 +3,22 @@ homepage: https://github.com/elastic/elasticsearch
 desc:
   cn: Elasticsearch 是一个分布式、RESTful 风格的搜索和数据分析引擎，同时是可扩展的数据存储和矢量数据库，能够应对日益增多的各种用例
   en: Elasticsearch is a distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases
+  cs: Elasticsearch je distribuovaný engine pro vyhledávání a analýzu dat ve stylu REST, škálovatelný datový sklad a vektorová databáze, schopná zvládnout stále rostoucí počet případů použití
+  de: Elasticsearch ist eine verteilte, RESTful Such- und Analyse-Engine, ein skalierbarer Datenspeicher und eine Vektordatenbank, die eine wachsende Zahl von Anwendungsfällen bewältigen kann
+  es: Elasticsearch es un motor de búsqueda y análisis distribuido con estilo REST, almacén de datos escalable y base de datos vectorial, capaz de atender un número creciente de casos de uso
+  fr: Elasticsearch est un moteur de recherche et d'analyse distribué de style REST, un magasin de données évolutif et une base de données vectorielle capable de répondre à un nombre croissant de cas d'usage
+  id: Elasticsearch adalah mesin pencari dan analitik terdistribusi bergaya REST, penyimpanan data yang dapat diskalakan, dan basis data vektor yang mampu menangani semakin banyak kasus penggunaan
+  it: Elasticsearch è un motore di ricerca e analisi distribuito in stile REST, un archivio dati scalabile e un database vettoriale in grado di gestire un numero crescente di casi d'uso
+  ja: Elasticsearch は分散型の REST スタイル検索・分析エンジンであり、スケーラブルなデータストアとベクトルデータベースとして、増えつつあるユースケースに対応できます
+  ko: Elasticsearch는 분산형 REST 스타일 검색 및 분석 엔진으로, 확장 가능한 데이터 저장소이자 벡터 데이터베이스로, 늘어나는 사용 사례를 처리할 수 있습니다
+  pl: Elasticsearch to rozproszony, oparty na REST silnik wyszukiwania i analityki, skalowalny magazyn danych i baza danych wektorowa, zdolna obsłużyć rosnącą liczbę przypadków użycia
+  pt: O Elasticsearch é um mecanismo distribuído de pesquisa e análise no estilo REST, um armazenamento de dados escalável e um banco de dados vetorial capaz de atender a um número crescente de casos de uso
+  ro: Elasticsearch este un motor de căutare și analiză distribuit, în stil REST, un depozit de date scalabil și o bază de date vectorială, capabilă să gestioneze un număr tot mai mare de cazuri de utilizare
+  ru: Elasticsearch — это распределённый поисковый и аналитический движок в стиле REST, масштабируемое хранилище данных и векторная база данных, способные решать всё больше различных задач
+  th: Elasticsearch คือเอนจินค้นหาและวิเคราะห์แบบกระจายสไตล์ REST คลังข้อมูลที่ปรับขยายได้ และฐานข้อมูลเวกเตอร์ที่รองรับกรณีการใช้งานที่เพิ่มขึ้น
+  tr: Elasticsearch, REST tarzında dağıtık arama ve analiz motoru, ölçeklenebilir veri deposu ve giderek artan kullanım senaryolarını karşılayabilen bir vektör veritabanıdır
+  uk: Elasticsearch — це розподілений пошуковий та аналітичний рушій у стилі REST, масштабоване сховище даних і векторна база даних, здатні розв'язувати дедалі більше різних завдань
+  vi: Elasticsearch là công cụ tìm kiếm và phân tích phân tán theo phong cách REST, kho dữ liệu có thể mở rộng và cơ sở dữ liệu vectơ, có thể đáp ứng ngày càng nhiều trường hợp sử dụng
 x:
   source: https://github.com/elastic/elasticsearch
   apt: apt-transport-https

@@ -3,6 +3,22 @@ homepage: https://github.com/curl/curl
 desc:
   cn: 云本机构建包，将自定义 CA 证书添加到构建和创建的图像
   en: A Cloud Native Buildpack that adds custom CA certificates to a build and a created image
+  cs: Cloud Native Buildpack, který přidává vlastní CA certifikáty do buildu i do vytvořeného obrazu
+  de: Ein Cloud-Native-Buildpack, das benutzerdefinierte CA-Zertifikate zu einem Build und dem erzeugten Image hinzufügt
+  es: Un Buildpack Cloud Native que añade certificados CA personalizados a una compilación y a la imagen creada
+  fr: Un Buildpack Cloud Native qui ajoute des certificats CA personnalisés à une compilation et à l'image créée
+  id: Cloud Native Buildpack yang menambahkan sertifikat CA kustom ke build dan gambar yang dihasilkan
+  it: Un Buildpack Cloud Native che aggiunge certificati CA personalizzati a una build e all'immagine creata
+  ja: Cloud Native Buildpack で、ビルドと作成したイメージにカスタム CA 証明書を追加します
+  ko: 빌드와 생성된 이미지에 사용자 정의 CA 인증서를 추가하는 Cloud Native Buildpack
+  pl: Cloud Native Buildpack, który dodaje niestandardowe certyfikaty CA do kompilacji i utworzonego obrazu
+  pt: Um Buildpack Cloud Native que adiciona certificados CA personalizados à uma compilação e à imagem criada
+  ro: Un Buildpack Cloud Native care adaugă certificate CA personalizate la o compilare și la imaginea creată
+  ru: Cloud Native Buildpack, добавляющий пользовательские сертификаты CA в сборку и в созданный образ
+  th: Cloud Native Buildpack ที่เพิ่มใบรับรอง CA แบบกำหนดเองเข้าสู่บิลด์และอิมเมจที่สร้างขึ้น
+  tr: Bir derlemeye ve oluşturulan imaja özel CA sertifikaları ekleyen Cloud Native Buildpack
+  uk: Cloud Native Buildpack, який додає власні сертифікати CA до збірки та створеного образу
+  vi: Cloud Native Buildpack thêm các chứng thư CA tùy chỉnh vào quá trình build và image được tạo ra
 x:
   source: https://github.com/curl/curl
   eget: curl/curl

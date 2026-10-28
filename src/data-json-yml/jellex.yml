@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个使用 Python 语法过滤 JSON 和 JSON Lines 数据的 TUI
   en: A TUI to filter JSON and JSON Lines data with Python syntax.
+  cs: TUI pro filtrování dat JSON a JSON Lines pomocí syntaxe Python.
+  de: Eine TUI zum Filtern von JSON- und JSON-Lines-Daten mit Python-Syntax.
+  es: Una TUI para filtrar datos JSON y JSON Lines con sintaxis de Python.
+  fr: Une TUI pour filtrer des données JSON et JSON Lines avec une syntaxe Python.
+  id: TUI untuk memfilter data JSON dan JSON Lines dengan sintaks Python.
+  it: Una TUI per filtrare dati JSON e JSON Lines con sintassi Python.
+  ja: Python 構文で JSON と JSON Lines データをフィルタリングする TUI です。
+  ko: Python 구문으로 JSON 및 JSON Lines 데이터를 필터링하는 TUI
+  pl: TUI do filtrowania danych JSON i JSON Lines za pomocą składni Pythona.
+  pt: Uma TUI para filtrar dados JSON e JSON Lines com sintaxe Python.
+  ro: O interfață TUI pentru filtrarea datelor JSON și JSON Lines cu sintaxă Python.
+  ru: TUI для фильтрации данных JSON и JSON Lines с использованием синтаксиса Python.
+  th: TUI สำหรับกรองข้อมูล JSON และ JSON Lines ด้วยไวยากรณ์ Python
+  tr: JSON ve JSON Lines verilerini Python sözdizimiyle filtrelemek için bir TUI.
+  uk: TUI для фільтрації даних JSON і JSON Lines із синтаксисом Python.
+  vi: Một TUI để lọc dữ liệu JSON và JSON Lines bằng cú pháp Python.
 x:
   source: https://github.com/kellyjonbrazil/jellex
   yay: jellex

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 `git` 命令的终端 UI
   en: A simple terminal UI for `git` commands
+  cs: Jednoduché terminálové UI pro příkazy `git`
+  de: Eine einfache Terminal-UI für `git`-Befehle
+  es: Una sencilla interfaz de terminal para comandos `git`
+  fr: Une interface terminal simple pour les commandes `git`
+  id: UI terminal sederhana untuk perintah `git`
+  it: Una semplice UI da terminale per i comandi `git`
+  ja: "`git` コマンド用のシンプルな端末 UI"
+  ko: "`git` 명령을 위한 간단한 터미널 UI"
+  pl: Prosty interfejs terminala dla poleceń `git`
+  pt: Uma interface de terminal simples para comandos `git`
+  ro: O interfață de terminal simplă pentru comenzi `git`
+  ru: Простой терминальный интерфейс для команд `git`
+  th: UI เทอร์มินัลอย่างง่ายสำหรับคำสั่ง `git`
+  tr: "`git` komutları için basit bir terminal arayüzü"
+  uk: Простий термінальний інтерфейс для команд `git`
+  vi: Giao diện terminal đơn giản cho các lệnh `git`
 x:
   source: https://github.com/jesseduffield/lazygit
   eget: jesseduffield/lazygit

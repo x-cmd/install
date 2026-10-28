@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 提供一组开源即插即用的模块，用于构建与区块链协议和去中心化应用交互的 AI Agent
   en: 'Provides a collection of open-source, plug-and-play modules for building AI agents that interact with blockchain protocols and decentralized applications.'
+  cs: Poskytuje sadu open-source modulů plug-and-play pro tvorbu AI agentů, kteří interagují s blockchain protokoly a decentralizovanými aplikacemi.
+  de: Stellt eine Sammlung quelloffener Plug-and-Play-Module bereit, um KI-Agenten zu entwickeln, die mit Blockchain-Protokollen und dezentralen Anwendungen interagieren.
+  es: Proporciona una colección de módulos de código abierto listos para usar para crear agentes de IA que interactúan con protocolos blockchain y aplicaciones descentralizadas.
+  fr: Fournit une collection de modules open source prêts à l'emploi pour créer des agents IA qui interagissent avec des protocoles blockchain et des applications décentralisées.
+  id: Menyediakan kumpulan modul open-source plug-and-play untuk membangun agen AI yang berinteraksi dengan protokol blockchain dan aplikasi terdesentralisasi.
+  it: Fornisce una raccolta di moduli open source pronti all'uso per creare agenti AI che interagiscono con protocolli blockchain e applicazioni decentralizzate.
+  ja: blockchain プロトコルや分散型アプリケーションと相互作用する AI エージェントを構築するためのオープンソースの plug-and-play モジュール群を提供します。
+  ko: 블록체인 프로토콜 및 분산형 애플리케이션과 상호작용하는 AI 에이전트를 만들기 위한 오픈소스 플러그 앤 플레이 모듈 모음을 제공합니다.
+  pl: Zestaw modułów open source typu plug-and-play do tworzenia agentów AI współpracujących z protokołami blockchain i aplikacjami zdecentralizowanymi.
+  pt: Fornece uma coleção de módulos de código aberto prontos para uso para criar agentes de IA que interagem com protocolos blockchain e aplicativos descentralizados.
+  ro: Oferă o colecție de module open source de tip plug-and-play pentru construirea agenților AI care interacționează cu protocoale blockchain și aplicații decentralizate.
+  ru: Предоставляет набор открытых готовых к использованию модулей для создания ИИ-агентов, взаимодействующих с блокчейн-протоколами и децентрализованными приложениями.
+  th: มีชุดโมดูลโอเพนซอร์สแบบเสียบได้ทันทีสำหรับสร้างเอเจนต์ AI ที่โต้ตอบกับโปรโตคอลบล็อกเชนและแอปกระจายศูนย์
+  tr: Blok zinciri protokolleri ve merkezi olmayan uygulamalarla etkileşime giren AI ajanları geliştirmek için açık kaynaklı, eklenebilir modüller koleksiyonu sunar.
+  uk: Надає набір відкритих модулів plug-and-play для створення ІІ-агентів, які взаємодіють з блокчейн-протоколами та децентралізованими застосунками.
+  vi: Cung cấp bộ sưu tập mô-đun mã nguồn mở dùng ngay để xây dựng tác nhân AI tương tác với giao thức blockchain và ứng dụng phi tập trung.
 x:
   source: https://github.com/BankrBot/skills
   eget: BankrBot/skills

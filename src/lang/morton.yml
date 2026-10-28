@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: Morton 编码（Z 阶曲线）库——把多维坐标映射成一维，加速空间索引与范围查询。
   en: Morton encoding (Z-order curve) library — maps multi-dimensional coordinates to one dimension for faster spatial indexing and range queries.
+  cs: Knihovna kódování Morton (Z-order křivka) — mapuje vícerozměrné souřadnice do jedné dimenze pro rychlejší prostorové indexování a dotazy na rozsah.
+  de: Bibliothek für Morton-Kodierung (Z-Order-Kurve) — bildet mehrdimensionale Koordinaten auf eine Dimension ab, für schnellere räumliche Indizierung und Bereichsabfragen.
+  es: "Biblioteca de codificación Morton (curva Z-order): convierte coordenadas multidimensionales en una dimensión para acelerar la indexación espacial y las consultas por rango."
+  fr: Bibliothèque de codage de Morton (courbe Z-order) — projette des coordonnées multidimensionnelles sur une dimension pour accélérer l'indexation spatiale et les requêtes de plage.
+  id: Pustaka enkode Morton (kurva Z-order) — memetakan koordinat multidimensi ke satu dimensi untuk mempercepat indeks spasial dan kueri rentang.
+  it: Libreria di codifica Morton (curva Z-order) — mappa le coordinate multidimensionali su una dimensione per accelerare l'indicizzazione spaziale e le query di intervallo.
+  ja: Morton エンコーディング (Z 順序曲線) ライブラリ — 多次元座標を 1 次元にマッピングし、空間インデックスと範囲クエリを高速化します。
+  ko: Morton 인코딩(Z-order 곡선) 라이브러리 — 다차원 좌표를 1차원으로 매핑해 공간 인덱싱과 범위 쿼리를 더 빠르게 처리합니다.
+  pl: Biblioteka kodowania Mortona (krzywa Z-order) — mapuje współrzędne wielowymiarowe na jedną wymiarową, przyspieszając indeksowanie przestrzenne i zapytania zakresowe.
+  pt: Biblioteca de codificação Morton (curva Z-order) — mapeia coordenadas multidimensionais para uma dimensão, acelerando a indexação espacial e as consultas de intervalo.
+  ro: Bibliotecă de codificare Morton (curba Z-order) — mapează coordonatele multidimensionale într-o singură dimensiune, pentru indexare spațială și interogări de interval mai rapide.
+  ru: Библиотека кодирования Мортона (кривая порядка Z) — отображает многомерные координаты в одно измерение, ускоряя пространственное индексирование и запросы по диапазону.
+  th: ไลบรารีการเข้ารหัสแบบ Morton (เส้นโค้ง Z-order) — แมปพิกัดหลายมิติให้เป็นมิติเดียว เพื่อเร่งความเร็วในการทำดัชนีเชิงพื้นที่และการค้นหาช่วง
+  tr: Morton kodlama (Z-order eğrisi) kitaplığı — çok boyutlu koordinatları tek boyuta eşler, uzamsal dizinleme ve aralık sorgularını hızlandırır.
+  uk: Бібліотека кодування Мортона (крива порядку Z) — відображає багатовимірні координати в один вимір для швидшого просторового індексування та запитів за діапазоном.
+  vi: Thư viện mã hóa Morton (đường cong thứ tự Z) — ánh xạ tọa độ nhiều chiều về một chiều để tăng tốc lập chỉ mục không gian và truy vấn khoảng.
 x:
   source: https://github.com/jart/morton
   eget: jart/morton

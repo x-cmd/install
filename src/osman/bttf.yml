@@ -4,6 +4,22 @@ license: 'Unlicense'
 desc:
   cn: 用于日期时间运算、解析与格式化的命令行工具
   en: 'A command line tool for datetime arithmetic, parsing, formatting and more.'
+  cs: Nástroj příkazové řádky pro aritmetiku s datem a časem, analýzu, formátování a další
+  de: Ein Kommandozeilenwerkzeug für Datums- und Zeit-Arithmetik, Parsing, Formatierung und mehr.
+  es: Una herramienta de línea de comandos para aritmética de fecha y hora, análisis, formateo y más.
+  fr: Un outil en ligne de commande pour le calcul de dates et d'heures, l'analyse, le formatage et plus encore.
+  id: Alat baris perintah untuk aritmetika datetime, pemarsing, pemformatan, dan lainnya.
+  it: Uno strumento da riga di comando per aritmetica di data e ora, parsing, formattazione e altro.
+  ja: 日時演算、解析、フォーマットなどを行うコマンドラインツール
+  ko: 날짜/시간 계산, 파싱, 서식 지정 등을 위한 명령줄 도구
+  pl: Narzędzie wiersza poleceń do arytmetyki dat i czasu, parsowania, formatowania i nie tylko.
+  pt: Uma ferramenta de linha de comando para aritmética de data e hora, análise, formatação e muito mais.
+  ro: Un instrument de linie de comandă pentru aritmetică de dată și oră, parsare, formatare și multe altele.
+  ru: Инструмент командной строки для арифметики с датой и временем, разбора, форматирования и многого другого.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับการคำนวณ วิเคราะห์ และจัดรูปแบบวันที่และเวลา
+  tr: Tarih ve saat aritmetiği, ayrıştırma, biçimlendirme ve daha fazlası için bir komut satırı aracı
+  uk: Інструмент командного рядка для арифметики з датою й часом, розбору, форматування та іншого.
+  vi: Công cụ dòng lệnh cho phép tính toán, phân tích và định dạng ngày giờ
 x:
   source: https://github.com/BurntSushi/bttf
   eget: BurntSushi/bttf

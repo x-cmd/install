@@ -4,6 +4,22 @@ license: 'CC0-1.0'
 desc:
   cn: 用于 BitTorrent 种子文件创建、校验等的命令行工具
   en: 'A command-line utility for BitTorrent torrent file creation, verification, and more'
+  cs: Nástroj příkazové řádky pro vytváření a ověřování torrentových souborů BitTorrent a další
+  de: Ein Kommandozeilen-Werkzeug zum Erstellen und Prüfen von BitTorrent-Torrent-Dateien und mehr
+  es: Una utilidad de línea de comandos para la creación y verificación de archivos torrent de BitTorrent y más
+  fr: Un utilitaire en ligne de commande pour la création et la vérification de fichiers torrent BitTorrent et plus encore
+  id: Utilitas baris perintah untuk pembuatan, verifikasi file torrent BitTorrent, dan banyak lagi
+  it: Un'utilità da riga di comando per la creazione e la verifica di file torrent BitTorrent e altro
+  ja: BitTorrent のトレントファイルの作成・検証などを行うコマンドラインユーティリティ
+  ko: BitTorrent 토렌트 파일 생성, 검증 등을 위한 명령줄 유틸리티
+  pl: Narzędzie wiersza poleceń do tworzenia i weryfikacji plików torrent BitTorrent i nie tylko
+  pt: Um utilitário de linha de comando para criação e verificação de arquivos torrent do BitTorrent e mais
+  ro: O utilitar de linie de comand pentru crearea și verificarea fișierelor torrent BitTorrent și multe altele
+  ru: Утилита командной строки для создания и проверки торрент-файлов BitTorrent и не только
+  th: ยูทิลิตีบรรทัดคำสั่งสำหรับการสร้างและตรวจสอบไฟล์ทอร์เรนต์ของ BitTorrent และอื่น ๆ
+  tr: BitTorrent torrent dosyası oluşturma, doğrulama ve fazlası için komut satırı aracı
+  uk: Утиліта командного рядка для створення та перевірки торрент-файлів BitTorrent та іншого
+  vi: Tiện ích dòng lệnh để tạo và xác minh tệp torrent BitTorrent cùng nhiều hơn nữa
 x:
   source: https://github.com/casey/intermodal
   eget: casey/intermodal

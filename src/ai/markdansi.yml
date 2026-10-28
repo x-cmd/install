@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于 Micro-Mark 的 TypeScript Markdown 转 ANSI 工具，支持 URL、表格、列表等
   en: Markdown to ANSII in TypeScript based on Micro-Mark, with support for URLs, tables, lists and more.
+  cs: Markdown na ANSI v TypeScript založený na Micro-Marku, s podporou URL, tabulek, seznamů a dalšího.
+  de: Markdown zu ANSI in TypeScript auf Basis von Micro-Mark, mit Unterstützung für URLs, Tabellen, Listen und mehr.
+  es: Markdown a ANSI en TypeScript basado en Micro-Mark, con soporte para URLs, tablas, listas y más.
+  fr: Markdown vers ANSI en TypeScript basé sur Micro-Mark, avec prise en charge des URL, des tableaux, des listes et plus encore.
+  id: Markdown ke ANSI di TypeScript berbasis Micro-Mark, dengan dukungan untuk URL, tabel, daftar, dan lainnya.
+  it: Markdown in ANSI in TypeScript basato su Micro-Mark, con supporto per URL, tabelle, elenchi e altro.
+  ja: Micro-Mark に基づく TypeScript 製 Markdown から ANSI への変換ツール。URL、表、リストなどをサポート。
+  ko: Micro-Mark 기반 TypeScript Markdown-to-ANSI 도구로 URL, 표, 목록 등을 지원합니다.
+  pl: Markdown do ANSI w TypeScript oparty na Micro-Mark, z obsługą adresów URL, tabel, list i nie tylko.
+  pt: Markdown para ANSI em TypeScript baseado em Micro-Mark, com suporte a URLs, tabelas, listas e mais.
+  ro: Markdown în ANSI în TypeScript bazat pe Micro-Mark, cu suport pentru URL-uri, tabele, liste și multe altele.
+  ru: Markdown в ANSI на TypeScript на основе Micro-Mark, с поддержкой URL, таблиц, списков и многого другого.
+  th: แปลง Markdown เป็น ANSI ใน TypeScript บนพื้นฐาน Micro-Mark พร้อมรองรับ URL ตาราง รายการ และอื่น ๆ
+  tr: Micro-Mark tabanlı TypeScript ile Markdown'dan ANSI'ye dönüştürme; URL, tablo, liste ve daha fazlası desteklenir.
+  uk: Markdown в ANSI на TypeScript на основі Micro-Mark, з підтримкою URL, таблиць, списків та багато іншого.
+  vi: Chuyển Markdown sang ANSI bằng TypeScript dựa trên Micro-Mark, hỗ trợ URL, bảng, danh sách và nhiều hơn nữa.
 x:
   source: https://github.com/steipete/Markdansi
   eget: steipete/Markdansi

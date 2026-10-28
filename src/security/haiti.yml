@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 哈希类型识别工具（CLI 和库）
   en: ':key: Hash type identifier (CLI & lib)'
+  cs: ":key: Identifikátor typu hashe (CLI a knihovna)"
+  de: ":key: Hash-Typ-Identifikator (CLI und Bibliothek)"
+  es: ":key: Identificador de tipo de hash (CLI y biblioteca)"
+  fr: ":key: Identificateur de type de hash (CLI et bibliothèque)"
+  id: ":key: Pengenalisis tipe hash (CLI dan pustaka)"
+  it: ":key: Identificatore di tipo di hash (CLI e libreria)"
+  ja: ":key: ハッシュ種類の識別ツール（CLI とライブラリ）"
+  ko: ":key: 해시 유형 식별 도구(CLI 및 라이브러리)"
+  pl: ":key: Identyfikator typu skrótu (CLI i biblioteka)"
+  pt: ":key: Identificador de tipo de hash (CLI e biblioteca)"
+  ro: ":key: Identificator de tip de hash (CLI și bibliotecă)"
+  ru: ":key: Определитель типа хеша (CLI и библиотека)"
+  th: ":key: ตัวระบุประเภทแฮช (CLI และไลบรารี)"
+  tr: ":key: Karma türü belirleyici (CLI ve kütüphane)"
+  uk: ":key: Визначачник типу хешу (CLI та бібліотека)"
+  vi: ":key: Công cụ nhận diện loại hash (CLI và thư viện)"
 x:
   source: https://github.com/noraj/haiti
   eget: noraj/haiti

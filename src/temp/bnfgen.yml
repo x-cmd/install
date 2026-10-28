@@ -3,6 +3,22 @@ homepage: https://baturin.org/tools/bnfgen/
 desc:
   cn: BNFGen 是一个基于上下文无关语法的随机文本生成器
   en: BNFGen is a random text generator based on context-free grammars
+  cs: BNFGen je generátor náhodného textu založený na bezkontextových gramatikách
+  de: BNFGen ist ein Zufallstext-Generator, der auf kontextfreien Grammatiken basiert
+  es: BNFGen es un generador de texto aleatorio basado en gramáticas libres de contexto
+  fr: BNFGen est un générateur de texte aléatoire fondé sur des grammaires hors contexte
+  id: BNFGen adalah generator teks acak berbasis tata bahasa bebas konteks
+  it: BNFGen è un generatore di testo casuale basato su grammatiche libere dal contesto
+  ja: BNFGen は文脈自由文法に基づくランダムテキスト生成器です
+  ko: BNFGen은 문맥 자유 문법에 기반한 무작위 텍스트 생성기입니다
+  pl: BNFGen to generator losowej tekstu oparty na gramatykach bezkontekstowych
+  pt: BNFGen é um gerador de texto aleatório baseado em gramáticas livres de contexto
+  ro: BNFGen este un generator de text aleatoriu bazat pe gramatici fără context
+  ru: BNFGen — это генератор случайного текста на основе контекстно-свободных грамматик
+  th: BNFGen คือตัวสร้างข้อความแบบสุ่มที่อาศัยไวยากรณ์ไม่ขึ้นกับบริบท
+  tr: BNFGen, bağlamdan bağımsız gramerlere dayanan bir rastgele metin oluşturucudur
+  uk: BNFGen — це генератор випадкового тексту на основі контекстно-вільних граматик
+  vi: BNFGen là trình tạo văn bản ngẫu nhiên dựa trên ngữ pháp phi ngữ cảnh
 rule:
   /opam:
     cmd: opam install bnfgen

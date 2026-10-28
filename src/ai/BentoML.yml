@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 构建 AI 应用与模型的最简方式，支持模型推理 API、任务队列、LLM 应用与多模型流水线
   en: 'The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!'
+  cs: Nejjednodušší způsob, jak poskytovat AI aplikace a modely – tvořte API pro inferenci modelů, fronty úloh, LLM aplikace, pipeline více modelů a další!
+  de: Der einfachste Weg, KI-Apps und Modelle bereitzustellen – APIs für Modellinferenz, Job-Warteschlangen, LLM-Apps, Multi-Modell-Pipelines und mehr erstellen!
+  es: "La forma más fácil de servir aplicaciones y modelos de IA: crea API de inferencia de modelos, colas de trabajos, aplicaciones LLM, tuberías multimodelo y más."
+  fr: "Le moyen le plus simple de servir des applications et des modèles IA : créez des API d'inférence de modèles, des files de tâches, des applications LLM, des pipelines multi-modèles et plus encore !"
+  id: Cara termudah untuk menyajikan aplikasi dan model AI - bangun API inferensi model, antrean pekerjaan, aplikasi LLM, pipeline multi-model, dan banyak lagi!
+  it: "Il modo più semplice per servire app e modelli AI: crea API per l'inferenza dei modelli, code di lavori, app LLM, pipeline multi-modello e altro!"
+  ja: AIアプリとモデルを展開する最も簡単な方法 — モデル推論API、ジョブキュー、LLMアプリ、マルチモデルパイプラインなどを構築できます！
+  ko: AI 앱과 모델을 제공하는 가장 쉬운 방법 - 모델 추론 API, 작업 큐, LLM 앱, 멀티모델 파이프라인 등을 구축하세요!
+  pl: Najłatwiejszy sposób na udostępnianie aplikacji i modeli AI - twórz API do inferencji modeli, kolejki zadań, aplikacje LLM, potoki wielo-modelowe i więcej!
+  pt: A maneira mais fácil de servir aplicativos e modelos de IA - crie APIs de inferência de modelos, filas de trabalhos, aplicativos LLM, pipelines multimodelo e mais!
+  ro: Cel mai simplu mod de a servi aplicații și modele AI - construiește API-uri pentru inferența modelelor, cozi de joburi, aplicații LLM, pipeline-uri multimodel și multe altele!
+  ru: Самый простой способ предоставлять ИИ-приложения и модели — создавайте API для инференса моделей, очереди задач, LLM-приложения, мультимодельные пайплайны и многое другое!
+  th: วิธีที่ง่ายที่สุดในการให้บริการแอปและโมเดล AI - สร้าง API สำหรับการอนุมานโมเดล คิวงาน แอป LLM ไปป์ไลน์หลายโมเดล และอีกมาก!
+  tr: Yapay zekâ uygulamalarını ve modellerini sunmanın en kolay yolu - model çıkarım API'leri, iş kuyrukları, LLM uygulamaları, çoklu model işlem hatları ve daha fazlası oluşturun!
+  uk: Найпростіший спосіб надавати ІІ-застосунки та моделі — створюйте API для інференсу моделей, черги завдань, LLM-застосунки, мультимодельні пайплайни та багато іншого!
+  vi: Cách dễ dàng nhất để phục vụ các ứng dụng và mô hình AI - xây API suy luận mô hình, hàng đợi tác vụ, ứng dụng LLM, pipeline đa mô hình và nhiều hơn nữa!
 x:
   source: https://github.com/bentoml/BentoML
   pip: bentoml

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Homebrew 的交互式 TUI
   en: 'An interactive TUI for Homebrew'
+  cs: Interaktivní TUI pro Homebrew
+  de: Ein interaktives TUI für Homebrew
+  es: Una TUI interactiva para Homebrew
+  fr: Un TUI interactif pour Homebrew
+  id: TUI interaktif untuk Homebrew
+  it: Una TUI interattiva per Homebrew
+  ja: Homebrew 用の対話型 TUI
+  ko: Homebrew를 위한 대화형 TUI
+  pl: Interaktywny TUI dla Homebrew
+  pt: Uma TUI interativa para o Homebrew
+  ro: Un TUI interactiv pentru Homebrew
+  ru: Интерактивный TUI для Homebrew
+  th: TUI แบบโต้ตอบสำหรับ Homebrew
+  tr: Homebrew için etkileşimli bir TUI
+  uk: Інтерактивний TUI для Homebrew
+  vi: TUI tương tác cho Homebrew
 x:
   source: https://github.com/hzqtc/taproom
   eget: hzqtc/taproom

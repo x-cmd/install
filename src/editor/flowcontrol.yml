@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Flow Control：面向程序员的文本编辑器
   en: 'Flow Control: a programmer''s text editor'
+  cs: "Flow Control: textový editor pro programátory"
+  de: "Flow Control: ein Texteditor für Programmierer"
+  es: "Flow Control: un editor de texto para programadores"
+  fr: "Flow Control : un éditeur de texte pour les programmeurs"
+  id: "Flow Control: editor teks untuk programmer"
+  it: "Flow Control: un editor di testo per programmatori"
+  ja: "Flow Control: プログラマー向けのテキストエディタ"
+  ko: "Flow Control: 프로그래머를 위한 텍스트 편집기"
+  pl: "Flow Control: edytor tekstu dla programistów"
+  pt: "Flow Control: um editor de texto para programadores"
+  ro: "Flow Control: un editor de text pentru programatori"
+  ru: "Flow Control: текстовый редактор для программистов"
+  th: "Flow Control: โปรแกรมแก้ไขข้อความสำหรับโปรแกรมเมอร์"
+  tr: "Flow Control: programcılar için metin düzenleyici"
+  uk: "Flow Control: текстовий редактор для програмістів"
+  vi: "Flow Control: trình soạn thảo văn bản dành cho lập trình viên"
 x:
   source: https://github.com/neurocyte/flow
   eget: neurocyte/flow

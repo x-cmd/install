@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: KUbernetes 测试工具(KUTTL)是一个工具包，它使得仅使用 YAML 就可以很容易地测试 KUbernetes 操作符(打开新窗口)
   en: The KUbernetes Test TooL (KUTTL) is a toolkit that makes it easy to test Kubernetes Operators (opens new window), just using YAML
+  cs: KUbernetes Test TooL (KUTTL) je sada nástrojů, která usnadňuje testování operátorů Kubernetes, a to pouze pomocí YAML
+  de: Das KUbernetes Test TooL (KUTTL) ist ein Toolkit, das das Testen von Kubernetes-Operatoren (öffnet neues Fenster) ganz einfach mit YAML ermöglicht
+  es: KUbernetes Test TooL (KUTTL) es un conjunto de herramientas que facilita las pruebas de operadores de Kubernetes (abre una ventana nueva) usando solo YAML
+  fr: KUbernetes Test TooL (KUTTL) est une boîte à outils qui facilite les tests des opérateurs Kubernetes (ouvre une nouvelle fenêtre), en utilisant uniquement YAML
+  id: KUbernetes Test TooL (KUTTL) adalah perangkat welt yang memudahkan pengujian Operator Kubernetes (membuka jendela baru) hanya dengan menggunakan YAML
+  it: KUbernetes Test TooL (KUTTL) è un toolkit che rende facile testare gli operatori Kubernetes (apre una nuova finestra) usando solo YAML
+  ja: KUbernetes Test TooL (KUTTL) は、YAML だけを使って Kubernetes Operator を簡単にテストできるようにするツールキットです
+  ko: KUbernetes Test TooL (KUTTL)은 YAML만 사용하여 Kubernetes Operator를 쉽게 테스트할 수 있도록 하는 도구 모음입니다
+  pl: KUbernetes Test TooL (KUTTL) to zestaw narzędzi ułatwiający testowanie operatorów Kubernetes (otwiera nowe okno) przy użyciu samego YAML
+  pt: KUbernetes Test TooL (KUTTL) é um conjunto de ferramentas que facilita testar Operators do Kubernetes (abre uma nova janela), usando apenas YAML
+  ro: KUbernetes Test TooL (KUTTL) este un set de instrumente care facilitează testarea operatorilor Kubernetes (deschide o fereastră nouă), doar folosind YAML
+  ru: KUbernetes Test TooL (KUTTL) — это набор инструментов, который упрощает тестирование операторов Kubernetes (открывает новое окно), используя только YAML
+  th: KUbernetes Test TooL (KUTTL) เป็นชุดเครื่องมือที่ทำให้การทดสอบ Kubernetes Operator (เปิดหน้าต่างใหม่) ทำได้ง่ายดายเพียงใช้ YAML
+  tr: KUbernetes Test TooL (KUTTL), yalnızca YAML kullanarak Kubernetes operatörlerini (yeni pencere açar) test etmeyi kolaylaştıran bir araç setidir
+  uk: KUbernetes Test TooL (KUTTL) — це набір інструментів, який спрощує тестування операторів Kubernetes (відкриває нове вікно), використовуючи лише YAML
+  vi: KUbernetes Test TooL (KUTTL) là bộ công cụ giúp dễ dàng kiểm thử Operator Kubernetes (mở cửa sổ mới) chỉ với YAML
 x:
   source: https://github.com/kudobuilder/kuttl
   eget: kudobuilder/kuttl

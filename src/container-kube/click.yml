@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Click 是 Kubernetes 的命令行交互控制器。它的目的是快速有效地管理大量的 Kubernetes 集群/对象
   en: Click is the Command Line Interactive Controller for Kubernetes. Its purpose is to manage a large number of Kubernetes clusters/objects quickly and efficiently
+  cs: Click je interaktivní řídicí nástroj příkazové řádky pro Kubernetes. Jeho cílem je rychle a efektivně spravovat velké množství clusterů/objektů Kubernetes
+  de: Click ist der interaktive Command-Line-Controller für Kubernetes. Sein Zweck ist, eine große Anzahl von Kubernetes-Clustern/Objekten schnell und effizient zu verwalten
+  es: Click es el controlador interactivo de línea de comandos para Kubernetes. Su propósito es gestionar una gran cantidad de clusters/objetos de Kubernetes de forma rápida y eficiente
+  fr: Click est le contrôleur interactif en ligne de commande pour Kubernetes. Son but est de gérer rapidement et efficacement un grand nombre de clusters/objets Kubernetes
+  id: Click adalah Command Line Interactive Controller untuk Kubernetes. Tujuannya adalah mengelola banyak cluster/objek Kubernetes dengan cepat dan efisien
+  it: Click è il controller interattivo da riga di comando per Kubernetes. Il suo scopo è gestire rapidamente e in modo efficiente un gran numero di cluster/oggetti Kubernetes
+  ja: Click は Kubernetes のコマンドライン対話型コントローラーです。大量の Kubernetes クラスタ/オブジェクトを迅速かつ効率的に管理することを目的としています。
+  ko: Click은 Kubernetes용 명령줄 대화형 컨트롤러입니다. 목적은 대량의 Kubernetes 클러스터/오브젝트를 빠르고 효율적으로 관리하는 것입니다
+  pl: Click to interaktywny kontroler wiersza poleceń dla Kubernetes. Jego celem jest szybkie i efektywne zarządzanie dużą liczbą klastrów/obiektów Kubernetes
+  pt: O Click é o Controlador Interativo de Linha de Comando para o Kubernetes. Seu propósito é gerenciar um grande número de clusters/objetos do Kubernetes de forma rápida e eficiente
+  ro: Click este controlerul interactiv din linia de comandă pentru Kubernetes. Scopul său este de a gestiona rapid și eficient un număr mare de clustere/obiecte Kubernetes
+  ru: Click — это интерактивный контроллер командной строки для Kubernetes. Его цель — быстро и эффективно управлять большим количеством кластеров/объектов Kubernetes
+  th: Click คือคอนโทรลเลอร์โต้ตอบบนบรรทัดคำสั่งสำหรับ Kubernetes เป้าหมายคือจัดการคลัสเตอร์/อ็อบเจกต์ของ Kubernetes จำนวนมากได้อย่างรวดเร็วและมีประสิทธิภาพ
+  tr: Click, Kubernetes için komut satırı etkileşimli denetleyicisidir. Amacı çok sayıda Kubernetes kümesi/nesnesini hızlı ve verimli bir şekilde yönetmektir
+  uk: Click — це інтерактивний контролер командного рядка для Kubernetes. Його мета — швидко та ефективно керувати великою кількістю кластерів/об'єктів Kubernetes
+  vi: Click là Bộ điều khiển tương tác dòng lệnh cho Kubernetes. Mục đích là quản lý nhanh chóng và hiệu quả số lượng lớn cluster/object Kubernetes
 x:
   source: https://github.com/databricks/click
   eget: databricks/click

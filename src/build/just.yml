@@ -4,6 +4,22 @@ license: CC0-1.0
 desc:
   cn: just 是保存和运行项目特定命令的便捷方法
   en: just is a handy way to save and run project-specific commands
+  cs: just je pohodlný způsob, jak ukládat a spouštět projektové příkazy
+  de: just ist ein praktischer Weg, projektspezifische Befehle zu speichern und auszuführen
+  es: just es una forma práctica de guardar y ejecutar comandos específicos del proyecto
+  fr: just est un moyen pratique de enregistrer et d'exécuter des commandes propres à un projet
+  id: just adalah cara praktis untuk menyimpan dan menjalankan perintah khusus proyek
+  it: just è un modo comodo per salvare ed eseguire comandi specifici del progetto
+  ja: just はプロジェクト固有のコマンドを保存して実行する手軽な方法です
+  ko: just는 프로젝트별 명령을 저장하고 실행하는 편리한 방법입니다
+  pl: just to wygodny sposób na zapisywanie i uruchamianie poleceń specyficznych dla projektu
+  pt: just é uma maneira prática de salvar e executar comandos específicos do projeto
+  ro: just este o modalitate practică de a salva și a rula comenzi specifice proiectului
+  ru: just — удобный способ сохранять и выполнять проектные команды
+  th: just เป็นวิธีที่สะดวกในการบันทึกและรันคำสั่งเฉพาะของโปรเจกต์
+  tr: just, projeye özgü komutları kaydedip çalıştırmanın kullanışlı bir yoludur
+  uk: just — зручний спосіб зберігати та виконувати проєктні команди
+  vi: just là cách tiện lợi để lưu và chạy các lệnh riêng của dự án
 x:
   source: https://github.com/casey/just
   eget: casey/just

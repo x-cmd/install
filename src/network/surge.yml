@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Go 编写的极速 TUI 下载管理器，面向高级用户
   en: 'Blazing fast TUI download manager built in Go for power users'
+  cs: Extrémně rychlý TUI správce stahování napsaný v Go pro pokročilé uživatele
+  de: Blitzschneller TUI-Downloadmanager in Go für Poweruser
+  es: Un gestor de descargas TUI muy rápido escrito en Go para usuarios avanzados
+  fr: Un gestionnaire de téléchargements TUI ultra-rapide écrit en Go pour les utilisateurs avancés
+  id: Pengunduh TUI yang sangat cepat yang ditulis dengan Go untuk pengguna mahir
+  it: Un gestore di download TUI velocissimo scritto in Go per utenti esperti
+  ja: Goで書かれた超高速TUIダウンローダマネージャー。パワユーザー向け
+  ko: Go로 작성된 매우 빠른 TUI 다운로드 관리자, 전문 사용자를 위한
+  pl: Błyskawicznie szybki menedżer pobierania TUI napisany w Go dla zaawansowanych użytkowników
+  pt: Um gerenciador de downloads TUI muito rápido escrito em Go para usuários avançados
+  ro: Un manager de descărcări TUI ultrarapid scris în Go pentru utilizatori avansați
+  ru: Сверхбыстрый TUI-менеджер загрузок на Go для опытных пользователей
+  th: ตัวจัดการดาวน์โหลด TUI ที่รวดเร็วมาก เขียนด้วย Go สำหรับผู้ใช้ขั้นสูง
+  tr: İleri düzey kullanıcılar için Go ile yazılmış çok hızlı bir TUI indirme yöneticisi
+  uk: Надзвичайно швидкий TUI-менеджер завантажень на Go для просунутих користувачів
+  vi: Trình quản lý tải xuống TUI cực nhanh viết bằng Go dành cho người dùng nâng cao
 x:
   source: https://github.com/surge-downloader/surge
   eget: surge-downloader/surge

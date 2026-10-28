@@ -3,6 +3,22 @@ homepage: https://git-annex.branchable.com/
 desc:
   cn: git-annex 是 git 用户命令行界面管理工具
   en: git-annex is a command line interface management tool for git users
+  cs: git-annex je nástroj pro správu příkazového rozhraní pro uživatele git
+  de: git-annex ist ein Kommandozeilen-Managementwerkzeug für git-Benutzer
+  es: git-annex es una herramienta de gestión de la interfaz de línea de comandos para usuarios de git
+  fr: git-annex est un outil de gestion en ligne de commande destiné aux utilisateurs de git
+  id: git-annex adalah alat manajemen antarmuka baris perintah untuk pengguna git
+  it: git-annex è uno strumento di gestione da riga di comando per gli utenti di git
+  ja: git-annexはgitユーザー向けのコマンドライン管理ツールです
+  ko: git-annex는 git 사용자를 위한 명령줄 관리 도구입니다
+  pl: git-annex to narzędzie do zarządzania w wierszu poleceń dla użytkowników git
+  pt: git-annex é uma ferramenta de gerenciamento de linha de comando para usuários do git
+  ro: git-annex este un instrument de management din linia de comandă pentru utilizatorii git
+  ru: git-annex — это инструмент управления из командной строки для пользователей git
+  th: git-annex เป็นเครื่องมือจัดการบรรทัดคำสั่งสำหรับผู้ใช้ git
+  tr: git-annex, git kullanıcıları için komut satırı yönetim aracıdır
+  uk: git-annex — це інструмент керування з командного рядка для користувачів git
+  vi: git-annex là công cụ quản lý dòng lệnh dành cho người dùng git
 rule:
   darwin/brew:
     cmd: brew install git-annex

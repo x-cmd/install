@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于树状结构导航的 Markdown 浏览器（TUI/CLI）
   en: 'A (TUI/CLI) markdown navigator with tree-based structural navigation.'
+  cs: Markdown navigátor (TUI/CLI) se stromovou strukturální navigací.
+  de: Ein (TUI/CLI) Markdown-Navigator mit baumbasierter Struktur-Navigation.
+  es: Un navegador de markdown (TUI/CLI) con navegación estructural basada en árbol.
+  fr: Un navigateur markdown (TUI/CLI) avec une navigation structurelle arborescente.
+  id: Penjelajah markdown (TUI/CLI) dengan navigasi struktural berbasis pohon.
+  it: Un navigatore markdown (TUI/CLI) con navigazione strutturale ad albero.
+  ja: ツリー構造ナビゲーションを備えた (TUI/CLI) markdown ナビゲーター。
+  ko: 트리 구조 탐색을 지원하는 (TUI/CLI) markdown 탐색기.
+  pl: Nawigator markdown (TUI/CLI) z nawigacją strukturalną opartą na drzewie.
+  pt: Um navegador de markdown (TUI/CLI) com navegação estrutural em árvore.
+  ro: Un navigator markdown (TUI/CLI) cu navigare structurală bazată pe arbore.
+  ru: Markdown-навигатор (TUI/CLI) с древовидной структурной навигацией.
+  th: ตัวนำทาง markdown (TUI/CLI) พร้อมการนำทางโครงสร้างแบบต้นไม้
+  tr: Ağaç tabanlı yapısal gezinmeye sahip (TUI/CLI) markdown gezgini.
+  uk: Markdown-навігатор (TUI/CLI) з деревоподібною структурною навігацією.
+  vi: Trình duyệt markdown (TUI/CLI) với điều hướng cấu trúc dạng cây.
 x:
   source: https://github.com/Epistates/treemd
   eget: Epistates/treemd

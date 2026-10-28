@@ -3,6 +3,22 @@ homepage: https://github.com/Homebrew/homebrew-cask-fonts
 desc:
   cn: 字体桶
   en: Casks of fonts
+  cs: Casks s fonty
+  de: Casks mit Schriften
+  es: Casks de fuentes
+  fr: Casks de polices
+  id: Cask font
+  it: Cask di font
+  ja: フォントの Cask
+  ko: 글꼴 Cask
+  pl: Caski z czcionkami
+  pt: Casks de fontes
+  ro: Cask-uri cu fonturi
+  ru: Cask со шрифтами
+  th: Cask ของฟอนต์
+  tr: Yazı tipi cask'ları
+  uk: Cask зі шрифтами
+  vi: Cask phông chữ
 x:
   source: https://github.com/Homebrew/homebrew-cask-fonts
   brew: homebrew/cask-fonts/font-inconsolata

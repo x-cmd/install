@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的交互式 Kubernetes 日志查看器
   en: 'An interactive Kubernetes log viewer for your terminal.'
+  cs: Interaktivní prohlížeč logů Kubernetes pro váš terminál
+  de: Ein interaktiver Kubernetes-Log-Viewer für Ihr Terminal
+  es: Un visor interactivo de registros de Kubernetes para tu terminal
+  fr: Un visualiseur de journaux Kubernetes interactif pour votre terminal
+  id: Penampil log Kubernetes interaktif untuk terminal Anda
+  it: Un visualizzatore di log Kubernetes interattivo per il tuo terminale
+  ja: ターミナル用のインタラクティブな Kubernetes ログビューア
+  ko: 터미널을 위한 대화형 Kubernetes 로그 뷰어
+  pl: Interaktywna przeglądarka logów Kubernetes dla Twojego terminala
+  pt: Um visualizador interativo de logs do Kubernetes para o seu terminal
+  ro: Un vizualizator interactiv de jurnale Kubernetes pentru terminalul tău
+  ru: Интерактивный просмотрщик логов Kubernetes для вашего терминала
+  th: ตัวดูบันทึก Kubernetes แบบโต้ตอบสำหรับเทอร์มินัลของคุณ
+  tr: Terminaliniz için etkileşimli bir Kubernetes günlük görüntüleyici
+  uk: Інтерактивний переглядач журналів Kubernetes для вашого термінала
+  vi: Trình xem log Kubernetes tương tác cho terminal của bạn
 x:
   source: https://github.com/robinovitch61/kl
   eget: robinovitch61/kl

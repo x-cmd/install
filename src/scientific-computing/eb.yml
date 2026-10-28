@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 一个运行命令并使用指数退避（exponential backoff）策略的工具
   en: A tool to run commands with exponential backoff
+  cs: Nástroj pro spouštění příkazů s exponenciálním zpožděním
+  de: Ein Werkzeug zum Ausführen von Befehlen mit exponentiellem Backoff
+  es: Una herramienta para ejecutar comandos con retroceso exponencial
+  fr: Un outil pour exécuter des commandes avec backoff exponentiel
+  id: Alat untuk menjalankan perintah dengan backoff eksponensial
+  it: Uno strumento per eseguire comandi con backoff esponenziale
+  ja: 指数バックオフでコマンドを実行するツール
+  ko: 지수 백오프로 명령을 실행하는 도구
+  pl: Narzędzie do uruchamiania poleceń z wykładniczym backoffem
+  pt: Uma ferramenta para executar comandos com backoff exponencial
+  ro: Un instrument pentru rularea comenzilor cu backoff exponențial
+  ru: Инструмент для запуска команд с экспоненциальной задержкой
+  th: เครื่องมือสำหรับรันคำสั่งด้วยการถอยหลังแบบเอกซ์โพเนนเชียล
+  tr: Üstel geri çekilme ile komut çalıştırmak için bir araç
+  uk: Інструмент для запуску команд з експоненційною затримкою
+  vi: Công cụ chạy lệnh với cơ chế backoff luỹ thừa
 homepage: https://github.com/rye/eb
 license: GPL-3.0
 x:

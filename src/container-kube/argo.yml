@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 适用于 Kubernetes 的开源工具，用于运行工作流、管理集群和正确执行 GitOps
   en: Open source tools for Kubernetes to run workflows, manage clusters, and do GitOps right
+  cs: Open source nástroje pro Kubernetes k provozování workflow, správu clusterů a správné provádění GitOps
+  de: Quelloffene Tools für Kubernetes, um Workflows auszuführen, Cluster zu verwalten und GitOps richtig zu machen
+  es: Herramientas de código abierto para Kubernetes para ejecutar flujos de trabajo, gestionar clústeres y hacer GitOps correctamente
+  fr: Outils open source pour Kubernetes pour exécuter des workflows, gérer des clusters et faire du GitOps correctement
+  id: Alat open source untuk Kubernetes untuk menjalankan workflow, mengelola cluster, dan melakukan GitOps dengan benar
+  it: Strumenti open source per Kubernetes per eseguire workflow, gestire cluster e fare GitOps come si deve
+  ja: Kubernetes 上でワークフローを実行し、クラスタを管理し、GitOps を正しく実行するためのオープンソースツールです。
+  ko: Kubernetes에서 워크플로 실행, 클러스터 관리, 올바른 GitOps 수행을 위한 오픈 소스 도구
+  pl: Narzędzia open source dla Kubernetes do uruchamiania przepływów pracy, zarządzania klastrami i właściwego stosowania GitOps
+  pt: Ferramentas de código aberto para Kubernetes para executar workflows, gerenciar clusters e fazer GitOps corretamente
+  ro: Instrumente open source pentru Kubernetes pentru a rula fluxuri de lucru, a gestiona clustere și a face GitOps corect
+  ru: Открытые инструменты для Kubernetes, чтобы запускать рабочие процессы, управлять кластерами и правильно внедрять GitOps
+  th: เครื่องมือโอเพนซอร์สสำหรับ Kubernetes เพื่อรันเวิร์กโฟล จัดการคลัสเตอร์ และทำ GitOps ได้อย่างถูกต้อง
+  tr: Kubernetes için iş akışlarını çalıştırmak, kümeleri yönetmek ve GitOps'u doğru yapmak üzere açık kaynaklı araçlar
+  uk: Відкриті інструменти для Kubernetes, щоб запускати робочі процеси, керувати кластерами та правильно впроваджувати GitOps
+  vi: Các công cụ mã nguồn mở cho Kubernetes để chạy workflow, quản lý cluster và thực hiện GitOps đúng cách
 x:
   source: https://github.com/argoproj/argo-cd
   eget: argoproj/argo-cd

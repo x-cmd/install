@@ -3,6 +3,22 @@ homepage: https://git.meli-email.org/meli/meli.git
 desc:
   cn: Meli 是一个可配置且可扩展的电子邮件客户端，具有合理的默认设置。
   en: meli is a configurable and extensible e-mail client with sane defaults.
+  cs: meli je konfigurovatelný a rozšiřitelný e-mailový klient se sane defaults.
+  de: meli ist ein konfigurierbarer und erweiterbarer E-Mail-Client mit sinnvollen Standardwerten.
+  es: meli es un cliente de correo electrónico configurable y ampliable con valores predeterminados sensatos.
+  fr: meli est un client de messagerie électronique configurable et extensible avec des valeurs par défaut sensées.
+  id: meli adalah klien surel yang dapat dikonfigurasi dan diperluas dengan default yang masuk akal.
+  it: meli è un client di posta elettronica configurabile ed estensibile con impostazioni predefinite sensate.
+  ja: meli は、妥当なデフォルト設定を持つ設定可能で拡張可能なメールクライアントです。
+  ko: meli는 합리적인 기본값을 갖춘 설정 및 확장 가능한 이메일 클라이언트입니다.
+  pl: meli to konfigurowalny i rozszerzalny klient poczty e-mail z rozsądnymi ustawieniami domyślnymi.
+  pt: O meli é um cliente de e-mail configurável e extensível com padrões de fábrica sensatos.
+  ro: meli este un client de e-mail configurabil și extensibil cu valori implicite rezonabile.
+  ru: meli — настраиваемый и расширяемый почтовый клиент с разумными настройками по умолчанию.
+  th: meli คือไคลเอนต์อีเมลที่กำหนดค่าได้และขยายได้ พร้อมค่าเริ่มต้นที่สมเหตุสมผล
+  tr: meli, makul varsayılanlara sahip yapılandırılabilir ve genişletilebilir bir e-posta istemcisidir.
+  uk: meli — налаштовуваний і розширюваний поштовий клієнт із розумними параметрами за замовчуванням.
+  vi: meli là ứng dụng email có thể cấu hình và mở rộng với các giá trị mặc định hợp lý
 rule:
   /cargo:
     cmd: cargo install meli

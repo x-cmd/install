@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一款自动化工具，可将文档网站、GitHub 代码库和 PDF 文件转换为可用于生产环境的 Claude AI 技能
   en: an automated tool that transforms documentation websites, GitHub repositories, and PDF files into production-ready Claude AI skills.
+  cs: Automatizovaný nástroj, který převádí dokumentační weby, repozitáře GitHub a soubory PDF na produkčně připravené dovednosti Claude AI.
+  de: Ein automatisiertes Tool, das Dokumentationswebsites, GitHub-Repositories und PDF-Dateien in produktionsreife Claude AI Skills umwandelt.
+  es: Una herramienta automatizada que convierte sitios web de documentación, repositorios de GitHub y archivos PDF en habilidades de Claude AI listas para producción.
+  fr: Un outil automatisé qui transforme les sites de documentation, les dépôts GitHub et les fichiers PDF en compétences Claude AI prêtes pour la production.
+  id: Alat otomatis yang mengubah situs dokumentasi, repositori GitHub, dan berkas PDF menjadi skill Claude AI siap produksi.
+  it: Uno strumento automatizzato che trasforma siti di documentazione, repository GitHub e file PDF in skill Claude AI pronti per la produzione.
+  ja: ドキュメントサイト、GitHub リポジトリ、PDF ファイルを本番対応の Claude AI スキルへ変換する自動化ツールです。
+  ko: 문서 사이트, GitHub 저장소, PDF 파일을 프로덕션에 바로 쓸 수 있는 Claude AI 스킬로 변환하는 자동화 도구입니다.
+  pl: Zautomatyzowane narzędzie, które zamienia strony dokumentacji, repozytoria GitHub i pliki PDF w gotowe do produkcji umiejętności Claude AI.
+  pt: Uma ferramenta automatizada que transforma sites de documentação, repositórios do GitHub e arquivos PDF em skills de Claude AI prontas para produção.
+  ro: Un instrument automatizat care transformă site-uri de documentație, repository-uri GitHub și fișiere PDF în skill-uri Claude AI gata de producție.
+  ru: Автоматизированный инструмент, который превращает сайты документации, репозитории GitHub и файлы PDF в готовые к продакшену навыки Claude AI.
+  th: เครื่องมืออัตโนมัติที่เปลี่ยนเว็บไซต์เอกสาร ที่เก็บ GitHub และไฟล์ PDF ให้เป็น skill ของ Claude AI ที่พร้อมใช้งานจริง
+  tr: Belge web sitelerini, GitHub depolarını ve PDF dosyalarını üretime hazır Claude AI becerilerine dönüştüren otomatik bir araç.
+  uk: Автоматизований інструмент, який перетворює сайти документації, репозиторії GitHub та файли PDF на готові до продакшену навички Claude AI.
+  vi: Công cụ tự động biến các trang tài liệu, kho GitHub và tệp PDF thành skill Claude AI sẵn sàng cho môi trường thực.
 x:
   source: https://github.com/yusufkaraaslan/Skill_Seekers
   pip: 'skill-seekers[all-llms]'

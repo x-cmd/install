@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 文档生成器，支持热加载
   en: Document generator, supports hot loading
+  cs: Generátor dokumentace s podporou živého načítání
+  de: Dokumentationsgenerator mit Unterstützung für Hot-Reload
+  es: Generador de documentos compatible con la recarga en caliente
+  fr: Générateur de documentation prenant en charge le rechargement à chaud
+  id: Generator dokumen dengan dukungan hot reload
+  it: Generatore di documentazione con supporto per il ricaricamento a caldo
+  ja: ドキュメント生成ツール、ホットリロードに対応
+  ko: 핫 리로드를 지원하는 문서 생성기
+  pl: Generator dokumentacji z obsługą hot reload
+  pt: Gerador de documentos com suporte a hot reload
+  ro: Generator de documentație cu suport pentru reîncărcare la cald
+  ru: Генератор документации с поддержкой горячей перезагрузки
+  th: ตัวสร้างเอกสารพร้อมรองรับการโหลดใหม่แบบทันที
+  tr: Sıcak yeniden yüklemeyi destekleyen belge oluşturucu
+  uk: Генератор документації з підтримкою гарячого перезавантаження
+  vi: Trình tạo tài liệu có hỗ trợ tải lại nóng
 x:
   source: https://github.com/docsifyjs/docsify-cli#readme
   yay: docsify-cli

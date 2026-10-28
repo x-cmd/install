@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Maven POM 语法检查器
   en: Maven POM syntax checker
+  cs: Kontrolor syntaxe Maven POM
+  de: Maven-POM-Syntaxprüfer
+  es: Verificador de sintaxis de POM de Maven
+  fr: Vérificateur de syntaxe de POM Maven
+  id: Pemeriksa sintaks Maven POM
+  it: Verificatore della sintassi dei POM di Maven
+  ja: Maven POM 構文チェッカー
+  ko: Maven POM 구문 검사기
+  pl: Sprawdzacz składni Maven POM
+  pt: Verificador de sintaxe de POM do Maven
+  ro: Verificator de sintaxă pentru POM Maven
+  ru: Проверка синтаксиса Maven POM
+  th: ตัวตรวจสอบไวยากรณ์ Maven POM
+  tr: Maven POM sözdizimi denetleyicisi
+  uk: Перевіряльник синтаксису Maven POM
+  vi: Trình kiểm tra cú pháp Maven POM
 x:
   source: https://github.com/kordamp/pomchecker
   eget: kordamp/pomchecker

@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: 受 VIM 启发的用于控制台的文件管理器
   en: A VIM-inspired filemanager for the console
+  cs: Správce souborů pro konzoli inspirovaný Vimem
+  de: Ein von Vim inspirierter Dateimanager für die Konsole
+  es: Un gestor de archivos para consola inspirado en Vim
+  fr: Un gestionnaire de fichiers pour console inspiré de Vim
+  id: Manajer file konsol yang terinspirasi Vim
+  it: Un gestore di file per console ispirato a Vim
+  ja: Vim から着想を得たコンソール向けファイルマネージャー
+  ko: Vim에서 영감을 받은 콘솔용 파일 관리자
+  pl: Menedżer plików do konsoli inspirowany Vimem
+  pt: Um gerenciador de arquivos para console inspirado no Vim
+  ro: Un manager de fișiere pentru consolă inspirat de Vim
+  ru: Консольный файловый менеджер, вдохновлённый Vim
+  th: ตัวจัดการไฟล์สำหรับคอนโซลที่ได้แรงบันดาลใจจาก Vim
+  tr: Vim'den esinlenen konsol dosya yöneticisi
+  uk: Консольний файловий менеджер, натхненний Vim
+  vi: Trình quản lý tệp cho console lấy cảm hứng từ Vim
 homepage: https://github.com/ranger/ranger
 license: GPL-3.0
 x:

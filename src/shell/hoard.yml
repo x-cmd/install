@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A command organizer lets you save commands that you often use, but are too complicated or long to remember.
   cn: 命令组织器可以让你保存经常使用的命令，但这些命令太复杂或太长而难以记忆。
+  cs: Organizátor příkazů vám umožní uložit příkazy, které často používáte, ale jsou příliš složité nebo dlouhé, než byste si je pamatovali.
+  de: Ein Befehlsorganisator ermöglicht es Ihnen, Befehle zu speichern, die Sie häufig verwenden, die aber zu kompliziert oder lang sind, um sie sich zu merken.
+  es: Un organizador de comandos te permite guardar los comandos que usas a menudo, pero que son demasiado complejos o largos para memorizar.
+  fr: Un organisateur de commandes vous permet d'enregistrer les commandes que vous utilisez souvent, mais qui sont trop complexes ou trop longues pour être mémorisées.
+  id: Organizer perintah memungkinkan Anda menyimpan perintah yang sering Anda gunakan, tetapi terlalu rumit atau panjang untuk diingat.
+  it: Un organizzatore di comandi ti permette di salvare i comandi che usi spesso, ma che sono troppo complessi o troppo lunghi da ricordare.
+  ja: コマンドの整理ツールを使えば、频繁に使うコマンドを保存できます。ただし複雑すぎたり長すぎて覚えていられないコマンドです。
+  ko: 명령 정리 도구를 사용하면 자주 쓰는 명령을 저장할 수 있습니다. 다만 너무 복잡하거나 길어서 외우기 어려운 명령입니다.
+  pl: Organizator poleceń pozwala zapisywać często używane polecenia, które są jednak zbyt złożone lub zbyt długie, by je zapamiętać.
+  pt: Um organizador de comandos permite salvar os comandos que você usa com frequência, mas que são complexos ou longos demais para memorizar.
+  ro: Un organizator de comenzi vă permite să salvați comenzile pe care le folosiți des, dar care sunt prea complexe sau prea lungi de reținut.
+  ru: Организатор команд позволяет сохранять часто используемые команды, которые слишком сложны или длинны, чтобы их запомнить.
+  th: ตัวจัดระเบียบคำสั่งช่วยให้คุณบันทึกคำสั่งที่ใช้บ่อยได้ แม้ว่าจะซับซ้อนหรือยาวเกินกว่าจะจำได้
+  tr: Komut düzenleyici, sık kullandığınız ancak hatırlamak için fazla karmaşık veya uzun olan komutları kaydetmenizi sağlar.
+  uk: Організатор команд дозволяє зберігати часто використовувані команди, які занадто складні або довгі, щоб їх запам'ятати.
+  vi: Trình sắp xếp lệnh giúp bạn lưu những lệnh thường dùng nhưng quá phức tạp hoặc quá dài để ghi nhớ.
 x:
   source: https://github.com/Hyde46/hoard
   eget: Hyde46/hoard

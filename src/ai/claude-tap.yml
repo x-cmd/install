@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 拦截并检查 Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Hermes 等编码 Agent 的 API 流量
   en: Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
+  cs: Zachytávání a inspekce síťového provozu API kódovacích agentů jako Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi a Hermes v místním prohlížeči trasování.
+  de: Erfasst und inspiziert den API-Traffic von Coding-Agenten wie Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi und Hermes in einem lokalen Trace-Viewer.
+  es: Intercepta e inspecciona el tráfico de API de agentes de codificación como Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi y Hermes en un visor de trazas local.
+  fr: Intercepte et inspecte le trafic API des agents de codage comme Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi et Hermes dans une visionneuse de traces locale.
+  id: Mencegat dan memeriksa lalu lintas API coding agent seperti Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, dan Hermes di penampil jejak lokal.
+  it: Intercetta e ispeziona il traffico API degli agenti di coding come Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi ed Hermes in un visualizzatore di tracce locale.
+  ja: Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi/Kimi Code、Pi、Hermes などのコーディングエージェントの API トラフィックをローカルのトレースビューアで傍受・調査します。
+  ko: Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, Hermes 등 코딩 에이전트의 API 트래픽을 로컬 트레이스 뷰어에서 가로채고 검사합니다.
+  pl: Przechwytywanie i inspekcja ruchu API agentów programistycznych, takich jak Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi i Hermes, w lokalnej przeglądarce śledzenia.
+  pt: Intercepta e inspeciona o tráfego de API de agentes de codificação como Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi e Hermes em um visualizador de rastreamento local.
+  ro: Interceptează și inspectează traficul API al agenților de codare precum Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi și Hermes într-un vizualizator local de urmărire.
+  ru: Перехватывает и анализирует трафик API кодовых агентов, таких как Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi и Hermes, в локальном просмотрщике трассировок.
+  th: ดักและตรวจสอบการรับส่งข้อมูล API ของเอเจนต์เขียนโค้ด เช่น Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi และ Hermes ในตัวดู trace แบบโลคัล
+  tr: Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi ve Hermes gibi kodlama ajanlarının API trafiğini yerel bir izleyicide yakalar ve inceler.
+  uk: Перехоплює та аналізує трафік API кодових агентів, таких як Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi та Hermes, у локальному переглядачі трасувань.
+  vi: Chặn và kiểm tra lưu lượng API của các tác nhân lập trình như Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi và Hermes trong trình xem dấu vết cục bộ.
 x:
   source: https://github.com/liaohch3/claude-tap
   eget: liaohch3/claude-tap

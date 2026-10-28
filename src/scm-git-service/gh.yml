@@ -3,6 +3,22 @@ homepage: https://github.com/cli/cli
 desc:
   cn: GitHub 官方的命令行工具，用于在命令行界面中与 GitHub 进行交互
   en: GitHub's official command line tool is used to interact with GitHub in the Command-line interface
+  cs: Oficiální nástroj příkazové řádky GitHubu, který se používá k interakci s GitHubem v příkazovém řádku
+  de: Das offizielle Befehlszeilenwerkzeug von GitHub wird verwendet, um über die Kommandozeile mit GitHub zu interagieren
+  es: La herramienta oficial de línea de comandos de GitHub se usa para interactuar con GitHub en la interfaz de línea de comandos
+  fr: L'outil de ligne de commande officiel de GitHub est utilisé pour interagir avec GitHub dans l'interface de ligne de commande
+  id: Alat baris perintah resmi GitHub digunakan untuk berinteraksi dengan GitHub melalui antarmuka baris perintah
+  it: Lo strumento ufficiale a riga di comando di GitHub viene usato per interagire con GitHub dall'interfaccia a riga di comando
+  ja: GitHub の公式コマンドラインツールで、コマンドラインから GitHub と対話します
+  ko: GitHub의 공식 명령줄 도구로, 명령줄 인터페이스에서 GitHub과 상호작용합니다
+  pl: Oficjalne narzędzie wiersza poleceń GitHub służy do interakcji z GitHub w interfejsie wiersza poleceń
+  pt: A ferramenta oficial de linha de comando do GitHub é usada para interagir com o GitHub na interface de linha de comando
+  ro: Instrumentul oficial de linie de comandă al GitHub este folosit pentru a interacționa cu GitHub în interfața de linie de comandă
+  ru: Официальный инструмент командной строки GitHub используется для взаимодействия с GitHub из командной строки
+  th: เครื่องมือบรรทัดคำสั่งอย่างเป็นทางการของ GitHub ใช้เพื่อโต้ตอบกับ GitHub ผ่านอินเทอร์เฟซบรรทัดคำสั่ง
+  tr: GitHub'ın resmi komut satırı aracı, komut satırı arayüzünde GitHub ile etkileşim kurmak için kullanılır
+  uk: Офіційний інструмент командного рядка GitHub використовується для взаємодії з GitHub у командному рядку
+  vi: Công cụ dòng lệnh chính thức của GitHub được dùng để tương tác với GitHub trong giao diện dòng lệnh
 license: MIT
 x:
   source: https://github.com/cli/cli

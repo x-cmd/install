@@ -3,6 +3,22 @@ homepage: https://aomedia.googlesource.com/aom/
 desc:
   cn: 用于编码和解码 AV1 视频流的编解码器库
   en: Codec library for encoding and decoding AV1 video streams
+  cs: Knihovna kodeků pro kódování a dekódování video streamů AV1
+  de: Codec-Bibliothek zum Kodieren und Dekodieren von AV1-Videostreams
+  es: Biblioteca de códecs para codificar y decodificar flujos de vídeo AV1
+  fr: Bibliothèque de codecs pour l'encodage et le décodage de flux vidéo AV1
+  id: Pustaka codec untuk mengodekan dan mendekodekan aliran video AV1
+  it: Libreria di codec per codificare e decodificare flussi video AV1
+  ja: AV1 ビデオストリームのエンコードとデコードを行う_codec_ライブラリ
+  ko: AV1 비디오 스트림을 인코딩하고 디코딩하는 코덱 라이브러리
+  pl: Biblioteka kodeków do kodowania i dekodowania strumieni wideo AV1
+  pt: Biblioteca de codecs para codificar e decodificar fluxos de vídeo AV1
+  ro: Bibliotecă de codecuri pentru codificarea și decodificarea fluxurilor video AV1
+  ru: Библиотека кодеков для кодирования и декодирования видеопотоков AV1
+  th: ไลบรารีตัวเข้ารหัสและถอดรหัสสตรีมวิดีโอ AV1
+  tr: AV1 video akışlarını kodlamak ve çözmek için kodek kitaplığı
+  uk: Бібліотека кодеків для кодування та декодування відеопотоків AV1
+  vi: Thư viện codec để mã hóa và giải mã luồng video AV1
 rule:
   darwin/brew:
     cmd: brew install aom

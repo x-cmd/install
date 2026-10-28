@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Bold Brew — Homebrew 的 TUI 管理器
   en: 'Bold Brew (bbrew) - A Homebrew TUI Manager'
+  cs: Bold Brew (bbrew) - TUI správce pro Homebrew
+  de: Bold Brew (bbrew) - Ein Homebrew-TUI-Manager
+  es: Bold Brew (bbrew) - Un gestor TUI para Homebrew
+  fr: Bold Brew (bbrew) - Un gestionnaire TUI pour Homebrew
+  id: Bold Brew (bbrew) - Manajer TUI untuk Homebrew
+  it: Bold Brew (bbrew) - Un gestore TUI per Homebrew
+  ja: Bold Brew (bbrew) - Homebrew の TUI マネージャー
+  ko: Bold Brew (bbrew) - Homebrew용 TUI 관리자
+  pl: Bold Brew (bbrew) - Menedżer TUI dla Homebrew
+  pt: Bold Brew (bbrew) - Um gerenciador TUI para Homebrew
+  ro: Bold Brew (bbrew) - Un manager TUI pentru Homebrew
+  ru: Bold Brew (bbrew) - TUI-менеджер для Homebrew
+  th: Bold Brew (bbrew) - ตัวจัดการ TUI สำหรับ Homebrew
+  tr: Bold Brew (bbrew) - Homebrew için bir TUI yöneticisi
+  uk: Bold Brew (bbrew) - TUI-менеджер для Homebrew
+  vi: Bold Brew (bbrew) - Trình quản lý TUI cho Homebrew
 x:
   source: https://github.com/Valkyrie00/bold-brew
   eget: Valkyrie00/bold-brew

@@ -3,6 +3,22 @@ homepage: https://github.com/maaslalani/nap
 desc:
   cn: 基于终端的代码片段管理器，具有命令行界面 (CLI) 和文本用户界面 (TUI)
   en: A terminal-based code snippet manager with a command-line interface (CLI) and a text-user interface (TUI)
+  cs: Správce úryvků kódu pro terminál s rozhraním příkazové řádky (CLI) a textovým uživatelským rozhraním (TUI)
+  de: Ein terminalbasierter Code-Snippet-Manager mit einer Kommandozeilenschnittstelle (CLI) und einer textbasierten Benutzerschnittstelle (TUI)
+  es: Un gestor de fragmentos de código basado en terminal con una interfaz de línea de comandos (CLI) y una interfaz de usuario de texto (TUI)
+  fr: Un gestionnaire d'extraits de code basé sur le terminal, avec une interface en ligne de commande (CLI) et une interface utilisateur textuelle (TUI)
+  id: Manajer cuplikan kode berbasis terminal dengan antarmuka baris perintah (CLI) dan antarmuka pengguna teks (TUI)
+  it: Un gestore di snippet di codice basato sul terminale con un'interfaccia a riga di comando (CLI) e un'interfaccia utente testuale (TUI)
+  ja: コマンドラインインターフェース (CLI) とテキストユーザーインターフェース (TUI) を備えたターミナルベースのコードスニペットマネージャー
+  ko: 명령줄 인터페이스(CLI)와 텍스트 사용자 인터페이스(TUI)를 갖춘 터미널 기반 코드 스니펫 관리자
+  pl: Terminalowy menedżer fragmentów kodu z interfejsem wiersza poleceń (CLI) i tekstowym interfejsem użytkownika (TUI)
+  pt: Um gerenciador de snippets de código baseado em terminal, com interface de linha de comando (CLI) e interface de usuário de texto (TUI)
+  ro: Un manager de fragmente de cod bazat pe terminal, cu interfață de linie de comandă (CLI) și interfață de utilizator bazată pe text (TUI)
+  ru: Терминальный менеджер фрагментов кода с интерфейсом командной строки (CLI) и текстовым пользовательским интерфейсом (TUI)
+  th: ตัวจัดการข้อมูลโค้ดย่อแบบใช้เทอร์มินัล พร้อมอินเทอร์เฟซบรรทัดคำสั่ง (CLI) และอินเทอร์เฟซผู้ใช้แบบข้อความ (TUI)
+  tr: Komut satırı arayüzü (CLI) ve metin tabanlı kullanıcı arayüzü (TUI) ile terminal tabanlı kod parçacığı yöneticisi
+  uk: Термінальний менеджер фрагментів коду з інтерфейсом командного рядка (CLI) та текстовим інтерфейсом користувача (TUI)
+  vi: Trình quản lý đoạn mã dựa trên terminal với giao diện dòng lệnh (CLI) và giao diện người dùng văn bản (TUI)
 x:
   source: https://github.com/maaslalani/nap
   eget: maaslalani/nap

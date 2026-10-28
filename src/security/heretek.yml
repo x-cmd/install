@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 用于理解海量知识的 GDB TUI 仪表盘
   en: 'GDB TUI Dashboard for the understanding of vast knowledge'
+  cs: GDB TUI Dashboard pro pochopení rozsáhlých znalostí
+  de: GDB-TUI-Dashboard zum Verständnis umfangreichen Wissens
+  es: Panel de TUI de GDB para comprender una vasto cantidad de conocimiento
+  fr: Tableau de bord TUI GDB pour comprendre une vaste quantité de connaissances
+  id: Dasbor TUI GDB untuk memahami pengetahuan yang luas
+  it: Dashboard TUI GDB per comprendere una vasta mole di conoscenza
+  ja: 豊富な知識を理解するための GDB TUI ダッシュボード
+  ko: 방대한 지식을 이해하기 위한 GDB TUI 대시보드
+  pl: Panel GDB TUI do zrozumienia rozległej wiedzy
+  pt: Painel TUI do GDB para compreender uma vasta quantidade de conhecimento
+  ro: Panou TUI GDB pentru înțelegerea cunoștințelor vaste
+  ru: TUI-дашборд GDB для понимания обширных знаний
+  th: แดชบอร์ด GDB TUI สำหรับเข้าใจความรู้ที่กว้างใหญ่
+  tr: Vast bilgiyi anlamak için GDB TUI panosu
+  uk: TUI-дашборд GDB для розуміння широких знань
+  vi: Bảng điều khiển GDB TUI để hiểu rõ tri thức rộng lớn
 x:
   source: https://github.com/wcampbell0x2a/heretek
   eget: wcampbell0x2a/heretek

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 开源机器学习平台，简化分布式训练、超参调优、实验追踪与资源管理，支持 PyTorch 和 TensorFlow
   en: 'Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.'
+  cs: Determined je open-source platforma pro strojové učení, která zjednodušuje distribuovaný trénink, ladění hyperparametrů, sledování experimentů a správu zdrojů. Funguje s PyTorch a TensorFlow.
+  de: Determined ist eine quelloffene Plattform für maschinelles Lernen, die verteiltes Training, Hyperparameter-Tuning, Experiment-Tracking und Ressourcenverwaltung vereinfacht. Funktioniert mit PyTorch und TensorFlow.
+  es: Determined es una plataforma de aprendizaje automático de código abierto que simplifica el entrenamiento distribuido, el ajuste de hiperparámetros, el seguimiento de experimentos y la gestión de recursos. Funciona con PyTorch y TensorFlow.
+  fr: Determined est une plateforme de machine learning open source qui simplifie l'entraînement distribué, le réglage des hyperparamètres, le suivi des expériences et la gestion des ressources. Compatible avec PyTorch et TensorFlow.
+  id: Determined adalah platform machine learning open source yang menyederhanakan pelatihan terdistribusi, penyetelan hyperparameter, pelacakan eksperimen, dan manajemen sumber daya. Bekerja dengan PyTorch dan TensorFlow.
+  it: Determined è una piattaforma di machine learning open source che semplifica l'addestramento distribuito, la messa a punto degli iperparametri, il tracciamento degli esperimenti e la gestione delle risorse. Funziona con PyTorch e TensorFlow.
+  ja: Determined はオープンソースの機械学習プラットフォームで、分散学習、ハイパーパラメータ調整、実験追跡、リソース管理を簡素化します。PyTorch と TensorFlow に対応しています。
+  ko: Determined는 분산 학습, 하이퍼파라미터 튜닝, 실험 추적, 리소스 관리를 단순화하는 오픈소스 기계 학습 플랫폼입니다. PyTorch와 TensorFlow를 지원합니다.
+  pl: Determined to platforma machine learning o otwartym kodzie, która upraszcza trening rozproszony, strojenie hiperparametrów, śledzenie eksperymentów i zarządzanie zasobami. Współpracuje z PyTorch i TensorFlow.
+  pt: O Determined é uma plataforma de aprendizado de máquina de código aberto que simplifica o treinamento distribuído, o ajuste de hiperparâmetros, o rastreamento de experimentos e o gerenciamento de recursos. Funciona com PyTorch e TensorFlow.
+  ro: Determined este o platformă de învățare automată cu sursă deschisă care simplifică antrenarea distribuită, reglarea hiperparametrilor, urmărirea experimentelor și gestionarea resurselor. Funcționează cu PyTorch și TensorFlow.
+  ru: Determined — платформа машинного обучения с открытым исходным кодом, упрощающая распределённое обучение, подбор гиперпараметров, отслеживание экспериментов и управление ресурсами. Работает с PyTorch и TensorFlow.
+  th: Determined คือแพลตฟอร์มการเรียนรู้ของเครื่องแบบโอเพนซอร์สที่ช่วยให้การฝึกแบบกระจาย การปรับจูนไฮเปอร์พารามิเตอร์ การติดตามการทดลอง และการจัดการทรัพยากรง่ายขึ้น รองรับ PyTorch และ TensorFlow
+  tr: Determined, dağıtık eğitimi, hiperparametre ayarını, deney izlemeyi ve kaynak yönetimini kolaylaştıran açık kaynaklı bir makine öğrenmesi platformudur. PyTorch ve TensorFlow ile çalışır.
+  uk: Determined — платформа машинного навчання з відкритим кодом, яка спрощує розподілене навчання, підбір гіперпараметрів, відстеження експериментів і керування ресурсами. Працює з PyTorch і TensorFlow.
+  vi: Determined là nền tảng học máy mã nguồn mở giúp đơn giản hóa huấn luyện phân tán, tinh chỉnh siêu tham số, theo dõi thử nghiệm và quản lý tài nguyên. Hoạt động với PyTorch và TensorFlow.
 x:
   source: https://github.com/determined-ai/determined
   eget: determined-ai/determined

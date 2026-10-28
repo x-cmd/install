@@ -4,6 +4,22 @@ license: other
 desc:
   cn: ByteRover CLI（brv），面向自主编码 Agent 的便携记忆层（原 Cipher）
   en: ByteRover CLI (brv) - The portable memory layer for autonomous coding agents (formerly Cipher)
+  cs: ByteRover CLI (brv) – přenosná vrstva paměti pro autonomní kódovací agenty (dříve Cipher)
+  de: ByteRover CLI (brv) – die portable Speicherebene für autonome Coding-Agents (zuvor Cipher)
+  es: ByteRover CLI (brv) - La capa de memoria portátil para agentes de codificación autónomos (antes Cipher)
+  fr: ByteRover CLI (brv) - La couche de mémoire portable pour les agents de codage autonomes (anciennement Cipher)
+  id: ByteRover CLI (brv) - Lapisan memori portabel untuk agen pengodean otonom (sebelumnya Cipher)
+  it: ByteRover CLI (brv) - Il livello di memoria portatile per gli agenti di codifica autonomi (prima Cipher)
+  ja: ByteRover CLI (brv) - 自律型コーディングエージェントのためのポータブルメモレイヤー（以前の Cipher）
+  ko: ByteRover CLI (brv) - 자율 코딩 에이전트를 위한 휴대용 메모리 계층(이전 Cipher)
+  pl: ByteRover CLI (brv) - Przenośna warstwa pamięci dla autonomicznych agentów kodujących (dawniej Cipher)
+  pt: ByteRover CLI (brv) - A camada de memória portátil para agentes de codificação autônomos (anteriormente Cipher)
+  ro: ByteRover CLI (brv) - Stratul de memorie portabil pentru agenți de codare autonomi (fost Cipher)
+  ru: ByteRover CLI (brv) — переносимый слой памяти для автономных агентов написания кода (ранее Cipher)
+  th: ByteRover CLI (brv) - ชั้นหน่วยความจำแบบพกพาสำหรับเอเจนต์เขียนโค้ดอัตโนมัติ (เดิมชื่อ Cipher)
+  tr: ByteRover CLI (brv) - Otonom kodlama ajanları için taşınabilir bellek katmanı (önceden Cipher)
+  uk: ByteRover CLI (brv) — переносний шар пам'яті для автономних агентів написання коду (раніше Cipher)
+  vi: ByteRover CLI (brv) - Lớp bộ nhớ di động cho các agent lập trình tự trị (trước đây là Cipher)
 x:
   source: https://github.com/campfirein/byterover-cli
   npm: byterover-cli

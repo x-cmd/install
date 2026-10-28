@@ -3,6 +3,22 @@ homepage: http://www.catb.org/~esr/wumpus/
 desc:
   en: Exact clone of the ancient BASIC Hunt the Wumpus game
   cn: 古代 BASIC 狩猎的精确克隆 Wumpus 游戏
+  cs: Přesný klon starověké hry BASIC Hunt the Wumpus
+  de: Exakter Klon des alten BASIC-Spiels Hunt the Wumpus
+  es: Clon exacto del antiguo juego BASIC Hunt the Wumpus
+  fr: Clone exact du vieux jeu BASIC Hunt the Wumpus
+  id: Klon persis dari permainan BASIC klasik Hunt the Wumpus
+  it: Clone esatto del vecchio gioco BASIC Hunt the Wumpus
+  ja: 古い BASIC ゲーム Hunt the Wumpus の完全クローン
+  ko: 고전 BASIC 게임 Hunt the Wumpus의 정확한 복제본
+  pl: Dokładny klon starej gry BASIC Hunt the Wumpus
+  pt: Clone exato do antigo jogo BASIC Hunt the Wumpus
+  ro: Copie exactă a jocului vechi BASIC Hunt the Wumpus
+  ru: Точная копия старинной BASIC-игры Hunt the Wumpus
+  th: โคลนที่แน่นอนของเกม BASIC คลาสสิก Hunt the Wumpus
+  tr: Eski BASIC oyunu Hunt the Wumpus'un birebir kopyası
+  uk: Точна копія стародавньої BASIC-гри Hunt the Wumpus
+  vi: Bản sao chính xác của trò chơi BASIC cổ điển Hunt the Wumpus
 rule:
   darwin/brew:
     cmd: brew install wumpus

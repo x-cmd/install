@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 通过 Grok Build CLI 查询 X/Twitter 数据，并将帖子缓存为 Markdown 文件供 AI Agent 使用
   en: Query X/Twitter data and cache posts as Markdown files using the Grok Build CLI for use by AI agents.
+  cs: Dotazuje se dat X/Twitter a ukládá příspěvky do souborů Markdown pomocí Grok Build CLI pro použití AI agenty.
+  de: Fragt X/Twitter-Daten ab und cached Beiträge mithilfe der Grok Build CLI als Markdown-Dateien zur Nutzung durch KI-Agenten.
+  es: Consulta datos de X/Twitter y almacena publicaciones como archivos Markdown con Grok Build CLI para usarlas en agentes de IA.
+  fr: Interroge les données X/Twitter et met en cache les publications sous forme de fichiers Markdown à l'aide de Grok Build CLI, pour les agents IA.
+  id: Mencari data X/Twitter dan menyimpan post sebagai file Markdown menggunakan Grok Build CLI untuk dipakai oleh agen AI.
+  it: Interroga i dati di X/Twitter e memorizza i post come file Markdown usando Grok Build CLI, per l'uso da parte degli agenti AI.
+  ja: Grok Build CLI を使って X/Twitter のデータを取得し、投稿を Markdown ファイルとしてキャッシュして AI エージェントが利用できるようにします。
+  ko: Grok Build CLI로 X/Twitter 데이터를 조회하고 게시물을 Markdown 파일로 캐시해 AI 에이전트가 사용할 수 있게 합니다.
+  pl: Odpytyuje dane z X/Twittera i zapisuje posty jako pliki Markdown za pomocą Grok Build CLI, na potrzeby agentów AI.
+  pt: Consulta dados do X/Twitter e armazena publicações como arquivos Markdown usando o Grok Build CLI para uso por agentes de IA.
+  ro: Interoghează date din X/Twitter și memorează postările ca fișiere Markdown folosind Grok Build CLI, pentru agenții AI.
+  ru: Запрашивает данные из X/Twitter и кэширует посты в файлы Markdown с помощью Grok Build CLI для использования ИИ-агентами.
+  th: ค้นข้อมูล X/Twitter และแคชโพสต์เป็นไฟล์ Markdown ด้วย Grok Build CLI เพื่อให้ AI agent ใช้งาน
+  tr: Grok Build CLI kullanarak X/Twitter verisini sorgular ve gönderileri AI ajanların kullanması için Markdown dosyaları olarak önbelleğe alır.
+  uk: Запитує дані з X/Twitter і кэшує дописи у файли Markdown за допомогою Grok Build CLI для використання ІІ-агентами.
+  vi: Truy vấn dữ liệu X/Twitter và lưu cache bài viết dưới dạng tệp Markdown bằng Grok Build CLI để các agent AI sử dụng.
 x:
   source: https://github.com/enderzcx/superx
   pip: superx

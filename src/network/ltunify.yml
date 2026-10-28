@@ -3,6 +3,22 @@ homepage: https://github.com/Lekensteyn/ltunify
 desc:
   en: Tool for working with Logitech Unifying receivers and devices (mirror)
   cn: 使用 Logitech 统一接收器和设备（镜像）的工具
+  cs: Nástroj pro práci s přijímači a zařízeními Logitech Unifying (mirror)
+  de: Werkzeug für den Umgang mit Logitech Unifying-Empfängern und -Geräten (Mirror)
+  es: Herramienta para trabajar con receptores y dispositivos Logitech Unifying (mirror)
+  fr: Outil pour gérer les récepteurs et appareils Logitech Unifying (miroir)
+  id: Alat untuk bekerja dengan receiver dan perangkat Logitech Unifying (mirror)
+  it: Strumento per gestire ricevitori e dispositivi Logitech Unifying (mirror)
+  ja: Logitech Unifying 受信機とデバイスを扱うためのツール (mirror)
+  ko: Logitech Unifying 수신기와 장치를 다루는 도구 (mirror)
+  pl: Narzędzie do obsługi odbiorników i urządzeń Logitech Unifying (mirror)
+  pt: Ferramenta para trabalhar com receptores e dispositivos Logitech Unifying (mirror)
+  ro: Instrument pentru lucrul cu receptoare și dispozitive Logitech Unifying (mirror)
+  ru: Инструмент для работы с ресиверами и устройствами Logitech Unifying (mirror)
+  th: เครื่องมือสำหรับทำงานกับตัวรับและอุปกรณ์ Logitech Unifying (mirror)
+  tr: Logitech Unifying alıcıları ve cihazlarıyla çalışmak için araç (mirror)
+  uk: Інструмент для роботи з приймачами та пристроями Logitech Unifying (mirror)
+  vi: Công cụ để làm việc với bộ thu và thiết bị Logitech Unifying (mirror)
 x:
   source: https://github.com/Lekensteyn/ltunify
   dnf: ltunify

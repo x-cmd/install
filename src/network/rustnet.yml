@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 带深度包检测的终端按进程网络监控，跨平台沙箱运行
   en: 'Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.'
+  cs: Monitorování sítě podle procesů pro váš terminál s hlubokou inspekcí paketů. Více platforem, v izolovaném prostředí.
+  de: Prozessbezogenes Netzwerk-Monitoring für Ihr Terminal mit Deep Packet Inspection. Plattformübergreifend, sandboxed.
+  es: Supervisión de red por proceso para tu terminal con inspección profunda de paquetes. Multiplataforma, en entorno aislado.
+  fr: Surveillance réseau par processus pour votre terminal avec inspection approfondie des paquets. Multiplateforme, isolé en sandbox.
+  id: Pemantauan jaringan per proses untuk terminal Anda dengan inspeksi paket mendalam. Lintas platform, terisolasi.
+  it: Monitoraggio di rete per singolo processo per il tuo terminale con ispezione profonda dei pacchetti. Multiplaforma, in sandbox.
+  ja: ターミナル向けにプロセス単位のネットワーク監視と深いパケット解析を提供します。クロスプラットフォーム、サンドボックス対応。
+  ko: 딥 패킷 인스펙션을 제공하는 터미널용 프로세스별 네트워크 모니터링. 크로스 플랫폼, 샌드박스 지원.
+  pl: Monitorowanie sieci per proces dla terminala z głęboką inspekcją pakietów. Wiele platform, w piaskownicy.
+  pt: Monitoramento de rede por processo para seu terminal com inspeção profunda de pacotes. multiplataforma, em sandbox.
+  ro: Monitorizarea rețelei per proces pentru terminalul dvs. cu inspecție profundă a pachetelor. Multiplatformă, în sandbox.
+  ru: Пошаговый мониторинг сети для вашего терминала с глубоким анализом пакетов. Кроссплатформенный, работает в песочнице.
+  th: การตรวจสอบเครือข่ายรายโปรเซสสำหรับเทอร์มินัลของคุณ พร้อมการตรวจสอบแพ็กเก็ตเชิงลึก รองรับหลายแพลตฟอร์มและทำงานในแซนด์บ็อกซ์
+  tr: Terminaliniz için derin paket analiziyle süreç bazlı ağ izleme. Çapraz platformlu, sandbox içinde çalışır.
+  uk: Моніторинг мережі за процесами для вашого термінала з глибоким аналізом пакетів. Кросплатформний, у пісочниці.
+  vi: Giám sát mạng theo tiến trình cho terminal của bạn với kiểm tra gói sâu. Đa nền tảng, chạy trong sandbox.
 x:
   source: https://github.com/domcyrus/rustnet
   eget: domcyrus/rustnet

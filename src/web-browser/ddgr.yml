@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: ddgr 是一个命令行实用程序，用于从终端搜索 DuckDuckGo（html 版本）
   en: ddgr is a cmdline utility to search DuckDuckGo (html version) from the terminal
+  cs: ddgr je příkazový nástroj pro vyhledávání v DuckDuckGo (html verze) z terminálu
+  de: ddgr ist ein Kommandozeilenwerkzeug, um DuckDuckGo (HTML-Version) aus dem Terminal heraus zu durchsuchen
+  es: ddgr es una utilidad de línea de comandos para buscar en DuckDuckGo (versión html) desde la terminal
+  fr: ddgr est un utilitaire en ligne de commande pour rechercher sur DuckDuckGo (version html) depuis le terminal
+  id: ddgr adalah utilitas baris perintah untuk mencari DuckDuckGo (versi html) dari terminal
+  it: ddgr è un'utilità da riga di comando per cercare su DuckDuckGo (versione html) dal terminale
+  ja: ddgr はターミナルから DuckDuckGo（html 版）を検索するコマンドラインユーティリティです
+  ko: ddgr는 터미널에서 DuckDuckGo(html 버전)를 검색하는 명령줄 유틸리티입니다
+  pl: ddgr to narzędzie wiersza poleceń do wyszukiwania w DuckDuckGo (wersja html) z terminala
+  pt: ddgr é um utilitário de linha de comando para pesquisar no DuckDuckGo (versão html) a partir do terminal
+  ro: ddgr este un utilitar de linie de comandă pentru a căuta în DuckDuckGo (versiunea html) din terminal
+  ru: ddgr — это утилита командной строки для поиска в DuckDuckGo (html-версия) прямо из терминала
+  th: ddgr เป็นยูทิลิตี้บรรทัดคำสั่งสำหรับค้นหา DuckDuckGo (เวอร์ชัน html) จากเทอร์มินัล
+  tr: ddgr, terminalden DuckDuckGo (html sürümü) aramak için bir komut satırı aracıdır
+  uk: ddgr — це утиліта командного рядка для пошуку в DuckDuckGo (html-версія) прямо з термінала
+  vi: ddgr là tiện ích dòng lệnh để tìm kiếm trên DuckDuckGo (phiên bản html) ngay từ terminal
 homepage: https://github.com/jarun/ddgr
 license: GPL-3.0
 x:

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Rio 是一个终端，旨在随处运行，可以作为原生桌面应用程序使用 Rust 编写，甚至通过 WebAssembly 在浏览器中运行。
   en: Rio is a terminal built to run everywhere, as a native desktop applications by Rust or even in the browser powered by WebAssembly.
+  cs: Rio je terminál vytvořený pro běh všude, buď jako nativní stolní aplikace napsaná v Rustu, nebo dokonce v prohlížeči poháněný WebAssembly.
+  de: Rio ist ein Terminal, das überall läuft — als native Desktop-Anwendung in Rust geschrieben oder sogar im Browser, betrieben von WebAssembly.
+  es: Rio es una terminal pensada para funcionar en todas partes, como aplicaciones de escritorio nativas escritas en Rust o incluso en el navegador con WebAssembly.
+  fr: Rio est un terminal conçu pour fonctionner partout, comme application de bureau native écrite en Rust ou même dans le navigateur propulsé par WebAssembly.
+  id: Rio adalah terminal yang dibuat untuk berjalan di mana saja, sebagai aplikasi desktop native dengan Rust atau bahkan di browser yang didukung WebAssembly.
+  it: Rio è un terminale pensato per funzionare ovunque, come applicazione desktop nativa scritta in Rust o addirittura nel browser basato su WebAssembly.
+  ja: Rio はどこでも動くように作られたターミナルです。Rust によるネイティブデスクトップアプリケーションとして、あるいは WebAssembly でブラウザ上でも動作します。
+  ko: Rio는 어디서나 실행되도록 설계된 터미널로, Rust로 작성된 네이티브 데스크톱 애플리케이션이나 WebAssembly 기반 브라우저에서도 동작합니다.
+  pl: Rio to terminal zbudowany do działania wszędzie — jako natywna aplikacja desktopowa napisana w Rust lub nawet w przeglądarce napędzanej przez WebAssembly.
+  pt: Rio é um terminal criado para rodar em qualquer lugar, como um aplicativo de desktop nativo escrito em Rust ou até mesmo no navegador com WebAssembly.
+  ro: Rio este un terminal construit ca să ruleze oriunde, ca aplicație desktop nativă scrisă în Rust sau chiar în browserul alimentat de WebAssembly.
+  ru: "Rio — это терминал, созданный для работы где угодно: как нативное десктопное приложение на Rust или даже в браузере на базе WebAssembly."
+  th: Rio คือเทอร์มินัลที่สร้างมาเพื่อรันได้ทุกที่ ทั้งในรูปแบบแอปเดสก์ท็อปแบบเนทีฟที่เขียนด้วย Rust หรือแม้กระทั่งในเบราว์เซอร์ที่ขับเคลื่อนด้วย WebAssembly
+  tr: Rio, her yerde çalışmak üzere inşa edilmiş bir terminaldir; Rust ile yazılmış yerel bir masaüstü uygulaması olarak ya da WebAssembly destekli tarayıcıda bile çalışır.
+  uk: "Rio — це термінал, створений для роботи всюди: як нативний десктопний застосунок на Rust або навіть у браузері на базі WebAssembly."
+  vi: Rio là một terminal được xây dựng để chạy ở mọi nơi, dưới dạng ứng dụng desktop gốc viết bằng Rust hoặc thậm chí trong trình duyệt nhờ WebAssembly.
 x:
   source: https://github.com/raphamorim/rio
   eget: raphamorim/rio

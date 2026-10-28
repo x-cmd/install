@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: awless 是一个功能强大、创新且小型的命令行界面 (CLI)，用于管理 Amazon Web Services
   en: awless is a powerful, innovative and small surface command line interface (CLI) to manage Amazon Web Services
+  cs: awless je mocné, inovativní a lehké rozhraní příkazové řádky (CLI) pro správu Amazon Web Services
+  de: awless ist eine leistungsstarke, innovative und schlanke Kommandozeilenschnittstelle (CLI) zur Verwaltung von Amazon Web Services
+  es: awless es una interfaz de línea de comandos (CLI) potente, innovadora y pequeña para gestionar Amazon Web Services
+  fr: awless est une interface de ligne de commande (CLI) puissante, innovante et légère pour gérer Amazon Web Services
+  id: awless adalah antarmuka baris perintah (CLI) yang kuat, inovatif, dan ringkas untuk mengelola Amazon Web Services
+  it: awless è un'interfaccia a riga di comando (CLI) potente, innovativa e compatta per gestire Amazon Web Services
+  ja: awless は Amazon Web Services を管理するための、強力かつ革新的で軽量なコマンドラインインターフェース (CLI) です
+  ko: awless는 Amazon Web Services를 관리하기 위한 강력하고 혁신적인 경량 명령줄 인터페이스 (CLI)입니다
+  pl: awless to potężny, innowacyjny i lekki interfejs wiersza poleceń (CLI) do zarządzania Amazon Web Services
+  pt: awless é uma interface de linha de comando (CLI) poderosa, inovadora e pequena para gerenciar Amazon Web Services
+  ro: awless este o interfață de linie de comandă (CLI) puternică, inovatoare și compactă pentru gestionarea Amazon Web Services
+  ru: awless — это мощный, инновационный и компактный интерфейс командной строки (CLI) для управления Amazon Web Services
+  th: awless คืออินเทอร์เฟซบรรทัดคำสั่ง (CLI) ที่ทรงพลัง นวัตกรรม และกะทัดรัด สำหรับการจัดการ Amazon Web Services
+  tr: awless, Amazon Web Services'i yönetmek için güçlü, yenilikçi ve küçük bir komut satırı arayüzüdür (CLI)
+  uk: awless — це потужний, інноваційний і компактний інтерфейс командного рядка (CLI) для керування Amazon Web Services
+  vi: awless là giao diện dòng lệnh (CLI) mạnh mẽ, đổi mới và gọn nhẹ để quản lý Amazon Web Services
 x:
   source: https://github.com/wallix/awless
   eget: wallix/awless

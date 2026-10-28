@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   en: CppUnit is the C++ port of the famous JUnit framework for unit testing
   cn: CppUnit 是著名的 JUnit 框架 for unit 的 C + + 端口测试
+  cs: CppUnit je port frameworku JUnit pro jednotkové testování do jazyka C++
+  de: CppUnit ist die C++-Portierung des berühmten JUnit-Frameworks für Unit-Tests
+  es: CppUnit es el port en C++ del famoso framework JUnit para pruebas unitarias
+  fr: CppUnit est le portage C++ du célèbre framework JUnit pour les tests unitaires
+  id: CppUnit adalah port C++ dari framework JUnit yang terkenal untuk pengujian unit
+  it: CppUnit è il porting C++ del famoso framework JUnit per il unit testing
+  ja: CppUnit は、ユニットテストのために作られた有名な JUnit フレームワークの C++ ポートです
+  ko: CppUnit는 유닛 테스트를 위한 유명한 JUnit 프레임워크의 C++ 포트입니다
+  pl: CppUnit to port C++ słynnej ramy JUnit do testów jednostkowych
+  pt: CppUnit é a porta C++ do famoso framework JUnit para testes unitários
+  ro: CppUnit este portarea în C++ a celebrului framework JUnit pentru testare unitară
+  ru: CppUnit — это порт известного фреймворка JUnit для модульного тестирования на C++
+  th: CppUnit คือพอร์ตของเฟรมเวิร์ก JUnit ที่มีชื่อเสียงสำหรับการทดสอบหน่วยย่อย
+  tr: CppUnit, birim testleri için ünlü JUnit çerçevesinin C++ portudur
+  uk: CppUnit — це порт відомого фреймворку JUnit для модульного тестування на C++
+  vi: CppUnit là bản chuyển đổi sang C++ của khung JUnit nổi tiếng dùng cho kiểm thử đơn vị
 x:
   source: https://github.com/Ultimaker/CppUnit
   brew: cppunit

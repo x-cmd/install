@@ -3,6 +3,22 @@ homepage: https://github.com/nodejs/node
 desc:
   cn: 一个异步事件驱动的 JavaScript 运行时
   en: As an asynchronous event-driven JavaScript runtime
+  cs: Asynchronní, událostmi řízené běhové prostředí JavaScript
+  de: Eine asynchrone, ereignisgesteuerte JavaScript-Laufzeitumgebung
+  es: Un entorno de ejecución de JavaScript asíncrono y dirigido por eventos
+  fr: Un runtime JavaScript asynchrone et piloté par les événements
+  id: Runtime JavaScript asinkron berbasis peristiwa
+  it: Un runtime JavaScript asincrono e guidato dagli eventi
+  ja: 非同期イベント駆動型の JavaScript ランタイム
+  ko: 비동기 이벤트 기반 JavaScript 런타임
+  pl: Asynchroniczne, oparte na zdarzeniach środowisko uruchomieniowe JavaScript
+  pt: Um runtime JavaScript assíncrono e orientado a eventos
+  ro: Un runtime JavaScript asincron, bazat pe evenimente
+  ru: Асинхронная событийно-ориентированная среда выполнения JavaScript
+  th: รันไทม์ JavaScript แบบอะซิงโครนัสและขับเคลื่อนด้วยเหตุการณ์
+  tr: Asenkron, olay tabanlı bir JavaScript çalışma zamanı
+  uk: Асинхронне середовище виконання JavaScript, кероване подіями
+  vi: Một runtime JavaScript bất đồng bộ, hướng sự kiện
 x:
   source: https://github.com/nodejs/node
   dnf: nodejs14

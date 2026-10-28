@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Podman Desktop 是开发人员使用容器和 Kubernetes 的最佳免费开源工具
   en: Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers
+  cs: Podman Desktop je nejlepší bezplatný open source nástroj pro práci s Containers a Kubernetes pro vývojáře
+  de: Podman Desktop ist das beste kostenlose Open-Source-Werkzeug für Entwickler zur Arbeit mit Containern und Kubernetes
+  es: Podman Desktop es la mejor herramienta gratuita y de código abierto para trabajar con contenedores y Kubernetes por parte de los desarrolladores
+  fr: Podman Desktop est le meilleur outil gratuit et open source permettant aux développeurs de travailler avec des conteneurs et Kubernetes
+  id: Podman Desktop adalah alat gratis dan open source terbaik untuk bekerja dengan Containers dan Kubernetes bagi pengembang
+  it: Podman Desktop è il miglior strumento gratuito e open source per lavorare con container e Kubernetes da parte degli sviluppatori
+  ja: Podman Desktop は、開発者がコンテナと Kubernetes を扱うための最良の無料オープンソースツールです
+  ko: Podman Desktop는 개발자가 Containers와 Kubernetes를 함께 다루기 위한 최고의 무료 오픈 소스 도구입니다
+  pl: Podman Desktop to najlepsze darmowe narzędzie open source do pracy z kontenerami i Kubernetes dla deweloperów
+  pt: O Podman Desktop é a melhor ferramenta gratuita e de código aberto para desenvolvedores trabalharem com contêineres e Kubernetes
+  ro: Podman Desktop este cea mai bună unealtă gratuită și open source pentru ca dezvoltatorii să lucreze cu containere și Kubernetes
+  ru: Podman Desktop — лучший бесплатный инструмент с открытым исходным кодом для работы разработчиков с контейнерами и Kubernetes
+  th: Podman Desktop คือเครื่องมือฟรีและโอเพนซอร์สที่ดีที่สุดสำหรับนักพัฒนาในการทำงานกับ Containers และ Kubernetes
+  tr: Podman Desktop, geliştiricilerin Containers ve Kubernetes ile çalışması için en iyi ücretsiz açık kaynak araçtır
+  uk: Podman Desktop — найкращий безкоштовний інструмент з відкритим кодом для роботи розробників із контейнерами та Kubernetes
+  vi: Podman Desktop là công cụ miễn phí và mã nguồn mở tốt nhất để nhà phát triển làm việc với Containers và Kubernetes
 x:
   source: https://github.com/containers/podman-desktop
   flatpak: flathub

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Go 编写的 Let's Encrypt/ACME 客户端
   en: A Let's Encrypt/ACME client written in Go
+  cs: Klient Let's Encrypt/ACME napsaný v Go
+  de: Ein in Go geschriebener Let's Encrypt/ACME-Client
+  es: Un cliente de Let's Encrypt/ACME escrito en Go
+  fr: Un client Let's Encrypt/ACME écrit en Go
+  id: Klien Let's Encrypt/ACME yang ditulis dengan Go
+  it: Un client Let's Encrypt/ACME scritto in Go
+  ja: Go で書かれた Let's Encrypt/ACME クライアント
+  ko: Go로 작성된 Let's Encrypt/ACME 클라이언트
+  pl: Klient Let's Encrypt/ACME napisany w Go
+  pt: Um cliente Let's Encrypt/ACME escrito em Go
+  ro: Un client Let's Encrypt/ACME scris în Go
+  ru: Клиент Let's Encrypt/ACME, написанный на Go
+  th: ไคลเอนต์ Let's Encrypt/ACME ที่เขียนด้วย Go
+  tr: Go ile yazılmış bir Let's Encrypt/ACME istemcisi
+  uk: Клієнт Let's Encrypt/ACME, написаний на Go
+  vi: Client Let's Encrypt/ACME viết bằng Go
 x:
   source: https://github.com/go-acme/lego
   eget: go-acme/lego

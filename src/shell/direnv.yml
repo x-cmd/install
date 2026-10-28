@@ -12,6 +12,22 @@ desc:
     direnv is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 
     '
+  cs: Uklidte svůj .profile. direnv je rozšíření pro váš shell. Rozšiřuje existující shelly o novou funkci, která načítá a odnačítá proměnné prostředí podle aktuálního adresáře.
+  de: Aufräumen deiner .profile. direnv ist eine Erweiterung für deine Shell. Es ergänzt vorhandene Shells um eine neue Funktion, die Umgebungsvariablen je nach aktuellem Verzeichnis laden und entladen kann.
+  es: Ordena tu .profile. direnv es una extensión para tu shell. Potencia los shells existentes con una nueva función que puede cargar y descargar variables de entorno según el directorio actual.
+  fr: Rangez votre .profile. direnv est une extension pour votre shell. Il enrichit les shells existants d'une nouvelle fonctionnalité capable de charger et de décharger des variables d'environnement selon le répertoire courant.
+  id: Rapikan .profile Anda. direnv adalah ekstensi untuk shell Anda. Ini menambah fitur baru pada shell yang sudah ada untuk memuat dan membongkar variabel lingkungan tergantung direktori saat ini.
+  it: Sgombera il tuo .profile. direnv è un'estensione per la tua shell. Aggiunge alle shell esistenti una nuova funzione in grado di caricare e scaricare variabili d'ambiente a seconda della directory corrente.
+  ja: .profile を整理しましょう。direnv はシェル向けの拡張機能です。既存のシェルに、現在のディレクトリに応じて環境変数を読み込み・アンロードできる新機能を追加します。
+  ko: .profile을 깔끔하게 정리하세요. direnv는 셸을 위한 확장 기능으로, 현재 디렉터리에 따라 환경 변수를 불러오고 내릴 수 있는 새로운 기능을 기존 셸에 추가합니다.
+  pl: Posprzątaj swój .profile. direnv to rozszerzenie dla twojej powłoki. Dodaje do istniejących powłok nową funkcję, która potrafi ładować i zwalniać zmienne środowiskowe w zależności od bieżącego katalogu.
+  pt: Organize seu .profile. O direnv é uma extensão para o seu shell. Ele amplia os shells existentes com um novo recurso capaz de carregar e descarregar variáveis de ambiente conforme o diretório atual.
+  ro: Curăță-ți .profile. direnv este o extensie pentru shell-ul tău. Completează shell-urile existente cu o funcție nouă care poate încărca și descărca variabile de mediu în funcție de directorul curent.
+  ru: Приведите в порядок свой .profile. direnv — это расширение для вашей оболочки. Оно добавляет к существующим оболочкам новую возможность загружать и выгружать переменные окружения в зависимости от текущего каталога.
+  th: จัดระเบียบ .profile ของคุณ direnv เป็นส่วนขยายสำหรับเชลล์ของคุณ เพิ่มความสามารถใหม่ให้กับเชลล์ที่มีอยู่ในการโหลดและยกเลิกตัวแปรสภาพแวดล้อมตามไดเรกทอรีปัจจุบัน
+  tr: .profile dosyanızı sadeleştirin. direnv, kabuğunuz için bir eklentidir. Mevcut kabuklara, geçerli dizine göre ortam değişkenlerini yükleyip kaldırabilen yeni bir özellik ekler.
+  uk: Приберіть свій .profile. direnv — це розширення для вашої оболонки. Воно додає до наявних оболонок нову можливість завантажувати та вивантажувати змінні оточення залежно від поточного каталогу.
+  vi: Gọn gàng .profile của bạn. direnv là một tiện ích mở rộng cho shell của bạn. Nó bổ sung cho các shell sẵn có một tính năng mới có thể tải và bỏ tải các biến môi trường tùy theo thư mục hiện tại.
 x:
   source: https://github.com/direnv/direnv
   eget: direnv/direnv

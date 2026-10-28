@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: st 是 suckless.org 的极简 X11 终端模拟器源码，需要手动编译与补丁。
   en: st is the suckless minimal X11 terminal emulator source — requires manual build and patching.
+  cs: st je zdrojový kód minimalistického terminálového emulátoru X11 od suckless.org — vyžaduje ruční sestavení a aplikaci patchů.
+  de: st ist der Quellcode des minimalistischen X11-Terminalemulators von suckless.org — erfordert manuelles Bauen und Patchen.
+  es: st es el código fuente del emulador de terminal X11 minimalista de suckless.org — requiere compilación manual y parches.
+  fr: st est le code source de l'émulateur de terminal X11 minimaliste de suckless.org — nécessite une compilation manuelle et l'application de correctifs.
+  id: st adalah kode sumber emulator terminal X11 minimal dari suckless.org — memerlukan build dan patch manual.
+  it: st è il codice sorgente dell'emulatore di terminale X11 minimalista di suckless.org — richiede compilazione e patch manuali.
+  ja: st は suckless.org のミニマルな X11 端末エミュレータのソースコードです。ビルドとパッチ適用は手動で行います。
+  ko: st는 suckless.org의 미니멀한 X11 터미널 에뮬레이터 소스 코드로, 수동 빌드와 패치가 필요합니다.
+  pl: st to kod źródłowy minimalistycznego emulatora terminala X11 z suckless.org — wymaga ręcznej kompilacji i łatania.
+  pt: st é o código-fonte do emulador de terminal X11 minimalista do suckless.org — exige compilação manual e aplicação de patches.
+  ro: st este codul sursă al emulatorului de terminal X11 minimalist de la suckless.org — necesită compilare și aplicare de patch-uri manuale.
+  ru: st — исходный код минималистичного эмулятора терминала X11 от suckless.org, требующий ручной сборки и наложения патчей.
+  th: st คือซอร์สโค้ดของเทอร์มินัลอีมูเลเตอร์ X11 แบบเรียบง่ายจาก suckless.org — ต้องสร้างและแก้แพตช์ด้วยตนเอง.
+  tr: st, suckless.org'un minimalist X11 terminal emülatörünün kaynak kodudur — manuel derleme ve yamalama gerektirir.
+  uk: st — це вихідний код мінімалістичного емулятора термінала X11 від suckless.org, потребує ручної збірки та накладання патчів.
+  vi: st là mã nguồn của trình giả lập terminal X11 tối giản từ suckless.org — yêu cầu tự build và vá lỗi thủ công.
 x:
   source: https://git.suckless.org/st
   pacman: st

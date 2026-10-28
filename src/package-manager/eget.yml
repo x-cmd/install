@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于从 GitHub release 轻松安装预构建二进制文件的命令行工具。
   en: A command-line tool for easily fetching and extracting pre-built binaries from GitHub releases.
+  cs: Nástroj příkazové řádky pro snadné získávání a rozbalování předem sestavených binárních souborů z GitHub releases.
+  de: Ein Kommandozeilenwerkzeug zum einfachen Abrufen und Entpacken vorkompilierter Binärdateien aus GitHub-Releases.
+  es: Una herramienta de línea de comandos para obtener y extraer fácilmente binarios precompilados de las releases de GitHub.
+  fr: Un outil en ligne de commande pour récupérer et extraire facilement les binaires précompilés des releases GitHub.
+  id: Alat baris perintah untuk dengan mudah mengambil dan mengekstrak biner siap pakai dari rilis GitHub.
+  it: Uno strumento da riga di comando per recuperare ed estrarre facilmente i binari precompilati dalle release di GitHub.
+  ja: GitHub リリースからビルド済みバイナリを簡単に入手・展開するためのコマンドラインツール。
+  ko: GitHub 릴리스에서 미리 빌드된 바이너리를 쉽게 가져오고 압축 해제하는 명령줄 도구.
+  pl: Narzędzie wiersza poleceń do łatwego pobierania i rozpakowywania gotowych binariów z wydań GitHuba.
+  pt: Uma ferramenta de linha de comando para buscar e extrair facilmente binários pré-construídos dos releases do GitHub.
+  ro: Un instrument de linie de comandă pentru a prelua și extrage cu ușurință binarele precompilate din release-urile GitHub.
+  ru: Инструмент командной строки для лёгкого получения и распаковки готовых бинарных файлов из релизов GitHub.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับดึงและแตกไฟล์ไบนารีที่สร้างไว้แล้วจากรีลีสของ GitHub ได้อย่างง่ายดาย
+  tr: GitHub sürümlerinden önceden derlenmiş ikili dosyaları kolayca indirmek ve çıkarmak için bir komut satırı aracı.
+  uk: Інструмент командного рядка для легкого отримання та розпакування готових двійкових файлів із релізів GitHub.
+  vi: Công cụ dòng lệnh để dễ dàng tải và giải nén các tệp nhị phân dựng sẵn từ bản phát hành GitHub.
 x:
   source: https://github.com/zyedidia/eget
   eget: zyedidia/eget

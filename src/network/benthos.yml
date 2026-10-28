@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Benthos 是一个声明性的数据流服务，通过简单的、链式的、无状态的处理步骤解决了大量的数据工程问题
   en: Benthos is a declarative data streaming service that solves a wide range of data engineering problems with simple, chained, stateless processing steps.
+  cs: Benthos je deklarativní datová streamovací služba, která řeší široké spektrum problémů datové fyziky pomocí jednoduchých, řetězených a bezstavových kroků zpracování.
+  de: Benthos ist ein deklarativer Daten-Streaming-Dienst, der mit einfachen, verketteten, zustandslosen Verarbeitungsschritten eine breite Palette von Data-Engineering-Problemen löst.
+  es: Benthos es un servicio declarativo de streaming de datos que resuelve una amplia gama de problemas de ingeniería de datos con pasos de procesamiento simples, encadenados y sin estado.
+  fr: Benthos est un service déclaratif de streaming de données qui résout une large gamme de problèmes d'ingénierie des données grâce à des étapes de traitement simples, enchaînées et sans état.
+  id: Benthos adalah layanan streaming data deklaratif yang menyelesaikan berbagai masalah rekayasa data dengan langkah pemrosesan sederhana, berantai, dan tanpa status.
+  it: Benthos è un servizio di streaming dei dati dichiarativo che risolve un'ampia gamma di problemi di ingegneria dei dati con passaggi di elaborazione semplici, concatenati e senza stato.
+  ja: Benthos は、単純でチェーン状かつステートレスな処理ステップにより幅広いデータエンジニアリングの問題を解決する宣言的なデータストリーミングサービスです。
+  ko: Benthos는 단순하고 체인 방식이며 상태 비저장 처리 단계로 광범위한 데이터 엔지니어링 문제를 해결하는 선언적 데이터 스트리밍 서비스입니다.
+  pl: Benthos to deklaratywna usługa strumieniowania danych, która rozwiązuje szeroki zakres problemów inżynierii danych za pomocą prostych, łańcuchowych i bezstanowych kroków przetwarzania.
+  pt: O Benthos é um serviço declarativo de streaming de dados que resolve uma ampla gama de problemas de engenharia de dados com etapas de processamento simples, encadeadas e sem estado.
+  ro: Benthos este un serviciu declarativ de streaming de date care rezolvă o gamă largă de probleme de inginerie a datelor cu pași de procesare simpli, înlănțuiți și fără stare.
+  ru: Benthos — декларативный сервис потоковой обработки данных, решающий широкий спектр задач дата-инжиниринга с помощью простых, связанных в цепочку и не имеющих состояния шагов обработки.
+  th: Benthos เป็นบริการสตรีมข้อมูลแบบประกาศ ซึ่งแก้ปัญหาด้านวิศวกรรมข้อมูลได้หลากหลายด้วยขั้นตอนการประมวลผลที่เรียบง่าย เชื่อมโยงกัน และไม่มีสถานะ
+  tr: Benthos, basit, zincirleme ve durumsuz işleme adımlarıyla çok geniş bir veri mühendisliği sorunları kümesini çözen bildirimsel bir veri akışı hizmetidir.
+  uk: Benthos — декларативний сервіс потокової обробки даних, який розв'язує широкий спектр задач дата-інжинірингу за допомогою простих, з'єднаних у ланцюг і безстабільних кроків обробки.
+  vi: Benthos là dịch vụ truyền dữ liệu khai báo, giải quyết nhiều vấn đề kỹ thuật dữ liệu bằng các bước xử lý đơn giản, nối chuỗi và không trạng thái.
 x:
   source: https://github.com/redpanda-data/benthos
   brew: benthos

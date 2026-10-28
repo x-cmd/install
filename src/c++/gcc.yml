@@ -3,6 +3,22 @@ homepage: https://gcc.gnu.org/git/gcc.git
 desc:
   cn: GCC 包括 C、 C + + 、 Objective-C、 Fortran、 Ada、 Go 和 d 的前端，以及这些语言的库(libstdc + + ，...)
   en: The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...)
+  cs: GNU Compiler Collection zahrnuje front-endy pro C, C++, Objective-C, Fortran, Ada, Go a D i také knihovny pro tyto jazyky (libstdc++,...)
+  de: Die GNU Compiler Collection umfasst Frontends für C, C++, Objective-C, Fortran, Ada, Go und D sowie Bibliotheken für diese Sprachen (libstdc++,...)
+  es: La GNU Compiler Collection incluye front-ends para C, C++, Objective-C, Fortran, Ada, Go y D, así como bibliotecas para estos lenguajes (libstdc++,...)
+  fr: La GNU Compiler Collection inclut des front-ends pour C, C++, Objective-C, Fortran, Ada, Go et D, ainsi que des bibliothèques pour ces langages (libstdc++,...)
+  id: GNU Compiler Collection mencakup front-end untuk C, C++, Objective-C, Fortran, Ada, Go, dan D, serta pustaka untuk bahasa-bahasa tersebut (libstdc++,...)
+  it: The GNU Compiler Collection include front-end per C, C++, Objective-C, Fortran, Ada, Go e D, oltre alle librerie per queste lingue (libstdc++,...)
+  ja: GNU Compiler Collection には C、C++、Objective-C、Fortran、Ada、Go、D のフロントエンドと、これらの言語用のライブラリ (libstdc++、...) が含まれています
+  ko: GNU Compiler Collection은 C, C++, Objective-C, Fortran, Ada, Go, D용 프런트엔드와 이 언어들을 위한 라이브러리(libstdc++ 등)를 포함합니다
+  pl: GNU Compiler Collection obejmuje kompilatory frontowe dla C, C++, Objective-C, Fortran, Ada, Go i D, a także biblioteki dla tych języków (libstdc++,...)
+  pt: A GNU Compiler Collection inclui front-ends para C, C++, Objective-C, Fortran, Ada, Go e D, bem como bibliotecas para essas linguagens (libstdc++,...)
+  ro: GNU Compiler Collection include front-end-uri pentru C, C++, Objective-C, Fortran, Ada, Go și D, precum și biblioteci pentru aceste limbaje (libstdc++,...)
+  ru: GNU Compiler Collection включает фронт-энды для C, C++, Objective-C, Fortran, Ada, Go и D, а также библиотеки для этих языков (libstdc++ и т. д.)
+  th: GNU Compiler Collection รวมถึง front-end สำหรับ C, C++, Objective-C, Fortran, Ada, Go และ D รวมถึงไลบรารีสำหรับภาษาเหล่านี้ (libstdc++,...)
+  tr: GNU Compiler Collection; C, C++, Objective-C, Fortran, Ada, Go ve D için ön uçlar ile bu diller için kütüphaneleri (libstdc++,...) içerir
+  uk: GNU Compiler Collection містить фронтенди для C, C++, Objective-C, Fortran, Ada, Go та D, а також бібліотеки для цих мов (libstdc++ тощо)
+  vi: GNU Compiler Collection bao gồm front-end cho C, C++, Objective-C, Fortran, Ada, Go và D, cùng các thư viện cho những ngôn ngữ này (libstdc++,...)
 rule:
   darwin/brew:
     cmd: brew install gcc

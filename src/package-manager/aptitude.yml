@@ -3,6 +3,22 @@ homepage: https://salsa.debian.org/apt-team/aptitude
 desc:
   cn: Aptitude 是一个基于 Ncurses 的 Apt 前端，debian 软件包管理器。既然它是基于文本的，从就要从终端或命令行(CLI，命令行界面)下启动
   en: Aptitude is an Ncurses and command-line based front-end to numerous Apt libraries, which are also used by Apt, the default Debian package manager
+  cs: Aptitude je textový front-end založený na Ncurses pro řadu knihoven Apt, které používá i Apt, výchozí správce balíčků Debianu
+  de: Aptitude ist eine Ncurses-basierte Frontend-Anwendung für zahlreiche Apt-Bibliotheken, die auch von Apt, dem Standard-Paketmanager von Debian, genutzt werden
+  es: Aptitude es un front-end basado en Ncurses y en la línea de comandos para numerosas bibliotecas de Apt, que también usa Apt, el gestor de paquetes predeterminado de Debian
+  fr: Aptitude est une interfaceNcurses et en ligne de commande pour de nombreuses bibliothèques Apt, également utilisées par Apt, le gestionnaire de paquets par défaut de Debian
+  id: Aptitude adalah front-end berbasis Ncurses dan baris perintah untuk banyak pustaka Apt, yang juga digunakan oleh Apt, pengelola paket bawaan Debian
+  it: Aptitude è un front-end basato su Ncurses e riga di comando per numerose librerie Apt, usate anche da Apt, il gestore di pacchetti predefinito di Debian
+  ja: Aptitude は Ncurses ベースでコマンドラインから動作する多数の Apt ライブラリのフロントエンドであり、Debian 標準のパッケージマネージャーである Apt でも使われます
+  ko: Aptitude는 Ncurses 및 명령줄 기반의 프런트엔드로, Debian 기본 패키지 관리자인 Apt에서도 사용되는 여러 Apt 라이브러리를 지원합니다
+  pl: Aptitude to oparty frontend oparty na Ncurses i wierszu poleceń dla licznych bibliotek Apt, używanych również przez Apt, domyślny menedżer pakietów Debiana
+  pt: Aptitude é um front-end baseado em Ncurses e na linha de comando para diversas bibliotecas Apt, que também são usadas pelo Apt, o gerenciador de pacotes padrão do Debian
+  ro: Aptitude este un front-end bazat pe Ncurses și linia de comandă pentru numeroase biblioteci Apt, folosite și de Apt, managerul de pachete implicit al Debian
+  ru: Aptitude — текстовая внешняя оболочка на базе Ncurses для множества библиотек Apt, которые также используются программой Apt, стандартным менеджером пакетов Debian
+  th: Aptitude เป็นส่วนหน้าสำหรับบรรดาไลบรารีของ Apt ที่ใช้ Ncurses และบรรทัดคำสั่ง ซึ่งยังถูกใช้โดย Apt ตัวจัดการแพ็กเกจมาตรฐานของ Debian
+  tr: Aptitude, Debian'ın varsayılan paket yöneticisi Apt'in de kullandığı çok sayıda Apt kitaplığı için Ncurses ve komut satırı tabanlı bir ön uçtur
+  uk: Aptitude — текстовий зовнішній інтерфейс на базі Ncurses для численних бібліотек Apt, які також використовуються програмою Apt, стандартним менеджером пакетів Debian
+  vi: Aptitude là giao diện dựa trên Ncurses và dòng lệnh cho nhiều thư viện Apt, vốn cũng được dùng bởi Apt, trình quản lý gói mặc định của Debian
 rule:
   debian/apt:
     cmd: sudo apt-get install aptitude

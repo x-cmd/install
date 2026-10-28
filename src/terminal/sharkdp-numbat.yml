@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 支持物理量纲与单位的静态类型科学计算编程语言
   en: A statically typed programming language for scientific computations with first class support for physical dimensions and units
+  cs: Staticky typovaný programovací jazyk pro vědecké výpočty s prvotřídní podporou fyzikálních rozměrů a jednotek
+  de: Eine statisch typisierte Programmiersprache für wissenschaftliche Berechnungen mit erstklassiger Unterstützung für physikalische Dimensionen und Einheiten
+  es: Un lenguaje de programación de tipado estático para cálculos científicos con soporte de primera clase para dimensiones físicas y unidades
+  fr: Un langage de programmation à typage statique pour les calculs scientifiques avec une prise en charge de premier ordre des dimensions physiques et des unités
+  id: Bahasa pemrograman bertipe statis untuk perhitungan ilmiah dengan dukungan kelas satu untuk dimensi fisik dan satuan
+  it: Un linguaggio di programmazione a tipizzazione statica per calcoli scientifici con supporto di prima classe per dimensioni fisiche e unità
+  ja: 物理次元と単位をファーストクラスでサポートする、科学計算向けの静的型プログラミング言語
+  ko: 물리적 차원과 단위를 일급 지원하는 과학 계산을 위한 정적 타입 프로그래밍 언어
+  pl: Statycznie typowany język programowania do obliczeń naukowych z pierwszorzędną obsługą wymiarów fizycznych i jednostek
+  pt: Uma linguagem de programação de tipagem estática para cálculos científicos com suporte de primeira classe a dimensões físicas e unidades
+  ro: Un limbaj de programare cu tipare statică pentru calcule științifice cu suport de primă clasă pentru dimensiuni fizice și unități
+  ru: Статически типизированный язык программирования для научных вычислений с полной поддержкой физических размерностей и единиц
+  th: ภาษาโปรแกรมแบบพิมพ์นิยามแบบคงที่สำหรับการคำนวณทางวิทยาศาสตร์ พร้อมรองรับมิติทางฟิสิกส์และหน่วยวัดในระดับพรีเมียร์
+  tr: Fiziksel boyutlar ve birimler için birinci sınıf desteğe sahip, bilimsel hesaplamalar için statik tipli bir programlama dili
+  uk: Статично типізована мова програмування для наукових обчислень із повноцінною підтримкою фізичних розмірностей та одиниць
+  vi: Ngôn ngữ lập trình kiểu tĩnh dành cho tính toán khoa học với hỗ trợ đầy đủ cho các đại lượng vật lý và đơn vị đo
 x:
   source: https://github.com/sharkdp/numbat
   eget: sharkdp/numbat

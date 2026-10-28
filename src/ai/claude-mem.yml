@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 为每个 Agent 提供跨会话持久上下文，记录会话行为并用 AI 压缩后注入后续会话
   en: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with ...
+  cs: Persistentní kontext napříč relacemi pro každého agenta – zachycuje vše, co agent dělá během relací, komprimuje to pomocí AI a vrací relevantní kontext do budoucích relací.
+  de: Persistenter Kontext über Sitzungen hinweg für jeden Agenten – erfasst alles, was dein Agent während der Sitzungen tut, komprimiert es mit KI und fügt relevanten Kontext in künftige Sitzungen wieder ein.
+  es: "Contexto persistente entre sesiones para cualquier agente: captura todo lo que hace tu agente durante las sesiones, lo comprime con IA y vuelve a inyectar el contexto relevante en sesiones futuras."
+  fr: "Contexte persistant entre les sessions pour tout agent : capture tout ce que votre agent fait pendant les sessions, le compresse avec l'IA et réinjecte le contexte pertinent dans les sessions futures."
+  id: Konteks persisten lintas sesi untuk setiap agen – menangkap semua yang dilakukan agen Anda selama sesi, memampatkannya dengan AI, dan menyisipkan kembali konteks yang relevan ke sesi berikutnya.
+  it: "Contesto persistente tra le sessioni per ogni agente: cattura tutto ciò che il tuo agente fa durante le sessioni, lo comprime con l'AI e reinserisce il contesto rilevante nelle sessioni future."
+  ja: すべてのエージェントに.sessionをまたぐ永続的なコンテキストを提供します。セッション中のエージェントの動作をすべて記録し、AIで圧縮して、関連するコンテキストを以降のセッションに再注入します。
+  ko: 모든 에이전트를 위한 세션 간 지속 컨텍스트로, 세션 중 에이전트가 수행한 모든 작업을 캡처하고 AI로 압축한 뒤 관련 컨텍스트를 이후 세션에 다시 주입합니다.
+  pl: Trwały kontekst między sesjami dla każdego agenta — przechwytuje wszystko, co agent robi podczas sesji, kompresuje to za pomocą AI i wstawia z powrotem istotny kontekst do kolejnych sesji.
+  pt: "Contexto persistente entre sessões para qualquer agente: captura tudo o que o seu agente faz durante as sessões, compacta com IA e reinsere o contexto relevante em sessões futuras."
+  ro: Context persistent între sesiuni pentru orice agent – captează tot ce face agentul tău în timpul sesiunilor, îl comprimă cu IA și reinserează contextul relevant în sesiunile viitoare.
+  ru: Постоянный контекст между сессиями для любого агента — захватывает всё, что агент делает во время сессий, сжимает это с помощью ИИ и добавляет релевантный контекст в будущие сессии.
+  th: บริบทแบบคงอยู่ข้ามเซสชันสำหรับทุกเอเจนต์ — จับทุกสิ่งที่เอเจนต์ของคุณทำระหว่างเซสชัน บีบอัดด้วย AI แล้วแทรกบริบทที่เกี่ยวข้องกลับเข้าไปในเซสชันในอนาคต
+  tr: "Her ajan için oturumlar arasında kalıcı bağlam: ajanınızın oturumlar boyunca yaptığı her şeyi yakalar, yapay zekâ ile sıkıştırır ve ilgili bağlamı gelecek oturumlara geri enjekte eder."
+  uk: Постійний контекст між сесіями для будь-якого агента — фіксує все, що агент робить під час сесій, стискає це за допомогою ШІ та повертає відповідний контекст у майбутні сесії.
+  vi: Ngữ cảnh xuyên suốt các phiên làm việc cho mọi tác nhân — ghi lại mọi thứ tác nhân của bạn làm trong phiên, nén lại bằng AI rồi đưa ngữ cảnh liên quan trở lại các phiên sau.
 x:
   source: https://github.com/thedotmack/claude-mem
   npm: claude-mem

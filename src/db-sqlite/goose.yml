@@ -3,6 +3,22 @@ homepage: https://github.com/pressly/goose
 desc:
   cn: goose 是一个数据库迁移工具。通过创建增量 SQL 更改和/或 Go 函数来管理数据库架构
   en: goose is a database migration tool. Manage your database schema by creating incremental SQL changes and/or Go functions
+  cs: goose je nástroj pro migraci databází. Spravujte schéma databáze vytvářením přírůstkových změn SQL a/nebo funkcí v Go
+  de: goose ist ein Datenbank-Migrationstool. Verwalten Sie Ihr Datenbankschema, indem Sie inkrementelle SQL-Änderungen und/oder Go-Funktionen erstellen
+  es: goose es una herramienta de migración de bases de datos. Gestiona el esquema de tu base de datos creando cambios SQL incrementales y/o funciones en Go
+  fr: goose est un outil de migration de base de données. Gérez votre schéma de base de données en créant des modifications SQL incrémentales et/ou des fonctions Go
+  id: goose adalah alat migrasi basis data. Kelola skema basis data Anda dengan membuat perubahan SQL inkremental dan/atau fungsi Go
+  it: goose è uno strumento di migrazione del database. Gestisci lo schema del tuo database creando modifiche SQL incrementali e/o funzioni Go
+  ja: goose はデータベース移行ツールです。段階的な SQL 変更や Go 関数を作成してデータベーススキーマを管理します
+  ko: goose는 데이터베이스 마이그레이션 도구입니다. 점진적 SQL 변경 및/또는 Go 함수를 만들어 데이터베이스 스키마를 관리합니다
+  pl: goose to narzędzie do migracji baz danych. Zarządzaj schematem bazy danych, tworząc przyrostowe zmiany SQL i/lub funkcje Go
+  pt: goose é uma ferramenta de migração de banco de dados. Gerencie o esquema do seu banco de dados criando alterações SQL incrementais e/ou funções Go
+  ro: goose este un instrument de migrare a bazelor de date. Gestionați schema bazei de date creând modificări SQL incrementale și/sau funcții Go
+  ru: goose — инструмент миграции баз данных. Управляйте схемой базы данных, создавая инкрементальные изменения SQL и/или функции Go
+  th: goose เป็นเครื่องมือย้ายข้อมูลฐานข้อมูล จัดการสคีมาฐานข้อมูลของคุณด้วยการสร้างการเปลี่ยนแปลง SQL แบบเพิ่มส่วนและ/หรือฟังก์ชัน Go
+  tr: goose veritabanı geçiş aracıdır. Artımlı SQL değişiklikleri ve/veya Go fonksiyonları oluşturarak veritabanı şemanızı yönetin
+  uk: goose — інструмент міграції баз даних. Керуйте схемою бази даних, створюючи інкрементальні зміни SQL та/або функції Go
+  vi: goose là công cụ migration cơ sở dữ liệu. Quản lý schema cơ sở dữ liệu của bạn bằng cách tạo các thay đổi SQL tăng dần và/hoặc hàm Go
 x:
   source: https://github.com/pressly/goose
   eget: pressly/goose

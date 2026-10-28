@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Julia 是一种高性能，动态，多范式的编程语言，它专注于数值计算和数据分析。Julia 有着简洁的语法，强大的多重派发机制，丰富的内置类型和函数，以及易于扩展的特性。Julia 也支持并行，分布式，元编程等编程风格。
   en: Julia is a high-level, high-performance dynamic language for technical computing
+  cs: Julia je dynamický jazyk na vysoké úrovni s vysokým výkonem pro technické výpočty
+  de: Julia ist eine dynamische Sprache auf hohem Niveau mit hoher Performance für technische Berechnungen
+  es: Julia es un lenguaje dinámico de alto nivel y alto rendimiento para computación técnica
+  fr: Julia est un langage dynamique de haut niveau et performant pour le calcul technique
+  id: Julia adalah bahasa dinamis tingkat tinggi berkinerja tinggi untuk komputasi teknis
+  it: Julia è un linguaggio dinamico ad alto livello e ad alte prestazioni per il calcolo tecnico
+  ja: Julia は技術計算のための高水準で高性能な動的言語です
+  ko: Julia는 기술 컴퓨팅을 위한 고수준 고성능 동적 언어입니다
+  pl: Julia to wysokopoziomowy, dynamiczny język o wysokiej wydajności do obliczeń technicznych
+  pt: Julia é uma linguagem dinâmica de alto nível e alto desempenho para computação técnica
+  ro: Julia este un limbaj dinamic de nivel înalt, cu performanțe mari, pentru calcul tehnic
+  ru: Julia — высокоуровневый динамический язык с высокой производительностью для технических вычислений
+  th: Julia เป็นภาษาไดนามิกระดับสูงที่มีประสิทธิภาพสูงสำหรับการคำนวณเชิงเทคนิค
+  tr: Julia, teknik hesaplama için yüksek seviyeli ve yüksek performanslı dinamik bir dildir
+  uk: Julia — високорівнева динамічна мова з високою продуктивністю для технічних обчислень
+  vi: Julia là ngôn ngữ động cấp cao, hiệu năng cao dành cho tính toán kỹ thuật
 x:
   source: https://github.com/JuliaLang/julia
   eget: JuliaLang/julia

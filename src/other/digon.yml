@@ -2,6 +2,22 @@ lang: C++
 desc:
   cn: 将 Markdown 风格的表达方式转换为 ASCII 艺术表示形式
   en: Convert Markdown-style expressions to ASCII art representations
+  cs: Převádí výrazy ve stylu Markdown na reprezentace v ASCII art
+  de: Wandelt Markdown-artige Ausdrücke in ASCII-Art-Darstellungen um
+  es: Convierte expresiones al estilo Markdown en representaciones de arte ASCII
+  fr: Convertit les expressions de type Markdown en représentations en art ASCII
+  id: Mengubah ekspresi bergaya Markdown menjadi representasi ASCII art
+  it: Converte espressioni in stile Markdown in rappresentazioni in ASCII art
+  ja: Markdown形式の式をASCIIアート表現に変換します
+  ko: Markdown 스타일 표현을 ASCII 아트 표현으로 변환합니다
+  pl: Konwertuje wyrażenia w stylu Markdown na reprezentacje w ASCII art
+  pt: Converte expressões no estilo Markdown em representações em arte ASCII
+  ro: Convertește expresii în stil Markdown în reprezentări de artă ASCII
+  ru: Преобразует выражения в стиле Markdown в представления в виде ASCII-арта
+  th: แปลงนิพจน์แบบ Markdown เป็นภาพ ASCII art
+  tr: Markdown tarzı ifadeleri ASCII sanatı gösterimlerine dönüştürür
+  uk: Перетворює вирази у стилі Markdown на ASCII-арт зображення
+  vi: Chuyển đổi các biểu thức theo phong cách Markdown thành hình ảnh ASCII art
 homepage: https://github.com/ArthurSonzogni/Diagon
 license: MIT
 x:

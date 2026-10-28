@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Goss 是一个基于 YAML 的 serverspec 替代工具，用于验证服务器的配置。它允许用户从当前系统状态生成测试，从而简化了编写测试的过程
   en: Goss is a YAML based serverspec alternative tool for validating a server’s configuration. It eases the process of writing tests by allowing the user to generate tests from the current system state
+  cs: Goss je nástroj založený na YAML, který slouží jako alternativa k serverspec a slouží k ověřování konfigurace serveru. Usnadňuje psaní testů tím, že umožňuje uživateli generovat testy z aktuálního stavu systému
+  de: Goss ist ein YAML-basiertes Werkzeug als Alternative zu serverspec zur Validierung der Konfiguration eines Servers. Es erleichtert das Schreiben von Tests, da der Benutzer Tests aus dem aktuellen Systemzustand generieren kann
+  es: Goss es una herramienta basada en YAML y alternativa a serverspec para validar la configuración de un servidor. Facilita la escritura de pruebas al permitir al usuario generar pruebas a partir del estado actual del sistema
+  fr: Goss est un outil basé sur YAML, alternative à serverspec, pour valider la configuration d'un serveur. Il facilite l'écriture des tests en permettant à l'utilisateur de générer des tests à partir de l'état actuel du système
+  id: Goss adalah alat berbasis YAML alternatif dari serverspec untuk memvalidasi konfigurasi server. Alat ini memudahkan penulisan tes dengan mengizinkan pengguna membuat tes dari status sistem saat ini
+  it: Goss è uno strumento basato su YAML, alternativa a serverspec, per convalidare la configurazione di un server. Facilita la scrittura dei test consentendo all'utente di generare test dallo stato attuale del sistema
+  ja: Goss は YAML ベースのツールで、サーバーの構成を検証するための serverspec の代替です。現在のシステム状態からテストを生成できるため、テストを書くのが容易になります
+  ko: Goss는 서버 구성을 검증하기 위한 YAML 기반 도구로 serverspec의 대안입니다. 현재 시스템 상태에서 테스트를 생성할 수 있어 테스트 작성이 쉬워집니다
+  pl: Goss to narzędzie oparte na YAML, alternatywa dla serverspec, służące do weryfikacji konfiguracji serwera. Ułatwia pisanie testów, umożliwiając użytkownikowi generowanie testów z bieżącego stanu systemu
+  pt: Goss é uma ferramenta baseada em YAML, alternativa ao serverspec, para validar a configuração de um servidor. Facilita a escrita de testes ao permitir que o usuário gere testes a partir do estado atual do sistema
+  ro: Goss este un instrument bazat pe YAML, alternativă la serverspec, pentru validarea configurației unui server. Facilitează scrierea testelor permițând utilizatorului să genereze teste din starea curentă a sistemului
+  ru: Goss — инструмент на основе YAML, альтернатива serverspec, для проверки конфигурации сервера. Он упрощает написание тестов, позволяя пользователю генерировать тесты из текущего состояния системы
+  th: Goss เป็นเครื่องมือที่ใช้ YAML ซึ่งเป็นทางเลือกแทน serverspec สำหรับตรวจสอบการตั้งค่าเซิร์ฟเวอร์ ช่วยให้เขียนเทสต์ง่ายขึ้น เพราะผู้ใช้สามารถสร้างเทสต์จากสถานะปัจจุบันของระบบได้
+  tr: Goss, bir sunucu yapılandırmasını doğrulamak için serverspec'e alternatif olan YAML tabanlı bir araçtır. Kullanıcının testleri mevcut sistem durumundan oluşturmasına izin vererek test yazma sürecini kolaylaştırır
+  uk: Goss — інструмент на основі YAML, альтернатива serverspec, для перевірки конфігурації сервера. Він спрощує написання тестів, дозволяючи користувачеві генерувати тести з поточного стану системи
+  vi: Goss là công cụ dựa trên YAML, thay thế cho serverspec, dùng để kiểm tra cấu hình máy chủ. Nó đơn giản hóa việc viết kiểm thử bằng cách cho phép người dùng sinh ra bộ kiểm thử từ trạng thái hiện tại của hệ thống
 x:
   source: https://github.com/goss-org/goss
   eget: goss-org/goss

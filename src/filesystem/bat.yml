@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: '`cat` 命令的克隆，带有 git 集成，支持语法高亮显示'
   en: A `cat` clone with git integration and syntax highlighting support
+  cs: Klon příkazu `cat` s integrací git a podporou zvýrazňování syntaxe
+  de: Ein Klon von `cat` mit git-Integration und Unterstützung für Syntaxhervorhebung
+  es: Un clon de `cat` con integración de git y soporte para el resaltado de sintaxis
+  fr: Un clone de `cat` avec intégration de git et prise en charge de la coloration syntaxique
+  id: Klon `cat` dengan integrasi git dan dukungan sorotan sintaks
+  it: Un clone di `cat` con integrazione git e supporto per l'evidenziazione della sintassi
+  ja: "`cat` のクローンで、git 統合と構文ハイライトに対応しています"
+  ko: git 통합과 구문 강조 표시를 지원하는 `cat` 클론
+  pl: Klon polecenia `cat` z integracją git i obsługą podświetlania składni
+  pt: Um clone do `cat` com integração git e suporte a realce de sintaxe
+  ro: Un clone al comenzii `cat` cu integrare git și suport pentru evidențierea sintaxei
+  ru: Клон `cat` с интеграцией git и поддержкой подсветки синтаксиса
+  th: โคลนของ `cat` พร้อมการผสานรวมกับ git และรองรับการไฮไลต์ไวยากรณ์
+  tr: git entegrasyonu ve sözdizimi vurgulama desteğiyle `cat` klonu
+  uk: Клон `cat` з інтеграцією git та підтримкою підсвічування синтаксису
+  vi: Bản sao chép của `cat` có tích hợp git và hỗ trợ tô sáng cú pháp
 lang: Go
 x:
   source: https://github.com/sharkdp/bat

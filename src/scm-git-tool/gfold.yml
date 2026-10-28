@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于跟踪目录中多个 Git 存储库的命令行工具。
   en: A CLI tool that helps you keep track of multiple Git repositories.
+  cs: Nástroj CLI, který vám pomůže mít přehled o více git repozitářích
+  de: Ein CLI-Werkzeug, das Ihnen hilft, mehrere Git-Repositories zu verwalten
+  es: Una herramienta de CLI que te ayuda a mantener el control de varios repositorios de Git
+  fr: Un outil CLI qui vous aide à garder une trace de plusieurs dépôts Git
+  id: Alat CLI yang membantu Anda melacak banyak repositori Git
+  it: Uno strumento CLI che ti aiuta a tenere traccia di più repository Git
+  ja: 複数のGitリポジトリを管理するのに役立つCLIツール
+  ko: 여러 Git 저장소를 관리하도록 돕는 CLI 도구
+  pl: Narzędzie CLI, które pomaga śledzić wiele repozytoriów git
+  pt: Uma ferramenta de CLI que ajuda você a manter o controle de vários repositórios Git
+  ro: Un instrument CLI care vă ajută să țineți evidența mai multor depozite Git
+  ru: CLI-инструмент, который помогает отслеживать несколько git-репозиториев
+  th: เครื่องมือ CLI ที่ช่วยให้คุณติดตาม repository ของ Git หลายแห่ง
+  tr: Birden fazla Git deposunu takip etmenize yardımcı olan bir CLI aracı
+  uk: CLI-інструмент, який допомагає відстежувати кілька git-репозиторіїв
+  vi: Công cụ CLI giúp bạn theo dõi nhiều kho Git
 x:
   source: https://github.com/nickgerace/gfold
   eget: nickgerace/gfold

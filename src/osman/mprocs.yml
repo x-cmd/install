@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Mprocs 并行运行多个命令，并分别显示每个命令的输出
   en: Mprocs runs multiple commands in parallel and shows output of each command separately
+  cs: Mprocs spouští více příkazů paralelně a ukazuje výstup každého příkazu zvlášť
+  de: Mprocs führt mehrere Befehle parallel aus und zeigt die Ausgabe jedes Befehls getrennt an
+  es: Mprocs ejecuta varios comandos en paralelo y muestra la salida de cada comando por separado
+  fr: Mprocs exécute plusieurs commandes en parallèle et affiche la sortie de chaque commande séparément
+  id: Mprocs menjalankan beberapa perintah secara paralel dan menampilkan keluaran setiap perintah secara terpisah
+  it: Mprocs esegue più comandi in parallelo e mostra l'output di ciascun comando separatamente
+  ja: Mprocs は複数のコマンドを並行して実行し、各コマンドの出力を個別に表示します
+  ko: Mprocs는 여러 명령을 병렬로 실행하고 각 명령의 출력을 각각 표시합니다
+  pl: Mprocs uruchamia wiele poleceń równolegle i pokazuje wyjście każdego z osobna
+  pt: Mprocs executa vários comandos em paralelo e mostra a saída de cada comando separadamente
+  ro: Mprocs rulează mai multe comenzi în paralel și afișează separat ieșirea fiecărei comenzi
+  ru: Mprocs запускает несколько команд параллельно и показывает вывод каждой команды отдельно
+  th: Mprocs รันหลายคำสั่งพร้อมกันและแสดงผลลัพธ์ของแต่ละคำสั่งแยกกัน
+  tr: Mprocs birden fazla komutu paralel olarak çalıştırır ve her komutun çıktısını ayrı ayrı gösterir
+  uk: Mprocs запускає кілька команд паралельно і показує вивід кожної команди окремо
+  vi: Mprocs chạy nhiều lệnh song song và hiển thị đầu ra của từng lệnh riêng biệt
 x:
   source: https://github.com/pvolok/mprocs
   eget: pvolok/mprocs

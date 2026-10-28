@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 功能丰富的终端文本查看器
   en: Feature-rich terminal text viewer
+  cs: Textový prohlížeč pro terminál s bohatými funkcemi
+  de: Funktionsreicher Textviewer für das Terminal
+  es: Visor de texto para terminal con muchas funciones
+  fr: Visionneuse de texte pour terminal riche en fonctionnalités
+  id: Penampil teks terminal yang kaya fitur
+  it: Visualizzatore di testo per terminale ricco di funzionalità
+  ja: 機能豊富なターミナル用テキストビューア
+  ko: 기능이 풍부한 터미널 텍스트 뷰어
+  pl: Bogaty w funkcje terminalowy podgląd tekstu
+  pt: Visualizador de texto para terminal com muitos recursos
+  ro: Vizualizator de text pentru terminal cu multe funcții
+  ru: Функциональный просмотрщик текста для терминала
+  th: โปรแกรมดูข้อความบนเทอร์มินัลที่มีความสามารถครบถ้วน
+  tr: Özellik açısından zengin terminal metin görüntüleyici
+  uk: Функціональний переглядач тексту для термінала
+  vi: Trình xem văn bản trên terminal giàu tính năng
 x:
   source: https://github.com/noborus/ov
   eget: noborus/ov

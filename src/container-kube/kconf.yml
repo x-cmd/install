@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一种用于管理多个 kubeconfigs 的有用命令行工具
   en: An opinionated command line tool for managing multiple kubeconfigs
+  cs: Nástroj příkazové řádky s jasným názorem pro správu více kubeconfigů
+  de: Ein Meinungsfreudiges Kommandozeilenwerkzeug zum Verwalten mehrerer kubeconfigs
+  es: Una herramienta de línea de comandos con opinión propia para gestionar múltiples kubeconfigs
+  fr: Un outil de ligne de commande dogmatique pour gérer plusieurs kubeconfigs
+  id: Alat baris perintah berpendirian untuk mengelola beberapa kubeconfig
+  it: Un'utilità da riga di comando con opinioni ferme per gestire più kubeconfig
+  ja: 複数の kubeconfig を管理するための Opinionated コマンドラインツール
+  ko: 여러 kubeconfig를 관리하기 위한 opinionated 커맨드라인 도구
+  pl: Narzędzie wiersza poleceń o wyraźnych poglądach do zarządzania wieloma kubeconfigami
+  pt: Uma ferramenta de linha de comando com opiniões fortes para gerenciar vários kubeconfigs
+  ro: Un instrument de linie de comandă cu opinii bine definite pentru gestionarea mai multor kubeconfig-uri
+  ru: Утилита командной строки с собственным мнением для управления несколькими kubeconfig
+  th: เครื่องมือบรรทัดคำสั่งที่มีความคิดเห็นชัดเจนสำหรับการจัดการ kubeconfig หลายชุด
+  tr: Birden fazla kubeconfig yönetmek için kendi felsefesine sahip bir komut satırı aracı
+  uk: Утиліта командного рядка з власною думкою для керування кількома kubeconfig
+  vi: Công cụ dòng lệnh có chủ đích dành cho quản lý nhiều kubeconfig
 x:
   source: https://github.com/particledecay/kconf
   eget: particledecay/kconf

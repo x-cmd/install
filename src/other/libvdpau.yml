@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/vdpau/libvdpau
 desc:
   en: Open source Video Decode and Presentation API library
   cn: 开源视频解码和演示 API 库
+  cs: Knihovna open source pro API pro dekódování a prezentaci videa
+  de: Open-Source-Bibliothek für Video-Decode- und Presentation-API
+  es: Biblioteca de código abierto para la API de decodificación y presentación de vídeo
+  fr: Bibliothèque open source pour l'API de décodage et de présentation vidéo
+  id: Pustaka sumber terbuka untuk API Dekode dan Presentasi Video
+  it: Libreria open source per l'API di decodifica e presentazione video
+  ja: オープンソースのビデオデコードおよびプレゼンテーション API ライブラリ
+  ko: 오픈 소스 비디오 디코딩 및 프레젠테이션 API 라이브러리
+  pl: Biblioteka open source dla API dekodowania i prezentacji wideo
+  pt: Biblioteca de código aberto para a API de decodificação e apresentação de vídeo
+  ro: Bibliotecă open source pentru API-ul de decodare și prezentare video
+  ru: Библиотека с открытым исходным кодом для API декодирования и вывода видео
+  th: ไลบรารีโอเพนซอร์สสำหรับ API การถอดรหัสและการนำเสนอวิดีโอ
+  tr: Video Decode ve Presentation API kütüphanesi (açık kaynak)
+  uk: Бібліотека з відкритим кодом для API декодування та відображення відео
+  vi: Thư viện mã nguồn mở cho API giải mã và trình chiếu video
 rule:
   darwin/brew:
     cmd: brew install libvdpau

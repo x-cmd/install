@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 面向 Vim 用户的 Matrix 客户端
   en: 'A Matrix client for Vim addicts'
+  cs: Matrix klient pro závislé na Vim
+  de: Ein Matrix-Client für Vim-Enthusiasten
+  es: Un cliente de Matrix para aficionados a Vim
+  fr: Un client Matrix pour les fanatiques de Vim
+  id: Klien Matrix untuk pencinta Vim
+  it: Un client Matrix per gli appassionati di Vim
+  ja: Vim中毒者向けの Matrix クライアント
+  ko: Vim 매니아를 위한 Matrix 클라이언트
+  pl: Klient Matrix dla fanatyków Vima
+  pt: Um cliente Matrix para viciados do Vim
+  ro: Un client Matrix pentru fanii Vim
+  ru: Клиент Matrix для поклонников Vim
+  th: ไคลเอนต์ Matrix สำหรับคนหลงใจ Vim
+  tr: Vim bağımlıları için bir Matrix istemcisi
+  uk: Клієнт Matrix для шанувальників Vim
+  vi: Ứng dụng Matrix cho những người nghiện Vim
 x:
   source: https://github.com/ulyssa/iamb
   eget: ulyssa/iamb

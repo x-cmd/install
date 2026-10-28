@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Paru 是一个标准的 pacman 包装器，同时也是 AUR 助手，它功能丰富且交互极简。
   en: Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction
+  cs: Paru je standardní AUR helper s obalíkem pacman, plný funkcí a s minimální interakcí
+  de: Paru ist der standardmäßige AUR-Helfer mit pacman-Wrapper, voller Funktionen und minimaler Interaktion
+  es: Paru es el ayudante de AUR estándar con envoltorio de pacman, con muchas funciones e interacción mínima
+  fr: Paru est l'assistant AUR standard enveloppant pacman, avec de nombreuses fonctionnalités et une interaction minimale
+  id: Paru adalah pembantu AUR standar pembungkus pacman dengan banyak fitur dan interaksi minimal
+  it: Paru è il helper AUR standard che avvolge pacman, con molte funzionalità e interazione minima
+  ja: Paru は pacman をラップする標準的な AUR ヘルパーで、豊富な機能と最小限の操作性を備えています
+  ko: Paru는 pacman을 감싸는 표준 AUR 도우미로, 풍부한 기능과 최소한의 상호작용을 제공합니다
+  pl: Paru to standardowy helper AUR opakowujący pacman, z wieloma funkcjami i minimalną interakcją
+  pt: Paru é o auxiliar de AUR padrão que envolve o pacman, com muitos recursos e interação mínima
+  ro: Paru este asistentul AUR standard care învelește pacman, cu multe funcții și interacțiune minimă
+  ru: Paru — стандартный AUR-помощник с обёрткой pacman, с множеством возможностей и минимумом взаимодействия
+  th: Paru คือตัวช่วย AUR มาตรฐานที่ห่อหุ้ม pacman พร้อมคุณสมบัติมากมายและการโต้ตอบน้อยที่สุด
+  tr: Paru, pacman'ı saran, birçok özelliğe sahip ve etkileşimi en aza indiren standart AUR yardımcısıdır
+  uk: Paru — стандартний AUR-помічник з обгорткою pacman, з безліччю можливостей і мінімальною взаємодією
+  vi: Paru là trình trợ giúp AUR tiêu chuẩn bọc pacman, với nhiều tính năng và mức tương tác tối thiểu
 x:
   source: https://github.com/Morganamilo/paru
   eget: Morganamilo/paru

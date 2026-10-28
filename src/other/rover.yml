@@ -3,6 +3,22 @@ homepage: https://github.com/apollographql/rover
 desc:
   cn: Rover 是使用 Apollo GraphOS 管理和维护图形的命令行界面
   en: Rover is the command-line interface for managing and maintaining graphs with Apollo GraphOS
+  cs: Rover je rozhraní příkazového řádku pro správu a údržbu grafů pomocí Apollo GraphOS
+  de: Rover ist die Kommandozeilenschnittstelle zum Verwalten und Pflegen von Graphen mit Apollo GraphOS
+  es: Rover es la interfaz de línea de comandos para gestionar y mantener grafos con Apollo GraphOS
+  fr: Rover est l'interface en ligne de commande pour gérer et maintenir des graphes avec Apollo GraphOS
+  id: Rover adalah antarmuka baris perintah untuk mengelola dan memelihara graph dengan Apollo GraphOS
+  it: Rover è l'interfaccia a riga di comando per gestire e mantenere i grafi con Apollo GraphOS
+  ja: Rover は Apollo GraphOS でグラフを管理・保守するためのコマンドラインインターフェースです
+  ko: Rover는 Apollo GraphOS로 그래프를 관리하고 유지 보수하는 명령줄 인터페이스입니다
+  pl: Rover to interfejs wiersza poleceń do zarządzania i utrzymywania grafów za pomocą Apollo GraphOS
+  pt: Rover é a interface de linha de comando para gerenciar e manter grafos com o Apollo GraphOS
+  ro: Rover este interfața de linie de comandă pentru gestionarea și întreținerea grafilor cu Apollo GraphOS
+  ru: Rover — это интерфейс командной строки для управления и поддержки графов с помощью Apollo GraphOS
+  th: Rover คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับจัดการและดูแลรักษากราฟด้วย Apollo GraphOS
+  tr: Rover, Apollo GraphOS ile grafikleri yönetmek ve sürdürmek için komut satırı arayüzüdür
+  uk: Rover — це інтерфейс командного рядка для керування та підтримки графів за допомогою Apollo GraphOS
+  vi: Rover là giao diện dòng lệnh để quản lý và duy trì đồ thị với Apollo GraphOS
 x:
   source: https://github.com/apollographql/rover
   eget: apollographql/rover

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 终端中的 Markdown 查看器,支持渲染图片和大号标题
   en: 'A markdown viewer for the terminal that renders images and Big Headers™'
+  cs: Prohlížeč Markdownu pro terminál, který vykresluje obrázky a velké nadpisy™
+  de: Ein Markdown-Betrachter für das Terminal, der Bilder und große Überschriften™ rendert
+  es: Un visor de Markdown para la terminal que renderiza imágenes y encabezados grandes™
+  fr: Un visualiseur Markdown pour le terminal qui rend les images et les grands titres™
+  id: Penampil Markdown untuk terminal yang merender gambar dan judul besar™
+  it: Un visualizzatore Markdown per il terminale che renderizza immagini e intestazioni grandi™
+  ja: 画像と大きな見出し™を描画するターミナル用 Markdown ビューア
+  ko: 이미지와 큰 제목™을 렌더링하는 터미널용 Markdown 뷰어
+  pl: Przeglądarka Markdown dla terminala, która renderuje obrazy i duże nagłówki™
+  pt: Um visualizador de Markdown para o terminal que renderiza imagens e grandes cabeçalhos™
+  ro: Un vizualizator Markdown pentru terminal care redă imagini și titluri mari™
+  ru: Просмотрщик Markdown для терминала, отображающий изображения и большие заголовки™
+  th: ตัวดู Markdown สำหรับเทอร์มินัลที่เรนเดอร์รูปภาพและหัวข้อขนาดใหญ่™
+  tr: Görselleri ve büyük başlıkları işleyen terminal için bir Markdown görüntüleyici™
+  uk: Переглядач Markdown для термінала, який відтворює зображення та великі заголовки™
+  vi: Trình xem Markdown cho terminal hiển thị hình ảnh và tiêu đề lớn™
 x:
   source: https://github.com/benjajaja/mdfried
   eget: benjajaja/mdfried

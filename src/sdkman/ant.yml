@@ -3,6 +3,22 @@ homepage: https://github.com/apache/ant
 desc:
   cn: Java 构建工具
   en: Java build tool
+  cs: nástroj na sestavování Java
+  de: Java-Build-Tool
+  es: herramienta de compilación de Java
+  fr: outil de build Java
+  id: alat build Java
+  it: strumento di build Java
+  ja: Java ビルドツール
+  ko: Java 빌드 도구
+  pl: narzędzie do budowania Javy
+  pt: ferramenta de build Java
+  ro: unealtă de construire Java
+  ru: инструмент сборки Java
+  th: เครื่องมือสร้าง Java
+  tr: Java derleme aracı
+  uk: інструмент збирання Java
+  vi: công cụ build Java
 x:
   source: https://github.com/apache/ant
   apt: ant

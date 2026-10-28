@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向团队的 Claude Code 多 Agent 编排工具
   en: Teams-first Multi-agent orchestration for Claude Code
+  cs: Orchestrace více agentů pro Claude Code zaměřená na týmy
+  de: Teamorientierte Multi-Agent-Orchestrierung für Claude Code
+  es: Orquestación multiagente centrada en equipos para Claude Code
+  fr: Orchestration multi-agents axée sur les équipes pour Claude Code
+  id: Orkestrasi multi-agent yang berfokus pada tim untuk Claude Code
+  it: Orchestrazione multi-agent orientata al team per Claude Code
+  ja: チーム为先の本格的な Claude Code 向けマルチエージェント・オーケストレーション
+  ko: 팀 중심의 Claude Code 멀티 에이전트 오케스트레이션
+  pl: Orkiestracja wieloagentowa skoncentrowana na zespołach dla Claude Code
+  pt: Orquestração multiagente centrada em equipes para Claude Code
+  ro: Orquestrare multi-agent orientată spre echipe pentru Claude Code
+  ru: Ориентированная на команды мультиагентная оркестрация для Claude Code
+  th: การประสานงานหลายเอเจนต์แบบเน้นทีมสำหรับ Claude Code
+  tr: Claude Code için ekip odaklı çoklu ajan orkestrasyonu
+  uk: Командно-орієнтована мультиагентна оркестрація для Claude Code
+  vi: Điều phối nhiều agent lấy trọng tâm là đội ngũ cho Claude Code
 x:
   source: https://github.com/Yeachan-Heo/oh-my-claudecode
   eget: Yeachan-Heo/oh-my-claudecode

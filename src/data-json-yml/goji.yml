@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Go 编写的类 Commitizen Emoji 提交工具与 AI 提交信息生成器
   en: 'Commitizen-like Emoji Commit Tool written in Go and AI commit message generator (think cz-emoji and other commitizen adapters but in go) 🚀'
+  cs: Nástroj pro Emoji commity podobný Commitizen, napsaný v Go, a generátor commit zpráv pomocí AI (jako cz-emoji a další commitizen adaptéři, ale v Go) 🚀
+  de: Emoji-Commit-Tool im Stil von Commitizen, in Go geschrieben, und KI-Commit-Nachrichtengenerator (denke cz-emoji und andere Commitizen-Adapter, aber in Go) 🚀
+  es: Herramienta de commits con Emoji similar a Commitizen, escrita en Go, y generador de mensajes de commit con IA (como cz-emoji y otros adaptadores de commitizen, pero en Go) 🚀
+  fr: Outil de commit Emoji similaire à Commitizen, écrit en Go, et générateur de messages de commit par IA (comme cz-emoji et autres adaptateurs commitizen, mais en Go) 🚀
+  id: Alat commit Emoji mirip Commitizen yang ditulis dengan Go, dan generator pesan commit AI (seperti cz-emoji dan adaptor commitizen lainnya, tetapi dalam Go) 🚀
+  it: Strumento di commit con Emoji simile a Commitizen, scritto in Go, e generatore di messaggi di commit con AI (tipo cz-emoji e altri adattatori commitizen, ma in Go) 🚀
+  ja: Go で書かれた Commitizen 風の Emoji コミットツールと AI コミットメッセージ生成器（cz-emoji などの commitizen アダプタを Go で書き直したようなものです）🚀
+  ko: Go로 작성된 Commitizen과 유사한 Emoji 커밋 도구이자 AI 커밋 메시지 생성기(cz-emoji 등 다른 commitizen 어댑터의 Go 버전) 🚀
+  pl: Narzędzie do commitów z Emoji podobne do Commitizen, napisane w Go, oraz generator komunikatów commitów oparty na AI (jak cz-emoji i inne adaptery commitizen, ale w Go) 🚀
+  pt: Ferramenta de commit com Emoji semelhante ao Commitizen, escrita em Go, e gerador de mensagens de commit com IA (como cz-emoji e outros adaptadores do commitizen, mas em Go) 🚀
+  ro: Instrument de commit cu Emoji similar cu Commitizen, scris în Go, și generator de mesaje de commit cu AI (ca cz-emoji și alți adaptori commitizen, dar în Go) 🚀
+  ru: Инструмент коммитов с Emoji наподобие Commitizen, написанный на Go, и генератор сообщений коммитов на базе ИИ (как cz-emoji и другие адаптеры commitizen, но на Go) 🚀
+  th: เครื่องมือ commit ด้วย Emoji คล้าย Commitizen เขียนด้วย Go และตัวสร้างข้อความ commit ด้วย AI (คล้าย cz-emoji และอดapters commitizen อื่น ๆ แต่เขียนด้วย Go) 🚀
+  tr: Go ile yazılmış Commitizen benzeri Emoji commit aracı ve yapay zeka destekli commit mesajı oluşturucu (cz-emoji ve diğer commitizen adaptörlerinin Go karşılığı gibi) 🚀
+  uk: Інструмент комітів з Emoji на кшталт Commitizen, написаний на Go, і генератор повідомлень комітів на основі ШІ (як cz-emoji та інші адаптери commitizen, але на Go) 🚀
+  vi: Công cụ commit Emoji tương tự Commitizen viết bằng Go, và trình tạo thông điệp commit bằng AI (giống cz-emoji và các adapter commitizen khác nhưng viết bằng Go) 🚀
 x:
   source: https://github.com/muandane/goji
   eget: muandane/goji

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A modern TUI tool for exploring container image layers with an intuitive interface
   cn: 一个具有直观界面的现代 TUI 工具，用于浏览容器镜像层
+  cs: Moderní nástroj TUI pro prohlížení vrstev obrazů kontejnerů s intuitivním rozhraním
+  de: Modernes TUI-Werkzeug zum Erkunden von Container-Image-Ebenen mit intuitiver Benutzeroberfläche
+  es: Herramienta TUI moderna para explorar las capas de imágenes de contenedor con una interfaz intuitiva
+  fr: Outil TUI moderne pour explorer les couches d'images de conteneurs avec une interface intuitive
+  id: Alat TUI modern untuk menjelajahi lapisan image kontainer dengan antarmuka yang intuitif
+  it: Strumento TUI moderno per esplorare i livelli delle immagini dei container con un'interfaccia intuitiva
+  ja: 直感的なインターフェースでコンテナイメージのレイヤーを探索するモダンな TUI ツール
+  ko: 직관적인 인터페이스로 컨테이너 이미지 레이어를 탐색하는 현대적인 TUI 도구
+  pl: Nowoczesne narzędzie TUI do przeglądania warstw obrazów kontenerów z intuicyjnym interfejsem
+  pt: Ferramenta TUI moderna para explorar camadas de imagens de contêiner com uma interface intuitiva
+  ro: Instrument TUI modern pentru explorarea straturilor de imagini de container cu o interfață intuitivă
+  ru: Современный TUI-инструмент для просмотра слоёв образов контейнеров с интуитивным интерфейсом
+  th: เครื่องมือ TUI สมัยใหม่สำหรับสำรวจชั้นอิมเมจคอนเทนเนอร์ด้วยอินเทอร์เฟซที่ใช้งานง่าย
+  tr: Sezgisel bir arayüzle konteyner imaj katmanlarını keşfetmek için modern bir TUI aracı
+  uk: Сучасний TUI-інструмент для огляду шарів образів контейнерів з інтуїтивним інтерфейсом
+  vi: Công cụ TUI hiện đại để khám phá các lớp image container với giao diện trực quan
 x:
   source: https://github.com/knqyf263/sou
   eget: knqyf263/sou

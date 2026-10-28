@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 提供自托管 Web 界面与持久自我进化的 Hermes AI 智能体交互，支持持续学习与任务自动化
   en: Provides a self-hosted web interface to interact with and manage the persistent, self-improving Hermes AI agent, enabling continuous learning and task automation.
+  cs: Poskytuje samohostované webové rozhraní pro interakci a správu trvalého, samozlepšujícího se AI agenta Hermes, což umožňuje průběžné učení a automatizaci úkolů.
+  de: Bietet eine Self-hosted Weboberfläche zur Interaktion mit und Verwaltung des dauerhaften, selbstverbessernden KI-Agenten Hermes und ermöglicht kontinuierliches Lernen und Aufgabenautomatisierung.
+  es: Proporciona una interfaz web autoalojada para interactuar con y gestionar el agente de IA persistente y autoaperfeccionable Hermes, lo que permite el aprendizaje continuo y la automatización de tareas.
+  fr: Fournit une interface web auto-hébergée pour interagir avec et gérer l'agent IA persistant et auto-améliorant Hermes, en permettant l'apprentissage continu et l'automatisation des tâches.
+  id: Menyediakan antarmuka web yang di-host sendiri untuk berinteraksi dengan dan mengelola agen AI Hermes yang persisten dan terus belajar, sehingga memungkinkan pembelajaran berkelanjutan dan otomasi tugas.
+  it: Fornisce un'interfaccia web self-hosted per interagire con e gestire l'agente AI persistente e auto-migliorante Hermes, consentendo apprendimento continuo e automazione delle attività.
+  ja: 永続的かつ自己改善する Hermes AI エージェントと対話・管理するためのセルフホスト型 Web インターフェースを提供し、継続的な学習とタスク自動化を可能にします。
+  ko: 지속적으로 자기 개선되는 Hermes AI 에이전트와 상호 작용하고 관리할 수 있는 자체 호스팅 웹 인터페이스를 제공하여 지속적인 학습과 작업 자동화를 지원합니다.
+  pl: Zapewnia samodzielnie hostowany interfejs webowy do interakcji z trwałym, samodoskonalącym się agentem AI Hermes, umożliwiając ciągłe uczenie się i automatyzację zadań.
+  pt: Fornece uma interface web auto-hospedada para interagir e gerenciar o agente de IA persistente e autoaperfeiçoado Hermes, permitindo aprendizado contínuo e automação de tarefas.
+  ro: Oferă o interfață web auto-găzduită pentru a interacționa cu și a gestiona agentul AI persistent și auto-îmbunătățit Hermes, permițând învățarea continuă și automatizarea sarcinilor.
+  ru: Предоставляет самостоятельно размещаемый веб-интерфейс для взаимодействия с постоянным, самообучающимся ИИ-агентом Hermes, позволяя непрерывное обучение и автоматизацию задач.
+  th: ให้เว็บอินเทอร์เฟซแบบโฮสต์เองสำหรับโต้ตอบและจัดการเอเจนต์ AI Hermes ที่คงอยู่และพัฒนาตัวเอง รองรับการเรียนรู้ต่อเนื่องและการทำงานอัตโนมัติ
+  tr: Kalıcı ve kendini geliştiren Hermes yapay zekâ ajanıyla etkileşim kurmak ve yönetmek için self-hosted bir web arayüzü sunar; sürekli öğrenme ve görev otomasyonu sağlar.
+  uk: Надає самостійно розміщуваний веб-інтерфейс для взаємодії з постійним, самовдосконалюваним ШІ-агентом Hermes, дозволяючи безперервне навчання та автоматизацію завдань.
+  vi: Cung cấp giao diện web tự lưu trữ để tương tác và quản lý tác nhân AI Hermes bền vững, liên tục tự cải thiện, nhờ đó cho phép học tập liên tục và tự động hóa tác vụ.
 x:
   source: https://github.com/nesquena/hermes-webui
   eget: nesquena/hermes-webui

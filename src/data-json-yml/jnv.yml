@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: jnv 专为浏览 JSON 而设计，提供了一个交互式的 JSON 查看器和 jq 过滤器编辑器
   en: jnv is designed for navigating JSON, offering an interactive JSON viewer and jq filter editor
+  cs: jnv je navržen pro procházení JSON a nabízí interaktivní prohlížeč JSON a editor filtrů jq
+  de: jnv ist zum Navigieren in JSON konzipiert und bietet einen interaktiven JSON-Viewer und einen jq-Filtereditor
+  es: jnv está diseñado para navegar por JSON y ofrece un visor JSON interactivo y un editor de filtros jq
+  fr: jnv est conçu pour naviguer dans le JSON et offre une visionneuse JSON interactive et un éditeur de filtres jq
+  id: jnv dirancang untuk menavigasi JSON, menyediakan penampil JSON interaktif dan editor filter jq
+  it: jnv è progettato per navigare nel JSON e offre un visualizzatore JSON interattivo e un editor di filtri jq
+  ja: jnv は JSON の閲覧のために設計され、対話的な JSON ビューアと jq フィルターエディタを提供します
+  ko: jnv는 JSON 탐색을 위해 설계되었으며 대화형 JSON 뷰어와 jq 필터 편집기를 제공합니다
+  pl: jnv jest zaprojektowany do nawigacji po JSON, oferując interaktywny podgląd JSON oraz edytor filtrów jq
+  pt: jnv foi projetado para navegar em JSON, oferecendo um visualizador JSON interativo e um editor de filtros jq
+  ro: jnv este conceput pentru navigarea prin JSON, oferind un vizualizator JSON interactiv și un editor de filtre jq
+  ru: jnv создан для навигации по JSON и предлагает интерактивный просмотрщик JSON и редактор фильтров jq
+  th: jnv ถูกออกแบบมาเพื่อการนำทางใน JSON โดยมี JSON viewer แบบโต้ตอบและตัวแก้ไขตัวกรอง jq
+  tr: jnv, JSON içinde gezinmek için tasarlanmıştır; etkileşimli bir JSON görüntüleyici ve jq filtre düzenleyicisi sunar
+  uk: jnv створено для навігації JSON і пропонує інтерактивний переглядач JSON та редактор фільтрів jq
+  vi: jnv được thiết kế để duyệt JSON, cung cấp trình xem JSON tương tác và trình chỉnh sửa bộ lọc jq
 x:
   source: https://github.com/ynqa/jnv
   eget: ynqa/jnv

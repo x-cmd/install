@@ -3,6 +3,22 @@ homepage: https://www.mercurial-scm.org/repo/hg
 desc:
   cn: Mercurial 是一款免费的分布式源代码控制管理工具
   en: Mercurial is a free, distributed source control management tool
+  cs: Mercurial je bezplatný distribuovaný nástroj pro správu verzí zdrojového kódu
+  de: Mercurial ist ein kostenloses, verteiltes Werkzeug zur Quellcodeverwaltung
+  es: Mercurial es una herramienta gratuita y distribuida de gestión de control de versiones
+  fr: Mercurial est un outil gratuit et distribué de gestion du contrôle de version
+  id: Mercurial adalah alat manajemen kontrol versi sumber gratis dan terdistribusi
+  it: Mercurial è un gratuito strumento distribuito di gestione del controllo di versione del codice sorgente
+  ja: Mercurialは無料の分散型ソースコード管理ツールです
+  ko: Mercurial은 무료 분산형 소스 코드 관리 도구입니다
+  pl: Mercurial to darmowe, rozproszone narzędzie do zarządzania kontrolą wersji kodu źródłowego
+  pt: Mercurial é uma ferramenta gratuita e distribuída de gerenciamento de controle de versão
+  ro: Mercurial este un instrument gratuit și distribuit de gestionare a controlului versiunilor
+  ru: Mercurial — бесплатный распределённый инструмент управления исходным кодом
+  th: Mercurial คือเครื่องมือจัดการควบคุมเวอร์ชันซอฟต์แวร์แบบกระจายและไม่มีค่าใช้จ่าย
+  tr: Mercurial, ücretsiz ve dağıtık bir kaynak kodu yönetimi aracıdır
+  uk: Mercurial — це безкоштовний розподілений інструмент керування вихідним кодом
+  vi: Mercurial là công cụ quản lý kiểm soát phiên bản mã nguồn miễn phí và phân tán
 rule:
   debian/apt:
     cmd: sudo apt-get install mercurial

@@ -3,6 +3,22 @@ homepage: https://github.com/sqlite/sqlite
 desc:
   cn: SQLite 是一个 C 语言库，它实现了一个小型、快速、自包含、高可靠、功能齐全的 SQL 数据库引擎
   en: SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
+  cs: SQLite je knihovna v jazyce C, která implementuje malý, rychlý, samostatný, vysoce spolehlivý a plně vybavený SQL databázový engine
+  de: SQLite ist eine C-Bibliothek, die eine kleine, schnelle, eigenständige, highly zuverlässige und voll ausgestattete SQL-Datenbank-Engine implementiert
+  es: SQLite es una biblioteca en lenguaje C que implementa un motor de base de datos SQL pequeño, rápido, autocontenido, de alta fiabilidad y con múltiples funciones
+  fr: SQLite est une bibliothèque en langage C qui implémente un moteur de base de données SQL compact, rapide, autonome, très fiable et complet
+  id: SQLite adalah pustaka bahasa C yang mengimplementasikan mesin basis data SQL yang kecil, cepat, mandiri, sangat andal, dan lengkap fiturnya
+  it: SQLite è una libreria in linguaggio C che implementa un motore di database SQL piccolo, veloce, autonomo, ad alta affidabilità e completo di funzionalità
+  ja: SQLite は、小型で高速、自己完結型、高信頼性、多機能な SQL データベースエンジンを実装した C 言語のライブラリです
+  ko: SQLite는 작고 빠르며 자체 완결적이고 신뢰성이 높고 기능이 풍부한 SQL 데이터베이스 엔진을 구현한 C 언어 라이브러리입니다
+  pl: SQLite to biblioteka w języku C implementująca mały, szybki, samodzielny, wysoce niezawodny i bogaty w funkcje silnik bazy danych SQL
+  pt: SQLite é uma biblioteca em linguagem C que implementa um mecanismo de banco de dados SQL pequeno, rápido, autocontido, de alta confiabilidade e com recursos completos
+  ro: SQLite este o bibliotecă în limbajul C care implementează un motor de bază de date SQL mic, rapid, autonom, extrem de fiabil și complet
+  ru: SQLite — библиотека на языке C, реализующая небольшой, быстрый, автономный, высоконадежный и полнофункциональный движок баз данных SQL
+  th: SQLite คือไลบรารีภาษา C ที่สร้าง SQL database engine ขนาดเล็ก เร็ว เป็นอิสระ ความน่าเชื่อถือสูง และมีความสามารถครบถ้วน
+  tr: SQLite, küçük, hızlı, kendi kendine yeterli, yüksek güvenilirlikli ve tam özellikli bir SQL veritabanı motoru uygulayan bir C dili kütüphanesidir
+  uk: SQLite — бібліотека мовою C, що реалізує невеликий, швидкий, автономний, високонадійний та повнофункціональний рушій баз даних SQL
+  vi: SQLite là thư viện ngôn ngữ C hiện thực một SQL database engine nhỏ gọn, nhanh, độc lập, độ tin cậy cao và đầy đủ tính năng
 x:
   source: https://github.com/sqlite/sqlite
   apt: sqlite3

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Conan 是 C 和 C++ 语言的依赖项和包管理器
   en: Conan is a dependency and package manager for C and C++ languages
+  cs: Conan je správce závislostí a balíčků pro jazyky C a C++
+  de: Conan ist ein Abhängigkeits- und Paketmanager für die Sprachen C und C++
+  es: Conan es un gestor de dependencias y paquetes para los lenguajes C y C++
+  fr: Conan est un gestionnaire de dépendances et de paquets pour les langages C et C++
+  id: Conan adalah pengelola dependensi dan paket untuk bahasa C dan C++
+  it: Conan è un gestore di dipendenze e pacchetti per i linguaggi C e C++
+  ja: Conan は C と C++ 言語向けの依存関係およびパッケージマネージャーです
+  ko: Conan은 C 및 C++ 언어를 위한 의존성 및 패키지 관리자입니다
+  pl: Conan to menedżer zależności i pakietów dla języków C i C++
+  pt: Conan é um gerenciador de dependências e pacotes para as linguagens C e C++
+  ro: Conan este un manager de dependențe și pachete pentru limbajele C și C++
+  ru: Conan — менеджер зависимостей и пакетов для языков C и C++
+  th: Conan คือตัวจัดการการพึ่งพาและแพ็กเกจสำหรับภาษา C และ C++
+  tr: Conan, C ve C++ dilleri için bir bağımlılık ve paket yöneticisidir
+  uk: Conan — менеджер залежностей і пакетів для мов C та C++
+  vi: Conan là trình quản lý phụ thuộc và gói cho các ngôn ngữ C và C++
 x:
   source: https://github.com/conan-io/conan
   eget: conan-io/conan

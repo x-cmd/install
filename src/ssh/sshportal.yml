@@ -3,6 +3,22 @@ homepage: https://v1.manfred.life/sshportal/
 desc:
   cn: 一个简单、有趣且透明的 SSH（和 Telnet）跳板机
   en: simple, fun and transparent SSH (and telnet) bastion
+  cs: jednoduchý, zábavný a transparentní SSH (a telnet) bastion
+  de: einfacher, unterhaltsamer und transparenter SSH- (und Telnet-) Bastion
+  es: bastión SSH (y telnet) simple, divertido y transparente
+  fr: bastion SSH (et telnet) simple, amusant et transparent
+  id: bastion SSH (dan telnet) yang sederhana, menyenangkan, dan transparan
+  it: bastion SSH (e telnet) semplice, divertente e trasparente
+  ja: シンプルで楽しい透明性のある SSH（および Telnet） bastion です
+  ko: 간단하고 재미있으며 투명한 SSH(및 telnet) bastion입니다
+  pl: prosty, zabawny i przejrzysty bastion SSH (i telnet)
+  pt: bastião SSH (e telnet) simples, divertido e transparente
+  ro: bastion SSH (și telnet) simplu, amuzant și transparent
+  ru: простой, забавный и прозрачный SSH (и telnet) bastion
+  th: bastion SSH (และ telnet) ที่เรียบง่าย สนุก และโปร่งใส
+  tr: basit, eğlenceli ve şeffaf bir SSH (ve telnet) bastion
+  uk: простий, цікавий і прозорий SSH (і telnet) bastion
+  vi: bastion SSH (và telnet) đơn giản, thú vị và minh bạch
 rule:
   darwin/brew:
     cmd: brew install sshportal

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 用于可视化和浏览 strace 输出的 TUI
   en: 'A terminal user interface (TUI) for visualizing and exploring strace output'
+  cs: Uživatelské rozhraní terminálu (TUI) pro vizualizaci a prohlížení výstupu strace
+  de: Eine Terminal-Benutzeroberfläche (TUI) zum Visualisieren und Erkunden der strace-Ausgabe
+  es: Una interfaz de usuario de terminal (TUI) para visualizar y explorar la salida de strace
+  fr: Une interface utilisateur de terminal (TUI) pour visualiser et explorer la sortie de strace
+  id: Antarmuka pengguna terminal (TUI) untuk memvisualisasikan dan menjelajahi keluaran strace
+  it: Un'interfaccia utente da terminale (TUI) per visualizzare ed esplorare l'output di strace
+  ja: strace の出力を可視化して探索するための端末ユーザーインターフェース (TUI)
+  ko: strace 출력을 시각화하고 탐색하기 위한 터미널 사용자 인터페이스(TUI)
+  pl: Terminalowy interfejs użytkownika (TUI) do wizualizacji i przeglądania wyjścia strace
+  pt: Uma interface de usuário de terminal (TUI) para visualizar e explorar a saída do strace
+  ro: O interfață de utilizator în terminal (TUI) pentru vizualizarea și explorarea rezultatului strace
+  ru: Терминальный пользовательский интерфейс (TUI) для визуализации и изучения вывода strace
+  th: อินเทอร์เฟซผู้ใช้เทอร์มินัล (TUI) สำหรับแสดงภาพและสำรวจผลลัพธ์ของ strace
+  tr: strace çıktısını görselleştirmek ve incelemek için bir terminal kullanıcı arayüzü (TUI)
+  uk: Термінальний користувацький інтерфейс (TUI) для візуалізації та дослідження виводу strace
+  vi: Giao diện người dùng terminal (TUI) để trực quan hóa và khám phá kết quả strace
 x:
   source: https://github.com/Rodrigodd/strace-tui
   eget: Rodrigodd/strace-tui

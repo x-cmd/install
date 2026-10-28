@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: markedpp 是在 Markdown 编写的文档的预处理器
   en: markedpp is a preprocessor for documents written in markdown
+  cs: markedpp je předzpracování dokumentů napsaných v markdownu
+  de: markedpp ist ein Vorverarbeiter für in Markdown geschriebene Dokumente
+  es: markedpp es un preprocesador de documentos escritos en markdown
+  fr: markedpp est un préprocesseur pour les documents écrits en markdown
+  id: markedpp adalah praprosesor untuk dokumen yang ditulis dengan markdown
+  it: markedpp è un preprocessore per documenti scritti in markdown
+  ja: markedpp は Markdown で書かれたドキュメントのプリプロセッサです
+  ko: markedpp는 markdown로 작성된 문서를 전처리하는 도구입니다
+  pl: markedpp to preprocesor dokumentów zapisanych w markdown
+  pt: markedpp é um pré-processador de documentos escritos em markdown
+  ro: markedpp este un preprocesor pentru documente scrise în markdown
+  ru: markedpp — это препроцессор для документов, написанных в markdown
+  th: markedpp คือตัวประมวลผลล่วงหน้าสำหรับเอกสารที่เขียนด้วย markdown
+  tr: markedpp, markdown ile yazılmış belgeler için bir ön işleyicidir
+  uk: markedpp — це препроцесор для документів, написаних у markdown
+  vi: markedpp là bộ tiền xử lý cho các tài liệu viết bằng markdown
 x:
   source: https://github.com/commenthol/markedpp
   npm: markedpp

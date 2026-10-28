@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Rust 编写的 ps 的现代替代
   en: A modern replacement for ps written in Rust
+  cs: Moderní alternativa k ps napsaná v Rustu
+  de: Ein moderner, in Rust geschriebener Ersatz für ps
+  es: Un sustituto moderno de ps escrito en Rust
+  fr: Un remplacement moderne de ps écrit en Rust
+  id: Pengganti modern untuk ps yang ditulis dalam Rust
+  it: Un sostituto moderno di ps scritto in Rust
+  ja: Rustで書かれた ps のモダンな代替ツールです。
+  ko: Rust로 작성된 ps의 현대적인 대체 도구입니다.
+  pl: Nowoczesny zamiennik ps napisany w Rust
+  pt: Um substituto moderno do ps escrito em Rust
+  ro: O înlocuitor modern pentru ps scris în Rust
+  ru: Современная замена ps, написанная на Rust
+  th: ตัวแทนสมัยใหม่ของ ps ที่เขียนด้วย Rust
+  tr: Rust ile yazılmış modern bir ps alternatifi
+  uk: Сучасна заміна ps, написана на Rust
+  vi: Một sự thay thế hiện đại cho ps được viết bằng Rust
 x:
   source: https://github.com/dalance/procs
   eget: dalance/procs

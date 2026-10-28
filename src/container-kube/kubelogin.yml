@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: kubelogin 是一个实现 azure 身份验证的客户端凭证 (exec) 插件
   en: kubelogin is a client-go credential (exec) plugin implementing azure authentication
+  cs: kubelogin je plugin pro přihlašovací údaje (exec) client-go, který implementuje ověřování azure
+  de: kubelogin ist ein client-go-Anmeldeinformations-Plugin (exec), das die Azure-Authentifizierung implementiert
+  es: kubelogin es un complemento de credenciales (exec) de client-go que implementa la autenticación de azure
+  fr: kubelogin est un plugin d'identifiants (exec) de client-go implémentant l'authentification azure
+  id: kubelogin adalah plugin kredensial (exec) client-go yang mengimplementasikan autentikasi azure
+  it: kubelogin è un plugin per le credenziali (exec) di client-go che implementa l'autenticazione azure
+  ja: kubelogin は azure 認証を実装する client-go の資格情報 (exec) プラグインです
+  ko: kubelogin은 azure 인증을 구현하는 client-go 자격 증명(exec) 플러그인입니다
+  pl: kubelogin to wtyczka poświadczeń (exec) client-go implementująca uwierzytelnianie azure
+  pt: kubelogin é um plugin de credenciais (exec) do client-go que implementa a autenticação azure
+  ro: kubelogin este un plugin de credențiale (exec) pentru client-go care implementează autentificarea azure
+  ru: kubelogin — это плагин учётных данных (exec) для client-go, реализующий аутентификацию azure
+  th: kubelogin เป็นปลั๊กอินข้อมูลรับรอง (exec) ของ client-go ที่ทำหน้าที่ยืนยันตัวตนของ azure
+  tr: kubelogin, azure kimlik doğrulamasını gerçekleyen bir client-go kimlik bilgisi (exec) eklentisidir
+  uk: kubelogin — це плагін облікових даних (exec) для client-go, що реалізує автентифікацію azure
+  vi: kubelogin là plugin thông tin xác thực (exec) của client-go, thực hiện xác thực azure
 x:
   source: https://github.com/Azure/kubelogin
   eget: Azure/kubelogin

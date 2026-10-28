@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: tone 是一个跨平台音频标记器和元数据编辑器，用于转储和修改各种格式的元数据，包括 mp3、m4b、flac 等
   en: tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more
+  cs: tone je multiplatformní audio tagger a editor metadat pro výpis a úpravu metadat v široké šíle formátů, včetně mp3, m4b, flac a dalších
+  de: tone ist ein plattformübergreifender Audio-Tagger und Metadaten-Editor zum Ausgeben und Ändern von Metadaten für eine Vielzahl von Formaten, darunter mp3, m4b, flac und mehr
+  es: tone es un etiquetador de audio y editor de metadatos multiplataforma para volcar y modificar metadatos de una gran variedad de formatos, incluidos mp3, m4b, flac y más
+  fr: tone est un étiqueteur audio et éditeur de métadonnées multiplateforme permettant d'afficher et de modifier les métadonnées d'une grande variété de formats, dont mp3, m4b, flac et plus encore
+  id: tone adalah penanda audio dan editor metadata lintas platform untuk membuang dan memodifikasi metadata dalam berbagai format, termasuk mp3, m4b, flac, dan lainnya
+  it: tone è un tagger audio ed editor di metadati multipiattaforma per estrarre e modificare i metadati di una grande varietà di formati, tra cui mp3, m4b, flac e altro
+  ja: tone はクロスプラットフォームの音频タグ付け・メタデータ編集ツールで、mp3、m4b、flac などのさまざまな形式のメタデータをダンプして変更できます
+  ko: tone은 mp3, m4b, flac 등 다양한 형식의 메타데이터를 덤프하고 수정하는 크로스 플랫폼 오디오 태거 및 메타데이터 편집기
+  pl: tone to wieloplatformowy tagger audio i edytor metadanych służący do wypisywania i modyfikowania metadanych w szerokiej gamie formatów, w tym mp3, m4b, flac i inne
+  pt: tone é um marcador de áudio e editor de metadados multiplataforma para extrair e modificar metadados de uma grande variedade de formatos, incluindo mp3, m4b, flac e mais
+  ro: tone este un etichetator audio și editor de metadate multiplatformă pentru extragerea și modificarea metadelor într-o mare varietate de formate, inclusiv mp3, m4b, flac și altele
+  ru: tone — кроссплатформенный тегировщик аудио и редактор метаданных для вывода и изменения метаданных в самых разных форматах, включая mp3, m4b, flac и другие
+  th: tone คือเครื่องมือแท็กและแก้ไขเมทาดาทาสำหรับเสียงข้ามแพลตฟอร์ม ใช้ดัมพ์และแก้ไขเมทาดาของรูปแบบต่าง ๆ มากมาย รวมถึง mp3, m4b, flac และอื่น ๆ
+  tr: tone, mp3, m4b, flac ve daha fazlası dahil çok çeşitli formatlardaki metadataları dökmek ve değiştirmek için çok platformlu bir ses etiketleyici ve metadat editörüdür.
+  uk: tone — кроссплатформний теґувач аудіо та редактор метаданих для виведення й зміни метаданих у найрізноманітніших форматах, зокрема mp3, m4b, flac та інших
+  vi: tone là công cụ gắn thẻ âm thanh và chỉnh sửa siêu dữ liệu đa nền tảng, dùng để trích xuất và sửa siêu dữ liệu của nhiều định dạng, gồm mp3, m4b, flac và hơn thế
 x:
   source: https://github.com/sandreas/tone
   eget: sandreas/tone

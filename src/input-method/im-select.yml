@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个命令行工具，用于在 macOS 上切换输入法
   en: A command-line tool to switch input method on macOS
+  cs: Nástroj příkazové řádky pro přepínání metody zadávání vstupu na macOS
+  de: Ein Kommandozeilen-Tool zum Umschalten der Eingabemethode unter macOS
+  es: Una herramienta de línea de comandos para cambiar el método de entrada en macOS
+  fr: Un outil en ligne de commande pour changer de méthode de saisie sur macOS
+  id: Alat baris perintah untuk mengganti metode input di macOS
+  it: Uno strumento da riga di comando per cambiare metodo di input su macOS
+  ja: macOS で入力方法を切り替えるコマンドラインツール
+  ko: macOS에서 입력 방식을 전환하는 명령줄 도구입니다
+  pl: Narzędzie wiersza poleceń do przełączania metody wprowadzania w systemie macOS
+  pt: Uma ferramenta de linha de comando para trocar o método de entrada no macOS
+  ro: Un instrument de linie de comandă pentru a comuta metoda de introducere pe macOS
+  ru: Командный инструмент для переключения метода ввода в macOS
+  th: เครื่องมือบรรทัดคำสั่งสำหรับสลับวิธีการป้อนข้อมูลบน macOS
+  tr: macOS'ta giriş yöntemini değiştirmek için bir komut satırı aracı
+  uk: Командний інструмент для перемикання методу введення у macOS
+  vi: Công cụ dòng lệnh để chuyển đổi phương thức nhập trên macOS
 x:
   source: https://github.com/daipeihust/im-select
   brew: daipeihust/tap/im-select

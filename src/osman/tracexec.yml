@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: A small utility for tracing execve{,at} and pre-exec behavior.
   cn: 这是一个用于跟踪 execve{,at} 及 pre-exec 行为的小型工具。
+  cs: Malý nástroj pro trasování execve{,at} a chování pre-exec.
+  de: Ein kleines Werkzeug zum Verfolgen von execve{,at} und pre-exec-Verhalten.
+  es: Una pequeña utilidad para rastrear execve{,at} y el comportamiento de pre-exec.
+  fr: Un petit outil pour tracer execve{,at} et le comportement pre-exec.
+  id: Utilitas kecil untuk melacak execve{,at} dan perilaku pre-exec.
+  it: Una piccola utilità per tracciare execve{,at} e il comportamento pre-exec.
+  ja: execve{,at} と pre-exec の動作を追跡する小さなユーティリティ。
+  ko: execve{,at} 및 pre-exec 동작을 추적하는 소형 유틸리티.
+  pl: Małe narzędzie do śledzenia execve{,at} i zachowania pre-exec.
+  pt: Um pequeno utilitário para rastrear execve{,at} e o comportamento de pre-exec.
+  ro: O mică utilitate pentru urmărirea execve{,at} și a comportamentului pre-exec.
+  ru: Небольшая утилита для трассировки execve{,at} и поведения pre-exec.
+  th: ยูทิลิตี้ขนาดเล็กสำหรับติดตาม execve{,at} และพฤติกรรม pre-exec
+  tr: execve{,at} ve pre-exec davranışını izlemek için küçük bir araç.
+  uk: Невелика утиліта для трасування execve{,at} та поведінки pre-exec.
+  vi: Tiện ích nhỏ để theo dõi execve{,at} và hành vi pre-exec.
 x:
   source: https://github.com/kxxt/tracexec
   pacman: tracexec

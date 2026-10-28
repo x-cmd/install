@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: GRV 是一个基于终端的界面，用于查看 Git 仓库。
   en: GRV is a terminal based interface for viewing Git repositories.
+  cs: GRV je rozhraní založené na terminálu pro prohlížení Git repozitářů.
+  de: GRV ist eine terminalbasierte Benutzeroberfläche zum Anzeigen von Git-Repositorys.
+  es: GRV es una interfaz basada en terminal para ver repositorios de Git.
+  fr: GRV est une interface basée sur le terminal pour consulter les dépôts Git.
+  id: GRV adalah antarmuka berbasis terminal untuk melihat repositori Git.
+  it: GRV è un'interfaccia basata sul terminale per visualizzare i repository Git.
+  ja: GRV は Git リポジトリを表示するための端末ベースのインターフェースです。
+  ko: GRV는 Git 저장소를 확인하기 위한 터미널 기반 인터페이스입니다.
+  pl: GRV to oparte na terminalu interfejs do przeglądania repozytoriów Git.
+  pt: O GRV é uma interface baseada em terminal para visualizar repositórios Git.
+  ro: GRV este o interfață bazată pe terminal pentru vizualizarea depozitelor Git.
+  ru: GRV — это интерфейс на основе терминала для просмотра репозиториев Git.
+  th: GRV คือส่วนติดต่อผู้ใช้บนพื้นฐานเทอร์มินัลสำหรับดูที่เก็บข้อมูล Git
+  tr: GRV, Git depolarını görüntülemek için terminal tabanlı bir arayüzdür.
+  uk: GRV — це інтерфейс на основі терміналу для перегляду репозиторіїв Git.
+  vi: GRV là giao diện dựa trên terminal để xem các kho lưu trữ Git
 x:
   source: https://github.com/rgburke/grv
   eget: rgburke/grv

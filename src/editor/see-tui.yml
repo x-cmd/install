@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 基于 TUI 的服务日志查询工具(systemd)
   en: 'see (Service Event Extraction) is a TUI based tool to lookup logs from services (systemd)'
+  cs: see (Service Event Extraction) je nástroj založený na TUI pro vyhledávání v logech služeb (systemd)
+  de: see (Service Event Extraction) ist ein TUI-basiertes Werkzeug zum Abrufen von Protokollen von Diensten (systemd)
+  es: see (Service Event Extraction) es una herramienta basada en TUI para consultar registros de servicios (systemd)
+  fr: see (Service Event Extraction) est un outil basé sur TUI pour consulter les journaux des services (systemd)
+  id: see (Service Event Extraction) adalah alat berbasis TUI untuk mencari log dari layanan (systemd)
+  it: see (Service Event Extraction) è uno strumento basato su TUI per consultare i log dei servizi (systemd)
+  ja: see (Service Event Extraction) は、サービスのログ (systemd) を検索するための TUI ベースのツールです
+  ko: see (Service Event Extraction)는 서비스 로그(systemd)를 조회하는 TUI 기반 도구입니다
+  pl: see (Service Event Extraction) to narzędzie oparte na TUI do przeszukiwania logów usług (systemd)
+  pt: see (Service Event Extraction) é uma ferramenta baseada em TUI para consultar logs de serviços (systemd)
+  ro: see (Service Event Extraction) este un instrument bazat pe TUI pentru căutarea în jurnalele serviciilor (systemd)
+  ru: see (Service Event Extraction) — инструмент на основе TUI для поиска по логам служб (systemd)
+  th: see (Service Event Extraction) เป็นเครื่องมือแบบ TUI สำหรับค้นหาบันทึกของบริการ (systemd)
+  tr: see (Service Event Extraction), servislerin (systemd) günlüklerini sorgulamak için TUI tabanlı bir araçtır
+  uk: see (Service Event Extraction) — інструмент на основі TUI для пошуку в логах служб (systemd)
+  vi: see (Service Event Extraction) là công cụ dựa trên TUI để tra cứu nhật ký của các dịch vụ (systemd)
 x:
   source: https://github.com/NustyFrozen/SEE
   eget: NustyFrozen/SEE

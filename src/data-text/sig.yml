@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 交互式的 grep 工具，用于流式数据。
   en: Interactive grep (for streaming)
+  cs: Interaktivní grep (pro streamování)
+  de: Interaktives grep (für Streaming)
+  es: Grep interactivo (para streaming)
+  fr: Un grep interactif (pour le streaming)
+  id: Grep interaktif (untuk streaming)
+  it: Grep interattivo (per lo streaming)
+  ja: ストリーミング対応インタラクティブ grep
+  ko: 스트리밍을 위한 대화형 grep
+  pl: Interaktywne grep (do strumienia)
+  pt: Grep interativo (para streaming)
+  ro: Grep interactiv (pentru streaming)
+  ru: Интерактивный grep (для потоковой обработки)
+  th: grep แบบโต้ตอบ (สำหรับสตรีม)
+  tr: Etkileşimli grep (streaming için)
+  uk: Інтерактивний grep (для потокової обробки)
+  vi: grep tương tác (dành cho luồng dữ liệu)
 x:
   source: https://github.com/ynqa/sig
   eget: ynqa/sig

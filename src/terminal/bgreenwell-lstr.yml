@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 Rust 编写的快速、极简目录树查看器
   en: A fast, minimalist directory tree viewer, written in Rust.
+  cs: Rychlý, minimalistický prohlížeč stromu adresářů napsaný v Rustu.
+  de: Ein schneller, minimalistischer Verzeichnisbaum-Browser, geschrieben in Rust.
+  es: Un visor de árbol de directorios rápido y minimalista, escrito en Rust.
+  fr: Un explorateur d'arborescence de répertoires rapide et minimaliste, écrit en Rust.
+  id: Penjelajah pohon direktori yang cepat dan minimal, ditulis dengan Rust.
+  it: Un visualizzatore ad albero di directory veloce e minimalista, scritto in Rust.
+  ja: Rustで書かれた高速でミニマルなディレクトリツリー閲覧ツール。
+  ko: Rust로 작성된 빠르고 미니멀한 디렉터리 트리 뷰어.
+  pl: Szybki, minimalistyczny przeglądarka drzewa katalogów, napisana w Rust.
+  pt: Um visualizador de árvore de diretórios rápido e minimalista, escrito em Rust.
+  ro: Un vizualizator de arbore de directoare rapid și minimalist, scris în Rust.
+  ru: Быстрый минималистичный просмотрщик дерева каталогов, написанный на Rust.
+  th: ตัวดูแผนผังไดเรกทอรีที่เร็วและเรียบง่าย เขียนด้วย Rust
+  tr: Rust ile yazılmış hızlı, minimalist dizin ağacı görüntüleyici.
+  uk: Швидкий мінімалістичний переглядач дерева каталогів, написаний на Rust.
+  vi: Trình xem cây thư mục nhanh và tối giản, viết bằng Rust.
 x:
   source: https://github.com/bgreenwell/lstr
   eget: bgreenwell/lstr

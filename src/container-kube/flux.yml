@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible
   cn: Flux 是一套连续和渐进的交付解决方案，是开放和可扩展的 Kubernetes
+  cs: Flux je sada průběžných a postupných řešení doručování pro Kubernetes, která jsou otevřená a rozšiřitelná
+  de: Flux ist eine Sammlung offener und erweiterbarer kontinuierlicher und progressiver Lösungen für die Bereitstellung auf Kubernetes
+  es: Flux es un conjunto de soluciones de entrega continua y progresiva para Kubernetes que son abiertas y extensibles
+  fr: Flux est un ensemble de solutions de livraison continue et progressive pour Kubernetes, ouvertes et extensibles
+  id: Flux adalah serangkaian solusi pengiriman kontinu dan progresif untuk Kubernetes yang bersifat terbuka dan dapat diperluas
+  it: Flux è un insieme di soluzioni di distribuzione continua e progressiva per Kubernetes aperte ed estensibili
+  ja: Flux は Kubernetes 向けの継続的・段階的デリバリーのソリューション群で、オープンで拡張可能です
+  ko: Flux는 Kubernetes를 위한 지속적이고 점진적 배포 솔루션 모음으로, 개방형이며 확장 가능합니다
+  pl: Flux to zestaw otwartych i rozszerzalnych rozwiązań do ciągłego i postępowego wdrażania w Kubernetes
+  pt: O Flux é um conjunto de soluções de entrega contínua e progressiva para Kubernetes que são abertas e extensíveis
+  ro: Flux este o suită de soluții de livrare continuă și progresivă pentru Kubernetes, deschise și extensibile
+  ru: Flux — это набор открытых и расширяемых решений для непрерывной и прогрессивной доставки в Kubernetes
+  th: Flux คือชุดโซลูชันการส่งมอบแบบต่อเนื่องและแบบก้าวหน้าสำหรับ Kubernetes ที่เป็นโอเพนและขยายตัวได้
+  tr: Flux, Kubernetes için açık ve genişletilebilir sürekli ve kademeli dağıtım çözümleri kümesidir
+  uk: Flux — це набір відкритих і розширюваних рішень для безперервної та прогресивної доставки в Kubernetes
+  vi: Flux là bộ giải pháp triển khai liên tục và tiến bộ cho Kubernetes, mã nguồn mở và có thể mở rộng
 x:
   source: https://github.com/fluxcd/flux2
   eget: fluxcd/flux2

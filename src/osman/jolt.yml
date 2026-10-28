@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: macOS 与 Linux 的终端电池与能耗监控
   en: '⚡️A terminal-based battery and energy monitor for macOS and Linux.'
+  cs: ⚡️ Terminálový monitor baterie a spotřeby energie pro macOS a Linux.
+  de: ⚡️ Ein terminalbasierter Batterie- und Energieverbrauchsmonitor für macOS und Linux.
+  es: ⚡️ Un monitor de batería y consumo de energía basado en terminal para macOS y Linux.
+  fr: ⚡️ Un moniteur de batterie et de consommation d'énergie basé sur le terminal pour macOS et Linux.
+  id: ⚡️ Monitor baterai dan konsumsi energi berbasis terminal untuk macOS dan Linux.
+  it: ⚡️ Un monitor di batteria e consumo energetico basato sul terminale per macOS e Linux.
+  ja: ⚡️ macOS と Linux 向けのターミナルベースのバッテリー・消費電力モニター。
+  ko: ⚡️ macOS와 Linux를 위한 터미널 기반 배터리 및 에너지 소비 모니터.
+  pl: ⚡️ Terminalowy monitor baterii i zużycia energii dla macOS i Linux.
+  pt: ⚡️ Um monitor de bateria e consumo de energia baseado em terminal para macOS e Linux.
+  ro: ⚡️ Un monitor de baterie și consum de energie bazat pe terminal pentru macOS și Linux.
+  ru: ⚡️ Терминальный монитор батареи и потребления энергии для macOS и Linux.
+  th: ⚡️ เครื่องมือติดตามแบตเตอรี่และการใช้พลังงานบนเทอร์มินัลสำหรับ macOS และ Linux
+  tr: ⚡️ macOS ve Linux için terminal tabanlı pil ve enerji tüketimi monitörü.
+  uk: ⚡️ Термінальний монітор батареї та споживання енергії для macOS і Linux.
+  vi: ⚡️ Trình theo dõi pin và mức tiêu thụ điện năng dựa trên terminal cho macOS và Linux.
 x:
   source: https://github.com/jordond/jolt
   eget: jordond/jolt

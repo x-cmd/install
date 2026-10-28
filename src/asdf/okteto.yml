@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Okteto 是一个平台，它简化了启动云开发环境的过程，而不需要自己动手的专业知识
   en: Okteto is a platform that simplifies the process of launching cloud development environments without requiring the expertise to do this yourself
+  cs: Okteto je platforma, která zjednodušuje spouštění cloudových vývojových prostředí bez potřeby odborných znalostí pro vlastní provedení
+  de: Okteto ist eine Plattform, die das Starten von Cloud-Entwicklungsumgebungen vereinfacht, ohne dass man dafür selbst Expertenwissen braucht
+  es: Okteto es una plataforma que simplifica el proceso de lanzar entornos de desarrollo en la nube sin requerir los conocimientos para hacerlo por tu cuenta
+  fr: Okteto est une plateforme qui simplifie le lancement d'environnements de développement cloud sans nécessiter l'expertise pour le faire soi-même
+  id: Okteto adalah platform yang menyederhanakan proses memulai lingkungan pengembangan cloud tanpa memerlukan keahlian untuk melakukannya sendiri
+  it: Okteto è una piattaforma che semplifica il processo di avvio di ambienti di sviluppo cloud senza richiedere competenze specifiche per farlo da soli
+  ja: Okteto は、クラウド開発環境の起動を自分で専門知識なしに簡略化するプラットフォームです
+  ko: Okteto는 직접 구축하는 전문 지식 없이도 클라우드 개발 환경 시작 과정을 단순화하는 플랫폼입니다
+  pl: Okteto to platforma, która upraszcza uruchamianie środowisk deweloperskich w chmurze bez potrzeby posiadania wiedzy fachowej, by zrobić to samodzielnie
+  pt: Okteto é uma plataforma que simplifica o processo de lançar ambientes de desenvolvimento na nuvem sem exigir a especialização para fazer isso por conta própria
+  ro: Okteto este o platformă care simplifică procesul de lansare a mediilor de dezvoltare în cloud fără a necesita cunoștințele necesare pentru a face acest lucru singur
+  ru: Okteto — платформа, которая упрощает запуск облачных сред разработки без необходимости самостоятельно разбираться в этом
+  th: Okteto เป็นแพลตฟอร์มที่ทำให้การเปิดใช้งานสภาพแวดล้อมการพัฒนาแบบคลาวด์ง่ายขึ้น โดยไม่ต้องมีความรู้เชิงลึกเพื่อทำเอง
+  tr: Okteto, bunu kendiniz yapmak için uzmanlık gerektirmeden bulut geliştirme ortamlarını başlatma sürecini basitleştiren bir platformdur
+  uk: Okteto — платформа, яка спрощує запуск хмарних середовищ розробки без необхідності самостійно розбиратися в цьому
+  vi: Okteto là một nền tảng đơn giản hóa quá trình khởi chạy môi trường phát triển đám mây mà không cần kiến thức chuyên môn để tự làm
 x:
   source: https://github.com/okteto/okteto
   eget: okteto/okteto

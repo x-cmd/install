@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 一个开源的文档转换工具，支持将多种文档格式相互转换，包括 Markdown、HTML、PDF、DOCX 等
   en: An open-source document conversion tool that supports converting multiple document formats to each other, including Markdown, HTML, PDF, DOCX, and more
+  cs: Nástroj pro převod dokumentů s otevřeným zdrojovým kódem, který podporuje vzájemnou konverzi mnoha dokumentových formátů včetně Markdown, HTML, PDF, DOCX a dalších
+  de: Ein quelloffenes Dokumentkonvertierungswerkzeug, das die Umwandlung zwischen mehreren Dokumentformaten unterstützt, darunter Markdown, HTML, PDF, DOCX und mehr
+  es: Una herramienta de conversión de documentos de código abierto que admite convertir entre varios formatos de documento, incluidos Markdown, HTML, PDF, DOCX y más
+  fr: Un outil open source de conversion de documents qui prend en charge la conversion entre plusieurs formats de documents, notamment Markdown, HTML, PDF, DOCX et plus encore
+  id: Alat konversi dokumen sumber terbuka yang mendukung konversi antar berbagai format dokumen, termasuk Markdown, HTML, PDF, DOCX, dan lainnya
+  it: Uno strumento open source di conversione dei documenti che supporta la conversione tra molteplici formati di documento, inclusi Markdown, HTML, PDF, DOCX e altro
+  ja: オープンソースのドキュメント変換ツールで、Markdown、HTML、PDF、DOCX など複数の形式を相互に変換できます
+  ko: 오픈 소스 문서 변환 도구로 Markdown, HTML, PDF, DOCX 등 여러 문서 형식을 서로 변환할 수 있습니다
+  pl: Otwartoźródłowe narzędzie do konwersji dokumentów, które obsługuje konwersję między wieloma formatami dokumentów, w tym Markdown, HTML, PDF, DOCX i innymi
+  pt: Uma ferramenta de conversão de documentos de código aberto que suporta converter entre vários formatos de documento, incluindo Markdown, HTML, PDF, DOCX e mais
+  ro: Un instrument open source de conversie a documentelor care acceptă conversia între mai multe formate de document, inclusiv Markdown, HTML, PDF, DOCX și altele
+  ru: Инструмент конвертации документов с открытым исходным кодом, поддерживающий преобразование между множеством форматов, включая Markdown, HTML, PDF, DOCX и другие
+  th: เครื่องมือแปลงเอกสารโอเพนซอร์สที่รองรับการแปลงระหว่างรูปแบบเอกสารหลายชนิด รวมถึง Markdown, HTML, PDF, DOCX และอื่น ๆ
+  tr: Markdown, HTML, PDF, DOCX ve daha fazlası dahil olmak üzere çeşitli belge biçimleri arasında dönüşümü destekleyen açık kaynaklı belge dönüştürme aracı
+  uk: Інструмент конвертації документів з відкритим кодом, який підтримує перетворення між багатьма форматами, зокрема Markdown, HTML, PDF, DOCX та іншими
+  vi: Công cụ chuyển đổi tài liệu mã nguồn mở hỗ trợ chuyển đổi qua lại giữa nhiều định dạng tài liệu, bao gồm Markdown, HTML, PDF, DOCX và nhiều hơn nữa
 x:
   source: https://github.com/jgm/pandoc
   eget: jgm/pandoc

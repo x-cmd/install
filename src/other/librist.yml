@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   en: A library that can be used to easily add the RIST protocol to your application
   cn: 一个可以轻松地将 RIST 协议添加到应用程序中的库
+  cs: Knihovna, kterou lze snadno použít k přidání protokolu RIST do vaší aplikace
+  de: Eine Bibliothek, mit der sich das RIST-Protokoll ganz einfach in Ihre Anwendung integrieren lässt
+  es: Una biblioteca que se puede usar para agregar fácilmente el protocolo RIST a tu aplicación
+  fr: Une bibliothèque permettant d'ajouter facilement le protocole RIST à votre application
+  id: Pustaka yang dapat digunakan untuk dengan mudah menambahkan protokol RIST ke aplikasi Anda
+  it: Una libreria che consente di aggiungere facilmente il protocollo RIST alla propria applicazione
+  ja: アプリケーションに RIST プロトコルを簡単に追加できるライブラリ
+  ko: 애플리케이션에 RIST 프로토콜을 쉽게 추가할 수 있는 라이브러리
+  pl: Biblioteka umożliwiająca łatwe dodanie protokołu RIST do aplikacji
+  pt: Uma biblioteca que pode ser usada para adicionar facilmente o protocolo RIST ao seu aplicativo
+  ro: O bibliotecă care poate fi folosită pentru a adăuga cu ușurință protocolul RIST în aplicația ta
+  ru: Библиотека, с помощью которой протокол RIST легко добавить в ваше приложение
+  th: ไลบรารีที่ใช้เพิ่มโปรโตคอล RIST เข้าสู่แอปพลิเคชันของคุณได้อย่างง่ายดาย
+  tr: RIST protokolünü uygulamanıza kolayca eklemek için kullanılabilen bir kütüphane
+  uk: Бібліотека, за допомогою якої протокол RIST легко додати до вашого застосунку
+  vi: Thư viện giúp dễ dàng thêm giao thức RIST vào ứng dụng của bạn
 x:
   source: https://github.com/nanake/librist
   brew: librist

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: rbenv 是类 Unix 系统上 Ruby 编程语言的版本管理器工具
   en: rbenv is a version manager tool for the Ruby programming language on Unix-like systems
+  cs: rbenv je nástroj pro správu verzí programovacího jazyka Ruby v systémech podobných Unixu
+  de: rbenv ist ein Versionsverwaltungstool für die Programmiersprache Ruby auf Unix-ähnlichen Systemen
+  es: rbenv es una herramienta de gestión de versiones del lenguaje de programación Ruby en sistemas tipo Unix
+  fr: rbenv est un outil de gestion de versions du langage de programmation Ruby sur les systèmes de type Unix
+  id: rbenv adalah alat pengelola versi untuk bahasa pemrograman Ruby pada sistem berbasis Unix
+  it: rbenv è uno strumento di gestione delle versioni del linguaggio di programmazione Ruby su sistemi simili a Unix
+  ja: rbenv は Unix 系システムで Ruby プログラミング言語のバージョンを管理するツールです
+  ko: rbenv는 Unix 계열 시스템에서 Ruby 프로그래밍 언어의 버전을 관리하는 도구입니다
+  pl: rbenv to narzędzie do zarządzania wersjami języka programowania Ruby w systemach uniksopodobnych
+  pt: rbenv é uma ferramenta de gerenciamento de versões da linguagem de programação Ruby em sistemas semelhantes ao Unix
+  ro: rbenv este un instrument de gestionare a versiunilor limbajului de programare Ruby pe sisteme de tip Unix
+  ru: rbenv — инструмент управления версиями языка программирования Ruby в Unix-подобных системах
+  th: rbenv คือเครื่องมือจัดการเวอร์ชันของภาษาโปรแกรม Ruby บนระบบที่คล้าย Unix
+  tr: rbenv, Unix benzeri sistemlerde Ruby programlama dilinin sürümlerini yönetmek için bir araçtır
+  uk: rbenv — інструмент керування версіями мови програмування Ruby в Unix-подібних системах
+  vi: rbenv là công cụ quản lý phiên bản cho ngôn ngữ lập trình Ruby trên các hệ thống giống Unix
 x:
   source: https://github.com/rbenv/rbenv
   apt: gitapt-get

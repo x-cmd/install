@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 无需离开终端，扫描二维码即可通过 wifi 将文件从计算机传输到移动设备
   en: Scan the QR code to transfer files from your computer to your mobile device over wifi without leaving the terminal
+  cs: Naskenujte QR kód a přeneste soubory z počítače do mobilního zařízení přes wifi, aniž byste opouštěli terminál
+  de: Scannen Sie den QR-Code, um Dateien per WLAN von Ihrem Computer auf Ihr Mobilgerät zu übertragen, ohne das Terminal zu verlassen
+  es: Escanea el código QR para transferir archivos de tu computadora a tu dispositivo móvil por wifi sin salir del terminal
+  fr: Scannez le code QR pour transférer des fichiers de votre ordinateur vers votre appareil mobile par wifi sans quitter le terminal
+  id: Pindai kode QR untuk mentransfer file dari komputer Anda ke perangkat seluler melalui wifi tanpa meninggalkan terminal
+  it: Scansiona il codice QR per trasferire file dal tuo computer al tuo dispositivo mobile tramite wifi senza uscire dal terminale
+  ja: ターミナルを離れずに、QR コードをスキャンしてwifi経由で电脑からモバイルデバイスへファイルを転送できます
+  ko: 터미널을 벗어나지 않고 QR 코드를 스캔해 wifi로 컴퓨터에서 모바일 기기로 파일을 전송하세요
+  pl: Zeskanuj kod QR, aby przesłać pliki z komputera do urządzenia mobilnego przez wifi bez opuszczania terminala
+  pt: Escaneie o código QR para transferir arquivos do seu computador para seu dispositivo móvel via wifi sem sair do terminal
+  ro: Scanează codul QR pentru a transfera fișiere de pe computerul tău pe dispozitivul mobil prin wifi fără a părăsi terminalul
+  ru: Отсканируйте QR-код, чтобы передать файлы с компьютера на мобильное устройство по wifi, не покидая терминал
+  th: สแกนคิวอาร์โค้ดเพื่อถ่ายโอนไฟล์จากคอมพิวเตอร์ของคุณไปยังอุปกรณ์มือถือผ่าน wifi โดยไม่ต้องออกจากเทอร์มินัล
+  tr: QR kodu tarayarak, terminalden ayrılmadan bilgisayarınızdaki dosyaları wifi üzerinden mobil cihazınıza aktarın
+  uk: Відскануйте QR-код, щоб передати файли з комп'ютера на мобільний пристрій через wifi, не залишаючи термінал
+  vi: Quét mã QR để chuyển tệp từ máy tính sang thiết bị di động qua wifi mà không cần rời terminal
 x:
   source: https://github.com/claudiodangelis/qrcp
   eget: claudiodangelis/qrcp

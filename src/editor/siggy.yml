@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 支持 Vim 键位的终端 Signal 客户端
   en: 'Terminal-based Signal messenger client with vim keybindings'
+  cs: Terminálový klient Signalu s klávesovými zkratkami vim
+  de: Terminalbasierter Signal-Messenger-Client mit vim-Tastenkürzeln
+  es: Cliente de mensajería Signal basado en terminal con atajos de teclado de vim
+  fr: Client de messagerie Signal pour terminal avec raccourcis clavier vim
+  id: Klien pesan Signal berbasis terminal dengan pintasan keyboard vim
+  it: Client di messaggistica Signal per terminale con scorciatoie da tastiera di vim
+  ja: vimのキーバインドに対応したターミナル版Signalメッセンジャークライアント
+  ko: vim 키바인딩을 지원하는 터미널 기반 Signal 메신저 클라이언트
+  pl: Terminalowy klient komunikatora Signal z przypisaniami klawiszy vim
+  pt: Cliente de mensageiro Signal para terminal com atalhos de teclado do vim
+  ro: Client de mesagerie Signal pentru terminal cu scurtături de tastatură vim
+  ru: Терминальный клиент мессенджера Signal с горячими клавишами vim
+  th: ไคลเอนต์แชท Signal บนเทอร์มินัลพร้อมปุ่มลัดแบบ vim
+  tr: Terminal tabanlı, vim kısayolları destekleyen Signal mesajlaşma istemcisi
+  uk: Термінальний клієнт месенджера Signal з гарячими клавішами vim
+  vi: Ứng dụng nhắn tin Signal chạy trên terminal với phím tắt kiểu vim
 x:
   source: https://github.com/johnsideserf/siggy
   eget: johnsideserf/siggy

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 通过可视化反馈和键盘操作简化 Git 工作流
   en: 'Simplify your Git workflow with visual feedback, keyboard-driven controls, and a streamlined experience.'
+  cs: Zjednodušte svůj Git workflow pomocí vizuální odezvy, ovládání z klávesnice a zjednodušeného zážitku
+  de: Vereinfachen Sie Ihren Git-Workflow mit visueller Rückmeldung, tastaturbasierten Steuerungen und einem reibungslosen Erlebnis
+  es: Simplifica tu flujo de trabajo de Git con comentarios visuales, controles basados en teclado y una experiencia fluida
+  fr: Simplifiez votre flux de travail Git avec un retour visuel, des commandes au clavier et une expérience fluide
+  id: Sederhanakan alur kerja Git Anda dengan umpan balik visual, kontrol berbasis keyboard, dan pengalaman yang ringkas
+  it: Semplifica il tuo flusso di lavoro Git con feedback visivo, controlli da tastiera e un'esperienza snellita
+  ja: 視覚的なフィードバック、キーボード操作、スマートな体験でGitワークフローを簡素化します
+  ko: 시각적 피드백과 키보드 중심 조작, 간결한 경험으로 Git 워크플로를 단순화하세요
+  pl: Uprość przepływ pracy w Git dzięki wizualnemu feedbackowi, sterowaniu klawiaturą i dopracowanemu doświadczeniu
+  pt: Simplifique seu fluxo de trabalho do Git com retorno visual, controles baseados em teclado e uma experiência simplificada
+  ro: Simplificați fluxul de lucru cu Git prin feedback vizual, controale bazate pe tastatură și o experiență fluidă
+  ru: Упростите рабочий процесс с Git за счёт визуальной обратной связи, управления с клавиатуры и продуманного опыта
+  th: ทำให้เวิร์กโฟลว์ Git ของคุณง่ายขึ้นด้วยข้อมูลย้อนกลับแบบภาพ การควบคุมด้วยคีย์บอร์ด และประสบการณ์ที่ลื่นไหล
+  tr: Görsel geri bildirim, klavye kontrolleri ve akıcı bir deneyimle Git iş akışınızı sadeleştirin
+  uk: Спростіть робочий процес із Git завдяки візуальному зворотному зв'язку, керуванню з клавіатури та продуманому досвіду
+  vi: Đơn giản hóa quy trình Git của bạn với phản hồi trực quan, điều khiển bằng bàn phím và trải nghiệm gọn gàng
 x:
   source: https://github.com/thewizardshell/froggit
   eget: thewizardshell/froggit

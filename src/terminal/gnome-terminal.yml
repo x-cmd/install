@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: GNOME Terminal 是 GNOME 桌面的默认终端模拟器，使用 VTE 库。
   en: GNOME Terminal is the default terminal emulator of the GNOME desktop, built on the VTE library.
+  cs: GNOME Terminal je výchozí emulátor terminálu desktopového prostředí GNOME, postavený na knihovně VTE.
+  de: GNOME Terminal ist der Standard-Terminalemulator der GNOME-Desktop-Umgebung, basierend auf der VTE-Bibliothek.
+  es: GNOME Terminal es el emulador de terminal predeterminado del escritorio GNOME, construido sobre la biblioteca VTE.
+  fr: GNOME Terminal est l'émulateur de terminal par défaut de l'environnement de bureau GNOME, bâti sur la bibliothèque VTE.
+  id: GNOME Terminal adalah emulator terminal bawaan dari desktop GNOME, yang dibangun di atas pustaka VTE.
+  it: GNOME Terminal è l'emulatore di terminale predefinito dell'ambiente desktop GNOME, basato sulla libreria VTE.
+  ja: GNOME Terminal は GNOME デスクトップの標準ターミナルエミュレーターで、VTE ライブラリに基づいて構築されています。
+  ko: GNOME Terminal은 VTE 라이브러리를 기반으로 제작된 GNOME 데스크톱의 기본 터미널 에뮬레이터입니다.
+  pl: GNOME Terminal to domyślny emulator terminala środowiska pulpitu GNOME, zbudowany na bibliotece VTE.
+  pt: O GNOME Terminal é o emulador de terminal padrão do ambiente de desktop GNOME, construído sobre a biblioteca VTE.
+  ro: GNOME Terminal este emulatorul de terminal implicit al mediului desktop GNOME, construit pe baza bibliotecii VTE.
+  ru: GNOME Terminal — стандартный эмулятор терминала среды рабочего стола GNOME, построенный на библиотеке VTE.
+  th: GNOME Terminal คือเทอร์มินัลอีมูเลเตอร์เริ่มต้นของเดสก์ท็อป GNOME สร้างขึ้นบนไลบรารี VTE
+  tr: GNOME Terminal, GNOME masaüstünün varsayılan terminal emülatörüdür ve VTE kütüphanesi üzerine kurulmuştur.
+  uk: GNOME Terminal — стандартний емулятор термінала робочого столу GNOME, побудований на бібліотеці VTE.
+  vi: GNOME Terminal là trình giả lập terminal mặc định của môi trường GNOME, xây dựng trên thư viện VTE.
 x:
   source: https://gitlab.gnome.org/GNOME/gnome-terminal
   apt: gnome-terminal

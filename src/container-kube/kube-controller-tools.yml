@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubernetes 控制器工具项目是一套用于建筑控制器的 GO 库
   en: The Kubernetes controller-tools Project is a set of go libraries for building Controllers
+  cs: Projekt Kubernetes controller-tools je sada knihoven Go pro tvorbu kontrolerů
+  de: Das Kubernetes-Projekt controller-tools ist eine Sammlung von Go-Bibliotheken zum Erstellen von Controllern
+  es: El proyecto controller-tools de Kubernetes es un conjunto de bibliotecas de Go para crear controladores
+  fr: Le projet controller-tools de Kubernetes est un ensemble de bibliothèques Go pour construire des contrôleurs
+  id: Proyek controller-tools Kubernetes adalah kumpulan pustaka Go untuk membangun Controller
+  it: Il progetto controller-tools di Kubernetes è un insieme di librerie Go per costruire i Controller
+  ja: Kubernetes の controller-tools プロジェクトは、コントローラーを構築するための Go ライブラリの集合です
+  ko: Kubernetes controller-tools 프로젝트는 Controller를 빌드하기 위한 Go 라이브러리 모음입니다
+  pl: Projekt controller-tools firmy Kubernetes to zestaw bibliotek Go do budowania kontrolerów
+  pt: O projeto controller-tools do Kubernetes é um conjunto de bibliotecas Go para construir Controllers
+  ro: Proiectul controller-tools din Kubernetes este o mulțime de biblioteci Go pentru construirea de controllere
+  ru: Проект Kubernetes controller-tools — это набор библиотек Go для создания контроллеров
+  th: โปรเจกต์ controller-tools ของ Kubernetes คือชุดไลบรารี Go สำหรับสร้าง Controller
+  tr: Kubernetes controller-tools projesi, Controller oluşturmak için bir dizi Go kütüphanesidir
+  uk: Проєкт Kubernetes controller-tools — це набір бібліотек Go для створення контролерів
+  vi: Dự án controller-tools của Kubernetes là tập hợp thư viện Go để xây dựng Controller
 x:
   source: https://github.com/kubernetes-sigs/controller-tools
   eget: kubernetes-sigs/controller-tools

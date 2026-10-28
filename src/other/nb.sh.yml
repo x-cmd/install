@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: 一个功能丰富的便携脚本, 提供在命令行和本地网络中记笔记、书签、加密存档、搜索、Git 版本控制、同步、标签等服务和功能
   en: CLI and local web note-taking, bookmarking, and archiving with encryption, search, Git-backed versioning and syncing, tagging, and more in a single portable script.
+  cs: CLI a místní webové poznámkování, záložky a archivace s šifrováním, vyhledáváním, verzemi podporovanou Gitem, synchronizací, štítky a dalšími funkcemi v jediném přenosném skriptu.
+  de: CLI und lokales Web-Notizen, Lesezeichen und Archivieren mit Verschlüsselung, Suche, Git-gestützter Versionierung und Synchronisierung, Tagging und mehr in einem einzigen portablen Skript.
+  es: Toma de notas, marcadores y archivado web local desde la CLI con cifrado, búsqueda, versionado respaldado por Git y sincronización, etiquetado y mucho más en un único script portable.
+  fr: Prise de notes, signets et archivage web local en CLI, avec chiffrement, recherche, versionnage basé sur Git et synchronisation, étiquetage et plus encore, dans un seul script portable.
+  id: CLI dan web lokal untuk mencatat, menyimpan bookmark, dan mengarsipkan dengan enkripsi, pencarian, versi berbasis Git dan sinkronisasi, penandaan, dan banyak lagi dalam satu skrip portabel.
+  it: CLI e web locale per note, segnalibri e archiviazione con cifratura, ricerca, versionamento basato su Git e sincronizzazione, tagging e altro ancora in un unico script portatile.
+  ja: 単一の移植可能なスクリプトで、CLI とローカル Web によるメモ、ブックマーク、アーカイブに加え、暗号化、検索、Git によるバージョン管理と同期、タグ付けなどを提供します。
+  ko: 단일 휴대용 스크립트로 CLI와 로컬 웹을 통한 메모, 북마크, 보관 기능을 제공하고 암호화, 검색, Git 기반 버전 관리 및 동기화, 태그ging 등을 지원합니다.
+  pl: Narzędzia CLI i lokalny web do robienia notatek, zakładek i archiwizacji z szyfrowaniem, wyszukiwaniem, wersjonowaniem opartym na Git i synchronizacją, tagowaniem i innymi funkcjami w jednym przenośnym skrypcie.
+  pt: Notas, marcadores e arquivamento web local pela CLI, com criptografia, busca, versionamento apoiado por Git e sincronização, tagging e muito mais em um único script portátil.
+  ro: Luare de note, marcaje și arhivare web locală din CLI, cu criptare, căutare, versionare bazată pe Git și sincronizare, etichetare și multe altele într-un singur script portabil.
+  ru: CLI и локальный веб для заметок, закладок и архивирования с шифрованием, поиском, версионированием на основе Git и синхронизацией, тегированием и многим другим в одном переносимом скрипте.
+  th: จดบันทึก บุ๊กมาร์ก และเก็บถาวรผ่าน CLI และเว็บในเครื่อง พร้อมการเข้ารหัส การค้นหา การจัดการเวอร์ชันด้วย Git และการซิงโครไนซ์ การติดป้าย และอื่น ๆ ในสคริปต์แบบพกพาเพียงสคริปต์เดียว
+  tr: Tek bir taşınabilir betikte şifreleme, arama, Git destekli sürümleme ve eşitleme, etiketleme ve daha fazlasıyla birlikte CLI ve yerel web ile not alma, yer imi ve arşivleme.
+  uk: CLI та локальний веб для нотаток, закладок і архівування з шифруванням, пошуком, версіонуванням на основі Git і синхронізацією, теґуванням та багатьма іншими можливостями в одному переносному скрипті.
+  vi: Ghi chú, bookmark và lưu trữ web cục bộ qua CLI, với mã hóa, tìm kiếm, quản lý phiên bản dựa trên Git và đồng bộ, gắn thẻ và nhiều hơn nữa trong một script di động.
 x:
   source: https://github.com/xwmx/nb
   eget: xwmx/nb

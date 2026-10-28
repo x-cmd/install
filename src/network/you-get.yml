@@ -3,6 +3,22 @@ homepage: https://github.com/soimort/you-get
 desc:
   cn: 小型命令行工具，用于从网络下载媒体内容（视频、音频、图像）
   en: You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web
+  cs: You-Get je malý nástroj příkazové řádky pro stahování mediálního obsahu (videa, zvuky, obrázky) z webu
+  de: You-Get ist ein kleines Kommandozeilenwerkzeug zum Herunterladen von Medieninhalten (Videos, Audiodateien, Bildern) aus dem Web
+  es: You-Get es una pequeña utilidad de línea de comandos para descargar contenido multimedia (vídeos, audios, imágenes) de la web
+  fr: You-Get est un petit utilitaire en ligne de commande pour télécharger du contenu multimédia (vidéos, audios, images) depuis le Web
+  id: You-Get adalah utilitas baris perintah kecil untuk mengunduh konten media (video, audio, gambar) dari web
+  it: You-Get è una piccola utility da riga di comando per scaricare contenuti multimediali (video, audio, immagini) dal web
+  ja: You-Get は Web からメディアコンテンツ（動画・音声・画像）をダウンロードするための小さなコマンドラインツールです
+  ko: You-Get는 웹에서 미디어 콘텐츠(동영상, 오디오, 이미지)를 다운로드하는 작은 명령줄 유틸리티입니다
+  pl: You-Get to małe narzędzie wiersza poleceń do pobierania treści multimedialnych (wideo, dźwięki, obrazy) z sieci
+  pt: You-Get é um pequeno utilitário de linha de comando para baixar conteúdos multimídia (vídeos, áudios, imagens) da Web
+  ro: You-Get este un mic utilitar de linie de comandă pentru descărcarea conținutului media (video, audio, imagini) din web
+  ru: You-Get — небольшая утилита командной строки для загрузки медиаконтента (видео, аудио, изображения) из интернета
+  th: You-Get เป็นยูทิลิตีบรรทัดคำสั่งขนาดเล็กสำหรับดาวน์โหลดเนื้อหาสื่อ (วิดีโอ เสียง รูปภาพ) จากเว็บ
+  tr: You-Get, web'den medya içeriği (video, ses, görsel) indirmek için küçük bir komut satırı aracıdır
+  uk: You-Get — невелика утиліта командного рядка для завантаження медіавмісту (відео, аудіо, зображення) з інтернету
+  vi: You-Get là tiện ích dòng lệnh nhỏ dùng để tải nội dung đa phương tiện (video, âm thanh, hình ảnh) từ Web
 x:
   source: https://github.com/soimort/you-get
   eget: soimort/you-get

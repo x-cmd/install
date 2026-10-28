@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Tonnage 是一个小型实用程序，用于总结 Kubernetes 集群的资源容量和分配
   en: Tonnage is a small utility to summarize the resource capacity and allocation of a Kubernetes cluster
+  cs: Tonnage je malý nástroj, který shrnuje kapacitu zdrojů a jejich alokaci v clusteru Kubernetes
+  de: Tonnage ist ein kleines Werkzeug, das die Ressourcenkapazität und -zuweisung eines Kubernetes-Clusters zusammenfasst
+  es: Tonnage es una pequeña utilidad para resumir la capacidad y la asignación de recursos de un clúster de Kubernetes
+  fr: Tonnage est un petit utilitaire qui résume la capacité et l'allocation des ressources d'un cluster Kubernetes
+  id: Tonnage adalah utilitas kecil untuk merangkum kapasitas dan alokasi sumber daya klaster Kubernetes
+  it: Tonnage è una piccola utility per riassumere la capacità e l'allocazione delle risorse di un cluster Kubernetes
+  ja: Tonnage は Kubernetes クラスタのリソース容量と割り当てを要約する小さなユーティリティです
+  ko: Tonnage는 Kubernetes 클러스터의 리소스 용량과 할당을 요약하는 작은 유틸리티입니다
+  pl: Tonnage to małe narzędzie podsumowujące pojemność i przydział zasobów klastra Kubernetes
+  pt: Tonnage é um pequeno utilitário para resumir a capacidade e a alocação de recursos de um cluster Kubernetes
+  ro: Tonnage este o utilitate mică care rezumă capacitatea și alocarea resurselor unui cluster Kubernetes
+  ru: Tonnage — небольшая утилита для обобщения объёма ресурсов и их распределения в кластере Kubernetes
+  th: Tonnage คือเครื่องมือเล็ก ๆ ที่สรุปความจุและการจัดสรรทรัพยากรของคลัสเตอร์ Kubernetes
+  tr: Tonnage, bir Kubernetes kümesinin kaynak kapasitesini ve tahsisini özetleyen küçük bir yardımcı programdır
+  uk: Tonnage — невелика утиліта для узагальнення обсягу ресурсів та їх розподілу в кластері Kubernetes
+  vi: Tonnage là tiện ích nhỏ dùng để tóm tắt dung lượng và phân bổ tài nguyên của cụm Kubernetes
 x:
   source: https://github.com/elementalvoid/tonnage
   eget: elementalvoid/tonnage

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的现代、安全、易用的 dotfile 管理器
   en: 'A modern, secure, and user-friendly dotfile manager built with Rust'
+  cs: Moderní, bezpečný a uživatelsky přívětivý správce dotfileů napsaný v Rustu
+  de: Ein moderner, sicherer und benutzerfreundlicher Dotfile-Manager, geschrieben in Rust
+  es: Un gestor de dotfiles moderno, seguro y fácil de usar, escrito en Rust
+  fr: Un gestionnaire de dotfiles moderne, sécurisé et simple d'utilisation, écrit en Rust
+  id: Manajer dotfile modern, aman, dan ramah pengguna yang dibangun dengan Rust
+  it: Un gestore di dotfile moderno, sicuro e intuitivo, scritto in Rust
+  ja: Rustで書かれたモダンで安全、使easy dotfileマネージャー
+  ko: Rust로 만든 현대적이고 안전하며 사용하기 쉬운 dotfile 관리자
+  pl: Nowoczesny, bezpieczny i przyjazny użytkownikowi menedżer plików dotfile napisany w Rust
+  pt: Um gerenciador de dotfiles moderno, seguro e fácil de usar, escrito em Rust
+  ro: Un manager de dotfiles modern, sigur și ușor de folosit, scris în Rust
+  ru: Современный, безопасный и удобный менеджер dotfile-файлов, написанный на Rust
+  th: ตัวจัดการ dotfile ที่ทันสมัย ปลอดภัย และใช้งานง่าย สร้างด้วย Rust
+  tr: Rust ile yazılmış modern, güvenli ve kullanıcı dostu dotfile yöneticisi
+  uk: Сучасний, безпечний і зручний менеджер dotfile-файлів, написаний на Rust
+  vi: Trình quản lý dotfile hiện đại, an toàn và dễ dùng, xây dựng bằng Rust
 x:
   source: https://github.com/serkanyersen/dotstate
   eget: serkanyersen/dotstate

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 为 AI 代理、MCP 和 LLM 工作负载提供安全、内核强制执行的沙箱
   en: Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads.
+  cs: Bezpečný sandbox vynucovaný jádrem pro agenty AI, MCP a pracovní zatížení LLM.
+  de: Sichere, vom Kernel durchgesetzte Sandbox für KI-Agenten, MCP und LLM-Workloads.
+  es: Sandbox seguro con aplicación a nivel de kernel para agentes de IA, MCP y cargas de trabajo de LLM.
+  fr: Bac à sable sécurisé, appliqué au niveau du noyau, pour les agents IA, MCP et les charges de travail LLM.
+  id: Sandbox aman yang ditegakkan kernel untuk agen AI, MCP, dan beban kerja LLM.
+  it: Sandbox sicuro applicato a livello di kernel per agenti AI, MCP e carichi di lavoro LLM.
+  ja: AI エージェント、MCP、LLM ワークロード向けの、安全でカーネル強制のサンドボックス。
+  ko: AI 에이전트, MCP 및 LLM 워크로드를 위한 안전한 커널 강제 샌드박스입니다.
+  pl: Bezpieczny sandbox egzekwowany na poziomie jądra dla agentów AI, MCP i obciążeń LLM.
+  pt: Sandbox seguro com imposição no nível do kernel para agentes de IA, MCP e cargas de trabalho de LLM.
+  ro: Sandbox sigur, impus la nivel de kernel, pentru agenți AI, MCP și sarcini de lucru LLM.
+  ru: Безопасная песочница с принудительным применением на уровне ядра для AI-агентов, MCP и рабочих нагрузок LLM.
+  th: Sandbox ที่ปลอดภัยและบังคับใช้ระดับเคอร์เนล สำหรับเอเจนต์ AI, MCP และเวิร์กโหลด LLM
+  tr: AI ajanları, MCP ve LLM iş yükleri için çekirdek düzeyinde zorlanan güvenli bir sandbox.
+  uk: Безпечна пісочниця з примусовим застосуванням на рівні ядра для AI-агентів, MCP та робочих навантажень LLM.
+  vi: Sandbox an toàn được thực thi ở cấp kernel cho các agent AI, MCP và tải làm việc LLM.
 x:
   source: https://github.com/always-further/nono
   eget: always-further/nono

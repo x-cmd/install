@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 用于 HTTP 检查的交互式 cli 工具
   en: An interactive cli tool for HTTP inspection
+  cs: Interaktivní nástroj příkazové řádky pro kontrolu HTTP
+  de: Ein interaktives CLI-Werkzeug zur HTTP-Inspektion
+  es: Herramienta de CLI interactiva para la inspección de HTTP
+  fr: Un outil CLI interactif pour l'inspection HTTP
+  id: Alat CLI interaktif untuk inspeksi HTTP
+  it: Uno strumento CLI interattivo per l'ispezione HTTP
+  ja: HTTP インスペクション用の対話型 CLI ツール
+  ko: HTTP 검사를 위한 대화형 CLI 도구
+  pl: Interaktywne narzędzie CLI do inspekcji HTTP
+  pt: Uma ferramenta de CLI interativa para inspeção HTTP
+  ro: Un instrument CLI interactiv pentru inspecția HTTP
+  ru: Интерактивный инструмент CLI для анализа HTTP
+  th: เครื่องมือ CLI แบบโต้ตอบสำหรับการตรวจสอบ HTTP
+  tr: HTTP incelemesi için etkileşimli bir CLI aracı
+  uk: Інтерактивний інструмент CLI для аналізу HTTP
+  vi: Công cụ CLI tương tác để kiểm tra HTTP
 homepage: https://github.com/asciimoo/wuzz
 license: AGPL-3.0
 x:

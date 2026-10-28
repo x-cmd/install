@@ -3,6 +3,22 @@ license: MIT
 desc:
   cn: 用于与 SQL 数据库交互的通用命令行界面
   en: Universal command-line interface for SQL databases
+  cs: Univerzální rozhraní příkazové řádky pro databáze SQL
+  de: Universelle Kommandozeilenschnittstelle für SQL-Datenbanken
+  es: Interfaz de línea de comandos universal para bases de datos SQL
+  fr: Interface de ligne de commande universal pour les bases de données SQL
+  id: Antarmuka baris perintah universal untuk basis data SQL
+  it: Interfaccia a riga di comando universale per database SQL
+  ja: SQL データベース向けの汎用コマンドラインインターフェース
+  ko: SQL 데이터베이스를 위한 범용 명령줄 인터페이스
+  pl: Uniwersalny interfejs wiersza poleceń dla baz danych SQL
+  pt: Interface de linha de comando universal para bancos de dados SQL
+  ro: Interfață de linie de comandă universală pentru baze de date SQL
+  ru: Универсальный интерфейс командной строки для баз данных SQL
+  th: อินเทอร์เฟซบรรทัดคำสั่งสากลสำหรับฐานข้อมูล SQL
+  tr: SQL veritabanları için evrensel komut satırı arayüzü
+  uk: Універсальний інтерфейс командного рядка для баз даних SQL
+  vi: Giao diện dòng lệnh phổ quát cho cơ sở dữ liệu SQL
 lang: Go
 x:
   source: https://github.com/xo/usql

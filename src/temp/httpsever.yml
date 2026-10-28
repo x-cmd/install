@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个非常简单的 http static server, 通常用于测试
   en: A very simple http static server, sometimes we need it for testing
+  cs: Velmi jednoduchý http statický server, někdy ho potřebujeme pro testování
+  de: Ein sehr einfacher statischer HTTP-Server, manchmal brauchen wir ihn zum Testen
+  es: Un servidor estático http muy sencillo, a veces lo necesitamos para hacer pruebas
+  fr: Un serveur statique http très simple, dont nous avons parfois besoin pour les tests
+  id: Server statis http yang sangat sederhana, kadang kita membutuhkannya untuk pengujian
+  it: Un server statico http molto semplice, a volte serve per i test
+  ja: とてもシンプルな http 静的サーバー。テストのために必要になることがあります
+  ko: 매우 간단한 http 정적 서버로, 테스트할 때 필요할 때가 있습니다
+  pl: Bardzo prosty statyczny serwer http, czasem przydaje się do testów
+  pt: Um servidor estático http muito simples, às vezes precisamos dele para testes
+  ro: Un server static http foarte simplu, uneori avem nevoie de el pentru testare
+  ru: Очень простой статический http-сервер, иногда он нужен для тестирования
+  th: เซิร์ฟเวอร์คงที่ http ที่เรียบง่ายมาก ในบางครั้งเราต้องการมันเพื่อการทดสอบ
+  tr: Çok basit bir http statik sunucusu, bazen test için ihtiyaç duyarız
+  uk: Дуже простий статичний http-сервер, іноді він потрібен для тестування
+  vi: Một máy chủ tĩnh http rất đơn giản, đôi khi chúng ta cần nó để kiểm thử
 x:
   source: https://github.com/txthinking/httpserver
   eget: txthinking/httpserver

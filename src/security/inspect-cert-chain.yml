@@ -3,6 +3,22 @@ homepage: https://github.com/robjtede/inspect-cert-chain
 desc:
   cn: 检查和调试 TLS 证书链（无需 OpenSSL）
   en: Inspect and debug TLS certificate chains (without OpenSSL)
+  cs: Zkontrolujte a ladte řetězce certifikátů TLS (bez OpenSSL)
+  de: TLS-Zertifikatsketten inspizieren und debuggen (ohne OpenSSL)
+  es: Inspecciona y depura cadenas de certificados TLS (sin OpenSSL)
+  fr: Inspectez et déboguez les chaînes de certificats TLS (sans OpenSSL)
+  id: Periksa dan debug rantai sertifikat TLS (tanpa OpenSSL)
+  it: Ispeziona e traccia le catene di certificati TLS (senza OpenSSL)
+  ja: TLS 証明書チェーンを調査・デバッグする（OpenSSL 不要）
+  ko: TLS 인증서 체인을 검사하고 디버깅합니다(OpenSSL 불필요)
+  pl: Inspektoruj i debuguj łańcuchy certyfikatów TLS (bez OpenSSL)
+  pt: Inspecione e depure cadeias de certificados TLS (sem OpenSSL)
+  ro: Inspectează și depanează lanțurile de certificate TLS (fără OpenSSL)
+  ru: Проверка и отладка цепочек сертификатов TLS (без OpenSSL)
+  th: ตรวจสอบและดีบักสายใบรับรอง TLS (ไม่ต้องใช้ OpenSSL)
+  tr: TLS sertifika zincirlerini inceleyin ve hata ayıklayın (OpenSSL olmadan)
+  uk: Інспекція та налагодження ланцюжків сертифікатів TLS (без OpenSSL)
+  vi: Kiểm tra và gỡ lỗi chuỗi chứng thư TLS (không cần OpenSSL)
 x:
   source: https://github.com/robjtede/inspect-cert-chain
   eget: robjtede/inspect-cert-chain

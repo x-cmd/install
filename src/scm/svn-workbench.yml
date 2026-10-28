@@ -3,6 +3,22 @@ homepage: http://pysvn.tigris.org/
 desc:
   cn: Pysvn-workbench 是用 Python 语言编写的 Subversion 修订控制系统的工作台(图形客户机)
   en: pysvn-workbench is a workbench (graphical client) for the Subversion revision control system, written in the Python language
+  cs: pysvn-workbench je pracovní prostředí (grafický klient) pro systém správy verzí Subversion, napsané v jazyce Python
+  de: pysvn-workbench ist eine Workbench (grafischer Client) für das Versionskontrollsystem Subversion, geschrieben in der Sprache Python
+  es: pysvn-workbench es un banco de trabajo (cliente gráfico) para el sistema de control de versiones Subversion, escrito en el lenguaje Python
+  fr: pysvn-workbench est un atelier (client graphique) pour le système de gestion de versions Subversion, écrit en langage Python
+  id: pysvn-workbench adalah workbench (klien grafis) untuk sistem kontrol versi Subversion, ditulis dalam bahasa Python
+  it: pysvn-workbench è una workbench (client grafico) per il sistema di controllo versione Subversion, scritta in linguaggio Python
+  ja: pysvn-workbench は Python 言語で書かれた Subversion 版管理システムのワークベンチ（グラフィカルクライアント）です
+  ko: pysvn-workbench는 Python 언어로 작성된 Subversion 버전 관리 시스템의 워크벤치(그래픽 클라이언트)입니다
+  pl: pysvn-workbench to środowisko pracy (klient graficzny) dla systemu kontroli wersji Subversion, napisane w języku Python
+  pt: pysvn-workbench é um ambiente de trabalho (cliente gráfico) para o sistema de controle de versão Subversion, escrito na linguagem Python
+  ro: pysvn-workbench este un mediu de lucru (client grafic) pentru sistemul de control al versiunilor Subversion, scris în limbajul Python
+  ru: pysvn-workbench — это рабочая среда (графический клиент) для системы контроля версий Subversion, написанная на языке Python
+  th: pysvn-workbench เป็นเวิร์กเบนช์ (ไคลเอนต์กราฟิก) สำหรับระบบควบคุมเวอร์ชัน Subversion เขียนด้วยภาษา Python
+  tr: pysvn-workbench, Python dilinde yazılmış Subversion sürüm kontrol sistemi için bir çalışma tezgahıdır (grafik istemci)
+  uk: pysvn-workbench — це робоче середовище (графічний клієнт) для системи контролю версій Subversion, написана мовою Python
+  vi: pysvn-workbench là workbench (trình khách hàng đồ họa) cho hệ thống quản lý phiên bản Subversion, được viết bằng ngôn ngữ Python
 rule:
   debian/apt:
     cmd: sudo apt-get install svn-workbench

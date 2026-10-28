@@ -3,6 +3,22 @@ homepage: https://github.com/facebook/zstd
 desc:
   cn: 一种基于 Zstandard 算法的高效文件压缩工具
   en: An efficient file compression tool based on the ZStandard algorithm
+  cs: Efektivní nástroj pro kompresi souborů založený na algoritmu ZStandard
+  de: Ein effizientes Dateikomprimierungswerkzeug auf Basis des ZStandard-Algorithmus
+  es: Una herramienta eficiente de compresión de archivos basada en el algoritmo ZStandard
+  fr: Un outil efficace de compression de fichiers basé sur l'algorithme ZStandard
+  id: Alat kompresi file yang efisien berdasarkan algoritma ZStandard
+  it: Un efficiente strumento di compressione dei file basato sull'algoritmo ZStandard
+  ja: ZStandard アルゴリズムに基づく効率的なファイル圧縮ツールです。
+  ko: ZStandard 알고리즘을 기반으로 한 효율적인 파일 압축 도구
+  pl: Efektywne narzędzie do kompresji plików oparte na algorytmie ZStandard
+  pt: Uma ferramenta eficiente de compressão de arquivos baseada no algoritmo ZStandard
+  ro: Un instrument eficient de comprimare a fișierelor bazat pe algoritmul ZStandard
+  ru: Эффективный инструмент сжатия файлов на основе алгоритма ZStandard
+  th: เครื่องมือบีบอัดไฟล์อย่างมีประสิทธิภาพที่ใช้อัลกอริทึม ZStandard
+  tr: ZStandard algoritmasına dayanan verimli bir dosya sıkıştırma aracı
+  uk: Ефективний інструмент стиснення файлів на основі алгоритму ZStandard
+  vi: Công cụ nén tệp hiệu quả dựa trên thuật toán ZStandard
 x:
   source: https://github.com/facebook/zstd
   eget: facebook/zstd

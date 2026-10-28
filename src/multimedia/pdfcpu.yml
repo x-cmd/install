@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: pdfcpu 是一个用 Go 编写的支持加密的 PDF 处理库
   en: pdfcpu is a PDF processing library written in Go supporting encryption
+  cs: pdfcpu je knihovna pro zpracování PDF napsaná v Go, která podporuje šifrování
+  de: pdfcpu ist eine in Go geschriebene PDF-Verarbeitungsbibliothek, die Verschlüsselung unterstützt
+  es: pdfcpu es una biblioteca de procesamiento de PDF escrita en Go que admite cifrado
+  fr: pdfcpu est une bibliothèque de traitement PDF écrite en Go prenant en charge le chiffrement
+  id: pdfcpu adalah pustaka pemrosesan PDF yang ditulis dengan Go dan mendukung enkripsi
+  it: pdfcpu è una libreria di elaborazione PDF scritta in Go che supporta la crittografia
+  ja: pdfcpu は Go で書かれた暗号化対応の PDF 処理ライブラリです
+  ko: pdfcpu는 암호화를 지원하는 Go로 작성된 PDF 처리 라이브러리입니다
+  pl: pdfcpu to biblioteka do przetwarzania PDF napisana w Go, obsługująca szyfrowanie
+  pt: pdfcpu é uma biblioteca de processamento de PDF escrita em Go que oferece suporte a criptografia
+  ro: pdfcpu este o bibliotecă de procesare PDF scrisă în Go, cu suport pentru criptare
+  ru: pdfcpu — библиотека обработки PDF, написанная на Go и поддерживающая шифрование
+  th: pdfcpu คือไลบรารีประมวลผล PDF ที่เขียนด้วย Go และรองรับการเข้ารหัส
+  tr: pdfcpu, şifrelemeyi destekleyen Go ile yazılmış bir PDF işleme kütüphanesidir
+  uk: pdfcpu — бібліотека обробки PDF, написана на Go з підтримкою шифрування
+  vi: pdfcpu là thư viện xử lý PDF viết bằng Go, hỗ trợ mã hóa
 x:
   source: https://github.com/pdfcpu/pdfcpu
   eget: pdfcpu/pdfcpu

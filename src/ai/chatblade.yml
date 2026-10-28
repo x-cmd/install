@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Chatblade 是一个多功能的命令行界面 (CLI) 工具，用于与 OpenAI 的 ChatGPT 交互。
   en: Chatblade is a multi-purpose command line interface (CLI) tool for interacting with OpenAI's ChatGPT.
+  cs: Chatblade je multifunkční nástroj rozhraní příkazové řádky (CLI) pro interakci s ChatGPT od OpenAI.
+  de: Chatblade ist ein multifunktionales Kommandozeilen-Tool (CLI) zur Interaktion mit ChatGPT von OpenAI.
+  es: Chatblade es una herramienta de interfaz de línea de comandos (CLI) multipropósito para interactuar con ChatGPT de OpenAI.
+  fr: Chatblade est un outil d'interface de ligne de commande (CLI) polyvalent permettant d'interagir avec ChatGPT d'OpenAI.
+  id: Chatblade adalah alat antarmuka baris perintah (CLI) serbaguna untuk berinteraksi dengan ChatGPT milik OpenAI.
+  it: Chatblade è un tool da riga di comando (CLI) multiuso per interagire con ChatGPT di OpenAI.
+  ja: Chatblade は、OpenAI の ChatGPT と対話するための多機能なコマンドラインインターフェース (CLI) ツールです。
+  ko: Chatblade는 OpenAI의 ChatGPT와 상호작용하기 위한 다목적 명령줄 인터페이스 (CLI) 도구입니다.
+  pl: Chatblade to wielofunkcyjne narzędzie interfejsu wiersza poleceń (CLI) do interakcji z ChatGPT od OpenAI.
+  pt: O Chatblade é uma ferramenta de interface de linha de comando (CLI) multifuncional para interagir com o ChatGPT da OpenAI.
+  ro: Chatblade este un instrument de interfață de linie de comandă (CLI) multifuncțional pentru interacțiunea cu ChatGPT de la OpenAI.
+  ru: Chatblade — многофункциональный инструмент командной строки (CLI) для взаимодействия с ChatGPT от OpenAI.
+  th: Chatblade เป็นเครื่องมือส่วนติดต่อบรรทัดคำสั่ง (CLI) อเนกประสงค์สำหรับการโต้ตอบกับ ChatGPT ของ OpenAI
+  tr: Chatblade, OpenAI'nın ChatGPT'siyle etkileşim kurmak için çok amaçlı bir komut satırı arayüzü (CLI) aracıdır.
+  uk: Chatblade — багатофункціональний інструмент командного рядка (CLI) для взаємодії з ChatGPT від OpenAI.
+  vi: Chatblade là công cụ giao diện dòng lệnh (CLI) đa năng để tương tác với ChatGPT của OpenAI.
 x:
   source: https://github.com/npiv/chatblade
   brew: chatblade

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: JEnv 是一个命令行工具，可以帮助您忘记如何设置 JAVA _ HOME 环境变量
   en: jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable
+  cs: jEnv je nástroj příkazové řádky, který vám pomůže zapomenout, jak nastavit proměnnou prostředí JAVA_HOME
+  de: jEnv ist ein Kommandozeilenwerkzeug, mit dem Sie vergessen können, wie die Umgebungsvariable JAVA_HOME gesetzt wird
+  es: jEnv es una herramienta de línea de comandos que te ayuda a olvidar cómo configurar la variable de entorno JAVA_HOME
+  fr: jEnv est un outil en ligne de commande qui vous aide à oublier comment définir la variable d'environnement JAVA_HOME
+  id: jEnv adalah alat baris perintah yang membantu Anda melupakan cara mengatur variabel lingkungan JAVA_HOME
+  it: jEnv è uno strumento da riga di comando che vi aiuta a dimenticare come impostare la variabile d'ambiente JAVA_HOME
+  ja: jEnv は、 JAVA_HOME 環境変数の設定方法を忘れるのを助于くれるコマンドラインツールです
+  ko: jEnv는 JAVA_HOME 환경 변수를 설정하는 방법을 잊도록 도와주는 명령줄 도구입니다
+  pl: jEnv to narzędzie wiersza poleceń, które pomoże ci zapomnieć, jak ustawić zmienną środowiskową JAVA_HOME
+  pt: jEnv é uma ferramenta de linha de comando que ajuda você a esquecer como definir a variável de ambiente JAVA_HOME
+  ro: jEnv este un instrument de linie de comandă care vă ajută să uitați cum se setează variabila de mediu JAVA_HOME
+  ru: jEnv — это инструмент командной строки, который поможет вам забыть, как задать переменную окружения JAVA_HOME
+  th: jEnv คือเครื่องมือบรรทัดคำสั่งที่ช่วยให้คุณลืมวิธีตั้งค่าตัวแปรสภาพแวดล้อม JAVA_HOME
+  tr: jEnv, JAVA_HOME ortam değişkenini nasıl ayarlayacağınızı unutmanıza yardımcı olan bir komut satırı aracıdır.
+  uk: jEnv — це інструмент командного рядка, який допоможе вам забути, як встановити змінну оточення JAVA_HOME
+  vi: jEnv là công cụ dòng lệnh giúp bạn quên cách đặt biến môi trường JAVA_HOME
 x:
   source: https://github.com/jenv/jenv
   brew: jenv

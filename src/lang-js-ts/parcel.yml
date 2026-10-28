@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Parcel 是一个零配置的网络构建工具
   en: Parcel is a zero configuration build tool for the web
+  cs: Parcel je nástroj na sestavení webových aplikací bez jakékoli konfigurace
+  de: Parcel ist ein Build-Tool für das Web, das ohne Konfiguration auskommt
+  es: Parcel es una herramienta de compilación para la web sin necesidad de configuración
+  fr: Parcel est un outil de build pour le web qui ne nécessite aucune configuration
+  id: Parcel adalah alat build untuk web tanpa perlu konfigurasi
+  it: Parcel è uno strumento di build per il web che non richiede alcuna configurazione
+  ja: Parcel は設定不要のウェブ用ビルドツールです
+  ko: Parcel은 설정 없이 사용할 수 있는 웹용 빌드 도구입니다
+  pl: Parcel to narzędzie do budowania aplikacji webowych bez żadnej konfiguracji
+  pt: O Parcel é uma ferramenta de build para a web sem necessidade de configuração
+  ro: Parcel este o unealtă de build pentru web care nu necesită nicio configurare
+  ru: Parcel — инструмент сборки для веба, не требующий настройки
+  th: Parcel เป็นเครื่องมือ build สำหรับเว็บที่ไม่ต้องตั้งค่าใด ๆ
+  tr: Parcel, yapılandırma gerektirmeyen web için bir derleme aracıdır
+  uk: Parcel — інструмент збірки для вебу, що не потребує налаштування
+  vi: Parcel là công cụ build cho web không cần cấu hình
 x:
   source: https://github.com/parcel-bundler/parcel
 rule:

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: nFPM 是一个简单的、零依赖项、 deb、 rpm、 apk 和 Arch Linux 打包器
   en: nFPM is a simple, 0-dependencies, deb, rpm, apk, and Arch Linux packager
+  cs: nFPM je jednoduchý balíček pro deb, rpm, apk a Arch Linux bez jakýchkoli závislostí.
+  de: nFPM ist ein einfacher, abhängigkeitsfreier Packer für deb, rpm, apk und Arch Linux.
+  es: nFPM es un empaquetador simple, sin dependencias, para deb, rpm, apk y Arch Linux.
+  fr: nFPM est un empaqueteur simple, sans dépendance, pour deb, rpm, apk et Arch Linux.
+  id: nFPM adalah pemaket sederhana tanpa dependensi untuk deb, rpm, apk, dan Arch Linux.
+  it: nFPM è un impacchettatore semplice e senza dipendenze per deb, rpm, apk e Arch Linux.
+  ja: nFPM は deb、rpm、apk、Arch Linux 向けの simplicity と依存なしの軽量なパッカーです。
+  ko: nFPM은 deb, rpm, apk, Arch Linux를 위한 단순하고 의존성 없는 패커입니다.
+  pl: nFPM to prosty pakiet dla deb, rpm, apk i Arch Linux, bez żadnych zależności.
+  pt: nFPM é um empacotador simples, sem dependências, para deb, rpm, apk e Arch Linux.
+  ro: nFPM este un ambalator simplu, fără dependențe, pentru deb, rpm, apk și Arch Linux.
+  ru: nFPM — простой упаковщик без зависимостей для deb, rpm, apk и Arch Linux.
+  th: nFPM เป็นตัวแพ็คเกจแบบเรียบง่าย ไม่มี dependency สำหรับ deb, rpm, apk และ Arch Linux
+  tr: nFPM, deb, rpm, apk ve Arch Linux için basit ve bağımlılıktan muaf bir paketleyicidir.
+  uk: nFPM — простий пакувальник без залежностей для deb, rpm, apk та Arch Linux.
+  vi: nFPM là trình đóng gói đơn giản, không phụ thuộc cho deb, rpm, apk và Arch Linux.
 x:
   source: https://github.com/goreleaser/nfpm
   eget: goreleaser/nfpm

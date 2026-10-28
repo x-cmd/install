@@ -4,6 +4,22 @@ license: WTFPL
 desc:
   en: A small tool to view json log files
   cn: 查看 json 日志文件的小工具
+  cs: Malý nástroj pro prohlížení souborů protokolů json
+  de: Ein kleines Tool zum Ansehen von json-Protokolldateien
+  es: Una pequeña herramienta para ver archivos de registro json
+  fr: Un petit outil pour consulter les fichiers de journaux json
+  id: Alat kecil untuk melihat berkas log json
+  it: Un piccolo strumento per visualizzare i file di log json
+  ja: json ログファイルを表示するための小さなツールです
+  ko: json 로그 파일을 확인하는 작은 도구입니다
+  pl: Małe narzędzie do przeglądania plików logów json
+  pt: Uma pequena ferramenta para visualizar arquivos de log json
+  ro: Un instrument mic pentru vizualizarea fișierelor de jurnal json
+  ru: Небольшой инструмент для просмотра файлов журналов json
+  th: เครื่องมือเล็ก ๆ สำหรับดูไฟล์บันทึก json
+  tr: json günlük dosyalarını görüntülemek için küçük bir araç
+  uk: Невеликий інструмент для перегляду файлів журналів json
+  vi: Một công cụ nhỏ để xem các tệp nhật ký json
 x:
   source: https://github.com/brocode/fblog
   eget: brocode/fblog

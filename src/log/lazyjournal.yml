@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于显示来自 journalctl、文件系统、Docker、Podman 和 Kubernetes Pod 的日志的 TUI。
   en: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods.
+  cs: TUI pro protokoly z journalctl, systému souborů, Dockeru, Podmanu a podů Kubernetes.
+  de: TUI für Protokolle aus journalctl, Dateisystem, Docker, Podman und Kubernetes-Pods.
+  es: TUI para registros de journalctl, del sistema de archivos, de Docker, Podman y de pods de Kubernetes.
+  fr: TUI pour les journaux de journalctl, du système de fichiers, de Docker, Podman et des pods Kubernetes.
+  id: TUI untuk log dari journalctl, sistem berkas, Docker, Podman, dan pod Kubernetes.
+  it: TUI per i log di journalctl, del file system, di Docker, Podman e dei pod Kubernetes.
+  ja: journalctl、ファイルシステム、Docker、Podman、Kubernetes ポッドのログを表示する TUI です。
+  ko: journalctl, 파일 시스템, Docker, Podman, Kubernetes 팟의 로그를 위한 TUI입니다.
+  pl: TUI dla dzienników z journalctl, systemu plików, Dockera, Podmana i podów Kubernetes.
+  pt: TUI para logs do journalctl, do sistema de arquivos, do Docker, do Podman e de pods do Kubernetes.
+  ro: TUI pentru jurnalele din journalctl, sistemul de fișiere, Docker, Podman și podurile Kubernetes.
+  ru: TUI для журналов из journalctl, файловой системы, Docker, Podman и подов Kubernetes.
+  th: TUI สำหรับบันทึกจาก journalctl, ระบบไฟล์, Docker, Podman และพ็อดของ Kubernetes
+  tr: journalctl, dosya sistemi, Docker, Podman ve Kubernetes pod'larından günlükler için TUI.
+  uk: TUI для журналів із journalctl, файлової системи, Docker, Podman і pod'ів Kubernetes.
+  vi: TUI cho nhật ký từ journalctl, hệ thống tệp, Docker, Podman và các pod Kubernetes
 x:
   source: https://github.com/Lifailon/lazyjournal
   brew: lazyjournal

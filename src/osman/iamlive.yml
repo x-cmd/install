@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用客户端监控 (CSM) 或嵌入式代理从 AWS、Azure 或 Google Cloud (GCP) 调用生成 IAM 策略
   en: Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
+  cs: Generuje zásady IAM z volání AWS, Azure nebo Google Cloud (GCP) pomocí monitorování na straně klienta (CSM) nebo vestavěného proxy
+  de: Erzeugt eine IAM-Richtlinie aus AWS-, Azure- oder Google-Cloud-(GCP-)-Aufrufen mittels clientseitiger Überwachung (CSM) oder eingebettetem Proxy
+  es: Genera una política de IAM a partir de llamadas a AWS, Azure o Google Cloud (GCP) mediante monitorización del lado del cliente (CSM) o un proxy integrado
+  fr: Génère une politique IAM à partir d'appels vers AWS, Azure ou Google Cloud (GCP) à l'aide d'une surveillance côté client (CSM) ou d'un proxy intégré
+  id: Membuat kebijakan IAM dari panggilan AWS, Azure, atau Google Cloud (GCP) menggunakan pemantauan sisi klien (CSM) atau proxy tertanam
+  it: Genera una policy IAM dalle chiamate ad AWS, Azure o Google Cloud (GCP) tramite monitoraggio lato client (CSM) o proxy incorporato
+  ja: クライアント側モニタリング (CSM) または組み込みプロキシを使って、AWS、Azure、Google Cloud (GCP) の呼び出しから IAM ポリシーを生成します
+  ko: 클라이언트 측 모니터링(CSM) 또는 내장 프록시를 사용하여 AWS, Azure, Google Cloud (GCP) 호출에서 IAM 정책을 생성합니다.
+  pl: Generuje politykę IAM na podstawie wywołań AWS, Azure lub Google Cloud (GCP) przy użyciu monitorowania po stronie klienta (CSM) lub wbudowanego proxy
+  pt: Gera uma política de IAM a partir de chamadas para AWS, Azure ou Google Cloud (GCP) usando monitoramento do lado do cliente (CSM) ou proxy embutido
+  ro: Generează o politică IAM din apelurile către AWS, Azure sau Google Cloud (GCP) folosind monitorizarea din partea clientului (CSM) sau un proxy încorporat
+  ru: Создаёт политику IAM из вызовов AWS, Azure или Google Cloud (GCP) с помощью клиентского мониторинга (CSM) или встроенного прокси
+  th: สร้างนโยบาย IAM จากการเรียกใช้ AWS, Azure หรือ Google Cloud (GCP) โดยใช้การตรวจสอบฝั่งไคลเอนต์ (CSM) หรือพร็อกซีแบบฝัง
+  tr: AWS, Azure veya Google Cloud (GCP) çağrılarından istemci tarafı izleme (CSM) veya gömülü vekil kullanarak bir IAM politikası oluşturur
+  uk: Генерує політику IAM із викликів AWS, Azure або Google Cloud (GCP) за допомогою клієнтського моніторингу (CSM) або вбудованого проксі
+  vi: Tạo chính sách IAM từ các lệnh gọi AWS, Azure hoặc Google Cloud (GCP) bằng giám sát phía máy khách (CSM) hoặc proxy nhúng
 x:
   source: https://github.com/iann0036/iamlive
   eget: iann0036/iamlive

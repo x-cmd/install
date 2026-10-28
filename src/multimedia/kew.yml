@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 命令行音乐播放器
   en: Command line music player
+  cs: Hudební přehrávač pro příkazovou řádek
+  de: Musikplayer für die Kommandozeile
+  es: Reproductor de música para la línea de comandos
+  fr: Lecteur de musique en ligne de commande
+  id: Pemutar musik baris perintah
+  it: Lettore musicale da riga di comando
+  ja: コマンドライン音楽プレーヤー
+  ko: 명령줄 음악 플레이어
+  pl: Odtwarzacz muzyki w wierszu poleceń
+  pt: Reprodutor de música de linha de comando
+  ro: Player de muzică pentru linia de comandă
+  ru: Командный музыкальный проигрыватель
+  th: เครื่องเล่นเพลงบรรทัดคำสั่ง
+  tr: Komut satırı müzik çalar
+  uk: Командний музичний програвач
+  vi: Trình phát nhạc dòng lệnh
 x:
   source: https://github.com/ravachol/kew
   apt: kew

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 终端下便捷的 Git worktree 管理 CLI 和 TUI
   en: 'Easy Git worktree management CLI and TUI for the terminal.'
+  cs: Snadné CLI a TUI pro správu Git worktree v terminálu.
+  de: Einfache CLI und TUI zur Verwaltung von Git-Worktrees im Terminal.
+  es: CLI y TUI sencillos para gestionar worktrees de Git en la terminal.
+  fr: CLI et TUI simples pour gérer les worktrees Git dans le terminal.
+  id: CLI dan TUI mudah untuk mengelola worktree Git di terminal.
+  it: CLI e TUI semplici per gestire i worktree Git nel terminale.
+  ja: ターミナルでGitワークツリーを易于管理するCLIとTUI。
+  ko: 터미널에서 Git 워크트리를 편리하게 관리하는 CLI와 TUI.
+  pl: Prosty CLI i TUI do zarządzania worktree Git w terminalu.
+  pt: CLI e TUI simples para gerenciar worktrees do Git no terminal.
+  ro: CLI și TUI simple pentru gestionarea worktree-urilor Git în terminal.
+  ru: Простой CLI и TUI для управления worktree Git в терминале.
+  th: CLI และ TUI ที่ใช้งานง่ายสำหรับจัดการ Git worktree ในเทอร์มินัล
+  tr: Terminalde Git worktree yönetimi için kullanışlı CLI ve TUI.
+  uk: Зручний CLI та TUI для керування Git worktree у терміналі.
+  vi: CLI và TUI dễ dùng để quản lý Git worktree trong terminal.
 x:
   source: https://github.com/chmouel/lazyworktree
   eget: chmouel/lazyworktree

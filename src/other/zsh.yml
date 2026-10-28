@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
   en: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
+  cs: Zsh upravený pro podporu Actually Portable Executables git://git.code.sf.net/p/zsh/code (čeká se na upstream)
+  de: Zsh, gepatcht zur Unterstützung von Actually Portable Executables git://git.code.sf.net/p/zsh/code (Upstream ausstehend)
+  es: Zsh parcheado para admitir Actually Portable Executables git://git.code.sf.net/p/zsh/code (pendiente upstream)
+  fr: Zsh corrigé pour prendre en charge les Actually Portable Executables git://git.code.sf.net/p/zsh/code (en attente d'amont)
+  id: Zsh yang dipatch untuk mendukung Actually Portable Executables git://git.code.sf.net/p/zsh/code (menunggu upstream)
+  it: Zsh patchato per supportare Actually Portable Executables git://git.code.sf.net/p/zsh/code (in attesa upstream)
+  ja: Actually Portable Executables に対応した Zsh git://git.code.sf.net/p/zsh/code (upstream 保留中)
+  ko: Actually Portable Executables를 지원하도록 패치된 Zsh git://git.code.sf.net/p/zsh/code (업스트림 대기 중)
+  pl: Zsh zaktualizowany, aby obsługiwać Actually Portable Executables git://git.code.sf.net/p/zsh/code (oczekiwanie na upstream)
+  pt: Zsh corrigido para suportar Actually Portable Executables git://git.code.sf.net/p/zsh/code (pendente no upstream)
+  ro: Zsh patchuit pentru a suporta Actually Portable Executables git://git.code.sf.net/p/zsh/code (în așteptare de upstream)
+  ru: Zsh с патчем для поддержки Actually Portable Executables git://git.code.sf.net/p/zsh/code (ожидание выхода upstream)
+  th: Zsh ที่แพตช์เพื่อรองรับ Actually Portable Executables git://git.code.sf.net/p/zsh/code (กำลังรอ upstream)
+  tr: Actually Portable Executables desteği için yamalanmış Zsh git://git.code.sf.net/p/zsh/code (upstream bekleniyor)
+  uk: Zsh з патчем для підтримки Actually Portable Executables git://git.code.sf.net/p/zsh/code (чекаємо upstream)
+  vi: Zsh được vá lỗi để hỗ trợ Actually Portable Executables git://git.code.sf.net/p/zsh/code (đang chờ upstream)
 x:
   source: https://github.com/jart/zsh
   eget: jart/zsh

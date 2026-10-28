@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Python 的下一代 HTTP 客户端
   en: A next generation HTTP client for Python
+  cs: HTTP klient další generace pro Python
+  de: Ein HTTP-Client der nächsten Generation für Python
+  es: Un cliente HTTP de nueva generación para Python
+  fr: Un client HTTP de nouvelle génération pour Python
+  id: Klien HTTP generasi berikutnya untuk Python
+  it: Un client HTTP di nuova generazione per Python
+  ja: Python 向けの次世代 HTTP クライアント
+  ko: Python을 위한 차세대 HTTP 클라이언트
+  pl: Klient HTTP nowej generacji dla Pythona
+  pt: Um cliente HTTP de nova geração para Python
+  ro: Un client HTTP de nouă generație pentru Python
+  ru: HTTP-клиент нового поколения для Python
+  th: ไคลเอนต์ HTTP รุ่นใหม่สำหรับ Python
+  tr: Python için yeni nesil HTTP istemcisi
+  uk: HTTP-клієнт нового покоління для Python
+  vi: HTTP client thế hệ mới dành cho Python
 x:
   source: https://github.com/encode/httpx
   pip: 'httpx[cli]'

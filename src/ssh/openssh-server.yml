@@ -3,6 +3,22 @@ homepage: https://github.com/openssh/openssh-portable
 desc:
   cn: openssh-server 是 OpenSSH 连接工具的服务端
   en: openssh-server is the server side of the OpenSSH connection tool
+  cs: openssh-server je serverová strana nástroje pro připojování OpenSSH
+  de: openssh-server ist die Serverseite des OpenSSH-Verbindungswerkzeugs
+  es: openssh-server es el lado del servidor de la herramienta de conexión OpenSSH
+  fr: openssh-server est le côté serveur de l'outil de connexion OpenSSH
+  id: openssh-server adalah sisi server dari alat koneksi OpenSSH
+  it: openssh-server è il lato server dello strumento di connessione OpenSSH
+  ja: openssh-server は OpenSSH 接続ツールのサーバー側です
+  ko: openssh-server는 OpenSSH 연결 도구의 서버 측입니다
+  pl: openssh-server to strona serwerowa narzędzia połączenia OpenSSH
+  pt: openssh-server é o lado do servidor da ferramenta de conexão OpenSSH
+  ro: openssh-server este partea de server a instrumentului de conectare OpenSSH
+  ru: openssh-server — это серверная сторона инструмента подключения OpenSSH
+  th: openssh-server เป็นฝั่งเซิร์ฟเวอร์ของเครื่องมือเชื่อมต่อ OpenSSH
+  tr: openssh-server, OpenSSH bağlantı aracının sunucu tarafıdır
+  uk: openssh-server — це серверна сторона інструмента підключення OpenSSH
+  vi: openssh-server là phía máy chủ của công cụ kết nối OpenSSH
 x:
   source: https://github.com/openssh/openssh-portable
   apt: openssh-server

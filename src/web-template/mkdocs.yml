@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: MkDocs 是一个快速、简单、华丽的静态站点生成器，适用于构建项目文档
   en: MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation
+  cs: MkDocs je rychlý, jednoduchý a opravdu krásný generátor statických webů, zaměřený na tvorbu projektové dokumentace
+  de: MkDocs ist ein schneller, einfacher und geradezu hübscher Generator für statische Websites, der auf die Erstellung von Projektdokumentation ausgerichtet ist
+  es: MkDocs es un generador de sitios estáticos rápido, sencillo y realmente precioso, orientado a crear documentación de proyectos
+  fr: MkDocs est un générateur de sites statiques rapide, simple et vraiment élégant, conçu pour créer de la documentation de projet
+  id: MkDocs adalah generator situs statis yang cepat, sederhana, dan pantas, yang berorientasi pada membangun dokumentasi proyek
+  it: MkDocs è un generatore di siti statici veloce, semplice e davvero splendido, pensato per creare la documentazione dei progetti
+  ja: MkDocs は高速で単純、そして実に美しい静的サイトジェネレーターで、プロジェクトドキュメントの構築を目的に設計されています
+  ko: MkDocs는 빠르고 단순하며, 실제로 아름다운 정적 사이트 생성기로 프로젝트 문서 작성에 맞춰져 있습니다
+  pl: MkDocs to szybki, prosty i prześlicznie piękny generator stron statycznych, przeznaczony do tworzenia dokumentacji projektów
+  pt: MkDocs é um gerador de sites estáticos rápido, simples e realmente belo, voltado para criar documentação de projetos
+  ro: MkDocs este un generator de site-uri statice rapid, simplu și cu adevărat frumos, orientat spre construirea documentației de proiect
+  ru: MkDocs — быстрый, простой и по-настоящему красивый генератор статических сайтов, предназначенный для создания проектной документации
+  th: MkDocs เป็นตัวสร้างเว็บไซต์แบบคงที่ที่รวดเร็ว เรียบง่าย และสวยงาม โดยมุ่งไปที่การสร้างเอกสารประกอบโปรเจกต์
+  tr: MkDocs, proje belgeleri oluşturmaya yönelik hızlı, basit ve gerçekten görkemli bir statik site oluşturucudur
+  uk: MkDocs — швидкий, простий і справді гарний генератор статичних сайтів, призначений для створення проєктної документації
+  vi: MkDocs là trình tạo trang tĩnh nhanh, đơn giản và thực sự đẹp, được thiết kế để xây dựng tài liệu dự án
 x:
   source: https://github.com/mkdocs/mkdocs
   apt: mkdocs

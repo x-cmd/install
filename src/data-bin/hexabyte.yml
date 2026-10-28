@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个现代化、模块化且强大的 TUI 十六进制编辑器。
   en: A modern, modular, and robust TUI hex editor.
+  cs: Moderní, modulární a robustní TUI hexadecimální editor.
+  de: Ein moderner, modularer und robuster TUI-Hex-Editor.
+  es: Un editor hexadecimal TUI moderno, modular y robusto.
+  fr: Un éditeur hexadécimal TUI moderne, modulaire et robuste.
+  id: Editor heksadesimal TUI modern, modular, dan kuat.
+  it: Un editor esadecimale TUI moderno, modulare e robusto.
+  ja: モダンでモジュール式の堅牢な TUI 十六進エディタ。
+  ko: 현대적이고 모듈식이며 안정적인 TUI 16진수 편집기.
+  pl: Nowoczesny, modularny i solidny edytor szesnastkowy TUI.
+  pt: Um editor hexadecimal TUI moderno, modular e robusto.
+  ro: Un editor hexazecimal TUI modern, modular și robust.
+  ru: Современный, модульный и надёжный TUI-редактор в шестнадцатеричном виде.
+  th: ตัวแก้ไขเลขฐานสิบหกแบบ TUI ที่ทันสมัย โมดูลาร์ และทนทาน
+  tr: Modern, modüler ve sağlam bir TUI onaltılık düzenleyici.
+  uk: Сучасний, модульний і надійний TUI-редактор шістнадцяткового вигляду.
+  vi: Trình chỉnh sửa hex TUI hiện đại, mô-đun và mạnh mẽ.
 x:
   source: https://github.com/thetacom/hexabyte
   eget: thetacom/hexabyte

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: AI 编程工作站：Claude Code + Web UI + 7 个 AI CLI + 无头浏览器 + 50+ 工具
   en: 'AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools'
+  cs: "AI pracovní stanice: Claude Code + webové UI + 7 AI CLI + bezhlavý prohlížeč + 50+ nástrojů"
+  de: "KI-Arbeitsstation: Claude Code + Web-UI + 7 KI-CLIs + Headless-Browser + 50+ Werkzeuge"
+  es: "Estación de trabajo de IA: Claude Code + interfaz web + 7 CLI de IA + navegador sin cabeza + más de 50 herramientas"
+  fr: "Station de travail IA : Claude Code + interface web + 7 CLI IA + navigateur sans interface + plus de 50 outils"
+  id: "Stasiun kerja AI: Claude Code + UI web + 7 CLI AI + browser tanpa kepala + 50+ alat"
+  it: "Postazione di lavoro AI: Claude Code + interfaccia web + 7 CLI AI + browser headless + oltre 50 strumenti"
+  ja: "AI コーディングワークステーション: Claude Code + Web UI + 7 つの AI CLI + ヘッドレスブラウザ + 50 以上のツール"
+  ko: "AI 코딩 워크스테이션: Claude Code + 웹 UI + 7개 AI CLI + 헤드리스 브라우저 + 50개 이상의 도구"
+  pl: "Stacja robocza AI: Claude Code + interfejs WWW + 7 CLI AI + przeglądarka bezokienkowa + ponad 50 narzędzi"
+  pt: "Estação de trabalho de IA: Claude Code + interface web + 7 CLIs de IA + navegador sem interface + mais de 50 ferramentas"
+  ro: "Stație de lucru AI: Claude Code + interfață web + 7 CLI-uri AI + browser fără interfață + peste 50 de unelte"
+  ru: "Рабочая станция для ИИ: Claude Code + веб-интерфейс + 7 ИИ-CLI + безголовый браузер + более 50 инструментов"
+  th: "สถานีทำงาน AI: Claude Code + เว็บ UI + 7 AI CLI + เบราว์เซอร์แบบไม่มีหัว + เครื่องมือกว่า 50 ตัว"
+  tr: "AI kodlama iş istasyonu: Claude Code + web arayüzü + 7 AI CLI + başsız tarayıcı + 50'den fazla araç"
+  uk: "Робоча станція для ШІ: Claude Code + веб-інтерфейс + 7 ШІ-CLI + безголовий браузер + понад 50 інструментів"
+  vi: "Trạm làm việc AI: Claude Code + giao diện web + 7 AI CLI + trình duyệt không đầu + hơn 50 công cụ"
 x:
   source: https://github.com/CoderLuii/HolyClaude
   eget: CoderLuii/HolyClaude

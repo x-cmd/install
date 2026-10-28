@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简化 VSCode 项目启动的 CLI/TUI，专注开发容器
   en: 'A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers'
+  cs: CLI/TUI, které zjednodušuje spouštění projektů ve VSCode, s důrazem na dev kontejnery
+  de: Eine CLI/TUI, die das Starten von VSCode-Projekten vereinfacht, mit Fokus auf Dev-Container
+  es: Una CLI/TUI que simplifica el lancement de proyectos de VSCode, con foco en contenedores de desarrollo
+  fr: Une CLI/TUI qui simplifie le lancement de projets VSCode, axée sur les conteneurs de développement
+  id: CLI/TUI yang menyederhanakan peluncuran proyek VSCode, dengan fokus pada kontainer pengembangan
+  it: Una CLI/TUI che semplifica l'avvio di progetti VSCode, con un focus sui container di sviluppo
+  ja: VSCode プロジェクトの起動を簡素化する CLI/TUI。開発コンテナに重点を置いています
+  ko: VSCode 프로젝트 실행을 단순화하는 CLI/TUI로, 개발 컨테이너에 중점을 둡니다
+  pl: CLI/TUI upraszczające uruchamianie projektów VSCode, z naciskiem na kontenery deweloperskie
+  pt: Uma CLI/TUI que simplifica a inicialização de projetos VSCode, com foco em contêineres de desenvolvimento
+  ro: Un CLI/TUI care simplifică pornirea proiectelor VSCode, cu accent pe containerele de dezvoltare
+  ru: CLI/TUI, упрощающий запуск проектов VSCode, с акцентом на контейнеры разработки
+  th: CLI/TUI ที่ทำให้การเปิดโปรเจกต์ VSCode ง่ายขึ้น โดยเน้นที่คอนเทนเนอร์สำหรับการพัฒนา
+  tr: VSCode projelerini başlatmayı kolaylaştıran, dev konteynerlerine odaklanan bir CLI/TUI
+  uk: CLI/TUI, що спрощує запуск проєктів VSCode, з акцентом на контейнери розробки
+  vi: CLI/TUI đơn giản hóa việc khởi chạy dự án VSCode, tập trung vào container phát triển
 x:
   source: https://github.com/michidk/vscli
   eget: michidk/vscli

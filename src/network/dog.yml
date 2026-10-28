@@ -4,6 +4,22 @@ license: EUPL-1.2
 desc:
   cn: dog 是命令行的开源 DNS 客户端
   en: dog is an open-source DNS client for the command-line
+  cs: dog je open-source DNS klient pro příkazovou řádku
+  de: dog ist ein quelloffener DNS-Client für die Kommandozeile
+  es: dog es un cliente DNS de código abierto para la línea de comandos
+  fr: dog est un client DNS open source pour la ligne de commande
+  id: dog adalah klien DNS sumber terbuka untuk baris perintah
+  it: dog è un client DNS open source per la riga di comando
+  ja: dog はコマンドライン向けのオープンソース DNS クライアントです
+  ko: dog는 명령줄용 오픈소스 DNS 클라이언트입니다
+  pl: dog to otwartoźródłowy klient DNS dla wiersza poleceń
+  pt: dog é um cliente DNS de código aberto para a linha de comando
+  ro: dog este un client DNS open source pentru linia de comand
+  ru: dog — это клиент DNS с открытым исходным кодом для командной строки
+  th: dog คือไคลเอนต์ DNS แบบโอเพนซอร์สสำหรับบรรทัดคำสั่ง
+  tr: dog, komut satırı için açık kaynaklı bir DNS istemcisidir
+  uk: dog — це клієнт DNS з відкритим кодом для командного рядка
+  vi: dog là ứng dụng DNS mã nguồn mở dành cho dòng lệnh
 x:
   source: https://github.com/ogham/dog
   eget: ogham/dog

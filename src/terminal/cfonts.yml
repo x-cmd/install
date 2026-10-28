@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 用于在控制台中显示好看的 ANSI 字体
   en: A pretty ANSI font for the console
+  cs: Pěkné ANSI písmo pro konzoli
+  de: Ein schönes ANSI-Schriftart für die Konsole
+  es: Una fuente ANSI bonita para la consola
+  fr: Une jolie police ANSI pour la console
+  id: Font ANSI yang cantik untuk konsol
+  it: Un bel carattere ANSI per la console
+  ja: コンソール用の美しいANSIフォント
+  ko: 콘솔용으로 보기 좋은 ANSI 글꼴
+  pl: Ładna czcionka ANSI dla konsoli
+  pt: Uma fonte ANSI bonita para o console
+  ro: Un font ANSI frumos pentru consolă
+  ru: Красивый шрифт ANSI для консоли
+  th: ฟอนต์ ANSI สวยงามสำหรับคอนโซล
+  tr: Konsol için güzel bir ANSI yazı tipi
+  uk: Гарний шрифт ANSI для консолі
+  vi: Phông chữ ANSI đẹp cho bảng điều khiển
 homepage: https://github.com/dominikwilkowski/cfonts
 license: GPL-3.0
 x:

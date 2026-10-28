@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用 Rust 编写的带有 TUI 的跨平台音频录制/播放 CLI 工具
   en: A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
+  cs: Nástroj CLI pro nahrávání a přehrávání audia napříč platformami s TUI, napsaný v Rustu.
+  de: Ein plattformübergreifendes CLI-Tool zur Audioaufnahme und -wiedergabe mit TUI, geschrieben in Rust.
+  es: Una herramienta CLI multiplataforma de grabación/reproducción de audio con TUI, escrita en Rust.
+  fr: Un outil CLI multiplateforme d'enregistrement et de lecture audio avec TUI, écrit en Rust.
+  id: Alat CLI lintas platform untuk merekam/memutar audio dengan TUI, ditulis dalam Rust.
+  it: Uno strumento CLI multipiattaforma per registrazione/riproduzione audio con TUI, scritto in Rust.
+  ja: Rust で書かれた TUI 付きクロスプラットフォームの音声録音/再生 CLI ツール。
+  ko: TUI를 갖춘 크로스 플랫폼 오디오 녹음/재생 CLI 도구로 Rust로 작성되었습니다.
+  pl: Narzędzie CLI do nagrywania i odtwarzania dźwięku na różnych platformach z TUI, napisane w Rust.
+  pt: Uma ferramenta CLI multiplataforma para gravação/reprodução de áudio com TUI, escrita em Rust.
+  ro: Un instrument CLI cross-platform pentru înregistrare și redare audio cu TUI, scris în Rust.
+  ru: Кроссплатформенный инструмент CLI для записи и воспроизведения аудио с TUI, написанный на Rust.
+  th: เครื่องมือ CLI สำหรับบันทึกและเล่นเสียงข้ามแพลตฟอร์มพร้อม TUI เขียนด้วย Rust
+  tr: TUI ile birlikte çok platformlu ses kaydı ve oynatma CLI aracı, Rust ile yazıldı.
+  uk: Кроссплатформний інструмент CLI для запису та відтворення аудіо з TUI, написаний на Rust.
+  vi: Công cụ CLI đa nền tảng để ghi âm/phát lại âm thanh có TUI, viết bằng Rust.
 x:
   source: https://github.com/chaosprint/asak
   yay: asak

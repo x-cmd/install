@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Atlas 是使用现代 DevOps 原则管理和迁移数据库模式的语言无关工具
   en: Atlas is a language-agnostic tool for managing and migrating database schemas using modern DevOps principles
+  cs: Atlas je nástroj nezávislý na jazyce pro správu a migraci schémat databází podle moderních principů DevOps
+  de: Atlas ist ein sprachunabhängiges Werkzeug zur Verwaltung und Migration von Datenbankschemata nach modernen DevOps-Prinzipien
+  es: Atlas es una herramienta independiente del lenguaje para gestionar y migrar esquemas de bases de datos siguiendo principios modernos de DevOps
+  fr: Atlas est un outil indépendant du langage pour gérer et migrer les schémas de bases de données selon des principes DevOps modernes
+  id: Atlas adalah alat yang tidak bergantung pada bahasa untuk mengelola dan memigrasikan skema basis data menggunakan prinsip DevOps modern
+  it: Atlas è uno strumento indipendente dal linguaggio per gestire e migrare gli schemi dei database seguendo moderni principi DevOps
+  ja: Atlas は、現代的な DevOps 原則に基づいてデータベーススキーマの管理と移行を行う言語非依存のツールです
+  ko: Atlas는 현대적인 DevOps 원칙에 따라 데이터베이스 스키마를 관리하고 마이그레이션하는 언어 독립 도구입니다
+  pl: Atlas to narzędzie niezależne od języka do zarządzania schematami baz danych i ich migracji, oparte na nowoczesnych zasadach DevOps
+  pt: Atlas é uma ferramenta independente de linguagem para gerenciar e migrar esquemas de banco de dados usando princípios modernos de DevOps
+  ro: Atlas este un instrument independent de limbaj pentru gestionarea și migrarea schemelor de baze de date folosind principii moderne DevOps
+  ru: Atlas — языконезависимый инструмент для управления и миграции схем баз данных по современным принципам DevOps
+  th: Atlas คือเครื่องมือที่ไม่ขึ้นกับภาษา สำหรับจัดการและย้ายสคีมาฐานข้อมูลตามหลักการ DevOps สมัยใหม่
+  tr: Atlas, modern DevOps ilkelerini kullanarak veritabanı şemalarını yönetmek ve taşımak için dilden bağımsız bir araçtır
+  uk: Atlas — мовонезалежний інструмент для керування та міграції схем баз даних із застосуванням сучасних принципів DevOps
+  vi: Atlas là công cụ không phụ thuộc ngôn ngữ để quản lý và migration schema cơ sở dữ liệu theo các nguyên tắc DevOps hiện đại
 x:
   source: https://github.com/ariga/atlas
   brew: ariga/tap/atlas

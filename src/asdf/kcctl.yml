@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kafka Connect 的现代且直观的命令行客户端
   en: A modern and intuitive command line client for Kafka Connect
+  cs: Moderní a intuitivní klient příkazové řádky pro Kafka Connect
+  de: Ein moderner und intuitiver Kommandozeilen-Client für Kafka Connect
+  es: Un cliente de línea de comandos moderno e intuitivo para Kafka Connect
+  fr: Un client en ligne de commande moderne et intuitif pour Kafka Connect
+  id: Klien baris perintah modern dan intuitif untuk Kafka Connect
+  it: Un client da riga di comando moderno e intuitivo per Kafka Connect
+  ja: Kafka Connect 向けのモダンで直感的なコマンドラインクライアント
+  ko: Kafka Connect를 위한 현대적이고 직관적인 명령줄 클라이언트
+  pl: Nowoczesny i intuicyjny klient wiersza poleceń dla Kafka Connect
+  pt: Um cliente de linha de comando moderno e intuitivo para o Kafka Connect
+  ro: Un client de linie de comandă modern și intuitiv pentru Kafka Connect
+  ru: Современный и интуитивно понятный консольный клиент для Kafka Connect
+  th: ไคลเอนต์บรรทัดคำสั่งที่ทันสมัยและใช้งานง่ายสำหรับ Kafka Connect
+  tr: Kafka Connect için modern ve sezgisel bir komut satırı istemcisidir
+  uk: Сучасний і інтуїтивно зрозумілий консольний клієнт для Kafka Connect
+  vi: Client dòng lệnh hiện đại và trực quan dành cho Kafka Connect
 x:
   source: https://github.com/kcctl/kcctl
   eget: kcctl/kcctl

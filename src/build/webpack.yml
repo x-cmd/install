@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A bundler for javascript and friends. Packs many modules into a few bundled assets.
   cn: 一个用于 JavaScript 和友好的资源打包工具
+  cs: Webpack je bundler pro JavaScript a příbuzné jazyky, který zabalí mnoho modulů do několika balíčků.
+  de: Webpack ist ein Bundler für JavaScript und verwandte Sprachen, der viele Module in wenige gebündelte Assets packt.
+  es: Webpack es un empaquetador para JavaScript y similares, que agrupa muchos módulos en pocos recursos empaquetados.
+  fr: Webpack est un bundler pour JavaScript et ses proches, qui regroupe de nombreux modules en quelques ressources groupées.
+  id: Webpack adalah bundler untuk JavaScript danenia, yang mengemas banyak modul menjadi sedikit aset bundel.
+  it: Webpack è un bundler per JavaScript e simili, che impacchetta molti moduli in pochi asset raggruppati.
+  ja: Webpack は JavaScript とその周辺のためのバンドラーで、多くのモジュールをわずかなバンドル済みアセットにまとめます。
+  ko: Webpack는 JavaScript 및 유사 언어를 위한 번들러로, 여러 모듈을 소수의 번들 애셋으로 묶어 줍니다.
+  pl: Webpack jest bundlerem dla JavaScript i podobnych języków, pakującym wiele modułów w kilka połączonych zasobów.
+  pt: Webpack é um bundler para JavaScript e afins, que empacota muitos módulos em poucos recursos empacotados.
+  ro: Webpack este un bundler pentru JavaScript și limbaje similare, care împachetează multe module în puține active grupate.
+  ru: Webpack — это бандлер для JavaScript и подобных языков, объединяющий множество модулей в несколько собранных ресурсов.
+  th: Webpack เป็นตัว bundler สำหรับ JavaScript และภาษาที่เกี่ยวข้อง ซึ่งรวมโมดูลจำนวนมากไว้ในไฟล์ที่รวมกลุ่มไม่กี่ไฟล์
+  tr: Webpack, JavaScript ve benzeri diller için çok sayıda modülü birkaç birleşik varlık haline getiren bir paketleyicidir.
+  uk: Webpack — це бандлер для JavaScript і подібних мов, який пакує багато модулів у кілька зібраних ресурсів.
+  vi: Webpack là trình đóng gói cho JavaScript và các ngôn ngữ tương tự, gom nhiều module thành ít tài nguyên đã đóng gói.
 x:
   source: https://github.com/webpack/webpack
   brew: webpack

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Slim（工具包）：不更改容器映像中的任何内容，并将其缩小最多 30 倍（对于编译语言甚至更多），使其也更安全！ （免费且开源）
   en: 'Slim(toolkit): Don''t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)'
+  cs: "Slim(toolkit): Neměňte nic ve svém obrazu kontejneru a minifikujte jej až 30krát (u kompilovaných jazyků i více), čímž se zároveň zabezpečíte! (zdarma a open source)"
+  de: "Slim(toolkit): Ändern Sie nichts an Ihrem Container-Image und verkleinern Sie es um bis zu 30-fach (bei kompilierten Sprachen noch mehr), wodurch es auch sicherer wird! (kostenlos und Open Source)"
+  es: "Slim(toolkit): No cambies nada en tu imagen de contenedor y minifícala hasta 30 veces (más aún en lenguajes compilados), ¡haciéndola también más segura! (gratuito y de código abierto)"
+  fr: "Slim(toolkit) : ne modifiez rien dans votre image de conteneur et minifiez-la jusqu'à 30 fois (encore plus pour les langages compilés), ce qui la rend aussi plus sûre ! (gratuit et open source)"
+  id: "Slim(toolkit): Jangan ubah apa pun pada image kontainer Anda dan perkecil hingga 30 kali (lebih untuk bahasa terkompilasi), sehingga menjadi lebih aman juga! (gratis dan open source)"
+  it: "Slim(toolkit): non modificare nulla nella tua immagine del container e minimizzala fino a 30 volte (ancora di più per i linguaggi compilati), rendendola anche più sicura! (gratuito e open source)"
+  ja: "Slim(toolkit): コンテナイメージを変更せずに最大 30 倍（コンパイル言語ではさらに多く）圧縮し、より安全にします。（無料・オープンソース）"
+  ko: "Slim(toolkit): 컨테이너 이미지의 어떤 것도 변경하지 않고 최대 30배(컴파일 언어의 경우 그 이상)까지 축소하여 더 안전하게 만듭니다. (무료이며 오픈 소스)"
+  pl: "Slim(toolkit): nie zmieniaj niczego w swoim obrazie kontenera i zmniejsz go nawet 30 razy (w przypadku języków kompilowanych nawet więcej), czyniąc go również bezpieczniejszym! (darmowe i open source)"
+  pt: "Slim(toolkit): Não altere nada na sua imagem de contêiner e reduza-a em até 30 vezes (ainda mais para linguagens compiladas), tornando-a também mais segura! (gratuito e de código aberto)"
+  ro: "Slim(toolkit): Nu modifica nimic în imaginea ta de container și micșoreaz-o de până la 30 de ori (chiar mai mult pentru limbajele compilate), făcând-o și mai sigură! (gratuit și open source)"
+  ru: "Slim(toolkit): не изменяйте ничего в образе контейнера и уменьшайте его до 30 раз (для компилируемых языков — ещё больше), делая его ещё и безопаснее! (бесплатно и с открытым исходным кодом)"
+  th: "Slim(toolkit): อย่าเปลี่ยนแปลงสิ่งใดในอิมเมจคอนเทนเนอร์ของคุณ และย่อขนาดได้สูงสุด 30 เท่า (มากยิ่งกว่านั้นสำหรับภาษาที่คอมไพล์) พร้อมทำให้ปลอดภัยขึ้นด้วย! (ฟรีและโอเพนซอร์ส)"
+  tr: "Slim(toolkit): Konteyner imajınızda hiçbir şeyi değiştirmeyin ve 30 kata kadar (derlenen dillerde daha da fazla) küçültün; böylece daha güvenli de olur! (ücretsiz ve açık kaynaklı)"
+  uk: "Slim(toolkit): не змінюйте нічого у вашому образі контейнера та зменшуйте його до 30 разів (для компільованих мов — ще більше), роблячи його також безпечнішим! (безкоштовно та з відкритим кодом)"
+  vi: "Slim(toolkit): Đừng thay đổi bất cứ điều gì trong image container của bạn và thu nhỏ nó tối đa 30 lần (nhiều hơn với ngôn ngữ biên dịch), giúp nó cũng an toàn hơn! (miễn phí và mã nguồn mở)"
 x:
   source: https://github.com/slimtoolkit/slim
   eget: slimtoolkit/slim

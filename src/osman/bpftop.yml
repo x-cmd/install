@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: bpftop 提供运行 eBPF 程序的动态实时视图
   en: bpftop provides a dynamic real-time view of running eBPF programs
+  cs: bpftop poskytuje dynamický pohled v reálném čase na běžící programy eBPF
+  de: bpftop bietet eine dynamische Echtzeitansicht der laufenden eBPF-Programme
+  es: bpftop ofrece una vista dinámica en tiempo real de los programas eBPF en ejecución
+  fr: bpftop fournit une vue dynamique en temps réel des programmes eBPF en cours d'exécution
+  id: bpftop menyediakan tampilan real-time dinamis dari program eBPF yang berjalan
+  it: bpftop fornisce una vista dinamica in tempo reale dei programmi eBPF in esecuzione
+  ja: bpftop は実行中の eBPF プログラムを動的にリアルタイム表示します
+  ko: bpftop은 실행 중인 eBPF 프로그램을 동적으로 실시간으로 보여줍니다
+  pl: bpftop zapewnia dynamiczny widok w czasie rzeczywistym na uruchomione programy eBPF
+  pt: O bpftop oferece uma visão dinâmica em tempo real dos programas eBPF em execução
+  ro: bpftop oferă o privire dinamică în timp real asupra programelor eBPF în execuție
+  ru: bpftop предоставляет динамическое представление работающих программ eBPF в реальном времени
+  th: bpftop ให้มุมมองแบบไดนามิกแบบเรียลไทม์ของโปรแกรม eBPF ที่กำลังทำงาน
+  tr: bpftop, çalışan eBPF programları için dinamik bir gerçek zamanlı görünüm sunar
+  uk: bpftop надає динамічний вид у реальному часі на виконувані програми eBPF
+  vi: bpftop cung cấp chế độ xem động theo thời gian thực của các chương trình eBPF đang chạy
 x:
   source: https://github.com/Netflix/bpftop
 rule:

@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: MinIO 是一个高性能、兼容 S3 的对象存储
   en: MinIO is a high-performance, S3 compatible object store
+  cs: MinIO je vysoce výkonné úložiště objektů kompatibilní s S3
+  de: MinIO ist ein hochleistungsfähiger, S3-kompatibler Objektspeicher
+  es: MinIO es un almacén de objetos de alto rendimiento compatible con S3
+  fr: MinIO est un stockage d'objets performant compatible avec S3
+  id: MinIO adalah penyimpanan objek berkinerja tinggi yang kompatibel dengan S3
+  it: MinIO è un object store ad alte prestazioni compatibile con S3
+  ja: MinIO は S3 互換の高性能オブジェクトストレージです
+  ko: MinIO는 S3 호환 고성능 객체 스토리지입니다
+  pl: MinIO to wysokowydajności magazyn obiektów zgodny z S3
+  pt: O MinIO é um armazenamento de objetos de alto desempenho compatível com S3
+  ro: MinIO este un depozit de obiecte de înaltă performanță compatibil cu S3
+  ru: MinIO — высокопроизводительное объектное хранилище, совместимое с S3
+  th: MinIO คือที่เก็บข้อมูลอ็อบเจกต์ประสิทธิภาพสูงที่เข้ากันได้กับ S3
+  tr: MinIO, S3 uyumlu yüksek performanslı bir nesne deposudur
+  uk: MinIO — високопродуктивне об'єктне сховище, сумісне з S3
+  vi: MinIO là kho lưu trữ đối tượng hiệu năng cao tương thích với S3
 x:
   source: https://github.com/minio/minio
   brew: minio/stable/minio

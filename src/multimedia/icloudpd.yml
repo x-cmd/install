@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: iCloud Photos Downloader 是一个从 iCloud 下载照片的命令行工具
   en: iCloud Photos Downloader is a command-line tool to download photos from iCloud
+  cs: iCloud Photos Downloader je nástroj příkazové řádky pro stahování fotografií z iCloudu
+  de: iCloud Photos Downloader ist ein Kommandozeilenwerkzeug zum Herunterladen von Fotos aus iCloud
+  es: iCloud Photos Downloader es una herramienta de línea de comandos para descargar fotos de iCloud
+  fr: iCloud Photos Downloader est un outil en ligne de commande pour télécharger des photos depuis iCloud
+  id: iCloud Photos Downloader adalah alat baris perintah untuk mengunduh foto dari iCloud
+  it: iCloud Photos Downloader è uno strumento da riga di comando per scaricare foto da iCloud
+  ja: iCloud Photos Downloader は iCloud から写真をダウンロードするコマンドラインツールです
+  ko: iCloud Photos Downloader는 iCloud에서 사진을 다운로드하는 명령줄 도구입니다
+  pl: iCloud Photos Downloader to narzędzie wiersza polecenia do pobierania zdjęć z iCloud
+  pt: O iCloud Photos Downloader é uma ferramenta de linha de comando para baixar fotos do iCloud
+  ro: iCloud Photos Downloader este un instrument de linie de comandă pentru descărcarea fotografiilor din iCloud
+  ru: iCloud Photos Downloader — инструмент командной строки для загрузки фотографий из iCloud
+  th: iCloud Photos Downloader เป็นเครื่องมือบรรทัดคำสั่งสำหรับดาวน์โหลดรูปภาพจาก iCloud
+  tr: iCloud Photos Downloader, iCloud'dan foto indirmek için bir komut satırı aracıdır
+  uk: iCloud Photos Downloader — інструмент командного рядка для завантаження фотографій з iCloud
+  vi: iCloud Photos Downloader là công cụ dòng lệnh để tải ảnh từ iCloud
 x:
   source: https://github.com/icloud-photos-downloader/icloud_photos_downloader
   eget: icloud-photos-downloader/icloud_photos_downloader

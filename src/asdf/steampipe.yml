@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: SteamPipe 是直接从 API 和服务获取数据的 zero-ETL 解决方案
   en: Steampipe is the zero-ETL solution for getting data directly from APIs and services
+  cs: Steampipe je zero-ETL řešení pro získávání dat přímo z API a služeb
+  de: Steampipe ist die Zero-ETL-Lösung, um Daten direkt aus APIs und Diensten zu gewinnen
+  es: Steampipe es la solución zero-ETL para obtener datos directamente de APIs y servicios
+  fr: Steampipe est la solution zero-ETL pour obtenir des données directement depuis des API et des services
+  id: Steampipe adalah solusi zero-ETL untuk memperoleh data langsung dari API dan layanan
+  it: Steampipe è la soluzione zero-ETL per ottenere dati direttamente da API e servizi
+  ja: Steampipe は、API やサービスから直接データを取得するための zero-ETL ソリューションです
+  ko: Steampipe는 API와 서비스에서 직접 데이터를 가져오기 위한 zero-ETL 솔루션입니다
+  pl: Steampipe to rozwiązanie zero-ETL do pobierania danych bezpośrednio z API i usług
+  pt: Steampipe é a solução zero-ETL para obter dados diretamente de APIs e serviços
+  ro: Steampipe este soluția zero-ETL pentru obținerea datelor direct din API-uri și servicii
+  ru: Steampipe — решение zero-ETL для получения данных напрямую из API и сервисов
+  th: Steampipe คือโซลูชัน zero-ETL สำหรับดึงข้อมูลโดยตรงจาก API และบริการต่าง ๆ
+  tr: Steampipe, verileri doğrudan API'lerden ve servislerden almak için zero-ETL çözümüdür
+  uk: Steampipe — рішення zero-ETL для отримання даних безпосередньо з API та сервісів
+  vi: Steampipe là giải pháp zero-ETL để lấy dữ liệu trực tiếp từ API và các dịch vụ
 x:
   source: https://github.com/turbot/steampipe
   eget: turbot/steampipe

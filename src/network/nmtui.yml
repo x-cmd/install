@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/NetworkManager/NetworkManager
 desc:
   cn: NetworkManager 是标准的 Linux 网络配置工具套件。
   en: NetworkManager is the standard Linux network configuration tool suite.
+  cs: NetworkManager je standardní sada nástrojů pro konfiguraci sítě v Linuxu.
+  de: NetworkManager ist die Standard-Toolsuite zur Linux-Netzwerkkonfiguration.
+  es: NetworkManager es el conjunto de herramientas estándar de configuración de red en Linux.
+  fr: NetworkManager est la suite d'outils standard de configuration réseau pour Linux.
+  id: NetworkManager adalah rangkaian alat konfigurasi jaringan Linux standar.
+  it: NetworkManager è la suite di strumenti standard per la configurazione di rete su Linux.
+  ja: NetworkManager は Linux の標準的なネットワーク設定ツール群です。
+  ko: NetworkManager는 Linux의 표준 네트워크 구성 도구 모음입니다.
+  pl: NetworkManager to standardowy zestaw narzędzi do konfiguracji sieci w systemie Linux.
+  pt: O NetworkManager é o conjunto padrão de ferramentas de configuração de rede no Linux.
+  ro: NetworkManager este suita standard de instrumente pentru configurarea rețelei în Linux.
+  ru: NetworkManager — стандартный набор инструментов для настройки сети в Linux.
+  th: NetworkManager คือชุดเครื่องมือกำหนดค่าเครือข่ายมาตรฐานของ Linux
+  tr: NetworkManager, Linux için standart ağ yapılandırma araç setidir.
+  uk: NetworkManager — стандартний набір інструментів для налаштування мережі в Linux.
+  vi: NetworkManager là bộ công cụ cấu hình mạng tiêu chuẩn của Linux.
 rule:
   debian/apt:
     cmd: sudo apt-get install network-manager

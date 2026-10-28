@@ -4,6 +4,22 @@ license: GPL-3.0-or-later
 desc:
   en: justray is a modern VPN client that lives in your terminal — TUI front-end plus a headless daemon with embedded sing-box core, supporting VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 and more.
   cn: justray 是住在终端里的现代 VPN 客户端：TUI 前端 + 后台守护进程（内置 sing-box 内核），支持 VMess、VLESS、Trojan、WireGuard、Hysteria 1/2、TUIC、Shadowsocks、SOCKS5 等协议。
+  cs: justray je moderní klient VPN, který žije ve vašem terminálu — TUI frontend plus headless daemon s vestavěným jádrem sing-box, podporující VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 a další.
+  de: justray ist ein moderner VPN-Client für dein Terminal — TUI-Frontend plus headless-Daemon mit eingebettetem sing-box-Kern, der VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 und mehr unterstützt.
+  es: "justray es un cliente VPN moderno que vive en tu terminal: frontend TUI más demonio headless con núcleo sing-box integrado, compatible con VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 y más."
+  fr: justray est un client VPN moderne qui vit dans votre terminal — interface TUI plus démon sans interface avec le noyau sing-box intégré, prenant en charge VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 et plus encore.
+  id: justray adalah klien VPN modern yang tinggal di terminal Anda — frontend TUI plus daemon headless dengan inti sing-box tertanam, mendukung VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5, dan banyak lagi.
+  it: justray è un client VPN moderno che vive nel tuo terminale — frontend TUI più daemon headless con core sing-box integrato, con supporto per VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 e altro.
+  ja: justrayはターミナルで動く現代のVPNクライアントです。TUIフロントエンドと組み込みのsing-boxコアを持つヘッドレスデーモンで構成され、VMess、VLESS、Trojan、WireGuard、Hysteria 1/2、TUIC、Shadowsocks、SOCKS5などに対応しています。
+  ko: justray는 터미널에서 동작하는 현대적인 VPN 클라이언트입니다. TUI 프런트엔드와 내장 sing-box 코어를 가진 헤드리스 데몬으로 구성되며 VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 등을 지원합니다.
+  pl: justray to nowoczesny klient VPN działający w terminalu — frontend TUI plus headlessowy demon z wbudowanym rdzeniem sing-box, obsługujący VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 i więcej.
+  pt: justray é um cliente VPN moderno que vive no seu terminal — front-end TUI mais daemon headless com núcleo sing-box embutido, com suporte a VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 e mais.
+  ro: justray este un client VPN modern care stă în terminalul tău — frontend TUI plus daemon headless cu nucleu sing-box încorporat, care acceptă VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 și altele.
+  ru: "justray — современный VPN-клиент, живущий в вашем терминале: TUI-фронтенд плюс headless-демон со встроенным ядром sing-box, поддерживающий VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 и другие."
+  th: justray คือไคลเอนต์ VPN สมัยใหม่ที่ทำงานอยู่ในเทอร์มินัลของคุณ — ส่วนหน้าแบบ TUI พร้อมดีมอนแบบ headless ที่มีแกน sing-box ฝังมาภายใน รองรับ VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 และอื่น ๆ
+  tr: justray, terminalinizde yaşayan modern bir VPN istemcisidir — gömülü sing-box çekirdeğine sahip headless daemon ile TUI ön uçtan oluşur; VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 ve daha fazlasını destekler.
+  uk: "justray — сучасний VPN-клієнт, що живе у вашому терміналі: TUI-фронтенд плюс headless-демон із вбудованим ядром sing-box, який підтримує VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 та інші."
+  vi: justray là client VPN hiện đại sống trong terminal của bạn — frontend TUI kèm daemon headless có nhúng lõi sing-box, hỗ trợ VMess, VLESS, Trojan, WireGuard, Hysteria 1/2, TUIC, Shadowsocks, SOCKS5 và nhiều hơn nữa.
 x:
   source: https://github.com/luynrs/justray
   eget: luynrs/justray

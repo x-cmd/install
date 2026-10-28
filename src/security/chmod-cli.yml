@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 TUI 和 CLI 工具，用于通过图形终端界面简化 chmod 命令的创建
   en: A TUI and CLI tool that eases the creation of chmod commands through a graphical terminal interface
+  cs: Nástroj TUI a CLI, který usnadňuje sestavování příkazů chmod prostřednictvím grafického rozhraní terminálu
+  de: Ein TUI- und CLI-Tool, das das Erstellen von chmod-Befehlen über eine grafische Terminaloberfläche erleichtert
+  es: Una herramienta TUI y CLI que facilita la creación de comandos chmod a través de una interfaz gráfica de terminal
+  fr: Un outil TUI et CLI qui facilite la création de commandes chmod via une interface graphique de terminal
+  id: Alat TUI dan CLI yang menyederhanakan pembuatan perintah chmod melalui antarmuka terminal grafis
+  it: Uno strumento TUI e CLI che semplifica la creazione di comandi chmod tramite un'interfaccia grafica da terminale
+  ja: グラフィカルなターミナルインターフェースを通じて chmod コマンドの作成を簡略化する TUI および CLI ツールです
+  ko: 그래픽 터미널 인터페이스를 통해 chmod 명령 생성을 쉽게 만들어 주는 TUI 및 CLI 도구입니다
+  pl: Narzędzie TUI i CLI ułatwiające tworzenie poleceń chmod za pomocą graficznego interfejsu terminala
+  pt: Uma ferramenta TUI e CLI que facilita a criação de comandos chmod por meio de uma interface gráfica de terminal
+  ro: Un instrument TUI și CLI care facilitează crearea comenzilor chmod printr-o interfață grafică de terminal
+  ru: TUI- и CLI-инструмент, упрощающий создание команд chmod через графический интерфейс терминала
+  th: เครื่องมือ TUI และ CLI ที่ช่วยให้สร้างคำสั่ง chmod ได้ง่ายขึ้นผ่านอินเทอร์เฟซเทอร์มินัลแบบกราฟิก
+  tr: Grafik terminal arayüzü üzerinden chmod komutları oluşturmayı kolaylaştıran bir TUI ve CLI aracı
+  uk: TUI та CLI-інструмент, що спрощує створення команд chmod через графічний інтерфейс термінала
+  vi: Công cụ TUI và CLI giúp đơn giản hóa việc tạo lệnh chmod thông qua giao diện terminal đồ họa
 x:
   source: https://github.com/Mayowa-Ojo/chmod-cli
   brew: Mayowa-Ojo/tap/chmod-cli

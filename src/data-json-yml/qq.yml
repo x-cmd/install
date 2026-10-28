@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: jq，但具有许多互操作配置格式转换和交互式查询。
   en: jq, but with many interoperable configuration format transcodings and interactive querying.
+  cs: jq, ale s mnoha interoperabilními převody konfiguračních formátů a interaktivním dotazováním.
+  de: jq, aber mit vielen interoperablen Konfigurationsformat-Umwandlungen und interaktiven Abfragen.
+  es: jq, pero con muchas transcodificaciones interoperables de formatos de configuración y consultas interactivas.
+  fr: jq, mais avec de nombreuses transcodifications de formats de configuration interopérables et des requêtes interactives.
+  id: jq, tetapi dengan banyak transcoding format konfigurasi yang interoperabel dan kueri interaktif.
+  it: jq, ma con molte transcodifiche interoperabili di formati di configurazione e query interattive.
+  ja: jq ですが、相互運用可能な設定形式の変換と対話的クエリを多数備えています。
+  ko: jq이지만, 상호 운용 가능한 설정 형식 transcoding과 대화형 쿼리를 많이 제공합니다.
+  pl: jq, ale z wieloma interoperacyjnymi konwersjami formatów konfiguracji i interaktywnymi zapytaniami.
+  pt: jq, mas com muitas transcodificações interoperáveis de formatos de configuração e consultas interativas.
+  ro: jq, dar cu multe transcodificări interoperabile ale formatelor de configurație și interogări interactive.
+  ru: jq, но с множеством совместимых преобразований форматов конфигурации и интерактивными запросами.
+  th: jq แต่มีการแปลงรูปแบบการตั้งค่าที่ทำงานร่วมกันได้หลายแบบและการสืบค้นแบบโต้ตอบ
+  tr: jq, ancak çok sayıda birliktelik uyumlu yapılandırma biçimi dönüşümü ve etkileşimli sorgulama içerir.
+  uk: jq, але з багатьма сумісними перетвореннями форматів конфігурації та інтерактивними запитами.
+  vi: jq, nhưng có nhiều khả năng chuyển đổi định dạng cấu hình tương thích và truy vấn tương tác.
 x:
   source: https://github.com/JFryy/qq
   eget: JFryy/qq

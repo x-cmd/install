@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 用 React 组件、CSS、Canvas、SVG、WebGL 等网页技术以编程方式创建视频。
   en: Create MP4 videos programmatically using React components, CSS, and other web technologies.
+  cs: Programově vytvářejte MP4 videa pomocí React komponent, CSS a dalších webových technologií.
+  de: Erstelle MP4-Videos programmatisch mit React-Komponenten, CSS und anderen Webtechnologien.
+  es: Crea vídeos MP4 de forma programática usando componentes de React, CSS y otras tecnologías web.
+  fr: Créez des vidéos MP4 par programmation à l'aide de composants React, CSS et d'autres technologies web.
+  id: Buat video MP4 secara terprogram menggunakan komponen React, CSS, dan teknologi web lainnya.
+  it: Crea video MP4 in modo programmatico usando componenti React, CSS e altre tecnologie web.
+  ja: React コンポーネント、CSS、その他のウェブ技術を使って、MP4 動画をプログラムで作成します。
+  ko: React 컴포넌트, CSS 및 기타 웹 기술을 사용해 MP4 비디오를 프로그래밍 방식으로 만드세요.
+  pl: Twórz filmy MP4 programistycznie za pomocą komponentów React, CSS i innych technologii webowych.
+  pt: Crie vídeos MP4 programaticamente usando componentes React, CSS e outras tecnologias web.
+  ro: Creează videoclipuri MP4 programatic folosind componente React, CSS și alte tehnologii web.
+  ru: Создавайте MP4-видео программно с помощью React-компонентов, CSS и других веб-технологий.
+  th: สร้างวิดีโอ MP4 แบบเขียนโค้ดด้วย React components, CSS และเทคโนโลยีเว็บอื่น ๆ
+  tr: React bileşenleri, CSS ve diğer web teknolojileriyle programatik olarak MP4 videoları oluşturun.
+  uk: Створюйте MP4-відео програмно за допомогою React-компонентів, CSS та інших вебтехнологій.
+  vi: Tạo video MP4 theo lập trình bằng các thành phần React, CSS và các công nghệ web khác.
 x:
   source: https://github.com/remotion-dev/remotion
   npm: remotion

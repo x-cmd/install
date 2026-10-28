@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: AI CLI（Codex、Claude Code）多账号管理器
   en: Multi-account manager for AI CLIs (Codex, Claude Code)
+  cs: Správce více účtů pro AI CLI (Codex, Claude Code)
+  de: Multi-Account-Manager für KI-CLIs (Codex, Claude Code)
+  es: Gestor de múltiples cuentas para CLI de IA (Codex, Claude Code)
+  fr: Gestionnaire multi-comptes pour les CLI IA (Codex, Claude Code)
+  id: Pengelola banyak akun untuk CLI AI (Codex, Claude Code)
+  it: Gestore multi-account per CLI IA (Codex, Claude Code)
+  ja: AI CLI（Codex、Claude Code）用の複数アカウントマネージャー
+  ko: AI CLI(Codex, Claude Code)용 다중 계정 관리자
+  pl: Menedżer wielu kont dla CLI AI (Codex, Claude Code)
+  pt: Gerenciador de múltiplas contas para CLIs de IA (Codex, Claude Code)
+  ro: Manager multi-conturi pentru CLI-uri AI (Codex, Claude Code)
+  ru: Менеджер нескольких аккаунтов для ИИ-CLI (Codex, Claude Code)
+  th: ตัวจัดการหลายบัญชีสำหรับ AI CLI (Codex, Claude Code)
+  tr: Yapay zekâ CLI'ları (Codex, Claude Code) için çoklu hesap yöneticisi
+  uk: Менеджер кількох акаунтів для ІІ-CLI (Codex, Claude Code)
+  vi: Trình quản lý nhiều tài khoản cho các AI CLI (Codex, Claude Code)
 x:
   source: https://github.com/baedonguri/aiwitch
   eget: baedonguri/aiwitch

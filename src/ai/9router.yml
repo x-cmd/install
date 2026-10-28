@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 本地 AI 路由网关，聚合 40+ Provider、100+ 模型，自动 fallback、RTK 压缩省 20-40% token，统一接入 Claude Code / Codex / Cursor 等编程工具。
   en: Local AI router that aggregates 40+ providers and 100+ models with auto-fallback and RTK token compression (20-40% savings), unifying Claude Code / Codex / Cursor and other coding tools.
+  cs: Lokální AI router, který agreguje 40+ poskytovatelů a 100+ modelů s automatickým přepínáním a kompresí tokenů RTK (úspora 20-40%), a sjednocuje Claude Code / Codex / Cursor a další programovací nástroje.
+  de: Lokaler AI-Router, der 40+ Anbieter und 100+ Modelle mit automatischem Fallback und RTK-Tokenkomprimierung (20-40 % Einsparung) bündelt und Claude Code / Codex / Cursor sowie weitere Coding-Tools vereinheitlicht.
+  es: Router de IA local que agrega más de 40 proveedores y más de 100 modelos con failover automático y compresión de tokens RTK (20-40 % de ahorro), unificando Claude Code / Codex / Cursor y otras herramientas de programación.
+  fr: Routeur IA local qui agrège plus de 40 fournisseurs et plus de 100 modèles avec basculement automatique et compression de tokens RTK (20 à 40 % d'économies), unifiant Claude Code / Codex / Cursor et d'autres outils de développement.
+  id: Router AI lokal yang menggabungkan 40+ penyedia dan 100+ model dengan fallback otomatis dan kompresi token RTK (hemat 20-40%), menyatukan Claude Code / Codex / Cursor dan alat coding lainnya.
+  it: Router AI locale che aggrega oltre 40 provider e oltre 100 modelli con fallback automatico e compressione dei token RTK (risparmio 20-40%), unificando Claude Code / Codex / Cursor e altri strumenti di programmazione.
+  ja: 40以上のプロバイダーと100以上のモデルを集約し、自動フォールバックとRTKトークン圧縮（20〜40%節約）を備えたローカルAIルーター。Claude Code / Codex / Cursor などのコーディングツールを統一します。
+  ko: 40개 이상의 제공업체와 100개 이상의 모델을 집계하고 자동 폴백과 RTK 토큰 압축(20~40% 절감)을 제공하는 로컬 AI 라우터로, Claude Code / Codex / Cursor 등 코딩 도구를 하나로 통합합니다.
+  pl: Lokalny router AI, który agreguje ponad 40 dostawców i ponad 100 modeli z automatycznym przełączaniem awaryjnym i kompresją tokenów RTK (oszczędność 20-40%), ujednolicając Claude Code / Codex / Cursor i inne narzędzia programistyczne.
+  pt: Roteador de IA local que agrega mais de 40 provedores e mais de 100 modelos com fallback automático e compressão de tokens RTK (economia de 20-40%), unificando Claude Code / Codex / Cursor e outras ferramentas de programação.
+  ro: Router AI local care agregă peste 40 de furnizori și peste 100 de modele cu failover automat și compresie de tokenuri RTK (economii de 20-40%), unificând Claude Code / Codex / Cursor și alte unelte de programare.
+  ru: Локальный ИИ-роутер, агрегирующий более 40 провайдеров и более 100 моделей с автоматическим резервным переключением и сжатием токенов RTK (экономия 20-40%), объединяющий Claude Code / Codex / Cursor и другие инструменты разработки.
+  th: เราเตอร์ AI ในเครื่องที่รวมผู้ให้บริการกว่า 40 รายและโมเดลกว่า 100 รุ่น พร้อมการสลับอัตโนมัติและการบีบอัดโทเคน RTK (ประหยัด 20-40%) รวม Claude Code / Codex / Cursor และเครื่องมือเขียนโค้ดอื่น ๆ ไว้ด้วยกัน
+  tr: 40'tan fazla sağlayıcıyı ve 100'den fazla modeli otomatik yedek geçiş ve RTK token sıkıştırmasıyla (%20-40 tasarruf) bir araya getiren, Claude Code / Codex / Cursor ve diğer kodlama araçlarını birleştiren yerel AI yönlendiricisi.
+  uk: Локальний AI-маршрутизатор, який агрегує понад 40 провайдерів і понад 100 моделей з автоматичним резервним перемиканням та стисненням токенів RTK (економія 20-40%), об'єднуючи Claude Code / Codex / Cursor та інші інструменти розробки.
+  vi: Bộ định tuyến AI cục bộ tổng hợp hơn 40 nhà cung cấp và hơn 100 mô hình với cơ chế chuyển đổi dự phòng tự động và nén token RTK (tiết kiệm 20-40%), hợp nhất Claude Code / Codex / Cursor và các công cụ lập trình khác.
 x:
   source: https://github.com/decolua/9router
   npm: 9router

@@ -3,6 +3,22 @@ homepage: https://cygwin.com/git/cygwin-apps.git
 desc:
   cn: Cygwin 是 GNU 和开源工具的大型集合，它们提供类似于 Windows 上的 Linux 发行版的功能
   en: Cygwin is a large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows
+  cs: Cygwin je rozsáhlá sbírka nástrojů GNU a open source, které poskytují funkčnost podobnou linuxové distribuci na Windows
+  de: Cygwin ist eine große Sammlung von GNU- und Open-Source-Werkzeugen, die ähnliche Funktionen wie eine Linux-Distribution unter Windows bieten
+  es: Cygwin es una gran colección de herramientas GNU y de código abierto que ofrecen funcionalidades similares a las de una distribución de Linux en Windows
+  fr: Cygwin est une vaste collection d'outils GNU et Open Source qui offrent des fonctionnalités similaires à celles d'une distribution Linux sous Windows
+  id: Cygwin adalah kumpulan besar alat GNU dan sumber terbuka yang menyediakan fungsionalitas mirip distribusi Linux di Windows
+  it: Cygwin è un'ampia raccolta di strumenti GNU e open source che forniscono funzionalità simili a quelle di una distribuzione Linux su Windows
+  ja: Cygwin は GNU とオープンソースのツールの大規模な集合で、Windows 上で Linux ディストリビューションに似た機能を提供します
+  ko: Cygwin은 Windows에서 리눅스 배포판과 유사한 기능을 제공하는 GNU 및 오픈 소스 도구들의 대규모 모음입니다
+  pl: Cygwin to obszerny zestaw narzędzi GNU i open source zapewniający funkcjonalność podobną do dystrybucji Linuksa w Windows
+  pt: Cygwin é uma grande coleção de ferramentas GNU e de código aberto que fornecem funcionalidades similares às de uma distribuição Linux no Windows
+  ro: Cygwin este o colecție mare de instrumente GNU și open source care oferă funcționalități similare unei distribuții Linux pe Windows
+  ru: Cygwin — это большой набор инструментов GNU и с открытым исходным кодом, предоставляющих функциональность, similarную дистрибутиву Linux в Windows
+  th: Cygwin คือชุดเครื่องมือขนาดใหญ่ของ GNU และโอเพนซอร์สที่ให้ความสามารถคล้ายกับการแจกแจง Linux บน Windows
+  tr: Cygwin, Windows üzerinde bir Linux dağıtımına benzer işlevler sağlayan büyük bir GNU ve açık kaynak araç koleksiyonudur
+  uk: Cygwin — це велика колекція інструментів GNU та з відкритим кодом, що надають функціонал, подібний до дистрибутива Linux у Windows
+  vi: Cygwin là bộ sưu tập lớn các công cụ GNU và mã nguồn mở cung cấp chức năng tương tự một bản phân phối Linux trên Windows
 rule:
   win/powershell:
     cmd: x pwsh Invoke-WebRequest -Uri https://www.cygwin.com/setup-x86_64.exe -OutFile setup-x86_64.exe

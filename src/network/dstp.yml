@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 针对您的站点运行常见的网络测试
   en: run common networking tests against your site
+  cs: spouští běžné testy sítě proti vašemu webu
+  de: führt gängige Netzwerktests gegen Ihre Website aus
+  es: ejecuta pruebas de red comunes contra tu sitio web
+  fr: exécute des tests réseau courants sur votre site
+  id: menjalankan uji jaringan umum terhadap situs Anda
+  it: esegue i test di rete più comuni sul tuo sito
+  ja: 自分のサイトに対して一般的なネットワークテストを実行します
+  ko: 웹사이트에 대해 일반적인 네트워크 테스트를 실행합니다
+  pl: uruchamia popularne testy sieciowe wobec Twojej witryny
+  pt: executa testes de rede comuns contra o seu site
+  ro: rulează teste de rețea uzuale împotriva site-ului dumneavoastră
+  ru: запускает распространённые сетевые тесты для вашего сайта
+  th: รันการทดสอบเครือข่ายทั่วไปกับเว็บไซต์ของคุณ
+  tr: sitenize karşı yaygın ağ testleri çalıştırır
+  uk: запускає поширені мережеві тести для вашого сайту
+  vi: chạy các bài kiểm tra mạng thông thường đối với trang web của bạn
 x:
   source: https://github.com/ycd/dstp
   eget: ycd/dstp

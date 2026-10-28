@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Linux 内核管理器和活动监视器。
   en: Linux Kernel Manager and Activity Monitor.
+  cs: Správce jádra Linux a monitor aktivity.
+  de: Linux-Kernel-Manager und Aktivitätsmonitor.
+  es: Gestor del kernel de Linux y monitor de actividad.
+  fr: Gestionnaire du noyau Linux et moniteur d'activité.
+  id: Manajer Kernel Linux dan Pemantau Aktivitas.
+  it: Gestore del kernel Linux e monitor di attività.
+  ja: Linux カーネルマネージャー兼アクティビティモニター。
+  ko: Linux 커널 관리자이자 활동 모니터입니다.
+  pl: Menedżer jądra Linux i monitor aktywności.
+  pt: Gerenciador de kernel Linux e monitor de atividade.
+  ro: Manager de kernel Linux și monitor de activitate.
+  ru: Менеджер ядра Linux и монитор активности.
+  th: ตัวจัดการเคอร์เนล Linux และตัวตรวจสอบกิจกรรม
+  tr: Linux çekirdek yöneticisi ve etkinlik izleyici.
+  uk: Менеджер ядра Linux і монітор активності.
+  vi: Trình quản lý kernel Linux và theo dõi hoạt động.
 x:
   source: https://github.com/orhun/kmon
   pacman: kmon

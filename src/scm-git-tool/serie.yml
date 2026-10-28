@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于在终端中渲染丰富的 git 提交图的命令行工具
   en: A command line tool to render rich git commit graphs in your terminal
+  cs: Nástroj příkazové řádky pro vykreslování bohatých grafů gitových commitů v terminálu
+  de: Ein Kommandozeilenwerkzeug zum Darstellen von Git-Commit-Grafen im Terminal
+  es: Una herramienta de línea de comandos para renderizar gráficos de commits de git en tu terminal
+  fr: Un outil en ligne de commande pour afficher de riches graphes de commits git dans votre terminal
+  id: Alat baris perintah untuk merender grafik commit git yang kaya di terminal
+  it: Uno strumento da riga di comando per visualizzare grafici dettagliati dei commit git nel terminale
+  ja: ターミナルで豊かなgitコミットグラフを描画するコマンドラインツール
+  ko: 터미널에서 풍부한 git 커밋 그래프를 렌더링하는 명령줄 도구
+  pl: Narzędzie wiersza poleceń do rysowania rozbudowanych grafów commitów git w terminalu
+  pt: Uma ferramenta de linha de comando para renderizar gráficos de commits do git no terminal
+  ro: Un instrument de linie de comandă pentru randarea unor grafuri bogate de commit-uri git în terminal
+  ru: Консольный инструмент для отрисовки наглядных графов коммитов git в терминале
+  th: เครื่องมือบรรทัดคำสั่งสำหรับเรนเดอร์กราฟคอมมิตของ git ที่สวยงามในเทอร์มินัล
+  tr: Terminalde zengin git commit grafikleri çizmek için bir komut satırı aracı
+  uk: Інструмент командного рядка для відображення наочних графів комітів git у терміналі
+  vi: Công cụ dòng lệnh để vẽ các biểu đồ commit git phong phú trong terminal
 x:
   source: https://github.com/lusingander/serie
   eget: lusingander/serie

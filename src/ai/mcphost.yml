@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 CLI 主机应用程序，支持大型语言模型 (LLM) 通过模型上下文协议 (MCP) 与外部工具交互。
   en: A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+  cs: CLI hostovací aplikace, která umožňuje velkým jazykovým modelům (LLM) interagovat s externími nástroji prostřednictvím Model Context Protocol (MCP).
+  de: Eine CLI-Host-Anwendung, die es Large Language Models (LLMs) ermöglicht, über das Model Context Protocol (MCP) mit externen Tools zu interagieren.
+  es: Una aplicación host de CLI que permite a los modelos de lenguaje grandes (LLM) interactuar con herramientas externas mediante el Model Context Protocol (MCP).
+  fr: Une application hôte CLI qui permet aux grands modèles de langage (LLM) d'interagir avec des outils externes via le Model Context Protocol (MCP).
+  id: Aplikasi host CLI yang memungkinkan Model Bahasa Besar (LLM) berinteraksi dengan alat eksternal melalui Model Context Protocol (MCP).
+  it: Un'applicazione host CLI che consente ai Large Language Model (LLM) di interagire con strumenti esterni tramite il Model Context Protocol (MCP).
+  ja: CLI ホストアプリケーションで、Model Context Protocol (MCP) を通じて Large Language Model (LLM) が外部ツールとやり取りできるようにします。
+  ko: CLI 호스트 애플리케이션으로, Large Language Model (LLM)이 Model Context Protocol (MCP)를 통해 외부 도구와 상호작용할 수 있게 합니다.
+  pl: Aplikacja hosta CLI, która umożliwia dużym modelom językowym (LLM) interakcję z narzędziami zewnętrznymi za pośrednictwem Model Context Protocol (MCP).
+  pt: Um aplicativo host de CLI que permite que grandes modelos de linguagem (LLMs) interajam com ferramentas externas por meio do Model Context Protocol (MCP).
+  ro: O aplicație gazdă CLI care permite modelelor de limbaj mari (LLM) să interacționeze cu unelte externe prin Model Context Protocol (MCP).
+  ru: CLI-приложение-хост, позволяющее большим языковым моделям (LLM) взаимодействовать с внешними инструментами через Model Context Protocol (MCP).
+  th: แอปพลิเคชันโฮสต์ CLI ที่ช่วยให้โมเดลภาษาขนาดใหญ่ (LLM) โต้ตอบกับเครื่องมือภายนอกผ่าน Model Context Protocol (MCP)
+  tr: Büyük Dil Modellerinin (LLM) Model Context Protocol (MCP) üzerinden harici araçlarla etkileşim kurmasını sağlayan bir CLI barındırma uygulaması.
+  uk: CLI-застосунок-хост, який дозволяє великим мовним моделям (LLM) взаємодіяти із зовнішніми інструментами через Model Context Protocol (MCP).
+  vi: Ứng dụng máy chủ CLI cho phép các mô hình ngôn ngữ lớn (LLM) tương tác với công cụ bên ngoài qua Model Context Protocol (MCP).
 x:
   source: https://github.com/mark3labs/mcphost
   eget: mark3labs/mcphost

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于收集 Web 上文本的 Python 包和命令行工具
   en: A Python package & command-line tool to gather text on the Web
+  cs: Python balíček a nástroj příkazové řádky pro sběr textu na webu
+  de: Python-Paket und Kommandozeilen-Tool zum Extrahieren von Texten aus dem Web
+  es: Paquete de Python y herramienta de línea de comandos para recopilar texto en la web
+  fr: Paquet Python et outil en ligne de commande pour extraire du texte du Web
+  id: Paket Python dan alat baris perintah untuk mengumpulkan teks di web
+  it: Pacchetto Python e strumento da riga di comando per raccogliere testi sul web
+  ja: Web上のテキストを収集する Python パッケージとコマンドラインツール
+  ko: 웹에서 텍스트를 수집하는 Python 패키지 및 명령줄 도구
+  pl: Pakiet Python i narzędzie wiersza poleceń do zbierania tekstu w sieci
+  pt: Pacote Python e ferramenta de linha de comando para coletar texto na web
+  ro: Pachet Python și instrument de linie de comandă pentru colectarea textului din web
+  ru: Python-пакет и утилита командной строки для сбора текста в интернете
+  th: แพ็กเกจ Python และเครื่องมือบรรทัดคำสั่งสำหรับเก็บข้อความบนเว็บ
+  tr: Web'den metin toplamak için Python paketi ve komut satırı aracı
+  uk: Python-пакет і утиліта командного рядка для збору тексту в інтернеті
+  vi: Gói Python và công cụ dòng lệnh để thu thập văn bản trên web
 x:
   source: https://github.com/adbar/trafilatura
   brew: trafilatura

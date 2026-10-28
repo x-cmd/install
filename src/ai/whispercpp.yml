@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: OpenAI 的 Whisper 模型在 C/C++ 中的移植
   en: Port of OpenAI's Whisper model in C/C++
+  cs: Port modelu Whisper od OpenAI do C/C++
+  de: Portierung des Whisper-Modells von OpenAI nach C/C++
+  es: Port del modelo Whisper de OpenAI a C/C++
+  fr: Portage du modèle Whisper d'OpenAI en C/C++
+  id: Port model Whisper dari OpenAI ke C/C++
+  it: Porting del modello Whisper di OpenAI in C/C++
+  ja: OpenAI の Whisper モデルを C/C++ に移植したもの
+  ko: OpenAI의 Whisper 모델을 C/C++로 포팅한 것
+  pl: Port modelu Whisper firmy OpenAI do C/C++
+  pt: Porto do modelo Whisper da OpenAI para C/C++
+  ro: Portarea modelului Whisper de la OpenAI în C/C++
+  ru: Порт модели Whisper от OpenAI на C/C++
+  th: การพอร์ตโมเดล Whisper ของ OpenAI ไปยัง C/C++
+  tr: OpenAI'ın Whisper modelinin C/C++ portu
+  uk: Порт моделі Whisper від OpenAI на C/C++
+  vi: Bản chuyển đổi mô hình Whisper của OpenAI sang C/C++
 x:
   source: https://github.com/ggerganov/whisper.cpp
   brew: whisper-cpp

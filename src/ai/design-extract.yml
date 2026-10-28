@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 从在线网站提取完整设计语言，生成多平台代码与设计令牌，并审计系统一致性
   en: Extracts comprehensive design language from live websites, generating multi-platform code, design tokens, and auditing system consistency.
+  cs: Extrahuje komplexní designový jazyk z živých webových stránek, generuje multiplatformní kód a design tokeny a audituje konzistenci systému.
+  de: Extrahiert umfassende Design-Sprache aus Live-Websites, erzeugt plattformübergreifenden Code und Design-Tokens und prüft die Systemkonsistenz.
+  es: Extrae un lenguaje de diseño completo de sitios web en vivo, genera código multiplataforma, tokens de diseño y audita la coherencia del sistema.
+  fr: Extrait un langage de design complet à partir de sites web en direct, génère du code multiplateforme et des jetons de design, et audite la cohérence du système.
+  id: Mengekstrak bahasa desain yang komprehensif dari situs web langsung, menghasilkan kode multiplatform, design token, dan mengaudit konsistensi sistem.
+  it: Estrae un linguaggio di design completo dai siti web live, genera codice multipiattaforma e design token e verifica la coerenza del sistema.
+  ja: 稼働中のウェブサイトからデザイン言語を抽出し、マルチプラットフォームのコードと Design Token を生成し、システムの一貫性を監査します。
+  ko: 실제 웹사이트에서 포괄적인 디자인 언어를 추출하고 멀티플랫폼 코드와 디자인 토큰을 생성하며 시스템 일관성을 감사합니다.
+  pl: Wyodrębnia kompleksowy język projektowania z działających stron internetowych, generuje kod wieloplatformowy i tokeny designu oraz audytuje spójność systemu.
+  pt: Extrai uma linguagem de design abrangente de sites ao vivo, gerando código multiplataforma, tokens de design e auditando a consistência do sistema.
+  ro: Extrage un limbaj de design cuprinzător de pe site-uri web live, generează cod multiplatformă și tokenuri de design și auditează consistența sistemului.
+  ru: Извлекает полноценный дизайн-язык с работающих веб-сайтов, генерирует мультиплатформенный код и дизайн-токены, а также проверяет согласованность системы.
+  th: สกัดภาษาการออกแบบเชิงรวบรอมจากเว็บไซต์ที่ใช้งานจริง สร้างโค้ดหลายแพลตฟอร์มและ design token พร้อมตรวจสอบความสอดคล้องของระบบ
+  tr: Canlı web sitelerinden kapsamlı tasarım dili çıkarır, çoklu platform kodu ve design token üretir ve sistem tutarlılığını denetler.
+  uk: Витягує повноцінну дизайн-мову з робочих вебсайтів, генерує мультиплатформенний код і дизайн-токени, а також перевіряє узгодженість системи.
+  vi: Trích xuất ngôn ngữ thiết kế toàn diện từ các trang web đang hoạt động, tạo mã đa nền tảng, design token và kiểm tra tính nhất quán của hệ thống.
 x:
   source: https://github.com/Manavarya09/design-extract
   eget: Manavarya09/design-extract

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: WhatsApp 的 MCP 服务器
   en: WhatsApp MCP server
+  cs: MCP server pro WhatsApp
+  de: WhatsApp-MCP-Server
+  es: Servidor MCP de WhatsApp
+  fr: Serveur MCP pour WhatsApp
+  id: Server MCP untuk WhatsApp
+  it: Server MCP per WhatsApp
+  ja: WhatsApp 用 MCP サーバー
+  ko: WhatsApp MCP 서버
+  pl: Serwer MCP dla WhatsApp
+  pt: Servidor MCP do WhatsApp
+  ro: Server MCP pentru WhatsApp
+  ru: MCP-сервер для WhatsApp
+  th: เซิร์ฟเวอร์ MCP สำหรับ WhatsApp
+  tr: WhatsApp için MCP sunucusu
+  uk: MCP-сервер для WhatsApp
+  vi: Máy chủ MCP cho WhatsApp
 x:
   source: https://github.com/lharries/whatsapp-mcp
   eget: lharries/whatsapp-mcp

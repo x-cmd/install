@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: LFTP is a sophisticated file transfer program supporting a number of network protocols (ftp, http, sftp, fish, torrent)
   cn: LFTP 是一个复杂的文件传输程序，支持许多网络协议(ftp、 http、 sftp、 fish、 torrent)
+  cs: LFTP je propracovaný program pro přenos souborů podporující řadu síťových protokolů (ftp, http, sftp, fish, torrent)
+  de: LFTP ist ein ausgefeiltes Dateiübertragungsprogramm, das mehrere Netzwerkprotokolle unterstützt (ftp, http, sftp, fish, torrent)
+  es: LFTP es un programa sofisticado de transferencia de archivos que admite varios protocolos de red (ftp, http, sftp, fish, torrent)
+  fr: LFTP est un programme de transfert de fichiers sophistiqué prenant en charge de nombreux protocoles réseau (ftp, http, sftp, fish, torrent)
+  id: LFTP adalah program transfer file yang sophisticated dan mendukung berbagai protokol jaringan (ftp, http, sftp, fish, torrent)
+  it: LFTP è un sofisticato programma di trasferimento file che supporta diversi protocolli di rete (ftp, http, sftp, fish, torrent)
+  ja: LFTP は複数のネットワークプロトコル (ftp、http、sftp、fish、torrent) に対応した高度なファイル転送プログラムです
+  ko: LFTP는 여러 네트워크 프로토콜(ftp, http, sftp, fish, torrent)을 지원하는 정교한 파일 전송 프로그램입니다
+  pl: LFTP to zaawansowany program do przesyłania plików obsługujący wiele protokołów sieciowych (ftp, http, sftp, fish, torrent)
+  pt: LFTP é um programa sofisticado de transferência de arquivos que oferece suporte a vários protocolos de rede (ftp, http, sftp, fish, torrent)
+  ro: LFTP este un program sofisticat de transfer de fișiere care acceptă mai multe protocoale de rețea (ftp, http, sftp, fish, torrent)
+  ru: LFTP — это продвинутая программа передачи файлов, поддерживающая ряд сетевых протоколов (ftp, http, sftp, fish, torrent)
+  th: LFTP เป็นโปรแกรมถ่ายโอนไฟล์ขั้นสูงที่รองรับโปรโตคอลเครือข่ายหลายแบบ (ftp, http, sftp, fish, torrent)
+  tr: LFTP, çeşitli ağ protokollerini (ftp, http, sftp, fish, torrent) destekleyen gelişmiş bir dosya aktarım programıdır.
+  uk: LFTP — це просунута програма передачі файлів, що підтримує низку мережевих протоколів (ftp, http, sftp, fish, torrent)
+  vi: LFTP là chương trình truyền tệp tinh vi hỗ trợ nhiều giao thức mạng (ftp, http, sftp, fish, torrent)
 x:
   source: https://github.com/lavv17/lftp
   eget: lavv17/lftp

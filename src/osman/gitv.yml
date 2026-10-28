@@ -4,6 +4,22 @@ license: 'Unlicense'
 desc:
   cn: 终端版 GitHub issues 查看器，可直接查看与管理 issues
   en: 'gitv is a terminal-based viewer for GitHub issues. It allows you to view and manage your GitHub issues directly from the terminal.'
+  cs: gitv je prohlížeč GitHub issues pro terminál. Umožňuje vám přímo z terminálu prohlížet a spravovat své GitHub issues.
+  de: gitv ist ein terminalbasierter Betrachter für GitHub Issues. Erlaubt Ihnen, Ihre GitHub Issues direkt im Terminal anzuzeigen und zu verwalten.
+  es: gitv es un visor de issues de GitHub basado en terminal. Te permite ver y gestionar tus issues de GitHub directamente desde la terminal.
+  fr: gitv est une visionneuse de tickets GitHub basée sur le terminal. Elle permet d'afficher et de gérer vos tickets GitHub directement depuis le terminal.
+  id: gitv adalah penampil isu GitHub berbasis terminal. Ini memungkinkan Anda melihat dan mengelola isu GitHub langsung dari terminal.
+  it: gitv è un visualizzatore di issue GitHub basato su terminale. Consente di visualizzare e gestire le issue GitHub direttamente dal terminale.
+  ja: gitv はターミナルベースの GitHub issues ビューアです。ターミナルから直接 GitHub issues を閲覧・管理できます。
+  ko: gitv는 터미널 기반 GitHub issues 뷰어입니다. 터미널에서 바로 GitHub issues를 보고 관리할 수 있습니다.
+  pl: gitv to przeglądarka zgłoszeń GitHub działająca w terminalu. Pozwala przeglądać i zarządzać zgłoszeniami GitHub bezpośrednio z terminala.
+  pt: gitv é um visualizador de issues do GitHub baseado em terminal. Permite ver e gerenciar suas issues do GitHub diretamente do terminal.
+  ro: gitv este un vizualizator de issue-uri GitHub bazat pe terminal. Vă permite să vizualizați și să vă gestionați issue-urile GitHub direct din terminal.
+  ru: gitv — терминальный просмотрщик GitHub issues. Он позволяет просматривать и управлять вашими GitHub issues прямо из терминала.
+  th: gitv คือโปรแกรมดู issue ของ GitHub บนเทอร์มินัล ช่วยให้คุณดูและจัดการ issue ของ GitHub ได้โดยตรงจากเทอร์มินัล
+  tr: gitv, terminal tabanlı bir GitHub issues görüntüleyicisidir. GitHub sorunlarınızı doğrudan terminalden görüntülemenize ve yönetmenize izin verir.
+  uk: gitv — термінальний переглядач GitHub issues. Він дозволяє переглядати та керувати вашими GitHub issues прямо з термінала.
+  vi: gitv là trình xem issue GitHub chạy trên terminal. Nó cho phép bạn xem và quản lý các issue GitHub trực tiếp từ terminal.
 x:
   source: https://github.com/JayanAXHF/gitv
   eget: JayanAXHF/gitv

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Liqo 是一个开源项目，支持动态和无缝的 Kubernetes 多集群拓扑，支持异构的内部、云和边缘基础设施
   en: Liqo is an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures
+  cs: Liqo je open-source projekt, který umožňuje dynamické a bezproblémové více-clusterové topologie Kubernetes a podporuje heterogenní on-premise, cloudová a edge infrastrukturu
+  de: Liqo ist ein Open-Source-Projekt, das dynamische und nahtlose Multi-Cluster-Topologien für Kubernetes ermöglicht und heterogene On-Premise-, Cloud- und Edge-Infrastrukturen unterstützt
+  es: Liqo es un proyecto de código abierto que habilita topologías multi-cluster de Kubernetes dinámicas y fluidas, compatibles con infraestructuras heterogéneas locales, en la nube y en el borde
+  fr: Liqo est un projet open source qui permet des topologies multicluster Kubernetes dynamiques et fluides, en chargeant des infrastructures hétérogènes sur site, dans le cloud et en périphérie
+  id: Liqo adalah proyek sumber terbuka yang memungkinkan topologi multi-cluster Kubernetes yang dinamis dan mulus, mendukung infrastruktur on-premise, cloud, dan edge yang heterogen
+  it: Liqo è un progetto open source che abilita topologie multi-cluster Kubernetes dinamiche e fluide, supportando infrastrutture eterogenee on-premise, cloud ed edge
+  ja: Liqo は、動的かつシームレスな Kubernetes のマルチクラスタートポロジを実現し、オンプレミス、クラウド、エッジの異種インフラをサポートするオープンソースプロジェクトです
+  ko: Liqo는 동적이고 매끄러운 Kubernetes 멀티 클러스터 토폴로지를 가능하게 하는 오픈 소스 프로젝트로, 이종적인 온프레미스, 클라우드 및 엣지 인프라를 지원합니다
+  pl: Liqo to open-source'owy projekt umożliwiający dynamiczne i bezproblemowe topologie wieloklastrowe Kubernetes, obsługujący zróżnicowaną infrastrukturę on-premise, chmurową i brzegową
+  pt: Liqo é um projeto de código aberto que habilita topologias multicluster dinâmicas e fluidas do Kubernetes, com suporte a infraestruturas heterogêneas on-premise, em nuvem e de borda
+  ro: Liqo este un proiect open source care permite topologii multi-cluster dinamice și fluide pentru Kubernetes, acceptând infrastructuri heterogene on-premise, în cloud și la margine
+  ru: Liqo — это проект с открытым исходным кодом, обеспечивающий динамические и бесшовные мультикластерные топологии Kubernetes с поддержкой разнородной локальной, облачной и периферийной инфраструктуры
+  th: Liqo เป็นโครงการโอเพนซอร์สที่เปิดใช้งานโทโพโลยี multi-cluster ของ Kubernetes แบบไดนามิกและราบรื่น รองรับโครงสร้างพื้นฐานแบบเฮตโรจีนิคทั้งแบบ on-premise, cloud และ edge
+  tr: Liqo, dinamik ve kesintisiz Kubernetes çoklu küme topolojileri sağlayan, heterojen on-premise, bulut ve uç altyapıları destekleyen açık kaynaklı bir projedir
+  uk: Liqo — проєкт з відкритим кодом, що забезпечує динамічні та безшовні мультикластерні топології Kubernetes із підтримкою різнорідної локальної, хмарної та периферійної інфраструктури
+  vi: Liqo là một dự án mã nguồn mở cho phép các topo nhiều cụm Kubernetes động và liền mạch, hỗ trợ hạ tầng không đồng nhất tại chỗ, trên đám mây và ở biên
 x:
   source: https://github.com/liqotech/liqo
   eget: liqotech/liqo

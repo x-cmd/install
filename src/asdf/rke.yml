@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Rancher Kubernetes Engine（RKE），这是一种非常简单的快速 kubernetes 发动机，完全在容器内运行
   en: Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers
+  cs: Rancher Kubernetes Engine (RKE), extrémně jednoduchá a rychlá distribuce Kubernetes, která běží výhradně v kontejnerech
+  de: Rancher Kubernetes Engine (RKE), eine äußerst einfache, blitzschnelle Kubernetes-Distribution, die vollständig in Containern läuft
+  es: Rancher Kubernetes Engine (RKE), una distribución de Kubernetes extremadamente simple y muy rápida que se ejecuta íntegramente dentro de contenedores
+  fr: Rancher Kubernetes Engine (RKE), une distribution Kubernetes extrêmement simple et très rapide qui fonctionne entièrement dans des conteneurs
+  id: Rancher Kubernetes Engine (RKE), distribusi Kubernetes yang sangat sederhana dan sangat cepat yang berjalan sepenuhnya di dalam container
+  it: Rancher Kubernetes Engine (RKE), una distribuzione Kubernetes estremamente semplice e velocissima che gira interamente dentro i container
+  ja: Rancher Kubernetes Engine (RKE) は、完全にコンテナ内で動作する、極めて単純で高速な Kubernetes ディストリビューションです
+  ko: Rancher Kubernetes Engine (RKE)는 완전히 컨테이너 내에서 실행되는 매우 단순하고 빠른 Kubernetes 배포판입니다
+  pl: Rancher Kubernetes Engine (RKE), niezwykle prosta i błyskawicznie szybka dystrybucja Kubernetes działająca w całości wewnątrz kontenerów
+  pt: Rancher Kubernetes Engine (RKE), uma distribuição do Kubernetes extremamente simples e muito rápida que roda inteiramente em contêineres
+  ro: Rancher Kubernetes Engine (RKE), o distribuție Kubernetes extrem de simplă și ultrarapidă care rulează complet în containere
+  ru: Rancher Kubernetes Engine (RKE) — крайне простой и сверхбыстрый дистрибутив Kubernetes, работающий полностью внутри контейнеров
+  th: Rancher Kubernetes Engine (RKE) คือการแจกจ่าย Kubernetes ที่เรียบง่ายและรวดเร็วอย่างสุดขั้น ทำงานทั้งหมดภายในคอนเทนเนอร์
+  tr: Rancher Kubernetes Engine (RKE), tamamen konteynerler içinde çalışan son derece basit ve çok hızlı bir Kubernetes dağıtımıdır
+  uk: Rancher Kubernetes Engine (RKE) — надзвичайно простий і надшвидкий дистрибутив Kubernetes, який повністю працює всередині контейнерів
+  vi: Rancher Kubernetes Engine (RKE) là bản phân phối Kubernetes cực kỳ đơn giản và cực nhanh, chạy hoàn toàn trong container
 x:
   source: https://github.com/rancher/rke
   eget: rancher/rke

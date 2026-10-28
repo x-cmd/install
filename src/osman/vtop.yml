@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 命令行下的图形化活动监视器。
   en: A graphical activity monitor for the command line.
+  cs: Grafický monitor aktivity pro příkazový řádek.
+  de: Ein grafischer Aktivitätsmonitor für die Kommandozeile.
+  es: Un monitor gráfico de actividad para la línea de comandos.
+  fr: Un moniteur d'activité graphique pour la ligne de commande.
+  id: Pemantau aktivitas grafis untuk baris perintah.
+  it: Un monitor grafico dell'attività per la riga di comando.
+  ja: コマンドライン用のグラフィックなアクティビティモニター。
+  ko: 명령줄을 위한 그래픽 활동 모니터.
+  pl: Graficzny monitor aktywności dla wiersza poleceń.
+  pt: Um monitor gráfico de atividade para a linha de comando.
+  ro: Un monitor grafic de activitate pentru linia de comandă.
+  ru: Графический монитор активности для командной строки.
+  th: ตัวตรวจสอบกิจกรรมแบบกราฟิกสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için grafik etkinlik izleyici.
+  uk: Графічний монітор активності для командного рядка.
+  vi: Trình giám sát hoạt động đồ họa cho dòng lệnh.
 x:
   source: https://github.com/MrRio/vtop
   yay: vtop

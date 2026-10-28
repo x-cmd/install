@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: DDEV 是一款开源工具，可在几分钟内启动本地 Web 开发环境。它支持 PHP 和 Node.js。
   en: DDEV is an open source tool for launching local web development environments in minutes. It supports PHP and Node.js.
+  cs: DDEV je open source nástroj pro spuštění lokálního vývojového prostředí webu během několika minut. Podporuje PHP a Node.js.
+  de: DDEV ist ein Open-Source-Werkzeug zum Starten lokaler Webentwicklungsumgebungen in wenigen Minuten. Es unterstützt PHP und Node.js.
+  es: DDEV es una herramienta de código abierto para lanzar entornos de desarrollo web locales en minutos. Compatible con PHP y Node.js.
+  fr: DDEV est un outil open source pour lancer des environnements de développement web locaux en quelques minutes. Il prend en charge PHP et Node.js.
+  id: DDEV adalah alat sumber terbuka untuk men'siapkan lingkungan pengembangan web lokal dalam hitungan menit. Ini mendukung PHP dan Node.js.
+  it: DDEV è uno strumento open source per avviare ambienti di sviluppo web locali in pochi minuti. Supporta PHP e Node.js.
+  ja: DDEV は数分でローカルの Web 開発環境を立ち上げるオープンソースツールです。PHP と Node.js に対応しています。
+  ko: DDEV는 몇 분 안에 로컬 웹 개발 환경을 시작하는 오픈 소스 도구로, PHP와 Node.js를 지원합니다
+  pl: DDEV to narzędzie open source do uruchamiania lokalnych środowisk deweloperskich w ciągu kilku minut. Obsługuje PHP i Node.js.
+  pt: O DDEV é uma ferramenta de código aberto para iniciar ambientes de desenvolvimento web locais em minutos. Ele suporta PHP e Node.js.
+  ro: DDEV este un instrument open source pentru lansarea mediilor locale de dezvoltare web în câteva minute. Acceptă PHP și Node.js.
+  ru: DDEV — это инструмент с открытым исходным кодом для запуска локальных сред веб-разработки за считанные минуты. Он поддерживает PHP и Node.js.
+  th: DDEV คือเครื่องมือโอเพนซอร์สสำหรับเปิดสภาพแวดล้อมการพัฒนาเว็บในเครื่องได้ภายในไม่กี่นาที รองรับ PHP และ Node.js
+  tr: DDEV, yerel web geliştirme ortamlarını dakikalar içinde başlatmak için açık kaynaklı bir araçtır. PHP ve Node.js desteği sunar.
+  uk: DDEV — інструмент з відкритим кодом для запуску локальних середовищ веб-розробки за кілька хвилин. Підтримує PHP та Node.js.
+  vi: DDEV là công cụ mã nguồn mở để khởi chạy môi trường phát triển web cục bộ trong vài phút. Nó hỗ trợ PHP và Node.js.
 x:
   source: https://github.com/ddev/ddev
   eget: ddev/ddev

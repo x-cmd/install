@@ -3,6 +3,22 @@ homepage: https://github.com/bmwant/hapless
 desc:
   cn: 运行并管理后台进程
   en: Run and manage background processes
+  cs: Spouštění a správa procesů na pozadí
+  de: Hintergrundprozesse ausführen und verwalten
+  es: Ejecutar y gestionar procesos en segundo plano
+  fr: Exécuter et gérer des processus en arrière-plan
+  id: Menjalankan dan mengelola proses latar belakang
+  it: Esegui e gestisci processi in background
+  ja: バックグラウンドプロセスの実行と管理
+  ko: 백그라운드 프로세스 실행 및 관리
+  pl: Uruchamianie i zarządzanie procesami w tle
+  pt: Executar e gerenciar processos em segundo plano
+  ro: Rularea și gestionarea proceselor în fundal
+  ru: Запуск и управление фоновыми процессами
+  th: เรียกใช้และจัดการกระบวนการเบื้องหลัง
+  tr: Arka plan süreçlerini çalıştırma ve yönetme
+  uk: Запуск та керування фоновими процесами
+  vi: Chạy và quản lý các tiến trình nền
 x:
   source: https://github.com/bmwant/hapless
   eget: bmwant/hapless

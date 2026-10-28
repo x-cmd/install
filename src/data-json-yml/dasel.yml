@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用单个工具从 JSON、TOML、YAML、XML 和 CSV 文件中选择、放置和删除数据。支持格式之间的转换，可以作为 Go 包使用。
   en: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+  cs: Vyberte, vložíte a odstraníte data ze souborů JSON, TOML, YAML, XML a CSV jediným nástrojem. Podporuje konverzi mezi formáty a lze jej použít jako balíček Go.
+  de: Daten aus JSON-, TOML-, YAML-, XML- und CSV-Dateien mit einem einzigen Werkzeug auswählen, einfügen und löschen. Unterstützt die Konvertierung zwischen Formaten und kann als Go-Paket verwendet werden.
+  es: Selecciona, coloca y elimina datos de archivos JSON, TOML, YAML, XML y CSV con una sola herramienta. Admite la conversión entre formatos y puede usarse como paquete de Go.
+  fr: Sélectionnez, insérez et supprimez des données dans des fichiers JSON, TOML, YAML, XML et CSV avec un seul outil. Prend en charge la conversion entre formats et peut être utilisé comme paquet Go.
+  id: Pilih, letakkan, dan hapus data dari berkas JSON, TOML, YAML, XML, dan CSV dengan satu alat. Mendukung konversi antarformat dan dapat digunakan sebagai paket Go.
+  it: Seleziona, inserisce ed elimina dati da file JSON, TOML, YAML, XML e CSV con un unico strumento. Supporta la conversione tra formati e può essere usato come pacchetto Go.
+  ja: 単一のツールで JSON、TOML、YAML、XML、CSV ファイルからデータを選択・追加・削除できます。形式間の変換に対応し、Go パッケージとしても利用できます。
+  ko: 하나의 도구로 JSON, TOML, YAML, XML 및 CSV 파일에서 데이터를 선택, 삽입, 삭제할 수 있습니다. 형식 간 변환을 지원하며 Go 패키지로도 사용할 수 있습니다.
+  pl: Wybieraj, umieszczaj i usuwaj dane z plików JSON, TOML, YAML, XML i CSV jednym narzędziem. Obsługuje konwersję między formatami i może być używany jako pakiet Go.
+  pt: Selecione, insira e exclua dados de arquivos JSON, TOML, YAML, XML e CSV com uma única ferramenta. Suporta conversão entre formatos e pode ser usado como pacote Go.
+  ro: Selectați, introduceți și ștergeți date din fișiere JSON, TOML, YAML, XML și CSV cu un singur instrument. Acceptă conversia între formate și poate fi folosit ca pachet Go.
+  ru: Выбирайте, помещайте и удаляйте данные из файлов JSON, TOML, YAML, XML и CSV одним инструментом. Поддерживает преобразование между форматами и может использоваться как пакет Go.
+  th: เลือก ใส่ และลบข้อมูลจากไฟล์ JSON, TOML, YAML, XML และ CSV ด้วยเครื่องมือเดียว รองรับการแปลงระหว่างรูปแบบ และใช้เป็นแพ็กเกจ Go ได้
+  tr: JSON, TOML, YAML, XML ve CSV dosyalarından verileri tek bir araçla seçin, yerleştirin ve silin. Formatlar arası dönüşümü destekler ve Go paketi olarak kullanılabilir.
+  uk: Вибирайте, додавайте та видаляйте дані з файлів JSON, TOML, YAML, XML і CSV одним інструментом. Підтримує перетворення між форматами і може використовуватися як пакет Go.
+  vi: Chọn, chèn và xóa dữ liệu từ các tệp JSON, TOML, YAML, XML và CSV bằng một công cụ duy nhất. Hỗ trợ chuyển đổi giữa các định dạng và có thể dùng như gói Go.
 x:
   source: https://github.com/tomwright/dasel
   eget: tomwright/dasel

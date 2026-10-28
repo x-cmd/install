@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: Ghidra 的 MCP Server
   en: MCP Server for Ghidra
+  cs: MCP Server pro Ghidra
+  de: MCP-Server für Ghidra
+  es: Servidor MCP para Ghidra
+  fr: Serveur MCP pour Ghidra
+  id: MCP Server untuk Ghidra
+  it: Server MCP per Ghidra
+  ja: Ghidra 用の MCP サーバー
+  ko: Ghidra용 MCP 서버
+  pl: Serwer MCP dla Ghidra
+  pt: Servidor MCP para o Ghidra
+  ro: Server MCP pentru Ghidra
+  ru: MCP-сервер для Ghidra
+  th: MCP Server สำหรับ Ghidra
+  tr: Ghidra için MCP Sunucusu
+  uk: MCP-сервер для Ghidra
+  vi: MCP Server cho Ghidra
 x:
   source: https://github.com/LaurieWired/GhidraMCP
   eget: LaurieWired/GhidraMCP
