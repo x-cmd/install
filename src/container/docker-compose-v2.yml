@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Compose 是用于定义和运行多容器 Docker 应用程序的工具
   en: Compose is a tool for defining and running multi-container Docker applications.
+  cs: Compose je nástroj pro definování a spouštění vícekontejnerových aplikací Docker.
+  de: Compose ist ein Werkzeug zum Definieren und Ausführen von Multi-Container-Docker-Anwendungen.
+  es: Compose es una herramienta para definir y ejecutar aplicaciones Docker de varios contenedores.
+  fr: Compose est un outil permettant de définir et d'exécuter des applications Docker multi-conteneurs.
+  id: Compose adalah alat untuk mendefinisikan dan menjalankan aplikasi Docker multi-kontainer.
+  it: Compose è uno strumento per definire ed eseguire applicazioni Docker multi-container.
+  ja: ComposeはマルチコンテナDockerアプリケーションを定義して実行するためのツールです。
+  ko: Compose는 멀티 컨테이너 Docker 애플리케이션을 정의하고 실행하는 도구입니다.
+  pl: Compose to narzędzie do definiowania i uruchamiania wielokontenerowych aplikacji Docker.
+  pt: O Compose é uma ferramenta para definir e executar aplicativos Docker de múltiplos contêineres.
+  ro: Compose este un instrument pentru definirea și rularea aplicațiilor Docker cu mai multe containere.
+  ru: Compose — инструмент для определения и запуска мультиконтейнерных приложений Docker.
+  th: Compose คือเครื่องมือสำหรับกำหนดและรันแอปพลิเคชัน Docker แบบหลายคอนเทนเนอร์
+  tr: Compose, çok konteynerli Docker uygulamalarını tanımlamak ve çalıştırmak için bir araçtır.
+  uk: Compose — інструмент для визначення та запуску багатоконтейнерних застосунків Docker.
+  vi: Compose là công cụ để định nghĩa và chạy các ứng dụng Docker nhiều container
 x:
   source: https://github.com/docker/compose
   eget: docker/compose

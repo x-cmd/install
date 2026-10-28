@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: CPU 监控和调优软件，专为 64 位处理器设计。
   en: CPU monitoring and tuning software designed for 64-bit processors.
+  cs: Software pro monitorování a ladění CPU určený pro 64bitové procesory.
+  de: Software zur CPU-Überwachung und -Optimierung, entwickelt für 64-Bit-Prozessoren.
+  es: Software de monitorización y ajuste de CPU diseñado para procesadores de 64 bits.
+  fr: Logiciel de surveillance et d'optimisation de l processeur conçu pour les processeurs 64 bits.
+  id: Pemantauan CPU dan perangkat lunak penyetelan yang dirancang untukprosessor 64-bit.
+  it: Software di monitoraggio e ottimizzazione della CPU progettato per processori a 64 bit.
+  ja: 64 ビットプロセッサ向けに設計された CPU 監視・調整ソフトウェア。
+  ko: 64비트 프로세서를 위해 설계된 CPU 모니터링 및 조정 소프트웨어.
+  pl: Oprogramowanie do monitorowania i strojenia CPU, przeznaczone dla procesorów 64-bitowych.
+  pt: Software de monitoramento e ajuste de CPU projetado para processadores de 64 bits.
+  ro: Software de monitorizare și reglare a procesorului, conceput pentru procesoare pe 64 de biți.
+  ru: Программное обеспечение для мониторинга и настройки CPU, рассчитанное на 64-разрядные процессоры.
+  th: ซอฟต์แวร์ติดตามและปรับจูน CPU ที่ออกแบบมาสำหรับโปรเซสเซอร์ 64 บิต
+  tr: 64 bit işlemciler için tasarlanmış CPU izleme ve ayarlama yazılımı.
+  uk: Програмне забезпечення для моніторингу та налаштування CPU, розраховане на 64-розрядні процесори.
+  vi: Phần mềm giám sát và tinh chỉnh CPU được thiết kế cho bộ xử lý 64 bit.
 x:
   source: https://github.com/cyring/CoreFreq
   zypper: CoreFreq

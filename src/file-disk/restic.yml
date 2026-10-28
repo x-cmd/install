@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: Restic 是一个快速，高效且安全的备份程序
   en: Restic is a backup program that is fast, efficient and secure
+  cs: Restic je program pro zálohování, který je rychlý, efektivní a bezpečný
+  de: Restic ist ein Backup-Programm, das schnell, effizient und sicher ist
+  es: Restic es un programa de copia de seguridad que es rápido, eficiente y seguro
+  fr: Restic est un programme de sauvegarde qui est rapide, efficace et sûr
+  id: Restic adalah program cadangan yang cepat, efisien, dan aman
+  it: Restic è un programma di backup che è veloce, efficiente e sicuro
+  ja: Restic は高速で効率的かつ安全なバックアッププログラムです
+  ko: Restic는 빠르고 효율적이며 안전한 백업 프로그램입니다
+  pl: Restic to program do tworzenia kopii zapasowych, który jest szybki, wydajny i bezpieczny
+  pt: Restic é um programa de backup que é rápido, eficiente e seguro
+  ro: Restic este un program de backup care este rapid, eficient și sigur
+  ru: Restic — это программа резервного копирования, которая быстра, эффективна и безопасна
+  th: Restic คือโปรแกรมสำรองข้อมูลที่ทำงานได้เร็ว มีประสิทธิภาพ และปลอดภัย
+  tr: Restic hızlı, verimli ve güvenli bir yedekleme programıdır
+  uk: Restic — це програма резервного копіювання, яка швидка, ефективна та безпечна
+  vi: Restic là chương trình sao lưu nhanh, hiệu quả và an toàn
 x:
   source: https://github.com/restic/restic
   eget: restic/restic

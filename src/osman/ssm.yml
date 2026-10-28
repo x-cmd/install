@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 快速、键盘驱动的 TUI，让 ~/.ssh/config 在大规模场景下更好用
   en: 'A fast, keyboard-driven TUI that makes your existing ~/.ssh/config delightful to use at fleet scale.'
+  cs: Rychlé TUI ovládané klávesnicí, které dělá používání existujícího ~/.ssh/config příjemným ve velkém měřítku.
+  de: Eine schnelle, tastaturgesteuerte TUI, die die Nutzung einer vorhandenen ~/.ssh/config im großen Maßstab angenehm macht.
+  es: Un TUI rápido controlado por teclado que hace agradable usar tu ~/.ssh/config existente a gran escala.
+  fr: Un TUI rapide au clavier qui rend l'utilisation de votre ~/.ssh/config existante agréable à grande échelle.
+  id: TUI cepat yang dikendalikan keyboard yang membuat penggunaan ~/.ssh/config yang ada menjadi menyenangkan dalam skala besar.
+  it: Una TUI veloce controllata da tastiera che rende piacevole usare il proprio ~/.ssh/config su larga scala.
+  ja: 高速なキーボード駆動型 TUI で、大規模環境でも既存の ~/.ssh/config を快適に扱えます。
+  ko: 기존 ~/.ssh/config를 대규모 환경에서도 편안하게 사용할 수 있게 하는 빠른 키보드 기반 TUI입니다.
+  pl: Szybki TUI sterowany klawiaturą, który sprawia, że używanie istniejącego ~/.ssh/config w dużej skali jest przyjemne.
+  pt: Um TUI rápido controlado por teclado que torna agradável usar o seu ~/.ssh/config existente em grande escala.
+  ro: Un TUI rapid, controlat de tastatură, care face plăcută utilizarea configurației ~/.ssh/config existente la scară mare.
+  ru: Быстрый TUI с управлением с клавиатуры, который делает использование существующего ~/.ssh/config приятным в больших масштабах.
+  th: TUI ที่เร็วและควบคุมด้วยแป้นพิมพ์ ทำให้การใช้ ~/.ssh/config ที่มีอยู่เป็นเรื่องง่ายในระดับขนาดใหญ่
+  tr: Mevcut ~/.ssh/config dosyanızı büyük ölçekte keyifle kullanmanızı sağlayan hızlı, klavye destekli bir TUI.
+  uk: Швидкий TUI з керуванням з клавіатури, який робить використання наявного ~/.ssh/config приємним у великих масштабах.
+  vi: TUI nhanh, điều khiển bằng bàn phím, giúp việc dùng ~/.ssh/config hiện có trở nên dễ chịu ở quy mô lớn.
 x:
   source: https://github.com/lfaoro/ssm
   eget: lfaoro/ssm

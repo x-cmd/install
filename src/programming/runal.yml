@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向终端的创意编程环境
   en: 'a creative coding environment for the terminal :fireworks:'
+  cs: "tvůrčí programovací prostředí pro terminál :fireworks:"
+  de: "eine kreative Programmierumgebung für das Terminal :fireworks:"
+  es: "un entorno de programación creativa para la terminal :fireworks:"
+  fr: "un environnement de codage créatif pour le terminal :fireworks:"
+  id: "lingkungan pemrograman kreatif untuk terminal :fireworks:"
+  it: "un ambiente di programmazione creativa per il terminale :fireworks:"
+  ja: "ターミナル向けのクリエイティブコーディング環境 :fireworks:"
+  ko: "터미널을 위한 창의적 코딩 환경 :fireworks:"
+  pl: "środowisko kreatywnego programowania dla terminala :fireworks:"
+  pt: "um ambiente de programação criativa para o terminal :fireworks:"
+  ro: "un mediu de programare creativă pentru terminal :fireworks:"
+  ru: "творческая среда программирования для терминала :fireworks:"
+  th: "สภาพแวดล้อมการเขียนโค้ดเชิงสร้างสรรค์สำหรับเทอร์มินัล :fireworks:"
+  tr: "terminal için yaratıcı kodlama ortamı :fireworks:"
+  uk: "середовище креативного програмування для термінала :fireworks:"
+  vi: "môi trường lập trình sáng tạo cho terminal :fireworks:"
 x:
   source: https://github.com/emprcl/runal
   eget: emprcl/runal

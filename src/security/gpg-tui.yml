@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: gpg-tui is a Terminal User Interface for GnuPG
   cn: gpg-tui 是 GnuPG 的终端用户界面
+  cs: gpg-tui je textové uživatelské rozhraní pro GnuPG
+  de: gpg-tui ist eine Terminal-Benutzeroberfläche für GnuPG
+  es: gpg-tui es una interfaz de usuario de terminal para GnuPG
+  fr: gpg-tui est une interface utilisateur en terminal pour GnuPG
+  id: gpg-tui adalah antarmuka pengguna terminal untuk GnuPG
+  it: gpg-tui è un'interfaccia utente da terminale per GnuPG
+  ja: gpg-tui は GnuPG の端末ユーザーインターフェースです
+  ko: gpg-tui는 GnuPG용 터미널 사용자 인터페이스입니다
+  pl: gpg-tui to terminalowy interfejs użytkownika dla GnuPG
+  pt: gpg-tui é uma interface de usuário de terminal para o GnuPG
+  ro: gpg-tui este o interfață de utilizator în terminal pentru GnuPG
+  ru: gpg-tui — это терминальный пользовательский интерфейс для GnuPG
+  th: gpg-tui คืออินเทอร์เฟซผู้ใช้แบบเทอร์มินัลสำหรับ GnuPG
+  tr: gpg-tui, GnuPG için bir Terminal Kullanıcı Arayüzüdür
+  uk: gpg-tui — це термінальний користувацький інтерфейс для GnuPG
+  vi: gpg-tui là giao diện người dùng dòng lệnh cho GnuPG
 x:
   source: https://github.com/orhun/gpg-tui
   brew: gpg-tui

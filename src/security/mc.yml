@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: MinIO 是 GNU AGPL v3 和商业许可下的双重许可。要了解更多关于许可和商标指导的信息，请访问合规页面
   en: MinIO is dual licensed under GNU AGPL v3 and commercial license. To learn more about licensing and trademark guidance, visit the Compliance page
+  cs: MinIO je duálně licencováno pod GNU AGPL v3 a komerční licencí. Další informace o licencování a pokynech k ochranným známkám najdete na stránce Compliance
+  de: MinIO ist doppelt unter GNU AGPL v3 und kommerzieller Lizenz lizenziert. Weitere Informationen zu Lizenzierung und Markenrichtlinien finden Sie auf der Compliance-Seite
+  es: MinIO tiene doble licencia bajo GNU AGPL v3 y licencia comercial. Para saber más sobre licencias y directrices de marcas, visite la página de Compliance
+  fr: MinIO est sous double licence GNU AGPL v3 et licence commerciale. Pour en savoir plus sur les licences et les règles relatives aux marques, consultez la page Compliance
+  id: MinIO berlisensi ganda di bawah GNU AGPL v3 dan lisensi komersial. Untuk mempelajari lebih lanjut tentang lisensi dan panduan merek dagang, kunjungi halaman Compliance
+  it: MinIO è con doppia licenza GNU AGPL v3 e licenza commerciale. Per saperne di più su licenze e linee guida sui marchi, consulta la pagina Compliance
+  ja: MinIO は GNU AGPL v3 と商用ライセンスの二重ライセンスです。ライセンスと商標に関するガイドラインについては Compliance ページをご覧ください
+  ko: MinIO는 GNU AGPL v3 및 상업 라이선스 이중 라이선스를 따릅니다. 라이선스와 상표 지침에 대한 자세한 내용은 Compliance 페이지를 방문하세요
+  pl: MinIO jest objęte podwójną licencją GNU AGPL v3 i licencją komercyjną. Aby dowiedzieć się więcej o licencjonowaniu i wytycznych dotyczących znaków towarowych, odwiedź stronę Compliance
+  pt: O MinIO tem licença dupla sob GNU AGPL v3 e licença comercial. Para saber mais sobre licenciamento e diretrizes de marca, visite a página de Compliance
+  ro: MinIO este licențiat dual sub GNU AGPL v3 și licență comercială. Pentru mai multe informații despre licențiere și orientările privind mărcile, vizitați pagina Compliance
+  ru: MinIO распространяется по двойной лицензии GNU AGPL v3 и коммерческой лицензии. Подробнее о лицензировании и правилах использования товарных знаков смотрите на странице Compliance
+  th: MinIO ใช้สัญญาอนุญาตแบบคู่ภายใต้ GNU AGPL v3 และสัญญาอนุญาตเชิงพาณิชย์ หากต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับการอนุญาตใช้งานและแนวทางด้านเครื่องหมายการค้า โปรดไปที่หน้า Compliance
+  tr: MinIO, GNU AGPL v3 ve ticari lisans altında çift lisanslıdır. Lisanslama ve marka rehberi hakkında daha fazla bilgi için Compliance sayfasını ziyaret edin
+  uk: MinIO поширюється за подвійною ліцензією GNU AGPL v3 і комерційною ліцензією. Щоб дізнатися більше про ліцензування та правила щодо товарних знаків, відвідайте сторінку Compliance
+  vi: MinIO được cấp phép kép theo GNU AGPL v3 và giấy phép thương mại. Để biết thêm về cấp phép và hướng dẫn thương hiệu, hãy truy cập trang Compliance
 x:
   source: https://github.com/minio/mc
   eget: minio/mc

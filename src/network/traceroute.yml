@@ -3,6 +3,22 @@ homepage: https://github.com/iputils/iputils
 desc:
   cn: 一款网络诊断工具，用于跟踪数据包从源主机到目标主机之间的路径
   en: A network diagnostic tool used to track the path of data packets from the source host to the target host
+  cs: Diagnostický nástroj sítě používaný ke sledování cesty datových paketů od zdrojového hostitele k cílovému hostiteli
+  de: Ein Netzwerkdiagnosewerkzeug zum Verfolgen des Datenpfads vom Quellhost zum Zielhost
+  es: Una herramienta de diagnóstico de red para rastrear la ruta de los paquetes de datos desde el host de origen al host de destino
+  fr: Un outil de diagnostic réseau utilisé pour suivre le chemin des paquets de données de l'hôte source vers l'hôte cible
+  id: Alat diagnostik jaringan untuk melacak jalur paket data dari host sumber ke host tujuan
+  it: Uno strumento di diagnostica di rete per tracciare il percorso dei pacchetti dati dall'host di origine all'host di destinazione
+  ja: 送信元ホストから宛先ホストまで数据包の経路を追跡するネットワーク診断ツール。
+  ko: 원본 호스트에서 대상 호스트까지 데이터 패킷의 경로를 추적하는 네트워크 진단 도구입니다.
+  pl: Narzędzie diagnostyczne sieci służące do śledzenia ścieżki pakietów danych od hosta źródłowego do hosta docelowego
+  pt: Uma ferramenta de diagnóstico de rede usada para rastrear o caminho dos pacotes de dados do host de origem ao host de destino
+  ro: Un instrument de diagnosticare a rețelei folosit pentru a urmări traseul pachetelor de date de la gazda sursă la gazda de destinație
+  ru: Сетевой диагностический инструмент для отслеживания пути пакетов данных от исходного узла к целевому узлу
+  th: เครื่องมือวินิจฉัยเครือข่ายที่ใช้ติดตามเส้นทางของแพ็กเกตข้อมูลจากโฮสต์ต้นทางไปยังโฮสต์ปลายทาง
+  tr: Veri paketlerinin kaynak ana bilgisayardan hedef ana bilgisayara izlediği yolu izlemek için kullanılan ağ tanılama aracı
+  uk: Сетевий діагностичний інструмент для відстеження шляху пакетів даних від вихідного вузла до цільового вузла
+  vi: Công cụ chẩn đoán mạng dùng để theo dõi đường đi của gói dữ liệu từ máy chủ nguồn đến máy chủ đích
 x:
   source: https://github.com/iputils/iputils
   eget: iputils/iputils

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 带 TUI 界面的 SSH 连接管理器
   en: '🧑‍💻 SSH connection manager with a TUI interface'
+  cs: 🧑‍💻 Správce připojení SSH s rozhraním TUI
+  de: 🧑‍💻 SSH-Verbindungsmanager mit TUI-Oberfläche
+  es: 🧑‍💻 Gestor de conexiones SSH con interfaz TUI
+  fr: 🧑‍💻 Gestionnaire de connexions SSH avec une interface TUI
+  id: 🧑‍💻 Manajer koneksi SSH dengan antarmuka TUI
+  it: 🧑‍💻 Gestore delle connessioni SSH con interfaccia TUI
+  ja: 🧑‍💻 TUI インターフェースを備えた SSH 接続マネージャー
+  ko: 🧑‍💻 TUI 인터페이스를 갖춘 SSH 연결 관리자
+  pl: 🧑‍💻 Menedżer połączeń SSH z interfejsem TUI
+  pt: 🧑‍💻 Gerenciador de conexões SSH com interface TUI
+  ro: 🧑‍💻 Manager de conexiuni SSH cu interfață TUI
+  ru: 🧑‍💻 Менеджер SSH-подключений с TUI-интерфейсом
+  th: 🧑‍💻 ตัวจัดการการเชื่อมต่อ SSH พร้อมอินเทอร์เฟซแบบ TUI
+  tr: 🧑‍💻 TUI arayüzlü SSH bağlantı yöneticisi
+  uk: 🧑‍💻 Менеджер SSH-з'єднань з TUI-інтерфейсом
+  vi: 🧑‍💻 Trình quản lý kết nối SSH với giao diện TUI
 x:
   source: https://github.com/akinoiro/ssh-list
   eget: akinoiro/ssh-list

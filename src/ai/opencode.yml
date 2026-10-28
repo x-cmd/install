@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 为终端构建的人工智能编码代理
   en: The AI coding agent built for the terminal.
+  cs: AI kódovací agent vytvořený pro terminál.
+  de: Der KI-Coding-Agent für das Terminal.
+  es: El agente de codificación de IA creado para el terminal.
+  fr: L'agent de codage IA conçu pour le terminal.
+  id: Agen pengodean AI yang dirancang untuk terminal.
+  it: L'agente di coding IA progettato per il terminale.
+  ja: ターミナルのために作られた AI コーディングエージェント。
+  ko: 터미널을 위해 만들어진 AI 코딩 에이전트.
+  pl: Agent kodujący AI stworzony do pracy w terminalu.
+  pt: O agente de codificação de IA criado para o terminal.
+  ro: Agentul de codare AI creat pentru terminal.
+  ru: ИИ-агент для написания кода, созданный для терминала.
+  th: เอเจนต์เขียนโค้ดด้วย AI ที่สร้างมาเพื่อเทอร์มินัล
+  tr: Terminal için geliştirilen yapay zeka kodlama ajanı.
+  uk: ШІ-агент для написання коду, створений для термінала.
+  vi: Tác nhân mã hóa AI được xây dựng cho terminal
 x:
   source: https://github.com/anomalyco/opencode
   eget: anomalyco/opencode

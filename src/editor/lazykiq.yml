@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Sidekiq 的富终端 UI
   en: 'rich terminal UI for Sidekiq'
+  cs: bohaté terminálové UI pro Sidekiq
+  de: Reichhaltiges Terminal-UI für Sidekiq
+  es: una interfaz de terminal rica para Sidekiq
+  fr: une interface terminal riche pour Sidekiq
+  id: UI terminal lengkap untuk Sidekiq
+  it: una ricca UI da terminale per Sidekiq
+  ja: Sidekiq の高機能なターミナル UI
+  ko: Sidekiq를 위한 풍부한 터미널 UI
+  pl: bogate terminalowe UI dla Sidekiq
+  pt: uma interface de terminal rica para o Sidekiq
+  ro: o interfață terminală bogată pentru Sidekiq
+  ru: богатый терминальный интерфейс для Sidekiq
+  th: UI เทอร์มินัลแบบเต็มรูปแบบสำหรับ Sidekiq
+  tr: Sidekiq için zengin bir terminal arayüzü
+  uk: багатий термінальний інтерфейс для Sidekiq
+  vi: giao diện terminal giàu tính năng cho Sidekiq
 x:
   source: https://github.com/kpumuk/lazykiq
   eget: kpumuk/lazykiq

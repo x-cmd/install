@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: IPTraf-ng 是一个基于控制台的 Linux 网络监控程序，用于显示关于 IP 流量的信息。
   en: IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
+  cs: IPTraf-ng je konzolový monitorovací program pro Linux, který zobrazuje informace o provozu IP.
+  de: IPTraf-ng ist ein konsolenbasiertes Netzwerküberwachungsprogramm für Linux, das Informationen über IP-Verkehr anzeigt.
+  es: IPTraf-ng es un programa de monitoreo de red basado en consola para Linux que muestra información sobre el tráfico IP.
+  fr: IPTraf-ng est un programme de surveillance réseau en console pour Linux qui affiche des informations sur le trafic IP.
+  id: IPTraf-ng adalah program pemantauan jaringan berbasis konsol untuk Linux yang menampilkan informasi tentang lalu lintas IP.
+  it: IPTraf-ng è un programma di monitoraggio di rete basato su console per Linux che visualizza informazioni sul traffico IP.
+  ja: IPTraf-ngは、IPトラフィックに関する情報を表示するLinux向けコンソールベースのネットワーク監視プログラムです。
+  ko: IPTraf-ng는 IP 트래픽에 대한 정보를 표시하는 Linux용 콘솔 기반 네트워크 모니터링 프로그램입니다.
+  pl: IPTraf-ng to konsolowy program monitorowania sieci dla systemu Linux, wyświetlający informacje o ruchu IP.
+  pt: O IPTraf-ng é um programa de monitoramento de rede baseado em console para Linux que exibe informações sobre tráfego IP.
+  ro: IPTraf-ng este un program de monitorizare a rețelei bazat pe consolă pentru Linux, care afișează informații despre traficul IP.
+  ru: IPTraf-ng — консольная программа мониторинга сети для Linux, отображающая сведения о трафике IP.
+  th: IPTraf-ng เป็นโปรแกรมตรวจสอบเครือข่ายแบบคอนโซลสำหรับ Linux ที่แสดงข้อมูลเกี่ยวกับทราฟฟิก IP
+  tr: IPTraf-ng, IP trafiği hakkında bilgi gösteren Linux için konsol tabanlı bir ağ izleme programıdır.
+  uk: IPTraf-ng — консольна програма моніторингу мережі для Linux, що відображає відомості про трафік IP.
+  vi: IPTraf-ng là chương trình giám sát mạng dựa trên bảng điều khiển cho Linux, hiển thị thông tin về lưu lượng IP.
 x:
   source: https://github.com/iptraf-ng/iptraf-ng
   apt: iptraf-ng

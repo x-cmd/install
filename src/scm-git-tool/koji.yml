@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于创建常规提交的交互式 CLI
   en: An interactive CLI for creating conventional commits
+  cs: Interaktivní CLI pro vytváření konvenčních commitů
+  de: Eine interaktive CLI zum Erstellen konventioneller Commits
+  es: Una CLI interactiva para crear commits convencionales
+  fr: Une CLI interactive pour créer des commits conventionnels
+  id: CLI interaktif untuk membuat commit konvensional
+  it: Una CLI interattiva per creare commit convenzionali
+  ja: conventional commit を作成するための対話型 CLI
+  ko: convention commit 생성을 위한 대화형 CLI
+  pl: Interaktywne CLI do tworzenia konwencjonalnych commitów
+  pt: Uma CLI interativa para criar commits convencionais
+  ro: O CLI interactiv pentru crearea commiturilor convenționale
+  ru: Интерактивный CLI для создания конвенциональных коммитов
+  th: CLI แบบโต้ตอบสำหรับสร้าง conventional commit
+  tr: Konvansiyonel commit'ler oluşturmak için etkileşimli CLI
+  uk: Інтерактивний CLI для створення конвенційних комітів
+  vi: CLI tương tác để tạo commit theo quy ước
 x:
   source: https://github.com/cococonscious/koji
   eget: cococonscious/koji

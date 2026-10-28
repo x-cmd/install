@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于模块化 Java 应用程序的启动器和 API
   en: A Launcher and API for Modularized Java Applications
+  cs: Launcher a API pro modulární Java aplikace
+  de: Ein Launcher und eine API für modulare Java-Anwendungen
+  es: Un launcher y una API para aplicaciones Java modularizadas
+  fr: Un lanceur et une API pour les applications Java modulaires
+  id: Launcher dan API untuk aplikasi Java termodularisasi
+  it: Un launcher e un'API per applicazioni Java modularizzate
+  ja: モジュール化された Java アプリケーション用のランチャーと API
+  ko: 모듈화된 Java 애플리케이션을 위한 런처와 API
+  pl: Launcher i API dla modularnych aplikacji Java
+  pt: Um launcher e uma API para aplicações Java modularizadas
+  ro: Un launcher și o API pentru aplicații Java modularizate
+  ru: Лаунчер и API для модульных Java-приложений
+  th: ตัวเรียกใช้งานและ API สำหรับแอปพลิเคชัน Java แบบโมดูลาร์
+  tr: Modüler Java uygulamaları için bir başlatıcı ve API
+  uk: Лаунчер і API для модульних Java-застосунків
+  vi: Trình khởi chạy và API cho các ứng dụng Java được mô đun hóa
 x:
   source: https://github.com/moditect/layrry
   eget: moditect/layrry

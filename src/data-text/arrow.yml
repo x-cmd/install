@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: ApacheArrow 是一个用于加速数据交换和内存处理的多语言工具箱
   en: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+  cs: Apache Arrow je vícejazyková sada nástrojů pro urychlenou výměnu dat a zpracování v paměti
+  de: Apache Arrow ist eine mehrsprachige Toolbox für beschleunigten Datenaustausch und die Verarbeitung im Arbeitsspeicher
+  es: Apache Arrow es un conjunto de herramientas multilenguaje para el intercambio acelerado de datos y el procesamiento en memoria
+  fr: Apache Arrow est une boîte à outils multilangage pour l'échange de données accéléré et le traitement en mémoire
+  id: Apache Arrow adalah kotak perkakas multibahasa untuk pertukaran data yang dipercepat dan pemrosesan dalam memori
+  it: Apache Arrow è una cassetta degli attrezzi multilingue per lo scambio dati accelerato e l'elaborazione in memoria
+  ja: Apache Arrowは、加速されたデータ交換とインメモリ処理のための多言語ツールボックスです
+  ko: Apache Arrow는 가속된 데이터 교환과 메모리 내 처리를 위한 다국어 도구 모음입니다
+  pl: Apache Arrow to wielojęzyczny zestaw narzędzi do przyspieszonej wymiany danych i przetwarzania w pamięci
+  pt: Apache Arrow é um conjunto de ferramentas multilíngue para intercâmbio acelerado de dados e processamento em memória
+  ro: Apache Arrow este o trusă de instrumente multilingvă pentru schimb accelerat de date și procesare în memorie
+  ru: Apache Arrow — многоязычный набор инструментов для ускоренного обмена данными и обработки в памяти
+  th: Apache Arrow คือกล่องเครื่องมือหลายภาษาสำหรับการแลกเปลี่ยนข้อมูลแบบเร่งความเร็วและการประมวลผลในหน่วยความจำ
+  tr: Apache Arrow, hızlandırılmış veri alışverişi ve bellek içi işleme için çok dilli bir araç kutusudur
+  uk: Apache Arrow — багатомовний інструментарій набір для прискореного обміну даними та обробки в пам'яті
+  vi: Apache Arrow là bộ công cụ đa ngôn ngữ cho trao đổi dữ liệu tăng tốc và xử lý trong bộ nhớ
 x:
   source: https://github.com/apache/arrow
   eget: apache/arrow

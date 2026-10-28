@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 从命令行读写 Twitter/X 时间线、书签、推文与用户资料，无需官方 API Key
   en: Interact with Twitter/X from the command line to read timelines, manage tweets, and export data without an API key.
+  cs: Pracujte s Twitter/X z příkazové řádky – čtěte časové osy, spravujte tweety a exportujte data bez klíče API.
+  de: Interagiere über die Kommandozeile mit Twitter/X – Zeitverläufe lesen, Tweets verwalten und Daten ohne API-Schlüssel exportieren.
+  es: Interactúa con Twitter/X desde la línea de comandos para leer cronologías, gestionar publicaciones y exportar datos sin clave de API.
+  fr: Interagissez avec Twitter/X depuis la ligne de commande pour lire les fils, gérer les tweets et exporter des données sans clé d'API.
+  id: Berinteraksi dengan Twitter/X dari baris perintah untuk membaca linimasa, mengelola tweet, dan mengekspor data tanpa kunci API.
+  it: Interagisci con Twitter/X dalla riga di comando per leggere le timeline, gestire i tweet ed esportare i dati senza chiave API.
+  ja: コマンドラインからTwitter/Xを操作し、タイムラインの閲覧、ツイートの管理、データのエクスポートがAPIキー不要で行えます。
+  ko: 명령줄에서 Twitter/X를 사용해 타임라인 읽기, 트윗 관리, 데이터 내보내기를 API 키 없이 할 수 있습니다.
+  pl: Interaktywuj z Twitter/X z wiersza poleceń – czytaj osie czasu, zarządzaj tweetami i eksportuj dane bez klucza API.
+  pt: Interaja com o Twitter/X a partir da linha de comando para ler timelines, gerir publicações e exportar dados sem chave de API.
+  ro: Interacționează cu Twitter/X din linia de comandă pentru a citi cronologii, gestiona postări și exporta date fără cheie API.
+  ru: "Взаимодействуйте с Twitter/X из командной строки: читайте ленты, управляйте твитами и экспортируйте данные без ключа API."
+  th: โต้ตอบกับ Twitter/X จากบรรทัดคำสั่ง เพื่ออ่านไทม์ไลน์ จัดการทวิต และส่งออกข้อมูลโดยไม่ต้องใช้คีย์ API
+  tr: Komut satırından Twitter/X ile etkileşim kurun; API anahtarı olmadan zaman akışlarını okuyun, gönderileri yönetin ve verileri dışa aktarın.
+  uk: "Взаємодійте з Twitter/X із командного рядка: читайте стрічки, керуйте твітами та експортуйте дані без ключа API."
+  vi: Tương tác với Twitter/X từ dòng lệnh để đọc dòng thời gian, quản lý bài đăng và xuất dữ liệu mà không cần khóa API.
 x:
   source: https://github.com/public-clis/twitter-cli
   pip: twitter-cli

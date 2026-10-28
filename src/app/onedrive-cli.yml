@@ -3,6 +3,22 @@ homepage: https://www.lunesu.com/onedrive-cli/
 desc:
   en: Cross-platform command line interface for OneDrive (Personal)
   cn: OneDrive 的跨平台命令行界面(个人)
+  cs: Rozhraní příkazové řádky pro OneDrive (osobní) napříč platformami
+  de: Plattformübergreifende Kommandozeilenschnittstelle für OneDrive (Persönlich)
+  es: Interfaz de línea de comandos multiplataforma para OneDrive (Personal)
+  fr: Interface de ligne de commande multiplateforme pour OneDrive (Personnel)
+  id: Antarmuka baris perintah lintas platform untuk OneDrive (Personal)
+  it: Interfaccia a riga di comando multipiattaforma per OneDrive (Personale)
+  ja: OneDrive (個人用) のクロスプラットフォームなコマンドラインインターフェース
+  ko: OneDrive(개인용)를 위한 크로스 플랫폼 명령줄 인터페이스
+  pl: Wieloplatformowy interfejs wiersza poleceń dla OneDrive (Osobiste)
+  pt: Interface de linha de comando multiplataforma para o OneDrive (Pessoal)
+  ro: Interfață de linie de comandă multiplă platformă pentru OneDrive (Personal)
+  ru: Кроссплатформенный интерфейс командной строки для OneDrive (личный)
+  th: อินเทอร์เฟซบรรทัดคำสั่งแบบครอสแพลตฟอร์มสำหรับ OneDrive (ส่วนตัว)
+  tr: OneDrive (Kişisel) için çok platformlu komut satırı arayüzü
+  uk: Кросплатформенний інтерфейс командного рядка для OneDrive (особистий)
+  vi: Giao diện dòng lệnh đa nền tảng cho OneDrive (Cá nhân)
 rule:
   arch/snap:
     cmd: sudo snap install onedrive-cli

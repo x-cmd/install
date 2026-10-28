@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Datasette 是一个用于探索和发布数据的工具。它可以帮助人们获取任何形式的数据，分析和探索它，并将其作为交互式网站和相应的 API 发布。
   en: Datasette is a tool for exploring and publishing data. It helps people take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API.
+  cs: Datasette je nástroj pro průzkum a publikování dat. Pomáhá lidem získat data jakéhokoli tvaru, analyzovat a prozkoumat je a publikovat je jako interaktivní web a doprovodnou API.
+  de: Datasette ist ein Werkzeug zum Erkunden und Veröffentlichen von Daten. Es hilft Menschen, Daten jeder Form zu erfassen, zu analysieren und zu erkunden und sie als interaktive Website mit begleitender API zu veröffentlichen.
+  es: Datasette es una herramienta para explorar y publicar datos. Ayuda a obtener datos de cualquier forma, analizarlos y explorarlos, y publicarlos como un sitio web interactivo con su API correspondiente.
+  fr: Datasette est un outil d'exploration et de publication de données. Il aide à obtenir des données de toute forme, à les analyser et à les explorer, puis à les publier sous forme de site web interactif avec une API associée.
+  id: Datasette adalah alat untuk menjelajah dan menerbitkan data. Membantu orang mengambil data dalam bentuk apa pun, menganalisis dan menjelajahinya, serta menerbitkannya sebagai situs web interaktif beserta API-nya.
+  it: Datasette è uno strumento per esplorare e pubblicare dati. Aiuta le persone a ottenere dati di qualsiasi forma, analizzarli ed esplorarli, e pubblicarli come sito web interattivo con la relativa API.
+  ja: Datasette はデータの探索と公開のためのツールです。あらゆる形のデータを取得し、分析・探索して、インタラクティブなウェブサイトと API として公開するのを助于ことができます。
+  ko: Datasette는 데이터를 탐색하고 게시하기 위한 도구입니다. 어떤 형태의 데이터든 얻고 분석하며 탐색한 뒤 대화형 웹사이트와 API로 게시하도록 돕습니다.
+  pl: Datasette to narzędzie do eksploracji i publikowania danych. Pomaga ludziom pozyskiwać dane w dowolnej postaci, analizować je i eksplorować, a następnie publikować jako interaktywną stronę internetową wraz z towarzyszącym API.
+  pt: Datasette é uma ferramenta para explorar e publicar dados. Ajuda as pessoas a obter dados de qualquer formato, analisá-los e explorá-los, e publicá-los como um site interativo com a API correspondente.
+  ro: Datasette este un instrument pentru explorarea și publicarea datelor. Îi ajută pe oameni să obțină date de orice formă, să le analizeze și exploreze, și să le publice ca site interactiv cu API-ul aferent.
+  ru: Datasette — инструмент для исследования и публикации данных. Он помогает получать данные любой формы, анализировать и изучать их, а также публиковать в виде интерактивного сайта с сопутствующим API.
+  th: Datasette คือเครื่องมือสำหรับสำรวจและเผยแพร่ข้อมูล ช่วยให้ผู้คนรับข้อมูลได้ทุกรูปแบบ วิเคราะห์และสำรวจ แล้วเผยแพร่เป็นเว็บไซต์แบบโต้ตอบพร้อม API
+  tr: Datasette, verileri keşfetmek ve yayımlamak için bir araçtır. İnsanların her biçimde veri almasına, onları analiz edip incelemesine ve etkileşimli bir web sitesi ve beraberindeki API olarak yayımlamasına yardımcı olur.
+  uk: Datasette — інструмент для дослідження та публікації даних. Він допомагає отримувати дані будь-якої форми, аналізувати та досліджувати їх і публікувати як інтерактивний вебсайт із супутнім API.
+  vi: Datasette là công cụ để khám phá và xuất bản dữ liệu. Nó giúp mọi người lấy dữ liệu ở bất kỳ hình thức nào, phân tích và khám phá, rồi xuất bản dưới dạng trang web tương tác kèm API.
 x:
   source: https://github.com/simonw/datasette
   brew: datasette

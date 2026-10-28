@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: zoro 能帮助你将本地端口暴露在外网
   en: zoro can help you expose local server to external network
+  cs: zoro vám může pomoci vystavit lokální server do externí sítě
+  de: zoro kann Ihnen helfen, einen lokalen Server ins externe Netzwerk freizugeben
+  es: zoro puede ayudarte a exponer un servidor local a la red externa
+  fr: zoro peut vous aider à exposer un serveur local au réseau externe
+  id: zoro dapat membantu Anda mengekspos server lokal ke jaringan eksternal
+  it: zoro può aiutarti a esporre un server locale alla rete esterna
+  ja: zoro はローカルサーバーを外部ネットワークに公開する助けになります
+  ko: zoro는 로컬 서버를 외부 네트워크에 노출하는 데 도움을 줄 수 있습니다
+  pl: zoro pomoże udostępnić lokalny serwer w sieci zewnętrznej
+  pt: zoro pode ajudar você a expor um servidor local para a rede externa
+  ro: zoro vă poate ajuta să expuneți un server local către rețeaua externă
+  ru: zoro поможет вам открыть доступ к локальному серверу во внешней сети
+  th: zoro ช่วยให้คุณเปิดเผยเซิร์ฟเวอร์ในเครื่องให้เข้าถึงได้จากเครือข่ายภายนอก
+  tr: zoro, yerel sunucunuzu dış ağa açmanıza yardımcı olabilir
+  uk: zoro допоможе вам відкрити доступ до локального сервера у зовнішній мережі
+  vi: zoro có thể giúp bạn phơi bày máy chủ cục bộ ra mạng bên ngoài
 x:
   source: https://github.com/txthinking/zoro
   eget: txthinking/zoro

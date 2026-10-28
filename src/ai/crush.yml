@@ -4,6 +4,22 @@ license: FSL-1.1-MIT
 desc:
   cn: 由 Charm 团队提供的终端的 AI 编码代理
   en: AI encoding agent for terminals provided by the Charm team
+  cs: AI kódující agent pro terminály od týmu Charm
+  de: KI-Coding-Agent für Terminals vom Charm-Team
+  es: Agente de codificación con IA para terminales proporcionado por el equipo de Charm
+  fr: Agent de code IA pour les terminaux, fourni par l'équipe Charm
+  id: Agen coding AI untuk terminal dari tim Charm
+  it: Agente di codifica IA per terminali fornito dal team Charm
+  ja: Charm チームによるターミナル向け AI コーディングエージェント
+  ko: Charm 팀이 제공하는 터미널용 AI 코딩 에이전트
+  pl: Agent programistyczny AI dla terminali dostarczony przez zespół Charm
+  pt: Agente de codificação com IA para terminais, fornecido pela equipe Charm
+  ro: Agent de cod AI pentru terminale, oferit de echipa Charm
+  ru: ИИ-агент для программирования в терминале от команды Charm
+  th: เอเจนต์เขียนโค้ดด้วย AI สำหรับเทอร์มินัลจากทีม Charm
+  tr: Charm ekibinden terminal için AI kodlama ajanı
+  uk: ІІ-агент для програмування в терміналі від команди Charm
+  vi: Tác nhân lập trình AI cho terminal do đội ngũ Charm cung cấp
 x:
   source: https://github.com/charmbracelet/crush
   eget: charmbracelet/crush

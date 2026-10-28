@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Cosign 是作为 sigstore 项目的一部分开发的
   en: Cosign is developed as part of the sigstore project
+  cs: Cosign je vyvíjen jako součást projektu sigstore
+  de: Cosign wird als Teil des sigstore-Projekts entwickelt
+  es: Cosign se desarrolla como parte del proyecto sigstore
+  fr: Cosign est développé dans le cadre du projet sigstore
+  id: Cosign dikembangkan sebagai bagian dari proyek sigstore
+  it: Cosign è sviluppato come parte del progetto sigstore
+  ja: Cosign は sigstore プロジェクトの一部として開発されています
+  ko: Cosign은 sigstore 프로젝트의 일부로 개발되었습니다
+  pl: Cosign jest rozwijany jako część projektu sigstore
+  pt: O Cosign é desenvolvido como parte do projeto sigstore
+  ro: Cosign este dezvoltat ca parte a proiectului sigstore
+  ru: Cosign разрабатывается как часть проекта sigstore
+  th: Cosign ถูกพัฒนาโดยเป็นส่วนหนึ่งของโครงการ sigstore
+  tr: Cosign, sigstore projesinin bir parçası olarak geliştirilmiştir
+  uk: Cosign розробляється як частина проєкту sigstore
+  vi: Cosign được phát triển như một phần của dự án sigstore
 x:
   source: https://github.com/sigstore/cosign
   eget: sigstore/cosign

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: gitleaks 是一个 SAST 工具，用于检测和防止 git repos 中的硬编码秘密，如密码、api 密钥和令牌
   en: gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos
+  cs: gitleaks je nástroj SAST pro detekci a prevenci tvrdě zakódovaných tajemství, jako jsou hesla, api klíče a tokeny, v git repozitářích
+  de: gitleaks ist ein SAST-Tool zum Erkennen und Verhindern von fest codierten Geheimnissen wie Passwörtern, API-Schlüsseln und Tokens in Git-Repositories
+  es: gitleaks es una herramienta SAST para detectar y prevenir secretos incrustados como contraseñas, claves api y tokens en repositorios de git
+  fr: gitleaks est un outil SAST pour détecter et empêcher les secrets codés en dur comme les mots de passe, clés api et jetons dans les dépôts git
+  id: gitleaks adalah alat SAST untuk mendeteksi dan mencegah rahasia yang tertanam seperti kata sandi, kunci api, dan token di repo git
+  it: gitleaks è uno strumento SAST per rilevare e prevenire segreti hardcoded come password, chiavi api e token nei repository git
+  ja: gitleaks は、git リポジトリ内のパスワード、api キー、トークンのようなハードコードされた秘密を検出・防止する SAST ツールです
+  ko: gitleaks는 git 저장소에서 비밀번호, api 키, 토큰 같은 하드코딩된 비밀을 감지하고 방지하는 SAST 도구입니다
+  pl: gitleaks to narzędzie SAST do wykrywania i zapobiegania zakodowanym na sztywno sekretom, takim jak hasła, klucze api i tokeny, w repozytoriach git
+  pt: gitleaks é uma ferramenta SAST para detectar e impedir segredos embutidos como senhas, chaves api e tokens em repositórios git
+  ro: gitleaks este un instrument SAST pentru detectarea și prevenirea secretelor hardcoded precum parole, chei api și tokenuri în depozitele git
+  ru: gitleaks — это инструмент SAST для обнаружения и предотвращения жёстко зашитых секретов, таких как пароли, api-ключи и токены, в git-репозиториях
+  th: gitleaks เป็นเครื่องมือ SAST สำหรับตรวจจับและป้องกันข้อมูลลับที่ฝังตายตัว เช่น รหัสผ่าน api key และโทเคน ในที่เก็บ git
+  tr: gitleaks, git depolarında parola, api anahtarları ve belirteçler gibi sabit kodlanmış sırları tespit etmeyi ve önlemeyi sağlayan bir SAST aracıdır
+  uk: gitleaks — інструмент SAST для виявлення та запобігання жорстко зашитим секретам, як-от паролям, api-ключах і токенах, у git-репозиторіях
+  vi: gitleaks là công cụ SAST để phát hiện và ngăn chặn các bí mật hardcode như mật khẩu, api key và token trong kho git
 x:
   source: https://github.com/gitleaks/gitleaks
   eget: gitleaks/gitleaks

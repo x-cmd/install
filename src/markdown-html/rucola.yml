@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个基于终端的 Markdown 笔记管理器，专为 Zettelkasten 风格的笔记系统而设计。
   en: A terminal based markdown note manager designed for zettelkasten-style note systems.
+  cs: Správce poznámek v markdownu pro terminál, navržený pro systémy poznámek ve stylu zettelkasten.
+  de: Ein terminalbasierter Markdown-Notizmanager, entwickelt für Zettelkasten-artige Notizsysteme.
+  es: Un gestor de notas markdown basado en terminal, diseñado para sistemas de notas de estilo zettelkasten.
+  fr: Un gestionnaire de notes markdown en terminal, conçu pour les systèmes de notes de type zettelkasten.
+  id: Pengelola catatan markdown berbasis terminal yang dirancang untuk sistem catatan bergaya zettelkasten.
+  it: Un gestore di note markdown basato su terminale, progettato per sistemi di note in stile zettelkasten.
+  ja: Zettelkasten 形式のノートシステム向けに設計された、ターミナルベースの Markdown ノートマネージャー
+  ko: 지ettelkasten 방식의 노트 시스템을 위해 설계된 터미널 기반 markdown 노트 관리자
+  pl: Terminalowy menedżer not markdown zaprojektowany dla systemów notatek w stylu zettelkasten.
+  pt: Um gerenciador de notas markdown baseado em terminal, projetado para sistemas de notas no estilo zettelkasten.
+  ro: Un manager de note markdown bazat pe terminal, conceput pentru sisteme de note în stil zettelkasten.
+  ru: Терминальный менеджер заметок в формате markdown, созданный для систем заметок в стиле zettelkasten.
+  th: ตัวจัดการบันทึกแบบ markdown บนเทอร์มินัล ออกแบบมาสำหรับระบบบันทึกแนว zettelkasten
+  tr: Zettelkasten tarzı not sistemleri için tasarlanmış, terminal tabanlı bir markdown not yöneticisi.
+  uk: Термінальний менеджер нотаток у форматі markdown, створений для систем нотаток у стилі zettelkasten.
+  vi: Trình quản lý ghi chú markdown dựa trên terminal, được thiết kế cho các hệ thống ghi chú kiểu zettelkasten
 x:
   source: https://github.com/Linus-Mussmaecher/rucola
   brew: Linus-Mussmaecher/tap/rucola

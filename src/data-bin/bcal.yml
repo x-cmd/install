@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: bcal ( 字节 CALculator ) 是一个 REPL CLI 实用程序，用于存储表达式（例如 "(2GiB * 2) / (2KiB >> 2)" ）评估、SI/IEC 转换、字节地址计算、基数转换和 LBA/CHS 计算。
   en: bcal (Byte CALculator) is a REPL CLI utility for storage expression (e.g. "(2GiB * 2) / (2KiB >> 2)") evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
+  cs: bcal (Byte CALculator) je nástroj CLI REPL pro vyhodnocování výrazů úložiště (např. "(2GiB * 2) / (2KiB >> 2)"), převod SI/IEC, výpočet bytových adres, převod soustav a výpočet LBA/CHS.
+  de: bcal (Byte CALculator) ist ein REPL-CLI-Dienstprogramm zur Auswertung von Speicherausdrücken (z. B. "(2GiB * 2) / (2KiB >> 2)"), SI/IEC-Umrechnung, Berechnung von Byte-Adressen, Basisumwandlung und LBA/CHS-Berechnung.
+  es: bcal (Byte CALculator) es una utilidad CLI REPL para evaluar expresiones de almacenamiento (p. ej. "(2GiB * 2) / (2KiB >> 2)"), conversión SI/IEC, cálculo de direcciones en bytes, conversión de bases y cálculo LBA/CHS.
+  fr: bcal (Byte CALculator) est un utilitaire CLI REPL pour l'évaluation d'expressions de stockage (par ex. "(2GiB * 2) / (2KiB >> 2)"), la conversion SI/IEC, le calcul d'adresses en octets, la conversion de bases et le calcul LBA/CHS.
+  id: bcal (Byte CALculator) adalah utilitas CLI REPL untuk mengevaluasi ekspresi penyimpanan (mis. "(2GiB * 2) / (2KiB >> 2)"), konversi SI/IEC, perhitungan alamat byte, konversi basis, dan perhitungan LBA/CHS.
+  it: bcal (Byte CALculator) è un'utilità CLI REPL per la valutazione di espressioni di archiviazione (ad es. "(2GiB * 2) / (2KiB >> 2)"), la conversione SI/IEC, il calcolo degli indirizzi in byte, la conversione di base e il calcolo LBA/CHS.
+  ja: "bcal (Byte CALculator) は、ストレージ式の評価 (例: \"(2GiB * 2) / (2KiB >> 2)\")、SI/IEC 変換、バイトアドレス計算、基数変換、LBA/CHS 計算を行う REPL CLI ユーティリティです。"
+  ko: "bcal(Byte CALculator)은 저장소 표현식(예: \"(2GiB * 2) / (2KiB >> 2)\") 평가, SI/IEC 변환, 바이트 주소 계산, 진법 변환 및 LBA/CHS 계산을 위한 REPL CLI 유틸리티입니다."
+  pl: bcal (Byte CALculator) to narzędzie CLI REPL do obliczania wyrażeń magazynowych (np. "(2GiB * 2) / (2KiB >> 2)"), konwersji SI/IEC, obliczania adresów bajtowych, konwersji systemów liczbowych i obliczania LBA/CHS.
+  pt: bcal (Byte CALculator) é um utilitário CLI REPL para avaliação de expressões de armazenamento (por exemplo, "(2GiB * 2) / (2KiB >> 2)"), conversão SI/IEC, cálculo de endereços em bytes, conversão de bases e cálculo de LBA/CHS.
+  ro: bcal (Byte CALculator) este un utilitar CLI REPL pentru evaluarea expresiilor de stocare (de ex. "(2GiB * 2) / (2KiB >> 2)"), conversia SI/IEC, calculul adreselor în octeți, conversia bazelor și calculul LBA/CHS.
+  ru: bcal (Byte CALculator) — утилита REPL для вычисления выражений хранения (например, "(2GiB * 2) / (2KiB >> 2)"), преобразования SI/IEC, расчёта байтовых адресов, перевода систем счисления и вычисления LBA/CHS.
+  th: bcal (Byte CALculator) เป็นเครื่องมือ REPL CLI สำหรับประเมินนิพจน์การจัดเก็บ (เช่น "(2GiB * 2) / (2KiB >> 2)") การแปลง SI/IEC การคำนวณที่อยู่ไบต์ การแปลงฐาน และการคำนวณ LBA/CHS
+  tr: bcal (Byte CALculator), depolama ifadelerini (ör. "(2GiB * 2) / (2KiB >> 2)") değerlendirmek, SI/IEC dönüşümü, bayt adresi hesaplama, taban dönüşümü ve LBA/CHS hesaplama için bir REPL CLI aracıdır.
+  uk: bcal (Byte CALculator) — утиліта REPL для обчислення виразів сховища (наприклад, "(2GiB * 2) / (2KiB >> 2)"), перетворення SI/IEC, обчислення байтових адрес, переведення систем числення та обчислення LBA/CHS.
+  vi: bcal (Byte CALculator) là tiện ích CLI REPL để tính toán biểu thức lưu trữ (ví dụ "(2GiB * 2) / (2KiB >> 2)"), chuyển đổi SI/IEC, tính địa chỉ byte, chuyển đổi hệ cơ số và tính LBA/CHS.
 x:
   source: https://github.com/jarun/bcal
   eget: jarun/bcal

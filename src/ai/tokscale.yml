@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: tokscale tracks token usage and spend across AI coding agents — Claude Code, Codex, Cursor, Gemini CLI, OpenCode and dozens more — in a terminal TUI, with per-day cost reports and an optional global leaderboard.
   cn: tokscale 在终端 TUI 中统计各家 AI 编码代理——Claude Code、Codex、Cursor、Gemini CLI、OpenCode 等数十种——的 token 用量与花费，按天给出成本报告，并可选上报全球排行榜。
+  cs: tokscale sleduje využití tokenů a náklady napříč AI kódujícími agenty – Claude Code, Codex, Cursor, Gemini CLI, OpenCode a mnoho dalšími – v terminálovém TUI, s denními nákladovými reporty a volitelnou globální žebříčkou.
+  de: tokscale erfasst Token-Verbrauch und Kosten über KI-Coding-Agenten hinweg – Claude Code, Codex, Cursor, Gemini CLI, OpenCode und Dutzende mehr – in einem Terminal-TUI, mit täglichen Kostenberichten und einer optionalen globalen Rangliste.
+  es: tokscale rastrea el uso de tokens y el gasto en agentes de programación con IA — Claude Code, Codex, Cursor, Gemini CLI, OpenCode y muchos más — en una TUI de terminal, con informes de coste diarios y una clasificación global opcional.
+  fr: tokscale suit l'utilisation des jetons et les dépenses des agents de codage IA – Claude Code, Codex, Cursor, Gemini CLI, OpenCode et bien d'autres – dans une TUI de terminal, avec des rapports de coûts quotidiens et un classement mondial optionnel.
+  id: tokscale melacak penggunaan token dan pengeluaran di berbagai agen pengodean AI — Claude Code, Codex, Cursor, Gemini CLI, OpenCode dan banyak lagi — dalam TUI terminal, dengan laporan biaya harian dan peringkat global opsional.
+  it: tokscale monitora l'uso di token e la spesa tra gli agenti di coding IA — Claude Code, Codex, Cursor, Gemini CLI, OpenCode e molti altri — in una TUI da terminale, con report giornalieri dei costi e una classifica globale opzionale.
+  ja: tokscale は、Claude Code、Codex、Cursor、Gemini CLI、OpenCode など数十の AI コーディングエージェントのトークン使用量と費用をターミナル TUI で可視化し、日次のコストレポートと任意のグローバルランキングを提供します。
+  ko: tokscale는 터미널 TUI에서 Claude Code, Codex, Cursor, Gemini CLI, OpenCode 등 수십 개 AI 코딩 에이전트의 토큰 사용량과 비용을 추적하며, 일일 비용 보고와 선택적 글로벌 리더보드를 제공합니다.
+  pl: tokscale śledzi zużycie tokenów i koszty w agentach programistycznych AI – Claude Code, Codex, Cursor, Gemini CLI, OpenCode i wielu innych – w terminalowym TUI, z dziennymi raportami kosztów i opcjonalnym globalnym rankingiem.
+  pt: O tokscale acompanha o uso de tokens e os gastos em agentes de programação com IA — Claude Code, Codex, Cursor, Gemini CLI, OpenCode e dezenas de outros — em uma TUI de terminal, com relatórios de custo diários e um ranking global opcional.
+  ro: tokscale urmărește utilizarea tokenurilor și costurile la agenții de programare cu AI — Claude Code, Codex, Cursor, Gemini CLI, OpenCode și multe altele — într-o TUI de terminal, cu rapoarte zilnice de cost și un clasament global opțional.
+  ru: tokscale отслеживает расход токенов и затраты у ИИ-агентов для написания кода — Claude Code, Codex, Cursor, Gemini CLI, OpenCode и десятки других — в терминальном TUI, с ежедневными отчётами о затратах и необязательным глобальным рейтингом.
+  th: tokscale ติดตามการใช้โทเคนและค่าใช้จ่ายของเอเจนต์เขียนโค้ดด้วย AI — Claude Code, Codex, Cursor, Gemini CLI, OpenCode และอีกจำนวนมาก — ใน TUI บนเทอร์มินัล พร้อมรายงานต้นทุนรายวันและอันดับโลกแบบไม่บังคับ
+  tr: tokscale, Claude Code, Codex, Cursor, Gemini CLI, OpenCode ve onlarca diğer AI kodlama ajanının token kullanımını ve harcamasını terminal TUI'de izler; günlük maliyet raporları ve isteğe bağlı bir genel sıralama sunar.
+  uk: tokscale відстежує витрати токенів і витрати коштів у ШІ-агентів для написання коду — Claude Code, Codex, Cursor, Gemini CLI, OpenCode та десятки інших — у термінальному TUI, із щоденними звітами про витрати та необов'язковим глобальним рейтингом.
+  vi: tokscale theo dõi mức sử dụng token và chi phí trên các tác tử lập trình AI — Claude Code, Codex, Cursor, Gemini CLI, OpenCode và hàng chục tác tử khác — trong TUI terminal, kèm báo cáo chi phí hằng ngày và bảng xếp hạng toàn cầu tùy chọn.
 x:
   source: https://github.com/junhoyeo/tokscale
   npm: tokscale

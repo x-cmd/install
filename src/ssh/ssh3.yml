@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: SSH3 是对 SSH 协议的彻底重新审视，将其语义映射到 HTTP 机制之上
   en: SSH3 is a complete revisit of the SSH protocol, mapping its semantics on top of the HTTP mechanisms
+  cs: SSH3 je důkladný přehodnocení protokolu SSH, které mapuje jeho sémantiku na mechanizmy HTTP
+  de: SSH3 ist eine vollständige Neugestaltung des SSH-Protokolls, die dessen Semantik auf die HTTP-Mechanismen abbildet
+  es: SSH3 es un replanteamiento completo del protocolo SSH, que mapea su semántica sobre los mecanismos de HTTP
+  fr: SSH3 est une refonte complète du protocole SSH, qui mappe sa sémantique sur les mécanismes de HTTP
+  id: SSH3 adalah peninjauan ulang menyeluruh atas protokol SSH, memetakan semantiknya di atas mekanisme HTTP
+  it: SSH3 è un ripensamento completo del protocollo SSH, che ne mappa la semantica sui meccanismi HTTP
+  ja: SSH3 は SSH プロトコルを完全に見直したもので、そのセマンティクスを HTTP の仕組みにマッピングしています
+  ko: SSH3는 SSH 프로토콜을 완전히 재검토하여 그 의미를 HTTP 메커니즘 위에 매핑한 것입니다
+  pl: SSH3 to całkowite przemyślenie protokołu SSH, mapujące jego semantykę na mechanizmy HTTP
+  pt: SSH3 é uma reformulação completa do protocolo SSH, mapeando sua semântica sobre os mecanismos do HTTP
+  ro: SSH3 este o revizuire completă a protocolului SSH, care își mapează semantica peste mecanismele HTTP
+  ru: SSH3 — полная переработка протокола SSH, отображающая его семантику поверх механизмов HTTP
+  th: SSH3 เป็นการปรับโฉมโปรโตคอล SSH ใหม่ทั้งหมด โดยนำความหมายของมันมาแมปบนกลไกของ HTTP
+  tr: SSH3, anlambilirini HTTP mekanizmalarının üzerine eşleyen, SSH protokolünün kapsamlı bir yeniden ele alımıdır
+  uk: SSH3 — повна переробка протоколу SSH, що відображає його семантику поверх механізмів HTTP
+  vi: SSH3 là sự xem xét lại toàn diện giao thức SSH, ánh xạ ngữ nghĩa của nó lên trên các cơ chế HTTP
 x:
   source: https://github.com/francoismichel/ssh3
   eget: francoismichel/ssh3

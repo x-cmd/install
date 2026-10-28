@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 基于 Markdown 的终端无固定形态工作流构建器
   en: 'Terminal Markdown-based shapeless workflow builder'
+  cs: Terminalový bezobrazcový nástroj na tvorbu pracovních postupů založený na Markdownu
+  de: Terminalbasiertes, formloses Markdown-Workflow-Erstellungswerkzeug
+  es: Constructor de flujos de trabajo sin forma basado en Markdown para la terminal
+  fr: Constructeur de flux de travail Markdown sans forme pour le terminal
+  id: Pembangun alur kerja tanpa bentuk berbasis Markdown untuk terminal
+  it: Builder di workflow senza forma basato su Markdown per il terminale
+  ja: Markdown ベースの、形状不定なワークフロー ビルダー
+  ko: 터미널용 Markdown 기반 형태 없는 워크플로 빌더
+  pl: Terminalowy bezzmiatowy kreator przepływów pracy oparty na Markdown
+  pt: Construtor de fluxos de trabalho sem forma baseado em Markdown para o terminal
+  ro: Constructor de fluxuri de lucru fără formă bazat pe Markdown pentru terminal
+  ru: Терминальный бесформенный конструктор рабочих процессов на основе Markdown
+  th: ตัวสร้างเวิร์กโฟลว์แบบไร้รูปร่างที่ใช้ Markdown สำหรับเทอร์มินัล
+  tr: Terminal için Markdown tabanlı, biçimsiz iş akışı oluşturucu
+  uk: Безформний конструктор робочих процесів на основі Markdown для термінала
+  vi: Trình xây dựng quy trình không hình dạng dựa trên Markdown cho terminal
 x:
   source: https://github.com/boolean-maybe/tiki
   eget: boolean-maybe/tiki

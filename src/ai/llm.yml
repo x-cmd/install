@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于与大语言模型进行交互的 CLI
   en: Access large language models from the command-line
+  cs: Přístup k velkým jazykovým modelům z příkazové řádky
+  de: Von der Kommandozeile auf große Sprachmodelle zugreifen
+  es: Accede a los grandes modelos de lenguaje desde la línea de comandos
+  fr: Accédez aux grands modèles de langage depuis la ligne de commande
+  id: Akses model bahasa besar dari baris perintah
+  it: Accedi ai grandi modelli linguistici dalla riga di comando
+  ja: コマンドラインから大規模言語モデルにアクセス
+  ko: 명령줄에서 대형 언어 모델에 접근
+  pl: Dostęp do dużych modeli językowych z wiersza poleceń
+  pt: Acesse grandes modelos de linguagem pela linha de comando
+  ro: Accesați modelele mari de limbaj din linia de comandă
+  ru: Доступ к большим языковым моделям из командной строки
+  th: เข้าถึงโมเดลภาษาขนาดใหญ่จากบรรทัดคำสั่ง
+  tr: Komut satırından büyük dil modellerine erişin
+  uk: Доступ до великих мовних моделей із командного рядка
+  vi: Truy cập các mô hình ngôn ngữ lớn từ dòng lệnh
 x:
   source: https://github.com/simonw/llm
   brew: llm

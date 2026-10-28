@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 字节跳动开源的桌面端 GUI Agent，用自然语言驱动视觉语言模型自动操作本地与远程的桌面及浏览器界面
   en: ByteDance's open-source desktop GUI Agent that drives a vision-language model with natural language to automate local and remote desktop and browser interfaces
+  cs: Open-source desktopový GUI agent od ByteDance, který řídí model vision-language pomocí přirozeného jazyka a automatizuje místní i vzdálené rozhraní desktopu a prohlížeče
+  de: ByteDances quelloffener Desktop-GUI-Agent, der ein Vision-Language-Modell mit natürlicher Sprache steuert, um lokale und entfernte Desktop- und Browser-Oberflächen zu automatisieren
+  es: Agente GUI de escritorio de código abierto de ByteDance que impulsa un modelo de visión y lenguaje con lenguaje natural para automatizar interfaces de escritorio y navegador locales y remotas
+  fr: Agent GUI de bureau open source de ByteDance qui pilote un modèle vision-langage en langage naturel pour automatiser les interfaces locales et distantes de bureau et de navigateur
+  id: Agent GUI desktop open source dari ByteDance yang menggerakkan model vision-language dengan bahasa alami untuk mengotomatiskan antarmuka desktop dan browser lokal maupun jarak jauh
+  it: Agente GUI desktop open source di ByteDance che guida un modello vision-language con linguaggio naturale per automatizzare le interfacce desktop e browser locali e remote
+  ja: ByteDanceのオープンソースのデスクトップGUIエージェント。自然言語で視覚言語モデルを駆動し、ローカルおよびリモートのデスクトップとブラウザのインターフェースを自動操作します
+  ko: ByteDance의 오픈 소스 데스크톱 GUI 에이전트로, 자연어로 비전-언어 모델을 구동해 로컬 및 원격 데스크톱과 브라우저 인터페이스를 자동화합니다
+  pl: Otwartoźródładowy desktopowy agent GUI firmy ByteDance, który steruje modelem vision-language za pomocą języka naturalnego, automatyzując lokalne i zdalne interfejsy pulpitu oraz przeglądarki
+  pt: Agente GUI de desktop de código aberto da ByteDance que conduz um modelo de visão-linguagem com linguagem natural para automatizar interfaces de desktop e navegador locais e remotas
+  ro: Agent GUI desktop open source de la ByteDance care conduce un model vision-language cu limbaj natural pentru a automatiza interfețele desktop și de browser locale și la distanță
+  ru: Открытый десктопный GUI-агент от ByteDance, который управляет моделью vision-language на естественном языке, автоматизируя локальные и удалённые интерфейсы рабочего стола и браузера
+  th: เอเจนต์ GUI เดสก์ท็อปโอเพนซอร์สของ ByteDance ที่ขับเคลื่อนโมเดล vision-language ด้วยภาษาธรรมชาติเพื่อทำให้อินเทอร์เฟซเดสก์ท็อปและเบราว์เซอร์ทั้งแบบในเครื่องและระยะไกลอัตโนมัติ
+  tr: ByteDance'ın açık kaynaklı masaüstü GUI ajanı; doğal dil ile bir görü-lisan modelini yönlendirerek yerel ve uzak masaüstü ile tarayıcı arayüzlerini otomatikleştirir
+  uk: Відкритий десктопний GUI-агент від ByteDance, який керує моделлю vision-language природною мовою, автоматизуючи локальні та віддалені інтерфейси робочого столу й браузера
+  vi: Tác tử GUI desktop mã nguồn mở của ByteDance, điều khiển mô hình vision-language bằng ngôn ngữ tự nhiên để tự động hóa giao diện desktop và trình duyệt cục bộ lẫn từ xa
 x:
   source: https://github.com/bytedance/UI-TARS-desktop
 rule:

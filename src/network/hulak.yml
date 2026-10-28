@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 轻量基于文件的 CLI API 客户端，支持 age 加密密钥与 GraphQL
   en: 'Lightweight file-based CLI API client with age-encrypted secrets and first-class GraphQL support.'
+  cs: Lehký klient CLI API založený na souborech s šifrovanými tajnými údaji age a prvotřídní podporou GraphQL.
+  de: Leichter dateibasierter CLI-API-Client mit age-verschlüsselten Geheimnissen und erstklassiger GraphQL-Unterstützung.
+  es: Cliente de API CLI ligero basado en archivos con secretos cifrados con age y soporte de primera clase para GraphQL.
+  fr: Client d'API CLI léger basé sur les fichiers, avec des secrets chiffrés par age et une prise en charge native de GraphQL.
+  id: Klien API CLI ringan berbasis berkas dengan rahasia terenkripsi age dan dukungan GraphQL kelas satu.
+  it: Client API CLI leggero basato su file con segreti cifrati con age e supporto GraphQL di prima classe.
+  ja: ageで暗号化されたシークレットと第一級のGraphQLサポートを備えた、軽量なファイルベースのCLI APIクライアント。
+  ko: age로 암호화된 비밀과 최상급 GraphQL 지원을 갖춘 가벼운 파일 기반 CLI API 클라이언트.
+  pl: Lekki klient CLI API oparty na plikach, z sekretami szyfrowanymi przez age i natywnym wsparciem GraphQL.
+  pt: Cliente de API CLI leve baseado em arquivos, com segredos criptografados por age e suporte de primeira classe a GraphQL.
+  ro: Client API CLI ușor bazat pe fișiere, cu secrete criptate prin age și suport nativ pentru GraphQL.
+  ru: Лёгкий файловый клиент CLI API с секретами, зашифрованными age, и полноценной поддержкой GraphQL.
+  th: ไคลเอนต์ API CLI แบบไฟล์ที่มีน้ำหนักเบา พร้อมความลับที่เข้ารหัสด้วย age และการรองรับ GraphQL ในระดับสมบูรณ์
+  tr: age ile şifrelenmiş sırlar ve birinci sınıf GraphQL desteğiyle hafif, dosya tabanlı bir CLI API istemcisi.
+  uk: Легкий файловий клієнт CLI API із секретами, зашифрованими age, та повноцінною підтримкою GraphQL.
+  vi: Ứng dụng client API CLI nhẹ dựa trên tệp với bí mật được mã hóa bằng age và hỗ trợ GraphQL đầy đủ.
 x:
   source: https://github.com/xaaha/hulak
   eget: xaaha/hulak

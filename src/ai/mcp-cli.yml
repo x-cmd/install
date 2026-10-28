@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个轻量级的、基于 Bun 的 CLI，用于与 MCP（模型上下文协议） 服务器交互
   en: A lightweight, Bun-based CLI for interacting with MCP (Model Context Protocol) servers.
+  cs: Lehký CLI založený na Bun pro interakci s MCP (Model Context Protocol) servery.
+  de: Eine schlanke, auf Bun basierende CLI zur Interaktion mit MCP-Servern (Model Context Protocol).
+  es: Un CLI ligero basado en Bun para interactuar con servidores MCP (Model Context Protocol).
+  fr: Un CLI léger basé sur Bun pour interagir avec les serveurs MCP (Model Context Protocol).
+  id: CLI ringan berbasis Bun untuk berinteraksi dengan server MCP (Model Context Protocol).
+  it: Una CLI leggera basata su Bun per interagire con i server MCP (Model Context Protocol).
+  ja: MCP (Model Context Protocol) サーバーと対話するための軽量な Bun ベース CLI。
+  ko: MCP (Model Context Protocol) 서버와 상호작용하기 위한 가벼운 Bun 기반 CLI.
+  pl: Lekki interfejs wiersza poleceń oparty na Bun do komunikacji z serwerami MCP (Model Context Protocol).
+  pt: Um CLI leve baseado em Bun para interagir com servidores MCP (Model Context Protocol).
+  ro: Un CLI ușor bazat pe Bun pentru interacțiunea cu serverele MCP (Model Context Protocol).
+  ru: Лёгкий CLI на базе Bun для взаимодействия с серверами MCP (Model Context Protocol).
+  th: CLI แบบเบาที่ใช้ Bun เพื่อโต้ตอบกับเซิร์ฟเวอร์ MCP (Model Context Protocol)
+  tr: MCP (Model Context Protocol) sunucularıyla etkileşim kurmak için hafif, Bun tabanlı bir CLI.
+  uk: Легкий CLI на базі Bun для взаємодії з серверами MCP (Model Context Protocol).
+  vi: CLI nhẹ dựa trên Bun để tương tác với các máy chủ MCP (Model Context Protocol).
 x:
   source: https://github.com/philschmid/mcp-cli
   eget: philschmid/mcp-cli

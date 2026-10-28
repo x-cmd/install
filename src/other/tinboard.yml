@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 基于终端的 pinboard.in 客户端
   en: A terminal-based client for pinboard.in
+  cs: Klient pinboard.in pro terminál
+  de: Ein Terminal-Client für pinboard.in
+  es: Un cliente de pinboard.in para la terminal
+  fr: Un client pinboard.in pour le terminal
+  id: Klien pinboard.in berbasis terminal
+  it: Un client pinboard.in per terminale
+  ja: pinboard.in のターミナルクライアント
+  ko: 터미널용 pinboard.in 클라이언트
+  pl: Klient pinboard.in dla terminala
+  pt: Um cliente do pinboard.in para o terminal
+  ro: Un client pinboard.in pentru terminal
+  ru: Консольный клиент для pinboard.in
+  th: ไคลเอนต์ pinboard.in สำหรับเทอร์มินัล
+  tr: pinboard.in için bir terminal istemcisi
+  uk: Термінальний клієнт для pinboard.in
+  vi: Ứng dụng khách cho pinboard.in chạy trên terminal
 x:
   source: https://github.com/davep/tinboard
   brew: davep/homebrew/tinboard

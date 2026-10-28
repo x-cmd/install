@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 可配置的 Unix TUI 剪贴板管理器
   en: Configurable TUI clipboard manager for Unix
+  cs: Konfigurovatelný TUI správce schránky pro Unix
+  de: Konfigurierbarer TUI-Zwischenablage-Manager für Unix
+  es: Gestor de portapapeles TUI configurable para Unix
+  fr: Gestionnaire de presse-papiers TUI configurable pour Unix
+  id: Manajer clipboard TUI yang dapat dikonfigurasi untuk Unix
+  it: Gestore clipboard TUI configurabile per Unix
+  ja: Unix向けの設定可能なTUIクリップボードマネージャー
+  ko: Unix를 위한 설정 가능한 TUI 클립보드 관리자
+  pl: Konfigurowalny menedżer schowka TUI dla systemu Unix
+  pt: Gerenciador de área de transferência TUI configurável para Unix
+  ro: Manager de clipboard TUI configurabil pentru Unix
+  ru: Настраиваемый TUI-менеджер буфера обмена для Unix
+  th: ตัวจัดการคลิปบอร์ด TUI ที่กำหนดค่าได้สำหรับ Unix
+  tr: Unix için yapılandırılabilir TUI pano yöneticisi
+  uk: Налаштовуваний TUI-менеджер буфера обміну для Unix
+  vi: Trình quản lý bảng tạm TUI có thể cấu hình cho Unix
 x:
   source: https://github.com/savedra1/clipse
   eget: savedra1/clipse

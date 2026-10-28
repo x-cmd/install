@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于管理和维护多语言预提交挂钩的框架
   en: A framework for managing and maintaining multi-language pre-commit hooks.
+  cs: Rámec pro správu a údržbu předcommitových hooků ve více jazycích.
+  de: Ein Framework zur Verwaltung und Pflege von Pre-Commit-Hooks in mehreren Sprachen.
+  es: Un framework para gestionar y mantener hooks de pre-commit en varios lenguajes.
+  fr: Un framework pour gérer et maintenir des hooks pre-commit multilingues.
+  id: Framework untuk mengelola dan memelihara hook pre-commit multibahasa.
+  it: Un framework per gestire e mantenere hook pre-commit multilingue.
+  ja: 多言語のpre-commitフックを管理・保守するためのフレームワーク。
+  ko: 다국어 pre-commit 훅을 관리하고 유지하는 프레임워크.
+  pl: Framework do zarządzania i utrzymania hooków pre-commit w wielu językach.
+  pt: Um framework para gerenciar e manter hooks de pre-commit em várias linguagens.
+  ro: Un cadru pentru gestionarea și întreținerea hook-urilor pre-commit în mai multe limbi.
+  ru: Фреймворк для управления и поддержки pre-commit хуков на разных языках.
+  th: เฟรมเวิร์กสำหรับจัดการและดูแล pre-commit hook แบบหลายภาษา
+  tr: Çok dilli pre-commit hook'larını yönetmek ve bakımını yapmak için bir çerçeve.
+  uk: Фреймворк для керування та підтримки pre-commit хуків різними мовами.
+  vi: Một framework để quản lý và bảo trì các hook pre-commit đa ngôn ngữ.
 x:
   source: https://github.com/pre-commit/pre-commit
   eget: pre-commit/pre-commit

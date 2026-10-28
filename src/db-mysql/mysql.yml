@@ -3,6 +3,22 @@ homepage: https://github.com/mysql/mysql-server
 desc:
   cn: 开源关系数据库管理系统
   en: Open source relational database management system
+  cs: Open source systém správy relačních databází
+  de: Open-Source-System zur Verwaltung relationaler Datenbanken
+  es: Sistema de gestión de bases de datos relacionales de código abierto
+  fr: Système de gestion de bases de données relationnelles open source
+  id: Sistem manajemen basis data relasional sumber terbuka
+  it: Sistema di gestione di database relazionali open source
+  ja: オープンソースのリレーショナルデータベース管理システム
+  ko: 오픈 소스 관계형 데이터베이스 관리 시스템
+  pl: Otwartoźródłowy system zarządzania relacyjnymi bazami danych
+  pt: Sistema de gerenciamento de banco de dados relacional de código aberto
+  ro: Sistem open source de gestionare a bazelor de date relaționale
+  ru: Открытая система управления реляционными базами данных
+  th: ระบบจัดการฐานข้อมูลเชิงสัมพันธ์แบบโอเพนซอร์ส
+  tr: Açık kaynak ilişkisel veritabanı yönetim sistemi
+  uk: Відкрита система керування реляційними базами даних
+  vi: Hệ thống quản lý cơ sở dữ liệu quan hệ mã nguồn mở
 x:
   source: https://github.com/mysql/mysql-server
   apt: mysql-server

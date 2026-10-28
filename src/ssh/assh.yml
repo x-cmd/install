@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: assh 是一个智能工具，旨在紧密包裹您的 SSH 和增强它，就像一个超级英雄服装，有各种小工具安装
   en: assh is a smart tool that was designed to wrap tightly around your SSH and enhance it, like a superhero suit that has various gadgets installed
+  cs: assh je chytrý nástroj navržený tak, aby těsně obalil váš SSH a vylepšil jej, jako superhradský oblek s různými pomůckami
+  de: assh ist ein intelligentes Werkzeug, das eng um Ihr SSH herum gebaut wurde und es verbessert, wie ein Superheldenanzug mit verschiedenen Gadgets
+  es: assh es una herramienta inteligente diseñada para envolver tu SSH y mejorarlo, como un traje de superhéroe con varios dispositivos
+  fr: assh est un outil intelligent conçu pour envelopper étroitement votre SSH et l'améliorer, comme une suite de super-héros équipée de divers gadgets
+  id: assh adalah alat cerdas yang dirancang untuk membungkus SSH Anda dengan ketat dan meningkatkannya, seperti jas superheroes dengan berbagai gadget
+  it: assh è un utensile intelligente progettato per avvolgere strettamente il tuo SSH e migliorarlo, come una tuta da supereroe con vari accessori
+  ja: assh は SSH をしっかり包み込んで強化するように設計されたスマートなツールで、スーパーヒーローのスーツのようにさまざまな小型装置を備えています。
+  ko: assh는 SSH를 밀착해 감싸고 강화하도록 설계된 스마트 도구로, 여러 가지 장치가 달린 슈퍼히어로복과 같습니다
+  pl: assh to inteligentne narzędzie zaprojektowane tak, by ściśle opakować SSH i ulepszyć go, jak strój superbohatera z różnymi gadżetami
+  pt: O assh é uma ferramenta inteligente projetada para envolver de perto o seu SSH e melhorá-lo, como um traje de super-herói com vários dispositivos
+  ro: assh este un instrument inteligent conceput pentru a înfășura strâns SSH-ul și a-l îmbunătăți, ca o costuma de super-erou cu diverse gadgeturi
+  ru: assh — умный инструмент, созданный, чтобы плотно обернуть ваш SSH и расширить его возможности, как костюм супергероя с разными приспособлениями
+  th: assh เป็นเครื่องมืออัจฉริยะที่ออกแบบมาเพื่อห่อหุ้ม SSH ของคุณอย่างแน่นและเพิ่มความสามารถ เหมือนชุดซูเปอร์ฮีโร่ที่มีอุปกรณ์หลากหลาย
+  tr: assh, SSH'nizin etrafını sıkıca sarıp geliştirmek üzere tasarlanmış akıllı bir araçtır; çeşitli cihazlarla donatılmış bir süper kahraman kostümü gibidir
+  uk: assh — розумний інструмент, створений, щоб щільно обгорнути ваш SSH і розширити його можливості, як костюм супергероя з різними пристроями
+  vi: assh là công cụ thông minh được thiết kế để bọc sát SSH của bạn và tăng cường nó, như một bộ đồ siêu anh hùng có nhiều thiết bị
 x:
   source: https://github.com/moul/assh
   eget: moul/assh

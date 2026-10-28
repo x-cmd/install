@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GPTUI 是一个在终端中运行的 GPT 对话 TUI 工具
   en: GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal
+  cs: GPTUI je nástroj pro konverzační TUI (Textual User Interface) s GPT, který běží v terminálu
+  de: GPTUI ist ein GPT-Konversations-TUI-Tool (Textual User Interface), das im Terminal läuft
+  es: GPTUI es una herramienta TUI conversacional (Textual User Interface) de GPT que se ejecuta en el terminal
+  fr: GPTUI est un outil TUI (Textual User Interface) conversationnel GPT qui fonctionne dans le terminal
+  id: GPTUI adalah alat TUI (Textual User Interface) percakapan GPT yang berjalan di dalam terminal
+  it: GPTUI è uno strumento TUI (Textual User Interface) conversazionale per GPT che viene eseguito nel terminale
+  ja: GPTUI はターミナル内で動作する GPT 会話用 TUI (Textual User Interface) ツールです
+  ko: GPTUI는 터미널에서 실행되는 GPT 대화용 TUI(Textual User Interface) 도구입니다
+  pl: GPTUI to narzędzie TUI (Textual User Interface) do rozmów z GPT, działające w terminalu
+  pt: GPTUI é uma ferramenta TUI (Textual User Interface) conversacional de GPT que roda dentro do terminal
+  ro: GPTUI este un instrument TUI (Textual User Interface) conversational cu GPT care rulește în terminal
+  ru: GPTUI — это инструмент TUI (Textual User Interface) для диалога с GPT, работающий в терминале
+  th: GPTUI คือเครื่องมือ TUI (Textual User Interface) สำหรับสนทนากับ GPT ที่ทำงานอยู่ในเทอร์มินัล
+  tr: GPTUI, terminalde çalışan GPT sohbet TUI (Textual User Interface) aracıdır
+  uk: GPTUI — це інструмент TUI (Textual User Interface) для спілкування з GPT, що працює в терміналі
+  vi: GPTUI là công cụ TUI (Textual User Interface) trò chuyện với GPT chạy ngay trong terminal
 x:
   source: https://github.com/happyapplehorse/gptui
   pip: gptui

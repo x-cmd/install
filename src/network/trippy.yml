@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Trippy 结合了 traceroute 和 ping 的功能，旨在协助分析网络问题
   en: Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues
+  cs: Trippy kombinuje funkce traceroute a ping a je navržen k pomoci při analýze problémů se sítí
+  de: Trippy kombiniert die Funktionen von traceroute und ping und soll bei der Analyse von Netzwerkproblemen helfen
+  es: Trippy combina la funcionalidad de traceroute y ping, y está diseñado para ayudar en el análisis de problemas de red
+  fr: Trippy combine les fonctionnalités de traceroute et de ping et est conçu pour faciliter l'analyse des problèmes réseau
+  id: Trippy menggabungkan fungsi traceroute dan ping dan dirancang untuk membantu analisis masalah jaringan
+  it: Trippy combina le funzionalità di traceroute e ping ed è progettato per assistere l'analisi dei problemi di rete
+  ja: Trippy は traceroute と ping の機能を組み合わせ、ネットワーク問題の分析を支援するために設計されています。
+  ko: Trippy는 traceroute와 ping의 기능을 결합하여 네트워크 문제 분석을 지원하도록 설계되었습니다.
+  pl: Trippy łączy funkcje traceroute i ping i został zaprojektowany, aby pomagać w analizie problemów z siecią
+  pt: O Trippy combina a funcionalidade do traceroute e do ping e foi projetado para ajudar na análise de problemas de rede
+  ro: Trippy combină funcționalitatea lui traceroute și ping și este conceput pentru a ajuta la analizarea problemelor de rețea
+  ru: Trippy объединяет возможности traceroute и ping и предназначен для помощи в анализе сетевых проблем
+  th: Trippy รวมความสามารถของ traceroute และ ping ไว้ด้วยกัน และออกแบบมาเพื่อช่วยวิเคราะห์ปัญหาเครือข่าย
+  tr: Trippy, traceroute ve ping işlevlerini birleştirir ve ağ sorunlarının analizinde yardımcı olmak üzere tasarlanmıştır
+  uk: Trippy поєднує можливості traceroute та ping і призначений для допомоги в аналізі мережевих проблем
+  vi: Trippy kết hợp chức năng của traceroute và ping, được thiết kế để hỗ trợ phân tích các sự cố mạng
 x:
   source: https://github.com/fujiapple852/trippy
   eget: fujiapple852/trippy

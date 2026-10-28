@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 根据标准输出的 SPDX ID 编写一个许可证
   en: Write a license to standard output given its SPDX ID
+  cs: Zapíše licenci na standardní výstup podle jejího SPDX ID
+  de: Schreibt eine Lizenz anhand ihrer SPDX-ID auf die Standardausgabe
+  es: Escribe una licencia en la salida estándar dado su ID de SPDX
+  fr: Écrit une licence sur la sortie standard à partir de son identifiant SPDX
+  id: Menuliskan lisensi ke output standar berdasarkan SPDX ID-nya
+  it: Scrive una licenza sull'output standard in base al suo ID SPDX
+  ja: SPDX ID を指定すると、標準出力にライセンスを書き出します
+  ko: SPDX ID를 주면 표준 출력에 라이선스를 작성합니다
+  pl: Zapisuje licencję na standardowym wyjściu na podstawie jej identyfikatora SPDX
+  pt: Escreve uma licença na saída padrão dado o seu ID SPDX
+  ro: Scrie o licență pe ieșirea standard în funcție de ID-ul SPDX
+  ru: Выводит лицензию в стандартный вывод по её SPDX ID
+  th: เขียนข้อกำหนดสิทธิ์ใช้งานลงเอาต์พุตมาตรฐานตาม SPDX ID
+  tr: Verilen SPDX ID ile lisansı standart çıktıya yazar
+  uk: Виводить ліцензію у стандартний вивід за її SPDX ID
+  vi: Ghi giấy phép quyền ra đầu ra tiêu chuẩn theo SPDX ID của nó
 x:
   source: https://github.com/raftario/licensor
   eget: raftario/licensor

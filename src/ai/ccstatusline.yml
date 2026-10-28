@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 高度可自定义的 Claude Code CLI 状态行格式化器，支持主题、Powerline 分隔符与渐变色，可展示模型、Git 分支、Token 用量、缓存命中率等指标
   en: A highly customizable statusline formatter for Claude Code CLI with Powerline support, themes, and widgets for model info, git branch, token usage, cache hit rate, and more.
+  cs: Vysoce přizpůsobitelný formátovač stavového řádku pro Claude Code CLI s podporou Powerline, motivy a widgety pro informace o modelu, git větev, spotřebu tokenů, míru cache hitů a další.
+  de: Ein hochgradig anpassbarer Statuszeilen-Formatter für Claude Code CLI mit Powerline-Unterstützung, Themes und Widgets für Modellinformationen, Git-Branch, Token-Verbrauch, Cache-Hit-Rate und mehr.
+  es: Un formateador de línea de estado altamente personalizable para Claude Code CLI, con soporte de Powerline, temas y widgets para información del modelo, rama de git, uso de tokens, tasa de aciertos de caché y más.
+  fr: Un formateur de ligne de statut très personnalisable pour Claude Code CLI, avec prise en charge de Powerline, thèmes et widgets pour les infos du modèle, la branche git, l'utilisation de jetons, le taux de cache et plus encore.
+  id: Formatter statusline yang sangat dapat dikustomisasi untuk Claude Code CLI dengan dukungan Powerline, tema, dan widget untuk info model, branch git, penggunaan token, tingkat cache hit, dan lainnya.
+  it: Un formattatore di status line altamente personalizzabile per Claude Code CLI con supporto Powerline, temi e widget per informazioni sul modello, branch git, utilizizzo dei token, cache hit rate e altro.
+  ja: Claude Code CLI 向けの高度にカスタマイズ可能なステータスラインフォーマッター。Powerline 対応、テーマ、モデル情報・git ブランチ・トークン使用量・キャッシュヒット率などのウィジェットを備えています。
+  ko: Claude Code CLI를 위한 고도로 사용자 지정 가능한 상태줄 포매터로, Powerline 지원, 테마, 모델 정보·git 브랜치·토큰 사용량·캐시 적중률 등의 위젯을 제공합니다.
+  pl: Wysoce konfigurowalny formatter linii stanu dla Claude Code CLI z obsługą Powerline, motywami i widżetami dla informacji o modelu, gałęzi git, zużycia tokenów, skuteczności cache i więcej.
+  pt: Um formatador de linha de status altamente personalizável para Claude Code CLI, com suporte a Powerline, temas e widgets para informações do modelo, branch do git, uso de tokens, taxa de acerto de cache e muito mais.
+  ro: Un formatator de linie de stare extrem de configurabil pentru Claude Code CLI, cu suport Powerline, teme și widget-uri pentru informații despre model, ramură git, utilizarea tokenurilor, rată de cache hit și multe altele.
+  ru: Высоконастраиваемый форматитер строки состояния для Claude Code CLI с поддержкой Powerline, темами и виджетами для информации о модели, ветке git, расхода токенов, доли попаданий в кэш и многого другого.
+  th: ตัวจัดรูปแบบบรรทัดสถานะที่ปรับแต่งได้สูงสำหรับ Claude Code CLI พร้อมรองรับ Powerline ธีม และวิดเจ็ตข้อมูลโมเดล git branch การใช้โทเคน และอัตราแคชฮิต เป็นต้น
+  tr: Claude Code CLI için Powerline desteği, temalar ve model bilgisi, git dalı, jeton kullanımı, önbellek isabet oranı ve fazlası için widget'lar içeren son derece özelleştirilebilir durum satırı biçimlendiricisi.
+  uk: Високоналаштовуваний форматор рядка стану для Claude Code CLI з підтримкою Powerline, темами та віджетами для інформації про модель, гілку git, витрати токенів, частку попадань у кеш та іншого.
+  vi: Trình định dạng dòng trạng thái cực kỳ tùy chỉnh cho Claude Code CLI với hỗ trợ Powerline, chủ đề và các widget cho thông tin mô hình, nhánh git, mức dùng token, tỷ lệ trúng bộ nhớ đệm và hơn thế.
 x:
   source: https://github.com/sirmalloc/ccstatusline
   npm: ccstatusline

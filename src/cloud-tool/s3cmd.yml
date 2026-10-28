@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 适用于 Linux 和 Mac 的命令行 S3 客户端和备份工具
   en: Command Line S3 Client and Backup for Linux and Mac
+  cs: Klient S3 a záložní nástroj pro příkazovou řádku pro Linux a Mac
+  de: Kommandozeilen-S3-Client und Backup für Linux und Mac
+  es: Cliente de línea de comandos S3 y copia de seguridad para Linux y Mac
+  fr: Client S3 en ligne de commande et sauvegarde pour Linux et Mac
+  id: Klien S3 berbasis baris perintah dan alat cadangan untuk Linux dan Mac
+  it: Client S3 a riga di comando e backup per Linux e Mac
+  ja: Linux と Mac 向けのコマンドライン S3 クライアントおよびバックアップツール
+  ko: Linux와 Mac용 명령줄 S3 클라이언트 및 백업 도구
+  pl: Klient S3 wiersza poleceń i kopia zapasowa dla Linux i Mac
+  pt: Cliente de linha de comando S3 e backup para Linux e Mac
+  ro: Client S3 în linie de comandă și copie de rezervă pentru Linux și Mac
+  ru: Командный клиент S3 и инструмент резервного копирования для Linux и Mac
+  th: ไคลเอนต์ S3 บรรทัดคำสั่งและเครื่องมือสำรองข้อมูลสำหรับ Linux และ Mac
+  tr: Linux ve Mac için komut satırı S3 istemcisi ve yedekleme aracı
+  uk: Командний клієнт S3 та інструмент резервного копіювання для Linux і Mac
+  vi: Khách hàng S3 dòng lệnh và công cụ sao lưu cho Linux và Mac
 x:
   source: https://github.com/s3tools/s3cmd
   eget: s3tools/s3cmd

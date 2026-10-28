@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Erlang 是一种编程语言，用于构建对高可用性有要求的大规模可扩展软实时系统
   en: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability
+  cs: Erlang je programovací jazyk používaný k budování masivně škálovatelných softwarových systémů v reálném čase s požadavky na vysokou dostupnost
+  de: Erlang ist eine Programmiersprache zum Bauen von massiv skalierbaren Soft-Real-Time-Systemen mit hohen Anforderungen an die Verfügbarkeit
+  es: Erlang es un lenguaje de programación usado para crear sistemas de software soft real-time altamente escalables con requisitos de alta disponibilidad
+  fr: Erlang est un langage de programmation utilisé pour construire des systèmes logiciels soft real-time massivement évolutifs avec des exigences de haute disponibilité
+  id: Erlang adalah bahasa pemrograman yang digunakan untuk membangun sistem soft real-time berskala besar dengan ketersediaan tinggi
+  it: Erlang è un linguaggio di programmazione usato per costruire sistemi software soft real-time altamente scalabili con requisiti di alta disponibilità
+  ja: Erlang は、高可用性が求められる大规模な拡張可能なソフトリアルタイムシステムを構築するためのプログラミング言語です
+  ko: Erlang은 높은 가용성이 필요한 대용량 확장 가능한 소프트 실시간 시스템을 구축하기 위한 프로그래밍 언어입니다
+  pl: Erlang to język programowania używany do budowania masywnie skalowalnych systemów soft real-time z wymaganiami wysokiej dostępności
+  pt: Erlang é uma linguagem de programação usada para construir sistemas de software soft real-time altamente escaláveis com requisitos de alta disponibilidade
+  ro: Erlang este un limbaj de programare folosit pentru a construi sisteme software soft real-time masiv scalabile, cu cerințe de înaltă disponibilitate
+  ru: Erlang — это язык программирования для создания массово масштабируемых soft real-time систем с требованиями высокой доступности
+  th: Erlang คือภาษาโปรแกรมที่ใช้สร้างระบบซอฟต์เรียลไทม์ที่ปรับขยายได้ขนาดใหญ่ พร้อมความต้องการด้านการให้บริการความพร้อมสูง
+  tr: Erlang, yüksek erişilebilirlik gereksinimleriyle büyük ölçekli ve ölçeklenebilir soft gerçek zamanlı sistemler kurmak için kullanılan bir programlama dilidir
+  uk: Erlang — мова програмування для створення масово масштабованих систем реального часу з вимогами високої доступності
+  vi: Erlang là ngôn ngữ lập trình dùng để xây dựng các hệ thống soft real-time có quy mô lớn, mở rộng tốt với yêu cầu tính sẵn sàng cao
 x:
   source: https://github.com/erlang/otp
   eget: erlang/otp

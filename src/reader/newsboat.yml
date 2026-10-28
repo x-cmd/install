@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: An RSS/Atom feed reader for text terminals
   cn: 一个 terminal 上的 RSS/Atom feed 阅读器
+  cs: Čtečka RSS/Atom feedů pro textové terminály
+  de: Ein RSS/Atom-Feed-Reader für Textterminals
+  es: Un lector de feeds RSS/Atom para terminales de texto
+  fr: Un lecteur de flux RSS/Atom pour terminaux texte
+  id: Pembaca feed RSS/Atom untuk terminal teks
+  it: Un lettore di feed RSS/Atom per terminali testuali
+  ja: テキスト端末向けの RSS/Atom フィードリーダー
+  ko: 텍스트 터미널을 위한 RSS/Atom 피드 리더
+  pl: Czytnik kanałów RSS/Atom dla terminali tekstowych
+  pt: Um leitor de feeds RSS/Atom para terminais de texto
+  ro: Un cititor de fluxuri RSS/Atom pentru terminale text
+  ru: Читалка RSS/Atom-лент для текстовых терминалов
+  th: โปรแกรมอ่านฟีด RSS/Atom สำหรับเทอร์มินัลข้อความ
+  tr: Metin terminalleri için bir RSS/Atom akış okuyucu
+  uk: Читалка RSS/Atom-стрімів для текстових терміналів
+  vi: Trình đọc nguồn tin RSS/Atom cho terminal văn bản
 x:
   source: https://github.com/newsboat/newsboat
   brew: newsboat

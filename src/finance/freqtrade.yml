@@ -4,6 +4,22 @@ license: gpl-3.0
 desc:
   cn: 用 Python 编写的开源加密货币交易机器人，支持回测、策略优化、机器学习与自动交易，可通过 WebUI 或 Telegram 控制
   en: Develop, backtest, and deploy automated cryptocurrency trading bots using Python and machine learning.
+  cs: Vyvíjejte, testujte zpětně a nasazujte automatizované obchodní boty s kryptoměnami pomocí Pythonu a strojového učení.
+  de: Entwickeln, backtesten und deployen Sie automatisierte Kryptowährungs-Trading-Bots mit Python und Machine Learning.
+  es: Desarrolla, haz backtesting y despliega bots de trading automatizado de criptomonedas con Python y aprendizaje automático.
+  fr: Développez, testez en backtest et déployez des bots de trading automatisé de cryptomonnaies avec Python et l'apprentissage automatique.
+  id: Kembangkan, uji ulang, dan jalankan bot perdagangan otomatis mata uang kripto menggunakan Python dan machine learning.
+  it: Sviluppa, esegui backtest e distribuisci bot di trading automatico di criptovalute con Python e machine learning.
+  ja: Pythonと機械学習を使って自動化された暗号資産取引ボットを開発・バックテスト・デプロイします。
+  ko: Python과 머신러닝을 사용해 자동화된 암호화폐 거래 봇을 개발하고 백테스트하며 배포하세요.
+  pl: Twórz, testuj wstecznie i wdrażaj zautomatyzowane boty handlujące kryptowalutami przy użyciu Pythona i uczenia maszynowego.
+  pt: Desenvolva, faça backtest e implimente bots de negociação automatizada de criptomoedas usando Python e aprendizado de máquina.
+  ro: Dezvoltați, faceți backtesting și deployați boți de tranzacționare automatizată cu criptomonede folosind Python și învățare automată.
+  ru: Разрабатывайте, тестируйте на исторических данных и разворачивайте автоматизированных криптовалютных торговых ботов с помощью Python и машинного обучения.
+  th: พัฒนา แบ็กเทสต์ และประสงค์บอทเทรดคริปโตแบบอัตโนมัติด้วย Python และการเรียนรู้ของเครื่อง
+  tr: Python ve makine öğrenmesi kullanarak otomatik kripto para işlem botları geliştirin, geriye dönük test edin ve dağıtın.
+  uk: Розробляйте, тестуйте на історичних даних і розгортайте автоматизованих криптовалютних торгових ботів за допомогою Python і машинного навчання.
+  vi: Phát triển, kiểm thử hồi quy và triển khai bot giao dịch tiền mã hóa tự động bằng Python và học máy.
 x:
   source: https://github.com/freqtrade/freqtrade
   pip: freqtrade

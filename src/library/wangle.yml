@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Wangle is a library that makes it easy to build protocols, application clients, and application servers
   cn: Wangle 是一个可以轻松构建协议、应用程序客户端和应用服务器的库
+  cs: Wangle je knihovna, která usnadňuje tvorbu protokolů, aplikačních klientů a aplikačních serverů
+  de: Wangle ist eine Bibliothek, die das Erstellen von Protokollen, Anwendung-Clients und Anwendung-Servern erleichtert
+  es: Wangle es una biblioteca que facilita la creación de protocolos, clientes de aplicaciones y servidores de aplicaciones
+  fr: Wangle est une bibliothèque qui facilite la création de protocoles, de clients d'application et de serveurs d'application
+  id: Wangle adalah pustaka yang memudahkan pembuatan protokol, klien aplikasi, dan server aplikasi
+  it: Wangle è una libreria che facilita la creazione di protocolli, client applicativi e server applicativi
+  ja: Wangle は、プロトコル、アプリケーションクライアント、アプリケーションサーバーを簡単に構築できるライブラリです
+  ko: Wangle은 프로토콜, 애플리케이션 클라이언트 및 애플리케이션 서버를 쉽게 구축할 수 있게 하는 라이브러리입니다
+  pl: Wangle to biblioteka ułatwiająca tworzenie protokołów, klientów aplikacji i serwerów aplikacji
+  pt: Wangle é uma biblioteca que facilita a criação de protocolos, clientes de aplicativo e servidores de aplicativo
+  ro: Wangle este o bibliotecă care facilitează construirea de protocoale, clienți de aplicații și servere de aplicații
+  ru: Wangle — это библиотека, упрощающая создание протоколов, клиентов приложений и серверов приложений
+  th: Wangle คือไลบรารีที่ช่วยให้สร้างโปรโตคอล ไคลเอนต์แอปพลิเคชัน และเซิร์ฟเวอร์แอปพลิเคชันได้อย่างง่ายดาย
+  tr: Wangle, protokoller, uygulama istemcileri ve uygulama sunucuları oluşturmayı kolaylaştıran bir kitaplıktır
+  uk: Wangle — це бібліотека, яка полегшує створення протоколів, клієнтів застосунків і серверів застосунків
+  vi: Wangle là thư viện giúp dễ dàng xây dựng giao thức, client ứng dụng và server ứng dụng
 x:
   source: https://github.com/facebook/wangle
   eget: facebook/wangle

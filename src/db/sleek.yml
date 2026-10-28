@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Sleek 是一个用于格式化 SQL 的 CLI 工具。它可以帮助您在 SQL 代码中保持一致的样式，从而提高可读性和生产力
   en: Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity
+  cs: Sleek je nástroj CLI pro formátování SQL. Pomáhá vám udržovat jednotný styl v kódu SQL, což zvyšuje čitelnost a produktivitu
+  de: Sleek ist ein CLI-Werkzeug zum Formatieren von SQL. Es hilft Ihnen, einen einheitlichen Stil in Ihrem SQL-Code beizubehalten und verbessert Lesbarkeit und Produktivität
+  es: Sleek es una herramienta CLI para formatear SQL. Te ayuda a mantener un estilo coherente en tu código SQL, mejorando la legibilidad y la productividad
+  fr: Sleek est un outil CLI pour formater le SQL. Il vous aide à maintenir un style cohérent dans votre code SQL, ce qui améliore la lisibilité et la productivité
+  id: Sleek adalah alat CLI untuk memformat SQL. Alat ini membantu Anda menjaga gaya yang konsisten di seluruh kode SQL, meningkatkan keterbacaan dan produktivitas
+  it: Sleek è uno strumento CLI per formattare l'SQL. Ti aiuta a mantenere uno stile coerente nel tuo codice SQL, migliorando leggibilità e produttività
+  ja: Sleek は SQL をフォーマットする CLI ツールです。SQL コード全体で一貫したスタイルを維持し、可読性と生産性を向上させます
+  ko: Sleek는 SQL을 서식 지정하는 CLI 도구입니다. SQL 코드 전체에서 일관된 스타일을 유지하도록 도와 가독성과 생산성을 높여줍니다
+  pl: Sleek to narzędzie CLI do formatowania SQL. Pomaga utrzymać spójny styl w kodzie SQL, zwiększając czytelność i produktywność
+  pt: O Sleek é uma ferramenta CLI para formatar SQL. Ajuda você a manter um estilo consistente em seu código SQL, melhorando a legibilidade e a produtividade
+  ro: Sleek este un instrument CLI pentru formatarea SQL. Vă ajută să mențineți un stil consecvent în codul SQL, crescând lizibilitatea și productivitatea
+  ru: Sleek — это CLI-инструмент для форматирования SQL. Он помогает поддерживать единый стиль в коде SQL, повышая читаемость и продуктивность
+  th: Sleek คือเครื่องมือ CLI สำหรับจัดรูปแบบ SQL ช่วยให้คุณรักษารูปแบบโค้ด SQL ให้สม่ำเสมอ ทั้งอ่านง่ายและทำงานได้ดีขึ้น
+  tr: Sleek, SQL biçimlendirmek için bir CLI aracıdır. SQL kodunuzda tutarlı bir stil korumanıza yardımcı olur, okunabilirliği ve üretkenliği artırır
+  uk: Sleek — це CLI-інструмент для форматування SQL. Він допомагає підтримувати єдиний стиль у вашому SQL-коді, підвищуючи читабельність і продуктивність
+  vi: Sleek là công cụ CLI để định dạng SQL. Công cụ giúp bạn duy trì phong cách nhất quán trong mã SQL, tăng khả năng đọc và năng suất
 x:
   source: https://github.com/nrempel/sleek
   eget: nrempel/sleek

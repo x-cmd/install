@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: AI 智能体技能，跨 Reddit、X、YouTube、HN、Polymarket 与全网研究任意话题并合成有据总结
   en: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+  cs: Dovednost AI agenta, která prozkoumá jakékoli téma na Redditu, X, YouTube, HN, Polymarketu a na webu a poté vytvoří podložené shrnutí
+  de: KI-Agenten-Skill, der ein beliebiges Thema über Reddit, X, YouTube, HN, Polymarket und das Web recherchiert und anschließend eine belegte Zusammenfassung erstellt
+  es: Habilidad de agente de IA que investiga cualquier tema en Reddit, X, YouTube, HN, Polymarket y la web, y luego sintetiza un resumen fundamentado
+  fr: Compétence d'agent IA qui recherche n'importe quel sujet sur Reddit, X, YouTube, HN, Polymarket et le web, puis synthétise un résumé étayé
+  id: Keterampilan agen AI yang meneliti topik apa pun di Reddit, X, YouTube, HN, Polymarket, dan web, lalu menyusun ringkasan berbasis fakta
+  it: Skill per agenti AI che ricerca qualsiasi argomento su Reddit, X, YouTube, HN, Polymarket e sul web, poi sintetizza un riepilogo fondato
+  ja: Reddit、X、YouTube、HN、Polymarket、およびウェブ上のあらゆるテーマを調査し、根拠のある要約にまとめるAIエージェントスキル
+  ko: Reddit, X, YouTube, HN, Polymarket 및 웹에서 모든 주제를 조사한 뒤 근거 있는 요약으로 종합하는 AI 에이전트 스킬
+  pl: Umiejętność agenta AI, która bada dowolny temat w Reddit, X, YouTube, HN, Polymarket i w sieci, a następnie tworzy uzasadnione podsumowanie
+  pt: Habilidade de agente de IA que pesquisa qualquer tema no Reddit, X, YouTube, HN, Polymarket e na web, e então sintetiza um resumo bem fundamentado
+  ro: Abilitate de agent AI care cercetează orice subiect pe Reddit, X, YouTube, HN, Polymarket și pe web, apoi sintetizează un rezumat bine întemeiat
+  ru: Навык ИИ-агента, который исследует любую тему в Reddit, X, YouTube, HN, Polymarket и в интернете, а затем формирует обоснованное резюме
+  th: ทักษะเอเจนต์ AI ที่วิจัยหัวข้อใด ๆ จาก Reddit, X, YouTube, HN, Polymarket และเว็บ แล้วสังเคราะห์เป็นสรุปที่มีหลักฐานรองรับ
+  tr: Reddit, X, YouTube, HN, Polymarket ve web'de herhangi bir konuyu araştırıp ardından kaynaklara dayalı bir özet sentezleyen AI ajan becerisi
+  uk: Навик ШІ-агента, який досліджує будь-яку тему в Reddit, X, YouTube, HN, Polymarket та в інтернеті, а потім формує обґрунтоване резюме
+  vi: Kỹ năng tác tử AI nghiên cứu mọi chủ đề trên Reddit, X, YouTube, HN, Polymarket và web, rồi tổng hợp thành bản tóm tắt có căn cứ
 x:
   source: https://github.com/mvanhorn/last30days-skill
   eget: mvanhorn/last30days-skill

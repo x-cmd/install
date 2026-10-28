@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: Command-line interface for Telegram
   cn: Telegram 的命令行界面
+  cs: Rozhraní příkazové řádky pro Telegram
+  de: Kommandozeilenschnittstelle für Telegram
+  es: Interfaz de línea de comandos para Telegram
+  fr: Interface de ligne de commande pour Telegram
+  id: Antarmuka baris perintah untuk Telegram
+  it: Interfaccia a riga di comando per Telegram
+  ja: Telegram のコマンドラインインターフェース
+  ko: Telegram용 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla Telegrama
+  pt: Interface de linha de comando para o Telegram
+  ro: Interfață de linie de comandă pentru Telegram
+  ru: Интерфейс командной строки для Telegram
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ Telegram
+  tr: Telegram için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для Telegram
+  vi: Giao diện dòng lệnh cho Telegram
 x:
   source: https://github.com/kenorb-contrib/tg
   apt: libreadline-dev

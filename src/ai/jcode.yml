@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 最省内存且最智能的 AI 编码代理终端，支持 Claude、OpenAI、Gemini、Copilot、Azure、MCP、TUI 等
   en: The most RAM efficient and intelligent AI coding agent for the terminal, supporting Claude, OpenAI, Gemini, Copilot, Azure, MCP and TUI.
+  cs: Nejúspornější a nejinteligentnější AI kódovací agent pro terminál, podporující Claude, OpenAI, Gemini, Copilot, Azure, MCP a TUI.
+  de: Der RAM-effizienteste und intelligenteste KI-Coding-Agent für das Terminal, der Claude, OpenAI, Gemini, Copilot, Azure, MCP und TUI unterstützt.
+  es: El agente de programación con IA más eficiente en RAM e inteligente para la terminal, compatible con Claude, OpenAI, Gemini, Copilot, Azure, MCP y TUI.
+  fr: L'agent de codage IA le plus économe en RAM et le plus intelligent pour le terminal, compatible avec Claude, OpenAI, Gemini, Copilot, Azure, MCP et TUI.
+  id: Agen pemrograman AI paling hemat RAM dan paling cerdas untuk terminal, mendukung Claude, OpenAI, Gemini, Copilot, Azure, MCP, dan TUI.
+  it: L'agente di coding IA più efficiente in termini di RAM e più intelligente per il terminale, con supporto per Claude, OpenAI, Gemini, Copilot, Azure, MCP e TUI.
+  ja: 最も省メモリでインテリジェントなターミナル向けAIコーディングエージェント。Claude、OpenAI、Gemini、Copilot、Azure、MCP、TUI に対応しています。
+  ko: 터미널을 위한 가장 메모리 효율적이고 똑똑한 AI 코딩 에이전트로, Claude, OpenAI, Gemini, Copilot, Azure, MCP, TUI를 지원합니다.
+  pl: Najbardziej oszczędzający pamięć RAM i najbardziej inteligentny agent kodujący AI dla terminala, obsługujący Claude, OpenAI, Gemini, Copilot, Azure, MCP i TUI.
+  pt: O agente de programação com IA mais eficiente em RAM e mais inteligente para o terminal, com suporte a Claude, OpenAI, Gemini, Copilot, Azure, MCP e TUI.
+  ro: Cel mai eficient din punct de vedere al memoriei RAM și cel mai inteligent agent de codare AI pentru terminal, cu suport pentru Claude, OpenAI, Gemini, Copilot, Azure, MCP și TUI.
+  ru: Самый экономичный по оперативной памяти и самый умный ИИ-агент для написания кода в терминале, поддерживающий Claude, OpenAI, Gemini, Copilot, Azure, MCP и TUI.
+  th: เอเจนต์เขียนโค้ด AI ที่ประหยัดแรมและฉลาดที่สุดสำหรับเทอร์มินัล รองรับ Claude, OpenAI, Gemini, Copilot, Azure, MCP และ TUI
+  tr: Terminal için en az RAM kullanan ve en zeki AI kodlama ajanı; Claude, OpenAI, Gemini, Copilot, Azure, MCP ve TUI desteğiyle gelir.
+  uk: Найефективніший за оперативною пам'яттю та найрозумніший ІІ-агент для написання коду в терміналі, що підтримує Claude, OpenAI, Gemini, Copilot, Azure, MCP і TUI.
+  vi: Tác nhân lập trình AI tiết kiệm RAM và thông minh nhất cho terminal, hỗ trợ Claude, OpenAI, Gemini, Copilot, Azure, MCP và TUI.
 x:
   source: https://github.com/1jehuang/jcode
   eget: 1jehuang/jcode

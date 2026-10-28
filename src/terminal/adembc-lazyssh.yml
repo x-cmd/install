@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 灵感来自 lazydocker 和 k9s 的终端 SSH 管理器，用 Go 编写
   en: A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
+  cs: Terminálový správce SSH inspirovaný lazydocker a k9s - napsaný v Go
+  de: Ein terminalbasierter SSH-Manager, inspiriert von lazydocker und k9s - in Go geschrieben
+  es: Un gestor de SSH para terminal inspirado en lazydocker y k9s, escrito en Go
+  fr: Un gestionnaire SSH pour terminal inspiré de lazydocker et k9s, écrit en Go
+  id: Manajer SSH berbasis terminal yang terinspirasi dari lazydocker dan k9s - ditulis dengan Go
+  it: Un gestore SSH per terminale ispirato a lazydocker e k9s, scritto in Go
+  ja: lazydocker と k9s に着想を得た端末向け SSH マネージャー - Go で書かれました
+  ko: lazydocker와 k9s에서 영감을 받은 터미널 기반 SSH 관리자 - Go로 작성되었습니다
+  pl: Terminalowy menedżer SSH inspirowany lazydocker i k9s - napisany w Go
+  pt: Um gerenciador SSH para terminal inspirado em lazydocker e k9s - escrito em Go
+  ro: Un manager SSH pentru terminal inspirat de lazydocker și k9s - scris în Go
+  ru: Терминальный SSH-менеджер, вдохновлённый lazydocker и k9s, написанный на Go
+  th: ตัวจัดการ SSH บนเทอร์มินัลที่ได้แรงบันดาลใจจาก lazydocker และ k9s - เขียนด้วย Go
+  tr: lazydocker ve k9s'tan esinlenen, terminal tabanlı SSH yöneticisi - Go ile yazılmıştır
+  uk: Термінальний SSH-менеджер, натхненний lazydocker і k9s, написаний на Go
+  vi: Trình quản lý SSH chạy trong terminal lấy cảm hứng từ lazydocker và k9s - viết bằng Go
 x:
   source: https://github.com/Adembc/lazyssh
   eget: Adembc/lazyssh

@@ -3,6 +3,22 @@ homepage: https://github.com/docbook/docbook
 desc:
   en: DocBook is a schema (available in several languages including RELAX NG, SGML and XML DTDs, and W3C XML Schema) maintained by the DocBook Technical Committee of OASIS
   cn: DocBook 是 OASIS DocBook 技术委员会维护的一个模式(包括 RELAX NG、 SGML 和 XML DTD 以及 W3C XML Schema 等多种语言)
+  cs: DocBook je schéma (dostupné v několika jazycích včetně RELAX NG, SGML a XML DTD a W3C XML Schema) udržované DocBook Technical Committee organizace OASIS
+  de: DocBook ist ein Schema (in mehreren Sprachen verfügbar, darunter RELAX NG, SGML und XML DTD sowie W3C XML Schema), gepflegt vom DocBook Technical Committee der OASIS
+  es: DocBook es un esquema (disponible en varios lenguajes, incluidos RELAX NG, SGML y DTD de XML, y W3C XML Schema) mantenido por el DocBook Technical Committee de OASIS
+  fr: DocBook est un schéma (disponible en plusieurs langages, dont RELAX NG, SGML et DTD XML, ainsi que W3C XML Schema) maintenu par le DocBook Technical Committee de l'OASIS
+  id: DocBook adalah skema (tersedia dalam beberapa bahasa termasuk RELAX NG, SGML, dan XML DTD, serta W3C XML Schema) yang dikelola oleh DocBook Technical Committee dari OASIS
+  it: DocBook è uno schema (disponibile in diversi linguaggi tra cui RELAX NG, SGML e XML DTD, oltre a W3C XML Schema) mantenuto dal DocBook Technical Committee di OASIS
+  ja: DocBook は Relax NG、SGML、XML DTD、W3C XML Schema など複数の言語で利用できるスキーマで、OASIS の DocBook Technical Committee が保守しています
+  ko: DocBook은 RELAX NG, SGML, XML DTD, W3C XML Schema 등 여러 언어로 제공되는 스키마로 OASIS DocBook Technical Committee이 관리합니다
+  pl: DocBook to schemat (dostępny w kilku językach, m.in. RELAX NG, SGML i XML DTD oraz W3C XML Schema) utrzymywany przez DocBook Technical Committee organizacji OASIS
+  pt: DocBook é um esquema (disponível em várias linguagens, incluindo RELAX NG, SGML e XML DTD, e W3C XML Schema) mantido pelo DocBook Technical Committee da OASIS
+  ro: DocBook este o schemă (disponibilă în mai multe limbaje, inclusiv RELAX NG, SGML și XML DTD, precum și W3C XML Schema) întreținută de DocBook Technical Committee al OASIS
+  ru: DocBook — это схема (доступная на нескольких языках, включая RELAX NG, SGML и XML DTD, а также W3C XML Schema), поддерживаемая техническим комитетом DocBook организации OASIS
+  th: DocBook คือสคีมา (มีให้ใช้งานในหลายภาษา เช่น RELAX NG, SGML และ XML DTD รวมถึง W3C XML Schema) ดูแลโดย DocBook Technical Committee ของ OASIS
+  tr: DocBook, OASIS'in DocBook Teknik Komitesi tarafından sürdürülen bir şemadır (RELAX NG, SGML ve XML DTD ile W3C XML Schema gibi birkaç dilde mevcuttur)
+  uk: DocBook — це схема (доступна кількома мовами, зокрема RELAX NG, SGML та XML DTD, а також W3C XML Schema), яку підтримує технічний комітет DocBook організації OASIS
+  vi: DocBook là một schema (có sẵn bằng nhiều ngôn ngữ, gồm RELAX NG, SGML và XML DTD, cùng W3C XML Schema) được duy trì bởi DocBook Technical Committee của OASIS
 x:
   source: https://github.com/docbook/docbook
   eget: docbook/docbook

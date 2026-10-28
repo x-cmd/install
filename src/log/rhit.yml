@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Nginx 日志探索器。
   en: A nginx log explorer.
+  cs: Průzkumník protokolů nginx.
+  de: Ein nginx-Log-Explorer.
+  es: Un explorador de registros de nginx.
+  fr: Un explorateur de journaux nginx.
+  id: Penjelajah log nginx.
+  it: Un esploratore di log nginx.
+  ja: nginx ログエクスプローラーです。
+  ko: nginx 로그 탐색기입니다.
+  pl: Eksplorer logów nginx.
+  pt: Um explorador de logs do nginx.
+  ro: Un explorator de jurnale nginx.
+  ru: Обозреватель журналов nginx.
+  th: ตัวสำรวจบันทึกของ nginx
+  tr: Bir nginx günlük gezgini.
+  uk: Оглядач журналів nginx.
+  vi: Trình khám phá nhật ký nginx
 x:
   source: https://github.com/Canop/rhit
   eget: Canop/rhit

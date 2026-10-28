@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: talhelper 是一种工具，可以声明地创建 Talos 配置文件
   en: talhelper is a tool to help creating Talos configuration files declaratively\
+  cs: talhelper je nástroj, který pomáhá vytvářet konfigurační soubory Talos deklarativně
+  de: talhelper ist ein Werkzeug, das dabei hilft, Talos-Konfigurationsdateien deklarativ zu erstellen
+  es: talhelper es una herramienta que ayuda a crear archivos de configuración de Talos de forma declarativa
+  fr: talhelper est un outil qui facilite la création déclarative de fichiers de configuration Talos
+  id: talhelper adalah alat untuk membantu membuat berkas konfigurasi Talos secara deklaratif
+  it: talhelper è uno strumento che aiuta a creare file di configurazione di Talos in modo dichiarativo
+  ja: talhelper は Talos の設定ファイルを宣言的に作成するのを支援するツールです
+  ko: talhelper는 Talos 구성 파일을 선언적으로 만드는 것을 돕는 도구입니다
+  pl: talhelper to narzędzie ułatwiające deklaratywne tworzenie plików konfiguracji Talos
+  pt: talhelper é uma ferramenta que ajuda a criar arquivos de configuração do Talos de forma declarativa
+  ro: talhelper este un instrument care facilitează crearea declarativă a fișierelor de configurare Talos
+  ru: talhelper — это инструмент, который помогает декларативно создавать конфигурационные файлы Talos
+  th: talhelper เป็นเครื่องมือที่ช่วยสร้างไฟล์กำหนดค่า Talos ในแบบ declarative
+  tr: talhelper, Talos yapılandırma dosyalarını bildirimsel olarak oluşturmanıza yardımcı olan bir araçtır
+  uk: talhelper — це інструмент, який допомагає декларативно створювати конфігураційні файли Talos
+  vi: talhelper là công cụ giúp tạo các tệp cấu hình Talos theo cách khai báo
 x:
   source: https://github.com/budimanjojo/talhelper
   eget: budimanjojo/talhelper

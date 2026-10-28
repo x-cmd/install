@@ -4,6 +4,22 @@ license: 'Unlicense'
 desc:
   cn: 面向远程服务器的快速便捷 TUI 文件浏览器
   en: 'A fast and convenient TUI file browser for remote servers'
+  cs: Rychlý a pohodlný prohlížeč souborů TUI pro vzdálené servery
+  de: Ein schneller und bequemer TUI-Dateibrowser für entfernte Server
+  es: Un explorador de archivos TUI rápido y práctico para servidores remotos
+  fr: Un navigateur de fichiers TUI rapide et pratique pour les serveurs distants
+  id: Penjelajah file TUI yang cepat dan nyaman untuk server jarak jauh
+  it: Un browser di file TUI veloce e comodo per server remoti
+  ja: リモートサーバー向けの高速で便利なTUIファイルブラウザー
+  ko: 원격 서버를 위한 빠르고 편리한 TUI 파일 브라우저
+  pl: Szybki i wygodny przeglądarka plików TUI dla zdalnych serwerów
+  pt: Um navegador de arquivos TUI rápido e conveniente para servidores remotos
+  ro: Un explorator de fișiere TUI rapid și convenabil pentru servere la distanță
+  ru: Быстрый и удобный TUI-браузер файлов для удалённых серверов
+  th: ตัวเรียกดูไฟล์ TUI ที่รวดเร็วและสะดวกสำหรับเซิร์ฟเวอร์ระยะไกล
+  tr: Uzak sunucular için hızlı ve kullanışlı TUI dosya tarayıcısı
+  uk: Швидкий і зручний TUI-браузер файлів для віддалених серверів
+  vi: Trình duyệt tệp TUI nhanh và tiện lợi cho máy chủ từ xa
 x:
   source: https://github.com/JayanAXHF/filessh
   eget: JayanAXHF/filessh

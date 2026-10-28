@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: sqlean 是 sqlite 的扩展集合
   en: sqlean is an extended collection of sqlite
+  cs: sqlean je rozšířená kolekce sqlite
+  de: sqlean ist eine erweiterte Sammlung von sqlite
+  es: sqlean es una colección ampliada de extensiones de sqlite
+  fr: sqlean est une collection étendue de modules pour sqlite
+  id: sqlean adalah koleksi ekstensi sqlite yang diperluas
+  it: sqlean è una raccolta estesa di estensioni per sqlite
+  ja: sqlean は sqlite の拡張機能集です
+  ko: sqlean은 확장된 sqlite 확장 모음입니다
+  pl: sqlean to rozszerzona kolekcja rozszerzeń sqlite
+  pt: sqlean é uma coleção ampliada de extensões do sqlite
+  ro: sqlean este o colecție extinsă de extensii pentru sqlite
+  ru: sqlean — расширенная коллекция расширений для sqlite
+  th: sqlean คือชุดส่วนขยายของ sqlite
+  tr: sqlean, sqlite için genişletilmiş bir uzantı koleksiyonudur
+  uk: sqlean — розширена колекція розширень для sqlite
+  vi: sqlean là bộ sưu tập tiện ích mở rộng của sqlite
 x:
   source: https://github.com/nalgeon/sqlean
   eget: nalgeon/sqlean

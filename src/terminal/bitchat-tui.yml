@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端内的安全、匿名 P2P 蓝牙聊天，Rust 实现的离网加密 TUI 即时通讯
   en: '🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.'
+  cs: 🔒 Zabezpečený, anonymní, peer-to-peer (P2P) Bluetooth chat v terminálu. Offline šifrovaný TUI messenger napsaný v Rustu.
+  de: 🔒 Sicherer, anonymer Peer-to-Peer-(P2P)-Bluetooth-Chat im Terminal. Ein Offline-, verschlüsselter TUI-Messenger, gebaut mit Rust.
+  es: 🔒 Chat Bluetooth seguro, anónimo y entre pares (P2P) en tu terminal. Un mensajero TUI cifrado y sin conexión creado con Rust.
+  fr: 🔒 Discussion Bluetooth sécurisée, anonyme et pair-à-pair (P2P) dans votre terminal. Un messagerie TUI chiffrée et hors ligne, écrite en Rust.
+  id: 🔒 Obrolan Bluetooth yang aman, anonim, dan peer-to-peer (P2P) di terminal Anda. Pengirim pesan TUI terenkripsi dan offline yang dibuat dengan Rust.
+  it: 🔒 Chat Bluetooth sicuro, anonimo e peer-to-peer (P2P) nel tuo terminale. Un messenger TUI crittografato e offline, realizzato con Rust.
+  ja: 🔒 ターミナルで動作する安全で匿名のP2P Bluetoothチャット。Rustで書かれたオフライン対応の暗号化TUIメッセンジャー。
+  ko: 🔒 터미널에서 동작하는 보안·익명 P2P Bluetooth 채팅. Rust로 만든 오프라인 암호화 TUI 메신저.
+  pl: 🔒 Bezpieczny, anonimowy czat Bluetooth peer-to-peer (P2P) w terminalu. Szyfrowany, działający offline komunikator TUI napisany w Rust.
+  pt: 🔒 Chat Bluetooth seguro, anônimo e peer-to-peer (P2P) no seu terminal. Um mensageiro TUI criptografado e offline, feito em Rust.
+  ro: 🔒 Chat Bluetooth sigur, anonim, peer-to-peer (P2P) în terminalul tău. Un messenger TUI criptat și offline, scris în Rust.
+  ru: 🔒 Защищённый анонимный одноранговый (P2P) чат по Bluetooth в терминале. Офлайн-шифрованный TUI-мессенджер, написанный на Rust.
+  th: 🔒 แชต Bluetooth แบบปลอดภัย ไม่ระบุตัวตน และเพียร์ทูเพียร์ (P2P) ในเทอร์มินัล ตัวส่งข้อความ TUI แบบเข้ารหัสและใช้งานออฟไลน์ สร้างด้วย Rust
+  tr: 🔒 Terminalinizde güvenli, anonim, eşler arası (P2P) Bluetooth sohbeti. Rust ile yazılmış şifreli, çevrimdışı TUI mesajlaşma aracı.
+  uk: 🔒 Захищений анонімний одноранговий (P2P) чат через Bluetooth у терміналі. Офлайн-зашифрований TUI-месенджер, написаний на Rust.
+  vi: 🔒 Trò chuyện Bluetooth an toàn, ẩn danh và ngang hàng (P2P) ngay trong terminal. Một ứng dụng nhắn tin TUI mã hóa, hoạt động ngoại tuyến, viết bằng Rust.
 x:
   source: https://github.com/vaibhav-mattoo/bitchat-tui
   eget: vaibhav-mattoo/bitchat-tui

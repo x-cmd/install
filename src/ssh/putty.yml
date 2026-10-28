@@ -3,6 +3,22 @@ homepage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 desc:
   cn: PuTTY 是一个针对 Windows 和 Unix 平台的免费 SSH 和 Telnet 实现，还有一个 xterm 虚拟终端
   en: PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
+  cs: PuTTY je bezplatná implementace SSH a Telnetu pro platformy Windows a Unix, spolu s emulátorem terminálu xterm
+  de: PuTTY ist eine kostenlose Implementierung von SSH und Telnet für Windows- und Unix-Plattformen, zusammen mit einem xterm-Terminalemulator
+  es: PuTTY es una implementación gratuita de SSH y Telnet para plataformas Windows y Unix, junto con un emulador de terminal xterm
+  fr: PuTTY est une implémentation libre de SSH et Telnet pour les plateformes Windows et Unix, ainsi qu'un émulateur de terminal xterm
+  id: PuTTY adalah implementasi gratis SSH dan Telnet untuk platform Windows dan Unix, beserta emulator terminal xterm
+  it: PuTTY è un'implementazione gratuita di SSH e Telnet per le piattaforme Windows e Unix, insieme a un emulatore di terminale xterm
+  ja: PuTTY は Windows と Unix プラットフォーム向けの無料で使える SSH および Telnet の実装で、xterm 端末エミュレータも備えています
+  ko: PuTTY는 Windows 및 Unix 플랫폼용 무료 SSH·Telnet 구현이며 xterm 터미널 에뮬레이터도 포함합니다
+  pl: PuTTY to darmowa implementacja SSH i Telnet dla platform Windows i Unix, wraz z emulatorem terminala xterm
+  pt: PuTTY é uma implementação gratuita de SSH e Telnet para plataformas Windows e Unix, junto com um emulador de terminal xterm
+  ro: PuTTY este o implementare gratuită a SSH și Telnet pentru platformele Windows și Unix, împreună cu un emulator de terminal xterm
+  ru: PuTTY — бесплатная реализация SSH и Telnet для платформ Windows и Unix, а также эмулятор терминала xterm
+  th: PuTTY เป็นการใช้งาน SSH และ Telnet แบบฟรีสำหรับแพลตฟอร์ม Windows และ Unix พร้อมกับโปรแกรมจำลองเทอร์มินัล xterm
+  tr: PuTTY, Windows ve Unix platformları için ücretsiz bir SSH ve Telnet uygulamasıdır, ayrıca bir xterm terminal emülatörü içerir
+  uk: PuTTY — безкоштовна реалізація SSH і Telnet для платформ Windows та Unix, а також емулятор термінала xterm
+  vi: PuTTY là bản triển khai miễn phí của SSH và Telnet cho nền tảng Windows và Unix, kèm trình giả lập terminal xterm
 rule:
   darwin/brew:
     cmd: brew install putty

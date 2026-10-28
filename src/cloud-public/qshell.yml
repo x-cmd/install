@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用七牛云 API 服务的命令行工具
   en: Shell Tools for Qiniu Cloud
+  cs: Nástroje shell pro Qiniu Cloud
+  de: Shell-Werkzeuge für Qiniu Cloud
+  es: Herramientas de shell para Qiniu Cloud
+  fr: Outils shell pour Qiniu Cloud
+  id: Alat shell untuk Qiniu Cloud
+  it: Strumenti shell per Qiniu Cloud
+  ja: Qiniu Cloud 用のシェルツール
+  ko: Qiniu Cloud용 셸 도구
+  pl: Narzędzia powłoki dla Qiniu Cloud
+  pt: Ferramentas de shell para Qiniu Cloud
+  ro: Instrumente shell pentru Qiniu Cloud
+  ru: Инструменты оболочки для Qiniu Cloud
+  th: เครื่องมือเชลล์สำหรับ Qiniu Cloud
+  tr: Qiniu Cloud için kabuk araçları
+  uk: Інструменти оболонки для Qiniu Cloud
+  vi: Công cụ shell cho Qiniu Cloud
 x:
   source: https://github.com/qiniu/qshell
   eget: qiniu/qshell

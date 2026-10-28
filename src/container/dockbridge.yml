@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: DockBridge 是一个基于 Go 语言的客户端-服务器系统，用于为 Docker 容器配置 Hetzner Cloud 服务器，并具有笔记本电脑锁定检测和保持连接的功能。
   en: DockBridge is a Go-based client-server system that provisions Hetzner Cloud servers for Docker containers, with laptop lock detection and keep-alive features.
+  cs: DockBridge je systém klient-server založený na Go, který zajišťuje servery Hetzner Cloud pro kontejnery Docker a má funkce detekce uzamčení notebooku a udržování spojení.
+  de: DockBridge ist ein auf Go basierendes Client-Server-System, das Hetzner Cloud-Server für Docker-Container bereitstellt, mit Laptop-Sperrerkennung und Keep-Alive-Funktionen.
+  es: DockBridge es un sistema cliente-servidor basado en Go que aprovisiona servidores de Hetzner Cloud para contenedores Docker, con detección de bloqueo del portátil y funciones de keep-alive.
+  fr: DockBridge est un système client-serveur basé sur Go qui provisionne des serveurs Hetzner Cloud pour des conteneurs Docker, avec détection du verrouillage de l'ordinateur portable et fonctions de maintien de connexion.
+  id: DockBridge adalah sistem klien-server berbasis Go yang menyediakan server Hetzner Cloud untuk kontainer Docker, dengan deteksi kunci laptop dan fitur keep-alive.
+  it: DockBridge è un sistema client-server basato su Go che fornisce server Hetzner Cloud per container Docker, con rilevamento della chiusura del portatile e funzioni keep-alive.
+  ja: DockBridgeはGo製のクライアント-サーバーシステムで、Dockerコンテナ用にHetzner Cloudサーバーをプロビジョニングし、ノートPCのロック検出とkeep-alive機能を備えています。
+  ko: DockBridge는 Go 기반 클라이언트-서버 시스템으로 Docker 컨테이너를 위한 Hetzner Cloud 서버를 프로비저닝하며, 노트북 잠금 감지와 keep-alive 기능을 제공합니다
+  pl: DockBridge to system klient-serwer oparty na Go, który udostępnia serwery Hetzner Cloud dla kontenerów Docker, z wykrywaniem blokady laptopa i funkcjami keep-alive.
+  pt: O DockBridge é um sistema cliente-servidor baseado em Go que provisiona servidores Hetzner Cloud para contêineres Docker, com detecção de bloqueio do notebook e recursos de keep-alive.
+  ro: DockBridge este un sistem client-server bazat pe Go care furnizează servere Hetzner Cloud pentru containere Docker, cu detectarea blocării laptopului și funcții de keep-alive.
+  ru: DockBridge — клиент-серверная система на Go, которая подготавливает серверы Hetzner Cloud для контейнеров Docker, с обнаружением блокировки ноутбука и функциями keep-alive.
+  th: DockBridge คือระบบไคลเอนต์-เซิร์ฟเวอร์ที่เขียนด้วย Go ซึ่งจัดเตรียมเซิร์ฟเวอร์ Hetzner Cloud สำหรับคอนเทนเนอร์ Docker พร้อมคุณสมบัติตรวจจับการล็อกแล็ปท็อปและ keep-alive
+  tr: DockBridge, Docker kapsayıcıları için Hetzner Cloud sunucuları sağlayan, dizüstü bilgisayar kilitleme algılama ve keep-alive özelliklerine sahip Go tabanlı bir istemci-sunucu sistemidir.
+  uk: DockBridge — клієнт-серверна система на Go, яка готує сервери Hetzner Cloud для контейнерів Docker, з виявленням блокування ноутбука та функціями keep-alive.
+  vi: DockBridge là hệ thống client-server dựa trên Go, cung cấp máy chủ Hetzner Cloud cho container Docker, với tính năng phát hiện khóa laptop và duy trì kết nối
 x:
   source: https://github.com/Max-Levitskiy/DockBridge
   eget: Max-Levitskiy/DockBridge

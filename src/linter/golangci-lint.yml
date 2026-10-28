@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: golangci-lint 是一个快速的 Go linter 运行器
   en: golangci-lint is a fast Go linters runner
+  cs: golangci-lint je rychlý běhový prostředí pro Go lintery
+  de: golangci-lint ist ein schneller Runner für Go-Linter
+  es: golangci-lint es un ejecutor rápido de linters de Go
+  fr: golangci-lint est un exécuteur rapide de linters Go
+  id: golangci-lint adalah runner cepat untuk linter Go
+  it: golangci-lint è un veloce runner per i linter Go
+  ja: golangci-lint は高速な Go linter ランナーです
+  ko: golangci-lint는 빠른 Go linter 러너입니다
+  pl: golangci-lint to szybka obsługa linterów Go
+  pt: golangci-lint é um executor rápido de linters Go
+  ro: golangci-lint este un executant rapid de linters Go
+  ru: golangci-lint — быстрый раннер линтеров Go
+  th: golangci-lint คือตัวรัน linter ของ Go ที่ทำงานได้เร็ว
+  tr: golangci-lint, Go linter'ları için hızlı bir çalıştırıcıdır
+  uk: golangci-lint — швидкий раннер лінтерів Go
+  vi: golangci-lint là trình chạy linter Go nhanh
 x:
   source: https://github.com/golangci/golangci-lint
   eget: golangci/golangci-lint

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 将 Google Gemini 网页端转换为免费、自托管、兼容 OpenAI 的 API
   en: Convert Google Gemini's web interface into a free, self-hosted, OpenAI-compatible API for development and experimentation.
+  cs: Převede webové rozhraní Google Gemini na bezplatné, samostatně hostované API kompatibilní s OpenAI pro vývoj a experimenty.
+  de: Verwandelt die Weboberfläche von Google Gemini in eine kostenlose, selbst gehostete, OpenAI-kompatible API für Entwicklung und Experimente.
+  es: Convierte la interfaz web de Google Gemini en una API gratuita, autoalojada y compatible con OpenAI para desarrollo y experimentación.
+  fr: Convertit l'interface web de Google Gemini en une API gratuite, auto-hébergée et compatible avec OpenAI pour le développement et l'expérimentation.
+  id: Mengubah antarmuka web Google Gemini menjadi API gratis, self-hosted, dan kompatibel dengan OpenAI untuk pengembangan dan eksperimen.
+  it: Converte l'interfaccia web di Google Gemini in un'API gratuita, self-hosted e compatibile con OpenAI per sviluppo ed esperimentazione.
+  ja: Google Gemini のウェブインターフェースを、無料で自ホストでき、OpenAI と互換性のある API に変換します。開発と実験のために最適です。
+  ko: Google Gemini의 웹 인터페이스를 무료이며 자체 호스팅되고 OpenAI 호환 API로 변환하여 개발과 실험에 사용할 수 있습니다.
+  pl: Zmienia interfejs WWW Google Gemini w darmowe, hostowane samodzielnie API zgodne z OpenAI, przeznaczone do rozwoju i eksperymentów.
+  pt: Converte a interface web do Google Gemini em uma API gratuita, auto-hospedada e compatível com OpenAI para desenvolvimento e experimentação.
+  ro: Transformă interfața web Google Gemini într-un API gratuit, găzduit de sine și compatibil cu OpenAI pentru dezvoltare și experimentare.
+  ru: Преобразует веб-интерфейс Google Gemini в бесплатный, самостоятельно развёртываемый API, совместимый с OpenAI, для разработки и экспериментов.
+  th: แปลงอินเทอร์เฟซเว็บของ Google Gemini เป็น API ที่ใช้ฟรี โฮสต์เอง และเข้ากันได้กับ OpenAI สำหรับการพัฒนาและการทดลอง
+  tr: Google Gemini web arayüzünü geliştirme ve deneyler için ücretsiz, kendi kendine barındırılan ve OpenAI uyumlu bir API'ye dönüştürür.
+  uk: Перетворює веб-інтерфейс Google Gemini на безкоштовний, самостійно розгорнутий API, сумісний з OpenAI, для розробки та експериментів.
+  vi: Chuyển giao diện web của Google Gemini thành API miễn phí, tự host và tương thích với OpenAI để phát triển và thử nghiệm.
 x:
   source: https://github.com/Sophomoresty/gemini-web2api
 rule:

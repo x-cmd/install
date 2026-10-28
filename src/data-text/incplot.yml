@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 注重易用性与简洁的终端与 HTML 绘图 CLI 工具
   en: 'CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity'
+  cs: Nástroj CLI pro kreslení pěkných grafů v terminálu i v HTML, zaměřený na pohodlí uživatele a jednoduchost
+  de: CLI-Werkzeug zum Zeichnen ansprechender Diagramme im Terminal und in HTML, ausgerichtet auf Benutzerkomfort und Einfachheit
+  es: Herramienta de CLI para dibujar gráficos atractivos en la terminal y en HTML, centrada en la comodidad del usuario y la simplicidad
+  fr: Outil CLI pour tracer de beaux graphiques dans le terminal et en HTML, axé sur l'ergonomie utilisateur et la simplicité
+  id: Alat CLI untuk menggambar grafik menarik di terminal dan HTML yang berfokus pada kenyamanan pengguna dan kesederhanaan
+  it: Strumento CLI per disegnare grafici dall'aspetto accattivante nel terminale e in HTML, incentrato sull'ergonomia utente e la semplicità
+  ja: ターミナルと HTML に美しいグラフを描く CLI ツールで、ユーザーの使いやすさと簡素さを重視
+  ko: 터미널과 HTML에서 보기 좋은 그래프를 그리는 CLI 도구로, 사용자 편의성과 단순성을 중시합니다
+  pl: Narzędzie CLI do rysowania atrakcyjnych wykresów w terminalu i w HTML, skupione na wygodzie użytkownika i prostocie
+  pt: Ferramenta de CLI para desenar gráficos com boa aparência no terminal e em HTML, focada na ergonomia do usuário e simplicidade
+  ro: Instrument CLI pentru desenarea unor grafuri attractive în terminal și în HTML, cu focus pe ergonomia utilizatorului și simplitate
+  ru: CLI-инструмент для рисования красивых графиков в терминале и в HTML, ориентированный на удобство пользователя и простоту
+  th: เครื่องมือ CLI สำหรับวาดกราฟที่ดูสวยงามในเทอร์มินัลและใน HTML โดยเน้นความสะดวกของผู้ใช้และความเรียบง่าย
+  tr: Terminalde ve HTML'de güzel görünen grafikler çizmeye odaklanan, kullanıcı ergonomisi ve sadeliğe yönelik CLI aracı
+  uk: CLI-інструмент для малювання гарних графіків у терміналі та в HTML, орієнтований на зручність користувача та простоту
+  vi: Công cụ CLI để vẽ biểu đồ đẹp mắt trong terminal và trong HTML, tập trung vào sự tiện lợi cho người dùng và sự đơn giản
 x:
   source: https://github.com/InCom-0/incplot
   eget: InCom-0/incplot

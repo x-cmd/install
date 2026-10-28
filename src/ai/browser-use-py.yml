@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 让 AI 代理可以访问网站。轻松实现在线任务自动化
   en: Make websites accessible for AI agents. Automate tasks online with ease.
+  cs: Umožněte webovým stránkám přístup pro AI agenty. Automatizujte úkoly online snadno.
+  de: Machen Sie Websites für KI-Agents zugänglich. Automatisieren Sie Aufgaben online ganz einfach.
+  es: Haz accesibles los sitios web para agentes de IA. Automatiza tareas en línea con facilidad.
+  fr: Rendez les sites web accessibles aux agents IA. Automatisez les tâches en ligne en toute simplicité.
+  id: Buat situs web dapat diakses oleh agen AI. Otomatiskan tugas online dengan mudah.
+  it: Rendi i siti web accessibili agli agenti IA. Automatizza le attività online con facilità.
+  ja: Web へのアクセスを AI エージェントに可能に。オンラインでのタスクを手軽に自動化。
+  ko: 웹사이트를 AI 에이전트가 접근할 수 있게 하세요. 온라인 작업을 손쉽게 자동화하세요.
+  pl: Udostępnij strony internetowe agentom AI. Łatwo automatyzuj zadania w sieci.
+  pt: Torne os sites acessíveis para agentes de IA. Automatize tarefas online com facilidade.
+  ro: Fă site-urile accesibile pentru agenții AI. Automatizează sarcinile online cu ușurință.
+  ru: Сделайте веб-сайты доступными для ИИ-агентов. Автоматизируйте онлайн-задачи без лишних усилий.
+  th: ทำให้เว็บไซต์เข้าถึงได้สำหรับเอเจนต์ AI ทำงานอัตโนมัติบนอินเทอร์เน็ตได้อย่างง่ายดาย
+  tr: Web sitelerini YZ ajanları için erişilebilir hale getirin. Çevrimiçi görevleri kolayca otomatikleştirin.
+  uk: Зробіть вебсайти доступними для ІІ-агентів. Автоматизуйте онлайн-завдання без зусиль.
+  vi: Giúp các trang web trở nên truy cập được cho agent AI. Tự động hóa tác vụ trực tuyến một cách dễ dàng.
 x:
   source: https://github.com/browser-use/browser-use
   yay: browser-use-cli

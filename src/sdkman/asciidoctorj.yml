@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Asciidoctorj 是在 JVM 上运行 Asciidoctor 的官方图书馆
   en: AsciidoctorJ is the official library for running Asciidoctor on the JVM
+  cs: AsciidoctorJ je oficiální knihovna pro spouštění Asciidoctoru na JVM
+  de: AsciidoctorJ ist die offizielle Bibliothek zum Ausführen von Asciidoctor auf der JVM
+  es: AsciidoctorJ es la biblioteca oficial para ejecutar Asciidoctor en la JVM
+  fr: AsciidoctorJ est la bibliothèque officielle pour exécuter Asciidoctor sur la JVM
+  id: AsciidoctorJ adalah pustaka resmi untuk menjalankan Asciidoctor di JVM
+  it: AsciidoctorJ è la libreria ufficiale per eseguire Asciidoctor sulla JVM
+  ja: AsciidoctorJ は JVM 上で Asciidoctor を実行するための公式ライブラリです
+  ko: AsciidoctorJ는 JVM에서 Asciidoctor를 실행하기 위한 공식 라이브러리입니다
+  pl: AsciidoctorJ jest oficjalną biblioteką do uruchamiania Asciidoctor na JVM
+  pt: AsciidoctorJ é a biblioteca oficial para executar Asciidoctor na JVM
+  ro: AsciidoctorJ este biblioteca oficială pentru rularea Asciidoctor pe JVM
+  ru: AsciidoctorJ — официальная библиотека для запуска Asciidoctor на JVM
+  th: AsciidoctorJ คือไลบรารีอย่างเป็นทางการสำหรับการรัน Asciidoctor บน JVM
+  tr: AsciidoctorJ, JVM üzerinde Asciidoctor çalıştırmak için resmi kütüphanedir
+  uk: AsciidoctorJ — офіційна бібліотека для запуску Asciidoctor на JVM
+  vi: AsciidoctorJ là thư viện chính thức để chạy Asciidoctor trên JVM
 x:
   source: https://github.com/asciidoctor/asciidoctorj
   brew: asciidoctorj

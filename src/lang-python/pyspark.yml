@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Spark 是一个用于大规模数据处理的统一分析引擎
   en: Spark is a unified analytics engine for large-scale data processing
+  cs: Spark je jednotný analytický engine pro zpracování dat ve velkém měřítku
+  de: Spark ist eine einheitliche Analyse-Engine für die Verarbeitung großer Datenmengen
+  es: Spark es un motor de análisis unificado para el procesamiento de datos a gran escala
+  fr: Spark est un moteur d'analyse unifié pour le traitement de données à grande échelle
+  id: Spark adalah mesin analitik terpadu untuk pemrosesan data berskala besar
+  it: Spark è un motore di analisi unificato per l'elaborazione di dati su larga scala
+  ja: Spark は大規模データ処理のための統合分析エンジンです
+  ko: Spark는 대규모 데이터 처리를 위한 통합 분석 엔진입니다
+  pl: Spark to zunifikowany silnik analityczny do przetwarzania danych na dużą skalę
+  pt: O Spark é um motor de análise unificado para processamento de dados em grande escala
+  ro: Spark este un motor de analiză unificat pentru procesarea datelor la scară mare
+  ru: Spark — это единый аналитический движок для обработки данных большого объёма
+  th: Spark เป็นเอนจินวิเคราะห์แบบรวมสำหรับการประมวลผลข้อมูลขนาดใหญ่
+  tr: Spark, büyük ölçekli veri işleme için birleşik bir analitik motorudur
+  uk: Spark — це єдиний аналітичний рушій для обробки даних великого обсягу
+  vi: Spark là một engine phân tích thống nhất cho xử lý dữ liệu quy mô lớn
 x:
   source: https://github.com/apache/spark
   pip: pyspark

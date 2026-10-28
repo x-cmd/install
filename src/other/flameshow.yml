@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个在终端中查看火焰图的工具。
   en: A flamegraph viewer in the terminal.
+  cs: Prohlížeč flamegraphů v terminálu.
+  de: Ein Flamegraph-Viewer im Terminal.
+  es: Un visor de flamegraphs en la terminal.
+  fr: Un visualiseur de flamegraphs dans le terminal.
+  id: Penampil flamegraph di terminal.
+  it: Un visualizzatore di flamegraph nel terminale.
+  ja: ターミナル内のフレームグラフビューア。
+  ko: 터미널의 프레임그래프 뷰어.
+  pl: Przeglądarka flamegraphów w terminalu.
+  pt: Um visualizador de flamegraphs no terminal.
+  ro: Un vizualizator de flamegraph-uri în terminal.
+  ru: Просмотрщик флеймграфов в терминале.
+  th: เครื่องดูภาพ flamegraph ในเทอร์มินัล
+  tr: Terminalde flamegraph görüntüleyici.
+  uk: Переглядач флеймграфів у терміналі.
+  vi: Trình xem flamegraph trong terminal.
 x:
   source: https://github.com/laixintao/flameshow
   pip: flameshow

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Anidbcli 是一个简单的命令行界面，用于在本地计算机或 NAS 上管理动漫集合（仅使用 SSH）
   en: Anidbcli is a simple command line interface for managing your anime collection on your local computer or NAS (using only ssh)
+  cs: Anidbcli je jednoduché rozhraní příkazové řádky pro správu sbírky anime na místním počítači nebo NAS (pouze přes ssh)
+  de: Anidbcli ist eine einfache Kommandozeilenschnittstelle zur Verwaltung deiner Anime-Sammlung auf dem lokalen Rechner oder NAS (nur über ssh)
+  es: Anidbcli es una interfaz de línea de comandos sencilla para gestionar tu colección de anime en tu ordenador local o NAS (usando solo ssh)
+  fr: Anidbcli est une interface en ligne de commande simple pour gérer votre collection d'animés sur votre ordinateur local ou votre NAS (en utilisant uniquement ssh)
+  id: Anidbcli adalah antarmuka baris perintah sederhana untuk mengelola koleksi anime Anda di komputer lokal atau NAS (hanya menggunakan ssh)
+  it: Anidbcli è una semplice interfaccia a riga di comando per gestire la tua collezione di anime sul computer locale o sul NAS (usando solo ssh)
+  ja: Anidbcli は、ローカルコンピューターや NAS 上でアニメコレクションを管理するシンプルなコマンドラインインターフェースです（ssh のみ使用）
+  ko: Anidbcli는 로컬 컴퓨터나 NAS에서 애니메이션 컬렉션을 관리하는 간단한 명령줄 인터페이스입니다 (ssh만 사용)
+  pl: Anidbcli to prosta interfejs wiersza poleceń do zarządzania kolekcją anime na komputerze lokalnym lub NAS (tylko przez ssh)
+  pt: O Anidbcli é uma interface de linha de comando simples para gerenciar sua coleção de animes no computador local ou no NAS (usando apenas ssh)
+  ro: Anidbcli este o interfață simplă de linie de comandă pentru gestionarea colecției tale de anime pe calculatorul local sau pe NAS (folosind doar ssh)
+  ru: Anidbcli — простой интерфейс командной строки для управления коллекцией аниме на локальном компьютере или NAS (только через ssh)
+  th: Anidbcli เป็นอินเทอร์เฟซบรรทัดคำสั่งอย่างง่ายสำหรับจัดการคอลเลกชันอนิเมะของคุณบนคอมพิวเตอร์ส่วนตัวหรือ NAS (ใช้ ssh เท่านั้น)
+  tr: Anidbcli, anime koleksiyonunuzu yerel bilgisayarınızda veya NAS'ta yönetmek için basit bir komut satırı arayüzüdür (yalnızca ssh kullanır)
+  uk: Anidbcli — простий інтерфейс командного рядка для керування колекцією аніме на локальному комп'ютері або NAS (лише через ssh)
+  vi: Anidbcli là giao diện dòng lệnh đơn giản để quản lý bộ sưu tập anime của bạn trên máy tính cục bộ hoặc NAS (chỉ dùng ssh)
 x:
   source: https://github.com/adameste/anidbcli
   pip: anidbcli

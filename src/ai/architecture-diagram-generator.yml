@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Cocoon-AI 开源的 Claude Skill，向 Claude 描述系统即可生成专业深色主题架构图（自包含 HTML 文件），内置 Copy/PNG/PDF 导出，零设计基础也能迭代。
   en: Cocoon-AI's open-source Claude Skill that turns plain-English system descriptions into professional dark-themed architecture diagrams as a self-contained HTML file, with built-in Copy/PNG/PDF export and iterative chat refinement.
+  cs: Open-source Claude Skill od Cocoon-AI, která přemění popisy systémů v běžné angličtině na profesionální tmavé architektonické diagramy v jednom samostatném HTML souboru, s vestavěným exportem do Copy/PNG/PDF a zpřesňováním v chatu.
+  de: Die quelloffene Claude Skill von Cocoon-AI, die Systembeschreibungen in normalem Englisch in professionelle Architekturdiagramme mit dunklem Design als eigenständige HTML-Datei verwandelt, mit integriertem Copy/PNG/PDF-Export und iterativer Verfeinerung im Chat.
+  es: Claude Skill de código abierto de Cocoon-AI que convierte descripciones de sistemas en lenguaje llano en diagramas de arquitectura profesionales con tema oscuro, en un único archivo HTML autónomo, con exportación Copy/PNG/PDF integrada y refinamiento iterativo por chat.
+  fr: Le Claude Skill open source de Cocoon-AI qui transforme des descriptions de systèmes en langage courant en diagrammes d'architecture professionnels au thème sombre, dans un fichier HTML autonome, avec export Copy/PNG/PDF intégré et affinage itératif par chat.
+  id: Claude Skill open source dari Cocoon-AI yang mengubah deskripsi sistem dalam bahasa biasa menjadi diagram arsitektur profesional bertema gelap dalam satu file HTML mandiri, dengan ekspor Copy/PNG/PDF bawaan dan penyempurnaan berulang lewat chat.
+  it: Claude Skill open source di Cocoon-AI che trasforma le descrizioni dei sistemi in linguaggio semplice in diagrammi architetturali professionali a tema scuro, in un unico file HTML autonomo, con esportazione Copy/PNG/PDF integrata e rifinitura iterativa via chat.
+  ja: Cocoon-AI のオープンソース Claude Skill で、平易な文章でのシステム説明を本格的なダークテーマのアーキテクチャ図に変換し、単独完結の HTML ファイルとして出力します。Copy/PNG/PDF の書き出しと、チャットでの反復的なブラッシュアップにも対応しています。
+  ko: Cocoon-AI의 오픈소스 Claude Skill으로 평문 시스템 설명을 어두운 테마의 전문 아키텍처 다이어그램으로 바꿔 하나의 자체 완결형 HTML 파일로 만듭니다. Copy/PNG/PDF 내보내기와 채팅을 통한 반복 다듬기를 지원합니다.
+  pl: Otwartoźródłowa Claude Skill firmy Cocoon-AI, która zamienia opisy systemów w zwykłym języku angielskim w profesjonalne diagramy architektury w ciemnym motywie, w jednym samodzielnym pliku HTML, z wbudowanym eksportem Copy/PNG/PDF i iteracyjnym dopracowaniem w czacie.
+  pt: Claude Skill de código aberto da Cocoon-AI que transforma descrições de sistemas em linguagem simples em diagramas de arquitetura profissionais com tema escuro, em um único arquivo HTML autocontido, com exportação Copy/PNG/PDF integrada e refinamento iterativo por chat.
+  ro: Claude Skill open source de la Cocoon-AI care transformă descrierile sistemelor în limba currentă în diagrame de arhitectură profesionale cu temă întunecată, într-un singur fișier HTML autonom, cu export Copy/PNG/PDF integrat și rafinare iterativă prin chat.
+  ru: Claude Skill с открытым исходным кодом от Cocoon-AI, который превращает обычные текстовые описания систем в профессиональные архитектурные диаграммы в тёмной теме в виде одного самодостаточного HTML-файла, со встроенным экспортом в Copy/PNG/PDF и итеративным уточнением в чате.
+  th: Claude Skill โอเพนซอร์สของ Cocoon-AI ที่เปลี่ยนคำอธิบายระบบเป็นภาษาง่าย ให้เป็นไดอะแกรมสถาปัตยกรรมระดับมืออาชีพธีมมืด ในไฟล์ HTML เดียวที่สมบูรณ์ในตัว พร้อมการส่งออก Copy/PNG/PDF ในตัวและการปรับปรุงแบบวนซ้ำผ่านแชท
+  tr: Cocoon-AI'nın açık kaynak Claude Skill'i; sıradan İngilizce sistem açıklamalarını koyu temalı profesyonel mimari diyagramlara, tek bir kendi kendine yeten HTML dosyasına dönüştürür; Copy/PNG/PDF dışa aktarma ve sohbet üzerinden yinelenen iyileştirme sunar.
+  uk: Claude Skill з відкритим кодом від Cocoon-AI, який перетворює звичайні текстові описи систем на професійні архітектурні діаграми в темній темі у вигляді одного самодостатнього HTML-файлу, зі вбудованим експортом у Copy/PNG/PDF та ітеративним уточненням у чаті.
+  vi: Claude Skill mã nguồn mở của Cocoon-AI biến mô tả hệ thống bằng ngôn ngữ đơn giản thành sơ đồ kiến trúc chuyên nghiệp nền tối trong một tệp HTML độc lập, kèm xuất Copy/PNG/PDF tích hợp và tinh chỉnh lặp lại qua chat.
 x:
   source: https://github.com/Cocoon-AI/architecture-diagram-generator
 rule:

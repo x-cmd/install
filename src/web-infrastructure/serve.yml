@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 在本地设备或局域网上启动静态网站、单页应用，甚至是单个静态文件
   en: Serve static sites, single-page apps and assets (HTML, JavaScript, CSS, and images)
+  cs: Obsluhuje statické weby, jednostránkové aplikace a statické soubory (HTML, JavaScript, CSS a obrázky)
+  de: Liefert statische Websites, Single-Page-Apps und Assets (HTML, JavaScript, CSS und Bilder) aus
+  es: Sirve sitios web estáticos, aplicaciones de una sola página y recursos (HTML, JavaScript, CSS e imágenes)
+  fr: Sert des sites statiques, des applications monopage et des ressources (HTML, JavaScript, CSS et images)
+  id: Menyajikan situs statis, aplikasi satu halaman, dan aset (HTML, JavaScript, CSS, dan gambar)
+  it: Serve siti statici, applicazioni a pagina singola e asset (HTML, JavaScript, CSS e immagini)
+  ja: 静的サイト、シングルページアプリケーション、資産 (HTML、JavaScript、CSS、画像) を配信します
+  ko: 정적 사이트, 단일 페이지 애플리케이션, 자산(HTML, JavaScript, CSS, 이미지)을 제공합니다
+  pl: Udostępnia statyczne witryny, aplikacje jednostronicowe oraz zasoby (HTML, JavaScript, CSS i obrazy)
+  pt: Serve sites estáticos, aplicativos de página única e ativos (HTML, JavaScript, CSS e imagens)
+  ro: Servește site-uri statice, aplicații cu o singură pagină și resurse (HTML, JavaScript, CSS și imagini)
+  ru: Обслуживает статические сайты, одностраничные приложения и ресурсы (HTML, JavaScript, CSS и изображения)
+  th: ให้บริการเว็บไซต์แบบคงที่ แอปหน้าเดียว และทรัพยากร (HTML, JavaScript, CSS และรูปภาพ)
+  tr: Statik siteleri, tek sayfalık uygulamaları ve varlıkları (HTML, JavaScript, CSS ve görseller) sunar
+  uk: Обслуговує статичні сайти, односторінкові застосунки та ресурси (HTML, JavaScript, CSS та зображення)
+  vi: Phục vụ các trang tĩnh, ứng dụng một trang và tài nguyên (HTML, JavaScript, CSS và hình ảnh)
 x:
   source: https://github.com/vercel/serve#readme
 rule:

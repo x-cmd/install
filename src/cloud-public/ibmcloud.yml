@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: IBM Cloud 的命令行客户端
   en: This is the command line client for IBM Cloud
+  cs: Toto je klient příkazové řádky pro IBM Cloud
+  de: Dies ist der Befehlszeilen-Client für IBM Cloud
+  es: Este es el cliente de línea de comandos de IBM Cloud
+  fr: Il s'agit du client de ligne de commande pour IBM Cloud
+  id: Ini adalah klien baris perintah untuk IBM Cloud
+  it: Questo è il client a riga di comando per IBM Cloud
+  ja: これは IBM Cloud のコマンドラインクライアントです
+  ko: 이것은 IBM Cloud용 명령줄 클라이언트입니다
+  pl: To jest klient wiersza poleceń dla IBM Cloud
+  pt: Este é o cliente de linha de comando do IBM Cloud
+  ro: Acesta este clientul de linie de comandă pentru IBM Cloud
+  ru: Это клиент командной строки для IBM Cloud
+  th: นี่คือไคลเอนต์บรรทัดคำสั่งสำหรับ IBM Cloud
+  tr: IBM Cloud için komut satırı istemcisidir
+  uk: Це клієнт командного рядка для IBM Cloud
+  vi: Đây là client dòng lệnh cho IBM Cloud
 x:
   source: https://github.com/IBM-Cloud/ibm-cloud-cli-release
   yay: ibmcloud-cli

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 统一跨平台 AI 客户端，支持在标准云 API 与设备端离线运行自定义、无审查语言模型间无缝切换
   en: A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+  cs: Jednotný multiplatformní AI klient podporující bezproblémové přechody mezi standardními cloudovými API a lokálním, offline spouštěním vlastních a necenzurovaných jazykových modelů.
+  de: Ein einheitlicher plattformübergreifender KI-Client, der nahtlose Übergänge zwischen Standard-Cloud-APIs und der Offline-Ausführung benutzerdefinierter und unzensierter Sprachmodelle auf dem Gerät unterstützt.
+  es: Un cliente de IA multiplataforma unificado que permite transiciones fluidas entre las API de nube estándar y la ejecución local y sin conexión de modelos de lenguaje personalizados y sin censura.
+  fr: Un client IA multiplateforme unifié prenant en charge les transitions fluides entre les API cloud standard et l'exécution locale et hors ligne de modèles de langage personnalisés et non censurés.
+  id: Klien AI lintas platform terpadu yang mendukung transisi mulus antara API cloud standar dan eksekusi luring kustom serta model bahasa tanpa sensor.
+  it: Un client AI multipiattaforma unificato che supporta transizioni fluide tra le API cloud standard e l'esecuzione locale e offline di modelli linguistici personalizzati e non censurati.
+  ja: 標準的なクラウド API と、カスタムおよび検閲なしの言語モデルのデバイス上オフライン実行をシームレスに切り替えられる統合クロスプラットフォーム AI クライアント。
+  ko: 표준 클라우드 API와 사용자 정의 및 무검열 언어 모델의 기기 내 오프라인 실행 사이를 매끄럽게 전환하는 통합 크로스 플랫폼 AI 클라이언트.
+  pl: Zunifikowany wieloplatformowy klient AI obsługujący płynne przejścia między standardowymi API chmurowymi a lokalnym, offline uruchamianiem własnych i niecensurowanych modeli językowych.
+  pt: Um cliente de IA multiplataforma unificado que oferece transições perfeitas entre APIs de nuvem padrão e execução local e offline de modelos de linguagem personalizados e sem censura.
+  ro: Un client AI unificat cross-platform, cu tranziții fluide între API-urile cloud standard și execuția locală, offline, a modelelor de limbaj personalizate și necenzurate.
+  ru: Единый кроссплатформенный AI-клиент с бесшовным переключением между стандартными облачными API и локальным офлайн-выполнением пользовательских и нецензурируемых языковых моделей.
+  th: ไคลเอนต์ AI แบบรวมศูนย์ข้ามแพลตฟอร์มที่รองรับการสลับอย่างราบรื่นระหว่าง API คลาวด์มาตรฐานกับการรันโมเดลภาษาแบบกำหนดเองและไม่มีการเซ็นเซอร์ในเครื่องแบบออฟไลน์
+  tr: Standart bulut API'leri ile özel ve sansürsüz dil modellerinin cihaz üzerinde çevrimdışı çalıştırılması arasında kesintisiz geçiş sağlayan birleşik, platformlar arası AI istemcisi.
+  uk: Єдиний кроссплатформний AI-клієнт із безшовним перемиканням між стандартними хмарними API та локальним офлайн виконанням власних і нецензурованих мовних моделей.
+  vi: Một client AI đa nền tảng thống nhất, hỗ trợ chuyển đổi liền mạch giữa API đám mây tiêu chuẩn và chạy offline ngay trên thiết bị cho các mô hình ngôn ngữ tùy chỉnh, không kiểm duyệt.
 x:
   source: https://github.com/orailnoor/cross-platform-llm-client
   eget: orailnoor/cross-platform-llm-client

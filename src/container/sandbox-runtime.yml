@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
   cn: 轻量级的沙箱工具，可以在操作系统级别对任意进程强制执行文件系统和网络限制，而无需容器
+  cs: Lehký nástroj pro sandboxing, který na úrovni OS vynucuje omezení systému souborů a sítě pro libovolné procesy, bez nutnosti použít kontejner.
+  de: Ein leichtgewichtiges Sandbox-Werkzeug, das Dateisystem- und Netzwerkbeschränkungen für beliebige Prozesse auf Betriebssystemebene durchsetzt, ohne dass ein Container erforderlich ist.
+  es: Una herramienta ligera de sandboxing que impone restricciones de sistema de archivos y red para procesos arbitrarios a nivel de sistema operativo, sin necesidad de un contenedor.
+  fr: Un outil de sandboxing léger qui impose des restrictions de système de fichiers et de réseau à des processus arbitraires au niveau du système d'exploitation, sans nécessiter de conteneur.
+  id: Alat sandboxing ringan yang menegakkan pembatasan sistem file dan jaringan pada proses apa pun di tingkat sistem operasi, tanpa memerlukan container.
+  it: Uno strumento di sandboxing leggero che impone restrizioni sul file system e sulla rete per processi arbitrari a livello di sistema operativo, senza richiedere un container.
+  ja: コンテナを必要とせず、OS レベルで任意のプロセスにファイルシステムとネットワークの制限を強制する軽量なサンドボックスツール。
+  ko: 컨테이너 없이 임의의 프로세스에 파일 시스템 및 네트워크 제한을 OS 수준에서 적용하는 경량 샌드박싱 도구.
+  pl: Lekkie narzędzie do sandboxingu, które wymusza ograniczenia systemu plików i sieci dla dowolnych procesów na poziomie systemu operacyjnego, bez potrzeby korzystania z kontenera.
+  pt: Uma ferramenta leve de sandboxing que impõe restrições de sistema de arquivos e rede a processos arbitrários no nível do sistema operacional, sem exigir um contêiner.
+  ro: Un instrument ușor de sandboxing care impune restricții de sistem de fișiere și rețea pentru procese arbitrare la nivel de sistem de operare, fără a necesita un container.
+  ru: Лёгкий инструмент для изоляции, который на уровне ОС применяет ограничения файловой системы и сети к произвольным процессам, не требуя контейнера.
+  th: เครื่องมือ sandboxing แบบเบาที่บังคับใช้ข้อจำกัดระบบไฟล์และเครือข่ายกับกระบวนการใด ๆ ที่ระดับระบบปฏิบัติการ โดยไม่ต้องใช้คอนเทนเนอร์.
+  tr: Konteyner gerektirmeden işletim sistemi düzeyinde keyfi süreçlere dosya sistemi ve ağ kısıtlamaları uygulayan hafif bir sandbox aracı.
+  uk: Легкий інструмент для ізоляції, який на рівні ОС застосовує обмеження файлової системи та мережі до довільних процесів, не потребуючи контейнера.
+  vi: Công cụ sandboxing nhẹ, thực thi các hạn chế hệ thống tệp và mạng đối với tiến trình tùy ý ở mức hệ điều hành, mà không cần container.
 x:
   source: https://github.com/anthropic-experimental/sandbox-runtime
   npm: "@anthropic-ai/sandbox-runtime"

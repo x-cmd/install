@@ -3,6 +3,22 @@ lang: Python
 desc:
   cn: 一个开源包管理和环境管理系统，用于安装、运行和升级跨语言和跨平台的软件包和依赖关系。被广泛用于科学计算和数据科学领域
   en: An open-source package management and environment management system for installing, running, and updating packages and their dependencies across multiple languages and platforms. Widely used in scientific computing and data science
+  cs: Open-source systém pro správu balíčků a prostředí, který instaluje, spouští a aktualizuje balíčky a jejich závislosti napříč jazyky a platformami. Široce se používá ve vědeckých výpočtech a datové vědě
+  de: Ein quelloffenes Paket- und Umgebungsverwaltungssystem zum Installieren, Ausführen und Aktualisieren von Paketen und ihren Abhängigkeiten über mehrere Sprachen und Plattformen hinweg. Weit verbreitet in Wissenschaft und Datenanalyse
+  es: Un sistema de gestión de paquetes y entornos de código abierto para instalar, ejecutar y actualizar paquetes y sus dependencias en varios lenguajes y plataformas. Ampliamente usado en computación científica y ciencia de datos
+  fr: Un système open source de gestion de paquets et d'environnements pour installer, exécuter et mettre à jour des paquets et leurs dépendances sur plusieurs langages et plateformes. Largement utilisé en calcul scientifique et science des données
+  id: Sistem manajemen paket dan lingkungan sumber terbuka untuk memasang, menjalankan, dan memperbarui paket beserta dependensinya di berbagai bahasa dan platform. Banyak digunakan dalam komputasi ilmiah dan ilmu data
+  it: Un sistema open source di gestione di pacchetti e ambienti per installare, eseguire e aggiornare pacchetti e le loro dipendenze su più linguaggi e piattaforme. Ampiamente usato nel calcolo scientifico e nella scienza dei dati
+  ja: 複数の言語とプラットフォームにわたってパッケージとその依存関係をインストール、実行、更新するためのオープンソースのパッケージおよび環境管理システムです。科学計算やデータサイエンスで広く使われています
+  ko: 여러 언어와 플랫폼에서 패키지와 그 의존성을 설치, 실행, 업데이트하는 오픈 소스 패키지 및 환경 관리 시스템입니다. 과학 계산과 데이터 사이언스에서 널리 사용됩니다
+  pl: Open-source system zarządzania pakietami i środowiskami do instalowania, uruchamiania i aktualizowania pakietów oraz ich zależności w wielu językach i na wielu platformach. Powszechnie używany w obliczeniach naukowych i nauce o danych
+  pt: Um sistema de código aberto de gerenciamento de pacotes e ambientes para instalar, executar e atualizar pacotes e suas dependências em várias linguagens e plataformas. Amplamente usado em computação científica e ciência de dados
+  ro: Un sistem open-source de gestionare a pachetelor și a mediilor pentru instalarea, rularea și actualizarea pachetelor și a dependențelor lor în mai multe limbaje și platforme. Folosit pe scară largă în calculul științific și știința datelor
+  ru: Система управления пакетами и окружениями с открытым исходным кодом для установки, запуска и обновления пакетов и их зависимостей в разных языках и на разных платформах. Широко используется в научных вычислениях и науке о данных
+  th: ระบบจัดการแพ็กเกจและสภาพแวดล้อมแบบโอเพนซอร์สสำหรับติดตั้ง รัน และอัปเดตแพ็กเกจพร้อมการพึ่งพาของแพ็กเกจข้ามภาษาและแพลตฟอร์ม ใช้อย่างแพร่หลายในงานวิทยาศาสตร์คำนวณและวิทยาข้อมูล
+  tr: Paketleri ve bağımlılıklarını farklı diller ve platformlar arasında kurmak, çalıştırmak ve güncellemek için açık kaynaklı paket ve ortam yönetim sistemi. Bilimsel hesaplama ve veri biliminde yaygın olarak kullanılır
+  uk: Відкрита система керування пакетами та середовищами для встановлення, запуску й оновлення пакетів та їх залежностей у різних мовах і на різних платформах. Широко використовується в наукових обчисленнях та науці про дані
+  vi: Hệ thống quản lý gói và môi trường mã nguồn mở để cài đặt, chạy và cập nhật các gói cùng phụ thuộc của chúng trên nhiều ngôn ngữ và nền tảng. Được sử dụng rộng rãi trong tính toán khoa học và khoa học dữ liệu
 x:
   source: https://github.com/conda/conda
   eget: conda/conda

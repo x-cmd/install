@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Deno 是一个 JavaScript、TypeScript 和 WebAssembly 运行时，具有安全的默认设置和出色的开发人员体验
   en: Deno is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience
+  cs: Deno je běhové prostředí pro JavaScript, TypeScript a WebAssembly s bezpečnými výchozími nastaveními a výbornou zkušeností vývojáře
+  de: Deno ist eine JavaScript-, TypeScript- und WebAssembly-Laufzeitumgebung mit sicheren Standardeinstellungen und hervorragender Entwicklererfahrung
+  es: Deno es un entorno de ejecución de JavaScript, TypeScript y WebAssembly con valores predeterminados seguros y una excelente experiencia de desarrollo
+  fr: Deno est un environnement d'exécution JavaScript, TypeScript et WebAssembly avec des réglages par défaut sécurisés et une excellente expérience développeur
+  id: Deno adalah runtime JavaScript, TypeScript, dan WebAssembly dengan default yang aman dan pengalaman pengembang yang luar biasa
+  it: Deno è un runtime JavaScript, TypeScript e WebAssembly con impostazioni predefinite sicure e un'ottima esperienza per gli sviluppatori
+  ja: Deno は安全なデフォルト設定と優れた開発者体験を持つ JavaScript、TypeScript、WebAssembly ランタイムです
+  ko: Deno는 안전한 기본 설정과 훌륭한 개발자 경험을 제공하는 JavaScript, TypeScript, WebAssembly 런타임입니다
+  pl: Deno to środowisko uruchomieniowe dla JavaScript, TypeScript i WebAssembly z bezpiecznymi ustawieniami domyślnymi i świetnym doświadczeniem deweloperskim
+  pt: Deno é um ambiente de execução de JavaScript, TypeScript e WebAssembly com padrões de segurança e uma excelente experiência de desenvolvimento
+  ro: Deno este un runtime JavaScript, TypeScript și WebAssembly cu setări implicite sigure și o experiență excelentă pentru dezvoltatori
+  ru: Deno — это среда выполнения для JavaScript, TypeScript и WebAssembly с безопасными настройками по умолчанию и отличным опытом разработки
+  th: Deno เป็น runtime สำหรับ JavaScript, TypeScript และ WebAssembly พร้อมค่าเริ่มต้นที่ปลอดภัยและประสบการณ์นักพัฒนาที่ยอดเยี่ยม
+  tr: Deno, güvenli varsayılanlar ve harika bir geliştirici deneyimiyle JavaScript, TypeScript ve WebAssembly çalışma zamanıdır
+  uk: Deno — це середовище виконання для JavaScript, TypeScript та WebAssembly із безпечними налаштуваннями за замовчуванням і чудовим досвідом розробника
+  vi: Deno là runtime cho JavaScript, TypeScript và WebAssembly với cấu hình mặc định an toàn và trải nghiệm nhà phát triển xuất sắc
 x:
   source: https://github.com/denoland/deno
   eget: denoland/deno

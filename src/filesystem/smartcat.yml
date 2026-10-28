@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Putting a brain behind `cat` Integrating language models in the Unix commands ecosystem through text streams
   cn: 在 `cat` 背后放置一个大脑 将语言模型融入 Unix 命令生态系统，通过文本流进行集成
+  cs: Dát mozek za `cat` Integrace jazykových modelů do ekosystému unixových příkazů prostřednictvím textových streamů
+  de: Ein Gehirn hinter `cat` Integriert Sprachmodelle über Textströme in das Ökosystem der Unix-Befehle
+  es: Un cerebro detrás de `cat` Integra modelos de lenguaje en el ecosistema de comandos Unix mediante flujos de texto
+  fr: Un cerveau derrière `cat` Intègre les modèles de langage dans l'écosystème des commandes Unix via des flux de texte
+  id: Menaruh otak di balik `cat` Menggabungkan model bahasa ke dalam ekosistem perintah Unix melalui aliran teks
+  it: Un cervello dietro `cat` Integra i modelli linguistici nell'ecosistema dei comandi Unix tramite flussi di testo
+  ja: "`cat` の背後に脳を置く テキストストリームを通じて言語モデルを Unix コマンドのエコシステムに統合する"
+  ko: "`cat` 뒤에 두뇌를 두다 텍스트 스트림을 통해 언어 모델을 Unix 명령 생태계에 통합합니다"
+  pl: Mózg za `cat` Integruje modele językowe z ekosystemem poleceń uniksowych za pomocą strumieni tekstu
+  pt: Um cérebro por trás do `cat` Integra modelos de linguagem no ecossistema de comandos Unix por meio de fluxos de texto
+  ro: Un creier în spatele `cat` Integrează modelele de limbaj în ecosistemul comenzilor Unix prin fluxuri de text
+  ru: Мозг за `cat` Интегрирует языковые модели в экосистему команд Unix через текстовые потоки
+  th: สมองหลัง `cat` ผสานโมเดลภาษาเข้ากับระบบนิเวศคำสั่ง Unix ผ่านสตรีมข้อความ
+  tr: "`cat` arkasına bir beyin Unix komut ekosistemine metin akışlarıyla dil modellerini entegre eder"
+  uk: Мозок за `cat` Інтегрує мовні моделі в екосистему команд Unix через текстові потоки
+  vi: Đặt một bộ não sau `cat` Tích hợp các mô hình ngôn ngữ vào hệ sinh thái lệnh Unix thông qua luồng văn bản
 x:
   source: https://github.com/efugier/smartcat
   eget: efugier/smartcat

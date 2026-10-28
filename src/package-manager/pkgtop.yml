@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于 GNU/Linux 系统的交互式包管理器和资源监视器
   en: An interactive package manager and resource monitor for GNU/Linux systems
+  cs: Interaktivní správce balíčků a monitor zdrojů pro systémy GNU/Linux
+  de: Ein interaktiver Paketmanager und Ressourcenmonitor für GNU/Linux-Systeme
+  es: Un gestor de paquetes interactivo y monitor de recursos para sistemas GNU/Linux
+  fr: Un gestionnaire de paquets interactif et moniteur de ressources pour les systèmes GNU/Linux
+  id: Pengelola paket interaktif dan monitor sumber daya untuk sistem GNU/Linux
+  it: Un gestore di pacchetti interattivo e monitor delle risorse per sistemi GNU/Linux
+  ja: GNU/Linux システム向けの対話型パッケージマネージャー兼リソースモニター
+  ko: GNU/Linux 시스템을 위한 대화형 패키지 관리자이자 자원 모니터
+  pl: Interaktywny menedżer pakietów i monitor zasobów dla systemów GNU/Linux
+  pt: Um gerenciador de pacotes interativo e monitor de recursos para sistemas GNU/Linux
+  ro: Un manager de pachete interactiv și monitor de resurse pentru sistemele GNU/Linux
+  ru: Интерактивный менеджер пакетов и монитор ресурсов для систем GNU/Linux
+  th: ตัวจัดการแพ็กเกจแบบโต้ตอบและเครื่องมือตรวจสอบทรัพยากรสำหรับระบบ GNU/Linux
+  tr: GNU/Linux sistemleri için etkileşimli paket yöneticisi ve kaynak izleyici
+  uk: Інтерактивний менеджер пакетів і монітор ресурсів для систем GNU/Linux
+  vi: Trình quản lý gói tương tác và trình giám sát tài nguyên cho các hệ thống GNU/Linux
 x:
   source: https://github.com/orhun/pkgtop
   yay: pkgtop

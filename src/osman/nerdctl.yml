@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 适用于 Containerd 的 Docker 兼容 CLI
   en: Docker-compatible CLI for containerd
+  cs: CLI kompatibilní s Dockerem pro containerd
+  de: Docker-kompatible CLI für containerd
+  es: CLI compatible con Docker para containerd
+  fr: CLI compatible Docker pour containerd
+  id: CLI yang kompatibel dengan Docker untuk containerd
+  it: CLI compatibile con Docker per containerd
+  ja: containerd 向けの Docker 互換 CLI
+  ko: containerd용 Docker 호환 CLI
+  pl: CLI zgodne z Dockerem dla containerd
+  pt: CLI compatível com Docker para containerd
+  ro: CLI compatibil cu Docker pentru containerd
+  ru: Docker-совместимый CLI для containerd
+  th: CLI ที่เข้ากันได้กับ Docker สำหรับ containerd
+  tr: containerd için Docker uyumlu CLI
+  uk: Docker-сумісний CLI для containerd
+  vi: CLI tương thích Docker cho containerd
 x:
   source: https://github.com/containerd/nerdctl
   eget: containerd/nerdctl

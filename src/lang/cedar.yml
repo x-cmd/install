@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Cedar 是一种将权限定义为策略的语言，它描述了谁应该有权访问什么。它还是评估这些策略的规范
   en: Cedar is a language for defining permissions as policies, which describe who should have access to what. It is also a specification for evaluating those policies
+  cs: Cedar je jazyk pro definování oprávnění jako zásad, které popisují, kdo má mít přístup k čemu. Je také specifikací pro vyhodnocování těchto zásad
+  de: Cedar ist eine Sprache zur Definition von Berechtigungen als Richtlinien, die beschreiben, wer auf was zugreifen sollte. Sie ist außerdem eine Spezifikation zur Auswertung dieser Richtlinien
+  es: Cedar es un lenguaje para definir permisos como políticas, que describen quién debe tener acceso a qué. También es una especificación para evaluar esas políticas
+  fr: Cedar est un langage permettant de définir des permissions sous forme de politiques, qui décrivent qui doit accéder à quoi. C'est aussi une spécification pour évaluer ces politiques
+  id: Cedar adalah bahasa untuk mendefinisikan izin sebagai kebijakan, yang menjelaskan siapa yang seharusnya memiliki akses ke apa. Cedar juga merupakan spesifikasi untuk mengevaluasi kebijakan tersebut
+  it: Cedar è un linguaggio per definire le autorizzazioni come criteri, che descrivono chi dovrebbe accedere a cosa. È anche una specifica per valutare questi criteri
+  ja: Cedar は、誰が何にアクセスできるかを表すポリシーを定義する言語です。また、これらのポリシーを評価するための仕様でもあります
+  ko: Cedar는 누가 무엇에 접근해야 하는지를 설명하는 정책으로 권한을 정의하는 언어입니다. 또한 해당 정책을 평가하기 위한 명세이기도 합니다
+  pl: Cedar to język do definiowania uprawnień jako polityk, które opisują, kto powinien mieć dostęp do czego. Jest to również specyfikacja oceny tych polityk
+  pt: Cedar é uma linguagem para definir permissões como políticas, que descrevem quem deve ter acesso a quê. Também é uma especificação para avaliar essas políticas
+  ro: Cedar este un limbaj pentru definirea permisiunilor ca politici, care descriu cine ar trebui să aibă acces la ce. Este și o specificație pentru evaluarea acestor politici
+  ru: Cedar — язык для определения разрешений в виде политик, описывающих, кому и к чему следует иметь доступ. Это также спецификация для вычисления таких политик
+  th: Cedar เป็นภาษาสำหรับนิยามสิทธิ์ในรูปแบบนโยบาย ซึ่งอธิบายว่าใครควรเข้าถึงอะไร และยังเป็นข้อกำหนดสำหรับการประเมินนโยบายเหล่านั้น
+  tr: Cedar, kimlerin neye erişmesi gerektiğini açıklayan politikalar olarak izinleri tanımlayan bir dildir; aynı zamanda bu politikaları değerlendirmek için bir şartnamedir
+  uk: Cedar — мова для визначення дозволів як політик, які описують, хто і до чого має мати доступ. Це також специфікація для обчислення таких політик
+  vi: Cedar là ngôn ngữ để định nghĩa quyền truy cập dưới dạng chính sách, mô tả ai nên được truy cập vào cái gì; đồng thời là đặc tả để đánh giá các chính sách đó
 x:
   source: https://github.com/cedar-policy/cedar
 rule:

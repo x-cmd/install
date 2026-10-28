@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: C/C++ 实现的 LLM 推理
   en: 'LLM inference in C/C++'
+  cs: Inference LLM v C/C++
+  de: LLM-Inferenz in C/C++
+  es: Inferencia de LLM en C/C++
+  fr: Inférence LLM en C/C++
+  id: Inferensi LLM dalam C/C++
+  it: Inferenza LLM in C/C++
+  ja: C/C++によるLLM推論
+  ko: C/C++로 구현한 LLM 추론
+  pl: Wnioskowanie LLM w C/C++
+  pt: Inferência de LLM em C/C++
+  ro: Inferență LLM în C/C++
+  ru: Вывод LLM на C/C++
+  th: การอนุมาน LLM ด้วย C/C++
+  tr: C/C++ ile LLM çıkarımı
+  uk: Виведення LLM на C/C++
+  vi: Suy luận LLM bằng C/C++
 x:
   source: https://github.com/ggerganov/llama.cpp
   eget: ggerganov/llama.cpp

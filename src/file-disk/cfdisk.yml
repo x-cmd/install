@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 一个用于使用 Curss ui 的硬盘上管理分区表和分区的程序
   en: A program for managing partition tables and partitions on a hard disk using a curses UI
+  cs: Program pro správu tabulek rozdělení a oddílů na pevném disku pomocí curses UI
+  de: Ein Programm zur Verwaltung von Partitionstabellen und Partitionen auf einer Festplatte mit einer curses-Oberfläche
+  es: Un programa para gestionar tablas de particiones y particiones en un disco duro con una interfaz curses
+  fr: Un programme de gestion des tables de partition et des partitions sur un disque dur avec une interface curses
+  id: Program untuk mengelola tabel partisi dan partisi pada disk keras menggunakan UI curses
+  it: Un programma per gestire tabelle delle partizioni e partizioni su un disco rigido con un'interfaccia curses
+  ja: curses UI を使ってハードディスクのパーティションテーブルとパーティションを管理するプログラム
+  ko: curses UI를 사용하여 하드 디스크의 파티션 테이블과 파티션을 관리하는 프로그램
+  pl: Program do zarządzania tablicami partycji i partycjami na dysku twardym przy użyciu interfejsu curses
+  pt: Um programa para gerir tabelas de partições e partições num disco rígido usando uma interface curses
+  ro: Un program pentru gestionarea tabelelor de partiții și a partițiilor de pe un hard disk folosind o interfață curses
+  ru: Программа для управления таблицами разделов и разделами на жестком диске с помощью curses-интерфейса
+  th: โปรแกรมสำหรับจัดการตารางพาร์ติชันและพาร์ติชันบนฮาร์ดดิสก์โดยใช้ curses UI
+  tr: Curses arayüzü kullanarak sabit diskteki bölüm tablolarını ve bölümleri yöneten program
+  uk: Програма для керування таблицями розділів і розділами на жорсткому диску за допомогою curses-інтерфейсу
+  vi: Chương trình quản lý bảng phân vùng và các phân vùng trên ổ cứng bằng giao diện curses
 x:
   source: https://github.com/util-linux/util-linux
   apt: util-linux

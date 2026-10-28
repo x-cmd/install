@@ -3,6 +3,22 @@ homepage: https://github.com/containers/bubblewrap
 desc:
   cn: bwrap 是 Flatpak 和类似项目使用的低级非特权沙盒工具
   en: bwrap is low-level unprivileged sandboxing tool used by Flatpak and similar projects
+  cs: bwrap je nízkoúrovňový neprivilegovaný nástroj pro sandboxing, který používá Flatpak a podobné projekty
+  de: bwrap ist ein Low-Level-Sandboxing-Werkzeug ohne Root-Rechte, das von Flatpak und ähnlichen Projekten verwendet wird
+  es: bwrap es una herramienta de aislamiento de bajo nivel sin privilegios que usan Flatpak y proyectos similares
+  fr: bwrap est un outil de sandboxing bas niveau non privilégié utilisé par Flatpak et des projets similaires
+  id: bwrap adalah alat sandboxing tingkat rendah tanpa hakIstimewa yang digunakan oleh Flatpak dan proyek serupa
+  it: bwrap è uno strumento di sandboxing a basso livello non privilegiato utilizzato da Flatpak e progetti simili
+  ja: bwrap は Flatpak などのプロジェクトで使用される低レベルの非特権サンドボックスツールです
+  ko: bwrap는 Flatpak 및 유사한 프로젝트에서 사용하는 저수준 비특권 샌드박스 도구입니다
+  pl: bwrap to narzędzie do piaskownicy na niskim poziomie, bez przywilejów, używane przez Flatpak i podobne projekty
+  pt: bwrap é uma ferramenta de sandboxing de baixo nível sem privilégios, usada pelo Flatpak e projetos semelhantes
+  ro: bwrap este o unealtă de sandboxing de nivel scăzut, fără privilegii, folosită de Flatpak și proiecte similare
+  ru: bwrap — это низкоуровневый непривилегированный инструмент для песочницы, используемый Flatpak и аналогичными проектами
+  th: bwrap คือเครื่องมือแซนด์บ็อกซ์ระดับต่ำแบบไม่ต้องมีสิทธิ์พิเศษ ที่ Flatpak และโครงการที่คล้ายกันใช้
+  tr: bwrap, Flatpak ve benzeri projelerin kullandığı düşük seviyeli, ayrıcalıksız sandbox aracıdır
+  uk: bwrap — це низькорівневий непривілейований інструмент для пісочниці, який використовується Flatpak та подібними проєктами
+  vi: bwrap là công cụ sandbox mức thấp, không cần đặc quyền, được Flatpak và các dự án tương tự sử dụng
 x:
   source: https://github.com/containers/bubblewrap
   eget: containers/bubblewrap

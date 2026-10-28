@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Claude Code 技能，用穴居人风格说话可减少 65% 的 token 用量
   en: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+  cs: 🪨 proč používat hodně tokenů, když pár tokenů zvládne trik — Claude Code skill, který sníží spotřebu tokenů o 65 % tím, že mluví jako člověk z jeskyně
+  de: 🪨 Warum viele Token nutzen, wenn wenige Token den Trick schaffen — Claude Code Skill, der durch Höhlenmenschen-Sprache 65 % der Tokens spart
+  es: 🪨 ¿Por qué usar muchos tokens si unos pocos hacen el truco? — Skill de Claude Code que reduce un 65 % de los tokens hablando como un hombre de las cavernas
+  fr: 🪨 Pourquoi utiliser beaucoup de tokens quand quelques tokens suffisent à faire le coup — Skill Claude Code qui réduit de 65 % les tokens en parlant comme un homme des cavernes
+  id: 🪨 Mengapa memakai banyak token kalau sedikit token sudah bisa melakukan trik — Skill Claude Code yang memangkas 65% token dengan berbicara seperti manusia gua
+  it: 🪨 Perché usare molti token quando pochi token bastano al trucco — Skill Claude Code che riduce il 65% dei token parlando come un uomo delle caverne
+  ja: 🪨 トークンが多いのに少ないトークンで済むのはなぜ — 穴居人のように話すことでトークン使用量を 65% 削減する Claude Code スキル
+  ko: 🪨 토큰을 많이 쓸 필요 없이 적은 토큰으로 해결할 수 있습니다 — 동굴 사람처럼 말해 토큰 사용량을 65% 줄이는 Claude Code 스킬
+  pl: 🪨 Po co zużywać wielu tokenów, skoro kilka wystarczy — Umiejętność Claude Code, która obcina 65% tokenów dzięki mówieniu jak jaskiniowy człowiek
+  pt: 🪨 Por que usar muitos tokens quando poucos tokens resolvem — Skill do Claude Code que corta 65% dos tokens falando como um homem das cavernas
+  ro: 🪨 De ce să folosești mulți tokeni când câțiva fac treaba — Skill Claude Code care reduce cu 65% tokenurile vorbind ca un om din peșteră
+  ru: 🪨 Зачем тратить много токенов, если хватает немногих — Claude Code skill, который сокращает расход токенов на 65 %, разговаривая как пещерный человек
+  th: 🪨 ทำไมต้องใช้โทเคนเยอะ ในเมื่อโทเคนไม่กี่ตัวก็พอ — Claude Code skill ที่ลดการใช้โทเคนลง 65% ด้วยการพูดแบบคนถ้ำ
+  tr: 🪨 Az token kullanmak neden birkaç tokenla halledilemiyor — Mağara adamı gibi konuşarak jeton kullanımını %65 azaltan Claude Code becerisi
+  uk: 🪨 Навіщо витрачати багато токенів, якщо вистачить кількох — Claude Code skill, який зменшує витрату токенів на 65 %, розмовляючи як печериця людина
+  vi: 🪨 Tại sao dùng nhiều token khi chỉ cần ít token là đủ — Skill Claude Code giảm 65% token bằng cách nói như người hang động
 x:
   source: https://github.com/JuliusBrussee/caveman
   eget: JuliusBrussee/caveman

@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Node.js 的可移植 Unix shell 命令
   en: Portable Unix shell commands for Node.js
+  cs: Přenosné unixové příkazy pro Node.js
+  de: Portable Unix-Shell-Befehle für Node.js
+  es: Comandos shell de Unix portables para Node.js
+  fr: Commandes shell Unix portables pour Node.js
+  id: Perintah shell Unix portabel untuk Node.js
+  it: Comandi shell Unix portabili per Node.js
+  ja: Node.js 向けの移植可能な Unix シェルコマンド
+  ko: Node.js를 위한 이식 가능한 Unix 셸 명령
+  pl: Przenośne polecenia powłoki Unixa dla Node.js
+  pt: Comandos shell Unix portáteis para Node.js
+  ro: Comenzi shell Unix portabile pentru Node.js
+  ru: Переносимые команды Unix-оболочки для Node.js
+  th: คำสั่งเชลล์ Unix แบบพกพาสำหรับ Node.js
+  tr: Node.js için taşınabilir Unix kabuk komutları
+  uk: Переносні команди Unix-оболонки для Node.js
+  vi: Các lệnh shell Unix có thể mang theo cho Node.js
 x:
   source: http://github.com/shelljs/shelljs
   npm: shelljs

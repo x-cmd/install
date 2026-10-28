@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一款用 Rust 编写的快速、异步的链接检查器。
   en: A fast, async link checker written in Rust.
+  cs: Rychlý asynchronní kontrolor odkazů napsaný v Rustu.
+  de: Ein schneller, asynchroner Link-Prüfer, geschrieben in Rust.
+  es: Un comprobador de enlaces rápido y asíncrono escrito en Rust.
+  fr: Un vérificateur de liens rapide et asynchrone écrit en Rust.
+  id: Pemeriksa tautan cepat dan asinkron yang ditulis dengan Rust.
+  it: Un controllore di link veloce e asincrono scritto in Rust.
+  ja: Rust で書かれた高速な非同期リンクチェッカー。
+  ko: Rust로 작성된 빠른 비동기 링크 검사기.
+  pl: Szybki asynchroniczny sprawdzacz linków napisany w Rust.
+  pt: Um verificador de links rápido e assíncrono escrito em Rust.
+  ro: Un verificator de linkuri rapid și asincron scris în Rust.
+  ru: Быстрый асинхронный проверщик ссылок, написанный на Rust.
+  th: ตัวตรวจสอบลิงก์ที่เร็วและอะซิงโครนัส เขียนด้วย Rust
+  tr: Rust ile yazılmış hızlı, asenkron bir bağlantı denetleyicisi.
+  uk: Швидкий асинхронний перевіряч посилань, написаний на Rust.
+  vi: Trình kiểm tra liên kết nhanh và bất đồng bộ viết bằng Rust.
 x:
   source: https://github.com/lycheeverse/lychee
   eget: lycheeverse/lychee

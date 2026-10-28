@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于保持应用程序设置同步 (OS X/Linux)
   en: Keep your application settings in sync (OS X/Linux)
+  cs: Udržujte nastavení aplikací v synchronizaci (OS X/Linux)
+  de: Halten Sie Ihre Anwendungseinstellungen synchron (OS X/Linux)
+  es: Mantenga sus preferencias de aplicaciones sincronizadas (OS X/Linux)
+  fr: Gardez vos réglages d'applications synchronisés (OS X/Linux)
+  id: Jaga pengaturan aplikasi Anda tetap sinkron (OS X/Linux)
+  it: Mantieni sincronizzate le impostazioni delle tue applicazioni (OS X/Linux)
+  ja: アプリケーションの設定を同期させます (OS X/Linux)
+  ko: 애플리케이션 설정을 동기화하여 유지합니다 (OS X/Linux)
+  pl: Utrzymuj ustawienia aplikacji w synchronizacji (OS X/Linux)
+  pt: Mantenha as configurações dos seus aplicativos sincronizadas (OS X/Linux)
+  ro: Păstrați setările aplicațiilor sincronizate (OS X/Linux)
+  ru: Держите настройки приложений синхронизированными (OS X/Linux)
+  th: ให้การตั้งค่าแอปพลิเคชันของคุณอยู่ในความสอดคล้องกัน (OS X/Linux)
+  tr: Uygulama ayarlarınızı eşitlenmiş tutun (OS X/Linux)
+  uk: Тримайте налаштування застосунків синхронізованими (OS X/Linux)
+  vi: Giữ cho cài đặt ứng dụng của bạn luôn đồng bộ (OS X/Linux)
 x:
   source: https://github.com/lra/mackup
   brew: mackup

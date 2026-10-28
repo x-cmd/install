@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 在 macOS 上管理本地 Markdown 笔记库，支持个人 wiki、AI 编辑、图谱导航与可选加密同步
   en: Manage a local vault of Markdown notes with a personal wiki, AI-powered editing, graph navigation, and optional encrypted sync on macOS.
+  cs: Spravujte místní trezor poznámek Markdown s osobní wiki, úpravami pomocí AI, navigací v grafu a volitelnou šifrovanou synchronizací v macOS.
+  de: Verwalten Sie einen lokalen Tresor mit Markdown-Notizen mit persönlichem Wiki, KI-gestützter Bearbeitung, Graphnavigation und optionaler verschlüsselter Synchronisierung unter macOS.
+  es: Gestione un almacén local de notas Markdown con un wiki personal, edición asistida por IA, navegación por grafos y sincronización cifrada opcional en macOS.
+  fr: Gérez un coffre local de notes Markdown avec wiki personnel, édition assistée par IA, navigation par graphe et synchronisation chiffrée facultative sur macOS.
+  id: Kelola vault lokal catatan Markdown dengan wiki pribadi, penyuntingan bertenaga AI, navigasi grafik, dan sinkronisasi terenkripsi opsional di macOS.
+  it: Gestisci un archivio locale di note Markdown con wiki personale, modifica assistita dall'IA, navigazione a grafo e sincronizzazione crittografata opzionale su macOS.
+  ja: macOSで、パーソナルWiki、AIによる編集、グラフナビゲーション、任意の暗号化同期を備えたローカルMarkdownノート保管庫を管理します。
+  ko: macOS에서 개인 위키, AI 편집, 그래프 탐색, 선택적 암호화 동기화를 지원하는 로컬 Markdown 노트 저장소를 관리하세요.
+  pl: Zarządzaj lokalnym skarbietem notatek Markdown z osobistą wiki, edycją wspieraną przez AI, nawigacją po grafie i opcjonalną szyfrowaną synchronizacją w systemie macOS.
+  pt: Gerencie um cofre local de notas Markdown com wiki pessoal, edição com IA, navegação por grafo e sincronização criptografada opcional no macOS.
+  ro: Gestionați un seif local de note Markdown cu wiki personal, editare susținută de AI, navigare în graf și sincronizare criptată opțională în macOS.
+  ru: Управляйте локальным хранилищем заметок Markdown с личной вики-страницей, редактированием с помощью ИИ, навигацией по графу и опциональной зашифрованной синхронизацией в macOS.
+  th: จัดการคลังโน้ต Markdown ในเครื่องพร้อมวิกิพีเดียวส่วนตัว การแก้ไขด้วย AI การนำทางด้วยกราฟ และการซิงค์แบบเข้ารหัสโดยเลือกได้บน macOS
+  tr: macOS'ta kişisel wiki, yapay zeka destekli düzenleme, graf gezinmesi ve isteğe bağlı şifreli eşitleme ile yerel Markdown notu kasasını yönetin.
+  uk: Керуйте локальним сховищем нотаток Markdown з особистою вікі, редагуванням за допомогою ШІ, навігацією графами та необов'язковою зашифрованою синхронізацією в macOS.
+  vi: Quản lý kho ghi chú Markdown cục bộ với wiki cá nhân, chỉnh sửa bằng AI, điều hướng biểu đồ và đồng bộ mã hóa tùy chọn trên macOS.
 x:
   source: https://github.com/kuku-mom/kuku
   eget: kuku-mom/kuku

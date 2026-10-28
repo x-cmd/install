@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: 用于 Scala 项目的构建工具
   en: Build tool for Scala projects
+  cs: Nástroj pro sestavení projektů Scala
+  de: Build-Tool für Scala-Projekte
+  es: Herramienta de compilación para proyectos Scala
+  fr: Outil de build pour les projets Scala
+  id: Alat build untuk proyek Scala
+  it: Strumento di build per progetti Scala
+  ja: Scala プロジェクトのためのビルドツール
+  ko: Scala 프로젝트를 위한 빌드 도구
+  pl: Narzędzie do budowania projektów Scala
+  pt: Ferramenta de build para projetos Scala
+  ro: Instrument de build pentru proiecte Scala
+  ru: Инструмент сборки для проектов Scala
+  th: เครื่องมือบิลด์สำหรับโปรเจกต์ Scala
+  tr: Scala projeleri için derleme aracı
+  uk: Інструмент збирання для проєктів Scala
+  vi: Công cụ build cho các dự án Scala
 lang: Scala
 x:
   source: https://github.com/sbt/sbt

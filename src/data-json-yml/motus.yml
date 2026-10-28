@@ -4,6 +4,22 @@ license: 'AGPL-3.0'
 desc:
   cn: 极简密码生成器
   en: 'A dead simple password generator'
+  cs: Velmi jednoduchý generátor hesel
+  de: Ein denkbar einfacher Passwortgenerator
+  es: Un generador de contraseñas muy sencillo
+  fr: Un générateur de mots de passe extrêmement simple
+  id: Pembuat kata sandi yang sangat sederhana
+  it: Un generatore di password semplicissimo
+  ja: とても簡単なパスワード生成器
+  ko: 아주 간단한 비밀번호 생성기
+  pl: Zwykle prosty generator haseł
+  pt: Um gerador de senhas bem simples
+  ro: Un generator de parole extrem de simplu
+  ru: Предельно простой генератор паролей
+  th: เครื่องมือสร้างรหัสผ่านที่เรียบง่ายมาก
+  tr: Oldukça basit bir parola üreticisi
+  uk: Максимально простий генератор паролів
+  vi: Trình tạo mật khẩu cực kỳ đơn giản
 x:
   source: https://github.com/oleiade/motus
   eget: oleiade/motus

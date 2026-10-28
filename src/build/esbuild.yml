@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Extremely fast JavaScript bundler and minifier
   cn: 极快的 JavaScript 打包器和压缩器
+  cs: Extremně rychlý JavaScript bundler a minifikátor
+  de: Extrem schneller JavaScript-Bundler und Minifier
+  es: Empaquetador y minificador de JavaScript extremadamente rápido
+  fr: Bundler et minifieur JavaScript extrêmement rapide
+  id: Bundler dan minifier JavaScript yang sangat cepat
+  it: Bundler e minificatore JavaScript estremamente veloce
+  ja: 超高速な JavaScript バンドラーおよびミニフィカー
+  ko: 극도로 빠른 JavaScript 번들러 및 미니파이터
+  pl: Wyjątkowo szybki bundler i minifikator JavaScript
+  pt: Empacotador e minificador de JavaScript extremamente rápido
+  ro: Bundler și minificator JavaScript extrem de rapid
+  ru: Очень быстрый бандлер и минификатор JavaScript
+  th: ตัวรวมและตัวย่อขนาด JavaScript ที่เร็วมาก
+  tr: Son derece hızlı JavaScript paketleyici ve küçültücü
+  uk: Надзвичайно швидкий бандлер і мініфікатор JavaScript
+  vi: Trình đóng gói và nén cực nhanh cho JavaScript
 x:
   source: https://github.com/evanw/esbuild
   brew: esbuild

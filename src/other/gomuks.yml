@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: 用 Go 编写的 Matrix 客户端
   en: A Matrix client written in Go.
+  cs: Matrix klient napsaný v Go.
+  de: Ein in Go geschriebener Matrix-Client.
+  es: Un cliente de Matrix escrito en Go.
+  fr: Un client Matrix écrit en Go.
+  id: Klien Matrix yang ditulis dengan Go.
+  it: Un client Matrix scritto in Go.
+  ja: Go で書かれた Matrix クライアント。
+  ko: Go로 작성된 Matrix 클라이언트.
+  pl: Klient Matrix napisany w Go.
+  pt: Um cliente Matrix escrito em Go.
+  ro: Un client Matrix scris în Go.
+  ru: Клиент Matrix, написанный на Go.
+  th: ไคลเอนต์ Matrix ที่เขียนด้วย Go
+  tr: Go ile yazılmış bir Matrix istemcisi.
+  uk: Клієнт Matrix, написаний на Go.
+  vi: Ứng dụng Matrix viết bằng Go.
 x:
   source: https://github.com/tulir/gomuks
   eget: tulir/gomuks

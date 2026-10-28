@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 检查 HAR (HTTP Archive) 文件的终端界面
   en: 'A terminal UI for inspecting HAR (HTTP Archive) files'
+  cs: Terminálové rozhraní pro prohlížení souborů HAR (HTTP Archive)
+  de: Ein Terminal-UI zum Untersuchen von HAR-Dateien (HTTP Archive)
+  es: Una interfaz de terminal para inspeccionar archivos HAR (HTTP Archive)
+  fr: Une interface terminal pour inspecter les fichiers HAR (HTTP Archive)
+  id: Antarmuka terminal untuk memeriksa berkas HAR (HTTP Archive)
+  it: Un'interfaccia da terminale per ispezionare i file HAR (HTTP Archive)
+  ja: HAR (HTTP Archive) ファイルを調べるためのターミナル UI
+  ko: HAR(HTTP Archive) 파일을 검사하기 위한 터미널 UI
+  pl: Terminalowy interfejs do przeglądania plików HAR (HTTP Archive)
+  pt: Uma interface de terminal para inspecionar arquivos HAR (HTTP Archive)
+  ro: O interfață de terminal pentru inspectarea fișierelor HAR (HTTP Archive)
+  ru: Терминальный интерфейс для просмотра файлов HAR (HTTP Archive)
+  th: อินเทอร์เฟซเทอร์มินัลสำหรับตรวจสอบไฟล์ HAR (HTTP Archive)
+  tr: HAR (HTTP Archive) dosyalarını incelemek için bir terminal arayüzü
+  uk: Термінальний інтерфейс для перегляду файлів HAR (HTTP Archive)
+  vi: Giao diện terminal để kiểm tra các tệp HAR (HTTP Archive)
 x:
   source: https://github.com/nassendelft/har-viewer
   eget: nassendelft/har-viewer

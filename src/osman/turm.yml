@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Slurm 工作负载管理器的 TUI
   en: 'TUI for the Slurm Workload Manager'
+  cs: TUI pro Slurm Workload Manager
+  de: TUI für den Slurm Workload Manager
+  es: TUI para el Slurm Workload Manager
+  fr: TUI pour le Slurm Workload Manager
+  id: TUI untuk Slurm Workload Manager
+  it: TUI per lo Slurm Workload Manager
+  ja: Slurm Workload Manager 用の TUI
+  ko: Slurm Workload Manager용 TUI
+  pl: TUI dla Slurm Workload Manager
+  pt: TUI para o Slurm Workload Manager
+  ro: TUI pentru Slurm Workload Manager
+  ru: TUI для Slurm Workload Manager
+  th: TUI สำหรับ Slurm Workload Manager
+  tr: Slurm Workload Manager için TUI
+  uk: TUI для Slurm Workload Manager
+  vi: TUI cho Slurm Workload Manager
 x:
   source: https://github.com/kabouzeid/turm
   eget: kabouzeid/turm

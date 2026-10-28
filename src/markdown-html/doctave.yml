@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Doctave 是一个固执己见的文档站点生成器，可以将 Markdown 文件转换为漂亮的开发人员文档站点
   en: Doctave is an opinionated documentation site generator that converts your Markdown files into a beautiful developer documentation site
+  cs: Doctave je zásadový generátor dokumentačních webů, který převádí vaše Markdown soubory do krásného dokumentačního webu pro vývojáře
+  de: Doctave ist ein prinzipientester Dokumentations-Website-Generator, der Ihre Markdown-Dateien in eine schöne Entwickler-Dokumentationssite umwandelt
+  es: Doctave es un generador de sitios de documentación con opinión firme que convierte sus archivos Markdown en un precioso sitio de documentación para desarrolladores
+  fr: Doctave est un générateur de sites de documentation point de vue qui convertit vos fichiers Markdown en unmagnifique site de documentation pour développeurs
+  id: Doctave adalah generator situs dokumentasi yang berpendirian yang mengubah berkas Markdown Anda menjadi situs dokumentasi pengembang yang indah
+  it: Doctave è un generatore di siti di documentazione dogmatico che converte i tuoi file Markdown in un bellissimo sito di documentazione per sviluppatori
+  ja: Doctave は頑固な姿勢で設計されたドキュメントサイトジェネレータで、Markdown ファイルを美しい開発者向けドキュメントサイトに変換します
+  ko: Doctave는 Markdown 파일을 아름다운 개발자 문서 사이트로 변환하는 고집 있는 문서 사이트 생성기입니다
+  pl: Doctave to bezkompromisowy generator stron dokumentacji, który zamienia pliki Markdown w piękną witrynę dokumentacji dla deweloperów
+  pt: Doctave é um gerador de sites de documentação com forte opinião que converte seus arquivos Markdown em um belo site de documentação para desenvolvedores
+  ro: Doctave este un generator de site-uri de documentație cu opinii fixe care convertește fișierele tale Markdown într-un site frumos de documentație pentru dezvoltatori
+  ru: Doctave — принципиальный генератор сайтов документации, превращающий ваши файлы Markdown в красивый сайт документации для разработчиков
+  th: Doctave คือตัวสร้างเว็บไซต์เอกสารที่ยึดมั่นในแนวคิดของตัวเอง โดยแปลงไฟล์ Markdown ของคุณให้เป็นเว็บไซต์เอกสารสำหรับนักพัฒนาที่สวยงาม
+  tr: Doctave, Markdown dosyalarınızı geliştirici dokümantasyon sitesine dönüştüren, kendi görüşünü dayandıran bir dokümantasyon sitesi oluşturucusudur
+  uk: Doctave — принциповий генератор сайтів документації, який перетворює ваші файли Markdown на красивий сайт документації для розробників
+  vi: Doctave là trình tạo trang tài liệu có tính lập trường, chuyển các tệp Markdown của bạn thành một trang tài liệu dành cho nhà phát triển thật đẹp
 x:
   source: https://github.com/Doctave/doctave
   eget: Doctave/doctave

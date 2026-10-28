@@ -3,6 +3,22 @@ homepage: https://iot.mushuwei.cn/#/toolkit/
 desc:
   cn: toolkit 是一款客户端命令行工具，支持多种物联网协议
   en: toolkit is a client-side command line tool that supports multiple iot protocols
+  cs: toolkit je klientové nástroje příkazového řádku podporující více protokolů IoT
+  de: toolkit ist ein clientseitiges Befehlszeilenwerkzeug, das mehrere IoT-Protokolle unterstützt
+  es: toolkit es una herramienta de línea de comandos del lado del cliente que admite varios protocolos de IoT
+  fr: toolkit est un outil en ligne de commande côté client qui prend en charge plusieurs protocoles IoT
+  id: toolkit adalah alat baris perintah sisi klien yang mendukung berbagai protokol IoT
+  it: toolkit è uno strumento da riga di comando lato client che supporta molteplici protocolli IoT
+  ja: toolkit は複数の IoT プロトコルに対応したクライアント側コマンドラインツールです
+  ko: toolkit은 여러 IoT 프로토콜을 지원하는 클라이언트 측 명령줄 도구입니다
+  pl: toolkit to narzędzie wiersza poleceń po stronie klienta obsługujące wiele protokołów IoT
+  pt: O toolkit é uma ferramenta de linha de comando do lado do cliente que oferece suporte a vários protocolos de IoT
+  ro: toolkit este un instrument de linie de comandă din partea clientului care acceptă mai multe protocoale IoT
+  ru: toolkit — клиентский инструмент командной строки, поддерживающий несколько протоколов IoT
+  th: toolkit เป็นเครื่องมือบรรทัดคำสั่งฝั่งไคลเอนต์ที่รองรับโปรโตคอล IoT หลายแบบ
+  tr: toolkit, birden fazla IoT protokolünü destekleyen istemci tarafı bir komut satırı aracıdır
+  uk: toolkit — клієнтський інструмент командного рядка, що підтримує кілька протоколів IoT
+  vi: toolkit là công cụ dòng lệnh phía client hỗ trợ nhiều giao thức IoT
 x:
   brew: iot-technology/tap/toolkit
   choco: toolkit

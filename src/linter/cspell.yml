@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: CSpell 代码拼写检查器
   en: CSpell a spell checker for code
+  cs: CSpell je kontrola pravopisu pro kód
+  de: CSpell ist ein Rechtschreibprüfer für Code
+  es: CSpell es un corrector ortográfico para código
+  fr: CSpell est un correcteur orthographique pour le code
+  id: CSpell adalah pemeriksa ejaan untuk kode
+  it: CSpell è un correttore ortografico per il codice
+  ja: CSpell はコード向けのスペルチェッカーです
+  ko: CSpell은 코드를 위한 철자 검사기입니다
+  pl: CSpell to sprawdzacz pisowni dla kodu
+  pt: CSpell é um verificador ortográfico para código
+  ro: CSpell este un verificator ortografic pentru cod
+  ru: CSpell — это проверка орфографии для кода
+  th: CSpell คือตัวตรวจการสะกดสำหรับโค้ด
+  tr: CSpell, kod için bir yazım denetleyicisidir
+  uk: CSpell — це перевіряч орфографії для коду
+  vi: CSpell là trình kiểm tra chính tả cho mã nguồn
 x:
   source: https://github.com/streetsidesoftware/cspell
   npm: cspell@latest

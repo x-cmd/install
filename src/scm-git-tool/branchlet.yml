@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简洁的 CLI Git worktree 管理器
   en: 'Branchlet: A simple CLI Git worktree manager'
+  cs: "Branchlet: jednoduchý CLI správce git worktree"
+  de: "Branchlet: Ein einfacher CLI-Manager für git worktrees"
+  es: "Branchlet: un gestor de worktrees de git sencillo basado en CLI"
+  fr: "Branchlet : un gestionnaire de worktrees git simple en ligne de commande"
+  id: "Branchlet: pengelola worktree git berbasis CLI yang sederhana"
+  it: "Branchlet: un semplice gestore di worktree git da CLI"
+  ja: "Branchlet: シンプルな CLI Git worktree マネージャー"
+  ko: "Branchlet: 심플한 CLI Git worktree 관리자"
+  pl: "Branchlet: prosty menedżer git worktree z wiersza poleceń"
+  pt: "Branchlet: um gerenciador de worktree do git simples baseado em CLI"
+  ro: "Branchlet: un manager simplu de worktree git din linia de comandă"
+  ru: "Branchlet: простой CLI-менеджер git worktree"
+  th: "Branchlet: เครื่องมือจัดการ Git worktree แบบ CLI ที่เรียบง่าย"
+  tr: "Branchlet: basit bir CLI Git worktree yöneticisi"
+  uk: "Branchlet: простий CLI-менеджер git worktree"
+  vi: "Branchlet: trình quản lý git worktree đơn giản dựa trên CLI"
 x:
   source: https://github.com/raghavpillai/branchlet
   eget: raghavpillai/branchlet

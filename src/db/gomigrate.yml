@@ -3,6 +3,22 @@ homepage: https://github.com/golang-migrate/migrate
 desc:
   cn: (数据库) 数据库迁移工具 (MySQL PostgreSQL SQLite)
   en: Database migrations. CLI and Golang library
+  cs: Migrace databází. CLI a knihovna Golang
+  de: Datenbankmigrationen. CLI und Golang-Bibliothek
+  es: Migraciones de bases de datos. CLI y biblioteca de Golang
+  fr: Migrations de bases de données. CLI et bibliothèque Golang
+  id: Migrasi basis data. CLI dan pustaka Golang
+  it: Migrazioni di database. CLI e libreria Golang
+  ja: データベースマイグレーション。CLI と Golang ライブラリ
+  ko: 데이터베이스 마이그레이션. CLI 및 Golang 라이브러리
+  pl: Migracje baz danych. CLI i biblioteka Golang
+  pt: Migrações de banco de dados. CLI e biblioteca Golang
+  ro: Migrări de baze de date. CLI și bibliotecă Golang
+  ru: Миграции баз данных. CLI и библиотека Golang
+  th: การย้ายฐานข้อมูล CLI และไลบรารี Golang
+  tr: Veritabanı geçişleri. CLI ve Golang kütüphanesi
+  uk: Міграції баз даних. CLI та бібліотека Golang
+  vi: Di chuyển cơ sở dữ liệu. CLI và thư viện Golang
 x:
   source: https://github.com/golang-migrate/migrate
   eget: golang-migrate/migrate

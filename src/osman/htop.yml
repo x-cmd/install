@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: htop 是一个跨平台的交互式进程查看器。
   en: htop is a cross-platform interactive process viewer.
+  cs: htop je multiplatformní interaktivní prohlížeč procesů.
+  de: htop ist ein plattformübergreifender interaktiver Prozessbetrachter.
+  es: htop es un visor de procesos interactivo multiplataforma.
+  fr: htop est une visionneuse de processus interactive multiplateforme.
+  id: htop adalah tampilan proses interaktif lintas platform.
+  it: htop è un visualizzatore di processi interattivo e multipiattaforma.
+  ja: htop はクロスプラットフォームの対話型プロセスビューアです。
+  ko: htop은(는) 크로스 플랫폼 대화형 프로세스 뷰어입니다.
+  pl: htop to wieloplatformowy interaktywny podgląd procesów.
+  pt: htop é um visualizador de processos interativo multiplataforma.
+  ro: htop este un vizualizator de procese interactiv multiplataforma.
+  ru: htop — кроссплатформенный интерактивный просмотрщик процессов.
+  th: htop เป็นโปรแกรมดูกระบวนการแบบโต้ตอบที่ใช้ข้ามแพลตฟอร์ม
+  tr: htop, platformlar arası etkileşimli bir süreç görüntüleyicisidir.
+  uk: htop — кроссплатформний інтерактивний переглядач процесів.
+  vi: htop là trình xem tiến trình tương tác đa nền tảng.
 x:
   source: https://github.com/htop-dev/htop
   eget: htop-dev/htop

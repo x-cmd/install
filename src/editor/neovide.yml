@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Neovim 的 Rust 图形客户端，在保持 TUI 行为一致的前提下提供更现代的图形体验
   en: 'No Nonsense Neovim Client in Rust — a simple graphical user interface for Neovim that stays functionally close to the TUI while offering nicer graphics'
+  cs: Neovim klient v Rustu – jednoduché grafické rozhraní pro Neovim, které funkčně zůstává blízké TUI, ale nabízí hezčí grafiku
+  de: No-Nonsense-Neovim-Client in Rust – ein einfaches grafisches Benutzerinterface für Neovim, das funktional nah am TUI bleibt, aber schönere Grafik bietet
+  es: "Cliente de Neovim en Rust, sin complicaciones: una interfaz gráfica sencilla para Neovim que sigue siendo funcionalmente similar a la TUI pero ofrece gráficos más atractivos"
+  fr: Client Neovim sans chichi en Rust – une interface graphique simple pour Neovim qui reste fonctionnellement proche de la TUI tout en offrant de jolis graphismes
+  id: Klien Neovim yang sederhana tanpa tambahan, ditulis dalam Rust — antarmuka graphical sederhana untuk Neovim yang tetap secara fungsional dekat dengan TUI namun menawarkan grafis yang lebih bagus
+  it: "Client Neovim in Rust, senza complicazioni: una semplice interfaccia grafica per Neovim che resta funzionalmente vicina alla TUI ma offre una grafica più bella"
+  ja: Rust 製の Neovim クライアント、余計なものはなし — TUI に近い挙動を保ちながら、より美しいグラフィックスの提供する Neovim 用のシンプルな GUI
+  ko: Rust로 만든 깔끔한 Neovim 클라이언트 — TUI와 기능적으로 유사하게 동작하면서 더 보기 좋은 그래픽을 제공하는 간단한 Neovim용 GUI
+  pl: Klient Neovim w Rust – prosty graficzny interfejs dla Neovim, który pozostaje funkcjonalnie bliski TUI, a jednocześnie oferuje ładniejszą grafikę
+  pt: Cliente Neovim em Rust, sem frescura — uma interface gráfica simples para o Neovim que permanece funcionalmente próxima da TUI, mas oferece gráficos mais bonitos
+  ro: Client Neovim în Rust, fără complicații — o interfață grafică simplă pentru Neovim care rămâne funcțional apropiată de TUI, dar oferă grafică mai frumoasă
+  ru: Без лишних претензий клиент Neovim на Rust — простой графический интерфейс для Neovim, функционально близкий к TUI, но с более красивой графикой
+  th: ไคลเอนต์ Neovim แบบไม่มีอะไรเกินเลยใน Rust — อินเทอร์เฟซกราฟิกอย่างง่ายสำหรับ Neovim ที่ยังคงการทำงานใกล้เคียง TUI แต่ให้กราฟิกที่สวยงามกว่า
+  tr: Rust ile yazılmış sade bir Neovim istemcisi — TUI'a işlevsel olarak yakın kalırken daha güzel grafikler sunan basit bir Neovim grafik arayüzü
+  uk: Клієнт Neovim на Rust — простий графічний інтерфейс для Neovim, функціонально близький до TUI, але з гарнішою графікою
+  vi: Trình khách Neovim bằng Rust — giao diện đồ họa đơn giản cho Neovim, vẫn giữ chức năng gần với TUI nhưng có đồ họa đẹp hơn
 x:
   source: https://github.com/neovide/neovide
   eget: neovide/neovide

@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Vifm 是一个带 curses 接口的文件管理器，它提供了类似于 Vim 的环境，用于管理文件系统中的对象，扩展了 mutt 的一些有用的想法
   en: Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt
+  cs: Vifm je správce souborů s rozhraním curses, který poskytuje prostředí podobné Vimu pro správu objektů v souborových systémech a rozšiřuje některé užitečné nápady z mutt
+  de: Vifm ist ein Dateimanager mit Curses-Oberfläche, der eine Vim-ähnliche Umgebung zum Verwalten von Objekten in Dateisystemen bietet, ergänzt um einige nützliche Ideen von mutt
+  es: Vifm es un gestor de archivos con interfaz curses que ofrece un entorno similar a Vim para gestionar objetos dentro de los sistemas de archivos, ampliado con algunas ideas útiles de mutt
+  fr: Vifm est un gestionnaire de fichiers à interface curses qui offre un environnement similaire à Vim pour gérer les objets dans les systèmes de fichiers, enrichi de quelques idées utiles de mutt
+  id: Vifm adalah manajer file dengan antarmuka curses yang menyediakan lingkungan mirip Vim untuk mengelola objek dalam sistem berkas, dengan beberapa ide berguna dari mutt
+  it: Vifm è un gestore di file con interfaccia curses che fornisce un ambiente simile a Vim per gestire gli oggetti nei file system, arricchito con alcune idee utili da mutt
+  ja: Vifm は curses インターフェイスのファイルマネージャーで、ファイルシステム内のオブジェクトを管理するための Vim に似た環境を提供し、mutt 的一些か有用なアイデアを取り込んでいます
+  ko: Vifm은 curses 인터페이스를 갖춘 파일 관리자로, 파일 시스템 내의 객체를 관리하기 위한 Vim과 유사한 환경을 제공하며 mutt의 유용한 아이디어를 일부 덧붙였습니다
+  pl: Vifm to menedżer plików z interfejsem curses, który zapewnia środowisko podobne do Vima do zarządzania obiektami w systemach plików, wzbogacone o kilka przydatnych pomysłów z mutt
+  pt: O Vifm é um gerenciador de arquivos com interface curses que oferece um ambiente semelhante ao do Vim para gerenciar objetos em sistemas de arquivos, enriquecido com algumas ideias úteis do mutt
+  ro: Vifm este un manager de fișiere cu interfață curses, care oferă un mediu asemănător cu Vim pentru gestionarea obiectelor din sistemele de fișiere, îmbogățit cu câteva idei utile din mutt
+  ru: Vifm — файловый менеджер с интерфейсом curses, предоставляющий среду, похожую на Vim, для управления объектами в файловых системах, дополненную несколькими полезными идеями из mutt
+  th: Vifm คือตัวจัดการไฟล์ที่มีส่วนติดต่อแบบ curses ซึ่งให้สภาพแวดล้อมคล้าย Vim สำหรับการจัดการวัตถุภายในระบบไฟล์ พร้อมแนวคิดที่มีประโยชน์บางอย่างจาก mutt
+  tr: Vifm, dosya sistemleri içindeki nesneleri yönetmek için Vim benzeri bir ortam sunan ve mutt'tan alınan bazı faydalı fikirlerle genişletilmiş curses arayüzlü bir dosya yöneticisidir
+  uk: Vifm — файловий менеджер з інтерфейсом curses, який надає середовище, подібне до Vim, для керування об'єктами у файлових системах, доповнене кількома корисними ідеями з mutt
+  vi: Vifm là trình quản lý tệp có giao diện curses, cung cấp môi trường giống Vim để quản lý các đối tượng trong hệ thống tệp, bổ sung thêm một số ý tưởng hữu ích từ mutt
 x:
   source: https://github.com/vifm/vifm
   eget: vifm/vifm

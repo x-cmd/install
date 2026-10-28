@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Xmake 是一个基于 Lua 的轻量级跨平台构建工具
   en: Xmake is a cross-platform build utility based on the Lua scripting language
+  cs: Xmake je multiplatformní nástroj pro sestavování založený na skriptovacím jazyce Lua
+  de: Xmake ist ein plattformübergreifendes Build-Werkzeug auf Basis der Skriptsprache Lua
+  es: Xmake es una utilidad de compilación multiplataforma basada en el lenguaje de scripts Lua
+  fr: Xmake est un outil de build multiplateforme basé sur le langage de script Lua
+  id: Xmake adalah utilitas build lintas platform berbasis pada bahasa skrip Lua
+  it: Xmake è un'utilità di build multipiattaforma basata sul linguaggio di scripting Lua
+  ja: Xmake は Lua スクリプティング言語に基づくクロスプラットフォームのビルドユーティリティです
+  ko: Xmake는 Lua 스크립팅 언어를 기반으로 한 크로스 플랫폼 빌드 유틸리티입니다
+  pl: Xmake to wieloplatformowe narzędzie do budowania oparte na języku skryptowym Lua
+  pt: Xmake é um utilitário de build multiplataforma baseado na linguagem de script Lua
+  ro: Xmake este un utilitar de construire multiplatformă bazat pe limbajul de scripting Lua
+  ru: Xmake — кроссплатформенная утилита сборки на основе скриптового языка Lua
+  th: Xmake เป็นเครื่องมือสร้างแบบข้ามแพลตฟอร์มที่ใช้ภาษาสคริปต์ Lua
+  tr: Xmake, Lua betik diline dayanan çok platformlu bir derleme aracıdır
+  uk: Xmake — кроссплатформенна утиліта збірки на основі скриптової мови Lua
+  vi: Xmake là tiện ích build đa nền tảng dựa trên ngôn ngữ kịch bản Lua
 x:
   source: https://github.com/xmake-io/xmake
 rule:

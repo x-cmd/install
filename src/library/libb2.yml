@@ -4,6 +4,22 @@ license: CC0-1.0
 desc:
   cn: C 库提供了 BLAKE2b，BLAKE2s，BLAKE2bp，BLAKE2sp
   en: C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+  cs: Knihovna C poskytující BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+  de: C-Bibliothek, die BLAKE2b, BLAKE2s, BLAKE2bp und BLAKE2sp bereitstellt
+  es: Biblioteca en C que proporciona BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+  fr: Bibliothèque C fournissant BLAKE2b, BLAKE2s, BLAKE2bp et BLAKE2sp
+  id: Pustaka C yang menyediakan BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+  it: Libreria C che fornisce BLAKE2b, BLAKE2s, BLAKE2bp e BLAKE2sp
+  ja: BLAKE2b、BLAKE2s、BLAKE2bp、BLAKE2sp を提供する C ライブラリ
+  ko: BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp를 제공하는 C 라이브러리
+  pl: Biblioteka C udostępniająca BLAKE2b, BLAKE2s, BLAKE2bp i BLAKE2sp
+  pt: Biblioteca C que fornece BLAKE2b, BLAKE2s, BLAKE2bp e BLAKE2sp
+  ro: Bibliotecă C care furnizează BLAKE2b, BLAKE2s, BLAKE2bp și BLAKE2sp
+  ru: Библиотека на C, предоставляющая BLAKE2b, BLAKE2s, BLAKE2bp и BLAKE2sp
+  th: ไลบรารี C ที่ให้ BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+  tr: BLAKE2b, BLAKE2s, BLAKE2bp ve BLAKE2sp sağlayan C kitaplığı
+  uk: Бібліотека на C, що надає BLAKE2b, BLAKE2s, BLAKE2bp і BLAKE2sp
+  vi: Thư viện C cung cấp BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
 x:
   source: https://github.com/BLAKE2/libb2
   eget: BLAKE2/libb2

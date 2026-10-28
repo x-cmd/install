@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 APT 系 Linux 发行版的 TUI 包管理器
   en: 'TUI package manager for APT-based Linux distributions'
+  cs: TUI správce balíčků pro linuxové distribuce založené na APT
+  de: TUI-Paketmanager für APT-basierte Linux-Distributionen
+  es: Gestor de paquetes TUI para distribuciones de Linux basadas en APT
+  fr: Gestionnaire de paquets TUI pour les distributions Linux basées sur APT
+  id: Manajer paket TUI untuk distribusi Linux berbasis APT
+  it: Gestore di pacchetti TUI per distribuzioni Linux basate su APT
+  ja: APT ベースの Linux ディストリビューション向けの TUI パッケージマネージャー
+  ko: APT 기반 Linux 배포판을 위한 TUI 패키지 관리자
+  pl: Menedżer pakietów TUI dla dystrybucji Linuksa opartych na APT
+  pt: Gerenciador de pacotes TUI para distribuições Linux baseadas em APT
+  ro: Manager de pachete TUI pentru distribuțiile Linux bazate pe APT
+  ru: TUI-менеджер пакетов для дистрибутивов Linux на базе APT
+  th: ตัวจัดการแพ็กเกจแบบ TUI สำหรับดิสโทร Linux ที่ใช้ APT
+  tr: APT tabanlı Linux dağıtımları için TUI paket yöneticisi
+  uk: TUI-менеджер пакетів для дистрибутивів Linux на базі APT
+  vi: Trình quản lý gói TUI cho các bản phân phối Linux dựa trên APT
 x:
   source: https://github.com/mexirica/aptui
   eget: mexirica/aptui

@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: KoboldAI 客户端，GGUF 支持请使用 KoboldCPP
   en: 'For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp'
+  cs: "Podporu GGUF najdete v KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  de: "Für GGUF-Unterstützung siehe KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  es: "Para soporte de GGUF, consulta KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  fr: "Pour la prise en charge de GGUF, voir KoboldCPP : https://github.com/LostRuins/koboldcpp"
+  id: "Untuk dukungan GGUF, lihat KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  it: "Per il supporto GGUF, consulta KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  ja: "GGUF サポートについては KoboldCPP を参照: https://github.com/LostRuins/koboldcpp"
+  ko: "GGUF 지원은 KoboldCPP를 참고하세요: https://github.com/LostRuins/koboldcpp"
+  pl: "Obsługę GGUF znajdziesz w KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  pt: "Para suporte a GGUF, veja KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  ro: "Pentru suportul GGUF, consultă KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  ru: "Для поддержки GGUF см. KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  th: "สำหรับการรองรับ GGUF โปรดดู KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  tr: "GGUF desteği için bkz. KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  uk: "Для підтримки GGUF див. KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  vi: "Để hỗ trợ GGUF, xem KoboldCPP: https://github.com/LostRuins/koboldcpp"
 x:
   source: https://github.com/KoboldAI/KoboldAI-Client
   eget: KoboldAI/KoboldAI-Client

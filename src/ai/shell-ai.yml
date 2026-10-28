@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于 LangChain 的 shell 命令生成与执行 CLI
   en: LangChain powered shell command generator and runner CLI
+  cs: CLI pro generování a spouštění shell příkazů založený na LangChain
+  de: CLI zum Generieren und Ausführen von Shell-Befehlen auf Basis von LangChain
+  es: CLI de generación y ejecución de comandos de shell basada en LangChain
+  fr: CLI de génération et d'exécution de commandes shell basée sur LangChain
+  id: CLI pembuat dan menjalankan perintah shell berbasis LangChain
+  it: CLI per generare ed eseguire comandi shell basato su LangChain
+  ja: LangChain に基づくシェルコマンド生成・実行 CLI
+  ko: LangChain 기반 셸 명령 생성 및 실행 CLI
+  pl: CLI do generowania i uruchamiania poleceń powłoki oparte na LangChain
+  pt: CLI de geração e execução de comandos shell baseada em LangChain
+  ro: CLI pentru generarea și rularea comenzilor shell bazat pe LangChain
+  ru: CLI для генерации и выполнения shell-команд на базе LangChain
+  th: CLI สร้างและรันคำสั่ง shell บนพื้นฐาน LangChain
+  tr: LangChain tabanlı shell komutu oluşturma ve çalıştırma CLI aracı
+  uk: CLI для генерації та виконання shell-команд на основі LangChain
+  vi: CLI tạo và chạy lệnh shell dựa trên LangChain
 x:
   source: https://github.com/ricklamers/shell-ai
   eget: ricklamers/shell-ai

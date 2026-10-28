@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 知识编译器：原始素材输入，互链 wiki 输出，灵感源自 Karpathy 的 LLM Wiki 模式
   en: The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
+  cs: Kompilátor znalostí. Zdrojové materiály dovnitř, propojené wiki ven. Inspirován Karpathyho vzorem LLM Wiki.
+  de: Der Wissenscompiler. Rohquellen rein, verlinktes Wiki raus. Inspiriert von Karpathys LLM-Wiki-Muster.
+  es: El compilador de conocimiento. Fuentes en bruto dentro, wiki entrelazada fuera. Inspirado en el patrón LLM Wiki de Karpathy.
+  fr: Le compilateur de connaissances. Des sources brutes en entrée, un wiki interconnecté en sortie. Inspiré du motif LLM Wiki de Karpathy.
+  id: Kompilator pengetahuan. Sumber mentah masuk, wiki tertaut keluar. Terinspirasi pola LLM Wiki dari Karpathy.
+  it: Il compilatore di conoscenza. Fonti grezze dentro, wiki interconnessa fuori. Ispirato al modello LLM Wiki di Karpathy.
+  ja: ナレッジコンパイラ。生の素材を入れて、リンクされた wiki を出力。Karpathy の LLM Wiki パターンに着想。
+  ko: 지식 컴파일러. 원시 소스를 넣으면 상호 연결된 위키가 나옵니다. Karpathy의 LLM Wiki 패턴에서 영감.
+  pl: Kompilator wiedzy. Surowe źródła na wejściu, połączony wiki na wyjściu. Zainspirowany wzorem LLM Wiki Karpathy'ego.
+  pt: O compilador de conhecimento. Fontes brutas entram, wiki interligada sai. Inspirado no padrão LLM Wiki de Karpathy.
+  ro: Compilatorul de cunoștințe. Surse brute la intrare, wiki interconectat la ieșire. Inspirat de modelul LLM Wiki al lui Karpathy.
+  ru: Компилятор знаний. Сырые источники на входе, связанный wiki на выходе. Вдохновлён паттерном LLM Wiki от Karpathy.
+  th: คอมไพเลอร์ความรู้ ป้อนแหล่งข้อมูลดิบ ได้ wiki ที่เชื่อมโยงกัน ได้แรงบันดาลใจจากรูปแบบ LLM Wiki ของ Karpathy
+  tr: Bilgi derleyicisi. Ham kaynaklar içeri, birbirine bağlı wiki dışarı. Karpathy'nin LLM Wiki kalıbından esinlenildi.
+  uk: Компілятор знань. Сирі джерела на вході, пов'язаний wiki на виході. Натхнено шаблоном LLM Wiki від Karpathy.
+  vi: Trình biên dịch tri thức. Nguồn thô vào, wiki liên kết ra. Lấy cảm hứng từ mô hình LLM Wiki của Karpathy.
 x:
   source: https://github.com/atomicstrata/llm-wiki-compiler
   eget: atomicstrata/llm-wiki-compiler

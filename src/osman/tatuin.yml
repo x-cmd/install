@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向多任务提供商的任务聚合 TUI
   en: 'Tatuin (Task Aggregator TUI for N providers)'
+  cs: Tatuin (TUI agregátoru úkolů pro N poskytovatelů)
+  de: Tatuin (TUI-Aufgabenaggregator für N Anbieter)
+  es: Tatuin (TUI agregador de tareas para N proveedores)
+  fr: Tatuin (TUI d'agrégation de tâches pour N fournisseurs)
+  id: Tatuin (TUI agregator tugas untuk N penyedia)
+  it: Tatuin (TUI aggregatore di attività per N provider)
+  ja: Tatuin (N 個のプロバイダー向けタスク集約 TUI)
+  ko: Tatuin (N개 제공자를 위한 작업 집계 TUI)
+  pl: Tatuin (TUI agregator zadań dla N dostawców)
+  pt: Tatuin (TUI agregador de tarefas para N provedores)
+  ro: Tatuin (TUI agregator de sarcini pentru N furnizori)
+  ru: Tatuin (TUI-агрегатор задач для N провайдеров)
+  th: Tatuin (TUI รวมงานสำหรับ N ผู้ให้บริการ)
+  tr: Tatuin (N sağlayıcı için görev toplayan TUI)
+  uk: Tatuin (TUI-агрегатор завдань для N провайдерів)
+  vi: Tatuin (TUI tổng hợp tác vụ cho N nhà cung cấp)
 x:
   source: https://github.com/panter-dsd/tatuin
   eget: panter-dsd/tatuin

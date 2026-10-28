@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 基于 OpenZiti 构建的地理规模、下一代点对点共享平台。
   en: Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+  cs: Geograficky škálovaná platforma pro sdílení peer-to-peer nové generace založená na OpenZiti.
+  de: Geografisch skalierende Peer-to-Peer-Sharing-Plattform der nächsten Generation auf Basis von OpenZiti.
+  es: Plataforma de sharing peer-to-peer de nueva generación y escala geográfica construida sobre OpenZiti.
+  fr: Plateforme de partage pair-à-pair de nouvelle génération à l'échelle géographique, construite sur OpenZiti.
+  id: Platform berbagi peer-to-peer generasi berikutnya berskala geografis yang dibangun di atas OpenZiti.
+  it: Piattaforma di condivisione peer-to-peer di nuova generazione a scala geografica costruita su OpenZiti.
+  ja: OpenZiti を基盤とした地理的スケール対応の次世代ピアツーピア共有プラットフォーム。
+  ko: OpenZiti를 기반으로 구축된 지리적 규모 확장형 차세대 P2P 공유 플랫폼.
+  pl: Następna generacja geograficznie skalowalnej platformy do udostępniania peer-to-peer zbudowanej na OpenZiti.
+  pt: Plataforma de compartilhamento peer-to-peer de próxima geração com escala geográfica, construída sobre o OpenZiti.
+  ro: Platformă de partajare peer-to-peer de nouă generație, la scară geografică, construită pe OpenZiti.
+  ru: Географически масштабируемая одноранговая платформа обмена нового поколения на базе OpenZiti.
+  th: แพลตฟอร์มแชร์แบบ P2P รุ่นใหม่ที่มีขนาดระดับภูมิภาค สร้างบน OpenZiti
+  tr: OpenZiti üzerine kurulmuş, coğrafi ölçekli yeni nesil eşler arası paylaşım platformu.
+  uk: Географічно масштабована платформа однорангового обміну нового покоління на базі OpenZiti.
+  vi: Nền tảng chia sẻ ngang hàng thế hệ mới có quy mô địa lý, xây dựng trên OpenZiti.
 x:
   source: https://github.com/openziti/zrok
   eget: openziti/zrok

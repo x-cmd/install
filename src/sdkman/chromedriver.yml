@@ -3,6 +3,22 @@ homepage: https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrom
 desc:
   cn: WebDriver 是用于在许多浏览器中对 WebApp 进行自动测试的开源工具
   en: WebDriver is an open source tool for automated testing of webapps across many browsers
+  cs: WebDriver je open source nástroj pro automatizované testování webových aplikací v mnoha prohlížečích
+  de: WebDriver ist ein quelloffenes Werkzeug zum automatisierten Testen von Webanwendungen in vielen Browsern
+  es: WebDriver es una herramienta de código abierto para pruebas automatizadas de aplicaciones web en muchos navegadores
+  fr: WebDriver est un outil open source pour les tests automatisés d'applications web sur de nombreux navigateurs
+  id: WebDriver adalah perkakas open source untuk pengujian otomatis aplikasi web di banyak peramban
+  it: WebDriver è uno strumento open source per il collaudo automatizzato di webapp su molti browser
+  ja: WebDriver は、多くのブラウザでウェブアプリケーションを自動テストするためのオープンソースツールです
+  ko: WebDriver는 여러 브라우저에서 웹앱을 자동 테스트하는 오픈 소스 도구입니다
+  pl: WebDriver jest narzędziem open source do automatycznego testowania aplikacji webowych w wielu przeglądarkach
+  pt: WebDriver é uma ferramenta de código aberto para testes automatizados de aplicações web em muitos navegadores
+  ro: WebDriver este un instrument open source pentru testarea automatizată a aplicațiilor web în multe browsere
+  ru: WebDriver — инструмент с открытым исходным кодом для автоматического тестирования веб-приложений во многих браузерах
+  th: WebDriver คือเครื่องมือโอเพนซอร์สสำหรับการทดสอบเว็บแอปโดยอัตโนมัติในเบราว์เซอร์หลายตัว
+  tr: WebDriver, birçok tarayıcıda web uygulamalarını otomatik test etmek için açık kaynaklı bir araçtır
+  uk: WebDriver — інструмент з відкритим кодом для автоматизованого тестування вебзастосунків у багатьох браузерах
+  vi: WebDriver là công cụ mã nguồn mở để kiểm thử tự động ứng dụng web trên nhiều trình duyệt
 rule:
   /asdf:
     cmd: x asdf use chromedriver

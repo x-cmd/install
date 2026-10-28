@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: bluetuith 是一个基于 TUI 的蓝牙连接管理器，可以与蓝牙适配器和设备进行交互。
   en: bluetuith is a TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
+  cs: bluetuith je TUI správce připojení Bluetoothu, který může komunikovat s adaptéry a zařízeními Bluetooth.
+  de: bluetuith ist ein TUI-basierter Bluetooth-Verbindungsmanager, der mit Bluetooth-Adaptern und -Geräten interagieren kann.
+  es: bluetuith es un gestor de conexiones Bluetooth basado en TUI, que puede interactuar con adaptadores y dispositivos Bluetooth.
+  fr: bluetuith est un gestionnaire de connexions Bluetooth basé sur TUI, capable d'interagir avec les adaptateurs et les appareils Bluetooth.
+  id: bluetuith adalah pengelola koneksi Bluetooth berbasis TUI yang dapat berinteraksi dengan adaptor dan perangkat Bluetooth.
+  it: bluetuith è un gestore delle connessioni Bluetooth basato su TUI, in grado di interagire con adattatori e dispositivi Bluetooth.
+  ja: bluetuith は TUI ベースの Bluetooth 接続マネージャーで、Bluetooth アダプターやデバイスと対話できます。
+  ko: bluetuith는 Bluetooth 어댑터 및 장치와 상호작용할 수 있는 TUI 기반 Bluetooth 연결 관리자입니다.
+  pl: bluetuith to TUI menedżer połączeń Bluetooth, który może współpracować z adapterami i urządzeniami Bluetooth.
+  pt: O bluetuith é um gerenciador de conexões Bluetooth baseado em TUI, capaz de interagir com adaptadores e dispositivos Bluetooth.
+  ro: bluetuith este un manager de conexiuni Bluetooth bazat pe TUI, care poate interacționa cu adaptoare și dispozitive Bluetooth.
+  ru: bluetuith — менеджер Bluetooth-подключений на основе TUI, взаимодействующий с адаптерами и устройствами Bluetooth.
+  th: bluetuith คือตัวจัดการการเชื่อมต่อ Bluetooth แบบ TUI ซึ่งสามารถโต้ตอบกับอะแดปเตอร์และอุปกรณ์ Bluetooth
+  tr: bluetuith, Bluetooth adaptörleri ve cihazlarıyla etkileşime girebilen TUI tabanlı bir Bluetooth bağlantı yöneticisidir.
+  uk: bluetuith — TUI-менеджер Bluetooth-підключень, який може взаємодіяти з адаптерами та пристроями Bluetooth.
+  vi: bluetuith là trình quản lý kết nối Bluetooth dựa trên TUI, có thể tương tác với bộ chuyển đổi và thiết bị Bluetooth.
 x:
   source: https://github.com/darkhz/bluetuith
   eget: darkhz/bluetuith

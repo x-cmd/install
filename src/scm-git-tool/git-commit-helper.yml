@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用人工智能自动生成并提交 Git 消息
   en: Auto generate && commit git messages with AI
+  cs: Automaticky generovat a commitovat zprávy git s pomocí AI
+  de: Git-Nachrichten mit KI automatisch generieren und committen
+  es: Genera y confirma automáticamente mensajes de git con IA
+  fr: Générer et valider automatiquement des messages git grâce à l'IA
+  id: Otomatis membuat dan melakukan commit pada pesan git dengan AI
+  it: Genera e committa automaticamente i messaggi git con l'AI
+  ja: AIを使ってgitメッセージを自動生成・コミットします
+  ko: AI로 git 메시지를 자동 생성하고 커밋합니다
+  pl: Automatyczne generowanie i commitowanie wiadomości git przy użyciu AI
+  pt: Gere e faz commit de mensagens do git automaticamente com IA
+  ro: Generează și face commit automat mesajelor git cu AI
+  ru: Автоматически создаёт и коммитит сообщения git с помощью ИИ
+  th: สร้างและ commit ข้อความ git โดยอัตโนมัติด้วย AI
+  tr: Yapay zeka ile git mesajlarını otomatik olarak oluşturur ve commit'ler
+  uk: Автоматично створює та комітить повідомлення git за допомогою ШІ
+  vi: Tự động tạo và commit thông báo git bằng AI
 x:
   source: https://github.com/newdee/git-commit-helper
   eget: newdee/git-commit-helper

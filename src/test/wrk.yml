@@ -3,6 +3,22 @@ homepage: https://github.com/wg/wrk
 desc:
   cn: HTTP 基准测试工具
   en: Modern HTTP benchmarking tool
+  cs: Moderní nástroj pro benchmark HTTP
+  de: Modernes HTTP-Benchmarking-Tool
+  es: Herramienta moderna de benchmarking HTTP
+  fr: Outil moderne de benchmark HTTP
+  id: Alat benchmarking HTTP modern
+  it: Moderno strumento di benchmarking HTTP
+  ja: モダンな HTTP ベンチマークツール
+  ko: 현대적인 HTTP 벤치마킹 도구
+  pl: Nowoczesne narzędzie do benchmarkingu HTTP
+  pt: Ferramenta moderna de benchmark HTTP
+  ro: Instrument modern de benchmark HTTP
+  ru: Современный инструмент для бенчмаркинга HTTP
+  th: เครื่องมือทดสอบเบนชมาร์ก HTTP รุ่นใหม่
+  tr: Modern HTTP kıyaslama aracı
+  uk: Сучасний інструмент для бенчмаркінгу HTTP
+  vi: Công cụ đo hiệu năng HTTP hiện đại
 x:
   source: https://github.com/wg/wrk
   apt: wrk

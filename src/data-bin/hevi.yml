@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个简单的十六进制查看器。
   en: A simple hex viewer.
+  cs: Jednoduchý prohlížeč hexadecimálních hodnot.
+  de: Ein einfacher Hex-Viewer.
+  es: Un visor hexadecimal sencillo.
+  fr: Un simple visualiseur hexadécimal.
+  id: Penampil heksadesimal sederhana.
+  it: Un semplice visualizzatore esadecimale.
+  ja: シンプルな十六進ビューア。
+  ko: 간단한 16진수 뷰어.
+  pl: Prosty podglądacz szesnastkowy.
+  pt: Um visualizador hexadecimal simples.
+  ro: Un vizualizator hexazecimal simplu.
+  ru: Простой просмотрщик шестнадцатеричных данных.
+  th: ตัวดูเลขฐานสิบหกอย่างง่าย
+  tr: Basit bir onaltılık görüntüleyici.
+  uk: Простий переглядач шістнадцяткових даних.
+  vi: Trình xem hex đơn giản.
 x:
   source: https://github.com/Arnau478/hevi
   brew: hevi

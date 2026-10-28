@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于 vLLM 提供 LLM 服务的命令行工具
   en: A command-line interface tool for serving LLM using vLLM.
+  cs: Nástroj příkazové řádky pro poskytování LLM služeb pomocí vLLM.
+  de: Ein Kommandozeilen-Tool zum Bereitstellen von LLM-Diensten mit vLLM.
+  es: Una herramienta de línea de comandos para servir LLM usando vLLM.
+  fr: Un outil en ligne de commande pour servir des LLM avec vLLM.
+  id: Alat antarmuka baris perintah untuk menyajikan LLM menggunakan vLLM.
+  it: Uno strumento da riga di comando per servire LLM usando vLLM.
+  ja: vLLM を使って LLM を配信するコマンドラインツール。
+  ko: vLLM을 사용하여 LLM을 제공하는 명령줄 도구.
+  pl: Narzędzie wiersza poleceń do udostępniania LLM za pomocą vLLM.
+  pt: Uma ferramenta de linha de comando para servir LLMs usando vLLM.
+  ro: Un instrument de linie de comandă pentru a servi LLM folosind vLLM.
+  ru: Инструмент командной строки для запуска LLM с помощью vLLM.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับให้บริการ LLM โดยใช้ vLLM
+  tr: vLLM kullanarak LLM sunmak için bir komut satırı aracı.
+  uk: Інструмент командного рядка для надання сервісів LLM за допомогою vLLM.
+  vi: Công cụ dòng lệnh để phục vụ LLM bằng vLLM.
 x:
   source: https://github.com/Chen-zexi/vllm-cli
   eget: Chen-zexi/vllm-cli

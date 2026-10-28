@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 用于代理和分析 TCP 连接的 cli 工具
   en: A cli tool for proxying and analyzing TCP connections
+  cs: Nástroj CLI pro proxyování a analýzu připojení TCP
+  de: Ein CLI-Tool zum Proxyen und Analysieren von TCP-Verbindungen
+  es: Una herramienta de CLI para proxificar y analizar conexiones TCP
+  fr: Un outil CLI pour le proxy et l'analyse des connexions TCP
+  id: Alat CLI untuk memproksikan dan menganalisis koneksi TCP
+  it: Uno strumento CLI per il proxy e l'analisi delle connessioni TCP
+  ja: TCP 接続のプロキシと解析を行う CLI ツール。
+  ko: TCP 연결을 프록시하고 분석하는 CLI 도구입니다.
+  pl: Narzędzie CLI do proxyowania i analizy połączeń TCP
+  pt: Uma ferramenta de CLI para fazer proxy e analisar conexões TCP
+  ro: Un instrument CLI pentru proxy și analiza conexiunilor TCP
+  ru: CLI-инструмент для проксирования и анализа TCP-соединений
+  th: เครื่องมือ CLI สำหรับพร็อกซีและวิเคราะห์การเชื่อมต่อ TCP
+  tr: TCP bağlantılarını proxy'lemek ve analiz etmek için bir CLI aracı
+  uk: CLI-інструмент для проксювання та аналізу TCP-з'єднань
+  vi: Công cụ CLI để proxy và phân tích các kết nối TCP
 homepage: https://github.com/kevwan/tproxy
 license: MIT
 x:

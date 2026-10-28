@@ -3,6 +3,22 @@ homepage: https://github.com/BeyondCodeBootcamp/DuckDNS.sh
 desc:
   cn: 用于跟踪您的 IP 地址（在家中或在设备上）的 Posix Shell 脚本（与 Bash 兼容）
   en: A Posix Shell Script (Bash-compatible) for tracking your IP address (at home, or on devices)
+  cs: Posix Shell skript (kompatibilní s Bash) pro sledování vaší IP adresy (doma nebo na zařízeních)
+  de: Ein Posix-Shell-Skript (Bash-kompatibel) zum Verfolgen Ihrer IP-Adresse (zu Hause oder auf Geräten)
+  es: Un script de shell POSIX (compatible con Bash) para rastrear tu dirección IP (en casa o en dispositivos)
+  fr: Un script shell Posix (compatible Bash) pour suivre votre adresse IP (à la maison ou sur des appareils)
+  id: Skrip Posix Shell (kompatibel dengan Bash) untuk melacak alamat IP Anda (di rumah atau di perangkat)
+  it: Uno script Posix Shell (compatibile con Bash) per tracciare il tuo indirizzo IP (a casa o sui dispositivi)
+  ja: 自分の IP アドレス（自宅やデバイス上）を追跡する Posix Shell スクリプト（Bash 互換）
+  ko: IP 주소(집이나 기기에서)를 추적하는 Posix Shell 스크립트(Bash 호환)
+  pl: Skrypt Posix Shell (zgodny z Bash) do śledzenia adresu IP (w domu lub na urządzeniach)
+  pt: Um script Posix Shell (compatível com Bash) para rastrear seu endereço IP (em casa ou em dispositivos)
+  ro: Un script Posix Shell (compatibil cu Bash) pentru urmărirea adresei tale IP (acasă sau pe dispozitive)
+  ru: Скрипт Posix Shell (совместимый с Bash) для отслеживания вашего IP-адреса (дома или на устройствах)
+  th: สคริปต์ Posix Shell (เข้ากันได้กับ Bash) สำหรับติดตามที่อยู่ IP ของคุณ (ที่บ้านหรือบนอุปกรณ์)
+  tr: IP adresinizi (evde ya da cihazlarda) izlemek için Posix Shell betiği (Bash uyumlu)
+  uk: Скрипт Posix Shell (сумісний з Bash) для відстеження вашої IP-адреси (вдома або на пристроях)
+  vi: Kịch bản Posix Shell (tương thích Bash) để theo dõi địa chỉ IP của bạn (ở nhà hoặc trên thiết bị)
 x:
   source: https://github.com/BeyondCodeBootcamp/DuckDNS.sh
   yay: duckdns

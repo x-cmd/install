@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 自托管个人 AI 助手基础设施：以文件系统为上下文、记忆与技能为底，把 Claude Code 打造成长期理解你目标与工作流的"数字助理"。
   en: "Self-hosted personal AI infrastructure: build a long-running digital assistant on Claude Code, with the filesystem as context, skills and memory as substrate, that learns your goals and ideal state."
+  cs: "Samohostovaná osobní AI infrastruktura: postavte na Claude Code dlouhodobě běžícího digitálního asistenta, kde souborový systém slouží jako kontext, dovednosti a paměť jako základ, a který se učí vaše cíle a ideální stav."
+  de: "Selbst gehostete persönliche KI-Infrastruktur: Bauen Sie einen langlebigen digitalen Assistenten auf Claude Code, mit dem Dateisystem als Kontext und Fähigkeiten und Gedächtnis als Grundlage, der Ihre Ziele und Ihren Idealzustand lernt."
+  es: "Infraestructura de IA personal autoalojada: construye un asistente digital de larga duración sobre Claude Code, con el sistema de archivos como contexto, y las habilidades y la memoria como base, que aprende tus objetivos y tu estado ideal."
+  fr: "Infrastructure IA personnelle auto-hébergée : construisez un assistant numérique durable sur Claude Code, avec le système de fichiers comme contexte, et les compétences et la mémoire comme substrat, qui apprend vos objectifs et votre état idéal."
+  id: "Infrastruktur AI pribadi yang di-hosting sendiri: bangun asisten digital jangka panjang di atas Claude Code, dengan sistem berkas sebagai konteks, serta keterampilan dan memori sebagai dasarnya, yang mempelajari tujuan dan kondisi ideal Anda."
+  it: "Infrastruttura AI personale self-hosted: costruisci un assistente digitale a lungo termine su Claude Code, con il file system come contesto e le competenze e la memoria come substrato, che impara i tuoi obiettivi e il tuo stato ideale."
+  ja: セルフホスト型の個人用 AI インフラストラクチャ。ファイルシステムをコンテキストとして、スキルとメモリを基盤として Claude Code 上に長く動き続けるデジタルアシスタントを構築し、あなたの目標と理想の状態を学びます。
+  ko: "자체 호스팅 개인 AI 인프라: 파일 시스템을 컨텍스트로, 스킬과 메모리를 기반으로 하여 Claude Code 위에 오래 동작하는 디지털 어시스턴트를 만들고, 여러분의 목표와 이상적인 상태를 학습합니다."
+  pl: "Samodzielnie hostowana osobista infrastruktura AI: zbuduj dług działającego asystenta cyfrowego na Claude Code, z systemem plików jako kontekstem oraz umiejętnościami i pamięcią jako podstawą, który uczy się Twoich celów i idealnego stanu."
+  pt: "Infraestrutura de IA pessoal auto-hospedada: construa um assistente digital de longa duração sobre Claude Code, com o sistema de arquivos como contexto e as habilidades e a memória como substrato, que aprende seus objetivos e seu estado ideal."
+  ro: "Infrastructură AI personală auto-găzduită: construiește un asistent digital de lungă durată pe Claude Code, cu sistemul de fișiere drept context, iar abilitățile și memoria ca bază, care îți învață obiectivele și starea ideală."
+  ru: "Самостоятельно размещаемая личная ИИ-инфраструктура: постройте долговременного цифрового помощника на Claude Code, где файловая система служит контекстом, а навыки и память — основой, и который изучает ваши цели и идеальное состояние."
+  th: "โครงสร้างพื้นฐาน AI ส่วนตัวแบบ self-hosted: สร้างผู้ช่วยดิจิทัลที่ทำงานต่อเนื่องบน Claude Code โดยใช้ระบบไฟล์เป็นบริบท และทักษะกับหน่วยความจำเป็นฐาน พร้อมเรียนรู้เป้าหมายและสถานะอุดมคติของคุณ."
+  tr: "Kendi sunucunuzda barındırılan kişisel YZ altyapısı: dosya sistemini bağlam, becerileri ve belleği temel alarak Claude Code üzerinde uzun süre çalışan bir dijital asistan kurun; hedeflerinizi ve ideal durumunuzu öğrenir."
+  uk: "Самостійно розміщувана особиста ІІ-інфраструктура: побудуйте довготривалу цифрову помічницю на Claude Code, де файлова система служить контекстом, а навички та пам'ять — основою, і яка вивчає ваші цілі та ідеальний стан."
+  vi: "Hạ tầng AI cá nhân tự lưu trữ: xây dựng trợ lý số chạy lâu dài trên Claude Code, với hệ thống tệp làm ngữ cảnh, kỹ năng và bộ nhớ làm nền tảng, giúp học hiểu mục tiêu và trạng thái lý tưởng của bạn."
 x:
   source: https://github.com/danielmiessler/Personal_AI_Infrastructure
 rule:

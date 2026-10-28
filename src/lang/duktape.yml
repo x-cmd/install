@@ -3,6 +3,22 @@ homepage: https://duktape.org/
 desc:
   cn: Dukape 是一个可嵌入的 Javascript 引擎，侧重于可移植性和紧凑的内存占用
   en: Duktape is an embeddable Javascript engine, with a focus on portability and compact footprint
+  cs: Duktape je vložitelný engine Javascriptu, zaměřený na přenosnost a malou paměťovou stopu
+  de: Duktape ist eine einbettbare Javascript-Engine mit Fokus auf Portabilität und kompakten Speicherbedarf
+  es: Duktape es un motor Javascript incrustable, con foco en la portabilidad y el bajo consumo de memoria
+  fr: Duktape est un moteur Javascript embarqué, axé sur la portabilité et une empreinte mémoire compacte
+  id: Duktape adalah mesin Javascript yang dapat disematkan, dengan fokus pada portabilitas dan jejak memori yang ringkas
+  it: Duktape è un motore Javascript incorporabile, con un focus sulla portabilità e sull'ingombro di memoria compatto
+  ja: Duktape は移植性と小さなメモリ使用量を重視した組み込み可能な Javascript エンジンです
+  ko: Duktape는 이식성과 작은 메모리 사용량에 중점을 둔 임베드 가능한 Javascript 엔진입니다
+  pl: Duktape to osadzalany silnik Javascriptu, stawiający na przenośności i niewielkim zużyciu pamięci
+  pt: Duktape é um motor Javascript embutível, com foco em portabilidade e baixo consumo de memória
+  ro: Duktape este un motor Javascript încorporabil, cu accent pe portabilitate și consum redus de memorie
+  ru: Duktape — это встраиваемый движок Javascript с акцентом на переносимость и компактное потребление памяти
+  th: Duktape คือเอนจิน Javascript ที่ฝังได้ โดยเน้นความสามารถในการพกพาและขนาดหน่วยความจำที่กระชับ
+  tr: Duktape, taşınabilirlik ve kompakt bellek kullanımına odaklanan gömülebilir bir Javascript motorudur
+  uk: Duktape — це вбудовуваний движок Javascript із акцентом на переносимість та компактне використання пам'яті
+  vi: Duktape là engine Javascript có thể nhúng, tập trung vào khả năng di chuyển và mức dùng bộ nhớ gọn nhẹ
 rule:
   darwin/brew:
     cmd: brew install duktape

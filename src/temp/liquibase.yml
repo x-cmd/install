@@ -3,6 +3,22 @@ homepage: https://github.com/liquibase/liquibase
 desc:
   cn: Liquibase 是一种数据库架构变更管理解决方案，使您能够更快、更安全地修改和发布从开发到生产的数据库变更
   en: Liquibase is a database schema change management solution that enables you to revise and release database changes faster and safer from development to production
+  cs: Liquibase je řešení pro správu změn schématu databáze, které vám umožňuje rychleji a bezpečněji upravovat a vydávat změny databáze od vývoje po produkci
+  de: Liquibase ist eine Lösung zur Verwaltung von Datenbankschema-Änderungen, mit der Sie Datenbankänderungen vom Entwicklungs- bis zum Produktionsumfeld schneller und sicherer überarbeiten und veröffentlichen können
+  es: Liquibase es una solución de gestión de cambios de esquema de base de datos que le permite revisar y publicar cambios de base de datos de forma más rápida y segura, desde el desarrollo hasta la producción
+  fr: Liquibase est une solution de gestion des modifications du schéma de base de données qui vous permet de réviser et de publier plus rapidement et plus sûrement les changements de base de données, du développement à la production
+  id: Liquibase adalah solusi manajemen perubahan skema basis data yang memungkinkan Anda merevisi danomobile perubahan basis data lebih cepat dan aman dari pengembangan hingga produksi
+  it: Liquibase è una soluzione di gestione delle modifiche allo schema del database che ti consente di rivedere e rilasciare le modifiche al database in modo più rapido e sicuro, dallo sviluppo alla produzione
+  ja: Liquibase はデータベーススキーマ変更管理ソリューションで、開発から本番までデータベース変更をより速く安全に見直し、リリースできます
+  ko: Liquibase는 데이터베이스 스키마 변경 관리 솔루션으로, 개발부터 운영까지 데이터베이스 변경을 더 빠르고 안전하게 검토하고 릴리스할 수 있게 합니다
+  pl: Liquibase to rozwiązanie do zarządzania zmianami schematu bazy danych, które pozwala szybciej i bezpieczniej przeglądać oraz wdrażać zmiany w bazie danych, od środowiska deweloperskiego po produkcyjne
+  pt: O Liquibase é uma solução de gerenciamento de alterações de esquema de banco de dados que permite revisar e publicar alterações no banco de dados de forma mais rápida e segura, do desenvolvimento à produção
+  ro: Liquibase este o soluție de management al modificărilor schemei bazei de date care vă permite să revizuiți și să publicați modificările bazei de date mai rapid și mai sigur, de la dezvoltare la producție
+  ru: Liquibase — решение для управления изменениями схемы базы данных, позволяющее быстрее и безопаснее пересматривать и выпускать изменения базы данных от разработки до эксплуатации
+  th: Liquibase คือโซลูชันการจัดการการเปลี่ยนแปลงสคีมาฐานข้อมูล ที่ช่วยให้คุณตรวจทานและเผยแพร่การเปลี่ยนแปลงฐานข้อมูลได้เร็วและปลอดภัยยิ่งขึ้น ตั้งแต่การพัฒนาไปจนถึงการใช้งานจริง
+  tr: Liquibase, geliştirmeden üretime kadar veritabanı değişikliklerini daha hızlı ve daha güvenli biçimde gözden geçirmenizi ve yayımlamanızı sağlayan bir veritabanı şema değişikliği yönetimi çözümüdür
+  uk: Liquibase — рішення для керування змінами схеми бази даних, що дає змогу швидше та безпечніше переглядати й випускати зміни бази даних від розробки до експлуатації
+  vi: Liquibase là giải pháp quản lý thay đổi lược đồ cơ sở dữ liệu, cho phép bạn xem xét và phát hành các thay đổi cơ sở dữ liệu nhanh hơn và an toàn hơn, từ phát triển đến vận hành
 x:
   source: https://github.com/liquibase/liquibase
   eget: liquibase/liquibase

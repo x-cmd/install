@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Cargo subcommand to select and execute binary/example targets
   cn: Cargo 子命令用于选择并执行二进制/示例目标
+  cs: Podsoučení Cargo pro výběr a spuštění cílových binárních souborů či příkladů
+  de: Cargo-Unterbefehl zum Auswählen und Ausführen von Binär- und Beispiel-Zielen
+  es: Subcomando de Cargo para seleccionar y ejecutar objetivos binarios o de ejemplo
+  fr: Sous-commande Cargo pour sélectionner et exécuter des cibles binaires ou d'exemple
+  id: Subperintah Cargo untuk memilih dan menjalankan target biner atau contoh
+  it: Sottocomando Cargo per selezionare ed eseguire target binari o di esempio
+  ja: バイナリ/サンプルターゲットを選択して実行する Cargo サブコマンド
+  ko: 바이너리/예제 타깃을 선택하고 실행하는 Cargo 하위 명령
+  pl: Podpolecenie Cargo do wyboru i uruchamiania celów binarnych lub przykładowych
+  pt: Subcomando do Cargo para selecionar e executar alvos binários ou de exemplo
+  ro: Subcomandă Cargo pentru selectarea și rularea țintelor binare sau de exemplu
+  ru: Подкоманда Cargo для выбора и запуска бинарных или примерных целей
+  th: คำสั่งย่อยของ Cargo เพื่อเลือกและเรียกใช้เป้าหมายไบนารีหรือตัวอย่าง
+  tr: İkili veya örnek hedefleri seçip çalıştırmak için Cargo alt komutu
+  uk: Підкоманда Cargo для вибору та запуску бінарних або прикладних цілей
+  vi: Lệnh con của Cargo để chọn và chạy các target nhị phân hoặc ví dụ
 x:
   source: https://github.com/lusingander/cargo-selector
   yay: cargo-selector

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 rsync 的状态/进度条
   en: A status/progress bar for rsync.
+  cs: Stavový/progresový ukazatel pro rsync.
+  de: Eine Status-/Fortschrittsanzeige für rsync.
+  es: Una barra de estado/progreso para rsync.
+  fr: Une barre d'état/progression pour rsync.
+  id: Bilah status/progres untuk rsync.
+  it: Una barra di stato/progresso per rsync.
+  ja: rsync用のステータス／プログレスバー。
+  ko: rsync용 상태/진행률 표시줄.
+  pl: Pasek stanu/postępu dla rsync.
+  pt: Uma barra de status/progresso para o rsync.
+  ro: O bară de stare/progres pentru rsync.
+  ru: Строка состояния/прогресса для rsync.
+  th: แถบสถานะ/ความคืบหน้าสำหรับ rsync
+  tr: rsync için durum/ilerleme çubuğu.
+  uk: Рядок стану/прогресу для rsync.
+  vi: Thanh trạng thái/tiến trình cho rsync.
 x:
   source: https://github.com/laktak/rsyncy
   eget: laktak/rsyncy

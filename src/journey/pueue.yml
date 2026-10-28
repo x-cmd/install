@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Pueue 是一个命令行任务管理工具，用于顺序执行和并行执行长时间运行的任务
   en: Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks
+  cs: Pueue je nástroj pro správu úkolů v příkazové řádce, který umožňuje sekvenční i paralelní spouštění dlouhotrvajících úkolů
+  de: Pueue ist ein Befehlszeilen-Tool zur Aufgabenverwaltung, das die sequentielle und parallele Ausführung von langlebigen Aufgaben ermöglicht
+  es: Pueue es una herramienta de gestión de tareas de línea de comandos para la ejecución secuencial y paralela de tareas de larga duración
+  fr: Pueue est un outil de gestion des tâches en ligne de commande permettant l'exécution séquentielle et parallèle de tâches de longue durée
+  id: Pueue adalah alat manajemen tugas baris perintah untuk eksekusi berurutan dan paralel dari tugas berdurasi panjang
+  it: Pueue è uno strumento di gestione delle attività da riga di comando per l'esecuzione sequenziale e parallela di attività di lunga durata
+  ja: Pueueは、長時間実行されるタスクを逐次実行および並列実行するためのコマンドラインタスク管理ツールです
+  ko: Pueue는 장시간 실행되는 작업을 순차적 및 병렬로 실행하기 위한 명령줄 작업 관리 도구입니다
+  pl: Pueue to narzędzie do zarządzania zadaniami w wierszu poleceń, umożliwiające sekwencyjne i równoległe wykonywanie długotrwałych zadań
+  pt: Pueue é uma ferramenta de gerenciamento de tarefas de linha de comando para execução sequencial e paralela de tarefas de longa duração
+  ro: Pueue este un instrument de management al sarcinilor în linia de comandă pentru execuție secvențială și paralelă a sarcinilor de lungă durată
+  ru: Pueue — инструмент командной строки для управления задачами, обеспечивающий последовательное и параллельное выполнение долгих задач
+  th: Pueue เป็นเครื่องมือจัดการงานบรรทัดคำสั่งสำหรับการทำงานแบบตามลำดับและแบบขนานของงานที่ใช้เวลานาน
+  tr: Pueue, uzun süren görevlerin sıralı ve paralel olarak yürütülmesi için bir komut satırı görev yönetimi aracıdır
+  uk: Pueue — інструмент командного рядка для керування завданнями, що забезпечує послідовне та паралельне виконання тривалих завдань
+  vi: Pueue là công cụ quản lý công việc dòng lệnh để chạy tuần tự và song song các công việc kéo dài
 x:
   source: https://github.com/Nukesor/pueue
   eget: Nukesor/pueue

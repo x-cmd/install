@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用于监视 tmux 会话的简洁 TUI
   en: A simple TUI to watch tmux sessions
+  cs: Jednoduché TUI pro sledování relací tmux
+  de: Eine einfache TUI zum Beobachten von tmux-Sitzungen
+  es: Una TUI sencilla para observar sesiones de tmux
+  fr: Une TUI simple pour surveiller les sessions tmux
+  id: TUI sederhana untuk memantau sesi tmux
+  it: Una semplice TUI per monitorare le sessioni tmux
+  ja: tmux セッションを監視するシンプルな TUI
+  ko: tmux 세션을 관찰하기 위한 간단한 TUI
+  pl: Prosty TUI do śledzenia sesji tmux
+  pt: Uma TUI simples para acompanhar sessões do tmux
+  ro: Un TUI simplu pentru monitorizarea sesiunilor tmux
+  ru: Простой TUI для просмотра сессий tmux
+  th: TUI อย่างง่ายสำหรับดูเซสชัน tmux
+  tr: tmux oturumlarını izlemek için basit bir TUI
+  uk: Простий TUI для перегляду сесій tmux
+  vi: Giao diện TUI đơn giản để theo dõi các phiên tmux
 x:
   source: https://github.com/steipete/tmuxwatch
   eget: steipete/tmuxwatch

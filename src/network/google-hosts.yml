@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 谷歌主机生成器
   en: Google hosts generator
+  cs: Generátor hostů Google
+  de: Google-Hosts-Generator
+  es: Generador de hosts de Google
+  fr: Générateur de fichiers hosts Google
+  id: Pembuat hosts Google
+  it: Generatore di hosts per Google
+  ja: Google ホストのジェネレーター
+  ko: Google 호스트 생성기
+  pl: Generator plików hosts Google
+  pt: Gerador de hosts do Google
+  ro: Generator de hosts Google
+  ru: Генератор хостов Google
+  th: ตัวสร้างไฟล์ hosts ของ Google
+  tr: Google hosts oluşturucu
+  uk: Генератор хостів Google
+  vi: Trình tạo hosts cho Google
 x:
   source: https://github.com/txthinking/google-hosts
 rule:

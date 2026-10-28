@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 通过预设任务清单编排 AI Agent 协作的终端工具
   en: 'ralph-tui is a terminal tool that works through a defined list of tasks and orchestrates AI agents to work though them.'
+  cs: ralph-tui je nástroj pro terminál, který pracuje podle předem definovaného seznamu úkolů a koordinuje agenty AI, aby je postupně dokončili.
+  de: ralph-tui ist ein Terminalwerkzeug, das anhand einer vorgegebenen Aufgabenliste arbeitet und KI-Agenten orchestriert, um sie nacheinander abzuarbeiten.
+  es: ralph-tui es una herramienta de terminal que trabaja con una lista definida de tareas y orquesta agentes de IA para completarlas una tras otra.
+  fr: ralph-tui est un outil de terminal qui fonctionne à partir d'une liste définie de tâches et orchestre des agents IA pour les traiter une par une.
+  id: ralph-tui adalah alat terminal yang bekerja melalui daftar tugas yang telah ditetapkan dan mengorkestrasi agen AI untukengerjakannya satu per satu.
+  it: ralph-tui è uno strumento da terminale che lavora seguendo un elenco di attività definito e orchestra agenti IA per portarli a termine uno alla volta.
+  ja: ralph-tui は、定義されたタスクリストに基づいて動作し、AI エージェントを編成して順に処理させるターミナルツールです。
+  ko: ralph-tui는 미리 정의된 작업 목록을 따라 동작하고 AI 에이전트를 조정하여 하나씩 처리하는 터미널 도구입니다.
+  pl: ralph-tui to narzędzie terminalowe, które działa według ustalonej listy zadań i orkiestruje agentów AI, aby wykonywali je po kolei.
+  pt: O ralph-tui é uma ferramenta de terminal que trabalha a partir de uma lista definida de tarefas e orquestra agentes de IA para concluí-las uma a uma.
+  ro: ralph-tui este o unealtă de terminal care lucrează după o listă stabilită de sarcini și orchestrează agenți AI pentru a le realiza pe rând.
+  ru: ralph-tui — это терминальный инструмент, который работает по заданному списку задач и координирует ИИ-агентов для их последовательного выполнения.
+  th: ralph-tui เป็นเครื่องมือเทอร์มินัลที่ทำงานตามรายการงานที่กำหนดไว้ และประสานเอเจนต์ AI ให้ทำงานทีละรายการ
+  tr: ralph-tui, önceden tanımlanmış bir görev listesine göre çalışan ve yapay zekâ ajanlarını sırayla görevlendiren bir terminal aracıdır.
+  uk: ralph-tui — це термінальний інструмент, який працює за заданим списком завдань і координує агентів ШІ для їх послідовного виконання.
+  vi: ralph-tui là công cụ terminal hoạt động theo một danh sách nhiệm vụ được định sẵn và điều phối các tác nhân AI để xử lý lần lượt.
 x:
   source: https://github.com/subsy/ralph-tui
   eget: subsy/ralph-tui

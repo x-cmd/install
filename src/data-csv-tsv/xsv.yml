@@ -4,6 +4,22 @@ license: Unlicense
 desc:
   cn: xsv 是一个用于索引、切片、分析、拆分和连接 CSV 文件的命令行程序
   en: xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files
+  cs: xsv je program příkazové řádky pro indexování, řezání, analýzu, rozdělování a spojování souborů CSV.
+  de: xsv ist ein Kommandozeilenprogramm zum Indizieren, Aufteilen, Analysieren, Zerlegen und Zusammenführen von CSV-Dateien.
+  es: xsv es un programa de línea de comandos para indexar, cortar, analizar, dividir y unir archivos CSV.
+  fr: xsv est un programme en ligne de commande pour indexer, découper, analyser, séparer et joindre des fichiers CSV.
+  id: xsv adalah program baris perintah untuk mengindeks, memotong, menganalisis, memisahkan, dan menggabungkan file CSV.
+  it: xsv è un programma da riga di comando per indicizzare, sezionare, analizzare, dividere e unire file CSV.
+  ja: xsv は CSV ファイルのインデキシング、スライス、解析、分割、結合を行うコマンドラインプログラムです。
+  ko: xsv는 CSV 파일의 인덱싱, 슬라이싱, 분석, 분할 및 결합을 위한 명령줄 프로그램입니다.
+  pl: xsv to program wiersza poleceń do indeksowania, wycinania, analizowania, dzielenia i łączenia plików CSV.
+  pt: xsv é um programa de linha de comando para indexar, fatiar, analisar, dividir e juntar arquivos CSV.
+  ro: xsv este un program de linie de comandă pentru indexarea, felierea, analizarea, împărțirea și unirea fișierelor CSV.
+  ru: xsv — программа командной строки для индексации, нарезки, анализа, разбиения и объединения файлов CSV.
+  th: xsv เป็นโปรแกรมบรรทัดคำสั่งสำหรับสร้างดัชนี ตัดช่วง วิเคราะห์ แยก และรวมไฟล์ CSV
+  tr: xsv, CSV dosyalarını dizinlemek, dilimlemek, analiz etmek, bölmek ve birleştirmek için bir komut satırı programıdır.
+  uk: xsv — програма командного рядка для індексації, нарізання, аналізу, розбиття та об'єднання файлів CSV.
+  vi: xsv là chương trình dòng lệnh để lập chỉ mục, cắt, phân tích, tách và nối các tệp CSV.
 x:
   source: https://github.com/BurntSushi/xsv
   eget: BurntSushi/xsv

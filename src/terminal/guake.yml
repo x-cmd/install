@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Guake 是为 GNOME 桌面环境制作的基于 Python 的下拉终端
   en: Guake is a python based dropdown terminal made for the GNOME desktop environment
+  cs: Guake je dropdownový terminál založený na Pythonu, vytvořený pro desktopové prostředí GNOME
+  de: Guake ist ein auf Python basierendes Dropdown-Terminal für die GNOME-Desktop-Umgebung
+  es: Guake es un terminal desplegable basado en Python creado para el entorno de escritorio GNOME
+  fr: Guake est un terminal déroulant basé sur Python, conçu pour l'environnement de bureau GNOME
+  id: Guake adalah terminal dropdown berbasis Python yang dibuat untuk lingkungan desktop GNOME
+  it: Guake è un terminale a tendina basato su Python, creato per l'ambiente desktop GNOME
+  ja: Guake は GNOME デスクトップ環境のために作られた Python ベースのドロップダウンターミナルです
+  ko: Guake는 GNOME 데스크톱 환경을 위해 만들어진 Python 기반 드롭다운 터미널입니다
+  pl: Guake to terminal rozwijany oparty na Pythonie, stworzony dla środowiska pulpitu GNOME
+  pt: Guake é um terminal suspenso baseado em Python, feito para o ambiente de desktop GNOME
+  ro: Guake este un terminal dropdown bazat pe Python, creat pentru mediul desktop GNOME
+  ru: Guake — выпадающий терминал на базе Python, созданный для настольной среды GNOME
+  th: Guake คือเทอร์มินัลแบบดรอปดาวน์ที่เขียนด้วย Python สำหรับสภาพแวดล้อมเดสก์ท็อป GNOME
+  tr: Guake, GNOME masaüstü ortamı için yapılmış Python tabanlı bir açılır terminaldir
+  uk: Guake — висувний термінал на базі Python, створений для робочого столу GNOME
+  vi: Guake là terminal thả xuống dựa trên Python, được tạo cho môi trường desktop GNOME
 x:
   source: https://github.com/Guake/guake
   apt: guake

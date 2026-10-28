@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ATAC（Arguably a Terminal API Client）是一款可以说是终端中的 API 客户端。它借鉴了诸如 Postman、Insomnia 甚至 Bruno 等知名客户端的设计理念，但完全运行在终端中，无需图形界面环境。
   en: ATAC is Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed.
+  cs: ATAC je arguable terminálový API klient. Je založen na známých klientech jako Postman, Insomnia nebo dokonce Bruno, ale běží uvnitř vašeho terminálu bez potřeby jakéhokoli grafického prostředí.
+  de: ATAC ist ein denkbarer Terminal-API-Client. Er basiert auf bekannten Clients wie Postman, Insomnia oder sogar Bruno, läuft aber direkt in Ihrem Terminal, ganz ohne grafische Umgebung.
+  es: ATAC es, sin duda, un cliente de API de terminal. Está basado en clientes conocidos como Postman, Insomnia o incluso Bruno, pero dentro de tu terminal y sin necesidad de ningún entorno gráfico.
+  fr: ATAC est pour ainsi dire un client d'API pour terminal. Il s'inspire de clients bien connus comme Postman, Insomnia ou même Bruno, mais fonctionne dans votre terminal sans aucun environnement graphique requis.
+  id: ATAC adalah Klien API Terminal. Ini berbasis pada klien terkenal seperti Postman, Insomnia, atau bahkan Bruno, tetapi berjalan di dalam terminal Anda tanpa memerlukan lingkungan graphical apa pun.
+  it: ATAC è per così dire un client API da terminale. Si basa su client noti come Postman, Insomnia o persino Bruno, ma gira dentro il tuo terminale senza richiedere alcun ambiente grafico.
+  ja: ATAC は、言わずとも良いターミナル API クライアントです。Postman、Insomnia、Bruno などの有名なクライアントを参考にしていますが、特定のグラフィカル環境は必要とせず、ターミナル内で動作します。
+  ko: ATAC는 말할 만한 터미널 API 클라이언트입니다. Postman, Insomnia, 심지어 Bruno 같은 유명한 클라이언트를 바탕으로 하지만, 그래픽 환경 없이 터미널 안에서 동작합니다.
+  pl: ATAC to w isto klient API dla terminala. Opiera się na znanych klientach, takich jak Postman, Insomnia, a nawet Bruno, ale działa wewnątrz terminala, bez potrzeby jakiegokolwiek środowiska graficznego.
+  pt: O ATAC é um cliente de API para terminal. Baseia-se em clientes conhecidos como Postman, Insomnia ou até mesmo Bruno, mas roda dentro do seu terminal sem necessidade de qualquer ambiente gráfico.
+  ro: ATAC este un client API pentru terminal. Se bazează pe clienți cunoscuți precum Postman, Insomnia sau chiar Bruno, dar rulează în interiorul terminalului tău, fără a necesita vreun mediu grafic.
+  ru: ATAC — это, можно сказать, терминальный API-клиент. Он основан на известных клиентах, таких как Postman, Insomnia и даже Bruno, но работает прямо в вашем терминале, без какой-либо графической среды.
+  th: ATAC คือไคลเอนต์ API สำหรับเทอร์มินัล มันอ้างอิงจากไคลเอนต์ที่เป็นที่รู้จัก เช่น Postman, Insomnia หรือแม้แต่ Bruno แต่ทำงานภายในเทอร์มินัลของคุณโดยไม่ต้องมีสภาพแวดล้อมกราฟิกใด ๆ
+  tr: ATAC, bir terminal API istemcisidir. Postman, Insomnia hatta Bruno gibi bilinen istemcilerden esinlenir, ancak herhangi bir grafik ortama ihtiyaç duymadan terminalinizin içinde çalışır.
+  uk: ATAC — це, можна сказати, термінальний API-клієнт. Він побудований на відомих клієнтах, таких як Postman, Insomnia і навіть Bruno, але працює просто у вашому терміналі, без будь-якого графічного середовища.
+  vi: ATAC là client API cho terminal. Nó lấy cảm hứng từ các client nổi tiếng như Postman, Insomnia hay thậm chí Bruno, nhưng chạy ngay trong terminal của bạn mà không cần môi trường đồ họa nào.
 x:
   source: https://github.com/Julien-cpsn/ATAC
   eget: Julien-cpsn/ATAC

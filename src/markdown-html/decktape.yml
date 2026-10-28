@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: DeckTape 是用于 HTML 的高质量 PDF 导出程序
   en: DeckTape is a high-quality PDF exporter for HTML presentation frameworks'
+  cs: DeckTape je vysoce kvalitní exportér PDF pro HTML prezentační frameworky
+  de: DeckTape ist ein hochwertiger PDF-Exporter für HTML-Präsentationsframeworks
+  es: DeckTape es un exportador de PDF de alta calidad para frameworks de presentaciones HTML
+  fr: DeckTape est un exportateur PDF de haute qualité pour les frameworks de présentation HTML
+  id: DeckTape adalah eksportir PDF berkualitas tinggi untuk framework presentasi HTML
+  it: DeckTape è un esportatore PDF di alta qualità per i framework di presentazione HTML
+  ja: DeckTape は HTML プレゼンテーションフレームワーク向けの高品質な PDF エクスポートツールです
+  ko: DeckTape는 HTML 프레젠테이션 프레임워크를 위한 고품질 PDF 내보내기 도구입니다
+  pl: DeckTape to wysokiej jakości eksporter PDF dla frameworków prezentacji HTML
+  pt: DeckTape é um exportador de PDF de alta qualidade para frameworks de apresentação HTML
+  ro: DeckTape este un exportor PDF de înaltă calitate pentru framework-uri de prezentare HTML
+  ru: DeckTape — высококачественный экспортёр PDF для HTML-фреймворков презентаций
+  th: DeckTape คือตัวส่งออก PDF คุณภาพสูงสำหรับเฟรมเวิร์กงานนำเสนอแบบ HTML
+  tr: DeckTape, HTML sunum çerçeveleri için yüksek kaliteli bir PDF dışa aktarıcıdır
+  uk: DeckTape — високоякісний експортер PDF для HTML-фреймворків презентацій
+  vi: DeckTape là trình xuất PDF chất lượng cao cho các framework trình bày HTML
 x:
   source: https://github.com/astefanutti/decktape
   npm: decktape

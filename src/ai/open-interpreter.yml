@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: OpenAI 代码解释器的一个开源的、本地运行的实现
   en: An open-source, locally running implementation of OpenAI's Code Interpreter
+  cs: Otevřená implementace Code Interpreter od OpenAI běžící lokálně
+  de: Eine quelloffene, lokal ausgeführte Implementierung von OpenAIs Code Interpreter
+  es: Una implementación de código abierto y de ejecución local del Code Interpreter de OpenAI
+  fr: Une implémentation open source et locale du Code Interpreter d'OpenAI
+  id: Implementasi open-source Code Interpreter dari OpenAI yang berjalan secara lokal
+  it: Un'implementazione open source ed eseguita localmente del Code Interpreter di OpenAI
+  ja: OpenAI の Code Interpreter のオープンソースでローカル実行される実装
+  ko: OpenAI의 Code Interpreter를 로컬에서 실행하는 오픈소스 구현
+  pl: Otwarta, uruchamiana lokalnie implementacja Code Interpreter od OpenAI
+  pt: Uma implementação de código aberto e execução local do Code Interpreter da OpenAI
+  ro: O implementare open source, rulată local, a funcției Code Interpreter de la OpenAI
+  ru: Открытая реализация Code Interpreter от OpenAI, работающая локально
+  th: การใช้งานโอเพนซอร์สและรันในเครื่องของ Code Interpreter ของ OpenAI
+  tr: OpenAI'nın Code Interpreter'ı için açık kaynak ve yerel çalışan bir uygulama
+  uk: Відкрита реалізація Code Interpreter від OpenAI, що працює локально
+  vi: Bản mã nguồn mở chạy cục bộ của Code Interpreter từ OpenAI
 x:
   source: https://github.com/KillianLucas/open-interpreter
   yay: open-interpreter-desktop-bin

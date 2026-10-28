@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 grep 的方式搜索 GIF
   en: Grep the GIF. Stick the landing.
+  cs: Grepujte GIF. Zůstaňte na zemi.
+  de: Grep das GIF. Bleib am Boden.
+  es: Grep el GIF. Quédate en el suelo.
+  fr: Grep le GIF. Restez au sol.
+  id: Grep GIF-nya. Tetaplah membumi.
+  it: Fai il grep del GIF. Resta con i piedi per terra.
+  ja: GIF を grep する。足は地に付けっぱなし。
+  ko: GIF를 grep 하세요. 땅에 무릎 꿇으세요.
+  pl: Przeszukaj GIF. Trzymaj się ziemi.
+  pt: Faça grep no GIF. Pés no chão.
+  ro: Fă un grep pe GIF. Picioarele pe pământ.
+  ru: Ищите в GIF. Оставайтесь на земле.
+  th: ค้นหาใน GIF ด้วย grep อยู่กับพื้น
+  tr: GIF'leri grep edin. Ayağınızı yere basın.
+  uk: Шукайте в GIF. Залишайтеся на землі.
+  vi: Grep trong GIF. Hãy đứng vững trên mặt đất.
 x:
   source: https://github.com/steipete/gifgrep
   eget: steipete/gifgrep

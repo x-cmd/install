@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Prospector 是一个分析 Python 代码并输出有关错误、潜在问题、违反约定和复杂性的信息的工具
   en: Prospector is a tool to analyse Python code and output information about errors, potential problems, convention violations and complexity
+  cs: Prospector je nástroj pro analýzu kódu Pythonu a výstup informací o chybách, potenciálních problémech, porušeních konvencí a složitosti
+  de: Prospector ist ein Werkzeug zum Analysieren von Python-Code und Ausgeben von Informationen über Fehler, potenzielle Probleme, Konventionsverstöße und Komplexität
+  es: Prospector es una herramienta para analizar código Python y generar información sobre errores, posibles problemas, violaciones de convenciones y complejidad
+  fr: Prospector est un outil d'analyse du code Python qui produit des informations sur les erreurs, les problèmes potentiels, les violations de conventions et la complexité
+  id: Prospector adalah alat untuk menganalisis kode Python dan mengeluarkan informasi tentang kesalahan, potensi masalah, pelanggaran konvensi, dan kompleksitas
+  it: Prospector è uno strumento per analizzare il codice Python e produrre informazioni su errori, potenziali problemi, violazioni delle convenzioni e complessità
+  ja: Prospector は Python コードを解析して、エラー、潜在的な問題、規約違反、複雑さに関する情報を出力するツールです
+  ko: Prospector는 Python 코드를 분석하여 오류, 잠재적 문제, 규칙 위반 및 복잡도에 대한 정보를 출력하는 도구입니다
+  pl: Prospector to narzędzie do analizowania kodu Pythona i generowania informacji o błędach, potencjalnych problemach, naruszeniach konwencji i złożoności
+  pt: O Prospector é uma ferramenta para analisar código Python e gerar informações sobre erros, possíveis problemas, violações de convenções e complexidade
+  ro: Prospector este un instrument de analiză a codului Python și de afișare a informațiilor despre erori, probleme potențiale, încălcări ale convențiilor și complexitate
+  ru: Prospector — инструмент для анализа кода Python и вывода информации об ошибках, возможных проблемах, нарушениях соглашений и сложности
+  th: Prospector เป็นเครื่องมือวิเคราะห์โค้ด Python และแสดงข้อมูลเกี่ยวกับข้อผิดพลาด ปัญหาที่อาจเกิดขึ้น การฝ่าฝืนข้อตกลง และความซับซ้อน
+  tr: Prospector, Python kodunu analiz ederek hatalar, olası sorunlar, kural ihlalleri ve karmaşıklık hakkında bilgi üreten bir araçtır
+  uk: Prospector — інструмент для аналізу коду Python та виводу інформації про помилки, можливі проблеми, порушення угод і складність
+  vi: Prospector là công cụ phân tích mã Python và xuất thông tin về lỗi, vấn đề tiềm ẩn, vi phạm quy ước và độ phức tạp
 x:
   source: https://github.com/landscapeio/prospector
   yay: python-prospector

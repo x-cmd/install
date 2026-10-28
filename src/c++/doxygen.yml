@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 对于从带注释的 c + + 源代码中生成文档，doxy 是一个行业标准的工具
   en: Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
+  cs: Doxygen je de facto standardní nástroj pro generování dokumentace z anotovaných zdrojů C++
+  de: Doxygen ist das de facto Standardwerkzeug zur Erzeugung von Dokumentation aus kommentierten C++-Quellen
+  es: Doxygen es la herramienta estándar de facto para generar documentación a partir de fuentes C++ anotadas
+  fr: Doxygen est l'outil standard de facto pour générer de la documentation à partir de sources C++ annotées
+  id: Doxygen adalah alat standar de facto untuk membuat dokumentasi dari sumber C++ yang beranotasi
+  it: Doxygen è lo strumento standard de facto per generare documentazione da sorgenti C++ annotati
+  ja: Doxygen は、注釈付きの C++ ソースからドキュメントを生成する事実上の標準ツールです
+  ko: Doxygen는 주석이 달린 C++ 소스에서 문서를 생성하는 사실상 표준 도구입니다
+  pl: Doxygen jest de facto standardowym narzędziem do generowania dokumentacji z opatrzonych komentarzami źródeł C++
+  pt: Doxygen é a ferramenta padrão de facto para gerar documentação a partir de fontes C++ anotadas
+  ro: Doxygen este instrumentul standard de facto pentru generarea documentației din surse C++ adnotate
+  ru: Doxygen — де-факто стандартный инструмент для генерации документации из аннотированных исходников C++
+  th: Doxygen คือเครื่องมือมาตรฐานโดยพฤติกรรมสำหรับสร้างเอกสารจากซอร์สโค้ด C++ ที่มีคำอธิบาย
+  tr: Doxygen, açıklamalı C++ kaynaklarından belge üretmek için fiili standart araçtır
+  uk: Doxygen — це де-факто стандартний інструмент для генерації документації з анотованих вихідних кодів C++
+  vi: Doxygen là công cụ tiêu chuẩn de facto để tạo tài liệu từ mã nguồn C++ có chú thích
 x:
   source: https://github.com/doxygen/doxygen
   eget: doxygen/doxygen

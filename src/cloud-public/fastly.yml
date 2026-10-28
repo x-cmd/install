@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: fastly 是一个开源命令行工具，用于与 Fastly API 交互。使用它来创建服务、管理后端和域、上传 VCL 或构建和部署计算包
   en: fastly is an open-source command line tool for interacting with the Fastly API. Use it to create services, manage backends and domains, upload VCL or build and deploy Compute packages
+  cs: fastly je open-source příkazový nástroj pro interakci s API Fastly. Použijte jej k vytváření služeb, správě backendů a domén, nahrávání VCL nebo sestavování a nasazování balíčků Compute
+  de: fastly ist ein Open-Source-Kommandozeilenwerkzeug für die Interaktion mit der Fastly-API. Damit erstellen Sie Services, verwalten Backends und Domains, laden VCL hoch oder bauen und deployen Compute-Pakete
+  es: fastly es una herramienta de línea de comandos de código abierto para interactuar con la API de Fastly. Úsela para crear servicios, gestionar backends y dominios, subir VCL o compilar y desplegar paquetes de Compute
+  fr: fastly est un outil en ligne de commande open source permettant d'interagir avec l'API Fastly. Utilisez-le pour créer des services, gérer des backends et des domaines, téléverser du VCL ou compiler et déployer des paquets Compute
+  id: fastly adalah alat baris perintah sumber terbuka untuk berinteraksi dengan Fastly API. Gunakan untuk membuat layanan, mengelola backend dan domain, mengunggah VCL, atau membangun dan menmalsi paket Compute
+  it: fastly è uno strumento a riga di comando open source per interagire con l'API Fastly. Usalo per creare servizi, gestire backend e domini, caricare VCL o compilare e distribuire pacchetti Compute
+  ja: fastly は Fastly API と対話するためのオープンソースのコマンドラインツールです。サービスの作成、バックエンドとドメインの管理、VCL のアップロード、Compute パッケージのビルドとデプロイに使用します
+  ko: fastly는 Fastly API와 상호작용하기 위한 오픈소스 명령줄 도구입니다. 서비스 생성, 백엔드 및 도메인 관리, VCL 업로드, Compute 패키지 빌드 및 배포에 사용합니다
+  pl: fastly to narzędzie wiersza poleceń o otwartym kodzie do interakcji z API Fastly. Używaj go do tworzenia usług, zarządzania backendami i domenami, przesyłania VCL oraz budowania i wdrażania pakietów Compute
+  pt: O fastly é uma ferramenta de linha de comando de código aberto para interagir com a API do Fastly. Use-o para criar serviços, gerenciar backends e domínios, enviar VCL ou compilar e implantar pacotes do Compute
+  ro: fastly este un instrument de linie de comandă open source pentru interacțiunea cu API-ul Fastly. Folosiți-l pentru a crea servicii, a gestiona backenduri și domenii, a încărca VCL sau a construi și a implementa pachete Compute
+  ru: fastly — это инструмент командной строки с открытым исходным кодом для работы с Fastly API. Используйте его для создания сервисов, управления бэкендами и доменами, загрузки VCL, а также сборки и развёртывания пакетов Compute
+  th: fastly เป็นเครื่องมือบรรทัดคำสั่งโอเพนซอร์สสำหรับโต้ตอบกับ Fastly API ใช้เพื่อสร้างบริการ จัดการ backend และโดเมน อัปโหลด VCL หรือสร้างและปล่อยแพ็กเกจ Compute
+  tr: fastly, Fastly API ile etkileşim kurmak için açık kaynaklı bir komut satırı aracıdır. Hizmet oluşturmak, backend ve alan adlarını yönetmek, VCL yüklemek veya Compute paketleri oluşturup dağıtmak için kullanın
+  uk: fastly — це інструмент командного рядка з відкритим кодом для взаємодії з Fastly API. Використовуйте його для створення сервісів, керування бекендами та доменами, завантаження VCL або збирання й розгортання пакетів Compute
+  vi: fastly là công cụ dòng lệnh mã nguồn mở để tương tác với Fastly API. Dùng nó để tạo dịch vụ, quản lý backend và tên miền, tải lên VCL hoặc build và triển khai gói Compute
 homepage: https://github.com/fastly/cli
 license: Apache-2.0
 x:

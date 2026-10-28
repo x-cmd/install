@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 类似于 ack 的代码搜索工具，但速度更快
   en: A code-searching tool similar to ack, but faster
+  cs: Nástroj pro vyhledávání v kódu podobný ack, ale rychlejší
+  de: Ein Code-Suchwerkzeug ähnlich ack, aber schneller
+  es: Una herramienta de búsqueda de código similar a ack, pero más rápida
+  fr: Un outil de recherche de code similaire à ack, mais plus rapide
+  id: Alat pencarian kode mirip ack, tetapi lebih cepat
+  it: Uno strumento di ricerca nel codice simile ad ack, ma più veloce
+  ja: ack に似たコード検索ツールですが、より高速です
+  ko: ack와 유사하지만 더 빠른 코드 검색 도구입니다
+  pl: Narzędzie do wyszukiwania w kodzie podobne do ack, ale szybsze
+  pt: Uma ferramenta de busca em código semelhante ao ack, mas mais rápida
+  ro: Un instrument de căutare în cod similar cu ack, dar mai rapid
+  ru: Инструмент поиска по коду, похожий на ack, но более быстрый
+  th: เครื่องมือค้นหาโค้ดคล้าย ack แต่เร็วกว่า
+  tr: ack'e benzer ancak daha hızlı olan bir kod arama aracı
+  uk: Інструмент пошуку в коді, схожий на ack, але швидший
+  vi: Công cụ tìm kiếm mã nguồn tương tự ack nhưng nhanh hơn
 x:
   source: https://github.com/ggreer/the_silver_searcher
   apt: silversearcher-ag

@@ -3,6 +3,22 @@ homepage: https://github.com/mturk/nawk
 desc:
   en: '"The one true awk" descended from UNIX V7'
   cn: '"真正的 awk" 源自 UNIX V7'
+  cs: "\"The one true awk\" pocházející z UNIX V7"
+  de: "\"The one true awk\", abgeleitet von UNIX V7"
+  es: "\"The one true awk\", descendiente de UNIX V7"
+  fr: "\"The one true awk\", descendant d'UNIX V7"
+  id: "\"The one true awk\" yang berasal dari UNIX V7"
+  it: "\"The one true awk\", discendente da UNIX V7"
+  ja: UNIX V7 を源とする「The one true awk」
+  ko: UNIX V7에서 파생된 "The one true awk"
+  pl: "\"The one true awk\" wywodzący się z UNIX V7"
+  pt: "\"The one true awk\", descendente do UNIX V7"
+  ro: "\"The one true awk\", descendent din UNIX V7"
+  ru: "\"The one true awk\", происходящий из UNIX V7"
+  th: "\"The one true awk\" ซึ่งสืบทอดมาจาก UNIX V7"
+  tr: UNIX V7'den türeyen "The one true awk"
+  uk: "\"The one true awk\", що походить з UNIX V7"
+  vi: "\"The one true awk\" kế thừa từ UNIX V7"
 x:
   source: https://github.com/mturk/nawk
   dnf: nawk

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用 go 实现的 Powerline 风格 prompt
   en: Powerline style prompt implemented in go
+  cs: Prompt ve stylu Powerline implementovaný v jazyce go
+  de: Powerline-artiger Prompt, implementiert in go
+  es: Prompt con estilo Powerline implementado en go
+  fr: Prompt de style Powerline implémenté en go
+  id: Prompt bergaya Powerline yang diimplementasikan dengan go
+  it: Prompt in stile Powerline implementato in go
+  ja: go で実装された Powerline スタイルのプロンプト
+  ko: go로 구현된 Powerline 스타일 프롬프트
+  pl: Prompt w stylu Powerline zaimplementowany w go
+  pt: Prompt no estilo Powerline implementado em go
+  ro: Prompt în stil Powerline implementat în go
+  ru: Prompt в стиле Powerline, реализованный на go
+  th: พรอมต์สไตล์ Powerline ที่เขียนด้วย go
+  tr: go ile uygulanan Powerline tarzı prompt
+  uk: Prompt у стилі Powerline, реалізований на go
+  vi: Prompt phong cách Powerline được triển khai bằng go
 x:
   source: https://github.com/justjanne/powerline-go
   eget: justjanne/powerline-go

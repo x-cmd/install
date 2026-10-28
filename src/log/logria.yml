@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个强大的 CLI 工具，可以将日志聚合放在您的指尖。
   en: A powerful CLI tool that puts log aggregation at your fingertips.
+  cs: Výkonný nástroj CLI, který vám umožní mít agregaci protokolů na dosah rukou.
+  de: Ein leistungsstarkes CLI-Tool, das die Log-Aggregation an Ihre Fingerspitzen bringt.
+  es: Una potente herramienta de CLI que pone la agregación de registros a su alcance.
+  fr: Un puissant outil CLI qui met l'agrégation des journaux à portée de doigts.
+  id: Alat CLI yang kuat yang menempatkan agregasi log di ujung jari Anda.
+  it: Un potente strumento CLI che porta l'aggregazione dei log a portata di dito.
+  ja: 強力な CLI ツールで、ログ集約を指先に置いて扱えます。
+  ko: 로그 집약을 손끝에서 처리할 수 있게 해주는 강력한 CLI 도구입니다.
+  pl: Potężne narzędzie CLI, które stawia agregację logów na wyciągnięcie dłoni.
+  pt: Uma ferramenta de CLI poderosa que coloca a agregação de logs ao seu alcance.
+  ro: Un instrument CLI puternic care pune agregarea jurnalelor la îndemâna degetelor.
+  ru: Мощный инструмент CLI, который делает агрегацию журналов доступной прямо под рукой.
+  th: เครื่องมือ CLI อันทรงพลังที่ทำให้การรวมบันทึกอยู่แค่ปลายนิ้ว
+  tr: Günlük toplamayı parmak uçlarınıza getiren güçlü bir CLI aracı.
+  uk: Потужний інструмент CLI, який робить агрегацію журналів доступною просто під рукою.
+  vi: Công cụ CLI mạnh mẽ đưa việc tổng hợp nhật ký đến tầm tay bạn
 x:
   source: https://github.com/ReagentX/Logria
   eget: ReagentX/Logria

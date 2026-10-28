@@ -3,6 +3,22 @@ homepage: https://github.com/hgrsd/drivel
 desc:
   cn: drivel 是一个用 Rust 编写的命令行工具，用于从示例 JSON（或 JSON 行）文件中推断模式，并根据推断的模式生成合成数据（所讨论的 drivel）
   en: drivel is a command-line tool written in Rust for inferring a schema from an example JSON (or JSON lines) file, and generating synthetic data (the drivel in question) based on the inferred schema.
+  cs: drivel je nástroj příkazové řádky napsaný v Rustu pro odvození schématu z ukázkového souboru JSON (nebo JSON lines) a generování syntetických dat na základě odvozeného schématu.
+  de: drivel ist ein in Rust geschriebenes Kommandozeilenwerkzeug, das ein Schema aus einer Beispiel-JSON- (oder JSON-Lines-) Datei ableitet und auf Basis des abgeleiteten Schemas synthetische Daten erzeugt.
+  es: drivel es una herramienta de línea de comandos escrita en Rust para inferir un esquema a partir de un archivo JSON (o JSON lines) de ejemplo y generar datos sintéticos según el esquema inferido.
+  fr: drivel est un outil en ligne de commande écrit en Rust pour inférer un schéma à partir d'un fichier JSON (ou JSON lines) d'exemple et générer des données synthétiques à partir du schéma inféré.
+  id: drivel adalah alat baris perintah yang ditulis dengan Rust untuk menyimpulkan skema dari berkas JSON (atau JSON lines) contoh dan menghasilkan data sintetis berdasarkan skema yang disimpulkan.
+  it: drivel è uno strumento da riga di comando scritto in Rust per inferire uno schema da un file JSON (o JSON lines) di esempio e generare dati sintetici sulla base dello schema inferito.
+  ja: drivel は Rust で書かれたコマンドラインツールで、サンプルの JSON (または JSON lines) ファイルからスキーマを推論し、推論したスキーマに基づいて合成データを生成します。
+  ko: drivel은 Rust로 작성된 명령줄 도구로, 예제 JSON(또는 JSON lines) 파일에서 스키마를 추론하고 추론한 스키마를 바탕으로 합성 데이터를 생성합니다.
+  pl: drivel to narzędzie wiersza poleceń napisane w Rustie do wywnioskowania schematu z przykładowego pliku JSON (lub JSON lines) i generowania danych syntetycznych na podstawie wywnioskowanego schematu.
+  pt: drivel é uma ferramenta de linha de comando escrita em Rust para inferir um esquema a partir de um arquivo JSON (ou JSON lines) de exemplo e gerar dados sintéticos com base no esquema inferido.
+  ro: drivel este un instrument de linie de comandă scris în Rust pentru a deduce o schemă dintr-un fișier JSON (sau JSON lines) de exemplu și a genera date sintetice pe baza schemei deduse.
+  ru: drivel — инструмент командной строки на языке Rust для вывода схемы из примерного файла JSON (или JSON lines) и генерации синтетических данных на основе выведенной схемы.
+  th: drivel เป็นเครื่องมือบรรทัดคำสั่งที่เขียนด้วย Rust เพื่ออนุมานสคีมาจากไฟล์ JSON (หรือ JSON lines) ตัวอย่าง และสร้างข้อมูลสังเคราะห์ตามสคีมาที่อนุมานได้
+  tr: drivel, örnek bir JSON (veya JSON lines) dosyasından şema çıkarımı yapmak ve çıkarılan şemaya dayanarak sentetik veri üretmek için Rust ile yazılmış bir komut satırı aracıdır.
+  uk: drivel — інструмент командного рядка, написаний на Rust для виведення схеми з прикладного файлу JSON (або JSON lines) та генерації синтетичних даних на основі виведеної схеми.
+  vi: drivel là công cụ dòng lệnh viết bằng Rust để suy luận lược đồ từ tệp JSON (hoặc JSON lines) mẫu và tạo dữ liệu tổng hợp dựa trên lược đồ được suy luận.
 x:
   source: https://github.com/hgrsd/drivel
   cargo: drivel

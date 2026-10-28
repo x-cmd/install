@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 从命令行文本中查找相关表情符号
   en: Find relevant emoji from text on the command-line
+  cs: Najít relevantní emoji z textu na příkazové řádce
+  de: Relevante Emojis aus Text in der Befehlszeile finden
+  es: Encuentra emojis relevantes a partir de texto en la línea de comandos
+  fr: Trouver les emojis pertinents à partir d'un texte en ligne de commande
+  id: Temukan emoji yang relevan dari teks di baris perintah
+  it: Trova emoji rilevanti dal testo nella riga di comando
+  ja: コマンドラインのテキストから関係する絵文字を検索します
+  ko: 명령 줄의 텍스트에서 관련 이모지를 찾습니다
+  pl: Znajdź istotne emoji z tekstu w wierszu poleceń
+  pt: Encontre emojis relevantes a partir de texto na linha de comando
+  ro: Găsește emoji-uri relevante din textul din linia de comandă
+  ru: Найти подходящие эмодзи по тексту в командной строке
+  th: ค้นหาอีโมจิที่เกี่ยวข้องจากข้อความบนบรรทัดคำสั่ง
+  tr: Komut satırındaki metinden ilgili emojileri bulun
+  uk: Знайти відповідні емодзі з тексту в командному рядку
+  vi: Tìm emoji phù hợp từ văn bản trên dòng lệnh
 x:
   source: https://github.com/sindresorhus/emoj
   yay: emoj

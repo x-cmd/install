@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个使用最少看板逻辑管理任务的 TUI。
   en: A TUI to manage your tasks with minimal kanban logic.
+  cs: TUI pro správu úkolů s minimální logikou kanbanu.
+  de: Eine TUI zur Aufgabenverwaltung mit minimalistischer Kanban-Logik.
+  es: Una TUI para gestionar tus tareas con una lógica kanban mínima.
+  fr: Une TUI pour gérer vos tâches avec une logique kanban minimale.
+  id: TUI untuk mengelola tugas Anda dengan logika kanban minimal.
+  it: Una TUI per gestire le tue attività con una logica kanban minima.
+  ja: 最小限のカンバンロジックでタスクを管理する TUI。
+  ko: 최소한의 칸반 논리로 작업을 관리하는 TUI입니다.
+  pl: TUI do zarządzania zadaniami z minimalną logiką kanbanu.
+  pt: Uma TUI para gerenciar suas tarefas com lógica kanban mínima.
+  ro: O interfață TUI pentru gestionarea sarcinilor cu logică kanban minimă.
+  ru: TUI для управления задачами с минимальной канбан-логикой.
+  th: TUI สำหรับจัดการงานของคุณด้วยตรรกะคัมบันขั้นต่ำ
+  tr: Görevlerinizi minimum kanban mantığıyla yönetmek için bir TUI.
+  uk: TUI для керування завданнями з мінімальною канбан-логікою.
+  vi: Giao diện TUI để quản lý công việc với logic kanban tối giản.
 x:
   source: https://github.com/GabAlpha/basilk
   eget: GabAlpha/basilk

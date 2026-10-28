@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端中的键盘测试器
   en: Keyboard tester in terminal
+  cs: Tester klávesnice v terminálu
+  de: Tastaturtester im Terminal
+  es: Probador de teclado en la terminal
+  fr: Testeur de clavier dans le terminal
+  id: Penguji keyboard di terminal
+  it: Tester da tastiera nel terminale
+  ja: ターミナルで動作するキーボードテスター
+  ko: 터미널에서 실행되는 키보드 테스터
+  pl: Tester klawiatury w terminalu
+  pt: Testador de teclado no terminal
+  ro: Tester de tastatură în terminal
+  ru: Тестер клавиатуры в терминале
+  th: ตัวทดสอบคีย์บอร์ดในเทอร์มินัล
+  tr: Terminalde klavye test aracı
+  uk: Тестувальник клавіатури в терміналі
+  vi: Trình kiểm tra bàn phím trong terminal
 x:
   source: https://github.com/bloznelis/kbt
   eget: bloznelis/kbt

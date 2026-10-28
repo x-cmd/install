@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 Android 开发者的终端 UI，监控性能、查看日志与查询数据库
   en: 'A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.'
+  cs: Terminálové UI pro vývojáře Androidu. Sledujte výkon, prohlížejte logy, dotazujte databáze, zaznamenávejte trasování a ovládejte zařízení — bez opuštění terminálu.
+  de: Eine Terminal-UI für Android-Entwickler. Leistung überwachen, Logs durchsuchen, Datenbanken abfragen, Traces aufzeichnen und Geräte steuern — ohne das Terminal zu verlassen.
+  es: Una interfaz de terminal para desarrolladores de Android. Supervisa el rendimiento, explora registros, consulta bases de datos, graba trazas y controla dispositivos sin salir del terminal.
+  fr: Une interface en terminal pour les développeurs Android. Surveillez les performances, parcourez les journaux, interrogez des bases de données, enregistrez des traces et contrôlez les appareils — sans quitter le terminal.
+  id: UI terminal untuk pengembang Android. Pantau performa, telusuri log, kueri basis data, rekam jejak, dan kendalikan perangkat — tanpa meninggalkan terminal.
+  it: Un'interfaccia a terminale per sviluppatori Android. Monitora le prestazioni, sfoglia i log, interroga i database, registra le tracce e controlla i dispositivi — senza uscire dal terminale.
+  ja: Android 開発者向けのターミナル UI。パフォーマンスの監視、ログの閲覧、データベースへのクエリ、トレースの記録、デバイスの制御を—all 端末内で完結します。
+  ko: Android 개발자를 위한 터미널 UI입니다. 성능을 모니터링하고, 로그를 살펴보고, 데이터베이스를 질의하고, 트레이스를 기록하며, 기기를 제어할 수 있습니다 — 터미널을 벗어나지 않고.
+  pl: Terminalowy interfejs dla deweloperów Androida. Monitoruj wydajność, przeglądaj logi, odpytuj bazy danych, nagrywaj ślady i steruj urządzeniami — bez wychodzenia z terminala.
+  pt: Uma interface de terminal para desenvolvedores Android. Monitore o desempenho, navegue pelos registros, consulte bancos de dados, grave rastreamentos e controle dispositivos — sem sair do terminal.
+  ro: O interfață în terminal pentru dezvoltatori Android. Monitorizează performanța, consultă jurnalele, interoghează baze de date, înregistrează urme și controlează dispozitivele — fără a părăsi terminalul.
+  ru: Терминальный интерфейс для разработчиков Android. Следите за производительностью, просматривайте логи, запрашивайте базы данных, записывайте трассировки и управляйте устройствами — не покидая терминал.
+  th: UI เทอร์มินัลสำหรับนักพัฒนา Android ติดตามประสิทธิภาพ ดูบันทึก คิวรีฐานข้อมูล บันทึก trace และควบคุมอุปกรณ์ — โดยไม่ต้องออกจากเทอร์มินัล
+  tr: Android geliştiricileri için terminal arayüzü. Performansı izleyin, günlükleri gezin, veritabanlarını sorgulayın, izlemeleri kaydedin ve cihazları kontrol edin — terminalden ayrılmadan.
+  uk: Термінальний інтерфейс для розробників Android. Слідкуйте за продуктивністю, переглядайте журнали, запитуйте бази даних, записуйте трасування та керуйте пристроями — не залишаючи термінал.
+  vi: Giao diện terminal cho nhà phát triển Android. Theo dõi hiệu năng, xem log, truy vấn cơ sở dữ liệu, ghi lại trace và điều khiển thiết bị — mà không cần rời khỏi terminal.
 x:
   source: https://github.com/measure-sh/holo
   eget: measure-sh/holo

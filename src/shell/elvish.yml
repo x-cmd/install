@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   en: Elvish is an expressive programming language and a versatile interactive shell, combined into one seamless package
   cn: Elvish 是一种富有表现力的编程语言和一种多功能的交互式 shell，无缝组合成一个包
+  cs: Elvish je expresivní programovací jazyk a všestranná interaktivní shell, spojené do jednoho kompaktního celku
+  de: Elvish ist eine ausdrucksstarke Programmiersprache und eine vielseitige interaktive Shell, kombiniert in einem nahtlosen Paket
+  es: Elvish es un lenguaje de programación expresivo y un shell interactivo versátil, combinados en un único paquete sin fisuras
+  fr: Elvish est un langage de programmation expressif et un shell interactif polyvalent, réunis en un paquet harmonieux
+  id: Elvish adalah bahasa pemrograman yang ekspresif dan shell interaktif yang serbaguna, digabungkan menjadi satu paket mulus
+  it: Elvish è un linguaggio di programmazione espressivo e una shell interattiva versatile, combinati in un unico pacchetto senza soluzione di continuità
+  ja: Elvish は、表現力豊かなプログラミング言語と多機能な対話型シェルを、切れ目なく一つにまとめたパッケージです
+  ko: Elvish는 표현력 있는 프로그래밍 언어와 다기능 대화형 셸을 하나로 매끄럽게 묶은 패키지입니다
+  pl: Elvish to ekspresyjny język programowania i wszechstronna interaktywna powłoka, połączone w jednym spójnym pakiecie
+  pt: Elvish é uma linguagem de programação expressiva e um shell interativo versátil, combinados em um único pacote integrado
+  ro: Elvish este un limbaj de programare expresiv și un shell interactiv versatil, reunite într-un singur pachet fără cusături
+  ru: Elvish — это выразительный язык программирования и универсальная интерактивная оболочка, объединённые в едином целостном пакете
+  th: Elvish คือภาษาโปรแกรมที่มีความสามารถในการแสดงออกและเป็นเชลล์แบบโต้ตอบที่ครอบคลุม รวมไว้ในแพ็กเกจเดียวอย่างกลมกลืน
+  tr: Elvish, ifade gücü yüksek bir programlama dili ile çok yönlü bir etkileşimli kabuğun tek bir pakette birleşmiş hâlidir
+  uk: Elvish — це виразна мова програмування та універсальна інтерактивна оболонка, об'єднані в одному цілісному пакеті
+  vi: Elvish là một ngôn ngữ lập trình biểu đạt và một shell tương tác đa năng, được kết hợp thành một gói liền mạch
 x:
   source: https://github.com/elves/elvish
   apt: elvish

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: sttr 是一款命令行软件，允许你快速对字符串执行各种转换操作。
   en: sttr is command line software that allows you to quickly run various transformation operations on the string.
+  cs: sttr je software pro příkazovou řádku, který umožňuje rychle provádět různé transformace na řetězci.
+  de: sttr ist Kommandozeilen-Software, mit der sich schnell verschiedene Transformationsoperationen auf Zeichenketten ausführen lassen.
+  es: sttr es un software de línea de comandos que te permite realizar rápidamente varias operaciones de transformación sobre la cadena.
+  fr: sttr est un logiciel en ligne de commande qui permet d'effectuer rapidement diverses opérations de transformation sur une chaîne.
+  id: sttr adalah perangkat lunak baris perintah yang memungkinkan Anda dengan cepat menjalankan berbagai operasi transformasi pada string.
+  it: sttr è un software da riga di comando che consente di eseguire rapidamente varie operazioni di trasformazione sulle stringhe.
+  ja: sttr は文字列にさまざまな変換操作をすばやく実行できるコマンドラインソフトウェアです。
+  ko: sttr는 문자열에 다양한 변환 작업을 빠르게 수행할 수 있게 하는 명령줄 소프트웨어입니다.
+  pl: sttr to oprogramowanie wiersza poleceń, które pozwala szybko wykonywać różne operacje transformacji na ciągach znaków.
+  pt: sttr é um software de linha de comando que permite executar rapidamente várias operações de transformação em strings.
+  ro: sttr este un software de linie de comandă care vă permite să rulați rapid diverse operații de transformare asupra șirurilor.
+  ru: sttr — программа командной строки, позволяющая быстро выполнять различные преобразования над строками.
+  th: sttr เป็นซอฟต์แวร์บรรทัดคำสั่งที่ให้คุณรันการแปลงรูปแบบต่าง ๆ บนสตริงได้อย่างรวดเร็ว
+  tr: sttr, dizeler üzerinde hızlıca çeşitli dönüşüm işlemleri çalıştırmanıza olanak tanıyan komut satırı yazılımıdır.
+  uk: sttr — програма командного рядка, що дозволяє швидко виконувати різні перетворення над рядками.
+  vi: sttr là phần mềm dòng lệnh cho phép bạn nhanh chóng thực hiện các thao tác chuyển đổi khác nhau trên chuỗi
 x:
   source: https://github.com/abhimanyu003/sttr
   eget: abhimanyu003/sttr

@@ -3,6 +3,22 @@ homepage: https://github.com/shobrook/rebound/
 desc:
   cn: 抛出异常时立即获取 Stack Overflow 结果的命令行工具
   en: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
+  cs: Nástroj příkazové řádky, který okamžitě načte výsledky ze Stack Overflow, když je vyhozena výjimka
+  de: Ein Kommandozeilen-Tool, das sofort Stack-Overflow-Ergebnisse abruft, wenn eine Ausnahme ausgelöst wird
+  es: Herramienta de línea de comandos que obtiene al instante resultados de Stack Overflow cuando se lanza una excepción
+  fr: Outil en ligne de commande qui récupère instantanément les résultats de Stack Overflow lorsqu'une exception est levée
+  id: Alat baris perintah yang langsung mengambil hasil Stack Overflow ketika exception terjadi
+  it: Strumento da riga di comando che recupera istantaneamente i risultati di Stack Overflow quando viene lanciata un'eccezione
+  ja: 例外が投げられたときにすぐ Stack Overflow の結果を取得するコマンドラインツールです
+  ko: 예외가 발생하면 즉시 Stack Overflow 결과를 가져오는 명령줄 도구입니다
+  pl: Narzędzie wiersza poleceń, które natychmiast pobiera wyniki ze Stack Overflow, gdy zgłoszony jest wyjątek
+  pt: Ferramenta de linha de comando que obtém instantaneamente resultados do Stack Overflow quando uma exceção é lançada
+  ro: Instrument de linie de comandă care aduce instantaneu rezultate din Stack Overflow atunci când este aruncată o excepție
+  ru: Инструмент командной строки, который мгновенно получает результаты Stack Overflow при возникновении исключения
+  th: เครื่องมือบรรทัดคำสั่งที่ดึงผลลัพธ์จาก Stack Overflow ทันทีเมื่อมีข้อยกเว้นเกิดขึ้น
+  tr: Bir istisna oluştuğunda anında Stack Overflow sonuçlarını getiren komut satırı aracı
+  uk: Інструмент командного рядка, який миттєво отримує результати Stack Overflow, коли виникає виняток
+  vi: Công cụ dòng lệnh lấy ngay kết quả Stack Overflow khi có ngoại lệ được ném ra
 x:
   source: https://github.com/shobrook/rebound
   apt: rebound-cli

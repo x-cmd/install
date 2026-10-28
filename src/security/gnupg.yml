@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: GnuPG 是 RFC4880 定义的 OpenPGP 标准的完整且免费的实现（也称为 PGP）
   en: GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP)
+  cs: GnuPG je kompletní a volná implementace standardu OpenPGP definovaného v RFC4880 (také známého jako PGP)
+  de: GnuPG ist eine vollständige und freie Implementierung des OpenPGP-Standards gemäß RFC4880 (auch bekannt als PGP)
+  es: GnuPG es una implementación completa y libre del estándar OpenPGP definido en RFC4880 (también conocido como PGP)
+  fr: GnuPG est une implémentation complète et libre du standard OpenPGP défini par la RFC4880 (également connu sous le nom de PGP)
+  id: GnuPG adalah implementasi lengkap dan bebas dari standar OpenPGP sesuai RFC4880 (yang juga dikenal sebagai PGP)
+  it: GnuPG è un'implementazione completa e libera dello standard OpenPGP definito da RFC4880 (noto anche come PGP)
+  ja: GnuPG は RFC4880 で定義された OpenPGP 標準 (PGP とも呼ばれます) の完全かつ自由な実装です
+  ko: GnuPG는 RFC4880에 정의된 OpenPGP 표준(PGP로도 알려짐)의 완전하고 자유로운 구현입니다
+  pl: GnuPG to kompletna i wolna implementacja standardu OpenPGP zdefiniowanego w RFC4880 (znanego także jako PGP)
+  pt: O GnuPG é uma implementação completa e livre do padrão OpenPGP definido pela RFC4880 (também conhecido como PGP)
+  ro: GnuPG este o implementare completă și liberă a standardului OpenPGP definit în RFC4880 (cunoscut și ca PGP)
+  ru: GnuPG — это полная и свободная реализация стандарта OpenPGP, определённого в RFC4880 (также известного как PGP)
+  th: GnuPG คือการดำเนินการมาตรฐาน OpenPGP ตามที่กำหนดใน RFC4880 (ที่เรียกว่า PGP) อย่างสมบูรณ์และเสรี
+  tr: GnuPG, RFC4880 ile tanımlanan OpenPGP standardının (PGP olarak da bilinir) eksiksiz ve özgür bir uygulamasıdır
+  uk: GnuPG — це повна і вільна реалізація стандарту OpenPGP, визначеного в RFC4880 (також відомий як PGP)
+  vi: GnuPG là bản triển khai đầy đủ và miễn phí của tiêu chuẩn OpenPGP do RFC4880 định nghĩa (còn gọi là PGP)
 x:
   source: https://github.com/gpg/gnupg
   apt: gnupg

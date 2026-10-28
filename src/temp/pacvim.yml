@@ -4,6 +4,22 @@ license: LGPL-3.0
 desc:
   cn: PacVim 是一款教你 vim 命令的游戏
   en: PacVim is a game that teaches you vim commands
+  cs: PacVim je hra, která vás naučí příkazům vim
+  de: PacVim ist ein Spiel, das Ihnen vim-Befehle beibringt
+  es: PacVim es un juego que te enseña los comandos de vim
+  fr: PacVim est un jeu qui vous apprend les commandes de vim
+  id: PacVim adalah permainan yang mengajarkan Anda perintah vim
+  it: PacVim è un gioco che ti insegna i comandi di vim
+  ja: PacVim は vim のコマンドを教えてくれるゲームです
+  ko: PacVim은 vim 명령어를 배우게 해주는 게임입니다
+  pl: PacVim to gra ucząca poleceń vima
+  pt: PacVim é um jogo que ensina os comandos do vim
+  ro: PacVim este un joc care vă învață comenzile de vim
+  ru: PacVim — игра, которая обучает командам vim
+  th: PacVim เป็นเกมที่สอนคำสั่ง vim ให้คุณ
+  tr: PacVim, size vim komutlarını öğreten bir oyundur
+  uk: PacVim — гра, яка навчає командам vim
+  vi: PacVim là trò chơi dạy bạn các lệnh vim
 rule:
   darwin/brew:
     cmd: brew install pacvim

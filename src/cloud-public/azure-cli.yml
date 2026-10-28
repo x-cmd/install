@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Azure 命令行接口，可连接到 Azure 并对 Azure 资源执行管理命令
   en: The Azure Command-Line Interface to connect to Azure and execute administrative commands on Azure resources
+  cs: Příkazový řádek Azure pro připojení k Azure a spouštění správcových příkazů na prostředcích Azure
+  de: Die Azure-Befehlszeilenschnittstelle zum Verbinden mit Azure und zum Ausführen von Verwaltungsbefehlen auf Azure-Ressourcen
+  es: La interfaz de línea de comandos de Azure para conectarse a Azure y ejecutar comandos de administración sobre recursos de Azure
+  fr: L'interface de ligne de commande Azure pour se connecter à Azure et exécuter des commandes d'administration sur les ressources Azure
+  id: Antarmuka Baris Perintah Azure untuk terhubung ke Azure dan menjalankan perintah administratif pada sumber daya Azure
+  it: L'interfaccia a riga di comando di Azure per connettersi ad Azure ed eseguire comandi amministrativi sulle risorse di Azure
+  ja: Azure に接続して Azure リソースで管理コマンドを実行するための Azure コマンドラインインターフェース
+  ko: Azure에 연결하고 Azure 리소스에서 관리 명령을 실행하는 Azure 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń Azure do łączenia się z Azure i wykonywania poleceń administracyjnych na zasobach Azure
+  pt: A Interface de Linha de Comando do Azure para conectar ao Azure e executar comandos administrativos em recursos do Azure
+  ro: Interfața de linie de comandă Azure pentru conectarea la Azure și executarea comenzilor administrative pe resursele Azure
+  ru: Интерфейс командной строки Azure для подключения к Azure и выполнения административных команд над ресурсами Azure
+  th: อินเทอร์เฟซบรรทัดคำสั่งของ Azure สำหรับเชื่อมต่อกับ Azure และเรียกใช้คำสั่งการดูแลระบบบนทรัพยากรของ Azure
+  tr: Azure'a bağlanmak ve Azure kaynakları üzerinde yönetim komutları çalıştırmak için Azure komut satırı arayüzü
+  uk: Інтерфейс командного рядка Azure для підключення до Azure та виконання адміністративних команд над ресурсами Azure
+  vi: Giao diện dòng lệnh Azure để kết nối với Azure và chạy các lệnh quản trị trên tài nguyên Azure
 x:
   source: https://github.com/Azure/azure-cli
   eget: Azure/azure-cli

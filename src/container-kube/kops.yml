@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubernetes 运营（KOPS） - 生产 K8S 的安装，升级和管理
   en: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  cs: Kubernetes Operations (kOps) – instalace, aktualizace a správa k8s v produkční kvalitě
+  de: Kubernetes Operations (kOps) – Installation, Upgrades und Management von k8s auf Produktionsniveau
+  es: "Kubernetes Operations (kOps): instalación, actualización y gestión de k8s de nivel de producción"
+  fr: Kubernetes Operations (kOps) – Installation, mises à niveau et gestion de k8s de qualité production
+  id: Kubernetes Operations (kOps) - Instalasi, peningkatan, dan manajemen k8s kelas produksi
+  it: Kubernetes Operations (kOps) - Installazione, aggiornamenti e gestione di k8s di livello di produzione
+  ja: Kubernetes Operations (kOps) - 本番品質の k8s のインストール、アップグレード、管理
+  ko: Kubernetes Operations (kOps) - 프로덕션 수준의 k8s 설치, 업그레이드 및 관리
+  pl: Kubernetes Operations (kOps) – instalacja, aktualizacja i zarządzanie k8s na poziomie produkcyjnym
+  pt: Kubernetes Operations (kOps) - Instalação, atualizações e gerenciamento de k8s com qualidade de produção
+  ro: Kubernetes Operations (kOps) - Instalare, actualizare și gestionare k8s de calitate producție
+  ru: Kubernetes Operations (kOps) — установка, обновление и управление k8s промышленного уровня
+  th: Kubernetes Operations (kOps) - การติดตั้ง อัปเกรด และจัดการ k8s ระดับโปรดักชัน
+  tr: Kubernetes Operations (kOps) - Üretim kalitesinde k8s kurulumu, yükseltme ve yönetimi
+  uk: Kubernetes Operations (kOps) — встановлення, оновлення та керування k8s промислового рівня
+  vi: Kubernetes Operations (kOps) - Cài đặt, nâng cấp và quản lý k8s chất lượng sản xuất
 x:
   source: https://github.com/kubernetes/kops
   eget: kubernetes/kops

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: tgpt 是一个跨平台的命令行界面（CLI）工具，允许你在终端中使用 AI 聊天机器人，无需 API 密钥。
   en: tgpt is a cross-platform command-line interface (CLI) tool that allows you to use AI chatbot in your Terminal without requiring API keys.
+  cs: tgpt je multiplatformní nástroj s příkazovou řádkou (CLI), který vám umožní používat AI chatbota v terminálu bez nutnosti API klíčů.
+  de: tgpt ist ein plattformübergreifendes Kommandozeilen-Tool (CLI), mit dem du einen KI-Chatbot in deinem Terminal nutzen kannst, ganz ohne API-Schlüssel.
+  es: tgpt es una herramienta de interfaz de línea de comandos (CLI) multiplataforma que te permite usar un chatbot de IA en tu terminal sin necesidad de claves de API.
+  fr: tgpt est un outil d'interface en ligne de commande (CLI) multiplateforme qui permet d'utiliser un chatbot IA dans votre terminal sans clés d'API.
+  id: tgpt adalah alat antarmuka baris perintah (CLI) lintas platform yang memungkinkan Anda menggunakan chatbot AI di terminal tanpa memerlukan kunci API.
+  it: tgpt è uno strumento a riga di comando (CLI) multipiattaforma che ti permette di usare un chatbot IA nel terminale senza richiedere chiavi API.
+  ja: tgpt はクロスプラットフォームのコマンドラインインターフェース（CLI）ツールで、APIキー不要でターミナル上でAIチャットボットを利用できます。
+  ko: tgpt은 API 키 없이 터미널에서 AI 챗봇을 사용할 수 있게 해주는 크로스 플랫폼 명령줄 인터페이스(CLI) 도구입니다.
+  pl: tgpt to wieloplatformowe narzędzie wiersza poleceń (CLI), które pozwala korzystać z chatbotów AI w terminalu bez kluczy API.
+  pt: O tgpt é uma ferramenta de interface de linha de comando (CLI) multiplataforma que permite usar um chatbot de IA no seu terminal sem precisar de chaves de API.
+  ro: tgpt este un instrument de interfață în linie de comandă (CLI) multiplatformă care îți permite să folosești un chatbot AI în terminal fără chei API.
+  ru: tgpt — кроссплатформенный инструмент командной строки (CLI), позволяющий использовать ИИ-чатбота в терминале без API-ключей.
+  th: tgpt เป็นเครื่องมือส่วนติดต่อบรรทัดคำสั่ง (CLI) แบบข้ามแพลตฟอร์ม ที่ให้คุณใช้แชตบอต AI ในเทอร์มินัลได้โดยไม่ต้องใช้คีย์ API
+  tr: tgpt, terminalde API anahtarlarına gerek kalmadan bir yapay zekâ sohbet botu kullanmanıza olanak tanıyan platformlar arası bir komut satırı arayüzü (CLI) aracıdır.
+  uk: tgpt — кроссплатформний інструмент командного рядка (CLI), який дозволяє використовувати ШІ-чатбота в терміналі без ключів API.
+  vi: tgpt là công cụ giao diện dòng lệnh (CLI) đa nền tảng cho phép bạn dùng chatbot AI trong terminal mà không cần khóa API.
 x:
   source: https://github.com/aandrew-me/tgpt
   eget: aandrew-me/tgpt

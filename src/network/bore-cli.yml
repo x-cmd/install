@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Rust 编写的 TCP 隧道工具
   en: A modern, simple TCP tunnel in Rust
+  cs: Moderní, jednoduchý TCP tunel napsaný v Rustu
+  de: Ein moderner, einfacher TCP-Tunnel in Rust
+  es: Un túnel TCP moderno y sencillo escrito en Rust
+  fr: Un tunnel TCP moderne et simple écrit en Rust
+  id: Terowongan TCP modern dan sederhana yang ditulis dalam Rust
+  it: Un tunnel TCP moderno e semplice scritto in Rust
+  ja: Rust で書かれたモダンでシンプルな TCP トンネル
+  ko: Rust로 작성된 현대적이고 간단한 TCP 터널
+  pl: Nowoczesny, prosty tunel TCP napisany w Rust
+  pt: Um túnel TCP moderno e simples escrito em Rust
+  ro: Un tunel TCP modern și simplu scris în Rust
+  ru: Современный простой TCP-туннель, написанный на Rust
+  th: อุโมงค์ TCP สมัยใหม่และเรียบง่ายที่เขียนด้วย Rust
+  tr: Rust ile yazılmış modern ve basit bir TCP tüneli
+  uk: Сучасний простий TCP-тунель, написаний на Rust
+  vi: Đường hầm TCP hiện đại và đơn giản được viết bằng Rust
 x:
   source: https://github.com/ekzhang/bore
   eget: ekzhang/bore

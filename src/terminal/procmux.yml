@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于进程的终端多路复用器
   en: A terminal multiplexer for processes.
+  cs: Terminálový multiplexor pro procesy.
+  de: Ein Terminal-Multiplexer für Prozesse.
+  es: Un multiplexor de terminal para procesos.
+  fr: Un multiplexeur de terminal pour les processus.
+  id: Multiplexer terminal untuk proses.
+  it: Un multiplexer da terminale per i processi.
+  ja: プロセス向けのターミナルマルチプレクサ。
+  ko: 프로세스를 위한 터미널 멀티플렉서.
+  pl: Terminalowy multiplekser dla procesów.
+  pt: Um multiplexador de terminal para processos.
+  ro: Un multiplexor de terminal pentru procese.
+  ru: Терминальный мультиплексор для процессов.
+  th: ตัวมัลติเพล็กซ์เทอร์มินัลสำหรับกระบวนการ
+  tr: İşlemler için bir terminal çoklayıcısı.
+  uk: Термінальний мультиплексор для процесів.
+  vi: Bộ ghép kênh terminal cho các tiến trình.
 x:
   source: https://github.com/napisani/procmux
   brew: procmux

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Cloud Foundry 的官方命令行客户端
   en: The official command line client for Cloud Foundry
+  cs: Oficiální klient příkazového řádku pro Cloud Foundry
+  de: Der offizielle Kommandozeilen-Client für Cloud Foundry
+  es: El cliente oficial de línea de comandos para Cloud Foundry
+  fr: Le client en ligne de commande officiel pour Cloud Foundry
+  id: Klien baris perintah resmi untuk Cloud Foundry
+  it: Il client a riga di comando ufficiale per Cloud Foundry
+  ja: Cloud Foundry の公式コマンドラインクライアント
+  ko: Cloud Foundry용 공식 명령줄 클라이언트
+  pl: Oficjalny klient wiersza poleceń dla Cloud Foundry
+  pt: O cliente oficial de linha de comando para o Cloud Foundry
+  ro: Clientul oficial de linie de comandă pentru Cloud Foundry
+  ru: Официальный клиент командной строки для Cloud Foundry
+  th: ไคลเอนต์บรรทัดคำสั่งอย่างเป็นทางการของ Cloud Foundry
+  tr: Cloud Foundry için resmi komut satırı istemcisi
+  uk: Офіційний клієнт командного рядка для Cloud Foundry
+  vi: Ứng dụng dòng lệnh chính thức cho Cloud Foundry
 x:
   source: https://github.com/cloudfoundry/cli
   eget: cloudfoundry/cli

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 网络分布式应用程序的编程语言
   en: Programming Language for Network Distributed Applications
+  cs: Programovací jazyk pro síťově distribuované aplikace
+  de: Programmiersprache für netzwerkverteilte Anwendungen
+  es: Lenguaje de programación para aplicaciones distribuidas en red
+  fr: Langage de programmation pour les applications distribuées en réseau
+  id: Bahasa pemrograman untuk aplikasi terdistribusi berbasis jaringan
+  it: Linguaggio di programmazione per applicazioni distribuite in rete
+  ja: ネットワーク分散アプリケーション向けのプログラミング言語
+  ko: 네트워크 분산 애플리케이션을 위한 프로그래밍 언어
+  pl: Język programowania dla rozproszonych aplikacji sieciowych
+  pt: Linguagem de programação para aplicações distribuídas em rede
+  ro: Limbaj de programare pentru aplicații distribuite în rețea
+  ru: Язык программирования для сетевых распределённых приложений
+  th: ภาษาโปรแกรมสำหรับแอปพลิเคชันแบบกระจายในเครือข่าย
+  tr: Ağ üzerinden dağıtılmış uygulamalar için programlama dili
+  uk: Мова програмування для розподілених мережевих застосунків
+  vi: Ngôn ngữ lập trình cho các ứng dụng phân tán qua mạng
 x:
   source: https://github.com/ballerina-platform/ballerina-lang
   brew: ballerina

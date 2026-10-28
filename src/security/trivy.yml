@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM
   en: Find vulnerabilities, security issues, and secrets in containers, Kubernetes, code repositories, cloud
+  cs: Najděte zranitelnosti, bezpečnostní problémy a tajné údaje v kontejnerech, Kubernetes, repozitářích kódu a cloudu
+  de: Finden Sie Schwachstellen, Sicherheitsprobleme und Geheimnisse in Containern, Kubernetes, Code-Repositories und der Cloud
+  es: Encuentra vulnerabilidades, problemas de seguridad y secretos en contenedores, Kubernetes, repositorios de código y la nube
+  fr: Trouvez les vulnérabilités, problèmes de sécurité et secrets dans les conteneurs, Kubernetes, dépôts de code et le cloud
+  id: Temukan kerentanan, masalah keamanan, dan rahasia dalam kontainer, Kubernetes, repositori kode, dan cloud
+  it: Trova vulnerabilità, problemi di sicurezza e segreti in container, Kubernetes, repository di codice e cloud
+  ja: コンテナ、Kubernetes、コードリポジトリ、クラウドの中で脆弱性、セキュリティ問題、シークレットを検索
+  ko: 컨테이너, Kubernetes, 코드 저장소, 클라우드에서 취약점, 보안 문제, 비밀 정보를 찾아냅니다
+  pl: Znajdź podatności, problemy bezpieczeństwa i sekrety w kontenerach, Kubernetes, repozytoriach kodu i chmurze
+  pt: Encontre vulnerabilidades, problemas de segurança e segredos em contêineres, Kubernetes, repositórios de código e na nuvem
+  ro: Găsiți vulnerabilități, probleme de securitate și secrete în containere, Kubernetes, depozite de cod și cloud
+  ru: Поиск уязвимостей, проблем безопасности и секретов в контейнерах, Kubernetes, репозиториях кода и облаке
+  th: ค้นหาช่องโหว่ ปัญหาความปลอดภัย และข้อมูลลับในคอนเทนเนอร์ Kubernetes คลังโค้ด และคลาวด์
+  tr: Konteynerlerde, Kubernetes'ta, kod depolarında ve bulutta güvenlik açıklarını, güvenlik sorunlarını ve sırları bulun
+  uk: Пошук уразливостей, проблем безпеки та секретів у контейнерах, Kubernetes, репозиторіях коду та хмарі
+  vi: Tìm lỗ hổng, sự cố bảo mật và bí mật trong container, Kubernetes, kho mã và đám mây
 x:
   source: https://github.com/aquasecurity/trivy
   eget: aquasecurity/trivy

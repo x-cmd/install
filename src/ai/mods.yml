@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 命令行的 AI，为管道构建
   en: AI for the command line, built for pipelines.
+  cs: AI pro příkazovou řádku, postavený pro pipelines.
+  de: KI für die Kommandozeile, gebaut für Pipelines.
+  es: IA para la línea de comandos, creada para canalizaciones.
+  fr: IA pour la ligne de commande, conçue pour les pipelines.
+  id: AI untuk command line, dibangun untuk pipeline.
+  it: IA per la riga di comando, pensata per le pipeline.
+  ja: パイプラインのための、コマンドライン向けAI。
+  ko: 파이프라인을 위해 설계된 명령줄 AI.
+  pl: AI dla wiersza poleceń, stworzone z myślą o potokach.
+  pt: IA para a linha de comando, criada para pipelines.
+  ro: IA pentru linia de comandă, creată pentru fluxuri.
+  ru: ИИ для командной строки, созданный для конвейеров.
+  th: AI สำหรับบรรทัดคำสั่ง สร้างมาเพื่อไปป์ไลน์
+  tr: Komut satırı için, hatlar için tasarlanmış yapay zeka.
+  uk: ШІ для командного рядка, створений для конвеєрів.
+  vi: AI cho dòng lệnh, được xây dựng cho pipeline.
 x:
   source: https://github.com/charmbracelet/mods
   eget: charmbracelet/mods

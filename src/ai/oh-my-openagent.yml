@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 面向复杂代码库的编码 Agent 框架，支持 Codex 和 OpenCode
   en: 'omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode'
+  cs: "omo/lazycodex: Kódovací agent pro tokenmaxxery; jediný agent harness pro složité kódové základny. Pro váš Codex, pro váš OpenCode"
+  de: "omo/lazycodex: Der Coding-Agent für Tokenmaxxer; die einzige Agent-Harness für komplexe Codebasen. Für dein Codex, für dein OpenCode"
+  es: "omo/lazycodex: El agente de programación para los tokenmaxxers; el único agent harness para bases de código complejas. Para tu Codex, para tu OpenCode"
+  fr: "omo/lazycodex : L'agent de codage pour les tokenmaxxers ; l'unique agent harness pour les bases de code complexes. Pour votre Codex, pour votre OpenCode"
+  id: "omo/lazycodex: Agen coding untuk para tokenmaxxer; satu-satunya agent harness untuk basis kode yang kompleks. Untuk Codex Anda, untuk OpenCode Anda"
+  it: "omo/lazycodex: L'agente di coding per i tokenmaxxer; l'unico agent harness per basi di codice complesse. Per il tuo Codex, per il tuo OpenCode"
+  ja: "omo/lazycodex: トークンravoな人のためのコーディングエージェント。複雑なコードベースのための唯一のエージェントハーネス。あなたのCodexのために、あなたのOpenCodeのために。"
+  ko: "omo/lazycodex: 토큰 최대주의자를 위한 코딩 에이전트. 복잡한 코드베이스를 위한 유일한 에이전트 하네스. 당신의 Codex를 위해, 당신의 OpenCode를 위해"
+  pl: "omo/lazycodex: Agent kodujący dla tokenmaxxerów; jedyna agent harness dla złożonych baz kodu. Dla Twojego Codexa, dla Twojego OpenCode"
+  pt: "omo/lazycodex: O agente de programação para os tokenmaxxers; o único agent harness para bases de código complexas. Para o seu Codex, para o seu OpenCode"
+  ro: "omo/lazycodex: Agentul de programare pentru tokenmaxxeri; singurul agent harness pentru baze de cod complexe. Pentru Codex-ul tău, pentru OpenCode-ul tău"
+  ru: "omo/lazycodex: Кодинг-агент для токеновых маньяков; единственная агентная обвязка для сложных кодовых баз. Для вашего Codex, для вашего OpenCode"
+  th: "omo/lazycodex: เอเจนต์เขียนโค้ดสำหรับพวก tokenmaxxer และเป็น agent harness เดียวสำหรับ codebase ที่ซับซ้อน สำหรับ Codex ของคุณ สำหรับ OpenCode ของคุณ"
+  tr: "omo/lazycodex: Tokenmaxxer'lar için kodlama ajanı; karmaşık kod tabanları için tek bir ajan harness'i. Codex'iniz için, OpenCode'unuz için."
+  uk: "omo/lazycodex: Кодувальний агент для токенових маньяків; єдина агентна обв'язка для складних кодових баз. Для вашого Codex, для вашого OpenCode"
+  vi: "omo/lazycodex: Agent lập trình dành cho những kẻ tốn token; agent harness duy nhất cho codebase phức tạp. Cho Codex của bạn, cho OpenCode của bạn"
 x:
   source: https://github.com/code-yeongyu/oh-my-openagent
   npm: oh-my-openagent

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简单的日志分割 CLI
   en: 'A simple cli for logs splitting'
+  cs: Jednoduchý nástroj CLI pro rozdělování protokolů
+  de: Ein einfaches CLI zum Aufteilen von Logs
+  es: Una simple CLI para dividir logs
+  fr: Une simple CLI pour séparer les journaux
+  id: CLI sederhana untuk pemisahan log
+  it: Una semplice CLI per la divisione dei log
+  ja: ログ分割用のシンプルな CLI
+  ko: 로그 분할을 위한 간단한 CLI
+  pl: Proste narzędzie CLI do dzielenia logów
+  pt: Uma CLI simples para divisão de logs
+  ro: Un CLI simplu pentru împărțirea jurnalelor
+  ru: Простой CLI для разделения журналов
+  th: CLI อย่างง่ายสำหรับการแยกบันทึก
+  tr: Günlükleri bölmek için basit bir CLI
+  uk: Простий CLI для розділення журналів
+  vi: CLI đơn giản để tách nhật ký
 x:
   source: https://github.com/todoesverso/logss
   eget: todoesverso/logss

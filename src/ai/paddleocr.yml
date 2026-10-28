@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 从图片和 PDF 中提取结构化文本、表格和公式，使其适配 LLM 处理
   en: Extracts structured text, tables, and formulas from images and PDF documents to make them LLM-ready.
+  cs: Extrahuje strukturovaný text, tabulky a vzorce z obrázků a dokumentů PDF, aby byly připraveny pro LLM.
+  de: Extrahiert strukturierten Text, Tabellen und Formeln aus Bildern und PDF-Dokumenten, damit sie LLM-bereit sind.
+  es: Extrae texto estructurado, tablas y fórmulas de imágenes y documentos PDF para prepararlos para los LLM.
+  fr: Extrait le texte structuré, les tableaux et les formules d'images et de documents PDF afin de les préparer pour les LLM.
+  id: Mengekstrak teks terstruktur, tabel, dan rumus dari gambar dan dokumen PDF sehingga siap diproses LLM.
+  it: Estrae testo strutturato, tabelle e formule da immagini e documenti PDF, rendendoli pronti per gli LLM.
+  ja: 画像や PDF 文書から構造化されたテキスト、表、数式を抽出し、LLM で扱える形にします。
+  ko: 이미지와 PDF 문서에서 구조화된 텍스트, 표, 수식을 추출해 LLM으로 처리할 수 있도록 만듭니다.
+  pl: Wyodrębnia ustrukturyzowany tekst, tabele i wzory z obrazów oraz dokumentów PDF, aby były gotowe dla LLM.
+  pt: Extrai texto estruturado, tabelas e fórmulas de imagens e documentos PDF para deixá-los prontos para LLMs.
+  ro: Extrage text structurat, tabele și formule din imagini și documente PDF, pregătindu-le pentru LLM.
+  ru: Извлекает структурированный текст, таблицы и формулы из изображений и PDF-документов, делая их пригодными для LLM.
+  th: สกัดข้อความเชิงโครงสร้าง ตาราง และสูตรจากรูปภาพและเอกสาร PDF เพื่อให้พร้อมสำหรับ LLM.
+  tr: Görsellerden ve PDF belgelerden yapılandırılmış metin, tablo ve formül çıkarır, LLM'e hazır hale getirir.
+  uk: Витягує структурований текст, таблиці та формули із зображень і PDF-документів, роблячи їх придатними для LLM.
+  vi: Trích xuất văn bản có cấu trúc, bảng và công thức từ hình ảnh và tài liệu PDF để sẵn sàng cho LLM.
 x:
   source: https://github.com/PaddlePaddle/PaddleOCR
   pip: paddleocr

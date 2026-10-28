@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: sed 脚本调试器，在终端中解析并调试 sed 脚本
   en: 'Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.'
+  cs: "Debugger pro Sed: odhalte a ladujte své sed skripty z pohodlí svého terminálu."
+  de: "Debugger für Sed: Entwirren und debuggen Sie Ihre sed-Skripte bequem aus Ihrem Terminal."
+  es: "Depurador para Sed: descifra y depura tus scripts sed desde la comodidad de tu terminal."
+  fr: "Débogueur pour Sed : démystifiez et déboguez vos scripts sed depuis le confort de votre terminal."
+  id: "Debugger untuk Sed: pecahkan misteri dan debug skrip sed Anda, dari kenyamanan terminal Anda."
+  it: "Debugger per Sed: demistifica e correggi i tuoi script sed, dalla comodità del tuo terminale."
+  ja: Sed 用デバッガ。自分の sed スクリプトの謎を解き、端末から快適にデバッグできます。
+  ko: "Sed용 디버거: 터미널에서 편하게 sed 스크립트를 분석하고 디버깅하세요."
+  pl: "Debugger dla Sed: rozwiaż zagadkę i debuguj skrypty sed, wygodnie w swoim terminalu."
+  pt: "Depurador para Sed: desvendare e depurar seus scripts sed, na comodidade do seu terminal."
+  ro: "Debugger pentru Sed: dezleagă și depanează scripturile tale sed, din confortul terminalului tău."
+  ru: "Отладчик для Sed: разберитесь в своих скриптах sed и отлаживайте их прямо в терминале."
+  th: "ตัวดีบักสำหรับ Sed: เข้าใจและดีบักสคริปต์ sed ของคุณ จากในเทอร์มินัลที่คุณสบาย"
+  tr: "Sed için hata ayıklayıcı: sed betiklerinizin sırlarını çözün ve terminalinizden rahatça hata ayıklayın."
+  uk: "Відладчик для Sed: розкрийте та знедіть свої скрипти sed прямо у своєму терміналі."
+  vi: "Trình gỡ lỗi cho Sed: làm sáng và gỡ lỗi các script sed của bạn ngay trong terminal."
 x:
   source: https://github.com/SoptikHa2/desed
   eget: SoptikHa2/desed

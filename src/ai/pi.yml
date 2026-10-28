@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: AI Agent 工具集：统一 LLM API、Agent 循环、TUI 与编码 Agent CLI
   en: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
+  cs: "Sada nástrojů pro AI agenty: sjednocené API LLM, smyčka agenta, TUI a CLI pro kódovací agenty"
+  de: "KI-Agent-Toolkit: vereinheitlichte LLM-API, Agentenschleife, TUI und Coding-Agent-CLI"
+  es: "Kit de herramientas para agentes de IA: API de LLM unificada, bucle de agente, TUI y CLI de agente de programación"
+  fr: "Boîte à outils pour agents IA : API LLM unifiée, boucle d'agent, TUI et CLI d'agent de code"
+  id: "Toolkit agen AI: API LLM terpadu, loop agen, TUI, dan CLI agen coding"
+  it: "Toolkit per agenti AI: API LLM unificata, loop dell'agente, TUI e CLI per agenti di programmazione"
+  ja: AI エージェントツールキット：統一された LLM API、エージェントループ、TUI、コーディングエージェント CLI
+  ko: "AI 에이전트 툴킷: 통합 LLM API, 에이전트 루프, TUI, 코딩 에이전트 CLI"
+  pl: "Zestaw narzędzi dla agentów AI: ujednolicone API LLM, pętla agenta, TUI i CLI agenta programującego"
+  pt: "Kit de ferramentas para agentes de IA: API de LLM unificada, loop de agente, TUI e CLI de agente de programação"
+  ro: "Set de instrumente pentru agenți AI: API LLM unificat, buclă de agent, TUI și CLI pentru agenți de codare"
+  ru: "Набор инструментов для ИИ-агентов: единый API LLM, цикл агента, TUI и CLI для агентов написания кода"
+  th: "ชุดเครื่องมือสำหรับเอเจนต์ AI: LLM API แบบรวมศูนย์ ลูปเอเจนต์ TUI และ CLI สำหรับเอเจนต์เขียนโค้ด"
+  tr: "Yapay zeka ajan araç seti: birleşik LLM API'si, ajan döngüsü, TUI ve kodlama ajanı CLI'sı"
+  uk: "Інструментарій для ІІ-агентів: єдиний API LLM, цикл агента, TUI та CLI для агентів написання коду"
+  vi: "Bộ công cụ cho tác nhân AI: API LLM thống nhất, vòng lặp tác nhân, TUI và CLI tác nhân lập trình"
 x:
   source: https://github.com/earendil-works/pi
   eget: earendil-works/pi

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 根据基准测试和硬件规格对 HuggingFace 模型排序，帮你找出能在本机运行的最优本地 LLM
   en: Find the best local LLM that runs on your hardware by ranking HuggingFace models based on benchmarks and system specs.
+  cs: Najděte nejlepší lokální LLM, který běží na vašem hardwaru, díky řazení modelů HuggingFace podle benchmarků a specifikací systému.
+  de: Finden Sie das beste lokale LLM, das auf Ihrer Hardware läuft, indem HuggingFace-Modelle anhand von Benchmarks und Systemspezifikationen bewertet werden.
+  es: Encuentra el mejor LLM local que se ejecuta en tu hardware clasificando los modelos de HuggingFace según benchmarks y especificaciones del sistema.
+  fr: Trouvez le meilleur LLM local qui fonctionne sur votre matériel en classant les modèles HuggingFace selon les benchmarks et les spécifications système.
+  id: Temukan LLM lokal terbaik yang berjalan di perangkat keras Anda dengan peringkat model HuggingFace berdasarkan benchmark dan spesifikasi sistem.
+  it: Trova il miglior LLM locale che gira sul tuo hardware ordinando i modelli HuggingFace in base a benchmark e specifiche di sistema.
+  ja: ベンチマークとシステム仕様に基づいて HuggingFace のモデルをランキングし、ハードウェア上で動作する最適なローカル LLM を見つけます。
+  ko: 벤치마크와 시스템 사양에 따라 HuggingFace 모델을 순위 매겨 하드웨어에서 실행되는 최적의 로컬 LLM을 찾아줍니다.
+  pl: Znajdź najlepszy lokalny LLM działający na Twoim sprzęcie, rankingując modele HuggingFace na podstawie benchmarków i specyfikacji systemu.
+  pt: Encontre o melhor LLM local que roda no seu hardware classificando os modelos do HuggingFace com base em benchmarks e especificações do sistema.
+  ro: Găsiți cel mai bun LLM local care rulează pe hardware-ul dumneavoastră, clasând modelele HuggingFace după benchmark-uri și specificațiile sistemului.
+  ru: Найдите лучшую локальную LLM, работающую на вашем оборудовании, по рейтингу моделей HuggingFace на основе бенчмарков и характеристик системы.
+  th: ค้นหา LLM ในเครื่องที่ดีที่สุดซึ่งทำงานบนฮาร์ดแวร์ของคุณ โดยจัดอันดับโมเดล HuggingFace ตามเกณฑ์มาตรฐานและสเปกของระบบ
+  tr: HuggingFace modellerini kıyaslama ve sistem özelliklerine göre sıralayarak donanımınızda çalışan en iyi yerel LLM'yi bulun.
+  uk: Знайдіть найкращу локальну LLM, що працює на вашому обладнанні, за рейтингом моделей HuggingFace на основі бенчмарків і характеристик системи.
+  vi: Tìm LLM cục bộ tốt nhất chạy được trên phần cứng của bạn bằng cách xếp hạng các mô hình HuggingFace theo benchmark và thông số hệ thống.
 x:
   source: https://github.com/Andyyyy64/whichllm
   pip: whichllm

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: circleci 是 CircleCI 的控制台应用
   en: circleci is CircleCI's command-line application
+  cs: circleci je aplikace CircleCI pro příkazovou řádku
+  de: circleci ist die Kommandozeilenanwendung von CircleCI
+  es: circleci es la aplicación de línea de comandos de CircleCI
+  fr: circleci est l'application en ligne de commande de CircleCI
+  id: circleci adalah aplikasi baris perintah CircleCI
+  it: circleci è l'applicazione a riga di comando di CircleCI
+  ja: circleci は CircleCI のコマンドラインアプリケーションです
+  ko: circleci는 CircleCI의 명령줄 애플리케이션입니다
+  pl: circleci to aplikacja wiersza poleceń CircleCI
+  pt: circleci é o aplicativo de linha de comando do CircleCI
+  ro: circleci este aplicația de linie de comandă a CircleCI
+  ru: circleci — это консольное приложение CircleCI
+  th: circleci คือแอปพลิเคชันบรรทัดคำสั่งของ CircleCI
+  tr: circleci, CircleCI'nin komut satırı uygulamasıdır
+  uk: circleci — це консольний застосунок CircleCI
+  vi: circleci là ứng dụng dòng lệnh của CircleCI
 x:
   source: https://github.com/CircleCI-Public/circleci-cli
   eget: CircleCI-Public/circleci-cli

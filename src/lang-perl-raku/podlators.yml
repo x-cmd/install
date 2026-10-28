@@ -3,6 +3,22 @@ homepage: https://www.eyrie.org/~eagle/software/podlators/
 desc:
   en: Install podlators
   cn: 安装 podlators
+  cs: Instalovat podlators
+  de: podlators installieren
+  es: Instalar podlators
+  fr: Installer podlators
+  id: Instal podlators
+  it: Installa podlators
+  ja: podlators をインストールする
+  ko: podlators 설치
+  pl: Zainstaluj podlators
+  pt: Instalar podlators
+  ro: Instalează podlators
+  ru: Установить podlators
+  th: ติดตั้ง podlators
+  tr: podlators kur
+  uk: Встановити podlators
+  vi: Cài đặt podlators
 rule:
   /perl:
     cmd: 'perl Makefile.PL

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: kubespy 是一个小工具，可以轻松观察 Kubernetes 资源如何实时变化，源自我们在 Pulumi 的 CLI 中使 Kubernetes 部署可预测的工作
   en: kubespy is a small tool that makes it easy to observe how Kubernetes resources change in real time, derived from the work we did to make Kubernetes deployments predictable in Pulumi's CLI
+  cs: kubespy je malý nástroj, který usnadňuje pozorování změn zdrojů Kubernetes v reálném čase, vzniklý z práce, kterou jsme udělali pro predikovatelné nasazení Kubernetes v CLI Pulumi
+  de: kubespy ist ein kleines Werkzeug, mit dem sich ganz leicht beobachten lässt, wie sich Kubernetes-Ressourcen in Echtzeit ändern, hervorgegangen aus unserer Arbeit, um Kubernetes-Bereitstellungen in der Pulumi-CLI vorhersagbar zu machen
+  es: kubespy es una pequeña herramienta que facilita observar cómo cambian los recursos de Kubernetes en tiempo real, derivada del trabajo que hicimos para que los despliegues de Kubernetes sean predecibles en la CLI de Pulumi
+  fr: kubespy est un petit outil qui facilite l'observation de l'évolution des ressources Kubernetes en temps réel, issu du travail que nous avons fait pour rendre les déploiements Kubernetes prévisibles dans la CLI de Pulumi
+  id: kubespy adalah alat kecil yang memudahkan pengamatan perubahan resource Kubernetes secara real-time, hasil dari pekerjaan kami untuk membuat deployment Kubernetes dapat diprediksi di CLI Pulumi
+  it: kubespy è un piccolo strumento che rende facile osservare come cambiano le risorse Kubernetes in tempo reale, derivato dal lavoro fatto per rendere prevedibili i deployment Kubernetes nella CLI di Pulumi
+  ja: kubespy は Kubernetes リソースがリアルタイムでどう変化かを容易に観察するための小さなツールで、Pulumi の CLI で Kubernetes のデプロイを予測可能にする取り組みから生まれました
+  ko: kubespy는 Kubernetes 리소스가 실시간으로 어떻게 변하는지 쉽게 관찰할 수 있게 하는 작은 도구로, Pulumi의 CLI에서 Kubernetes 배포를 예측 가능하게 만들기 위한 작업에서 파생되었습니다
+  pl: kubespy to małe narzędzie ułatwiające obserwowanie zmian zasobów Kubernetes w czasie rzeczywistym, powstałe z pracy nad przewidywalnością wdrożeń Kubernetes w CLI Pulumi
+  pt: kubespy é uma pequena ferramenta que facilita observar como os recursos do Kubernetes mudam em tempo real, derivada do trabalho que fizemos para tornar as implantações do Kubernetes previsíveis na CLI do Pulumi
+  ro: kubespy este un instrument mic care facilitează observarea modificărilor resurselor Kubernetes în timp real, derivat din munca depusă pentru a face implementările Kubernetes predictibile în CLI-ul Pulumi
+  ru: kubespy — небольшой инструмент, позволяющий легко наблюдать, как ресурсы Kubernetes меняются в реальном времени, созданный на основе работы над предсказуемостью развёртываний Kubernetes в CLI Pulumi
+  th: kubespy เป็นเครื่องมือเล็ก ๆ ที่ช่วยให้สังเกตการเปลี่ยนแปลงของทรัพยากร Kubernetes แบบเรียลไทม์ ซึ่งพัฒนามาจากงานที่เราทำเพื่อให้การดีพลอยเมนต์ Kubernetes ใน CLI ของ Pulumi เป็นแบบคาดเดาได้
+  tr: kubespy, Kubernetes kaynaklarının gerçek zamanlı olarak nasıl değiştiğini kolayca izlemeyi sağlayan küçük bir araçtır; Pulumi CLI'de Kubernetes dağıtımlarını öngörülebilir kılmak için yaptığımız çalışmadan doğdu
+  uk: kubespy — невеликий інструмент, що полегшує спостереження за тим, як ресурси Kubernetes змінюються в реальному часі, створений на основі нашої роботи над передбачуваністю розгортань Kubernetes у CLI Pulumi
+  vi: kubespy là công cụ nhỏ giúp dễ dàng quan sát cách tài nguyên Kubernetes thay đổi theo thời gian thực, phát triển từ công trình của chúng tôi để làm cho việc triển khai Kubernetes trong CLI của Pulumi trở nên dự đoán được
 x:
   source: https://github.com/pulumi/kubespy
   eget: pulumi/kubespy

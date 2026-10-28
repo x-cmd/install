@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: Flit is a simple way to put Python packages and modules on PyPI.
   cn: Flit 是一种将 Python 包和模块放在 PyPI 上的简单方法
+  cs: Flit je jednoduchý způsob, jak umístit balíčky a moduly Pythonu na PyPI.
+  de: Flit ist eine einfache Möglichkeit, Python-Pakete und -Module auf PyPI zu veröffentlichen.
+  es: Flit es una forma sencilla de publicar paquetes y módulos de Python en PyPI.
+  fr: Flit est un moyen simple de mettre des paquets et modules Python sur PyPI.
+  id: Flit adalah cara sederhana untuk menaruh paket dan modul Python di PyPI.
+  it: Flit è un modo semplice per pubblicare pacchetti e moduli Python su PyPI.
+  ja: Flit は Python パッケージやモジュールを PyPI に公開する簡単な方法です。
+  ko: Flit은 Python 패키지와 모듈을 PyPI에 올리는 간단한 방법입니다.
+  pl: Flit to prosty sposób na umieszczanie pakietów i modułów Pythona na PyPI.
+  pt: O Flit é uma forma simples de colocar pacotes e módulos Python no PyPI.
+  ro: Flit este o modal simplu de a pune pachete și module Python pe PyPI.
+  ru: Flit — простой способ размещать пакеты и модули Python на PyPI.
+  th: Flit เป็นวิธีง่าย ๆ ในการนำแพ็กเกจและโมดูล Python ไปยัง PyPI
+  tr: Flit, Python paketlerini ve modüllerini PyPI'ye koymanın basit bir yoludur.
+  uk: Flit — простий спосіб розміщувати пакети та модулі Python на PyPI.
+  vi: Flit là cách đơn giản để đưa các gói và mô-đun Python lên PyPI.
 x:
   source: https://github.com/pypa/flit
   dnf: python3-flit

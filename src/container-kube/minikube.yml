@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: minikube 是一个用于在本地计算机上运行单节点 Kubernetes 集群的工具
   en: minikube is a tool for running single-node Kubernetes clusters on your local machine
+  cs: minikube je nástroj pro spouštění clusterů Kubernetes s jedním uzlem na místním počítači
+  de: minikube ist ein Werkzeug zum Ausführen von Single-Node-Kubernetes-Clustern auf dem lokalen Rechner
+  es: minikube es una herramienta para ejecutar clústeres de Kubernetes de un solo nodo en tu máquina local
+  fr: minikube est un outil permettant d'exécuter des clusters Kubernetes à nœud unique sur votre machine locale
+  id: minikube adalah alat untuk menjalankan klaster Kubernetes satu node di komputer lokal Anda
+  it: minikube è uno strumento per eseguire cluster Kubernetes a nodo singolo sul computer locale
+  ja: minikube はローカルマシン上で単一ノードの Kubernetes クラスターを実行するためのツールです
+  ko: minikube는 로컬 컴퓨터에서 단일 노드 Kubernetes 클러스터를 실행하기 위한 도구입니다
+  pl: minikube to narzędzie do uruchamiania jednowęzłowych klastrów Kubernetes na lokalnym komputerze
+  pt: minikube é uma ferramenta para executar clusters do Kubernetes de nó único em sua máquina local
+  ro: minikube este un instrument pentru rularea clusterelor Kubernetes cu un singur nod pe calculatorul dumneavoastră local
+  ru: minikube — это инструмент для запуска одноузловых кластеров Kubernetes на локальной машине
+  th: minikube คือเครื่องมือสำหรับรันคลัสเตอร์ Kubernetes แบบโหนดเดียวบนเครื่องของคุณ
+  tr: minikube, yerel makinenizde tek düğümlü Kubernetes kümeleri çalıştırmak için bir araçtır
+  uk: minikube — це інструмент для запуску одновузлових кластерів Kubernetes на локальній машині
+  vi: minikube là công cụ để chạy cụm Kubernetes một nút trên máy của bạn
 x:
   source: https://github.com/kubernetes/minikube
   eget: kubernetes/minikube

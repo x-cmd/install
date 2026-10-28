@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Go (Golang) 实现的 CHANGELOG 生成器
   en: CHANGELOG generator implemented in Go (Golang)
+  cs: Generátor CHANGELOG implementovaný v Go (Golang)
+  de: CHANGELOG-Generator, implementiert in Go (Golang)
+  es: Generador de CHANGELOG implementado en Go (Golang)
+  fr: Générateur de CHANGELOG implémenté en Go (Golang)
+  id: Pembuat CHANGELOG yang diimplementasikan dengan Go (Golang)
+  it: Generatore di CHANGELOG implementato in Go (Golang)
+  ja: Go (Golang)で実装されたCHANGELOGジェネレーター
+  ko: Go (Golang)로 구현된 CHANGELOG 생성기
+  pl: Generator CHANGELOG zaimplementowany w Go (Golang)
+  pt: Gerador de CHANGELOG implementado em Go (Golang)
+  ro: Generator de CHANGELOG implementat în Go (Golang)
+  ru: Генератор CHANGELOG, реализованный на Go (Golang)
+  th: ตัวสร้าง CHANGELOG ที่เขียนด้วย Go (Golang)
+  tr: Go (Golang) ile uygulanmış CHANGELOG oluşturucu
+  uk: Генератор CHANGELOG, реалізований на Go (Golang)
+  vi: Trình tạo CHANGELOG được viết bằng Go (Golang)
 x:
   source: https://github.com/git-chglog/git-chglog
   eget: git-chglog/git-chglog

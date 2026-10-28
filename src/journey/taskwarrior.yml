@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Taskwarrior is a command line task list management utility with a multitude of features
   cn: Taskwarrior 是一个具有多种特性的命令行任务列表管理实用程序
+  cs: Taskwarrior je nástroj pro správu seznamů úkolů v příkazovém řádku s mnoha funkcemi
+  de: Taskwarrior ist ein Kommandozeilen-Tasklistenverwaltungsprogram mit zahlreichen Funktionen
+  es: Taskwarrior es una utilidad de línea de comandos para gestionar listas de tareas con multitud de funciones
+  fr: Taskwarrior est un utilitaire en ligne de commande de gestion de listes de tâches avec de nombreuses fonctionnalités
+  id: Taskwarrior adalah utilitas pengelola daftar tugas baris perintah dengan banyak fitur
+  it: Taskwarrior è un'utilità da riga di comando per la gestione delle liste di attività con una moltitudine di funzioni
+  ja: Taskwarrior は多数の機能を備えたコマンドラインのタスクリスト管理ユーティリティです
+  ko: Taskwarrior는 다양한 기능을 갖춘 명령줄 작업 목록 관리 유틸리티입니다
+  pl: Taskwarrior to narzędzie wiersza poleceń do zarządzania listami zadań z wieloma funkcjami
+  pt: O Taskwarrior é um utilitário de linha de comando para gerenciar listas de tarefas com uma infinidade de recursos
+  ro: Taskwarrior este o utilitar de linie de comandă pentru gestionarea listelor de sarcini, cu o mulțime de funcții
+  ru: Taskwarrior — это утилита командной строки для управления списками задач с множеством возможностей
+  th: Taskwarrior เป็นยูทิลิตีจัดการรายการงานผ่านบรรทัดคำสั่งที่มีความสามารถมากมาย
+  tr: Taskwarrior, çok sayıda özelliğe sahip bir komut satırı görev listesi yönetim aracıdır
+  uk: Taskwarrior — це утиліта командного рядка для керування списками завдань із безліччю можливостей
+  vi: Taskwarrior là tiện ích quản lý danh sách việc cần làm trên dòng lệnh với nhiều tính năng
 x:
   source: https://github.com/GothenburgBitFactory/taskwarrior
   eget: GothenburgBitFactory/taskwarrior

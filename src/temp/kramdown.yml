@@ -3,6 +3,22 @@ homepage: https://github.com/gettalong/kramdown
 desc:
   cn: kramdown 首先是一个用于将 Markdown 超集编写的文本转换为 HTML 的库
   en: kramdown is first and foremost a library for converting text written in a superset of Markdown to HTML
+  cs: kramdown je především knihovna pro převod textu napsaného v nadmnožině Markdownu do HTML
+  de: kramdown ist in erster Linie eine Bibliothek, um Text, der in einer Obermenge von Markdown geschrieben wurde, in HTML umzuwandeln
+  es: kramdown es ante todo una biblioteca para convertir texto escrito en un superconjunto de Markdown a HTML
+  fr: kramdown est avant tout une bibliothèque permettant de convertir en HTML un texte écrit dans un sur-ensemble de Markdown
+  id: kramdown terutama merupakan pustaka untuk mengonversi teks yang ditulis dalam perluasan Markdown menjadi HTML
+  it: kramdown è anzitutto una libreria per convertire in HTML il testo scritto in un soprainsieme di Markdown
+  ja: kramdown は何よりもまず、Markdown の拡張集合で書かれたテキストを HTML に変換するライブラリです
+  ko: kramdown은 무엇보다 Markdown의 상위 집합으로 작성된 텍스트를 HTML로 변환하는 라이브러리입니다
+  pl: kramdown to przede wszystkim biblioteka do konwersji tekstu napisanego w nadzbiorze Markdown na HTML
+  pt: kramdown é, acima de tudo, uma biblioteca para converter em HTML texto escrito em um superconjunto de Markdown
+  ro: kramdown este, în primul rând, o bibliotecă pentru conversia în HTML a textului scris într-un superansamblu de Markdown
+  ru: kramdown — это прежде всего библиотека для преобразования текста, написанного в надмножестве Markdown, в HTML
+  th: kramdown เป็นไลบรารีสำหรับแปลงข้อความที่เขียนด้วย superset ของ Markdown เป็น HTML
+  tr: kramdown, esas olarak Markdown'un bir üst kümesiyle yazılmış metni HTML'ye dönüştürmek için bir kütüphanedir
+  uk: kramdown — це насамперед бібліотека для перетворення тексту, написаного в надмножині Markdown, на HTML
+  vi: kramdown trước hết là một thư viện để chuyển đổi văn bản viết bằng bản mở rộng của Markdown thành HTML
 x:
   source: https://github.com/gettalong/kramdown
   eget: gettalong/kramdown

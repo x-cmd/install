@@ -4,6 +4,22 @@ license: 'ISC'
 desc:
   cn: 终端中的电影感 Git 提交回放工具，将提交历史变成动画故事
   en: 'A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.'
+  cs: Filmový nástroj pro přehrávání Git commitů v terminálu, který promění vaši Git historii v živý animovaný příběh.
+  de: Ein filmisches Git-Commit-Wiedergabewerkzeug für das Terminal, das deine Git-Historie in eine lebendige, animierte Geschichte verwandelt.
+  es: Una herramienta cinematográfica de reproducción de commits de Git para el terminal, que convierte tu historial de Git en una historia viva y animada.
+  fr: Un outil cinématique de rejeu des commits Git pour le terminal, qui transforme votre historique Git en une histoire vivante et animée.
+  id: Alat pemutar ulang commit Git yang sinematik untuk terminal, mengubah riwayat Git Anda menjadi cerita hidup yang beranimasi.
+  it: Uno strumento cinematografico di riproduzione dei commit Git per il terminale, che trasforma la tua cronologia Git in una storia vivente e animata.
+  ja: ターミナル向けの映画的な Git コミット再生ツールで、Git の履歴を生きたアニメーション物語に変える。
+  ko: 터미널에서 Git 커밋을 영화처럼 재생해 Git 기록을 살아있는 애니메이션 이야기로 바꾸는 도구
+  pl: Kinematyczne narzędzie do odtwarzania commitów Git w terminalu, zamieniające Twoją historię Git w żywą, animowaną opowieść.
+  pt: Uma ferramenta cinematográfica de reprodução de commits do Git para o terminal, transformando seu histórico do Git em uma história viva e animada.
+  ro: Un instrument cinematic de redare a commit-urilor Git pentru terminal, care transformă istoricul tău Git într-o poveste vie și animată.
+  ru: Кинематографический инструмент воспроизведения коммитов Git для терминала, превращающий вашу историю Git в живую анимированную историю.
+  th: เครื่องมือเล่นซ้ำคอมมิต Git แบบภาพยนตร์สำหรับเทอร์มินัล ที่เปลี่ยนประวัติ Git ของคุณให้เป็นเรื่องราวที่มีชีวิตและเคลื่อนไหว
+  tr: Terminal için sinematik bir Git commit oynatma aracı; Git geçmişinizi canlı, animasyonlu bir hikâyeye dönüştürür.
+  uk: Кінематографічний інструмент відтворення комітів Git для термінала, що перетворює вашу історію Git у живу анімовану історію.
+  vi: Công cụ phát lại commit Git mang phong cách điện ảnh cho terminal, biến lịch sử Git của bạn thành một câu chuyện sống động.
 x:
   source: https://github.com/unhappychoice/gitlogue
   eget: unhappychoice/gitlogue

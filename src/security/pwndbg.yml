@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 让 GDB 和 LLDB 的漏洞利用开发与逆向工程更简单
   en: 'Exploit Development and Reverse Engineering with GDB & LLDB Made Easy'
+  cs: Vývoj exploitů a reverzní inženýrství s GDB a LLDB jednoduché
+  de: Exploit-Entwicklung und Reverse Engineering mit GDB & LLDB leicht gemacht
+  es: Desarrollo de exploits e ingeniería inversa con GDB y LLDB sencillos
+  fr: Développement d'exploits et rétro-ingénierie avec GDB et LLDB en toute simplicité
+  id: Pengembangan exploit dan rekayasa balik dengan GDB & LLDB menjadi mudah
+  it: Sviluppo di exploit e reverse engineering con GDB e LLDB reso semplice
+  ja: GDB と LLDB によるエクスプロイト開発とリバースエンジニアリングを簡単に
+  ko: GDB와 LLDB를 이용한 익스플로잇 개발과 리버스 엔지니어링을 더 쉽게
+  pl: Rozwój exploitów i inżynieria wsteczna z GDB i LLDB stały się proste
+  pt: Desenvolvimento de exploits e engenharia inversa com GDB e LLDB simplificados
+  ro: Dezvoltarea exploit-urilor și inginerie inversă cu GDB și LLDB devine simplă
+  ru: Разработка эксплойтов и обратная инженерия с GDB и LLDB стали проще
+  th: ทำให้การพัฒนาเอ็กซ์พลอยต์และวิศวกรรมย้อนกลับด้วย GDB และ LLDB เป็นเรื่องง่าย
+  tr: GDB ve LLDB ile exploit geliştirme ve tersine mühendislik kolaylaştı
+  uk: Розробка експлойтів і зворотний інжиніринг з GDB і LLDB стають простими
+  vi: Phát triển exploit và kỹ thuật đảo ngược với GDB và LLDB trở nên dễ dàng
 x:
   source: https://github.com/pwndbg/pwndbg
   eget: pwndbg/pwndbg

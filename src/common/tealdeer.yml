@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A very fast implementation of tldr in Rust
   cn: 用 Rust 实现的非常快速的 tldr 版本
+  cs: Velmi rychlá implementace tldr v jazyce Rust
+  de: Eine sehr schnelle Implementierung von tldr in Rust
+  es: Una implementación muy rápida de tldr en Rust
+  fr: Une implémentation très rapide de tldr en Rust
+  id: Implementasi tldr yang sangat cepat dengan Rust
+  it: Un'implementazione molto veloce di tldr in Rust
+  ja: Rust で書かれた超高速な tldr 実装です。
+  ko: Rust로 작성한 매우 빠른 tldr 구현
+  pl: Bardzo szybka implementacja tldr w języku Rust
+  pt: Uma implementação do tldr muito rápida, escrita em Rust
+  ro: O implementare foarte rapidă a tldr în Rust
+  ru: Очень быстрая реализация tldr на Rust
+  th: การทำให้ tldr ที่เร็วมากโดยเขียนด้วย Rust
+  tr: Rust ile yazılmış çok hızlı bir tldr uygulaması
+  uk: Дуже швидка реалізація tldr на Rust
+  vi: Bản triển khai tldr cực nhanh viết bằng Rust
 x:
   source: https://github.com/dbrgn/tealdeer
   apt: tealdeer

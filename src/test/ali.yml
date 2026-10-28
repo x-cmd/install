@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于执行实时分析的负载测试工具
   en: A load testing tool capable of performing real-time analysis.
+  cs: Nástroj pro zátěžové testování schopný provádět analýzu v reálném čase.
+  de: Ein Load-Testing-Tool, das Analysen in Echtzeit durchführen kann.
+  es: Una herramienta de pruebas de carga capaz de realizar análisis en tiempo real.
+  fr: Un outil de test de charge capable d'effectuer des analyses en temps réel.
+  id: Alat pengujian beban yang mampu melakukan analisis waktu nyata.
+  it: Uno strumento di load testing in grado di eseguire analisi in tempo reale.
+  ja: リアルタイム分析を実行できる負荷テストツール。
+  ko: 실시간 분석을 수행할 수 있는 부하 테스트 도구.
+  pl: Narzędzie do testów obciążeniowych zdolne do przeprowadzania analiz w czasie rzeczywistym.
+  pt: Uma ferramenta de teste de carga capaz de realizar análises em tempo real.
+  ro: Un instrument de testare la sarcină capabil să efectueze analize în timp real.
+  ru: Инструмент нагрузочного тестирования, способный выполнять анализ в реальном времени.
+  th: เครื่องมือทดสอบโหลดที่สามารถทำการวิเคราะห์แบบเรียลไทม์.
+  tr: gerçek zamanlı analiz yapabilen bir yük testi aracı.
+  uk: Інструмент навантажувального тестування, здатний виконувати аналіз у реальному часі.
+  vi: Công cụ kiểm thử tải có khả năng thực hiện phân tích thời gian thực.
 x:
   source: https://github.com/nakabonne/ali
   eget: nakabonne/ali

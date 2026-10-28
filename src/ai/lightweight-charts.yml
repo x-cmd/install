@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: TradingView 官方的轻量高性能金融图表库，用 HTML5 canvas 渲染交互式 K 线、折线、面积图。
   en: TradingView's lightweight, high-performance financial charting library for interactive candlestick, line, and area charts on HTML5 canvas.
+  cs: Lehká a výkonná knihovna finančních grafů od TradingView pro interaktivní svíčkové, čárové a plošné grafy v HTML5 canvas.
+  de: Leichte, leistungsstarke Finanzcharting-Bibliothek von TradingView für interaktive Kerzen-, Linien- und Flächendiagramme auf HTML5-Canvas.
+  es: La biblioteca ligera y de alto rendimiento de gráficos financieros de TradingView para gráficos interactivos de velas, líneas y áreas en canvas de HTML5.
+  fr: La bibliothèque de graphiques financiers légère et performante de TradingView pour les graphiques interactifs en chandeliers, courbes et aires sur canvas HTML5.
+  id: Pustaka charting keuangan yang ringan dan berkinerja tinggi dari TradingView untuk grafik candlestick, garis, dan area interaktif di canvas HTML5.
+  it: La leggera e ad alte prestazioni libreria di grafica finanziaria di TradingView per grafici interattivi a candele, linee e aree su canvas HTML5.
+  ja: TradingViewの軽量で高性能な金融チャートライブラリ。HTML5 canvas上でインタラクティブなローソク足、折れ線、エリアチャートを描画します。
+  ko: HTML5 canvas에서 인터랙티브 캔들스틱, 라인, 영역 차트를 위한 TradingView의 경량 고성능 금융 차팅 라이브러리.
+  pl: Lekka, wydajna biblioteka wykresów finansowych firmy TradingView do interaktywnych wykresów świecowych, liniowych i powierzchniowych w HTML5 canvas.
+  pt: A biblioteca leve e de alto desempenho de gráficos financeiros da TradingView para gráficos interativos de velas, linhas e áreas em canvas HTML5.
+  ro: Biblioteca ușoară și performantă de grafică financiară de la TradingView pentru grafice interactive cu lumânări, linii și arii pe canvas HTML5.
+  ru: Лёгкая высокопроизводительная библиотека финансовых графиков TradingView для интерактивных свечных, линейных и областных графиков на HTML5 canvas.
+  th: ไลบรารีแชนต์การเงินขนาดเล็กและประสิทธิภาพสูงของ TradingView สำหรับแผนภูมิเทียบแท่งเทียน เส้น และพื้นที่แบบโต้ตอบบน HTML5 canvas
+  tr: TradingView'in HTML5 canvas üzerinde etkileşimli mum, çizgi ve alan grafikleri için hafif ve yüksek performanslı finansal grafik kitaplığı.
+  uk: Легка високопродуктивна бібліотека фінансових графіків TradingView для інтерактивних свічкових, лінійних і обласних графіків на HTML5 canvas.
+  vi: Thư viện biểu đồ tài chính nhẹ, hiệu năng cao của TradingView cho biểu đồ nến, đường và vùng tương tác trên canvas HTML5.
 x:
   source: https://github.com/tradingview/lightweight-charts
   npm: lightweight-charts

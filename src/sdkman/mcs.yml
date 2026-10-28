@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Maven Central Search，或简称 mcs，是一个小型 CLI，用于从命令行查询 Maven Central
   en: Maven Central Search, or mcs for short, is a small CLI to query Maven Central from your command line
+  cs: Maven Central Search, zkráceně mcs, je malý CLI pro dotazování na Maven Central z vašeho příkazového řádku
+  de: Maven Central Search, kurz mcs, ist eine kleine CLI, um Maven Central über die Kommandozeile abzufragen
+  es: Maven Central Search, o mcs para abreviar, es una pequeña CLI para consultar Maven Central desde tu línea de comandos
+  fr: Maven Central Search, ou mcs en abrégé, est une petite CLI permettant d'interroger Maven Central depuis votre ligne de commande
+  id: Maven Central Search, atau disingkat mcs, adalah CLI kecil untuk menanyakan Maven Central dari baris perintah Anda
+  it: Maven Central Search, o mcs in breve, è una piccola CLI per interrogare Maven Central dalla riga di comando
+  ja: Maven Central Search、略して mcs は、コマンドラインから Maven Central を検索するための小さな CLI です
+  ko: Maven Central Search, 줄여서 mcs는 명령줄에서 Maven Central을 검색하기 위한 소형 CLI입니다
+  pl: Maven Central Search, w skrócie mcs, to małe narzędzie CLI do wyszukiwania w Maven Central z wiersza poleceń
+  pt: Maven Central Search, ou mcs para abreviar, é uma pequena CLI para consultar o Maven Central pela linha de comando
+  ro: Maven Central Search, sau mcs pe scurt, este un mic CLI pentru a interoga Maven Central din linia de comandă
+  ru: Maven Central Search, или коротко mcs, — небольшая утилита командной строки для поиска в Maven Central
+  th: Maven Central Search หรือเรียกสั้น ๆ ว่า mcs เป็น CLI ขนาดเล็กสำหรับค้นหาข้อมูลใน Maven Central จากบรรทัดคำสั่งของคุณ
+  tr: Maven Central Search, kısaca mcs, Maven Central'i komut satırından sorgulamak için küçük bir CLI
+  uk: Maven Central Search, або коротко mcs, — невеликий CLI для запиту до Maven Central із командного рядка
+  vi: Maven Central Search, hay ngắn gọi là mcs, là một CLI nhỏ để truy vấn Maven Central từ dòng lệnh của bạn
 x:
   source: https://github.com/mthmulders/mcs
   eget: mthmulders/mcs

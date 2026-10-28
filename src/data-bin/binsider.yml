@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Binsider 可以执行静态和动态分析、检查字符串、检查链接库以及执行十六进制转储，所有这些都在用户友好的终端用户界面中完成！
   en: Binsider can perform static and dynamic analysis, inspect strings, examine linked libraries, and perform hexdumps, all within a user-friendly terminal user interface!
+  cs: Binsider umí provádět statickou i dynamickou analýzu, prohlížet řetězce, zkoumat propojené knihovny a vytvářet hexdumpy, a to vše v uživatelsky příjemném textovém rozhraní!
+  de: Binsider kann statische und dynamische Analysen durchführen, Strings untersuchen, verknüpfte Bibliotheken prüfen und Hexdumps erstellen – alles in einer benutzerfreundlichen Terminaloberfläche!
+  es: Binsider puede realizar análisis estáticos y dinámicos, inspeccionar cadenas, examinar bibliotecas enlazadas y generar volcados hexadecimales, todo dentro de una interfaz de terminal agradable al usuario.
+  fr: Binsider peut effectuer des analyses statiques et dynamiques, inspecter des chaînes, examiner les bibliothèques liées et réaliser des hexdumps, le tout dans une interface terminal conviviale !
+  id: Binsider dapat melakukan analisis statis dan dinamis, memeriksa string, menelusuri pustaka tertaut, dan melakukan hexdump, semuanya dalam antarmuka terminal yang ramah pengguna!
+  it: Binsider può eseguire analisi statiche e dinamiche, ispezionare stringhe, esaminare le librerie collegate ed eseguire hexdump, il tutto in un'interfaccia a terminale intuitiva!
+  ja: Binsider は静的解析と動的解析、文字列の調査、リンクされたライブラリの検査、hexdump の実行を、用户向けのターミナル UI の中で行えます!
+  ko: Binsider는 정적 및 동적 분석, 문자열 검사, 연결된 라이브러리 살펴보기, hexdump 수행을 사용하기 쉬운 터미널 UI 안에서 모두 지원합니다!
+  pl: Binsider potrafi wykonywać analizę statyczną i dynamiczną, przeglądać ciągi znaków, badać dołączone biblioteki oraz generować zrzuty heksadecymalne, a wszystko w przyjaznym użytkownikowi interfejsie terminala!
+  pt: O Binsider pode realizar análises estáticas e dinâmicas, inspecionar strings, examinar bibliotecas vinculadas e gerar hexdumps, tudo em uma interface de terminal amigável!
+  ro: Binsider poate efectua analiză statică și dinamică, poate inspecția șiruri, poate examina biblioteci legate și poate realiza hexdump-uri, toate într-o interfață de terminal ușor de utilizat!
+  ru: Binsider умеет выполнять статический и динамический анализ, просматривать строки, исследовать подключённые библиотеки и делать hexdump — всё это в удобном интерфейсе терминала!
+  th: Binsider สามารถทำการวิเคราะห์แบบคงที่และแบบไดนามิก ตรวจสอบสตริง ตรวจสอบไลบรารีที่เชื่อมโยง และทำ hexdump ได้ทั้งหมดภายในอินเทอร์เฟซเทอร์มินัลที่ใช้งานง่าย!
+  tr: Binsider, kullanıcı dostu bir terminal arayüzünde statik ve dinamik analiz yapabilir, dizeleri inceleyebilir, bağlı kütüphaneleri görebilir ve hexdump alabilir!
+  uk: Binsider вміє виконувати статичний і динамічний аналіз, переглядати рядки, досліджувати підключені бібліотеки та робити hexdump — усе це в зручному інтерфейсі термінала!
+  vi: Binsider có thể thực hiện phân tích tĩnh và động, kiểm tra chuỗi, xem các thư viện được liên kết và tạo hexdump, tất cả trong giao diện terminal thân thiện!
 x:
   source: https://github.com/orhun/binsider
   eget: orhun/binsider

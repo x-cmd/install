@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 专为 Mac App Store 设计的命令行界面，用于编写脚本和自动化操作
   en: a command-line interface for the Mac App Store that is designed for scripting & automation.
+  cs: rozhraní příkazové řádky pro Mac App Store navržené pro skriptování a automatizaci.
+  de: eine Kommandozeilenschnittstelle für den Mac App Store, die für Skripting und Automatisierung entwickelt wurde.
+  es: una interfaz de línea de comandos para el Mac App Store diseñada para scripts y automatización.
+  fr: une interface de ligne de commande pour le Mac App Store, conçue pour le scriptage et l'automatisation.
+  id: antarmuka baris perintah untuk Mac App Store yang dirancang untuk skrip dan otomatisasi.
+  it: un'interfaccia a riga di comando per il Mac App Store progettata per scripting e automazione.
+  ja: スクリプトと自動化のために設計された Mac App Store 向けコマンドラインインターフェース。
+  ko: 스크립팅과 자동화를 위해 설계된 Mac App Store용 명령줄 인터페이스.
+  pl: interfejs wiersza poleceń dla Mac App Store, zaprojektowany do skryptowania i automatyzacji.
+  pt: uma interface de linha de comando para a Mac App Store projetada para scripts e automação.
+  ro: o interfață de linie de comandă pentru Mac App Store, concepută pentru scripting și automatizare.
+  ru: интерфейс командной строки для Mac App Store, созданный для написания скриптов и автоматизации.
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ Mac App Store ที่ออกแบบมาเพื่อการเขียนสคริปต์และระบบอัตโนมัติ
+  tr: betik yazma ve otomasyon için tasarlanmış Mac App Store için bir komut satırı arayüzü.
+  uk: інтерфейс командного рядка для Mac App Store, створений для скриптингу та автоматизації.
+  vi: giao diện dòng lệnh cho Mac App Store được thiết kế để viết script và tự động hóa.
 x:
   source: https://github.com/mas-cli/mas
   eget: mas-cli/mas

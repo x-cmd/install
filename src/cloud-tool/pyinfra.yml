@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个多功能的 CLI 工具和 python 库，用于自动化基础设施
   en: pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands
+  cs: pyinfra automatizuje infrastrukturu pomocí Pythonu. Je rychlý a škáluje od jednoho serveru až po tisíce
+  de: pyinfra automatisiert Infrastruktur mit Python. Es ist schnell und skaliert von einem Server bis zu Tausenden
+  es: pyinfra automatiza la infraestructura con Python. Es rápido y escala desde un servidor hasta miles
+  fr: pyinfra automatise l'infrastructure avec Python. Il est rapide et passe d'un serveur à des milliers
+  id: pyinfra mengotomasi infrastruktur menggunakan Python. Cepat dan dapat diskalakan dari satu server hingga ribuan
+  it: pyinfra automatizza l'infrastruttura usando Python. È veloce e si scala da un server a migliaia
+  ja: pyinfra は Python を使ってインフラを自動化します。高速で、1 台から数千台までスケールします
+  ko: pyinfra는 Python을 사용하여 인프라를 자동화합니다. 빠르며 서버 1대에서 수천 대까지 확장됩니다
+  pl: pyinfra automatyzuje infrastrukturę przy użyciu Pythona. Jest szybki i skaluje się od jednego serwera do tysięcy
+  pt: O pyinfra automatiza a infraestrutura usando Python. É rápido e escala de um servidor para milhares
+  ro: pyinfra automatizează infrastructura folosind Python. Este rapid și scalabil de la un server la mii
+  ru: pyinfra автоматизирует инфраструктуру с помощью Python. Он быстр и масштабируется от одного сервера до тысяч
+  th: pyinfra ใช้ Python ในการทำระบบอัตโนมัติของโครงสร้างพื้นฐาน ทำงานได้เร็วและขยายตัวได้ตั้งแต่หนึ่งเซิร์ฟเวอร์ไปจนถึงหลายพันเครื่อง
+  tr: pyinfra, Python kullanarak altyapıyı otomatikleştirir. Hızlıdır ve tek bir sunucudan binlerce sunucuya ölçeklenir
+  uk: pyinfra автоматизує інфраструктуру за допомогою Python. Він швидкий і масштабується від одного сервера до тисяч
+  vi: pyinfra tự động hóa hạ tầng bằng Python. Nhanh và có thể mở rộng từ một máy chủ đến hàng nghìn máy chủ
 x:
   source: https://github.com/pyinfra-dev/pyinfra
   yay: pyinfra

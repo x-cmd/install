@@ -3,6 +3,22 @@ license: MIT
 desc:
   cn: Mermaid 库的命令行工具，用于在命令行中生成流程图、时序图、甘特图等各种类型的图表
   en: The command line tool of the Mermaid library is used to generate various types of charts such as flow charts, sequence diagrams, and Gantt charts on the command line.
+  cs: Nástroj příkazové řádky knihovny Mermaid slouží k generování různých typů grafů, jako jsou vývojové diagramy, sekvenční diagramy a Ganttovy diagramy, v příkazové řádce.
+  de: Das Kommandozeilenwerkzeug der Mermaid-Bibliothek wird verwendet, um im Terminal verschiedene Diagrammtypen wie Flussdiagramme, Sequenzdiagramme und Gantt-Diagramme zu erzeugen.
+  es: La herramienta de línea de comandos de la biblioteca Mermaid se usa para generar varios tipos de gráficos, como diagramas de flujo, diagramas de secuencia y diagramas de Gantt, en la línea de comandos.
+  fr: L'outil en ligne de commande de la bibliothèque Mermaid sert à générer différents types de graphiques tels que les organigrammes, les diagrammes de séquence et les diagrammes de Gantt dans le terminal.
+  id: Alat baris perintah dari pustaka Mermaid digunakan untuk membuat berbagai jenis diagram seperti diagram alur, diagram urutan, dan diagram Gantt di baris perintah.
+  it: Lo strumento da riga di comando della libreria Mermaid viene usato per generare vari tipi di grafici come diagrammi di flusso, diagrammi di sequenza e diagrammi di Gantt nella riga di comando.
+  ja: Mermaid ライブラリのコマンドラインツールは、コマンドラインでフローチャート、シーケンス図、ガントチャートなどのさまざまな種類のグラフを生成するために使用されます。
+  ko: Mermaid 라이브러리의 명령줄 도구는 명령줄에서 플로우 차트, 시퀀스 다이어그램, 간트 차트 등 다양한 종류의 차트를 생성하는 데 사용됩니다.
+  pl: Narzędzie wiersza poleceń biblioteki Mermaid służy do generowania w wierszu poleceń różnych rodzajów wykresów, takich jak diagramy przepływu, diagramy sekwencji i wykresy Gantta.
+  pt: A ferramenta de linha de comando da biblioteca Mermaid é usada para gerar vários tipos de gráficos, como fluxogramas, diagramas de sequência e gráficos de Gantt, na linha de comando.
+  ro: Instrumentul de linie de comandă al bibliotecii Mermaid este folosit pentru a genera în linia de comandă diverse tipuri de diagrame, precum diagrame de flux, diagrame de secvență și diagrame Gantt.
+  ru: Инструмент командной строки библиотеки Mermaid используется для создания в командной строке различных типов диаграмм, таких как блок-схемы, диаграммы последовательности и диаграммы Ганта.
+  th: เครื่องมือบรรทัดคำสั่งของไลบรารี Mermaid ใช้สร้างแผนภาพต่าง ๆ เช่น แผนผังกระบวนการ ไดอะแกรมลำดับ และแผนภาพแกนต์ บนบรรทัดคำสั่ง
+  tr: Mermaid kütüphanesinin komut satırı aracı, komut satırında akış şemaları, sıra diyagramları ve Gantt grafikleri gibi çeşitli grafik türleri oluşturmak için kullanılır.
+  uk: Інструмент командного рядка бібліотеки Mermaid використовується для створення в командному рядку різних типів діаграм, таких як блок-схеми, діаграми послідовності та діаграми Ганта.
+  vi: Công cụ dòng lệnh của thư viện Mermaid được dùng để tạo nhiều loại biểu đồ như lưu đồ, sơ đồ trình tự và biểu đồ Gantt trên dòng lệnh.
 lang: JavaScript
 x:
   source: https://github.com/mermaid-js/mermaid-cli#readme

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 单二进制、仅 SSH 的 Docker 服务监控工具，提供指标、日志与告警
   en: 'Docker server monitoring without the stack. Metrics, logs, and alerts from your terminal. Single binary, zero exposed ports, SSH-only.'
+  cs: Monitorování serverů Docker bez zásobníku. Metriky, logy a upozornění z vašeho terminálu. Jediný binární soubor, žádné vystavené porty, pouze SSH.
+  de: Docker-Server-Überwachung ohne den Stack. Metriken, Logs und Warnungen aus Ihrem Terminal. Einzelne Binärdatei, keine freigelegten Ports, nur SSH.
+  es: Monitorización de servidores Docker sin la pila. Métricas, registros y alertas desde tu terminal. Un solo binario, ningún puerto expuesto, solo SSH.
+  fr: Supervision des serveurs Docker sans la pile. Métriques, journaux et alertes depuis votre terminal. Un seul binaire, aucun port exposé, SSH uniquement.
+  id: Pemantauan server Docker tanpa stack. Metrik, log, dan peringatan dari terminal Anda. Binary tunggal, tanpa port yang diekspos, hanya SSH.
+  it: Monitoraggio dei server Docker senza lo stack. Metriche, log e avvisi dal tuo terminale. Un solo binario, nessuna porta esposta, solo SSH.
+  ja: スタック不要の Docker サーバー監視。メトリクス、ログ、アラートをターミナルから。単一バイナリ、公開ポートなし、SSH のみ。
+  ko: 스택 없이 Docker 서버 모니터링. 터미널에서 메트릭, 로그, 알림을 확인하세요. 단일 바이너리, 노출 포트 없음, SSH 전용.
+  pl: Monitorowanie serwerów Docker bez stosu. Metryki, logi i alerty z Twojego terminala. Jeden plik binarny, żadne otwarte porty, tylko SSH.
+  pt: Monitoramento de servidores Docker sem a pilha. Métricas, logs e alertas a partir do seu terminal. Binário único, nenhuma porta exposta, somente SSH.
+  ro: Monitorizarea serverelor Docker fără stivă. Metrici, jurnale și alerte din terminalul dumneavoastră. Un singur binar, nicio port expus, doar SSH.
+  ru: Мониторинг серверов Docker без стека. Метрики, логи и оповещения из вашего терминала. Единый бинарный файл, никаких открытых портов, только SSH.
+  th: ติดตามเซิร์ฟเวอร์ Docker โดยไม่ต้องใช้ stack เมตริก บันทึก และการแจ้งเตือนจากเทอร์มินัลของคุณ ไบนารีเดียว ไม่เปิดพอร์ต ใช้ SSH เท่านั้น
+  tr: Yığın olmadan Docker sunucu izleme. Terminalinizden metrikler, günlükler ve uyarılar. Tek bir ikili dosya, açık port yok, yalnızca SSH.
+  uk: Моніторинг серверів Docker без стеку. Метрики, журнали та сповіщення з вашого термінала. Єдиний виконуваний файл, жодних відкритих портів, лише SSH.
+  vi: Giám sát máy chủ Docker không cần stack. Số liệu, log và cảnh báo ngay trong terminal của bạn. Một binary duy nhất, không mở port, chỉ dùng SSH.
 x:
   source: https://github.com/thobiasn/tori-cli
   eget: thobiasn/tori-cli

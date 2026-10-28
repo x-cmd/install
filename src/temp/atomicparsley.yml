@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: AtomicParsley 是一个轻量级命令行程序，用于读取、解析元数据并将其设置为 MPEG-4 文件，特别是 iTunes 风格的元数据
   en: AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata
+  cs: AtomicParsley je lehký příkazový program pro čtení, parsování a zápis metadat do souborů MPEG-4, zejména metadat ve stylu iTunes
+  de: AtomicParsley ist ein schlankes Kommandozeilenprogram zum Lesen, Parsen und Setzen von Metadaten in MPEG-4-Dateien, insbesondere von Metadaten im iTunes-Stil
+  es: AtomicParsley es un programa de línea de comandos ligero para leer, analizar y establecer metadatos en archivos MPEG-4, en particular metadatos al estilo de iTunes
+  fr: AtomicParsley est un programme en ligne de commande léger pour lire, analyser et définir des métadonnées dans des fichiers MPEG-4, en particulier des métadonnées de type iTunes
+  id: AtomicParsley adalah program command line ringan untuk membaca, mengurai, dan menetapkan metadata ke dalam berkas MPEG-4, khususnya metadata bergaya iTunes
+  it: AtomicParsley è un'utilità a riga di comando leggera per leggere, analizzare e impostare metadati nei file MPEG-4, in particolare i metadati in stile iTunes
+  ja: AtomicParsley は、MPEG-4 ファイルのメタデータの読み取り、解析、書き込みを行う軽量なコマンドラインツールです。特に iTunes 形式のメタデータに対応します
+  ko: AtomicParsley는 MPEG-4 파일의 메타데이터를 읽고, 파싱하고, 설정하는 가벼운 명령줄 프로그램으로, 특히 iTunes 스타일 메타데이터를 지원합니다
+  pl: AtomicParsley to lekki program wiersza polecenia do odczytu, parsowania i zapisywania metadanych w plikach MPEG-4, w szczególności metadanych w stylu iTunes
+  pt: O AtomicParsley é um programa de linha de comando leve para ler, analisar e definir metadados em arquivos MPEG-4, em particular metadados no estilo do iTunes
+  ro: AtomicParsley este un program de linie de comandă ușor pentru citirea, analizarea și stabilirea metadatelor în fișierele MPEG-4, în special metadate în stil iTunes
+  ru: AtomicParsley — это лёгкая утилита командной строки для чтения, разбора и записи метаданных в файлы MPEG-4, в частности метаданных в стиле iTunes
+  th: AtomicParsley เป็นโปรแกรมบรรทัดคำสั่งขนาดเล็กสำหรับการอ่าน วิเคราะห์ และตั้งค่าเมทาดาทาในไฟล์ MPEG-4 โดยเฉพาะเมทาดาทาแบบ iTunes
+  tr: AtomicParsley, MPEG-4 dosyalarında meta verileri okumak, ayrıştırmak ve yazmak için hafif bir komut satırı programıdır, özellikle iTunes tarzı meta veriler için
+  uk: AtomicParsley — це легка утиліта командного рядка для читання, розбору та запису метаданих у файли MPEG-4, зокрема метаданих у стилі iTunes
+  vi: AtomicParsley là chương trình dòng lệnh nhẹ để đọc, phân tích và thiết lập metadata trong các tệp MPEG-4, đặc biệt là metadata theo phong cách iTunes
 x:
   source: https://github.com/wez/atomicparsley
   eget: wez/atomicparsley

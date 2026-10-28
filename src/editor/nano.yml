@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/nano.git
 desc:
   cn: Nano 是一个小而简单的文本编辑器，用于终端
   en: Nano is a small and simple text editor for use on the terminal
+  cs: Nano je malý a jednoduchý textový editor pro použití v terminálu
+  de: Nano ist ein kleiner und einfacher Texteditor für das Terminal
+  es: Nano es un editor de texto pequeño y sencillo para usar en el terminal
+  fr: Nano est un petit éditeur de texte simple à utiliser dans le terminal
+  id: Nano adalah editor teks kecil dan sederhana untuk digunakan di terminal
+  it: Nano è un piccolo e semplice editor di testi da usare nel terminale
+  ja: Nano はターミナルで使うための小さなシンプルなテキストエディタです
+  ko: Nano는 터미널에서 사용하는 작고 간단한 텍스트 편집기입니다
+  pl: Nano to mały i prosty edytor tekstu do użycia w terminalu
+  pt: O Nano é um editor de texto pequeno e simples para uso no terminal
+  ro: Nano este un editor de text mic și simplu pentru utilizare în terminal
+  ru: Nano — небольшой и простой текстовый редактор для работы в терминале
+  th: Nano เป็นโปรแกรมแก้ไขข้อความขนาดเล็กและเรียบง่ายสำหรับใช้ในเทอร์มินัล
+  tr: Nano, terminalde kullanmak için küçük ve basit bir metin düzenleyicidir
+  uk: Nano — невеликий і простий текстовий редактор для роботи в терміналі
+  vi: Nano là trình soạn thảo văn bản nhỏ gọn và đơn giản để dùng trong terminal
 rule:
   darwin/brew:
     cmd: brew install nano

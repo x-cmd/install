@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: cmus 是一个小巧、快速且功能强大的控制台音乐播放器，适用于类 Unix 操作系统。
   en: cmus is a small, fast and powerful console music player for Unix-like operating systems.
+  cs: cmus je malý, rychlý a výkonný konzolový hudební přehrávač pro unixové operační systémy.
+  de: cmus ist ein kleiner, schneller und leistungsstarker Konsolen-Musikplayer für Unix-ähnliche Betriebssysteme.
+  es: cmus es un reproductor de música de consola pequeño, rápido y potente para sistemas operativos tipo Unix.
+  fr: cmus est un lecteur de musique console compact, rapide et puissant pour les systèmes d'exploitation de type Unix.
+  id: cmus adalah pemutar musik konsol yang kecil, cepat, dan bertenaga untuk sistem operasi mirip Unix.
+  it: cmus è un lettore musicale da console piccolo, veloce e potente per sistemi operativi simili a Unix.
+  ja: cmus は Unix 系オペレーティングシステム向けの小型で高速、かつ強力なコンソール音楽プレーヤーです。
+  ko: cmus는 Unix 계열 운영 체제를 위한 작고 빠르며 강력한 콘솔 음악 플레이어입니다.
+  pl: cmus to mały, szybki i wydajny konsolowy odtwarzacz muzyki dla systemów operacyjnych typu Unix.
+  pt: cmus é um tocador de música de console pequeno, rápido e poderoso para sistemas operacionais tipo Unix.
+  ro: cmus este un player de muzică pentru consolă, mic, rapid și puternic, pentru sisteme de operare de tip Unix.
+  ru: cmus — небольшой, быстрый и мощный консольный музыкальный плеер для Unix-подобных операционных систем.
+  th: cmus คือเครื่องเล่นเพลงคอนโซลขนาดเล็ก เร็ว และทรงพลัง สำหรับระบบปฏิบัติการแบบ Unix
+  tr: cmus, Unix benzeri işletim sistemleri için küçük, hızlı ve güçlü bir konsol müzik oynatıcısıdır.
+  uk: cmus — невеликий, швидкий і потужний консольний музичний програвач для Unix-подібних операційних систем.
+  vi: cmus là trình phát nhạc console nhỏ gọn, nhanh và mạnh mẽ cho các hệ điều hành giống Unix.
 x:
   source: https://github.com/cmus/cmus
   apt: cmus

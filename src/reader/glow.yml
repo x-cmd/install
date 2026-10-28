@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: glow 是一个基于终端的 markdown 阅读器
   en: glow is a terminal based markdown reader
+  cs: glow je čtečka markdownu pro terminál
+  de: glow ist ein Markdown-Reader für das Terminal
+  es: glow es un lector de markdown basado en terminal
+  fr: glow est un lecteur markdown pour le terminal
+  id: glow adalah pembaca markdown berbasis terminal
+  it: glow è un lettore markdown basato su terminale
+  ja: glow はターミナルベースの markdown リーダーです
+  ko: glow는 터미널 기반 markdown 리더입니다
+  pl: glow to czytnik markdown dla terminala
+  pt: glow é um leitor de markdown baseado em terminal
+  ro: glow este un cititor de markdown pentru terminal
+  ru: glow — это терминальный просмотрщик markdown
+  th: glow เป็นโปรแกรมอ่าน markdown บนเทอร์มินัล
+  tr: glow, terminal için bir markdown okuyucusudur
+  uk: glow — це термінальний переглядач markdown
+  vi: glow là trình đọc markdown chạy trên terminal
 x:
   source: https://github.com/charmbracelet/glow
   eget: charmbracelet/glow

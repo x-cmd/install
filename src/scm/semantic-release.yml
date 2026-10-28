@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: semantic-release 自动化了整个包发布工作流程，包括：确定下一个版本号，生成发行说明，以及发布包
   en: 'semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package'
+  cs: "semantic-release automatizuje celý pracovní postup vydávání balíčků včetně: určení dalšího čísla verze, generování poznámek k vydání a publikování balíčku"
+  de: "semantic-release automatisiert den gesamten Release-Workflow des Pakets, einschließlich: Bestimmung der nächsten Versionsnummer, Erzeugen der Release Notes und Veröffentlichen des Pakets"
+  es: "semantic-release automatiza todo el flujo de trabajo de publicación de paquetes, incluido: determinar el siguiente número de versión, generar las notas de la versión y publicar el paquete"
+  fr: "semantic-release automatise tout le flux de publication de paquets, y compris : la détermination du prochain numéro de version, la génération des notes de version et la publication du paquet"
+  id: "semantic-release mengotomasi seluruh alur kerja rilis paket, termasuk: menentukan nomor versi berikutnya, membuat catatan rilis, dan menerbitkan paket"
+  it: "semantic-release automatizza l'intero flusso di lavoro del rilascio del pacchetto, inclusi: la determinazione del prossimo numero di versione, la generazione delle note di rilascio e la pubblicazione del pacchetto"
+  ja: semantic-releaseは、次のバージョン番号の決定、リリースノートの生成、パッケージの公開を含む、パッケージリリースのワークフロー全体を自動化します
+  ko: semantic-release은 다음 버전 번호 결정, 릴리스 노트 생성, 패키지 게시를 포함한 전체 패키지 릴리스 워크플로를 자동화합니다
+  pl: "semantic-release automatyzuje cały przepływ wydań pakietu, w tym: określanie następnego numeru wersji, generowanie informacji o wydaniu i publikowanie pakietu"
+  pt: "semantic-release automatiza todo o fluxo de trabalho de lançamento do pacote, incluindo: determinar o próximo número de versão, gerar as notas de versão e publicar o pacote"
+  ro: "semantic-release automatizează întregul flux de lucru pentru lansarea pachetului, inclusiv: determinarea următorului număr de versiune, generarea notelor de lansare și publicarea pachetului"
+  ru: "semantic-release автоматизирует весь рабочий процесс выпуска пакета, включая: определение следующего номера версии, создание примечаний к выпуску и публикацию пакета"
+  th: semantic-release ทำให้ขั้นตอนการปล่อยแพ็กเกจทั้งหมดเป็นอัตโนมัติ รวมถึงการกำหนดเลขเวอร์ชันถัดไป การสร้างรีลีสโน้ต และการเผยแพร่แพ็กเกจ
+  tr: semantic-release, sonraki sürüm numarasını belirleme, sürüm notlarını oluşturma ve paketi yayımlama dahil tüm paket yayımlama iş akışını otomatikleştirir
+  uk: "semantic-release автоматизує весь робочий процес випуску пакета, зокрема: визначення наступного номера версії, створення приміток до випуску та публікацію пакета"
+  vi: "semantic-release tự động hóa toàn bộ quy trình phát hành gói, bao gồm: xác định số phiên bản tiếp theo, tạo ghi chú phát hành và xuất bản gói"
 x:
   source: https://github.com/semantic-release/semantic-release
   yay: nodejs-semantic-release-cli

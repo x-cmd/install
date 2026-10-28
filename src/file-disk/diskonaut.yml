@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端磁盘空间导航器
   en: Terminal disk space navigator
+  cs: Terminálový prohlížeč místa na disku
+  de: Terminalbasierter Navigator für den Speicherplatz auf der Festplatte
+  es: Navegador de espacio en disco para la terminal
+  fr: Navigateur d'espace disque dans le terminal
+  id: Penjelajah ruang disk di terminal
+  it: Navigatore dello spazio su disco da terminale
+  ja: 端末のディスク容量ナビゲーター
+  ko: 터미널 디스크 공간 탐색기
+  pl: Terminalowy nawigator przestrzeni dyskowej
+  pt: Navegador de espaço em disco no terminal
+  ro: Navigator de spațiu pe disc în terminal
+  ru: Навигатор дискового пространства в терминале
+  th: ตัวนำทางพื้นที่ดิสก์ในเทอร์มินัล
+  tr: Terminal tabanlı disk alanı gezgini
+  uk: Навігатор дискового простору в терміналі
+  vi: Trình duyệt dung lượng đĩa trên terminal
 x:
   source: https://github.com/imsnif/diskonaut
   dnf: diskonaut

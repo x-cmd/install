@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 自动化版本控制和包发布
   en: Automate versioning and package publishing
+  cs: Automatizujte verzování a publikování balíčků
+  de: Versionierung und Paketveröffentlichung automatisieren
+  es: Automatiza el versionado y la publicación de paquetes
+  fr: Automatisez le versionnage et la publication des paquets
+  id: Otomatiskan versioning dan penerbitan paket
+  it: Automatizza il versioning e la pubblicazione dei pacchetti
+  ja: バージョン管理とパッケージ公開を自動化する
+  ko: 버전 관리와 패키지 게시를 자동화합니다
+  pl: Automatyzuj wersjonowanie i publikowanie pakietów
+  pt: Automatize o versionamento e a publicação de pacotes
+  ro: Automatizați versionarea și publicarea pachetelor
+  ru: Автоматизируйте управление версиями и публикацию пакетов
+  th: ทำให้การจัดการเวอร์ชันและการเผยแพร่แพ็กเกจเป็นอัตโนมัติ
+  tr: Sürümlemeyi ve paket yayımlamayı otomatikleştirin
+  uk: Автоматизуйте керування версіями та публікацію пакетів
+  vi: Tự động hóa việc quản lý phiên bản và xuất bản gói
 x:
   source: https://github.com/release-it/release-it
   yay: release-it

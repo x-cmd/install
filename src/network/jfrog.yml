@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: JFrog CLI 是一款紧凑、智能的客户端，提供简单的界面，可自动访问 JFrog 产品，简化您的自动化脚本，使其更具可读性和更易于维护
   en: JFrog CLI is a compact and smart client that provides a simple interface that automates access to JFrog products simplifying your automation scripts and making them more readable and easier to maintain
+  cs: JFrog CLI je kompaktní a chytrý klient, který poskytuje jednoduché rozhraní automatizující přístup k produktům JFrog, čímž zjednodušuje vaše automatizační skripty a činí je čitelnějšími a snáze udržovatelnými
+  de: JFrog CLI ist ein kompakter und intelligenter Client, der eine einfache Schnittstelle bietet, die den Zugriff auf JFrog-Produkte automatisiert, Ihre Automatisierungsskripte vereinfacht und sie lesbarer und leichter wartbar macht
+  es: JFrog CLI es un cliente compacto e inteligente que ofrece una interfaz sencilla que automatiza el acceso a los productos de JFrog, simplificando sus scripts de automatización y haciéndolos más legibles y fáciles de mantener
+  fr: JFrog CLI est un client compact et intelligent qui fournit une interface simple automatisant l'accès aux produits JFrog, ce qui simplifie vos scripts d'automatisation et les rend plus lisibles et plus faciles à maintenir
+  id: JFrog CLI adalah klien ringkas dan cerdas yang menyediakan antarmuka sederhana untuk mengotomatiskan akses ke produk JFrog, menyederhanakan skrip otomatisasi Anda dan membuatnya lebih mudah dibaca dan dipelihara
+  it: JFrog CLI è un client compatto e intelligente che fornisce un'interfaccia semplice che automatizza l'accesso ai prodotti JFrog, semplificando i tuoi script di automazione e rendendoli più leggibili e facili da mantenere
+  ja: JFrog CLIは、JFrog製品へのアクセスを自動化するシンプルなインターフェースを備えた小型でスマートなクライアントであり、自動化スクリプトを簡素化し、より読みやすく管理しやすくします
+  ko: JFrog CLI는 JFrog 제품에 대한 접근을 자동화하는 단순한 인터페이스를 제공하여 자동화 스크립트를 단순화하고 더 읽기 쉽고 관리하기 쉽게 만드는 간결하고 스마트한 클라이언트입니다
+  pl: JFrog CLI to kompaktny i inteligentny klient, który zapewnia prosty interfejs automatyzujący dostęp do produktów JFrog, upraszczając Twoje skrypty automatyzacji i czyniąc je bardziej czytelnymi i łatwiejszymi w utrzymaniu
+  pt: O JFrog CLI é um cliente compacto e inteligente que oferece uma interface simples que automatiza o acesso aos produtos JFrog, simplificando seus scripts de automação e tornando-os mais legíveis e fáceis de manter
+  ro: JFrog CLI este un client compact și inteligent care oferă o interfață simplă ce automatizează accesul la produsele JFrog, simplificând scripturile tale de automatizare și făcându-le mai lizibile și mai ușor de întreținut
+  ru: JFrog CLI — компактный и умный клиент, предоставляющий простой интерфейс, который автоматизирует доступ к продуктам JFrog, упрощая ваши скрипты автоматизации и делая их более читаемыми и простыми в сопровождении
+  th: JFrog CLI คือไคลเอนต์กะทัดรัดและชาญฉลาดที่มีอินเทอร์เฟซอย่างง่าย ซึ่งทำให้การเข้าถึงผลิตภัณฑ์ JFrog เป็นอัตโนมัติ ทำให้สคริปต์อัตโนมัติของคุณง่ายขึ้น อ่านง่ายขึ้น และดูแลรักษาง่ายขึ้น
+  tr: JFrog CLI, JFrog ürünlerine erişimi otomatikleştiren basit bir arayüz sunan kompakt ve akıllı bir istemcidir; otomasyon betiklerinizi basitleştirir, daha okunabilir ve bakımı kolay hale getirir
+  uk: JFrog CLI — компактний і розумний клієнт, що надає простий інтерфейс для автоматизації доступу до продуктів JFrog, спрощуючи ваші скрипти автоматизації та роблячи їх читабельнішими й такими, що їх легше підтримувати
+  vi: JFrog CLI là client nhỏ gọn và thông minh, cung cấp giao diện đơn giản tự động hóa việc truy cập vào các sản phẩm JFrog, giúp đơn giản hóa các kịch bản tự động hóa và làm chúng dễ đọc và dễ bảo trì hơn
 x:
   source: https://github.com/jfrog/jfrog-cli
   brew: jfrog-cli

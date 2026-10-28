@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Firecrawl 官方 MCP 服务器，为 Cursor、Claude 等 LLM 客户端提供强大的网页抓取与搜索能力
   en: 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+  cs: Oficiální server Firecrawl MCP – přidává výkonné webové škrabání a vyhledávání do Cursor, Claude a dalších LLM klientů.
+  de: Offizieller Firecrawl MCP Server – verleiht Cursor, Claude und anderen LLM-Clients leistungsstarkes Web-Scraping und -Suchfunktionen.
+  es: "Servidor oficial de Firecrawl MCP: añade potente scraping web y búsqueda a Cursor, Claude y cualquier otro cliente de LLM."
+  fr: Serveur MCP officiel Firecrawl – ajoute un scraping web puissant et de la recherche à Cursor, Claude et tout autre client LLM.
+  id: Server MCP resmi Firecrawl - menambahkan web scraping dan pencarian yang kuat ke Cursor, Claude, dan klien LLM lainnya.
+  it: Server MCP ufficiale di Firecrawl - aggiunge potentissimo web scraping e ricerca a Cursor, Claude e qualsiasi altro client LLM.
+  ja: 🔥 Firecrawl 公式 MCP サーバー - Cursor、Claude などの LLM クライアントに強力な Web スクレイピングと検索を追加します。
+  ko: 🔥 Firecrawl 공식 MCP 서버 - Cursor, Claude 및 기타 LLM 클라이언트에 강력한 웹 스크래핑과 검색을 추가합니다.
+  pl: Oficjalny serwer Firecrawl MCP - dodaje Cursorowi, Claude i innym klientom LLM potężne web scraping i wyszukiwanie.
+  pt: Servidor MCP oficial do Firecrawl - adiciona scraping web e busca poderosos a Cursor, Claude e quaisquer outros clientes de LLM.
+  ro: Server MCP oficial Firecrawl - adaugă Cursor, Claude și oricărui alt client LLM capacități puternice de web scraping și căutare.
+  ru: Официальный MCP-сервер Firecrawl — добавляет мощные возможности веб-скрейпинга и поиска в Cursor, Claude и любые другие LLM-клиенты.
+  th: เซิร์ฟเวอร์ MCP อย่างเป็นทางการของ Firecrawl - เพิ่มความสามารถในการ web scraping และค้นหาอันทรงพลังให้กับ Cursor, Claude และไคลเอนต์ LLM อื่น ๆ
+  tr: Resmi Firecrawl MCP Sunucusu - Cursor, Claude ve diğer tüm LLM istemcilerine güçlü web scraping ve arama yetenekleri ekler.
+  uk: Офіційний MCP-сервер Firecrawl — додає потужні можливості веб-скрейпінгу та пошуку в Cursor, Claude та будь-які інші LLM-клієнти.
+  vi: Máy chủ MCP chính thức của Firecrawl - bổ sung khả năng web scraping và tìm kiếm mạnh mẽ cho Cursor, Claude và mọi client LLM khác.
 x:
   source: https://github.com/firecrawl/firecrawl-mcp-server
   npm: firecrawl-mcp

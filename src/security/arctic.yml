@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Arctic 是一组用于流行服务提供商的 OAuth 2.0 客户端，只支持授权码流程。
   en: Arctic is a collection of OAuth 2.0 clients for popular providers. Only the authorization code flow is supported.
+  cs: Arctic je sada klientů OAuth 2.0 pro populární poskytovatele. Podporován je pouze tok autorizačního kódu.
+  de: Arctic ist eine Sammlung von OAuth 2.0-Clients für gängige Anbieter. Nur der Authorization-Code-Flow wird unterstützt.
+  es: Arctic es una colección de clientes OAuth 2.0 para proveedores populares. Solo se admite el flujo de código de autorización.
+  fr: Arctic est une collection de clients OAuth 2.0 pour les fournisseurs populaires. Seul le flux par code d'autorisation est pris en charge.
+  id: Arctic adalah kumpulan klien OAuth 2.0 untuk penyedia populer. Hanya alur kode otorisasi yang didukung.
+  it: Arctic è una raccolta di client OAuth 2.0 per i provider più diffusi. È supportato solo il flusso del codice di autorizzazione.
+  ja: Arctic は主要なプロバイダー向けの OAuth 2.0 クライアント群です。サポートされるのは認可コードフローのみです。
+  ko: Arctic는 널리 쓰이는 제공업체용 OAuth 2.0 클라이언트 모음입니다. 인가 코드 플로우만 지원됩니다.
+  pl: Arctic to zestaw klientów OAuth 2.0 dla popularnych dostawców. Obsługiwany jest tylko przepływ kodu autoryzacji.
+  pt: O Arctic é uma coleção de clientes OAuth 2.0 para provedores populares. Apenas o fluxo de código de autorização é suportado.
+  ro: Arctic este o colecție de clienți OAuth 2.0 pentru furnizori populari. Este acceptat doar fluxul cu cod de autorizare.
+  ru: Arctic — набор клиентов OAuth 2.0 для популярных провайдеров. Поддерживается только поток с кодом авторизации.
+  th: Arctic คือชุดไคลเอนต์ OAuth 2.0 สำหรับผู้ให้บริการยอดนิยม รองรับเฉพาะขั้นตอนการยืนยันด้วย authorization code
+  tr: Arctic, popüler sağlayıcılar için OAuth 2.0 istemcileri koleksiyonudur. Yalnızca yetkilendirme kodu akışı desteklenir.
+  uk: Arctic — набір клієнтів OAuth 2.0 для популярних провайдерів. Підтримується лише потік з кодом авторизації.
+  vi: Arctic là bộ sưu tập client OAuth 2.0 cho các nhà cung cấp phổ biến. Chỉ hỗ trợ luồng mã ủy quyền.
 x:
   source: https://github.com/pilcrowonpaper/arctic
   npm: arctic

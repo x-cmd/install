@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: MiniMax AI 平台的官方 CLI 工具，支持文本对话、图像生成、视频生成、语音合成、音乐创作、图像理解和网页搜索等全模态能力调用
   en: The official CLI for the MiniMax AI Platform, supporting text chat, image generation, video generation, speech synthesis, music creation, vision understanding, and web search
+  cs: Oficiální CLI pro platformu MiniMax AI, podporuje textový chat, generování obrázků, generování videí, syntézu řeči, tvorbu hudby, porozumění obrazu a webové vyhledávání
+  de: Die offizielle CLI für die MiniMax AI Platform, die Textchat, Bildgenerierung, Videogenerierung, Sprachsynthese, Musikerstellung, Bildverständnis und Websuche unterstützt
+  es: La CLI oficial para la plataforma MiniMax AI, compatible con chat de texto, generación de imágenes, generación de vídeo, síntesis de voz, creación musical, comprensión visual y búsqueda web
+  fr: La CLI officielle pour la plateforme MiniMax AI, prenant en charge le chat texte, la génération d'images, la génération de vidéos, la synthèse vocale, la création musicale, la compréhension visuelle et la recherche web
+  id: CLI resmi untuk Platform MiniMax AI, mendukung obrolan teks, pembuatan gambar, pembuatan video, sintesis suara, pembuatan musik, pemahaman visual, dan pencarian web
+  it: La CLI ufficiale per la piattaforma MiniMax AI, con supporto per chat testuale, generazione di immagini, generazione di video, sintesi vocale, creazione musicale, comprensione visiva e ricerca web
+  ja: MiniMax AI Platform 公式の CLI で、テキストチャット、画像生成、動画生成、音声合成、音楽作成、画像理解、Web 検索に対応しています。
+  ko: MiniMax AI 플랫폼 공식 CLI로, 텍스트 채팅, 이미지 생성, 동영상 생성, 음성 합성, 음악 창작, 이미지 이해 및 웹 검색을 지원합니다.
+  pl: Oficjalne CLI dla platformy MiniMax AI, obsługujące czat tekstowy, generowanie obrazów, generowanie wideo, syntezę mowy, tworzenie muzyki, rozumienie obrazu i wyszukiwanie w sieci
+  pt: A CLI oficial da Plataforma MiniMax AI, com suporte a chat de texto, geração de imagens, geração de vídeo, síntese de voz, criação musical, compreensão visual e pesquisa na web
+  ro: CLI-ul oficial pentru platforma MiniMax AI, cu suport pentru chat text, generare de imagini, generare de video, sinteză vocală, creare muzică, înțelegere vizuală și căutare web
+  ru: Официальный CLI для платформы MiniMax AI с поддержкой текстового чата, генерации изображений и видео, синтеза речи, создания музыки, визуального понимания и веб-поиска
+  th: CLI อย่างเป็นทางการของ MiniMax AI Platform รองรับแชตข้อความ การสร้างภาพ การสร้างวิดีโอ การสังเคราะห์เสียง การสร้างดนตรี การเข้าใจภาพ และการค้นหาเว็บ
+  tr: MiniMax AI Platform için resmi CLI; metin sohbeti, görsel oluşturma, video oluşturma, konuşma sentezi, müzik üretimi, görü anlama ve web araması destekler
+  uk: Офіційний CLI для платформи MiniMax AI з підтримкою текстового чату, генерації зображень і відео, синтезу мовлення, створення музики, візуального розуміння та веб-пошуку
+  vi: CLI chính thức cho nền tảng MiniMax AI, hỗ trợ trò chuyện văn bản, tạo ảnh, tạo video, tổng hợp giọng nói, sáng tác nhạc, hiểu hình ảnh và tìm kiếm web
 x:
   source: https://github.com/MiniMax-AI/cli
   npm: mmx-cli

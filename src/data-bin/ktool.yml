@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: MachO/ObjC 分析 + 编辑工具包
   en: MachO/ObjC Analysis + Editing toolkit.
+  cs: Sada nástrojů pro analýzu a editaci MachO/ObjC.
+  de: MachO/ObjC-Analyse- und Bearbeitungs-Toolkit.
+  es: Kit de herramientas de análisis y edición de MachO/ObjC.
+  fr: Boîte à outils d'analyse et d'édition MachO/ObjC.
+  id: Toolkit analisis dan pengeditan MachO/ObjC.
+  it: Toolkit di analisi e modifica per MachO/ObjC.
+  ja: MachO/ObjC の解析・編集ツールキット。
+  ko: MachO/ObjC 분석 및 편집 툴킷.
+  pl: Zestaw narzędzi do analizy i edycji MachO/ObjC.
+  pt: Kit de ferramentas de análise e edição para MachO/ObjC.
+  ro: Truset de instrumente pentru analiza și editarea MachO/ObjC.
+  ru: Набор инструментов для анализа и редактирования MachO/ObjC.
+  th: ชุดเครื่องมือสำหรับการวิเคราะห์และแก้ไข MachO/ObjC
+  tr: MachO/ObjC analiz ve düzenleme araç seti.
+  uk: Набір інструментів для аналізу та редагування MachO/ObjC.
+  vi: Bộ công cụ phân tích và chỉnh sửa MachO/ObjC.
 x:
   source: https://github.com/0cyn/ktool
   pip: k2l

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 受 otel-desktop-viewer 启发的终端 OpenTelemetry 查看器
   en: 'A terminal OpenTelemetry viewer inspired by otel-desktop-viewer'
+  cs: Terminálový prohlížeč OpenTelemetry inspirovaný otel-desktop-viewer
+  de: Ein Terminal-OpenTelemetry-Viewer, inspiriert von otel-desktop-viewer
+  es: Un visor de OpenTelemetry de terminal inspirado en otel-desktop-viewer
+  fr: Un visualiseur OpenTelemetry en terminal inspiré de otel-desktop-viewer
+  id: Penampil OpenTelemetry terminal terinspirasi oleh otel-desktop-viewer
+  it: Un visualizzatore OpenTelemetry da terminale ispirato a otel-desktop-viewer
+  ja: otel-desktop-viewer に着想を得たターミナル OpenTelemetry ビューアー
+  ko: otel-desktop-viewer에서 영감받은 터미널 OpenTelemetry 뷰어
+  pl: Terminalowy przeglądarka OpenTelemetry inspirowana przez otel-desktop-viewer
+  pt: Um visualizador OpenTelemetry de terminal inspirado no otel-desktop-viewer
+  ro: Un vizualizator OpenTelemetry în terminal inspirat de otel-desktop-viewer
+  ru: Терминальный просмотрщик OpenTelemetry, вдохновлённый otel-desktop-viewer
+  th: ตัวดู OpenTelemetry บนเทอร์มินัลที่ได้แรงบันดาลใจจาก otel-desktop-viewer
+  tr: otel-desktop-viewer'dan esinlenilen terminal OpenTelemetry görüntüleyicisi
+  uk: Термінальний переглядач OpenTelemetry, натхненний otel-desktop-viewer
+  vi: Trình xem OpenTelemetry trên terminal lấy cảm hứng từ otel-desktop-viewer
 x:
   source: https://github.com/ymtdzzz/otel-tui
   eget: ymtdzzz/otel-tui

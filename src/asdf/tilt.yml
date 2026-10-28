@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于解决微服务开发难题的工具包
   en: A toolkit for fixing the pains of microservice development
+  cs: Sada nástrojů pro řešení potíží s vývojem mikroslužeb
+  de: Ein Toolkit, das die Qualen der Microservice-Entwicklung behebt
+  es: Un conjunto de herramientas para resolver las dificultades del desarrollo de microservicios
+  fr: Une boîte à outils pour résoudre les difficultés du développement de microservices
+  id: Kit alat untuk mengatasi kesulitan dalam pengembangan microservice
+  it: Un toolkit per risolvere le difficoltà dello sviluppo di microservizi
+  ja: マイクロサービス開発の難所を解決するためのツールキット
+  ko: 마이크로서비스 개발의 골치를 해결하는 도구 모음
+  pl: Zestaw narzędzi do rozwiązywania problemów z rozwojem mikroserwisów
+  pt: Um conjunto de ferramentas para resolver as dores do desenvolvimento de microsserviços
+  ro: Un set de instrumente pentru a rezolva dificultățile dezvoltării de microservicii
+  ru: Набор инструментов для устранения проблем разработки микросервисов
+  th: ชุดเครื่องมือสำหรับแก้ปัญหาความยากลำบากในการพัฒนาไมโครเซอร์วิส
+  tr: Mikroservis geliştirmenin sıkıntılarını gidermek için bir araç seti
+  uk: Інструментарій для усунення труднощів розробки мікросервісів
+  vi: Bộ công cụ giải quyết những khó khăn trong phát triển vi dịch vụ vi mô
 x:
   source: https://github.com/tilt-dev/tilt
   eget: tilt-dev/tilt

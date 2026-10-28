@@ -3,6 +3,22 @@ homepage: https://www.mozilla.org/en-US/firefox/
 desc:
   cn: 火狐是自由及开源，由 Mozilla 基金会及其子公司 Mozilla 公司开发的网页浏览器
   en: Firefox is a free and open source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation
+  cs: Firefox je bezplatný webový prohlížeč s otevřeným zdrojovým kódem, vyvinutý Nadací Mozilla a její dceřinou společností Mozilla Corporation
+  de: Firefox ist ein kostenloser Open-Source-Webbrowser, entwickelt von der Mozilla Foundation und ihrer Tochtergesellschaft, der Mozilla Corporation
+  es: Firefox es un navegador web gratuito y de código abierto desarrollado por la Fundación Mozilla y su filial, Mozilla Corporation
+  fr: Firefox est un navigateur web gratuit et open source développé par la Fondation Mozilla et sa filiale, Mozilla Corporation
+  id: Firefox adalah peramban web gratis dan sumber terbuka yang dikembangkan oleh Mozilla Foundation dan anak perusahaannya, Mozilla Corporation
+  it: Firefox è un browser web gratuito e open source sviluppato dalla Mozilla Foundation e dalla sua controllata, la Mozilla Corporation
+  ja: Firefox は Mozilla Foundation とその子会社 Mozilla Corporation が開発した無料でオープンソースのウェブブラウザです
+  ko: Firefox는 Mozilla Foundation과 그 자회사 Mozilla Corporation이 개발한 자유 및 오픈 소스 웹 브라우저입니다
+  pl: Firefox to bezpłatna przeglądarka internetowa o otwartym kodzie, opracowana przez Fundację Mozilla i jej spółkę zależną, Mozilla Corporation
+  pt: O Firefox é um navegador web gratuito e de código aberto desenvolvido pela Mozilla Foundation e sua subsidiária, a Mozilla Corporation
+  ro: Firefox este un browser web gratuit și open source, dezvoltat de Mozilla Foundation și de filiala sa, Mozilla Corporation
+  ru: Firefox — бесплатный веб-браузер с открытым исходным кодом, разработанный Mozilla Foundation и её дочерней компанией Mozilla Corporation
+  th: Firefox เป็นเว็บเบราว์เซอร์ฟรีและโอเพนซอร์สที่พัฒนาโดยมูลนิธิ Mozilla และบริษัทในเครือ Mozilla Corporation
+  tr: Firefox, Mozilla Vakfı ve iştiraki Mozilla Corporation tarafından geliştirilen ücretsiz ve açık kaynaklı bir web tarayıcısıdır
+  uk: Firefox — це безкоштовний веббраузер з відкритим кодом, розроблений Mozilla Foundation та її дочірньою компанією Mozilla Corporation
+  vi: Firefox là trình duyệt web miễn phí và mã nguồn mở được phát triển bởi Mozilla Foundation và công ty con Mozilla Corporation
 x:
   source: https://github.com/mozilla/gecko-dev
   apt: firefox

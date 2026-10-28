@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 开源的 LLM 友好型 Web 爬虫与抓取器，把网页内容转成干净的、可直接喂给大模型的 Markdown，服务于 RAG、智能体与数据管道。
   en: Crawl and scrape websites to convert web content into clean, LLM-ready Markdown for RAG, agents, and data pipelines.
+  cs: Prohlížejte a škrábejte weby a převádějte webový obsah na čistý Markdown připravený pro LLM, pro RAG, agenty a datové pipeline.
+  de: Websites crawlen und scrapen, um Webinhalte in sauberes, LLM-fertiges Markdown für RAG, Agenten und Datenpipelines umzuwandeln.
+  es: Rastrea y extrae sitios web para convertir el contenido en Markdown limpio y listo para LLM, apto para RAG, agentes y canalizaciones de datos.
+  fr: Explorez et récupérez des sites web pour convertir leur contenu en Markdown propre, prêt pour les LLM, adapté au RAG, aux agents et aux pipelines de données.
+  id: Menjelajah dan mengambil konten situs web untuk mengubah konten web menjadi Markdown bersih yang siap untuk LLM, untuk RAG, agen, dan pipeline data.
+  it: Esegue il crawling e lo scraping di siti web per convertire i contenuti in Markdown pulito, pronto per gli LLM, adatto a RAG, agenti e pipeline di dati.
+  ja: Web サイトのクロールとスクレイプで、ウェブコンテンツを LLM にそのまま渡せるクリーンな Markdown に変換し、RAG、エージェント、データパイプラインを支えます。
+  ko: 웹사이트를 크롤링하고 스크레이핑해 웹 콘텐츠를 깨끗한 LLM용 Markdown로 변환해 RAG, 에이전트, 데이터 파이프라인에 활용합니다.
+  pl: Przeszukuje i pobiera strony, konwertując zawartość sieci na czysty Markdown gotowy dla LLM, przydatny w RAG, agentach i potokach danych.
+  pt: Rastreia e extrai sites da web para converter o conteúdo em Markdown limpo e pronto para LLM, para RAG, agentes e pipelines de dados.
+  ro: Crawl-ui și extrage site-uri web pentru a converti conținutul în Markdown curat, gata de LLM, potrivit pentru RAG, agenți și fluxuri de date.
+  ru: Обходит и собирает веб-сайты, преобразуя веб-контент в чистый Markdown, готовый для LLM, для RAG, агентов и конвейеров данных.
+  th: ครอวลและสแกรบเว็บไซต์เพื่อแปลงเนื้อหาเว็บเป็น Markdown ที่สะอาดและพร้อมใช้กับ LLM สำหรับ RAG เอเจนต์ และ data pipeline
+  tr: Web sitelerini tarayarak web içeriğini RAG, ajanlar ve veri işlem hatları için temiz, LLM'e hazır Markdown'a dönüştürür.
+  uk: Обходить і збирає веб-сайти, перетворюючи веб-контент на чистий Markdown, готовий для LLM, для RAG, агентів і конвеєрів даних.
+  vi: Thu thập và cào dữ liệu website, chuyển nội dung web thành Markdown sạch, sẵn sàng cho LLM, phục vụ RAG, tác nhân và pipeline dữ liệu.
 x:
   source: https://github.com/unclecode/crawl4ai
 rule:

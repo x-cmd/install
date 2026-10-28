@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 jilla 的 Jira 命令行界面
   en: A Jira command line interface based on jilla
+  cs: Příkazová konzole Jira založená na jilla
+  de: Eine auf jilla basierende Kommandozeilenschnittstelle für Jira
+  es: Una interfaz de línea de comandos de Jira basada en jilla
+  fr: Une interface de ligne de commande Jira basée sur jilla
+  id: Antarmuka baris perintah Jira berbasis jilla
+  it: Un'interfaccia a riga di comando per Jira basata su jilla
+  ja: jilla に基づく Jira のコマンドラインインターフェース
+  ko: jilla를 기반으로 한 Jira 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń Jira oparty na jilla
+  pt: Uma interface de linha de comando do Jira baseada no jilla
+  ro: O interfață de linie de comandă pentru Jira bazată pe jilla
+  ru: Интерфейс командной строки для Jira на основе jilla
+  th: อินเทอร์เฟซบรรทัดคำสั่งของ Jira ที่สร้างบน jilla
+  tr: jilla tabanlı bir Jira komut satırı arayüzü
+  uk: Інтерфейс командного рядка для Jira на основі jilla
+  vi: Giao diện dòng lệnh Jira dựa trên jilla
 x:
   source: https://github.com/palashkulsh/jira-cmd
   npm: jira-cmd

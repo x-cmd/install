@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: python 包和依赖管理工具 (python 3.8+)
   en: python package and dependency management tool (python 3.8+)
+  cs: nástroj pro správu balíčků a závislostí Pythonu (python 3.8+)
+  de: Python-Paket- und Abhängigkeitsverwaltungstool (Python 3.8+)
+  es: herramienta de gestión de paquetes y dependencias de Python (python 3.8+)
+  fr: outil de gestion des paquets et des dépendances Python (python 3.8+)
+  id: alat manajemen paket dan dependensi Python (python 3.8+)
+  it: strumento di gestione dei pacchetti e delle dipendenze Python (python 3.8+)
+  ja: Python パッケージと依存関係の管理ツール (python 3.8+)
+  ko: Python 패키지 및 의존성 관리 도구 (python 3.8+)
+  pl: narzędzie do zarządzania pakietami i zależnościami Pythona (python 3.8+)
+  pt: ferramenta de gerenciamento de pacotes e dependências Python (python 3.8+)
+  ro: instrument de gestionare a pachetelor și dependențelor Python (python 3.8+)
+  ru: инструмент управления пакетами и зависимостями Python (python 3.8+)
+  th: เครื่องมือจัดการแพ็กเกจและการพึ่งพาของ Python (python 3.8+)
+  tr: Python paket ve bağımlılık yönetim aracı (python 3.8+)
+  uk: інструмент керування пакетами та залежностями Python (python 3.8+)
+  vi: công cụ quản lý gói và phụ thuộc Python (python 3.8+)
 x:
   source: https://github.com/python-poetry/poetry
   eget: python-poetry/poetry

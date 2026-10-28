@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: SCM WorkBench 是一个 GUI，可以方便地以 PySVN WorkBench 的风格使用 Git、 Mercurial (hg)和 Subversion (svn)存储库
   en: SCM Workbench is a GUI to easily work with Git, Mercurial (hg) and Subversion (svn) repositories in the style of PySVN WorkBench
+  cs: SCM Workbench je grafické rozhraní pro snadnou práci s repozitáři Git, Mercurial (hg) a Subversion (svn) ve stylu PySVN WorkBench
+  de: SCM Workbench ist eine GUI, die die Arbeit mit Git-, Mercurial- (hg) und Subversion- (svn) Repositories im Stil von PySVN WorkBench erleichtert
+  es: SCM Workbench es una interfaz gráfica para trabajar fácilmente con repositorios de Git, Mercurial (hg) y Subversion (svn) al estilo de PySVN WorkBench
+  fr: SCM Workbench est une interface graphique permettant de travailler facilement avec des dépôts Git, Mercurial (hg) et Subversion (svn) à la manière de PySVN WorkBench
+  id: SCM Workbench adalah GUI untuk mudah bekerja dengan repositori Git, Mercurial (hg) dan Subversion (svn) dengan gaya PySVN WorkBench
+  it: SCM Workbench è una GUI per lavorare comodamente con repository Git, Mercurial (hg) e Subversion (svn) allo stile di PySVN WorkBench
+  ja: SCM WorkbenchはPySVN WorkBenchのスタイルでGit、Mercurial (hg)、Subversion (svn)リポジトリを容易に操作できるGUIです
+  ko: SCM Workbench는 PySVN WorkBench 스타일로 Git, Mercurial (hg), Subversion (svn) 저장소를 쉽게 다룰 수 있는 GUI입니다
+  pl: SCM Workbench to graficzny interfejs ułatwiający pracę z repozytoriami Git, Mercurial (hg) i Subversion (svn) w stylu PySVN WorkBench
+  pt: SCM Workbench é uma GUI para trabalhar facilmente com repositórios Git, Mercurial (hg) e Subversion (svn) no estilo do PySVN WorkBench
+  ro: SCM Workbench este o interfață grafică pentru a lucra ușor cu depozite Git, Mercurial (hg) și Subversion (svn), în stilul PySVN WorkBench
+  ru: SCM Workbench — это графический интерфейс для удобной работы с репозиториями Git, Mercurial (hg) и Subversion (svn) в стиле PySVN WorkBench
+  th: SCM Workbench คือ GUI สำหรับทำงานกับ repository ของ Git, Mercurial (hg) และ Subversion (svn) ได้อย่างสะดวกในสไตล์ PySVN WorkBench
+  tr: SCM Workbench, Git, Mercurial (hg) ve Subversion (svn) depolarıyla PySVN WorkBench tarzında kolayca çalışmak için bir GUI'dir
+  uk: SCM Workbench — це графічний інтерфейс для зручної роботи з репозиторіями Git, Mercurial (hg) та Subversion (svn) у стилі PySVN WorkBench
+  vi: SCM Workbench là giao diện đồ họa để dễ dàng làm việc với các kho lưu trữ Git, Mercurial (hg) và Subversion (svn) theo phong cách PySVN WorkBench
 x:
   source: https://github.com/barry-scott/scm-workbench
   dnf: scm-workbench

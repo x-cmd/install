@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 快照与比对环境的 CLI 工具，帮你找出关键差异
   en: 'cli tool to snapshot and diff environments - helping find the differences that matter'
+  cs: CLI nástroj pro vytváření snímků a porovnávání prostředí, který pomáhá najít důležité rozdíly
+  de: CLI-Werkzeug zum Erstellen von Snapshots und zum Vergleich von Umgebungen, das hilft, die entscheidenden Unterschiede zu finden
+  es: herramienta de línea de comandos para crear instantáneas y comparar entornos, que ayuda a encontrar las diferencias que importan
+  fr: outil en ligne de commande pour instantané et comparer des environnements, afin de repérer les différences qui comptent
+  id: alat CLI untuk membuat snapshot dan membandingkan lingkungan, membantu menemukan perbedaan yang penting
+  it: strumento CLI per creare snapshot e confrontare ambienti, utile a individuare le differenze che contano
+  ja: 環境のスナップショット作成と差分比較を行い、重要な違いを見つけてくれるCLIツール
+  ko: 환경을 스냅샷하고 비교하여 중요한 차이를 찾아주는 CLI 도구
+  pl: Narzędzie CLI do tworzenia migawek i porównywania środowisk, pomagające znaleźć różnice, które mają znaczenie
+  pt: ferramenta de linha de comando para criar snapshots e comparar ambientes, ajudando a encontrar as diferenças que importam
+  ro: instrument CLI pentru a crea instantanee și a compara medii, ajutând la găsirea diferențelor care contează
+  ru: CLI-инструмент для создания снимков и сравнения окружений, помогающий найти важные различия
+  th: เครื่องมือ CLI สำหรับสร้างสแนปช็อตและเปรียบเทียบสภาพแวดล้อม ช่วยค้นหาความแตกต่างที่สำคัญ
+  tr: Ortamların anlık görüntülerini alıp karşılaştıran, önemli farkları bulmaya yardımcı olan CLI aracı
+  uk: CLI-інструмент для створення знімків і порівняння середовищ, що допомагає знайти важливі відмінності
+  vi: công cụ CLI để chụp ảnh và so sánh môi trường, giúp bạn tìm ra những khác biệt quan trọng
 x:
   source: https://github.com/GBerghoff/envdiff
   eget: GBerghoff/envdiff

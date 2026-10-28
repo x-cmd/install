@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 一款功能强大的命令行下载工具。它支持同时下载多个文件，并能够从多个来源获取数据，以提供更快的下载速度
   en: An efficient compression algorithm and tool designed to provide fast compression and decompression speeds while maintaining a high compression ratio
+  cs: Efektivní kompresní algoritmus a nástroj navržený pro rychlé kompresi a dekompresi při zachování vysokého kompresního poměru
+  de: Ein effizienter Kompressionsalgorithmus und ein Werkzeug, das für schnelle Komprimierung und Dekomprimierung bei hohem Kompressionsverhältnis sorgt
+  es: Un algoritmo de compresión eficiente y una herramienta diseñada para lograr una compresión y descompresión rápidas manteniendo un alto índice de compresión
+  fr: Un algorithme de compression efficace et un outil conçu pour assurer une compression et une décompression rapides tout en conservant un taux de compression élevé
+  id: Algoritma kompresi yang efisien dan alat yang dirancang untuk memberikan kecepatan kompresi dan dekompresi yang cepat dengan rasio kompresi yang tinggi
+  it: Un algoritmo di compressione efficiente e uno strumento progettato per fornire velocità di compressione e decompressione rapide mantenendo un elevato rapporto di compressione
+  ja: 高い圧縮率を保ちながら高速な圧縮と展開を提供する、効率的な圧縮アルゴリズムとツール
+  ko: 높은 압축률을 유지하면서 빠른 압축 및 해제 속도를 제공하는 효율적인 압축 알고리즘과 도구
+  pl: Efektywny algorytm kompresji i narzędzie zapewniające szybkie kompresowanie i dekompresję przy zachowaniu wysokiego współczynnika kompresji
+  pt: Um algoritmo de compressão eficiente e uma ferramenta concebida para provide compressão e descompressão rápidas, mantendo uma elevada taxa de compressão
+  ro: Un algoritm eficient de compresie și un instrument conceput pentru a oferi viteze rapide de compresie și decompresie, păstrând un raport de compresie ridicat
+  ru: Эффективный алгоритм сжатия и инструмент, обеспечивающий быстрое сжатие и распаковку при сохранении высокой степени сжатия
+  th: อัลกอริทึมการบีบอัดที่มีประสิทธิภาพและเครื่องมือที่ออกแบบมาเพื่อให้การบีบอัดและแตกกลับได้อย่างรวดเร็วโดยคงอัตราการบีบอัดสูงไว้
+  tr: Yüksek sıkıştırma oranını korurken hızlı sıkıştırma ve açma sağlayan verimli bir sıkıştırma algoritması ve aracı
+  uk: Ефективний алгоритм стиснення та інструмент, що забезпечує швидке стиснення і розпакування зі збереженням високого коефіцієнта стиснення
+  vi: Thuật toán nén hiệu quả và công cụ được thiết kế để mang lại tốc độ nén và giải nén nhanh trong khi vẫn giữ tỷ lệ nén cao
 x:
   source: https://github.com/aria2/aria2
   eget: aria2/aria2

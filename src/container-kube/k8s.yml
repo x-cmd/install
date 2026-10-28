@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubernetes 是一个开源容器编排引擎，用于自动部署、扩展和管理容器化应用程序
   en: Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications
+  cs: Kubernetes je open source orchestrátor kontejnerů pro automatizaci nasazování, škálování a správy kontejnerizovaných aplikací
+  de: Kubernetes ist eine quelloffene Container-Orchestrierungs-Engine zur Automatisierung von Bereitstellung, Skalierung und Verwaltung containerisierter Anwendungen
+  es: Kubernetes es un motor de orquestación de contenedores de código abierto para automatizar el despliegue, el escalado y la gestión de aplicaciones contenedorizadas
+  fr: Kubernetes est un moteur d'orchestration de conteneurs open source pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées
+  id: Kubernetes adalah mesin orkestrasi kontainer sumber terbuka untuk mengotomatiskan deployment, penskalaan, dan pengelolaan aplikasi terkontainerisasi
+  it: Kubernetes è un motore di orchestrazione di container open source per automatizzare il deployment, il ridimensionamento e la gestione delle applicazioni containerizzate
+  ja: Kubernetes はコンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するオープンソースのコンテナオーケストレーションエンジンです
+  ko: Kubernetes는 컨테이너화된 애플리케이션의 배포, 스케일링, 관리를 자동화하는 오픈 소스 컨테이너 오케스트레이션 엔진입니다
+  pl: Kubernetes to otwartoźródłowy silnik orkiestracji kontenerów służący do automatyzacji wdrażania, skalowania i zarządzania aplikacjami kontenerowymi
+  pt: Kubernetes é um mecanismo open source de orquestração de contêineres para automatizar implantação, escalonamento e gerenciamento de aplicações containerizadas
+  ro: Kubernetes este un motor de orchestrare a containerelor open source pentru automatizarea implementării, scalării și gestionării aplicațiilor containerizate
+  ru: Kubernetes — это движок оркестрации контейнеров с открытым исходным кодом для автоматизации развёртывания, масштабирования и управления контейнеризированными приложениями
+  th: Kubernetes คือเอนจินการจัดการคอนเทนเนอร์แบบโอเพนซอร์สสำหรับการทำให้การดีพลอย การปรับขนาด และการจัดการแอปพลิเคชันที่ทำเป็นคอนเทนเนอร์เป็นอัตโนมัติ
+  tr: Kubernetes, konteynerleştirilmiş uygulamaların dağıtımını, ölçeklendirilmesini ve yönetimini otomatikleştiren açık kaynaklı bir konteyner orkestrasyon motorudur
+  uk: Kubernetes — це рухій оркестрації контейнерів з відкритим кодом для автоматизації розгортання, масштабування та керування контейнеризованими застосунками
+  vi: Kubernetes là công cụ điều phối container mã nguồn mở để tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng đóng gói container
 x:
   source: https://github.com/kubernetes/kubernetes
   apt: kubernetes

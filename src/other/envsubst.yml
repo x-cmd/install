@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 管理 go 的环境变量
   en: Environment variables substitution for Go
+  cs: Substituce proměnných prostředí pro Go
+  de: Substitution von Umgebungsvariablen für Go
+  es: Sustitución de variables de entorno para Go
+  fr: Substitution de variables d'environnement pour Go
+  id: Substitusi variabel lingkungan untuk Go
+  it: Sostituzione di variabili d'ambiente per Go
+  ja: Go 用の環境変数置換ツール
+  ko: Go용 환경 변수 치환 도구
+  pl: Podmiana zmiennych środowiskowych dla Go
+  pt: Substituição de variáveis de ambiente para Go
+  ro: Înlocuirea variabilelor de mediu pentru Go
+  ru: Подстановка переменных окружения для Go
+  th: การแทนที่ตัวแปรสภาพแวดล้อมสำหรับ Go
+  tr: Go için ortam değişkeni değiştirme
+  uk: Підстановка змінних оточення для Go
+  vi: Thay thế biến môi trường cho Go
 x:
   source: https://github.com/a8m/envsubst
   eget: a8m/envsubst

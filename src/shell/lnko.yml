@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 简洁的 stow 风格 dotfile 链接器
   en: 'Simple stow-like dotfile linker'
+  cs: Jednoduchý linker dotfile ve stylu stow
+  de: Einfacher Dotfile-Linker im Stow-Stil
+  es: Enlazador de dotfiles sencillo al estilo de stow
+  fr: Simple lieur de dotfiles dans le style de stow
+  id: Peggang dotfile sederhana ala stow
+  it: Semplice linker di dotfile in stile stow
+  ja: stow 風のシンプルな dotfile リンカー
+  ko: 간단한 stow 스타일 dotfile 링커
+  pl: Prosty linker plików dotfile w stylu stow
+  pt: Vinculador de dotfiles simples no estilo stow
+  ro: Un linkator de dotfile simplu, în stilul stow
+  ru: Простой линкер dotfile в стиле stow
+  th: ตัวเชื่อมไฟล์ dotfile แบบเรียบง่ายในสไตล์ stow
+  tr: stow tarzında basit dotfile bağlayıcısı
+  uk: Простий лінкер dotfile у стилі stow
+  vi: Trình liên kết dotfile đơn giản theo phong cách stow
 x:
   source: https://github.com/luanvil/lnko
   eget: luanvil/lnko

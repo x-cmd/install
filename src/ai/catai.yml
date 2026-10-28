@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Llama 模型的聊天 UI 和本地 API
   en: Chat UI and Local API for the Llama models
+  cs: Chatovací UI a lokální API pro modely Llama
+  de: Chat-UI und lokale API für die Llama-Modelle
+  es: Interfaz de chat y API local para los modelos Llama
+  fr: Interface de chat et API locale pour les modèles Llama
+  id: UI obrolan dan API lokal untuk model Llama
+  it: UI di chat e API locale per i modelli Llama
+  ja: Llama モデルのチャット UI とローカル API
+  ko: Llama 모델을 위한 채팅 UI 및 로컬 API
+  pl: Interfejs czatu i lokalne API dla modeli Llama
+  pt: Interface de chat e API local para os modelos Llama
+  ro: Interfață de chat și API local pentru modelele Llama
+  ru: Чат-интерфейс и локальный API для моделей Llama
+  th: แชต UI และ Local API สำหรับโมเดล Llama
+  tr: Llama modelleri için sohbet arayüzü ve yerel API
+  uk: Чат-інтерфейс і локальний API для моделей Llama
+  vi: Giao diện trò chuyện và API cục bộ cho các mô hình Llama
 x:
   source: https://github.com/withcatai/catai
   npm: catai

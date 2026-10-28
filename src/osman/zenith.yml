@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个系统资源监控工具，用来监控 CPU、内存、硬盘、网络等系统资源
   en: A system resource monitoring tool that monitors system resources such as CPU, memory, hard disk, network, etc
+  cs: Nástroj pro monitorování systémových zdrojů, který sleduje systémové zdroje, jako je CPU, paměť, pevný disk, síť atd.
+  de: Ein Systemressourcen-Überwachungstool, das Systemressourcen wie CPU, Arbeitsspeicher, Festplatte, Netzwerk usw. überwacht
+  es: Una herramienta de monitorización de recursos del sistema que vigila recursos como la CPU, la memoria, el disco duro, la red, etc.
+  fr: Un outil de surveillance des ressources système qui surveille les ressources système telles que le CPU, la mémoire, le disque dur, le réseau, etc.
+  id: Alat pemantauan sumber daya sistem yang memantau sumber daya sistem seperti CPU, memori, hard disk, jaringan, dan sebagainya
+  it: Uno strumento di monitoraggio delle risorse di sistema che monitora risorse come CPU, memoria, disco rigido, rete, ecc.
+  ja: CPU、メモリ、ハードディスク、ネットワークなどのシステムリソースを監視するシステムリソースモニタリングツール
+  ko: CPU, 메모리, 하드 디스크, 네트워크 등 시스템 자원을 감시하는 시스템 자원 모니터링 도구
+  pl: Narzędzie do monitorowania zasobów systemu, które śledzi zasoby systemu, takie jak CPU, pamięć, dysk twardy, sieć itp.
+  pt: Uma ferramenta de monitoramento de recursos do sistema que monitora recursos do sistema como CPU, memória, disco rígido, rede etc.
+  ro: Un instrument de monitorizare a resurselor de sistem care monitorizează resurse precum CPU, memoria, discul hard, rețeaua etc.
+  ru: Инструмент мониторинга системных ресурсов, отслеживающий такие ресурсы, как процессор, память, жёсткий диск, сеть и т. д.
+  th: เครื่องมือตรวจสอบทรัพยากรระบบที่ตรวจสอบทรัพยากรระบบ เช่น CPU หน่วยความจำ ดิสก์ฮาร์ดไดรฟ์ เครือข่าย เป็นต้น
+  tr: CPU, bellek, sabit disk, ağ gibi sistem kaynaklarını izleyen bir sistem kaynak izleme aracı
+  uk: Інструмент моніторингу системних ресурсів, який відстежує такі ресурси, як процесор, пам'ять, жорсткий диск, мережа тощо
+  vi: Công cụ theo dõi tài nguyên hệ thống, giám sát các tài nguyên như CPU, bộ nhớ, ổ cứng, mạng, v.v.
 x:
   source: https://github.com/bvaisvil/zenith
   eget: bvaisvil/zenith

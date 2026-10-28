@@ -4,6 +4,22 @@ lang: JavaScript
 desc:
   cn: 校验 git commit 提交信息
   en: Lint your git commit messages
+  cs: Lintujte své git commit zprávy
+  de: Linting Ihrer git-Commit-Nachrichten
+  es: Analiza estática de tus mensajes de commit de git
+  fr: Analysez vos messages de commit git
+  id: Lint pesan commit git Anda
+  it: Esegui il lint dei tuoi messaggi di commit git
+  ja: git のコミットメッセージを検証します
+  ko: git 커밋 메시지를 린트합니다
+  pl: Sprawdzaj swoje wiadomości commit git
+  pt: Faça o lint das suas mensagens de commit do git
+  ro: Verifică mesajele tale de commit git
+  ru: Проверяйте свои сообщения коммитов git
+  th: ตรวจสอบข้อความคอมมิต git ของคุณ
+  tr: Git commit mesajlarınızı denetleyin
+  uk: Перевіряйте свої повідомлення комітів git
+  vi: Kiểm tra các thông điệp commit git của bạn
 x:
   source: https://github.com/conventional-changelog/commitlint
   brew: commitlint

@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: C23 带检查的算术运算
   en: C23 Checked Arithmetic
+  cs: C23 s kontrolovanou aritmetikou
+  de: C23 Geprüfte Arithmetik
+  es: Aritmética comprobada de C23
+  fr: Arithmétique vérifiée de C23
+  id: Aritmatika bertanda C23
+  it: Aritmetica controllata di C23
+  ja: C23 のチェック付き算術
+  ko: C23 검증 산술
+  pl: Arytmetyka z kontrolą z C23
+  pt: Aritmética verificada do C23
+  ro: Aritmetică verificată în C23
+  ru: Проверяемая арифметика C23
+  th: คณิตศาสตร์แบบตรวจสอบของ C23
+  tr: C23 denetimli aritmetik
+  uk: Перевірена арифметика C23
+  vi: Số học có kiểm tra của C23
 x:
   source: https://github.com/jart/jtckdint
   eget: jart/jtckdint

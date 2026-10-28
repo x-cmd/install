@@ -3,6 +3,22 @@ homepage: https://github.com/mooz/percol
 desc:
   cn: 在 UNIX 上的传统管道概念中添加交互式选择的风格
   en: adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+  cs: Přidává styl interaktivního filtrování ke konvenčnímu konceptu pipe v UNIX shell
+  de: Fügt dem traditionellen Pipe-Konzept der UNIX-Shell interaktives Filtern hinzu
+  es: Añade un sabor de filtrado interactivo al concepto tradicional de pipe del shell de UNIX
+  fr: Apporte une touche de filtrage interactif au concept traditionnel du pipe du shell UNIX
+  id: Menambahkan nuansa filter interaktif pada konsep pipe tradisional pada shell UNIX
+  it: Aggiunge un tocco di filtraggio interattivo al tradizionale concetto di pipe della shell UNIX
+  ja: UNIX シェルの従来のパイプの概念にインタラクティブ絞り込みの flavour を加える
+  ko: UNIX 셸의 전통적인 파이프 개념에 대화형 필터링의 flavour를 더합니다
+  pl: Dodaje odcień interaktywnego filtrowania do tradycyjnej koncepcji potoku w powłoce UNIX
+  pt: Adiciona um toque de filtragem interativa ao conceito tradicional de pipe do shell UNIX
+  ro: Adaugă un plus de filtrare interactivă la conceptul tradițional de pipe al shell-ului UNIX
+  ru: Добавляет интерактивную фильтрацию к традиционной концепции конвейера в оболочке UNIX
+  th: เพิ่มความเป็นแบบโต้ตอบของการกรองให้กับแนวคิดท่อแบบดั้งเดิมของเชลล์ UNIX
+  tr: UNIX kabuğunun geleneksel pipe kavramına etkileşimli filtreleme zevkini katar
+  uk: Додає інтерактивне фільтрування до традиційної концепції конвеєра в оболонці UNIX
+  vi: Bổ sung tính năng lọc tương tác vào khái niệm pipe truyền thống của shell UNIX
 x:
   source: https://github.com/mooz/percol
   yay: percol-git

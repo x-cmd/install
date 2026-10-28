@@ -3,6 +3,22 @@ homepage: https://github.com/ssadedin/bpipe
 desc:
   cn: 一个用于构建和管理生物信息学流程的工具
   en: a tool for running and managing bioinformatics pipelines
+  cs: nástroj pro spouštění a správu bioinformatických pipeline
+  de: ein Werkzeug zum Ausführen und Verwalten von Bioinformatik-Pipelines
+  es: una herramienta para ejecutar y gestionar canalizaciones de bioinformática
+  fr: un outil pour exécuter et gérer des pipelines de bioinformatique
+  id: alat untuk menjalankan dan mengelola pipeline bioinformatika
+  it: uno strumento per eseguire e gestire pipeline di bioinformatica
+  ja: バイオインフォマティクス・パイプラインを実行・管理するためのツール
+  ko: 생물정보학 파이프라인을 실행하고 관리하는 도구
+  pl: narzędzie do uruchamiania i zarządzania potokami bioinformatycznymi
+  pt: uma ferramenta para executar e gerenciar pipelines de bioinformática
+  ro: un instrument pentru rularea și gestionarea fluxurilor de bioinformatică
+  ru: инструмент для запуска и управления конвейерами биоинформатики
+  th: เครื่องมือสำหรับรันและจัดการไปป์ไลน์ไบโออินโฟร์มาติกส์
+  tr: biyoinformatik işlem hatlarını çalıştırmak ve yönetmek için bir araç
+  uk: інструмент для запуску та керування конвеєрами біоінформатики
+  vi: công cụ để chạy và quản lý pipeline tin sinh học
 x:
   source: https://github.com/ssadedin/bpipe
   eget: ssadedin/bpipe

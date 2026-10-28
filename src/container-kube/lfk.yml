@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 受 yazi 启发的极速键盘操作 Kubernetes TUI，三栏 Miller 布局
   en: '⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller c...'
+  cs: ⚡ LFK je bleskurychlé, na klávesnici zaměřené terminálové uživatelské rozhraní inspirované yazi pro navigaci a správu clusterů Kubernetes, postavené na rychlost a efektivitu, se třísloupcovým Millerovým rozvržením
+  de: ⚡ LFK ist eine blitzschnelle, tastaturorientierte, yazi-inspirierte Terminal-Benutzeroberfläche zum Navigieren und Verwalten von Kubernetes-Clustern, gebaut für Geschwindigkeit und Effizienz mit einem dreispaltigen Miller-Layout
+  es: ⚡ LFK es una interfaz de usuario de terminal ultrarrápida, centrada en el teclado e inspirada en yazi para navegar y gestionar clústeres de Kubernetes, diseñada para la velocidad y la eficiencia con una distribución de Miller de tres columnas
+  fr: ⚡ LFK est une interface utilisateur terminal très rapide, orientée clavier et inspirée de yazi, pour naviguer et gérer des clusters Kubernetes, conçue pour la vitesse et l'efficacité avec une disposition Miller à trois colonnes
+  id: ⚡ LFK adalah antarmuka pengguna terminal yang sangat cepat, berfokus pada keyboard, terinspirasi yazi untuk menavigasi dan mengelola klaster Kubernetes, dirancang untuk kecepatan dan efisiensi dengan tata letak Miller tiga kolom
+  it: ⚡ LFK è un'interfaccia utente terminale velocissima, focalizzata sulla tastiera e ispirata a yazi per navigare e gestire cluster Kubernetes, progettata per velocità ed efficienza con un layout Miller a tre colonne
+  ja: ⚡ LFK は超高速でキーボード操作中心の、yazi から着想を得た Kubernetes クラスタの閲覧と管理のためのターミナルユーザーインターフェースです。高速性と効率性を重視し、3列の Miller レイアウトを採用しています
+  ko: ⚡ LFK는 Kubernetes 클러스터를 탐색하고 관리하기 위한 매우 빠르고 키보드 중심이며 yazi에서 영감을 받은 터미널 사용자 인터페이스로, 속도와 효율성을 위해 구축된 3열 Miller 레이아웃입니다
+  pl: ⚡ LFK to błyskawiczny, skoncentrowany na klawiaturze terminalowy interfejs użytkownika inspirowany yazi, służący do nawigacji i zarządzania klastrami Kubernetes, zbudowany z myślą o szybkości i wydajności, z trzykolumnowym układem Millera
+  pt: ⚡ LFK é uma interface de usuário de terminal extremamente rápida, focada no teclado e inspirada no yazi para navegar e gerenciar clusters do Kubernetes, construída para velocidade e eficiência com layout Miller de três colunas
+  ro: ⚡ LFK este o interfață de utilizator terminală ultrarapidă, orientată pe tastatură și inspirată de yazi pentru navigarea și gestionarea clusterelor Kubernetes, construită pentru viteză și eficiență cu o dispunere Miller în trei coloane
+  ru: ⚡ LFK — это сверхбыстрый, ориентированный на клавиатуру терминальный интерфейс пользователя, вдохновлённый yazi, для навигации и управления кластерами Kubernetes, созданный для скорости и эффективности с трёхколоночной раскладкой Миллера
+  th: ⚡ LFK คือเทอร์มินัลยูสเซอร์อินเตอร์เฟซที่เร็วดั่งไฟ เน้นการใช้คีย์บอร์ด ได้แรงบันดาลใจจาก yazi สำหรับการนำทางและจัดการคลัสเตอร์ Kubernetes ออกแบบมาเพื่อความเร็วและประสิทธิภาพ พร้อมเลย์เอาต์ Miller สามคอลัมน์
+  tr: ⚡ LFK, Kubernetes kümelerinde gezinmek ve yönetmek için yazi'den esinlenen, çok hızlı ve klavyeye odaklı bir terminal kullanıcı arayüzüdür; hız ve verimlilik için üç sütunlu Miller düzeniyle tasarlanmıştır
+  uk: ⚡ LFK — це надзвичайно швидкий, орієнтований на клавіатуру термінальний інтерфейс користувача, натхненний yazi, для навігації та керування кластерами Kubernetes, створений для швидкості та ефективності з триколонковою розкладкою Міллера
+  vi: ⚡ LFK là giao diện người dùng terminal cực nhanh, lấy trọng tâm bàn phím và lấy cảm hứng từ yazi để điều hướng và quản lý cụm Kubernetes, được xây dựng để tốc độ và hiệu quả với bố cục Miller ba cột
 x:
   source: https://github.com/janosmiko/lfk
   eget: janosmiko/lfk

@@ -3,6 +3,22 @@ homepage: https://github.com/CocoaPods/CocoaPods
 desc:
   cn: CocoaPods 是 Swift 和 Objective-C Cocoa 项目的依赖管理器
   en: CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects
+  cs: CocoaPods je správce závislostí pro projekty Swift a Objective-C Cocoa
+  de: CocoaPods ist ein Abhängigkeitsmanager für Swift- und Objective-C-Cocoa-Projekte
+  es: CocoaPods es un gestor de dependencias para proyectos de Swift y Objective-C Cocoa
+  fr: CocoaPods est un gestionnaire de dépendances pour les projets Swift et Objective-C Cocoa
+  id: CocoaPods adalah pengelola dependensi untuk proyek Swift dan Objective-C Cocoa
+  it: CocoaPods è un gestore delle dipendenze per progetti Swift e Objective-C Cocoa
+  ja: CocoaPods は Swift と Objective-C の Cocoa プロジェクト向けの依存関係マネージャーです
+  ko: CocoaPods는 Swift 및 Objective-C Cocoa 프로젝트의 의존성 관리자입니다
+  pl: CocoaPods to menedżer zależności dla projektów Swift i Objective-C Cocoa
+  pt: CocoaPods é um gerenciador de dependências para projetos Swift e Objective-C Cocoa
+  ro: CocoaPods este un manager de dependențe pentru proiecte Swift și Objective-C Cocoa
+  ru: CocoaPods — менеджер зависимостей для проектов на Swift и Objective-C Cocoa
+  th: CocoaPods คือตัวจัดการการพึ่งพาสำหรับโปรเจกต์ Swift และ Objective-C Cocoa
+  tr: CocoaPods, Swift ve Objective-C Cocoa projeleri için bir bağımlılık yöneticisidir
+  uk: CocoaPods — менеджер залежностей для проєктів на Swift та Objective-C Cocoa
+  vi: CocoaPods là trình quản lý phụ thuộc cho các dự án Swift và Objective-C Cocoa
 x:
   source: https://github.com/CocoaPods/CocoaPods
   brew: cocoapods

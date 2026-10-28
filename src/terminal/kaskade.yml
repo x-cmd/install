@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Kaskade is a text user interface (TUI) for Apache Kafka
   cn: Kaskade 是一个用于 Apache Kafka 的文本用户界面（TUI）。
+  cs: Kaskade je textové uživatelské rozhraní (TUI) pro Apache Kafka
+  de: Kaskade ist eine textbasierte Benutzeroberfläche (TUI) für Apache Kafka
+  es: Kaskade es una interfaz de usuario de texto (TUI) para Apache Kafka
+  fr: Kaskade est une interface utilisateur textuelle (TUI) pour Apache Kafka
+  id: Kaskade adalah antarmuka pengguna berbasis teks (TUI) untuk Apache Kafka
+  it: Kaskade è un'interfaccia utente testuale (TUI) per Apache Kafka
+  ja: Kaskade は Apache Kafka のためのテキストユーザーインターフェース (TUI) です
+  ko: Kaskade는 Apache Kafka를 위한 텍스트 사용자 인터페이스(TUI)입니다
+  pl: Kaskade to tekstowy interfejs użytkownika (TUI) dla Apache Kafka
+  pt: Kaskade é uma interface de usuário em texto (TUI) para Apache Kafka
+  ro: Kaskade este o interfață utilizator bazată pe text (TUI) pentru Apache Kafka
+  ru: Kaskade — текстовый пользовательский интерфейс (TUI) для Apache Kafka
+  th: Kaskade คือส่วนติดต่อผู้ใช้แบบข้อความ (TUI) สำหรับ Apache Kafka
+  tr: Kaskade, Apache Kafka için metin tabanlı bir kullanıcı arayüzüdür (TUI)
+  uk: Kaskade — текстовий інтерфейс користувача (TUI) для Apache Kafka
+  vi: Kaskade là giao diện người dùng dạng văn bản (TUI) cho Apache Kafka
 x:
   source: https://github.com/sauljabin/kaskade
   eget: sauljabin/kaskade

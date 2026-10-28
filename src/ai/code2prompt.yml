@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 将代码库转换为单一 LLM 提示词的 Rust CLI，支持源码树、Handlebars 模板、token 计数、Git 集成，并提供 Python SDK 与 MCP Server
   en: A Rust CLI that converts a codebase into a single LLM prompt with source tree, Handlebars templating, token counting and Git integration; ships with a Python SDK and MCP Server.
+  cs: CLI v Rustu, které převádí kódovou základnu na jediný LLM prompt se stromem zdrojového kódu, šablonami Handlebars, počítáním tokenů a integrací s Git; dodává se s Python SDK a MCP Server.
+  de: Eine Rust-CLI, die eine Codebasis in einen einzigen LLM-Prompt umwandelt – mit Quellbaum, Handlebars-Templating, Tokenzählung und Git-Integration; liefert Python SDK und MCP Server mit.
+  es: Una CLI en Rust que convierte una base de código en un único prompt de LLM con árbol de fuentes, plantillas Handlebars, recuento de tokens e integración con Git; incluye un SDK de Python y un MCP Server.
+  fr: Une CLI en Rust qui convertit une base de code en une seule invite LLM, avec arborescence des sources, gabarits Handlebars, comptage de tokens et intégration Git ; livrée avec un SDK Python et un MCP Server.
+  id: CLI Rust yang mengubah basis kode menjadi satu prompt LLM dengan pohon sumber, templating Handlebars, penghitungan token, dan integrasi Git; dikemas dengan Python SDK dan MCP Server.
+  it: Una CLI in Rust che converte una base di codice in un singolo prompt LLM con alberatura dei sorgenti, templating Handlebars, conteggio dei token e integrazione Git; include Python SDK e MCP Server.
+  ja: コードベースを単一の LLM プロンプトに変換する Rust CLI。ソースツリー、Handlebars テンプレート、トークンカウント、Git 統合に対応し、Python SDK と MCP Server が付属します。
+  ko: 코드베이스를 소스 트리, Handlebars 템플릿, 토큰 카운팅, Git 통합을 갖춘 하나의 LLM 프롬프트로 변환하는 Rust CLI이며, Python SDK와 MCP Server를 함께 제공합니다.
+  pl: CLI w Rustie, które zamienia bazę kodu w jeden prompt LLM z drzewem źródeł, szablonami Handlebars, liczeniem tokenów i integracją z Gitem; dostarczany z Python SDK i MCP Server.
+  pt: Uma CLI em Rust que converte uma base de código em um único prompt de LLM com árvore de fontes, templates Handlebars, contagem de tokens e integração com Git; vem com Python SDK e MCP Server.
+  ro: Un CLI în Rust care convertește o bază de cod într-un singur prompt LLM cu arbore de surse, șabloane Handlebars, numărare de tokeni și integrare Git; include Python SDK și MCP Server.
+  ru: CLI на Rust, преобразующая кодовую базу в единый LLM-промпт с деревом исходников, шаблонами Handlebars, подсчётом токенов и интеграцией с Git; поставляется с Python SDK и MCP Server.
+  th: CLI ที่เขียนด้วย Rust ซึ่งแปลงโค้ดเบสเป็น LLM prompt เดียว พร้อมโครงสร้างไฟล์ต้นทาง เทมเพลต Handlebars การนับ token และการผสานรวมกับ Git พร้อม Python SDK และ MCP Server
+  tr: Bir kod tabanını kaynak ağacı, Handlebars şablonlama, token sayma ve Git entegrasyonu ile tek bir LLM istemine dönüştüren Rust CLI; Python SDK ve MCP Server ile gelir.
+  uk: CLI на Rust, яка перетворює кодову базу на єдиний LLM-промпт із деревом вихідних файлів, шаблонами Handlebars, підрахунком токенів та інтеграцією з Git; постачається з Python SDK і MCP Server.
+  vi: CLI viết bằng Rust biến một codebase thành một prompt LLM duy nhất với cây mã nguồn, khuôn mẫu Handlebars, đếm token và tích hợp Git; đi kèm Python SDK và MCP Server.
 x:
   source: https://github.com/mufeedvh/code2prompt
   eget: mufeedvh/code2prompt

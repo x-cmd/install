@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 具有最小依赖性的 AUR 助手
   en: AUR helper with minimal dependencies
+  cs: AUR helper s minimálními závislostmi
+  de: AUR-Helfer mit minimalen Abhängigkeiten
+  es: Un ayudante de AUR con dependencias mínimas
+  fr: Un assistant AUR avec des dépendances minimales
+  id: Pembantu AUR dengan dependensi minimum
+  it: Un helper AUR con dipendenze minime
+  ja: 依存関係を抑えた AUR ヘルパー
+  ko: 의존성이 가장 적은 AUR 도우미
+  pl: Pomocnik AUR z minimalnymi zależnościami
+  pt: Um auxiliar do AUR com dependências mínimas
+  ro: Un ajutor AUR cu dependențe minime
+  ru: Помощник AUR с минимальными зависимостями
+  th: ตัวช่วย AUR ที่มีการพึ่งพาน้อยที่สุด
+  tr: Minimum bağımlılığa sahip bir AUR yardımcısı
+  uk: Помічник AUR з мінімальними залежностями
+  vi: Trình trợ giúp AUR với số phụ thuộc tối thiểu
 x:
   source: https://github.com/actionless/pikaur
   yay: pikaur

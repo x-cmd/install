@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: MCPM 是一个开源的服务和命令行界面(CLI)，用于管理模型上下文协议（MCP）服务器。
   en: MCPM is an open source service and a CLI package management tool for MCP servers.
+  cs: MCPM je open source služba a nástroj pro správu MCP serverů z příkazové řádky.
+  de: MCPM ist ein Open-Source-Dienst und ein CLI-Paketverwaltungstool für MCP-Server.
+  es: MCPM es un servicio de código abierto y una herramienta de línea de comandos para gestionar servidores MCP.
+  fr: MCPM est un service open source et un outil de gestion de paquets en ligne de commande pour les serveurs MCP.
+  id: MCPM adalah layanan sumber terbuka dan alat manajemen paket CLI untuk server MCP.
+  it: MCPM è un servizio open source e uno strumento CLI per la gestione dei pacchetti dei server MCP.
+  ja: MCPM はオープンソースのサービスであり、MCP サーバーを管理するための CLI パッケージ管理ツールです。
+  ko: MCPM은 MCP 서버를 위한 오픈 소스 서비스이자 CLI 패키지 관리 도구입니다.
+  pl: MCPM to otwartoźródłowa usługa i narzędzie CLI do zarządzania pakietami serwerów MCP.
+  pt: MCPM é um serviço de código aberto e uma ferramenta de linha de comando para gerenciar servidores MCP.
+  ro: MCPM este un servici open source și un instrument CLI de gestionare a pachetelor pentru servere MCP.
+  ru: MCPM — это сервис с открытым исходным кодом и CLI-инструмент для управления пакетами MCP-серверов.
+  th: MCPM เป็นบริการโอเพนซอร์สและเครื่องมือจัดการแพ็กเกจ CLI สำหรับเซิร์ฟเวอร์ MCP
+  tr: MCPM, MCP sunucuları için açık kaynaklı bir servis ve bir CLI paket yönetim aracıdır.
+  uk: MCPM — це сервіс з відкритим кодом та CLI-інструмент для керування пакетами MCP-серверів.
+  vi: MCPM là dịch vụ mã nguồn mở và công cụ quản lý gói CLI cho các máy chủ MCP.
 x:
   source: https://github.com/pathintegral-institute/mcpm.sh
   brew: mcpm

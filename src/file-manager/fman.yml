@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: TUI 文件管理器
   en: TUI File Manager
+  cs: Správce souborů TUI
+  de: TUI-Dateimanager
+  es: Gestor de archivos TUI
+  fr: Gestionnaire de fichiers TUI
+  id: Pengelola File TUI
+  it: File manager TUI
+  ja: TUI ファイルマネージャー
+  ko: TUI 파일 관리자
+  pl: Menedżer plików TUI
+  pt: Gerenciador de arquivos TUI
+  ro: Manager de fișiere TUI
+  ru: TUI файловый менеджер
+  th: ตัวจัดการไฟล์แบบ TUI
+  tr: TUI dosya yöneticisi
+  uk: TUI файловий менеджер
+  vi: Trình quản lý tệp TUI
 x:
   source: https://github.com/nore-dev/fman
   eget: nore-dev/fman

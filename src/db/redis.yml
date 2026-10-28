@@ -3,6 +3,22 @@ homepage: https://github.com/redis/redis
 desc:
   cn: Redis 是一个开源(BSD 许可)的内存中数据结构存储，用作数据库、缓存、消息代理和流引擎
   en: Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine
+  cs: Redis je open source (licencovaný BSD) úložiště datových struktur v paměti, používané jako databáze, cache, zprostředkovatel zpráv a streamovací engine
+  de: Redis ist ein quelloffenes (BSD-lizenziertes) In-Memory-Datenstrukturspeicher, der als Datenbank, Cache, Message-Broker und Stream-Engine dient
+  es: Redis es un almacén de estructuras de datos en memoria de código abierto (licencia BSD) que se usa como base de datos, caché, intermediario de mensajes y motor de streaming
+  fr: Redis est un magasin de structures de données en mémoire open source (sous licence BSD), utilisé comme base de données, cache, courtier de messages et moteur de streaming
+  id: Redis adalah penyimpanan struktur data dalam memori sumber terbuka (berlisensi BSD) yang digunakan sebagai basis data, cache, broker pesan, dan mesin streaming
+  it: Redis è un archivio di strutture dati in memoria open source (con licenza BSD), usato come database, cache, broker di messaggi e motore di streaming
+  ja: Redis はオープンソース（BSD ライセンス）のインメモリデータ構造ストアで、データベース、キャッシュ、メッセージブローカー、ストリーミングエンジンとして使われます
+  ko: Redis는 BSD 라이선스로 배포되는 오픈 소스 인메모리 데이터 구조 저장소로, 데이터베이스, 캐시, 메시지 브로커 및 스트리밍 엔진으로 사용됩니다
+  pl: Redis to otwartoźródłowe (na licencji BSD) magazyn struktur danych w pamięci, używany jako baza danych, pamięć podręczna, broker wiadomości i silnik strumieniowy
+  pt: O Redis é um repositório de estruturas de dados em memória de código aberto (licenciado sob BSD), usado como banco de dados, cache, broker de mensagens e mecanismo de streaming
+  ro: Redis este un depozit de structuri de date în memorie, open source (licențiat BSD), folosit ca bază de date, cache, broker de mesaje și motor de streaming
+  ru: Redis — это открытое (под лицензией BSD) хранилище структур данных в памяти, используемое как база данных, кэш, брокер сообщений и движок потоковой обработки
+  th: Redis คือคลังข้อมูลโครงสร้างในหน่วยความจำแบบโอเพนซอร์ส (ใบอนุญาต BSD) ที่ใช้เป็นฐานข้อมูล แคช ตัวกลางข้อความ และเอนจินสตรีมมิง
+  tr: Redis, veritabanı, önbellek, mesaj aracısı ve akış motoru olarak kullanılan açık kaynaklı (BSD lisanslı) bellek içi veri yapısı deposudur
+  uk: Redis — це відкрите (за ліцензією BSD) сховище структур даних у пам'яті, яке використовується як база даних, кеш, брокер повідомлень і потоковий рушій
+  vi: Redis là kho dữ liệu cấu trúc trong bộ nhớ mã nguồn mở (theo giấy phép BSD), dùng làm cơ sở dữ liệu, bộ nhớ đệm, trung gian tin nhắn và công cụ xử lý luồng
 x:
   source: https://github.com/redis/redis
   apt: redis-tools

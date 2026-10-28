@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: WeeChat 是一个快速、轻量且可扩展的聊天客户端，具有基于文本的用户界面。
   en: WeeChat is a fast, light and extensible chat client, with a text-based user interface.
+  cs: WeeChat je rychlý, lehký a rozšiřitelný chatovací klient s textovou uživatelskou rozhraní.
+  de: WeeChat ist ein schneller, leichter und erweiterbarer Chat-Client mit einer textbasierten Benutzeroberfläche.
+  es: WeeChat es un cliente de chat rápido, ligero y extensible, con una interfaz de usuario basada en texto.
+  fr: WeeChat est un client de discussion rapide, léger et extensible, avec une interface utilisateur en mode texte.
+  id: WeeChat adalah klien obrolan yang cepat, ringan, dan dapat diperluas, dengan antarmuka pengguna berbasis teks.
+  it: WeeChat è un client di chat veloce, leggero ed estensibile, con un'interfaccia utente basata su testo.
+  ja: WeeChat は、テキストベースのユーザーインターフェースを備えた高速で軽量、かつ拡張可能なチャットクライアントです。
+  ko: WeeChat은(는) 텍스트 기반 사용자 인터페이스를 갖춘 빠르고 가볍고 확장 가능한 채팅 클라이언트입니다.
+  pl: WeeChat to szybki, lekki i rozszerzalny klient czatu z interfejsem użytkownika opartym na tekście.
+  pt: WeeChat é um cliente de chat rápido, leve e extensível, com uma interface de usuário baseada em texto.
+  ro: WeeChat este un client de chat rapid, ușor și extensibil, cu o interfață de utilizator bazată pe text.
+  ru: WeeChat — быстрый, лёгкий и расширяемый чат-клиент с текстовым пользовательским интерфейсом.
+  th: WeeChat คือไคลเอนต์แชทที่รวดเร็ว เบา และขยายได้ พร้อมส่วนติดต่อผู้ใช้แบบข้อความ
+  tr: WeeChat, metin tabanlı bir kullanıcı arayüzüne sahip hızlı, hafif ve genişletilebilir bir sohbet istemcisidir.
+  uk: WeeChat — швидкий, легкий і розширюваний чат-клієнт із текстовим користувацьким інтерфейсом.
+  vi: WeeChat là ứng dụng khách chat nhanh, nhẹ và có thể mở rộng, với giao diện người dùng dựa trên văn bản.
 x:
   source: https://github.com/weechat/weechat
   apt: weechat-curses

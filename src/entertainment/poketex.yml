@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 基于 TUI（终端用户界面）的简单图鉴
   en: Simple Pokedex based on TUI(Terminal User Interface)
+  cs: Jednoduchý Pokedex založený na TUI (uživatelském rozhraní terminálu)
+  de: Ein einfaches Pokédex auf Basis von TUI (Terminal User Interface)
+  es: Simple Pokedex basado en TUI (Terminal User Interface)
+  fr: Un simple Pokédex basé sur une TUI (interface utilisateur terminal)
+  id: Pokedex sederhana berbasis TUI (Terminal User Interface)
+  it: Semplice Pokédex basato su TUI (interfaccia utente da terminale)
+  ja: TUI（ターミナルユーザーインターフェース）によるシンプルな pokedex
+  ko: TUI(터미널 사용자 인터페이스) 기반의 간단한 포켓덱
+  pl: Prosty Pokedex oparty na TUI (interfejsie użytkownika terminala)
+  pt: Pokedex simples baseado em TUI (Terminal User Interface)
+  ro: Un Pokedex simplu bazat pe TUI (Terminal User Interface)
+  ru: Простой Pokedex на основе TUI (терминального пользовательского интерфейса)
+  th: Pokedex ง่าย ๆ ที่สร้างบนพื้นฐานของ TUI (Terminal User Interface)
+  tr: TUI (Terminal User Interface) tabanlı basit bir Pokédex
+  uk: Простий Pokedex на основі TUI (термінального користувацького інтерфейсу)
+  vi: Pokédex đơn giản dựa trên TUI (Terminal User Interface)
 x:
   source: https://github.com/ckaznable/poketex
   eget: ckaznable/poketex

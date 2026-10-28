@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文
   en: Atuin replaces the existing shell history with a SQLite database and records additional context for the command
+  cs: Atuin nahrazuje existující historii shellu databází SQLite a zaznamenává další kontext příkazů
+  de: Atuin ersetzt die vorhandene Shell-Historie durch eine SQLite-Datenbank und zeichnet zusätzlichen Kontext für den Befehl auf
+  es: Atuin reemplaza el historial de shell existente con una base de datos SQLite y registra contexto adicional para el comando
+  fr: Atuin remplace l'historique du shell existant par une base de données SQLite et enregistre un contexte supplémentaire pour la commande
+  id: Atuin menggantikan riwayat shell yang ada dengan basis data SQLite dan mencatat konteks tambahan untuk perintah
+  it: Atuin sostituisce la cronologia della shell esistente con un database SQLite e registra un contesto aggiuntivo per il comando
+  ja: Atuin は既存のシェル履歴を SQLite データベースに置き換え、コマンドの追加コンテキストを記録します
+  ko: Atuin은 기존 셸 기록을 SQLite 데이터베이스로 대체하고 명령에 대한 추가 컨텍스트를 기록합니다
+  pl: Atuin zastępuje istniejącą historię powłoki bazą danych SQLite i zapisuje dodatkowy kontekst polecenia
+  pt: Atuin substitui o histórico do shell existente por um banco de dados SQLite e registra contexto adicional para o comando
+  ro: Atuin înlocuiește istoricul shell-ului existent cu o bază de date SQLite și înregistrează context suplimentar pentru comandă
+  ru: Atuin заменяет существующую историю оболочки базой данных SQLite и записывает дополнительный контекст команды
+  th: Atuin แทนที่ประวัติเชลล์เดิมด้วยฐานข้อมูล SQLite และบันทึกบริบทเพิ่มเติมของคำสั่ง
+  tr: Atuin, mevcut kabuk geçmişini SQLite veritabanıyla değiştirir ve komut için ek bağlam kaydeder
+  uk: Atuin замінює наявну історію оболонки базою даних SQLite та записує додатковий контекст команди
+  vi: Atuin thay thế lịch sử shell hiện có bằng cơ sở dữ liệu SQLite và ghi lại ngữ cảnh bổ sung cho lệnh
 homepage: https://github.com/atuinsh/atuin
 license: MIT
 x:

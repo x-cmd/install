@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个简单的 npm 命令 TUI
   en: A simple TUI for npm commands.
+  cs: Jednoduché TUI pro příkazy npm.
+  de: Ein einfaches TUI für npm-Befehle.
+  es: Una TUI sencilla para comandos de npm.
+  fr: Une TUI simple pour les commandes npm.
+  id: TUI sederhana untuk perintah npm.
+  it: Una TUI semplice per i comandi npm.
+  ja: npm コマンド用のシンプルな TUI。
+  ko: npm 명령을 위한 간단한 TUI.
+  pl: Prosty TUI dla poleceń npm.
+  pt: Uma TUI simples para comandos npm.
+  ro: Un TUI simplu pentru comenzi npm.
+  ru: Простой TUI для команд npm.
+  th: TUI อย่างง่ายสำหรับคำสั่ง npm
+  tr: npm komutları için basit bir TUI.
+  uk: Простий TUI для команд npm.
+  vi: Một TUI đơn giản cho các lệnh npm.
 x:
   source: https://github.com/jesseduffield/lazynpm
   eget: jesseduffield/lazynpm

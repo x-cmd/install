@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 受 man 启发的 Markdown 查看器
   en: 'man-page inspired Markdown viewer'
+  cs: Prohlížeč Markdown inspirovaný man stránkami
+  de: Ein Markdown-Betrachter im Stil von man-Seiten
+  es: un visor de Markdown inspirado en las páginas man
+  fr: une visionneuse Markdown inspirée des pages man
+  id: Penampil Markdown terinspirasi halaman man
+  it: un visualizzatore Markdown ispirato alle pagine man
+  ja: man ページにインスパイアされた Markdown ビューア
+  ko: man 페이지를 참고한 Markdown 뷰어
+  pl: Przeglądarka Markdown inspirowana stronami man
+  pt: um visualizador de Markdown inspirado nas páginas man
+  ro: o vizualizator Markdown inspirat de paginile man
+  ru: Просмотрщик Markdown, вдохновлённый страницами man
+  th: โปรแกรมดู Markdown ได้แรงบันดาลใจจาก man page
+  tr: man sayfalarından esinlenen bir Markdown görüntüleyici
+  uk: Переглядач Markdown, натхненний сторінками man
+  vi: Trình xem Markdown lấy cảm hứng từ trang man
 x:
   source: https://github.com/Titor8115/mandown
   eget: Titor8115/mandown

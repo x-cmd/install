@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Shadowsocks 是一个快速隧道代理，可以帮助您绕过防火墙
   en: shadowsocks is a fast tunnel proxy that helps you bypass firewalls
+  cs: Shadowsocks je rychlý tunelový proxy, který vám pomůže obejít firewally
+  de: Shadowsocks ist ein schneller Tunnel-Proxy, mit dem Sie Firewalls umgehen können
+  es: Shadowsocks es un proxy de túnel rápido que te ayuda a sortear firewalls
+  fr: Shadowsocks est un proxy de tunnel rapide qui vous aide à contourner les pare-feu
+  id: Shadowsocks adalah proxy tunnel cepat yang membantu Anda melewati firewall
+  it: Shadowsocks è un veloce proxy a tunnel che ti aiuta a aggirare i firewall
+  ja: Shadowsocks はファイアウォールの回避に役立つ高速なトンネルプロキシです
+  ko: Shadowsocks는 방화벽을 우회하도록 도와주는 빠른 터널 프록시입니다
+  pl: Shadowsocks to szybki proxy tunelowy, który pomaga omijać zapory sieciowe
+  pt: Shadowsocks é um proxy de túnel rápido que ajuda você a contornar firewalls
+  ro: Shadowsocks este un proxy de tunel rapid care vă ajută să ocoliți firewall-urile
+  ru: Shadowsocks — это быстрый туннельный прокси, который помогает обходить брандмауэры
+  th: Shadowsocks เป็นพร็อกซีอุโนมทางที่เร็ว ช่วยให้คุณข้ามไฟวอลได้
+  tr: Shadowsocks, güvenlik duvarlarını atlatmanıza yardımcı olan hızlı bir tünel vekildir
+  uk: Shadowsocks — це швидкий тунельний проксі, який допомагає оминати брандмауери
+  vi: Shadowsocks là proxy đường hầm nhanh giúp bạn vượt qua tường lửa
 x:
   source: https://github.com/shadowsocks/shadowsocks-rust
   eget: shadowsocks/shadowsocks-rust

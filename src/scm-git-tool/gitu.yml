@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 受 Magit 启发的 TUI Git 客户端
   en: A TUI Git client inspired by Magit
+  cs: TUI git klient inspirovaný Magitem
+  de: Ein TUI-Git-Client, inspiriert von Magit
+  es: Un cliente Git de TUI inspirado en Magit
+  fr: Un client Git en TUI inspiré de Magit
+  id: Klien Git TUI yang terinspirasi oleh Magit
+  it: Un client Git TUI ispirato a Magit
+  ja: Magit から着想を得た TUI Git クライアント
+  ko: Magit에서 영감받은 TUI Git 클라이언트
+  pl: Klient Git w TUI inspirowany przez Magit
+  pt: Um cliente Git de TUI inspirado no Magit
+  ro: Un client Git TUI inspirat de Magit
+  ru: TUI-клиент Git, вдохновлённый Magit
+  th: ไคลเอนต์ Git แบบ TUI ที่ได้แรงบันดาลใจจาก Magit
+  tr: Magit'ten esinlenen TUI Git istemcisi
+  uk: TUI-клієнт Git, натхненний Magit
+  vi: Ứng dụng khách Git TUI lấy cảm hứng từ Magit
 x:
   source: https://github.com/altsem/gitu
   eget: altsem/gitu

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 轻量 CLI 工具，将 Learn X in Y Minutes 编程教程直接拉到终端
   en: 'Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your wo...'
+  cs: Lexy je lehký nástroj CLI, který načítá programovací návody z "Learn X in Y Minutes" přímo do terminálu. Rychle vyhledávejte, učte se a vyhledávejte příklady kódu bez opuštění pracovního prostoru.
+  de: Lexy ist ein leichtgewichtiges CLI-Werkzeug, das Programmier-Tutorials aus "Learn X in Y Minutes" direkt in Ihr Terminal lädt. Durchsuchen, lernen und nachschlagen Sie Codebeispiele, ohne Ihre Arbeitsumgebung zu verlassen.
+  es: Lexy es una herramienta CLI ligera que descarga tutoriales de programación de "Learn X in Y Minutes" directamente en tu terminal. Busca, aprende y consulta ejemplos de código sin salir de tu espacio de trabajo.
+  fr: Lexy est un outil CLI léger qui récupère des tutoriels de programmation de "Learn X in Y Minutes" directement dans votre terminal. Recherchez, apprenez et consultez des exemples de code sans quitter votre environnement de travail.
+  id: Lexy adalah alat CLI ringan yang mengambil tutorial pemrograman dari "Learn X in Y Minutes" langsung ke terminal Anda. Cari, pelajari, dan rujuk contoh kode tanpa meninggalkan ruang kerja Anda.
+  it: Lexy è un leggero strumento CLI che scarica tutorial di programmazione da "Learn X in Y Minutes" direttamente nel terminale. Cerca, impara e consulta esempi di codice senza lasciare il tuo ambiente di lavoro.
+  ja: Lexy は「Learn X in Y Minutes」のプログラミングチュートリアルを直接ターミナルに取得する軽量な CLI ツールです。ワークスペースを離れずにコード例を検索、学習、参照できます。
+  ko: Lexy는 "Learn X in Y Minutes"의 프로그래밍 튜토리얼을 터미널로 직접 가져오는 가벼운 CLI 도구입니다. 작업 환경을 벗어나지 않고 코드 예제를 검색하고, 학습하고, 참조할 수 있습니다.
+  pl: Lexy to lekkie narzędzie CLI, które pobiera samouczki programowania z "Learn X in Y Minutes" bezpośrednio do terminala. Szybko przeszukuj, ucz się i sprawdzaj przykłady kodu bez opuszczania swojego środowiska.
+  pt: Lexy é uma ferramenta CLI leve que busca tutoriais de programação do "Learn X in Y Minutes" direto no seu terminal. Pesquise, aprenda e consulte exemplos de código sem sair do seu ambiente de trabalho.
+  ro: Lexy este un instrument CLI ușor care aduce tutoriale de programare din "Learn X in Y Minutes" direct în terminalul tău. Caută, învață și consultă exemple de cod fără a părăsi mediul tău de lucru.
+  ru: Lexy — лёгкий инструмент CLI, который загружает учебники по программированию из "Learn X in Y Minutes" прямо в терминал. Быстро ищите, изучайте и справочную информацию о примерах кода, не покидая рабочую среду.
+  th: Lexy เป็นเครื่องมือ CLI ขนาดเล็กที่ดึงบทเรียนการเขียนโปรแกรมจาก "Learn X in Y Minutes" เข้าสู่เทอร์มินัลของคุณโดยตรง ค้นหา เรียนรู้ และอ้างอิงตัวอย่างโค้ดได้โดยไม่ต้องออกจากพื้นที่ทำงาน
+  tr: Lexy, "Learn X in Y Minutes" programlama öğreticilerini doğrudan terminalinize çeken hafif bir CLI aracıdır. Çalışma alanınızdan ayrılmadan kod örneklerini hızlıca arayın, öğrenin ve başvurun.
+  uk: Lexy — легкий інструмент CLI, який завантажує навчальні матеріали з "Learn X in Y Minutes" просто в термінал. Шукайте, вивчайте та звіряйте приклади коду, не залишаючи робоче середовище.
+  vi: Lexy là công cụ CLI nhẹ giúp tải các hướng dẫn lập trình từ "Learn X in Y Minutes" thẳng vào terminal của bạn. Nhanh chóng tìm kiếm, học và tra cứu các ví dụ mã mà không cần rời môi trường làm việc.
 x:
   source: https://github.com/antoniorodr/lexy
   eget: antoniorodr/lexy

@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 用于将 Kubernetes API 对象（YAML 格式）转换为 HashiCorp 的 Terraform 配置语言的工具
   en: A tool for converting Kubernetes API Objects (in YAML format) into HashiCorp's Terraform configuration language
+  cs: Nástroj pro převod objektů API Kubernetes (ve formátu YAML) do konfiguračního jazyka Terraform od HashiCorp
+  de: Ein Werkzeug zum Konvertieren von Kubernetes-API-Objekten (im YAML-Format) in die Terraform-Konfigurationssprache von HashiCorp
+  es: Una herramienta para convertir objetos de la API de Kubernetes (en formato YAML) al lenguaje de configuración Terraform de HashiCorp
+  fr: Un outil pour convertir des objets de l'API Kubernetes (au format YAML) en langage de configuration Terraform de HashiCorp
+  id: Alat untuk mengonversi objek API Kubernetes (dalam format YAML) menjadi bahasa konfigurasi Terraform dari HashiCorp
+  it: Uno strumento per convertire gli oggetti API di Kubernetes (in formato YAML) nel linguaggio di configurazione Terraform di HashiCorp
+  ja: Kubernetes の API オブジェクト（YAML 形式）を HashiCorp の Terraform 設定言語に変換するツール
+  ko: Kubernetes API 객체(YAML 형식)를 HashiCorp의 Terraform 구성 언어로 변환하는 도구
+  pl: Narzędzie do konwersji obiektów API Kubernetes (w formacie YAML) do języka konfiguracji Terraform firmy HashiCorp
+  pt: Uma ferramenta para converter objetos da API do Kubernetes (em formato YAML) na linguagem de configuração Terraform da HashiCorp
+  ro: Un instrument pentru conversia obiectelor API Kubernetes (în format YAML) în limbajul de configurare Terraform al HashiCorp
+  ru: Инструмент для преобразования объектов API Kubernetes (в формате YAML) в язык конфигурации Terraform от HashiCorp
+  th: เครื่องมือสำหรับแปลงอ็อบเจกต์ API ของ Kubernetes (ในรูปแบบ YAML) เป็นภาษาคอนฟิกของ Terraform ของ HashiCorp
+  tr: Kubernetes API nesnelerini (YAML biçiminde) HashiCorp'un Terraform yapılandırma diline dönüştüren bir araç
+  uk: Інструмент для перетворення об'єктів API Kubernetes (у форматі YAML) на мову конфігурації Terraform від HashiCorp
+  vi: Công cụ chuyển đổi các đối tượng API Kubernetes (định dạng YAML) sang ngôn ngữ cấu hình Terraform của HashiCorp
 x:
   source: https://github.com/sl1pm4t/k2tf
   eget: sl1pm4t/k2tf

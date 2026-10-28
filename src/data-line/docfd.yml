@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: TUI multiline fuzzy document finder
   cn: TUI 多行模糊文档查找器
+  cs: TUI víceřádkový fuzzy vyhledávač dokumentů
+  de: TUI-mehrzeiliger unscharfer Dokumentensucher
+  es: Buscador difuso de documentos multilínea en TUI
+  fr: Rechercheur de documents flou multiligne en TUI
+  id: Pencari dokumen fuzzy multiline berbasis TUI
+  it: Ricercatore fuzzy di documenti multilinea in TUI
+  ja: TUIの複数行対応ファジードキュメント検索
+  ko: TUI 기반 여러 줄 퍼지 문서 검색기
+  pl: Wielowierszowy wyszukiwacz rozmytych dokumentów w TUI
+  pt: Localizador difuso de documentos multilinha em TUI
+  ro: Căutător fuzzy de documente pe mai multe linii în TUI
+  ru: Многострочный нечёткий поисковик документов с TUI
+  th: ตัวค้นหาเอกสารแบบ fuzzy หลายบรรทัดใน TUI
+  tr: TUI çok satırlı fuzzy belge bulucu
+  uk: Багаторядковий нечіткий пошуковик документів з TUI
+  vi: Trình tìm tài liệu fuzzy nhiều dòng trong TUI
 x:
   source: https://github.com/darrenldl/docfd
   eget: darrenldl/docfd

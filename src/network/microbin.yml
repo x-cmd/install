@@ -4,6 +4,22 @@ license: EUPL-1.2
 desc:
   en: Microbin is a self-hosted, feature-complete pastebin and file-sharing server written in Rust — supports snippets, uploads, URL shortener, encryption and expiration.
   cn: Microbin 是一个自托管、功能完备的 Rust 粘贴与文件分享服务，支持代码片段、上传、短链、加密与过期。
+  cs: Microbin je samohostovaný, funkčně kompletní pastebin a server pro sdílení souborů napsaný v Rustu — podporuje úseky kódu, nahrávání, zkracování URL, šifrování a vypršení platnosti.
+  de: Microbin ist ein selbstgehosteter, voll funktionsfähiger Pastebin- und Datei-Freigabe-Server, geschrieben in Rust — unterstützt Snippets, Uploads, URL-Shortener, Verschlüsselung und Ablauf.
+  es: "Microbin es un servidor autohospedado de pastebin y compartición de archivos con todas las funciones, escrito en Rust: admite fragmentos, subidas, acortador de URL, cifrado y caducidad."
+  fr: Microbin est un serveur auto-hébergé de pastebin et de partage de fichiers complet, écrit en Rust — il prend en charge les extraits, les téléversements, le raccourcisseur d'URL, le chiffrement et l'expiration.
+  id: Microbin adalah server pastebin dan berbagi berkas yang mandiri hosting dan lengkap fiturnya, ditulis dengan Rust — mendukung cuplikan, unggahan, pemendek URL, enkripsi, dan kedaluwarsa.
+  it: Microbin è un server pastebin e file sharing self-hosted e completo di funzionalità, scritto in Rust — supporta snippet, upload, abbreviatore di URL, crittografia e scadenza.
+  ja: Microbin は Rust で書かれたセルフホスト型の機能完備な pastebin とファイル共有サーバーで、スニペット、アップロード、URL 短縮、暗号化、有効期限に対応しています。
+  ko: Microbin은 Rust로 작성된 자체 호스팅형 완전 기능 pastebin 및 파일 공유 서버로, 스니펫, 업로드, URL 단축, 암호화, 만료를 지원합니다.
+  pl: Microbin to samodzielnie hostowany, kompletny funkcjonalnie serwer pastebin i udostępniania plików napisany w Rust — obsługuje fragmenty kodu, przesyłanie plików, skracacz URL, szyfrowanie i wygaśnięcie.
+  pt: Microbin é um servidor de pastebin e compartilhamento de arquivos auto-hospedado e completo, escrito em Rust — suporta trechos, uploads, encurtador de URL, criptografia e expiração.
+  ro: Microbin este un server de pastebin și partajare de fișiere, găzduit de sine și complet ca funcționalități, scris în Rust — acceptă fragmente de cod, încărcări, scurtător de URL, criptare și expirare.
+  ru: Microbin — это самостоятельно размещаемый, полнофункциональный сервер pastebin и обмена файлами, написанный на Rust — поддерживает фрагменты кода, загрузку файлов, сокращение URL, шифрование и срок действия.
+  th: Microbin คือเซิร์ฟเวอร์ pastebin และแชร์ไฟล์แบบ self-hosted ที่มีครบครัน เขียนด้วย Rust — รองรับข้อความโค้ด การอัปโหลด ตัวย่อ URL การเข้ารหัส และการหมดอายุ
+  tr: Microbin, Rust ile yazılmış, kendi sunucunda çalışan ve tüm özelliklere sahip bir pastebin ve dosya paylaşım sunucusudur — kod parçacıklarını, yüklemeleri, URL kısaltıcıyı, şifrelemeyi ve süre sonunu destekler.
+  uk: Microbin — це самостійно розміщуваний, функціонально повний сервер pastebin та обміну файлами, написаний на Rust — підтримує фрагменти коду, завантаження, скорочувач URL, шифрування та термін дії.
+  vi: Microbin là máy chủ pastebin và chia sẻ tệp tự lưu trữ, đầy đủ tính năng, viết bằng Rust — hỗ trợ đoạn mã, tải lên, rút gọn URL, mã hóa và thời hạn.
 x:
   source: https://github.com/szabodanika/microbin
   eget: szabodanika/microbin

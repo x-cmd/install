@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 TypeScript 生成器编程式驱动矢量动画,并配实时预览编辑器,可与旁白音频同步
   en: Programmatically create vector animations and synchronize them to audio using a TypeScript library and a real-time preview editor.
+  cs: Programově vytvářejte vektorové animace a synchronizujte je s audiem pomocí knihovny TypeScript a editoru s živým náhledem.
+  de: Erstellen Sie programmatisch Vektoranimationen und synchronisieren Sie sie mit Audio – mit einer TypeScript-Bibliothek und einem Editor mit Live-Vorschau.
+  es: Crea animaciones vectoriales de forma programática y sincronízalas con el audio usando una biblioteca de TypeScript y un editor con vista previa en tiempo real.
+  fr: Créez programmatiquement des animations vectorielles et synchronisez-les avec l'audio à l'aide d'une bibliothèque TypeScript et d'un éditeur avec aperçu en direct.
+  id: Buat animasi vektor secara terprogram dan sinkronkan dengan audio menggunakan pustaka TypeScript dan editor pratinjau waktu nyata.
+  it: Crea programmaticamente animazioni vettoriali e sincronizzale con l'audio usando una libreria TypeScript e un editor con anteprima in tempo reale.
+  ja: TypeScriptライブラリとリアルタイムプレビューエディタを使って、ベクターアニメーションをプログラムで作成しオーディオに同期させます。
+  ko: TypeScript 라이브러리와 실시간 미리보기 편집기를 사용하여 벡터 애니메이션을 프로그래밍 방식으로 만들고 오디오에 동기화합니다.
+  pl: Twórz programowo animacje wektorowe i synchronizuj je z dźwiękiem za pomocą biblioteki TypeScript oraz edytora z podglądem na żywo.
+  pt: Crie animações vetoriais programaticamente e sincronize-as com áudio usando uma biblioteca TypeScript e um editor com pré-visualização em tempo real.
+  ro: Creați programatic animații vectoriale și sincronizați-le cu audio folosind o bibliotecă TypeScript și un editor cu previzualizare în timp real.
+  ru: Создавайте векторные анимации программно и синхронизируйте их со звуком с помощью библиотеки TypeScript и редактора с живым предпросмотром.
+  th: สร้างแอนิเมชันเวกเตอร์แบบเขียนโปรแกรมและซิงค์กับเสียงด้วยไลบรารี TypeScript และตัวแก้ไขแบบเรียลไทม์พรีวิว
+  tr: TypeScript kütüphanesi ve canlı önizleme düzenleyicisiyle vektörel animasyonları programatik olarak oluşturun ve sesle eşitleyin.
+  uk: Програмно створюйте векторні анімації та синхронізуйте їх зі звуком за допомогою бібліотеки TypeScript і редактора з живим переглядом.
+  vi: Tạo animation vector theo lập trình và đồng bộ với âm thanh bằng thư viện TypeScript cùng trình chỉnh sửa xem trước theo thời gian thực.
 x:
   source: https://github.com/motion-canvas/motion-canvas
 rule:

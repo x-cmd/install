@@ -4,6 +4,22 @@ license: gpl-3.0
 desc:
   cn: 在桌面运行个人 AI Agent，自动从 Gmail、Slack、Notion 等关联应用构建私有知识库
   en: Runs a personal AI agent on your desktop that automatically builds a private knowledge base from your connected apps like Gmail, Slack, and Notion.
+  cs: Provozuje na vašem počítači osobního AI agenta, který automaticky sestavuje soukromou znalostní databázi z připojených aplikací jako Gmail, Slack a Notion.
+  de: Führt auf Ihrem Desktop einen persönlichen KI-Agenten aus, der automatisch eine private Wissensdatenbank aus verbundenen Apps wie Gmail, Slack und Notion aufbaut.
+  es: Ejecuta un agente de IA personal en tu escritorio que crea automáticamente una base de conocimiento privada a partir de tus apps conectadas como Gmail, Slack y Notion.
+  fr: Exécute sur votre bureau un agent IA personnel qui construit automatiquement une base de connaissances privée à partir de vos applications connectées comme Gmail, Slack et Notion.
+  id: Menjalankan agen AI pribadi di desktop Anda yang secara otomatis membangun basis pengetahuan pribadi dari aplikasi terhubung seperti Gmail, Slack, dan Notion.
+  it: Esegue sul desktop un agente AI personale che costruisce automaticamente una base di conoscenza privata dalle app collegate come Gmail, Slack e Notion.
+  ja: デスクトップで個人の AI エージェントを実行し、Gmail、Slack、Notion などの接続アプリから自動的にプライベートなナレッジベースを構築します。
+  ko: 데스크톱에서 개인 AI 에이전트를 실행해 Gmail, Slack, Notion 등 연결된 앱으로 사적인 지식 기반을 자동으로 구축합니다.
+  pl: Uruchamia na komputerze osobistego agenta AI, który automatycznie buduje prywatną bazę wiedzy z podłączonych aplikacji takich jak Gmail, Slack i Notion.
+  pt: Executa um agente de IA pessoal no seu desktop que constrói automaticamente uma base de conhecimento privada a partir de aplicativos conectados como Gmail, Slack e Notion.
+  ro: Rulează pe desktopul tău un agent AI personal care construiește automat o bază de cunoștințe privată din aplicațiile conectate precum Gmail, Slack și Notion.
+  ru: Запускает на вашем рабочем столе персонального ИИ-агента, который автоматически строит приватную базу знаний из подключённых приложений, таких как Gmail, Slack и Notion.
+  th: เรียกใช้เอเจนต์ AI ส่วนตัวบนเดสก์ท็อปของคุณ ซึ่งสร้างฐานความรู้ส่วนตัวโดยอัตโนมัติจากแอปที่เชื่อมต่อ เช่น Gmail, Slack และ Notion.
+  tr: Masaüstünüzde kişisel bir YZ ajanı çalıştırır ve Gmail, Slack, Notion gibi bağlı uygulamalardan otomatik olarak özel bir bilgi tabanı oluşturur.
+  uk: Запускає на вашому робочому столі персонального ІІ-агента, який автоматично будує приватну базу знань із підключених застосунків, таких як Gmail, Slack і Notion.
+  vi: Chạy tác nhân AI cá nhân trên máy tính của bạn, tự động xây dựng kho tri thức riêng từ các ứng dụng đã kết nối như Gmail, Slack và Notion.
 x:
   source: https://github.com/tinyhumansai/openhuman
   eget: tinyhumansai/openhuman

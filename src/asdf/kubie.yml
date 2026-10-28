@@ -4,6 +4,22 @@ license: Zlib
 desc:
   cn: Kubie 是 kubectx、 kubens 和 k on 提示修改脚本的替代品
   en: kubie is an alternative to kubectx, kubens and the k on prompt modification script
+  cs: kubie je alternativou k nástrojům kubectx, kubens a skriptu pro úpravu promptu k
+  de: kubie ist eine Alternative zu kubectx, kubens und dem Skript zur Änderung der k-Prompt
+  es: kubie es una alternativa a kubectx, kubens y el script de modificación del prompt k
+  fr: kubie est une alternative à kubectx, kubens et au script de modification de l'invite k
+  id: kubie adalah alternatif untuk kubectx, kubens, dan skrip modifikasi prompt k
+  it: kubie è un'alternativa a kubectx, kubens e allo script di modifica del prompt k
+  ja: kubie は kubectx、kubens および k プロンプト変更スクリプトの代替となるツールです
+  ko: kubie는 kubectx, kubens 및 k 프롬프트 수정 스크립트의 대체재입니다
+  pl: kubie to alternatywa dla kubectx, kubens oraz skryptu modyfikującego prompt k
+  pt: O kubie é uma alternativa ao kubectx, ao kubens e ao script de modificação do prompt k
+  ro: kubie este o alternativă pentru kubectx, kubens și scriptul de modificare a promptului k
+  ru: kubie — альтернатива kubectx, kubens и скрипту изменения prompt k
+  th: kubie เป็นทางเลือกแทน kubectx, kubens และสคริปต์แก้ไข prompt k
+  tr: kubie, kubectx, kubens ve k prompt değiştirme betiğine bir alternatiftir
+  uk: kubie — це альтернатива kubectx, kubens і скрипту зміни prompt k
+  vi: kubie là lựa chọn thay thế cho kubectx, kubens và script sửa đổi prompt k
 x:
   source: https://github.com/kubie-org/kubie
   eget: sbstp/kubie

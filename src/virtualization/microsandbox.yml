@@ -5,6 +5,22 @@ license: Apache-2.0
 desc:
   cn: 简单、快速、本地化的微型虚拟机，适用于不受信任的工作负载
   en: easy, fast, local microVMs for untrusted workloads
+  cs: snadné, rychlé a lokální microVM pro nedůvěryhodné pracovní zatížení
+  de: einfache, schnelle, lokale MicroVMs für nicht vertrauenswürdige Workloads
+  es: microVMs fáciles, rápidas y locales para cargas de trabajo no confiables
+  fr: des microVM simples, rapides et locales pour les charges de travail non fiables
+  id: microVM yang mudah, cepat, dan lokal untuk beban kerja yang tidak tepercaya
+  it: microVM semplici, veloci e locali per carichi di lavoro non attendibili
+  ja: 信頼できないワークロード向けの、簡単かつ高速なローカルマイクロVM
+  ko: 신뢰할 수 없는 워크로드 위한 간단하고 빠른 로컬 microVM
+  pl: łatwe, szybkie i lokalne microVM dla niezaufanych obciążeń roboczych
+  pt: microVMs fáceis, rápidos e locais para cargas de trabalho não confiáveis
+  ro: microVM-uri simple, rapide și locale pentru sarcini de lucru neîncrezute
+  ru: простые, быстрые локальные microVM для недоверенных рабочих нагрузок
+  th: microVM ที่ใช้งานง่าย เร็ว และเป็นแบบ local สำหรับเวิร์กโหลดที่ไม่น่าเชื่อถือ
+  tr: güvenilmeyen iş yükleri için kolay, hızlı, yerel microVM'ler
+  uk: прості, швидкі локальні microVM для недовірених робочих навантажень
+  vi: microVM dễ dùng, nhanh và cục bộ cho các tác vụ không tin cậy
 
 x:
   source: https://github.com/superradcompany/microsandbox

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Rust 编写的 SPARQL 图数据库（同时提供 RDF 解析/序列化、HTTP 服务与命令行工具）
   en: SPARQL graph database written in Rust, with RDF parsing/serialization, HTTP server and CLI
+  cs: Grafová databáze SPARQL napsaná v Rustu, s parsováním/serializací RDF, HTTP serverem a CLI
+  de: SPARQL-Grafdatenbank in Rust geschrieben, mit RDF-Parsing/Serialisierung, HTTP-Server und CLI
+  es: Base de datos de grafos SPARQL escrita en Rust, con análisis/serialización RDF, servidor HTTP y CLI
+  fr: Base de données de graphes SPARQL écrite en Rust, avec analyse/sérialisation RDF, serveur HTTP et CLI
+  id: Basis data graf SPARQL yang ditulis dengan Rust, dengan parsing/serialisasi RDF, server HTTP, dan CLI
+  it: Database a grafo SPARQL scritto in Rust, con parsing/serializzazione RDF, server HTTP e CLI
+  ja: Rust で書かれた SPARQL グラフデータベース。RDF の解析/シリアライズ、HTTP サーバー、CLI を同梱
+  ko: Rust로 작성된 SPARQL 그래프 데이터베이스로, RDF 파싱/직렬화, HTTP 서버, CLI를 제공합니다.
+  pl: Grafowa baza danych SPARQL napisana w Rust, z parsowaniem/serializacją RDF, serwerem HTTP i CLI
+  pt: Banco de dados de grafos SPARQL escrito em Rust, com análise/serialização RDF, servidor HTTP e CLI
+  ro: Bază de date grafuri SPARQL scrisă în Rust, cu parsare/serializare RDF, server HTTP și CLI
+  ru: Графовая база данных SPARQL, написанная на Rust, с разбором/сериализацией RDF, HTTP-сервером и CLI
+  th: ฐานข้อมูลกราฟ SPARQL ที่เขียนด้วย Rust พร้อมการแยกวิเคราะห์/ทำให้เป็นอนุกรม RDF เซิร์ฟเวอร์ HTTP และ CLI
+  tr: Rust ile yazılmış SPARQL graf veritabanı; RDF ayrıştırma/serileştirme, HTTP sunucusu ve CLI içerir
+  uk: Графова база даних SPARQL, написана на Rust, з розбором/серіалізацією RDF, HTTP-сервером і CLI
+  vi: Cơ sở dữ liệu đồ thị SPARQL viết bằng Rust, có phân tích/tuần tự hóa RDF, máy chủ HTTP và CLI
 x:
   source: https://github.com/oxigraph/oxigraph
   eget: oxigraph/oxigraph

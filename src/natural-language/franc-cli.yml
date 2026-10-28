@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于检测文本自然语言的 CLI
   en: CLI to detect the language of text
+  cs: CLI pro detekci jazyka textu
+  de: CLI zur Erkennung der Sprache von Text
+  es: CLI para detectar el idioma del texto
+  fr: CLI pour détecter la langue d'un texte
+  id: CLI untuk mendeteksi bahasa teks
+  it: CLI per rilevare la lingua del testo
+  ja: テキストの言語を検出するCLI
+  ko: 텍스트의 언어를 감지하는 CLI
+  pl: CLI do wykrywania języka tekstu
+  pt: CLI para detectar o idioma do texto
+  ro: CLI pentru detectarea limbii textului
+  ru: CLI для определения языка текста
+  th: CLI สำหรับตรวจจับภาษาของข้อความ
+  tr: Metin dilini algılamak için CLI
+  uk: CLI для визначення мови тексту
+  vi: CLI để phát hiện ngôn ngữ của văn bản
 x:
   npm: franc-cli
 rule:

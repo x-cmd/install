@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Python 3.8 + 语言服务器协议的实现
   en: A Python 3.8+ implementation of the Language Server Protocol
+  cs: Implementace Language Server Protocol pro Python 3.8+
+  de: Eine Python-3.8+-Implementierung des Language Server Protocol
+  es: Una implementación de Language Server Protocol para Python 3.8+
+  fr: Une implémentation du Language Server Protocol pour Python 3.8+
+  id: Implementasi Language Server Protocol untuk Python 3.8+
+  it: Un'implementazione del Language Server Protocol per Python 3.8+
+  ja: Python 3.8+ 向けの Language Server Protocol 実装
+  ko: Python 3.8+용 Language Server Protocol 구현
+  pl: Implementacja Language Server Protocol dla Pythona 3.8+
+  pt: Uma implementação do Language Server Protocol para Python 3.8+
+  ro: O implementare a Language Server Protocol pentru Python 3.8+
+  ru: Реализация Language Server Protocol для Python 3.8+
+  th: การดำเนินการ Language Server Protocol สำหรับ Python 3.8+
+  tr: Python 3.8+ için bir Language Server Protocol uygulaması
+  uk: Реалізація Language Server Protocol для Python 3.8+
+  vi: Một triển khai Language Server Protocol cho Python 3.8+
 x:
   source: https://github.com/python-lsp/python-lsp-server
   brew: python-lsp-server

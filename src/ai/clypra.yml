@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Tauri + React + TypeScript 构建的开源桌面视频编辑器，提供多轨时间线、帧精确剪辑、专业音频波形、FFmpeg 后端导出与跨平台原生性能。
   en: An open-source desktop video editor built with Tauri, React and TypeScript, featuring a multi-track timeline, frame-accurate trimming, pro-grade audio waveforms, FFmpeg-backed export, and native cross-platform performance.
+  cs: Open-source desktopový video editor postavený na Tauri, Reactu a TypeScriptu, s více stopovou časovou osou, přesným ořezáním po snímcích, profesionálními audio vlnami, exportem založeným na FFmpeg a nativním výkonem napříč platformami.
+  de: Ein quelloffener Desktop-Videoeditor auf Basis von Tauri, React und TypeScript, mit Mehrspur-Timeline, framegenauem Zuschneiden, professionellen Audio-Wellenformen, FFmpeg-basiertem Export und nativer Leistung auf allen Plattformen.
+  es: Un editor de vídeo de escritorio de código abierto creado con Tauri, React y TypeScript, que cuenta con línea de tiempo multitrack, recorte con precisión de fotograma, formas de onda de audio de nivel profesional, exportación respaldada por FFmpeg y rendimiento nativo multiplataforma.
+  fr: Un éditeur vidéo de bureau open source construit avec Tauri, React et TypeScript, avec timeline multipiste, rognage au niveau de l'image, formes d'onde audio professionnelles, export fondé sur FFmpeg et performances natives multiplateformes.
+  id: Editor video desktop sumber terbuka yang dibangun dengan Tauri, React, dan TypeScript, offering timeline multi-track, pemotongan presisi frame, gelombang audio kelas profesional, ekspor berbasis FFmpeg, dan performa native lintas platform.
+  it: Un editor video desktop open source realizzato con Tauri, React e TypeScript, con timeline multitraccia, ritaglio accurato al frame, forme d'onda audio professionali, esportazione basata su FFmpeg e prestazioni native multipiattaforma.
+  ja: Tauri、React、TypeScript で構築されたオープンソースのデスクトップ動画エディター。マルチトラックタイムライン、フレーム単位の正確なトリミング、プロ级的な音声波形、FFmpeg による書き出し、ネイティブなクロスプラットフォーム性能を広帯します。
+  ko: Tauri, React, TypeScript로 만든 오픈 소스 데스크톱 비디오 편집기로, 멀티트랙 타임라인, 프레임 단위 정밀 자르기, 프로급 오디오 파형, FFmpeg 기반 내보내기, 네이티브 크로스 플랫폼 성능을 제공합니다.
+  pl: Edytor wideo do pulpitu o otwartym kodzie, zbudowany w Tauri, React i TypeScript, z wielokanałową osią czasu, przycinaniem co do klatki, profesjonalnymi przebiegami audio, eksportem opartym na FFmpeg i natywną wydajnością na różnych platformach.
+  pt: Um editor de vídeo desktop de código aberto criado com Tauri, React e TypeScript, com linha do tempo multitrack, corte preciso por quadro, formas de onda de áudio de nível profissional, exportação baseada em FFmpeg e desempenho nativo multiplataforma.
+  ro: Un editor video pentru desktop cu sursă deschisă, construit cu Tauri, React și TypeScript, cu cronologie mult pistă, tăiere la nivel de cadru, forme de undă audio profesionale, export bazat pe FFmpeg și performanță nativă pe mai multe platforme.
+  ru: Открытый настольный видеоредактор на Tauri, React и TypeScript с многодорожечным таймлайном, покадровой обрезкой, профессиональными звуковыми волнами, экспортом на базе FFmpeg и нативной производительностью на всех платформах.
+  th: โปรแกรมตัดต่อวิดีโอสำหรับเดสก์ท็อปโอเพนซอร์สที่สร้างด้วย Tauri, React และ TypeScript พร้อมไทม์ไลน์หลายแทร็ก การตัดอย่างแม่นยำระดับเฟรม เส้นคลื่นเสียงระดับมืออาชีพ การส่งออกโดยอิง FFmpeg และประสิทธิภาพแบบเนทีฟข้ามแพลตฟอร์ม
+  tr: Tauri, React ve TypeScript ile geliştirilmiş açık kaynaklı masaüstü video düzenleyici; çoklu parça zaman çizelgesi, kare hassasiyetinde kırpma, profesyonel ses dalga formları, FFmpeg destekli dışa aktarma ve platformlar arası yerel performans sunar.
+  uk: Відкритий настільний відеоредактор на Tauri, React і TypeScript із багатодоріжковим таймлайном, покадровою обрізкою, професійними звуковими хвилями, експортом на базі FFmpeg та нативною продуктивністю на різних платформах.
+  vi: Trình chỉnh sửa video máy tính mã nguồn mở xây dựng bằng Tauri, React và TypeScript, với dòng thời gian nhiều lớp, cắt chính xác theo khung hình, sóng âm thanh chuyên nghiệp, xuất dựa trên FFmpeg và hiệu năng native đa nền tảng.
 x:
   source: https://github.com/AIEraDev/Clypra
   brew: AIEraDev/tap/clypra

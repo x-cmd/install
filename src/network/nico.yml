@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于反向代理和单页应用的 HTTP3 Web 服务器
   en: A HTTP3 web server for reverse proxy and single page application
+  cs: Webový server HTTP3 pro reverzní proxy a jednostránkové aplikace
+  de: Ein HTTP3-Webserver für Reverse Proxy und Single-Page-Anwendungen
+  es: Un servidor web HTTP3 para proxy inverso y aplicaciones de una sola página
+  fr: Un serveur web HTTP3 pour proxy inverse et applications monopage
+  id: Server web HTTP3 untuk reverse proxy dan aplikasi satu halaman
+  it: Un server web HTTP3 per reverse proxy e applicazioni a pagina singola
+  ja: リバースプロキシとシングルページアプリケーション向けの HTTP3 ウェブサーバー
+  ko: 역방향 프록시와 단일 페이지 애플리케이션을 위한 HTTP3 웹 서버
+  pl: Serwer WWW HTTP3 do odwrotnego proxy i aplikacji jednostronicowych
+  pt: Um servidor web HTTP3 para proxy reverso e aplicações de página única
+  ro: Un server web HTTP3 pentru proxy invers și aplicații cu o singură pagină
+  ru: Веб-сервер HTTP3 для обратного прокси и одностраничных приложений
+  th: เว็บเซิร์ฟเวอร์ HTTP3 สำหรับ reverse proxy และแอปพลิเคชันหน้าเดียว
+  tr: Ters vekil ve tek sayfalık uygulamalar için bir HTTP3 web sunucusu
+  uk: Веб-сервер HTTP3 для зворотного проксі та односторінкових застосунків
+  vi: Máy chủ web HTTP3 dành cho reverse proxy và ứng dụng một trang
 x:
   source: https://github.com/txthinking/nico
   eget: txthinking/nico

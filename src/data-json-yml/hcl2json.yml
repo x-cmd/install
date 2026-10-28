@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 将 hcl2 转换为 json
   en: Convert hcl2 to json
+  cs: Převede hcl2 na json
+  de: Konvertiert hcl2 in json
+  es: Convierte hcl2 en json
+  fr: Convertit hcl2 en json
+  id: Mengubah hcl2 menjadi json
+  it: Converte hcl2 in json
+  ja: hcl2 を json に変換する
+  ko: hcl2를 json으로 변환
+  pl: Konwertuje hcl2 na json
+  pt: Converte hcl2 em json
+  ro: Convertește hcl2 în json
+  ru: Конвертирует hcl2 в json
+  th: แปลง hcl2 เป็น json
+  tr: hcl2'yi json'a dönüştürür
+  uk: Конвертує hcl2 у json
+  vi: Chuyển đổi hcl2 thành json
 x:
   source: https://github.com/tmccombs/hcl2json
   eget: tmccombs/hcl2json

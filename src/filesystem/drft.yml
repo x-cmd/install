@@ -3,6 +3,22 @@ homepage: https://codeberg.org/nightsail/drft
 desc:
   en: A diff re/viewer that navigates by files, as a tree, so larger patches are no longer a pain to read.
   cn: 差异查看器通过文件以树的形式进行导航，因此较大的补丁不再难以阅读。
+  cs: Nástroj pro zobrazení rozdílů, který se pohybuje podle souborů jako po stromu, takže větší patche už nejsou bolavky.
+  de: Ein Diff-Betrachter, der wie ein Baum nach Dateien navigiert, sodass größere Patches nicht mehr mühsam zu lesen sind.
+  es: Un visor de diferencias que navega por los archivos como un árbol, de modo que los parches grandes ya no son dolorosos de leer.
+  fr: Un visualiseur de différences qui navigue dans les fichiers comme dans un arbre, afin que les gros correctifs ne soient plus pénibles à lire.
+  id: Penampil diff yang menelusuri berkas seperti pohon, sehingga tambalan besar tidak lagi merepotkan untuk dibaca.
+  it: Un visualizzatore di differenze che naviga tra i file come un albero, così le patch di grandi dimensioni non sono più dolorose da leggere.
+  ja: ファイルをツリーのように辿って表示する差分ビューアで、大きなパッチも読みにくくありません。
+  ko: 파일을 트리 형태로 탐색하는 차이 뷰어라서 큰 패치도 쉽게 읽을 수 있습니다.
+  pl: Przeglądarka różnic, która nawiguje po plikach jak po drzewie, dzięki czemu duże łaty nie są już męczące w czytaniu.
+  pt: Um visualizador de diferenças que navega pelos arquivos como uma árvore, tornando os patches grandes mais fáceis de ler.
+  ro: Un vizualizator de diferențe care navighează prin fișiere ca într-un arbore, astfel încât patch-urile mari nu mai sunt greu de citit.
+  ru: Просмотрщик различий, который перемещается по файлам как по дереву, поэтому большие патчи больше не доставляют трудностей при чтении.
+  th: เครื่องมือดูความต่างที่นำทางตามไฟล์แบบต้นไม้ ทำให้แพตช์ขนาดใหญ่ไม่ยากที่จะอ่านอีกต่อไป
+  tr: Dosyaları bir ağaç gibi gezerek farkları gösteren bir araç; büyük yamalartı okumak artık zahmetli değil.
+  uk: Інструмент перегляду відмінностей, який пересувається файлами як деревом, тож великі патчі більше не є важкими для читання.
+  vi: Trình xem khác biệt điều hướng theo tệp như một cây, nên các bản vá lớn không còn khó đọc nữa.
 rule:
   /cargo:
     cmd: cargo install drft

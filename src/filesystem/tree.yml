@@ -3,6 +3,22 @@ homepage: https://oldmanprogrammer.net/source.php?dir=projects/tree
 desc:
   cn: 以树的形式显示当前目录的内容
   en: Show the contents of the current directory as a tree
+  cs: Zobrazí obsah aktuálního adresáře jako strom
+  de: Zeigt den Inhalt des aktuellen Verzeichnisses als Baum an
+  es: Muestra el contenido del directorio actual como un árbol
+  fr: Affiche le contenu du répertoire courant sous forme d'arborescence
+  id: Menampilkan isi direktori saat ini sebagai pohon
+  it: Mostra il contenuto della directory corrente come albero
+  ja: 現在のディレクトリの内容をツリー形式で表示します
+  ko: 현재 디렉터리 내용을 트리 형태로 표시합니다
+  pl: Wyświetla zawartość bieżącego katalogu w postaci drzewa
+  pt: Mostra o conteúdo do diretório atual em forma de árvore
+  ro: Afișează conținutul directorului curent sub formă de arbore
+  ru: Показывает содержимое текущего каталога в виде дерева
+  th: แสดงเนื้อหาของไดเรกทอรีปัจจุบันเป็นแผนผังต้นไม้
+  tr: Geçerli dizinin içeriğini ağaç olarak gösterir
+  uk: Показує вміст поточного каталогу у вигляді дерева
+  vi: Hiển thị nội dung thư mục hiện tại dưới dạng cây
 rule:
   darwin/brew:
     cmd: brew install tree

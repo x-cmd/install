@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一种强大的静态类型高级通用编程语言，支持面向对象编程和函数式编程。
   en: a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.
+  cs: silný staticky typovaný vysokoúrovňový univerzální programovací jazyk, který podporuje jak objektově orientované, tak funkcionální programování.
+  de: eine starke, statisch typisierte, High-Level-Programmiersprache, die sowohl objektorientierte als auch funktionale Programmierung unterstützt.
+  es: un lenguaje de programación de alto nivel, de tipado estático y propósito general, que admite tanto la programación orientada a objetos como la funcional.
+  fr: un langage de programmation de haut niveau, à typage statique et polyvalent, qui prend en charge la programmation orientée objet et la programmation fonctionnelle.
+  id: bahasa pemrograman umum tingkat tinggi yang kuat dan bertipe statis, mendukung pemrograman berorientasi objek maupun fungsional.
+  it: un linguaggio di programmazione di alto livello, fortemente tipizzato e a uso generale, che supporta sia la programmazione orientata agli oggetti sia quella funzionale.
+  ja: 静的型を備えた強力な汎用高级プログラミング言語で、オブジェクト指向プログラミングと関数型プログラミングの両方をサポートします。
+  ko: 객체 지향 프로그래밍과 함수형 프로그래밍을 모두 지원하는 강력한 정적 타입 범용 고급 프로그래밍 언어입니다.
+  pl: potężny, statycznie typowany, wysokopoziomowy język programowania ogólnego przeznaczenia, obsługujący zarówno programowanie obiektowe, jak i funkcyjne.
+  pt: uma linguagem de programação de alto nível, fortemente tipada estaticamente e de uso geral, que oferece suporte tanto à programação orientada a objetos quanto à funcional.
+  ro: un limbaj de programare de nivel înalt, cu tipare statică, puternic și de uz generală, care acceptă atât programarea orientată pe obiecte, cât și cea funcțională.
+  ru: мощный статически типизированный высокоуровневый универсальный язык программирования, поддерживающий как объектно-ориентированное, так и функциональное программирование.
+  th: ภาษาโปรแกรมระดับสูงแบบทั่วไปที่มีประสิทธิภาพและกำหนดชนิดแบบคงที่ รองรับทั้งการเขียนโปรแกรมเชิงวัตถุและเชิงฟังก์ชัน
+  tr: hem nesne yönelimli hem de fonksiyonel programlamayı destekleyen güçlü, statik tipli, yüksek seviyeli genel amaçlı bir programlama dili.
+  uk: сильна статично типізована високорівнева універсальна мова програмування, що підтримує як об'єктно-орієнтоване, так і функціональне програмування.
+  vi: ngôn ngữ lập trình bậc cao, mạnh mẽ, có kiểu tĩnh và đa năng, hỗ trợ cả lập trình hướng đối tượng lẫn lập trình hàm
 x:
   source: https://github.com/scala/scala
   eget: scala/scala

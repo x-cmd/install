@@ -3,6 +3,22 @@ homepage: https://github.com/qt-creator/qt-creator
 desc:
   cn: Qt Creator 是一个跨平台的集成开发环境（IDE），供应用程序开发人员为多个桌面、嵌入式和移动设备平台创建应用程序
   en: Qt Creator is a cross-platform, integrated development environment (IDE) for application developers to create applications for multiple desktop, embedded, and mobile device platforms
+  cs: Qt Creator je multiplatformní integrované vývojové prostředí (IDE), které umožňuje vývojářům aplikací vytvářet aplikace pro více desktopových, embedded a mobilních platform
+  de: Qt Creator ist eine plattformübergreifende integrierte Entwicklungsumgebung (IDE), mit der Anwendungsentwickler Apps für mehrere Desktop-, Embedded- und Mobilgeräteplattformen erstellen
+  es: Qt Creator es un entorno de desarrollo integrado (IDE) multiplataforma para que los desarrolladores de aplicaciones creen aplicaciones para múltiples plataformas de escritorio, embebidas y móviles
+  fr: Qt Creator est un environnement de développement intégré (IDE) multiplateforme permettant aux développeurs d'applications de créer des applications pour de multiples plateformes de bureau, embarquées et mobiles
+  id: Qt Creator adalah lingkungan pengembangan terintegrasi (IDE) lintas platform bagi pengembang aplikasi untuk membuat aplikasi untuk berbagai platform desktop, tertanam, dan perangkat seluler
+  it: Qt Creator è un ambiente di sviluppo integrato (IDE) multipiattaforma che consente agli sviluppatori di applicazioni di creare app per molteplici piattaforme desktop, embedded e mobili
+  ja: Qt Creatorは、複数のデスクトップ、組み込み、モバイルデバイスのプラットフォーム向けアプリを作成するための、クロスプラットフォームの統合開発環境（IDE）です
+  ko: Qt Creator는 여러 데스크톱, 임베디드 및 모바일 기기 플랫폼용 애플리케이션을 만들기 위한 크로스 플랫폼 통합 개발 환경(IDE)입니다
+  pl: Qt Creator to wieloplatformowe zintegrowane środowisko programistyczne (IDE), w którym programiści tworzą aplikacje dla wielu platform desktopowych, wbudowanych i mobilnych
+  pt: O Qt Creator é um ambiente de desenvolvimento integrado (IDE) multiplataforma para desenvolvedores criarem aplicativos para várias plataformas de desktop, embarcadas e móveis
+  ro: Qt Creator este un mediu de dezvoltare integrat (IDE) multiplă platformă, pentru ca dezvoltatorii de aplicații să creeze aplicații pentru mai multe platforme desktop, încorporate și mobile
+  ru: Qt Creator — кроссплатформенная интегрированная среда разработки (IDE), в которой разработчики приложений создают приложения для множества настольных, встраиваемых и мобильных платформ
+  th: Qt Creator เป็นสภาพแวดล้อมการพัฒนาแบบรวม (IDE) ข้ามแพลตฟอร์ม สำหรับนักพัฒนาแอปเพื่อสร้างแอปสำหรับแพลตฟอร์มเดสก์ท็อป ฝังตัว และอุปกรณ์เคลื่อนที่หลายแพลตฟอร์ม
+  tr: Qt Creator, uygulama geliştiricilerin birden fazla masaüstü, gömülü ve mobil cihaz platformu için uygulamalar oluşturmasını sağlayan platformlar arası entegre geliştirme ortamıdır (IDE)
+  uk: Qt Creator — кросплатформенне інтегроване середовище розробки (IDE), у якому розробники застосунків створюють застосунки для багатьох настільних, вбудованих і мобільних платформ
+  vi: Qt Creator là môi trường phát triển tích hợp (IDE) đa nền tảng giúp các nhà phát triển ứng dụng tạo ứng dụng cho nhiều nền tảng máy tính, thiết bị nhúng và di động
 x:
   source: https://github.com/qt-creator/qt-creator
   eget: qt-creator/qt-creator

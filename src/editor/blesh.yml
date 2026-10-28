@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 用 Bash 编写的命令行编辑器，具有语法高亮、自动建议、vim 模式等功能
   en: a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc.
+  cs: Řádkový editor napsaný čistě v Bashu s zvýrazňováním syntaxe, automatickými návrhy, režimy vim a dalšími funkcemi.
+  de: Ein Zeileneditor in reinem Bash mit Syntaxhervorhebung, automatischen Vorschlägen, vim-Modi und mehr.
+  es: Un editor de líneas escrito en Bash puro con resaltado de sintaxis, sugerencias automáticas, modos vim, etc.
+  fr: Un éditeur de ligne écrit en Bash pur avec coloration syntaxique, suggestions automatiques, modes vim, etc.
+  id: Editor baris yang ditulis dengan Bash murni dengan sorotan sintaks, saran otomatis, mode vim, dan lain-lain.
+  it: Un editor di riga scritto in puro Bash con evidenziazione della sintassi, suggerimenti automatici, modalità vim, ecc.
+  ja: 純粋な Bash で書かれた行エディタ。構文ハイライト、自動候補、vim モードなどを備えています。
+  ko: 구문 강조, 자동 제안, vim 모드 등을 갖춘 순수 Bash로 작성된 줄 편집기.
+  pl: Edytor linii napisany w czystym Bashu z podświetlaniem składni, automatycznymi podpowiedziami, trybami vim i nie tylko.
+  pt: Um editor de linha escrito em Bash puro com realce de sintaxe, sugestões automáticas, modos vim, etc.
+  ro: Un editor de linie scris în Bash pur cu evidențierea sintaxei, sugestii automate, moduri vim etc.
+  ru: Редактор строк, написанный на чистом Bash с подсветкой синтаксиса, автоподсказками, режимами vim и т. д.
+  th: โปรแกรมแก้ไขบรรทัดที่เขียนด้วย Bash ล้วน พร้อมการไฮไลต์ไวยากรณ์ คำแนะนำอัตโนมัติ โหมด vim และอื่น ๆ
+  tr: Sözdizimi vurgulama, otomatik öneriler, vim modları ve daha fazlasıyla saf Bash ile yazılmış satır düzenleyici.
+  uk: Рядковий редактор, написаний на чистому Bash з підсвічуванням синтаксису, автопідказками, режимами vim тощо.
+  vi: Trình soạn thảo dòng viết bằng Bash thuần với tô sáng cú pháp, gợi ý tự động, chế độ vim và hơn thế nữa.
 x:
   source: https://github.com/akinomyoga/ble.sh
   yay: blesh

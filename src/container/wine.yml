@@ -3,6 +3,22 @@ homepage: https://gitlab.winehq.org/wine/wine
 desc:
   cn: Wine 是一个允许运行 MicrosoftWindows 程序的程序(包括 DOS、 Windows 3.x、 Win32 和 Win64 可执行文件)
   en: Wine is a program which allows running Microsoft Windows programs(including DOS, Windows 3.x, Win32, and Win64 executables) on Unix
+  cs: Wine je program, který umožňuje spouštět programy pro Microsoft Windows (včetně DOS, Windows 3.x, Win32 a Win64 spustitelných souborů) v Unixu
+  de: Wine ist ein Programm, das es ermöglicht, Microsoft Windows-Programme (einschließlich DOS-, Windows 3.x-, Win32- und Win64-Programmen) unter Unix auszuführen
+  es: Wine es un programa que permite ejecutar programas de Microsoft Windows (incluidos ejecutables de DOS, Windows 3.x, Win32 y Win64) en Unix
+  fr: Wine est un programme qui permet d'exécuter des programmes Microsoft Windows (y compris les exécutables DOS, Windows 3.x, Win32 et Win64) sur Unix
+  id: Wine adalah program yang memungkinkan menjalankan program Microsoft Windows (termasuk executable DOS, Windows 3.x, Win32, dan Win64) di Unix
+  it: Wine è un programma che permette di eseguire programmi Microsoft Windows (inclusi gli eseguibili DOS, Windows 3.x, Win32 e Win64) su Unix
+  ja: Wine は Unix 上で Microsoft Windows のプログラム (DOS、Windows 3.x、Win32、Win64 の実行ファイルを含む) を実行できるようにするプログラムです
+  ko: Wine은 Unix에서 Microsoft Windows 프로그램(DOS, Windows 3.x, Win32, Win64 실행 파일 포함)을 실행할 수 있게 해 주는 프로그램입니다
+  pl: Wine to program umożliwiający uruchamianie programów Microsoft Windows (w tym plików wykonywalnych DOS, Windows 3.x, Win32 i Win64) w Uniksie
+  pt: O Wine é um programa que permite executar programas do Microsoft Windows (incluindo executáveis de DOS, Windows 3.x, Win32 e Win64) no Unix
+  ro: Wine este un program care permite rularea programelor Microsoft Windows (inclusiv executabilele DOS, Windows 3.x, Win32 și Win64) pe Unix
+  ru: Wine — программа, позволяющая запускать программы Microsoft Windows (включая исполняемые файлы DOS, Windows 3.x, Win32 и Win64) в Unix
+  th: Wine เป็นโปรแกรมที่อนุญาตให้รันโปรแกรม Microsoft Windows (รวมถึงไฟล์ปฏิบัติการ DOS, Windows 3.x, Win32 และ Win64) บน Unix
+  tr: Wine, Unix üzerinde Microsoft Windows programlarını (DOS, Windows 3.x, Win32 ve Win64 çalıştırılabilir dosyaları dahil) çalıştıran bir programdır
+  uk: Wine — програма, яка дозволяє запускати програми Microsoft Windows (включно з виконуваними файлами DOS, Windows 3.x, Win32 та Win64) в Unix
+  vi: Wine là chương trình cho phép chạy các chương trình Microsoft Windows (bao gồm tệp thực thi DOS, Windows 3.x, Win32 và Win64) trên Unix
 rule:
   darwin/brew:
     cmd: brew install --cask wine-stable

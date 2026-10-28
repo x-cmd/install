@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 获取 AI 编程助手最新更新日志的 CLI，覆盖 Claude Code、Codex、Gemini CLI 等
   en: 'CLI to fetch the latest changelogs for AI coding assistants — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw, and a few more'
+  cs: CLI pro získání nejnovějších changelogů AI programovacích asistentů — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw a několik dalších
+  de: CLI zum Abrufen der neuesten Changelogs für KI-Codierungsassistenten — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw und einige weitere
+  es: CLI para obtener los últimos registros de cambios de los asistentes de programación con IA — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw y algunos más
+  fr: CLI pour récupérer les derniers changelogs des assistants de codage IA — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw et quelques autres
+  id: CLI untuk mengambil changelog terbaru dari asisten pemrograman AI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw, dan beberapa lainnya
+  it: CLI per scaricare gli ultimi changelog degli assistenti di programmazione IA — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw e altri ancora
+  ja: AI コーディングアシスタントの最新 changelog を取得する CLI — Claude Code、Codex、OpenCode、Gemini CLI、Openclaw 他
+  ko: AI 코딩 어시스턴트의 최신 변경 로그를 가져오는 CLI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw 등
+  pl: CLI do pobierania najnowszych dzienników zmian asystentów programowania AI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw i kilka innych
+  pt: CLI para buscar os changelogs mais recentes de assistentes de programação com IA — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw e mais alguns
+  ro: CLI pentru a prelua cele mai recente jurnale de modificări ale asistentorilor de codare AI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw și câțiva alții
+  ru: CLI для получения свежих журналов изменений ИИ-помощников по программированию — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw и ещё несколько
+  th: CLI สำหรับดึง changelog ล่าสุดของผู้ช่วยเขียนโค้ดด้วย AI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw และอีกหลายตัว
+  tr: Yapay zeka kodlama asistanlarının en güncel değişiklik kayıtlarını almak için CLI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw ve birkaç tane daha
+  uk: CLI для отримання останніх журналів змін ШІ-помічників програмування — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw та ще кілька
+  vi: CLI để lấy nhật ký thay đổi mới nhất của các trợ lý lập trình AI — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw và một vài công cụ khác
 x:
   source: https://github.com/reyamira/aic
   eget: reyamira/aic

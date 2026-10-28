@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 简洁的命令行容器监控
   en: concise commandline monitoring for containers
+  cs: Stručné monitorování kontejnerů z příkazové řádky
+  de: Kompaktes Kommandozeilen-Monitoring für Container
+  es: Monitoreo conciso de contenedores desde la línea de comandos
+  fr: Supervision concise des conteneurs en ligne de commande
+  id: Pemantauan kontainer ringkas dari baris perintah
+  it: Monitoraggio conciso dei container da riga di comando
+  ja: コンテナを簡潔に監視するコマンドラインツール
+  ko: 컨테이너를 간결하게 모니터링하는 명령줄 도구
+  pl: Zwięzłe monitorowanie kontenerów z wiersza poleceń
+  pt: Monitoramento conciso de contêineres pela linha de comando
+  ro: Monitorizare concisă a containerelor din linia de comandă
+  ru: Лаконичный мониторинг контейнеров из командной строки
+  th: การตรวจสอบคอนเทนเนอร์แบบกระชับจากบรรทัดคำสั่ง
+  tr: Konteynerler için kısa komut satırı izleme
+  uk: Лаконічний моніторинг контейнерів із командного рядка
+  vi: Giám sát container gọn gàng từ dòng lệnh
 x:
   source: https://github.com/bcicen/ctop
   eget: bcicen/ctop

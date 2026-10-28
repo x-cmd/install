@@ -2,6 +2,22 @@ lang: C
 desc:
   en: Full-featured terminal file manager
   cn: 全功能终端文件管理器
+  cs: Plnohodnotný terminálový správce souborů
+  de: Voll ausgestatteter Terminal-Dateimanager
+  es: Un gestor de archivos de terminal con todas las funciones
+  fr: Un gestionnaire de fichiers de terminal complet
+  id: Manajer file terminal lengkap
+  it: Un gestore di file da terminale completo di funzionalità
+  ja: 機能豊富なターミナルファイルマネージャー
+  ko: 완전한 기능을 갖춘 터미널 파일 관리자
+  pl: Pełnowyposażony menedżer plików terminalowych
+  pt: Um gerenciador de arquivos de terminal completo em recursos
+  ro: Un manager de fișiere de terminal cu funcționalitate completă
+  ru: Полнофункциональный файловый менеджер для терминала
+  th: ตัวจัดการไฟล์ในเทอร์มินัลครบฟีเจอร์
+  tr: Tam donanımlı terminal dosya yöneticisi
+  uk: Повнофункціональний файловий менеджер для терміналу
+  vi: Trình quản lý tệp trong terminal đầy đủ tính năng
 homepage: https://github.com/jarun/nnn
 license: BSD-2-Clause
 x:

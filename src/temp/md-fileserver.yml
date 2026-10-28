@@ -3,6 +3,22 @@ homepage: https://github.com/commenthol/md-fileserver
 desc:
   cn: 在浏览器中本地查看 Markdown 文件。
   en: Locally view markdown files in a browser
+  cs: Místní prohlížení souborů markdown v prohlížeči
+  de: Markdown-Dateien lokal im Browser ansehen
+  es: Ver archivos markdown localmente en un navegador
+  fr: Afficher localement les fichiers markdown dans un navigateur
+  id: Menampilkan berkas markdown secara lokal di peramban
+  it: Visualizza localmente i file markdown in un browser
+  ja: ブラウザで markdown ファイルをローカル表示します
+  ko: 브라우저에서 markdown 파일을 로컬로 보기
+  pl: Lokalne przeglądanie plików markdown w przeglądarce
+  pt: Ver arquivos markdown localmente em um navegador
+  ro: Vizualizarea locală a fișierelor markdown într-un browser
+  ru: Локальный просмотр файлов markdown в браузере
+  th: ดูไฟล์ markdown ในเบราว์เซอร์แบบในเครื่อง
+  tr: Markdown dosyalarını tarayıcıda yerel olarak görüntüleyin
+  uk: Локальний перегляд файлів markdown у браузері
+  vi: Xem tệp markdown cục bộ trong trình duyệt
 x:
   source: https://github.com/commenthol/md-fileserver
   npm: md-fileserver

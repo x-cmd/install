@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Rtx 是用于管理编程语言和工具版本的工具
   en: Rtx is a tool for managing programming language and tool versions
+  cs: Rtx je nástroj pro správu verzí programovacích jazyků a nástrojů
+  de: Rtx ist ein Werkzeug zur Verwaltung von Versionen von Programmiersprachen und Tools
+  es: Rtx es una herramienta para gestionar versiones de lenguajes de programación y herramientas
+  fr: Rtx est un outil de gestion des versions des langages de programmation et des outils
+  id: Rtx adalah alat untuk mengelola versi bahasa pemrograman dan alat
+  it: Rtx è uno strumento per gestire le versioni dei linguaggi di programmazione e degli strumenti
+  ja: Rtxは、プログラミング言語やツールのバージョンを管理するツールです。
+  ko: Rtx는 프로그래밍 언어와 도구 버전을 관리하는 도구입니다.
+  pl: Rtx to narzędzie do zarządzania wersjami języków programowania i narzędzi
+  pt: O Rtx é uma ferramenta para gerenciar versões de linguagens de programação e ferramentas
+  ro: Rtx este un instrument pentru gestionarea versiunilor limbajelor de programare și a instrumentelor
+  ru: Rtx — инструмент для управления версиями языков программирования и утилит
+  th: Rtx เป็นเครื่องมือสำหรับจัดการเวอร์ชันของภาษาโปรแกรมและเครื่องมือ
+  tr: Rtx, programlama dili ve araç sürümlerini yönetmek için bir araçtır
+  uk: Rtx — інструмент для керування версіями мов програмування та утиліт
+  vi: Rtx là công cụ quản lý phiên bản ngôn ngữ lập trình và công cụ
 x:
   source: https://github.com/jdx/rtx
   eget: jdx/rtx

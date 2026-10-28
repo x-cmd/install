@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: gron 将 JSON 转换为离散赋值，以便更轻松地“grep”查找您想要的内容并查看其绝对“路径”。它简化了对返回大量 JSON 但文档很糟糕的 API 的探索
   en: gron transforms JSON into discrete assignments to make it easier to `grep` for what you want and see the absolute 'path' to it. It eases the exploration of APIs that return large blobs of JSON but have terrible documentation
+  cs: gron převádí JSON na jednotlivá přiřazení, takže je snazší používat `grep` k nalezení toho, co chcete, a vidět jeho absolutní 'cestu'. Usnadňuje průzkum API, která vracejí velké kusy JSON, ale mají hrozné dokumentaci
+  de: gron verwandelt JSON in einzelne Zuweisungen, damit man leichter mit `grep` nach dem Gewünschten suchen und dessen absoluten 'Pfad' sehen kann. Es erleichtert das Erkunden von APIs, die große JSON-Datenmengen zurückgeben, aber eine schreckliche Dokumentation haben
+  es: gron transforma el JSON en asignaciones discretas para facilitar la búsqueda con `grep` de lo que quieres y ver la 'ruta' absoluta hasta ello. Facilita la exploración de APIs que devuelven grandes bloques de JSON pero tienen una documentación pésima
+  fr: gron transforme le JSON en affectations distinctes pour faciliter la recherche avec `grep` et voir le 'chemin' absolu correspondant. Cela simplifie l'exploration des API qui renvoient de gros blocs de JSON mais dont la documentation est médiocre
+  id: gron mengubah JSON menjadi assignment terpisah sehingga lebih mudah menggunakan `grep` untuk mencari yang Anda inginkan dan melihat 'jalur' absolutnya. Hal ini memudahkan eksplorasi API yang mengembalikan gumpalan JSON besar tetapi dokumentasinya sangat buruk
+  it: gron trasforma il JSON in assegnazioni discrete, rendendo più facile usare `grep` per trovare ciò che cerchi e vederne il 'percorso' assoluto. Semplifica l'esplorazione delle API che restituiscono grandi blocchi di JSON ma hanno una documentazione pessima
+  ja: gron は JSON を個々の代入に変換し、探したい内容を `grep` で探しやすくし、その絶対的な「パス」を確認できるようにします。大きな JSON を返す一方でドキュメントの酷い API の調査が容易になります
+  ko: gron은 JSON을 개별 할당으로 변환하여 원하는 내용을 `grep`으로 찾고 절대적인 '경로'를 확인하기 쉽게 만듭니다. 거대한 JSON을 반환하지만 문서가 형편없는 API를 탐색하기 쉽게 해줍니다
+  pl: gron zamienia JSON w pojedyncze przypisania, dzięki czemu łatwiej użyć `grep`, aby znaleźć szukane dane i zobaczyć ich bezwzględną 'ścieżkę'. Ułatwia eksplorację API zwracających ogromne porcje JSON, ale mających fatalną dokumentację
+  pt: gron transforma JSON em atribuições discretas, facilitando o uso de `grep` para encontrar o que você quer e ver o 'caminho' absoluto até ele. Facilita a exploração de APIs que retornam grandes blocos de JSON, mas têm documentação péssima
+  ro: gron transformă JSON-ul în atribuiri discrete, făcând mai ușoară căutarea cu `grep` a ceea ce cauți și vederea 'traseului' absolut până la el. Facilitează explorarea API-urilor care returnează blocuri mari de JSON, dar au documentație oribilă
+  ru: gron преобразует JSON в отдельные присваивания, чтобы было проще искать нужное с помощью `grep` и видеть его абсолютный «путь». Это упрощает исследование API, которые возвращают большие объёмы JSON, но имеют ужасную документацию
+  th: gron แปลง JSON เป็นการกำหนดค่าแยกส่วน เพื่อให้ใช้ `grep` หาเนื้อหาที่ต้องการได้ง่ายขึ้นและเห็น 'เส้นทาง' แบบสัมบูรณ์ ช่วยให้สำรวจ API ที่คืน JSON ก้อนใหญ่แต่เอกสารแย่มากได้ง่ายขึ้น
+  tr: gron, JSON'u ayrı atamalara dönüştürerek istediğinizi `grep` ile aramanızı ve mutlak 'yolunu' görmenizi kolaylaştırır. Devasa JSON yığınları döndüren ama belgelendirmesi berbat olan API'leri keşfetmeyi kolaylaştırır
+  uk: gron перетворює JSON на окремі присвоєння, щоб було легше знаходити потрібне за допомогою `grep` і бачити його абсолютний «шлях». Це спрощує дослідження API, які повертають великі обсяги JSON, але мають жахливу документацію
+  vi: gron biến JSON thành các phép gán rời rạc để dễ dùng `grep` tìm nội dung bạn muốn và xem 'đường dẫn' tuyệt đối của nó, giúp việc khám phá các API trả về lượng JSON lớn nhưng tài liệu rất tệ trở nên dễ dàng hơn
 x:
   source: https://github.com/tomnomnom/gron
   eget: tomnomnom/gron

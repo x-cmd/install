@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 PyTorch 简洁实现 OpenAI CLIP 模型
   en: Simple implementation of OpenAI CLIP model in PyTorch.
+  cs: Jednoduchá implementace modelu OpenAI CLIP v PyTorch.
+  de: Einfache Implementierung des OpenAI-CLIP-Modells in PyTorch.
+  es: Implementación sencilla del modelo OpenAI CLIP en PyTorch.
+  fr: Implémentation simple du modèle OpenAI CLIP en PyTorch.
+  id: Implementasi sederhana model OpenAI CLIP dengan PyTorch.
+  it: Implementazione semplice del modello OpenAI CLIP in PyTorch.
+  ja: PyTorch による OpenAI CLIP モデルのシンプルな実装。
+  ko: PyTorch로 구현한 간단한 OpenAI CLIP 모델.
+  pl: Prosta implementacja modelu OpenAI CLIP w PyTorch.
+  pt: Implementação simples do modelo OpenAI CLIP em PyTorch.
+  ro: Implementare simplă a modelului OpenAI CLIP în PyTorch.
+  ru: Простая реализация модели OpenAI CLIP на PyTorch.
+  th: การติดตั้งโมเดล OpenAI CLIP อย่างง่ายดายด้วย PyTorch
+  tr: OpenAI CLIP modelinin PyTorch ile basit uygulaması.
+  uk: Проста реалізація моделі OpenAI CLIP на PyTorch.
+  vi: Triển khai đơn giản mô hình OpenAI CLIP bằng PyTorch.
 x:
   source: https://github.com/moein-shariatnia/OpenAI-CLIP
   eget: moein-shariatnia/OpenAI-CLIP

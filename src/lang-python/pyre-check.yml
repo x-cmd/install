@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Pyre 是符合 PEP 484 的 Python 的表现类型检查器
   en: Pyre is a performant type checker for Python compliant with PEP 484
+  cs: Pyre je výkonný kontrolor typů pro Python vyhovující PEP 484
+  de: Pyre ist ein leistungsfähiger Typprüfer für Python, der PEP 484 entspricht
+  es: Pyre es un verificador de tipos rápido para Python que cumple con PEP 484
+  fr: Pyre est un vérificateur de types performant pour Python conforme à PEP 484
+  id: Pyre adalah pemeriksa tipe yangperforman untuk Python sesuai PEP 484
+  it: Pyre è un controllore di tipi ad alte prestazioni per Python conforme a PEP 484
+  ja: Pyre は PEP 484 に準拠した高速な Python 型チェッカーです
+  ko: Pyre는 PEP 484를 준수하는 빠른 Python 타입 검사기입니다
+  pl: Pyre to wydajny checker typów dla Pythona zgodny z PEP 484
+  pt: Pyre é um verificador de tipos rápido para Python em conformidade com PEP 484
+  ro: Pyre este un verificator de tipuri performant pentru Python, conform cu PEP 484
+  ru: Pyre — это быстрый проверщик типов для Python, соответствующий PEP 484
+  th: Pyre เป็นตัวตรวจสอบชนิดข้อมูลที่มีประสิทธิภาพสำหรับ Python ตามมาตรฐาน PEP 484
+  tr: Pyre, PEP 484 ile uyumlu, Python için performanslı bir tür denetleyicisidir
+  uk: Pyre — це швидкий перевіряч типів для Python, що відповідає PEP 484
+  vi: Pyre là trình kiểm tra kiểu hiệu quả cho Python tuân thủ PEP 484
 x:
   source: https://github.com/facebook/pyre-check
   apt: python3

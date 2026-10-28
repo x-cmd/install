@@ -3,6 +3,22 @@ homepage: https://github.com/ccache/ccache
 desc:
   en: Ccache is a compiler cache.
   cn: CCACHE 是编译器缓存
+  cs: Ccache je kompilátorová cache.
+  de: Ccache ist ein Compiler-Cache.
+  es: Ccache es una caché de compilador.
+  fr: Ccache est un cache de compilation.
+  id: Ccache adalah cache kompilator.
+  it: Ccache è una cache del compilatore.
+  ja: Ccache はコンパイラキャッシュです。
+  ko: Ccache는 컴파일러 캐시입니다.
+  pl: Ccache to pamięć podręczna kompilatora.
+  pt: Ccache é um cache de compilador.
+  ro: Ccache este o memorie cache a compilatorului.
+  ru: Ccache — это кэш компилятора.
+  th: Ccache คือแคชของคอมไพเลอร์
+  tr: Ccache bir derleyici önbelleğidir.
+  uk: Ccache — це кеш компілятора.
+  vi: Ccache là bộ nhớ đệm của trình biên dịch.
 x:
   source: https://github.com/ccache/ccache
   eget: ccache/ccache

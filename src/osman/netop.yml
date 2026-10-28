@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: netop 是可以自定义过滤网络流量规则的终端命令行界面。
   en: netop is a terminal command line interface that can customize the filter network traffic rule.
+  cs: netop je terminálové rozhraní příkazové řádky, které umožňuje přizpůsobit pravidla filtrování síťového provozu.
+  de: netop ist eine Terminal-Kommandozeilenoberfläche, mit der die Filterregeln für Netzwerkverkehr angepasst werden können.
+  es: netop es una interfaz de línea de comandos de terminal que permite personalizar la regla de filtrado del tráfico de red.
+  fr: netop est une interface de ligne de commande terminal permettant de personnaliser la règle de filtrage du trafic réseau.
+  id: netop adalah antarmuka baris perintah terminal yang dapat menyesuaikan aturan filter lalu lintas jaringan.
+  it: netop è un'interfaccia a riga di comando da terminale che consente di personalizzare la regola di filtraggio del traffico di rete.
+  ja: netop は、ネットワークトラフィックのフィルタルールをカスタマイズできるターミナルコマンドラインインターフェースです。
+  ko: netop는 네트워크 트래픽 필터 규칙을 사용자 지정할 수 있는 터미널 명령줄 인터페이스입니다.
+  pl: netop to terminalowy interfejs wiersza poleceń, który pozwala dostosować reguły filtrowania ruchu sieciowego.
+  pt: netop é uma interface de linha de comando de terminal que permite personalizar a regra de filtragem do tráfego de rede.
+  ro: netop este o interfață de linie de comandă pentru terminal care permite personalizarea regulii de filtrare a traficului de rețea.
+  ru: netop — терминальный интерфейс командной строки, позволяющий настраивать правила фильтрации сетевого трафика.
+  th: netop เป็นอินเทอร์เฟซบรรทัดคำสั่งเทอร์มินัลที่ปรับแต่งกฎการกรองทราฟฟิกเครือข่ายได้
+  tr: netop, ağ trafiğini filtreleme kuralını özelleştirebilen bir terminal komut satırı arayüzüdür.
+  uk: netop — термінальний інтерфейс командного рядка, що дозволяє налаштовувати правила фільтрації мережевого трафіку.
+  vi: netop là giao diện dòng lệnh terminal cho phép tùy chỉnh quy tắc lọc lưu lượng mạng.
 x:
   source: https://github.com/ZingerLittleBee/netop
   yay: netop

@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: nginx 服务器的实时监控工具
   en: Real-time monitoring tool for nginx server
+  cs: Nástroj pro monitorování serveru nginx v reálném čase
+  de: Echtzeit-Überwachungstool für nginx-Server
+  es: Herramienta de monitorización en tiempo real para el servidor nginx
+  fr: Outil de surveillance en temps réel pour le serveur nginx
+  id: Alat pemantauan waktu nyata untuk server nginx
+  it: Strumento di monitoraggio in tempo reale per il server nginx
+  ja: nginx サーバをリアルタイムで監視するツール
+  ko: nginx 서버를 실시간으로 모니터링하는 도구
+  pl: Narzędzie do monitorowania serwera nginx w czasie rzeczywistym
+  pt: Ferramenta de monitoramento em tempo real para o servidor nginx
+  ro: Instrument de monitorizare în timp real pentru serverul nginx
+  ru: Инструмент мониторинга сервера nginx в реальном времени
+  th: เครื่องมือติดตามเซิร์ฟเวอร์ nginx แบบเรียลไทม์
+  tr: nginx sunucusu için gerçek zamanlı izleme aracı
+  uk: Інструмент моніторингу сервера nginx у реальному часі
+  vi: Công cụ giám sát thời gian thực cho máy chủ nginx
 homepage: https://github.com/lebinh/ngxtop
 license: MIT
 x:

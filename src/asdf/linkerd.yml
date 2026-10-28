@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Linkerd 是 Kubernetes 的服务网
   en: Linkerd is a service mesh for Kubernetes
+  cs: Linkerd je service mesh pro Kubernetes
+  de: Linkerd ist ein Service Mesh für Kubernetes
+  es: Linkerd es un service mesh para Kubernetes
+  fr: Linkerd est un service mesh pour Kubernetes
+  id: Linkerd adalah service mesh untuk Kubernetes
+  it: Linkerd è un service mesh per Kubernetes
+  ja: Linkerd は Kubernetes 用のサービスメッシュです
+  ko: Linkerd는 Kubernetes용 서비스 메시입니다
+  pl: Linkerd to siatka usług dla Kubernetes
+  pt: Linkerd é uma service mesh para Kubernetes
+  ro: Linkerd este un service mesh pentru Kubernetes
+  ru: Linkerd — это service mesh для Kubernetes
+  th: Linkerd คือ service mesh สำหรับ Kubernetes
+  tr: Linkerd, Kubernetes için bir servis ağıdır
+  uk: Linkerd — це сервісна сітка для Kubernetes
+  vi: Linkerd là một service mesh cho Kubernetes
 x:
   source: https://github.com/linkerd/linkerd2
   eget: linkerd/linkerd2

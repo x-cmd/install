@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 异步递归文件复制实用程序
   en: Asynchronous recursive file copy utility.
+  cs: Asynchronní rekurzivní nástroj pro kopírování souborů.
+  de: Asynchrones rekursives Dateikopierwerkzeug.
+  es: Utilidad asíncrona recursiva para copiar archivos.
+  fr: Utilitaire asynchrone récursif de copie de fichiers.
+  id: Utilitas salin rekursif untuk menyalin berkas.
+  it: Utilità asincrona ricorsiva per la copia di file.
+  ja: 非同期再帰型のファイルコピーユーティリティ。
+  ko: 비동기 재귀 파일 복사 유틸리티.
+  pl: Asynchroniczne rekurencyjne narzędzie do kopiowania plików.
+  pt: Utilitário assíncrono recursivo de cópia de arquivos.
+  ro: Utilitar asincron recursiv pentru copierea fișierelor.
+  ru: Асинхронная рекурсивная утилита для копирования файлов.
+  th: ยูทิลิตี้คัดลอกไฟล์แบบอะซิงโครนัสและแบบเรียกซ้ำ
+  tr: Asenkron özyinelemeli dosya kopyalama aracı.
+  uk: Асинхронна рекурсивна утиліта для копіювання файлів.
+  vi: Tiện ích sao chép tệp đệ quy bất đồng bộ.
 x:
   source: https://github.com/AvianFlu/ncp
   yay: ncp

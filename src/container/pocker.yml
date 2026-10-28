@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于管理 Docker 任务的 TUI 工具。
   en: A TUI tool for Docker.
+  cs: Nástroj TUI pro správu úloh Docker.
+  de: Ein TUI-Werkzeug zur Verwaltung von Docker-Aufgaben.
+  es: Una herramienta TUI para gestionar tareas de Docker.
+  fr: Un outil TUI pour gérer les tâches Docker.
+  id: Alat TUI untuk mengelola tugas Docker.
+  it: Uno strumento TUI per gestire le attività Docker.
+  ja: Docker タスクを管理するための TUI ツール。
+  ko: Docker 작업을 관리하기 위한 TUI 도구.
+  pl: Narzędzie TUI do zarządzania zadaniami Dockera.
+  pt: Uma ferramenta TUI para gerenciar tarefas do Docker.
+  ro: Un instrument TUI pentru gestionarea sarcinilor Docker.
+  ru: TUI-инструмент для управления задачами Docker.
+  th: เครื่องมือ TUI สำหรับจัดการงาน Docker.
+  tr: Docker işlerini yönetmek için bir TUI aracı.
+  uk: TUI-інструмент для керування завданнями Docker.
+  vi: Công cụ TUI để quản lý các tác vụ Docker.
 x:
   source: https://github.com/pommee/Pocker
   pip: pocker

@@ -3,6 +3,22 @@ homepage: https://github.com/deepin-community/dpkg-awk
 desc:
   en: Gawk script to parse /var/lib/dpkg/{status,available} and Packages
   cn: 解析 /var/lib/dpkg/{status,available} 和 Packages 的 Gawk 脚本
+  cs: Skript Gawk pro parsování /var/lib/dpkg/{status,available} a Packages
+  de: Gawk-Skript zum Parsen von /var/lib/dpkg/{status,available} und Packages
+  es: Script de Gawk para analizar /var/lib/dpkg/{status,available} y Packages
+  fr: Script Gawk pour analyser /var/lib/dpkg/{status,available} et Packages
+  id: Skrip Gawk untuk mengurai /var/lib/dpkg/{status,available} dan Packages
+  it: Script Gawk per analizzare /var/lib/dpkg/{status,available} e Packages
+  ja: /var/lib/dpkg/{status,available} と Packages を解析する Gawk スクリプト
+  ko: /var/lib/dpkg/{status,available} 및 Packages를 파싱하는 Gawk 스크립트
+  pl: Skrypt Gawk do analizowania /var/lib/dpkg/{status,available} i Packages
+  pt: Script Gawk para analisar /var/lib/dpkg/{status,available} e Packages
+  ro: Script Gawk pentru analizarea /var/lib/dpkg/{status,available} și Packages
+  ru: Скрипт Gawk для разбора /var/lib/dpkg/{status,available} и Packages
+  th: สคริปต์ Gawk สำหรับแยกวิเคราะห์ /var/lib/dpkg/{status,available} และ Packages
+  tr: /var/lib/dpkg/{status,available} ve Packages dosyalarını ayrıştırmak için Gawk betiği
+  uk: Скрипт Gawk для розбору /var/lib/dpkg/{status,available} та Packages
+  vi: Kịch bản Gawk để phân tích /var/lib/dpkg/{status,available} và Packages
 x:
   source: https://github.com/deepin-community/dpkg-awk
   apt: dpkg-awk

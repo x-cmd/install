@@ -3,6 +3,22 @@ homepage: https://github.com/phiresky/ripgrep-all
 desc:
   cn: rga 是一个面向行的搜索工具，允许你在多种文件类型中使用正则表达式进行查找。
   en: rga is a line-oriented search tool that allows you to look for a regex in a multitude of file types.
+  cs: rga je nástroj pro orientované hledání na řádek, který vám umožňuje hledat regulární výraz v mnoha typech souborů.
+  de: rga ist ein zeilenorientiertes Suchwerkzeug, mit dem Sie in einer Vielzahl von Dateitypen nach einem regulären Ausdruck suchen können.
+  es: rga es una herramienta de búsqueda orientada a líneas que te permite buscar una expresión regular en una multitud de tipos de archivo.
+  fr: rga est un outil de recherche orienté ligne qui vous permet de rechercher une expression régulière dans une multitude de types de fichiers.
+  id: rga adalah alat pencarian berbasis baris yang memungkinkan Anda mencari regex di berbagai jenis file.
+  it: rga è uno strumento di ricerca orientato alle righe che ti permette di cercare una espressione regolare in una moltitudine di tipi di file.
+  ja: rga は行指向型の検索ツールで、多くのファイル形式に対して正規表現で検索できます。
+  ko: rga는 줄 단위 검색 도구로, 다양한 파일 형식에서 정규식을 찾을 수 있게 해줍니다.
+  pl: rga jest narzędziem do wyszukiwania zorientowanym na wiersze, które pozwala szukać wyrażenia regularnego w wielu typach plików.
+  pt: rga é uma ferramenta de busca orientada a linhas que permite pesquisar uma expressão regular em uma infinidade de tipos de arquivo.
+  ro: rga este un instrument de căutare orientat pe linii care vă permite să căutați o expresie regulată în numeroase tipuri de fișiere.
+  ru: rga — построчный инструмент поиска, позволяющий искать регулярное выражение во множестве типов файлов.
+  th: rga เป็นเครื่องมือค้นหาแบบเน้นบรรทัด ช่วยให้คุณค้นหานิพจน์ทั่วไปในไฟล์ได้หลายประเภท
+  tr: rga, çok sayıda dosya türünde düzenli ifade aramanıza olanak tanıyan satır odaklı bir arama aracıdır.
+  uk: rga — інструмент пошуку, зорієнтований на рядки, який дозволяє шукати регулярний вираз у багатьох типах файлів.
+  vi: rga là công cụ tìm kiếm hướng theo dòng cho phép bạn tìm biểu thức chính quy trong nhiều loại tệp khác nhau.
 x:
   source: https://github.com/phiresky/ripgrep-all
   eget: phiresky/ripgrep-all

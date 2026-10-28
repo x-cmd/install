@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 掠夺文件系统以查找敏感信息。
   en: Pillage filesystems for sensitive information.
+  cs: Prohledává systémy souborů hledáním citlivých informací.
+  de: Durchsucht Dateisysteme nach sensiblen Informationen.
+  es: Registra los sistemas de archivos en busca de información sensible.
+  fr: Pille les systèmes de fichiers à la recherche d'informations sensibles.
+  id: Menelusuri sistem berkas untuk mencari informasi sensitif.
+  it: Ispeziona i file system alla ricerca di informazioni sensibili.
+  ja: ファイルシステムをスクレイプして機密情報を探します。
+  ko: 민감한 정보를 찾기 위해 파일 시스템을 검색합니다.
+  pl: Przeszukuje systemy plików w poszukiwaniu informacji wrażliwych.
+  pt: Vasculha sistemas de arquivos em busca de informações sensíveis.
+  ro: Scanează sistemele de fișiere pentru informații sensibile.
+  ru: Обыскивает файловые системы в поисках конфиденциальной информации.
+  th: สแกนระบบไฟล์เพื่อค้นหาข้อมูลอ่อนไหว
+  tr: Hassas bilgi aramak için dosya sistemlerini tarar.
+  uk: Обшукує файлові системи в пошуках конфіденційної інформації.
+  vi: Lùm các hệ thống tệp để tìm thông tin nhạy cảm
 x:
   source: https://github.com/brittonhayes/pillager
   brew: pillager

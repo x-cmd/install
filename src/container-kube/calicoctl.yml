@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Calico 是一个网络和安全解决方案，使 Kubernetes 工作负载和非 Kubernetes/遗留工作负载能够无缝和安全地通信
   en: Calico is a networking and security solution that enables Kubernetes workloads and non-Kubernetes/legacy workloads to communicate seamlessly and securely
+  cs: Calico je síťové a bezpečnostní řešení, které umožňuje pracovním zatížením Kubernetes i mimo Kubernetes/legacy pracovním zatížením komunikovat bezpečně a bez přerušení
+  de: Calico ist eine Netzwerk- und Sicherheitslösung, die es Kubernetes-Workloads und Nicht-Kubernetes-/Legacy-Workloads ermöglicht, nahtlos und sicher zu kommunizieren
+  es: Calico es una solución de red y seguridad que permite que las cargas de trabajo de Kubernetes y las que no son de Kubernetes/heredadas se comuniquen de forma fluida y segura
+  fr: Calico est une solution de réseau et de sécurité qui permet aux charges de travail Kubernetes et non Kubernetes/hermétiques de communiquer de manière fluide et sécurisée
+  id: Calico adalah solusi jaringan dan keamanan yang memungkinkan beban kerja Kubernetes dan beban kerja non-Kubernetes/legacy berkomunikasi dengan mulus dan aman
+  it: Calico è una soluzione di rete e sicurezza che consente ai carichi di lavoro Kubernetes e non Kubernetes/legacy di comunicare in modo fluido e sicuro
+  ja: Calico は、Kubernetes のワークロードと非 Kubernetes/レガシーなワークロードがシームレスかつ安全に通信できるようにするネットワークおよびセキュリティソリューションです。
+  ko: Calico는 Kubernetes 워크로드와 비 Kubernetes/레거시 워크로드가 매끄럽고 안전하게 통신할 수 있게 하는 네트워킹 및 보안 솔루션입니다
+  pl: Calico to rozwiązanie sieciowe i bezpieczeństwa, umożliwiające obciążeniom Kubernetes oraz obciążeniom spoza Kubernetes/legacy komunikację w sposób płynny i bezpieczny
+  pt: Calico é uma solução de rede e segurança que permite que cargas de trabalho do Kubernetes e cargas de trabalho não-Kubernetes/hereditárias se comuniquem de forma contínua e segura
+  ro: Calico este o soluție de rețea și securitate care permite sarcinilor Kubernetes și sarcinilor non-Kubernetes/legacy să comunice fără întreruperi și în siguranță
+  ru: Calico — это решение для сетей и безопасности, позволяющее рабочим нагрузкам Kubernetes и рабочим нагрузкам вне Kubernetes/устаревшим взаимодействовать беспрепятственно и безопасно
+  th: Calico คือโซลูชันเครือข่ายและความปลอดภัยที่ช่วยให้เวิร์กโหลดของ Kubernetes และเวิร์กโหลดที่ไม่ใช่ Kubernetes/ระบบเก่าสื่อสารกันได้อย่างราบรื่นและปลอดภัย
+  tr: Calico, Kubernetes iş yükleri ile Kubernetes dışı/legacy iş yüklerinin sorunsuz ve güvenli iletişim kurmasını sağlayan bir ağ ve güvenlik çözümüdür
+  uk: Calico — це рішення для мереж та безпеки, що дозволяє робочим навантаженням Kubernetes і робочим навантаженням поза Kubernetes/застарілим взаємодіяти безперервно та безпечно
+  vi: Calico là giải pháp mạng và bảo mật giúp các workload Kubernetes và workload không phải Kubernetes/legacy giao tiếp liền mạch và an toàn
 x:
   source: https://github.com/projectcalico/calico
   yay: calicoctl

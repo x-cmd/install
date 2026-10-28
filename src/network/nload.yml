@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: nload 是一个控制台应用程序，用于实时监控网络流量和带宽使用情况。
   en: nload is a console application which monitors network traffic and bandwidth usage in real time.
+  cs: nload je konzolová aplikace, která v reálném čase monitoruje síťový provoz a využití šířky pásma.
+  de: nload ist eine Konsolenanwendung, die Netzwerkverkehr und Bandbreitennutzung in Echtzeit überwacht.
+  es: nload es una aplicación de consola que supervisa el tráfico de red y el uso de ancho de banda en tiempo real.
+  fr: nload est une application console qui surveille le trafic réseau et l'utilisation de la bande passante en temps réel.
+  id: nload adalah aplikasi konsol yang memantau lalu lintas jaringan dan penggunaan bandwidth secara real time.
+  it: nload è un'applicazione console che monitora il traffico di rete e l'uso della banda in tempo reale.
+  ja: nload はネットワークトラフィックと帯域幅の使用状況をリアルタイムで監視するコンソールアプリケーションです。
+  ko: nload는 네트워크 트래픽과 대역폭 사용량을 실시간으로 모니터링하는 콘솔 애플리케이션입니다.
+  pl: nload to aplikacja konsolowa monitorująca w czasie rzeczywistym ruch sieciowy i wykorzystanie przepustowości.
+  pt: O nload é um aplicativo de console que monitora o tráfego de rede e o uso de largura de banda em tempo real.
+  ro: nload este o aplicație de consolă care monitorizează traficul de rețea și utilizarea benzii de lățime în timp real.
+  ru: nload — консольное приложение для мониторинга сетевого трафика и использования пропускной способности в реальном времени.
+  th: nload เป็นแอปพลิเคชันคอนโซลที่ติดตามการรับส่งข้อมูลเครือข่ายและการใช้แบนด์วิดท์แบบเรียลไทม์
+  tr: nload, ağ trafiğini ve bant genişliği kullanımını gerçek zamanlı izleyen bir konsol uygulamasıdır.
+  uk: nload — консольний застосунок для моніторингу мережевого трафіку та використання пропускної здатності в реальному часі.
+  vi: nload là ứng dụng console theo dõi lưu lượng mạng và mức sử dụng băng thông theo thời gian thực.
 x:
   source: https://github.com/rolandriegel/nload
   apt: nload

@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 用于创建和恢复加密文件的工具
   en: Tools for creating and recovering encrypted files
+  cs: Nástroje pro vytváření a obnovování šifrovaných souborů
+  de: Werkzeuge zum Erstellen und Wiederherstellen verschlüsselter Dateien
+  es: Herramientas para crear y recuperar archivos cifrados
+  fr: Outils pour créer et récupérer des fichiers chiffrés
+  id: Alat untuk membuat dan memulihkan file terenkripsi
+  it: Strumenti per creare e recuperare file crittografati
+  ja: 暗号化ファイルの作成と復元のためのツール
+  ko: 암호화된 파일을 생성하고 복구하는 도구
+  pl: Narzędzia do tworzenia i odzyskiwania zaszyfrowanych plików
+  pt: Ferramentas para criar e recuperar arquivos criptografados
+  ro: Instrumente pentru crearea și recuperarea fișierelor criptate
+  ru: Инструменты для создания и восстановления зашифрованных файлов
+  th: เครื่องมือสำหรับสร้างและกู้คืนไฟล์ที่เข้ารหัส
+  tr: Şifrelenmiş dosyaları oluşturmak ve kurtarmak için araçlar
+  uk: Інструменти для створення та відновлення зашифрованих файлів
+  vi: Công cụ để tạo và khôi phục tệp đã mã hóa
 homepage: https://github.com/jesseduffield/horcrux
 license: MIT
 x:

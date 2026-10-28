@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 通过 Cloudflare 进行网络测速的 CLI
   en: 'CLI for internet speed test via cloudflare'
+  cs: CLI pro test rychlosti internetu přes cloudflare
+  de: CLI für einen Internetgeschwindigkeitstest über cloudflare
+  es: CLI para probar la velocidad de internet a través de cloudflare
+  fr: CLI pour tester la vitesse d'Internet via cloudflare
+  id: CLI untuk menguji kecepatan internet melalui cloudflare
+  it: CLI per il test di velocità della connessione internet tramite cloudflare
+  ja: cloudflare 経由のインターネット速度テスト用 CLI
+  ko: cloudflare를 통한 인터넷 속도 테스트 CLI
+  pl: CLI do testu prędkości internetu przez cloudflare
+  pt: CLI para testar a velocidade da internet via cloudflare
+  ro: CLI pentru testarea vitezei internetului prin cloudflare
+  ru: CLI для тестирования скорости интернета через cloudflare
+  th: CLI สำหรับทดสอบความเร็วอินเทอร์เน็ตผ่าน cloudflare
+  tr: cloudflare üzerinden internet hız testi için CLI
+  uk: CLI для тестування швидкості інтернету через cloudflare
+  vi: CLI để kiểm tra tốc độ internet qua cloudflare
 x:
   source: https://github.com/kavehtehrani/cloudflare-speed-cli
   eget: kavehtehrani/cloudflare-speed-cli

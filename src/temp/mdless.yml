@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: mdless 是一个实用程序，可提供终端中标记文件的格式化和突出显示的视图
   en: mdless is a utility that provides a formatted and highlighted view of Markdown files in Terminal
+  cs: mdless je nástroj, který poskytuje formátovaný a zvýrazněný pohled na soubory Markdown v terminálu
+  de: mdless ist ein Hilfsprogramm, das eine formatierte und hervorgehobene Ansicht von Markdown-Dateien im Terminal bietet
+  es: mdless es una utilidad que ofrece una vista formateada y resaltada de los archivos Markdown en la terminal
+  fr: mdless est un utilitaire qui fournit une vue formatée et colorée des fichiers Markdown dans le terminal
+  id: mdless adalah utilitas yang menyediakan tampilan terformat dan disorot dari berkas Markdown di Terminal
+  it: mdless è un'utilità che fornisce una vista formattata ed evidenziata dei file Markdown nel terminale
+  ja: mdless は、ターミナルで Markdown ファイルを整形してハイライト表示するユーティリティです
+  ko: mdless는 터미널에서 Markdown 파일을 서식 지정하고 강조 표시된 보기를 제공하는 유틸리티입니다
+  pl: mdless to narzędzie, które zapewnia sformatowany i podświetlony widok plików Markdown w terminalu
+  pt: mdless é um utilitário que fornece uma visão formatada e destacada dos arquivos Markdown no Terminal
+  ro: mdless este un utilitar care oferă o vizualizare formatată și evidențiată a fișierelor Markdown în Terminal
+  ru: mdless — это утилита, которая предоставляет форматированное и подсвеченное представление файлов Markdown в терминале
+  th: mdless คือยูทิลิตี้ที่แสดงไฟล์ Markdown ใน Terminal ในรูปแบบที่จัดรูปแบบและเน้นสี
+  tr: mdless, terminalde Markdown dosyaları için biçimlendirilmiş ve vurgulanmış bir görünüm sağlayan bir yardımcı programdır
+  uk: mdless — це утиліта, яка надає форматований і підсвічений перегляд файлів Markdown у терміналі
+  vi: mdless là tiện ích cung cấp chế độ xem định dạng và tô sáng cho các tệp Markdown trong Terminal
 x:
   source: https://github.com/ttscoff/mdless
   brew: mdless

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Terminal UI for ufw
   cn: ufw 的终端用户界面
+  cs: Terminálové rozhraní pro ufw
+  de: Terminal-UI für ufw
+  es: Interfaz de terminal para ufw
+  fr: Interface terminal pour ufw
+  id: Antarmuka terminal untuk ufw
+  it: Interfaccia terminale per ufw
+  ja: ufw のターミナル UI
+  ko: ufw용 터미널 UI
+  pl: Interfejs terminala dla ufw
+  pt: Interface de terminal para o ufw
+  ro: Interfață de terminal pentru ufw
+  ru: Терминальный интерфейс для ufw
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ ufw
+  tr: ufw için terminal arayüzü
+  uk: Термінальний інтерфейс для ufw
+  vi: Giao diện dòng lệnh cho ufw
 x:
   source: https://github.com/peltho/tufw
   yaourt: tufw-git

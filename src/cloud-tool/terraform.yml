@@ -3,6 +3,22 @@ homepage: https://github.com/hashicorp/terraform
 desc:
   cn: 使用 Terraform 可以在任何云上实现基础架构自动化
   en: Automate infrastructure on any cloud with Terraform
+  cs: Automatizujte infrastrukturu na jakékoli cloudu pomocí Terraform
+  de: Infrastruktur auf jeder Cloud mit Terraform automatisieren
+  es: Automatiza la infraestructura en cualquier nube con Terraform
+  fr: Automatisez votre infrastructure sur n'importe quel cloud avec Terraform
+  id: Otomatiskan infrastruktur di cloud mana pun dengan Terraform
+  it: Automatizza l'infrastruttura su qualsiasi cloud con Terraform
+  ja: Terraform で任意クラウドのインフラストラクチャを自動化する
+  ko: Terraform으로 어떤 클라우드에서든 인프라를 자동화하세요
+  pl: Automatyzuj infrastrukturę w dowolnej chmurze za pomocą Terraform
+  pt: Automatize a infraestrutura em qualquer nuvem com o Terraform
+  ro: Automatizați infrastructura în orice cloud cu Terraform
+  ru: Автоматизируйте инфраструктуру в любом облаке с помощью Terraform
+  th: ทำให้อินฟราสตรักเจอร์บนคลาวด์ใดก็ได้อัตโนมัติด้วย Terraform
+  tr: Terraform ile her bulutta altyapı otomasyonu yapın
+  uk: Автоматизуйте інфраструктуру в будь-якій хмарі за допомогою Terraform
+  vi: Tự động hóa hạ tầng trên mọi nền tảng đám mây với Terraform
 x:
   source: https://github.com/hashicorp/terraform
   apt: terraform

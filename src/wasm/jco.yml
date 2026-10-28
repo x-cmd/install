@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于使用 WebAssembly 组件的 JavaScript 工具
   en: JavaScript tooling for working with WebAssembly Components
+  cs: JavaScript nástroje pro práci s komponentami WebAssembly
+  de: JavaScript-Tooling für die Arbeit mit WebAssembly-Komponenten
+  es: Herramientas de JavaScript para trabajar con componentes de WebAssembly
+  fr: Outils JavaScript pour travailler avec les composants WebAssembly
+  id: Perkakas JavaScript untuk bekerja dengan Komponen WebAssembly
+  it: Strumenti JavaScript per lavorare con i componenti WebAssembly
+  ja: WebAssembly コンポーネントを扱うための JavaScript ツール
+  ko: WebAssembly 컴포넌트를 다루기 위한 JavaScript 도구
+  pl: Narzędzia JavaScript do pracy z komponentami WebAssembly
+  pt: Ferramentas JavaScript para trabalhar com Componentes WebAssembly
+  ro: Instrumente JavaScript pentru lucrul cu componente WebAssembly
+  ru: Инструменты JavaScript для работы с компонентами WebAssembly
+  th: เครื่องมือ JavaScript สำหรับทำงานกับ WebAssembly Components
+  tr: WebAssembly bileşenleriyle çalışmak için JavaScript araçları
+  uk: Інструменти JavaScript для роботи з компонентами WebAssembly
+  vi: Công cụ JavaScript để làm việc với WebAssembly Components
 x:
   source: https://github.com/bytecodealliance/jco
   eget: bytecodealliance/jco

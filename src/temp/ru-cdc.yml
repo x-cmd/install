@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Rust 实现的 CDC 工具
   en: Another CDC Tool Written by Rust
+  cs: Další nástroj CDC napsaný v Rustu
+  de: Ein weiteres in Rust geschriebenes CDC-Werkzeug
+  es: Otra herramienta de CDC escrita en Rust
+  fr: Un autre outil CDC écrit en Rust
+  id: Alat CDC lain yang ditulis dengan Rust
+  it: Un altro strumento CDC scritto in Rust
+  ja: Rust で書かれた別の CDC ツール
+  ko: Rust로 작성된 또 다른 CDC 도구
+  pl: Kolejne narzędzie CDC napisane w Rust
+  pt: Outra ferramenta de CDC escrita em Rust
+  ro: Un alt instrument CDC scris în Rust
+  ru: Ещё один инструмент CDC, написанный на Rust
+  th: เครื่องมือ CDC อีกตัวที่เขียนด้วย Rust
+  tr: Rust ile yazılmış başka bir CDC aracı
+  uk: Ще один інструмент CDC, написаний на Rust
+  vi: Một công cụ CDC khác được viết bằng Rust
 x:
   source: https://github.com/ipconfiger/ru-cdc
 rule:

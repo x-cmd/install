@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: gitui 是一个基于终端的 Git 用户界面工具
   en: gitui is a terminal-based Git user interface tool
+  cs: gitui je nástroj pro uživatelské rozhraní Git založený na terminálu
+  de: gitui ist ein terminalbasiertes Benutzeroberflächenwerkzeug für Git
+  es: gitui es una herramienta de interfaz de usuario de Git basada en terminal
+  fr: gitui est un outil d'interface utilisateur Git basé sur le terminal
+  id: gitui adalah alat antarmuka pengguna Git berbasis terminal
+  it: gitui è uno strumento di interfaccia utente Git basato sul terminale
+  ja: gitui は端末ベースの Git ユーザーインターフェースツールです
+  ko: gitui는 터미널 기반 Git 사용자 인터페이스 도구입니다
+  pl: gitui to narzędzie interfejsu użytkownika Git oparte na terminalu
+  pt: gitui é uma ferramenta de interface de usuário do Git baseada em terminal
+  ro: gitui este o unealtă de interfață utilizator Git bazată pe terminal
+  ru: gitui — это терминальный инструмент пользовательского интерфейса для Git
+  th: gitui คือเครื่องมือส่วนติดต่อผู้ใช้ของ Git บนพื้นฐานเทอร์มินัล
+  tr: gitui, terminal tabanlı bir Git kullanıcı arayüzü aracıdır
+  uk: gitui — це термінальний інструмент користувацького інтерфейсу для Git
+  vi: gitui là công cụ giao diện người dùng Git dựa trên terminal
 x:
   source: https://github.com/gitui-org/gitui
   eget: extrawurst/gitui

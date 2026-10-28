@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 管理 systemd 服务的 TUI 应用
   en: A TUI application for managing systemd services.
+  cs: Aplikace TUI pro správu služeb systemd.
+  de: Eine TUI-Anwendung zur Verwaltung von systemd-Diensten.
+  es: Una aplicación TUI para gestionar servicios de systemd.
+  fr: Une application TUI pour gérer les services systemd.
+  id: Aplikasi TUI untuk mengelola layanan systemd.
+  it: Un'applicazione TUI per gestire i servizi systemd.
+  ja: systemd サービスを管理するための TUI アプリケーション。
+  ko: systemd 서비스를 관리하기 위한 TUI 애플리케이션.
+  pl: Aplikacja TUI do zarządzania usługami systemd.
+  pt: Um aplicativo TUI para gerenciar serviços do systemd.
+  ro: O aplicație TUI pentru gestionarea serviciilor systemd.
+  ru: TUI-приложение для управления службами systemd.
+  th: แอป TUI สำหรับจัดการบริการ systemd
+  tr: systemd servislerini yönetmek için bir TUI uygulaması.
+  uk: TUI-застосунок для керування службами systemd.
+  vi: Ứng dụng TUI để quản lý các dịch vụ systemd.
 x:
   source: https://github.com/matheus-git/systemd-manager-tui
   eget: matheus-git/systemd-manager-tui

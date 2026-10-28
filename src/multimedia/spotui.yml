@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: spotui 是一个在终端中运行的 Spotify 客户端。
   en: spotui is Spotify in the terminal.
+  cs: spotui je Spotify v terminálu.
+  de: spotui ist Spotify im Terminal.
+  es: spotui es Spotify en el terminal.
+  fr: spotui, c'est Spotify dans le terminal.
+  id: spotui adalah Spotify di terminal.
+  it: spotui è Spotify nel terminale.
+  ja: spotui はターミナルの中の Spotify です。
+  ko: spotui는 터미널 속의 Spotify입니다.
+  pl: spotui to Spotify w terminalu.
+  pt: spotui é o Spotify no terminal.
+  ro: spotui este Spotify în terminal.
+  ru: spotui — это Spotify в терминале.
+  th: spotui คือ Spotify ในเทอร์มินัล
+  tr: spotui, terminalde çalışan Spotify'dır.
+  uk: spotui — це Spotify у терміналі.
+  vi: spotui là Spotify trong terminal.
 x:
   source: https://github.com/ceuk/spotui
   pip: spotui

@@ -3,6 +3,22 @@ homepage: https://sunlogin.oray.com/
 desc:
   cn: 贝锐向日葵远程控制软件，支持移动设备、Windows、Mac、Linux 等系统远程控制。
   en: sunlogin remote control software that supports remote control of mobile devices, Windows, Mac, Linux and other systems.(GUI version)
+  cs: software pro vzdálené ovládání sunlogin, který podporuje vzdálené ovládání mobilních zařízení, systémů Windows, Mac, Linux a dalších.(verze GUI)
+  de: sunlogin Remote-Control-Software, das die Fernsteuerung von Mobilgeräten sowie Windows-, Mac-, Linux- und anderen Systemen unterstützt.(GUI-Version)
+  es: software de control remoto sunlogin que admite el control remoto de dispositivos móviles y sistemas Windows, Mac, Linux y otros.(versión GUI)
+  fr: logiciel de contrôle à distance sunlogin qui prend en charge le contrôle à distance des appareils mobiles et des systèmes Windows, Mac, Linux et autres.(version GUI)
+  id: perangkat lunak remote control sunlogin yang mendukung remote control perangkat seluler, Windows, Mac, Linux, dan sistem lainnya.(versi GUI)
+  it: software di controllo remoto sunlogin che supporta il controllo remoto di dispositivi mobili e sistemi Windows, Mac, Linux e altri.(versione GUI)
+  ja: モバイルデバイス、Windows、Mac、Linuxなどのシステムのリモート操作に対応したsunloginリモート制御ソフトウェアです。(GUI版)
+  ko: 모바일 기기, Windows, Mac, Linux 등 시스템의 원격 제어를 지원하는 sunlogin 원격 제어 소프트웨어입니다.(GUI 버전)
+  pl: oprogramowanie sunlogin do zdalnego sterowania, obsługujące zdalne sterowanie urządzeniami mobilnymi oraz systemami Windows, Mac, Linux i innymi.(wersja GUI)
+  pt: software de controle remoto sunlogin que oferece controle remoto de dispositivos móveis e sistemas Windows, Mac, Linux e outros.(versão GUI)
+  ro: software de control la distanță sunlogin care acceptă controlul la distanță al dispozitivelor mobile și al sistemelor Windows, Mac, Linux și altele.(versiune GUI)
+  ru: программа удалённого управления sunlogin, поддерживающая удалённый доступ к мобильным устройствам, системам Windows, Mac, Linux и другим.(графическая версия)
+  th: ซอฟต์แวร์ควบคุมระยะไกล sunlogin ที่รองรับการควบคุมอุปกรณ์เคลื่อนที่และระบบ Windows, Mac, Linux ฯลฯ (เวอร์ชัน GUI)
+  tr: mobil cihazların ve Windows, Mac, Linux gibi diğer sistemlerin uzaktan kontrolünü destekleyen sunlogin uzak kontrol yazılımı.(GUI sürümü)
+  uk: програма віддаленого керування sunlogin, що підтримує віддалене керування мобільними пристроями та системами Windows, Mac, Linux та іншими.(графічна версія)
+  vi: phần mềm điều khiển từ xa sunlogin hỗ trợ điều khiển từ xa thiết bị di động và các hệ thống Windows, Mac, Linux và hơn thế.(bản GUI)
 rule:
   debian/wget:
     cmd: wget https://down.oray.com/sunlogin/linux/sunloginclientshell-10.1.1.28779-amd64.deb

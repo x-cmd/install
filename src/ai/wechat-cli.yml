@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 查询本地微信数据的 CLI 工具，包括聊天记录、联系人、会话、收藏等，专为 LLM 集成设计
   en: A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration.
+  cs: Nástroj CLI pro dotazování na místní data WeChat — historie chatů, kontakty, relace, oblíbené a další. Navržen pro integraci s LLM.
+  de: Ein CLI-Tool zum Abfragen Ihrer lokalen WeChat-Daten — Chatverlauf, Kontakte, Sitzungen, Favoriten und mehr. Für die LLM-Integration entwickelt.
+  es: "Una herramienta de CLI para consultar tus datos locales de WeChat: historial de chat, contactos, sesiones, favoritos y más. Diseñada para la integración con LLM."
+  fr: Un outil CLI pour interroger vos données WeChat locales — historique des discussions, contacts, sessions, favoris et plus. Conçu pour l'intégration LLM.
+  id: Alat CLI untuk kueri data WeChat lokal Anda — riwayat obrolan, kontak, sesi, favorit, dan lainnya. Dirancang untuk integrasi LLM.
+  it: Uno strumento CLI per interrogare i tuoi dati locali di WeChat — cronologia chat, contatti, sessioni, preferiti e altro. Progettato per l'integrazione con gli LLM.
+  ja: ローカルの WeChat データを問い合わせる CLI ツール — チャット履歴、連絡先、セッション、お気に入りなど。LLM 連携向けに設計されています。
+  ko: 로컬 WeChat 데이터를 조회하는 CLI 도구로, 채팅 기록, 연락처, 세션, 즐겨찾기 등을 지원합니다. LLM 통합을 위해 설계되었습니다.
+  pl: Narzędzie CLI do odpytywania lokalnych danych WeChat — historii czatów, kontaktów, sesji, ulubionych i nie tylko. Zaprojektowane do integracji z LLM.
+  pt: Uma ferramenta de CLI para consultar seus dados locais do WeChat — histórico de conversas, contatos, sessões, favoritos e mais. Projetada para integração com LLM.
+  ro: Un instrument CLI pentru a interoga datele locale din WeChat — istoricul discuțiilor, contactele, sesiunile, favorite și altele. Proiectat pentru integrarea cu LLM.
+  ru: CLI-инструмент для запроса локальных данных WeChat — истории чатов, контактов, сессий, избранного и многого другого. Создан для интеграции с LLM.
+  th: เครื่องมือ CLI สำหรับค้นหาข้อมูล WeChat ในเครื่อง — ประวัติแชต รายชื่อผู้ติดต่อ รายการสนทนา รายการโปรด และอื่น ๆ ออกแบบมาเพื่อการผสานรวมกับ LLM
+  tr: Yerel WeChat verilerinizi sorgulamak için bir CLI aracı — sohbet geçmişi, kişiler, oturumlar, favoriler ve fazlası. LLM entegrasyonu için tasarlandı.
+  uk: CLI-інструмент для запиту локальних даних WeChat — історії чатів, контактів, сесій, обраного та іншого. Створено для інтеграції з LLM.
+  vi: Công cụ CLI để truy vấn dữ liệu WeChat cục bộ — lịch sử trò chuyện, danh bạ, phiên làm việc, mục yêu thích và hơn thế. Được thiết kế để tích hợp với LLM.
 x:
   source: https://github.com/huohuoer/wechat-cli
   eget: huohuoer/wechat-cli

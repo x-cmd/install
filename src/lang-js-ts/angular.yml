@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于直接从命令 shell 初始化、开发、搭建和维护 Angular 应用程序的 CLI
   en: CLI for initializing, developing, building, and maintaining Angular applications directly from the command shell
+  cs: CLI pro inicializaci, vývoj, sestavení a údržbu aplikací Angular přímo z příkazového řádku
+  de: CLI zum Initialisieren, Entwickeln, Bauen und Warten von Angular-Anwendungen direkt aus der Kommandozeile
+  es: CLI para inicializar, desarrollar, compilar y mantener aplicaciones Angular directamente desde la línea de comandos
+  fr: CLI pour initialiser, développer, construire et maintenir des applications Angular directement depuis le shell de commandes
+  id: CLI untuk menginisialisasi, mengembangkan, membangun, dan mengelola aplikasi Angular langsung dari shell perintah
+  it: CLI per inizializzare, sviluppare, compilare e mantenere le applicazioni Angular direttamente dalla riga di comando
+  ja: コマンドシェルから直接 Angular アプリケーションの初期化、開発、ビルド、保守を行う CLI
+  ko: 명령 셸에서 직접 Angular 애플리케이션을 초기화, 개발, 빌드, 관리하는 CLI
+  pl: CLI do inicjalizacji, tworzenia, budowania i utrzymywania aplikacji Angular bezpośrednio z wiersza poleceń
+  pt: CLI para inicializar, desenvolver, compilar e manter aplicações Angular diretamente do shell de comandos
+  ro: CLI pentru inițierea, dezvoltarea, construirea și întreținerea aplicațiilor Angular direct din linia de comandă
+  ru: CLI для инициализации, разработки, сборки и сопровождения приложений Angular прямо из командной оболочки
+  th: CLI สำหรับเริ่มต้น พัฒนา สร้าง และดูแลแอป Angular โดยตรงจากเชลล์คำสั่ง
+  tr: Angular uygulamalarını doğrudan komut kabuğundan başlatmak, geliştirmek, derlemek ve bakımını yapmak için CLI
+  uk: CLI для ініціалізації, розробки, збирання та супроводу застосунків Angular безпосередньо з командної оболонки
+  vi: CLI để khởi tạo, phát triển, build và bảo trì các ứng dụng Angular trực tiếp từ dòng lệnh
 x:
   source: https://github.com/angular/angular-cli
   brew: angular-cli

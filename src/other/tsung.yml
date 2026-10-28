@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: Tsung is multi-protocol distributed load testing tool
   cn: Tsung 是一个多协议分布式负载测试工具
+  cs: Tsung je distribuovaný nástroj pro testování zatížení podporující více protokolů
+  de: Tsung ist ein verteiltes Multi-Protokoll-Lasttestwerkzeug
+  es: Tsung es una herramienta distribuida de prueba de carga compatible con varios protocolos
+  fr: Tsung est un outil de test de charge distribué multi-protocole
+  id: Tsung adalah alat uji beban terdistribusi multi-protokol
+  it: Tsung è uno strumento di test di carico distribuito multi-protocollo
+  ja: Tsung はマルチプロトコル対応の分散型負荷テストツールです
+  ko: Tsung은(는) 다중 프로토콜 분산 부하 테스트 도구입니다
+  pl: Tsung to rozproszony wieloprotokołowy narzędzie do testowania obciążenia
+  pt: Tsung é uma ferramenta de teste de carga distribuída multi-protocolo
+  ro: Tsung este un instrument distribuit de testare a încărcării, multi-protocol
+  ru: Tsung — распределённый инструмент нагрузочного тестирования с поддержкой нескольких протоколов
+  th: Tsung เป็นเครื่องมือทดสอบโหลดแบบกระจายที่รองรับหลายโปรโตคอล
+  tr: Tsung, çoklu protokol destekleyen dağıtık yük testi aracıdır
+  uk: Tsung — розподілений інструмент навантажувального тестування з підтримкою кількох протоколів
+  vi: Tsung là công cụ kiểm thử tải phân tán hỗ trợ nhiều giao thức
 x:
   source: https://github.com/processone/tsung
   apt: tsung

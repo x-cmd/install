@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 一个通过 HTTP 提供文件和目录的 CLI 工具
   en: A CLI tool to serve files and directories over HTTP
+  cs: Nástroj CLI pro poskytování souborů a adresářů přes HTTP
+  de: Ein CLI-Werkzeug zum Bereitstellen von Dateien und Verzeichnissen über HTTP
+  es: Una herramienta CLI para servir archivos y directorios a través de HTTP
+  fr: Un outil CLI pour servir des fichiers et des répertoires via HTTP
+  id: Alat CLI untuk menyajikan berkas dan direktori melalui HTTP
+  it: Uno strumento CLI per servire file e directory tramite HTTP
+  ja: HTTP 経由でファイルとディレクトリを提供する CLI ツール
+  ko: HTTP를 통해 파일과 디렉터리를 제공 하는 CLI 도구
+  pl: Narzędzie CLI do udostępniania plików i katalogów przez HTTP
+  pt: Uma ferramenta CLI para servir arquivos e diretórios via HTTP
+  ro: Un instrument CLI pentru a servi fișiere și directoare prin HTTP
+  ru: Инструмент CLI для раздачи файлов и каталогов по HTTP
+  th: เครื่องมือ CLI สำหรับให้บริการไฟล์และไดเรกทอรีผ่าน HTTP
+  tr: HTTP üzerinden dosya ve dizin sunmak için bir CLI aracı.
+  uk: Інструмент CLI для роздачі файлів і каталогів через HTTP
+  vi: Công cụ CLI để phục vụ tệp và thư mục qua HTTP
 homepage: https://github.com/svenstaro/miniserve
 license: MIT
 x:

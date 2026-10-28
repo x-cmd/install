@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: kube-score 是一个对 Kubernetes 对象定义执行静态代码分析的工具
   en: kube-score is a tool that performs static code analysis of your Kubernetes object definitions
+  cs: kube-score je nástroj, který provádí statickou analýzu kódu definic objektů Kubernetes
+  de: kube-score ist ein Werkzeug, das eine statische Codeanalyse Ihrer Kubernetes-Objektdefinitionen durchführt
+  es: kube-score es una herramienta que realiza un análisis de código estático de tus definiciones de objetos de Kubernetes
+  fr: kube-score est un outil qui effectue une analyse statique du code de vos définitions d'objets Kubernetes
+  id: kube-score adalah alat yang melakukan analisis kode statis pada definisi objek Kubernetes Anda
+  it: kube-score è uno strumento che esegue l'analisi statica del codice delle definizioni dei tuoi oggetti Kubernetes
+  ja: kube-score は Kubernetes オブジェクト定義に対して静的コード解析を行うツールです
+  ko: kube-score는 Kubernetes 오브젝트 정의에 대해 정적 코드 분석을 수행하는 도구입니다
+  pl: kube-score to narzędzie wykonujące statyczną analizę kodu definicji obiektów Kubernetes
+  pt: kube-score é uma ferramenta que realiza análise estática de código das suas definições de objetos do Kubernetes
+  ro: kube-score este un instrument care efectuează analiza statică a codului definițiilor obiectelor Kubernetes
+  ru: kube-score — инструмент статического анализа кода определений объектов Kubernetes
+  th: kube-score เป็นเครื่องมือที่ทำการวิเคราะห์โค้ดแบบคงที่ของนิยามวัตถุ Kubernetes ของคุณ
+  tr: kube-score, Kubernetes nesne tanımlarınız üzerinde statik kod analizi yapan bir araçtır
+  uk: kube-score — інструмент статичного аналізу коду визначень об'єктів Kubernetes
+  vi: kube-score là công cụ thực hiện phân tích mã tĩnh cho các định nghĩa đối tượng Kubernetes của bạn
 x:
   source: https://github.com/zegl/kube-score
   eget: zegl/kube-score

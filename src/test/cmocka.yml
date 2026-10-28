@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: C 的单元测试框架
   en: Unit testing framework for C
+  cs: Testovací framework pro C
+  de: Unit-Testing-Framework für C
+  es: Marco de pruebas unitarias para C
+  fr: Cadre de tests unitaires pour C
+  id: Kerangka pengujian unit untuk C
+  it: Framework di unit testing per C
+  ja: C のための単体テストフレームワーク
+  ko: C를 위한 단위 테스트 프레임워크
+  pl: Framework testów jednostkowych dla C
+  pt: Framework de testes unitários para C
+  ro: Cadr de teste unitar pentru C
+  ru: Фреймворк модульного тестирования для C
+  th: เฟรมเวิร์กการทดสอบหน่วยสำหรับ C
+  tr: C için birim testi çerçevesi
+  uk: Фреймворк модульного тестування для C
+  vi: Khung thử nghiệm đơn vị cho C
 x:
   source: https://github.com/clibs/cmocka
   apt: libcmocka-dev

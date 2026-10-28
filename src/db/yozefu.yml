@@ -3,6 +3,22 @@ homepage: https://github.com/MAIF/yozefu
 desc:
   cn: 探索 Kafka 集群数据的交互式终端 UI
   en: An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
+  cs: Interaktivní terminálové uživatelské rozhraní (TUI) pro prohlížení dat clusteru Kafka.
+  de: Eine interaktive Terminal-Benutzeroberfläche (TUI) zum Erkunden der Daten eines Kafka-Clusters.
+  es: Una interfaz de usuario de terminal (TUI) interactiva para explorar los datos de un clúster de Kafka.
+  fr: Une interface utilisateur de terminal (TUI) interactive pour explorer les données d'un cluster Kafka.
+  id: Antarmuka pengguna terminal (TUI) interaktif untuk menjelajahi data klaster Kafka.
+  it: Un'interfaccia utente terminale (TUI) interattiva per esplorare i dati di un cluster Kafka.
+  ja: Kafka クラスタのデータを探索するためのインタラクティブなターミナルユーザーインターフェース (TUI)。
+  ko: Kafka 클러스터의 데이터를 탐색하기 위한 대화형 터미널 사용자 인터페이스(TUI).
+  pl: Interaktywny terminalowy interfejs użytkownika (TUI) do przeglądania danych klastra Kafka.
+  pt: Uma interface de utilizador de terminal (TUI) interativa para explorar os dados de um cluster Kafka.
+  ro: O interfață utilizator de terminal (TUI) interactivă pentru explorarea datelor unui cluster Kafka.
+  ru: Интерактивный терминальный пользовательский интерфейс (TUI) для исследования данных кластера Kafka.
+  th: ส่วนติดต่อผู้ใช้แบบโต้ตอบบนเทอร์มินัล (TUI) สำหรับสำรวจข้อมูลของคลัสเตอร์ Kafka
+  tr: Bir Kafka kümesinin verilerini keşfetmek için etkileşimli terminal kullanıcı arayüzü (TUI).
+  uk: Інтерактивний термінальний користувацький інтерфейс (TUI) для дослідження даних кластера Kafka.
+  vi: Giao diện người dùng terminal (TUI) tương tác để khám phá dữ liệu của cụm Kafka.
 x:
   source: https://github.com/MAIF/yozefu
   eget: MAIF/yozefu

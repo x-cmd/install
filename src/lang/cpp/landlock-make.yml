@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 更轻松地为 GNU Make 提供沙箱支持
   en: 'Sandboxing for GNU Make has never been easier'
+  cs: Sandboxování pro GNU Make nikdy nebylo jednodušší
+  de: Sandboxing für GNU Make war noch nie einfacher
+  es: El sandboxing para GNU Make nunca ha sido tan fácil
+  fr: Le sandboxing pour GNU Make n'a jamais été aussi simple
+  id: Sandboxing untuk GNU Make belum pernah semudah ini
+  it: Il sandboxing per GNU Make non è mai stato così facile
+  ja: GNU Make のサンドボックス化がかつてないほど簡単に
+  ko: GNU Make의 샌드박싱이 이렇게 쉬운 적은 없습니다
+  pl: Piaskowanie dla GNU Make nigdy nie było łatwiejsze
+  pt: O sandboxing para GNU Make nunca foi tão fácil
+  ro: Sandboxing-ul pentru GNU Make nu a fost niciodată mai ușor
+  ru: Песочница для GNU Make ещё никогда не была такой простой
+  th: การแซนด์บ็อกซ์สำหรับ GNU Make ไม่เคยง่ายแบบนี้มาก่อน
+  tr: GNU Make için sandbox hiç bu kadar kolay olmamıştı
+  uk: Песочниця для GNU Make ніколи не була такою простою
+  vi: Sandbox cho GNU Make chưa bao giờ dễ dàng như vậy
 x:
   source: https://github.com/jart/landlock-make
   eget: jart/landlock-make

@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 面向 AI 的搜索基础设施
   en: 'Search infrastructure for AI'
+  cs: Vyhledávací infrastruktura pro AI
+  de: Suchinfrastruktur für KI
+  es: Infraestructura de búsqueda para IA
+  fr: Infrastructure de recherche pour l'IA
+  id: Infrastruktur pencarian untuk AI
+  it: Infrastruttura di ricerca per l'IA
+  ja: AI のための検索インフラ
+  ko: AI를 위한 검색 인프라
+  pl: Infrastruktura wyszukiwania dla AI
+  pt: Infraestrutura de busca para IA
+  ro: Infrastructură de căutare pentru AI
+  ru: Поисковая инфраструктура для ИИ
+  th: โครงสร้างพื้นฐานการค้นหาสำหรับ AI
+  tr: Yapay zeka için arama altyapısı
+  uk: Пошукова інфраструктура для ШІ
+  vi: Hạ tầng tìm kiếm cho AI
 x:
   source: https://github.com/chroma-core/chroma
   eget: chroma-core/chroma

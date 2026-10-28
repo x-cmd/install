@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 Go pprof 数据的终端诊断工具
   en: 'A terminal-based diagnostic tool for Go pprof data'
+  cs: Terminálový diagnostický nástroj pro data Go pprof
+  de: Ein terminalbasiertes Diagnosewerkzeug für Go-pprof-Daten
+  es: Una herramienta de diagnóstico basada en terminal para datos de Go pprof
+  fr: Un outil de diagnostic en terminal pour les données Go pprof
+  id: Alat diagnostik berbasis terminal untuk data Go pprof
+  it: Uno strumento di diagnostica basato su terminale per i dati Go pprof
+  ja: Go pprof データ向けのターミナルベースの診断ツール
+  ko: Go pprof 데이터를 위한 터미널 기반 진단 도구
+  pl: Terminalowe narzędzie diagnostyczne dla danych Go pprof
+  pt: Uma ferramenta de diagnóstico baseada em terminal para dados do Go pprof
+  ro: Un instrument de diagnostic bazat pe terminal pentru date Go pprof
+  ru: Терминальный диагностический инструмент для данных Go pprof
+  th: เครื่องมือวินิจฉัยบนเทอร์มินัลสำหรับข้อมูล Go pprof
+  tr: Go pprof verileri için terminal tabanlı bir tanılama aracı
+  uk: Термінальний діагностичний інструмент для даних Go pprof
+  vi: Công cụ chẩn đoán chạy trên terminal cho dữ liệu Go pprof
 x:
   source: https://github.com/Oloruntobi1/pproftui
   eget: Oloruntobi1/pproftui

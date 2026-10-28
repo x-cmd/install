@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: Apple Passwords (iCloud Keychain) 的 CLI 工具
   en: 'A CLI for Apple Passwords (also known as iCloud Keychain)'
+  cs: CLI nástroj pro Apple Passwords (také známé jako iCloud Keychain)
+  de: Ein CLI für Apple Passwords (auch als iCloud Keychain bekannt)
+  es: Una CLI para Apple Passwords (también conocido como iCloud Keychain)
+  fr: Une CLI pour Apple Passwords (également connu sous le nom d'iCloud Keychain)
+  id: CLI untuk Apple Passwords (juga dikenal sebagai iCloud Keychain)
+  it: Una CLI per Apple Passwords (noto anche come iCloud Keychain)
+  ja: Apple Passwords（iCloud Keychain とも呼ばれます）の CLI ツール
+  ko: Apple Passwords(iCloud Keychain으로도 알려짐)의 CLI 도구
+  pl: Narzędzie CLI dla Apple Passwords (znanego również jako iCloud Keychain)
+  pt: Uma CLI para o Apple Passwords (também conhecido como iCloud Keychain)
+  ro: Un instrument CLI pentru Apple Passwords (cunoscut și ca iCloud Keychain)
+  ru: CLI-инструмент для Apple Passwords (также известного как iCloud Keychain)
+  th: เครื่องมือ CLI สำหรับ Apple Passwords (ที่รู้จักกันในชื่อ iCloud Keychain)
+  tr: Apple Passwords (iCloud Keychain olarak da bilinir) için bir CLI
+  uk: CLI-інструмент для Apple Passwords (також відомого як iCloud Keychain)
+  vi: Công cụ CLI cho Apple Passwords (còn được gọi là iCloud Keychain)
 x:
   source: https://github.com/bendews/apw
   eget: bendews/apw

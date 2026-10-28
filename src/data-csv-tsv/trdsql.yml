@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: trdsql 是一个 CLI 工具，可以对 CSV、 LTSV、 JSON、 YAML 和 TBLN 文件执行 SQL 查询。
   en: trdsql is a CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN files.
+  cs: trdsql je nástroj příkazové řádky, který dokáže spouštět SQL dotazy nad soubory CSV, LTSV, JSON, YAML a TBLN.
+  de: trdsql ist ein Kommandozeilenwerkzeug, das SQL-Abfragen auf CSV-, LTSV-, JSON-, YAML- und TBLN-Dateien ausführen kann.
+  es: trdsql es una herramienta de línea de comandos que puede ejecutar consultas SQL sobre archivos CSV, LTSV, JSON, YAML y TBLN.
+  fr: trdsql est un outil en ligne de commande capable d'exécuter des requêtes SQL sur des fichiers CSV, LTSV, JSON, YAML et TBLN.
+  id: trdsql adalah alat baris perintah yang dapat menjalankan kueri SQL pada file CSV, LTSV, JSON, YAML, dan TBLN.
+  it: trdsql è uno strumento da riga di comando che può eseguire query SQL su file CSV, LTSV, JSON, YAML e TBLN.
+  ja: trdsql は CSV、LTSV、JSON、YAML、TBLN ファイルに対して SQL クエリを実行できる CLI ツールです。
+  ko: trdsql는 CSV, LTSV, JSON, YAML 및 TBLN 파일에 대해 SQL 쿼리를 실행할 수 있는 CLI 도구입니다.
+  pl: trdsql to narzędzie wiersza poleceń, które potrafi wykonywać zapytania SQL na plikach CSV, LTSV, JSON, YAML i TBLN.
+  pt: trdsql é uma ferramenta de linha de comando que pode executar consultas SQL em arquivos CSV, LTSV, JSON, YAML e TBLN.
+  ro: trdsql este un instrument de linie de comandă care poate rula interogări SQL pe fișiere CSV, LTSV, JSON, YAML și TBLN.
+  ru: trdsql — инструмент командной строки, который может выполнять SQL-запросы к файлам CSV, LTSV, JSON, YAML и TBLN.
+  th: trdsql เป็นเครื่องมือ CLI ที่สามารถรันคำสั่ง SQL บนไฟล์ CSV, LTSV, JSON, YAML และ TBLN
+  tr: trdsql, CSV, LTSV, JSON, YAML ve TBLN dosyalarında SQL sorguları çalıştırabilen bir CLI aracıdır.
+  uk: trdsql — інструмент командного рядка, який може виконувати SQL-запити до файлів CSV, LTSV, JSON, YAML і TBLN.
+  vi: trdsql là công cụ CLI có thể thực thi truy vấn SQL trên các tệp CSV, LTSV, JSON, YAML và TBLN.
 x:
   source: https://github.com/noborus/trdsql
   eget: noborus/trdsql

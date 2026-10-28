@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 命令行 DNS 客户端，支持 UDP、TCP、DoT、DoH、DoQ 和 ODoH
   en: A tiny and feature-rich command line DNS client with support for UDP, TCP, DoT, DoH, DoQ, and ODoH
+  cs: Malý a funkčně bohatý klient DNS z příkazové řádky s podporou UDP, TCP, DoT, DoH, DoQ a ODoH
+  de: Ein winziger, funktionsreicher DNS-Client für die Kommandozeile mit Unterstützung für UDP, TCP, DoT, DoH, DoQ und ODoH
+  es: Un cliente DNS de línea de comandos diminuto y lleno de funciones, compatible con UDP, TCP, DoT, DoH, DoQ y ODoH
+  fr: Un client DNS minuscule et riche en fonctionnalités, en ligne de commande, compatible avec UDP, TCP, DoT, DoH, DoQ et ODoH
+  id: Klien DNS baris perintah kecil dan kaya fitur dengan dukungan UDP, TCP, DoT, DoH, DoQ, dan ODoH
+  it: Un minuscolo e ricco di funzionalità client DNS da riga di comando con supporto per UDP, TCP, DoT, DoH, DoQ e ODoH
+  ja: UDP、TCP、DoT、DoH、DoQ、ODoH に対応した小さく機能豊富なコマンドライン DNS クライアント。
+  ko: UDP, TCP, DoT, DoH, DoQ, ODoH를 지원하는 작고 기능이 풍부한 명령줄 DNS 클라이언트.
+  pl: Mały i bogaty w funkcje wiersz poleceń klient DNS obsługujący UDP, TCP, DoT, DoH, DoQ i ODoH
+  pt: Um cliente DNS de linha de comando pequeno e cheio de recursos, com suporte a UDP, TCP, DoT, DoH, DoQ e ODoH
+  ro: Un client DNS mic și bogat în funcții din linia de comandă, cu suport pentru UDP, TCP, DoT, DoH, DoQ și ODoH
+  ru: Крошечный и функциональный консольный DNS-клиент с поддержкой UDP, TCP, DoT, DoH, DoQ и ODoH
+  th: ไคลเอนต์ DNS บรรทัดคำสั่งขนาดเล็กที่มีความสามารถหลากหลาย รองรับ UDP, TCP, DoT, DoH, DoQ และ ODoH
+  tr: UDP, TCP, DoT, DoH, DoQ ve ODoH desteği olan küçük ve özellik dolu bir komut satırı DNS istemcisi
+  uk: Крихітний і функціональний консольний DNS-клієнт із підтримкою UDP, TCP, DoT, DoH, DoQ та ODoH
+  vi: Máy khách DNS dòng lệnh nhỏ gọn và nhiều tính năng, hỗ trợ UDP, TCP, DoT, DoH, DoQ và ODoH
 x:
   source: https://github.com/natesales/q
   eget: natesales/q

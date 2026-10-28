@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 将自然语言转换为 shell 命令的 CLI
   en: A CLI that converts natural language to shell commands.
+  cs: CLI nástroj, který převádí přirozený jazyk na shell příkazy.
+  de: Ein CLI-Werkzeug, das natürliche Sprache in Shell-Befehle umwandelt.
+  es: Una CLI que convierte lenguaje natural en comandos de shell.
+  fr: Une CLI qui convertit le langage naturel en commandes shell.
+  id: CLI yang mengubah bahasa alami menjadi perintah shell.
+  it: Una CLI che converte il linguaggio naturale in comandi shell.
+  ja: 自然言語をシェルコマンドに変換する CLI です。
+  ko: 자연어를 셸 명령으로 변환하는 CLI입니다.
+  pl: CLI, które zamienia język naturalny na polecenia powłoki.
+  pt: Uma CLI que converte linguagem natural em comandos de shell.
+  ro: Un CLI care transformă limbajul natural în comenzi shell.
+  ru: CLI-инструмент, преобразующий естественный язык в команды shell.
+  th: เครื่องมือ CLI ที่แปลงภาษาธรรมชาติเป็นคำสั่ง shell
+  tr: Doğal dili shell komutlarına dönüştüren bir CLI.
+  uk: CLI-інструмент, який перетворює природну мову на команди shell.
+  vi: CLI chuyển đổi ngôn ngữ tự nhiên thành lệnh shell.
 x:
   source: https://github.com/BuilderIO/ai-shell
   eget: BuilderIO/ai-shell

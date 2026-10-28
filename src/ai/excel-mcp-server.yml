@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用于操作 Excel 文件的 MCP 服务器
   en: A Model Context Protocol server for Excel file manipulation
+  cs: Server Model Context Protocol pro manipulaci se soubory Excel
+  de: Ein Model-Context-Protocol-Server für die Bearbeitung von Excel-Dateien
+  es: Un servidor de Model Context Protocol para la manipulación de archivos de Excel
+  fr: Un serveur Model Context Protocol pour la manipulation de fichiers Excel
+  id: Server Model Context Protocol untuk manipulasi file Excel
+  it: Un server Model Context Protocol per la manipolazione di file Excel
+  ja: Excel ファイル操作用の Model Context Protocol サーバー
+  ko: Excel 파일 조작을 위한 Model Context Protocol 서버
+  pl: Serwer Model Context Protocol do manipulacji plikami Excel
+  pt: Um servidor Model Context Protocol para manipulação de arquivos Excel
+  ro: Un server Model Context Protocol pentru manipularea fișierelor Excel
+  ru: Сервер Model Context Protocol для работы с файлами Excel
+  th: เซิร์ฟเวอร์ Model Context Protocol สำหรับจัดการไฟล์ Excel
+  tr: Excel dosyalarını düzenlemek için bir Model Context Protocol sunucusu
+  uk: Сервер Model Context Protocol для роботи з файлами Excel
+  vi: Máy chủ Model Context Protocol để thao tác với tệp Excel
 x:
   source: https://github.com/haris-musa/excel-mcp-server
   pip: excel-mcp-server

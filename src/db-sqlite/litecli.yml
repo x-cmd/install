@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 用于 SQLite 数据库的 CLI，具有自动完成和语法突出显示功能
   en: CLI for SQLite Databases with auto-completion and syntax highlighting
+  cs: CLI pro databáze SQLite s automatickým dokončováním a zvýrazňováním syntaxe
+  de: CLI für SQLite-Datenbanken mit Autovervollständigung und Syntaxhervorhebung
+  es: CLI para bases de datos SQLite con autocompletado y resaltado de sintaxis
+  fr: CLI pour les bases de données SQLite avec auto-complétion et coloration syntaxique
+  id: CLI untuk basis data SQLite dengan autocompletion dan penyorotan sintaks
+  it: CLI per database SQLite con completamento automatico ed evidenziazione della sintassi
+  ja: 自動補完とシンタックスハイライトを備えた SQLite データベース用の CLI
+  ko: 자동 완성 및 구문 강조 기능을 갖춘 SQLite 데이터베이스용 CLI
+  pl: CLI dla baz danych SQLite z autouzupełnianiem i podświetlaniem składni
+  pt: CLI para bancos de dados SQLite com autocompletar e realce de sintaxe
+  ro: CLI pentru baze de date SQLite cu autocompletare și evidențierea sintaxei
+  ru: CLI для баз данных SQLite с автодополнением и подсветкой синтаксиса
+  th: CLI สำหรับฐานข้อมูล SQLite พร้อมการเติมเต็มอัตโนมัติและการเน้นไวยากรณ์
+  tr: Otomatik tamamlama ve sözdizimi vurgulama özellikli SQLite veritabanları için CLI
+  uk: CLI для баз даних SQLite з автозавершенням і підсвічуванням синтаксису
+  vi: CLI cho cơ sở dữ liệu SQLite với tự động hoàn thành và tô sáng cú pháp
 x:
   source: https://github.com/dbcli/litecli
   brew: litecli

@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 在终端中模拟下雪效果的小工具
   en: A small, fun and easy way to make it snow in your terminal
+  cs: Malý, zábavný a snadný způsob, jak udělat ve vašem terminálu sněžení
+  de: Eine kleine, unterhaltsame und einfache Möglichkeit, in Ihrem Terminal Schnee fallen zu lassen
+  es: Una forma pequeña, divertida y fácil de hacer nevar en tu terminal
+  fr: Une façon simple, agréable et rapide de faire neige dans votre terminal
+  id: Cara kecil, seru, dan mudah untuk membuat salju di terminal Anda
+  it: Un modo piccolo, divertente e semplice per far cadere la neve nel tuo terminale
+  ja: ターミナルで雪を降らせるための小さな、楽しくて簡単な方法
+  ko: 터미널에서 눈을 내리게 하는 작고 즐겁고 쉬운 방법
+  pl: Mały, zabawny i prosty sposób na zimę w twoim terminalu
+  pt: Uma forma pequena, divertida e fácil de fazer nevar no seu terminal
+  ro: Un mod mic, distractiv și ușor de a face să ningă în terminalul tău
+  ru: Простой, забавный и лёгкий способ устроить снег в вашем терминале
+  th: วิธีเล็ก ๆ ที่สนุกและง่ายดายในการทำให้หิมะตกในเทอร์มินัลของคุณ
+  tr: Terminalinizde kar yağdırmanın küçük, eğlenceli ve kolay bir yolu
+  uk: Простий, веселий і легкий спосіб зробити сніг у вашому терміналі
+  vi: Cách nhỏ gọn, thú vị và dễ dàng để làm tuyết rơi trong terminal của bạn
 x:
   source: https://github.com/sontek/snowmachine
   brew: sontek/snowmachine/snowmachine

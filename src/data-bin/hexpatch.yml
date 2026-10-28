@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 Rust 编写的具有终端用户界面（TUI）的二进制修补器和编辑器。
   en: A binary patcher and editor written in Rust with terminal user interface (TUI).
+  cs: Binární patcher a editor napsaný v Rustu s terminálovým uživatelským rozhraním (TUI).
+  de: Ein in Rust geschriebener Binär-Patcher und -Editor mit Terminal-Benutzeroberfläche (TUI).
+  es: Un parcheador y editor de binarios escrito en Rust con interfaz de usuario de terminal (TUI).
+  fr: Un patcheur et éditeur de binaires écrit en Rust avec interface utilisateur en terminal (TUI).
+  id: Patcher dan editor biner yang ditulis dengan Rust dengan antarmuka pengguna terminal (TUI).
+  it: Un patcher e editor di binari scritto in Rust con interfaccia utente a terminale (TUI).
+  ja: Rust で書かれた、ターミナルユーザーインターフェース (TUI) 付きのバイナリパッチャー兼エディター。
+  ko: 터미널 사용자 인터페이스(TUI)를 갖춘 Rust로 작성된 바이너리 패처와 편집기.
+  pl: Program do łatania i edytor plików binarnych napisany w Rust z terminalowym interfejsem użytkownika (TUI).
+  pt: Um patcher e editor de binários escrito em Rust com interface de usuário de terminal (TUI).
+  ro: Un patcher și editor de binare scris în Rust cu interfață de utilizator în terminal (TUI).
+  ru: Патчер и редактор двоичных файлов, написанный на Rust с терминальным пользовательским интерфейсом (TUI).
+  th: ตัวแก้ไขและเครื่องมือปรับแพตชไบนารีเขียนด้วย Rust พร้อมส่วนติดต่อผู้ใช้แบบเทอร์มินัล (TUI)
+  tr: Terminal kullanıcı arayüzüne (TUI) sahip, Rust ile yazılmış ikili dosya yamayıcı ve düzenleyici.
+  uk: Патчер і редактор бінарних файлів, написаний на Rust з термінальним користувацьким інтерфейсом (TUI).
+  vi: Trình vá và chỉnh sửa tệp nhị phân viết bằng Rust với giao diện người dùng trên terminal (TUI).
 x:
   source: https://github.com/Etto48/HexPatch
   eget: Etto48/HexPatch

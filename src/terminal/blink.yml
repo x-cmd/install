@@ -4,6 +4,22 @@ license: 'ISC'
 desc:
   cn: 最小的 x86-64-linux 模拟器
   en: 'tiniest x86-64-linux emulator'
+  cs: Nejmenší emulátor x86-64-linux
+  de: Kleinster x86-64-Linux-Emulator
+  es: El emulador x86-64-linux más pequeño
+  fr: L'émulateur x86-64-linux le plus petit
+  id: Emulator x86-64-linux paling kecil
+  it: Il più piccolo emulatore x86-64-linux
+  ja: 最小のx86-64-linuxエミュレータ
+  ko: 가장 작은 x86-64-linux 에뮬레이터
+  pl: Najmniejszy emulator x86-64-linux
+  pt: O emulador x86-64-linux mais mínimo
+  ro: Cel mai mic emulator x86-64-linux
+  ru: Самый маленький эмулятор x86-64-linux
+  th: อีมูเลเตอร์ x86-64-linux ที่เล็กที่สุด
+  tr: En küçük x86-64-linux emülatörü
+  uk: Найменший емулятор x86-64-linux
+  vi: Trình giả lập x86-64-linux nhỏ nhất
 x:
   source: https://github.com/jart/blink
   eget: jart/blink

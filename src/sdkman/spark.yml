@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: spark 是一个用于在单节点机器或集群上执行数据工程、数据科学和机器学习的多语言引擎
   en: spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters
+  cs: spark je vícejazykový engine pro provádění datové analytiky, datové vědy a strojového učení na jednouzlových strojích nebo clusterech
+  de: spark ist eine mehrsprachige Engine zur Ausführung von Data Engineering, Data Science und Machine Learning auf Einzelknotenmaschinen oder Clustern
+  es: spark es un motor multilingüe para ejecutar ingeniería de datos, ciencia de datos y aprendizaje automático en máquinas de un solo nodo o clústeres
+  fr: spark est un moteur multilingue pour exécuter de l'ingénierie des données, de la science des données et de l'apprentissage automatique sur des machines à nœud unique ou des grappes
+  id: spark adalah mesin multibahasa untuk menjalankan rekayasa data, ilmu data, dan pembelajaran mesin pada mesin satu node atau klaster
+  it: spark è un motore multilingue per eseguire data engineering, data science e machine learning su macchine a nodo singolo o cluster
+  ja: spark は、単一ノードのマシンやクラスタ上でデータエンジニアリング、データサイエンス、機械学習を実行する多言語エンジンです
+  ko: spark는 단일 노드 머신이나 클러스터에서 데이터 엔지니어링, 데이터 사이언스 및 머신러닝을 수행하는 다국어 엔진입니다
+  pl: spark to wielojęzyczny silnik do wykonywania inżynierii danych, nauki o danych i uczenia maszynowego na maszynach jednowęzłowych lub klastrach
+  pt: O spark é um mecanismo multilíngue para executar engenharia de dados, ciência de dados e aprendizado de máquina em máquinas de nó único ou clusters
+  ro: spark este un motor multilingv pentru executarea ingineriei de date, a științei datelor și a învățării automate pe mașini cu un singur nod sau pe clustere
+  ru: spark — многоязычный движок для выполнения задач инженерии данных, науки о данных и машинного обучения на однопузловых машинах или кластерах
+  th: spark เป็นเอนจินหลายภาษาสำหรับการทำ data engineering, data science และ machine learning บนเครื่องโหนดเดียวหรือคลัสเตอร์
+  tr: spark, tek düğümlü makinelerde veya kümelerde veri mühendisliği, veri bilimi ve makine öğrenmesi çalıştıran çok dilli bir motordur
+  uk: spark — багатомовний рушій для виконання задач інженерії даних, науки про дані та машинного навчання на одновузлових машинах або кластерах
+  vi: spark là engine đa ngôn ngữ để thực hiện kỹ thuật dữ liệu, khoa học dữ liệu và học máy trên máy đơn nút hoặc cụm
 x:
   source: https://github.com/apache/spark
   yay: apache-spark

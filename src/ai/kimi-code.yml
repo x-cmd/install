@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: MoonshotAI 推出的下一代 AI 编程 Agent，可在终端中使用，支持读取和编辑代码、执行 Shell 命令、搜索文件，帮助您更快地完成软件开发任务
   en: The starting point for next-gen agents by MoonshotAI. An AI coding agent that lives in your terminal, helping you read and edit code, run shell commands, search files, and complete software development tasks faster.
+  cs: Výchozí bod pro next-gen agenty od MoonshotAI. AI kódovací agent, který žije ve vašem terminálu a pomáhá vám číst a upravovat kód, spouštět příkazy shellu, vyhledávat soubory a rychleji dokončovat úkoly vývoje softwaru.
+  de: Der Ausgangspunkt für Next-Gen-Agenten von MoonshotAI. Ein KI-Coding-Agent, der in Ihrem Terminal lebt und Ihnen hilft, Code zu lesen und zu bearbeiten, Shell-Befehle auszuführen, Dateien zu suchen und Softwareentwicklungsaufgaben schneller abzuschließen.
+  es: El punto de partida para los agentes de nueva generación de MoonshotAI. Un agente de programación con IA que vive en tu terminal, te ayuda a leer y editar código, ejecutar comandos de shell, buscar archivos y completar tareas de desarrollo de software más rápido.
+  fr: Le point de départ des agents de nouvelle génération de MoonshotAI. Un agent de codage IA qui vit dans votre terminal, vous aide à lire et modifier du code, exécuter des commandes shell, rechercher des fichiers et terminer plus vite vos tâches de développement logiciel.
+  id: Titik awal untuk agen generasi berikutnya dari MoonshotAI. Agen pemrograman AI yang tinggal di terminal Anda, membantu Anda membaca dan mengedit kode, menjalankan perintah shell, mencari berkas, dan menyelesaikan tugas pengembangan perangkat lunak lebih cepat.
+  it: Il punto di partenza per gli agenti di nuova generazione di MoonshotAI. Un agente di coding IA che vive nel tuo terminale, ti aiuta a leggere e modificare il codice, eseguire comandi shell, cercare file e completare più rapidamente le attività di sviluppo software.
+  ja: MoonshotAI による次世代エージェントの出発点。ターミナルの中で動く AI コーディングエージェントで、コードの読み書き、シェルコマンドの実行、ファイル検索を手助けし、ソフトウェア開発タスクを速く終えられます。
+  ko: MoonshotAI의 차세대 에이전트를 위한 출발점. 터미널 안에서 동작하는 AI 코딩 에이전트로, 코드 읽기 및 편집, 셸 명령 실행, 파일 검색을 도와 소프트웨어 개발 작업을 더 빠르게 완성할 수 있게 합니다.
+  pl: Punkt wyjścia dla agentów nowej generacji od MoonshotAI. Agent kodujący AI, który działa w twoim terminalu, pomaga czytać i edytować kod, uruchamiać polecenia shella, wyszukiwać pliki i szybciej kończyć zadania związane z rozwojem oprogramowania.
+  pt: O ponto de partida para agentes de próxima geração da MoonshotAI. Um agente de programação com IA que vive no seu terminal, ajudando você a ler e editar código, executar comandos de shell, pesquisar arquivos e concluir tarefas de desenvolvimento de software mais rápido.
+  ro: Punctul de pornire pentru agenții de nouă generație de la MoonshotAI. Un agent de codare AI care trăiește în terminalul tău, ajutându-te să citești și să editezi cod, să rulezi comenzi shell, să cauți fișiere și să finalizezi mai rapid sarcinile de dezvoltare software.
+  ru: "Отправная точка для агентов следующего поколения от MoonshotAI. ИИ-агент для написания кода, живущий в вашем терминале: он помогает читать и редактировать код, запускать shell-команды, искать файлы и быстрее выполнять задачи разработки программного обеспечения."
+  th: จุดเริ่มต้นของเอเจนต์ยุคใหม่โดย MoonshotAI เอเจนต์เขียนโค้ด AI ที่ทำงานอยู่ในเทอร์มินัลของคุณ ช่วยอ่านและแก้ไขโค้ด รันคำสั่ง shell ค้นหาไฟล์ และทำภารกิจพัฒนาซอฟต์แวร์ให้เสร็จได้เร็วขึ้น
+  tr: MoonshotAI tarafından geliştirilen yeni nesil ajanların başlangıç noktası. Terminalinizde yaşayan, kodu okumanıza ve düzenlemenize, shell komutları çalıştırmanıza, dosya aramanıza ve yazılım geliştirme görevlerini daha hızlı tamamlamanıza yardımcı olan bir AI kodlama ajanı.
+  uk: Відправна точка для агентів наступного покоління від MoonshotAI. ІІ-агент для написання коду, що живе у вашому терміналі та допомагає читати й редагувати код, виконувати shell-команди, шукати файли та швидше завершувати завдання з розробки програмного забезпечення.
+  vi: Điểm khởi đầu cho các tác nhân thế hệ mới của MoonshotAI. Tác nhân lập trình AI sống trong terminal của bạn, giúp bạn đọc và chỉnh sửa mã, chạy lệnh shell, tìm kiếm tệp và hoàn thành nhanh hơn các tác vụ phát triển phần mềm.
 x:
   source: https://github.com/MoonshotAI/kimi-code
   eget: MoonshotAI/kimi-code

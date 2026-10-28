@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Pingora 是一个 Rust 框架，用于构建快速、可靠和可编程的网络系统
   en: Pingora is a Rust framework to build fast, reliable and programmable networked systems
+  cs: Pingora je Rust framework pro tvorbu rychlých, spolehlivých a programovatelných síťových systémů
+  de: Pingora ist ein Rust-Framework zum Bauen schneller, zuverlässiger und programmierbarer Netzwerksysteme
+  es: Pingora es un framework de Rust para construir sistemas en red rápidos, fiables y programables
+  fr: Pingora est un framework Rust pour construire des systèmes réseau rapides, fiables et programmables
+  id: Pingora adalah framework Rust untuk membangun sistem jaringan yang cepat, andal, dan dapat diprogramasikan
+  it: Pingora è un framework Rust per costruire sistemi di rete veloci, affidabili e programmabili
+  ja: Pingora は、高速で信頼性が高くプログラム可能なネットワークシステムを構築するための Rust フレームワークです
+  ko: Pingora는 빠르고 신뢰할 수 있으며 프로그래밍 가능한 네트워크 시스템을 구축하기 위한 Rust 프레임워크입니다
+  pl: Pingora to framework Rust do budowania szybkich, niezawodnych i programowalnych systemów sieciowych
+  pt: O Pingora é um framework Rust para construir sistemas de rede rápidos, confiáveis e programáveis
+  ro: Pingora este un framework Rust pentru construirea unor sisteme de rețea rapide, fiabile și programabile
+  ru: Pingora — Rust-фреймворк для создания быстрых, надёжных и программируемых сетевых систем
+  th: Pingora เป็นเฟรมเวิร์ก Rust สำหรับสร้างระบบเครือข่ายที่รวดเร็ว เชื่อถือได้ และเขียนโปรแกรมได้
+  tr: Pingora, hızlı, güvenilir ve programlanabilir ağ sistemleri oluşturmak için bir Rust çerçevesidir
+  uk: Pingora — Rust-фреймворк для створення швидких, надійних і програмованих мережевих систем
+  vi: Pingora là framework Rust để xây dựng các hệ thống mạng nhanh, đáng tin cậy và có thể lập trình
 x:
   source: https://github.com/cloudflare/pingora
 rule:

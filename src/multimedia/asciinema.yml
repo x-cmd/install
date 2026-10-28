@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 终端会话录制器、直播器和播放器
   en: Terminal session recorder, streamer and player
+  cs: Záznamník, streamer a přehrávač relací v terminálu
+  de: Terminal-Sitzungsrekorder, Streamer und Player
+  es: Grabador, transmisor y reproductor de sesiones de terminal
+  fr: Enregistreur, diffuseur et lecteur de sessions de terminal
+  id: Perekam, broadcaster, dan pemutar sesi terminal
+  it: Registratore, streamer e riproduttore di sessioni terminali
+  ja: ターミナルセッションの録画、配信、再生ツール
+  ko: 터미널 세션 레코더, 스트리머 및 플레이어
+  pl: Rejestrator, nadajnik i odtwarzacz sesji terminalowych
+  pt: Gravador, transmissor e reprodutor de sessões de terminal
+  ro: Recorder, streamer și player pentru sesiuni de terminal
+  ru: Запись, трансляция и воспроизведение сеансов терминала
+  th: ตัวบันทึก ตัวสตรีมและตัวเล่นสำหรับเซสชันเทอร์มินัล
+  tr: Terminal oturumu kaydedici, yayıncı ve oynatıcı
+  uk: Запис, трансляція та відтворення сеансів термінала
+  vi: Trình ghi, trình phát trực tuyến và trình phát cho phiên terminal
 x:
   source: https://github.com/asciinema/asciinema
   eget: asciinema/asciinema

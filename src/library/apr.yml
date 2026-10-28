@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache 可移植运行时项目的任务是创建和维护软件库，为基础平台特定的实现提供可预测和一致的接口
   en: The mission of the Apache Portable Runtime (APR) project is to create and maintain software libraries that provide a predictable and consistent interface to underlying platform-specific implementations
+  cs: Posláním projektu Apache Portable Runtime (APR) je vytvářet a udržovat softwarové knihovny, které poskytují předvídatelné a konzistentní rozhraní k implementacím specifickým pro danou platformu
+  de: Das Ziel des Apache Portable Runtime (APR)-Projekts ist es, Softwarebibliotheken zu erstellen und zu pflegen, die eine vorhersehbare und konsistente Schnittstelle zu den plattformspezifischen Implementierungen bereitstellen
+  es: La misión del proyecto Apache Portable Runtime (APR) es crear y mantener bibliotecas de software que proporcionen una interfaz predecible y coherente con las implementaciones específicas de cada plataforma
+  fr: La mission du projet Apache Portable Runtime (APR) est de créer et de maintenir des bibliothèques logicielles qui fournissent une interface prévisible et cohérente avec les implémentations spécifiques à la plateforme
+  id: Misi proyek Apache Portable Runtime (APR) adalah membuat dan mengelola pustaka perangkat lunak yang menyediakan antarmuka yang dapat diprediksi dan konsisten dengan implementasi spesifik platform
+  it: La missione del progetto Apache Portable Runtime (APR) è creare e mantenere librerie software che forniscano un'interfaccia prevedibile e coerente con le implementazioni specifiche della piattaforma
+  ja: Apache Portable Runtime (APR) プロジェクトの使命は、プラットフォーム固有の実装に対する予測可能で一貫したインターフェースを提供するソフトウェアライブラリを作成・維持することです
+  ko: Apache Portable Runtime (APR) 프로젝트의 목표는 플랫폼별 구현에 대해 예측 가능하고 일관된 인터페이스를 제공하는 소프트웨어 라이브러리를 만들고 유지하는 것입니다
+  pl: Misją projektu Apache Portable Runtime (APR) jest tworzenie i utrzymywanie bibliotek oprogramowania zapewniających przewidywalny i spójny interfejs wobec implementacji specyficznych dla danej platformy
+  pt: A missão do projeto Apache Portable Runtime (APR) é criar e manter bibliotecas de software que forneçam uma interface previsível e consistente com as implementações específicas de cada plataforma
+  ro: Misiunea proiectului Apache Portable Runtime (APR) este de a crea și menține biblioteci software care oferă o interfață previzibilă și consistentă cu implementările specifice platformei
+  ru: Миссия проекта Apache Portable Runtime (APR) — создание и сопровождение программных библиотек, предоставляющих предсказуемый и согласованный интерфейс к платформеноспецифичным реализациям
+  th: ภารกิจของโครงการ Apache Portable Runtime (APR) คือการสร้างและดูแลซอฟต์แวร์ไลบรารีที่ให้อินเทอร์เฟซที่คาดการณ์ได้และสอดคล้องกับสำหรับแต่ละแพลตฟอร์ม
+  tr: Apache Portable Runtime (APR) projesinin misyonu, platforma özgü uygulamalar için öngörülebilir ve tutarlı bir arayüz sağlayan yazılım kitaplıkları oluşturmak ve sürdürmektir
+  uk: Місією проєкту Apache Portable Runtime (APR) є створення та супровід програмних бібліотек, які надають передбачуваний і узгоджений інтерфейс до платформоспецифічних реалізацій
+  vi: Sứ mệnh của dự án Apache Portable Runtime (APR) là tạo và duy trì các thư viện phần mềm cung cấp giao diện có thể dự đoán và nhất quán với các triển khai riêng biệt của từng nền tảng
 x:
   source: https://github.com/apache/apr
   brew: apr

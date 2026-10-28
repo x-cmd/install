@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个用 Rust 编写的极速 Swift 包和项目管理器。
   en: An extremely fast Swift package and project manager, written in Rust.
+  cs: Velmi rychlý správce balíčků a projektů Swift, napsaný v Rustu.
+  de: Ein äußerst schneller Swift-Paket- und Projektmanager, geschrieben in Rust.
+  es: Un gestor de paquetes y proyectos de Swift extremadamente rápido, escrito en Rust.
+  fr: Un gestionnaire de paquets et de projets Swift extrêmement rapide, écrit en Rust.
+  id: Manajer paket dan proyek Swift yang sangat cepat, ditulis dengan Rust.
+  it: Un gestore di pacchetti e progetti Swift estremamente veloce, scritto in Rust.
+  ja: Rust で書かれた超高速な Swift パッケージおよびプロジェクトマネージャー。
+  ko: Rust로 작성된 매우 빠른 Swift 패키지 및 프로젝트 관리자.
+  pl: Wyjątkowo szybki menedżer pakietów i projektów Swift, napisany w Rust.
+  pt: Um gerenciador de pacotes e projetos Swift extremamente rápido, escrito em Rust.
+  ro: Un manager de pachete și proiecte Swift extrem de rapid, scris în Rust.
+  ru: Очень быстрый менеджер пакетов и проектов Swift, написанный на Rust.
+  th: ตัวจัดการแพ็กเกจและโปรเจกต์ Swift ที่รวดเร็วมาก เขียนด้วย Rust
+  tr: Rust ile yazılmış, son derece hızlı bir Swift paket ve proje yöneticisi.
+  uk: Надзвичайно швидкий менеджер пакетів і проєктів Swift, написаний на Rust.
+  vi: Trình quản lý gói và dự án Swift cực kỳ nhanh, viết bằng Rust.
 x:
   source: https://github.com/quantbagel/gust
   eget: quantbagel/gust

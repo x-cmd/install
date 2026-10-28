@@ -3,6 +3,22 @@ homepage: https://github.com/ceres-solver/ceres-solver
 desc:
   cn: Ceres Solver 是一个开源的 C + + 库，用于建模和解决大型、复杂的优化问题
   en: Ceres Solver is an open source C++ library for modeling and solving large, complicated optimization problems
+  cs: Ceres Solver je open source knihovna C++ pro modelování a řešení velkých, složitých optimalizačních úloh
+  de: Ceres Solver ist eine quelloffene C++-Bibliothek zum Modellieren und Lösen großer, komplizierter Optimierungsprobleme
+  es: Ceres Solver es una biblioteca de C++ de código abierto para modelar y resolver problemas de optimización grandes y complicados
+  fr: Ceres Solver est une bibliothèque C++ open source pour modéliser et résoudre de grands problèmes d'optimisation complexes
+  id: Ceres Solver adalah pustaka C++ sumber terbuka untuk memodelkan dan memecahkan masalah optimisasi besar yang rumit
+  it: Ceres Solver è una libreria C++ open source per modellare e risolvere grandi e complicati problemi di ottimizzazione
+  ja: Ceres Solver は、大規模で複雑な最適化問題をモデリングして解くためのオープンソース C++ ライブラリです
+  ko: Ceres Solver는 크고 복잡한 최적화 문제를 모델링하고 해결하기 위한 오픈 소스 C++ 라이브러리입니다
+  pl: Ceres Solver to biblioteka C++ o otwartym kodzie do modelowania i rozwiązywania dużych, złożonych problemów optymalizacji
+  pt: Ceres Solver é uma biblioteca C++ de código aberto para modelar e resolver grandes problemas de otimização complicados
+  ro: Ceres Solver este o bibliotecă C++ cu sursă deschisă pentru modelarea și rezolvarea problemelor mari și complexe de optimizare
+  ru: Ceres Solver — это библиотека C++ с открытым исходным кодом для моделирования и решения больших сложных задач оптимизации
+  th: Ceres Solver คือไลบรารี C++ แบบโอเพนซอร์สสำหรับการสร้างแบบจำลองและแก้ปัญหาการเพิ่มประสิทธิภาพขนาดใหญ่ที่ซับซ้อน
+  tr: Ceres Solver, büyük ve karmaşık optimizasyon problemlerini modellemek ve çözmek için açık kaynak bir C++ kütüphanesidir
+  uk: Ceres Solver — це бібліотека C++ з відкритим кодом для моделювання та розв'язання великих і складних задач оптимізації
+  vi: Ceres Solver là thư viện C++ mã nguồn mở để mô hình hóa và giải quyết các bài toán tối ưu lớn và phức tạp
 x:
   source: https://github.com/ceres-solver/ceres-solver
   brew: ceres-solver

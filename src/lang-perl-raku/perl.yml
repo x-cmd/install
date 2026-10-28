@@ -3,6 +3,22 @@ homepage: https://github.com/Perl/perl5
 desc:
   cn: 一种通用脚本语言，具有强大的文本处理和正则表达式功能
   en: A general scripting language with powerful text processing and regular expression functions
+  cs: Obecný skriptovací jazyk s výkonnými funkcemi pro práci s textem a regulárními výrazy
+  de: Eine allgemeine Skriptsprache mit leistungsstarker Textverarbeitung und regulären Ausdrücken
+  es: Un lenguaje de scripturación general con potentes funciones de procesamiento de texto y expresiones regulares
+  fr: Un langage de script général avec de puissantes fonctions de traitement de texte et d'expressions régulières
+  id: Bahasa skrip umum dengan fungsi pemrosesan teks dan ekspresi reguler yang kuat
+  it: Un linguaggio di scripting general-purpose con potenti funzioni di elaborazione del testo ed espressioni regolari
+  ja: 強力なテキスト処理と正規表現機能を備えた汎用スクリプト言語
+  ko: 강력한 텍스트 처리와 정규 표현 기능을 갖춘 범용 스크립팅 언어
+  pl: Uniwersalny język skryptowy z potężnymi funkcjami przetwarzania tekstu i wyrażeń regularnych
+  pt: Uma linguagem de script de uso geral com poderosas funções de processamento de texto e expressões regulares
+  ro: Un limbaj de scriptare de uz generală cu funcții puternice de procesare a textului și expresii regulate
+  ru: Универсальный скриптовый язык с мощными средствами обработки текста и регулярными выражениями
+  th: ภาษาสคริปต์ทั่วไปพร้อมความสามารถในการประมวลผลข้อความและนิพจน์ทั่วไปที่ทรงพลัง
+  tr: Güçlü metin işleme ve düzenli ifade işlevlerine sahip genel amaçlı bir betik dili
+  uk: Загальна скриптова мова з потужними функціями обробки тексту та регулярними виразами
+  vi: Ngôn ngữ kịch bản tổng quát với các chức năng xử lý văn bản và biểu thức chính quy mạnh mẽ
 x:
   source: https://github.com/Perl/perl5
   yay: perl

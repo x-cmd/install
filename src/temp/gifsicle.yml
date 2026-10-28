@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 创建、操作和优化 GIF 图像和动画
   en: Create, manipulate and optimize GIF images and animations
+  cs: Vytváří, upravuje a optimalizuje obrázky a animace GIF
+  de: Erstellt, bearbeitet und optimiert GIF-Bilder und -Animationen
+  es: Crea, manipula y optimiza imágenes y animaciones GIF
+  fr: Crée, manipule et optimise des images et des animations GIF
+  id: Membuat, memanipulasi, dan mengoptimalkan gambar serta animasi GIF
+  it: Crea, manipola e ottimizza immagini e animazioni GIF
+  ja: GIF 画像とアニメーションの作成、編集、最適化を行います
+  ko: GIF 이미지와 애니메이션을 만들고, 조작하고, 최적화합니다
+  pl: Tworzy, modyfikuje i optymalizuje obrazy oraz animacje GIF
+  pt: Cria, manipula e otimiza imagens e animações GIF
+  ro: Creează, manipulează și optimizează imagini și animații GIF
+  ru: Создаёт, обрабатывает и оптимизирует изображения и анимации GIF
+  th: สร้าง จัดการ และปรับให้ค่าภาพและแอนิเมชัน GIF
+  tr: GIF görselleri ve animasyonları oluşturur, düzenler ve optimize eder
+  uk: Створює, обробляє та оптимізує зображення й анімації GIF
+  vi: Tạo, thao tác và tối ưu hóa hình ảnh và hoạt ảnh GIF
 x:
   source: https://github.com/kohler/gifsicle
   apt: gifsicle

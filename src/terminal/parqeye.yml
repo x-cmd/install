@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在终端直接查看 Parquet 文件内容
   en: 'Peek inside Parquet files right from your terminal'
+  cs: Nahlédnutí do souborů Parquet přímo z terminálu
+  de: Parquet-Dateien direkt im Terminal durchsehen
+  es: Echa un vistazo dentro de los archivos Parquet directamente desde tu terminal
+  fr: Jetons un œil dans les fichiers Parquet directement depuis votre terminal
+  id: Intip isi file Parquet langsung dari terminal Anda
+  it: Dai un'occhiata dentro i file Parquet direttamente dal tuo terminale
+  ja: ターミナルから直接 Parquet ファイルの中身を覗く
+  ko: 터미널에서 바로 Parquet 파일 내용을 살펴보세요
+  pl: Zaglądanie do plików Parquet wprost z terminala
+  pt: Dê uma olhada dentro dos arquivos Parquet direto do seu terminal
+  ro: Privește în interiorul fișierelor Parquet chiar din terminalul tău
+  ru: Загляните внутрь файлов Parquet прямо из терминала
+  th: ดูเนื้อหาภายในไฟล์ Parquet ได้โดยตรงจากเทอร์มินัลของคุณ
+  tr: Parquet dosyalarının içine doğrudan terminalinizden göz atın
+  uk: Зазирніть усередину файлів Parquet прямо з термінала
+  vi: Nhìn bên trong các tệp Parquet ngay từ terminal của bạn
 x:
   source: https://github.com/kaushiksrini/parqeye
   eget: kaushiksrini/parqeye

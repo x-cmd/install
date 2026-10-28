@@ -3,6 +3,22 @@ homepage: https://telegram.org/
 desc:
   en: Telegram is an instant messaging application that allows users to send and receive messages, photos, audio, videos, and other types of files over the internet
   cn: Telegram 是一种即时通讯应用程序，它允许用户通过互联网发送和接收消息、照片、音频、视频和其他类型的文件
+  cs: Telegram je aplikace pro okamžité zasílání zpráv, která uživatelům umožňuje posílat a přijímat zprávy, fotografie, zvuk, videa a další typy souborů přes internet
+  de: Telegram ist eine Instant-Messaging-Anwendung, mit der Benutzer Nachrichten, Fotos, Audio, Videos und andere Dateitypen über das Internet senden und empfangen können
+  es: Telegram es una aplicación de mensajería instantánea que permite a los usuarios enviar y recibir mensajes, fotos, audio, videos y otros tipos de archivos por internet
+  fr: Telegram est une application de messagerie instantanée qui permet aux utilisateurs d'envoyer et de recevoir des messages, des photos, de l'audio, des vidéos et d'autres types de fichiers sur internet
+  id: Telegram adalah aplikasi pesan instan yang memungkinkan pengguna mengirim dan menerima pesan, foto, audio, video, serta berbagai jenis berkas melalui internet
+  it: Telegram è un'applicazione di messaggistica istantanea che consente agli utenti di inviare e ricevere messaggi, foto, audio, video e altri tipi di file tramite internet
+  ja: Telegram はインターネットを通じてメッセージ、写真、音声、動画など各種ファイルを送信・受信できるインスタントメッセージアプリです
+  ko: Telegram은 인터넷을 통해 메시지, 사진, 오디오, 비디오 및 기타 파일을 주고받을 수 있는 인스턴트 메시징 애플리케이션입니다
+  pl: Telegram to aplikacja do natychmiastowej wymiany wiadomości, która pozwala użytkownikom wysyłać i odbierać wiadomości, zdjęcia, dźwięk, wideo i inne pliki przez internet
+  pt: O Telegram é um aplicativo de mensagens instantâneas que permite aos usuários enviar e receber mensagens, fotos, áudio, vídeos e outros tipos de arquivos pela internet
+  ro: Telegram este o aplicație de mesagerie instantanee care permite utilizatorilor să trimită și să primească mesaje, fotografii, audio, videoclipuri și alte tipuri de fișiere prin internet
+  ru: Telegram — приложение для мгновенного обмена сообщениями, позволяющее пользователям отправлять и получать по интернету сообщения, фотографии, аудио, видео и файлы других типов
+  th: Telegram คือแอปพลิเคชันแชทแบบทันทีที่ให้ผู้ใช้ส่งและรับข้อความ รูปภาพ เสียง วิดีโอ และไฟล์ประเภทอื่นผ่านอินเทอร์เน็ต
+  tr: Telegram, kullanıcıların internet üzerinden mesaj, fotoğraf, ses, video ve diğer dosya türlerini göndermesini ve almasını sağlayan bir anlık mesajlaşma uygulamasıdır
+  uk: Telegram — застосунок для миттєвого обміну повідомленнями, що дозволяє користувачам надсилати та отримувати через інтернет повідомлення, фотографії, аудіо, відео та файли інших типів
+  vi: Telegram là ứng dụng nhắn tin tức thì cho phép người dùng gửi và nhận tin nhắn, ảnh, âm thanh, video và các loại tệp khác qua internet
 rule:
   /flatpak:
     cmd: flatpak install flathub org.telegram.desktop

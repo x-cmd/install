@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Jekyll 是一个简单的、博客感知的静态站点生成器，非常适合个人、项目或组织站点
   en: Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites
+  cs: Jekyll je jednoduchý, blogově zaměřený generátor statických stránek, ideální pro osobní, projektové nebo organizační weby
+  de: Jekyll ist ein einfacher, blogbewusster statischer Site-Generator, ideal für persönliche, Projekt- oder Organisations-Websites
+  es: Jekyll es un generador de sitios estáticos sencillo y orientado a blogs, perfecto para sitios personales, de proyecto o de organización
+  fr: Jekyll est un générateur de site statique simple et conscient des blogs, idéal pour les sites personnels, de projet ou d'organisation
+  id: Jekyll adalah generator situs statis sederhana yang sadar blog, cocok untuk situs pribadi, proyek, atau organisasi
+  it: Jekyll è un semplice generatore di siti statici orientato ai blog, perfetto per siti personali, di progetto o di organizzazione
+  ja: Jekyll は単純でブログに対応した静的サイトジェネレーターで、個人・プロジェクト・組織のサイトに最適です。
+  ko: Jekyll는 간단하고 블로그를 인식하는 정적 사이트 생성기로, 개인, 프로젝트 또는 조직 사이트에 이상적입니다.
+  pl: Jekyll to prosty, świadomy blogów generator stron statycznych, idealny dla stron osobistych, projektowych i organizacyjnych
+  pt: O Jekyll é um gerador de sites estáticos simples e consciente de blogs, perfeito para sites pessoais, de projeto ou de organização
+  ro: Jekyll este un generator de site-uri statice simplu, orientat spre bloguri, perfect pentru site-uri personale, de proiect sau de organizație
+  ru: Jekyll — простой генератор статических сайтов с поддержкой блогов, идеально подходящий для личных, проектных и организационных сайтов
+  th: Jekyll เป็นตัวสร้างเว็บไซต์แบบสถิตที่เรียบง่ายและรองรับบล็อก เหมาะกับเว็บไซต์ส่วนตัว โครงการ หรือองค์กร
+  tr: Jekyll, blog farkındalığına sahip basit bir statik site oluşturucusudur; kişisel, proje veya kurumsal siteler için idealdir.
+  uk: Jekyll — це простий генератор статичних сайтів із підтримкою блогів, ідеальний для особистих, проєктних та організаційних сайтів.
+  vi: Jekyll là trình tạo trang tĩnh đơn giản, hỗ trợ blog, rất phù hợp cho các trang cá nhân, dự án hoặc tổ chức
 x:
   source: https://github.com/jekyll/jekyll
   apt: ruby-full

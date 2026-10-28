@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 用 Go 和 Bubbletea 编写的终端 IRC 客户端
   en: 'ZUSE is an irc client for the terminal made in Go with Bubbletea'
+  cs: ZUSE je klient IRC pro terminál napsaný v Go s Bubbletea
+  de: ZUSE ist ein IRC-Client für das Terminal, geschrieben in Go mit Bubbletea
+  es: ZUSE es un cliente de IRC para el terminal hecho en Go con Bubbletea
+  fr: ZUSE est un client IRC pour le terminal, écrit en Go avec Bubbletea
+  id: ZUSE adalah klien IRC untuk terminal yang dibuat dengan Go dan Bubbletea
+  it: ZUSE è un client IRC per il terminale scritto in Go con Bubbletea
+  ja: ZUSE は Go と Bubbletea で書かれたターミナル用 IRC クライアント
+  ko: ZUSE는 Go와 Bubbletea로 만든 터미널용 IRC 클라이언트입니다
+  pl: ZUSE to klient IRC dla terminala napisany w Go z użyciem Bubbletea
+  pt: ZUSE é um cliente IRC para o terminal feito em Go com Bubbletea
+  ro: ZUSE este un client IRC pentru terminal scris în Go cu Bubbletea
+  ru: ZUSE — IRC-клиент для терминала, написанный на Go с использованием Bubbletea
+  th: ZUSE คือไคลเอนต์ IRC สำหรับเทอร์มินัล พัฒนาด้วย Go และ Bubbletea
+  tr: ZUSE, Go ve Bubbletea ile yazılmış terminal için bir IRC istemcisidir
+  uk: ZUSE — IRC-клієнт для термінала, написаний на Go з використанням Bubbletea
+  vi: ZUSE là ứng dụng IRC cho terminal được viết bằng Go với Bubbletea
 x:
   source: https://github.com/babycommando/zuse
   eget: babycommando/zuse

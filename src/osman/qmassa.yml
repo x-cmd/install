@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Linux GPU 状态监控的 Rust 工具
   en: 'Rust tools to monitor GPU stats on Linux'
+  cs: Nástroje v Rustu pro monitorování statistik GPU v Linuxu
+  de: Rust-Werkzeuge zur Überwachung von GPU-Statistiken unter Linux
+  es: Herramientas en Rust para monitorizar las estadísticas de la GPU en Linux
+  fr: Outils Rust pour surveiller les statistiques du GPU sous Linux
+  id: Alat Rust untuk memantau statistik GPU di Linux
+  it: Strumenti in Rust per monitorare le statistiche della GPU su Linux
+  ja: LinuxでGPUの統計を監視するためのRustツールです。
+  ko: Linux에서 GPU 통계를 모니터링하는 Rust 도구입니다.
+  pl: Narzędzia w Rust do monitorowania statystyk GPU w systemie Linux
+  pt: Ferramentas em Rust para monitorar as estatísticas da GPU no Linux
+  ro: Instrumente Rust pentru monitorizarea statisticilor GPU pe Linux
+  ru: Инструменты на Rust для мониторинга статистики GPU в Linux
+  th: เครื่องมือ Rust สำหรับติดตามสถิติ GPU บน Linux
+  tr: Linux üzerinde GPU istatistiklerini izlemek için Rust araçları
+  uk: Інструменти на Rust для моніторингу статистики GPU у Linux
+  vi: Các công cụ Rust để giám sát số liệu GPU trên Linux
 x:
   source: https://github.com/ulissesf/qmassa
   eget: ulissesf/qmassa

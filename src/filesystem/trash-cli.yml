@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: trash-cli 用于移动文件到回收站，同时会记录文件的原地址和删除日期
   en: trash-cli trashes files recording the original path, deletion date
+  cs: trash-cli přesouvá soubory do koše a zaznamenává původní cestu a datum smazání
+  de: trash-cli verschiebt Dateien in den Papierkorb und speichert den ursprünglichen Pfad und das Löschdatum
+  es: trash-cli envía archivos a la papelera registrando la ruta original y la fecha de eliminación
+  fr: trash-cli met les fichiers à la corbeille en enregistrant le chemin d'origine et la date de suppression
+  id: trash-cli membuang file ke sampah dengan mencatat path asli dan tanggal penghapusan
+  it: trash-cli sposta i file nel cestino registrando il percorso originale e la data di eliminazione
+  ja: trash-cli はファイルをゴミ箱へ移し、元のパスと削除日を記録する
+  ko: trash-cli는 원래 경로와 삭제 날짜를 기록하면서 파일을 휴지통으로 보냅니다
+  pl: trash-cli przenosi pliki do kosza, zapisując pierwotną ścieżkę i datę usunięcia
+  pt: trash-cli envia arquivos para a lixeira registrando o caminho original e a data de exclusão
+  ro: trash-cli trimite fișierele în coș de gunoi, înregistrând calea inițială și data ștergerii
+  ru: trash-cli перемещает файлы в корзину, записывая исходный путь и дату удаления
+  th: trash-cli ย้ายไฟล์ไปถังขยะโดยบันทึกพาธเดิมและวันที่ลบ
+  tr: trash-cli dosyaları çöp kutusuna taşırken özgün yolu ve silinme tarihini kaydeder
+  uk: trash-cli переміщує файли до кошика, записуючи початковий шлях і дату видалення
+  vi: trash-cli chuyển tập tin vào thùng rác, ghi lại đường dẫn gốc và ngày xóa
 x:
   source: https://github.com/andreafrancia/trash-cli
   apt: trash-cli

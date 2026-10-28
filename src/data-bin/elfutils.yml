@@ -3,6 +3,22 @@ homepage: https://sourceware.org/git/?p=elfutils.git;a=summary
 desc:
   en: elfutils is a collection of utilities and libraries to read, create and modify ELF binary files, find and handle DWARF debug data, symbols, thread state and stacktraces for processes and core files on GNU/Linux
   cn: Elfutils 是一个实用程序和库的集合，用于读取、创建和修改 ELF 二进制文件，查找和处理 GNU/Linux 上进程和核心文件的 DWARF 调试数据、符号、线程状态和堆栈跟踪
+  cs: elfutils je sbírka nástrojů a knihoven pro čtení, vytváření a úpravu ELF binárních souborů, vyhledávání a zpracování DWARF ladicích dat, symbolů, stavu vláken a zásobníkových tras procesů a core souborů na GNU/Linux
+  de: elfutils ist eine Sammlung von Werkzeugen und Bibliotheken zum Lesen, Erstellen und Ändern von ELF-Binärdateien sowie zum Finden und Behandeln von DWARF-Debugdaten, Symbolen, Thread-Zustand und Stacktraces für Prozesse und Core-Dateien unter GNU/Linux
+  es: elfutils es una colección de utilidades y bibliotecas para leer, crear y modificar archivos binarios ELF, y para buscar y manejar datos de depuración DWARF, símbolos, estado de hilos y trazas de pila de procesos y archivos core en GNU/Linux
+  fr: elfutils est un ensemble d'utilitaires et de bibliothèques pour lire, créer et modifier des fichiers binaires ELF, trouver et traiter les données de débogage DWARF, les symboles, l'état des threads et les traces de pile des processus et des fichiers core sous GNU/Linux
+  id: elfutils adalah kumpulan utilitas dan pustaka untuk membaca, membuat, dan memodifikasi berkas biner ELF, serta mencari dan menangani data debug DWARF, simbol, status thread, dan stacktrace untuk proses dan core file di GNU/Linux
+  it: elfutils è una raccolta di utilità e librerie per leggere, creare e modificare file binari ELF, trovare e gestire dati di debug DWARF, simboli, stato dei thread e stacktrace di processi e core file su GNU/Linux
+  ja: elfutils は、ELF バイナリファイルの読み取り・作成・変更、GNU/Linux 上のプロセスとコアファイルの DWARF デバッグデータ、シンボル、スレッド状態、スタックトレースの検索と処理を行うユーティリティとライブラリの集合です
+  ko: elfutils는 ELF 바이너리 파일을 읽고 만들고 수정하며, GNU/Linux에서 프로세스와 코어 파일의 DWARF 디버그 데이터, 심볼, 스레드 상태 및 스택 트레이스를 찾아 처리하는 유틸리티와 라이브러리 모음입니다.
+  pl: elfutils to zestaw narzędzi i bibliotek do odczytu, tworzenia i modyfikacji plików binarnych ELF oraz do wyszukiwania i obsługi danych debugowania DWARF, symboli, stanu wątków i śladów stosu procesów i plików core w GNU/Linux
+  pt: elfutils é um conjunto de utilitários e bibliotecas para ler, criar e modificar arquivos binários ELF, e para localizar e tratar dados de depuração DWARF, símbolos, estado de threads e stacktraces de processos e arquivos core no GNU/Linux
+  ro: elfutils este o colecție de utilitare și biblioteci pentru citirea, crearea și modificarea fișierelor binare ELF, precum și pentru găsirea și gestionarea datelor de depanare DWARF, a simbolurilor, a stării firelor și a urmelor de stivă pentru procese și fișiere core în GNU/Linux
+  ru: elfutils — набор утилит и библиотек для чтения, создания и изменения ELF-бинарных файлов, поиска и обработки отладочных данных DWARF, символов, состояния потоков и трассировок стека процессов и core-файлов в GNU/Linux
+  th: elfutils เป็นชุดของเครื่องมือและไลบรารีสำหรับอ่าน สร้าง และแก้ไขไฟล์ไบนารี ELF ตลอดจนค้นหาและจัดการข้อมูลดีบัก DWARF สัญลักษณ์ สถานะเธรด และ stack trace ของกระบวนการและ core file บน GNU/Linux
+  tr: elfutils, ELF ikili dosyalarını okumak, oluşturmak ve değiştirmek ile GNU/Linux'ta süreçlerin ve core dosyalarının DWARF hata ayıklama verilerini, sembollerini, iş parçacığı durumunu ve yığın izlerini bulup işlemek için bir araç ve kütüphane koleksiyonudur.
+  uk: elfutils — набір утиліт і бібліотек для читання, створення та зміни ELF-бінарних файлів, пошуку й обробки налагоджувальних даних DWARF, символів, стану потоків та трасування стеку процесів і core-файлів у GNU/Linux
+  vi: elfutils là bộ sưu tập tiện ích và thư viện để đọc, tạo và sửa các tệp nhị phân ELF, tìm và xử lý dữ liệu gỡ lỗi DWARF, ký hiệu, trạng thái luồng và dấu vết ngăn xếp của tiến trình và tệp core trên GNU/Linux
 rule:
   darwin/brew:
     cmd: brew install elfutils

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Tidy Viewer (tv) 是一种跨平台 CSV 漂亮的打印机，它使用列造型来最大化观看者的享受
   en: Tidy Viewer (tv) is a cross-platform csv pretty printer that uses column styling to maximize viewer enjoyment
+  cs: Tidy Viewer (tv) je multiplatformní krásný tisk CSV, který pomocí stylování sloupců maximalizuje zážitek ze čtení.
+  de: Tidy Viewer (tv) ist ein plattformübergreifender CSV-Pretty-Printer, der durch Spaltenformatierung das Leseerlebnis maximiert.
+  es: Tidy Viewer (tv) es una herramienta multiplataforma para imprimir CSV con formato bonito que usa el estilo de columnas para maximizar el disfrute del lector.
+  fr: Tidy Viewer (tv) est un pretty-printer CSV multiplateforme qui utilise le style des colonnes pour maximiser le plaisir de lecture.
+  id: Tidy Viewer (tv) adalah pprint CSV lintas platform yang menggunakan gaya kolom untuk memaksimalkan kenyamanan pembaca.
+  it: Tidy Viewer (tv) è un pretty printer CSV multipiattaforma che usa lo stile delle colonne per massimizzare il piacere della lettura.
+  ja: Tidy Viewer (tv) は、列のスタイル指定によって読みやすさを最大化する、クロスプラットフォームの CSV 整形表示ツールです。
+  ko: Tidy Viewer (tv)는 열 스타일을 활용하여 보는 경험을 극대화하는 크로스 플랫폼 CSV pretty printer입니다.
+  pl: Tidy Viewer (tv) to wieloplatformowy czytelnik CSV, który dzięki formatowaniu kolumn maksymalizuje przyjemność oglądania.
+  pt: Tidy Viewer (tv) é um formatador de CSV multiplataforma que usa estilo de colunas para maximizar o prazer de quem visualiza.
+  ro: Tidy Viewer (tv) este un frumosator CSV multiplă platformă care folosește stilizarea coloanelor pentru a maximiza plăcerea de vizualizare.
+  ru: Tidy Viewer (tv) — кроссплатформенный инструмент красивого вывода CSV, использующий оформление колонок для удобства просмотра.
+  th: Tidy Viewer (tv) เป็นเครื่องมือจัดรูปแบบ CSV ข้ามแพลตฟอร์มที่ใช้การจัดรูปแบบคอลัมน์เพื่อเพิ่มความสุขในการดูข้อมูล
+  tr: Tidy Viewer (tv), sütun stilleriyle okuma keyfini en üst düzeye çıkaran platformlar arası bir CSV pretty printer'dır.
+  uk: Tidy Viewer (tv) — кроссплатформений інструмент гарного виводу CSV, який використовує оформлення колонок для зручного перегляду.
+  vi: Tidy Viewer (tv) là công cụ trình bày CSV đẹp đẽ đa nền tảng, sử dụng định kiểu cột để tối đa hóa trải nghiệm xem.
 x:
   source: https://github.com/alexhallam/tv
   eget: alexhallam/tv

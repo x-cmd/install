@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: K9s 是一个基于终端的 UI，用于与 Kubernetes 集群交互
   en: K9s is a terminal based UI to interact with your Kubernetes clusters
+  cs: K9s je terminálové UI pro interakci s vašimi clustery Kubernetes
+  de: K9s ist eine terminalbasierte Benutzeroberfläche zur Interaktion mit Ihren Kubernetes-Clustern
+  es: K9s es una UI basada en terminal para interactuar con tus clústeres de Kubernetes
+  fr: K9s est une interfacebased sur le terminal pour interagir avec vos clusters Kubernetes
+  id: K9s adalah UI berbasis terminal untuk berinteraksi dengan klaster Kubernetes Anda
+  it: K9s è un'interfaccia da terminale per interagire con i tuoi cluster Kubernetes
+  ja: K9s は Kubernetes クラスタと対話するためのターミナルベースの UI です
+  ko: K9s는 Kubernetes 클러스터와 상호작용하기 위한 터미널 기반 UI입니다
+  pl: K9s to terminalowy interfejs użytkownika do interakcji z klastrami Kubernetes
+  pt: K9s é uma UI baseada em terminal para interagir com seus clusters Kubernetes
+  ro: K9s este o interfață bazată pe terminal pentru a interacționa cu clusterele tale Kubernetes
+  ru: K9s — это терминальный интерфейс для работы с вашими кластерами Kubernetes
+  th: K9s คือ UI บนเทอร์มินัลสำหรับโต้ตอบกับคลัสเตอร์ Kubernetes ของคุณ
+  tr: K9s, Kubernetes kümelerinizle etkileşim kurmak için terminal tabanlı bir arayüzdür
+  uk: K9s — це термінальний інтерфейс для взаємодії з вашими кластерами Kubernetes
+  vi: K9s là giao diện dựa trên terminal để tương tác với các cụm Kubernetes của bạn
 x:
   source: https://github.com/derailed/k9s
   eget: derailed/k9s

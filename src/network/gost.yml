@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GO 语言实现的安全隧道
   en: A simple security tunnel written in Golang
+  cs: Jednoduchý bezpečnostní tunel napsaný v Golang
+  de: Ein einfacher Sicherheitstunnel, geschrieben in Golang
+  es: Un sencillo túnel de seguridad escrito en Golang
+  fr: Un tunnel de sécurité simple écrit en Golang
+  id: Terowongan keamanan sederhana yang ditulis dengan Golang
+  it: Un semplice tunnel di sicurezza scritto in Golang
+  ja: Golang で書かれたシンプルなセキュアトンネル
+  ko: Golang으로 작성된 간단한 보안 터널
+  pl: Prosty bezpieczny tunel napisany w Golang
+  pt: Um túnel de segurança simples escrito em Golang
+  ro: Un tunel de securitate simplu scris în Golang
+  ru: Простой безопасный туннель, написанный на Golang
+  th: อุโมงค์ความปลอดภัยอย่างง่ายที่เขียนด้วย Golang
+  tr: Golang ile yazılmış basit bir güvenlik tüneli
+  uk: Простий безпечний тунель, написаний на Golang
+  vi: Đường hầm bảo mật đơn giản viết bằng Golang
 x:
   source: https://github.com/go-gost/gost
   eget: go-gost/gost

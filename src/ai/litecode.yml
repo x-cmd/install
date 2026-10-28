@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: 面向 8k 上下文 AI 模型的 CLI 工具
   en: CLI Tool for 8k context ai models
+  cs: Nástroj CLI pro AI modely s kontextem 8k
+  de: CLI-Tool für KI-Modelle mit 8k Kontext
+  es: Herramienta CLI para modelos de IA con contexto de 8k
+  fr: Outil en ligne de commande pour les modèles d'IA avec un contexte de 8k
+  id: Alat CLI untuk model AI berkonteks 8k
+  it: Strumento CLI per modelli IA con contesto 8k
+  ja: 8kコンテキストのAIモデル向けのCLIツール
+  ko: 8k 컨텍스트 AI 모델을 위한 CLI 도구
+  pl: Narzędzie CLI dla modeli AI z kontekstem 8k
+  pt: Ferramenta de CLI para modelos de IA com contexto de 8k
+  ro: Instrument CLI pentru modele AI cu context de 8k
+  ru: CLI-инструмент для ИИ-моделей с контекстом 8k
+  th: เครื่องมือ CLI สำหรับโมเดล AI ที่มีบริบท 8k
+  tr: 8k bağlamlı yapay zeka modelleri için CLI aracı
+  uk: CLI-інструмент для ШІ-моделей із контекстом 8k
+  vi: Công cụ CLI cho các mô hình AI có ngữ cảnh 8k
 x:
   source: https://github.com/razvanneculai/litecode
   eget: razvanneculai/litecode

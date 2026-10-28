@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: systeroid 是使用 procfs 实现的，procfs 是虚拟文件系统，通常在启动时映射到名为 /proc 的安装点
   en: systeroid is implemented using procfs which is the virtual file system that is typically mapped to a mount point named /proc at boot time
+  cs: systeroid je implementován pomocí procfs, což je virtuální souborový systém obvykle namontovaný v bootu na přípojný bod /proc
+  de: systeroid ist mit procfs implementiert, dem virtuellen Dateisystem, das beim Booten typischerweise auf den Mountpoint /proc abgebildet wird
+  es: systeroid está implementado usando procfs, que es el sistema de archivos virtual que normalmente se monta en un punto de montaje llamado /proc al arrancar
+  fr: systeroid est implémenté à l'aide de procfs, le système de fichiers virtuel généralement monté sur un point de montage nommé /proc au démarrage
+  id: systeroid diimplementasikan dengan procfs, sistem file virtual yang biasanya dipetakan ke titik mount bernama /proc saat boot
+  it: systeroid è implementato usando procfs, il file system virtuale che tipicamente viene mappato su un punto di montaggio chiamato /proc all'avvio
+  ja: systeroid は procfs を使って実装されています。procfs は起動時に /proc というマウントポイントへマッピングされる仮想ファイルシステムです
+  ko: systeroid는 procfs를 사용하여 구현되며, procfs는 부팅 시 일반적으로 /proc라는 마운트 포인트에 매핑되는 가상 파일 시스템입니다
+  pl: systeroid zaimplementowano przy użyciu procfs, czyli wirtualnego systemu plików, który przy starcie jest zwykle mapowany na punkt montowania o nazwie /proc
+  pt: systeroid é implementado usando procfs, o sistema de arquivos virtual que normalmente é mapeado em um ponto de montagem chamado /proc na inicialização
+  ro: systeroid este implementat folosind procfs, sistemul de fișiere virtual montat de obicei la pornire într-un punct de montare numit /proc
+  ru: systeroid реализован с использованием procfs — виртуальной файловой системы, которая при загрузке обычно монтируется в точку /proc
+  th: systeroid ถูกพัฒนาโดยใช้ procfs ซึ่งเป็นระบบไฟล์เสมือนที่มักถูกแมปไปยังจุดติดตั้งชื่อ /proc ในเวลาบูต
+  tr: systeroid, önyükleme sırasında genellikle /proc adlı bağlama noktasına eşlenen sanal dosya sistemi olan procfs kullanılarak uygulanmıştır
+  uk: systeroid реалізовано з використанням procfs — віртуальної файлової системи, яка під час завантаження зазвичай монтується в точку /proc
+  vi: systeroid được triển khai bằng procfs, hệ thống tập tin ảo thường được ánh xạ tới điểm gắn tên /proc lúc khởi động
 x:
   source: https://github.com/orhun/systeroid
   pacman: systeroid

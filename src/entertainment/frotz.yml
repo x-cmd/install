@@ -3,6 +3,22 @@ homepage: https://davidgriffith.gitlab.io/frotz/
 desc:
   cn: Infocom 游戏和其他 Z-machine 游戏的解释器
   en: An interpreter for Infocom games and other Z-machine games.
+  cs: Interpret her pro hry Infocom a další hry Z-machine.
+  de: Ein Interpreter für Infocom-Spiele und andere Z-machine-Spiele.
+  es: Un intérprete para juegos de Infocom y otros juegos de Z-machine.
+  fr: Un interpréteur pour les jeux Infocom et les autres jeux Z-machine.
+  id: Interpreter untuk game Infocom dan game Z-machine lainnya.
+  it: Un interprete per i giochi Infocom e altri giochi Z-machine.
+  ja: Infocom ゲームやその他の Z-machine ゲームのインタプリタ。
+  ko: Infocom 게임과 기타 Z-machine 게임을 위한 인터프리터.
+  pl: Interpreter do gier Infocom i innych gier Z-machine.
+  pt: Um interpretador para jogos da Infocom e outros jogos Z-machine.
+  ro: Un interpretor pentru jocurile Infocom și alte jocuri Z-machine.
+  ru: Интерпретатор для игр Infocom и других игр Z-machine.
+  th: ตัวตีความสำหรับเกม Infocom และเกม Z-machine อื่น ๆ
+  tr: Infocom oyunları ve diğer Z-machine oyunları için bir yorumlayıcı.
+  uk: Інтерпретатор для ігор Infocom та інших ігор Z-machine.
+  vi: Trình thông dịch cho các game Infocom và các game Z-machine khác.
 rule:
   darwin/brew:
     cmd: brew install frotz

@@ -3,6 +3,22 @@ homepage: https://github.com/mpetuska/ktx
 desc:
   cn: 用于 Kotlin 和 JVM 的 npx，安装和执行 jar 或 kotlin 脚本，就像任何其他命令行实用程序一样
   en: npx for kotlin and the JVM,Install and execute jars or kotlin scripts just like any other command line utility
+  cs: npx pro kotlin a JVM, instalace a spouštění jarů nebo kotlin skriptů stejně jako u jakéhokoli jiného nástroje příkazové řádky
+  de: npx für Kotlin und die JVM, Installation und Ausführung von JARs oder Kotlin-Skripten wie bei jedem anderen Kommandozeilenwerkzeug
+  es: npx para kotlin y la JVM, instala y ejecuta jars o scripts de kotlin como cualquier otra utilidad de línea de comandos
+  fr: npx pour Kotlin et la JVM, installe et exécute des jars ou des scripts kotlin comme n'importe quel autre utilitaire en ligne de commande
+  id: npx untuk kotlin dan JVM, instalasi dan jalankan jar atau skrip kotlin seperti utilitas baris perintah lainnya
+  it: npx per kotlin e la JVM, installa ed esegue jar o script kotlin come qualsiasi altra utilità della riga di comando
+  ja: kotlin と JVM 向けの npx、他のコマンドラインツールと同じように jar や kotlin スクリプトをインストールして実行します
+  ko: kotlin과 JVM을 위한 npx, 다른 모든 명령줄 유틸리티처럼 jar 또는 kotlin 스크립트를 설치하고 실행합니다
+  pl: npx dla kotlin i JVM, instaluje i uruchamia pliki jar lub skrypty kotlin tak jak każde inne narzędzie wiersza poleceń
+  pt: npx para kotlin e a JVM, instala e executa jars ou scripts kotlin como qualquer outra utilidade de linha de comando
+  ro: npx pentru kotlin și JVM, instalează și execută jar-uri sau scripturi kotlin ca orice altă utilitate din linia de comandă
+  ru: npx для kotlin и JVM, установка и запуск jar-файлов или kotlin-скриптов как любой другой утилиты командной строки
+  th: npx สำหรับ kotlin และ JVM ติดตั้งและรัน jar หรือสคริปต์ kotlin เหมือนกับเครื่องมือบรรทัดคำสั่งอื่น ๆ
+  tr: kotlin ve JVM için npx, diğer tüm komut satırı araçları gibi jar veya kotlin betiklerini kurar ve çalıştırır
+  uk: npx для kotlin і JVM, встановлення та запуск jar-файлів або kotlin-скриптів як будь-який інший інструмент командного рядка
+  vi: npx cho kotlin và JVM, cài đặt và chạy jar hoặc script kotlin giống như bất kỳ tiện ích dòng lệnh nào khác
 x:
   source: https://github.com/mpetuska/ktx
 rule:

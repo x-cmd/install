@@ -3,6 +3,22 @@ homepage: https://github.com/postmanlabs/postman-app-support
 desc:
   cn: Postman CLI 是由 Postman 开发、支持和签名的命令行配套工具
   en: The Postman CLI is the command-line companion that is developed, supported, and signed by Postman
+  cs: Postman CLI je doprovodný nástroj pro příkazovou řádku, který je vyvinut, podporován a podepsán společností Postman
+  de: Die Postman CLI ist das Kommandozeilen-Werkzeug, das von Postman entwickelt, unterstützt und signiert wird
+  es: Postman CLI es la herramienta complementaria de línea de comandos que Postman desarrolla, admite y firma
+  fr: Postman CLI est l'outil de ligne de commande compagnon développé, pris en charge et signé par Postman
+  id: Postman CLI adalah alat pendamping baris perintah yang dikembangkan, didukung, dan ditandatangani oleh Postman
+  it: Postman CLI è lo strumento da riga di comando di supporto sviluppato, supportato e firmato da Postman
+  ja: Postman CLI は Postman が開発し、サポートし、署名しているコマンドライン補助ツールです
+  ko: Postman CLI는 Postman이 개발하고 지원하며 서명한 명령줄 보조 도구입니다
+  pl: Postman CLI to narzędzie wiersza poleceń opracowane, wspierane i podpisane przez Postman
+  pt: O Postman CLI é a ferramenta de linha de comando complementar desenvolvida, suportada e assinada pela Postman
+  ro: Postman CLI este instrumentul de linie de comandă complementar dezvoltat, susținut și semnat de Postman
+  ru: Postman CLI — вспомогательный инструмент командной строки, разработанный, поддерживаемый и подписанный Postman
+  th: Postman CLI คือเครื่องมือเสริมบรรทัดคำสั่งที่พัฒนา สนับสนุน และลงลายเซ็นโดย Postman
+  tr: Postman CLI, Postman tarafından geliştirilen, desteklenen ve imzalanan komut satırı yardımcı aracıdır
+  uk: Postman CLI — допоміжний інструмент командного рядка, розроблений, підтримуваний і підписаний Postman
+  vi: Postman CLI là công cụ dòng lệnh đồng hành do Postman phát triển, hỗ trợ và ký
 x:
   source: https://github.com/postmanlabs/postman-app-support
   yay: postman-bin

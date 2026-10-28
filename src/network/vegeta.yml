@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Vegeta 是一款多功能 HTTP 负载测试工具，旨在满足以恒定请求率钻探 HTTP 服务的需求
   en: Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate
+  cs: Vegeta je všestranný nástroj pro zátěžové testování HTTP, vzniklý z potřeby testovat HTTP služby konstantní rychlostí požadavků
+  de: Vegeta ist ein vielseitiges HTTP-Lasttestwerkzeug, das aus dem Bedarf entstand, HTTP-Dienste mit konstanter Anfragerate zu testen
+  es: Vegeta es una herramienta versátil de pruebas de carga de HTTP, creada por la necesidad de@testear servicios HTTP con una tasa de peticiones constante
+  fr: Vegeta est un outil polyvalent de test de charge HTTP, né du besoin de solliciter des services HTTP à un taux de requêtes constant
+  id: Vegeta adalah alat pengujian beban HTTP serbaguna yang lahir dari kebutuhan untuk menguji layanan HTTP dengan laju permintaan konstan
+  it: Vegeta è un versatile strumento di load testing HTTP, nato dalla necessità di collaudare i servizi HTTP con un tasso di richieste costante
+  ja: Vegeta は一定のリクエストレートで HTTP サービスを検証する必要から生まれた、多角的な HTTP 負荷テストツールです。
+  ko: Vegeta는 일정한 요청 속도로 HTTP 서비스를 부하 테스트할 필요에서 만들어진 다목적 HTTP 부하 테스트 도구입니다.
+  pl: Vegeta to uniwersalne narzędzie do testów obciążeniowych HTTP, powstałe z potrzeby testowania usług HTTP przy stałym tempie żądań
+  pt: Vegeta é uma ferramenta versátil de teste de carga HTTP, criada a partir da necessidade de testar serviços HTTP com uma taxa de requisições constante
+  ro: Vegeta este un instrument versatile de testare a încărcăturii HTTP, creat din nevoia de a testa serviciile HTTP cu o rată constantă de cereri
+  ru: Vegeta — универсальный инструмент нагрузочного тестирования HTTP, созданный из необходимости тестировать HTTP-сервисы с постоянной частотой запросов
+  th: Vegeta เป็นเครื่องมือทดสอบโหลด HTTP ที่หลากหลาย สร้างขึ้นจากความต้องการทดสอบบริการ HTTP ด้วยอัตราคำขอคงที่
+  tr: Vegeta, HTTP hizmetlerini sabit bir istek oranıyla test etme ihtiyacından doğan çok yönlü bir HTTP yük testi aracıdır
+  uk: Vegeta — універсальний інструмент навантажувального тестування HTTP, створений із потреби тестувати HTTP-сервіси зі сталою частотою запитів
+  vi: Vegeta là công cụ kiểm thử tải HTTP đa năng, ra đời từ nhu cầu kiểm tra các dịch vụ HTTP với tốc độ yêu cầu cố định
 x:
   source: https://github.com/tsenart/vegeta
   eget: tsenart/vegeta

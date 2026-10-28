@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/fontconfig/fontconfig
 desc:
   en: Fontconfig is a library for configuring and customizing font access
   cn: Fontconfig 是一个用于配置和自定义字体访问的库
+  cs: Fontconfig je knihovna pro konfiguraci a přizpůsobení přístupu k fontům
+  de: Fontconfig ist eine Bibliothek zum Konfigurieren und Anpassen des Schriftzugriffs
+  es: Fontconfig es una biblioteca para configurar y personalizar el acceso a las fuentes
+  fr: Fontconfig est une bibliothèque permettant de configurer et de personnaliser l'accès aux polices
+  id: Fontconfig adalah pustaka untuk mengonfigurasi dan menyesuaikan akses font
+  it: Fontconfig è una libreria per configurare e personalizzare l'accesso ai caratteri
+  ja: Fontconfig はフォントアクセスの設定とカスタマイズを行うためのライブラリです
+  ko: Fontconfig는 글꼴 접근을 설정하고 사용자 지정하는 라이브러리입니다
+  pl: Fontconfig to biblioteka do konfigurowania i dostosowywania dostępu do czcionek
+  pt: Fontconfig é uma biblioteca para configurar e personalizar o acesso às fontes
+  ro: Fontconfig este o bibliotecă pentru configurarea și personalizarea accesului la fonturi
+  ru: Fontconfig — библиотека для настройки и персонализации доступа к шрифтам
+  th: Fontconfig คือไลบรารีสำหรับการกำหนดค่าและปรับแต่งการเข้าถึงฟอนต์
+  tr: Fontconfig, yazı tipi erişimini yapılandırmak ve özelleştirmek için bir kütüphanedir
+  uk: Fontconfig — бібліотека для налаштування та персоналізації доступу до шрифтів
+  vi: Fontconfig là thư viện để cấu hình và tùy chỉnh việc truy cập phông chữ
 rule:
   darwin/brew:
     cmd: brew install fontconfig

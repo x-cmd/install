@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于将 git 作为汞存储库的客户端的工具
   en: Tools for using git as a client to mercurial repositories
+  cs: Nástroje pro používání gitu jako klienta k repozitářům mercurial
+  de: Werkzeuge, um git als Client für mercurial-Repositories zu verwenden
+  es: Herramientas para usar git como cliente de repositorios de mercurial
+  fr: Outils pour utiliser git comme client de dépôts mercurial
+  id: Alat untuk menggunakan git sebagai klien untuk repositori mercurial
+  it: Strumenti per usare git come client per repository mercurial
+  ja: git を mercurial リポジトリのクライアントとして使うためのツール
+  ko: git을 mercurial 저장소의 클라이언트로 사용하기 위한 도구
+  pl: Narzędzia do używania gita jako klienta repozytoriów mercurial
+  pt: Ferramentas para usar o git como cliente de repositórios mercurial
+  ro: Instrumente pentru utilizarea git ca client pentru depozite mercurial
+  ru: Инструменты для использования git в качестве клиента для репозиториев mercurial
+  th: เครื่องมือสำหรับใช้ git เป็นไคลเอนต์ของที่เก็บ mercurial
+  tr: Git'i mercurial depoları için istemci olarak kullanmaya yönelik araçlar
+  uk: Інструменти для використання git як клієнта для репозиторіїв mercurial
+  vi: Các công cụ để dùng git làm client cho kho mercurial
 x:
   source: https://github.com/jdalrymple/gitifyhg
   dnf: gitifyhg

@@ -3,6 +3,22 @@ homepage: https://github.com/eksctl-io/eksctl
 desc:
   cn: Eksctl 是一个简单的 CLI 工具，用于在 EKS 上创建集群——亚马逊为 EC2 提供的新的托管 Kubernetes 服务
   en: eksctl is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2
+  cs: eksctl je jednoduchý nástroj CLI pro vytváření clusterů na EKS - nové spravované službě Kubernetes od Amazonu pro EC2
+  de: eksctl ist ein einfaches CLI-Werkzeug zum Erstellen von Clustern auf EKS - Amazons neuem verwaltetem Kubernetes-Service für EC2
+  es: eksctl es una herramienta CLI sencilla para crear clústeres en EKS, el nuevo servicio gestionado de Kubernetes de Amazon para EC2
+  fr: eksctl est un simple outil CLI pour créer des clusters sur EKS - le nouveau service Kubernetes managé d'Amazon pour EC2
+  id: eksctl adalah alat CLI sederhana untuk membuat cluster di EKS - layanan Kubernetes terkelola baru dari Amazon untuk EC2
+  it: eksctl è un semplice strumento CLI per creare cluster su EKS - il nuovo servizio Kubernetes gestito di Amazon per EC2
+  ja: eksctl は EKS 上でクラスタを作成するためのシンプルな CLI ツールです。EKS は EC2 向け Amazon の新しいマネージド Kubernetes サービスです
+  ko: eksctl은 EKS에서 클러스터를 생성하기 위한 간단한 CLI 도구로, EKS는 EC2를 위한 Amazon의 새로운 관리형 Kubernetes 서비스입니다
+  pl: eksctl to proste narzędzie CLI do tworzenia klastrów w EKS - nowej zarządzanej usłudze Kubernetes od Amazon dla EC2
+  pt: eksctl é uma ferramenta de CLI simples para criar clusters no EKS - o novo serviço gerenciado de Kubernetes da Amazon para EC2
+  ro: eksctl este un instrument CLI simplu pentru crearea de clustere pe EKS - noul serviciu Kubernetes gestionat de Amazon pentru EC2
+  ru: eksctl — простой инструмент CLI для создания кластеров на EKS, новом управляемом сервисе Kubernetes от Amazon для EC2
+  th: eksctl คือเครื่องมือ CLI อย่างง่ายสำหรับสร้างคลัสเตอร์บน EKS ซึ่งเป็นบริการ Kubernetes แบบจัดการใหม่ของ Amazon สำหรับ EC2
+  tr: eksctl, EKS üzerinde küme oluşturmak için basit bir CLI aracıdır - EC2 için Amazon'un yeni yönetilen Kubernetes servisi
+  uk: eksctl — простий інструмент CLI для створення кластерів на EKS — новому керованому сервісі Kubernetes від Amazon для EC2
+  vi: eksctl là công cụ CLI đơn giản để tạo cụm trên EKS - dịch vụ Kubernetes được quản lý mới của Amazon cho EC2
 x:
   source: https://github.com/eksctl-io/eksctl
   eget: eksctl-io/eksctl

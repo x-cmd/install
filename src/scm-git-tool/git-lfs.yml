@@ -3,6 +3,22 @@ homepage: https://github.com/git-lfs/git-lfs
 desc:
   cn: Git LFS 是一个命令行扩展， 使用 Git 管理大文件的规范 。
   en: Git LFS is a command line extension and specification for managing large files with Git.
+  cs: Git LFS je rozšíření příkazové řádky a specifikace pro správu velkých souborů pomocí Gitu.
+  de: Git LFS ist eine Befehlszeilenerweiterung und Spezifikation zur Verwaltung großer Dateien mit Git.
+  es: Git LFS es una extensión de línea de comandos y una especificación para gestionar archivos grandes con Git.
+  fr: Git LFS est une extension de ligne de commande et une spécification pour gérer de gros fichiers avec Git.
+  id: Git LFS adalah ekstensi baris perintah dan spesifikasi untuk mengelola berkas besar dengan Git.
+  it: Git LFS è un'estensione della riga di comando e una specifica per gestire file di grandi dimensioni con Git.
+  ja: Git LFS は、Git で大容量ファイルを管理するためのコマンドライン拡張および仕様です。
+  ko: Git LFS는 Git로 대용량 파일을 관리하기 위한 명령줄 확장과 명세입니다.
+  pl: Git LFS to rozszerzenie wiersza poleceń i specyfikacja do zarządzania dużymi plikami za pomocą Gita.
+  pt: O Git LFS é uma extensão de linha de comando e uma especificação para gerenciar arquivos grandes com o Git.
+  ro: Git LFS este o extensie de linie de comandă și o specificație pentru gestionarea fișierelor mari cu Git.
+  ru: Git LFS — это расширение командной строки и спецификация для управления большими файлами с помощью Git.
+  th: Git LFS เป็นส่วนขยายบรรทัดคำสั่งและข้อกำหนดสำหรับการจัดการไฟล์ขนาดใหญ่ด้วย Git
+  tr: Git LFS, Git ile büyük dosyaları yönetmek için bir komut satırı eklentisi ve belirtimidir.
+  uk: Git LFS — це розширення командного рядка та специфікація для керування великими файлами за допомогою Git.
+  vi: Git LFS là tiện ích mở rộng dòng lệnh và đặc tả để quản lý tệp lớn bằng Git.
 x:
   source: https://github.com/git-lfs/git-lfs
   eget: git-lfs/git-lfs

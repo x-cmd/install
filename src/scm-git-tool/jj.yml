@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 既简单又强大的与 Git 兼容的 VCS
   en: A Git-compatible VCS that is both simple and powerful
+  cs: VCS kompatibilní s Git, které je zároveň jednoduché a výkonné
+  de: Ein Git-kompatibles VCS, das sowohl einfach als auch leistungsstark ist
+  es: Un VCS compatible con Git que es a la vez sencillo y potente
+  fr: Un VCS compatible avec Git, à la fois simple et puissant
+  id: VCS yang kompatibel dengan Git, sederhana namun kuat
+  it: Un VCS compatibile con Git, sia semplice che potente
+  ja: 簡素さと強力さを両立した Git 互換の VCS
+  ko: 단순하면서도 강력한 Git 호환 VCS
+  pl: VCS zgodny z Git, który jest jednocześnie prosty i potężny
+  pt: Um VCS compatível com Git que é ao mesmo tempo simples e poderoso
+  ro: Un VCS compatibil cu Git, atât simplu, cât și puternic
+  ru: Совместимая с Git система контроля версий, которая одновременно проста и мощна
+  th: ระบบควบคุมเวอร์ชันที่เข้ากันได้กับ Git ทั้งเรียบง่ายและทรงพลัง
+  tr: Hem basit hem de güçlü olan Git uyumlu bir VCS
+  uk: Система контролю версій, сумісна з Git, яка є одночасно простою і потужною
+  vi: Hệ thống quản lý phiên bản tương thích với Git, vừa đơn giản vừa mạnh mẽ
 x:
   source: https://github.com/jj-vcs/jj
   eget: jj-vcs/jj

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 对 CSV 或 TSV 等结构化文本执行 SQL
   en: Execute SQL against structured text like CSV or TSV
+  cs: Spouští SQL dotazy nad strukturovaným textem, jako je CSV nebo TSV.
+  de: SQL-Abfragen auf strukturiertem Text wie CSV oder TSV ausführen.
+  es: Ejecuta consultas SQL sobre texto estructurado como CSV o TSV.
+  fr: Exécute des requêtes SQL sur du texte structuré comme CSV ou TSV.
+  id: Jalankan SQL terhadap teks terstruktur seperti CSV atau TSV.
+  it: Esegue query SQL su testi strutturati come CSV o TSV.
+  ja: CSV や TSV などの構造化されたテキストに対して SQL を実行します。
+  ko: CSV나 TSV 같은 구조화된 텍스트에 대해 SQL을 실행합니다.
+  pl: Wykonuje zapytania SQL na ustrukturyzowanym tekście, takim jak CSV lub TSV.
+  pt: Executa SQL sobre texto estruturado como CSV ou TSV.
+  ro: Execută interogări SQL pe text structurat, precum CSV sau TSV.
+  ru: Выполняет SQL-запросы к структурированному тексту, например к CSV или TSV.
+  th: รัน SQL กับข้อความที่มีโครงสร้าง เช่น CSV หรือ TSV
+  tr: CSV veya TSV gibi yapılandırılmış metin üzerinde SQL çalıştırır.
+  uk: Виконує SQL-запити до структурованого тексту, наприклад CSV або TSV.
+  vi: Thực thi SQL trên văn bản có cấu trúc như CSV hoặc TSV.
 x:
   source: https://github.com/dinedal/textql
   brew: textql

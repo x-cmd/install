@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: 独立于语言且易于扩展的代码分析应用程序
   en: coala provides a unified interface for linting and fixing code with a single configuration file, regardless of the programming languages used
+  cs: coala poskytuje jednotné rozhraní pro kontrolu a opravu kódu s jedním konfiguračním souborem, bez ohledu na použité programovací jazyky
+  de: coala bietet eine einheitliche Oberfläche zum Prüfen und Beheben von Code mit einer einzigen Konfigurationsdatei, unabhängig von der verwendeten Programmiersprache
+  es: coala ofrece una interfaz unificada para analizar y corregir código con un único archivo de configuración, independientemente de los lenguajes de programación usados
+  fr: coala fournit une interface unifiée pour analyser et corriger du code avec un seul fichier de configuration, quels que soient les langages de programmation utilisés
+  id: coala menyediakan antarmuka terpadu untuk melinting dan memperbaiki kode dengan satu berkas konfigurasi, terlepas dari bahasa pemrograman yang digunakan
+  it: coala fornisce un'interfaccia unificata per analizzare e correggere il codice con un unico file di configurazione, indipendentemente dai linguaggi di programmazione usati
+  ja: coala は、使用するプログラミング言語にかかわらず、単一の設定ファイルでコードの lint と修正を行う統一されたインターフェースを提供します
+  ko: coala는 사용하는 프로그래밍 언어와 관계없이 하나의 설정 파일로 코드를 린트하고 수정하는 통일된 인터페이스를 제공합니다
+  pl: coala zapewnia ujednolicony interfejs do lintowania i naprawiania kodu przy użyciu jednego pliku konfiguracyjnego, niezależnie od użytych języków programowania
+  pt: o coala oferece uma interface unificada para analisar e corrigir código com um único arquivo de configuração, independentemente das linguagens de programação usadas
+  ro: coala oferă o interfață unificată pentru analizarea și repararea codului cu un singur fișier de configurare, indiferent de limbajele de programare folosite
+  ru: coala предоставляет единый интерфейс для проверки и исправления кода с одним файлом конфигурации, независимо от используемых языков программирования
+  th: coala ให้อินเทอร์เฟซแบบเดียวสำหรับการตรวจและแก้ไขโค้ดด้วยไฟล์การตั้งค่าเดียว ไม่ว่าจะใช้ภาษาโปรแกรมใด
+  tr: coala, kullanılan programlama dilinden bağımsız olarak tek bir yapılandırma dosyasıyla kod denetleme ve düzeltme için birleşik bir arayüz sunar
+  uk: coala надає єдиний інтерфейс для перевірки та виправлення коду з одним файлом конфігурації, незалежно від використаних мов програмування
+  vi: coala cung cấp giao diện thống nhất để lint và sửa mã với một tệp cấu hình duy nhất, bất kể ngôn ngữ lập trình đã dùng
 x:
   source: https://github.com/coala/coala-bears
   pip: coala-bears

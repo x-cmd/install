@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用于过滤文件路径的命令行模糊查找器和 zig 模块
   en: 'a commandline fuzzy finder and zig module designed for filtering filepaths'
+  cs: Nástroj pro fuzzy hledání na příkazové řádce a modul zig určený k filtrování cest k souborům
+  de: Ein Kommandozeilen-Fuzzy-Finder und zig-Modul zum Filtern von Dateipfaden
+  es: Un buscador difuso de línea de comandos y módulo zig diseñado para filtrar rutas de archivos
+  fr: Un utilitaire de recherche approximative en ligne de commande et un module zig conçu pour filtrer les chemins de fichiers
+  id: Pencari fuzzy baris perintah dan modul zig yang dirancang untuk memfilter path file
+  it: Un fuzzy finder da riga di comando e un modulo zig progettato per filtrare i percorsi dei file
+  ja: ファイルパスのフィルタリング的命令ライン模糊検索ツール兼zigモジュール
+  ko: 파일 경로 필터링을 위한 명령줄 퍼지 파인더 및 zig 모듈
+  pl: Wiersz poleceń fuzzy finder i moduł zig do filtrowania ścieżek plików
+  pt: Um localizador difuso de linha de comando e módulo zig projetado para filtrar caminhos de arquivos
+  ro: Un finder fuzzy de linie de comandă și modul zig conceput pentru filtrarea căilor de fișiere
+  ru: Нечёткий поисковик командной строки и модуль zig для фильтрации путей к файлам
+  th: ตัวค้นหาแบบ fuzzy บนบรรทัดคำสั่งและโมดูล zig ที่ออกแบบมาเพื่อกรองพาธไฟล์
+  tr: Dosya yollarını filtrelemek için tasarlanmış komut satırı fuzzy bulucu ve zig modülü
+  uk: Нечіткий пошуковик командного рядка та модуль zig для фільтрації шляхів до файлів
+  vi: Trình tìm kiếm mờ trên dòng lệnh và mô-đun zig được thiết kế để lọc đường dẫn tệp
 x:
   source: https://github.com/natecraddock/zf
   eget: natecraddock/zf

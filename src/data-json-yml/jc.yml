@@ -2,6 +2,22 @@ lang: Python
 desc:
   en: Converts the output of common command-line tools, file types, and strings into JSON, YAML, or dictionaries
   cn: 将常见命令行工具、文件类型和字符串的输出 转换为 JSON、YAML 或 dictionaries
+  cs: Převádí výstup běžných nástrojů příkazové řádky, typů souborů a řetězců do JSON, YAML nebo slovníků
+  de: Konvertiert die Ausgabe gängiger Kommandozeilen-Tools, Dateitypen und Zeichenketten in JSON, YAML oder Dictionaries
+  es: Convierte la salida de herramientas comunes de línea de comandos, tipos de archivo y cadenas en JSON, YAML o diccionarios
+  fr: Convertit la sortie d'outils en ligne de commande courants, de types de fichiers et de chaînes en JSON, YAML ou dictionnaires
+  id: Mengubah keluaran alat baris perintah umum, jenis file, dan string menjadi JSON, YAML, atau kamus
+  it: Converte l'output di comuni strumenti da riga di comando, tipi di file e stringhe in JSON, YAML o dizionari
+  ja: 一般的なコマンドラインツール、ファイル形式、文字列の出力を JSON、YAML、辞書に変換します
+  ko: 일반적인 명령줄 도구, 파일 형식, 문자열의 출력을 JSON, YAML 또는 딕셔너리로 변환합니다
+  pl: Konwertuje wyjście popularnych narzędzi wiersza poleceń, typów plików i ciągów znaków na JSON, YAML lub słowniki
+  pt: Converte a saída de ferramentas comuns de linha de comando, tipos de arquivo e strings em JSON, YAML ou dicionários
+  ro: Convertește ieșirea unor instrumente comune de linie de comandă, tipuri de fișiere și șiruri în JSON, YAML sau dicționare
+  ru: Преобразует вывод распространённых утилит командной строки, типов файлов и строк в JSON, YAML или словари
+  th: แปลงผลลัพธ์ของเครื่องมือบรรทัดคำสั่งทั่วไป ชนิดไฟล์ และสตริง ให้เป็น JSON, YAML หรือพจนานุกรม
+  tr: Yaygın komut satırı araçlarının, dosya türlerinin ve dizelerin çıktısını JSON, YAML veya sözlüklere dönüştürür
+  uk: Перетворює вивід поширених утиліт командного рядка, типів файлів і рядків у JSON, YAML або словники
+  vi: Chuyển đổi đầu ra của các công cụ dòng lệnh phổ biến, loại tệp và chuỗi thành JSON, YAML hoặc từ điển
 homepage: https://github.com/kellyjonbrazil/jc
 license: MIT
 x:

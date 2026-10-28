@@ -3,6 +3,22 @@ homepage: https://www.freedesktop.org/wiki/Software/uchardet/
 desc:
   en: Encoding detector library
   cn: 编码检测器库
+  cs: Knihovna pro detekci kódování
+  de: Bibliothek zur Erkennung der Zeichencodierung
+  es: Biblioteca de detección de codificaciones
+  fr: Bibliothèque de détection d'encodage
+  id: Pustaka detektor enkode
+  it: Libreria di rilevamento della codifica
+  ja: エンコーディング検出ライブラリ
+  ko: 인코딩 감지 라이브러리
+  pl: Biblioteka do wykrywania kodowania
+  pt: Biblioteca de detecção de codificação
+  ro: Bibliotecă de detectare a codificării
+  ru: Библиотека определения кодировки
+  th: ไลบรารีตรวจจับการเข้ารหัสอักขระ
+  tr: Kodlama algılama kitaplığı
+  uk: Бібліотека визначення кодування
+  vi: Thư viện phát hiện bảng mã
 rule:
   darwin/brew:
     cmd: brew install uchardet

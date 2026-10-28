@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 阿里云 CLI 是一种通过命令行界面管理和使用阿里云资源的工具
   en: The Alibaba Cloud CLI is a tool to manage and use Alibaba Cloud resources through a command line interface
+  cs: Alibaba Cloud CLI je nástroj pro správu a používání zdrojů Alibaba Cloud prostřednictvím příkazového rozhraní
+  de: Die Alibaba Cloud CLI ist ein Tool zum Verwalten und Nutzen von Alibaba Cloud-Ressourcen über eine Kommandozeile
+  es: Alibaba Cloud CLI es una herramienta para gestionar y usar recursos de Alibaba Cloud a través de una interfaz de línea de comandos
+  fr: L'Alibaba Cloud CLI est un outil pour gérer et utiliser les ressources Alibaba Cloud via une interface de ligne de commande
+  id: Alibaba Cloud CLI adalah alat untuk mengelola dan menggunakan sumber daya Alibaba Cloud melalui antarmuka baris perintah
+  it: Alibaba Cloud CLI è uno strumento per gestire e utilizzare le risorse Alibaba Cloud tramite un'interfaccia a riga di comando
+  ja: Alibaba Cloud CLI は、コマンドラインから Alibaba Cloud のリソースを管理・利用するためのツールです
+  ko: Alibaba Cloud CLI는 명령줄 인터페이스를 통해 Alibaba Cloud 리소스를 관리하고 사용하는 도구입니다
+  pl: Alibaba Cloud CLI to narzędzie do zarządzania zasobami Alibaba Cloud i korzystania z nich za pośrednictwem interfejsu wiersza poleceń
+  pt: O Alibaba Cloud CLI é uma ferramenta para gerenciar e usar recursos do Alibaba Cloud por meio de uma interface de linha de comando
+  ro: Alibaba Cloud CLI este un instrument pentru gestionarea și utilizarea resurselor Alibaba Cloud printr-o interfață de linie de comandă
+  ru: Alibaba Cloud CLI — это инструмент для управления ресурсами Alibaba Cloud и работы с ними через интерфейс командной строки
+  th: Alibaba Cloud CLI เป็นเครื่องมือสำหรับจัดการและใช้งานทรัพยากรของ Alibaba Cloud ผ่านอินเทอร์เฟซบรรทัดคำสั่ง
+  tr: Alibaba Cloud CLI, Alibaba Cloud kaynaklarını bir komut satırı arayüzü üzerinden yönetmek ve kullanmak için bir araçtır
+  uk: Alibaba Cloud CLI — це інструмент для керування ресурсами Alibaba Cloud та роботи з ними через інтерфейс командного рядка
+  vi: Alibaba Cloud CLI là công cụ để quản lý và sử dụng các tài nguyên Alibaba Cloud thông qua giao diện dòng lệnh
 x:
   source: https://github.com/aliyun/aliyun-cli
   eget: aliyun/aliyun-cli

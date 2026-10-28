@@ -3,6 +3,22 @@ homepage: https://github.com/processone/iconv
 desc:
   cn: Erlang / Elixir 的快速编码转换库
   en: Fast encoding conversion library for Erlang / Elixir
+  cs: Rychlá knihovna pro konverzi kódování pro Erlang / Elixir
+  de: Schnelle Bibliothek zur Encoding-Konvertierung für Erlang / Elixir
+  es: Biblioteca rápida de conversión de codificación para Erlang / Elixir
+  fr: Bibliothèque rapide de conversion d'encodage pour Erlang / Elixir
+  id: Pustaka konversi encoding yang cepat untuk Erlang / Elixir
+  it: Libreria rapida di conversione della codifica per Erlang / Elixir
+  ja: Erlang / Elixir 向けの高速エンコーディング変換ライブラリ
+  ko: Erlang / Elixir를 위한 빠른 인코딩 변환 라이브러리
+  pl: Szybka biblioteka do konwersji kodowania dla Erlang / Elixir
+  pt: Biblioteca rápida de conversão de codificação para Erlang / Elixir
+  ro: Bibliotecă rapidă de conversie a codificării pentru Erlang / Elixir
+  ru: Быстрая библиотека преобразования кодировок для Erlang / Elixir
+  th: ไลบรารีแปลงการเข้ารหัสอย่างรวดเร็วสำหรับ Erlang / Elixir
+  tr: Erlang / Elixir için hızlı kodlama dönüştürme kitaplığı
+  uk: Швидка бібліотека перетворення кодувань для Erlang / Elixir
+  vi: Thư viện chuyển đổi mã hóa nhanh cho Erlang / Elixir
 x:
   source: https://github.com/processone/iconv
   apt: libc-bin

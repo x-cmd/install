@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 通过命令行即时编码答案
   en: instant coding answers via the command line
+  cs: Okamžité odpovědi na otázky ohledně kódování z příkazové řádky
+  de: Sofortige Coding-Antworten über die Kommandozeile
+  es: Respuestas instantáneas de programación desde la línea de comandos
+  fr: Réponses instantanées au développement via la ligne de commande
+  id: Jawaban coding instan melalui baris perintah
+  it: Risposte istantanee sul coding tramite la riga di comando
+  ja: コマンドラインから即座に得られるコーディングの答え
+  ko: 명령줄을 통해 즉시 얻는 코딩 답변
+  pl: Natychmiastowe odpowiedzi dotyczące kodowania z wiersza poleceń
+  pt: Respostas instantâneas de programação pela linha de comando
+  ro: Răspunsuri imediate pentru programare din linia de comandă
+  ru: Мгновенные ответы по программированию из командной строки
+  th: คำตอบการเขียนโค้ดทันทีผ่านบรรทัดคำสั่ง
+  tr: Komut satırından anında kodlama yanıtları
+  uk: Миттєві відповіді з програмування з командного рядка
+  vi: Câu trả lời lập trình tức thì qua dòng lệnh
 x:
   source: https://github.com/gleitz/howdoi
   apt: howdoi

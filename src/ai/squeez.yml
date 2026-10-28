@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 基于 hook 的 token 压缩器，支持 Claude Code、Copilot CLI、OpenCode、Gemini CLI、Codex CLI 5 款 AI CLI 主机，bash 输出压缩率最高 95%
   en: Hook-based token compressor for Claude Code, Copilot CLI, OpenCode, Gemini CLI, and Codex CLI. Up to 95% bash compression with zero runtime dependencies.
+  cs: Kompresor tokenů založený na hook pro Claude Code, Copilot CLI, OpenCode, Gemini CLI a Codex CLI. Až 95% komprese bash bez jakýchkoli runtime závislostí.
+  de: Hook-basierter Token-Kompressor für Claude Code, Copilot CLI, OpenCode, Gemini CLI und Codex CLI. Bis zu 95 % Bash-Kompression ohne Laufzeitabhängigkeiten.
+  es: Compresor de tokens basado en hooks para Claude Code, Copilot CLI, OpenCode, Gemini CLI y Codex CLI. Hasta un 95 % de compresión de bash sin dependencias en tiempo de ejecución.
+  fr: Compresseur de tokens à base de hooks pour Claude Code, Copilot CLI, OpenCode, Gemini CLI et Codex CLI. Jusqu'à 95 % de compression bash sans dépendance à l'exécution.
+  id: Kompresor token berbasis hook untuk Claude Code, Copilot CLI, OpenCode, Gemini CLI, dan Codex CLI. Kompresi bash hingga 95% tanpa dependensi runtime.
+  it: Compressore di token basato su hook per Claude Code, Copilot CLI, OpenCode, Gemini CLI e Codex CLI. Fino al 95% di compressione bash senza dipendenze a runtime.
+  ja: Claude Code、Copilot CLI、OpenCode、Gemini CLI、Codex CLI 向けの hook ベース token コンプレッサー。ランタイム依存なしで bash 出力を最大 95% 圧縮します。
+  ko: Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI를 위한 hook 기반 토큰 압축기. 런타임 의존성 없이 bash 출력을 최대 95% 압축합니다.
+  pl: Kompresor tokenów oparty na hookach dla Claude Code, Copilot CLI, OpenCode, Gemini CLI i Codex CLI. Do 95% kompresji bash bez zależności wykonawczych.
+  pt: Compressor de tokens baseado em hooks para Claude Code, Copilot CLI, OpenCode, Gemini CLI e Codex CLI. Até 95% de compressão de bash sem dependências de execução.
+  ro: Compresor de token-uri bazat pe hook pentru Claude Code, Copilot CLI, OpenCode, Gemini CLI și Codex CLI. Până la 95% compresie bash fără dependențe de rulare.
+  ru: Компрессор токенов на основе хуков для Claude Code, Copilot CLI, OpenCode, Gemini CLI и Codex CLI. До 95% сжатия вывода bash без runtime-зависимостей.
+  th: ตัวบีบอัดโทเคนแบบ hook สำหรับ Claude Code, Copilot CLI, OpenCode, Gemini CLI และ Codex CLI บีบอัด output ของ bash ได้สูงสุด 95% โดยไม่มี dependency ขณะรัน
+  tr: Claude Code, Copilot CLI, OpenCode, Gemini CLI ve Codex CLI için hook tabanlı token sıkıştırıcı. Çalışma zamanı bağımlılığı olmadan bash çıktısında %95'e kadar sıkıştırma.
+  uk: Компресор токенів на основі хуків для Claude Code, Copilot CLI, OpenCode, Gemini CLI та Codex CLI. До 95% стиснення виводу bash без runtime-залежностей.
+  vi: Bộ nén token dựa trên hook cho Claude Code, Copilot CLI, OpenCode, Gemini CLI và Codex CLI. Nén output bash tới 95% mà không cần phụ thuộc runtime.
 x:
   source: https://github.com/claudioemmanuel/squeez
   npm: squeez

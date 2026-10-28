@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 GitHub (gh) CLI 扩展，用于显示一个仪表板，展示根据你关心的过滤条件筛选出的拉取请求和问题。
   en: A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
+  cs: Rozšíření CLI GitHub (gh), které zobrazuje dashboard s pull requesty a issues podle filtrů, na kterých vám záleží
+  de: Eine GitHub-(gh-)CLI-Erweiterung, die ein Dashboard mit Pull Requests und Issues nach den von Ihnen gewünschten Filtern anzeigt
+  es: Una extensión de la CLI de GitHub (gh) que muestra un panel con pull requests e incidencias según los filtros que te importan
+  fr: Une extension CLI de GitHub (gh) qui affiche un tableau de bord des pull requests et des issues selon les filtres qui vous intéressent
+  id: Ekstensi CLI GitHub (gh) yang menampilkan dasbor pull request dan issue menurut filter yang Anda pedulikan
+  it: Un'estensione della CLI di GitHub (gh) che mostra una dashboard con pull request e issue in base ai filtri che ti interessano
+  ja: 関心のあるフィルターでプルリクエストとイシューを表示するダッシュボードを提供するGitHub (gh) CLI拡張機能
+  ko: 관심 있는 필터로 풀 리퀘스트와 이슈를 보여주는 대시보드를 제공하는 GitHub (gh) CLI 확장
+  pl: Rozszerzenie CLI GitHub (gh) wyświetlające pulpit z pull requestami i zgłoszeniami według wybranych filtrów
+  pt: Uma extensão da CLI do GitHub (gh) que exibe um painel com pull requests e issues conforme os filtros que você se importa
+  ro: O extensie CLI GitHub (gh) care afișează un tablou de bord cu pull requesturi și issue-uri după filtrele care vă interesează
+  ru: Расширение CLI GitHub (gh), показывающее дашборд с pull request'ами и issue по выбранным вами фильтрам
+  th: ส่วนขยายของ GitHub (gh) CLI ที่แสดงแดชบอร์ดของ pull request และ issue ตามตัวกรองที่คุณสนใจ
+  tr: İlgilendiğiniz filtrelere göre pull request ve issue'ları gösteren bir pano sunan GitHub (gh) CLI eklentisi
+  uk: Розширення CLI GitHub (gh), що показує дашборд із pull request та issue за фільтрами, які вас цікавлять
+  vi: Tiện ích mở rộng CLI GitHub (gh) hiển thị bảng điều khiển với pull request và issue theo các bộ lọc bạn quan tâm
 x:
   source: https://github.com/dlvhdr/gh-dash
   eget: dlvhdr/gh-dash

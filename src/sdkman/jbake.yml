@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Jbake 是一个基于 Java 的开源，静态网站/博客生成器，用于开发人员和设计师
   en: JBake is a Java based, open source, static site/blog generator for developers & designers
+  cs: JBake je open-source generátor statických webů a blogů pro vývojáře a designéry založený na Java
+  de: JBake ist ein auf Java basierender Open-Source-Generator für statische Websites und Blogs für Entwickler und Designer
+  es: JBake es un generador de sitios estáticos y blogs de código abierto basado en Java para desarrolladores y diseñadores
+  fr: JBake est un générateur open source de sites statiques et de blogs basé sur Java, destiné aux développeurs et aux designers
+  id: JBake adalah generator situs statis/blog sumber terbuka berbasis Java untuk pengembang dan desainer
+  it: JBake è un generatore open source di siti statici e blog basato su Java per sviluppatori e designer
+  ja: JBake は、開発者とデザイナー向けの Java ベースのオープンソースな静的サイト／ブログジェネレーターです
+  ko: JBake는 개발자와 디자이너를 위한 Java 기반 오픈 소스 정적 사이트/블로그 생성기입니다
+  pl: JBake to oparty na Javie, open source generator statycznych witryn i blogów dla programistów i projektantów
+  pt: JBake é um gerador de sites estáticos e blogs de código aberto baseado em Java para desenvolvedores e designers
+  ro: JBake este un generator open source de site-uri statice și bloguri bazat pe Java, pentru dezvoltatori și designeri
+  ru: JBake — это генератор статических сайтов и блогов на базе Java с открытым исходным кодом для разработчиков и дизайнеров
+  th: JBake คือตัวสร้างเว็บไซต์แบบคงที่และบล็อกแบบโอเพนซอร์สที่ใช้ Java สำหรับนักพัฒนาและนักออกแบบ
+  tr: JBake, geliştiriciler ve tasarımcılar için Java tabanlı, açık kaynaklı statik site/blog oluşturucusudur
+  uk: JBake — це генератор статичних сайтів і блогів з відкритим кодом на базі Java для розробників і дизайнерів
+  vi: JBake là trình tạo trang tĩnh/blog mã nguồn mở dựa trên Java dành cho nhà phát triển và nhà thiết kế
 x:
   source: https://github.com/jbake-org/jbake
   eget: jbake-org/jbake

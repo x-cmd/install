@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 让 LLM 通过 Browserbase 与 Stagehand 控制浏览器的 MCP 服务器
   en: Allow LLMs to control a browser with Browserbase and Stagehand
+  cs: MCP server, který umožňuje LLM ovládat prohlížeč pomocí Browserbase a Stagehand
+  de: MCP-Server, der LLMs erlaubt, einen Browser mit Browserbase und Stagehand zu steuern
+  es: Servidor MCP que permite a los LLM controlar un navegador con Browserbase y Stagehand
+  fr: Serveur MCP qui permet aux LLM de contrôler un navigateur avec Browserbase et Stagehand
+  id: Server MCP yang memungkinkan LLM mengendalikan browser dengan Browserbase dan Stagehand
+  it: Server MCP che consente agli LLM di controllare un browser con Browserbase e Stagehand
+  ja: Browserbase と Stagehand を使って LLM がブラウザを操作できるようにする MCP サーバー
+  ko: LLM이 Browserbase와 Stagehand를 사용해 브라우저를 제어할 수 있게 하는 MCP 서버
+  pl: Serwer MCP pozwalający LLM sterować przeglądarką za pomocą Browserbase i Stagehand
+  pt: Servidor MCP que permite que os LLMs controlem um navegador com Browserbase e Stagehand
+  ro: Server MCP care permite LLM-urilor să controleze un browser cu Browserbase și Stagehand
+  ru: MCP-сервер, позволяющий LLM управлять браузером с помощью Browserbase и Stagehand
+  th: เซิร์ฟเวอร์ MCP ที่ช่วยให้ LLM ควบคุมเบราว์เซอร์ได้ด้วย Browserbase และ Stagehand
+  tr: LLM'lerin Browserbase ve Stagehand ile bir tarayıcıyı kontrol etmesini sağlayan MCP sunucusu
+  uk: MCP-сервер, що дозволяє LLM керувати браузером за допомогою Browserbase та Stagehand
+  vi: Máy chủ MCP cho phép LLM điều khiển trình duyệt bằng Browserbase và Stagehand
 x:
   source: https://github.com/browserbase/mcp-server-browserbase
   npm: "@browserbasehq/mcp-server-browserbase"

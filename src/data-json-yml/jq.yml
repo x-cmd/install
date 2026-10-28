@@ -3,6 +3,22 @@ homepage: https://github.com/jqlang/jq
 desc:
   cn: jq 是一个轻量级且灵活的命令行 JSON 处理器
   en: jq is a lightweight and flexible command-line JSON processor
+  cs: jq je lehký a flexibilní procesor JSON pro příkazovou řádku
+  de: jq ist ein leichtgewichtiger und flexibler JSON-Prozessor für die Kommandozeile
+  es: jq es un procesador JSON de línea de comandos ligero y flexible
+  fr: jq est un processeur JSON en ligne de commande léger et flexible
+  id: jq adalah pemroses JSON baris perintah yang ringan dan fleksibel
+  it: jq è un processore JSON da riga di comando leggero e flessibile
+  ja: jq は軽量で柔軟なコマンドライン JSON プロセッサです
+  ko: jq는 가볍고 유연한 명령줄 JSON 처리기입니다
+  pl: jq to lekki i elastyczny procesor JSON dla wiersza poleceń
+  pt: jq é um processador JSON de linha de comando leve e flexível
+  ro: jq este un procesor JSON pentru linia de comandă, ușor și flexibil
+  ru: jq — это лёгкий и гибкий процессор JSON для командной строки
+  th: jq เป็นตัวประมวลผล JSON สำหรับบรรทัดคำสั่งที่เบาและยืดหยุ่น
+  tr: jq, komut satırı için hafif ve esnek bir JSON işleyicisidir
+  uk: jq — це легкий і гнучкий обробник JSON для командного рядка
+  vi: jq là bộ xử lý JSON dòng lệnh nhẹ và linh hoạt
 x:
   source: https://github.com/jqlang/jq
   eget: jqlang/jq

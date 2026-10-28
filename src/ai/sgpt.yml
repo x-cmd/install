@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: SGPT（也称为 shell-gpt）是一个强大的命令行界面（CLI）工具，旨在通过终端直接与 OpenAI 模型进行无缝交互。
   en: SGPT (aka shell-gpt) is a powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI models directly from your terminal.
+  cs: SGPT (také shell-gpt) je výkonný nástroj příkazové řádky (CLI) určený k bezproblémové interakci s modely OpenAI přímo z vašeho terminálu.
+  de: SGPT (auch shell-gpt) ist ein leistungsfähiges Kommandozeilenwerkzeug (CLI), das für die nahtlose Interaktion mit OpenAI-Modellen direkt aus Ihrem Terminal entwickelt wurde.
+  es: SGPT (también shell-gpt) es una potente herramienta de línea de comandos (CLI) diseñada para interactuar de forma fluida con los modelos de OpenAI directamente desde tu terminal.
+  fr: SGPT (également shell-gpt) est un puissant outil de ligne de commande (CLI) conçu pour une interaction fluide avec les modèles OpenAI directement depuis votre terminal.
+  id: SGPT (juga shell-gpt) adalah alat antarmuka baris perintah (CLI) yang kuat yang dirancang untuk interaksi mulus dengan model OpenAI langsung dari terminal Anda.
+  it: SGPT (aka shell-gpt) è un potente strumento da riga di comando (CLI) progettato per un'interazione fluida con i modelli OpenAI direttamente dal terminale.
+  ja: SGPT（shell-gpt とも呼ばれます）は、ターミナルから OpenAI モデルとシームレスにやり取りするために設計された強力なコマンドラインインターフェース (CLI) ツールです。
+  ko: SGPT(shell-gpt라고도 함)는 터미널에서 OpenAI 모델과 매끄럽게 상호작용하도록 설계된 강력한 명령줄 인터페이스(CLI) 도구입니다.
+  pl: SGPT (nazywany też shell-gpt) to potężne narzędzie interfejsu wiersza poleceń (CLI), zaprojektowane do bezproblemowej interakcji z modelami OpenAI bezpośrednio z terminala.
+  pt: O SGPT (também conhecido como shell-gpt) é uma ferramenta de interface de linha de comando (CLI) poderosa, projetada para interação tranquila com modelos OpenAI diretamente do seu terminal.
+  ro: SGPT (alias shell-gpt) este un puternic instrument de interfață în linie de comandă (CLI), conceput pentru interacțiune fără efort cu modelele OpenAI direct din terminalul tău.
+  ru: SGPT (также известный как shell-gpt) - мощный инструмент командной строки (CLI), созданный для беспрепятственного взаимодействия с моделями OpenAI прямо из вашего терминала.
+  th: SGPT (หรือที่รู้จักกันในชื่อ shell-gpt) คือเครื่องมืออินเทอร์เฟซบรรทัดคำสั่ง (CLI) ที่ทรงพลัง ออกแบบมาเพื่อโต้ตอบกับโมเดล OpenAI ได้อย่างราบรื่นโดยตรงจากเทอร์มินัลของคุณ
+  tr: SGPT (shell-gpt olarak da bilinir), terminalinizden doğrudan OpenAI modelleriyle sorunsuz etkileşim kurmak için tasarlanmış güçlü bir komut satırı arayüzü (CLI) aracıdır.
+  uk: SGPT (також відомий як shell-gpt) - потужний інструмент командного рядка (CLI), створений для безперешкодної взаємодії з моделями OpenAI прямо з вашого терміналу.
+  vi: SGPT (còn gọi là shell-gpt) là công cụ giao diện dòng lệnh (CLI) mạnh mẽ, được thiết kế để tương tác liền mạch với các mô hình OpenAI ngay trong terminal của bạn.
 x:
   source: https://github.com/tbckr/sgpt
   eget: tbckr/sgpt

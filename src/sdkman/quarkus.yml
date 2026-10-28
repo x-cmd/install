@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: Quarkus 是用于编写 Java 应用程序的云原生、（Linux）容器优先的框架
   en: Quarkus is a Cloud Native, (Linux) Container First framework for writing Java applications
+  cs: Quarkus je cloud-native framework, (Linux) container-first, pro psaní Java aplikací
+  de: Quarkus ist ein Cloud-Native-, (Linux-)Container-First-Framework zum Schreiben von Java-Anwendungen
+  es: Quarkus es un framework cloud native, (Linux) container first, para escribir aplicaciones Java
+  fr: Quarkus est un framework cloud native, (Linux) container first, pour écrire des applications Java
+  id: Quarkus adalah framework cloud native, (Linux) container first untuk menulis aplikasi Java
+  it: Quarkus è un framework cloud native, (Linux) container first per scrivere applicazioni Java
+  ja: Quarkus は、Java アプリケーションを書くためのクラウドネイティブな (Linux) コンテナファーストのフレームワークです
+  ko: Quarkus는 Java 애플리케이션을 작성하기 위한 클라우드 네이티브 (Linux) 컨테이너 우선 프레임워크입니다
+  pl: Quarkus to framework cloud native, (Linux) container first, do pisania aplikacji Java
+  pt: Quarkus é um framework cloud native, (Linux) container first para escrever aplicações Java
+  ro: Quarkus este un framework cloud native, (Linux) container first pentru scrierea aplicațiilor Java
+  ru: Quarkus — это облачно-ориентированный (Linux) container-first фреймворк для написания Java-приложений
+  th: Quarkus เป็นเฟรมเวิร์กแบบ cloud native และ (Linux) container first สำหรับการเขียนแอปพลิเคชัน Java
+  tr: Quarkus, Java uygulamaları yazmak için Cloud Native, (Linux) Container First bir çerçevedir
+  uk: Quarkus — це хмарно-орієнтований (Linux) container-first фреймворк для написання Java-застосунків
+  vi: Quarkus là framework cloud native, (Linux) container first để viết các ứng dụng Java
 lang: Java
 x:
   source: https://github.com/quarkusio/quarkus

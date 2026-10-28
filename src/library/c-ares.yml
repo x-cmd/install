@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: c-ares 是一个用于异步 DNS 请求(包括名称解析)的 C 库
   en: c-ares is a C library for asynchronous DNS requests (including name resolves)
+  cs: c-ares je knihovna jazyka C pro asynchronní DNS požadavky (včetně překládání jmen)
+  de: c-ares ist eine C-Bibliothek für asynchrone DNS-Anfragen (einschließlich Namensauflösung)
+  es: c-ares es una biblioteca en C para solicitudes DNS asíncronas (incluidas resoluciones de nombres)
+  fr: c-ares est une bibliothèque C pour les requêtes DNS asynchrones (y compris la résolution de noms)
+  id: c-ares adalah pustaka C untuk permintaan DNS asinkron (termasuk resolusi nama)
+  it: c-ares è una libreria C per richieste DNS asincrone (incluse le risoluzioni dei nomi)
+  ja: c-ares は非同期 DNS リクエスト（名前解決を含む）用の C ライブラリです
+  ko: c-ares는 비동기 DNS 요청(이름 해석 포함)을 위한 C 라이브러리입니다
+  pl: c-ares to biblioteka C do asynchronicznych żądań DNS (w tym rozwiązywania nazw)
+  pt: c-ares é uma biblioteca C para solicitações DNS assíncronas (incluindo resolução de nomes)
+  ro: c-ares este o bibliotecă C pentru cereri DNS asincrone (inclusiv rezolvarea numelor)
+  ru: c-ares — это библиотека на C для асинхронных DNS-запросов (включая разрешение имён)
+  th: c-ares คือไลบรารี C สำหรับคำขอ DNS แบบอะซิงโครนัส (รวมถึงการแปลงชื่อ)
+  tr: c-ares, eşzamansız DNS istekleri (ad çözümleme dahil) için bir C kitaplığıdır
+  uk: c-ares — це бібліотека на C для асинхронних DNS-запитів (включаючи з розв'язання імен)
+  vi: c-ares là thư viện C cho các yêu cầu DNS bất đồng bộ (bao gồm cả phân giải tên)
 x:
   source: https://github.com/c-ares/c-ares
   eget: c-ares/c-ares

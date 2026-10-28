@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kompose 是 Docker Compose 到 Kubernetes（或 OpenShift）等容器编排器的转换工具
   en: Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift)
+  cs: Kompose je nástroj pro převod Docker Compose na orchestrátory kontejnerů, jako je Kubernetes (nebo OpenShift)
+  de: Kompose ist ein Konvertierungstool von Docker Compose zu Container-Orchestrierern wie Kubernetes (oder OpenShift)
+  es: Kompose es una herramienta de conversión de Docker Compose a orquestadores de contenedores como Kubernetes (u OpenShift)
+  fr: Kompose est un outil de conversion de Docker Compose vers des orchestrateurs de conteneurs tels que Kubernetes (ou OpenShift)
+  id: Kompose adalah alat konversi dari Docker Compose ke orkestrator kontainer seperti Kubernetes (atau OpenShift)
+  it: Kompose è uno strumento di conversione da Docker Compose a orchestratori di container come Kubernetes (o OpenShift)
+  ja: Kompose は Docker Compose を Kubernetes（または OpenShift）などのコンテナオーケストレーターに変換するツールです
+  ko: Kompose는 Docker Compose를 Kubernetes(또는 OpenShift)와 같은 컨테이너 오케스트레이터로 변환하는 도구입니다
+  pl: Kompose to narzędzie do konwersji Docker Compose na orkiestrator kontenerów, takie jak Kubernetes (lub OpenShift)
+  pt: Kompose é uma ferramenta de conversão de Docker Compose para orquestradores de contêineres como Kubernetes (ou OpenShift)
+  ro: Kompose este un instrument de conversie de la Docker Compose la orchestratoare de containere precum Kubernetes (sau OpenShift)
+  ru: Kompose — инструмент преобразования Docker Compose в оркестраторы контейнеров, такие как Kubernetes (или OpenShift)
+  th: Kompose เป็นเครื่องมือแปลง Docker Compose ไปยังตัวจัดการคอนเทนเนอร์เช่น Kubernetes (หรือ OpenShift)
+  tr: Kompose, Docker Compose dosyalarını Kubernetes (veya OpenShift) gibi konteyner orkestratörlerine dönüştüren bir araçtır
+  uk: Kompose — інструмент перетворення Docker Compose в оркестратори контейнерів, такі як Kubernetes (або OpenShift)
+  vi: Kompose là công cụ chuyển đổi từ Docker Compose sang các bộ điều phối container như Kubernetes (hoặc OpenShift)
 x:
   source: https://github.com/kubernetes/kompose
   eget: kubernetes/kompose

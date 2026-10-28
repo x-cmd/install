@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: Nix 是一种采用独特方法进行包管理和系统配置的工具
   en: Nix is a tool that takes a unique approach to package management and system configuration
+  cs: Nix je nástroj, který přistupuje ke správě balíčků a konfiguraci systému jedinečným způsobem
+  de: Nix ist ein Werkzeug, das einen einzigartigen Ansatz für Paketverwaltung und Systemkonfiguration verfolgt
+  es: Nix es una herramienta que adopta un enfoque único para la gestión de paquetes y la configuración del sistema
+  fr: Nix est un outil qui adopte une approche unique de la gestion des paquets et de la configuration du système
+  id: Nix adalah alat yang menggunakan pendekatan unik untuk manajemen paket dan konfigurasi sistem
+  it: Nix è uno strumento che adotta un approccio unico alla gestione dei pacchetti e alla configurazione di sistema
+  ja: Nix は、パッケージ管理とシステム設定に独自のアプローチをとるツールです
+  ko: Nix는 패키지 관리 및 시스템 구성에 독특한 접근 방식을 취하는 도구입니다
+  pl: Nix to narzędzie stosujące wyjątkowe podejście do zarządzania pakietami i konfiguracji systemu
+  pt: Nix é uma ferramenta que adota uma abordagem única para gerenciamento de pacotes e configuração do sistema
+  ro: Nix este un instrument care adoptă o abordare unică pentru gestionarea pachetelor și configurarea sistemului
+  ru: Nix — это инструмент, применяющий уникальный подход к управлению пакетами и настройке системы
+  th: Nix คือเครื่องมือที่ใช้แนวทางที่ไม่ซ้ำกันในการจัดการแพ็กเกจและการกำหนดค่าระบบ
+  tr: Nix, paket yönetimi ve sistem yapılandırmasında benzersiz bir yaklaşım benimseyen bir araçtır
+  uk: Nix — це інструмент, що застосовує унікальний підхід до керування пакетами та налаштування системи
+  vi: Nix là công cụ tiếp cận theo cách độc đáo đối với quản lý gói và cấu hình hệ thống
 x:
   source: https://github.com/NixOS/nix
 rule:

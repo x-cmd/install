@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   en: Encore is the Development Platform that automatically provisions type-safe infrastructure, from developing locally to scaling production in your cloud on AWS/GCP
   cn: Encore 是自动提供类型安全基础设施的开发平台，从本地开发到在 AWS/GCP 上在云中扩展生产
+  cs: Encore je vývojová platforma, která automaticky zajišťuje typově bezpečnou infrastrukturu, od vývoje na místě až po škálování produkce ve vašem cloudu na AWS/GCP
+  de: Encore ist die Development Platform, die automatisch typensichere Infrastruktur bereitstellt, von der lokalen Entwicklung bis zur Skalierung der Produktion in Ihrer Cloud auf AWS/GCP
+  es: Encore es la plataforma de desarrollo que aprovisiona automáticamente infraestructura segura de tipos, desde el desarrollo local hasta el escalado de producción en tu nube en AWS/GCP
+  fr: Encore est la plateforme de développement qui provisionne automatiquement une infrastructure avec sécurité des types, du développement local à la mise à l'échelle de la production dans votre cloud sur AWS/GCP
+  id: Encore adalah Platform Pengembangan yang secara otomatis menyediakan infrastruktur yang aman terhadap tipe, dari pengembangan lokal hingga penskalaan produksi di cloud Anda pada AWS/GCP
+  it: Encore è la piattaforma di sviluppo che esegue il provisioning automatico di un'infrastruttura type-safe, dallo sviluppo locale fino al ridimensionamento della produzione nel tuo cloud su AWS/GCP
+  ja: Encore は型安全なインフラを自動プロビジョニングする開発プラットフォームで、ローカルでの開発から AWS/GCP のクラウドでの本番スケールまでを支えます
+  ko: Encore는 타입 안전 인프라를 자동으로 프로비저닝하는 개발 플랫폼으로, 로컬 개발부터 AWS/GCP 클라우드에서의 프로덕션 확장까지 지원합니다
+  pl: Encore to platforma deweloperska, która automatycznie udostępnia infrastrukturę bezpieczną pod względem typów, od rozwoju lokalnego po skalowanie produkcji w chmurze na AWS/GCP
+  pt: Encore é a plataforma de desenvolvimento que provisiona automaticamente infraestrutura segura em termos de tipos, do desenvolvimento local ao dimensionamento de produção na sua nuvem na AWS/GCP
+  ro: Encore este platforma de dezvoltare care furnizează automat infrastructură sigură din punct de vedere al tipurilor, de la dezvoltarea locală până la scalarea producției în cloud-ul dumneavoastră pe AWS/GCP
+  ru: Encore — платформа разработки, которая автоматически предоставляет инфраструктуру с безопасной типизацией, от локальной разработки до масштабирования продакшена в вашем облаке на AWS/GCP
+  th: Encore คือแพลตฟอร์มสำหรับการพัฒนา ที่จัดเตรียมโครงสร้างพื้นฐานแบบปลอดภัยด้านชนิดข้อมูลให้อัตโนมัติ ตั้งแต่การพัฒนาในเครื่องจนถึงการขยายขนาดระบบโปรดักชันบนคลาวด์ AWS/GCP ของคุณ
+  tr: Encore, yerel geliştirmeden AWS/GCP üzerindeki bulutunuzda üretimi ölçeklemeye kadar otomatik olarak tip güvenli altyapı sağlayan geliştirme platformudur
+  uk: Encore — платформа розробки, яка автоматично надає інфраструктуру з безпечною типізацією, від локальної розробки до масштабування продакшену у вашій хмарі на AWS/GCP
+  vi: Encore là nền tảng phát triển tự động cấp phát hạ tầng an toàn về kiểu, từ phát triển cục bộ đến mở rộng sản xuất trên đám mây AWS/GCP của bạn
 x:
   source: https://github.com/encoredev/encore
   brew: encoredev/tap/encore

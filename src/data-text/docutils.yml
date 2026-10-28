@@ -3,6 +3,22 @@ homepage: https://sourceforge.net/projects/docutils/
 desc:
   cn: Docutils 是一个开源的文本处理系统，用于将明文文档处理成有用的格式
   en: Docutils is an open-source text processing system for processing plaintext documentation into useful formats
+  cs: Docutils je open-source systém zpracování textu, který převádí prostý text dokumentace do užitečných formátů
+  de: Docutils ist ein quelloffenes Textverarbeitungssystem, das Klartextdokumentation in nützliche Formate umwandelt
+  es: Docutils es un sistema de procesamiento de texto de código abierto para convertir documentación en texto plano en formatos útiles
+  fr: Docutils est un système de traitement de texte open source qui transforme la documentation en texte brut en formats utiles
+  id: Docutils adalah sistem pemrosesan teks sumber terbuka untuk mengubah dokumentasi teks biasa menjadi format yang berguna
+  it: Docutils è un sistema di elaborazione testi open source per trasformare la documentazione in testo semplice in formati utili
+  ja: Docutils はプレーンテキストのドキュメントを便利な形式に変換するオープンソースのテキスト処理システムです
+  ko: Docutils는 일반 텍스트 문서를 유용한 형식으로 변환하는 오픈 소스 텍스트 처리 시스템입니다
+  pl: Docutils to otwarty system przetwarzania tekstu, który zamienia dokumentację w zwykłym tekście w przydatne formaty
+  pt: O Docutils é um sistema de processamento de texto de código aberto que converte documentação em texto simples em formatos úteis
+  ro: Docutils este un sistem open source de procesare a textului care transformă documentația în text simplu în formate utile
+  ru: Docutils — система обработки текста с открытым исходным кодом, преобразующая текстовую документацию в полезные форматы
+  th: Docutils เป็นระบบประมวลผลข้อความโอเพนซอร์สที่แปลงเอกสารข้อความธรรมดาให้เป็นรูปแบบที่มีประโยชน์
+  tr: Docutils, düz metin belgeleri faydalı biçimlere dönüştüren açık kaynaklı bir metin işleme sistemidir
+  uk: Docutils — система обробки тексту з відкритим кодом, яка перетворює текстову документацію у корисні формати
+  vi: Docutils là hệ thống xử lý văn bản mã nguồn mở để chuyển tài liệu văn bản thuần thành các định dạng hữu ích
 rule:
   darwin/brew:
     cmd: brew install docutils

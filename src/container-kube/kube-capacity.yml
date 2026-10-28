@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个简单的命令行界面（CLI），用于提供 Kubernetes 集群中资源请求、限制和利用率的概览
   en: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  cs: Jednoduché CLI poskytující přehled požadavků, limitů a využití zdrojů v clusteru Kubernetes
+  de: Ein einfaches CLI mit einer Übersicht über Ressourcenanforderungen, Limits und Auslastung in einem Kubernetes-Cluster
+  es: Una CLI sencilla que ofrece una vista general de las solicitudes, los límites y la utilización de recursos en un clúster de Kubernetes
+  fr: Une CLI simple qui fournit un aperçu des requêtes, des limites et de l'utilisation des ressources dans un cluster Kubernetes
+  id: CLI sederhana yang memberi ikhtisar permintaan, batas, dan utilisasi sumber daya dalam kluster Kubernetes
+  it: Una CLI semplice che fornisce una panoramica delle richieste, dei limiti e dell'utilizzo delle risorse in un cluster Kubernetes
+  ja: Kubernetes クラスター内のリソース要求、制限、利用状況の概要を提供するシンプルな CLI
+  ko: Kubernetes 클러스터의 리소스 요청, 제한 및 사용률에 대한 개요를 제공하는 간단한 CLI
+  pl: Prosty CLI dający przegląd żądań, limitów i wykorzystania zasobów w klastrze Kubernetes
+  pt: Uma CLI simples que fornece uma visão geral das solicitações, limites e utilização de recursos em um cluster Kubernetes
+  ro: Un CLI simplu care oferă o privire de ansamblu asupra cererilor, limitelor și utilizării resurselor într-un cluster Kubernetes
+  ru: Простой CLI, дающий обзор запросов, лимитов и использования ресурсов в кластере Kubernetes
+  th: CLI อย่างง่ายที่ให้ภาพรวมของคำขอทรัพยากร ขีดจำกัด และการใช้ทรัพยากรในคลัสเตอร์ Kubernetes
+  tr: Bir Kubernetes kümesinde kaynak isteklerine, limitlere ve kullanıma genel bir bakış sağlayan basit bir CLI
+  uk: Простий CLI, що дає огляд запитів, лімітів та використання ресурсів у кластері Kubernetes
+  vi: CLI đơn giản cung cấp tổng quan về yêu cầu, giới hạn và mức sử dụng tài nguyên trong cụm Kubernetes
 x:
   source: https://github.com/robscott/kube-capacity
   eget: robscott/kube-capacity

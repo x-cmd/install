@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Talos Linux 是为 Kubernetes 设计的 Linux - 安全，不可变和最少
   en: Talos Linux is Linux designed for Kubernetes – secure, immutable, and minimal
+  cs: Talos Linux je Linux navržený pro Kubernetes – bezpečný, neměnný a minimalistický
+  de: Talos Linux ist ein für Kubernetes konzipiertes Linux – sicher, unveränderlich und minimalistisch
+  es: "Talos Linux es un Linux diseñado para Kubernetes: seguro, inmutable y minimalista"
+  fr: Talos Linux est un Linux conçu pour Kubernetes – sécurisé, immuable et minimal
+  id: Talos Linux adalah Linux yang dirancang untuk Kubernetes – aman, tidak dapat diubah, dan minimal
+  it: Talos Linux è un Linux progettato per Kubernetes – sicuro, immutabile e minimale
+  ja: Talos Linux は Kubernetes のために設計された Linux で、安全・不変・ミニマルです
+  ko: Talos Linux은 Kubernetes를 위해 설계된 Linux로, 안전하고 불변이며 최소한입니다
+  pl: Talos Linux to Linux zaprojektowany dla Kubernetes – bezpieczny, niezmienny i minimalistyczny
+  pt: O Talos Linux é um Linux projetado para Kubernetes – seguro, imutável e minimalista
+  ro: Talos Linux este un Linux conceput pentru Kubernetes – sigur, imutabil și minimalist
+  ru: "Talos Linux — это Linux, созданный для Kubernetes: безопасный, неизменяемый и минималистичный"
+  th: Talos Linux คือ Linux ที่ออกแบบมาสำหรับ Kubernetes – ปลอดภัย ไม่เปลี่ยนแปลง และมีขนาดเล็ก
+  tr: Talos Linux, Kubernetes için tasarlanmış bir Linux'tur – güvenli, değişmez ve minimalist
+  uk: "Talos Linux — це Linux, створений для Kubernetes: безпечний, незмінний і мінімалістичний"
+  vi: Talos Linux là hệ điều hành Linux được thiết kế cho Kubernetes – an toàn, bất biến và tối giản
 x:
   source: https://github.com/siderolabs/talos
   eget: siderolabs/talos

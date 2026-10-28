@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 适用于 Linux、macOS 和 Unix 的 AirPlay 镜像和 AirPlay 音频服务器
   en: AirPlay-Mirror and AirPlay-Audio server for Linux, macOS, and Unix
+  cs: Server AirPlay-Mirror a AirPlay-Audio pro Linux, macOS a Unix
+  de: AirPlay-Mirror- und AirPlay-Audio-Server für Linux, macOS und Unix
+  es: Servidor AirPlay-Mirror y AirPlay-Audio para Linux, macOS y Unix
+  fr: Serveur AirPlay-Mirror et AirPlay-Audio pour Linux, macOS et Unix
+  id: Server AirPlay-Mirror dan AirPlay-Audio untuk Linux, macOS, dan Unix
+  it: Server AirPlay-Mirror e AirPlay-Audio per Linux, macOS e Unix
+  ja: Linux、macOS、Unix向けのAirPlayミラーおよびAirPlayオーディオサーバー
+  ko: Linux, macOS, Unix용 AirPlay 미러 및 AirPlay 오디오 서버
+  pl: Serwer AirPlay-Mirror i AirPlay-Audio dla systemów Linux, macOS i Unix
+  pt: Servidor AirPlay-Mirror e AirPlay-Audio para Linux, macOS e Unix
+  ro: Server AirPlay-Mirror și AirPlay-Audio pentru Linux, macOS și Unix
+  ru: Сервер AirPlay-Mirror и AirPlay-Audio для Linux, macOS и Unix
+  th: เซิร์ฟเวอร์ AirPlay-Mirror และ AirPlay-Audio สำหรับ Linux, macOS และ Unix
+  tr: Linux, macOS ve Unix için AirPlay-Mirror ve AirPlay-Audio sunucusu
+  uk: Сервер AirPlay-Mirror та AirPlay-Audio для Linux, macOS і Unix
+  vi: Máy chủ AirPlay-Mirror và AirPlay-Audio cho Linux, macOS và Unix
 x:
   source: https://github.com/antimof/UxPlay
   apt: uxplay

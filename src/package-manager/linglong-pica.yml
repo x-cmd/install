@@ -4,6 +4,22 @@ license: LGPL-3.0
 desc:
   cn: 提供 deb 包转换为玲珑包的能力，生成构建玲珑应用需要的 linglong.yaml 文件，并依赖 ll-builder 来实现应用构建和导出。
   en: Provide the ability to convert the DEB package to the exquisite package, generate the linglong.yaml file required to build the exquisite application, and rely on LL-Builder to achieve application construction and export.
+  cs: Poskytuje schopnost převodu DEB balíčku na balíček linglong, generuje soubor linglong.yaml potřebný k sestavení aplikace linglong a spoléhá na LL-Builder pro sestavení a export aplikace.
+  de: Bietet die Fähigkeit, das DEB-Paket in das Linglong-Paket umzuwandeln, erzeugt die zum Bauen der Linglong-Anwendung benötigte Datei linglong.yaml und stützt sich für den Bau und Export der Anwendung auf LL-Builder.
+  es: Ofrece la capacidad de convertir el paquete DEB en paquete linglong, genera el archivo linglong.yaml necesario para compilar la aplicación linglong y se apoya en LL-Builder para la construcción y exportación de la aplicación.
+  fr: Permet de convertir le paquet DEB en paquet linglong, génère le fichier linglong.yaml nécessaire à la construction de l'application linglong et s'appuie sur LL-Builder pour la construction et l'export de l'application.
+  id: Menyediakan kemampuan untuk mengubah paket DEB menjadi paket linglong, menghasilkan berkas linglong.yaml yang diperlukan untuk membangun aplikasi linglong, dan mengandalkan LL-Builder untuk membangun serta mengekspor aplikasi.
+  it: Fornisce la capacità di convertire il pacchetto DEB in pacchetto linglong, genera il file linglong.yaml necessario per compilare l'applicazione linglong e si affida a LL-Builder per la compilazione e l'esportazione dell'applicazione.
+  ja: DEB パッケージを玲瓏パッケージに変換する機能を提供し、玲瓏アプリケーションの構築に必要な linglong.yaml ファイルを生成し、アプリケーションのビルドとエクスポートには LL-Builder を用います。
+  ko: DEB 패키지를 linglong 패키지로 변환하는 기능을 제공하고, linglong 애플리케이션을 빌드하는 데 필요한 linglong.yaml 파일을 생성하며, 애플리케이션 빌드와 내보내기는 LL-Builder에 의존합니다.
+  pl: Zapewnia możliwość konwersji pakietu DEB do pakietu linglong, generuje plik linglong.yaml wymagany do zbudowania aplikacji linglong i opiera się na LL-Builder, aby umożliwić budowanie i eksport aplikacji.
+  pt: Fornece a capacidade de converter o pacote DEB em pacote linglong, gera o arquivo linglong.yaml necessário para compilar o aplicativo linglong e depende do LL-Builder para realizar a construção e a exportação do aplicativo.
+  ro: Oferă capacitatea de a converti pachetul DEB în pachet linglong, generează fișierul linglong.yaml necesar pentru construirea aplicației linglong și se bazează pe LL-Builder pentru construirea și exportarea aplicației.
+  ru: Предоставляет возможность преобразования пакета DEB в пакет linglong, генерирует файл linglong.yaml, необходимый для сборки приложения linglong, и опирается на LL-Builder для сборки и экспорта приложения.
+  th: ให้ความสามารถในการแปลงแพ็กเกจ DEB เป็นแพ็กเกจ linglong สร้างไฟล์ linglong.yaml ที่จำเป็นสำหรับการสร้างแอปพลิเคชัน linglong และอาศัย LL-Builder เพื่อสร้างและส่งออกแอปพลิเคชัน
+  tr: DEB paketini linglong paketine dönüştürme yeteneği sunar, linglong uygulamasını derlemek için gereken linglong.yaml dosyasını üretir ve uygulamanın derlenmesi ile dışa aktarılması için LL-Builder'a dayanır.
+  uk: Надає здатність перетворювати пакет DEB на пакет linglong, генерує файл linglong.yaml, потрібний для збирання застосунку linglong, і спирається на LL-Builder для збирання та експорту застосунку.
+  vi: Cung cấp khả năng chuyển đổi gói DEB thành gói linglong, tạo tệp linglong.yaml cần thiết để xây dựng ứng dụng linglong và dựa vào LL-Builder để xây dựng và xuất ứng dụng.
 x:
   source: https://github.com/linuxdeepin/linglong-pica
   apt: linglong-pica

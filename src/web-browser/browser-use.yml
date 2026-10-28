@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 让 AI Agent 轻松接入并自动化网站任务的工具
   en: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+  cs: 🌐 Make weby dostupné pro AI agenty. Automatizujte úkoly online snadno.
+  de: 🌐 Machen Sie Websites für KI-Agenten zugänglich. Automatisieren Sie Aufgaben online mühelos.
+  es: 🌐 Haz que los sitios web sean accesibles para los agentes de IA. Automatiza tareas en línea con facilidad.
+  fr: 🌐 Rendez les sites web accessibles aux agents IA. Automatisez les tâches en ligne en toute simplicité.
+  id: 🌐 Buat situs web dapat diakses oleh agen AI. Otomatiskan tugas secara daring dengan mudah.
+  it: 🌐 Rendi i siti web accessibili agli agenti IA. Automatizza le attività online con facilità.
+  ja: 🌐 Web サイトを AI エージェントから利用できるようにします。オンラインでのタスクを手軽に自動化できます。
+  ko: 🌐 AI 에이전트가 웹사이트를 이용할 수 있게 하세요. 온라인 작업을 손쉽게 자동화할 수 있습니다.
+  pl: 🌐 Udostępniaj witryny agentom AI. Automatyzuj zadania online z łatwością.
+  pt: 🌐 Torne os sites da web acessíveis para agentes de IA. Automatize tarefas online com facilidade.
+  ro: 🌐 Faceți site-urile accesibile agenților AI. Automatizați sarcinile online cu ușurință.
+  ru: 🌐 Сделайте веб-сайты доступными для ИИ-агентов. Легко автоматизируйте задачи в интернете.
+  th: ทำให้เว็บไซต์เข้าถึงได้สำหรับเอเจนต์ AI ทำงานอัตโนมัติบนอินเทอร์เน็ตได้อย่างง่ายดาย๏
+  tr: 🌐 Web sitelerini yapay zekâ ajanları için erişilebilir hâle getirin. Çevrimiçi görevleri kolayca otomatikleştirin.
+  uk: 🌐 Зробіть вебсайти доступними для ШІ-агентів. Легко автоматизуйте завдання онлайн.
+  vi: 🌐 Giúp các trang web trở nên dễ tiếp cận với tác nhân AI. Tự động hóa các tác vụ trực tuyến một cách dễ dàng.
 x:
   source: https://github.com/browser-use/browser-use
   pip: browser-use

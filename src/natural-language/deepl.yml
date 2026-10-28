@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 DeepL 语言翻译 API 的官方 Python 库
   en: Official Python library for the DeepL language translation API
+  cs: Oficiální knihovna Python pro API překladu jazyků DeepL
+  de: Offizielle Python-Bibliothek für die DeepL-Sprachübersetzungs-API
+  es: Biblioteca oficial de Python para la API de traducción de idiomas DeepL
+  fr: Bibliothèque Python officielle pour l'API de traduction de langues DeepL
+  id: Pustaka Python resmi untuk API terjemahan bahasa DeepL
+  it: Libreria Python ufficiale per l'API di traduzione linguistica DeepL
+  ja: DeepL 言語翻訳 API の公式 Python ライブラリ
+  ko: DeepL 언어 번역 API의 공식 Python 라이브러리
+  pl: Oficjalna biblioteka Pythona dla API tłumaczenia języków DeepL
+  pt: Biblioteca Python oficial para a API de tradução de idiomas da DeepL
+  ro: Bibliotecă Python oficială pentru API-ul de traducere a limbilor DeepL
+  ru: Официальная библиотека Python для API перевода языков DeepL
+  th: ไลบรารี Python อย่างเป็นทางการสำหรับ API การแปลภาษาของ DeepL
+  tr: DeepL dil çevirisi API'si için resmi Python kitaplığı
+  uk: Офіційна бібліотека Python для API перекладу мов DeepL
+  vi: Thư viện Python chính thức cho API dịch ngôn ngữ DeepL
 x:
   source: https://github.com/deeplcom/deepl-python
 rule:

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 自动化(构建、测试和部署)工具。Groovy 或 Kotlin
   en: Automation (build, test and deployment) tools. Groovy or Kotlin
+  cs: Nástroje pro automatizaci (sestavení, testování a nasazení). Groovy nebo Kotlin
+  de: Automatisierungswerkzeuge (Build, Test und Bereitstellung). Groovy oder Kotlin
+  es: Herramientas de automatización (compilación, pruebas y despliegue). Groovy o Kotlin
+  fr: Outils d'automatisation (compilation, tests et déploiement). Groovy ou Kotlin
+  id: Alat otomatisasi (build, pengujian, dan deployment). Groovy atau Kotlin
+  it: Strumenti di automazione (build, test e deployment). Groovy o Kotlin
+  ja: 自動化（ビルド、テスト、デプロイ）ツール。Groovy または Kotlin
+  ko: 자동화(빌드, 테스트 및 배포) 도구. Groovy 또는 Kotlin
+  pl: Narzędzia automatyzacji (kompilacja, testy i wdrażanie). Groovy lub Kotlin
+  pt: Ferramentas de automação (build, teste e implantação). Groovy ou Kotlin
+  ro: Instrumente de automatizare (build, test și deployment). Groovy sau Kotlin
+  ru: Инструменты автоматизации (сборка, тестирование и развёртывание). Groovy или Kotlin
+  th: เครื่องมืออัตโนมัติ (สร้าง ทดสอบ และปล่อยใช้งาน) Groovy หรือ Kotlin
+  tr: Otomasyon (derleme, test ve dağıtım) araçları. Groovy veya Kotlin
+  uk: Інструменти автоматизації (збирання, тестування та розгортання). Groovy або Kotlin
+  vi: Công cụ tự động hóa (build, test và triển khai). Groovy hoặc Kotlin
 x:
   source: https://github.com/gradle/gradle
   apt: gradle

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: tlrc 是一个用 Rust 编写的 tldr 客户端
   en: tlrc is a tldr client written in Rust
+  cs: tlrc je klient tldr napsaný v Rustu
+  de: tlrc ist ein in Rust geschriebener tldr-Client
+  es: tlrc es un cliente de tldr escrito en Rust
+  fr: tlrc est un client tldr écrit en Rust
+  id: tlrc adalah klien tldr yang ditulis dalam Rust
+  it: tlrc è un client tldr scritto in Rust
+  ja: tlrc は Rust で書かれた tldr クライアントです
+  ko: tlrc는 Rust로 작성된 tldr 클라이언트입니다
+  pl: tlrc to klient tldr napisany w Rust
+  pt: O tlrc é um cliente tldr escrito em Rust
+  ro: tlrc este un client tldr scris în Rust
+  ru: tlrc — клиент tldr, написанный на Rust
+  th: tlrc เป็นไคลเอนต์ tldr ที่เขียนด้วย Rust
+  tr: tlrc, Rust ile yazılmış bir tldr istemcisidir
+  uk: tlrc — клієнт tldr, написаний на Rust
+  vi: tlrc là ứng dụng tldr viết bằng Rust
 x:
   source: https://github.com/tldr-pages/tlrc
   eget: tldr-pages/tlrc

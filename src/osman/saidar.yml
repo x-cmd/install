@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: libstatgrab 是一个库，提供跨平台的系统统计信息访问，能够获取运行该库的系统的各类统计数据。
   en: libstatgrab is a library that provides cross platform access to statistics about the system on which it’s run.
+  cs: libstatgrab je knihovna, která poskytuje multiplatformní přístup ke statistikám systému, na kterém běží.
+  de: libstatgrab ist eine Bibliothek, die plattformübergreifenden Zugriff auf Statistiken des Systems, auf dem sie läuft, ermöglicht.
+  es: libstatgrab es una biblioteca que ofrece acceso multiplataforma a las estadísticas del sistema en el que se ejecuta.
+  fr: libstatgrab est une bibliothèque qui fournit un accès multiplateforme aux statistiques du système sur lequel elle s'exécute.
+  id: libstatgrab adalah pustaka yang menyediakan akses lintas platform ke statistik sistem tempat pustaka itu berjalan.
+  it: libstatgrab è una libreria che fornisce l'accesso multipiattaforma alle statistiche del sistema su cui viene eseguita.
+  ja: libstatgrab は、実行されているシステムの統計情報にクロスプラットフォームでアクセスできるライブラリです。
+  ko: libstatgrab는 실행 중인 시스템의 통계에 크로스 플랫폼으로 접근할 수 있게 하는 라이브러리입니다.
+  pl: libstatgrab to biblioteka zapewniająca wieloplatformowy dostęp do statystyk systemu, na którym działa.
+  pt: O libstatgrab é uma biblioteca que fornece acesso multiplataforma às estatísticas do sistema em que é executada.
+  ro: libstatgrab este o bibliotecă care oferă acces multiplu la statisticile sistemului pe care rulează.
+  ru: libstatgrab — библиотека, предоставляющая кроссплатформенный доступ к статистике системы, на которой она запущена.
+  th: libstatgrab เป็นไลบรารีที่ให้การเข้าถึงสถิติของระบบที่ทำงานอยู่ในแบบข้ามแพลตฟอร์ม
+  tr: libstatgrab, çalıştığı sistemin istatistiklerine platformlar arası erişim sağlayan bir kütüphanedir.
+  uk: libstatgrab — бібліотека, яка надає кроссплатформний доступ до статистики системи, на якій вона запущена.
+  vi: libstatgrab là thư viện cung cấp khả năng truy cập đa nền tảng vào số liệu thống kê của hệ thống nơi nó chạy.
 x:
   source: https://github.com/i-scream/libstatgrab
   apt: saidar

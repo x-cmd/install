@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 多代理工作空​​间管理器
   en: multi-agent workspace manager
+  cs: Správce pracovního prostoru pro více agentů
+  de: Manager für Arbeitsbereiche mit mehreren Agenten
+  es: Gestor de espacio de trabajo multiagente
+  fr: Gestionnaire d'espace de travail multi-agents
+  id: Manajer ruang kerja multiagen
+  it: Gestore dell'area di lavoro multi-agente
+  ja: マルチエージェントのワークスペースマネージャー
+  ko: 멀티 에이전트 워크스페이스 관리자
+  pl: Menedżer przestrzeni roboczej dla wielu agentów
+  pt: Gerenciador de espaço de trabalho multiagente
+  ro: Manager de spațiu de lucru cu mai mulți agenți
+  ru: Менеджер рабочего пространства для нескольких агентов
+  th: ตัวจัดการพื้นที่ทำงานแบบหลายเอเจนต์
+  tr: Çoklu ajan çalışma alanı yöneticisi
+  uk: Менеджер робочого простору для кількох агентів
+  vi: Trình quản lý không gian làm việc đa tác nhân
 x:
   source: https://github.com/steveyegge/gastown
   eget: steveyegge/gastown

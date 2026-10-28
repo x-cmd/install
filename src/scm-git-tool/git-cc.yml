@@ -3,6 +3,22 @@ homepage: https://github.com/SKalt/git-cc
 desc:
   en: a git extension to help write conventional commits
   cn: 帮助编写常规提交的 git 扩展
+  cs: git rozšíření, které pomáhá psát konvenční commity
+  de: Eine git-Erweiterung zum Schreiben konventioneller Commits
+  es: Una extensión de git para ayudar a escribir commits convencionales
+  fr: Une extension git qui facilite l'écriture de commits conventionnels
+  id: Ekstensi git untuk membantu menulis commit konvensional
+  it: Un'estensione di git che aiuta a scrivere commit convenzionali
+  ja: 慣習的なコミットの作成を支援するgit拡張機能
+  ko: 규약 커밋 작성을 도와주는 git 확장
+  pl: Rozszerzenie git ułatwiające pisanie konwencjonalnych commitów
+  pt: Uma extensão do git para ajudar a escrever commits convencionais
+  ro: O extensie git care ajută la scrierea commiturilor convenționale
+  ru: Расширение для git, помогающее писать конвенциональные коммиты
+  th: ส่วนขยายของ git ที่ช่วยเขียน commit ตามแบบแผน
+  tr: Geleneksel commit'ler yazmaya yardımcı olan bir git eklentisi
+  uk: Розширення git, що допомагає писати конвенційні коміти
+  vi: Tiện ích mở rộng git giúp viết commit theo quy ước
 x:
   source: https://github.com/SKalt/git-cc
   eget: SKalt/git-cc

@@ -3,6 +3,22 @@ homepage: https://gitlab.nic.cz/knot/knot-dns
 desc:
   cn: Knot DNS 是一款高性能的权威 DNS 服务器
   en: Knot DNS is a high-performance authoritative-only DNS server
+  cs: Knot DNS je vysoce výkonný autoritativní DNS server
+  de: Knot DNS ist ein leistungsstarker autoritativer DNS-Server
+  es: Knot DNS es un servidor DNS autoritativo de alto rendimiento
+  fr: Knot DNS est un serveur DNS faisant autorité haute performance
+  id: Knot DNS adalah server DNS otoritatif berkinerja tinggi
+  it: Knot DNS è un server DNS autoritativo ad alte prestazioni
+  ja: Knot DNS は高性能な権威 DNS サーバーです
+  ko: Knot DNS는 고성능 권위 DNS 서버입니다
+  pl: Knot DNS to wysoce wydajny autorytatywny serwer DNS
+  pt: O Knot DNS é um servidor DNS autoritativo de alto desempenho
+  ro: Knot DNS este un server DNS autoritar de înaltă performanță
+  ru: Knot DNS — это высокопроизводительный авторитативный DNS-сервер
+  th: Knot DNS คือเซิร์ฟเวอร์ DNS แบบออทอริทีที่มีประสิทธิภาพสูง
+  tr: Knot DNS, yüksek performanslı yalnızca yetkili bir DNS sunucusudur
+  uk: Knot DNS — це високопродуктивний авторитативний DNS-сервер
+  vi: Knot DNS là máy chủ DNS có thẩm quyền hiệu năng cao
 rule:
   debian/apt:
     cmd: sudo apt-get install dnsutils

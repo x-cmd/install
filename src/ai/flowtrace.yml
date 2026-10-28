@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 把 AI Agent 的工作流跑成可审计、可检查、可重用的步骤序列，每步输出落到 git 仓库里供验证与回放
   en: Runs AI agent workflows as a series of auditable steps, saving each output to a version-controlled repository for verification, debugging, and reuse.
+  cs: Spouští pracovní postupy AI agentů jako řadu auditovatelných kroků a ukládá každý výstup do repozitáře pod správou verzí pro ověření, ladění a další použití.
+  de: Führt KI-Agenten-Workflows als Reihe überprüfbarer Schritte aus und speichert jede Ausgabe in einem versionierten Repository zur Verifikation, Fehlersuche und Wiederverwendung.
+  es: Ejecuta los flujos de trabajo de agentes de IA como una serie de pasos auditables, guardando cada salida en un repositorio con control de versiones para su verificación, depuración y reutilización.
+  fr: Exécute les workflows d'agents IA sous forme d'une série d'étapes auditables, en enregistrant chaque sortie dans un dépôt versionné pour la vérification, le débogage et la réutilisation.
+  id: Menjalankan alur kerja agen AI sebagai rangkaian langkah yang dapat diaudit, menyimpan setiap keluaran ke repositori berversi untuk verifikasi, penelusuran kesalahan, dan penggunaan ulang.
+  it: Esegue i flussi di lavoro degli agenti IA come una serie di passi verificabili, salvando ogni output in un repository con controllo di versione per verifica, debug e riutilizzo.
+  ja: AI エージェントのワークフローを監査可能な一連のステップとして実行し、各出力をバージョン管理下のリポジトリに保存して検証、デバッグ、再利用に供します。
+  ko: AI 에이전트 워크플로를 감사 가능한 단계들의 연속으로 실행하고, 각 출력을 버전 관리 저장소에 저장해 검증과 디버깅, 재사용에 활용합니다.
+  pl: Uruchamia przepływy pracy agentów AI jako serię audytowalnych kroków, zapisując każde wyjście w repozytorium pod kontrolą wersji w celu weryfikacji, debugowania i ponownego użycia.
+  pt: Executa fluxos de trabalho de agentes de IA como uma sequência de etapas auditáveis, salvando cada saída em um repositório versionado para verificação, depuração e reutilização.
+  ro: Rulează fluxurile de lucru ale agenților AI ca o serie de pași auditabili, salvând fiecare rezultat într-un depozit versionat pentru verificare, depanare și reutilizare.
+  ru: Запускает рабочие процессы ИИ-агентов как последовательность проверяемых шагов, сохраняя каждый вывод в репозиторий под контролем версий для проверки, отладки и повторного использования.
+  th: รันเวิร์กโฟลของเอเจนต์ AI เป็นลำดับขั้นตอนที่ตรวจสอบได้ โดยบันทึกผลลัพธ์แต่ละขั้นไว้ในที่เก็บข้อมูลที่มีการควบคุมเวอร์ชัน เพื่อการตรวจสอบ การดีบัก และการนำกลับมาใช้
+  tr: Yapay zekâ ajanı iş akışlarını denetlenebilir adımlar dizisi olarak çalıştırır ve her çıktıyı doğrulama, hata ayıklama ve yeniden kullanım için sürüm kontrolü altındaki bir depoya kaydeder.
+  uk: Запускає робочі процеси ІІ-агентів як послідовність перевірюваних кроків, зберігаючи кожен вивід у репозиторій під контролем версій для перевірки, налагодження та повторного використання.
+  vi: Chạy quy trình của tác nhân AI thành chuỗi các bước có thể kiểm toán, lưu từng kết quả vào kho lưu trữ có quản lý phiên bản để xác minh, gỡ lỗi và tái sử dụng.
 x:
   source: https://github.com/AIScientists-Dev/flowtrace
 rule:

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Abseil 是一个开源的 C + + 代码集合(兼容 C + + 14) , 旨在增强 C++标准程式库
   en: Abseil is an open-source collection of C++ code (compliant to C++14) designed to augment the C++ standard library
+  cs: Abseil je open-source sbírka kódu C++ (vyhovující C++14) navržená k rozšíření standardní knihovny C++
+  de: Abseil ist eine quelloffene Sammlung von C++-Code (C++14-konform), die die C++-Standardbibliothek erweitern soll
+  es: Abseil es una colección de código C++ de código abierto (conforme a C++14) diseñada para ampliar la biblioteca estándar de C++
+  fr: Abseil est une collection de code C++ open source (conforme à C++14) conçue pour étendre la bibliothèque standard C++
+  id: Abseil adalah kumpulan kode C++ sumber terbuka (sesuai C++14) yang dirancang untuk memperluas pustaka standar C++
+  it: Abseil è una raccolta di codice C++ open source (conforme a C++14) progettata per estendere la libreria standard C++
+  ja: Abseil は C++ 標準ライブラリを拡張するために設計されたオープンソースの C++ コード集 (C++14 準拠) です
+  ko: Abseil는 C++ 표준 라이브러리를 확장하기 위해 설계된 오픈 소스 C++ 코드 모음(C++14 준수)입니다
+  pl: Abseil to otwartoźródłowa kolekcja kodu C++ (zgodna z C++14), zaprojektowana w celu rozszerzenia biblioteki standardowej C++
+  pt: Abseil é uma coleção de código C++ de código aberto (compatível com C++14) projetada para aprimorar a biblioteca padrão C++
+  ro: Abseil este o colecție de cod C++ cu sursă deschisă (conformă cu C++14), concepută pentru a extinde biblioteca standard C++
+  ru: Abseil — это набор кода C++ с открытым исходным кодом (совместимый с C++14), предназначенный для расширения стандартной библиотеки C++
+  th: Abseil คือคอลเลกชันโค้ด C++ แบบโอเพนซอร์ส (สอดคล้องกับ C++14) ที่ออกแบบมาเพื่อเสริมคู่ไลบรารีมาตรฐานของ C++
+  tr: Abseil, C++ standart kitaplığını genişletmek için tasarlanmış, C++14 uyumlu açık kaynak C++ kodu koleksiyonudur
+  uk: Abseil — це збірка коду C++ з відкритим кодом (сумісна з C++14), створена для розширення стандартної бібліотеки C++
+  vi: Abseil là bộ sưu tập mã C++ mã nguồn mở (tuân thủ C++14) được thiết kế để mở rộng thư viện tiêu chuẩn C++
 x:
   source: https://github.com/abseil/abseil-cpp
   eget: abseil/abseil-cpp

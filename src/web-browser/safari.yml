@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Safari 是 Apple 的网页浏览器，基于 WebKit 引擎，与 macOS / iOS / iPadOS 深度集成。
   en: Safari is Apple's web browser, powered by WebKit, deeply integrated with macOS / iOS / iPadOS.
+  cs: Safari je webový prohlížeč od Apple, založený na enginu WebKit, hluboce integrovaný s macOS / iOS / iPadOS.
+  de: Safari ist der Webbrowser von Apple, basierend auf der WebKit-Engine und tief in macOS / iOS / iPadOS integriert.
+  es: Safari es el navegador web de Apple, basado en el motor WebKit y profundamente integrado con macOS / iOS / iPadOS.
+  fr: Safari est le navigateur web d'Apple, fondé sur le moteur WebKit et étroitement intégré à macOS / iOS / iPadOS.
+  id: Safari adalah peramban web dari Apple, bertenaga WebKit, dan terintegrasi erat dengan macOS / iOS / iPadOS.
+  it: Safari è il browser web di Apple, basato sul motore WebKit e profondamente integrato con macOS / iOS / iPadOS.
+  ja: Safari は WebKit エンジンを採用した Apple のウェブブラウザーで、macOS / iOS / iPadOS と深く統合されています。
+  ko: Safari는 WebKit 엔진을 기반으로 하며 macOS / iOS / iPadOS와 깊이 통합된 Apple의 웹 브라우저입니다.
+  pl: Safari to przeglądarka internetowa firmy Apple, oparta na silniku WebKit i głęboko zintegrowana z macOS / iOS / iPadOS.
+  pt: O Safari é o navegador web da Apple, baseado no motor WebKit e profundamente integrado com macOS / iOS / iPadOS.
+  ro: Safari este browserul web al Apple, bazat pe motorul WebKit și profund integrat cu macOS / iOS / iPadOS.
+  ru: Safari — веб-браузер от Apple на основе движка WebKit, глубоко интегрированный с macOS / iOS / iPadOS.
+  th: Safari คือเว็บเบราว์เซอร์ของ Apple ที่ใช้เอนจิน WebKit และผสานกับ macOS / iOS / iPadOS อย่างลึกซึ้ง
+  tr: Safari, WebKit motoruyla çalışan ve macOS / iOS / iPadOS ile derinlemesine entegre olan Apple'ın web tarayıcısıdır.
+  uk: Safari — веб-браузер від Apple на основі движка WebKit, глибоко інтегрований із macOS / iOS / iPadOS.
+  vi: Safari là trình duyệt web của Apple, dựa trên động cơ WebKit và tích hợp sâu với macOS / iOS / iPadOS.
 x:
   source: https://github.com/WebKit/WebKit
 rule:

@@ -3,6 +3,22 @@ homepage: https://cloud.google.com/
 desc:
   cn: Google Cloud 命令行工具，用于管理 Google Cloud 上托管的资源和应用
   en: Google Cloud command-line tools to manage resources and apps hosted on Google Cloud
+  cs: Nástroje příkazové řádky Google Cloud pro správu zdrojů a aplikací hostovaných v Google Cloud
+  de: Google Cloud Befehlszeilen-Tools zum Verwalten von Ressourcen und Anwendungen, die in Google Cloud gehostet sind
+  es: Herramientas de línea de comandos de Google Cloud para gestionar recursos y aplicaciones alojados en Google Cloud
+  fr: Outils de ligne de commande Google Cloud pour gérer les ressources et les applications hébergées sur Google Cloud
+  id: Alat baris perintah Google Cloud untuk mengelola sumber daya dan aplikasi yang di-hosting di Google Cloud
+  it: Strumenti a riga di comando di Google Cloud per gestire risorse e app ospitate su Google Cloud
+  ja: Google Cloud でホストされたリソースとアプリケーションを管理するための Google Cloud コマンドラインツール
+  ko: Google Cloud에서 호스팅되는 리소스와 애플리케이션을 관리하는 Google Cloud 명령줄 도구
+  pl: Narzędzia wiersza poleceń Google Cloud do zarządzania zasobami i aplikacjami hostowanymi w Google Cloud
+  pt: Ferramentas de linha de comando do Google Cloud para gerenciar recursos e aplicativos hospedados no Google Cloud
+  ro: Instrumente de linie de comandă Google Cloud pentru gestionarea resurselor și a aplicațiilor găzduite în Google Cloud
+  ru: Инструменты командной строки Google Cloud для управления ресурсами и приложениями, размещёнными в Google Cloud
+  th: เครื่องมือบรรทัดคำสั่งของ Google Cloud สำหรับจัดการทรัพยากรและแอปที่โฮสต์บน Google Cloud
+  tr: Google Cloud'da barındırılan kaynakları ve uygulamaları yönetmek için Google Cloud komut satırı araçları
+  uk: Інструменти командного рядка Google Cloud для керування ресурсами та застосунками, розміщеними в Google Cloud
+  vi: Công cụ dòng lệnh Google Cloud để quản lý các tài nguyên và ứng dụng được lưu trữ trên Google Cloud
 x:
   snap: google-cloud-cli
   asdf: gcloud

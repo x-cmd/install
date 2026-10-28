@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: SCAP Workbench 是一个图形化实用程序，它提供了一种执行常见 oscap 任务的简单方法
   en: SCAP Workbench is a graphical utility that offers an easy way to perform common  oscap  tasks
+  cs: SCAP Workbench je grafický nástroj, který nabízí snadný způsob provádění běžných úkolů oscap
+  de: SCAP Workbench ist ein grafisches Dienstprogramm, das eine einfache Möglichkeit bietet, gängige oscap-Aufgaben auszuführen
+  es: SCAP Workbench es una utilidad gráfica que ofrece una forma sencilla de realizar tareas comunes de oscap
+  fr: SCAP Workbench est un utilitaire graphique qui offre un moyen simple d'effectuer les tâches oscap courantes
+  id: SCAP Workbench adalah utilitas grafis yang menyediakan cara mudah untuk menjalankan tugas oscap umum
+  it: SCAP Workbench è un'utilità grafica che offre un modo semplice per eseguire le comuni attività di oscap
+  ja: SCAP Workbench は、一般的な oscap タスクを簡単に実行できるグラフィカルユーティリティです
+  ko: SCAP Workbench는 일반적인 oscap 작업을 쉽게 수행할 수 있도록 하는 그래픽 유틸리티입니다
+  pl: SCAP Workbench to graficzne narzędzie, które oferuje łatwy sposób wykonywania typowych zadań oscap
+  pt: O SCAP Workbench é um utilitário gráfico que oferece uma maneira fácil de executar tarefas comuns do oscap
+  ro: SCAP Workbench este un utilitar grafic care oferă o modalitate ușoară de a efectua sarcini obișnuite oscap
+  ru: SCAP Workbench — графическая утилита, которая предоставляет простой способ выполнения типичных задач oscap
+  th: SCAP Workbench คือยูทิลิตีกราฟิกที่ช่วยให้ทำงาน oscap ทั่วไปได้อย่างง่ายดาย
+  tr: SCAP Workbench, yaygın oscap görevlerini gerçekleştirmenin kolay bir yolunu sunan grafik bir yardımcı programdır
+  uk: SCAP Workbench — графічна утиліта, яка дає простий спосіб виконувати типові завдання oscap
+  vi: SCAP Workbench là tiện ích đồ họa giúp thực hiện các tác vụ oscap thông thường một cách dễ dàng
 x:
   source: https://github.com/OpenSCAP/scap-workbench
   eget: OpenSCAP/scap-workbench

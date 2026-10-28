@@ -3,6 +3,22 @@ license: MIT
 desc:
   en: hygen is the simple, fast, and scalable code generator that lives in your project.
   cn: hygen 是简单、快速、可扩展的代码生成器，它存在于您的项目中。
+  cs: hygen je jednoduchý, rychlý a škálovatelný generátor kódu, který žije ve vašem projektu
+  de: hygen ist der einfache, schnelle und skalierbare Code-Generator, der in Ihrem Projekt lebt
+  es: hygen es el generador de código simple, rápido y escalable que vive en tu proyecto
+  fr: hygen est le générateur de code simple, rapide et évolutif qui vit dans votre projet
+  id: hygen adalah generator kode yang sederhana, cepat, dan dapat diskalakan yang berada di proyek Anda
+  it: hygen è il generatore di codice semplice, veloce e scalabile che vive nel tuo progetto
+  ja: hygen はプロジェクトの中で動く、シンプルで高速かつ拡張可能なコードジェネレーターです
+  ko: hygen은 프로젝트 안에서 동작하는 간단하고 빠르며 확장 가능한 코드 생성기입니다
+  pl: hygen to prosty, szybki i skalowalny generator kodu, który działa w Twoim projekcie
+  pt: hygen é o gerador de código simples, rápido e escalável que vive no seu projeto
+  ro: hygen este generatorul de cod simplu, rapid și scalabil care trăiește în proiectul tău
+  ru: hygen — простой, быстрый и масштабируемый генератор кода, живущий в вашем проекте
+  th: hygen คือตัวสร้างโค้ดที่เรียบง่าย รวดเร็ว และปรับขยายได้ ซึ่งทำงานอยู่ในโปรเจกต์ของคุณ
+  tr: hygen, projenizde yaşayan basit, hızlı ve ölçeklenebilir kod üreticisidir
+  uk: hygen — простий, швидкий і масштабований генератор коду, що працює у вашому проєкті
+  vi: hygen là trình tạo mã đơn giản, nhanh và có thể mở rộng, nằm ngay trong dự án của bạn
 lang: JavaScript
 x:
   source: https://github.com/jondot/hygen

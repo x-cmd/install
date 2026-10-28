@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 追踪日出与日落时间的命令行工具
   en: 'a command-line program for tracking sunrise and sunset times'
+  cs: Nástroj příkazové řádky pro sledování časů východu a západu slunce
+  de: Ein Kommandozeilenprogramm zum Verfolgen von Sonnenaufgangs- und Sonnenuntergangszeiten
+  es: Un programa de línea de comandos para seguir las horas de amanecer y atardecer
+  fr: Un programme en ligne de commande pour suivre les heures de lever et de coucher du soleil
+  id: Program baris perintah untuk melacak waktu matahari terbit dan terbenam
+  it: Un programma da riga di comando per tracciare gli orari di alba e tramonto
+  ja: 日の出と日の入り時刻を追跡するコマンドラインプログラム
+  ko: 일출과 일몰 시간을 추적하는 명령줄 프로그램
+  pl: Program wiersza poleceń do śledzenia godzin wschodu i zachodu słońca
+  pt: Um programa de linha de comando para rastrear horários de nascer e pôr do sol
+  ro: Un program de linie de comandă pentru urmărirea orelor de răsărit și apus
+  ru: Консольная программа для отслеживания времени восхода и захода солнца
+  th: โปรแกรมบรรทัดคำสั่งสำหรับติดตามเวลาพระอาทิตย์ขึ้นและตก
+  tr: Gün doğumu ve batımı saatlerini izlemek için komut satırı programı
+  uk: Консольна програма для відстеження часу сходу та заходу сонця
+  vi: Chương trình dòng lệnh để theo dõi thời gian mặt trời mọc và lặn
 x:
   source: https://github.com/jbreckmckye/daylight
   eget: jbreckmckye/daylight

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Simplenote CLI (Simplenote 是一款简单而轻量级的笔记应用程序，旨在提供清晰、直观的笔记管理体验)
   en: Simplenote CLI (Simplenote is a simple and lightweight note-taking application designed to provide a clear and intuitive note management experience)
+  cs: Simplenote CLI (Simplenote je jednoduchá a lehká aplikace pro poznámky navržená tak, aby poskytovala jasný a intuitivní zážitek ze správy poznámek)
+  de: Simplenote CLI (Simplenote ist eine einfache und leichte Notiz-App, die eine klare und intuitive Notizverwaltung bieten soll)
+  es: Simplenote CLI (Simplenote es una aplicación de notas simple y liviana, diseñada para ofrecer una experiencia clara e intuitiva de gestión de notas)
+  fr: Simplenote CLI (Simplenote est une application de prise de notes simple et légère, conçue pour offrir une expérience de gestion des notes claire et intuitive)
+  id: Simplenote CLI (Simplenote adalah aplikasi catatan sederhana dan ringan yang dirancang untuk memberikan pengalaman manajemen catatan yang jelas dan intuitif)
+  it: Simplenote CLI (Simplenote è un'applicazione per prendere appunti semplice e leggera, progettata per offrire un'esperienza chiara e intuitiva di gestione delle note)
+  ja: Simplenote CLI（Simplenote は、明快で直感的なノート管理体験を提供するように設計された、シンプルで軽量なノートアプリです）
+  ko: Simplenote CLI(Simplenote는 명확하고 직관적인 노트 관리 경험을 제공하도록 설계된 단순하고 가벼운 노트 애플리케이션입니다)
+  pl: Simplenote CLI (Simplenote to prosta i lekka aplikacja do notatek, zaprojektowana tak, aby zapewnić jasne i intuicyjne zarządzanie notatkami)
+  pt: Simplenote CLI (Simplenote é um aplicativo de notas simples e leve, projetado para oferecer uma experiência clara e intuitiva de gerenciamento de notas)
+  ro: Simplenote CLI (Simplenote este o aplicație de notițe simplă și ușoară, concepută pentru a oferi o experiență clară și intuitivă de gestionare a notițelor)
+  ru: Simplenote CLI (Simplenote — простое и лёгкое приложение для заметок, созданное для ясного и интуитивного управления заметками)
+  th: Simplenote CLI (Simplenote เป็นแอปพลิเคชันจดบันทึกที่เรียบง่ายและเบา ออกแบบมาเพื่อมอบประสบการณ์การจัดการบันทึกที่ชัดเจนและใช้งานง่าย)
+  tr: Simplenote CLI (Simplenote, açık ve sezgisel not yönetimi deneyimi sunmak üzere tasarlanmış basit ve hafif bir not alma uygulamasıdır)
+  uk: Simplenote CLI (Simplenote — простий та легкий застосунок для нотаток, створений для зрозумілого та інтуїтивного керування нотатками)
+  vi: Simplenote CLI (Simplenote là ứng dụng ghi chú đơn giản và nhẹ, được thiết kế để mang lại trải nghiệm quản lý ghi chú rõ ràng và trực quan)
 x:
   source: https://github.com/insanum/sncli
   yay: sncli

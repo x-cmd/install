@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端命令纠错工具
   en: Terminal command debugging tool
+  cs: Nástroj pro ladění příkazů v terminálu
+  de: Werkzeug zum Debuggen von Terminalbefehlen
+  es: Herramienta de depuración de comandos de terminal
+  fr: Outil de débogage des commandes de terminal
+  id: Alat untuk mendiagnosis perintah terminal
+  it: Strumento di debug dei comandi del terminale
+  ja: ターミナルコマンドのデバッグツール
+  ko: 터미널 명령 디버깅 도구
+  pl: Narzędzie do debugowania poleceń terminala
+  pt: Ferramenta de depuração de comandos de terminal
+  ro: Instrument de depanare a comenzilor din terminal
+  ru: Инструмент для отладки команд терминала
+  th: เครื่องมือแก้ไขข้อบกพร่องของคำสั่งเทอร์มินัล
+  tr: Terminal komutları için hata ayıklama aracı
+  uk: Інструмент для налагодження команд термінала
+  vi: Công cụ gỡ lỗi lệnh terminal
 x:
   source: https://github.com/nvbn/thefuck
   apt: python3-dev

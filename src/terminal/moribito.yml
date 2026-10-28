@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于终端的 LDAP 浏览器，可遍历目录树、记录和自定义 LDAP 查询
   en: 'moribito is a terminal-based LDAP explorer for browsing directory trees, records, and custom LDAP queries.'
+  cs: moribito je průzkumník LDAP založený na terminálu pro procházení stromů adresářů, záznamů a vlastních LDAP dotazů.
+  de: moribito ist ein terminalbasierter LDAP-Explorer zum Durchsuchen von Verzeichnisbäumen, Einträgen und benutzerdefinierten LDAP-Abfragen.
+  es: moribito es un explorador de LDAP basado en terminal para recorrer árboles de directorios, registros y consultas LDAP personalizadas.
+  fr: moribito est un explorateur LDAP basé sur le terminal pour parcourir les arborescences, les entrées et les requêtes LDAP personnalisées.
+  id: moribito adalah penjelajah LDAP berbasis terminal untuk menelusuri pohon direktori, catatan, dan kueri LDAP kustom.
+  it: moribito è un esploratore LDAP basato su terminale per sfogliare alberi di directory, record e query LDAP personalizzate.
+  ja: moribito は、ディレクトリツリー、レコード、カスタム LDAP クエリを参照するためのターミナルベースの LDAP エクスプローラです。
+  ko: moribito는 디렉터리 트리, 레코드, 사용자 지정 LDAP 쿼리를 탐색하는 터미널 기반 LDAP 탐색기입니다.
+  pl: moribito to terminalowy eksplorer LDAP do przeglądania drzew katalogów, rekordów i niestandardowych zapytań LDAP.
+  pt: moribito é um explorador de LDAP baseado em terminal para navegar em árvores de diretórios, registros e consultas LDAP personalizadas.
+  ro: moribito este un explorator LDAP bazat pe terminal pentru parcurgerea arborilor de directoare, a înregistrărilor și a interogărilor LDAP personalizate.
+  ru: moribito — терминальный обозреватель LDAP для просмотра деревьев каталогов, записей и пользовательских LDAP-запросов.
+  th: moribito คือตัวสำรวจ LDAP บนพื้นฐานเทอร์มินัล สำหรับเลือกดูต้นไม้ไดเรกทอรี ระเบียน และคำค้น LDAP แบบกำหนดเอง
+  tr: moribito, dizin ağaçlarında, kayıtlarda ve özel LDAP sorgularında gezinmek için terminal tabanlı bir LDAP gezginidir.
+  uk: moribito — термінальний оглядач LDAP для перегляду дерев каталогів, записів і власних LDAP-запитів.
+  vi: moribito là trình khám phá LDAP chạy trên terminal để duyệt cây thư mục, bản ghi và truy vấn LDAP tùy chỉnh.
 x:
   source: https://github.com/ericschmar/moribito
   eget: ericschmar/moribito

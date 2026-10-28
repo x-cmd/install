@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在本地终端或通过 SSH 远程控制 Flipper 设备
   en: '🐬🧋 Remote control your flipper from the local terminal or over SSH'
+  cs: 🐬🧋 Ovládejte svůj flipper z lokálního terminálu nebo přes SSH
+  de: 🐬🧋 Steuern Sie Ihren Flipper lokal im Terminal oder über SSH
+  es: 🐬🧋 Controle su flipper desde el terminal local o por SSH
+  fr: 🐬🧋 Contrôlez votre flipper depuis le terminal local ou via SSH
+  id: 🐬🧋 Kendalikan flipper Anda dari terminal lokal atau melalui SSH
+  it: 🐬🧋 Controlla il tuo flipper dal terminale locale o tramite SSH
+  ja: 🐬🧋 ローカルターミナルまたはSSH経由でflipperを遠隔操作
+  ko: 🐬🧋 로컬 터미널 또는 SSH를 통해 flipper를 원격 제어하세요
+  pl: 🐬🧋 Steruj swoim flipperem z lokalnego terminala lub przez SSH
+  pt: 🐬🧋 Controle seu flipper pelo terminal local ou via SSH
+  ro: 🐬🧋 Controlați-vă flipperul din terminalul local sau prin SSH
+  ru: 🐬🧋 Управляйте своим flipper с локального терминала или по SSH
+  th: 🐬🧋 ควบคุม flipper ของคุณจากเทอร์มินัลในเครื่องหรือผ่าน SSH
+  tr: 🐬🧋 Flipper cihazınızı yerel terminalden veya SSH üzerinden uzaktan kontrol edin
+  uk: 🐬🧋 Керуйте своїм flipper з локального термінала або через SSH
+  vi: 🐬🧋 Điều khiển flipper của bạn từ terminal cục bộ hoặc qua SSH
 x:
   source: https://github.com/jon4hz/fztea
   eget: jon4hz/fztea

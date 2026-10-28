@@ -3,6 +3,22 @@ homepage: https://github.com/markedjs/marked
 desc:
   cn: markdown 处理器和编译器
   en: A markdown parser and compiler
+  cs: Markdown parser a kompilátor
+  de: Ein Markdown-Parser und -Compiler
+  es: Un analizador y compilador de Markdown
+  fr: Un analyseur et compilateur Markdown
+  id: Parser dan kompilator Markdown
+  it: Un parser e compilatore Markdown
+  ja: Markdown のパーサーとコンパイラ
+  ko: Markdown 파서 및 컴파일러
+  pl: Parser i kompilator Markdown
+  pt: Um analisador e compilador de Markdown
+  ro: Un parser și compilator Markdown
+  ru: Парсер и компилятор Markdown
+  th: ตัวแยกวิเคราะห์และคอมไพล์ Markdown
+  tr: Bir Markdown ayrıştırıcısı ve derleyicisi
+  uk: Парсер і компілятор Markdown
+  vi: Trình phân tích và biên dịch Markdown
 x:
   source: https://github.com/markedjs/marked
   yay: nodejs-marked

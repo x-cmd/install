@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 命令行磁盘使用信息工具
   en: '💾 A command line disk usage information tool.'
+  cs: 💾 Nástroj příkazové řádky pro informace o využití disku.
+  de: 💾 Ein Kommandozeilen-Tool für Informationen zur Datenträgernutzung.
+  es: 💾 Una herramienta de línea de comandos para obtener información sobre el uso del disco.
+  fr: 💾 Un outil en ligne de commande pour obtenir des informations sur l'utilisation du disque.
+  id: 💾 Alat baris perintah untuk informasi penggunaan disk.
+  it: 💾 Uno strumento da riga di comando per le informazioni sull'uso del disco.
+  ja: 💾 ディスク使用情報を取得するコマンドラインツール。
+  ko: 💾 디스크 사용량 정보를 알려 주는 명령줄 도구.
+  pl: 💾 Narzędzie wiersza poleceń do informacji o wykorzystaniu dysku.
+  pt: 💾 Uma ferramenta de linha de comando para informações de uso de disco.
+  ro: 💾 Un instrument de linie de comand pentru informații despre utilizarea discului.
+  ru: 💾 Инструмент командной строки для получения сведений об использовании диска.
+  th: 💾 เครื่องมือบรรทัดคำสั่งสำหรับข้อมูลการใช้พื้นที่ดิสก์
+  tr: 💾 Disk kullanımı bilgisi için komut satırı aracı.
+  uk: 💾 Інструмент командного рядка для відомостей про використання диска.
+  vi: 💾 Công cụ dòng lệnh cho thông tin sử dụng đĩa.
 x:
   source: https://github.com/mihaigalos/dusage
   eget: mihaigalos/dusage

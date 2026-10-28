@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个简单的命令行工具，用于显示终端中的多个时区信息。
   en: A simple CLI timezone info tool.
+  cs: Jednoduchý nástroj CLI s informacemi o časových pásmech.
+  de: Ein einfaches CLI-Werkzeug für Zeitzoneninformationen.
+  es: Una sencilla herramienta CLI de información de zonas horarias.
+  fr: Un simple outil CLI d'information sur les fuseaux horaires.
+  id: Alat CLI sederhana untuk informasi zona waktu.
+  it: Un semplice strumento CLI per le informazioni sul fuso orario.
+  ja: シンプルなタイムゾーン情報 CLI ツール。
+  ko: 간단한 시간대 정보 CLI 도구.
+  pl: Proste narzędzie CLI z informacjami o strefach czasowych.
+  pt: Uma ferramenta CLI simples para informações de fuso horário.
+  ro: Un instrument CLI simplu cu informații despre fuse orare.
+  ru: Простой CLI-инструмент для информации о часовых поясах.
+  th: เครื่องมือ CLI แสดงข้อมูลเขตเวลาอย่างง่ายดาย
+  tr: Saat dilimi bilgisi için basit bir CLI aracı.
+  uk: Простий CLI-інструмент для інформації про часові пояси.
+  vi: Công cụ CLI đơn giản hiển thị thông tin múi giờ.
 x:
   source: https://github.com/merschformann/gotz
   brew: gotz

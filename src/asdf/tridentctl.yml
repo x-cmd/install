@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 容器的存储编排
   en: Storage orchestrator for containers
+  cs: Orchestrátor úložiště pro kontejnery
+  de: Speicher-Orchestrator für Container
+  es: Orquestador de almacenamiento para contenedores
+  fr: Orchestrateur de stockage pour les conteneurs
+  id: Orchestrator penyimpanan untuk kontainer
+  it: Orchestratore di storage per i container
+  ja: コンテナ向けのストレージオーケストレーター
+  ko: 컨테이너를 위한 스토리지 오케스트레이터
+  pl: Orkiestrator magazynu dla kontenerów
+  pt: Orquestrador de armazenamento para contêineres
+  ro: Orchestrator de stocare pentru containere
+  ru: Оркестратор хранилища для контейнеров
+  th: ตัวจัดการพื้นที่จัดเก็บสำหรับคอนเทนเนอร์
+  tr: Konteynerler için depolama orkestratoru
+  uk: Оркестратор сховища для контейнерів
+  vi: Bộ điều phối lưu trữ cho container
 x:
   source: https://github.com/NetApp/trident
   eget: NetApp/trident

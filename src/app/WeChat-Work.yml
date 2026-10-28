@@ -3,6 +3,22 @@ homepage: https://work.weixin.qq.com/
 desc:
   cn: 企业微信是由腾讯科技(深圳)有限公司开发的高效企业级办公平台
   en: WeChat Work is an efficient enterprise-grade office management platform developed by Tencent Inc
+  cs: WeChat Work je efektivní podniková kancelářská platforma vyvinutá společností Tencent
+  de: WeChat Work ist eine effiziente Unternehmens-Plattform für das Office-Management, entwickelt von Tencent
+  es: WeChat Work es una eficiente plataforma de gestión de oficina de nivel empresarial desarrollada por Tencent
+  fr: WeChat Work est une plateforme de gestion de bureau de niveau entreprise efficace, développée par Tencent
+  id: WeChat Work adalah platform manajemen kantor kelas perusahaan yang efisien, dikembangkan oleh Tencent
+  it: WeChat Work è un'efficiente piattaforma aziendale di gestione dell'ufficio sviluppata da Tencent
+  ja: WeChat Work は Tencent が開発した高効率な企業向け業務プラットフォームです
+  ko: WeChat Work는 Tencent가 개발한 효율적인 기업용 업무 관리 플랫폼입니다
+  pl: WeChat Work to wydajna platforma biurowa klasy enterprise stworzona przez Tencent
+  pt: O WeChat Work é uma plataforma eficiente de gestão de escritórios de nível corporativo desenvolvida pela Tencent
+  ro: WeChat Work este o platformă eficientă de management al biroului la nivel de întreprindere, dezvoltată de Tencent
+  ru: WeChat Work — эффективная корпоративная платформа для управления офисной работой, разработанная Tencent
+  th: WeChat Work คือแพลตฟอร์มจัดการงานสำนักงานระดับองค์กรที่มีประสิทธิภาพ พัฒนาโดย Tencent
+  tr: WeChat Work, Tencent tarafından geliştirilen verimli, kurumsal düzeyde ofis yönetimi platformudur
+  uk: WeChat Work — ефективна корпоративна платформа для управління офісною роботою, розроблена Tencent
+  vi: WeChat Work là nền tảng quản lý văn phòng cấp doanh nghiệp hiệu quả do Tencent phát triển
 rule:
   (win|wsl2)/choco:
     cmd: x choco install wecom

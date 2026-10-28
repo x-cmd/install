@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 加固包管理器配置以抵御供应链攻击
   en: 'Harden your package manager configs against supply chain attacks.'
+  cs: Zabezpečte konfigurace správce balíčků proti útokům na dodavatelský řetězec.
+  de: Härten Sie Ihre Paketmanager-Konfigurationen gegen Supply-Chain-Angriffe.
+  es: Endurezca la configuración de su gestor de paquetes contra ataques a la cadena de suministro.
+  fr: Durcissez la configuration de votre gestionnaire de paquets contre les attaques de la chaîne d'approvisionnement.
+  id: Perketat konfigurasi manajer paket Anda terhadap serangan rantaiPasok.
+  it: Rinforza le configurazioni del tuo gestore di pacchetti contro gli attacchi alla supply chain.
+  ja: パッケージマネージャーの設定をサプライチェーン攻撃から強化します。
+  ko: 패키지 관리자 구성을 공급망 공격에 대비해 강화하세요.
+  pl: Utwardź konfiguracje menedżera pakietów przed atakami na łańcuch dostaw.
+  pt: Endureça a configuração do seu gerenciador de pacotes contra ataques à cadeia de suprimentos.
+  ro: Întăriți configurațiile managerului de pachete împotriva atacurilor asupra lanțului de aprovizionare.
+  ru: Усильте конфигурации менеджера пакетов для защиты от атак на цепочку поставок.
+  th: เพิ่มความแข็งแกร่งให้การตั้งค่าตัวจัดการแพ็กเกจเพื่อป้องกันการโจมตีห่วงโซ่อุปทาน
+  tr: Paket yöneticisi yapılandırmalarınızı tedarik zinciri saldırılarına karşı sertleştirin.
+  uk: Посилте конфігурації менеджера пакетів для захисту від атак на ланцюг постачання.
+  vi: Tăng cường cấu hình trình quản lý gói của bạn chống lại các cuộc tấn công chuỗi cung ứng.
 x:
   source: https://github.com/arnica/depsguard
   eget: arnica/depsguard

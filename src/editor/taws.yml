@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于终端的 AWS 资源查看与管理工具
   en: 'Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager'
+  cs: Terminálové UI pro AWS (taws) - prohlížeč a správce zdrojů AWS v terminálu
+  de: Terminal-UI für AWS (taws) - ein terminalbasierter Betrachter und Verwalter von AWS-Ressourcen
+  es: "Interfaz de terminal para AWS (taws): un visor y gestor de recursos de AWS basado en terminal"
+  fr: Interface en terminal pour AWS (taws) - un navigateur et gestionnaire de ressources AWS en terminal
+  id: UI terminal untuk AWS (taws) - penampil dan pengelola sumber daya AWS berbasis terminal
+  it: UI da terminale per AWS (taws) - visualizzatore e gestore di risorse AWS basato su terminale
+  ja: AWS向けのターミナルUI (taws) - ターミナルで動作するAWSリソースの閲覧・管理ツール
+  ko: AWS용 터미널 UI (taws) - 터미널 기반 AWS 리소스 뷰어 및 관리자
+  pl: Terminalowy interfejs dla AWS (taws) - przeglądarka i zarządzacz zasobów AWS w terminalu
+  pt: Interface de terminal para AWS (taws) - visualizador e gerenciador de recursos da AWS baseado em terminal
+  ro: UI pentru terminal pentru AWS (taws) - vizualizator și manager de resurse AWS bazat pe terminal
+  ru: Терминальный UI для AWS (taws) - просмотрщик и менеджер ресурсов AWS для терминала
+  th: UI เทอร์มินัลสำหรับ AWS (taws) - โปรแกรมดูและจัดการทรัพยากร AWS บนเทอร์มินัล
+  tr: AWS için terminal arayüzü (taws) - terminal tabanlı AWS kaynak görüntüleyici ve yöneticisi
+  uk: Термінальний UI для AWS (taws) - переглядач і менеджер ресурсів AWS у терміналі
+  vi: Giao diện terminal cho AWS (taws) - trình xem và quản lý tài nguyên AWS chạy trên terminal
 x:
   source: https://github.com/huseyinbabal/taws
   eget: huseyinbabal/taws

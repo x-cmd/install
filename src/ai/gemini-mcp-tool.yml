@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 让 AI 助手对接 Google Gemini CLI 的 MCP 服务器，借助超大 token 窗口分析大文件与理解代码库
   en: MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
+  cs: MCP server, který umožňuje AI asistentům interagovat s Google Gemini CLI a využívá obrovské tokenové okno Gemini k analýze velkých souborů a pochopení kódové základny.
+  de: MCP-Server, der KI-Assistenten die Interaktion mit Google Gemini CLI ermöglicht und das riesige Token-Fenster von Gemini für die Analyse großer Dateien und zum Verstehen von Codebasen nutzt
+  es: Servidor MCP que permite a los asistentes de IA interactuar con Google Gemini CLI, aprovechando la enorme ventana de tokens de Gemini para analizar archivos grandes y comprender bases de código
+  fr: Serveur MCP qui permet aux assistants IA d'interagir avec Google Gemini CLI, en tirant parti de l'énorme fenêtre de jetons de Gemini pour l'analyse de grands fichiers et la compréhension des bases de code
+  id: Server MCP yang memungkinkan asisten AI berinteraksi dengan Google Gemini CLI, memanfaatkan jendela token raksasa Gemini untuk analisis file besar dan pemahaman basis kode
+  it: Server MCP che consente agli assistenti IA di interagire con Google Gemini CLI, sfruttando l'enorme finestra di token di Gemini per l'analisi di file di grandi dimensioni e la comprensione delle basi di codice
+  ja: AI アスタントが Google Gemini CLI と連携するための MCP サーバです。Gemini の巨大なトークンウィンドウを活用し、大容量ファイルの解析とコードベースの理解に役立ちます。
+  ko: AI 어시스턴트가 Google Gemini CLI와 상호작용할 수 있게 하는 MCP 서버로, Gemini의 거대한 토큰 윈도우를 활용해 대용량 파일 분석과 코드베이스 이해를 지원합니다.
+  pl: Serwer MCP umożliwiający asystentom AI interakcję z Google Gemini CLI, wykorzystujący ogromne okno tokenów Gemini do analizy dużych plików i rozumienia baz kodu
+  pt: Servidor MCP que permite que os assistentes de IA interajam com o Google Gemini CLI, aproveitando a enorme janela de tokens do Gemini para análise de arquivos grandes e compreensão de bases de código
+  ro: Server MCP care permite agenților AI să interacționeze cu Google Gemini CLI, valorificând fereastra enormă de tokenuri a Gemini pentru analiza fișierelor mari și înțelegerea bazelor de cod
+  ru: MCP-сервер, который позволяет ИИ-ассистентам взаимодействовать с Google Gemini CLI, используя огромное окно токенов Gemini для анализа больших файлов и понимания кодовых баз
+  th: เซิร์ฟเวอร์ MCP ที่ช่วยให้ผู้ช่วย AI โต้ตอบกับ Google Gemini CLI ได้ โดยใช้หน้าต่างโทเคนขนาดใหญ่ของ Gemini เพื่อวิเคราะห์ไฟล์ขนาดใหญ่และเข้าใจโค้ดเบส
+  tr: AI asistanların Google Gemini CLI ile etkileşime girmesini sağlayan MCP sunucusu; büyük dosya analizi ve kod tabanını anlama için Gemini'nin devasa token penceresinden yararlanır.
+  uk: MCP-сервер, який дозволяє ІІ-асистентам взаємодіяти з Google Gemini CLI, використовуючи величезне вікно токенів Gemini для аналізу великих файлів і розуміння кодових баз
+  vi: Máy chủ MCP cho phép các trợ lý AI tương tác với Google Gemini CLI, tận dụng cửa sổ token khổng lồ của Gemini để phân tích tệp lớn và hiểu mã nguồn
 x:
   source: https://github.com/jamubc/gemini-mcp-tool
   npm: gemini-mcp-tool

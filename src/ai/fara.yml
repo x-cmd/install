@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 微软首个 7B 参数的视觉感知型计算机使用智能体（CUA），通过鼠标键盘操控网页完成多步任务
   en: Automates web tasks by visually perceiving webpages and controlling the computer's mouse and keyboard to execute multi-step actions.
+  cs: Automatizuje webové úkoly tím, že vizuálně vnímá webové stránky a ovládá myš a klávesnici počítače k provedení vícekrokových akcí.
+  de: Automatisiert Webaufgaben, indem er Webseiten visuell erfasst und Maus und Tastatur des Computers steuert, um mehrstufige Aktionen auszuführen.
+  es: Automatiza tareas web perceciendo visualmente las páginas web y controlando el ratón y el teclado del equipo para ejecutar acciones de varios pasos.
+  fr: Automatise les tâches web en percevant visuellement les pages web et en contrôlant la souris et le clavier de l'ordinateur pour exécuter des actions en plusieurs étapes.
+  id: Mengotomatiskan tugas web dengan melihat halaman web secara visual serta mengendalikan mouse dan keyboard komputer untuk menjalankan tindakan multi-langkah.
+  it: Automatizza le attività web percependo visivamente le pagine web e controllando il mouse e la tastiera del computer per eseguire azioni in più passaggi.
+  ja: ウェブページを視覚的に認識し、コンピューターのマウスとキーボードを操作して複数ステップの操作を実行することで、ウェブ上のタスクを自動化します。
+  ko: 웹페이지를 시각적으로 인식하고 컴퓨터의 마우스와 키보드를 제어해 여러 단계의 동작을 수행함으로써 웹 작업을 자동화합니다.
+  pl: Automatyzuje zadania w sieci, wizualnie postrzegając strony internetowe i sterując myszą oraz klawiaturą komputera, aby wykonać działania wielokrokowe.
+  pt: Automatiza tarefas web percebendol visualmente as páginas da web e controlando o mouse e o teclado do computador para executar ações de várias etapas.
+  ro: Automatizează sarcini web prin perceperea vizuală a paginilor web și controlul mouse-ului și tastaturii computerului pentru a executa acțiuni în mai mulți pași.
+  ru: Автоматизирует веб-задачи, визуально воспринимая веб-страницы и управляя мышью и клавиатурой компьютера для выполнения многошаговых действий.
+  th: ทำให้งานบนเว็บเป็นอัตโนมัติด้วยการรับรู้หน้าเว็บด้วยสายตาและควบคุมเมาส์กับคีย์บอร์ดของคอมพิวเตอร์เพื่อทำการกระทำแบบหลายขั้นตอน
+  tr: Web sayfalarını görsel olarak algılayarak ve çok adımlı işlemleri gerçekleştirmek için bilgisayarın fare ve klavyesini kontrol ederek web görevlerini otomatikleştirir.
+  uk: Автоматизує веб-завдання, візуально сприймаючи вебсторінки та керуючи мишею й клавіатурою комп'ютера для виконання багатокрокових дій.
+  vi: Tự động hóa các tác vụ web bằng cách nhận thức trực quan các trang web và điều khiển chuột cùng bàn phím máy tính để thực hiện hành động nhiều bước.
 x:
   source: https://github.com/microsoft/fara
   pip: fara

@@ -3,6 +3,22 @@ homepage: https://github.com/rollup/rollup
 desc:
   cn: 将多个小型 JavaScript 模块打包成一个大型应用或库
   en: Packaging multiple small JavaScript modules into a large application or library
+  cs: Zabalání více malých JavaScript modulů do jedné velké aplikace nebo knihovny
+  de: Verpackung mehrerer kleiner JavaScript-Module in eine große Anwendung oder Bibliothek
+  es: Empaquetar múltiples módulos pequeños de JavaScript en una aplicación o biblioteca grande
+  fr: Empaquetage de plusieurs petits modules JavaScript en une grande application ou bibliothèque
+  id: Membungkus beberapa modul JavaScript kecil menjadi satu aplikasi atau pustaka besar
+  it: Impacchettamento di piccoli moduli JavaScript in una grande applicazione o libreria
+  ja: 複数の小さな JavaScript モジュールを大きなアプリケーションやライブラリにパッケージングします
+  ko: 여러 개의 작은 JavaScript 모듈을 하나의 큰 애플리케이션이나 라이브러리로 패키징합니다
+  pl: Pakowanie wielu małych modułów JavaScript w jedną dużą aplikację lub bibliotekę
+  pt: Empacotamento de vários módulos JavaScript pequenos em um aplicativo ou biblioteca grande
+  ro: Împachetarea mai multor module JavaScript mici într-o aplicație sau bibliotecă mare
+  ru: Упаковка нескольких небольших модулей JavaScript в одно большое приложение или библиотеку
+  th: แพ็กโมดูล JavaScript ขนาดเล็กหลายตัวเข้าด้วยกันเป็นแอปพลิเคชันหรือไลบรารีขนาดใหญ่
+  tr: Birden fazla küçük JavaScript modülünü tek bir büyük uygulamaya veya kütüphaneye paketleme
+  uk: Пакування кількох невеликих модулів JavaScript в одну велику застосункову програму або бібліотеку
+  vi: Đóng gói nhiều mô-đun JavaScript nhỏ thành một ứng dụng hoặc thư viện lớn
 x:
   source: https://github.com/rollup/rollup
   yay: rollup

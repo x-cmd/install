@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 易用的终端 SSH 管理器，附带高级功能
   en: 'Easy to use terminal SSH manager with advanced features. Binaries included! 😉'
+  cs: Snadno použitelný terminálový správce SSH s pokročilými funkcemi. Obsahuje i binární soubory! 😉
+  de: Einfach zu bedienender SSH-Manager im Terminal mit erweiterten Funktionen. Binärdateien sind enthalten! 😉
+  es: Un gestor SSH de terminal fácil de usar con funciones avanzadas. ¡Incluye binarios! 😉
+  fr: Un gestionnaire SSH terminal facile à utiliser avec des fonctions avancées. Les binaires sont inclus ! 😉
+  id: Pengelola SSH terminal yang mudah digunakan dengan fitur lanjutan. Binari disertakan! 😉
+  it: Un gestore SSH da terminale facile da usare con funzioni avanzate. Binari inclusi! 😉
+  ja: 高度な機能を備えた使いやすいターミナル SSH マネージャー。バイナリ同梱! 😉
+  ko: 고급 기능을 갖춘 사용하기 쉬운 터미널 SSH 관리자. 바이너리 포함! 😉
+  pl: Łatwy w użyciu terminalowy menedżer SSH z zaawansowanymi funkcjami. Zawiera pliki binarne! 😉
+  pt: Um gerenciador SSH de terminal fácil de usar com recursos avançados. Binários incluídos! 😉
+  ro: Un manager SSH de terminal ușor de folosit cu funcții avansate. Binare incluse! 😉
+  ru: Простой в использовании терминальный SSH-менеджер с расширенными возможностями. Бинарные файлы включены! 😉
+  th: ตัวจัดการ SSH ในเทอร์มินัลที่ใช้งานง่าย พร้อมฟีเจอร์ขั้นสูง มีไบนารีให้ใช้! 😉
+  tr: Gelişmiş özelliklere sahip, kullanımı kolay terminal SSH yöneticisi. İkili dosyalar dahil! 😉
+  uk: Простий у використанні термінальний SSH-менеджер із розширеними можливостями. Бінарні файли включено! 😉
+  vi: Trình quản lý SSH dòng lệnh dễ dùng với các tính năng nâng cao. Có sẵn tệp nhị phân! 😉
 x:
   source: https://github.com/grafviktor/goto
   eget: grafviktor/goto

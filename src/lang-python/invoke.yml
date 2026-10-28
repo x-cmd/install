@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: 用于管理面向 shell 的子进程并将可执行 Python 代码组织成 CLI 可调用任务的工具
   en: Invoke is a Python (2.7 and 3.4+) library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks
+  cs: Invoke je knihovna Pythonu (2.7 a 3.4+) pro správu subprocessů zaměřených na shell a organizaci spustitelného kódu Pythonu do úloh volatelných z CLI
+  de: Invoke ist eine Python-Bibliothek (2.7 und 3.4+) zur Verwaltung von shell-orientierten Subprozessen und zur Organisation von ausführbarem Python-Code in CLI-invokierbare Aufgaben
+  es: Invoke es una biblioteca de Python (2.7 y 3.4+) para gestionar subprocesos orientados a shell y organizar código Python ejecutable en tareas invocables desde la CLI
+  fr: Invoke est une bibliothèque Python (2.7 et 3.4+) pour gérer les sous-processus orientés shell et organiser le code Python exécutable en tâches invocables depuis la CLI
+  id: Invoke adalah pustaka Python (2.7 dan 3.4+) untuk mengelola subprocess berorientasi shell dan mengorganisasi kode Python yang dapat dieksekusi menjadi tugas yang dapat dipanggil dari CLI
+  it: Invoke è una libreria Python (2.7 e 3.4+) per gestire subprocess orientati alla shell e organizzare codice Python eseguibile in task invocabili dalla CLI
+  ja: Invoke は、シェル指向のサブプロセスを管理し、実行可能な Python コードを CLI から呼び出せるタスクに整理するための Python ライブラリ (2.7 および 3.4+) です
+  ko: Invoke는 셸 지향 하위 프로세스를 관리하고 실행 가능한 Python 코드를 CLI에서 호출할 수 있는 작업으로 구성하는 Python 라이브러리(2.7 및 3.4+)입니다
+  pl: Invoke to biblioteka Pythona (2.7 i 3.4+) do zarządzania procesami potomnymi ukierunkowanymi na powłokę i organizowania wykonywalnego kodu Pythona w zadania wywoływane z CLI
+  pt: Invoke é uma biblioteca Python (2.7 e 3.4+) para gerenciar subprocessos orientados a shell e organizar código Python executável em tarefas invocáveis pela CLI
+  ro: Invoke este o bibliotecă Python (2.7 și 3.4+) pentru gestionarea subproceselor orientate pe shell și organizarea codului Python executabil în sarcini invocabile din CLI
+  ru: Invoke — библиотека Python (2.7 и 3.4+) для управления подпроцессами, ориентированными на shell, и организации исполняемого кода Python в задачи, вызываемые из CLI
+  th: Invoke เป็นไลบรารี Python (2.7 และ 3.4+) สำหรับจัดการซับโปรเซสที่เน้นเชลล์และจัดระเบียบโค้ด Python ที่เรียกใช้งานได้เป็นงานที่เรียกจาก CLI ได้
+  tr: Invoke, kabuk odaklı alt süreçleri yönetmek ve çalıştırılabilir Python kodunu CLI'den çağrılabilir görevlere düzenlemek için bir Python kitaplığıdır (2.7 ve 3.4+)
+  uk: Invoke — бібліотека Python (2.7 та 3.4+) для керування підпроцесами, орієнтованими на shell, і організації виконуваного коду Python у завдання, що викликаються з CLI
+  vi: Invoke là thư viện Python (2.7 và 3.4+) để quản lý tiến trình con hướng tới shell và tổ chức mã Python thực thi thành các tác vụ gọi được từ CLI
 x:
   source: https://github.com/pyinvoke/invoke
   pip: invoke

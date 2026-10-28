@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 快速、节省磁盘空间的包管理器
   en: Fast, disk space efficient package manager
+  cs: Rychlý správce balíčků šetrný na diskové místo
+  de: Schneller, platzsparender Paketmanager
+  es: Gestor de paquetes rápido y eficiente en espacio de disco
+  fr: Gestionnaire de paquets rapide et économe en espace disque
+  id: Pengelola paket cepat dan hemat ruang disk
+  it: Gestore di pacchetti veloce ed efficiente in termini di spazio su disco
+  ja: 高速でディスク容量を節約するパッケージマネージャー
+  ko: 빠르고 디스크 공간을 효율적으로 사용하는 패키지 관리자
+  pl: Szybki menedżer pakietów oszczędzający miejsce na dysku
+  pt: Gerenciador de pacotes rápido e eficiente em espaço em disco
+  ro: Manager de pachete rapid și eficient în privința spațiului pe disc
+  ru: Быстрый менеджер пакетов, экономно расходующий дисковое пространство
+  th: ตัวจัดการแพ็กเกจที่เร็วและประหยัดพื้นที่ดิสก์
+  tr: Hızlı ve disk alanından tasarruf sağlayan paket yöneticisi
+  uk: Швидкий менеджер пакетів, що заощаджує дисковий простір
+  vi: Trình quản lý gói nhanh và tiết kiệm dung lượng đĩa
 x:
   source: https://github.com/pnpm/pnpm
   eget: pnpm/pnpm

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: nodemon 是一个 Node.js 开发工具，当代码文件发生变化时，它会自动重启 Node.js 应用，帮助开发者提升开发效率
   en: nodemon is a Node.js development tool that automatically restarts your Node.js application whenever you make changes to your code files, saving you time and effort during development.
+  cs: nodemon je vývojový nástroj pro Node.js, který automaticky restartuje vaši aplikaci Node.js při každé změně souborů kódu, čímž vám ušetří čas a úsilí během vývoje.
+  de: nodemon ist ein Entwicklungstool für Node.js, das Ihre Node.js-Anwendung bei jeder Änderung Ihrer Code-Dateien automatisch neu startet und Ihnen so während der Entwicklung Zeit und Mühe spart.
+  es: nodemon es una herramienta de desarrollo para Node.js que reinicia automáticamente su aplicación Node.js cada vez que modifica los archivos de código, ahorrándole tiempo y esfuerzo durante el desarrollo.
+  fr: nodemon est un outil de développement Node.js qui redémarre automatiquement votre application Node.js à chaque modification de vos fichiers de code, vous faisant gagner du temps et des efforts pendant le développement.
+  id: nodemon adalah alat pengembangan Node.js yang otomatis memulai ulang aplikasi Node.js Anda setiap kali Anda mengubah berkas kode, sehingga menghemat waktu dan tenaga selama pengembangan.
+  it: nodemon è uno strumento di sviluppo per Node.js che riavvia automaticamente la tua applicazione Node.js ogni volta che modifichi i file di codice, farti risparmiare tempo e fatica durante lo sviluppo.
+  ja: nodemon は Node.js の開発ツールで、コードファイルを変更すると自動的に Node.js アプリケーションを再起動し、開発中の時間と手間を節約できます。
+  ko: nodemon은 코드 파일을 변경할 때마다 Node.js 애플리케이션을 자동으로 재시작하여 개발 시간을 절약해 주는 Node.js 개발 도구입니다.
+  pl: nodemon to narzędzie deweloperskie dla Node.js, które automatycznie uruchamia ponownie aplikację Node.js po każdej zmianie plików kodu, oszczędzając czas i wysiłek podczas pracy.
+  pt: nodemon é uma ferramenta de desenvolvimento para Node.js que reinicia automaticamente sua aplicação Node.js sempre que você altera seus arquivos de código, economizando tempo e esforço durante o desenvolvimento.
+  ro: nodemon este un instrument de dezvoltare pentru Node.js care repornește automat aplicația Node.js de fiecare dată când modificați fișierele de cod, economisind timp și efort în timpul dezvoltării.
+  ru: nodemon — это инструмент разработки для Node.js, который автоматически перезапускает ваше приложение Node.js при каждом изменении файлов кода, экономя время и усилия при разработке.
+  th: nodemon เป็นเครื่องมือพัฒนาสำหรับ Node.js ที่จะรีสตาร์ตแอปพลิเคชัน Node.js ของคุณโดยอัตโนมัติเมื่อคุณแก้ไขไฟล์โค้ด ช่วยประหยัดเวลาและแรงในระหว่างการพัฒนา
+  tr: nodemon, kod dosyalarınızda değişiklik yaptığınızda Node.js uygulamanızı otomatik olarak yeniden başlatan ve geliştirme sırasında size zaman ve emek kazandıran bir Node.js geliştirme aracıdır.
+  uk: nodemon — це інструмент розробки для Node.js, який автоматично перезапускає ваш застосунок Node.js під час кожної зміни файлів коду, заощаджуючи час і зусилля під час розробки.
+  vi: nodemon là công cụ phát triển cho Node.js tự động khởi động lại ứng dụng Node.js của bạn mỗi khi bạn thay đổi tệp mã nguồn, giúp bạn tiết kiệm thời gian và công sức trong quá trình phát triển.
 x:
   source: https://github.com/remy/nodemon
   yay: nodejs-nodemon

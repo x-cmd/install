@@ -3,6 +3,22 @@ homepage: https://github.com/nicolargo/glances
 desc:
   cn: Glances 是一个开源系统跨平台监控工具
   en: Glances is an open-source system cross-platform monitoring tool
+  cs: Glances je open-source multiplatformní monitorovací nástroj systému
+  de: Glances ist ein quelloffenes, plattformübergreifendes Systemüberwachungswerkzeug
+  es: Glances es una herramienta de monitorización de sistemas multiplataforma y de código abierto
+  fr: Glances est un outil de supervision système open source et multiplateforme
+  id: Glances adalah alat pemantauan sistem lintas platform sumber terbuka
+  it: Glances è uno strumento di monitoraggio di sistema multipiattaforma e open source
+  ja: Glances はオープンソースのクロスプラットフォームシステム監視ツールです
+  ko: Glances는 오픈 소스 크로스 플랫폼 시스템 모니터링 도구입니다
+  pl: Glances to wieloplatformowe, open source narzędzie do monitorowania systemu
+  pt: Glances é uma ferramenta de monitoramento de sistema multiplataforma e de código aberto
+  ro: Glances este un instrument open source de monitorizare a sistemului, multiplatformă
+  ru: Glances — кроссплатформенный инструмент мониторинга системы с открытым исходным кодом
+  th: Glances เป็นเครื่องมือตรวจสอบระบบข้ามแพลตฟอร์มแบบโอเพนซอร์ส
+  tr: Glances, açık kaynaklı, çok platformlu bir sistem izleme aracıdır
+  uk: Glances — кроссплатформенний інструмент моніторингу системи з відкритим кодом
+  vi: Glances là công cụ giám sát hệ thống đa nền tảng, mã nguồn mở
 x:
   source: https://github.com/nicolargo/glances
   apt: glances

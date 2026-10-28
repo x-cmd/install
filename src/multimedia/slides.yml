@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Terminal based presentation tool
   cn: 基于终端的演示工具
+  cs: Nástroj pro prezentace založený na terminálu
+  de: Terminalbasiertes Präsentationswerkzeug
+  es: Herramienta de presentaciones basada en terminal
+  fr: Outil de présentation basé sur le terminal
+  id: Alat presentasi berbasis terminal
+  it: Strumento di presentazione basato sul terminale
+  ja: ターミナルベースのプレゼンテーションツール
+  ko: 터미널 기반 프레젠테이션 도구
+  pl: Narzędzie do prezentacji oparte na terminalu
+  pt: Ferramenta de apresentação baseada em terminal
+  ro: Instrument de prezentare bazat pe terminal
+  ru: Презентационный инструмент на основе терминала
+  th: เครื่องมือนำเสนอที่ใช้เทอร์มินัล
+  tr: Terminal tabanlı sunum aracı
+  uk: Інструмент для презентацій на основі термінала
+  vi: Công cụ thuyết trình dựa trên terminal
 x:
   source: https://github.com/maaslalani/slides
   eget: maaslalani/slides

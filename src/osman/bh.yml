@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Bashhub 保存在所有会话和系统中输入的每个终端命令，并提供跨所有命令的强大查询
   en: Bashhub saves every terminal command entered across all sessions and systems and provides powerful querying across all commands
+  cs: Bashhub ukládá každý příkaz terminálu zadaný ve všech relacích a systémech a nabízí výkonné dotazy napříč všemi příkazy
+  de: Bashhub speichert jeden Terminalbefehl aus allen Sitzungen und Systemen und bietet leistungsstarke Abfragen über alle Befehle
+  es: Bashhub guarda cada comando de terminal introducido en todas las sesiones y sistemas y ofrece consultas potentes sobre todos los comandos
+  fr: Bashhub enregistre chaque commande de terminal saisie dans toutes les sessions et tous les systèmes et offre de puissantes requêtes sur toutes les commandes
+  id: Bashhub menyimpan setiap perintah terminal yang dimasukkan di semua sesi dan sistem serta menyediakan kueri yang kuat
+  it: Bashhub salva ogni comando del terminale inserito in tutte le sessioni e i sistemi e offre potenti query su tutti i comandi
+  ja: Bashhub はすべてのセッションとシステムで入力された端末コマンドを保存し、すべてのコマンドを横断する強力な検索を提供します
+  ko: Bashhub는 모든 세션과 시스템에서 입력된 모든 터미널 명령을 저장하고 모든 명령에 걸쳐 강력한 검색을 제공합니다
+  pl: Bashhub zapisuje każde polecenie terminala wprowadzone we wszystkich sesjach i systemach oraz zapewnia wydajne wyszukiwanie we wszystkich poleceniach
+  pt: O Bashhub salva cada comando de terminal digitado em todas as sessões e sistemas e oferece consultas poderosas em todos os comandos
+  ro: Bashhub salvează fiecare comandă de terminal introdusă în toate sesiunile și sistemele și oferă interogări puternice peste toate comenzile
+  ru: Bashhub сохраняет каждую терминальную команду, введённую во всех сессиях и системах, и предоставляет мощные запросы по всем командам
+  th: Bashhub บันทึกคำสั่งเทอร์มินัลทุกคำสั่งที่ป้อนในทุกเซสชันและทุกระบบ และให้คำค้นที่ทรงพลังข้ามทุกคำสั่ง
+  tr: Bashhub, tüm oturumlarda ve sistemlerde girilen her terminal komutunu kaydeder ve tüm komutlar arasında güçlü sorgulama sağlar
+  uk: Bashhub зберігає кожну термінальну команду, введену в усіх сесіях і системах, і надає потужні запити до всіх команд
+  vi: Bashhub lưu mọi lệnh terminal được nhập trên tất cả các phiên và hệ thống, đồng thời cung cấp khả năng truy vấn mạnh mẽ trên tất cả lệnh
 x:
   source: https://github.com/rcaloras/bashhub-client
 rule:

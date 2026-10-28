@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 支持任意精度与单位换算的计算器
   en: 'Arbitrary-precision unit-aware calculator'
+  cs: Kalkulačka s libovolnou přesností a podporou jednotek
+  de: Rechner mit beliebiger Genauigkeit und Einheitenumrechnung
+  es: Calculadora de precisión arbitraria consciente de las unidades
+  fr: Calculatrice à précision arbitraire, sensible aux unités
+  id: Kalkulator presisi sembarang yang sadar satuan
+  it: Calcolatore a precisione arbitraria con supporto delle unità
+  ja: 任意精度で単位変換に対応した計算機
+  ko: 임의 정밀도를 지원하고 단위를 인식하는 계산기
+  pl: Kalkulator o dowolnej dokładności, uwzględniający jednostki
+  pt: Calculadora de precisão arbitrária com reconhecimento de unidades
+  ro: Calculator cu precizie arbitrară, con suport pentru unități
+  ru: Калькулятор с произвольной точностью и поддержкой единиц измерения
+  th: เครื่องคิดเลขความแม่นยำไม่จำกัดที่เข้าใจหน่วยวัด
+  tr: Birim farkındalığına sahip keyfi hassasiyetli hesap makinesi
+  uk: Калькулятор з довільною точністю та підтримкою одиниць вимірювання
+  vi: Máy tính độ chính xác tùy ý, nhận biết đơn vị
 x:
   source: https://github.com/printfn/fend
   eget: printfn/fend

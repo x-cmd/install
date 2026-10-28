@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Google 日历命令行界面
   en: Google Calendar Command Line Interface
+  cs: Příkazová konzole Google Kalendáře
+  de: Kommandozeilen-Schnittstelle für Google Calendar
+  es: Interfaz de línea de comandos de Google Calendar
+  fr: Interface de ligne de commande de Google Calendar
+  id: Antarmuka Baris Perintah Google Kalender
+  it: Interfaccia a riga di comando di Google Calendar
+  ja: Google カレンダーのコマンドラインインターフェース
+  ko: Google 캘린더 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń Google Calendar
+  pt: Interface de linha de comando do Google Calendar
+  ro: Interfață de linie de comandă pentru Google Calendar
+  ru: Интерфейс командной строки Google Calendar
+  th: ส่วนติดต่อบรรทัดคำสั่งของ Google ปฏิทิน
+  tr: Google Takvim komut satırı arayüzü
+  uk: Інтерфейс командного рядка Google Calendar
+  vi: Giao diện dòng lệnh của Google Lịch
 x:
   source: https://github.com/insanum/gcalcli
   apt: gcalcli

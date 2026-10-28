@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: twitch-tui 是一个终端用户界面（TUI）工具，用于读取和与 Twitch 聊天用户互动。
   en: twitch-tui is a Terminal User Interface for reading and interacting with Twitch chat users.
+  cs: twitch-tui je terminálové uživatelské rozhraní (TUI) pro čtení a interakci s uživateli chatu Twitch.
+  de: twitch-tui ist eine Terminal-Benutzeroberfläche (TUI) zum Lesen und Interagieren mit Twitch-Chat-Nutzern.
+  es: twitch-tui es una interfaz de usuario de terminal (TUI) para leer e interactuar con usuarios del chat de Twitch.
+  fr: twitch-tui est une interface utilisateur en terminal (TUI) pour lire et interagir avec les utilisateurs du chat Twitch.
+  id: twitch-tui adalah antarmuka pengguna terminal (TUI) untuk membaca dan berinteraksi dengan pengguna obrolan Twitch.
+  it: twitch-tui è un'interfaccia utente a terminale (TUI) per leggere e interagire con gli utenti della chat di Twitch.
+  ja: twitch-tui は、Twitch チャットのユーザーを読み取り、対話するための端末ユーザーインターフェース（TUI）です。
+  ko: twitch-tui는 Twitch 채팅 사용자를 읽고 상호작용하기 위한 터미널 사용자 인터페이스(TUI)입니다.
+  pl: twitch-tui to terminalowy interfejs użytkownika (TUI) do czytania i interakcji z użytkownikami czatu Twitch.
+  pt: twitch-tui é uma interface de usuário de terminal (TUI) para ler e interagir com usuários do chat da Twitch.
+  ro: twitch-tui este o interfață de utilizator în terminal (TUI) pentru citirea și interacțiunea cu utilizatori ai chatului Twitch.
+  ru: twitch-tui — терминальный пользовательский интерфейс (TUI) для чтения и общения с пользователями чата Twitch.
+  th: twitch-tui คือส่วนติดต่อผู้ใช้แบบเทอร์มินัล (TUI) สำหรับอ่านและโต้ตอบกับผู้ใช้ในแชทของ Twitch
+  tr: twitch-tui, Twitch sohbet kullanıcılarını okumak ve onlarla etkileşmek için bir terminal kullanıcı arayüzüdür (TUI).
+  uk: twitch-tui — термінальний користувацький інтерфейс (TUI) для читання та спілкування з користувачами чату Twitch.
+  vi: twitch-tui là giao diện người dùng trên terminal (TUI) để đọc và tương tác với người dùng trong chat Twitch.
 x:
   source: https://github.com/xithrius/twitch-tui
   yay: twitch-tui-git

@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 用于 shell 命令执行、可视化和警报的工具
   en: A tool for shell commands execution, visualization and alerting
+  cs: Nástroj pro spouštění příkazů shellu, vizualizaci a upozornění
+  de: Ein Werkzeug zum Ausführen von Shell-Befehlen, zur Visualisierung und für Alarme
+  es: Una herramienta para la ejecución de comandos de shell, la visualización y las alertas
+  fr: Un outil pour l'exécution de commandes shell, la visualisation et les alertes
+  id: Alat untuk eksekusi perintah shell, visualisasi, dan peringatan
+  it: Uno strumento per l'esecuzione di comandi shell, la visualizzazione e gli avvisi
+  ja: シェルコマンドの実行、可視化、通知のためのツール
+  ko: 셸 명령 실행, 시각화 및 알림을 위한 도구
+  pl: Narzędzie do wykonywania poleceń shella, wizualizacji i alertów
+  pt: Uma ferramenta para execução de comandos de shell, visualização e alertas
+  ro: Un instrument pentru executarea comenzilor shell, vizualizare și alerte
+  ru: Инструмент для выполнения shell-команд, визуализации и оповещений
+  th: เครื่องมือสำหรับการรันคำสั่ง shell การแสดงภาพ และการแจ้งเตือน
+  tr: Kabuk komutlarını çalıştırma, görselleştirme ve uyarı için bir araç
+  uk: Інструмент для виконання shell-команд, візуалізації та оповіщень
+  vi: Công cụ để thực thi lệnh shell, trực quan hóa và cảnh báo
 homepage: https://github.com/sqshq/sampler
 license: GPL-3.0
 x:

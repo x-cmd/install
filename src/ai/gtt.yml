@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Google Translate TUI（最初版本）目前支持 Apertium、Bing、ChatGPT、DeepL、DeepLX、Google、LibreTranslate 和 Reverso 等翻译服务。
   en: Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
+  cs: Google Translate TUI (původní verze). Aktuálně podporuje Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate a Reverso.
+  de: Google Translate TUI (Original). Unterstützt derzeit Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate und Reverso.
+  es: Google Translate TUI (original). Actualmente admite Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate y Reverso.
+  fr: Google Translate TUI (version originale). Prend actuellement en charge Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate et Reverso.
+  id: Google Translate TUI (versi asli). Saat ini mendukung Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, dan Reverso.
+  it: Google Translate TUI (versione originale). Attualmente supporta Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate e Reverso.
+  ja: Google Translate TUI (オリジナル版)。現在 Apertium、Bing、ChatGPT、DeepL、DeepLX、Google、LibreTranslate、Reverso に対応しています。
+  ko: Google Translate TUI(오리지널). 현재 Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso를 지원합니다.
+  pl: Google Translate TUI (oryginał). Obecnie obsługuje Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate i Reverso.
+  pt: Google Translate TUI (original). Atualmente suporta Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate e Reverso.
+  ro: Google Translate TUI (original). Acceptă momentan Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate și Reverso.
+  ru: Google Translate TUI (оригинальная версия). В настоящее время поддерживает Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate и Reverso.
+  th: Google Translate TUI (เวอร์ชันดั้งเดิม) ปัจจุบันรองรับ Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate และ Reverso
+  tr: Google Translate TUI (orijinal). Şu anda Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate ve Reverso destekleniyor.
+  uk: Google Translate TUI (оригінальна версія). Наразі підтримує Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate та Reverso.
+  vi: Google Translate TUI (bản gốc). Hiện hỗ trợ Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate và Reverso.
 x:
   source: https://github.com/eeeXun/GTT
   eget: eeeXun/GTT

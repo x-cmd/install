@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 任意终端中的播客工具,快速、清爽、离线可用
   en: 'Podcasts in any terminal. Fast, clean, offline.'
+  cs: Podcasty v jakémkoli terminálu. Rychlé, čisté, offline.
+  de: Podcasts in jedem Terminal. Schnell, sauber, offline.
+  es: Pódcast en cualquier terminal. Rápido, limpio, sin conexión.
+  fr: Des podcasts dans n'importe quel terminal. Rapide, propre, hors ligne.
+  id: Podcast di terminal mana pun. Cepat, bersih, luring.
+  it: Podcast in qualsiasi terminale. Veloce, pulito, offline.
+  ja: どんなターミナルでも podcast を。高速できれい、オフラインでも使える。
+  ko: 어떤 터미널에서나 팟캐스트를. 빠르고 깔끔하며 오프라인으로 동작합니다.
+  pl: Podcasty w dowolnym terminalu. Szybko, czysto, offline.
+  pt: Podcasts em qualquer terminal. Rápido, limpo, offline.
+  ro: Podcasts în orice terminal. Rapid, curat, offline.
+  ru: Подкасты в любом терминале. Быстро, чисто, офлайн.
+  th: พอดแคสต์ในเทอร์มินัลใดก็ได้ เร็ว สะอาด ใช้งานออฟไลน์ได้
+  tr: Her terminalde podcast. Hızlı, temiz, çevrimdışı.
+  uk: Подкасти в будь-якому терміналі. Швидко, чисто, офлайн.
+  vi: Podcast trong mọi terminal. Nhanh, gọn, hoạt động ngoại tuyến.
 x:
   source: https://github.com/timkicker/podliner
   eget: timkicker/podliner

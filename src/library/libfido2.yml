@@ -3,6 +3,22 @@ homepage: https://github.com/Yubico/libfido2
 desc:
   cn: Libfido2 提供库功能和命令行工具，用于通过 USB 或 NFC 与 FIDO 设备通信，并验证证明和断言签名
   en: libfido2 provides library functionality and command-line tools to communicate with a FIDO device over USB or NFC, and to verify attestation and assertion signatures
+  cs: libfido2 poskytuje knihovní funkce a nástroje příkazové řádky pro komunikaci se zařízením FIDO přes USB nebo NFC a pro ověřování podpisů atestace a aserce
+  de: libfido2 bietet Bibliotheksfunktionen und Kommandozeilenwerkzeuge zur Kommunikation mit einem FIDO-Gerät über USB oder NFC sowie zur Überprüfung von Attestations- und Assertion-Signaturen
+  es: libfido2 ofrece funciones de biblioteca y herramientas de línea de comandos para comunicarse con un dispositivo FIDO mediante USB o NFC y para verificar firmas de atestación y aserción
+  fr: libfido2 fournit des fonctions de bibliothèque et des outils en ligne de commande pour communiquer avec un périphérique FIDO via USB ou NFC et pour vérifier les signatures d'attestation et d'assertion
+  id: libfido2 menyediakan fungsi pustaka dan alat baris perintah untuk berkomunikasi dengan perangkat FIDO melalui USB atau NFC, serta untuk memverifikasi tanda tangan atestasi dan asersi
+  it: libfido2 fornisce funzionalità di libreria e strumenti da riga di comando per comunicare con un dispositivo FIDO tramite USB o NFC e per verificare le firme di attestazione e asserzione
+  ja: libfido2 は、USB または NFC 経由で FIDO デバイスと通信し、証明と表明の署名を検証するためのライブラリ機能とコマンドラインツールを提供します
+  ko: libfido2는 USB 또는 NFC를 통해 FIDO 장치와 통신하고 증명 및 어서션 서명을 검증하기 위한 라이브러리 기능과 명령줄 도구를 제공합니다
+  pl: libfido2 zapewnia funkcje biblioteki i narzędzia wiersza poleceń do komunikacji z urządzeniem FIDO przez USB lub NFC oraz do weryfikacji podpisów atestacji i asercji
+  pt: libfido2 oferece funcionalidades de biblioteca e ferramentas de linha de comando para se comunicar com um dispositivo FIDO via USB ou NFC e para verificar assinaturas de atestação e asserção
+  ro: libfido2 oferă funcționalități de bibliotecă și instrumente de linie de comandă pentru a comunica cu un dispozitiv FIDO prin USB sau NFC și pentru a verifica semnăturile de atestare și aserțiune
+  ru: libfido2 предоставляет функциональность библиотеки и инструменты командной строки для связи с устройством FIDO через USB или NFC, а также для проверки подписей аттестации и утверждения
+  th: libfido2 ให้ฟังก์ชันไลบรารีและเครื่องมือบรรทัดคำสั่งสำหรับการสื่อสารกับอุปกรณ์ FIDO ผ่าน USB หรือ NFC และสำหรับการตรวจสอบลายเซ็นของการรับรองและการยืนยัน
+  tr: libfido2, bir FIDO cihazıyla USB veya NFC üzerinden iletişim kurmak ve attestation ile assertion imzalarını doğrulamak için kütüphane işlevleri ve komut satırı araçları sağlar
+  uk: libfido2 надає бібліотечні функції та інструменти командного рядка для комунікації з пристроєм FIDO через USB або NFC, а також для перевірки підписів атестації та твердження
+  vi: libfido2 cung cấp các chức năng thư viện và công cụ dòng lệnh để giao tiếp với thiết bị FIDO qua USB hoặc NFC và để xác minh chữ ký chứng thực và khẳng định
 x:
   source: https://github.com/Yubico/libfido2
   apt: libfido2-1

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的交互式查找替换工具
   en: 'Interactive find-and-replace in the terminal'
+  cs: Interaktivní hledání a nahrazování v terminálu
+  de: Interaktives Suchen und Ersetzen im Terminal
+  es: Búsqueda y reemplazo interactivos en la terminal
+  fr: Recherche et remplacement interactifs dans le terminal
+  id: Pencarian dan penggantian interaktif di terminal
+  it: Trova e sostituisci interattivo nel terminale
+  ja: ターミナルでの対話的な検索と置換
+  ko: 터미널에서의 대화형 찾기 및 바꾸기
+  pl: Interaktywne wyszukiwanie i zastępowanie w terminalu
+  pt: Busca e substituição interativas no terminal
+  ro: Căutare și înlocuire interactivă în terminal
+  ru: Интерактивный поиск и замена в терминале
+  th: ค้นหาและแทนที่แบบโต้ตอบในเทอร์มินัล
+  tr: Terminalde etkileşimli bul ve değiştir
+  uk: Інтерактивний пошук і заміна в терміналі
+  vi: Tìm và thay thế tương tác trong terminal
 x:
   source: https://github.com/thomasschafer/scooter
   eget: thomasschafer/scooter

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: zigpy 的命令行界面
   en: Command line interface for zigpy
+  cs: Rozhraní příkazové řádky pro zigpy
+  de: Kommandozeilenoberfläche für zigpy
+  es: Interfaz de línea de comandos para zigpy
+  fr: Interface de ligne de commande pour zigpy
+  id: Antarmuka baris perintah untuk zigpy
+  it: Interfaccia a riga di comando per zigpy
+  ja: zigpy のコマンドラインインターフェース
+  ko: zigpy를 위한 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla zigpy
+  pt: Interface de linha de comando para zigpy
+  ro: Interfață de linie de comandă pentru zigpy
+  ru: Интерфейс командной строки для zigpy
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ zigpy
+  tr: zigpy için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для zigpy
+  vi: Giao diện dòng lệnh cho zigpy
 x:
   source: https://github.com/zigpy/zigpy-cli
   pip: zigpy-cli

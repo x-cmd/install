@@ -3,6 +3,22 @@ homepage: https://github.com/ImageMagick/ImageMagick
 desc:
   cn: magick 用于显示、转换和编辑光栅图像和矢量图像文件
   en: magick is used to display, convert, and edit raster and vector image files
+  cs: magick slouží k zobrazení, převodu a úpravě rastrových a vektorových obrazových souborů
+  de: magick wird zum Anzeigen, Konvertieren und Bearbeiten von Raster- und Vektorbilddateien verwendet
+  es: magick se usa para mostrar, convertir y editar archivos de imagen ráster y vectorial
+  fr: magick sert à afficher, convertir et modifier des fichiers d'images matricielles et vectorielles
+  id: magick digunakan untuk menampilkan, mengonversi, dan mengedit berkas gambar raster dan vektor
+  it: magick viene usato per visualizzare, convertire e modificare file di immagini raster e vettoriali
+  ja: magick はラスター画像とベクター画像ファイルの表示、変換、編集に使用されます
+  ko: magick는 래스터 및 벡터 이미지 파일을 표시, 변환, 편집하는 데 사용됩니다
+  pl: magick służy do wyświetlania, konwertowania i edycji plików graficznych rastrowych i wektorowych
+  pt: magick é usado para exibir, converter e editar arquivos de imagem raster e vetorial
+  ro: magick este folosit pentru a afișa, converti și edita fișiere de imagine raster și vectorială
+  ru: magick используется для просмотра, преобразования и редактирования растровых и векторных графических файлов
+  th: magick ใช้สำหรับแสดงผล แปลง และแก้ไขไฟล์ภาพแบบแรสเตอร์และเวกเตอร์
+  tr: magick, raster vektör görsel dosyaları görüntülemek, dönüştürmek ve düzenlemek için kullanılır
+  uk: magick використовується для перегляду, перетворення та редагування растровых і векторних графічних файлів
+  vi: magick được dùng để hiển thị, chuyển đổi và chỉnh sửa các tệp ảnh raster và vector
 x:
   source: https://github.com/ImageMagick/ImageMagick
   eget: ImageMagick/ImageMagick

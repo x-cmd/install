@@ -4,6 +4,22 @@ license: MIT-0
 desc:
   cn: 根据 AWS CloudFormation 资源规范和其他检查验证 AWS CloudFormation yaml/json 模板
   en: Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation Resource Specification and additional checks
+  cs: Validuje šablony AWS CloudFormation yaml/json podle specifikace zdrojů AWS CloudFormation a dalších kontrol
+  de: Validiert AWS-CloudFormation-yaml/json-Vorlagen anhand der AWS CloudFormation Resource Specification und zusätzlicher Prüfungen
+  es: Valida las plantillas yaml/json de AWS CloudFormation según la especificación de recursos de AWS CloudFormation y comprobaciones adicionales
+  fr: Valide les modèles yaml/json AWS CloudFormation par rapport à la spécification des ressources AWS CloudFormation et à des vérifications supplémentaires
+  id: Memvalidasi templat yaml/json AWS CloudFormation terhadap Spesifikasi Sumber Daya AWS CloudFormation dan pemeriksaan tambahan
+  it: Valida i modelli yaml/json di AWS CloudFormation rispetto alla Specifica delle Risorse AWS CloudFormation e ulteriori controlli
+  ja: AWS CloudFormation リソース仕様と追加チェックに基づいて AWS CloudFormation の yaml/json テンプレートを検証します
+  ko: AWS CloudFormation 리소스 사양과 추가 검사를 기준으로 AWS CloudFormation yaml/json 템플릿을 검증합니다
+  pl: Weryfikuje szablony yaml/json AWS CloudFormation względem specyfikacji zasobów AWS CloudFormation oraz dodatkowych kontroli
+  pt: Valida modelos yaml/json do AWS CloudFormation com base na Especificação de Recursos do AWS CloudFormation e verificações adicionais
+  ro: Validează șabloanele yaml/json AWS CloudFormation față de Specificația Resurselor AWS CloudFormation și verificări suplimentare
+  ru: Проверяет шаблоны yaml/json AWS CloudFormation по спецификации ресурсов AWS CloudFormation и дополнительным проверкам
+  th: ตรวจสอบความถูกต้องของเทมเพลต yaml/json ของ AWS CloudFormation ตามข้อกำหนดทรัพยากร AWS CloudFormation และการตรวจสอบเพิ่มเติม
+  tr: AWS CloudFormation yaml/json şablonlarını AWS CloudFormation Kaynak Belirtimi ve ek kontrollerle doğrular
+  uk: Перевіряє шаблони yaml/json AWS CloudFormation за специфікацією ресурсів AWS CloudFormation та додатковими перевірками
+  vi: Kiểm tra các mẫu yaml/json của AWS CloudFormation theo Đặc tả Tài nguyên AWS CloudFormation và các kiểm tra bổ sung
 x:
   source: https://github.com/aws-cloudformation/cfn-lint
   eget: aws-cloudformation/cfn-lint

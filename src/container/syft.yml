@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个 CLI 工具和 Go 库，用于从容器映像和文件系统生成软件材料清单(SBOM)。
   en: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+  cs: Nástroj CLI a knihovna Go pro generování softwarového soupisu materiálů (SBOM) z obrazů kontejnerů a systémů souborů.
+  de: Ein CLI-Werkzeug und eine Go-Bibliothek zum Erzeugen einer Software Bill of Materials (SBOM) aus Container-Images und Dateisystemen.
+  es: Una herramienta CLI y una biblioteca de Go para generar un inventario de materiales de software (SBOM) a partir de imágenes de contenedor y sistemas de archivos.
+  fr: Un outil CLI et une bibliothèque Go pour générer un inventaire des logiciels (SBOM) à partir d'images de conteneurs et de systèmes de fichiers.
+  id: Alat CLI dan pustaka Go untuk membuat Bill of Materials (SBOM) dari image container dan sistem berkas.
+  it: Uno strumento CLI e una libreria Go per generare una Software Bill of Materials (SBOM) da immagini container e file system.
+  ja: コンテナイメージとファイルシステムからソフトウェア部品表 (SBOM) を生成する CLI ツールと Go ライブラリ。
+  ko: 컨테이너 이미지와 파일 시스템에서 소프트웨어 자재 목록(SBOM)을 생성하는 CLI 도구와 Go 라이브러리.
+  pl: Narzędzie CLI i biblioteka Go do generowania spisu materiałów oprogramowania (SBOM) z obrazów kontenerów i systemów plików.
+  pt: Uma ferramenta CLI e uma biblioteca Go para gerar um Inventário de Materiais de Software (SBOM) a partir de imagens de contêiner e sistemas de arquivos.
+  ro: Un instrument CLI și o bibliotecă Go pentru generarea unei liste de materiale software (SBOM) din imagini de container și sisteme de fișiere.
+  ru: CLI-инструмент и библиотека Go для создания перечня программных материалов (SBOM) из образов контейнеров и файловых систем.
+  th: เครื่องมือ CLI และไลบรารี Go สำหรับสร้าง Bill of Materials (SBOM) จากอิมเมจคอนเทนเนอร์และระบบไฟล์
+  tr: Konteyner imajlarından ve dosya sistemlerinden Yazılım Malzeme Listesi (SBOM) oluşturmak için bir CLI aracı ve Go kütüphanesi.
+  uk: CLI-інструмент і бібліотека Go для створення переліку програмних матеріалів (SBOM) з образів контейнерів і файлових систем.
+  vi: Công cụ CLI và thư viện Go để tạo Bill of Materials (SBOM) từ image container và hệ thống tệp.
 x:
   source: https://github.com/anchore/syft
   eget: anchore/syft

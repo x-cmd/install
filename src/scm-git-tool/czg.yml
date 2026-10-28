@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 生成标准化 git 提交消息的交互式 CLI
   en: Interactive CLI that generate standardized git commit messages
+  cs: Interaktivní CLI, které generuje standardizované zprávy git commitů
+  de: Interaktives CLI zum Erzeugen standardisierter Git-Commit-Nachrichten
+  es: CLI interactiva que genera mensajes de commit de git estandarizados
+  fr: CLI interactive qui génère des messages de commit git standardisés
+  id: CLI interaktif yang menghasilkan pesan commit git yang standar
+  it: CLI interattiva che genera messaggi di commit git standardizzati
+  ja: 標準化されたgitコミットメッセージを生成するインタラクティブCLI
+  ko: 표준화된 git 커밋 메시지를 생성하는 대화형 CLI
+  pl: Interaktywne CLI generujące standaryzowane wiadomości commitów git
+  pt: CLI interativo que gera mensagens de commit do git padronizadas
+  ro: CLI interactiv care generează mesaje de commit git standardizate
+  ru: Интерактивный CLI для создания стандартизированных сообщений коммитов git
+  th: CLI แบบโต้ตอบที่สร้างข้อความ commit ของ git มาตรฐาน
+  tr: Standartlaştırılmış git commit mesajları oluşturan etkileşimli CLI
+  uk: Інтерактивний CLI для створення стандартизованих повідомлень комітів git
+  vi: CLI tương tác tạo thông báo commit git theo tiêu chuẩn
 x:
   source: https://github.com/Zhengqbbb/cz-git
   brew: czg

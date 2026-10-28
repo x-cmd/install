@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: gitmoji 交互式命令行工具，用于在提交时使用表情符号。
   en: A gitmoji client for using emojis on commit messages
+  cs: gitmoji klient pro používání emoji ve zprávách commitů
+  de: Ein gitmoji-Client zur Verwendung von Emojis in Commit-Nachrichten
+  es: Un cliente de gitmoji para usar emojis en los mensajes de commit
+  fr: Un client gitmoji pour utiliser des emojis dans les messages de commit
+  id: Klien gitmoji untuk menggunakan emoji pada pesan commit
+  it: Un client gitmoji per usare le emoji nei messaggi di commit
+  ja: コミットメッセージで絵文字を使うための gitmoji クライアント
+  ko: 커밋 메시지에서 이모지를 사용하기 위한 gitmoji 클라이언트
+  pl: Klient gitmoji do używania emoji w komunikatach commitów
+  pt: Um cliente gitmoji para usar emojis nas mensagens de commit
+  ro: Un client gitmoji pentru folosirea emoji-urilor în mesajele de commit
+  ru: Клиент gitmoji для использования эмодзи в сообщениях коммитов
+  th: ไคลเอนต์ gitmoji สำหรับใช้อีโมจิในข้อความคอมมิต
+  tr: Commit mesajlarında emoji kullanmak için bir gitmoji istemcisi
+  uk: Клієнт gitmoji для використання емодзі у повідомленнях комітів
+  vi: Client gitmoji để dùng emoji trong thông điệp commit
 x:
   source: https://github.com/carloscuesta/gitmoji-cli
   eget: carloscuesta/gitmoji-cli

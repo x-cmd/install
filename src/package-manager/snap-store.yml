@@ -3,6 +3,22 @@ homepage: https://snapcraft.io/snap-store
 desc:
   cn: Snap Store 是一个图形化桌面应用程序，用于发现、安装和管理 Linux 上的快照
   en: Snap Store is a graphical desktop application for discovering, installing and managing snaps on Linux
+  cs: Snap Store je grafická desktopová aplikace pro vyhledávání, instalaci a správu snapů v Linuxu
+  de: Snap Store ist eine grafische Desktop-Anwendung zum Entdecken, Installieren und Verwalten von Snaps unter Linux
+  es: Snap Store es una aplicación de escritorio gráfica para descubrir, instalar y gestionar snaps en Linux
+  fr: Snap Store est une application de bureau graphique pour découvrir, installer et gérer les snaps sous Linux
+  id: Snap Store adalah aplikasi desktop grafis untuk menemukan, memasang, dan mengelola snap di Linux
+  it: Snap Store è un'applicazione desktop grafica per scoprire, installare e gestire gli snap su Linux
+  ja: Snap Store は Linux でスナップを見つけてインストールし管理するためのグラフィカルなデスクトップアプリケーションです
+  ko: Snap Store는 Linux에서 스냅을 검색, 설치 및 관리하는 그래픽 데스크톱 애플리케이션입니다
+  pl: Snap Store to graficzna aplikacja komputerowa do wyszukiwania, instalowania i zarządzania snapami w systemie Linux
+  pt: Snap Store é um aplicativo de desktop gráfico para descobrir, instalar e gerenciar snaps no Linux
+  ro: Snap Store este o aplicație desktop grafică pentru descoperirea, instalarea și gestionarea pachetelor snap în Linux
+  ru: Snap Store — графическое настольное приложение для поиска, установки и управления snap-пакетами в Linux
+  th: Snap Store เป็นแอปพลิเคชันเดสก์ท็อปแบบกราฟิกสำหรับค้นหา ติดตั้ง และจัดการ snap บน Linux
+  tr: Snap Store, Linux'ta snap'leri keşfetmek, kurmak ve yönetmek için grafik bir masaüstü uygulamasıdır
+  uk: Snap Store — графічний настільний застосунок для пошуку, встановлення та керування snap-пакетами в Linux
+  vi: Snap Store là ứng dụng máy tính đồ họa để khám phá, cài đặt và quản lý các gói snap trên Linux
 rule:
   arch/snap:
     cmd: sudo snap install snap-store

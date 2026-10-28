@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 差异对比与代码审查工具
   en: 'Diff & Review'
+  cs: Nástroj pro porovnávání rozdílů a revizi kódu
+  de: Diff- und Review-Werkzeug
+  es: Herramienta de comparación de diferencias y revisión de código
+  fr: Outil de comparaison des différences et de revue de code
+  id: Alat pembeda dan peninjau kode
+  it: Strumento di confronto delle differenze e revisione del codice
+  ja: 差分比較とコードレビュー用のツール
+  ko: 차이 비교 및 코드 검토 도구
+  pl: Narzędzie do porównywania różnic i przeglądu kodu
+  pt: Ferramenta de comparação de diferenças e revisão de código
+  ro: Instrument de comparare a diferențelor și de revizuire a codului
+  ru: Инструмент для сравнения различий и ревью кода
+  th: เครื่องมือเปรียบเทียบความแตกต่างและตรวจสอบโค้ด
+  tr: Fark karşılaştırma ve kod inceleme aracı
+  uk: Інструмент для порівняння відмінностей та рев'ю коду
+  vi: Công cụ so sánh khác biệt và rà soát mã
 x:
   source: https://github.com/ahkohd/oyo
   eget: ahkohd/oyo

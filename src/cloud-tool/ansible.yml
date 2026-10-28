@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Ansible 是一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护
   en: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain
+  cs: Ansible je mimořádně jednoduchá platforma automatizace IT, která usnadňuje nasazování a údržbu vašich aplikací a systémů
+  de: Ansible ist eine radikal einfache IT-Automatisierungsplattform, die das Bereitstellen und Warten Ihrer Anwendungen und Systeme erleichtert
+  es: Ansible es una plataforma de automatización de TI radicalmente simple que facilita el despliegue y el mantenimiento de sus aplicaciones y sistemas
+  fr: Ansible est une plateforme d'automatisation informatique radicalement simple qui facilite le déploiement et la maintenance de vos applications et systèmes
+  id: Ansible adalah platform otomasi TI yang sangat sederhana sehingga memudahkan Anda dalam menerapkan dan memelihara aplikasi serta sistem Anda
+  it: Ansible è una piattaforma di automazione IT radicalmente semplice che rende più facili la distribuzione e la manutenzione delle tue applicazioni e dei tuoi sistemi
+  ja: Ansible は、アプリケーションやシステムのデプロイとメンテナンスを容易にする、実に簡単な IT 自動化プラットフォームです
+  ko: Ansible는 애플리케이션과 시스템의 배포 및 유지 관리를 훨씬 쉽게 만들어 주는 매우 단순한 IT 자동화 플랫폼입니다
+  pl: Ansible to radykalnie prosta platforma automatyzacji IT, która ułatwia wdrażanie i utrzymanie aplikacji oraz systemów
+  pt: O Ansible é uma plataforma de automação de TI radicalmente simples que facilita a implantação e a manutenção de seus aplicativos e sistemas
+  ro: Ansible este o platformă de automatizare IT extrem de simplă, care facilitează implementarea și întreținerea aplicațiilor și sistemelor dvs.
+  ru: Ansible — радикально простая платформа автоматизации ИТ, которая упрощает развертывание и сопровождение ваших приложений и систем
+  th: Ansible คือแพลตฟอร์มอัตโนมัติระบบ IT ที่เรียบง่ายอย่างน่าทึ่ง ช่วยให้การติดตั้งและบำรุงรักษาแอปพลิเคชันและระบบของคุณง่ายขึ้น
+  tr: Ansible, uygulamalarınızı ve sistemlerinizi dağıtmayı ve bakımını yapmayı kolaylaştıran son derece basit bir BT otomasyon platformudur
+  uk: Ansible — надзвичайно проста платформа автоматизації ІТ, яка спрощує розгортання та супровід ваших застосунків і систем
+  vi: Ansible là nền tảng tự động hóa IT cực kỳ đơn giản, giúp bạn triển khai và bảo trì các ứng dụng và hệ thống dễ dàng hơn
 x:
   source: https://github.com/ansible/ansible
   apt: ansible

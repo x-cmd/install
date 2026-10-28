@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: AI 代理的无头浏览器自动化 CLI。快速 Rust CLI，带 Node.js 后备。
   en: Headless browser automation CLI for AI agents. Fast Rust CLI with Node.js fallback.
+  cs: CLI pro automatizaci headless prohlížeče pro AI agenty. Rychlé Rust CLI s Node.js zálohou.
+  de: Headless-Browser-Automatisierungs-CLI für KI-Agenten. Schnelle Rust-CLI mit Node.js-Fallback.
+  es: CLI de automatización de navegador sin cabeza para agentes de IA. CLI rápido en Rust con alternativa en Node.js.
+  fr: CLI d'automatisation de navigateur sans interface pour les agents IA. CLI rapide en Rust avec repli sur Node.js.
+  id: CLI otomatisasi browser headless untuk agen AI. CLI Rust cepat dengan cadangan Node.js.
+  it: CLI di automazione browser headless per agenti IA. CLI Rust veloce con fallback Node.js.
+  ja: AIエージェント向けのヘッドレスブラウザ自動化CLI。高速なRust製CLIで、Node.jsにフォールバック対応。
+  ko: AI 에이전트를 위한 헤드리스 브라우저 자동화 CLI. Node.js 폴백을 갖춘 빠른 Rust CLI.
+  pl: CLI do automatyzacji przeglądarki headless dla agentów AI. Szybkie CLI w Rust z awaryjnym fallbackiem na Node.js.
+  pt: CLI de automação de navegador headless para agentes de IA. CLI rápido em Rust com fallback para Node.js.
+  ro: CLI de automatizare a browserului headless pentru agenți AI. CLI rapid în Rust cu fallback pe Node.js.
+  ru: CLI для автоматизации headless-браузера для ИИ-агентов. Быстрый Rust CLI с резервным вариантом на Node.js.
+  th: CLI สำหรับทำอัตโนมัติเบราว์เซอร์แบบ headless สำหรับเอเจนต์ AI คือ Rust CLI ที่เร็วพร้อมทางเลือกสำรองเป็น Node.js
+  tr: Yapay zekâ ajanları için başsız tarayıcı otomasyon CLI'sı. Node.js yedeğiyle birlikte hızlı Rust CLI.
+  uk: CLI для автоматизації headless-браузера для ШІ-агентів. Швидкий Rust CLI із запасним варіантом на Node.js.
+  vi: CLI tự động hóa trình duyệt headless cho tác tử AI. CLI Rust nhanh kèm phương án dự phòng bằng Node.js.
 x:
   source: https://github.com/vercel-labs/agent-browser
   eget: vercel-labs/agent-browser

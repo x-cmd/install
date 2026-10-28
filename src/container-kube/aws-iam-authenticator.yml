@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 使用 AWS IAM 凭据对 Kubernetes 集群进行身份验证的工具
   en: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+  cs: Nástroj pro použití přihlašovacích údajů AWS IAM k autentizaci do clusteru Kubernetes
+  de: Ein Werkzeug, um AWS-IAM-Anmeldedaten zur Authentifizierung bei einem Kubernetes-Cluster zu verwenden
+  es: Una herramienta para usar credenciales de AWS IAM para autenticarse en un clúster de Kubernetes
+  fr: Un outil permettant d'utiliser les identifiants AWS IAM pour s'authentifier auprès d'un cluster Kubernetes
+  id: Alat untuk menggunakan kredensial AWS IAM untuk mengautentikasi ke cluster Kubernetes
+  it: Uno strumento per usare le credenziali AWS IAM per autenticarsi a un cluster Kubernetes
+  ja: AWS IAM 認証情報を使用して Kubernetes クラスターに対して認証するためのツールです。
+  ko: AWS IAM 자격 증명을 사용하여 Kubernetes 클러스터에 인증하는 도구
+  pl: Narzędzie do uwierzytelniania się w klastrze Kubernetes przy użyciu poświadczeń AWS IAM
+  pt: Uma ferramenta para usar credenciais do AWS IAM para se autenticar em um cluster Kubernetes
+  ro: Un instrument pentru folosirea credențialelor AWS IAM în vederea autentificării la un cluster Kubernetes
+  ru: Инструмент для аутентификации в кластере Kubernetes с использованием учётных данных AWS IAM
+  th: เครื่องมือที่ใช้ข้อมูลรับรอง AWS IAM เพื่อยืนยันตัวตนกับคลัสเตอร์ Kubernetes
+  tr: Bir Kubernetes kümesinde kimlik doğrulama yapmak için AWS IAM kimlik bilgilerini kullanan araç
+  uk: Інструмент для використання облікових даних AWS IAM для автентифікації в кластері Kubernetes
+  vi: Công cụ dùng thông tin xác thực AWS IAM để xác thực với cluster Kubernetes
 x:
   source: https://github.com/kubernetes-sigs/aws-iam-authenticator
   eget: kubernetes-sigs/aws-iam-authenticator

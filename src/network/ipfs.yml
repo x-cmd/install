@@ -3,6 +3,22 @@ homepage: https://github.com/ipfs/kubo
 desc:
   cn: IPFS 是一个开放的、无需中心服务器就能管理数据的系统。它用途广泛，在各行各业都大放异彩，堪称去中心化时代的万能工具。
   en: IPFS is an open system to manage data without a central server. IPFS's versatility shines across different industries – making it the multi-purpose tool for the decentralized age.
+  cs: IPFS je otevřený systém pro správu dat bez centrálního serveru. Všestrannost IPFS se ukazuje v různých oborech – což z něj dělá univerzální nástroj éry decentralizace.
+  de: IPFS ist ein offenes System zur Verwaltung von Daten ohne zentralen Server. Die Vielseitigkeit von IPFS zeigt sich in verschiedenen Branchen – und macht es zum Allzweckwerkzeug des dezentralen Zeitalters.
+  es: IPFS es un sistema abierto para gestionar datos sin servidor central. La versatilidad de IPFS brilla en distintos sectores, lo que lo convierte en la herramienta multipropósito de la era descentralizada.
+  fr: IPFS est un système ouvert de gestion des données sans serveur central. La polyvalence d'IPFS brille dans différents secteurs — faisant de lui l'outil polyvalent de l'ère décentralisée.
+  id: IPFS adalah sistem terbuka untuk mengelola data tanpa server pusat. Kegunaan IPFS yang serba bisa bersinar di berbagai industri — menjadikannya alat serba guna untuk era terdesentralisasi.
+  it: IPFS è un sistema aperto per gestire dati senza un server centrale. La versatilità di IPFS brilla in diversi settori, rendendolo lo strumento multiuso dell'era decentralizzata.
+  ja: IPFSは中央サーバーなしでデータを管理するオープンなシステムです。IPFSの汎用性は幅広い業界で光り輝いており、非中央化時代の万能ツールとなっています。
+  ko: IPFS는 중앙 서버 없이 데이터를 관리하는 개방형 시스템입니다. IPFS의 다재다용은 다양한 산업에서 빛나 분산화 시대의 만능 도구가 됩니다.
+  pl: IPFS to otwarty system zarządzania danymi bez centralnego serwera. Wszechstronność IPFS ujawnia się w różnych branżach – czyniąc go uniwersalnym narzędziem ery zdecentralizowanej.
+  pt: O IPFS é um sistema aberto para gerenciar dados sem servidor central. A versatilidade do IPFS brilha em diferentes setores — tornando-o a ferramenta multifuncional da era descentralizada.
+  ro: IPFS este un sistem deschis pentru gestionarea datelor fără server central. Versatilitatea IPFS strălucește în diferite industrii — făcându-l un instrument polivalent pentru era decentralizării.
+  ru: IPFS — открытая система управления данными без центрального сервера. Универсальность IPFS проявляется в самых разных отраслях, что делает его многофункциональным инструментом эпохи децентрализации.
+  th: IPFS เป็นระบบเปิดสำหรับจัดการข้อมูลโดยไม่ต้องใช้เซิร์ฟเวอร์กลาง ความอเนกประสงค์ของ IPFS เด่นชัดในหลายอุตสาหกรรม — ทำให้เป็นเครื่องมืออเนกประสงค์ของยุคกระจายศูนย์
+  tr: IPFS, merkezi bir sunucu olmadan veri yönetmek için açık bir sistemdir. IPFS'nin çok yönlülüğü farklı sektörlerde öne çıkar ve onu merkezi olmayan çağın çok amaçlı aracı yapar.
+  uk: IPFS — відкрита система керування даними без центрального сервера. Багатофункціональність IPFS проявляється в різних галузях, що робить його універсальним інструментом епохи децентралізації.
+  vi: IPFS là hệ thống mở để quản lý dữ liệu mà không cần máy chủ trung tâm. Tính linh hoạt của IPFS thể hiện rõ qua nhiều ngành — khiến nó trở thành công cụ đa năng cho thời đại phân quyền.
 x:
   source: https://github.com/ipfs/kubo
   eget: ipfs/kubo

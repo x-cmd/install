@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于连接本地进程和云环境，以在云条件下运行本地代码
   en: Connect your local process and your cloud environment, and run local code in cloud conditions
+  cs: Připojte svůj místní proces ke svému cloudovému prostředí a spouštějte místní kód v podmínkách cloudu
+  de: Verbinden Sie Ihren lokalen Prozess mit Ihrer Cloud-Umgebung und führen Sie lokalen Code unter Cloud-Bedingungen aus
+  es: Conecta tu proceso local con tu entorno de nube y ejecuta código local en condiciones de nube
+  fr: Connectez votre processus local à votre environnement cloud et exécutez du code local dans des conditions cloud
+  id: Hubungkan proses lokal Anda dengan lingkungan cloud Anda dan jalankan kode lokal dalam kondisi cloud
+  it: Collega il tuo processo locale al tuo ambiente cloud ed esegui il codice locale in condizioni cloud
+  ja: ローカルのプロセスとクラウド環境を接続し、クラウド環境でローカルコードを実行します
+  ko: 로컬 프로세스를 클라우드 환경에 연결하고 클라우드 조건에서 로컬 코드를 실행합니다
+  pl: Połącz lokalny proces ze środowiskiem chmurowym i uruchamiaj lokalny kod w warunkach chmury
+  pt: Conecte seu processo local ao seu ambiente de nuvem e execute código local em condições de nuvem
+  ro: Conectați procesul local la mediul dumneavoastră cloud și rulați cod local în condiții de cloud
+  ru: Подключите локальный процесс к облачной среде и запускайте локальный код в облачных условиях
+  th: เชื่อมต่อกระบวนการในเครื่องของคุณกับสภาพแวดล้อมคลาวด์และเรียกใช้โค้ดในเครื่องในสภาพคลาวด์
+  tr: Yerel işleminizi bulut ortamınıza bağlayın ve yerel kodu bulut koşullarında çalıştırın
+  uk: Підключіть локальний процес до хмарного середовища та виконуйте локальний код у хмарних умовах
+  vi: Kết nối tiến trình cục bộ của bạn với môi trường đám mây và chạy mã cục bộ trong điều kiện đám mây
 x:
   source: https://github.com/metalbear-co/mirrord
   eget: metalbear-co/mirrord

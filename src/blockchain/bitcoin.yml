@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions
   cn: 比特币核心连接到比特币对等网络以下载并完全验证块和交易
+  cs: Bitcoin Core se připojuje k peer-to-peer síti Bitcoin ke stažení a úplnému ověření bloků a transakcí
+  de: Bitcoin Core verbindet sich mit dem Peer-to-Peer-Netzwerk von Bitcoin, um Blöcke und Transaktionen herunterzuladen und vollständig zu validieren
+  es: Bitcoin Core se conecta a la red peer-to-peer de Bitcoin para descargar y validar por completo bloques y transacciones
+  fr: Bitcoin Core se connecte au réseau pair-à-pair de Bitcoin pour télécharger et valider entièrement les blocs et les transactions
+  id: Bitcoin Core terhubung ke jaringan peer-to-peer Bitcoin untuk mengunduh dan sepenuhnya memvalidasi blok dan transaksi
+  it: Bitcoin Core si connette alla rete peer-to-peer di Bitcoin per scaricare e convalidare completamente blocchi e transazioni
+  ja: Bitcoin Core は BitCoinのピアツーピアネットワークに接続し、ブロックとトランザクションをダウンロードして完全に検証します
+  ko: Bitcoin Core는 Bitcoin 피어투피어 네트워크에 연결되어 블록과 트랜잭션을 다운로드하고 완전히 검증합니다
+  pl: Bitcoin Core łączy się z siecią peer-to-peer Bitcoina, aby pobierać i w pełni weryfikować bloki i transakcje
+  pt: O Bitcoin Core conecta-se à rede peer-to-peer do Bitcoin para baixar e validar totalmente blocos e transações
+  ro: Bitcoin Core se conectează la rețeaua peer-to-peer a Bitcoin pentru a descărca și valida complet blocuri și tranzacții
+  ru: Bitcoin Core подключается к одноранговой сети Bitcoin, чтобы загружать и полностью проверять блоки и транзакции
+  th: Bitcoin Core เชื่อมต่อกับเครือข่ายแบบเพียร์ทูเพียร์ของ Bitcoin เพื่อดาวน์โหลดและตรวจสอบบล็อกกับธุรกรรมอย่างสมบูรณ์
+  tr: Bitcoin Core, blokları ve işlemleri indirip tam olarak doğrulamak için Bitcoin eşler arası ağına bağlanır
+  uk: Bitcoin Core підключається до одноранкової мережі Bitcoin, щоб завантажувати та повністю перевіряти блоки й транзакції
+  vi: Bitcoin Core kết nối với mạng ngang hàng của Bitcoin để tải xuống và xác thực đầy đủ các khối và giao dịch
 x:
   source: https://github.com/bitcoin/bitcoin
   brew: bitcoin

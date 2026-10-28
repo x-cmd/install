@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个强大的基于 Groovy 的 JVM web 应用程序框架，构建在 Spring Boot 之上
   en: A powerful Groovy-based web application framework for the JVM built on top of Spring Boot
+  cs: Výkonný webový aplikační framework pro JVM založený na Groovy, postavený na Spring Boot
+  de: Ein leistungsfähiges, auf Groovy basierendes Webanwendungs-Framework für die JVM, aufgebaut auf Spring Boot
+  es: Un potente framework de aplicaciones web para la JVM basado en Groovy, construido sobre Spring Boot
+  fr: Un puissant framework d'applications web pour la JVM basé sur Groovy, construit sur Spring Boot
+  id: Framework aplikasi web yang kuat untuk JVM berbasis Groovy, yang dibangun di atas Spring Boot
+  it: Un potente framework di applicazioni web per la JVM basato su Groovy, costruito su Spring Boot
+  ja: Spring Boot の上に構築された、Groovy ベースの JVM 向け強力なウェブアプリケーションフレームワークです
+  ko: Spring Boot 위에 구축된 Groovy 기반의 강력한 JVM 웹 애플리케이션 프레임워크입니다
+  pl: Potężny framework aplikacji web dla JVM oparty na Groovy, zbudowany na Spring Boot
+  pt: Um poderoso framework de aplicações web para a JVM baseado em Groovy, construído sobre o Spring Boot
+  ro: Un puternic framework de aplicații web pentru JVM bazat pe Groovy, construit pe Spring Boot
+  ru: Мощный веб-фреймворк для приложений на JVM на базе Groovy, построенный поверх Spring Boot
+  th: เฟรมเวิร์กแอปพลิเคชันเว็บที่ทรงพลังสำหรับ JVM ซึ่งใช้ Groovy สร้างบน Spring Boot
+  tr: Spring Boot üzerine kurulmuş, JVM için güçlü ve Groovy tabanlı web uygulaması çerçevesi
+  uk: Потужний Groovy-фреймворк вебзастосунків для JVM, побудований поверх Spring Boot
+  vi: Một framework ứng dụng web mạnh mẽ cho JVM dựa trên Groovy, xây dựng trên nền tảng Spring Boot
 x:
   source: https://github.com/apache/grails-core
   eget: apache/grails-core

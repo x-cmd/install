@@ -3,6 +3,22 @@ homepage: https://github.com/volta-cli/volta
 desc:
   cn: Volta 是一种管理 JavaScript 命令行工具的简单方法
   en: Volta is a hassle-free way to manage your JavaScript command-line tools
+  cs: Volta je bezproblémový způsob správy vašich nástrojů příkazového řádku pro JavaScript
+  de: Volta ist eine unkomplizierte Art, Ihre JavaScript-Befehlszeilenwerkzeuge zu verwalten
+  es: Volta es una forma sin complicaciones de gestionar tus herramientas de línea de comandos de JavaScript
+  fr: Volta est un moyen simple de gérer vos outils en ligne de commande JavaScript
+  id: Volta adalah cara hassle-free untuk mengelola alat baris perintah JavaScript Anda
+  it: Volta è un modo senza complicazioni per gestire i tuoi strumenti da riga di comando JavaScript
+  ja: Volta は JavaScript のコマンドラインツールを不堪なく管理する方法です
+  ko: Volta는 JavaScript 명령줄 도구를 번거로움 없이 관리하는 방법입니다
+  pl: Volta to bezproblemowy sposób zarządzania narzędziami wiersza poleceń JavaScript
+  pt: Volta é uma forma sem complicação de gerenciar suas ferramentas de linha de comando JavaScript
+  ro: Volta este o modalitate fără bătăi de cap de a vă gestiona instrumentele din linia de comandă JavaScript
+  ru: Volta — простой способ управлять консольными инструментами JavaScript
+  th: Volta เป็นวิธีจัดการเครื่องมือบรรทัดคำสั่ง JavaScript ของคุณแบบไม่ยุ่งยาก
+  tr: Volta, JavaScript komut satırı araçlarınızı yönetmenin sorunsuz bir yoludur
+  uk: Volta — простий спосіб керувати вашими консольними інструментами JavaScript
+  vi: Volta là cách đơn giản để quản lý các công cụ dòng lệnh JavaScript của bạn
 x:
   source: https://github.com/volta-cli/volta
   eget: volta-cli/volta

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于执行 *.http, *.rest 文件的命令行工具
   en: A command line interface to execute *.http, *.rest files.
+  cs: Rozhraní příkazové řádky pro spouštění souborů *.http a *.rest.
+  de: Eine Kommandozeilenschnittstelle zum Ausführen von *.http- und *.rest-Dateien.
+  es: Una interfaz de línea de comandos para ejecutar archivos *.http y *.rest.
+  fr: Une interface de ligne de commande pour exécuter des fichiers *.http et *.rest.
+  id: Antarmuka baris perintah untuk menjalankan file *.http dan *.rest.
+  it: Un'interfaccia a riga di comando per eseguire file *.http e *.rest.
+  ja: "*.http と *.rest ファイルを実行するためのコマンドラインインターフェース。"
+  ko: "*.http 및 *.rest 파일을 실행하기 위한 명령줄 인터페이스."
+  pl: Interfejs wiersza poleceń do uruchamiania plików *.http i *.rest.
+  pt: Uma interface de linha de comando para executar arquivos *.http e *.rest.
+  ro: O interfață de linie de comandă pentru executarea fișierelor *.http și *.rest.
+  ru: Интерфейс командной строки для выполнения файлов *.http и *.rest.
+  th: ส่วนติดต่อบรรทัดคำสั่งสำหรับเรียกใช้ไฟล์ *.http และ *.rest๏
+  tr: "*.http ve *.rest dosyalarını çalıştırmak için bir komut satırı arayüzü."
+  uk: Інтерфейс командного рядка для виконання файлів *.http та *.rest.
+  vi: Giao diện dòng lệnh để chạy các tệp *.http và *.rest.
 x:
   source: https://github.com/anweber/httpyac
   npm: httpyac

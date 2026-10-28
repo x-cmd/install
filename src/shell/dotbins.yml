@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 在 dotfiles 中保持二进制文件更新
   en: 'Keep updated binaries in your dotfiles 🧰'
+  cs: Udržujte aktuální binární soubory ve svých dotfiles 🧰
+  de: Aktuelle Binärdateien in deinen Dotfiles behalten 🧰
+  es: Mantén tus binarios actualizados en tus dotfiles 🧰
+  fr: Gardez vos binaires à jour dans vos dotfiles 🧰
+  id: Jaga binari tetap mutakhir di dotfiles Anda 🧰
+  it: Mantieni i tuoi binari aggiornati nei tuoi dotfiles 🧰
+  ja: dotfiles 内のバイナリを最新の状態に保つ 🧰
+  ko: dotfiles의 바이너리를 최신 상태로 유지 🧰
+  pl: Utrzymuj aktualne pliki binarne w swoich dotfiles 🧰
+  pt: Mantenha seus binários atualizados em seus dotfiles 🧰
+  ro: Păstrează binarele actualizate în dotfiles-urile tale 🧰
+  ru: Поддерживайте бинарные файлы в актуальном состоянии в ваших dotfiles 🧰
+  th: ให้ไบนารีใน dotfiles ของคุณอยู่ในเวอร์ชันล่าสุด 🧰
+  tr: Dotfiles'ınızda ikili dosyaları güncel tutun 🧰
+  uk: Підтримуйте бінарні файли в актуальному стані у ваших dotfiles 🧰
+  vi: Giữ cho các tệp nhị phân trong dotfiles của bạn luôn được cập nhật 🧰
 x:
   source: https://github.com/basnijholt/dotbins
   eget: basnijholt/dotbins

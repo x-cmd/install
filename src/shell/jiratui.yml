@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 从 shell 与 Atlassian Jira 交互的 TUI
   en: 'A Textual User Interface for interacting with Atlassian Jira from your shell'
+  cs: Textové uživatelské rozhraní pro interakci s Atlassian Jira z vašeho shellu
+  de: Eine textbasierte Benutzeroberfläche zur Interaktion mit Atlassian Jira aus Ihrer Shell
+  es: Una interfaz de usuario de texto para interactuar con Atlassian Jira desde tu shell
+  fr: Une interface utilisateur textuelle pour interagir avec Atlassian Jira depuis votre shell
+  id: Antarmuka pengguna berbasis teks untuk berinteraksi dengan Atlassian Jira dari shell Anda
+  it: Un'interfaccia utente testuale per interagire con Atlassian Jira dalla tua shell
+  ja: シェルから Atlassian Jira を操作するためのテキストユーザーインターフェース
+  ko: 셸에서 Atlassian Jira와 상호작용하기 위한 텍스트 사용자 인터페이스
+  pl: Tekstowy interfejs użytkownika do interakcji z Atlassian Jira z Twojej powłoki
+  pt: Uma interface de usuário de texto para interagir com o Atlassian Jira a partir do seu shell
+  ro: O interfață utilizator text pentru interacțiunea cu Atlassian Jira din shell-ul dumneavoastră
+  ru: Текстовый пользовательский интерфейс для взаимодействия с Atlassian Jira из вашей оболочки
+  th: ส่วนติดต่อผู้ใช้แบบข้อความสำหรับโต้ตอบกับ Atlassian Jira จากเชลล์ของคุณ
+  tr: Kabuğunuzdan Atlassian Jira ile etkileşim kurmak için metin tabanlı bir kullanıcı arayüzü
+  uk: Текстовий користувацький інтерфейс для взаємодії з Atlassian Jira з вашої оболонки
+  vi: Giao diện người dùng dạng văn bản để tương tác với Atlassian Jira từ shell của bạn
 x:
   source: https://github.com/whyisdifficult/jiratui
   eget: whyisdifficult/jiratui

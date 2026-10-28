@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Carvel 提供了一组可靠、单一用途、可组合的工具，可帮助您构建、配置应用程序并将其部署到 Kubernetes
   en: Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes
+  cs: Carvel poskytuje sadu spolehlivých, jednoúčelových a skládacích nástrojů, které vám pomáhají sestavovat, konfigurovat a nasazovat aplikace do Kubernetes
+  de: Carvel bietet eine Reihe zuverlässiger, zweckbestimmter und kombinierbarer Werkzeuge, die beim Erstellen, Konfigurieren und Bereitstellen von Anwendungen in Kubernetes helfen
+  es: Carvel ofrece un conjunto de herramientas fiables, de propósito único y composables que ayudan a crear, configurar y desplegar aplicaciones en Kubernetes
+  fr: Carvel fournit un ensemble d'outils fiables, à usage unique et composables qui facilitent la création, la configuration et le déploiement d'applications sur Kubernetes
+  id: Carvel menyediakan serangkaian alat yang andal, serbaguna khusus, dan dapat disusun untuk membantu Anda membangun, mengonfigurasi, dan menerapkan aplikasi ke Kubernetes
+  it: Carvel fornisce un insieme di strumenti affidabili, a uso specifico e componibili che aiutano a costruire, configurare e distribuire applicazioni su Kubernetes
+  ja: Carvel は、アプリケーションの構築、設定、Kubernetes へのデプロイを支援する、信頼性が高く目的特化的で組み合わせ可能なツール群を提供します。
+  ko: Carvel은 애플리케이션을 빌드하고 구성하며 Kubernetes에 배포하는 데 도움을 주는 신뢰할 수 있고 단일 목적이며 조합 가능한 도구 모음을 제공합니다
+  pl: Carvel dostarcza zestaw niezawodnych, jednozadaniowych i kompozycyjnych narzędzi, które pomagają w budowaniu, konfigurowaniu i wdrażaniu aplikacji w Kubernetes
+  pt: O Carvel oferece um conjunto de ferramentas confiáveis, de propósito único e comparáveis que ajudam a construir, configurar e implantar aplicativos no Kubernetes
+  ro: Carvel oferă o serie de instrumente fiabile, cu un singur scop și compozabile, care vă ajută să construiți, configurați și să deployați aplicații în Kubernetes
+  ru: Carvel предоставляет набор надёжных, узкоспециализированных и компонуемых инструментов, помогающих создавать, настраивать и развёртывать приложения в Kubernetes
+  th: Carvel ให้ชุดเครื่องมือที่เชื่อถือได้ มีจุดประสงค์เฉพาะ และประกอบกันได้ ช่วยคุณสร้าง ตั้งค่า และประสบการณ์แอปพลิเคชันไปยัง Kubernetes
+  tr: Carvel, uygulamaları oluşturmanıza, yapılandırmanıza ve Kubernetes'a dağıtmanıza yardımcı olan güvenilir, tek amaçlı ve birleştirilebilir bir araç seti sunar
+  uk: Carvel надає набір надійних, вузькоспеціалізованих і компонованих інструментів, які допомагають створювати, налаштовувати та розгортати застосунки в Kubernetes
+  vi: Carvel cung cấp bộ công cụ đáng tin cậy, chuyên dụng và có thể kết hợp, giúp bạn xây dựng, cấu hình và triển khai ứng dụng lên Kubernetes
 x:
   source: https://github.com/vmware-tanzu/carvel
   brew: carvel-dev/carvel/ytt

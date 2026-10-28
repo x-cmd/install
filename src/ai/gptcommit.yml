@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 LLM 撰写提交信息的 git prepare-commit-msg 钩子
   en: A git prepare-commit-msg hook for authoring commit messages with LLMs.
+  cs: Git hook prepare-commit-msg pro psaní commit zpráv pomocí LLM.
+  de: Ein Git-Hook prepare-commit-msg zum Verfassen von Commit-Nachrichten mit LLMs.
+  es: Un hook de git prepare-commit-msg para redactar mensajes de commit con LLMs.
+  fr: Un hook git prepare-commit-msg pour rédiger des messages de commit avec des LLM.
+  id: Hook git prepare-commit-msg untuk menulis pesan commit dengan LLM.
+  it: Un hook git prepare-commit-msg per scrivere i messaggi di commit con gli LLM.
+  ja: LLM でコミットメッセージを書くための git prepare-commit-msg フック。
+  ko: LLM으로 커밋 메시지를 작성하기 위한 git prepare-commit-msg 훅입니다.
+  pl: Hook git prepare-commit-msg do tworzenia komunikatów commitów przy użyciu LLM.
+  pt: Um hook git prepare-commit-msg para redigir mensagens de commit com LLMs.
+  ro: Un hook git prepare-commit-msg pentru redactarea mesajelor de commit cu LLM-uri.
+  ru: Хук git prepare-commit-msg для написания сообщений коммитов с помощью LLM.
+  th: hook git prepare-commit-msg สำหรับเขียนข้อความ commit ด้วย LLM
+  tr: LLM'lerle commit mesajı yazmak için bir git prepare-commit-msg hook'u.
+  uk: Хук git prepare-commit-msg для написання повідомлень комітів за допомогою LLM.
+  vi: Hook git prepare-commit-msg để soạn thông báo commit bằng LLM.
 x:
   source: https://github.com/zurawiki/gptcommit
   eget: zurawiki/gptcommit

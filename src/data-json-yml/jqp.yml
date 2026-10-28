@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于试验 jq 的 TUI
   en: a TUI playground for exploring jq
+  cs: TUI hřiště pro experimentování s jq
+  de: Eine TUI-Spielwiese zum Experimentieren mit jq
+  es: Un entorno de pruebas TUI para explorar jq
+  fr: Un terrain de jeu TUI pour explorer jq
+  id: Arena TUI untuk menjelajahi jq
+  it: Un playground TUI per esplorare jq
+  ja: jq を試すための TUI プレイグラウンド
+  ko: jq를 살펴보기 위한 TUI 플레이그라운드
+  pl: Piaskownica TUI do eksperymentowania z jq
+  pt: Um playground TUI para explorar o jq
+  ro: Un sandbox TUI pentru experimentarea cu jq
+  ru: TUI-песочница для исследования jq
+  th: สนามทดลองแบบ TUI สำหรับการสำรวจ jq
+  tr: jq'yi keşfetmek için bir TUI oyun alanı
+  uk: TUI-пісочниця для дослідження jq
+  vi: Một sân chơi TUI để khám phá jq
 x:
   source: https://github.com/noahgorstein/jqp
   eget: noahgorstein/jqp

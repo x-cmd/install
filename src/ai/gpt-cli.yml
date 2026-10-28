@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: ChatGPT、Claude 和 Bard 的命令行界面
   en: Command-line interface for ChatGPT, Claude and Bard
+  cs: Příkazový řádek rozhraní pro ChatGPT, Claude a Bard
+  de: Kommandozeilenoberfläche für ChatGPT, Claude und Bard
+  es: Interfaz de línea de comandos para ChatGPT, Claude y Bard
+  fr: Interface en ligne de commande pour ChatGPT, Claude et Bard
+  id: Antarmuka baris perintah untuk ChatGPT, Claude dan Bard
+  it: Interfaccia a riga di comando per ChatGPT, Claude e Bard
+  ja: ChatGPT、Claude、Bard のコマンドラインインターフェース
+  ko: ChatGPT, Claude, Bard를 위한 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla ChatGPT, Claude i Bard
+  pt: Interface de linha de comando para ChatGPT, Claude e Bard
+  ro: Interfață de linie de comandă pentru ChatGPT, Claude și Bard
+  ru: Интерфейс командной строки для ChatGPT, Claude и Bard
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ ChatGPT, Claude และ Bard
+  tr: ChatGPT, Claude ve Bard için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для ChatGPT, Claude та Bard
+  vi: Giao diện dòng lệnh cho ChatGPT, Claude và Bard
 x:
   source: https://github.com/kharvd/gpt-cli
   eget: kharvd/gpt-cli

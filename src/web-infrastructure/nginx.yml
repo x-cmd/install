@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: nginx 是一个 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，最初由 Igor Sysoev 编写
   en: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev
+  cs: nginx je HTTP a reverzní proxy server, poštovní proxy server a univerzální TCP/UDP proxy server, původně napsaný Igorem Sysoevem
+  de: nginx ist ein HTTP- und Reverse-Proxy-Server, ein Mail-Proxy-Server und ein universeller TCP/UDP-Proxy-Server, ursprünglich von Igor Sysoev geschrieben
+  es: nginx es un servidor HTTP y de proxy inverso, un servidor proxy de correo y un servidor proxy TCP/UDP genérico, escrito originalmente por Igor Sysoev
+  fr: nginx est un serveur HTTP et de proxy inverse, un serveur proxy de courrier et un serveur proxy TCP/UDP générique, écrit à l'origine par Igor Sysoev
+  id: nginx adalah server HTTP dan reverse proxy, server proxy email, serta server proxy TCP/UDP serbaguna, yang mulanya ditulis oleh Igor Sysoev
+  it: nginx è un server HTTP e reverse proxy, un server proxy di posta e un server proxy TCP/UDP generico, originariamente scritto da Igor Sysoev
+  ja: nginx は HTTP サーバー兼リバースプロキシ、メールプロキシ、汎用 TCP/UDP プロキシであり、Igor Sysoev によって最初に書かれたものです
+  ko: nginx는 HTTP 및 리버스 프록시 서버, 메일 프록시 서버, 범용 TCP/UDP 프록시 서버로, 원래 Igor Sysoev가 작성했습니다
+  pl: nginx to serwer HTTP i odwrotny proxy, serwer proxy poczty oraz uniwersalny serwer proxy TCP/UDP, pierwotnie napisany przez Igora Sysoeva
+  pt: nginx é um servidor HTTP e de proxy reverso, um servidor proxy de e-mail e um servidor proxy TCP/UDP genérico, escrito originalmente por Igor Sysoev
+  ro: nginx este un server HTTP și reverse proxy, un server proxy de e-mail și un server proxy TCP/UDP generic, scris inițial de Igor Sysoev
+  ru: nginx — это HTTP- и reverse-proxy сервер, почтовый прокси-сервер и универсальный TCP/UDP прокси-сервер, изначально написанный Игорем Сысоевым
+  th: nginx คือเซิร์ฟเวอร์ HTTP และ reverse proxy เซิร์ฟเวอร์ proxy อีเมล และเซิร์ฟเวอร์ proxy TCP/UDP ทั่วไป ซึ่งเดิมเขียนโดย Igor Sysoev
+  tr: nginx, bir HTTP ve reverse proxy sunucusu, bir posta proxy sunucusu ve genel bir TCP/UDP proxy sunucusudur; ilk olarak Igor Sysoev tarafından yazılmıştır
+  uk: nginx — це HTTP- та reverse-proxy сервер, поштовий проксі-сервер і універсальний TCP/UDP проксі-сервер, спочатку написаний Ігорем Сисоєвим
+  vi: nginx là máy chủ HTTP và reverse proxy, máy chủ proxy thư và máy chủ proxy TCP/UDP tổng quát, ban đầu được viết bởi Igor Sysoev
 x:
   source: https://github.com/nginx/nginx
   eget: nginx/nginx

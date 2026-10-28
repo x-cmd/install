@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 让学生、教育工作者和专业开发人员能够以前所未有的轻松方式创建、编辑和运行独立的 source-only Java 程序
   en: Enables students, educators, and professional developers to create, edit, and run standalone source-only Java programs easier than ever
+  cs: Umožňuje studentům, pedagogům a profesionálním vývojářům snadnoji vytvářet, upravovat a spouštět samostatné programy v čistém Java
+  de: Ermöglicht Studenten, Lehrenden und professionellen Entwicklern, eigenständige Java-Programme nur mit Quellcode einfacher denn je zu erstellen, zu bearbeiten und auszuführen
+  es: Permite que estudiantes, docentes y desarrolladores profesionales creen, editen y ejecuten programas Java independientes solo con código fuente más fácilmente que nunca
+  fr: Permet aux étudiants, aux enseignants et aux développeurs professionnels de créer, modifier et exécuter plus facilement que jamais des programmes Java autonomes uniquement en source
+  id: Memungkinkan siswa, pendidik, dan pengembang profesional membuat, mengedit, dan menjalankan program Java mandiri berbasis kode sumber dengan lebih mudah dari sebelumnya
+  it: Permette a studenti, docenti e sviluppatori professionali di creare, modificare ed eseguire più facilmente di prima programmi Java autonomi basati solo sul sorgente
+  ja: 学生、教育者、プロ開発者が、ソースのみの単独 Java プログラムをこれまで以上に簡単に作成、編集、実行できるようにします
+  ko: 학생, 교육자, 전문 개발자가 소스만으로 된 독립형 Java 프로그램을 이전보다 훨씬 쉽게 만들고 편집하고 실행할 수 있게 합니다
+  pl: Umożliwia studentom, nauczycielom i profesjonalnym deweloperom łatwiejsze niż kiedykolwiek tworzenie, edycję i uruchamianie samodzielnych programów w Javie opartych wyłącznie na kodzie źródłowym
+  pt: Permite que estudantes, educadores e desenvolvedores profissionais criem, editem e executem programas Java autônomos apenas com código-fonte de forma mais fácil do que nunca
+  ro: Permite studenților, educatorilor și dezvoltatorilor profesioniști să creeze, să editeze și să ruleze mai ușor ca oricând programe Java autonome doar din cod sursă
+  ru: Позволяет студентам, преподавателям и профессиональным разработчикам проще, чем когда-либо, создавать, редактировать и запускать автономные Java-программы, состоящие только из исходного кода
+  th: ช่วยให้นักเรียน ผู้สอน และนักพัฒนามืออาชีพสามารถสร้าง แก้ไข และรันโปรแกรม Java แบบสแตนด์อโลนที่มีเฉพาะซอร์สโค้ดได้อย่างง่ายดายกว่าที่เคย
+  tr: Öğrencilerin, eğitmenlerin ve profesyonel geliştiricilerin yalnızca kaynak koddan oluşan bağımsız Java programlarını daha önce hiç olmadığı kadar kolayca oluşturmasını, düzenlemesini ve çalıştırmasını sağlar
+  uk: Дає змогу студентам, викладачам і професійним розробникам простіше, ніж будь-коли, створювати, редагувати та запускати автономні Java-програми, що складаються лише з вихідного коду
+  vi: Giúp sinh viên, giảng viên và nhà phát triển chuyên nghiệp dễ dàng tạo, chỉnh sửa và chạy các chương trình Java độc lập chỉ dựa trên mã nguồn hơn bao giờ hết
 x:
   source: https://github.com/jbangdev/jbang
   eget: jbangdev/jbang

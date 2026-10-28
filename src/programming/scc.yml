@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 一个非常快速、准确的代码计数器
   en: A very fast, accurate code counter
+  cs: Velmi rychlý a přesný počítač kódu
+  de: Ein sehr schneller, genauer Codezähler
+  es: Un contador de código muy rápido y preciso
+  fr: Un compteur de code très rapide et précis
+  id: Penghitung kode yang sangat cepat dan akurat
+  it: Un contatore di codice molto veloce e accurato
+  ja: 非常に高速で正確なコードカウンター
+  ko: 매우 빠르고 정확한 코드 카운터
+  pl: Bardzo szybki i dokładny licznik kodu
+  pt: Um contador de código muito rápido e preciso
+  ro: Un contor de cod foarte rapid și precis
+  ru: Очень быстрый и точный счётчик кода
+  th: ตัวนับโค้ดที่เร็วมากและแม่นยำ
+  tr: Çok hızlı ve doğru bir kod sayacı
+  uk: Дуже швидкий і точний лічильник коду
+  vi: Bộ đếm mã rất nhanh và chính xác
 homepage: https://github.com/boyter/scc
 license: MIT
 x:

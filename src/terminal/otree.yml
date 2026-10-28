@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于查看 TUI 树小部件中的对象 (JSON/YAML/TOML) 的命令行工具
   en: A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget
+  cs: Nástroj příkazové řádky pro zobrazení objektů (JSON/YAML/TOML) ve widgetu stromu TUI
+  de: Ein Kommandozeilenwerkzeug zum Anzeigen von Objekten (JSON/YAML/TOML) im TUI-Baum-Widget
+  es: Una herramienta de línea de comandos para ver objetos (JSON/YAML/TOML) en el widget de árbol TUI
+  fr: Un outil en ligne de commande pour afficher des objets (JSON/YAML/TOML) dans le widget d'arbre TUI
+  id: Alat baris perintah untuk melihat objek (JSON/YAML/TOML) pada widget pohon TUI
+  it: Uno strumento da riga di comando per visualizzare oggetti (JSON/YAML/TOML) nel widget ad albero TUI
+  ja: TUI ツリーウィジェット内でオブジェクト (JSON/YAML/TOML) を閲覧するためのコマンドラインツール
+  ko: TUI 트리 위젯에서 객체(JSON/YAML/TOML)를 확인하는 명령줄 도구
+  pl: Narzędzie wiersza poleceń do przeglądania obiektów (JSON/YAML/TOML) w widżecie drzewa TUI
+  pt: Uma ferramenta de linha de comando para ver objetos (JSON/YAML/TOML) no widget de árvore TUI
+  ro: Un instrument de linie de comandă pentru a vedea obiecte (JSON/YAML/TOML) în widgetul de arbore TUI
+  ru: Командная утилита для просмотра объектов (JSON/YAML/TOML) в виджете дерева TUI
+  th: เครื่องมือบรรทัดคำสั่งสำหรับดูวัตถุ (JSON/YAML/TOML) ในวิดเจ็ตต้นไม้ TUI
+  tr: TUI ağaç widget'ı içinde nesneleri (JSON/YAML/TOML) görüntülemek için bir komut satırı aracı
+  uk: Інструмент командного рядка для перегляду об'єктів (JSON/YAML/TOML) у віджеті дерева TUI
+  vi: Công cụ dòng lệnh để xem các đối tượng (JSON/YAML/TOML) trong widget cây TUI
 x:
   source: https://github.com/fioncat/otree
   eget: fioncat/otree

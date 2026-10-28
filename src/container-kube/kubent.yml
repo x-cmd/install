@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 轻松检查集群是否使用了已弃用的 API
   en: Easily check your clusters for use of deprecated APIs
+  cs: Snadno zkontrolovat, zda vaše clustery nepoužívají zastarané API
+  de: Einfach prüfen, ob Ihre Cluster veraltete APIs verwenden
+  es: Comprueba fácilmente si tus clústeres usan API obsoletas
+  fr: Vérifiez facilement si vos clusters utilisent des API obsolètes
+  id: Mudah memeriksa apakah klaster Anda menggunakan API yang telah usang
+  it: Controlla facilmente se i tuoi cluster usano API deprecate
+  ja: クラスターが非推奨の API を使用していないか簡単に確認できます
+  ko: 클러스터가 더 이상 사용되지 않는 API를 사용하는지 쉽게 확인할 수 있습니다
+  pl: Łatwo sprawdź, czy Twoje klastry używają przestarzałych API
+  pt: Verifique facilmente se os seus clusters usam APIs obsoletas
+  ro: Verifică cu ușurință dacă clusterele tale folosesc API-uri depreciate
+  ru: Легко проверить, используют ли ваши кластеры устаревшие API
+  th: ตรวจสอบได้ง่ายว่าคลัสเตอร์ของคุณใช้ API ที่เลิกรองรับหรือไม่
+  tr: Kümelerinizin kullanımdan kaldırılmış API'ler kullanıp kullanmadığını kolayca kontrol edin
+  uk: Легко перевірити, чи ваші кластери використовують застарілі API
+  vi: Dễ dàng kiểm tra xem cụm của bạn có sử dụng API lỗi thời hay không
 x:
   source: https://github.com/doitintl/kube-no-trouble
   eget: doitintl/kube-no-trouble

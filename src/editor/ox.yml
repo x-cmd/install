@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: Ox is a text editor that can be used to write everything from text to code
   cn: Ox 是一款文本编辑器，可以用来编写从文本到代码的各种内容。
+  cs: Ox je textový editor, kterým lze psát vše od textu po kód
+  de: Ox ist ein Texteditor, mit dem alles vom Text bis zum Code geschrieben werden kann
+  es: Ox es un editor de texto que se puede usar para escribir de todo, desde texto hasta código
+  fr: Ox est un éditeur de texte permettant d'écrire tout, du texte au code
+  id: Ox adalah editor teks yang dapat digunakan untuk menulis segala hal, mulai dari teks hingga kode
+  it: Ox è un editor di testo utilizzabile per scrivere di tutto, dal testo al codice
+  ja: Ox はテキストからコードまで何でも書けるテキストエディタです
+  ko: Ox는 텍스트부터 코드까지 무엇이든 작성할 수 있는 텍스트 에디터입니다
+  pl: Ox to edytor tekstu, który można używać do pisania wszystkiego, od tekstu po kod
+  pt: Ox é um editor de texto que pode ser usado para escrever de tudo, de texto a código
+  ro: Ox este un editor de text care poate fi folosit pentru a scrie orice, de la text la cod
+  ru: "Ox — это текстовый редактор, в котором можно писать всё: от обычного текста до кода"
+  th: Ox เป็นโปรแกรมแก้ไขข้อความที่ใช้เขียนได้ทุกอย่าง ตั้งแต่ข้อความธรรมดาจนถึงโค้ด
+  tr: Ox, metinden koda kadar her şeyi yazmak için kullanılabilen bir metin düzenleyicisidir
+  uk: "Ox — це текстовий редактор, у якому можна писати все: від звичайного тексту до коду"
+  vi: Ox là trình soạn thảo văn bản có thể dùng để viết mọi thứ, từ văn bản đến mã nguồn
 x:
   source: https://github.com/curlpipe/ox
   eget: curlpipe/ox

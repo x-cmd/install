@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 多次运行命令并通过 TUI 浏览输出的工具
   en: 'Run a command multiple times and glance at the outputs via a TUI'
+  cs: Spusťte příkaz vícekrát a nahlédněte na výstupy pomocí TUI
+  de: Führen Sie einen Befehl mehrmals aus und werfen Sie einen Blick auf die Ausgaben über eine TUI
+  es: Ejecute un comando varias veces e inspeccione las salidas mediante una TUI
+  fr: Exécutez une commande plusieurs fois et jetez un œil aux sorties via une TUI
+  id: Jalankan perintah beberapa kali dan lihat sekilas outputnya melalui TUI
+  it: Esegui un comando più volte e dai un'occhiata agli output tramite una TUI
+  ja: コマンドを複数回実行し、TUI 出力をひと目で確認します
+  ko: 명령을 여러 번 실행하고 TUI로 출력을 한눈에 확인하세요
+  pl: Uruchom polecenie wielokrotnie i zajrzyj w wyniki za pomocą TUI
+  pt: Execute um comando várias vezes e dê uma olhada nas saídas por meio de uma TUI
+  ro: Rulați o comandă de mai multe ori și aruncați o privire la ieșiri prin intermediul unui TUI
+  ru: Запускайте команду несколько раз и бегло просматривайте вывод через TUI
+  th: รันคำสั่งหลายครั้งและดูผลลัพธ์อย่างรวดเร็วผ่าน TUI
+  tr: Bir komutu birden fazla kez çalıştırın ve TUI ile çıktılara göz atın
+  uk: Запускайте команду кілька разів і швидко переглядайте вивід через TUI
+  vi: Chạy một lệnh nhiều lần và lướt xem đầu ra qua TUI
 x:
   source: https://github.com/dhth/mult
   eget: dhth/mult

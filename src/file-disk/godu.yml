@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于发现大文件或文件夹的 golang 程序
   en: Simple golang utility helping to discover large files/folders
+  cs: Jednoduchý nástroj v Go, který pomáhá nacházet velké soubory a složky
+  de: Einfaches Go-Dienstprogramm zum Auffinden großer Dateien und Ordner
+  es: Utilidad sencilla en Go que ayuda a descubrir archivos y carpetas grandes
+  fr: Utilitaire simple en Go qui aide à découvrir les gros fichiers et dossiers
+  id: Utilitas Go sederhana yang membantu menemukan file dan folder besar
+  it: Semplice utility in Go che aiuta a individuare file e cartelle grandi
+  ja: 大きなファイルやフォルダを見つけるためのシンプルな Go ユーティリティ
+  ko: 큰 파일과 폴더를 찾는 데 도움을 주는 간단한 Go 유틸리티
+  pl: Proste narzędzie w Go pomagające odnajdywać duże pliki i foldery
+  pt: Utilitário simples em Go que ajuda a descobrir arquivos e pastas grandes
+  ro: Utilitate simplă în Go care ajută la descoperirea fișierelor și folderelor mari
+  ru: Простая утилита на Go, помогающая находить большие файлы и папки
+  th: ยูทิลิตี้ภาษา Go แบบง่าย ๆ ที่ช่วยค้นหาไฟล์และโฟลเดอร์ขนาดใหญ่
+  tr: Büyük dosyaları ve klasörleri bulmaya yardımcı olan basit bir Go aracı
+  uk: Проста утиліта на Go, що допомагає знаходити великі файли та папки
+  vi: Tiện ích Go đơn giản giúp phát hiện các tệp và thư mục lớn
 x:
   source: https://github.com/viktomas/godu
   eget: viktomas/godu

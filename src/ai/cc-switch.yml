@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: CC-Switch 是一款跨平台桌面应用，用于统一管理和一键切换多个 AI CLI 编程助手（Claude Code、Codex、Gemini CLI 等）的 API 配置、MCP 服务器和 Skills。
   en: CC-Switch is a cross-platform desktop app for unified management and one-click switching of API configurations, MCP servers, and Skills across multiple AI CLI coding assistants.
+  cs: CC-Switch je multiplatformní desktopová aplikace pro jednotnou správu a přepínání API konfigurací, MCP serverů a Skills napříč více AI CLI programovacími asistenty.
+  de: CC-Switch ist eine plattformübergreifende Desktop-App für die einheitliche Verwaltung und das Ein-Klick-Wechseln von API-Konfigurationen, MCP-Servern und Skills über mehrere KI-CLI-Coding-Assistenten hinweg.
+  es: CC-Switch es una aplicación de escritorio multiplataforma para la gestión unificada y el cambio con un clic de configuraciones de API, servidores MCP y Skills en varios asistentes de programación con IA based en CLI.
+  fr: CC-Switch est une application de bureau multiplateforme permettant la gestion unifiée et la bascule en un clic des configurations d'API, des serveurs MCP et des Skills entre plusieurs assistants de codage IA en CLI.
+  id: CC-Switch adalah aplikasi desktop lintas platform untuk manajemen terpadu dan pergantian sekali klik pada konfigurasi API, server MCP, dan Skills di berbagai asisten coding AI berbasis CLI.
+  it: CC-Switch è un'app desktop multipiattaforma per la gestione unificata e il passaggio con un clic delle configurazioni API, dei server MCP e delle Skills tra più assistenti di codifica AI basati su CLI.
+  ja: CC-Switch は、複数の AI CLI コーディングアシスタントの API 設定、MCP サーバー、Skills を一元管理しワンクリックで切り替えられるクロスプラットフォームのデスクトップアプリです。
+  ko: CC-Switch는 여러 AI CLI 코딩 어시스턴트의 API 설정, MCP 서버, Skills를 통합 관리하고 원클릭으로 전환할 수 있는 크로스 플랫폼 데스크톱 앱입니다.
+  pl: CC-Switch to wieloplatformowa aplikacja desktopowa do ujednoliconego zarządzania i jednoklikowego przełączania konfiguracji API, serwerów MCP i Skills w wielu asystentach kodowania AI opartych na CLI.
+  pt: O CC-Switch é um aplicativo de desktop multiplataforma para gerenciamento unificado e troca com um clique de configurações de API, servidores MCP e Skills em vários assistentes de programação com IA baseados em CLI.
+  ro: CC-Switch este o aplicație desktop multiplatformă pentru gestionarea unificată și comutarea cu un singur clic a configurațiilor API, a serverelor MCP și a Skills-urilor în mai mulți asistenți de codare AI bazati pe CLI.
+  ru: CC-Switch — кроссплатформенное десктопное приложение для централизованного управления и переключения в один клик конфигураций API, MCP-серверов и Skills для нескольких AI CLI-помощников по программированию.
+  th: CC-Switch เป็นแอปเดสก์ท็อปข้ามแพลตฟอร์มสำหรับการจัดการแบบรวมศูนย์และการสลับ API configuration, MCP server และ Skills ระหว่างผู้ช่วยเขียนโค้ด AI ที่ใช้ CLI หลายตัวด้วยคลิกเดียว
+  tr: CC-Switch, birden çok CLI tabanlı AI kodlama asistanında API yapılandırmalarını, MCP sunucularını ve Skills öğelerini tek çatı altında yönetmeye ve tek tıkla geçiş yapmaya yarayan platformlar arası bir masaüstü uygulamasıdır.
+  uk: CC-Switch — кроссплатформенний десктопний застосунок для єдиного керування та перемикання одним кліком конфігурацій API, MCP-серверів і Skills серед кількох AI CLI-помічників з програмування.
+  vi: CC-Switch là ứng dụng desktop đa nền tảng để quản lý hợp nhất và chuyển đổi bằng một cú nhấp các cấu hình API, máy chủ MCP và Skills trên nhiều trợ lý lập trình AI dựa trên CLI.
 x:
   source: https://github.com/farion1231/cc-switch
   brew: farion1231/ccswitch/--cask

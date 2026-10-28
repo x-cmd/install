@@ -3,6 +3,22 @@ homepage: https://github.com/curl/curl
 desc:
   cn: 一个使用 URL 语法传输数据的命令行工具
   en: A command line tool for transferring data with URL syntax
+  cs: Nástroj příkazové řádky pro přenos dat s použitím syntaxe URL
+  de: Ein Kommandozeilen-Tool zur Datenübertragung mit URL-Syntax
+  es: Una herramienta de línea de comandos para transferir datos con sintaxis de URL
+  fr: Un outil en ligne de commande pour transférer des données avec la syntaxe URL
+  id: Alat baris perintah untuk mentransfer data dengan sintaks URL
+  it: Uno strumento da riga di comando per trasferire dati con la sintassi URL
+  ja: URL 構文を使ってデータを転送するコマンドラインツール
+  ko: URL 구문을 사용하여 데이터를 전송하는 명령줄 도구
+  pl: Narzędzie wiersza poleceń do przesyłania danych przy użyciu składni URL
+  pt: Uma ferramenta de linha de comando para transferir dados com sintaxe de URL
+  ro: Un instrument de linie de comand pentru transferul de date folosind sintaxa URL
+  ru: Командный инструмент для передачи данных с использованием синтаксиса URL
+  th: เครื่องมือบรรทัดคำสั่งสำหรับถ่ายโอนข้อมูลด้วยไวยากรณ์ URL
+  tr: URL sözdizimiyle veri aktarımı için bir komut satırı aracı
+  uk: Командний інструмент для передачі даних із використанням синтаксису URL
+  vi: Công cụ dòng lệnh để truyền dữ liệu bằng cú pháp URL
 x:
   source: https://github.com/curl/curl
   eget: curl/curl

@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 单文件 Rust 二进制、零依赖的 CLI 代理，可将常见开发命令的 LLM token 消耗降低 60-90%
   en: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+  cs: CLI proxy, které snižuje spotřebu LLM tokenů o 60-90 % u běžných vývojářských příkazů. Jediný Rust binární soubor, žádné závislosti
+  de: CLI-Proxy, das den LLM-Token-Verbrauch bei gängigen Entwicklungsbefehlen um 60-90 % reduziert. Einzelne Rust-Binärdatei, keine Abhängigkeiten
+  es: Proxy de CLI que reduce el consumo de tokens de LLM en un 60-90 % en comandos de desarrollo comunes. Un único binario de Rust, sin dependencias
+  fr: Proxy CLI qui réduit la consommation de jetons LLM de 60 à 90 % sur les commandes de développement courantes. Binaire Rust unique, zéro dépendance
+  id: Proxy CLI yang mengurangi konsumsi token LLM sebesar 60-90% pada perintah pengembangan umum. Binary Rust tunggal, tanpa dependensi
+  it: Proxy CLI che riduce il consumo di token LLM del 60-90% sui comuni comandi di sviluppo. Singolo binario Rust, zero dipendenze
+  ja: 一般的な開発コマンドで LLM トークン消費量を 60-90% 削減する CLI プロキシ。単一 Rust バイナリ、依存関係ゼロ
+  ko: 일반적인 개발 명령에서 LLM 토큰 소비를 60-90% 줄이는 CLI 프록시. 단일 Rust 바이너리, 의존성 없음
+  pl: Proxy CLI, które zmniejsza zużycie tokenów LLM o 60-90% przy typowych poleceniach deweloperskich. Jeden binarny plik Rust, zero zależności
+  pt: Proxy de CLI que reduz o consumo de tokens de LLM em 60-90% em comandos de desenvolvimento comuns. Binário Rust único, sem dependências
+  ro: Proxy CLI care reduce consumul de tokenuri LLM cu 60-90% la comenzile de dezvoltare uzuale. Un singur binar Rust, fără dependențe
+  ru: CLI-прокси, снижающий расход LLM-токенов на 60-90% при типичных командах разработки. Один бинарный файл на Rust, без зависимостей
+  th: พร็อกซี CLI ที่ลดการใช้โทเคน LLM ได้ 60-90% ในคำสั่งพัฒนาทั่วไป ไบนารี Rust ไฟล์เดียว ไม่มีการพึ่งพา
+  tr: Yaygın geliştirme komutlarında LLM token tüketimini %60-90 azaltan CLI vekil sunucusu. Tek Rust ikili dosyası, sıfır bağımlılık
+  uk: CLI-проксі, що знижує витрати LLM-токенів на 60-90% під час типових команд розробки. Один двійковий файл на Rust, без залежностей
+  vi: Proxy CLI giảm mức tiêu thụ token LLM 60-90% với các lệnh phát triển thông thường. Một tệp nhị phân Rust duy nhất, không phụ thuộc
 x:
   source: https://github.com/rtk-ai/rtk
   eget: rtk-ai/rtk

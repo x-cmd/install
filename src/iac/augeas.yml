@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: Augeas 是一个配置编辑工具
   en: Augeas is a configuration editing tool
+  cs: Augeas je nástroj pro úpravu konfigurace
+  de: Augeas ist ein Konfigurations-Editor
+  es: Augeas es una herramienta de edición de configuración
+  fr: Augeas est un outil d'édition de configuration
+  id: Augeas adalah alat untuk mengedit konfigurasi
+  it: Augeas è uno strumento di modifica della configurazione
+  ja: Augeas は設定編集ツールです
+  ko: Augeas는 구성 편집 도구입니다
+  pl: Augeas to narzędzie do edycji konfiguracji
+  pt: Augeas é uma ferramenta de edição de configuração
+  ro: Augeas este un instrument de editare a configurației
+  ru: Augeas — инструмент для редактирования конфигурации
+  th: Augeas เป็นเครื่องมือแก้ไขการตั้งค่า
+  tr: Augeas, yapılandırma düzenleme aracıdır
+  uk: Augeas — інструмент для редагування конфігурації
+  vi: Augeas là công cụ chỉnh sửa cấu hình
 x:
   source: https://github.com/hercules-team/augeas
   eget: hercules-team/augeas

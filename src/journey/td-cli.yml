@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个命令行待办事项管理器
   en: A todo command line todo manager
+  cs: Nástroj pro správu úkolů v příkazovém řádku
+  de: Ein Aufgabenverwalter für die Kommandozeile
+  es: Un gestor de tareas de la línea de comandos
+  fr: Un gestionnaire de tâches en ligne de commande
+  id: Manajer tugas baris perintah
+  it: Un gestore di attività da riga di comando
+  ja: コマンドラインの ToDo マネージャー
+  ko: 명령줄 할 일 관리자
+  pl: Menedżer zadań w wierszu poleceń
+  pt: Um gerenciador de tarefas de linha de comando
+  ro: Un manager de sarcini pentru linia de comandă
+  ru: Менеджер задач для командной строки
+  th: ตัวจัดการงานที่ต้องทำบนบรรทัดคำสั่ง
+  tr: Komut satırı için bir yapılacaklar yöneticisi
+  uk: Менеджер завдань для командного рядка
+  vi: Trình quản lý việc cần làm trên dòng lệnh
 x:
   source: https://github.com/darrikonn/td-cli
   pip: td-cli

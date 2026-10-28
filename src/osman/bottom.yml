@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于终端的可定制跨平台图形流程/系统监视器
   en: A customizable cross-platform graphical process/system monitor for the terminal
+  cs: Přizpůsobitelný multiplatformní grafický monitor procesů a systému pro terminál
+  de: Ein anpassbarer plattformübergreifender grafischer Prozess-/Systemmonitor für das Terminal
+  es: Un monitor gráfico de procesos/sistema multiplataforma y personalizable para el terminal
+  fr: Un moniteur graphique de processus/système multiplateforme et personnalisable pour le terminal
+  id: Monitor proses/sistem grafis lintas platform yang dapat dikustomisasi untuk terminal
+  it: Un monitor grafico di processi/sistema multipiattaforma e personalizzabile per il terminale
+  ja: ターミナル向けのカスタマイズ可能なクロスプラットフォームのプロセス/システムモニター
+  ko: 터미널을 위한 사용자 정의 가능한 크로스 플랫폼 그래픽 프로세스/시스템 모니터
+  pl: Konfigurowalny, wieloplatformowy graficzny monitor procesów i systemu dla terminala
+  pt: Um monitor gráfico de processo/sistema multiplataforma e personalizável para o terminal
+  ro: Un monitor grafic de procese/sistem multiplatformă și personalizabil pentru terminal
+  ru: Настраиваемый кроссплатформенный графический монитор процессов и системы для терминала
+  th: มอนิเตอร์กราฟิกกระบวนการ/ระบบแบบกำหนดเองข้ามแพลตฟอร์มสำหรับเทอร์มินัล
+  tr: Terminal için özelleştirilebilir, platformlar arası grafik işlem/sistem izleyicisi
+  uk: Налаштовуваний кросплатформний графічний монітор процесів і системи для термінала
+  vi: Trình theo dõi tiến trình/hệ thống đồ họa đa nền tảng có thể tùy chỉnh cho terminal
 x:
   source: https://github.com/ClementTsang/bottom
   eget: ClementTsang/bottom

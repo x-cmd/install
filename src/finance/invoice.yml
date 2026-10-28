@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 命令行发票生成器
   en: Generate invoices from the command line
+  cs: Generujte faktury z příkazové řádky
+  de: Rechnungen über die Kommandozeile erzeugen
+  es: Genera facturas desde la línea de comandos
+  fr: Générez des factures depuis la ligne de commande
+  id: Buat faktur dari baris perintah
+  it: Genera fatture dalla riga di comando
+  ja: コマンドラインから請求書を作成します。
+  ko: 명령줄에서 청구서를 생성합니다.
+  pl: Generuj faktury z wiersza poleceń
+  pt: Gere faturas a partir da linha de comando
+  ro: Generați facturi din linia de comandă
+  ru: Создавайте счета из командной строки
+  th: สร้างใบแจ้งหนี้จากบรรทัดคำสั่ง
+  tr: Komut satırından fatura oluşturun.
+  uk: Створюйте рахунки з командного рядка
+  vi: Tạo hóa đơn từ dòng lệnh
 x:
   source: https://github.com/maaslalani/invoice
   eget: maaslalani/invoice

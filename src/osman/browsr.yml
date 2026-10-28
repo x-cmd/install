@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中愉快的文件浏览器，支持所有文件系统
   en: '🗂️ a pleasant file explorer in your terminal supporting all filesystems'
+  cs: 🗂️ Příjemný prohlížeč souborů ve vašem terminálu podporující všechny souborové systémy
+  de: 🗂️ Ein angenehmer Dateiexplorer in Ihrem Terminal, der alle Dateisysteme unterstützt
+  es: 🗂️ Un pleasant explorador de archivos en tu terminal que admite todos los sistemas de archivos
+  fr: 🗂️ Un explorateur de fichiers agréable dans votre terminal, compatible avec tous les systèmes de fichiers
+  id: 🗂️ Penjelajah file yang menyenangkan di terminal Anda yang mendukung semua sistem file
+  it: 🗂️ Un piacevole gestore di file nel terminale che supporta tutti i file system
+  ja: 🗂️ すべてのファイルシステムに対応した、ターミナルで使いやすいファイルブラウザー
+  ko: 🗂️ 터미널에서 사용할 수 있는 모든 파일 시스템을 지원하는 편리한 파일 탐색기
+  pl: 🗂️ Przyjemna przeglądarka plików w terminalu obsługująca wszystkie systemy plików
+  pt: 🗂️ Um explorador de arquivos agradável no seu terminal, com suporte a todos os sistemas de arquivos
+  ro: 🗂️ Un explorator de fișiere plăcut în terminalul tău, care acceptă toate sistemele de fișiere
+  ru: 🗂️ Удобный файловый менеджер в терминале с поддержкой всех файловых систем
+  th: 🗂️ ตัวสำรวจไฟล์ที่ใช้งานง่ายในเทอร์มินัล รองรับระบบไฟล์ทั้งหมด
+  tr: 🗂️ Terminalinizde tüm dosya sistemlerini destekleyen kullanışlı bir dosya gezgini
+  uk: 🗂️ Зручний провідник файлів у терміналі з підтримкою всіх файлових систем
+  vi: 🗂️ Trình duyệt tệp thân thiện trong terminal của bạn, hỗ trợ mọi hệ thống tệp
 x:
   source: https://github.com/juftin/browsr
   eget: juftin/browsr

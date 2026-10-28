@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 现代 TUI 日历和任务管理器，界面可自定义。
   en: Modern TUI calendar and task manager with customizable interface
+  cs: Moderní TUI kalendář a správce úkolů s přizpůsobitelným rozhraním
+  de: Modernes TUI- Kalender und Aufgabenmanager mit anpassbarer Oberfläche
+  es: Calendario TUI y gestor de tareas moderno con interfaz personalizable
+  fr: Calendrier TUI et gestionnaire de tâches moderne avec interface personnalisable
+  id: Kalender TUI modern dan pengelola tugas dengan antarmuka yang dapat dikustomisasi
+  it: Calendario TUI e gestore delle attività moderno con interfaccia personalizzabile
+  ja: カスタマイズ可能なインターフェースを持つモダンなTUIカレンダーおよびタスクマネージャー
+  ko: 인터페이스를 사용자 지정할 수 있는 현대적인 TUI 캘린더 및 작업 관리 도구
+  pl: Nowoczesny kalendarz TUI i menedżer zadań z konfigurowalnym interfejsem
+  pt: Calendário TUI e gerenciador de tarefas moderno com interface personalizável
+  ro: Calendar TUI și manager de sarcini modern, cu interfață personalizabilă
+  ru: Современный TUI-календарь и менеджер задач с настраиваемым интерфейсом
+  th: ปฏิทิน TUI และตัวจัดการงานสมัยใหม่พร้อมอินเทอร์เฟซที่ปรับแต่งได้
+  tr: Özelleştirilebilir arayüze sahip modern TUI takvim ve görev yöneticisi
+  uk: Сучасний TUI-календар і менеджер завдань із налаштовуваним інтерфейсом
+  vi: Lịch TUI hiện đại và trình quản lý công việc với giao diện tùy chỉnh
 x:
   source: https://github.com/anufrievroman/calcure
   yay: calcure

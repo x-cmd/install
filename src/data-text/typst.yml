@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: Typst 的 CLI(Typst 是一种新的基于标记的排版系统，其设计与 LaTeX 一样强大，同时更易于学习和使用)
   en: The CLI of Typst (Typst is a new mark-up typesetting system, designed to be as powerful as LaTeX, but easier to learn and use)
+  cs: CLI systému Typst (Typst je nový systém značkového sazbování, navržený stejně mocný jako LaTeX, ale snazší na naučení a používání)
+  de: Die CLI von Typst (Typst ist ein neues Markup-Satzsystem, das so leistungsfähig wie LaTeX, aber leichter zu erlernen und zu bedienen ist)
+  es: La CLI de Typst (Typst es un nuevo sistema de composición tipográfica basado en marcado, diseñado para ser tan potente como LaTeX, pero más fácil de aprender y usar)
+  fr: La CLI de Typst (Typst est un nouveau système de composition par balisage, conçu pour être aussi puissant que LaTeX, mais plus facile à apprendre et à utiliser)
+  id: CLI dari Typst (Typst adalah sistem typesetting markup baru yang dirancang sama powerful dengan LaTeX, tetapi lebih mudah dipelajari dan digunakan)
+  it: La CLI di Typst (Typst è un nuovo sistema di impaginazione basato su markup, progettato per essere potente quanto LaTeX, ma più facile da imparare e usare)
+  ja: Typst の CLI（Typst は LaTeX に匹敵する力を持ちながら、学習と使用がより容易な新しいマークアップ組版システムです）
+  ko: Typst의 CLI(Typst는 LaTeX만큼 강력하면서도 배우고 사용하기 쉽게 설계된 새로운 마크업 조판 시스템입니다)
+  pl: CLI systemu Typst (Typst to nowy system składu opartego na znacznikach, zaprojektowany tak potężny jak LaTeX, ale łatwiejszy do nauki i użycia)
+  pt: A CLI do Typst (Typst é um novo sistema de composição tipográfica baseado em marcação, projetado para ser tão poderoso quanto o LaTeX, mas mais fácil de aprender e usar)
+  ro: CLI-ul Typst (Typst este un nou sistem de compunere bazat pe marcaje, conceput să fie la fel de puternic ca LaTeX, dar mai ușor de învățat și de folosit)
+  ru: CLI системы Typst (Typst — новая система вёрстки на основе разметки, созданная, чтобы быть столь же мощной, как LaTeX, но более простой в изучении и использовании)
+  th: CLI ของ Typst (Typst คือระบบเรียงพิมพ์แบบมาร์กอัพใหม่ ที่ออกแบบให้มีพลังเทียบเท่า LaTeX แต่เรียนรู้และใช้งานได้ง่ายกว่า)
+  tr: Typst'in CLI'sı (Typst, LaTeX kadar güçlü ama öğrenmesi ve kullanımı daha kolay olacak şekilde tasarlanmış yeni bir biçimlendirme sistemidir)
+  uk: CLI системи Typst (Typst — нова система верстки на основі розмітки, створена, щоб бути такою ж потужною, як LaTeX, але простішою у вивченні та використанні)
+  vi: CLI của Typst (Typst là một hệ thống định dạng văn bản dựa trên đánh dấu mới, được thiết kế mạnh mẽ không kém LaTeX nhưng dễ học và sử dụng hơn)
 homepage: https://github.com/typst/typst
 license: Apache-2.0
 x:

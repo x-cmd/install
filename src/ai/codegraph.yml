@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 将代码库索引为本地知识图谱，用高效的图查询替代文件遍历，让 AI 编码智能体更快更省
   en: Indexes your codebase into a local knowledge graph to make AI coding agents faster and cheaper by replacing file exploration with efficient graph queries.
+  cs: Indexuje vaši kódovou základnu do místního znalostního grafu, aby byli AI kódující agenti rychlejší a levnější nahrazením průzkumu souborů efektivními dotazy na graf.
+  de: Indiziert Ihre Codebasis in einen lokalen Wissensgraphen und macht KI-Coding-Agenten schneller und günstiger, indem Datei-Exploration durch effiziente Graphabfragen ersetzt wird.
+  es: Indexa tu base de código en un grafo de conocimiento local para que los agentes de codificación con IA sean más rápidos y económicos, sustituyendo la exploración de archivos por consultas de grafo eficientes.
+  fr: Indexe votre base de code dans un graphe de connaissances local afin de rendre les agents de code IA plus rapides et moins coûteux, en remplaçant l'exploration des fichiers par des requêtes de graphe efficaces.
+  id: Mengindeks basis kode Anda ke dalam grafik pengetahuan lokal agar agen coding AI menjadi lebih cepat dan murah dengan mengganti penjelajahan file dengan kueri grafik yang efisien.
+  it: Indicizza la tua base di codice in un grafo della conoscenza locale per rendere gli agenti di codifica IA più veloci ed economici, sostituendo l'esplorazione dei file con query efficienti sul grafo.
+  ja: コードベースをローカルのナレッジグラフにインデックス化し、ファイル探索を効率的なグラフクエリに置き換えることで、AI コーディングエージェントを高速かつ安価にします。
+  ko: 코드베이스를 로컬 지식 그래프로 인덱싱하여 파일 탐색을 효율적인 그래프 질의로 대체함으로써 AI 코딩 에이전트를 더 빠르고 저렴하게 만듭니다.
+  pl: Indeksuje Twoją bazę kodu do lokalnego grafu wiedzy, dzięki czemu agenci kodujący AI działają szybciej i taniej, zastępując eksplorację plików wydajnymi zapytaniami do grafu.
+  pt: Indexa sua base de código em um grafo de conhecimento local, tornando agentes de codificação com IA mais rápidos e baratos ao substituir a exploração de arquivos por consultas de grafo eficientes.
+  ro: Indexează baza ta de cod într-un graf de cunoștințe local, făcând agenții de cod cu IA mai rapizi și mai ieftini prin înlocuirea explorării fișierelor cu interogări eficiente ale grafului.
+  ru: Индексирует вашу кодовую базу в локальный граф знаний, делая ИИ-агентов программирования быстрее и дешевле за счёт замены обхода файлов эффективными запросами к графу.
+  th: ทำดัชนีฐานโค้ดของคุณเป็นกราฟความรู้ในเครื่อง เพื่อให้เอเจนต์เขียนโค้ดด้วย AI เร็วขึ้นและประหยัดขึ้น โดยแทนที่การสำรวจไฟล์ด้วยการคิวรีกราฟอย่างมีประสิทธิภาพ
+  tr: Kod tabanınızı yerel bir bilgi grafiğine dizerek, dosya keşfini verimli graf sorgularıyla değiştirir ve AI kodlama ajanlarını daha hızlı ve daha ucuz hâle getirir.
+  uk: Індексує вашу кодову базу в локальний граф знань, завдяки чому агенти програмування на ШІ стають швидшими та дешевшими завдяки заміні обходу файлів ефективними запитами до графу.
+  vi: Lập chỉ mục codebase của bạn thành đồ thị tri thức cục bộ, giúp các tác nhân lập trình AI nhanh và rẻ hơn bằng cách thay thế việc khám phá tệp bằng truy vấn đồ thị hiệu quả.
 x:
   source: https://github.com/colbymchenry/codegraph
 rule:

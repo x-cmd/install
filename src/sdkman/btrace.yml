@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于 java 平台的安全、动态追踪工具
   en: a safe, dynamic tracing tool for the Java platform
+  cs: bezpečný dynamický nástroj pro trasování na platformě Java
+  de: ein sicheres, dynamisches Tracing-Werkzeug für die Java-Plattform
+  es: una herramienta de trazado dinámico y segura para la plataforma Java
+  fr: un outil de traçage dynamique et sûr pour la plateforme Java
+  id: alat pelacakan dinamis yang aman untuk platform Java
+  it: uno strumento di tracing dinamico e sicuro per la piattaforma Java
+  ja: Java プラットフォーム向けの安全で動的なトレーシングツール
+  ko: Java 플랫폼을 위한 안전한 동적 추적 도구
+  pl: bezpieczne, dynamiczne narzędzie do śledzenia dla platformy Java
+  pt: uma ferramenta de rastreamento dinâmico e seguro para a plataforma Java
+  ro: un instrument de urmărire dinamică și sigur pentru platforma Java
+  ru: безопасный динамический инструмент трассировки для платформы Java
+  th: เครื่องมือติดตามแบบไดนามิกที่ปลอดภัยสำหรับแพลตฟอร์ม Java
+  tr: Java platformu için güvenli, dinamik izleme aracı
+  uk: безпечний динамічний інструмент трасування для платформи Java
+  vi: công cụ truy vết động an toàn cho nền tảng Java
 x:
   source: https://github.com/btraceio/btrace
   eget: btraceio/btrace

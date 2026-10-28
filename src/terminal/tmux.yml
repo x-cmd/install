@@ -3,6 +3,22 @@ license: ISC
 desc:
   cn: tmux 是一个终端多路复用器。
   en: tmux is a terminal multiplexer.
+  cs: tmux je terminálový multiplexor.
+  de: tmux ist ein Terminal-Multiplexer.
+  es: tmux es un multiplexor de terminal.
+  fr: tmux est un multiplexeur de terminal.
+  id: tmux adalah multiplekser terminal.
+  it: tmux è un multiplexer da terminale.
+  ja: tmux はターミナルマルチプレクサです。
+  ko: tmux는 터미널 멀티플렉서입니다.
+  pl: tmux to multiplekser terminala.
+  pt: tmux é um multiplexador de terminal.
+  ro: tmux este un multiplexor de terminal.
+  ru: tmux — терминальный мультиплексор.
+  th: tmux คือเทอร์มินัลมัลติเพล็กเซอร์.
+  tr: tmux bir terminal çoklayıcısıdır.
+  uk: tmux — термінальний мультиплексор.
+  vi: tmux là bộ ghép kênh terminal.
 lang: C
 x:
   source: https://github.com/tmux/tmux

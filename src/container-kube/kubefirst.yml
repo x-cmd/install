@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: kubefirst CLI，用于在云中构建 GitOps 云管理和应用程序交付生态系统，其中包含自动化 Terraform 工作流程、Vault 机密管理、GitLab 或 GitHub 与 Argo 的集成
   en: kubefirst is a free, fully automated, and instantly operational open source platform that includes some of the most popular open source tools available in the Kubernetes space, all working together in a click
+  cs: kubefirst je bezplatná, plně automatizovaná a okamžitě použitelná open source platforma, která zahrnuje některé z nejoblíbenějších open source nástrojů v oblasti Kubernetes a všechny fungují společně na jeden kliknutí
+  de: kubefirst ist eine kostenlose, vollständig automatisierte und sofort einsatzbereite Open-Source-Plattform, die einige der beliebtesten Open-Source-Werkzeuge im Kubernetes-Umfeld enthält und die alle mit einem Klick zusammenarbeiten
+  es: kubefirst es una plataforma de código abierto gratuita, totalmente automatizada e inmediatamente operativa que incluye algunas de las herramientas de código abierto más populares del ecosistema de Kubernetes, todas funcionando juntas con un clic
+  fr: kubefirst est une plateforme open source gratuite, entièrement automatisée et immédiatement opérationnelle qui inclut certains des outils open source les plus populaires de l'écosystème Kubernetes, tous fonctionnant ensemble en un clic
+  id: kubefirst adalah platform open source gratis, sepenuhnya otomatis, dan langsung dapat digunakan yang mencakup beberapa tool open source populer di ekosistem Kubernetes, semuanya bekerja bersama dengan satu klik
+  it: kubefirst è una piattaforma open source gratuita, completamente automatizzata e immediatamente operativa che include alcuni degli strumenti open source più popolari nell'ecosistema Kubernetes, tutti funzionanti insieme con un clic
+  ja: kubefirst は、Kubernetes エコシステムで最も人気のオープンソースツールをいくつか含む、無料で完全自動化され、すぐに運用できるオープンソースプラットフォームです。すべてのツールが1クリックで連携して動作します。
+  ko: kubefirst는 Kubernetes 생태계에서 가장 널리 쓰이는 오픈 소스 도구 몇 가지를 포함하며, 모두 한 번의 클릭으로 함께 작동하는 무료이며 완전 자동화되어 즉시 사용할 수 있는 오픈 소스 플랫폼입니다
+  pl: kubefirst to bezpłatna, w pełni zautomatyzowana i natychmiast gotowa do pracy platforma open source, która zawiera niektóre z najpopularniejszych narzędzi open source w ekosystemie Kubernetes, wszystkie działające razem jednym kliknięciem
+  pt: kubefirst é uma plataforma de código aberto gratuita, totalmente automatizada e imediatamente operacional que inclui algumas das ferramentas de código aberto mais populares do ecossistema Kubernetes, todas funcionando juntas com um clique
+  ro: kubefirst este o platformă open source gratuită, complet automatizată și imediat operațională, care include unele dintre cele mai populare instrumente open source din ecosistemul Kubernetes, toate funcționând împreună la un singur clic
+  ru: kubefirst — бесплатная, полностью автоматизированная и сразу готовая к работе платформа с открытым исходным кодом, включающая некоторые из самых популярных open source инструментов в экосистеме Kubernetes, работающих вместе одним щелчком
+  th: kubefirst เป็นแพลตฟอร์มโอเพนซอร์สซอร์สแบบฟรี อัตโนมัติเต็มรูปแบบ และพร้อมใช้งานทันที ที่รวมเครื่องมือโอเพนซอร์สซอร์สยอดนิยมในระบบนิเวศ Kubernetes ทั้งหมดทำงานร่วมกันด้วยคลิกเดียว
+  tr: kubefirst, Kubernetes alanındaki en popüler açık kaynak araçlardan bazılarını içeren, ücretsiz, tamamen otomatik ve anında kullanıma hazır bir açık kaynak platformudur; tümü tek tıklamayla birlikte çalışır
+  uk: kubefirst — безкоштовна, повністю автоматизована та готова до роботи платформа з відкритим кодом, яка включає деякі з найпопулярніших open source інструментів в екосистемі Kubernetes, що працюють разом одним кліком
+  vi: kubefirst là nền tảng mã nguồn mở miễn phí, tự động hoàn toàn và sẵn sàng sử dụng ngay, bao gồm một số công cụ mã nguồn mở phổ biến nhất trong hệ sinh thái Kubernetes, tất cả cùng hoạt động chỉ với một cú nhấp chuột
 x:
   source: https://github.com/kubefirst/kubefirst
   eget: kubefirst/kubefirst

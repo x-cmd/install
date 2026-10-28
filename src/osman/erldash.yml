@@ -3,6 +3,22 @@ homepage: https://github.com/sile/erldash
 desc:
   cn: Rust 编写的简洁终端 Erlang 仪表盘
   en: A simple, terminal-based Erlang dashboard written in Rust
+  cs: Jednoduchý terminálový Erlang dashboard napsaný v Rustu
+  de: Ein einfaches, terminalbasiertes Erlang-Dashboard, geschrieben in Rust
+  es: Un sencillo panel de Erlang basado en terminal, escrito en Rust
+  fr: Un tableau de bord Erlang simple basé sur le terminal, écrit en Rust
+  id: Dasbor Erlang sederhana berbasis terminal yang ditulis dengan Rust
+  it: Una semplice dashboard Erlang basata su terminale, scritta in Rust
+  ja: Rustで書かれたシンプルなターミナルベースのErlangダッシュボード
+  ko: Rust로 작성한 간단한 터미널 기반 Erlang 대시보드
+  pl: Prosty terminalowy panel Erlang napisany w Rust
+  pt: Um painel Erlang simples baseado em terminal, escrito em Rust
+  ro: Un tablou de bord Erlang simplu, bazat pe terminal, scris în Rust
+  ru: Простой терминальный дашборд Erlang, написанный на Rust
+  th: แดชบอร์ด Erlang แบบง่ายที่ใช้เทอร์มินัล เขียนด้วย Rust
+  tr: Rust ile yazılmış basit, terminal tabanlı bir Erlang panosu
+  uk: Простий термінальний дашборд Erlang, написаний на Rust
+  vi: bảng điều khiển Erlang đơn giản chạy trên terminal, viết bằng Rust
 x:
   source: https://github.com/sile/erldash
   eget: sile/erldash

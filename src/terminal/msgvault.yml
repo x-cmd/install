@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 归档一生的邮件与聊天，基于 DuckDB 实现离线检索、分析与 AI 查询
   en: 'Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB'
+  cs: Archivujte celoživotní e-mail a chat. Offline vyhledávání, analýza a AI dotazy nad celou historií zpráv. Poháněno DuckDB
+  de: Archivieren Sie Ihr gesamtes E-Mail- und Chat-Leben. Offline-Suche, Analysen und KI-Abfragen über Ihre komplette Nachrichtenhistorie. Auf Basis von DuckDB
+  es: Archiva toda una vida de correo y chat. Búsqueda sin conexión, análisis y consultas de IA sobre tu historial completo de mensajes. Impulsado por DuckDB
+  fr: Archivez toute une vie d'e-mails et de discussions. Recherche hors ligne, analyses et requêtes IA sur l'ensemble de votre historique de messages. Propulsé par DuckDB
+  id: Arsipkan email dan chat sepanjang hidup. Pencarian luring, analitik, dan kueri AI atas seluruh riwayat pesan Anda. Bertenaga DuckDB
+  it: Archivia una vita intera di e-mail e chat. Ricerca offline, analisi e query AI su tutto il tuo storico dei messaggi. Basato su DuckDB
+  ja: 生涯のメールとチャットをアーカイブ。メッセージ履歴全体に対するオフライン検索、分析、AI クエリに対応。DuckDB ベース
+  ko: 평생의 이메일과 채팅을 보관하세요. 전체 메시지 기록에 대한 오프라인 검색, 분석, AI 쿼리를 지원합니다. DuckDB 기반
+  pl: Archiwizuj całe życie e-maili i czatów. Wyszukiwanie offline, analityka i zapytania AI w całej historii wiadomości. Oparte na DuckDB
+  pt: Arquive uma vida inteira de e-mail e chat. Busca offline, análises e consultas de IA sobre todo o seu histórico de mensagens. Com tecnologia DuckDB
+  ro: Arhivează o viață întreagă de e-mailuri și mesaje. Căutare offline, analize și interogări AI pe întreaga ta istorie de mesaje. Bazat pe DuckDB
+  ru: Архивируйте почту и чаты за всю жизнь. Офлайн-поиск, аналитика и AI-запросы по всей истории сообщений. На базе DuckDB
+  th: เก็บถาวรอีเมลและแชทตลอดชีวิต ค้นหาแบบออฟไลน์ วิเคราะห์ และคิวรี AI บนประวัติข้อความทั้งหมด ด้วย DuckDB
+  tr: Ömür boyunca e-posta ve sohbet arşivleyin. Tüm mesaj geçmişiniz üzerinde çevrimdışı arama, analiz ve AI sorgusu. DuckDB destekli
+  uk: Архівуйте пошту та чати за все життя. Офлайн-пошук, аналітика та AI-запити по всій історії повідомлень. На базі DuckDB
+  vi: Lưu trữ toàn bộ email và chat của bạn. Tìm kiếm ngoại tuyến, phân tích và truy vấn AI trên toàn bộ lịch sử tin nhắn. Dựa trên DuckDB
 x:
   source: https://github.com/wesm/msgvault
   eget: wesm/msgvault

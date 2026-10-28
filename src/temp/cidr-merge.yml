@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个简单的实用程序来合并 ip/ip cidr/ip 范围，支持 IPv4/IPv6
   en: A simple utility to merge ip/ip cidr/ip range, support IPv4/IPv6
+  cs: Jednoduchý nástroj pro slučování rozsahů IP/IP CIDR, podporuje IPv4/IPv6
+  de: Ein einfaches Werkzeug zum Zusammenführen von IP-/IP-CIDR-/IP-Bereichen, unterstützt IPv4/IPv6
+  es: Una utilidad sencilla para combinar rangos ip/ip cidr/ip, con soporte para IPv4/IPv6
+  fr: Un utilitaire simple pour fusionner des plages ip/ip cidr/ip, avec prise en charge d'IPv4/IPv6
+  id: Utilitas sederhana untuk menggabungkan rentang ip/ip cidr/ip, mendukung IPv4/IPv6
+  it: Una semplice utilità per unire intervalli ip/ip cidr/ip, con supporto IPv4/IPv6
+  ja: IP/IP CIDR/IP 範囲をマージするシンプルなユーティリティで、IPv4/IPv6 に対応しています
+  ko: ip/ip cidr/ip 범위를 합치는 간단한 유틸리티로 IPv4/IPv6을 지원합니다
+  pl: Proste narzędzie do łączenia zakresów ip/ip cidr/ip, z obsługą IPv4/IPv6
+  pt: Um utilitário simples para mesclar faixas ip/ip cidr/ip, com suporte a IPv4/IPv6
+  ro: O utilitar simplu pentru îmbinarea intervalelor ip/ip cidr/ip, cu suport pentru IPv4/IPv6
+  ru: Простая утилита для объединения диапазонов ip/ip cidr/ip с поддержкой IPv4/IPv6
+  th: ยูทิลิตี้ง่าย ๆ สำหรับรวมช่วง ip/ip cidr/ip รองรับ IPv4/IPv6
+  tr: IP/IP CIDR/IP aralıklarını birleştiren basit bir araç, IPv4/IPv6 destekler
+  uk: Проста утиліта для об'єднання діапазонів ip/ip cidr/ip з підтримкою IPv4/IPv6
+  vi: Tiện ích đơn giản để gộp các dải ip/ip cidr/ip, hỗ trợ IPv4/IPv6
 x:
   source: https://github.com/zhanhb/cidr-merger
   eget: zhanhb/cidr-merger

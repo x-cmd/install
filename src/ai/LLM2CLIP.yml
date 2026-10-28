@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 显著提升 CLIP 模型效果（在已有 SOTA 基础上）
   en: LLM2CLIP significantly improves already state-of-the-art CLIP models.
+  cs: LLM2CLIP výrazně zlepšuje již špičkové modely CLIP.
+  de: LLM2CLIP verbessert bereits hochmoderne CLIP-Modelle deutlich.
+  es: LLM2CLIP mejora significativamente los modelos CLIP ya más avanzados del estado del arte.
+  fr: LLM2CLIP améliore significativement les modèles CLIP déjà de pointe.
+  id: LLM2CLIP secara signifikan meningkatkan model CLIP yang sudah state-of-the-art.
+  it: LLM2CLIP migliora significativamente i modelli CLIP già all'avanguardia.
+  ja: LLM2CLIP はすでに state-of-the-art な CLIP モデルを大幅に改善します。
+  ko: LLM2CLIP는 이미 최고 성능인 CLIP 모델을 크게 개선합니다.
+  pl: LLM2CLIP znacząco poprawia już najnowocześniejsze modele CLIP.
+  pt: LLM2CLIP mejora significativamente os modelos CLIP já state-of-the-art.
+  ro: LLM2CLIP îmbunătățește semnificativ modelele CLIP deja de vârf.
+  ru: LLM2CLIP значительно улучшает и без того передовые модели CLIP.
+  th: LLM2CLIP ช่วยปรับปรุงโมเดล CLIP ที่ล้ำหน้าอยู่แล้วได้อย่างมีนัยสำคัญ
+  tr: LLM2CLIP, halihazırda en gelişmiş CLIP modellerini belirgin şekilde iyileştirir.
+  uk: LLM2CLIP значно покращує вже передові моделі CLIP.
+  vi: LLM2CLIP cải thiện đáng kể các mô hình CLIP đã ở trạng thái tiên tiến.
 x:
   source: https://github.com/microsoft/LLM2CLIP
   eget: microsoft/LLM2CLIP

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个可自定义的 linting 工具，通过检查代码的最佳实践和常见错误，帮助您提高网站的可访问性、速度、跨浏览器兼容性等
   en: A customizable linting tool that helps you improve your website's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
+  cs: Přizpůsobitelný nástroj pro linting, který vám pomáhá zlepšit přístupnost, rychlost a kompatibilitu vašeho webu napříč prohlížeči kontrolou kódu z hlediska osvědčených postupů a běžných chyb
+  de: Ein anpassbares Linting-Werkzeug, das durch die Prüfung Ihres Codes auf bewährte Praktiken und häufige Fehler die Barrierefreiheit, Geschwindigkeit und Browserkompatibilität Ihrer Website verbessert
+  es: Una herramienta de linting personalizable que te ayuda a mejorar la accesibilidad, la velocidad y la compatibilidad entre navegadores de tu sitio web al revisar tu código en busca de buenas prácticas y errores comunes
+  fr: Un outil de linting personnalisable qui vous aide à améliorer l'accessibilité, la vitesse et la compatibilité multi-navigateurs de votre site web en analysant votre code à la recherche des bonnes pratiques et des erreurs courantes
+  id: Alat linting yang dapat dikustomisasi untuk membantu Anda meningkatkan aksesibilitas, kecepatan, kompatibilitas lintas browser, dan lainnya dengan memeriksa kode Anda terhadap praktik terbaik dan kesalahan umum
+  it: Uno strumento di linting personalizzabile che ti aiuta a migliorare l'accessibilità, la velocità e la compatibilità tra browser del tuo sito web verificando il codice per buone pratiche ed errori comuni
+  ja: コードをベストプラクティスやよくある誤りについて検査し、ウェブサイトのアクセシビリティ、速度、ブラウザ間互換性などを改善できるカスタマイズ可能な lint ツール
+  ko: 코드를 모범 사례와 흔한 오류에 대해 검사하여 웹사이트의 접근성, 속도, 브라우저 간 호환성 등을 개선하도록 돕는 사용자 정의 가능한 린팅 도구
+  pl: Konfigurowalne narzędzie do lintingu, które pomaga poprawić dostępność, szybkość i zgodność witryny między przeglądarkami, sprawdzając kod pod kątem najlepszych praktyk i typowych błędów
+  pt: Uma ferramenta de linting personalizável que o ajuda a melhorar a acessibilidade, a velocidade e a compatibilidade entre navegadores do seu site, verificando seu código em busca de boas práticas e erros comuns
+  ro: Un instrument de linting personalizabil care vă ajută să îmbunătățiți accesibilitatea, viteza și compatibilitatea între browsere a site-ului dumneavoastră, verificând codul pentru bune practici și erori frecvente
+  ru: Настраиваемый инструмент линтинга, который помогает улучшить доступность, скорость и кроссбраузерную совместимость вашего сайта, проверяя код на соответствие лучшим практикам и распространённым ошибкам
+  th: เครื่องมือ lint ที่ปรับแต่งได้ ช่วยคุณปรับปรุงการเข้าถึง ความเร็ว และความเข้ากันได้ข้ามเบราว์เซอร์ของเว็บไซต์ ด้วยการตรวจสอบโค้ดเทียบกับแนวปฏิบัติที่ดีและข้อผิดพลาดที่พบบ่อย
+  tr: Kodunuzu en iyi uygulamalar ve yaygın hatalara göre denetleyerek web sitenizin erişilebilirliğini, hızını ve tarayıcılar arası uyumluluğunu iyileştirmenize yardımcı olan özelleştirilebilir bir lint aracı
+  uk: Налаштовуваний інструмент лінтингу, який допомагає покращити доступність, швидкість і кросбраузерну сумісність вашого сайту, перевіряючи код на відповідність найкращим практикам і поширеним помилкам
+  vi: Công cụ lint có thể tùy chỉnh giúp bạn cải thiện khả năng tiếp cận, tốc độ và khả năng tương thích giữa các trình duyệt cho trang web của bạn bằng cách kiểm tra mã theo các thực hành tốt và lỗi thường gặp
 x:
   source: https://github.com/webhintio/hint
   eget: webhintio/hint

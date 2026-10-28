@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个实现 ACME 客户端协议的纯 Unix shell 脚本
   en: A pure Unix shell script implementing ACME client protocol
+  cs: Čistý Unix shell skript implementující klientský protokol ACME
+  de: Ein reines Unix-Shell-Skript, das das ACME-Clientprotokoll implementiert
+  es: Un script de shell Unix puro que implementa el protocolo de cliente ACME
+  fr: Un script shell Unix pur implémentant le protocole client ACME
+  id: Skrip shell Unix murni yang mengimplementasikan protokol klien ACME
+  it: Uno script shell Unix puro che implementa il protocollo client ACME
+  ja: ACME クライアントプロトコルを実装した純 Unix シェルスクリプトです
+  ko: ACME 클라이언트 프로토콜을 구현한 순수 Unix 셸 스크립트
+  pl: Czysty skrypt powłoki Unixa implementujący protokół klienta ACME
+  pt: Um script de shell Unix puro que implementa o protocolo de cliente ACME
+  ro: Un script shell Unix pur care implementează protocolul client ACME
+  ru: Чистый Unix shell-скрипт, реализующий клиентский протокол ACME
+  th: สคริปต์เชลล์ Unix บริสุทธิ์ที่ใช้งานโปรโตคอลไคลเอนต์ ACME
+  tr: ACME istemci protokolünü uygulayan saf Unix kabuk betiği
+  uk: Чистий Unix shell-скрипт, що реалізує клієнтський протокол ACME
+  vi: Kịch bản shell Unix thuần túy hiện thực giao thức client ACME
 x:
   source: https://github.com/acmesh-official/acme.sh
 rule:

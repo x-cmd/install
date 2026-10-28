@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: AI 驱动的数据库工具与 SQL 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse 等
   en: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+  cs: Databázový nástroj a SQL klient poháněný AI, nejpopulárnější GUI klient, podporující MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse a další.
+  de: KI-gesteuertes Datenbankwerkzeug und SQL-Client, der heißeste GUI-Client, unterstützt MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse und mehr.
+  es: Herramienta de base de datos y cliente SQL impulsado por IA, el cliente GUI más popular, compatible con MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse y más.
+  fr: Outil de base de données et client SQL propulsé par l'IA, le client GUI le plus populaire, prenant en charge MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse et plus encore.
+  id: Alat basis data dan klien SQL berbasis AI, klien GUI terpopuler, mendukung MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, dan banyak lagi.
+  it: Strumento di database e client SQL basato su AI, il client GUI più diffuso, che supporta MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse e altro ancora.
+  ja: AI 駆動のデータベースツールと SQL クライアント。最も人気の GUI クライアントで、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse などをサポートしています。
+  ko: AI 기반 데이터베이스 도구이자 SQL 클라이언트로, 가장 인기 있는 GUI 클라이언트입니다. MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse 등을 지원합니다.
+  pl: Narzędzie bazodanowe i klient SQL sterowane przez AI, najpopularniejszy klient GUI, obsługujący MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse i wiele więcej.
+  pt: Ferramenta de banco de dados e cliente SQL movido por IA, o cliente GUI mais popular, com suporte a MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse e muito mais.
+  ro: Instrument de bază de date și client SQL bazat pe AI, cel mai popular client GUI, cu suport pentru MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse și multe altele.
+  ru: Инструмент работы с базами данных и SQL-клиент на основе ИИ, самый популярный GUI-клиент, поддерживающий MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse и многое другое.
+  th: เครื่องมือฐานข้อมูลและไคลเอนต์ SQL ที่ขับเคลื่อนด้วย AI ไคลเอนต์ GUI ที่ได้รับความนิยมที่สุด รองรับ MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse และอื่น ๆ
+  tr: Yapay zekâ destekli veritabanı aracı ve SQL istemcisi; en popüler GUI istemcisi olup MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse ve daha fazlasını destekler.
+  uk: Інструмент роботи з базами даних і SQL-клієнт на основі ІІ, найпопулярніший GUI-клієнт, що підтримує MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse та багато іншого.
+  vi: Công cụ cơ sở dữ liệu và SQL client dựa trên AI, client GUI được yêu thích nhất, hỗ trợ MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse và nhiều hơn nữa.
 x:
   source: https://github.com/OtterMind/Chat2DB
   eget: OtterMind/Chat2DB

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于转换和检查 PDF 文件的工具
   en: Tools for and transforming and inspecting PDF files
+  cs: Nástroje pro převod a kontrolu souborů PDF
+  de: Werkzeuge zum Umwandeln und Prüfen von PDF-Dateien
+  es: Herramientas para transformar e inspeccionar archivos PDF
+  fr: Outils pour transformer et inspecter des fichiers PDF
+  id: Alat untuk mengubah dan memeriksa berkas PDF
+  it: Strumenti per trasformare e ispezionare file PDF
+  ja: PDF ファイルを変換し検査するためのツール
+  ko: PDF 파일을 변환하고 검사하는 도구
+  pl: Narzędzia do przekształcania i sprawdzania plików PDF
+  pt: Ferramentas para transformar e inspecionar arquivos PDF
+  ro: Instrumente pentru transformarea și inspectarea fișierelor PDF
+  ru: Инструменты для преобразования и проверки PDF-файлов
+  th: เครื่องมือสำหรับแปลงและตรวจสอบไฟล์ PDF
+  tr: PDF dosyalarını dönüştürme ve inceleme araçları
+  uk: Інструменти для перетворення та перевірки PDF-файлів
+  vi: Công cụ để chuyển đổi và kiểm tra các tệp PDF
 x:
   source: https://github.com/qpdf/qpdf
   eget: qpdf/qpdf

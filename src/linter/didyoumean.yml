@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: DidYouMean（或 dym）是一个用 Rust 编写的命令行拼写校正器，利用 Damerau-Levenshtein 距离的简化版本
   en: DidYouMean (or dym) is a command-line spelling corrector written in rust utilizing a simplified version of Damerau-Levenshtein distance
+  cs: DidYouMean (neboli dym) je nástroj pro opravu pravopisu v příkazové řádce napsaný v Rustu, využívající zjednodušenou verzi Damerau-Levenshteinovy vzdálenosti
+  de: DidYouMean (oder dym) ist ein in Rust geschriebenes Kommandozeilen-Wortkorrekturprogramm, das eine vereinfachte Version der Damerau-Levenshtein-Distanz verwendet
+  es: DidYouMean (o dym) es un corrector ortográfico de línea de comandos escrito en Rust que utiliza una versión simplificada de la distancia de Damerau-Levenshtein
+  fr: DidYouMean (ou dym) est un correcteur orthographique en ligne de commande écrit en Rust utilisant une version simplifiée de la distance de Damerau-Levenshtein
+  id: DidYouMean (atau dym) adalah pemeriksa ejaan baris perintah yang ditulis dengan Rust menggunakan versi sederhana dari jarak Damerau-Levenshtein
+  it: DidYouMean (o dym) è un correttore ortografico da riga di comando scritto in Rust che utilizza una versione semplificata della distanza di Damerau-Levenshtein
+  ja: DidYouMean (または dym) は、Damerau-Levenshtein 距離の簡略版を利用した Rust 製のコマンドラインスペルチェッカーです
+  ko: DidYouMean(또는 dym)은 Damerau-Levenshtein 거리의 단순화된 버전을 사용하는 Rust로 작성된 명령줄 맞춤법 검사기입니다
+  pl: DidYouMean (lub dym) to napisany w Rust wierszowy poprawiacz pisowni, wykorzystujący uproszczoną wersję odległości Damerau-Levenshteina
+  pt: DidYouMean (ou dym) é um corretor ortográfico de linha de comando escrito em Rust que utiliza uma versão simplificada da distância de Damerau-Levenshtein
+  ro: DidYouMean (sau dym) este un corector ortografic de linie de comandă scris în Rust, care folosește o versiune simplificată a distanței Damerau-Levenshtein
+  ru: DidYouMean (или dym) — это консольная программа проверки орфографии, написанная на Rust и использующая упрощённую версию расстояния Дамерау-Левенштейна
+  th: DidYouMean (หรือ dym) คือตัวแก้ไขการสะกดบนบรรทัดคำสั่งที่เขียนด้วย Rust โดยใช้เวอร์ชันอย่างง่ายของระยะทาง Damerau-Levenshtein
+  tr: DidYouMean (ya da dym), Damerau-Levenshtein mesafesinin basitleştirilmiş bir sürümünü kullanan Rust ile yazılmış bir komut satırı yazım denetleyicisidir
+  uk: DidYouMean (або dym) — це консольний виправляч орфографії, написаний на Rust, що використовує спрощену версію відстані Дамерау-Левенштейна
+  vi: DidYouMean (hay dym) là trình sửa chính tả dòng lệnh được viết bằng Rust, sử dụng phiên bản đơn giản của khoảng cách Damerau-Levenshtein
 x:
   source: https://github.com/hisbaan/didyoumean
   eget: hisbaan/didyoumean

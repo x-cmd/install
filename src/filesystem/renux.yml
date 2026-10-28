@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 带 TUI 的终端批量文件重命名工具
   en: 'A terminal-based bulk file renamer with a TUI'
+  cs: Terminálový nástroj pro hromadné přejmenování souborů s TUI
+  de: Ein Terminal-basiertes Massenumbenennungswerkzeug mit TUI
+  es: Una herramienta de renombrado masivo de archivos basada en terminal con TUI
+  fr: Un outil de renommage en masse de fichiers basé sur le terminal avec TUI
+  id: Alat ganti nama massal file berbasis terminal dengan TUI
+  it: Uno strumento di rinomina massiva di file basato sul terminale con TUI
+  ja: TUIを備えたターミナルベースのファイル一括リネームツール
+  ko: TUI를 갖춘 터미널 기반 파일 일괄 이름 변경 도구
+  pl: Narzędzie terminalowe do zbiorczego zmieniania nazw plików z TUI
+  pt: Uma ferramenta de renomeação em massa de arquivos baseada em terminal com TUI
+  ro: Un instrument terminal pentru redenumirea în masă a fișierelor, cu TUI
+  ru: Терминальный инструмент для массового переименования файлов с TUI
+  th: เครื่องมือเปลี่ยนชื่อไฟล์เป็นชุดบนเทอร์มินัล พร้อม TUI
+  tr: TUI'li, terminal tabanlı toplu dosya yeniden adlandırma aracı
+  uk: Термінальний інструмент для масового перейменування файлів із TUI
+  vi: Công cụ đổi tên hàng loạt tệp chạy trên terminal với TUI
 x:
   source: https://github.com/andrianllmm/renux
   eget: andrianllmm/renux

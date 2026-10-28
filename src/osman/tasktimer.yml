@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 极简的 TUI 任务计时器
   en: 'Task Timer (tt) is a dead simple TUI task timer'
+  cs: Task Timer (tt) je velmi jednoduchý TUI časovač úkolů
+  de: Task Timer (tt) ist ein äußerst einfacher TUI-Aufgaben-Timer
+  es: Task Timer (tt) es un temporizador de tareas TUI muy sencillo
+  fr: Task Timer (tt) est un minuteur de tâches TUI très simple
+  id: Task Timer (tt) adalah pengatur waktu tugas TUI yang sangat sederhana
+  it: Task Timer (tt) è un semplice timer di attività TUI
+  ja: Task Timer (tt) は非常にシンプルな TUI タスクタイマーです
+  ko: Task Timer (tt)는 매우 단순한 TUI 작업 타이머입니다
+  pl: Task Timer (tt) to bardzo prosty licznik czasu zadań w TUI
+  pt: Task Timer (tt) é um cronômetro de tarefas TUI muito simples
+  ro: Task Timer (tt) este un cronometru de sarcini TUI foarte simplu
+  ru: Task Timer (tt) — простейший TUI-таймер задач
+  th: Task Timer (tt) คือตัวจับเวลางานแบบ TUI ที่เรียบง่ายมาก
+  tr: Task Timer (tt), son derece basit bir TUI görev zamanlayıcısıdır
+  uk: Task Timer (tt) — надзвичайно простий TUI-таймер завдань
+  vi: Task Timer (tt) là bộ đếm thời gian tác vụ TUI cực kỳ đơn giản
 x:
   source: https://github.com/caarlos0/tasktimer
   eget: caarlos0/tasktimer

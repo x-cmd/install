@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 本地与服务器上管理 cron 任务的终端仪表盘
   en: 'A terminal-based dashboard for managing cron jobs locally and on servers.'
+  cs: Terminálový dashboard pro správu úloh cron lokálně i na serverech.
+  de: Ein Terminal-basiertes Dashboard zur Verwaltung von Cron-Jobs lokal und auf Servern.
+  es: Un panel de control basado en terminal para gestionar tareas cron localmente y en servidores.
+  fr: Un tableau de bord basé sur le terminal pour gérer les tâches cron en local et sur les serveurs.
+  id: Dasbor berbasis terminal untuk mengelola tugas cron secara lokal dan di server.
+  it: Una dashboard basata su terminale per gestire i job cron localmente e sui server.
+  ja: ローカルやサーバー上でcronジョブを管理するためのターミナルベースのダッシュボード
+  ko: 로컬 및 서버에서 cron 작업을 관리하기 위한 터미널 기반 대시보드
+  pl: Panel oparty na terminalu do zarządzania zadaniami cron lokalnie i na serwerach.
+  pt: Um painel de controle baseado em terminal para gerenciar tarefas cron localmente e em servidores.
+  ro: Un tablou de bord bazat pe terminal pentru gestionarea joburilor cron local și pe servere.
+  ru: Терминальная панель управления заданиями cron локально и на серверах.
+  th: แดชบอร์ดบนเทอร์มินัลสำหรับจัดการงาน cron ทั้งแบบโลคัลและบนเซิร์ฟเวอร์
+  tr: Yerel olarak ve sunucularda cron işlerini yönetmek için terminal tabanlı panolar.
+  uk: Термінальна панель керування завданнями cron локально та на серверах.
+  vi: Bảng điều khiển dựa trên terminal để quản lý tác vụ cron cục bộ và trên máy chủ.
 x:
   source: https://github.com/antoniorodr/cronboard
   eget: antoniorodr/cronboard

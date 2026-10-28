@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code
   cn: ESLint 是一个识别和报告 ECMAScript/JavaScript 代码中的模式的工具
+  cs: ESLint je nástroj pro identifikaci a hlášení vzorců nalezených v kódu ECMAScript/JavaScript
+  de: ESLint ist ein Werkzeug zum Erkennen und Melden von Mustern in ECMAScript-/JavaScript-Code
+  es: ESLint es una herramienta para identificar e informar sobre los patrones encontrados en el código ECMAScript/JavaScript
+  fr: ESLint est un outil permettant d'identifier et de signaler les motifs présents dans le code ECMAScript/JavaScript
+  id: ESLint adalah alat untuk mengidentifikasi dan melaporkan pola yang ditemukan dalam kode ECMAScript/JavaScript
+  it: ESLint è uno strumento per identificare e segnalare i pattern presenti nel codice ECMAScript/JavaScript
+  ja: ESLint は ECMAScript/JavaScript コード内で見つかったパターンを識別し報告するツールです
+  ko: ESLint는 ECMAScript/JavaScript 코드에서 발견된 패턴을 식별하고 보고하는 도구입니다
+  pl: ESLint to narzędzie do identyfikowania i raportowania wzorców znalezionych w kodzie ECMAScript/JavaScript
+  pt: ESLint é uma ferramenta para identificar e relatar padrões encontrados em código ECMAScript/JavaScript
+  ro: ESLint este o instrument pentru identificarea și raportarea tiparelor găsite în codul ECMAScript/JavaScript
+  ru: ESLint — это инструмент для обнаружения и отчётов о шаблонах в коде ECMAScript/JavaScript
+  th: ESLint เป็นเครื่องมือสำหรับระบุและรายงานรูปแบบที่พบในโค้ด ECMAScript/JavaScript
+  tr: ESLint, ECMAScript/JavaScript kodunda bulunan kalıpları belirleyip bildiren bir araçtır
+  uk: ESLint — це інструмент для виявлення та звітності про шаблони, знайдені в коді ECMAScript/JavaScript
+  vi: ESLint là công cụ để nhận diện và báo cáo các mẫu được tìm thấy trong mã ECMAScript/JavaScript
 x:
   source: https://github.com/eslint/eslint
   brew: eslint

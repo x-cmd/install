@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: pstree 是一个小程序，它将进程列表（ps）显示为树状
   en: pstree is a small program that shows the process listing (ps) as a tree
+  cs: pstree je malý program, který zobrazuje výpis procesů (ps) jako strom
+  de: pstree ist ein kleines Programm, das die Prozessliste (ps) als Baum anzeigt
+  es: pstree es un pequeño programa que muestra la lista de procesos (ps) como un árbol
+  fr: pstree est un petit programme qui affiche la liste des processus (ps) sous forme d'arbre
+  id: pstree adalah program kecil yang menampilkan daftar proses (ps) sebagai pohon
+  it: pstree è un piccolo programma che mostra l'elenco dei processi (ps) come un albero
+  ja: pstree はプロセスの一覧 (ps) をツリーとして表示する小さなプログラムです。
+  ko: pstree는 프로세스 목록(ps)을 트리로 표시하는 작은 프로그램입니다.
+  pl: pstree to mały program, który wyświetla listę procesów (ps) jako drzewo
+  pt: pstree é um pequeno programa que mostra a listagem de processos (ps) como uma árvore
+  ro: pstree este un mic program care afișează lista de procese (ps) sub formă de arbore
+  ru: pstree — небольшая программа, отображающая список процессов (ps) в виде дерева
+  th: pstree เป็นโปรแกรมเล็ก ๆ ที่แสดงรายการกระบวนการ (ps) เป็นต้นไม้
+  tr: pstree, süreç listesini (ps) bir ağaç olarak gösteren küçük bir programdır
+  uk: pstree — невелика програма, яка відображає список процесів (ps) у вигляді дерева
+  vi: pstree là chương trình nhỏ hiển thị danh sách tiến trình (ps) dưới dạng cây
 x:
   source: https://github.com/FredHucht/pstree
   apt: psmisc

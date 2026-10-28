@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Hermes AI 智能体栈的自托管 Web 仪表板，统一管理聊天、终端、文件、token 分析、MCP 服务器与多智能体协作
   en: Self-hosted web dashboard for the Hermes AI agent stack — manage chat, terminals, files, token analytics, MCP servers, and multi-agent workflows behind a password gate.
+  cs: Samohostovaný webový dashboard pro sadu AI agentů Hermes — spravujte chat, terminály, soubory, analýzu tokenů, MCP servery a víceagentové workflow za heslem.
+  de: Self-hosted Web-Dashboard für den Hermes KI-Agenten-Stack — Chat, Terminals, Dateien, Token-Analysen, MCP-Server und Multi-Agent-Workflows hinter einem Passwortschutz verwalten.
+  es: "Panel web autoalojado para la pila de agentes de IA de Hermes: gestiona el chat, los terminales, los archivos, el análisis de tokens, los servidores MCP y los flujos de trabajo multiagente tras una contraseña."
+  fr: Tableau de bord web auto-hébergé pour la pile d'agents IA Hermes — gérez le chat, les terminaux, les fichiers, l'analyse des jetons, les serveurs MCP et les flux multi-agents derrière un mot de passe.
+  id: Dasbor web yang di-host sendiri untuk tumpukan agen AI Hermes — kelola obrolan, terminal, file, analitik token, server MCP, dan alur kerja multi-agen di balik gerbang kata sandi.
+  it: Dashboard web self-hosted per lo stack di agenti IA Hermes — gestisci chat, terminali, file, analisi dei token, server MCP e flussi di lavoro multi-agente dietro un gate con password.
+  ja: Hermes AI エージェントスタック向けのセルフホスト型 Web ダッシュボード。パスワード保護の下にチャット、ターミナル、ファイル、トークン分析、MCP サーバー、マルチエージェントワークフローを管理できます。
+  ko: Hermes AI 에이전트 스택을 위한 자체 호스팅 웹 대시보드로, 비밀번호 보호 아래에서 채팅, 터미널, 파일, 토큰 분석, MCP 서버, 멀티 에이전트 워크플로를 관리합니다.
+  pl: Samodzielnie hostowany panel internetowy dla stosu agentów AI Hermes — zarządzaj czatem, terminalami, plikami, analityką tokenów, serwerami MCP i przepływami wieloagentowymi za zabezpieczeniem hasłem.
+  pt: Painel web auto-hospedado para a pilha de agentes de IA do Hermes — gerencie chat, terminais, arquivos, análise de tokens, servidores MCP e fluxos de trabalho multiagente atrás de uma senha.
+  ro: Panou web auto-găzduit pentru stiva de agenți AI Hermes — gestionează chatul, terminalele, fișierele, analítica de tokenuri, serverele MCP și fluxurile de lucru multi-agent din spatele unei parole.
+  ru: Самостоятельно размещаемый веб-дашборд для стека ИИ-агентов Hermes — управляйте чатами, терминалами, файлами, аналитикой токенов, MCP-серверами и многоагентными сценариями за паролем.
+  th: แดชบอร์ดเว็บที่โฮสต์เองสำหรับชุดเอเจนต์ AI ของ Hermes — จัดการแชท เทอร์มินัล ไฟล์ การวิเคราะห์โทเคน เซิร์ฟเวอร์ MCP และเวิร์กโฟลว์หลายเอเจนต์ภายใต้รหัสผ่าน
+  tr: Hermes yapay zekâ ajan yığını için kendi sunucunuzda çalışan web panosu — sohbeti, terminalleri, dosyaları, token analitiğini, MCP sunucularını ve çoklu ajan iş akışlarını parola koruması arkasından yönetin.
+  uk: Самостійно розміщуваний веб-дашборд для стеку ШІ-агентів Hermes — керуйте чатами, терміналами, файлами, аналітикою токенів, MCP-серверами та багатоагентними сценаріями за паролем.
+  vi: Bảng điều khiển web tự lưu trữ cho bộ tác nhân AI Hermes — quản lý trò chuyện, terminal, tệp, phân tích token, máy chủ MCP và quy trình đa tác nhân sau lớp bảo vệ mật khẩu.
 x:
   source: https://github.com/xaspx/hermes-control-interface
 rule:

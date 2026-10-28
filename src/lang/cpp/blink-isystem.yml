@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: Blink 虚拟机兼容的 Musl Libc / Linux Kernel 头文件子集——把与 Blink 不兼容的 API 注释掉，供 Blink 使用。
   en: A subset of Musl Libc and Linux Kernel headers for the Blink Virtual Machine, with APIs incompatible with Blink commented out.
+  cs: Podmnožina hlaviček Musl Libc a Linux Kernel pro virtuální stroj Blink, s API nekompatibilními s Blink zakomentovanými.
+  de: Eine Teilmenge der Musl-Libc- und Linux-Kernel-Header für die Blink Virtual Machine, mit nicht mit Blink kompatiblen APIs auskommentiert.
+  es: Un subconjunto de las cabeceras de Musl Libc y del kernel de Linux para la máquina virtual Blink, con las APIs incompatibles con Blink comentadas.
+  fr: Un sous-ensemble des en-têtes Musl Libc et du noyau Linux pour la machine virtuelle Blink, avec les API incompatibles avec Blink commentées.
+  id: Subset header Musl Libc dan Linux Kernel untuk Virtual Machine Blink, dengan API yang tidak kompatibel dengan Blink diberi komentar.
+  it: Un sottoinsieme delle intestazioni di Musl Libc e del kernel Linux per la macchina virtuale Blink, con le API incompatibili con Blink commentate.
+  ja: Blink 仮想マシン向けの Musl Libc と Linux Kernel ヘッダーのサブセットで、Blink と互換性のない API はコメントアウトされています。
+  ko: Blink 가상 머신을 위한 Musl Libc 및 Linux Kernel 헤더의 부분집합으로, Blink와 호환되지 않는 API는 주석 처리되어 있습니다
+  pl: Podzbiór nagłówków Musl Libc i jądra Linux dla maszyny wirtualnej Blink, z API niekompatybilnymi z Blink zakomentowanymi.
+  pt: Um subconjunto dos cabeçalhos do Musl Libc e do kernel Linux para a máquina virtual Blink, com as APIs incompatíveis com o Blink comentadas.
+  ro: O submulțime de anteturi Musl Libc și Linux Kernel pentru mașina virtuală Blink, cu API-urile incompatibile cu Blink comentate.
+  ru: Подмножество заголовочных файлов Musl Libc и Linux Kernel для виртуальной машины Blink, с закомментированными API, несовместимыми с Blink.
+  th: ชุดย่อยของส่วนหัว Musl Libc และ Linux Kernel สำหรับเครื่องเสมือน Blink โดยจะคอมเมนต์ API ที่ไม่เข้ากับ Blink ออก
+  tr: Blink sanal makinesi için Musl Libc ve Linux Kernel başlıklarının bir alt kümesi; Blink ile uyumsuz API'ler yorum satırı yapılmıştır.
+  uk: Підмножина заголовкових файлів Musl Libc та Linux Kernel для віртуальної машини Blink, із закоментованими API, несумісними з Blink.
+  vi: Tập con các header của Musl Libc và Linux Kernel dành cho máy ảo Blink, với các API không tương thích với Blink được chú thích lại.
 x:
   source: https://github.com/jart/blink-isystem
   eget: jart/blink-isystem

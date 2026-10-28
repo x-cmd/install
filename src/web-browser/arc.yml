@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Arc 是一个 Chromium 浏览器，专注多空间 / 多面板的生产力工作流。
   en: Arc is a Chromium browser focused on multi-space / multi-pane productivity workflows.
+  cs: Arc je prohlížeč Chromium zaměřený na pracovní postupy s více prostory a panely.
+  de: Arc ist ein Chromium-Browser für produktive Arbeitsabläufe mit mehreren Bereichen und Fenstern.
+  es: Arc es un navegador Chromium orientado a flujos de trabajo productividad con múltiples espacios y paneles.
+  fr: Arc est un navigateur Chromium axé sur les flux de travail multitâches avec plusieurs espaces et panneaux.
+  id: Arc adalah peramban Chromium yang berfokus pada alur kerja produktivitas multi-ruang/multi-panel.
+  it: Arc è un browser Chromium focalizzato sui flussi di lavoro di produttività con più spazi e pannelli.
+  ja: Arc はマルチスペース・マルチペインの生産性向上ワークフローに特化した Chromium ブラウザです。
+  ko: Arc은 다중 스페이스/패널 생산성 워크플로에 초점을 맞춘 Chromium 브라우저입니다.
+  pl: Arc to przeglądarka Chromium skupiona na przepływach pracy z wieloma przestrzeniami i panelami.
+  pt: O Arc é um navegador Chromium focado em fluxos de trabalho de produtividade com múltiplos espaços e painéis.
+  ro: Arc este un browser Chromium axat pe fluxuri de lucru de productivitate cu mai multe spații și panouri.
+  ru: Arc — браузер на базе Chromium, ориентированный на рабочие сценарии с несколькими пространствами и панелями.
+  th: Arc คือเบราว์เซอร์ Chromium ที่มุ่งเน้นเวิร์กโฟลว์เพิ่มผลผลิตแบบมัลติสเปซและมัลติแพเนล๏
+  tr: Arc, çoklu alan ve panel içeren üretkenlik iş akışlarına odaklanan bir Chromium tarayıcısıdır.
+  uk: Arc — браузер на базі Chromium, орієнтований на робочі сценарії з кількома просторами та панелями.
+  vi: Arc là trình duyệt Chromium tập trung vào quy trình làm việc năng suất với nhiều không gian và bảng điều khiển.
 x:
   brew: arc
 rule:

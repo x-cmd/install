@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个惯用、精简、快速和安全的纯 Rust 实现的 Git
   en: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  cs: Idiomatičtá, úsporná, rychlá a bezpečná čistá implementace Git v Rustu
+  de: Eine idiomatische, schlanke, schnelle und sichere reine Rust-Implementierung von Git
+  es: Una implementación idiomática, ligera, rápida y segura de Git en Rust puro
+  fr: Une implémentation idiomatique, légère, rapide et sûre de Git en Rust pur
+  id: Implementasi Git murni Rust yang idiomatis, ramping, cepat, dan aman
+  it: Un'implementazione idiomatica, leggera, veloce e sicura di Git in puro Rust
+  ja: 慣用的で、精簡、快速かつ安全な純粋な Rust による Git 実装
+  ko: 관용적이고 간결하며 빠르고 안전한 순수 Rust Git 구현
+  pl: Idiomatyczna, oszczędna, szybka i bezpieczna implementacja Git w czystym Rust
+  pt: Uma implementação idiomática, enxuta, rápida e segura do Git em Rust puro
+  ro: O implementare idiomatică, suplă, rapidă și sigură a lui Git în Rust pur
+  ru: Идиоматичная, компактная, быстрая и безопасная реализация Git на чистом Rust
+  th: การใช้งาน Git แบบ Rust ล้วนที่เป็นธรรมชาติ กระชับ เร็ว และปลอดภัย
+  tr: Saf Rust ile yazılmış, dilbilgisel, yalın, hızlı ve güvenli bir Git uygulaması
+  uk: Ідіоматична, компактна, швидка та безпечна реалізація Git на чистому Rust
+  vi: Bản cài đặt Git thuần Rust mang tính quen thuộc, gọn nhẹ, nhanh và an toàn
 x:
   source: https://github.com/Byron/gitoxide
   pacman: gitoxide

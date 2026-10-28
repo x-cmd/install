@@ -3,6 +3,22 @@ homepage: https://gitlab.archlinux.org/archlinux/pacman
 desc:
   cn: Pacman 是一个在 Linux 中管理软件包的实用程序
   en: Pacman is a utility which manages software packages in Linux
+  cs: Pacman je nástroj, který v Linuxu spravuje softwarové balíčky
+  de: Pacman ist ein Werkzeug, das Softwarepakete unter Linux verwaltet
+  es: Pacman es una utilidad que gestiona paquetes de software en Linux
+  fr: Pacman est un utilitaire qui gère les paquets logiciels sous Linux
+  id: Pacman adalah utilitas yang mengelola paket perangkat lunak di Linux
+  it: Pacman è un'utilità che gestisce i pacchetti software in Linux
+  ja: Pacman は Linux でソフトウェアパッケージを管理するユーティリティです
+  ko: Pacman은 Linux에서 소프트웨어 패키지를 관리하는 유틸리티입니다
+  pl: Pacman to narzędzie do zarządzania pakietami oprogramowania w systemie Linux
+  pt: Pacman é um utilitário que gerencia pacotes de software no Linux
+  ro: Pacman este o utilitate care gestionează pachetele de software în Linux
+  ru: Pacman — это утилита для управления пакетами программ в Linux
+  th: Pacman คือยูทิลิตี้ที่จัดการแพ็กเกจซอฟต์แวร์บน Linux
+  tr: Pacman, Linux'ta yazılım paketlerini yöneten bir yardımcı programdır
+  uk: Pacman — це утиліта для керування пакетами програм у Linux
+  vi: Pacman là tiện ích quản lý các gói phần mềm trên Linux
 rule:
   debian/apt:
     cmd: sudo apt-get install pacman

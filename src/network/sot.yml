@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 命令行系统观测工具
   en: 'Command-line System Obervation Tool'
+  cs: Nástroj pro pozorování systému z příkazové řádky
+  de: Kommandozeilen-Tool zur Systemüberwachung
+  es: Herramienta de observación de sistemas en línea de comandos
+  fr: Outil d'observation du système en ligne de commande
+  id: Alat observasi sistem baris perintah
+  it: Strumento di osservazione del sistema da riga di comando
+  ja: コマンドラインのシステム観測ツール
+  ko: 명령줄 시스템 관찰 도구
+  pl: Narzędzie do obserwacji systemu w wierszu poleceń
+  pt: Ferramenta de observação do sistema em linha de comando
+  ro: Instrument de observare a sistemului din linia de comandă
+  ru: Инструмент наблюдения за системой в командной строке
+  th: เครื่องมือสังเกตการณ์ระบบจากบรรทัดคำสั่ง
+  tr: Komut satırı sistem gözlem aracı
+  uk: Інструмент спостереження за системою з командного рядка
+  vi: Công cụ quan sát hệ thống từ dòng lệnh
 x:
   source: https://github.com/anistark/sot
   eget: anistark/sot

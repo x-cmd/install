@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个基于键盘的终端任务管理器。
   en: A keyboard-driven task manager for the terminal.
+  cs: Správce úkolů pro terminál ovládaný klávesnicí.
+  de: Ein tastaturgesteuerter Aufgabenmanager für das Terminal.
+  es: Un gestor de tareas para la terminal controlado por teclado.
+  fr: Un gestionnaire de tâches pour le terminal piloté au clavier.
+  id: Manajer tugas untuk terminal yang dikendalikan keyboard.
+  it: Un gestore delle attività per il terminale controllato tramite tastiera.
+  ja: キーボード操作で動くターミナル向けタスクマネージャー。
+  ko: 키보드로 조작하는 터미널 작업 관리 도구.
+  pl: Menedżer zadań dla terminala sterowany klawiaturą.
+  pt: Um gerenciador de tarefas para terminal controlado por teclado.
+  ro: Un manager de sarcini pentru terminal, controlat prin tastatură.
+  ru: Диспетчер задач для терминала с управлением с клавиатуры.
+  th: ตัวจัดการงานสำหรับเทอร์มินัลที่ควบคุมด้วยแป้นพิมพ์
+  tr: Terminal için klavye kontrollü bir görev yöneticisi.
+  uk: Диспетчер завдань для термінала з керуванням з клавіатури.
+  vi: Trình quản lý công việc cho terminal điều khiển bằng bàn phím.
 x:
   source: https://github.com/dhth/omm
   eget: dhth/omm

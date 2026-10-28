@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: WebTau（Web 测试自动化）是一个测试 API、命令行工具和框架，用于编写单元测试、集成测试和端到端测试
   en: WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests
+  cs: WebTau (automatizace webových testů) je testovací API, nástroj příkazového řádku a framework pro psaní unit testů, integračních a end-to-end testů
+  de: WebTau (Web-Testautomatisierung) ist eine Test-API, ein Befehlszeilenwerkzeug und ein Framework zum Schreiben von Unit-, Integrations- und End-to-End-Tests
+  es: WebTau (automatización de pruebas web) es una API de pruebas, una herramienta de línea de comandos y un framework para escribir pruebas unitarias, de integración y de extremo a extremo
+  fr: WebTau (automatisation des tests web) est une API de test, un outil en ligne de commande et un framework pour écrire des tests unitaires, d'intégration et de bout en bout
+  id: WebTau (otomatisasi pengujian web) adalah API pengujian, alat baris perintah, dan framework untuk menulis pengujian unit, integrasi, dan end-to-end
+  it: WebTau (automazione dei test web) è un'API di test, uno strumento da riga di comando e un framework per scrivere test unitari, di integrazione e end-to-end
+  ja: WebTau（Web テスト自動化）は、ユニットテスト、統合テスト、エンドツーエンドテストを書くためのテスト API、コマンドラインツール、フレームワークです
+  ko: WebTau(웹 테스트 자동화)는 단위 테스트, 통합 테스트 및 엔드투엔드 테스트를 작성하기 위한 테스트 API, 명령줄 도구 및 프레임워크입니다
+  pl: WebTau (automatyzacja testów webowych) to API testowe, narzędzie wiersza poleceń i framework do pisania testów jednostkowych, integracyjnych i end-to-end
+  pt: O WebTau (automação de testes web) é uma API de testes, ferramenta de linha de comando e framework para escrever testes unitários, de integração e ponta a ponta
+  ro: WebTau (automatizarea testelor web) este un API de testare, un instrument de linie de comandă și un cadru pentru scrierea testelor unitare, de integrare și end-to-end
+  ru: WebTau (автоматизация веб-тестирования) — тестовый API, инструмент командной строки и фреймворк для написания модульных, интеграционных и сквозных тестов
+  th: WebTau (การทดสอบเว็บอัตโนมัติ) คือ API สำหรับการทดสอบ เครื่องมือบรรทัดคำสั่ง และเฟรมเวิร์กสำหรับเขียนการทดสอบหน่วย การทดสอบการรวมระบบ และการทดสอบแบบ end-to-end
+  tr: WebTau (web testi otomasyonu), birim, entegrasyon ve uçtan uca testler yazmak için bir test API'si, komut satırı aracı ve çerçevedir
+  uk: WebTau (автоматизація веб-тестування) — тестовий API, інструмент командного рядка та фреймворк для написання модульних, інтеграційних і наскрізних тестів
+  vi: WebTau (tự động hóa kiểm thử web) là API kiểm thử, công cụ dòng lệnh và framework để viết kiểm thử đơn vị, tích hợp và đầu cuối
 x:
   source: https://github.com/testingisdocumenting/webtau
   brew: testingisdocumenting/brew/webtau

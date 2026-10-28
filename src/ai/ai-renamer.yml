@@ -4,6 +4,22 @@ license: gpl-3.0
 desc:
   cn: 基于 Node.js 的 CLI，使用 Ollama 与 LM Studio 模型（Llava、Gemma、Llama 等）按内容智能重命名文件
   en: A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+  cs: CLI nástroj založený na Node.js, který používá modely Ollama a LM Studio (Llava, Gemma, Llama atd.) k chytrému přejmenování souborů podle jejich obsahu
+  de: Eine Node.js-CLI, die Ollama- und LM-Studio-Modelle (Llava, Gemma, Llama usw.) nutzt, um Dateien anhand ihres Inhalts intelligent umzubenennen
+  es: Una CLI de Node.js que usa modelos de Ollama y LM Studio (Llava, Gemma, Llama, etc.) para renombrar archivos de forma inteligente según su contenido
+  fr: Une CLI Node.js qui utilise les modèles Ollama et LM Studio (Llava, Gemma, Llama, etc.) pour renommer intelligemment les fichiers d'après leur contenu
+  id: CLI berbasis Node.js yang menggunakan model Ollama dan LM Studio (Llava, Gemma, Llama, dll.) untuk mengganti nama file secara cerdas berdasarkan isinya
+  it: Una CLI Node.js che usa i modelli Ollama e LM Studio (Llava, Gemma, Llama ecc.) per rinominare intelligentemente i file in base al loro contenuto
+  ja: Ollama と LM Studio のモデル（Llava、Gemma、Llama など）を使い、内容に応じてファイルをスマートにリネームする Node.js ベースの CLI です。
+  ko: Ollama와 LM Studio 모델(Llava, Gemma, Llama 등)을 사용해 내용에 따라 파일을 지능적으로 이름을 바꾸는 Node.js 기반 CLI입니다.
+  pl: CLI oparty na Node.js, który korzysta z modeli Ollama i LM Studio (Llava, Gemma, Llama itd.), aby inteligentnie zmieniać nazwy plików na podstawie ich zawartości
+  pt: Uma CLI em Node.js que usa modelos do Ollama e do LM Studio (Llava, Gemma, Llama etc.) para renomear arquivos de forma inteligente conforme seu conteúdo
+  ro: O CLI Node.js care folosește modelele Ollama și LM Studio (Llava, Gemma, Llama etc.) pentru a redenumi inteligent fișierele în funcție de conținutul lor
+  ru: CLI на Node.js, которая использует модели Ollama и LM Studio (Llava, Gemma, Llama и др.) для интеллектуального переименования файлов по их содержимому
+  th: เครื่องมือ CLI บน Node.js ที่ใช้โมเดลของ Ollama และ LM Studio (Llava, Gemma, Llama ฯลฯ) เพื่อเปลี่ยนชื่อไฟล์อย่างชาญฉลาดตามเนื้อหา
+  tr: Ollama ve LM Studio modellerini (Llava, Gemma, Llama vb.) kullanarak dosyaları içeriklerine göre akıllıca yeniden adlandıran Node.js tabanlı bir CLI.
+  uk: CLI на Node.js, яка використовує моделі Ollama та LM Studio (Llava, Gemma, Llama тощо) для інтелектуального перейменування файлів за їхнім вмістом
+  vi: CLI dựa trên Node.js, sử dụng các mô hình Ollama và LM Studio (Llava, Gemma, Llama v.v.) để đổi tên tệp thông minh dựa trên nội dung
 x:
   source: https://github.com/ozgrozer/ai-renamer
   eget: ozgrozer/ai-renamer

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Sqitch 是一个数据库变更管理应用程序
   en: Sqitch is a database change management application
+  cs: Sqitch je aplikace pro správu změn databáze
+  de: Sqitch ist eine Anwendung zur Verwaltung von Datenbankänderungen
+  es: Sqitch es una aplicación de gestión de cambios en bases de datos
+  fr: Sqitch est une application de gestion des modifications de bases de données
+  id: Sqitch adalah aplikasi manajemen perubahan basis data
+  it: Sqitch è un'applicazione per la gestione delle modifiche al database
+  ja: Sqitch はデータベースの変更管理アプリケーションです
+  ko: Sqitch는 데이터베이스 변경 관리 애플리케이션입니다
+  pl: Sqitch to aplikacja do zarządzania zmianami w bazie danych
+  pt: Sqitch é um aplicativo de gerenciamento de alterações em bancos de dados
+  ro: Sqitch este o aplicație de gestionare a modificărilor în baza de date
+  ru: Sqitch — приложение для управления изменениями в базе данных
+  th: Sqitch เป็นแอปพลิเคชันจัดการการเปลี่ยนแปลงฐานข้อมูล
+  tr: Sqitch, veritabanı değişikliklerini yönetmek için bir uygulamadır
+  uk: Sqitch — застосунок для керування змінами в базі даних
+  vi: Sqitch là ứng dụng quản lý thay đổi cơ sở dữ liệu
 x:
   source: https://github.com/sqitchers/sqitch
   eget: sqitchers/sqitch

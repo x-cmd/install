@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 阅读和追踪近期 arXiv 论文的小型 TUI
   en: 'A small TUI to read and track recent arXiv papers'
+  cs: Malé TUI pro čtení a sledování nedávných arXiv článků
+  de: Eine kleine TUI zum Lesen und Verfolgen aktueller arXiv-Publikationen
+  es: Una pequeña TUI para leer y seguir las publicaciones recientes de arXiv
+  fr: Une petite TUI pour lire et suivre les récents articles arXiv
+  id: TUI kecil untuk membaca dan melacak makalah arXiv terbaru
+  it: Una piccola TUI per leggere e seguire le recenti pubblicazioni arXiv
+  ja: 最近の arXiv 論文を読んで追跡するための小さな TUI
+  ko: 최근 arXiv 논문을 읽고 추적하기 위한 작은 TUI입니다
+  pl: Mały TUI do czytania i śledzenia najnowszych publikacji arXiv
+  pt: Uma pequena TUI para ler e acompanhar artigos recentes do arXiv
+  ro: O mică interfață TUI pentru citirea și urmărirea articolelor recente de pe arXiv
+  ru: Небольшой TUI для чтения и отслеживания свежих статей arXiv
+  th: TUI ขนาดเล็กสำหรับอ่านและติดตามบทความ arXiv ล่าสุด
+  tr: Son arXiv makalelerini okumak ve takip etmek için küçük bir TUI.
+  uk: Невеликий TUI для читання та відстеження свіжих статей arXiv
+  vi: Giao diện TUI nhỏ để đọc và theo dõi các bài báo arXiv gần đây
 x:
   source: https://github.com/fjonasALICE/arTui
   eget: fjonasALICE/arTui

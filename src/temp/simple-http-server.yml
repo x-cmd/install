@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Rust 中的简单 http 服务器（Windows/Mac/Linux）
   en: Simple http server in Rust (Windows/Mac/Linux)
+  cs: Jednoduchý http server v Rustu (Windows/Mac/Linux)
+  de: Einfacher HTTP-Server in Rust (Windows/Mac/Linux)
+  es: Servidor http sencillo en Rust (Windows/Mac/Linux)
+  fr: Serveur http simple en Rust (Windows/Mac/Linux)
+  id: Server http sederhana di Rust (Windows/Mac/Linux)
+  it: Semplice server http in Rust (Windows/Mac/Linux)
+  ja: Rust で書かれたシンプルな http サーバー (Windows/Mac/Linux)
+  ko: Rust로 작성된 간단한 http 서버 (Windows/Mac/Linux)
+  pl: Prosty serwer http w Rust (Windows/Mac/Linux)
+  pt: Servidor http simples em Rust (Windows/Mac/Linux)
+  ro: Server http simplu în Rust (Windows/Mac/Linux)
+  ru: Простой http-сервер на Rust (Windows/Mac/Linux)
+  th: เซิร์ฟเวอร์ http อย่างง่ายใน Rust (Windows/Mac/Linux)
+  tr: Rust ile yazılmış basit http sunucusu (Windows/Mac/Linux)
+  uk: Простий http-сервер на Rust (Windows/Mac/Linux)
+  vi: Máy chủ http đơn giản viết bằng Rust (Windows/Mac/Linux)
 x:
   source: https://github.com/TheWaWaR/simple-http-server
   eget: TheWaWaR/simple-http-server

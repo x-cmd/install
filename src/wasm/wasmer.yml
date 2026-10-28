@@ -3,6 +3,22 @@ license: MIT
 desc:
   cn: Wasmer 是一个快速和安全的 WebAssembly 运行时
   en: Wasmer is a blazing fast and secure WebAssembly runtime
+  cs: Wasmer je mimořádně rychlý a bezpečný runtime WebAssembly
+  de: Wasmer ist eine blitzschnelle und sichere WebAssembly-Laufzeit
+  es: Wasmer es un runtime de WebAssembly extremadamente rápido y seguro
+  fr: Wasmer est un runtime WebAssembly extrêmement rapide et sécurisé
+  id: Wasmer adalah runtime WebAssembly yang sangat cepat dan aman
+  it: Wasmer è un runtime WebAssembly velocissimo e sicuro
+  ja: Wasmer は超高速で安全な WebAssembly ランタイムです
+  ko: Wasmer는 매우 빠르고 안전한 WebAssembly 런타임입니다
+  pl: Wasmer to bardzo szybkie i bezpieczne środowisko uruchomieniowe WebAssembly
+  pt: Wasmer é um runtime WebAssembly extremamente rápido e seguro
+  ro: Wasmer este un runtime WebAssembly extrem de rapid și sigur
+  ru: Wasmer — это сверхбыстрый и безопасный рантайм WebAssembly
+  th: Wasmer เป็นรันไทม์ WebAssembly ที่เร็วมากและปลอดภัย
+  tr: Wasmer, çok hızlı ve güvenli bir WebAssembly çalışma zamanıdır
+  uk: Wasmer — це надзвичайно швидкий і безпечний рантайм WebAssembly
+  vi: Wasmer là runtime WebAssembly cực nhanh và an toàn
 lang: Rust
 x:
   source: https://github.com/wasmerio/wasmer

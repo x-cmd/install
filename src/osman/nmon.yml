@@ -3,6 +3,22 @@ homepage: http://nmon.sourceforge.net/
 desc:
   cn: nmon 是 Nigel's Performance Monitor 的缩写，用于 Linux 上的 POWER、x86、x86_64、Mainframe 以及现在的 ARM（如 Raspberry Pi）。
   en: nmon is short for Nigel's performance Monitor for Linux on POWER, x86, x86_64, Mainframe & now ARM (Raspberry Pi)
+  cs: nmon je zkratka za Nigel's Performance Monitor, nástroj pro Linux na POWER, x86, x86_64, Mainframe a nyní i ARM (Raspberry Pi).
+  de: nmon steht für Nigel's Performance Monitor für Linux auf POWER, x86, x86_64, Mainframe und inzwischen auch ARM (Raspberry Pi).
+  es: nmon es la abreviatura de Nigel's Performance Monitor para Linux en POWER, x86, x86_64, Mainframe y ahora ARM (Raspberry Pi).
+  fr: nmon est l'acronyme de Nigel's Performance Monitor pour Linux sur POWER, x86, x86_64, Mainframe et désormais ARM (Raspberry Pi).
+  id: nmon adalah singkatan dari Nigel's Performance Monitor untuk Linux di POWER, x86, x86_64, Mainframe, dan sekarang ARM (Raspberry Pi).
+  it: nmon è l'abbreviazione di Nigel's Performance Monitor per Linux su POWER, x86, x86_64, Mainframe e ora ARM (Raspberry Pi).
+  ja: nmon は Nigel's Performance Monitor の略で、Linux の POWER、x86、x86_64、Mainframe、そして现在的には ARM (Raspberry Pi) 向けです。
+  ko: nmon은 Nigel's Performance Monitor의 약자로, Linux의 POWER, x86, x86_64, Mainframe 및 이제는 ARM(Raspberry Pi)에서 동작합니다.
+  pl: nmon to skrót od Nigel's Performance Monitor dla Linuksa na POWER, x86, x86_64, Mainframe, a obecnie także ARM (Raspberry Pi).
+  pt: nmon é a sigla de Nigel's Performance Monitor para Linux em POWER, x86, x86_64, Mainframe e agora ARM (Raspberry Pi).
+  ro: nmon este abrevierea de la Nigel's Performance Monitor pentru Linux pe POWER, x86, x86_64, Mainframe și acum ARM (Raspberry Pi).
+  ru: nmon — сокращение от Nigel's Performance Monitor для Linux на POWER, x86, x86_64, Mainframe, а теперь и ARM (Raspberry Pi).
+  th: nmon ย่อมาจาก Nigel's Performance Monitor สำหรับ Linux บน POWER, x86, x86_64, Mainframe และปัจจุบัน ARM (Raspberry Pi)
+  tr: nmon, Linux üzerinde POWER, x86, x86_64, Mainframe ve artık ARM (Raspberry Pi) için Nigel's Performance Monitor'un kısaltmasıdır.
+  uk: nmon — скорочення від Nigel's Performance Monitor для Linux на POWER, x86, x86_64, Mainframe, а тепер і ARM (Raspberry Pi).
+  vi: nmon là viết tắt của Nigel's Performance Monitor cho Linux trên POWER, x86, x86_64, Mainframe và nay cả ARM (Raspberry Pi).
 rule:
   debian/apt:
     cmd: sudo apt-get install nmon

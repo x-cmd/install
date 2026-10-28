@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 将 jq 风格的查询引入到结构化数据源（包括 SQL 数据库和 CSV 或 Excel 等文档格式）的命令行工具。
   en: A command-line tool that brings jq-style querying to structured data sources, including SQL databases and document formats like CSV or Excel.
+  cs: Nástroj příkazové řádky, který přináší dotazování ve stylu jq do strukturovaných datových zdrojů, včetně databází SQL a formátů dokumentů jako CSV nebo Excel.
+  de: Ein Befehlszeilen-Tool, das jq-artige Abfragen für strukturierte Datenquellen bringt, darunter SQL-Datenbanken und Dokumentformate wie CSV oder Excel.
+  es: Una herramienta de línea de comandos que lleva las consultas al estilo jq a fuentes de datos estructuradas, incluidas bases de datos SQL y formatos de documento como CSV o Excel.
+  fr: Un outil en ligne de commande qui apporte les requêtes de style jq aux sources de données structurées, y compris les bases de données SQL et les formats de document comme CSV ou Excel.
+  id: Alat baris perintah yang menghadirkan kueri bergaya jq ke sumber data terstruktur, termasuk basis data SQL dan format dokumen seperti CSV atau Excel.
+  it: Uno strumento da riga di comando che porta le query in stile jq sulle fonti di dati strutturati, inclusi database SQL e formati di documento come CSV o Excel.
+  ja: jq 風のクエリを構造化データソース（SQL データベースや CSV、Excel などのドキュメント形式）にもたらすコマンドラインツール。
+  ko: SQL 데이터베이스와 CSV 또는 Excel 같은 문서 형식을, 구조화된 데이터 소스에 jq 스타일 쿼리를 제공하는 명령줄 도구.
+  pl: Narzędzie wiersza poleceń, które wprowadza zapytania w stylu jq do źródeł danych strukturalnych, w tym baz danych SQL i formatów dokumentów takich jak CSV czy Excel.
+  pt: Uma ferramenta de linha de comando que traz consultas no estilo jq para fontes de dados estruturadas, incluindo bancos de dados SQL e formatos de documento como CSV ou Excel.
+  ro: Un instrument de linie de comandă care aduce interogări în stil jq la surse de date structurate, inclusiv baze de date SQL și formate de documente precum CSV sau Excel.
+  ru: Инструмент командной строки, приносящий запросы в стиле jq к структурированным источникам данных, включая базы данных SQL и такие форматы документов, как CSV или Excel.
+  th: เครื่องมือบรรทัดคำสั่งที่นำการค้นหาแบบ jq ไปใช้กับแหล่งข้อมูลที่มีโครงสร้าง รวมถึงฐานข้อมูล SQL และรูปแบบเอกสารต่าง ๆ เช่น CSV หรือ Excel
+  tr: Yapılandırılmış veri kaynaklarına jq tarzı sorgulama getiren, SQL veritabanları ve CSV ya da Excel gibi belge biçimlerini de kapsayan bir komut satırı aracı.
+  uk: Інструмент командного рядка, який приносить запити в стилі jq до структурованих джерел даних, включно з базами даних SQL і форматами документів, такими як CSV або Excel.
+  vi: Công cụ dòng lệnh mang truy vấn kiểu jq đến các nguồn dữ liệu có cấu trúc, bao gồm cơ sở dữ liệu SQL và các định dạng tài liệu như CSV hay Excel.
 x:
   source: https://github.com/neilotoole/sq
   eget: neilotoole/sq

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 对选定的 HTTP 或 WebSockets URL 运行负载测试
   en: Runs a load test on the selected HTTP or WebSockets URL
+  cs: Spouští zátěžový test na vybrané adrese URL HTTP nebo WebSockets
+  de: Führt einen Lasttest auf der ausgewählten HTTP- oder WebSockets-URL aus
+  es: Ejecuta una prueba de carga en la URL HTTP o WebSockets seleccionada
+  fr: Exécute un test de charge sur l'URL HTTP ou WebSockets sélectionnée
+  id: Menjalankan uji beban pada URL HTTP atau WebSockets yang dipilih
+  it: Esegue un test di carico sull'URL HTTP o WebSockets selezionato
+  ja: 選択した HTTP または WebSockets の URL に対して負荷テストを実行します
+  ko: 선택한 HTTP 또는 WebSockets URL에서 부하 테스트를 실행합니다
+  pl: Uruchamia test obciążenia na wybranym adresie URL HTTP lub WebSockets
+  pt: Executa um teste de carga na URL HTTP ou WebSockets selecionada
+  ro: Rulește un test de încărcare pe URL-ul HTTP sau WebSockets selectat
+  ru: Запускает нагрузочный тест по выбранному URL-адресу HTTP или WebSockets
+  th: รันการทดสอบโหลดบน URL ของ HTTP หรือ WebSockets ที่เลือกไว้
+  tr: Seçilen HTTP veya WebSockets URL'sinde yük testi çalıştırır
+  uk: Запускає навантажувальний тест за вибраною URL-адресою HTTP або WebSockets
+  vi: Chạy kiểm thử tải trên URL HTTP hoặc WebSockets đã chọn
 x:
   source: https://github.com/alexfernandez/loadtest
   npm: loadtest

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用于构建 shell 管道的交互式 TUI 草稿本
   en: 'Interactive TUI scratchpad for building shell pipelines'
+  cs: Interaktivní TUI škráblka pro sestavování shellových pipeline
+  de: Interaktives TUI-Scratchpad zum Bauen von Shell-Pipelines
+  es: Bloc de notas TUI interactivo para crear canalizaciones de shell
+  fr: Bloc-notes TUI interactif pour construire des pipelines shell
+  id: Scratchpad TUI interaktif untuk membangun pipeline shell
+  it: Scratchpad TUI interattivo per costruire pipeline shell
+  ja: シェルパイプラインを組むためのインタラクティブな TUI スクラッチパッド
+  ko: 셸 파이프라인을 만들기 위한 대화형 TUI 스크래치패드
+  pl: Interaktywny notesznik TUI do budowania potoków powłoki
+  pt: Bloco de notas TUI interativo para montar pipelines de shell
+  ro: Carnet de scribble TUI interactiv pentru construirea de pipeline-uri shell
+  ru: Интерактивный TUI-скретчпад для составления shell-конвейеров
+  th: สแกรตช์แพดแบบ TUI แบบโต้ตอบสำหรับสร้าง pipeline ของ shell
+  tr: Shell işlem hatları oluşturmak için etkileşimli TUI çizim defteri
+  uk: Інтерактивний TUI-чернетковий ноутбук для побудови shell-конвеєрів
+  vi: Scratchpad TUI tương tác để xây dựng pipeline shell
 x:
   source: https://github.com/tlipinski/rura
   eget: tlipinski/rura

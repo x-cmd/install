@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: trashy 是一个用 Rust 写的简单，快速，特色的替代 rm 和 trash-cli
   en: trashy is a simple, fast, and featureful alternative to rm and trash-cli written in rust
+  cs: trashy je jednoduchá, rychlá a funkční alternativa k rm a trash-cli napsaná v Rustu
+  de: trashy ist eine einfache, schnelle und funktionsreiche Alternative zu rm und trash-cli, geschrieben in Rust
+  es: trashy es una alternativa simple, rápida y completa a rm y trash-cli escrita en Rust
+  fr: trashy est une alternative simple, rapide et riche en fonctionnalités à rm et trash-cli, écrite en Rust
+  id: trashy adalah alternatif sederhana, cepat, dan lengkap untuk rm dan trash-cli yang ditulis dengan Rust
+  it: trashy è un'alternativa semplice, veloce e ricca di funzionalità a rm e trash-cli scritta in Rust
+  ja: trashy は Rust で書かれた、rm と trash-cli の代用となる、単純で高速な機能豊富なツールです。
+  ko: trashy는 Rust로 작성된 rm 및 trash-cli의 간단하고 빠르고 기능이 풍부한 대안입니다
+  pl: trashy to prosta, szybka i bogata w funkcje alternatywa dla rm i trash-cli napisana w Rust
+  pt: trashy é uma alternativa simples, rápida e cheia de recursos ao rm e ao trash-cli, escrita em Rust
+  ro: trashy este o alternativă simplă, rapidă și bogată în funcționalități față de rm și trash-cli, scrisă în Rust
+  ru: trashy — простая, быстрая и функциональная альтернатива rm и trash-cli, написанная на Rust
+  th: trashy คือทางเลือกที่เรียบง่าย รวดเร็ว และมีความสามารถหลากหลายของ rm และ trash-cli เขียนด้วย Rust
+  tr: trashy, rm ve trash-cli'ye basit, hızlı ve özellik dolu bir alternatiftir ve Rust ile yazılmıştır
+  uk: trashy — проста, швидка та багата можливостями альтернатива rm і trash-cli, написана на Rust
+  vi: trashy là giải pháp thay thế đơn giản, nhanh và nhiều tính năng cho rm và trash-cli, được viết bằng Rust
 x:
   source: https://github.com/oberblastmeister/trashy
   nix: nixpkgs#trashy

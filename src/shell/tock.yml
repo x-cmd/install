@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 强大的命令行时间跟踪工具，以纯文本记录活动日志，并提供交互式终端界面
   en: 'Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.'
+  cs: Tock je výkonný nástroj pro sledování času v příkazové řádce. Ukládá protokoly aktivit jako prosté textové soubory a poskytuje interaktivní terminálové UI pro zobrazení vašeho času.
+  de: Tock ist ein leistungsstarkes Zeiterfassungstool für die Kommandozeile. Es speichert Aktivitätsprotokolle als einfache Textdateien und bietet eine interaktive Terminal-Oberfläche zur Anzeige Ihrer Zeit.
+  es: Tock es una potente herramienta de seguimiento del tiempo para la línea de comandos. Guarda los registros de actividad como archivos de texto plano y ofrece una interfaz de terminal interactiva para consultar tu tiempo.
+  fr: Tock est un puissant outil de suivi du temps pour la ligne de commande. Il enregistre les journaux d'activité dans des fichiers texte brut et fournit une interface de terminal interactive pour consulter votre temps.
+  id: Tock adalah alat pelacakan waktu yang powerful untuk command line. Tock menyimpan log aktivitas sebagai file teks biasa dan menyediakan UI terminal interaktif untuk melihat waktu Anda.
+  it: Tock è un potente strumento di tracciamento del tempo per la riga di comando. Salva i registri di attività come file di testo semplice e fornisce un'interfaccia terminale interattiva per consultare il tuo tempo.
+  ja: Tock はコマンドライン向けの強力な時間管理ツールです。活動ログをプレーンテキストファイルとして保存し、時間の確認ができる対話的なターミナル UI を提供します。
+  ko: Tock은 명령줄을 위한 강력한 시간 추적 도구입니다. 활동 로그를 평문 파일로 저장하고, 시간을 확인하기 위한 대화형 터미널 UI를 제공합니다.
+  pl: Tock to potężne narzędzie do śledzenia czasu w wierszu poleceń. Zapisuje logi aktywności jako zwykłe pliki tekstowe i udostępnia interaktywny interfejs terminala do przeglądania czasu.
+  pt: O Tock é uma poderosa ferramenta de acompanhamento de tempo para a linha de comando. Salva registros de atividade como arquivos de texto simples e oferece uma interface de terminal interativa para ver seu tempo.
+  ro: Tock este un puternic instrument de urmărire a timpului pentru linia de comandă. Salvează jurnalele de activitate ca fișiere text simplu și oferă o interfață de terminal interactivă pentru vizualizarea timpului tău.
+  ru: Tock — мощный инструмент учёта времени для командной строки. Он сохраняет журналы активности в виде обычных текстовых файлов и предоставляет интерактивный терминальный интерфейс для просмотра затраченного времени.
+  th: Tock เป็นเครื่องมือติดตามเวลาที่มีประสิทธิภาพสำหรับบรรทัดคำสั่ง มันบันทึกบันทึกกิจกรรมเป็นไฟล์ข้อความธรรมดา และให้ UI เทอร์มินัลแบบโต้ตอบสำหรับดูเวลาของคุณ
+  tr: Tock, komut satırı için güçlü bir zaman takibi aracıdır. Etkinlik günlüklerini düz metin dosyaları olarak kaydeder ve zamanınızı görüntülemek için etkileşimli bir terminal arayüzü sunar.
+  uk: Tock — потужний інструмент обліку часу для командного рядка. Він зберігає журнали активності у вигляді звичайних текстових файлів і надає інтерактивний термінальний інтерфейс для перегляду витраченого часу.
+  vi: Tock là công cụ theo dõi thời gian mạnh mẽ cho dòng lệnh. Nó lưu nhật ký hoạt động dưới dạng tệp văn bản thuần và cung cấp giao diện terminal tương tác để xem thời gian của bạn.
 x:
   source: https://github.com/kriuchkov/tock
   eget: kriuchkov/tock

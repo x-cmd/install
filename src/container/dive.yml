@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于探索 Docker 图像、图层内容和发现缩小 Docker/OCI 图像大小的方法的工具
   en: A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image
+  cs: Nástroj pro průzkum Docker obrazu, obsahu vrstev a hledání způsobů, jak zmenšit velikost vašeho Docker/OCI obrazu
+  de: Ein Werkzeug zum Erkunden eines Docker-Images, seiner Layer-Inhalte und zum Finden von Möglichkeiten, die Größe Ihres Docker/OCI-Images zu verkleinern
+  es: Una herramienta para explorar una imagen Docker, el contenido de las capas y descubrir formas de reducir el tamaño de tu imagen Docker/OCI
+  fr: Un outil pour explorer une image Docker, le contenu des couches et découvrir des moyens de réduire la taille de votre image Docker/OCI
+  id: Alat untuk menjelajahi image Docker, isi lapisan, dan menemukan cara memperkecil ukuran image Docker/OCI Anda
+  it: Uno strumento per esplorare un'immagine Docker, il contenuto dei livelli e scoprire modi per ridurre le dimensioni della tua immagine Docker/OCI
+  ja: Dockerイメージやレイヤーの中身を調査し、Docker/OCIイメージのサイズを縮小する方法を見つけるツール
+  ko: Docker 이미지, 레이어 내용물을 탐색하고 Docker/OCI 이미지 크기를 줄이는 방법을 찾는 도구
+  pl: Narzędzie do przeglądania obrazu Docker, zawartości warstw i odkrywania sposobów zmniejszenia rozmiaru obrazu Docker/OCI
+  pt: Uma ferramenta para explorar uma imagem Docker, o conteúdo das camadas e descobrir maneiras de reduzir o tamanho da sua imagem Docker/OCI
+  ro: Un instrument pentru explorarea unei imagini Docker, a conținutului straturilor și a descoperirii de modalități de a micșora dimensiunea imaginii Docker/OCI
+  ru: Инструмент для исследования Docker-образа, содержимого слоёв и поиска способов уменьшить размер вашего Docker/OCI-образа
+  th: เครื่องมือสำหรับสำรวจอิมเมจ Docker เนื้อหาของเลเยอร์ และค้นหาวิธีลดขนาดอิมเมจ Docker/OCI ของคุณ
+  tr: Bir Docker imajını, katman içeriklerini incelemek ve Docker/OCI imajınızın boyutunu küçültme yollarını keşfetmek için araç
+  uk: Інструмент для дослідження образу Docker, вмісту шарів і пошуку способів зменшити розмір вашого образу Docker/OCI
+  vi: Công cụ để khám phá image Docker, nội dung các layer và tìm cách thu nhỏ kích thước image Docker/OCI của bạn
 x:
   source: https://github.com/wagoodman/dive
   eget: wagoodman/dive

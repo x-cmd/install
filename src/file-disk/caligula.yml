@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 用户友好的轻量级磁盘镜像 TUI
   en: 'A user-friendly, lightweight TUI for disk imaging'
+  cs: Uživatelsky přátelské lehké TUI pro vytváření obrazů disků
+  de: Ein benutzerfreundliches, leichtgewichtiges TUI zum Erstellen von Disk-Abbildern
+  es: Una TUI ligera y fácil de usar para crear imágenes de disco
+  fr: Une TUI légère et conviviale pour créer des images de disque
+  id: TUI ringan yang ramah pengguna untuk pembuatan citra disk
+  it: Una TUI leggera e user-friendly per la creazione di immagini disco
+  ja: ディスクイメージ作成のための軽量でユーザーフレンドリーな TUI
+  ko: 디스크 이미징을 위한 가볍고 사용자 친화적인 TUI
+  pl: Lekki, przyjazny użytkownikowi TUI do tworzenia obrazów dysków
+  pt: Uma TUI leve e amigável para criar imagens de disco
+  ro: O interfață TUI ușoară și prietenoasă cu utilizatorul pentru crearea imaginilor de disc
+  ru: Лёгкий и удобный TUI для создания образов дисков
+  th: TUI ที่ใช้งานง่ายและมีน้ำหนักเบา สำหรับสร้างอิมเมจดิสก์
+  tr: Disk imajı oluşturmak için kullanıcı dostu, hafif bir TUI
+  uk: Легкий і зручний TUI для створення образів дисків
+  vi: Giao diện TUI nhẹ, thân thiện với người dùng để tạo ảnh đĩa
 x:
   source: https://github.com/ifd3f/caligula
   eget: ifd3f/caligula

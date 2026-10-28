@@ -2,6 +2,22 @@ lang: JavaScript
 desc:
   cn: 将 Markdown 文档转换为单页应用程序 (SPA)
   en: Convert markdown documents to single page applications (SPA)
+  cs: Převádí dokumenty Markdown na jednostránkové aplikace (SPA)
+  de: Wandelt Markdown-Dokumente in Single-Page-Anwendungen (SPA) um
+  es: Convierte documentos Markdown en aplicaciones de una sola página (SPA)
+  fr: Convertit des documents Markdown en applications monopage (SPA)
+  id: Mengubah dokumen Markdown menjadi aplikasi satu halaman (SPA)
+  it: Converte i documenti Markdown in applicazioni a pagina singola (SPA)
+  ja: Markdown ドキュメントをシングルページアプリケーション (SPA) に変換します
+  ko: Markdown 문서를 단일 페이지 애플리케이션(SPA)으로 변환합니다
+  pl: Konwertuje dokumenty Markdown do aplikacji jednostronicowych (SPA)
+  pt: Converte documentos Markdown em aplicações de página única (SPA)
+  ro: Convertește documentele Markdown în aplicații cu o singură pagină (SPA)
+  ru: Преобразует документы Markdown в одностраничные приложения (SPA)
+  th: แปลงเอกสาร Markdown เป็นแอปพลิเคชันหน้าเดียว (SPA)
+  tr: Markdown belgelerini tek sayfalık uygulamalara (SPA) dönüştürür
+  uk: Перетворює документи Markdown в односторінкові застосунки (SPA)
+  vi: Chuyển đổi tài liệu Markdown thành ứng dụng một trang (SPA)
 homepage: https://book.gemjs.org/cli
 rule:
   /npm:

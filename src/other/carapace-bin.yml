@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Carapace-bin 是一个命令行补全工具，能为多个 CLI 命令提供参数补全，并可跨多个 POSIX 和非 POSIX shell 工作。
   en: Carapace-bin provides argument completion for multiple CLI commands (full list), and works across multiple POSIX and non-POSIX shells.
+  cs: Carapace-bin poskytuje dokončování argumentů pro více příkazů CLI a funguje v mnoha POSIX i ne-POSIX shellech
+  de: Carapace-bin bietet Argumentvervollständigung für mehrere CLI-Befehle und funktioniert in vielen POSIX- und Nicht-POSIX-Shells
+  es: Carapace-bin ofrece completado de argumentos para varios comandos de CLI y funciona en múltiples shells POSIX y no POSIX
+  fr: Carapace-bin fournit la complétion des arguments pour plusieurs commandes CLI et fonctionne avec plusieurs shells POSIX et non-POSIX
+  id: Carapace-bin menyediakan penyelesaian argumen untuk beberapa perintah CLI dan bekerja di berbagai shell POSIX dan non-POSIX
+  it: Carapace-bin fornisce il completamento degli argomenti per più comandi CLI e funziona in molte shell POSIX e non POSIX
+  ja: Carapace-bin は複数のCLIコマンドの引数補完を提供し、POSIX・非POSIXのさまざまなシェルに対応しています
+  ko: Carapace-bin은 여러 CLI 명령에 대한 인자 완성을 제공하고 POSIX 및 비-POSIX 셸에서 동작합니다
+  pl: Carapace-bin zapewnia uzupełnianie argumentów dla wielu poleceń CLI i działa w różnych powłokach POSIX i nie-POSIX
+  pt: O Carapace-bin oferece completamento de argumentos para vários comandos de CLI e funciona em múltiplos shells POSIX e não-POSIX
+  ro: Carapace-bin oferă completarea argumentelor pentru mai multe comenzi CLI și funcționează în numeroase shell-uri POSIX și non-POSIX
+  ru: Carapace-bin обеспечивает дополнение аргументов для нескольких CLI-команд и работает в различных оболочках POSIX и не-POSIX
+  th: Carapace-bin ให้การเติมข้อโต้แก้อาร์กิวเมนต์สำหรับคำสั่ง CLI หลายรายการ และทำงานได้ในเชลล์แบบ POSIX และไม่ใช่ POSIX หลายแบบ
+  tr: Carapace-bin, birden çok CLI komutu için argüman tamamlama sağlar ve çeşitli POSIX ve POSIX olmayan kabuklarda çalışır
+  uk: Carapace-bin надає доповнення аргументів для кількох CLI-команд і працює в різних оболонках POSIX та не-POSIX
+  vi: Carapace-bin cung cấp hoàn thiện đối số cho nhiều lệnh CLI và hoạt động trên nhiều shell POSIX và không phải POSIX
 x:
   source: https://github.com/carapace-sh/carapace-bin
   eget: carapace-sh/carapace-bin

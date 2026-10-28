@@ -3,6 +3,22 @@ homepage: https://rakudo.org/
 desc:
   cn: 一种通用的、渐进式类型的编程语言，支持多重编程范式
   en: A general, progressive type of programming language that supports multiple programming paradigms
+  cs: Obecný, progresivně typovaný programovací jazyk podporující více programovacích paradigmat
+  de: Eine allgemeine, fortschreitend typisierte Programmiersprache, die mehrere Programmierparadigmen unterstützt
+  es: Un lenguaje de programación general de tipado progresivo que admite varios paradigmas de programación
+  fr: Un langage de programmation général à typage progressif qui prend en charge plusieurs paradigmes de programmation
+  id: Bahasa pemrograman umum dengan tipe progresif yang mendukung berbagai paradigma pemrograman
+  it: Un linguaggio di programmazione generalista a tipizzazione progressiva che supporta molteplici paradigmi di programmazione
+  ja: 複数のプログラミングパラダイムに対応した、段階的型付けの汎用プログラミング言語
+  ko: 여러 프로그래밍 패러다임을 지원하는 점진적 타입의 범용 프로그래밍 언어
+  pl: Ogólny, stopniowo typowany język programowania obsługujący wiele paradygmatów programowania
+  pt: Uma linguagem de programação de uso geral com tipagem progressiva que oferece suporte a múltiplos paradigmas de programação
+  ro: Un limbaj de programare de uz general cu tipare progresivă, care acceptă mai multe paradigme de programare
+  ru: Универсальный прогрессивно типизированный язык программирования, поддерживающий несколько парадигм программирования
+  th: ภาษาโปรแกรมทั่วไปแบบมีการกำหนดชนิดข้อมูลแบบก้าวหน้า รองรับแนวคิดการเขียนโปรแกรมหลายแบบ
+  tr: Birden fazla programlama paradigmasını destekleyen, kademeli tipli genel amaçlı bir programlama dili
+  uk: Загальна прогресивно типізована мова програмування, що підтримує кілька парадигм програмування
+  vi: Ngôn ngữ lập trình tổng quát có kiểu tiến bộ hỗ trợ nhiều mô hình lập trình
 x:
   apt: rakudo
   dnf: rakudo

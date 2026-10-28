@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 快速强大的日志查看与处理工具,将 JSON 或 logfmt 日志转为清晰的可读格式
   en: 'A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.'
+  cs: Rychlý a výkonný prohlížeč a zpracovatel protokolů, který převádí protokoly JSON nebo logfmt do přehledného lidsky čitelného formátu.
+  de: Ein schneller und leistungsstarker Log-Viewer und -Prozessor, der JSON- oder logfmt-Logs in ein klares, menschenlesbares Format umwandelt.
+  es: Un visor y procesador de registros rápido y potente que convierte los registros JSON o logfmt en un formato claro y legible por humanos.
+  fr: Un visualiseur et processeur de journaux rapide et puissant qui convertit les journaux JSON ou logfmt en un format clair et lisible par l'homme.
+  id: Penampil dan pemroses log yang cepat dan andal yang mengubah log JSON atau logfmt menjadi format yang jelas dan mudah dibaca manusia.
+  it: Un visualizzatore e processore di log veloce e potente che converte i log JSON o logfmt in un formato chiaro e leggibile.
+  ja: JSON ログや logfmt ログを人間が読みやすい明快な形式に変換する、高速で強力なログビューア兼プロセッサです。
+  ko: JSON 로그나 logfmt 로그를 명확한 사람이 읽을 수 있는 형식으로 변환하는 빠르고 강력한 로그 뷰어이자 프로세서입니다.
+  pl: Szybki i wydajny podgląd oraz procesor logów, który konwertuje logi JSON lub logfmt do czytelnego, zrozumiałego formatu.
+  pt: Um visualizador e processador de logs rápido e poderoso que converte logs JSON ou logfmt em um formato claro e legível por humanos.
+  ro: Un vizualizator și procesor de jurnale rapid și puternic, care transformă jurnalele JSON sau logfmt într-un format clar și ușor de citit de om.
+  ru: Быстрый и мощный просмотрщик и обработчик журналов, преобразующий журналы JSON или logfmt в понятный человекочитаемый формат.
+  th: ตัวดูภาพและประมวลผลบันทึกที่รวดเร็วและทรงพลัง ซึ่งแปลงบันทึก JSON หรือ logfmt ให้เป็นรูปแบบที่ชัดเจนและอ่านได้
+  tr: JSON veya logfmt günlüklerini açık ve insan tarafından okunabilir bir biçime dönüştüren hızlı ve güçlü bir günlük görüntüleyici ve işleyicidir.
+  uk: Швидкий і потужний переглядач та обробник журналів, який перетворює журнали JSON або logfmt у зрозумілий людині формат.
+  vi: Trình xem và xử lý nhật ký nhanh, mạnh mẽ, chuyển nhật ký JSON hoặc logfmt thành định dạng rõ ràng dễ đọc
 x:
   source: https://github.com/pamburus/hl
   eget: pamburus/hl

@@ -1,6 +1,22 @@
 desc:
   cn: gum 是一个集成了多款 Terminal UI 命令行工具，可帮助用户在编写脚本提供一个用户友好的命令行界面
   en: Gum is an integrated Terminal UI command line tool that helps users write scripts with a user-friendly Command-line interface
+  cs: Gum je integrovaný nástroj CLI s rozhraním Terminal UI, který pomáhá uživatelům psát skripty s uživatelsky přívětivým rozhraním příkazové řádky
+  de: Gum ist ein integriertes Terminal-UI-Kommandozeilenwerkzeug, das Nutzern hilft, Skripte mit einer benutzerfreundlichen Kommandozeilenoberfläche zu schreiben
+  es: Gum es una herramienta de línea de comandos Terminal UI integrada que ayuda a los usuarios a escribir scripts con una interfaz de línea de comandos fácil de usar
+  fr: Gum est un outil en ligne de commande Terminal UI intégré qui aide les utilisateurs à écrire des scripts avec une interface de ligne de commande conviviale
+  id: Gum adalah alat command line Terminal UI terintegrasi yang membantu pengguna menulis skrip dengan antarmuka command-line yang ramah pengguna
+  it: Gum è uno strumento da riga di comando Terminal UI integrato che aiuta gli utenti a scrivere script con un'interfaccia a riga di comando intuitiva
+  ja: Gum は Terminal UI の統合型コマンドラインツールで、ユーザーに親切なコマンドラインインターフェースでスクリプトを書けるようにします
+  ko: Gum은 Terminal UI 통합 command line 도구로, 사용자에게 친숙한 명령줄 인터페이스로 스크립트를 작성하도록 돕습니다
+  pl: Gum to zintegrowane narzędzie wiersza poleceń Terminal UI, które pomaga użytkownikom pisać skrypty przyjaznym interfejsem wiersza poleceń
+  pt: Gum é uma ferramenta de linha de comando Terminal UI integrada que ajuda os usuários a escrever scripts com uma interface de linha de comando amigável
+  ro: Gum este un instrument de linie de comandă Terminal UI integrat care îi ajută pe utilizatori să scrie scripturi cu o interfață de linie de comandă prietenoasă
+  ru: Gum — интегрированный инструмент командной строки с Terminal UI, который помогает пользователям писать скрипты с удобным интерфейсом командной строки
+  th: Gum คือเครื่องมือบรรทัดคำสั่งแบบ Terminal UI แบบรวม ช่วยให้ผู้ใช้เขียนสคริปต์ด้วยอินเทอร์เฟซบรรทัดคำสั่งที่ใช้งานง่าย
+  tr: Gum, kullanıcıların kullanıcı dostu bir komut satırı arayüzüyle betik yazmasına yardımcı olan entegre bir Terminal UI komut satırı aracıdır
+  uk: Gum — інтегрований інструмент командного рядка з Terminal UI, який допомагає користувачам писати скрипти зручним інтерфейсом командного рядка
+  vi: Gum là công cụ dòng lệnh Terminal UI tích hợp, giúp người dùng viết script với giao diện dòng lệnh thân thiện
 homepage: https://github.com/charmbracelet/gum
 license: MIT
 lang: Go

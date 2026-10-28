@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Linode 命令行界面
   en: The Linode Command Line Interface
+  cs: Příkazové rozhraní Linode
+  de: Die Linode Command Line Interface
+  es: La interfaz de línea de comandos de Linode
+  fr: L'interface de ligne de commande Linode
+  id: Antarmuka baris perintah Linode
+  it: L'interfaccia a riga di comando di Linode
+  ja: Linode コマンドラインインターフェース
+  ko: Linode 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń Linode
+  pt: A interface de linha de comando do Linode
+  ro: Interfața de linie de comandă Linode
+  ru: Интерфейс командной строки Linode
+  th: อินเทอร์เฟซบรรทัดคำสั่งของ Linode
+  tr: Linode Komut Satırı Arayüzü
+  uk: Інтерфейс командного рядка Linode
+  vi: Giao diện dòng lệnh của Linode
 x:
   source: https://github.com/linode/linode-cli
   brew: linode-cli

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Sentry 官方为 AI 编码助手打造的技能库——35 项 Agent Skills,教 Claude Code / Cursor / Codex / Grok 学会配置 Sentry、排查生产事故、做带 Sentry 上下文的代码评审。
   en: Sentry's official skill library for AI coding assistants — 35 Agent Skills that teach Claude Code / Cursor / Codex / Grok to set up Sentry, triage production issues, and do code review with Sentry context.
+  cs: Oficiální knihovna dovedností Sentry pro AI programátorské asistenty - 35 Agent Skills, které naučí Claude Code / Cursor / Codex / Grok nastavit Sentry, třídit produkční problémy a dělat code review s kontextem Sentry.
+  de: Sentrys offizielle Skill-Bibliothek für KI-Coding-Assistenten - 35 Agent Skills, die Claude Code / Cursor / Codex / Grok beibringen, Sentry einzurichten, Produktionsprobleme zu triagieren und Reviews mit Sentry-Kontext durchzuführen.
+  es: "La biblioteca de skills oficial de Sentry para asistentes de programación con IA: 35 Agent Skills que enseñan a Claude Code / Cursor / Codex / Grok a configurar Sentry, clasificar incidencias en producción y hacer revisiones de código con contexto de Sentry."
+  fr: La bibliothèque de skills officielle de Sentry pour les assistants de codage IA - 35 Agent Skills qui apprennent à Claude Code / Cursor / Codex / Grok à configurer Sentry, à trier les incidents de production et à faire de la revue de code avec le contexte Sentry.
+  id: Pustaka skill resmi Sentry untuk asisten pemrograman AI - 35 Agent Skills yang mengajarkan Claude Code / Cursor / Codex / Grok cara menyiapkan Sentry, triase masalah produksi, dan melakukan code review dengan konteks Sentry.
+  it: La libreria di skill ufficiale di Sentry per assistenti di programmazione IA - 35 Agent Skills che insegnano a Claude Code / Cursor / Codex / Grok come configurare Sentry, fare triage dei problemi in produzione e condurre code review con il contesto Sentry.
+  ja: Sentry の公式スキルライブラリ、AI コーディングアシスタント向け - Claude Code / Cursor / Codex / Grok に Sentry の設定方法、本番問題の切り分け、Sentry コンテキストを使ったコードレビューを教える 35 の Agent Skills。
+  ko: AI 코딩 어시스턴트를 위한 Sentry 공식 스킬 라이브러리 - Claude Code / Cursor / Codex / Grok에 Sentry 설정, 운영 이슈 분류, Sentry 컨텍스트를 활용한 코드 리뷰를 가르치는 35개의 Agent Skills.
+  pl: Oficjalna biblioteka umiejętności Sentry dla asystentów programistycznych AI - 35 Agent Skills, które uczą Claude Code / Cursor / Codex / Grok konfiguracji Sentry, triażu problemów produkcyjnych i przeglądu kodu z kontekstem Sentry.
+  pt: A biblioteca oficial de skills da Sentry para assistentes de programação com IA - 35 Agent Skills que ensinam Claude Code / Cursor / Codex / Grok a configurar o Sentry, fazer triagem de problemas em produção e revisar código com contexto do Sentry.
+  ro: Biblioteca oficială de skill-uri Sentry pentru assistenți de programare AI - 35 Agent Skills care îi învață pe Claude Code / Cursor / Codex / Grok să configureze Sentry, să trieze incidentele din producție și să facă code review cu context Sentry.
+  ru: Официальная библиотека навыков Sentry для ИИ-ассистентов программирования - 35 Agent Skills, которые учат Claude Code / Cursor / Codex / Grok настраивать Sentry, разбирать production-инциденты и проводить code review с контекстом Sentry.
+  th: คลัง skill อย่างเป็นทางการของ Sentry สำหรับผู้ช่วยเขียนโค้ดด้วย AI - 35 Agent Skills ที่สอน Claude Code / Cursor / Codex / Grok ให้ติดตั้ง Sentry จัดการปัญหาใน production และทำ code review พร้อมบริบทของ Sentry
+  tr: Sentry'nin YZ kodlama asistanlarına yönelik resmi skill kütüphanesi - Claude Code / Cursor / Codex / Grok'a Sentry kurmayı, üretim sorunlarını önceliklendirmeyi ve Sentry bağlamıyla kod incelemesi yapmayı öğreten 35 Agent Skills.
+  uk: Офіційна бібліотека навичок Sentry для ШІ-асистентів програмування - 35 Agent Skills, які навчають Claude Code / Cursor / Codex / Grok налаштовувати Sentry, розбирати production-інциденти та проводити code review із контекстом Sentry.
+  vi: Thư viện skill chính thức của Sentry cho các trợ lý lập trình AI - 35 Agent Skills dạy Claude Code / Cursor / Codex / Grok cách thiết lập Sentry, phân loại sự cố trong môi trường production và thực hiện code review với ngữ cảnh Sentry.
 x:
   source: https://github.com/getsentry/sentry-for-ai
 rule:

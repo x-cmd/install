@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 为 DeepSeek 前缀缓存专门优化、最小化 API 成本的终端低成本 AI 编码智能体
   en: Run a cost-efficient AI coding agent in your terminal, specifically engineered for DeepSeek's prefix-caching to minimize API costs.
+  cs: Spouštějte cenově efektivního AI kódovacího agenta ve svém terminálu, speciálně navrženého pro prefix cachování DeepSeek, aby se minimalizovaly náklady na API.
+  de: Führen Sie einen kosteneffizienten KI-Coding-Agenten in Ihrem Terminal aus, der speziell für das Prefix-Caching von DeepSeek entwickelt wurde, um API-Kosten zu minimieren.
+  es: Ejecute un agente de programación con IA rentable en su terminal, diseñado específicamente para el almacenamiento en caché de prefijos de DeepSeek y así minimizar los costes de la API.
+  fr: Exécutez dans votre terminal un agent de codage IA économique, conçu spécifiquement pour la mise en cache de préfixes de DeepSeek afin de minimiser les coûts de l'API.
+  id: Jalankan agen pemrograman AI yang hemat biaya di terminal Anda, dirancang khusus untuk prefix caching DeepSeek guna meminimalkan biaya API.
+  it: Esegui nel tuo terminale un agente di programmazione IA economico, progettato appositamente per il prefix caching di DeepSeek e per ridurre al minimo i costi dell'API.
+  ja: ターミナルでコスト効率のよい AI コーディングエージェントを実行。DeepSeek のプレフィックスキャッシュに最適化され、API コストを最小化します。
+  ko: 터미널에서 비용 효율적인 AI 코딩 에이전트를 실행하세요. DeepSeek의 접두사 캐싱에 맞춰 설계되어 API 비용을 최소화합니다.
+  pl: Uruchom w terminalu opłacalnego agenta programowania AI, specjalnie zaprojektowanego pod buforowanie prefiksów DeepSeek, aby zminimalizować koszty API.
+  pt: Execute um agente de programação com IA econômico no seu terminal, projetado especificamente para o cache de prefixo do DeepSeek a fim de minimizar os custos da API.
+  ro: Rulați în terminal un agent de programare AI economic, conceput special pentru cache-ul de prefix DeepSeek, pentru a minimiza costurile API.
+  ru: Запускайте экономичного ИИ-агента для написания кода прямо в терминале, специально созданного для префиксного кэширования DeepSeek, чтобы снизить затраты на API.
+  th: เรียกใช้เอเจนต์เขียนโค้ดด้วย AI ที่ประหยัดค่าใช้จ่ายในเทอร์มินัล ซึ่งออกแบบมาเพื่อ prefix caching ของ DeepSeek โดยเฉพาะ เพื่อลดค่าใช้จ่าย API
+  tr: Terminalinizde maliyet açısından verimli, DeepSeek'in ön ek önbelleğine özel olarak tasarlanmış ve API maliyetlerini en aza indiren bir YZ kodlama ajanı çalıştırın.
+  uk: Запускайте в терміналі економного ІІ-агента для написання коду, спеціально створеного для префіксного кешування DeepSeek, щоб знизити витрати на API.
+  vi: Chạy một agent lập trình AI tiết kiệm chi phí ngay trong terminal của bạn, được thiết kế riêng cho bộ nhớ đệm tiền tố của DeepSeek nhằm giảm thiểu chi phí API.
 x:
   source: https://github.com/esengine/DeepSeek-Reasonix
   eget: esengine/DeepSeek-Reasonix

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向开发者的安全强大的环境变量管理器，提供直观 TUI 与完整 CLI
   en: 'A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.'
+  cs: Výkonný a bezpečný správce proměnných prostředí pro vývojáře s intuitivním rozhraním TUI a kompletním rozhraním příkazové řádky.
+  de: Ein leistungsfähiger und sicherer Umgebungsvariablen-Manager für Entwickler mit intuitiver Terminal-Benutzeroberfläche (TUI) und umfassender Kommandozeilenschnittstelle.
+  es: Un gestor de variables de entorno potente y seguro para desarrolladores, con interfaz de usuario de terminal (TUI) intuitiva e interfaz de línea de comandos completa.
+  fr: Un gestionnaire de variables d'environnement puissant et sécurisé pour les développeurs, avec une interface utilisateur terminal (TUI) intuitive et une interface de ligne de commande complète.
+  id: Pengelola variabel lingkungan yang andal dan aman untuk pengembang, dengan antarmuka pengguna terminal (TUI) yang intuitif dan antarmuka baris perintah yang lengkap.
+  it: Un gestore di variabili d'ambiente potente e sicuro per sviluppatori, con interfaccia utente terminale (TUI) intuitiva e interfaccia a riga di comando completa.
+  ja: 開発者向けの強力かつ安全な環境変数マネージャ。直感的なTUIと完全なコマンドラインインターフェースを備えています。
+  ko: 개발자를 위한 강력하고 안전한 환경 변수 관리자, 직관적인 터미널 사용자 인터페이스(TUI)와 완전한 명령줄 인터페이스를 제공합니다.
+  pl: Potężny i bezpieczny menedżer zmiennych środowiskowych dla deweloperów, z intuicyjnym terminalowym interfejsem użytkownika (TUI) i pełnym interfejsem wiersza poleceń.
+  pt: Um gerenciador de variáveis de ambiente poderoso e seguro para desenvolvedores, com interface de usuário de terminal (TUI) intuitiva e interface de linha de comando completa.
+  ro: Un manager de variabile de mediu puternic și sigur pentru dezvoltatori, cu interfață de utilizator în terminal (TUI) intuitivă și interfață de linie de comandă cuprinzătoare.
+  ru: Мощный и безопасный менеджер переменных окружения для разработчиков с интуитивным терминальным интерфейсом (TUI) и полноценным интерфейсом командной строки.
+  th: ตัวจัดการตัวแปรสภาพแวดล้อมที่ทรงพลังและปลอดภัยสำหรับนักพัฒนา พร้อมส่วนติดต่อผู้ใช้แบบเทอร์มินัล (TUI) ที่ใช้งานง่ายและส่วนติดต่อบรรทัดคำสั่งที่ครบถ้วน
+  tr: Geliştiriciler için güçlü ve güvenli bir ortam değişkeni yöneticisi; sezgisel bir Terminal Kullanıcı Arayüzü (TUI) ve kapsamlı bir komut satırı arayüzü sunar.
+  uk: Потужний і безпечний менеджер змінних оточення для розробників з інтуїтивним термінальним інтерфейсом (TUI) та повноцінним інтерфейсом командного рядка.
+  vi: Trình quản lý biến môi trường mạnh mẽ và an toàn dành cho nhà phát triển, với giao diện người dùng terminal (TUI) trực quan và giao diện dòng lệnh đầy đủ.
 x:
   source: https://github.com/mikeleppane/envx
   eget: mikeleppane/envx

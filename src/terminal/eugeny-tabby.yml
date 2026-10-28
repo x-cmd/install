@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Tabby 是 Windows 标准终端 (conhost)、PowerShell ISE、PuTTY、macOS Terminal.app 和 iTerm 的替代品
   en: Tabby is an alternative to Windows' standard terminal (conhost), PowerShell ISE, PuTTY, macOS Terminal.app and iTerm
+  cs: Tabby je alternativou ke standardnímu terminálu Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app a iTerm
+  de: Tabby ist eine Alternative zum Standard-Terminal von Windows (conhost), zu PowerShell ISE, PuTTY, macOS Terminal.app und iTerm
+  es: Tabby es una alternativa al terminal estándar de Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app e iTerm
+  fr: Tabby est une alternative au terminal standard de Windows (conhost), à PowerShell ISE, à PuTTY, à macOS Terminal.app et à iTerm
+  id: Tabby adalah alternatif untuk terminal standar Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app, dan iTerm
+  it: Tabby è un'alternativa al terminale standard di Windows (conhost), a PowerShell ISE, PuTTY, macOS Terminal.app e iTerm
+  ja: TabbyはWindows標準のターミナル (conhost)、PowerShell ISE、PuTTY、macOS Terminal.app、iTermの代替となります
+  ko: Tabby는 Windows 표준 터미널(conhost), PowerShell ISE, PuTTY, macOS Terminal.app, iTerm의 대체품입니다
+  pl: Tabby to alternatywa dla standardowego terminala Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app oraz iTerm
+  pt: O Tabby é uma alternativa ao terminal padrão do Windows (conhost), ao PowerShell ISE, ao PuTTY, ao macOS Terminal.app e ao iTerm
+  ro: Tabby este o alternativă la terminalul standard al Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app și iTerm
+  ru: Tabby — альтернатива стандартному терминалу Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app и iTerm
+  th: Tabby เป็นทางเลือกแทนเทอร์มินัลมาตรฐานของ Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app และ iTerm
+  tr: Tabby, Windows'un standart terminalinin (conhost), PowerShell ISE'nin, PuTTY'nın, macOS Terminal.app'in ve iTerm'in alternatifidir
+  uk: Tabby — альтернатива стандартному терміналу Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app та iTerm
+  vi: Tabby là sự thay thế cho terminal tiêu chuẩn của Windows (conhost), PowerShell ISE, PuTTY, macOS Terminal.app và iTerm
 x:
   source: https://github.com/Eugeny/tabby
   eget: Eugeny/tabby

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Python 编写的 CLI 与 TUI 应用，为远程 Unix 系统提供补丁报告
   en: 'A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python'
+  cs: Jednoduchá aplikace CLI a TUI, která nabízí hlášení o opravách pro vzdálené unixové systémy, napsaná v Pythonu
+  de: Eine einfache CLI- und TUI-Anwendung, die Patch-Berichte für entfernte Unix-Systeme bietet, geschrieben in Python
+  es: Una aplicación simple de CLI y TUI que ofrece informes de parches para sistemas Unix remotos, escrita en Python
+  fr: Une simple application CLI et TUI offrant des rapports de correctifs pour les systèmes Unix distants, écrite en Python
+  id: Aplikasi CLI dan TUI sederhana yang menyediakan laporan patch untuk sistem unix jarak jauh, ditulis dengan Python
+  it: Una semplice applicazione CLI e TUI che offre report sulle patch per sistemi Unix remoti, scritta in Python
+  ja: Pythonで書かれた、リモートのUnixシステム向けにパッチレポートを提供するシンプルなCLI/TUIアプリケーション
+  ko: 원격 Unix 시스템에 패치 보고서를 제공하는 간단한 CLI 및 TUI 애플리케이션, Python으로 작성
+  pl: Prosta aplikacja CLI i TUI oferująca raporty o poprawkach dla zdalnych systemów Unix, napisana w Pythonie
+  pt: Um aplicativo simples de CLI e TUI que oferece relatórios de patches para sistemas Unix remotos, escrito em Python
+  ro: O aplicație simplă CLI și TUI care oferă rapoarte de patch-uri pentru sisteme Unix la distanță, scrisă în Python
+  ru: Простое приложение CLI и TUI для отчётов о патчах удалённых Unix-систем, написанное на Python
+  th: แอปพลิเคชัน CLI และ TUI แบบง่ายที่ให้รายงานแพตช์สำหรับระบบ Unix ระยะไกล เขียนด้วย Python
+  tr: Uzak Unix sistemleri için yama raporlaması sunan, Python ile yazılmış basit bir CLI ve TUI uygulaması
+  uk: Простий застосунок CLI та TUI, що надає звіти про виправлення для віддалених Unix-систем, написаний на Python
+  vi: ứng dụng CLI và TUI đơn giản cung cấp báo cáo bản vá cho các hệ thống Unix từ xa, viết bằng Python
 x:
   source: https://github.com/mrdaemon/exosphere
   eget: mrdaemon/exosphere

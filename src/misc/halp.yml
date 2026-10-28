@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A CLI tool to get help with CLI tools
   cn: 一个用于获取命令行工具帮助的命令行工具
+  cs: Nástroj CLI, který vám pomůže s nástroji CLI
+  de: Ein CLI-Tool, das Ihnen bei CLI-Tools hilft
+  es: Una herramienta de línea de comandos que te ayuda con las herramientas de línea de comandos
+  fr: Un outil en ligne de commande qui vous aide avec les outils en ligne de commande
+  id: Alat CLI untuk membantu Anda dengan alat CLI
+  it: Uno strumento da riga di comando che ti aiuta con gli strumenti da riga di comando
+  ja: CLI ツールの使い方を教えてくれる CLI ツール
+  ko: CLI 도구를 위한 도움을 제공하는 CLI 도구
+  pl: Narzędzie CLI, które pomaga w korzystaniu z narzędzi CLI
+  pt: Uma ferramenta de linha de comando que ajuda você com outras ferramentas de linha de comando
+  ro: Un instrument CLI care vă ajută cu instrumentele CLI
+  ru: CLI-инструмент, помогающий разобраться с другими CLI-инструментами
+  th: เครื่องมือ CLI ที่ช่วยคุณใช้เครื่องมือ CLI อื่น ๆ
+  tr: CLI araçları hakkında yardım almanızı sağlayan bir CLI aracı
+  uk: CLI-інструмент, який допомагає розібратися з іншими CLI-інструментами
+  vi: Công cụ CLI giúp bạn sử dụng các công cụ CLI khác
 x:
   source: https://github.com/orhun/halp
   eget: orhun/halp

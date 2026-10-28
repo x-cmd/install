@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 扫描 S3 兼容 API 上配置错误的 S3 存储桶
   en: 'Scan for misconfigured S3 buckets across S3-compatible APIs!'
+  cs: Prohledává špatně nakonfigurované S3 buckety ve všech API kompatibilních s S3!
+  de: Sucht fehlerhaft konfigurierte S3-Buckets über S3-kompatible APIs!
+  es: ¡Busca buckets S3 mal configurados en todas las API compatibles con S3!
+  fr: Recherchez des buckets S3 mal configurés sur toutes les API compatibles S3 !
+  id: Cari bucket S3 yang salah konfigurasi di seluruh API yang kompatibel dengan S3!
+  it: Cerca bucket S3 mal configurati su tutte le API compatibili con S3!
+  ja: S3 互換 API 全体で不正に構成された S3 バケットをスキャンします！
+  ko: S3 호환 API 전반에서 잘못 구성된 S3 버킷을 검색합니다!
+  pl: Skanuje źle skonfigurowane buckety S3 w całych API zgodnych z S3!
+  pt: Varre buckets S3 mal configurados em todas as APIs compatíveis com S3!
+  ro: Scanează bucket-uri S3 configurate greșit în toate API-urile compatibile cu S3!
+  ru: Ищет неверно настроенные бакеты S3 во всех API, совместимых с S3!
+  th: สแกนหาบัคเก็ต S3 ที่กำหนดค่าไม่ถูกต้องใน API ที่เข้ากับ S3 ทั้งหมด!
+  tr: S3 uyumlu tüm API'lerde yanlış yapılandırılmış S3 kovalarını arar!
+  uk: Шукає неправильно налаштовані бакети S3 у всіх API, сумісних з S3!
+  vi: Quét các bucket S3 bị cấu hình sai trên mọi API tương thích với S3!
 x:
   source: https://github.com/sa7mon/S3Scanner
   eget: sa7mon/S3Scanner

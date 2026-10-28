@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 通过 Wake-on-LAN 管理与唤醒设备的 TUI
   en: 'A TUI built for managing and waking your devices using Wake-on-LAN.'
+  cs: TUI pro správu a probouzení zařízení pomocí Wake-on-LAN.
+  de: Eine TUI zur Verwaltung und zum Aufwachen deiner Geräte mit Wake-on-LAN.
+  es: Una TUI para gestionar y despertar tus dispositivos usando Wake-on-LAN.
+  fr: Une TUI pour gérer et réveiller vos appareils à l'aide de Wake-on-LAN.
+  id: TUI untuk mengelola dan bangunkan perangkat Anda menggunakan Wake-on-LAN.
+  it: Una TUI per gestire e riattivare i tuoi dispositivi usando Wake-on-LAN.
+  ja: Wake-on-LAN を使ってデバイスを管理・起動するための TUI。
+  ko: Wake-on-LAN을 사용하여 기기를 관리하고 깨우는 TUI입니다.
+  pl: TUI do zarządzania i budzenia urządzeń za pomocą Wake-on-LAN.
+  pt: Uma TUI para gerenciar e acordar seus dispositivos usando Wake-on-LAN.
+  ro: Un TUI pentru gestionarea și trezirea dispozitivelor tale folosind Wake-on-LAN.
+  ru: TUI для управления и пробуждения ваших устройств с помощью Wake-on-LAN.
+  th: TUI สำหรับจัดการและปลุกอุปกรณ์ของคุณด้วย Wake-on-LAN
+  tr: Wake-on-LAN kullanarak cihazlarınızı yönetmek ve uyandırmak için bir TUI.
+  uk: TUI для керування та пробудження ваших пристроїв за допомогою Wake-on-LAN.
+  vi: Một TUI để quản lý và đánh thức thiết bị của bạn bằng Wake-on-LAN
 x:
   source: https://github.com/jonathanruiz/wakey
   eget: jonathanruiz/wakey

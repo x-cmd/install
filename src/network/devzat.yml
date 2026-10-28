@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 通过 SSH 与开发者聊天的工具
   en: 'The devs are over here at devzat, chat over SSH!'
+  cs: Vývojáři jsou tady na devzat, chatujte přes SSH!
+  de: Die Entwickler sind hier bei devzat, chatten Sie über SSH!
+  es: Los desarrolladores están aquí en devzat, ¡chatea por SSH!
+  fr: Les développeurs sont ici sur devzat, discutez via SSH !
+  id: Para pengembang ada di devzat, ngobrol lewat SSH!
+  it: Gli sviluppatori sono qui su devzat, chattate tramite SSH!
+  ja: 開発者たちは devzat にいます、SSH でチャットしましょう!
+  ko: 개발자들은 devzat에 있습니다, SSH로 대화하세요!
+  pl: Programiści są tutaj na devzat, porozmawiaj przez SSH!
+  pt: Os desenvolvedores estão aqui no devzat, converse por SSH!
+  ro: Dezvoltatorii sunt aici pe devzat, discutați prin SSH!
+  ru: Разработчики здесь, на devzat, общайтесь через SSH!
+  th: ผู้พัฒนาอยู่ที่นี่บน devzat แชทผ่าน SSH!
+  tr: Geliştiriciler devzat üzerinde, SSH ile sohbet edin!
+  uk: Розробники тут, на devzat, спілкуйтеся через SSH!
+  vi: Các nhà phát triển đang ở đây trên devzat, hãy trò chuyện qua SSH!
 x:
   source: https://github.com/quackduck/devzat
   eget: quackduck/devzat

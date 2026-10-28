@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个高性能的模板引擎，类似于 Jinja2 或 Django 模板引擎，用于在 Python 应用程序中生成动态内容
   en: A high-performance template engine, similar to Jinja2 or the Django template engine, for generating dynamic content in Python applications
+  cs: Vysoce výkonný šablonový engine, podobný Jinja2 nebo šablonovému enginu Django, pro generování dynamického obsahu v aplikacích Python
+  de: Eine Hochleistungs-Template-Engine, ähnlich wie Jinja2 oder die Django-Template-Engine, zum Erzeugen dynamischer Inhalte in Python-Anwendungen
+  es: Un motor de plantillas de alto rendimiento, similar a Jinja2 o al motor de plantillas de Django, para generar contenido dinámico en aplicaciones de Python
+  fr: Un moteur de templates haute performance, similaire à Jinja2 ou au moteur de templates Django, pour générer du contenu dynamique dans des applications Python
+  id: Mesin template berkinerja tinggi, mirip dengan Jinja2 atau mesin template Django, untuk menghasilkan konten dinamis di aplikasi Python
+  it: Un motore di template ad alte prestazioni, simile a Jinja2 o al motore di template di Django, per generare contenuto dinamico nelle applicazioni Python
+  ja: Jinja2 や Django のテンプレートエンジンに似た高性能なテンプレートエンジンで、Python アプリケーションで動的コンテンツを生成します
+  ko: Jinja2나 Django 템플릿 엔진과 유사한 고성능 템플릿 엔진으로, Python 애플리케이션에서 동적 콘텐츠를 생성합니다
+  pl: Wysokowydajny silnik szablonów, podobny do Jinja2 lub silnika szablonów Django, do generowania dynamicznej zawartości w aplikacjach Python
+  pt: Um mecanismo de template de alto desempenho, semelhante ao Jinja2 ou ao mecanismo de template do Django, para gerar conteúdo dinâmico em aplicativos Python
+  ro: Un motor de șabloane de înaltă performanță, similar cu Jinja2 sau motorul de șabloane Django, pentru generarea conținutului dinamic în aplicațiile Python
+  ru: Высокопроизводительный движок шаблонов, похожий на Jinja2 или движок шаблонов Django, для генерации динамического содержимого в приложениях на Python
+  th: เอนจินเทมเพลตประสิทธิภาพสูง คล้าย Jinja2 หรือเอนจินเทมเพลตของ Django สำหรับสร้างเนื้อหาแบบไดนามิกในแอปพลิเคชัน Python
+  tr: Python uygulamalarında dinamik içerik oluşturmak için Jinja2 veya Django şablon motoruna benzeyen yüksek performanslı bir şablon motoru
+  uk: Високопродуктивний рушій шаблонів, схожий на Jinja2 або рушій шаблонів Django, для генерації динамічного вмісту в застосунках на Python
+  vi: Bộ công cụ mẫu hiệu năng cao, tương tự Jinja2 hoặc bộ công cụ mẫu của Django, để tạo nội dung động trong các ứng dụng Python
 x:
   source: https://github.com/sqlalchemy/mako
   pip: Mako

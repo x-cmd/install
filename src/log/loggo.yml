@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: l'oGGo（Log & Go）是一款功能丰富的终端用户界面（TUI）应用，由 Golang 编写，利用终端的强大功能来解析基于 JSON 的日志流。
   en: l'oGGo or Log & Go is a rich Terminal User Interface app written in golang that harness the power of your terminal to digest log streams based on JSON based logs.
+  cs: l'oGGo neboli Log & Go je bohatá aplikace s terminálovým uživatelským rozhraním (TUI) napsaná v jazyce golang, která využívá sílu vašeho terminálu ke zpracování proudů protokolů založených na JSON.
+  de: l'oGGo oder Log & Go ist eine reichhaltige Terminal-User-Interface-App in golang, die die Leistungsfähigkeit Ihres Terminals nutzt, um JSON-basierte Log-Streams zu verarbeiten.
+  es: l'oGGo o Log & Go es una rica aplicación de interfaz de usuario de terminal escrita en golang que aprovecha la potencia de su terminal para digerir flujos de registros basados en JSON.
+  fr: l'oGGo ou Log & Go est une riche application à interface utilisateur de terminal écrite en golang qui exploite la puissance de votre terminal pour analyser les flux de journaux fondés sur JSON.
+  id: l'oGGo atau Log & Go adalah aplikasi Terminal User Interface kaya yang ditulis dengan golang, memanfaatkan kekuatan terminal Anda untuk mencerna aliran log berbasis JSON.
+  it: l'oGGo o Log & Go è una ricca applicazione Terminal User Interface scritta in golang che sfrutta la potenza del terminale per analizzare flussi di log basati su JSON.
+  ja: l'oGGo（Log & Go）は golang で書かれた高機能な端末ユーザーインターフェース（TUI）アプリで、JSON ベースのログストリームを解析するためにターミナルの Powers 活用します。
+  ko: l'oGGo 또는 Log & Go는 golang으로 작성된 풍부한 Terminal User Interface 앱으로, JSON 기반 로그 스트림을 처리하기 위해 터미널의 성능을 활용합니다.
+  pl: l'oGGo, czyli Log & Go, to bogaty interfejs terminala (TUI) napisany w golang, wykorzystujący możliwości terminala do przetwarzania strumieni logów opartych na JSON.
+  pt: l'oGGo ou Log & Go é um aplicativo Terminal User Interface rico escrito em golang que aproveita o poder do seu terminal para digerir fluxos de log baseados em JSON.
+  ro: l'oGGo sau Log & Go este o aplicație Terminal User Interface bogată scrisă în golang, care folosește puterea terminalului pentru a procesa fluxuri de jurnale bazate pe JSON.
+  ru: l'oGGo или Log & Go — многофункциональное приложение с терминальным пользовательским интерфейсом, написанное на golang, использующее возможности терминала для разбора потоков журналов на основе JSON.
+  th: l'oGGo หรือ Log & Go เป็นแอป Terminal User Interface ที่มีความสามารถมากที่เขียนด้วย golang ซึ่งใช้พลังของเทอร์มินัลเพื่อประมวลผลสตรีมบันทึกที่อิงบน JSON
+  tr: l'oGGo veya Log & Go, JSON tabanlı günlük akışlarını işlemek için terminalinizin gücünden yararlanan, golang ile yazılmış zengin bir Terminal User Interface uygulamasıdır.
+  uk: l'oGGo або Log & Go — багатий додаток Terminal User Interface, написаний на golang, що використовує можливості термінала для обробки потоків журналів на основі JSON.
+  vi: l'oGGo hay Log & Go là ứng dụng Terminal User Interface giàu tính năng viết bằng golang, tận dụng sức mạnh của terminal để xử lý các luồng nhật ký dựa trên JSON
 x:
   source: https://github.com/aurc/loggo
   eget: aurc/loggo

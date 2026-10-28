@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 解释进程为何在运行——追溯任意进程、端口、容器或文件的来源（CLI 与交互式 TUI）
   en: Why is this running? Trace any process, port, container, or file back to what started it (CLI and interactive TUI)
+  cs: Proč to běží? Sledujte jakýkoli proces, port, kontejner nebo soubor zpět k tomu, co jej spustilo (CLI a interaktivní TUI)
+  de: Warum läuft das? Jeden Prozess, Port, Container oder jede Datei bis zu ihrem Auslöser zurückverfolgen (CLI und interaktive TUI)
+  es: ¿Por qué se está ejecutando? Rastrea cualquier proceso, puerto, contenedor o archivo hasta lo que lo inició (CLI y TUI interactiva)
+  fr: Pourquoi cela s'exécute-t-il ? Retracez n'importe quel processus, port, conteneur ou fichier jusqu'à ce qui l'a lancé (CLI et TUI interactive)
+  id: Mengapa ini berjalan? Telusuri proses, port, kontainer, atau file apa pun kembali ke apa yang memulainya (CLI dan TUI interaktif)
+  it: Perché è in esecuzione? Traccia qualsiasi processo, porta, container o file fino a ciò che lo ha avviato (CLI e TUI interattiva)
+  ja: なぜこれが動いているのか？ プロセス、ポート、コンテナ、ファイルを起動元まで追跡します（CLI と対話型 TUI）
+  ko: 왜 이것이 실행 중인가? 프로세스, 포트, 컨테이너 또는 파일을 시작한 곳까지 추적합니다 (CLI 및 대화형 TUI)
+  pl: Dlaczego to działa? Prześledź dowolny proces, port, kontener lub plik do źródła, które go uruchomiło (CLI i interaktywne TUI)
+  pt: Por que isso está rodando? Rastreie qualquer processo, porta, contêiner ou arquivo até o que o iniciou (CLI e TUI interativa)
+  ro: De ce rulează asta? Urmărește orice proces, port, container sau fișier până la ceea ce l-a pornit (CLI și TUI interactiv)
+  ru: Почему это работает? Проследите любой процесс, порт, контейнер или файл до того, что его запустило (CLI и интерактивный TUI)
+  th: ทำไมสิ่งนี้ถึงทำงานอยู่? ตามหากระบวนการ พอร์ต คอนเทนเนอร์ หรือไฟล์ใด ๆ กลับไปยังสิ่งที่เริ่มมัน (CLI และ TUI แบบโต้ตอบ)
+  tr: Bu neden çalışıyor? Herhangi bir süreç, port, kapsayıcı veya dosyayı onu başlatan şeye kadar izle (CLI ve etkileşimli TUI)
+  uk: Чому це працює? Простежте будь-який процес, порт, контейнер або файл до того, що його запустило (CLI та інтерактивний TUI)
+  vi: Tại sao tiến trình này đang chạy? Truy vết mọi tiến trình, cổng, container hoặc tệp về nơi đã khởi động nó (CLI và TUI tương tác)
 x:
   source: https://github.com/pranshuparmar/witr
   eget: pranshuparmar/witr

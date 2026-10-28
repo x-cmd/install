@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于查看机器上 UNIX 用户和组信息的 TUI 命令行工具
   en: A CLI tool with a TUI interface to view information about UNIX users and groups on your machine
+  cs: Nástroj CLI s TUI rozhraním pro zobrazení informací o uživatelích a skupinách UNIX ve vašem počítači
+  de: Ein CLI-Werkzeug mit TUI-Oberfläche zur Anzeige von Informationen über UNIX-Benutzer und -Gruppen auf Ihrem Rechner
+  es: Una herramienta de CLI con interfaz TUI para ver información sobre usuarios y grupos UNIX en tu máquina
+  fr: Un outil CLI avec interface TUI pour afficher des informations sur les utilisateurs et groupes UNIX de votre machine
+  id: Alat CLI dengan antarmuka TUI untuk melihat informasi tentang pengguna dan grup UNIX di mesin Anda
+  it: Uno strumento CLI con interfaccia TUI per visualizzare informazioni su utenti e gruppi UNIX della tua macchina
+  ja: TUI 付きの CLI ツールで、マシンの UNIX ユーザーとグループの情報を確認できます
+  ko: 기기의 UNIX 사용자와 그룹 정보를 확인하기 위한 TUI 인터페이스를 갖춘 CLI 도구
+  pl: Narzędzie CLI z interfejsem TUI do przeglądania informacji o użytkownikach i grupach UNIX na komputerze
+  pt: Uma ferramenta de CLI com interface TUI para ver informações sobre usuários e grupos UNIX na sua máquina
+  ro: Un instrument CLI cu interfață TUI pentru a vedea informații despre utilizatorii și grupurile UNIX de pe mașina ta
+  ru: CLI-инструмент с TUI-интерфейсом для просмотра сведений о пользователях и группах UNIX на вашей машине
+  th: เครื่องมือ CLI ที่มีส่วนติดต่อ TUI เพื่อดูข้อมูลผู้ใช้และกลุ่ม UNIX บนเครื่องของคุณ
+  tr: Makinenizdeki UNIX kullanıcıları ve grupları hakkında bilgi görmek için TUI arayüzlü bir CLI aracı
+  uk: CLI-інструмент із TUI-інтерфейсом для перегляду відомостей про користувачів і групи UNIX на вашій машині
+  vi: Công cụ CLI có giao diện TUI để xem thông tin về người dùng và nhóm UNIX trên máy của bạn
 x:
   source: https://github.com/ariasmn/ugm
   yay: ugm

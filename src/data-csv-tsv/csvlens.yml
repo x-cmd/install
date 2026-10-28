@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: csvlens 是一个命令行 CSV 文件查看器
   en: csvlens is a command line CSV file viewer
+  cs: csvlens je prohlížeč souborů CSV pro příkazovou řádku
+  de: csvlens ist ein CSV-Dateibetrachter für die Befehlszeile
+  es: csvlens es un visor de archivos CSV de línea de comandos
+  fr: csvlens est un visualiseur de fichiers CSV en ligne de commande
+  id: csvlens adalah penampil berkas CSV untuk baris perintah
+  it: csvlens è un visualizzatore di file CSV da riga di comando
+  ja: csvlens はコマンドライン用の CSV ファイルビューアーです
+  ko: csvlens는 명령줄용 CSV 파일 뷰어
+  pl: csvlens to przeglądarka plików CSV dla wiersza poleceń
+  pt: csvlens é um visualizador de arquivos CSV de linha de comando
+  ro: csvlens este un vizualizator de fișiere CSV pentru linia de comandă
+  ru: csvlens — просмотрщик файлов CSV для командной строки
+  th: csvlens คือโปรแกรมดูไฟล์ CSV สำหรับบรรทัดคำสั่ง
+  tr: csvlens, komut satırı için bir CSV dosya görüntüleyicisidir.
+  uk: csvlens — переглядач файлів CSV для командного рядка.
+  vi: csvlens là trình xem tệp CSV cho dòng lệnh
 x:
   source: https://github.com/YS-L/csvlens
   eget: YS-L/csvlens

@@ -3,6 +3,22 @@ homepage: https://github.com/ryanoasis/nerd-fonts
 desc:
   cn: Fontforge 是 Windows 的免费（Libre）字体编辑器，Mac OS X 和 GNU+Linux
   en: FontForge is a free (libre) font editor for Windows, Mac OS X and GNU+Linux
+  cs: FontForge je bezplatný (libre) editor písem pro Windows, Mac OS X a GNU+Linux
+  de: FontForge ist ein kostenloser (libre) Schrifteditor für Windows, Mac OS X und GNU+Linux
+  es: FontForge es un editor de fuentes gratuito (libre) para Windows, Mac OS X y GNU+Linux
+  fr: FontForge est un éditeur de polices gratuit (libre) pour Windows, Mac OS X et GNU+Linux
+  id: FontForge adalah editor font gratis (libre) untuk Windows, Mac OS X dan GNU+Linux
+  it: FontForge è un editor di caratteri gratuito (libre) per Windows, Mac OS X e GNU+Linux
+  ja: FontForge は Windows、Mac OS X、GNU+Linux 向けの無料の (libre) フォントエディタです
+  ko: FontForge는 Windows, Mac OS X, GNU+Linux용 무료 (libre) 폰트 편집기입니다
+  pl: FontForge to darmowy (libre) edytor czcionek dla Windows, Mac OS X i GNU+Linux
+  pt: FontForge é um editor de fontes gratuito (libre) para Windows, Mac OS X e GNU+Linux
+  ro: FontForge este un editor de fonturi gratuit (libre) pentru Windows, Mac OS X și GNU+Linux
+  ru: FontForge — бесплатный (libre) редактор шрифтов для Windows, Mac OS X и GNU+Linux
+  th: FontForge เป็นโปรแกรมแก้ไขฟอนต์แบบฟรี (libre) สำหรับ Windows, Mac OS X และ GNU+Linux
+  tr: FontForge, Windows, Mac OS X ve GNU+Linux için ücretsiz (libre) bir yazı tipi düzenleyicisidir
+  uk: FontForge — безкоштовний (libre) редактор шрифтів для Windows, Mac OS X та GNU+Linux
+  vi: FontForge là trình chỉnh sửa phông chữ miễn phí (libre) cho Windows, Mac OS X và GNU+Linux
 x:
   source: https://github.com/ryanoasis/nerd-fonts
   brew: fontforge

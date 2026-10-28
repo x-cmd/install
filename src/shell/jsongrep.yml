@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 JSON、YAML、TOML 等序列化格式的路径查询语言
   en: 'A path query language for JSON, YAML, TOML, and other serialization formats.'
+  cs: Jazyk dotazů podle cest pro JSON, YAML, TOML a další serializační formáty.
+  de: Eine Pfad-Abfragesprache für JSON, YAML, TOML und andere Serialisierungsformate.
+  es: Un lenguaje de consultas por rutas para JSON, YAML, TOML y otros formatos de serialización.
+  fr: Un langage de requête par chemin pour JSON, YAML, TOML et d'autres formats de sérialisation.
+  id: Bahasa kuerensi berbasis jalur untuk JSON, YAML, TOML, dan format serialisasi lainnya.
+  it: Un linguaggio di query per percorsi per JSON, YAML, TOML e altri formati di serializzazione.
+  ja: JSON、YAML、TOML などのシリアライズ形式のためのパスクエリ言語。
+  ko: JSON, YAML, TOML 및 기타 직렬화 형식을 위한 경로 질의 언어.
+  pl: Język zapytań ścieżkowych dla JSON, YAML, TOML i innych formatów serializacji.
+  pt: Uma linguagem de consulta por caminho para JSON, YAML, TOML e outros formatos de serialização.
+  ro: Un limbaj de interogare pe căi pentru JSON, YAML, TOML și alte formate de serializare.
+  ru: Язык запросов по путям для JSON, YAML, TOML и других форматов сериализации.
+  th: ภาษาคิวรีตามพาธสำหรับ JSON, YAML, TOML และรูปแบบการทำซีเรียลไซซ์อื่น ๆ
+  tr: JSON, YAML, TOML ve diğer serileştirme biçimleri için yol sorgu dili.
+  uk: Мова запитів за шляхами для JSON, YAML, TOML та інших форматів серіалізації.
+  vi: Ngôn ngữ truy vấn theo đường dẫn cho JSON, YAML, TOML và các định dạng tuần tự hóa khác.
 x:
   source: https://github.com/micahkepe/jsongrep
   eget: micahkepe/jsongrep

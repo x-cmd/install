@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于对导入进行排序的 Python 实用程序/库
   en: isort is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type
+  cs: isort je nástroj/knihovna Pythonu pro řazení importů abecedně a jejich automatické rozdělení do sekcí a podle typu
+  de: isort ist ein Python-Dienstprogramm / eine Bibliothek, um Importe alphabetisch zu sortieren und automatisch in Abschnitte und nach Typ zu trennen
+  es: isort es una utilidad/biblioteca de Python para ordenar las importaciones alfabéticamente y separarlas automáticamente en secciones y por tipo
+  fr: isort est un utilitaire/bibliothèque Python pour trier les imports alphabétiquement et les séparer automatiquement en sections et par type
+  id: isort adalah utilitas/library Python untuk mengurutkan import secara alfabetis dan otomatis memisahkannya ke dalam bagian dan menurut tipe
+  it: isort è un'utilità/libreria Python per ordinare alfabeticamente gli import e separarli automaticamente in sezioni e per tipo
+  ja: isort は、import をアルファベット順に並べ替え、セクションごと・種類ごとに自動的に分離する Python のユーティリティ/ライブラリです
+  ko: isort는 import를 알파벳순으로 정렬하고 자동으로 섹션 및 유형별로 분리하는 Python 유틸리티/라이브러리입니다
+  pl: isort to narzędzie/biblioteka Pythona do alfabetycznego sortowania importów i ich automatycznego dzielenia na sekcje oraz według typu
+  pt: isort é um utilitário/biblioteca Python para ordenar imports alfabeticamente e separá-los automaticamente em seções e por tipo
+  ro: isort este o utilitar/bibliotecă Python pentru sortarea importurilor alfabetic și separarea lor automată în secțiuni și după tip
+  ru: isort — утилита/библиотека Python для сортировки импортов по алфавиту и их автоматического разделения на секции и по типу
+  th: isort เป็นยูทิลิตี้/ไลบรารี Python สำหรับเรียงลำดับ import ตามตัวอักษรและแยกอัตโนมัติเป็นส่วน ๆ และตามชนิด
+  tr: isort, import'ları alfabetik olarak sıralayan ve otomatik olarak bölümlere ve türlere göre ayıran bir Python yardımcı aracı / kitaplığıdır
+  uk: isort — утиліта/бібліотека Python для алфавітного сортування імпортів та їх автоматичного розділення на секції й за типом
+  vi: isort là tiện ích/thư viện Python để sắp xếp các import theo thứ tự bảng chữ cái và tự động tách thành các mục và theo loại
 x:
   source: https://github.com/PyCQA/isort
   pip: isort

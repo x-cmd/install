@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: POSIX 脚本，用 fzf/rofi 从终端浏览 YouTube 等 yt-dlp 支持的站点
   en: 'Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)'
+  cs: POSIX skript pro prohlížení YouTube a dalších webů podporovaných yt-dlp z terminálu (fzf) nebo spouštěče aplikací (rofi), s volitelnými náhledy (podporuje bash, zsh a dash)
+  de: POSIX-Skript zum Browsen von YouTube und anderen von yt-dlp unterstützten Websites im Terminal (fzf) oder App-Launcher (rofi), mit optionalen Vorschauen (unterstützt bash, zsh und dash)
+  es: Script POSIX para explorar YouTube y otros sitios compatibles con yt-dlp desde tu terminal (fzf) o lanzador de aplicaciones (rofi), con vistas previas opcionales (compatible con bash, zsh y dash)
+  fr: Script POSIX pour parcourir YouTube et les autres sites pris en charge par yt-dlp depuis votre terminal (fzf) ou le lanceur d'applications (rofi), avec aperçus optionnels (prend en charge bash, zsh et dash)
+  id: Skrip POSIX untuk menjelajahi YouTube dan situs lain yang didukung yt-dlp dari terminal (fzf) atau peluncur aplikasi (rofi), dengan pratinjau opsional (mendukung bash, zsh dan dash)
+  it: Script POSIX per sfogliare YouTube e altri siti supportati da yt-dlp dal terminale (fzf) o dal launcher di applicazioni (rofi), con anteprime opzionali (supporta bash, zsh e dash)
+  ja: ターミナル (fzf) やアプリランチャー (rofi) から YouTube などの yt-dlp 対応サイトを閲覧する POSIX スクリプト。プレビューは任意（bash、zsh、dash に対応）
+  ko: 터미널(fzf) 또는 앱 런처(rofi)에서 YouTube 등 yt-dlp 지원 사이트를 탐색하는 POSIX 스크립트이며, 미리 보기를 선택할 수 있습니다 (bash, zsh, dash 지원)
+  pl: Skrypt POSIX do przeglądania YouTube i innych witryn obsługiwanych przez yt-dlp z terminala (fzf) lub programu uruchamiającego (rofi), z opcjonalnymi podglądami (obsługuje bash, zsh i dash)
+  pt: Script POSIX para navegar no YouTube e em outros sites suportados pelo yt-dlp a partir do terminal (fzf) ou do lançador de aplicativos (rofi), com prévias opcionais (suporta bash, zsh e dash)
+  ro: Script POSIX pentru a parcurge YouTube și alte site-uri acceptate de yt-dlp din terminal (fzf) sau din lansatorul de aplicații (rofi), cu previzualizări opționale (acceptă bash, zsh și dash)
+  ru: POSIX-скрипт для просмотра YouTube и других сайтов, поддерживаемых yt-dlp, из терминала (fzf) или лаунчера приложений (rofi), с необязательными превью (поддерживает bash, zsh и dash)
+  th: สคริปต์ POSIX สำหรับเรียกดู YouTube และเว็บไซต์อื่นที่รองรับโดย yt-dlp จากเทอร์มินัล (fzf) หรือตัวเรียกแอป (rofi) พร้อมตัวอย่างภาพแบบไม่บังคับ (รองรับ bash, zsh และ dash)
+  tr: YouTube ve yt-dlp'nin desteklediği diğer siteleri terminalden (fzf) veya uygulama başlatıcısından (rofi) görüntülemek için POSIX betiği, isteğe bağlı önizlemelerle (bash, zsh ve dash destekler)
+  uk: POSIX-скрипт для перегляду YouTube та інших сайтів, які підтримує yt-dlp, з термінала (fzf) або програми запуску (rofi), з необов'язковими попередніми переглядами (підтримує bash, zsh та dash)
+  vi: Kịch bản POSIX để duyệt YouTube và các trang khác được yt-dlp hỗ trợ từ terminal (fzf) hoặc trình khởi chạy ứng dụng (rofi), có tùy chọn xem trước (hỗ trợ bash, zsh và dash)
 x:
   source: https://github.com/Benexl/yt-x
   eget: Benexl/yt-x

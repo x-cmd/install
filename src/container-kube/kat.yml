@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Kubernetes 清单的 TUI 与基于规则的渲染引擎
   en: 'TUI and rule-based rendering engine for Kubernetes manifests'
+  cs: TUI a motor vykreslování založený na pravidlech pro manifesty Kubernetes
+  de: TUI und regelbasierte Rendering-Engine für Kubernetes-Manifeste
+  es: TUI y motor de renderizado basado en reglas para manifiestos de Kubernetes
+  fr: TUI et moteur de rendu à base de règles pour les manifestes Kubernetes
+  id: TUI dan mesin render berbasis aturan untuk manifes Kubernetes
+  it: TUI e motore di rendering basato su regole per i manifest Kubernetes
+  ja: Kubernetes マニフェスト向けの TUI とルールベースのレンダリングエンジン
+  ko: Kubernetes 매니페스트를 위한 TUI 및 규칙 기반 렌더링 엔진
+  pl: TUI i silnik renderujący oparty na regułach dla manifestów Kubernetes
+  pt: TUI e mecanismo de renderização baseado em regras para manifestos do Kubernetes
+  ro: TUI și motor de randare bazat pe reguli pentru manifestele Kubernetes
+  ru: TUI и движок рендеринга на основе правил для манифестов Kubernetes
+  th: TUI และเอนจินเรนเดอร์แบบใช้กฎสำหรับ manifest ของ Kubernetes
+  tr: Kubernetes manifestoları için TUI ve kural tabanlı işleme motoru
+  uk: TUI та рушій рендерингу на основі правил для манifestів Kubernetes
+  vi: TUI và công cụ kết xuất dựa trên quy tắc cho các manifest Kubernetes
 x:
   source: https://github.com/MacroPower/kat
   eget: MacroPower/kat

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: arkade 是开发人员如何安装他们喜欢的 CLI 工具和 Kubernetes 应用的最新版本
   en: arkade is how developers install the latest versions of their favourite CLI tools and Kubernetes apps
+  cs: arkade je způsob, jak vývojáři instalují nejnovější verze svých oblíbených CLI nástrojů a aplikací pro Kubernetes
+  de: arkade ist der Weg, wie Entwickler die neuesten Versionen ihrer bevorzugten CLI-Tools und Kubernetes-Apps installieren
+  es: arkade es la forma en que los desarrolladores instalan las últimas versiones de sus herramientas CLI y aplicaciones de Kubernetes favoritas
+  fr: arkade est la façon dont les développeurs installent les dernières versions de leurs outils CLI et applications Kubernetes préférés
+  id: arkade adalah cara pengembang memasang versi terbaru dari alat CLI dan aplikasi Kubernetes favorit mereka
+  it: arkade è il modo in cui gli sviluppatori installano le ultime versioni dei loro strumenti CLI e app Kubernetes preferiti
+  ja: arkade は、開発者がお気に入りの CLI ツールや Kubernetes アプリの最新版をインストールする方法です
+  ko: arkade는 개발자가 좋아하는 CLI 도구와 Kubernetes 앱의 최신 버전을 설치하는 방법입니다
+  pl: arkade to sposób, w jaki programiści instalują najnowsze wersje swoich ulubionych narzędzi CLI i aplikacji Kubernetes
+  pt: arkade é a maneira como os desenvolvedores instalam as versões mais recentes de suas ferramentas de CLI e aplicativos Kubernetes favoritos
+  ro: arkade este modul în care dezvoltatorii instalează cele mai recente versiuni ale instrumentelor CLI și aplicațiilor Kubernetes preferate
+  ru: arkade — это способ, которым разработчики устанавливают последние версии своих любимых CLI-инструментов и приложений для Kubernetes
+  th: arkade คือวิธีที่นักพัฒนาติดตั้งเวอร์ชันล่าสุดของเครื่องมือ CLI และแอป Kubernetes ที่ชื่นชอบ
+  tr: arkade, geliştiricilerin en sevdiği CLI araçlarının ve Kubernetes uygulamalarının en son sürümlerini kurma yoludur
+  uk: arkade — це спосіб, яким розробники встановлюють найновіші версії своїх улюблених CLI-інструментів і застосунків для Kubernetes
+  vi: arkade là cách để các nhà phát triển cài đặt phiên bản mới nhất của các công cụ CLI và ứng dụng Kubernetes yêu thích
 x:
   source: https://github.com/alexellis/arkade
   eget: alexellis/arkade

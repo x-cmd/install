@@ -3,6 +3,22 @@ homepage: https://code.videolan.org/videolan/dav1d
 desc:
   en: dav1d is an AV1 cross-platform decoder, open-source, and focused on speed and correctness
   cn: dav1d 是一个 AV1 跨平台解码器，开源，并致力于速度和正确性
+  cs: dav1d je open-source křížový dekódér AV1, zaměřený na rychlost a správnost
+  de: dav1d ist ein quelloffener, plattformübergreifender AV1-Decoder, der auf Geschwindigkeit und Korrektheit ausgerichtet ist
+  es: dav1d es un decodificador AV1 multiplataforma, de código abierto, enfocado en la velocidad y la corrección
+  fr: dav1d est un décodeur AV1 multiplateforme, open source, axé sur la vitesse et la correction
+  id: dav1d adalah dekoder AV1 lintas platform sumber terbuka yang berfokus pada kecepatan dan kebenaran
+  it: dav1d è un decoder AV1 multipiattaforma, open source, incentrato su velocità e correttezza
+  ja: dav1d はオープンソースのクロスプラットフォーム AV1 デコーダーで、速度と正確性に注力しています
+  ko: dav1d는 속도와 정확성에 집중한 오픈 소스 크로스 플랫폼 AV1 디코더입니다
+  pl: dav1d to otwartoźródłowy wieloplatformowy dekoder AV1, skoncentrowany na szybkości i poprawności
+  pt: dav1d é um decodificador AV1 multiplataforma de código aberto, focado em velocidade e correção
+  ro: dav1d este un decodificator AV1 multiplatformă, open source, orientat spre viteză și corectitudine
+  ru: dav1d — кроссплатформенный декодер AV1 с открытым исходным кодом, ориентированный на скорость и корректность
+  th: dav1d คือตัวถอดรหัส AV1 ข้ามแพลตฟอร์มแบบโอเพนซอร์ส ที่เน้นความเร็วและความถูกต้อง
+  tr: dav1d, hız ve doğruluğa odaklanan açık kaynaklı, platformlar arası bir AV1 kod çözücüdür
+  uk: dav1d — кроссплатформний декодер AV1 з відкритим кодом, зосереджений на швидкості та коректності
+  vi: dav1d là bộ giải mã AV1 đa nền tảng, mã nguồn mở, tập trung vào tốc độ và độ chính xác
 rule:
   darwin/brew:
     cmd: brew install dav1d

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于在 Linux 上管理 wifi 的 TUI。
   en: TUI for managing wifi on Linux.
+  cs: TUI pro správu wifi na Linuxu.
+  de: TUI zur Verwaltung von WLAN auf Linux.
+  es: TUI para gestionar el wifi en Linux.
+  fr: TUI pour gérer le Wi-Fi sous Linux.
+  id: TUI untuk mengelola wifi di Linux.
+  it: TUI per gestire il Wi-Fi su Linux.
+  ja: Linux で Wi-Fi を管理するための TUI。
+  ko: Linux에서 wifi를 관리하기 위한 TUI입니다.
+  pl: TUI do zarządzania Wi-Fi w Linux.
+  pt: TUI para gerenciar o Wi-Fi no Linux.
+  ro: TUI pentru gestionarea Wi-Fi pe Linux.
+  ru: TUI для управления Wi-Fi в Linux.
+  th: TUI สำหรับจัดการ wifi บน Linux
+  tr: Linux'ta Wi-Fi yönetmek için TUI.
+  uk: TUI для керування Wi-Fi у Linux.
+  vi: TUI để quản lý wifi trên Linux.
 x:
   source: https://github.com/pythops/impala
   pacman: impala

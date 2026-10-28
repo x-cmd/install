@@ -4,6 +4,22 @@ license: LGPL-3.0
 desc:
   cn: Duc 是一组用于索引、检查和可视化磁盘使用情况的工具。
   en: Duc is a collection of tools for indexing, inspecting and visualizing disk usage.
+  cs: Duc je sada nástrojů pro indexování, kontrolu a vizualizaci využití disku.
+  de: Duc ist eine Sammlung von Werkzeugen zum Indizieren, Prüfen und Visualisieren der Datenträgernutzung.
+  es: Duc es una colección de herramientas para indexar, inspeccionar y visualizar el uso del disco.
+  fr: Duc est une collection d'outils pour indexer, inspecter et visualiser l'utilisation du disque.
+  id: Duc adalah kumpulan alat untuk mengindeks, memeriksa, dan memvisualisasikan penggunaan disk.
+  it: Duc è una raccolta di strumenti per indicizzare, ispezionare e visualizzare l'uso del disco.
+  ja: Duc はディスク使用量のインデックス作成・調査・可視化のためのツール群です
+  ko: Duc는 디스크 사용량을 인덱싱하고 조사하며 시각화하는 도구 모음입니다
+  pl: Duc to zestaw narzędzi do indeksowania, przeglądania i wizualizacji wykorzystania dysku.
+  pt: Duc é um conjunto de ferramentas para indexar, inspecionar e visualizar o uso do disco.
+  ro: Duc este o colecție de instrumente pentru indexarea, inspecția și vizualizarea utilizării discului.
+  ru: Duc — это набор инструментов для индексации, проверки и визуализации использования диска.
+  th: Duc คือชุดเครื่องมือสำหรับทำดัชนี ตรวจสอบ และแสดงภาพการใช้พื้นที่ดิสก์
+  tr: Duc, disk kullanımını dizinlemek, incelemek ve görselleştirmek için bir araç koleksiyonudur
+  uk: Duc — це набір інструментів для індексації, перевірки та візуалізації використання диска.
+  vi: Duc là bộ công cụ để lập chỉ mục, kiểm tra và trực quan hóa mức sử dụng đĩa.
 x:
   source: https://github.com/zevv/duc
   eget: zevv/duc

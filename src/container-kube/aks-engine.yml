@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Azure 上的 Kubernetes 旧版工具（查看状态）
   en: legacy tool for Kubernetes on Azure (see status)
+  cs: zastaralý nástroj pro Kubernetes na Azure (viz stav)
+  de: altes Tool für Kubernetes auf Azure (Status ansehen)
+  es: herramienta heredada para Kubernetes en Azure (ver estado)
+  fr: outil hérité pour Kubernetes sur Azure (voir le statut)
+  id: alat lama untuk Kubernetes di Azure (lihat status)
+  it: strumento legacy per Kubernetes su Azure (vedi stato)
+  ja: Azure 上の Kubernetes 向けの旧バージョンラインツール（状態を確認）
+  ko: Azure용 Kubernetes 레거시 도구 (상태 보기)
+  pl: starsze narzędzie dla Kubernetes w Azure (patrz status)
+  pt: ferramenta legada para Kubernetes no Azure (ver status)
+  ro: instrument legacy pentru Kubernetes pe Azure (vezi starea)
+  ru: устаревший инструмент для Kubernetes в Azure (см. статус)
+  th: เครื่องมือรุ่นเก่าสำหรับ Kubernetes บน Azure (ดูสถานะ)
+  tr: Azure üzerinde Kubernetes için eski bir araç (duruma bakın)
+  uk: застарілий інструмент для Kubernetes в Azure (див. статус)
+  vi: công cụ cũ dành cho Kubernetes trên Azure (xem trạng thái)
 x:
   source: https://github.com/Azure/aks-engine
   asdf: aks-engine

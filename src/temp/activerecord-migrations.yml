@@ -3,6 +3,22 @@ homepage: https://github.com/ioquatix/activerecord-migrations
 desc:
   cn: 用于简化非 Rails 项目中的 ActiveRecord 迁移的 gem
   en: A gem to simplify activerecord migrations in non-rails projects
+  cs: Gem pro zjednodušení migrací ActiveRecordu v projektech mimo Rails
+  de: Ein Gem zur Vereinfachung von ActiveRecord-Migrationen in Nicht-Rails-Projekten
+  es: Una gema para simplificar las migraciones de ActiveRecord en proyectos que no usan Rails
+  fr: Un gem pour simplifier les migrations ActiveRecord dans les projets non Rails
+  id: Gem untuk menyederhanakan migrasi ActiveRecord pada proyek non-Rails
+  it: Una gem per semplificare le migrazioni di ActiveRecord nei progetti non-Rails
+  ja: Rails 以外のプロジェクトで ActiveRecord のマイグレーションを簡略化する gem です
+  ko: Rails가 아닌 프로젝트에서 ActiveRecord 마이그레이션을 단순화하는 gem입니다
+  pl: Gem ułatwiający migracje ActiveRecord w projektach spoza Rails
+  pt: Uma gem para simplificar as migrações do ActiveRecord em projetos que não usam Rails
+  ro: Un gem pentru simplificarea migrărilor ActiveRecord în proiecte care nu folosesc Rails
+  ru: Gem для упрощения миграций ActiveRecord в проектах, не использующих Rails
+  th: gem สำหรับลดความซับซ้อนของการย้ายข้อมูล ActiveRecord ในโปรเจกต์ที่ไม่ได้ใช้ Rails
+  tr: Rails dışındaki projelerde ActiveRecord geçişlerini basitleştiren bir gem
+  uk: Gem для спрощення міграцій ActiveRecord у проєктах, що не використовують Rails
+  vi: Một gem giúp đơn giản hóa việc migration ActiveRecord trong các dự án ngoài Rails
 x:
   source: https://github.com/ioquatix/activerecord-migrations
 rule:

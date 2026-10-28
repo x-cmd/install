@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: OpenAI Codex CLI - 在您的终端中运行的轻量级编码代理
   en: OpenAI Codex CLI - Lightweight coding agent that runs in your terminal
+  cs: OpenAI Codex CLI - odlehčený kódující agent, který běží ve vašem terminálu
+  de: OpenAI Codex CLI - schlanker Coding-Agent, der in Ihrem Terminal läuft
+  es: "OpenAI Codex CLI: agente de codificación ligero que se ejecuta en tu terminal"
+  fr: OpenAI Codex CLI - agent de code léger qui s'exécute dans votre terminal
+  id: OpenAI Codex CLI - agen coding ringan yang berjalan di terminal Anda
+  it: OpenAI Codex CLI - agente di codifica leggero che gira nel tuo terminale
+  ja: OpenAI Codex CLI - ターミナルで動く軽量なコーディングエージェント
+  ko: OpenAI Codex CLI - 터미널에서 실행되는 가벼운 코딩 에이전트
+  pl: OpenAI Codex CLI - lekki agent programistyczny działający w terminalu
+  pt: OpenAI Codex CLI - agente de codificação leve que roda no seu terminal
+  ro: OpenAI Codex CLI - agent de cod ușor care rulește în terminalul dumneavoastră
+  ru: OpenAI Codex CLI - лёгкий агент для программирования, работающий в вашем терминале
+  th: OpenAI Codex CLI - เอเจนต์เขียนโค้ดแบบเบาที่ทำงานในเทอร์มินัลของคุณ
+  tr: OpenAI Codex CLI - terminalinizde çalışan hafif kodlama ajanı
+  uk: OpenAI Codex CLI - легкий агент для програмування, що працює у вашому терміналі
+  vi: OpenAI Codex CLI - tác nhân lập trình nhẹ chạy trong terminal của bạn
 x:
   source: https://github.com/openai/codex
   eget: openai/codex

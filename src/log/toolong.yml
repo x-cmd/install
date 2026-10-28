@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个终端应用程序，用于查看、跟踪、合并和搜索日志文件（以及 JSONL）。
   en: A terminal application to view, tail, merge, and search log files (plus JSONL).
+  cs: Terminálová aplikace pro prohlížení, sledování, slučování a vyhledávání v souborech protokolů (plus JSONL).
+  de: Eine Terminal-Anwendung zum Ansehen, Verfolgen, Zusammenführen und Durchsuchen von Logdateien (sowie JSONL).
+  es: Una aplicación de terminal para ver, seguir, fusionar y buscar en archivos de registro (además de JSONL).
+  fr: Une application de terminal pour afficher, suivre, fusionner et rechercher dans des fichiers journaux (ainsi que JSONL).
+  id: Aplikasi terminal untuk melihat, mengikuti, menggabungkan, dan mencari berkas log (termasuk JSONL).
+  it: Un'applicazione da terminale per visualizzare, seguire, unire e cercare nei file di log (oltre a JSONL).
+  ja: ログファイル（および JSONL）を閲覧・追跡・結合・検索するためのターミナルアプリケーションです。
+  ko: 로그 파일(및 JSONL)을 보고, 추적하고, 병합하고, 검색하는 터미널 애플리케이션입니다.
+  pl: Aplikacja terminalowa do oglądania, śledzenia, łączenia i przeszukiwania plików logów (a także JSONL).
+  pt: Um aplicativo de terminal para visualizar, acompanhar, mesclar e pesquisar arquivos de log (além de JSONL).
+  ro: O aplicație de terminal pentru vizualizarea, urmărirea, îmbinarea și căutarea în fișiere de jurnal (și JSONL).
+  ru: Терминальное приложение для просмотра, отслеживания, объединения и поиска по файлам журналов (а также JSONL).
+  th: แอปเทอร์มินัลสำหรับดู ติดตาม รวม และค้นหาไฟล์บันทึก (รวมถึง JSONL)
+  tr: Günlük dosyalarını (ve JSONL dosyalarını) görüntülemek, izlemek, birleştirmek ve aramak için bir terminal uygulaması.
+  uk: Термінальний застосунок для перегляду, відстеження, об'єднання та пошуку у файлах журналів (а також JSONL).
+  vi: Ứng dụng terminal để xem, theo dõi, gộp và tìm kiếm trong các tệp nhật ký (cùng JSONL).
 x:
   source: https://github.com/Textualize/toolong
   yay: toolong

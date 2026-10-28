@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: STERN 使您可以在吊舱内的 Kubernetes 和多个容器上尾部多个 POD
   en: Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod
+  cs: Stern umožňuje sledovat více podů v Kubernetes a více kontejnerů uvnitř podu
+  de: Stern ermöglicht es, mehrere Pods in Kubernetes und mehrere Container innerhalb des Pods zu tailen
+  es: Stern le permite hacer tail de varios pods en Kubernetes y varios contenedores dentro del pod
+  fr: Stern vous permet de suivre plusieurs pods sur Kubernetes et plusieurs conteneurs au sein du pod
+  id: Stern memungkinkan Anda untuk tail beberapa pod di Kubernetes dan beberapa kontainer di dalam pod
+  it: Stern consente di eseguire il tail di più pod su Kubernetes e di più container all'interno del pod
+  ja: Stern は Kubernetes 上の複数の pod と pod 内の複数のコンテナを tail できるようにします
+  ko: Stern을 사용하면 Kubernetes의 여러 pod와 pod 내의 여러 컨테이너를 tail할 수 있습니다
+  pl: Stern umożliwia śledzenie wielu podów w Kubernetes oraz wielu kontenerów wewnątrz poda
+  pt: O Stern permite acompanhar vários pods no Kubernetes e vários contêineres dentro do pod
+  ro: Stern vă permite să urmăriți mai multe poduri în Kubernetes și mai multe containere din interiorul podului
+  ru: Stern позволяет отслеживать несколько pod в Kubernetes и несколько контейнеров внутри pod
+  th: Stern ช่วยให้คุณ tail หลาย pod บน Kubernetes และหลายคอนเทนเนอร์ภายใน pod
+  tr: Stern, Kubernetes üzerinde birden fazla pod ve pod içinde birden fazla konteyneri tail etmenizi sağlar
+  uk: Stern дозволяє відстежувати кілька pod у Kubernetes та кілька контейнерів усередині pod
+  vi: Stern cho phép bạn tail nhiều pod trên Kubernetes và nhiều container bên trong pod
 x:
   source: https://github.com/stern/stern
   eget: stern/stern

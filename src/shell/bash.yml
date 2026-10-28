@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/bash.git
 desc:
   cn: Bash 是 GNU 项目的 Bourne Again SHell
   en: Bash is the GNU Project's Bourne Again SHell
+  cs: Bash je Bourne Again SHell projektu GNU
+  de: Bash ist die Bourne Again SHell des GNU-Projekts
+  es: Bash es la Bourne Again SHell del proyecto GNU
+  fr: Bash est la Bourne Again SHell du projet GNU
+  id: Bash adalah Bourne Again SHell dari proyek GNU
+  it: Bash è la Bourne Again SHell del progetto GNU
+  ja: Bash は GNU プロジェクトの Bourne Again SHell です
+  ko: Bash는 GNU 프로젝트의 Bourne Again SHell입니다
+  pl: Bash to Bourne Again SHell projektu GNU
+  pt: Bash é a Bourne Again SHell do projeto GNU
+  ro: Bash este Bourne Again SHell al proiectului GNU
+  ru: Bash — это Bourne Again SHell проекта GNU
+  th: Bash คือ Bourne Again SHell ของโครงการ GNU
+  tr: Bash, GNU projesinin Bourne Again SHell'idir
+  uk: Bash — це Bourne Again SHell проєкту GNU
+  vi: Bash là Bourne Again SHell của dự án GNU
 rule:
   darwin/brew:
     cmd: brew install bash

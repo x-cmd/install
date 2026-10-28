@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: musl libc 的测试套件——验证 C 库实现正确性的回归测试集。
   en: Test suite for musl libc — regression tests verifying C library correctness.
+  cs: Testovací sada pro musl libc — regresní testy ověřující správnost implementace knihovny C.
+  de: Testsuite für musl libc — Regressionstests zur Überprüfung der Korrektheit der C-Bibliothek.
+  es: "Suite de pruebas para musl libc: pruebas de regresión que verifican la corrección de la biblioteca C."
+  fr: Suite de tests pour musl libc — tests de régression vérifiant l'exactitude de la bibliothèque C.
+  id: Rangkaian pengujian untuk musl libc — pengujian regresi yang memverifikasi kebenaran pustaka C.
+  it: Suite di test per musl libc — test di regressione che verificano la correttezza della libreria C.
+  ja: musl libc のテストスイート — C ライブラリの実装の正しさを検証する回帰テスト。
+  ko: musl libc의 테스트 스위트 — C 라이브러리 정확성을 검증하는 회귀 테스트.
+  pl: Zestaw testów dla musl libc — testy regresyjne weryfikujące poprawność biblioteki C.
+  pt: Suíte de testes para musl libc — testes de regressão que verificam a correção da biblioteca C.
+  ro: Suita de teste pentru musl libc — teste de regresie care verifică corectitudinea bibliotecii C.
+  ru: Тестовый набор для musl libc — регрессионные тесты, проверяющие корректность реализации библиотеки C.
+  th: ชุดทดสอบสำหรับ musl libc — การทดสอบการถดถอยเพื่อยืนยันความถูกต้องของไลบรารี C
+  tr: musl libc için test paketi — C kitaplığının doğruluğunu doğrulayan regresyon testleri.
+  uk: Тестовий набір для musl libc — регресійні тести, що перевіряють коректність бібліотеки C.
+  vi: Bộ kiểm thử cho musl libc — các bài kiểm thử hồi quy xác nhận tính đúng đắn của thư viện C.
 x:
   source: https://github.com/jart/libc-test
   eget: jart/libc-test

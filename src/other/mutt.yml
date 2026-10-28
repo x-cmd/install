@@ -3,6 +3,22 @@ homepage: https://gitlab.com/muttmua/mutt
 desc:
   cn: Mutt 是一个小巧但功能强大的基于文本的邮件客户端，适用于 Unix 操作系统。
   en: Mutt is a small but very powerful text-based mail client for Unix operating systems.
+  cs: Mutt je malý, ale velmi výkonný textový poštovní klient pro unixové operační systémy.
+  de: Mutt ist ein kleiner, aber sehr leistungsfähiger textbasierter E-Mail-Client für Unix-Betriebssysteme.
+  es: Mutt es un cliente de correo basado en texto pequeño pero muy potente para sistemas operativos Unix.
+  fr: Mutt est un client de messagerie texte à la fois compact et très puissant pour les systèmes d'exploitation Unix.
+  id: Mutt adalah klien email berbasis teks yang kecil namun sangat powerful untuk sistem operasi Unix.
+  it: Mutt è un client di posta testuale piccolo ma molto potente per i sistemi operativi Unix.
+  ja: Mutt は、Unix 系オペレーティングシステム向けの小さくても非常に強力なテキストベースのメールクライアントです。
+  ko: Mutt는 Unix 운영 체제용으로 작지만 매우 강력한 텍스트 기반 메일 클라이언트입니다.
+  pl: Mutt to mały, ale bardzo potężny tekstowy klient poczty dla systemów uniksowych.
+  pt: O Mutt é um cliente de e-mail baseado em texto, pequeno mas muito poderoso, para sistemas operacionais Unix.
+  ro: Mutt este un client de e-mail bazat pe text, mic dar foarte puternic, pentru sisteme de operare Unix.
+  ru: Mutt — небольшой, но очень мощный текстовый почтовый клиент для Unix-систем.
+  th: Mutt คือไคลเอนต์อีเมลแบบข้อความขนาดเล็กแต่ทรงพลังมาก สำหรับระบบปฏิบัติการ Unix
+  tr: Mutt, Unix işletim sistemleri için küçük ama çok güçlü metin tabanlı bir e-posta istemcisidir.
+  uk: Mutt — невеликий, але дуже потужний текстовий поштовий клієнт для Unix-систем.
+  vi: Mutt là ứng dụng email dựa trên văn bản nhỏ gọn nhưng rất mạnh mẽ cho các hệ điều hành Unix.
 rule:
   debian/apt:
     cmd: sudo apt-get install mutt

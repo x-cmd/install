@@ -3,6 +3,22 @@ homepage: https://github.com/Racum/uuinfo
 desc:
   cn: 调试唯一标识符（UUID、ULID、Snowflake 等）的工具
   en: A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
+  cs: Nástroj pro ladění jedinečných identifikátorů (UUID, ULID, Snowflake apod.)
+  de: Ein Werkzeug zum Debuggen eindeutiger Kennungen (UUID, ULID, Snowflake usw.)
+  es: Una herramienta para depurar identificadores únicos (UUID, ULID, Snowflake, etc.)
+  fr: Un outil de débogage des identifiants uniques (UUID, ULID, Snowflake, etc.)
+  id: Alat untuk men-debug pengenal unik (UUID, ULID, Snowflake, dll.)
+  it: Uno strumento per eseguire il debug degli identificatori univoci (UUID, ULID, Snowflake, ecc.)
+  ja: 一意識別子（UUID、ULID、Snowflake など）をデバッグするツール
+  ko: 고유 식별자(UUID, ULID, Snowflake 등)를 디버그하는 도구
+  pl: Narzędzie do debugowania unikalnych identyfikatorów (UUID, ULID, Snowflake itd.)
+  pt: Uma ferramenta para depurar identificadores únicos (UUID, ULID, Snowflake etc.)
+  ro: Un instrument pentru depanarea identificatorilor unice (UUID, ULID, Snowflake etc.)
+  ru: Инструмент для отладки уникальных идентификаторов (UUID, ULID, Snowflake и т. д.)
+  th: เครื่องมือสำหรับดีบักตัวระบุเฉพาะ (UUID, ULID, Snowflake เป็นต้น)
+  tr: Benzersiz tanımlayıcıları (UUID, ULID, Snowflake vb.) hata ayıklamak için bir araç
+  uk: Інструмент для налагодження унікальних ідентифікаторів (UUID, ULID, Snowflake тощо)
+  vi: Công cụ gỡ lỗi các định danh duy nhất (UUID, ULID, Snowflake, v.v.)
 x:
   source: https://github.com/Racum/uuinfo
   eget: Racum/uuinfo

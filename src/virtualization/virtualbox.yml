@@ -3,6 +3,22 @@ homepage: https://www.virtualbox.org/wiki/Contributor_information
 desc:
   cn: VirtualBox 是一款开源虚拟机软件
   en: VirtualBox is an open-source virtual machine software
+  cs: VirtualBox je open-source software pro virtuální počítače
+  de: VirtualBox ist eine Open-Source-Virtualisierungsoftware
+  es: VirtualBox es un software de máquina virtual de código abierto
+  fr: VirtualBox est un logiciel de machine virtuelle open source
+  id: VirtualBox adalah perangkat lunak mesin virtual sumber terbuka
+  it: VirtualBox è un software per macchine virtuali open source
+  ja: VirtualBox はオープンソースの仮想マシンソフトウェアです
+  ko: VirtualBox는 오픈 소스 가상 머신 소프트웨어입니다
+  pl: VirtualBox to oprogramowanie do maszyn wirtualnych o otwartym kodzie źródłowym
+  pt: VirtualBox é um software de máquina virtual de código aberto
+  ro: VirtualBox este un software de mașină virtuală cu cod sursă deschis
+  ru: VirtualBox — это программное обеспечение для виртуальных машин с открытым исходным кодом
+  th: VirtualBox คือซอฟต์แวร์เครื่องเสมือนโอเพนซอร์ส
+  tr: VirtualBox açık kaynaklı bir sanal makine yazılımıdır
+  uk: VirtualBox — це програмне забезпечення для віртуальних машин з відкритим кодом
+  vi: VirtualBox là phần mềm máy ảo mã nguồn mở
 rule:
   darwin/brew:
     cmd: brew install --cask virtualbox

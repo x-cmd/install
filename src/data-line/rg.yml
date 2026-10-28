@@ -4,6 +4,22 @@ license: Unlicense
 desc:
   cn: rg 是面向行（line-oriented）搜索工具，以递归的方式在当前目录中搜索与 regex 模式匹配的文本
   en: rg is a line-oriented search tool that recursively searches the current directory for a regex pattern
+  cs: rg je nástroj pro řádkově orientované vyhledávání, který rekurzivně prohledává aktuální adresář podle regexového vzoru
+  de: rg ist ein zeilenorientiertes Suchwerkzeug, das das aktuelle Verzeichnis rekursiv nach einem Regex-Muster durchsucht
+  es: rg es una herramienta de búsqueda orientada a líneas que recorre recursivamente el directorio actual buscando un patrón regex
+  fr: rg est un outil de recherche orienté ligne qui recherche récursivement dans le répertoire courant un motif regex
+  id: rg adalah alat pencarian berbasis baris yang secara rekursif mencari pola regex di direktori saat ini
+  it: rg è uno strumento di ricerca orientato alle righe che cerca ricorsivamente nel directorio corrente un pattern regex
+  ja: rgは、現在のディレクトリを再帰的に検索して正規表現パターンと一致するテキストを探す行指向検索ツールです
+  ko: rg는 현재 디렉터리에서 정규식 패턴을 재귀적으로 검색하는 줄 단위 검색 도구입니다
+  pl: rg to narzędzie do wyszukiwania zorientowane na wiersze, które rekurencyjnie przeszukuje bieżący katalog w poszukiwaniu wzorca regex
+  pt: rg é uma ferramenta de busca orientada a linhas que pesquisa recursivamente o diretório atual por um padrão regex
+  ro: rg este un instrument de căutare orientat pe linii care caută recursiv în directorul curent un model regex
+  ru: rg — построчный инструмент поиска, который рекурсивно ищет в текущем каталоге текст по regex-шаблону
+  th: rg คือเครื่องมือค้นหาแบบเน้นบรรทัดที่ค้นหาไดเรกทอรีปัจจุบันแบบเรียกซ้ำตามรูปแบบ regex
+  tr: rg, geçerli dizini regex kalıbına göre özyinelemeli olarak arayan satır odaklı bir arama aracıdır
+  uk: rg — інструмент пошуку, орієнтований на рядки, який рекурсивно шукає в поточному каталозі текст за regex-шаблоном
+  vi: rg là công cụ tìm kiếm hướng dòng, đệ quy tìm trong thư mục hiện tại theo mẫu regex
 x:
   source: https://github.com/BurntSushi/ripgrep
   eget: BurntSushi/ripgrep

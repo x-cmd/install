@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 快速、交互、注重隐私的终端 JSON 与 YAML 查看 TUI
   en: 'Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.'
+  cs: Terminálový prohlížeč JSON a YAML (TUI) pro prohlížení a vyhledávání ve velkých souborech — rychlý, interaktivní a respektující soukromí.
+  de: Terminalbasierter JSON- und YAML-Viewer (TUI) zum Durchsuchen großer Dateien — schnell, interaktiv und datenschutzfreundlich.
+  es: "Visor de JSON y YAML basado en terminal (TUI) para explorar y buscar en archivos grandes: rápido, interactivo y respetuoso con la privacidad."
+  fr: Visionneuse JSON et YAML en terminal (TUI) pour explorer et rechercher dans de grands fichiers — rapide, interactive et respectueuse de la vie privée.
+  id: Penampil JSON & YAML berbasis terminal (TUI) untuk menjelajah dan mencari di berkas besar — cepat, interaktif, dan mengutamakan privasi.
+  it: Visualizzatore JSON e YAML basato su terminale (TUI) per esplorare e cercare in file grandi — veloce, interattivo e rispettoso della privacy.
+  ja: 大きなファイルの閲覧と検索を行うターミナルベースの JSON・YAML ビューアー（TUI）— 高速でインタラクティブ、プライバシーを重視
+  ko: 대용량 파일을 탐색하고 검색하기 위한 터미널 기반 JSON 및 YAML 뷰어(TUI) — 빠르고 대화형이며 프라이버시를 존중
+  pl: Terminalowy przeglądarka JSON i YAML (TUI) do przeglądania i przeszukiwania dużych plików — szybka, interaktywna i szanująca prywatność.
+  pt: Visualizador de JSON e YAML baseado em terminal (TUI) para explorar e pesquisar em arquivos grandes — rápido, interativo e com foco em privacidade.
+  ro: Un vizualizator JSON și YAML bazat pe terminal (TUI) pentru explorarea și căutarea în fișiere mari — rapid, interactiv și respectând confidențialitatea.
+  ru: Терминальный просмотрщик JSON и YAML (TUI) для изучения и поиска по большим файлам — быстрый, интерактивный и ориентированный на приватность.
+  th: โปรแกรมดู JSON และ YAML ในเทอร์มินัล (TUI) สำหรับสำรวจและค้นหาในไฟล์ขนาดใหญ่ — เร็ว โต้ตอบได้ และให้ความสำคัญกับความเป็นส่วนตัว
+  tr: Büyük dosyalarda gezinmek ve arama yapmak için terminal tabanlı JSON ve YAML görüntüleyici (TUI) — hızlı, etkileşimli ve gizliliğe saygılı.
+  uk: Термінальний переглядач JSON і YAML (TUI) для перегляду та пошуку у великих файлах — швидкий, інтерактивний і з повагою до приватності.
+  vi: Trình xem JSON và YAML chạy trên terminal (TUI) để khám phá và tìm kiếm trong các tệp lớn — nhanh, tương tác và tôn trọng quyền riêng tư
 x:
   source: https://github.com/workdone0/twig
   eget: workdone0/twig

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Apache Airflow 的 TUI 应用,可在终端监控、检查并触发 Airflow DAG
   en: 'Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.'
+  cs: Flowrs je aplikace TUI pro Apache Airflow, která vám umožňuje monitorovat, prohlížet a spouštět Airflow DAG přímo z vašeho terminálu.
+  de: Flowrs ist eine TUI-Anwendung für Apache Airflow, mit der Sie Airflow-DAGs bequem aus Ihrem Terminal überwachen, inspizieren und auslösen können.
+  es: Flowrs es una aplicación TUI para Apache Airflow que le permite supervisar, inspeccionar y activar DAGs de Airflow desde la comodidad de su terminal.
+  fr: Flowrs est une application TUI pour Apache Airflow qui vous permet de surveiller, inspecter et déclencher les DAG Airflow depuis le confort de votre terminal.
+  id: Flowrs adalah aplikasi TUI untuk Apache Airflow yang memungkinkan Anda memantau, memeriksa, dan memicu DAG Airflow dari terminal Anda.
+  it: Flowrs è un'applicazione TUI per Apache Airflow che ti permette di monitorare, ispezionare e attivare i DAG di Airflow direttamente dal terminale.
+  ja: Flowrs は Apache Airflow の TUI アプリケーションで、ターミナルから轻松的 Airflow DAG の監視・確認・トリガーを実行できます。
+  ko: Flowrs는 Apache Airflow용 TUI 애플리케이션으로 터미널에서 편안하게 Airflow DAG를 모니터링하고 점검하며 트리거할 수 있습니다.
+  pl: Flowrs to aplikacja TUI dla Apache Airflow, która pozwala monitorować, przeglądać i wyzwalać DAG-ów Airflow wygodnie z terminala.
+  pt: Flowrs é um aplicativo TUI para Apache Airflow que permite monitorar, inspecionar e acionar DAGs do Airflow na comodidade do seu terminal.
+  ro: Flowrs este o aplicație TUI pentru Apache Airflow care vă permite să monitorizați, să inspectați și să declanșați DAG-uri Airflow direct din terminal.
+  ru: Flowrs — это TUI-приложение для Apache Airflow, позволяющее удобно из терминала отслеживать, изучать и запускать DAG Airflow.
+  th: Flowrs คือแอปพลิเคชัน TUI สำหรับ Apache Airflow ที่ให้คุณติดตาม ตรวจสอบ และเรียกใช้ Airflow DAG ได้อย่างสะดวกจากเทอร์มินัลของคุณ
+  tr: Flowrs, Apache Airflow için bir TUI uygulamasıdır ve Airflow DAG'lerini terminalinizden rahatça izlemenize, incelemenize ve tetiklemenize olanak tanır.
+  uk: Flowrs — це TUI-застосунок для Apache Airflow, який дозволяє зручно з термінала спостерігати, переглядати та запускати DAG Airflow.
+  vi: Flowrs là ứng dụng TUI cho Apache Airflow cho phép bạn giám sát, kiểm tra và kích hoạt Airflow DAG ngay trong terminal
 x:
   source: https://github.com/jvanbuel/flowrs
   eget: jvanbuel/flowrs

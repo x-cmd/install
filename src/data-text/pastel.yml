@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 生成、分析、转换与操作颜色的命令行工具
   en: 'A command-line tool to generate, analyze, convert and manipulate colors'
+  cs: Nástroj příkazové řádky pro generování, analýzu, převod a manipulaci s barvami
+  de: Ein Kommandozeilenwerkzeug zum Erzeugen, Analysieren, Konvertieren und Bearbeiten von Farben
+  es: Una herramienta de línea de comandos para generar, analizar, convertir y manipular colores
+  fr: Un outil en ligne de commande pour générer, analyser, convertir et manipuler les couleurs
+  id: Alat baris perintah untuk membuat, menganalisis, mengonversi, dan memanipulasi warna
+  it: Uno strumento a riga di comando per generare, analizzare, convertire e manipolare colori
+  ja: 色を生成・分析・変換・操作するためのコマンドラインツール
+  ko: 색상을 생성, 분석, 변환 및 조작하는 명령줄 도구
+  pl: Narzędzie wiersza poleceń do generowania, analizowania, konwertowania i manipulowania kolorami
+  pt: Uma ferramenta de linha de comando para gerar, analisar, converter e manipular cores
+  ro: Un instrument de linie de comandă pentru generarea, analizarea, conversia și manipularea culorilor
+  ru: Инструмент командной строки для генерации, анализа, преобразования и обработки цветов
+  th: เครื่องมือบรรทัดคำสั่งสำหรับสร้าง วิเคราะห์ แปลง และจัดการสี
+  tr: Renkleri oluşturmak, analiz etmek, dönüştürmek ve manipüle etmek için bir komut satırı aracı
+  uk: Інструмент командного рядка для генерації, аналізу, перетворення та обробки кольорів
+  vi: Công cụ dòng lệnh để tạo, phân tích, chuyển đổi và thao tác với màu sắc
 x:
   source: https://github.com/sharkdp/pastel
   eget: sharkdp/pastel

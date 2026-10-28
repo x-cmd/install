@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 Rust 构建的 Kubernetes 简单终端仪表板
   en: A simple terminal dashboard for Kubernetes built with Rust
+  cs: Jednoduchý terminálový dashboard pro Kubernetes vytvořený v Rustu
+  de: Ein einfaches Terminal-Dashboard für Kubernetes, geschrieben in Rust
+  es: Un sencillo panel de terminal para Kubernetes creado con Rust
+  fr: Un simple tableau de bord terminal pour Kubernetes écrit en Rust
+  id: Dasbor terminal sederhana untuk Kubernetes yang dibuat dengan Rust
+  it: Una semplice dashboard da terminale per Kubernetes scritta in Rust
+  ja: Rust で構築された、シンプルなターミナルダッシュボード
+  ko: Rust로 만든 간단한 Kubernetes용 터미널 대시보드
+  pl: Prosty terminalowy panel sterowania dla Kubernetes napisany w Rust
+  pt: Um painel de terminal simples para Kubernetes escrito em Rust
+  ro: Un simplu tablou de bord pentru terminalul Kubernetes scris în Rust
+  ru: Простая терминальная панель для Kubernetes, написанная на Rust
+  th: แดชบอร์ดเทอร์มินัลอย่างง่ายสำหรับ Kubernetes ที่สร้างด้วย Rust
+  tr: Rust ile yazılmış Kubernetes için basit bir terminal panosu
+  uk: Проста термінальна панель для Kubernetes, написана на Rust
+  vi: Bảng điều khiển terminal đơn giản cho Kubernetes được viết bằng Rust
 x:
   source: https://github.com/kdash-rs/kdash
   eget: kdash-rs/kdash

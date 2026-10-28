@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 Textual 构建的终端 Markdown 查看器/浏览器
   en: A Markdown viewer/browser for your terminal, built with Textual
+  cs: Prohlížeč Markdownu pro váš terminál, postavený s Textual
+  de: Ein Markdown-Betrachter/-Browser für dein Terminal, gebaut mit Textual
+  es: Un visor/navegador Markdown para tu terminal, construido con Textual
+  fr: Un visualiseur/navigateur Markdown pour votre terminal, conçu avec Textual
+  id: Penampil/peramban Markdown untuk terminal Anda, dibuat dengan Textual
+  it: Un visualizzatore/browser Markdown per il tuo terminale, costruito con Textual
+  ja: Textual で構築されたターミナル用 Markdown ビューア／ブラウザ
+  ko: Textual로 만든 터미널용 Markdown 뷰어/브라우저
+  pl: Przeglądarka Markdown dla terminala, zbudowana z użyciem Textual
+  pt: Um visualizador/navegador Markdown para o seu terminal, construído com Textual
+  ro: Un vizualizator/navigator Markdown pentru terminalul dvs., construit cu Textual
+  ru: Просмотрщик/браузер Markdown для вашего терминала, созданный на Textual
+  th: ตัวดูและเบราว์เซอร์ Markdown สำหรับเทอร์มินัลของคุณ สร้างด้วย Textual
+  tr: Terminaliniz için Textual ile hazırlanmış bir Markdown görüntüleyici/tarayıcı
+  uk: Переглядач/браузер Markdown для вашого термінала, створений на Textual
+  vi: Trình xem/trình duyệt Markdown cho terminal của bạn, xây dựng bằng Textual
 x:
   source: https://github.com/Textualize/frogmouth
   brew: textualize/homebrew/frogmouth

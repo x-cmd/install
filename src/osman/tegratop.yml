@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: TUI for monitoring Nvidia jetson boards
   cn: 用于监控 Nvidia Jetson 开发板的 TUI
+  cs: TUI pro monitorování desek Nvidia Jetson
+  de: TUI zur Überwachung von Nvidia-Jetson-Boards
+  es: TUI para monitorizar placas Nvidia Jetson
+  fr: TUI pour surveiller les cartes Nvidia Jetson
+  id: TUI untuk memantau papan Nvidia Jetson
+  it: TUI per monitorare le schede Nvidia Jetson
+  ja: Nvidia Jetson ボードを監視するための TUI
+  ko: Nvidia Jetson 보드를 모니터링하는 TUI
+  pl: TUI do monitorowania płyt Nvidia Jetson
+  pt: TUI para monitorar placas Nvidia Jetson
+  ro: TUI pentru monitorizarea plăcilor Nvidia Jetson
+  ru: TUI для мониторинга плат Nvidia Jetson
+  th: TUI สำหรับตรวจสอบบอร์ด Nvidia Jetson
+  tr: Nvidia Jetson kartlarını izlemek için bir TUI
+  uk: TUI для моніторингу плат Nvidia Jetson
+  vi: TUI để giám sát các bản Nvidia Jetson
 x:
   source: https://github.com/pythops/tegratop
   yay: tegratop

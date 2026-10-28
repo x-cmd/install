@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的 Kubernetes API 终端界面 (TUI)
   en: 'Terminal user interface (TUI) for Kubernetes API written in Rust'
+  cs: Terminálové uživatelské rozhraní (TUI) pro Kubernetes API napsané v Rustu
+  de: Terminal-Benutzeroberfläche (TUI) für die Kubernetes-API, geschrieben in Rust
+  es: Interfaz de usuario de terminal (TUI) para la API de Kubernetes escrita en Rust
+  fr: Interface utilisateur en terminal (TUI) pour l'API Kubernetes écrite en Rust
+  id: Antarmuka pengguna terminal (TUI) untuk Kubernetes API yang ditulis dengan Rust
+  it: Interfaccia utente a terminale (TUI) per la Kubernetes API scritta in Rust
+  ja: Rust で書かれた Kubernetes API 用のターミナルユーザーインターフェース (TUI) です。
+  ko: Rust로 작성된 Kubernetes API용 터미널 사용자 인터페이스(TUI)
+  pl: Terminalowy interfejs użytkownika (TUI) dla Kubernetes API napisany w Rust
+  pt: Interface de usuário de terminal (TUI) para a API do Kubernetes escrita em Rust
+  ro: Interfață de utilizator în terminal (TUI) pentru API-ul Kubernetes scrisă în Rust
+  ru: Терминальный пользовательский интерфейс (TUI) для Kubernetes API, написанный на Rust
+  th: อินเทอร์เฟซผู้ใช้แบบเทอร์มินัล (TUI) สำหรับ Kubernetes API ที่เขียนด้วย Rust
+  tr: Rust ile yazılmış Kubernetes API için terminal kullanıcı arayüzü (TUI)
+  uk: Термінальний інтерфейс користувача (TUI) для Kubernetes API, написаний на Rust
+  vi: Giao diện người dùng dạng terminal (TUI) cho Kubernetes API viết bằng Rust
 x:
   source: https://github.com/fioletoven/b4n
   eget: fioletoven/b4n

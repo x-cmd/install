@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 极简的 neofetch 风格天气 CLI
   en: '🌦️ Minimal neofetch-like weather CLI'
+  cs: 🌦️ minimalistní CLI pro počasí ve stylu neofetch
+  de: 🌦️ minimalistische Wetter-CLI im Stil von neofetch
+  es: 🌦️ CLI minimalista del tiempo al estilo neofetch
+  fr: 🌦️ CLI météo minimaliste à la neofetch
+  id: 🌦️ CLI cuaca minimalistis ala neofetch
+  it: 🌦️ CLI meteo minimalista in stile neofetch
+  ja: 🌦️ neofetch 風のミニマルな天気 CLI
+  ko: 🌦️ neofetch 스타일의 미니멀한 날씨 CLI
+  pl: 🌦️ minimalistyczne CLI pogodowe w stylu neofetch
+  pt: 🌦️ CLI de previsão do tempo minimalista no estilo neofetch
+  ro: 🌦️ CLI minimalist pentru vreme, în stil neofetch
+  ru: 🌦️ минималистичный CLI погоды в стиле neofetch
+  th: 🌦️ CLI สภาพอากาศแบบเรียบง่ายในสไตล์ neofetch
+  tr: 🌦️ neofetch tarzında minimalist hava durumu CLI
+  uk: 🌦️ мінімалістичний CLI погоди у стилі neofetch
+  vi: 🌦️ CLI thời tiết tối giản theo phong cách neofetch
 x:
   source: https://github.com/Tairesh/rustormy
   eget: Tairesh/rustormy

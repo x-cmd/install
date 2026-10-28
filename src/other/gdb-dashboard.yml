@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GDB Dashboard 是一个独立的 `.gdbinit` 文件，使用 Python API 编写，提供一个模块化的界面，显示关于正在调试的程序的相关信息。
   en: GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
+  cs: GDB dashboard je samostatný soubor .gdbinit napsaný pomocí Python API, který poskytuje modulární rozhraní zobrazující relevantní informace o programu pod debugováním.
+  de: GDB dashboard ist eine eigenständige .gdbinit-Datei, die mit der Python-API geschrieben wurde und ein modulares Interface zur Anzeige relevanter Informationen über das debuggte Programm bietet.
+  es: GDB dashboard es un archivo .gdbinit independiente escrito con la API de Python que ofrece una interfaz modular que muestra información relevante sobre el programa que se está depurando.
+  fr: GDB dashboard est un fichier .gdbinit autonome écrit avec l'API Python qui fournit une interface modulaire affichant des informations pertinentes sur le programme en cours de débogage.
+  id: GDB dashboard adalah file .gdbinit mandiri yang ditulis menggunakan Python API, menyediakan antarmuka modular yang menampilkan informasi relevan tentang program yang sedang di-debug.
+  it: GDB dashboard è un file .gdbinit autonomo scritto usando la Python API che fornisce un'interfaccia modulare mostrando informazioni rilevanti sul programma in esecuzione.
+  ja: GDB dashboard は Python API で書かれた単独の .gdbinit ファイルで、デバッグ中のプログラムに関する有用な情報を表示するモジュール式のインターフェースを提供します。
+  ko: GDB dashboard는 Python API로 작성된 독립형 .gdbinit 파일로, 디버그 중인 프로그램에 관한 관련 정보를 보여주는 모듈형 인터페이스를 제공합니다
+  pl: GDB dashboard to samodzielny plik .gdbinit napisany z użyciem Python API, który zapewnia modularny interfejs wyświetlający istotne informacje o debugowanym programie.
+  pt: O GDB dashboard é um arquivo .gdbinit independente escrito usando a API do Python que oferece uma interface modular mostrando informações relevantes sobre o programa em depuração.
+  ro: GDB dashboard este un fișier .gdbinit independent scris folosind API-ul Python, care oferă o interfață modulară ce afișează informații relevante despre programul depanat.
+  ru: GDB dashboard — это отдельный файл .gdbinit, написанный с использованием Python API, предоставляющий модульный интерфейс для отображения сведений о отлаживаемой программе.
+  th: GDB dashboard คือไฟล์ .gdbinit แบบสแตนด์อโลนที่เขียนด้วย Python API ซึ่งให้อินเทอร์เฟซแบบโมดูลาร์แสดงข้อมูลที่เกี่ยวข้องของโปรแกรมที่กำลังดีบัก
+  tr: GDB dashboard, Python API kullanılarak yazılmış, hata ayıklanan programla ilgili bilgileri gösteren modüler bir arayüz sunan bağımsız bir .gdbinit dosyasıdır.
+  uk: GDB dashboard — це окремий файл .gdbinit, написаний з використанням Python API, який надає модульний інтерфейс для відображення відомостей про програму, що налагоджується.
+  vi: GDB dashboard là tệp .gdbinit độc lập được viết bằng Python API, cung cấp giao diện mô-đun hiển thị thông tin liên quan về chương trình đang gỡ lỗi.
 x:
   source: https://github.com/cyrus-and/gdb-dashboard
 rule:

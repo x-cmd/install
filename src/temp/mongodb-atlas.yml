@@ -2,6 +2,22 @@ lang: TypeScript
 desc:
   cn: 用于在整个软件开发生命周期（从本地环境一直到云端）管理 MongoDB Atlas。
   en: Used to manage MongoDB Atlas throughout the entire software development lifecycle (from local environments to the cloud).
+  cs: Slouží ke správě MongoDB Atlas v průběhu celého životního cyklu vývoje softwaru (od místních prostředí až po cloud).
+  de: Wird verwendet, um MongoDB Atlas über den gesamten Softwareentwicklungszyklus hinweg zu verwalten (von lokalen Umgebungen bis zur Cloud).
+  es: Se utiliza para gestionar MongoDB Atlas a lo largo de todo el ciclo de vida de desarrollo de software (desde entornos locales hasta la nube).
+  fr: Permet de gérer MongoDB Atlas sur l'ensemble du cycle de vie du développement logiciel (des environnements locaux au cloud).
+  id: Digunakan untuk mengelola MongoDB Atlas sepanjang siklus hidup pengembangan perangkat lunak (dari lingkungan lokal hingga cloud).
+  it: Usato per gestire MongoDB Atlas nell'intero ciclo di vita dello sviluppo software (dagli ambienti locali al cloud).
+  ja: ソフトウェア開発ライフサイクル全体（ローカル環境からクラウドまで）を通じて MongoDB Atlas を管理するために使用されます。
+  ko: 전체 소프트웨어 개발 생명주기(로컬 환경부터 클라우드까지)에 걸쳐 MongoDB Atlas를 관리하는 데 사용됩니다.
+  pl: Służy do zarządzania MongoDB Atlas w całym cyklu życia tworzenia oprogramowania (od środowisk lokalnych po chmurę).
+  pt: Usado para gerenciar o MongoDB Atlas ao longo de todo o ciclo de vida de desenvolvimento de software (de ambientes locais à nuvem).
+  ro: Folosit pentru a gestiona MongoDB Atlas pe întregul ciclu de viață al dezvoltării software (de la medii locale la cloud).
+  ru: Используется для управления MongoDB Atlas на протяжении всего жизненного цикла разработки программного обеспечения (от локальных сред до облака).
+  th: ใช้สำหรับจัดการ MongoDB Atlas ตลอดวงจรการพัฒนาซอฟต์แวร์ (ตั้งแต่สภาพแวดล้อมในเครื่องจนถึงคลาวด์).
+  tr: Yerel ortamlardan buluta kadar yazılım geliştirme yaşam döngüsünün tamamında MongoDB Atlas yönetimi için kullanılır.
+  uk: Використовується для керування MongoDB Atlas на всьому життєвому циклі розробки програмного забезпечення (від локальних середовищ до хмари).
+  vi: Dùng để quản lý MongoDB Atlas xuyên suốt vòng đời phát triển phần mềm (từ môi trường cục bộ đến đám mây).
 homepage: https://github.com/mongodb/mongodb-atlas-cli
 license: Apache-2.0
 x:

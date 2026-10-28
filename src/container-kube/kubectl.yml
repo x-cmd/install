@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: kubectl 是 Kubernetes 命令行工具
   en: kubectl is the Kubernetes command-line tool
+  cs: kubectl je nástroj příkazové řádky pro Kubernetes
+  de: kubectl ist das Kommandozeilenwerkzeug für Kubernetes
+  es: kubectl es la herramienta de línea de comandos de Kubernetes
+  fr: kubectl est l'outil de ligne de commande de Kubernetes
+  id: kubectl adalah alat baris perintah untuk Kubernetes
+  it: kubectl è lo strumento da riga di comando per Kubernetes
+  ja: kubectl は Kubernetes のコマンドラインツールです
+  ko: kubectl는 Kubernetes 명령줄 도구입니다
+  pl: kubectl jest narzędziem wiersza poleceń dla Kubernetes
+  pt: kubectl é a ferramenta de linha de comando do Kubernetes
+  ro: kubectl este instrumentul de linie de comandă pentru Kubernetes
+  ru: kubectl — это инструмент командной строки для Kubernetes
+  th: kubectl คือเครื่องมือบรรทัดคำสั่งของ Kubernetes
+  tr: kubectl, Kubernetes için komut satırı aracıdır
+  uk: kubectl — це інструмент командного рядка для Kubernetes
+  vi: kubectl là công cụ dòng lệnh của Kubernetes
 x:
   source: https://github.com/kubernetes/kubectl
   apt: kubernetes-client

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Polaris 是 Kubernetes 的开源策略引擎，用于验证和补救资源配置
   en: Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration
+  cs: Polaris je open-source policy engine pro Kubernetes, který ověřuje a opravuje konfiguraci zdrojů
+  de: Polaris ist eine Open-Source-Policy-Engine für Kubernetes, die Ressourcenkonfigurationen validiert und behebt
+  es: Polaris es un motor de políticas de código abierto para Kubernetes que valida y corrige la configuración de los recursos
+  fr: Polaris est un moteur de politiques open source pour Kubernetes qui valide et corrige la configuration des ressources
+  id: Polaris adalah mesin kebijakan sumber terbuka untuk Kubernetes yang memvalidasi dan memperbaiki konfigurasi sumber daya
+  it: Polaris è un motore di policy open source per Kubernetes che convalida e rimedia la configurazione delle risorse
+  ja: Polaris は Kubernetes 向けのオープンソースポリシーエンジンで、リソース構成を検証し修復します
+  ko: Polaris는 리소스 구성을 검증하고 복구하는 Kubernetes용 오픈 소스 정책 엔진입니다
+  pl: Polaris to otwartoźródłowy silnik polityk dla Kubernetes, który waliduje i naprawia konfigurację zasobów
+  pt: Polaris é um mecanismo de políticas de código aberto para Kubernetes que valida e corrige a configuração de recursos
+  ro: Polaris este un motor de politici open source pentru Kubernetes care validează și remediază configurația resurselor
+  ru: Polaris — открытый движок политик для Kubernetes, который проверяет конфигурацию ресурсов и исправляет её
+  th: Polaris คือเครื่องมือนโยบายแบบโอเพนซอร์สสำหรับ Kubernetes ที่ตรวจสอบและแก้ไขค่าคอนฟิกของทรัพยากร
+  tr: Polaris, kaynak yapılandırmasını doğrulayan ve düzelten Kubernetes için açık kaynaklı bir politika motorudur
+  uk: Polaris — відкритий движок політик для Kubernetes, який перевіряє та виправляє конфігурацію ресурсів
+  vi: Polaris là công cụ chính sách mã nguồn mở cho Kubernetes, dùng để kiểm tra và khắc phục cấu hình tài nguyên
 x:
   source: https://github.com/FairwindsOps/polaris
   eget: FairwindsOps/polaris

@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 面向 AI Agent 的浏览器自动化 CLI
   en: Browser automation CLI for AI agents
+  cs: CLI pro automatizaci prohlížeče pro AI agenty
+  de: Browser-Automatisierungs-CLI für KI-Agenten
+  es: CLI de automatización del navegador para agentes de IA
+  fr: CLI d'automatisation de navigateur pour les agents IA
+  id: CLI otomatisasi browser untuk agen AI
+  it: CLI di automazione del browser per agenti IA
+  ja: AI エージェント向けのブラウザ自動化 CLI
+  ko: AI 에이전트를 위한 브라우저 자동화 CLI
+  pl: CLI do automatyzacji przeglądarki dla agentów AI
+  pt: CLI de automação de navegador para agentes de IA
+  ro: CLI de automatizare a browserului pentru agenți AI
+  ru: CLI для автоматизации браузера для ИИ-агентов
+  th: CLI สำหรับการทำงานอัตโนมัติของเบราว์เซอร์สำหรับเอเจนต์ AI
+  tr: Yapay zekâ ajanları için tarayıcı otomasyonu CLI
+  uk: CLI для автоматизації браузера для ШІ-агентів
+  vi: CLI tự động hóa trình duyệt cho các tác nhân AI
 x:
   source: https://github.com/vercel-labs/agent-browser
   eget: vercel-labs/agent-browser

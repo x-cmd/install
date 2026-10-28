@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Systemd 是 Linux 系统的一套基本构建块
   en: systemd is a suite of basic building blocks for a Linux system
+  cs: systemd je sada základních stavebních bloků pro systém Linux
+  de: systemd ist eine Suite grundlegender Bausteine für ein Linux-System
+  es: systemd es un conjunto de bloques de construcción básicos para un sistema Linux
+  fr: systemd est un ensemble de blocs de construction de base pour un système Linux
+  id: systemd adalah rangkaian blok bangunan dasar untuk sistem Linux
+  it: systemd è un insieme di blocchi fondamentali per un sistema Linux
+  ja: systemd は Linux システムのための基本的な構成要素の集合です
+  ko: systemd는 Linux 시스템을 위한 기본 구성 요소 모음입니다
+  pl: systemd to zestaw podstawowych elementów składowych systemu Linux
+  pt: O systemd é um conjunto de blocos de construção básicos para um sistema Linux
+  ro: systemd este o suită de blocuri de bază pentru un sistem Linux
+  ru: systemd — набор базовых строительных блоков для системы Linux
+  th: systemd คือชุดองค์ประกอบพื้นฐานสำหรับระบบ Linux
+  tr: systemd, bir Linux sistemi için temel yapı taşlarından oluşan bir pakettir
+  uk: systemd — набір базових будівельних блоків для системи Linux
+  vi: systemd là một bộ khối xây dựng cơ bản cho hệ thống Linux
 x:
   source: https://github.com/systemd/systemd
   apt: systemd

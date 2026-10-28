@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ast-grep(sg) 是一个快速、多语言的工具，用于大规模的代码结构化搜索、 lint 和重写
   en: ast-grep(sg) is a fast and polyglot tool for code structural search, lint, rewriting at large scale
+  cs: ast-grep(sg) je rychlý a vícejazyčný nástroj pro strukturální vyhledávání v kódu, lint a přepisování ve velkém měřítku
+  de: ast-grep(sg) ist ein schnelles, mehrsprachiges Werkzeug für strukturelle Code-Suche, Linting und großmaßstäbliches Umschreiben
+  es: ast-grep(sg) es una herramienta rápida y multilingüe para la búsqueda estructural de código, el lint y la reescritura a gran escala
+  fr: ast-grep(sg) est un outil rapide et multilingue pour la recherche structurelle de code, le lint et la réécriture à grande échelle
+  id: ast-grep(sg) adalah alat cepat dan poliglot untuk pencarian struktural kode, lint, dan penulisan ulang dalam skala besar
+  it: ast-grep(sg) è uno strumento veloce e poliglotta per la ricerca strutturale nel codice, il lint e la riscrittura su larga scala
+  ja: ast-grep(sg) は、大規模なコードの構造化検索、lint、書き換えのための高速なマルチ言語ツールです
+  ko: ast-grep(sg)는 대규모 코드 구조 검색, 린팅 및 재작성을 위한 빠르고 다국어 도구입니다
+  pl: ast-grep(sg) to szybkie i wielojęzyczne narzędzie do strukturalnego wyszukiwania w kodzie, lintowania i przepisywania na dużą skalę
+  pt: ast-grep(sg) é uma ferramenta rápida e multilíngue para busca estrutural de código, lint e reescrita em grande escala
+  ro: ast-grep(sg) este un instrument rapid și poliglot pentru căutare structurală în cod, lint și rescriere la scară largă
+  ru: ast-grep(sg) — это быстрый многоязычный инструмент для структурного поиска в коде, линтинга и массового переписывания
+  th: ast-grep(sg) คือเครื่องมือที่รวดเร็วและรองรับหลายภาษา สำหรับค้นหาโครงสร้างโค้ด ตรวจ lint และเขียนโค้ดใหม่ในระดับขนาดใหญ่
+  tr: ast-grep(sg), büyük ölçekte kodda yapısal arama, lint ve yeniden yazma için hızlı ve çok dilli bir araçtır
+  uk: ast-grep(sg) — це швидкий багатомовний інструмент для структурного пошуку в коді, лінтингу та масового переписування
+  vi: ast-grep(sg) là công cụ nhanh và đa ngôn ngữ cho tìm kiếm cấu trúc mã, lint và viết lại ở quy mô lớn
 x:
   source: https://github.com/ast-grep/ast-grep
   eget: ast-grep/ast-grep

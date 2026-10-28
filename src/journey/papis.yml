@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: Papis is a powerful and highly extensible CLI document and bibliography manager
   cn: Papis 是一个功能强大且高度可扩展的命令行文档和参考文献管理工具。
+  cs: Papis je mocný a vysoce rozšiřitelný nástroj CLI pro správu dokumentů a bibliografií
+  de: Papis ist ein leistungsstarkes und hoch erweiterbares CLI-Werkzeug zur Dokumenten- und Literaturverwaltung
+  es: Papis es una potente y altamente extensible herramienta de línea de comandos para gestionar documentos y bibliografía
+  fr: Papis est un outil CLI puissant et hautement extensible de gestion de documents et de bibliographie
+  id: Papis adalah alat CLI yang kuat dan sangat dapat diperluas untuk mengelola dokumen dan bibliografi
+  it: Papis è un potente strumento CLI per la gestione di documenti e bibliografie, altamente estensibile
+  ja: Papisは強力かつ非常に拡張可能なCLIの文書・文献管理ツールです
+  ko: Papis은 문서와 참고문헌을 관리하는 강력하고 확장성이 뛰어난 CLI 도구입니다
+  pl: Papis to potężne i wysoce rozszerzalne narzędzie CLI do zarządzania dokumentami i bibliografią
+  pt: Papis é uma ferramenta de linha de comando poderosa e altamente extensível para gerenciamento de documentos e bibliografia
+  ro: Papis este un instrument CLI puternic și foarte extensibil pentru gestionarea documentelor și a bibliografiei
+  ru: Papis — мощный и легко расширяемый инструмент командной строки для управления документами и библиографией
+  th: Papis เป็นเครื่องมือบรรทัดคำสั่งที่ทรงพลังและขยายได้สูงสำหรับการจัดการเอกสารและบรรณานุกรม
+  tr: Papis, belge ve kaynakça yönetimi için güçlü ve son derece genişletilebilir bir CLI aracıdır
+  uk: Papis — потужний і надзвичайно розширюваний інструмент командного рядка для керування документами та бібліографією
+  vi: Papis là công cụ dòng lệnh mạnh mẽ và có thể mở rộng cao để quản lý tài liệu và thư mục tra cứu
 x:
   source: https://github.com/papis/papis
   eget: papis/papis

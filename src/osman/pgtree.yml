@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于特定进程的类 Unix 进程层次结构树显示工具。
   en: A unix process hierarchy tree display tool for specific processes.
+  cs: Nástroj pro zobrazení hierarchie unixových procesů jako stromu pro konkrétní procesy.
+  de: Ein Werkzeug zur Anzeige der Unix-Prozesshierarchie als Baum für bestimmte Prozesse.
+  es: Una herramienta para mostrar la jerarquía de procesos de Unix en forma de árbol para procesos concretos.
+  fr: Un outil affichant la hiérarchie des processus Unix sous forme d'arbre pour des processus spécifiques.
+  id: Alat untuk menampilkan hierarki proses Unix sebagai pohon untuk proses tertentu.
+  it: Uno strumento che mostra la gerarchia dei processi Unix come albero per processi specifici.
+  ja: 特定のプロセスのUnixプロセス階層をツリーで表示するツールです。
+  ko: 특정 프로세스의 Unix 프로세스 계층 구조를 트리로 표시하는 도구입니다.
+  pl: Narzędzie wyświetlające hierarchię procesów Unix jako drzewo dla wybranych procesów.
+  pt: Uma ferramenta que exibe a hierarquia de processos Unix como uma árvore para processos específicos.
+  ro: Un instrument care afișează ierarhia proceselor Unix sub formă de arbore pentru procese specifice.
+  ru: Инструмент для отображения иерархии процессов Unix в виде дерева для заданных процессов.
+  th: เครื่องมือแสดงลำดับชั้นของกระบวนการ Unix ในรูปแบบต้นไม้สำหรับกระบวนการที่ระบุ
+  tr: Belirli süreçler için Unix süreç hiyerarşisini ağaç olarak gösteren bir araç.
+  uk: Інструмент для відображення ієрархії процесів Unix у вигляді дерева для заданих процесів.
+  vi: Công cụ hiển thị cây phân cấp tiến trình Unix cho các tiến trình cụ thể.
 x:
   source: https://github.com/joknarf/pgtree
   eget: joknarf/pgtree

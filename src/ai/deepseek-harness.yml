@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: DeepSeek 官方开源的 Agent Harness（dsh），采用"一切皆插件"的架构并由 Cordis 驱动，统一管理 profile 启动、插件加载与 Web UI，可通过 npx 一键拉起本地 Web 界面
   en: DeepSeek's open-source agent harness (dsh) with an "everything is a plugin" architecture powered by Cordis. Unifies profile boot, plugin management, and a browser UI that you can launch locally via npx.
+  cs: Open-source agentní harness od DeepSeek (dsh) s architekturou "všechno je plugin" poháněnou Cordis. Sjednocuje boot profilů, správu pluginů a webové UI, které lze spustit lokálně přes npx.
+  de: DeepSears quelloffener Agent-Harness (dsh) mit einer auf Cordis basierenden "alles ist ein Plugin"-Architektur. Vereint Profil-Start, Plugin-Verwaltung und eine Web-UI, die lokal über npx gestartet werden kann.
+  es: El harness de agentes de código abierto de DeepSeek (dsh) con una arquitectura de "todo es un plugin" basada en Cordis. Unifica el arranque de perfiles, la gestión de plugins y una interfaz web que puedes lanzar localmente con npx.
+  fr: Le harnais d'agents open source de DeepSeek (dsh), avec une architecture "tout est un plugin" propulsée par Cordis. Il unifie le démarrage des profils, la gestion des plugins et une interface web que vous pouvez lancer localement via npx.
+  id: Harness agen open-source milik DeepSeek (dsh) dengan arsitektur "semua adalah plugin" yang didukung Cordis. Mem satukan boot profil, manajemen plugin, dan UI web yang dapat dijalankan secara lokal melalui npx.
+  it: L'harness per agenti open source di DeepSeek (dsh) con un'architettura "tutto è un plugin" basata su Cordis. Unifica avvio dei profili, gestione dei plugin e una UI web che puoi lanciare localmente via npx.
+  ja: DeepSeek のオープンソースエージェントハーネス (dsh) で、Cordis を基盤とする「すべてがプラグイン」アーキテクチャを採用。プロファイルの起動、プラグイン管理、npx でローカル起動できる Web UI を統合しています。
+  ko: DeepSeek의 오픈소스 에이전트 하네스(dsh)로, Cordis 기반의 "모든 것이 플러그인" 아키텍처를 사용합니다. 프로필 부팅, 플러그인 관리, npx로 로컬에서 실행할 수 있는 웹 UI를 통합합니다.
+  pl: Open-source'owy harness agentów od DeepSeek (dsh) z architekturą "wszystko jest wtyczką" opartą na Cordis. Unifikuje uruchamianie profili, zarządzanie wtyczkami i interfejs webowy, który można uruchomić lokalnie przez npx.
+  pt: O harness de agentes de código aberto da DeepSeek (dsh) com uma arquitetura de "tudo é um plugin" baseada no Cordis. Unifica inicialização de perfis, gerenciamento de plugins e uma interface web que você pode iniciar localmente via npx.
+  ro: Harness-ul pentru agenți cu sursă deschisă de la DeepSeek (dsh), cu o arhitectură "totul este un plugin" bazată pe Cordis. Unește pornirea profilelor, managementul pluginurilor și o interfață web pe care o poți lansa local prin npx.
+  ru: Открытый агентный харнесс от DeepSeek (dsh) с архитектурой «всё является плагином» на базе Cordis. Объединяет запуск профилей, управление плагинами и веб-интерфейс, который можно запустить локально через npx.
+  th: ชุดเครื่องมือเอเจนต์โอเพนซอร์สของ DeepSeek (dsh) พร้อมสถาปัตยกรรม "ทุกอย่างเป็นปลั๊กอิน" บน Cordis รวมการบูตโปรไฟล์ การจัดการปลั๊กอิน และเว็บ UI ที่เปิดใช้งานในเครื่องผ่าน npx ได้
+  tr: Cordis tabanlı "her şey bir eklenti" mimarisiyle DeepSeek'in açık kaynaklı ajan harness'ı (dsh). Profil başlatma, eklenti yönetimi ve npx ile yerel olarak çalıştırılabilen bir web arayüzünü bir araya getirir.
+  uk: Відкритий агентний харнес від DeepSeek (dsh) з архітектурою «все є плагіном» на базі Cordis. Об'єднує запуск профілів, керування плагінами та веб-інтерфейс, який можна запустити локально через npx.
+  vi: Agent harness mã nguồn mở của DeepSeek (dsh) với kiến trúc "mọi thứ đều là plugin" chạy trên Cordis. Hợp nhất khởi động profile, quản lý plugin và giao diện web có thể chạy cục bộ qua npx.
 x:
   source: https://github.com/deepseek-ai/deepseek-harness
   npm: "@deepseek-ai/dsh"

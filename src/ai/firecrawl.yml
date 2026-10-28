@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 用于搜索、抓取、交互 Web 的 API 与 SDK，输出干净的 Markdown 或结构化数据，供 AI Agent 直接使用
   en: API and SDKs to search, scrape, and interact with the web at scale, turning pages into clean Markdown or structured data for AI agents
+  cs: API a SDK pro vyhledávání, scraping a interakci s webem ve velkém měřítku, které přeměňují stránky na čistý Markdown nebo strukturovaná data pro AI agenty
+  de: APIs und SDKs, um im großen Maßstab im Web zu suchen, zu scrapen und damit zu interagieren und Seiten in sauberes Markdown oder strukturierte Daten für KI-Agenten verwandeln
+  es: API y SDK para buscar, raspar e interactuar con la web a gran escala, convirtiendo las páginas en Markdown limpio o datos estructurados para agentes de IA
+  fr: API et SDK pour rechercher, extraire et interagir avec le web à grande échelle, transformant les pages en Markdown propre ou en données structurées pour les agents IA
+  id: API dan SDK untuk mencari, meng scrape, dan berinteraksi dengan web dalam skala besar, mengubah halaman menjadi Markdown bersih atau data terstruktur untuk agen AI
+  it: API e SDK per cercare, estrarre e interagire con il web su larga scala, trasformando le pagine in Markdown pulito o dati strutturati per gli agenti IA
+  ja: 大規模に Web を検索・スクレイピング・操作し、ページをクリーンな Markdown や構造化データに変換して AI エージェントがそのまま使えるようにする API と SDK です。
+  ko: 웹을 대규모로 검색하고 스크레이핑하며 상호작용하고, 페이지를 깔끔한 Markdown나 구조화된 데이터로 변환해 AI 에이전트가 바로 쓸 수 있게 하는 API와 SDK입니다.
+  pl: API i SDK do wyszukiwania, scrapowania i interakcji ze stronami na dużą skalę, zamieniające strony w czysty Markdown lub uporządkowane dane dla agentów AI
+  pt: API e SDKs para pesquisar, raspar e interagir com a web em grande escala, transformando páginas em Markdown limpo ou dados estruturados para agentes de IA
+  ro: API-uri și SDK-uri pentru a căuta, a extrage și a interacționa cu web-ul la scară largă, transformând paginile în Markdown curat sau date structurate pentru agenți AI
+  ru: API и SDK для поиска, сбора и взаимодействия с вебом в больших масштабах, превращающие страницы в чистый Markdown или структурированные данные для ИИ-агентов
+  th: API และ SDK สำหรับค้นหา ดึงข้อมูล และโต้ตอบกับเว็บในขนาดใหญ่ เปลี่ยนหน้าเว็บให้เป็น Markdown ที่สะอาดหรือข้อมูลแบบมีโครงสร้างสำหรับเอเจนต์ AI
+  tr: Web'i büyük ölçekte aramak, kazımak ve etkileşime girmek için API'ler ve SDK'lar; sayfaları AI ajanları için temiz Markdown veya yapılandırılmış veriye dönüştürür.
+  uk: API та SDK для пошуку, збору даних та взаємодії з вебом у великих масштабах, які перетворюють сторінки на чистий Markdown або структуровані дані для ІІ-агентів
+  vi: API và SDK để tìm kiếm, thu thập và tương tác với web ở quy mô lớn, biến các trang thành Markdown sạch hoặc dữ liệu có cấu trúc cho tác nhân AI
 x:
   source: https://github.com/mendableai/firecrawl
   npm: firecrawl-cli

@@ -3,6 +3,22 @@ homepage: http://gondor.apana.org.au/~herbert/dash/
 desc:
   cn: Almquist Shell（也称为 shell，Ash 和 SH）是最初由 Kenneth Almquist 在 1980 年代后期撰写的轻巧的 Unix shell
   en: Almquist shell (also known as A Shell, ash and sh) is a lightweight Unix shell originally written by Kenneth Almquist in the late 1980s
+  cs: Almquist shell (také známý jako A Shell, ash a sh) je lehký Unix shell původně napsaný Kennetem Almquistem na konci 80. let
+  de: Die Almquist-Shell (auch als A Shell, ash und sh bekannt) ist eine schlanke Unix-Shell, die ursprünglich von Kenneth Almquist Ende der 1980er Jahre geschrieben wurde
+  es: La shell Almquist (también conocida como A Shell, ash y sh) es una shell Unix ligera escrita originalmente por Kenneth Almquist a finales de la década de 1980
+  fr: Le shell Almquist (également connu sous le nom de A Shell, ash et sh) est un shell Unix léger écrit à l'origine par Kenneth Almquist à la fin des années 1980
+  id: Almquist shell (juga dikenal sebagai A Shell, ash dan sh) adalah shell Unix ringan yang awalnya ditulis oleh Kenneth Almquist pada akhir 1980-an
+  it: La shell Almquist (nota anche come A Shell, ash e sh) è una shell Unix leggera scritta originariamente da Kenneth Almquist alla fine degli anni '80
+  ja: Almquist shell（A Shell、ash、sh とも呼ばれます）は、1980年代後半に Kenneth Almquist が元々書いた軽量な Unix シェルです
+  ko: Almquist shell(A Shell, ash, sh라고도 함)은 1980년대 후반에 Kenneth Almquist가 처음 작성한 가벼운 Unix 셸입니다
+  pl: Almquist shell (znany także jako A Shell, ash i sh) to lekka powłoka uniksowa, napisana pierwotnie przez Kennetha Almquista pod koniec lat 80.
+  pt: O shell Almquist (também conhecido como A Shell, ash e sh) é um shell Unix leve escrito originalmente por Kenneth Almquist no final da década de 1980
+  ro: Almquist shell (cunoscut și ca A Shell, ash și sh) este un shell Unix ușor scris inițial de Kenneth Almquist la sfârșitul anilor 1980
+  ru: Almquist shell (также известный как A Shell, ash и sh) — лёгкая оболочка Unix, изначально написанная Кеннетом Алмквистом в конце 1980-х годов
+  th: Almquist shell (หรือที่รู้จักกันในชื่อ A Shell, ash และ sh) เป็นเชลล์ยูนิกซ์แบบเบาที่เดิมเขียนขึ้นโดย Kenneth Almquist ในช่วงปลายทศวรรษ 1980
+  tr: Almquist shell (A Shell, ash ve sh olarak da bilinir), 1980'lerin sonlarında Kenneth Almquist tarafından yazılan hafif bir Unix shell'idir
+  uk: Almquist shell (також відома як A Shell, ash і sh) — легка оболонка Unix, спочатку написана Кеннетом Алмквістом наприкінці 1980-х років
+  vi: Almquist shell (còn được gọi là A Shell, ash và sh) là một shell Unix nhẹ ban đầu được viết bởi Kenneth Almquist vào cuối thập niên 1980
 rule:
   debian/apt:
     cmd: sudo apt-get install ash

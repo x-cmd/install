@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于检查密码安全性的命令行工具
   en: A CLI tool for checking password safety.
+  cs: Nástroj příkazové řádky pro kontrolu bezpečnosti hesel.
+  de: Ein CLI-Werkzeug zur Überprüfung der Passwortsicherheit.
+  es: Una herramienta de línea de comandos para comprobar la seguridad de las contraseñas.
+  fr: Un outil en ligne de commande pour vérifier la sécurité des mots de passe.
+  id: Alat CLI untuk memeriksa keamanan kata sandi.
+  it: Uno strumento CLI per verificare la sicurezza delle password.
+  ja: パスワードの安全性を確認するためのコマンドラインツール
+  ko: 비밀번호 안전성을 확인하는 CLI 도구
+  pl: Narzędzie CLI do sprawdzania bezpieczeństwa haseł.
+  pt: Uma ferramenta de linha de comando para verificar a segurança das senhas.
+  ro: Un instrument de linie de comandă pentru verificarea siguranței parolelor.
+  ru: CLI-инструмент для проверки безопасности паролей.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับตรวจสอบความปลอดภัยของรหัสผ่าน
+  tr: Parola güvenliğini denetlemek için bir CLI aracı.
+  uk: CLI-інструмент для перевірки безпеки паролів.
+  vi: Công cụ CLI để kiểm tra độ an toàn của mật khẩu
 x:
   source: https://github.com/edoardottt/pwdsafety
   eget: edoardottt/pwdsafety

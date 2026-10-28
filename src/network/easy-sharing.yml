@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Sharing 是一个命令行工具，可将 CLI 中的目录和文件共享到 iOS 和 Android 设备，无需额外的客户端应用程序
   en: Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
+  cs: Sharing je nástroj příkazové řádky pro sdílení adresářů a souborů z CLI do zařízení iOS a Android bez potřeby další klientské aplikace
+  de: Sharing ist ein Kommandozeilen-Tool, um Verzeichnisse und Dateien aus der CLI an iOS- und Android-Geräte zu teilen, ohne dass eine zusätzliche Client-App nötig ist
+  es: Sharing es una herramienta de línea de comandos para compartir directorios y archivos de la CLI con dispositivos iOS y Android sin necesidad de una aplicación de cliente adicional
+  fr: Sharing est un outil en ligne de commande pour partager des répertoires et des fichiers depuis la CLI vers des appareils iOS et Android sans application client supplémentaire
+  id: Sharing adalah alat baris perintah untuk berbagi direktori dan file dari CLI ke perangkat iOS dan Android tanpa memerlukan aplikasi klien tambahan
+  it: Sharing è uno strumento da riga di comando per condividere directory e file dalla CLI verso dispositivi iOS e Android senza bisogno di un'app client aggiuntiva
+  ja: Sharing は、CLI から iOS および Android デバイスへディレクトリやファイルを共有するためのコマンドラインツールで、追加のクライアントアプリは不要です
+  ko: Sharing은 별도의 클라이언트 앱 없이 CLI에서 iOS 및 Android 기기로 디렉터리와 파일을 공유하는 명령줄 도구입니다
+  pl: Sharing to narzędzie wiersza poleceń do udostępniania katalogów i plików z CLI urządzeniom iOS i Android bez potrzeby dodatkowej aplikacji klienckiej
+  pt: Sharing é uma ferramenta de linha de comando para compartilhar diretórios e arquivos da CLI com dispositivos iOS e Android sem precisar de um aplicativo cliente extra
+  ro: Sharing este un instrument de linie de comand pentru partajarea de directoare și fișiere din CLI către dispozitive iOS și Android, fără necesitatea unei aplicații client suplimentare
+  ru: Sharing — это инструмент командной строки для передачи каталогов и файлов из CLI на устройства iOS и Android без дополнительного клиентского приложения
+  th: Sharing เป็นเครื่องมือบรรทัดคำสั่งสำหรับแชร์ไดเรกทอรีและไฟล์จาก CLI ไปยังอุปกรณ์ iOS และ Android โดยไม่ต้องใช้แอปไคลเอนต์เพิ่มเติม
+  tr: Sharing, ek bir istemci uygulaması gerektirmeden CLI'dan dizinleri ve dosyaları iOS ve Android cihazlarla paylaşmak için bir komut satırı aracıdır
+  uk: Sharing — це інструмент командного рядка для передачі каталогів і файлів із CLI на пристрої iOS та Android без додаткового клієнтського застосунку
+  vi: Sharing là công cụ dòng lệnh để chia sẻ thư mục và tệp từ CLI sang thiết bị iOS và Android mà không cần ứng dụng khách hàng bổ sung
 x:
   source: https://github.com/parvardegr/sharing
   npm: easy-sharing

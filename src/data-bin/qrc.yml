@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 文本终端的二维码生成器，支持 ANSI 彩色、Unicode 与 Sixel
   en: 'QR code generator for text terminals (ANSI color, Unicode, Sixel)'
+  cs: Generátor QR kódů pro textové terminály (ANSI barvy, Unicode, Sixel)
+  de: QR-Code-Generator für Textterminals (ANSI-Farben, Unicode, Sixel)
+  es: Generador de códigos QR para terminales de texto (color ANSI, Unicode, Sixel)
+  fr: Générateur de codes QR pour terminaux texte (couleur ANSI, Unicode, Sixel)
+  id: Pembuat kode QR untuk terminal teks (warna ANSI, Unicode, Sixel)
+  it: Generatore di codici QR per terminali testuali (colori ANSI, Unicode, Sixel)
+  ja: テキスト端末向け QR コード生成ツール (ANSI カラー、Unicode、Sixel)
+  ko: 텍스트 터미널용 QR 코드 생성기 (ANSI 색상, Unicode, Sixel)
+  pl: Generator kodów QR dla terminali tekstowych (kolory ANSI, Unicode, Sixel)
+  pt: Gerador de códigos QR para terminais de texto (cor ANSI, Unicode, Sixel)
+  ro: Generator de coduri QR pentru terminale text (culoare ANSI, Unicode, Sixel)
+  ru: Генератор QR-кодов для текстовых терминалов (цвет ANSI, Unicode, Sixel)
+  th: เครื่องสร้างคิวอาร์โค้ดสำหรับเทอร์มินัลข้อความ (สี ANSI, Unicode, Sixel)
+  tr: Metin terminalleri için QR kod oluşturucu (ANSI renk, Unicode, Sixel)
+  uk: Генератор QR-кодів для текстових терміналів (колір ANSI, Unicode, Sixel)
+  vi: Trình tạo mã QR cho terminal văn bản (màu ANSI, Unicode, Sixel)
 x:
   source: https://github.com/fumiyas/qrc
   eget: fumiyas/qrc

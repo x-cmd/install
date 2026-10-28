@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 兼容多种 LLM 模型的开源 AI 智能体
   en: An open-source AI agent that is compatible with multiple LLM models
+  cs: Open-source AI agent kompatibilní s více LLM modely
+  de: Ein quelloffener KI-Agent, der mit mehreren LLM-Modellen kompatibel ist
+  es: Un agente de IA de código abierto compatible con varios modelos de LLM
+  fr: Un agent IA open source compatible avec plusieurs modèles de LLM
+  id: Agen AI open-source yang kompatibel dengan berbagai model LLM
+  it: Un agente IA open source compatibile con più modelli LLM
+  ja: 複数の LLM モデルに対応したオープンソースの AI エージェント
+  ko: 여러 LLM 모델과 호환되는 오픈소스 AI 에이전트
+  pl: Agent AI o otwartym kodzie, kompatybilny z wieloma modelami LLM
+  pt: Um agente de IA de código aberto compatível com vários modelos de LLM
+  ro: Un agent AI cu sursă deschisă compatibil cu mai multe modele LLM
+  ru: Открытый ИИ-агент, совместимый с различными моделями LLM
+  th: เอเจนต์ AI แบบโอเพนซอร์สที่รองรับโมเดล LLM หลายตัว
+  tr: Birden fazla LLM modeliyle uyumlu açık kaynaklı bir YZ ajanı
+  uk: Відкритий ІІ-агент, сумісний із різними моделями LLM
+  vi: Một agent AI mã nguồn mở tương thích với nhiều mô hình LLM
 x:
   source: https://github.com/ConardLi/easy-llm-cli
   eget: ConardLi/easy-llm-cli

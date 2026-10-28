@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 CLI 工具，可以对包括 xlsx 文件在内的各种文件执行 SQL 查询，并将结果输出到各种文件
   en: A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  cs: Nástroj CLI, který spouští SQL dotazy nad různými soubory včetně souborů xlsx a výsledky zapisuje do různých souborů
+  de: Ein CLI-Werkzeug, das SQL-Abfragen auf verschiedenen Dateien einschließlich xlsx-Dateien ausführt und die Ergebnisse in verschiedene Dateien schreibt
+  es: Una herramienta CLI que ejecuta consultas SQL sobre varios archivos, incluidos los archivos xlsx, y genera los resultados en distintos archivos
+  fr: Un outil CLI qui exécute des requêtes SQL sur différents fichiers, y compris les fichiers xlsx, et écrit les résultats dans différents fichiers
+  id: Alat CLI yang menjalankan kueri SQL pada berbagai berkas termasuk berkas xlsx dan mengeluarkan hasilnya ke berbagai berkas
+  it: Uno strumento CLI che esegue query SQL su vari file, inclusi i file xlsx, e restituisce i risultati in vari file
+  ja: xlsx ファイルを含むさまざまなファイルに対して SQL クエリを実行し、結果をさまざまなファイルに出力する CLI ツール
+  ko: xlsx 파일을 포함한 다양한 파일에 SQL 쿼리를 실행하고 결과를 다양한 파일로 출력하는 CLI 도구
+  pl: Narzędzie CLI, które wykonuje zapytania SQL na różnych plikach, w tym plikach xlsx, i zapisuje wyniki w różnych plikach
+  pt: Uma ferramenta CLI que executa consultas SQL em vários arquivos, incluindo arquivos xlsx, e grava os resultados em vários arquivos
+  ro: Un instrument CLI care execută interogări SQL pe diverse fișiere, inclusiv fișiere xlsx, și scrie rezultatele în diverse fișiere
+  ru: CLI-инструмент, выполняющий SQL-запросы к различным файлам, включая xlsx, и выводящий результаты в различные файлы
+  th: เครื่องมือ CLI ที่รันคำสั่ง SQL บนไฟล์ต่าง ๆ รวมถึงไฟล์ xlsx และส่งออกผลลัพธ์ไปยังไฟล์ต่าง ๆ
+  tr: xlsx dosyaları dahil çeşitli dosyalar üzerinde SQL sorguları çalıştıran ve sonuçları çeşitli dosyalara çıkaran bir CLI aracı
+  uk: CLI-інструмент, який виконує SQL-запити до різних файлів, зокрема xlsx, і виводить результати у різні файли
+  vi: Công cụ CLI thực thi các truy vấn SQL trên nhiều loại tệp, bao gồm tệp xlsx, và xuất kết quả ra nhiều loại tệp
 x:
   source: https://github.com/noborus/xlsxsql
   eget: noborus/xlsxsql

@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: Flatpak 是一个用于在 Linux 上构建、分发和运行沙箱桌面应用程序的系统
   en: Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux
+  cs: Flatpak je systém pro sestavování, distribuci a spouštění sandboxovaných desktopových aplikací v Linuxu
+  de: Flatpak ist ein System zum Erstellen, Verteilen und Ausführen von sandboxierten Desktop-Anwendungen unter Linux
+  es: Flatpak es un sistema para compilar, distribuir y ejecutar aplicaciones de escritorio aisladas en Linux
+  fr: Flatpak est un système pour construire, distribuer et exécuter des applications de bureau isolées sous Linux
+  id: Flatpak adalah sistem untuk membangun, mendistribusikan, dan menjalankan aplikasi desktop terisolasi di Linux
+  it: Flatpak è un sistema per costruire, distribuire ed eseguire applicazioni desktop isolate su Linux
+  ja: Flatpak は Linux 上でサンドボックス化されたデスクトップアプリケーションを構築・配布・実行するためのシステムです
+  ko: Flatpak은(는) Linux에서 샌드박스된 데스크톱 애플리케이션을 빌드, 배포, 실행하기 위한 시스템입니다
+  pl: Flatpak to system do budowania, dystrybucji i uruchamiania aplikacji desktopowych w piaskownicy na Linuksie
+  pt: Flatpak é um sistema para compilar, distribuir e executar aplicações de desktop em sandbox no Linux
+  ro: Flatpak este un sistem pentru compilarea, distribuirea și rularea aplicațiilor desktop izolate în sandbox pe Linux
+  ru: Flatpak — это система для сборки, распространения и запуска изолированных настольных приложений в Linux
+  th: Flatpak คือระบบสำหรับสร้าง แจกจ่าย และเรียกใช้แอปพลิเคชันเดสก์ท็อปแบบแซนด์บ็อกซ์บน Linux
+  tr: Flatpak, Linux üzerinde sandbox içinde çalışan masaüstü uygulamaları oluşturmak, dağıtmak ve çalıştırmak için bir sistemdir
+  uk: Flatpak — це система для збирання, розповсюдження та запуску ізольованих настільних застосунків у Linux
+  vi: Flatpak là hệ thống để xây dựng, phân phối và chạy các ứng dụng máy tính trong sandbox trên Linux
 x:
   source: https://github.com/flatpak/flatpak
   eget: flatpak/flatpak

@@ -3,6 +3,22 @@ homepage: https://pan.baidu.com/
 desc:
   en: Baidu Netdisk is a cloud service product launched by Baidu, users can use photos, documents, music, and address book data in various devices to share and communicate in many circles of friends
   cn: 百度网盘是百度公司推出的一款云服务产品,用户可以将照片、文档、音乐、通讯录数据在各类设备中使用，在众多朋友圈里分享与交流
+  cs: Baidu Netdisk je cloudová služba od Baidu, která umožňuje používat fotografie, dokumenty, hudbu a kontakty v různých zařízeních a sdílet je s přáteli
+  de: Baidu Netdisk ist ein Cloud-Service von Baidu, mit dem Nutzer Fotos, Dokumente, Musik und Kontakte auf verschiedenen Geräten nutzen und mit Freunden teilen können
+  es: Baidu Netdisk es un servicio en la nube de Baidu que permite usar fotos, documentos, música y contactos en distintos dispositivos y compartirlos con amigos
+  fr: Baidu Netdisk est un service cloud de Baidu qui permet d'utiliser photos, documents, musique et contacts sur différents appareils et de les partager avec ses amis
+  id: Baidu Netdisk adalah layanan cloud dari Baidu yang memungkinkan pengguna memakai foto, dokumen, musik, dan data kontak di berbagai perangkat serta membagikannya dengan teman
+  it: Baidu Netdisk è un servizio cloud di Baidu che consente di usare foto, documenti, musica e contatti su diversi dispositivi e di condividerli con gli amici
+  ja: Baidu Netdisk は Baidu が推出的クラウドサービスで、写真、ドキュメント、音楽、連絡先をさまざまなデバイスで利用し、友人と共有できます
+  ko: Baidu Netdisk는 Baidu가 출시한 클라우드 서비스로, 사진, 문서, 음악, 연락처를 다양한 기기에서 사용하고 친구들과 공유할 수 있습니다
+  pl: Baidu Netdisk to usługa chmurowa firmy Baidu, dzięki której możesz korzystać z zdjęć, dokumentów, muzyki i kontaktów na różnych urządzeniach i dzielić się nimi ze znajomymi
+  pt: O Baidu Netdisk é um serviço de nuvem da Baidu que permite usar fotos, documentos, música e contatos em vários dispositivos e compartilhá-los com amigos
+  ro: Baidu Netdisk este un serviciu cloud de la Baidu, care permite folosirea fotografiilor, documentelor, muzicii și a contactelor pe diverse dispozitive și partajarea lor cu prietenii
+  ru: Baidu Netdisk — облачный сервис Baidu, позволяющий использовать фотографии, документы, музыку и контакты на различных устройствах и делиться ими с друзьями
+  th: Baidu Netdisk คือบริการคลาวด์ของ Baidu ที่ให้ผู้ใช้ใช้รูปภาพ เอกสาร เพลง และข้อมูลรายชื่อผ่านอุปกรณ์ต่าง ๆ และแชร์กับเพื่อนได้
+  tr: Baidu Netdisk, kullanıcıların fotoğrafları, belgeleri, müziği ve kişi verilerini çeşitli cihazlarda kullanmasını ve arkadaşlarıyla paylaşmasını sağlayan bir bulut hizmetidir
+  uk: Baidu Netdisk — хмарний сервіс Baidu, що дозволяє використовувати фотографії, документи, музику та контакти на різних пристроях і ділитися ними з друзями
+  vi: Baidu Netdisk là dịch vụ đám mây của Baidu, cho phép dùng ảnh, tài liệu, nhạc và danh bạ trên nhiều thiết bị và chia sẻ với bạn bè
 rule:
   (win|wsl2)/winget:
     cmd: x winget install Baidu.BaiduNetdisk

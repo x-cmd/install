@@ -3,6 +3,22 @@ homepage: https://gitlab.com/craigbarnes/dte
 desc:
   en: A small, configurable terminal text editor
   cn: 一个小型、可配置的终端文本编辑器
+  cs: Malý, konfigurovatelný textový editor pro terminál
+  de: Ein kleiner, konfigurierbarer Texteditor für das Terminal
+  es: Un pequeño editor de texto configurable para el terminal
+  fr: Un petit éditeur de texte configurable pour le terminal
+  id: Editor teks terminal kecil yang dapat dikonfigurasi
+  it: Un piccolo editor di testo configurabile per il terminale
+  ja: 小さく設定可能なターミナルテキストエディタ
+  ko: 작고 사용자 설정 가능한 터미널 텍스트 편집기
+  pl: Mały, konfigurowalny edytor tekstu dla terminala
+  pt: Um pequeno editor de texto configurável para o terminal
+  ro: Un mic editor de text configurabil pentru terminal
+  ru: Небольшой настраиваемый текстовый редактор для терминала
+  th: โปรแกรมแก้ไขข้อความสำหรับเทอร์มินัลขนาดเล็กที่กำหนดค่าได้
+  tr: Terminal için küçük ve yapılandırılabilir bir metin düzenleyici
+  uk: Невеликий налаштовуваний текстовий редактор для термінала
+  vi: Trình soạn thảo văn bản nhỏ gọn, có thể cấu hình cho terminal
 rule:
   debian/apt:
     cmd: sudo apt install dte

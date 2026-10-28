@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: reviewdog 提供了一种通过轻松与任何 linter 工具集成来自动将审阅评论发布到代码托管服务（例如 GitHub）的方法
   en: reviewdog provides a way to post review comments to code hosting services, such as GitHub, automatically by integrating with any linter tools with ease
+  cs: reviewdog poskytuje způsob, jak automaticky publikovat recenzní komentáře do služeb pro hostování kódu, jako je GitHub, a to díky snadné integraci s libovolnými linter nástroji
+  de: reviewdog bietet eine Möglichkeit, Review-Kommentare automatisch an Code-Hosting-Dienste wie GitHub zu senden, indem es sich ganz einfach in beliebige Linter-Tools integrieren lässt
+  es: reviewdog ofrece una forma de publicar comentarios de revisión en servicios de alojamiento de código, como GitHub, automáticamente al integrarse con cualquier herramienta linter
+  fr: reviewdog permet de publier automatiquement des commentaires de revue sur des services d'hébergement de code, comme GitHub, en s'intégrant facilement à n'importe quel outil de lint
+  id: reviewdog menyediakan cara untuk memposting komentar tinjauan secara otomatis ke layanan hosting kode, seperti GitHub, dengan mudah terintegrasi dengan alat linter apa pun
+  it: reviewdog offre un modo per pubblicare automaticamente i commenti di revisione su servizi di hosting del codice, come GitHub, integrandosi facilmente con qualsiasi strumento linter
+  ja: reviewdog は、任意の linter ツールと簡単に統合することで、GitHub などのコードホスティングサービスにレビューコメントを自動的に投稿する方法を提供します。
+  ko: reviewdog는 GitHub 같은 코드 호스팅 서비스에 리뷰 댓글을 자동으로 게시할 수 있도록, 모든 linter 도구와 간단히 통합하는 방법을 제공합니다
+  pl: reviewdog umożliwia automatyczne publikowanie komentarzy recenzji w usługach hostujących kod, takich jak GitHub, dzięki łatwej integracji z dowolnymi narzędziami linter
+  pt: O reviewdog oferece uma maneira de publicar comentários de revisão automaticamente em serviços de hospedagem de código, como o GitHub, integrando-se facilmente com quaisquer ferramentas de lint
+  ro: reviewdog oferă o modalitate de a publica automat comentarii de recenzie în servicii de găzduire de cod, precum GitHub, integrându-se cu ușurință cu orice instrumente de lint
+  ru: reviewdog позволяет автоматически публиковать комментарии к ревью в сервисах хостинга кода, таких как GitHub, за счёт простой интеграции с любыми линтерами
+  th: reviewdog เป็นวิธีโพสต์ความคิดเห็นรีวิวไปยังบริการโฮสต์โค้ด เช่น GitHub โดยอัตโนมัติ ด้วยการผสานรวมกับเครื่องมือ linter ใดก็ตามได้อย่างง่ายดาย
+  tr: reviewdog, GitHub gibi kod barındırma servislerine inceleme yorumlarını otomatik olarak göndermenin, herhangi bir linter aracıyla kolayca entegre olma yolunu sunar
+  uk: reviewdog дозволяє автоматично публікувати коментарі до рев'ю в сервісах хостингу коду, таких як GitHub, завдяки простій інтеграції з будь-якими лінтерами
+  vi: reviewdog cung cấp cách tự động đăng bình luận đánh giá lên các dịch vụ lưu trữ mã nguồn, như GitHub, bằng cách dễ dàng tích hợp với mọi công cụ linter
 homepage: https://github.com/reviewdog/reviewdog
 license: MIT
 x:

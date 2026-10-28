@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中极致优雅的 gRPC 客户端
   en: 'The ultimate beauty gRPC Client on your Terminal!'
+  cs: Úžasně krásný gRPC klient ve vašem terminálu!
+  de: Der ultimativ schöne gRPC-Client in Ihrem Terminal!
+  es: ¡El cliente gRPC más bello para tu terminal!
+  fr: Le plus beau client gRPC pour votre terminal !
+  id: Klien gRPC paling indah di Terminal Anda!
+  it: Il client gRPC più bello sul tuo terminale!
+  ja: ターミナルで動作する最高の美しい gRPC クライアント!
+  ko: 터미널에서 동작하는 가장 아름다운 gRPC 클라이언트!
+  pl: Najpiękniejszy klient gRPC w Twoim terminalu!
+  pt: O cliente gRPC mais bonito para o seu terminal!
+  ro: Clientul gRPC cel mai elegant din terminalul dvs.!
+  ru: Самый красивый gRPC-клиент в вашем терминале!
+  th: ไคลเอนต์ gRPC ที่สวยงามที่สุดบนเทอร์มินัลของคุณ!
+  tr: Terminalinizdeki en güzel gRPC istemcisi!
+  uk: Найкрасивіший gRPC-клієнт у вашому терміналі!
+  vi: Ứng dụng khách gRPC đẹp nhất trên terminal của bạn!
 x:
   source: https://github.com/felangga/chiko
   eget: felangga/chiko

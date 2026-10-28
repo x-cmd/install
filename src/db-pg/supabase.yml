@@ -3,6 +3,22 @@ homepage: https://github.com/supabase/cli
 desc:
   en: Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema
   cn: 管理 postgres 迁移，本地运行 Supabase, 部署边缘函数。Postgres 备份。从数据库模式生成类型
+  cs: Spravujte migrace postgres, spouštějte Supabase lokálně, nasazujte edge funkce. Zálohy Postgres. Generování typů ze schématu databáze
+  de: Postgres-Migrationen verwalten, Supabase lokal ausführen, Edge Functions bereitstellen. Postgres-Backups. Typen aus dem Datenbankschema generieren
+  es: Gestiona migraciones de postgres, ejecuta Supabase localmente, despliega funciones edge. Copias de seguridad de Postgres. Generar tipos a partir del esquema de la base de datos
+  fr: Gérer les migrations postgres, exécuter Supabase localement, déployer des fonctions edge. Sauvegardes Postgres. Générer des types à partir du schéma de la base de données
+  id: Kelola migrasi postgres, jalankan Supabase secara lokal, deploy edge function. Cadangan Postgres. Membuat tipe dari skema basis data
+  it: Gestisci le migrazioni postgres, esegui Supabase localmente, distribuisci le edge function. Backup di Postgres. Generazione dei tipi dallo schema del database
+  ja: postgres のマイグレーション管理、Supabase のローカル実行、edge 関数のデプロイ。Postgres のバックアップ。データベーススキーマから型の生成
+  ko: postgres 마이그레이션 관리, Supabase 로컬 실행, edge 함수 배포. Postgres 백업. 데이터베이스 스키마에서 타입 생성
+  pl: Zarządzaj migracjami postgres, uruchamiaj Supabase lokalnie, wdrażaj funkcje edge. Kopie zapasowe Postgres. Generowanie typów ze schematu bazy danych
+  pt: Gerencie migrações do postgres, execute o Supabase localmente, implant edge functions. Backups do Postgres. Gerando tipos a partir do esquema do banco de dados
+  ro: Gestionați migrările postgres, rulați Supabase local, deployați funcții edge. Copii de rezervă Postgres. Generarea tipurilor din schema bazei de date
+  ru: Управление миграциями postgres, локальный запуск Supabase, развёртывание edge-функций. Резервные копии Postgres. Генерация типов из схемы базы данных
+  th: จัดการการย้ายข้อมูล postgres, เรียกใช้ Supabase ในเครื่อง, ปล่อย edge functions. สำรองข้อมูล Postgres. สร้างชนิดข้อมูลจากสคีมาฐานข้อมูล
+  tr: postgres geçişlerini yönetin, Supabase'i yerel olarak çalıştırın, edge fonksiyonları dağıtın. Postgres yedekleri. Veritabanı şemasından tür oluşturma
+  uk: Керування міграціями postgres, локальний запуск Supabase, розгортання edge-функцій. Резервні копії Postgres. Генерація типів зі схеми бази даних
+  vi: Quản lý migration postgres, chạy Supabase cục bộ, triển khai edge function. Sao lưu Postgres. Tạo kiểu dữ liệu từ schema cơ sở dữ liệu
 x:
   source: https://github.com/supabase/cli
   eget: supabase/cli

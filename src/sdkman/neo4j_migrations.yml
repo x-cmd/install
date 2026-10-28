@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: neo4j 迁移是一组工具，可以使您的模式迁移尽可能容易
   en: Neo4j-Migrations are a set of tools to make your schema migrations as easy as possible
+  cs: Neo4j-Migrations je sada nástrojů, které usnadňují migrace schémat
+  de: Neo4j-Migrations sind eine Reihe von Werkzeugen, die Ihre Schema-Migrationen so einfach wie möglich machen
+  es: Neo4j-Migrations es un conjunto de herramientas para que las migraciones de esquema sean lo más fáciles posible
+  fr: Neo4j-Migrations est un ensemble d'outils qui rendent vos migrations de schéma aussi simples que possible
+  id: Neo4j-Migrations adalah rangkaian alat untuk membuat migrasi skema Anda semudah mungkin
+  it: Neo4j-Migrations è un insieme di strumenti per rendere le migrazioni dello schema il più semplici possibile
+  ja: Neo4j-Migrations は、スキーマ移行をできるだけ簡単にするためのツール群です
+  ko: Neo4j-Migrations는 스키마 마이그레이션을 최대한 쉽게 만들도록 하는 도구 모음입니다
+  pl: Neo4j-Migrations to zestaw narzędzi, które ułatwiają migracje schematu w najbardziej możliwy sposób
+  pt: Neo4j-Migrations é um conjunto de ferramentas para tornar as migrações de esquema o mais fácil possível
+  ro: Neo4j-Migrations este un set de instrumente care fac migrările de schemă cât mai ușoare
+  ru: Neo4j-Migrations — это набор инструментов, которые делают миграции схем максимально простыми
+  th: Neo4j-Migrations คือชุดเครื่องมือที่ช่วยให้การย้ายสคีมาของคุณง่ายที่สุดเท่าที่จะเป็นไปได้
+  tr: Neo4j-Migrations, şema geçişlerinizi mümkün olduğunca kolaylaştıran bir araç kümesidir
+  uk: Neo4j-Migrations — це набір інструментів, які роблять міграції схем максимально простими
+  vi: Neo4j-Migrations là tập hợp công cụ giúp việc di trú lược đồ của bạn trở nên dễ dàng nhất có thể
 x:
   source: https://github.com/michael-simons/neo4j-migrations
   eget: michael-simons/neo4j-migrations

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Playwright 是一个 Web 测试和自动化的框架，它允许用一个 API 测试 Chromium、 Firefox 和 WebKit
   en: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API
+  cs: Playwright je framework pro testování a automatizaci webu. Umožňuje testovat Chromium, Firefox a WebKit s jediným API
+  de: Playwright ist ein Framework für Web-Tests und Automatisierung. Es ermöglicht das Testen von Chromium, Firefox und WebKit mit einer einzigen API
+  es: Playwright es un framework para pruebas y automatización web. Permite probar Chromium, Firefox y WebKit con una única API
+  fr: Playwright est un framework pour les tests et l'automatisation Web. Il permet de tester Chromium, Firefox et WebKit avec une seule API
+  id: Playwright adalah framework untuk Pengujian dan Otomasi Web. Ini memungkinkan pengujian Chromium, Firefox, dan WebKit dengan satu API
+  it: Playwright è un framework per il web testing e l'automazione. Consente di testare Chromium, Firefox e WebKit con una singola API
+  ja: Playwright は Web テストと自動化のためのフレームワークです。単一の API で Chromium、Firefox、WebKit をテストできます
+  ko: Playwright는 웹 테스트 및 자동화를 위한 프레임워크입니다. 단일 API로 Chromium, Firefox, WebKit을 테스트할 수 있습니다
+  pl: Playwright to framework do testowania i automatyzacji sieci. Pozwala testować Chromium, Firefox i WebKit za pomocą jednego API
+  pt: O Playwright é um framework para testes e automação web. Permite testar Chromium, Firefox e WebKit com uma única API
+  ro: Playwright este un framework pentru testare și automatizare web. Permite testarea Chromium, Firefox și WebKit cu o singură API
+  ru: Playwright — это фреймворк для веб-тестирования и автоматизации. Он позволяет тестировать Chromium, Firefox и WebKit с помощью единого API
+  th: Playwright เป็นเฟรมเวิร์กสำหรับการทดสอบและการทำงานอัตโนมัติบนเว็บ ใช้ API เดียวในการทดสอบ Chromium, Firefox และ WebKit
+  tr: Playwright, web testi ve otomasyonu için bir çerçevedir. Chromium, Firefox ve WebKit'i tek bir API ile test etmenizi sağlar.
+  uk: Playwright — це фреймворк для веб-тестування та автоматизації. Він дозволяє тестувати Chromium, Firefox і WebKit з єдиним API
+  vi: Playwright là framework cho kiểm thử và tự động hóa web. Nó cho phép kiểm thử Chromium, Firefox và WebKit bằng một API duy nhất
 x:
   source: https://github.com/microsoft/playwright
   npm: playwright

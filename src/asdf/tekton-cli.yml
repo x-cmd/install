@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 与 Tekton 互动的 CLI
   en: A CLI for interacting with Tekton
+  cs: CLI pro interakci s Tekton
+  de: Eine CLI zur Interaktion mit Tekton
+  es: Una CLI para interactuar con Tekton
+  fr: Une CLI pour interagir avec Tekton
+  id: CLI untuk berinteraksi dengan Tekton
+  it: Una CLI per interagire con Tekton
+  ja: Tekton と対話するための CLI
+  ko: Tekton과 상호작용하기 위한 CLI
+  pl: CLI do interakcji z Tekton
+  pt: Uma CLI para interagir com o Tekton
+  ro: Un CLI pentru interacțiunea cu Tekton
+  ru: CLI для взаимодействия с Tekton
+  th: CLI สำหรับโต้ตอบกับ Tekton
+  tr: Tekton ile etkileşim kurmak için bir CLI
+  uk: CLI для взаємодії з Tekton
+  vi: CLI để tương tác với Tekton
 x:
   source: https://github.com/tektoncd/cli
   eget: tektoncd/cli

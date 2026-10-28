@@ -3,6 +3,22 @@ homepage: https://github.com/xxxserxxx/gotop
 desc:
   cn: 基于终端的图形界面监视器，用于在终端中显示系统资源的使用情况
   en: Terminal based graphical interface monitor
+  cs: Monitor systému s grafickým rozhraním založený na terminálu
+  de: Terminalbasiertes grafisches Systemmonitoring
+  es: Monitor gráfico de recursos del sistema basado en terminal
+  fr: Moniteur graphique de ressources système basé sur le terminal
+  id: Monitor sistem berbasis terminal dengan antarmuka grafis
+  it: Monitor di sistema con interfaccia grafica basato sul terminale
+  ja: ターミナルベースのグラフィカルインターフェースでシステムリソースを監視するツール
+  ko: 터미널 기반 그래픽 인터페이스 시스템 모니터
+  pl: Terminalowy monitor systemu z graficznym interfejsem
+  pt: Monitor gráfico de recursos do sistema baseado em terminal
+  ro: Monitor grafic de resurse de sistem bazat pe terminal
+  ru: Графический монитор системных ресурсов на основе терминала
+  th: เครื่องมือติดตามทรัพยากรระบบแบบกราฟิกที่ใช้เทอร์มินัล
+  tr: Terminal tabanlı grafik arayüzlü sistem monitörü
+  uk: Графічний монітор системних ресурсів на основі терміналу
+  vi: Trình giám sát hệ thống có giao diện đồ họa chạy trên terminal
 x:
   source: https://github.com/xxxserxxx/gotop
   eget: xxxserxxx/gotop

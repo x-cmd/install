@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 从 JSON 中删除注释。允许您在 JSON 文件中使用注释
   en: Strip comments from JSON. Lets you use comments in your JSON files
+  cs: Odebratuje komentáře z JSON. Umožňuje používat komentáře v souborech JSON
+  de: Entfernt Kommentare aus JSON. Ermöglicht die Verwendung von Kommentaren in JSON-Dateien
+  es: Elimina los comentarios de JSON. Permite usar comentarios en tus archivos JSON
+  fr: Supprime les commentaires de JSON. Vous permet d'utiliser des commentaires dans vos fichiers JSON
+  id: Menghapus komentar dari JSON. Memungkinkan Anda menggunakan komentar di berkas JSON
+  it: Rimuove i commenti da JSON. Ti permette di usare commenti nei tuoi file JSON
+  ja: JSONからコメントを削除します。JSONファイルでコメントを使用できます
+  ko: JSON에서 주석을 제거합니다. JSON 파일에서 주석을 사용할 수 있습니다
+  pl: Usuwa komentarze z JSON. Pozwala używać komentarzy w plikach JSON
+  pt: Remove comentários de JSON. Permite usar comentários em seus arquivos JSON
+  ro: Elimină comentariile din JSON. Permite utilizarea comentariilor în fișierele JSON
+  ru: Удаляет комментарии из JSON. Позволяет использовать комментарии в файлах JSON
+  th: ลบความคิดเห็นออกจาก JSON. ช่วยให้คุณใช้ความคิดเห็นในไฟล์ JSON ได้
+  tr: JSON'dan yorumları kaldırır. JSON dosyalarınızda yorum kullanmanıza izin verir
+  uk: Видаляє коментарі з JSON. Дозволяє використовувати коментарі у файлах JSON
+  vi: Xóa chú thích khỏi JSON. Cho phép bạn dùng chú thích trong các tệp JSON
 x:
   source: https://github.com/sindresorhus/strip-json-comments-cli
 rule:

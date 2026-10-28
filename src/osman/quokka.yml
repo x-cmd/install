@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 从终端检查和清理 USB 连接设备：存储、应用、媒体及实时日志查看器，无需越狱或 root
   en: 'Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.'
+  cs: "Zkontrolujte a vyčistěte zařízení připojené přes USB z terminálu: úložiště, aplikace, média a živý prohlížeč protokolů. Bez jailbreaku, bez root."
+  de: "Ein per USB angeschlossenes Gerät vom Terminal aus überprüfen und bereinigen: Speicher, Apps, Medien und ein Live-Protokollbetrachter. Kein Jailbreak, kein Root."
+  es: "Inspecciona y limpia un dispositivo conectado por USB desde tu terminal: almacenamiento, aplicaciones, multimedia y un visor de registros en vivo. Sin jailbreak, sin root."
+  fr: "Inspectez et nettoyez un appareil connecté en USB depuis votre terminal : stockage, applications, médias et un visualiseur de journaux en direct. Sans jailbreak, sans root."
+  id: "Periksa dan bersihkan perangkat yang terhubung via USB dari terminal Anda: penyimpanan, aplikasi, media, dan penampil log langsung. Tanpa jailbreak, tanpa root."
+  it: "Ispeziona e pulisci un dispositivo collegato via USB dal terminale: archiviazione, app, media e un visualizzatore di log in tempo reale. Nessun jailbreak, nessun root."
+  ja: ターミナルから USB 接続デバイスを調査・整理できます。ストレージ、アプリ、メディア、リアルタイムログビューアに対応。ジェイルブレイクも root も不要です。
+  ko: "터미널에서 USB로 연결된 기기를 검사하고 정리합니다: 저장소, 앱, 미디어, 실시간 로그 뷰어. 탈옥도 root도 필요 없습니다."
+  pl: "Sprawdzaj i czyść urządzenie podłączone przez USB z terminala: pamięć masowa, aplikacje, multimedia i podgląd logów na żywo. Bez jailbreaka, bez root."
+  pt: "Inspecione e limpe um dispositivo conectado via USB pelo terminal: armazenamento, aplicativos, mídia e um visualizador de registros ao vivo. Sem jailbreak, sem root."
+  ro: "Inspectați și curățați un dispozitiv conectat prin USB din terminal: stocare, aplicații, media și un vizualizator de jurnale în direct. Fără jailbreak, fără root."
+  ru: "Проверяйте и очищайте подключённое по USB устройство из терминала: хранилище, приложения, мультимедиа и просмотрщик журналов в реальном времени. Без джейлбрейка и root."
+  th: "ตรวจสอบและทำความสะอาดอุปกรณ์ที่เชื่อมต่อผ่าน USB จากเทอร์มินัล: พื้นที่จัดเก็บ แอป สื่อ และตัวดูบันทึกแบบเรียลไทม์ ไม่ต้อง jailbreak ไม่ต้องใช้ root"
+  tr: "USB ile bağlı bir cihazı terminalden inceleyin ve temizleyin: depolama, uygulamalar, medya ve canlı günlük görüntüleyici. Jailbreak yok, root yok."
+  uk: "Перевіряйте та очищуйте підключений по USB пристрій із термінала: сховище, застосунки, медіа та переглядач журналів у реальному часі. Без джейлбрейку та root."
+  vi: "Kiểm tra và dọn dẹp thiết bị kết nối USB từ terminal: bộ nhớ, ứng dụng, nội dung đa phương tiện và trình xem nhật ký trực tiếp. Không cần jailbreak, không cần root."
 x:
   source: https://github.com/dutradotdev/quokka
   eget: dutradotdev/quokka

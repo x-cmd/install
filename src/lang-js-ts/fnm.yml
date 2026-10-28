@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 快速简单的 Node.js 版本管理器，用 Rust 构建
   en: Fast and simple Node.js version manager, built in Rust
+  cs: Rychlý a jednoduchý správce verzí Node.js, napsaný v Rustu
+  de: Schneller und einfacher Node.js-Versionsmanager, in Rust geschrieben
+  es: Gestor de versiones de Node.js rápido y sencillo, escrito en Rust
+  fr: Un gestionnaire de versions de Node.js rapide et simple, écrit en Rust
+  id: Pengelola versi Node.js yang cepat dan sederhana, dibuat dengan Rust
+  it: Un gestore delle versioni di Node.js veloce e semplice, scritto in Rust
+  ja: Rust で書かれた高速でシンプルな Node.js バージョンマネージャー
+  ko: Rust로 만든 빠르고 간단한 Node.js 버전 관리자
+  pl: Szybki i prosty menedżer wersji Node.js, napisany w Rust
+  pt: Um gerenciador de versões do Node.js rápido e simples, escrito em Rust
+  ro: Un manager de versiuni Node.js rapid și simplu, scris în Rust
+  ru: Быстрый и простой менеджер версий Node.js, написанный на Rust
+  th: ตัวจัดการเวอร์ชัน Node.js ที่เร็วและเรียบง่าย เขียนด้วย Rust
+  tr: Rust ile yazılmış hızlı ve basit bir Node.js sürüm yöneticisi
+  uk: Швидкий і простий менеджер версій Node.js, написаний на Rust
+  vi: Trình quản lý phiên bản Node.js nhanh và đơn giản, viết bằng Rust
 x:
   source: https://github.com/Schniz/fnm
   eget: Schniz/fnm

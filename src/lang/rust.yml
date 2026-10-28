@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一门赋予每个人构建可靠且高效软件能力的语言
   en: A language empowering everyone to build reliable and efficient software
+  cs: Jazyk, který dává každému možnost stavět spolehlivý a efektivní software
+  de: Eine Sprache, die allen ermöglicht, zuverlässige und effiziente Software zu entwickeln
+  es: Un lenguaje que permite a cualquiera crear software fiable y eficiente
+  fr: Un langage qui permet à chacun de développer des logiciels fiables et efficaces
+  id: Bahasa yang memberdayakan siapa pun untuk membangun perangkat lunak yang andal dan efisien
+  it: Un linguaggio che permette a chiunque di costruire software affidabile ed efficiente
+  ja: 誰もが信頼できる効率的なソフトウェアを構築できるようにする言語です
+  ko: 누구나 안정적이고 효율적인 소프트웨어를 만들 수 있게 해 주는 언어입니다
+  pl: Język, który pozwala każdemu tworzyć niezawodne i wydajne oprogramowanie
+  pt: Uma linguagem que capacita todos a construir software confiável e eficiente
+  ro: O limbaj care îi împuternicește pe toți să construiască software de încredere și eficient
+  ru: Язык, который даёт каждому возможность создавать надёжное и эффективное программное обеспечение
+  th: ภาษาที่ให้อำนาจทุกคนสร้างซอฟต์แวร์ที่เชื่อถือได้และมีประสิทธิภาพ
+  tr: Herkesin güvenilir ve verimli yazılım geliştirmesini sağlayan bir dil
+  uk: Мова, що дає кожному змогу створювати надійне та ефективне програмне забезпечення
+  vi: Ngôn ngữ giúp mọi người xây dựng phần mềm đáng tin cậy và hiệu quả
 x:
   source: https://github.com/rust-lang/rust
   brew: rust

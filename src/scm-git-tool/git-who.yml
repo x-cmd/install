@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 文件树级别的 git blame
   en: 'Git blame for file trees'
+  cs: Git blame pro stromy souborů
+  de: Git blame für Dateibäume
+  es: Git blame para árboles de archivos
+  fr: Git blame pour les arborescences de fichiers
+  id: Git blame untuk pohon berkas
+  it: Git blame per gli alberi di file
+  ja: ファイルツリー向けの Git blame
+  ko: 파일 트리를 위한 Git blame
+  pl: Git blame dla drzew plików
+  pt: Git blame para árvores de arquivos
+  ro: Git blame pentru arbori de fișiere
+  ru: Git blame для деревьев файлов
+  th: Git blame สำหรับแผนผังไฟล์
+  tr: Dosya ağaçları için Git blame
+  uk: Git blame для дерев файлів
+  vi: Git blame cho cây tệp
 x:
   source: https://github.com/sinclairtarget/git-who
   eget: sinclairtarget/git-who

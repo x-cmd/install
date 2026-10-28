@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 基于终端的 CPU 压力和监控实用程序
   en: Stress Terminal UI stress test and monitoring tool
+  cs: Nástroj pro stresové testování a monitorování CPU v terminálu
+  de: Ein Werkzeug für CPU-Stresstests und -Überwachung im Terminal
+  es: Herramienta de prueba de estrés y monitorización de CPU basada en terminal
+  fr: Outil de test de charge et de surveillance du CPU pour le terminal
+  id: Alat uji beban dan pemantauan CPU berbasis terminal
+  it: Strumento di stress test e monitoraggio della CPU basato sul terminale
+  ja: ターミナルベースの CPU ストレステストおよびモニタリングツールです。
+  ko: 터미널 기반 CPU 스트레스 테스트 및 모니터링 도구입니다.
+  pl: Narzędzie terminalowe do testów obciążeniowych i monitorowania procesora
+  pt: Ferramenta de teste de estresse e monitoramento de CPU baseada em terminal
+  ro: Instrument de testare la încărcare și monitorizare a CPU-ului bazat pe terminal
+  ru: Терминальный инструмент для стресс-тестирования и мониторинга CPU
+  th: เครื่องมือทดสอบความเครียดและติดตาม CPU แบบเทอร์มินัล
+  tr: Terminal tabanlı CPU stres testi ve izleme aracı
+  uk: Термінальний інструмент для стрес-тестування та моніторингу CPU
+  vi: Công cụ kiểm tra tải và giám sát CPU dựa trên terminal
 x:
   source: https://github.com/amanusk/s-tui
   apt: s-tui

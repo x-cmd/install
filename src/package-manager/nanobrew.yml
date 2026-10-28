@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: Zig 写的极速 macOS/Linux 包管理器——原生安装 top 100 Homebrew formulae 与 cask（无需 brew/Ruby），warm 安装毫秒级，命令为 nb
   en: A blazing-fast macOS/Linux package manager written in Zig — native install pipeline for the top 100 Homebrew formulae and casks (no brew, no Ruby) with millisecond warm installs; command is nb
+  cs: Velmi rychlý správce balíčků pro macOS/Linux napsaný v Zig — nativní instalační pipeline pro top 100 Homebrew formul a casků (bez brew, bez Ruby) s milisekundovými teplými instalacemi; příkaz je nb
+  de: Ein blitzschneller Paketmanager für macOS/Linux, geschrieben in Zig — native Installationspipeline für die Top-100-Homebrew-Formeln und Casks (kein brew, kein Ruby) mit Installationen im Millisekundenbereich; der Befehl lautet nb
+  es: "Un gestor de paquetes para macOS/Linux extremadamente rápido escrito en Zig: canal de instalación nativo para las 100 fórmulas y casks principales de Homebrew (sin brew, sin Ruby) con instalaciones cálidas en milisegundos; el comando es nb"
+  fr: Un gestionnaire de paquets macOS/Linux extrêmement rapide écrit en Zig — pipeline d'installation natif pour les 100 meilleures formules et casks Homebrew (sans brew, sans Ruby) avec des installations à chaud en quelques millisecondes ; la commande est nb
+  id: Manajer paket macOS/Linux yang sangat cepat ditulis dengan Zig — alur pemasangan native untuk 100 formulae dan cask Homebrew teratas (tanpa brew, tanpa Ruby) dengan pemasangan hangat dalam milidetik; perintahnya adalah nb
+  it: Un gestore di pacchetti per macOS/Linux velocissimo scritto in Zig — pipeline di installazione nativo per le prime 100 formule e cask di Homebrew (senza brew, senza Ruby) con installazioni a caldo in pochi millisecondi; il comando è nb
+  ja: Zig で書かれた超高速な macOS/Linux パッケージマネージャー — Homebrew のトップ 100  formulae と cask をネイティブにインストールするパイプライン（brew も Ruby も不要）でウォームインストールはミリ秒単位。コマンドは nb
+  ko: Zig로 작성된 매우 빠른 macOS/Linux 패키지 관리자 — Homebrew 상위 100개 formulae과 cask를 네이티브로 설치하는 파이프라인(brew도 Ruby도 불필요)이며 웜 설치는 밀리초 단위입니다. 명령은 nb
+  pl: Błyskawiczny menedżer pakietów dla macOS/Linux napisany w Zig — natywna ścieżka instalacji dla 100 najpopularniejszych formuł i casków Homebrew (bez brew i bez Rubiego) z ciepłymi instalacjami trwającymi milisekundy; polecenie to nb
+  pt: Um gerenciador de pacotes para macOS/Linux extremamente rápido escrito em Zig — pipeline de instalação nativo para as 100 principais formulae e casks do Homebrew (sem brew, sem Ruby) com instalações a quente em milissegundos; o comando é nb
+  ro: Un manager de pachete pentru macOS/Linux extrem de rapid, scris în Zig — flux nativ de instalare pentru cele mai bune 100 de formule și cask-uri Homebrew (fără brew, fără Ruby), cu instalări la cald în milisecunde; comanda este nb
+  ru: Сверхбыстрый менеджер пакетов для macOS/Linux, написанный на Zig — нативный конвейер установки для 100 лучших формул и cask-пакетов Homebrew (без brew и без Ruby) с «тёплыми» установками за миллисекунды; команда — nb
+  th: ตัวจัดการแพ็กเกจ macOS/Linux ที่รวดเร็วมาก เขียนด้วย Zig — กระบวนการติดตั้งแบบเนทีฟสำหรับ 100 ฟอร์มูลาและ cask อันดับต้นของ Homebrew (ไม่ต้องใช้ brew ไม่ต้องใช้ Ruby) พร้อมการติดตั้งแบบอุ่นในระดับมิลลิวินาที คำสั่งคือ nb
+  tr: Zig ile yazılmış, çok hızlı bir macOS/Linux paket yöneticisi — Homebrew'in en iyi 100 formül ve cask'ı için yerel kurulum hattı (brew veya Ruby gerekmez), milisaniyelik sıcak kurulumlarla; komut nb'dir
+  uk: Надзвичайно швидкий менеджер пакетів для macOS/Linux, написаний на Zig — нативний конвеєр встановлення для 100 найкращих формул і cask-пакетів Homebrew (без brew і без Ruby) із «теплими» встановленнями за мілісекунди; команда — nb
+  vi: Trình quản lý gói macOS/Linux cực nhanh viết bằng Zig — quy trình cài đặt native cho 100 công thức và cask hàng đầu của Homebrew (không cần brew, không cần Ruby) với thời gian cài đặt ấm ở mức mili giây; lệnh là nb
 x:
   source: https://github.com/justrach/nanobrew
   brew: justrach/nanobrew/nanobrew

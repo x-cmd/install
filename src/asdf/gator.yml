@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Gatekeeper 是一个验证和变异的 Webhook，它强制执行由开放策略代理执行的基于 CRD 的策略，开放策略代理是 CNCF 作为毕业项目托管的云原生环境的策略引擎
   en: Gatekeeper is a validating and mutating webhook that enforces CRD-based policies executed by Open Policy Agent, a policy engine for Cloud Native environments hosted by CNCF as a graduated project
+  cs: Gatekeeper je validující a mutující webhook, který vynucuje zásady založené na CRD, vykonávané pomocí Open Policy Agent, což je engine zásad pro cloudová nativní prostředí hostovaný organizací CNCF jako graduovaný projekt
+  de: Gatekeeper ist ein validierender und mutierender Webhook, der CRD-basierte Richtlinien durchsetzt, ausgeführt von Open Policy Agent, einer Richtlinien-Engine für Cloud-Native-Umgebungen, die von CNCF als Graduiertes Projekt gehostet wird
+  es: Gatekeeper es un webhook de validación y mutación que aplica políticas basadas en CRD ejecutadas por Open Policy Agent, un motor de políticas para entornos nativos de la nube alojado por CNCF como proyecto graduado
+  fr: Gatekeeper est un webhook de validation et de mutation qui applique des politiques basées sur les CRD, exécutées par Open Policy Agent, un moteur de politiques pour les environnements cloud native hébergé par la CNCF comme projet graduated
+  id: Gatekeeper adalah webhook validasi dan mutasi yang menegakkan kebijakan berbasis CRD yang dijalankan oleh Open Policy Agent, mesin kebijakan untuk lingkungan cloud native yang dikelola CNCF sebagai proyek graduated
+  it: Gatekeeper è un webhook di validazione e mutazione che applica policy basate su CRD, eseguite da Open Policy Agent, un motore di policy per ambienti cloud native ospitato dalla CNCF come progetto graduato
+  ja: Gatekeeper は、CNCF が宿主となる graduated project であるクラウドネイティブ環境向けポリシーエンジン Open Policy Agent が実行する CRD ベースのポリシーを強制する validating/mutating webhook です
+  ko: Gatekeeper는 CNCF가 graduated project로 관리하는 클라우드 네이티브 환경용 정책 엔진 Open Policy Agent가 실행하는 CRD 기반 정책을 강제하는 검증 및 변조 webhook입니다
+  pl: Gatekeeper to webhook walidujący i mutujący, który egzekwuje polityki oparte na CRD, wykonywane przez Open Policy Agent, silnik polityk dla środowisk cloud native, hostowany przez CNCF jako projekt graduated
+  pt: O Gatekeeper é um webhook de validação e mutação que aplica políticas baseadas em CRD executadas pelo Open Policy Agent, um mecanismo de políticas para ambientes cloud native hospedado pela CNCF como projeto graduado
+  ro: Gatekeeper este un webhook de validare și mutare care impune politici bazate pe CRD, executate de Open Policy Agent, un motor de politici pentru medii cloud-native găzduit de CNCF ca proiect absolvent
+  ru: Gatekeeper — это валидирующий и мутирующий webhook, обеспечивающий выполнение политик на основе CRD, которые применяет Open Policy Agent — движок политик для облачных нативных сред, размещаемый CNCF как graduated-проект
+  th: Gatekeeper เป็น webhook สำหรับตรวจสอบและปรับแต่งที่บังคับใช้นโยบายที่อิง CRD ซึ่งดำเนินการโดย Open Policy Agent ซึ่งเป็นกลไกนโยบายสำหรับสภาพแวดล้อม cloud native ที่ CNCF ดูแลในฐานะโครงการ graduated
+  tr: Gatekeeper, CNCF tarafından graduated proje olarak barındırılan bulut tabanlı ortamlar için bir politika motoru olan Open Policy Agent tarafından yürütülen CRD tabanlı politikaları uygulayan bir doğrulama ve değiştirme webhook'udur
+  uk: Gatekeeper — це валідуючий і мутуючий webhook, що забезпечує дотримання політик на основі CRD, які застосовує Open Policy Agent — рушій політик для хмарних нативних середовищ, який розміщує CNCF як graduated-проєкт
+  vi: Gatekeeper là webhook xác thực và biến đổi, thực thi các chính sách dựa trên CRD do Open Policy Agent vận hành, một engine chính sách cho môi trường cloud native do CNCF quản lý như một dự án graduated
 x:
   source: https://github.com/open-policy-agent/gatekeeper
   eget: open-policy-agent/gatekeeper

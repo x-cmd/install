@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 在 Kubernetes 中自动配置和管理 TLS 证书
   en: Automatically provision and manage TLS certificates in Kubernetes
+  cs: Automaticky zajišťuje a spravuje certifikáty TLS v Kubernetes
+  de: Stellt TLS-Zertifikate in Kubernetes automatisch bereit und verwaltet sie
+  es: Aprovisiona y gestiona automáticamente certificados TLS en Kubernetes
+  fr: Provisionne et gère automatiquement les certificats TLS dans Kubernetes
+  id: Menyediakan dan mengelola sertifikat TLS secara otomatis di Kubernetes
+  it: Fornisce e gestisce automaticamente i certificati TLS in Kubernetes
+  ja: Kubernetes 上で TLS 証明書を自動的に発行・管理します
+  ko: Kubernetes에서 TLS 인증서를 자동으로 발급하고 관리합니다
+  pl: Automatycznie udostępnia i zarządza certyfikatami TLS w Kubernetes
+  pt: Provisiona e gerencia automaticamente certificados TLS no Kubernetes
+  ro: Furnizează și gestionează automat certificatele TLS în Kubernetes
+  ru: Автоматически выпускает сертификаты TLS и управляет ими в Kubernetes
+  th: จัดหมายและจัดการใบรับรอง TLS ใน Kubernetes โดยอัตโนมัติ
+  tr: Kubernetes'ta TLS sertifikalarını otomatik olarak sağlar ve yönetir
+  uk: Автоматично випускає сертифікати TLS та керує ними в Kubernetes
+  vi: Tự động cấp phát và quản lý chứng chỉ TLS trong Kubernetes
 x:
   source: https://github.com/cert-manager/cert-manager
   asdf: cmctl

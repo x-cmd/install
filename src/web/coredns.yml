@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: CoreDNS 是一个 DNS 服务器/转发器，用 Go 编写，链接插件。每个插件执行 (DNS) 功能。
   en: CoreDNS is a DNS server/forwarder, written in Go, that chains plugins. Each plugin performs a (DNS) function.
+  cs: CoreDNS je DNS server / forwarder napsaný v Go, který řetězí pluginy. Každý plugin vykonává jednu (DNS) funkci.
+  de: CoreDNS ist ein in Go geschriebener DNS-Server/Forwarder, der Plugins verkettet. Jedes Plugin erfüllt eine (DNS-)Funktion.
+  es: CoreDNS es un servidor/forwarder DNS escrito en Go que encadena plugins. Cada plugin realiza una función (DNS).
+  fr: CoreDNS est un serveur/transmetteur DNS écrit en Go, qui enchaîne des plugins. Chaque plugin effectue une fonction (DNS).
+  id: CoreDNS adalah server/forwarder DNS yang ditulis dengan Go dan merangkai plugin. Setiap plugin menjalankan satu fungsi (DNS).
+  it: CoreDNS è un server/forwarder DNS scritto in Go che concatena i plugin. Ogni plugin svolge una funzione (DNS).
+  ja: CoreDNS は Go で書かれた DNS サーバー/フォワーダーで、プラグインを連鎖させます。各プラグインが (DNS) 機能を担います。
+  ko: CoreDNS는 Go로 작성된 DNS 서버/포워더로, 플러그인을 체인 방식으로 연결합니다. 각 플러그인은 (DNS) 기능을 수행합니다
+  pl: CoreDNS to serwer/forwarder DNS napisany w Go, który łączy wtyczki. Każda wtyczka pełni jedną funkcję (DNS).
+  pt: CoreDNS é um servidor/forwarder DNS escrito em Go que encadeia plugins. Cada plugin executa uma função (DNS).
+  ro: CoreDNS este un server/forwarder DNS scris în Go, care leagă plugin-uri. Fiecare plugin îndeplinește o funcție (DNS).
+  ru: CoreDNS — DNS-сервер/форвардер, написанный на Go, который связывает плагины в цепочку. Каждый плагин выполняет одну (DNS) функцию.
+  th: CoreDNS คือเซิร์ฟเวอร์/forwarder DNS ที่เขียนด้วย Go และเชื่อมต่อปลั๊กอินแบบสายโซ่ โดยแต่ละปลั๊กอินทำหน้าที่ (DNS) หนึ่งอย่าง
+  tr: CoreDNS, Go ile yazılmış ve eklentileri zincirleyen bir DNS sunucusu/ilerleyicisidir. Her eklenti bir (DNS) işlevi yerine getirir.
+  uk: CoreDNS — DNS-сервер/форвардер, написаний на Go, який поєднує плагіни в ланцюжок. Кожен плагін виконує одну (DNS) функцію.
+  vi: CoreDNS là máy chủ/chuyển tiếp DNS được viết bằng Go, xâu chuỗi các plugin. Mỗi plugin thực hiện một chức năng (DNS).
 x:
   source: https://github.com/coredns/coredns
   eget: coredns/coredns

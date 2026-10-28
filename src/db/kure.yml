@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 支持会话的 CLI 密码管理器
   en: 'CLI password manager with sessions'
+  cs: CLI správce hesel se sessions
+  de: CLI-Passwortmanager mit Sitzungen
+  es: Gestor de contraseñas de CLI con sesiones
+  fr: Gestionnaire de mots de passe CLI avec sessions
+  id: Manajer kata sandi CLI dengan sesi
+  it: Gestore di password da CLI con sessioni
+  ja: セッションに対応した CLI パスワードマネージャー
+  ko: 세션을 지원하는 CLI 비밀번호 관리자
+  pl: Menedżer haseł w CLI z sesjami
+  pt: Gerenciador de senhas de CLI com sessões
+  ro: Manager de parole CLI cu sesiuni
+  ru: CLI-менеджер паролей с сессиями
+  th: ตัวจัดการรหัสผ่านแบบ CLI พร้อมเซสชัน
+  tr: Oturum destekli CLI parola yöneticisi
+  uk: CLI-менеджер паролів із сесіями
+  vi: Trình quản lý mật khẩu CLI có hỗ trợ phiên làm việc
 x:
   source: https://github.com/GGP1/kure
   eget: GGP1/kure

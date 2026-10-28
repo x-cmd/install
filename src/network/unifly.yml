@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 优雅的 UniFi 网络管理 CLI 与 TUI，面向人与 Agent
   en: '🌐 Elegant UniFi network management CLI & TUI - for humans and agents'
+  cs: 🌐 Elegantní CLI a TUI pro správu sítě UniFi – pro lidi i agenty
+  de: 🌐 Elegante CLI & TUI zur UniFi-Netzwerkverwaltung – für Menschen und Agenten
+  es: 🌐 CLI y TUI elegantes para la gestión de redes UniFi, para personas y agentes
+  fr: 🌐 CLI et TUI élégants pour la gestion du réseau UniFi – pour les humains et les agents
+  id: 🌐 CLI & TUI yang elegan untuk manajemen jaringan UniFi - untuk manusia dan agen
+  it: 🌐 CLI e TUI eleganti per la gestione della rete UniFi - per esseri umani e agenti
+  ja: 🌐 人間とエージェントのための Elegant な UniFi ネットワーク管理 CLI & TUI
+  ko: 🌐 사람과 에이전트를 위한 우아한 UniFi 네트워크 관리 CLI & TUI
+  pl: 🌐 Eleganckie CLI i TUI do zarządzania siecią UniFi – dla ludzi i agentów
+  pt: 🌐 CLI e TUI elegantes para gerenciamento de rede UniFi - para humanos e agentes
+  ro: 🌐 CLI și TUI elegant pentru gestionarea rețelei UniFi – pentru oameni și agenți
+  ru: 🌐 Элегантные CLI и TUI для управления сетью UniFi — для людей и агентов
+  th: 🌐 CLI และ TUI ที่สง่างามสำหรับการจัดการเครือข่าย UniFi - สำหรับทั้งมนุษย์และเอเจนต์
+  tr: 🌐 İnsanlar ve ajanlar için zarif UniFi ağ yönetimi CLI & TUI
+  uk: 🌐 Елегантні CLI та TUI для керування мережею UniFi — для людей і агентів
+  vi: 🌐 CLI & TUI thanh lịch để quản lý mạng UniFi - dành cho con người và agent
 x:
   source: https://github.com/hyperb1iss/unifly
   eget: hyperb1iss/unifly

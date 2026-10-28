@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 从终端监控 AWS ECS 资源
   en: 'monitor AWS ECS resources from the terminal'
+  cs: Sledování zdrojů AWS ECS z terminálu
+  de: Überwachung von AWS ECS-Ressourcen aus dem Terminal
+  es: Supervisa los recursos de AWS ECS desde la terminal
+  fr: Surveillez les ressources AWS ECS depuis le terminal
+  id: Pantau sumber daya AWS ECS dari terminal
+  it: Monitora le risorse AWS ECS dal terminale
+  ja: ターミナルからAWS ECSリソースを監視
+  ko: 터미널에서 AWS ECS 리소스를 모니터링
+  pl: Monitorowanie zasobów AWS ECS z terminala
+  pt: Monitore os recursos da AWS ECS a partir do terminal
+  ro: Monitorizează resursele AWS ECS din terminal
+  ru: Мониторинг ресурсов AWS ECS из терминала
+  th: ตรวจสอบทรัพยากร AWS ECS จากเทอร์มินัล
+  tr: Terminalden AWS ECS kaynaklarını izleyin
+  uk: Моніторинг ресурсів AWS ECS із термінала
+  vi: Giám sát tài nguyên AWS ECS từ terminal
 x:
   source: https://github.com/dhth/ecscope
   eget: dhth/ecscope

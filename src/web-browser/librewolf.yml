@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: LibreWolf 是 Firefox 的无遥测分支，移除了所有 Mozilla 跟踪并强化隐私默认。
   en: LibreWolf is a telemetry-free Firefox fork with all Mozilla tracking removed and privacy defaults hardened.
+  cs: LibreWolf je fork Firefoxu bez telemetrie, s odstraněným veškerým Mozilla trackováním a zpřísněnými výchozími nastaveními soukromí.
+  de: LibreWolf ist ein telemetriefreier Firefox-Fork, der das gesamte Mozilla-Tracking entfernt und die Datenschutz-Standards verschärft.
+  es: LibreWolf es una bifurcación de Firefox sin telemetría, con todo el rastreo de Mozilla eliminado y valores de privacidad reforzados.
+  fr: LibreWolf est un dérivé de Firefox sans télémétrie, avec tout le pistage de Mozilla supprimé et des réglages de confidentialité renforcés.
+  id: LibreWolf adalah garpu Firefox tanpa telemetri, dengan seluruh pelacakan Mozilla dihapus dan pengaturan privasi diperketat.
+  it: LibreWolf è un fork di Firefox privo di telemetria, con tutto il tracciamento di Mozilla rimosso e impostazioni sulla privacy più rigorose.
+  ja: LibreWolf は Mozilla のトラッキングをすべて除去し、プライバシー設定を強化した、テレメトリーなしの Firefox フォークです。
+  ko: LibreWolf는 Mozilla의 모든 추적을 제거하고 개인정보 보호 기본값을 강화한 텔레메트리 없는 Firefox 포크입니다.
+  pl: LibreWolf to fork Firefossa bez telemetrii, ze wszystkim śledzeniem Mozilla usuniętym i zaostrzonymi domyślnymi ustawieniami prywatności.
+  pt: O LibreWolf é um fork do Firefox sem telemetria, com todo o rastreamento da Mozilla removido e padrões de privacidade reforçados.
+  ro: LibreWolf este o furcă a Firefoxului fără telemetrie, cu tot urmăririle Mozilla eliminate și setări de confidențialitate întărite.
+  ru: LibreWolf — это форк Firefox без телеметрии, без какого-либо отслеживания Mozilla и с усиленными настройками приватности.
+  th: LibreWolf เป็นฟอร์กของ Firefox ที่ไม่มีการเก็บเทเลเมทรี ตัดการติดตามของ Mozilla ออกทั้งหมด และเพิ่มความเข้มงวดด้านความเป็นส่วนตัว
+  tr: LibreWolf, tüm Mozilla takibini kaldıran ve gizlilik varsayılanlarını sıkılaştıran, telemetrisiz bir Firefox çatalıdır.
+  uk: LibreWolf — це форк Firefox без телеметрії, без будь-якого відстеження Mozilla та посиленими налаштуваннями приватності.
+  vi: LibreWolf là bản fork của Firefox không có telemetry, đã loại bỏ toàn bộ cơ chế theo dõi của Mozilla và siết chặt các mặc định về quyền riêng tư
 x:
   source: https://gitlab.com/librewolf-community/browser
   brew: librewolf

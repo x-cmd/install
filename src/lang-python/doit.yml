@@ -3,6 +3,22 @@ homepage: https://github.com/doit/doit
 desc:
   cn: 任务运行器和构建工具
   en: task management & automation tool
+  cs: Nástroj pro správu úkolů a automatizaci
+  de: Tool für Aufgabenmanagement und Automatisierung
+  es: Herramienta de gestión de tareas y automatización
+  fr: Outil de gestion des tâches et d'automatisation
+  id: Alat manajemen tugas dan otomatisasi
+  it: Strumento di gestione delle attività e di automazione
+  ja: タスク管理と自動化のためのツール
+  ko: 작업 관리 및 자동화 도구
+  pl: Narzędzie do zarządzania zadaniami i automatyzacji
+  pt: Ferramenta de gerenciamento de tarefas e automação
+  ro: Instrument de gestionare a sarcinilor și automatizare
+  ru: Инструмент управления задачами и автоматизации
+  th: เครื่องมือจัดการงานและระบบอัตโนมัติ
+  tr: Görev yönetimi ve otomasyon aracı
+  uk: Інструмент керування завданнями та автоматизації
+  vi: Công cụ quản lý tác vụ và tự động hóa
 x:
   source: https://github.com/doit/doit
   pip: doit

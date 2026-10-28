@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于命令行的交互式备忘单工具
   en: An interactive cheatsheet tool for the command-line
+  cs: Interaktivní nástroj pro přehledky příkazové řádky
+  de: Ein interaktives Cheatsheet-Werkzeug für die Kommandozeile
+  es: Una herramienta interactiva de hojas de referencia para la línea de comandos
+  fr: Un outil interactif de mémo pour la ligne de commande
+  id: Alat cheatsheet interaktif untuk baris perintah
+  it: Uno strumento interattivo di cheat sheet per la riga di comando
+  ja: コマンドライン用の対話式チートシートツール
+  ko: 명령줄을 위한 대화형 치트시트 도구
+  pl: Interaktywne narzędzie do ściąg na wiersz poleceń
+  pt: Uma ferramenta interativa de cola para a linha de comando
+  ro: Un instrument interactiv de cheat sheet pentru linia de comandă
+  ru: Интерактивный инструмент-шпаргалка для командной строки
+  th: เครื่องมือชีตชีตแบบโต้ตอบสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için etkileşimli bir cheatsheet aracı
+  uk: Інтерактивний інструмент-шпаргалка для командного рядка
+  vi: Công cụ bảng tra cứu tương tác cho dòng lệnh
 x:
   source: https://github.com/denisidoro/navi
   brew: navi

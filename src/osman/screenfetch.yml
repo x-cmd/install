@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: screenFetch, 用于在 Terminal 中快速收集并显示系统信息，类似于 [fastfetch](https://x-cmd.com/pkg/fastfetch), [neofetch](https://x-cmd.com/install/neofetch).
   en: screenFetch, similar to [fastfetch](https://x-cmd.com/pkg/fastfetch) and [neofetch](https://x-cmd.com/install/neofetch), is a tool that swiftly gathers and displays system information right in your terminal.
+  cs: screenFetch, podobný jako [fastfetch](https://x-cmd.com/pkg/fastfetch) a [neofetch](https://x-cmd.com/install/neofetch), je nástroj, který rychle sbírá a zobrazuje informace o systému přímo v terminálu.
+  de: screenFetch, ähnlich wie [fastfetch](https://x-cmd.com/pkg/fastfetch) und [neofetch](https://x-cmd.com/install/neofetch), ist ein Werkzeug, das Systeminformationen schnell im Terminal sammelt und anzeigt.
+  es: screenFetch, similar a [fastfetch](https://x-cmd.com/pkg/fastfetch) y [neofetch](https://x-cmd.com/install/neofetch), es una herramienta que recopila y muestra rápidamente la información del sistema directamente en tu terminal.
+  fr: screenFetch, similaire à [fastfetch](https://x-cmd.com/pkg/fastfetch) et [neofetch](https://x-cmd.com/install/neofetch), est un outil qui collecte et affiche rapidement les informations système directement dans votre terminal.
+  id: screenFetch, mirip dengan [fastfetch](https://x-cmd.com/pkg/fastfetch) dan [neofetch](https://x-cmd.com/install/neofetch), adalah alat yang dengan cepat mengumpulkan dan menampilkan informasi sistem langsung di terminal Anda.
+  it: screenFetch, simile a [fastfetch](https://x-cmd.com/pkg/fastfetch) e [neofetch](https://x-cmd.com/install/neofetch), è uno strumento che raccoglie e mostra rapidamente le informazioni di sistema direttamente nel terminale.
+  ja: screenFetch は [fastfetch](https://x-cmd.com/pkg/fastfetch) や [neofetch](https://x-cmd.com/install/neofetch) と同様に、ターミナル上でシステム情報をすばやく収集して表示するツールです。
+  ko: screenFetch는 [fastfetch](https://x-cmd.com/pkg/fastfetch) 및 [neofetch](https://x-cmd.com/install/neofetch)와 비슷하게, 터미널에서 시스템 정보를 빠르게 수집하고 표시하는 도구입니다.
+  pl: screenFetch, podobny do [fastfetch](https://x-cmd.com/pkg/fastfetch) i [neofetch](https://x-cmd.com/install/neofetch), to narzędzie, które szybko zbiera i wyświetla informacje o systemie wprost w terminalu.
+  pt: O screenFetch, semelhante ao [fastfetch](https://x-cmd.com/pkg/fastfetch) e ao [neofetch](https://x-cmd.com/install/neofetch), é uma ferramenta que reúne e exibe rapidamente as informações do sistema direto no terminal.
+  ro: screenFetch, similar cu [fastfetch](https://x-cmd.com/pkg/fastfetch) și [neofetch](https://x-cmd.com/install/neofetch), este un instrument care adună și afișează rapid informațiile despre sistem chiar în terminalul dvs.
+  ru: screenFetch, аналогичный [fastfetch](https://x-cmd.com/pkg/fastfetch) и [neofetch](https://x-cmd.com/install/neofetch), — это инструмент, который быстро собирает и отображает сведения о системе прямо в терминале.
+  th: screenFetch คล้ายกับ [fastfetch](https://x-cmd.com/pkg/fastfetch) และ [neofetch](https://x-cmd.com/install/neofetch) เป็นเครื่องมือที่เก็บรวบรวมและแสดงข้อมูลระบบได้อย่างรวดเร็วในเทอร์มินัลของคุณ
+  tr: screenFetch, [fastfetch](https://x-cmd.com/pkg/fastfetch) ve [neofetch](https://x-cmd.com/install/neofetch) benzeri, sistem bilgilerini doğrudan terminalinizde hızla toplayan ve gösteren bir araçtır.
+  uk: screenFetch, аналогічний [fastfetch](https://x-cmd.com/pkg/fastfetch) і [neofetch](https://x-cmd.com/install/neofetch), — це інструмент, який швидко збирає та показує відомості про систему прямо в терміналі.
+  vi: screenFetch, tương tự [fastfetch](https://x-cmd.com/pkg/fastfetch) và [neofetch](https://x-cmd.com/install/neofetch), là công cụ nhanh chóng thu thập và hiển thị thông tin hệ thống ngay trong terminal của bạn.
 x:
   source: https://github.com/KittyKatt/screenFetch
   apt: screenfetch

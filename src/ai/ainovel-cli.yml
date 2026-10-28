@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 多 Agent 实现的全自动 AI 小说生成工具
   en: ✨多agent实现全自动AI小说生成
+  cs: Plně automatický nástroj pro generování AI románů s více agenty
+  de: Vollautomatisches KI-Roman-Generierungstool mit Multi-Agent-Architektur
+  es: Herramienta totalmente automática de generación de novelas con IA multiagente
+  fr: Outil de génération automatique de romans IA multi-agents
+  id: Alat pembuatan novel AI otomatis penuh dengan multi-agent
+  it: Strumento di generazione automatica di romanzi IA multi-agente
+  ja: マルチエージェントによる完全自動AI小説生成ツール
+  ko: 멀티 에이전트 기반 완전 자동 AI 소설 생성 도구
+  pl: W pełni automatyczne narzędzie do generowania powieści AI z wieloma agentami
+  pt: Ferramenta totalmente automática de geração de romances com IA multiagente
+  ro: Instrument complet automat de generare a romanelor cu AI, bazat pe mai mulți agenți
+  ru: Полностью автоматический инструмент генерации ИИ-романов на основе нескольких агентов
+  th: เครื่องมือสร้างนวนิยาย AI อัตโนมัติทั้งหมดด้วยระบบหลายเอเจนต์
+  tr: Çoklu ajan mimarisine sahip, tamamen otomatik AI romanı oluşturma aracı.
+  uk: Повністю автоматичний інструмент генерації ІІ-романів на основі кількох агентів
+  vi: Công cụ tự động hoàn toàn tạo tiểu thuyết AI với kiến trúc đa agent
 x:
   source: https://github.com/voocel/ainovel-cli
   eget: voocel/ainovel-cli

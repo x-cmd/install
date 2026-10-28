@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Dagger 是一个集成平台，从头到尾协调应用程序到云的交付
   en: Dagger is an integrated platform to orchestrate the delivery of applications to the cloud from start to finish
+  cs: Dagger je integrovaná platforma pro řízení doručování aplikací do cloudu od začátku do konce
+  de: Dagger ist eine integrierte Plattform, die die Bereitstellung von Anwendungen in die Cloud von Anfang bis Ende orchestriert
+  es: Dagger es una plataforma integrada para orquestar la entrega de aplicaciones a la nube de principio a fin
+  fr: Dagger est une plateforme intégrée qui orchestre la livraison d'applications vers le cloud de bout en bout
+  id: Dagger adalah platform terpadu untuk mengorkestrasi pengiriman aplikasi ke cloud dari awal hingga akhir
+  it: Dagger è una piattaforma integrata per orchestrare il rilascio delle applicazioni al cloud dall'inizio alla fine
+  ja: Dagger は、アプリケーションのクラウドへの配信を一貫して調整する統合プラットフォームです
+  ko: Dagger는 애플리케이션을 클라우드에 처음부터 끝까지 배포하는 통합 플랫폼입니다
+  pl: Dagger to zintegrowana platforma do orkiestracji dostarczania aplikacji do chmury od początku do końca
+  pt: Dagger é uma plataforma integrada para orquestrar a entrega de aplicativos à nuvem de ponta a ponta
+  ro: Dagger este o platformă integrată pentru orchestrarea livrării aplicațiilor către cloud de la început până la final
+  ru: Dagger — интегрированная платформа для оркестрации доставки приложений в облако от начала до конца
+  th: Dagger เป็นแพลตฟอร์มแบบรวมที่ประสานการส่งมอบแอปพลิเคชันไปยังคลาวด์ตั้งแต่ต้นจนจบ
+  tr: Dagger, uygulamaların buluta baştan sona teslimatını düzenleyen entegre bir platformdur
+  uk: Dagger — інтегрована платформа для оркестрації доставки застосунків у хмару від початку до кінця
+  vi: Dagger là nền tảng tích hợp để điều phối việc triển khai ứng dụng lên cloud từ đầu đến cuối
 x:
   source: https://github.com/dagger/dagger
   eget: dagger/dagger

@@ -3,6 +3,22 @@ homepage: https://tut.anv.nu/
 desc:
   cn: tut 是一个用于 Mastodon 的 TUI，具有 Vim 风格的键盘映射。
   en: tut is a TUI for Mastodon with vim inspired keys.
+  cs: tut je TUI pro Mastodon s klávesami inspirovanými Vimem.
+  de: tut ist eine TUI für Mastodon mit Vim-inspirierten Tasten.
+  es: tut es una TUI para Mastodon con teclas inspiradas en Vim.
+  fr: tut est une TUI pour Mastodon avec des raccourcis inspirés de Vim.
+  id: tut adalah TUI untuk Mastodon dengan tombol yang terinspirasi Vim.
+  it: tut è una TUI per Mastodon con tasti ispirati a Vim.
+  ja: tut は Vim をイメージしたキー操作を備えた Mastodon 用 TUI です。
+  ko: tut는 Vim에서 영감을 받은 키 바인딩을 제공하는 Mastodon용 TUI입니다.
+  pl: tut to TUI dla Mastodon z klawiszami inspirowanymi Vimem.
+  pt: tut é uma TUI para o Mastodon com teclas inspiradas no Vim.
+  ro: tut este o interfață TUI pentru Mastodon, cu taste inspirate de Vim.
+  ru: tut — это TUI для Mastodon с сочетаниями клавиш в стиле Vim.
+  th: tut คือ TUI สำหรับ Mastodon พร้อมปุ่มแบบ Vim
+  tr: tut, Vim'den esinlenen tuşlara sahip bir Mastodon TUI'sidir.
+  uk: tut — це TUI для Mastodon із клавішами в стилі Vim.
+  vi: tut là giao diện TUI cho Mastodon với phím tắt lấy cảm hứng từ Vim.
 rule:
   netbsd/pkgin:
     cmd: pkgin install tut

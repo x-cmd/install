@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 支持真正可移植可执行文件的 zsh 补丁版本
   en: Zsh patched to support Actually Portable Executables git://git.code.sf.net/p/zsh/code (upstream pending)
+  cs: Zsh patchovaný pro podporu Actually Portable Executables git://git.code.sf.net/p/zsh/code (čeká se na upstream)
+  de: Zsh, gepatcht zur Unterstützung von Actually Portable Executables git://git.code.sf.net/p/zsh/code (Upstream ausstehend)
+  es: Zsh parcheado para admitir Actually Portable Executables git://git.code.sf.net/p/zsh/code (pendiente de upstream)
+  fr: Zsh patché pour prendre en charge les Actually Portable Executables git://git.code.sf.net/p/zsh/code (en attente en amont)
+  id: Zsh yang dipatch untuk mendukung Actually Portable Executables git://git.code.sf.net/p/zsh/code (menunggu upstream)
+  it: Zsh patchato per supportare le Actually Portable Executables git://git.code.sf.net/p/zsh/code (in attesa upstream)
+  ja: Actually Portable Executables に対応したパッチ済み zsh git://git.code.sf.net/p/zsh/code (上流での対応待ち)
+  ko: Actually Portable Executables를 지원하도록 패치된 zsh git://git.code.sf.net/p/zsh/code (업스트림 대기 중)
+  pl: Zsh z łatką obsługującą Actually Portable Executables git://git.code.sf.net/p/zsh/code (oczekiwanie na upstream)
+  pt: Zsh corrigido para oferecer suporte a Actually Portable Executables git://git.code.sf.net/p/zsh/code (pendente no upstream)
+  ro: Zsh patchuit pentru a suporta Actually Portable Executables git://git.code.sf.net/p/zsh/code (în așteptare în upstream)
+  ru: Zsh с патчем для поддержки Actually Portable Executables git://git.code.sf.net/p/zsh/code (ожидается в upstream)
+  th: Zsh ที่แพตช์เพื่อรองรับ Actually Portable Executables git://git.code.sf.net/p/zsh/code (กำลังรอการอัปสตรีม)
+  tr: Actually Portable Executables destekleyecek şekilde yamalanmış Zsh git://git.code.sf.net/p/zsh/code (upstream bekleniyor)
+  uk: Zsh з патчем для підтримки Actually Portable Executables git://git.code.sf.net/p/zsh/code (чекаємо в upstream)
+  vi: Zsh được vá lỗi để hỗ trợ Actually Portable Executables git://git.code.sf.net/p/zsh/code (đang chờ bản upstream)
 x:
   source: https://github.com/jart/zsh
   eget: jart/zsh

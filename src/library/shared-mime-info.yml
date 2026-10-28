@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/xdg/shared-mime-info
 desc:
   en: Share-MIME-info is a pure Ruby library for accessing the MIME info database provided by Freedesktop on Standards/shared-mime-info-spec
   cn: Share-MIME-info 是一个纯 Ruby 库，用于访问标准/share-MIME-info-spec 上的 Freedesktop 提供的 MIME 信息数据库
+  cs: Share-MIME-info je čistá knihovna Ruby pro přístup k databázi MIME informací poskytované Freedesktopem ve standardu Standards/shared-mime-info-spec
+  de: Share-MIME-info ist eine reine Ruby-Bibliothek für den Zugriff auf die von Freedesktop bereitgestellte MIME-Informationsdatenbank im Standard Standards/shared-mime-info-spec
+  es: Share-MIME-info es una biblioteca de Ruby puro para acceder a la base de datos de información MIME proporcionada por Freedesktop en Standards/shared-mime-info-spec
+  fr: Share-MIME-info est une bibliothèque Ruby pure permettant d'accéder à la base de données d'informations MIME fournie par Freedesktop dans la norme Standards/shared-mime-info-spec
+  id: Share-MIME-info adalah pustaka Ruby murni untuk mengakses basis data informasi MIME yang disediakan Freedesktop pada Standards/shared-mime-info-spec
+  it: Share-MIME-info è una libreria Ruby pura per accedere al database delle informazioni MIME fornito da Freedesktop nello standard Standards/shared-mime-info-spec
+  ja: Share-MIME-info は、Standards/shared-mime-info-spec で提供されている Freedesktop の MIME 情報をデータベースにアクセスするための純粋な Ruby ライブラリです
+  ko: Share-MIME-info는 Standards/shared-mime-info-spec에서 Freedesktop이 제공하는 MIME 정보 데이터베이스에 접근하기 위한 순수 Ruby 라이브러리입니다
+  pl: Share-MIME-info to czysta biblioteka Ruby do dostępu do bazy danych informacji MIME udostępnianej przez Freedesktop w standardzie Standards/shared-mime-info-spec
+  pt: Share-MIME-info é uma biblioteca Ruby pura para acessar o banco de dados de informações MIME fornecido pelo Freedesktop em Standards/shared-mime-info-spec
+  ro: Share-MIME-info este o bibliotecă Ruby pură pentru accesarea bazei de date cu informații MIME furnizată de Freedesktop în Standards/shared-mime-info-spec
+  ru: Share-MIME-info — это чистая Ruby-библиотека для доступа к базе данных MIME-информации, предоставляемой Freedesktop в стандарте Standards/shared-mime-info-spec
+  th: Share-MIME-info เป็นไลบรารี Ruby บริสุทธิ์สำหรับเข้าถึงฐานข้อมูลข้อมูล MIME ที่ Freedesktop จัดให้ตามมาตรฐาน Standards/shared-mime-info-spec
+  tr: Share-MIME-info, Standards/shared-mime-info-spec içinde Freedesktop tarafından sağlanan MIME bilgi veritabanına erişmek için saf bir Ruby kitaplığıdır
+  uk: Share-MIME-info — це чиста Ruby-бібліотека для доступу до бази даних MIME-інформації, що надається Freedesktop у стандарті Standards/shared-mime-info-spec
+  vi: Share-MIME-info là thư viện Ruby thuần để truy cập cơ sở dữ liệu thông tin MIME do Freedesktop cung cấp trong Standards/shared-mime-info-spec
 rule:
   arch/yay:
     cmd: yay -S shared-mime-info-git

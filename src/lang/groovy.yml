@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Groovy 是用于 JVM 平台的一种强大的多方面编程语言
   en: Groovy is a powerful multi-faceted programming language for the JVM platform
+  cs: Groovy je výkonný mnohostranný programovací jazyk pro platformu JVM
+  de: Groovy ist eine leistungsfähige, vielseitige Programmiersprache für die JVM-Plattform
+  es: Groovy es un potente lenguaje de programación multifacético para la plataforma JVM
+  fr: Groovy est un langage de programmation puissant et polyvalent pour la plateforme JVM
+  id: Groovy adalah bahasa pemrograman serbaguna yang kuat untuk platform JVM
+  it: Groovy è un potente linguaggio di programmazione polifacetico per la piattaforma JVM
+  ja: Groovy は JVM プラットフォーム向けの強力な多機能プログラミング言語です
+  ko: Groovy는 JVM 플랫폼을 위한 강력한 다목적 프로그래밍 언어입니다
+  pl: Groovy to potężny, wielofunkcyjny język programowania dla platformy JVM
+  pt: Groovy é uma linguagem de programação poderosa e multifacetada para a plataforma JVM
+  ro: Groovy este un limbaj de programare puternic și polifaceted pentru platforma JVM
+  ru: Groovy — мощный многофункциональный язык программирования для платформы JVM
+  th: Groovy คือภาษาโปรแกรมที่ทรงพลังและมีหลายความสามารถสำหรับแพลตฟอร์ม JVM
+  tr: Groovy, JVM platformu için güçlü ve çok yönlü bir programlama dilidir
+  uk: Groovy — потужна багатофункціональна мова програмування для платформи JVM
+  vi: Groovy là ngôn ngữ lập trình mạnh mẽ và đa năng cho nền tảng JVM
 x:
   source: https://github.com/apache/groovy
   apt: groovy

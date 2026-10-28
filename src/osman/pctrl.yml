@@ -3,6 +3,22 @@ homepage: https://github.com/MohamedSherifNoureldin/PCtrl
 desc:
   cn: 一个基于终端的进程控制器，提供用户友好的界面来管理进程。
   en: A terminal-based process controller that provides a user-friendly interface to manage processes.
+  cs: Terminálový nástroj pro správu procesů, který poskytuje uživatelsky přívětivé rozhraní.
+  de: Ein terminalbasierter Prozesscontroller mit einer benutzerfreundlichen Oberfläche zur Prozessverwaltung.
+  es: Un controlador de procesos basado en terminal que ofrece una interfaz fácil de usar para gestionar procesos.
+  fr: Un contrôleur de processus basé sur le terminal qui fournit une interface conviviale pour gérer les processus.
+  id: Pengontrol proses berbasis terminal yang menyediakan antarmuka ramah pengguna untuk mengelola proses.
+  it: Un controller di processi basato sul terminale che offre un'interfaccia intuitiva per gestire i processi.
+  ja: プロセスを管理するための親切なインターフェースを持つ、ターミナルベースのプロセスコントローラです。
+  ko: 프로세스를 관리하기 위한 사용자 친화적인 인터페이스를 제공하는 터미널 기반 프로세스 컨트롤러입니다.
+  pl: Terminalowy kontroler procesów zapewniający przyjazny użytkownikowi interfejs do zarządzania procesami.
+  pt: Um controlador de processos baseado em terminal que oferece uma interface amigável para gerenciar processos.
+  ro: Un controlor de procese bazat pe terminal care oferă o interfață prietenoasă cu utilizatorul pentru gestionarea proceselor.
+  ru: Терминальный контроллер процессов с удобным интерфейсом для управления процессами.
+  th: ตัวควบคุมกระบวนการแบบเทอร์มินัลที่มีอินเทอร์เฟซที่ใช้งานง่ายสำหรับการจัดการกระบวนการ
+  tr: Süreçleri yönetmek için kullanıcı dostu bir arayüz sunan terminal tabanlı bir süreç denetleyicisi.
+  uk: Термінальний контролер процесів із зручним інтерфейсом для керування процесами.
+  vi: Bộ điều khiển tiến trình dựa trên terminal với giao diện thân thiện để quản lý tiến trình.
 x:
   source: https://github.com/MohamedSherifNoureldin/PCtrl
 rule:

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ession manager for tmux, which allows users to save and load tmux sessions through simple configuration files
   en: tmux 的 Session Manager，允许用户通过简单的配置文件保存和加载 tmux 会话
+  cs: Správce relací pro tmux, který uživatelům umožňuje ukládat a načítat relace tmux pomocí jednoduchých konfiguračních souborů
+  de: Session-Manager für tmux, mit dem Benutzer tmux-Sessions über einfache Konfigurationsdateien speichern und laden können
+  es: Gestor de sesiones para tmux, que permite a los usuarios guardar y cargar sesiones de tmux mediante simples archivos de configuración
+  fr: Gestionnaire de sessions pour tmux, qui permet aux utilisateurs d'enregistrer et de charger des sessions tmux via de simples fichiers de configuration
+  id: Manajer sesi untuk tmux, yang memungkinkan pengguna menyimpan dan memuat sesi tmux melalui file konfigurasi sederhana
+  it: Gestore delle sessioni per tmux, che consente agli utenti di salvare e caricare sessioni tmux tramite semplici file di configurazione
+  ja: tmux のセッションマネージャーで、簡単な設定ファイルを使って tmux セッションを保存して読み込めます
+  ko: tmux용 세션 관리자로, 간단한 설정 파일을 통해 tmux 세션을 저장하고 불러올 수 있습니다
+  pl: Menedżer sesji dla tmux, który pozwala użytkownikom zapisywać i wczytywać sesje tmux za pomocą prostych plików konfiguracyjnych
+  pt: Gerenciador de sessões para tmux, que permite aos usuários salvar e carregar sessões do tmux por meio de simples arquivos de configuração
+  ro: Manager de sesiuni pentru tmux, care permite utilizatorilor să salveze și să încarce sesiuni tmux prin fișiere de configurare simple
+  ru: Менеджер сессий для tmux, позволяющий пользователям сохранять и загружать сессии tmux с помощью простых файлов конфигурации
+  th: ตัวจัดการเซสชันสำหรับ tmux ที่ให้ผู้ใช้บันทึกและโหลดเซสชัน tmux ผ่านไฟล์การกำหนดค่าอย่างง่ายดาย
+  tr: tmux için oturum yöneticisi; kullanıcıların tmux oturumlarını basit yapılandırma dosyalarıyla kaydetmesine ve yüklemesine olanak tanır
+  uk: Менеджер сесій для tmux, який дозволяє користувачам зберігати та завантажувати сесії tmux за допомогою простих файлів конфігурації
+  vi: Trình quản lý phiên cho tmux, cho phép người dùng lưu và tải các phiên tmux thông qua các tệp cấu hình đơn giản
 x:
   source: https://github.com/tmux-python/tmuxp
   apt: tmuxp

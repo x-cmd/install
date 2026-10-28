@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 用 AI Agent 把任意网站变为 CLI，并复用你已登录的浏览器
   en: Make Any Website into CLI & Use your logged-in browser by AI agent.
+  cs: Přeměňte jakýkoli web na CLI a AI agent využije váš přihlášený prohlížeč.
+  de: Verwandeln Sie jede Website in eine CLI und nutzen Sie Ihren angemeldeten Browser mit einem KI-Agenten.
+  es: Convierte cualquier sitio web en una CLI y usa tu navegador con sesión iniciada mediante un agente de IA.
+  fr: Transformez n'importe quel site web en CLI et utilisez votre navigateur connecté via un agent IA.
+  id: Jadikan situs web mana pun menjadi CLI dan gunakan browser yang sudah login oleh AI agent.
+  it: Trasforma qualsiasi sito web in una CLI e usa il tuo browser già connesso tramite un agente IA.
+  ja: 任意のウェブサイトを CLI 化し、AI エージェントでログイン済みのブラウザを使い回す
+  ko: 어떤 웹사이트든 CLI로 만들고 AI 에이전트로 로그인된 브라우저를 활용하세요.
+  pl: Zamień dowolną stronę w CLI i używaj zalogowanej przeglądarki przez agenta AI.
+  pt: Transforme qualquer site em CLI e use seu navegador já conectado por um agente de IA.
+  ro: Transformă orice site într-un CLI și folosește browserul tău deja logat cu un agent AI.
+  ru: Превратите любой сайт в CLI и используйте уже авторизованный браузер с помощью ИИ-агента.
+  th: เปลี่ยนเว็บไซต์ใดก็ได้ให้เป็น CLI และใช้เบราว์เซอร์ที่คุณล็อกอินแล้วด้วย AI เอเจนต์
+  tr: Herhangi bir web sitesini CLI'ya dönüştürün ve AI ajanıyla giriş yapmış tarayıcınızı kullanın.
+  uk: Перетворіть будь-який сайт на CLI та користуйтеся вже авторизованим браузером за допомогою ІІ-агента.
+  vi: Biến bất kỳ trang web nào thành CLI và dùng trình duyệt đã đăng nhập với tác nhân AI
 x:
   source: https://github.com/jackwener/opencli
   eget: jackwener/opencli

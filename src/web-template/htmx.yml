@@ -3,6 +3,22 @@ homepage: https://github.com/bigskysoftware/htmx
 desc:
   cn: htmx 让你可以直接在 HTML 中使用 AJAX、CSS 过渡、WebSocket 和服务器发送事件，利用属性来实现，因此你可以以超文本的简洁性和强大功能构建现代用户界面。
   en: htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+  cs: htmx vám dává přímý přístup k AJAX, CSS Transitions, WebSockets a Server Sent Events přímo v HTML pomocí atributů, takže můžete budovat moderní uživatelská rozhraní jednoduchostí a silou hypertextu
+  de: htmx gibt Ihnen direkten Zugriff auf AJAX, CSS Transitions, WebSockets und Server Sent Events direkt in HTML über Attribute, sodass Sie moderne Benutzeroberflächen mit der Einfachheit und Kraft von Hypertext erstellen können
+  es: htmx te da acceso directo a AJAX, CSS Transitions, WebSockets y Server Sent Events directamente en HTML mediante atributos, para que puedas crear interfaces de usuario modernas con la simplicidad y potencia del hipertexto
+  fr: htmx vous donne accès directement en HTML, via des attributs, à AJAX, aux transitions CSS, aux WebSockets et aux Server Sent Events, afin de construire des interfaces utilisateur modernes avec la simplicité et la puissance de l'hypertexte
+  id: htmx memberi Anda akses langsung ke AJAX, CSS Transitions, WebSockets, dan Server Sent Events langsung di HTML melalui atribut, sehingga Anda dapat membangun antarmuka pengguna modern dengan Kesederhanaan dan kekuatan hypertext
+  it: htmx ti dà accesso diretto a AJAX, CSS Transitions, WebSocket e Server Sent Events direttamente in HTML tramite attributi, così puoi costruire interfacce utente moderne con la semplicità e la potenza dell'ipertesto
+  ja: htmx は属性を使って HTML 内で AJAX、CSS トランジション、WebSocket、Server Sent Events を直接利用できるようにするため、ハイパーテキストの簡潔さと力でモダンなユーザーインターフェースを構築できます
+  ko: htmx는 속성을 사용하여 HTML에서 AJAX, CSS Transitions, WebSocket, Server Sent Events에 직접 접근할 수 있게 해 주어, 하이퍼텍스트의 단순함과 강력함으로 현대적인 사용자 인터페이스를 만들 수 있습니다
+  pl: htmx daje bezpośredni dostęp w HTML, za pomocą atrybutów, do AJAX, przejść CSS, WebSocketów i Server Sent Events, dzięki czemu możesz budować nowoczesne interfejsy użytkownika z prostotą i siłą hipertekstu
+  pt: htmx dá acesso direto a AJAX, CSS Transitions, WebSockets e Server Sent Events diretamente no HTML por meio de atributos, para que você possa criar interfaces de usuário modernas com a simplicidade e o poder do hipertexto
+  ro: htmx vă oferă acces direct la AJAX, CSS Transitions, WebSockets și Server Sent Events chiar în HTML, prin atribute, astfel încât să puteți construi interfețe moderne de utilizator cu simplitatea și puterea hipertextului
+  ru: htmx даёт прямой доступ к AJAX, CSS-переходам, WebSocket и Server Sent Events прямо в HTML с помощью атрибутов, так что вы можете создавать современные пользовательские интерфейсы с простотой и мощью гипертекста
+  th: htmx ให้คุณเข้าถึง AJAX, CSS Transitions, WebSockets และ Server Sent Events ได้โดยตรงใน HTML ผ่านแอตทริบิวต์ จึงสร้างอินเทอร์เฟซผู้ใช้สมัยใหม่ได้ด้วยความเรียบง่ายและพลังของไฮเปอร์เท็กซ์
+  tr: htmx, öznitelikleri kullanarak AJAX, CSS Transitions, WebSocket ve Server Sent Events özelliklerine doğrudan HTML içinden erişmenizi sağlar, böylece modern kullanıcı arayüzlerini hiperteksin sadeliği ve gücüyle oluşturabilirsiniz
+  uk: htmx дає прямий доступ до AJAX, CSS-переходів, WebSocket та Server Sent Events просто в HTML за допомогою атрибутів, тож ви можете створювати сучасні користувацькі інтерфейси з простотою та силою гіпертексту
+  vi: htmx cho phép bạn truy cập trực tiếp AJAX, CSS Transitions, WebSocket và Server Sent Events ngay trong HTML thông qua các thuộc tính, giúp bạn xây dựng giao diện người dùng hiện đại với sự đơn giản và mạnh mẽ của siêu văn bản
 x:
   source: https://github.com/bigskysoftware/htmx
   npm: htmx.org

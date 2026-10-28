@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 通过语言服务器(LSP)对 haskell-ide 的官方支持
   en: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine
+  cs: Oficiální podpora haskell IDE prostřednictvím language serveru (LSP). Nástupce ghcide a haskell-ide-engine
+  de: Offizielle haskell-IDE-Unterstützung über den Language Server (LSP). Nachfolger von ghcide und haskell-ide-engine
+  es: Soporte oficial para IDE de haskell mediante language server (LSP). Sucesor de ghcide y haskell-ide-engine
+  fr: Prise en charge officielle de l'IDE haskell via le langage serveur (LSP). Successeur de ghcide et haskell-ide-engine
+  id: Dukungan resmi IDE haskell melalui language server (LSP). Penerus dari ghcide dan haskell-ide-engine
+  it: Supporto ufficiale per l'IDE haskell tramite language server (LSP). Successore di ghcide e haskell-ide-engine
+  ja: language server (LSP) による公式の haskell IDE サポート。ghcide と haskell-ide-engine の後継
+  ko: language server(LSP)를 통한 공식 haskell IDE 지원. ghcide 및 haskell-ide-engine의 후속
+  pl: Oficjalne wsparcie IDE dla haskell przez language server (LSP). Następca ghcide i haskell-ide-engine
+  pt: Suporte oficial ao IDE do haskell via language server (LSP). Sucessor de ghcide e haskell-ide-engine
+  ro: Suport oficial pentru IDE haskell prin language server (LSP). Succesorul lui ghcide și haskell-ide-engine
+  ru: Официальная поддержка IDE для haskell через language server (LSP). Преемник ghcide и haskell-ide-engine
+  th: การรองรับ IDE ของ haskell อย่างเป็นทางการผ่าน language server (LSP) ตัวสืบทอดของ ghcide และ haskell-ide-engine
+  tr: Language server (LSP) aracılığıyla resmi haskell IDE desteği. ghcide ve haskell-ide-engine'in halefi
+  uk: Офіційна підтримка IDE для haskell через language server (LSP). Наступник ghcide та haskell-ide-engine
+  vi: Hỗ trợ IDE haskell chính thức thông qua language server (LSP). Kế thừa của ghcide và haskell-ide-engine
 x:
   source: https://github.com/haskell/haskell-language-server
   eget: haskell/haskell-language-server

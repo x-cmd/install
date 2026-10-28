@@ -3,6 +3,22 @@ homepage: https://github.com/gergelyk/bkp
 desc:
   cn: 用于备份文件/目录的实用程序。
   en: Utility that makes backups of your files/directories.
+  cs: Nástroj, který vytváří zálohy vašich souborů a adresářů.
+  de: Ein Werkzeug, das Backups Ihrer Dateien und Verzeichnisse erstellt.
+  es: Utilidad que realiza copias de seguridad de tus archivos y directorios.
+  fr: Un utilitaire qui sauvegarde vos fichiers et répertoires.
+  id: Utilitas yang membuat cadangan berkas/direktori Anda.
+  it: Utilità che crea backup di file e directory.
+  ja: ファイルやディレクトリのバックアップを作成するユーティリティ。
+  ko: 파일/디렉터리를 백업하는 유틸리티.
+  pl: Narzędzie tworzące kopie zapasowe plików i katalogów.
+  pt: Utilitário que faz backups dos seus arquivos/diretórios.
+  ro: Utilitar care creează copii de rezervă ale fișierelor/directoarelor tale.
+  ru: Утилита для создания резервных копий ваших файлов и каталогов.
+  th: ยูทิลิตี้สำหรับสำรองข้อมูลไฟล์/ไดเรกทอรีของคุณ
+  tr: Dosyalarınızın/dizinlerinizin yedeğini alan araç.
+  uk: Утиліта для створення резервних копій ваших файлів і каталогів.
+  vi: Tiện ích tạo bản sao lưu các tệp/thư mục của bạn.
 x:
   source: https://github.com/gergelyk/bkp
   pip: bkp

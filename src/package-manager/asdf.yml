@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: asdf 是一个 CLI 工具，可以在每个项目的基础上管理多个语言运行时版本
   en: asdf is a CLI tool that can manage multiple language runtime versions on a per-project basis
+  cs: asdf je nástroj CLI, který umožňuje spravovat verze běhových prostředí jednotlivých jazyků pro každý projekt zvlášť
+  de: asdf ist ein CLI-Tool, das mehrere Sprach-Laufzeitversionen pro jedes Projekt einzeln verwalten kann
+  es: asdf es una herramienta de CLI que puede gestionar varias versiones de runtimes de lenguaje proyecto por proyecto
+  fr: asdf est un outil CLI capable de gérer plusieurs versions d'environnements d'exécution par langage, projet par projet
+  id: asdf adalah alat CLI yang dapat mengelola beberapa versi runtime bahasa untuk setiap proyek
+  it: asdf è uno strumento CLI che può gestire più versioni di runtime per linguaggio, progetto per progetto
+  ja: asdf は、プロジェクトごとに複数の言語ランタイムバージョンを管理できる CLI ツールです
+  ko: asdf는 프로젝트별로 여러 언어 런타임 버전을 관리할 수 있는 CLI 도구입니다
+  pl: asdf to narzędzie CLI, które pozwala zarządzać wieloma wersjami środowisk uruchomieniowych języków osobno dla każdego projektu
+  pt: asdf é uma ferramenta de CLI que permite gerenciar várias versões de runtimes de linguagem em cada projeto
+  ro: asdf este un instrument CLI care poate gestiona mai multe versiuni de rulare a limbajelor, pe bază de proiect
+  ru: asdf — это CLI-инструмент для управления несколькими версиями сред выполнения языков в рамках каждого проекта
+  th: asdf เป็นเครื่องมือ CLI ที่จัดการเวอร์ชันรันไทม์ของภาษาหลายเวอร์ชันในแต่ละโปรเจกต์ได้
+  tr: asdf, her proje için birden fazla dil çalışma zamanı sürümünü yönetebilen bir CLI aracıdır
+  uk: asdf — це CLI-інструмент для керування кількома версіями середовищ виконання мов окремо для кожного проєкту
+  vi: asdf là công cụ CLI có thể quản lý nhiều phiên bản runtime ngôn ngữ cho từng dự án
 x:
   source: https://github.com/asdf-vm/asdf
   eget: asdf-vm/asdf

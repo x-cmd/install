@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 Jujutsu 版本控制系统的 TUI
   en: 'jjui is a TUI designed for interacting with the Jujutsu version control system.'
+  cs: jjui je TUI navržený pro práci se systémem správy verzí Jujutsu.
+  de: jjui ist eine TUI, die für die Interaktion mit dem Versionsverwaltungssystem Jujutsu entwickelt wurde.
+  es: jjui es una TUI diseñada para interactuar con el sistema de control de versiones Jujutsu.
+  fr: jjui est une TUI conçue pour interagir avec le système de gestion de versions Jujutsu.
+  id: jjui adalah TUI yang dirancang untuk berinteraksi dengan sistem kontrol versi Jujutsu.
+  it: jjui è una TUI progettata per interagire con il sistema di controllo versione Jujutsu.
+  ja: jjui は Jujutsu バージョン控制系统と対話するために設計された TUI です。
+  ko: jjui는 Jujutsu 버전 관리 시스템과 상호작용하기 위해 설계된 TUI입니다.
+  pl: jjui to TUI zaprojektowany do interakcji z systemem kontroli wersji Jujutsu.
+  pt: jjui é uma TUI projetada para interagir com o sistema de controle de versão Jujutsu.
+  ro: jjui este o TUI conceput pentru a interacționa cu sistemul de control al versiunilor Jujutsu.
+  ru: jjui — это TUI, разработанный для работы с системой контроля версий Jujutsu.
+  th: jjui คือ TUI ที่ออกแบบมาเพื่อใช้งานกับระบบควบคุมเวอร์ชัน Jujutsu
+  tr: jjui, Jujutsu sürüm kontrol sistemiyle etkileşim için tasarlanmış bir TUI'dir.
+  uk: jjui — це TUI, розроблений для роботи з системою контролю версій Jujutsu.
+  vi: jjui là TUI được thiết kế để tương tác với hệ thống quản lý phiên bản Jujutsu
 x:
   source: https://github.com/idursun/jjui
   eget: idursun/jjui

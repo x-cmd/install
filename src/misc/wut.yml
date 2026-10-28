@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个 CLI 工具，用于解释你最后一条命令的输出。
   en: CLI that explains the output of your last command.
+  cs: CLI, které vysvětluje výstup vaší poslední příkazu.
+  de: CLI, die die Ausgabe Ihres letzten Befehls erklärt.
+  es: CLI que explica la salida de tu último comando.
+  fr: CLI qui explique la sortie de votre dernière commande.
+  id: CLI yang menjelaskan keluaran dari perintah terakhir Anda.
+  it: CLI che spiega l'output del tuo ultimo comando.
+  ja: 直前のコマンドの出力を解説する CLI です。
+  ko: 마지막 명령의 출력을 설명해 주는 CLI
+  pl: CLI, które wyjaśnia wyjście twojego ostatniego polecenia.
+  pt: CLI que explica a saída do seu último comando.
+  ro: CLI care explică rezultatul ultimei tale comenzi.
+  ru: CLI, которая объясняет вывод вашей последней команды.
+  th: CLI ที่อธิบายผลลัพธ์ของคำสั่งล่าสุดของคุณ
+  tr: Son komutunuzun çıktısını açıklayan bir CLI.
+  uk: CLI, яка пояснює вивід вашої останньої команди.
+  vi: CLI giải thích đầu ra của lệnh gần nhất của bạn.
 x:
   source: https://github.com/shobrook/wut
   eget: shobrook/wut

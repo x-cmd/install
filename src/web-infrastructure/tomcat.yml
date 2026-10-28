@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache Tomcat
   en: Apache Tomcat
+  cs: Apache Tomcat
+  de: Apache Tomcat
+  es: Apache Tomcat
+  fr: Apache Tomcat
+  id: Apache Tomcat
+  it: Apache Tomcat
+  ja: Apache Tomcat
+  ko: Apache Tomcat
+  pl: Apache Tomcat
+  pt: Apache Tomcat
+  ro: Apache Tomcat
+  ru: Apache Tomcat
+  th: Apache Tomcat
+  tr: Apache Tomcat
+  uk: Apache Tomcat
+  vi: Apache Tomcat
 x:
   source: https://github.com/apache/tomcat
   dnf: tomcat

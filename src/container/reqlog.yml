@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 跨文件、Docker 容器与远程主机，按请求 ID 与键值搜索日志的快速 CLI
   en: 'Fast CLI for searching, tracing, and streaming logs across files, Docker containers, and remote hosts using request IDs, trace IDs, and key/value search.'
+  cs: Rychlý CLI pro vyhledávání, sledování a streamování logů napříč soubory, kontejnery Docker a vzdálenými hosty pomocí ID požadavků, ID trasování a vyhledávání podle klíč/hodnota.
+  de: Schnelle CLI zum Suchen, Verfolgen und Streamen von Protokollen in Dateien, Docker-Containern und Remote-Hosts anhand von Request-IDs, Trace-IDs und Schlüssel-Wert-Suche.
+  es: CLI rápida para buscar, rastrear y transmitir registros en archivos, contenedores Docker y hosts remotos mediante IDs de solicitud, IDs de traza y búsqueda por clave/valor.
+  fr: CLI rapide pour rechercher, tracer et diffuser des journaux dans des fichiers, des conteneurs Docker et des hôtes distants à l'aide d'identifiants de requête, d'identifiants de trace et de recherche clé/valeur.
+  id: CLI cepat untuk mencari, menelusuri, dan menyiarkan log di berkas, kontainer Docker, dan host jarak jauh menggunakan ID permintaan, ID jejak, dan pencarian kunci/nilai.
+  it: CLI veloce per cercare, tracciare e trasmettere log su file, container Docker e host remoti tramite request ID, trace ID e ricerca chiave/valore.
+  ja: リクエスト ID、トレース ID、キー/値検索を使って、ファイル、Docker コンテナ、リモートホスト間でログを検索・追跡・ストリーミングする高速な CLI。
+  ko: 요청 ID, 트레이스 ID, 키/값 검색을 사용해 파일, Docker 컨테이너, 원격 호스트 전반에서 로그를 검색하고 추적하며 스트리밍하는 빠른 CLI.
+  pl: Szybkie CLI do wyszukiwania, śledzenia i strumieniowania logów w plikach, kontenerach Docker i zdalnych hostach przy użyciu identyfikatorów żądań, identyfikatorów śledzenia oraz wyszukiwania po kluczu i wartości.
+  pt: CLI rápida para pesquisar, rastrear e transmitir logs em arquivos, contêineres Docker e hosts remotos usando IDs de requisição, IDs de rastreamento e busca por chave/valor.
+  ro: CLI rapid pentru căutarea, urmărirea și streamingul logurilor în fișiere, containere Docker și gazde remote folosind ID-uri de cerere, ID-uri de urmărire și căutare cheie/valoare.
+  ru: Быстрый CLI для поиска, трассировки и потоковой передачи логов по файлам, контейнерам Docker и удалённым узлам с использованием request ID, trace ID и поиска по ключу/значению.
+  th: CLI ที่รวดเร็วสำหรับค้นหา ติดตาม และสตรีมบันทึกข้อมูลข้ามไฟล์ คอนเทนเนอร์ Docker และโฮสต์ระยะไกล โดยใช้ request ID, trace ID และการค้นหาแบบคีย์/ค่า.
+  tr: Dosyalar, Docker konteynerleri ve uzak ana bilgisayarlar arasında istek kimlikleri, iz kimlikleri ve anahtar/değer araması kullanarak günlükleri arama, izleme ve akışa alma için hızlı CLI.
+  uk: Швидкий CLI для пошуку, трасування та потокової передачі логів у файлах, контейнерах Docker і віддалених вузлах із використанням request ID, trace ID і пошуку за ключем/значенням.
+  vi: CLI nhanh để tìm kiếm, truy vết và truyền trực tiếp nhật ký trên các tệp, container Docker và máy chủ từ xa bằng request ID, trace ID và tìm kiếm theo khóa/giá trị.
 x:
   source: https://github.com/SagarMaheshwary/reqlog
   eget: SagarMaheshwary/reqlog

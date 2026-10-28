@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用于分析音频频率和响度（LUFS）的 TUI 应用
   en: 'A TUI app for analyzing audio data such as frequencies and loudness (LUFS)'
+  cs: TUI aplikace pro analýzu zvukových dat, jako jsou frekvence a hlasitost (LUFS)
+  de: Eine TUI-App zur Analyse von Audiodaten wie Frequenzen und Lautstärke (LUFS)
+  es: Una aplicación de TUI para analizar datos de audio como frecuencias y sonoridad (LUFS)
+  fr: Une application TUI pour analyser les données audio telles que les fréquences et la loudness (LUFS)
+  id: Aplikasi TUI untuk menganalisis data audio seperti frekuensi dan kenyaringan (LUFS)
+  it: Un'applicazione TUI per analizzare dati audio come frequenze e loudness (LUFS)
+  ja: 周波数やラウドネス (LUFS) などの音声データを分析する TUI アプリ
+  ko: 주파수와 loudness(LUFS) 같은 오디오 데이터를 분석하는 TUI 앱
+  pl: Aplikacja TUI do analizy danych audio, takich jak częstotliwości i głośność (LUFS)
+  pt: Um aplicativo TUI para analisar dados de áudio, como frequências e loudness (LUFS)
+  ro: O aplicație TUI pentru analizarea datelor audio, precum frecvențele și loudness (LUFS)
+  ru: TUI-приложение для анализа аудиоданных, таких как частоты и громкость (LUFS)
+  th: แอป TUI สำหรับวิเคราะห์ข้อมูลเสียง เช่น ความถี่และความดัง (LUFS)
+  tr: Frekanslar ve ses yüksekliği (LUFS) gibi ses verilerini analiz etmek için bir TUI uygulaması
+  uk: TUI-застосунок для аналізу аудіоданих, таких як частоти та гучність (LUFS)
+  vi: Ứng dụng TUI để phân tích dữ liệu âm thanh như tần số và độ to (LUFS)
 x:
   source: https://github.com/bananaofhappiness/soundscope
   eget: bananaofhappiness/soundscope

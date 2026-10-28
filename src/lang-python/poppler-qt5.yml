@@ -3,6 +3,22 @@ homepage: https://github.com/frescobaldi/python-poppler-qt5
 desc:
   en: A Python binding for libpoppler-qt5 that aims for completeness and for being actively maintained
   cn: 针对 libpoppler-qt5 的 Python 绑定，其目标是完整性和主动维护
+  cs: Pythonové vazby pro libpoppler-qt5, které se snaží být úplné a aktivně udržované
+  de: Eine Python-Anbindung für libpoppler-qt5, die auf Vollständigkeit und aktive Wartung abzielt
+  es: Una vinculación de Python para libpoppler-qt5 que busca la totalidad y un mantenimiento activo
+  fr: Un binding Python pour libpoppler-qt5, qui vise l'exhaustivité et une maintenance active
+  id: Binding Python untuk libpoppler-qt5 yangbertujuan kelengkapan dan dipelihara secara aktif
+  it: Un binding Python per libpoppler-qt5 che punta alla completezza e a una manutenzione attiva
+  ja: libpoppler-qt5 の Python バインディングで、完全性と積極的な保守を目標としています
+  ko: 완전성과 지속적인 유지보수를 목표로 하는 libpoppler-qt5의 Python 바인딩
+  pl: Powiązanie Pythona dla libpoppler-qt5, dążące do kompletności i aktywnego utrzymania
+  pt: Uma vinculação Python para libpoppler-qt5 que busca a completude e a manutenção ativa
+  ro: O legătură Python pentru libpoppler-qt5 care urmărește completitudinea și întreținerea activă
+  ru: Python-привязка для libpoppler-qt5, стремящаяся к полноте и активной поддержке
+  th: การผูก Python สำหรับ libpoppler-qt5 ที่มุ่งให้ครบถ้วนและได้รับการดูแลอย่างต่อเนื่อง
+  tr: libpoppler-qt5 için Python bağlantısı; bütünlük ve düzenli bakım hedefler
+  uk: Python-зв'язок для libpoppler-qt5, що прагне до повноти та активної підтримки
+  vi: Binding Python cho libpoppler-qt5 hướng tới sự đầy đủ và được bảo trì tích cực
 x:
   source: https://github.com/frescobaldi/python-poppler-qt5
   brew: poppler-qt5

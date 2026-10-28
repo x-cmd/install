@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向 Atlassian 工具（Confluence、Jira）的 MCP 服务器
   en: MCP server for Atlassian tools (Confluence, Jira)
+  cs: MCP server pro nástroje Atlassian (Confluence, Jira)
+  de: MCP-Server für Atlassian-Tools (Confluence, Jira)
+  es: Servidor MCP para herramientas de Atlassian (Confluence, Jira)
+  fr: Serveur MCP pour les outils Atlassian (Confluence, Jira)
+  id: Server MCP untuk alat Atlassian (Confluence, Jira)
+  it: Server MCP per gli strumenti Atlassian (Confluence, Jira)
+  ja: Atlassian ツール (Confluence、Jira) 向け MCP サーバー
+  ko: Atlassian 도구(Confluence, Jira)를 위한 MCP 서버
+  pl: Serwer MCP dla narzędzi Atlassian (Confluence, Jira)
+  pt: Servidor MCP para ferramentas da Atlassian (Confluence, Jira)
+  ro: Server MCP pentru instrumentele Atlassian (Confluence, Jira)
+  ru: MCP-сервер для инструментов Atlassian (Confluence, Jira)
+  th: เซิร์ฟเวอร์ MCP สำหรับเครื่องมือ Atlassian (Confluence, Jira)
+  tr: Atlassian araçları (Confluence, Jira) için MCP sunucusu
+  uk: MCP-сервер для інструментів Atlassian (Confluence, Jira)
+  vi: Máy chủ MCP cho các công cụ Atlassian (Confluence, Jira)
 x:
   source: https://github.com/sooperset/mcp-atlassian
   pip: mcp-atlassian

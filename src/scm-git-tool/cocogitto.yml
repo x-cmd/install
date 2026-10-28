@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Cocogitto 是用于常规 Commit 和 Semver 规范的 CLI 和 GitOps 工具箱
   en: Cocogitto is a CLI and GitOps toolbox for the Conventional Commits and Semver specifications
+  cs: Cocogitto je CLI a sada nástrojů GitOps pro specifikace Conventional Commits a Semver
+  de: Cocogitto ist eine CLI- und GitOps-Toolbox für die Spezifikationen Conventional Commits und Semver
+  es: Cocogitto es una caja de herramientas CLI y GitOps para las especificaciones Conventional Commits y Semver
+  fr: Cocogitto est une boîte à outils CLI et GitOps pour les spécifications Conventional Commits et Semver
+  id: Cocogitto adalah kotak alat CLI dan GitOps untuk spesifikasi Conventional Commits dan Semver
+  it: Cocogitto è una toolbox CLI e GitOps per le specifiche Conventional Commits e Semver
+  ja: Cocogitto は Conventional Commits 仕様と Semver 仕様に対応した CLI および GitOps ツールボックスです
+  ko: Cocogitto는 Conventional Commits 및 Semver 명세를 위한 CLI 및 GitOps 툴박스입니다
+  pl: Cocogitto to zestaw narzędzi CLI i GitOps dla specyfikacji Conventional Commits oraz Semver
+  pt: Cocogitto é uma caixa de ferramentas CLI e GitOps para as especificações Conventional Commits e Semver
+  ro: Cocogitto este o trusă de instrumente CLI și GitOps pentru specificațiile Conventional Commits și Semver
+  ru: Cocogitto — набор инструментов CLI и GitOps для спецификаций Conventional Commits и Semver
+  th: Cocogitto คือกล่องเครื่องมือ CLI และ GitOps สำหรับข้อกำหนด Conventional Commits และ Semver
+  tr: Cocogitto, Conventional Commits ve Semver spesifikasyonları için bir CLI ve GitOps araç kutusudur
+  uk: Cocogitto — набір інструментів CLI та GitOps для специфікацій Conventional Commits і Semver
+  vi: Cocogitto là bộ công cụ CLI và GitOps cho các đặc tả Conventional Commits và Semver
 x:
   source: https://github.com/cocogitto/cocogitto
   eget: cocogitto/cocogitto

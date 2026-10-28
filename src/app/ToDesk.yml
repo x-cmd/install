@@ -3,6 +3,22 @@ homepage: https://www.todesk.com/
 desc:
   cn: ToDesk 是一款安全免费不限速的远程控制软件
   en: ToDesk, the secure and fast remote control software
+  cs: ToDesk, bezpečný a rychlý software pro vzdálené ovládání
+  de: ToDesk, die sichere und schnelle Software für Fernzugriff
+  es: ToDesk, el software de control remoto seguro y rápido
+  fr: ToDesk, le logiciel de contrôle distant sûr et rapide
+  id: ToDesk, perangkat lunak kendali jarak jauh yang aman dan cepat
+  it: ToDesk, il software di controllo remoto sicuro e veloce
+  ja: ToDesk、安全で高速なリモートコントロールソフトウェア
+  ko: ToDesk, 안전하고 빠른 원격 제어 소프트웨어
+  pl: ToDesk, bezpieczne i szybkie oprogramowanie do zdalnego sterowania
+  pt: ToDesk, o software de controle remoto seguro e rápido
+  ro: ToDesk, software-ul de control de la distanță sigur și rapid
+  ru: ToDesk — безопасное и быстрое программное обеспечение для удалённого управления
+  th: ToDesk คือซอฟต์แวร์ควบคุมระยะไกลที่ปลอดภัยและรวดเร็ว
+  tr: ToDesk, güvenli ve hızlı uzak kontrol yazılımı
+  uk: ToDesk — безпечне та швидке програмне забезпечення для віддаленого керування
+  vi: ToDesk, phần mềm điều khiển từ xa an toàn và nhanh
 rule:
   (win|wsl2)/winget:
     cmd: x winget install Youqu.ToDesk

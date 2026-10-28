@@ -3,6 +3,22 @@ homepage: https://github.com/Unitech/pm2
 desc:
   cn: Node.js 应用程序的生产流程管理器，具有内置负载均衡器
   en: Node.js Production Process Manager with a built-in Load Balancer
+  cs: Správce produkčních procesů Node.js s vestavěným vyvažovačem zátěže
+  de: Node.js Production Process Manager mit integriertem Load Balancer
+  es: Gestor de procesos de producción de Node.js con balanceador de carga integrado
+  fr: Gestionnaire de processus de production Node.js avec répartiteur de charge intégré
+  id: Pengelola Proses Produksi Node.js dengan Load Balancer bawaan
+  it: Process Manager di produzione Node.js con load balancer integrato
+  ja: 組み込みのロードバランサーを持つ Node.js 本番プロセスマネージャー
+  ko: 내장 로드 밸런서를 갖춘 Node.js 프로덕션 프로세스 관리자
+  pl: Menedżer procesów produkcyjnych Node.js z wbudowanym load balancerem
+  pt: Gerenciador de processos de produção do Node.js com balanceador de carga integrado
+  ro: Manager de procese de producție Node.js cu un load balancer încorporat
+  ru: Менеджер производственных процессов Node.js со встроенным балансировщиком нагрузки
+  th: ตัวจัดการกระบวนการในการผลิตของ Node.js พร้อมตัวปรับสมดุลโหลดในตัว
+  tr: Yerleşik yük dengeleyici ile Node.js üretim süreç yöneticisi
+  uk: Менеджер виробничих процесів Node.js із вбудованим балансувальником навантаження
+  vi: Trình quản lý tiến trình sản xuất Node.js với bộ cân bằng tải tích hợp
 x:
   source: https://github.com/Unitech/pm2
   npm: pm2

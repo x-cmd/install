@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: 为 Linux 操作系统提供音频和 MIDI 功能
   en: Provides audio and MIDI functionality to the Linux operating system
+  cs: Poskytuje zvukové a MIDI funkce pro operační systém Linux
+  de: Bietet Audio- und MIDI-Funktionalität für das Linux-Betriebssystem
+  es: Proporciona funciones de audio y MIDI para el sistema operativo Linux
+  fr: Fournit des fonctionnalités audio et MIDI pour le système d'exploitation Linux
+  id: Menyediakan fungsi audio dan MIDI untuk sistem operasi Linux
+  it: Fornisce funzionalità audio e MIDI per il sistema operativo Linux
+  ja: Linux オペレーティングシステムにオーディオと MIDI の機能を提供します
+  ko: Linux 운영 체제에 오디오 및 MIDI 기능을 제공합니다
+  pl: Zapewnia funkcje audio i MIDI dla systemu operacyjnego Linux
+  pt: Fornece funcionalidades de áudio e MIDI para o sistema operacional Linux
+  ro: Oferă funcționalități audio și MIDI pentru sistemul de operare Linux
+  ru: Предоставляет аудио- и MIDI-возможности для операционной системы Linux
+  th: ให้ฟังก์ชันด้านเสียงและ MIDI สำหรับระบบปฏิบัติการ Linux
+  tr: Linux işletim sistemi için ses ve MIDI işlevselliği sağlar
+  uk: Надає аудіо- та MIDI-можливості для операційної системи Linux
+  vi: Cung cấp chức năng âm thanh và MIDI cho hệ điều hành Linux
 x:
   source: https://github.com/alsa-project/alsa-lib
   brew: alsa-lib

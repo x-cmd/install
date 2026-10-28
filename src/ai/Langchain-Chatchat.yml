@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 基于 Langchain 与 ChatGLM、Qwen、Llama 等语言模型的本地知识 RAG 与 Agent 应用（原 Langchain-ChatGLM）
   en: Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and...
+  cs: Langchain-Chatchat (dříve langchain-ChatGLM) je aplikace RAG a Agent postavená na Langchain a jazykových modelech jako ChatGLM, Qwen a Llama pro znalosti založené na lokálních datech
+  de: Langchain-Chatchat (früher langchain-ChatGLM) ist eine RAG- und Agent-Anwendung auf Basis von Langchain und Sprachmodellen wie ChatGLM, Qwen und Llama für lokales Wissens-RAG
+  es: Langchain-Chatchat (anteriormente langchain-ChatGLM) es una aplicación RAG y Agent basada en Langchain y modelos de lenguaje como ChatGLM, Qwen y Llama para conocimiento local
+  fr: Langchain-Chatchat (anciennement langchain-ChatGLM) est une application RAG et Agent fondée sur Langchain et des modèles de langage comme ChatGLM, Qwen et Llama pour les connaissances locales
+  id: Langchain-Chatchat (sebelumnya langchain-ChatGLM) adalah aplikasi RAG dan Agent berbasis Langchain serta model bahasa seperti ChatGLM, Qwen, dan Llama untuk pengetahuan lokal
+  it: Langchain-Chatchat (in precedenza langchain-ChatGLM) è un'applicazione RAG e Agent basata su Langchain e modelli linguistici come ChatGLM, Qwen e Llama per la conoscenza locale
+  ja: Langchain-Chatchat (旧 langchain-ChatGLM) は、Langchain と ChatGLM、Qwen、Llama などの言語モデルを利用した、ローカルナレッジ向けの RAG および Agent アプリケーションです
+  ko: Langchain-Chatchat(이전 langchain-ChatGLM)는 Langchain와 ChatGLM, Qwen, Llama 등의 언어 모델을 이용한 로컬 지식 기반 RAG 및 Agent 애플리케이션입니다
+  pl: Langchain-Chatchat (dawniej langchain-ChatGLM) to aplikacja RAG i Agent oparta na Langchain oraz modelach językowych takich jak ChatGLM, Qwen i Llama, do lokalnej wiedzy
+  pt: Langchain-Chatchat (anteriormente langchain-ChatGLM) é um aplicativo RAG e Agent baseado em Langchain e modelos de linguagem como ChatGLM, Qwen e Llama para conhecimento local
+  ro: Langchain-Chatchat (formerly langchain-ChatGLM) este o aplicație RAG și Agent bazată pe Langchain și modele de limbaj precum ChatGLM, Qwen și Llama pentru cunoștințe locale
+  ru: Langchain-Chatchat (ранее langchain-ChatGLM) — приложение RAG и Agent на базе Langchain и языковых моделей, таких как ChatGLM, Qwen и Llama, для локальных знаний
+  th: Langchain-Chatchat (เดิมชื่อ langchain-ChatGLM) คือแอปพลิเคชัน RAG และ Agent ที่สร้างบน Langchain และโมเดลภาษาอย่าง ChatGLM, Qwen และ Llama สำหรับความรู้ในเครื่อง
+  tr: Langchain-Chatchat (önceden langchain-ChatGLM), Langchain ve ChatGLM, Qwen, Llama gibi dil modellerini kullanan yerel bilgi tabanlı RAG ve Agent uygulamasıdır
+  uk: Langchain-Chatchat (раніше langchain-ChatGLM) — застосунок RAG та Agent на базі Langchain і мовних моделей, таких як ChatGLM, Qwen та Llama, для локальних знань
+  vi: Langchain-Chatchat (trước đây là langchain-ChatGLM) là ứng dụng RAG và Agent dựa trên Langchain cùng các mô hình ngôn ngữ như ChatGLM, Qwen và Llama cho tri thức cục bộ
 x:
   source: https://github.com/chatchat-space/Langchain-Chatchat
   eget: chatchat-space/Langchain-Chatchat

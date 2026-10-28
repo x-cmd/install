@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Obsidian 的 Agent 技能,让 Agent 使用 Obsidian CLI 和 Markdown、Bases、JSON Canvas 等开放格式
   en: Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+  cs: Agent skills pro Obsidian. Naučte svého agenta používat Obsidian CLI a otevřené formáty včetně Markdown, Bases a JSON Canvas.
+  de: Agent-Skills für Obsidian. Bringe deinem Agenten bei, Obsidian CLI und offene Formate wie Markdown, Bases und JSON Canvas zu nutzen.
+  es: Habilidades de agente para Obsidian. Enseña a tu agente a usar Obsidian CLI y formatos abiertos como Markdown, Bases y JSON Canvas.
+  fr: Compétences d'agent pour Obsidian. Apprenez à votre agent à utiliser Obsidian CLI et des formats ouverts comme Markdown, Bases et JSON Canvas.
+  id: Keterampilan agent untuk Obsidian. Ajarkan agen Anda menggunakan Obsidian CLI dan format terbuka termasuk Markdown, Bases, JSON Canvas.
+  it: Skill dell'agente per Obsidian. Insegna al tuo agente a usare Obsidian CLI e formati aperti come Markdown, Bases e JSON Canvas.
+  ja: Obsidian 用のエージェントスキル。Obsidian CLI と Markdown、Bases、JSON Canvas などのオープンフォーマットの使い方をエージェントに教えます。
+  ko: Obsidian용 에이전트 스킬. 에이전트가 Obsidian CLI와 Markdown, Bases, JSON Canvas 같은 열린 형식을 사용하도록 알려줍니다.
+  pl: Umiejętności agenta dla Obsidian. Naucz swojego agenta korzystać z Obsidian CLI i otwartych formatów, takich jak Markdown, Bases i JSON Canvas.
+  pt: Habilidades de agente para o Obsidian. Ensine seu agente a usar o Obsidian CLI e formatos abertos como Markdown, Bases e JSON Canvas.
+  ro: Skill-uri de agent pentru Obsidian. Învață-ți agentul să folosească Obsidian CLI și formate deschise precum Markdown, Bases și JSON Canvas.
+  ru: Навыки агентов для Obsidian. Научите своего агента использовать Obsidian CLI и открытые форматы, включая Markdown, Bases и JSON Canvas.
+  th: ทักษะเอเจนต์สำหรับ Obsidian สอนเอเจนต์ของคุณให้ใช้ Obsidian CLI และรูปแบบเปิด เช่น Markdown, Bases และ JSON Canvas
+  tr: Obsidian için ajan becerileri. Ajanınıza Obsidian CLI'ı ve Markdown, Bases, JSON Canvas gibi açık formatları kullanmayı öğretin.
+  uk: Навички агентів для Obsidian. Навчіть свого агента користуватися Obsidian CLI та відкритими форматами, зокрема Markdown, Bases і JSON Canvas.
+  vi: Kỹ năng tác nhân cho Obsidian. Dạy tác nhân của bạn sử dụng Obsidian CLI và các định dạng mở như Markdown, Bases, JSON Canvas.
 x:
   source: https://github.com/kepano/obsidian-skills
   eget: kepano/obsidian-skills

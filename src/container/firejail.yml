@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Firejail 是一个 SUID 沙箱程序，通过使用 Linux 命名空间、seccomp-bpf 和 Linux 功能来限制不受信任的应用程序的运行环境，从而降低安全漏洞的风险
   en: Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
+  cs: Firejail je programový sandbox SUID, který snižuje riziko narušení bezpečnosti omezením běhového prostředí nedůvěryhodných aplikací pomocí jmených prostor Linuxu, seccomp-bpf a linuxových capabilities
+  de: Firejail ist ein SUID-Sandbox-Program, das das Risiko von Sicherheitslücken verringert, indem es die Laufzeitumgebung nicht vertrauenswürdiger Anwendungen mittels Linux-Namespaces, seccomp-bpf und Linux-Capabilities einschränkt
+  es: Firejail es un programa de sandbox con SUID que reduce el riesgo de brechas de seguridad al restringir el entorno de ejecución de aplicaciones no confiables mediante namespaces de Linux, seccomp-bpf y capacidades de Linux
+  fr: Firejail est un programme de bac à sable SUID qui réduit le risque de failles de sécurité en restreignant l'environnement d'exécution des applications non fiables à l'aide des espaces de noms Linux, de seccomp-bpf et des capabilities Linux
+  id: Firejail adalah program sandbox SUID yang mengurangi risiko kebocoran keamanan dengan membatasi lingkungan eksekusi aplikasi tidak tepercaya menggunakan namespace Linux, seccomp-bpf, dan capability Linux
+  it: Firejail è un programma sandbox SUID che riduce il rischio di violazioni della sicurezza limitando l'ambiente di esecuzione delle applicazioni non attendibili tramite i namespace Linux, seccomp-bpf e le capability Linux
+  ja: Firejail は SUID サンドボックスプログラムで、Linux 名前空間、seccomp-bpf、Linux capability を使って信頼できないアプリケーションの実行環境を制限し、セキュリティ侵害のリスクを減らします
+  ko: Firejail은 SUID 샌드박스 프로그램으로, Linux 네임스페이스, seccomp-bpf, Linux capability를 사용해 신뢰할 수 없는 애플리케이션의 실행 환경을 제한하여 보안 침해 위험을 줄입니다
+  pl: Firejail to program piaskowy SUID, który zmniejsza ryzyko naruszeń bezpieczeństwa, ograniczając środowisko uruchomienia niezaufanych aplikacji za pomocą przestrzeni nazw Linux, seccomp-bpf i możliwości (capabilities) Linuksa
+  pt: O Firejail é um programa de sandbox SUID que reduz o risco de violações de segurança restringindo o ambiente de execução de aplicativos não confiáveis por meio de namespaces do Linux, seccomp-bpf e capabilities do Linux
+  ro: Firejail este un program sandbox SUID care reduce riscul breach-urilor de securitate restricționând mediul de execuție al aplicațiilor neîncrezute cu ajutorul spațiilor de nume Linux, seccomp-bpf și capability-urile Linux
+  ru: Firejail — это программа-песочница с SUID, снижающая риск нарушений безопасности за счёт ограничения среды выполнения недоверенных приложений с помощью пространств имён Linux, seccomp-bpf и capability Linux
+  th: Firejail เป็นโปรแกรม sandbox แบบ SUID ที่ลดความเสี่ยงของการละเมิดความปลอดภัยด้วยการจำกัดสภาพแวดล้อมการทำงานของแอปที่ไม่น่าเชื่อถือ โดยใช้ namespace ของ Linux, seccomp-bpf และ capability ของ Linux
+  tr: Firejail, Linux ad alan adları, seccomp-bpf ve Linux yeteneklerini kullanarak güvenilmeyen uygulamaların çalışma ortamını kısıtlayarak güvenlik ihlali riskini azaltan bir SUID sandbox programıdır
+  uk: Firejail — це програма-пісочниця з SUID, яка знижує ризик порушень безпеки, обмежуючи середовище виконання недовірених застосунків за допомогою просторів імен Linux, seccomp-bpf і capability Linux
+  vi: Firejail là chương trình sandbox SUID giảm rủi ro vi phạm bảo mật bằng cách giới hạn môi trường thực thi của các ứng dụng không đáng tin cậy thông qua namespace Linux, seccomp-bpf và capability Linux
 x:
   source: https://github.com/netblue30/firejail
   eget: netblue30/firejail

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Zig 是一个通用的编程语言和工具链，用于维护稳健、高效和可重用的软件
   en: Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
+  cs: Zig je univerzální programovací jazyk a sada nástrojů pro údržbu robustního, optimálního a opakovaně použitelného softwaru
+  de: Zig ist eine allgemeine Programmiersprache und Toolchain für die Wartung robuster, optimaler und wiederverwendbarer Software
+  es: Zig es un lenguaje de programación y un conjunto de herramientas de propósito general para mantener software robusto, óptimo y reutilizable
+  fr: Zig est un langage de programmation et une chaîne d'outils à usage général pour maintenir des logiciels robustes, optimaux et réutilisables
+  id: Zig adalah bahasa pemrograman serbaguna dan perangkat lunak untuk mengelola perangkat lunak yang kuat, optimal, dan dapat digunakan kembali
+  it: Zig è un linguaggio di programmazione e una toolchain general-purpose per mantenere software robusto, ottimale e riutilizzabile
+  ja: Zig は、堅牢で最適かつ再利用可能なソフトウェアを維持するための汎用プログラミング言語とツールチェーンです
+  ko: Zig은 견고하고 최적이며 재사용 가능한 소프트웨어를 관리하기 위한 범용 프로그래밍 언어이자 툴체인입니다
+  pl: Zig to uniwersalny język programowania i łańcuch narzędzi do utrzymywania solidnego, optymalnego i wielokrotnego użytku oprogramowania
+  pt: Zig é uma linguagem de programação e um conjunto de ferramentas de uso geral para manter software robusto, ideal e reutilizável
+  ro: Zig este un limbaj de programare și un lanț de instrumente de uz general pentru întreținerea software-ului robust, optim și reutilizabil
+  ru: Zig — это универсальный язык программирования и набор инструментов для сопровождения надёжного, оптимального и переиспользуемого программного обеспечения
+  th: Zig เป็นภาษาโปรแกรมและชุดเครื่องมืออเนกประสงค์สำหรับการดูแลซอฟต์แวร์ที่มั่นคง เหมาะยม และนำกลับมาใช้ได้
+  tr: Zig, sağlam, en uygun ve yeniden kullanılabilir yazılımı sürdürmek için genel amaçlı bir programlama dili ve araç zinciridir
+  uk: Zig — це універсальна мова програмування та інструментарій для підтримки надійного, оптимального та придатного для повторного використання програмного забезпечення
+  vi: Zig là ngôn ngữ lập trình và bộ công cụ đa năng để duy trì phần mềm vững chắc, tối ưu và có thể tái sử dụng
 x:
   source: https://github.com/ziglang/zig
   eget: ziglang/zig

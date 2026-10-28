@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 源代码拼写检查器
   en: Source code spell checker
+  cs: Kontrola pravopisu zdrojového kódu
+  de: Rechtschreibprüfer für Quellcode
+  es: Corrector ortográfico del código fuente
+  fr: Vérificateur d'orthographe du code source
+  id: Pemeriksa ejaan kode sumber
+  it: Correttore ortografico del codice sorgente
+  ja: ソースコードのスペルチェッカー
+  ko: 소스 코드 맞춤법 검사기
+  pl: Korektor pisowni kodu źródłowego
+  pt: Verificador de ortografia do código-fonte
+  ro: Verificator de ortografie a codului sursă
+  ru: Проверка орфографии исходного кода
+  th: ตัวตรวจการสะกดของซอร์สโค้ด
+  tr: Kaynak kodu yazım denetleyicisi
+  uk: Перевірка орфографії вихідного коду
+  vi: Trình kiểm tra chính tả mã nguồn
 x:
   source: https://github.com/crate-ci/typos
   eget: crate-ci/typos

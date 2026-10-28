@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: chezmoi 的 TUI 界面
   en: 'TUI for chezmoi'
+  cs: TUI pro chezmoi
+  de: TUI für chezmoi
+  es: TUI para chezmoi
+  fr: TUI pour chezmoi
+  id: TUI untuk chezmoi
+  it: TUI per chezmoi
+  ja: chezmoiのTUIフロントエンド
+  ko: chezmoi를 위한 TUI
+  pl: TUI dla chezmoi
+  pt: TUI para o chezmoi
+  ro: TUI pentru chezmoi
+  ru: TUI-интерфейс для chezmoi
+  th: TUI สำหรับ chezmoi
+  tr: chezmoi için TUI
+  uk: TUI для chezmoi
+  vi: Giao diện TUI cho chezmoi
 x:
   source: https://github.com/djetelina/cheznav
   eget: djetelina/cheznav

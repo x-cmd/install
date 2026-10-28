@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: 深度集成了 AI 辅助编程功能的现代化代码编辑器
   en: A modern code editor with deep AI-assisted coding integration
+  cs: Moderní editor kódu s hluboce integrovanou AI podporou kódování
+  de: Ein moderner Code-Editor mit tief integrierter KI-Unterstützung beim Programmieren
+  es: Un editor de código moderno con integración profunda de programación asistida por IA
+  fr: Un éditeur de code moderne avec une intégration approfondie de la programmation assistée par IA
+  id: Editor kode modern dengan integrasi pemrograman dibantu AI secara mendalam
+  it: Un editor di codice moderno con profonda integrazione della programmazione assistita da IA
+  ja: AI によるコーディング支援を深く統合したモダンなコードエディタ
+  ko: AI 보조 코딩이 깊이 통합된 현대적인 코드 편집기
+  pl: Nowoczesny edytor kodu z głęboką integracją programowania wspomaganego przez AI
+  pt: Um editor de código moderno com integração profunda de programação assistida por IA
+  ro: Un editor de cod modern, cu integrare profundă a programării asistate de AI
+  ru: Современный редактор кода с глубокой интеграцией ИИ-помощи при написании кода
+  th: โปรแกรมแก้ไขโค้ดสมัยใหม่ที่รองรับการเขียนโค้ดด้วยความช่วยเหลือของ AI อย่างลึกซึ้ง
+  tr: Derin yapay zeka destekli kodlama entegrasyonuna sahip modern bir kod düzenleyici
+  uk: Сучасний редактор коду з глибокою інтеграцією ШІ-підтримки написання коду
+  vi: Trình chỉnh sửa mã hiện đại với tích hợp sâu lập trình hỗ trợ bởi AI
 x:
   source: https://github.com/getcursor/cursor
   winget: Cursor.Cursor

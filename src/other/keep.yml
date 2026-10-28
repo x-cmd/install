@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Meta CLI 工具包：个人 shell 命令管理器和 snippets 管理器
   en: 'A Meta CLI toolkit : Personal shell command keeper and snippets manager'
+  cs: "Sada nástrojů Meta CLI: osobní správce příkazů shellu a správce úryvků"
+  de: "Meta CLI-Toolkit: persönlicher Shell-Befehlsverwalter und Snippet-Manager"
+  es: "Kit de herramientas Meta CLI: gestor personal de comandos de shell y gestor de fragmentos de código"
+  fr: "Boîte à outils Meta CLI : gestionnaire personnel de commandes shell et gestionnaire de snippets"
+  id: "Kit alat Meta CLI: pengelola perintah shell pribadi dan pengelola cuplikan kode"
+  it: "Toolkit Meta CLI: gestore personale dei comandi shell e gestore degli snippet"
+  ja: Meta CLI ツールキット：個人のシェルコマンド管理とスニペット管理
+  ko: "Meta CLI 툴킷: 개인 셸 명령 관리자 및 스니펫 관리자"
+  pl: "Zestaw narzędzi Meta CLI: osobisty menedżer poleceń shella i menedżer fragmentów kodu"
+  pt: "Kit de ferramentas Meta CLI: gerenciador pessoal de comandos de shell e gerenciador de snippets"
+  ro: "Set de instrumente Meta CLI: manager personal de comenzi shell și manager de fragmente de cod"
+  ru: "Набор инструментов Meta CLI: личный менеджер команд оболочки и менеджер сниппетов"
+  th: "ชุดเครื่องมือ Meta CLI: ตัวจัดการคำสั่งเชลส่วนตัวและตัวจัดการข้อมูลโค้ดย่อ"
+  tr: "Meta CLI araç seti: kişisel kabuk komutu yöneticisi ve snippet yöneticisi"
+  uk: "Набір інструментів Meta CLI: особистий менеджер команд оболонки та менеджер снипетів"
+  vi: "Bộ công cụ Meta CLI: trình quản lý lệnh shell cá nhân và trình quản lý đoạn mã"
 x:
   source: https://github.com/orkohunter/keep
 rule:

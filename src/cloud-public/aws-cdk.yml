@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: AWS 云开发工具包是一个用于在代码中定义云基础设施的框架
   en: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+  cs: AWS Cloud Development Kit je framework pro definování cloudové infrastruktury v kódu
+  de: Das AWS Cloud Development Kit ist ein Framework zum Definieren von Cloud-Infrastruktur in Code
+  es: AWS Cloud Development Kit es un framework para definir infraestructura de nube en código
+  fr: L'AWS Cloud Development Kit est un framework permettant de définir l'infrastructure cloud dans le code
+  id: AWS Cloud Development Kit adalah framework untuk menentukan infrastruktur cloud di dalam kode
+  it: AWS Cloud Development Kit è un framework per definire l'infrastruttura cloud nel codice
+  ja: AWS Cloud Development Kit は、コードでクラウドインフラストラクチャを定義するためのフレームワークです
+  ko: AWS Cloud Development Kit은 코드로 클라우드 인프라를 정의하기 위한 프레임워크입니다
+  pl: AWS Cloud Development Kit to framework do definiowania infrastruktury chmurowej w kodzie
+  pt: O AWS Cloud Development Kit é um framework para definir a infraestrutura de nuvem em código
+  ro: AWS Cloud Development Kit este un cadru pentru definirea infrastructurii cloud în cod
+  ru: AWS Cloud Development Kit — это фреймворк для определения облачной инфраструктуры в коде
+  th: AWS Cloud Development Kit คือเฟรมเวิร์กสำหรับการกำหนดโครงสร้างพื้นฐานคลาวด์ในโค้ด
+  tr: AWS Cloud Development Kit, bulut altyapısını kod içinde tanımlamak için bir çerçevedir
+  uk: AWS Cloud Development Kit — це фреймворк для визначення хмарної інфраструктури в коді
+  vi: AWS Cloud Development Kit là framework để định nghĩa hạ tầng đám mây bằng mã nguồn
 x:
   source: https://github.com/aws/aws-cdk
   eget: aws/aws-cdk

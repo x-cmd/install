@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于检查 HTTP 请求并在终端中模拟其响应的交互式 Web 服务器。
   en: An interactive web server for inspecting HTTP requests and mocking their responses in the terminal.
+  cs: Interaktivní webový server pro kontrolu HTTP požadavků a simulaci jejich odpovědí v terminálu.
+  de: Ein interaktiver Webserver zum Inspectieren von HTTP-Anfragen und Mocken ihrer Antworten im Terminal.
+  es: Un servidor web interactivo para inspeccionar solicitudes HTTP y simular sus respuestas en la terminal.
+  fr: Un serveur web interactif pour inspecter les requêtes HTTP et simuler leurs réponses dans le terminal.
+  id: Server web interaktif untuk memeriksa permintaan HTTP dan meniru responsnya di terminal.
+  it: Un server web interattivo per ispezionare le richieste HTTP e simulare le relative risposte nel terminale.
+  ja: ターミナル上で HTTP リクエストを検査し、そのレスポンスをモックするインタラクティブな Web サーバー。
+  ko: 터미널에서 HTTP 요청을 검사하고 응답을 모킹하는 대화형 웹 서버.
+  pl: Interaktywny serwer WWW do inspekcji żądań HTTP i symulowania ich odpowiedzi w terminalu.
+  pt: Um servidor web interativo para inspecionar requisições HTTP e simular suas respostas no terminal.
+  ro: Un server web interactiv pentru inspectarea cererilor HTTP și simularea răspunsurilor lor în terminal.
+  ru: Интерактивный веб-сервер для проверки HTTP-запросов и имитации их ответов в терминале.
+  th: เว็บเซิร์ฟเวอร์แบบโต้ตอบสำหรับตรวจสอบคำขอ HTTP และจำลองการตอบกลับในเทอร์มินัล๏
+  tr: Terminalde HTTP isteklerini incelemek ve yanıtlarını taklit etmek için etkileşimli web sunucusu.
+  uk: Інтерактивний вебсервер для перевірки HTTP-запитів та імітації їх відповідей у терміналі.
+  vi: Máy chủ web tương tác để kiểm tra các yêu cầu HTTP và mô phỏng phản hồi của chúng trong terminal.
 x:
   source: https://github.com/qustavo/httplab
   go: github.com/gchaincl/httplab/cmd/httplab@latest

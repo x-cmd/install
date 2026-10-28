@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: hcloud 是用于与 Hetzner Cloud 交互的命令行工具。
   en: hcloud is a command-line interface for interacting with Hetzner Cloud.
+  cs: hcloud je rozhraní příkazového řádku pro interakci s Hetzner Cloud.
+  de: hcloud ist eine Befehlszeilenschnittstelle zur Interaktion mit Hetzner Cloud.
+  es: hcloud es una interfaz de línea de comandos para interactuar con Hetzner Cloud.
+  fr: hcloud est une interface de ligne de commande pour interagir avec Hetzner Cloud.
+  id: hcloud adalah antarmuka baris perintah untuk berinteraksi dengan Hetzner Cloud.
+  it: hcloud è un'interfaccia a riga di comando per interagire con Hetzner Cloud.
+  ja: hcloud は Hetzner Cloud と対話するためのコマンドラインインターフェースです。
+  ko: hcloud는 Hetzner Cloud와 상호작용하기 위한 명령줄 인터페이스입니다.
+  pl: hcloud to interfejs wiersza poleceń do interakcji z Hetzner Cloud.
+  pt: hcloud é uma interface de linha de comando para interagir com o Hetzner Cloud.
+  ro: hcloud este o interfață de linie de comandă pentru interacțiunea cu Hetzner Cloud.
+  ru: hcloud — это интерфейс командной строки для взаимодействия с Hetzner Cloud.
+  th: hcloud คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับการโต้ตอบกับ Hetzner Cloud
+  tr: hcloud, Hetzner Cloud ile etkileşim kurmak için bir komut satırı arayüzüdür.
+  uk: hcloud — це інтерфейс командного рядка для взаємодії з Hetzner Cloud.
+  vi: hcloud là giao diện dòng lệnh để tương tác với Hetzner Cloud.
 x:
   source: https://github.com/hetznercloud/cli
   eget: hetznercloud/cli

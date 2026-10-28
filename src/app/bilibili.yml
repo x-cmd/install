@@ -3,6 +3,22 @@ homepage: https://app.bilibili.com/
 desc:
   cn: 哔哩哔哩官方客户端
   en: Bilibili Official Client
+  cs: Oficiální klient Bilibili
+  de: Offizieller Bilibili-Client
+  es: Cliente oficial de Bilibili
+  fr: Client officiel de Bilibili
+  id: Klien resmi Bilibili
+  it: Client ufficiale di Bilibili
+  ja: Bilibili 公式クライアント
+  ko: Bilibili 공식 클라이언트
+  pl: Oficjalny klient Bilibili
+  pt: Cliente oficial do Bilibili
+  ro: Clientul oficial Bilibili
+  ru: Официальный клиент Bilibili
+  th: ไคลเอนต์ทางการของ Bilibili
+  tr: Resmi Bilibili istemcisi
+  uk: Офіційний клієнт Bilibili
+  vi: Ứng dụng chính thức của Bilibili
 rule:
   darwin/brew:
     cmd: brew install --cask bilibili

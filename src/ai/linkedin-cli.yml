@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 对 AI 智能体友好的 CLI，用于控制 LinkedIn 账号并获取实时数据
   en: AI-agent-friendly CLI for controlling LinkedIn accounts and retrieving real-time data.
+  cs: CLI přátelské AI agentům pro ovládání účtů LinkedIn a získávání dat v reálném čase.
+  de: KI-Agenten-freundliche CLI zur Steuerung von LinkedIn-Konten und Abruf von Echtzeitdaten.
+  es: CLI compatible con agentes de IA para controlar cuentas de LinkedIn y obtener datos en tiempo real.
+  fr: CLI compatible avec les agents IA pour contrôler les comptes LinkedIn et récupérer des données en temps réel.
+  id: CLI ramah agen AI untuk mengendalikan akun LinkedIn dan mengambil data real-time.
+  it: CLI compatibile con gli agenti IA per controllare gli account LinkedIn e recuperare dati in tempo reale.
+  ja: LinkedInアカウントの制御とリアルタイムデータの取得のためのAIエージェント向けCLI。
+  ko: LinkedIn 계정을 제어하고 실시간 데이터를 가져오기 위한 AI 에이전트 친화적 CLI.
+  pl: Przyjazne agentom AI CLI do sterowania kontami LinkedIn i pobierania danych w czasie rzeczywistym.
+  pt: CLI amigável para agentes de IA, para controlar contas do LinkedIn e obter dados em tempo real.
+  ro: CLI prietenos cu agenții AI pentru controlul conturilor LinkedIn și obținerea datelor în timp real.
+  ru: CLI, дружелюбный к ИИ-агентам, для управления аккаунтами LinkedIn и получения данных в реальном времени.
+  th: CLI ที่เป็นมิตรกับเอเจนต์ AI สำหรับควบคุมบัญชี LinkedIn และดึงข้อมูลแบบเรียลไทม์
+  tr: LinkedIn hesaplarını yönetmek ve gerçek zamanlı veri almak için AI ajan dostu CLI.
+  uk: CLI, дружній до ШІ-агентів, для керування обліковими записами LinkedIn і отримання даних у реальному часі.
+  vi: CLI thân thiện với tác tử AI để điều khiển tài khoản LinkedIn và lấy dữ liệu thời gian thực.
 x:
   source: https://github.com/Linked-API/linkedin-cli
   eget: Linked-API/linkedin-cli

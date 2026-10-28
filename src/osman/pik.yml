@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Process Interactive Kill 是一个命令行工具，用于查找并终止进程
   en: Process Interactive Kill is a command line tool that helps to find and kill process
+  cs: Process Interactive Kill je nástroj příkazové řádky, který pomáhá najít a ukončit proces.
+  de: Process Interactive Kill ist ein Kommandozeilenwerkzeug, das dabei hilft, Prozesse zu finden und zu beenden.
+  es: Process Interactive Kill es una herramienta de línea de comandos que ayuda a encontrar y terminar procesos.
+  fr: Process Interactive Kill est un outil en ligne de commande qui permet de trouver et de tuer des processus.
+  id: Process Interactive Kill adalah alat baris perintah yang membantu menemukan dan menghentikan proses.
+  it: Process Interactive Kill è uno strumento da riga di comando che aiuta a trovare e terminare i processi.
+  ja: Process Interactive Killは、プロセスの検出と終了を支援するコマンドラインツールです。
+  ko: Process Interactive Kill은 프로세스를 찾고 종료하는 데 도움을 주는 명령줄 도구입니다.
+  pl: Process Interactive Kill to narzędzie wiersza poleceń, które pomaga znaleźć i zakończyć proces.
+  pt: O Process Interactive Kill é uma ferramenta de linha de comando que ajuda a localizar e encerrar processos.
+  ro: Process Interactive Kill este o instrument de linie de comandă care ajută la găsirea și oprirea proceselor.
+  ru: Process Interactive Kill — это инструмент командной строки, который помогает находить и завершать процессы.
+  th: Process Interactive Kill เป็นเครื่องมือบรรทัดคำสั่งที่ช่วยค้นหาและปิดกระบวนการ
+  tr: Process Interactive Kill, süreçleri bulmaya ve sonlandırmaya yardımcı olan bir komut satırı aracıdır.
+  uk: Process Interactive Kill — це інструмент командного рядка, який допомагає знаходити та завершувати процеси.
+  vi: Process Interactive Kill là công cụ dòng lệnh giúp tìm kiếm và kết thúc tiến trình.
 x:
   source: https://github.com/jacek-kurlit/pik
   eget: jacek-kurlit/pik

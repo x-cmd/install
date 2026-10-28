@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 管理 Ollama 模型的 Go 工具
   en: 'Go manage your Ollama models'
+  cs: Nástroj v jazyce Go pro správu modelů Ollama
+  de: Go-Tool zum Verwalten deiner Ollama-Modelle
+  es: Herramienta en Go para gestionar tus modelos de Ollama
+  fr: Outil Go pour gérer vos modèles Ollama
+  id: Alat Go untuk mengelola model Ollama Anda
+  it: Strumento Go per gestire i tuoi modelli Ollama
+  ja: Ollama モデルを管理する Go ツール
+  ko: Ollama 모델을 관리하는 Go 도구
+  pl: Narzędzie w Go do zarządzania modelami Ollama
+  pt: Ferramenta em Go para gerenciar seus modelos Ollama
+  ro: Instrument în Go pentru gestionarea modelelor tale Ollama
+  ru: Инструмент на Go для управления моделями Ollama
+  th: เครื่องมือภาษา Go สำหรับจัดการโมเดล Ollama ของคุณ
+  tr: Ollama modellerinizi yönetmek için Go aracı
+  uk: Інструмент на Go для керування моделями Ollama
+  vi: Công cụ Go để quản lý các mô hình Ollama của bạn
 x:
   source: https://github.com/sammcj/gollama
   eget: sammcj/gollama

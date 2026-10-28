@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: A command line based editor inspired by Vim written in Nim
   cn: 一个受到 Vim 启发、用 Nim 语言编写的基于命令行的编辑器
+  cs: Editor založený na příkazové řádce, inspirovaný Vimem, napsaný v Nim
+  de: Ein auf der Befehlszeile basierender Editor, inspiriert von Vim, geschrieben in Nim
+  es: Un editor basado en línea de órdenes inspirado en Vim, escrito en Nim
+  fr: Un éditeur en ligne de commande inspiré de Vim, écrit en Nim
+  id: Editor berbasis baris perintah terinspirasi Vim, ditulis dalam Nim
+  it: Un editor da riga di comando ispirato a Vim, scritto in Nim
+  ja: Vim に着想を得たコマンドラインエディタ、Nim で書かれました
+  ko: Vim에서 영감을 받은 명령줄 기반 에디터, Nim으로 작성됨
+  pl: Edytor oparty na wierszu poleceń, inspirowany Vimem, napisany w Nim
+  pt: Um editor baseado em linha de comando inspirado no Vim, escrito em Nim
+  ro: Un editor bazat pe linia de comandă inspirat de Vim, scris în Nim
+  ru: Консольный редактор вдохновлённый Vim, написанный на Nim
+  th: โปรแกรมแก้ไขบนบรรทัดคำสั่งที่ได้แรงบันดาลใจจาก Vim เขียนด้วย Nim
+  tr: Vim'den esinlenen, komut satırı tabanlı bir düzenleyici, Nim ile yazıldı
+  uk: Консольний редактор, натхненний Vim, написаний на Nim
+  vi: Trình soạn thảo dựa trên dòng lệnh lấy cảm hứng từ Vim, viết bằng Nim
 x:
   source: https://github.com/fox0430/moe
   yay: moe-nim

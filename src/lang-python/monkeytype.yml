@@ -3,6 +3,22 @@ homepage: https://github.com/Instagram/MonkeyType
 desc:
   cn: 一个 Python 库，通过收集运行时类型生成静态类型注释
   en: A Python library that generates static type annotations by collecting runtime types
+  cs: Knihovna Pythonu, která generuje statické typové anotace sběrem typů za běhu
+  de: Eine Python-Bibliothek, die statische Typannotationen durch das Erfassen von Laufzeittypen erzeugt
+  es: Una biblioteca de Python que genera anotaciones de tipo estáticas recopilando los tipos en tiempo de ejecución
+  fr: Une bibliothèque Python qui génère des annotations de type statiques en collectant les types à l'exécution
+  id: Pustaka Python yang menghasilkan anotasi tipe statis dengan mengumpulkan tipe saat runtime
+  it: Una libreria Python che genera annotazioni di tipo statiche raccogliendo i tipi a runtime
+  ja: 実行時に型を収集して静的型アノテーションを生成する Python ライブラリです
+  ko: 런타임에 타입을 수집하여 정적 타입 주석을 생성하는 Python 라이브러리
+  pl: Biblioteka Pythona generująca statyczne adnotacje typów przez zbieranie typów w czasie działania
+  pt: Uma biblioteca Python que gera anotações de tipo estáticas coletando os tipos em tempo de execução
+  ro: O bibliotecă Python care generează adnotări de tip statice prin colectarea tipurilor la runtime
+  ru: Библиотека Python, генерирующая статические аннотации типов путем сбора типов во время выполнения
+  th: ไลบรารี Python ที่สร้างคำอธิบายชนิดแบบคงที่โดยการเก็บชนิดข้อมูลระหว่างการทำงาน
+  tr: Çalışma zamanı türlerini toplayarak statik tür açıklamaları üreten bir Python kitaplığı
+  uk: Бібліотека Python, яка генерує статичні анотації типів шляхом збору типів під час виконання
+  vi: Thư viện Python tạo chú thích kiểu tĩnh bằng cách thu thập kiểu dữ liệu khi chạy
 x:
   source: https://github.com/Instagram/MonkeyType
   yay: python-monkeytype

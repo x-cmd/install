@@ -3,6 +3,22 @@ homepage: https://github.com/jedisct1/libsodium
 desc:
   cn: Sodium 是一个现代化、易于使用的软件库，用于加密、解密、签名、密码散列等
   en: Sodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing, and more
+  cs: Sodium je moderní, snadno použitelná softwarová knihovna pro šifrování, dešifrování, podpisy, hashování hesel a další
+  de: Sodium ist eine moderne, einfach zu verwendende Softwarebibliothek für Verschlüsselung, Entschlüsselung, Signaturen, Passwort-Hashing und mehr
+  es: Sodium es una biblioteca de software moderna y fácil de usar para cifrado, descifrado, firmas, hash de contraseñas y más
+  fr: Sodium est une bibliothèque logicielle moderne et facile à utiliser pour le chiffrement, le déchiffrement, les signatures, le hachage de mots de passe et plus encore
+  id: Sodium adalah pustaka perangkat lunak modern yang mudah digunakan untuk enkripsi, dekripsi, tanda tangan, hashing kata sandi, dan lainnya
+  it: Sodium è una libreria software moderna e facile da usare per crittografia, decrittografia, firme, hashing delle password e altro
+  ja: Sodium は暗号化、復号、署名、パスワードハッシュなどに使える使いやすく現代的なソフトウェアライブラリです
+  ko: Sodium는 암호화, 복호화, 서명, 비밀번호 해싱 등을 위한 현대적이고 사용하기 쉬운 소프트웨어 라이브러리입니다
+  pl: Sodium to nowoczesna, łatwa w użyciu biblioteka oprogramowania do szyfrowania, deszyfrowania, podpisów, haszowania haseł i nie tylko
+  pt: Sodium é uma biblioteca de software moderna e fácil de usar para criptografia, descriptografia, assinaturas, hash de senhas e muito mais
+  ro: Sodium este o bibliotecă software modernă și ușor de utilizat pentru criptare, decriptare, semnături, hasharea parolelor și multe altele
+  ru: Sodium — современная и простая в использовании библиотека для шифрования, расшифровки, подписей, хеширования паролей и многого другого
+  th: Sodium เป็นไลบรารีซอฟต์แวร์สมัยใหม่และใช้งานง่ายสำหรับการเข้ารหัส ถอดรหัส ลายเซ็น แฮชรหัสผ่าน และอื่น ๆ
+  tr: Sodium, şifreleme, çözme, imzalama, parola karma ve daha fazlası için modern ve kullanımı kolay bir yazılım kütüphanesidir
+  uk: Sodium — сучасна та проста у використанні бібліотека для шифрування, розшифрування, підписів, хешування паролів та іншого
+  vi: Sodium là thư viện phần mềm hiện đại, dễ dùng cho mã hóa, giải mã, chữ ký, băm mật khẩu và hơn thế nữa
 x:
   source: https://github.com/jedisct1/libsodium
   eget: jedisct1/libsodium

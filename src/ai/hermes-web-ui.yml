@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 部署自托管 Web 仪表板管理 Hermes Agent 聊天会话、配置渠道、监控用量与调度任务
   en: Deploy a self-hosted web dashboard to manage Hermes Agent chat sessions, configure channels, monitor usage, and schedule jobs.
+  cs: Nasadíte samohostovaný webový dashboard pro správu chatových relací Hermes Agent, konfiguraci kanálů, monitorování využití a plánování úloh.
+  de: Deployen Sie ein Self-hosted Web-Dashboard, um Hermes-Agent-Chatsitzungen zu verwalten, Kanäle zu konfigurieren, die Nutzung zu überwachen und Jobs zu planen.
+  es: Despliega un panel web autoalojado para gestionar las sesiones de chat de Hermes Agent, configurar canales, monitorizar el uso y programar tareas.
+  fr: Déployez un tableau de bord web auto-hébergé pour gérer les sessions de chat d'Hermes Agent, configurer les canaux, surveiller l'utilisation et planifier des tâches.
+  id: Deploy dasbor web yang di-host sendiri untuk mengelola sesi obrolan Hermes Agent, mengonfigurasi kanal, memantau penggunaan, dan menjadwalkan pekerjaan.
+  it: Distribuisci una dashboard web self-hosted per gestire le sessioni di chat di Hermes Agent, configurare i canali, monitorare l'utilizzo e pianificare i job.
+  ja: Hermes Agent のチャットセッション管理、チャネル設定、使用状況の監視、ジョブのスケジュール設定のためにセルフホスト型 Web ダッシュボードを展開します。
+  ko: Hermes Agent 채팅 세션 관리, 채널 구성, 사용량 모니터링, 작업 예약만을 위해 자체 호스팅 웹 대시보드를 배포하세요.
+  pl: Wdrożenie samodzielnie hostowany panel internetowy do zarządzania sesjami czatu Hermes Agent, konfigurowania kanałów, monitorowania zużycia i planowania zadań.
+  pt: Implante um painel web auto-hospedado para gerenciar sessões de chat do Hermes Agent, configurar canais, monitorar o uso e agendar tarefas.
+  ro: Implementează un panou web auto-găzduit pentru a gestiona sesiunile de chat din Hermes Agent, a configura canalele, a monitoriza utilizarea și a programa sarcini.
+  ru: Разверните самостоятельно размещаемый веб-дашборд для управления сессиями чата Hermes Agent, настройки каналов, мониторинга использования и планирования задач.
+  th: ติดตั้งแดชบอร์ดเว็บที่โฮสต์เองเพื่อจัดการเซสชันแชทของ Hermes Agent กำหนดค่าช่องทาง ตรวจสอบการใช้งาน และกำหนดงาน
+  tr: Hermes Agent sohbet oturumlarını yönetmek, kanalları yapılandırmak, kullanımı izlemek ve işleri zamanlamak için self-hosted bir web panosu dağıtın.
+  uk: Розгорніть самостійно розміщуваний веб-дашборд для керування сесіями чату Hermes Agent, налаштування каналів, моніторингу використання та планування завдань.
+  vi: Triển khai bảng điều khiển web tự lưu trữ để quản lý các phiên trò chuyện của Hermes Agent, cấu hình kênh, theo dõi mức sử dụng và lên lịch công việc.
 x:
   source: https://github.com/EKKOLearnAI/hermes-web-ui
   npm: hermes-web-ui

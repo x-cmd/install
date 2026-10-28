@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端实时网络诊断，一条命令零配置即时可见
   en: 'Real-time network diagnostics in your terminal. One command, zero config, instant visibility.'
+  cs: Diagnostika sítě v reálném čase v terminálu. Jediný příkaz, žádná konfigurace, okamžitý přehled.
+  de: Netzwerkdiagnose in Echtzeit im Terminal. Ein Befehl, keine Konfiguration, sofortige Transparenz.
+  es: Diagnóstico de red en tiempo real en tu terminal. Un comando, sin configuración, visibilidad instantánea.
+  fr: Diagnostic réseau en temps réel dans votre terminal. Une commande, aucune configuration, visibilité immédiate.
+  id: Diagnostik jaringan real-time di terminal Anda. Satu perintah, tanpa konfigurasi, visibilitas instan.
+  it: Diagnostica di rete in tempo reale nel terminale. Un comando, zero configurazione, visibilità immediata.
+  ja: ターミナルでのリアルタイムネットワーク診断。コマンド1つ、設定不要、即座に可視化。
+  ko: 터미널에서 실시간 네트워크 진단. 명령 하나, 설정 없이, 즉시 확인 가능.
+  pl: Diagnostyka sieci w czasie rzeczywistym w terminalu. Jedno polecenie, bez konfiguracji, natychmiastowy wgląd.
+  pt: Diagnóstico de rede em tempo real no seu terminal. Um comando, zero configuração, visibilidade instantânea.
+  ro: Diagnosticare de rețea în timp real în terminalul tău. O singură comandă, fără configurare, vizibilitate instantanee.
+  ru: Диагностика сети в реальном времени прямо в терминале. Одна команда, без настройки, мгновенная видимость.
+  th: การวินิจฉัยเครือข่ายแบบเรียลไทม์ในเทอร์มินัล คำสั่งเดียว ไม่ต้องตั้งค่า เห็นผลทันที
+  tr: Terminalde gerçek zamanlı ağ tanılama. Tek komut, yapılandırma yok, anında görünürlük.
+  uk: Діагностика мережі в реальному часі у терміналі. Одна команда, без налаштування, миттєва видимість.
+  vi: Chẩn đoán mạng thời gian thực trong terminal. Một lệnh, không cần cấu hình, nhìn thấy ngay lập tức.
 x:
   source: https://github.com/matthart1983/netwatch
   eget: matthart1983/netwatch

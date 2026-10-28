@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 监视本地日志，在长时间运行任务中提醒 Claude Code 用户做桌边锻炼
   en: Reminds developers using Claude Code to perform deskside exercises during long-running tasks by watching local logs.
+  cs: Připomíná vývojářům používajícím Claude Code, aby během dlouhých úkolů prováděli cvičení u stolu, a to sledováním místních protokolů.
+  de: Erinnert Entwickler, die Claude Code verwenden, während langer Aufgaben an Schreibtischübungen zu denken, indem lokale Protokolle überwacht werden.
+  es: Recuerda a los desarrolladores que usan Claude Code que hagan ejercicios junto al escritorio durante tareas largas, observando los registros locales.
+  fr: Rappelle aux développeurs utilisant Claude Code de faire des exercices de bureau pendant les longues tâches, en surveillant les journaux locaux.
+  id: Mengingat pengembang yang menggunakan Claude Code untuk melakukan latihan di meja selama tugas berjalan lama dengan memantau log lokal.
+  it: Ricorda agli sviluppatori che usano Claude Code di fare esercizi da scrivania durante le attività lunghe, monitorando i log locali.
+  ja: ローカルログを監視し、長時間実行されるタスク中に Claude Code を使って開発しているユーザーにデスクサイドの運動を思い出させます。
+  ko: 로컬 로그를 감시하면서 장시간 실행되는 작업 중 Claude Code를 사용하는 개발자에게 책상 옆 스트레칭을 상기시킵니다.
+  pl: Przypomina deweloperom korzystającym z Claude Code, aby podczas długich zadań wykonywali ćwiczenia przy biurku, obserwując lokalne logi.
+  pt: Lembra aos desenvolvedores que usam o Claude Code de fazer exercícios à mesa durante tarefas longas, observando os logs locais.
+  ro: Amintește dezvoltatorii care folosesc Claude Code să facă exerciții la birou în timpul sarcinilor lungi, urmărind jurnalele locale.
+  ru: Напоминает разработчикам, использующим Claude Code, выполнять упражнения у рабочего стола во время длительных задач, отслеживая локальные журналы.
+  th: เตือนนักพัฒนาที่ใช้ Claude Code ให้ทำแบบฝึกหัดข้างโต๊ะระหว่างงานที่ใช้เวลานาน โดยการเฝ้าดูบันทึกในเครื่อง
+  tr: Yerel günlükleri izleyerek, Claude Code kullanan geliştiricilere uzun süren görevler sırasında masa başı egzersizi yapmalarını hatırlatır.
+  uk: Нагадує розробникам, які використовують Claude Code, виконувати вправи за робочим столом під час тривалих завдань, спостерігаючи за локальними журналами.
+  vi: Nhắc nhở các nhà phát triển dùng Claude Code thực hiện bài tập bên bàn trong các tác vụ kéo dài, bằng cách theo dõi nhật ký cục bộ.
 x:
   source: https://github.com/477-Studio/claude-gym
   eget: 477-Studio/claude-gym

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: skate 是一个键值对存储工具
   en: skate is a personal key-value store tool
+  cs: skate je osobní nástroj pro ukládání klíčových hodnot
+  de: skate ist ein persönliches Schlüssel-Wert-Speicher-Werkzeug
+  es: skate es una herramienta personal de almacenamiento clave-valor
+  fr: skate est un outil personnel de stockage clé-valeur
+  id: skate adalah alat penyimpanan kunci-nilai pribadi
+  it: skate è un tool personale per l'archiviazione chiave-valore
+  ja: skate は個人のキー値ストアツールです
+  ko: skate는 개인용 키-값 저장 도구입니다
+  pl: skate to osobiste narzędzie do przechowywania par klucz-wartość
+  pt: skate é uma ferramenta pessoal de armazenamento de chave-valor
+  ro: skate este un instrument personal de stocare cheie-valoare
+  ru: skate — персональный инструмент для хранения пар ключ-значение
+  th: skate เป็นเครื่องมือจัดเก็บคีย์-ค่าส่วนตัว
+  tr: skate, kihtar-değer deposu için kişisel bir araçtır
+  uk: skate — персональний інструмент для зберігання пар ключ-значення
+  vi: skate là công cụ lưu trữ cặp khóa-giá trị cá nhân
 x:
   source: https://github.com/charmbracelet/skate
   eget: charmbracelet/skate

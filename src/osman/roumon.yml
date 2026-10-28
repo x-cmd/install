@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于 pprof 和 termui 的通用 goroutine 监控工具
   en: 'Universal goroutine monitor using pprof and termui'
+  cs: Univerzální monitor goroutine využívající pprof a termui
+  de: Universeller Goroutine-Monitor mit pprof und termui
+  es: Monitor universal de goroutines que usa pprof y termui
+  fr: Moniteur universel de goroutines utilisant pprof et termui
+  id: Monitor goroutine universal yang menggunakan pprof dan termui
+  it: Monitor universale delle goroutine basato su pprof e termui
+  ja: pprof と termui を使った汎用の goroutine モニターです。
+  ko: pprof와 termui를 사용하는 범용 goroutine 모니터입니다.
+  pl: Uniwersalny monitor goroutine wykorzystujący pprof i termui
+  pt: Monitor universal de goroutines usando pprof e termui
+  ro: Monitor universal de goroutine care folosește pprof și termui
+  ru: Универсальный монитор горутин на базе pprof и termui
+  th: ตัวตรวจสอบ goroutine สากลที่ใช้ pprof และ termui
+  tr: pprof ve termui kullanan evrensel goroutine izleyicisi
+  uk: Універсальний монітор горутин на базі pprof та termui
+  vi: Trình giám sát goroutine đa năng sử dụng pprof và termui
 x:
   source: https://github.com/becheran/roumon
   eget: becheran/roumon

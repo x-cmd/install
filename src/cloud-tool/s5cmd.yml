@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一款非常快速的 S3 和本地文件系统执行工具
   en: A very fast S3 and local filesystem execution tool.
+  cs: Velmi rychlý nástroj pro spouštění operací nad S3 a místním systémem souborů.
+  de: Ein sehr schnelles Werkzeug zur Ausführung von Operationen auf S3 und lokalen Dateisystemen.
+  es: Una herramienta muy rápida para ejecutar operaciones sobre S3 y el sistema de archivos local.
+  fr: Un outil très rapide pour exécuter des opérations sur S3 et le système de fichiers local.
+  id: Alat eksekusi yang sangat cepat untuk S3 dan sistem berkas lokal.
+  it: Uno strumento di esecuzione molto veloce per S3 e per il filesystem locale.
+  ja: S3 とローカルファイルシステム向けの非常に高速な実行ツール。
+  ko: S3 및 로컬 파일 시스템 작업을 위한 매우 빠른 실행 도구입니다.
+  pl: Bardzo szybkie narzędzie wykonawcze dla S3 i lokalnego systemu plików.
+  pt: Uma ferramenta de execução muito rápida para S3 e sistema de arquivos local.
+  ro: Un instrument de execuție foarte rapid pentru S3 și sistemul de fișiere local.
+  ru: Очень быстрый инструмент выполнения операций для S3 и локальной файловой системы.
+  th: เครื่องมือประมวลผลที่รวดเร็วมากสำหรับ S3 และระบบไฟล์ในเครื่อง
+  tr: S3 ve yerel dosya sistemi için çok hızlı bir çalıştırma aracı.
+  uk: Дуже швидкий інструмент виконання для S3 і локальної файлової системи.
+  vi: Công cụ thực thi rất nhanh cho S3 và hệ thống tệp cục bộ.
 x:
   source: https://github.com/peak/s5cmd
   eget: peak/s5cmd

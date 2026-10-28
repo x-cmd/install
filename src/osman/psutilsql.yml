@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 gopsutil 库检索信息并使用 SQL 对其进行处理
   en: Use the gopsutil library to retrieve information and process it with SQL
+  cs: Použijte knihovnu gopsutil k načtení informací a zpracujte je pomocí SQL
+  de: Verwenden Sie die gopsutil-Bibliothek, um Informationen abzurufen und mit SQL zu verarbeiten
+  es: Use la biblioteca gopsutil para obtener información y procesarla con SQL
+  fr: Utilisez la bibliothèque gopsutil pour récupérer des informations et les traiter avec SQL
+  id: Gunakan pustaka gopsutil untuk mengambil informasi dan memprosesnya dengan SQL
+  it: Usa la libreria gopsutil per recuperare informazioni e elaborarle con SQL
+  ja: gopsutil ライブラリを使って情報を取得し、SQL で処理します。
+  ko: gopsutil 라이브러리를 사용하여 정보를 가져오고 SQL로 처리합니다.
+  pl: Użyj biblioteki gopsutil do pobierania informacji i przetwarzania ich za pomocą SQL
+  pt: Use a biblioteca gopsutil para recuperar informações e processá-las com SQL
+  ro: Folosiți biblioteca gopsutil pentru a prelua informații și a le procesa cu SQL
+  ru: Используйте библиотеку gopsutil для получения информации и её обработки средствами SQL
+  th: ใช้ไลบรารี gopsutil เพื่อดึงข้อมูลและประมวลผลด้วย SQL
+  tr: Bilgi almak ve SQL ile işlemek için gopsutil kütüphanesini kullanın
+  uk: Використовуйте бібліотеку gopsutil для отримання інформації та її обробки засобами SQL
+  vi: Dùng thư viện gopsutil để truy xuất thông tin và xử lý bằng SQL
 x:
   source: https://github.com/noborus/psutilsql
   eget: noborus/psutilsql

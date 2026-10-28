@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kustomize 允许您为多种目的自定义原始的、没有模板的 YAML 文件，使原始的 YAML 保持不变并且可以使用
   en: kustomize lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is
+  cs: kustomize vám umožňuje přizpůsobit surové YAML soubory bez šablon pro více účelů, přičemž původní YAML zůstává nedotčený a použitelný tak, jak je
+  de: kustomize ermöglicht es Ihnen, rohe, vorlagenlose YAML-Dateien für mehrere Zwecke anzupassen, wobei das ursprüngliche YAML unverändert und einsatzbereit bleibt
+  es: kustomize le permite personalizar archivos YAML sin plantillas para varios fines, dejando el YAML original intacto y utilizable tal cual
+  fr: kustomize vous permet de personnaliser des fichiers YAML bruts, sans gabarit, pour plusieurs usages, en laissant le YAML d'origine intact et utilisable tel quel
+  id: kustomize memungkinkan Anda menyesuaikan berkas YAML mentah tanpa templat untuk berbagai keperluan, dengan membiarkan YAML asli tetap utuh dan dapat digunakan apa adanya
+  it: kustomize ti permette di personalizzare i file YAML grezzi, senza template, per molteplici scopi, lasciando il YAML originale intatto e utilizzabile così com'è
+  ja: kustomize は、テンプレート不使用の素の YAML ファイルを多様な用途に合わせてカスタマイズできるようにし、元の YAML はそのまま変更されずそのまま使えます
+  ko: kustomize는 원본 YAML을 그대로 유지한 채 여러 용도로 템플릿 없는 원본 YAML 파일을 사용자 지정할 수 있게 해줍니다
+  pl: kustomize pozwala dostosować surowe pliki YAML bez szablonów do wielu celów, pozostawiając oryginalny YAML nietknięty i gotowy do użycia
+  pt: O kustomize permite personalizar arquivos YAML brutos, sem template, para vários fins, deixando o YAML original intacto e utilizável como está
+  ro: kustomize vă permite să personalizați fișiere YAML brute, fără șabloane, pentru multiple scopuri, lăsând YAML-ul original neatins și utilizabil ca atare
+  ru: kustomize позволяет адаптировать сырые YAML-файлы без шаблонов под различные задачи, оставляя исходный YAML нетронутым и пригодным для использования как есть
+  th: kustomize ให้คุณปรับแต่งไฟล์ YAML ดิบแบบไม่มีเทมเพลตเพื่อวัตถุประสงค์ต่าง ๆ โดยคงไฟล์ YAML เดิมไว้ไม่เปลี่ยนแปลงและใช้งานได้ตามเดิม
+  tr: kustomize, ham ve şablonsuz YAML dosyalarını birden fazla amaç için özelleştirmenizi sağlar; özgün YAML dosyası olduğu gibi kalır ve kullanılabilir durumda olur
+  uk: kustomize дозволяє адаптувати сирі YAML-файли без шаблонів під різні завдання, залишаючи початковий YAML недоторканим і придатним для використання як є
+  vi: kustomize cho phép bạn tùy chỉnh các tệp YAML thô, không có template cho nhiều mục đích, giữ nguyên YAML gốc để dùng ngay
 x:
   source: https://github.com/kubernetes-sigs/kustomize
   eget: kubernetes-sigs/kustomize

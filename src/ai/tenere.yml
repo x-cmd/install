@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: TUI interface for LLMs written in Rust
   cn: 用 Rust 编写的用于大语言模型（LLMs）的 TUI 界面
+  cs: TUI rozhraní pro LLM napsané v Rustu
+  de: TUI-Oberfläche für LLMs, geschrieben in Rust
+  es: Interfaz TUI para LLMs escrita en Rust
+  fr: Interface TUI pour les LLM écrite en Rust
+  id: Antarmuka TUI untuk LLM yang ditulis dengan Rust
+  it: Interfaccia TUI per LLM scritta in Rust
+  ja: Rust で書かれた LLM 用の TUI インターフェース
+  ko: Rust로 작성된 LLM용 TUI 인터페이스
+  pl: Interfejs TUI dla LLM napisany w Rust
+  pt: Interface TUI para LLMs escrita em Rust
+  ro: Interfață TUI pentru LLM scrisă în Rust
+  ru: TUI-интерфейс для больших языковых моделей, написанный на Rust
+  th: ส่วนติดต่อ TUI สำหรับ LLM ที่เขียนด้วย Rust
+  tr: Rust ile yazılmış LLM'ler için TUI arayüzü
+  uk: TUI-інтерфейс для великих мовних моделей, написаний на Rust
+  vi: Giao diện TUI cho các LLM được viết bằng Rust
 x:
   source: https://github.com/pythops/tenere
   eget: pythops/tenere

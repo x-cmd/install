@@ -3,6 +3,22 @@ homepage: https://github.com/saidutt46/domain-check
 desc:
   cn: 支持 1200+ TLD 的通用域名可用性查询器，含 RDAP/WHOIS 回退及 MCP 服务
   en: Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
+  cs: Rychlý univerzální nástroj pro kontrolu dostupnosti domény - 1200+ TLD, generování vzorů, RDAP s fallbackem na WHOIS. CLI + knihovna Rust + MCP server pro AI agenty.
+  de: Schneller, universeller Domain-Verfügbarkeitsprüfer - über 1.200 TLDs, Mustererzeugung, RDAP mit WHOIS-Fallback. CLI + Rust-Bibliothek + MCP-Server für KI-Agenten.
+  es: "Comprobador rápido y universal de disponibilidad de dominios: más de 1200 TLD, generación de patrones, RDAP con respaldo de WHOIS. CLI + biblioteca de Rust + servidor MCP para agentes de IA."
+  fr: Vérificateur rapide et universel de disponibilité de domaines - 1 200+ TLD, génération de motifs, RDAP avec repli WHOIS. CLI + bibliothèque Rust + serveur MCP pour agents IA.
+  id: Pemeriksa ketersediaan domain universal yang cepat - 1.200+ TLD, pembuatan pola, RDAP dengan fallback WHOIS. CLI + pustaka Rust + server MCP untuk agen AI.
+  it: Verificatore rapido e universale di disponibilità dei domini - oltre 1.200 TLD, generazione di pattern, RDAP con fallback WHOIS. CLI + libreria Rust + server MCP per agenti IA.
+  ja: 高速で汎用的なドメイン可用性チェッカー - 1,200以上のTLD、パターン生成、WHOIS フォールバック付きの RDAP。CLI + Rust ライブラリ + AI エージェント向け MCP サーバー。
+  ko: 빠르고 범용적인 도메인 가용성 검사기 - 1,200개 이상의 TLD, 패턴 생성, WHOIS 폴백을 갖춘 RDAP. CLI + Rust 라이브러리 + AI 에이전트용 MCP 서버.
+  pl: Szybki, uniwersalny checker dostępności domen - ponad 1200 TLD, generowanie wzorców, RDAP z fallbackiem do WHOIS. CLI + biblioteka Rust + serwer MCP dla agentów AI.
+  pt: Verificador rápido e universal de disponibilidade de domínios - mais de 1.200 TLDs, geração de padrões, RDAP com fallback para WHOIS. CLI + biblioteca Rust + servidor MCP para agentes de IA.
+  ro: Verificator rapid și universal de disponibilitate a domeniilor - peste 1.200 TLD, generare de modele, RDAP cu rezervă WHOIS. CLI + bibliotecă Rust + server MCP pentru agenți AI.
+  ru: Быстрый универсальный проверяющий доступности доменов - более 1200 TLD, генерация шаблонов, RDAP с откатом на WHOIS. CLI + библиотека Rust + MCP-сервер для ИИ-агентов.
+  th: ตัวตรวจสอบความพร้อมของโดเมนแบบเร็วและอเนื่อกัน - รองรับ TLD กว่า 1,200 ตัว สร้างรูปแบบ ใช้ RDAP พร้อมสำรองเป็น WHOIS มี CLI + ไลบรารี Rust + เซิร์ฟเวอร์ MCP สำหรับเอเจนต์ AI
+  tr: Hızlı, evrensel alan adı kullanılabilirlik denetleyicisi - 1.200'den fazla TLD, desen oluşturma, WHOIS yedeğiyle RDAP. CLI + Rust kitaplığı + yapay zekâ ajanları için MCP sunucusu.
+  uk: Швидкий універсальний перевіряч доступності доменів - понад 1200 TLD, генерація шаблонів, RDAP із резервним переходом на WHOIS. CLI + бібліотека Rust + MCP-сервер для ШІ-агентів.
+  vi: Trình kiểm tra khả dụng tên miền nhanh chóng và đa năng - hơn 1.200 TLD, sinh mẫu, RDAP kèm dự phòng WHOIS. CLI + thư viện Rust + máy chủ MCP cho tác nhân AI.
 x:
   source: https://github.com/saidutt46/domain-check
   eget: saidutt46/domain-check

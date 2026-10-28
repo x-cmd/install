@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 可以轻松切换 kubectl 上下文并创建别名的工具
   en: Tool that can switch between kubectl contexts easily and create aliases
+  cs: Nástroj pro snadné přepínání mezi kontexty kubectl a vytváření aliasů
+  de: Werkzeug zum einfachen Wechseln zwischen kubectl-Kontexten und zum Erstellen von Aliasen
+  es: Herramienta que cambia fácilmente entre contextos de kubectl y crea alias
+  fr: Outil permettant de basculer facilement entre les contextes kubectl et de créer des alias
+  id: Alat yang dapat dengan mudah berpindah antar konteks kubectl dan membuat alias
+  it: Strumento che consente di passare facilmente tra contesti kubectl e creare alias
+  ja: kubectl コンテキストを簡単に切り替えられる比亚丝的を作成できるツール
+  ko: kubectl 컨텍스트를 쉽게 전환하고 별칭을 만들 수 있는 도구
+  pl: Narzędzie do łatwego przełączania się między kontekstami kubectl i tworzenia aliasów
+  pt: Ferramenta que alterna facilmente entre contextos do kubectl e cria apelidos
+  ro: Instrument care permite comutarea ușoară între contextele kubectl și crearea de aliasuri
+  ru: Инструмент для лёгкого переключения между контекстами kubectl и создания псевдонимов
+  th: เครื่องมือที่สลับบริบทของ kubectl ได้อย่างง่ายดายและสร้างนามแฝด
+  tr: kubectl bağlamları arasında kolayca geçiş yapan ve takma adlar oluşturan araç
+  uk: Інструмент для легкого перемикання між контекстами kubectl та створення псевдонімів
+  vi: Công cụ dễ dàng chuyển đổi giữa các context kubectl và tạo bí danh
 x:
   source: https://github.com/ahmetb/kubectx
   eget: ahmetb/kubectx

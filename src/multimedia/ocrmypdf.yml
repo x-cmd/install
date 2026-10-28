@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 用于将 PDF 文档中的图像文本转换为可搜索文本（OCR）的开源工具
   en: Open source tool for converting image text in PDF documents to searchable text (OCR)
+  cs: Nástroj s otevřeným zdrojovým kódem pro převod obrazového textu v PDF dokumentech na prohledávaný text (OCR)
+  de: Open-Source-Werkzeug zum Umwandeln von Bildtext in PDF-Dokumenten in durchsuchbaren Text (OCR)
+  es: Herramienta de código abierto para convertir el texto de imagen en documentos PDF en texto buscable (OCR)
+  fr: Outil open source pour convertir le texte des images dans les documents PDF en texte interrogeable (OCR)
+  id: Alat sumber terbuka untuk mengubah teks gambar dalam dokumen PDF menjadi teks yang dapat dicari (OCR)
+  it: Strumento open source per convertire il testo delle immagini nei documenti PDF in testo ricercabile (OCR)
+  ja: PDF ドキュメント内の画像テキストを検索可能なテキスト (OCR) に変換するオープンソースツール
+  ko: PDF 문서의 이미지 텍스트를 검색 가능한 텍스트(OCR)로 변환하는 오픈 소스 도구
+  pl: Narzędzie open source do konwertowania tekstu obrazowego w dokumentach PDF na tekst przeszukiwalny (OCR)
+  pt: Ferramenta de código aberto para converter texto de imagem em documentos PDF em texto pesquisável (OCR)
+  ro: Instrument open source pentru conversia textului din imagini în documentele PDF în text căutabil (OCR)
+  ru: Инструмент с открытым исходным кодом для преобразования текста на изображениях в PDF-документах в искомый текст (OCR)
+  th: เครื่องมือโอเพนซอร์สสำหรับแปลงข้อความจากภาพในเอกสาร PDF ให้เป็นข้อความที่ค้นหาได้ (OCR)
+  tr: PDF belgelerindeki görüntü metnini aranabilir metne (OCR) dönüştüren açık kaynak araç
+  uk: Інструмент з відкритим кодом для перетворення тексту на зображеннях у PDF-документах на пошуковий текст (OCR)
+  vi: Công cụ mã nguồn mở để chuyển văn bản trong ảnh của tài liệu PDF thành văn bản có thể tìm kiếm (OCR)
 x:
   source: https://github.com/ocrmypdf/OCRmyPDF
   eget: ocrmypdf/OCRmyPDF

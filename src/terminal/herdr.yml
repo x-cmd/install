@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 驻留于终端的 Agent 多路复用器
   en: agent multiplexer that lives in your terminal.
+  cs: Multiplexer agentů, který žije ve vašem terminálu.
+  de: Agent-Multiplexer, der in deinem Terminal lebt.
+  es: Multiplexor de agentes que vive en tu terminal.
+  fr: Multiplexeur d'agents qui vit dans votre terminal.
+  id: Multiplexer agen yang berjalan di terminal Anda.
+  it: Multiplexer di agenti che vive nel tuo terminale.
+  ja: ターミナル内で動くエージェントのマルチプレクサ。
+  ko: 터미널에서 동작하는 에이전트 멀티플렉서.
+  pl: Multiplexer agentów działający w twoim terminalu.
+  pt: Multiplexer de agentes que vive no seu terminal.
+  ro: Multiplexor de agenți care rulează în terminalul tău.
+  ru: Мультиплексор агентов, работающий прямо в вашем терминале.
+  th: มัลติเพล็กเซอร์เอเจนต์ที่ทำงานอยู่ในเทอร์มินัลของคุณ
+  tr: Terminalinizde çalışan bir ajan çoklayıcı.
+  uk: Мультиплексор агентів, що працює у вашому терміналі.
+  vi: Bộ đa kênh agent sống trong terminal của bạn.
 x:
   source: https://github.com/herdrdev/herdr
   eget: herdrdev/herdr

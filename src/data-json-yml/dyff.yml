@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 YAML 文件（有时也用于 JSON）的 diff 工具
   en: A diff tool for YAML files, and sometimes JSON
+  cs: Nástroj pro diff souborů YAML a někdy i JSON.
+  de: Ein Diff-Werkzeug für YAML-Dateien und manchmal auch JSON.
+  es: Una herramienta de diff para archivos YAML y a veces también JSON.
+  fr: Un outil de diff pour les fichiers YAML, et parfois aussi JSON.
+  id: Alat diff untuk berkas YAML, dan kadang juga JSON.
+  it: Uno strumento diff per file YAML e talvolta anche JSON.
+  ja: YAML ファイル（および JSON）のための diff ツール。
+  ko: YAML 파일, 그리고 때때로 JSON 파일을 위한 diff 도구입니다.
+  pl: Narzędzie do porównywania plików YAML, a czasem także JSON.
+  pt: Uma ferramenta de diff para arquivos YAML e às vezes JSON.
+  ro: Un instrument de diff pentru fișiere YAML și uneori și JSON.
+  ru: Инструмент сравнения файлов YAML, а иногда и JSON.
+  th: เครื่องมือ diff สำหรับไฟล์ YAML และบางครั้งก็สำหรับ JSON
+  tr: YAML dosyaları, bazen de JSON için bir diff aracı.
+  uk: Інструмент порівняння файлів YAML, а іноді й JSON.
+  vi: Công cụ diff cho các tệp YAML, và đôi khi cả JSON.
 x:
   source: https://github.com/homeport/dyff
   eget: homeport/dyff

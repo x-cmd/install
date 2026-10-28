@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: wavemon 是一个基于 ncurses 的 Linux 无线网络设备监控应用程序。
   en: wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
+  cs: wavemon je monitorovací aplikace pro bezdrátová síťová zařízení v Linuxu založená na ncurses.
+  de: wavemon ist eine ncurses-basierte Monitoring-Anwendung für drahtlose Netzwerkgeräte unter Linux.
+  es: wavemon es una aplicación de monitoreo basada en ncurses para dispositivos de red inalámbricos en Linux.
+  fr: wavemon est une application de surveillance basée sur ncurses pour les appareils réseau sans fil sous Linux.
+  id: wavemon adalah aplikasi pemantauan berbasis ncurses untuk perangkat jaringan nirkabel di Linux.
+  it: wavemon è un'applicazione di monitoraggio basata su ncurses per i dispositivi di rete wireless su Linux.
+  ja: wavemon は Linux 上の無線ネットワークデバイスを監視する ncurses ベースのアプリケーションです。
+  ko: wavemon은 Linux의 무선 네트워크 장치를 모니터링하는 ncurses 기반 애플리케이션입니다.
+  pl: wavemon to aplikacja monitorująca oparta na ncurses, przeznaczona do bezprzewodowych urządzeń sieciowych w systemie Linux.
+  pt: wavemon é um aplicativo de monitoramento baseado em ncurses para dispositivos de rede sem fio no Linux.
+  ro: wavemon este o aplicație de monitorizare bazată pe ncurses pentru dispozitive de rețea fără fir pe Linux.
+  ru: wavemon — приложение для мониторинга беспроводных сетевых устройств на Linux, основанное на ncurses.
+  th: wavemon เป็นแอปพลิเคชันตรวจสอบบนพื้นฐาน ncurses สำหรับอุปกรณ์เครือข่ายไร้สายบน Linux
+  tr: wavemon, Linux'taki kablosuz ağ cihazlarını izlemek için ncurses tabanlı bir uygulamadır.
+  uk: wavemon — застосунок для моніторингу бездротових мережевих пристроїв на Linux, побудований на ncurses.
+  vi: wavemon là ứng dụng giám sát dựa trên ncurses cho các thiết bị mạng không dây trên Linux.
 x:
   source: https://github.com/uoaerg/wavemon
   apt: wavemon

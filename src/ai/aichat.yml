@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 全功能 LLM CLI 工具，集成 Shell 助手、Chat-REPL、RAG、AI 工具与 Agent，可接入 OpenAI、Claude、Gemini、Ollama、Groq 等
   en: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+  cs: All-in-one LLM CLI nástroj s asistentem pro Shell, Chat-REPL, RAG, AI nástroji a agenty, s přístupem k OpenAI, Claude, Gemini, Ollama, Groq a dalším.
+  de: All-in-One-LLM-CLI-Werkzeug mit Shell-Assistenten, Chat-REPL, RAG, KI-Werkzeugen und -Agenten, mit Zugriff auf OpenAI, Claude, Gemini, Ollama, Groq und mehr.
+  es: Herramienta CLI de LLM completa con Asistente de Shell, Chat-REPL, RAG, herramientas y agentes de IA, con acceso a OpenAI, Claude, Gemini, Ollama, Groq y más.
+  fr: Outil CLI LLM tout-en-un avec assistant Shell, Chat-REPL, RAG, outils et agents IA, avec accès à OpenAI, Claude, Gemini, Ollama, Groq et plus encore.
+  id: Alat CLI LLM serba ada dengan Shell Assistant, Chat-REPL, RAG, Alat & Agen AI, serta akses ke OpenAI, Claude, Gemini, Ollama, Groq, dan lainnya.
+  it: Strumento CLI LLM all-in-one con Shell Assistant, Chat-REPL, RAG, strumenti e agenti IA, con accesso a OpenAI, Claude, Gemini, Ollama, Groq e altro.
+  ja: Shell アシスタント、Chat-REPL、RAG、AI ツールとエージェントを備えたオールインワンの LLM CLI ツールで、OpenAI、Claude、Gemini、Ollama、Groq 等等にアクセスできます。
+  ko: Shell 어시스턴트, Chat-REPL, RAG, AI 도구와 에이전트를 갖춘 올인원 LLM CLI 도구로, OpenAI, Claude, Gemini, Ollama, Groq 등에 접근할 수 있습니다.
+  pl: Kompleksowe narzędzie CLI LLM z asystentem Shell, Chat-REPL, RAG, narzędziami i agentami AI, z dostępem do OpenAI, Claude, Gemini, Ollama, Groq i nie tylko.
+  pt: Ferramenta CLI de LLM completa com Assistente de Shell, Chat-REPL, RAG, ferramentas e agentes de IA, com acesso a OpenAI, Claude, Gemini, Ollama, Groq e mais.
+  ro: Instrument CLI LLM complet, cu Shell Assistant, Chat-REPL, RAG, unelte și agenți AI, cu acces la OpenAI, Claude, Gemini, Ollama, Groq și altele.
+  ru: Универсальный CLI-инструмент для LLM с Shell-ассистентом, Chat-REPL, RAG, ИИ-инструментами и агентами, с доступом к OpenAI, Claude, Gemini, Ollama, Groq и другим.
+  th: เครื่องมือ CLI สำหรับ LLM แบบครบวงจร มี Shell Assistant, Chat-REPL, RAG, เครื่องมือและเอเจนต์ AI พร้อมเข้าถึง OpenAI, Claude, Gemini, Ollama, Groq และอื่น ๆ
+  tr: Shell Assistant, Chat-REPL, RAG, AI Araçları ve Ajanlar içeren, OpenAI, Claude, Gemini, Ollama, Groq ve daha fazlasına erişim sağlayan hepsi bir arada LLM CLI aracı.
+  uk: Універсальний CLI-інструмент для LLM із Shell-асистентом, Chat-REPL, RAG, ІІ-інструментами та агентами, з доступом до OpenAI, Claude, Gemini, Ollama, Groq та інших.
+  vi: Công cụ CLI LLM tất cả trong một, có Trợ lý Shell, Chat-REPL, RAG, Công cụ & Agent AI, với khả năng truy cập OpenAI, Claude, Gemini, Ollama, Groq và hơn thế.
 x:
   source: https://github.com/sigoden/aichat
   eget: sigoden/aichat

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个命令行工具和 TUI，允许在计算机之间安全地传输和发送文件和目录。
   en: A command line tool and TUI that allows secure transfer and sending of files and directories between computers.
+  cs: Nástroj příkazové řádky a TUI, který umožňuje bezpečný přenos a odesílání souborů a adresářů mezi počítači.
+  de: Ein Befehlszeilen-Tool und TUI, das die sichere Übertragung und das Senden von Dateien und Verzeichnissen zwischen Computern ermöglicht.
+  es: Una herramienta de línea de comandos y TUI que permite la transferencia y el envío seguro de archivos y directorios entre computers.
+  fr: Un outil en ligne de commande et TUI qui permet le transfert et l'envoi sécurisés de fichiers et de répertoires entre ordinateurs.
+  id: Alat baris perintah dan TUI yang memungkinkan transfer serta pengiriman file dan direktori secara aman antar komputer.
+  it: Uno strumento da riga di comando e una TUI che consentono il trasferimento e l'invio sicuri di file e directory tra computer.
+  ja: コンピューター間でファイルやディレクトリを安全に転送・送信できるコマンドラインツールと TUI。
+  ko: 컴퓨터 간에 파일과 디렉터리를 안전하게 전송하고 보내는 것을 허용하는 명령줄 도구이자 TUI.
+  pl: Narzędzie wiersza poleceń i TUI umożliwiające bezpieczne przenoszenie i wysyłanie plików oraz katalogów między komputerami.
+  pt: Uma ferramenta de linha de comando e TUI que permite a transferência e o envio seguro de arquivos e diretórios entre computadores.
+  ro: Un instrument de linie de comandă și o interfață TUI care permit transferul și trimiterea sigură a fișierelor și directoarelor între calculatoare.
+  ru: Инструмент командной строки и TUI, позволяющий безопасно передавать и отправлять файлы и каталоги между компьютерами.
+  th: เครื่องมือบรรทัดคำสั่งและ TUI ที่อนุญาตให้ถ่ายโอนและส่งไฟล์และไดเรกทอรีอย่างปลอดภัยระหว่างคอมพิวเตอร์
+  tr: Bilgisayarlar arasında dosya ve dizinlerin güvenli aktarımını ve gönderilmesini sağlayan bir komut satırı aracı ve TUI.
+  uk: Інструмент командного рядка та TUI, що дозволяє безпечно передавати й надсилати файли та каталоги між комп'ютерами.
+  vi: Công cụ dòng lệnh và TUI cho phép truyền và gửi an toàn tệp và thư mục giữa các máy tính.
 x:
   source: https://github.com/abdfnx/tran
   eget: abdfnx/tran

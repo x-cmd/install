@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 一个用 Rust 开发的极其快速的 Python 包和项目管理器
   en: An extremely fast Python package and project manager, written in Rust.
+  cs: Extrémně rychlý správce Python balíčků a projektů, napsaný v Rustu.
+  de: Ein äußerst schneller Python-Paket- und Projektmanager, geschrieben in Rust.
+  es: Un gestor de paquetes y proyectos de Python extremadamente rápido, escrito en Rust.
+  fr: Un gestionnaire de paquets et de projets Python extrêmement rapide, écrit en Rust.
+  id: Manajer paket dan proyek Python yang sangat cepat, ditulis dalam Rust.
+  it: Un gestore di pacchetti e progetti Python estremamente veloce, scritto in Rust.
+  ja: Rust で書かれた极其高速な Python パッケージ兼プロジェクトマネージャー。
+  ko: Rust로 작성된 매우 빠른 Python 패키지 및 프로젝트 관리자.
+  pl: Wyjątkowo szybki menedżer pakietów i projektów Pythona, napisany w Rust.
+  pt: Um gerenciador de pacotes e projetos Python extremamente rápido, escrito em Rust.
+  ro: Un manager de pachete și proiecte Python extrem de rapid, scris în Rust.
+  ru: Чрезвычайно быстрый менеджер пакетов и проектов Python, написанный на Rust.
+  th: ตัวจัดการแพ็กเกจและโปรเจกต์ Python ที่รวดเร็วมาก เขียนด้วย Rust
+  tr: Rust ile yazılmış son derece hızlı bir Python paket ve proje yöneticisi.
+  uk: Надзвичайно швидкий менеджер пакетів і проєктів Python, написаний на Rust.
+  vi: Trình quản lý gói và dự án Python cực kỳ nhanh, viết bằng Rust.
 homepage: https://github.com/astral-sh/uv
 license: Apache-2.0
 x:

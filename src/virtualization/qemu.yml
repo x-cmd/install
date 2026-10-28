@@ -3,6 +3,22 @@ homepage: https://github.com/qemu/qemu
 desc:
   en: A generic and open source machine emulator and virtualizer
   cn: 一个通用的开源机器模拟器和虚拟化器
+  cs: Obecný open-source emulátor a virtualizátor počítačů
+  de: Ein generischer Open-Source-Maschinenemulator und -Virtualisierer
+  es: Un emulador y virtualizador de máquinas genérico y de código abierto
+  fr: Un émulateur et hyperviseur de machines générique et open source
+  id: Emulator dan virtualizer mesin generik sumber terbuka
+  it: Un emulatore e virtualizzatore di macchine generico e open source
+  ja: 汎用的でオープンソースなマシンエミュレータと仮想化ツール
+  ko: 범용 오픈 소스 머신 에뮬레이터 및 가상화 도구
+  pl: Ogólny emulator i wirtualizator maszyn o otwartym kodzie źródłowym
+  pt: Um emulador e virtualizador de máquinas genérico e de código aberto
+  ro: Un emulator și virtualizator de mașini generic și open source
+  ru: Универсальный эмулятор и виртуализатор машин с открытым исходным кодом
+  th: โปรแกรมจำลองเครื่องและตัวสร้างเครื่องเสมือนแบบทั่วไปและโอเพนซอร์ส
+  tr: Genel amaçlı ve açık kaynaklı makine emülatörü ve sanallaştırıcı
+  uk: Універсальний емулятор і віртуалізатор машин з відкритим кодом
+  vi: Trình giả lập và ảo hóa máy đa dụng, mã nguồn mở
 x:
   source: https://github.com/qemu/qemu
   apt: qemu-system

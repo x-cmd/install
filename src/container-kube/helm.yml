@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: helm 是 Kubernetes 的包管理器
   en: helm is the package manager for Kubernetes
+  cs: helm je správce balíčků pro Kubernetes
+  de: helm ist der Paketmanager für Kubernetes
+  es: helm es el gestor de paquetes para Kubernetes
+  fr: helm est le gestionnaire de paquets pour Kubernetes
+  id: helm adalah manajer paket untuk Kubernetes
+  it: helm è il gestore di pacchetti per Kubernetes
+  ja: helm は Kubernetes のパッケージマネージャーです
+  ko: helm은 Kubernetes의 패키지 관리자입니다
+  pl: helm jest menedżerem pakietów dla Kubernetes
+  pt: helm é o gerenciador de pacotes para Kubernetes
+  ro: helm este managerul de pachete pentru Kubernetes
+  ru: helm — менеджер пакетов для Kubernetes
+  th: helm คือตัวจัดการแพ็กเกจสำหรับ Kubernetes
+  tr: helm, Kubernetes için paket yöneticisidir
+  uk: helm — менеджер пакетів для Kubernetes
+  vi: helm là trình quản lý gói cho Kubernetes
 lang: Go
 x:
   source: https://github.com/helm/helm

@@ -5,6 +5,22 @@ license: MIT
 desc:
   cn: 表格数据的 sed 和 awk：清洗、转换 CSV 而不破坏数值。
   en: "sed and awk for tabular data: clean and transform CSV without corrupting values."
+  cs: "sed a awk pro tabulková data: čistí a převádí CSV bez poškození hodnot."
+  de: "sed und awk für tabellarische Daten: CSV bereinigen und umwandeln, ohne Werte zu beschädigen."
+  es: "sed y awk para datos tabulares: limpia y transforma CSV sin corromper los valores."
+  fr: "sed et awk pour les données tabulaires : nettoyer et transformer du CSV sans corrompre les valeurs."
+  id: "sed dan awk untuk data tabular: bersihkan dan ubah CSV tanpa merusak nilai."
+  it: "sed e awk per dati tabellari: pulisce e trasforma i CSV senza corrompere i valori."
+  ja: "表形式データのための sed と awk: 値を壊さずに CSV を整形・変換します。"
+  ko: "표 형식 데이터를 위한 sed와 awk: 값을 손상시키지 않고 CSV를 정리하고 변환합니다."
+  pl: "sed i awk dla danych tabelarycznych: czyszczą i przekształcają CSV bez uszkadzania wartości."
+  pt: "sed e awk para dados tabulares: limpa e transforma CSV sem corromper os valores."
+  ro: "sed și awk pentru date tabulare: curăță și transformă CSV fără a corupe valorile."
+  ru: "sed и awk для табличных данных: очищают и преобразуют CSV, не портя значения."
+  th: "sed และ awk สำหรับข้อมูลแบบตาราง: ทำความสะอาดและแปลง CSV โดยไม่ทำให้ค่าเสียหาย"
+  tr: "tablo verileri için sed ve awk: değerleri bozmadan CSV'yi temizler ve dönüştürür."
+  uk: "sed і awk для табличних даних: очищають і перетворюють CSV, не псуючи значення."
+  vi: "sed và awk cho dữ liệu dạng bảng: làm sạch và chuyển đổi CSV mà không làm hỏng giá trị."
 
 x:
   source: https://github.com/excelano/xled

@@ -3,6 +3,22 @@ homepage: https://github.com/yarnpkg/yarn
 desc:
   cn: Yarn 是一个包管理器，同时也是项目管理器
   en: Yarn is a package manager that doubles down as project manager
+  cs: Yarn je správce balíčků, který zároveň slouží jako správce projektů
+  de: Yarn ist ein Paketmanager, der zugleich als Projektmanager fungiert
+  es: Yarn es un gestor de paquetes que también hace de gestor de proyectos
+  fr: Yarn est un gestionnaire de paquets qui fait aussi office de gestionnaire de projet
+  id: Yarn adalah manajer paket yang sekaligus menjadi manajer proyek
+  it: Yarn è un gestore di pacchetti che fa anche da gestore di progetti
+  ja: Yarn はパッケージマネージャーであり、プロジェクトマネージャーも兼ねる
+  ko: Yarn는 프로젝트 관리자 역할도 겸하는 패키지 관리자입니다
+  pl: Yarn to menedżer pakietów, który pełni również rolę menedżera projektów
+  pt: Yarn é um gerenciador de pacotes que também atua como gerenciador de projetos
+  ro: Yarn este un manager de pachete care face și oficiu de manager de proiect
+  ru: Yarn — менеджер пакетов, который также выступает в роли менеджера проектов
+  th: Yarn คือตัวจัดการแพ็กเกจที่ทำหน้าที่เป็นตัวจัดการโครงการด้วย
+  tr: Yarn, aynı zamanda proje yöneticisi olarak da görev yapan bir paket yöneticisidir
+  uk: Yarn — менеджер пакетів, який також виконує роль менеджера проєктів
+  vi: Yarn là trình quản lý gói kiêm trình quản lý dự án
 x:
   source: https://github.com/yarnpkg/yarn
   eget: yarnpkg/yarn

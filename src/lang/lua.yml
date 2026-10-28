@@ -3,6 +3,22 @@ homepage: https://github.com/lua/lua
 desc:
   cn: Lua 是一种强大、高效、轻量级、可嵌入的脚本语言。它支持过程式编程、面向对象编程、函数式编程、数据驱动编程和数据描述。
   en: Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
+  cs: Lua je mocný, efektivní, lehký a vložitelný skriptovací jazyk. Podporuje procedurální, objektově orientované, funkcionální, datově řízené programování a datové popisy.
+  de: Lua ist eine mächtige, effiziente, leichtgewichtige, einbettbare Skriptsprache. Sie unterstützt prozedurale, objektorientierte, funktionale, datengetriebene Programmierparadigmen und Datenbeschreibungen.
+  es: Lua es un lenguaje de scripts potente, eficiente, ligero y embebible. Admite programación procedural, orientada a objetos, funcional, orientada a datos y descripciones de datos.
+  fr: Lua est un langage de script puissant, efficace, léger et intégrable. Il prend en charge la programmation procédurale, orientée objet, fonctionnelle, pilotée par les données et la description de données.
+  id: Lua adalah bahasa skrip yang kuat, efisien, ringan, dan dapat disematkan. Mendukung pemrograman prosedural, berorientasi objek, fungsional, berbasis data, dan deskripsi data.
+  it: Lua è un linguaggio di scripting potente, efficiente, leggero e incorporabile. Supporta la programmazione procedurale, orientata agli oggetti, funzionale, guidata dai dati e la descrizione dei dati.
+  ja: Lua は強力で効率的、軽くて埋め込み可能なスクリプト言語です。手続き型、オブジェクト指向型、関数型、データ駆動型のプログラミングとデータ記述に対応しています。
+  ko: Lua는 강력하고 효율적이며 가볍고 임베드 가능한 스크립트 언어입니다. 절차적, 객체 지향, 함수형, 데이터 기반 프로그래밍과 데이터 설명을 지원합니다.
+  pl: Lua to potężny, wydajny, lekki i osadzalny język skryptowy. Obsługuje programowanie proceduralne, obiektowe, funkcyjne, sterowane danymi oraz opisy danych.
+  pt: Lua é uma linguagem de script poderosa, eficiente, leve e incorporável. Suporta programação procedural, orientada a objetos, funcional, orientada a dados e descrição de dados.
+  ro: Lua este un limbaj de scripting puternic, eficient, ușor și încorporabil. Acceptă programare procedurală, orientată pe obiecte, funcțională, bazată pe date și descrierea datelor.
+  ru: Lua — мощный, эффективный, легковесный встраиваемый скриптовый язык. Поддерживает процедурное, объектно-ориентированное, функциональное и управляемое данными программирование, а также описание данных.
+  th: Lua เป็นภาษาสคริปต์ที่ทรงพลัง มีประสิทธิภาพ เบา และฝังได้ รองรับการเขียนโปรแกรมแบบกระบวนการ เชิงวัตถุ เชิงฟังก์ชัน แบบข้อมูลขับเคลื่อน และคำอธิบายข้อมูล
+  tr: Lua, güçlü, verimli, hafif ve gömülebilir bir betik dilidir. Prosedürel, nesne yönelimli, fonksiyonel, veri güdümlü programlamayı ve veri betimlemeyi destekler.
+  uk: Lua — потужна, ефективна, легка та вбудовувана скриптова мова. Підтримує процедурне, об'єктно-орієнтоване, функціональне та кероване даними програмування, а також опис даних.
+  vi: Lua là ngôn ngữ kịch bản mạnh mẽ, hiệu quả, nhẹ và có thể nhúng. Nó hỗ trợ lập trình thủ tục, hướng đối tượng, hàm, dựa trên dữ liệu và mô tả dữ liệu.
 x:
   source: https://github.com/lua/lua
   dnf: lua

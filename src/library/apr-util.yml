@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache 可移植运行时库
   en: Companion library to apr, the Apache Portable Runtime library
+  cs: Doplňková knihovna k apr, knihovně Apache Portable Runtime
+  de: Begleitbibliothek zu apr, der Apache Portable Runtime-Bibliothek
+  es: Biblioteca complementaria de apr, la biblioteca Apache Portable Runtime
+  fr: Bibliothèque compagnon de apr, la bibliothèque Apache Portable Runtime
+  id: Pustaka pendamping untuk apr, pustaka Apache Portable Runtime
+  it: Libreria di supporto a apr, la libreria Apache Portable Runtime
+  ja: apr、Apache Portable Runtime ライブラリの付属ライブラリです
+  ko: apr, Apache Portable Runtime 라이브러리의 보조 라이브러리
+  pl: Biblioteka towarzysząca apr, bibliotece Apache Portable Runtime
+  pt: Biblioteca complementar do apr, a biblioteca Apache Portable Runtime
+  ro: Bibliotecă însoțitoare pentru apr, biblioteca Apache Portable Runtime
+  ru: Сопутствующая библиотека к apr, библиотеке Apache Portable Runtime
+  th: ไลบรารีประกอบของ apr ซึ่งเป็นไลบรารี Apache Portable Runtime
+  tr: apr, Apache Portable Runtime kitaplığının yardımcı kitaplığı
+  uk: Супутня бібліотека до apr, бібліотеки Apache Portable Runtime
+  vi: Thư viện đi kèm của apr, thư viện Apache Portable Runtime
 x:
   source: https://github.com/apache/apr-util
   brew: apr-util

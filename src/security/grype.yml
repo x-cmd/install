@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 针对容器镜像和文件系统的漏洞扫描器
   en: A vulnerability scanner for container images and filesystems
+  cs: Skener zranitelností pro kontejnerové obrazy a systémy souborů
+  de: Ein Schwachstellen-Scanner für Container-Images und Dateisysteme
+  es: Un escáner de vulnerabilidades para imágenes de contenedores y sistemas de archivos
+  fr: Un scanner de vulnérabilités pour les images de conteneurs et les systèmes de fichiers
+  id: Pemindai kerentanan untuk image kontainer dan sistem berkas
+  it: Uno scanner di vulnerabilità per immagini di container e file system
+  ja: コンテナイメージとファイルシステムの脆弱性スキャナー
+  ko: 컨테이너 이미지와 파일 시스템의 취약점 스캐너
+  pl: Skaner podatności obrazów kontenerów i systemów plików
+  pt: Um verificador de vulnerabilidades para imagens de contêiner e sistemas de arquivos
+  ro: Un scanator de vulnerabilități pentru imagini de container și sisteme de fișiere
+  ru: Сканер уязвимостей для образов контейнеров и файловых систем
+  th: เครื่องสแกนช่องโหว่สำหรับอิมเมจคอนเทนเนอร์และระบบไฟล์
+  tr: Konteyner imajları ve dosya sistemleri için bir güvenlik açığı tarayıcısı
+  uk: Сканер вразливимостей для образів контейнерів і файлових систем
+  vi: Trình quét lỗ hổng cho ảnh container và hệ thống tệp
 x:
   source: https://github.com/anchore/grype
   eget: anchore/grype

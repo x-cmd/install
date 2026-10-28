@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: ugrep is a user-friendly, faster, more capable grep replacement with a TUI, Google-like Boolean queries, fuzzy search, hexdumps, and searches inside archives, compressed files, PDFs and docs.
   cn: ugrep 是更友好、更快、更强的 grep 替代品，支持 TUI、Google 风格布尔查询、模糊搜索、十六进制转储，以及在归档/压缩/PDF/文档内搜索。
+  cs: ugrep je uživatelsky přátelivá, rychlejší a schopnější náhrada grep s TUI, dotazy podle vzoru Google, fuzzy vyhledáváním, hexdumpyem a vyhledáváním uvnitř archivů, komprimovaných souborů, PDF a dokumentů.
+  de: ugrep ist ein benutzerfreundlicher, schnellerer und leistungsfähigerer grep-Ersatz mit TUI, Google-ähnlichen Booleschen Abfragen, Fuzzy-Suche, Hexdumps sowie der Suche in Archiven, komprimierten Dateien, PDFs und Dokumenten.
+  es: ugrep es un reemplazo de grep más amigable, rápido y capaz, con TUI, consultas booleanas similares a las de Google, búsqueda difusa, volcados hexadecimales y búsqueda dentro de archivos comprimidos, comprimidos, PDF y documentos.
+  fr: ugrep est un remplacement de grep plus convivial, plus rapide et plus capable, avec TUI, requêtes booléennes à la Google, recherche approximative, vidages hexadécimaux et recherche dans les archives, fichiers compressés, PDF et documents.
+  id: ugrep adalah pengganti grep yang lebih ramah pengguna, lebih cepat, dan lebih mampu, dengan TUI, kueri Boolean ala Google, pencarian fuzzy, hexdump, serta pencarian di dalam arsip, file terkompresi, PDF, dan dokumen.
+  it: ugrep è un sostituto di grep più intuitivo, più veloce e più capace, con TUI, query booleane in stile Google, ricerca fuzzy, hexdump e ricerca dentro archivi, file compressi, PDF e documenti.
+  ja: ugrep はより便利で高速、より高性能な grep の代替ツールです。TUI、Google 風のブール式クエリ、あいまい検索、hexdump、アーカイブ・圧縮ファイル・PDF・ドキュメント内の検索に対応しています。
+  ko: ugrep는 TUI, Google식 불리언 쿼리, 퍼지 검색, 헥스 덤프, 아카이브·압축 파일·PDF·문서 내부 검색을 지원하는 더 친절하고 빠르고 강력한 grep 대체 도구입니다.
+  pl: ugrep to przyjazniejsza, szybsza i bardziej sprawna alternatywa dla grep, z TUI, zapytaniami logicznymi w stylu Google, wyszukiwaniem rozmytym, zrzutami heksadecymalnymi oraz wyszukiwaniem w archiwach, skompresowanych plikach, PDF-ach i dokumentach.
+  pt: ugrep é um substituto do grep mais amigável, mais rápido e mais capaz, com TUI, consultas booleanas ao estilo do Google, busca difusa, hex dumps e busca dentro de arquivos compactados, arquivos comprimidos, PDFs e documentos.
+  ro: ugrep este un înlocuitor mai prietenos cu utilizatorul, mai rapid și mai capabil pentru grep, cu TUI, interogări booleene în stil Google, căutare neexactă, hexdump și căutare în arhive, fișiere comprimate, PDF-uri și documente.
+  ru: ugrep — более дружелюбная, быстрая и функциональная замена grep с TUI, булевыми запросами в стиле Google, нечётким поиском, hex-дампами и поиском внутри архивов, сжатых файлов, PDF и документов.
+  th: ugrep เป็นตัวแทน grep ที่ใช้งานง่ายขึ้น เร็วขึ้น และมีความสามารถมากกว่า พร้อม TUI, คิวรีแบบบูลีนคล้าย Google, การค้นหาแบบฟัซซี่, hexdump และการค้นหาภายในไฟล์บีบอัด ไฟล์บีบอัด PDF และเอกสาร
+  tr: ugrep, TUI, Google benzeri Boolean sorgular, bulanık arama, hexdump ve arşivler, sıkıştırılmış dosyalar, PDF'ler ve belgeler içinde arama desteğiyle daha kullanıcı dostu, daha hızlı ve daha yetenekli bir grep alternatifidir.
+  uk: ugrep — зручніша, швидша і потужніша заміна grep із TUI, булевими запитами в стилі Google, нечітким пошуком, hex-дампом і пошуком усередині архівів, стиснутих файлів, PDF і документів.
+  vi: ugrep là lựa chọn thay thế grep thân thiện hơn, nhanh hơn và mạnh mẽ hơn, với TUI, truy vấn boolean kiểu Google, tìm kiếm mờ, hexdump và tìm kiếm bên trong tệp nén, tệp nén, PDF và tài liệu
 x:
   source: https://github.com/Genivia/ugrep
   brew: ugrep

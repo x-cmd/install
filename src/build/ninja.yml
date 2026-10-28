@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Ninja 是一个注重速度的小型构建系统
   en: Ninja is a small build system with a focus on speed
+  cs: Ninja je malý build systém zaměřený na rychlost
+  de: Ninja ist ein kleines Buildsystem mit Fokus auf Geschwindigkeit
+  es: Ninja es un sistema de compilación pequeño y enfocado en la velocidad
+  fr: Ninja est un petit système de build axé sur la vitesse
+  id: Ninja adalah sistem build kecil dengan fokus pada kecepatan
+  it: Ninja è un piccolo sistema di build con un focus sulla velocità
+  ja: Ninja は速度重視の小さなビルドシステムです
+  ko: Ninja는 속도에 중점을 둔 작은 빌드 시스템입니다
+  pl: Ninja to mały system budowania nastawiony na szybkość
+  pt: Ninja é um pequeno sistema de build com foco em velocidade
+  ro: Ninja este un sistem de build mic, cu accent pe viteză
+  ru: Ninja — небольшая система сборки, ориентированная на скорость
+  th: Ninja คือระบบบิลด์ขนาดเล็กที่เน้นความเร็ว
+  tr: Ninja, hıza odaklanan küçük bir derleme sistemidir
+  uk: Ninja — невелика система складання, зосереджена на швидкості
+  vi: Ninja là hệ thống build nhỏ gọn tập trung vào tốc độ
 x:
   source: https://github.com/ninja-build/ninja
   eget: ninja-build/ninja

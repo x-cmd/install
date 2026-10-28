@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于 WebSockets 的 Netcat、 curl 和 socat
   en: Netcat, curl and socat for WebSockets
+  cs: Netcat, curl a socat pro WebSockets
+  de: Netcat, curl und socat für WebSockets
+  es: Netcat, curl y socat para WebSockets
+  fr: Netcat, curl et socat pour les WebSockets
+  id: Netcat, curl, dan socat untuk WebSockets
+  it: Netcat, curl e socat per i WebSocket
+  ja: WebSockets 向けの Netcat、curl、socat。
+  ko: WebSockets를 위한 Netcat, curl, socat
+  pl: Netcat, curl i socat dla WebSocketów
+  pt: Netcat, curl e socat para WebSockets
+  ro: Netcat, curl și socat pentru WebSockets
+  ru: Netcat, curl и socat для WebSockets
+  th: Netcat, curl และ socat สำหรับ WebSockets
+  tr: WebSockets için Netcat, curl ve socat
+  uk: Netcat, curl та socat для WebSockets
+  vi: Netcat, curl và socat cho WebSockets
 x:
   source: https://github.com/vi/websocat
   eget: vi/websocat

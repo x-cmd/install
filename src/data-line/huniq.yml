@@ -3,6 +3,22 @@ homepage: https://github.com/koraa/huniq
 desc:
   cn: 筛选出命令行上的副本
   en: Filter out duplicates on the command line
+  cs: Odfiltruje duplicity v příkazové řádce
+  de: Filtert Duplikate in der Kommandozeile heraus
+  es: Filtra los duplicados en la línea de comandos
+  fr: Filtre les doublons dans la ligne de commande
+  id: Menyaring duplikat di baris perintah
+  it: Filtra i duplicati nella riga di comando
+  ja: コマンドライン上の重複を除外します
+  ko: 명령줄의 중복 항목을 걸러냅니다
+  pl: Odfiltrowuje duplikaty w wierszu poleceń
+  pt: Filtra duplicados na linha de comando
+  ro: Filtrează duplicatele din linia de comandă
+  ru: Отфильтровывает повторы в командной строке
+  th: กรองรายการซ้ำออกจากบรรทัดคำสั่ง
+  tr: Komut satırındaki yinelenenleri süzer
+  uk: Відфільтровує дублікати в командному рядку
+  vi: Lọc các mục trùng lặp trên dòng lệnh
 x:
   source: https://github.com/koraa/huniq
   cargo: huniq

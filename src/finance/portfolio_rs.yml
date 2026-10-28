@@ -3,6 +3,22 @@ homepage: https://crates.io/crates/portfolio_rs
 desc:
   cn: 用 Rust 编写的用于管理金融投资组合的命令行工具
   en: A command line tool for managing financial investment portfolios written in Rust
+  cs: Nástroj příkazové řádky pro správu finančních investičních portfolií napsaný v Rustu
+  de: Ein in Rust geschriebenes Kommandozeilenwerkzeug zur Verwaltung von Finanzinvestmentportfolios
+  es: Una herramienta de línea de comandos para gestionar carteras de inversión financieras escrita en Rust
+  fr: Un outil en ligne de commande pour gérer des portefeuilles d'investissement financier, écrit en Rust
+  id: Alat baris perintah untuk mengelola portofolio investasi keuangan yang ditulis dengan Rust
+  it: Uno strumento da riga di comando per gestire portafogli di investimento finanziari, scritto in Rust
+  ja: Rustで書かれた金融投資ポートフォリオ管理用のコマンドラインツール
+  ko: Rust로 작성된 금융 투자 포트폴리오 관리용 명령줄 도구
+  pl: Narzędzie wiersza poleceń do zarządzania portfelami inwestycyjnymi, napisane w Rust
+  pt: Uma ferramenta de linha de comando para gerenciar carteiras de investimento financeiro escrita em Rust
+  ro: Un instrument de linie de comandă pentru gestionarea portofoliilor de investiții financiare, scris în Rust
+  ru: Инструмент командной строки для управления инвестиционными портфелями, написанный на Rust
+  th: เครื่องมือบรรทัดคำสั่งสำหรับจัดการพอร์ตการลงทุนทางการเงิน เขียนด้วย Rust
+  tr: Rust ile yazılmış, finansal yatırım portföylerini yönetmek için bir komut satırı aracı
+  uk: Інструмент командного рядка для керування фінансовими інвестиційними портфелями, написаний на Rust
+  vi: Công cụ dòng lệnh để quản lý danh mục đầu tư tài chính được viết bằng Rust
 rule:
   arch/yay:
     cmd: yay -S portfolio

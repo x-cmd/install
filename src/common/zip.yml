@@ -3,6 +3,22 @@ homepage: https://infozip.sourceforge.net/Zip.html
 desc:
   cn: Zip 是一个压缩和文件打包/归档实用程序
   en: Zip is a compression and file packaging/archive utility
+  cs: Zip je nástroj pro kompresi a balení/archivování souborů
+  de: Zip ist ein Komprimierungs- und Dateiverpackungs-/Archivierungswerkzeug
+  es: Zip es una utilidad de compresión y empaquetado/archivado de archivos
+  fr: Zip est un utilitaire de compression et d Packaging/archivage de fichiers
+  id: Zip adalah utilitas kompresi dan pengemasan/arsip file
+  it: Zip è un'utilità di compressione e confezionamento/archiviazione di file
+  ja: Zip は、圧縮とファイルのパッキング/アーカイブを行うユーティリティです。
+  ko: Zip는 압축 및 파일 패킹/아카이브 유틸리티입니다
+  pl: Zip to narzędzie do kompresji oraz pakowania/archiwizacji plików
+  pt: Zip é um utilitário de compactação e empacotamento/arquivamento de arquivos
+  ro: Zip este un utilitar de compresie și împachetare/arhivare a fișierelor
+  ru: Zip — это утилита для сжатия и упаковки/архивирования файлов
+  th: Zip เป็นเครื่องมือสำหรับบีบอัดและแพ็ก/จัดเก็บไฟล์เป็นคลัง
+  tr: Zip, dosyaları sıkıştırma ve paketleme/arctivleme aracıdır
+  uk: Zip — це утиліта для стиснення та пакування/архівування файлів
+  vi: Zip là tiện ích nén và đóng gói/lưu trữ tệp
 rule:
   darwin/brew:
     cmd: brew install zip

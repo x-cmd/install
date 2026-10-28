@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Walk 是一个基于终端的导航器，可以替代传统的 ls 和 cd 命令
   en: Walk is a terminal-based navigator that serves as an alternative to the traditional ls and cd commands
+  cs: Walk je terminálový navigátor, který slouží jako alternativa k tradičním příkazům ls a cd
+  de: Walk ist ein Terminal-Navigator, der eine Alternative zu den traditionellen Befehlen ls und cd darstellt
+  es: Walk es un navegador de terminal que sirve como alternativa a los comandos tradicionales ls y cd
+  fr: Walk est un navigateur de terminal qui sert d'alternative aux commandes traditionnelles ls et cd
+  id: Walk adalah navigator berbasis terminal yang menjadi alternatif dari perintah tradisional ls dan cd
+  it: Walk è un navigatore da terminale che funge da alternativa ai comandi tradizionali ls e cd
+  ja: Walk は従来型の ls と cd コマンドの代替となるターミナルナビゲーターです
+  ko: Walk는 기존 ls 및 cd 명령을 대체하는 터미널 탐색 도구입니다
+  pl: Walk to nawigator terminalowy stanowiący alternatywę dla tradycyjnych poleceń ls i cd
+  pt: Walk é um navegador de terminal que serve como alternativa aos comandos tradicionais ls e cd
+  ro: Walk este un navigator de terminal care servește ca alternativă la comenzile tradiționale ls și cd
+  ru: Walk — терминальный навигатор, служащий альтернативой традиционным командам ls и cd
+  th: Walk คือตัวนำทางบนเทอร์มินัลที่ใช้แทนคำสั่ง ls และ cd แบบเดิม
+  tr: Walk, geleneksel ls ve cd komutlarına alternatif olan terminal tabanlı bir gezgin
+  uk: Walk — термінальний навігатор, що є альтернативою традиційним командам ls та cd
+  vi: Walk là trình duyệt dựa trên terminal, thay thế cho các lệnh ls và cd truyền thống
 x:
   source: https://github.com/antonmedv/walk
   eget: antonmedv/walk

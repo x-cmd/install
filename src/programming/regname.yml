@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的批量重命名 TUI
   en: 'Mass renamer TUI written in Rust'
+  cs: TUI pro hromadné přejmenování napsaný v Rustu
+  de: Ein Massenumbenennungs-TUI, geschrieben in Rust
+  es: TUI de renombrado masivo escrito en Rust
+  fr: TUI de renommage par masse écrit en Rust
+  id: TUI untuk rename massal yang ditulis dengan Rust
+  it: TUI per il rinominamento di massa scritto in Rust
+  ja: Rust で書かれた一括名変更 TUI
+  ko: Rust로 작성된 일괄 이름 변경 TUI
+  pl: TUI do zbiorczego zmieniania nazw napisane w Rust
+  pt: TUI de renomeação em massa escrita em Rust
+  ro: TUI pentru redenumire în masă scris în Rust
+  ru: TUI для массового переименования, написанный на Rust
+  th: TUI สำหรับเปลี่ยนชื่อแบบกลุ่ม พัฒนาด้วย Rust
+  tr: Rust ile yazılmış toplu yeniden adlandırma TUI'si
+  uk: TUI для масового перейменування, написаний на Rust
+  vi: TUI đổi tên hàng loạt được viết bằng Rust
 x:
   source: https://github.com/linkdd/regname
   eget: linkdd/regname

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Bazel 是一款与 Make、Maven 和 Gradle 类似的开源构建和测试工具
   en: Bazel is an open-source build and test tool similar to Make, Maven, and Gradle
+  cs: Bazel je open source nástroj pro sestavování a testování podobný Make, Maven a Gradle
+  de: Bazel ist ein quelloffenes Build- und Testwerkzeug ähnlich wie Make, Maven und Gradle
+  es: Bazel es una herramienta de compilación y pruebas de código abierto similar a Make, Maven y Gradle
+  fr: Bazel est un outil open source de build et de test similaire à Make, Maven et Gradle
+  id: Bazel adalah alat build dan tes sumber terbuka mirip dengan Make, Maven, dan Gradle
+  it: Bazel è uno strumento open source per la compilazione e i test simile a Make, Maven e Gradle
+  ja: Bazel は Make、Maven、Gradle に似たオープンソースのビルドとテストツールです
+  ko: Bazel은 Make, Maven, Gradle과 유사한 오픈 소스 빌드 및 테스트 도구입니다
+  pl: Bazel to narzędzie do budowania i testowania o otwartym kodzie, podobne do Make, Maven i Gradle
+  pt: O Bazel é uma ferramenta de build e teste de código aberto semelhante a Make, Maven e Gradle
+  ro: Bazel este un instrument de build și test cu sursă deschisă, similar cu Make, Maven și Gradle
+  ru: Bazel — инструмент сборки и тестирования с открытым исходным кодом, похожий на Make, Maven и Gradle
+  th: Bazel เป็นเครื่องมือสร้างและทดสอบแบบโอเพนซอร์สคล้ายกับ Make, Maven และ Gradle
+  tr: Bazel, Make, Maven ve Gradle'a benzer bir açık kaynaklı derleme ve test aracıdır
+  uk: Bazel — інструмент збірки та тестування з відкритим кодом, подібний до Make, Maven та Gradle
+  vi: Bazel là công cụ build và test mã nguồn mở tương tự Make, Maven và Gradle
 x:
   source: https://github.com/bazelbuild/bazel
   eget: bazelbuild/bazel
