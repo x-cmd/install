@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 简单的命令行 Caldav 客户端，用于添加和浏览日历项目，待办事项列表项目
   en: Simple command-line CalDav client, for adding and browsing calendar items, todo list items
+  cs: Jednoduchý klient CalDav pro příkazovou řádku, pro přidávání a procházení položek kalendáře a seznamu úkolů
+  de: Einfacher CalDav-Befehlszeilen-Client zum Hinzufügen und Durchsuchen von Kalender- und Aufgabeneinträgen
+  es: Simple cliente CalDav de línea de comandos para añadir y explorar elementos de calendario y de listas de tareas
+  fr: Client CalDav en ligne de commande simple, pour ajouter et parcourir des éléments de calendrier et de listes de tâches
+  id: Klien CalDav sederhana untuk baris perintah, untuk menambahkan dan menelusuri item kalender dan daftar tugas
+  it: Semplice client CalDav da riga di comando, per aggiungere e sfoglare voci di calendario e di elenchi di attività
+  ja: カレンダー項目やタスクリスト項目を追加・閲覧するための、シンプルなコマンドライン CalDav クライアント
+  ko: 간단한 CalDav 명령줄 클라이언트로, 캘린더 항목과 할 일 목록 항목을 추가하고 탐색할 수 있습니다
+  pl: Prosty klient CalDav dla wiersza poleceń, do dodawania i przeglądania wpisów kalendarza i listy zadań
+  pt: Simples cliente CalDav de linha de comando, para adicionar e navegar por itens de calendário e de listas de tarefas
+  ro: Client CalDav simplu pentru linia de comandă, pentru adăugarea și parcurgerea elementelor de calendar și din listele de sarcini
+  ru: Простой клиент CalDav для командной строки для добавления и просмотра записей календаря и списков задач
+  th: ไคลเอนต์ CalDav แบบบรรทัดคำสั่งอย่างง่าย สำหรับเพิ่มและเรียกดูรายการปฏิทินและรายการงาน
+  tr: Takvim ve yapılacaklar listesi öğelerini eklemek ve gezmek için basit bir CalDav komut satırı istemcisi
+  uk: Простий клієнт CalDav для командного рядка для додавання та перегляду записів календаря і списків завдань
+  vi: Máy khách CalDav đơn giản cho dòng lệnh, dùng để thêm và duyệt các mục lịch và mục danh sách việc cần làm
 x:
   source: https://github.com/tobixen/calendar-cli
   yay: calendar-cli

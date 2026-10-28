@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: Dexios 是一个命令行文件加密实用程序，适合在将文件上传到云服务之前对其进行加密
   en: Dexios is a command-line file encryption utility, suitable for encrypting files before uploading them to a cloud service
+  cs: Dexios je nástroj pro šifrování souborů v příkazovém řádku, vhodný pro šifrování souborů před jejich nahráním do cloudové služby
+  de: Dexios ist ein Kommandozeilen-Tool zur Dateiverschlüsselung, geeignet zum Verschlüsseln von Dateien vor dem Hochladen zu einem Cloud-Dienst
+  es: Dexios es una utilidad de cifrado de archivos de línea de comandos, adecuada para cifrar archivos antes de subirlos a un servicio en la nube
+  fr: Dexios est un utilitaire de chiffrement de fichiers en ligne de commande, adapté au chiffrement de fichiers avant leur téléversement vers un service cloud
+  id: Dexios adalah utilitas enkripsi file baris perintah, cocok untuk mengenkripsi file sebelum mengunggahnya ke layanan cloud
+  it: Dexios è un'utilità di crittografia dei file da riga di comando, adatta per crittografare i file prima di caricarli su un servizio cloud
+  ja: Dexios はコマンドラインでのファイル暗号化ユーティリティで、クラウドサービスへアップロードする前にファイルを暗号化するのに適しています
+  ko: Dexios는 명령줄 파일 암호화 유틸리티로, 클라우드 서비스에 업로드하기 전에 파일을 암호화하는 데 적합합니다
+  pl: Dexios to narzędzie wiersza poleceń do szyfrowania plików, przydatne do szyfrowania plików przed przesłaniem ich do usługi chmurowej
+  pt: O Dexios é um utilitário de criptografia de arquivos de linha de comando, adequado para criptografar arquivos antes de enviá-los a um serviço de nuvem
+  ro: Dexios este o utilitar de criptare a fișierelor din linia de comandă, potrivit pentru criptarea fișierelor înainte de încărcarea lor într-un serviciu cloud
+  ru: Dexios — это утилита шифрования файлов командной строки, подходящая для шифрования файлов перед их загрузкой в облачный сервис
+  th: Dexios คือยูทิลิตีเข้ารหัสไฟล์บนบรรทัดคำสั่ง เหมาะสำหรับการเข้ารหัสไฟล์ก่อนอัปโหลดไปยังบริการคลาวด์
+  tr: Dexios, dosyaları bulut hizmetine yüklemeden önce şifrelemek için uygun, komut satırı dosya şifreleme aracıdır
+  uk: Dexios — це утиліта шифрування файлів з командного рядка, придатна для шифрування файлів перед їх завантаженням до хмарного сервісу
+  vi: Dexios là tiện ích mã hóa tệp trên dòng lệnh, phù hợp để mã hóa tệp trước khi tải lên dịch vụ đám mây
 x:
   source: https://github.com/brxken128/dexios
   eget: brxken128/dexios

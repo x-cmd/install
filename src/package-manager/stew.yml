@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于已编译二进制文件的独立包管理器。
   en: An independent package manager for compiled binaries.
+  cs: Nezávislý správce balíčků pro zkompilované binární soubory.
+  de: Ein unabhängiger Paketmanager für kompilierte Binärdateien.
+  es: Un gestor de paquetes independiente para binarios compilados.
+  fr: Un gestionnaire de paquets indépendant pour les binaires compilés.
+  id: Manajer paket independen untuk biner yang dikompilasi.
+  it: Un gestore di pacchetti indipendente per i binari compilati.
+  ja: コンパイル済みバイナリのための独立したパッケージマネージャー。
+  ko: 컴파일된 바이너리를 위한 독립적인 패키지 관리자.
+  pl: Niezależny menedżer pakietów dla skompilowanych plików binarnych.
+  pt: Um gerenciador de pacotes independente para binários compilados.
+  ro: Un manager de pachete independent pentru binare compilate.
+  ru: Независимый менеджер пакетов для скомпилированных бинарных файлов.
+  th: ตัวจัดการแพ็กเกจอิสระสำหรับไบนารีที่คอมไพล์แล้ว
+  tr: Derlenmiş ikili dosyalar için bağımsız bir paket yöneticisi.
+  uk: Незалежний менеджер пакуватків для скомпільованих бінарних файлів.
+  vi: Trình quản lý gói độc lập cho các tệp nhị phân đã biên dịch.
 x:
   source: https://github.com/marwanhawari/stew
   eget: marwanhawari/stew

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 原生跨平台的终端全功能 git 交互式 rebase 序列编辑器
   en: 'Native cross-platform full feature terminal-based sequence editor for git interactive rebase.'
+  cs: Nativní multiplatformní editor sekvencí pro interaktivní git rebase v terminálu, se všemi funkcemi
+  de: Nativer, plattformübergreifender, terminalbasierter Sequenzeditor für interaktives git rebase mit vollem Funktionsumfang.
+  es: Editor de secuencias nativo, multiplataforma y con todas las funciones, basado en terminal para el rebase interactivo de git.
+  fr: Éditeur de séquence natif, multiplateforme et complet, basé sur le terminal pour le rebase interactif de git.
+  id: Editor urutan lintas platform berbasis terminal dengan fitur lengkap untuk git interactive rebase.
+  it: Editor di sequenza nativo, multipiattaforma e completo, basato su terminale per il rebase interattivo di git.
+  ja: ネイティブでクロスプラットフォームな、git interactive rebase向けのフル機能のターミナルシーケンスエディタ
+  ko: 네이티브 크로스 플랫폼 터미널 기반 전체 기능 git interactive rebase 시퀀스 편집기
+  pl: Natywny, wieloplatformowy, terminalowy edytor sekwencji z pełnym zestawem funkcji do interaktywnego rebase w git.
+  pt: Editor de sequências nativo, multiplataforma e completo, baseado em terminal para git interactive rebase.
+  ro: Editor de secvență nativ, multiplatformă, bazat pe terminal, cu toate funcțiile, pentru git interactive rebase.
+  ru: Нативный кроссплатформенный терминальный редактор последовательностей с полным набором функций для интерактивного git rebase.
+  th: ตัวแก้ไขลำดับแบบเนทีฟข้ามแพลตฟอร์มบนเทอร์มินัลพร้อมคุณสมบูรณ์ สำหรับ git interactive rebase
+  tr: Git interactive rebase için yerel, çok platformlu, terminal tabanlı tam özellikli dizi düzenleyici.
+  uk: Нативний кроссплатформенний термінальний редактор послідовностей із повним набором функцій для інтерактивного git rebase.
+  vi: Trình chỉnh sửa chuỗi gốc, đa nền tảng, chạy trên terminal với đầy đủ tính năng cho git interactive rebase.
 x:
   source: https://github.com/MitMaro/git-interactive-rebase-tool
   eget: MitMaro/git-interactive-rebase-tool

@@ -3,6 +3,22 @@ homepage: https://github.com/akheron/jansson
 desc:
   cn: Jansson 是一个用于编码、解码和操作 JSON 数据的 C 库
   en: Jansson is a C library for encoding, decoding and manipulating JSON data
+  cs: Jansson je knihovna jazyka C pro kódování, dekódování a manipulaci s daty JSON
+  de: Jansson ist eine C-Bibliothek zum Kodieren, Dekodieren und Manipulieren von JSON-Daten
+  es: Jansson es una biblioteca en C para codificar, decodificar y manipular datos JSON
+  fr: Jansson est une bibliothèque C pour l'encodage, le décodage et la manipulation de données JSON
+  id: Jansson adalah pustaka C untuk pengodean, pendekodean, dan memanipulasi data JSON
+  it: Jansson è una libreria C per codificare, decodificare e manipolare dati JSON
+  ja: Jansson は JSON データのエンコード、デコード、操作のための C ライブラリです
+  ko: Jansson은 JSON 데이터를 인코딩, 디코딩하고 조작하기 위한 C 라이브러리입니다
+  pl: Jansson to biblioteka C do kodowania, dekodowania i manipulacji danymi JSON
+  pt: Jansson é uma biblioteca C para codificar, decodificar e manipular dados JSON
+  ro: Jansson este o bibliotecă C pentru codificarea, decodificarea și manipularea datelor JSON
+  ru: Jansson — это библиотека на C для кодирования, декодирования и обработки данных JSON
+  th: Jansson คือไลบรารี C สำหรับเข้ารหัส ถอดรหัส และจัดการข้อมูล JSON
+  tr: Jansson, JSON verilerini kodlamak, kod çözmek ve işlemek için bir C kitaplığıdır
+  uk: Jansson — це бібліотека на C для кодування, декодування та обробки даних JSON
+  vi: Jansson là thư viện C để mã hóa, giải mã và thao tác dữ liệu JSON
 x:
   source: https://github.com/akheron/jansson
   eget: akheron/jansson

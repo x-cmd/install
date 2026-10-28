@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Mistral 的开源 CLI 编码助手
   en: Mistral's open-source CLI coding assistant.
+  cs: Open source CLI asistent pro kódování od Mistral.
+  de: Mistrals quelloffener CLI-Coding-Assistent.
+  es: Asistente de programación en la CLI de código abierto de Mistral.
+  fr: Assistant de codage CLI open source de Mistral.
+  id: Asisten pemrograman CLI open-source dari Mistral.
+  it: Assistente di programmazione CLI open source di Mistral.
+  ja: Mistral のオープンソース CLI コーディングアシスタント。
+  ko: Mistral의 오픈 소스 CLI 코딩 어시스턴트.
+  pl: Asystent programowania w CLI o otwartym kodzie od Mistral.
+  pt: Assistente de programação CLI de código aberto da Mistral.
+  ro: Asistent de programare CLI cu sursă deschisă de la Mistral.
+  ru: Открытый CLI-ассистент для написания кода от Mistral.
+  th: ผู้ช่วยเขียนโค้ด CLI โอเพนซอร์สจาก Mistral
+  tr: Mistral'ın açık kaynaklı CLI kodlama asistanı.
+  uk: Відкритий CLI-асистент для написання коду від Mistral.
+  vi: Trợ lý lập trình CLI mã nguồn mở của Mistral.
 x:
   source: https://github.com/mistralai/mistral-vibe
   eget: mistralai/mistral-vibe

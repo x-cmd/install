@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端便利贴钉板 TUI，可在 ASCII 软木板上拖动便签、连红线、切换命名面板，Go 编写
   en: 'A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.'
+  cs: TUI s připínacími poznámkami pro váš terminál — přesouvejte poznámky po ASCII korkové tabuli, veďte mezi nimi červené nitě a přeskakujte mezi pojmenovanými tabulemi. Myší především, napsáno v Go.
+  de: Eine Haftnotiz-Pegboard-TUI für Ihr Terminal — ziehen Sie Notizen über ein ASCII-Korkbrett, hängen Sie rote Fäden dazwischen und wechseln Sie durch benannte Boards. Mausorientiert, in Go geschrieben.
+  es: "Un TUI de pizarra con notas adhesivas para tu terminal: arrastra notas por un corcho ASCII, cuelga hilos rojos entre ellas y cambia entre tableros con nombre. Prioriza el ratón, escrito en Go."
+  fr: Un TUI de tableau à notes adhésives pour votre terminal — déplacez les notes sur un tableau de liège ASCII, reliez-les par des fils rouges et passez d'un tableau nommé à l'autre. Pensé pour la souris, écrit en Go.
+  id: TUI papan tempel untuk terminal Anda — seret catatan di papan cork ASCII, gantungkan benang merah di antaranya, dan berpindah antar papan bernama. Mengutamakan tetikus, ditulis dengan Go.
+  it: "Una TUI a bachecca di post-it per il tuo terminale: trascina le note su una bachecca di sughero ASCII, appendi fili rossi tra loro e passa tra bacheche nominate. Pensata per il mouse, scritta in Go."
+  ja: terminal向けの付箋ピグボードTUI — ASCII corkboard上でメモをドラッグし、赤い糸で結び、名前付きボードを切り替えられます。マウス主体でGoで書かれています。
+  ko: 터미널을 위한 메모 붙이는 말판 TUI — ASCII 코크보드에서 메모를 끌어다 옮기고, 빨간 실로 연결하며, 이름이 지정된 보드 사이를 오갈 수 있습니다. 마우스 우선, Go로 작성되었습니다.
+  pl: TUI tablica z karteczkami samoprzylepnych dla twojego terminala — przeciągaj notatki po korkowej tablicy ASCII, łącz je czerwonymi nićmi i przełączaj się między nazwanymi tablicami. Skoncentrowane na myszy, napisane w Go.
+  pt: Um TUI de quadro de notas adesivas para o seu terminal — arraste notas num corkboard ASCII, pendure fios vermelhos entre elas e alterne entre quadros nomeados. Pensado para o rato, escrito em Go.
+  ro: Un TUI de tablou cu bilețele pentru terminalul tău — trage notițe pe o tablă de plută ASCII, atârnă fire roșii între ele și comută între tablouri cu nume. Axat pe mouse, scris în Go.
+  ru: TUI-доска с клейкими записками для вашего терминала — перетаскивайте записки по ASCII-пробковой доске, протягивайте между ними красные нитки и переключайтесь между именованными досками. Сделан с упором на мышь, написан на Go.
+  th: TUI กระดานจดหมายกระดาษสำหรับเทอร์มินัลของคุณ — ลากจดหมายไปตามกระดานพิน ASCII, ผูกเชือกแดงระหว่างจดหมาย และสลับระหว่างกระดานที่ตั้งชื่อไว้ เน้นการใช้เมาส์ เขียนด้วย Go
+  tr: Terminaliniz için yapışkan not panosu TUI'si — notları ASCII mantar panoda sürükleyin, aralarına kırmızı ipler gerin ve adlandırılmış panolar arasında geçiş yapın. Fare öncelikli, Go ile yazıldı.
+  uk: TUI-дошка із клейких нотаток для вашого термінала — перетягуйте нотатки по корковій ASCII-дошці, протягуйте між ними червоні нитки та перемикайтеся між іменованими дошками. Зроблено з акцентом на мишу, написано на Go.
+  vi: TUI bảng ghim ghi chú cho terminal của bạn — kéo ghi chú quanh bảng nút ASCII, nối chúng bằng sợi chỉ đỏ và chuyển qua các bảng đã đặt tên. Ưu tiên chuột, viết bằng Go.
 x:
   source: https://github.com/B33pBeeps/redthread
   eget: B33pBeeps/redthread

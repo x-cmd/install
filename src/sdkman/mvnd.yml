@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: 使用 Gradle 和 Takari 已知的技术提供更快的 Maven 构建
   en: providing faster Maven builds using techniques known from Gradle and Takari
+  cs: Rychlejší sestavení Mavenu s využitím technik známých z Gradle a Takari
+  de: Schnellere Maven-Builds mit Techniken aus Gradle und Takari
+  es: Compilaciones de Maven más rápidas mediante técnicas conocidas de Gradle y Takari
+  fr: Des builds Maven plus rapides grâce aux techniques connues de Gradle et Takari
+  id: Build Maven yang lebih cepat menggunakan teknik yang dikenal dari Gradle dan Takari
+  it: Build Maven più veloci utilizzando tecniche note da Gradle e Takari
+  ja: Gradle と Takari でよく知られた手法を用いて Maven ビルドを高速化
+  ko: Gradle과 Takari의 알려진 기법을 사용하여 더 빠른 Maven 빌드 제공
+  pl: Szybsze kompilacje Maven przy użyciu technik znanych z Gradle i Takari
+  pt: Compilações Maven mais rápidas usando técnicas conhecidas de Gradle e Takari
+  ro: Construiri Maven mai rapide folosind tehnici cunoscute din Gradle și Takari
+  ru: Более быстрая сборка Maven с использованием приёмов из Gradle и Takari
+  th: ให้การบิลด์ Maven เร็วขึ้นโดยใช้เทคนิคที่ได้รับการพัฒนาจาก Gradle และ Takari
+  tr: Gradle ve Takari'den bilinen tekniklerle daha hızlı Maven derlemeleri
+  uk: Швидші збірки Maven з використанням прийомів із Gradle та Takari
+  vi: Cung cấp bản dựng Maven nhanh hơn bằng các kỹ thuật đã biết từ Gradle và Takari
 lang: Java
 x:
   brew: mvndaemon/homebrew-mvnd/mvnd

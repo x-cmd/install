@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: sqlpkg 管理 SQLite 扩展，就像 pip 对 Python 包所做的操作或 brew 对 macOS 程序所做的操作一样
   en: sqlpkg manages SQLite extensions, just like pip does with Python packages or brew does with macOS programs
+  cs: sqlpkg spravuje rozšíření SQLite, stejně jako pip dělá s balíčky Pythonu nebo brew s programy pro macOS
+  de: sqlpkg verwaltet SQLite-Erweiterungen, genau wie pip es mit Python-Paketen oder brew es mit macOS-Programmen tut
+  es: sqlpkg gestiona las extensiones de SQLite, igual que pip hace con los paquetes de Python o brew con los programas de macOS
+  fr: sqlpkg gère les extensions SQLite, tout comme pip le fait avec les paquets Python ou brew avec les programmes macOS
+  id: sqlpkg mengelola ekstensi SQLite, persis seperti pip menangani paket Python atau brew menangani program macOS
+  it: sqlpkg gestisce le estensioni di SQLite, proprio come pip fa con i pacchetti Python o brew con i programmi per macOS
+  ja: sqlpkg は Python パッケージに対する pip や macOS プログラムに対する brew と同じように SQLite の拡張機能を管理します
+  ko: sqlpkg은 Python 패키지에 대한 pip나 macOS 프로그램에 대한 brew와 마찬가지로 SQLite 확장 기능을 관리합니다
+  pl: sqlpkg zarządza rozszerzeniami SQLite, tak jak pip robi to z pakietami Pythona, a brew z programami macOS
+  pt: sqlpkg gerencia as extensões do SQLite, assim como o pip faz com pacotes Python ou o brew faz com programas macOS
+  ro: sqlpkg gestionează extensiile SQLite, exact cum face pip cu pachetele Python sau brew cu programele macOS
+  ru: sqlpkg управляет расширениями SQLite, как pip управляет пакетами Python, а brew — программами macOS
+  th: sqlpkg จัดการส่วนขยายของ SQLite เหมือนที่ pip จัดการแพ็กเกจ Python หรือ brew จัดการโปรแกรม macOS
+  tr: sqlpkg, pip'in Python paketleriyle yaptığı gibi ya da brew'in macOS programlarıyla yaptığı gibi SQLite eklentilerini yönetir
+  uk: sqlpkg керує розширеннями SQLite, так само як pip керує пакетами Python, а brew — програмами macOS
+  vi: sqlpkg quản lý các tiện ích mở rộng của SQLite, giống như pip quản lý gói Python hay brew quản lý chương trình macOS
 x:
   source: https://github.com/nalgeon/sqlpkg-cli
   eget: nalgeon/sqlpkg-cli

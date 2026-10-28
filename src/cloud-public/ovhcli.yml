@@ -3,6 +3,22 @@ homepage: https://github.com/ovh/ovh-cli
 desc:
   cn: OVH 命令行界面
   en: OVH command line interface
+  cs: Příkazové rozhraní OVH
+  de: OVH Befehlszeilenschnittstelle
+  es: Interfaz de línea de comandos de OVH
+  fr: Interface de ligne de commande OVH
+  id: Antarmuka baris perintah OVH
+  it: Interfaccia a riga di comando di OVH
+  ja: OVH コマンドラインインターフェース
+  ko: OVH 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń OVH
+  pt: Interface de linha de comando da OVH
+  ro: Interfață de linie de comandă OVH
+  ru: Интерфейс командной строки OVH
+  th: อินเทอร์เฟซบรรทัดคำสั่งของ OVH
+  tr: OVH komut satırı arayüzü
+  uk: Інтерфейс командного рядка OVH
+  vi: Giao diện dòng lệnh của OVH
 x:
   source: https://github.com/ovh/ovh-cli
   pip: ovhcli

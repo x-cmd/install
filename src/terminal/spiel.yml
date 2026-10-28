@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用终端显示丰富样式的演示文稿的 CLI 工具和框架。
   en: A CLI tool and framework for creating and presenting richly-styled terminal presentations.
+  cs: Nástroj a framework CLI pro vytváření a prezentaci bohatě stylizovaných prezentací v terminálu.
+  de: Ein CLI-Tool und Framework zum Erstellen und Präsentieren von stilisierten Terminal-Präsentationen.
+  es: Una herramienta y un framework de CLI para crear y presentar presentaciones de terminal con mucho estilo.
+  fr: Un outil et un framework CLI pour créer et présenter des présentations de terminal richement stylisées.
+  id: Alat dan framework CLI untuk membuat serta mempresentasikan presentasi terminal yang bergaya kaya.
+  it: Uno strumento e un framework CLI per creare e presentare presentazioni da terminale con uno stile ricco.
+  ja: リッチにスタイルされたターミナルプレゼンテーションを作成・発表するための CLI ツールとフレームワーク。
+  ko: 풍부한 스타일의 터미널 프레젠테이션을 만들고 발표하기 위한 CLI 도구이자 프레임워크입니다.
+  pl: Narzędzie i framework CLI do tworzenia oraz prezentowania bogato stylizowanych prezentacji w terminalu.
+  pt: Uma ferramenta e um framework de CLI para criar e apresentar apresentações de terminal com estilo requintado.
+  ro: Un instrument și un framework CLI pentru crearea și prezentarea prezentărilor de terminal cu un aspect bogat.
+  ru: CLI-инструмент и фреймворк для создания и показа насыщенно оформленных презентаций в терминале.
+  th: เครื่องมือและเฟรมเวิร์ก CLI สำหรับสร้างและนำเสนองานนำเสนอในเทอร์มินัลที่มีสไตล์หรูหรา.
+  tr: Zengin stillere sahip terminal sunumları oluşturmak ve sunmak için bir CLI aracı ve çerçevesi.
+  uk: CLI-інструмент і фреймворк для створення та показу насичено оформлених презентацій у терміналі.
+  vi: Công cụ và framework CLI để tạo và trình bày các bài thuyết trình terminal giàu phong cách.
 x:
   source: https://github.com/JoshKarpel/spiel
   pip: spiel

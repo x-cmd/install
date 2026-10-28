@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A TUI for viewing and editing databases
   cn: 用于查看和编辑数据库的图形用户界面（TUI）
+  cs: TUI pro prohlížení a úpravu databází
+  de: Ein TUI zum Anzeigen und Bearbeiten von Datenbanken
+  es: Un TUI para ver y editar bases de datos
+  fr: Un TUI pour consulter et modifier des bases de données
+  id: TUI untuk melihat dan mengedit basis data
+  it: Un TUI per visualizzare e modificare database
+  ja: データベースの閲覧と編集のための TUI
+  ko: 데이터베이스를 조회하고 편집하기 위한 TUI
+  pl: TUI do przeglądania i edycji baz danych
+  pt: Um TUI para visualizar e editar bancos de dados
+  ro: Un TUI pentru vizualizarea și editarea bazelor de date
+  ru: TUI для просмотра и редактирования баз данных
+  th: TUI สำหรับดูและแก้ไขฐานข้อมูล
+  tr: Veritabanlarını görüntülemek ve düzenlemek için TUI
+  uk: TUI для перегляду та редагування баз даних
+  vi: Giao diện TUI để xem và chỉnh sửa cơ sở dữ liệu
 x:
   source: https://github.com/mathaou/termdbms
   pacman: termdbms-git

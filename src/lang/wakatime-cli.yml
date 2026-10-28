@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: WakaTime 致力于使每个程序员的时间跟踪完全自动化
   en: WakaTime is committed to making time tracking fully automatic for every programmer
+  cs: WakaTime se snaží učinit časové měření zcela automatickým pro každého programátora
+  de: WakaTime setzt sich dafür ein, die Zeiterfassung für jeden Programmierer vollständig automatisch zu machen
+  es: WakaTime se compromete a hacer que el seguimiento del tiempo sea totalmente automático para todo programador
+  fr: WakaTime s'engage à rendre le suivi du temps entièrement automatique pour chaque programmeur
+  id: WakaTime berkomitmen menjadikan pelacakan waktu sepenuhnya otomatis untuk setiap pemrogram
+  it: WakaTime si impegna a rendere il monitoraggio del tempo completamente automatico per ogni programmatore
+  ja: WakaTime は、すべてのプログラマーにとって時間計測を完全自動化することに取り組んでいます
+  ko: WakaTime은 모든 프로그래머를 위해 시간 추적을 완전 자동화하는 데 전념하고 있습니다
+  pl: WakaTime dąży do tego, by śledzenie czasu było w pełni automatyczne dla każdego programisty
+  pt: WakaTime se compromete a tornar o rastreamento de tempo totalmente automático para todo programador
+  ro: WakaTime se angajează să facă urmărirea timpului complet automată pentru fiecare programator
+  ru: WakaTime стремится сделать учёт времени полностью автоматическим для каждого программиста
+  th: WakaTime มุ่งมั่นทำให้การติดตามเวลาเป็นอัตโนมัติอย่างสมบูรณ์สำหรับโปรแกรมเมอร์ทุกคน
+  tr: WakaTime, her programcı için zaman takibini tamamen otomatikleştirmeye adanmıştır
+  uk: WakaTime прагне зробити облік часу повністю автоматичним для кожного програміста
+  vi: WakaTime cam kết làm cho việc theo dõi thời gian trở nên hoàn toàn tự động với mọi lập trình viên
 x:
   source: https://github.com/wakatime/wakatime-cli
   eget: wakatime/wakatime-cli

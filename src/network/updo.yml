@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Updo 是一个用于监控网站正常运行时间和性能的命令行工具。
   en: Updo is a command-line tool for monitoring website uptime and performance.
+  cs: Updo je nástroj příkazové řádky pro monitorování uptime a výkonu webových stránek.
+  de: Updo ist ein Kommandozeilenwerkzeug zur Überwachung der Verfügbarkeit und Leistung von Websites.
+  es: Updo es una herramienta de línea de comandos para monitorear el tiempo de actividad y el rendimiento de los sitios web.
+  fr: Updo est un outil en ligne de commande pour surveiller la disponibilité et les performances des sites web.
+  id: Updo adalah alat baris perintah untuk memantau uptime dan performa situs web.
+  it: Updo è uno strumento da riga di comando per monitorare uptime e prestazioni dei siti web.
+  ja: Updo は Web サイトの稼働時間とパフォーマンスを監視するコマンドラインツールです。
+  ko: Updo는 웹사이트의 가동 시간과 성능을 모니터링하는 명령줄 도구입니다.
+  pl: Updo jest narzędziem wiersza poleceń do monitorowania czasu działania i wydajności witryn.
+  pt: O Updo é uma ferramenta de linha de comando para monitorar o tempo de atividade e o desempenho de sites.
+  ro: Updo este un instrument de linie de comandă pentru monitorizarea disponibilității și a performanței site-urilor web.
+  ru: Updo — инструмент командной строки для мониторинга доступности и производительности веб-сайтов.
+  th: Updo เป็นเครื่องมือบรรทัดคำสั่งสำหรับตรวจสอบเวลาทำงานและประสิทธิภาพของเว็บไซต์
+  tr: Updo, web sitelerinin çalışma süresini ve performansını izlemek için bir komut satırı aracıdır.
+  uk: Updo — інструмент командного рядка для моніторингу доступності та продуктивності веб-сайтів.
+  vi: Updo là công cụ dòng lệnh để giám sát thời gian hoạt động và hiệu năng của trang web.
 x:
   source: https://github.com/Owloops/updo
   yay: updo

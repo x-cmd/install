@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用统一工作区管理 AI 智能体的聊天、文件、记忆、技能与终端
   en: Manage AI agents with a unified workspace for chat, files, memory, skills, and a terminal.
+  cs: Správa AI agentů s jednotným pracovním prostorem pro chat, soubory, paměť, dovednosti a terminál.
+  de: Verwalte AI-Agenten mit einem einheitlichen Arbeitsbereich für Chat, Dateien, Speicher, Fähigkeiten und ein Terminal.
+  es: Gestiona agentes de IA con un espacio de trabajo unificado para chat, archivos, memoria, habilidades y un terminal.
+  fr: Gérez des agents IA avec un espace de travail unifié pour la discussion, les fichiers, la mémoire, les compétences et un terminal.
+  id: Kelola agen AI dengan ruang kerja terpadu untuk obrolan, file, memori, keterampilan, dan terminal.
+  it: Gestisci agenti IA con un'area di lavoro unificata per chat, file, memoria, competenze e un terminale.
+  ja: チャット、ファイル、メモリ、スキル、ターミナルを備えた統一ワークスペースでAIエージェントを管理します。
+  ko: 채팅, 파일, 메모리, 스킬, 터미널을 위한 통합 워크스페이스로 AI 에이전트를 관리합니다.
+  pl: Zarządzaj agentami AI w zunifikowanym obszarze roboczym z czatem, plikami, pamięcią, umiejętnościami i terminalem.
+  pt: Gerencie agentes de IA com um espaço de trabalho unificado para chat, arquivos, memória, habilidades e terminal.
+  ro: Gestionați agenți AI cu un spațiu de lucru unificat pentru chat, fișiere, memorie, abilități și un terminal.
+  ru: Управляйте ИИ-агентами в едином рабочем пространстве с чатом, файлами, памятью, навыками и терминалом.
+  th: จัดการเอเจนต์ AI ด้วยพื้นที่ทำงานแบบรวมสำหรับแชท ไฟล์ ความจำ ทักษะ และเทอร์มินัล
+  tr: Sohbet, dosya, bellek, beceriler ve terminal için birleşik bir çalışma alanıyla AI ajanlarını yönetin.
+  uk: Керуйте ІІ-агентами в єдиному робочому просторі з чатом, файлами, пам'яттю, навичками та терміналом.
+  vi: Quản lý các tác nhân AI với không gian làm việc thống nhất cho trò chuyện, tệp, bộ nhớ, kỹ năng và terminal.
 x:
   source: https://github.com/outsourc-e/hermes-workspace
 rule:

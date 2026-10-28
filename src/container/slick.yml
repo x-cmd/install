@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 Caddy 以声明方式部署容器的 CLI 工具
   en: CLI tool to declaratively deploy containers with Caddy
+  cs: Nástroj CLI pro deklarativní nasazování kontejnerů pomocí Caddy
+  de: CLI-Werkzeug zum deklarativen Bereitstellen von Containern mit Caddy
+  es: Herramienta de CLI para desplegar contenedores de forma declarativa con Caddy
+  fr: Outil CLI pour déployer des conteneurs de manière déclarative avec Caddy
+  id: Alat CLI untuk mendaftarkan kontainer secara deklaratif dengan Caddy
+  it: Strumento CLI per distribuire container in modo dichiarativo con Caddy
+  ja: Caddy を使ってコンテナを宣言的にデプロイする CLI ツール
+  ko: Caddy로 컨테이너를 선언적으로 배포하는 CLI 도구
+  pl: Narzędzie CLI do deklaratywnego wdrażania kontenerów za pomocą Caddy
+  pt: Ferramenta de CLI para implantar contêineres de forma declarativa com o Caddy
+  ro: Instrument CLI pentru implementarea declarativă a containerelor cu Caddy
+  ru: CLI-инструмент для декларативного развёртывания контейнеров с помощью Caddy
+  th: เครื่องมือ CLI สำหรับปรับใช้คอนเทนเนอร์แบบประกาศด้วย Caddy
+  tr: Caddy ile konteynerleri bildirimsel olarak dağıtmak için bir CLI aracı
+  uk: CLI-інструмент для декларативного розгортання контейнерів за допомогою Caddy
+  vi: Công cụ CLI để triển khai container theo kiểu khai báo với Caddy
 x:
   source: https://github.com/scmmishra/slick-deploy
   eget: scmmishra/slick-deploy

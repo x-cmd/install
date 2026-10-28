@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 单机系统诊断 TUI，netwatch 的姊妹工具，十二标签页与英文洞察
   en: 'Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.'
+  cs: TUI pro diagnostiku jednoho hostitele. Sourozenec netwatch. Dvanáct panelů, poznatky prostými slovy, prohlížeč relací. macOS + Linux.
+  de: TUI zur Systemdiagnose eines einzelnen Hosts. Geschwister von netwatch. Zwölf Tabs, Erkenntnisse in Klartext, Sitzungsfilter. macOS + Linux.
+  es: TUI de diagnóstico de sistemas de un solo host. Hermano de netwatch. Doce pestañas, conclusiones en lenguaje claro, depurador de sesiones. macOS + Linux.
+  fr: TUI de diagnostic système mono-hôte. Frère de netwatch. Douze onglets, analyses en langage clair, nettoyeur de session. macOS + Linux.
+  id: TUI diagnostik sistem satu host. Saudara dari netwatch. Dua belas tab, wawasan dalam bahasa sederhana, penyaring sesi. macOS + Linux.
+  it: TUI per la diagnostica di sistema su un singolo host. Fratello di netwatch. Dodici tab, approfondimenti in linguaggio semplice, filtro di sessione. macOS + Linux.
+  ja: 単一ホストのシステム診断TUI。netwatchの姉妹ツール。12タブ、平易な言語での解説、セッションスクラッパー。macOS + Linux対応。
+  ko: 단일 호스트 시스템 진단 TUI. netwatch의 자매 도구. 12개 탭, 쉬운 설명, 세션 스크러버. macOS + Linux.
+  pl: TUI do diagnostyki systemu na jednym hoście. Siostrzany od netwatch. Dwanaście zakładek, wnioski prostym językiem, przeglądarka sesji. macOS + Linux.
+  pt: TUI de diagnóstico de sistema de host único. Irmão do netwatch. Doze abas, insights em linguagem simples, limpador de sessão. macOS + Linux.
+  ro: TUI pentru diagnosticarea sistemului pe o singură gazdă. Frate cu netwatch. Douăspreze taburi, concluzii în limbaj simplu, filtru de sesiune. macOS + Linux.
+  ru: TUI для диагностики системы на одном узле. Брат netwatch. Двенадцать вкладок, понятные объяснения, очистка сессий. macOS + Linux.
+  th: TUI สำหรับวินิจฉัยระบบแบบโฮสต์เดียว พี่น้องของ netwatch สิบสองแท็บ ข้อมูลเชิงลึกเป็นภาษาง่าย และตัวกรองเซสชัน รองรับ macOS + Linux.
+  tr: Tek sunucu için sistem tanılama TUI'si. netwatch'in kardeşi. On iki sekme, sade dilde içgörüler, oturum temizleyici. macOS + Linux.
+  uk: TUI для діагностики системи на одному вузлі. Сестра netwatch. Дванадцять вкладок, зрозумілі пояснення, очищення сесій. macOS + Linux.
+  vi: TUI chẩn đoán hệ thống trên một máy chủ. Anh em với netwatch. Mười hai tab, thông tin dễ hiểu, bộ lọc phiên. macOS + Linux.
 x:
   source: https://github.com/matthart1983/syswatch
   eget: matthart1983/syswatch

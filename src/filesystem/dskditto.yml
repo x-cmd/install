@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 超快易用的重复文件查找器,配 TUI/GUI 管理结果
   en: 'Ultra fast and easy duplicate file finder. Awesome TUI/GUI to manage results.'
+  cs: Mimořádně rychlý a snadný nástroj na hledání duplicitních souborů. Skvělý TUI/GUI pro správu výsledků.
+  de: Extrem schneller und einfacher Duplicate-File-Finder. Tolles TUI/GUI zum Verwalten der Ergebnisse.
+  es: Buscador de archivos duplicados extremadamente rápido y fácil. Un excelente TUI/GUI para gestionar los resultados.
+  fr: Un détecteur de fichiers en double très rapide et simple. Unsuperbe TUI/GUI pour gérer les résultats.
+  id: Pencari file duplikat yang sangat cepat dan mudah. TUI/GUI luar biasa untuk mengelola hasil.
+  it: Finder di file duplicati estremamente veloce e semplice. Un fantastico TUI/GUI per gestire i risultati.
+  ja: 超高速で使いやすい重複ファイル検索ツール。結果を管理する素晴らしいTUI/GUI。
+  ko: 엄청나게 빠르고 간편한 중복 파일 탐색 도구이며, 결과를 관리할 멋진 TUI/GUI를 제공합니다.
+  pl: Wyjątkowo szybki i łatwy finder duplikatów plików. Świetne TUI/GUI do zarządzania wynikami.
+  pt: Localizador de arquivos duplicados extremamente rápido e fácil. Um excelente TUI/GUI para gerenciar os resultados.
+  ro: Un găsitor de fișiere duplicate extrem de rapid și ușor de folosit. Un TUI/GUI excelent pentru gestionarea rezultatelor.
+  ru: Сверхбыстрый и простой поиск дубликатов файлов. Отличный TUI/GUI для управления результатами.
+  th: เครื่องมือค้นหาไฟล์ซ้ำที่เร็วมากและใช้ง่าย พร้อม TUI/GUI สุดเจ๋งสำหรับจัดการผลลัพธ์
+  tr: Çok hızlı ve kullanımı kolay yinelenen dosya bulucu. Sonuçları yönetmek için harika bir TUI/GUI.
+  uk: Надзвичайно швидкий і простий пошук дублікатів файлів. Чудовий TUI/GUI для керування результатами.
+  vi: Công cụ tìm tệp trùng lặp cực nhanh và dễ dùng. TUI/GUI tuyệt vời để quản lý kết quả.
 x:
   source: https://github.com/jdefrancesco/dskDitto
   eget: jdefrancesco/dskDitto

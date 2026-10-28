@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于重置 Kafka Connect 源连接器偏移量的命令行工具
   en: A commandline tool for resetting Kafka Connect source connector offsets
+  cs: Nástroj příkazové řádky pro resetování offsetů zdrojových konektorů Kafka Connect
+  de: Ein Kommandozeilenwerkzeug zum Zurücksetzen der Offsets von Kafka-Connect-Quellkonnektoren
+  es: una herramienta de línea de comandos para restablecer los desplazamientos de los conectores de origen de Kafka Connect
+  fr: un outil en ligne de commande pour réinitialiser les décalages des connecteurs sources Kafka Connect
+  id: alat baris perintah untuk menyetel ulang offset konektor sumber Kafka Connect
+  it: uno strumento da riga di comando per reimpostare gli offset dei connettori sorgente Kafka Connect
+  ja: Kafka Connect ソースコネクタのオフセットをリセットするコマンドラインツール
+  ko: Kafka Connect 소스 커넥터 오프셋을 재설정하는 명령줄 도구
+  pl: narzędzie wiersza poleceń do resetowania przesunięć konektorów źródłowych Kafka Connect
+  pt: uma ferramenta de linha de comando para redefinir os deslocamentos dos conectores de origem do Kafka Connect
+  ro: un instrument de linie de comand pentru resetarea offset-urilor conectorilor sursă Kafka Connect
+  ru: инструмент командной строки для сброса смещений исходных коннекторов Kafka Connect
+  th: เครื่องมือบรรทัดคำสั่งสำหรับรีเซ็ตออฟเซ็ตของตัวเชื่อมต่อต้นทาง Kafka Connect
+  tr: Kafka Connect kaynak konektör ofsetlerini sıfırlamak için bir komut satırı aracı
+  uk: інструмент командного рядка для скидання зсувів вихідних конекторів Kafka Connect
+  vi: công cụ dòng lệnh để đặt lại offset của các connector nguồn Kafka Connect
 x:
   brew: helpermethod/homebrew-tap/connor
   scoop: connor

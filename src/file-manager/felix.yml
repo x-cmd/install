@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个具有 Vim 风格键映射的 TUI 文件管理器，使用 Rust 编写。
   en: A tui file manager with Vim-like key mapping, written in Rust.
+  cs: Správce souborů TUI s mapováním kláves podobným Vimu, napsaný v Rustu.
+  de: Ein TUI-Dateimanager mit Vim-ähnlicher Tastenbelegung, geschrieben in Rust.
+  es: Un gestor de archivos TUI con mapeo de teclas similar a Vim, escrito en Rust.
+  fr: Un gestionnaire de fichiers TUI avec une correspondance de touches similaire à Vim, écrit en Rust.
+  id: Manajer file TUI dengan pemetaan kunci menyerupai Vim, ditulis dalam Rust.
+  it: Un file manager TUI con mappatura dei tasti simile a Vim, scritto in Rust.
+  ja: Vim 風のキーマッピングを持つ TUI ファイルマネージャー、Rust で書かれたものです。
+  ko: Vim과 유사한 키 매핑을 가진 TUI 파일 관리자이며 Rust로 작성되었습니다.
+  pl: Menedżer plików TUI z mapowaniem klawiszy podobnym do Vima, napisany w Rust.
+  pt: Um gerenciador de arquivos TUI com mapeamento de teclas semelhante ao Vim, escrito em Rust.
+  ro: Un manager de fișiere TUI cu mapare de taste asemănătoare Vim, scris în Rust.
+  ru: TUI-файловый менеджер с раскладкой клавиш в стиле Vim, написанный на Rust.
+  th: ตัวจัดการไฟล์แบบ TUI ที่มีการผูกปุ่มคล้าย Vim เขียนด้วย Rust
+  tr: Vim benzeri tuş eşlemeye sahip, Rust ile yazılmış TUI dosya yöneticisi.
+  uk: TUI-файловий менеджер з розкладкою клавіш у стилі Vim, написаний на Rust.
+  vi: Trình quản lý tệp TUI với ánh xạ phím tương tự Vim, được viết bằng Rust
 x:
   source: https://github.com/kyoheiu/felix
   pacman: felix-rs

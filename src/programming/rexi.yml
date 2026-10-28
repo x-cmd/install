@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Terminal UI for Regex Testing
   cn: 正则表达式测试的终端 UI
+  cs: Terminálové UI pro testování regulárních výrazů
+  de: Terminal-UI zum Testen regulärer Ausdrücke
+  es: Interfaz de terminal para probar expresiones regulares
+  fr: Interface de terminal pour tester les expressions régulières
+  id: UI terminal untuk pengujian Regex
+  it: Interfaccia a terminale per il test delle espressioni regolari
+  ja: 正規表現テスト用のターミナル UI
+  ko: 정규식 테스트를 위한 터미널 UI
+  pl: Terminalowe UI do testowania wyrażeń regularnych
+  pt: Interface de terminal para testar expressões regulares
+  ro: UI de terminal pentru testarea expresiilor regulate
+  ru: Терминальный интерфейс для тестирования регулярных выражений
+  th: UI เทอร์มินัลสำหรับทดสอบนิพจน์ปกติ
+  tr: Regex testi için terminal arayüzü
+  uk: Термінальний інтерфейс для тестування регулярних виразів
+  vi: Giao diện terminal để kiểm thử biểu thức chính quy
 x:
   source: https://github.com/royreznik/rexi
   eget: royreznik/rexi

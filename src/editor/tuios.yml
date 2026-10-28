@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端 UI 操作系统(终端复用器)
   en: 'Terminal UI OS (Terminal Multiplexer)'
+  cs: Terminálové UI OS (multiplexer terminálu)
+  de: Terminal-UI-Betriebssystem (Terminal-Multiplexer)
+  es: Sistema operativo con interfaz de terminal (multiplexor de terminal)
+  fr: OS à interface en terminal (multiplexeur de terminal)
+  id: OS berbasis UI terminal (multiplexer terminal)
+  it: OS con interfaccia a terminale (multiplexer di terminale)
+  ja: ターミナルUI OS (ターミナルマルチプレクサー)
+  ko: 터미널 UI 운영체제 (터미널 멀티플렉서)
+  pl: System operacyjny z interfejsem terminalowym (multiplexer terminala)
+  pt: Sistema operacional com interface de terminal (multiplexador de terminal)
+  ro: SO cu interfață în terminal (multiplexor de terminal)
+  ru: Терминальная UI-ОС (терминальный мультиплексор)
+  th: ระบบปฏิบัติการแบบ UI เทอร์มินัล (เทอร์มินัลมัลติเพล็กเซอร์)
+  tr: Terminal arayüzlü işletim sistemi (terminal çoklayıcı)
+  uk: Термінальна UI-ОС (термінальний мультиплексор)
+  vi: Hệ điều hành giao diện terminal (bộ ghép kênh terminal)
 x:
   source: https://github.com/Gaurav-Gosain/tuios
   eget: Gaurav-Gosain/tuios

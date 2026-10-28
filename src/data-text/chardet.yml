@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 通过 chardetng 检测文本文件编码的 CLI——先查 BOM 再用启发式，输出编码名、置信度和路径
   en: Detect text file encoding via chardetng — BOM-aware, single-binary Rust CLI; prints encoding, confidence, and path
+  cs: Zjišťování kódování textových souborů pomocí chardetng — CLI v jednom binárním souboru s podporou BOM, vypisuje kódování, jistotu a cestu
+  de: Textdatei-Kodierung mit chardetng erkennen — BOM-bewusstes Rust-CLI in einer einzigen Binärdatei; gibt Kodierung, Konfidenz und Pfad aus
+  es: Detecta la codificación de archivos de texto con chardetng — CLI de Rust en un único binario, consciente de BOM; muestra codificación, confianza y ruta
+  fr: Détecter l'encodage des fichiers texte via chardetng — CLI Rust en un seul binaire, compatible BOM ; affiche l'encodage, la confiance et le chemin
+  id: Deteksi enkode berkas teks melalui chardetng — CLI Rust satu biner yang sadar BOM; mencetak enkode, keyakinan, dan jalur
+  it: Rileva la codifica dei file di testo tramite chardetng — CLI Rust in un unico binario, compatibile con BOM; stampa codifica, confidenza e percorso
+  ja: chardetng を使ってテキストファイルのエンコーディングを検出 — BOM 対応の単一バイナリ Rust CLI。エンコーディング、信頼度、パスを表示します
+  ko: chardetng로 텍스트 파일 인코딩 감지 — BOM 인식 단일 바이너리 Rust CLI로 인코딩, 신뢰도, 경로를 출력합니다
+  pl: Wykrywanie kodowania plików tekstowych za pomocą chardetng — jednoplikowe CLI w Rust z obsługą BOM; wypisuje kodowanie, pewność i ścieżkę
+  pt: Detecta a codificação de arquivos de texto via chardetng — CLI em Rust de binário único, com suporte a BOM; imprime codificação, confiança e caminho
+  ro: Detectează codificarea fișierelor de text prin chardetng — CLI Rust într-un singur binar, con suport BOM; afișează codificarea, încrederea și calea
+  ru: Определение кодировки текстовых файлов с помощью chardetng — единый Rust CLI с поддержкой BOM; выводит кодировку, уверенность и путь
+  th: ตรวจจับการเข้ารหัสไฟล์ข้อความผ่าน chardetng — CLI แบบ Rust ไฟล์ไบนารีเดียวที่รองรับ BOM; แสดงการเข้ารหัส ความมั่นใจ และพาธ
+  tr: chardetng ile metin dosyası kodlamasını algıla — BOM destekli tek ikili Rust CLI; kodlama, güven ve yolu yazdırır
+  uk: Визначення кодування текстових файлів за допомогою chardetng — єдиний Rust CLI з підтримкою BOM; виводить кодування, упевненість і шлях
+  vi: Phát hiện mã hóa tệp văn bản qua chardetng — CLI Rust một tệp nhị phân hỗ trợ BOM; in ra mã hóa, độ tin cậy và đường dẫn
 x:
   source: https://github.com/ljh-sh/chardet
   cargo: chardet-cli

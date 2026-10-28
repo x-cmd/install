@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: SQL linter 和格式化工具，支持多种 SQL ，如  MySQL、Oracle 等
   en: A modular SQL linter and auto-formatter with support for multiple dialects and templated code
+  cs: Modulární SQL linter a automatický formátovač s podporou více dialektů a šablonového kódu
+  de: Ein modularer SQL-Linter und Auto-Formatter mit Unterstützung für mehrere Dialekte und Template-Code
+  es: Un linter de SQL modular y formateador automático con soporte para múltiples dialectos y código con plantillas
+  fr: Un linter SQL modulaire et un formateur automatique prenant en charge plusieurs dialectes et du code à base de gabarits
+  id: Linter SQL modular dan formatter otomatis dengan dukungan untuk beberapa dialek dan berkode templat
+  it: Un linter SQL modulare e un formattatore automatico con supporto per più dialetti e codice basato su template
+  ja: 複数の 方言 とテンプレートコードに対応した、モジュラーな SQL リンターと自動フォーマッタ
+  ko: 여러 방언과 템플릿 코드를 지원하는 모듈식 SQL 린터 및 자동 포매터
+  pl: Modularny linter SQL i automatyczny formatter obsługujący wiele dialektów oraz kod szablonowy
+  pt: Um linter de SQL modular e formatador automático com suporte a múltiplos dialetos e código com modelos
+  ro: Un linter SQL modular și formatator automat care acceptă mai multe dialecte și cod cu șabloane
+  ru: Модульный линтер SQL и автоформаттер с поддержкой нескольких диалектов и шаблонного кода
+  th: SQL linter แบบโมดูลาร์และตัวจัดรูปแบบอัตโนมัติ รองรับหลายไดอาเลกต์และโค้ดแบบเทมเพลต
+  tr: Birden çok lehçeyi ve şablon kodunu destekleyen modüler SQL linter ve otomatik biçimlendirici
+  uk: Модульний лінтер SQL і автоформатувальник із підтримкою кількох діалектів і шаблонного коду
+  vi: Linter SQL mô-đun và trình định dạng tự động, hỗ trợ nhiều phương ngữ và mã dựa trên mẫu
 x:
   source: https://github.com/sqlfluff/sqlfluff
   brew: sqlfluff

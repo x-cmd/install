@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: UCloud 命令行界面
   en: UCloud Command Line Interface
+  cs: UCloud Command Line Interface
+  de: UCloud Command Line Interface
+  es: Interfaz de línea de comandos de UCloud
+  fr: Interface de ligne de commande UCloud
+  id: Antarmuka baris perintah UCloud
+  it: Interfaccia a riga di comando di UCloud
+  ja: UCloud コマンドラインインターフェース
+  ko: UCloud 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń UCloud
+  pt: Interface de linha de comando do UCloud
+  ro: Interfață de linie de comandă UCloud
+  ru: Командный интерфейс UCloud
+  th: ส่วนติดต่อบรรทัดคำสั่งของ UCloud
+  tr: UCloud komut satırı arayüzü
+  uk: Командний інтерфейс UCloud
+  vi: Giao diện dòng lệnh UCloud
 x:
   source: https://github.com/ucloud/ucloud-cli
   eget: ucloud/ucloud-cli

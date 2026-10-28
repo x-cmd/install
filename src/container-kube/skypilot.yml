@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 在任意 AI 基础设施上运行、管理和扩展 AI 工作负载的统一系统
   en: 'Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).'
+  cs: Spouštějte, spravujte a škálujte AI workloady na libovolné AI infrastruktuře. Použijte jediný systém pro přístup a správu všech AI výpočtů (Kubernetes, Slurm, 20+ cloudů, on-prem).
+  de: KI-Workloads auf beliebiger KI-Infrastruktur ausführen, verwalten und skalieren. Ein einziges System für den Zugriff und die Verwaltung aller KI-Rechenressourcen (Kubernetes, Slurm, 20+ Clouds, On-Prem).
+  es: Ejecuta, gestiona y escala cargas de trabajo de IA en cualquier infraestructura de IA. Usa un único sistema para acceder y gestionar todos los recursos de cómputo de IA (Kubernetes, Slurm, más de 20 nubes, on-premise).
+  fr: Exécutez, gérez et évoluez des charges de travail IA sur toute infrastructure IA. Utilisez un seul système pour accéder et gérer tous les calculs IA (Kubernetes, Slurm, plus de 20 clouds, sur site).
+  id: Jalankan, kelola, dan skalakan beban kerja AI di infrastruktur AI mana pun. Gunakan satu sistem untuk mengakses dan mengelola semua komputasi AI (Kubernetes, Slurm, 20+ cloud, on-prem).
+  it: Esegui, gestisci e scala i carichi di lavoro AI su qualsiasi infrastruttura AI. Usa un unico sistema per accedere e gestire toda la computazione AI (Kubernetes, Slurm, oltre 20 cloud, on-prem).
+  ja: 任意の AI インフラストラクチャ上で AI ワークロードを実行、管理、スケールできます。すべての AI コンピューティング (Kubernetes、Slurm、20 以上のクラウド、オンプレミス) に単一のシステムでアクセスし管理します。
+  ko: 모든 AI 인프라에서 AI 워크로드를 실행, 관리 및 확장합니다. 하나의 시스템으로 모든 AI 컴퓨팅(Kubernetes, Slurm, 20개 이상의 클라우드, 온프레미스)에 접근하고 관리하세요.
+  pl: Uruchamiaj, zarządzaj i skaluj obciążenia AI na dowolnej infrastrukturze AI. Użyj jednego systemu, aby uzyskać dostęp do wszystkich zasobów obliczeniowych AI i zarządzać nimi (Kubernetes, Slurm, ponad 20 chmur, on-prem).
+  pt: Execute, gerencie e escale cargas de trabalho de IA em qualquer infraestrutura de IA. Use um único sistema para acessar e gerenciar toda a computação de IA (Kubernetes, Slurm, mais de 20 nuvens, on-premise).
+  ro: Rulați, administrați și scalați sarcinile de lucru cu AI pe orice infrastructură AI. Folosiți un singur sistem pentru a accesa și administra toate resursele de calcul AI (Kubernetes, Slurm, 20+ clouduri, on-prem).
+  ru: Запускайте, управляйте и масштабируйте рабочие нагрузки ИИ на любой инфраструктуре ИИ. Используйте единую систему для доступа ко всем вычислительным ресурсам ИИ (Kubernetes, Slurm, 20+ облаков, on-prem).
+  th: รัน จัดการ และปรับขนาดเวิร์กโหลด AI บนโครงสร้างพื้นฐาน AI ใดก็ได้ ใช้ระบบเดียวในการเข้าถึงและจัดการคำนวณ AI ทั้งหมด (Kubernetes, Slurm, คลาวด์กว่า 20 แห่ง, on-prem)
+  tr: AI iş yüklerini herhangi bir AI altyapısında çalıştırın, yönetin ve ölçekleyin. Tüm AI hesaplama kaynaklarına (Kubernetes, Slurm, 20+ bulut, yerinde) erişmek ve yönetmek için tek bir sistem kullanın.
+  uk: Запускайте, керуйте та масштабуйте робочі навантаження ШІ на будь-якій інфраструктурі ШІ. Використовуйте єдину систему для доступу до всіх обчислювальних ресурсів ШІ та керування ними (Kubernetes, Slurm, 20+ хмар, on-prem).
+  vi: Chạy, quản lý và mở rộng khối lượng công việc AI trên bất kỳ hạ tầng AI nào. Dùng một hệ thống duy nhất để truy cập và quản lý toàn bộ tài nguyên tính toán AI (Kubernetes, Slurm, hơn 20 đám mây, on-prem).
 x:
   source: https://github.com/skypilot-org/skypilot
   pip: skypilot

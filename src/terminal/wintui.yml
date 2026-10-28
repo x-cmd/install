@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: winget 的 Go TUI 前端，基于 Bubble Tea、Bubbles 和 Lip Gloss 构建
   en: 'Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss'
+  cs: TUI rozhraní v Go pro winget (Windows Package Manager) — postaveno na Bubble Tea, Bubbles a Lip Gloss
+  de: Go-TUI-Frontend für winget (Windows Package Manager) — erstellt mit Bubble Tea, Bubbles und Lip Gloss
+  es: Interfaz TUI en Go para winget (Windows Package Manager) — creada con Bubble Tea, Bubbles y Lip Gloss
+  fr: Interface TUI en Go pour winget (Windows Package Manager) — construite avec Bubble Tea, Bubbles et Lip Gloss
+  id: Antarmuka TUI berbasis Go untuk winget (Windows Package Manager) — dibangun dengan Bubble Tea, Bubbles, dan Lip Gloss
+  it: Frontend TUI in Go per winget (Windows Package Manager) — costruito con Bubble Tea, Bubbles e Lip Gloss
+  ja: winget (Windows Package Manager) 向けの Go製 TUI フロントエンド — Bubble Tea、Bubbles、Lip Gloss で構築
+  ko: winget(Windows Package Manager)을 위한 Go TUI 프론트엔드 — Bubble Tea, Bubbles, Lip Gloss로 구축
+  pl: Frontend TUI w Go dla winget (Windows Package Manager) — zbudowany na Bubble Tea, Bubbles i Lip Gloss
+  pt: Frontend TUI em Go para o winget (Windows Package Manager) — construído com Bubble Tea, Bubbles e Lip Gloss
+  ro: Frontend TUI în Go pentru winget (Windows Package Manager) — construit cu Bubble Tea, Bubbles și Lip Gloss
+  ru: Go-фронтенд TUI для winget (Windows Package Manager) — создан на Bubble Tea, Bubbles и Lip Gloss
+  th: ส่วนติดต่อ TUI ภาษา Go สำหรับ winget (Windows Package Manager) — สร้างด้วย Bubble Tea, Bubbles และ Lip Gloss
+  tr: winget (Windows Package Manager) için Go TUI ön yüzü — Bubble Tea, Bubbles ve Lip Gloss ile geliştirildi
+  uk: Go-фронтенд TUI для winget (Windows Package Manager) — створено на Bubble Tea, Bubbles та Lip Gloss
+  vi: Giao diện TUI viết bằng Go cho winget (Windows Package Manager) — xây dựng với Bubble Tea, Bubbles và Lip Gloss
 x:
   source: https://github.com/kts982/wintui
   eget: kts982/wintui

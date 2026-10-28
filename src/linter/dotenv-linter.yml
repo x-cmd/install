@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: dotenv-linter 可以检查/修复/比较 .env 文件是否存在可能导致应用程序故障的问题
   en: dotenv-linter can check / fix / compare .env files for problems that may cause the application to malfunction
+  cs: dotenv-linter může kontrolovat / opravovat / porovnávat soubory .env s problémy, které mohou způsobit selhání aplikace
+  de: dotenv-linter kann .env-Dateien auf Probleme prüfen, beheben und vergleichen, die dazu führen können, dass die Anwendung fehlerhaft funktioniert
+  es: dotenv-linter puede comprobar, corregir y comparar archivos .env en busca de problemas que puedan provocar fallos en la aplicación
+  fr: dotenv-linter peut vérifier, corriger et comparer les fichiers .env pour détecter les problèmes susceptibles de provoquer des dysfonctionnements de l'application
+  id: dotenv-linter dapat memeriksa / memperbaiki / membandingkan file .env untuk masalah yang dapat menyebabkan aplikasi tidak berfungsi
+  it: dotenv-linter può controllare, correggere e confrontare i file .env alla ricerca di problemi che potrebbero causare malfunzionamenti dell'applicazione
+  ja: dotenv-linter は、アプリケーションの不具合につながる問題を .env ファイルで検査 / 修正 / 比較できます
+  ko: dotenv-linter는 애플리케이션 오작동을 일으킬 수 있는 문제를 .env 파일에서 검사 / 수정 / 비교할 수 있습니다
+  pl: dotenv-linter może sprawdzać, naprawiać i porównywać pliki .env pod kątem problemów, które mogą spowodować awarię aplikacji
+  pt: dotenv-linter pode verificar, corrigir e comparar arquivos .env em busca de problemas que possam causar falhas na aplicação
+  ro: dotenv-linter poate verifica, repara și compara fișierele .env pentru probleme care ar putea face aplicația să nu funcționeze corect
+  ru: dotenv-linter может проверять, исправлять и сравнивать файлы .env на наличие проблем, которые могут привести к сбоям в работе приложения
+  th: dotenv-linter สามารถตรวจสอบ / แก้ไข / เปรียบเทียบไฟล์ .env เพื่อหาปัญหาที่อาจทำให้แอปทำงานผิดปกติ
+  tr: dotenv-linter, uygulamanın hatalı çalışmasına yol açabilecek sorunları .env dosyalarında kontrol edebilir / düzeltebilir / karşılaştırabilir
+  uk: dotenv-linter може перевіряти, виправляти та порівнювати файли .env на наявність проблем, які можуть призвести до збоїв у роботі програми
+  vi: dotenv-linter có thể kiểm tra / sửa / so sánh các tệp .env để phát hiện vấn đề có thể khiến ứng dụng hoạt động trục trặc
 x:
   source: https://github.com/dotenv-linter/dotenv-linter
   eget: dotenv-linter/dotenv-linter

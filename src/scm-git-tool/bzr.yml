@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Bazaar (bzr) 是一个分散的修订控制系统，旨在易于开发人员和最终用户
   en: Bazaar (bzr) is a decentralized revision control system, designed to be easy for developers and end users alike
+  cs: Bazaar (bzr) je decentralizovaný systém správy revizí, navržený tak, aby byl snadný pro vývojáře i konečné uživatele
+  de: Bazaar (bzr) ist ein dezentralisiertes Revisionskontrollsystem, das sowohl für Entwickler als auch Endanwender einfach sein soll
+  es: Bazaar (bzr) es un sistema de control de versiones descentralizado, diseñado para ser fácil tanto para desarrolladores como para usuarios finales
+  fr: Bazaar (bzr) est un système de gestion de versions décentralisé, conçu pour être simple à la fois pour les développeurs et les utilisateurs finaux
+  id: Bazaar (bzr) adalah sistem kendali revisi terdesentralisasi yang dirancang agar mudah bagi pengembang maupun pengguna akhir
+  it: Bazaar (bzr) è un sistema di controllo versione decentralizzato, progettato per essere semplice sia per gli sviluppatori sia per gli utenti finali
+  ja: Bazaar (bzr) は、開発者にも一般ユーザーにも扱いやすいように設計された分散型バージョン管理システムです
+  ko: Bazaar (bzr)는 개발자와 최종 사용자에게 모두 쉽게 쓰이도록 설계된 분산형 버전 관리 시스템입니다
+  pl: Bazaar (bzr) to zdecentralizowany system kontroli wersji, zaprojektowany tak, aby był łatwy zarówno dla deweloperów, jak i użytkowników końcowych
+  pt: Bazaar (bzr) é um sistema de controle de versão descentralizado, projetado para ser fácil tanto para desenvolvedores quanto para usuários finais
+  ro: Bazaar (bzr) este un sistem de control al reviziilor descentralizat, proiectat să fie ușor atât pentru dezvoltatori, cât și pentru utilizatori finali
+  ru: Bazaar (bzr) — децентрализованная система контроля версий, созданная, чтобы быть простой как для разработчиков, так и для конечных пользователей
+  th: Bazaar (bzr) คือระบบควบคุมการทำเวอร์ชันแบบกระจายศูนย์ ที่ออกแบบมาให้ใช้งานง่ายทั้งกับนักพัฒนาและผู้ใช้ปลายทาง
+  tr: Bazaar (bzr), geliştiriciler ve son kullanıcılar için kolay olacak şekilde tasarlanmış merkezi olmayan bir sürüm kontrol sistemidir
+  uk: Bazaar (bzr) — децентралізована система контролю версій, створена, щоб бути простою і для розробників, і для кінцевих користувачів
+  vi: Bazaar (bzr) là hệ thống quản lý phiên bản phân tán, được thiết kế để dễ dùng cho cả nhà phát triển lẫn người dùng cuối
 x:
   source: https://github.com/breezy-team/breezy
   apt: bzr

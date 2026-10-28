@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个将图像转换为 ASCII 图像的库，并提供命令行工具以方便使用
   en: A library that converts images to ASCII images and provides command line tools for easy use
+  cs: Knihovna, která převádí obrázky na ASCII obrázky a poskytuje nástroje příkazové řádky pro snadné použití
+  de: Eine Bibliothek, die Bilder in ASCII-Bilder umwandelt und Kommandozeilen-Werkzeuge für eine einfache Nutzung bereitstellt
+  es: Una biblioteca que convierte imágenes en imágenes ASCII y ofrece herramientas de línea de comandos para un uso sencillo
+  fr: Une bibliothèque qui convertit les images en images ASCII et fournit des outils en ligne de commande pour une utilisation facile
+  id: Pustaka yang mengubah gambar menjadi gambar ASCII dan menyediakan alat baris perintah untuk penggunaan yang mudah
+  it: Una libreria che converte le immagini in immagini ASCII e fornisce strumenti da riga di comando per un uso semplice
+  ja: 画像を ASCII アートに変換し、使いやすいコマンドラインツールを提供するライブラリです
+  ko: 이미지를 ASCII 이미지로 변환하고 편리한 사용을 위해 명령줄 도구를 제공하는 라이브러리
+  pl: Biblioteka, która konwertuje obrazy na obrazy ASCII i udostępnia narzędzia wiersza poleceń dla łatwego użycia
+  pt: Uma biblioteca que converte imagens em imagens ASCII e fornece ferramentas de linha de comando para uso fácil
+  ro: O bibliotecă care convertește imaginile în imagini ASCII și oferă instrumente de linie de comandă pentru utilizare ușoară
+  ru: Библиотека, которая преобразует изображения в ASCII-арт и предоставляет инструменты командной строки для удобного использования
+  th: ไลบรารีที่แปลงรูปภาพเป็นภาพ ASCII และให้เครื่องมือบรรทัดคำสั่งเพื่อใช้งานได้ง่าย
+  tr: Görselleri ASCII görsellerine dönüştüren ve kolay kullanım için komut satırı araçları sağlayan bir kütüphane
+  uk: Бібліотека, яка перетворює зображення на ASCII-графіку та надає інструменти командного рядка для зручного використання
+  vi: Một thư viện chuyển đổi hình ảnh thành hình ASCII và cung cấp các công cụ dòng lệnh để sử dụng dễ dàng
 x:
   source: https://github.com/qeesung/image2ascii
   go: github.com/qeesung/image2ascii@latest

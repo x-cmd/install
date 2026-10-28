@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个用于生成功能性强、易于维护且美观的用户指南的工具。
   en: A tool for generating functional, easy to maintain, and aesthetically pleasing user guides.
+  cs: Nástroj pro generování funkčních, snadno udržovatelných a esteticky příjemných uživatelských příruček.
+  de: Ein Werkzeug zum Erzeugen funktionaler, leicht wartbarer und optisch ansprechender Benutzerhandbücher.
+  es: Una herramienta para generar guías de usuario funcionales, fáciles de mantener y estéticamente atractivas.
+  fr: Un outil pour générer des guides utilisateur fonctionnels, faciles à maintenir et agréables à regarder.
+  id: Alat untuk menghasilkan panduan pengguna yang fungsional, mudah dipelihara, dan menarik secara estetika.
+  it: Uno strumento per generare guide utente funzionali, facili da mantenere e esteticamente piacevoli.
+  ja: 機能的で、保守しやすく、見た目にも美しいユーザーガイドを生成するツールです。
+  ko: 기능적이고 유지 관리하기 쉬우며 보기 좋은 사용자 가이드를 생성하는 도구입니다.
+  pl: Narzędzie do generowania funkcjonalnych, łatwych w utrzymaniu i estetycznych przewodników użytkownika.
+  pt: Uma ferramenta para gerar guias de usuário funcionais, fáceis de manter e esteticamente agradáveis.
+  ro: Un instrument pentru generarea unor ghiduri de utilizator funcționale, ușor de întreținut și plăcute la vedere.
+  ru: Инструмент для создания функциональных, простых в сопровождении и эстетически привлекательных руководств пользователя.
+  th: เครื่องมือสำหรับสร้างคู่มือผู้ใช้ที่ใช้งานได้จริง ดูแลรักษาง่าย และสวยงาม
+  tr: İşlevsel, kolay bakımı yapılabilir ve estetik olarak hoş kullanım kılavuzları üreten bir araç.
+  uk: Інструмент для створення функціональних, простих у супроводі та естетично привабливих посібників користувача.
+  vi: Công cụ để tạo hướng dẫn sử dụng chức năng đầy đủ, dễ bảo trì và thẩm mỹ
 x:
   source: https://github.com/testingisdocumenting/znai
   brew: testingisdocumenting/brew/znai

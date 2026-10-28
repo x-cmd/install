@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于 Claude Code 的 AI 求职系统，含 14 种技能模式、Go 仪表盘、PDF 生成与批量处理
   en: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+  cs: AI systém pro hledání práce založený na Claude Code. 14 režimů dovedností, Go dashboard, generování PDF, dávkové zpracování.
+  de: KI-gestütztes Jobsuche-System auf Basis von Claude Code. 14 Skill-Modi, Go-Dashboard, PDF-Generierung, Batch-Verarbeitung.
+  es: Sistema de búsqueda de empleo impulsado por IA construido sobre Claude Code. 14 modos de habilidad, panel en Go, generación de PDF y procesamiento por lotes.
+  fr: Système de recherche d'emploi propulsé par l'IA bâti sur Claude Code. 14 modes de compétences, tableau de bord Go, génération de PDF, traitement par lots.
+  id: Sistem pencarian pekerjaan bertenaga AI yang dibangun di atas Claude Code. 14 mode keterampilan, dasbor Go, pembuatan PDF, pemrosesan batch.
+  it: Sistema di ricerca lavoro basato sull'IA costruito su Claude Code. 14 modalità di competenza, dashboard Go, generazione di PDF, elaborazione in batch.
+  ja: Claude Code を基盤とした AI ジョブ検索システム。14 のスキルモード、Go ダッシュボード、PDF 生成、バッチ処理。
+  ko: Claude Code를 기반으로 한 AI 구인 검색 시스템. 14가지 스킬 모드, Go 대시보드, PDF 생성, 일괄 처리.
+  pl: System wyszukiwania pracy oparty na AI, zbudowany na Claude Code. 14 trybów umiejętności, pulpit Go, generowanie PDF, przetwarzanie wsadowe.
+  pt: Sistema de busca de empregos com IA construído sobre o Claude Code. 14 modos de habilidade, painel em Go, geração de PDF, processamento em lote.
+  ro: Sistem de căutare a unui loc de muncă bazat pe AI, construit pe Claude Code. 14 moduri de abilități, tablou de bord Go, generare PDF, procesare în lot.
+  ru: Система поиска работы на базе ИИ, построенная на Claude Code. 14 режимов навыков, дашборд на Go, генерация PDF, пакетная обработка.
+  th: ระบบค้นหางานที่ขับเคลื่อนด้วย AI สร้างบน Claude Code 14 โหมดทักษะ แดชบอร์ด Go การสร้าง PDF และการประมวลผลแบบชุด
+  tr: Claude Code üzerine kurulmuş, yapay zeka destekli iş arama sistemi. 14 beceri modu, Go panosu, PDF oluşturma, toplu işleme.
+  uk: Система пошуку роботи на базі ШІ, побудована на Claude Code. 14 режимів навичок, дашборд на Go, генерація PDF, пакетна обробка.
+  vi: Hệ thống tìm việc dựa trên AI xây dựng trên Claude Code. 14 chế độ kỹ năng, bảng điều khiển Go, tạo PDF, xử lý hàng loạt.
 x:
   source: https://github.com/santifer/career-ops
   eget: santifer/career-ops

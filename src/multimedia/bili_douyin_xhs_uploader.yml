@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 国内视频网站的 uploader,用来批量上传视频
   en: The uploader of domestic video website, use to upload video in bulk
+  cs: Nahrávač pro domácí video weby, slouží k hromadnému nahrávání videí
+  de: Der Uploader für heimische Video-Websites, zum Massenupload von Videos
+  es: El uploader de sitios web de video domésticos, para subir vídeos en masa
+  fr: L'outil de téléversement pour les sites vidéo nationaux, pour envoyer des vidéos en masse
+  id: Pengunggah untuk situs web video domestik, digunakan untuk mengunggah video secara massal
+  it: L'uploader per i siti web video nazionali, usato per caricare video in blocco
+  ja: 国内の動画サイト向けアップローダーで、動画の一括アップロードに使います
+  ko: 국내 동영상 사이트용 업로더로, 동영상을 일괄 업로드하는 데 사용합니다
+  pl: Uploader dla krajowych witryn wideo, służący do masowego przesyłania filmów
+  pt: O uploader de sites de vídeo domésticos, usado para enviar vídeos em massa
+  ro: Uploaderul pentru site-uri video domestice, folosit pentru încărcarea video în masă
+  ru: Загрузчик для отечественных видеосайтов, используется для массовой загрузки видео
+  th: ตัวอัปโหลดสำหรับเว็บไซต์วิดีโอในประเทศ ใช้สำหรับอัปโหลดวิดีโอเป็นจำนวนมาก
+  tr: Yerel video web siteleri için yükleyici, video yüklemesini toplu yapmak için kullanılır
+  uk: Завантажувач для вітчизняних відеосайтів, використовується для масової завантаження відео
+  vi: Trình tải lên cho các trang video trong nước, dùng để tải lên hàng loạt video
 x:
   source: https://github.com/aceliuchanghong/bili_douyin_xhs_uploader
 rule:

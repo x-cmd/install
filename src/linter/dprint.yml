@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Rust 编写的可插入且可配置的代码格式化平台
   en: Pluggable and configurable code formatting platform written in Rust
+  cs: Připojitelná a konfigurovatelná platforma pro formátování kódu napsaná v Rust
+  de: Erweiterbare und konfigurierbare Codeformatierungsplattform, geschrieben in Rust
+  es: Plataforma de formateo de código enchufable y configurable escrita en Rust
+  fr: Plateforme de formatage de code pluggable et configurable écrite en Rust
+  id: Platform pemformatan kode yang dapat diplu dan dikonfigurasi, ditulis dengan Rust
+  it: Piattaforma di formattazione del codice pluggable e configurabile, scritta in Rust
+  ja: Rust で書かれた、プラグイン可能な設定可能コードフォーマットプラットフォーム
+  ko: Rust로 작성된 플러그인 가능하고 설정 가능한 코드 포매팅 플랫폼
+  pl: Rozszerzalna i konfigurowalna platforma do formatowania kodu napisana w Rust
+  pt: Plataforma extensível e configurável de formatação de código escrita em Rust
+  ro: Platformă de formatare a codului extensibilă și configurabilă, scrisă în Rust
+  ru: Расширяемая и настраиваемая платформа форматирования кода, написанная на Rust
+  th: แพลตฟอร์มจัดรูปแบบโค้ดที่เสริมส่วนได้และกำหนดค่าได้ เขียนด้วย Rust
+  tr: Rust ile yazılmış, eklenti tabanlı ve yapılandırılabilir kod biçimlendirme platformu
+  uk: Розширювана та налаштовувана платформа форматування коду, написана на Rust
+  vi: Nền tảng định dạng mã nguồn có thể cắm ghép và cấu hình được, viết bằng Rust
 x:
   source: https://github.com/dprint/dprint
   eget: dprint/dprint

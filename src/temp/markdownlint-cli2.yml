@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 快速、灵活、基于配置的命令行界面，用于使用 markdownlint 库对 Markdown/CommonMark 文件进行 linting
   en: A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  cs: Rychlé, flexibilní rozhraní příkazové řádky založené na konfiguraci pro kontrolu stylu souborů Markdown/CommonMark pomocí knihovny markdownlint
+  de: Ein schnelles, flexibles, konfigurationsbasiertes Kommandozeilen-Interface zum Linting von Markdown/CommonMark-Dateien mit der markdownlint-Bibliothek
+  es: Una interfaz de línea de comandos rápida, flexible y basada en configuración para analizar archivos Markdown/CommonMark con la biblioteca markdownlint
+  fr: Une interface de ligne de commande rapide, souple et fondée sur la configuration, pour analyser les fichiers Markdown/CommonMark avec la bibliothèque markdownlint
+  id: Antarmuka baris perintah yang cepat, fleksibel, dan berbasis konfigurasi untuk melinting berkas Markdown/CommonMark dengan pustaka markdownlint
+  it: Un'interfaccia a riga di comando rapida, flessibile e basata sulla configurazione per il linting di file Markdown/CommonMark con la libreria markdownlint
+  ja: markdownlint ライブラリを使って Markdown/CommonMark ファイルを lint する、高速で柔軟な設定ベースのコマンドラインインターフェースです
+  ko: markdownlint 라이브러리를 사용하여 Markdown/CommonMark 파일을 린팅하는 빠르고 유연한 구성 기반 명령줄 인터페이스
+  pl: Szybki, elastyczny interfejs wiersza poleceń oparty na konfiguracji, do lintowania plików Markdown/CommonMark przy użyciu biblioteki markdownlint
+  pt: Uma interface de linha de comando rápida, flexível e baseada em configuração para lintar arquivos Markdown/CommonMark com a biblioteca markdownlint
+  ro: O interfață de linie de comandă rapidă, flexibilă și bazată pe configurație, pentru verificarea stilistică a fișierelor Markdown/CommonMark cu biblioteca markdownlint
+  ru: Быстрый, гибкий, основанный на конфигурации интерфейс командной строки для проверки стиля файлов Markdown/CommonMark с помощью библиотеки markdownlint
+  th: อินเทอร์เฟซบรรทัดคำสั่งที่รวดเร็ว ยืดหยุ่น และอิงการตั้งค่า สำหรับการตรวจสอบสไตล์ไฟล์ Markdown/CommonMark ด้วยไลบรารี markdownlint
+  tr: markdownlint kütüphanesiyle Markdown/CommonMark dosyalarını denetlemek için hızlı, esnek ve yapılandırma tabanlı bir komut satırı arayüzü
+  uk: Швидкий, гнучкий, заснований на конфігурації інтерфейс командного рядка для перевірки стилю файлів Markdown/CommonMark за допомогою бібліотеки markdownlint
+  vi: Giao diện dòng lệnh nhanh, linh hoạt và dựa trên cấu hình để kiểm tra kiểu các tệp Markdown/CommonMark bằng thư viện markdownlint
 x:
   source: https://github.com/DavidAnson/markdownlint-cli2
   brew: markdownlint-cli2

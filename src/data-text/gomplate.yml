@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: gomplate 是一个用于模板渲染的命令行工具，支持许多本地和远程数据源
   en: gomplate is a flexible commandline tool for template rendering. Supports lots of local and remote datasources
+  cs: gomplate je flexibilní nástroj příkazové řádky pro vykreslování šablon. Podporuje mnoho místních i vzdálených zdrojů dat
+  de: gomplate ist ein flexibles Kommandozeilenwerkzeug zum Rendern von Templates. Unterstützt viele lokale und entfernte Datenquellen
+  es: gomplate es una herramienta de línea de comandos flexible para renderizar plantillas. Admite muchas fuentes de datos locales y remotas
+  fr: gomplate est un outil en ligne de commande flexible pour le rendu de gabarits. Prend en charge de nombreuses sources de données locales et distantes
+  id: gomplate adalah alat baris perintah yang fleksibel untuk rendering template. Mendukung banyak sumber data lokal dan jarak jauh
+  it: gomplate è uno strumento a riga di comando flessibile per il rendering dei template. Supporta molte fonti di dati locali e remote
+  ja: gomplate はテンプレートレンダリング用の柔軟なコマンドラインツールです。たくさんのローカル・リモートデータソースに対応しています
+  ko: gomplate는 템플릿 렌더링을 위한 유연한 명령줄 도구로, 다양한 로컬 및 원격 데이터 소스를 지원합니다
+  pl: gomplate to elastyczne narzędzie wiersza poleceń do renderowania szablonów. Obsługuje wiele lokalnych i zdalnych źródeł danych
+  pt: gomplate é uma ferramenta de linha de comando flexível para renderização de templates. Suporta muitos fontes de dados locais e remotas
+  ro: gomplate este un instrument de linie de comandă flexibil pentru randarea șablonurilor. Acceptă multe surse de date locale și la distanță
+  ru: gomplate — гибкий инструмент командной строки для рендеринга шаблонов. Поддерживает множество локальных и удалённых источников данных
+  th: gomplate เป็นเครื่องมือบรรทัดคำสั่งที่ยืดหยุ่นสำหรับการเรนเดอร์เทมเพลต รองรับแหล่งข้อมูลทั้งในเครื่องและระยะไกลจำนวนมาก
+  tr: gomplate, şablon oluşturma için esnek bir komut satırı aracıdır. Birçok yerel ve uzak veri kaynağını destekler
+  uk: gomplate — гнучкий інструмент командного рядка для рендерингу шаблонів. Підтримує багато локальних і віддалених джерел даних
+  vi: gomplate là công cụ dòng lệnh linh hoạt để kết xuất template. Hỗ trợ nhiều nguồn dữ liệu cục bộ và từ xa
 x:
   source: https://github.com/hairyhenderson/gomplate
   eget: hairyhenderson/gomplate

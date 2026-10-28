@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: OpenAI API 的命令行客户端
   en: Command-line client for OpenAI APIs
+  cs: Příkazový klient pro API OpenAI
+  de: Command-Line-Client für OpenAI-APIs
+  es: Cliente de línea de comandos para las API de OpenAI
+  fr: Client en ligne de commande pour les API OpenAI
+  id: Klien baris perintah untuk API OpenAI
+  it: Client a riga di comando per le API di OpenAI
+  ja: OpenAI API 用のコマンドラインクライアント
+  ko: OpenAI API용 커맨드라인 클라이언트
+  pl: Klient wiersza poleceń dla API OpenAI
+  pt: Cliente de linha de comando para as APIs da OpenAI
+  ro: Client de linie de comandă pentru API-urile OpenAI
+  ru: Командный клиент для API OpenAI
+  th: ไคลเอนต์บรรทัดคำสั่งสำหรับ API ของ OpenAI
+  tr: OpenAI API'leri için komut satırı istemcisi
+  uk: Командний клієнт для API OpenAI
+  vi: Ứng dụng dòng lệnh cho API của OpenAI
 x:
   source: https://github.com/peterdemin/openai-cli
   pip: openai-cli

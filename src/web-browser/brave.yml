@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Brave 是一个注重隐私的 Chromium 浏览器，内置广告拦截、防追踪与可选 VPN。
   en: Brave is a privacy-focused Chromium browser with built-in ad-blocking, anti-tracking, and optional VPN.
+  cs: Brave je prohlížeč Chromium zaměřený na soukromí, s integrovaným blokováním reklam, sledováním a volitelnou VPN.
+  de: Brave ist ein auf Privatsphäre fokussierter Chromium-Browser mit integriertem Adblocker, Anti-Tracking und optionaler VPN.
+  es: Brave es un navegador Chromium centrado en la privacidad, con bloqueo de anuncios, antitracking y VPN opcional integrados.
+  fr: Brave est un navigateur Chromium axé sur la confidentialité, avec bloqueur de publicités, anti-pistage et VPN en option.
+  id: Brave adalah peramban Chromium yang berfokus pada privasi, dengan pemblokir iklan, anti-pelacakan, dan VPN opsional bawaan.
+  it: Brave è un browser Chromium incentrato sulla privacy, con blocco degli annunci, anti-tracking e VPN opzionale integrati.
+  ja: Brave はプライバシーに重点を置いた Chromium ブラウザで、广告ブロック、アンチトラッキング、任意の VPN を内蔵しています。
+  ko: Brave는 광고 차단, 안티 트래킹, 선택형 VPN이 내장된 개인정보 보호 중심의 Chromium 브라우저입니다.
+  pl: Brave to przeglądarka Chromium skupiona na prywatności, z wbudowanym blokowaniem reklam, ochroną przed śledzeniem i opcjonalnym VPN.
+  pt: O Brave é um navegador Chromium focado em privacidade, com bloqueio de anúncios, antitracking e VPN opcional integrados.
+  ro: Brave este un browser Chromium axat pe confidențialitate, cu blocare a reclamelor, anti-tracking și VPN opțional integrate.
+  ru: Brave — браузер на базе Chromium, ориентированный на приватность, со встроенным блокировщиком рекламы, защитой от отслеживания и опциональным VPN.
+  th: Brave คือเบราว์เซอร์ Chromium ที่เน้นความเป็นส่วนตัว พร้อมการบล็อกโฆษณา การป้องกันการติดตาม และ VPN เสริม๏
+  tr: Brave, yerleşik reklam engelleme, izleme koruması ve isteğe bağlı VPN ile gizliliğe odaklı bir Chromium tarayıcısıdır.
+  uk: Brave — браузер на базі Chromium, орієнтований на приватність, із вбудованим блокувальником реклами, захистом від стеження та опціональним VPN.
+  vi: Brave là trình duyệt Chromium tập trung vào quyền riêng tư, có sẵn chặn quảng cáo, chống theo dõi và VPN tùy chọn.
 x:
   source: https://github.com/brave/brave-browser
   apt: brave-browser

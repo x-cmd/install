@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Elements is an API Documentation toolkit leveraging OpenAPI and Markdown (CommonMark) to provide beautiful, interactive API reference documentation that you can integrate with any existing content-management system or single-page application
   cn: Elements 是一个 API 文档工具包，利用 OpenAPI 和 Markdown (CommonMark)提供漂亮的、交互式的 API 参考文档，可以与任何现有的内容管理系统或单页应用集成
+  cs: Elements je sada nástrojů pro dokumentaci API, která využívá OpenAPI a Markdown (CommonMark) a poskytuje krásnou interaktivní referenční dokumentaci API, kterou lze integrovat s jakýmkoli existujícím systémem správy obsahu nebo jednostránkovou aplikací
+  de: Elements ist ein Toolkit für API-Dokumentation, der OpenAPI und Markdown (CommonMark) nutzt und ansprechende, interaktive API-Referenzdokumentation bereitstellt, die sich in jedes bestehende Content-Management-System oder jede Single-Page-Anwendung integrieren lässt
+  es: Elements es un kit de herramientas de documentación de API que aprovecha OpenAPI y Markdown (CommonMark) para ofrecer una documentación de referencia de API bonita e interactiva, que puedes integrar con cualquier sistema de gestión de contenidos o aplicación de página única existente
+  fr: Elements est une boîte à outils de documentation d'API qui s'appuie sur OpenAPI et Markdown (CommonMark) pour fournir une documentation de référence d'API belle et interactive, intégrable à tout système de gestion de contenu ou application monopage existant
+  id: Elements adalah perangkat dokumentasi API yang memanfaatkan OpenAPI dan Markdown (CommonMark) untuk menyediakan dokumentasi referensi API yang indah dan interaktif yang dapat diintegrasikan dengan sistem manajemen konten atau aplikasi satu halaman yang ada
+  it: Elements è un toolkit per la documentazione delle API che sfrutta OpenAPI e Markdown (CommonMark) per fornire una documentazione di riferimento delle API bella e interattiva, integrabile con qualsiasi sistema di gestione dei contenuti o applicazione a pagina singola esistente
+  ja: Elements は OpenAPI と Markdown (CommonMark) を活用し、既存のコンテンツ管理システムやシングルページアプリケーションに統合できる、美しくインタラクティブな API リファレンスドキュメントを提供する API ドキュメントツールキットです
+  ko: Elements는 OpenAPI와 Markdown(CommonMark)를 활용하여 아름답고 대화형인 API 참조 문서를 제공하며, 이를 기존 콘텐츠 관리 시스템이나 단일 페이지 애플리케이션에 통합할 수 있는 API 문서 도구 모음입니다
+  pl: Elements to zestaw narzędzi do dokumentacji API wykorzystujący OpenAPI i Markdown (CommonMark), który zapewnia piękną, interaktywną dokumentację referencyjną API, możliwą do zintegrowania z dowolnym istniejącym systemem zarządzania treścią lub aplikacją jednostronicową
+  pt: Elements é um kit de ferramentas de documentação de API que aproveita OpenAPI e Markdown (CommonMark) para fornecer uma documentação de referência de API bonita e interativa, que você pode integrar com qualquer sistema de gerenciamento de conteúdo ou aplicativo de página única existente
+  ro: Elements este un set de instrumente pentru documentarea API care folosește OpenAPI și Markdown (CommonMark) pentru a oferi documentație de referință API frumoasă și interactivă, pe care o poți integra cu orice sistem existent de gestionare a conținutului sau aplicație cu o singură pagină
+  ru: Elements — это набор инструментов для документирования API, использующий OpenAPI и Markdown (CommonMark), чтобы предоставлять красивую интерактивную справочную документацию API, которую можно интегрировать с любой существующей системой управления контентом или одностраничным приложением
+  th: Elements คือชุดเครื่องมือเอกสารประกอบ API ที่ใช้ประโยชน์จาก OpenAPI และ Markdown (CommonMark) เพื่อให้เอกสารอ้างอิง API ที่สวยงามและโต้ตอบได้ ซึ่งคุณสามารถรวมเข้ากับระบบจัดการเนื้อหาหรือแอปแบบหน้าเดียวที่มีอยู่ได้
+  tr: Elements, OpenAPI ve Markdown (CommonMark) kullanarak mevcut herhangi bir içerik yönetim sistemi veya tek sayfalık uygulamayla entegre edilebilen güzel, etkileşimli API referans belgeleri sunan bir API dokümantasyon araç setidir
+  uk: Elements — це набір інструментів для документування API, що використовує OpenAPI і Markdown (CommonMark) для надання красивої інтерактивної довідкової документації API, яку можна інтегрувати з будь-якою наявною системою керування контентом або односторінковим застосунком
+  vi: Elements là bộ công cụ tài liệu API tận dụng OpenAPI và Markdown (CommonMark) để cung cấp tài liệu tham chiếu API đẹp đẽ và tương tác, có thể tích hợp với bất kỳ hệ thống quản lý nội dung hay ứng dụng một trang nào
 x:
   source: https://github.com/stoplightio/elements
   npm: "@stoplight/elements"

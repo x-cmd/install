@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 从终端运行模块化的 AI 脚本，自动化项目规划、TDD、代码重构、工具配置等软件开发任务
   en: Run modular, AI-powered scripts from your terminal to automate software development tasks like project planning, TDD, code refactoring, and tooling setup.
+  cs: Spouštějte modulární AI skripty z terminálu a automatizujte úkoly vývoje softwaru jako plánování projektu, TDD, refaktorizaci kódu a nastavení nástrojů.
+  de: Führen Sie modulare KI-Skripte im Terminal aus, um Aufgaben der Softwareentwicklung wie Projektplanung, TDD, Code-Refactoring und Tool-Einrichtung zu automatisieren.
+  es: Ejecuta scripts modulares con IA desde tu terminal para automatizar tareas de desarrollo de software como planificación de proyectos, TDD, refactorización de código y configuración de herramientas.
+  fr: Exécutez des scripts IA modulaires depuis votre terminal pour automatiser des tâches de développement logiciel comme la planification de projets, le TDD, le refactoring de code et la configuration des outils.
+  id: Jalankan skrip AI modular dari terminal untuk mengotomatiskan tugas pengembangan perangkat lunak seperti perencanaan proyek, TDD, refactoring kode, dan penyiapan tooling.
+  it: Esegui script modulari basati su AI dal terminale per automatizzare attività di sviluppo software come pianificazione dei progetti, TDD, refactoring del codice e configurazione degli strumenti.
+  ja: ターミナルからモジュール化された AI スクリプトを実行し、プロジェクト計画、TDD、コードリファクタリング、ツール設定などの開発業務を自動化します。
+  ko: 터미널에서 모듈형 AI 스크립트를 실행해 프로젝트 계획, TDD, 코드 리팩터링, 도구 설정 같은 소프트웨어 개발 작업을 자동화합니다.
+  pl: Uruchamiaj modułowe skrypty AI z terminala, aby zautomatyzować zadania rozwoju oprogramowania, takie jak planowanie projektów, TDD, refaktoryzacja kodu i konfiguracja narzędzi.
+  pt: Execute scripts modulares com IA a partir do terminal para automatizar tarefas de desenvolvimento de software como planejamento de projetos, TDD, refatoração de código e configuração de ferramentas.
+  ro: Rulați scripturi AI modulare din terminal pentru a automatiza sarcini de dezvoltare software precum planificarea proiectelor, TDD, refactorizarea codului și configurarea instrumentelor.
+  ru: "Запускайте модульные ИИ-скрипты из терминала, автоматизируя задачи разработки ПО: планирование проектов, TDD, рефакторинг кода и настройку инструментов."
+  th: รันสคริปต์ AI แบบโมดูลาร์จากเทอร์มินัลเพื่อทำให้งานพัฒนาซอฟต์แวร์อย่างการวางแผนโครงการ TDD การรีแฟกเตอร์โค้ด และการตั้งค่าเครื่องมือเป็นอัตโนมัติ
+  tr: Proje planlama, TDD, kod yeniden düzenleme ve araç kurulumu gibi yazılım geliştirme görevlerini otomatikleştirmek için terminalden modüler AI betikleri çalıştırın.
+  uk: "Запускайте модульні ІІ-скрипти з термінала, щоб автоматизувати завдання розробки ПЗ: планування проєктів, TDD, рефакторинг коду та налаштування інструментів."
+  vi: Chạy các script AI dạng mô-đun từ terminal để tự động hóa các tác vụ phát triển phần mềm như lập kế hoạch dự án, TDD, tái cấu trúc mã và thiết lập công cụ.
 x:
   source: https://github.com/mattpocock/skills
   eget: mattpocock/skills

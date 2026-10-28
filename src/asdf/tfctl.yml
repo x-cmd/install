@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Weave Gitops 的 Terraform 控制器（又名 Weave TF-Controller）是通量以 Gitops 方式调和 Terraform 资源的控制器
   en: Weave GitOps' Terraform Controller (aka Weave TF-Controller) is a controller for Flux to reconcile Terraform resources in the GitOps way
+  cs: Terraform Controller od Weave GitOps (též Weave TF-Controller) je controller pro Flux, který rekonciluje Terraform zdroje způsobem GitOps
+  de: Der Terraform Controller von Weave GitOps (auch Weave TF-Controller genannt) ist ein Controller für Flux, der Terraform-Ressourcen auf GitOps-Art reconciliert
+  es: El Terraform Controller de Weave GitOps (también conocido como Weave TF-Controller) es un controlador para Flux que reconcilia recursos de Terraform de forma GitOps
+  fr: Le Terraform Controller de Weave GitOps (également connu sous le nom Weave TF-Controller) est un contrôleur pour Flux qui réconcilie les ressources Terraform de manière GitOps
+  id: Terraform Controller milik Weave GitOps (dikenal juga sebagai Weave TF-Controller) adalah controller untuk Flux yang merekonsiliasi sumber daya Terraform dengan cara GitOps
+  it: Il Terraform Controller di Weave GitOps (noto anche come Weave TF-Controller) è un controller per Flux che riconcilia le risorse Terraform in stile GitOps
+  ja: Weave GitOps の Terraform Controller（Weave TF-Controller とも呼ばれます）は、Terraform リソースを GitOps の方法で調整する Flux 用コントローラーです
+  ko: Weave GitOps의 Terraform Controller(Weave TF-Controller라고도 함)는 Terraform 리소스를 GitOps 방식으로 조정하는 Flux용 컨트롤러입니다
+  pl: Terraform Controller firmy Weave GitOps (znany też jako Weave TF-Controller) to controller dla Flux, który uzgadnia zasoby Terraform w sposób GitOps
+  pt: O Terraform Controller do Weave GitOps (também conhecido como Weave TF-Controller) é um controller para o Flux que reconcilia recursos do Terraform de forma GitOps
+  ro: Terraform Controller de la Weave GitOps (cunoscut și ca Weave TF-Controller) este un controller pentru Flux care reconciliază resursele Terraform în stil GitOps
+  ru: Terraform Controller от Weave GitOps (также известный как Weave TF-Controller) — это контроллер для Flux, который приводит ресурсы Terraform в соответствие способом GitOps
+  th: Terraform Controller ของ Weave GitOps (หรือที่เรียกว่า Weave TF-Controller) คือ controller สำหรับ Flux ที่ทำการ reconcile ทรัพยากร Terraform ในแบบ GitOps
+  tr: Weave GitOps'ın Terraform Controller'ı (Weave TF-Controller olarak da bilinir), Terraform kaynaklarını GitOps yöntemiyle uzlaştıran Flux için bir denetleyicidir
+  uk: Terraform Controller від Weave GitOps (також відомий як Weave TF-Controller) — це контролер для Flux, який узгоджує ресурси Terraform у стилі GitOps
+  vi: Terraform Controller của Weave GitOps (còn gọi là Weave TF-Controller) là một controller cho Flux, điều hòa các tài nguyên Terraform theo cách GitOps
 x:
   source: https://github.com/weaveworks/tf-controller
   eget: weaveworks/tf-controller

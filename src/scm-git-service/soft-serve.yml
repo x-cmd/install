@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: soft-serve 是一个用于命令行的自托管 Git 服务器
   en: soft-serve is a self-hostable Git server for the command-line
+  cs: soft-serve je self-hostovatelný Git server pro příkazovou řádku
+  de: soft-serve ist ein selbst hostbarer Git-Server für die Kommandozeile
+  es: soft-serve es un servidor Git autoalojable para la línea de comandos
+  fr: soft-serve est un serveur Git auto-hébergeable pour la ligne de commande
+  id: soft-serve adalah server Git yang dapat di-hosting sendiri untuk baris perintah
+  it: soft-serve è un server Git self-hostable per la riga di comando
+  ja: soft-serve はコマンドライン向けのセルフホスト可能な Git サーバーです
+  ko: soft-serve는 명령줄을 위한 자체 호스팅 가능한 Git 서버입니다
+  pl: soft-serve to samodzielnie hostowany serwer Git dla wiersza poleceń
+  pt: soft-serve é um servidor Git auto-hospedável para a linha de comando
+  ro: soft-serve este un server Git auto-găzduit pentru linia de comandă
+  ru: soft-serve — самостоятельно размещаемый Git-сервер для командной строки
+  th: soft-serve คือเซิร์ฟเวอร์ Git ที่พร้อมให้โฮสต์เองสำหรับบรรทัดคำสั่ง
+  tr: soft-serve, komut satırı için kendi sunucunuzda barındırılabilen bir Git sunucusudur
+  uk: soft-serve — Git-сервер для командного рядка, який можна розмістити власними силами
+  vi: soft-serve là máy chủ Git tự lưu trữ cho dòng lệnh
 x:
   source: https://github.com/charmbracelet/soft-serve
   eget: charmbracelet/soft-serve

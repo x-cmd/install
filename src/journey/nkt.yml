@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: nkt 是一个命令行工具，可帮助您跟踪和构建笔记、待办事项列表、习惯等
   en: nkt is a command line tool for helping you track and build your notes, todo lists, habits, and more.
+  cs: nkt je nástroj příkazové řádky, který vám pomáhá sledovat a tvořit poznámky, seznamy úkolů, zvyky a další.
+  de: nkt ist ein Befehlszeilenwerkzeug, das Ihnen hilft, Notizen, Aufgabenlisten, Gewohnheiten und mehr zu verfolgen und aufzubauen.
+  es: nkt es una herramienta de línea de comandos que te ayuda a llevar el control y crear notas, listas de tareas, hábitos y más.
+  fr: nkt est un outil en ligne de commande qui vous aide à suivre et à créer vos notes, listes de tâches, habitudes et plus encore.
+  id: nkt adalah alat baris perintah untuk membantu Anda melacak dan membuat catatan, daftar tugas, kebiasaan, dan banyak lagi.
+  it: nkt è uno strumento da riga di comando che ti aiuta a tracciare e creare note, elenchi di attività, abitudini e altro.
+  ja: nktは、ノート・Todoリスト・習慣などを追跡し整理するためのコマンドラインツールです。
+  ko: nkt는 메모, 할 일 목록, 습관 등을 추적하고 구성하도록 돕는 명령줄 도구입니다.
+  pl: nkt to narzędzie wiersza poleceń, które pomaga śledzić i tworzyć notatki, listy zadań, nawyki i nie tylko.
+  pt: nkt é uma ferramenta de linha de comando que ajuda você a acompanhar e criar notas, listas de tarefas, hábitos e muito mais.
+  ro: nkt este un instrument de linie de comandă care vă ajută să urmăriți și să creați notițe, liste de sarcini, obiceiuri și multe altele.
+  ru: nkt — инструмент командной строки, который помогает отслеживать и создавать заметки, списки задач, привычки и многое другое.
+  th: nkt เป็นเครื่องมือบรรทัดคำสั่งที่ช่วยให้คุณติดตามและสร้างบันทึก รายการงาน นิสัย และอื่น ๆ
+  tr: nkt, notlarınızı, yapılacaklar listenizi, alışkanlıklarınızı ve daha fazlasını takip edip oluşturmanıza yardımcı olan bir komut satırı aracıdır.
+  uk: nkt — інструмент командного рядка, який допомагає відстежувати та створювати нотатки, списки завдань, звички та багато іншого.
+  vi: nkt là công cụ dòng lệnh giúp bạn theo dõi và xây dựng ghi chú, danh sách việc cần làm, thói quen và nhiều hơn nữa.
 x:
   source: https://github.com/fjebaker/nkt
   eget: fjebaker/nkt

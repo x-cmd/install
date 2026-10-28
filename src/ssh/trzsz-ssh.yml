@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: An alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
   cn: 一个 ssh 客户端的替代品，提供了额外的有用功能，如登录提示、trzsz（trz / tsz）、批量登录、记住密码、zmodem（rz / sz）等。
+  cs: Alternativa ke klientovi ssh, která nabízí další užitečné funkce, jako je výzva k přihlášení, trzsz ( trz / tsz ), dávkové přihlášení, zapamatování hesla, zmodem ( rz / sz ) atd.
+  de: Eine Alternative zum ssh-Client mit zusätzlichen nützlichen Funktionen wie Login-Aufforderung, trzsz ( trz / tsz ), Stapel-Login, Merken des Passworts, zmodem ( rz / sz ) usw.
+  es: Una alternativa al cliente ssh que ofrece funciones adicionales útiles, como aviso de inicio de sesión, trzsz ( trz / tsz ), inicio de sesión por lotes, recordar contraseña, zmodem ( rz / sz ), etc.
+  fr: Une alternative au client ssh offrant des fonctionnalités supplémentaires utiles, comme l'invite de connexion, trzsz ( trz / tsz ), la connexion par lots, la mémorisation du mot de passe, zmodem ( rz / sz ), etc.
+  id: Alternatif dari klien ssh dengan fitur tambahan yang berguna, seperti permintaan login, trzsz ( trz / tsz ), login massal, mengingat kata sandi, zmodem ( rz / sz ), dan sebagainya.
+  it: Un'alternativa al client ssh con funzioni utili aggiuntive, come richiesta di login, trzsz ( trz / tsz ), accesso in blocco, memorizzazione della password, zmodem ( rz / sz ) ecc.
+  ja: ssh クライアントの代替として、ログインプロンプト、trzsz ( trz / tsz )、一括ログイン、パスワードの保存、zmodem ( rz / sz ) などの便利な機能を提供します。
+  ko: 로그인 프롬프트, trzsz( trz / tsz ), 일괄 로그인, 비밀번호 저장, zmodem( rz / sz ) 등 유용한 기능을 추가로 제공하는 ssh 클라이언트 대안입니다.
+  pl: Alternatywa dla klienta ssh oferująca dodatkowe przydatne funkcje, takie jak monit logowania, trzsz ( trz / tsz ), logowanie wsadowe, zapamiętywanie hasła, zmodem ( rz / sz ) itd.
+  pt: Uma alternativa ao cliente ssh que oferece recursos úteis adicionais, como prompt de login, trzsz ( trz / tsz ), login em lote, lembrar senha, zmodem ( rz / sz ) etc.
+  ro: O alternativă la clientul ssh care oferă funcții utile suplimentare, cum ar fi promptul de autentificare, trzsz ( trz / tsz ), autentificare în lot, memorarea parolei, zmodem ( rz / sz ) etc.
+  ru: Альтернатива ssh-клиенту с дополнительными полезными возможностями, такими как приглашение к вводу логина, trzsz ( trz / tsz ), пакетный вход, запоминание пароля, zmodem ( rz / sz ) и т. д.
+  th: ทางเลือกของไคลเอนต์ ssh ที่มีความสามารถที่มีประโยชน์เพิ่มเติม เช่น การแจ้งให้เข้าสู่ระบบ, trzsz ( trz / tsz ), เข้าสู่ระบบแบบชุด, จดจำรหัสผ่าน, zmodem ( rz / sz ) เป็นต้น
+  tr: Giriş istemi, trzsz ( trz / tsz ), toplu giriş, parola hatırlama, zmodem ( rz / sz ) gibi ek faydalı özellikler sunan bir ssh istemci alternatifidir.
+  uk: Альтернатива ssh-клієнту з додатковими корисними можливостями, такими як запит на вхід, trzsz ( trz / tsz ), пакетний вхід, запам'ятовування пароля, zmodem ( rz / sz ) тощо.
+  vi: Một lựa chọn thay thế cho client ssh với các tính năng hữu ích bổ sung, như nhắc đăng nhập, trzsz ( trz / tsz ), đăng nhập hàng loạt, ghi nhớ mật khẩu, zmodem ( rz / sz ) v.v.
 x:
   source: https://github.com/trzsz/trzsz-ssh
   eget: trzsz/trzsz-ssh

@@ -3,6 +3,22 @@ homepage: https://www.bitwizard.nl/mtr/
 desc:
   cn: mtr 结合了单个网络诊断工具中 “Traceroute” 和 “Ping” 程序的功能
   en: mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool
+  cs: mtr kombinuje funkce programů 'traceroute' a 'ping' v jediném nástroji pro diagnostiku sítě
+  de: mtr kombiniert die Funktionen der Programme 'traceroute' und 'ping' in einem einzigen Netzwerkdiagnosewerkzeug
+  es: mtr combina la funcionalidad de los programas 'traceroute' y 'ping' en una única herramienta de diagnóstico de red
+  fr: mtr combine les fonctionnalités des programmes 'traceroute' et 'ping' dans un seul outil de diagnostic réseau
+  id: mtr menggabungkan fungsi program 'traceroute' dan 'ping' dalam satu alat diagnostik jaringan
+  it: mtr combina le funzionalità dei programmi 'traceroute' e 'ping' in un unico strumento di diagnostica di rete
+  ja: mtr は 'traceroute' と 'ping' の機能を 1 つのネットワーク診断ツールに統合しました
+  ko: mtr은 'traceroute'와 'ping' 프로그램의 기능을 하나의 네트워크 진단 도구로 결합합니다
+  pl: mtr łączy funkcje programów 'traceroute' i 'ping' w jednym narzędziu do diagnostyki sieci
+  pt: O mtr combina a funcionalidade dos programas 'traceroute' e 'ping' em uma única ferramenta de diagnóstico de rede
+  ro: mtr combină funcționalitatea programelor 'traceroute' și 'ping' într-o singură unealtă de diagnosticare a rețelei
+  ru: mtr объединяет возможности программ 'traceroute' и 'ping' в одном инструменте диагностики сети
+  th: mtr รวมฟังก์ชันของโปรแกรม 'traceroute' และ 'ping' ไว้ในเครื่องมือวินิจฉัยเครือข่ายเดียว
+  tr: mtr, 'traceroute' ve 'ping' programlarının işlevlerini tek bir ağ tanılama aracında birleştirir
+  uk: mtr поєднує можливості програм 'traceroute' та 'ping' в одному інструменті діагностики мережі
+  vi: mtr kết hợp chức năng của các chương trình 'traceroute' và 'ping' trong một công cụ chẩn đoán mạng duy nhất
 rule:
   darwin/brew:
     cmd: brew install mtr

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在终端中显示图像和 GIF
   en: 'Display images and gifs in your terminal.'
+  cs: Zobrazuje obrázky a gify v terminálu.
+  de: Zeigt Bilder und GIFs in Ihrem Terminal an.
+  es: Muestra imágenes y GIF en tu terminal.
+  fr: Affiche des images et des GIF dans votre terminal.
+  id: Menampilkan gambar dan gif di terminal Anda.
+  it: Mostra immagini e gif nel tuo terminale.
+  ja: ターミナルに画像と gif を表示します。
+  ko: 터미널에 이미지와 gif를 표시합니다.
+  pl: Wyświetla obrazy i gify w terminalu.
+  pt: Exibe imagens e gifs no seu terminal.
+  ro: Afișează imagini și gif-uri în terminalul dvs.
+  ru: Отображает изображения и gif в вашем терминале.
+  th: แสดงรูปภาพและ gif ในเทอร์มินัลของคุณ
+  tr: Terminalinizde görseller ve gif'leri gösterir.
+  uk: Показує зображення та gif у вашому терміналі.
+  vi: Hiển thị hình ảnh và gif trong terminal của bạn.
 x:
   source: https://github.com/danielgatis/imgcat
   eget: danielgatis/imgcat

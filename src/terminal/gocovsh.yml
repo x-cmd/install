@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 在终端中浏览 Go 覆盖率报告的工具
   en: 'Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻'
+  cs: "Go Coverage in your terminal: nástroj pro prohlížení Go Coverage reportů z příkazové řádky 💻"
+  de: "Go Coverage in deinem Terminal: ein Werkzeug zum Erkunden von Go Coverage-Berichten über die Kommandozeile 💻"
+  es: "Go Coverage en tu terminal: una herramienta para explorar informes de Go Coverage desde la línea de comandos 💻"
+  fr: "Go Coverage dans votre terminal : un outil pour explorer les rapports Go Coverage depuis la ligne de commande 💻"
+  id: "Go Coverage di terminal Anda: alat untuk menjelajahi laporan Go Coverage dari baris perintah 💻"
+  it: "Go Coverage nel tuo terminale: uno strumento per esplorare i report Go Coverage dalla riga di comando 💻"
+  ja: ターミナルで Go Coverage を確認：コマンドラインから Go Coverage レポートを閲覧するツール 💻
+  ko: "터미널에서 Go Coverage를 확인: 명령줄에서 Go Coverage 보고서를 탐색하는 도구 💻"
+  pl: "Go Coverage w terminalu: narzędzie do przeglądania raportów Go Coverage z wiersza poleceń 💻"
+  pt: "Go Coverage no seu terminal: uma ferramenta para explorar relatórios de Go Coverage a partir da linha de comando 💻"
+  ro: "Go Coverage în terminalul tău: un instrument pentru explorarea rapoartelor Go Coverage din linia de comandă 💻"
+  ru: "Go Coverage в вашем терминале: инструмент для просмотра отчётов Go Coverage из командной строки 💻"
+  th: "Go Coverage ในเทอร์มินัลของคุณ: เครื่องมือสำหรับสำรวจรายงาน Go Coverage จากบรรทัดคำสั่ง 💻"
+  tr: "Go Coverage terminalinizde: Go Coverage raporlarını komut satırından keşfetmek için bir araç 💻"
+  uk: "Go Coverage у вашому терміналі: інструмент для перегляду звітів Go Coverage з командного рядка 💻"
+  vi: "Go Coverage trong terminal của bạn: công cụ để khám phá các báo cáo Go Coverage từ dòng lệnh 💻"
 x:
   source: https://github.com/orlangure/gocovsh
   eget: orlangure/gocovsh

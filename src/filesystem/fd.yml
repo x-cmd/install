@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: '`find` 命令的现代化替代品，用于在文件系统中进行快速查找文件和目录'
   en: A modern alternative for the `find` command, used for quickly searching files and directories in the file system
+  cs: Moderní alternativa k příkazu `find`, která slouží k rychlému hledání souborů a adresářů v souborovém systému
+  de: Eine moderne Alternative zum Befehl `find` zum schnellen Suchen von Dateien und Verzeichnissen im Dateisystem
+  es: Una alternativa moderna al comando `find`, que sirve para buscar rápidamente archivos y directorios en el sistema de archivos
+  fr: Une alternative moderne à la commande `find`, pour rechercher rapidement des fichiers et des répertoires dans le système de fichiers
+  id: Alternatif modern untuk perintah `find`, digunakan untuk mencari berkas dan direktori dengan cepat di sistem berkas
+  it: Un'alternativa moderna al comando `find`, usata per cercare rapidamente file e directory nel file system
+  ja: ファイルシステム内のファイルとディレクトリをすばやく検索するための、`find` コマンドのモダンな代替品
+  ko: 파일 시스템에서 파일과 디렉터리를 빠르게 검색하기 위한 `find` 명령의 현대적인 대안
+  pl: Nowoczesna alternatywa dla polecenia `find`, służąca do szybkiego wyszukiwania plików i katalogów w systemie plików
+  pt: Uma alternativa moderna ao comando `find`, usada para pesquisar rapidamente arquivos e diretórios no sistema de arquivos
+  ro: O alternativă modernă la comanda `find`, folosită pentru căutarea rapidă a fișierelor și directoarelor în sistemul de fișiere
+  ru: Современная альтернатива команде `find` для быстрого поиска файлов и каталогов в файловой системе
+  th: ทางเลือกสมัยใหม่ของคำสั่ง `find` สำหรับค้นหาไฟล์และไดเรกทอรีอย่างรวดเร็วในระบบไฟล์
+  tr: Dosya sisteminde dosyaları ve dizinleri hızlıca aramak için `find` komutuna modern bir alternatif
+  uk: Сучасна альтернатива команді `find` для швидкого пошуку файлів і каталогів у файловій системі
+  vi: Bản thay thế hiện đại cho lệnh `find`, dùng để nhanh chóng tìm tệp và thư mục trong hệ thống tệp
 x:
   source: https://github.com/sharkdp/fd
   eget: sharkdp/fd

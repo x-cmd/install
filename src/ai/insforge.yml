@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 对智能体友好的后端平台，让 AI 直接配置数据库、认证、存储与 Serverless 函数
   en: Provide an agent-friendly backend platform that allows AI to directly configure databases, authentication, storage, and serverless functions.
+  cs: Poskytuje platformu backendovou přátelskou agentům, která umožňuje AI přímo konfigurovat databáze, autentizaci, úložiště a serverless funkce.
+  de: Bietet eine agentenfreundliche Backend-Plattform, mit der KI Datenbanken, Authentifizierung, Speicher und Serverless-Funktionen direkt konfigurieren kann.
+  es: Proporciona una plataforma backend amigable para agentes que permite a la IA configurar directamente bases de datos, autenticación, almacenamiento y funciones serverless.
+  fr: Fournit une plateforme backend compatible avec les agents qui permet à l'IA de configurer directement bases de données, authentification, stockage et fonctions serverless.
+  id: Menyediakan platform backend yang ramah agen sehingga AI dapat langsung mengonfigurasi basis data, autentikasi, penyimpanan, dan fungsi serverless.
+  it: Fornisce una piattaforma backend intuitiva per gli agenti che consente all'IA di configurare direttamente database, autenticazione, archiviazione e funzioni serverless.
+  ja: エージェントに優しいバックエンドプラットフォームを提供し、AIがデータベース、認証、ストレージ、サーバーレス関数を直接設定できるようにします。
+  ko: 에이전트 친화적인 백엔드 플랫폼을 제공하여 AI가 데이터베이스, 인증, 스토리지, 서버리스 함수를 직접 구성할 수 있게 합니다.
+  pl: Dostarcza przyjazną agentom platformę backendową, która pozwala AI bezpośrednio konfigurować bazy danych, uwierzytelnianie, magazyn danych i funkcje serverless.
+  pt: Fornece uma plataforma de backend amigável para agentes que permite à IA configurar diretamente bancos de dados, autenticação, armazenamento e funções serverless.
+  ro: Oferă o platformă backend prietenoasă agenților care permite AI să configureze direct baze de date, autentificare, stocare și funcții serverless.
+  ru: Предоставляет дружелюбную к агентам backend-платформу, позволяющую ИИ напрямую настраивать базы данных, аутентификацию, хранилище и serverless-функции.
+  th: ให้แพลตฟอร์มแบ็กเอนด์ที่เป็นมิตรกับเอเจนต์ ช่วยให้ AI กำหนดค่าฐานข้อมูล การยืนยันตัวตน ที่เก็บข้อมูล และฟังก์ชันแบบไม่ใช้เซิร์ฟเวอร์ได้โดยตรง
+  tr: Yapay zekanın veritabanlarını, kimlik doğrulamayı, depolamayı ve sunucusuz işlevleri doğrudan yapılandırmasına olanak tanıyan, araca dostu bir arka uç platformu sunar.
+  uk: Надає зручну для агентів бекенд-платформу, яка дозволяє ІІ напряму налаштовувати бази даних, автентифікацію, сховище та serverless-функції.
+  vi: Cung cấp nền tảng backend thân thiện với tác nhân, cho phép AI trực tiếp cấu hình cơ sở dữ liệu, xác thực, lưu trữ và hàm serverless.
 x:
   source: https://github.com/InsForge/InsForge
 rule:

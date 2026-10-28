@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 执行 SQL 查询并将结果转换为 Markdown 表的 CLI 工具
   en: A CLI tool that executes SQL queries and converts the results into a Markdown table
+  cs: Nástroj CLI, který spouští dotazy SQL a převádí výsledky do tabulky Markdown
+  de: Ein CLI-Werkzeug, das SQL-Abfragen ausführt und die Ergebnisse in eine Markdown-Tabelle umwandelt
+  es: Una herramienta de CLI que ejecuta consultas SQL y convierte los resultados en una tabla Markdown
+  fr: Un outil en ligne de commande qui exécute des requêtes SQL et convertit les résultats en tableau Markdown
+  id: Alat CLI yang menjalankan kueri SQL dan mengonversi hasilnya menjadi tabel Markdown
+  it: Uno strumento CLI che esegue query SQL e converte i risultati in una tabella Markdown
+  ja: SQL クエリを実行し、結果を Markdown テーブルに変換する CLI ツール
+  ko: SQL 쿼리를 실행하고 결과를 Markdown 테이블로 변환하는 CLI 도구
+  pl: Narzędzie CLI, które wykonuje zapytania SQL i konwertuje wyniki na tabelę Markdown
+  pt: Uma ferramenta de CLI que executa consultas SQL e converte os resultados em uma tabela Markdown
+  ro: Un instrument CLI care execută interogări SQL și convertește rezultatele într-un tabel Markdown
+  ru: CLI-инструмент, который выполняет SQL-запросы и преобразует результаты в таблицу Markdown
+  th: เครื่องมือ CLI ที่รันคำสั่ง SQL และแปลงผลลัพธ์เป็นตาราง Markdown
+  tr: SQL sorgularını çalıştıran ve sonuçları Markdown tablosuna dönüştüren bir CLI aracı
+  uk: CLI-інструмент, який виконує SQL-запити та перетворює результати на таблицю Markdown
+  vi: Công cụ CLI chạy các truy vấn SQL và chuyển đổi kết quả thành bảng Markdown
 x:
   source: https://github.com/noborus/mdtsql
   eget: noborus/mdtsql

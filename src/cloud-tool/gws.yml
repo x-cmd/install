@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
   cn: Google Workspace CLI——一款命令行工具，可用于管理云端硬盘、Gmail、日历、表格、文档、聊天、管理后台等。它基于 Google Discovery Service 动态构建，并包含 AI 代理功能
+  cs: Google Workspace CLI — jeden nástroj příkazové řádky pro Drive, Gmail, Kalendář, Tabulky, Dokumenty, Chat, Admin a další. Dynamicky sestaven z Google Discovery Service. Zahrnuje dovednosti AI agentů.
+  de: Google Workspace CLI — ein Kommandozeilen-Werkzeug für Drive, Gmail, Kalender, Tabellen, Docs, Chat, Admin und mehr. Dynamisch aus dem Google Discovery Service erzeugt. Enthält KI-Agenten-Skills.
+  es: "Google Workspace CLI: una única herramienta de línea de comandos para Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin y más. Se genera dinámicamente a partir de Google Discovery Service. Incluye habilidades de agentes de IA."
+  fr: Google Workspace CLI — un seul outil en ligne de commande pour Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin et plus encore. Généré dynamiquement à partir de Google Discovery Service. Inclut des compétences d'agents IA.
+  id: Google Workspace CLI — satu alat baris perintah untuk Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, dan lainnya. Dibangun secara dinamis dari Google Discovery Service. Termasuk keterampilan agen AI.
+  it: Google Workspace CLI — un unico strumento a riga di comando per Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin e altro. Generato dinamicamente da Google Discovery Service. Include le competenze degli agenti IA.
+  ja: Google Workspace CLI — Drive、Gmail、Calendar、Sheets、Docs、Chat、管理者機能などのための単一のコマンドラインツール。Google Discovery Service から動的に構築されます。AI エージェントのスキルも含まれます。
+  ko: Google Workspace CLI — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin 등을 위한 단일 명령줄 도구입니다. Google Discovery Service에서 동적으로 생성되며 AI 에이전트 스킬을 포함합니다.
+  pl: Google Workspace CLI — jedno narzędzie wiersza poleceń dla Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin i nie tylko. Dynamicznie budowane z Google Discovery Service. Zawiera umiejętności agentów AI.
+  pt: Google Workspace CLI — uma única ferramenta de linha de comando para Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin e muito mais. Construída dinamicamente a partir do Google Discovery Service. Inclui habilidades de agentes de IA.
+  ro: Google Workspace CLI — un singur instrument de linie de comandă pentru Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin și multe altele. Construit dinamic din Google Discovery Service. Include abilități pentru agenți AI.
+  ru: Google Workspace CLI — единый инструмент командной строки для Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin и многого другого. Динамически собирается из Google Discovery Service. Включает навыки ИИ-агентов.
+  th: Google Workspace CLI — เครื่องมือบรรทัดคำสั่งเดียวสำหรับ Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin และอื่น ๆ สร้างแบบไดนามิกจาก Google Discovery Service พร้อมทักษะเอไอเอ็กเจนต์ AI
+  tr: Google Workspace CLI — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin ve daha fazlası için tek bir komut satırı aracı. Google Discovery Service'ten dinamik olarak oluşturulur. AI aracı becerileri içerir.
+  uk: Google Workspace CLI — єдиний інструмент командного рядка для Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin та іншого. Динамічно збирається з Google Discovery Service. Містить навички ШІ-агентів.
+  vi: Google Workspace CLI — một công cụ dòng lệnh duy nhất cho Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin và nhiều hơn nữa. Được tạo động từ Google Discovery Service. Bao gồm kỹ năng cho tác nhân AI.
 x:
   source: https://github.com/googleworkspace/cli
   eget: googleworkspace/cli

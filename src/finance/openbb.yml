@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 通过统一 API 将公开、私有和授权来源的金融数据接入 Python、Excel 或自定义应用
   en: Integrate financial data from public, private, and licensed sources into Python, Excel, or custom applications via a unified API.
+  cs: Integrujte finanční data z veřejných, soukromých a licencovaných zdrojů do Pythonu, Excelu nebo vlastních aplikací prostřednictvím jednotného API.
+  de: Integrieren Sie Finanzdaten aus öffentlichen, privaten und lizenzierten Quellen über eine einheitliche API in Python, Excel oder eigene Anwendungen.
+  es: Integra datos financieros de fuentes públicas, privadas y con licencia en Python, Excel o aplicaciones personalizadas mediante una API unificada.
+  fr: Intégrez des données financières issues de sources publiques, privées et sous licence dans Python, Excel ou vos applications via une API unifiée.
+  id: Integrasikan data keuangan dari sumber publik, privat, dan berlisensi ke dalam Python, Excel, atau aplikasi kustom melalui API terpadu.
+  it: Integra dati finanziari da fonti pubbliche, private e con licenza in Python, Excel o applicazioni personalizzate tramite un'API unificata.
+  ja: 統一APIを通じて、公開・非公開・ライセンス済みの情報源の金融データをPython、Excel、カスタムアプリケーションに統合します。
+  ko: 통합 API를 통해 공개, 비공개, 라이선스 데이터 소스의 금융 데이터를 Python, Excel 또는 사용자 정의 애플리케이션에 통합하세요.
+  pl: Integruj dane finansowe ze źródeł publicznych, prywatnych i licencjonowanych z Pythonem, Excelem lub własnymi aplikacjami za pomocą ujednoliconego API.
+  pt: Integre dados financeiros de fontes públicas, privadas e licenciadas em Python, Excel ou aplicativos personalizados por meio de uma API unificada.
+  ro: Integrați date financiare din surse publice, private și licențiate în Python, Excel sau aplicații personalizate printr-o API unificată.
+  ru: Интегрируйте финансовые данные из публичных, частных и лицензированных источников в Python, Excel или собственные приложения через единый API.
+  th: ผสานข้อมูลการเงินจากแหล่งข้อมูลสาธารณะ เอกสิด และที่ได้รับอนุญาตเข้าสู่ Python, Excel หรือแอปพลิเคชันแบบกำหนดเองผ่าน API แบบรวมศูนย์
+  tr: Genel bir API ile kamu, özel ve lisanslı kaynaklardan finansal verileri Python, Excel veya özel uygulamalara entegre edin.
+  uk: Інтегруйте фінансові дані з публічних, приватних і ліцензованих джерел у Python, Excel або власні застосунки через єдиний API.
+  vi: Tích hợp dữ liệu tài chính từ các nguồn công khai, tư nhân và có giấy phép vào Python, Excel hoặc ứng dụng tùy chỉnh qua API thống nhất.
 x:
   source: https://github.com/OpenBB-finance/OpenBB
   pip: openbb

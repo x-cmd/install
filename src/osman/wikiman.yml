@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 通用的离线文档搜索引擎，支持 man 手册、tldr-pages、ArchWiki、Gentoo Wiki、DevDocs 和 FreeBSD 文档
   en: 'Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation'
+  cs: Wikiman je univerzální offline vyhledávač dokumentace pro man stránky, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs a dokumentaci FreeBSD
+  de: Wikiman ist eine universelle Offline-Dokumentationssuche für man-Seiten, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs und FreeBSD-Dokumentation
+  es: Wikiman es un motor de búsqueda universal de documentación sin conexión para páginas de manual, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs y documentación de FreeBSD
+  fr: Wikiman est un moteur de recherche universel de documentation hors ligne pour les pages de manuel, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs et la documentation FreeBSD
+  id: Wikiman adalah mesin pencari dokumentasi universal luring untuk halaman manual, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, dan dokumentasi FreeBSD
+  it: Wikiman è un motore di ricerca universale della documentazione offline per pagine man, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs e documentazione FreeBSD
+  ja: Wikiman は、man ページ、tldr-pages、ArchWiki、Gentoo Wiki、DevDocs、FreeBSD ドキュメントのための汎用のオフライン文書検索エンジンです
+  ko: Wikiman은 man 페이지, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs 및 FreeBSD 문서를 위한 범용 오프라인 문서 검색 엔진입니다
+  pl: Wikiman to uniwersalna offline wyszukiwarka dokumentacji dla stron man, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs i dokumentacji FreeBSD
+  pt: Wikiman é um mecanismo de busca universal de documentação off-line para páginas de manual, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs e documentação do FreeBSD
+  ro: Wikiman este un motor de căutare universal pentru documentație offline, pentru pagini man, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs și documentația FreeBSD
+  ru: Wikiman - универсальный офлайн-поисковик по документации для man-страниц, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs и документации FreeBSD
+  th: Wikiman คือเครื่องมือค้นหาเอกสารออฟไลน์สากลสำหรับ man pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs และเอกสาร FreeBSD
+  tr: Wikiman, man sayfaları, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs ve FreeBSD belgeleri için evrensel bir çevrimdışı dokümantasyon arama motorudur
+  uk: Wikiman - універсальний офлайн-пошуковик документації для man-сторінок, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs та документації FreeBSD
+  vi: Wikiman là công cụ tìm kiếm tài liệu ngoại tuyến phổ quát cho man page, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs và tài liệu FreeBSD
 x:
   source: https://github.com/filiparag/wikiman
   eget: filiparag/wikiman

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A simple, visually pleasing weather report in your terminal
   cn: 在终端中显示一个简洁且美观的天气预报
+  cs: Jednoduchá a příjemná předpověď počasí ve vašem terminálu
+  de: Ein einfacher, optisch ansprechender Wetterbericht in Ihrem Terminal
+  es: Un pronóstico del tiempo sencillo y agradable en tu terminal
+  fr: Un bulletin météo simple et agréable dans votre terminal
+  id: Laporan cuaca yang sederhana dan menyenangkan di terminal Anda
+  it: Un bollettino meteo semplice e piacevole nel tuo terminale
+  ja: ターミナルに表示する簡潔で美しい天気予報
+  ko: 터미널에서 보는 간결하고 보기 좋은 일기 예보
+  pl: Prosta i przyjemna prognoza pogody w terminalu
+  pt: Uma previsão do tempo simples e agradável no seu terminal
+  ro: O prognoză meteo simplă și plăcută în terminalul tău
+  ru: Простой и приятный прогноз погоды в терминале
+  th: รายงานสภาพอากาศที่เรียบง่ายและสวยงามในเทอร์มินัลของคุณ
+  tr: Terminalinizde sade ve göze hitap eden bir hava durumu raporu
+  uk: Простий і приємний прогноз погоди у терміналі
+  vi: Bản dự báo thời tiết đơn giản và dễ chịu trong terminal của bạn
 x:
   source: https://github.com/noprobelm/tempy
   yay: tempy

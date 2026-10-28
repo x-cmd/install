@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: MySQL、MariaDB 和 Percona 的命令行界面，具有自动完成和语法功能突出显示
   en: MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
+  cs: MyCLI je příkazové rozhraní pro MySQL, MariaDB a Percona s automatickým dokončováním a zvýrazňováním syntaxe.
+  de: MyCLI ist eine Kommandozeilenschnittstelle für MySQL, MariaDB und Percona mit Autovervollständigung und Syntaxhervorhebung.
+  es: MyCLI es una interfaz de línea de comandos para MySQL, MariaDB y Percona con autocompletado y resaltado de sintaxis.
+  fr: MyCLI est une interface en ligne de commande pour MySQL, MariaDB et Percona avec complétion automatique et coloration syntaxique.
+  id: MyCLI adalah antarmuka baris perintah untuk MySQL, MariaDB, dan Percona dengan penyelesaian otomatis dan penyorotan sintaks.
+  it: MyCLI è un'interfaccia a riga di comando per MySQL, MariaDB e Percona con completamento automatico ed evidenziazione della sintassi.
+  ja: MyCLI は MySQL、MariaDB、Percona のコマンドラインインターフェースで、自動補完と構文ハイライトに対応しています。
+  ko: MyCLI는 자동 완성과 구문 강조 표시를 지원하는 MySQL, MariaDB, Percona용 명령줄 인터페이스입니다.
+  pl: MyCLI to interfejs wiersza poleceń dla MySQL, MariaDB i Percona z autouzupełnianiem i podświetlaniem składni.
+  pt: O MyCLI é uma interface de linha de comando para MySQL, MariaDB e Percona com preenchimento automático e realce de sintaxe.
+  ro: MyCLI este o interfață de linie de comandă pentru MySQL, MariaDB și Percona cu completare automată și evidențierea sintaxei.
+  ru: MyCLI — интерфейс командной строки для MySQL, MariaDB и Percona с автодополнением и подсветкой синтаксиса.
+  th: MyCLI คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับ MySQL, MariaDB และ Percona พร้อมการเติมข้อความอัตโนมัติและการไฮไลต์ไวยากรณ์
+  tr: MyCLI, otomatik tamamlama ve sözdizimi vurgulama özellikleriyle MySQL, MariaDB ve Percona için bir komut satırı arayüzüdür.
+  uk: MyCLI — інтерфейс командного рядка для MySQL, MariaDB і Percona з автозавершенням та підсвічуванням синтаксису.
+  vi: MyCLI là giao diện dòng lệnh cho MySQL, MariaDB và Percona với tính năng tự động hoàn thành và tô sáng cú pháp.
 x:
   source: https://github.com/dbcli/mycli
   apt: mycli

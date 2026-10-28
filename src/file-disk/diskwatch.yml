@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: diskwatch is a single-host, read-only disk diagnostics TUI — inspects disk activity, capacity, SMART health, and busy files with anomaly cards across 8 tabs (overview, devices, volumes, FS, IO, SMART, hot files, insights).
   cn: diskwatch 是单主机、只读的磁盘诊断 TUI：通过 8 个标签页（概览、设备、卷、文件系统、IO、SMART、热文件、洞察）检查磁盘活动、容量、健康度与异常。
+  cs: diskwatch je TUI pro diagnostiku disku na jediném hostiteli, určené jen ke čtení — zkoumá aktivitu disku, kapacitu, stav SMART a obsazené soubory pomocí karet s anomáliemi v 8 kartách (přehled, zařízení, svazky, FS, IO, SMART, horké soubory, poznatky).
+  de: diskwatch ist eine schreibgeschützte TUI zur Festplattendiagnose auf einem einzelnen Host – sie untersucht Plattenaktivität, Kapazität, SMART-Zustand und belegte Dateien mit Anomaliekarten über 8 Tabs (Übersicht, Geräte, Volumes, FS, IO, SMART, heiße Dateien, Erkenntnisse).
+  es: "diskwatch es una TUI de diagnóstico de disco de solo lectura para un único host: inspecciona la actividad del disco, la capacidad, la salud SMART y los archivos ocupados con tarjetas de anomalías en 8 pestañas (resumen, dispositivos, volúmenes, FS, IO, SMART, archivos calientes,diagnóstico)."
+  fr: diskwatch est une TUI de diagnostic de disque en lecture seule pour un hôte unique — elle inspecte l'activité du disque, la capacité, l'état SMART et les fichiers occupés via des cartes d'anomalies sur 8 onglets (aperçu, périphériques, volumes, FS, IO, SMART, fichiers chauds, analyses).
+  id: diskwatch adalah TUI diagnostik disk hanya-baca untuk satu host — memeriksa aktivitas disk, kapasitas, kesehatan SMART, dan file yang sibuk dengan kartu anomali di 8 tab (ikhtisar, perangkat, volume, FS, IO, SMART, file panas, insight).
+  it: diskwatch è una TUI di diagnostica del disco in sola lettura per un singolo host — ispeziona attività del disco, capacità, stato SMART e file occupati tramite schede di anomalie in 8 tab (panoramica, dispositivi, volumi, FS, IO, SMART, file caldi, approfondimenti).
+  ja: diskwatch は単一ホスト向けの読み取り専用ディスク診断 TUI で、ディスクアクティビティ、容量、SMART ヘルス、 使用中のファイルを 8 つのタブ（概要、デバイス、ボリューム、FS、IO、SMART、ホットファイル、洞察）で異常カードとともに確認できます。
+  ko: diskwatch는 단일 호스트용 읽기 전용 디스크 진단 TUI로, 8개 탭(개요, 디바이스, 볼륨, FS, IO, SMART, 핫 파일, 인사이트)에서 이상 카드와 함께 디스크 활동, 용량, SMART 상태, 사용 중인 파일을 점검합니다.
+  pl: diskwatch to TUI do diagnostyki dysku tylko do odczytu dla jednego hosta — bada aktywność dysku, pojemność, stan SMART i zajęte pliki, pokazując karty anomalii w 8 zakładkach (przegląd, urządzenia, wolumeny, FS, IO, SMART, gorące pliki, wnioski).
+  pt: diskwatch é uma TUI de diagnóstico de disco somente leitura para um único host — inspeciona atividade do disco, capacidade, saúde SMART e arquivos ocupados com cartões de anomalia em 8 abas (visão geral, dispositivos, volumes, FS, IO, SMART, arquivos quentes, insights).
+  ro: diskwatch este o interfață TUI de diagnosticare a discului, doar pentru citire, pe un singur host — inspectează activitatea discului, capacitatea, starea SMART și fișierele ocupate, cu carduri de anomalii în 8 file (prezervare, dispozitive, volume, FS, IO, SMART, fișiere fierbinți, perspective).
+  ru: "diskwatch — это TUI для диагностики диска только для чтения на одном хосте: он изучает активность диска, емкость, состояние SMART и занятые файлы с помощью карточек аномалий на 8 вкладках (обзор, устройства, тома, FS, IO, SMART, горячие файлы, выводы)."
+  th: diskwatch คือ TUI สำหรับวินิจฉัยดิสก์แบบอ่านอย่างเดียวสำหรับโฮสต์เดียว — ตรวจสอบกิจกรรมดิสก์ ความจุ สุขภาพ SMART และไฟล์ที่ถูกใช้งาน พร้อมการ์ดแจ้งความผิดปกติในแท็บ 8 แท็บ (ภาพรวม อุปกรณ์ โวลุ่ม FS IO SMART ไฟล์ร้อน ข้อมูลเชิงลึก)
+  tr: diskwatch, tek bir ana bilgisayar için salt okunur disk tanılama TUI'sidir — disk etkinliğini, kapasiteyi, SMART sağlığını ve meşgul dosyaları 8 sekmede (genel bakış, aygıtlar, birimler, FS, IO, SMART, sıcak dosyalar, içgörüler) anomali kartlarıyla inceler.
+  uk: "diskwatch — це TUI для діагностики диска лише для читання на одному хості: він аналізує активність диска, ємність, стан SMART і зайняті файли за допомогою карток аномалій на 8 вкладках (огляд, пристрої, томи, FS, IO, SMART, гарячі файли, висновки)."
+  vi: diskwatch là TUI chẩn đoán ổ đĩa chỉ đọc cho một máy chủ — kiểm tra hoạt động ổ đĩa, dung lượng, tình trạng SMART và các tệp đang bận với thẻ bất thường trên 8 tab (tổng quan, thiết bị, âm lượng, FS, IO, SMART, tệp nóng, thông tin chi tiết).
 x:
   source: https://github.com/matthart1983/diskwatch
   eget: matthart1983/diskwatch

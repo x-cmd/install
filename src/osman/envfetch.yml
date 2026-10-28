@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Lightweight cross-platform CLI tool for working with environment variables.
   cn: 用于处理环境变量的轻量级跨平台命令行工具
+  cs: Lehký multiplatformní nástroj příkazové řádky pro práci s proměnnými prostředí.
+  de: Leichtgewichtiges plattformübergreifendes Kommandozeilenwerkzeug für den Umgang mit Umgebungsvariablen.
+  es: Herramienta de línea de comandos multiplataforma y ligera para trabajar con variables de entorno.
+  fr: Outil en ligne de commande léger et multiplateforme pour manipuler les variables d'environnement.
+  id: Alat CLI lintas platform ringan untuk bekerja dengan variabel lingkungan.
+  it: Leggero strumento CLI multipiattaforma per lavorare con le variabili d'ambiente.
+  ja: 環境変数を扱うための軽量なクロスプラットフォームCLIツール。
+  ko: 환경 변수를 다루기 위한 가벼운 크로스 플랫폼 CLI 도구.
+  pl: Lekkie, wieloplatformowe narzędzie wiersza poleceń do pracy ze zmiennymi środowiskowymi.
+  pt: Ferramenta de linha de comando leve e multiplataforma para trabalhar com variáveis de ambiente.
+  ro: Instrument CLI ușor, multiplatformă, pentru lucrul cu variabilele de mediu.
+  ru: Лёгкий кроссплатформенный инструмент командной строки для работы с переменными окружения.
+  th: เครื่องมือ CLI ข้ามแพลตฟอร์มแบบเบาสำหรับทำงานกับตัวแปรสภาพแวดล้อม
+  tr: Ortam değişkenleriyle çalışmak için hafif, çok platformlu bir komut satırı aracı.
+  uk: Легкий кроссплатформенний інструмент командного рядка для роботи зі змінними оточення.
+  vi: công cụ CLI đa nền tảng nhẹ để làm việc với biến môi trường.
 x:
   source: https://github.com/ankddev/envfetch
   eget: ankddev/envfetch

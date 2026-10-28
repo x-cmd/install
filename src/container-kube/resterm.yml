@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 支持 HTTP/GraphQL/gRPC、SSH 隧道、WebSocket、SSE、OpenAPI 及 K8s 端口转发的终端 API 客户端
   en: 'Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.'
+  cs: Terminálový API klient pro HTTP/GraphQL/gRPC s podporou SSH tunelů, WebSocketů, SSE, Workflows, Profilingu, OpenAPI, port-forwardingu Kubernetes a headless API
+  de: Terminal-API-Client für HTTP/GraphQL/gRPC mit Unterstützung für SSH-Tunnel, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes-Port-Forwarding und Headless-API
+  es: Cliente de API de terminal para HTTP/GraphQL/gRPC con soporte para túneles SSH, WebSockets, SSE, Workflows, Profiling, OpenAPI, port-forwarding de Kubernetes y API headless
+  fr: Client d'API terminal pour HTTP/GraphQL/gRPC avec prise en charge des tunnels SSH, des WebSockets, de SSE, des Workflows, du Profiling, d'OpenAPI, du port-forwarding Kubernetes et de l'API headless
+  id: Klien API terminal untuk HTTP/GraphQL/gRPC dengan dukungan terowongan SSH, WebSocket, SSE, Workflows, Profiling, OpenAPI, port-forwarding Kubernetes, dan API headless
+  it: Client API da terminale per HTTP/GraphQL/gRPC con supporto per tunnel SSH, WebSocket, SSE, Workflows, Profiling, OpenAPI, port-forwarding di Kubernetes e API headless
+  ja: HTTP/GraphQL/gRPC 用のターミナル API クライアントで、SSH トンネル、WebSocket、SSE、Workflows、Profiling、OpenAPI、Kubernetes ポートフォワーディング、ヘッドレス API に対応しています
+  ko: HTTP/GraphQL/gRPC용 터미널 API 클라이언트로, SSH 터널, WebSocket, SSE, Workflows, Profiling, OpenAPI, Kubernetes 포트 포워딩 및 헤드리스 API를 지원합니다
+  pl: Terminalowy klient API dla HTTP/GraphQL/gRPC z obsługą tuneli SSH, WebSocketów, SSE, Workflows, Profilingu, OpenAPI, port-forwardingu Kubernetes oraz headless API
+  pt: Cliente de API de terminal para HTTP/GraphQL/gRPC com suporte a túneis SSH, WebSockets, SSE, Workflows, Profiling, OpenAPI, port-forwarding do Kubernetes e API headless
+  ro: Client API pentru terminal pentru HTTP/GraphQL/gRPC, cu suport pentru tuneluri SSH, WebSocket, SSE, Workflows, Profiling, OpenAPI, port-forwarding Kubernetes și API headless
+  ru: Терминальный API-клиент для HTTP/GraphQL/gRPC с поддержкой SSH-туннелей, WebSocket, SSE, Workflows, Profiling, OpenAPI, port-forwarding в Kubernetes и headless API
+  th: ไคลเอนต์ API แบบเทอร์มินัลสำหรับ HTTP/GraphQL/gRPC พร้อมรองรับอุโมงค์ SSH, WebSocket, SSE, Workflows, Profiling, OpenAPI, การส่งต่อพอร์ตของ Kubernetes และ API แบบไม่มีส่วนหัว
+  tr: SSH tünelleri, WebSocket, SSE, Workflows, Profiling, OpenAPI, Kubernetes port yönlendirme ve headless API desteğiyle HTTP/GraphQL/gRPC için terminal API istemcisi
+  uk: Термінальний API-клієнт для HTTP/GraphQL/gRPC з підтримкою SSH-тунелів, WebSocket, SSE, Workflows, Profiling, OpenAPI, port-forwarding у Kubernetes та headless API
+  vi: Client API terminal cho HTTP/GraphQL/gRPC với hỗ trợ đường hầm SSH, WebSocket, SSE, Workflows, Profiling, OpenAPI, chuyển tiếp cổng Kubernetes và API không đầu
 x:
   source: https://github.com/unkn0wn-root/resterm
   eget: unkn0wn-root/resterm

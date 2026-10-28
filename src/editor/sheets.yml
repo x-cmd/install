@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于终端的电子表格工具
   en: 'Terminal based spreadsheet tool'
+  cs: Nástroj pro tabulkové sešity v terminálu
+  de: Tabellenkalkulations-Tool auf Terminalbasis
+  es: Herramienta de hojas de cálculo basada en terminal
+  fr: Outil de tableur basé sur le terminal
+  id: Alat spreadsheet berbasis terminal
+  it: Strumento di foglio di calcolo basato sul terminale
+  ja: ターミナルベースの表計算ツール
+  ko: 터미널 기반 스프레드시트 도구
+  pl: Narzędzie arkusza kalkulacyjnego oparte na terminalu
+  pt: Ferramenta de planilha baseada em terminal
+  ro: Instrument de foaie de calcul bazat pe terminal
+  ru: Электронная таблица, работающая в терминале
+  th: เครื่องมือสเปรดชีตบนเทอร์มินัล
+  tr: Terminal tabanlı elektronik tablo aracı
+  uk: Табличний редактор, що працює в терміналі
+  vi: Công cụ bảng tính chạy trên terminal
 x:
   source: https://github.com/maaslalani/sheets
   eget: maaslalani/sheets

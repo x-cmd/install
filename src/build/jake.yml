@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: JavaScript 构建工具, 类似于 Make 或 Rake。与 Node.js 一起构建
   en: JavaScript build tool, similar to Make or Rake. Built to work with Node.js
+  cs: JavaScript nástroj na sestavování, podobný Make nebo Rake. Postaven pro práci s Node.js
+  de: JavaScript-Build-Tool, ähnlich wie Make oder Rake. Entwickelt für die Arbeit mit Node.js
+  es: Herramienta de compilación de JavaScript, similar a Make o Rake. Diseñada para funcionar con Node.js
+  fr: Outil de build JavaScript, similaire à Make ou Rake. Conçu pour fonctionner avec Node.js
+  id: Alat build JavaScript, mirip Make atau Rake. Dibangun untuk bekerja dengan Node.js
+  it: Strumento di build JavaScript, simile a Make o Rake. Realizzato per funzionare con Node.js
+  ja: Make や Rake に似た JavaScript のビルドツール。Node.js での動作を前提に設計されています
+  ko: Make나 Rake와 유사한 JavaScript 빌드 도구. Node.js와 함께 동작하도록 설계되었습니다
+  pl: Narzędzie do budowania w JavaScript, podobne do Make lub Rake. Stworzone do pracy z Node.js
+  pt: Ferramenta de build para JavaScript, semelhante a Make ou Rake. Feita para trabalhar com Node.js
+  ro: Instrument de build pentru JavaScript, similar cu Make sau Rake. Construit pentru a funcționa cu Node.js
+  ru: Инструмент сборки для JavaScript, похожий на Make или Rake. Создан для работы с Node.js
+  th: เครื่องมือ build JavaScript คล้าย Make หรือ Rake สร้างขึ้นเพื่อทำงานร่วมกับ Node.js
+  tr: Make veya Rake'e benzeyen JavaScript derleme aracı. Node.js ile çalışmak üzere tasarlandı
+  uk: Інструмент збирання для JavaScript, схожий на Make або Rake. Створений для роботи з Node.js
+  vi: Công cụ build JavaScript, tương tự Make hoặc Rake. Được xây dựng để hoạt động với Node.js
 x:
   source: https://github.com/jakejs/jake
   npm: jake

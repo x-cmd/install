@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Podman is an open source container, pod, and container image management engine
   cn: Podman 是一个开源容器、 pod 和容器映像管理引擎
+  cs: Podman je open source engine pro správu kontejnerů, podů a obrazů kontejnerů
+  de: Podman ist eine Open-Source-Engine zur Verwaltung von Containern, Pods und Container-Images
+  es: Podman es un motor de código abierto para la gestión de contenedores, pods e imágenes de contenedor
+  fr: Podman est un moteur open source de gestion des conteneurs, des pods et des images de conteneurs
+  id: Podman adalah mesin open source untuk mengelola kontainer, pod, dan image kontainer
+  it: Podman è un motore open source per la gestione di container, pod e immagini di container
+  ja: Podman はコンテナ、pod、コンテナイメージを管理するオープンソースエンジン
+  ko: Podman은 컨테이너, pod, 컨테이너 이미지를 관리하는 오픈 소스 엔진
+  pl: Podman to otwartoźródłowy silnik do zarządzania kontenerami, podami i obrazami kontenerów
+  pt: O Podman é um mecanismo de código aberto para gerenciamento de contêineres, pods e imagens de contêiner
+  ro: Podman este un motor open source pentru gestionarea containerelor, podurilor și imaginilor de container
+  ru: Podman — движок с открытым исходным кодом для управления контейнерами, pod-ами и образами контейнеров
+  th: Podman คือเอนจินโอเพนซอร์สสำหรับจัดการคอนเทนเนอร์, pod และอิมเมจคอนเทนเนอร์
+  tr: Podman, konteyner, pod ve konteyner imajlarını yönetmek için açık kaynaklı bir motordur
+  uk: Podman — движок з відкритим кодом для керування контейнерами, pod-ами та образами контейнерів
+  vi: Podman là động cơ mã nguồn mở để quản lý container, pod và image container
 x:
   source: https://github.com/containers/podman
   brew: podman

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 适用于每个模型的人工智能聊天
   en: AI chat for every model
+  cs: AI chat pro každý model
+  de: KI-Chat für jedes Modell
+  es: Chat de IA para cualquier modelo
+  fr: Discussion IA pour tous les modèles
+  id: Obrolan AI untuk setiap model
+  it: Chat IA per ogni modello
+  ja: あらゆるモデルに対応した AI チャット
+  ko: 모든 모델을 위한 AI 채팅
+  pl: Czat AI dla każdego modelu
+  pt: Chat de IA para qualquer modelo
+  ro: Chat cu AI pentru fiecare model
+  ru: ИИ-чат для любой модели
+  th: แชท AI สำหรับทุกโมเดล
+  tr: Her model için yapay zeka sohbeti
+  uk: Чат зі штучним інтелектом для будь-якої моделі
+  vi: Trò chuyện AI cho mọi mô hình
 x:
   source: https://github.com/mckaywrigley/chatbot-ui
   npm: "chatbot-ui"

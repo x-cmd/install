@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Slumber 是一个基于终端的用户界面（TUI）HTTP 客户端。
   en: Slumber is a TUI (terminal user interface) HTTP client.
+  cs: Slumber je HTTP klient s TUI (terminálovým uživatelským rozhraním).
+  de: Slumber ist ein TUI- (Terminal-Benutzeroberfläche) HTTP-Client.
+  es: Slumber es un cliente HTTP con TUI (interfaz de usuario de terminal).
+  fr: Slumber est un client HTTP à interface utilisateur terminal (TUI).
+  id: Slumber adalah klien HTTP dengan TUI (antarmuka pengguna terminal).
+  it: Slumber è un client HTTP con TUI (interfaccia utente a terminale).
+  ja: Slumber は TUI (ターミナルユーザーインターフェース) の HTTP クライアントです。
+  ko: Slumber는 TUI(터미널 사용자 인터페이스) HTTP 클라이언트입니다.
+  pl: Slumber to klient HTTP z TUI (interfejsem użytkownika w terminalu).
+  pt: Slumber é um cliente HTTP com TUI (interface de usuário de terminal).
+  ro: Slumber este un client HTTP cu TUI (interfață de utilizator în terminal).
+  ru: Slumber — это HTTP-клиент с TUI (терминальным пользовательским интерфейсом).
+  th: Slumber เป็นไคลเอนต์ HTTP แบบ TUI (ส่วนติดต่อผู้ใช้บนเทอร์มินัล)
+  tr: Slumber, TUI (terminal kullanıcı arayüzü) HTTP istemcisidir.
+  uk: Slumber — це HTTP-клієнт із TUI (термінальним користувацьким інтерфейсом).
+  vi: Slumber là HTTP client có TUI (giao diện người dùng trên terminal).
 x:
   source: https://github.com/LucasPickering/slumber
   eget: LucasPickering/slumber

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用 SQL 查询 JSON 与 CSV 的极简交互式 TUI
   en: 'qo is an interactive minimalist TUI to query JSON and CSV using SQL.'
+  cs: qo je interaktivní minimalistní TUI pro dotazování na JSON a CSV pomocí SQL.
+  de: qo ist eine interaktive minimalistische TUI, um JSON und CSV mit SQL abzufragen.
+  es: qo es una TUI interactiva minimalista para consultar JSON y CSV usando SQL.
+  fr: qo est une TUI interactive minimaliste pour interroger du JSON et du CSV à l'aide de SQL.
+  id: qo adalah TUI interaktif minimalistis untuk querying JSON dan CSV menggunakan SQL.
+  it: qo è una TUI interattiva minimalista per interrogare JSON e CSV usando SQL.
+  ja: qo は SQL を使って JSON と CSV を問い合わせる、インタラクティブなミニマル TUI です。
+  ko: qo는 SQL을 사용해 JSON과 CSV를 조회하는 대화형 미니멀 TUI입니다.
+  pl: qo to minimalistyczne interaktywne TUI do odpytywania danych JSON i CSV za pomocą SQL.
+  pt: qo é uma TUI interativa minimalista para consultar JSON e CSV usando SQL.
+  ro: qo este un TUI interactiv minimalist pentru a interoga JSON și CSV folosind SQL.
+  ru: qo — это минималистичный интерактивный TUI для запросов к JSON и CSV с помощью SQL.
+  th: qo เป็น TUI แบบโต้ตอบแบบเรียบง่ายสำหรับสอบถาม JSON และ CSV ด้วย SQL
+  tr: qo, SQL kullanarak JSON ve CSV sorgulamak için etkileşimli minimalist bir TUI'dir.
+  uk: qo — мінімалістичний інтерактивний TUI для запитів до JSON і CSV мовою SQL.
+  vi: qo là TUI tối giản mang tính tương tác để truy vấn JSON và CSV bằng SQL.
 x:
   source: https://github.com/kiki-ki/go-qo
   eget: kiki-ki/go-qo

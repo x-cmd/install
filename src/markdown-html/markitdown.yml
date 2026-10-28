@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于将文件和办公文档转换为 Markdown 的 Python 工具
   en: Python tool for converting files and office documents to Markdown.
+  cs: Nástroj v Pythonu pro převod souborů a kancelářských dokumentů do Markdownu.
+  de: Python-Tool zum Konvertieren von Dateien und Office-Dokumenten in Markdown.
+  es: Herramienta de Python para convertir archivos y documentos de oficina en Markdown.
+  fr: Outil Python pour convertir des fichiers et des documents bureautiques en Markdown.
+  id: Alat Python untuk mengonversi berkas dan dokumen kantor ke Markdown.
+  it: Strumento Python per convertire file e documenti office in Markdown.
+  ja: ファイルやオフィスドキュメントを Markdown に変換する Python ツール。
+  ko: 파일과 사무 문서를 Markdown로 변환하는 Python 도구.
+  pl: Narzędzie w Pythonie do konwersji plików i dokumentów biurowych do Markdown.
+  pt: Ferramenta Python para converter arquivos e documentos do escritório em Markdown.
+  ro: Instrument Python pentru conversirea fișierelor și a documentelor de birou în Markdown.
+  ru: Инструмент на Python для преобразования файлов и офисных документов в Markdown.
+  th: เครื่องมือ Python สำหรับแปลงไฟล์และเอกสารสำนักงานเป็น Markdown
+  tr: Dosyaları ve ofis belgelerini Markdown'a dönüştürmek için Python aracı.
+  uk: Інструмент на Python для перетворення файлів та офісних документів у Markdown.
+  vi: Công cụ Python để chuyển đổi tệp và tài liệu văn phòng sang Markdown.
 x:
   source: https://github.com/microsoft/markitdown
   yay: python-markitdown-git

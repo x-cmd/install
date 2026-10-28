@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 面向 OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI 等 20+ CLI 的免费本地开源 7x24 协同应用，支持自定义助手
   en: Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+  cs: Bezplatná, lokální, open-source aplikace pro spolupráci 24/7 pro OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI a dalších 20+ CLI | Přizpůsobte své asistenty | Ohlaste, pokud se vám líbí!
+  de: Kostenlose, lokale Open-Source-24/7-Cowork-App für OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI und 20+ weitere CLIs | Passen Sie Ihre Assistenten an | Gefällt Ihnen das, dann geben Sie einen Stern!
+  es: Aplicación gratuita, local y de código abierto para colaborar 24/7 con OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI y más de 20 CLI | Personaliza tus asistentes | ¡Danos una estrella si te gusta!
+  fr: Application gratuite, locale et open source de collaboration 24/7 pour OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI et plus de 20 autres CLI | Personnalisez vos assistants | Mettez une étoile si vous aimez !
+  id: Aplikasi collaborate 24/7 gratis, lokal, open-source untuk OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI dan 20+ CLI lainnya | Kustomisasi asisten Anda | Kasih bintang jika Anda menyukainya!
+  it: App gratuita, locale e open source per la collaborazione 24/7 con OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI e oltre 20 CLI | Personalizza i tuoi assistenti | Metti una stella se ti piace!
+  ja: OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI ほか20以上のCLIに対応した無料・ローカル・オープンソースの24時間共同作業アプリ | アシスタントをカスタマイズ | 気に入ったらスターをお願いします！
+  ko: OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI 등 20개 이상의 CLI를 위한 무료 로컬 오픈 소스 24/7 협업 앱 | 어시스턴트 사용자 지정 | 마음에 들면 별을 눌러주세요!
+  pl: Bezpłatna, lokalna, open-source aplikacja do współpracy 24/7 dla OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI i ponad 20 innych CLI | Dostosuj swoich asystentów | Daj gwiazdkę, jeśli Ci się podoba!
+  pt: Aplicativo gratuito, local e de código aberto para colaboração 24/7 com OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI e mais de 20 CLI | Personalize seus assistentes | Dê uma estrela se gostar!
+  ro: Aplicație gratuită, locală, open-source pentru colaborare 24/7 cu OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI și încă 20+ CLI | Personalizează-ți asistenții | Pune o stea dacă îți place!
+  ru: Бесплатное локальное приложение с открытым исходным кодом для совместной работы 24/7 с OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI и ещё 20+ CLI | Настройте своих ассистентов | Поставьте звезду, если вам нравится!
+  th: แอปทำงานร่วมแบบฟรี ในเครื่อง เปิดซอร์ส ตลอด 24 ชั่วโมง สำหรับ OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI และ CLI อีกกว่า 20 ตัว | ปรับแต่งผู้ช่วยของคุณ | ชอบก็กดดาวให้หน่อย!
+  tr: OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI ve 20'den fazla CLI için ücretsiz, yerel, açık kaynaklı 24/7 ortak çalışma uygulaması | Asistanlarınızı özelleştirin | Beğendiyseniz bir yıldız verin!
+  uk: Безкоштовний локальний застосунок з відкритим кодом для спільної роботи 24/7 з OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI та ще 20+ CLI | Налаштуйте своїх асистентів | Поставте зірку, якщо вам подобається!
+  vi: Ứng dụng cộng tác 24/7 miễn phí, chạy cục bộ, mã nguồn mở cho OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI và hơn 20 CLI khác | Tùy chỉnh trợ lý của bạn | Thả sao nếu bạn thấy thích!
 x:
   source: https://github.com/iOfficeAI/AionUi
   eget: iOfficeAI/AionUi

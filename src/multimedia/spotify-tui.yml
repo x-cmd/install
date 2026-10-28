@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用 Rust 编写的终端版 Spotify 客户端。
   en: A Spotify client for the terminal written in Rust.
+  cs: Klient Spotify pro terminál napsaný v Rustu.
+  de: Ein in Rust geschriebener Spotify-Client für das Terminal.
+  es: Un cliente de Spotify para el terminal escrito en Rust.
+  fr: Un client Spotify pour le terminal écrit en Rust.
+  id: Klien Spotify untuk terminal yang ditulis dengan Rust.
+  it: Un client Spotify per il terminale scritto in Rust.
+  ja: Rust で書かれたターミナル向け Spotify クライアントです。
+  ko: Rust로 작성된 터미널용 Spotify 클라이언트입니다.
+  pl: Klient Spotify dla terminala napisany w Rust.
+  pt: Um cliente do Spotify para o terminal escrito em Rust.
+  ro: Un client Spotify pentru terminal scris în Rust.
+  ru: Клиент Spotify для терминала, написанный на Rust.
+  th: ไคลเอนต์ Spotify สำหรับเทอร์มินัลที่เขียนด้วย Rust
+  tr: Rust ile yazılmış terminal için bir Spotify istemcisi.
+  uk: Клієнт Spotify для термінала, написаний на Rust.
+  vi: Ứng dụng khách Spotify cho terminal viết bằng Rust.
 x:
   source: https://github.com/Rigellute/spotify-tui
   eget: Rigellute/spotify-tui

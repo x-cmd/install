@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 镜像 job 管理工具
   en: Mirror job management tool
+  cs: Nástroj pro správu synchronizačních úloh se zrcadly
+  de: Werkzeug zur Verwaltung von Mirror-Jobs
+  es: Herramienta de gestión de trabajos de espejo
+  fr: Outil de gestion des tâches de miroir
+  id: Alat manajemen tugas mirror
+  it: Strumento di gestione dei lavori di mirror
+  ja: ミラージョブ管理ツール。
+  ko: 미러 작업 관리 도구입니다.
+  pl: Narzędzie do zarządzania zadaniami mirror
+  pt: Ferramenta de gerenciamento de trabalhos de espelhamento
+  ro: Instrument de gestionare a joburilor de oglindire
+  ru: Инструмент управления заданиями зеркалирования
+  th: เครื่องมือจัดการงานมิเรอร์
+  tr: Mirror işi yönetim aracı
+  uk: Інструмент керування завданнями дзеркалення
+  vi: Công cụ quản lý tác vụ mirror
 x:
   source: https://github.com/tuna/tunasync
   yay: tunasync-bin

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: LuaRocks 是 Lua 模块的包管理器
   en: LuaRocks is the package manager for Lua modules
+  cs: LuaRocks je správce balíčků pro moduly Lua
+  de: LuaRocks ist der Paketmanager für Lua-Module
+  es: LuaRocks es el gestor de paquetes para módulos Lua
+  fr: LuaRocks est le gestionnaire de paquets pour les modules Lua
+  id: LuaRocks adalah manajer paket untuk modul Lua
+  it: LuaRocks è il gestore di pacchetti per i moduli Lua
+  ja: LuaRocks は Lua モジュールのパッケージマネージャーです
+  ko: LuaRocks는(는) Lua 모듈의 패키지 관리자입니다
+  pl: LuaRocks to menedżer pakietów modułów Lua
+  pt: LuaRocks é o gerenciador de pacotes para módulos Lua
+  ro: LuaRocks este managerul de pachete pentru modulele Lua
+  ru: LuaRocks — менеджер пакетов для модулей Lua
+  th: LuaRocks คือตัวจัดการแพ็กเกจสำหรับโมดูล Lua
+  tr: LuaRocks, Lua modülleri için paket yöneticisidir.
+  uk: LuaRocks — це менеджер пакетів для модулів Lua
+  vi: LuaRocks là trình quản lý gói cho các mô-đun Lua
 x:
   source: https://github.com/luarocks/luarocks
   apt: build-essential

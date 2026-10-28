@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个致力于模拟 BSD tail 程序功能的 Go 包。
   en: A Go package striving to emulate the features of the BSD tail program
+  cs: Go balíček, který se snaží napodobovat funkce programu BSD tail
+  de: Ein Go-Paket, das die Funktionen des BSD-tail-Programms nachbildet
+  es: Un paquete de Go que trata de emular las funcionalidades del programa BSD tail
+  fr: Un paquet Go qui s'efforce d'imiter les fonctionnalités du programme BSD tail
+  id: Paket Go yang berusaha meniru fitur program BSD tail
+  it: Un pacchetto Go che mira a emulare le funzionalità del programma BSD tail
+  ja: BSD tail プログラムの機能を実現しようとした Go パッケージ
+  ko: BSD tail 프로그램의 기능을 모방하려는 Go 패키지
+  pl: Pakiet Go dążący do naśladowania funkcji programu BSD tail
+  pt: Um pacote Go que busca emular os recursos do programa BSD tail
+  ro: Un pachet Go care încearcă să emuleze funcțiile programului BSD tail
+  ru: Go-пакет, стремящийся воспроизвести возможности программы BSD tail
+  th: แพ็กเกจ Go ที่ตั้งใจเลียนแบบความสามารถของโปรแกรม BSD tail
+  tr: BSD tail programının özelliklerini taklit etmeye çalışan bir Go paketi
+  uk: Go-пакет, що прагне відтворити можливості програми BSD tail
+  vi: Gói Go cố gắng mô phỏng các tính năng của chương trình BSD tail
 x:
   source: https://github.com/hpcloud/tail
 rule:

@@ -3,6 +3,22 @@ homepage: https://github.com/snyk/cli
 desc:
   cn: Snyk 是开发人员优先的云本地安全工具
   en: Snyk is a developer-first cloud-native security tool
+  cs: Snyk je cloudový bezpečnostní nástroj zaměřený na vývojáře
+  de: Snyk ist ein cloudnatives Sicherheitstool für Entwickler
+  es: Snyk es una herramienta de seguridad nativa de la nube centrada en el desarrollador
+  fr: Snyk est un outil de sécurité cloud natif conçu pour les développeurs
+  id: Snyk adalah alat keamanan cloud-native yang mengutamakan pengembang
+  it: Snyk è un tool di sicurezza cloud-native orientato agli sviluppatori
+  ja: Snyk は開発者ファーストのクラウドネイティブなセキュリティツールです
+  ko: Snyk는 개발자 우선의 클라우드 네이티브 보안 도구입니다
+  pl: Snyk to narzędzie bezpieczeństwa w chmurze skierowane do deweloperów
+  pt: Snyk é uma ferramenta de segurança nativa de nuvem voltada para desenvolvedores
+  ro: Snyk este un instrument de securitate cloud-native orientat către dezvoltatori
+  ru: Snyk — облачный инструмент безопасности, ориентированный на разработчиков
+  th: Snyk เป็นเครื่องมือความปลอดภัยแบบ cloud-native ที่ให้ความสำคัญกับนักพัฒนา
+  tr: Snyk, geliştiriciler öncelikli bulut tabanlı bir güvenlik aracıdır
+  uk: Snyk — хмарний інструмент безпеки, орієнтований на розробників
+  vi: Snyk là công cụ bảo mật cloud-native ưu tiên nhà phát triển
 x:
   source: https://github.com/snyk/cli
   eget: snyk/cli

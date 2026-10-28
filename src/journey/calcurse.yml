@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: 一款命令行日历和日程安排应用。它可以帮助用户追踪事件、约会和日常任务。
   en: A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
+  cs: Kalendářová a plánovací aplikace pro příkazovou řádku. Pomáhá sledovat události, schůzky a každodenní úkoly.
+  de: Ein Kalender- und Planungsprogram für die Befehlszeile. Es hilft, Termine, Verabredungen und alltägliche Aufgaben im Blick zu behalten.
+  es: Una aplicación de calendario y programación para la línea de comandos. Ayuda a llevar el control de eventos, citas y tareas diarias.
+  fr: Une application de calendrier et de planification pour la ligne de commande. Elle permet de suivre les événements, les rendez-vous et les tâches quotidiennes.
+  id: Aplikasi kalender dan penjadwalan untuk baris perintah. Membantu melacak peristiwa, janji, dan tugas sehari-hari.
+  it: Un'applicazione di calendario e pianificazione per la riga di comando. Aiuta a tenere traccia di eventi, appuntamenti e attività quotidiane.
+  ja: コマンドライン向けのカレンダーおよびスケジュール管理アプリケーション。イベント、予約、日々のタスクの把握に役立ちます。
+  ko: 명령줄을 위한 캘린더 및 일정 관리 애플리케이션. 행사, 약속, 일상적인 작업을 추적하는 데 도움이 됩니다.
+  pl: Aplikacja kalendarza i harmonogramu dla wiersza poleceń. Pomaga śledzić wydarzenia, spotkania i codzienne zadania.
+  pt: Um aplicativo de calendário e agendamento para a linha de comando. Ajuda a acompanhar eventos, compromissos e tarefas diárias.
+  ro: O aplicație de calendar și programare pentru linia de comandă. Ajută la urmărirea evenimentelor, întâlnirilor și sarcinilor zilnice.
+  ru: Приложение-календарь и планировщик для командной строки. Помогает отслеживать события, встречи и повседневные задачи.
+  th: แอปพลิเคชันปฏิทินและการจัดตารางสำหรับบรรทัดคำสั่ง ช่วยติดตามกิจกรรม นัดหมาย และงานประจำวัน
+  tr: Komut satırı için takvim ve planlama uygulaması. Etkinlikleri, randevuları ve günlük görevleri takip etmenize yardımcı olur.
+  uk: Застосунок-календар і планувальник для командного рядка. Допомагає відстежувати події, зустрічі та щоденні завдання.
+  vi: Ứng dụng lịch và lập lịch cho dòng lệnh. Giúp theo dõi sự kiện, cuộc hẹn và các công việc hàng ngày.
 x:
   source: https://github.com/lfos/calcurse
   apt: calcurse

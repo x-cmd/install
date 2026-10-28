@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A simple CLI tool written in Go that adds trash can functionality to the command line.
   cn: 一个用 Go 语言编写的简单命令行工具，为命令行添加垃圾桶功能
+  cs: Jednoduchý nástroj CLI napsaný v Go, který přidává funkci koše do příkazové řádky.
+  de: Ein einfaches CLI-Tool in Go, das die Papierkorb-Funktion für die Kommandozeile hinzufügt.
+  es: Una sencilla herramienta de línea de comandos escrita en Go que añade la función de papelera a la terminal.
+  fr: Un simple outil CLI écrit en Go qui ajoute la fonction de corbeille à la ligne de commande.
+  id: Alat CLI sederhana yang ditulis dengan Go untuk menambahkan fitur tempat sampah ke baris perintah.
+  it: Un semplice strumento CLI scritto in Go che aggiunge la funzione cestino alla riga di comando.
+  ja: Goで書かれたシンプルなCLIツールで、コマンドラインにゴミ箱機能を追加します。
+  ko: Go로 작성된 간단한 CLI 도구로 명령줄에 휴지통 기능을 추가합니다.
+  pl: Proste narzędzie CLI napisane w Go, które dodaje funkcję kosza do wiersza poleceń.
+  pt: Uma ferramenta de linha de comando simples escrita em Go que adiciona a função de lixeira ao terminal.
+  ro: Un instrument CLI simplu scris în Go care adaugă funcția de coș de gunoi la linia de comandă.
+  ru: Простой инструмент командной строки на Go, добавляющий в терминал функцию корзины.
+  th: เครื่องมือ CLI อย่างง่ายที่เขียนด้วย Go เพื่อเพิ่มความสามารถถังขยะให้กับบรรทัดคำสั่ง
+  tr: Komut satırına çöp kutusu özelliği ekleyen, Go ile yazılmış basit bir CLI aracı.
+  uk: Простий інструмент командного рядка на Go, що додає до терміналу функцію кошика.
+  vi: Công cụ CLI đơn giản viết bằng Go giúp thêm chức năng thùng rác cho dòng lệnh
 x:
   source: https://github.com/babarot/gomi
   eget: babarot/gomi

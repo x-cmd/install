@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Ping，但有图表
   en: Ping, but with graphs
+  cs: Ping, ale s grafy
+  de: Ping, aber mit Diagrammen
+  es: Ping, pero con gráficos
+  fr: Ping, mais avec des graphiques
+  id: Ping, tapi dengan grafik
+  it: Ping, ma con grafici
+  ja: Ping ですがグラフ表示付き
+  ko: Ping, 단 그래프와 함께
+  pl: Ping, ale z wykresami
+  pt: Ping, mas com gráficos
+  ro: Ping, dar cu grafice
+  ru: Ping, но с графиками
+  th: Ping แต่มีกราฟ
+  tr: Ping, ama grafiklerle
+  uk: Ping, але з графіками
+  vi: Ping, nhưng có biểu đồ
 x:
   source: https://github.com/orf/gping
   eget: orf/gping

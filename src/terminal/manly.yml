@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于在终端中查看手册页面的 TUI。
   en: A TUI for viewing man pages in the terminal.
+  cs: TUI pro prohlížení man stránek v terminálu.
+  de: Eine TUI zum Anzeigen von Man Pages im Terminal.
+  es: Una TUI para ver páginas de manual en la terminal.
+  fr: Une TUI pour consulter les pages de manuel dans le terminal.
+  id: TUI untuk melihat halaman manual di terminal.
+  it: Una TUI per visualizzare le pagine di manuale nel terminale.
+  ja: ターミナルで man ページを表示するための TUI。
+  ko: 터미널에서 man 페이지를 보기 위한 TUI.
+  pl: TUI do przeglądania stron podręcznika man w terminalu.
+  pt: Uma TUI para ver páginas de manual no terminal.
+  ro: Un TUI pentru vizualizarea paginilor man în terminal.
+  ru: TUI для просмотра man-страниц в терминале.
+  th: TUI สำหรับดูหน้า man ในเทอร์มินัล
+  tr: Terminalde man sayfalarını görüntülemek için bir TUI.
+  uk: TUI для перегляду man-сторінок у терміналі.
+  vi: TUI để xem trang man trong terminal.
 x:
   source: https://github.com/whoop-t/manly
   go: github.com/whoop-t/manly@latest

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: prs lets you stay updated on pull requests from your terminal.
   cn: prs 让你可以通过终端随时了解 pull requests 的最新动态
+  cs: prs vám umožní být v přehledu novinek u pull requestů přímo z terminálu.
+  de: prs hält Sie über Pull Requests direkt in Ihrem Terminal auf dem Laufenden.
+  es: prs te permite estar al día de las pull requests desde tu terminal.
+  fr: prs vous permet de rester au courant des pull requests depuis votre terminal.
+  id: prs memungkinkan Anda tetap-contain dari pull request langsung di terminal.
+  it: prs ti permette di restare aggiornato sulle pull request direttamente dal terminale.
+  ja: prs lets you stay updated on pull requests from your terminal.
+  ko: prs를 사용하면 터미널에서 pull request 현황을 계속 확인할 수 있습니다.
+  pl: prs pozwala na bieżące śledzenie pull requestów z terminala.
+  pt: prs permite acompanhar as pull requests direto do terminal.
+  ro: prs vă permite să rămâneți la curent cu pull request-urile din terminal.
+  ru: prs позволяет следить за pull request прямо из терминала.
+  th: prs ช่วยให้คุณติดตาม pull request ได้จากเทอร์มินัล
+  tr: prs, pull request'leri terminalden takip etmenizi sağlar.
+  uk: prs дозволяє стежити за pull request прямо з терміналу.
+  vi: prs giúp bạn cập nhật các pull request ngay trong terminal.
 x:
   source: https://github.com/dhth/prs
   eget: dhth/prs

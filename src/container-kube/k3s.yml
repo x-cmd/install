@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: K3s 是轻量级的 Kubernetes
   en: K3s is Lightweight Kubernetes
+  cs: K3s je lehký Kubernetes
+  de: K3s ist leichtgewichtiges Kubernetes
+  es: K3s es un Kubernetes ligero
+  fr: K3s est un Kubernetes léger
+  id: K3s adalah Kubernetes ringan
+  it: K3s è un Kubernetes leggero
+  ja: K3s は軽量な Kubernetes です
+  ko: K3s는 경량 Kubernetes입니다
+  pl: K3s to lekki Kubernetes
+  pt: K3s é um Kubernetes leve
+  ro: K3s este un Kubernetes ușor
+  ru: K3s — это лёгкий Kubernetes
+  th: K3s คือ Kubernetes ขนาดเบา
+  tr: K3s hafif bir Kubernetes'tir
+  uk: K3s — це легкий Kubernetes
+  vi: K3s là Kubernetes nhẹ
 x:
   source: https://github.com/k3s-io/k3s
   eget: k3s-io/k3s

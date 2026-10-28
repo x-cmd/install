@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 极速轻量的串口监控，带串口绘图 TUI 等功能
   en: 'A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more'
+  cs: Mimořádně rychlý a minimalistický monitor sériových portů s TUI pro kreslení v sériovém portu a dalšími funkcemi
+  de: Ein blitzschneller, minimalistischer Serial Monitor mit Serial-Plottter-TUI und mehr
+  es: Un monitor de puerto serie extremadamente rápido y minimalista con TUI de trazado en serie y mucho más
+  fr: Un moniteur série extrêmement rapide et minimaliste avec TUI de tracé série et plus encore
+  id: Monitor port serial sangat cepat dan minimal dengan TUI plotter port serial dan fitur lainnya
+  it: Un monitor seriale velocissimo e minimalista con TUI per il plotting seriale e altro
+  ja: シリアルプロッタ TUI などを備えた超高速・ミニマルなシリアルモニタ
+  ko: 시리얼 플로터 TUI 등을 갖춘 아주 빠른 미니멀한 시리얼 모니터
+  pl: Wyjątkowo szybki i minimalistyczny monitor portu szeregowego z TUI do rysowania na porcie szeregowym i nie tylko
+  pt: Um monitor de porta serial extremamente rápido e minimalista com TUI de plotagem serial e muito mais
+  ro: Un monitor de port serial extrem de rapid și minimalist, cu TUI de trasare serială și altele
+  ru: Очень быстрый и минималистичный монитор последовательного порта с TUI для отрисовки по serial и другими возможностями
+  th: มอนิเตอร์พอร์ตอนุกรมที่รวดเร็วและเรียบง่าย พร้อม TUI พล็อตเซียลและฟีเจอร์อื่น ๆ
+  tr: Seri port çizim TUI'si ve fazlasıyla birlikte çok hızlı ve minimal seri monitör
+  uk: Дуже швидкий і мінімалістичний монітор послідовного порту з TUI для побудови графіків і додатковими можливостями
+  vi: Trình giám sát cổng nối tiếp siêu nhanh và tối giản với TUI vẽ đồ thị cổng nối tiếp cùng nhiều tính năng khác
 x:
   source: https://github.com/Vaishnav-Sabari-Girish/ComChan
   eget: Vaishnav-Sabari-Girish/ComChan

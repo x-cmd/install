@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: lynis 是一个基于 UNIX 的系统的安全审计工具
   en: lynis is a security auditing tool for systems based on UNIX
+  cs: lynis je nástroj pro bezpečnostní audit systémů založených na UNIX
+  de: lynis ist ein Sicherheitsauditing-Tool für Systeme auf UNIX-Basis
+  es: lynis es una herramienta de auditoría de seguridad para sistemas basados en UNIX
+  fr: lynis est un outil d'audit de sécurité pour les systèmes basés sur UNIX
+  id: lynis adalah alat audit keamanan untuk sistem berbasis UNIX
+  it: lynis è uno strumento di auditing della sicurezza per sistemi basati su UNIX
+  ja: lynis は UNIX ベースのシステム向けのセキュリティ監査ツールです
+  ko: lynis는 UNIX 기반 시스템용 보안 감사 도구입니다
+  pl: lynis jest narzędziem do audytu bezpieczeństwa systemów opartych na UNIX
+  pt: lynis é uma ferramenta de auditoria de segurança para sistemas baseados em UNIX
+  ro: lynis este un instrument de auditare a securității pentru sisteme bazate pe UNIX
+  ru: lynis — инструмент аудита безопасности для систем на базе UNIX
+  th: lynis คือเครื่องมือตรวจสอบความปลอดภัยสำหรับระบบที่ใช้ UNIX
+  tr: lynis, UNIX tabanlı sistemler için bir güvenlik denetleme aracıdır
+  uk: lynis — інструмент аудиту безпеки для систем на базі UNIX
+  vi: lynis là công cụ kiểm tra bảo mật cho các hệ thống dựa trên UNIX
 x:
   source: https://github.com/CISOfy/lynis
   apt: lynis

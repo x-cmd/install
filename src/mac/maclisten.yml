@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 轻量 macOS 语音转文字（ASR）CLI —— ljh-sh agent IO 栈的「耳朵」层。原生 Speech 框架，多语言自动选择，流式/文件转录，紧凑 JSON 输出
   en: Lightweight macOS speech-to-text (ASR) CLI — the "hearing" layer of the ljh-sh agent IO stack. Native Speech framework, multi-locale auto-pick, streaming/file transcription, compact JSON output
+  cs: Lehký CLI pro převod řeči na text (ASR) v macOS — vrstva „sluchu“ v IO stacku agenta ljh-sh. Nativní Speech framework, automatický výběr více jazyků, přepis v reálném čase i ze souboru, kompaktní výstup JSON
+  de: Leichtgewichtige macOS-CLI für Speech-to-Text (ASR) — die „Hör“-Schicht des ljh-sh-Agent-IO-Stacks. Nativer Speech-Framework, automatische Mehrsprachauswahl, Streaming- und Dateitranskription, kompakte JSON-Ausgabe
+  es: "CLI ligero de voz a texto (ASR) para macOS: la capa de «oído» de la pila de E/S del agente ljh-sh. Framework Speech nativo, selección automática de varios idiomas, transcripción en streaming y de archivos, salida JSON compacta"
+  fr: CLI légère de reconnaissance vocale (ASR) pour macOS — la couche « ouïe » de la pile d'E/S de l'agent ljh-sh. Framework Speech natif, sélection automatique multilingue, transcription en flux et depuis un fichier, sortie JSON compacte
+  id: CLI ringan speech-to-text (ASR) untuk macOS — lapisan "pendengaran" dari stack IO agen ljh-sh. Framework Speech native, pemilihan multi-locale otomatis, transkripsi streaming/dari berkas, keluaran JSON ringkas
+  it: "CLI leggero di sintesi vocale (ASR) per macOS: il livello \"udito\" dello stack IO dell'agente ljh-sh. Framework Speech nativo, selezione automatica di più lingue, trascrizione in streaming e da file, output JSON compatto"
+  ja: 軽量な macOS 音声認識 (ASR) CLI — ljh-sh エージェント IO スタックの「聴覚」レイヤー。ネイティブ Speech フレームワーク、多言語の自動選択、ストリーミング／ファイル文字起こし、コンパクトな JSON 出力
+  ko: 가벼운 macOS 음성-텍스트(ASR) CLI — ljh-sh 에이전트 IO 스택의 "청각" 계층입니다. 네이티브 Speech 프레임워크, 다중 로케일 자동 선택, 스트리밍/파일 전사, 간결한 JSON 출력
+  pl: Lekki CLI do rozpoznawania mowy (ASR) w macOS — warstwa "słuchu" stosu IO agenta ljh-sh. Natywny framework Speech, automatyczny wybór wielu języków, transkrypcja strumieniowa i z pliku, zwarty wynik JSON
+  pt: CLI leve de voz para texto (ASR) no macOS — a camada de "audição" da pilha de IO do agente ljh-sh. Framework Speech nativo, seleção automática de vários idiomas, transcrição por streaming e de arquivo, saída JSON compacta
+  ro: CLI ușor de conversie vorbire în text (ASR) pentru macOS — stratul „auzului" din stiva IO a agentului ljh-sh. Framework Speech nativ, alegere automată a mai multor limbi, transcriere în flux și din fișier, ieșire JSON compactă
+  ru: Лёгкий CLI распознавания речи (ASR) для macOS — слой «слуха» в стеке ввода-вывода агента ljh-sh. Нативный Speech-фреймворк, автоматический выбор локали, потоковая и файловая транскрипция, компактный вывод JSON
+  th: CLI แปลงเสียงเป็นข้อความ (ASR) บน macOS แบบเบา — ชั้น "การได้ยิน" ของสแต็ก I/O ของเอเจนต์ ljh-sh เฟรมเวิร์ก Speech แบบเนทีฟ เลือกภาษาอัตโนมัติหลายภาษา ถอดเสียงแบบสตรีมและจากไฟล์ ผลลัพธ์ JSON แบบกระชับ
+  tr: Hafif macOS konuşmadan metne (ASR) CLI'si — ljh-sh ajan G/Ç yığınının "duyma" katmanı. Yerel Speech framework, çok dilli otomatik seçim, akış ve dosya transkripsiyonu, kompakt JSON çıktı
+  uk: Легкий CLI розпізнавання мовлення (ASR) для macOS — шар «слуху» в стеку вводу-виводу агента ljh-sh. Нативний Speech-фреймворк, автоматичний вибір кількох локалей, потокова та файлова транскрипція, компактний вивід JSON
+  vi: CLI nhẹ chuyển giọng nói sang văn bản (ASR) trên macOS — lớp "thính giác" của ngăn xếp I/O của tác nhân ljh-sh. Framework Speech gốc, tự động chọn nhiều ngôn ngữ, chép lời theo dòng và từ tệp, đầu ra JSON gọn gàng
 x:
   source: https://github.com/ljh-sh/maclisten
   eget: ljh-sh/maclisten

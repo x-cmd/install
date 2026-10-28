@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 扫描本地日志并在浏览器或 VS Code 中展示仪表盘，可视化 Claude token 用量并估算成本
   en: Visualize Claude token usage and estimate costs by scanning local logs and serving a dashboard in your browser or VS Code.
+  cs: Vizualizujte využití tokenů Claude a odhadujte náklady skenováním místních logů a zobrazením dashboardu v prohlížeči nebo VS Code.
+  de: Visualisieren Sie die Token-Nutzung von Claude und schätzen Sie Kosten ab, indem lokale Protokolle gescannt und ein Dashboard im Browser oder in VS Code bereitgestellt werden.
+  es: Visualiza el uso de tokens de Claude y estima los costos escaneando los registros locales y sirviendo un panel en tu navegador o VS Code.
+  fr: Visualisez l'utilisation des jetons Claude et estimez les coûts en analysant les journaux locaux et en servant un tableau de bord dans votre navigateur ou VS Code.
+  id: Visualisasikan penggunaan token Claude dan perkirakan biaya dengan memindai log lokal serta menyajikan dasbor di browser atau VS Code Anda.
+  it: Visualizza l'utilizzo dei token di Claude e stima i costi analizzando i log locali e servendo una dashboard nel browser o in VS Code.
+  ja: ローカルログをスキャンしてブラウザまたは VS Code でダッシュボードを表示し、Claude のトークン使用量を可視化してコストを見積もります。
+  ko: 로컬 로그를 스캔해 브라우저나 VS Code에서 대시보드를 제공하여 Claude 토큰 사용량을 시각화하고 비용을 추정합니다.
+  pl: Wizualizuj zużycie tokenów Claude i oszacuj koszty, skanując lokalne logi i udostępniając pulpit w przeglądarce lub w VS Code.
+  pt: Visualize o uso de tokens do Claude e estime custos analisando os logs locais e servindo um painel no navegador ou no VS Code.
+  ro: Vizualizați utilizarea token-urilor Claude și estimați costurile prin scanarea logurilor locale și afișarea unui tablou de bord în browser sau VS Code.
+  ru: Визуализируйте использование токенов Claude и оценивайте затраты, сканируя локальные логи и отдавая дашборд в браузере или в VS Code.
+  th: แสดงภาพการใช้โทเคนของ Claude และประเมินค่าใช้จ่าย โดยสแกนบันทึกในเครื่องแล้วให้บริการแดชบอร์ดในเบราว์เซอร์หรือ VS Code
+  tr: Yerel günlükleri tarayıp tarayıcınızda veya VS Code'da bir pano sunarak Claude token kullanımını görselleştirin ve maliyetleri tahmin edin.
+  uk: Візуалізуйте використання токенів Claude та оцінюйте витрати, скануючи локальні журнали й надаючи панель у браузері або у VS Code.
+  vi: Trực quan hóa mức sử dụng token của Claude và ước tính chi phí bằng cách quét nhật ký cục bộ rồi phục vụ bảng điều khiển trên trình duyệt hoặc VS Code.
 x:
   source: https://github.com/phuryn/claude-usage
 rule:

@@ -3,6 +3,22 @@ homepage: https://github.com/ljtn/epiq
 desc:
   cn: 本地优先、基于 git 的分布式 CLI 原生 issue 跟踪器
   en: Local first cli-native issue tracker - distributed and backed by git
+  cs: Systém sledování issues pro CLI, lokální první, distribuovaný a založený na git
+  de: Local-first, CLI-nativer Issue-Tracker – verteilt und git-gestützt
+  es: Rastreador de incidencias nativo de CLI, local primero, distribuido y respaldado por git
+  fr: Suivi de tickets natif en CLI, local d'abord, distribué et adossé à git
+  id: Pelacak issue berbasis CLI, local-first, terdistribusi, dan didukung git
+  it: Issue tracker nativo da CLI, local-first, distribuito e basato su git
+  ja: ローカルファーストなCLIネイティブのissueトラッカー。分散型でgitに裏付けられています
+  ko: 로컬 우선의 CLI 네이티브 이슈 트래커로, 분산형이며 git을 기반으로 합니다
+  pl: Natywny dla CLI, lokalny, rozproszony tracker zgłoszeń oparty na git
+  pt: Rastreador de issues nativo de CLI, local-first, distribuído e apoiado por git
+  ro: Tracker de issue-uri nativ pentru CLI, cu prioritate locală, distribuit și bazat pe git
+  ru: Локальный, распределённый, ориентированный на CLI трекер задач на базе git
+  th: ตัวติดตามปัญหาแบบเน้น CLI ที่ให้ความสำคัญกับเครื่องในพื้นที่ แบบกระจาย และใช้ git เป็นฐาน
+  tr: Yerel öncelikli, CLI'a özgü, dağıtık ve git tabanlı sorun takipçisi
+  uk: Локальний, розподілений, CLI-орієнтований трекер задач на базі git
+  vi: Trình theo dõi issue bản chất CLI, ưu tiên cục bộ, phân tán và dựa trên git
 x:
   source: https://github.com/ljtn/epiq
   eget: ljtn/epiq

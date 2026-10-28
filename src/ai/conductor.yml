@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于 GitHub Copilot SDK 与 Anthropic Agents SDK 定义并运行多智能体工作流的 CLI 工具
   en: A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
+  cs: CLI nástroj pro definování a spouštění multi-agentních pracovních postupů s GitHub Copilot SDK a Anthropic Agents SDK.
+  de: Ein CLI-Werkzeug zum Definieren und Ausführen von Multi-Agent-Workflows mit dem GitHub Copilot SDK und dem Anthropic Agents SDK.
+  es: Una herramienta de CLI para definir y ejecutar flujos de trabajo multiagente con GitHub Copilot SDK y Anthropic Agents SDK.
+  fr: Un outil en ligne de commande pour définir et exécuter des workflows multi-agents avec le SDK GitHub Copilot et le SDK Anthropic Agents.
+  id: Alat CLI untuk mendefinisikan dan menjalankan alur kerja multi-agent dengan GitHub Copilot SDK dan Anthropic Agents SDK.
+  it: Uno strumento CLI per definire ed eseguire flussi di lavoro multi-agente con GitHub Copilot SDK e Anthropic Agents SDK.
+  ja: GitHub Copilot SDK と Anthropic Agents SDK を使ってマルチエージェントのワークフローを定義・実行する CLI ツール
+  ko: GitHub Copilot SDK와 Anthropic Agents SDK를 사용해 멀티에이전트 워크플로를 정의하고 실행하는 CLI 도구
+  pl: Narzędzie CLI do definiowania i uruchamiania przepływów pracy z wieloma agentami przy użyciu GitHub Copilot SDK i Anthropic Agents SDK.
+  pt: Uma ferramenta de CLI para definir e executar fluxos de trabalho multiagente com o GitHub Copilot SDK e o Anthropic Agents SDK.
+  ro: Un instrument CLI pentru definirea și rularea fluxurilor de lucru cu mai mulți agenți, folosind GitHub Copilot SDK și Anthropic Agents SDK.
+  ru: CLI-инструмент для определения и запуска многоагентных рабочих процессов с помощью GitHub Copilot SDK и Anthropic Agents SDK.
+  th: เครื่องมือ CLI สำหรับกำหนดและรันเวิร์กโฟลว์หลายเอเจนต์ด้วย GitHub Copilot SDK และ Anthropic Agents SDK
+  tr: GitHub Copilot SDK ve Anthropic Agents SDK ile çoklu ajan iş akışlarını tanımlamak ve çalıştırmak için bir CLI aracı.
+  uk: CLI-інструмент для визначення та запуску багатоагентних робочих процесів із GitHub Copilot SDK та Anthropic Agents SDK.
+  vi: Công cụ CLI để định nghĩa và chạy quy trình công việc đa tác nhân với GitHub Copilot SDK và Anthropic Agents SDK.
 x:
   source: https://github.com/microsoft/conductor
   eget: microsoft/conductor

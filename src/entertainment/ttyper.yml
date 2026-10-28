@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ttyper 是一个使用 Rust 和 Ratatui 构建的基于终端的打字测试
   en: ttyper is a terminal-based typing test built with Rust and Ratatui
+  cs: ttyper je test rychlosti psaní založený na terminálu, postavený s Rustem a Ratatui
+  de: ttyper ist ein terminalbasierter Tipp-Test, entwickelt mit Rust und Ratatui
+  es: ttyper es una prueba de escritura basada en terminal creada con Rust y Ratatui
+  fr: ttyper est un test de frappe au terminal conçu avec Rust et Ratatui
+  id: ttyper adalah tes mengetik berbasis terminal yang dibangun dengan Rust dan Ratatui
+  it: ttyper è un test di digitazione basato sul terminale, costruito con Rust e Ratatui
+  ja: ttyper は Rust と Ratatui で構築されたターミナルベースのタイピングテストです
+  ko: ttyper는 Rust와 Ratatui로 만든 터미널 기반 타이핑 테스트입니다
+  pl: ttyper to terminalowy test pisania zbudowany w Rust i Ratatui
+  pt: ttyper é um teste de digitação baseado em terminal, criado com Rust e Ratatui
+  ro: ttyper este un test de tastare bazat pe terminal, construit cu Rust și Ratatui
+  ru: ttyper — это тест набора текста в терминале, созданный на Rust и Ratatui
+  th: ttyper คือการทดสอบการพิมพ์แบบเทอร์มินัลที่สร้างด้วย Rust และ Ratatui
+  tr: ttyper, Rust ve Ratatui ile geliştirilmiş terminal tabanlı bir yazma testidir
+  uk: ttyper — це тест набору тексту в терміналі, створений на Rust і Ratatui
+  vi: ttyper là bài kiểm tra gõ phím trên terminal được xây dựng bằng Rust và Ratatui
 x:
   source: https://github.com/max-niederman/ttyper
   eget: max-niederman/ttyper

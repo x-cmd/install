@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: smartctl 是类 Unix 系统下实施 SMART 任务命令行套件或工具
   en: smartctl is a command-line suite or tool that implements SMART tasks under Unix-like systems
+  cs: smartctl je sada nástrojů příkazové řádky nebo nástroj, který implementuje úlohy SMART v systémech podobných Unixu
+  de: smartctl ist eine Kommandozeilen-Suite bzw. ein Werkzeug, das SMART-Aufgaben unter Unix-ähnlichen Systemen ausführt
+  es: smartctl es un conjunto de utilidades de línea de comandos o una herramienta que implementa tareas SMART en sistemas similares a Unix
+  fr: smartctl est une suite d'outils en ligne de commande ou un outil qui implémente les tâches SMART sous les systèmes de type Unix
+  id: smartctl adalah rangkaian utilitas baris perintah atau alat yang mengimplementasikan tugas SMART pada sistem mirip Unix
+  it: smartctl è una suite di strumenti a riga di comando o un'utilità che implementa le attività SMART nei sistemi di tipo Unix
+  ja: smartctl は Unix 系システムで SMART タスクを実行するコマンドラインツール群です
+  ko: smartctl은 Unix 계열 시스템에서 SMART 작업을 수행하는 명령줄 도구 모음입니다
+  pl: smartctl to zestaw narzędzi wiersza poleceń lub program implementujący zadania SMART w systemach zbliżonych do Unixa
+  pt: smartctl é um conjunto de utilitários de linha de comando ou uma ferramenta que implementa tarefas SMART em sistemas tipo Unix
+  ro: smartctl este o suit de utilitare din linia de comandă sau un instrument care implementează sarcinile SMART pe sisteme de tip Unix
+  ru: smartctl — это набор утилит командной строки или инструмент, реализующий задачи SMART в Unix-подобных системах
+  th: smartctl คือชุดเครื่องมือบรรทัดคำสั่งหรือเครื่องมือที่ทำงาน SMART ในระบบที่คล้าย Unix
+  tr: smartctl, Unix benzeri sistemlerde SMART görevlerini gerçekleştiren bir komut satırı paketi veya aracıdır
+  uk: smartctl — це набір утиліт командного рядка або інструмент, що реалізує завдання SMART у Unix-подібних системах
+  vi: smartctl là bộ tiện ích dòng lệnh hoặc công cụ thực hiện các tác vụ SMART trên các hệ thống kiểu Unix
 x:
   source: https://github.com/smartmontools/smartmontools
   eget: smartmontools/smartmontools

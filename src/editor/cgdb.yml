@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: cgdb 是一个非常轻量级的控制台前端，用于 GNU 调试器（GDB）。
   en: cgdb is a lightweight curses (terminal-based) interface to the GNU Debugger (GDB).
+  cs: cgdb je lehký curses (terminálový) uživatelský rozhraní k GNU Debuggeru (GDB).
+  de: cgdb ist eine leichte Curses-(Terminal-)Oberfläche für den GNU Debugger (GDB).
+  es: cgdb es una interfaz ligera de curses (basada en terminal) para el GNU Debugger (GDB).
+  fr: cgdb est une interface légère curses (basée sur le terminal) pour le débogueur GNU (GDB).
+  id: cgdb adalah antarmuka curses (berbasis terminal) yang ringan untuk GNU Debugger (GDB).
+  it: cgdb è un'interfaccia curses (basata su terminale) leggera per il GNU Debugger (GDB).
+  ja: cgdb は GNU デバッガ (GDB) のための軽量な curses (端末ベース) インターフェースです。
+  ko: cgdb는 GNU 디버거(GDB)를 위한 가벼운 curses(터미널 기반) 인터페이스입니다.
+  pl: cgdb to lekki interfejs curses (oparty na terminalu) dla debuggera GNU (GDB).
+  pt: O cgdb é uma interface leve em curses (baseada em terminal) para o GNU Debugger (GDB).
+  ro: cgdb este o interfață ușoară bazată pe curses (terminal) pentru GNU Debugger (GDB).
+  ru: cgdb — это лёгкий интерфейс curses (терминальный) для отладчика GNU (GDB).
+  th: cgdb คืออินเทอร์เฟซแบบ curses (ใช้เทอร์มินัล) ขนาดเล็กสำหรับ GNU Debugger (GDB)
+  tr: cgdb, GNU Debugger (GDB) için hafif bir curses (terminal tabanlı) arayüzüdür.
+  uk: cgdb — це легкий інтерфейс curses (термінальний) для відладника GNU (GDB).
+  vi: cgdb là giao diện curses (dựa trên terminal) nhẹ dành cho GNU Debugger (GDB).
 x:
   source: https://github.com/cgdb/cgdb
   apt: cgdb

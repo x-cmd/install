@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于对 MySQL/MariaDB 和 ProxySQL 进行实时分析的单一管理平台。
   en: Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL.
+  cs: Jedno místo pro real-time analýzu MySQL/MariaDB a ProxySQL.
+  de: Ein einziges Fenster für Echtzeitanalysen von MySQL/MariaDB und ProxySQL.
+  es: Un único panel para el análisis en tiempo real de MySQL/MariaDB y ProxySQL.
+  fr: Un point de vue unique pour l'analyse en temps réel de MySQL/MariaDB et ProxySQL.
+  id: Satu panel untuk analitik waktu nyata pada MySQL/MariaDB dan ProxySQL.
+  it: Un unico punto di vista per l'analisi in tempo reale di MySQL/MariaDB e ProxySQL.
+  ja: MySQL/MariaDB と ProxySQL のリアルタイム分析をひとつに集約したダッシュボードです。
+  ko: MySQL/MariaDB와 ProxySQL를 실시간 분석하기 위한 단일 대시보드입니다.
+  pl: Jeden panel do analityki w czasie rzeczywistym dla MySQL/MariaDB i ProxySQL.
+  pt: Um único painel para análise em tempo real de MySQL/MariaDB e ProxySQL.
+  ro: Un singur panou pentru analize în timp real a MySQL/MariaDB și ProxySQL.
+  ru: Единая панель для аналитики в реальном времени по MySQL/MariaDB и ProxySQL.
+  th: แดชบอร์ดเดียวสำหรับการวิเคราะห์แบบเรียลไทม์ของ MySQL/MariaDB และ ProxySQL
+  tr: MySQL/MariaDB ve ProxySQL için gerçek zamanlı analiz sunan tek bir panel.
+  uk: Єдина панель для аналітики в реальному часі для MySQL/MariaDB і ProxySQL.
+  vi: Một bảng duy nhất cho phân tích thời gian thực MySQL/MariaDB và ProxySQL.
 x:
   source: https://github.com/charles-001/dolphie
   brew: dolphie

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: EMNLP2025 论文：简单快速的检索增强生成方案
   en: '[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"'
+  cs: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  de: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  es: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  fr: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  id: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  it: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  ja: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  ko: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  pl: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  pt: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  ro: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  ru: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  th: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  tr: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  uk: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+  vi: "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
 x:
   source: https://github.com/HKUDS/LightRAG
   pip: lightrag-hku

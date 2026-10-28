@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 类 Vim 工作流的终端原生 git 三方合并工具
   en: 'Easy terminal-native 3-way git mergetool vim-like workflow'
+  cs: Snadno použitelný nástroj pro třízpůsové slučování git s pracovním postupem podobným vim v terminálu
+  de: Einfaches, terminal-eigenes 3-Wege-git-Mergewerkzeug mit vim-ähnlichem Workflow
+  es: Facil mergeset de 3 vías de git nativo de terminal con flujo de trabajo similar a vim
+  fr: Outil de fusion git à 3 voies natif du terminal, avec un flux de travail similaire à vim
+  id: Alat merge 3 arah git asli terminal dengan alur kerja seperti vim
+  it: Facile strumento di merge git a 3 vie nativo del terminale con flusso di lavoro simile a vim
+  ja: ターミナルネイティブな 3 方向 git マージツール、vim 風のワークフロー
+  ko: 터미널 네이티브 3방향 git 병합 도구, vim 유사 워크플로
+  pl: Łatwe, terminalowe narzędzie do 3-drogowego scalania git z przepływem pracy podobnym do vima
+  pt: Ferramenta de mesclagem git de 3 vias nativa de terminal com fluxo de trabalho estilo vim
+  ro: Instrument ușor de fuziune git pe 3 direcții, nativ pentru terminal, cu flux de lucru asemănător vim
+  ru: Простой терминальный инструмент трехстороннего слияния git с рабочим процессом в стиле vim
+  th: เครื่องมือ merge git 3 ทางแบบเนทีฟเทอร์มินัล พร้อมเวิร์กโฟลว์คล้าย vim
+  tr: Terminal yerelinde çalışan, vim benzeri iş akışına sahip kolay 3 yönlü git birleştirme aracı
+  uk: Простий термінальний інструмент для тристороннього злиття git з робочим процесом у стилі vim
+  vi: Công cụ hợp nhất git 3 chiều bản chất terminal với quy trình làm việc giống vim
 x:
   source: https://github.com/chojs23/ec
   eget: chojs23/ec

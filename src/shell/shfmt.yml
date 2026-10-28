@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: shell 解析器、格式化器和解释器
   en: A shell parser, formatter, and interpreter
+  cs: Parser, formátovač a interpret pro shell
+  de: Ein Parser, Formatter und Interpreter für Shells
+  es: Un analizador, formateador e intérprete para shell
+  fr: Un analyseur, formateur et interpréteur pour les shells
+  id: Parser, pemformat, dan interpreter untuk shell
+  it: Un parser, formattatore e interprete per shell
+  ja: シェル用のパーサー、フォーマッタ、インタプリタ
+  ko: 셸을 위한 파서, 포매터, 인터프리터
+  pl: Parser, formatter i interpreter dla powłok
+  pt: Um analisador, formatador e interpretador para shell
+  ro: Un parser, formatator și interpretor pentru shell
+  ru: Парсер, форматтер и интерпретатор для shell
+  th: ตัวแยกวิเคราะห์ ตัวจัดรูปแบบ และตัวตีความสำหรับเชลล์
+  tr: Kabuk için ayrıştırıcı, biçimlendirici ve yorumlayıcı
+  uk: Парсер, форматувальник та інтерпретатор для shell
+  vi: Bộ phân tích, trình định dạng và trình thông dịch cho shell
 x:
   source: https://github.com/mvdan/sh
   eget: mvdan/sh

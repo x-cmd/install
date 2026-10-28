@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 显示磁盘使用情况的工具（Linux、MacOS 和 Windows），它是查找最大目录或文件的非常快速的实用程序
   en: A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files
+  cs: Nástroj pro zobrazení využití disku (Linux, MacOS a Windows), velmi rychlý nástroj pro nalezení největších adresářů nebo souborů
+  de: Ein Werkzeug zur Anzeige der Datenträgernutzung (Linux, MacOS und Windows), ein sehr schnelles Hilfsmittel zum Finden der größten Verzeichnisse oder Dateien
+  es: Una herramienta para mostrar el uso del disco (Linux, MacOS y Windows), es una utilidad muy rápida para encontrar los directorios o archivos más grandes
+  fr: Un outil pour afficher l'utilisation du disque (Linux, MacOS et Windows), c'est un utilitaire très rapide pour trouver les plus gros répertoires ou fichiers
+  id: Alat untuk menampilkan penggunaan disk (Linux, MacOS dan Windows), ini adalah utilitas sangat cepat untuk menemukan direktori atau berkas terbesar
+  it: Uno strumento per mostrare l'uso del disco (Linux, MacOS e Windows), è un'utilità molto veloce per trovare le directory o i file più grandi
+  ja: ディスク使用量を表示するツール（Linux、MacOS、Windows 対応）で、最大のディレクトリやファイルを探す非常に高速なユーティリティです
+  ko: 디스크 사용량을 보여주는 도구(Linux, MacOS, Windows 지원)로, 가장 큰 디렉터리나 파일을 찾는 매우 빠른 유틸리티입니다
+  pl: Narzędzie do pokazywania wykorzystania dysku (Linux, MacOS i Windows), bardzo szybka pomocnik do znajdowania największych katalogów lub plików
+  pt: Uma ferramenta para mostrar o uso do disco (Linux, MacOS e Windows), é um utilitário muito rápido para encontrar os maiores diretórios ou arquivos
+  ro: Un instrument pentru afișarea utilizării discului (Linux, MacOS și Windows), o utilitate foarte rapidă pentru găsirea celor mai mari directoare sau fișiere
+  ru: Инструмент для отображения использования диска (Linux, MacOS и Windows), очень быстрая утилита для поиска самых больших каталогов или файлов
+  th: เครื่องมือแสดงการใช้พื้นที่ดิสก์ (Linux, MacOS และ Windows) เป็นยูทิลิตี้ที่เร็วมากในการค้นหาไดเรกทอรีหรือไฟล์ที่ใหญ่ที่สุด
+  tr: Disk kullanımını gösteren araç (Linux, MacOS ve Windows), en büyük dizinleri veya dosyaları bulmak için çok hızlı bir yardımcı programdır
+  uk: Інструмент для відображення використання диска (Linux, MacOS і Windows), дуже швидка утиліта для пошуку найбільших каталогів або файлів
+  vi: Công cụ hiển thị mức sử dụng đĩa (Linux, MacOS và Windows), là tiện ích rất nhanh để tìm các thư mục hoặc tệp lớn nhất
 homepage: https://github.com/chenquan/diskusage
 license: Apache-2.0
 x:

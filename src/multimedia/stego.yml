@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: stego is a steganographic swiss army knife
   cn: stego 是一把隐写瑞士军刀
+  cs: stego je univerzální steganografický nůž
+  de: stego ist ein universeller Steganografie-Schweizerklingenzähler
+  es: stego es un cuchillo multifunción de esteganografía
+  fr: stego est un couteau suisse stéganographique
+  id: stego adalah pisau Swiss Army serbaguna untuk steganografi
+  it: stego è un coltellino svizzero steganografico
+  ja: stego はステガノグラフィ用の多功能ナイフです
+  ko: stego는 스테가노그래피를 위한 만능 칼입니다
+  pl: stego to uniwersalny nóż steganograficzny
+  pt: stego é um canivete suíço esteganográfico
+  ro: stego este un cuțit elvețesc steganografic
+  ru: stego — универсальный стеганографический швейцарский нож
+  th: stego คือมีดพร้อมกรมที่ใช้งานสเตแกโนกราฟี
+  tr: stego, steganografi için çok amaçlı bir İsviçre çakısıdır.
+  uk: stego — універсальний стеганографічний швейцарський ніж
+  vi: stego là dao găp đa năng cho kỹ thuật giấu tin
 x:
   source: https://github.com/ajmwagar/stego
   cargo: stego

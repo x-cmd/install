@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: find 命令的现代化替代品，用于在文件系统中进行快速查找文件和目录
   en: A modern replacement for the find command for quickly finding files and directories in a file system
+  cs: Moderní náhrada příkazu find pro rychlé hledání souborů a adresářů v souborovém systému
+  de: Ein moderner Ersatz für den Befehl find zum schnellen Finden von Dateien und Verzeichnissen in einem Dateisystem
+  es: Un sustituto moderno del comando find para encontrar rápidamente archivos y directorios en un sistema de archivos
+  fr: Un remplaçant moderne de la commande find pour trouver rapidement des fichiers et des répertoires dans un système de fichiers
+  id: Pengganti modern perintah find untuk dengan cepat menemukan berkas dan direktori dalam sistem berkas
+  it: Un sostituto moderno del comando find per trovare rapidamente file e directory in un file system
+  ja: ファイルシステム内のファイルとディレクトリをすばやく見つけるための、find コマンドのモダンな代替
+  ko: 파일 시스템에서 파일과 디렉터리를 빠르게 찾기 위한 find 명령의 현대적인 대체
+  pl: Nowoczesny zamiennik polecenia find do szybkiego wyszukiwania plików i katalogów w systemie plików
+  pt: Um substituto moderno do comando find para encontrar rapidamente arquivos e diretórios em um sistema de arquivos
+  ro: O înlocuitor modern al comenzii find pentru găsirea rapidă a fișierelor și directoarelor într-un sistem de fișiere
+  ru: Современная замена команде find для быстрого поиска файлов и каталогов в файловой системе
+  th: ตัวแทนสมัยใหม่ของคำสั่ง find สำหรับค้นหาไฟล์และไดเรกทอรีอย่างรวดเร็วในระบบไฟล์
+  tr: Dosya sisteminde dosyaları ve dizinleri hızlıca bulmak için find komutuna modern bir alternatif
+  uk: Сучасна заміна команді find для швидкого пошуку файлів і каталогів у файловій системі
+  vi: Bản thay thế hiện đại cho lệnh find để nhanh chóng tìm tệp và thư mục trong hệ thống tệp
 x:
   source: https://github.com/jhspetersson/fselect
   brew: fselect

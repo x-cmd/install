@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个命令行工具，用于在终端中显示市场和个股信息。
   en: A command line tool that shows information on markets and individual stocks in the terminal.
+  cs: Nástroj příkazové řádky, který zobrazuje v terminálu informace o trzích a jednotlivých akciích.
+  de: Ein Kommandozeilenwerkzeug, das im Terminal Informationen zu Märkten und einzelnen Aktien anzeigt.
+  es: Una herramienta de línea de comandos que muestra información sobre mercados y acciones individuales en la terminal.
+  fr: Un outil en ligne de commande qui affiche dans le terminal des informations sur les marchés et les actions individuelles.
+  id: Alat baris perintah yang menampilkan informasi tentang pasar dan saham individual di terminal.
+  it: Uno strumento da riga di comando che mostra nel terminale informazioni su mercati e singole azioni.
+  ja: ターミナルに市場と個々の株の情報を表示するコマンドラインツールです。
+  ko: 터미널에서 시장과 개별 종목에 대한 정보를 보여주는 명령줄 도구입니다.
+  pl: Narzędzie wiersza poleceń wyświetlające w terminalu informacje o rynkach i pojedynczych akcjach.
+  pt: Uma ferramenta de linha de comando que mostra informações sobre mercados e ações individuais no terminal.
+  ro: Un instrument de linie de comandă care afișează în terminal informații despre piețe și acțiuni individuale.
+  ru: Инструмент командной строки, отображающий в терминале информацию о рынках и отдельных акциях.
+  th: เครื่องมือบรรทัดคำสั่งที่แสดงข้อมูลเกี่ยวกับตลาดและหุ้นรายตัวในเทอร์มินัล
+  tr: Terminalde piyasalar ve bireysel hisse senetleri hakkında bilgi gösteren bir komut satırı aracı.
+  uk: Інструмент командного рядка, що показує в терміналі інформацію про ринки та окремі акції.
+  vi: Công cụ dòng lệnh hiển thị thông tin về thị trường và từng cổ phiếu trong terminal.
 x:
   source: https://github.com/mop-tracker/mop
 rule:

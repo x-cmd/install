@@ -3,6 +3,22 @@ homepage: https://about.gitea.com/
 desc:
   cn: 无痛自托管一体化软件开发服务，包括 Git 托管、代码审查、团队协作、包注册和 CI/CD
   en: Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  cs: Bezproblémová vlastnoručně hostovaná kompletní služba pro vývoj softwaru, která zahrnuje hostování Git, kontrolu kódu, týmovou spolupráci, registr balíčků a CI/CD
+  de: Reibungslose selbst gehostete All-in-One-Entwicklungsdienstleistung mit Git-Hosting, Code-Review, Teamzusammenarbeit, Paketregistry und CI/CD
+  es: Servicio integral de desarrollo de software autohospedado y sin complicaciones, que incluye alojamiento Git, revisión de código, colaboración en equipo, registro de paquetes y CI/CD
+  fr: Service de développement logiciel tout-en-un auto-hébergé et painless, comprenant hébergement Git, revue de code, collaboration d'équipe, registre de paquets et CI/CD
+  id: Layanan pengembangan perangkat lunak terpadu yang di-hosting sendiri dengan mudah, mencakup hosting Git, tinjauan kode, kolaborasi tim, registri paket, dan CI/CD
+  it: Servizio di sviluppo software self-hosted all-in-one e senza complicazioni, che include hosting Git, revisione del codice, collaborazione di team, registro dei pacchetti e CI/CD
+  ja: Git ホスティング、コードレビュー、チームコラボレーション、パッケージレジストリ、CI/CD を含む、簡単導入のセルフホスト型オールインワン開発サービス
+  ko: Git 호스팅, 코드 리뷰, 팀 협업, 패키지 레지스트리, CI/CD를 포함하는 간편한 자체 호스팅 올인원 소프트웨어 개발 서비스
+  pl: Bezproblemowa, samodzielnie hostowana, zintegrowana usługa rozwoju oprogramowania, obejmująca hosting Git, przegląd kodu, współpracę zespołu, rejestr pakietów i CI/CD
+  pt: Serviço integrado de desenvolvimento de software, auto-hospedado e sem complicações, incluindo hospedagem Git, revisão de código, colaboração em equipe, registro de pacotes e CI/CD
+  ro: Serviciu de dezvoltare software all-in-one, auto-găzduit și fără complicații, care include găzduire Git, revizuire de cod, colaborare în echipă, registru de pachete și CI/CD
+  ru: Простой в самостоятельном размещении универсальный сервис разработки ПО, включающий хостинг Git, ревью кода, совместную работу команды, реестр пакетов и CI/CD
+  th: บริการพัฒนาซอฟต์แวร์แบบครบวงจรและโฮสต์เองแบบไม่ยุ่งยาก ครอบคลุมการโฮสต์ Git การตรวจรีวิวโค้ด การทำงานร่วมกันของทีม รีจิสทรีแพ็กเกจ และ CI/CD
+  tr: Git barındırma, kod incelemesi, ekip iş birliği, paket kaydı ve CI/CD içeren, kendi sunucunuzda çalışan sorunsuz hepsi bir arada yazılım geliştirme hizmeti
+  uk: Простий власний сервіс розробки ПЗ «все в одному», що включає хостинг Git, рев'ю коду, командну співпрацю, реєстр пакетів і CI/CD
+  vi: Dịch vụ phát triển phần mềm tích hợp, tự lưu trữ và dễ dùng, bao gồm lưu trữ Git, đánh giá mã, cộng tác nhóm, sổ đăng ký gói và CI/CD
 x:
   brew: gitea
   pacman: gitea

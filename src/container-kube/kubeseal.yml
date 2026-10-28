@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubeseal 是一个 Kubernetes 控制器和工具，用于加密和解密 Kubernetes Secrets
   en: A Kubernetes controller and tool for one-way encrypted Secrets
+  cs: Kubeseal je Kubernetes controller a nástroj pro jednosměrné šifrování Secrets
+  de: Ein Kubernetes-Controller und Werkzeug für einseitig verschlüsselte Secrets
+  es: Kubeseal es un controlador de Kubernetes y una herramienta para cifrar Secrets de forma unidireccional
+  fr: Kubeseal est un contrôleur Kubernetes et un outil pour le chiffrement à sens unique de Secrets
+  id: Kubeseal adalah controller Kubernetes dan alat untuk enkripsi Secrets satu arah
+  it: Kubeseal è un controller Kubernetes e uno strumento per la cifratura monodirezionale dei Secret
+  ja: Kubeseal は一方向暗号化 Secrets 用の Kubernetes コントローラーおよびツールです
+  ko: Kubeseal은 단방향 암호화된 Secrets를 위한 Kubernetes 컨트롤러이자 도구입니다
+  pl: Kubeseal to kontroler Kubernetes i narzędzie do jednokierunkowego szyfrowania Secretów
+  pt: O Kubeseal é um controlador do Kubernetes e uma ferramenta para criptografia unidirecional de Secrets
+  ro: Kubeseal este un controler Kubernetes și un instrument pentru criptarea unidirecțională a Secret-urilor
+  ru: Kubeseal — это контроллер Kubernetes и инструмент для одностороннего шифрования Secret
+  th: Kubeseal คือคอนโทรลเลอร์ Kubernetes และเครื่องมือสำหรับการเข้ารหัสแบบทางเดียวของ Secrets
+  tr: Kubeseal, tek yönlü şifrelenmiş Secrets için bir Kubernetes denetleyicisi ve aracıdır
+  uk: Kubeseal — це контролер Kubernetes та інструмент для одностороннього шифрування Secret
+  vi: Kubeseal là một controller Kubernetes và công cụ để mã hóa Secret theo một chiều
 x:
   source: https://github.com/bitnami-labs/sealed-secrets
   eget: bitnami-labs/sealed-secrets

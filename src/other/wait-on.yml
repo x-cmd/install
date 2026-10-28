@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: wait-on 是一个跨平台命令行实用程序和 Node.js API, 它将等待文件、端口、套接字和 http(s) 资源变得可用
   en: wait-on is a cross platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
+  cs: wait-on je multiplatformní nástroj příkazové řádky a API Node.js, který čeká na dostupnost souborů, portů, socketů a http(s) zdrojů
+  de: wait-on ist ein plattformübergreifendes Kommandozeilenwerkzeug und eine Node.js-API, die darauf wartet, dass Dateien, Ports, Sockets und http(s)-Ressourcen verfügbar werden
+  es: wait-on es una utilidad de línea de órdenes multiplataforma y una API de Node.js que espera a que los archivos, puertos, sockets y recursos http(s) estén disponibles
+  fr: wait-on est un utilitaire en ligne de commande multiplateforme et une API Node.js qui attend que les fichiers, les ports, les sockets et les ressources http(s) deviennent disponibles
+  id: wait-on adalah utilitas baris perintah lintas platform dan API Node.js yang menunggu hingga file, port, socket, dan sumber daya http(s) tersedia
+  it: wait-on è un'utilità da riga di comando multipiattaforma e un'API Node.js che attende che file, porte, socket e risorse http(s) diventino disponibili
+  ja: wait-on は、ファイル、ポート、ソケット、http(s) リソースが利用可能になるまで待つ、クロスプラットフォームのコマンドラインツール兼 Node.js API です。
+  ko: wait-on은(는) 파일, 포트, 소켓 및 http(s) 리소스를 사용할 수 있게 될 때까지 기다리는 크로스 플랫폼 명령줄 유틸리티이자 Node.js API입니다.
+  pl: wait-on to wieloplatformowe narzędzie wiersza poleceń i API Node.js, które czeka, aż pliki, porty, gniazda i zasoby http(s) staną się dostępne
+  pt: wait-on é um utilitário de linha de comando multiplataforma e uma API do Node.js que espera até que arquivos, portas, sockets e recursos http(s) fiquem disponíveis
+  ro: wait-on este un utilitar multiplatformă de linie de comandă și o API Node.js care așteaptă ca fișierele, porturile, socketurile și resursele http(s) să devină disponibile
+  ru: wait-on — кроссплатформенная утилита командной строки и API Node.js, которая ждёт доступности файлов, портов, сокетов и ресурсов http(s)
+  th: wait-on เป็นยูทิลิตี้บรรทัดคำสั่งข้ามแพลตฟอร์มและ API ของ Node.js ที่จะรอให้ไฟล์ พอร์ต ซ็อกเก็ต และทรัพยากร http(s) พร้อมใช้งาน
+  tr: wait-on, dosyaların, portların, soketlerin ve http(s) kaynaklarının kullanılabilir olmasını bekleyen çapraz platform bir komut satırı aracı ve Node.js API'sidir.
+  uk: wait-on — кроссплатформна утиліта командного рядка та API Node.js, яка чекає доступності файлів, портів, сокетів і ресурсів http(s)
+  vi: wait-on là tiện ích dòng lệnh đa nền tảng và API Node.js, chờ các tệp, cổng, socket và tài nguyên http(s) trở nên khả dụng
 x:
   source: https://github.com/jeffbski/wait-on
   npm: wait-on

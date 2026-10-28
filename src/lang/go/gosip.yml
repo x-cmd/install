@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 面向公共交换电话网络(PSTN)的工具
   en: Public Switched Telecommunications Network Unleashed
+  cs: Odemčená veřejná telefonní síť
+  de: Das öffentliche Telefonnetz, entfesselt
+  es: Red Telefónica Pública Desatada
+  fr: Réseau téléphonique public déchaîné
+  id: Jaringan Telekomunikasi Publik yang Dibebaskan
+  it: Rete pubblica di telecomunicazioni sbloccata
+  ja: 公開電話網の解放
+  ko: 공중 전화망을 해방하다
+  pl: Publiczna sieć telekomunikacyjna bez ograniczeń
+  pt: Rede Pública de Telecomunicações Desbloqueada
+  ro: Rețea publică de telecomunicații eliberată
+  ru: Публичная телефонная сеть без ограничений
+  th: เครือข่ายโทรคมนาคมสาธารณะปลดล็อก
+  tr: Herkese açık telefon ağı özgür kılındı
+  uk: Відкрита публічна телефонна мережа
+  vi: Mạng viễn thông công cộng được phóng thích
 x:
   source: https://github.com/jart/gosip
   eget: jart/gosip

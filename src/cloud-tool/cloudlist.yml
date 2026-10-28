@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: Cloudlist 是一个用于从云提供商获取资产的多云工具，只需很少的配置工作即可维护跨多个云的集中资产列表
   en: Cloudlist is a multi-cloud tool for getting Assets from Cloud Providers, maintaining a centralized list of assets across multiple clouds with very little configuration efforts
+  cs: Cloudlist je nástroj pro více cloudových platforem, který získává aktiva od cloudových poskytovatelů a udržuje centralizovaný seznam aktiv napříč více cloudy s velmi malou konfigurací
+  de: Cloudlist ist ein Multi-Cloud-Werkzeug, das Assets von Cloud-Anbietern abruft und mit sehr geringem Konfigurationsaufwand eine zentrale Asset-Liste über mehrere Clouds hinweg verwaltet
+  es: Cloudlist es una herramienta multinube para obtener activos de proveedores de nube, que mantiene una lista centralizada de activos en varias nubes con muy poco esfuerzo de configuración
+  fr: Cloudlist est un outil multicloud pour récupérer les assets des fournisseurs cloud, maintenant une liste centralisée des actifs sur plusieurs clouds avec très peu de configuration
+  id: Cloudlist adalah alat multi-cloud untuk mendapatkan aset dari penyedia cloud, sekaligus mempertahankan daftar aset terpusat di berbagai cloud dengan usaha konfigurasi yang sangat sedikit
+  it: Cloudlist è uno strumento multi-cloud per ottenere asset dai provider cloud, mantenendo un elenco centralizzato di asset su più cloud con pochissimo sforzo di configurazione
+  ja: Cloudlist はクラウドプロバイダーから資産を取得するためのマルチクラウドツールで、わずかな設定作業だけで複数のクラウドにまたがる一元的な資産リストを維持します
+  ko: Cloudlist는 클라우드 제공업체에서 자산을 가져오는 멀티 클라우드 도구로, 매우 적은 설정 작업만으로 여러 클라우드에 걸친 중앙화된 자산 목록을 유지합니다
+  pl: Cloudlist to narzędzie multi-cloud, które pobiera zasoby od dostawców chmury i utrzymuje scentralizowaną listę zasobów w wielu chmurach przy minimalnym nakładzie konfiguracji
+  pt: Cloudlist é uma ferramenta multi-cloud para obter ativos de provedores de nuvem, mantendo uma lista centralizada de ativos em várias nuvens com pouquíssimo esforço de configuração
+  ro: Cloudlist este un instrument multi-cloud pentru obținerea activelor de la furnizorii de cloud, care menține o listă centralizată de active pe mai multe cloud-uri cu foarte puțin efort de configurare
+  ru: Cloudlist — мультиоблачный инструмент для получения ресурсов от облачных провайдеров, ведущий централизованный список ресурсов в нескольких облаках при минимальных настройках
+  th: Cloudlist คือเครื่องมือหลายคลาวด์สำหรับดึงสินทรัพย์จากผู้ให้บริการคลาวด์ พร้อมคงรายการสินทรัพย์แบบรวมศูนย์ข้ามคลาวด์หลายแห่งได้โดยใช้ค่าตั้งเพียงเล็กน้อย
+  tr: Cloudlist, bulut sağlayıcılarından varlıkları alan ve çok az yapılandırma çabasıyla birden çok bulutta merkezi bir varlık listesi tutan çoklu bulut aracıdır
+  uk: Cloudlist — мультихмарний інструмент для отримання ресурсів від хмарних провайдерів, який веде централізований список ресурсів у кількох хмарах із мінімальними налаштуваннями
+  vi: Cloudlist là công cụ đa đám mây để lấy tài nguyên từ các nhà cung cấp đám mây, đồng thời duy trì danh sách tài nguyên tập trung trên nhiều đám mây với rất ít công sức cấu hình
 homepage: https://github.com/projectdiscovery/cloudlist
 license: MIT
 x:

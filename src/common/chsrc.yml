@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 全平台命令行换源工具
   en: Full platform command line source swap tool
+  cs: Nástroj pro výměnu zdrojů balíčků ve všech platformách z příkazové řádky
+  de: Kommandozeilen-Tool zum Wechseln der Paketquellen auf allen Plattformen
+  es: Herramienta de línea de comandos para cambiar las fuentes en todas las plataformas
+  fr: Outil en ligne de commande de changement de source pour toutes les plateformes
+  id: Alat ganti sumber paket lintas platform melalui baris perintah
+  it: Strumento da riga di comando per cambiare sorgente dei pacchetti su tutte le piattaforme
+  ja: 全プラットフォーム対応のコマンドラインソース切替ツール
+  ko: 모든 플랫폼에서 동작하는 명령줄 소스 전환 도구
+  pl: Narzędzie wiersza poleceń do zmiany źródeł pakietów na wszystkich platformach
+  pt: Ferramenta de linha de comando para troca de fontes em todas as plataformas
+  ro: Instrument de linie de comandă pentru schimbarea surselor pe toate platformele
+  ru: Инструмент командной строки для смены источников пакетов на всех платформах
+  th: เครื่องมือสลับแหล่งที่มาจากบรรทัดคำสั่ง รองรับทุกแพลตฟอร์ม
+  tr: Tüm platformlarda paket kaynağı değiştirme komut satırı aracı
+  uk: Інструмент командного рядка для зміни джерел пакетів на всіх платформах
+  vi: Công cụ dòng lệnh đổi nguồn cho mọi nền tảng
 x:
   source: https://github.com/RubyMetric/chsrc
   eget: RubyMetric/chsrc

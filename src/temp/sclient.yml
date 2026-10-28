@@ -3,6 +3,22 @@ homepage: https://github.com/therootcompany/sclient
 desc:
   cn: 安全客户端，用于将 TLS（又名 SSL）安全服务公开为本地纯文本连接
   en: Secure Client for exposing TLS (aka SSL) secured services as plain-text connections locally
+  cs: Bezpečný klient pro vystavení služeb zabezpečených protokolem TLS (známé také jako SSL) jako místních prostých textových připojení
+  de: Sicherer Client, um TLS- (auch SSL genannte) gesicherte Dienste lokal als Klartextverbindungen bereitzustellen
+  es: Cliente seguro para exponer servicios protegidos con TLS (también conocido como SSL) como conexiones de texto sin cifrar de forma local
+  fr: Client sécurisé permettant d'exposer localement des services sécurisés par TLS (également appelé SSL) sous forme de connexions en texte brut
+  id: Klien aman untuk mengekspos layanan yang diamankan TLS (disebut juga SSL) sebagai koneksi teks biasa secara lokal
+  it: Client sicuro per esporre localmente i servizi protetti da TLS (noto anche come SSL) come connessioni in chiaro
+  ja: TLS（SSL とも呼ばれます）で保護されたサービスをローカルでプレーンテキスト接続として公開するセキュアクライアントです
+  ko: TLS(일명 SSL)로 보호된 서비스를 로컬에서 평문 연결로 공개하는 보안 클라이언트입니다
+  pl: Bezpieczny klient do lokalnego udostępniania usług zabezpieczonych TLS (znanego także jako SSL) jako połączeń zwykłego tekstu
+  pt: Cliente seguro para expor localmente serviços protegidos por TLS (também conhecido como SSL) como conexões de texto simples
+  ro: Client securizat pentru a expune local servicii protejate cu TLS (numit și SSL) drept conexiuni de text simplu
+  ru: Безопасный клиент для локального предоставления доступа к сервисам, защищённым TLS (также известным как SSL), в виде открытых текстовых соединений
+  th: ไคลเอนต์ที่ปลอดภัยสำหรับเปิดบริการที่ป้องกันด้วย TLS (หรือที่เรียกว่า SSL) ให้เป็นการเชื่อมต่อแบบข้อความธรรมดาในเครื่อง
+  tr: TLS (SSL olarak da bilinir) ile güvence altına alınmış servisleri yerel olarak düz metin bağlantıları olarak sunan güvenli istemci
+  uk: Безпечний клієнт для локального надання доступу до служб, захищених TLS (також відомим як SSL), у вигляді відкритих текстових з'єднань
+  vi: Khách hàng bảo mật dùng để công bố các dịch vụ được bảo vệ bằng TLS (còn gọi là SSL) dưới dạng kết nối văn bản thuần cục bộ
 x:
   source: https://github.com/therootcompany/sclient
   eget: therootcompany/sclient

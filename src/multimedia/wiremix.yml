@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 面向 PipeWire 的简洁 TUI 音频混音器
   en: 'Simple TUI audio mixer for PipeWire'
+  cs: Jednoduchý TUI zvukový mixér pro PipeWire
+  de: Einfacher TUI-Audiomixer für PipeWire
+  es: Sencillo mezclador de audio TUI para PipeWire
+  fr: Mixeur audio TUI simple pour PipeWire
+  id: Mixer audio TUI sederhana untuk PipeWire
+  it: Semplice mixer audio TUI per PipeWire
+  ja: PipeWire向けのシンプルなTUIオーディオミキサー
+  ko: PipeWire를 위한 간단한 TUI 오디오 믹서
+  pl: Prosty mikser audio TUI dla PipeWire
+  pt: Mixer de áudio TUI simples para PipeWire
+  ro: Mixer audio TUI simplu pentru PipeWire
+  ru: Простой TUI-аудиомикшер для PipeWire
+  th: มิกเซอร์เสียงแบบ TUI อย่างง่ายสำหรับ PipeWire
+  tr: PipeWire için basit TUI ses mikseri
+  uk: Простий TUI-аудіомікшер для PipeWire
+  vi: Bộ trộn âm thanh TUI đơn giản cho PipeWire
 x:
   source: https://github.com/tsowell/wiremix
   eget: tsowell/wiremix

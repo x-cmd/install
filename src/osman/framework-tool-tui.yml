@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的 TUI，用于控制与监控 Framework Computers 硬件
   en: 'A TUI for controlling and monitoring Framework Computers hardware built in Rust'
+  cs: TUI pro ovládání a monitorování hardwaru Framework Computers, napsaný v Rustu
+  de: Eine TUI zur Steuerung und Überwachung von Framework Computers-Hardware, geschrieben in Rust
+  es: Una TUI para controlar y supervisar el hardware de Framework Computers, escrita en Rust
+  fr: Une TUI pour contrôler et surveiller le matériel Framework Computers, écrite en Rust
+  id: TUI untuk mengontrol dan memantau perangkat keras Framework Computers yang dibuat dengan Rust
+  it: Una TUI per controllare e monitorare l'hardware di Framework Computers, scritta in Rust
+  ja: Rustで書かれた、Framework Computersのハードウェアを制御・監視するためのTUI
+  ko: Rust로 작성된 Framework Computers 하드웨어 제어 및 모니터링용 TUI
+  pl: TUI do sterowania i monitorowania sprzętu Framework Computers, napisany w Rust
+  pt: Uma TUI para controlar e monitorar o hardware do Framework Computers, escrita em Rust
+  ro: O TUI pentru controlul și monitorizarea hardware-ului Framework Computers, scris în Rust
+  ru: TUI для управления и мониторинга оборудования Framework Computers, написанный на Rust
+  th: TUI สำหรับควบคุมและตรวจสอบฮาร์ดแวร์ Framework Computers เขียนด้วย Rust
+  tr: Framework Computers donanımını kontrol etmek ve izlemek için Rust ile yazılmış bir TUI
+  uk: TUI для керування та моніторингу обладнання Framework Computers, написаний на Rust
+  vi: TUI để điều khiển và giám sát phần cứng Framework Computers, viết bằng Rust
 x:
   source: https://github.com/grouzen/framework-tool-tui
   eget: grouzen/framework-tool-tui

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Star Trek 式的对话 Agent，可在触发命令后运行钩子，完全本地运行
   en: '"Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit''s scary.'
+  cs: "\"Hey, Computer\" ze Star Treku. Mluvte se svým agentem. Spouštějte hooky po spouštěcích příkazech. Běží lokálně, protože ta věc je děsivá."
+  de: "\"Hey, Computer\" aus Star Trek. Sprechen Sie mit Ihrem Agenten. Hooks nach Auslösebefehlen ausführen. Läuft lokal, weil das Zeug gruselig ist."
+  es: "\"Hey, Computer\" de Star Trek. Habla con tu agente. Ejecuta hooks después de los comandos de activación. Se ejecuta localmente, porque esas cosas dan miedo."
+  fr: "\"Hey, Computer\" de Star Trek. Parlez à votre agent. Exécutez des hooks après les commandes de déclenchement. S'exécute en local, parce que c'est flippant."
+  id: "\"Hey, Computer\" dari Star Trek. Bicarang dengan agen Anda. Jalankan hook setelah perintah pemicu. Berjalan lokal, karena itu menakutkan."
+  it: "\"Hey, Computer\" di Star Trek. Parla con il tuo agente. Esegui gli hook dopo i comandi di attivazione. Gira in locale, perché è inquietante."
+  ja: Star Trek の「Hey, Computer」。エージェントと話そう。トリガーコマンドの後にフックを実行。ローカルで動くのは、怖いものだから。
+  ko: Star Trek의 "Hey, Computer". 에이전트와 대화하세요. 트리거 명령 후에 훅을 실행합니다. 무서운 일이니까 로컬에서 실행됩니다.
+  pl: "\"Hey, Computer\" ze Star Treka. Rozmawiaj ze swoim agentem. Uruchamiaj hooki po komendach wyzwalających. Działa lokalnie, bo to jest przerażające."
+  pt: "\"Hey, Computer\" de Star Trek. Converse com seu agente. Execute hooks após comandos de gatilho. Roda localmente, porque isso é assustador."
+  ro: "\"Hey, Computer\" din Star Trek. Vorbește cu agentul tău. Rulează hook-uri după comenzile de declanșare. Rulează local, pentru că e înfiorător."
+  ru: "\"Hey, Computer\" из Star Trek. Поговорите со своим агентом. Запускайте хуки после команд-триггеров. Работает локально, потому что это жутко."
+  th: "\"Hey, Computer\" จาก Star Trek คุยกับเอเจนต์ของคุณ รัน hook หลังคำสั่งกระตุ้น ทำงานในเครื่อง เพราะของแบบนี้น่ากลัว"
+  tr: Star Trek'ten "Hey, Computer". Ajanınızla konuşun. Tetikleme komutlarından sonra hook'ları çalıştırın. Yerel çalışır, çünkü bu iş korkutucu.
+  uk: "\"Hey, Computer\" зі Star Trek. Розмовляйте зі своїм агентом. Запускайте хуки після команд-тригерів. Працює локально, бо це страшно."
+  vi: "\"Hey, Computer\" từ Star Trek. Nói chuyện với agent của bạn. Chạy hook sau các lệnh kích hoạt. Chạy cục bộ, vì mấy thứ đó thật đáng sợ."
 x:
   source: https://github.com/steipete/brabble
   eget: steipete/brabble

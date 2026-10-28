@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: RBAC 查找是一个 CLI，可让您轻松找到与任何用户，服务帐户或组名称绑定的 Kubernetes 角色和集群角色。每个版本都用 goreleaser 生成二进制文件，以进行简单安装
   en: RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name. Binaries are generated with goreleaser for each release for simple installation
+  cs: RBAC Lookup je CLI, které vám umožňuje snadno najít role a cluster role Kubernetes svázané s libovolným uživatelem, service accountem nebo názvem skupiny. Binární soubory jsou pro každé vydání generovány pomocí goreleaser pro jednoduchou instalaci
+  de: RBAC Lookup ist eine CLI, mit der Sie ganz einfach Kubernetes-Rollen und Clusterrollen finden, die an einen beliebigen Benutzer, ein Servicekonto oder einen Gruppennamen gebunden sind. Binaries werden mit goreleaser für jede Version zur einfachen Installation erzeugt
+  es: RBAC Lookup es una CLI que te permite encontrar fácilmente los roles y roles de clúster de Kubernetes vinculados a cualquier usuario, cuenta de servicio o nombre de grupo. Los binarios se generan con goreleaser para cada versión, lo que facilita la instalación
+  fr: RBAC Lookup est une CLI qui permet de trouver facilement les rôles et rôles de cluster Kubernetes liés à un utilisateur, un compte de service ou un nom de groupe. Les binaires sont générés avec goreleaser pour chaque version afin de faciliter l'installation
+  id: RBAC Lookup adalah CLI yang memungkinkan Anda dengan mudah menemukan role dan cluster role Kubernetes yang terikat pada pengguna, service account, atau nama grup apa pun. Binari dibuat dengan goreleaser untuk setiap rilis sehingga instalasinya mudah
+  it: RBAC Lookup è una CLI che ti permette di trovare facilmente i role e i cluster role Kubernetes associati a qualsiasi utente, account di servizio o nome di gruppo. I binari sono generati con goreleaser per ogni release per un'installazione semplice
+  ja: RBAC Lookup は、任意のユーザー、サービスアカウント、グループ名に結び付けられた Kubernetes の Role や ClusterRole を簡単に查找できるようにした CLI です。各リリースのバイナリは goreleaser で生成され、インストールが簡単です
+  ko: RBAC Lookup은 임의의 사용자, 서비스 계정 또는 그룹 이름에 바인딩된 Kubernetes role과 cluster role을 쉽게 찾을 수 있게 해 주는 CLI입니다. 각 릴리스의 바이너리는 goreleaser로 생성되어 설치가 간단합니다
+  pl: RBAC Lookup to narzędzie CLI, które pozwala łatwo znaleźć role i cluster role Kubernetes powiązane z dowolnym użytkownikiem, kontem usług lub nazwą grupy. Pliki binarne są generowane przez goreleaser dla każdego wydania, co ułatwia instalację
+  pt: RBAC Lookup é uma CLI que permite encontrar facilmente as roles e cluster roles do Kubernetes vinculados a qualquer usuário, conta de serviço ou nome de grupo. Binários são gerados com goreleaser para cada release, facilitando a instalação
+  ro: RBAC Lookup este o CLI care vă permite să găsiți cu ușurință rolurile și cluster role din Kubernetes asociate oricărui utilizator, cont de serviciu sau nume de grup. Binarele sunt generate cu goreleaser pentru fiecare lansare, pentru o instalare simplă
+  ru: RBAC Lookup — это CLI, позволяющий легко находить роли и cluster roles в Kubernetes, привязанные к любому пользователю, сервисной учётной записи или имени группы. Для каждого релиза бинарные файлы генерируются с помощью goreleaser для простой установки
+  th: RBAC Lookup คือ CLI ที่ช่วยให้คุณค้นหา role และ cluster role ของ Kubernetes ที่ผูกกับผู้ใช้ บัญชีบริการ หรือชื่อกลุ่มใด ๆ ได้อย่างง่ายดาย ไบนารีถูกสร้างด้วย goreleaser สำหรับแต่ละรุ่นเพื่อให้ติดตั้งได้ง่าย
+  tr: RBAC Lookup, herhangi bir kullanıcı, servis hesabı veya grup adına bağlı Kubernetes role ve cluster role'lerini kolayca bulmanızı sağlayan bir CLI'dır. Her sürüm için ikili dosyalar goreleaser ile üretilir, böylece kurulum kolaydır
+  uk: RBAC Lookup — це CLI, що дозволяє легко знаходити role та cluster role у Kubernetes, прив'язані до будь-якого користувача, сервісного облікового запису або назви групи. Для кожного релізу бінарні файли генеруються за допомогою goreleaser для простої установки
+  vi: RBAC Lookup là CLI giúp bạn dễ dàng tìm các role và cluster role của Kubernetes được liên kết với bất kỳ người dùng, tài khoản dịch vụ hay tên nhóm nào. File nhị phân được tạo bằng goreleaser cho mỗi bản phát hành để việc cài đặt trở nên đơn giản
 x:
   source: https://github.com/FairwindsOps/rbac-lookup
   eget: FairwindsOps/rbac-lookup

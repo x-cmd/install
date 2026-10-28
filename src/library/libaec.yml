@@ -3,6 +3,22 @@ homepage: https://gitlab.dkrz.de/k202009/libaec
 desc:
   cn: 自适应熵编码库
   en: Adaptive Entropy Coding library
+  cs: Knihovna adaptivního kódování entropie
+  de: Bibliothek für adaptive Entropiekodierung
+  es: Biblioteca de codificación adaptativa de entropía
+  fr: Bibliothèque de codage entropique adaptatif
+  id: Pustaka pengodean entropi adaptif
+  it: Libreria di codifica entropica adattiva
+  ja: 適応型エントロピー符号化ライブラリ
+  ko: 적응형 엔트로피 코딩 라이브러리
+  pl: Biblioteka adaptywnego kodowania entropii
+  pt: Biblioteca de codificação adaptativa de entropia
+  ro: Bibliotecă de codificare adaptivă a entropiei
+  ru: Библиотека адаптивного энтропийного кодирования
+  th: ไลบรารีการเข้ารหัสเอนโทรปีแบบปรับตัว
+  tr: Uyarlanabilir entropi kodlama kitaplığı
+  uk: Бібліотека адаптивного ентропійного кодування
+  vi: Thư viện mã hóa entropy thích ứng
 rule:
   arch/yay:
     cmd: yay -S libaec-git

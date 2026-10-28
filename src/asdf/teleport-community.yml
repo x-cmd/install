@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: Teleport 社区由使用 Teleport 在工作，家庭或任何需要提供安全的基础设施访问的情况组成
   en: The Teleport community is comprised of people using Teleport at work, home or any situation that needs to provide secure infrastructure access
+  cs: Komunita Teleport se skládá z lidí, kteří používají Teleport v práci, doma nebo v jakékoli situaci, která vyžaduje zabezpečený přístup k infrastruktuře
+  de: Die Teleport-Community besteht aus Menschen, die Teleport bei der Arbeit, zu Hause oder in jeder Situation verwenden, in der ein sicherer Infrastrukturzugriff erforderlich ist
+  es: La comunidad de Teleport está compuesta por personas que usan Teleport en el trabajo, en casa o en cualquier situación que requiera un acceso seguro a la infraestructura
+  fr: La communauté Teleport est composée de personnes qui utilisent Teleport au travail, à la maison ou dans toute situation nécessitant un accès sécurisé à l'infrastructure
+  id: Komunitas Teleport terdiri dari orang-orang yang menggunakan Teleport di tempat kerja, di rumah, atau dalam situasi apa pun yang memerlukan akses infrastruktur yang aman
+  it: La community Teleport è composta da persone che usano Teleport al lavoro, a casa o in qualsiasi situazione che richieda un accesso sicuro all'infrastruttura
+  ja: Teleport コミュニティは、職場や自宅、あるいは安全なインフラアクセスが必要なあらゆる場面で Teleport を使う人々で構成されています
+  ko: Teleport 커뮤니티는 업무, 집 또는 안전한 인프라 접근이 필요한 모든 상황에서 Teleport를 사용하는 사람들로 이루어져 있습니다
+  pl: Społeczność Teleport tworzą osoby korzystające z Teleport w pracy, w domu lub w każdej sytuacji wymagającej bezpiecznego dostępu do infrastruktury
+  pt: A comunidade Teleport é composta por pessoas que usam o Teleport no trabalho, em casa ou em qualquer situação que exija acesso seguro à infraestrutura
+  ro: Comunitatea Teleport este alcătuită din persoane care folosesc Teleport la lucru, acasă sau în orice situație care necesită acces securizat la infrastructură
+  ru: Сообщество Teleport состоит из людей, которые используют Teleport на работе, дома или в любой ситуации, требующей безопасного доступа к инфраструктуре
+  th: ชุมชน Teleport ประกอบด้วยผู้ที่ใช้ Teleport ในที่ทำงาน ที่บ้าน หรือในทุกสถานการณ์ที่ต้องการการเข้าถึงโครงสร้างพื้นฐานอย่างปลอดภัย
+  tr: Teleport topluluğu, Teleport'u işte, evde veya güvenli altyapı erişimi gereken her durumda kullanan kişilerden oluşur
+  uk: Спільнота Teleport складається з людей, які використовують Teleport на роботі, вдома або в будь-якій ситуації, що потребує безпечного доступу до інфраструктури
+  vi: Cộng đồng Teleport gồm những người sử dụng Teleport tại nơi làm việc, ở nhà hoặc trong bất kỳ tình huống nào cần truy cập hạ tầng an toàn
 x:
   source: https://github.com/gravitational/teleport
   asdf: teleport-community

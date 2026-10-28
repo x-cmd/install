@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Chef Infra 是一个功能强大的自动化平台，可将基础设施转换为代码
   en: Chef Infra is a powerful automation platform that transforms infrastructure into code
+  cs: Chef Infra je výkonná automatizační platforma, která převádí infrastrukturu na kód
+  de: Chef Infra ist eine leistungsstarke Automatisierungsplattform, die Infrastruktur in Code umwandelt
+  es: Chef Infra es una potente plataforma de automatización que transforma la infraestructura en código
+  fr: Chef Infra est une plateforme d'automatisation puissante qui transforme l'infrastructure en code
+  id: Chef Infra adalah platform otomatisasi yang kuat untuk mengubah infrastruktur menjadi kode
+  it: Chef Infra è una potente piattaforma di automazione che trasforma l'infrastruttura in codice
+  ja: Chef Infra はインフラストラクチャをコードに変換する強力な自動化プラットフォームです
+  ko: Chef Infra는 인프라를 코드로 변환하는 강력한 자동화 플랫폼입니다
+  pl: Chef Infra to potężna platforma automatyzacji, która zamienia infrastrukturę w kod
+  pt: Chef Infra é uma plataforma de automação poderosa que transforma a infraestrutura em código
+  ro: Chef Infra este o platformă puternică de automatizare care transformă infrastructura în cod
+  ru: Chef Infra — мощная платформа автоматизации, превращающая инфраструктуру в код
+  th: Chef Infra เป็นแพลตฟอร์มอัตโนมัติอันทรงพลังที่เปลี่ยนโครงสร้างพื้นฐานให้เป็นโค้ด
+  tr: Chef Infra, altyapıyı koda dönüştüren güçlü bir otomasyon platformudur
+  uk: Chef Infra — потужна платформа автоматизації, яка перетворює інфраструктуру на код
+  vi: Chef Infra là nền tảng tự động hóa mạnh mẽ biến hạ tầng thành mã
 x:
   source: https://github.com/chef/chef
   apt: apt-transport-https

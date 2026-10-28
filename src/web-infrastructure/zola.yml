@@ -4,6 +4,22 @@ license: EUPL-1.2
 desc:
   cn: 单个二进制中的快速静态站点生成器，所有内容都内置
   en: A fast static site generator in a single binary with everything built-in
+  cs: Rychlý generátor statických webů v jediném binárním souboru s vestavěnými funkcemi
+  de: Ein schneller Generator für statische Websites in einer einzigen Binärdatei mit allem eingebaut
+  es: Un rápido generador de sitios estáticos en un único binario con todo integrado
+  fr: Un générateur de sites statiques rapide dans un seul binaire, tout intégré
+  id: Generator situs statis cepat dalam satu biner dengan semua sudah bawaan
+  it: Un rapido generatore di siti statici in un unico binario con tutto integrato
+  ja: すべての機能が組み込まれた単一バイナリの高速静的サイトジェネレーター
+  ko: 모든 기능이 내장된 단일 바이너리 기반의 빠른 정적 사이트 생성기
+  pl: Szybki generator stron statycznych w jednym pliku binarnym z wszystkimi funkcjami wbudowanymi
+  pt: Um gerador rápido de sites estáticos em um único binário com tudo embutido
+  ro: Un generator rapid de site-uri statice într-un singur binar, cu totul integrat
+  ru: Быстрый генератор статических сайтов в одном бинарном файле со всеми встроенными возможностями
+  th: ตัวสร้างเว็บไซต์แบบคงที่ที่รวดเร็วในไบนารีไฟล์เดียว พร้อมคุณสมบัติครบถ้วน
+  tr: Her şey dahil, tek bir ikili dosyada hızlı statik site oluşturucu
+  uk: Швидкий генератор статичних сайтів в одному бінарному файлі з усіма вбудованими можливостями
+  vi: Trình tạo trang tĩnh nhanh trong một tệp nhị phân duy nhất với mọi thứ tích hợp sẵn
 x:
   source: https://github.com/getzola/zola
   eget: getzola/zola

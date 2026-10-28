@@ -3,6 +3,22 @@ homepage: https://github.com/postgres/postgres
 desc:
   cn: PostgreSQL 是一个功能强大的开源对象关系数据库系统
   en: PostgreSQL is a powerful, open source object-relational database system
+  cs: PostgreSQL je výkonný open source objektově-relační databázový systém
+  de: PostgreSQL ist ein leistungsfähiges Open-Source-Objekt-Relational-Datenbanksystem
+  es: PostgreSQL es un potente sistema de base de datos objeto-relacional de código abierto
+  fr: PostgreSQL est un système de base de données objet-relationnel open source puissant
+  id: PostgreSQL adalah sistem basis data objek-relasional open source yang kuat
+  it: PostgreSQL è un potente sistema di gestione di database relazionali a oggetti open source
+  ja: PostgreSQL は強力なオープンソースのオブジェクトリレーショナルデータベースシステムです
+  ko: PostgreSQL은 강력한 오픈 소스 객체 관계형 데이터베이스 시스템입니다
+  pl: PostgreSQL to potężny, open source'owy obiektowo-relacyjny system baz danych
+  pt: O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de código aberto
+  ro: PostgreSQL este un puternic sistem de baze de date obiect-relational open source
+  ru: PostgreSQL — мощная объектно-реляционная система управления базами данных с открытым исходным кодом
+  th: PostgreSQL คือระบบฐานข้อมูลเชิงวัตถุ-สัมพันธ์แบบโอเพนซอร์สที่ทรงพลัง
+  tr: PostgreSQL, güçlü, açık kaynaklı bir nesne-ilişkisel veritabanı sistemidir
+  uk: PostgreSQL — потужна об'єктно-реляційна система керування базами даних з відкритим кодом
+  vi: PostgreSQL là một hệ quản trị cơ sở dữ liệu quan hệ-đối tượng mã nguồn mở mạnh mẽ
 x:
   source: https://github.com/postgres/postgres
   dnf: postgresql-server

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: frp 是一个快速的反向代理工具，允许你将位于 NAT 或防火墙后面的本地服务器暴露到互联网上
   en: frp is a fast reverse proxy that allows you to expose a local server located behind a NAT or firewall to the Internet
+  cs: frp je rychlý reverzní proxy, který vám umožňuje vystavit lokální server za NAT nebo firewallem na internet
+  de: frp ist ein schneller Reverse Proxy, mit dem Sie einen lokalen Server hinter NAT oder Firewall im Internet veröffentlichen können
+  es: frp es un proxy inverso rápido que te permite exponer a Internet un servidor local situado detrás de una NAT o un firewall
+  fr: frp est un proxy inverse rapide qui vous permet d'exposer sur Internet un serveur local situé derrière un NAT ou un pare-feu
+  id: frp adalah proxy balik cepat yang memungkinkan Anda mengekspos server lokal di balik NAT atau firewall ke Internet
+  it: frp è un proxy inverso veloce che ti permette di esporre su Internet un server locale situato dietro un NAT o un firewall
+  ja: frp は高速なリバースプロキシで、NAT やファイアウォールの内側にあるローカルサーバーをインターネットに公開できます
+  ko: frp는 빠른 역방향 프록시로, NAT나 방화벽 뒤에 있는 로컬 서버를 인터넷에 노출할 수 있게 해줍니다
+  pl: frp to szybki odwrotny proxy, który pozwala udostępnić w Internecie lokalny serwer znajdujący się za NAT lub zaporem ogniowym
+  pt: frp é um proxy reverso rápido que permite expor na Internet um servidor local localizado atrás de um NAT ou firewall
+  ro: frp este un proxy invers rapid care vă permite să expuneți pe Internet un server local situat în spatele unui NAT sau firewall
+  ru: frp — быстрый обратный прокси, позволяющий выставить в Интернет локальный сервер, находящийся за NAT или брандмауэром
+  th: frp คือ reverse proxy ที่รวดเร็ว ช่วยให้คุณเปิดเผยเซิร์ฟเวอร์ในเครื่องที่อยู่หลัง NAT หรือไฟร์วอลล์สู่อินเทอร์เน็ตได้
+  tr: frp, NAT veya güvenlik duvarının arkasındaki yerel sunucuyu internete açmanıza olanak tanıyan hızlı bir reverse proxy'dir
+  uk: frp — швидкий зворотний проксі, який дозволяє відкрити в Інтернеті локальний сервер, що розташований за NAT або брандмауером
+  vi: frp là proxy ngược nhanh cho phép bạn phơi bày server cục bộ đặt sau NAT hoặc tường lửa ra Internet
 x:
   source: https://github.com/fatedier/frp
   eget: fatedier/frp

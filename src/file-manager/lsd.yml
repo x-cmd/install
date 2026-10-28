@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 下一代 ls 命令
   en: The next gen ls command
+  cs: Příkaz ls další generace
+  de: Der ls-Befehl der nächsten Generation
+  es: El comando ls de nueva generación
+  fr: La commande ls de nouvelle génération
+  id: Perintah ls generasi berikutnya
+  it: Il comando ls di nuova generazione
+  ja: 次世代の ls コマンド
+  ko: 차세대 ls 명령
+  pl: Polecenie ls następnej generacji
+  pt: O comando ls de nova geração
+  ro: Comanda ls de nouă generație
+  ru: Команда ls следующего поколения
+  th: คำสั่ง ls รุ่นถัดไป
+  tr: Yeni nesil ls komutu
+  uk: Команда ls наступного покоління
+  vi: Lệnh ls thế hệ tiếp theo
 x:
   source: https://github.com/lsd-rs/lsd
   eget: lsd-rs/lsd

@@ -3,6 +3,22 @@ homepage: https://github.com/CGAL/cgal
 desc:
   cn: 计算几何算法库(cgAL)是一个 c + + 库，旨在提供方便的访问高效可靠的计算几何算法的途径
   en: The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
+  cs: Knihovna algoritmů výpočetní geometrie (CGAL) je knihovna C++, která má poskytovat snadný přístup k efektivním a spolehlivým algoritmům výpočetní geometrie
+  de: Die Computational Geometry Algorithms Library (CGAL) ist eine C++-Bibliothek, die einfachen Zugang zu effizienten und zuverlässigen Algorithmen der Computergometrie bieten soll
+  es: La biblioteca de algoritmos de geometría computacional (CGAL) es una biblioteca de C++ que busca ofrecer acceso fácil a algoritmos eficientes y fiables de geometría computacional
+  fr: La Computational Geometry Algorithms Library (CGAL) est une bibliothèque C++ qui vise à offrir un accès facile à des algorithmes efficaces et fiables de géométrie algorithmique
+  id: Computational Geometry Algorithms Library (CGAL) adalah pustaka C++ yang bertujuan menyediakan akses mudah ke algoritma geometri komputasi yang efisien dan andal
+  it: La Computational Geometry Algorithms Library (CGAL) è una libreria C++ che mira a fornire un accesso facile ad algoritmi efficienti e affidabili di geometria computazionale
+  ja: Computational Geometry Algorithms Library (CGAL) は、計算幾何アルゴリズムへ簡単かつ便利にアクセスできるようにすることを目的とした C++ ライブラリです
+  ko: Computational Geometry Algorithms Library(CGAL)는 계산 기하 알고리즘에 쉽고 편리하게 접근할 수 있도록 설계된 C++ 라이브러리입니다
+  pl: Biblioteka algorytmów geometrii obliczeniowej (CGAL) to biblioteka C++, która ma zapewniać łatwy dostęp do wydajnych i niezawodnych algorytmów geometrii obliczeniowej
+  pt: A Computational Geometry Algorithms Library (CGAL) é uma biblioteca C++ que visa facilitar o acesso a algoritmos de geometria computacional eficientes e confiáveis
+  ro: Computational Geometry Algorithms Library (CGAL) este o bibliotecă C++ care urmărește să ofere acces ușor la algoritmi eficienți și fiabili de geometrie computațională
+  ru: Computational Geometry Algorithms Library (CGAL) — это библиотека C++, предназначенная для удобного доступа к эффективным и надёжным алгоритмам вычислительной геометрии
+  th: Computational Geometry Algorithms Library (CGAL) คือไลบรารี C++ ที่มีจุดประสงค์เพื่อให้เข้าถึงอัลกอริทึมทางเรขาคณิตเชิงคำนวณที่มีประสิทธิภาพและเชื่อถือได้ได้อย่างง่ายดาย
+  tr: Computational Geometry Algorithms Library (CGAL), hesaplamalı geometrideki etkin ve güvenilir algoritmalara kolay erişim sağlamayı amaçlayan bir C++ kitaplığıdır
+  uk: Computational Geometry Algorithms Library (CGAL) — це бібліотека C++, яка має забезпечувати зручний доступ до ефективних і надійних алгоритмів обчислювальної геометрії
+  vi: Computational Geometry Algorithms Library (CGAL) là thư viện C++ nhằm cung cấp khả năng truy cập dễ dàng vào các thuật toán hình học tính toán hiệu quả và đáng tin cậy
 x:
   source: https://github.com/CGAL/cgal
   eget: CGAL/cgal

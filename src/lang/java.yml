@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Java 是一种编程语言和计算平台，由 Sun Microsystems 于 1995 年首次发布
   en: Java is a programming language and computing platform first released by Sun Microsystems in 1995
+  cs: Java je programovací jazyk a výpočetní platforma, poprvé vydaná společností Sun Microsystems v roce 1995
+  de: Java ist eine Programmiersprache und Rechenplattform, die erstmals 1995 von Sun Microsystems veröffentlicht wurde
+  es: Java es un lenguaje de programación y una plataforma de cómputo publicada por primera vez por Sun Microsystems en 1995
+  fr: Java est un langage de programmation et une plateforme de calcul publiée pour la première fois par Sun Microsystems en 1995
+  id: Java adalah bahasa pemrograman dan platform komputasi yang pertama kali dirilis oleh Sun Microsystems pada 1995
+  it: Java è un linguaggio di programmazione e una piattaforma di calcolo rilasciata per la prima volta da Sun Microsystems nel 1995
+  ja: Java はプログラミング言語であり計算プラットフォームで、1995 年に Sun Microsystems が初めて公开发表しました
+  ko: Java는 프로그래밍 언어이자 컴퓨팅 플랫폼으로, 1995년에 Sun Microsystems가 처음 출시했습니다
+  pl: Java to język programowania i platforma obliczeniowa, po raz pierwszy wydana przez Sun Microsystems w 1995 roku
+  pt: Java é uma linguagem de programação e uma plataforma de computação lançada pela primeira vez pela Sun Microsystems em 1995
+  ro: Java este un limbaj de programare și o platformă de calcul lansată pentru prima dată de Sun Microsystems în 1995
+  ru: Java — язык программирования и вычислительная платформа, впервые выпущенная Sun Microsystems в 1995 году
+  th: Java เป็นภาษาโปรแกรมและแพลตฟอร์มการคำนวณ ที่เปิดตัวครั้งแรกโดย Sun Microsystems ในปี 1995
+  tr: Java, ilk kez 1995 yılında Sun Microsystems tarafından yayımlanan bir programlama dili ve işlem platformudur
+  uk: Java — мова програмування та обчислювальна платформа, вперше випущена Sun Microsystems у 1995 році
+  vi: Java là một ngôn ngữ lập trình và nền tảng tính toán, lần đầu được Sun Microsystems phát hành năm 1995
 x:
   source: https://github.com/openjdk/jdk
   apt: java

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 直接在终端管理 Obsidian 笔记的 TUI 应用
   en: 'TUI Application to manage Obsidian notes directly from the terminal'
+  cs: TUI aplikace pro správu poznámek Obsidian přímo z terminálu
+  de: Eine TUI-Anwendung zum Verwalten von Obsidian-Notizen direkt aus dem Terminal
+  es: Una aplicación TUI para gestionar notas de Obsidian directamente desde la terminal
+  fr: Une application TUI pour gérer les notes Obsidian directement depuis le terminal
+  id: Aplikasi TUI untuk mengelola catatan Obsidian langsung dari terminal
+  it: Un'applicazione TUI per gestire le note di Obsidian direttamente dal terminale
+  ja: ターミナルから直接 Obsidian のノートを管理する TUI アプリケーション
+  ko: 터미널에서 직접 Obsidian 노트를 관리하는 TUI 애플리케이션입니다
+  pl: Aplikacja TUI do zarządzania notatkami Obsidian bezpośrednio z terminala
+  pt: Um aplicativo TUI para gerenciar notas do Obsidian diretamente do terminal
+  ro: O aplicație TUI pentru gestionarea notițelor Obsidian direct din terminal
+  ru: TUI-приложение для управления заметками Obsidian прямо из терминала
+  th: แอปพลิเคชัน TUI สำหรับจัดการบันทึก Obsidian โดยตรงจากเทอร์มินัล
+  tr: Obsidian notlarını doğrudan terminalden yönetmek için bir TUI uygulaması.
+  uk: TUI-застосунок для керування ночатками Obsidian прямо з термінала
+  vi: Ứng dụng TUI để quản lý ghi chú Obsidian ngay trong terminal
 x:
   source: https://github.com/erikjuhani/basalt
   eget: erikjuhani/basalt

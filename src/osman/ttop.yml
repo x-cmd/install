@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一款具有历史数据服务、触发器和类似 top 的 TUI 系统监控工具。
   en: System monitoring tool with historical data service, triggers and top-like TUI
+  cs: Nástroj pro monitorování systému s historií dat, spouštěči a TUI podobným top
+  de: Systemüberwachungstool mit Verlaufsdatendienst, Triggern und top-ähnlicher TUI
+  es: Herramienta de monitorización del sistema con servicio de datos históricos, disparadores y una TUI similar a top
+  fr: Outil de surveillance du système avec service de données historiques, déclencheurs et TUI similaire à top
+  id: Alat pemantauan sistem dengan layanan data historis, pemicu, dan TUI mirip top
+  it: Strumento di monitoraggio del sistema con servizio dati storici, trigger e TUI simile a top
+  ja: 履歴データサービス、トリガー、top 風 TUI を備えたシステムモニタリングツール
+  ko: 히스토리 데이터 서비스, 트리거, top과 유사한 TUI를 갖춘 시스템 모니터링 도구
+  pl: Narzędzie do monitorowania systemu z usługą danych historycznych, wyzwalaczami i TUI podobnym do top
+  pt: Ferramenta de monitoramento do sistema com serviço de dados históricos, gatilhos e TUI semelhante ao top
+  ro: Instrument de monitorizare a sistemului cu serviciu de date istorice, declanșatori și TUI asemănător cu top
+  ru: Инструмент мониторинга системы с сервисом исторических данных, триггерами и TUI, похожей на top
+  th: เครื่องมือตรวจสอบระบบที่มีบริการข้อมูลย้อนหลัง ทริกเกอร์ และ TUI คล้าย top
+  tr: Geçmiş veri servisi, tetikleyiciler ve top benzeri TUI ile sistem izleme aracı
+  uk: Інструмент моніторингу системи з сервісом історичних даних, тригерами та TUI, схожою на top
+  vi: Công cụ giám sát hệ thống với dịch vụ dữ liệu lịch sử, bộ kích hoạt và TUI tương tự top
 x:
   source: https://github.com/inv2004/ttop
   eget: inv2004/ttop

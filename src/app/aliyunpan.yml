@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: The command-line client of Alibaba Cloud Disk supports JavaScript plug-ins and synchronous backups
   cn: 阿里云盘命令行客户端，支持 JavaScript 插件，支持同步备份功能
+  cs: Příkazový klient Alibaba Cloud Disk podporuje pluginy JavaScriptu a synchronizované zálohy
+  de: Die Kommandozeilenanwendung von Alibaba Cloud Disk unterstützt JavaScript-Plugins und synchrone Backups
+  es: El cliente de línea de comandos de Alibaba Cloud Disk admite complementos de JavaScript y copias de seguridad sincronizadas
+  fr: Le client en ligne de commande d'Alibaba Cloud Disk prend en charge les plugins JavaScript et les sauvegardes synchronisées
+  id: Klien baris perintah Alibaba Cloud Disk mendukung plugin JavaScript dan cadangan tersinkronisasi
+  it: Il client della riga di comando di Alibaba Cloud Disk supporta i plugin JavaScript e i backup sincronizzati
+  ja: Alibaba Cloud Disk のコマンドラインクライアントは JavaScript プラグインと同期バックアップに対応しています
+  ko: Alibaba Cloud Disk의 명령줄 클라이언트는 JavaScript 플러그인과 동기화 백업을 지원합니다
+  pl: Klient wiersza poleceń Alibaba Cloud Disk obsługuje wtyczki JavaScript i synchronizowane kopie zapasowe
+  pt: O cliente de linha de comando do Alibaba Cloud Disk oferece suporte a plug-ins JavaScript e backups sincronizados
+  ro: Clientul de linie de comandă al Alibaba Cloud Disk acceptă pluginuri JavaScript și copii de rezervă sincronizate
+  ru: Командный клиент Alibaba Cloud Disk поддерживает плагины JavaScript и синхронное резервное копирование
+  th: ไคลเอนต์บรรทัดคำสั่งของ Alibaba Cloud Disk รองรับปลั๊กอิน JavaScript และการสำรองข้อมูลแบบซิงค์
+  tr: Alibaba Cloud Disk komut satırı istemcisi JavaScript eklentilerini ve eşzamanlı yedeklemeyi destekler
+  uk: Командний клієнт Alibaba Cloud Disk підтримує плагіни JavaScript і синхронне резервне копіювання
+  vi: Máy khách dòng lệnh của Alibaba Cloud Disk hỗ trợ plugin JavaScript và sao lưu đồng bộ
 x:
   source: https://github.com/tickstep/aliyunpan
   eget: tickstep/aliyunpan

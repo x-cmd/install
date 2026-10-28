@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 管理多个远程服务器并远程执行命令
   en: Manage multiple remote servers and execute commands remotely
+  cs: Spravuje více vzdálených serverů a provádí na nich příkazy
+  de: Verwaltet mehrere Remote-Server und führt Befehle auf ihnen aus
+  es: Gestiona varios servidores remotos y ejecuta comandos de forma remota
+  fr: Gère plusieurs serveurs distants et y exécute des commandes à distance
+  id: Mengelola beberapa server jarak jauh dan menjalankan perintah secara remote
+  it: Gestisce più server remoti ed esegue comandi in remoto
+  ja: 複数のリモートサーバーを管理し、リモートでコマンドを実行します
+  ko: 여러 원격 서버를 관리하고 원격으로 명령을 실행합니다
+  pl: Zarządza wieloma serwerami zdalnymi i wykonuje na nich polecenia
+  pt: Gerencia vários servidores remotos e executa comandos remotamente
+  ro: Gestionează mai multe servere la distanță și execută comenzi de la distanță
+  ru: Управляет несколькими удалёнными серверами и выполняет на них команды
+  th: จัดการเซิร์ฟเวอร์ระยะไกลหลายเครื่องและรันคำสั่งจากระยะไกล
+  tr: Birden fazla uzak sunucuyu yönetir ve komutları uzaktan çalıştırır
+  uk: Керує кількома віддаленими серверами та виконує на них команди
+  vi: Quản lý nhiều máy chủ từ xa và thực thi lệnh từ xa
 x:
   source: https://github.com/txthinking/hancock
   eget: txthinking/hancock

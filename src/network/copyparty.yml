@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 便携式文件服务器，具有加速可恢复上传、重复数据删除、WebDAV、FTP、TFTP、零配置、媒体索引器、缩略图++ 等功能，全部包含在一个文件中，无依赖项
   en: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+  cs: Přenosný souborový server s akcelerovanými obnovitelnými nahráváními, deduplikací, WebDAV, FTP, TFTP, zeroconf, indexerem médií, miniaturami a dalšími funkcemi v jediném souboru bez závislostí
+  de: Tragbarer Dateiserver mit beschleunigten fortsetzbaren Uploads, Deduplizierung, WebDAV, FTP, TFTP, Zeroconf, Medienindexer, Miniaturbilder und mehr – alles in einer Datei, ohne Abhängigkeiten
+  es: Servidor de archivos portátil con subidas reanudables aceleradas, deduplicación, WebDAV, FTP, TFTP, zeroconf, indexador de medios, miniaturas y mucho más, todo en un solo archivo y sin dependencias
+  fr: Serveur de fichiers portable avec téléversements reanudables accélérés, déduplication, WebDAV, FTP, TFTP, zeroconf, indexeur de médias, vignettes et plus, le tout dans un seul fichier, sans dépendances
+  id: Server file portabel dengan unggahan yang dapat dilanjutkan lebih cepat, deduplikasi, WebDAV, FTP, TFTP, zeroconf, pengindeks media, thumbnail, dan banyak lagi dalam satu berkas tanpa dependensi
+  it: File server portatile con caricamenti riprendibili accelerati, deduplicazione, WebDAV, FTP, TFTP, zeroconf, indicizzatore multimediale, miniature e altro, tutto in un unico file senza dipendenze
+  ja: 加速された再開可能アップロード、重複排除、WebDAV、FTP、TFTP、zeroconf、メディアインデクサー、サムネイルなどを外部依存なしで単一ファイルにまとめたポータブルファイルサーバー
+  ko: 가속된 재개 가능 업로드, 중복 제거, WebDAV, FTP, TFTP, zeroconf, 미디어 인덱서, 썸네일 등을 하나의 파일에 담은 의존성 없는 휴대용 파일 서버
+  pl: Przenośny serwer plików z przyspieszonymi wznawianymi przesyłaniami, deduplikacją, WebDAV, FTP, TFTP, zeroconf, indekserem mediów, miniaturami i nie tylko — wszystko w jednym pliku, bez zależności
+  pt: Servidor de arquivos portátil com uploads retomáveis acelerados, deduplicação, WebDAV, FTP, TFTP, zeroconf, indexador de mídia, miniaturas e muito mais, tudo em um único arquivo, sem dependências
+  ro: Server de fișiere portabil cu încărcări reluabile accelerate, deduplicare, WebDAV, FTP, TFTP, zeroconf, indexator media, miniaturi și multe altele, toate într-un singur fișier, fără dependențe
+  ru: Переносимый файловый сервер с ускоренной докачкой, дедупликацией, WebDAV, FTP, TFTP, zeroconf, индексером медиа, миниатюрами и многим другим — всё в одном файле, без зависимостей
+  th: เซิร์ฟเวอร์ไฟล์แบบพกพา พร้อมอัปโหลดแบบเล่นต่อได้ที่เร่งความเร็ว, การลบข้อมูลซ้ำ, WebDAV, FTP, TFTP, zeroconf, ตัวทำดัญชีสื่อ, ภาพขนาดย่อ และอื่น ๆ ทั้งหมดในไฟล์เดียว ไม่มีการพึ่งพา
+  tr: Hızlandırılmış devam ettirilebilir yüklemeler, tekilleştirme, WebDAV, FTP, TFTP, zeroconf, medya dizinleyici, küçük resimler ve fazlası dahil, bağımlılık olmadan tek dosyada taşınabilir dosya sunucusu
+  uk: Портативний файловий сервер із прискореним дозавантаженням, дедуплікацією, WebDAV, FTP, TFTP, zeroconf, медіаіндексером, мініатюрами тощо — усе в одному файлі, без залежностей
+  vi: Máy chủ tệp di động với tải lên có thể tiếp tục được tăng tốc, khử trùng lặp, WebDAV, FTP, TFTP, zeroconf, trình lập chỉ mục media, hình thu nhỏ và nhiều hơn, tất cả trong một tệp, không phụ thuộc
 x:
   source: https://github.com/9001/copyparty
   eget: 9001/copyparty

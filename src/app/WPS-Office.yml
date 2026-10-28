@@ -3,6 +3,22 @@ homepage: https://www.wps.com/
 desc:
   en: WPS Office is a lightweight, feature-rich comprehensive office suite with high compatibility
   cn: WPS Office 是一个轻量级、功能丰富、具有高兼容性的综合办公套件
+  cs: WPS Office je lehký, funkčně bohatý a vysoce kompatibilní komplexní kancelářský balíček
+  de: WPS Office ist eine schlanke, funktionsreiche und hochkompatible Office-Suite
+  es: WPS Office es una suite ofimática integral ligera, rica en funciones y con alta compatibilidad
+  fr: WPS Office est une suite bureautique complète, légère, riche en fonctionnalités et très compatible
+  id: WPS Office adalah perangkat lunak perkantoran menyeluruh yang ringan, kaya fitur, dan sangat kompatibel
+  it: WPS Office è una suite per ufficio completa, leggera, ricca di funzionalità e altamente compatibile
+  ja: WPS Office は軽量で機能豊富、互換性の高い総合的なオフィススイートです
+  ko: WPS Office는 가볍고 기능이 풍부하며 호환성이 높은 종합 오피스 스위트입니다
+  pl: WPS Office to lekki, bogaty w funkcje i wysoce kompatybilny kompleksowy pakiet biurowy
+  pt: O WPS Office é um conjunto de escritório leve, rico em recursos e com alta compatibilidade
+  ro: WPS Office este o suită de birou completă, ușoară, bogată în funcții și cu compatibilitate ridicată
+  ru: WPS Office — лёгкий, функциональный и высоко совместимый комплексный офисный пакет
+  th: WPS Office คือชุดโปรแกรมสำนักงานครบวงจรที่เบา มีฟีเจอร์หลากหลาย และมีความเข้ากันได้สูง
+  tr: WPS Office, hafif, özellik zengin ve yüksek uyumluluğa sahip kapsamlı bir ofis paketidir
+  uk: WPS Office — легкий, функціональний і високосумісний комплексний офісний пакет
+  vi: WPS Office là bộ ứng dụng văn phòng toàn diện, nhẹ, giàu tính năng và có tính tương thích cao
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install extras/wpsoffice

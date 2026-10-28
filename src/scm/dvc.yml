@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: DVC 是利用现有软件工程工具集的数据科学工具
   en: DVC is a tool for data science that takes advantage of existing software engineering toolset
+  cs: DVC je nástroj pro datovou vědu, který využívá existující sadu nástrojů softwarového inženýrství
+  de: DVC ist ein Werkzeug für Data Science, das vorhandene Software-Engineering-Toolsets nutzt
+  es: DVC es una herramienta para ciencia de datos que aprovecha el conjunto de herramientas de ingeniería de software existente
+  fr: DVC est un outil de science des données qui exploite un ensemble d'outils d'ingénierie logicielle existant
+  id: DVC adalah alat untuk ilmu data yang memanfaatkan perangkatolate rekayasa perangkat lunak yang sudah ada
+  it: DVC è uno strumento per la data science che sfrutta l'esistente set di strumenti di ingegneria del software
+  ja: DVCは既存のソフトウェアエンジニアリングツール群を活用するデータサイエンスツールです
+  ko: DVC는 기존 소프트웨어 엔지니어링 도구 세트를 활용하는 데이터 사이언스 도구입니다
+  pl: DVC to narzędzie dla nauk o danych, które wykorzystuje istniejący zestaw narzędzi inżynierii oprogramowania
+  pt: DVC é uma ferramenta para ciência de dados que aproveita o conjunto de ferramentas de engenharia de software existente
+  ro: DVC este un instrument pentru știința datelor care profită de instrumentele existente de inginerie software
+  ru: DVC — это инструмент для науки о данных, использующий существующий набор инструментов software engineering
+  th: DVC เป็นเครื่องมือสำหรับวิทยาศาสตร์ข้อมูลที่ใช้ประโยชน์จากชุดเครื่องมือวิศวกรรมซอฟต์แวร์ที่มีอยู่แล้ว
+  tr: DVC, mevcut yazılım mühendisliği araç setinden yararlanan bir veri bilimi aracıdır
+  uk: DVC — це інструмент для науки про дані, що використовує наявний набір інструментів software engineering
+  vi: DVC là công cụ khoa học dữ liệu tận dụng bộ công cụ kỹ thuật phần mềm hiện có
 x:
   source: https://github.com/iterative/dvc
   brew: dvc

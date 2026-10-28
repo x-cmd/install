@@ -3,6 +3,22 @@ license: MIT
 desc:
   cn: 检查网络是否连通
   en: Check if the internet connection is up
+  cs: Zkontrolovat, zda je připojení k internetu aktivní
+  de: Prüfen, ob die Internetverbindung aktiv ist
+  es: Comprobar si la conexión a internet está activa
+  fr: Vérifier si la connexion Internet est active
+  id: Periksa apakah koneksi internet aktif
+  it: Verificare se la connessione a internet è attiva
+  ja: インターネット接続が有効かどうかを確認します
+  ko: 인터넷 연결이 활성 상태인지 확인
+  pl: Sprawdź, czy połączenie internetowe działa
+  pt: Verificar se a conexão com a internet está ativa
+  ro: Verifică dacă conexiunea la internet este activă
+  ru: Проверить, работает ли подключение к интернету
+  th: ตรวจสอบว่าการเชื่อมต่ออินเทอร์เน็ตทำงานหรือไม่
+  tr: İnternet bağlantısının açık olup olmadığını kontrol et
+  uk: Перевірити, чи активне з'єднання з інтернетом
+  vi: Kiểm tra xem kết nối internet có hoạt động hay không
 lang: JavaScript
 x:
   source: https://github.com/sindresorhus/is-online-cli#readme

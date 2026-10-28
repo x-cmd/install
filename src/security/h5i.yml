@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: h5i is a Rust web framework that unifies web development, Lean 4 formal verification and red teaming. Its CLI drives browser automation, HTTP security testing, reconnaissance and sandboxed AI agents.
   cn: h5i 是一个 Rust Web 框架，把 Web 开发、Lean 4 形式化验证和红队测试统一在一套可组合的框架中。它的 CLI 覆盖浏览器自动化、HTTP 安全测试、侦察以及沙箱化的 AI agent。
+  cs: h5i je Rust webový framework, který sjednocuje vývoj webu, formální verifikaci Lean 4 a red teamování. Jeho CLI řídí automatizaci prohlížeče, bezpečnostní testování HTTP, průzkum a sandboxované AI agenty.
+  de: h5i ist ein Rust-Web-Framework, das Webentwicklung, formale Verifikation mit Lean 4 und Red Teaming vereint. Seine CLI steuert Browser-Automatisierung, HTTP-Sicherheitstests, Aufklärung und sandboxierte KI-Agenten.
+  es: h5i es un framework web en Rust que unifica el desarrollo web, la verificación formal con Lean 4 y el red teaming. Su CLI gestiona la automatización del navegador, las pruebas de seguridad HTTP, el reconocimiento y los agentes de IA en sandbox.
+  fr: h5i est un framework web en Rust qui unifie le développement web, la vérification formelle Lean 4 et le red teaming. Sa CLI pilote l'automatisation du navigateur, les tests de sécurité HTTP, la reconnaissance et les agents IA isolés.
+  id: h5i adalah framework web Rust yang menyatukan pengembangan web, verifikasi formal Lean 4, dan red teaming. CLI-nya Mengkartalkan otomasi browser, pengujian keamanan HTTP, reconnaissance, dan agen AI bersandbox.
+  it: h5i è un framework web in Rust che unifica sviluppo web, verifica formale Lean 4 e red teaming. La sua CLI gestisce automazione del browser, test di sicurezza HTTP, ricognizione e agenti AI in sandbox.
+  ja: h5i は、Web 開発、Lean 4 による形式検証、レッドチーム手法を統合する Rust の Web フレームワークです。その CLI はブラウザ自動化、HTTP セキュリティテスト、偵察、サンドボックス化された AI エージェントを提供します。
+  ko: h5i는 웹 개발, Lean 4 형식 검증, 레드티밍을 통합하는 Rust 웹 프레임워크입니다. CLI는 브라우저 자동화, HTTP 보안 테스트, 정찰 및 샌드박스 AI 에이전트를 구동합니다.
+  pl: h5i to framework webowy w Rust, który łączy rozwój sieci, formalną weryfikację Lean 4 i red teaming. Jego CLI steruje automatyzacją przeglądarki, testami bezpieczeństwa HTTP, rozpoznaniem i agentami AI w piaskownicy.
+  pt: h5i é um framework web em Rust que unifica desenvolvimento web, verificação formal com Lean 4 e red teaming. Sua CLI controla automação de navegador, testes de segurança HTTP, reconhecimento e agentes de IA em sandbox.
+  ro: h5i este un framework web în Rust care unește dezvoltarea web, verificarea formală Lean 4 și red teaming. CLI-ul său conduce automatizarea browserului, testarea de securitate HTTP, recunoașterea și agenții AI izolați.
+  ru: h5i — это Rust-фреймворк для веба, объединяющий веб-разработку, формальную верификацию на Lean 4 и red teaming. Его CLI управляет автоматизацией браузера, тестированием безопасности HTTP, разведкой и изолированными ИИ-агентами.
+  th: h5i คือเฟรมเวิร์กเว็บภาษา Rust ที่รวมการพัฒนาเว็บ การพิสูจน์ความถูกต้องเชิงรูปแบบด้วย Lean 4 และการทดสอบแฮ็กสีแดง ไว้CLI ของมันขับเคลื่อนการทำงานอัตโนมัติของเบราว์เซอร์ การทดสอบความปลอดภัย HTTP การสำรวจเครือข่าย และเอเจนต์ AI ในแซนด์บ็อกซ์
+  tr: h5i, web geliştirmeyi, Lean 4 ile biçimsel doğrulamayı ve kırmızı takım testini birleştiren bir Rust web çerçevesidir. CLI'si tarayıcı otomasyonunu, HTTP güvenlik testlerini, keşfi ve sandbox içindeki yapay zekâ ajanlarını yönetir.
+  uk: h5i — це Rust-фреймворк для вебу, що об'єднує веброзробку, формальну верифікацію на Lean 4 та red teaming. Його CLI керує автоматизацією браузера, тестуванням безпеки HTTP, розвідкою та ізольованими ІІ-агентами.
+  vi: h5i là framework web bằng Rust hợp nhất phát triển web, kiểm chứng hình thức bằng Lean 4 và red teaming. CLI của nó điều khiển tự động hóa trình duyệt, kiểm thử bảo mật HTTP, trinh sát và các tác nhân AI trong sandbox.
 x:
   source: https://github.com/h5i-dev/h5i
   eget: h5i-dev/h5i

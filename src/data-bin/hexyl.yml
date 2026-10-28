@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 命令行十六进制查看器
   en: A command-line hex viewer
+  cs: Hexadecimální prohlížeč pro příkazovou řádku
+  de: Ein Hex-Betrachter für die Befehlszeile
+  es: Un visor hexadecimal de línea de comandos
+  fr: Un visualiseur hexadécimal en ligne de commande
+  id: Penampil heksadesimal untuk baris perintah
+  it: Un visualizzatore esadecimale da riga di comando
+  ja: コマンドラインヘクステビューア
+  ko: 명령줄용 16진수 뷰어
+  pl: Przeglądarka szesnastkowa dla wiersza poleceń
+  pt: Um visualizador hexadecimal de linha de comando
+  ro: Un vizualizator hexazecimal pentru linia de comandă
+  ru: Просмотрщик шестнадцатеричных данных для командной строки
+  th: เครื่องดูข้อมูลฐานสิบหกสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için onaltılık görüntüleyici
+  uk: Шістнадцятковий переглядач для командного рядка
+  vi: Trình xem hex cho dòng lệnh
 x:
   source: https://github.com/sharkdp/hexyl
   eget: sharkdp/hexyl

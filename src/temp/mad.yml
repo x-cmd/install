@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 为任何域名和 IP 签发证书
   en: Generate root CA and derivative certificate for any domains and any IPs
+  cs: Vystaví kořenovou CA a odvozené certifikáty pro libovolné domény a libovolné IP adresy
+  de: Erzeugt eine Root-CA und abgeleitete Zertifikate für beliebige Domains und beliebige IPs
+  es: Genera una CA raíz y certificados derivados para cualquier dominio y cualquier IP
+  fr: Génère une autorité de certification racine et des certificats dérivés pour n'importe quels domaines et n'importe quelles adresses IP
+  id: Membuat CA akar dan sertifikat turunan untuk domain apa pun dan IP apa pun
+  it: Genera una CA radice e certificati derivati per qualsiasi dominio e qualsiasi IP
+  ja: 任意のドメインと任意の IP に対してルート CA と派生証明書を発行します
+  ko: 모든 도메인과 모든 IP에 대해 루트 CA와 파생 인증서를 발급합니다
+  pl: Generuje urząd certyfikacji główny i certyfikaty pochodne dla dowolnych domen i dowolnych adresów IP
+  pt: Gera uma CA raiz e certificados derivados para quaisquer domínios e quaisquer IPs
+  ro: Generează o CA rădăcină și certificate derivate pentru orice domenii și orice adrese IP
+  ru: Выпускает корневой ЦС и производные сертификаты для любых доменов и любых IP-адресов
+  th: สร้าง CA รากและใบรับรองที่ได้รับสำหรับโดเมนใด ๆ และ IP ใด ๆ
+  tr: Herhangi bir alan adı ve IP için kök CA ve türetilmiş sertifika üretir
+  uk: Випускає кореневий ЦС та похідні сертифікати для будь-яких доменів і будь-яких IP-адрес
+  vi: Tạo CA gốc và chứng thư dẫn xuất cho mọi tên miền và mọi địa chỉ IP
 x:
   source: https://github.com/txthinking/mad
   eget: txthinking/mad

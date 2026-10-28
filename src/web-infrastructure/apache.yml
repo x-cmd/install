@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache HTTP 服务器项目致力于为现代操作系统（包括 UNIX 和 Windows）开发和维护开源 HTTP 服务器
   en: The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows
+  cs: Projekt Apache HTTP Server se snaží vyvíjet a udržovat open-source HTTP server pro moderní operační systémy včetně UNIX a Windows
+  de: Das Apache HTTP Server Project ist ein Bestreben, einen quelloffenen HTTP-Server für moderne Betriebssysteme einschließlich UNIX und Windows zu entwickeln und zu pflegen
+  es: El Proyecto Apache HTTP Server es un esfuerzo por desarrollar y mantener un servidor HTTP de código abierto para sistemas operativos modernos como UNIX y Windows
+  fr: Le projet Apache HTTP Server est un effort pour développer et maintenir un serveur HTTP open source pour les systèmes d'exploitation modernes, notamment UNIX et Windows
+  id: Proyek Apache HTTP Server adalah upaya untuk mengembangkan dan memelihara server HTTP sumber terbuka untuk sistem operasi modern termasuk UNIX dan Windows
+  it: Il progetto Apache HTTP Server è un'iniziativa per sviluppare e mantenere un server HTTP open source per i sistemi operativi moderni, tra cui UNIX e Windows
+  ja: Apache HTTP Server Project は、UNIX や Windows を含む近代的なオペレーティングシステム向けのオープンソース HTTP サーバの開発と保守を行っています
+  ko: Apache HTTP Server Project는 UNIX와 Windows를 포함한 현대 운영 체제를 위한 오픈소스 HTTP 서버를 개발하고 유지하는 프로젝트입니다
+  pl: Projekt Apache HTTP Server to dążenie do opracowywania i utrzymywania otwartego serwera HTTP dla nowoczesnych systemów operacyjnych, w tym UNIX i Windows
+  pt: O Projeto Apache HTTP Server é um esforço para desenvolver e manter um servidor HTTP de código aberto para sistemas operacionais modernos, incluindo UNIX e Windows
+  ro: Proiectul Apache HTTP Server este un efort de a dezvolta și menține un server HTTP open source pentru sisteme de operare moderne, inclusiv UNIX și Windows
+  ru: Проект Apache HTTP Server — это усилие по разработке и поддержке HTTP-сервера с открытым исходным кодом для современных операционных систем, включая UNIX и Windows
+  th: โครงการ Apache HTTP Server เป็นความพยายามในการพัฒนาและดูแลเซิร์ฟเวอร์ HTTP แบบโอเพนซอร์สสำหรับระบบปฏิบัติการสมัยใหม่ รวมถึง UNIX และ Windows
+  tr: Apache HTTP Server Projesi, UNIX ve Windows dahil modern işletim sistemleri için açık kaynaklı bir HTTP sunucusu geliştirmeyi ve sürdürmeyi amaçlayan bir çalışmadır
+  uk: Проєкт Apache HTTP Server — це зусилля щодо розробки та підтримки HTTP-сервера з відкритим кодом для сучасних операційних систем, зокрема UNIX і Windows
+  vi: Dự án Apache HTTP Server là nỗ lực phát triển và duy trì máy chủ HTTP mã nguồn mở cho các hệ điều hành hiện đại, bao gồm UNIX và Windows
 x:
   source: https://github.com/apache/httpd
   apt: apache2

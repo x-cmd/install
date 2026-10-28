@@ -4,6 +4,22 @@ license: 'GPL-2.0'
 desc:
   cn: 简化 Linux 开发者与 lore.kernel.org 归档补丁交互的 TUI
   en: 'patch-hub is a TUI that streamlines the interaction of Linux developers with patches archived on lore.kernel.org'
+  cs: patch-hub je TUI, které usnadňuje práci vývojářů Linuxu s patchi archivovanými na lore.kernel.org
+  de: patch-hub ist eine TUI, die die Interaktion von Linux-Entwicklern mit auf lore.kernel.org archivierten Patches vereinfacht
+  es: patch-hub es una TUI que agiliza la interacción de los desarrolladores de Linux con los parches archivados en lore.kernel.org
+  fr: patch-hub est une TUI qui simplifie l'interaction des développeurs Linux avec les correctifs archivés sur lore.kernel.org
+  id: patch-hub adalah TUI yang menyederhanakan interaksi pengembang Linux dengan patch yang diarsipkan di lore.kernel.org
+  it: patch-hub è una TUI che semplifica l'interazione degli sviluppatori Linux con le patch archiviate su lore.kernel.org
+  ja: patch-hub は、lore.kernel.org にアーカイブされたパッチと Linux 開発者がやり取りするのを簡素化する TUI です
+  ko: patch-hub는 lore.kernel.org에 보관된 패치와 Linux 개발자의 상호작용을 간소화하는 TUI입니다
+  pl: patch-hub to TUI ułatwiający pracę programistów Linuksa z poprawkami archiwizowanymi na lore.kernel.org
+  pt: patch-hub é uma TUI que facilita a interação de desenvolvedores Linux com patches arquivados no lore.kernel.org
+  ro: patch-hub este o TUI care facilitează interacțiunea dezvătorilor Linux cu patch-uri arhivate pe lore.kernel.org
+  ru: patch-hub — это TUI, упрощающий взаимодействие разработчиков Linux с патчами, архивированными на lore.kernel.org
+  th: patch-hub คือ TUI ที่ทำให้นักพัฒนา Linux ทำงานกับแพตช์ที่เก็บไว้ใน lore.kernel.org ได้ง่ายขึ้น
+  tr: patch-hub, Linux geliştiricilerinin lore.kernel.org'da arşivlenen yamalar ile etkileşimini kolaylaştıran bir TUI'dir
+  uk: patch-hub — це TUI, яка спрощує взаємодію розробників Linux із патчами, архівованими на lore.kernel.org
+  vi: patch-hub là một TUI giúp đơn giản hóa việc tương tác của nhà phát triển Linux với các bản vá được lưu trên lore.kernel.org
 x:
   source: https://github.com/kworkflow/patch-hub
   eget: kworkflow/patch-hub

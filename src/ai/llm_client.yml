@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向本地 LLM 的最简 Rust 接口，并从概率性 LLM 输出中提取确定性信号
   en: The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
+  cs: Nejjednodušší rozhraní Rust pro lokální LLM a rozhraní pro deterministické signály z pravděpodobnostních LLM
+  de: Die einfachste Rust-Schnittstelle für lokale LLMs und eine Schnittstelle für deterministische Signale aus probabilistischen LLM-Vibes
+  es: La interfaz Rust más sencilla para LLM locales y una interfaz para señales deterministas a partir de vibras de LLM probabilísticos
+  fr: L'interface Rust la plus simple pour les LLM locaux et une interface pour les signaux déterministes issus des vibes probabilistes des LLM
+  id: Antarmuka Rust termudah untuk LLM lokal dan antarmuka untuk sinyal deterministik dari getaran LLM probabilistik
+  it: L'interfaccia Rust più semplice per gli LLM locali e un'interfaccia per segnali deterministici dalle vibrazioni probabilistiche degli LLM
+  ja: ローカル LLM 向けの最も簡単な Rust インターフェースと、確率的 LLM のpirationから決定論的シグナルを取り出すインターフェース
+  ko: 로컬 LLM을 위한 가장 쉬운 Rust 인터페이스이자 확률적 LLM 바이브에서 결정적 신호를 얻는 인터페이스
+  pl: Najprostszy interfejs Rust dla lokalnych LLM i interfejs do deterministycznych sygnałów z probabilistycznych wibracji LLM
+  pt: A interface Rust mais simples para LLMs locais e uma interface para sinais determinísticos a partir de vibes de LLMs probabilísticos
+  ro: Cea mai simplă interfață Rust pentru LLM-uri locale și o interfață pentru semnale deterministe din vibrații probabilistice de LLM
+  ru: Самый простой интерфейс Rust для локальных LLM и интерфейс для детерминированных сигналов из вероятностных LLM
+  th: อินเทอร์เฟซ Rust ที่ง่ายที่สุดสำหรับ LLM ในเครื่อง และอินเทอร์เฟซสำหรับสัญญาณเชิงกำหนดจาก LLM ที่มีความน่าจะเป็น
+  tr: Yerel LLM'ler için en kolay Rust arayüzü ve olasılıksal LLM'lerden deterministik sinyaller almak için bir arayüz
+  uk: Найпростіший інтерфейс Rust для локальних LLM та інтерфейс для детермінованих сигналів із ймовірнісних LLM
+  vi: Giao diện Rust dễ dùng nhất cho LLM cục bộ và giao diện cho các tín hiệu xác định từ LLM xác suất
 x:
   source: https://github.com/ShelbyJenkins/llm_client
   eget: ShelbyJenkins/llm_client

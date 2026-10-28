@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: lsr 本质上就是 ls 但添加了颜色和排序功能，但可用 lua 进行配置
   en: basically `ls` but `lsr`, and configurable with lua!
+  cs: V podstatě `ls`, ale `lsr`, a konfigurovatelný pomocí lua!
+  de: Im Grunde `ls`, aber `lsr`, und mit lua konfigurierbar!
+  es: Básicamente `ls` pero `lsr`, y configurable con lua!
+  fr: En gros `ls` mais `lsr`, et configurable avec lua !
+  id: Intinya `ls` tapi `lsr`, dan dapat dikonfigurasi dengan lua!
+  it: Praticamente `ls` ma `lsr`, e configurabile con lua!
+  ja: ほぼ `ls` ですが `lsr` で、lua で設定変更できます!
+  ko: 사실상 `ls`인데 `lsr`이며, lua로 설정할 수 있습니다!
+  pl: W zasadzie `ls`, ale `lsr`, konfigurowalny za pomocą lua!
+  pt: Basicamente `ls` mas `lsr`, e configurável com lua!
+  ro: În esență `ls`, dar `lsr`, și configurabil cu lua!
+  ru: По сути `ls`, но `lsr`, и настраивается через lua!
+  th: โดยพื้นฐานคือ `ls` แต่เป็น `lsr` และตั้งค่าได้ด้วย lua!
+  tr: Temelde `ls` ama `lsr`, ve lua ile yapılandırılabilir!
+  uk: Фактично `ls`, але `lsr`, і налаштовується через lua!
+  vi: Về cơ bản là `ls` nhưng `lsr`, và có thể cấu hình bằng lua!
 x:
   source: https://github.com/jmattaa/laser
   yay: laser-git

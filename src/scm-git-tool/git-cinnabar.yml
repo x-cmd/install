@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Git-cinnabar 是一个与仓库交互的 git 远程助手
   en: Git-cinnabar is a git remote helper to interact with mercurial repositories
+  cs: Git-cinnabar je git remote helper pro práci s repozitáři mercurial
+  de: Git-cinnabar ist ein git remote helper zur Interaktion mit mercurial-Repositories
+  es: Git-cinnabar es un helper remoto de git para interactuar con repositorios de mercurial
+  fr: Git-cinnabar est un assistant git distant pour interagir avec les dépôts mercurial
+  id: Git-cinnabar adalah remote helper git untuk berinteraksi dengan repositori mercurial
+  it: Git-cinnabar è un remote helper git per interagire con i repository mercurial
+  ja: Git-cinnabarはmercurialリポジトリと対話するためのgitリモートヘルパーです
+  ko: Git-cinnabar는 mercurial 저장소와 상호작용하기 위한 git 원격 헬퍼입니다
+  pl: Git-cinnabar to zdalny helper git do pracy z repozytoriami mercurial
+  pt: Git-cinnabar é um auxiliar remoto do git para interagir com repositórios do mercurial
+  ro: Git-cinnabar este un helper git remote pentru interacțiunea cu depozite mercurial
+  ru: Git-cinnabar — это удалённый помощник git для работы с репозиториями mercurial
+  th: Git-cinnabar คือ remote helper ของ git สำหรับโต้ตอบกับ repository ของ mercurial
+  tr: Git-cinnabar, mercurial depolarıyla etkileşim kurmak için bir git remote helper'dır
+  uk: Git-cinnabar — це віддалений помічник git для взаємодії з репозиторіями mercurial
+  vi: Git-cinnabar là trợ giúp git từ xa để tương tác với kho mercurial
 x:
   source: https://github.com/glandium/git-cinnabar
   eget: glandium/git-cinnabar

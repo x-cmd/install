@@ -3,6 +3,22 @@ homepage: https://musl.libc.org/
 desc:
   cn: musl 是建立在 C 标准库之上的实现 Linux 系统调用 API，包括 base 中定义的接口 语言标准、POSIX 和广泛认可的扩展
   en: musl is an implementation of the C standard library built on top of the Linux system call API, including interfaces defined in the base language standard, POSIX, and widely agreed-upon extensions
+  cs: musl je implementace standardní knihovny jazyka C postavená nad systémovým rozhraním Linuxu, včetně rozhraní definovaných v základním jazykovém standardu, POSIX a obecně uznávaných rozšíření
+  de: musl ist eine Implementierung der C-Standardbibliothek auf Basis der Linux-Systemaufruf-API, einschließlich der in der Basis-Sprachstandard, POSIX und weithin akzeptierten Erweiterungen definierten Schnittstellen
+  es: musl es una implementación de la biblioteca estándar de C construida sobre la API de llamadas al sistema de Linux, incluyendo las interfaces definidas en el estándar del lenguaje base, POSIX y las extensiones ampliamente aceptadas
+  fr: musl est une implémentation de la bibliothèque standard C construite sur l'API des appels système Linux, incluant les interfaces définies dans le standard du langage de base, POSIX et les extensions largement admises
+  id: musl adalah implementasi pustaka standar C yang dibangun di atas API syscall Linux, termasuk antarmuka yang didefinisikan dalam standar bahasa dasar, POSIX, dan ekstensi yang disepakati secara luas
+  it: musl è un'implementazione della libreria standard C costruita sopra l'API delle chiamate di sistema di Linux, incluse le interfacce definite nello standard del linguaggio di base, POSIX e nelle estensioni ampiamente concordate
+  ja: musl は Linux システムコール API の上に構築された C 標準ライブラリの実装で。基本言語規格、POSIX、広く合意された拡張で定義されたインターフェースを含みます
+  ko: musl은 Linux 시스템 호출 API 위에 구축된 C 표준 라이브러리 구현으로, 기본 언어 표준, POSIX, 널리 합의된 확장에서 정의된 인터페이스를 포함합니다
+  pl: musl to implementacja biblioteki standardowej C zbudowana na API wywołań systemowych Linuksa, obejmująca interfejsy zdefiniowane w podstawowym standardzie języka, POSIX i powszechnie uznanych rozszerzeniach
+  pt: musl é uma implementação da biblioteca padrão C construída sobre a API de chamadas de sistema do Linux, incluindo as interfaces definidas no padrão da linguagem base, POSIX e nas extensões amplamente acordadas
+  ro: musl este o implementare a bibliotecii standard C construită peste API-ul apelurilor de sistem Linux, incluzând interfețele definite în standardul limbajului de bază, POSIX și extensiile acceptate pe scară largă
+  ru: musl — реализация стандартной библиотеки C поверх системного вызова API Linux, включающая интерфейсы, определённые в базовом стандарте языка, POSIX и общепринятых расширениях
+  th: musl คือการทำงานของไลบรารีมาตรฐาน C ที่สร้างบน API การเรียกระบบของ Linux รวมถึงอินเทอร์เฟซที่กำหนดไว้ในมาตรฐานภาษาพื้นฐาน POSIX และส่วนขยายที่ได้รับการยอมรับอย่างกว้างขวาง
+  tr: musl, Linux sistem çağrısı API'si üzerine kurulmuş, temel dil standardı, POSIX ve yaygın olarak kabul edilen uzantılarda tanımlanan arayüzleri içeren C standart kütüphanesi uygulamasıdır
+  uk: musl — реалізація стандартної бібліотеки C поверх API системних викликів Linux, що включає інтерфейси, визначені в базовому стандарті мови, POSIX та загальноприйнятих розширеннях
+  vi: musl là hiện thực của thư viện tiêu chuẩn C được xây dựng trên API lời gọi hệ thống Linux, bao gồm các giao diện được định nghĩa trong tiêu chuẩn ngôn ngữ cơ bản, POSIX và các tiện ích mở rộng được công nhận rộng rãi
 rule:
   /apt:
     cmd: sudo apt-get install musl-tools

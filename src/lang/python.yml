@@ -3,6 +3,22 @@ homepage: https://github.com/python/cpython
 desc:
   cn: Python 是一种结合了解释性、编译性、互动性和面向对象的脚本语言
   en: Python is a Scripting language that combines interpretability, compilation, interactivity and object orientation
+  cs: Python je skriptovací jazyk, který spojuje interpretovatelnost, kompilaci, interaktivitu a objektovou orientaci
+  de: Python ist eine Skriptsprache, die Interpretierbarkeit, Kompilierung, Interaktivität und Objektorientierung vereint
+  es: Python es un lenguaje de scripting que combina interpretabilidad, compilación, interactividad y orientación a objetos
+  fr: Python est un langage de script qui combine l'interprétabilité, la compilation, l'interactivité et l'orientation objet
+  id: Python adalah bahasa skrip yang menggabungkan interpretabilitas, kompilasi, interaktivitas, dan orientasi objek
+  it: Python è un linguaggio di scripting che unisce interpretabilità, compilazione, interattività e orientamento agli oggetti
+  ja: Python は、解釈性、コンパイル、インタラクティブ性、オブジェクト指向を統合したスクリプト言語です
+  ko: Python은 해석 가능성, 컴파일, 상호작용성, 객체 지향성을 결합한 스크립팅 언어입니다
+  pl: Python to język skryptowy łączący interpretowalność, kompilację, interaktywność i orientację obiektową
+  pt: Python é uma linguagem de script que combina interpretabilidade, compilação, interatividade e orientação a objetos
+  ro: Python este un limbaj de script care combină interpretabilitatea, compilarea, interactivitatea și orientarea pe obiecte
+  ru: Python — это скриптовый язык, сочетающий интерпретируемость, компиляцию, интерактивность и объектно-ориентированный подход
+  th: Python เป็นภาษาสคริปต์ที่รวมความสามารถในการตีความ การคอมไพล์ การโต้ตอบ และแนวคิดเชิงวัตถุเข้าด้วยกัน
+  tr: Python, yorumlanabilirliği, derlemeyi, etkileşimi ve nesne yönelimini bir araya getiren bir betik dilidir
+  uk: Python — це скриптова мова, що поєднує інтерпретованість, компіляцію, інтерактивність та об'єктно-орієнтованість
+  vi: Python là một ngôn ngữ kịch bản kết hợp khả năng diễn giải, biên dịch, tương tác và hướng đối tượng
 x:
   source: https://github.com/python/cpython
   apt: python-minimal

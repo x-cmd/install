@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Rust 编写的 Web 应用渗透测试套件
   en: '🦚 A web-app pentesting suite written in rust .'
+  cs: Sada webových aplikací pro pentesting napsaná v Rustu.
+  de: Eine in Rust geschriebene Pentesting-Suite für Webanwendungen.
+  es: Una suite de pruebas de penetración para aplicaciones web escrita en Rust.
+  fr: Une suite de tests d'intrusion pour applications web écrite en Rust.
+  id: Rangkaian uji penetrasi aplikasi web yang ditulis dengan Rust.
+  it: Una suite di penetration testing per applicazioni web scritta in Rust.
+  ja: Rust で書かれたウェブアプリケーションのペンテストスイート。
+  ko: Rust로 작성된 웹 애플리케이션 펜테스팅 스위트.
+  pl: Zestaw narzędzi do testów penetracyjnych aplikacji webowych napisany w Rust.
+  pt: Uma suíte de pentest de aplicações web escrita em Rust.
+  ro: O suită de testare a penetrării aplicațiilor web scrisă în Rust.
+  ru: Набор инструментов для пентеста веб-приложений, написанный на Rust.
+  th: ชุดเครื่องมือทดสอบเจาะระบบเว็บแอปพลิเคชันที่เขียนด้วย Rust
+  tr: Rust ile yazılmış bir web uygulaması pentest paketi.
+  uk: Набір інструментів для пентесту вебзастосунків, написаний на Rust.
+  vi: Bộ công cụ kiểm thử xâm nhập ứng dụng web viết bằng Rust.
 x:
   source: https://github.com/pwnwriter/kanha
   eget: pwnwriter/kanha

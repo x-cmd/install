@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Next.js 是一个用于构建全栈 Web 应用程序的 React 框架。
   en: Next.js is a React framework for building full-stack web applications.
+  cs: Next.js je framework React pro tvorbu full-stack webových aplikací.
+  de: Next.js ist ein React-Framework zum Erstellen von Full-Stack-Webanwendungen.
+  es: Next.js es un framework de React para crear aplicaciones web de pila completa.
+  fr: Next.js est un framework React pour construire des applications web full-stack.
+  id: Next.js adalah framework React untuk membangun aplikasi web full-stack.
+  it: Next.js è un framework React per costruire applicazioni web full-stack.
+  ja: Next.js はフルスタックの Web アプリケーションを構築するための React フレームワークです。
+  ko: Next.js는 풀스택 웹 애플리케이션을 구축하기 위한 React 프레임워크입니다.
+  pl: Next.js to framework React do budowania aplikacji webowych typu full-stack.
+  pt: O Next.js é um framework React para criar aplicações web full-stack.
+  ro: Next.js este un framework React pentru construirea aplicațiilor web full-stack.
+  ru: Next.js — это React-фреймворк для создания full-stack веб-приложений.
+  th: Next.js เป็นเฟรมเวิร์ก React สำหรับสร้างเว็บแอปพลิเคชันแบบ full-stack
+  tr: Next.js, tam yığın web uygulamaları oluşturmak için bir React çerçevesidir.
+  uk: Next.js — це React-фреймворк для створення full-stack вебзастосунків.
+  vi: Next.js là một framework React để xây dựng các ứng dụng web full-stack.
 x:
   source: https://github.com/vercel/next.js
   npm: next@latest

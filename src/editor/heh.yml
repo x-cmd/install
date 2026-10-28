@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 按 nibble 编辑字节的终端 UI
   en: 'A terminal UI to edit bytes by the nibble.'
+  cs: Terminálové UI pro editaci bajtů po nibli.
+  de: Ein Terminal-UI zum Bearbeiten von Bytes nach Nibble.
+  es: Una UI de terminal para editar bytes por nibbles.
+  fr: Une interface terminal pour éditer les octets par nibble.
+  id: UI terminal untuk mengedit byte per nibble.
+  it: Una UI da terminale per modificare i byte per nibble.
+  ja: バイトをニブル単位で編集するターミナル UI。
+  ko: 바이트를 니블 단위로 편집하는 터미널 UI.
+  pl: Terminalowy interfejs do edycji bajtów po kęsie.
+  pt: Uma interface de terminal para editar bytes por nibble.
+  ro: O interfață terminală pentru editarea octeților pe nibble.
+  ru: Терминальный интерфейс для редактирования байтов по нибблам.
+  th: UI เทอร์มินัลสำหรับแก้ไขไบต์ทีละนิบบิ้ล
+  tr: Baytları nibble bazında düzenlemek için bir terminal arayüzü.
+  uk: Термінальний інтерфейс для редагування байтів по напівбайтах.
+  vi: Giao diện terminal để chỉnh sửa byte theo nibble.
 x:
   source: https://github.com/ndd7xv/heh
   eget: ndd7xv/heh

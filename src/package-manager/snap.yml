@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Snaps 是易于安装，安全，跨平台和无依赖性的桌面，云和物联网的应用程序软件包
   en: Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free
+  cs: Snaps jsou aplikační balíčky pro desktop, cloud a IoT, které se snadno instalují, jsou bezpečné, multiplatformní a bez závislostí
+  de: Snaps sind App-Pakete für Desktop, Cloud und IoT, die einfach zu installieren, sicher, plattformübergreifend und abhängigkeitsfrei sind
+  es: Los snaps son paquetes de aplicaciones para escritorio, nube e IoT que son fáciles de instalar, seguros, multiplataforma y sin dependencias
+  fr: Les snaps sont des paquets applicatifs pour le bureau, le cloud et l'IoT, faciles à installer, sécurisés, multiplateformes et sans dépendances
+  id: Snaps adalah paket aplikasi untuk desktop, cloud, dan IoT yang mudah dipasang, aman, lintas platform, dan bebas dependensi
+  it: Gli snap sono pacchetti applicativi per desktop, cloud e IoT facili da installare, sicuri, multipiattaforma e senza dipendenze
+  ja: Snaps はデスクトップ、クラウド、IoT 向けのアプリパッケージで、インストールが簡単かつ安全で、クロスプラットフォームかつ依存関係がありません
+  ko: Snaps는 데스크톱, 클라우드 및 IoT용 앱 패키지로, 설치가 쉽고 안전하며 크로스 플랫폼이고 의존성이 없습니다
+  pl: Snaps to pakiety aplikacji dla desktopu, chmury i IoT, które są łatwe w instalacji, bezpieczne, wieloplatformowe i wolne od zależności
+  pt: Snaps são pacotes de aplicativos para desktop, nuvem e IoT que são fáceis de instalar, seguros, multiplataforma e sem dependências
+  ro: Snaps sunt pachete de aplicații pentru desktop, cloud și IoT, ușor de instalat, sigure, multiplatformă și fără dependențe
+  ru: Snaps — это пакеты приложений для настольных систем, облака и IoT, которые легко устанавливаются, безопасны, кроссплатформенны и не требуют зависимостей
+  th: Snaps คือแพ็กเกจแอปสำหรับเดสก์ท็อป คลาวด์ และ IoT ที่ติดตั้งง่าย ปลอดภัย ข้ามแพลตฟอร์ม และไม่ต้องพึ่งพาการพึ่งพาใด ๆ
+  tr: Snaps, masaüstü, bulut ve IoT için kolayca kurulan, güvenli, çapraz platformlu ve bağımlılıktan arındırılmış uygulama paketleridir
+  uk: Snaps — це пакети застосунків для настільних систем, хмари та IoT, які легко встановлюються, безпечні, кросплатформенні та не потребують залежностей
+  vi: Snaps là các gói ứng dụng cho desktop, cloud và IoT, dễ cài đặt, an toàn, đa nền tảng và không phụ thuộc gì
 x:
   source: https://github.com/snapcore/snapd
   apt: snapd

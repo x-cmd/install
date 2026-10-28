@@ -1,6 +1,22 @@
 desc:
   cn: 命令行录制工具，用于将终端的操作过程录制成视频文件
   en: Command line recording tool, used to record terminal operations into video files
+  cs: Nástroj pro nahrávání z příkazové řádky, který zaznamenává operace v terminálu do video souborů
+  de: Kommandozeilen-Aufzeichnungswerkzeug, das Terminaloperationen in Videodateien aufzeichnet
+  es: Herramienta de grabación desde la línea de comandos, usada para grabar las operaciones del terminal en archivos de vídeo
+  fr: Outil d'enregistrement en ligne de commande, utilisé pour enregistrer les opérations du terminal dans des fichiers vidéo
+  id: Alat perekam baris perintah, digunakan merekam operasi terminal ke dalam file video
+  it: Strumento di registrazione da riga di comando, usato per registrare le operazioni del terminale in file video
+  ja: コマンドラインの録画ツールで、端末の操作を動画ファイルに記録します
+  ko: 터미널 동작을 비디오 파일로 기록하는 명령줄 녹화 도구
+  pl: Narzędzie do nagrywania z wiersza poleceń, służące do zapisywania operacji terminala w plikach wideo
+  pt: Ferramenta de gravação de linha de comando, usada para gravar as operações do terminal em arquivos de vídeo
+  ro: Instrument de înregistrare din linia de comandă, folosit pentru a înregistra operațiile terminalului în fișiere video
+  ru: Инструмент записи из командной строки для записи операций в терминале в видеофайлы
+  th: เครื่องมือบันทึกหน้าจอบรรทัดคำสั่ง ใช้สำหรับบันทึกการทำงานในเทอร์มินัลลงไฟล์วิดีโอ
+  tr: Terminal işlemlerini video dosyalarına kaydetmek için kullanılan komut satırı kayıt aracı.
+  uk: Інструмент запису з командного рядка для збереження дій у терміналі у відеофайли
+  vi: Công cụ ghi hình từ dòng lệnh, dùng để ghi lại thao tác trong terminal thành tệp video
 homepage: https://github.com/charmbracelet/vhs
 license: MIT
 lang: Go

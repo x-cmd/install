@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: OpenShift 命令行，OKD 的一部分
   en: The OpenShift Command Line, part of OKD
+  cs: OpenShift Command Line, součást OKD
+  de: Die OpenShift Command Line, Teil von OKD
+  es: The OpenShift Command Line, parte de OKD
+  fr: The OpenShift Command Line, qui fait partie d'OKD
+  id: The OpenShift Command Line, bagian dari OKD
+  it: The OpenShift Command Line, parte di OKD
+  ja: OpenShift コマンドライン、OKD の一部
+  ko: OpenShift Command Line, OKD의 일부
+  pl: OpenShift Command Line, część OKD
+  pt: The OpenShift Command Line, parte do OKD
+  ro: The OpenShift Command Line, parte din OKD
+  ru: OpenShift Command Line, часть OKD
+  th: OpenShift Command Line ซึ่งเป็นส่วนหนึ่งของ OKD
+  tr: The OpenShift Command Line, OKD'nin bir parçası
+  uk: OpenShift Command Line, частина OKD
+  vi: The OpenShift Command Line, một phần của OKD
 x:
   source: https://github.com/openshift/oc
   asdf: oc

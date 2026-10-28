@@ -3,6 +3,22 @@ homepage: https://github.com/ronilan/rusticon
 desc:
   cn: Rust 编写的终端中鼠标驱动的 SVG favicon 编辑器
   en: A mouse driven SVG favicon editor for your terminal (written in Rust)
+  cs: Myší ovládaný editor SVG favicon pro váš terminál (napsán v Rust)
+  de: Mit der Maus bedienbarer SVG-Favicon-Editor für dein Terminal (geschrieben in Rust)
+  es: Editor de favicon SVG controlado con el ratón para tu terminal (escrito en Rust)
+  fr: Éditeur de favicon SVG piloté à la souris pour votre terminal (écrit en Rust)
+  id: Editor favicon SVG yang dikendalikan mouse untuk terminal Anda (ditulis dalam Rust)
+  it: Editor di favicon SVG controllato con il mouse per il tuo terminale (scritto in Rust)
+  ja: マウス操作に対応した SVG ファビコン用エディタ（Rust 製、ターミナル向け）
+  ko: 터미널을 위한 마우스 조작형 SVG 파비콘 에디터(Rust로 작성)
+  pl: Edytor favicon SVG sterowany myszą dla terminala (napisany w Rust)
+  pt: Editor de favicon SVG controlado por mouse para o seu terminal (escrito em Rust)
+  ro: Editor de favicon SVG controlat cu mouse-ul pentru terminalul tău (scris în Rust)
+  ru: Редактор SVG-фавиконок, управляемый мышью, для вашего терминала (написан на Rust)
+  th: โปรแกรมแก้ไข favicon SVG ที่ควบคุมด้วยเมาส์สำหรับเทอร์มินัลของคุณ (เขียนด้วย Rust)
+  tr: Terminaliniz için fareyle kontrol edilen SVG favicon düzenleyici (Rust ile yazıldı)
+  uk: Редактор SVG-фавічок, керований мишею, для вашого термінала (написаний на Rust)
+  vi: Trình chỉnh sửa favicon SVG điều khiển bằng chuột cho terminal của bạn (viết bằng Rust)
 x:
   source: https://github.com/ronilan/rusticon
   eget: ronilan/rusticon

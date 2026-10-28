@@ -3,6 +3,22 @@ homepage: https://git.sr.ht/~timharek/yr
 desc:
   cn: 一个命令行工具，用于直接在终端中检查天气预报。
   en: A command-line tool for checking weather forecasts directly in the terminal.
+  cs: Nástroj příkazové řádky pro kontrolu předpovědi počasí přímo v terminálu.
+  de: Ein Kommandozeilenwerkzeug zur direkten Prüfung der Wettervorhersage im Terminal.
+  es: Una herramienta de línea de comandos para consultar el pronóstico meteorológico directamente en el terminal.
+  fr: Un outil en ligne de commande pour consulter les prévisions météo directement dans le terminal.
+  id: Alat baris perintah untuk memeriksa prakiraan cuaca langsung di terminal.
+  it: Uno strumento da riga di comando per controllare le previsioni meteorologiche direttamente nel terminale.
+  ja: ターミナル上で天気予報を確認するためのコマンドラインツール。
+  ko: 터미널에서 바로 일기 예보를 확인할 수 있는 명령줄 도구.
+  pl: Narzędzie wiersza poleceń do sprawdzania prognozy pogody bezpośrednio w terminalu.
+  pt: Uma ferramenta de linha de comando para consultar previsões do tempo diretamente no terminal.
+  ro: Un instrument de linie de comandă pentru verificarea prognozei meteo direct în terminal.
+  ru: Командный инструмент для проверки прогноза погоды прямо в терминале.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับตรวจสอบพยากรณ์อากาศโดยตรงในเทอร์มินัล
+  tr: Hava durumu tahminlerini doğrudan terminalde kontrol etmek için komut satırı aracı.
+  uk: Інструмент командного рядка для перевірки прогнозу погоди прямо в терміналі.
+  vi: Công cụ dòng lệnh để kiểm tra dự báo thời tiết ngay trong terminal.
 rule:
   /go:
     cmd: go install git.sr.ht/~timharek/yr@latest

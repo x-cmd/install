@@ -4,6 +4,22 @@ license: 'AGPL-3.0'
 desc:
   cn: 极简的 Vim 风格 TUI 文档阅读器,让阅读更简单
   en: '📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.'
+  cs: 📚 Zjednodušení čtení. Minimalistický čtečka dokumentů ve stylu Vim v TUI.
+  de: 📚 Vereinfacht das Lesen. Minimalistischer TUI-Dokumentenleser im Vim-Stil.
+  es: 📚 Simplifica la lectura. Lector de documentos TUI minimalista al estilo de Vim.
+  fr: 📚 Simplifie votre lecture. Lecteur de documents TUI minimaliste inspiré de Vim.
+  id: 📚 Memperreading menjadi lebih sederhana. Pembaca dokumen TUI minimal bergaya Vim.
+  it: 📚 Semplifica la lettura. Lettore di documenti TUI minimalista in stile Vim.
+  ja: 📚 読むことをシンプルに。ミニマルな Vim 風 TUI ドキュメントリーダー。
+  ko: 📚 읽기를 더 간단하게. 미니멀한 Vim 스타일 TUI 문서 리더.
+  pl: 📚 Uproszcza czytanie. Minimalistyczny czytnik dokumentów TUI w stylu Vima.
+  pt: 📚 Simplifica a leitura. Leitor de documentos TUI minimalista ao estilo do Vim.
+  ro: 📚 Simplifică cititul. Cititor de documente TUI minimalist, în stil Vim.
+  ru: 📚 Упрощает чтение. Минималистичный TUI-читатель документов в стиле Vim.
+  th: 📚 ทำให้การอ่านง่ายขึ้น ผู้อ่านเอกสาร TUI แบบเรียบง่ายในสไตล์ Vim
+  tr: 📚 Okumayı kolaylaştırır. Vim tarzı minimal TUI belge okuyucu.
+  uk: 📚 Спрощує читання. Мінімалістичний TUI-читач документів у стилі Vim.
+  vi: 📚 Đơn giản hóa việc đọc. Trình đọc tài liệu TUI tối giản phong cách Vim.
 x:
   source: https://github.com/kruserr/hygg
   eget: kruserr/hygg

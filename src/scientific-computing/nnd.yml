@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Linux 调试器
   en: 'A debugger for Linux'
+  cs: Ladicí nástroj pro Linux
+  de: Ein Debugger für Linux
+  es: Un depurador para Linux
+  fr: Un débogueur pour Linux
+  id: Debugger untuk Linux
+  it: Un debugger per Linux
+  ja: Linux 用のデバッガ
+  ko: Linux용 디버거
+  pl: Debugger dla Linuksa
+  pt: Um depurador para Linux
+  ro: Un depanlare pentru Linux
+  ru: Отладчик для Linux
+  th: ตัวดีบักสำหรับ Linux
+  tr: Linux için bir hata ayıklayıcı
+  uk: Відладчик для Linux
+  vi: Trình gỡ lỗi cho Linux
 x:
   source: https://github.com/al13n321/nnd
   eget: al13n321/nnd

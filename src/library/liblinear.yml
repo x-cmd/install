@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: LIBLINEAR is a linear classifier for data with millions of instances and features
   cn: Liblinear 是具有数百万个实例和功能的数据的线性分类器
+  cs: LIBLINEAR je lineární klasifikátor pro data s miliony instancí a příznaků
+  de: LIBLINEAR ist ein linearer Klassifikator für Daten mit Millionen von Instanzen und Merkmalen
+  es: LIBLINEAR es un clasificador lineal para datos con millones de instancias y características
+  fr: LIBLINEAR est un classifieur linéaire pour des données comportant des millions d'instances et de fonctionnalités
+  id: LIBLINEAR adalah pengklasifikasi linear untuk data dengan jutaan instans dan fitur
+  it: LIBLINEAR è un classificatore lineare per dati con milioni di istanze e caratteristiche
+  ja: LIBLINEAR は、数百万のインスタンスと特徴量を持つデータのための線形分類器です
+  ko: LIBLINEAR은 수백만 개의 인스턴스와 특징을 가진 데이터를 위한 선형 분류기입니다
+  pl: LIBLINEAR jest liniowym klasyfikatorem danych z milionami instancji i cech
+  pt: LIBLINEAR é um classificador linear para dados com milhões de instâncias e características
+  ro: LIBLINEAR este un clasificator liniar pentru date cu milioane de instanțe și caracteristici
+  ru: LIBLINEAR — это линейный классификатор для данных с миллионами экземпляров и признаков
+  th: LIBLINEAR เป็นตัวจำแนกเชิงเส้นสำหรับข้อมูลที่มีอินสแตนซ์และคุณลักษณะนับล้าน
+  tr: LIBLINEAR, milyonlarca örnek ve özniteye sahip veriler için doğrusal bir sınıflandırıcıdır
+  uk: LIBLINEAR — це лінійний класифікатор для даних із мільйонами екземплярів і ознак
+  vi: LIBLINEAR là bộ phân loại tuyến tính cho dữ liệu có hàng triệu mẫu và đặc trưng
 x:
   source: https://github.com/cjlin1/liblinear
   brew: liblinear

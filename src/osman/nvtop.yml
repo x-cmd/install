@@ -3,6 +3,22 @@ homepage: https://github.com/Syllo/nvtop
 desc:
   cn: NVTOP 代表 Neat Videocard TOP，是一个类似于 htop 的任务监视器，用于监控 GPU 和加速器。
   en: NVTOP stands for Neat Videocard TOP, a (h)top like task monitor for GPUs and accelerators.
+  cs: NVTOP znamená Neat Videocard TOP, monitor úloh podobný htop pro GPU a akcelerátory.
+  de: NVTOP steht für Neat Videocard TOP, einen (h)top-ähnlichen Task-Monitor für GPUs und Beschleuniger.
+  es: NVTOP significa Neat Videocard TOP, un monitor de tareas similar a htop para GPU y aceleradores.
+  fr: NVTOP signifie Neat Videocard TOP, un moniteur de tâches similaire à htop pour les GPU et les accélérateurs.
+  id: NVTOP berarti Neat Videocard TOP, monitor tugas mirip htop untuk GPU dan akselerator.
+  it: NVTOP sta per Neat Videocard TOP, un monitor di attività simile a htop per GPU e acceleratori.
+  ja: NVTOP は Neat Videocard TOP の略で、GPU とアクセラレータ向けの htop 風タスクモニターです。
+  ko: NVTOP는 Neat Videocard TOP의 약자로, GPU와 가속기를 위한 htop과 유사한 작업 모니터입니다.
+  pl: NVTOP oznacza Neat Videocard TOP, monitor zadań podobny do htop dla GPU i akceleratorów.
+  pt: NVTOP significa Neat Videocard TOP, um monitor de tarefas parecido com o htop para GPUs e aceleradores.
+  ro: NVTOP înseamnă Neat Videocard TOP, un monitor de sarcini asemănător cu htop pentru GPU și acceleratoare.
+  ru: NVTOP — это Neat Videocard TOP, монитор задач, похожий на htop, для GPU и ускорителей.
+  th: NVTOP ย่อมาจาก Neat Videocard TOP เป็นตัวตรวจสอบงานคล้าย htop สำหรับ GPU และตัวเร่งความเร็ว
+  tr: NVTOP, Neat Videocard TOP anlamına gelir; GPU'lar ve hızlandırıcılar için htop benzeri bir görev monitörüdür.
+  uk: NVTOP означає Neat Videocard TOP — монітор завдань, схожий на htop, для GPU та прискорювачів.
+  vi: NVTOP là viết tắt của Neat Videocard TOP, trình theo dõi tác vụ tương tự htop cho GPU và bộ tăng tốc.
 x:
   source: https://github.com/Syllo/nvtop
   apt: nvtop

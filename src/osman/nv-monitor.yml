@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 轻量 nVidia 遥测与终端系统监控，适配 Jetson/GB10/GB200/H100 等架构
   en: 'Lightweight nVidia telemetry and terminal system monitor - built for any architecture - Jetson, GB10, GB200, H100'
+  cs: Lehký nVidia telemetrický a terminálový systémový monitor — postavený pro libovolnou architekturu — Jetson, GB10, GB200, H100
+  de: Leichter nVidia-Telemetrie- und Terminal-Systemmonitor – gebaut für jede Architektur – Jetson, GB10, GB200, H100
+  es: "Telemetría ligera de nVidia y monitor de sistema de terminal, creado para cualquier arquitectura: Jetson, GB10, GB200, H100"
+  fr: Télémétrie légère nVidia et moniteur système en terminal, conçu pour toute architecture — Jetson, GB10, GB200, H100
+  id: Telemetri nVidia ringan dan monitor sistem terminal, dibuat untuk arsitektur apa pun — Jetson, GB10, GB200, H100
+  it: Telemetria leggera nVidia e monitor di sistema da terminale, pensato per qualsiasi architettura — Jetson, GB10, GB200, H100
+  ja: 軽量な nVidia テレメトリーとターミナルシステムモニター — あらゆるアーキテクチャ向け — Jetson、GB10、GB200、H100
+  ko: 가벼운 nVidia 원격 측정 및 터미널 시스템 모니터 - 모든 아키텍처를 위해 설계됨 - Jetson, GB10, GB200, H100
+  pl: Lekki monitor telemetrii nVidia i systemu w terminalu — zbudzony dla każdej architektury — Jetson, GB10, GB200, H100
+  pt: Telemetria leve do nVidia e monitor de sistema de terminal — construído para qualquer arquitetura — Jetson, GB10, GB200, H100
+  ro: Telemetrie ușoară nVidia și monitor de sistem în terminal, creat pentru orice arhitectură — Jetson, GB10, GB200, H100
+  ru: Лёгкий монитор телеметрии nVidia и системный монитор в терминале — создан для любой архитектуры — Jetson, GB10, GB200, H100
+  th: เทเลเมทรี nVidia แบบเบาและตัวตรวจสอบระบบบนเทอร์มินัล - สร้างมาเพื่อทุกสถาปัตยกรรม - Jetson, GB10, GB200, H100
+  tr: Hafif nVidia telemetri ve terminal sistem monitörü - her mimari için tasarlandı - Jetson, GB10, GB200, H100
+  uk: Легкий телеметрія nVidia та системний монітор у терміналі — створено для будь-якої архітектури — Jetson, GB10, GB200, H100
+  vi: Giám sát telemetry nVidia nhẹ và trình theo dõi hệ thống trên terminal - xây dựng cho mọi kiến trúc - Jetson, GB10, GB200, H100
 x:
   source: https://github.com/wentbackward/nv-monitor
   eget: wentbackward/nv-monitor

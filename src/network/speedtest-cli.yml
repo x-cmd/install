@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 使用 speedtest.net 测试互联网带宽的命令行界面
   en: Command line interface for testing internet bandwidth using speedtest.net
+  cs: Příkazová řádka pro testování šířky pásma internetu pomocí speedtest.net
+  de: Kommandozeilenoberfläche zum Testen der Internetbandbreite mit speedtest.net
+  es: Interfaz de línea de comandos para probar el ancho de banda de internet usando speedtest.net
+  fr: Interface en ligne de commande pour tester la bande passante Internet avec speedtest.net
+  id: Antarmuka baris perintah untuk menguji bandwidth internet menggunakan speedtest.net
+  it: Interfaccia a riga di comando per testare la banda larga internet usando speedtest.net
+  ja: speedtest.net を使ってインターネット帯域をテストするコマンドラインインターフェース
+  ko: speedtest.net을 사용하여 인터넷 대역폭을 테스트하는 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń do testowania przepustowości internetu za pomocą speedtest.net
+  pt: Interface de linha de comando para testar a largura de banda da internet usando speedtest.net
+  ro: Interfață din linia de comandă pentru testarea lățimii de bandă a internetului folosind speedtest.net
+  ru: Интерфейс командной строки для проверки пропускной способности интернета с помощью speedtest.net
+  th: ส่วนติดต่อบรรทัดคำสั่งสำหรับทดสอบแบนด์วิธอินเทอร์เน็ตโดยใช้ speedtest.net
+  tr: speedtest.net kullanarak internet bant genişliğini test etmek için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для перевірки пропускної здатності інтернету за допомогою speedtest.net
+  vi: Giao diện dòng lệnh để kiểm tra băng thông internet bằng speedtest.net
 x:
   source: https://github.com/sivel/speedtest-cli
   apt: speedtest-cli

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 按合并时间线查看多个日志文件的 TUI 工具
   en: 'TUI utility to view multiple log files with merged timeline'
+  cs: Nástroj TUI pro zobrazení více souborů logů se sloučenou časovou osou
+  de: TUI-Dienstprogramm zur Anzeige mehrerer Logdateien mit zusammengeführter Zeitleiste
+  es: Utilidad TUI para ver varios archivos de registro con una línea de tiempo combinada
+  fr: Utilitaire TUI pour afficher plusieurs fichiers journaux avec une chronologie fusionnée
+  id: Utilitas TUI untuk melihat beberapa berkas log dengan garis waktu gabungan
+  it: Utilità TUI per visualizzare più file di log con una linea temporale unificata
+  ja: 複数のログファイルを統合したタイムラインで表示する TUI ユーティリティ
+  ko: 여러 로그 파일을 통합된 타임라인으로 확인하는 TUI 도구
+  pl: Narzędzie TUI do przeglądania wielu plików logów ze scaloną osią czasu
+  pt: Utilitário TUI para ver vários arquivos de log com linha do tempo unificada
+  ro: Utilitar TUI pentru a vedea mai multe fișiere jurnal cu o cronologie combinată
+  ru: TUI-утилита для просмотра нескольких файлов журналов с объединённой временной шкалой
+  th: ยูทิลิตี้ TUI สำหรับดูไฟล์บันทึกหลายไฟล์พร้อมไทม์ไลน์ที่รวมกัน
+  tr: Birleştirilmiş zaman çizelgesiyle birden çok günlük dosyasını görüntülemek için TUI aracı
+  uk: TUI-утиліта для перегляду кількох файлів журналів з об'єднаною часовою шкалою
+  vi: Tiện ích TUI để xem nhiều tệp log với dòng thời gian hợp nhất
 x:
   source: https://github.com/ptmcg/logmerger
   eget: ptmcg/logmerger

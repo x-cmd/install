@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 域名可用性查询工具
   en: Domain Availability Research Tool
+  cs: Nástroj pro výzkum dostupnosti domén
+  de: Tool zur Recherche der Domainverfügbarkeit
+  es: Herramienta de investigación de disponibilidad de dominios
+  fr: Outil de recherche de disponibilité de domaines
+  id: Alat riset ketersediaan domain
+  it: Strumento di ricerca sulla disponibilità dei domini
+  ja: ドメイン可用性の調査ツール
+  ko: 도메인 가용성 조사 도구
+  pl: Narzędzie do badania dostępności domen
+  pt: Ferramenta de pesquisa de disponibilidade de domínios
+  ro: Instrument de cercetare a disponibilității domeniilor
+  ru: Инструмент для проверки доступности доменов
+  th: เครื่องมือค้นคว้าความพร้อมของโดเมน
+  tr: Alan adı kullanılabilirliği araştırma aracı
+  uk: Інструмент для перевірки доступності доменів
+  vi: Công cụ khảo sát khả năng sử dụng của tên miền
 x:
   source: https://github.com/brandonyoungdev/tldx
   eget: brandonyoungdev/tldx

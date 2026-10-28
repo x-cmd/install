@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Bowler 是在语法树级别操纵 python 的重构工具
   en: Bowler is a refactoring tool for manipulating Python at the syntax tree level
+  cs: Bowler je refaktoringový nástroj pro manipulaci s Pythonem na úrovni syntaxového stromu
+  de: Bowler ist ein Refactoring-Werkzeug zur Manipulation von Python auf Ebene des Syntaxbaums
+  es: Bowler es una herramienta de refactorización para manipular Python a nivel del árbol sintáctico
+  fr: Bowler est un outil de refactoring permettant de manipuler Python au niveau de l'arbre syntaxique
+  id: Bowler adalah alat refactoring untuk memanipulasi Python pada tingkat pohon sintaks
+  it: Bowler è uno strumento di refactoring per manipolare Python a livello di albero sintattico
+  ja: Bowler は構文木レベルで Python を操作するためのリファクタリングツールです
+  ko: Bowler는 구문 트리 수준에서 Python을 조작하기 위한 리팩터링 도구입니다
+  pl: Bowler to narzędzie do refaktoryzacji Pythona na poziomie drzewa składniowego
+  pt: O Bowler é uma ferramenta de refatoração para manipular Python no nível da árvore sintática
+  ro: Bowler este un instrument de refactorizare pentru manipularea Python la nivelul arborelui sintactic
+  ru: Bowler — инструмент рефакторинга для работы с Python на уровне синтаксического дерева
+  th: Bowler เป็นเครื่องมือรีแฟกเตอร์สำหรับจัดการ Python ในระดับแผนผังไวยากรณ์
+  tr: Bowler, Python'u sözdizimi ağacı düzeyinde manipüle etmek için bir yeniden düzenleme aracıdır
+  uk: Bowler — інструмент рефакторингу для роботи з Python на рівні синтаксичного дерева
+  vi: Bowler là công cụ tái cấu trúc để thao tác với Python ở cấp độ cây cú pháp
 x:
   source: https://github.com/facebookincubator/Bowler
   pip: bowler

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Kubernetes 上下文工具
   en: Kubernetes context tool
+  cs: Nástroj pro práci s kontexty Kubernetes
+  de: Werkzeug für Kubernetes-Kontexte
+  es: Herramienta de contexto de Kubernetes
+  fr: Outil de contexte Kubernetes
+  id: Alat konteks Kubernetes
+  it: Strumento di contesto Kubernetes
+  ja: Kubernetes コンテキストツール
+  ko: Kubernetes 컨텍스트 도구
+  pl: Narzędzie kontekstów Kubernetes
+  pt: Ferramenta de contexto do Kubernetes
+  ro: Instrument de context Kubernetes
+  ru: Инструмент для работы с контекстами Kubernetes
+  th: เครื่องมือบริบทของ Kubernetes
+  tr: Kubernetes bağlam aracı
+  uk: Інструмент для роботи з контекстами Kubernetes
+  vi: Công cụ ngữ cảnh Kubernetes
 x:
   source: https://github.com/krix38/kctx
   npm: kctx

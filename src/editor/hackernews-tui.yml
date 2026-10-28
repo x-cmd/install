@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 浏览 Hacker News 的终端 UI
   en: 'A Terminal UI to browse Hacker News'
+  cs: Terminálové UI pro prohlížení Hacker News
+  de: Ein Terminal-UI zum Browsen von Hacker News
+  es: Una UI de terminal para navegar por Hacker News
+  fr: Une interface terminal pour parcourir Hacker News
+  id: UI terminal untuk menjelajahi Hacker News
+  it: Una UI da terminale per sfogliare Hacker News
+  ja: Hacker News を閲覧するためのターミナル UI
+  ko: Hacker News를 탐색하는 터미널 UI
+  pl: Terminalowy interfejs do przeglądania Hacker News
+  pt: Uma interface de terminal para navegar no Hacker News
+  ro: O interfață terminală pentru navigarea pe Hacker News
+  ru: Терминальный интерфейс для просмотра Hacker News
+  th: UI เทอร์มินัลสำหรับเลือกดู Hacker News
+  tr: Hacker News'i gezmek için bir terminal arayüzü
+  uk: Термінальний інтерфейс для перегляду Hacker News
+  vi: Giao diện terminal để duyệt Hacker News
 x:
   source: https://github.com/aome510/hackernews-TUI
   eget: aome510/hackernews-TUI

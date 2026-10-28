@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: NASA 每日天文图片的 CLI
   en: A CLI for NASA's Astronomy Picture of the Day
+  cs: CLI pro NASA Astronomy Picture of the Day
+  de: Ein CLI für das NASA-Astronomiebild des Tages
+  es: Una CLI para la Imagen de Astronomía del Día de la NASA
+  fr: Une CLI pour l'image d'astronomie du jour de la NASA
+  id: CLI untuk Gambar Astronomi Harian dari NASA
+  it: Una CLI per l'Astronomy Picture of the Day della NASA
+  ja: NASA の「一日の天文写真」のための CLI
+  ko: NASA의 매일 천문 사진용 CLI
+  pl: CLI dla NASA Astronomy Picture of the Day
+  pt: Uma CLI para a Imagem de Astronomia do Dia da NASA
+  ro: O CLI pentru Imaginea de Astronomie a Zilei a NASA
+  ru: CLI для «Астрономической картины дня» NASA
+  th: CLI สำหรับภาพดาราศาสตร์ประจำวันของ NASA
+  tr: NASA'nın Günün Astronomi Fotoğrafı için bir CLI
+  uk: CLI для «Астрономічного зображення дня» NASA
+  vi: CLI cho Ảnh Thiên văn Trong Ngày của NASA
 x:
   source: https://github.com/xxczaki/nasa-cli
 rule:

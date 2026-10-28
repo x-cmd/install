@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: concurnas 是一种开源编程语言，旨在构建可靠、可扩展、高性能的并发、分布式和并行系统
   en: Concurnas is an open source programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
+  cs: Concurnas je open source programovací jazyk navržený pro budování spolehlivých, škálovatelných a vysoce výkonných souběžných, distribuovaných a paralelních systémů
+  de: Concurnas ist eine quelloffene Programmiersprache zum Bauen zuverlässiger, skalierbarer, hochleistungsfähiger nebenläufiger, verteilter und paralleler Systeme
+  es: Concurnas es un lenguaje de programación de código abierto diseñado para crear sistemas concurrentes, distribuidos y paralelos fiables, escalables y de alto rendimiento
+  fr: Concurnas est un langage de programmation open source conçu pour créer des systèmes concurrents, distribués et parallèles fiables, évolutifs et performants
+  id: Concurnas adalah bahasa pemrograman open source yang dirancang untuk membangun sistem konkuren, terdistribusi, dan paralel yang andal, skalabel, serta berkinerja tinggi
+  it: Concurnas è un linguaggio di programmazione open source progettato per creare sistemi concorrenti, distribuiti e paralleli affidabili, scalabili e ad alte prestazioni
+  ja: Concurnas は、信頼性が高く、スケーラブルで高性能な並行・分散・並列システムを構築するために設計されたオープンソースのプログラミング言語です
+  ko: Concurnas는 신뢰할 수 있고 확장 가능하며 고성능인 동시, 분산 및 병렬 시스템을 구축하기 위해 설계된 오픈 소스 프로그래밍 언어입니다
+  pl: Concurnas to otwarty kod programowania zaprojektowany do budowania niezawodnych, skalowalnych i wydajnych systemów współbieżnych, rozproszonych i równoległych
+  pt: Concurnas é uma linguagem de programação de código aberto projetada para criar sistemas concorrentes, distribuídos e paralelos confiáveis, escaláveis e de alto desempenho
+  ro: Concurnas este un limbaj de programare open source conceput pentru construirea sistemelor concurente, distribuite și paralele fiabile, scalabile și de înaltă performanță
+  ru: Concurnas — язык программирования с открытым исходным кодом, созданный для построения надёжных, масштабируемых и высокопроизводительных конкурентных, распределённых и параллельных систем
+  th: Concurnas เป็นภาษาโปรแกรมโอเพนซอร์สที่ออกแบบมาเพื่อสร้างระบบที่เชื่อถือได้ ขยายขนาดได้ และมีประสิทธิภาพสูง ทั้งแบบพร้อมกัน แบบกระจาย และแบบขนาน
+  tr: Concurnas, güvenilir, ölçeklenebilir ve yüksek performanslı eşzamanlı, dağıtık ve paralel sistemler kurmak için tasarlanmış açık kaynaklı bir programlama dilidir
+  uk: Concurnas — мова програмування з відкритим кодом, створена для побудови надійних, масштабованих і високопродуктивних конкурентних, розподілених і паралельних систем
+  vi: Concurnas là ngôn ngữ lập trình mã nguồn mở được thiết kế để xây dựng các hệ thống đồng thời, phân tán và song song đáng tin cậy, có thể mở rộng, hiệu năng cao
 x:
   source: https://github.com/Concurnas/Concurnas
   eget: Concurnas/Concurnas

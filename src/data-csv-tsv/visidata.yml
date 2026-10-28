@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: VisiData 是一个用于探索和整理数据的终端工具，支持多种数据格式。
   en: VisiData is a terminal tool for exploring and arranging data, supporting various data formats.
+  cs: VisiData je terminálový nástroj pro průzkum a uspořádávání dat, který podporuje různé datové formáty.
+  de: VisiData ist ein Terminalwerkzeug zum Erkunden und Ordnen von Daten und unterstützt verschiedene Datenformate.
+  es: VisiData es una herramienta de terminal para explorar y organizar datos, compatible con varios formatos de datos.
+  fr: VisiData est un outil en terminal pour explorer et organiser des données, en prenant en charge différents formats de données.
+  id: VisiData adalah alat terminal untuk menjelajahi dan menata data, mendukung berbagai format data.
+  it: VisiData è uno strumento da terminale per esplorare e organizzare i dati, supportando vari formati di dati.
+  ja: VisiData は、データを閲覧して整理するためのターミナルツールで、さまざまなデータ形式に対応しています。
+  ko: VisiData는 데이터를 탐색하고 정리하는 터미널 도구로, 다양한 데이터 형식을 지원합니다.
+  pl: VisiData to narzędzie terminalowe do przeglądania i porządkowania danych, obsługujące różne formaty danych.
+  pt: VisiData é uma ferramenta de terminal para explorar e organizar dados, com suporte a vários formatos de dados.
+  ro: VisiData este un instrument de terminal pentru explorarea și aranjarea datelor, compatibil cu diverse formate de date.
+  ru: VisiData — терминальный инструмент для исследования и упорядочивания данных, поддерживающий различные форматы данных.
+  th: VisiData เป็นเครื่องมือเทอร์มินัลสำหรับสำรวจและจัดเรียบข้อมูล รองรับรูปแบบข้อมูลหลากหลาย
+  tr: VisiData, verileri keşfetmek ve düzenlemek için bir terminal aracıdır ve çeşitli veri formatlarını destekler.
+  uk: VisiData — термінальний інструмент для дослідження та впорядкування даних, що підтримує різні формати даних.
+  vi: VisiData là công cụ terminal để khám phá và sắp xếp dữ liệu, hỗ trợ nhiều định dạng dữ liệu khác nhau.
 x:
   source: https://github.com/saulpw/visidata
   apt: visidata

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: JReleaser 是 Java 和非 Java 项目（Rust，Elixir，C#等）的发布自动化工具
   en: JReleaser is a release automation tool for Java and non-Java projects (Rust, Elixir, C#, etc)
+  cs: JReleaser je nástroj pro automatizaci vydávání Java i ne-Java projektů (Rust, Elixir, C# apod.)
+  de: JReleaser ist ein Release-Automatisierungswerkzeug für Java- und Nicht-Java-Projekte (Rust, Elixir, C# usw.)
+  es: JReleaser es una herramienta de automatización de publicaciones para proyectos Java y no Java (Rust, Elixir, C#, etc.)
+  fr: JReleaser est un outil d'automatisation de publication pour les projets Java et non Java (Rust, Elixir, C#, etc.)
+  id: JReleaser adalah alat otomatisasi rilis untuk proyek Java dan non-Java (Rust, Elixir, C#, dll)
+  it: JReleaser è uno strumento di automazione del rilascio per progetti Java e non Java (Rust, Elixir, C#, ecc.)
+  ja: JReleaser は Java および非 Java プロジェクト（Rust、Elixir、C# など）のリリース自動化ツールです
+  ko: JReleaser는 Java 및 비 Java 프로젝트(Rust, Elixir, C# 등)를 위한 릴리스 자동화 도구입니다
+  pl: JReleaser to narzędzie do automatyzacji wydania projektów w Javie i nie-Javie (Rust, Elixir, C# itd.)
+  pt: JReleaser é uma ferramenta de automação de releases para projetos Java e não-Java (Rust, Elixir, C#, etc.)
+  ro: JReleaser este un instrument de automatizare a lansărilor pentru proiecte Java și non-Java (Rust, Elixir, C# etc.)
+  ru: JReleaser — это инструмент автоматизации релизов для проектов на Java и других языках (Rust, Elixir, C# и т. д.)
+  th: JReleaser คือเครื่องมืออัตโนมัติการปล่อยเวอร์ชันสำหรับโปรเจกต์ Java และไม่ใช่ Java (Rust, Elixir, C# เป็นต้น)
+  tr: JReleaser, Java ve Java dışı projeler (Rust, Elixir, C# vb.) için bir sürüm otomasyon aracıdır
+  uk: JReleaser — це інструмент автоматизації релізів для проєктів на Java та інших мовах (Rust, Elixir, C# тощо)
+  vi: JReleaser là công cụ tự động hóa phát hành cho các dự án Java và không phải Java (Rust, Elixir, C# v.v.)
 x:
   source: https://github.com/jreleaser/jreleaser
   eget: jreleaser/jreleaser

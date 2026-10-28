@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A terminal user interface for taskwarrior
   cn: Taskwarrior 的终端用户界面
+  cs: Terminálové uživatelské rozhraní pro taskwarrior
+  de: Eine Terminal-Benutzeroberfläche für taskwarrior
+  es: Una interfaz de usuario de terminal para taskwarrior
+  fr: Une interface utilisateur de terminal pour taskwarrior
+  id: Antarmuka pengguna terminal untuk taskwarrior
+  it: Un'interfaccia utente da terminale per taskwarrior
+  ja: taskwarrior のターミナルユーザーインターフェース
+  ko: taskwarrior를 위한 터미널 사용자 인터페이스
+  pl: Terminalowy interfejs użytkownika dla taskwarrior
+  pt: Uma interface de usuário de terminal para taskwarrior
+  ro: O interfață de utilizator în terminal pentru taskwarrior
+  ru: Терминальный пользовательский интерфейс для taskwarrior
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ taskwarrior
+  tr: taskwarrior için terminal kullanıcı arayüzü
+  uk: Термінальний користувацький інтерфейс для taskwarrior
+  vi: Giao diện người dùng dòng lệnh cho taskwarrior
 x:
   source: https://github.com/kdheepak/taskwarrior-tui
   eget: kdheepak/taskwarrior-tui

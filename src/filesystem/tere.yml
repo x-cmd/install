@@ -4,6 +4,22 @@ license: EUPL-1.2
 desc:
   en: tere is a terminal file explorer. It is a faster alternative to using cd and ls to browse folders in your terminal.
   cn: Tere 是一个终端文件浏览器。它比使用 cd 和 ls 在终端中浏览文件夹更快的替代方案。
+  cs: tere je průzkumník souborů pro terminál. Je rychlejší alternativou k používání cd a ls k procházení složek v terminálu.
+  de: tere ist ein Datei-Explorer für das Terminal. Eine schnellere Alternative zu cd und ls zum Durchsuchen von Ordnern im Terminal.
+  es: tere es un explorador de archivos para la terminal. Es una alternativa más rápida al uso de cd y ls para explorar carpetas en la terminal.
+  fr: tere est un explorateur de fichiers pour le terminal. C'est une alternative plus rapide à l'utilisation de cd et ls pour parcourir les dossiers dans le terminal.
+  id: tere adalah penjelajah file berbasis terminal. Ini adalah alternatif yang lebih cepat untuk memakai cd dan ls menjelajahi folder di terminal.
+  it: tere è un file manager da terminale. È un'alternativa più veloce all'uso di cd e ls per esplorare le cartelle nel terminale.
+  ja: tere はターミナル用ファイルエクスプローラです。ターミナルで cd や ls を使ってフォルダを閲覧するより高速な代替手段になります。
+  ko: tere는 터미널 파일 탐색기입니다. 터미널에서 cd와 ls로 폴더를 탐색하는 것보다 빠른 대안입니다.
+  pl: tere to eksplorator plików dla terminala. Jest szybszą alternatywą dla używania cd i ls do przeglądania katalogów w terminalu.
+  pt: tere é um explorador de arquivos para o terminal. É uma alternativa mais rápida ao uso de cd e ls para navegar por pastas no terminal.
+  ro: tere este un explorator de fișiere pentru terminal. Este o alternativă mai rapidă la folosirea comenzilor cd și ls pentru răsfoirea folderelor în terminal.
+  ru: tere — это файловый менеджер для терминала. Более быстрая альтернатива cd и ls при просмотре папок в терминале.
+  th: tere คือตัวสำรวจไฟล์สำหรับเทอร์มินัล เป็นทางเลือกที่เร็วกว่าการใช้ cd และ ls เพื่อเรียกดูโฟลเดอร์ในเทอร์มินัล
+  tr: tere, terminal için bir dosya gezginidir. Terminalde klasörleri gezmek için cd ve ls kullanımına daha hızlı bir alternatiftir.
+  uk: tere — це провідник файлів для термінала. Швидша альтернатива cd та ls для перегляду каталогів у терміналі.
+  vi: tere là trình duyệt tập tin cho terminal. Đây là lựa chọn nhanh hơn so với việc dùng cd và ls để duyệt thư mục trong terminal
 x:
   source: https://github.com/mgunyho/tere
   brew: tere

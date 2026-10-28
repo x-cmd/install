@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个跨平台的终端 ASCII 艺术烟花模拟器
   en: A cross-platform ascii-art firework simulator in terminal
+  cs: Cross-platform simulátor ohňostrojů s ASCII grafikou v terminálu
+  de: Ein plattformübergreifender ASCII-Art-Feuerwerkssimulator im Terminal
+  es: Un simulador de fuegos artificiales con arte ASCII multiplataforma en la terminal
+  fr: Un simulateur de feux d'artifice en art ASCII multiplateforme dans le terminal
+  id: Simulator kembang api seni ASCII lintas platform di terminal
+  it: Un simulatore di fuochi d'artificio in arte ASCII multipiattaforma nel terminale
+  ja: ターミナルで動作するクロスプラットフォームの ASCII アート花火シミュレーター
+  ko: 터미널에서 실행되는 크로스 플랫폼 ASCII 아트 폭죽 시뮬레이터
+  pl: Wieloplatformowy symulator fajerwerków w grafice ASCII w terminalu
+  pt: Um simulador de fogos de artifício em arte ASCII multiplataforma no terminal
+  ro: Un simulator de artificii cu artă ASCII, multiplataforma, în terminal
+  ru: Кроссплатформенный симулятор фейерверков в ASCII-арт в терминале
+  th: ตัวจำลองพลุไฟแบบ ASCII art ข้ามแพลตฟอร์มในเทอร์มินัล
+  tr: Terminalde çapraz platform ASCII sanatı havai fişek simülatörü
+  uk: Кроссплатформний симулятор фейєрверків у ASCII-графіці в терміналі
+  vi: Trình mô phỏng pháo hoa nghệ thuật ASCII đa nền tảng trong terminal
 x:
   source: https://github.com/Wayoung7/firework-rs
   eget: Wayoung7/firework-rs

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 容器镜像安全 Linter，帮助构建最佳实践的 Docker 镜像，易于上手
   en: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+  cs: Linter pro bezpečnost kontejnerových obrazů, který pomáhá stavět Docker obrazy podle nejlepších praktik a snadno se začíná
+  de: Container-Image-Linter für Sicherheit, das beim Erstellen bester-practice Docker-Images hilft, einfach zu starten
+  es: Linter de imágenes de contenedores para la seguridad, que ayuda a crear imágenes Docker con mejores prácticas, fácil de empezar
+  fr: Linter d'images de conteneur pour la sécurité, qui aide à créer des images Docker suivant les bonnes pratiques, facile à démarrer
+  id: Linter gambar kontainer untuk keamanan, membantu membangun image Docker dengan praktik terbaik, mudah dimulai
+  it: Linter di immagini di container per la sicurezza, aiuta a costruire immagini Docker secondo le migliori pratiche, facile da iniziare
+  ja: セキュリティ向けのコンテナイメージリンター。ベストプラクティス-compliantなDockerイメージの構築を支援し、入門しやすい
+  ko: 보안을 위한 컨테이너 이미지 린터로, 모범 사례에 맞는 Docker 이미지를 구축하도록 도와주며 사용하기 쉽습니다
+  pl: Linter obrazów kontenerów pod kątem bezpieczeństwa, który pomaga budować obrazy Docker zgodnie z najlepszymi praktykami i jest łatwy w użyciu
+  pt: Linter de imagens de contêiner para segurança, que ajuda a construir imagens Docker com as melhores práticas, fácil de começar
+  ro: Linter pentru imagini de container cu rol de securitate, care ajută la construirea imaginilor Docker conform celor mai bune practici, ușor de pornit
+  ru: Линтер образов контейнеров для проверки безопасности, помогает создавать Docker-образы по лучшим практикам, прост в использовании
+  th: ตัวตรวจสอบความปลอดภัยของอิมเมจคอนเทนเนอร์ ช่วยสร้างอิมเมจ Docker ตามแนวทางปฏิบัติที่ดี เริ่มใช้งานได้ง่าย
+  tr: Güvenlik için konteiner görüntüsü linter'ı, en iyi uygulamalara uygun Docker görüntüleri oluşturmanıza yardımcı olur, kullanmaya kolayca başlanır
+  uk: Лінтер зображень контейнерів для перевірки безпеки, допомагає створювати Docker-зображення за найкращими практиками, легко розпочати
+  vi: Linter ảnh container kiểm tra bảo mật, giúp xây dựng ảnh Docker theo các thực hành tốt nhất, dễ bắt đầu
 x:
   source: https://github.com/goodwithtech/dockle
   eget: goodwithtech/dockle

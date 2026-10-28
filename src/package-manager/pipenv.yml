@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Pipenv 是一个 Python virtualenv 管理工具，支持多种系统，并很好地弥合了 pip、python（使用系统 python、pyenv 或 asdf）和 virtualenv 之间的差距
   en: Pipenv is a Python virtualenv management tool that supports a multitude of systems and nicely bridges the gaps between pip, python (using system python, pyenv or asdf) and virtualenv
+  cs: Pipenv je nástroj pro správu Python virtualenv, který podporuje mnoho systémů a pěkně překonává rozdíly mezi pip, python (systémovým python, pyenv nebo asdf) a virtualenv
+  de: Pipenv ist ein Python-virtualenv-Verwaltungstool, das viele Systeme unterstützt und die Lücken zwischen pip, python (mit System-Python, pyenv oder asdf) und virtualenv elegant schließt
+  es: Pipenv es una herramienta de gestión de virtualenv de Python que admite muchos sistemas y cierra bien las brechas entre pip, python (usando el python del sistema, pyenv o asdf) y virtualenv
+  fr: Pipenv est un outil de gestion d'environnements virtuels Python qui prend en charge de nombreux systèmes et comble élégamment les écarts entre pip, python (avec le python système, pyenv ou asdf) et virtualenv
+  id: Pipenv adalah alat manajemen virtualenv Python yang mendukung banyak sistem dan dengan baik celah antara pip, python (menggunakan python sistem, pyenv, atau asdf) dan virtualenv
+  it: Pipenv è uno strumento di gestione degli ambienti virtuali Python che supporta molti sistem e colma bene le lacune tra pip, python (usando python di sistema, pyenv o asdf) e virtualenv
+  ja: Pipenv は多くのシステムに対応した Python の仮想環境管理ツールで、pip、python（システムの python、pyenv、asdf）、virtualenv の間の隙間をうまく埋めます
+  ko: Pipenv는 다양한 시스템을 지원하는 Python 가상환경 관리 도구로, pip, python(시스템 python, pyenv 또는 asdf), virtualenv 사이의 간극을 매끄럽게 이어줍니다
+  pl: Pipenv to narzędzie do zarządzania środowiskami wirtualnymi Pythona, które obsługuje wiele systemów i sprawnie wypełnia luki między pip, python (systemowym python, pyenv lub asdf) i virtualenv
+  pt: Pipenv é uma ferramenta de gerenciamento de virtualenv do Python que oferece suporte a diversos sistemas e preenche bem as lacunas entre pip, python (usando o python do sistema, pyenv ou asdf) e virtualenv
+  ro: Pipenv este un instrument de gestionare a mediilor virtuale Python care acceptă multe sisteme și elimină bine decalajele dintre pip, python (cu python de sistem, pyenv sau asdf) și virtualenv
+  ru: Pipenv — инструмент управления виртуальными окружениями Python, поддерживающий множество систем и хорошо закрывающий разрыв между pip, python (системным python, pyenv или asdf) и virtualenv
+  th: Pipenv คือเครื่องมือจัดการ virtualenv ของ Python ที่รองรับระบบหลากหลายและเชื่อมช่องว่างระหว่าง pip, python (ใช้ python ของระบบ, pyenv หรือ asdf) กับ virtualenv ได้อย่างดี
+  tr: Pipenv, birçok sistemi destekleyen ve pip, python (sistem python'u, pyenv veya asdf ile) ile virtualenv arasındaki farkları güzelce kapatan bir Python sanal ortam yönetim aracıdır
+  uk: Pipenv — інструмент керування віртуальними середовищами Python, який підтримує багато систем і добре закриває розрив між pip, python (системним python, pyenv або asdf) та virtualenv
+  vi: Pipenv là công cụ quản lý virtualenv của Python, hỗ trợ nhiều hệ thống và khéo léo lấp đầy khoảng cách giữa pip, python (dùng python hệ thống, pyenv hoặc asdf) và virtualenv
 x:
   source: https://github.com/pypa/pipenv
   apt: pipenv

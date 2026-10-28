@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 基于图的模块化检索增强生成（RAG）系统
   en: A modular graph-based Retrieval-Augmented Generation (RAG) system
+  cs: Modulární systém Retrieval-Augmented Generation (RAG) založený na grafech
+  de: Ein modulares, graphbasiertes Retrieval-Augmented Generation (RAG) System
+  es: Un sistema modular de Retrieval-Augmented Generation (RAG) basado en grafos
+  fr: Un système modulaire de Retrieval-Augmented Generation (RAG) basé sur des graphes
+  id: Sistem Retrieval-Augmented Generation (RAG) modular berbasis graf
+  it: Un sistema modulare di Retrieval-Augmented Generation (RAG) basato su grafi
+  ja: グラフベースのモジュール型 Retrieval-Augmented Generation (RAG) システム
+  ko: 그래프 기반의 모듈형 Retrieval-Augmented Generation (RAG) 시스템
+  pl: Modularny system Retrieval-Augmented Generation (RAG) oparty na grafach
+  pt: Um sistema modular de Retrieval-Augmented Generation (RAG) baseado em grafos
+  ro: Un sistem modular de Retrieval-Augmented Generation (RAG) bazat pe grafuri
+  ru: Модульная система Retrieval-Augmented Generation (RAG) на основе графов
+  th: ระบบ Retrieval-Augmented Generation (RAG) แบบโมดูลาร์ที่ใช้กราฟ
+  tr: Graf tabanlı modüler bir Retrieval-Augmented Generation (RAG) sistemi
+  uk: Модульна система Retrieval-Augmented Generation (RAG) на основі графів
+  vi: Hệ thống Retrieval-Augmented Generation (RAG) mô-đun dựa trên đồ thị
 x:
   source: https://github.com/microsoft/graphrag
   pip: graphrag

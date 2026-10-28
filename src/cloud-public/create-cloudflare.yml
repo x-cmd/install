@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Cloudflare Workers 的 CLI
   en: the CLI for Cloudflare Workers
+  cs: CLI pro Cloudflare Workers
+  de: die CLI für Cloudflare Workers
+  es: la CLI para Cloudflare Workers
+  fr: la CLI pour Cloudflare Workers
+  id: CLI untuk Cloudflare Workers
+  it: la CLI per Cloudflare Workers
+  ja: Cloudflare Workers 用の CLI
+  ko: Cloudflare Workers용 CLI
+  pl: CLI dla Cloudflare Workers
+  pt: a CLI para o Cloudflare Workers
+  ro: CLI pentru Cloudflare Workers
+  ru: CLI для Cloudflare Workers
+  th: CLI สำหรับ Cloudflare Workers
+  tr: Cloudflare Workers için CLI
+  uk: CLI для Cloudflare Workers
+  vi: CLI cho Cloudflare Workers
 x:
   source: https://github.com/cloudflare/workers-sdk
 rule:

@@ -4,6 +4,22 @@ license: MulanPSL-2.0
 desc:
   cn: AtomGit 命令行工具，用于管理仓库、议题、拉取请求和发布
   en: Command-line interface for AtomGit to manage repositories, issues, pull requests, and releases
+  cs: Příkazový řádek pro AtomGit pro správu repozitářů, issues, pull requestů a releasů
+  de: Kommandozeilen-Schnittstelle für AtomGit zur Verwaltung von Repositories, Issues, Pull Requests und Releases
+  es: Interfaz de línea de comandos para AtomGit para gestionar repositorios, incidencias, pull requests y versiones
+  fr: Interface de ligne de commande pour AtomGit pour gérer les dépôts, les tickets, les pull requests et les versions
+  id: Antarmuka baris perintah untuk AtomGit untuk mengelola repositori, isu, pull request, dan rilis
+  it: Interfaccia a riga di comando per AtomGit per gestire repository, issue, pull request e release
+  ja: AtomGit のコマンドラインインターフェースで、リポジトリ・Issues・プルリクエスト・リリースを管理します
+  ko: 저장소, 이슈, 풀 리퀘스트, 릴리스를 관리하기 위한 AtomGit용 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla AtomGit do zarządzania repozytoriami, zgłoszeniami, pull requestami i wydaniami
+  pt: Interface de linha de comando para o AtomGit para gerenciar repositórios, issues, pull requests e releases
+  ro: Interfață de linie de comandă pentru AtomGit pentru a gestiona depozite, probleme, pull request-uri și versiuni
+  ru: Интерфейс командной строки для AtomGit для управления репозиториями, задачами, pull request'ами и релизами
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ AtomGit เพื่อจัดการที่เก็บข้อมูล ปัญหา pull request และรุ่น
+  tr: Depoları, sorunları, pull request'leri ve sürümleri yönetmek için AtomGit komut satırı arayüzü
+  uk: Інтерфейс командного рядка для AtomGit для керування репозиторіями, задачами, pull request'ами та релізами
+  vi: Giao diện dòng lệnh cho AtomGit để quản lý kho lưu trữ, issue, pull request và bản phát hành
 x:
   source: https://atomgit.com/hust-open-atom-club/atomgit-cli
   brew: atomgit-cli

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: git-trim 是 git fetch --prune 缺少的伴侣，也是 <bash oneliner HERE> 的正确、更安全、更快的替代品
   en: git-trim is a missing companion to the git fetch --prune and a proper, safer, faster alternative to your <bash oneliner HERE>
+  cs: git-trim je chybějící doprovodný program k git fetch --prune a správnou, bezpečnější a rychlejší alternativou k vašemu <bash oneliner HERE>
+  de: git-trim ist der fehlende Begleiter zu git fetch --prune und eine ordentliche, sicherere und schnellere Alternative zu Ihrem <bash oneliner HERE>
+  es: git-trim es el compañero que le falta a git fetch --prune y una alternativa adecuada, más segura y más rápida que tu <bash oneliner HERE>
+  fr: git-trim est le compagnon manquant de git fetch --prune et une alternative correcte, plus sûre et plus rapide à votre <bash oneliner HERE>
+  id: git-trim adalah pendamping yang hilang untuk git fetch --prune dan alternatif yang tepat, lebih aman, dan lebih cepat daripada <bash oneliner HERE> Anda
+  it: git-trim è il compagno che manca a git fetch --prune e un'alternativa corretta, più sicura e più veloce al tuo <bash oneliner HERE>
+  ja: git-trim は git fetch --prune に欠けている相棒であり、<bash oneliner HERE> のより適切な安全で高速な代替となる。
+  ko: git-trim은 git fetch --prune에 없어서 필요한 도구이며, <bash oneliner HERE>의 더 적절하고 안전하며 빠른 대안입니다
+  pl: git-trim to brakujący towarzysz dla git fetch --prune i właściwa, bezpieczniejsza oraz szybsza alternatywa dla twojego <bash oneliner HERE>
+  pt: git-trim é o companheiro que falta ao git fetch --prune e uma alternativa correta, mais segura e mais rápida que o seu <bash oneliner HERE>
+  ro: git-trim este companionul care lipsește pentru git fetch --prune și o alternativă corectă, mai sigură și mai rapidă decât <bash oneliner HERE> al tău
+  ru: git-trim — недостающий спутник для git fetch --prune и корректная, более безопасная и быстрая альтернатива вашему <bash oneliner HERE>
+  th: git-trim เป็นตัวคู่ที่ขาดหายไปของ git fetch --prune และเป็นทางเลือกที่เหมาะสม ปลอดภัยและเร็วกว่า <bash oneliner HERE> ของคุณ
+  tr: git-trim, git fetch --prune'in eksik yardımcısı ve <bash oneliner HERE> için doğru, daha güvenli ve daha hızlı bir alternatiftir
+  uk: git-trim — відсутній супровід для git fetch --prune і правильна, безпечніша та швидша альтернатива вашому <bash oneliner HERE>
+  vi: git-trim là người bạn đồng hành bị thiếu của git fetch --prune và là lựa chọn thay thế đúng đắn, an toàn hơn và nhanh hơn cho <bash oneliner HERE> của bạn
 x:
   source: https://github.com/foriequal0/git-trim
   eget: foriequal0/git-trim

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端版 HTTP 客户端，支持 REST 与 gRPC API
   en: 'A terminal-based HTTP client for REST and gRPC APIs'
+  cs: Klient HTTP pro terminál podporující REST a gRPC API
+  de: Ein Terminal-HTTP-Client für REST- und gRPC-APIs
+  es: Un cliente HTTP de terminal para APIs REST y gRPC
+  fr: Un client HTTP pour terminal prenant en charge les API REST et gRPC
+  id: Klien HTTP berbasis terminal untuk REST dan gRPC API
+  it: Un client HTTP per terminale con supporto per API REST e gRPC
+  ja: REST と gRPC API に対応したターミナル用 HTTP クライアント
+  ko: REST 및 gRPC API를 지원하는 터미널용 HTTP 클라이언트
+  pl: Klient HTTP dla terminala obsługujący API REST i gRPC
+  pt: Um cliente HTTP de terminal para APIs REST e gRPC
+  ro: Un client HTTP pentru terminal, cu suport pentru API REST și gRPC
+  ru: Терминальный HTTP-клиент для REST и gRPC API
+  th: ไคลเอนต์ HTTP สำหรับเทอร์มินัลที่รองรับ REST และ gRPC API
+  tr: REST ve gRPC API'leri için terminal tabanlı bir HTTP istemcisi
+  uk: Термінальний HTTP-клієнт для REST та gRPC API
+  vi: Máy khách HTTP chạy trên terminal hỗ trợ REST và gRPC API
 x:
   source: https://github.com/pranav-cs-1/nexus
   eget: pranav-cs-1/nexus

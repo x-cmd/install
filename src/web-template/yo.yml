@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: 运行 Yeoman generators 的 CLI 工具
   en: CLI tool for running Yeoman generators
+  cs: Nástroj CLI pro spouštění generátorů Yeoman
+  de: CLI-Werkzeug zum Ausführen von Yeoman-Generatoren
+  es: Herramienta de CLI para ejecutar generadores de Yeoman
+  fr: Outil en ligne de commande pour exécuter les générateurs Yeoman
+  id: Alat CLI untuk menjalankan generator Yeoman
+  it: Strumento CLI per eseguire i generatori Yeoman
+  ja: Yeoman ジェネレーターを実行するための CLI ツール
+  ko: Yeoman 생성기를 실행하기 위한 CLI 도구
+  pl: Narzędzie CLI do uruchamiania generatorów Yeoman
+  pt: Ferramenta de linha de comando para executar geradores Yeoman
+  ro: Instrument CLI pentru rularea generatorilor Yeoman
+  ru: CLI-инструмент для запуска генераторов Yeoman
+  th: เครื่องมือ CLI สำหรับเรียกใช้ Yeoman generators
+  tr: Yeoman oluşturucularını çalıştırmak için bir CLI aracı
+  uk: CLI-інструмент для запуску генераторів Yeoman
+  vi: Công cụ CLI để chạy các trình tạo Yeoman
 x:
   source: https://github.com/yeoman/yo
 rule:

@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 通过 CloudCLI（即 Claude Code UI）在移动端和网页端使用 Claude Code、OpenCode、Cursor CLI 与 Codex 的开源 WebUI
   en: Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and pr...
+  cs: Používejte Claude Code, OpenCode, Cursor CLI a Codex na mobilu i webu s CloudCLI (též Claude Code UI). CloudCLI je bezplatné open source webové UI/GUI, které vám pomáhá spravovat relace Claude Code a projekty.
+  de: Verwenden Sie Claude Code, OpenCode, Cursor CLI und Codex auf Mobilgeräten und im Web mit CloudCLI (aka Claude Code UI). CloudCLI ist eine kostenlose Open-Source-Web-/GUI-Oberfläche, mit der Sie Ihre Claude-Code-Sitzungen und Projekte verwalten können.
+  es: Usa Claude Code, OpenCode, Cursor CLI y Codex en móvil y web con CloudCLI (también Claude Code UI). CloudCLI es una interfaz web/GUI de código abierto y gratuita que te ayuda a gestionar tus sesiones de Claude Code y tus proyectos.
+  fr: Utilisez Claude Code, OpenCode, Cursor CLI et Codex sur mobile et sur le web avec CloudCLI (alias Claude Code UI). CloudCLI est une interface web/GUI libre et open source qui vous aide à gérer vos sessions Claude Code et vos projets.
+  id: Gunakan Claude Code, OpenCode, Cursor CLI, dan Codex di perangkat seluler dan web dengan CloudCLI (alias Claude Code UI). CloudCLI adalah webui/GUI open source gratis yang membantu Anda mengelola sesi Claude Code dan proyek Anda.
+  it: Usa Claude Code, OpenCode, Cursor CLI e Codex su mobile e web con CloudCLI (aka Claude Code UI). CloudCLI è una webui/GUI open source gratuita che ti aiuta a gestire le sessioni di Claude Code e i tuoi progetti.
+  ja: CloudCLI（Claude Code UI aka）を使って、モバイルとウェブで Claude Code、OpenCode、Cursor CLI、Codex を利用できます。CloudCLI は無料のオープンソース WebUI/GUI で、Claude Code のセッションやプロジェクトの管理に役立ちます。
+  ko: CloudCLI(Claude Code UI aka)를 사용해 모바일과 웹에서 Claude Code, OpenCode, Cursor CLI, Codex를 이용하세요. CloudCLI는 Claude Code 세션과 프로젝트를 관리하게 해 주는 무료 오픈소스 웹UI/GUI입니다.
+  pl: Korzystaj z Claude Code, OpenCode, Cursor CLI i Codex na urządzeniach mobilnych i w sieci dzięki CloudCLI (czyli Claude Code UI). CloudCLI to bezpłatny otwartoźródłowy interfejs webowy/GUI, który pomaga zarządzać sesjami Claude Code i projektami.
+  pt: Use Claude Code, OpenCode, Cursor CLI e Codex em dispositivos móveis e na web com o CloudCLI (também conhecido como Claude Code UI). O CloudCLI é uma interface web/GUI gratuita e de código aberto que ajuda a gerenciar suas sessões do Claude Code e seus projetos.
+  ro: Folosiți Claude Code, OpenCode, Cursor CLI și Codex pe mobil și web cu CloudCLI (aka Claude Code UI). CloudCLI este o interfață web/GUI gratuită și open source care vă ajută să vă gestionați sesiunile Claude Code și proiectele.
+  ru: Используйте Claude Code, OpenCode, Cursor CLI и Codex на мобильных и в вебе с CloudCLI (aka Claude Code UI). CloudCLI — бесплатный интерфейс webui/GUI с открытым исходным кодом, который помогает управлять сессиями Claude Code и проектами.
+  th: ใช้ Claude Code, OpenCode, Cursor CLI และ Codex บนมือถือและบนเว็บด้วย CloudCLI (หรือที่เรียกว่า Claude Code UI) CloudCLI คือเว็บ UI/GUI โอเพนซอร์สฟรีที่ช่วยคุณจัดการเซสชัน Claude Code และโปรเจกต์ของคุณ
+  tr: CloudCLI (Claude Code UI olarak da bilinir) ile mobilde ve webde Claude Code, OpenCode, Cursor CLI ve Codex kullanın. CloudCLI, Claude Code oturumlarınızı ve projelerinizi yönetmenize yardımcı olan ücretsiz açık kaynak webui/GUI'dir.
+  uk: Використовуйте Claude Code, OpenCode, Cursor CLI і Codex на мобільних і в вебі з CloudCLI (aka Claude Code UI). CloudCLI — це безкоштовний webui/GUI з відкритим кодом, який допомагає керувати сесіями Claude Code та проєктами.
+  vi: Dùng Claude Code, OpenCode, Cursor CLI và Codex trên di động và web với CloudCLI (hay còn gọi là Claude Code UI). CloudCLI là giao diện web/GUI mã nguồn mở miễn phí giúp bạn quản lý các phiên Claude Code và dự án.
 x:
   source: https://github.com/siteboon/claudecodeui
   eget: siteboon/claudecodeui

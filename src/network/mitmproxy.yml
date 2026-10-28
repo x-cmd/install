@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: mitmproxy 是一个免费开源的交互式 HTTPS 代理
   en: mitmproxy is a free and open source interactive HTTPS proxy
+  cs: mitmproxy je bezplatný interaktivní proxy server s otevřeným zdrojovým kódem pro HTTPS
+  de: mitmproxy ist ein kostenloser, quelloffener interaktiver HTTPS-Proxy
+  es: mitmproxy es un proxy HTTPS interactivo, gratuito y de código abierto
+  fr: mitmproxy est un proxy HTTPS interactif, gratuit et open source
+  id: mitmproxy adalah proxy HTTPS interaktif yang gratis dan sumber terbuka
+  it: mitmproxy è un proxy HTTPS interattivo, gratuito e open source
+  ja: mitmproxy は無料でオープンソースの対話型 HTTPS プロキシです
+  ko: mitmproxy는 무료 오픈 소스 대화형 HTTPS 프록시입니다
+  pl: mitmproxy to bezpłatny, otwartoźródłowy interaktywny proxy dla HTTPS
+  pt: mitmproxy é um proxy HTTPS interativo, gratuito e de código aberto
+  ro: mitmproxy este un proxy HTTPS interactiv, gratuit și open source
+  ru: mitmproxy — это бесплатный интерактивный HTTPS-прокси с открытым исходным кодом
+  th: mitmproxy เป็นพร็อกซี HTTPS แบบโต้ตอบที่ฟรีและโอเพนซอร์ส
+  tr: mitmproxy, ücretsiz ve açık kaynaklı bir etkileşimli HTTPS proxy'sidir.
+  uk: mitmproxy — це безкоштовний інтерактивний HTTPS-проксі з відкритим кодом
+  vi: mitmproxy là proxy HTTPS tương tác, miễn phí và mã nguồn mở
 x:
   source: https://github.com/mitmproxy/mitmproxy
   apt: mitmproxy

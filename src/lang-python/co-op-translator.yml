@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Co-op Translator 是一个 Python 包，旨在使用先进的大语言模型 ( LLM ) 技术和 Azure AI 服务自动为您的项目进行多语言翻译。
   en: Co-op Translator is a Python package designed to automate multilingual translations for your projects using advanced Large Language Model (LLM) technology and Azure AI Services.
+  cs: Co-op Translator je balíček Pythonu určený k automatizaci vícejazyčných překladů vašich projektů pomocí pokročilé technologie Large Language Model (LLM) a služeb Azure AI Services.
+  de: Co-op Translator ist ein Python-Paket, das mit fortgeschrittener Large-Language-Model-(LLM)-Technologie und Azure AI Services automatisierte Übersetzungen in mehrere Sprachen für Ihre Projekte ermöglicht.
+  es: Co-op Translator es un paquete de Python diseñado para automatizar traducciones multilingües de sus proyectos mediante tecnología avanzada de modelos de lenguaje grandes (LLM) y Azure AI Services.
+  fr: Co-op Translator est un package Python conçu pour automatiser les traductions multilingues de vos projets à l'aide de la technologie avancée des grands modèles de langage (LLM) et des services Azure AI Services.
+  id: Co-op Translator adalah paket Python yang dirancang untuk mengotomatiskan terjemahan multibahasa untuk proyek Anda menggunakan teknologi Large Language Model (LLM) tingkat lanjut dan Azure AI Services.
+  it: Co-op Translator è un pacchetto Python progettato per automatizzare le traduzioni multilingue dei tuoi progetti utilizzando la tecnologia avanzata dei Large Language Model (LLM) e Azure AI Services.
+  ja: Co-op Translator は、高度な Large Language Model (LLM) 技術と Azure AI Services を用いてプロジェクトの多言語翻訳を自動化する Python パッケージです。
+  ko: Co-op Translator는 고급 Large Language Model (LLM) 기술과 Azure AI Services를 사용하여 프로젝트의 다국어 번역을 자동화하도록 설계된 Python 패키지입니다.
+  pl: Co-op Translator to pakiet Pythona służący do automatyzacji wielojęzycznych tłumaczeń projektów za pomocą zaawansowanej technologii Large Language Model (LLM) i usług Azure AI Services.
+  pt: O Co-op Translator é um pacote Python projetado para automatizar traduções multilíngues para seus projetos usando tecnologia avançada de Large Language Model (LLM) e Azure AI Services.
+  ro: Co-op Translator este un pachet Python conceput pentru a automatiza traducerile multilingve ale proiectelor tale folosind tehnologie avansată Large Language Model (LLM) și servicii Azure AI Services.
+  ru: Co-op Translator — пакет Python, предназначенный для автоматизации многоязычного перевода ваших проектов с использованием передовой технологии Large Language Model (LLM) и сервисов Azure AI Services.
+  th: Co-op Translator เป็นแพ็กเกจ Python ที่ออกแบบมาเพื่อทำการแปลหลายภาษาของโครงการของคุณโดยอัตโนมัติ โดยใช้เทคโนโลยี Large Language Model (LLM) ขั้นสูงและ Azure AI Services
+  tr: Co-op Translator, projeleriniz için çok dilli çevirileri gelişmiş Large Language Model (LLM) teknolojisi ve Azure AI Services kullanarak otomatikleştirmek üzere tasarlanmış bir Python paketidir.
+  uk: Co-op Translator — пакет Python, призначений для автоматизації багатомовних перекладів ваших проєктів із використанням передової технології Large Language Model (LLM) і сервісів Azure AI Services.
+  vi: Co-op Translator là gói Python được thiết kế để tự động hóa việc dịch đa ngôn ngữ cho các dự án của bạn bằng công nghệ Large Language Model (LLM) tiên tiến và Azure AI Services.
 x:
   source: https://github.com/Azure/co-op-translator
   pip: co-op-translator

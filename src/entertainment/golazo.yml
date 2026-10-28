@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端里的足球赛事追踪工具,Go 编写的极简 TUI,关注实时和近期比赛
   en: 'The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.'
+  cs: Krásná hra ve vašem terminálu. Minimální TUI aplikace v Go, která vám umožní sledovat živé a nedávné fotbalové zápasy.
+  de: Das schöne Spiel in deinem Terminal. Minimale TUI-App in Go, um Live- und kürzlich stattgefundene Fußballspiele zu verfolgen.
+  es: El precioso juego en tu terminal. Aplicación TUI minimalista escrita en Go para seguir los partidos de fútbol en directo y recientes.
+  fr: Le beau jeu dans votre terminal. Une application TUI minimale écrite en Go pour suivre les matchs de football en direct et récents.
+  id: Permainan indah di terminal Anda. Aplikasi TUI minimal yang ditulis dengan Go untuk mengikuti pertandingan sepak bola langsung dan terbaru.
+  it: Il bellissimo gioco nel tuo terminale. Minimalissima app TUI scritta in Go per seguire le partite di calcio live e recenti.
+  ja: 端末で美しいゲームを。Go 製のミニマルな TUI アプリで、生放送や最近のサッカーの試合を追えます。
+  ko: 터미널에서 즐기는 아름다운 게임. Go로 작성된 미니멀 TUI 앱으로 실시간 및 최근 축구 경기를 확인하세요.
+  pl: Piękna gra w twoim terminalu. Minimalna aplikacja TUI napisana w Go, aby śledzić bieżące i ostatnie mecze piłkarskie.
+  pt: O belo jogo no seu terminal. Aplicativo TUI minimalista escrito em Go para acompanhar partidas de futebol ao vivo e recentes.
+  ro: Frumosul joc în terminalul tău. Aplicație TUI minimalistă scrisă în Go, pentru a urmări meciurile de fotbal live și recente.
+  ru: Прекрасная игра в вашем терминале. Минималистичное TUI-приложение на Go, чтобы следить за текущими и недавними футбольными матчами.
+  th: เกมสวยงามในเทอร์มินัลของคุณ แอป TUI แบบเรียบง่ายที่เขียนด้วย Go เพื่อติดตามการแข่งขันฟุตบอลสดและเกมล่าสุด
+  tr: Terminalinizde güzel oyun. Canlı ve yakın geçmiş futbol maçlarını takip etmek için Go ile yazılmış minimal bir TUI uygulaması.
+  uk: Прекрасна гра у вашому терміналі. Мінімалістичний TUI-додаток на Go, щоб стежити за живими та недавніми футбольними матчами.
+  vi: Trò chơi tuyệt đẹp trong terminal của bạn. Ứng dụng TUI tối giản viết bằng Go để theo dõi các trận bóng đá trực tiếp và gần đây.
 x:
   source: https://github.com/0xjuanma/golazo
   eget: 0xjuanma/golazo

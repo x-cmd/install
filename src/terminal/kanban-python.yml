@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Python 编写的终端看板应用程序，可提高您的工作效率🚀
   en: A Terminal Kanban Application written in Python to boost your productivity 🚀
+  cs: Terminálová aplikace Kanban napsaná v Pythonu, která zvýší vaši produktivitu 🚀
+  de: Eine in Python geschriebene Terminal-Kanban-Anwendung, die Ihre Produktivität steigert 🚀
+  es: Una aplicación Kanban de terminal escrita en Python para mejorar tu productividad 🚀
+  fr: Une application Kanban pour terminal écrite en Python pour améliorer votre productivité 🚀
+  id: Aplikasi Kanban terminal yang ditulis dengan Python untuk meningkatkan produktivitas Anda 🚀
+  it: Un'applicazione Kanban da terminale scritta in Python per aumentare la tua produttività 🚀
+  ja: Python で書かれた Productivity を高めるターミナル Kanban アプリケーション 🚀
+  ko: 생산성을 높여주는 Python으로 작성된 터미널 칸반 애플리케이션 🚀
+  pl: Terminalowa aplikacja Kanban napisana w Pythonie, która zwiększa Twoją produktywność 🚀
+  pt: Um aplicativo Kanban de terminal escrito em Python para turbinar sua produtividade 🚀
+  ro: O aplicație Kanban pentru terminal scrisă în Python care vă crește productivitatea 🚀
+  ru: Терминальное приложение Kanban, написанное на Python, для повышения вашей продуктивности 🚀
+  th: แอปพลิเคชัน Kanban บนเทอร์มินัลที่เขียนด้วย Python เพื่อเพิ่มประสิทธิภาพของคุณ 🚀
+  tr: Üretkenliğinizi artırmak için Python ile yazılmış terminal Kanban uygulaması 🚀
+  uk: Термінальний застосунок Kanban, написаний на Python, для підвищення вашої продуктивності 🚀
+  vi: Ứng dụng Kanban trên terminal viết bằng Python giúp tăng năng suất của bạn 🚀
 x:
   source: https://github.com/Zaloog/kanban-python
   pip: kanban-python

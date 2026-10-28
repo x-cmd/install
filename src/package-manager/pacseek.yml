@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于搜索和安装 Arch Linux 软件包的 TUI。
   en: A TUI for searching and installing Arch Linux packages.
+  cs: TUI pro vyhledávání a instalaci balíčků Arch Linux.
+  de: Ein TUI zum Suchen und Installieren von Arch-Linux-Paketen.
+  es: Una TUI para buscar e instalar paquetes de Arch Linux.
+  fr: Une TUI pour rechercher et installer des paquets Arch Linux.
+  id: TUI untuk mencari dan memasang paket Arch Linux.
+  it: Una TUI per cercare e installare pacchetti Arch Linux.
+  ja: Arch Linux パッケージの検索とインストールを行う TUI です。
+  ko: Arch Linux 패키지를 검색하고 설치하는 TUI입니다.
+  pl: TUI do wyszukiwania i instalowania pakietów Arch Linux.
+  pt: Uma TUI para pesquisar e instalar pacotes do Arch Linux.
+  ro: O interfață TUI pentru căutarea și instalarea pachetelor Arch Linux.
+  ru: TUI для поиска и установки пакетов Arch Linux.
+  th: TUI สำหรับค้นหาและติดตั้งแพ็กเกจ Arch Linux
+  tr: Arch Linux paketlerini aramak ve kurmak için bir TUI.
+  uk: TUI для пошуку та встановлення пакетів Arch Linux.
+  vi: Giao diện TUI để tìm kiếm và cài đặt các gói Arch Linux.
 x:
   source: https://github.com/moson-mo/pacseek
   pacman: pacseek

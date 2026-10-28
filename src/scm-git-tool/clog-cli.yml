@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: clog 根据本地 git 元数据自动创建更改日志
   en: clog creates a changelog automatically from your local git metadata
+  cs: clog automaticky vytváří changelog z místních metadat git
+  de: clog erstellt automatisch ein Changelog aus den lokalen git-Metadaten
+  es: clog crea un changelog automáticamente a partir de los metadatos locales de git
+  fr: clog crée automatiquement un journal des modifications à partir de vos métadonnées git locales
+  id: clog membuat changelog secara otomatis dari metadata git lokal Anda
+  it: clog crea automaticamente un changelog dai metadati git locali
+  ja: clog はローカルの git メタデータから変更履歴を自動生成します
+  ko: clog는 로컬 git 메타데이터에서 변경 기록을 자동으로 생성합니다
+  pl: clog automatycznie tworzy changelog z lokalnych metadanych git
+  pt: clog cria um changelog automaticamente a partir dos metadados git locais
+  ro: clog creează automat un jurnal de modificări din metadatele git locale
+  ru: clog автоматически создаёт changelog из локальных метаданных git
+  th: clog สร้าง changelog โดยอัตโนมัติจากข้อมูล git ในเครื่องของคุณ
+  tr: clog, yerel git meta verilerinden otomatik olarak bir changelog oluşturur
+  uk: clog автоматично створює changelog із локальних метаданих git
+  vi: clog tự động tạo changelog từ siêu dữ liệu git cục bộ
 x:
   source: https://github.com/clog-tool/clog-cli
   eget: clog-tool/clog-cli

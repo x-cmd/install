@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 允许任意两台计算机简单安全地传输文件和文件夹的工具
   en: a tool that allows any two computers to simply and securely transfer files and folders
+  cs: Nástroj, který umožňuje libovolným dvěma počítačům jednoduše a bezpečně přenášet soubory a složky
+  de: Ein Werkzeug, das es beliebigen zwei Computern ermöglicht, Dateien und Ordner einfach und sicher zu übertragen
+  es: Una herramienta que permite a cualesquiera dos Ordenadores transferir de forma sencilla y segura archivos y carpetas
+  fr: Un outil qui permet à deux ordinateurs quelconques de transférer simplement et en toute sécurité des fichiers et des dossiers
+  id: alat yang memungkinkan dua komputer mana pun untuk sekadar dan dengan aman mentransfer berkas dan folder
+  it: Uno strumento che permette a due computer qualsiasi di trasferire semplicemente e in modo sicuro file e cartelle
+  ja: 任意の2台のコンピュータ間でファイルやフォルダーを簡単かつ安全に転送できるツール
+  ko: 임의의 두 컴퓨터 사이에서 파일과 폴더를 간단하고 안전하게 전송할 수 있는 도구
+  pl: Narzędzie umożliwiające dowolnym dwóm komputerom proste i bezpieczne przesyłanie plików i folderów
+  pt: Uma ferramenta que permite a quaisquer dois computadores transferir arquivos e pastas de forma simples e segura
+  ro: Un instrument care permite oricăror două calculatoare să transfere simplu și sigur fișiere și foldere
+  ru: Инструмент, позволяющий любым двум компьютерам просто и безопасно передавать файлы и папки
+  th: เครื่องมือที่ช่วยให้คอมพิวเตอร์สองเครื่องใดก็ตามส่งไฟล์และโฟลเดอร์ได้อย่างง่ายดายและปลอดภัย
+  tr: Herhangi iki bilgisayarın dosyaları ve klasörleri basit ve güvenli bir şekilde aktarmasını sağlayan bir araç
+  uk: Інструмент, що дозволяє будь-яким двом комп'ютерам просто і безпечно передавати файли та папки
+  vi: Công cụ cho phép bất kỳ hai máy tính nào chuyển tệp và thư mục một cách đơn giản và an toàn
 x:
   source: https://github.com/schollz/croc
   eget: schollz/croc

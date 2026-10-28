@@ -4,6 +4,22 @@ license: ISC
 desc:
   en: Command-line passphrase generator
   cn: 命令行密码生成器
+  cs: Generátor hesel pro příkazovou řádku
+  de: Passphrasengenerator für die Kommandozeile
+  es: Generador de frases de contraseña para la línea de comandos
+  fr: Générateur de phrases de passe en ligne de commande
+  id: Generator frasa sandi untuk baris perintah
+  it: Generatore di passphrase da riga di comando
+  ja: コマンドライン用のパスフレーズ生成ツール
+  ko: 명령줄용 패스프레이즈 생성기
+  pl: Generator fraz haseł dla wiersza poleceń
+  pt: Gerador de frases de senha para linha de comando
+  ro: Generator de parole de trecere pentru linia de comandă
+  ru: Генератор парольных фраз для командной строки
+  th: เครื่องสร้างวลีรหัสผ่านสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için passphrase oluşturucu
+  uk: Генератор парольних фраз для командного рядка
+  vi: Trình tạo cụm mật khẩu cho dòng lệnh
 x:
   source: https://github.com/ctsrc/Pgen
   cargo: pgen

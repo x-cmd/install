@@ -3,6 +3,22 @@ homepage: https://github.com/Distrotech/libdrm
 desc:
   en: libdrm is a userspace  library for  accessing the  DRM, direct rendering  manager, on  Linux,  BSD and  other  operating systes  that support the  ioctl interface
   cn: libdrm 是一个用户空间库，用于在 Linux、BSD 和其他支持 ioctl 接口的操作系统上访问 DRM（直接渲染管理器）
+  cs: libdrm je uživatelská knihovna pro přístup k DRM, direct rendering manager, v Linuxu, BSD a dalších operačních systémech podporujících rozhraní ioctl
+  de: libdrm ist eine Userspace-Bibliothek für den Zugriff auf den DRM (Direct Rendering Manager) unter Linux, BSD und anderen Betriebssystemen, die die ioctl-Schnittstelle unterstützen
+  es: libdrm es una biblioteca de espacio de usuario para acceder al DRM, direct rendering manager, en Linux, BSD y otros sistemas operativos que admiten la interfaz ioctl
+  fr: libdrm est une bibliothèque en espace utilisateur pour accéder au DRM, direct rendering manager, sous Linux, BSD et autres systèmes d'exploitation prenant en charge l'interface ioctl
+  id: libdrm adalah pustaka ruang pengguna untuk mengakses DRM, direct rendering manager, di Linux, BSD, dan sistem operasi lain yang mendukung antarmuka ioctl
+  it: libdrm è una libreria userspace per accedere al DRM, direct rendering manager, su Linux, BSD e altri sistemi operativi che supportano l'interfaccia ioctl
+  ja: libdrm は、ioctl インターフェースに対応した Linux、BSD およびその他のオペレーティングシステムで DRM（Direct Rendering Manager）にアクセスするためのユーザースペースライブラリです
+  ko: libdrm은 ioctl 인터페이스를 지원하는 Linux, BSD 및 기타 운영체제에서 DRM(Direct Rendering Manager)에 접근하기 위한 사용자 공간 라이브러리입니다
+  pl: libdrm to biblioteka przestrzeni użytkownika umożliwiająca dostęp do DRM, direct rendering manager, w systemach Linux, BSD i innych systemach operacyjnych obsługujących interfejs ioctl
+  pt: libdrm é uma biblioteca de espaço de usuário para acessar o DRM, direct rendering manager, em Linux, BSD e outros sistemas operacionais que suportam a interface ioctl
+  ro: libdrm este o bibliotecă în spațiul de utilizator pentru accesarea DRM, direct rendering manager, pe Linux, BSD și alte sisteme de operare care acceptă interfața ioctl
+  ru: libdrm — это пользовательская библиотека для доступа к DRM (Direct Rendering Manager) в Linux, BSD и других операционных системах, поддерживающих интерфейс ioctl
+  th: libdrm คือไลบรารีพื้นที่ผู้ใช้สำหรับเข้าถึง DRM (direct rendering manager) บน Linux, BSD และระบบปฏิบัติการอื่นที่รองรับอินเทอร์เฟซ ioctl
+  tr: libdrm, ioctl arayüzünü destekleyen Linux, BSD ve diğer işletim sistemlerinde DRM'ye (direct rendering manager) erişmek için bir kullanıcı alanı kitaplığıdır
+  uk: libdrm — це бібліотека користувацького простору для доступу до DRM (Direct Rendering Manager) у Linux, BSD та інших операційних системах, які підтримують інтерфейс ioctl
+  vi: libdrm là thư viện không gian người dùng để truy cập DRM, direct rendering manager, trên Linux, BSD và các hệ điều hành khác hỗ trợ giao diện ioctl
 x:
   source: https://github.com/Distrotech/libdrm
   brew: libdrm

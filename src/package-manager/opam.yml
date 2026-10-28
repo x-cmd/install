@@ -3,6 +3,22 @@ homepage: https://github.com/ocaml/opam
 desc:
   cn: opam 是一个基于源代码的包管理器，专为 OCaml 设计。
   en: opam is a source-based package manager for OCaml.
+  cs: opam je správce balíčků založený na zdrojovém kódu pro OCaml.
+  de: opam ist ein quellcodebasierter Paketmanager für OCaml.
+  es: opam es un gestor de paquetes basado en código fuente para OCaml.
+  fr: opam est un gestionnaire de paquets basé sur le code source pour OCaml.
+  id: opam adalah pengelola paket berbasis kode sumber untuk OCaml.
+  it: opam è un gestore di pacchetti basato sul codice sorgente per OCaml.
+  ja: opam は OCaml 向けのソースコードベースのパッケージマネージャーです。
+  ko: opam은 OCaml을 위한 소스 코드 기반 패키지 관리자입니다.
+  pl: opam to menedżer pakietów oparty na kodzie źródłowym dla OCaml.
+  pt: opam é um gerenciador de pacotes baseado em código-fonte para OCaml.
+  ro: opam este un manager de pachete bazat pe cod sursă pentru OCaml.
+  ru: opam — менеджер пакетов на основе исходного кода для OCaml.
+  th: opam คือตัวจัดการแพ็กเกจแบบใช้ซอร์สโค้ดสำหรับ OCaml
+  tr: opam, OCaml için kaynak kod tabanlı bir paket yöneticisidir.
+  uk: opam — менеджер пакуватів на основі вихідного коду для OCaml.
+  vi: opam là trình quản lý gói dựa trên mã nguồn cho OCaml.
 x:
   source: https://github.com/ocaml/opam
   eget: ocaml/opam

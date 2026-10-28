@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 类似 top 命令的命令行系统监控工具
   en: A command-line system monitoring tool in the spirit of top.
+  cs: Nástroj pro monitorování systému v příkazovém řádku ve stylu top.
+  de: Ein Kommandozeilen-Tool zur Systemüberwachung im Stil von top.
+  es: Una herramienta de línea de comandos para supervisar el sistema al estilo de top.
+  fr: Un outil en ligne de commande de supervision du système dans l'esprit de top.
+  id: Alat pemantauan sistem berbasis baris perintah dengan gaya top.
+  it: Uno strumento da riga di comando per il monitoraggio di sistema in stile top.
+  ja: top コマンドに倣ったコマンドラインシステム監視ツール。
+  ko: top 명령과 비슷한 방식의 명령줄 시스템 모니터링 도구.
+  pl: Narzędzie wiersza poleceń do monitorowania systemu w stylu top.
+  pt: Uma ferramenta de linha de comando para monitoramento do sistema no espírito do top.
+  ro: Un instrument de monitorizare a sistemului din linia de comandă, în spiritul lui top.
+  ru: Инструмент командной строки для мониторинга системы в духе top.
+  th: เครื่องมือตรวจสอบระบบบนบรรทัดคำสั่งในแนวของ top
+  tr: top tarzında bir sistem izleme komut satırı aracı.
+  uk: Інструмент командного рядка для моніторингу системи в дусі top.
+  vi: Công cụ dòng lệnh giám sát hệ thống theo phong cách của top.
 x:
   source: https://github.com/nschloe/tiptop
   apt: tiptop

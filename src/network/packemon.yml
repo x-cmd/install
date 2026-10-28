@@ -4,6 +4,22 @@ license: 'BSD-2-Clause'
 desc:
   cn: 任意网络接口收发数据包的 TUI 工具，支持 Windows/macOS/Linux
   en: 'Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( ''-''ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux'
+  cs: "Nástroj TUI pro odesílání paketů s libovolným vstupem a monitorování paketů na jakémkoli síťovém rozhraní (výchozí: eth0). Windows/macOS/Linux"
+  de: "TUI-Tool zum Senden von Paketen beliebiger Eingabe und zur Überwachung von Paketen auf beliebigen Netzwerkschnittstellen (Standard: eth0). Windows/macOS/Linux"
+  es: "Herramienta TUI para enviar paquetes con cualquier entrada y monitorizar paquetes en cualquier interfaz de red (por defecto: eth0). Windows/macOS/Linux"
+  fr: "Outil TUI pour envoyer des paquets d'entrée arbitraire et surveiller les paquets sur n'importe quelle interface réseau (par défaut : eth0). Windows/macOS/Linux"
+  id: "Alat TUI untuk mengirim paket dengan masukan sembarang dan memantau paket di antarmuka jaringan mana pun (bawaan: eth0). Windows/macOS/Linux"
+  it: "Strumento TUI per inviare pacchetti con input arbitrario e monitorare i pacchetti su qualsiasi interfaccia di rete (predefinita: eth0). Windows/macOS/Linux"
+  ja: "任意の入力でパケットを送信し、どのネットワークインターフェースでもパケットを監視する TUI ツール (既定: eth0)。Windows/macOS/Linux"
+  ko: "임의의 입력으로 패킷을 보내고 모든 네트워크 인터페이스에서 패킷을 모니터링하는 TUI 도구 (기본값: eth0). Windows/macOS/Linux"
+  pl: "Narzędzie TUI do wysyłania pakietów o dowolnej treści i monitorowania pakietów w dowolnym interfejsie sieciowym (domyślnie: eth0). Windows/macOS/Linux"
+  pt: "Ferramenta TUI para enviar pacotes com entrada arbitrária e monitorar pacotes em qualquer interface de rede (padrão: eth0). Windows/macOS/Linux"
+  ro: "Instrument TUI pentru trimiterea de pachete cu intrare arbitrară și monitorizarea pachetelor pe orice interfață de rețea (implicit: eth0). Windows/macOS/Linux"
+  ru: "TUI-инструмент для отправки пакетов с произвольными данными и мониторинга пакетов на любых сетевых интерфейсах (по умолчанию: eth0). Windows/macOS/Linux"
+  th: "เครื่องมือ TUI สำหรับส่งแพ็กเก็ตด้วยอินพุตใดก็ได้ และตรวจสอบแพ็กเก็ตบนอินเทอร์เฟซเครือข่ายใดก็ได้ (ค่าเริ่มต้น: eth0) Windows/macOS/Linux"
+  tr: "Herhangi bir girdiyle paket göndermek ve herhangi bir ağ arabiriminde paketleri izlemek için TUI aracı (varsayılan: eth0). Windows/macOS/Linux"
+  uk: "TUI-інструмент для надсилання пакетів з довільними даними та моніторингу пакетів на будь-яких мережевих інтерфейсах (типово: eth0). Windows/macOS/Linux"
+  vi: "Công cụ TUI để gửi gói với dữ liệu tùy ý và theo dõi gói trên mọi giao diện mạng (mặc định: eth0). Windows/macOS/Linux"
 x:
   source: https://github.com/ddddddO/packemon
   eget: ddddddO/packemon

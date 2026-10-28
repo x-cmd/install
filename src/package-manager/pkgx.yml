@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Pkgx 是一个快速、独立、跨平台的二进制程序，可以运行任何程序
   en: Pkgx is a blazingly fast, standalone, cross‐platform binary that runs anything
+  cs: Pkgx je mimořádně rychlý samostatný multiplatformní binární soubor, který spouští cokoliv
+  de: Pkgx ist ein blitzschnelles, eigenständiges plattformübergreifendes Binary, das alles ausführt
+  es: Pkgx es un binario independiente multiplataforma ultrápido que ejecuta cualquier cosa
+  fr: Pkgx est un binaire autonome multiplateforme extrêmement rapide qui exécute n'importe quoi
+  id: Pkgx adalah biner mandiri lintas platform yang sangat cepat dan dapat menjalankan apa saja
+  it: Pkgx è un binario autonomo multiplaforma velocissimo che esegue qualsiasi cosa
+  ja: Pkgx はあらゆるものを実行できる、的高速なスタンドアロン・クロスプラットフォームバイナリです
+  ko: Pkgx은 무엇이든 실행할 수 있는 아주 빠른 독립형 크로스 플랫폼 바이너리입니다
+  pl: Pkgx to błyskawicznie szybki samodzielny binarny plik wieloplatformowy uruchamiający wszystko
+  pt: Pkgx é um binário autônomo multiplataforma extremamente rápido que executa qualquer coisa
+  ro: Pkgx este un binar independent multiplatformă extrem de rapid care rulează orice
+  ru: Pkgx — сверхбыстрый автономный кроссплатформенный бинарный файл, запускающий что угодно
+  th: Pkgx คือไบนารีแบบสแตนด์อโลนข้ามแพลตฟอร์มที่เร็วมากและรันได้ทุกอย่าง
+  tr: Pkgx, her şeyi çalıştıran çok hızlı, bağımsız ve çok platformlu bir ikili dosyadır
+  uk: Pkgx — надзвичайно швидкий автономний кросплатформний бінарний файл, який запускає будь-що
+  vi: Pkgx là một tệp nhị phân độc lập đa nền tảng cực nhanh có thể chạy mọi thứ
 x:
   source: https://github.com/pkgxdev/pkgx
   eget: pkgxdev/pkgx

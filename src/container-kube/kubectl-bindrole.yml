@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 总结指定主题的 RBAC 角色（ServiceAccount，用户和组）
   en: Summarize RBAC roles for the specified subject (ServiceAccount, User and Group)
+  cs: Shrnout role RBAC pro zadaný subjekt (ServiceAccount, User a Group)
+  de: RBAC-Rollen für das angegebene Subjekt (ServiceAccount, Benutzer und Gruppe) zusammenfassen
+  es: Resumir los roles RBAC para el sujeto especificado (ServiceAccount, usuario y grupo)
+  fr: Résumer les rôles RBAC pour le sujet spécifié (ServiceAccount, utilisateur et groupe)
+  id: Ringkas peran RBAC untuk subjek tertentu (ServiceAccount, User, dan Group)
+  it: Riassumi i ruoli RBAC per il soggetto specificato (ServiceAccount, utente e gruppo)
+  ja: 指定した主体 (ServiceAccount、User、Group) の RBAC ロールを要約する
+  ko: 지정된 주체(ServiceAccount, User, Group)의 RBAC 역할을 요약합니다
+  pl: Podsumuj role RBAC dla wskazanego podmiotu (ServiceAccount, użytkownik i grupa)
+  pt: Resumir as funções RBAC para o sujeito especificado (ServiceAccount, utilizador e grupo)
+  ro: Rezuma rolurile RBAC pentru subiectul specificat (ServiceAccount, utilizator și grup)
+  ru: Сводка ролей RBAC для указанного субъекта (ServiceAccount, пользователь и группа)
+  th: สรุปบทบาท RBAC สำหรับ subject ที่ระบุ (ServiceAccount, User และ Group)
+  tr: Belirtilen özne (ServiceAccount, Kullanıcı ve Grup) için RBAC rollerini özetler
+  uk: Підсумок ролей RBAC для вказаного суб'єкта (ServiceAccount, користувач і група)
+  vi: Tóm tắt các vai trò RBAC cho chủ thể được chỉ định (ServiceAccount, User và Group)
 x:
   source: https://github.com/Ladicle/kubectl-rolesum
   eget: Ladicle/kubectl-rolesum

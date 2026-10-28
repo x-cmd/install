@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: shx 让您在 Node.js 项目中轻松使用跨平台的 Unix 命令。
   en: shx makes it easy to use cross-platform Unix commands in your Node.js projects.
+  cs: shx usnadňuje používání unixových příkazů napříč platformami ve vašich projektech Node.js.
+  de: shx erleichtert die Verwendung plattformübergreifender Unix-Befehle in Ihren Node.js-Projekten.
+  es: shx facilita el uso de comandos Unix multiplataforma en tus proyectos de Node.js.
+  fr: shx facilite l'utilisation de commandes Unix multiplateformes dans vos projets Node.js.
+  id: shx memudahkan penggunaan perintah Unix lintas platform di proyek Node.js Anda.
+  it: shx rende facile usare i comandi Unix multipiattaforma nei tuoi progetti Node.js.
+  ja: shx は Node.js プロジェクトでクロスプラットフォームな Unix コマンドを簡単に使用できるようにします。
+  ko: shx를 사용하면 Node.js 프로젝트에서 크로스 플랫폼 Unix 명령을 쉽게 사용할 수 있습니다.
+  pl: shx ułatwia korzystanie z wieloplatformowych poleceń Unixa w projektach Node.js.
+  pt: shx facilita o uso de comandos Unix multiplataforma em seus projetos Node.js.
+  ro: shx facilitează utilizarea comenzilor Unix multiplatformă în proiectele tale Node.js.
+  ru: shx упрощает использование кроссплатформенных команд Unix в ваших проектах Node.js.
+  th: shx ช่วยให้ใช้คำสั่ง Unix ข้ามแพลตฟอร์มได้อย่างง่ายดายในโปรเจกต์ Node.js ของคุณ
+  tr: shx, Node.js projelerinizde platformlar arası Unix komutlarını kolayca kullanmanızı sağlar.
+  uk: shx спрощує використання кроссплатформних команд Unix у ваших проєктах Node.js.
+  vi: shx giúp bạn dễ dàng dùng các lệnh Unix đa nền tảng trong các dự án Node.js.
 x:
   source: https://github.com/shelljs/shx#readme
   npm: shx

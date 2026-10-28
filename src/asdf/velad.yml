@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: VelaD 是一个轻量级部署工具，能帮助你快速搭建 KubeVela 环境
   en: VelaD is lightweight deployment tool to set up KubeVela
+  cs: VelaD je lehký nástroj pro nasazování, který vám pomůže rychle nastavit prostředí KubeVela
+  de: VelaD ist ein leichtgewichtiges Deployment-Tool zum Einrichten von KubeVela
+  es: VelaD es una herramienta de despliegue ligera que te ayuda a configurar rápidamente el entorno de KubeVela
+  fr: VelaD est un outil de déploiement léger qui vous aide à configurer rapidement un environnement KubeVela
+  id: VelaD adalah alat deploy ringan untuk menyiapkan lingkungan KubeVela dengan cepat
+  it: VelaD è un leggero strumento di distribuzione che ti aiuta a configurare rapidamente l'ambiente KubeVela
+  ja: VelaD は KubeVela 環境を素早くセットアップするための軽量なデプロイツールです
+  ko: VelaD는 KubeVela 환경을 빠르게 구성하도록 도와주는 가벼운 배포 도구입니다
+  pl: VelaD to lekkie narzędzie do wdrażania, które pomaga szybko skonfigurować środowisko KubeVela
+  pt: O VelaD é uma ferramenta de implantação leve que ajuda a configurar rapidamente o ambiente KubeVela
+  ro: VelaD este un instrument ușor de implementare care vă ajută să configurați rapid mediul KubeVela
+  ru: VelaD — лёгкий инструмент развёртывания, который помогает быстро настроить окружение KubeVela
+  th: VelaD เป็นเครื่องมือปรับใช้แบบเบาที่ช่วยคุณติดตั้งสภาพแวดล้อม KubeVela ได้อย่างรวดเร็ว
+  tr: VelaD, KubeVela ortamını hızlıca kurmanıza yardımcı olan hafif bir dağıtım aracıdır
+  uk: VelaD — легкий інструмент розгортання, який допомагає швидко налаштувати середовище KubeVela
+  vi: VelaD là công cụ triển khai nhẹ giúp bạn thiết lập môi trường KubeVela nhanh chóng
 x:
   source: https://github.com/kubevela/velad
   eget: kubevela/velad

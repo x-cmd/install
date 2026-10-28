@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 解析 Rust 源码,在终端中交互浏览函数、结构体、枚举、trait 等
   en: 'Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.'
+  cs: Vaše Rust kódová základna odhalena. Parsuje soubory Rust a poskytuje interaktivní rozhraní k procházení funkcí, struktur, výčtů, traitů a dalšího — vše přímo v terminálu.
+  de: Deine Rust-Codebasis enthüllt. Es parst deine Rust-Quelltextdateien und bietet eine interaktive Oberfläche zum Durchsuchen von Funktionen, Structs, Enums, Traits und mehr – alles direkt im Terminal.
+  es: Tu base de código Rust al descubierto. Analiza tus archivos de código Rust y ofrece una interfaz interactiva para explorar funciones, structs, enums, traits y más, todo dentro de tu terminal.
+  fr: Votre base de code Rust révélée. Il analyse vos fichiers source Rust et fournit une interface interactive pour parcourir fonctions, structs, enums, traits et plus — le tout dans votre terminal.
+  id: Basis kode Rust Anda terbongkar. Alat ini mengurai berkas sumber Rust Anda dan menyediakan antarmuka interaktif untuk menelusuri fungsi, struct, enum, trait, dan lainnya — semuanya di dalam terminal Anda.
+  it: Ecco la tua base di codice Rust. Analizza i tuoi file sorgente Rust e offre un'interfaccia interattiva per esplorare funzioni, struct, enum, trait e altro — tutto dentro il terminale.
+  ja: あなたの Rust コードベースを明らかに。Rust のソースファイルを解析し、関数、構造体、enum、trait などを端末内で対話的に閲覧できるインターフェースを提供します。
+  ko: 당신의 Rust 코드베이스를 드러냅니다. Rust 소스 파일을 파싱해 함수, 구조체, enum, trait 등을 살펴보는 대화형 인터페이스를 제공합니다 — 모두 터미널 안에서.
+  pl: Odsłonięta baza kodu Rust. Analizuje pliki źródłowe Rust i udostępnia interaktywny interfejs do przeglądania funkcji, struktur, enumów, traitów i nie tylko — wszystko w terminalu.
+  pt: Sua base de código Rust revelada. Ele analisa seus arquivos-fonte Rust e oferece uma interface interativa para explorar funções, structs, enums, traits e mais — tudo dentro do terminal.
+  ro: Baza ta de cod Rust dezvăluită. Analizează fișierele sursă Rust și oferă o interfață interactivă pentru a parcurge funcții, structuri, enumuri, traituri și multe altele — totul în terminalul tău.
+  ru: Ваша кодовая база Rust раскрыта. Он разбирает исходные файлы Rust и предоставляет интерактивный интерфейс для просмотра функций, структур, enum, trait и многого другого — прямо в терминале.
+  th: เผยให้เห็นฐานโค้ด Rust ของคุณ มันแยกวิเคราะห์ไฟล์ต้นทาง Rust และให้อินเทอร์เฟซแบบโต้ตอบเพื่อสำรวจฟังก์ชัน สตรักต์ enum trait และอื่น ๆ ทั้งหมดภายในเทอร์มินัลของคุณ
+  tr: Rust kod tabanınız ortaya çıkarır. Rust kaynak dosyalarınızı ayrıştırır ve işlevler, struct'lar, enum'lar, trait'ler ve daha fazlasını gezmek için etkileşimli bir arayüz sunar — hepsi terminalinizin içinde.
+  uk: Ваша кодова база Rust розкрита. Він розбирає вихідні файли Rust і надає інтерактивний інтерфейс для перегляду функцій, структур, enum, trait та іншого — усе просто в терміналі.
+  vi: Bộ mã nguồn Rust của bạn được hé lộ. Nó phân tích các tệp nguồn Rust và cung cấp giao diện tương tác để duyệt các hàm, struct, enum, trait và hơn thế — tất cả ngay trong terminal của bạn.
 x:
   source: https://github.com/yashksaini-coder/Rustlens
   eget: yashksaini-coder/Rustlens

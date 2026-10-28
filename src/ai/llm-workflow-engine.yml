@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: LLM 的强力 CLI 与工作流管理器（核心包）
   en: Power CLI and Workflow manager for LLMs (core package)
+  cs: Výkonný CLI a správce pracovních postupů pro LLM (jádrový balíček)
+  de: Leistungsstarke CLI und Workflow-Manager für LLMs (Kernpaket)
+  es: Potente CLI y gestor de flujos de trabajo para LLMs (paquete principal)
+  fr: CLI puissant et gestionnaire de workflows pour les LLM (paquet principal)
+  id: CLI dan pengelola alur kerja yang andal untuk LLM (paket inti)
+  it: Potente CLI e gestore di workflow per gli LLM (pacchetto core)
+  ja: LLM 向けの強力な CLI とワークフロー マネージャー (コアパッケージ)
+  ko: LLM을 위한 강력한 CLI 및 워크플로 관리자 (코어 패키지)
+  pl: Potężne CLI i menedżer przepływów pracy dla LLM (pakiet rdzeniowy)
+  pt: CLI poderosa e gerenciador de fluxos de trabalho para LLMs (pacote principal)
+  ro: CLI puternic și manager de fluxuri de lucru pentru LLM (pachet de bază)
+  ru: Мощный CLI и менеджер рабочих процессов для LLM (базовый пакет)
+  th: CLI และตัวจัดการเวิร์กโฟลว์ที่ทรงพลังสำหรับ LLM (แพ็กเกจหลัก)
+  tr: LLM'ler için güçlü CLI ve iş akışı yöneticisi (çekirdek paket)
+  uk: Потужний CLI та менеджер робочих процесів для LLM (базовий пакет)
+  vi: CLI mạnh mẽ và trình quản lý quy trình cho LLM (gói lõi)
 x:
   source: https://github.com/llm-workflow-engine/llm-workflow-engine
   pip: llm-workflow-engine

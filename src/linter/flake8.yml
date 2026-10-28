@@ -3,6 +3,22 @@ homepage: https://github.com/pycqa/flake8
 desc:
   cn: flake8 是一个 python 工具，它将 pycodestyle、pyflakes、mccabe 和第三方插件粘合在一起，用于检查某些 python 代码的风格和质量
   en: flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code
+  cs: flake8 je nástroj pro python, který spojuje pycodestyle, pyflakes, mccabe a pluginy třetích stran do kontroly stylu a kvality pythonového kódu
+  de: flake8 ist ein Python-Tool, das pycodestyle, pyflakes, mccabe und Plugins von Drittanbietern zusammenführt, um Stil und Qualität von Python-Code zu prüfen
+  es: flake8 es una herramienta de python que une pycodestyle, pyflakes, mccabe y complementos de terceros para comprobar el estilo y la calidad del código python
+  fr: flake8 est un outil python qui réunit pycodestyle, pyflakes, mccabe et des plugins tiers pour vérifier le style et la qualité du code python
+  id: flake8 adalah alat python yang menggabungkan pycodestyle, pyflakes, mccabe, dan plugin pihak ketiga untuk memeriksa gaya dan kualitas kode python
+  it: flake8 è uno strumento python che unisce pycodestyle, pyflakes, mccabe e plugin di terze parti per controllare lo stile e la qualità del codice python
+  ja: flake8 は pycodestyle、pyflakes、mccabe とサードパーティのプラグインをまとめて、python コードのスタイルと品質をチェックするツールです
+  ko: flake8는 pycodestyle, pyflakes, mccabe 및 서드파티 플러그인을 함께 사용하여 python 코드의 스타일과 품질을 검사하는 도구입니다
+  pl: flake8 to narzędzie python, które łączy pycodestyle, pyflakes, mccabe i wtyczki innych firm, aby sprawdzać styl i jakość kodu python
+  pt: flake8 é uma ferramenta python que reúne pycodestyle, pyflakes, mccabe e plugins de terceiros para verificar o estilo e a qualidade do código python
+  ro: flake8 este un instrument python care reunește pycodestyle, pyflakes, mccabe și pluginuri de la terți pentru a verifica stilul și calitatea codului python
+  ru: flake8 — это инструмент на python, объединяющий pycodestyle, pyflakes, mccabe и сторонние плагины для проверки стиля и качества кода python
+  th: flake8 เป็นเครื่องมือ python ที่รวม pycodestyle, pyflakes, mccabe และปลั๊กอินจากบุคคลที่สาม เพื่อตรวจสอบสไตล์และคุณภาพของโค้ด python
+  tr: flake8, python kodunun stilini ve kalitesini denetlemek için pycodestyle, pyflakes, mccabe ve üçüncü taraf eklentilerini bir araya getiren bir python aracıdır
+  uk: flake8 — це інструмент python, який об'єднує pycodestyle, pyflakes, mccabe та сторонні плагіни для перевірки стилю та якості коду python
+  vi: flake8 là công cụ python kết hợp pycodestyle, pyflakes, mccabe và các plugin của bên thứ ba để kiểm tra phong cách và chất lượng mã python
 x:
   source: https://github.com/pycqa/flake8
   pip: flake8

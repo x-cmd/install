@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 轻松并行运行多个编程 Agent 的 TUI
   en: 'TUI for easily running parallel coding agents'
+  cs: TUI pro snadné spouštění paralelních programovacích agentů
+  de: TUI zum einfachen Starten paralleler Coding-Agenten
+  es: TUI para ejecutar fácilmente agentes de programación en paralelo
+  fr: TUI pour lancer facilement des agents de codage en parallèle
+  id: TUI untuk dengan mudah menjalankan agen pemrograman secara paralel
+  it: TUI per eseguire facilmente agenti di programmazione in parallelo
+  ja: 複数のコーディングエージェントを手軽に並行実行するための TUI
+  ko: 여러 코딩 에이전트를 쉽게 병렬로 실행하기 위한 TUI
+  pl: TUI do łatwego uruchamiania równoległych agentów programistycznych
+  pt: TUI para executar facilmente agentes de programação em paralelo
+  ro: TUI pentru rularea ușoară a agenților de programare în paralel
+  ru: TUI для лёгкого запуска параллельных агентов программирования
+  th: TUI สำหรับเรียกใช้เอเจนต์เขียนโค้ดแบบขนานได้อย่างง่ายดาย
+  tr: Paralel kodlama ajanlarını kolayca çalıştırmak için TUI
+  uk: TUI для легкого запуску паралельних агентів програмування
+  vi: TUI để dễ dàng chạy nhiều tác nhân lập trình song song
 x:
   source: https://github.com/andyrewlee/amux
   eget: andyrewlee/amux

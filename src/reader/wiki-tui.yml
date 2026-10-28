@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: wiki-tui 是一个简单易用的 Rust 编写的维基百科文本用户界面。
   en: wiki-tui is a simple and easy-to-use Wikipedia text user interface written in rust
+  cs: wiki-tui je jednoduché a uživatelsky přívětivé textové uživatelské rozhraní Wikipedie napsané v Rustu
+  de: wiki-tui ist eine einfache, benutzerfreundliche textbasierte Wikipedia-Oberfläche, geschrieben in Rust
+  es: wiki-tui es una interfaz de usuario de texto de Wikipedia simple y fácil de usar escrita en Rust
+  fr: wiki-tui est une interface utilisateur textuelle de Wikipedia simple et facile à utiliser, écrite en Rust
+  id: wiki-tui adalah antarmuka pengguna teks Wikipedia yang sederhana dan mudah digunakan, ditulis dengan Rust
+  it: wiki-tui è un'interfaccia utente testuale di Wikipedia semplice e facile da usare, scritta in Rust
+  ja: wiki-tui は Rust で書かれたシンプルで使いやすい Wikipedia のテキストユーザーインターフェースです
+  ko: wiki-tui는 Rust로 작성된 간단하고 사용하기 쉬운 Wikipedia 텍스트 사용자 인터페이스입니다
+  pl: wiki-tui to prosty i łatwy w użyciu tekstowy interfejs użytkownika Wikipedii napisany w Rust
+  pt: wiki-tui é uma interface de usuário de texto da Wikipedia simples e fácil de usar, escrita em Rust
+  ro: wiki-tui este o interfață textuală simplă și ușor de folosit pentru Wikipedia, scrisă în Rust
+  ru: wiki-tui — простой и удобный текстовый интерфейс Википедии, написанный на Rust
+  th: wiki-tui คือส่วนติดต่อผู้ใช้แบบข้อความของวิกิพีเดียที่เรียบง่ายและใช้งานง่าย เขียนด้วย Rust
+  tr: wiki-tui, Rust ile yazılmış basit ve kullanımı kolay bir Wikipedia metin kullanıcı arayüzüdür
+  uk: wiki-tui — простий і зручний текстовий інтерфейс користувача Вікіпедії, написаний на Rust
+  vi: wiki-tui là giao diện người dùng văn bản của Wikipedia đơn giản và dễ dùng, viết bằng Rust
 x:
   source: https://github.com/Builditluc/wiki-tui
   eget: Builditluc/wiki-tui

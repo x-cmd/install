@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 交互式树状终端文件管理器
   en: Interactive tree-like terminal file manager
+  cs: Interaktivní stromový správce souborů v terminálu
+  de: Interaktiver, baumartiger Terminal-Dateimanager
+  es: Gestor de archivos de terminal interactivo con vista de árbol
+  fr: Gestionnaire de fichiers en terminal interactif arborescent
+  id: Pengelola file terminal interaktif berbentuk pohon
+  it: File manager da terminale interattivo ad albero
+  ja: 対話型のツリー風ターミナルファイルマネージャー
+  ko: 대화형 트리 구조 터미널 파일 관리자
+  pl: Interaktywny, drzewiasty terminalowy menedżer plików
+  pt: Gerenciador de arquivos de terminal interativo em forma de árvore
+  ro: Manager de fișiere pentru terminal, interactiv, cu structură de arbore
+  ru: Интерактивный древовидный файловый менеджер для терминала
+  th: ตัวจัดการไฟล์บนเทอร์มินัลแบบต้นไม้แบบอินเตอร์แอกทีฟ
+  tr: Etkileşimli, ağaç yapılı terminal dosya yöneticisi
+  uk: Інтерактивний деревоподібний файловий менеджер для термінала
+  vi: Trình quản lý tệp dòng lệnh tương tác dạng cây
 x:
   source: https://github.com/LeperGnome/bt
   go: github.com/LeperGnome/bt/cmd/bt@v1.1.0

@@ -3,6 +3,22 @@ homepage: https://github.com/oracle/oci-cli
 desc:
   cn: Oracle 云基础设施的命令行界面
   en: Command Line Interface for Oracle Cloud Infrastructure
+  cs: Rozhraní příkazové řádky pro Oracle Cloud Infrastructure
+  de: Befehlszeilenschnittstelle für Oracle Cloud Infrastructure
+  es: Interfaz de línea de comandos para Oracle Cloud Infrastructure
+  fr: Interface de ligne de commande pour Oracle Cloud Infrastructure
+  id: Antarmuka baris perintah untuk Oracle Cloud Infrastructure
+  it: Interfaccia a riga di comando per Oracle Cloud Infrastructure
+  ja: Oracle Cloud Infrastructure のコマンドラインインターフェース
+  ko: Oracle Cloud Infrastructure용 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń dla Oracle Cloud Infrastructure
+  pt: Interface de linha de comando para o Oracle Cloud Infrastructure
+  ro: Interfață de linie de comandă pentru Oracle Cloud Infrastructure
+  ru: Интерфейс командной строки для Oracle Cloud Infrastructure
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับ Oracle Cloud Infrastructure
+  tr: Oracle Cloud Infrastructure için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для Oracle Cloud Infrastructure
+  vi: Giao diện dòng lệnh cho Oracle Cloud Infrastructure
 x:
   source: https://github.com/oracle/oci-cli
   eget: oracle/oci-cli

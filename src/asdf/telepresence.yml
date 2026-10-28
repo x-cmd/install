@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Tepresence 是 Kubernetes 应用程序开发人员的开源工具，可让您在将该服务连接到远程 Kubernetes 群集时本地运行单个服务
   en: Telepresence is an open source tool for Kubernetes application developers that lets you run a single service locally while connecting that service to a remote Kubernetes cluster
+  cs: Telepresence je open source nástroj pro vývojáře aplikací Kubernetes, který vám umožňuje spustit jednu službu lokálně a přitom ji připojit ke vzdálenému clusteru Kubernetes
+  de: Telepresence ist ein Open-Source-Werkzeug für Kubernetes-Anwendungsentwickler, mit dem Sie einen einzelnen Dienst lokal ausführen und gleichzeitig mit einem entfernten Kubernetes-Cluster verbinden können
+  es: Telepresence es una herramienta de código abierto para desarrolladores de aplicaciones de Kubernetes que le permite ejecutar un solo servicio localmente mientras conecta ese servicio a un clúster de Kubernetes remoto
+  fr: Telepresence est un outil open source pour les développeurs d'applications Kubernetes qui vous permet d'exécuter un seul service localement tout en le connectant à un cluster Kubernetes distant
+  id: Telepresence adalah alat sumber terbuka untuk pengembang aplikasi Kubernetes yang memungkinkan Anda menjalankan satu layanan secara lokal sambil menghubungkan layanan tersebut ke klaster Kubernetes jarak jauh
+  it: Telepresence è uno strumento open source per gli sviluppatori di applicazioni Kubernetes che consente di eseguire localmente un singolo servizio collegandolo a un cluster Kubernetes remoto
+  ja: Telepresence は Kubernetes アプリケーション開発者向けのオープンソースツールで、単一のサービスをローカルで実行しながらそのサービスをリモートの Kubernetes クラスタに接続できます
+  ko: Telepresence는 Kubernetes 애플리케이션 개발자를 위한 오픈 소스 도구로, 단일 서비스를 로컬에서 실행하면서 동시에 원격 Kubernetes 클러스터에 연결할 수 있게 해줍니다
+  pl: Telepresence to narzędzie open source dla deweloperów aplikacji Kubernetes, które pozwala uruchomić pojedynczą usługę lokalnie, łącząc ją jednocześnie ze zdalnym klastrem Kubernetes
+  pt: O Telepresence é uma ferramenta de código aberto para desenvolvedores de aplicações Kubernetes que permite executar um único serviço localmente enquanto o conecta a um cluster Kubernetes remoto
+  ro: Telepresence este un instrument open source pentru dezvoltatorii de aplicații Kubernetes care vă permite să rulați un singur serviciu local, conectând în același timp acel serviciu la un cluster Kubernetes la distanță
+  ru: Telepresence — это инструмент с открытым исходным кодом для разработчиков приложений Kubernetes, позволяющий запускать отдельный сервис локально, подключая его к удалённому кластеру Kubernetes
+  th: Telepresence คือเครื่องมือโอเพนซอร์สสำหรับนักพัฒนาแอปพลิเคชัน Kubernetes ที่ให้คุณรันบริการเดียวในเครื่องโดยเชื่อมบริการนั้นไปยังคลัสเตอร์ Kubernetes ระยะไกล
+  tr: Telepresence, Kubernetes uygulama geliştiricileri için açık kaynaklı bir araçtır ve tek bir hizmeti yerel olarak çalıştırmanıza, aynı zamanda onu uzak bir Kubernetes kümesine bağlamanıza olanak tanır
+  uk: Telepresence — це інструмент з відкритим кодом для розробників застосунків Kubernetes, який дозволяє запускати окремий сервіс локально, підключаючи його до віддаленого кластера Kubernetes
+  vi: Telepresence là công cụ mã nguồn mở dành cho nhà phát triển ứng dụng Kubernetes, cho phép bạn chạy một dịch vụ đơn lẻ cục bộ trong khi kết nối dịch vụ đó với cụm Kubernetes từ xa
 x:
   source: https://github.com/telepresenceio/telepresence
   eget: telepresenceio/telepresence

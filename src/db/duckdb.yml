@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: DuckDB 是一个 in-process 数据库管理系统
   en: DuckDB is an in-process SQL OLAP database management system
+  cs: DuckDB je systém správy databází SQL OLAP běžící v procesu
+  de: DuckDB ist ein In-Process-SQL-OLAP-Datenbankmanagementsystem
+  es: DuckDB es un sistema de gestión de bases de datos SQL OLAP en proceso
+  fr: DuckDB est un système de gestion de bases de données SQL OLAP embarqué
+  id: DuckDB adalah sistem manajemen basis data SQL OLAP in-process
+  it: DuckDB è un sistema di gestione di database SQL OLAP in-process
+  ja: DuckDB はインプロセス型の SQL OLAP データベース管理システムです
+  ko: DuckDB는 인프로세스 SQL OLAP 데이터베이스 관리 시스템입니다
+  pl: DuckDB to system zarządzania bazami danych SQL OLAP działający w procesie
+  pt: O DuckDB é um sistema de gerenciamento de banco de dados SQL OLAP no processo
+  ro: DuckDB este un sistem de administrare a bazelor de date SQL OLAP rulând în proces
+  ru: DuckDB — это встроенная система управления базами данных SQL OLAP
+  th: DuckDB คือระบบจัดการฐานข้อมูล SQL OLAP แบบ in-process
+  tr: DuckDB, süreç içi (in-process) bir SQL OLAP veritabanı yönetim sistemidir
+  uk: DuckDB — це вбудована система управління базами даних SQL OLAP
+  vi: DuckDB là hệ thống quản lý cơ sở dữ liệu SQL OLAP chạy trong tiến trình
 x:
   source: https://github.com/duckdb/duckdb
   eget: duckdb/duckdb

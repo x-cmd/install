@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 在不到 30 秒的时间内获取具有零编码的完整假 REST API
   en: Get a full fake REST API with zero coding in less than 30 seconds
+  cs: Získejte kompletní falešné REST API bez jediného řádku kódu za méně než 30 sekund
+  de: Erhalten Sie eine vollständige gefälschte REST-API in weniger als 30 Sekunden ganz ohne Programmierung
+  es: Obtén una API REST falsa completa sin escribir código en menos de 30 segundos
+  fr: Obtenez une fausse API REST complète sans écrire la moindre ligne de code en moins de 30 secondes
+  id: Dapatkan API REST palsu penuh tanpa menulis kode dalam waktu kurang dari 30 detik
+  it: Ottieni una falsa API REST completa senza scrivere codice in meno di 30 secondi
+  ja: コードを書くことなく、30秒もかからずに完全なREST APIモックを入手できます
+  ko: 30초도 안 걸리고 코딩 없이 완전한 가짜 REST API를 얻으세요
+  pl: Zdobądź pełne fałszywe REST API bez pisania kodu w mniej niż 30 sekund
+  pt: Obtenha uma API REST falsa completa sem escrever código em menos de 30 segundos
+  ro: Obține o API REST complet fals fără a scrie cod în mai puțin de 30 de secunde
+  ru: Получите полноценный поддельный REST API без единой строки кода менее чем за 30 секунд
+  th: รับ REST API ปลอมทั้งหมดได้โดยไม่ต้องเขียนโค้ด ในเวลาไม่ถึง 30 วินาที
+  tr: 30 saniyeden kısa sürede hiç kod yazmadan tam bir sahte REST API edinin
+  uk: Отримайте повноцінний підробний REST API без жодного рядка коду менше ніж за 30 секунд
+  vi: Có được REST API giả đầy đủ mà không cần viết bất kỳ dòng mã nào chỉ trong vòng 30 giây
 x:
   source: https://github.com/typicode/json-server
   npm: json-server

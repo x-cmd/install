@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 快速而强大的 Git hooks 管理器适用于任何类型的项目
   en: Fast and powerful Git hooks manager for any type of projects
+  cs: Rychlý a výkonný správce Git hooks pro jakýkoli typ projektů
+  de: Schneller und leistungsstarker Git-Hooks-Manager für jede Art von Projekten
+  es: Gestor de hooks de Git rápido y potente para cualquier tipo de proyecto
+  fr: Gestionnaire de hooks Git rapide et puissant pour tout type de projet
+  id: Pengelola hook Git yang cepat dan kuat untuk semua jenis proyek
+  it: Gestore di hook Git veloce e potente per qualsiasi tipo di progetto
+  ja: あらゆる类型的プロジェクトに対応する高速で強力なGitフックマネージャー
+  ko: 모든 유형의 프로젝트에 맞는 빠르고 강력한 Git 훅 관리자
+  pl: Szybki i potężny menedżer hooków Git dla każdego typu projektów
+  pt: Gerenciador de hooks do Git rápido e poderoso para qualquer tipo de projeto
+  ro: Manager rapid și puternic de hook-uri Git pentru orice tip de proiect
+  ru: Быстрый и мощный менеджер Git-хуков для любых типов проектов
+  th: ตัวจัดการ Git hook ที่รวดเร็วและมีประสิทธิภาพสำหรับทุกประเภทโครงการ
+  tr: Her türden proje için hızlı ve güçlü Git hook yöneticisi
+  uk: Швидкий і потужний менеджер Git-хуків для будь-яких типів проєктів
+  vi: Trình quản lý hook Git nhanh và mạnh mẽ cho mọi loại dự án
 x:
   source: https://github.com/evilmartians/lefthook
   eget: evilmartians/lefthook

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: shell 脚本静态分析工具
   en: Static analysis tool for shell scripts
+  cs: Nástroj pro statickou analýzu shell skriptů
+  de: Statisches Analysewerkzeug für Shell-Skripte
+  es: Herramienta de análisis estático para scripts de shell
+  fr: Outil d'analyse statique pour les scripts shell
+  id: Alat analisis statis untuk skrip shell
+  it: Strumento di analisi statica per script shell
+  ja: shell スクリプトの静的解析ツール
+  ko: shell 스크립트를 위한 정적 분석 도구
+  pl: Narzędzie do statycznej analizy skryptów shell
+  pt: Ferramenta de análise estática para scripts de shell
+  ro: Instrument de analiză statică pentru scripturi shell
+  ru: Инструмент статического анализа shell-скриптов
+  th: เครื่องมือวิเคราะห์แบบคงที่สำหรับสคริปต์เชลล์
+  tr: Kabuk betikleri için statik analiz aracı
+  uk: Інструмент статичного аналізу shell-скриптів
+  vi: Công cụ phân tích tĩnh cho script shell
 x:
   source: https://github.com/koalaman/shellcheck
   eget: koalaman/shellcheck

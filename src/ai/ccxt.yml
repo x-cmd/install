@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 一个统一 100+ 加密货币交易所公开与私有 API 的跨语言库，覆盖 JavaScript、Python、PHP、C#、Go、Java。
   en: A cryptocurrency trading API with over 100 exchanges in JavaScript, TypeScript, Python, PHP, C#, Go, and Java.
+  cs: Kryptoměnové obchodní API s více než 100 burzami v JavaScript, TypeScript, Python, PHP, C#, Go a Java.
+  de: Eine Kryptowährungs-Handels-API mit über 100 Börsen in JavaScript, TypeScript, Python, PHP, C#, Go und Java.
+  es: Una API de trading de criptomonedas con más de 100 exchanges en JavaScript, TypeScript, Python, PHP, C#, Go y Java.
+  fr: Une API de trading de cryptomonnaies avec plus de 100 places de marché en JavaScript, TypeScript, Python, PHP, C#, Go et Java.
+  id: API perdagangan mata uang kripto dengan lebih dari 100 bursa di JavaScript, TypeScript, Python, PHP, C#, Go, dan Java.
+  it: Un'API di trading di criptovalute con oltre 100 exchange in JavaScript, TypeScript, Python, PHP, C#, Go e Java.
+  ja: JavaScript、TypeScript、Python、PHP、C#、Go、Java で 100 以上の取引所に対応した暗号資産トレーディング API。
+  ko: JavaScript, TypeScript, Python, PHP, C#, Go, Java에서 100개 이상의 거래소를 지원하는 암호화폐 거래 API.
+  pl: API do handlu kryptowalutami z ponad 100 giełd w JavaScript, TypeScript, Python, PHP, C#, Go i Java.
+  pt: Uma API de negociação de criptomoedas com mais de 100 corretoras em JavaScript, TypeScript, Python, PHP, C#, Go e Java.
+  ro: O API de tranzacționare cu criptomonede cu peste 100 de burse în JavaScript, TypeScript, Python, PHP, C#, Go și Java.
+  ru: Криптовалютный трейдинг-API, поддерживающий более 100 бирж на JavaScript, TypeScript, Python, PHP, C#, Go и Java.
+  th: API การเทรดคริปโตที่รองรับกว่า 100 แห่งใน JavaScript, TypeScript, Python, PHP, C#, Go และ Java
+  tr: JavaScript, TypeScript, Python, PHP, C#, Go ve Java dillerinde 100'den fazla borsa için kripto para işlem API'si.
+  uk: Криптовалютний трейдинг-API, що підтримує понад 100 бірж на JavaScript, TypeScript, Python, PHP, C#, Go та Java.
+  vi: API giao dịch tiền mã hóa hỗ trợ hơn 100 sàn giao dịch trong JavaScript, TypeScript, Python, PHP, C#, Go và Java.
 x:
   source: https://github.com/ccxt/ccxt
   pip: ccxt

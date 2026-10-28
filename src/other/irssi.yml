@@ -3,6 +3,22 @@ homepage: https://github.com/irssi/irssi
 desc:
   cn: Irssi 是一个模块化文本模式聊天客户端。它内置了 IRC 支持。
   en: Irssi is a modular text mode chat client. It comes with IRC support built in.
+  cs: Irssi je modulární textový chatovací klient s vestavěnou podporou IRC.
+  de: Irssi ist ein modularer Text-Chat-Client mit integrierter IRC-Unterstützung.
+  es: Irssi es un cliente de chat de modo texto modular. Viene con soporte de IRC integrado.
+  fr: Irssi est un client de chat en mode texte modulaire. Il intègre la prise en charge de IRC.
+  id: Irssi adalah klien obrolan mode teks modular. Dilengkapi dukungan IRC bawaan.
+  it: Irssi è un client di chat testuale modulare. Include il supporto IRC integrato.
+  ja: Irssi はモジュール式のテキストモードチャットクライアントで、IRC サポートが内蔵されています。
+  ko: Irssi는 모듈식 텍스트 모드 채팅 클라이언트입니다. IRC 지원이 기본 내장되어 있습니다.
+  pl: Irssi to modularny klient czatu tekstowego z wbudowaną obsługą IRC.
+  pt: O Irssi é um cliente de chat em modo texto modular. Já vem com suporte a IRC integrado.
+  ro: Irssi este un client de chat în mod text, modular. Vine cu suport IRC integrat.
+  ru: Irssi — модульный текстовый чат-клиент со встроенной поддержкой IRC.
+  th: Irssi เป็นไคลเอนต์แชทโหมดข้อความแบบโมดูลาร์ พร้อมรองรับ IRC ในตัว
+  tr: Irssi, yerleşik IRC desteğiyle modüler metin modu sohbet istemcisidir.
+  uk: Irssi — модульний текстовий чат-клієнт із вбудованою підтримкою IRC.
+  vi: Irssi là ứng dụng chat văn bản dạng mô-đun, tích hợp sẵn hỗ trợ IRC.
 x:
   source: https://github.com/irssi/irssi
   eget: irssi/irssi

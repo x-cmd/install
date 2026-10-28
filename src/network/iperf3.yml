@@ -3,6 +3,22 @@ homepage: https://github.com/esnet/iperf
 desc:
   cn: iperf3 是一款网络带宽测量工具，支持 TCP、UDP、SCTP 协议，可测试最大带宽、吞吐量、抖动和丢包率。
   en: iperf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks, supporting TCP, UDP, and SCTP.
+  cs: iperf3 je nástroj pro aktivní měření maximální dosažitelné šířky pásma v sítích IP, podporující TCP, UDP a SCTP.
+  de: iperf3 ist ein Werkzeug zur aktiven Messung der maximal erreichbaren Bandbreite in IP-Netzwerken und unterstützt TCP, UDP und SCTP.
+  es: iperf3 es una herramienta para la medición activa del ancho de banda máximo alcanzable en redes IP, con soporte para TCP, UDP y SCTP.
+  fr: iperf3 est un outil de mesure active de la bande passante maximale atteignable sur les réseaux IP, prenant en charge TCP, UDP et SCTP.
+  id: iperf3 adalah alat untuk pengukuran aktif bandwidth maksimum yang dapat dicapai pada jaringan IP, mendukung TCP, UDP, dan SCTP.
+  it: iperf3 è uno strumento per la misurazione attiva della banda massima raggiungibile sulle reti IP, con supporto per TCP, UDP e SCTP.
+  ja: iperf3は、IPネットワークで達成可能な最大帯域幅を能動的に測定するツールで、TCP、UDP、SCTPに対応しています。
+  ko: iperf3는 IP 네트워크에서 달성 가능한 최대 대역폭을 능동적으로 측정하는 도구로 TCP, UDP, SCTP를 지원합니다.
+  pl: iperf3 to narzędzie do aktywnego pomiaru maksymalnej osiągalnej przepustowości w sieciach IP, obsługujące TCP, UDP i SCTP.
+  pt: iperf3 é uma ferramenta para medição ativa da largura de banda máxima alcançável em redes IP, com suporte a TCP, UDP e SCTP.
+  ro: iperf3 este un instrument pentru măsurarea activă a lățimii de bandă maxime pe rețele IP, cu suport pentru TCP, UDP și SCTP.
+  ru: iperf3 — инструмент для активного измерения максимальной достижимой пропускной способности в IP-сетях с поддержкой TCP, UDP и SCTP.
+  th: iperf3 เป็นเครื่องมือสำหรับการวัดแบบแอกทีฟความกว้างแบนด์สูงสุดที่ทำได้บนเครือข่าย IP รองรับ TCP, UDP และ SCTP
+  tr: iperf3, IP ağlarında ulaşılabilir maksimum bant genişliğini etkin olarak ölçen bir araçtır ve TCP, UDP ile SCTP'yi destekler.
+  uk: iperf3 — інструмент для активного вимірювання максимально досяжної пропускної здатності в IP-мережах із підтримкою TCP, UDP та SCTP.
+  vi: iperf3 là công cụ đo chủ động băng thông tối đa có thể đạt trên mạng IP, hỗ trợ TCP, UDP và SCTP.
 x:
   source: https://github.com/esnet/iperf
   eget: esnet/iperf

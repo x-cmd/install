@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 类似 bc(1) 的计算器 REPL
   en: 'a calculator REPL, similar to bc(1)'
+  cs: Kalkulačka REPL podobná bc(1)
+  de: Ein Rechner-REPL, ähnlich wie bc(1)
+  es: Una calculadora REPL, similar a bc(1)
+  fr: Une calculatrice REPL, similaire à bc(1)
+  id: Kalkulator REPL, mirip dengan bc(1)
+  it: Una calcolatrice REPL, simile a bc(1)
+  ja: bc(1) に似た計算機 REPL
+  ko: bc(1)과 유사한 계산기 REPL
+  pl: Kalkulator REPL podobny do bc(1)
+  pt: Uma calculadora REPL, semelhante ao bc(1)
+  ro: Un calculator REPL, similar cu bc(1)
+  ru: Калькулятор REPL, похожий на bc(1)
+  th: เครื่องคำนวณ REPL คล้ายกับ bc(1)
+  tr: bc(1) benzeri bir hesap makinesi REPL
+  uk: Калькулятор REPL, схожий на bc(1)
+  vi: Máy tính REPL, tương tự bc(1)
 x:
   source: https://github.com/oppiliappan/eva
   eget: oppiliappan/eva

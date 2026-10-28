@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/dbus/dbus
 desc:
   en: Message bus system, providing inter-application communication
   cn: 消息总线系统，提供应用程序之间的通信
+  cs: Systém sběrnic zpráv, poskytující komunikaci mezi aplikacemi
+  de: Message-Bus-System, das die Kommunikation zwischen Anwendungen ermöglicht
+  es: Sistema de bus de mensajes que proporciona comunicación entre aplicaciones
+  fr: Système de bus de messages, fournissant la communication inter-applications
+  id: Sistem bus pesan yang menyediakan komunikasi antaraplikasi
+  it: Sistema di bus di messaggi che fornisce la comunicazione tra le applicazioni
+  ja: アプリケーション間の通信を提供するメッセージバスシステム
+  ko: 애플리케이션 간 통신을 제공하는 메시지 버스 시스템
+  pl: System magistrali komunikatów, zapewniający komunikację między aplikacjami
+  pt: Sistema de barramento de mensagens que fornece comunicação entre aplicativos
+  ro: Sistem de autobuz de mesaje care asigură comunicarea între aplicații
+  ru: Система шины сообщений, обеспечивающая взаимодействие между приложениями
+  th: ระบบบัสข้อความที่ให้การสื่อสารระหว่างแอปพลิเคชัน
+  tr: Uygulamalar arası iletişim sağlayan bir mesaj veri yolu sistemi
+  uk: Система шини повідомлень, що забезпечує взаємодію між застосунками
+  vi: Hệ thống bus tin nhắn, cung cấp giao tiếp giữa các ứng dụng
 rule:
   darwin/brew:
     cmd: brew install dbus

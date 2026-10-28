@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 管理 AWS EC2 实例的终端 UI 应用
   en: 'A terminal-based UI application for managing AWS EC2 instances.'
+  cs: Terminálová aplikace UI pro správu instancí AWS EC2.
+  de: Eine terminalbasierte UI-Anwendung zur Verwaltung von AWS EC2-Instanzen.
+  es: Una aplicación de UI basada en terminal para gestionar instancias de AWS EC2.
+  fr: Une application à interface en ligne de commande pour gérer les instances AWS EC2.
+  id: Aplikasi UI berbasis terminal untuk mengelola instance AWS EC2.
+  it: Un'applicazione UI basata su terminale per gestire le istanze AWS EC2.
+  ja: AWS EC2 インスタンスを管理するためのターミナルベースの UI アプリケーション。
+  ko: AWS EC2 인스턴스를 관리하기 위한 터미널 기반 UI 애플리케이션.
+  pl: Terminalowa aplikacja UI do zarządzania instancjami AWS EC2.
+  pt: Um aplicativo de UI baseado em terminal para gerenciar instâncias do AWS EC2.
+  ro: O aplicație UI bazată pe terminal pentru gestionarea instanțelor AWS EC2.
+  ru: Терминальное UI-приложение для управления экземплярами AWS EC2.
+  th: แอปพลิเคชัน UI บนเทอร์มินัลสำหรับจัดการอินสแตนซ์ AWS EC2
+  tr: AWS EC2 örneklerini yönetmek için terminal tabanlı bir UI uygulaması.
+  uk: Термінальний UI-застосунок для керування екземплярами AWS EC2.
+  vi: Ứng dụng UI chạy trên terminal để quản lý các phiên bản AWS EC2.
 x:
   source: https://github.com/nlamirault/e2c
   eget: nlamirault/e2c

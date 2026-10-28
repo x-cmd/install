@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Node.js client for the Tinify (Compression Image) API.
   cn: Node.js 客户端调用 Tinify (压缩图像) API。
+  cs: Node.js klient pro Tinify (komprese obrázků) API.
+  de: Node.js-Client für die Tinify (Bildkomprimierung) API.
+  es: Cliente de Node.js para la API de Tinify (compresión de imágenes).
+  fr: Client Node.js pour l'API Tinify (compression d'images).
+  id: Klien Node.js untuk API Tinify (kompresi gambar).
+  it: Client Node.js per l'API Tinify (compressione delle immagini).
+  ja: Tinify (画像圧縮) API の Node.js クライアント。
+  ko: Tinify(이미지 압축) API용 Node.js 클라이언트.
+  pl: Klient Node.js dla API Tinify (kompresja obrazów).
+  pt: Cliente Node.js para a API do Tinify (compressão de imagens).
+  ro: Client Node.js pentru API-ul Tinify (compresie de imagini).
+  ru: Клиент Node.js для API Tinify (сжатие изображений).
+  th: ไคลเอนต์ Node.js สำหรับ API ของ Tinify (บีบอัดภาพ)
+  tr: Tinify (görüntü sıkıştırma) API'si için Node.js istemcisi.
+  uk: Клієнт Node.js для API Tinify (стиснення зображень).
+  vi: Client Node.js cho API Tinify (nén ảnh).
 x:
   source: https://github.com/tinify/tinify-nodejs
   npm: tinify

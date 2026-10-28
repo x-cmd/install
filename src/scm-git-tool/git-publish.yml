@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 准备和存储修订补丁作为 git 标记
   en: Prepare and store patch revisions as git tags
+  cs: Připraví a uloží revize patchů jako git tagy
+  de: Bereitet Patch-Revisionen vor und speichert sie als Git-Tags
+  es: Prepara y almacena revisiones de parches como etiquetas de git
+  fr: Prépare et stocke les révisions de correctifs sous forme de tags git
+  id: Menyiapkan dan menyimpan revisi patch sebagai tag git
+  it: Prepara e salva le revisioni delle patch come tag git
+  ja: パッチのリビジョンを準備し、git タグとして保存する
+  ko: 패치 리비전을 준비하고 git 태그로 저장합니다
+  pl: Przygotowuje i zapisuje rewizje patchy jako tagi git
+  pt: Prepara e armazena revisões de patch como tags do git
+  ro: Pregătește și stochează reviziile de patch-uri ca etichete git
+  ru: Готовит и сохраняет ревизии патчей в виде git-тегов
+  th: เตรียมและจัดเก็บรุ่นแพตช์เป็นแท็กของ git
+  tr: Yamaları git etiketleri olarak hazırlar ve saklar
+  uk: Готує та зберігає ревізії патчів як git-теги
+  vi: Chuẩn bị và lưu các bản sửa đổi dưới dạng thẻ git
 x:
   source: https://github.com/stefanha/git-publish
   apt: git-publish

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 简单的命令行 CalDAV 客户端，可以添加日历事件、浏览议程和进行任务管理
   en: Simple command-line CalDAV client, making it possible to add calendar events, browse an agenda and do task management
+  cs: Jednoduchý klient CalDav pro příkazovou řádku, který umožňuje přidávat události kalendáře, procházet agendu a spravovat úkoly
+  de: Einfacher CalDav-Befehlszeilen-Client, mit dem Kalendereinträge hinzugefügt, eine Agenda durchsucht und Aufgaben verwaltet werden können
+  es: Simple cliente CalDav de línea de comandos, que permite añadir eventos de calendario, explorar una agenda y gestionar tareas
+  fr: Client CalDav en ligne de commande simple, permettant d'ajouter des événements de calendrier, de parcourir un agenda et de gérer des tâches
+  id: Klien CalDav sederhana untuk baris perintah, yang memungkinkan menambahkan acara kalender, menjelajahi agenda dan mengelola tugas
+  it: Semplice client CalDav da riga di comando, che consente di aggiungere eventi di calendario, sfoglare un'agenda e gestire le attività
+  ja: カレンダーの予定を追加し、予定一覧を参照し、タスク管理を行える、シンプルなコマンドライン CalDav クライアント
+  ko: 간단한 CalDav 명령줄 클라이언트로, 일정 추가, 일정 목록 탐색, 작업 관리가 가능합니다
+  pl: Prosty klient CalDav dla wiersza poleceń, umożliwiający dodawanie wydarzeń kalendarza, przeglądanie agendy i zarządzanie zadaniami
+  pt: Simples cliente CalDav de linha de comando, que permite adicionar eventos de calendário, navegar por uma agenda e fazer gestão de tarefas
+  ro: Client CalDav simplu pentru linia de comandă, care permite adăugarea de evenimente de calendar, parcurgerea unei agende și gestionarea sarcinilor
+  ru: Простой клиент CalDav для командной строки, позволяющий добавлять события календаря, просматривать повестку дня и управлять задачами
+  th: ไคลเอนต์ CalDav แบบบรรทัดคำสั่งอย่างง่าย ช่วยให้เพิ่มกิจกรรมในปฏิทิน เรียกดูกำหนดการ และจัดการงานได้
+  tr: Takvim etkinlikleri eklemeye, bir gündemi incelemeye ve görev yönetimi yapmaya imkân veren basit bir CalDav komut satırı istemcisi
+  uk: Простий клієнт CalDav для командного рядка, що дає змогу додавати події календаря, переглядати порядок денний і керувати завданнями
+  vi: Máy khách CalDav đơn giản cho dòng lệnh, cho phép thêm sự kiện lịch, xem lịch trình ngày và quản lý công việc
 x:
   source: https://github.com/tobixen/plann
   yay: plann

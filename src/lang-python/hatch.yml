@@ -3,6 +3,22 @@ homepage: https://github.com/pypa/hatch
 desc:
   en: Modern, extensible Python project management
   cn: 现代、可扩展的 Python 项目管理
+  cs: Moderní, rozšiřitelná správa projektů v Pythonu
+  de: Moderne, erweiterbare Python-Projektverwaltung
+  es: Gestión de proyectos de Python moderna y extensible
+  fr: Gestion de projets Python moderne et extensible
+  id: Manajemen proyek Python modern dan dapat diperluas
+  it: Gestione dei progetti Python moderna ed estensibile
+  ja: モダンで拡張可能な Python プロジェクト管理
+  ko: 현대적이고 확장 가능한 Python 프로젝트 관리
+  pl: Nowoczesne, rozszerzalne zarządzanie projektami Pythona
+  pt: Gerenciamento de projetos Python moderno e extensível
+  ro: Management modern și extensibil al proiectelor Python
+  ru: Современное и расширяемое управление проектами Python
+  th: การจัดการโปรเจกต์ Python ที่ทันสมัยและขยายตัวได้
+  tr: Modern ve genişletilebilir Python proje yönetimi
+  uk: Сучасне та розширюване керування проєктами Python
+  vi: Quản lý dự án Python hiện đại và có thể mở rộng
 x:
   source: https://github.com/pypa/hatch
   eget: pypa/hatch

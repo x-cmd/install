@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 用于从多个图像托管站点下载图像库和集合的命令行工具
   en: Command-line program to download image galleries and collections from several image hosting sites
+  cs: Program příkazové řádky ke stahování obrazových galerií a sbírek z několika hostitelů obrázků
+  de: Kommandozeilenprogramm zum Herunterladen von Bildergalerien und Sammlungen von mehreren Bild-Hosts
+  es: Programa de línea de comandos para descargar galerías y colecciones de imágenes de varios sitios de alojamiento de imágenes
+  fr: Programme en ligne de commande pour télécharger des galeries et collections d'images depuis plusieurs sites d'hébergement d'images
+  id: Program baris perintah untuk mengunduh galeri dan koleksi gambar dari beberapa situs hosting gambar
+  it: Programma da riga di comando per scaricare gallerie e collezioni di immagini da diversi siti di hosting di immagini
+  ja: 複数の画像ホスティングサイトから画像ギャラリーとコレクションをダウンロードするコマンドラインプログラム
+  ko: 여러 이미지 호스팅 사이트에서 이미지 갤러리와 컬렉션을 다운로드하는 명령줄 프로그램
+  pl: Program wiersza polecenia do pobierania galerii i kolekcji obrazów z kilku witryn hostujących obrazy
+  pt: Programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens
+  ro: Program de linie de comandă pentru descărcarea galeriilor și colecțiilor de imagini de pe mai multe site-uri de găzduire de imagini
+  ru: Программа командной строки для загрузки галерей и коллекций изображений с нескольких сайтов хостинга изображений
+  th: โปรแกรมบรรทัดคำสั่งสำหรับดาวน์โหลดแกลเลอรีและคอลเลกชันรูปภาพจากหลายเว็บไซต์จัดเก็บรูปภาพ
+  tr: Çeşitli görsel barındırma sitelerinden görsel galerileri ve koleksiyonları indirmek için komut satırı programı
+  uk: Програма командного рядка для завантаження галерей і колекцій зображень із кількох сайтів хостингу зображень
+  vi: Chương trình dòng lệnh để tải thư viện và bộ sưu tập hình ảnh từ nhiều trang lưu trữ hình ảnh
 x:
   source: https://github.com/mikf/gallery-dl
   apt: yt-dlp

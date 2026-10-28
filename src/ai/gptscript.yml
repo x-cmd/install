@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: GPTScript 是一种新的脚本语言，可自动与大型语言模型 (LLM)（即 OpenAI）进行交互
   en: GPTScript is a new scripting language to automate your interaction with a Large Language Model (LLM), namely OpenAI
+  cs: GPTScript je nový skriptovací jazyk, který automatizuje vaši interakci s velkým jazykovým modelem (LLM), konkrétně s OpenAI
+  de: GPTScript ist eine neue Skriptsprache, die Ihre Interaktion mit einem Large Language Model (LLM), nämlich OpenAI, automatisiert
+  es: GPTScript es un nuevo lenguaje de scripting para automatizar tu interacción con un Large Language Model (LLM), es decir, OpenAI
+  fr: GPTScript est un nouveau langage de script pour automatiser votre interaction avec un Large Language Model (LLM), à savoir OpenAI
+  id: GPTScript adalah bahasa skrip baru untuk mengotomatiskan interaksi Anda dengan Large Language Model (LLM), yaitu OpenAI
+  it: GPTScript è un nuovo linguaggio di scripting per automatizzare la tua interazione con un Large Language Model (LLM), cioè OpenAI
+  ja: GPTScript は、OpenAI に代表される大規模言語モデル (LLM) との対話を自動化する新しいスクリプト言語です
+  ko: GPTScript는 OpenAI를 비롯한 대규모 언어 모델 (LLM)과의 대화를 자동화하는 새로운 스크립팅 언어입니다
+  pl: GPTScript to nowy język skryptowy automatyzujący interakcję z dużym modelem językowym (LLM), czyli OpenAI
+  pt: GPTScript é uma nova linguagem de script para automatizar sua interação com um Large Language Model (LLM), namely OpenAI
+  ro: GPTScript este un nou limbaj de scripting care automatizează interacțiunea ta cu un Large Language Model (LLM), adică OpenAI
+  ru: GPTScript — это новый скриптовый язык для автоматизации взаимодействия с большой языковой моделью (LLM), то есть OpenAI
+  th: GPTScript คือภาษาสคริปต์ใหม่ที่ทำให้การโต้ตอบกับโมเดลภาษาขนาดใหญ่ (LLM) อย่าง OpenAI เป็นอัตโนมัติ
+  tr: GPTScript, OpenAI gibi büyük dil modeliyle (LLM) etkileşiminizi otomatikleştiren yeni bir betik dilidir
+  uk: GPTScript — це нова мова сценаріїв для автоматизації взаємодії з великою мовною моделлю (LLM), тобто OpenAI
+  vi: GPTScript là ngôn ngữ kịch bản mới giúp tự động hóa việc tương tác của bạn với Mô hình ngôn ngữ lớn (LLM), tức là OpenAI
 x:
   source: https://github.com/gptscript-ai/gptscript
   eget: gptscript-ai/gptscript

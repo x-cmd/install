@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于从 GitHub 下载 release 资源的命令行工具。
   en: A command line tool to download release assets from GitHub.
+  cs: Nástroj příkazové řádky pro stahování release aktiv z GitHubu.
+  de: Ein Kommandozeilenwerkzeug zum Herunterladen von Release-Assets von GitHub.
+  es: Una herramienta de línea de comandos para descargar assets de las releases de GitHub.
+  fr: Un outil en ligne de commande pour télécharger les fichiers de release depuis GitHub.
+  id: Alat baris perintah untuk mengunduh aset rilis dari GitHub.
+  it: Uno strumento da riga di comando per scaricare gli asset delle release da GitHub.
+  ja: GitHub のリリース資産をダウンロードするコマンドラインツール。
+  ko: GitHub 릴리스 에셋을 다운로드하기 위한 명령줄 도구.
+  pl: Narzędzie wiersza poleceń do pobierania zasobów wydań z GitHuba.
+  pt: Uma ferramenta de linha de comando para baixar os assets das releases do GitHub.
+  ro: Un instrument de linie de comandă pentru descărcarea activelor de versiune din GitHub.
+  ru: Инструмент командной строки для загрузки файлов релизов из GitHub.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับดาวน์โหลดไฟล์รีลีสจาก GitHub
+  tr: GitHub'daki sürüm varlıklarını indirmek için bir komut satırı aracı.
+  uk: Інструмент командного рядка для завантаження файлів релізів з GitHub.
+  vi: Công cụ dòng lệnh để tải các tài nguyên bản phát hành từ GitHub.
 x:
   source: https://github.com/devmatteini/dra
   brew: dra

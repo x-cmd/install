@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Ulp 是一个命令行工具，可用于查找给定输入的 URL 并与之交互。
   en: Ulp is a command-line tool that can be used to find and interact with URLs from a given input.
+  cs: Ulp je nástroj příkazové řádky, který lze použít k hledání a práci s URL z daného vstupu.
+  de: Ulp ist ein Kommandozeilenwerkzeug, mit dem sich URLs aus einer Eingabe finden und bearbeiten lassen.
+  es: Ulp es una herramienta de línea de órdenes que se puede usar para buscar e interactuar con URL a partir de una entrada dada.
+  fr: Ulp est un outil en ligne de commande qui permet de trouver et d'interagir avec des URL à partir d'une entrée donnée.
+  id: Ulp adalah alat baris perintah yang dapat digunakan untuk menemukan dan berinteraksi dengan URL dari masukan tertentu.
+  it: Ulp è uno strumento da riga di comando utilizzabile per trovare e interagire con URL da un dato input.
+  ja: Ulp は、指定した入力から URL を見つけて操作するために使えるコマンドラインツールです。
+  ko: Ulp은(는) 주어진 입력에서 URL을 찾고 상호작용하는 데 사용할 수 있는 명령줄 도구입니다.
+  pl: Ulp to narzędzie wiersza poleceń, którego można używać do wyszukiwania i obsługi adresów URL z podanego wejścia.
+  pt: Ulp é uma ferramenta de linha de comando que pode ser usada para localizar e interagir com URLs a partir de uma entrada dada.
+  ro: Ulp este un instrument de linie de comandă care poate fi folosit pentru a găsi și interacționa cu URL-uri dintr-o intrare dată.
+  ru: Ulp — инструмент командной строки, который можно использовать для поиска и работы с URL из заданного ввода.
+  th: Ulp เป็นเครื่องมือบรรทัดคำสั่งที่ใช้ค้นหาและโต้ตอบกับ URL จากอินพุตที่กำหนดได้
+  tr: Ulp, verilen bir girdiden URL bulmak ve onlarla etkileşmek için kullanılabilen bir komut satırı aracıdır.
+  uk: Ulp — інструмент командного рядка, який можна використовувати для пошуку та роботи з URL із заданого вводу.
+  vi: Ulp là công cụ dòng lệnh dùng để tìm và tương tác với các URL từ một đầu vào cho trước.
 x:
   source: https://github.com/victal/ulp
 rule:

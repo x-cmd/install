@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Harlequin 是一个 SQL IDE，适用于 DuckDB、SQLite 和在终端中运行的其他数据库
   en: Harlequin is a SQL IDE for DuckDB, SQLite, and other databases that runs in your Terminal
+  cs: Harlequin je SQL IDE pro DuckDB, SQLite a další databáze, které běží ve vašem terminálu
+  de: Harlequin ist eine SQL-IDE für DuckDB, SQLite und andere Datenbanken, die in Ihrem Terminal läuft
+  es: Harlequin es un IDE de SQL para DuckDB, SQLite y otras bases de datos que se ejecuta en tu terminal
+  fr: Harlequin est un IDE SQL pour DuckDB, SQLite et d'autres bases de données qui s'exécute dans votre terminal
+  id: Harlequin adalah IDE SQL untuk DuckDB, SQLite, dan basis data lainnya yang berjalan di Terminal Anda
+  it: Harlequin è un IDE SQL per DuckDB, SQLite e altri database che gira nel tuo Terminale
+  ja: Harlequin は DuckDB、SQLite およびその他のデータベース向けの SQL IDE で、ターミナル上で動作します
+  ko: Harlequin은 DuckDB, SQLite 및 기타 데이터베이스를 위한 SQL IDE로, 터미널에서 실행됩니다
+  pl: Harlequin to IDE SQL dla DuckDB, SQLite i innych baz danych, działające w Twoim terminalu
+  pt: O Harlequin é um IDE de SQL para DuckDB, SQLite e outros bancos de dados que roda no seu terminal
+  ro: Harlequin este un IDE SQL pentru DuckDB, SQLite și alte baze de date, care rulează în terminalul dumneavoastră
+  ru: Harlequin — это SQL IDE для DuckDB, SQLite и других баз данных, работающая в вашем терминале
+  th: Harlequin คือ SQL IDE สำหรับ DuckDB, SQLite และฐานข้อมูลอื่น ๆ ที่ทำงานอยู่ในเทอร์มินัลของคุณ
+  tr: Harlequin, terminalinizde çalışan DuckDB, SQLite ve diğer veritabanları için bir SQL IDE'sidir
+  uk: Harlequin — це SQL IDE для DuckDB, SQLite та інших баз даних, що працює у вашому терміналі
+  vi: Harlequin là IDE SQL cho DuckDB, SQLite và các cơ sở dữ liệu khác chạy trong terminal của bạn
 x:
   source: https://github.com/tconbeer/harlequin
   eget: tconbeer/harlequin

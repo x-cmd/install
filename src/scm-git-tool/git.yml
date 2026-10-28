@@ -3,6 +3,22 @@ homepage: https://git-scm.com/
 desc:
   cn: Git 是一个免费的开源分散式版本控制，旨在以快速高效的方式处理从小到大的各种项目
   en: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+  cs: Git je bezplatný open source distribuovaný systém správy verzí, navržený pro práci s projekty od malých po velmi velké rychle a efektivně
+  de: Git ist ein freies und quelloffenes verteiltes Versionskontrollsystem, das darauf ausgelegt ist, alles von kleinen bis sehr großen Projekten schnell und effizient zu verwalten
+  es: Git es un sistema de control de versiones distribuido, gratuito y de código abierto, diseñado para manejar con rapidez y eficiencia desde proyectos pequeños hasta muy grandes
+  fr: Git est un système de gestion de versions distribué, gratuit et open source, conçu pour traiter avec vitesse et efficacité des projets allant de petits à très grands
+  id: Git adalah sistem kontrol versi terdistribusi gratis dan open source yang dirancang untuk menangani semua proyek dari kecil hingga sangat besar dengan cepat dan efisien
+  it: Git è un sistema di controllo versione distribuito, gratuito e open source, progettato per gestire con rapidità ed efficienza progetti da piccoli a molto grandi
+  ja: Git は、小規模から非常に大规模なプロジェクトまで高速かつ効率的に扱えるよう設計された、フリーでオープンソースの分散型バージョン管理システムです。
+  ko: Git는 소규모부터 매우 큰 프로젝트까지 빠르고 효율적으로 처리하도록 설계된 무료 오픈 소스 분산 버전 관리 시스템입니다
+  pl: Git jest darmowym, open source'owym rozproszonym systemem kontroli wersji, zaprojektowanym tak, by szybko i sprawnie obsługiwać projekty od małych po bardzo duże
+  pt: O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para tratar com velocidade e eficiência desde pequenos até projetos muito grandes
+  ro: Git este un sistem distribuit de control al versiunii, gratuit și open source, conceput pentru a gestiona rapid și eficient proiecte de la mici la foarte mari
+  ru: Git — бесплатная распределённая система контроля версий с открытым исходным кодом, созданная для быстрого и эффективного управления проектами любого масштаба
+  th: Git คือระบบควบคุมเวอร์ชันแบบกระจาย ฟรีและโอเพนซอร์ส ที่ออกแบบมาเพื่อรองรับงานตั้งแต่โปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่มากด้วยความเร็วและประสิทธิภาพ
+  tr: Git, küçükten çok büyük projelere kadar her şeyi hızlı ve verimli bir şekilde ele almak üzere tasarlanmış ücretsiz ve açık kaynaklı dağıtık sürüm kontrol sistemidir
+  uk: Git — безкоштовна розподілена система контролю версій з відкритим кодом, створена для швидкої та ефективної роботи з проєктами від малих до дуже великих
+  vi: Git là hệ thống quản lý phiên bản phân tán, miễn phí và mã nguồn mở, được thiết kế để xử lý mọi thứ từ dự án nhỏ đến rất lớn một cách nhanh chóng và hiệu quả
 rule:
   darwin/brew:
     cmd: brew install git

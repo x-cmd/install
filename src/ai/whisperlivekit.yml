@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 超低延迟、自托管的语音转文本功能，并且能够区分音频中不同说话人
   en: Ultra-low-latency, self-hosted speech-to-text with speaker identification
+  cs: Převod řeči na text s velmi nízkou latencí, hostovaný vlastními silami, s rozpoznáváním mluvčích
+  de: Spracherkennung mit äußerst niedriger Latenz, selbst gehostet, mit Sprecheridentifikation
+  es: Conversión de voz a texto con latencia ultrabaja, autoalojada e identificación del hablante
+  fr: Reconnaissance vocale à très faible latence, auto-hébergée, avec identification du locuteur
+  id: Konversi suara ke teks dengan latensi sangat rendah, di-hosting sendiri, dengan identifikasi pembicara
+  it: Conversione da parlato a testo a latenza ultra bassa, self-hosted, con identificazione del parlante
+  ja: 超低遅延のセルフホスト型音声認識で、話者の識別にも対応します
+  ko: 초저지연 자체 호스팅 음성 인식 기능으로 화자 식별도 지원합니다
+  pl: Konwersja mowy na tekst z ultraniskim opóźnieniem, hostowana samodzielnie, z identyfikacją mówcy
+  pt: Conversão de fala em texto com latência ultrabaja, auto-hospedado e identificação do locutor
+  ro: Conversie vorbire-tex cu latență ultra-scăzută, găzduită pe propriul server, cu identificarea vorbitorului
+  ru: Распознавание речи с сверхнизкой задержкой на собственном сервере, с определением говорящего
+  th: การแปลงเสียงเป็นข้อความที่มีความหน่วงต่ำมาก โฮสต์เอง พร้อมการระบุผู้พูด
+  tr: Konuşmacı tanımlama destekli, ultra düşük gecikmeli, kendi sunucunuzda barındırılan konuşmadan metne dönüştürme
+  uk: Розпізнавання мовлення з наднизькою затримкою на власному сервері, з визначенням мовця
+  vi: Chuyển giọng nói thành văn bản với độ trễ cực thấp, tự lưu trữ, kèm nhận dạng người nói
 x:
   source: https://github.com/QuentinFuxa/WhisperLiveKit
   yay: whisperlivekit

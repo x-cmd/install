@@ -3,6 +3,22 @@ homepage: https://github.com/pygobject/pycairo
 desc:
   cn: Pycairo 是一个为 cairo 图形库提供绑定的 Python 模块
   en: Pycairo is a Python module providing bindings for the cairo graphics library
+  cs: Pycairo je Python modul poskytující vazby na grafickou knihovnu cairo
+  de: Pycairo ist ein Python-Modul, das Bindungen für die Grafikbibliothek cairo bereitstellt
+  es: Pycairo es un módulo de Python que proporciona bindings para la biblioteca gráfica cairo
+  fr: Pycairo est un module Python fournissant des bindings pour la bibliothèque graphique cairo
+  id: Pycairo adalah modul Python yang menyediakan binding untuk pustaka grafis cairo
+  it: Pycairo è un modulo Python che fornisce i binding per la libreria grafica cairo
+  ja: Pycairo は cairo グラフィックライブラリ用のバインディングを提供する Python モジュールです
+  ko: Pycairo는 cairo 그래픽 라이브러리 바인딩을 제공하는 Python 모듈입니다
+  pl: Pycairo to moduł Pythona zapewniający powiązania z biblioteką graficzną cairo
+  pt: Pycairo é um módulo Python que fornece ligações para a biblioteca gráfica cairo
+  ro: Pycairo este un modul Python care oferă legături pentru biblioteca grafică cairo
+  ru: Pycairo — это модуль Python, предоставляющий привязки к графической библиотеке cairo
+  th: Pycairo เป็นโมดูล Python ที่ให้ binding สำหรับไลบรารีกราฟิก cairo
+  tr: Pycairo, cairo grafik kitaplığı için bağlantılar sağlayan bir Python modülüdür
+  uk: Pycairo — це модуль Python, що надає прив'язки до графічної бібліотеки cairo
+  vi: Pycairo là một module Python cung cấp binding cho thư viện đồ họa cairo
 x:
   source: https://github.com/pygobject/pycairo
   apt: libcairo2-dev

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: PDFMiner 是 PDF 文档的文本提取工具
   en: PDFMiner is a text extraction tool for PDF documents
+  cs: PDFMiner je nástroj pro extrakci textu z dokumentů PDF
+  de: PDFMiner ist ein Werkzeug zur Textextraktion aus PDF-Dokumenten
+  es: PDFMiner es una herramienta de extracción de texto de documentos PDF
+  fr: PDFMiner est un outil d'extraction de texte pour les documents PDF
+  id: PDFMiner adalah alat ekstraksi teks untuk dokumen PDF
+  it: PDFMiner è uno strumento di estrazione del testo dai documenti PDF
+  ja: PDFMiner は PDF ドキュメントからテキストを抽出するツールです
+  ko: PDFMiner는 PDF 문서에서 텍스트를 추출하는 도구입니다
+  pl: PDFMiner to narzędzie do ekstrakcji tekstu z dokumentów PDF
+  pt: O PDFMiner é uma ferramenta de extração de texto de documentos PDF
+  ro: PDFMiner este un instrument de extragere a textului din documentele PDF
+  ru: PDFMiner — инструмент для извлечения текста из PDF-документов
+  th: PDFMiner คือเครื่องมือสกัดข้อความจากเอกสาร PDF
+  tr: PDFMiner, PDF belgelerinden metin çıkarmak için bir araçtır
+  uk: PDFMiner — інструмент для вилучення тексту з PDF-документів
+  vi: PDFMiner là công cụ trích xuất văn bản từ tài liệu PDF
 x:
   source: https://github.com/euske/pdfminer
   pip: pdfminer

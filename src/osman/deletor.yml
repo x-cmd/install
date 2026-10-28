@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用交互式 TUI 与可脚本化 CLI 高效管理与删除文件
   en: 'Manage and delete files efficiently with an interactive TUI and scriptable CLI.'
+  cs: Efektivní správa a mazání souborů pomocí interaktivního TUI a skriptovatelného CLI.
+  de: Dateien effizient mit interaktiver TUI und skriptbarem CLI verwalten und löschen.
+  es: Gestione y elimina archivos de forma eficiente con una TUI interactiva y un CLI programable.
+  fr: Gérez et supprimez efficacement des fichiers avec une TUI interactive et une CLI scriptable.
+  id: Kelola dan hapus file secara efisien dengan TUI interaktif dan CLI yang dapat diprogramkan.
+  it: Gestisci ed elimina file in modo efficiente con una TUI interattiva e una CLI scriptabile.
+  ja: 対話型TUIとスクリプト可能なCLIでファイルを効率的に管理・削除
+  ko: 대화형 TUI와 스크립팅 가능한 CLI로 파일을 효율적으로 관리하고 삭제
+  pl: Skuteczne zarządzanie plikami i ich usuwanie za pomocą interaktywnego TUI i skryptowalnego CLI.
+  pt: Gerencie e exclua arquivos com eficiência usando uma TUI interativa e uma CLI programável.
+  ro: Gestionați și ștergeți eficient fișiere cu o TUI interactivă și o CLI scriptabilă.
+  ru: Эффективное управление и удаление файлов с помощью интерактивного TUI и скриптуемого CLI.
+  th: จัดการและลบไฟล์อย่างมีประสิทธิภาพด้วย TUI แบบโต้ตอบและ CLI ที่เขียนสคริปต์ได้
+  tr: Etkileşimli TUI ve betiklenebilir CLI ile dosyaları verimli şekilde yönetin ve silin.
+  uk: Ефективне керування та видалення файлів за допомогою інтерактивного TUI та скриптованого CLI.
+  vi: Quản lý và xóa tệp hiệu quả với TUI tương tác và CLI có thể viết kịch bản.
 x:
   source: https://github.com/pashkov256/deletor
   eget: pashkov256/deletor

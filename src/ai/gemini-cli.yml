@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Google 官方推出的 Gemini 命令行工具。它是一款面向开发者的 AI 助手，能够连接本地工具、理解代码内容、加速工作流程，提升终端操作效率。
   en: Gemini CLI is an official command-line tool from Google. Designed as an AI-powered assistant for developers, it connects to your local tools, understands your code, and helps streamline your workflow.
+  cs: Gemini CLI je oficiální nástroj příkazové řádky od Googlu. Navržený jako asistent s umělou inteligencí pro vývojáře se připojuje k vašim místním nástrojům, rozumí vašemu kódu a pomáhá zefektivnit vaše pracovní postupy.
+  de: Gemini CLI ist ein offizielles Kommandozeilen-Tool von Google. Als KI-gestützter Assistent für Entwickler gedacht, verbindet es sich mit Ihren lokalen Tools, versteht Ihren Code und hilft, Ihre Arbeitsabläufe zu straffen.
+  es: Gemini CLI es una herramienta de línea de comandos oficial de Google. Diseñada como asistente de IA para desarrolladores, se conecta con tus herramientas locales, entiende tu código y ayuda a optimizar tu flujo de trabajo.
+  fr: Gemini CLI est un outil en ligne de commande officiel de Google. Conçu comme un assistant assisté par l'IA pour les développeurs, il se connecte à vos outils locaux, comprend votre code et vous aide à rationaliser votre flux de travail.
+  id: Gemini CLI adalah alat baris perintah resmi dari Google. Dirancang sebagai asisten bertenaga AI untuk pengembang, alat ini terhubung ke alat lokal Anda, memahami kode Anda, dan membantu merampingkan alur kerja Anda.
+  it: Gemini CLI è un'utilità della riga di comando ufficiale di Google. Progettata come assistente basato sull'IA per gli sviluppatori, si collega ai tuoi strumenti locali, comprende il tuo codice e aiuta a snellire il tuo flusso di lavoro.
+  ja: Gemini CLI は Google が公式にリリースしているコマンドラインツールです。開発者向けの AI アシスタントとして設計され、ローカルのツールに接続し、コードを理解して、ワークフローを効率化します。
+  ko: Gemini CLI는 Google의 공식 명령줄 도구입니다. 개발자를 위한 AI 어시스턴트로 설계되어 로컬 도구와 연결되고, 코드를 이해하며, 작업 흐름을 간소화해 줍니다.
+  pl: Gemini CLI to oficjalne narzędzie wiersza poleceń od Google. Zaprojektowane jako asystent wspierany przez AI dla deweloperów, łączy się z lokalnymi narzędziami, rozumie Twój kod i pomaga usprawnić przepływ pracy.
+  pt: Gemini CLI é uma ferramenta de linha de comando oficial do Google. Projetada como assistente com IA para desenvolvedores, conecta-se às suas ferramentas locais, entende seu código e ajuda a simplificar seu fluxo de trabalho.
+  ro: Gemini CLI este un instrument oficial de linie de comandă de la Google. Proiectat ca asistent susținut de AI pentru dezvoltatori, se conectează la instrumentele tale locale, înțelege codul tău și te ajută să îți simplifici fluxul de lucru.
+  ru: Gemini CLI — официальный инструмент командной строки от Google. Созданный как ИИ-ассистент для разработчиков, он подключается к вашим локальным инструментам, понимает ваш код и помогает упростить рабочий процесс.
+  th: Gemini CLI คือเครื่องมือบรรทัดคำสั่งอย่างเป็นทางการของ Google ออกแบบมาให้เป็นผู้ช่วยที่ขับเคลื่อนด้วย AI สำหรับนักพัฒนา โดยเชื่อมต่อกับเครื่องมือในเครื่อง เข้าใจโค้ดของคุณ และช่วยให้กระบวนการทำงานลื่นไหลขึ้น
+  tr: Gemini CLI, Google tarafından sunulan resmi bir komut satırı aracıdır. Geliştiriciler için yapay zekâ destekli bir asistan olarak tasarlanmıştır; yerel araçlarınıza bağlanır, kodunuzu anlar ve iş akışınızı kolaylaştırmanıza yardımcı olur.
+  uk: Gemini CLI — офіційний інструмент командного рядка від Google. Створений як ІІ-асистент для розробників, він підключається до ваших локальних інструментів, розуміє ваш код і допомагає спростити робочий процес.
+  vi: Gemini CLI là công cụ dòng lệnh chính thức từ Google. Được thiết kế như trợ lý AI dành cho nhà phát triển, nó kết nối với các công cụ cục bộ của bạn, hiểu mã nguồn của bạn và giúp đơn giản hóa quy trình công việc.
 x:
   source: https://github.com/google-gemini/gemini-cli
   eget: google-gemini/gemini-cli

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 更智能的 cd 命令。支持所有主要 shell。
   en: A smarter cd command. Supports all major shells.
+  cs: Chytřejší příkaz cd. Podporuje všechny hlavní shelly.
+  de: Ein intelligenterer cd-Befehl. Unterstützt alle gängigen Shells.
+  es: Un comando cd más inteligente. Compatible con todos los shells principales.
+  fr: Une commande cd plus intelligente. Prend en charge tous les shells principaux.
+  id: Perintah cd yang lebih cerdas. Mendukung semua shell utama.
+  it: Un comando cd più intelligente. Supporta tutte le shell principali.
+  ja: より賢い cd コマンド。すべての主要シェルに対応しています。
+  ko: 더 똑똑한 cd 명령어. 모든 주요 셸을 지원합니다.
+  pl: Sprytniejsze polecenie cd. Obsługuje wszystkie główne powłoki.
+  pt: Um comando cd mais inteligente. Suporta todas as shells principais.
+  ro: O comandă cd mai inteligentă. Acceptă toate shell-urile principale.
+  ru: Более умная команда cd. Поддерживает все основные оболочки.
+  th: คำสั่ง cd ที่ฉลาดกว่า รองรับเชลล์หลักทั้งหมด
+  tr: Daha akıllı bir cd komutu. Tüm önemli kabukları destekler.
+  uk: Розумніша команда cd. Підтримує всі основні оболонки.
+  vi: Lệnh cd thông minh hơn. Hỗ trợ tất cả các shell chính.
 x:
   source: https://github.com/ajeetdsouza/zoxide
   eget: ajeetdsouza/zoxide

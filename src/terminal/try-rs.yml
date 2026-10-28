@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于 Rust 的极速临时实验工作区管理器
   en: 'A blazing fast, Rust-based workspace manager for your temporary experiments.'
+  cs: Rychlý správce pracovních prostorů pro dočasné experimenty založený na Rust.
+  de: Ein blitzschneller, auf Rust basierender Workspace-Manager für deine temporären Experimente.
+  es: Un gestor de espacios de trabajo muy rápido basado en Rust para tus experimentos temporales.
+  fr: Un gestionnaire d'espaces de travail ultra rapide basé sur Rust pour vos expérimentations temporaires.
+  id: Manajer ruang kerja berbasis Rust yang blazing fast untuk eksperimen sementara Anda.
+  it: Un gestore di workspace basato su Rust, velocissimo, per i tuoi esperimenti temporanei.
+  ja: 一時的な実験のための超高速な Rust ベースのワークスペースマネージャー。
+  ko: 임시 실험을 위한 blazing fast한 Rust 기반 워크스페이스 관리자.
+  pl: Błyskawiczny menedżer przestrzeni roboczych oparty na Rust, do tymczasowych eksperymentów.
+  pt: Um gerencior de espaços de trabalho extremamente rápido baseado em Rust para seus experimentos temporários.
+  ro: Un manager de spații de lucru ultrarapid bazat pe Rust pentru experimentele tale temporare.
+  ru: Сверхбыстрый менеджер рабочих пространств на Rust для временных экспериментов.
+  th: ตัวจัดการพื้นที่ทำงานที่เร็วแบบสายฟ้าสำหรับการทดลองชั่วคราว พัฒนาด้วย Rust.
+  tr: Geçici deneyleriniz için Rust tabanlı, çok hızlı bir çalışma alanı yöneticisi.
+  uk: Надзвичайно швидкий менеджер робочих просторів на Rust для тимчасових експериментів.
+  vi: Trình quản lý không gian làm việc cực nhanh dựa trên Rust cho các thử nghiệm tạm thời của bạn.
 x:
   source: https://github.com/tassiovirginio/try-rs
   eget: tassiovirginio/try-rs

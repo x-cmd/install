@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: kapp 是一个简单的部署工具，专注于“Kubernetes 应用程序”的概念——一组具有相同标签的资源
   en: kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+  cs: kapp je jednoduchý nástroj pro nasazování zaměřený na koncept "aplikace Kubernetes" — sady zdrojů se stejným štítkem
+  de: kapp ist ein einfaches Deployment-Werkzeug, das sich auf das Konzept der "Kubernetes-Anwendung" konzentriert — eine Reihe von Ressourcen mit demselben Label
+  es: "kapp es una sencilla herramienta de despliegue centrada en el concepto de \"aplicación Kubernetes\": un conjunto de recursos con la misma etiqueta"
+  fr: kapp est un simple outil de déploiement axé sur le concept d'"application Kubernetes" — un ensemble de ressources portant la même étiquette
+  id: kapp adalah alat-deployment sederhana yang berfokus pada konsep "aplikasi Kubernetes" — sekumpulan sumber daya dengan label yang sama
+  it: kapp è un semplice strumento di deployment incentrato sul concetto di "applicazione Kubernetes" — un insieme di risorse con la stessa etichetta
+  ja: kapp は「Kubernetes アプリケーション」という概念に焦点を当てたシンプルなデプロイツールです（同じラベルを持つリソースの集合）
+  ko: kapp은 "Kubernetes 애플리케이션" 개념(같은 라벨을 가진 리소스 모음)에 초점을 둔 간단한 배포 도구입니다
+  pl: kapp to proste narzędzie do wdrażania, skoncentrowane na koncepcji "aplikacji Kubernetes" — zestawu zasobów o tym samym etykiecie
+  pt: kapp é uma ferramenta simples de implantação focada no conceito de "aplicação Kubernetes" — um conjunto de recursos com o mesmo rótulo
+  ro: kapp este un instrument simplu de implementare concentrat pe conceptul de "aplicație Kubernetes" — o mulțime de resurse cu aceeași etichetă
+  ru: kapp — простой инструмент развёртывания, ориентированный на концепцию «приложение Kubernetes» — набор ресурсов с одинаковой меткой
+  th: kapp คือเครื่องมือ deploy อย่างง่ายที่เน้นแนวคิดของ "แอปพลิเคชัน Kubernetes" ซึ่งคือชุดของทรัพยากรที่มีป้ายกำกับเดียวกัน
+  tr: kapp, "Kubernetes uygulaması" kavramına odaklanan basit bir dağıtım aracıdır — aynı etikete sahip kaynak kümesi
+  uk: kapp — простий інструмент розгортання, зосереджений на концепції «застосунок Kubernetes» — наборі ресурсів з однаковою міткою
+  vi: kapp là công cụ triển khai đơn giản tập trung vào khái niệm "ứng dụng Kubernetes" — một tập hợp tài nguyên có cùng nhãn
 x:
   source: https://github.com/vmware-tanzu/carvel-kapp
   eget: vmware-tanzu/carvel-kapp

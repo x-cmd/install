@@ -3,6 +3,22 @@ homepage: https://gitea.com/gitea/tea
 desc:
   cn: 与 Gitea 服务器交互，Gitea 官方 CLI
   en: Interact with Gitea servers, Official CLI for Gitea
+  cs: Interakce se servery Gitea, oficiální CLI pro Gitea
+  de: Interaktion mit Gitea-Servern, offizielle CLI für Gitea
+  es: Interactúa con servidores Gitea, CLI oficial para Gitea
+  fr: Interagissez avec les serveurs Gitea, CLI officielle pour Gitea
+  id: Berinteraksi dengan server Gitea, CLI resmi untuk Gitea
+  it: Interagisci con i server Gitea, CLI ufficiale per Gitea
+  ja: Gitea サーバーと対話するための公式 CLI
+  ko: Gitea 서버와 상호작용하기 위한 Gitea 공식 CLI
+  pl: Interakcja z serwerami Gitea, oficjalne CLI dla Gitea
+  pt: Interaja com servidores Gitea, a CLI oficial do Gitea
+  ro: Interacționează cu serverele Gitea, CLI oficial pentru Gitea
+  ru: Взаимодействие с серверами Gitea, официальный CLI для Gitea
+  th: โต้ตอบกับเซิร์ฟเวอร์ Gitea, CLI อย่างเป็นทางการของ Gitea
+  tr: Gitea sunucularıyla etkileşim kurun, Gitea için resmi CLI
+  uk: Взаємодія з серверами Gitea, офіційний CLI для Gitea
+  vi: Tương tác với máy chủ Gitea, CLI chính thức của Gitea
 x:
   apt: tea
   brew: tea

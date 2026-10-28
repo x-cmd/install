@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 虚拟集群正在完全工作的 kubernetes 集群，它们在其他 Kubernetes 集群之上运行
   en: Virtual clusters are fully working Kubernetes clusters that run on top of other Kubernetes clusters
+  cs: Virtuální clustery jsou plně funkční clustery Kubernetes, které běží nad jinými clustery Kubernetes
+  de: Virtuelle Cluster sind voll funktionsfähige Kubernetes-Cluster, die auf anderen Kubernetes-Clustern laufen
+  es: Los clústeres virtuales son clústeres de Kubernetes completamente funcionales que se ejecutan sobre otros clústeres de Kubernetes
+  fr: Les clusters virtuels sont des clusters Kubernetes pleinement fonctionnels qui s'exécutent au-dessus d'autres clusters Kubernetes
+  id: Klaster virtual adalah klaster Kubernetes yang berfungsi penuh dan berjalan di atas klaster Kubernetes lainnya
+  it: I cluster virtuali sono cluster Kubernetes completamente funzionanti che girano sopra altri cluster Kubernetes
+  ja: 仮想クラスタは、他の Kubernetes クラスタ上で動作する完全に機能する Kubernetes クラスタです
+  ko: 가상 클러스터는 다른 Kubernetes 클러스터 위에서 실행되는 완전하게 작동하는 Kubernetes 클러스터입니다
+  pl: Wirtualne klastry to w pełni działające klastry Kubernetes uruchomione na innych klastrach Kubernetes
+  pt: Clusters virtuais são clusters Kubernetes totalmente funcionais que executam sobre outros clusters Kubernetes
+  ro: Clusterele virtuale sunt clustere Kubernetes complet funcționale care rulează peste alte clustere Kubernetes
+  ru: Виртуальные кластеры — это полностью рабочие кластеры Kubernetes, работающие поверх других кластеров Kubernetes
+  th: คลัสเตอร์เสมือนคือคลัสเตอร์ Kubernetes ที่ทำงานได้อย่างสมบูรณ์และทำงานอยู่บนคลัสเตอร์ Kubernetes อื่น ๆ
+  tr: Sanal kümeler, diğer Kubernetes kümelerinin üzerinde çalışan tam işlevsel Kubernetes kümeleridir
+  uk: Віртуальні кластери — це повністю працездатні кластери Kubernetes, що працюють поверх інших кластерів Kubernetes
+  vi: Cụm ảo là các cụm Kubernetes hoạt động đầy đủ, chạy trên nền của các cụm Kubernetes khác
 x:
   source: https://github.com/loft-sh/vcluster
   eget: loft-sh/vcluster

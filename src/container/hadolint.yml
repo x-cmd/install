@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Dockerfile linter，能分析 Dockerfile 并给出建议（能基于 shellcheck 对 RUN 指令内的 bash 代码进行检查）
   en: Dockerfile linter, which can analyze Dockerfile and give suggestions (can check the bash code in the RUN instruction based on shellcheck)
+  cs: Linter Dockerfile, který dokáže analyzovat Dockerfile a dávat návrhy (dokáže kontrolovat bash kód v instrukci RUN na základě shellcheck)
+  de: Dockerfile-Linter, der Dockerfile analysieren und Vorschläge geben kann (prüft den Bash-Code in RUN-Anweisungen auf Basis von shellcheck)
+  es: Linter de Dockerfile que puede analizar el Dockerfile y dar sugerencias (puede comprobar el código bash de la instrucción RUN basándose en shellcheck)
+  fr: Linter Dockerfile, capable d'analyser le Dockerfile et de fournir des suggestions (peut vérifier le code bash de l'instruction RUN en s'appuyant sur shellcheck)
+  id: Linter Dockerfile yang dapat menganalisis Dockerfile dan memberikan saran (dapat memeriksa kode bash pada instruksi RUN berdasarkan shellcheck)
+  it: Linter per Dockerfile, che può analizzare il Dockerfile e fornire suggerimenti (può controllare il codice bash nell'istruzione RUN in base a shellcheck)
+  ja: Dockerfile リンター。Dockerfile を解析して提案を行います（shellcheck を用いて RUN 指示内の bash コードをチェックできます）
+  ko: Dockerfile 린터로, Dockerfile을 분석해 제안을 줄 수 있으며 (shellcheck를 기반으로 RUN 지시문의 bash 코드를 검사할 수 있습니다)
+  pl: Linter Dockerfile, który potrafi analizować Dockerfile i udzielać sugestii (potrafi sprawdzać kod bash w instrukcji RUN na podstawie shellcheck)
+  pt: Linter de Dockerfile que pode analisar o Dockerfile e dar sugestões (pode verificar o código bash na instrução RUN com base no shellcheck)
+  ro: Linter Dockerfile care poate analiza Dockerfile și poate oferi sugestii (poate verifica codul bash din instrucțiunea RUN pe baza shellcheck)
+  ru: Линтер Dockerfile, который может анализировать Dockerfile и давать рекомендации (может проверять код bash в инструкции RUN на основе shellcheck)
+  th: ตัวตรวจสอบ Dockerfile ที่วิเคราะห์ Dockerfile และให้คำแนะนำได้ (ตรวจสอบโค้ด bash ในคำสั่ง RUN โดยอาศัย shellcheck)
+  tr: Dockerfile linter'ı; Dockerfile'u analiz eder ve önerilerde bulunur (shellcheck'e dayanarak RUN talimatındaki bash kodunu denetleyebilir)
+  uk: Лінтер Dockerfile, який може аналізувати Dockerfile і давати рекомендації (може перевіряти код bash у директиві RUN на основі shellcheck)
+  vi: Linter Dockerfile có thể phân tích Dockerfile và đưa ra gợi ý (có thể kiểm tra mã bash trong lệnh RUN dựa trên shellcheck)
 x:
   source: https://github.com/hadolint/hadolint
   eget: hadolint/hadolint

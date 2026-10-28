@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 本地验证并运行 GitHub Actions
   en: 'Validate and Run GitHub Actions locally.'
+  cs: Validovat a spouštět GitHub Actions lokálně.
+  de: GitHub Actions lokal validieren und ausführen.
+  es: Validar y ejecutar GitHub Actions de forma local.
+  fr: Valider et exécuter GitHub Actions localement.
+  id: Validasi dan jalankan GitHub Actions secara lokal.
+  it: Valida ed esegui GitHub Actions localmente.
+  ja: GitHub Actions をローカルで検証して実行する。
+  ko: GitHub Actions를 로컬에서 검증하고 실행합니다.
+  pl: Waliduj i uruchamiaj GitHub Actions lokalnie.
+  pt: Validar e executar o GitHub Actions localmente.
+  ro: Validează și rulează GitHub Actions local.
+  ru: Проверять и запускать GitHub Actions локально.
+  th: ตรวจสอบและเรียกใช้ GitHub Actions ในเครื่อง
+  tr: GitHub Actions işlemlerini yerel olarak doğrulayın ve çalıştırın.
+  uk: Валідувати та запускати GitHub Actions локально.
+  vi: Kiểm tra và chạy GitHub Actions cục bộ.
 x:
   source: https://github.com/bahdotsh/wrkflw
   eget: bahdotsh/wrkflw

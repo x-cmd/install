@@ -3,6 +3,22 @@ homepage: https://github.com/open-policy-agent/conftest
 desc:
   cn: 使用 Open Policy Agent Rego 查询语言针对结构化配置数据编写测试
   en: Write tests against structured configuration data using the Open Policy Agent Rego query language
+  cs: Psát testy proti strukturovaným konfiguračním datům pomocí dotazovacího jazyka Open Policy Agent Rego
+  de: Tests gegen strukturierte Konfigurationsdaten mit der Open Policy Agent Abfragesprache Rego schreiben
+  es: Escribir pruebas contra datos de configuración estructurados usando el lenguaje de consulta Open Policy Agent Rego
+  fr: Écrire des tests sur des données de configuration structurées en utilisant le langage de requête Open Policy Agent Rego
+  id: Menulis pengujian terhadap data konfigurasi terstruktur menggunakan bahasa kueri Open Policy Agent Rego
+  it: Scrivi test su dati di configurazione strutturati usando il linguaggio di query Open Policy Agent Rego
+  ja: Open Policy Agent の Rego クエリ言語を使って構造化設定データに対してテストを書く
+  ko: Open Policy Agent Rego 쿼리 언어를 사용하여 구조화된 설정 데이터에 대해 테스트 작성
+  pl: Pisanie testów wobec ustrukturyzowanych danych konfiguracyjnych przy użyciu języka zapytań Open Policy Agent Rego
+  pt: Escreva testes contra dados de configuração estruturada usando a linguagem de consulta Open Policy Agent Rego
+  ro: Scrieți teste pentru date de configurare structurate folosind limbajul de interogare Open Policy Agent Rego
+  ru: Написание тестов для структурированных данных конфигурации с помощью языка запросов Open Policy Agent Rego
+  th: เขียนการทดสอบกับข้อมูลการกำหนดค่าแบบโครงสร้างโดยใช้ภาษาคิวรีของ Open Policy Agent Rego
+  tr: Open Policy Agent Rego sorgu dilini kullanarak yapılandırılmış yapılandırma verilerine karşı testler yazın
+  uk: Написання тестів для структурованих даних конфігурації з використанням мови запитів Open Policy Agent Rego
+  vi: Viết kiểm thử đối với dữ liệu cấu hình có cấu trúc bằng ngôn ngữ truy vấn Open Policy Agent Rego
 x:
   source: https://github.com/open-policy-agent/conftest
   eget: open-policy-agent/conftest

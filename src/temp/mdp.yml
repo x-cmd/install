@@ -2,6 +2,22 @@ lang: C
 desc:
   cn: 基于命令行的 Markdown 演示工具
   en: Command line-based Markdown presentation tool
+  cs: Nástroj pro prezentace Markdownu založený na příkazové řádce
+  de: Kommandozeilenbasiertes Markdown-Präsentationswerkzeug
+  es: Herramienta de presentaciones Markdown basada en la línea de comandos
+  fr: Outil de présentation Markdown basé sur la ligne de commande
+  id: Alat presentasi Markdown berbasis baris perintah
+  it: Strumento di presentazione Markdown basato sulla riga di comando
+  ja: コマンドラインベースの Markdown プレゼンテーションツール
+  ko: 명령줄 기반 Markdown 프레젠테이션 도구
+  pl: Narzędzie do prezentacji Markdown oparte na wierszu poleceń
+  pt: Ferramenta de apresentação Markdown baseada em linha de comando
+  ro: Instrument de prezentare Markdown bazat pe linia de comandi
+  ru: Консольный инструмент для презентаций Markdown
+  th: เครื่องมือนำเสนอ Markdown จากบรรทัดคำสั่ง
+  tr: Komut satırı tabanlı Markdown sunum aracı
+  uk: Інструмент для презентацій Markdown на основі командного рядка
+  vi: Công cụ trình bày Markdown dựa trên dòng lệnh
 homepage: https://github.com/visit1985/mdp
 license: GPL-3.0
 x:

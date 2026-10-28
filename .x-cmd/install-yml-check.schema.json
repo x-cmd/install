@@ -10,6 +10,54 @@
         },
         "en": {
           "type": "string"
+        },
+        "cs": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "es": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "ja": {
+          "type": "string"
+        },
+        "ko": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "pt": {
+          "type": "string"
+        },
+        "ro": {
+          "type": "string"
+        },
+        "ru": {
+          "type": "string"
+        },
+        "th": {
+          "type": "string"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "uk": {
+          "type": "string"
+        },
+        "vi": {
+          "type": "string"
         }
       },
       "required": [

@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: Pygments 是用 Python 编写的通用语法高亮工具
   en: Pygments is a generic syntax highlighter written in Python
+  cs: Pygments je obecný nástroj pro zvýrazňování syntaxe napsaný v Pythonu
+  de: Pygments ist ein universeller Syntaxhervorhebungs-Tool, geschrieben in Python
+  es: Pygments es un resaltador de sintaxis genérico escrito en Python
+  fr: Pygments est un coloriseur de syntaxe générique écrit en Python
+  id: Pygments adalah Syntax Highlighter generik yang ditulis dengan Python
+  it: Pygments è un evidenziatore di sintassi generico scritto in Python
+  ja: Pygments は Python で書かれた汎用的なシンタックスハイライタです
+  ko: Pygments는 Python으로 작성된 범용 구문 강조 도구입니다
+  pl: Pygments to ogólne narzędzie do podświetlania składni napisane w Pythonie
+  pt: Pygments é um realçador de sintaxe genérico escrito em Python
+  ro: Pygments este un evidențiator de sintaxă generic scris în Python
+  ru: Pygments — универсальный инструмент подсветки синтаксиса, написанный на Python
+  th: Pygments เป็นเครื่องมือเน้นไวยากรณ์ทั่วไปที่เขียนด้วย Python
+  tr: Pygments, Python ile yazılmış genel amaçlı bir sözdizimi vurgulayıcıdır
+  uk: Pygments — універсальний інструмент підсвічування синтаксису, написаний на Python
+  vi: Pygments là công cụ tô sáng cú pháp tổng quát được viết bằng Python
 x:
   source: https://github.com/pygments/pygments
   pip: Pygments

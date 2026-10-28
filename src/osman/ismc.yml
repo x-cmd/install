@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一款苹果系统管理控制器（SMC）的命令行工具，可以解码并显示温度、风扇、电池、电源、电压和电流信息
   en: Apple SMC CLI tool that can decode and display temperature, fans, battery, power, voltage and current information
+  cs: Nástroj CLI Apple SMC, který dokáže dekódovat a zobrazovat informace o teplotě, ventilátorech, baterii, napájení, napětí a proudu
+  de: Apple-SMC-CLI-Tool, das Temperatur-, Lüfter-, Akku-, Strom-, Spannungs- und Strominformationen dekodieren und anzeigen kann
+  es: Herramienta CLI de Apple SMC que puede decodificar y mostrar información de temperatura, ventiladores, batería, energía, voltaje y corriente
+  fr: Outil CLI Apple SMC capable de décoder et afficher les informations de température, de ventilateurs, de batterie, d'alimentation, de tension et de courant
+  id: Alat CLI Apple SMC yang dapat mendekode dan menampilkan informasi suhu, kipas, baterai, daya, tegangan, dan arus
+  it: Strumento CLI Apple SMC in grado di decodificare e visualizzare informazioni su temperatura, ventole, batteria, alimentazione, tensione e corrente
+  ja: 温度、ファン、バッテリー、電源、電圧、電流の情報をデコードして表示できる Apple SMC 用の CLI ツール
+  ko: 온도, 팬, 배터리, 전원, 전압 및 전류 정보를 해독하고 표시할 수 있는 Apple SMC CLI 도구
+  pl: Narzędzie CLI Apple SMC, które może dekodować i wyświetlać informacje o temperaturze, wentylatorach, baterii, zasilaniu, napięciu i prądzie
+  pt: Ferramenta CLI do Apple SMC que decodifica e exibe informações de temperatura, ventoinhas, bateria, energia, voltagem e corrente
+  ro: Instrument CLI Apple SMC care poate decodifica și afișa informații despre temperatură, ventiloare, baterie, alimentare, tensiune și curent
+  ru: CLI-инструмент Apple SMC, который умеет декодировать и отображать сведения о температуре, вентиляторах, батарее, питании, напряжении и токе
+  th: เครื่องมือ CLI ของ Apple SMC ที่สามารถถอดรหัสและแสดงข้อมูลอุณหภูมิ พัดลม แบตเตอรี่ ไฟเลี้ยง แรงดัน และกระแส
+  tr: Sıcaklık, fan, pil, güç, voltaj ve akım bilgilerini çözebilen ve gösteren Apple SMC CLI aracı
+  uk: CLI-інструмент Apple SMC, який може декодувати та показувати інформацію про температуру, вентилятори, батарею, живлення, напругу та струм
+  vi: Công cụ CLI Apple SMC có thể giải mã và hiển thị thông tin về nhiệt độ, quạt, pin, nguồn, điện áp và dòng điện
 x:
   source: https://github.com/dkorunic/iSMC
   eget: dkorunic/iSMC

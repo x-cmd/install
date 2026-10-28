@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 把 Unix man page（roff/mdoc）转成结构化 JSON 或可读 Markdown 的 CLI——适合文档管线、LLM 上下文，或脱离 pager 快速查阅
   en: Turn Unix man pages (roff/mdoc) into structured JSON or readable Markdown — for documentation pipelines, LLM context, or quick inspection without a pager
+  cs: Převádí Unix man stránky (roff/mdoc) na strukturovaný JSON nebo čitelný Markdown — pro dokumentační pipeline, kontext LLM nebo rychlé prohlížení bez pageru
+  de: Unix-Man-Seiten (roff/mdoc) in strukturiertes JSON oder lesbares Markdown umwandeln — für Dokumentations-Pipelines, LLM-Kontext oder schnelles Nachschlagen ohne Pager
+  es: Convierte páginas man de Unix (roff/mdoc) en JSON estructurado o Markdown legible — para canalizaciones de documentación, contexto de LLM o consulta rápida sin paginador
+  fr: Convertit les pages de manuel Unix (roff/mdoc) en JSON structuré ou en Markdown lisible — pour les pipelines de documentation, le contexte LLM ou une consultation rapide sans pagineur
+  id: Ubah halaman manual Unix (roff/mdoc) menjadi JSON terstruktur atau Markdown yang mudah dibaca — untuk pipeline dokumentasi, konteks LLM, atau pemeriksaan cepat tanpa pager
+  it: Converte le pagine man di Unix (roff/mdoc) in JSON strutturato o Markdown leggibile — per pipeline di documentazione, contesto LLM o consultazione rapida senza pager
+  ja: Unix の man ページ (roff/mdoc) を構造化された JSON や読みやすい Markdown に変換 — ドキュメントパイプライン、LLM コンテキスト、pager なしでの素早い確認に
+  ko: Unix man 페이지(roff/mdoc)를 구조화된 JSON이나 읽기 쉬운 Markdown으로 변환 — 문서 파이프라인, LLM 컨텍스트 또는 pager 없이 빠르게 확인하는 용도
+  pl: Zamienia strony man systemu Unix (roff/mdoc) w uporządkowany JSON lub czytelny Markdown — dla potoków dokumentacji, kontekstu LLM lub szybkiego przeglądania bez pagera
+  pt: Converte páginas man do Unix (roff/mdoc) em JSON estruturado ou Markdown legível — para pipelines de documentação, contexto de LLM ou inspeção rápida sem paginador
+  ro: Convertește paginile man din Unix (roff/mdoc) în JSON structurat sau Markdown lizibil — pentru fluxuri de documentare, context LLM sau inspecție rapidă fără pager
+  ru: Преобразует man-страницы Unix (roff/mdoc) в структурированный JSON или читаемый Markdown — для конвейеров документации, контекста LLM или быстрого просмотра без пейджера
+  th: แปลงหน้า man ของ Unix (roff/mdoc) เป็น JSON ที่มีโครงสร้างหรือ Markdown ที่อ่านง่าย — สำหรับไปป์ไลน์เอกสาร บริบท LLM หรือการตรวจสอบอย่างรวดเร็วโดยไม่ต้องใช้ pager
+  tr: Unix man sayfalarını (roff/mdoc) yapılandırılmış JSON veya okunabilir Markdown'a dönüştürür — belge işleme hatları, LLM bağlamı veya pager olmadan hızlı inceleme için
+  uk: Перетворює сторінки man системи Unix (roff/mdoc) у структурований JSON або читабельний Markdown — для конвеєрів документування, контексту LLM або швидкого перегляду без пейджера
+  vi: Chuyển các trang man của Unix (roff/mdoc) thành JSON có cấu trúc hoặc Markdown dễ đọc — cho pipeline tài liệu, ngữ cảnh LLM hoặc xem nhanh mà không cần pager
 x:
   source: https://github.com/ljh-sh/roff
   eget: ljh-sh/roff

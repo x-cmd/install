@@ -3,6 +3,22 @@ homepage: https://weixin.qq.com/
 desc:
   cn: 微信（WeChat）是腾讯公司推出的一个为智能终端提供即时通讯服务的免费应用程序
   en: WeChat is a free application launched by Tencent to provide instant messaging services for smart terminals
+  cs: WeChat je bezplatná aplikace od Tencentu, která poskytuje služby okamžitého zasílání zpráv pro chytré terminály
+  de: WeChat ist eine kostenlose Anwendung von Tencent, die Instant-Messaging-Dienste für Smart-Terminals bereitstellt
+  es: WeChat es una aplicación gratuita lanzada por Tencent para ofrecer servicios de mensajería instantánea para terminales inteligentes
+  fr: WeChat est une application gratuite lancée par Tencent pour fournir des services de messagerie instantanée aux terminaux intelligents
+  id: WeChat adalah aplikasi gratis yang Syrians oleh Tencent untuk menyediakan layanan pesan instan bagi perangkat pintar
+  it: WeChat è un'applicazione gratuita lanciata da Tencent per fornire servizi di messaggistica istantanea per terminali intelligenti
+  ja: WeChat はスマートデバイスにインスタントメッセージングを提供する、Tencent がリリースした無料アプリケーションです
+  ko: WeChat는 스마트 단말에 인스턴트 메시징 서비스를 제공하는 Tencent가 출시한 무료 애플리케이션입니다
+  pl: WeChat to darmowa aplikacja wydana przez Tencent, która zapewnia usługi natychmiastowej wymiany wiadomości dla urządzeń mobilnych
+  pt: O WeChat é um aplicativo gratuito lançado pela Tencent para fornecer serviços de mensagens instantâneas para dispositivos inteligentes
+  ro: WeChat este o aplicație gratuită lansată de Tencent care oferă servicii de mesagerie instantanee pentru terminale inteligente
+  ru: WeChat — бесплатное приложение от Tencent, предоставляющее сервисы мгновенного обмена сообщениями для смарт-устройств
+  th: WeChat คือแอปพลิเคชันฟรีที่ Tencent เปิดตัวเพื่อให้บริการแชทแบบทันทีสำหรับอุปกรณ์อัจฉริยะ
+  tr: WeChat, akıllı cihazlara anlık mesajlaşma hizmetleri sunmak için Tencent tarafından yayımlanan ücretsiz bir uygulamadır
+  uk: WeChat — безкоштовний застосунок від Tencent, що надає сервіси миттєвого обміну повідомленнями для смарт-пристроїв
+  vi: WeChat là ứng dụng miễn phí do Tencent phát hành để cung cấp dịch vụ nhắn tin tức thì cho thiết bị thông minh
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add extras && x scoop install extras/wechat

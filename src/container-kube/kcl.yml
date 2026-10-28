@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: KCL 是一种开源的基于约束的记录和功能语言，主要用于配置和策略场景
   en: KCL is an open-source constraint-based record & functional language mainly used in configuration and policy scenarios
+  cs: KCL je otevřený jazyk založený na omezeních pro záznamy a funkce, používaný hlavně v scénářích konfigurace a politik
+  de: KCL ist eine quelloffene, einschränkungsbasierte Record- und Funktionssprache, die hauptsächlich in Konfigurations- und Policy-Szenarien eingesetzt wird
+  es: KCL es un lenguaje de registros y funciones basado en restricciones, de código abierto, usado principalmente en escenarios de configuración y políticas
+  fr: KCL est un langage de type enregistrement et fonctionnel fondé sur les contraintes, open source, utilisé principalement dans les scénarios de configuration et de politique
+  id: KCL adalah bahasa record & fungsional berbasis batasan dengan sumber terbuka, terutama digunakan dalam skenario konfigurasi dan kebijakan
+  it: KCL è un linguaggio open source basato su vincoli per record e funzionalità, usato principalmente in scenari di configurazione e policy
+  ja: KCL はオープンソースの制約ベースのレコード・関数型言語で、主に設定やポリシーのシーンで使用されます
+  ko: KCL은 주로 구성 및 정책 시나리오에 사용되는 오픈 소스 제약 기반 레코드 및 함수형 언어입니다
+  pl: KCL to język oparty na ograniczeniach, przeznaczony do rekordów i funkcji, o otwartym kodzie, używany głównie w scenariuszach konfiguracji i polityk
+  pt: KCL é uma linguagem de registros e funções baseada em restrições, de código aberto, usada principalmente em cenários de configuração e política
+  ro: KCL este un limbaj open source de înregistrări și funcțional bazat pe constrângeri, folosit în principal în scenariile de configurare și politici
+  ru: KCL — это открытый язык записей и функциональный язык на основе ограничений, в основном используемый в сценариях конфигурирования и политик
+  th: KCL คือภาษา record และ functional ที่ใช้ข้อจำกัดแบบโอเพนซอร์ส โดยใช้หลักในสถานการณ์ด้านการตั้งค่าและนโยบาย
+  tr: KCL, esas olarak yapılandırma ve politika senaryolarında kullanılan açık kaynaklı, kısıt tabanlı bir kayıt ve fonksiyonel dildir
+  uk: KCL — мова записів і функціональна мова з відкритим кодом на основі обмежень, переважно для сценаріїв конфігурації та політик
+  vi: KCL là ngôn ngữ record và functional dựa trên ràng buộc, mã nguồn mở, chủ yếu dùng trong các kịch bản cấu hình và chính sách
 x:
   source: https://github.com/kcl-lang/kcl
   eget: kcl-lang/kcl

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache HBase™ 是 Hadoop 数据库，一个分布式、可伸缩的大型数据存储
   en: Apache HBase™ is the Hadoop database, a distributed, scalable, big data store
+  cs: Apache HBase™ je databáze Hadoop, distribuovaný, škálovatelný úložiště velkých dat
+  de: Apache HBase™ ist die Hadoop-Datenbank, ein verteilter, skalierbarer Big-Data-Speicher
+  es: Apache HBase™ es la base de datos de Hadoop, un almacén de big data distribuido y escalable
+  fr: Apache HBase™ est la base de données Hadoop, un magasin de big data distribué et évolutif
+  id: Apache HBase™ adalah database Hadoop, penyimpanan data besar yang terdistribusi dan dapat diskalakan
+  it: Apache HBase™ è il database Hadoop, un archivio di big data distribuito e scalabile
+  ja: Apache HBase™ は Hadoop のデータベースであり、分散型のスケーラブルなビッグデータストアです
+  ko: Apache HBase™는 Hadoop 데이터베이스로, 분산형 확장 가능한 빅데이터 저장소입니다
+  pl: Apache HBase™ to baza danych Hadoop, rozproszony, skalowalny magazyn big data
+  pt: O Apache HBase™ é o banco de dados do Hadoop, um armazenamento de big data distribuído e escalável
+  ro: Apache HBase™ este baza de date Hadoop, un depozit de big data distribuit și scalabil
+  ru: Apache HBase™ — это база данных Hadoop, распределённое и масштабируемое хранилище больших данных
+  th: Apache HBase™ คือฐานข้อมูลของ Hadoop ที่เป็นที่เก็บข้อมูลขนาดใหญ่แบบกระจายและปรับขยายได้
+  tr: Apache HBase™, dağıtık ve ölçeklenebilir bir büyük veri deposu olan Hadoop veritabanıdır
+  uk: Apache HBase™ — це база даних Hadoop, розподілене та масштабоване сховище великих даних
+  vi: Apache HBase™ là cơ sở dữ liệu Hadoop, kho dữ liệu lớn phân tán có thể mở rộng
 x:
   source: https://github.com/apache/hbase
   brew: hbase

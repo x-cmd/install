@@ -3,6 +3,22 @@ homepage: https://github.com/ebassi/graphene
 desc:
   cn: 图形数据类型的薄层
   en: A thin layer of graphic data types
+  cs: Tenká vrstva grafických datových typů
+  de: Eine dünne Schicht aus Grafik-Datentypen
+  es: Una capa fina de tipos de datos gráficos
+  fr: Une fine couche de types de données graphiques
+  id: Lapisan tipis dari tipe data grafis
+  it: Un sottile strato di tipi di dati grafici
+  ja: グラフィックデータ型の薄い抽象レイヤー
+  ko: 그래픽 데이터 타입에 대한 얇은 추상화 계층
+  pl: Cienka warstwa typów danych graficznych
+  pt: Uma camada fina de tipos de dados gráficos
+  ro: Un strat subțire de tipuri de date grafice
+  ru: Тонкий слой над типами графических данных
+  th: ชั้นบางของชนิดข้อมูลกราฟิก
+  tr: Grafik veri türleri için ince bir katman
+  uk: Тонкий шар над типами графічних даних
+  vi: Một lớp mỏng các kiểu dữ liệu đồ họa
 x:
   source: https://github.com/ebassi/graphene
   brew: graphene

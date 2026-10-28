@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 为可扩展向量 ANN 检索打造的高性能云原生向量数据库
   en: 'Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search'
+  cs: Milvus je vysoce výkonná cloudová vektorová databáze vytvořená pro škálovatelné vektorové ANN vyhledávání
+  de: Milvus ist eine leistungsstarke, cloud-native Vektordatenbank für skalierbare Vektor-ANN-Suche
+  es: Milvus es una base de datos vectorial de alto rendimiento y nativa de la nube, creada para la búsqueda ANN vectorial escalable
+  fr: Milvus est une base de données vectorielle haute performance et native du cloud, conçue pour la recherche ANN vectorielle évolutive
+  id: Milvus adalah basis data vektor berkinerja tinggi yang dirancang untuk pencarian ANN vektor yang dapat diskalakan
+  it: Milvus è un database vettoriale ad alte prestazioni e native cloud, progettato per la ricerca ANN vettoriale scalabile
+  ja: Milvus は、スケーラブルなベクトル ANN 検索のために構築された高性能なクラウドネイティブなベクトルデータベースです
+  ko: Milvus는 확장 가능한 벡터 ANN 검색을 위해 구축된 고성능 클라우드 네이티브 벡터 데이터베이스입니다
+  pl: Milvus to wysokowydajna, natywna chmurowa baza danych wektorów stworzona do skalowalnego wyszukiwania ANN wektorów
+  pt: O Milvus é um banco de dados vetorial de alto desempenho e nativo de nuvem, criado para busca ANN vetorial escalável
+  ro: Milvus este o bază de date vectorială de înaltă performanță, nativă pentru cloud, concepută pentru căutare ANN vectorială scalabilă
+  ru: Milvus — это высокопроизводительная облачная векторная база данных, созданная для масштабируемого векторного ANN-поиска
+  th: Milvus คือฐานข้อมูลเวกเตอร์ประสิทธิภาพสูงแบบ cloud-native ที่สร้างขึ้นเพื่อการค้นหา ANN เวกเตอร์ที่ปรับขยายได้
+  tr: Milvus, ölçeklenebilir vektörel ANN araması için geliştirilmiş yüksek performanslı, cloud-native bir vektör veritabanıdır
+  uk: Milvus — це високопродуктивна хмарна векторна база даних, створена для масштабованого векторного ANN-пошуку
+  vi: Milvus là cơ sở dữ liệu vector hiệu năng cao, native cho cloud, được xây dựng cho tìm kiếm ANN vector có thể mở rộng
 x:
   source: https://github.com/milvus-io/milvus
   eget: milvus-io/milvus

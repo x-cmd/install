@@ -2,6 +2,22 @@ lang: Go
 desc:
   en: Share your terminal as a web application
   cn: 将终端共享为 Web 应用程序
+  cs: Sdílejte svůj terminál jako webovou aplikaci
+  de: Teilen Sie Ihr Terminal als Webanwendung
+  es: Comparte tu terminal como una aplicación web
+  fr: Partagez votre terminal comme une application web
+  id: Bagikan terminal Anda sebagai aplikasi web
+  it: Condividi il tuo terminale come applicazione web
+  ja: ターミナルをウェブアプリケーションとして共有する
+  ko: 터미널을 웹 애플리케이션으로 공유하기
+  pl: Udostępnij swój terminal jako aplikację internetową
+  pt: Compartilhe seu terminal como um aplicativo web
+  ro: Partajați terminalul ca aplicație web
+  ru: Поделитесь своим терминалом как веб-приложением
+  th: แชร์เทอร์มินัลของคุณเป็นเว็บแอปพลิเคชัน
+  tr: Terminalinizi bir web uygulaması olarak paylaşın
+  uk: Поділіться своїм терміналом як вебзастосунком
+  vi: Chia sẻ terminal của bạn như một ứng dụng web
 homepage: https://github.com/yudai/gotty
 license: MIT
 x:

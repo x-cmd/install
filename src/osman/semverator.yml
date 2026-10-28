@@ -3,6 +3,22 @@ homepage: https://github.com/jhheider/semverator
 desc:
   cn: '用于命令行使用的 texyz/lib: semver.ts 的纯 Rust 实现'
   en: Pure rust implementation of teaxyz/lib:semver.ts for command-line usage
+  cs: Čistá implementace v jazyce Rust knihovny teaxyz/lib:semver.ts pro použití v příkazové řádce
+  de: Reine Rust-Implementierung von teaxyz/lib:semver.ts für die Nutzung in der Kommandozeile
+  es: Implementación pura en Rust de teaxyz/lib:semver.ts para el uso en la línea de comandos
+  fr: Implémentation pure en Rust de teaxyz/lib:semver.ts pour une utilisation en ligne de commande
+  id: Implementasi Rust murni dari teaxyz/lib:semver.ts untuk penggunaan di baris perintah
+  it: Implementazione pura in Rust di teaxyz/lib:semver.ts per l'uso da riga di comando
+  ja: teaxyz/lib:semver.ts の純粋な Rust 実装、コマンドラインでの使用向け
+  ko: teaxyz/lib:semver.ts의 순수 Rust 구현으로, 명령줄에서 사용하기 위한 것입니다.
+  pl: Czysta implementacja w Rust biblioteki teaxyz/lib:semver.ts do użycia w wierszu poleceń
+  pt: Implementação pura em Rust de teaxyz/lib:semver.ts para uso em linha de comando
+  ro: Implementare pură în Rust a teaxyz/lib:semver.ts pentru utilizare în linia de comandă
+  ru: Чистая реализация на Rust библиотеки teaxyz/lib:semver.ts для использования в командной строке
+  th: การทำให้ teaxyz/lib:semver.ts ใน Rust แบบล้วน สำหรับใช้งานในบรรทัดคำสั่ง
+  tr: Komut satırında kullanım için teaxyz/lib:semver.ts'in saf Rust uygulaması
+  uk: Чиста реалізація на Rust бібліотеки teaxyz/lib:semver.ts для використання в командному рядку
+  vi: Bản triển khai thuần Rust của teaxyz/lib:semver.ts để dùng trong dòng lệnh
 x:
   source: https://github.com/jhheider/semverator
   cargo: semverator

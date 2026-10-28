@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 超轻量的 Ollama 与 Qwen Code 替代品，可运行 Llama 3.3、DeepSeek-R1、Phi-4、Gemma 3 等大模型
   en: Super lightweight Ollama + Qwen Code alternative to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+  cs: Velmi lehká alternativa k Ollama a Qwen Code pro spuštění Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 a dalších velkých jazykových modelů.
+  de: Extrem leichte Alternative zu Ollama und Qwen Code, um Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 und andere große Sprachmodelle auszuführen.
+  es: Alternativa ultraligera a Ollama y Qwen Code para ejecutar Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 y otros modelos de lenguaje grandes.
+  fr: Alternative ultra-légère à Ollama et Qwen Code pour exécuter Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 et d'autres grands modèles de langage.
+  id: Alternatif super ringan untuk Ollama dan Qwen Code untuk menjalankan Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 dan model bahasa besar lainnya.
+  it: Alternativa ultraleggera a Ollama e Qwen Code per eseguire Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 e altri grandi modelli linguistici.
+  ja: Llama 3.3、DeepSeek-R1、Phi-4、Gemma 3、Mistral Small 3.1 などの大規模言語モデルを実行できる、Ollama と Qwen Code の超軽量代替です。
+  ko: Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 등 대규모 언어 모델을 실행하기 위한 초경량 Ollama + Qwen Code 대안입니다.
+  pl: Ultralekka alternatywa dla Ollama i Qwen Code do uruchamiania Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 i innych dużych modeli językowych.
+  pt: Alternativa ultraligeira ao Ollama e ao Qwen Code para executar Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 e outros grandes modelos de linguagem.
+  ro: Alternativă ultra-ușoară la Ollama și Qwen Code pentru rularea Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 și a altor modele de limbaj mari.
+  ru: Сверхлёгкая альтернатива Ollama и Qwen Code для запуска Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 и других больших языковых моделей.
+  th: ทางเลือกที่มีน้ำหนักเบามากของ Ollama และ Qwen Code สำหรับรัน Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 และโมเดลภาษาขนาดใหญ่อื่น ๆ
+  tr: Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 ve diğer büyük dil modellerini çalıştırmak için son derece hafif Ollama + Qwen Code alternatifi.
+  uk: Надлегка альтернатива Ollama і Qwen Code для запуску Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 та інших великих мовних моделей.
+  vi: Lựa chọn thay thế siêu nhẹ cho Ollama và Qwen Code để chạy Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 cùng các mô hình ngôn ngữ lớn khác.
 x:
   source: https://github.com/KolosalAI/kolosal-cli
   eget: KolosalAI/kolosal-cli

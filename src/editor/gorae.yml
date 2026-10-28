@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 整理 PDF/EPUB 文档的终端 TUI，支持类 Vim 导航与全文搜索
   en: 'gorae is a terminal TUI program for organizing PDF/EPUB documents, featuring vim-like navigation, metadata management and full-text search.'
+  cs: gorae je terminálový program TUI pro organizaci dokumentů PDF/EPUB s navigací podobnou vim, správou metadat a fulltextovým vyhledáváním.
+  de: gorae ist ein Terminal-TUI-Programm zum Organisieren von PDF-/EPUB-Dokumenten mit vim-ähnlicher Navigation, Metadatenverwaltung und Volltextsuche.
+  es: gorae es un programa TUI de terminal para organizar documentos PDF/EPUB, con navegación similar a vim, gestión de metadatos y búsqueda de texto completo.
+  fr: gorae est un programme TUI en terminal pour organiser des documents PDF/EPUB, avec une navigation similaire à vim, la gestion des métadonnées et la recherche plein texte.
+  id: gorae adalah program TUI terminal untuk mengorganisasi dokumen PDF/EPUB, dengan navigasi mirip vim, pengelolaan metadata, dan pencarian teks penuh.
+  it: gorae è un programma TUI da terminale per organizzare documenti PDF/EPUB, con navigazione simile a vim, gestione dei metadati e ricerca a testo completo.
+  ja: gorae は PDF/EPUB ドキュメントを整理するためのターミナル TUI プログラムで、Vim 風のナビゲーション、メタデータ管理、全文検索に対応しています。
+  ko: gorae는 PDF/EPUB 문서를 정리하는 터미널 TUI 프로그램으로, vim 유사 탐색, 메타데이터 관리, 전체 텍스트 검색을 지원합니다
+  pl: gorae to program TUI w terminalu do organizowania dokumentów PDF/EPUB, z nawigacją podobną do vima, zarządzaniem metadanymi i wyszukiwaniem pełnotekstowym.
+  pt: gorae é um programa TUI de terminal para organizar documentos PDF/EPUB, com navegação semelhante à do vim, gerenciamento de metadados e busca de texto completo.
+  ro: gorae este un program TUI pentru terminal, pentru organizarea documentelor PDF/EPUB, cu navigare asemănătoare vim, gestionarea metadatelor și căutare full-text.
+  ru: gorae — это терминальная TUI-программа для организации PDF/EPUB-документов с навигацией в стиле vim, управлением метаданными и полнотекстовым поиском.
+  th: gorae เป็นโปรแกรม TUI บนเทอร์มินัลสำหรับจัดการเอกสาร PDF/EPUB พร้อมการนำทางคล้าย vim การจัดการเมทาดาทา และการค้นหาข้อความแบบเต็ม
+  tr: gorae, PDF/EPUB belgelerini düzenlemek için vim benzeri gezinme, meta veri yönetimi ve tam metin araması sunan terminal TUI programıdır.
+  uk: gorae — це термінальна TUI-програма для впорядкування документів PDF/EPUB із навігацією в стилі vim, керуванням метаданими та повнотекстовим пошуком.
+  vi: gorae là chương trình TUI trên terminal để sắp xếp tài liệu PDF/EPUB, với điều hướng kiểu vim, quản lý siêu dữ liệu và tìm kiếm toàn văn.
 x:
   source: https://github.com/Han8931/gorae
   eget: Han8931/gorae

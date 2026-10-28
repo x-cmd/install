@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: flyctl is a command-line interface for fly.io
   cn: Flyctl 是 fly.io 的命令行界面
+  cs: flyctl je rozhraní příkazové řádky pro fly.io
+  de: flyctl ist eine Kommandozeilenschnittstelle für fly.io
+  es: flyctl es una interfaz de línea de comandos para fly.io
+  fr: flyctl est une interface de ligne de commande pour fly.io
+  id: flyctl adalah antarmuka baris perintah untuk fly.io
+  it: flyctl è un'interfaccia a riga di comando per fly.io
+  ja: flyctl は fly.io のコマンドラインインターフェースです
+  ko: flyctl는 fly.io의 명령줄 인터페이스입니다
+  pl: flyctl to interfejs wiersza poleceń dla fly.io
+  pt: flyctl é uma interface de linha de comando para o fly.io
+  ro: flyctl este o interfață de linie de comandă pentru fly.io
+  ru: flyctl — интерфейс командной строки для fly.io
+  th: flyctl คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับ fly.io
+  tr: flyctl, fly.io için bir komut satırı arayüzüdür
+  uk: flyctl — інтерфейс командного рядка для fly.io
+  vi: flyctl là giao diện dòng lệnh cho fly.io
 x:
   source: https://github.com/superfly/flyctl
   eget: superfly/flyctl

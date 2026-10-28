@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: Project management tool for Emacs
   cn: Emacs 的项目管理工具
+  cs: Nástroj pro správu projektů pro Emacs
+  de: Projektmanagement-Werkzeug für Emacs
+  es: Herramienta de gestión de proyectos para Emacs
+  fr: Outil de gestion de projet pour Emacs
+  id: Alat manajemen proyek untuk Emacs
+  it: Strumento di gestione dei progetti per Emacs
+  ja: Emacs 向けのプロジェクト管理ツール
+  ko: Emacs를 위한 프로젝트 관리 도구
+  pl: Narzędzie do zarządzania projektami dla Emacs
+  pt: Ferramenta de gerenciamento de projetos para o Emacs
+  ro: Instrument de gestionare a proiectelor pentru Emacs
+  ru: Инструмент управления проектами для Emacs
+  th: เครื่องมือจัดการโครงการสำหรับ Emacs
+  tr: Emacs için proje yönetim aracı
+  uk: Інструмент керування проєктами для Emacs
+  vi: Công cụ quản lý dự án cho Emacs
 x:
   source: https://github.com/cask/cask
   brew: cask

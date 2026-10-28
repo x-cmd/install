@@ -3,6 +3,22 @@ homepage: https://github.com/mirror/busybox
 desc:
   cn: 一个集成了多个常用命令和工具的单个可执行文件，旨在为嵌入式系统和资源受限的环境提供常用的命令和实用程序
   en: A streamlined tool set that integrates multiple commonly used commands and tools
+  cs: Zjednodušená sada nástrojů, která integruje více běžně používaných příkazů a nástrojů
+  de: Eine schlanke Werkzeugsammlung, die mehrere gängige Befehle und Tools integriert
+  es: Un conjunto de herramientas streamlined que integra múltiples comandos y herramientas de uso común
+  fr: Un ensemble d'outils rationalisé qui intègre plusieurs commandes et outils couramment utilisés
+  id: Seperangkat alat ringkas yang mengintegrasikan berbagai perintah dan alat yang umum digunakan
+  it: Un insieme di strumenti snello che integra molteplici comandi e strumenti comunemente usati
+  ja: よく使うコマンドとツールを統合した、軽量なツール集です
+  ko: 여러 가지 자주 쓰이는 명령과 도구를 통합한 경량 도구 모음
+  pl: Uproszczony zestaw narzędzi integrujący wiele powszechnie używanych poleceń i narzędzi
+  pt: Um conjunto de ferramentas streamlined que integra vários comandos e ferramentas comumente usados
+  ro: O set rafinat de instrumente care integrează mai multe comenzi și instrumente utilizate frecvent
+  ru: Компактный набор инструментов, объединяющий несколько часто используемых команд и утилит
+  th: ชุดเครื่องมือที่กระชับ รวมคำสั่งและเครื่องมือที่ใช้กันทั่วไปหลายรายการ
+  tr: Sık kullanılan birçok komut ve aracı bir araya getiren sadeleştirilmiş bir araç seti
+  uk: Спрощений набір інструментів, що об'єднує кілька часто використовуваних команд і утиліт
+  vi: Bộ công cụ gọn gàng tích hợp nhiều lệnh và công cụ thường dùng
 x:
   source: https://github.com/mirror/busybox
   apt: busybox

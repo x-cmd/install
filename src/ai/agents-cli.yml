@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 将任意编码助手变为在 Google Cloud 上创建、评估与部署 AI Agent 专家的 CLI 与技能集
   en: The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
+  cs: CLI a sada dovedení, která promění jakékoli kódovací asistenty v experty na tvorbu, vyhodnocování a nasazování AI agentů na Google Cloud.
+  de: Die CLI und Skills, die jeden Coding-Assistenten in einen Experten für das Erstellen, Bewerten und Bereitstellen von KI-Agenten auf Google Cloud verwandeln.
+  es: La CLI y las habilidades que convierten cualquier asistente de programación en un experto en crear, evaluar y desplegar agentes de IA en Google Cloud.
+  fr: La CLI et les compétences qui transforment n'importe quel assistant de code en expert de la création, de l'évaluation et du déploiement d'agents IA sur Google Cloud.
+  id: CLI dan skill yang mengubah asisten pemrograman apa pun menjadi ahli dalam membuat, mengevaluasi, dan men-deploy agen AI di Google Cloud.
+  it: La CLI e le skill che trasformano qualsiasi assistente di programmazione in un esperto nella creazione, valutazione e distribuzione di agenti IA su Google Cloud.
+  ja: あらゆるコーディングアシスタントを Google Cloud 上で AI エージェントを作成・評価・デプロイする専門家に変える CLI とスキルセットです。
+  ko: 어떤 코딩 어시스턴트든 Google Cloud에서 AI 에이전트를 만들고 평가하고 배포하는 전문가로 바꾸는 CLI와 스킬 모음입니다.
+  pl: CLI i zestaw umiejętności, które zamieniają dowolnego asystenta programowania w eksperta od tworzenia, oceniania i wdrażania agentów AI w Google Cloud.
+  pt: A CLI e o conjunto de habilidades que transformam qualquer assistente de programação em especialista em criar, avaliar e implantar agentes de IA no Google Cloud.
+  ro: CLI-ul și skill-urile care transformă orice asistent de programare într-un expert în crearea, evaluarea și implementarea agenților AI pe Google Cloud.
+  ru: CLI и набор навыков, превращающие любого помощника по программированию в эксперта по созданию, оценке и развёртыванию ИИ-агентов в Google Cloud.
+  th: CLI และชุดสกิลที่เปลี่ยนผู้ช่วยเขียนโค้ดใด ๆ ให้เป็นผู้เชี่ยวชาญด้านการสร้าง ประเมิน และปรับใช้เอเจนต์ AI บน Google Cloud
+  tr: Her kodlama asistanını Google Cloud'da AI ajanları oluşturma, değerlendirme ve dağıtma konusunda uzman haline getiren CLI ve beceri seti.
+  uk: CLI та набір навичок, які перетворюють будь-якого помічника з програмування на експерта зі створення, оцінювання та розгортання ІІ-агентів у Google Cloud.
+  vi: CLI và bộ kỹ năng biến mọi trợ lý lập trình thành chuyên gia về việc tạo, đánh giá và triển khai agent AI trên Google Cloud.
 x:
   source: https://github.com/google/agents-cli
   eget: google/agents-cli

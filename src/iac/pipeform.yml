@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: pipeform 是 Terraform 运行时 TUI。
   en: A TUI for Terraform runtime progress.
+  cs: TUI pro průběh běhu Terraformu.
+  de: Eine TUI für den Fortschritt der Terraform-Laufzeit.
+  es: Una TUI para el progreso de la ejecución de Terraform.
+  fr: Une TUI pour suivre la progression de l'exécution de Terraform.
+  id: TUI untuk kemajuan proses runtime Terraform.
+  it: Una TUI per monitorare l'avanzamento dell'esecuzione di Terraform.
+  ja: Terraform 実行の進捗を表示する TUI。
+  ko: Terraform 실행 진행 상황을 보여주는 TUI입니다.
+  pl: TUI pokazujący postęp działania Terraform.
+  pt: Uma TUI para o progresso da execução do Terraform.
+  ro: O interfață TUI pentru progresul execuției Terraform.
+  ru: TUI для отображения хода выполнения Terraform.
+  th: TUI สำหรับแสดงความคืบหน้าของการทำงาน Terraform
+  tr: Terraform çalışma ilerlemesi için bir TUI.
+  uk: TUI для відображення прогресу виконання Terraform.
+  vi: Giao diện TUI để theo dõi tiến trình chạy Terraform.
 x:
   source: https://github.com/magodo/pipeform
   eget: magodo/pipeform

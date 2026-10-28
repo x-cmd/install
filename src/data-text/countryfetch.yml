@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 类似 Neofetch 的国家信息查询命令行工具
   en: 'A Command-line tool similar to Neofetch for obtaining information about your country'
+  cs: Nástroj příkazové řádky podobný Neofetch pro získávání informací o vaší zemi
+  de: Ein Kommandozeilenwerkzeug wie Neofetch zum Abrufen von Informationen über Ihr Land
+  es: Una herramienta de línea de comandos similar a Neofetch para obtener información sobre tu país
+  fr: Un outil en ligne de commande similaire à Neofetch pour obtenir des informations sur votre pays
+  id: Alat baris perintah mirip Neofetch untuk memperoleh informasi tentang negara Anda
+  it: Uno strumento a riga di comando simile a Neofetch per ottenere informazioni sul tuo paese
+  ja: Neofetch に似たコマンドラインツールで、自国に関する情報を取得します
+  ko: 자신의 국가에 대한 정보를 얻기 위한 Neofetch와 유사한 명령줄 도구
+  pl: Narzędzie wiersza poleceń podobne do Neofetch do uzyskiwania informacji o swoim kraju
+  pt: Uma ferramenta de linha de comando semelhante ao Neofetch para obter informações sobre o seu país
+  ro: Un instrument de linie de comandă similar cu Neofetch pentru obținerea informațiilor despre țara ta
+  ru: Командная утилита, похожая на Neofetch, для получения информации о вашей стране
+  th: เครื่องมือบรรทัดคำสั่งที่คล้ายกับ Neofetch สำหรับดึงข้อมูลเกี่ยวกับประเทศของคุณ
+  tr: Ülkeniz hakkında bilgi almak için Neofetch'e benzeyen bir komut satırı aracı
+  uk: Командний інструмент, схожий на Neofetch, для отримання інформації про свою країну
+  vi: Công cụ dòng lệnh tương tự Neofetch để lấy thông tin về quốc gia của bạn
 x:
   source: https://github.com/nik-rev/countryfetch
   eget: nik-rev/countryfetch

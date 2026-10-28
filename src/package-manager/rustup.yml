@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: rustup 从官方发布渠道安装 Rust 编程语言，使您能够轻松地在稳定版、测试版和夜间编译器之间切换并保持更新
   en: rustup installs The Rust Programming Language from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated
+  cs: rustup instaluje programovací jazyk Rust z oficiálních kanálů vydání, což vám umožňuje snadno přepínat mezi stabilními, beta a nightly kompilátory a udržovat je aktuální
+  de: rustup installiert die Programmiersprache Rust aus den offiziellen Release-Kanälen, sodass Sie einfach zwischen Stable-, Beta- und Nightly-Compilern wechseln und sie aktuell halten können
+  es: rustup instala el lenguaje de programación Rust desde los canales de lanzamiento oficiales, lo que le permite cambiar fácilmente entre compiladores stable, beta y nightly y mantenerlos actualizados
+  fr: rustup installe le langage de programmation Rust depuis les canaux de publication officiels, ce qui vous permet de basculer facilement entre les compilateurs stable, beta et nightly et de les maintenir à jour
+  id: rustup memasang bahasa pemrograman Rust dari kanal rilis resmi, sehingga Anda dapat dengan mudah beralih antara kompilator stable, beta, dan nightly serta menjaganya tetap mutakhir
+  it: rustup installa il linguaggio di programmazione Rust dai canali di rilascio ufficiali, permettendoti di passare facilmente tra compilatori stable, beta e nightly e di mantenerli aggiornati
+  ja: rustup は公式リリースチャネルからプログラミング言語 Rust をインストールし、stable、beta、nightly コンパイラを簡単に切り替え最新版に保つことができます
+  ko: rustup은 공식 릴리스 채널에서 Rust 프로그래밍 언어를 설치하여 stable, beta, nightly 컴파일러를 손쉽게 전환하고 최신 상태로 유지할 수 있게 합니다
+  pl: rustup instaluje język programowania Rust z oficjalnych kanałów wydań, umożliwiając łatwe przełączanie się między kompilatorami stable, beta i nightly oraz ich aktualizowanie
+  pt: rustup instala a linguagem de programação Rust a partir dos canais de lançamento oficiais, permitindo alternar facilmente entre compiladores stable, beta e nightly e mantê-los atualizados
+  ro: rustup instalează limbajul de programare Rust din canalele oficiale de lansare, permițându-ți să comanzi cu ușurință între compilatoarele stable, beta și nightly și să le menții la zi
+  ru: rustup устанавливает язык программирования Rust из официальных каналов выпуска, позволяя легко переключаться между стабильным, beta и nightly компиляторами и поддерживать их в актуальном состоянии
+  th: rustup ติดตั้งภาษาโปรแกรม Rust จากช่องทางการเผยแพร่ทางการ ช่วยให้คุณสลับระหว่างคอมไพเลอร์ stable, beta และ nightly ได้อย่างง่ายดายและคงให้ทันสมัย
+  tr: rustup, Rust programlama dilini resmi sürüm kanallarından kurar ve kararlı, beta ile nightly derleyiciler arasında kolayca geçiş yapmanıza ve bunları güncel tutmanıza olanak tanır
+  uk: rustup встановлює мову програмування Rust з офіційних каналів випуску, дозволяючи легко перемикатися між стабільним, beta та nightly компіляторами та підтримувати їх в актуальному стані
+  vi: rustup cài đặt ngôn ngữ lập trình Rust từ các kênh phát hành chính thức, cho phép bạn dễ dàng chuyển đổi giữa các trình biên dịch stable, beta và nightly cũng như luôn cập nhật chúng
 x:
   source: https://github.com/rust-lang/rustup
   brew: rustup-init

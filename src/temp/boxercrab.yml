@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 使用 Rust 实现 MySQL binlog 解析器
   en: MySQL binlog parser impl with Rust
+  cs: Parser MySQL binlog implementovaný v Rustu
+  de: MySQL-Binlog-Parser in Rust implementiert
+  es: Analizador de binlog de MySQL implementado en Rust
+  fr: Analyseur de binlog MySQL implémenté en Rust
+  id: Parser binlog MySQL yang diimplementasikan dengan Rust
+  it: Parser del binlog MySQL implementato in Rust
+  ja: Rust で実装された MySQL binlog パーサー
+  ko: Rust로 구현된 MySQL binlog 파서
+  pl: Parser binlog MySQL zaimplementowany w Rust
+  pt: Parser de binlog do MySQL implementado em Rust
+  ro: Parser de binlog MySQL implementat în Rust
+  ru: Парсер binlog MySQL, реализованный на Rust
+  th: ตัววิเคราะห์ MySQL binlog ที่เขียนด้วย Rust
+  tr: Rust ile uygulanmış MySQL binlog ayrıştırıcı
+  uk: Парсер binlog MySQL, реалізований на Rust
+  vi: Bộ phân tích binlog MySQL được viết bằng Rust
 x:
   source: https://github.com/PrivateRookie/boxercrab
 rule:

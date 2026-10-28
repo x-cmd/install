@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 交互式 TUI 磁盘空间分析器
   en: 'Interactive TUI disk space analyzer'
+  cs: Interaktivní TUI analyzátor místa na disku
+  de: Interaktiver TUI-Datenträger-Analysator
+  es: Un analizador interactivo de espacio en disco con TUI
+  fr: Un analyseur d'espace disque TUI interactif
+  id: Analisis ruang disk TUI interaktif
+  it: Un analizzatore interattivo dello spazio su disco basato su TUI
+  ja: 対話型のTUIディスク使用量アナライザー
+  ko: 대화형 TUI 디스크 공간 분석기
+  pl: Interaktywny analizator zajętości dysku w TUI
+  pt: Um analisador interativo de espaço em disco com TUI
+  ro: Un analizor interactiv de spațiu pe disc cu TUI
+  ru: Интерактивный TUI-анализатор дискового пространства
+  th: ตัววิเคราะห์พื้นที่ดิสก์แบบ TUI แบบโต้ตอบ
+  tr: Etkileşimli TUI disk alanı çözümleyicisi
+  uk: Інтерактивний TUI-аналізатор дискового простору
+  vi: Trình phân tích dung lượng đĩa TUI tương tác
 x:
   source: https://github.com/legostin/cull
   eget: legostin/cull

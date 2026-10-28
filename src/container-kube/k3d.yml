@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: k3d 是一个轻量级封装工具，用于在 Docker 中运行 k3s（Rancher Lab 的精简 Kubernetes 发行版）
   en: k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker
+  cs: k3d je lehký wrapper pro spuštění k3s (minimální distribuce Kubernetes od Rancher Labs) v Dockeru
+  de: k3d ist ein schlanker Wrapper, um k3s (die minimale Kubernetes-Distribution von Rancher Labs) in Docker auszuführen
+  es: k3d es un envoltorio ligero para ejecutar k3s (la distribución mínima de Kubernetes de Rancher Labs) en Docker
+  fr: k3d est un wrapper léger pour exécuter k3s (la distribution Kubernetes minimale de Rancher Labs) dans Docker
+  id: k3d adalah pembungkus ringan untuk menjalankan k3s (distribusi Kubernetes minimal dari Rancher Labs) di Docker
+  it: k3d è un wrapper leggero per eseguire k3s (la distribuzione Kubernetes minimale di Rancher Labs) in Docker
+  ja: k3d は Docker 内で k3s（Rancher Labs の軽量な Kubernetes ディストリビューション）を実行するための軽量なラッパーです
+  ko: k3d는 Docker에서 k3s(Rancher Labs의 경량 Kubernetes 배포판)를 실행하기 위한 가벼운 래퍼입니다
+  pl: k3d to lekki wrapper do uruchamiania k3s (minimalnej dystrybucji Kubernetes od Rancher Labs) w Dockerze
+  pt: k3d é um wrapper leve para executar o k3s (a distribuição mínima do Kubernetes da Rancher Labs) no Docker
+  ro: k3d este un wrapper ușor pentru a rula k3s (distribuția minimală Kubernetes de la Rancher Labs) în Docker
+  ru: k3d — это лёгкая обёртка для запуска k3s (минимального дистрибутива Kubernetes от Rancher Labs) в Docker
+  th: k3d เป็น wrapper แบบเบาที่ใช้รัน k3s (ดิสโทรบิวชัน Kubernetes ขนาดเล็กจาก Rancher Labs) ใน Docker
+  tr: k3d, k3s'i (Rancher Labs'in minimal Kubernetes dağıtımı) Docker içinde çalıştırmak için hafif bir sarmalayıcıdır
+  uk: k3d — це легка обгортка для запуску k3s (мінімального дистрибутива Kubernetes від Rancher Labs) у Docker
+  vi: k3d là một wrapper nhẹ để chạy k3s (bản phân phối Kubernetes tối giản của Rancher Labs) trong Docker
 x:
   source: https://github.com/k3d-io/k3d
   eget: k3d-io/k3d

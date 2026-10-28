@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 通过并行 LLM 子代理自动跑实验、发现可优化指标、迭代改进代码库的"自主研究"编排器；植根于 Karpathy autoresearch，扩展为树搜索+共享状态+gate+远程沙箱。
   en: An autoresearch orchestrator that runs parallel LLM sub-agents to discover metrics, iterate on code via experiments, and hill-climb score in tree-search fashion — extends Karpathy's autoresearch with shared state, gates, and remote sandboxes.
+  cs: Automatizovaný výzkumný orchestrátor, který spouští paralelní LLM subagenty k objevování metrik, iteruje nad kódem pomocí experimentů a šplhá po skóre způsobem tree-search — rozšiřuje Karpathyho autoresearch o sdílený stav, brány a vzdálené sandboxy.
+  de: Ein Autoresearch-Orchestrator, der parallele LLM-Subagenten startet, um Metriken zu entdecken, per Experimenten über Code zu iterieren und per Tree-Search den Score zu verbessern — erweitert Karpathys Autoresearch um geteilten Zustand, Gates und Remote-Sandboxes.
+  es: Un orquestador de autoinvestigación que ejecuta subagentes LLM en paralelo para descubrir métricas, iterar sobre el código mediante experimentos y escalar la puntuación al estilo de búsqueda en árbol — amplía el autoresearch de Karpathy con estado compartido, compuertas y sandboxes remotos.
+  fr: Un orchestrateur d'autorecherche qui lance des sous-agents LLM en parallèle pour découvrir des métriques, itérer sur le code via des expériences et grimper le score à la manière d'une recherche en arbre — il étend l'autorecherche de Karpathy avec un état partagé, des portes et des sandboxes distants.
+  id: Orkestrator autoresearch yang menjalankan sub-agen LLM paralel untuk menemukan metrik, iterating pada kode lewat eksperimen, dan mendaki skor ala tree-search — memperluas autoresearch Karpathy dengan state bersama, gate, dan sandbox jarak jauh.
+  it: Un orchestratore di autoresearch che esegue sub-agent LLM in parallelo per scoprire metriche, iterare sul codice tramite esperimenti e scalare il punteggio in stile tree-search — estende l'autoresearch di Karpathy con stato condiviso, gate e sandbox remoti.
+  ja: 並列の LLM サブエージェントを実行して指標を発見し、実験を通じてコードを反復し、tree-search の方式でスコアを登らせる autoresearch オーケストレーター。Karpathy の autoresearch に共有状態、ゲート、リモートサンドボックスを加えたものです。
+  ko: 병렬 LLM 서브에이전트를 실행해 지표를 찾고, 실험을 통해 코드를 반복 개선하며, 트리 서치 방식으로 점수를 끌어올리는 오토리서치 오케스트레이터. Karpathy의 autoresearch에 공유 상태, 게이트, 원격 샌드박스를 더했습니다.
+  pl: Orkiestrator autoresearch, który uruchamia równoległe podagenty LLM, aby odkrywać metryki, iterować nad kodem za pomocą eksperymentów i piąć się po wyniku w stylu przeszukiwania drzewa — rozszerza Karpathy'ego autoresearch o wspólny stan, bramki i zdalne piaskownice.
+  pt: Um orquestrador de auto-pesquisa que executa subagentes LLM em paralelo para descobrir métricas, iterar sobre o código via experimentos e escalar a pontuação ao estilo de busca em árvore — estende o autoresearch do Karpathy com estado compartilhado, gates e sandboxes remotos.
+  ro: Un orchestrator de auto-cercetare care rulează subagenți LLM în paralel pentru a descoperi metrici, a itera codul prin experimente și a urca scorul în stil căutare în arbore — extinde autoresearch-ul lui Karpathy cu stare partajată, porți și sandbox-uri la distanță.
+  ru: Оркестратор автоисследований, запускающий параллельных LLM-субагентов для поиска метрик, итерации над кодом через эксперименты и наращивания очка в духе поиска по дереву — расширяет autoresearch Карапати общим состоянием, гейтами и удалёнными песочницами.
+  th: ตัวประสานงาน autoresearch ที่รัน sub-agent LLM แบบขนานเพื่อค้นหาเมตริก ทดลองปรับปรุงโค้ด และไต่คะแนนแบบ tree-search — ขยาย autoresearch ของ Karpathy ด้วยสถานะร่วม gate และ remote sandbox
+  tr: Metrikleri keşfetmek, deneylerle kod üzerinde iterasyon yapmak ve ağaç araması tarzında skoru yükseltmek için paralel LLM alt ajanları çalıştıran bir autoresearch orkestratörü — Karpathy'nin autoresearch yaklaşımını paylaşılan durum, kapılar ve uzak sandbox'lar ile genişletir.
+  uk: Оркестратор автодосліджень, який запускає паралельних LLM-субагентів для пошуку метрик, ітерації над кодом через експерименти та нарощування очка в дусі пошуку деревом — розширює autoresearch Карапаті спільним станом, воротами та віддаленими пісочницями.
+  vi: Bộ điều phối autoresearch chạy các sub-agent LLM song song để khám phá chỉ số, lặp lại trên mã qua thử nghiệm và leo thang điểm theo kiểu tìm kiếm cây — mở rộng autoresearch của Karpathy với trạng thái dùng chung, cổng chặn và sandbox từ xa.
 x:
   source: https://github.com/evo-hq/evo
 rule:

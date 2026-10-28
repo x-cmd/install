@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 索引代码库的依赖、Git 历史和架构，为 AI 编码 Agent 提供深度上下文，提升回答质量并节省 token
   en: Indexes a codebase's dependencies, git history, and architecture to provide deep context to AI coding agents, improving answer quality and token efficiency.
+  cs: Indexuje závislosti, historii git a architektury codebase a poskytuje tak hluboký kontext AI programátorským agentům, čím zlepšuje kvalitu odpovědí a úsporu tokenů.
+  de: Indexiert die Abhängigkeiten, die Git-Historie und die Architektur einer Codebasis, um KI-Coding-Agenten tiefen Kontext zu liefern und damit Antwortqualität und Token-Effizienz zu verbessern.
+  es: Indexa las dependencias, el historial de git y la arquitectura de una base de código para proporcionar un contexto profundo a los agentes de programación de IA, mejorando la calidad de las respuestas y la eficiencia de tokens.
+  fr: Indexe les dépendances, l'historique git et l'architecture d'une base de code pour fournir un contexte approfondi aux agents de codage IA, améliorant la qualité des réponses et l'efficacité des jetons.
+  id: Mengindeks dependensi, riwayat git, dan arsitektur sebuah basis kode untuk memberi konteks mendalam kepada agen pemrograman AI, meningkatkan kualitas jawaban dan efisiensi token.
+  it: Indicizza le dipendenze, la cronologia git e l'architettura di una base di codice per fornire un contesto profondo agli agenti di programmazione IA, migliorando la qualità delle risposte e l'efficienza dei token.
+  ja: コードベースの依存関係、git 履歴、アーキテクチャをインデックス化し、AI コーディングエージェントに深いコンテキストを提供することで、回答の品質とトークン効率を向上させます。
+  ko: 코드베이스의 의존성, git 기록, 아키텍처를 색인하여 AI 코딩 에이전트에게 깊은 컨텍스트를 제공하고, 답변 품질과 토큰 효율을 높입니다.
+  pl: Indeksuje zależności, historię git i architekturę bazy kodu, zapewniając agentom programistycznym AI głęboki kontekst, co poprawia jakość odpowiedzi i oszczędność tokenów.
+  pt: Indexa as dependências, o histórico do git e a arquitetura de uma base de código para fornecer contexto profundo aos agentes de programação de IA, melhorando a qualidade das respostas e a eficiência de tokens.
+  ro: Indexează dependențele, istoricul git și arhitectura unei baze de cod pentru a oferi un context profund agenților de programare AI, îmbunătățind calitatea răspunsurilor și eficiența tokenurilor.
+  ru: Индексирует зависимости, историю git и архитектуру кодовой базы, предоставляя ИИ-агентам программирования глубокий контекст, улучшая качество ответов и экономя токены.
+  th: ทำดัชนี dependency, ประวัติ git และสถาปัตยกรรมของ codebase เพื่อให้บริบทเชิงลึกแก่เอเจนต์เขียนโค้ดด้วย AI ช่วยยกระดับคุณภาพคำตอบและประหยัดโทเคน
+  tr: Bir kod tabanının bağımlılıklarını, git geçmişini ve mimarisini dizinleyerek AI kodlama ajanlarına derin bağlam sağlar; yanıt kalitesini ve token verimliliğini artırır.
+  uk: Індексує залежності, історію git та архітектуру кодової бази, надаючи агентам програмування на основі ШІ глибокий контекст, покращуючи якість відповідей та ефективність використання токенів.
+  vi: Lập chỉ mục các phụ thuộc, lịch sử git và kiến trúc của một codebase để cung cấp ngữ cảnh sâu cho các tác nhân lập trình AI, cải thiện chất lượng câu trả lời và hiệu quả sử dụng token.
 x:
   source: https://github.com/repowise-dev/repowise
   eget: repowise-dev/repowise

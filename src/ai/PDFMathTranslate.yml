@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 保留排版的 PDF 科学论文双语翻译（EMNLP 2025 Demo），支持 Google/DeepL/Ollama/OpenAI 等，提供 CLI/GUI/MCP/Docker/Zotero
   en: '[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero'
+  cs: "[Ukázka EMNLP 2025] Překlad vědeckých článků ve formátu PDF se zachovaným formátováním - AI-podporovaný plný překlad dokumentů PDF se zachovaným formátováním, podporuje služby Google/DeepL/Ollama/OpenAI a nabízí CLI/GUI/MCP/Docker/Zotero"
+  de: "[EMNLP 2025 Demo] Übersetzung wissenschaftlicher PDF-Publikationen mit erhaltenem Layout - KI-gestützte Übersetzung vollständiger PDF-Dokumente unter Erhalt des Layouts, unterstützt Google/DeepL/Ollama/OpenAI und bietet CLI/GUI/MCP/Docker/Zotero"
+  es: "[Demo EMNLP 2025] Traducción de artículos científicos en PDF con formato preservado - traducción completa de documentos PDF con formato preservado basada en IA, compatible con Google/DeepL/Ollama/OpenAI y ofrece CLI/GUI/MCP/Docker/Zotero"
+  fr: "[Démo EMNLP 2025] Traduction d'articles scientifiques en PDF avec mise en forme préservée - traduction complète de documents PDF avec mise en forme préservée basée sur l'IA, compatible avec Google/DeepL/Ollama/OpenAI et propose CLI/GUI/MCP/Docker/Zotero"
+  id: "[Demo EMNLP 2025] Terjemahan makalah ilmiah PDF dengan format dipertahankan - terjemahan penuh dokumen PDF dengan format dipertahankan berbasis AI, mendukung Google/DeepL/Ollama/OpenAI serta menyediakan CLI/GUI/MCP/Docker/Zotero"
+  it: "[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formattazione preservata - traduzione completa di documenti PDF con formattazione preservata basata sull'AI, supporta Google/DeepL/Ollama/OpenAI e offre CLI/GUI/MCP/Docker/Zotero"
+  ja: "[EMNLP 2025 デモ] 書式を保持した PDF 論文翻訳 - AI により書式を保持したまま PDF 文書の全文を翻訳、Google/DeepL/Ollama/OpenAI に対応し、CLI/GUI/MCP/Docker/Zotero を提供"
+  ko: "[EMNLP 2025 데모] 서식을 보존한 PDF 과학 논문 번역 - AI를 기반으로 서식을 그대로 유지하며 PDF 문서 전체를 번역하고, Google/DeepL/Ollama/OpenAI를 지원하며 CLI/GUI/MCP/Docker/Zotero를 제공"
+  pl: "[Demo EMNLP 2025] Tłumaczenie naukowych artykułów PDF z zachowaniem formatowania - oparte na AI tłumaczenie całych dokumentów PDF z zachowaniem formatowania, obsługuje Google/DeepL/Ollama/OpenAI i oferuje CLI/GUI/MCP/Docker/Zotero"
+  pt: "[Demo EMNLP 2025] Tradução de artigos científicos em PDF com formatação preservada - tradução completa de documentos PDF com formatação preservada baseada em IA, com suporte a Google/DeepL/Ollama/OpenAI e oferece CLI/GUI/MCP/Docker/Zotero"
+  ro: "[Demo EMNLP 2025] Traducerea articolelor științifice în PDF cu formatare păstrată - traducere completă a documentelor PDF cu formatare păstrată, bazată pe AI, acceptă Google/DeepL/Ollama/OpenAI și oferă CLI/GUI/MCP/Docker/Zotero"
+  ru: "[Демо EMNLP 2025] Перевод научных статей в PDF с сохранением форматирования - полный перевод PDF-документов с сохранением вёрстки на основе ИИ, поддерживает Google/DeepL/Ollama/OpenAI и предоставляет CLI/GUI/MCP/Docker/Zotero"
+  th: "[สาธิต EMNLP 2025] แปลบทความวิจัย PDF โดยคงรูปแบบไว้ - แปลเอกสาร PDF ทั้งฉบับโดยคงรูปแบบด้วย AI รองรับ Google/DeepL/Ollama/OpenAI และให้บริการ CLI/GUI/MCP/Docker/Zotero"
+  tr: "[EMNLP 2025 Demosu] Biçim korunarak bilimsel PDF makale çevirisi - AI ile biçim korunarak PDF belgelerinin tam çevirisi, Google/DeepL/Ollama/OpenAI desteği sunar ve CLI/GUI/MCP/Docker/Zotero sağlar"
+  uk: "[Демо EMNLP 2025] Переклад наукових статей у PDF зі збереженням форматування - повний переклад PDF-документів зі збереженням верстки на основі ШІ, підтримує Google/DeepL/Ollama/OpenAI та надає CLI/GUI/MCP/Docker/Zotero"
+  vi: "[Demo EMNLP 2025] Dịch bài báo khoa học PDF với giữ nguyên định dạng - dịch toàn văn tài liệu PDF giữ nguyên bố cục dựa trên AI, hỗ trợ Google/DeepL/Ollama/OpenAI và cung cấp CLI/GUI/MCP/Docker/Zotero"
 x:
   source: https://github.com/PDFMathTranslate/PDFMathTranslate
   eget: PDFMathTranslate/PDFMathTranslate

@@ -3,6 +3,22 @@ homepage: https://gitlab.gnome.org/GNOME/at-spi2-atk
 desc:
   cn: 根据 libatspi2API 实现 ATK 接口
   en: Implementation of the ATK interfaces in terms of the libatspi2 API
+  cs: Implementace rozhraní ATK pomocí API libatspi2
+  de: Implementierung der ATK-Schnittstellen auf Basis der libatspi2-API
+  es: Implementación de las interfaces ATK en términos de la API libatspi2
+  fr: Implémentation des interfaces ATK à l'aide de l'API libatspi2
+  id: Implementasi antarmuka ATK menggunakan API libatspi2
+  it: Implementazione delle interfacce ATK tramite l'API libatspi2
+  ja: libatspi2 API ，用于实现 ATK 接口
+  ko: libatspi2 API를 이용한 ATK 인터페이스 구현
+  pl: Implementacja interfejsów ATK przy użyciu API libatspi2
+  pt: Implementação das interfaces ATK em termos da API libatspi2
+  ro: Implementarea interfețelor ATK folosind API-ul libatspi2
+  ru: Реализация интерфейсов ATK на основе API libatspi2
+  th: การสร้างอินเทอร์เฟซ ATK โดยใช้ API ของ libatspi2
+  tr: ATK arayüzlerinin libatspi2 API ile uygulanması
+  uk: Реалізація інтерфейсів ATK на основі API libatspi2
+  vi: Hiện thực các giao diện ATK dựa trên API libatspi2
 rule:
   /asdf:
     cmd: x asdf use at-spi2-atk

@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Search for words, documents, images, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
   cn: 使用 DuckDuckGo.com 搜索引擎搜索文字、文档、图像、视频、新闻、地图和文本翻译。将文件和图像下载到本地硬盘。
+  cs: Hledání slov, dokumentů, obrázků, zpráv, map a překlad textu pomocí vyhledávače DuckDuckGo.com. Stahování souborů a obrázků na místní pevný disk.
+  de: Suche nach Wörtern, Dokumenten, Bildern, Nachrichten, Karten und Textübersetzung mit der Suchmaschine DuckDuckGo.com. Herunterladen von Dateien und Bildern auf die lokale Festplatte.
+  es: Búsqueda de palabras, documentos, imágenes, noticias, mapas y traducción de texto con el motor de búsqueda DuckDuckGo.com. Descarga de archivos e imágenes al disco duro local.
+  fr: Recherchez des mots, documents, images, actualités, cartes et traduire du texte avec le moteur de recherche DuckDuckGo.com. Téléchargement de fichiers et d'images sur le disque dur local.
+  id: Cari kata, dokumen, gambar, berita, peta, dan terjemahan teks menggunakan mesin pencari DuckDuckGo.com. Unduh file dan gambar ke disk keras lokal.
+  it: Cerca parole, documenti, immagini, notizie, mappe e traduzione del testo con il motore di ricerca DuckDuckGo.com. Download di file e immagini sul disco rigido locale.
+  ja: DuckDuckGo.com 検索エンジンで単語、文書、画像、ニュース、地図、テキスト翻訳を検索します。ファイルと画像をローカルハードドライブにダウンロードできます。
+  ko: DuckDuckGo.com 검색 엔진으로 단어, 문서, 이미지, 뉴스, 지도 및 텍스트 번역을 검색합니다. 파일과 이미지를 로컬 하드 드라이브에 다운로드합니다.
+  pl: Wyszukiwanie słów, dokumentów, obrazów, wiadomości, map i tłumaczenia tekstu za pomocą wyszukiwarki DuckDuckGo.com. Pobieranie plików i obrazów na lokalny dysk twardy.
+  pt: Pesquise palavras, documentos, imagens, notícias, mapas e tradução de texto usando o mecanismo de busca DuckDuckGo.com. Download de arquivos e imagens para o disco rígido local.
+  ro: Căutați cuvinte, documente, imagini, știri, hărți și traducere de text folosind motorul de căutare DuckDuckGo.com. Descărcarea fișierelor și imaginilor pe hard disk-ul local.
+  ru: Поиск слов, документов, изображений, новостей, карт и перевода текста с помощью поисковой системы DuckDuckGo.com. Загрузка файлов и изображений на локальный жёсткий диск.
+  th: ค้นหาคำ เอกสาร รูปภาพ ข่าว แผนที่ และการแปลข้อความด้วยเครื่องมือค้นหา DuckDuckGo.com พร้อมดาวน์โหลดไฟล์และรูปภาพลงฮาร์ดไดรฟ์ในเครื่อง.
+  tr: DuckDuckGo.com arama motoruyla kelime, belge, görsel, haber, harita ve metin çevirisi arayın. Dosyaları ve görselleri yerel sabit diske indirin.
+  uk: Пошук слів, документів, зображень, новин, карт і переклад тексту за допомогою пошукової системи DuckDuckGo.com. Завантаження файлів і зображень на локальний жорсткий диск.
+  vi: Tìm kiếm từ, tài liệu, hình ảnh, tin tức, bản đồ và dịch văn bản bằng công cụ tìm kiếm DuckDuckGo.com. Tải tệp và hình ảnh về ổ cứng cục bộ.
 x:
   source: https://github.com/deedy5/duckduckgo_search
   yay: python-duckduckgo-search

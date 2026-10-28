@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Go 语言代码质量检测工具（golint 替代品），可配置且更为美观
   en: Go language code quality detection tool (golint replacement), configurable and more beautiful
+  cs: Nástroj pro detekci kvality kódu v jazyce Go (náhrada golint), konfigurovatelný a estetičtější
+  de: Tool zur Qualitätsprüfung von Go-Code (golint-Ersatz), konfigurierbar und ansprechender
+  es: Herramienta de detección de calidad de código en Go (sustituto de golint), configurable y más bonita
+  fr: Outil de détection de la qualité du code Go (remplacement de golint), configurable et plus joli
+  id: Alat deteksi kualitas kode bahasa Go (pengganti golint), dapat dikonfigurasi dan lebih indah
+  it: Strumento di rilevamento della qualità del codice Go (sostituto di golint), configurabile e più gradevole
+  ja: Go 言語のコード品質検出ツール（golint の代替）で、設定可能でより美しい見た目です
+  ko: Go 언어 코드 품질 검사 도구(golint 대체)로, 구성 가능하고 더 보기 좋습니다
+  pl: Narzędzie do wykrywania jakości kodu w języku Go (zamiennik golint), konfigurowalne i ładniejsze
+  pt: Ferramenta de detecção de qualidade de código em Go (substituto do golint), configurável e mais bonita
+  ro: Instrument de detectare a calității codului Go (înlocuitor pentru golint), configurabil și mai frumos
+  ru: Инструмент проверки качества кода на Go (замена golint), настраиваемый и более привлекательный
+  th: เครื่องมือตรวจจับคุณภาพโค้ดภาษา Go (ทดแทน golint) ปรับแต่งได้และสวยงามกว่า
+  tr: Go dili kod kalitesi denetim aracı (golint yerine geçer), yapılandırılabilir ve daha şık
+  uk: Інструмент перевірки якості коду на Go (заміна golint), що налаштовується та має привабливіший вигляд
+  vi: Công cụ phát hiện chất lượng mã Go (thay thế golint), có thể cấu hình và đẹp hơn
 x:
   source: https://github.com/mgechev/revive
   eget: mgechev/revive

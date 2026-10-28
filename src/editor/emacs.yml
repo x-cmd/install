@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/emacs.git
 desc:
   cn: GNU Emacs 是一个可扩展、可定制、免费的文本编辑器
   en: GNU Emacs is an extensible, customizable, free/libre text editor
+  cs: GNU Emacs je rozšiřitelný, přizpůsobitelný, svobodný textový editor
+  de: GNU Emacs ist ein erweiterbarer, anpassbarer freier/libre Texteditor
+  es: GNU Emacs es un editor de texto ampliable, personalizable y libre
+  fr: GNU Emacs est un éditeur de texte extensible, personnalisable et libre
+  id: GNU Emacs adalah editor teks yang dapat diperluas, dapat dikustomisasi, dan bebas
+  it: GNU Emacs è un editor di testo estensibile, personalizzabile e libero
+  ja: GNU Emacs は拡張可能でカスタマイズ可能な自由なテキストエディタです
+  ko: GNU Emacs는 확장 가능하고 사용자 지정이 가능한 자유로운 텍스트 편집기입니다
+  pl: GNU Emacs to rozszerzalny, konfigurowalny, wolny edytor tekstu
+  pt: GNU Emacs é um editor de texto extensível, customizável e livre
+  ro: GNU Emacs este un editor de text extensibil, personalizabil și liber
+  ru: GNU Emacs — расширяемый, настраиваемый свободный текстовый редактор
+  th: GNU Emacs เป็นโปรแกรมแก้ไขข้อความที่ขยายได้ ปรับแต่งได้ และเป็นซอฟต์แวร์อิสระ
+  tr: GNU Emacs genişletilebilir, özelleştirilebilir, özgür bir metin düzenleyicisidir
+  uk: GNU Emacs — розширюваний, налаштовуваний вільний текстовий редактор
+  vi: GNU Emacs là trình soạn thảo văn bản mở rộng được, tùy biến được và tự do
 rule:
   /guix:
     cmd: guix package -i emacs

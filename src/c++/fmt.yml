@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: '{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams'
   cn: '{fmt} 是一个开放源码的格式化库，提供了一个快速而安全的 C stdio 和 C + + iostream 的替代品'
+  cs: "{fmt} je open-source knihovna formátování, která poskytuje rychlou a bezpečnou alternativu ke C stdio a C++ iostreams"
+  de: "{fmt} ist eine quelloffene Formatierungsbibliothek, die eine schnelle und sichere Alternative zu C stdio und C++ iostreams bietet"
+  es: "{fmt} es una biblioteca de formateo de código abierto que ofrece una alternativa rápida y segura a C stdio y C++ iostreams"
+  fr: "{fmt} est une bibliothèque de formatage open source qui fournit une alternative rapide et sûre à C stdio et C++ iostreams"
+  id: "{fmt} adalah pustaka format sumber terbuka yang menyediakan alternatif cepat dan aman untuk C stdio dan C++ iostreams"
+  it: "{fmt} è una libreria di formattazione open source che offre un'alternativa veloce e sicura a C stdio e C++ iostreams"
+  ja: "{fmt} は、C stdio や C++ iostreams の高速で安全な代替となるオープンソースのフォーマットライブラリです"
+  ko: "{fmt}는 C stdio와 C++ iostreams에 대한 빠르고 안전한 대안을 제공하는 오픈 소스 서식 라이브러리입니다"
+  pl: "{fmt} to biblioteka formatowania o otwartym kodzie, zapewniająca szybką i bezpieczną alternatywę dla C stdio i C++ iostreams"
+  pt: "{fmt} é uma biblioteca de formatação de código aberto que oferece uma alternativa rápida e segura ao C stdio e aos iostreams do C++"
+  ro: "{fmt} este o bibliotecă de formatare cu sursă deschisă care oferă o alternativă rapidă și sigură pentru C stdio și C++ iostreams"
+  ru: "{fmt} — это библиотека форматирования с открытым исходным кодом, предоставляющая быструю и безопасную альтернативу C stdio и C++ iostreams"
+  th: "{fmt} คือไลบรารีจัดรูปแบบแบบโอเพนซอร์สที่มอบทางเลือกที่เร็วและปลอดภัยแทน C stdio และ C++ iostreams"
+  tr: "{fmt}, C stdio ve C++ iostream'lara hızlı ve güvenli bir alternatif sağlayan açık kaynak bir biçimlendirme kitaplığıdır"
+  uk: "{fmt} — це бібліотека форматування з відкритим кодом, що надає швидку та безпечну альтернативу C stdio та C++ iostreams"
+  vi: "{fmt} là thư viện định dạng mã nguồn mở cung cấp giải pháp thay thế nhanh và an toàn cho C stdio và C++ iostreams"
 x:
   source: https://github.com/fmtlib/fmt
   eget: fmtlib/fmt

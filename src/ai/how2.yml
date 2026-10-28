@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Use an external AI server to find the best unix command line suggestions
   cn: 使用外部 AI 服务器来查找最佳的 unix 命令行建议
+  cs: Použije externí AI server k nalezení nejlepších návrhů unixových příkazů
+  de: Verwendet einen externen KI-Server, um die besten Vorschläge für Unix-Befehlszeilen zu finden
+  es: Usa un servidor de IA externo para encontrar las mejores sugerencias de línea de comandos de unix
+  fr: Utilise un serveur IA externe pour trouver les meilleures suggestions de lignes de commande unix
+  id: Gunakan server AI eksternal untuk menemukan saran baris perintah unix terbaik
+  it: Utilizza un server IA esterno per trovare i migliori suggerimenti per la riga di comando unix
+  ja: 外部 AI サーバーを利用して最適な unix コマンドライン候補を見つけます
+  ko: 외부 AI 서버를 사용해 가장 좋은 unix 명령줄 제안을 찾습니다
+  pl: Korzysta z zewnętrznego serwera AI, aby znaleźć najlepsze podpowiedzi dla wiersza poleceń unix
+  pt: Usa um servidor de IA externo para encontrar as melhores sugestões de linha de comando unix
+  ro: Folosește un server AI extern pentru a găsi cele mai bune sugestii de linie de comandă unix
+  ru: Использует внешний ИИ-сервер для подбора лучших подсказок по командной строке unix
+  th: ใช้เซิร์ฟเวอร์ AI ภายนอกเพื่อค้นหาคำแนะนำคำสั่ง unix ที่ดีที่สุด
+  tr: En iyi unix komut satırı önerilerini bulmak için harici bir AI sunucusu kullanır
+  uk: Використовує зовнішній ІІ-сервер, щоб знайти найкращі підказки для командного рядка unix
+  vi: Dùng máy chủ AI bên ngoài để tìm các gợi ý dòng lệnh unix tốt nhất
 x:
   source: https://github.com/santinic/how2
   eget: santinic/how2

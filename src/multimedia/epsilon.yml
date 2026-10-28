@@ -3,6 +3,22 @@ homepage: https://sourceforge.net/projects/epsilon-project/
 desc:
   en: EPSILON is a powerful Open Source wavelet image compressor
   cn: EPSILON 是一种强大的开源小波图像压缩器
+  cs: EPSILON je výkonný open source wavelet kompresor obrázků
+  de: EPSILON ist ein leistungsstarker quelloffener Wavelet-Bildkompressor
+  es: EPSILON es un potente compresor de imágenes wavelet de código abierto
+  fr: EPSILON est un powerful compresseur d'images par ondelettes open source
+  id: EPSILON adalah kompresor gambar wavelet open source yang andal
+  it: EPSILON è un potente compressore di immagini wavelet open source
+  ja: EPSILON は強力なオープンソースのウェーブレット画像圧縮ツールです
+  ko: EPSILON은 강력한 오픈소스 웨이블릿 이미지 압축기입니다
+  pl: EPSILON to wydajny otwartoźródłowy kompresor obrazów falkowy
+  pt: EPSILON é um poderoso compressor de imagens wavelet de código aberto
+  ro: EPSILON este un puternic compresor de imagini wavelet open source
+  ru: EPSILON — мощный компрессор изображений на основе вейвлетов с открытым исходным кодом
+  th: EPSILON เป็นโปรแกรมบีบอัดภาพแบบเวฟเล็ตแบบโอเพนซอร์สที่ทรงพลัง
+  tr: EPSILON, güçlü bir açık kaynaklı dalgacık görüntü sıkıştırıcıdır
+  uk: EPSILON — потужний компресор зображень на основі вейвлетів з відкритим кодом
+  vi: EPSILON là bộ nén ảnh wavelet mã nguồn mở mạnh mẽ
 rule:
   darwin/brew:
     cmd: brew install epsilon

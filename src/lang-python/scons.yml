@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: SCons 是一个开源软件构建工具
   en: SCons is an Open Source software construction tool
+  cs: SCons je open-source nástroj pro stavbu softwaru
+  de: SCons ist ein Open-Source-Software-Bautool
+  es: SCons es una herramienta de construcción de software de código abierto
+  fr: SCons est un outil de construction de logiciels open source
+  id: SCons adalah alat konstruksi perangkat lunak sumber terbuka
+  it: SCons è un tool di costruzione software open source
+  ja: SCons はオープンソースのソフトウェア構築ツールです
+  ko: SCons는 오픈 소스 소프트웨어 빌드 도구입니다
+  pl: SCons to narzędzie do budowania oprogramowania o otwartym kodzie źródłowym
+  pt: SCons é uma ferramenta de construção de software de código aberto
+  ro: SCons este un instrument de construire a software-ului open source
+  ru: SCons — это инструмент сборки программного обеспечения с открытым исходным кодом
+  th: SCons เป็นเครื่องมือสร้างซอฟต์แวร์โอเพนซอร์ส
+  tr: SCons, açık kaynaklı bir yazılım oluşturma aracıdır
+  uk: SCons — це інструмент збирання програмного забезпечення з відкритим кодом
+  vi: SCons là công cụ xây dựng phần mềm mã nguồn mở
 x:
   source: https://github.com/SCons/scons
   brew: scons

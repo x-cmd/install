@@ -4,6 +4,22 @@ license: gpl-3.0
 desc:
   cn: 通过本地 Anthropic 兼容代理将 Claude Code 桥接到 ChatGPT Codex
   en: Bridge Claude Code to ChatGPT Codex via a local Anthropic-compatible proxy.
+  cs: Propojit Claude Code s ChatGPT Codex pomocí místního proxy kompatibilního s Anthropic.
+  de: Claude Code über einen lokalen Anthropic-kompatiblen Proxy mit ChatGPT Codex verbinden.
+  es: Conecta Claude Code con ChatGPT Codex mediante un proxy local compatible con Anthropic.
+  fr: Reliez Claude Code à ChatGPT Codex via un proxy local compatible Anthropic.
+  id: Hubungkan Claude Code ke ChatGPT Codex melalui proxy lokal yang kompatibel dengan Anthropic.
+  it: Collega Claude Code a ChatGPT Codex tramite un proxy locale compatibile con Anthropic.
+  ja: ローカルに Anthropic 互換のプロキシを立てて、Claude Code を ChatGPT Codex に接続します。
+  ko: Anthropic 호환 로컬 프록시를 통해 Claude Code를 ChatGPT Codex에 연결합니다.
+  pl: Połącz Claude Code z ChatGPT Codex za pośrednictwem lokalnego proxy zgodnego z Anthropic.
+  pt: Conecte o Claude Code ao ChatGPT Codex por meio de um proxy local compatível com a Anthropic.
+  ro: Conectați Claude Code la ChatGPT Codex printr-un proxy local compatibil cu Anthropic.
+  ru: Свяжите Claude Code с ChatGPT Codex через локальный прокси, совместимый с Anthropic.
+  th: เชื่อมต่อ Claude Code เข้ากับ ChatGPT Codex ผ่านพร็อกซีในเครื่องที่เข้ากันได้กับ Anthropic
+  tr: Yerel, Anthropic uyumlu bir proxy üzerinden Claude Code'u ChatGPT Codex'e bağlayın.
+  uk: З'єднайте Claude Code з ChatGPT Codex через локальний проксі, сумісний з Anthropic.
+  vi: Kết nối Claude Code với ChatGPT Codex qua một proxy cục bộ tương thích với Anthropic.
 x:
   source: https://github.com/caixiaoshun/claudex
   eget: caixiaoshun/claudex

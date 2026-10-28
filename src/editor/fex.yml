@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 注重快速导航的命令行文件浏览器
   en: 'A command-line file explorer prioritizing quick navigation.'
+  cs: Průzkumník souborů v příkazové řádce, který klade důraz na rychlou navigaci.
+  de: Ein Datei-Explorer für die Kommandozeile, der auf schnelle Navigation Wert legt.
+  es: Un explorador de archivos de línea de comandos que prioriza la navegación rápida.
+  fr: Un explorateur de fichiers en ligne de commande privilégiant la navigation rapide.
+  id: Penjelajah file baris perintah yang mengutamakan navigasi cepat.
+  it: Un file explorer da riga di comando che privilegia la navigazione rapida.
+  ja: 素早い移動を重視したコマンドライン的文件ブラウザー
+  ko: 빠른 탐색을 중시하는 명령줄 파일 탐색기
+  pl: Eksplorer plików w wierszu poleceń, stawiający na szybką nawigację.
+  pt: Um explorador de arquivos de linha de comando que prioriza a navegação rápida.
+  ro: Un explorator de fișiere în linia de comandă care pune accent pe navigarea rapidă.
+  ru: Файловый обозреватель для командной строки, ориентированный на быструю навигацию.
+  th: ตัวสำรวจไฟล์บนบรรทัดคำสั่งที่ให้ความสำคัญกับการนำทางอย่างรวดเร็ว
+  tr: Hızlı gezinmeyi önceleyen komut satırı dosya gezgini
+  uk: Файловий провідник для командного рядка, що робить акцент на швидкій навігації.
+  vi: Trình duyệt tệp dòng lệnh ưu tiên điều hướng nhanh
 x:
   source: https://github.com/18alantom/fex
   eget: 18alantom/fex

@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: macOS 本地大模型 CLI —— ljh-sh agent IO 栈的「推理/大脑」层。基于 Apple MLX 框架设备端运行 MLX 模型与 LoRA adapter；FIFO daemon 常驻模型；紧凑 JSON 输出。隐私不离机，省 API 费用
   en: macOS on-device LLM CLI — the "reasoning" layer of the ljh-sh agent IO stack. Run MLX models and LoRA adapters locally via Apple's MLX framework; FIFO daemon keeps the model resident; compact JSON output. Private, no API bills
+  cs: macOS CLI pro lokální LLM na zařízení — "uvažování" vrstva agent IO stacku ljh-sh. Spouští MLX modely a LoRA adaptéry lokálně přes rámec Apple MLX; FIFO daemon drží model v paměti; kompaktní JSON výstup. Soukromé, žádné API poplatky
+  de: macOS-CLI für lokale LLMs auf dem Gerät — die "Denk"-Schicht des ljh-sh Agent-IO-Stacks. Führt MLX-Modelle und LoRA-Adapter lokal über das Apple-MLX-Framework aus; ein FIFO-Daemon hält das Modell resident; kompakte JSON-Ausgabe. Privat, keine API-Kosten
+  es: "CLI de macOS para LLM en el dispositivo: la capa de \"razonamiento\" de la pila de E/S de agentes ljh-sh. Ejecuta modelos MLX y adaptadores LoRA localmente con el marco Apple MLX; el daemon FIFO mantiene el modelo cargado; salida JSON compacta. Privado, sin facturas de API"
+  fr: "CLI macOS pour les LLM sur l'appareil : la couche « raisonnement » de la pile d'E/S d'agents ljh-sh. Exécute les modèles MLX et les adaptateurs LoRA en local via le framework Apple MLX ; le démon FIFO garde le modèle resident ; sortie JSON compacte. Privé, sans frais d'API"
+  id: "CLI macOS untuk LLM on-device: lapisan \"penalasan\" pada stack IO agen ljh-sh. Menjalankan model MLX dan adaptor LoRA secara lokal melalui framework Apple MLX; daemon FIFO menjaga model tetap resides; output JSON ringkas. Privat, tanpa biaya API"
+  it: "CLI macOS per LLM on-device: il livello di \"ragionamento\" dello stack IO per agenti ljh-sh. Esegue modelli MLX e adattatori LoRA localmente tramite il framework Apple MLX; il daemon FIFO mantiene il modello resident; output JSON compatto. Privato, senza costi API"
+  ja: macOS オンデバイス LLM CLI — ljh-sh エージェント IO スタックの「推論」レイヤー。Apple MLX フレームワークで MLX モデルと LoRA アダプターをローカル実行し、FIFO デーモンがモデルを常駐させ、コンパクトな JSON を出力。プライベートで API 費用も不要
+  ko: macOS 온디바이스 LLM CLI — ljh-sh 에이전트 IO 스택의 "추론" 계층. Apple MLX 프레임워크로 MLX 모델과 LoRA 어댑터를 로컬에서 실행하며, FIFO 데몬이 모델을 상주시키고, 간결한 JSON을 출력합니다. 비공개이며 API 비용이 없습니다
+  pl: CLI macOS dla lokalnych LLM — warstwa „myślenia" w stosie IO agentów ljh-sh. Uruchamia modele MLX i adaptery LoRA lokalnie przez framework Apple MLX; demon FIFO utrzymuje model w pamięci; zwarty wynik JSON. Prywatne, bez opłat za API
+  pt: CLI macOS para LLMs no dispositivo — a camada de "raciocínio" da pilha de IO de agentes ljh-sh. Executa modelos MLX e adaptadores LoRA localmente via framework Apple MLX; o daemon FIFO mantém o modelo residente; saída JSON compacta. Privado, sem faturas de API
+  ro: CLI macOS pentru LLM pe dispozitiv — stratul de "raționament" al stivei IO pentru agenți ljh-sh. Rulează modelele MLX și adaptorii LoRA local, prin framework-ul Apple MLX; daemonul FIFO ține modelul rezident; ieșire JSON compactă. Privat, fără facturi de API
+  ru: macOS CLI для локальных LLM — слой «размышления» в стеке ввода-вывода агентов ljh-sh. Запускает модели MLX и адаптеры LoRA локально через фреймворк Apple MLX; демон FIFO удерживает модель в памяти; компактный вывод JSON. Приватно, без платы за API
+  th: macOS CLI สำหรับ LLM บนอุปกรณ์ — ชั้น "การคิด" ของสแต็ก IO สำหรับเอเจนต์ ljh-sh. รันโมเดล MLX และอะแดปเตอร์ LoRA ในเครื่องผ่านเฟรมเวิร์ก Apple MLX; daemon แบบ FIFO คงโมเดลในหน่วยความจำ; ผลลัพธ์ JSON กระชับ เป็นส่วนตัว ไม่มีค่าใช้จ่าย API
+  tr: macOS cihaz üzerinde LLM için CLI — ljh-sh agent IO yığınının "düşünme" katmanı. MLX modellerini ve LoRA bağdaştırıcılarını Apple MLX çerçevesiyle yerel olarak çalıştırır; FIFO arka plan süreci modeli yerinde tutar; kompakt JSON çıktısı verir. Gizli, API faturası yok
+  uk: macOS CLI для локальних LLM — шар «міркування» в стекі введення-виведення агентів ljh-sh. Запускає моделі MLX та адаптери LoRA локально через фреймворк Apple MLX; демон FIFO утримує модель у пам'яті; компактний вивід JSON. Приватно, без плати за API
+  vi: CLI macOS cho LLM tại thiết bị — lớp "suy luận" của ngăn xếp IO agent ljh-sh. Chạy mô hình MLX và bộ chuyển đổi LoRA cục bộ qua framework Apple MLX; daemon FIFO giữ mô hình cư trú; đầu ra JSON gọn gàng. Riêng tư, không tốn phí API
 x:
   source: https://github.com/ljh-sh/macmlx
   eget: ljh-sh/macmlx

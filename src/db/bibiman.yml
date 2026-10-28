@@ -3,6 +3,22 @@ homepage: https://codeberg.org/lukeflo/bibiman
 desc:
   cn: 用于处理 BibLaTeX 数据库的简单 TUI
   en: A simple TUI for handling your BibLaTeX database.
+  cs: Jednoduché TUI pro správu vaší databáze BibLaTeX.
+  de: Ein einfaches TUI zur Verwaltung Ihrer BibLaTeX-Datenbank.
+  es: Un TUI sencillo para gestionar tu base de datos BibLaTeX.
+  fr: Un TUI simple pour gérer votre base de données BibLaTeX.
+  id: TUI sederhana untuk mengelola basis data BibLaTeX Anda.
+  it: Una semplice TUI per gestire il tuo database BibLaTeX.
+  ja: BibLaTeX データベースを管理するためのシンプルな TUI です。
+  ko: BibLaTeX 데이터베이스를 관리하기 위한 간단한 TUI입니다.
+  pl: Proste TUI do zarządzania bazą danych BibLaTeX.
+  pt: Uma TUI simples para gerenciar seu banco de dados BibLaTeX.
+  ro: Un TUI simplu pentru gestionarea bazei de date BibLaTeX.
+  ru: Простой TUI для работы с базой данных BibLaTeX.
+  th: TUI อย่างง่ายสำหรับจัดการฐานข้อมูล BibLaTeX ของคุณ
+  tr: BibLaTeX veritabanınızı yönetmek için basit bir TUI.
+  uk: Простий TUI для керування базою даних BibLaTeX.
+  vi: TUI đơn giản để quản lý cơ sở dữ liệu BibLaTeX của bạn.
 rule:
   /cargo:
     cmd: cargo install bibiman

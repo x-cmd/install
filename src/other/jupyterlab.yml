@@ -4,6 +4,22 @@ lang: Python
 desc:
   en: JupyterLab computational environment
   cn: JupyterLab 计算环境
+  cs: Výpočetní prostředí JupyterLab
+  de: JupyterLab Rechenumgebung
+  es: Entorno de computación JupyterLab
+  fr: Environnement de calcul JupyterLab
+  id: Lingkungan komputasi JupyterLab
+  it: Ambiente di calcolo JupyterLab
+  ja: JupyterLab 計算環境
+  ko: JupyterLab 컴퓨팅 환경
+  pl: Środowisko obliczeniowe JupyterLab
+  pt: Ambiente de computação JupyterLab
+  ro: Mediu de calcul JupyterLab
+  ru: Вычислительная среда JupyterLab
+  th: สภาพแวดล้อมการคำนวณ JupyterLab
+  tr: JupyterLab hesaplama ortamı
+  uk: Обчислювальне середовище JupyterLab
+  vi: Môi trường tính toán JupyterLab
 x:
   source: https://github.com/jupyterlab/jupyterlab
   eget: jupyterlab/jupyterlab

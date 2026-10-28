@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Ollama 及其他 LLM 供应商的 TUI 客户端
   en: 'TUI for Ollama and other LLM providers'
+  cs: TUI pro Ollama a další poskytovatele LLM
+  de: TUI für Ollama und andere LLM-Anbieter
+  es: TUI para Ollama y otros proveedores de LLM
+  fr: TUI pour Ollama et d'autres fournisseurs de LLM
+  id: TUI untuk Ollama dan penyedia LLM lainnya
+  it: TUI per Ollama e altri fornitori di LLM
+  ja: Ollama やその他の LLM プロバイダー向け TUI
+  ko: Ollama 및 기타 LLM 제공업체를 위한 TUI
+  pl: TUI dla Ollama i innych dostawców LLM
+  pt: TUI para Ollama e outros provedores de LLM
+  ro: TUI pentru Ollama și alți furnizori de LLM
+  ru: TUI для Ollama и других поставщиков LLM
+  th: TUI สำหรับ Ollama และผู้ให้บริการ LLM อื่น ๆ
+  tr: Ollama ve diğer LLM sağlayıcıları için TUI
+  uk: TUI для Ollama та інших постачальників LLM
+  vi: TUI cho Ollama và các nhà cung cấp LLM khác
 x:
   source: https://github.com/paulrobello/parllama
   eget: paulrobello/parllama

@@ -3,6 +3,22 @@ homepage: https://github.com/nabetaro/elinks
 desc:
   cn: ELinks 是一款功能丰富、先进且成熟的文本模式网页浏览器，支持 HTTP、FTP 等协议。
   en: ELinks is an advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
+  cs: ELinks je vyspělý a osvědčený textový webový prohlížeč s bohatými funkcemi (HTTP/FTP/..).
+  de: ELinks ist ein ausgereifter, etablierter und funktionsreicher Textmodus-Webbrowser (HTTP/FTP/..).
+  es: ELinks es un navegador web avanzado, consolidado y con muchas funciones en modo texto (HTTP/FTP/..).
+  fr: ELinks est un navigateur web en mode texte avancé, éprouvé et riche en fonctionnalités (HTTP/FTP/..).
+  id: ELinks adalah browser web mode teks yang matang, mapan, dan kaya fitur (HTTP/FTP/..).
+  it: ELinks è un browser web in modalità testo avanzato, consolidato e ricco di funzionalità (HTTP/FTP/..).
+  ja: ELinks は、高度に成熟した機能豊富なテキストモードのウェブブラウザ（HTTP/FTP/..）です。
+  ko: ELinks는 뛰어나고 성숙한 기능풍부 텍스트 모드 웹 브라우저(HTTP/FTP/..)입니다.
+  pl: ELinks to zaawansowany, dobrze udokumentowany i bogaty w funkcje przeglądarka internetowa w trybie tekstowym (HTTP/FTP/..).
+  pt: ELinks é um navegador web avançado, consolidado e rico em recursos no modo texto (HTTP/FTP/..).
+  ro: ELinks este un browser web avansat, bine consacrat și bogat în funcții, în modul text (HTTP/FTP/..).
+  ru: ELinks — это развитый и давно зарекомендовавший себя текстовый веб-браузер с богатыми возможностями (HTTP/FTP/..).
+  th: ELinks เป็นเว็บเบราว์เซอร์โหมดข้อความที่ก้าวหน้า มีมาตลอด และมีคุณสมบัติครบถ้วน (HTTP/FTP/..)
+  tr: ELinks, gelişmiş, köklü ve zengin özellikli metin modu web tarayıcısıdır (HTTP/FTP/..).
+  uk: ELinks — це розвитий і давно відомий текстовий веббраузер із великим набором функцій (HTTP/FTP/..).
+  vi: ELinks là trình duyệt web chế độ văn bản tiên tiến, lâu đời và giàu tính năng (HTTP/FTP/..).
 x:
   source: https://github.com/nabetaro/elinks
   apt: elinks

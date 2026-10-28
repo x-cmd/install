@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: MacOS (或 Linux)缺少的包管理器
   en: The missing package manager for macOS (or Linux)
+  cs: Chybějící správce balíčků pro macOS (nebo Linux)
+  de: Der fehlende Paketmanager für macOS (oder Linux)
+  es: El gestor de paquetes que falta para macOS (o Linux)
+  fr: Le gestionnaire de paquets qui manque à macOS (ou Linux)
+  id: Pengelola paket yang hilang untuk macOS (atau Linux)
+  it: Il gestore di pacchetti mancante per macOS (o Linux)
+  ja: macOS（または Linux）に欠けているパッケージマネージャー
+  ko: macOS(또는 Linux)에 꼭 필요한 패키지 관리자
+  pl: Brakujący menedżer pakietów dla macOS (lub Linux)
+  pt: O gerenciador de pacotes que falta no macOS (ou Linux)
+  ro: Managerul de pachete care lipsește pentru macOS (sau Linux)
+  ru: Недостающий менеджер пакетов для macOS (или Linux)
+  th: ตัวจัดการแพ็กเกจที่ macOS (หรือ Linux) ขาดไป
+  tr: macOS (veya Linux) için eksik paket yöneticisi
+  uk: Менеджер пакетів, якого бракує для macOS (або Linux)
+  vi: Trình quản lý gói còn thiếu cho macOS (hoặc Linux)
 x:
   source: https://github.com/Homebrew/brew
   apt: linuxbrew-wrapper

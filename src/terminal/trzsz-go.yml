@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: trzsz-go 使所有支持本地 shell 的终端都支持 trzsz ( trz / tsz )，类似于 ( rz / sz )，并且兼容 tmux
   en: trzsz-go makes all terminals that support local shell to support trzsz ( trz / tsz ), which similar to ( rz / sz ), and compatible with tmux
+  cs: trzsz-go umožňuje všem terminálům podporujícím místní shell podporovat trzsz ( trz / tsz ), podobně jako ( rz / sz ), a je kompatibilní s tmux
+  de: trzsz-go ermöglicht es allen Terminals mit lokaler Shell-Unterstützung, trzsz ( trz / tsz ) zu unterstützen, ähnlich wie ( rz / sz ), und ist mit tmux kompatibel
+  es: trzsz-go hace que todos los terminales que admiten shell local admitan trzsz ( trz / tsz ), similar a ( rz / sz ), y es compatible con tmux
+  fr: trzsz-go permet à tous les terminaux prenant en charge un shell local de prendre en charge trzsz ( trz / tsz ), similaire à ( rz / sz ), et est compatible avec tmux
+  id: trzsz-go membuat semua terminal yang mendukung shell lokal untuk mendukung trzsz ( trz / tsz ), mirip dengan ( rz / sz ), dan kompatibel dengan tmux
+  it: trzsz-go fa sì che tutti i terminali che supportano la shell locale supportino trzsz ( trz / tsz ), simile a ( rz / sz ), ed è compatibile con tmux
+  ja: trzsz-go は、ローカルシェルをサポートするすべてのターミナルで trzsz ( trz / tsz ) が使えるようにします ( ( rz / sz ) に似ています)。tmux とも互換性があります
+  ko: trzsz-go는 로컬 셸을 지원하는 모든 터미널에서 trzsz ( trz / tsz )를 사용할 수 있게 하며, ( rz / sz )와 유사하고 tmux와 호환됩니다
+  pl: trzsz-go umożliwia wszystkim terminalom obsługującym lokalną powłokę korzystanie z trzsz ( trz / tsz ), podobnie jak ( rz / sz ), i jest kompatybilny z tmux
+  pt: trzsz-go faz com que todos os terminais que suportam shell local suportem trzsz ( trz / tsz ), semelhante a ( rz / sz ), e é compatível com tmux
+  ro: trzsz-go face ca toate terminalele care acceptă shell local să suporte trzsz ( trz / tsz ), similar cu ( rz / sz ), și este compatibil cu tmux
+  ru: trzsz-go позволяет всем терминалам с поддержкой локальной оболочки использовать trzsz ( trz / tsz ), аналогично ( rz / sz ), и совместим с tmux
+  th: trzsz-go ทำให้เทอร์มินัลทุกตัวที่รองรับ local shell สามารถรองรับ trzsz ( trz / tsz ) ซึ่งคล้ายกับ ( rz / sz ) และเข้ากันได้กับ tmux
+  tr: trzsz-go, yerel kabuğu destekleyen tüm terminallerin trzsz ( trz / tsz ) desteğini kullanmasını sağlar, ( rz / sz )'ye benzer şekilde ve tmux ile uyumludur
+  uk: trzsz-go дозволяє всім терміналам із підтримкою локальної оболонки використовувати trzsz ( trz / tsz ), аналогічно до ( rz / sz ), і сумісний з tmux
+  vi: trzsz-go giúp mọi terminal hỗ trợ shell cục bộ hỗ trợ trzsz ( trz / tsz ), tương tự ( rz / sz ), và tương thích với tmux
 x:
   source: https://github.com/trzsz/trzsz-go
   eget: trzsz/trzsz-go

@@ -4,6 +4,22 @@ license: 'NOASSERTION'
 desc:
   cn: 用单一文件分发并运行 LLM
   en: 'Distribute and run LLMs with a single file.'
+  cs: Distribuujte a spouštějte LLM v jediném souboru.
+  de: LLMs mit einer einzigen Datei verteilen und ausführen.
+  es: Distribuye y ejecuta LLM con un solo archivo.
+  fr: Distribuez et exécutez des LLM avec un seul fichier.
+  id: Distribusikan dan jalankan LLM dengan satu file.
+  it: Distribuisci ed esegui LLM con un unico file.
+  ja: 単一ファイルでLLMを配布・実行します。
+  ko: 단일 파일로 LLM을 배포하고 실행합니다.
+  pl: Dystrybuuj i uruchamiaj LLM w jednym pliku.
+  pt: Distribua e execute LLMs com um único arquivo.
+  ro: Distribuiți și rulați LLM cu un singur fișier.
+  ru: Распространяйте и запускайте LLM с помощью одного файла.
+  th: กระจายและรัน LLM ด้วยไฟล์เดียว
+  tr: LLM'leri tek bir dosyayla dağıtın ve çalıştırın.
+  uk: Розповсюджуйте та запускайте LLM за допомогою одного файлу.
+  vi: Phân phối và chạy LLM bằng một tệp duy nhất.
 x:
   source: https://github.com/Mozilla-Ocho/llamafile
   eget: Mozilla-Ocho/llamafile

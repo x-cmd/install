@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 从命令行捕获网站的屏幕截图
   en: Capture screenshots of websites from the command-line
+  cs: Pořizuje snímky obrazovky webů z příkazové řádky
+  de: Erfasst Screenshots von Websites über die Kommandozeile
+  es: Captura capturas de pantalla de sitios web desde la línea de comandos
+  fr: Capture des captures d'écran de sites web depuis la ligne de commande
+  id: Menangkap tangkapan layar situs web dari baris perintah
+  it: Cattura screenshot di siti web dalla riga di comando
+  ja: コマンドラインからウェブサイトのスクリーンショットを撮影する
+  ko: 명령줄에서 웹사이트의 스크린샷을 캡처합니다
+  pl: Robi zrzuty ekranu witryn z wiersza poleceń
+  pt: Captura capturas de tela de sites da web a partir da linha de comando
+  ro: Capturează capturi de ecran ale site-urilor web din linia de comandă
+  ru: Делает скриншоты веб-сайтов из командной строки
+  th: จับภาพหน้าจอของเว็บไซต์จากบรรทัดคำสั่ง
+  tr: Komut satırından web sitelerinin ekran görüntülerini alır
+  uk: Робить знімки екрана вебсайтів з командного рядка
+  vi: Chụp ảnh màn hình của trang web từ dòng lệnh
 x:
   source: https://github.com/sindresorhus/capture-website-cli#readme
 rule:

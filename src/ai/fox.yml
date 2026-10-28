@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 高速本地 LLM 推理服务引擎，作为 Ollama 的直接替代品，通过前缀缓存与连续批处理获得更低的 TTFT 与更高吞吐
   en: High-performance local LLM inference server and drop-in replacement for Ollama, with lower TTFT and higher throughput via prefix caching and continuous batching
+  cs: Výkonný lokální server pro inferenci LLM a přímá náhrada Ollama, s nižším TTFT a vyšší propustností díky prefix cache a průběžnému dávkování
+  de: Hochleistungs-Lokaler LLM-Inferenzserver und Drop-in-Ersatz für Ollama, mit niedrigerer TTFT und höherem Durchsatz durch Prefix-Caching und kontinuierliches Batching
+  es: Servidor local de inferencia de LLM de alto rendimiento y sustituto directo de Ollama, con menor TTFT y mayor rendimiento gracias a la caché de prefijos y el batching continuo
+  fr: Serveur d'inférence LLM local haute performance et remplaçant direct d'Ollama, avec un TTFT plus faible et un débit plus élevé grâce à la mise en cache des préfixes et au batch continu
+  id: Server inferensi LLM lokal berkinerja tinggi dan pengganti langsung Ollama, dengan TTFT lebih rendah dan throughput lebih tinggi berkat cache prefiks dan batching kontinu
+  it: Server di inferenza LLM locale ad alte prestazioni e sostituto diretto di Ollama, con TTFT inferiore e throughput maggiore grazie alla cache dei prefissi e al batching continuo
+  ja: 高性能なローカル LLM 推論サーバーで、Ollama の直接的な代替。プレフィックスキャッシュと連続バッチ処理により、より低い TTFT と高いスループットを実現します。
+  ko: 고성능 로컬 LLM 추론 서버로 Ollama의 직접 대체제, 프리픽스 캐싱과 연속 배치 처리로 더 낮은 TTFT와 더 높은 처리량을 제공합니다.
+  pl: Wydajny lokalny serwer wnioskowania LLM i bezpośredni zamiennik Ollama, z niższym TTFT i wyższą przepustowością dzięki buforowaniu prefiksów i ciągłemu batchowaniu.
+  pt: Servidor local de inferência de LLM de alto desempenho e substituto direto do Ollama, com menor TTFT e maior vazão graças ao cache de prefixos e ao batching contínuo
+  ro: Server local de inferență LLM de înaltă performanță și înlocuitor direct pentru Ollama, cu TTFT mai mic și debit mai mare datorită memorării în cache a prefixelor și procesării continue în loturi
+  ru: Высокопроизводительный локальный сервер инференса LLM и прямая замена Ollama, с меньшим TTFT и большей пропускной способностью за счёт префиксного кэширования и непрерывной пакетной обработки
+  th: เซิร์ฟเวอร์อินเฟอเรนซ์ LLM ในเครื่องประสิทธิภาพสูงและตัวแทน Ollama โดยตรง ให้ TTFT ต่ำกว่าและปริมาณงานสูงกว่าด้วยพรีฟิกซ์แคชและการประมวลผลแบบต่อเนื่อง
+  tr: Yüksek performanslı yerel LLM çıkarım sunucusu ve Ollama için bire bir alternatif; ön ek önbelleği ve sürekli toplu işleme sayesinde daha düşük TTFT ve daha yüksek verim sağlar.
+  uk: Високопродуктивний локальний сервер інференсу LLM і пряма заміна Ollama, з меншим TTFT і більшою пропускною здатністю завдяки префіксному кешуванню та безперервній пакетній обробці.
+  vi: Máy chủ suy luận LLM cục bộ hiệu năng cao và bản thay thế trực tiếp cho Ollama, với TTFT thấp hơn và thông lượng cao hơn nhờ bộ nhớ đệm tiền tố và xử lý lô liên tục.
 x:
   source: https://github.com/ferrumox/fox
   eget: ferrumox/fox

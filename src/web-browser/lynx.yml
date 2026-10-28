@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Lynx 是一款功能齐全的全球范围网页浏览器，适用于通过光标可寻址字符单元终端或模拟器连接到 Unix 和 VMS 平台的用户。
   en: Lynx is a fully featured World-Wide Web browser for users on both Unix and VMS platforms who are connected to those systems via cursor-addressable, character-cell terminals or emulators.
+  cs: Lynx je plnohodnotný prohlížeč WWW pro uživatele unixových i VMS platforem připojené k těmto systémům prostřednictvím terminálů nebo emulátorů s adresovatelnými kurzorem textovými buňkami.
+  de: Lynx ist ein voll ausgestatteter World-Wide-Web-Browser für Benutzer auf Unix- und VMS-Plattformen, die über cursoradressierbare Terminals oder Emulatoren mit Zeichenzellen an diese Systeme angebunden sind.
+  es: Lynx es un navegador World-Wide Web con todas las funciones para usuarios de plataformas Unix y VMS conectados a esos sistemas mediante terminales o emuladores de celdas de caracteres direccionables por cursor.
+  fr: Lynx est un navigateur World-Wide Web complet pour les utilisateurs de plateformes Unix et VMS connectés à ces systèmes via des terminaux ou émulateurs à cellules de caractères adressables par le curseur.
+  id: Lynx adalah browser World-Wide Web lengkap untuk pengguna di platform Unix dan VMS yang terhubung ke sistem tersebut melalui terminal atau emulator sel karakter yang dapat dialamati kursor.
+  it: Lynx è un browser World-Wide Web completo per utenti su piattaforme Unix e VMS collegati a tali sistemi tramite terminali o emulatori a celle di caratteri indirizzabili col cursore.
+  ja: Lynx は、カーソルでアドレス指定できる文字セル端末やエミュレータを介して Unix および VMS プラットフォームに接続するユーザー向けの、完全な機能を備えた World-Wide Web ブラウザです。
+  ko: Lynx는 커서로 주소를 지정할 수 있는 문자 셀 터미널이나 에뮬레이터를 통해 Unix 및 VMS 플랫폼에 연결된 사용자를 위한 완전한 기능을 갖춘 World-Wide Web 브라우저입니다.
+  pl: Lynx to w pełni wyposażona przeglądarka World-Wide Web dla użytkowników platform Unix i VMS połączonych z tymi systemami za pomocą terminali lub emulatorów z komórkami znaków adresowanych kursorem.
+  pt: Lynx é um navegador World-Wide Web totalmente completo para usuários em plataformas Unix e VMS conectados a esses sistemas por terminais ou emuladores de células de caracteres endereçáveis por cursor.
+  ro: Lynx este un browser World-Wide Web complet pentru utilizatori de pe platformele Unix și VMS conectați la aceste sisteme prin terminale sau emulatoare cu celule de caractere adresabile prin cursor.
+  ru: Lynx — это полнофункциональный браузер World-Wide Web для пользователей платформ Unix и VMS, подключённых к этим системам через терминалы или эмуляторы с посимвольно адресуемыми ячейками.
+  th: Lynx เป็นเว็บเบราว์เซอร์ World-Wide Web ที่มีคุณสมบัติครบถ้วนสำหรับผู้ใช้บนแพลตฟอร์ม Unix และ VMS ที่เชื่อมต่อกับระบบเหล่านั้นผ่านเทอร์มินัลหรืออีมูเลเตอร์แบบเซลล์อักขระที่ระบุตำแหน่งด้วยเคอร์เซอร์
+  tr: Lynx, imleçle adreslenebilen karakter hücreli terminaller veya emülatörler aracılığıyla Unix ve VMS platformlarına bağlanan kullanıcılar için tam özellikli bir World-Wide Web tarayıcısıdır.
+  uk: Lynx — це повнофункціональний браузер World-Wide Web для користувачів платформ Unix і VMS, підключених до цих систем через термінали або емулятори з посимвольно адресованими клітинками.
+  vi: Lynx là trình duyệt World-Wide Web đầy đủ tính năng dành cho người dùng trên nền tảng Unix và VMS, kết nối với các hệ thống đó qua terminal hoặc trình mô phỏng ô ký tự có thể định địa chỉ bằng con trỏ.
 x:
   source: https://github.com/lynx-family/lynx
   eget: lynx-family/lynx

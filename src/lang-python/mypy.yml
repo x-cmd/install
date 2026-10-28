@@ -3,6 +3,22 @@ homepage: https://github.com/python/mypy
 desc:
   cn: 一个可选的静态类型检查器，它将 Python 代码转换为有效的 Python 3.5+代码，使用类型注释或类型推断来帮助发现代码中的错误
   en: An optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing
+  cs: Volitelný statický kontrolor typů pro Python, který se snaží spojit výhody dynamického (neboli „kachního“) typování a statického typování
+  de: Ein optionaler statischer Typprüfer für Python, der die Vorteile dynamischer (oder „Duck“-) Typisierung und statischer Typisierung verbindet
+  es: Un verificador de tipos estático opcional para Python que busca combinar las ventajas del tipado dinámico (o de «pato») y del tipado estático
+  fr: Un vérificateur de type statique optionnel pour Python, qui vise à combiner les avantages du typage dynamique (ou « duck ») et du typage statique
+  id: Pemeriksa tipe statis opsional untuk Python yang aims untuk menggabungkan kelebihan tipe dinamis (atau "duck") dan tipe statis
+  it: Un controllore di tipi statico opzionale per Python che mira a combinare i vantaggi del typing dinamico (o "duck") e di quello statico
+  ja: 動的（または「ダック」）型付けと静的型付けの利点を両立することを目的とした、Python 向けのオプショナルな静的型チェッカーです
+  ko: 동적(또는 '덕') 타이핑과 정적 타이핑의 장점을 결합하고자 하는 Python용 선택적 정적 타입 검사기
+  pl: Opcjonalny statyczny checker typów dla Pythona, który łączy zalety typowania dynamicznego (lub „kaczego”) i statycznego
+  pt: Um verificador de tipos estático opcional para Python que visa combinar os benefícios da tipagem dinâmica (ou "duck") e da tipagem estática
+  ro: Un verificator de tipuri static opțional pentru Python, care urmărește să combine beneficiile tipăririi dinamice (sau „duck”) și ale celei statice
+  ru: Необязательный статический анализатор типов для Python, стремящийся объединить преимущества динамической (или «утиной») и статической типизации
+  th: ตัวตรวจสอบชนิดข้อมูลแบบคงที่ (static) ที่เป็นตัวเลือกสำหรับ Python ที่มุ่งรวมข้อดีของการพิมพ์แบบไดนามิก (หรือ "duck") กับการพิมพ์แบบคงที่
+  tr: Python için dinamik (ya da "duck") tip kontrolü ile statik tip kontrolünün avantajlarını birleştirmeyi amaçlayan isteğe bağlı bir statik tip denetleyicisi
+  uk: Необов'язковий статичний перевіряч типів для Python, що намагається поєднати переваги динамічної (або «качечкової») та статичної типізації
+  vi: Trình kiểm tra kiểu tĩnh tùy chọn cho Python, nhằm kết hợp lợi ích của kiểu động (hay "vịt") và kiểu tĩnh
 x:
   source: https://github.com/python/mypy
   apt: mypy

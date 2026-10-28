@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于从项目中清除 node_modules、target、build 以及相关依赖项的命令行工具。
   en: A command line tool to clean node_modules, target, build, and friends from your projects.
+  cs: Nástroj příkazové řádky pro čištění adresářů node_modules, target, build a podobných z vašich projektů.
+  de: Ein Kommandozeilenwerkzeug, um node_modules, target, build und Ähnliches aus Ihren Projekten zu entfernen.
+  es: Una herramienta de línea de comandos para limpiar node_modules, target, build y similares de sus proyectos.
+  fr: Un outil en ligne de commande pour nettoyer node_modules, target, build et similaires de vos projets.
+  id: Alat baris perintah untuk membersihkan node_modules, target, build, dan sejenisnya dari proyek Anda.
+  it: Uno strumento da riga di comando per ripulire node_modules, target, build e simili dai tuoi progetti.
+  ja: プロジェクトから node_modules、target、build などの不要なものを削除するコマンドラインツール。
+  ko: 프로젝트에서 node_modules, target, build 등의 불필요한 항목을 정리하는 명령줄 도구입니다.
+  pl: Narzędzie wiersza poleceń do czyszczenia katalogów node_modules, target, build i podobnych z projektów.
+  pt: Uma ferramenta de linha de comando para limpar node_modules, target, build e afins dos seus projetos.
+  ro: Un instrument de linie de comandă pentru curățarea node_modules, target, build și a altor directoare similare din proiectele tale.
+  ru: Инструмент командной строки для очистки каталогов node_modules, target, build и подобных в ваших проектах.
+  th: เครื่องมือบรรทัดคำสั่งสำหรับล้าง node_modules, target, build และตัวคล้ายกันออกจากโปรเจกต์ของคุณ
+  tr: Projelerinizden node_modules, target, build ve benzerlerini temizlemek için bir komut satırı aracı.
+  uk: Інструмент командного рядка для очищення каталогів node_modules, target, build та подібних у ваших проєктах.
+  vi: Công cụ dòng lệnh để dọn node_modules, target, build và các thư mục tương tự khỏi dự án của bạn
 x:
   source: https://github.com/tbillington/kondo
   brew: kondo

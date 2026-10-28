@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: crates-tui is a simple terminal user interface explorer for crates.io based on Ratatui
   cn: crates-tui 是一个基于 Ratatui 的、用于 crates.io 的简洁终端用户界面浏览器。
+  cs: crates-tui je jednoduchý prohlížeč terminálového uživatelského rozhraní pro crates.io založený na Ratatui
+  de: crates-tui ist ein einfacher Terminal-Benutzeroberflächen-Explorer für crates.io auf Basis von Ratatui
+  es: crates-tui es un explorador sencillo de interfaz de usuario de terminal para crates.io basado en Ratatui
+  fr: crates-tui est un explorateur simple d'interface utilisateur en terminal pour crates.io basé sur Ratatui
+  id: crates-tui adalah penjelajah antarmuka pengguna terminal yang sederhana untuk crates.io berbasis Ratatui
+  it: crates-tui è un semplice browser a interfaccia utente da terminale per crates.io basato su Ratatui
+  ja: crates-tui は Ratatui に基づく crates.io 用のシンプルなターミナルユーザーインターフェースエクスプローラーです
+  ko: crates-tui는 Ratatui를 기반으로 한 crates.io용 간단한 터미널 사용자 인터페이스 탐색기입니다
+  pl: crates-tui to prosta przeglądarka interfejsu terminala dla crates.io oparta na Ratatui
+  pt: crates-tui é um simples explorador de interface de usuário de terminal para crates.io baseado em Ratatui
+  ro: crates-tui este un explorator simplu de interfață de utilizator în terminal pentru crates.io, bazat pe Ratatui
+  ru: crates-tui — простой терминальный проводник интерфейса для crates.io на базе Ratatui
+  th: crates-tui เป็นตัวสำรวจอินเทอร์เฟซผู้ใช้เทอร์มินัลอย่างง่ายสำหรับ crates.io บนพื้นฐานของ Ratatui
+  tr: crates-tui, Ratatui tabanlı crates.io için basit bir terminal kullanıcı arayüzü gezginidir
+  uk: crates-tui — простий термінальний провідник інтерфейсу для crates.io на базі Ratatui
+  vi: crates-tui là trình duyệt giao diện người dùng trên terminal đơn giản cho crates.io dựa trên Ratatui
 x:
   source: https://github.com/ratatui-org/crates-tui
   eget: ratatui-org/crates-tui

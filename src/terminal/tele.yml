@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: tele is a keyboard-first Telegram client for the terminal — vim-style navigation, inline photos and voice notes, reactions and chat folders, plus a daemon mode that keeps the account connected and delivers desktop notifications with no window open.
   cn: tele 是面向终端的键盘优先 Telegram 客户端：vim 风格导航、内联图片与语音消息、表情回应与会话文件夹，并支持守护进程模式——没有窗口打开时仍保持账号在线并推送桌面通知。
+  cs: tele je klient Telegram pro terminál s orientací na klávesnici — navigace ve stylu vimu, vložené fotografie a hlasové poznámky, reakce a složky chatů a navíc režim daemonu, který udržuje účet připojený a doručuje oznámení na plochu bez otevřeného okna.
+  de: tele ist ein tastaturorientierter Telegram-Client für das Terminal — Navigation im vim-Stil, Inline-Fotos und Sprachnachrichten, Reaktionen und Chat-Ordner sowie ein Daemon-Modus, der das Konto verbunden hält und Desktop-Benachrichtigungen sendet, ohne dass ein Fenster geöffnet ist.
+  es: "tele es un cliente de Telegram para la terminal centrado en el teclado: navegación al estilo de vim, fotos y notas de voz en línea, reacciones y carpetas de chat, además de un modo demonio que mantiene la cuenta conectada y entrega notificaciones de escritorio sin ventana abierta."
+  fr: tele est un client Telegram pour le terminal axé sur le clavier — navigation de style vim, photos et notes vocales en ligne, réactions et dossiers de discussion, ainsi qu'un mode démon qui garde le compte connecté et délivre des notifications de bureau sans fenêtre ouverte.
+  id: tele adalah klien Telegram untuk terminal yang mengutamakan papan ketik — navigasi bergaya vim, foto dan catatan suara sebaris, reaksi dan folder obrolan, serta mode daemon yang menjaga akun tetap terhubung dan mengirim notifikasi desktop tanpa jendela terbuka.
+  it: tele è un client Telegram per terminale orientato alla tastiera — navigazione in stile vim, foto e note vocali in linea, reazioni e cartelle di chat, più una modalità daemon che mantiene l'account connesso e invia notifiche desktop senza aprire alcuna finestra.
+  ja: tele はキーボードファーストの Telegram クライアントで、ターミナル向けです。vim 風ナビゲーション、インライン画像とボイスメモ、リアクションとチャットフォルダに加えて、アカウントを接続したまま維持し、ウィンドウを開かずにデスクトップ通知を送るデーモンモードも備えています。
+  ko: tele은 터미널용 키보드 우선 Telegram 클라이언트로, vim 스타일 탐색, 인라인 사진과 음성 메모, 반응과 채팅 폴더를 지원하며, 창을 열지 않고 계정을 계속 연결 상태로 유지하면서 데스크톱 알림을 전달하는 데몬 모드도 제공합니다.
+  pl: tele to klient Telegramu dla terminala, oparty na klawiaturze — nawigacja w stylu vima, wbudowane zdjęcia i notatki głosowe, reakcje i foldery czatów, a także tryb demona, który utrzymuje konto połączone i dostarcza powiadomienia pulpitu bez otwierania okna.
+  pt: tele é um cliente do Telegram para terminal, focado no teclado — navegação ao estilo vim, fotos e notas de voz embutidas, reações e pastas de conversa, além de um modo daemon que mantém a conta conectada e entrega notificações de desktop sem janela aberta.
+  ro: tele este un client Telegram pentru terminal, orientat pe tastatură — navigare în stil vim, fotografii și note vocale în linie, reacții și foldere de chat, plus un mod daemon care păstrează contul conectat și trimite notificări pe desktop fără a deschide o fereastră.
+  ru: "tele — клиент Telegram для терминала, ориентированный на клавиатуру: навигация в стиле vim, встроенные фото и голосовые заметки, реакции и папки чатов, а также режим демона, который сохраняет аккаунт подключённым и присылает уведомления на рабочий стол без открытого окна."
+  th: tele คือไคลเอนต์ Telegram สำหรับเทอร์มินัลที่ให้ความสำคัญกับคีย์บอร์ด — การนำทางสไตล์ vim, รูปภาพและบันทึกเสียงแบบฝังในบทสนทนา, ปฏิกิริยาและโฟลเดอร์แชท รวมถึงโหมด daemon ที่คงบัญชีเชื่อมต่ออยู่และส่งการแจ้งเตือนบนเดสก์ท็อปโดยไม่ต้องเปิดหน้าต่าง.
+  tr: tele, terminal için klavye odaklı bir Telegram istemcisidir — vim tarzı gezinme, satır içi fotoğraflar ve sesli notlar, tepkiler ve sohbet klasörleri, ayrıca hesabı bağlı tutan ve pencere açılmadan masaüstü bildirimleri gönderen bir arka plan modu sunar.
+  uk: "tele — клієнт Telegram для термінала, орієнтований на клавіатуру: навігація у стилі vim, вбудовані фото та голосові нотатки, реакції та теки чатів, а також режим демона, який утримує обліковий запис підключеним і надсилає сповіщення на робочий стіл без відкритого вікна."
+  vi: tele là ứng dụng Telegram cho terminal với triết lý bàn phím trước — điều hướng phong cách vim, ảnh và ghi chú giọng nói nội tuyến, biểu cảm và thư mục trò chuyện, cùng chế độ daemon giúp tài khoản luôn kết nối và gửi thông báo máy tính mà không cần mở cửa sổ.
 x:
   source: https://github.com/sorokin-vladimir/tele
   eget: sorokin-vladimir/tele

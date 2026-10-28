@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 极速 TUI，搜索、查看并排队 pacman/AUR 软件包
   en: 'Fast TUI for searching, inspecting, and queueing pacman/AUR packages.'
+  cs: Rychlé TUI pro vyhledávání, prohlížení a řazení balíčků pacman/AUR do fronty.
+  de: Schnelle TUI zum Suchen, Prüfen und Einreihen von pacman/AUR-Paketen.
+  es: TUI rápida para buscar, inspeccionar y poner en cola paquetes de pacman/AUR.
+  fr: TUI rapide pour rechercher, inspecter et mettre en file d'attente des paquets pacman/AUR.
+  id: TUI cepat untuk mencari, memeriksa, dan mengantre paket pacman/AUR.
+  it: TUI veloce per cercare, ispezionare e mettere in coda i pacchetti pacman/AUR.
+  ja: pacman/AUR パッケージの検索・確認・キュー登録用の高速な TUI。
+  ko: pacman/AUR 패키지를 검색하고 살펴보고 대기열에 넣는 빠른 TUI.
+  pl: Szybkie TUI do wyszukiwania, przeglądania i kolejkowania pakietów pacman/AUR.
+  pt: TUI rápida para pesquisar, inspecionar e enfileirar pacotes pacman/AUR.
+  ro: TUI rapid pentru căutarea, inspectarea și punerea în coadă a pachetelor pacman/AUR.
+  ru: Быстрый TUI для поиска, просмотра и постановки в очередь пакетов pacman/AUR.
+  th: TUI ที่รวดเร็วสำหรับค้นหา ตรวจสอบ และจัดคิวแพ็กเกจ pacman/AUR
+  tr: pacman/AUR paketlerini aramak, incelemek ve kuyruğa almak için hızlı bir TUI.
+  uk: Швидкий TUI для пошуку, перегляду та черги в чергу пакетів pacman/AUR.
+  vi: TUI nhanh để tìm kiếm, xem xét và xếp hàng các gói pacman/AUR.
 x:
   source: https://github.com/Firstp1ck/Pacsea
   eget: Firstp1ck/Pacsea

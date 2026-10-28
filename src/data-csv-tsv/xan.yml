@@ -4,6 +4,22 @@ license: Unlicense
 desc:
   cn: 用于直接从 shell 处理 CSV 文件的命令行工具
   en: a command line tool that can be used to process CSV files directly from the shell.
+  cs: nástroj příkazové řádky, který lze použít ke zpracování souborů CSV přímo ze shellu.
+  de: ein Kommandozeilenwerkzeug, mit dem CSV-Dateien direkt aus der Shell verarbeitet werden können.
+  es: una herramienta de línea de comandos que se puede usar para procesar archivos CSV directamente desde el shell.
+  fr: un outil en ligne de commande permettant de traiter des fichiers CSV directement depuis le shell.
+  id: alat baris perintah yang dapat digunakan untuk memproses file CSV langsung dari shell.
+  it: uno strumento da riga di comando utilizzabile per elaborare file CSV direttamente dalla shell.
+  ja: シェルから直接 CSV ファイルを処理できるコマンドラインツールです。
+  ko: 셸에서 직접 CSV 파일을 처리하는 데 사용할 수 있는 명령줄 도구입니다.
+  pl: narzędzie wiersza poleceń, którego można używać do przetwarzania plików CSV bezpośrednio z powłoki.
+  pt: uma ferramenta de linha de comando que pode ser usada para processar arquivos CSV diretamente do shell.
+  ro: un instrument de linie de comandă care poate fi folosit pentru a procesa fișiere CSV direct din shell.
+  ru: инструмент командной строки, который можно использовать для обработки файлов CSV прямо из оболочки.
+  th: เครื่องมือบรรทัดคำสั่งที่ใช้ประมวลผลไฟล์ CSV ได้โดยตรงจากเชลล์
+  tr: CSV dosyalarını doğrudan kabuktan işlemek için kullanılabilen bir komut satırı aracı.
+  uk: інструмент командного рядка, який можна використовувати для обробки файлів CSV прямо з оболонки.
+  vi: công cụ dòng lệnh có thể dùng để xử lý tệp CSV trực tiếp từ shell.
 x:
   source: https://github.com/medialab/xan
   eget: medialab/xan

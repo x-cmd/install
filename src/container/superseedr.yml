@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 终端中的 BitTorrent 客户端
   en: 'A BitTorrent Client in your Terminal'
+  cs: BitTorrent klient ve vašem terminálu
+  de: Ein BitTorrent-Client in Ihrem Terminal
+  es: Un cliente de BitTorrent en tu terminal
+  fr: Un client BitTorrent dans votre terminal
+  id: Klien BitTorrent di terminal Anda
+  it: Un client BitTorrent nel tuo terminale
+  ja: ターミナルで動作する BitTorrent クライアント
+  ko: 터미널에서 동작하는 BitTorrent 클라이언트
+  pl: Klient BitTorrent w terminalu
+  pt: Um cliente BitTorrent no seu terminal
+  ro: Un client BitTorrent în terminalul dumneavoastră
+  ru: BitTorrent-клиент для вашего терминала
+  th: ไคลเอนต์ BitTorrent ในเทอร์มินัลของคุณ
+  tr: Terminalinizde bir BitTorrent istemcisi
+  uk: BitTorrent-клієнт для вашого термінала
+  vi: Ứng dụng khách BitTorrent trong terminal của bạn
 x:
   source: https://github.com/Jagalite/superseedr
   eget: Jagalite/superseedr

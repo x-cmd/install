@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 更为严格的 gofumpt
   en: A stricter gofmt
+  cs: Přísnější gofmt
+  de: Ein strengeres gofmt
+  es: Un gofmt más estricto
+  fr: Un gofmt plus strict
+  id: gofmt yang lebih ketat
+  it: Un gofmt più rigoroso
+  ja: より厳格な gofmt
+  ko: 더 엄격한 gofmt
+  pl: Bardziej rygorystyczny gofmt
+  pt: Um gofmt mais rigoroso
+  ro: Un gofmt mai strict
+  ru: Более строгий gofmt
+  th: gofmt ที่เข้มงวดกว่า
+  tr: Daha katı bir gofmt
+  uk: Суворіший gofmt
+  vi: gofmt nghiêm ngặt hơn
 x:
   source: https://github.com/mvdan/gofumpt
   eget: mvdan/gofumpt

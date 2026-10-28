@@ -4,6 +4,22 @@ license: isc
 desc:
   cn: 一次构建处处运行的 C 库
   en: build-once run-anywhere c library
+  cs: Knihovna C pro build-once run-anywhere
+  de: Build-once-run-anywhere-C-Bibliothek
+  es: Biblioteca C de compilación única y ejecución en cualquier lugar
+  fr: Bibliothèque C compilez-une-fois-exécutez-partout
+  id: Pustaka C build-once run-anywhere
+  it: Libreria C build-once run-anywhere
+  ja: 一度ビルドすればどこでも動く C ライブラリ
+  ko: 한 번 빌드하면 어디서나 실행되는 C 라이브러리
+  pl: Biblioteka C build-once run-anywhere
+  pt: Biblioteca C compilar-uma-vez executar-em-qualquer-lugar
+  ro: Bibliotecă C build-once run-anywhere
+  ru: "Библиотека C: собрал один раз — запустил где угодно"
+  th: ไลบรารี C แบบ build-once run-anywhere
+  tr: Bir kez derle, her yerde çalıştır C kitaplığı
+  uk: "Бібліотека C: зібрав один раз — запустив будь-де"
+  vi: Thư viện C build-once run-anywhere
 x:
   source: https://github.com/jart/cosmopolitan
   eget: jart/cosmopolitan

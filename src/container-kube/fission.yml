@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Fission 是 Kubernetes 上无服务器功能的框架
   en: Fission is a framework for serverless functions on Kubernetes
+  cs: Fission je framework pro serverless funkce na Kubernetes
+  de: Fission ist ein Framework für Serverless-Funktionen auf Kubernetes
+  es: Fission es un framework para funciones serverless en Kubernetes
+  fr: Fission est un framework pour les fonctions serverless sur Kubernetes
+  id: Fission adalah framework untuk fungsi serverless di Kubernetes
+  it: Fission è un framework per le funzioni serverless su Kubernetes
+  ja: Fission は Kubernetes 上のサーバーレス関数のためのフレームワークです
+  ko: Fission은 Kubernetes에서 서버리스 함수를 위한 프레임워크입니다
+  pl: Fission to framework dla funkcji serverless w Kubernetes
+  pt: Fission é um framework para funções serverless no Kubernetes
+  ro: Fission este un cadru pentru funcții serverless pe Kubernetes
+  ru: Fission — это фреймворк для бессерверных функций на Kubernetes
+  th: Fission คือเฟรมเวิร์กสำหรับฟังก์ชันแบบไร้เซิร์ฟเวอร์บน Kubernetes
+  tr: Fission, Kubernetes üzerinde sunucusuz fonksiyonlar için bir çerçevedir
+  uk: Fission — це фреймворк для безсерверних функцій на Kubernetes
+  vi: Fission là framework cho các hàm không máy chủ trên Kubernetes
 x:
   source: https://github.com/fission/fission
   eget: fission/fission

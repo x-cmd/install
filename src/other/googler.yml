@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 在终端中使用谷歌搜索(已存档)
   en: Google Search, Google Site Search, Google News from the terminal(archived)
+  cs: Google Search, Google Site Search a Google News z terminálu (archivováno)
+  de: Google Search, Google Site Search und Google News aus dem Terminal (archiviert)
+  es: Google Search, Google Site Search y Google News desde la terminal (archivado)
+  fr: Google Search, Google Site Search et Google News depuis le terminal (archivé)
+  id: Google Search, Google Site Search, dan Google News dari terminal (diarsipkan)
+  it: Google Search, Google Site Search e Google News dal terminale (archiviato)
+  ja: ターミナルから Google Search、Google Site Search、Google News を利用できます（アーカイブ済み）
+  ko: 터미널에서 Google Search, Google Site Search, Google News 사용하기 (보관됨)
+  pl: Google Search, Google Site Search i Google News z terminala (zarchiwizowane)
+  pt: Google Search, Google Site Search e Google News a partir do terminal (arquivado)
+  ro: Google Search, Google Site Search și Google News din terminal (arhivat)
+  ru: Google Search, Google Site Search и Google News из терминала (архивировано)
+  th: ค้นหาด้วย Google Search, Google Site Search และ Google News จากเทอร์มินัล (เก็บถาวรแล้ว)
+  tr: Terminaldan Google Search, Google Site Search ve Google News (arşivlendi)
+  uk: Google Search, Google Site Search і Google News з термінала (архівовано)
+  vi: Google Search, Google Site Search và Google News từ terminal (đã lưu trữ)
 x:
   source: https://github.com/jarun/googler
   apt: googler

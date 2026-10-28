@@ -3,6 +3,22 @@ homepage: https://crates.io/crates/git-gone
 desc:
   cn: 清理提取请求的陈旧 Git 分支
   en: Cleanup stale Git branches of pull requests
+  cs: Vyčistí zastarované Git větve pull requestů
+  de: Bereinigt veraltete Git-Branches von Pull Requests
+  es: Limpia las ramas Git obsoletas de las pull requests
+  fr: Nettoie les branches Git obsolètes des pull requests
+  id: Membersihkan cabang Git lama dari pull request
+  it: Pulisce i rami Git obsoleti delle pull request
+  ja: プルリクエストの古い Git ブランチを整理する
+  ko: 풀 리퀘스트의 오래된 Git 브랜치를 정리합니다
+  pl: Czyści nieaktualne gałęzie Git z pull requestów
+  pt: Limpa branches Git obsoletos de pull requests
+  ro: Curăță ramurile Git învechite ale pull requesturilor
+  ru: Очищает устаревшие ветки Git из pull request'ов
+  th: ล้างสาขา Git ที่ล้าสมัยของ pull request
+  tr: Pull request'lerin eskimiş Git dallarını temizler
+  uk: Очищає застарілі гілки Git із pull request'ів
+  vi: Dọn các nhánh Git cũ của pull request
 rule:
   /cargo:
     cmd: cargo install git-gone

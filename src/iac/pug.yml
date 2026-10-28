@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: 用于高级 Terraform 用户的 TUI 工具。
   en: A terminal user interface for terraform power users.
+  cs: Terminálové uživatelské rozhraní pro pokročilé uživatele Terraformu.
+  de: Eine Terminal-Benutzeroberfläche für erfahrene Terraform-Nutzer.
+  es: Una interfaz de usuario de terminal para usuarios avanzados de Terraform.
+  fr: Une interface utilisateur en terminal pour les experts de Terraform.
+  id: Antarmuka pengguna terminal untuk pengguna ahli Terraform.
+  it: Un'interfaccia utente da terminale per utenti esperti di Terraform.
+  ja: Terraform の上級者向けのターミナルユーザーインターフェース。
+  ko: Terraform 숙련자를 위한 터미널 사용자 인터페이스입니다.
+  pl: Terminalowy interfejs użytkownika dla zaawansowanych użytkowników Terraform.
+  pt: Uma interface de usuário de terminal para usuários avançados do Terraform.
+  ro: O interfață utilizator în terminal pentru utilizatori avansați de Terraform.
+  ru: Терминальный интерфейс для опытных пользователей Terraform.
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับผู้ใช้ Terraform ระดับสูง
+  tr: Terraform uzmanları için bir terminal kullanıcı arayüzü.
+  uk: Термінальний інтерфейс користувача для досвідчених користувачів Terraform.
+  vi: Giao diện người dùng trên terminal cho người dùng Terraform nâng cao.
 x:
   source: https://github.com/leg100/pug
   eget: leg100/pug

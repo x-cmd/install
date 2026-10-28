@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: mkcert 是一个用于制作本地信任的开发证书的简单工具
   en: mkcert is a simple tool for making locally-trusted development certificates
+  cs: mkcert je jednoduchý nástroj pro vytváření vývojových certifikátů důvěřovaných lokálně
+  de: mkcert ist ein einfaches Werkzeug zum Erstellen lokal vertrauenswürdiger Entwicklungszertifikate
+  es: mkcert es una herramienta sencilla para crear certificados de desarrollo de confianza local
+  fr: mkcert est un outil simple pour créer des certificats de développement approuvés localement
+  id: mkcert adalah alat sederhana untuk membuat sertifikat pengembangan yang dipercaya secara lokal
+  it: mkcert è un semplice strumento per creare certificati di sviluppo attendibili localmente
+  ja: mkcert はローカルで信頼される開発用証明書を作成するためのシンプルなツールです
+  ko: mkcert는 로컬에서 신뢰되는 개발 인증서를 만들기 위한 간단한 도구입니다
+  pl: mkcert to proste narzędzie do tworzenia lokalnie zaufanych certyfikatów deweloperskich
+  pt: mkcert é uma ferramenta simples para criar certificados de desenvolvimento confiáveis localmente
+  ro: mkcert este un instrument simplu pentru crearea de certificate de dezvoltare de încredere locală
+  ru: mkcert — простой инструмент для создания сертификатов разработки, доверенных локально
+  th: mkcert เป็นเครื่องมืออย่างง่ายในการสร้างใบรับรองการพัฒนาที่ได้รับความเชื่อถือในเครื่อง
+  tr: mkcert, yerel olarak güvenilir geliştirme sertifikaları oluşturmak için basit bir araçtır.
+  uk: mkcert — простий інструмент для створення сертифікатів розробки, яким довіряють локально
+  vi: mkcert là công cụ đơn giản để tạo chứng thư phát triển được tin cậy cục bộ
 x:
   source: https://github.com/FiloSottile/mkcert
   eget: FiloSottile/mkcert

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 管理版本控制和变更日志的工具，重点关注多包存储库
   en: A tool to manage versioning and changelogs with a focus on multi-package repositories
+  cs: Nástroj pro správu verzí a changelogů se zvláštním zřetelem na repozitáře s více balíčky
+  de: Ein Tool zur Verwaltung von Versionierung und Changelogs mit Fokus auf Repositories mit mehreren Paketen
+  es: Una herramienta para gestionar el versionado y los changelogs con foco en repositorios multipaquete
+  fr: Un outil de gestion des versions et des changelogs, axé sur les dépôts multipaquets
+  id: Alat untuk mengelola versi dan changelog dengan fokus pada repositori multi-paket
+  it: Uno strumento per gestire il versionamento e i changelog, con un focus sui repository multipacchetto
+  ja: マルチパッケージリポジトリに重点を置いた、バージョニングとチャangelog管理のツール
+  ko: 멀티 패키지 저장소에 초점을 맞춘 버전 관리 및 변경 로그 도구
+  pl: Narzędzie do zarządzania wersjonowaniem i changelogami, skoncentrowane na repozytoriach wielopakietowych
+  pt: Uma ferramenta para gerenciar versionamento e changelogs, com foco em repositórios multipacote
+  ro: Un instrument pentru gestionarea versiunilor și a jurnalelor de modificări, cu focus pe depozite cu mai multe pachete
+  ru: Инструмент для управления версионированием и журналами изменений, ориентированный на репозитории с несколькими пакетами
+  th: เครื่องมือจัดการเวอร์ชันและ changelog โดยเน้นที่ repository แบบหลายแพ็กเกจ
+  tr: Çok paketli depolara odaklanarak sürüm ve changelog yönetimi aracı
+  uk: Інструмент для керування версіями та журналами змін, орієнтований на репозиторії з кількома пакетами
+  vi: Công cụ quản lý phiên bản và changelog, tập trung vào các kho lưu trữ đa gói
 x:
   source: https://github.com/changesets/changesets
   npm: "@changesets/cli"

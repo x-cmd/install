@@ -3,6 +3,22 @@ homepage: https://www.office.com/
 desc:
   en: Microsoft Office is a Office automation of Microsoft's Windows-based operating system
   cn: Microsoft Office 是微软公司开发的一套基于 Windows 操作系统的办公软件套装
+  cs: Microsoft Office je sada kancelářských aplikací pro operační systém Windows od Microsoftu
+  de: Microsoft Office ist eine Bürosoftware-Suite für das Windows-Betriebssystem von Microsoft
+  es: Microsoft Office es un conjunto de aplicaciones de oficina para el sistema operativo Windows de Microsoft
+  fr: Microsoft Office est une suite bureautique pour le système d'exploitation Windows de Microsoft
+  id: Microsoft Office adalah rangkaian aplikasi perkantoran untuk sistem operasi Windows milik Microsoft
+  it: Microsoft Office è una suite di applicazioni per ufficio per il sistema operativo Windows di Microsoft
+  ja: Microsoft Office は Microsoft の Windows OS 向けのオフィスソフトウェアスイートです
+  ko: Microsoft Office는 Microsoft의 Windows 운영 체제용 오피스 소프트웨어 묶음입니다
+  pl: Microsoft Office to zestaw aplikacji biurowych dla systemu operacyjnego Windows firmy Microsoft
+  pt: O Microsoft Office é um conjunto de aplicativos de escritório para o sistema operacional Windows da Microsoft
+  ro: Microsoft Office este o suită de aplicații de birou pentru sistemul de operare Windows al Microsoft
+  ru: Microsoft Office — набор офисных приложений для операционной системы Windows от Microsoft
+  th: Microsoft Office คือชุดโปรแกรมสำนักงานสำหรับระบบปฏิบัติการ Windows ของ Microsoft
+  tr: Microsoft Office, Microsoft'un Windows işletim sistemi için bir ofis yazılımı paketidir
+  uk: Microsoft Office — набір офісних застосунків для операційної системи Windows від Microsoft
+  vi: Microsoft Office là bộ ứng dụng văn phòng cho hệ điều hành Windows của Microsoft
 rule:
   (win|wsl2)/scoop:
     cmd: x scoop bucket add extras && x scoop install extras/wpsoffice

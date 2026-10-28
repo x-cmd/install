@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Claude API 的 CLI
   en: The CLI for the Claude API
+  cs: CLI pro Claude API
+  de: Die CLI für die Claude API
+  es: La CLI para la API de Claude
+  fr: La CLI pour l'API Claude
+  id: CLI untuk Claude API
+  it: La CLI per l'API Claude
+  ja: Claude API の CLI
+  ko: Claude API용 CLI
+  pl: CLI dla Claude API
+  pt: A CLI para a API da Claude
+  ro: CLI pentru API-ul Claude
+  ru: CLI для Claude API
+  th: CLI สำหรับ Claude API
+  tr: Claude API için CLI
+  uk: CLI для Claude API
+  vi: CLI cho Claude API
 x:
   source: https://github.com/anthropics/anthropic-cli
   eget: anthropics/anthropic-cli

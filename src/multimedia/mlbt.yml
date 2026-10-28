@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: MLB Stats API 的终端界面,查看比分、战绩和数据,甚至能在终端看棒球比赛
   en: 'A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾'
+  cs: Terminálové uživatelské rozhraní pro MLB Stats API. Sledujte skóre, tabulky a statistiky. Dokonce můžete sledovat baseballový zápas přímo v terminálu! ⚾
+  de: Eine Terminal-Benutzeroberfläche für die MLB Stats API. Prüfen Sie Ergebnisse, Tabellen und Statistiken. Schauen Sie sich sogar ein Baseballspiel in Ihrem Terminal an! ⚾
+  es: Una interfaz de usuario de terminal para la API de estadísticas de MLB. Consulta marcadores, clasificaciones y estadísticas. ¡Incluso puedes ver un partido de béisbol en tu terminal! ⚾
+  fr: Une interface utilisateur en terminal pour l'API MLB Stats. Consultez les scores, les classements et les statistiques. Regardez même un match de baseball dans votre terminal ! ⚾
+  id: Antarmuka pengguna terminal untuk MLB Stats API. Lihat skor, peringkat, dan statistik. Bahkan saksikan pertandingan baseball di terminal Anda! ⚾
+  it: Un'interfaccia utente da terminale per la MLB Stats API. Controlla punteggi, classifiche e statistiche. Guarda persino una partita di baseball nel terminale! ⚾
+  ja: MLB Stats API のターミナルユーザーインターフェース。スコア、順位、統計を確認できます。ターミナルでベースボール試合を観戦することもできます! ⚾
+  ko: MLB Stats API를 위한 터미널 사용자 인터페이스입니다. 점수, 순위, 통계를 확인하세요. 터미널에서 야구 경기를 볼 수도 있습니다! ⚾
+  pl: Terminalowy interfejs użytkownika dla MLB Stats API. Sprawdzaj wyniki, tabele i statystyki. Obejrzyj nawet mecz baseballu w terminalu! ⚾
+  pt: Uma interface de usuário de terminal para a MLB Stats API. Confira placares, classificações e estatísticas. Até assista a um jogo de beisebol no seu terminal! ⚾
+  ro: O interfață de utilizator pentru terminal a MLB Stats API. Verifică scorurile, clasamentele și statisticile. Chiar poți urmări un meci de baseball în terminal! ⚾
+  ru: Терминальный пользовательский интерфейс для MLB Stats API. Смотрите счёт, таблицы и статистику. Даже смотрите бейсбольный матч прямо в терминале! ⚾
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ MLB Stats API ดูคะแนน อันดับ และสถิติ แม้กระทั่งดูเกมเบสบอลในเทอร์มินัลของคุณ! ⚾
+  tr: MLB Stats API için terminal kullanıcı arayüzü. Skorları, sıralamaları ve istatistikleri kontrol edin. Hatta terminalinizde bir beyebol maçı izleyin! ⚾
+  uk: Термінальний користувацький інтерфейс для MLB Stats API. Переглядайте рахунок, таблиці та статистику. Навіть дивіться бейсбольний матч у терміналі! ⚾
+  vi: Giao diện người dùng trên terminal cho MLB Stats API. Xem tỷ số, bảng xếp hạng và thống kê. Thậm chí xem một trận bóng chày ngay trên terminal của bạn! ⚾
 x:
   source: https://github.com/mlb-rs/mlbt
   eget: mlb-rs/mlbt

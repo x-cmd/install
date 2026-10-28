@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: macOS 清理 TUI，扫描缓存与日志、显示大小与路径，可在移入废纸篓前选择性删除
   en: 'TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.'
+  cs: TUI čistič pro macOS, který prohledává cache a logy, zobrazuje velikosti a cesty a umožňuje před přesunem do Koše vybrat, co smazat.
+  de: macOS-Bereinigungs-TUI, die Caches/Protokolle durchsucht, Größen/Pfade anzeigt und auswählen lässt, was vor dem Papierkorb gelöscht werden soll.
+  es: TUI limpiador de macOS que analiza cachés/registros, muestra tamaños/rutas y permite seleccionar qué borrar antes de mover a la Papelera.
+  fr: TUI de nettoyage pour macOS qui analyse les caches/journal, affiche les tailles/chemins et permet de choisir quoi supprimer avant la corbeille.
+  id: Pembersih TUI macOS yang memindai cache/log, menampilkan ukuran/jalur, dan memungkinkan Anda memilih apa yang akan dihapus sebelum masuk ke Sampah.
+  it: TUI di pulizia per macOS che analizza cache/log, mostra dimensioni/percorso e lascia scegliere cosa eliminare prima del Cestino.
+  ja: キャッシュとログをスキャンしてサイズとパスを表示し、ゴミ箱に入れる前に削除対象を選択できる macOS 用クリーンアップ TUI。
+  ko: 캐시와 로그를 스캔하고 크기와 경로를 표시하며, 휴지통으로 옮기기 전에 삭제할 항목을 선택할 수 있는 macOS용 정리 TUI.
+  pl: TUI do czyszczenia macOS, który skanuje pamięć podręczną i logi, pokazuje rozmiary oraz ścieżki i pozwala wybrać elementy do usunięcia przed przeniesieniem do Kosza.
+  pt: TUI de limpeza do macOS que verifica caches/registros, mostra tamanhos/caminhos e permite selecionar o que excluir antes da Lixeira.
+  ro: TUI de curățare pentru macOS care scanează cache/jurnalele, afișează dimensiuni/drumuri și vă permite să alegeți ce să ștergeți înainte de Coș.
+  ru: TUI-очиститель для macOS, который сканирует кэш и журналы, показывает размеры и пути и позволяет выбрать, что удалить перед перемещением в Корзину.
+  th: TUI ตัวทำความสะอาด macOS ที่สแกนแคช/บันทึก แสดงขนาด/เส้นทาง และให้เลือกสิ่งที่จะลบก่อนส่งถังขยะ
+  tr: Önbellekleri/günlükleri tarayan, boyutları/yolları gösteren ve Çöp'e atmadan önce neyin silineceğini seçmenizi sağlayan macOS temizleme TUI'si.
+  uk: TUI-очисник для macOS, який сканує кеш і журнали, показує розміри та шляхи й дозволяє вибрати, що видалити перед переміщенням у Кошик.
+  vi: TUI dọn dẹp macOS quét bộ nhớ đệm/nhật ký, hiển thị kích thước/đường dẫn và cho phép bạn chọn nội dung cần xóa trước khi chuyển vào Thùng rác.
 x:
   source: https://github.com/2ykwang/mac-cleanup-go
   eget: 2ykwang/mac-cleanup-go

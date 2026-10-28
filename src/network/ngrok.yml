@@ -3,6 +3,22 @@ homepage: https://github.com/ngrok/ngrok
 desc:
   cn: ngrok 是一种全球分布式反向代理，无论您在何处运行应用程序和网络服务，都可以保护和加速您的应用程序和网络服务。
   en: ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them.
+  cs: ngrok je globálně distribuovaný reverzní proxy, který zabezpečuje, chrání a zrychluje vaše aplikace a síťové služby bez ohledu na to, kde je spouštíte.
+  de: ngrok ist ein global verteilter Reverse Proxy, der Ihre Anwendungen und Netzwerkdienste absichert, schützt und beschleunigt, egal wo Sie sie ausführen.
+  es: ngrok es un proxy inverso distribuido globalmente que asegura, protege y acelera sus aplicaciones y servicios de red, sin importar dónde los ejecute.
+  fr: ngrok est un proxy inverse distribué mondialement qui sécurise, protège et accélère vos applications et vos services réseau, où que vous les exécutiez.
+  id: ngrok adalah reverse proxy terdistribusi global yang securing, melindungi, dan mempercepat aplikasi serta layanan jaringan Anda, di mana pun Anda menjalankannya.
+  it: ngrok è un reverse proxy distribuito globalmente che protegge, mette in sicurezza e accelera le tue applicazioni e i tuoi servizi di rete, ovunque li esegua.
+  ja: ngrok はグローバルに分散されたリバースプロキシで、アプリケーションとネットワークサービスをどこに実行しても保護・暗号化し高速化します。
+  ko: ngrok은 어디서 실행하든 애플리케이션과 네트워크 서비스를 보호하고 가속하는 전 세계 분산 역방향 프록시입니다.
+  pl: ngrok to globalnie rozproszony odwrotny proxy, który zabezpiecza, chroni i przyspiesza Twoje aplikacje i usługi sieciowe, gdziekolwiek je uruchamiasz.
+  pt: O ngrok é um proxy reverso distribuído globalmente que protege, mantém seguro e acelera seus aplicativos e serviços de rede, onde quer que você os execute.
+  ro: ngrok este un proxy invers distribuit global care securizează, protejează și accelerează aplicațiile și serviciile tale de rețea, oriunde le-ai rula.
+  ru: ngrok — глобально распределённый обратный прокси, который защищает, обезопашивает и ускоряет ваши приложения и сетевые сервисы, где бы вы их ни запускали.
+  th: ngrok เป็น reverse proxy ที่กระจายทั่วโลก ซึ่งรักษาความปลอดภัย ปกป้อง และเร่งความเร็วแอปพลิเคชันและบริการเครือข่ายของคุณ ไม่ว่าคุณจะรันที่ไหน
+  tr: ngrok, uygulamalarınızı ve ağ hizmetlerinizi nerede çalıştırırsanız çalıştırın, güvenliğini sağlayan, koruyan ve hızlandıran küresel olarak dağıtılmış bir ters vekil sunucusudur.
+  uk: ngrok — глобально розподілений зворотний проксі, який захищає, обезпечує безпеку та прискорює ваші застосунки й мережеві сервіси, де б ви їх не запускали.
+  vi: ngrok là reverse proxy phân tán toàn cầu giúp bảo mật, bảo vệ và tăng tốc các ứng dụng và dịch vụ mạng của bạn, dù bạn chạy ở bất cứ đâu.
 x:
   source: https://github.com/ngrok/ngrok
   apt: ngrok

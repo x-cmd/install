@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 一个非常快的 Python linter 和代码格式化程序
   en: A very fast Python linter and code formatter
+  cs: Velmi rychlý Python linter a formátovač kódu
+  de: Ein sehr schneller Python-Linter und Codeformatter
+  es: Un linter y formateador de código Python muy rápido
+  fr: Un linter et formateur de code Python très rapide
+  id: Linter dan pemformat kode Python yang sangat cepat
+  it: Un linter e formattatore di codice Python molto veloce
+  ja: 非常に高速な Python linter 兼コードフォーマッタ
+  ko: 매우 빠른 Python linter이자 코드 포매터
+  pl: Bardzo szybki linter i formater kodu Python
+  pt: Um linter e formatador de código Python muito rápido
+  ro: Un linter și formatator de cod Python foarte rapid
+  ru: Очень быстрый линтер и форматтер кода Python
+  th: ตัว lint และจัดรูปแบบโค้ด Python ที่เร็วมาก
+  tr: Çok hızlı bir Python linter ve kod biçimlendiricisi
+  uk: Дуже швидкий лінтер і форматтер коду Python
+  vi: Trình lint và định dạng mã Python rất nhanh
 homepage: https://github.com/astral-sh/ruff
 license: MIT
 x:

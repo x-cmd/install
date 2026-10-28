@@ -3,6 +3,22 @@ homepage: https://store.steampowered.com/
 desc:
   en: Steam is Valve's digital distribution platform for video games
   cn: Steam 是 Valve 公司在推出的电子游戏数字发行平台
+  cs: Steam je digitální distribuční platforma Valve pro videohry
+  de: Steam ist die digitale Distributionsplattform von Valve für Videospiele
+  es: Steam es la plataforma de distribución digital de Valve para videojuegos
+  fr: Steam est la plateforme de distribution numérique de Valve pour les jeux vidéo
+  id: Steam adalah platform distribusi digital Valve untuk gim video
+  it: Steam è la piattaforma di distribuzione digitale di Valve per i videogiochi
+  ja: Steam は Valve が提供するデジタルゲーム配信プラットフォームです
+  ko: Steam은 Valve의 비디오 게임 디지털 배포 플랫폼입니다
+  pl: Steam to cyfrowa platforma dystrybucji gier wideo firmy Valve
+  pt: O Steam é a plataforma de distribuição digital de jogos da Valve
+  ro: Steam este platforma de distribuție digitală pentru jocuri video a celor de la Valve
+  ru: Steam — цифровая платформа распространения видеоигр от Valve
+  th: Steam คือแพลตฟอร์มการจัดจำหน่ายดิจิทัลเกมของ Valve
+  tr: Steam, Valve tarafından video oyunları için sunulan dijital dağıtım platformudur
+  uk: Steam — цифрова платформа розповсюдження відеоігор від Valve
+  vi: Steam là nền tảng phân phối kỹ thuật số trò chơi điện tử của Valve
 rule:
   /flatpak:
     cmd: flatpak install flathub com.valvesoftware.Steam

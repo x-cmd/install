@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GitHub 样式拆分（并排）差异，并在终端中突出显示语法。
   en: GitHub style split (side by side) diffs with syntax highlighting in your terminal.
+  cs: Rozdělené (vedle sebe) diffy ve stylu GitHubu se zvýrazněním syntaxe ve vašem terminálu.
+  de: Aufgeteilte (nebeneinanderstehende) Diffs im GitHub-Stil mit Syntaxhervorhebung in Ihrem Terminal.
+  es: Diffs divididos (en paralelo) al estilo de GitHub con resaltado de sintaxis en tu terminal.
+  fr: Diffs divisés (côte à côte) à la manière de GitHub avec coloration syntaxique dans votre terminal.
+  id: Diff terbelah (berdampingan) bergaya GitHub dengan penyorotan sintaks di terminal Anda
+  it: Diff divise (affiancati) in stile GitHub con evidenziazione della sintassi nel terminale
+  ja: ターミナルでシンタックスハイライト付きの GitHub 風スプリット（横並び）diff を表示する。
+  ko: 터미널에서 구문 강조가 적용된 GitHub 스타일 분할(나란히) diff를 제공합니다
+  pl: Podzielone (obok siebie) diffy w stylu GitHub z podświetlaniem składni w terminalu
+  pt: Diffs divididos (lado a lado) no estilo GitHub com realce de sintaxe no seu terminal
+  ro: Diff-uri împărțite (alături) în stil GitHub, cu evidențierea sintaxei în terminalul tău
+  ru: Разделённые (рядом) diff-ы в стиле GitHub с подсветкой синтаксиса в терминале.
+  th: Diff แบบแยกส่วน (วางเคียงกัน) ตามสไตล์ GitHub พร้อมไฮไลต์ไวยากรณ์ในเทอร์มินัลของคุณ
+  tr: Terminalinizde sözdizimi vurgulamalı, GitHub tarzı bölünmüş (yan yana) diff'ler sunar
+  uk: Розділені (поруч) diff-и у стилі GitHub із підсвічуванням синтаксису у вашому терміналі.
+  vi: Diff tách (cạnh nhau) theo phong cách GitHub với tô sáng cú pháp trong terminal của bạn.
 x:
   source: https://github.com/banga/git-split-diffs
   yay: nodejs-git-split-diffs

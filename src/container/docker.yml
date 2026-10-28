@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 将任何应用程序打包、运输并作为轻量级容器运行
   en: Pack, ship and run any application as a lightweight container
+  cs: Zabaltejte, doručte a spusťte jakoukoli aplikaci jako lehký kontejner
+  de: Verpacken, verteilen und ausführen beliebiger Anwendungen als schlanken Container
+  es: Empaqueta, distribuye y ejecuta cualquier aplicación como un contenedor ligero
+  fr: Empaquetez, distribuez et exécutez n'importe quelle application en conteneur léger
+  id: Kemas, kirim, dan jalankan aplikasi apa pun sebagai kontainer ringan
+  it: Impacchetta, distribuisci ed esegui qualsiasi applicazione come container leggero
+  ja: あらゆるアプリケーションを軽量なコンテナとしてパッケージし、配送して実行
+  ko: 모든 애플리케이션을 가벼운 컨테이너로 패키징하고 배포하여 실행
+  pl: Pakuj, dystrybuuj i uruchamiaj dowolną aplikację jako lekki kontener
+  pt: Empacote, distribua e execute qualquer aplicativo como um contêiner leve
+  ro: Ambalează, distribuie și rulează orice aplicație ca un container ușor
+  ru: Упаковывайте, доставляйте и запускайте любое приложение как лёгкий контейнер
+  th: แพ็ก ส่ง และรันแอปพลิเคชันใด ๆ เป็นคอนเทนเนอร์แบบเบา
+  tr: Herhangi bir uygulamayı hafif bir konteyner olarak paketleyin, dağıtın ve çalıştırın
+  uk: Пакуйте, доставляйте та запускайте будь-який застосунок як легкий контейнер
+  vi: Đóng gói, phân phối và chạy mọi ứng dụng dưới dạng container nhẹ
 x:
   source: https://github.com/moby/moby
   apt: docker-ce

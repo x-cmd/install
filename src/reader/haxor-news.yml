@@ -3,6 +3,22 @@ homepage: https://github.com/donnemartin/haxor-news
 desc:
   cn: 在命令行查看和过滤 Hacker News 的帖子、评论和链接的 Web 内容
   en: 'View and filter Hacker News from the command line: Posts, comments, and linked web content.'
+  cs: "Prohlížejte a filtrovat Hacker News z příkazové řádky: příspěvky, komentáře a propojený webový obsah."
+  de: "Hacker News über die Kommandozeile ansehen und filtern: Beiträge, Kommentare und verlinkte Webinhalte."
+  es: "Ver y filtrar Hacker News desde la línea de comandos: publicaciones, comentarios y contenido web enlazado."
+  fr: "Consulter et filtrer Hacker News depuis la ligne de commande : publications, commentaires et contenu web lié."
+  id: "Lihat dan filter Hacker News dari baris perintah: kiriman, komentar, dan konten web tertaut."
+  it: "Visualizza e filtra Hacker News da riga di comando: post, commenti e contenuti web collegati."
+  ja: "コマンドラインから Hacker News を閲覧・絞り込みできます: 投稿、コメント、リンクされたウェブコンテンツ。"
+  ko: "명령줄에서 Hacker News를 보고 필터링합니다: 게시물, 댓글, 링크된 웹 콘텐츠."
+  pl: "Przeglądaj i filtruj Hacker News z wiersza poleceń: wpisy, komentarze i powiązane treści internetowe."
+  pt: "Veja e filtre o Hacker News pela linha de comando: posts, comentários e conteúdo web vinculado."
+  ro: "Vizionați și filtrați Hacker News din linia de comandă: articole, comentarii și conținut web legat."
+  ru: "Просматривайте и фильтруйте Hacker News из командной строки: посты, комментарии и связанный веб-контент."
+  th: "ดูและกรอง Hacker News จากบรรทัดคำสั่ง: โพสต์ ความคิดเห็น และเนื้อหาเว็บที่เชื่อมโยง"
+  tr: "Hacker News'i komut satırından görüntüleyin ve filtreleyin: gönderiler, yorumlar ve bağlantılı web içeriği."
+  uk: "Переглядайте та фільтруйте Hacker News із командного рядка: дописи, коментарі та пов'язаний веб-контент."
+  vi: "Xem và lọc Hacker News từ dòng lệnh: bài viết, bình luận và nội dung web được liên kết."
 x:
   source: https://github.com/donnemartin/haxor-news
   yay: haxor-news

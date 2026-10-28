@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 按计划运行自主 Agent，执行研究、线索生成、社交媒体管理等持续性任务
   en: Run autonomous agents on schedules to perform continuous tasks like research, lead generation, and social media management.
+  cs: Spouští autonomní agenty podle plánu a provádí průběžné úlohy, jako je výzkum, generování leadů či správa sociálních sítí.
+  de: Führt autonome Agenten nach Zeitplan aus, um kontinuierliche Aufgaben wie Recherche, Lead-Generierung und Social-Media-Management zu erledigen.
+  es: Ejecuta agentes autónomos según horarios para realizar tareas continuas como investigación, generación de clientes potenciales y gestión de redes sociales.
+  fr: Exécute des agents autonomes selon des plannings pour effectuer des tâches continues comme la recherche, la génération de prospects et la gestion des réseaux sociaux.
+  id: Menjalankan agen otonom sesuai jadwal untuk melakukan tugas berkelanjutan seperti riset, pembuatan prospek, dan pengelolaan media sosial.
+  it: Esegue agenti autonomi secondo pianificazioni per svolgere attività continue come ricerca, generazione di lead e gestione dei social media.
+  ja: スケジュールに従って自律エージェントを実行し、リサーチ、リード生成、ソーシャルメディア管理などの継続的なタスクを処理します。
+  ko: 일정에 따라 자율 에이전트를 실행하여 리서치, 리드 생성, 소셜 미디어 관리 등 지속적인 작업을 수행합니다.
+  pl: Uruchamia autonomicznych agentów według harmonogramu, wykonując ciągłe zadania, takie jak badania, generowanie leadów i zarządzanie mediami społecznościowymi.
+  pt: Executa agentes autônomos em intervalos programados para realizar tarefas contínuas como pesquisa, geração de leads e gestão de mídias sociais.
+  ro: Rulează agenți autonomi conform unor programe, efectuând sarcini continue precum cercetarea, generarea de clienți potențiali și gestionarea rețelelor sociale.
+  ru: Запускает автономных агентов по расписанию для выполнения постоянных задач, таких как исследование, поиск лидов и управление социальными сетями.
+  th: เรียกใช้เอเจนต์อัตโนมัติตามกำหนดการเพื่อทำงานต่อเนื่อง เช่น การวิจัย การสร้างลูกค้า และการจัดการโซเชียลมีเดีย.
+  tr: Araştırma, potansiyel müşteri üretimi ve sosyal medya yönetimi gibi sürekli görevleri yerine getirmek için planlı şekilde otonom ajanlar çalıştırır.
+  uk: Запускає автономних агентів за розкладом для виконання постійних завдань, таких як дослідження, генерація лідів та керування соціальними мережами.
+  vi: Chạy các tác nhân tự trị theo lịch để thực hiện các tác vụ liên tục như nghiên cứu, tạo khách hàng tiềm năng và quản lý mạng xã hội.
 x:
   source: https://github.com/RightNow-AI/openfang
   eget: RightNow-AI/openfang

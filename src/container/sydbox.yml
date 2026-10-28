@@ -3,6 +3,22 @@ homepage: https://gitlab.exherbo.org/sydbox/sydbox
 desc:
   cn: Rock-solid 应用沙箱内核，为 Linux 应用提供强隔离。
   en: Rock-solid application kernel to sandbox applications on Linux>=5.19.
+  cs: Solidní aplikační jádro pro sandboxing aplikací na Linuxu>=5.19.
+  de: Ein robustes Anwendungskernel, um Anwendungen unter Linux>=5.19 zu sandboxen.
+  es: Un kernel de aplicaciones sólido para aislar aplicaciones en Linux>=5.19.
+  fr: Un noyau d'application robuste pour mettre les applications en bac à sable sous Linux>=5.19.
+  id: Kernel aplikasi yang solid untuk sandboxing aplikasi di Linux>=5.19.
+  it: Un kernel applicativo solido per mettere in sandbox le applicazioni su Linux>=5.19.
+  ja: Linux>=5.19 上でアプリケーションをサンドボックス化する堅牢なアプリケーションカーネル。
+  ko: Linux>=5.19에서 애플리케이션을 샌드박싱하는 견고한 애플리케이션 커널.
+  pl: Solidne jądro aplikacji do sandboxowania aplikacji na Linux>=5.19.
+  pt: Um kernel de aplicativo sólido para colocar aplicativos em sandbox no Linux>=5.19.
+  ro: Un kernel de aplicație solid pentru izolarea aplicațiilor pe Linux>=5.19.
+  ru: Надёжное ядро приложений для песочницы приложений в Linux>=5.19.
+  th: เคอร์เนลแอปพลิเคชันที่แข็งแรงสำหรับแซนด์บ็อกซ์แอปพลิเคชันบน Linux>=5.19
+  tr: Linux>=5.19 üzerinde uygulamaları sandboxlamak için sağlam bir uygulama çekirdeği.
+  uk: Надійне ядро застосунків для пісочниці застосунків у Linux>=5.19.
+  vi: Kernel ứng dụng chắc chắn để sandbox các ứng dụng trên Linux>=5.19.
 x:
   cargo: sydbox
 rule:

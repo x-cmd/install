@@ -3,6 +3,22 @@ homepage: https://github.com/isd-project/isd
 desc:
   cn: isd (interactive systemd) — 更好地操作 systemd 单元
   en: isd (interactive systemd) – a better way to work with systemd units
+  cs: isd (interactive systemd) – lepší způsob práce s jednotkami systemd
+  de: isd (interactive systemd) – ein besserer Weg, mit systemd-Units zu arbeiten
+  es: "isd (interactive systemd): una mejor forma de trabajar con unidades de systemd"
+  fr: isd (interactive systemd) – une meilleure façon de gérer les unités systemd
+  id: isd (interactive systemd) – cara yang lebih baik untuk bekerja dengan unit systemd
+  it: isd (interactive systemd) – un modo migliore di lavorare con le unit systemd
+  ja: isd (interactive systemd) – systemd ユニットを扱うより良い方法
+  ko: isd (interactive systemd) - systemd 단위를 다루는 더 나은 방법
+  pl: isd (interactive systemd) – lepszy sposób pracy z jednostkami systemd
+  pt: isd (interactive systemd) – uma forma melhor de trabalhar com unidades systemd
+  ro: isd (interactive systemd) – o modalitate mai bună de a lucra cu unități systemd
+  ru: isd (interactive systemd) – удобный способ работы с юнитами systemd
+  th: isd (interactive systemd) – วิธีที่ดีกว่าในการทำงานกับ systemd unit
+  tr: isd (interactive systemd) – systemd birimleriyle çalışmanın daha iyi bir yolu
+  uk: isd (interactive systemd) – кращий спосіб роботи з юнітами systemd
+  vi: isd (interactive systemd) – cách tốt hơn để làm việc với các unit systemd
 x:
   source: https://github.com/isd-project/isd
   eget: isd-project/isd

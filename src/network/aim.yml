@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个带有恢复功能的命令行下载/上传工具。
   en: A command line download/upload tool with resume.
+  cs: Nástroj pro stahování a nahrávání z příkazové řádky s podporou pokračování.
+  de: Ein Kommandozeilen-Download-/Upload-Tool mit Fortsetzung.
+  es: Una herramienta de descarga/subida desde la línea de comandos con reanudación.
+  fr: Un outil de téléchargement/téléversement en ligne de commande avec reprise.
+  id: Alat unduh/unggah baris perintah dengan kemampuan melanjutkan.
+  it: Uno strumento da riga di comando per download/upload con ripresa.
+  ja: レジュームに対応したコマンドラインのダウンロード/アップロードツール。
+  ko: 이어받기 기능이 있는 명령줄 다운로드/업로드 도구.
+  pl: Narzędzie wiersza poleceń do pobierania/wysyłania z obsługą wznawiania.
+  pt: Uma ferramenta de download/upload de linha de comando com retomada.
+  ro: Un instrument de descărcare/încărcare din linia de comandă cu reluare.
+  ru: Консольный инструмент для загрузки/выгрузки файлов с возможностью докачки.
+  th: เครื่องมือดาวน์โหลด/อัปโหลดจากบรรทัดคำสั่งที่รองรับการดาวน์โหลดต่อ
+  tr: Devam ettirme destekli komut satırı indirme/yükleme aracı.
+  uk: Консольний інструмент для завантаження/вивантаження файлів із можливістю докачування.
+  vi: Công cụ tải xuống/tải lên từ dòng lệnh có hỗ trợ tiếp tục.
 x:
   source: https://github.com/mihaigalos/aim
   eget: mihaigalos/aim

@@ -3,6 +3,22 @@ homepage: https://gitlab.com/libeigen/eigen
 desc:
   en: 'Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms'
   cn: eigen 特征是线性代数的 C ++模板库：矩阵，向量，数值求解器和相关算法
+  cs: "Eigen je knihovna šablon C++ pro lineární algebru: matice, vektory, numerické řešiče a související algoritmy"
+  de: "Eigen ist eine C++-Template-Bibliothek für lineare Algebra: Matrizen, Vektoren, numerische Löser und verwandte Algorithmen"
+  es: "Eigen es una biblioteca de plantillas C++ para álgebra lineal: matrices, vectores, solucionadores numéricos y algoritmos relacionados"
+  fr: "Eigen est une bibliothèque de templates C++ pour l'algèbre linéaire : matrices, vecteurs, solveurs numériques et algorithmes associés"
+  id: "Eigen adalah pustaka templat C++ untuk aljabar linear: matriks, vektor, pemecah numerik, dan algoritma terkait"
+  it: "Eigen è una libreria di template C++ per l'algebra lineare: matrici, vettori, risolutori numerici e algoritmi correlati"
+  ja: "Eigen は線形代数のための C++ テンプレートライブラリです: 行列、ベクトル、数値ソルバー、および関連アルゴリズム"
+  ko: Eigen은 선형 대수를 위한 C++ 템플릿 라이브러리로, 행렬, 벡터, 수치 솔버 및 관련 알고리즘을 제공합니다
+  pl: "Eigen to biblioteka szablonów C++ do algebry liniowej: macierze, wektory, solvery numeryczne i powiązane algorytmy"
+  pt: "Eigen é uma biblioteca de templates C++ para álgebra linear: matrizes, vetores, solucionadores numéricos e algoritmos relacionados"
+  ro: "Eigen este o bibliotecă de șabloane C++ pentru algebră liniară: matrice, vectori, solvere numerice și algoritmi conexi"
+  ru: "Eigen — это библиотека шаблонов на C++ для линейной алгебры: матрицы, векторы, численные решатели и сопутствующие алгоритмы"
+  th: "Eigen คือไลบรารีเทมเพลต C++ สำหรับพีชคณิตเชิงเส้น: เมทริกซ์ เวกเตอร์ ตัวแก้สมการเชิงตัวเลข และอัลกอริทึมที่เกี่ยวข้อง"
+  tr: "Eigen, lineer cebir için bir C++ şablon kitaplığıdır: matrisler, vektörler, sayısal çözücüler ve ilgili algoritmalar"
+  uk: "Eigen — це бібліотека шаблонів на C++ для лінійної алгебри: матриці, вектори, чисельні розв'язувачі та супутні алгоритми"
+  vi: "Eigen là thư viện template C++ cho đại số tuyến tính: ma trận, vectơ, bộ giải số và các thuật toán liên quan"
 rule:
   darwin/brew:
     cmd: brew install eigen

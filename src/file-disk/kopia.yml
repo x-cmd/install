@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 适用于 Windows、macOS 和 Linux 的跨平台备份工具，具有快速增量备份、客户端端到端加密、压缩和重复数据删除功能
   en: Cross-platform backup tool for Windows, macOS, and Linux with fast incremental backups, client-side end-to-end encryption, compression, and deduplication
+  cs: Platformově nezávislý nástroj pro zálohování pro Windows, macOS a Linux s rychlými přírůstkovými zálohami, šifrováním end-to-end na klientovi, kompresí a deduplikací
+  de: Plattformübergreifendes Backup-Werkzeug für Windows, macOS und Linux mit schnellen inkrementellen Backups, clientseitiger Ende-zu-Ende-Verschlüsselung, Komprimierung und Deduplizierung
+  es: Herramienta de copia de seguridad multiplataforma para Windows, macOS y Linux con copias incrementales rápidas, cifrado de extremo a extremo en el cliente, compresión y deduplicación
+  fr: Outil de sauvegarde multiplateforme pour Windows, macOS et Linux, avec sauvegardes incrémentales rapides, chiffrement de bout en bout côté client, compression et déduplication
+  id: Alat cadangan lintas platform untuk Windows, macOS, dan Linux dengan cadangan inkremental cepat, enkripsi ujung-ke-ujung sisi klien, kompresi, dan deduplikasi
+  it: Strumento di backup multipiattaforma per Windows, macOS e Linux con backup incrementali rapidi, crittografia end-to-end lato client, compressione e deduplicazione
+  ja: Windows、macOS、Linux 向けのクロスプラットフォームのバックアップツールで、迅速な差分バックアップ、クライアント側のエンドツーエンド暗号化、圧縮、重複排除に対応しています
+  ko: Windows, macOS, Linux를 위한 크로스 플랫폼 백업 도구로, 빠른 증분 백업, 클라이언트 측 종단 간 암호화, 압축, 중복 제거를 지원합니다
+  pl: Wieloplatformowe narzędzie do tworzenia kopii zapasowych dla Windows, macOS i Linux, z szybkimi kopiami przyrostowymi, szyfrowaniem end-to-end po stronie klienta, kompresją i deduplikacją
+  pt: Ferramenta de backup multiplataforma para Windows, macOS e Linux com backups incrementais rápidos, criptografia ponta a ponta no cliente, compressão e deduplicação
+  ro: Instrument de backup multiplă platformă pentru Windows, macOS și Linux, cu copii incrementale rapide, criptare end-to-end pe partea clientului, compresie și deduplicare
+  ru: Кроссплатформенный инструмент резервного копирования для Windows, macOS и Linux с быстрыми инкрементальными бэкапами, сквозным шифрованием на стороне клиента, сжатием и дедупликацией
+  th: เครื่องมือสำรองข้อมูลข้ามแพลตฟอร์มสำหรับ Windows, macOS และ Linux พร้อมการสำรองแบบส่วนเพิ่มที่รวดเร็ว การเข้ารหัสแบบปลายทางถึงปลายทางฝั่งไคลเอนต์ การบีบอัด และการลบข้อมูลซ้ำ
+  tr: Windows, macOS ve Linux için hızlı artımlı yedeklemeler, istemci tarafında uçtan uca şifreleme, sıkıştırma ve tekilleştirme özelliklerine sahip platformlar arası yedekleme aracı
+  uk: Кроссплатформний інструмент резервного копіювання для Windows, macOS і Linux зі швидкими інкрементальними бекапами, наскрізним шифруванням на боці клієнта, стисканням і дедуплікацією
+  vi: Công cụ sao lưu đa nền tảng cho Windows, macOS và Linux với sao lưu gia tăng nhanh, mã hóa đầu cuối phía máy khách, nén và khử trùng lặp
 x:
   source: https://github.com/kopia/kopia
   eget: kopia/kopia

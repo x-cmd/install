@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/libbsd/libbsd
 desc:
   en: Utility functions from BSD systems
   cn: 来自 BSD 系统的实用程序函数
+  cs: Užitečné funkce ze systémů BSD
+  de: Hilfsfunktionen aus BSD-Systemen
+  es: Funciones de utilidad de los sistemas BSD
+  fr: Fonctions utilitaires issues des systèmes BSD
+  id: Fungsi utilitas dari sistem BSD
+  it: Funzioni di utilità dai sistemi BSD
+  ja: BSD システム由来のユーティリティ関数
+  ko: BSD 시스템의 유틸리티 함수
+  pl: Funkcje narzędziowe z systemów BSD
+  pt: Funções utilitárias dos sistemas BSD
+  ro: Funcții utilitare din sistemele BSD
+  ru: Вспомогательные функции из систем BSD
+  th: ฟังก์ชันอรรถประโยชน์จากระบบ BSD
+  tr: BSD sistemlerinden yardımcı işlevler
+  uk: Допоміжні функції з систем BSD
+  vi: Các hàm tiện ích từ hệ thống BSD
 rule:
   arch/yay:
     cmd: yay -S libbsd-git

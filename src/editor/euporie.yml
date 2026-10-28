@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的 Jupyter 笔记本
   en: 'Jupyter notebooks in the terminal'
+  cs: Notebooky Jupyter v terminálu
+  de: Jupyter-Notebooks im Terminal
+  es: Cuadernos Jupyter en la terminal
+  fr: Carnets Jupyter dans le terminal
+  id: Notebook Jupyter di terminal
+  it: Notebook Jupyter nel terminale
+  ja: ターミナルで動くJupyterノートブック
+  ko: 터미널에서 사용하는 Jupyter 노트북
+  pl: Notatniki Jupyter w terminalu
+  pt: Notebooks Jupyter no terminal
+  ro: Notebook-uri Jupyter în terminal
+  ru: Ноутбуки Jupyter в терминале
+  th: สมุดจดบันทึก Jupyter ในเทอร์มินัล
+  tr: Terminalde çalışan Jupyter defterleri
+  uk: Блокноти Jupyter у терміналі
+  vi: Notebook Jupyter trong terminal
 x:
   source: https://github.com/joouha/euporie
   eget: joouha/euporie

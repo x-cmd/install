@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 支持 cjk/emoji 的高性能 csv 查看器
   en: A high performance csv viewer with cjk/emoji support
+  cs: Vysoce výkonný prohlížeč CSV s podporou cjk/emoji
+  de: Ein hochleistungsfähiger CSV-Betrachter mit cjk/emoji-Unterstützung
+  es: Un visor CSV de alto rendimiento con soporte cjk/emoji
+  fr: Un visualiseur CSV performant avec prise en charge cjk/emoji
+  id: Penampil csv berkinerja tinggi dengan dukungan cjk/emoji
+  it: Un visualizzatore CSV ad alte prestazioni con supporto cjk/emoji
+  ja: cjk/emoji に対応した高性能 csv ビューアー
+  ko: cjk/emoji를 지원하는 고성능 csv 뷰어
+  pl: Wydajna przeglądarka CSV z obsługą cjk/emoji
+  pt: Um visualizador CSV de alto desempenho com suporte a cjk/emoji
+  ro: Un vizualizator CSV de înaltă performanță cu suport cjk/emoji
+  ru: Высокопроизводительный просмотрщик CSV с поддержкой cjk/emoji
+  th: โปรแกรมดูข้อมูล csv ประสิทธิภาพสูง รองรับ cjk/emoji
+  tr: cjk/emoji desteği olan yüksek performanslı csv görüntüleyici
+  uk: Високопродуктивний переглядач CSV із підтримкою cjk/emoji
+  vi: Trình xem csv hiệu năng cao có hỗ trợ cjk/emoji
 x:
   source: https://github.com/wfxr/csview
   eget: wfxr/csview

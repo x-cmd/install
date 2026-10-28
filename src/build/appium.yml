@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Appium is an open-source, cross-platform test automation tool for native, hybrid, mobile web and desktop apps
   cn: Appium 是用于本机，混合，移动网络和桌面应用的开源，跨平台测试自动化工具
+  cs: Appium je open source, multiplatformní nástroj pro testovací automatizaci nativních, hybridních, mobilních webových a desktopových aplikací
+  de: Appium ist ein quelloffenes, plattformübergreifendes Testautomatisierungswerkzeug für native, hybride, mobile Web- und Desktop-Apps
+  es: Appium es una herramienta de automatización de pruebas de código abierto y multiplataforma para aplicaciones nativas, híbridas, web móviles y de escritorio
+  fr: Appium est un outil open source et multiplateforme d'automatisation des tests pour les applications natives, hybrides, web mobiles et de bureau
+  id: Appium adalah alat otomatisasi pengujian sumber terbuka lintas platform untuk aplikasi native, hybrid, web seluler, dan desktop
+  it: Appium è uno strumento open source e multipiattaforma di automazione dei test per applicazioni native, ibride, web mobili e desktop
+  ja: Appium は、ネイティブ、ハイブリッド、モバイル web、デスクトップ アプリ向けのオープンソースでクロスプラットフォームのテスト自動化ツールです
+  ko: Appium은 네이티브, 하이브리드, 모바일 웹 및 데스크톱 앱을 위한 오픈 소스 크로스 플랫폼 테스트 자동화 도구입니다
+  pl: Appium to narzędzie do automatyzacji testów o otwartym kodzie, wieloplatformowe, dla aplikacji natywnych, hybrydowych, mobilnych w sieci i desktopowych
+  pt: O Appium é uma ferramenta de automação de testes de código aberto e multiplataforma para aplicativos nativos, híbridos, web móvel e desktop
+  ro: Appium este un instrument de automatizare a testelor cu sursă deschisă, multiplatformă, pentru aplicații native, hibride, web mobile și desktop
+  ru: Appium — кроссплатформенный инструмент автоматизации тестирования с открытым исходным кодом для нативных, гибридных, мобильных веб- и настольных приложений
+  th: Appium เป็นเครื่องมือทดสอบอัตโนมัติแบบโอเพนซอร์สและข้ามแพลตฟอร์ม สำหรับแอปพลิเคชันแบบเนทีฟ ไฮบริด เว็บมือถือ และเดสก์ท็อป
+  tr: Appium, yerel, hibrit, mobil web ve masaüstü uygulamalar için açık kaynaklı, platformlar arası test otomasyon aracıdır
+  uk: Appium — кроссплатформний інструмент автоматизації тестування з відкритим кодом для нативних, гібридних, мобільних веб- та десктопних застосунків
+  vi: Appium là công cụ tự động hóa kiểm thử mã nguồn mở đa nền tảng cho các ứng dụng native, hybrid, web di động và desktop
 x:
   source: https://github.com/appium/appium
   brew: appium

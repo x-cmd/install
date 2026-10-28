@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Linux 文件系统信息工具,比 df 更好用
   en: 'A linux utility to get information on filesystems, like df but better'
+  cs: Linuxový nástroj pro získávání informací o souborových systémech, podobný df, ale lepší
+  de: Ein Linux-Werkzeug zum Abrufen von Informationen über Dateisysteme, wie df, aber besser
+  es: Una utilidad de Linux para obtener información sobre sistemas de archivos, como df pero mejor
+  fr: Un utilitaire Linux permettant d'obtenir des informations sur les systèmes de fichiers, comme df mais en mieux
+  id: Utilitas Linux untuk mendapatkan informasi tentang sistem berkas, seperti df tetapi lebih baik
+  it: Un'utilità Linux per ottenere informazioni sui file system, come df ma migliore
+  ja: ファイルシステムの情報を取得する df 風のLinuxユーティリティ
+  ko: df처럼 파일 시스템 정보를 얻되 더 나은 Linux 유틸리티
+  pl: Narzędzie Linux do uzyskiwania informacji o systemach plików, jak df, ale lepsze
+  pt: Um utilitário Linux para obter informações sobre sistemas de arquivos, como df, mas melhor
+  ro: Un utilitar Linux pentru obținerea informațiilor despre sistemele de fișiere, ca df, dar mai bun
+  ru: Утилита Linux для получения информации о файловых системах, как df, но лучше
+  th: ยูทิลิตี้ Linux สำหรับดึงข้อมูลเกี่ยวกับระบบไฟล์ เหมือน df แต่ดีกว่า
+  tr: df gibi ama daha iyi olan, dosya sistemleri hakkında bilgi almak için bir Linux aracı
+  uk: Утиліта Linux для отримання інформації про файлові системи, як df, але краща
+  vi: Tiện ích Linux để lấy thông tin về hệ thống tệp, giống df nhưng tốt hơn
 x:
   source: https://github.com/canop/dysk
   eget: canop/dysk

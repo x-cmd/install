@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Chromium 是 Google Chrome 的开源上游项目，提供同源代码但无 Google 专有服务。
   en: Chromium is the open-source upstream of Google Chrome, providing the same code without Google's proprietary services.
+  cs: Chromium je open-source upstream projekt Google Chrome, poskytující stejný kód bez proprietárních služeb Google.
+  de: Chromium ist das Open-Source-Upstream von Google Chrome und bietet denselben Code ohne die proprietären Dienste von Google.
+  es: Chromium es el proyecto upstream de código abierto de Google Chrome, que ofrece el mismo código sin los servicios propietarios de Google.
+  fr: Chromium est le projet open source en amont de Google Chrome, qui fournit le même code sans les services propriétaires de Google.
+  id: Chromium adalah proyek upstream open-source dari Google Chrome, menyediakan kode yang sama tanpa layanan proprietary Google.
+  it: Chromium è il progetto upstream open source di Google Chrome, che fornisce lo stesso codice senza i servizi proprietari di Google.
+  ja: Chromium は Google Chrome のオープンソースアップストリームで、Google の独自サービスを含まず同じコードを提供します。
+  ko: Chromium은 Google Chrome의 오픈 소스 업스트림 프로젝트로, Google의 독점 서비스 없이 동일한 코드를 제공합니다.
+  pl: Chromium to projekt open source nadrzędny Google Chrome, udostępniający ten sam kod bez zastrzeżonych usług Google.
+  pt: O Chromium é o projeto upstream de código aberto do Google Chrome, oferecendo o mesmo código sem os serviços proprietários do Google.
+  ro: Chromium este proiectul upstream open source al Google Chrome, care oferă același cod fără serviciile proprietare Google.
+  ru: Chromium — это исходный открытый проект Google Chrome, предоставляющий тот же код без проприетарных сервисов Google.
+  th: Chromium เป็นโครงการโอเพนซอร์สต้นน้ำของ Google Chrome ซึ่งให้โค้ดเดียวกันโดยไม่มีบริการเฉพาะของ Google
+  tr: Chromium, Google Chrome'un açık kaynak üst projesidir ve Google'ın özel servisleri olmadan aynı kodu sunar.
+  uk: Chromium — це відкритий upstream-проєкт Google Chrome, який надає той самий код без пропрієтарних сервісів Google.
+  vi: Chromium là dự án mã nguồn mở tiền thân của Google Chrome, cung cấp cùng mã nguồn nhưng không có các dịch vụ độc quyền của Google.
 x:
   source: https://chromium.googlesource.com/chromium/src/
   apt: chromium

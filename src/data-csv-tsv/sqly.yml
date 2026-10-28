@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: sqly is a powerful command-line tool that can execute SQL against CSV, TSV, LTSV, JSON, and even Microsoft Excel™ files
   cn: sqly 是一个强大的命令行工具，能够对 CSV、TSV、LTSV、JSON 甚至 Microsoft Excel™ 文件执行 SQL 查询。
+  cs: sqly je mocný nástroj příkazové řádky, který dokáže spouštět SQL dotazy nad soubory CSV, TSV, LTSV, JSON a dokonce i Microsoft Excel™.
+  de: sqly ist ein leistungsfähiges Kommandozeilenwerkzeug, das SQL-Abfragen auf CSV-, TSV-, LTSV-, JSON- und sogar Microsoft Excel™-Dateien ausführen kann.
+  es: sqly es una potente herramienta de línea de comandos que puede ejecutar consultas SQL sobre archivos CSV, TSV, LTSV, JSON e incluso Microsoft Excel™.
+  fr: sqly est un puissant outil en ligne de commande capable d'exécuter des requêtes SQL sur des fichiers CSV, TSV, LTSV, JSON et même Microsoft Excel™.
+  id: sqly adalah alat baris perintah yang kuat untuk menjalankan kueri SQL pada file CSV, TSV, LTSV, JSON, bahkan Microsoft Excel™.
+  it: sqly è un potente strumento da riga di comando in grado di eseguire query SQL su file CSV, TSV, LTSV, JSON e persino Microsoft Excel™.
+  ja: sqly は CSV、TSV、LTSV、JSON、さらに Microsoft Excel™ ファイルに対して SQL クエリを実行できる強力なコマンドラインツールです。
+  ko: sqly는 CSV, TSV, LTSV, JSON, 심지어 Microsoft Excel™ 파일에 대해 SQL 쿼리를 실행할 수 있는 강력한 명령줄 도구입니다.
+  pl: sqly to potężne narzędzie wiersza poleceń, które potrafi wykonywać zapytania SQL na plikach CSV, TSV, LTSV, JSON, a nawet Microsoft Excel™.
+  pt: sqly é uma ferramenta de linha de comando poderosa que pode executar consultas SQL em arquivos CSV, TSV, LTSV, JSON e até mesmo Microsoft Excel™.
+  ro: sqly este un instrument puternic de linie de comandă care poate rula interogări SQL pe fișiere CSV, TSV, LTSV, JSON și chiar Microsoft Excel™.
+  ru: sqly — мощный инструмент командной строки, который может выполнять SQL-запросы к файлам CSV, TSV, LTSV, JSON и даже Microsoft Excel™.
+  th: sqly เป็นเครื่องมือบรรทัดคำสั่งที่ทรงพลัง สามารถรันคำสั่ง SQL บนไฟล์ CSV, TSV, LTSV, JSON และแม้แต่ไฟล์ Microsoft Excel™
+  tr: sqly, CSV, TSV, LTSV, JSON ve hatta Microsoft Excel™ dosyalarında SQL sorgusu çalıştırabilen güçlü bir komut satırı aracıdır.
+  uk: sqly — потужний інструмент командного рядка, який може виконувати SQL-запити до файлів CSV, TSV, LTSV, JSON і навіть Microsoft Excel™.
+  vi: sqly là công cụ dòng lệnh mạnh mẽ có thể thực thi truy vấn SQL trên các tệp CSV, TSV, LTSV, JSON và cả Microsoft Excel™.
 x:
   source: https://github.com/nao1215/sqly
   eget: nao1215/sqly

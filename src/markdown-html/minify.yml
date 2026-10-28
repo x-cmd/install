@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Minify 是一个用 Go 编写的迷你包。它提供了 HTML5、 CSS3、 JS、 JSON、 SVG 和 XML 小型化程序以及实现任何其他小型化程序的接口
   en: Minify is a minifier package written in Go. It provides HTML5, CSS3, JS, JSON, SVG and XML minifiers and an interface to implement any other minifier
+  cs: Minify je balíček pro minimalizaci napsaný v Go. Poskytuje minimalizátory HTML5, CSS3, JS, JSON, SVG a XML a rozhraní pro implementaci libovolného jiného minimalizátoru
+  de: Minify ist ein in Go geschriebenes Minifier-Paket. Es bietet Minifier für HTML5, CSS3, JS, JSON, SVG und XML sowie eine Schnittstelle zur Implementierung beliebiger anderer Minifier
+  es: Minify es un paquete de minificación escrito en Go. Proporciona minificadores de HTML5, CSS3, JS, JSON, SVG y XML, además de una interfaz para implementar cualquier otro minificador
+  fr: Minify est un paquet de minification écrit en Go. Il fournit des minificateurs pour HTML5, CSS3, JS, JSON, SVG et XML ainsi qu'une interface pour implémenter tout autre minificateur
+  id: Minify adalah paket minifier yang ditulis dengan Go. Minify menyediakan minifier untuk HTML5, CSS3, JS, JSON, SVG, dan XML serta antarmuka untuk mengimplementasikan minifier lain apa pun
+  it: Minify è un pacchetto di minificazione scritto in Go. Fornisce minificatori per HTML5, CSS3, JS, JSON, SVG e XML e un'interfaccia per implementare qualsiasi altro minificatore
+  ja: Minify は Go で書かれたミニファイザパッケージです。HTML5、CSS3、JS、JSON、SVG、XML のミニファイザと、任意の他のミニファイザを実装するためのインターフェースを提供します
+  ko: Minify는 Go로 작성된 경량화 패키지입니다. HTML5, CSS3, JS, JSON, SVG 및 XML 경량화 도구와 다른 경량화 도구를 구현할 인터페이스를 제공합니다
+  pl: Minify to pakiet do minifikacji napisany w Go. Dostarcza minifikatory dla HTML5, CSS3, JS, JSON, SVG i XML oraz interfejs do implementacji dowolnych innych minifikatorów
+  pt: Minify é um pacote de minificação escrito em Go. Fornece minificadores para HTML5, CSS3, JS, JSON, SVG e XML, além de uma interface para implementar qualquer outro minificador
+  ro: Minify este un pachet de minificare scris în Go. Oferă minificatoare pentru HTML5, CSS3, JS, JSON, SVG și XML, plus o interfață pentru implementarea oricărui alt minificator
+  ru: Minify — это пакет минификации, написанный на Go. Он предоставляет минификаторы для HTML5, CSS3, JS, JSON, SVG и XML, а также интерфейс для реализации любого другого минификатора
+  th: Minify เป็นแพ็กเกจย่อขนาดที่เขียนด้วย Go มีตัวย่อขนาดสำหรับ HTML5, CSS3, JS, JSON, SVG และ XML รวมถึงอินเทอร์เฟซเพื่อสร้างตัวย่อขนาดอื่น ๆ
+  tr: Minify, Go ile yazılmış bir küçültme paketidir. HTML5, CSS3, JS, JSON, SVG ve XML küçültücüleri ile başka herhangi bir küçültücü uygulamak için bir arayüz sunar
+  uk: Minify — це пакет мініфікації, написаний на Go. Він надає мініфікатори для HTML5, CSS3, JS, JSON, SVG та XML, а також інтерфейс для реалізації будь-якого іншого мініфікатора
+  vi: Minify là gói minifier được viết bằng Go. Nó cung cấp minifier cho HTML5, CSS3, JS, JSON, SVG và XML, cùng giao diện để triển khai mọi minifier khác
 x:
   source: https://github.com/tdewolff/minify
   eget: tdewolff/minify

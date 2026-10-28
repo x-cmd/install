@@ -3,6 +3,22 @@ homepage: https://github.com/openssh/openssh-portable
 desc:
   cn: OpenSSH 是使用 SSH 协议进行远程登录的连接工具
   en: OpenSSH is the premier connectivity tool for remote login with the SSH protocol
+  cs: OpenSSH je hlavní nástroj pro vzdálené přihlášení protokolem SSH
+  de: OpenSSH ist das führende Verbindungswerkzeug für Fernzugriffe über das SSH-Protokoll
+  es: OpenSSH es la principal herramienta de conectividad para el acceso remoto con el protocolo SSH
+  fr: OpenSSH est le principal outil de connectivité pour l'accès à distance avec le protocole SSH
+  id: OpenSSH adalah alat konektivitas utama untuk login jarak jauh dengan protokol SSH
+  it: OpenSSH è il principale strumento di connettività per l'accesso remoto con il protocollo SSH
+  ja: OpenSSH は SSH プロトコルによるリモートログインの主要ツールです
+  ko: OpenSSH는 SSH 프로토콜로 원격 로그인하는 대표적인 연결 도구입니다
+  pl: OpenSSH to główne narzędzie łączności do zdalnego logowania przy użyciu protokołu SSH
+  pt: OpenSSH é a principal ferramenta de conectividade para login remoto com o protocolo SSH
+  ro: OpenSSH este principalul instrument de conectivitate pentru autentificare la distanță cu protocolul SSH
+  ru: OpenSSH — основной инструмент удалённого доступа по протоколу SSH
+  th: OpenSSH เป็นเครื่องมือเชื่อมต่อหลักสำหรับการเข้าสู่ระบบระยะไกลด้วยโปรโตคอล SSH
+  tr: OpenSSH, SSH protokolü ile uzak oturum açma için önde gelen bağlantı aracıdır
+  uk: OpenSSH — провідний інструмент віддаленого входу за протоколом SSH
+  vi: OpenSSH là công cụ kết nối chính để đăng nhập từ xa bằng giao thức SSH
 x:
   source: https://github.com/openssh/openssh-portable
   brew: openssh

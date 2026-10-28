@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: "使用开源引擎本地开发、回测并部署算法交易策略,支持 C# 和 Python"
   en: Develop, backtest, and deploy algorithmic trading strategies locally using an open-source engine that supports C# and Python.
+  cs: Vyvíjejte, testujte zpětně a nasazujte algoritmické obchodní strategie lokálně pomocí open-source enginu, který podporuje C# a Python.
+  de: Entwickeln, backtesten und deployen Sie algorithmische Handelsstrategien lokal mit einer quelloffenen Engine, die C# und Python unterstützt.
+  es: Desarrolla, haz backtesting y despliega estrategias de trading algorítmico localmente con un motor de código abierto compatible con C# y Python.
+  fr: Développez, testez en backtest et déployez des stratégies de trading algorithmique en local avec un moteur open source compatible C# et Python.
+  id: Kembangkan, uji ulang, dan jalankan strategi perdagangan algoritmik secara lokal dengan engine sumber terbuka yang mendukung C# dan Python.
+  it: Sviluppa, esegui backtest e distribuisci localmente strategie di trading algoritmico con un motore open source che supporta C# e Python.
+  ja: C#とPythonに対応したオープンソースのエンジンを使い、ローカルでアルゴリズム取引戦略を開発・バックテスト・デプロイします。
+  ko: C#과 Python을 지원하는 오픈소스 엔진으로 알고리즘 거래 전략을 로컬에서 개발하고 백테스트하며 배포하세요.
+  pl: Twórz, testuj wstecznie i wdrażaj lokalnie strategie handlu algorytmicznego za pomocą open source'owego silnika obsługującego C# i Pythona.
+  pt: Desenvolva, faça backtest e implmente localmente estratégias de trading algorítmico com um mecanismo de código aberto que suporta C# e Python.
+  ro: Dezvoltați, faceți backtesting și deployați local strategii de tranzacționare algoritmică folosind un motor open source care acceptă C# și Python.
+  ru: Разрабатывайте, тестируйте на исторических данных и разворачивайте локально алгоритмические торговые стратегии с помощью открытого движка, поддерживающего C# и Python.
+  th: พัฒนา แบ็กเทสต์ และประสงค์กลยุทธ์การเทรดอัลกอริทึมในเครื่องด้วยเอนจินโอเพนซอร์สที่รองรับ C# และ Python
+  tr: C# ve Python destekleyen açık kaynak motorla algoritmik işlem stratejilerini yerel olarak geliştirin, geriye dönük test edin ve dağıtın.
+  uk: Розробляйте, тестуйте на історичних даних і розгортайте локально алгоритмічні торгові стратегії за допомогою відкритого рушія, що підтримує C# і Python.
+  vi: Phát triển, kiểm thử hồi quy và triển khai cục bộ các chiến lược giao dịch thuật toán bằng engine mã nguồn mở hỗ trợ C# và Python.
 x:
   source: https://github.com/QuantConnect/Lean
   eget: QuantConnect/Lean

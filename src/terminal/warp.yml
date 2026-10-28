@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: Warp 是一款基于 Rust 的现代终端，内置 AI，帮助你和你的团队更快地构建出色的软件。
   en: Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+  cs: Warp je moderní terminál založený na Rust s vestavěnou AI, aby vy a váš tým mohli rychleji stavět skvělý software.
+  de: Warp ist ein modernes, auf Rust basierendes Terminal mit integrierter KI, damit du und dein Team schneller großartige Software entwickeln könnt.
+  es: Warp es una terminal moderna basada en Rust con IA integrada para que tú y tu equipo construyáis mejor software, más rápido.
+  fr: Warp est un terminal moderne basé sur Rust avec l'IA intégrée, afin que vous et votre équipe puissiez créer d'excellents logiciels plus rapidement.
+  id: Warp adalah terminal modern berbasis Rust dengan AI bawaan agar Anda dan tim dapat membangun perangkat lunak hebat lebih cepat.
+  it: Warp è un terminale moderno basato su Rust con AI integrata, così tu e il tuo team potete costruire software eccellente più velocemente.
+  ja: Warp は AI を組み込んだモダンな Rust ベースのターミナルで、あなたとチームが素晴らしいソフトウェアをより速く開発できます。
+  ko: Warp은 AI가 내장된 현대적인 Rust 기반 터미널로, 당신과 팀이 더 훌륭한 소프트웨어를 더 빠르게 만들 수 있게 합니다.
+  pl: Warp to nowoczesny terminal oparty na Rust z wbudowaną AI, dzięki czemu Ty i Twój zespół szybciej tworzysz świetne oprogramowanie.
+  pt: O Warp é um terminal moderno baseado em Rust com IA integrada, para que você e sua equipe construam great software, mais rápido.
+  ro: Warp este un terminal modern bazat pe Rust cu AI integrat, astfel încât tu și echipa ta să construiți software excelent, mai rapid.
+  ru: Warp — современный терминал на Rust со встроенным ИИ, чтобы вы и ваша команда могли быстрее создавать отличное ПО.
+  th: Warp เป็นเทอร์มินัลสมัยใหม่ที่พัฒนาด้วย Rust พร้อม AI ในตัว เพื่อให้คุณและทีมของคุณสร้างซอฟต์แวร์ที่ยอดเยี่ยมได้เร็วขึ้น.
+  tr: Warp, siz ve ekibiniz daha hızlı harika yazılımlar geliştirebilmeniz için AI'ın yerleşik olduğu modern, Rust tabanlı bir terminaldir.
+  uk: Warp — сучасний термінал на Rust зі вбудованим ШІ, щоб ви і ваша команда могли швидше створювати чудовий ПЗ.
+  vi: Warp là terminal hiện đại dựa trên Rust có tích hợp AI, giúp bạn và đội ngũ xây dựng phần mềm tuyệt vời nhanh hơn.
 x:
   source: https://github.com/warpdotdev/Warp
   winget: Warp.Warp

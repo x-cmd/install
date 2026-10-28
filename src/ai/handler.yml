@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 终端中的 A2A 协议客户端
   en: 'A2A protocol client for your terminal'
+  cs: Klient protokolu A2A pro váš terminál
+  de: A2A-Protokollclient für Ihr Terminal
+  es: Cliente del protocolo A2A para tu terminal
+  fr: Client du protocole A2A pour votre terminal
+  id: Klien protokol A2A untuk terminal Anda
+  it: Client del protocollo A2A per il tuo terminale
+  ja: ターミナル用の A2A プロトコルクライアント
+  ko: 터미널을 위한 A2A 프로토콜 클라이언트
+  pl: Klient protokołu A2A dla Twojego terminala
+  pt: Cliente do protocolo A2A para o seu terminal
+  ro: Client de protocol A2A pentru terminalul tău
+  ru: Клиент протокола A2A для вашего терминала
+  th: ไคลเอนต์โปรโตคอล A2A สำหรับเทอร์มินัลของคุณ
+  tr: Terminaliniz için A2A protokol istemcisi
+  uk: Клієнт протоколу A2A для вашого терміналу
+  vi: Ứng dụng khách giao thức A2A cho terminal của bạn
 x:
   source: https://github.com/alDuncanson/Handler
   eget: alDuncanson/Handler

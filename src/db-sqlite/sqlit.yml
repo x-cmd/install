@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Python 编写的友好 SQL 数据库 TUI，支持多种数据库
   en: 'A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.'
+  cs: Uživatelsky přívětivé TUI pro SQL databáze. Napsáno v pythonu. Podporuje SQL server, Mysql, PostreSQL, SQLite, Turso a další.
+  de: Ein benutzerfreundliches TUI für SQL-Datenbanken. In Python geschrieben. Unterstützt SQL Server, MySQL, PostreSQL, SQLite, Turso und mehr.
+  es: Un TUI fácil de usar para bases de datos SQL. Escrito en Python. Compatible con SQL Server, MySQL, PostreSQL, SQLite, Turso y más.
+  fr: Une TUI conviviale pour les bases de données SQL. Écrit en Python. Prend en charge SQL Server, MySQL, PostreSQL, SQLite, Turso et plus encore.
+  id: TUI yang ramah pengguna untuk basis data SQL. Ditulis dengan python. Mendukung SQL server, Mysql, PostreSQL, SQLite, Turso, dan lainnya.
+  it: Una TUI user friendly per database SQL. Scritta in python. Supporta SQL server, Mysql, PostreSQL, SQLite, Turso e altro.
+  ja: SQL データベース向けのユーザーフレンドリーな TUI。python で書かれています。SQL server、Mysql、PostreSQL、SQLite、Turso などに対応しています。
+  ko: SQL 데이터베이스를 위한 사용자 친화적인 TUI입니다. python로 작성되었으며 SQL server, Mysql, PostreSQL, SQLite, Turso 등을 지원합니다.
+  pl: Przyjazne użytkownikowi TUI dla baz danych SQL. Napisane w pythonie. Obsługuje SQL server, Mysql, PostreSQL, SQLite, Turso i inne.
+  pt: Uma TUI amigável para bancos de dados SQL. Escrito em python. Suporta SQL server, Mysql, PostreSQL, SQLite, Turso e mais.
+  ro: Un TUI prietenos cu utilizatorul pentru baze de date SQL. Scris în python. Acceptă SQL server, Mysql, PostreSQL, SQLite, Turso și altele.
+  ru: Удобный TUI для баз данных SQL. Написан на python. Поддерживает SQL server, Mysql, PostreSQL, SQLite, Turso и другие.
+  th: TUI ที่ใช้งานง่ายสำหรับฐานข้อมูล SQL เขียนด้วย python รองรับ SQL server, Mysql, PostreSQL, SQLite, Turso และอื่น ๆ
+  tr: SQL veritabanları için kullanıcı dostu TUI. python ile yazılmıştır. SQL server, Mysql, PostreSQL, SQLite, Turso ve daha fazlasını destekler.
+  uk: Зручний TUI для баз даних SQL. Написаний на python. Підтримує SQL server, Mysql, PostreSQL, SQLite, Turso та інші.
+  vi: TUI thân thiện cho cơ sở dữ liệu SQL. Viết bằng python. Hỗ trợ SQL server, Mysql, PostreSQL, SQLite, Turso và nhiều hơn nữa.
 x:
   source: https://github.com/Maxteabag/sqlit
   eget: Maxteabag/sqlit

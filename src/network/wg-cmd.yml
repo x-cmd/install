@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: TUI 用于管理 WireGuard 配置文件。
   en: TUI for managing WireGuard configuration files
+  cs: TUI pro správu konfiguračních souborů WireGuard
+  de: TUI zur Verwaltung von WireGuard-Konfigurationsdateien
+  es: TUI para gestionar archivos de configuración de WireGuard
+  fr: TUI pour gérer les fichiers de configuration WireGuard
+  id: TUI untuk mengelola berkas konfigurasi WireGuard
+  it: TUI per gestire i file di configurazione di WireGuard
+  ja: WireGuard の設定ファイルを管理するための TUI
+  ko: WireGuard 설정 파일을 관리하는 TUI
+  pl: TUI do zarządzania plikami konfiguracyjnymi WireGuard
+  pt: TUI para gerenciar arquivos de configuração do WireGuard
+  ro: TUI pentru gestionarea fișierelor de configurare WireGuard
+  ru: TUI для управления конфигурационными файлами WireGuard
+  th: TUI สำหรับจัดการไฟล์การตั้งค่า WireGuard
+  tr: WireGuard yapılandırma dosyalarını yönetmek için TUI
+  uk: TUI для керування конфігураційними файлами WireGuard
+  vi: TUI để quản lý các tệp cấu hình WireGuard
 x:
   source: https://github.com/AndrianBdn/wg-cmd
   yay: wg-cmd

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ollama 的基于文本的终端客户端
   en: A text-based terminal client for ollama.
+  cs: Textový terminálový klient pro ollama.
+  de: Ein textbasierter Terminal-Client für ollama.
+  es: Un cliente de terminal basado en texto para ollama.
+  fr: Un client de terminal textuel pour ollama.
+  id: Klien terminal berbasis teks untuk ollama.
+  it: Un client terminale basato su testo per ollama.
+  ja: ollama のためのテキストベースのターミナルクライアント。
+  ko: ollama를 위한 텍스트 기반 터미널 클라이언트.
+  pl: Tekstowy klient terminala dla ollama.
+  pt: Um cliente de terminal baseado em texto para ollama.
+  ro: Un client de terminal bazat pe text pentru ollama.
+  ru: Текстовый терминальный клиент для ollama.
+  th: ไคลเอนต์เทอร์มินัลแบบข้อความสำหรับ ollama.
+  tr: ollama için metin tabanlı terminal istemcisi.
+  uk: Текстовий термінальний клієнт для ollama.
+  vi: Trình khách hàngi dòng lệnh dựa trên văn bản cho ollama.
 x:
   source: https://github.com/ggozad/oterm
   brew: ggozad/formulas/oterm

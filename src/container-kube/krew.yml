@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Krew 是 Kubectl 命令行工具的插件管理器
   en: Krew is the plugin manager for kubectl command-line tool
+  cs: Krew je správce pluginů pro nástroj příkazové řádky kubectl
+  de: Krew ist der Plugin-Manager für das Kommandozeilenwerkzeug kubectl
+  es: Krew es el gestor de plugins para la herramienta de línea de comandos kubectl
+  fr: Krew est le gestionnaire de plugins pour l'outil en ligne de commande kubectl
+  id: Krew adalah pengelola plugin untuk alat baris perintah kubectl
+  it: Krew è il gestore dei plugin per lo strumento da riga di comando kubectl
+  ja: Krew はコマンドラインツール kubectl のプラグインマネージャーです
+  ko: Krew는 kubectl 명령줄 도구의 플러그인 관리자입니다
+  pl: Krew to menedżer wtyczek dla narzędzia wiersza poleceń kubectl
+  pt: Krew é o gerenciador de plugins para a ferramenta de linha de comando kubectl
+  ro: Krew este managerul de pluginuri pentru instrumentul de linie de comandă kubectl
+  ru: Krew — менеджер плагинов для инструмента командной строки kubectl
+  th: Krew คือตัวจัดการปลั๊กอินสำหรับเครื่องมือบรรทัดคำสั่ง kubectl
+  tr: Krew, kubectl komut satırı aracı için eklenti yöneticisidir
+  uk: Krew — менеджер плагінів для інструмента командного рядка kubectl
+  vi: Krew là trình quản lý plugin cho công cụ dòng lệnh kubectl
 x:
   source: https://github.com/kubernetes-sigs/krew
   asdf: krew

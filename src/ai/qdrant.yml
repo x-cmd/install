@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 面向下一代 AI 的高性能大规模向量数据库和向量检索引擎
   en: 'Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/'
+  cs: Qdrant - vysoce výkonná vektorová databáze a vyhledávací engine ve velkém měřítku pro příští generaci AI. K dispozici také v cloudu na https://cloud.qdrant.io/
+  de: Qdrant – hochleistungsfähige Vektor-Datenbank und Vektorsuchmaschine im großen Maßstab für die nächste Generation der KI. Auch in der Cloud verfügbar unter https://cloud.qdrant.io/
+  es: "Qdrant: base de datos vectorial y motor de búsqueda vectorial de alto rendimiento a gran escala para la próxima generación de IA. También disponible en la nube en https://cloud.qdrant.io/"
+  fr: Qdrant - base de données vectorielle et moteur de recherche vectorielle hautes performances à grande échelle pour la prochaine génération de l'IA. Également disponible dans le cloud sur https://cloud.qdrant.io/
+  id: Qdrant - basis data vektor dan mesin pencarian vektor berkinerja tinggi berskala besar untuk generasi AI berikutnya. Juga tersedia di cloud di https://cloud.qdrant.io/
+  it: Qdrant - database vettoriale e motore di ricerca vettoriale ad alte prestazioni su larga scala per la prossima generazione di IA. Disponibile anche nel cloud su https://cloud.qdrant.io/
+  ja: Qdrant - 次世代AIに向けた高性能な大規模ベクトルデータベース兼ベクトル検索エンジン。クラウド版も https://cloud.qdrant.io/ で利用できます。
+  ko: Qdrant - 차세대 AI를 위한 고성능 대규모 벡터 데이터베이스 및 벡터 검색 엔진. https://cloud.qdrant.io/ 에서 클라우드 버전도 제공됩니다.
+  pl: Qdrant - wysokowydajna baza danych wektorowa i silnik wyszukiwania wektorowego w dużej skali dla kolejnej generacji AI. Dostępny także w chmurze na https://cloud.qdrant.io/
+  pt: Qdrant - banco de dados vetorial e mecanismo de busca vetorial de alto desempenho em grande escala para a próxima geração de IA. Também disponível na nuvem em https://cloud.qdrant.io/
+  ro: Qdrant - bază de date vectorială și motor de căutare vectorială de înaltă performanță la scară mare pentru următoarea generație de AI. Disponibil și în cloud la https://cloud.qdrant.io/
+  ru: Qdrant - высокопроизводительная векторная база данных и векторный поисковый движок промышленного масштаба для следующего поколения ИИ. Также доступен в облаке на https://cloud.qdrant.io/
+  th: Qdrant - ฐานข้อมูลเวกเตอร์และเอนจินค้นหาเวกเตอร์ประสิทธิภาพสูงในระดับขนาดใหญ่สำหรับ AI รุ่นถัดไป มีให้ใช้งานบนคลาวด์ที่ https://cloud.qdrant.io/
+  tr: Qdrant - sonraki nesil yapay zeka için yüksek performanslı, büyük ölçekli vektör veritabanı ve vektör arama motoru. Bulutta da https://cloud.qdrant.io/ adresinde kullanılabilir.
+  uk: Qdrant - високопродуктивна векторна база даних і векторний пошуковий рушій великого масштабу для наступного покоління ШІ. Також доступний у хмарі на https://cloud.qdrant.io/
+  vi: Qdrant - cơ sở dữ liệu vector và công cụ tìm kiếm vector hiệu năng cao quy mô lớn cho thế hệ AI tiếp theo. Cũng có sẵn trên đám mây tại https://cloud.qdrant.io/
 x:
   source: https://github.com/qdrant/qdrant
   eget: qdrant/qdrant

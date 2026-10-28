@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 快速，功能丰富，基于图形处理器的虚拟终端
   en: The fast, feature-rich, GPU based terminal emulator
+  cs: Rychlý, bohatě vybavený emulátor terminálu založený na GPU
+  de: Der schnelle, funktionsreiche, GPU-basierte Terminalemulator
+  es: El emulador de terminal rápido, rico en funciones y basado en GPU
+  fr: L'émulateur de terminal rapide, riche en fonctionnalités et basé sur le GPU
+  id: Emulator terminal berbasis GPU yang cepat dan fitur lengkap
+  it: Il rapido emulatore di terminale ricco di funzionalità basato su GPU
+  ja: 高速で機能豊富な GPU ベースのターミナルエミュレーター
+  ko: 빠르고 기능이 풍부한 GPU 기반 터미널 에뮬레이터
+  pl: Szybki, bogaty w funkcje emulator terminala oparty na GPU
+  pt: O emulador de terminal rápido, cheio de recursos e baseado em GPU
+  ro: Emulatorul de terminal rapid, bogat în funcții, bazat pe GPU
+  ru: Быстрый, богатый возможностями эмулятор терминала на базе GPU
+  th: เทอร์มินัลอีมูเลเตอร์ที่เร็ว มีฟีเจอร์ครบ และใช้ GPU
+  tr: Hızlı, özellik dolu, GPU tabanlı terminal emülatörü
+  uk: Швидкий, багатофункціональний емулятор термінала на базі GPU
+  vi: Trình mô phỏng terminal nhanh, giàu tính năng, dựa trên GPU
 x:
   source: https://github.com/kovidgoyal/kitty
   eget: kovidgoyal/kitty

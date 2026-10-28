@@ -3,6 +3,22 @@ homepage: https://www.chiark.greenend.org.uk/~sgtatham/halibut/
 desc:
   cn: Halibut 是一种文档生产系统
   en: Halibut is a documentation production system
+  cs: Halibut je systém pro tvorbu dokumentace
+  de: Halibut ist ein System zur Erstellung von Dokumentation
+  es: Halibut es un sistema de producción de documentación
+  fr: Halibut est un système de production de documentation
+  id: Halibut adalah sistem produksi dokumentasi
+  it: Halibut è un sistema di produzione di documentazione
+  ja: Halibut はドキュメント生成システムです
+  ko: Halibut는 문서 생성 시스템입니다
+  pl: Halibut to system produkcji dokumentacji
+  pt: Halibut é um sistema de produção de documentação
+  ro: Halibut este un sistem de producere a documentației
+  ru: Halibut — система для создания документации
+  th: Halibut คือระบบผลิตเอกสาร
+  tr: Halibut bir dokümantasyon üretim sistemidir
+  uk: Halibut — це система для створення документації
+  vi: Halibut là hệ thống tạo tài liệu
 rule:
   darwin/brew:
     cmd: brew install halibut

@@ -3,6 +3,22 @@ homepage: https://repo.saltproject.io/
 desc:
   cn: Salt 是世界上最快，最聪明，最可扩展的自动化引擎
   en: Salt is the world's fastest, most intelligent and scalable automation engine
+  cs: Salt je nejrychlejší, nejinteligentnější a nejškálovatelnější automatizační engine na světě
+  de: Salt ist die schnellste, intelligenteste und skalierbarste Automatisierungs-Engine der Welt
+  es: Salt es el motor de automatización más rápido, más inteligente y más escalable del mundo
+  fr: Salt est le moteur d'automatisation le plus rapide, le plus intelligent et le plus évolutif au monde
+  id: Salt adalah mesin otomatisasi tercepat, paling cerdas, dan paling skalabel di dunia
+  it: Salt è il motore di automazione più veloce, più intelligente e più scalabile al mondo
+  ja: Salt は世界最速・最高性能・最も拡張性の高い自動化エンジンです
+  ko: Salt는 세계에서 가장 빠르고 가장 똑똑하며 가장 확장성이 높은 자동화 엔진입니다
+  pl: Salt to najszybszy, najinteligentniejszy i najbardziej skalowalny silnik automatyzacji na świecie
+  pt: O Salt é o motor de automação mais rápido, mais inteligente e mais escalável do mundo
+  ro: Salt este cel mai rapid, cel mai inteligent și cel mai scalabil motor de automatizare din lume
+  ru: Salt — самый быстрый, самый умный и самый масштабируемый движок автоматизации в мире
+  th: Salt คือเอนจินอัตโนมัติที่เร็วที่สุด ฉลาดที่สุด และปรับขยายได้มากที่สุดในโลก
+  tr: Salt, dünyanın en hızlı, en zeki ve en ölçeklenebilir otomasyon motorudur
+  uk: Salt — найшвидший, найрозумніший і наймасштабованіший рушій автоматизації у світі
+  vi: Salt là công cụ tự động hóa nhanh nhất, thông minh nhất và mở rộng tốt nhất thế giới
 rule:
   linux/curl:
     cmd: 'curl -o quick.sh -L https://raw.githubusercontent.com/saltstack/salt-bootstrap/develop/salt-quick-start.sh \

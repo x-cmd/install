@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Furyctl 是 Kubernetes Fury 发行版的命令行伴侣，用于管理 Kubernetes Fury 集群的整个生命周期
   en: furyctl is the command line companion for the Kubernetes Fury Distribution to manage the full lifecycle of your Kubernetes Fury clusters
+  cs: furyctl je příkazový companion pro distribuci Kubernetes Fury, který slouží ke správě celého životního cyklu vašich clusterů Kubernetes Fury
+  de: furyctl ist der Kommandozeilen-Begleiter für die Kubernetes Fury Distribution, um den gesamten Lebenszyklus Ihrer Kubernetes-Fury-Cluster zu verwalten
+  es: furyctl es el compañero de línea de comandos de la distribución Kubernetes Fury para gestionar el ciclo de vida completo de sus clústeres de Kubernetes Fury
+  fr: furyctl est le compagnon en ligne de commande de la distribution Kubernetes Fury pour gérer le cycle de vie complet de vos clusters Kubernetes Fury
+  id: furyctl adalah pendamping baris perintah untuk distribusi Kubernetes Fury untuk mengelola seluruh siklus hidup cluster Kubernetes Fury Anda
+  it: furyctl è il compagno da riga di comando della distribuzione Kubernetes Fury per gestire l'intero ciclo di vita dei tuoi cluster Kubernetes Fury
+  ja: furyctl は Kubernetes Fury ディストリビューションのコマンドラインコンパニオンで、Kubernetes Fury クラスタのライフサイクル全体を管理します
+  ko: furyctl은 Kubernetes Fury 배포판의 명령줄 도우미로, Kubernetes Fury 클러스터의 전체 수명 주기를 관리합니다
+  pl: furyctl to towarzysz wiersza poleceń dla dystrybucji Kubernetes Fury, służący do zarządzania pełnym cyklem życia klastrów Kubernetes Fury
+  pt: furyctl é o companheiro de linha de comando da distribuição Kubernetes Fury para gerenciar todo o ciclo de vida dos seus clusters Kubernetes Fury
+  ro: furyctl este însoțitorul de linie de comandă pentru distribuția Kubernetes Fury, pentru a gestiona întregul ciclu de viață al clusterelor tale Kubernetes Fury
+  ru: furyctl — это командный помощник дистрибутива Kubernetes Fury для управления полным жизненным циклом ваших кластеров Kubernetes Fury
+  th: furyctl คือตัวช่วยบรรทัดคำสั่งของการแจกจ่าย Kubernetes Fury สำหรับจัดการวงจรชีวิตทั้งหมดของคลัสเตอร์ Kubernetes Fury ของคุณ
+  tr: furyctl, Kubernetes Fury Dağıtımı için komut satırı yardımcısıdır ve Kubernetes Fury kümelerinizin tüm yaşam döngüsünü yönetir
+  uk: furyctl — це командний помічник дистрибутива Kubernetes Fury для керування повним життєвим циклом ваших кластерів Kubernetes Fury
+  vi: furyctl là trợ giúp dòng lệnh cho bản phân phối Kubernetes Fury, dùng để quản lý toàn bộ vòng đời của các cụm Kubernetes Fury của bạn
 x:
   source: https://github.com/sighupio/furyctl
   eget: sighupio/furyctl

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向 Ollama 的 TUI MCP 客户端，支持完整 MCP 原语、智能体模式、多服务器与流式响应
   en: Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, h...
+  cs: TUI klient MCP pro Ollama, který využívá sílu místních LLM, s podporou všech základních MCP primitiv (nástroje, prompty, zdroje), režimu agenta, více serverů, přepínání modelů a streamovaných odpovědí.
+  de: TUI-MCP-Client für Ollama, der die Leistung lokaler LLMs nutzt, mit allen Kern-MCP-Primitiven (Tools, Prompts, Ressourcen), Agentenmodus, Mehrfachserver, Modellwechsel und Streaming-Antworten.
+  es: Cliente MCP de TUI para Ollama que aprovecha la potencia de los LLM locales, con todas las primitivas MCP esenciales (herramientas, prompts, recursos), modo agente, varios servidores, cambio de modelo y respuestas en streaming.
+  fr: Client MCP TUI pour Ollama qui exploite la puissance des LLM locaux, avec toutes les primitives MCP essentielles (outils, prompts, ressources), le mode agent, plusieurs serveurs, le changement de modèle et les réponses en streaming.
+  id: Klien MCP TUI untuk Ollama yang memanfaatkan kekuatan LLM lokal, dengan semua primitif MCP inti (alat, prompt, sumber daya), mode agen, multi-server, pergantian model, dan respons streaming.
+  it: Client MCP TUI per Ollama che sfrutta la potenza degli LLM locali, con tutte le primitive MCP fondamentali (strumenti, prompt, risorse), modalità agente, multi-server, cambio modello e risposte in streaming.
+  ja: Ollama 向けの TUI MCP クライアントで、ローカル LLM の威力を発揮します。すべての主要 MCP プリミティブ（ツール、プロンプト、リソース）、エージェントモード、マルチサーバー、モデルの切り替え、ストリーミング応答に対応しています。
+  ko: 로컬 LLM의 성능을 활용하는 Ollama용 TUI MCP 클라이언트로, 모든 핵심 MCP 프리미티브(도구, 프롬프트, 리소스), 에이전트 모드, 멀티 서버, 모델 전환, 스트리밍 응답을 지원합니다.
+  pl: Klient TUI MCP dla Ollama, wykorzystujący moc lokalnych LLM, ze wszystkimi podstawowymi prymitywami MCP (narzędzia, prompty, zasoby), trybem agenta, wieloma serwerami, przełączaniem modeli i odpowiedziami strumieniowymi.
+  pt: Cliente MCP de TUI para Ollama que aproveita o poder dos LLMs locais, com todas as primitivas MCP essenciais (ferramentas, prompts, recursos), modo agente, múltiplos servidores, troca de modelo e respostas em streaming.
+  ro: Client MCP TUI pentru Ollama care valorifică puterea LLM-urilor locale, cu toate primitivele MCP esențiale (unelte, prompturi, resurse), modul agent, mai multe servere, comutarea modelelor și răspunsuri în streaming.
+  ru: TUI MCP-клиент для Ollama, раскрывающий возможности локальных LLM, со всеми основными примитивами MCP (инструменты, промпты, ресурсы), режимом агента, несколькими серверами, переключением моделей и потоковыми ответами.
+  th: ไคลเอนต์ MCP แบบ TUI สำหรับ Ollama ที่ใช้ประสิทธิภาพของ LLM ในเครื่อง พร้อมไพรมิทีฟ MCP หลักทั้งหมด (เครื่องมือ พรอมต์ ทรัพยากร) โหมดเอเจนต์ รองรับหลายเซิร์ฟเวอร์ สลับโมเดล และตอบกลับแบบสตรีม
+  tr: Ollama için TUI MCP istemcisi; yerel LLM'lerin gücünü kullanır, tüm temel MCP ilkelleriyle (araçlar, istemler, kaynaklar), ajan modu, çoklu sunucu, model değiştirme ve akış yanıtları sunar.
+  uk: TUI MCP-клієнт для Ollama, що розкриває можливості локальних LLM, з усіма основними примітивами MCP (інструменти, промпти, ресурси), режимом агента, кількома серверами, перемиканням моделей і потоковими відповідями.
+  vi: Client MCP TUI cho Ollama khai thác sức mạnh của LLM cục bộ, với đầy đủ các thành phần MCP cốt lõi (công cụ, prompt, tài nguyên), chế độ agent, nhiều máy chủ, chuyển đổi mô hình và phản hồi dạng luồng.
 x:
   source: https://github.com/jonigl/mcp-client-for-ollama
   pip: mcp-client-for-ollama

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 浏览器 cookie 提取库，inline 优先 + 本地尽力读取；无原生 Node 插件，TypeScript 实现，跨 macOS/Windows/Linux
   en: Browser cookie extraction library. Inline-first with best-effort local reads. No native Node addons, TypeScript, cross-platform (macOS/Windows/Linux).
+  cs: Knihovna pro extrakci cookies prohlížeče. Nejprve inline, s best-effort místním čtením. Bez nativních addonů Node, TypeScript, multiplatformní (macOS/Windows/Linux).
+  de: Browser-Cookie-Extraktionsbibliothek. Inline-first mit bestmöglichem lokalem Lesen. Keine nativen Node-Addons, TypeScript, plattformübergreifend (macOS/Windows/Linux).
+  es: Biblioteca de extracción de cookies del navegador. Prioriza el modo inline con lecturas locales best-effort. Sin addons nativos de Node, TypeScript, multiplataforma (macOS/Windows/Linux).
+  fr: Bibliothèque d'extraction de cookies de navigateur. Inline d'abord avec lectures locales au mieux. Aucun addon natif Node, TypeScript, multiplateforme (macOS/Windows/Linux).
+  id: Pustaka ekstraksi cookie peramban. Memprioritaskan inline dengan pembacaan lokal terbaik. Tanpa addon Node native, TypeScript, lintas platform (macOS/Windows/Linux).
+  it: Libreria di estrazione dei cookie del browser. Prima inline con letture locali best-effort. Nessun addon nativo di Node, TypeScript, multipiattaforma (macOS/Windows/Linux).
+  ja: ブラウザ cookie 抽出ライブラリ。inline 優先で、ローカル読み取りはベストエフォート。ネイティブ Node アドオン不要、TypeScript 実装、クロスプラットフォーム (macOS/Windows/Linux)。
+  ko: 브라우저 쿠키 추출 라이브러리. inline 우선이며 로컬 읽기는 최선으로 시도합니다. 네이티브 Node 애드온 없음, TypeScript, 크로스 플랫폼 (macOS/Windows/Linux).
+  pl: Biblioteka do ekstrakcji plików cookie z przeglądarki. Najpierw inline, z najlepszym możliwym odczytem lokalnym. Bez natywnych dodatków Node, TypeScript, wieloplatformowa (macOS/Windows/Linux).
+  pt: Biblioteca de extração de cookies do navegador. Prioriza o modo inline com leituras locais best-effort. Sem addons nativos do Node, TypeScript, multiplataforma (macOS/Windows/Linux).
+  ro: Bibliotecă pentru extragerea cookie-urilor din browser. Prioritate pentru modulul inline, cu citiri locale best-effort. Fără addon-uri native Node, TypeScript, multiplatformă (macOS/Windows/Linux).
+  ru: Библиотека для извлечения cookie из браузера. Сначала inline, с локальным чтением по возможности. Без нативных дополнений Node, TypeScript, кроссплатформенная (macOS/Windows/Linux).
+  th: ไลบรารีสกัดคุกกี้ของเบราว์เซอร์ เน้นการทำงานแบบ inline พร้อมอ่านข้อมูลในเครื่องแบบ best-effort ไม่ต้องใช้ Node addon แบบ native เขียนด้วย TypeScript ใช้ได้ข้ามแพลตฟอร์ม (macOS/Windows/Linux)
+  tr: Tarayıcı cookie çıkarma kitaplığı. Önce inline, yerel okumada best-effort. Yerel Node eklentisi yok, TypeScript, çok platformlu (macOS/Windows/Linux).
+  uk: Бібліотека для вилучення cookie з браузера. Спочатку inline, з локальним читанням за можливості. Без нативних доповнень Node, TypeScript, кроссплатформенна (macOS/Windows/Linux).
+  vi: Thư viện trích xuất cookie trình duyệt. Ưu tiên inline với khả năng đọc cục bộ tối đa. Không cần addon Node native, viết bằng TypeScript, đa nền tảng (macOS/Windows/Linux).
 rule:
   /npm:
     cmd: npm i -g @steipete/sweet-cookie

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Skaffold 是一种命令行工具，可促进基于容器的＆ Kubernetes 应用程序的连续开发
   en: Skaffold is a command line tool that facilitates continuous development for container based & Kubernetes applications
+  cs: Skaffold je nástroj příkazové řádky, který usnadňuje průběžný vývoj aplikací založených na kontejnerech a Kubernetes
+  de: Skaffold ist ein Kommandozeilenwerkzeug, das die kontinuierliche Entwicklung für containerbasierte und Kubernetes-Anwendungen erleichtert
+  es: Skaffold es una herramienta de línea de comandos que facilita el desarrollo continuo de aplicaciones basadas en contenedores y en Kubernetes
+  fr: Skaffold est un outil en ligne de commande qui facilite le développement continu des applications basées sur des conteneurs et Kubernetes
+  id: Skaffold adalah alat baris perintah yang memfasilitasi pengembangan berkelanjutan untuk aplikasi berbasis container dan Kubernetes
+  it: Skaffold è uno strumento da riga di comando che facilita lo sviluppo continuo per applicazioni basate su container e Kubernetes
+  ja: Skaffold は、コンテナおよび Kubernetes アプリケーションの継続的開発を容易にするコマンドラインツールです
+  ko: Skaffold는 컨테이너 기반 및 Kubernetes 애플리케이션의 지속적 개발을 지원하는 명령줄 도구입니다
+  pl: Skaffold to narzędzie wiersza poleceń ułatwiające ciągły rozwój aplikacji opartych na kontenerach i Kubernetes
+  pt: Skaffold é uma ferramenta de linha de comando que facilita o desenvolvimento contínuo de aplicações baseadas em contêineres e Kubernetes
+  ro: Skaffold este o instrument de linie de comandă care facilitează dezvoltarea continuă pentru aplicații bazate pe containere și Kubernetes
+  ru: Skaffold — инструмент командной строки, упрощающий непрерывную разработку контейнерных приложений и приложений на Kubernetes
+  th: Skaffold คือเครื่องมือบรรทัดคำสั่งที่ช่วยให้การพัฒนาอย่างต่อเนื่องสำหรับแอปพลิเคชันบนพื้นฐานคอนเทนเนอร์และ Kubernetes ง่ายขึ้น
+  tr: Skaffold, konteyner ve Kubernetes tabanlı uygulamalar için sürekli geliştirmeyi kolaylaştıran bir komut satırı aracıdır
+  uk: Skaffold — інструмент командного рядка, що спрощує безперервну розробку застосунків на основі контейнерів і Kubernetes
+  vi: Skaffold là công cụ dòng lệnh hỗ trợ phát triển liên tục cho các ứng dụng dựa trên container và Kubernetes
 x:
   source: https://github.com/GoogleContainerTools/skaffold
   eget: GoogleContainerTools/skaffold

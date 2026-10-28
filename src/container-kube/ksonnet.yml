@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个 CLI 支持的框架，可简化 Kubernetes 配置向多个集群的写入和部署
   en: A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters
+  cs: Rámec podporovaný CLI, který zjednodušuje zápis a nasazování konfigurací Kubernetes do více clusterů
+  de: Ein CLI-gestütztes Framework, das das Schreiben und Bereitstellen von Kubernetes-Konfigurationen in mehreren Clustern vereinfacht
+  es: Un framework compatível con CLI que simplifica la escritura y el despliegue de configuraciones de Kubernetes en varios clústeres
+  fr: Un framework compatible CLI qui simplifie l'écriture et le déploiement de configurations Kubernetes vers plusieurs clusters
+  id: Kerangka kerja yang didukung CLI yang menyederhanakan penulisan dan penerapan konfigurasi Kubernetes ke banyak klaster
+  it: Un framework supportato da CLI che semplifica la scrittura e la distribuzione di configurazioni Kubernetes su più cluster
+  ja: CLI に対応したフレームワークで、複数のクラスタへの Kubernetes 設定の書き込みとデプロイを簡素化します
+  ko: CLI를 지원하는 프레임워크로 여러 클러스터에 Kubernetes 구성을 쓰고 배포하는 과정을 단순화합니다
+  pl: Framework wspierany przez CLI, który upraszcza zapisywanie i wdrażanie konfiguracji Kubernetes w wielu klastrach
+  pt: Um framework compatível com CLI que simplifica a gravação e a implantação de configurações do Kubernetes em vários clusters
+  ro: Un framework acceptat de CLI care simplifică scrierea și implementarea configurațiilor Kubernetes în mai multe clustere
+  ru: Фреймворк с поддержкой CLI, упрощающий запись и развёртывание конфигураций Kubernetes в нескольких кластерах
+  th: เฟรมเวิร์กที่รองรับ CLI ซึ่งทำให้การเขียนและปรับใช้ค่า configuration ของ Kubernetes ไปยังหลายคลัสเตอร์ง่ายขึ้น
+  tr: Kubernetes yapılandırmalarının birden fazla kümeye yazılmasını ve dağıtılmasını kolaylaştıran CLI destekli bir çerçeve
+  uk: Фреймворк із підтримкою CLI, який спрощує запис і розгортання конфігурацій Kubernetes у кілько кластерах
+  vi: Khung hỗ trợ CLI giúp đơn giản hóa việc ghi và triển khai cấu hình Kubernetes đến nhiều cụm
 x:
   source: https://github.com/ksonnet/ksonnet
   eget: ksonnet/ksonnet

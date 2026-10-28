@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 配合 CLI Agent 使用的辅助工具，提供 diff、文件树、对话历史和 td 任务管理
   en: 'Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td'
+  cs: Používejte sidecar vedle CLI agentů pro diffy, stromy souborů, historii konverzací a správu úkolů pomocí td
+  de: Verwenden Sie sidecar neben CLI-Agenten für Diffs, Dateibäume, Gesprächsverlauf und Aufgabenverwaltung mit td
+  es: Usa sidecar junto a los agentes de CLI para diffs, árboles de archivos, historial de conversaciones y gestión de tareas con td
+  fr: Utilisez sidecar à côté des agents CLI pour les différences, les arborescences de fichiers, l'historique des conversations et la gestion des tâches avec td
+  id: Gunakan sidecar di samping agen CLI untuk diff, pohon berkas, riwayat percakapan, dan pengelolaan tugas dengan td
+  it: Usa sidecar accanto agli agenti CLI per diff, alberi di file, cronologia delle conversazioni e gestione delle attività con td
+  ja: sidecar を CLI エージェントと併用すると、差分、ファイルツリー、会話履歴、td によるタスク管理ができます。
+  ko: sidecar를 CLI 에이전트와 함께 사용하면 diff, 파일 트리, 대화 기록, td를 통한 작업 관리를 할 수 있습니다.
+  pl: Używaj sidecar obok agentów CLI do diffów, drzew plików, historii rozmów i zarządzania zadaniami przy użyciu td
+  pt: Use sidecar junto a agentes de CLI para diffs, árvores de arquivos, histórico de conversas e gerenciamento de tarefas com td
+  ro: Folosiți sidecar alături de agenții CLI pentru diferențe, arbori de fișiere, istoricul conversațiilor și gestionarea sarcinilor cu td
+  ru: Используйте sidecar рядом с CLI-агентами для diff, деревьев файлов, истории разговоров и управления задачами с помощью td
+  th: ใช้ sidecar คู่กับเอเจนต์ CLI เพื่อดูความต่าง โครงสร้างไฟล์ ประวัติการสนทนา และการจัดการงานด้วย td
+  tr: Diff, dosya ağaçları, konuşma geçmişi ve td ile görev yönetimi için sidecar'ı CLI ajanlarının yanında kullanın
+  uk: Використовуйте sidecar поруч з CLI-агентами для diff, дерев файлів, історії розмов і керування завданнями за допомогою td
+  vi: Dùng sidecar cùng các agent CLI cho diff, cây tệp, lịch sử hội thoại và quản lý tác vụ với td
 x:
   source: https://github.com/marcus/sidecar
   eget: marcus/sidecar

@@ -4,6 +4,22 @@ license: LGPL-3.0
 desc:
   cn: 可编译为 Bash 的编程语言
   en: Programming language that compiles to Bash
+  cs: Programovací jazyk, který se kompiluje do Bash
+  de: Programmiersprache, die zu Bash kompiliert wird
+  es: Lenguaje de programación que compila a Bash
+  fr: Langage de programmation qui se compile en Bash
+  id: Bahasa pemrograman yang dikompilasi menjadi Bash
+  it: Linguaggio di programmazione che compila in Bash
+  ja: Bash にコンパイルされるプログラミング言語
+  ko: Bash로 컴파일되는 프로그래밍 언어
+  pl: Język programowania kompilujący się do Bash
+  pt: Linguagem de programação que compila para Bash
+  ro: Limbaj de programare care se compilează în Bash
+  ru: Язык программирования, который компилируется в Bash
+  th: ภาษาโปรแกรมที่คอมไพล์เป็น Bash
+  tr: Bash derlenen bir programlama dili
+  uk: Мова програмування, яка компілюється в Bash
+  vi: Ngôn ngữ lập trình biên dịch thành Bash
 x:
   source: https://github.com/amber-lang/Amber
   eget: amber-lang/Amber

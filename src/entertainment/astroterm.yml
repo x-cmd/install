@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的天文馆:探索恒星、行星、星座等,无需望远镜
   en: 'A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐'
+  cs: Planetárium pro váš terminál! Prozkoumejte hvězdy, planety, souhvězdí a další, vše vykreslené přímo v příkazové řádce — žádný dalekohled potřeba není. ✨🪐
+  de: Ein Planetarium für dein Terminal! Erkunde Sterne, Planeten, Sternbilder und mehr – alles direkt in der Befehlszeile dargestellt, ganz ohne Teleskop. ✨🪐
+  es: ¡Un planetario para tu terminal! Explora estrellas, planetas, constelaciones y mucho más, todo renderizado directamente en la línea de comandos, sin necesidad de telescopio. ✨🪐
+  fr: Un planétarium pour votre terminal ! Explorez les étoiles, les planètes, les constellations et bien plus, le tout rendu directement dans la ligne de commande, sans télescope requis. ✨🪐
+  id: Planetarium untuk terminal Anda! Jelajahi bintang, planet, rasi bintang, dan lainnya, semuanya dirender langsung di baris perintah — tanpa teleskop. ✨🪐
+  it: Un planetario per il tuo terminale! Esplora stelle, pianeti, costellazioni e altro, tutto renderizzato direttamente nella riga di comando, senza bisogno di un telescopio. ✨🪐
+  ja: あなたのターミナルにプラネタリウム！ 星、惑星、星座など、直接コマンドラインで描画されます。望遠鏡は不要です。✨🪐
+  ko: 당신의 터미널을 위한 천체관! 별, 행성, 별자리 등을 탐색해 보세요. 모두 명령줄에 바로 렌더링되어 망원경이 필요 없습니다. ✨🪐
+  pl: Planetarium dla twojego terminala! Odkrywaj gwiazdy, planety, konstelacje i nie tylko — wszystko renderowane wprost w wierszu poleceń, bez potrzeby teleskopu. ✨🪐
+  pt: Um planetário para o seu terminal! Explore estrelas, planetas, constelações e muito mais, tudo renderizado diretamente na linha de comando — sem necessidade de telescópio. ✨🪐
+  ro: Un planetariu pentru terminalul tău! Explorează stele, planete, constelații și multe altele, toate randate direct în linia de comandă — fără telescop necesar. ✨🪐
+  ru: Планетарий в вашем терминале! Исследуйте звёзды, планеты, созвездия и многое другое — всё рисуется прямо в командной строке, без телескопа. ✨🪐
+  th: พลาเนตาเรียมสำหรับเทอร์มินัลของคุณ! สำรวจดาว ดาวเคราะห์ กลุ่มดาว และอื่น ๆ ทั้งหมดแสดงผลในบรรทัดคำสั่งโดยตรง ไม่ต้องใช้กล้องดูทางไกล ✨🪐
+  tr: Terminaliniz için bir gezegen evi! Yıldızları, gezegenleri, takımyıldızları ve fazlasını keşfedin; hepsi doğrudan komut satırında görüntülenir — teleskopa gerek yok. ✨🪐
+  uk: Планетарій у вашому терміналі! Досліджуйте зорі, планети, сузіртя та багато іншого — усе малюється просто в командному рядку, без телескопа. ✨🪐
+  vi: Một nhà thiên văn học cho terminal của bạn! Khám phá các ngôi sao, hành tinh, chòm sao và nhiều hơn nữa, tất cả được hiển thị ngay trong dòng lệnh — không cần kính viễn thông. ✨🪐
 x:
   source: https://github.com/da-luce/astroterm
   eget: da-luce/astroterm

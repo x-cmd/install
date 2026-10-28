@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 友好的 AI 界面，支持 Ollama、OpenAI API 等
   en: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+  cs: Uživatelsky přátelské rozhraní AI (podporuje Ollama, OpenAI API, ...)
+  de: Benutzerfreundliche KI-Oberfläche (unterstützt Ollama, OpenAI API, ...)
+  es: Interfaz de IA fácil de usar (admite Ollama, la API de OpenAI, ...)
+  fr: Interface IA conviviale (prend en charge Ollama, l'API OpenAI, ...)
+  id: Antarmuka AI yang ramah pengguna (mendukung Ollama, OpenAI API, ...)
+  it: Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...)
+  ja: 使いやすい AI インターフェース（Ollama、OpenAI API などに対応）
+  ko: 사용하기 쉬운 AI 인터페이스 (Ollama, OpenAI API 등 지원)
+  pl: Przyjazny użytkownikowi interfejs AI (obsługuje Ollama, OpenAI API, ...)
+  pt: Interface de IA amigável (suporta Ollama, API da OpenAI, ...)
+  ro: Interfață AI ușor de folosit (acceptă Ollama, OpenAI API, ...)
+  ru: Удобный интерфейс ИИ (поддерживает Ollama, OpenAI API, ...)
+  th: ส่วนติดต่อ AI ที่ใช้งานง่าย (รองรับ Ollama, OpenAI API เป็นต้น)
+  tr: Kullanıcı dostu yapay zeka arayüzü (Ollama, OpenAI API vb. destekler)
+  uk: Зручний інтерфейс ШІ (підтримує Ollama, OpenAI API тощо)
+  vi: Giao diện AI thân thiện (hỗ trợ Ollama, OpenAI API, ...)
 x:
   source: https://github.com/open-webui/open-webui
   pip: open-webui

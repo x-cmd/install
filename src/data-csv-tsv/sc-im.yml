@@ -3,6 +3,22 @@ homepage: https://github.com/andmarti1424/sc-im
 desc:
   cn: sc-im 是一个使用 ncurses 编写的终端电子表格程序。
   en: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal.
+  cs: sc-im - Zjednodušená tabulková kalkulačka -- ncurses tabulkový program pro terminál.
+  de: sc-im - improvisierte Tabellenkalkulation -- ein ncurses-Tabellenprogramm für das Terminal.
+  es: "sc-im: hoja de cálculo improvisada: un programa de hojas de cálculo con ncurses para el terminal."
+  fr: sc-im - tableur improvisé -- un tableur ncurses pour le terminal.
+  id: sc-im - Spreadsheet Calculator Improvised -- program spreadsheet berbasis ncurses untuk terminal.
+  it: sc-im - foglio di calcolo improvvisato -- un programma di fogli di calcolo basato su ncurses per il terminale.
+  ja: sc-im - 即興スプレッドシート計算機 -- 端末向けのncurses製スプレッドシートプログラム。
+  ko: sc-im - 즉석 스프레드시트 계산기 -- 터미널용 ncurses 스프레드시트 프로그램.
+  pl: sc-im - improwizowany arkusz kalkulacyjny -- program arkusza kalkulacyjnego oparty na ncurses dla terminala.
+  pt: sc-im - calculadora de tabelas improvisada -- um programa de planilhas baseado em ncurses para o terminal.
+  ro: sc-im - calculator de tabele improvizat -- un program de foi de calcul pentru terminal bazat pe ncurses.
+  ru: sc-im - импровизированная электронная таблица -- программа-таблица на ncurses для терминала.
+  th: sc-im - โปรแกรมตารางคำนวณแบบเรียบง่ายสำหรับเทอร์มินัลโดยใช้ ncurses
+  tr: sc-im - doğaçlama elektronik tablo -- terminal için ncurses tablo programı.
+  uk: sc-im - імпровізована електронна таблиця -- програма-таблиця на ncurses для термінала.
+  vi: sc-im - bảng tính tạm số - chương trình bảng tính ncurses dành cho terminal.
 x:
   source: https://github.com/andmarti1424/sc-im
   apt: sc-im

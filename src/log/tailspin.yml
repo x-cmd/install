@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 日志文件荧光笔
   en: A log file highlighter
+  cs: Zvýrazňovač souborů protokolů
+  de: Ein Log-Dateihighlighter
+  es: Un resaltador de archivos de registro
+  fr: Un surligneur de fichiers journaux
+  id: Penyorot berkas log
+  it: Un evidenziatore di file di log
+  ja: ログファイル用ハイライターです。
+  ko: 로그 파일 하이라이터입니다.
+  pl: Podświetlacz plików logów
+  pt: Um realçador de arquivos de log
+  ro: Un marker pentru fișierele de jurnal
+  ru: Подсветка синтаксиса для файлов журналов
+  th: เครื่องไฮไลต์ไฟล์บันทึก
+  tr: Bir günlük dosyası vurgulayıcısı
+  uk: Підсвічувач файлів журналів
+  vi: Trình tô sáng tệp nhật ký
 x:
   source: https://github.com/bensadeh/tailspin
   eget: bensadeh/tailspin

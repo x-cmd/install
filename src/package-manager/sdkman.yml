@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: SDKMAN 是在任何基于 Unix 的系统上管理多个软件开发工具包的并行版本的工具
   en: SDKMAN is a tool for managing parallel Versions of multiple Software Development Kits on any Unix based system
+  cs: SDKMAN je nástroj pro správu paralelních verzí více sad vývojářských nástrojů v jakémkoli systému založeném na Unixu
+  de: SDKMAN ist ein Werkzeug zur Verwaltung paralleler Versionen mehrerer Software Development Kits auf jedem Unix-basierten System
+  es: SDKMAN es una herramienta para gestionar versiones paralelas de múltiples Kits de Desarrollo de Software en cualquier sistema basado en Unix
+  fr: SDKMAN est un outil permettant de gérer des versions parallèles de plusieurs kits de développement logiciel sur tout système basé sur Unix
+  id: SDKMAN adalah alat untuk mengelola versi paralel dari beberapa Kits Pengembangan Perangkat Lunak pada sistem berbasis Unix apa pun
+  it: SDKMAN è uno strumento per gestire versioni parallele di molteplici Software Development Kit su qualsiasi sistema basato su Unix
+  ja: SDKMAN は、Unix ベースのシステム上で複数の Software Development Kit のバージョンを並行して管理するツールです
+  ko: SDKMAN은 Unix 기반 시스템에서 여러 Software Development Kit의 병렬 버전을 관리하는 도구입니다
+  pl: SDKMAN to narzędzie do zarządzania równoległymi wersjami wielu zestawów Software Development Kit w dowolnym systemie opartym na Unix
+  pt: SDKMAN é uma ferramenta para gerenciar versões paralelas de múltiplos Kits de Desenvolvimento de Software em qualquer sistema baseado em Unix
+  ro: SDKMAN este o unealtă pentru gestionarea versiunilor paralele ale mai multor Software Development Kit pe orice sistem bazat pe Unix
+  ru: SDKMAN — инструмент для управления параллельными версиями нескольких комплектов средств разработки в любой Unix-подобной системе
+  th: SDKMAN เป็นเครื่องมือสำหรับจัดการเวอร์ชันแบบขนานของ Software Development Kit หลายชุดบนระบบที่ใช้ Unix ใดก็ตาม
+  tr: SDKMAN, Unix tabanlı her sistemde birden fazla Software Development Kit'in paralel sürümlerini yönetmek için bir araçtır
+  uk: SDKMAN — інструмент для керування паралельними версіями кількох комплектів засобів розробки в будь-якій Unix-подібній системі
+  vi: SDKMAN là công cụ quản lý nhiều phiên bản song song của nhiều bộ Software Development Kit trên mọi hệ thống dựa trên Unix
 x:
   source: https://github.com/sdkman/sdkman-cli
   eget: sdkman/sdkman-cli

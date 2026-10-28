@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端文件管理器
   en: 'A terminal based file manager'
+  cs: Správce souborů založený na terminálu
+  de: Ein terminalbasierter Dateimanager
+  es: Un gestor de archivos basado en terminal
+  fr: Un gestionnaire de fichiers basé sur le terminal
+  id: Pengelola file berbasis terminal
+  it: Un gestore di file basato sul terminale
+  ja: ターミナルベースのファイルマネージャー
+  ko: 터미널 기반 파일 관리자
+  pl: Menedżer plików oparty na terminalu
+  pt: Um gerenciador de arquivos baseado em terminal
+  ro: Un manager de fișiere bazat pe terminal
+  ru: Терминальный файловый менеджер
+  th: ตัวจัดการไฟล์ที่ทำงานบนเทอร์มินัล
+  tr: Terminal tabanlı bir dosya yöneticisi
+  uk: Файловий менеджер на основі термінала
+  vi: Trình quản lý tệp dựa trên terminal
 x:
   source: https://github.com/mistakenelf/fm
   eget: mistakenelf/fm

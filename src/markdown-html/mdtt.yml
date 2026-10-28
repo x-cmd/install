@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于编辑 markdown 表格的 TUI
   en: A TUI for editing markdown tables
+  cs: TUI pro úpravu markdownových tabulek
+  de: Eine TUI zum Bearbeiten von Markdown-Tabellen
+  es: Una TUI para editar tablas markdown
+  fr: Une TUI pour éditer des tableaux markdown
+  id: TUI untuk mengedit tabel markdown
+  it: Una TUI per modificare le tabelle markdown
+  ja: Markdown テーブルを編集する TUI
+  ko: 마크다운 표를 편집하는 TUI
+  pl: TUI do edycji tabel markdown
+  pt: Uma TUI para editar tabelas markdown
+  ro: Un TUI pentru editarea tabelelor markdown
+  ru: TUI для редактирования markdown-таблиц
+  th: TUI สำหรับแก้ไขตาราง markdown
+  tr: Markdown tablolarını düzenlemek için bir TUI
+  uk: TUI для редагування markdown-таблиць
+  vi: Giao diện TUI để chỉnh sửa bảng markdown
 x:
   source: https://github.com/szktkfm/mdtt
   eget: szktkfm/mdtt

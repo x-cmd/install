@@ -3,6 +3,22 @@ homepage: https://github.com/raspberrypi/rpi-imager
 desc:
   cn: Raspberry Pi Imager 是一种将 Raspberry Pi 操作系统和其他操作系统安装到 microSD 卡上的快速简便方法，可随时与 Raspberry Pi 一起使用
   en: Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi
+  cs: Raspberry Pi Imager je rychlý a snadný způsob, jak nainstalovat Raspberry Pi OS a další operační systémy na microSD kartu připravenou k použití s Raspberry Pi
+  de: Raspberry Pi Imager ist der schnelle und einfache Weg, Raspberry Pi OS und andere Betriebssysteme auf eine microSD-Karte zu installieren, die sofort mit Ihrem Raspberry Pi einsatzbereit ist
+  es: Raspberry Pi Imager es la forma rápida y sencilla de instalar Raspberry Pi OS y otros sistemas operativos en una tarjeta microSD, lista para usar con tu Raspberry Pi
+  fr: Raspberry Pi Imager est le moyen rapide et simple d'installer Raspberry Pi OS et d'autres systèmes d'exploitation sur une carte microSD, prête à être utilisée avec votre Raspberry Pi
+  id: Raspberry Pi Imager adalah cara cepat dan mudah untuk memasang Raspberry Pi OS dan sistem operasi lain ke kartu microSD, siap digunakan dengan Raspberry Pi Anda
+  it: Raspberry Pi Imager è il modo rapido e semplice per installare Raspberry Pi OS e altri sistemi operativi su una scheda microSD, pronta per essere usata con il tuo Raspberry Pi
+  ja: Raspberry Pi Imager は、Raspberry Pi OS や他の OS を microSD カードにインストールしてすぐに使えるようにする、簡単かつ迅速な方法です
+  ko: Raspberry Pi Imager는 Raspberry Pi OS 및 다른 운영 체제를 microSD 카드에 설치하여 Raspberry Pi에서 바로 사용할 수 있도록 하는 빠르고 쉬운 방법입니다
+  pl: Raspberry Pi Imager to szybki i łatwy sposób na zainstalowanie Raspberry Pi OS i innych systemów operacyjnych na karcie microSD gotowej do użycia z Raspberry Pi
+  pt: O Raspberry Pi Imager é a forma rápida e fácil de instalar o Raspberry Pi OS e outros sistemas operacionais em um cartão microSD, pronto para usar com o seu Raspberry Pi
+  ro: Raspberry Pi Imager este modal rapid și ușor de a instala Raspberry Pi OS și alte sisteme de operare pe un card microSD, gata de utilizare cu Raspberry Pi-ul tău
+  ru: Raspberry Pi Imager — быстрый и простой способ установить Raspberry Pi OS и другие операционные системы на карту microSD, готовую к работе с Raspberry Pi
+  th: Raspberry Pi Imager คือวิธีที่รวดเร็วและง่ายดายในการติดตั้ง Raspberry Pi OS และระบบปฏิบัติการอื่นลงในการ์ด microSD พร้อมใช้งานกับ Raspberry Pi ของคุณ
+  tr: Raspberry Pi Imager, Raspberry Pi OS ve diğer işletim sistemlerini Raspberry Pi'nizle kullanıma hazır olacak şekilde bir microSD karta kurmanın hızlı ve kolay yoludur
+  uk: Raspberry Pi Imager — швидкий і простий спосіб встановити Raspberry Pi OS та інші операційні системи на картку microSD, готову до використання з Raspberry Pi
+  vi: Raspberry Pi Imager là cách nhanh và dễ dàng để cài Raspberry Pi OS và các hệ điều hành khác vào thẻ microSD, sẵn sàng dùng với Raspberry Pi của bạn
 x:
   source: https://github.com/raspberrypi/rpi-imager
   eget: raspberrypi/rpi-imager

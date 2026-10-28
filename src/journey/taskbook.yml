@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 命令行栖息地的任务、看板和注释
   en: Tasks, boards & notes for the command-line habitat
+  cs: Úkoly, nástěnky a poznámky pro příkazovou řádu
+  de: Aufgaben, Boards und Notizen für die Kommandozeile
+  es: Tareas, tableros y notas para la línea de comandos
+  fr: Tâches, tableaux et notes pour la ligne de commande
+  id: Tugas, papan, dan catatan untuk baris perintah
+  it: Attività, bacheche e note per la riga di comando
+  ja: コマンドライン環境のためのタスク、ボード、ノート
+  ko: 명령줄 환경을 위한 작업, 보드, 노트
+  pl: Zadania, tablice i notatki dla wiersza poleceń
+  pt: Tarefas, quadros e notas para a linha de comando
+  ro: Sarcini, tablouri și note pentru linia de comandă
+  ru: Задачи, доски и заметки для командной строки
+  th: งาน บอร์ด และบันทึกสำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için görevler, panolar ve notlar
+  uk: Завдання, дошки та нотатки для командного рядка
+  vi: Nhiệm vụ, bảng và ghi chú cho dòng lệnh
 x:
   source: https://github.com/klaussinani/taskbook
   snap: taskbook

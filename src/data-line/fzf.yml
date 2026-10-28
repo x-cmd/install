@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 通用命令行模糊查找器
   en: general-purpose command-line fuzzy finder
+  cs: Obecný fuzzy vyhledávač pro příkazovou řádku
+  de: Universeller unscharfer Suchfinder für die Kommandozeile
+  es: Buscador difuso de propósito general para la línea de comandos
+  fr: Rechercheur flou généraliste en ligne de commande
+  id: Pencari fuzzy serbaguna untuk baris perintah
+  it: Ricercatore fuzzy general-purpose da riga di comando
+  ja: 汎用的なコマンドライン用ファジーファインダー
+  ko: 범용 명령줄 퍼지 파인더
+  pl: Ogólnego przeznaczenia wyszukiwacz rozmyty dla wiersza poleceń
+  pt: Localizador difuso de uso geral para a linha de comando
+  ro: Căutător fuzzy de uz general pentru linia de comandă
+  ru: Универсальный нечёткий поисковик для командной строки
+  th: ตัวค้นหาแบบ fuzzy อเนกประสงค์สำหรับบรรทัดคำสั่ง
+  tr: Genel amaçlı komut satırı fuzzy bulucusu
+  uk: Універсальний нечіткий пошуковик для командного рядка
+  vi: Trình tìm fuzzy đa năng cho dòng lệnh
 x:
   source: https://github.com/junegunn/fzf
   eget: junegunn/fzf

@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 趣味性玩具国际象棋引擎,仅供娱乐
   en: 'A happy toy chess engine, just for fun :) If you want a proper chess engine, check out Stockfish.'
+  cs: Zábavný hračkový šachový engine, jen pro zábavu :) Pokud chcete pořádný šachový engine, podívejte se na Stockfish.
+  de: Ein fröhlicher Spielzeug-Schachengine, nur zum Spaß :) Wenn Sie eine richtige Schachengine wollen, schauen Sie sich Stockfish an.
+  es: Un motor de ajedrez de juguete divertido, solo por Diversión :) Si quieres un motor de ajedrez de verdad, echa un vistazo a Stockfish.
+  fr: Un moteur d'échecs jouet joyeux, juste pour le plaisir :) Si vous voulez un vrai moteur d'échecs, jetez un œil à Stockfish.
+  id: Mesin catur mainan yang menyenangkan, hanya untuk kesenangan :) Jika Anda ingin mesin catur yang serius, lihatlah Stockfish.
+  it: Un motore scacchistico giocattolo e allegro, solo per divertimento :) Se vuoi un vero motore di scacchi, dai un'occhiata a Stockfish.
+  ja: 楽しいおもちゃのチェスエンジン、(fun だけ) :) 本格的なチェスエンジンがほしいなら Stockfish を見てみましょう。
+  ko: 즐거운 장난감 체스 엔진, 그저 재미를 위한 :) 진짜 체스 엔진을 원한다면 Stockfish를 살펴보세요.
+  pl: Wesoła zabawkowa silnik szachowy, tylko dla zabawy :) Jeśli chcesz poważnego silnika szachowego, zajrzyj do Stockfish.
+  pt: Um motor de xadrez de brinquedo alegre, apenas por diversão :) Se quiser um motor de xadrez a sério, confira o Stockfish.
+  ro: O motor de șah de jucărie vesel, doar pentru distracție :) Dacă vrei un motor de șah serios, aruncă o privire la Stockfish.
+  ru: Весёлый игрушечный шахматный движок, просто для забавы :) Если нужен настоящий шахматный движок, посмотрите на Stockfish.
+  th: เอนจินหมากรุกของเล่นสนุก ๆ เพื่อความบันเทิงเท่านั้น :) ถ้าต้องการเอนจินหมากรุกที่จริงจัง ลองดู Stockfish ดู
+  tr: Sadece eğlence için neşeli bir oyuncak satranç motoru :) Gerçek bir satranç motoru istiyorsanız Stockfish'e göz atın.
+  uk: Веселий іграшковий шаховий рухій, просто для розваги :) Якщо потрібен справжній шаховий рухій, подивіться на Stockfish.
+  vi: Một engine cờ vui vẻ kiểu đồ chơi, chỉ để giải trí :) Nếu bạn cần engine cờ đúng đắn, hãy xem qua Stockfish.
 x:
   source: https://github.com/jart/chessy
   eget: jart/chessy

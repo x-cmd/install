@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 功能丰富的回收站 CLI 管理器，rm 与 trash-cli 的替代品
   en: 'A Featureful Trash CLI manager: alternative to rm and trash-cli'
+  cs: "Funkční správce koše CLI: alternativa k rm a trash-cli"
+  de: "Funktionsreicher CLI-Korb-Manager: eine Alternative zu rm und trash-cli"
+  es: "Gestor de papelera CLI con muchas funciones: alternativa a rm y trash-cli"
+  fr: "Gestionnaire de corbeille CLI complet : alternative à rm et trash-cli"
+  id: "Pengelola Sampah CLI lengkap: alternatif untuk rm dan trash-cli"
+  it: "Gestore del cestino CLI ricco di funzionalità: alternativa a rm e trash-cli"
+  ja: 高機能なCLIゴミ箱マネージャー。rmとtrash-cliの代替
+  ko: "기능이 풍부한 CLI 휴지통 관리자: rm 및 trash-cli의 대안"
+  pl: "Bogaty w funkcje menedżer kosza CLI: alternatywa dla rm i trash-cli"
+  pt: "Gerenciador de lixeira CLI completo: alternativa ao rm e ao trash-cli"
+  ro: "Manager coș CLI bogat în funcții: alternative la rm și trash-cli"
+  ru: "Функциональный CLI-менеджер корзины: альтернатива rm и trash-cli"
+  th: "ตัวจัดการถังขยะแบบ CLI ที่มีความสามารถครบถ้วน: ทางเลือกแทน rm และ trash-cli"
+  tr: "Özellik açısından zengin CLI çöp kutusu yöneticisi: rm ve trash-cli'ye alternatif"
+  uk: "Функціональний CLI-менеджер кошика: альтернатива rm та trash-cli"
+  vi: "Trình quản lý thùng rác CLI đầy đủ tính năng: thay thế cho rm và trash-cli"
 x:
   source: https://github.com/umlx5h/gtrash
   eget: umlx5h/gtrash

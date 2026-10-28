@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Digger is an open-source IaC automation and collaboration software for Terraform and OpenTofu
   cn: Digger 是用于 Terraform 和 OpenTofu 的开源 IaC 自动化和协作软件
+  cs: Digger je open-source automatizační a kolaborační software pro IaC pro Terraform a OpenTofu
+  de: Digger ist eine quelloffene IaC-Automatisierungs- und Zusammenarbeitssoftware für Terraform und OpenTofu
+  es: Digger es un software de automatización y colaboración de IaC de código abierto para Terraform y OpenTofu
+  fr: Digger est un logiciel libre d'automatisation et de collaboration IaC pour Terraform et OpenTofu
+  id: Digger adalah perangkat lunak otomatisasi dan kolaborasi IaC sumber terbuka untuk Terraform dan OpenTofu
+  it: Digger è un software open source di automazione e collaborazione IaC per Terraform e OpenTofu
+  ja: Digger は Terraform と OpenTofu のためのオープンソース IaC 自動化およびコラボレーションソフトウェアです
+  ko: Digger는 Terraform 및 OpenTofu를 위한 오픈소스 IaC 자동화 및 협업 소프트웨어입니다
+  pl: Digger to oprogramowanie open source do automatyzacji i współpracy IaC dla Terraform i OpenTofu
+  pt: Digger é um software de automação e colaboração de IaC de código aberto para Terraform e OpenTofu
+  ro: Digger este un software open source de automatizare și colaborare IaC pentru Terraform și OpenTofu
+  ru: Digger — программное обеспечение с открытым исходным кодом для автоматизации и совместной работы над IaC с Terraform и OpenTofu
+  th: Digger คือซอฟต์แวร์โอเพนซอร์สสำหรับการทำ IaC อัตโนมัติและการทำงานร่วมกันสำหรับ Terraform และ OpenTofu
+  tr: Digger, Terraform ve OpenTofu için açık kaynaklı IaC otomasyon ve işbirliği yazılımıdır
+  uk: Digger — програмне забезпечення з відкритим кодом для автоматизації та спільної роботи над IaC з Terraform і OpenTofu
+  vi: Digger là phần mềm tự động hóa và cộng tác IaC mã nguồn mở cho Terraform và OpenTofu
 x:
   source: https://github.com/diggerhq/digger
   eget: diggerhq/digger

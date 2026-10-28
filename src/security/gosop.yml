@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: GopenPGP 无状态 CLI
   en: Stateless CLI for GopenPGP
+  cs: Stateless CLI pro GopenPGP
+  de: Stateless CLI für GopenPGP
+  es: CLI sin estado para GopenPGP
+  fr: CLI sans état pour GopenPGP
+  id: CLI tanpa status untuk GopenPGP
+  it: CLI stateless per GopenPGP
+  ja: GopenPGP 向けのステートレス CLI
+  ko: GopenPGP용 무상태 CLI
+  pl: Bezstanowy CLI dla GopenPGP
+  pt: CLI sem estado para GopenPGP
+  ro: CLI fără stare pentru GopenPGP
+  ru: CLI без состояния для GopenPGP
+  th: CLI ไร้สถานะสำหรับ GopenPGP
+  tr: GopenPGP için durumsuz CLI
+  uk: CLI без стану для GopenPGP
+  vi: CLI không trạng thái cho GopenPGP
 x:
   source: https://github.com/ProtonMail/gosop
   eget: ProtonMail/gosop

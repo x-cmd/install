@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 列表，切换，添加，删除和更多的交互式操作来管理 KubeConfig
   en: List, switch, add, delete and more interactive operations to manage kubeconfig
+  cs: Seznam, přepínání, přidávání, mazání a další interaktivní operace pro správu kubeconfigu
+  de: Auflisten, Wechseln, Hinzufügen, Löschen und weitere interaktive Operationen zur Verwaltung der kubeconfig
+  es: Listar, cambiar, añadir, eliminar y más operaciones interactivas para gestionar kubeconfig
+  fr: Lister, changer, ajouter, supprimer et autres opérations interactives pour gérer kubeconfig
+  id: Daftar, berpindah, menambah, menghapus, dan operasi interaktif lainnya untuk mengelola kubeconfig
+  it: Elenca, cambia, aggiungi, elimina e altre operazioni interattive per gestire kubeconfig
+  ja: kubeconfig を管理するためのリスト、切り替え、追加、削除などのインタラクティブな操作
+  ko: kubeconfig 관리를 위한 목록, 전환, 추가, 삭제 및 기타 대화형 작업
+  pl: Listowanie, przełączanie, dodawanie, usuwanie i inne operacje interaktywne do zarządzania kubeconfig
+  pt: Listar, alternar, adicionar, excluir e outras operações interativas para gerenciar o kubeconfig
+  ro: Listare, comutare, adăugare, ștergere și alte operațiuni interactive pentru gestionarea kubeconfig
+  ru: Просмотр, переключение, добавление, удаление и другие интерактивные операции для управления kubeconfig
+  th: รายการ สลับ เพิ่ม ลบ และการดำเนินการแบบโต้ตอบอื่น ๆ เพื่อจัดการ kubeconfig
+  tr: kubeconfig yönetmek için listeleme, değiştirme, ekleme, silme ve diğer etkileşimli işlemler
+  uk: Перегляд, перемикання, додавання, видалення та інші інтерактивні операції для керування kubeconfig
+  vi: Liệt kê, chuyển đổi, thêm, xóa và các thao tác tương tác khác để quản lý kubeconfig
 x:
   source: https://github.com/sunny0826/kubecm
   eget: sunny0826/kubecm

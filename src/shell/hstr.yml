@@ -2,6 +2,22 @@ lang: C
 desc:
   cn: bash 和 zsh shell 历史记录建议框 轻松查看、导航、搜索和管理您的命令历史记录
   en: bash and zsh shell history suggestions box Easily view, navigate, search and manage your command history
+  cs: Pole se historie příkazů pro bash a zsh, snadné zobrazení, procházení, hledání a správa historie příkazů
+  de: Vorschlagsbox für die Befehlsverlaufshistorie von bash und zsh, mit der Historie einfach ansehen, navigieren, durchsuchen und verwalten
+  es: Cuadro de sugerencias del historial de comandos de bash y zsh para ver, navegar, buscar y gestionar fácilmente tu historial de comandos
+  fr: Boîte de suggestions de l'historique des commandes bash et zsh pour voir, parcourir, rechercher et gérer facilement votre historique de commandes
+  id: Kotak saran riwayat perintah bash dan zsh untuk mudah melihat, menavigasi, mencari, dan mengelola riwayat perintah Anda
+  it: Casella di suggerimenti della cronologia dei comandi bash e zsh per visualizzare, navigare, cercare e gestire facilmente la cronologia dei comandi
+  ja: bash と zsh のコマンド履歴の候補ボックス。コマンド履歴を簡単に閲覧、移動、検索、管理できます
+  ko: bash 및 zsh 명령 기록 제안 상자 — 명령 기록을 쉽게 보고, 탐색하고, 검색하며, 관리할 수 있습니다
+  pl: Pole podpowiedzi historii poleceń bash i zsh, ułatwiające przeglądanie, nawigację, wyszukiwanie i zarządzanie historią poleceń
+  pt: Caixa de sugestões do histórico de comandos do bash e zsh para visualizar, navegar, pesquisar e gerenciar seu histórico de comandos facilmente
+  ro: Casetă de sugestii pentru istoricul comenzilor bash și zsh, pentru a vedea, naviga, căuta și gestiona cu ușurință istoricul comenzilor
+  ru: Блок подсказок истории команд bash и zsh для удобного просмотра, навигации, поиска и управления историей команд
+  th: กล่องข้อเสนอประวัติคำสั่งของ bash และ zsh เพื่อดู เรียกดู ค้นหา และจัดการประวัติคำสั่งได้อย่างง่ายดาย
+  tr: bash ve zsh komut geçmişi için öneri kutusu; komut geçmişinizi kolayca görün, gezin, arayın ve yönetin
+  uk: Блок підказок історії команд bash і zsh для зручного перегляду, навігації, пошуку та керування історією команд
+  vi: Hộp gợi ý lịch sử lệnh bash và zsh, giúp bạn dễ dàng xem, duyệt, tìm kiếm và quản lý lịch sử lệnh
 homepage: https://github.com/dvorka/hstr
 license: Apache-2.0
 x:

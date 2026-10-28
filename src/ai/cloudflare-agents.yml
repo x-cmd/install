@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Cloudflare 官方的有状态 AI Agent SDK——基于 Durable Objects,支持持久状态、可调用 RPC、调度、WebSocket、MCP、工作流、语音、邮件与 React Hooks,空闲时休眠、按需唤醒。
   en: Build and deploy persistent, stateful AI agents on the Cloudflare network, with built-in support for state management, scheduling, workflows, and real-time communication.
+  cs: Sestavte a nasazujte trvalé stavové AI agenty v síti Cloudflare s vestavěnou podporou správy stavu, plánování, pracovních postupů a komunikace v reálném čase.
+  de: Erstelle und deploye persistente, zustandsbehaftete KI-Agenten im Cloudflare-Netzwerk, mit integrierter Unterstützung für Zustandsverwaltung, Zeitplanung, Workflows und Echtzeitkommunikation.
+  es: Crea y despliega agentes de IA persistentes y con estado en la red de Cloudflare, con soporte integrado para gestión de estado, programación, flujos de trabajo y comunicación en tiempo real.
+  fr: Créez et déployez des agents IA persistants et à état sur le réseau Cloudflare, avec prise en charge intégrée de la gestion d'état, de la planification, des workflows et de la communication en temps réel.
+  id: Bangun dan jalankan agen AI persisten dan berversi status di jaringan Cloudflare, dengan dukungan bawaan untuk manajemen status, penjadwalan, alur kerja, dan komunikasi real-time.
+  it: Crea e distribuisci agenti IA persistenti e con stato sulla rete Cloudflare, con supporto integrato per gestione dello stato, pianificazione, workflow e comunicazione in tempo reale.
+  ja: Cloudflare ネットワーク上で永続的かつステートフルな AI エージェントを構築・デプロイし、状態管理、スケジューリング、ワークフロー、リアルタイム通信を標準搭載しています。
+  ko: Cloudflare 네트워크에서 지속적이고 상태를 유지하는 AI 에이전트를 구축하고 배포하며, 상태 관리, 스케줄링, 워크플로, 실시간 통신을 기본으로 지원합니다.
+  pl: Twórz i wdrażaj trwałe, stanowe agenty AI w sieci Cloudflare, z wbudowaną obsługą zarządzania stanem, harmonogramowania, przepływów pracy i komunikacji w czasie rzeczywistym.
+  pt: Crie e implmente agentes de IA persistentes e com estado na rede Cloudflare, com suporte embutido para gerenciamento de estado, agendamento, fluxos de trabalho e comunicação em tempo real.
+  ro: Creează și implementează agenți AI persistenți, cu stare, în rețeaua Cloudflare, cu suport integrat pentru gestionarea stării, programare, fluxuri de lucru și comunicare în timp real.
+  ru: Создавайте и развёртывайте постоянные AI-агенты с состоянием в сети Cloudflare, со встроенной поддержкой управления состоянием, планирования, рабочих процессов и обмена данными в реальном времени.
+  th: สร้างและประกาศใช้งาน AI เอเจนต์แบบถาวรและมีสถานะบนเครือข่าย Cloudflare พร้อมการรองรับในตัวสำหรับการจัดการสถานะ การตั้งเวลา เวิร์กโฟลว์ และการสื่อสารแบบเรียลไทม์
+  tr: Cloudflare ağında kalıcı ve durumlu AI ajanları oluşturun ve dağıtın; durum yönetimi, zamanlama, iş akışları ve gerçek zamanlı iletişim için yerleşik destek sunar.
+  uk: Створюйте та розгортайте постійні агенти ШІ зі станом у мережі Cloudflare, із вбудованою підтримкою керування станом, планування, робочих процесів і спілкування в реальному часі.
+  vi: Xây dựng và triển khai các tác nhân AI bền vững, có trạng thái trên mạng Cloudflare, với hỗ trợ tích hợp cho quản lý trạng thái, lập lịch, quy trình công việc và giao tiếp thời gian thực.
 x:
   source: https://github.com/cloudflare/agents
 rule:

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 管理 GitHub Gist 的 TUI
   en: 'A terminal UI for managing GitHub Gists'
+  cs: Terminálové UI pro správu GitHub Gistů
+  de: Eine Terminal-UI zur Verwaltung von GitHub Gists
+  es: Una interfaz de terminal para gestionar GitHub Gists
+  fr: Une interface terminal pour gérer les GitHub Gists
+  id: UI terminal untuk mengelola GitHub Gist
+  it: Un'interfaccia a terminale per gestire i GitHub Gist
+  ja: GitHub Gist を管理するターミナル UI
+  ko: GitHub Gist를 관리하는 터미널 UI
+  pl: Terminalowy interfejs do zarządzania GitHub Gistami
+  pt: Uma interface de terminal para gerenciar GitHub Gists
+  ro: O interfață de terminal pentru gestionarea GitHub Gist-uri
+  ru: Терминальный интерфейс для управления GitHub Gist
+  th: UI เทอร์มินัลสำหรับจัดการ GitHub Gist
+  tr: GitHub Gist'lerini yönetmek için terminal arayüzü
+  uk: Термінальний інтерфейс для керування GitHub Gist
+  vi: Giao diện terminal để quản lý GitHub Gist
 x:
   source: https://github.com/akunzai/gistui
   eget: akunzai/gistui

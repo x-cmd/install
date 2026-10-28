@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 可视化构建 AI Agent
   en: Build AI Agents, Visually
+  cs: Tvorba AI agentů vizuálně
+  de: KI-Agenten visuell erstellen
+  es: Crea agentes de IA visualmente
+  fr: Créez des agents IA visuellement
+  id: Bangun Agen AI secara visual
+  it: Crea agenti AI in modo visuale
+  ja: AIエージェントをビジュアルで構築
+  ko: AI 에이전트를 시각적으로 구축
+  pl: Twórz agentów AI wizualnie
+  pt: Crie agentes de IA visualmente
+  ro: Construiește agenți AI vizual
+  ru: Создавайте ИИ-агентов визуально
+  th: สร้างเอเจนต์ AI แบบภาพ
+  tr: AI ajanlarını görsel olarak oluşturun
+  uk: Створюйте ІІ-агентів візуально
+  vi: Xây dựng tác nhân AI một cách trực quan
 x:
   source: https://github.com/FlowiseAI/Flowise
   npm: flowise

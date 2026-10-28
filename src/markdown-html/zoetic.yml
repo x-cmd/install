@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用网络摄像头进行 Markdown 演示
   en: Markdown presentations using your webcam
+  cs: Prezentace v markdownu pomocí vaší webkamery
+  de: Markdown-Präsentationen mit Ihrer Webcam
+  es: Presentaciones en markdown usando tu webcam
+  fr: Présentations markdown utilisant votre webcam
+  id: Presentasi markdown menggunakan webcam Anda
+  it: Presentazioni markdown usando la tua webcam
+  ja: ウェブカメラを使った Markdown プレゼンテーション
+  ko: 웹캠을 사용하는 markdown 프레젠테이션
+  pl: Prezentacje markdown z użyciem kamery internetowej
+  pt: Apresentações em markdown usando sua webcam
+  ro: Prezentări markdown folosind camera ta web
+  ru: Презентации в markdown с использованием веб-камеры
+  th: งานนำเสนอแบบ markdown โดยใช้เว็บแคมของคุณ
+  tr: Web kameranızı kullanarak markdown sunumları
+  uk: Презентації у markdown із використанням вебкамери
+  vi: Bài thuyết trình markdown bằng webcam của bạn
 x:
   source: https://github.com/kantord/zoetic
 rule:

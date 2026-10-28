@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: csvkit 是一套命令行工具，用于转换和使用 CSV（“表格文件格式之王”）
   en: csvkit is a suite of command-line tools for converting to and working with CSV ("The king of tabular file formats")
+  cs: csvkit je sada nástrojů příkazové řádky pro převod na CSV a práci s CSV ("král tabulkových formátů")
+  de: csvkit ist eine Sammlung von Befehlszeilenwerkzeugen zur Konvertierung nach CSV und zum Arbeiten mit CSV ("der König der tabellarischen Dateiformate")
+  es: csvkit es un conjunto de herramientas de línea de comandos para convertir a CSV y trabajar con CSV ("el rey de los formatos de archivo tabulares")
+  fr: csvkit est une suite d'outils en ligne de commande pour convertir vers CSV et travailler avec CSV ("le roi des formats de fichiers tabulaires")
+  id: csvkit adalah rangkaian alat baris perintah untuk mengonversi ke CSV dan bekerja dengan CSV ("raja format file tabel")
+  it: csvkit è una suite di strumenti da riga di comando per convertire in CSV e lavorare con CSV ("il re dei formati di file tabellari")
+  ja: csvkit は CSV への変換と CSV の操作のためのコマンドラインツール群です（「表形式ファイル形式の王」）
+  ko: csvkit는 CSV로 변환하고 CSV를 다루기 위한 명령줄 도구 모음입니다("표 형식 파일 형식의 왕")
+  pl: csvkit to zestaw narzędzi wiersza poleceń do konwersji do CSV i pracy z CSV ("król formatów plików tabelarycznych")
+  pt: csvkit é um conjunto de ferramentas de linha de comando para converter para CSV e trabalhar com CSV ("O rei dos formatos de arquivo tabulares")
+  ro: csvkit este o suită de instrumente de linie de comandă pentru conversie în CSV și lucrul cu CSV ("regele formatelor de fișiere tabelare")
+  ru: csvkit — набор инструментов командной строки для преобразования в CSV и работы с CSV («король табличных форматов файлов»)
+  th: csvkit คือชุดเครื่องมือบรรทัดคำสั่งสำหรับแปลงเป็น CSV และทำงานกับ CSV ("ราชาแห่งรูปแบบไฟล์แบบตาราง")
+  tr: csvkit, CSV'ye dönüştürmek ve CSV ile çalışmak için bir dizi komut satırı aracıdır ("tabular dosya biçimlerinin kralı")
+  uk: csvkit — набір інструментів командного рядка для перетворення в CSV та роботи з CSV («король табличних форматів файлів»)
+  vi: csvkit là bộ công cụ dòng lệnh để chuyển đổi sang CSV và làm việc với CSV ("vua của các định dạng tệp bảng")
 x:
   source: https://github.com/wireservice/csvkit
   yay: csvkit-git

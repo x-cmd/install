@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: A pacman wrapper with additional features, such as AUR support
   cn: 一个带有额外功能的 pacman 包装器，例如 AUR 支持
+  cs: Wrapper pro pacman s dalšími funkcemi, jako je podpora AUR
+  de: Ein Wrapper für pacman mit zusätzlichen Funktionen, etwa AUR-Unterstützung
+  es: Un envoltorio de pacman con funciones adicionales, como el soporte de AUR
+  fr: Un wrapper de pacman avec des fonctionnalités supplémentaires, comme la prise en charge de l'AUR
+  id: Pembungkus pacman dengan fitur tambahan, seperti dukungan AUR
+  it: Un wrapper di pacman con funzionalità aggiuntive, come il supporto AUR
+  ja: AUR サポートなどの追加機能を備えた pacman のラッパーです
+  ko: AUR 지원과 같은 추가 기능을 갖춘 pacman 래퍼
+  pl: Opakowanie pacman z dodatkowymi funkcjami, takimi jak obsługa AUR
+  pt: Um wrapper do pacman com recursos adicionais, como suporte ao AUR
+  ro: Un wrapper pentru pacman cu funcții suplimentare, precum suportul AUR
+  ru: Обёртка pacman с дополнительными возможностями, например поддержкой AUR
+  th: ตัวห่อหุ้ม pacman ที่มีความสามารถเพิ่มเติม เช่น การรองรับ AUR
+  tr: AUR desteği gibi ek özelliklere sahip bir pacman sarmalayıcısı
+  uk: Обгортка pacman з додатковими можливостями, наприклад підтримкою AUR
+  vi: Trình bọc pacman với các tính năng bổ sung, như hỗ trợ AUR
 x:
   source: https://github.com/zqqw/pakku
   pacman: git

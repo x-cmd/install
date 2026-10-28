@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: doggo 是一个用 Golang 编写的现代命令行 DNS 客户端
   en: doggo is a modern command-line DNS client (like dig) written in Golang
+  cs: doggo je moderní DNS klient pro příkazovou řádku (jako dig) napsaný v Golang
+  de: doggo ist ein moderner DNS-Client für die Kommandozeile (wie dig), geschrieben in Golang
+  es: doggo es un cliente DNS moderno de línea de comandos (como dig) escrito en Golang
+  fr: doggo est un client DNS moderne en ligne de commande (comme dig) écrit en Golang
+  id: doggo adalah klien DNS modern untuk baris perintah (seperti dig) yang ditulis dengan Golang
+  it: doggo è un client DNS moderno da riga di comando (come dig) scritto in Golang
+  ja: doggo は Golang で書かれた現代的なコマンドライン DNS クライアント（dig 風）です
+  ko: doggo는 Golang으로 작성된 현대적인 명령줄 DNS 클라이언트(dig와 유사)입니다
+  pl: doggo to nowoczesny klient DNS dla wiersza poleceń (podobny do dig), napisany w Golang
+  pt: doggo é um cliente DNS moderno de linha de comando (como dig) escrito em Golang
+  ro: doggo este un client DNS modern de linie de comand (ca dig) scris în Golang
+  ru: doggo — современный консольный DNS-клиент (как dig), написанный на Golang
+  th: doggo คือไคลเอนต์ DNS สมัยใหม่สำหรับบรรทัดคำสั่ง (คล้าย dig) ที่เขียนด้วย Golang
+  tr: doggo, Golang ile yazılmış modern bir komut satırı DNS istemcisidir (dig gibi)
+  uk: doggo — сучасний консольний DNS-клієнт (як dig), написаний на Golang
+  vi: doggo là ứng dụng DNS hiện đại cho dòng lệnh (như dig) được viết bằng Golang
 x:
   source: https://github.com/mr-karan/doggo
   eget: mr-karan/doggo

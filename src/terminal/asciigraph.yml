@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: 在命令行应用程序中制作轻量级 ASCII 线图╭┈╯，无需其他依赖项
   en: Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies
+  cs: Go balíček pro tvorbu lehkých ASCII grafů ╭┈╯ v aplikacích příkazové řádky bez dalších závislostí
+  de: Go-Paket zum Erstellen leichter ASCII-Liniendiagramme ╭┈╯ in Kommandozeilen-Anwendungen ohne weitere Abhängigkeiten
+  es: Paquete de Go para crear gráficos de líneas ASCII ╭┈╯ ligeros en aplicaciones de línea de comandos sin otras dependencias
+  fr: Paquet Go permettant de créer des graphiques en lignes ASCII ╭┈╯ légers dans des applications en ligne de commande, sans aucune autre dépendance
+  id: Paket Go untuk membuat grafik garis ASCII ╭┈╯ yang ringan di aplikasi baris perintah tanpa dependensi lain
+  it: Pacchetto Go per creare grafici a linee ASCII ╭┈╯ leggeri nelle applicazioni da riga di comando senza altre dipendenze
+  ja: 他の依存関係なしでコマンドラインアプリに軽量な ASCII 折れ線グラフ ╭┈╯ を作成できる Go パッケージ
+  ko: 다른 의존성 없이 명령줄 앱에 가벼운 ASCII 선 그래프 ╭┈╯를 만드는 Go 패키지
+  pl: Pakiet Go do tworzenia lekkich wykresów liniowych ASCII ╭┈╯ w aplikacjach wiersza poleceń bez innych zależności
+  pt: Pacote Go para criar gráficos de linhas ASCII ╭┈╯ leves em aplicativos de linha de comando sem outras dependências
+  ro: Pachet Go pentru crearea de grafice de linii ASCII ╭┈╯ ușoare în aplicațiile din linia de comandă, fără alte dependențe
+  ru: Go-пакет для создания лёгких линейных графиков ASCII ╭┈╯ в консольных приложениях без других зависимостей
+  th: แพ็กเกจ Go สำหรับสร้างกราฟเส้น ASCII ╭┈╯ ที่เบาบนแอปพลิเคชันบรรทัดคำสั่ง โดยไม่ต้องมีการพึ่งพาอื่น
+  tr: Ek bağımlılık olmadan komut satırı uygulamalarında hafif ASCII çizgi grafikleri ╭┈╯ oluşturan Go paketi
+  uk: Go-пакет для створення легких лінійних графіків ASCII ╭┈╯ у консольних застосунках без інших залежностей
+  vi: Gói Go để tạo biểu đồ đường ASCII ╭┈╯ nhẹ trong các ứng dụng dòng lệnh mà không cần phụ thuộc khác
 x:
   source: https://github.com/guptarohit/asciigraph
 rule:

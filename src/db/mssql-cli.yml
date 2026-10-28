@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: SQL Server 命令行客户端，具有自动补全和语法突出显示功能
   en: A command-line client for SQL Server with auto-completion and syntax highlighting
+  cs: Klient příkazové řádky pro SQL Server s automatickým doplňováním a zvýrazňováním syntaxe
+  de: Ein Kommandozeilen-Client für SQL Server mit Autovervollständigung und Syntaxhervorhebung
+  es: Un cliente de línea de comandos para SQL Server con autocompletado y resaltado de sintaxis
+  fr: Un client en ligne de commande pour SQL Server avec complétion automatique et coloration syntaxique
+  id: Klien baris perintah untuk SQL Server dengan pelengkapan otomatis dan penyorotan sintaks
+  it: Un client da riga di comando per SQL Server con completamento automatico ed evidenziazione della sintassi
+  ja: SQL Server 用のコマンドラインクライアント。自動補完と構文ハイライトに対応。
+  ko: 자동 완성과 구문 강조 표시를 지원하는 SQL Server용 명령줄 클라이언트
+  pl: Klient wiersza poleceń dla SQL Server z automatycznym uzupełnianiem i podświetlaniem składni
+  pt: Um cliente de linha de comando para o SQL Server com preenchimento automático e realce de sintaxe
+  ro: Un client de linie de comandă pentru SQL Server cu completare automată și evidențierea sintaxei
+  ru: Командный клиент для SQL Server с автодополнением и подсветкой синтаксиса
+  th: ไคลเอนต์บรรทัดคำสั่งสำหรับ SQL Server พร้อมการเติมคำอัตโนมัติและการเน้นไวยากรณ์
+  tr: SQL Server için otomatik tamamlama ve sözdizimi vurgulama özellikli bir komut satırı istemcisi
+  uk: Командний клієнт для SQL Server з автозавершенням і підсвічуванням синтаксису
+  vi: Client dòng lệnh cho SQL Server với tính năng tự động hoàn thành và tô sáng cú pháp
 x:
   source: https://github.com/dbcli/mssql-cli
   apt: mssql-cli

@@ -3,6 +3,22 @@ homepage: https://github.com/fcitx/fcitx5
 desc:
   cn: 小企鹅输入法是一个支持扩展的输入法框架
   en: Fcitx is an input method framework with extension support
+  cs: Fcitx je framework metody zadávání vstupu s podporou rozšíření
+  de: Fcitx ist ein Eingabemethoden-Framework mit Unterstützung für Erweiterungen
+  es: Fcitx es un framework de métodos de entrada compatible con extensiones
+  fr: Fcitx est un framework de méthode de saisie avec prise en charge des extensions
+  id: Fcitx adalah framework metode input dengan dukungan ekstensi
+  it: Fcitx è un framework per metodi di input con supporto per le estensioni
+  ja: Fcitx は拡張機能をサポートする入力メソッドフレームワークです
+  ko: Fcitx는 확장 기능을 지원하는 입력 방식 프레임워크입니다
+  pl: Fcitx to framework metod wprowadzania z obsługą rozszerzeń
+  pt: O Fcitx é um framework de método de entrada com suporte a extensões
+  ro: Fcitx este un cadru pentru metode de introducere cu suport pentru extensii
+  ru: Fcitx — фреймворк метода ввода с поддержкой расширений
+  th: Fcitx คือเฟรมเวิร์กวิธีการป้อนข้อมูลที่รองรับส่วนขยาย
+  tr: Fcitx, eklenti desteğine sahip bir giriş yöntemi çerçevesidir
+  uk: Fcitx — фреймворк методу введення з підтримкою розширень
+  vi: Fcitx là khung phương thức nhập có hỗ trợ tiện ích mở rộng
 x:
   source: https://github.com/fcitx/fcitx5
   apt: fcitx5

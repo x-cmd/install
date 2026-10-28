@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于列出系统 USB 总线和设备的跨平台 CLI 工具
   en: A cross-platform CLI tool designed to list system USB buses and devices.
+  cs: Nástroj CLI napříč platformami pro výpis systémových sběrnic USB a zařízení.
+  de: Ein plattformübergreifendes CLI-Tool zum Auflisten von USB-Bussen und -Geräten des Systems.
+  es: Una herramienta CLI multiplataforma para listar los buses y dispositivos USB del sistema.
+  fr: Un outil CLI multiplateforme conçu pour lister les bus et périphériques USB du système.
+  id: Alat CLI lintas platforma untuk mencantumkan bus dan perangkat USB sistem.
+  it: Uno strumento CLI multipiattaforma progettato per elencare i bus e i dispositivi USB di sistema.
+  ja: システムのUSBバスとデバイスを一覧表示するクロスプラットフォームなCLIツール。
+  ko: 시스템 USB 버스와 장치를 나열하도록 설계된 크로스 플랫폼 CLI 도구.
+  pl: Narzędzie CLI działające na różnych platformach, służące do wyświetlania magistral USB i urządzeń systemu.
+  pt: Uma ferramenta CLI multiplataforma projetada para listar os barramentos e dispositivos USB do sistema.
+  ro: Un instrument CLI multiplatformă conceput pentru a lista autobuzele și dispozitivele USB ale sistemului.
+  ru: Кроссплатформенный CLI-инструмент для вывода списка системных шин USB и устройств.
+  th: เครื่องมือ CLI แบบข้ามแพลตฟอร์มสำหรับแสดงรายการบัส USB และอุปกรณ์ของระบบ
+  tr: Sistem USB veri yollarını ve aygıtlarını listelemek için tasarlanmış platformlar arası CLI aracı.
+  uk: Кроссплатформний CLI-інструмент для виведення списку системних шин USB і пристроїв.
+  vi: Công cụ CLI đa nền tảng dùng để liệt kê các bus USB và thiết bị của hệ thống.
 x:
   source: https://github.com/tuna-f1sh/cyme
   brew: cyme

@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 灵感来自 Obsidian 的 TUI 笔记管理应用
   en: 'TUI note management app inspired by Obsidian'
+  cs: TUI aplikace pro správu poznámek inspirovaná Obsidianem
+  de: TUI-Notizverwaltungs-App, inspiriert von Obsidian
+  es: Aplicación TUI de gestión de notas inspirada en Obsidian
+  fr: Application TUI de gestion de notes inspirée d'Obsidian
+  id: Aplikasi manajemen catatan TUI yang terinspirasi Obsidian
+  it: App TUI per la gestione delle note ispirata a Obsidian
+  ja: Obsidianから着想を得たTUIノート管理アプリ
+  ko: Obsidian에서 영감을 받은 TUI 노트 관리 앱
+  pl: Aplikacja TUI do zarządzania notatkami inspirowana Obsidianem
+  pt: Aplicativo TUI de gerenciamento de notas inspirado no Obsidian
+  ro: Aplicație TUI pentru gestionarea notițelor inspirată de Obsidian
+  ru: TUI-приложение для управления заметками, вдохновлённое Obsidian
+  th: แอปจัดการโน้ตแบบ TUI ที่ได้แรงบันดาลใจจาก Obsidian
+  tr: Obsidian'dan esinlenen TUI not yönetim uygulaması
+  uk: TUI-застосунок для керування нотатками, натхненний Obsidian
+  vi: Ứng dụng quản lý ghi chú TUI lấy cảm hứng từ Obsidian
 x:
   source: https://github.com/reekta92/clin-rs
   eget: reekta92/clin-rs

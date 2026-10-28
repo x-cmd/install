@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 浏览器 MCP 服务器，让 AI 应用可以控制你的浏览器
   en: Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+  cs: Browser MCP je server Model Context Provider (MCP), který umožňuje aplikacím AI ovládat váš prohlížeč
+  de: Browser MCP ist ein Model Context Provider (MCP)-Server, mit dem KI-Anwendungen Ihren Browser steuern können
+  es: Browser MCP es un servidor Model Context Provider (MCP) que permite a las aplicaciones de IA controlar tu navegador
+  fr: Browser MCP est un serveur Model Context Provider (MCP) qui permet aux applications IA de contrôler votre navigateur
+  id: Browser MCP adalah server Model Context Provider (MCP) yang memungkinkan aplikasi AI mengendalikan browser Anda
+  it: Browser MCP è un server Model Context Provider (MCP) che consente alle applicazioni IA di controllare il tuo browser
+  ja: Browser MCP は、AI アプリケーションがブラウザを制御できるようにする Model Context Provider (MCP) サーバーです。
+  ko: Browser MCP는 AI 애플리케이션이 사용자의 브라우저를 제어할 수 있게 하는 Model Context Provider (MCP) 서버입니다.
+  pl: Browser MCP to serwer Model Context Provider (MCP), który umożliwia aplikacjom AI sterowanie Twoją przeglądarką
+  pt: O Browser MCP é um servidor Model Context Provider (MCP) que permite que aplicativos de IA controlem seu navegador
+  ro: Browser MCP este un server Model Context Provider (MCP) care permite aplicațiilor AI să vă controleze browserul
+  ru: Browser MCP — это сервер Model Context Provider (MCP), позволяющий приложениям ИИ управлять вашим браузером
+  th: Browser MCP คือเซิร์ฟเวอร์ Model Context Provider (MCP) ที่ให้แอปพลิเคชัน AI ควบคุมเบราว์เซอร์ของคุณได้
+  tr: Browser MCP, yapay zeka uygulamalarının tarayıcınızı kontrol etmesini sağlayan bir Model Context Provider (MCP) sunucusudur
+  uk: Browser MCP — це сервер Model Context Provider (MCP), який дозволяє застосункам ШІ керувати вашим браузером
+  vi: Browser MCP là máy chủ Model Context Provider (MCP) cho phép các ứng dụng AI điều khiển trình duyệt của bạn
 x:
   source: https://github.com/BrowserMCP/mcp
   npm: "@browsermcp/mcp"

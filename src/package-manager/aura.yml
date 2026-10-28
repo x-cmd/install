@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Aura 是 Arch Linux 的软件包管理器
   en: Aura is a package manager for Arch Linux
+  cs: Aura je správce balíčků pro Arch Linux
+  de: Aura ist ein Paketmanager für Arch Linux
+  es: Aura es un gestor de paquetes para Arch Linux
+  fr: Aura est un gestionnaire de paquets pour Arch Linux
+  id: Aura adalah pengelola paket untuk Arch Linux
+  it: Aura è un gestore di pacchetti per Arch Linux
+  ja: Aura は Arch Linux のパッケージマネージャーです
+  ko: Aura는 Arch Linux용 패키지 관리자입니다
+  pl: Aura to menedżer pakietów dla Arch Linux
+  pt: Aura é um gerenciador de pacotes para o Arch Linux
+  ro: Aura este un manager de pachete pentru Arch Linux
+  ru: Aura — менеджер пакетов для Arch Linux
+  th: Aura คือตัวจัดการแพ็กเกจสำหรับ Arch Linux
+  tr: Aura, Arch Linux için bir paket yöneticisidir
+  uk: Aura — менеджер пакетів для Arch Linux
+  vi: Aura là trình quản lý gói cho Arch Linux
 x:
   source: https://github.com/fosskers/aura
   yay: aura

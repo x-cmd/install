@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个开源工具，可将对象存储转换为类似 Git 的存储库
   en: an open-source tool that transforms your object storage into a Git-like repository.
+  cs: open-source nástroj, který přeměňuje vaše úložiště objektů do repozitáře podobného Gitu.
+  de: ein Open-Source-Werkzeug, das Ihren Object Storage in ein Git-ähnliches Repository verwandelt.
+  es: una herramienta de código abierto que transforma su almacenamiento de objetos en un repositorio similar a Git.
+  fr: un outil open source qui transforme votre stockage d'objets en un dépôt similaire à Git.
+  id: alat sumber terbuka yang mengubah penyimpanan objek Anda menjadi repositori mirip Git.
+  it: uno strumento open source che trasforma il tuo object storage in un repository simile a Git.
+  ja: オブジェクトストレージを Git のようなリポジトリに変換するオープンソースツール。.
+  ko: 객체 저장소를 Git과 유사한 저장소로 변환하는 오픈 소스 도구.
+  pl: otwartoźródłowe narzędzie, które zamienia magazyn obiektów w repozytorium podobne do Gita.
+  pt: uma ferramenta de código aberto que transforma seu armazenamento de objetos em um repositório semelhante ao Git.
+  ro: un instrument open source care transformă stocarea obiectelor într-un depozit asemănător cu Git.
+  ru: инструмент с открытым исходным кодом, превращающий объектное хранилище в репозиторий, подобный Git.
+  th: เครื่องมือโอเพนซอร์สที่เปลี่ยนที่เก็บข้อมูลอ็อบเจกต์ของคุณให้เป็นคลังข้อมูลที่คล้าย Git.
+  tr: nesne depolamanızı Git benzeri bir depoya dönüştüren açık kaynaklı bir araç.
+  uk: інструмент з відкритим кодом, який перетворює об'єктне сховище на репозиторій, подібний до Git.
+  vi: công cụ mã nguồn mở biến kho lưu trữ đối tượng của bạn thành kho lưu trữ tương tự Git.
 x:
   source: https://github.com/treeverse/lakeFS
   eget: treeverse/lakeFS

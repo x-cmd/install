@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: NextTrace - 开源可视化路线跟踪 CLI 工具
   en: NextTrace, an open source visual route tracking CLI tool
+  cs: NextTrace, open source CLI nástroj pro vizuální trasování tras
+  de: NextTrace, ein quelloffenes CLI-Werkzeug zur visuellen Routenverfolgung
+  es: NextTrace, una herramienta CLI de código abierto para el seguimiento visual de rutas
+  fr: NextTrace, un outil CLI open source de suivi visuel des routes
+  id: NextTrace, alat CLI sumber terbuka untuk pelacakan rute visual
+  it: NextTrace, uno strumento CLI open source per il tracciamento visuale delle rotte
+  ja: NextTrace、可視化ルート追跡を行うオープンソースの CLI ツール
+  ko: NextTrace, 시각적 경로 추적을 위한 오픈 소스 CLI 도구
+  pl: NextTrace, otwartoźródłowe narzędzie CLI do wizualnego śledzenia tras
+  pt: NextTrace, uma ferramenta CLI de código aberto para rastreamento visual de rotas
+  ro: NextTrace, un instrument CLI open source pentru urmărirea vizuală a rutelor
+  ru: NextTrace — CLI-инструмент с открытым исходным кодом для визуального отслеживания маршрутов
+  th: NextTrace เครื่องมือ CLI โอเพนซอร์สสำหรับติดตามเส้นทางแบบภาพ
+  tr: NextTrace, görsel rota izleme için açık kaynaklı bir CLI aracı
+  uk: NextTrace — CLI-інструмент з відкритим кодом для візуального відстеження маршрутів
+  vi: NextTrace, công cụ CLI mã nguồn mở để theo dõi tuyến đường trực quan
 x:
   source: https://github.com/nxtrace/NTrace-core
   eget: nxtrace/NTrace-core

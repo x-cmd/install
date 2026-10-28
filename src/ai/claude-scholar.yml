@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 面向学术研究与软件开发的半自动化研究助手，支持 Claude Code、Codex CLI、Kimi Code CLI、OpenCode，覆盖创意、编码、实验、写作与发表
   en: Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and pub...
+  cs: Poloautomatizovaný výzkumný asistent pro akademický výzkum a vývoj softwaru. Podporuje Claude Code, Codex CLI, Kimi Code CLI a OpenCode při brainstormingu, kódování, experimentech, psaní a publikování.
+  de: Halbautomatisierter Forschungassistent für akademische Forschung und Softwareentwicklung. Unterstützt Claude Code, Codex CLI, Kimi Code CLI und OpenCode bei Ideenfindung, Programmierung, Experimenten, Schreiben und Veröffentlichung.
+  es: Asistente de investigación semiautomático para investigación académica y desarrollo de software. Compatible con Claude Code, Codex CLI, Kimi Code CLI y OpenCode en ideación, programación, experimentos, redacción y publicación.
+  fr: Assistant de recherche semi-automatique pour la recherche universitaire et le développement logiciel. Prend en charge Claude Code, Codex CLI, Kimi Code CLI et OpenCode pour l'idéation, le codage, les expériences, la rédaction et la publication.
+  id: Asisten riset semi-otomatis untuk riset akademik dan pengembangan perangkat lunak. Mendukung Claude Code, Codex CLI, Kimi Code CLI, dan OpenCode dalam brainstorming, pengodean, eksperimen, penulisan, dan publikasi.
+  it: Assistente di ricerca semi-automatico per la ricerca accademica e lo sviluppo software. Supporta Claude Code, Codex CLI, Kimi Code CLI e OpenCode tra ideazione, programmazione, esperimenti, scrittura e pubblicazione.
+  ja: 学術研究と软件开发のための半自動研究アシスタント。アイデア出し、コーディング、実験、執筆、出版の各段階で Claude Code、Codex CLI、Kimi Code CLI、OpenCode に対応しています。
+  ko: 학술 연구와 소프트웨어 개발을 위한 반자동 연구 어시스턴트로, 아이디어 도출부터 코딩, 실험, 집필, 출판까지 Claude Code, Codex CLI, Kimi Code CLI, OpenCode를 지원합니다.
+  pl: Półautomatyczny asystent badań do badań naukowych i rozwoju oprogramowania. Wspiera Claude Code, Codex CLI, Kimi Code CLI i OpenCode w burzy mózgów, programowaniu, eksperymentach, pisaniu i publikowaniu.
+  pt: Assistente de pesquisa semi-automático para pesquisa acadêmica e desenvolvimento de software. Suporta Claude Code, Codex CLI, Kimi Code CLI e OpenCode em ideação, programação, experimentos, escrita e publicação.
+  ro: Asistent de cercetare semi-automat pentru cercetare academică și dezvoltare de software. Acceptă Claude Code, Codex CLI, Kimi Code CLI și OpenCode la brainstorming, programare, experimente, scriere și publicare.
+  ru: Полуавтоматический исследовательский ассистент для академических исследований и разработки ПО. Поддерживает Claude Code, Codex CLI, Kimi Code CLI и OpenCode на этапах генерации идей, кодирования, экспериментов, написания и публикации.
+  th: ผู้ช่วยวิจัยแบบกึ่งอัตโนมัติสำหรับงานวิจัยเชิงวิชาการและการพัฒนาซอฟต์แวร์ รองรับ Claude Code, Codex CLI, Kimi Code CLI และ OpenCode ตั้งแต่การคิดไอเดีย การเขียนโค้ด การทดลอง การเขียนบทความ ไปจนถึงการตีพิมพ์
+  tr: Akademik araştırma ve yazılım geliştirme için yarı otomatik araştırma asistanı. Fikir üretme, kodlama, deney, yazma ve yayınlama aşamalarında Claude Code, Codex CLI, Kimi Code CLI ve OpenCode desteği sunar.
+  uk: Напівавтоматичний дослідницький асистент для академічних досліджень і розробки ПЗ. Підтримує Claude Code, Codex CLI, Kimi Code CLI та OpenCode на етапах генерації ідей, кодування, експериментів, написання та публікації.
+  vi: Trợ lý nghiên cứu bán tự động cho nghiên cứu học thuật và phát triển phần mềm. Hỗ trợ Claude Code, Codex CLI, Kimi Code CLI và OpenCode trong các giai đoạn ý tưởng, lập trình, thử nghiệm, viết và xuất bản.
 x:
   source: https://github.com/Galaxy-Dawn/claude-scholar
   eget: Galaxy-Dawn/claude-scholar

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 受 monkeytype 启发、注重自定义的 TUI 打字训练器（开发中）
   en: 'A WIP TUI typing trainer inspired by monkeytype with a focus on customization'
+  cs: TUI trénink psaní na klávesnici ve fázi vývoje, inspirovaný monkeytype a zaměřený na přizpůsobení
+  de: Ein TUI-Tastentrainer in Entwicklung, inspiriert von monkeytype und mit Fokus auf Anpassbarkeit
+  es: Un entrenador de escritura TUI en desarrollo, inspirado en monkeytype y con enfoque en la personalización
+  fr: Un entraîneur de frappe TUI en cours de développement, inspiré de monkeytype et axé sur la personnalisation
+  id: Pelatih mengetik TUI yang masih dikembangkan, terinspirasi monkeytype dengan fokus pada kustomisasi
+  it: Un trainer di digitazione TUI in sviluppo, ispirato a monkeytype e con un focus sulla personalizzazione
+  ja: monkeytype に着想し、カスタ_mucustomization_を重視した開発中の TUI タイピングトレーナー
+  ko: monkeytype에서 영감을 받아 커스터마이징에 중점을 둔 개발 중인 TUI 타이핑 트레이너
+  pl: Trener pisania na klawiaturze TUI w trakcie opracowywania, inspirowany monkeytype i nastawiony na dostosowywanie
+  pt: Um treinador de digitação TUI em desenvolvimento, inspirado no monkeytype e com foco em personalização
+  ro: Antrenor TUI de tastare în dezvoltare, inspirat din monkeytype și cu accent pe personalizare
+  ru: TUI-тренажёр набора текста в разработке, вдохновлённый monkeytype и с фокусом на настройку
+  th: ตัวฝึกพิมพ์แบบ TUI ที่กำลังพัฒนา ได้แรงบันดาลใจจาก monkeytype โดยเน้นการปรับแต่ง
+  tr: monkeytype'tan esinlenen ve özelleştirmeye odaklanan, geliştirme aşamasındaki bir TUI yazma eğitimidir
+  uk: TUI-тренажер набору тексту в розробці, натхненний monkeytype та з акцентом на налаштування
+  vi: Trình luyện gõ TUI đang phát triển, lấy cảm hứng từ monkeytype và tập trung vào tùy chỉnh
 x:
   source: https://github.com/mahlquistj/octotype
   eget: mahlquistj/octotype

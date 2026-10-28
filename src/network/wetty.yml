@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: WeTTY（ Web + TTY）是通过 http/https 在浏览器中进行终端访问的命令行工具
   en: WeTTY = Web + TTY. Terminal access in browser over http/https
+  cs: WeTTY = Web + TTY. Přístup k terminálu v prohlížeči přes http/https
+  de: WeTTY = Web + TTY. Terminalzugriff im Browser über http/https
+  es: WeTTY = Web + TTY. Acceso a terminal en el navegador a través de http/https
+  fr: WeTTY = Web + TTY. Accès au terminal dans le navigateur via http/https
+  id: WeTTY = Web + TTY. Akses terminal di browser melalui http/https
+  it: WeTTY = Web + TTY. Accesso al terminale nel browser tramite http/https
+  ja: WeTTY = Web + TTY。http/https 経由でブラウザからターミナルにアクセス。
+  ko: WeTTY = Web + TTY. http/https를 통해 브라우저에서 터미널 접근
+  pl: WeTTY = Web + TTY. Dostęp do terminala w przeglądarce przez http/https
+  pt: WeTTY = Web + TTY. Acesso ao terminal no navegador por http/https
+  ro: WeTTY = Web + TTY. Acces la terminal în browser prin http/https
+  ru: WeTTY = Web + TTY. Доступ к терминалу в браузере по http/https
+  th: WeTTY = Web + TTY. เข้าถึงเทอร์มินัลในเบราว์เซอร์ผ่าน http/https
+  tr: WeTTY = Web + TTY. http/https üzerinden tarayıcıda terminal erişimi
+  uk: WeTTY = Web + TTY. Доступ до терміналу у браузері через http/https
+  vi: WeTTY = Web + TTY. Truy cập terminal trong trình duyệt qua http/https
 x:
   source: https://github.com/butlerx/wetty
 rule:

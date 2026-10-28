@@ -3,6 +3,22 @@ homepage: https://github.com/taylorwilsdon/netshow
 desc:
   cn: 轻量高性能的交互式网络连接监控器，显示友好的服务名
   en: Lightweight, performant interactive network connection monitor with friendly service names
+  cs: Lehký a výkonný interaktivní monitor síťových připojení s přátelskými názvy služeb
+  de: Leichtgewichtiger, leistungsstarker interaktiver Monitor für Netzwerkverbindungen mit lesbaren Dienstnamen
+  es: Monitor interactivo ligero y eficaz de conexiones de red con nombres de servicio amigables
+  fr: Moniteur interactif léger et performant des connexions réseau avec des noms de services lisibles
+  id: Monitor koneksi jaringan interaktif yang ringan dan andal dengan nama layanan yang ramah
+  it: Monitor interattivo leggero e prestante delle connessioni di rete con nomi di servizio leggibili
+  ja: サービス名が分かりやすい軽量で高速な対話型ネットワーク接続モニター
+  ko: 친숙한 서비스 이름을 보여주는 가볍고 빠른 대화형 네트워크 연결 모니터
+  pl: Lekki i wydajny interaktywny monitor połączeń sieciowych z czytelnymi nazwami usług
+  pt: Monitor interativo leve e rápido de conexões de rede com nomes de serviços amigáveis
+  ro: Monitor interactiv ușor și performant al conexiunilor de rețea cu nume de servicii prietenoase
+  ru: Лёгкий и быстрый интерактивный монитор сетевых подключений с понятными именами сервисов
+  th: มอนิเตอร์การเชื่อมต่อเครือข่ายแบบโต้ตอบที่เบามากและมีประสิทธิภาพ พร้อมชื่อบริการที่อ่านง่าย
+  tr: Okunabilir servis adlarıyla hafif ve performanslı etkileşimli ağ bağlantısı izleyicisi
+  uk: Легкий і швидкий інтерактивний монітор мережевих з'єднань з зрозумілими назвами сервісів
+  vi: Trình giám sát kết nối mạng tương tác nhẹ và nhanh với tên dịch vụ thân thiện
 x:
   source: https://github.com/taylorwilsdon/netshow
   eget: taylorwilsdon/netshow

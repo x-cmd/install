@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个管理 Kubernetes 本地应用程序的开源工具包，称为 Operators，以一种有效的自动化方式
   en: An open source toolkit to manage Kubernetes native applications, called Operators, in an effective, automated
+  cs: Open-source nástrojový balíček pro správu nativních aplikací Kubernetes, tzv. Operators, efektivním a automatizovaným způsobem
+  de: Ein Open-Source-Toolkit zum effektiven, automatisierten Verwalten nativer Kubernetes-Anwendungen, sogenannter Operators
+  es: Un kit de herramientas de código abierto para gestionar de forma eficaz y automatizada las aplicaciones nativas de Kubernetes, denominadas Operators
+  fr: Une boîte à outils open source pour gérer de manière efficace et automatisée les applications natives Kubernetes, appelées Operators
+  id: Toolkit sumber terbuka untuk mengelola aplikasi native Kubernetes, disebut Operators, secara efektif dan otomatis
+  it: Un toolkit open source per gestire in modo efficace e automatizzato le applicazioni native Kubernetes, dette Operators
+  ja: Kubernetes ネイティブアプリケーション (Operators) を効率的かつ自動化された方法で管理するオープンソースのツールキットです
+  ko: Kubernetes 네이티브 애플리케이션인 Operators를 효과적이고 자동화된 방식으로 관리하는 오픈 소스 툴킷
+  pl: Zestaw narzędzi open source do efektywnego i zautomatyzowanego zarządzania natywnymi aplikacjami Kubernetes, zwanymi Operators
+  pt: Um kit de ferramentas de código aberto para gerenciar de forma eficaz e automatizada os aplicativos nativos do Kubernetes, chamados Operators
+  ro: Un toolkit open source pentru gestionarea eficientă și automatizată a aplicațiilor native Kubernetes, numite Operators
+  ru: Открытый набор инструментов для эффективного и автоматизированного управления нативными приложениями Kubernetes, называемыми Operators
+  th: ชุดเครื่องมือโอเพนซอร์สสำหรับจัดการแอปพลิเคชันแบบเนทีฟของ Kubernetes ที่เรียกว่า Operators อย่างมีประสิทธิภาพและเป็นอัตโนมัติ
+  tr: Operator olarak adlandırılan Kubernetes yerel uygulamalarını etkili ve otomatik bir şekilde yönetmek için açık kaynaklı bir araç seti
+  uk: Відкритий набір інструментів для ефективного та автоматизованого керування нативними застосунками Kubernetes, які називаються Operators
+  vi: Bộ công cụ mã nguồn mở để quản lý hiệu quả và tự động các ứng dụng native của Kubernetes, được gọi là Operators
 x:
   source: https://github.com/operator-framework/operator-sdk
   eget: operator-framework/operator-sdk

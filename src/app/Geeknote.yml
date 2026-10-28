@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Geeknote 是 Evernote 的命令行客户端，可以在 Linux、 FreeBSD 和 OSX 上使用
   en: Geeknote is a command line client for Evernote that can be use on Linux, FreeBSD and OS X
+  cs: Geeknote je příkazový klient pro Evernote, který lze používat na Linuxu, FreeBSD a OS X
+  de: Geeknote ist ein Kommandozeilen-Client für Evernote, der unter Linux, FreeBSD und OS X verwendet werden kann
+  es: Geeknote es un cliente de línea de comandos para Evernote que se puede usar en Linux, FreeBSD y OS X
+  fr: Geeknote est un client en ligne de commande pour Evernote, utilisable sous Linux, FreeBSD et OS X
+  id: Geeknote adalah klien baris perintah untuk Evernote yang dapat digunakan di Linux, FreeBSD, dan OS X
+  it: Geeknote è un client a riga di comando per Evernote utilizzabile su Linux, FreeBSD e OS X
+  ja: Geeknote は Evernote のコマンドラインクライアントで、Linux、FreeBSD、OS X で使用できます
+  ko: Geeknote는 Evernote의 명령줄 클라이언트로 Linux, FreeBSD, OS X에서 사용할 수 있습니다
+  pl: Geeknote to klient wiersza poleceń dla Evernote, który można używać w systemach Linux, FreeBSD i OS X
+  pt: Geeknote é um cliente de linha de comando para o Evernote que pode ser usado no Linux, FreeBSD e OS X
+  ro: Geeknote este un client de linie de comandă pentru Evernote, care poate fi folosit pe Linux, FreeBSD și OS X
+  ru: Geeknote — консольный клиент для Evernote, который можно использовать в Linux, FreeBSD и OS X
+  th: Geeknote คือไคลเอนต์บรรทัดคำสั่งสำหรับ Evernote ที่ใช้งานได้บน Linux, FreeBSD และ OS X
+  tr: Geeknote, Linux, FreeBSD ve OS X üzerinde kullanılabilen Evernote için bir komut satırı istemcisidir
+  uk: Geeknote — консольний клієнт для Evernote, який можна використовувати в Linux, FreeBSD та OS X
+  vi: Geeknote là trình khách dòng lệnh cho Evernote, có thể dùng trên Linux, FreeBSD và OS X
 x:
   source: https://github.com/jeffkowalski/geeknote
   yay: geeknote

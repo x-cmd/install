@@ -3,6 +3,22 @@ homepage: https://github.com/borgbackup/borg
 desc:
   cn: 'BorgBackup (简称: Borg)是一个去重复的备份程序。它可以选择支持压缩和认证加密'
   en: 'BorgBackup (short: Borg) is a deduplicating backup program. Optionally, it supports compression and authenticated encryption'
+  cs: BorgBackup (zkráceně Borg) je program pro zálohování s deduplikací. Volitelně podporuje kompresi a autentizované šifrování
+  de: "BorgBackup (kurz: Borg) ist ein deduplizierendes Backup-Programm. Optional unterstützt es Komprimierung und authentifizierte Verschlüsselung"
+  es: "BorgBackup (abrev: Borg) es un programa de copia de seguridad con deduplicación. Opcionalmente admite compresión y cifrado autenticado"
+  fr: "BorgBackup (en bref : Borg) est un programme de sauvegarde dédupliquante. Il prend en charge la compression et le chiffrement authentifié en option"
+  id: "BorgBackup (singkat: Borg) adalah program cadangan dengan deduplikasi. Secara opsional, ini mendukung kompresi dan enkripsi ter autentikasi"
+  it: "BorgBackup (in breve: Borg) è un programma di backup con deduplicazione. Facoltativamente supporta compressione e crittografia autenticata"
+  ja: "BorgBackup (略称: Borg) は重複排除型のバックアッププログラムです。任意で圧縮と認証済み暗号化に対応しています"
+  ko: BorgBackup(줄여서 Borg)는 중복 제거 백업 프로그램입니다. 선택적으로 압축과 인증된 암호화를 지원합니다
+  pl: "BorgBackup (w skrócie: Borg) to program do tworzenia kopii zapasowych z deduplikacją. Opcjonalnie obsługuje kompresję i szyfrowanie uwierzytelnione"
+  pt: "BorgBackup (abreviado: Borg) é um programa de backup com desduplicação. Opcionalmente, oferece suporte a compactação e criptografia autenticada"
+  ro: "BorgBackup (scurt: Borg) este un program de backup cu deduplicare. Opțional, acceptă compresie și criptare autentificată"
+  ru: BorgBackup (сокр. Borg) — это программа резервного копирования с дедупликацией. При желании поддерживает сжатие и аутентифицированное шифрование
+  th: "BorgBackup (ย่อ: Borg) คือโปรแกรมสำรองข้อมูลแบบลดข้อมูลซ้ำ รองรับการบีบอัดและการเข้ารหัสแบบยืนยันตัวตนได้เป็นตัวเลือก"
+  tr: "BorgBackup (kısaca: Borg), tekilleştirme yapan bir yedekleme programıdır. İsteğe bağlı olarak sıkıştırma ve kimlik doğrulamalı şifrelemeyi destekler"
+  uk: "BorgBackup (скорочено: Borg) — це програма резервного копіювання з дедуплікацією. За бажанням підтримує стиснення та автентифіковане шифрування"
+  vi: "BorgBackup (viết tắt: Borg) là chương trình sao lưu có khử trùng lặp. Tùy chọn, nó hỗ trợ nén và mã hóa có xác thực"
 x:
   source: https://github.com/borgbackup/borg
   eget: borgbackup/borg

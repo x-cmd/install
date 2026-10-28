@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 计算代码行数，对许多编程语言中的空白行、注释行和源代码的物理行进行计数
   en: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+  cs: cloc počítá prázdné řádky, řádky s komentářem a fyzické řádky zdrojového kódu v mnoha programovacích jazycích.
+  de: cloc zählt Leerzeilen, Kommentarzeilen und physische Zeilen des Quellcodes in vielen Programmiersprachen.
+  es: cloc cuenta las líneas en blanco, las líneas de comentario y las líneas físicas de código fuente en muchos lenguajes de programación.
+  fr: cloc compte les lignes vides, les lignes de commentaire et les lignes physiques de code source dans de nombreux langages de programmation.
+  id: cloc menghitung baris kosong, baris komentar, dan baris fisik kode sumber dalam banyak bahasa pemrograman.
+  it: cloc conta le righe vuote, le righe di commento e le righe fisiche del codice sorgente in molti linguaggi di programmazione.
+  ja: cloc は多くのプログラミング言語で、空行、コメント行、ソースコードの物理行を数えます。
+  ko: cloc은 여러 프로그래밍 언어에서 빈 줄, 주석 줄, 소스 코드의 실제 줄 수를 셉니다.
+  pl: cloc zlicza puste linie, linie komentarzy i fizyczne linie kodu źródłowego w wielu językach programowania.
+  pt: cloc conta linhas em branco, linhas de comentário e linhas físicas de código-fonte em muitas linguagens de programação.
+  ro: cloc numără liniile goale, liniile de comentarii și liniile fizice de cod sursă în multe limbaje de programare.
+  ru: cloc подсчитывает пустые строки, строки с комментариями и физические строки исходного кода на многих языках программирования.
+  th: cloc นับบรรทัดว่าง บรรทัดคอมเมนต์ และบรรทัดจริงของซอร์สโค้ดในภาษาโปรแกรมมิ่งหลายภาษา
+  tr: cloc, birçok programlama dilinde boş satırları, yorum satırlarını ve kaynak kodun fiziksel satırlarını sayar.
+  uk: cloc підраховує порожні рядки, рядки з коментарями та фізичні рядки вихідного коду в багатьох мовах програмування.
+  vi: cloc đếm các dòng trống, dòng chú thích và dòng vật lý của mã nguồn trong nhiều ngôn ngữ lập trình.
 x:
   source: https://github.com/AlDanial/cloc
   eget: AlDanial/cloc

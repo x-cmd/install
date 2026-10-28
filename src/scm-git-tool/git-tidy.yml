@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 整理陈旧的 git 分支
   en: Tidy up stale git branches
+  cs: Uklidí zastarované git větve
+  de: Räumt veraltete Git-Branches auf
+  es: Ordena las ramas de git obsoletas
+  fr: Range les branches git obsolètes
+  id: Merapikan cabang git yang lama
+  it: Riorganizza i rami git obsoleti
+  ja: 古い git ブランチを整理する
+  ko: 오래된 git 브랜치를 정리합니다
+  pl: Porządkuje nieaktualne gałęzie git
+  pt: Organiza as ramas git obsoletas
+  ro: Curăță ramurile git învechite
+  ru: Приводит в порядок устаревшие ветки git
+  th: จัดระเบียบสาขา git ที่ล้าสมัย
+  tr: Eski git dallarını düzenler
+  uk: Прибирає застарілі гілки git
+  vi: Dọn dẹp các nhánh git cũ
 x:
   source: https://github.com/drewwyatt/git-tidy
   eget: drewwyatt/git-tidy

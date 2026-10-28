@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 管理 .env 文件的 TUI
   en: 'TUI for managing .env files'
+  cs: TUI pro správu souborů .env
+  de: TUI zur Verwaltung von .env-Dateien
+  es: TUI para gestionar archivos .env
+  fr: TUI pour gérer les fichiers .env
+  id: TUI untuk mengelola berkas .env
+  it: TUI per gestire i file .env
+  ja: .env ファイルを管理するための TUI
+  ko: .env 파일을 관리하기 위한 TUI
+  pl: TUI do zarządzania plikami .env
+  pt: TUI para gerenciar arquivos .env
+  ro: TUI pentru gestionarea fișierelor .env
+  ru: TUI для управления файлами .env
+  th: TUI สำหรับจัดการไฟล์ .env
+  tr: .env dosyalarını yönetmek için TUI
+  uk: TUI для керування файлами .env
+  vi: TUI để quản lý tệp .env
 x:
   source: https://github.com/lazynop/lazyenv
   eget: lazynop/lazyenv

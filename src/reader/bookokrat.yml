@@ -4,6 +4,22 @@ license: AGPL-3.0-or-later
 desc:
   cn: 终端里的电子书阅读器，支持 EPUB、PDF 与 DJVU
   en: Terminal e-book reader for EPUB, PDF and DJVU.
+  cs: Čtečka elektronických knih v terminálu pro EPUB, PDF a DJVU.
+  de: E-Book-Reader im Terminal für EPUB, PDF und DJVU.
+  es: Lector de libros electrónicos de terminal para EPUB, PDF y DJVU.
+  fr: Lecteur de livres numériques en terminal pour EPUB, PDF et DJVU.
+  id: Pembaca buku elektronik terminal untuk EPUB, PDF, dan DJVU.
+  it: Lettore di e-book da terminale per EPUB, PDF e DJVU.
+  ja: EPUB、PDF、DJVU に対応したターミナル向け電子書籍リーダー。
+  ko: EPUB, PDF, DJVU를 지원하는 터미널 전자책 리더입니다.
+  pl: Terminalowy czytnik e-booków dla EPUB, PDF i DJVU.
+  pt: Leitor de livros eletrônicos de terminal para EPUB, PDF e DJVU.
+  ro: Cititor de cărți electronice pentru terminal, cu suport pentru EPUB, PDF și DJVU.
+  ru: Терминальный читалка электронных книг для EPUB, PDF и DJVU.
+  th: โปรแกรมอ่านหนังสืออิเล็กทรอนิกส์ในเทอร์มินัล รองรับ EPUB, PDF และ DJVU
+  tr: EPUB, PDF ve DJVU için terminal e-kitap okuyucu.
+  uk: Термінальний читач електронних книг для EPUB, PDF та DJVU.
+  vi: Trình đọc sách điện tử trên terminal hỗ trợ EPUB, PDF và DJVU
 x:
   source: https://github.com/bugzmanov/bookokrat
   eget: bugzmanov/bookokrat

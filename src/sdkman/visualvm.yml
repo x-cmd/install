@@ -3,6 +3,22 @@ homepage: https://github.com/oracle/visualvm
 desc:
   cn: VisualVM 是集成命令行 JDK 工具和轻量级分析功能的可视化工具
   en: VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities
+  cs: VisualVM je vizuální nástroj, který integruje nástroje JDK pro příkazovou řádku a lehké funkce profilování
+  de: VisualVM ist ein visuelles Werkzeug, das JDK-Befehlszeilenwerkzeuge und leichtgewichtige Profiling-Funktionen vereint
+  es: VisualVM es una herramienta visual que integra utilidades de línea de comandos de JDK y capacidades ligeras de perfilado
+  fr: VisualVM est un outil visuel qui intègre les outils en ligne de commande du JDK et des capacités de profilage légères
+  id: VisualVM adalah alat visual yang mengintegrasikan alat baris perintah JDK dan kemampuan profiling ringan
+  it: VisualVM è uno strumento visuale che integra gli strumenti da riga di comando del JDK e funzionalità di profilazione leggere
+  ja: VisualVM は JDK のコマンドラインツールと軽量なプロファイリング機能を統合したビジュアルツールです
+  ko: VisualVM은 JDK 명령줄 도구와 경량 프로파일링 기능을 통합한 시각적 도구입니다
+  pl: VisualVM to narzędzie wizualne integrujące narzędzia JDK z wiersza poleceń oraz lekkie funkcje profilowania
+  pt: O VisualVM é uma ferramenta visual que integra utilitários de linha de comando do JDK e capacidades leves de perfilamento
+  ro: VisualVM este un instrument vizual care integrează utilitarele JDK din linia de comandă și capacități ușoare de profilare
+  ru: VisualVM — визуальный инструмент, объединяющий инструменты командной строки JDK и лёгкие возможности профилирования
+  th: VisualVM เป็นเครื่องมือเชิงภาพที่รวมเครื่องมือบรรทัดคำสั่งของ JDK และความสามารถในการโปรไฟล์แบบเบา
+  tr: VisualVM, JDK komut satırı araçlarını ve hafif profil yeteneklerini bir araya getiren görsel bir araçtır
+  uk: VisualVM — візуальний інструмент, що поєднує інструменти командного рядка JDK і легкі можливості профілювання
+  vi: VisualVM là công cụ trực quan tích hợp các tiện ích dòng lệnh của JDK và khả năng profiling nhẹ
 x:
   source: https://github.com/oracle/visualvm
   eget: oracle/visualvm

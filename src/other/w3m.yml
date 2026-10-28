@@ -3,6 +3,22 @@ homepage: https://w3m.sourceforge.net/
 desc:
   en: A text-based web browser
   cn: 一个基于文本的网页浏览器
+  cs: Textový webový prohlížeč
+  de: Ein textbasierter Webbrowser
+  es: Un navegador web basado en texto
+  fr: Un navigateur web en mode texte
+  id: Peramban web berbasis teks
+  it: Un browser web basato su testo
+  ja: テキストベースのウェブブラウザ
+  ko: 텍스트 기반 웹 브라우저
+  pl: Przeglądarka internetowa oparta na tekście
+  pt: Um navegador web baseado em texto
+  ro: Un browser web bazat pe text
+  ru: Текстовый веб-браузер
+  th: เว็บเบราว์เซอร์แบบข้อความ
+  tr: Metin tabanlı bir web tarayıcı
+  uk: Текстовий веб-браузер
+  vi: Trình duyệt web dựa trên văn bản
 rule:
   darwin/brew:
     cmd: brew install w3m

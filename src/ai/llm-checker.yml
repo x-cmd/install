@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 扫描硬件并明确告诉你能在本地运行哪些 LLM 或 sLLM 模型的高级 CLI，深度集成 Ollama
   en: Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
+  cs: Pokročilý nástroj CLI, který prohledá váš hardware a přesně vám řekne, které modely LLM nebo sLLM můžete spustit lokálně, s plnou integrací Ollama.
+  de: Fortschrittliches CLI-Tool, das Ihre Hardware scannt und Ihnen genau sagt, welche LLM- oder sLLM-Modelle Sie lokal ausführen können, mit vollständiger Ollama-Integration.
+  es: Herramienta CLI avanzada que analiza tu hardware y te dice exactamente qué modelos LLM o sLLM puedes ejecutar localmente, con integración completa de Ollama.
+  fr: Outil CLI avancé qui analyse votre matériel et vous indique exactement quels modèles LLM ou sLLM vous pouvez exécuter localement, avec une intégration complète d'Ollama.
+  id: Alat CLI advanced yang memindai perangkat keras Anda dan memberi tahu persis model LLM atau sLLM mana yang dapat dijalankan secara lokal, dengan integrasi penuh Ollama.
+  it: Strumento CLI avanzato che analizza il tuo hardware e ti dice esattamente quali modelli LLM o sLLM puoi eseguire localmente, con piena integrazione di Ollama.
+  ja: ハードウェアをスキャンし、ローカルで実行できる LLM や sLLM モデルを正確に教えてくれる高度な CLI ツールで、Ollama と完全に統合されています。
+  ko: 하드웨어를 검사해 로컬에서 실행할 수 있는 LLM 또는 sLLM 모델을 정확히 알려주는 고급 CLI 도구이며, Ollama와 완전히 통합됩니다.
+  pl: Zaawansowane narzędzie CLI, które skanuje sprzęt i dokładnie informuje, które modele LLM lub sLLM można uruchomić lokalnie, z pełną integracją Ollama.
+  pt: Ferramenta de CLI avançada que varre seu hardware e informa exatamente quais modelos de LLM ou sLLM você pode executar localmente, com integração completa com o Ollama.
+  ro: Instrument CLI avansat care scanează hardware-ul și vă spune exact ce modele LLM sau sLLM puteți rula local, cu integrare completă cu Ollama.
+  ru: Продвинутый CLI-инструмент, который сканирует ваше оборудование и точно сообщает, какие модели LLM или sLLM можно запускать локально, с полной интеграцией Ollama.
+  th: เครื่องมือ CLI ขั้นสูงที่สแกนฮาร์ดแวร์ของคุณและบอกได้อย่างแน่นอนว่าโมเดล LLM หรือ sLLM ใดที่คุณเรียกใช้ในเครื่องได้ พร้อมการผสานรวมกับ Ollama เต็มรูปแบบ
+  tr: Donanımınızı tarayan ve yerel olarak hangi LLM veya sLLM modellerini çalıştırabileceğinizi tam olarak söyleyen, tam Ollama entegrasyonlu gelişmiş CLI aracı.
+  uk: Просунутий CLI-інструмент, який сканує ваше обладнання та точно повідомляє, які моделі LLM або sLLM можна запускати локально, з повною інтеграцією Ollama.
+  vi: Công cụ CLI nâng cao quét phần cứng của bạn và cho biết chính xác những mô hình LLM hoặc sLLM nào có thể chạy cục bộ, với tích hợp Ollama đầy đủ.
 x:
   source: https://github.com/Pavelevich/llm-checker
   npm: llm-checker

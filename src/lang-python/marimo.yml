@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Marimo 是一款响应式 Python 笔记本：运行单元格可与 UI 元素交互，marimo 会自动更新依赖于它的单元格（或将其标记为过时单元格），从而保持代码和输出的一致性。marimo 笔记本以纯 Python 格式存储，可作为脚本执行，也可作为应用程序部署。
   en: 'marimo is a reactive Python notebook: run a cell or interact with a UI element, and marimo automatically runs dependent cells (or marks them as stale), keeping code and outputs consistent'
+  cs: "marimo je reaktivní notebook v Pythonu: spusťte buňku nebo interagujte s prvkem UI a marimo automaticky spustí závislé buňky (nebo je označí jako zastaralé), čímž udržuje kód a výstupy v souladu"
+  de: "marimo ist ein reaktives Python-Notebook: Führen Sie eine Zelle aus oder interagieren Sie mit einem UI-Element, und marimo führt automatisch abhängige Zellen aus (oder markiert sie als veraltet), sodass Code und Ausgaben konsistent bleiben"
+  es: "marimo es un cuaderno reactivo de Python: ejecuta una celda o interactúa con un elemento de la interfaz y marimo ejecuta automáticamente las celdas dependientes (o las marca como obsoletas), manteniendo el código y las salidas coherentes"
+  fr: "marimo est un carnet réactif en Python : exécutez une cellule ou interagissez avec un élément d'interface, et marimo exécute automatiquement les cellules dépendantes (ou les marque comme obsolètes), ce qui garde le code et les sorties cohérents"
+  id: "marimo adalah notebook Python reaktif: jalankan sel atau berinteraksi dengan elemen UI, lalu marimo otomatis menjalankan sel yang bergantung (atau menandainya sebagai basi), sehingga kode dan keluaran tetap konsisten"
+  it: "marimo è un notebook Python reattivo: esegui una cella o interagisci con un elemento della UI e marimo esegue automaticamente le celle dipendenti (o le contrassegna come obsolete), mantenendo coerenti codice e output"
+  ja: marimo はリアクティブな Python ノートブックです。セルを実行したり UI 要素を操作したりすると、marimo は依存するセルを自動的に実行(または陳腐化としてマーク)し、コードと出力を一貫した状態に保ちます
+  ko: marimo는 반응형 Python 노트북으로, 셀을 실행하거나 UI 요소를 상호작용하면 marimo가 의존 셀을 자동으로 실행(또는 오래된 것으로 표시)하여 코드와 출력을 일관되게 유지합니다
+  pl: "marimo to reaktywny notatnik Pythona: uruchom komórkę lub wejdź w interakcję z elementem UI, a marimo automatycznie uruchomi zależne komórki (lub oznaczy je jako nieaktualne), utrzymując spójność kodu i wyników"
+  pt: "marimo é um notebook reativo em Python: execute uma célula ou interaja com um elemento de UI e o marimo executa automaticamente as células dependentes (ou as marca como obsoletas), mantendo código e saídas consistentes"
+  ro: "marimo este un notebook reactiv în Python: rulează o celulă sau interacționează cu un element de UI, iar marimo rulează automat celulele dependente (sau le marchează ca învechite), păstrând consecvența dintre cod și rezultate"
+  ru: "marimo — реактивный блокнот на Python: запустите ячейку или взаимодействуйте с элементом UI, и marimo автоматически выполнит зависимые ячейки (или пометит их как устаревшие), сохраняя согласованность кода и вывода"
+  th: "marimo เป็นสมุดบันทึกแบบ reactive ของ Python: เมื่อรันเซลล์หรือโต้ตอบกับองค์ประกอบ UI marimo จะรันเซลล์ที่ขึ้นกับมันโดยอัตโนมัติ (หรือทำเครื่องหมายว่าล้าสมัย) เพื่อให้โค้ดและผลลัพธ์สอดคล้องกัน"
+  tr: "marimo reaktif bir Python not defteridir: bir hücreyi çalıştırın veya bir UI öğesiyle etkileşime girin, marimo bağımlı hücreleri otomatik olarak çalıştırır (veya bayat olarak işaretler), böylece kod ve çıktılar tutarlı kalır"
+  uk: "marimo — реактивний блокнот на Python: запустіть комірку або взаємодійте з елементом UI, і marimo автоматично виконає залежні комірки (або позначить їх як застарілі), зберігаючи узгодженість коду та виводу"
+  vi: "marimo là một notebook Python phản ứng: chạy một ô hoặc tương tác với một phần tử UI, marimo sẽ tự động chạy các ô phụ thuộc (hoặc đánh dấu chúng là cũ), giữ cho mã và kết quả luôn nhất quán"
 x:
   source: https://github.com/marimo-team/marimo
   yay: marimo

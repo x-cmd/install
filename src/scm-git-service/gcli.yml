@@ -4,6 +4,22 @@ license: 'BSD-2-Clause'
 desc:
   cn: 可移植的 Git(hub|lab|tea)/Forgejo/Bugzilla CLI 工具
   en: 'Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel'
+  cs: "Přenosný nástroj CLI pro Git(hub|lab|tea)/Forgejo/Bugzilla, odesílejte patche zde: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  de: "Tragbares CLI-Werkzeug für Git(hub|lab|tea)/Forgejo/Bugzilla, Patches hier einreichen: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  es: "Herramienta CLI portátil para Git(hub|lab|tea)/Forgejo/Bugzilla, envíe parches aquí: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  fr: "Outil CLI portable pour Git(hub|lab|tea)/Forgejo/Bugzilla, soumettez vos correctifs ici : https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  id: "Alat CLI portabel untuk Git(hub|lab|tea)/Forgejo/Bugzilla, kirim tambalan di sini: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  it: "Strumento CLI portatile per Git(hub|lab|tea)/Forgejo/Bugzilla, invia le patch qui: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  ja: "移植可能な Git(hub|lab|tea)/Forgejo/Bugzilla CLI ツール、パッチはここに送信してください: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  ko: "이식성 있는 Git(hub|lab|tea)/Forgejo/Bugzilla CLI 도구이며, 패치는 여기에 제출하세요: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  pl: "Przenośne narzędzie CLI dla Git(hub|lab|tea)/Forgejo/Bugzilla, przesyłaj łaty tutaj: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  pt: "Ferramenta CLI portátil para Git(hub|lab|tea)/Forgejo/Bugzilla, envie patches aqui: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  ro: "Instrument CLI portabil pentru Git(hub|lab|tea)/Forgejo/Bugzilla, trimiteți patch-uri aici: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  ru: "Переносимый инструмент CLI для Git(hub|lab|tea)/Forgejo/Bugzilla, отправляйте патчи сюда: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  th: "เครื่องมือ CLI แบบพกพาสำหรับ Git(hub|lab|tea)/Forgejo/Bugzilla ส่งแพตช์ได้ที่นี่: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  tr: "Git(hub|lab|tea)/Forgejo/Bugzilla için taşınabilir CLI aracı, yamaları buraya gönderin: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  uk: "Портативний інструмент CLI для Git(hub|lab|tea)/Forgejo/Bugzilla, надсилайте патчі сюди: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
+  vi: "Công cụ CLI di động cho Git(hub|lab|tea)/Forgejo/Bugzilla, gửi bản vá tại đây: https://lists.sr.ht/~herrhotzenplotz/gcli-devel"
 x:
   source: https://github.com/herrhotzenplotz/gcli
   eget: herrhotzenplotz/gcli

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Hugo 是一个用 Go 编写的静态站点生成器
   en: Hugo is a static site generator written in Go
+  cs: Hugo je generátor statických webů napsaný v Go
+  de: Hugo ist ein in Go geschriebener Generator für statische Websites
+  es: Hugo es un generador de sitios estáticos escrito en Go
+  fr: Hugo est un générateur de sites statiques écrit en Go
+  id: Hugo adalah generator situs statis yang ditulis dengan Go
+  it: Hugo è un generatore di siti statici scritto in Go
+  ja: Hugo は Go で書かれた静的サイトジェネレーターです
+  ko: Hugo는 Go로 작성된 정적 사이트 생성기입니다
+  pl: Hugo to generator stron statycznych napisany w Go
+  pt: Hugo é um gerador de sites estáticos escrito em Go
+  ro: Hugo este un generator de site-uri statice scris în Go
+  ru: Hugo — генератор статических сайтов, написанный на Go
+  th: Hugo คือตัวสร้างเว็บไซต์แบบคงที่ที่เขียนด้วย Go
+  tr: Hugo, Go ile yazılmış bir statik site oluşturucudur
+  uk: Hugo — генератор статичних сайтів, написаний на Go
+  vi: Hugo là trình tạo trang tĩnh được viết bằng Go
 x:
   source: https://github.com/gohugoio/hugo
   eget: gohugoio/hugo

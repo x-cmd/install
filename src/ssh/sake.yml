@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: sake 是一个用于本地和远程主机的命令执行工具。
   en: sake is a command runner for local and remote hosts.
+  cs: sake je nástroj pro spouštění příkazů na místních a vzdálených hostitelích.
+  de: sake ist ein Befehlsausführer für lokale und entfernte Hosts.
+  es: sake es un ejecutor de comandos para hosts locales y remotos.
+  fr: sake est un exécuteur de commandes pour les hôtes locaux et distants.
+  id: sake adalah pelari perintah untuk host lokal dan remote.
+  it: sake è un esecutore di comandi per host locali e remoti.
+  ja: sake はローカルおよびリモートホストでコマンドを実行するためのツールです。
+  ko: sake는 로컬 및 원격 호스트에서 명령을 실행하는 도구입니다.
+  pl: sake to narzędzie do uruchamiania poleceń na hostach lokalnych i zdalnych.
+  pt: sake é um executor de comandos para hosts locais e remotos.
+  ro: sake este un executor de comenzi pentru gazde locale și la distanță.
+  ru: sake — инструмент выполнения команд на локальных и удалённых узлах.
+  th: sake เป็นเครื่องมือรันคำสั่งสำหรับโฮสต์ในเครื่องและระยะไกล
+  tr: sake, yerel ve uzak ana bilgisayarlar için bir komut çalıştırıcısıdır.
+  uk: sake — інструмент виконання команд на локальних і віддалених вузлах.
+  vi: sake là công cụ chạy lệnh cho các máy cục bộ và từ xa.
 x:
   source: https://github.com/alajmo/sake
   eget: alajmo/sake

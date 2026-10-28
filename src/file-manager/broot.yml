@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: '`broot` 是一款用于快速定位、操作文件和目录的终端文件管理器，可以按照多种标准排序、过滤、操作文件和目录'
   en: '`broot` is a terminal-based file manager that allows for quick locating and manipulation of files and directories. It enables sorting, filtering, and operations on files and directories based on various criteria'
+  cs: "`broot` je terminálový správce souborů, který umožňuje rychlé vyhledávání a manipulaci se soubory a adresáři. Podporuje řazení, filtrování a operace nad soubory a adresáři podle různých kritérií"
+  de: "`broot` ist ein Terminal-Dateimanager, der schnell das Auffinden und Bearbeiten von Dateien und Verzeichnissen ermöglicht. Er erlaubt das Sortieren, Filtern und Bearbeiten von Dateien und Verzeichnissen nach verschiedenen Kriterien"
+  es: "`broot` es un gestor de archivos de terminal que permite localizar y manipular rápidamente archivos y directorios. Permite ordenar, filtrar y operar sobre archivos y directorios según varios criterios"
+  fr: "`broot` est un gestionnaire de fichiers en terminal permettant de localiser et de manipuler rapidement des fichiers et des répertoires. Il permet de trier, filtrer et d'effectuer des opérations sur les fichiers et répertoires selon différents critères"
+  id: "`broot` adalah pengelola file terminal yang memungkinkan menemukan dan memanipulasi file serta direktori dengan cepat. Alat ini dapat mengurutkan, memfilter, dan melakukan operasi pada file dan direktori berdasarkan berbagai kriteria"
+  it: "`broot` è un file manager da terminale che consente di individuare e manipolare rapidamente file e directory. Consente di ordinare, filtrare ed eseguire operazioni su file e directory in base a diversi criteri"
+  ja: "`broot` は、ファイルとディレクトリの迅速な検索と操作を行うターミナルファイルマネージャーです。さまざまな基準でファイルの並べ替え、絞り込み、操作ができます"
+  ko: "`broot`는 파일과 디렉터리를 빠르게 찾고 조작할 수 있는 터미널 파일 관리자입니다. 다양한 기준에 따라 파일과 디렉터리를 정렬, 필터링, 작업할 수 있습니다"
+  pl: "`broot` to terminalowy menedżer plików umożliwiający szybkie odnajdywanie i manipulowanie plikami oraz katalogami. Pozwala na sortowanie, filtrowanie i wykonywanie operacji na plikach i katalogach według różnych kryteriów"
+  pt: "`broot` é um gerenciador de arquivos de terminal que permite localizar e manipular arquivos e diretórios rapidamente. Permite classificar, filtrar e executar operações em arquivos e diretórios com base em vários critérios"
+  ro: "`broot` este un manager de fișiere pentru terminal care permite localizarea rapidă și manipularea fișierelor și directoarelor. Permite sortarea, filtrarea și operarea pe fișiere și directoare după criterii variate"
+  ru: "`broot` — терминальный файловый менеджер, который позволяет быстро находить и работать с файлами и каталогами. Он умеет сортировать, фильтровать и выполнять операции над файлами и каталогами по различным критериям"
+  th: "`broot` เป็นตัวจัดการไฟล์บนเทอร์มินัลที่ช่วยค้นหาและจัดการไฟล์และไดเรกทอรีได้อย่างรวดเร็ว รองรับการเรียงลำดับ การกรอง และการดำเนินการกับไฟล์และไดเรกทอรีตามเกณฑ์ต่าง ๆ"
+  tr: "`broot`, dosyaları ve dizinleri hızlıca bulmayı ve düzenlemeyi sağlayan bir terminal dosya yöneticisidir. Dosyaları ve dizinleri çeşitli ölçütlere göre sıralama, filtreleme ve işlem yapma özellikleri sunar"
+  uk: "`broot` — термінальний файловий менеджер, який дає змогу швидко знаходити та маніпулювати файлами й каталогами. Він підтримує сортування, фільтрацію та операції над файлами й каталогами за різними критеріями"
+  vi: "`broot` là trình quản lý tệp dòng lệnh cho phép nhanh chóng tìm kiếm và thao tác với tệp và thư mục. Nó hỗ trợ sắp xếp, lọc và thực hiện các thao tác trên tệp và thư mục theo nhiều tiêu chí khác nhau"
 x:
   source: https://github.com/Canop/broot
   eget: Canop/broot

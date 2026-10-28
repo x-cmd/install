@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: 一个简单的 python 包，用于使用 ASCII 字符在终端中播放视频
   en: A simple python package for playing videos in the terminal using ASCII characters
+  cs: Jednoduchý pythonový balíček pro přehrávání videí v terminálu pomocí znaků ASCII
+  de: Ein einfaches Python-Paket zum Abspielen von Videos im Terminal mit ASCII-Zeichen
+  es: Un paquete de python sencillo para reproducir vídeos en la terminal usando caracteres ASCII
+  fr: Un simple paquet python pour lire des vidéos dans le terminal en utilisant des caractères ASCII
+  id: Paket python sederhana untuk memutar video di terminal menggunakan karakter ASCII
+  it: Un semplice pacchetto python per riprodurre video nel terminale usando caratteri ASCII
+  ja: ASCII 文字を使ってターミナルで動画を再生するシンプルな Python パッケージ
+  ko: ASCII 문자를 사용해 터미널에서 동영상을 재생하는 간단한 파이썬 패키지
+  pl: Prosty pakiet python do odtwarzania filmów w terminalu za pomocą znaków ASCII
+  pt: Um pacote python simples para reproduzir vídeos no terminal usando caracteres ASCII
+  ro: Un pachet python simplu pentru redarea videoclipurilor în terminal folosind caractere ASCII
+  ru: Простой пакет python для воспроизведения видео в терминале с помощью символов ASCII
+  th: แพ็กเกจ Python อย่างง่ายสำหรับเล่นวิดีโอในเทอร์มินัลด้วยอักขระ ASCII
+  tr: ASCII karakterleri kullanarak terminalde video oynatan basit bir python paketi
+  uk: Простий пакет python для відтворення відео в терміналі за допомогою символів ASCII
+  vi: Gói python đơn giản để phát video trong terminal bằng ký tự ASCII
 homepage: https://github.com/joelibaceta/video-to-ascii
 license: MIT
 x:

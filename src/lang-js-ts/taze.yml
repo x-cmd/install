@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: npm 依赖升级管理工具
   en: npm dependency upgrade manager
+  cs: Správce upgradů závislostí npm
+  de: npm-Abhängigkeits-Upgrade-Manager
+  es: Gestor de actualizaciones de dependencias de npm
+  fr: Gestionnaire de mise à niveau des dépendances npm
+  id: Pengelola peningkatan dependensi npm
+  it: Gestore degli aggiornamenti delle dipendenze npm
+  ja: npm 依存関係のアップグレードマネージャー
+  ko: npm 의존성 업그레이드 관리자
+  pl: Menedżer aktualizacji zależności npm
+  pt: Gerenciador de atualização de dependências do npm
+  ro: Manager de actualizare a dependențelor npm
+  ru: Менеджер обновления зависимостей npm
+  th: ตัวจัดการการอัปเกรดการพึ่งพาของ npm
+  tr: npm bağımlılık yükseltme yöneticisi
+  uk: Менеджер оновлення залежностей npm
+  vi: Trình quản lý nâng cấp phụ thuộc npm
 x:
   source: https://github.com/antfu/taze
   npm: taze

@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: PHP 解释器（PHP 是一种流行的通用脚本语言，特别适合 Web 开发。）
   en: A popular general-purpose scripting language that is especially suited to web development
+  cs: Populární univerzální skriptovací jazyk, který je zvlášť vhodný pro vývoj webových aplikací
+  de: Eine beliebte universale Skriptsprache, die sich besonders für die Webentwicklung eignet
+  es: Un lenguaje de scripts general-purpose muy popular, especialmente adecuado para el desarrollo web
+  fr: Un langage de script généraliste très populaire, particulièrement adapté au développement web
+  id: Bahasa skrip serbaguna yang populer dan sangat cocok untuk pengembangan web
+  it: Un popolare linguaggio di scripting general-purpose, particolarmente adatto allo sviluppo web
+  ja: Web 開発に特に適した一般的な汎用スクリプト言語
+  ko: 웹 개발에 특히 적합한 널리 쓰이는 범용 스크립트 언어
+  pl: Popularny, ogólnego przeznaczenia język skryptowy, szczególnie odpowiedni do tworzenia aplikacji webowych
+  pt: Uma linguagem de script de propósito geral, muito popular e especialmente adequada ao desenvolvimento web
+  ro: Un limbaj de scripting de uz generală, foarte popular și special potrivit dezvoltării web
+  ru: Популярный универсальный скриптовый язык, особенно подходящий для веб-разработки
+  th: ภาษาสคริปต์แบบใช้งานทั่วไปที่ได้รับความนิยม เหมาะกับการพัฒนาเว็บเป็นพิเศษ
+  tr: Özellikle web geliştirmeye uygun, popüler bir genel amaçlı betik dilidir
+  uk: Популярна універсальна скриптова мова, особливо придатна для веброзробки
+  vi: Một ngôn ngữ kịch bản đa năng rất phổ biến, đặc biệt phù hợp với việc phát triển web
 x:
   source: https://github.com/php/php-src
   apt: php

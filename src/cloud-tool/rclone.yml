@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于管理云存储文件的命令行工具
   en: A command-line tool for managing cloud storage files
+  cs: Nástroj příkazové řádky pro správu souborů v cloudovém úložišti
+  de: Ein Kommandozeilen-Werkzeug zur Verwaltung von Dateien im Cloud-Speicher
+  es: Una herramienta de línea de comandos para gestionar archivos de almacenamiento en la nube
+  fr: Un outil en ligne de commande pour gérer les fichiers de stockage cloud
+  id: Alat baris perintah untuk mengelola berkas penyimpanan cloud
+  it: Uno strumento a riga di comando per gestire i file di archiviazione cloud
+  ja: クラウドストレージのファイルを管理するためのコマンドラインツール
+  ko: 클라우드 스토리지 파일을 관리하기 위한 명령줄 도구
+  pl: Narzędzie wiersza poleceń do zarządzania plikami w chmurze
+  pt: Uma ferramenta de linha de comando para gerenciar arquivos de armazenamento em nuvem
+  ro: Un instrument de linie de comandă pentru gestionarea fișierelor de stocare în cloud
+  ru: Инструмент командной строки для управления файлами облачного хранилища
+  th: เครื่องมือบรรทัดคำสั่งสำหรับจัดการไฟล์ในคลาวด์สตอเรจ
+  tr: Bulut depolama dosyalarını yönetmek için bir komut satırı aracı
+  uk: Інструмент командного рядка для керування файлами в хмарному сховищі
+  vi: Công cụ dòng lệnh để quản lý tệp trong bộ nhớ đám mây
 x:
   source: https://github.com/rclone/rclone
   eget: rclone/rclone

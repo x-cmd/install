@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Bloaty：二进制文件的大小分析器
   en: 'Bloaty: a size profiler for binaries'
+  cs: "Bloaty: analyzátor velikosti binárních souborů"
+  de: "Bloaty: ein Größenprofiler für Binärdateien"
+  es: "Bloaty: un perfilador de tamaño para binarios"
+  fr: "Bloaty : un profileur de taille pour les binaires"
+  id: "Bloaty: profiler ukuran untuk berkas biner"
+  it: "Bloaty: un profiler di dimensione per i binari"
+  ja: "Bloaty: バイナリファイルのサイズプロファイラ"
+  ko: "Bloaty: 바이너리 파일용 크기 프로파일러"
+  pl: "Bloaty: profiler rozmiaru plików binarnych"
+  pt: "Bloaty: um profiler de tamanho para binários"
+  ro: "Bloaty: un profiler de dimensiune pentru binare"
+  ru: "Bloaty: анализатор размера двоичных файлов"
+  th: "Bloaty: เครื่องมือวิเคราะห์ขนาดสำหรับไฟล์ไบนารี"
+  tr: "Bloaty: ikili dosyalar için bir boyut profil aracı"
+  uk: "Bloaty: аналізатор розміру двійкових файлів"
+  vi: "Bloaty: trình phân tích kích thước cho tệp nhị phân"
 x:
   source: https://github.com/google/bloaty
   eget: google/bloaty

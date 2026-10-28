@@ -3,6 +3,22 @@ homepage: https://github.com/coapjs/coap-cli
 desc:
   cn: COAP-CLI 是基于 Node.js 和 Node-coap 建立的 COAP 的命令行接口
   en: CoAP-CLI is a command line interface for CoAP, built on node.js and node-coap
+  cs: CoAP-CLI je rozhraní příkazové řádky pro CoAP, postavené na node.js a node-coap
+  de: CoAP-CLI ist eine Kommandozeilenschnittstelle für CoAP, basierend auf node.js und node-coap
+  es: CoAP-CLI es una interfaz de línea de comandos para CoAP, construida sobre node.js y node-coap
+  fr: CoAP-CLI est une interface de ligne de commande pour CoAP, construite sur node.js et node-coap
+  id: CoAP-CLI adalah antarmuka baris perintah untuk CoAP, yang dibangun di atas node.js dan node-coap
+  it: CoAP-CLI è un'interfaccia a riga di comando per CoAP, costruita su node.js e node-coap
+  ja: CoAP-CLI は node.js と node-coap を基盤とした CoAP のコマンドラインインターフェースです
+  ko: CoAP-CLI는 node.js와 node-coap을 기반으로 만든 CoAP용 명령줄 인터페이스입니다
+  pl: CoAP-CLI to interfejs wiersza poleceń dla CoAP, zbudowany na node.js i node-coap
+  pt: CoAP-CLI é uma interface de linha de comando para CoAP, construída sobre node.js e node-coap
+  ro: CoAP-CLI este o interfață de linie de comandă pentru CoAP, construită pe node.js și node-coap
+  ru: CoAP-CLI — это интерфейс командной строки для CoAP, построенный на node.js и node-coap
+  th: CoAP-CLI คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับ CoAP ที่สร้างบน node.js และ node-coap
+  tr: CoAP-CLI, node.js ve node-coap üzerine kurulmuş CoAP için bir komut satırı arayüzüdür
+  uk: CoAP-CLI — це інтерфейс командного рядка для CoAP, побудований на node.js і node-coap
+  vi: CoAP-CLI là giao diện dòng lệnh cho CoAP, được xây dựng trên nền tảng node.js và node-coap
 x:
   source: https://github.com/coapjs/coap-cli
   npm: coap-cli

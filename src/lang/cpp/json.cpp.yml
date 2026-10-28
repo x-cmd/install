@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 面向经典 C++ 的 JSON 库
   en: JSON for Classic C++
+  cs: JSON pro klasické C++
+  de: JSON für klassisches C++
+  es: JSON para C++ clásico
+  fr: JSON pour C++ classique
+  id: JSON untuk C++ klasik
+  it: JSON per C++ classico
+  ja: クラシック C++ 向けの JSON
+  ko: 클래식 C++용 JSON
+  pl: JSON dla klasycznego C++
+  pt: JSON para C++ clássico
+  ro: JSON pentru C++ clasic
+  ru: JSON для классического C++
+  th: JSON สำหรับ C++ แบบคลาสสิก
+  tr: Klasik C++ için JSON
+  uk: JSON для класичного C++
+  vi: JSON cho C++ cổ điển
 x:
   source: https://github.com/jart/json.cpp
   eget: jart/json.cpp

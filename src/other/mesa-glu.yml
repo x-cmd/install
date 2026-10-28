@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/mesa/glu
 desc:
   en: Mesa OpenGL Utility library
   cn: Mesa OpenGL 实用程序库
+  cs: Knihovna Mesa OpenGL Utility
+  de: Mesa OpenGL Utility-Bibliothek
+  es: Biblioteca de utilidades OpenGL de Mesa
+  fr: Bibliothèque Mesa OpenGL Utility
+  id: Pustaka utilitas Mesa OpenGL
+  it: Libreria di utilità OpenGL di Mesa
+  ja: Mesa OpenGL ユーティリティライブラリ
+  ko: Mesa OpenGL 유틸리티 라이브러리
+  pl: Biblioteka narzędzi Mesa OpenGL
+  pt: Biblioteca de utilitários Mesa OpenGL
+  ro: Bibliotecă de utilitare Mesa OpenGL
+  ru: Библиотека утилит Mesa OpenGL
+  th: ไลบรารี Mesa OpenGL Utility
+  tr: Mesa OpenGL yardımcı kütüphanesi
+  uk: Бібліотека утиліт Mesa OpenGL
+  vi: Thư viện tiện ích Mesa OpenGL
 rule:
   darwin/brew:
     cmd: brew install mesa-glu

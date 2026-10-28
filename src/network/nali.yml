@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个查询 IP 地理信息和 CDN 服务提供商的离线终端工具
   en: An offline tool for querying IP geographic information and CDN provider
+  cs: Offline nástroj pro dotazování geografických údajů IP a poskytovatele CDN
+  de: Ein Offline-Tool zum Abfragen geografischer IP-Informationen und CDN-Anbieter
+  es: Una herramienta offline para consultar información geográfica de IP y proveedores de CDN
+  fr: Un outil hors ligne pour interroger les informations géographiques IP et les fournisseurs CDN
+  id: Alat offline untuk menanyakan informasi geografis IP dan penyedia CDN
+  it: Uno strumento offline per interrogare le informazioni geografiche IP e i provider CDN
+  ja: IP の地理情報と CDN プロバイダーを問い合わせるオフラインツール
+  ko: IP 지리 정보와 CDN 제공업체를 조회하는 오프라인 도구
+  pl: Narzędzie offline do wyszukiwania informacji geograficznych IP i dostawców CDN
+  pt: Uma ferramenta offline para consultar informações geográficas de IP e provedores de CDN
+  ro: Un instrument offline pentru interogarea informațiilor geografice IP și a furnizorilor CDN
+  ru: Офлайн-инструмент для запроса географической информации об IP и CDN-провайдерах
+  th: เครื่องมือออฟไลน์สำหรับค้นหาข้อมูลภูมิศาสตร์ของ IP และผู้ให้บริการ CDN
+  tr: IP coğrafi bilgilerini ve CDN sağlayıcılarını sorgulamak için çevrimdışı araç
+  uk: Офлайн-інструмент для запиту географічної інформації про IP та CDN-провайдерів
+  vi: Công cụ ngoại tuyến để tra cứu thông tin địa lý IP và nhà cung cấp CDN
 x:
   source: https://github.com/zu1k/nali
   eget: zu1k/nali

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Python 工具，在 CLI 中搜索并下载 torrent
   en: 'A Python tool that lets you search and download torrents without leaving your CLI.'
+  cs: Nástroj v Pythonu, který vám umožní vyhledávat a stahovat torrenty bez opuštění CLI.
+  de: Ein Python-Tool, mit dem Sie Torrents suchen und herunterladen können, ohne Ihr CLI zu verlassen.
+  es: Una herramienta de Python que te permite buscar y descargar torrents sin salir de tu CLI.
+  fr: Un outil Python qui vous permet de rechercher et télécharger des torrents sans quitter votre CLI.
+  id: Alat Python yang memungkinkan Anda mencari dan mengunduh torrent tanpa meninggalkan CLI.
+  it: Uno strumento Python che ti permette di cercare e scaricare torrent senza uscire dalla tua CLI.
+  ja: CLI を離れることなくTorrent を検索・ダウンロードできる Python ツール。
+  ko: CLI를 벗어나지 않고 토렌트를 검색하고 다운로드할 수 있는 Python 도구입니다.
+  pl: Narzędzie w Pythonie, które pozwala wyszukiwać i pobierać torrenty bez opuszczania wiersza poleceń.
+  pt: Uma ferramenta Python que permite pesquisar e baixar torrents sem sair do seu CLI.
+  ro: Un instrument Python care vă permite să căutați și să descărcați torrente fără a părăsi CLI-ul.
+  ru: Инструмент на Python, позволяющий искать и скачивать торренты, не покидая командную строку.
+  th: เครื่องมือ Python ที่ให้คุณค้นหาและดาวน์โหลดทอร์เรนต์ได้โดยไม่ต้องออกจาก CLI
+  tr: CLI'den ayrılmadan torrent aramanıza ve indirmenize olanak sağlayan bir Python aracı.
+  uk: Інструмент на Python, який дозволяє шукати та завантажувати торренти, не залишаючи командний рядок.
+  vi: Một công cụ Python giúp bạn tìm kiếm và tải torrent mà không cần rời khỏi CLI.
 x:
   source: https://github.com/stabldev/torrra
   eget: stabldev/torrra

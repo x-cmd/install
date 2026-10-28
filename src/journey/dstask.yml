@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Dstask 是一款个人任务追踪器，旨在帮助你集中注意力。它类似于 Taskwarrior 但使用 git 来同步而不是特殊协议。
   en: Dstask is a personal task tracker designed to help you focus. It is similar to Taskwarrior but uses git to synchronise instead of a special protocol.
+  cs: Dstask je osobní sledovač úkolů navržený, vám pomůže soustředit se. Podobá se Taskwarrioru, ale k synchronizaci používá git místo speciálního protokolu.
+  de: Dstask ist ein persönlicher Aufgabenverfolger, der Ihnen hilft, sich zu konzentrieren. Es ähnelt Taskwarrior, verwendet aber git zur Synchronisierung statt eines speziellen Protokolls.
+  es: Dstask es un gestor personal de tareas diseñado para ayudarte a concentrarte. Es similar a Taskwarrior pero usa git para sincronizarse en lugar de un protocolo especial.
+  fr: Dstask est un suivi personnel des tâches conçu pour vous aider à vous concentrer. Il ressemble à Taskwarrior mais utilise git pour se synchroniser au lieu d'un protocole spécial.
+  id: Dstask adalah pelacak tugas pribadi yang dirancang untuk membantu Anda memusatkan perhatian. Mirip Taskwarrior tetapi menggunakan git untuk sinkronisasi alih-alih protokol khusus.
+  it: Dstask è un tracker di attività personale progettato per aiutarti a concentrarti. È simile a Taskwarrior ma usa git per sincronizzarsi invece di un protocollo speciale.
+  ja: Dstaskは、集中力を高めるために設計された個人のタスクトラッカーです。Taskwarriorに似ていますが、特別なプロトコルではなくgitを使って同期します。
+  ko: Dstask은 집중력을 높여도록 설계된 개인 작업 추적기입니다. Taskwarrior와 비슷하지만, 별도의 프로토콜 대신 git을 사용해 동기화합니다.
+  pl: Dstask to osobisty śledzik zadań, który pomaga Ci się skupić. Podobny do Taskwarrior, ale do synchronizacji używa git zamiast specjalnego protokołu.
+  pt: O Dstask é um rastreador pessoal de tarefas projetado para ajudar você a se concentrar. É parecido com o Taskwarrior, mas usa git para sincronizar em vez de um protocolo especial.
+  ro: Dstask este un urmăritor personal de sarcini creat pentru a vă ajuta să vă concentrați. Este similar cu Taskwarrior, dar folosește git pentru sincronizare în locul unui protocol special.
+  ru: Dstask — персональный трекер задач, созданный, чтобы помочь вам сосредоточиться. Он похож на Taskwarrior, но использует git для синхронизации вместо специального протокола.
+  th: Dstask คือตัวติดตามงานส่วนตัวที่ออกแบบมาเพื่อช่วยให้คุณโฟกัส คล้าย Taskwarrior แต่ใช้ git ในการซิงค์แทนโปรโตคอลพิเศษ
+  tr: Dstask, odağınızı sağlamanıza yardımcı olmak için tasarlanmış kişisel bir görev takipçisidir. Taskwarrior'a benzer, ancak özel bir protokol yerine senkronizasyon için git kullanır.
+  uk: Dstask — персональний трекер завдань, створений, щоб допомогти вам зосередитися. Він схожий на Taskwarrior, але використовує git для синхронізації замість спеціального протоколу.
+  vi: Dstask là trình theo dõi công việc cá nhân được thiết kế để giúp bạn tập trung. Nó giống Taskwarrior nhưng dùng git để đồng bộ thay vì giao thức đặc biệt.
 x:
   source: https://github.com/naggie/dstask
   eget: naggie/dstask

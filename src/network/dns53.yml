@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Amazon Route53 中的动态 DNS。快速、轻松、私密地公开您的 EC2。
   en: Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately.
+  cs: Dynamické DNS v rámci Amazon Route53. Odhalte svou EC2 rychle, snadno a soukromě.
+  de: Dynamisches DNS innerhalb von Amazon Route53. Machen Sie Ihre EC2 schnell, einfach und privat zugänglich.
+  es: DNS dinámico dentro de Amazon Route53. Exponga su EC2 de forma rápida, fácil y privada.
+  fr: DNS dynamique au sein d'Amazon Route53. Exposez votre EC2 rapidement, facilement et en toute confidentialité.
+  id: DNS dinamis dalam Amazon Route53. Expose EC2 Anda dengan cepat, mudah, dan secara privat.
+  it: DNS dinamico all'interno di Amazon Route53. Espone la tua EC2 in modo rapido, semplice e privato.
+  ja: Amazon Route53 内の動的 DNS です。EC2 を迅速かつ簡単、そしてプライベートに公開できます。
+  ko: Amazon Route53 안의 동적 DNS입니다. EC2를 빠르고 간편하게 비공개로 노출하세요.
+  pl: Dynamiczny DNS w ramach Amazon Route53. Udostępnij swoją instancję EC2 szybko, łatwo i prywatnie.
+  pt: DNS dinâmico dentro do Amazon Route53. Exponha sua EC2 de forma rápida, fácil e privada.
+  ro: DNS dinamic în Amazon Route53. Expuneți-vă EC2 rapid, ușor și în mod privat.
+  ru: Динамический DNS в Amazon Route53. Быстро, просто и конфиденциально откройте свой EC2.
+  th: DNS แบบไดนามิกใน Amazon Route53 เปิดเผย EC2 ของคุณได้อย่างรวดเร็ว ง่ายดาย และเป็นการส่วนตัว.
+  tr: Amazon Route53 içinde dinamik DNS. EC2 makinenizi hızlı, kolay ve gizli bir şekilde yayınlayın.
+  uk: Динамічний DNS в Amazon Route53. Швидко, просто та конфіденційно відкрийте свій EC2.
+  vi: DNS động trong Amazon Route53. Công khai EC2 của bạn nhanh chóng, dễ dàng và riêng tư.
 x:
   source: https://github.com/purpleclay/dns53
   eget: purpleclay/dns53

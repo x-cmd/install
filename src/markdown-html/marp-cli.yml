@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于基于 Marp 和 Marpit 的转换器的 CLI 界面
   en: A CLI interface for Marp and Marpit based converters
+  cs: CLI rozhraní pro konvertery založené na Marp a Marpit
+  de: Eine CLI-Schnittstelle für Marp- und Marpit-basierte Konverter
+  es: Una interfaz de CLI para conversores basados en Marp y Marpit
+  fr: Une interface en ligne de commande pour les convertisseurs fondés sur Marp et Marpit
+  id: Antarmuka CLI untuk konverter berbasis Marp dan Marpit
+  it: Un'interfaccia CLI per convertitori basati su Marp e Marpit
+  ja: Marp と Marpit をベースとしたコンバーターの CLI インターフェース
+  ko: Marp 및 Marpit 기반 변환기를 위한 CLI 인터페이스
+  pl: Interfejs CLI dla konwerterów opartych na Marp i Marpit
+  pt: Uma interface de CLI para conversores baseados em Marp e Marpit
+  ro: O interfață CLI pentru convertoare bazate pe Marp și Marpit
+  ru: CLI-интерфейс для конвертеров на базе Marp и Marpit
+  th: อินเทอร์เฟซ CLI สำหรับตัวแปลงที่ใช้ Marp และ Marpit
+  tr: Marp ve Marpit tabanlı dönüştürücüler için bir CLI arayüzü
+  uk: CLI-інтерфейс для конвертерів на базі Marp і Marpit
+  vi: Giao diện CLI cho các bộ chuyển đổi dựa trên Marp và Marpit
 x:
   source: https://github.com/marp-team/marp-cli
   eget: marp-team/marp-cli

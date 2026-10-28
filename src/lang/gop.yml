@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Go+ 编程语言旨在工程、STEM 教育和数据科学领域应用。
   en: The Go+ programming language is designed for engineering, STEM education, and data science.
+  cs: Programovací jazyk Go+ je navržen pro strojířství, vzdělávání v STEM a datovou vědu.
+  de: Die Programmiersprache Go+ ist für Ingenieurwesen, STEM-Bildung und Datenwissenschaft konzipiert.
+  es: El lenguaje de programación Go+ está diseñado para ingeniería, educación STEM y ciencia de datos.
+  fr: Le langage de programmation Go+ est conçu pour l'ingénierie, l'éducation STEM et la science des données.
+  id: Bahasa pemrograman Go+ dirancang untuk rekayasa, pendidikan STEM, dan ilmu data.
+  it: Il linguaggio di programmazione Go+ è progettato per l'ingegneria, l'istruzione STEM e la scienza dei dati.
+  ja: Go+ プログラミング言語は、エンジニアリング、STEM 教育、データサイエンスのために設計されています。
+  ko: Go+ 프로그래밍 언어는 엔지니어링, STEM 교육 및 데이터 과학을 위해 설계되었습니다.
+  pl: Język programowania Go+ jest zaprojektowany z myślą o inżynierii, edukacji STEM i nauce o danych.
+  pt: A linguagem de programação Go+ foi projetada para engenharia, educação STEM e ciência de dados.
+  ro: Limbajul de programare Go+ este conceput pentru inginerie, educație STEM și știința datelor.
+  ru: Язык программирования Go+ создан для инженерии, STEM-образования и науки о данных.
+  th: ภาษาโปรแกรม Go+ ออกแบบมาเพื่อวิศวกรรม การศึกษา STEM และวิทยาศาสตร์ข้อมูล
+  tr: Go+ programlama dili mühendislik, STEM eğitimi ve veri bilimi için tasarlanmıştır.
+  uk: Мова програмування Go+ створена для інженерії, STEM-освіти та науки про дані.
+  vi: Ngôn ngữ lập trình Go+ được thiết kế cho kỹ thuật, giáo dục STEM và khoa học dữ liệu
 x:
   source: https://github.com/goplus/gop
   apt: gop

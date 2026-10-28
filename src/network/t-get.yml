@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: tget 是用于种子下载的 wget
   en: tget is wget for torrents
+  cs: tget je wget pro torrenty
+  de: tget ist wget für Torrents
+  es: tget es wget para torrents
+  fr: tget est un wget pour les torrents
+  id: tget adalah wget untuk torrent
+  it: tget è wget per i torrent
+  ja: tgetはTorrent用のwgetです
+  ko: tget는 토렌트를 위한 wget입니다
+  pl: tget to wget dla torrentów
+  pt: tget é o wget para torrents
+  ro: tget este wget pentru torrente
+  ru: tget — это wget для торрентов
+  th: tget คือ wget สำหรับทอร์เรนต์
+  tr: tget, torrentler için wget'tir
+  uk: tget — це wget для торентів
+  vi: tget là wget dành cho torrent
 x:
   source: https://github.com/jeffjose/tget
   yay: nodejs-tget

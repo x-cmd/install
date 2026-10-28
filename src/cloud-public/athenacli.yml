@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: AthenaCLI 是 AWS Athena 服务的一个 CLI 工具，可以自动补全和语法突显。
   en: AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+  cs: AthenaCLI je nástroj CLI pro službu AWS Athena, který nabízí automatické dokončování a zvýrazňování syntaxe.
+  de: AthenaCLI ist ein CLI-Werkzeug für den AWS Athena-Dienst mit automatischer Vervollständigung und Syntaxhervorhebung.
+  es: AthenaCLI es una herramienta de CLI para el servicio AWS Athena que ofrece autocompletado y resaltado de sintaxis.
+  fr: AthenaCLI est un outil en ligne de commande pour le service AWS Athena, avec complétion automatique et coloration syntaxique.
+  id: AthenaCLI adalah alat CLI untuk layanan AWS Athena yang menyediakan penyelesaian otomatis dan penyorotan sintaks.
+  it: AthenaCLI è uno strumento CLI per il servizio AWS Athena con completamento automatico ed evidenziazione della sintassi.
+  ja: AthenaCLI は AWS Athena サービス用の CLI ツールで、自動補完と構文のハイライトに対応しています。
+  ko: AthenaCLI는 AWS Athena 서비스를 위한 CLI 도구로 자동 완성과 구문 강조 표시를 지원합니다.
+  pl: AthenaCLI to narzędzie CLI dla usługi AWS Athena, które oferuje automatyczne uzupełnianie i podświetlanie składni.
+  pt: O AthenaCLI é uma ferramenta de CLI para o serviço AWS Athena que oferece autocompletar e realce de sintaxe.
+  ro: AthenaCLI este un instrument CLI pentru serviciul AWS Athena, care oferă completare automată și evidențierea sintaxei.
+  ru: AthenaCLI — это CLI-инструмент для сервиса AWS Athena с автодополнением и подсветкой синтаксиса.
+  th: AthenaCLI เป็นเครื่องมือ CLI สำหรับบริการ AWS Athena ที่รองรับการเติมข้อความอัตโนมัติและการไฮไลต์ไวยากรณ์
+  tr: AthenaCLI, AWS Athena servisi için otomatik tamamlama ve sözdizimi vurgulama sunan bir CLI aracıdır
+  uk: AthenaCLI — це CLI-інструмент для сервісу AWS Athena з автодоповненням і підсвічуванням синтаксису.
+  vi: AthenaCLI là công cụ CLI cho dịch vụ AWS Athena, hỗ trợ tự động hoàn thành và tô sáng cú pháp.
 x:
   source: https://github.com/dbcli/athenacli
   brew: athenacli

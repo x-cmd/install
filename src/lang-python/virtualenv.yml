@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Viralenv 是创建独立 Python 环境的工具
   en: virtualenv is a tool to create isolated Python environments
+  cs: virtualenv je nástroj pro vytváření izolovaných Python prostředí
+  de: virtualenv ist ein Werkzeug zum Erstellen isolierter Python-Umgebungen
+  es: virtualenv es una herramienta para crear entornos Python aislados
+  fr: virtualenv est un outil pour créer des environnements Python isolés
+  id: virtualenv adalah alat untuk membuat lingkungan Python yang terisolasi
+  it: virtualenv è uno strumento per creare ambienti Python isolati
+  ja: virtualenv は隔離された Python 環境を作成するためのツールです
+  ko: virtualenv는 격리된 Python 환경을 만드는 도구입니다
+  pl: virtualenv to narzędzie do tworzenia izolowanych środowisk Pythona
+  pt: virtualenv é uma ferramenta para criar ambientes Python isolados
+  ro: virtualenv este un instrument pentru crearea unor medii Python izolate
+  ru: virtualenv — инструмент для создания изолированных окружений Python
+  th: virtualenv เป็นเครื่องมือสำหรับสร้างสภาพแวดล้อม Python แบบแยกส่วน
+  tr: virtualenv, yalıtılmış Python ortamları oluşturmak için bir araçtır
+  uk: virtualenv — інструмент для створення ізольованих середовищ Python
+  vi: virtualenv là công cụ để tạo môi trường Python biệt lập
 x:
   source: https://github.com/pypa/virtualenv
   eget: pypa/virtualenv

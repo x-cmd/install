@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Rome 是用于 JavaScript、 TypeScript、 JSON、 HTML、 Markdown 和 CSS 的格式化程序、行程序、捆绑包和更多程序
   en: Rome is a formatter, linter, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS
+  cs: Rome je formátovač, linter, bundler a další nástroje pro JavaScript, TypeScript, JSON, HTML, Markdown a CSS
+  de: Rome ist ein Formatter, Linter, Bundler und mehr für JavaScript, TypeScript, JSON, HTML, Markdown und CSS
+  es: Rome es un formateador, linter, bundler y más para JavaScript, TypeScript, JSON, HTML, Markdown y CSS
+  fr: Rome est un formateur, linter, bundler et plus encore pour JavaScript, TypeScript, JSON, HTML, Markdown et CSS
+  id: Rome adalah formatter, linter, bundler, dan lainnya untuk JavaScript, TypeScript, JSON, HTML, Markdown, dan CSS
+  it: Rome è un formatter, un linter, un bundler e altro ancora per JavaScript, TypeScript, JSON, HTML, Markdown e CSS
+  ja: Rome は JavaScript、TypeScript、JSON、HTML、Markdown、CSS のためのフォーマッタ、リンタ、バンドラなどのツール群です
+  ko: Rome은 JavaScript, TypeScript, JSON, HTML, Markdown, CSS를 위한 포매터, 린터, 번들러 등입니다
+  pl: Rome to formatter, linter, bundler i nie tylko dla JavaScript, TypeScript, JSON, HTML, Markdown oraz CSS
+  pt: Rome é um formatador, linter, bundler e muito mais para JavaScript, TypeScript, JSON, HTML, Markdown e CSS
+  ro: Rome este un formatator, linter, bundler și multe altele pentru JavaScript, TypeScript, JSON, HTML, Markdown și CSS
+  ru: Rome — это форматтер, линтер, бандлер и многое другое для JavaScript, TypeScript, JSON, HTML, Markdown и CSS
+  th: Rome คือเครื่องมือจัดรูปแบบ ตรวจ lint รวมไฟล์ และอื่น ๆ สำหรับ JavaScript, TypeScript, JSON, HTML, Markdown และ CSS
+  tr: Rome, JavaScript, TypeScript, JSON, HTML, Markdown ve CSS için bir biçimlendirici, linter, paketleyici ve daha fazlasıdır
+  uk: Rome — це форматувальник, лінтер, бандлер та багато іншого для JavaScript, TypeScript, JSON, HTML, Markdown і CSS
+  vi: Rome là công cụ định dạng, linter, bundler và nhiều hơn nữa cho JavaScript, TypeScript, JSON, HTML, Markdown và CSS
 x:
   source: https://github.com/rome/tools
   eget: rome/tools

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubernetes 的安全秘密管理（使用 gpg、Google Cloud KMS 和 AWS KMS 后端）
   en: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
+  cs: Bezpečná správa Secret pro Kubernetes (s backendy gpg, Google Cloud KMS a AWS KMS)
+  de: Sichere Secret-Verwaltung für Kubernetes (mit gpg-, Google Cloud KMS- und AWS KMS-Backends)
+  es: Gestión segura de Secrets para Kubernetes (con backends gpg, Google Cloud KMS y AWS KMS)
+  fr: Gestion sécurisée des Secrets pour Kubernetes (avec backends gpg, Google Cloud KMS et AWS KMS)
+  id: Manajemen Secret yang aman untuk Kubernetes (dengan backend gpg, Google Cloud KMS, dan AWS KMS)
+  it: Gestione sicura dei Secret per Kubernetes (con backend gpg, Google Cloud KMS e AWS KMS)
+  ja: Kubernetes 向けの安全な Secret 管理（gpg、Google Cloud KMS、AWS KMS バックエンド対応）
+  ko: Kubernetes를 위한 안전한 Secret 관리(gpg, Google Cloud KMS 및 AWS KMS 백엔드 지원)
+  pl: Bezpieczne zarządzanie Secretami dla Kubernetes (z backendami gpg, Google Cloud KMS i AWS KMS)
+  pt: Gerenciamento seguro de Secrets para Kubernetes (com backends gpg, Google Cloud KMS e AWS KMS)
+  ro: Gestion securizată a Secret-urilor pentru Kubernetes (cu backenduri gpg, Google Cloud KMS și AWS KMS)
+  ru: Безопасное управление Secret в Kubernetes (с бэкендами gpg, Google Cloud KMS и AWS KMS)
+  th: การจัดการ Secret อย่างปลอดภัยสำหรับ Kubernetes (รองรับ gpg, Google Cloud KMS และ AWS KMS)
+  tr: Kubernetes için güvenli Secret yönetimi (gpg, Google Cloud KMS ve AWS KMS arka uçlarıyla)
+  uk: Безпечне керування Secret у Kubernetes (з бекендами gpg, Google Cloud KMS та AWS KMS)
+  vi: Quản lý Secret an toàn cho Kubernetes (với backend gpg, Google Cloud KMS và AWS KMS)
 x:
   source: https://github.com/shyiko/kubesec
   eget: shyiko/kubesec

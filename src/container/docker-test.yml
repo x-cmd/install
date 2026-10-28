@@ -3,6 +3,22 @@ homepage: https://test.docker.com
 desc:
   cn: Docker 安装脚本
   en: Docker installation script
+  cs: Instalační skript pro Docker
+  de: Docker-Installationsskript
+  es: Script de instalación de Docker
+  fr: Script d'installation de Docker
+  id: Skrip instalasi Docker
+  it: Script di installazione di Docker
+  ja: Dockerインストールスクリプト
+  ko: Docker 설치 스크립트
+  pl: Skrypt instalacyjny Dockera
+  pt: Script de instalação do Docker
+  ro: Script de instalare Docker
+  ru: Скрипт установки Docker
+  th: สคริปต์การติดตั้ง Docker
+  tr: Docker kurulum betiği
+  uk: Скрипт встановлення Docker
+  vi: Kịch bản cài đặt Docker
 rule:
   /curl:
     cmd: curl -fsSL https://test.docker.com -o test-docker.sh

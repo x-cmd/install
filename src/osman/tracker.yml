@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 基于终端的实时卫星追踪和轨道预测应用
   en: 'A terminal-based real-time satellite tracking and orbit prediction application.'
+  cs: Aplikace pro sledování satelitů a předpověď drah v reálném čase založená na terminálu.
+  de: Eine terminalbasierte Echtzeit-Satellitenverfolgung und Orbitvorhersage-Anwendung.
+  es: Una aplicación de seguimiento de satélites en tiempo real y predicción de órbitas basada en terminal.
+  fr: Une application de suivi des satellites en temps réel et de prédiction d'orbite basée sur le terminal.
+  id: Aplikasi pelacakan satelit real-time dan prediksi orbit berbasis terminal.
+  it: Un'applicazione basata sul terminale per il tracciamento dei satelliti in tempo reale e la previsione delle orbite.
+  ja: ターミナルベースのリアルタイム衛星追跡と軌道予測アプリケーション。
+  ko: 터미널 기반 실시간 위성 추적 및 궤도 예측 애플리케이션.
+  pl: Terminalowa aplikacja do śledzenia satelitów w czasie rzeczywistym i przewidywania orbit.
+  pt: Um aplicativo de rastreamento de satélites em tempo real e previsão de órbita baseado em terminal.
+  ro: O aplicație bazată pe terminal pentru urmărirea sateliților în timp real și predicția orbitelor.
+  ru: Терминальное приложение для отслеживания спутников в реальном времени и прогнозирования орбит.
+  th: แอปพลิเคชันติดตามดาวเทียมแบบเรียลไทม์และคำนวณวงโคจรบนเทอร์มินัล
+  tr: Terminal tabanlı gerçek zamanlı uydu takibi ve yörünge tahmini uygulaması.
+  uk: Термінальний застосунок для відстеження супутників у реальному часі та прогнозування орбіт.
+  vi: Ứng dụng theo dõi vệ tinh thời gian thực và dự đoán quỹ đạo dựa trên terminal.
 x:
   source: https://github.com/ShenMian/tracker
   eget: ShenMian/tracker

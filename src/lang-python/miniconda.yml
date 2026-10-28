@@ -3,6 +3,22 @@ homepage: https://github.com/conda/conda
 desc:
   cn: Anaconda Distribution 的精简版本，包含 `conda`、`Python` 以及少量的软件包，适用于数据科学和机器学习领域
   en: A streamlined version of Anaconda Distribution, featuring `conda`, `Python`, and a curated selection of packages, designed specifically for the fields of data science and machine learning.
+  cs: Zjednodušená verze Anaconda Distribution s `conda`, `Python` a kurátorským výběrem balíčků, určená přímo pro oblast datové vědy a strojového učení.
+  de: Eine schlankere Version von Anaconda Distribution mit `conda`, `Python` und einer kuratierten Auswahl an Paketen, speziell für Datenwissenschaft und maschinelles Lernen entwickelt.
+  es: Una versión optimizada de Anaconda Distribution, con `conda`, `Python` y una selección curada de paquetes, diseñada específicamente para los campos de la ciencia de datos y el aprendizaje automático.
+  fr: Une version allégée d'Anaconda Distribution, avec `conda`, `Python` et une sélection de paquets, conçue spécialement pour la science des données et l'apprentissage automatique.
+  id: Versi ringkas dari Anaconda Distribution, dengan `conda`, `Python`, dan pilihan paket terkurasi, yang dirancang khusus untuk bidang ilmu data dan pembelajaran mesin.
+  it: Una versione semplificata di Anaconda Distribution, con `conda`, `Python` e una selezione curata di pacchetti, progettata specificamente per la data science e il machine learning.
+  ja: Anaconda Distribution の軽量版で、`conda`、`Python`、厳選されたパッケージ群を備え、データサイエンスと機械学習分野のために特別に設計されています。
+  ko: Anaconda Distribution의 간소화된 버전으로, `conda`, `Python` 및 엄선된 패키지 모음을 제공하며 데이터 과학과 기계 학습 분야를 위해 특별히 설계되었습니다.
+  pl: Uproszczona wersja Anaconda Distribution, zawierająca `conda`, `Python` i starannie wybrany zestaw pakietów, zaprojektowana specjalnie dla obszarów data science i uczenia maszynowego.
+  pt: Uma versão enxuta do Anaconda Distribution, com `conda`, `Python` e uma seleção curada de pacotes, projetada especificamente para as áreas de ciência de dados e aprendizado de máquina.
+  ro: O versiune simplificată a Anaconda Distribution, cu `conda`, `Python` și o selecție de pachete, concepută special pentru domeniile științei datelor și învățării automate.
+  ru: Облегчённая версия Anaconda Distribution, включающая `conda`, `Python` и тщательно подобранный набор пакетов, созданная специально для науки о данных и машинного обучения.
+  th: เวอร์ชันแบบเรียบง่ายของ Anaconda Distribution มี `conda`, `Python` และแพ็กเกจที่คัดสรรมา ออกแบบมาเพื่อสาขาวิทยาศาสตร์ข้อมูลและการเรียนรู้ของเครื่องโดยเฉพาะ
+  tr: Anaconda Distribution'ın sadeleştirilmiş sürümü; `conda`, `Python` ve seçilmiş paketler içerir, veri bilimi ve makine öğrenmesi alanları için özel olarak tasarlanmıştır.
+  uk: Спрощена версія Anaconda Distribution із `conda`, `Python` та ретельно відібраним набором пакетів, створена спеціально для напрямів науки про дані та машинного навчання.
+  vi: Phiên bản rút gọn của Anaconda Distribution, gồm `conda`, `Python` và bộ sưu tậm gói được tuyển chọn, được thiết kế riêng cho lĩnh vực khoa học dữ liệu và học máy.
 x:
   source: https://github.com/conda/conda
   eget: conda/conda

@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: SIP 是一个非常容易为 C 和 C + + 库创建 Python 绑定的工具
   en: SIP is a tool that makes it very easy to create Python bindings for C and C++ libraries
+  cs: SIP je nástroj, který velmi usnadňuje vytváření Python vazeb pro knihovny C a C++
+  de: SIP ist ein Werkzeug, das das Erstellen von Python-Bindings für C- und C++-Bibliotheken sehr einfach macht
+  es: SIP es una herramienta que hace muy fácil crear bindings de Python para bibliotecas de C y C++
+  fr: SIP est un outil qui rend très facile la création de bindings Python pour les bibliothèques C et C++
+  id: SIP adalah alat yang membuat pembuatan binding Python untuk pustaka C dan C++ menjadi sangat mudah
+  it: SIP è uno strumento che rende molto facile creare binding Python per librerie C e C++
+  ja: SIP は C および C++ ライブラリ用の Python バインディングの作成を非常に簡単にするツールです
+  ko: SIP은 C 및 C++ 라이브러리를 위한 Python 바인딩 생성을 매우 쉽게 해주는 도구입니다
+  pl: SIP to narzędzie, które bardzo ułatwia tworzenie powiązań Pythona dla bibliotek C i C++
+  pt: O SIP é uma ferramenta que torna muito fácil criar ligações Python para bibliotecas C e C++
+  ro: SIP este un instrument care face foarte ușoară crearea legăturilor Python pentru bibliotecile C și C++
+  ru: SIP — это инструмент, который очень упрощает создание Python-привязок для библиотек C и C++
+  th: SIP คือเครื่องมือที่ทำให้การสร้าง binding ของ Python สำหรับไลบรารี C และ C++ ทำได้ง่ายมาก
+  tr: SIP, C ve C++ kitaplıkları için Python bağlantıları oluşturmayı çok kolaylaştıran bir araçtır
+  uk: SIP — це інструмент, який дуже спрощує створення Python-прив'язок для бібліотек C та C++
+  vi: SIP là công cụ giúp tạo binding Python cho các thư viện C và C++ trở nên rất dễ dàng
 x:
   source: https://github.com/Python-SIP/sip
   apt: sip-devel

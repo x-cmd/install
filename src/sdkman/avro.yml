@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache Avro™ 是记录数据的领先序列化格式，也是流数据管道的首选
   en: Apache Avro™ is the leading serialization format for record data, and first choice for streaming data pipelines
+  cs: Apache Avro™ je přední serializační formát pro záznamová data a první volba pro datové proudové pipeline
+  de: Apache Avro™ ist das führende Serialisierungsformat für Datensätze und die erste Wahl für Streaming-Datenpipelines
+  es: Apache Avro™ es el formato de serialización líder para datos de registro y la primera opción para canalizaciones de datos en streaming
+  fr: Apache Avro™ est le format de sérialisation de référence pour les données d'enregistrement et le premier choix pour les pipelines de données en flux
+  id: Apache Avro™ adalah format serialisasi terkemuka untuk data record, dan pilihan pertama untuk pipeline data streaming
+  it: Apache Avro™ è il formato di serializzazione leader per i dati record e la prima scelta per le pipeline di dati in streaming
+  ja: Apache Avro™ はレコードデータの主要シリアライゼーション形式であり、ストリーミングデータパイプラインの第一選択です
+  ko: Apache Avro™은 레코드 데이터의 주요 직렬화 형식이며 스트리밍 데이터 파이프라인의 첫 번째 선택입니다
+  pl: Apache Avro™ to wiodący format serializacji danych rekordowych i pierwszy wybór dla strumieniowych potoków danych
+  pt: Apache Avro™ é o formato de serialização líder para dados de registro e a primeira escolha para pipelines de dados em streaming
+  ro: Apache Avro™ este formatul de serializare de vârf pentru datele de înregistrare și prima alegere pentru fluxurile de date
+  ru: Apache Avro™ — ведущий формат сериализации для записей данных и первый выбор для потоковых конвейеров данных
+  th: Apache Avro™ คือรูปแบบการทำซีเรียลไลซ์ข้อมูลระเบียนที่ล้ำหน้า และเป็นตัวเลือกแรกสำหรับไปป์ไลน์ข้อมูลแบบสตรีมมิ่ง
+  tr: Apache Avro™, kayıt verileri için önde gelen serileştirme biçimidir ve akış verisi işlem hatları için ilk tercihtir
+  uk: Apache Avro™ — провідний формат серіалізації для даних записів і перший вибір для потокових конвеєрів даних
+  vi: Apache Avro™ là định dạng tuần tự hóa hàng đầu cho dữ liệu bản ghi và lựa chọn đầu tiên cho đường ống dữ liệu luồng
 x:
   source: https://github.com/apache/avro
   brew: avro-cpp

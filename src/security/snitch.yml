@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 更友好的网络连接检查工具
   en: 'a prettier way to inspect network connections'
+  cs: elegantnější způsob, jak prohlížet síťová připojení
+  de: eine elegantere Art, Netzwerkverbindungen zu untersuchen
+  es: una forma más elegante de inspeccionar las conexiones de red
+  fr: une façon plus élégante d'inspecter les connexions réseau
+  id: cara yang lebihcantik untuk memeriksa koneksi jaringan
+  it: un modo più elegante di ispezionare le connessioni di rete
+  ja: ネットワーク接続を調べる、より优雅な方法
+  ko: 네트워크 연결을 확인하는 더 보기 좋은 방법
+  pl: elegantszy sposób na przeglądanie połączeń sieciowych
+  pt: uma maneira mais bonita de inspecionar conexões de rede
+  ro: o modalitate mai elegantă de a inspecta conexiunile de rețea
+  ru: более удобный способ просмотра сетевых соединений
+  th: วิธีที่สวยงามกว่าในการตรวจสอบการเชื่อมต่อเครือข่าย
+  tr: ağ bağlantılarını incelemenin daha şık bir yolu
+  uk: зручніший спосіб переглядати мережеві з'єднання
+  vi: cách kiểm tra kết nối mạng gọn gàng hơn
 x:
   source: https://github.com/karol-broda/snitch
   eget: karol-broda/snitch

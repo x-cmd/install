@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Go 编写的二进制编辑器
   en: Binary editor written in Go
+  cs: Binární editor napsaný v Go
+  de: In Go geschriebener Binäreditor
+  es: Editor binario escrito en Go
+  fr: Éditeur binaire écrit en Go
+  id: Editor biner yang ditulis dengan Go
+  it: Editor binario scritto in Go
+  ja: Go で書かれたバイナリエディタ
+  ko: Go로 작성된 바이너리 에디터
+  pl: Edytor binarny napisany w Go
+  pt: Editor binário escrito em Go
+  ro: Editor binar scris în Go
+  ru: Бинарный редактор, написанный на Go
+  th: โปรแกรมแก้ไขไบนารีที่เขียนด้วย Go
+  tr: Go ile yazılmış ikili düzenleyici
+  uk: Бінарний редактор, написаний на Go
+  vi: Trình chỉnh sửa nhị phân viết bằng Go
 x:
   source: https://github.com/itchyny/bed
   eget: itchyny/bed

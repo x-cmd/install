@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 极简风格的自托管 RSS / Atom / JSON Feed 阅读器，Go 单二进制 + PostgreSQL
   en: A minimalist self-hosted RSS / Atom / JSON Feed reader. Go single binary + PostgreSQL.
+  cs: Minimalistická samohostovaná čtečka RSS / Atom / JSON Feed. Jeden binární soubor v Go + PostgreSQL.
+  de: Minimalistischer selbst gehosteter RSS / Atom / JSON Feed-Reader. Einzelnes Go-Binärdatei + PostgreSQL.
+  es: Lector RSS / Atom / JSON Feed minimalista y autoalojado. Un único binario de Go + PostgreSQL.
+  fr: Lecteur RSS / Atom / JSON Feed minimaliste et auto-hébergé. Binaire Go unique + PostgreSQL.
+  id: Pembaca RSS / Atom / JSON Feed minimalistik yang di-hosting sendiri. Binari Go tunggal + PostgreSQL.
+  it: Lettore RSS / Atom / JSON Feed minimalista e self-hosted. Singolo binario Go + PostgreSQL.
+  ja: ミニマルなセルフホスト型 RSS / Atom / JSON Feed リーダー。Go シングルバイナリ + PostgreSQL。
+  ko: 미니멀한 셀프호스팅 RSS / Atom / JSON Feed 리더. Go 단일 바이너리 + PostgreSQL.
+  pl: Minimalistyczny, samodzielnie hostowany czytnik RSS / Atom / JSON Feed. Jeden plik binarny Go + PostgreSQL.
+  pt: Leitor RSS / Atom / JSON Feed minimalista e auto-hospedado. Binário único em Go + PostgreSQL.
+  ro: Cititor RSS / Atom / JSON Feed minimalist, găzduit propriu. Un singur binar Go + PostgreSQL.
+  ru: Минималистичный самостоятельно размещаемый ридер RSS / Atom / JSON Feed. Один бинарник на Go + PostgreSQL.
+  th: ตัวอ่าน RSS / Atom / JSON Feed แบบมินิมัลและโฮสต์เอง ไบนารี Go ไฟล์เดียว + PostgreSQL
+  tr: Minimalist, kendi barındırdığınız RSS / Atom / JSON Feed okuyucu. Tek Go ikili dosyası + PostgreSQL.
+  uk: Мінімалістичний самостійно розміщуваний рідер RSS / Atom / JSON Feed. Один бінарник на Go + PostgreSQL.
+  vi: Trình đọc RSS / Atom / JSON Feed tối giản, tự host. Một tệp nhị phân Go duy nhất + PostgreSQL.
 x:
   source: https://github.com/miniflux/v2
   eget: miniflux/v2

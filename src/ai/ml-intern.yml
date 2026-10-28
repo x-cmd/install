@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: Hugging Face 官方推出的 ML 智能体，能自主调研、编写并交付高质量机器学习代码，深度接入 HF 文档、论文、数据集与云端算力。
   en: Automates machine learning development by researching, writing, and shipping code using the Hugging Face ecosystem via a command-line interface.
+  cs: Automatizuje vývoj strojového učení tím, že vyhledává, píše a dodává kód pomocí ekosystému Hugging Face prostřednictvím příkazové řádky.
+  de: Automatisiert die Entwicklung des maschinellen Lernens, indem es über eine Kommandozeile den Code mit der Hugging-Face-Ökosystem recherchiert, schreibt und ausliefert.
+  es: Automatiza el desarrollo de aprendizaje automático investigando, escribiendo y distribuiendo código con el ecosistema de Hugging Face desde una interfaz de línea de comandos.
+  fr: Automatise le développement de l'apprentissage automatique en recherchant, écrivant et livrant du code via l'écosystème Hugging Face depuis une interface de ligne de commande.
+  id: Mengotomatiskan pengembangan machine learning dengan meneliti, menulis, dan menerbitkan kode menggunakan ekosistem Hugging Face lewat antarmuka baris perintah.
+  it: Automatizza lo sviluppo del machine learning ricercando, scrivendo e rilasciando codice con l'ecosistema Hugging Face tramite un'interfaccia a riga di comando.
+  ja: Hugging Face エコシステムを活用したコマンドラインインターフェースから、コードを調査・記述・配布することで、機械学習の開発を自動化します。
+  ko: 명령줄 인터페이스를 통해 Hugging Face 에코시스템으로 코드를 조사하고 작성하며 배포하여 머신러닝 개발을 자동화합니다.
+  pl: Automatyzuje rozwój uczenia maszynowego, badając, pisząc i wydając kod za pomocą ekosystemu Hugging Face poprzez interfejs wiersza poleceń.
+  pt: Automatiza o desenvolvimento de machine learning pesquisando, escrevendo e entregando código com o ecossistema Hugging Face por meio de uma interface de linha de comando.
+  ro: Automatizează dezvoltarea învățării automate prin cercetare, scriere și livrare de cod cu ajutorul ecosistemului Hugging Face, prin interfață de linie de comandă.
+  ru: Автоматизирует разработку машинного обучения, исследуя, создавая и выпуская код с помощью экосистемы Hugging Face через командную строку.
+  th: ทำให้การพัฒนา machine learning เป็นอัตโนมัติด้วยการค้นคว้า เขียน และส่งมอบโค้ดโดยใช้ระบบนิเวศ Hugging Face ผ่านอินเทอร์เฟซบรรทัดคำสั่ง
+  tr: Hugging Face ekosistemini kullanarak makine öğrenmesi geliştirmesini araştırma, kod yazma ve yayımlama yoluyla otomatikleştirir.
+  uk: Автоматизує розробку машинного навчання, досліджуючи, створюючи та поширюючи код за допомогою екосистеми Hugging Face через командний рядок.
+  vi: Tự động hóa việc phát triển machine learning bằng cách nghiên cứu, viết và phát hành mã thông qua giao diện dòng lệnh với hệ sinh thái Hugging Face.
 x:
   source: https://github.com/huggingface/ml-intern
   pip: ml-intern

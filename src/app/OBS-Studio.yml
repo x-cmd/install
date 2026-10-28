@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 免费和开源的视频录制和现场流媒体软件
   en: Free and open source software for video recording and live streaming
+  cs: Bezplatný a open source software pro záznam videa a živé vysílání
+  de: Kostenlose und quelloffene Software für Videoaufnahme und Live-Streaming
+  es: Software libre y de código abierto para grabación de vídeo y transmisión en directo
+  fr: Logiciel libre et open source pour l'enregistrement vidéo et la diffusion en direct
+  id: Perangkat lunak gratis dan sumber terbuka untuk perekaman video dan live streaming
+  it: Software libero e open source per registrazione video e streaming live
+  ja: 動画撮影とライブ配信のための無料オープンソースソフトウェア
+  ko: 동영상 녹화 및 실시간 스트리밍을 위한 무료 오픈 소스 소프트웨어
+  pl: Bezpłatne i otwarte oprogramowanie do nagrywania wideo i transmisji na żywo
+  pt: Software livre e de código aberto para gravação de vídeo e transmissão ao vivo
+  ro: Software liber și open source pentru înregistrare video și streaming live
+  ru: Бесплатное программное обеспечение с открытым исходным кодом для записи видео и прямых трансляций
+  th: ซอฟต์แวร์ฟรีและโอเพนซอร์สสำหรับการบันทึกวิดีโอและการถ่ายทอดสด
+  tr: Video kaydı ve canlı yayın için ücretsiz ve açık kaynaklı yazılım
+  uk: Безкоштовне програмне забезпечення з відкритим кодом для запису відео та прямих трансляцій
+  vi: Phần mềm miễn phí và mã nguồn mở để ghi hình và phát trực tiếp
 x:
   source: https://github.com/obsproject/obs-studio
   eget: obsproject/obs-studio

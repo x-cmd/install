@@ -3,6 +3,22 @@ homepage: https://github.com/shadow-maint/shadow
 desc:
   cn: Shadow-utils 软件包包括将 UNIX 密码文件转换为影子密码格式的必要程序，以及用于管理用户和组帐户的程序
   en: The shadow-utils package includes the necessary programs for converting UNIX password files to the shadow password format, plus programs for managing user and group accounts
+  cs: Balíček shadow-utils obsahuje programy potřebné pro převod souborů hesel UNIX do formátu stínových hesel a také programy pro správu uživatelských a skupinových účtů
+  de: Das Paket shadow-utils enthält die erforderlichen Programme zur Umwandlung von UNIX-Passwortdateien in das Shadow-Passwortformat sowie Programme zur Verwaltung von Benutzer- und Gruppenkonten
+  es: El paquete shadow-utils incluye los programas necesarios para convertir archivos de contraseña UNIX al formato de contraseña shadow, además de programas para gestionar cuentas de usuario y de grupo
+  fr: Le paquet shadow-utils comprend les programmes nécessaires pour convertir les fichiers de mots de passe UNIX au format shadow, ainsi que des programmes de gestion des comptes utilisateurs et de groupe
+  id: Paket shadow-utils mencakup program yang diperlukan untuk mengubah file kata sandi UNIX ke format kata sandi shadow, serta program untuk mengelola akun pengguna dan grup
+  it: Il pacchetto shadow-utils include i programmi necessari per convertire i file di password UNIX nel formato shadow password, oltre ai programmi per gestire gli account utente e di gruppo
+  ja: shadow-utils パッケージには、UNIX パスワードファイルを shadow パスワード形式に変換するために必要なプログラムと、ユーザーおよびグループアカウントを管理するためのプログラムが含まれます
+  ko: shadow-utils 패키지에는 UNIX 비밀번호 파일을 shadow 비밀번호 형식으로 변환하는 데 필요한 프로그램과 사용자 및 그룹 계정을 관리하는 프로그램이 포함됩니다
+  pl: Pakiet shadow-utils zawiera programy potrzebne do konwersji plików haseł UNIX do formatu haseł w cieniu oraz programy do zarządzania kontami użytkowników i grup
+  pt: O pacote shadow-utils inclui os programas necessários para converter arquivos de senha UNIX no formato de senha shadow, além de programas para gerenciar contas de usuário e de grupo
+  ro: Pachetul shadow-utils include programele necesare pentru conversia fișierelor de parole UNIX în formatul parolei shadow, precum și programe pentru gestionarea conturilor de utilizator și de grup
+  ru: Пакет shadow-utils содержит программы для преобразования файлов паролей UNIX в формат shadow, а также программы для управления учетными записями пользователей и групп
+  th: แพ็กเกจ shadow-utils ประกอบด้วยโปรแกรมที่จำเป็นสำหรับแปลงไฟล์รหัสผ่าน UNIX เป็นรูปแบบรหัสผ่าน shadow รวมถึงโปรแกรมสำหรับจัดการบัญชีผู้ใช้และกลุ่ม
+  tr: shadow-utils paketi, UNIX parola dosyalarını shadow parola biçimine dönüştürmek için gereken programları ve kullanıcı ile grup hesaplarını yöneten programları içerir
+  uk: Пакет shadow-utils містить програми, потрібні для перетворення файлів паролів UNIX у формат тіньових паролів, а також програми для керування обліковими записами користувачів і груп
+  vi: Gói shadow-utils bao gồm các chương trình cần thiết để chuyển đổi tệp mật khẩu UNIX sang định dạng mật khẩu shadow, cùng các chương trình để quản lý tài khoản người dùng và nhóm
 x:
   source: https://github.com/shadow-maint/shadow
   eget: shadow-maint/shadow

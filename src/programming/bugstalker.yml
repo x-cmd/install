@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 Linux x86-64 的 Rust 调试器
   en: 'Rust debugger for Linux x86-64'
+  cs: Ladicí nástroj Rust pro Linux x86-64
+  de: Rust-Debugger für Linux x86-64
+  es: Depurador de Rust para Linux x86-64
+  fr: Débogueur Rust pour Linux x86-64
+  id: Debugger Rust untuk Linux x86-64
+  it: Debugger Rust per Linux x86-64
+  ja: Linux x86-64 用の Rust デバッガー
+  ko: Linux x86-64용 Rust 디버거
+  pl: Debugger Rust dla Linux x86-64
+  pt: Depurador Rust para Linux x86-64
+  ro: Depurător Rust pentru Linux x86-64
+  ru: Отладчик Rust для Linux x86-64
+  th: ตัวดีบัก Rust สำหรับ Linux x86-64
+  tr: Linux x86-64 için Rust hata ayıklayıcı
+  uk: Відладчик Rust для Linux x86-64
+  vi: Trình gỡ lỗi Rust cho Linux x86-64
 x:
   source: https://github.com/godzie44/BugStalker
   eget: godzie44/BugStalker

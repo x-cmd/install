@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 仅凭用户名即可跨 3000+ 站点探测账号并生成详细 OSINT 档案，用于自查数字足迹、安全研究与授权调查。
   en: Find a person's online accounts across 3,000+ websites by username and generate detailed OSINT reports.
+  cs: Najděte online účty člověka na 3000+ webových stránkách podle uživatelského jména a vygenerujte podrobné zprávy OSINT.
+  de: Finden Sie die Online-Konten einer Person anhand des Benutzernamens über 3000+ Websites hinweg und erstellen Sie detaillierte OSINT-Berichte.
+  es: Encuentra las cuentas en línea de una persona en más de 3000 sitios web por nombre de usuario y genera informes OSINT detallados.
+  fr: Trouvez les comptes en ligne d'une personne sur plus de 3 000 sites web à partir de son nom d'utilisateur et générez des rapports OSINT détaillés.
+  id: Temukan akun daring seseorang di 3000+ situs web berdasarkan nama pengguna dan hasilkan laporan OSINT yang mendetail.
+  it: Trova gli account online di una persona su oltre 3.000 siti web tramite il nome utente e genera dettagliati report OSINT.
+  ja: ユーザー名だけで 3000 以上のウェブサイトから個人のオンラインアカウントを探し、詳細な OSINT レポートを生成します。
+  ko: 사용자 이름만으로 3,000개 이상의 웹사이트에서 한 사람의 온라인 계정을 찾아 상세한 OSINT 보고서를 생성합니다.
+  pl: Znajdź konta online osoby w ponad 3000 witryn na podstawie nazwy użytkownika i wygeneruj szczegółowe raporty OSINT.
+  pt: Encontre as contas online de uma pessoa em mais de 3.000 sites por nome de usuário e gere relatórios OSINT detalhados.
+  ro: Găsește conturile online ale unei persoane pe peste 3.000 de site-uri după numele de utilizator și generează rapoarte OSINT detaliate.
+  ru: Найдите онлайн-аккаунты человека на более чем 3000 сайтах по имени пользователя и сгенерируйте подробные отчёты OSINT.
+  th: ค้นหาบัญชีออนไลน์ของบุคคลบนเว็บไซต์กว่า 3,000 แห่งจากชื่อผู้ใช้ และสร้างรายงาน OSINT อย่างละเอียด
+  tr: Kullanıcı adına göre 3.000'den fazla web sitesinde bir kişinin çevrimiçi hesaplarını bulun ve ayrıntılı OSINT raporları üretin.
+  uk: Знайдіть онлайн-акаунти людини на понад 3000 сайтах за іменем користувача та згенеруйте докладні звіти OSINT.
+  vi: Tìm tài khoản trực tuyến của một người trên hơn 3.000 trang web bằng tên người dùng và tạo báo cáo OSINT chi tiết.
 x:
   source: https://github.com/soxoj/maigret
   pip: maigret

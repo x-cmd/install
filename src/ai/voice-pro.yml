@@ -4,6 +4,22 @@ license: gpl-3.0
 desc:
   cn: 免费自托管的 Web 应用，支持语音克隆，可对音视频内容进行转录、翻译和配音
   en: Transcribe, translate, and dub audio or video content with voice cloning using a free, self-hosted web application.
+  cs: Přepisujte, překládejte a namluvujte zvuková či video obsah pomocí klonování hlasu v bezplatné, samostatně hostované webové aplikaci.
+  de: Audio- oder Videoinhalte mit Voice Cloning mithilfe einer kostenlosen, selbst gehosteten Webanwendung transkribieren, übersetzen und synchronisieren.
+  es: Transcribe, traduzca y dubbed el contenido de audio o video con clonación de voz mediante una aplicación web gratuita y autoalojada.
+  fr: Transcrivez, traduisez et dubbez des contenus audio ou vidéo avec le clonage vocal à l'aide d'une application web gratuite et auto-hébergée.
+  id: Transkripsikan, terjemahkan, dan sulih suara konten audio atau video dengan cloning suara menggunakan aplikasi web gratis yang di-hosting sendiri.
+  it: Trascrivi, traduci e doppia contenuti audio o video con il clone vocale usando un'applicazione web gratuita e self-hosted.
+  ja: 無料で自ホストできる Web アプリを使い、音声クローンで音声・動画コンテンツを文字起こし・翻訳・吹き替えします。
+  ko: 무료 자체 호스팅 웹 앱을 사용해 음성 복제 기술로 오디오나 비디오 콘텐츠를 전사, 번역, 더빙합니다.
+  pl: Transkrybuj, tłumacz i dubluj treści audio lub wideo za pomocą klonowania głosu w darmowej, samodzielnie hostowanej aplikacji webowej.
+  pt: Transcreva, traduza e dublê conteúdo de áudio ou vídeo com clonagem de voz usando um aplicativo web gratuito e auto-hospedado.
+  ro: Transcrieți, traduceți și dublați conținut audio sau video prin clonarea vocii folosind o aplicație web gratuită, găzduită pe propriul server.
+  ru: Транскрибируйте, переводите и озвучивайте аудио- и видеоконтент с помощью клонирования голоса в бесплатном приложении, размещённом на собственном сервере.
+  th: ถอดเสียง แปล และพากย์เสียงสำหรับคอนเทนต์เสียงหรือวิดีโอด้วยการโคลนเสียง ผ่านเว็บแอปพลิเคชันฟรีที่โฮสต์เอง
+  tr: Ücretsiz, kendi sunucunuzda barındırılan bir web uygulamasıyla ses klonlama kullanarak ses ve video içeriğini yazıya dökün, çevirin ve seslendirin.
+  uk: Транскрибуйте, перекладайте та озвучуйте аудіо- й відеоконтент за допомогою клонування голосу у безкоштовному застосунку, розміщеному на власному сервері.
+  vi: Chép lời, dịch và lồng tiếng cho nội dung âm thanh hoặc video bằng công nghệ nhân bản giọng nói qua ứng dụng web miễn phí tự lưu trữ.
 x:
   source: https://github.com/abus-aikorea/voice-pro
 rule:

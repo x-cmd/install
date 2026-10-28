@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 磁盘分析与清理工具
   en: 'Disk analyser and cleanup tool'
+  cs: Nástroj pro analýzu disku a úklid
+  de: Datenträger-Analyse- und Aufräumwerkzeug
+  es: Herramienta de análisis y limpieza de disco
+  fr: Outil d'analyse et de nettoyage de disque
+  id: Alat analisis dan pembersihan disk
+  it: Strumento di analisi e pulizia del disco
+  ja: ディスクの分析とクリーンアップツール
+  ko: 디스크 분석 및 정리 도구
+  pl: Narzędzie do analizy i czyszczenia dysku
+  pt: Ferramenta de análise e limpeza de disco
+  ro: Instrument de analiză și curățare a discului
+  ru: Инструмент для анализа и очистки диска
+  th: เครื่องมือวิเคราะห์และทำความสะอาดดิสก์
+  tr: Disk analizi ve temizleme aracı
+  uk: Інструмент для аналізу та очищення диска
+  vi: Công cụ phân tích và dọn dẹp ổ đĩa
 x:
   source: https://github.com/ikebastuz/wiper
   eget: ikebastuz/wiper

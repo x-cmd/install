@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Google Chrome 是一个由 Google 开发的快速、安全的网页浏览器，基于 Blink 引擎。
   en: Google Chrome is a fast, secure web browser built by Google, powered by the Blink engine.
+  cs: Google Chrome je rychlý a bezpečný webový prohlížeč od Google, založený na enginu Blink.
+  de: Google Chrome ist ein schneller, sicherer Webbrowser von Google, basierend auf der Blink-Engine.
+  es: Google Chrome es un navegador web rápido y seguro creado por Google, basado en el motor Blink.
+  fr: Google Chrome est un navigateur web rapide et sécurisé conçu par Google, fondé sur le moteur Blink.
+  id: Google Chrome adalah browser web cepat dan aman yang dibuat oleh Google, bertenaga mesin Blink.
+  it: Google Chrome è un browser web veloce e sicuro realizzato da Google, basato sul motore Blink.
+  ja: Google Chrome は Google が開発した高速で安全なウェブブラウザで、Blink エンジンを搭載しています。
+  ko: Google Chrome는 Google이 만든 빠르고 안전한 웹 브라우저로, Blink 엔진을 사용합니다.
+  pl: Google Chrome to szybka i bezpieczna przeglądarka internetowa stworzona przez Google, oparta na silniku Blink.
+  pt: O Google Chrome é um navegador web rápido e seguro criado pelo Google, com o motor Blink.
+  ro: Google Chrome este un browser web rapid și sigur creat de Google, bazat pe motorul Blink.
+  ru: Google Chrome — это быстрый и безопасный веб-браузер от Google, работающий на движке Blink.
+  th: Google Chrome เป็นเว็บเบราว์เซอร์ที่รวดเร็วและปลอดภัย พัฒนาโดย Google ใช้เอนจิน Blink
+  tr: Google Chrome, Blink motoruyla çalışan, Google tarafından geliştirilen hızlı ve güvenli bir web tarayıcısıdır.
+  uk: Google Chrome — це швидкий і безпечний веббраузер від Google, що працює на рушієві Blink.
+  vi: Google Chrome là trình duyệt web nhanh và an toàn do Google xây dựng, dựa trên engine Blink.
 x:
   source: https://chromium.googlesource.com/chromium/src/
   brew: google-chrome

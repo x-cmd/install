@@ -3,6 +3,22 @@ homepage: https://cr.yp.to/daemontools.html
 desc:
   cn: Daemontools 是用于管理 UNIX 服务的工具集
   en: Daemontools is a collection of tools for managing UNIX services
+  cs: Daemontools je sada nástrojů pro správu služeb UNIX
+  de: Daemontools ist eine Sammlung von Werkzeugen zur Verwaltung von UNIX-Diensten
+  es: Daemontools es una colección de herramientas para administrar servicios UNIX
+  fr: Daemontools est une collection d'outils pour gérer les services UNIX
+  id: Daemontools adalah kumpulan alat untuk mengelola layanan UNIX
+  it: Daemontools è una raccolta di strumenti per gestire i servizi UNIX
+  ja: DaemontoolsはUNIXサービスの管理のためのツール集です
+  ko: Daemontools는 UNIX 서비스 관리를 위한 도구 모음입니다
+  pl: Daemontools to zestaw narzędzi do zarządzania usługami UNIX
+  pt: Daemontools é uma coleção de ferramentas para gerenciar serviços UNIX
+  ro: Daemontools este o colecție de instrumente pentru gestionarea serviciilor UNIX
+  ru: Daemontools — это набор инструментов для управления службами UNIX
+  th: Daemontools คือชุดเครื่องมือสำหรับจัดการบริการ UNIX
+  tr: Daemontools, UNIX servislerini yönetmek için bir araç koleksiyonudur
+  uk: Daemontools — це набір інструментів для керування службами UNIX
+  vi: Daemontools là bộ công cụ để quản lý dịch vụ UNIX
 rule:
   arch/yay:
     cmd: yay -S daemontools-encore

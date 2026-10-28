@@ -3,6 +3,22 @@ homepage: https://github.com/golang-migrate/migrate
 desc:
   cn: 用 Go 编写的数据库迁移工具，用作 CLI 或导入为库
   en: Database migrations written in Go,use as CLI or import as library
+  cs: Migrace databází napsané v Go, použitelné jako CLI nebo importované jako knihovna
+  de: Datenbankmigrationen, geschrieben in Go, als CLI nutzbar oder als Bibliothek importierbar
+  es: Migraciones de bases de datos escritas en Go, usables como CLI o importables como biblioteca
+  fr: Migrations de bases de données écrites en Go, utilisables comme CLI ou importables comme bibliothèque
+  id: Migrasi database yang ditulis dengan Go, dapat digunakan sebagai CLI atau diimpor sebagai pustaka
+  it: Migrazioni del database scritte in Go, utilizzabili come CLI o importabili come libreria
+  ja: Go で書かれたデータベース移行ツール。CLI として使うことも、ライブラリとしてインポートすることもできる
+  ko: Go로 작성된 데이터베이스 마이그레이션으로 CLI로 사용하거나 라이브러리로 가져올 수 있습니다.
+  pl: Migracje baz danych napisane w Go, używane jako CLI lub importowane jako biblioteka
+  pt: Migrações de banco de dados escritas em Go, para usar como CLI ou importar como biblioteca
+  ro: Migrări de bază de date scrise în Go, utilizabile ca CLI sau importabile ca bibliotecă
+  ru: Миграции баз данных, написанные на Go, используются как CLI или импортируются как библиотека
+  th: การย้ายฐานข้อมูลที่เขียนด้วย Go ใช้เป็น CLI หรือนำเข้าเป็นไลบรารีได้
+  tr: Go ile yazılmış veritabanı geçişleri, CLI olarak kullanılabilir veya kütüphane olarak içe aktarılabilir
+  uk: Міграції баз даних, написані на Go, використовуються як CLI або імпортуються як бібліотека
+  vi: Các bản di chuyển cơ sở dữ liệu viết bằng Go, dùng như CLI hoặc import như thư viện
 x:
   source: https://github.com/golang-migrate/migrate
   eget: golang-migrate/migrate

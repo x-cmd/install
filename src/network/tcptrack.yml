@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: tcptrack 是一个嗅探器，显示有关它在网络接口上看到的 TCP 连接的信息。
   en: tcptrack is a sniffer which displays information about TCP connections it sees on a network interface.
+  cs: tcptrack je zachytávač, který zobrazuje informace o připojeních TCP, jež vidí na síťovém rozhraní.
+  de: tcptrack ist ein Sniffer, der Informationen über TCP-Verbindungen anzeigt, die er auf einer Netzwerkschnittstelle sieht.
+  es: tcptrack es un analizador de red que muestra información sobre las conexiones TCP que ve en una interfaz de red.
+  fr: tcptrack est un analyseur de trafic qui affiche des informations sur les connexions TCP qu'il voit sur une interface réseau.
+  id: tcptrack adalah sniffer yang menampilkan informasi tentang koneksi TCP yang dilihatnya pada antarmuka jaringan.
+  it: tcptrack è uno sniffer che mostra informazioni sulle connessioni TCP che rileva su un'interfaccia di rete.
+  ja: tcptrackは、ネットワークインターフェース上で検出されたTCP接続の情報を表示するパケットキャプチャツールです。
+  ko: tcptrack은 네트워크 인터페이스에서 감지한 TCP 연결 정보를 표시하는 스니퍼입니다.
+  pl: tcptrack to sniffer wyświetlający informacje o połączeniach TCP widzianych na interfejsie sieciowym.
+  pt: tcptrack é um sniffer que exibe informações sobre conexões TCP que ele vê em uma interface de rede.
+  ro: tcptrack este un sniffer care afișează informații despre conexiunile TCP observate pe o interfață de rețea.
+  ru: tcptrack — это сниффер, отображающий информацию о TCP-соединениях, которые он видит на сетевом интерфейсе.
+  th: tcptrack คือ sniffer ที่แสดงข้อมูลเกี่ยวกับการเชื่อมต่อ TCP ที่พบบนอินเทอร์เฟซเครือข่าย.
+  tr: tcptrack, bir ağ arabiriminde gördüğü TCP bağlantıları hakkında bilgi gösteren bir sniffer'dır.
+  uk: tcptrack — це снифер, який показує інформацію про TCP-з'єднання, помічені ним на мережевому інтерфейсі.
+  vi: tcptrack là sniffer hiển thị thông tin về các kết nối TCP mà nó phát hiện trên một giao diện mạng.
 x:
   source: https://github.com/bchretien/tcptrack
   apt: tcptrack

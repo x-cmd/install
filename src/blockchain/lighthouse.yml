@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: An open-source Ethereum consensus client, written in Rust and maintained by Sigma Prime
   cn: 一个开源以太网共识客户端，用 Rust 语言编写，由 Sigma Prime 维护
+  cs: Open source klient konsenzu Ethereum napsaný v Rustu a udržovaný společností Sigma Prime
+  de: Ein Open-Source-Ethereum-Konsensclient, geschrieben in Rust und gepflegt von Sigma Prime
+  es: Un cliente de consenso de Ethereum de código abierto, escrito en Rust y mantenido por Sigma Prime
+  fr: Un client de consensus Ethereum open source, écrit en Rust et maintenu par Sigma Prime
+  id: Klien konsensus Ethereum sumber terbuka yang ditulis dalam Rust dan dipelihara oleh Sigma Prime
+  it: Un client di consenso Ethereum open source, scritto in Rust e mantenuto da Sigma Prime
+  ja: Rust で書かれたオープンソースの Ethereum コンセンサスクライアンで、Sigma Prime が保守しています
+  ko: Rust로 작성되고 Sigma Prime에서 관리하는 오픈 소스 Ethereum 컨센서스 클라이언트입니다
+  pl: Klient konsensusu Ethereum o otwartym kodzie, napisany w Rust i utrzymywany przez Sigma Prime
+  pt: Um cliente de consenso do Ethereum de código aberto, escrito em Rust e mantido pela Sigma Prime
+  ro: Un client de consens Ethereum cu sursă deschisă, scris în Rust și întreținut de Sigma Prime
+  ru: Клиент консенсуса Ethereum с открытым исходным кодом, написанный на Rust и поддерживаемый Sigma Prime
+  th: ไคลเอนต์ฉันทามติของ Ethereum แบบโอเพนซอร์ส เขียนด้วย Rust และดูแลโดย Sigma Prime
+  tr: Rust ile yazılmış ve Sigma Prime tarafından sürdürülen açık kaynaklı bir Ethereum konsensüs istemcisi
+  uk: Відкритий клієнт консенсусу Ethereum, написаний на Rust і підтримуваний Sigma Prime
+  vi: Khách hàng đồng thuận Ethereum mã nguồn mở, viết bằng Rust và được Sigma Prime duy trì
 x:
   source: https://github.com/sigp/lighthouse
   eget: sigp/lighthouse

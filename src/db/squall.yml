@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: SQLite 的 TUI 查看器与编辑器
   en: 'A TUI SQLite Viewer and Editor'
+  cs: TUI prohlížeč a editor SQLite
+  de: Ein TUI-Viewer und -Editor für SQLite
+  es: Un visor y editor de SQLite con TUI
+  fr: Un visualiseur et éditeur SQLite en TUI
+  id: Viewer dan editor SQLite berbasis TUI
+  it: Un visualizzatore ed editor SQLite con TUI
+  ja: TUI 製の SQLite ビューアー兼エディター
+  ko: TUI 기반 SQLite 뷰어 및 편집기
+  pl: Przeglądarka i edytor SQLite w TUI
+  pt: Um visualizador e editor de SQLite com TUI
+  ro: Un vizualizator și editor SQLite bazat pe TUI
+  ru: TUI-просмотрщик и редактор SQLite
+  th: โปรแกรมดูและแก้ไข SQLite แบบ TUI
+  tr: SQLite için TUI görüntüleyici ve düzenleyici
+  uk: TUI-переглядач і редактор SQLite
+  vi: Trình xem và chỉnh sửa SQLite dựa trên TUI
 x:
   source: https://github.com/driscollis/squall
   eget: driscollis/squall

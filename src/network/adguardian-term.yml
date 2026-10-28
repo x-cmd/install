@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向 AdGuard Home 实例的终端实时流量监控与统计工具
   en: '🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance'
+  cs: 🛡️ Monitorování a statistika provozu v reálném čase pro vaši instanci AdGuard Home, založené na terminálu
+  de: 🛡️ Terminalbasierte Echtzeit-Überwachung und Statistik für Ihre AdGuard Home-Instanz
+  es: 🛡️ Monitoreo y estadísticas de tráfico en tiempo real basados en terminal para tu instancia de AdGuard Home
+  fr: 🛡️ Surveillance et statistiques du trafic en temps réel depuis le terminal pour votre instance AdGuard Home
+  id: 🛡️ Pemantauan dan statistik lalu lintas waktu nyata berbasis terminal untuk instance AdGuard Home Anda
+  it: 🛡️ Monitoraggio e statistiche del traffico in tempo reale basati su terminale per la tua istanza AdGuard Home
+  ja: 🛡️ AdGuard Home インスタンス向けのターミナルベースリアルタイムトラフィック監視と統計
+  ko: 🛡️ AdGuard Home 인스턴스를 위한 터미널 기반 실시간 트래픽 모니터링 및 통계
+  pl: 🛡️ Monitorowanie ruchu w czasie rzeczywistym i statystyki oparte na terminalu dla Twojej instancji AdGuard Home
+  pt: 🛡️ Monitoramento e estatísticas de tráfego em tempo real baseados em terminal para sua instância do AdGuard Home
+  ro: 🛡️ Monitorizarea și statistici de trafic în timp real bazate pe terminal pentru instanța ta AdGuard Home
+  ru: 🛡️ Мониторинг трафика в реальном времени и статистика на основе терминала для вашего экземпляра AdGuard Home
+  th: 🛡️ การตรวจสอบและสถิติทราฟฟิกแบบเรียลไทม์จากเทอร์มินัลสำหรับ AdGuard Home อินสแตนซ์ของคุณ
+  tr: 🛡️ AdGuard Home örneğiniz için terminal tabanlı, gerçek zamanlı trafik izleme ve istatistikleri
+  uk: 🛡️ Термінальний моніторинг трафіку в реальному часі та статистика для вашого екземпляра AdGuard Home
+  vi: 🛡️ Giám sát và thống kê lưu lượng thời gian thực dựa trên terminal cho phiên bản AdGuard Home của bạn
 x:
   source: https://github.com/Lissy93/AdGuardian-Term
   eget: Lissy93/AdGuardian-Term

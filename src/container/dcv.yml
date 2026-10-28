@@ -3,6 +3,22 @@ homepage: https://github.com/tokuhirom/dcv
 desc:
   cn: docker-compose 的 TUI 查看器
   en: TUI viewer for docker-compose
+  cs: TUI prohlížeč pro docker-compose
+  de: TUI-Viewer für docker-compose
+  es: Visor TUI para docker-compose
+  fr: Visionneuse TUI pour docker-compose
+  id: Penampil TUI untuk docker-compose
+  it: Visualizzatore TUI per docker-compose
+  ja: docker-compose用のTUIビューア
+  ko: docker-compose용 TUI 뷰어
+  pl: Przeglądarka TUI dla docker-compose
+  pt: Visualizador TUI para docker-compose
+  ro: Vizualizator TUI pentru docker-compose
+  ru: TUI-просмотрщик для docker-compose
+  th: ตัวดูภาพแบบ TUI สำหรับ docker-compose
+  tr: docker-compose için TUI görüntüleyici
+  uk: TUI-переглядач для docker-compose
+  vi: Trình xem TUI cho docker-compose
 x:
   source: https://github.com/tokuhirom/dcv
   eget: tokuhirom/dcv

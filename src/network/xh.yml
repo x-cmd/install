@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: xh 是用于发送 HTTP 请求的友好而快速的工具
   en: xh is a friendly and fast tool for sending HTTP requests
+  cs: xh je přátelský a rychlý nástroj pro odesílání HTTP požadavků
+  de: xh ist ein freundliches und schnelles Werkzeug zum Senden von HTTP-Anfragen
+  es: xh es una herramienta amigable y rápida para enviar solicitudes HTTP
+  fr: xh est un outil convivial et rapide pour envoyer des requêtes HTTP
+  id: xh adalah alat yang ramah dan cepat untuk mengirim permintaan HTTP
+  it: xh è uno strumento intuitivo e veloce per inviare richieste HTTP
+  ja: xh は HTTP リクエストを送信するための親しみやすい高速なツールです
+  ko: xh는 HTTP 요청을 보내기 위한 친절하고 빠른 도구입니다
+  pl: xh to przyjazne i szybkie narzędzie do wysyłania żądań HTTP
+  pt: xh é uma ferramenta amigável e rápida para enviar requisições HTTP
+  ro: xh este un instrument prietenos și rapid pentru trimiterea cererilor HTTP
+  ru: xh — дружелюбный и быстрый инструмент для отправки HTTP-запросов
+  th: xh คือเครื่องมือที่ใช้งานง่ายและรวดเร็วสำหรับส่งคำขอ HTTP
+  tr: xh, HTTP istekleri göndermek için kullanıcı dostu ve hızlı bir araçtır
+  uk: xh — зручний і швидкий інструмент для надсилання HTTP-запитів
+  vi: xh là công cụ thân thiện và nhanh để gửi các yêu cầu HTTP
 x:
   source: https://github.com/ducaale/xh
   eget: ducaale/xh

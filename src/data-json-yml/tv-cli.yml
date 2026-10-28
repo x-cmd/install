@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 将 json 数据格式化表格进行查看
   en: Format json into table view
+  cs: Formátuje json do tabulkového zobrazení
+  de: Formatiert JSON als Tabellenansicht
+  es: Formatea json en una vista de tabla
+  fr: Formate le json en vue tableau
+  id: Memformat json menjadi tampilan tabel
+  it: Formatta json in una vista tabellare
+  ja: jsonをテーブル表示に整形します
+  ko: json을 테이블 보기로 변환합니다
+  pl: Formatuje json do widoku tabeli
+  pt: Formata json em uma visualização de tabela
+  ro: Formatează json într-o vedere de tabel
+  ru: Форматирует json в табличное представление
+  th: จัดรูปแบบ json เป็นมุมมองแบบตาราง
+  tr: json verisini tablo görünümüne biçimlendirir
+  uk: Форматує json у вигляді таблиці
+  vi: Định dạng json thành chế độ xem bảng
 x:
   source: https://github.com/adbar/trafilatura
   brew: uzimaru0000/tap/tv

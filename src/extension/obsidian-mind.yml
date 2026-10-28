@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 为 AI 编码 Agent 提供持久记忆的 Obsidian 仓库,支持 Claude Code、Codex CLI、Gemini CLI
   en: An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+  cs: Obsidian vault, který dává kódovacím agentům AI trvalou paměť. Claude Code, Codex CLI, Gemini CLI.
+  de: Ein Obsidian-Vault, der KI-Coding-Agents dauerhaftes Gedächtnis gibt. Claude Code, Codex CLI, Gemini CLI.
+  es: Una bóveda de Obsidian que da a los agentes de programación de IA memoria persistente. Claude Code, Codex CLI, Gemini CLI.
+  fr: Un coffre Obsidian qui offre aux agents de codage IA une mémoire persistante. Claude Code, Codex CLI, Gemini CLI.
+  id: Vault Obsidian yang memberi memori persisten kepada agen pemrograman AI. Claude Code, Codex CLI, Gemini CLI.
+  it: Un vault Obsidian che offre agli agenti di codifica IA una memoria persistente. Claude Code, Codex CLI, Gemini CLI.
+  ja: AI コーディングエージェントに永続的な記憶を与える Obsidian の vault。Claude Code、Codex CLI、Gemini CLI。
+  ko: AI 코딩 에이전트에 지속적 메모리를 제공하는 Obsidian 보관함. Claude Code, Codex CLI, Gemini CLI.
+  pl: Skrzynka Obsidian, która daje agentom programowania AI trwałą pamięć. Claude Code, Codex CLI, Gemini CLI.
+  pt: Um cofre Obsidian que dá memória persistente aos agentes de programação de IA. Claude Code, Codex CLI, Gemini CLI.
+  ro: Un vault Obsidian care oferă agenților de codare AI memorie persistentă. Claude Code, Codex CLI, Gemini CLI.
+  ru: Хранилище Obsidian, дающее ИИ-агентам программирования постоянную память. Claude Code, Codex CLI, Gemini CLI.
+  th: คลัง Obsidian ที่ให้หน่วยความจำถาวรแก่เอเจนต์เขียนโค้ด AI Claude Code, Codex CLI, Gemini CLI
+  tr: Yapay zekâ kodlama aracılarına kalıcı bellek sağlayan Obsidian kasası. Claude Code, Codex CLI, Gemini CLI.
+  uk: Сховище Obsidian, що дає агентам програмування ШІ постійну пам'ять. Claude Code, Codex CLI, Gemini CLI.
+  vi: Kho Obsidian cấp bộ nhớ lâu dài cho các tác nhân lập trình AI. Claude Code, Codex CLI, Gemini CLI.
 x:
   source: https://github.com/breferrari/obsidian-mind
 rule:

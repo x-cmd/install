@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Dalfox is an open-source XSS scanner focused on automation, with parameter analysis and an advanced testing engine for detecting and verifying vulnerabilities.
   cn: Dalfox 是一个面向自动化的开源 XSS 扫描器，具备参数分析与高级测试引擎，可用于发现与验证漏洞。
+  cs: Dalfox je open-source skener XSS zaměřený na automatizaci, s analýzou parametrů a pokročilým testovacím enginem pro detekci a ověřování zranitelností.
+  de: Dalfox ist ein Open-Source-XSS-Scanner mit Fokus auf Automatisierung, mit Parameteranalyse und einer fortschrittlichen Test-Engine zum Erkennen und Verifizieren von Schwachstellen.
+  es: Dalfox es un escáner XSS de código abierto orientado a la automatización, con análisis de parámetros y un motor de pruebas avanzado para detectar y verificar vulnerabilidades.
+  fr: Dalfox est un scanner XSS open source axé sur l'automatisation, avec analyse des paramètres et un moteur de test avancé pour détecter et vérifier les vulnérabilités.
+  id: Dalfox adalah pemindai XSS sumber terbuka yang berfokus pada otomatisasi, dengan analisis parameter dan mesin pengujianadvanced untuk mendeteksi dan memverifikasi kerentanan.
+  it: Dalfox è uno scanner XSS open source orientato all'automazione, con analisi dei parametri e un motore di test avanzato per rilevare e verificare le vulnerabilità.
+  ja: Dalfox は自動化に重点を置いたオープンソースの XSS スキャナーで、パラメータ解析と脆弱性の検出・検証のための高度なテストエンジンを備えています。
+  ko: Dalfox는 자동화에 중점을 둔 오픈 소스 XSS 스캐너로, 매개변수 분석과 취약점 탐지 및 검증을 위한 고급 테스트 엔진을 제공합니다.
+  pl: Dalfox to otwartoźródłowy skaner XSS skoncentrowany na automatyzacji, z analizą parametrów i zaawansowanym silnikiem testów do wykrywania i weryfikacji podatności.
+  pt: O Dalfox é um scanner XSS de código aberto focado em automação, com análise de parâmetros e um mecanismo de testes avançado para detectar e verificar vulnerabilidades.
+  ro: Dalfox este un scanner XSS open source orientat spre automatizare, cu analiză de parametri și un motor de testare avansat pentru detectarea și verificarea vulnerabilităților.
+  ru: Dalfox — это open-source сканер XSS, ориентированный на автоматизацию, с анализом параметров и продвинутым движком тестирования для обнаружения и проверки уязвимостей.
+  th: Dalfox คือเครื่องสแกน XSS แบบโอเพนซอร์สที่เน้นการทำอัตโนมัติ พร้อมการวิเคราะห์พารามิเตอร์และเอนจินทดสอบขั้นสูงสำหรับการตรวจจับและยืนยันช่องโหว่
+  tr: Dalfox, otomasyona odaklanan, parametre analizi ve güvenlik açıklarını tespit etme ile doğrulama için gelişmiş test motoruna sahip açık kaynaklı bir XSS tarayıcısıdır.
+  uk: Dalfox — це open-source сканер XSS, зосереджений на автоматизацію, з аналізом параметрів і просунутим механізмом тестування для виявлення та перевірки вразливимостей.
+  vi: Dalfox là công cụ quét XSS mã nguồn mở tập trung vào tự động hóa, với phân tích tham số và công cụ kiểm thử nâng cao để phát hiện và xác minh lỗ hổng.
 x:
   source: https://github.com/hahwul/dalfox
   eget: hahwul/dalfox

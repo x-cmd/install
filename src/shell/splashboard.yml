@@ -4,6 +4,22 @@ license: 'ISC'
 desc:
   cn: 基于插件式数据源的可定制终端启动屏
   en: 'A customizable terminal splash screen with plugin-based data sources.'
+  cs: Přizpůsobitelná úvodní obrazovka terminálu s datovými zdroji založenými na pluginech.
+  de: Eine anpassbare Terminal-Startbildschirmdarstellung mit Plugin-basierten Datenquellen.
+  es: Una pantalla de bienvenida de terminal personalizable con fuentes de datos basadas en plugins.
+  fr: Un écran de démarrage de terminal personnalisable avec des sources de données basées sur des plugins.
+  id: Layar splash terminal yang dapat dikustomisasi dengan sumber data berbasis plugin.
+  it: Una schermata di benvenuta del terminale personalizzabile con sorgenti dati basate su plugin.
+  ja: プラグイン型のデータソースを備えた、カスタマイズできるターミナルのスプラッシュスクリーン。
+  ko: 플러그인 기반 데이터 소스를 갖춘 사용자 정의 가능한 터미널 스플래시 화면.
+  pl: Konfigurowalny ekran powitalny terminala ze źródłami danych opartymi na wtyczkach.
+  pt: Uma tela de inicialização de terminal personalizável com fontes de dados baseadas em plugins.
+  ro: Un ecran de pornire pentru terminal, personalizabil, cu surse de date bazate pe pluginuri.
+  ru: Настраиваемый заставочный экран терминала с источниками данных на основе плагинов.
+  th: หน้าจอเริ่มต้นของเทอร์มินัลที่ปรับแต่งได้ พร้อมแหล่งข้อมูลแบบปลั๊กอิน
+  tr: Eklenti tabanlı veri kaynaklarına sahip, özelleştirilebilir bir terminal açılış ekranı.
+  uk: Налаштовуваний заставковий екран термінала з джерелами даних на основі плагінів.
+  vi: Màn hình khởi động terminal có thể tùy chỉnh với các nguồn dữ liệu dựa trên plugin.
 x:
   source: https://github.com/unhappychoice/splashboard
   eget: unhappychoice/splashboard

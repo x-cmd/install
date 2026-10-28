@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 实时展示 Claude Code 状态的插件：上下文用量、活动工具、运行中 Agent 与待办进度
   en: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+  cs: Plugin pro Claude Code, který ukazuje, co se děje - využití kontextu, aktivní nástroje, běžící agenty a postup todo
+  de: Ein Claude Code-Plugin, das zeigt, was passiert - Kontextnutzung, aktive Tools, laufende Agenten und Fortschritt der Aufgaben
+  es: "Un plugin para Claude Code que muestra lo que está pasando: uso del contexto, herramientas activas, agentes en ejecución y progreso de las tareas pendientes"
+  fr: Un plugin Claude Code qui montre ce qui se passe - utilisation du contexte, outils actifs, agents en cours d'exécution et avancement des tâches
+  id: Plugin Claude Code yang menampilkan apa yang sedang terjadi - penggunaan konteks, alat aktif, agen yang berjalan, dan kemajuan tugas
+  it: Un plugin per Claude Code che mostra cosa sta succedendo - uso del contesto, strumenti attivi, agenti in esecuzione e avanzamento delle attività
+  ja: Claude Code のプラグインで、何が起きているか - コンテキスト使用量、アクティブなツール、実行中のエージェント、ToDo の進行状況を表示します。
+  ko: 무엇이 진행되고 있는지 보여주는 Claude Code 플러그인 - 컨텍스트 사용량, 활성 도구, 실행 중인 에이전트, 할 일 진행 상황
+  pl: Wtyczka do Claude Code pokazująca, co się dzieje - zużycie kontekstu, aktywne narzędzia, działające agenty i postęp zadań
+  pt: Um plugin para o Claude Code que mostra o que está acontecendo - uso de contexto, ferramentas ativas, agentes em execução e progresso das tarefas
+  ro: Un plugin pentru Claude Code care arată ce se întâmplă - utilizarea contextului, uneltele active, agenții în execuție și progresul sarcinilor
+  ru: Плагин для Claude Code, показывающий, что происходит - использование контекста, активные инструменты, работающие агенты и прогресс по задачам
+  th: ปลั๊กอิน Claude Code ที่แสดงว่ากำลังเกิดอะไรขึ้น - การใช้งานคอนเทกซ์ต เครื่องมือที่ทำงานอยู่ เอเจนต์ที่กำลังรัน และความคืบหน้าของงาน
+  tr: Claude Code için eklenti - bağlam kullanımı, etkin araçlar, çalışan ajanlar ve görev ilerlemesi gibi neler olduğunu gösterir
+  uk: Плагін для Claude Code, який показує, що відбувається - використання контексту, активні інструменти, запущені агенти та прогрес завдань
+  vi: Plugin cho Claude Code hiển thị những gì đang xảy ra - mức dùng ngữ cảnh, công cụ đang hoạt động, agent đang chạy và tiến độ công việc
 x:
   source: https://github.com/jarrodwatts/claude-hud
   eget: jarrodwatts/claude-hud

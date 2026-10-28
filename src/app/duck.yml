@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一款适用于 macOS 和 Windows 的自由文件传输客户端
   en: A libre file transfer client for macOS and Windows.
+  cs: Svobodný klient pro přenos souborů pro macOS a Windows.
+  de: Ein freier Dateiübertragungs-Client für macOS und Windows.
+  es: Un cliente libre de transferencia de archivos para macOS y Windows.
+  fr: Un client libre de transfert de fichiers pour macOS et Windows.
+  id: Klien transfer file gratis untuk macOS dan Windows.
+  it: Un client libero per il trasferimento di file per macOS e Windows.
+  ja: macOSとWindows向けの自由なファイル転送クライアント。
+  ko: macOS와 Windows를 위한 자유로운 파일 전송 클라이언트.
+  pl: Wolny klient przesyłania plików dla macOS i Windows.
+  pt: Um cliente livre de transferência de arquivos para macOS e Windows.
+  ro: Un client liber pentru transfer de fișiere pentru macOS și Windows.
+  ru: Свободный клиент передачи файлов для macOS и Windows.
+  th: ไคลเอนต์ถ่ายโอนไฟล์แบบเสรีสำหรับ macOS และ Windows
+  tr: macOS ve Windows için özgür bir dosya aktarım istemcisi.
+  uk: Вільний клієнт передачі файлів для macOS і Windows.
+  vi: Ứng dụng truyền tệp tự do cho macOS và Windows.
 x:
   source: https://github.com/iterate-ch/cyberduck
   brew: duck

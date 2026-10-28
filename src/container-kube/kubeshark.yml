@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubernetes API 流量分析器
   en: The Kubernetes API Traffic Analyzer
+  cs: Analyzátor provozu rozhraní API Kubernetes
+  de: Der Kubernetes-API-Traffic-Analyzer
+  es: El analizador de tráfico de la API de Kubernetes
+  fr: L'analyseur de trafic de l'API Kubernetes
+  id: Analyzer Lalu Lintas API Kubernetes
+  it: L'analizzatore del traffico API di Kubernetes
+  ja: Kubernetes API トラフィックアナライザー
+  ko: Kubernetes API 트래픽 분석기
+  pl: Analizator ruchu API Kubernetes
+  pt: O analisador de tráfego da API do Kubernetes
+  ro: Analizorul de trafic API Kubernetes
+  ru: Анализатор трафика API Kubernetes
+  th: ตัววิเคราะห์การรับส่งข้อมูลของ Kubernetes API
+  tr: Kubernetes API Trafik Analizcisi
+  uk: Аналізатор трафіку API Kubernetes
+  vi: Trình phân tích lưu lượng API Kubernetes
 x:
   source: https://github.com/kubeshark/kubeshark
   eget: kubeshark/kubeshark

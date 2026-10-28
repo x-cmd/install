@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: cliamp — 受 Winamp 启发的终端音乐播放器
   en: 'cliamp - Terminal music player inspired by winamp'
+  cs: cliamp - Terminální hudební přehrávač inspirovaný Winampem
+  de: cliamp - Terminal-Musikplayer, inspiriert von Winamp
+  es: cliamp - Reproductor de música de terminal inspirado en Winamp
+  fr: cliamp - Lecteur de musique pour terminal inspiré de Winamp
+  id: cliamp - Pemutar musik terminal yang terinspirasi Winamp
+  it: cliamp - Lettore musicale da terminale ispirato a Winamp
+  ja: cliamp - Winamp にインスパイアされたターミナル音楽プレーヤー
+  ko: cliamp - Winamp에서 영감을 받은 터미널 음악 플레이어
+  pl: cliamp - Terminalowy odtwarzacz muzyki inspirowany Winampem
+  pt: cliamp - Reprodutor de música de terminal inspirado no Winamp
+  ro: cliamp - Player de muzică pentru terminal inspirat de Winamp
+  ru: cliamp - Терминальный музыкальный проигрыватель, вдохновлённый Winamp
+  th: cliamp - เครื่องเล่นเพลงสำหรับเทอร์มินัลที่ได้แรงบันดาลใจจาก Winamp
+  tr: cliamp - Winamp'tan esinlenen terminal müzik çalar
+  uk: cliamp - Термінальний музичний програвач, натхненний Winamp
+  vi: cliamp - Trình phát nhạc terminal lấy cảm hứng từ Winamp
 x:
   source: https://github.com/bjarneo/cliamp
   eget: bjarneo/cliamp

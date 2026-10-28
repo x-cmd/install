@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apache Hadoop 是用于在商品硬件建造的大型群集上运行应用程序的框架
   en: Apache Hadoop is a framework for running applications on large clusters built of commodity hardware
+  cs: Apache Hadoop je framework pro spouštění aplikací na velkých clusterech sestavených z komerčního hardwaru
+  de: Apache Hadoop ist ein Framework zum Ausführen von Anwendungen auf großen Clustern aus Commodity-Hardware
+  es: Apache Hadoop es un framework para ejecutar aplicaciones en grandes clústeres creados con hardware genérico
+  fr: Apache Hadoop est un framework permettant d'exécuter des applications sur de grands clusters construits avec du matériel standard
+  id: Apache Hadoop adalah framework untuk menjalankan aplikasi pada klaster besar yang dibangun dari perangkat keras umum
+  it: Apache Hadoop è un framework per eseguire applicazioni su grandi cluster realizzati con hardware commodity
+  ja: Apache Hadoop は、市販のハードウェアで構成された大規模クラスタ上でアプリケーションを実行するためのフレームワークです
+  ko: Apache Hadoop는 범용 하드웨어로 구성된 대규모 클러스터에서 애플리케이션을 실행하기 위한 프레임워크입니다
+  pl: Apache Hadoop to framework do uruchamiania aplikacji na dużych klastrach złożonych ze sprzętu komercyjnego
+  pt: Apache Hadoop é um framework para executar aplicações em grandes clusters construídos com hardware commodity
+  ro: Apache Hadoop este un framework pentru rularea aplicațiilor pe clustere mari alcătuite din hardware de consum
+  ru: Apache Hadoop — это фреймворк для запуска приложений на крупных кластерах, построенных из серийного оборудования
+  th: Apache Hadoop คือเฟรมเวิร์กสำหรับรันแอปพลิเคชันบนคลัสเตอร์ขนาดใหญ่ที่สร้างจากฮาร์ดแวร์ทั่วไป
+  tr: Apache Hadoop, standart donanımdan oluşan büyük kümelerde uygulamaları çalıştırmak için bir çerçevedir
+  uk: Apache Hadoop — це фреймворк для запуску застосунків на великих кластерах, побудованих із серійного обладнання
+  vi: Apache Hadoop là một framework để chạy ứng dụng trên các cụm lớn được xây dựng từ phần cứng thông thường
 x:
   source: https://github.com/apache/hadoop
   dnf: hadoop-common

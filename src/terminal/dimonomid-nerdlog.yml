@@ -4,6 +4,22 @@ license: bsd-2-clause
 desc:
   cn: 快速、远程优先、多主机的 TUI 日志查看器，带时间线直方图，无需中心服务器
   en: 'Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server'
+  cs: "Nerdlog: rychlý, remote-first TUI prohlížeč logů napříč více hosty s histogramem časové osy a bez centrálního serveru"
+  de: "Nerdlog: schneller, Remote-First-TUI-Logviewer über mehrere Hosts mit Zeitachsen-Histogramm und ohne zentralen Server"
+  es: "Nerdlog: visor de registros TUI rápido, orientado a lo remoto y multi-host con histograma de línea temporal y sin servidor central"
+  fr: "Nerdlog : visionneuse de journaux TUI rapide, axée sur le distant et multi-hôtes, avec histogramme chronologique et sans serveur central"
+  id: "Nerdlog: penampil log TUI yang cepat, mengutamakan remote, multi-host dengan histogram garis waktu dan tanpa server pusat"
+  it: "Nerdlog: visualizzatore di log TUI veloce, orientato al remoto e multi-host con istogramma della cronologia e senza server centrale"
+  ja: Nerdlog:高速・リモート優先・マルチホスト対応のTUIログビューア。タイムラインヒストグラム搭載、中央サーバ不要
+  ko: "Nerdlog: 빠른 원격 우선 멀티호스트 TUI 로그 뷰어, 타임라인 히스토그램 제공, 중앙 서버 불필요"
+  pl: "Nerdlog: szybki, zorientowany na zdalne, wielohostowa przeglądarka logów TUI z histogramem osi czasu i bez centralnego serwera"
+  pt: "Nerdlog: visualizador de logs TUI rápido, priorizando o remoto e multi-host, com histograma de linha do tempo e sem servidor central"
+  ro: "Nerdlog: vizualizator de jurnale TUI rapid, cu prioritate pentru remote, multi-gazdă, cu histogramă a cronologiei și fără server central"
+  ru: "Nerdlog: быстрый TUI-просмотрщик логов с приоритетом удалённого доступа, поддерживающий несколько хостов, с гистограммой временной шкалы и без центрального сервера"
+  th: "Nerdlog: ตัวดูบันทึก TUI ที่เร็ว เน้นการทำงานระยะไกล รองรับหลายโฮสต์ พร้อมฮิสโตแกรมแถบเวลาและไม่ต้องมีเซิร์ฟเวอร์กลาง"
+  tr: "Nerdlog: zaman çizelgesi histogramı ve merkezi sunucu olmadan çoklu ana bilgisayar destekli, hızlı, uzak öncelikli TUI günlük görüntüleyici"
+  uk: "Nerdlog: швидкий TUI-переглядач логів із пріоритетом віддаленого доступу та підтримкою кількох хостів, з гістограмою часової шкали й без центрального сервера"
+  vi: "Nerdlog: trình xem log TUI nhanh, ưu tiên từ xa, hỗ trợ nhiều máy chủ với biểu đồ dải thời gian và không cần máy chủ trung tâm"
 x:
   source: https://github.com/dimonomid/nerdlog
   eget: dimonomid/nerdlog

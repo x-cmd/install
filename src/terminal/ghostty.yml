@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Ghostty 是一个快速、功能丰富且跨平台的终端模拟器，采用平台原生的用户界面和 GPU 加速。
   en: Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+  cs: Ghostty je rychlý, funkčně bohatý a multiplatformní emulátor terminálu, který používá nativní UI platformy a akceleraci GPU.
+  de: Ghostty ist ein schneller, funktionsreicher und plattformübergreifender Terminalemulator, der plattformnative UI und GPU-Beschleunigung nutzt.
+  es: Ghostty es un emulador de terminal rápido, rico en funciones y multiplataforma que utiliza una interfaz nativa de la plataforma y aceleración por GPU.
+  fr: Ghostty est un émulateur de terminal rapide, riche en fonctionnalités et multiplateforme, utilisant une interface native de la plateforme et l'accélération GPU.
+  id: Ghostty adalah emulator terminal yang cepat, kaya fitur, dan lintas platform yang menggunakan UI asli platform serta akselerasi GPU.
+  it: Ghostty è un emulatore di terminale veloce, ricco di funzionalità e multipiattaforma che utilizza una UI nativa della piattaforma e l'accelerazione GPU.
+  ja: Ghosttyは高速で機能豊か、クロスプラットフォームのターミナルエミュレーターで、プラットフォームネイティブのUIとGPUアクセラレーションを採用しています。
+  ko: Ghostty는 빠르고 기능이 풍부하며 크로스 플랫폼인 터미널 에뮬레이터로, 플랫폼 네이티브 UI와 GPU 가속을 사용합니다.
+  pl: Ghostty to szybki, bogaty w funkcje i wieloplatformowy emulator terminala, korzystający z natywnego interfejsu platformy i akceleracji GPU.
+  pt: O Ghostty é um emulador de terminal rápido, rico em recursos e multiplataforma que usa interface nativa da plataforma e aceleração por GPU.
+  ro: Ghostty este un emulator de terminal rapid, bogat în funcții și multiplă platformă, care folosește o interfață nativă a platformei și accelerare GPU.
+  ru: Ghostty — быстрый, многофункциональный кроссплатформенный эмулятор терминала, использующий нативный интерфейс платформы и ускорение на GPU.
+  th: Ghostty คือเทอร์มินัลอีมูเลเตอร์ที่เร็ว มีคุณสมบัติครบถ้วน และใช้งานได้ข้ามแพลตฟอร์ม โดยใช้ UI แบบเนทีฟของแพลตฟอร์มและการเร่งความเร็วด้วย GPU
+  tr: Ghostty, platforma özgü arayüz ve GPU hızlandırma kullanan hızlı, özellik zengin ve çok platformlu bir terminal emülatörüdür.
+  uk: Ghostty — швидкий, багатофункціональний кроссплатформний емулятор термінала, що використовує нативний інтерфейс платформи та прискорення на GPU.
+  vi: Ghostty là trình giả lập terminal nhanh, nhiều tính năng và đa nền tảng, sử dụng giao diện gốc của nền tảng và tăng tốc GPU.
 x:
   source: https://github.com/ghostty-org/ghostty
   brew: ghostty

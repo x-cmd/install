@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Eight Sleep 数据获取与设备控制的 CLI
   en: Eight Sleep cli to fetch data and control your pods.
+  cs: CLI pro Eight Sleep pro získávání dat a ovládání vašich podů.
+  de: Eight Sleep CLI zum Abrufen von Daten und Steuern Ihrer Pods.
+  es: CLI de Eight Sleep para obtener datos y controlar tus pods.
+  fr: CLI Eight Sleep pour récupérer des données et contrôler vos pods.
+  id: CLI Eight Sleep untuk mengambil data dan mengendalikan pod Anda.
+  it: CLI Eight Sleep per recuperare dati e controllare i tuoi pod.
+  ja: Eight Sleep のデータを取得し、ポッドを制御する CLI。
+  ko: 데이터를 가져오고 포드를 제어하는 Eight Sleep CLI.
+  pl: CLI Eight Sleep do pobierania danych i sterowania Twoimi podami.
+  pt: CLI da Eight Sleep para buscar dados e controlar seus pods.
+  ro: CLI Eight Sleep pentru preluarea datelor și controlul pod-urilor tale.
+  ru: CLI Eight Sleep для получения данных и управления вашими pod.
+  th: CLI ของ Eight Sleep สำหรับดึงข้อมูลและควบคุมพอดของคุณ
+  tr: Veri çekmek ve pod'larınızı kontrol etmek için Eight Sleep CLI.
+  uk: CLI Eight Sleep для отримання даних і керування вашими pod.
+  vi: CLI Eight Sleep để lấy dữ liệu và điều khiển các pod của bạn.
 x:
   source: https://github.com/steipete/eightctl
   eget: steipete/eightctl

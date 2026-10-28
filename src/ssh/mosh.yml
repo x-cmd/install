@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Mosh 是一种替代交互式 SSH 终端的工具。它在 Wi-Fi、蜂窝网络和长距离连接上更加稳定和灵敏。
   en: Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.
+  cs: Mosh je náhradou za interaktivní SSH terminály. Je robustnější a pohotovější, zejména přes Wi-Fi, mobilní sítě a vzdálená připojení.
+  de: Mosh ist ein Ersatz für interaktive SSH-Terminals. Es ist robuster und reaktionsschneller, besonders über Wi-Fi, Mobilfunk und Fernverbindungen.
+  es: Mosh es un sustituto de los terminales SSH interactivos. Es más robusto y ágil, especialmente sobre Wi-Fi, redes celulares y conexiones de larga distancia.
+  fr: Mosh remplace les terminaux SSH interactifs. Il est plus robuste et plus réactif, en particulier sur Wi-Fi, en réseau cellulaire et sur les liaisons longue distance.
+  id: Mosh adalah pengganti untuk terminal SSH interaktif. Ini lebih kuat dan responsif, terutama melalui Wi-Fi, jaringan seluler, dan koneksi jarak jauh.
+  it: Mosh è un sostituto dei terminali SSH interattivi. È più robusto e reattivo, soprattutto su Wi-Fi, reti cellulari e collegamenti a lunga distanza.
+  ja: Mosh は対話型 SSH ターミナルの代替です。Wi-Fi、モバイルネットワーク、長距離接続において、より安定性と応答性を備えています。
+  ko: Mosh는 대화형 SSH 터미널을 대체합니다. Wi-Fi, 셀룰러 네트워크, 장거리 연결에서 특히 더 안정적이고 반응이 빠릅니다.
+  pl: Mosh to zamiennik interaktywnych terminali SSH. Jest bardziej wytrzymały i responsywny, zwłaszcza przez Wi-Fi, sieci komórkowe i połączenia długiego zasięgu.
+  pt: O Mosh é um substituto para terminais SSH interativos. É mais robusto e responsivo, especialmente em Wi-Fi, redes celulares e conexões de longa distância.
+  ro: Mosh este o înlocuitor pentru terminalele SSH interactive. Este mai robust și mai receptiv, mai ales pe Wi-Fi, rețele celulare și legături de lungă distanță.
+  ru: Mosh — это замена интерактивным SSH-терминалам. Он более устойчив и отзывчив, особенно по Wi-Fi, в сотовых сетях и на дальних соединениях.
+  th: Mosh เป็นตัวแทนแทนเทอร์มินัล SSH แบบโต้ตอบ มันทนทานและตอบสนองไวกว่า โดยเฉพาะบน Wi-Fi เครือข่ายมือถือ และการเชื่อมต่อระยะไกล
+  tr: Mosh, etkileşimli SSH terminallerinin yerine geçer. Özellikle Wi-Fi, hücresel ağlar ve uzun mesafeli bağlantılarda daha sağlam ve daha hızlıdır.
+  uk: Mosh — це заміна інтерактивним SSH-терміналам. Він стійкіший і швидше реагує, особливо через Wi-Fi, у мережах мобільного зв'язку та на дальніх з'єднаннях.
+  vi: Mosh là sự thay thế cho các terminal SSH tương tác. Nó bền bỉ hơn và phản hồi nhanh hơn, đặc biệt qua Wi-Fi, mạng di động và các kết nối tầm xa.
 x:
   source: https://github.com/mobile-shell/mosh
   eget: mobile-shell/mosh

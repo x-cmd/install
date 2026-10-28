@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在命令行中提供实用的命令示例
   en: 'Useful examples at the command line.'
+  cs: Užitečné příklady v příkazovém řádku.
+  de: Nützliche Beispiele in der Kommandozeile.
+  es: Ejemplos útiles en la línea de comandos.
+  fr: Des exemples utiles en ligne de commande.
+  id: Contoh berguna di baris perintah.
+  it: Esempi utili alla riga di comando.
+  ja: コマンドラインでの便利な例。
+  ko: 명령줄에서 유용한 예시.
+  pl: Przydatne przykłady w wierszu poleceń.
+  pt: Exemplos úteis na linha de comando.
+  ro: Exemple utile în linia de comandă.
+  ru: Полезные примеры в командной строке.
+  th: ตัวอย่างที่มีประโยชน์ในบรรทัดคำสั่ง
+  tr: Komut satırında kullanışlı örnekler.
+  uk: Корисні приклади в командному рядку.
+  vi: Các ví dụ hữu ích trên dòng lệnh.
 x:
   source: https://github.com/srsudar/eg
   eget: srsudar/eg

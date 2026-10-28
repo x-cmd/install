@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 简单、快速的 CLI 文件加密工具。
   en: Simple, fast CLI file encryption tool.
+  cs: Jednoduchý a rychlý nástroj CLI pro šifrování souborů.
+  de: Einfaches, schnelles CLI-Tool zur Dateiverschlüsselung.
+  es: Sencilla y rápida herramienta de CLI para cifrar archivos.
+  fr: Outil CLI simple et rapide de chiffrement de fichiers.
+  id: Alat enkripsi file CLI yang sederhana dan cepat.
+  it: Semplice e veloce strumento CLI per la crittografia dei file.
+  ja: シンプルで高速な CLI ファイル暗号化ツールです。
+  ko: 간단하고 빠른 CLI 파일 암호화 도구입니다.
+  pl: Proste i szybkie narzędzie CLI do szyfrowania plików.
+  pt: Ferramenta de CLI simples e rápida para criptografia de arquivos.
+  ro: Instrument CLI simplu și rapid pentru criptarea fișierelor.
+  ru: Простое и быстрое CLI-приложение для шифрования файлов.
+  th: เครื่องมือ CLI เข้ารหัสไฟล์ที่เรียบง่ายและรวดเร็ว
+  tr: Basit ve hızlı CLI dosya şifreleme aracı.
+  uk: Простий і швидкий CLI-інструмент для шифрування файлів.
+  vi: Công cụ CLI mã hóa tệp đơn giản và nhanh chóng.
 x:
   source: https://github.com/70sh1/eddy
   yay: eddy

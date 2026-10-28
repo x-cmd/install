@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   en: pysentation is a CLI for displaying Python presentations.
   cn: pysentation 是一个用于显示 Python 演示文稿的命令行界面（CLI）。
+  cs: pysentation je CLI pro zobrazování prezentací v Pythonu.
+  de: pysentation ist eine CLI zum Anzeigen von Python-Präsentationen.
+  es: pysentation es una CLI para mostrar presentaciones de Python.
+  fr: pysentation est une CLI pour afficher des présentations Python.
+  id: pysentation adalah CLI untuk menampilkan presentasi Python.
+  it: pysentation è una CLI per visualizzare presentazioni Python.
+  ja: pysentation は Python のスライドを表示するための CLI です。
+  ko: pysentation는 Python 발표를 표시하는 CLI입니다.
+  pl: pysentation to CLI do wyświetlania prezentacji w Pythonie.
+  pt: pysentation é uma CLI para exibir apresentações em Python.
+  ro: pysentation este o interfață de linie de comandă pentru afișarea prezentărilor Python.
+  ru: pysentation — CLI для показа презентаций на Python.
+  th: pysentation คือ CLI สำหรับแสดงงานนำเสนอด้วย Python
+  tr: pysentation, Python sunumlarını görüntülemek için bir CLI'dır.
+  uk: pysentation — CLI для показу презентацій на Python.
+  vi: pysentation là CLI để hiển thị các bài thuyết trình bằng Python.
 x:
   source: https://github.com/mimseyedi/pysentation
   pip: pysentation

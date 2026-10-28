@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: 一个用于将数据编码为 QR 码符号的开源命令行工具和库
   en: An open-source command-line tool and library for encoding data into QR code symbols
+  cs: Nástroj a knihovna příkazového řádku s otevřeným zdrojovým kódem pro kódování dat do QR symbolů
+  de: Ein quelloffenes Kommandozeilenwerkzeug und eine Bibliothek zum Kodieren von Daten in QR-Code-Symbole
+  es: Una herramienta de línea de comandos y una biblioteca de código abierto para codificar datos en símbolos de código QR
+  fr: Un outil en ligne de commande et une bibliothèque open source pour encoder des données en symboles de code QR
+  id: Alat baris perintah dan pustaka sumber terbuka untuk mengodekan data menjadi simbol kode QR
+  it: Uno strumento da riga di comando e una libreria open source per codificare dati in simboli di codice QR
+  ja: データを QR コードシンボルにエンコードするためのオープンソースのコマンドラインツールとライブラリ
+  ko: 데이터를 QR 코드 심볼로 인코딩하는 오픈 소스 명령줄 도구 및 라이브러리
+  pl: Narzędzie wiersza poleceń i biblioteka o otwartym kodzie do kodowania danych w symbole kodów QR
+  pt: Uma ferramenta de linha de comando e biblioteca de código aberto para codificar dados em símbolos de código QR
+  ro: Un instrument de linie de comandă și o bibliotecă open source pentru codificarea datelor în simboluri de cod QR
+  ru: Открытый инструмент командной строки и библиотека для кодирования данных в символы QR-кода
+  th: เครื่องมือบรรทัดคำสั่งและไลบรารีโอเพนซอร์สสำหรับเข้ารหัสข้อมูลเป็นสัญลักษณ์คิวอาร์โค้ด
+  tr: Verileri QR kod sembollerine kodlamak için açık kaynaklı bir komut satırı aracı ve kitaplığı
+  uk: Відкритий інструмент командного рядка та бібліотека для кодування даних у символи QR-коду
+  vi: Công cụ dòng lệnh và thư viện mã nguồn mở để mã hóa dữ liệu thành ký hiệu mã QR
 x:
   source: https://github.com/fukuchi/libqrencode
   apt: qrencode

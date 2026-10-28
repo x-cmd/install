@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: css code analysis tool to find and fix problems in CSS code
   cn: css 代码分析校验工具，用于查找并修复 CSS 代码中的问题
+  cs: Nástroj pro analýzu kódu CSS, který nachází a opravuje problémy v kódu CSS
+  de: CSS-Code-Analysewerkzeug zum Finden und Beheben von Problemen im CSS-Code
+  es: Herramienta de análisis de código css para encontrar y corregir problemas en el código CSS
+  fr: Outil d'analyse de code css pour trouver et corriger les problèmes dans le code CSS
+  id: Alat analisis kode css untuk menemukan dan memperbaiki masalah dalam kode CSS
+  it: Strumento di analisi del codice css per individuare e correggere i problemi nel codice CSS
+  ja: CSS コードの解析ツールで、CSS コードの問題を見つけて修正します
+  ko: CSS 코드를 분석하여 CSS 코드의 문제를 찾고 수정하는 도구
+  pl: Narzędzie do analizy kodu css, które znajduje i naprawia problemy w kodzie CSS
+  pt: Ferramenta de análise de código css para encontrar e corrigir problemas no código CSS
+  ro: Instrument de analiză a codului css pentru identificarea și repararea problemelor din codul CSS
+  ru: Инструмент анализа CSS-кода для поиска и исправления проблем в коде CSS
+  th: เครื่องมือวิเคราะห์โค้ด css เพื่อค้นหาและแก้ไขปัญหาในโค้ด CSS
+  tr: CSS kodundaki sorunları bulmak ve düzeltmek için css kod analiz aracı
+  uk: Інструмент аналізу коду css для пошуку та виправлення проблем у коді CSS
+  vi: Công cụ phân tích mã css để tìm và sửa các vấn đề trong mã CSS
 x:
   source: https://github.com/stylelint/stylelint
   brew: stylelint

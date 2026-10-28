@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 支持 Vim 键位、同步歌词和跨平台媒体键的 YouTube Music TUI 客户端
   en: 'YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys'
+  cs: Klient TUI pro YouTube Music s klávesovými zkratkami vim, synchronizovanými texty a multimediálními klávesami napříč platformami
+  de: YouTube-Music-TUI-Client mit vim-Tastenkürzeln, synchronisierten Lyrics und plattformübergreifenden Mediensteuerungstasten
+  es: Cliente TUI de YouTube Music con atajos de teclado de vim, letras sincronizadas y teclas multimedia multiplataforma
+  fr: Client TUI pour YouTube Music avec raccourcis clavier vim, paroles synchronisées et touches multimédias multiplateformes
+  id: Klien TUI YouTube Music dengan pintasan keyboard vim, lirik tersinkronisasi, dan tombol media lintas platform
+  it: Client TUI per YouTube Music con scorciatoie da tastiera di vim, testi sincronizzati e tasti multimediali multipiattaforma
+  ja: vimのキーバインド、同期歌詞、クロスプラットフォームのメディアキーに対応したYouTube Music TUIクライアント
+  ko: vim 키바인딩, 동기화된 가사, 크로스 플랫폼 미디어 키를 지원하는 YouTube Music TUI 클라이언트
+  pl: Klient TUI YouTube Music z przypisaniami klawiszy vim, zsynchronizowanym tekstem piosenek i klawiszami multimedialnymi działającymi na różnych platformach
+  pt: Cliente TUI do YouTube Music com atalhos de teclado do vim, letras sincronizadas e teclas de mídia multiplataforma
+  ro: Client TUI pentru YouTube Music cu scurtături de tastatură vim, versuri sincronizate și taste multimedia cross-platform
+  ru: TUI-клиент YouTube Music с горячими клавишами vim, синхронизированным текстом песен и мультимедийными клавишами для разных платформ
+  th: ไคลเอนต์ TUI ของ YouTube Music พร้อมปุ่มลัดแบบ vim เนื้อเพลงซิงค์ และปุ่มสื่อข้ามแพลตฟอร์ม
+  tr: vim kısayolları, senkronize şarkı sözleri ve platformlar arası medya tuşlarıyla YouTube Music TUI istemcisi
+  uk: TUI-клієнт YouTube Music з гарячими клавішами vim, синхронізованим текстом пісень і мультимедійними клавішами для різних платформ
+  vi: Ứng dụng TUI cho YouTube Music với phím tắt kiểu vim, lời bài hát đồng bộ và phím đa phương tiện đa nền tảng
 x:
   source: https://github.com/peternaame-boop/ytm-player
   eget: peternaame-boop/ytm-player

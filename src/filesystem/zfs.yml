@@ -3,6 +3,22 @@ homepage: https://github.com/openzfs/openzfs-docs
 desc:
   cn: OpenZFS 是一个先进的文件系统和卷管理器，最初为 Solaris 开发，现在由 OpenZFS 社区维护。
   en: OpenZFS is an advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
+  cs: OpenZFS je pokročilý systém souborů a správce svazků, původně vyvinutý pro Solaris a nyní udržovaný komunitou OpenZFS.
+  de: OpenZFS ist ein fortschrittliches Dateisystem und Volume-Manager, der ursprünglich für Solaris entwickelt wurde und heute von der OpenZFS-Community gepflegt wird.
+  es: OpenZFS es un sistema de archivos avanzado y gestor de volúmenes, desarrollado originalmente para Solaris y mantenido ahora por la comunidad de OpenZFS.
+  fr: OpenZFS est un système de fichiers avancé et un gestionnaire de volumes, développé à l'origine pour Solaris et désormais maintenu par la communauté OpenZFS.
+  id: OpenZFS adalah sistem file dan pengelola volume canggih yang awalnya dikembangkan untuk Solaris dan kini dipelihara oleh komunitas OpenZFS.
+  it: OpenZFS è un file system avanzato e gestore di volumi, nato per Solaris e oggi mantenuto dalla comunità OpenZFS.
+  ja: OpenZFS は高度なファイルシステムとボリュームマネージャーで、もともと Solaris 用に開発され、現在は OpenZFS コミュニティによって保守されています。
+  ko: OpenZFS는 처음에 Solaris용으로 개발된 고급 파일 시스템 및 볼륨 관리자이며, 현재는 OpenZFS 커뮤니티가 관리합니다.
+  pl: OpenZFS to zaawansowany system plików i menedżer woluminów, pierwotnie opracowany dla Solarisa, a obecnie utrzymywany przez społeczność OpenZFS.
+  pt: O OpenZFS é um sistema de arquivos avançado e gerenciador de volumes, originalmente desenvolvido para o Solaris e hoje mantido pela comunidade OpenZFS.
+  ro: OpenZFS este un sistem de fișiere avansat și manager de volume, dezvoltat inițial pentru Solaris și întreținut acum de comunitatea OpenZFS.
+  ru: OpenZFS — продвинутая файловая система и менеджер томов, изначально разработанная для Solaris и теперь поддерживаемая сообществом OpenZFS.
+  th: OpenZFS เป็นระบบไฟล์ขั้นสูงและตัวจัดการโวลุ่ม พัฒนาขึ้นเพื่อ Solaris และปัจจุบันดูแลโดยชุมชน OpenZFS
+  tr: OpenZFS, başlangıçta Solaris için geliştirilen ve şimdi OpenZFS topluluğu tarafından sürdürülen gelişmiş bir dosya sistemi ve birim yöneticisidir.
+  uk: OpenZFS — розвита файлова система та менеджер томів, спочатку розроблена для Solaris, а тепер підтримується спільнотою OpenZFS.
+  vi: OpenZFS là hệ thống tập tin tiên tiến và trình quản lý khối lượng, ban đầu được phát triển cho Solaris và hiện được cộng đồng OpenZFS duy trì.
 x:
   source: https://github.com/openzfs/openzfs-docs
   apt: zfs-dkms

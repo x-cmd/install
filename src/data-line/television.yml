@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个跨平台、快速且可扩展的 TUI 模糊查找器
   en: A cross-platform, fast and extensible fuzzy finder TUI
+  cs: TUI fuzzy vyhledávač, který je multiplatformní, rychlý a rozšiřitelný
+  de: Ein plattformübergreifendes, schnelles und erweiterbares fuzzy TUI-Suchwerkzeug
+  es: Un TUI de búsqueda difusa multiplataforma, rápido y extensible
+  fr: Un TUI de recherche flou multiplateforme, rapide et extensible
+  id: TUI fuzzy finder lintas platform yang cepat dan dapat diperluas
+  it: Una TUI di ricerca fuzzy multipiattaforma, veloce ed estensibile
+  ja: クロスプラットフォームで高速かつ拡張可能なファジー検索TUI
+  ko: 크로스 플랫폼이며 빠르고 확장 가능한 퍼지 파인더 TUI
+  pl: Wieloplatformowy, szybki i rozszerzalny wyszukiwacz fuzzy w TUI
+  pt: Um TUI de busca difusa multiplataforma, rápido e extensível
+  ro: Un TUI de căutare fuzzy multiplatformă, rapid și extensibil
+  ru: Кроссплатформенный, быстрый и расширяемый нечёткий поисковик с TUI
+  th: ตัวค้นหาแบบ fuzzy ใน TUI ที่ใช้งานข้ามแพลตฟอร์ม เร็วและขยายได้
+  tr: Platformlar arası, hızlı ve genişletilebilir fuzzy finder TUI
+  uk: Кросплатформовий, швидкий і розширюваний нечіткий пошуковик із TUI
+  vi: TUI fuzzy finder đa nền tảng, nhanh và có thể mở rộng
 x:
   source: https://github.com/alexpasmantier/television
   eget: alexpasmantier/television

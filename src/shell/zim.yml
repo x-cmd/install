@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Zim 是一个 Zsh 配置框架，它捆绑了插件管理器、有用的模块和各种主题，而不会影响速度
   en: Zim is a Zsh configuration framework that bundles a plugin manager, useful modules and a wide variety of themes, without compromising on speed
+  cs: Zim je konfigurační framework pro Zsh, který sdružuje správce pluginů, užitečné moduly a širokou škálu motivů, aniž by ubíral rychlosti
+  de: Zim ist ein Konfigurationsframework für Zsh, das einen Plugin-Manager, nützliche Module und eine große Auswahl an Themen bündelt, ohne dabei Speed zu opfern
+  es: Zim es un framework de configuración para Zsh que agrupa un gestor de plugins, módulos útiles y una gran variedad de temas sin comprometer la velocidad
+  fr: Zim est un framework de configuration pour Zsh qui regroupe un gestionnaire de plugins, des modules utiles et une grande variété de thèmes, sans sacrifier la vitesse
+  id: Zim adalah kerangka konfigurasi untuk Zsh yang menyatukan pengelola plugin, modul-modul berguna dan beragam tema tanpa mengorbankan kecepatan
+  it: Zim è un framework di configurazione per Zsh che raccoglie un gestore di plugin, moduli utili e una vasta gamma di temi, senza compromettere la velocità
+  ja: Zim は Zsh 用の設定フレームワークで、プラグインマネージャー、便利なモジュール、多様なテーマをまとめつつも速度を犠牲にしません
+  ko: Zim은 플러그인 관리자, 유용한 모듈, 다양한 테마를 한데 묶되 속도를 해치지 않는 Zsh 설정 프레임워크입니다
+  pl: Zim to framework konfiguracji dla Zsh, który łączy menedżera wtyczek, przydatne moduły i szeroką gamę motywów, nie kosztując szybkości
+  pt: Zim é um framework de configuração para Zsh que reúne um gerenciador de plugins, módulos úteis e uma grande variedade de temas sem comprometer a velocidade
+  ro: Zim este un cadru de configurare pentru Zsh care reunește un manager de pluginuri, module utile și o mare varietate de teme, fără a compromite viteza
+  ru: Zim — это фреймворк конфигурации для Zsh, объединяющий менеджер плагинов, полезные модули и множество тем без ущерба для скорости
+  th: Zim คือเฟรมเวิร์กการตั้งค่าสำหรับ Zsh ที่รวมตัวจัดการปลั๊กอิน โมดูลที่มีประโยชน์ และธีมหลากหลายไว้ด้วยกันโดยไม่เสียความเร็ว
+  tr: Zim, eklenti yöneticisini, faydalı modülleri ve çok çeşitli temaları bir araya getiren, hızdan ödün vermeyen bir Zsh yapılandırma çerçevesidir
+  uk: Zim — це фреймворк конфігурації для Zsh, що поєднує менеджер плагінів, корисні модулі та велику кількість тем без шкоди для швидкості
+  vi: Zim là khung cấu hình cho Zsh, gộp trình quản lý plugin, các mô-đun hữu ích và đa dạng chủ đề mà không làm chậm tốc độ
 x:
   source: https://github.com/zimfw/zimfw
 rule:

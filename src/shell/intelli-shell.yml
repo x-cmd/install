@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 为 shell 提供 IntelliSense 般的体验
   en: 'Like IntelliSense, but for shells'
+  cs: Jako IntelliSense, ale pro shelly
+  de: Wie IntelliSense, nur für Shells
+  es: Como IntelliSense, pero para shells
+  fr: Comme IntelliSense, mais pour les shells
+  id: Seperti IntelliSense, tetapi untuk shell
+  it: Come IntelliSense, ma per le shell
+  ja: IntelliSense のように、ただし shell 用です
+  ko: IntelliSense와 같지만, 셸을 위한 것
+  pl: Jak IntelliSense, ale dla powłok
+  pt: Como o IntelliSense, mas para shells
+  ro: Ca IntelliSense, dar pentru shell-uri
+  ru: Как IntelliSense, но для оболочек
+  th: เหมือน IntelliSense แต่สำหรับเชลล์
+  tr: IntelliSense gibi ama kabuklar için
+  uk: Як IntelliSense, але для оболонок
+  vi: Giống IntelliSense, nhưng dành cho shell
 x:
   source: https://github.com/lasantosr/intelli-shell
   eget: lasantosr/intelli-shell

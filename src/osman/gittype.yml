@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 把源代码变成打字挑战的 CLI 代码打字游戏
   en: 'A CLI code-typing game that turns your source code into typing challenges'
+  cs: CLI hra s psaním kódu, která promění váš zdrojový kód na výzvy psaní
+  de: Ein CLI-Tipp-Spiel, das Ihren Quellcode in Schreibherausforderungen verwandelt
+  es: Un juego de escritura de código en la terminal que convierte tu código fuente en retos de escritura
+  fr: Un jeu de frappe de code en CLI qui transforme votre code source en défis de frappe
+  id: Permainan mengetik kode CLI yang mengubah kode sumber Anda menjadi tantangan mengetik
+  it: Un gioco di digitazione da riga di comando che trasforma il vostro codice sorgente in sfide di digitazione
+  ja: ソースコードをタイピングチャレンジに変えるCLIタイピングゲーム
+  ko: 소스 코드를 타이핑 챌린지로 바꾸는 CLI 타이핑 게임
+  pl: Gra w pisanie kodu w wierszu poleceń, która zamienia twój kod źródłowy w wyzwania pisania
+  pt: Um jogo de digitação de código na CLI que transforma seu código-fonte em desafios de digitação
+  ro: Un joc de tastare a codului în CLI care transformă codul tău sursă în provocări de tastare
+  ru: CLI-игра про набор кода, превращающая ваш исходный код в задания на печать
+  th: เกมพิมพ์โค้ดใน CLI ที่เปลี่ยนซอร์สโค้ดของคุณให้เป็นการท้าทายการพิมพ์
+  tr: Kaynak kodunuzu yazma meydan okumalarına dönüştüren bir CLI kod yazma oyunu
+  uk: CLI-гра з набору коду, яка перетворює ваш вихідний код на завдання з друку
+  vi: Trò chơi gõ mã nguồn qua CLI biến mã nguồn của bạn thành các thử thách gõ phím
 x:
   source: https://github.com/unhappychoice/gittype
   eget: unhappychoice/gittype

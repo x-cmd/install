@@ -4,6 +4,22 @@ license: 'BSD-2-Clause'
 desc:
   cn: 基于 Markdown 的终端演示工具
   en: 'A markdown terminal slideshow tool'
+  cs: Nástroj pro prezentace v terminálu založený na Markdown
+  de: Ein Markdown-basiertes Präsentationswerkzeug für das Terminal
+  es: Una herramienta de presentaciones de terminal basada en Markdown
+  fr: Un outil de présentation en terminal basé sur Markdown
+  id: Alat slideshow terminal berbasis Markdown
+  it: Uno strumento per presentazioni da terminale basato su Markdown
+  ja: Markdown ベースのターミナル スライドショー ツール
+  ko: Markdown 기반 터미널 슬라이드쇼 도구
+  pl: Narzędzie do prezentacji w terminalu oparte na Markdown
+  pt: Uma ferramenta de apresentação em terminal baseada em Markdown
+  ro: Un instrument de prezentări în terminal bazat pe Markdown
+  ru: Инструмент для показа презентаций в терминале на основе Markdown
+  th: เครื่องมือสไลด์โชว์บนเทอร์มินัลที่ใช้ Markdown
+  tr: Markdown tabanlı bir terminal slayt gösterisi aracı
+  uk: Інструмент для показу презентацій у терміналі на основі Markdown
+  vi: Công cụ trình chiếu slide trên terminal dựa trên Markdown
 x:
   source: https://github.com/mfontanini/presenterm
   eget: mfontanini/presenterm

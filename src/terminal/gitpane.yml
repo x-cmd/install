@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 面向终端的多仓库 Git 工作区仪表盘
   en: 'Multi-repo Git workspace dashboard for the terminal'
+  cs: Ovládací panel Git pracovního prostoru s více repozitáři pro terminál
+  de: Multi-Repo-Git-Arbeitsbereich-Dashboard für das Terminal
+  es: Panel de control del espacio de trabajo Git multi-repositorio para el terminal
+  fr: Tableau de bord de l'espace de travail Git multi-dépôts pour le terminal
+  id: Dasbor ruang kerja Git multi-repo untuk terminal
+  it: Cruscotto dell'area di lavoro Git multi-repository per il terminale
+  ja: ターミナル向けマルチリポジトリGitワークスペースダッシュボード
+  ko: 터미널용 다중 저장소 Git 워크스페이스 대시보드
+  pl: Panel sterowania przestrzenią roboczą Git dla wielu repozytoriów w terminalu
+  pt: Painel do espaço de trabalho Git multirrepositório para o terminal
+  ro: Panou de bord pentru spațiul de lucru Git cu mai multe depozite, pentru terminal
+  ru: Панель рабочего пространства Git с несколькими репозиториями для терминала
+  th: แดชบอร์ดพื้นที่ทำงาน Git หลาย repo สำหรับเทอร์มินัล
+  tr: Terminal için çoklu depo Git çalışma alanı panosu
+  uk: Панель робочого простору Git із кількома репозиторіями для термінала
+  vi: Bảng điều khiển không gian làm việc Git đa kho lưu trữ cho terminal
 x:
   source: https://github.com/affromero/gitpane
   eget: affromero/gitpane

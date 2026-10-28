@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 十六进制查看器/编辑器
   en: 'hex viewer/editor'
+  cs: hexadecimální prohlížeč/editor
+  de: Hex-Betrachter/Editor
+  es: visor/editor hexadecimal
+  fr: visionneuse/éditeur hexadécimal
+  id: penampil/editor heksadesimal
+  it: visualizzatore/editor esadecimale
+  ja: 16進ビューア/エディタ
+  ko: 16진수 뷰어/편집기
+  pl: przeglądarka/editor szesnastkowy
+  pt: visualizador/editor hexadecimal
+  ro: vizualizator/editor hexazecimal
+  ru: просмотрщик/редактор в шестнадцатеричном виде
+  th: โปรแกรมดู/แก้ไขเลขฐานสิบหก
+  tr: onaltılık görüntüleyici/düzenleyici
+  uk: переглядач/редактор у шістнадцятковому вигляді
+  vi: trình xem/chỉnh sửa hex
 x:
   source: https://github.com/DVDTSB/hexhog
   eget: DVDTSB/hexhog

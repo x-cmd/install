@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 对接多种 IM 平台、LLM、插件与 AI 能力的 Agent 助手开发框架，可作为 OpenClaw 替代方案
   en: AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+  cs: Vývojový rámec AI agentů a asistentů, který integruje mnoho IM platforem, LLM, pluginy a AI funkce a může být alternativou k OpenClaw. ✨
+  de: KI-Agent-Assistent und Entwicklungsframework, das zahlreiche IM-Plattformen, LLMs, Plugins und KI-Funktionen integriert und eine OpenClaw-Alternative sein kann. ✨
+  es: Asistente de agente de IA y framework de desarrollo que integra múltiples plataformas IM, LLMs, plugins y funciones de IA, y puede ser tu alternativa a OpenClaw. ✨
+  fr: Assistant d'agent IA et framework de développement qui intègre de nombreuses plateformes IM, des LLM, des plugins et des fonctions IA, et qui peut servir d'alternative à OpenClaw. ✨
+  id: Asisten Agen AI dan framework pengembangan yang mengintegrasikan banyak platform IM, LLM, plugin, dan fitur AI, serta dapat menjadi alternatif OpenClaw. ✨
+  it: Assistente per agenti AI e framework di sviluppo che integra molte piattaforme IM, LLM, plugin e funzionalità IA, e può essere un'alternativa a OpenClaw. ✨
+  ja: 多数のIMプラットフォーム、LLM、プラグイン、AI機能を統合するAIエージェントアシスタント兼開発フレームワーク。OpenClawの代替としても使えます。✨
+  ko: 다양한 IM 플랫폼, LLM, 플러그인, AI 기능을 통합하는 AI 에이전트 어시스턴트 및 개발 프레임워크로, OpenClaw의 대안이 될 수 있습니다. ✨
+  pl: Asystent agenta AI i framework deweloperski integrujący wiele platform IM, LLM, wtyczek i funkcji AI, który może być alternatywą dla OpenClaw. ✨
+  pt: Assistente de agente de IA e framework de desenvolvimento que integra muitas plataformas IM, LLMs, plugins e recursos de IA, e pode ser sua alternativa ao OpenClaw. ✨
+  ro: Asistent pentru agenți AI și cadru de dezvoltare care integrează numeroase platforme IM, LLM-uri, pluginuri și funcții AI, și poate fi o alternativă la OpenClaw. ✨
+  ru: Ассистент ИИ-агентов и фреймворк разработки, интегрирующий множество IM-платформ, LLM, плагины и ИИ-возможности, который может служить альтернативой OpenClaw. ✨
+  th: ผู้ช่วยเอเจนต์ AI และเฟรมเวิร์กการพัฒนาที่รวมแพลตฟอร์ม IM มากมาย LLM ปลั๊กอิน และความสามารถ AI พร้อมใช้เป็นทางเลือกของ OpenClaw ได้ ✨
+  tr: Çok sayıda IM platformu, LLM, eklenti ve AI özelliğini entegre eden AI ajanı asistanı ve geliştirme çerçevesi; OpenClaw alternatifi olabilir. ✨
+  uk: Асистент ІІ-агентів і фреймворк розробки, який інтегрує безліч IM-платформ, LLM, плагіни та ІІ-можливості, і може слугувати альтернативою OpenClaw. ✨
+  vi: Trợ lý tác nhân AI và framework phát triển tích hợp nhiều nền tảng IM, LLM, plugin và các tính năng AI, đồng thời có thể là lựa chọn thay thế cho OpenClaw. ✨
 x:
   source: https://github.com/AstrBotDevs/AstrBot
   eget: AstrBotDevs/AstrBot

@@ -3,6 +3,22 @@ homepage: https://github.com/ThomasDickey/original-mawk
 desc:
   en: mawk is an interpreter for the AWK Programming Language.
   cn: Mawk 是 AWK 编程语言的解释器。
+  cs: mawk je interpretem programovacího jazyka AWK.
+  de: mawk ist ein Interpreter für die AWK-Programmiersprache.
+  es: mawk es un intérprete del lenguaje de programación AWK.
+  fr: mawk est un interpréteur du langage de programmation AWK.
+  id: mawk adalah interpreter untuk bahasa pemrograman AWK.
+  it: mawk è un interprete per il linguaggio di programmazione AWK.
+  ja: mawk は AWK プログラミング言語のインタプリタです。
+  ko: mawk는 AWK 프로그래밍 언어의 인터프리터입니다.
+  pl: mawk to interpreter języka programowania AWK.
+  pt: mawk é um interpretador para a linguagem de programação AWK.
+  ro: mawk este un interpretor pentru limbajul de programare AWK.
+  ru: mawk — интерпретатор языка программирования AWK.
+  th: mawk คือตัวแปลคำสั่งของภาษาโปรแกรม AWK
+  tr: mawk, AWK programlama dilinin bir yorumlayıcısıdır.
+  uk: mawk — інтерпретатор мови програмування AWK.
+  vi: mawk là trình thông dịch cho ngôn ngữ lập trình AWK.
 x:
   source: https://github.com/ThomasDickey/original-mawk
   apt: mawk

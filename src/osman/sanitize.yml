@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用 Rust 编写的简单命令行工具将目录清除到特定的白名单
   en: Simple command-line tool to sanitize a directory to a specific whitelist, written in Rust
+  cs: Jednoduchý nástroj příkazové řádky v jazyce Rust pro sanitizaci adresáře podle konkrétního seznamu povolených
+  de: Ein einfaches Kommandozeilen-Tool in Rust, um ein Verzeichnis anhand einer bestimmten Whitelist zu bereinigen
+  es: Sencilla herramienta de línea de comandos escrita en Rust para sanear un directorio según una lista blanca específica
+  fr: Un simple outil en ligne de commande écrit en Rust pour assainir un répertoire selon une liste blanche précise
+  id: Alat baris perintah sederhana yang ditulis dalam Rust untuk membersihkan direktori sesuai daftar putih tertentu
+  it: Semplice strumento da riga di comando scritto in Rust per sanitizzare una directory rispetto a una specifica lista bianca
+  ja: Rust で書かれた、特定のホワイトリストに基づいてディレクトリをサニタイズするシンプルなコマンドラインツール
+  ko: 특정 화이트리스트에 따라 디렉터리를 정리하는 Rust로 작성된 간단한 명령줄 도구
+  pl: Proste narzędzie wiersza poleceń napisane w Rust do oczyszczania katalogu według określonej białej listy
+  pt: Simples ferramenta de linha de comando escrita em Rust para sanitizar um diretório conforme uma lista branca específica
+  ro: Instrument simplu de linie de comandă scris în Rust pentru sanitizarea unui director conform unei liste albe specifice
+  ru: Простой инструмент командной строки на Rust для очистки каталога по заданному белому списку
+  th: เครื่องมือบรรทัดคำสั่งอย่างง่ายที่เขียนด้วย Rust เพื่อทำความสะอาดไดเรกทอรีตามรายการที่อนุญาต
+  tr: Rust ile yazılmış, bir dizini belirli bir izin listesine göre temizleyen basit bir komut satırı aracı
+  uk: Простий інструмент командного рядка на Rust для очищення каталогу за заданим білим списком
+  vi: Công cụ dòng lệnh đơn giản viết bằng Rust để làm sạch thư mục theo danh sách cho phép cụ thể
 x:
   source: https://github.com/jhheider/sanitize
   cargo: sanitize

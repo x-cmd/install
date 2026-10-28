@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 极简的 neofetch 风格天气 CLI
   en: minimal neofetch-style weather cli
+  cs: Minimální CLI pro počasí ve stylu neofetch
+  de: Minimales Wetter-CLI im neofetch-Stil
+  es: CLI minimalista del tiempo al estilo neofetch
+  fr: CLI météo minimaliste de style neofetch
+  id: CLI cuaca minimal bergaya neofetch
+  it: CLI meteo minimalista in stile neofetch
+  ja: neofetch風のミニマルな天気CLI
+  ko: neofetch 스타일의 미니멀한 날씨 CLI
+  pl: Minimalistyczne CLI pogodowe w stylu neofetch
+  pt: CLI de previsão do tempo minimalista ao estilo neofetch
+  ro: CLI meteo minimalist în stil neofetch
+  ru: Минималистичный CLI погоды в стиле neofetch
+  th: CLI พยากรณ์อากาศแบบเรียบง่ายสไตล์ neofetch
+  tr: neofetch tarzında minimalist hava durumu CLI
+  uk: Мінімалістичний CLI погоди у стилі neofetch
+  vi: CLI thời tiết tối giản theo phong cách neofetch
 x:
   source: https://github.com/ashish0kumar/stormy
   eget: ashish0kumar/stormy

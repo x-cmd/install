@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: tccli 是管理腾讯云资源的命令行工具
   en: tccli is a command-line tool for managing Tencent Cloud resources
+  cs: tccli je nástroj příkazové řádky pro správu zdrojů Tencent Cloud
+  de: tccli ist ein Befehlszeilenwerkzeug zur Verwaltung von Tencent Cloud-Ressourcen
+  es: tccli es una herramienta de línea de comandos para gestionar recursos de Tencent Cloud
+  fr: tccli est un outil de ligne de commande pour gérer les ressources Tencent Cloud
+  id: tccli adalah alat baris perintah untuk mengelola sumber daya Tencent Cloud
+  it: tccli è uno strumento a riga di comando per gestire le risorse Tencent Cloud
+  ja: tccli は Tencent Cloud のリソースを管理するためのコマンドラインツールです
+  ko: tccli는 Tencent Cloud 리소스를 관리하기 위한 명령줄 도구입니다
+  pl: tccli jest narzędziem wiersza poleceń do zarządzania zasobami Tencent Cloud
+  pt: tccli é uma ferramenta de linha de comando para gerenciar recursos do Tencent Cloud
+  ro: tccli este un instrument de linie de comandă pentru gestionarea resurselor Tencent Cloud
+  ru: tccli — это инструмент командной строки для управления ресурсами Tencent Cloud
+  th: tccli เป็นเครื่องมือบรรทัดคำสั่งสำหรับจัดการทรัพยากรของ Tencent Cloud
+  tr: tccli, Tencent Cloud kaynaklarını yönetmek için bir komut satırı aracıdır
+  uk: tccli — це інструмент командного рядка для керування ресурсами Tencent Cloud
+  vi: tccli là công cụ dòng lệnh để quản lý tài nguyên Tencent Cloud
 x:
   source: https://github.com/TencentCloud/tencentcloud-cli
   brew: tencentcloud/tccli/tccli

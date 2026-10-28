@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 基于 Ollama 的本地 CLI Copilot
   en: Local CLI Copilot, powered by Ollama. 💻🦙
+  cs: Místní CLI Copilot, poháněný Ollama. 💻🦙
+  de: Lokaler CLI-Copilot, angetrieben von Ollama. 💻🦙
+  es: Copilot de CLI local, impulsado por Ollama. 💻🦙
+  fr: Copilot CLI local, propulsé par Ollama. 💻🦙
+  id: Copilot CLI lokal, bertenaga Ollama. 💻🦙
+  it: Copilot CLI locale, basato su Ollama. 💻🦙
+  ja: Ollamaで動くローカルCLI Copilot。💻🦙
+  ko: Ollama를 기반으로 한 로컬 CLI Copilot. 💻🦙
+  pl: Lokalny Copilot CLI, napędzany przez Ollama. 💻🦙
+  pt: Copilot de CLI local, com tecnologia Ollama. 💻🦙
+  ro: Copilot CLI local, alimentat de Ollama. 💻🦙
+  ru: Локальный CLI Copilot на базе Ollama. 💻🦙
+  th: Copilot CLI ในเครื่อง ขับเคลื่อนด้วย Ollama 💻🦙
+  tr: Ollama destekli yerel CLI Copilot. 💻🦙
+  uk: Локальний CLI Copilot на базі Ollama. 💻🦙
+  vi: Copilot CLI cục bộ, chạy trên Ollama. 💻🦙
 x:
   source: https://github.com/yusufcanb/tlm
   eget: yusufcanb/tlm

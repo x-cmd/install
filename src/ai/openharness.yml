@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 支持任意 LLM 的开源本地终端 CLI
   en: Open source local terminal cli with any LLM
+  cs: Otevřený zdrojový lokální terminálový cli s podporou libovolného LLM
+  de: Quelloffene lokale Terminal-cli mit beliebigem LLM
+  es: Cli de terminal local de código abierto compatible con cualquier LLM
+  fr: Cli de terminal local open source compatible avec n'importe quel LLM
+  id: Cli terminal lokal sumber terbuka dengan LLM apa pun
+  it: Cli da terminale locale open source con qualsiasi LLM
+  ja: 任意の LLM に対応したオープンソースのローカル端末 cli
+  ko: 어떤 LLM이든 지원하는 오픈 소스 로컬 터미널 cli
+  pl: Oprogramowanie terminali wiersza poleceń o otwartym kodzie, lokalne, obsługujące dowolny LLM
+  pt: Cli de terminal local de código aberto com qualquer LLM
+  ro: Cli de terminal local open source cu orice LLM
+  ru: Открытый локальный терминальный cli с поддержкой любой LLM
+  th: เทอร์มินัล cli แบบโอเพนซอร์สที่ทำงานในเครื่อง รองรับ LLM ใดก็ได้
+  tr: Herhangi bir LLM ile çalışan açık kaynak yerel terminal cli
+  uk: Відкритий локальний термінальний cli з підтримкою будь-якої LLM
+  vi: Cli terminal cục bộ mã nguồn mở hỗ trợ mọi LLM
 x:
   source: https://github.com/zhijiewong/openharness
   eget: zhijiewong/openharness

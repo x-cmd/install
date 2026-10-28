@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 启动 BlackSheep 项目的客户端
   en: CLI to start BlackSheep projects.
+  cs: CLI pro spuštění projektů BlackSheep
+  de: CLI zum Starten von BlackSheep-Projekten
+  es: CLI para iniciar proyectos de BlackSheep
+  fr: CLI pour lancer des projets BlackSheep
+  id: CLI untuk memulai proyek BlackSheep
+  it: CLI per avviare progetti BlackSheep
+  ja: BlackSheep プロジェクトを起動するための CLI
+  ko: BlackSheep 프로젝트를 시작하기 위한 CLI
+  pl: CLI do uruchamiania projektów BlackSheep
+  pt: CLI para iniciar projetos BlackSheep
+  ro: CLI pentru pornirea proiectelor BlackSheep
+  ru: CLI для запуска проектов BlackSheep
+  th: CLI สำหรับเริ่มโปรเจกต์ BlackSheep
+  tr: BlackSheep projelerini başlatmak için CLI
+  uk: CLI для запуску проєктів BlackSheep
+  vi: CLI để khởi chạy các dự án BlackSheep
 x:
   source: https://github.com/Neoteroi/BlackSheep
   pip: blacksheep-cli

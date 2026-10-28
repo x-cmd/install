@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 用于命令行的 Google Drive 客户端
   en: Google Drive client for command line
+  cs: Klient Google Drive pro příkazový řádek
+  de: Google Drive-Client für die Kommandozeile
+  es: Cliente de Google Drive para línea de comandos
+  fr: Client Google Drive pour la ligne de commande
+  id: Klien Google Drive untuk baris perintah
+  it: Client Google Drive per la riga di comando
+  ja: コマンドライン用の Google Drive クライアント
+  ko: 명령줄용 Google Drive 클라이언트
+  pl: Klient Google Drive dla wiersza poleceń
+  pt: Cliente do Google Drive para linha de comando
+  ro: Client Google Drive pentru linia de comandă
+  ru: Клиент Google Drive для командной строки
+  th: ไคลเอนต์ Google Drive สำหรับบรรทัดคำสั่ง
+  tr: Komut satırı için Google Drive istemcisi
+  uk: Клієнт Google Drive для командного рядка
+  vi: Ứng dụng Google Drive cho dòng lệnh
 homepage: https://github.com/odeke-em/drive
 license: Apache-2.0
 x:

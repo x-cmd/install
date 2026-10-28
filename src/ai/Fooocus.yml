@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 专注于提示词与图像生成
   en: 'Focus on prompting and generating'
+  cs: Zaměření na prompting a generování
+  de: Fokus auf Prompting und Generierung
+  es: Enfócate en el prompting y la generación
+  fr: Concentrez-vous sur le prompting et la génération
+  id: Fokus pada prompting dan pembuatan gambar
+  it: Concentrati su prompting e generazione
+  ja: プロンプトと生成、集中
+  ko: 프롬프트와 생성에 집중
+  pl: Skup się na promptowaniu i generowaniu
+  pt: Foco em prompts e geração
+  ro: Concentrare pe prompting și generare
+  ru: Фокус на промптах и генерации
+  th: เน้นการเขียนพรอมต์และการสร้างภาพ
+  tr: İstem yazmaya ve üretime odaklanın
+  uk: Фокус на промптах і генерації
+  vi: Tập trung vào việc viết prompt và tạo sinh
 x:
   source: https://github.com/lllyasviel/Fooocus
   eget: lllyasviel/Fooocus

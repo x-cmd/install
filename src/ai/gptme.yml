@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 终端中的智能体，配备本地工具：写代码、用终端、浏览网页，可构建持久自主智能体
   en: 'Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!'
+  cs: "Váš agent v terminálu, vybavený lokálními nástroji: píše kód, používá terminál, prochází web. Postavte si vlastního trvalého autonomního agenta!"
+  de: "Ihr Agent in Ihrem Terminal, ausgestattet mit lokalen Werkzeugen: schreibt Code, nutzt das Terminal, surft im Web. Bauen Sie Ihren eigenen dauerhaften autonomen Agenten!"
+  es: "Tu agente en tu terminal, equipado con herramientas locales: escribe código, usa el terminal, navega por la web. ¡Crea tu propio agente autónomo y persistente!"
+  fr: "Votre agent dans votre terminal, équipé d'outils locaux : écrit du code, utilise le terminal, navigue sur le web. Créez votre propre agent autonome persistant !"
+  id: "Agen Anda di terminal Anda, dilengkapi alat lokal: menulis kode, memakai terminal, menjelajahi web. Bangun agen otonom persisten Anda sendiri!"
+  it: "Il tuo agente nel terminale, dotato di strumenti locali: scrive codice, usa il terminale, naviga sul web. Crea il tuo agente autonomo persistente!"
+  ja: ターミナル内で動くエージェント。ローカルツールを備えたコード生成、ターミナル操作、Web閲覧に対応。永続的な自律エージェントを自分で構築できます。
+  ko: 터미널 속의 에이전트로, 로컬 도구를 갖추고 있습니다. 코드 작성, 터미널 사용, 웹 탐색을 지원합니다. 나만의 지속적 자율 에이전트를 만들어 보세요.
+  pl: "Twój agent w terminalu, wyposażony w narzędzia lokalne: pisze kod, korzysta z terminala, przegląda internet. Zbuduj własnego trwałego autonomicznego agenta!"
+  pt: "Seu agente no seu terminal, equipado com ferramentas locais: escreve código, usa o terminal, navega na web. Crie seu próprio agente autônomo persistente!"
+  ro: "Agentul tău în terminal, dotat cu unelte locale: scrie cod, folosește terminalul, navighează pe web. Construiește-ți propriul agent autonom persistent!"
+  ru: "Ваш агент в терминале, оснащенный локальными инструментами: пишет код, использует терминал, просматривает веб. Создайте собственного постоянного автономного агента!"
+  th: "เอเจนต์ของคุณในเทอร์มินัล พร้อมเครื่องมือในเครื่อง: เขียนโค้ด ใช้เทอร์มินัล และท่องเว็บ สร้างเอเจนต์อัตโนมัติแบบถาวรของคุณเอง!"
+  tr: "Terminaldeki yapay zekâ ajanınız, yerel araçlarla donatılmıştır: kod yazar, terminali kullanır, web'de gezinir. Kendi kalıcı otonom ajanınızı oluşturun!"
+  uk: "Ваш агент у терміналі, оснащений локальними інструментами: пише код, використовує термінал, переглядає веб. Створіть власного постійного автономного агента!"
+  vi: "Trợ lý của bạn trong terminal, được trang bị công cụ cục bộ: viết mã, dùng terminal, duyệt web. Hãy tự xây dựng trợ lý tự trị bền vững của riêng bạn!"
 x:
   source: https://github.com/gptme/gptme
   eget: gptme/gptme

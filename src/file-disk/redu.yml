@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: it's ncdu for your restic repo
   cn: redu 是您的 restic repo 的 ncdu
+  cs: je to ncdu pro váš restic repozitář
+  de: es ist ncdu für Ihr restic-Repository
+  es: es ncdu para tu repositorio de restic
+  fr: c'est ncdu pour votre dépôt restic
+  id: ini adalah ncdu untuk repositori restic Anda
+  it: è ncdu per il tuo repository restic
+  ja: restic リポジトリ向けの ncdu です
+  ko: restic 저장소용 ncdu입니다
+  pl: to ncdu dla Twojego repozytorium restic
+  pt: é o ncdu para o seu repositório restic
+  ro: este ncdu pentru depozitul dumneavoastră restic
+  ru: это ncdu для вашего репозитория restic
+  th: นี่คือ ncdu สำหรับที่เก็บข้อมูล restic ของคุณ
+  tr: restic deponuz için ncdu
+  uk: це ncdu для вашого репозиторію restic
+  vi: đây là ncdu cho kho restic của bạn
 x:
   source: https://github.com/drdo/redu
   eget: drdo/redu

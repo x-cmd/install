@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 使用 TinyPNG 压缩图片的 CLI 工具
   en: '🐼 CLI tool for compressing images using the TinyPNG'
+  cs: Nástroj CLI pro kompresi obrázků pomocí TinyPNG
+  de: CLI-Werkzeug zum Komprimieren von Bildern mit TinyPNG
+  es: Herramienta CLI para comprimir imágenes usando TinyPNG
+  fr: Outil CLI pour compresser des images avec TinyPNG
+  id: Alat CLI untuk mengompresi gambar menggunakan TinyPNG
+  it: Strumento CLI per comprimere le immagini usando TinyPNG
+  ja: TinyPNG を使って画像を圧縮する CLI ツール
+  ko: TinyPNG를 사용하여 이미지를 압축하는 CLI 도구
+  pl: Narzędzie CLI do kompresji obrazów za pomocą TinyPNG
+  pt: Ferramenta CLI para compactar imagens usando o TinyPNG
+  ro: Instrument CLI pentru comprimarea imaginilor folosind TinyPNG
+  ru: CLI-инструмент для сжатия изображений с помощью TinyPNG
+  th: เครื่องมือ CLI สำหรับบีบอัดรูปภาพด้วย TinyPNG
+  tr: TinyPNG kullanarak görselleri sıkıştırmak için CLI aracı.
+  uk: CLI-інструмент для стиснення зображень за допомогою TinyPNG
+  vi: Công cụ CLI để nén ảnh bằng TinyPNG
 x:
   source: https://github.com/tarampampam/tinifier
   eget: tarampampam/tinifier

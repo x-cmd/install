@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: Scaleway CLI 是一款帮助您直接从终端试用 Scaleway 基础设施的工具
   en: Scaleway CLI is a tool to help you pilot your Scaleway infrastructure directly from your terminal
+  cs: Scaleway CLI je nástroj, který vám pomůže přímo z terminálu pilotovat svou infrastrukturu Scaleway
+  de: Die Scaleway CLI ist ein Werkzeug, mit dem Sie Ihre Scaleway-Infrastruktur direkt vom Terminal aus steuern können
+  es: Scaleway CLI es una herramienta que te ayuda a pilotar tu infraestructura de Scaleway directamente desde tu terminal
+  fr: Scaleway CLI est un outil qui vous aide à piloter votre infrastructure Scaleway directement depuis votre terminal
+  id: Scaleway CLI adalah alat untuk membantu Anda mengelola infrastruktur Scaleway langsung dari terminal Anda
+  it: Scaleway CLI è uno strumento che ti aiuta a gestire la tua infrastruttura Scaleway direttamente dal terminale
+  ja: Scaleway CLI は、ターミナルから直接 Scaleway のインフラを操作するためのツールです
+  ko: Scaleway CLI는 터미널에서 직접 Scaleway 인프라를 운영할 수 있도록 돕는 도구입니다
+  pl: Scaleway CLI to narzędzie, które pomaga zarządzać infrastrukturą Scaleway bezpośrednio z terminala
+  pt: O Scaleway CLI é uma ferramenta que ajuda você a pilotar sua infraestrutura Scaleway diretamente do terminal
+  ro: Scaleway CLI este un instrument care vă ajută să vă controlați infrastructura Scaleway direct din terminal
+  ru: Scaleway CLI — это инструмент, который помогает управлять инфраструктурой Scaleway прямо из терминала
+  th: Scaleway CLI เป็นเครื่องมือที่ช่วยคุณควบคุมโครงสร้างพื้นฐาน Scaleway ได้โดยตรงจากเทอร์มินัล
+  tr: Scaleway CLI, Scaleway altyapınızı doğrudan terminalden yönetmenize yardımcı olan bir araçtır
+  uk: Scaleway CLI — це інструмент, який допомагає керувати інфраструктурою Scaleway безпосередньо з терміналу
+  vi: Scaleway CLI là công cụ giúp bạn điều hành hạ tầng Scaleway trực tiếp từ terminal
 homepage: https://github.com/scaleway/scaleway-cli
 license: Apache-2.0
 x:

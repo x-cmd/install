@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: SVG 图表生成服务 / 库 / CLI，支持 pie、bar、hbar、line、area、radar、gauge、scatter、combo、sankey、qr 共 11 种图表，所有入口共享同一参数
   en: SVG chart rendering as a service, a library, and a CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, same params everywhere.
+  cs: Vykreslování SVG grafů jako služba, knihovna a CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, stejné parametry všude
+  de: SVG-Diagrammdarstellung als Dienst, Bibliothek und CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, überall dieselben Parameter
+  es: "Renderizado de gráficos SVG como servicio, biblioteca y CLI: pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, los mismos parámetros en todas partes"
+  fr: Rendu de graphiques SVG sous forme de service, de bibliothèque et de CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, mêmes paramètres partout
+  id: Rendering grafik SVG sebagai layanan, pustaka, dan CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, parameter sama di semua tempat
+  it: Rendering di grafici SVG come servizio, libreria e CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, stessi parametri ovunque
+  ja: SVG チャート描画をサービス、ライブラリ、CLI として提供 — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr、すべて同じパラメータ
+  ko: SVG 차트 렌더링을 서비스, 라이브러리 및 CLI로 제공 — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, 어디서나 동일한 매개변수
+  pl: Renderowanie wykresów SVG jako usługa, biblioteka i CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, te same parametry wszędzie
+  pt: Renderização de gráficos SVG como serviço, biblioteca e CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, os mesmos parâmetros em todos os lugares
+  ro: Randare grafice SVG ca serviciu, bibliotecă și CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, aceiași parametri peste tot
+  ru: Отрисовка SVG-диаграмм как сервис, библиотека и CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, одинаковые параметры везде
+  th: การเรนเดอร์แผนภาพ SVG ทั้งแบบบริการ ไลบรารี และ CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, ใช้พารามิเตอร์เดียวกันทุกที่
+  tr: "SVG grafik oluşturma: bir servis, kütüphane ve CLI olarak — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, her yerde aynı parametreler"
+  uk: Відтворення SVG-діаграм як сервіс, бібліотека та CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, однакові параметри скрізь
+  vi: Kết xuất biểu đồ SVG dưới dạng dịch vụ, thư viện và CLI — pie/bar/hbar/line/area/radar/gauge/scatter/combo/sankey/qr, tham số giống nhau ở mọi nơi
 x:
   source: https://github.com/x-cmd/draw
   npm: "@x-cmd/draw"

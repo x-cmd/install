@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Draft 是一个工具，为用户谁是刚刚开始与 Kubernetes，或用户谁想简化他们的经验与 Kubernetes
   en: Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes
+  cs: Draft je nástroj určený uživatelům, kteří začínají s Kubernetes, nebo uživatelům, kteří chtějí zjednodušit svou práci s Kubernetes
+  de: Draft ist ein Werkzeug für Nutzer, die gerade mit Kubernetes beginnen, oder die ihre Arbeit mit Kubernetes vereinfachen möchten
+  es: Draft es una herramienta creada para usuarios que acaban de empezar con Kubernetes o que quieren simplificar su experiencia con Kubernetes
+  fr: Draft est un outil conçu pour les utilisateurs qui débutent avec Kubernetes ou qui souhaitent simplifier leur expérience avec Kubernetes
+  id: Draft adalah alat yang dibuat untuk pengguna yang baru memulai dengan Kubernetes, atau pengguna yang ingin menyederhanakan pengalaman mereka dengan Kubernetes
+  it: Draft è uno strumento creato per utenti che iniziano proprio con Kubernetes o che vogliono semplificare la propria esperienza con Kubernetes
+  ja: Draft は Kubernetes を始めたばかりの人や、Kubernetes での体験を単純化したい人のために作られたツールです
+  ko: Draft는 Kubernetes를 막 시작한 사용자나 Kubernetes 사용 경험을 단순화하려는 사용자를 위해 만들어진 도구입니다
+  pl: Draft to narzędzie stworzone dla użytkowników, którzy dopiero zaczynają z Kubernetes, lub którzy chcą uprościć swoje doświadczenie z Kubernetes
+  pt: O Draft é uma ferramenta criada para usuários que estão começando com Kubernetes ou que querem simplificar sua experiência com Kubernetes
+  ro: Draft este o unealtă creată pentru utilizatori care abia încep cu Kubernetes sau care vor să își simplifice experiența cu Kubernetes
+  ru: Draft — это инструмент для пользователей, которые только начинают работать с Kubernetes, или для тех, кто хочет упростить работу с Kubernetes
+  th: Draft คือเครื่องมือที่สร้างขึ้นสำหรับผู้ใช้ที่เพิ่งเริ่มต้นกับ Kubernetes หรือผู้ใช้ที่ต้องการทำให้ประสบการณ์กับ Kubernetes ง่ายขึ้น
+  tr: Draft, Kubernetes'a yeni başlayan kullanıcılar veya Kubernetes deneyimini basitleştirmek isteyen kullanıcılar için geliştirilmiş bir araçtır
+  uk: Draft — це інструмент для користувачів, які лише починають працювати з Kubernetes, або для тих, хто хоче спростити роботу з Kubernetes
+  vi: Draft là công cụ dành cho những người dùng mới bắt đầu với Kubernetes, hoặc những người muốn đơn giản hóa trải nghiệm với Kubernetes
 x:
   source: https://github.com/Azure/draft
   eget: Azure/draft

@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: 用于管理基于 email-lib 电子邮件的命令行工具
   en: The Command-Line Interface to manage emails based on email-lib
+  cs: Příkazová řádka pro správu e-mailů založená na email-lib
+  de: Eine Kommandozeilen-Oberfläche zur Verwaltung von E-Mails auf Basis von email-lib
+  es: Interfaz de línea de comandos para gestionar correos electrónicos basada en email-lib
+  fr: Interface en ligne de commande pour gérer des courriels basée sur email-lib
+  id: Antarmuka baris perintah untuk mengelola email berbasis email-lib
+  it: Interfaccia a riga di comando per gestire le email basata su email-lib
+  ja: email-lib に基づくメール管理用のコマンドラインインターフェース
+  ko: email-lib 기반 이메일을 관리하기 위한 명령줄 인터페이스
+  pl: Interfejs wiersza poleceń do zarządzania pocztą oparty na email-lib
+  pt: Interface de linha de comando para gerenciar e-mails baseada no email-lib
+  ro: Interfață de linie de comandă pentru gestionarea e-mailurilor bazată pe email-lib
+  ru: Интерфейс командной строки для управления почтой на основе email-lib
+  th: อินเทอร์เฟซบรรทัดคำสั่งสำหรับจัดการอีเมลที่ใช้ email-lib
+  tr: email-lib tabanlı e-posta yönetimi için komut satırı arayüzü
+  uk: Інтерфейс командного рядка для керування поштою на основі email-lib
+  vi: Giao diện dòng lệnh để quản lý email dựa trên email-lib
 x:
   source: https://github.com/pimalaya/himalaya
   eget: pimalaya/himalaya

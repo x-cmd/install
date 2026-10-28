@@ -3,6 +3,22 @@ homepage: https://github.com/j4v3l/ADS-B_TUI
 desc:
   cn: 基于 ADS-B 数据的现代航班跟踪终端界面，以美观表格展示实时航班信息、国旗与航线
   en: A modern, fast, and user-friendly terminal interface for tracking aircraft using ADS-B data. Display real-time flight information in a beautiful table format with country flags, routes, and more.
+  cs: Moderní, rychlé a uživatelsky přátelské terminálové rozhraní pro sledování letadel pomocí dat ADS-B. Zobrazuje informace o aktuálních letech v krásném tabulkovém formátu s vlajkami států, trasami a dalšími údaji.
+  de: Eine moderne, schnelle und benutzerfreundliche Terminaloberfläche zur Verfolgung von Flugzeugen anhand von ADS-B-Daten. Zeigt Echtzeit-Fluginformationen in einer schönen Tabellenansicht mit Länderflaggen, Routen und vielem mehr.
+  es: Una interfaz de terminal moderna, rápida y fácil de usar para rastrear aeronaves mediante datos ADS-B. Muestra información de vuelos en tiempo real en un bonito formato de tabla con banderas de país, rutas y mucho más.
+  fr: Une interface terminal moderne, rapide et conviviale pour suivre les avions à partir des données ADS-B. Affiche les informations de vol en temps réel dans un tableau soigné avec drapeaux de pays, itinéraires et plus encore.
+  id: Antarmuka terminal modern, cepat, dan ramah pengguna untuk melacak pesawat menggunakan data ADS-B. Menampilkan informasi penerbangan real-time dalam format tabel yang indah dengan bendera negara, rute, dan lainnya.
+  it: Un'interfaccia terminale moderna, veloce e intuitiva per tracciare gli aerei usando dati ADS-B. Mostra informazioni sui voli in tempo reale in un bel formato tabellare con bandiere dei paesi, rotte e altro.
+  ja: ADS-B データを使って航空機を追跡するためのモダンで高速、そしてユーザーフレンドリーなターミナルインターフェース。国の旗や航路などを含む美しい表形式でリアルタイムの飛行情報を表示します。
+  ko: ADS-B 데이터를 이용해 항공기를 추적하는 현대적이고 빠르며 사용하기 쉬운 터미널 인터페이스. 나라 깃발, 항로 등을 포함된 보기 좋은 표 형식으로 실시간 항공 정보를 표시합니다.
+  pl: Nowoczesny, szybki i przyjazny użytkownikowi interfejs terminala do śledzenia samolotów na podstawie danych ADS-B. Wyświetla informacje o lotach w czasie rzeczywistym w eleganckim formacie tabelarycznym z flagami krajów, trasami i nie tylko.
+  pt: Uma interface de terminal moderna, rápida e amigável para rastrear aeronaves usando dados ADS-B. Exibe informações de voos em tempo real em um belo formato de tabela com bandeiras de países, rotas e muito mais.
+  ro: O interfață de terminal modernă, rapidă și prietnoasă cu utilizatorul pentru urmărirea avioanelor folosind date ADS-B. Afișează informații de zbor în timp real într-un format de tabel elegant cu drapele de țară, rute și multe altele.
+  ru: Современный, быстрый и удобный терминальный интерфейс для отслеживания самолётов по данным ADS-B. Отображает информацию о рейсах в реальном времени в красивом табличном виде с флагами стран, маршрутами и многим другим.
+  th: อินเทอร์เฟซเทอร์มินัลที่ทันสมัย เร็ว และใช้งานง่ายสำหรับติดตามเครื่องบินด้วยข้อมูล ADS-B แสดงข้อมูลเที่ยวบินแบบเรียลไทม์ในรูปแบบตารางที่สวยงาม พร้อมธงประเทศ เส้นทางบิน และอื่น ๆ.
+  tr: ADS-B verisi kullanarak uçakları takip etmek için modern, hızlı ve kullanıcı dostu bir terminal arayüzü. Gerçek zamanlı uçuş bilgilerini ülke bayrakları, rotalar ve fazlasıyla birlikte güzel bir tablo biçiminde gösterir.
+  uk: Сучасний, швидкий і зручний термінальний інтерфейс для відстеження літаків за даними ADS-B. Показує інформацію про рейси в реальному часі у вигляді красивої таблиці з прапорами країн, маршрутами та багатьма іншими даними.
+  vi: Giao diện terminal hiện đại, nhanh và thân thiện để theo dõi máy bay bằng dữ liệu ADS-B. Hiển thị thông tin chuyến bay theo thời gian thực trong bảng đẹp mắt với cờ quốc gia, tuyến đường và hơn thế nữa.
 x:
   source: https://github.com/j4v3l/ADS-B_TUI
   eget: j4v3l/ADS-B_TUI

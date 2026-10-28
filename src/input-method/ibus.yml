@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: IBus 是一个 Linux/Unix 操作系统的开源输入框架
   en: IBus is an open source input framework for Linux/Unix OS
+  cs: IBus je open source vstupní framework pro operační systémy Linux/Unix
+  de: IBus ist ein Open-Source-Eingabe-Framework für Linux/Unix-Betriebssysteme
+  es: IBus es un framework de entrada de código abierto para sistemas operativos Linux/Unix
+  fr: IBus est un framework de saisie open source pour les systèmes d'exploitation Linux/Unix
+  id: IBus adalah framework input sumber terbuka untuk sistem operasi Linux/Unix
+  it: IBus è un framework di input open source per i sistemi operativi Linux/Unix
+  ja: IBus は Linux/Unix 向けのオープンソース入力フレームワークです
+  ko: IBus는 Linux/Unix 운영 체제용 오픈 소스 입력 프레임워크입니다
+  pl: IBus to otwartoźródłowa ramka wprowadzania tekstu dla systemów Linux/Unix
+  pt: O IBus é um framework de entrada de código aberto para sistemas operacionais Linux/Unix
+  ro: IBus este un cadru de introducere open source pentru sistemele de operare Linux/Unix
+  ru: IBus — фреймворк ввода с открытым исходным кодом для операционных систем Linux/Unix
+  th: IBus คือเฟรมเวิร์กการป้อนข้อมูลโอเพนซอร์สสำหรับระบบปฏิบัติการ Linux/Unix
+  tr: IBus, Linux/Unix işletim sistemleri için açık kaynaklı bir giriş çerçevesidir
+  uk: IBus — фреймворк введення з відкритим кодом для операційних систем Linux/Unix
+  vi: IBus là khung nhập mã nguồn mở cho hệ điều hành Linux/Unix
 x:
   source: https://github.com/ibus/ibus
   eget: ibus/ibus

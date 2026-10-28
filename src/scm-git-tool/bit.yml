@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个实验性的现代化 git CLI，构建在 git 之上，能提供丰富的 git 命令和选项的相关建议
   en: '`bit` is an experimental modernized git CLI built on top of git that provides happy defaults '
+  cs: "`bit` je experimentální modernizované git CLI postavené nad git, které nabízí chytré výchozí hodnoty"
+  de: "`bit` ist eine experimentelle modernisierte git-CLI, die auf git aufbaut und angenehme Voreinstellungen bietet"
+  es: "`bit` es una CLI de git experimental modernizada, construida sobre git y que ofrece valores predeterminados cómodos"
+  fr: "`bit` est une CLI git expérimentale modernisée, construite sur git et offrant des valeurs par défaut agréables"
+  id: "`bit` adalah CLI git eksperimental modern yang dibangun di atas git dengan nilai bawaan yang nyaman"
+  it: "`bit` è una CLI git sperimentale modernizzata, costruita su git e con impostazioni predefinite piacevoli"
+  ja: "`bit` は git の上に構築された実験的な現代版 git CLI で、既定の値が切身で使いやすい設定を提供します"
+  ko: "`bit`는 git 위에 구축된 실험적인 현대형 git CLI로, 합리적인 기본값을 제공합니다"
+  pl: "`bit` to eksperymentalna, zmodernizowana interfejs wiersza poleceń git zbudowany na git, oferujący miłe domyślne ustawienia"
+  pt: "`bit` é uma CLI de git experimental modernizada, construída sobre o git e com padrões de bom grado"
+  ro: "`bit` este o interfață de linie de comandă git experimentală, modernizată, construită peste git și cu valori implicite plăcute"
+  ru: "`bit` — экспериментальный современный git CLI, построенный поверх git и предлагающий удачные значения по умолчанию"
+  th: "`bit` คือ git CLI รุ่นทดลองแบบสมัยใหม่ที่สร้างบน git และให้ค่าเริ่มต้นที่ใช้งานง่าย"
+  tr: "`bit`, git üzerine kurulmuş, mutlu varsayılanlar sunan deneysel bir modern git CLI'dır"
+  uk: "`bit` — експериментальний сучасний git CLI, побудований поверх git і з приємними значеннями за замовчуванням"
+  vi: "`bit` là git CLI thử nghiệm hiện đại được xây dựng trên nền git, cung cấp các giá trị mặc định thuận tiện"
 x:
   source: https://github.com/chriswalz/bit
   eget: chriswalz/bit

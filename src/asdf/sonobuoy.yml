@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Sonobuoy 是一种诊断工具，可以通过以易于访问和无损的方式运行配置测试来更容易理解 Kubernetes 群集的状态
   en: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a choice of configuration tests in an accessible and non-destructive manner
+  cs: Sonobuoy je diagnostický nástroj, který usnadňuje pochopení stavu clusteru Kubernetes tím, že spouští sadu konfiguračních testů dostupným a nedestruktivním způsobem
+  de: Sonobuoy ist ein Diagnosewerkzeug, das den Zustand eines Kubernetes-Clusters verständlicher macht, indem es eine Auswahl von Konfigurationstests zugänglich und nicht-destruktiv ausführt
+  es: Sonobuoy es una herramienta de diagnóstico que facilita la comprensión del estado de un clúster de Kubernetes ejecutando una selección de pruebas de configuración de forma accesible y no destructiva
+  fr: Sonobuoy est un outil de diagnostic qui facilite la compréhension de l'état d'un cluster Kubernetes en exécutant un choix de tests de configuration de manière accessible et non destructive
+  id: Sonobuoy adalah alat diagnostik yang memudahkan memahami status cluster Kubernetes dengan menjalankan pilihan tes konfigurasi secara aksesibel dan non-destruktif
+  it: Sonobuoy è uno strumento diagnostico che rende più facile capire lo stato di un cluster Kubernetes eseguendo una scelta di test di configurazione in modo accessibile e non distruttivo
+  ja: Sonobuoy は、アクセス可能で非破壊的な方法で一連の構成テストを実行し、Kubernetes クラスタの状態を理解しやすくする診断ツールです
+  ko: Sonobuoy는 다양한 구성 테스트를 접근 가능하고 비파괴적인 방식으로 실행하여 Kubernetes 클러스터 상태를 파악하기 쉽게 하는 진단 도구입니다
+  pl: Sonobuoy to narzędzie diagnostyczne, które ułatwia zrozumienie stanu klastra Kubernetes, uruchamiając zestaw testów konfiguracji w dostępny i niedestrukcyjny sposób
+  pt: Sonobuoy é uma ferramenta de diagnóstico que facilita a compreensão do estado de um cluster do Kubernetes executando uma seleção de testes de configuração de forma acessível e não destrutiva
+  ro: Sonobuoy este un instrument de diagnostic care facilitează înțelegerea stării unui cluster Kubernetes prin rularea unei selecții de teste de configurație într-un mod accesibil și nedistructiv
+  ru: Sonobuoy — диагностический инструмент, который упрощает понимание состояния кластера Kubernetes, запуская набор конфигурационных тестов доступным и неразрушающим способом
+  th: Sonobuoy คือเครื่องมือวินิจฉัยที่ช่วยให้เข้าใจสถานะของคลัสเตอร์ Kubernetes ได้ง่ายขึ้น โดยการรันชุดการทดสอบการตั้งค่าแบบเข้าถึงได้และไม่ทำลายระบบ
+  tr: Sonobuoy, bir Kubernetes kümesinin durumunu anlamayı kolaylaştıran, erişilebilir ve yıkıcı olmayan bir şekilde bir dizi yapılandırma testi çalıştıran bir tanılama aracıdır
+  uk: Sonobuoy — діагностичний інструмент, який спрощує розуміння стану кластера Kubernetes, запускаючи набір конфігураційних тестів доступним і неруйнівним способом
+  vi: Sonobuoy là công cụ chẩn đoán giúp dễ dàng hiểu trạng thái của cụm Kubernetes bằng cách chạy các bài kiểm tra cấu hình theo cách dễ tiếp cận và không phá hủy
 x:
   source: https://github.com/vmware-tanzu/sonobuoy
   eget: vmware-tanzu/sonobuoy

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: BlackSheep 是一个异步 Web 框架，用于使用 Python 构建基于事件的 Web 应用程序
   en: BlackSheep is an asynchronous web framework to build event-based web applications with Python.
+  cs: BlackSheep je asynchronní webový framework pro tvorbu událostmi řízených webových aplikací v Python
+  de: BlackSheep ist ein asynchrones Web-Framework zum Erstellen ereignisbasierter Webanwendungen mit Python
+  es: BlackSheep es un framework web asíncrono para crear aplicaciones web basadas en eventos con Python
+  fr: BlackSheep est un framework web asynchrone pour construire des applications web basées sur les événements avec Python
+  id: BlackSheep adalah framework web asinkron untuk membangun aplikasi web berbasis peristiwa dengan Python
+  it: BlackSheep è un framework web asincrono per costruire applicazioni web basate su eventi con Python
+  ja: BlackSheep は Python でイベント駆動型の Web アプリケーションを構築するための非同期 Web フレームワークです
+  ko: BlackSheep는 Python으로 이벤트 기반 웹 애플리케이션을 구축하기 위한 비동기 웹 프레임워크입니다
+  pl: BlackSheep to asynchroniczny framework web do tworzenia aplikacji internetowych opartych na zdarzeniach w Python
+  pt: BlackSheep é um framework web assíncrono para criar aplicativos web baseados em eventos com Python
+  ro: BlackSheep este un framework web asincron pentru construirea aplicațiilor web bazate pe evenimente cu Python
+  ru: BlackSheep — асинхронный веб-фреймворк для создания событийных веб-приложений на Python
+  th: BlackSheep คือเว็บเฟรมเวิร์กแบบอะซิงโครนัสสำหรับสร้างเว็บแอปพลิเคชันแบบอิงเหตุการณ์ด้วย Python
+  tr: BlackSheep, Python ile olay tabanlı web uygulamaları oluşturmak için asenkron bir web framework
+  uk: BlackSheep — асинхронний веб-фреймворк для створення подієвих веб-застосунків на Python
+  vi: BlackSheep là framework web bất đồng bộ để xây dựng ứng dụng web dựa trên sự kiện với Python
 x:
   source: https://github.com/Neoteroi/BlackSheep
   yay: python-blacksheep

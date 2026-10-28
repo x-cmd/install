@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: LinkedIn 开源 MCP 服务器，让 Claude 等兼容 MCP 的 AI 智能体访问档案、公司、职位与消息
   en: Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
+  cs: Open-source MCP server pro LinkedIn. Umožňuje Claude i jakémukoli AI agentovi s podporou MCP přístup k profilům, firmám, pracovním místům a zprávám.
+  de: Open-Source-MCP-Server für LinkedIn. Gib Claude und jedem MCP-kompatiblen KI-Agenten Zugriff auf Profile, Unternehmen, Jobs und Nachrichten.
+  es: Servidor MCP de código abierto para LinkedIn. Da a Claude y a cualquier agente de IA compatible con MCP acceso a perfiles, empresas, empleos y mensajes.
+  fr: Serveur MCP open source pour LinkedIn. Donnez à Claude et à tout agent IA compatible MCP un accès aux profils, entreprises, offres d'emploi et messages.
+  id: Server MCP sumber terbuka untuk LinkedIn. Beri Claude dan agen AI kompatibel MCP apa pun akses ke profil, perusahaan, lowongan pekerjaan, dan pesan.
+  it: Server MCP open source per LinkedIn. Consenti a Claude e a qualsiasi agente IA compatibile con MCP l'accesso a profili, aziende, offerte di lavoro e messaggi.
+  ja: LinkedIn用のオープンソースMCPサーバー。ClaudeなどMCP対応のAIエージェントにプロフィール、会社、求人、メッセージへのアクセスを提供します。
+  ko: LinkedIn용 오픈소스 MCP 서버. Claude 및 모든 MCP 호환 AI 에이전트가 프로필, 기업, 채용 공고, 메시지에 접근하도록 합니다.
+  pl: Open source'owy serwer MCP dla LinkedIn. Daje Claude i każdemu agentowi AI zgodnym z MCP dostęp do profili, firm, ofert pracy i wiadomości.
+  pt: Servidor MCP de código aberto para LinkedIn. Dê a Claude e a qualquer agente de IA compatível com MCP acesso a perfis, empresas, vagas e mensagens.
+  ro: Server MCP open source pentru LinkedIn. Oferă lui Claude și oricărui agent AI compatibil MCP acces la profiluri, companii, locuri de muncă și mesaje.
+  ru: Открытый MCP-сервер для LinkedIn. Даёт Claude и любому совместимому с MCP ИИ-агенту доступ к профилям, компаниям, вакансиям и сообщениям.
+  th: เซิร์ฟเวอร์ MCP โอเพนซอร์สสำหรับ LinkedIn ให้ Claude และเอเจนต์ AI ใด ๆ ที่รองรับ MCP เข้าถึงโปรไฟล์ บริษัท งาน และข้อความ
+  tr: LinkedIn için açık kaynak MCP sunucusu. Claude ve MCP uyumlu herhangi bir AI ajana profillere, şirketlere, iş ilanlarına ve mesajlara erişim sağlar.
+  uk: Відкритий MCP-сервер для LinkedIn. Дає Claude та будь-якому сумісному з MCP ШІ-агенту доступ до профілів, компаній, вакансій і повідомлень.
+  vi: Máy chủ MCP mã nguồn mở cho LinkedIn. Cho phép Claude và mọi tác tử AI tương thích MCP truy cập hồ sơ, công ty, việc làm và tin nhắn.
 x:
   source: https://github.com/stickerdaniel/linkedin-mcp-server
   eget: stickerdaniel/linkedin-mcp-server

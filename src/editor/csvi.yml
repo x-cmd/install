@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端 CSV 编辑器
   en: 'Csvi - A terminal CSV editor'
+  cs: Csvi - terminálový editor CSV
+  de: Csvi - ein CSV-Editor für das Terminal
+  es: Csvi - un editor de CSV para el terminal
+  fr: Csvi - un éditeur CSV pour le terminal
+  id: Csvi - editor CSV terminal
+  it: Csvi - un editor CSV da terminale
+  ja: Csvi - 端末向け CSV エディタ
+  ko: Csvi - 터미널용 CSV 편집기
+  pl: Csvi - terminalowy edytor CSV
+  pt: Csvi - um editor de CSV para o terminal
+  ro: Csvi - un editor CSV pentru terminal
+  ru: Csvi — CSV-редактор для терминала
+  th: Csvi - โปรแกรมแก้ไข CSV สำหรับเทอร์มินัล
+  tr: Csvi - terminal için CSV düzenleyici
+  uk: Csvi — CSV-редактор для термінала
+  vi: Csvi - trình soạn thảo CSV cho terminal
 x:
   source: https://github.com/hymkor/csvi
   eget: hymkor/csvi

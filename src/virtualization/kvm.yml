@@ -3,6 +3,22 @@ homepage: https://github.com/qemu/qemu
 desc:
   en: KVM (for Kernel-based Virtual Machine) is a full virtualization
   cn: KVM (Kernel-based Virtual Machine)是一种完全虚拟化
+  cs: KVM (pro Kernel-based Virtual Machine) je úplná virtualizace
+  de: KVM (für Kernel-based Virtual Machine) ist eine Vollvirtualisierung
+  es: KVM (para Kernel-based Virtual Machine) es una virtualización completa
+  fr: KVM (pour Kernel-based Virtual Machine) est une virtualisation complète
+  id: KVM (untuk Kernel-based Virtual Machine) adalah virtualisasi penuh
+  it: KVM (per Kernel-based Virtual Machine) è una virtualizzazione completa
+  ja: KVM (Kernel-based Virtual Machine) は完全仮想化です
+  ko: KVM(Kernel-based Virtual Machine)은 완전 가상화입니다
+  pl: KVM (Kernel-based Virtual Machine) to pełna wirtualizacja
+  pt: KVM (para Kernel-based Virtual Machine) é uma virtualização completa
+  ro: KVM (pentru Kernel-based Virtual Machine) este o virtualizare completă
+  ru: KVM (Kernel-based Virtual Machine) — это полная виртуализация
+  th: KVM (สำหรับ Kernel-based Virtual Machine) คือการเสมอรณนาครบถ้วน
+  tr: KVM (Kernel-based Virtual Machine için) tam sanallaştırmadır
+  uk: KVM (Kernel-based Virtual Machine) — це повна віртуалізація
+  vi: KVM (dành cho Kernel-based Virtual Machine) là ảo hóa toàn phần
 x:
   source: https://github.com/qemu/qemu
   apt: qemu-kvm

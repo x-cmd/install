@@ -4,6 +4,22 @@ lang: Python
 desc:
   cn: 用于将打包和构建项目所必需的内容与其他代码分开（基于 CookieCutter）
   en: Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of CookieCutter.
+  cs: Umožňuje udržovat veškerý potřebný cruft pro balíčkování a sestavování projektů odděleně od kódu, který záměrně píšete. Postaveno na CookieCutter.
+  de: Ermöglicht die Pflege aller für das Packen und Bauen von Projekten nötigen Bestandteile getrennt vom bewusst geschriebenen Code. Aufgebaut auf CookieCutter.
+  es: Permite mantener todo el cruft necesario para empaquetar y compilar proyectos separado del código que escribes intencionalmente. Construido sobre CookieCutter.
+  fr: Permet de conserver tout le cruft nécessaire à l'empaquetage et à la construction des projets séparé du code que vous écrivez intentionnellement. Construit sur CookieCutter.
+  id: Memungkinkan Anda menyimpan semua cruft yang diperlukan untuk pemaketan dan pembangunan proyek secara terpisah dari kode yang Anda tulis dengan sengaja. Dibangun di atas CookieCutter.
+  it: Permette di mantenere tutto il cruft necessario per il packaging e la build dei progetti separato dal codice che scrivi intenzionalmente. Costruito su CookieCutter.
+  ja: 意図的に書くコードとは別に、パッケージングとプロジェクト構築に必要なすべての cruft を管理できます。CookieCutter を土台に構築されています。
+  ko: 의도적으로 작성한 코드와 분리하여 패키징 및 프로젝트 빌드에 필요한 모든 cruft를 관리할 수 있게 합니다. CookieCutter를 기반으로 구축되었습니다.
+  pl: Pozwala oddzielnie od świadomie piszego kodu utrzymywać cały niezbędny cruft do pakowania i budowania projektów. Zbudowane na CookieCutter.
+  pt: Permite manter todo o cruft necessário para empacotamento e construção de projetos separado do código que você escreve intencionalmente. Construído sobre o CookieCutter.
+  ro: Permite păstra toată cruft-ul necesar pentru împachetarea și construirea proiectelor separat de codul pe care îl scrii intenționat. Construit pe CookieCutter.
+  ru: Позволяет поддерживать все необходимые вспомогательные файлы для упаковки и сборки проектов отдельно от кода, который вы пишете намеренно. Построено на CookieCutter.
+  th: ช่วยให้คุณแยกดูแล cruft ทั้งหมดที่จำเป็นสำหรับการแพ็กและสร้างโครงการออกจากโค้ดที่คุณเขียนอย่างตั้งใจ สร้างบนพื้นฐานของ CookieCutter
+  tr: Paketleme ve proje derleme için gereken tüm cruft'i, bilerek yazdığınız koddan ayrı olarak tutmanıza olanak tanır. CookieCutter üzerine kurulmuştur.
+  uk: Дозволяє підтримувати весь необхідний cruft для пакування та збирання проєктів окремо від коду, який ви свідомо пишете. Побудовано на CookieCutter.
+  vi: Cho phép bạn duy trì toàn bộ cruft cần thiết cho việc đóng gói và xây dựng dự án tách biệt khỏi mã nguồn bạn viết có chủ đích. Được xây dựng trên CookieCutter.
 x:
   source: https://github.com/cruft/cruft
   apt: cruft

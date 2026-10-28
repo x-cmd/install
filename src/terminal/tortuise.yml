@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在终端中查看高斯溅射点云
   en: 'Gaussian splats in your terminal.'
+  cs: Gaussianovy splaty ve vašem terminálu.
+  de: Gaussian Splats in deinem Terminal.
+  es: Gaussian splats en tu terminal.
+  fr: Gaussian splats dans votre terminal.
+  id: Gaussian splats di terminal Anda.
+  it: Gaussian splats nel tuo terminale.
+  ja: ターミナルで Gaussian Splats を。
+  ko: 터미널에서 Gaussian splats를 확인하세요.
+  pl: Gaussian splats w Twoim terminalu.
+  pt: Gaussian splats no seu terminal.
+  ro: Gaussian splats în terminalul tău.
+  ru: Gaussian splats в вашем терминале.
+  th: Gaussian splats ในเทอร์มินัลของคุณ.
+  tr: Terminalinizde Gaussian splats.
+  uk: Gaussian splats у вашому терміналі.
+  vi: Gaussian splats trong terminal của bạn.
 x:
   source: https://github.com/buildoak/tortuise
   eget: buildoak/tortuise

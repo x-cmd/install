@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Node.js 的 TypeScript 执行和 REPL
   en: TypeScript execution and REPL for node.js
+  cs: Spouštění TypeScriptu a REPL pro node.js
+  de: TypeScript-Ausführung und REPL für node.js
+  es: Ejecución de TypeScript y REPL para node.js
+  fr: Exécution de TypeScript et REPL pour node.js
+  id: Eksekusi TypeScript dan REPL untuk node.js
+  it: Esecuzione di TypeScript e REPL per node.js
+  ja: node.js のための TypeScript 実行と REPL
+  ko: node.js를 위한 TypeScript 실행 및 REPL
+  pl: Uruchamianie TypeScript i REPL dla node.js
+  pt: Execução de TypeScript e REPL para node.js
+  ro: Execuție TypeScript și REPL pentru node.js
+  ru: Выполнение TypeScript и REPL для node.js
+  th: การรัน TypeScript และ REPL สำหรับ node.js
+  tr: node.js için TypeScript çalıştırma ve REPL
+  uk: Виконання TypeScript та REPL для node.js
+  vi: Thực thi TypeScript và REPL cho node.js
 x:
   source: https://github.com/TypeStrong/ts-node
   npm: ts-node

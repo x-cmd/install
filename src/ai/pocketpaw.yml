@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 30 秒部署自托管的个人 AI Agent，开源、带桌面安装器、多 Agent 指挥中心和七层安全防护
   en: Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
+  cs: Váš AI agent za 30 sekund. Ne za 30 hodin. Samohostovaná osobní AI s instalačním programem pro desktop, víceagenním Command Center (Deep Work) a 7vrstvým zabezpečením. Anthropic, OpenAI nebo Ollama.
+  de: Ihr KI-Agent in 30 Sekunden. Nicht 30 Stunden. Selbst gehostete persönliche KI mit Desktop-Installer, Multi-Agenten Command Center (Deep Work) und 7-Schicht-Sicherheit. Anthropic, OpenAI oder Ollama.
+  es: Tu agente de IA en 30 segundos. No 30 horas. IA personal autoalojada con instalador de escritorio, Command Center multimodelo (Deep Work) y seguridad de 7 capas. Anthropic, OpenAI u Ollama.
+  fr: Votre agent IA en 30 secondes. Pas 30 heures. IA personnelle auto-hébergée avec installateur de bureau, Command Center multi-agents (Deep Work) et sécurité à 7 couches. Anthropic, OpenAI ou Ollama.
+  id: Agen AI Anda dalam 30 detik. Bukan 30 jam. AI pribadi yang di-hosting sendiri dengan installer desktop, Command Center multi-agen (Deep Work), dan keamanan 7 lapis. Anthropic, OpenAI, atau Ollama.
+  it: Il tuo agente AI in 30 secondi. Non 30 ore. IA personale self-hosted con installer desktop, Command Center multi-agente (Deep Work) e sicurezza a 7 livelli. Anthropic, OpenAI o Ollama.
+  ja: 30 秒であなたの AI エージェントが。30 時間ではありません。セルフホスト型の個人用 AI。デスクトップインストーラー、マルチエージェントの Command Center（Deep Work）、7 層のセキュリティを備えています。Anthropic、OpenAI、Ollama に対応。
+  ko: 30초 만에 준비되는 AI 에이전트. 30시간이 아닙니다. 자체 호스팅 개인 AI로, 데스크톱 설치 관리자, 멀티 에이전트 Command Center(Deep Work), 7단계 보안 기능을 제공합니다. Anthropic, OpenAI, Ollama 지원.
+  pl: Twój agent AI w 30 sekund. Nie 30 godzin. Samodzielnie hostowana osobista AI z instalatorem pulpitu, Command Center dla wielu agentów (Deep Work) i 7-warstwowym bezpieczeństwem. Anthropic, OpenAI lub Ollama.
+  pt: Seu agente de IA em 30 segundos. Não 30 horas. IA pessoal auto-hospedada com instalador de desktop, Command Center multiagente (Deep Work) e segurança de 7 camadas. Anthropic, OpenAI ou Ollama.
+  ro: Agentul tău AI în 30 de secunde. Nu 30 de ore. AI personală auto-găzduită cu instalator desktop, Command Center multi-agent (Deep Work) și securitate pe 7 niveluri. Anthropic, OpenAI sau Ollama.
+  ru: Ваш ИИ-агент за 30 секунд. Не за 30 часов. Личный ИИ с самостоятельным размещением, настольным установщиком, мультиагентным Command Center (Deep Work) и 7-уровневой безопасностью. Anthropic, OpenAI или Ollama.
+  th: เอเจนต์ AI ของคุณใน 30 วินาที ไม่ใช่ 30 ชั่วโมง AI ส่วนตัวแบบ self-hosted พร้อมตัวติดตั้งสำหรับเดสก์ท็อป Command Center หลายเอเจนต์ (Deep Work) และความปลอดภัย 7 ชั้น รองรับ Anthropic, OpenAI หรือ Ollama.
+  tr: 30 saniyede YZ ajanınız. 30 saat değil. Masaüstü kurulum sihirbazına sahip, çoklu ajanlı Command Center (Deep Work) ve 7 katmanlı güvenlik sunan self-hosted kişisel YZ. Anthropic, OpenAI veya Ollama.
+  uk: Ваш ІІ-агент за 30 секунд. Не за 30 годин. Особистий ІІ з самостійним розміщенням, настольним інсталятором, мультиагентним Command Center (Deep Work) та 7-рівневою безпекою. Anthropic, OpenAI або Ollama.
+  vi: Tác nhân AI của bạn trong 30 giây. Không phải 30 giờ. AI cá nhân tự lưu trữ với trình cài đặt desktop, Command Center đa tác nhân (Deep Work) và bảo mật 7 lớp. Anthropic, OpenAI hoặc Ollama.
 rule:
   /pip:
     cmd: pip install pocketpaw

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 集群 API 是一个 Kubernetes 子项目，主要提供声明性 API 和工具来简化多个 Kubernetes 集群的供应、升级和操作
   en: Cluster API is a Kubernetes subproject focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters
+  cs: Cluster API je podprojekt Kubernetes zaměřený na poskytování deklarativních API a nástrojů, které zjednodušují zajišťování, aktualizaci a správu více clusterů Kubernetes
+  de: Cluster API ist ein Kubernetes-Subprojekt, das deklarative APIs und Werkzeuge bereitstellt, um die Bereitstellung, Aktualisierung und den Betrieb mehrerer Kubernetes-Cluster zu vereinfachen
+  es: Cluster API es un subproyecto de Kubernetes centrado en proporcionar API declarativas y herramientas para simplificar el aprovisionamiento, la actualización y la operación de varios clústeres de Kubernetes
+  fr: Cluster API est un sous-projet de Kubernetes qui fournit des API déclaratives et des outils pour simplifier le provisionnement, la mise à niveau et l'exploitation de plusieurs clusters Kubernetes
+  id: Cluster API adalah subproyek Kubernetes yang berfokus pada menyediakan API deklaratif dan alat untuk menyederhanakan penyediaan, peningkatan, dan pengoperasian beberapa cluster Kubernetes
+  it: Cluster API è un sottoprogetto di Kubernetes che fornisce API dichiarativi e strumenti per semplificare il provisioning, l'aggiornamento e la gestione di più cluster Kubernetes
+  ja: Cluster API は Kubernetes のサブプロジェクトで、宣言的 API とツールを提供し、複数の Kubernetes クラスタのプロビジョニング、アップグレード、運用を簡素化します
+  ko: Cluster API는 Kubernetes의 서브프로젝트로, 선언적 API와 도구를 제공하여 여러 Kubernetes 클러스터의 프로비저닝, 업그레이드 및 운영을 단순화합니다
+  pl: Cluster API to podprojekt Kubernetes skupiony na dostarczaniu deklaratywnych API i narzędzi, które upraszczają tworzenie, aktualizację i zarządzanie wieloma klastrami Kubernetes
+  pt: O Cluster API é um subprojeto do Kubernetes focado em fornecer APIs declarativas e ferramentas para simplificar o provisionamento, a atualização e a operação de vários clusters Kubernetes
+  ro: Cluster API este un subproiect Kubernetes care oferă API-uri declarative și instrumente pentru a simplifica furnizarea, actualizarea și operarea mai multor clustere Kubernetes
+  ru: Cluster API — это подпроект Kubernetes, предоставляющий декларативные API и инструменты для упрощения создания, обновления и эксплуатации нескольких кластеров Kubernetes
+  th: Cluster API เป็นซับโปรเจกต์ของ Kubernetes ที่มุ่นเน้นการจัดหมาย API แบบประกาศและเครื่องมือ เพื่อลดความยุ่งยากในการจัดเตรียม อัปเกรด และดูแล Kubernetes คลัสเตอร์หลายชุด
+  tr: Cluster API, birden fazla Kubernetes kümesinin sağlanmasını, yükseltilmesini ve işletilmesini basitleştiren bildirimsel API'ler ve araçlar sunan bir Kubernetes alt projesidir
+  uk: Cluster API — це підпроєкт Kubernetes, який надає декларативні API та інструменти для спрощення створення, оновлення та експлуатації кількох кластерів Kubernetes
+  vi: Cluster API là một dự án con của Kubernetes tập trung cung cấp API khai báo và công cụ để đơn giản hóa việc cấp phát, nâng cấp và vận hành nhiều cụm Kubernetes
 x:
   source: https://github.com/kubernetes-sigs/cluster-api
   yay: clusterctl

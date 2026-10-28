@@ -2,6 +2,22 @@ lang: Go
 desc:
   cn: 终端的天气应用程序
   en: weather app for the terminal
+  cs: Aplikace počasí pro terminál
+  de: Wetter-App für das Terminal
+  es: Aplicación del tiempo para la terminal
+  fr: Application météo pour le terminal
+  id: Aplikasi cuaca untuk terminal
+  it: App meteo per terminale
+  ja: 端末用の天気アプリ
+  ko: 터미널용 날씨 앱
+  pl: Aplikacja pogody dla terminala
+  pt: Aplicativo de clima para o terminal
+  ro: Aplicație meteo pentru terminal
+  ru: Приложение погоды для терминала
+  th: แอปพยากรณ์อากาศสำหรับเทอร์มินัล
+  tr: Terminal için hava durumu uygulaması
+  uk: Застосунок прогнозу погоди для термінала
+  vi: Ứng dụng thời tiết cho terminal
 homepage: https://github.com/schachmat/wego
 license: ISC
 x:

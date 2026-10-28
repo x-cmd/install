@@ -5,6 +5,22 @@ license: MIT
 desc:
   cn: 开源的 Bloomberg 风格终端股票看板：实时行情与 K 线图，旁边是 AI 评分的新闻、SEC Form 4 内部人交易和财报解读。基于 ratatui 的单个 Rust 二进制。
   en: "Open-source, Bloomberg-style stock dashboard for the terminal: live quotes and candlestick charts next to AI-scored news, SEC Form 4 insider filings and earnings reads. One Rust binary built on ratatui."
+  cs: "Open-source panel akcií ve stylu Bloomberg pro terminál: živé kotace a svíčkové grafy vedle novin hodnocených AI, podání SEC Form 4 insiderů a rozboru výsledků. Jeden binární soubor Rust postavený na ratatui."
+  de: "Open-Source-Aktien-Dashboard im Bloomberg-Stil für das Terminal: Live-Kurse und Kerzendiagramme neben KI-bewerteten Nachrichten, SEC-Form-4-Meldungen von Insidern und Ergebnisanalysen. Eine Rust-Binärdatei auf Basis von ratatui."
+  es: "Panel de bolsa de código abierto al estilo Bloomberg para la terminal: cotizaciones en vivo y gráficos de velas junto a noticias puntuadas por IA, declaraciones SEC Form 4 de insiders y análisis de resultados. Un único binario Rust basado en ratatui."
+  fr: "Tableau de bord boursier open source de style Bloomberg pour le terminal : cours en direct et graphiques en chandelier à côté d'actualités notées par IA, de déclarations SEC Form 4 d'initiés et d'analyses de résultats. Un seul binaire Rust basé sur ratatui."
+  id: "Dasbor saham open source bergaya Bloomberg untuk terminal: kuotasi langsung dan grafik candlestick di samping berita berskor AI, pengungkapan SEC Form 4 oleh orang dalam, dan pembacaan laba. Satu biner Rust yang dibangun di atas ratatui."
+  it: "Dashboard azionario open source in stile Bloomberg per il terminale: quotazioni in tempo reale e grafici a candele accanto a notizie valutate dall'AI, dichiarazioni SEC Form 4 di insider e analisi dei risultati. Un unico binario Rust basato su ratatui."
+  ja: ターミナル向けのオープンソース Bloomberg 風株価ダッシュボード：リアルタイム相場とローソク足チャートの隣に、AI スコアリングされたニュース、SEC Form 4 のインサイダー保有情報、決算解説を配置。ratatui ベースの Rust バイナリ 1 つで実現。
+  ko: "터미널용 오픈소스 Bloomberg 스타일 주식 대시보드: 실시간 시세와 캔들 차트 옆에 AI 점수 뉴스가 SEC Form 4 내부자 거래와 실적 해석을 제공. ratatui 기반 단일 Rust 바이너리."
+  pl: "Otwartoźródłowy pulpit giełdowy w stylu Bloomberg dla terminala: notowania na żywo i wykresy świecowe obok newsów ocenianych przez AI, zgłoszeń SEC Form 4 insiderów i analiz wyników. Jeden plik wykonywalny Rust oparty na ratatui."
+  pt: "Painel de ações de código aberto no estilo Bloomberg para o terminal: cotações ao vivo e gráficos de velas ao lado de notícias pontuadas por IA, arquivamentos SEC Form 4 de insiders e leituras de resultados. Um único binário Rust construído sobre ratatui."
+  ro: "Tablou de bord bursier open-source în stil Bloomberg pentru terminal: cotații în timp real și grafice cu lumânări lângă știri evaluate de AI, declarații SEC Form 4 ale insiderilor și comentarii pe rezultate. Un singur binar Rust bazat pe ratatui."
+  ru: "Открытый биржевой дашборд в стиле Bloomberg для терминала: котировки в реальном времени и свечные графики рядом с новостями, оценёнными ИИ, отчётами SEC Form 4 об инсайдерах и разбором результатов. Один бинарник Rust на базе ratatui."
+  th: "แดชบอร์ดหุ้นแบบ Bloomberg สำหรับเทอร์มินัลแบบโอเพนซอร์ส: ราคาเมดีย์แบบเรียลไทม์และกราฟแท่งเทียนคู่กับข่าวที่ให้คะแนนโดย AI, การเปิดเผย Form 4 ของ SEC ของบุคคลภายใน และการวิเคราะห์ผลประกอบการ ตัวไบนารี Rust ชุดเดียวที่สร้างบน ratatui"
+  tr: "Terminal için açık kaynak, Bloomberg tarzı hisse senedi panosu: canlı fiyatlar ve mum grafiklerinin yanında yapay zeka puanlı haberler, SEC Form 4 insider bildirimleri ve kazanç değerlendirmeleri. ratatui üzerine kurulmuş tek bir Rust ikilisi."
+  uk: "Відкритий біржовий дашборд у стилі Bloomberg для термінала: котирування в реальному часі та свічкові графіки поруч із новинами, оціненими ШІ, звітами SEC Form 4 про інсайдерів та розбором результатів. Один бінарник Rust на базі ratatui."
+  vi: "Bảng điều khiển cổ phiếu mã nguồn mở phong cách Bloomberg cho terminal: báo giá trực tiếp và biểu đồ nến cạnh tin tức được AI chấm điểm, hồ sơ SEC Form 4 của người nội bộ và phân tích kết quả kinh doanh. Một tệp nhị phân Rust duy nhất xây trên ratatui."
 
 x:
   source: https://github.com/makeev/alphai-tui

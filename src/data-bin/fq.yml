@@ -3,6 +3,22 @@ homepage: https://github.com/wader/fq
 desc:
   cn: 用于二进制格式的 jq  - 用于处理二进制和文本格式的工具、语言和解码器
   en: jq for binary formats - tool, language and decoders for working with binary and text formats
+  cs: jq pro binární formáty - nástroj, jazyk a dekodéry pro práci s binárními a textovými formáty
+  de: jq für Binärformate - Werkzeug, Sprache und Decoder zum Arbeiten mit Binär- und Textformaten
+  es: jq para formatos binarios - herramienta, lenguaje y decodificadores para trabajar con formatos binarios y de texto
+  fr: jq pour les formats binaires - outil, langage et décodeurs pour travailler avec les formats binaires et textuels
+  id: jq untuk format biner - alat, bahasa, dan dekoder untuk bekerja dengan format biner dan teks
+  it: jq per i formati binari - strumento, linguaggio e decodificatori per lavorare con formati binari e testuali
+  ja: バイナリフォーマット向け jq - バイナリ形式とテキスト形式を扱うためのツール、言語、デコーダー
+  ko: 이진 형식을 위한 jq - 바이너리 및 텍스트 형식을 다루는 도구, 언어 및 디코더
+  pl: jq dla formatów binarnych - narzędzie, język i dekodery do pracy z formatami binarnymi i tekstowymi
+  pt: jq para formatos binários - ferramenta, linguagem e decodificadores para trabalhar com formatos binários e de texto
+  ro: jq pentru formate binare - instrument, limbaj și decodificatoare pentru lucrul cu formate binare și de text
+  ru: jq для бинарных форматов - инструмент, язык и декодеры для работы с бинарными и текстовыми форматами
+  th: jq สำหรับรูปแบบไบนารี - เครื่องมือ ภาษา และตัวถอดรหัสสำหรับการทำงานกับรูปแบบไบนารีและข้อความ
+  tr: İkili biçimler için jq - ikili ve metin biçimleriyle çalışmak için araç, dil ve çözümleyiciler
+  uk: jq для бінарних форматів - інструмент, мова та декодери для роботи з бінарними й текстовими форматами
+  vi: jq cho định dạng nhị phân - công cụ, ngôn ngữ và bộ giải mã để làm việc với định dạng nhị phân và văn bản
 x:
   source: https://github.com/wader/fq
   eget: wader/fq

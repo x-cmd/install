@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Newman 是 Postman 的命令行收集运行程序
   en: Newman is a command-line collection runner for Postman
+  cs: Newman je nástroj pro spouštění kolekcí Postmanu z příkazové řádky
+  de: Newman ist ein Kommandozeilen-Sammlungsläufer für Postman
+  es: Newman es un ejecutor de colecciones de Postman desde la línea de comandos
+  fr: Newman est un exécuteur de collections Postman en ligne de commande
+  id: Newman adalah runner koleksi Postman berbasis baris perintah
+  it: Newman è un runner di raccolte Postman da riga di comando
+  ja: Newman は Postman のコマンドライン コレクションランナーです
+  ko: Newman은 Postman용 명령줄 컬렉션 러너입니다
+  pl: Newman to uruchamianie kolekcji Postman z wiersza poleceń
+  pt: O Newman é um executor de coleções do Postman pela linha de comando
+  ro: Newman este un executor de colecții Postman din linia de comandă
+  ru: Newman — инструмент запуска коллекций Postman из командной строки
+  th: Newman เป็นตัวรันคอลเลกชันของ Postman จากบรรทัดคำสั่ง
+  tr: Newman, Postman için komut satırı koleksiyon çalıştırıcısıdır
+  uk: Newman — інструмент запуску колекцій Postman із командного рядка
+  vi: Newman là trình chạy bộ sưu tập Postman qua dòng lệnh
 x:
   source: https://github.com/postmanlabs/newman
   brew: newman

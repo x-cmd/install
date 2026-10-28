@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Coursier 是 Scala 应用和构件管理器
   en: Coursier is the Scala application and artifact manager
+  cs: Coursier je správce aplikací a artefaktů pro Scala
+  de: Coursier ist der Scala-Anwendungs- und Artefakt-Manager
+  es: Coursier es el gestor de aplicaciones y artefactos de Scala
+  fr: Coursier est le gestionnaire d'applications et d'artefacts pour Scala
+  id: Coursier adalah pengelola aplikasi dan artefak untuk Scala
+  it: Coursier è il gestore di applicazioni e artefatti per Scala
+  ja: Coursier は Scala アプリケーションとアーティファクトのパッケージマネージャーです
+  ko: Coursier는 Scala 애플리케이션 및 아티팩트 관리자입니다
+  pl: Coursier to menedżer aplikacji i artefaktów dla Scali
+  pt: Coursier é o gerenciador de aplicativos e artefatos para Scala
+  ro: Coursier este managerul de aplicații și artefacte pentru Scala
+  ru: Coursier — менеджер приложений и артефактов для Scala
+  th: Coursier คือตัวจัดการแอปพลิเคชันและอาร์ติแฟกต์สำหรับ Scala
+  tr: Coursier, Scala uygulama ve artefakt yöneticisidir
+  uk: Coursier — менеджер застосунків і артефактів для Scala
+  vi: Coursier là trình quản lý ứng dụng và artifact cho Scala
 x:
   source: https://github.com/coursier/coursier
   eget: coursier/coursier

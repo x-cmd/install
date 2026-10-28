@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用 Rust 编写的 TUI 系统监视器。
   en: A TUI system monitor written in Rust
+  cs: TUI systémový monitor napsaný v Rustu
+  de: Ein in Rust geschriebener TUI-Systemmonitor
+  es: Un monitor de sistema TUI escrito en Rust
+  fr: Un moniteur système TUI écrit en Rust
+  id: Monitor sistem TUI yang ditulis dengan Rust
+  it: Un monitor di sistema TUI scritto in Rust
+  ja: Rust で書かれた TUI システムモニター
+  ko: Rust로 작성된 TUI 시스템 모니터
+  pl: Monitor systemu TUI napisany w Rust
+  pt: Um monitor de sistema TUI escrito em Rust
+  ro: Un monitor de sistem TUI scris în Rust
+  ru: TUI-системный монитор, написанный на Rust
+  th: ตัวตรวจสอบระบบแบบ TUI ที่เขียนด้วย Rust
+  tr: Rust ile yazılmış TUI sistem izleyici
+  uk: TUI-монітор системи, написаний на Rust
+  vi: Trình giám sát hệ thống TUI được viết bằng Rust
 x:
   source: https://github.com/cjbassi/ytop
   eget: cjbassi/ytop

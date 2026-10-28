@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 面向 AI agent 的 macOS 系统工具。Swift 原生 Apple framework，JSON/TSV 输出 —— SMC 传感器、流式监控、EventKit 日历/提醒、TTS/通知
   en: macOS system tools for AI agents. Native Apple frameworks with JSON/TSV output — SMC sensors, streaming monitor, EventKit calendar/reminders, TTS/notifications
+  cs: Systémové nástroje macOS pro AI agenty. Nativní Apple frameworky s výstupem JSON/TSV — senzory SMC, monitorování v reálném čase, kalendář/úkoly EventKit, TTS/oznámení
+  de: macOS-Systemwerkzeuge für KI-Agenten. Native Apple Frameworks mit JSON/TSV-Ausgabe — SMC-Sensoren, Streaming-Monitor, EventKit-Kalender/Erinnerungen, TTS/Benachrichtigungen
+  es: "Herramientas de sistema macOS para agentes de IA. Frameworks nativos de Apple con salida JSON/TSV: sensores SMC, monitor en streaming, calendario/recordatorios de EventKit, TTS/notificaciones"
+  fr: Outils système macOS pour les agents IA. Frameworks Apple natifs avec sortie JSON/TSV — capteurs SMC, moniteur en streaming, calendrier/rappels EventKit, TTS/notifications
+  id: Alat sistem macOS untuk agen AI. Framework Apple asli dengan keluaran JSON/TSV — sensor SMC, monitor streaming, kalender/pengingat EventKit, TTS/notifikasi
+  it: Strumenti di sistema macOS per agenti IA. Framework nativi Apple con output JSON/TSV — sensori SMC, monitor streaming, calendario/promemoria EventKit, TTS/notifiche
+  ja: AI エージェント向けの macOS システムツール。ネイティブ Apple フレームワークと JSON/TSV 出力 — SMC センサー、ストリーミング監視、EventKit のカレンダー/リマインダ、TTS/通知
+  ko: AI 에이전트를 위한 macOS 시스템 도구. 네이티브 Apple 프레임워크와 JSON/TSV 출력 — SMC 센서, 스트리밍 모니터, EventKit 캘린더/리마인더, TTS/알림
+  pl: Narzędzia systemowe macOS dla agentów AI. Natywne frameworki Apple z wyjściem JSON/TSV — czujniki SMC, monitor strumieniowy, kalendarz/przypomnienia EventKit, TTS/powiadomienia
+  pt: Ferramentas de sistema do macOS para agentes de IA. Frameworks nativos da Apple com saída JSON/TSV — sensores SMC, monitor de streaming, calendário/lembretes do EventKit, TTS/notificações
+  ro: Instrumente de sistem macOS pentru agenți AI. Framework-uri native Apple cu ieșire JSON/TSV — senzori SMC, monitor streaming, calendar/mementouri EventKit, TTS/notificări
+  ru: Системные инструменты macOS для ИИ-агентов. Нативные фреймворки Apple с выводом JSON/TSV — датчики SMC, потоковый монитор, календарь/напоминания EventKit, TTS/уведомления
+  th: เครื่องมือระบบ macOS สำหรับเอเจนต์ AI เฟรมเวิร์กแบบเนทีฟของ Apple พร้อมเอาต์พุต JSON/TSV — เซ็นเซอร์ SMC, มอนิเตอร์แบบสตรีม, ปฏิทิน/การแจ้งเตือนของ EventKit, TTS/การแจ้งแจ้งเตือน
+  tr: Yapay zeka ajanları için macOS sistem araçları. JSON/TSV çıktılı yerel Apple çerçeveleri — SMC sensörleri, akış monitörü, EventKit takvimi/anımsatıcıları, TTS/bildirimler
+  uk: Системні інструменти macOS для ШІ-агентів. Нативні фреймворки Apple із виводом JSON/TSV — датчики SMC, потоковий монітор, календар/нагадування EventKit, TTS/сповіщення
+  vi: Công cụ hệ thống macOS cho tác nhân AI. Framework gốc Apple với đầu ra JSON/TSV — cảm biến SMC, màn hình theo dòng, lịch/nhắc nhở EventKit, TTS/thông báo
 x:
   source: https://github.com/ljh-sh/macli
   eget: ljh-sh/macli

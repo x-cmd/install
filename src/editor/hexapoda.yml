@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 多彩的模态式十六进制编辑器
   en: 'a colorful modal hex editor'
+  cs: barevný modální hexadecimální editor
+  de: ein farbenfroher modaler Hex-Editor
+  es: un editor hexadecimal modal y colorido
+  fr: un éditeur hexadécimal modal et coloré
+  id: editor heksadesimal modal berwarna-warni
+  it: un editor esadecimale modale e colorato
+  ja: カラフルなモーダル型ヘックスエディタ
+  ko: 알록다운 모달 16진수 편집기
+  pl: kolorowy modalny edytor szesnastkowy
+  pt: um editor hexadecimal modal e colorido
+  ro: un editor hexazecimal modal colorat
+  ru: красивый модальный шестнадцатеричный редактор
+  th: โปรแกรมแก้ไขเลขฐานสิบหกแบบโมดัลที่มีสีสัน
+  tr: renkli, modal bir onaltılık editör
+  uk: барвий модальний шістнадцятковий редактор
+  vi: trình soạn thảo hex mô đun đầy màu sắc
 x:
   source: https://github.com/simonomi/hexapoda
   eget: simonomi/hexapoda

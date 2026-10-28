@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Datree 通过阻止配置错误的资源的部署来保护您的 Kubernetes
   en: Datree secures your Kubernetes by blocking the deployment of misconfigured resources
+  cs: Datree zabezpečuje váš Kubernetes blokováním nasazování špatně nakonfigurovaných zdrojů
+  de: Datree schützt Ihren Kubernetes, indem es die Bereitstellung fehlerhaft konfigurierter Ressourcen blockiert
+  es: Datree protege su Kubernetes bloqueando el despliegue de recursos mal configurados
+  fr: Datree sécurise votre Kubernetes en bloquant le déploiement de ressources mal configurées
+  id: Datree melindungi Kubernetes Anda dengan memblokir penerapan resource yang salah dikonfigurasi
+  it: Datree protegge il tuo Kubernetes bloccando la distribuzione di risorse mal configurate
+  ja: Datree は、不正に設定されたリソースのデプロイをブロックして Kubernetes を保護します
+  ko: Datree는 잘못 구성된 리소스의 배포를 차단하여 Kubernetes를 보호합니다
+  pl: Datree chroni Twój Kubernetes, blokując wdrażanie źle skonfigurowanych zasobów
+  pt: O Datree protege seu Kubernetes bloqueando a implantação de recursos mal configurados
+  ro: Datree vă securizează Kubernetes blocând implementarea resurselor configurate greșit
+  ru: Datree защищает ваш Kubernetes, блокируя развёртывание неверно настроенных ресурсов
+  th: Datree ปกป้อง Kubernetes ของคุณด้วยการบล็อกการติดตั้งทรัพยากรที่กำหนดค่าไม่ถูกต้อง
+  tr: Datree, yanlış yapılandırılmış kaynakların dağıtılmasını engelleyerek Kubernetes'ünüzü güvenceye alır
+  uk: Datree захищає ваш Kubernetes, блокуючи розгортання неправильно налаштованих ресурсів
+  vi: Datree bảo vệ Kubernetes của bạn bằng cách chặn việc triển khai các tài nguyên bị cấu hình sai
 x:
   source: https://github.com/datreeio/datree
   asdf: datree

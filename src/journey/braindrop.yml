@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Braindrop 是 raindrop.io 书签服务的基于终端的客户端应用程序
   en: Braindrop is a terminal-based client application for the raindrop.io bookmarking service.
+  cs: Braindrop je terminálová klientská aplikace pro službu záložek raindrop.io.
+  de: Braindrop ist eine terminalbasierte Client-Anwendung für den Bookmarking-Dienst raindrop.io.
+  es: Braindrop es una aplicación cliente basada en terminal para el servicio de marcadores raindrop.io.
+  fr: Braindrop est une application client basée sur le terminal pour le service de favoris raindrop.io.
+  id: Braindrop adalah aplikasi klien berbasis terminal untuk layanan bookmarking raindrop.io.
+  it: Braindrop è un'applicazione client basata su terminale per il servizio di segnalibri raindrop.io.
+  ja: Braindrop はブックマークサービス raindrop.io のターミナルベースのクライアントアプリケーションです。
+  ko: Braindrop는 raindrop.io 북마킹 서비스를 위한 터미널 기반 클라이언트 애플리케이션입니다.
+  pl: Braindrop to terminalowa aplikacja kliencka dla usługi zakładek raindrop.io.
+  pt: O Braindrop é um aplicativo cliente baseado em terminal para o serviço de marcadores raindrop.io.
+  ro: Braindrop este o aplicație client bazată pe terminal pentru serviciul de marcaje raindrop.io.
+  ru: Braindrop — терминальное клиентское приложение для сервиса закладок raindrop.io.
+  th: Braindrop คือแอปพลิเคชันไคลเอนต์ที่ทำงานบนเทอร์มินัลสำหรับบริการบุ๊กมาร์ก raindrop.io
+  tr: Braindrop, raindrop.io yer imi hizmeti için terminal tabanlı bir istemci uygulamasıdır.
+  uk: Braindrop — термінальний клієнтський застосунок для сервісу закладок raindrop.io.
+  vi: Braindrop là ứng dụng khách chạy trên terminal cho dịch vụ đánh dấu raindrop.io.
 x:
   source: https://github.com/davep/braindrop
   brew: braindrop

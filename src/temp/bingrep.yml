@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 对来自各种操作系统和架构的二进制文件进行 Greps，并为它们着色
   en: Greps through binaries from various OSs and architectures, and colors them
+  cs: Prohledává binární soubory z různých operačních systémů a architektur a barevně je zvýrazňuje
+  de: Durchsucht Binärdateien verschiedener Betriebssysteme und Architekturen und hebt sie farbig hervor
+  es: Busca en binarios de varios sistemas operativos y arquitecturas, y los colorea
+  fr: Effectue des recherches dans des binaires de divers systèmes d'exploitation et architectures, et les colorise
+  id: Mencari di dalam biner dari berbagai sistem operasi dan arsitektur, serta mewarnainya
+  it: Esegue ricerche nei binari di vari sistemi operativi e architetture, colorandoli
+  ja: さまざまな OS やアーキテクチャのバイナリファイルを検索し、配色して表示します
+  ko: 다양한 운영체제와 아키텍처의 바이너리 파일을 검색하고 색상을 입혀 표시합니다
+  pl: Przeszukuje pliki binarne z różnych systemów operacyjnych i architektur, kolorując je
+  pt: Faz grep em binários de vários sistemas operacionais e arquiteturas, colorindo-os
+  ro: Caută în binare de pe diferite sisteme de operare și arhitecturi, colorându-le
+  ru: Ищет по двоичным файлам различных операционных систем и архитектур, выделяя совпадения цветом
+  th: ค้นหาภายในไฟล์ไบนารีจากระบบปฏิบัติการและสถาปัตยกรรมที่หลากหลาย และแสดงผลด้วยสี
+  tr: Çeşitli işletim sistemleri ve mimarilerden ikili dosyalarda arama yapar ve sonuçları renklendirir
+  uk: Виконує пошук у двійкових файлах різних операційних систем і архітектур, підсвічуючи збіги кольором
+  vi: Tìm kiếm trong các tệp nhị phân từ nhiều hệ điều hành và kiến trúc khác nhau, đồng thời tô màu kết quả
 x:
   source: https://github.com/m4b/bingrep
   cargo: bingrep

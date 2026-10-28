@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Redis-Commander 是一个 Node.js Web 应用程序，用于查看、编辑和管理 Redis 数据库
   en: Redis-Commander is a node.js web application used to view, edit, and manage a Redis Database
+  cs: Redis-Commander je webová aplikace Node.js používaná k prohlížení, úpravě a správě databáze Redis
+  de: Redis-Commander ist eine Node.js-Webanwendung zum Ansehen, Bearbeiten und Verwalten einer Redis-Datenbank
+  es: Redis-Commander es una aplicación web de Node.js que se usa para ver, editar y administrar una base de datos Redis
+  fr: Redis-Commander est une application web Node.js utilisée pour consulter, modifier et gérer une base de données Redis
+  id: Redis-Commander adalah aplikasi web Node.js yang digunakan untuk melihat, mengedit, dan mengelola basis data Redis
+  it: Redis-Commander è un'applicazione web Node.js usata per visualizzare, modificare e gestire un database Redis
+  ja: Redis-Commander は Redis データベースを表示、編集、管理するための Node.js Web アプリケーションです
+  ko: Redis-Commander는 Redis 데이터베이스를 조회, 편집, 관리하는 데 사용하는 Node.js 웹 애플리케이션입니다
+  pl: Redis-Commander to aplikacja internetowa Node.js służąca do przeglądania, edycji i zarządzania bazą danych Redis
+  pt: Redis-Commander é um aplicativo web Node.js usado para visualizar, editar e gerenciar um banco de dados Redis
+  ro: Redis-Commander este o aplicație web Node.js folosită pentru a vizualiza, edita și gestiona o bază de date Redis
+  ru: Redis-Commander — веб-приложение на Node.js для просмотра, редактирования и управления базой данных Redis
+  th: Redis-Commander เป็นเว็บแอปพลิเคชัน Node.js ที่ใช้เพื่อดู แก้ไข และจัดการฐานข้อมูล Redis
+  tr: Redis-Commander, bir Redis veritabanını görüntülemek, düzenlemek ve yönetmek için kullanılan bir Node.js web uygulamasıdır
+  uk: Redis-Commander — вебзастосунок на Node.js для перегляду, редагування та керування базою даних Redis
+  vi: Redis-Commander là ứng dụng web Node.js dùng để xem, chỉnh sửa và quản lý cơ sở dữ liệu Redis
 x:
   source: https://github.com/joeferner/redis-commander
   npm: redis-commander

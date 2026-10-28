@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: mise (mise-en-place) 是一种开发环境设置工具，类似于 asdf，能用于安装和管理开发工具/运行时（如 Node、Python 或 terraform）、管理环境变量和项目任务。
   en: Mise (mise-en-place) is a development environment setup tool similar to asdf, used for installing and managing development tools/runtimes (such as Node, Python, or Terraform), managing environment variables, and handling project tasks.
+  cs: Mise (mise-en-place) je nástroj pro nastavení vývojového prostředí podobný asdf, který slouží k instalaci a správě vývojových nástrojů a běhových prostředí (jako Node, Python nebo Terraform), správě proměnných prostředí a zpracování projektových úloh.
+  de: Mise (mise-en-place) ist ein Einrichtungstool für Entwicklungsumgebungen, ähnlich wie asdf, das zum Installieren und Verwalten von Entwicklungstools und Laufzeiten (wie Node, Python oder Terraform), zum Verwalten von Umgebungsvariablen und für die Abwicklung von Projektaufgaben verwendet wird.
+  es: Mise (mise-en-place) es una herramienta de configuración de entornos de desarrollo similar a asdf, que se usa para instalar y gestionar herramientas y runtimes de desarrollo (como Node, Python o Terraform), gestionar variables de entorno y manejar tareas de proyecto.
+  fr: Mise (mise-en-place) est un outil de configuration d'environnement de développement similaire à asdf, utilisé pour installer et gérer des outils et runtimes de développement (tels que Node, Python ou Terraform), gérer les variables d'environnement et traiter les tâches de projet.
+  id: Mise (mise-en-place) adalah alat penyiapan lingkungan pengembangan mirip asdf, yang digunakan untuk memasang dan mengelola alat/runtime pengembangan (seperti Node, Python, atau Terraform), mengelola variabel lingkungan, dan menangani tugas proyek.
+  it: Mise (mise-en-place) è uno strumento di configurazione dell'ambiente di sviluppo simile ad asdf, usato per installare e gestire strumenti e runtime di sviluppo (come Node, Python o Terraform), gestire le variabili d'ambiente e gestire le attività di progetto.
+  ja: Mise (mise-en-place) は asdf に似た開発環境セットアップツールで、開発ツール/ランタイム (Node、Python、Terraform など) のインストールと管理、環境変数の管理、プロジェクトタスクの処理に使われます。
+  ko: "Mise (mise-en-place)는 asdf와 유사한 개발 환경 설정 도구로, 개발 도구/런타임(예: Node, Python, Terraform) 설치 및 관리, 환경 변수 관리, 프로젝트 작업 처리에 사용됩니다."
+  pl: Mise (mise-en-place) to narzędzie do konfiguracji środowiska deweloperskiego podobne do asdf, używane do instalowania i zarządzania narzędziami i środowiskami uruchomieniowymi (takimi jak Node, Python czy Terraform), zarządzania zmiennymi środowiskowymi oraz obsługi zadań projektu.
+  pt: Mise (mise-en-place) é uma ferramenta de configuração de ambiente de desenvolvimento semelhante ao asdf, usada para instalar e gerenciar ferramentas/runtimes de desenvolvimento (como Node, Python ou Terraform), gerenciar variáveis de ambiente e lidar com tarefas de projeto.
+  ro: Mise (mise-en-place) este un instrument de configurare a mediului de dezvoltare similar cu asdf, folosit pentru instalarea și gestionarea instrumentelor și a mediilor de execuție de dezvoltare (precum Node, Python sau Terraform), gestionarea variabilelor de mediu și tratarea sarcinilor de proiect.
+  ru: Mise (mise-en-place) — инструмент настройки среды разработки, похожий на asdf, используемый для установки и управления инструментами и средами выполнения разработки (такими как Node, Python или Terraform), управления переменными окружения и выполнения задач проекта.
+  th: Mise (mise-en-place) คือเครื่องมือตั้งค่าสภาพแวดล้อมการพัฒนาที่คล้ายกับ asdf ใช้สำหรับติดตั้งและจัดการเครื่องมือ/รันไทม์การพัฒนา (เช่น Node, Python หรือ Terraform) จัดการตัวแปรสภาพแวดล้อม และจัดการงานของโปรเจกต์
+  tr: Mise (mise-en-place), asdf'e benzer bir geliştirme ortamı kurma aracıdır; geliştirme araçlarını ve çalışma zamanlarını (Node, Python veya Terraform gibi) kurmak ve yönetmek, ortam değişkenlerini yönetmek ve proje görevlerini ele almak için kullanılır.
+  uk: Mise (mise-en-place) — інструмент налаштування середовища розробки, схожий на asdf, який використовується для встановлення та керування інструментами й середовищами виконання розробки (такими як Node, Python або Terraform), керування змінними оточення та виконання завдань проєкту.
+  vi: Mise (mise-en-place) là công cụ thiết lập môi trường phát triển tương tự asdf, dùng để cài đặt và quản lý các công cụ/môi trường chạy phát triển (như Node, Python hay Terraform), quản lý biến môi trường và xử lý các tác vụ dự án.
 x:
   source: https://github.com/jdx/mise
   eget: jdx/mise

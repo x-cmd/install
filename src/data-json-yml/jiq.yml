@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 使用 jq 表达式的交互式 JSON 查询工具
   en: interactive JSON query tool using jq expressions
+  cs: Interaktivní nástroj pro dotazy na JSON s použitím výrazů jq
+  de: Interaktives JSON-Abfragewerkzeug mit jq-Ausdrücken
+  es: Herramienta interactiva de consulta JSON mediante expresiones jq
+  fr: Outil interactif de requête JSON utilisant des expressions jq
+  id: Alat kueri JSON interaktif menggunakan ekspresi jq
+  it: Strumento interattivo di query JSON che usa espressioni jq
+  ja: jq 式を使った対話的な JSON クエリツール
+  ko: jq 표현식을 사용하는 대화형 JSON 질의 도구
+  pl: Interaktywne narzędzie do zapytywania JSON przy użyciu wyrażeń jq
+  pt: Ferramenta interativa de consulta JSON usando expressões jq
+  ro: Instrument interactiv de interogare JSON folosind expresii jq
+  ru: Интерактивный инструмент запросов к JSON с использованием выражений jq
+  th: เครื่องมือสืบค้น JSON แบบโต้ตอบโดยใช้นิพจน์ jq
+  tr: jq ifadeleri kullanan etkileşimli JSON sorgu aracı
+  uk: Інтерактивний інструмент запитів до JSON із використанням виразів jq
+  vi: Công cụ truy vấn JSON tương tác dùng biểu thức jq
 x:
   source: https://github.com/fiatjaf/jiq
   eget: fiatjaf/jiq

@@ -3,6 +3,22 @@ homepage: https://www.google.com/chrome/
 desc:
   en: Google Chrome is a web browser developed by Google Inc
   cn: Google Chrome 是一款由 Google 公司开发的网页浏览器
+  cs: Google Chrome je webový prohlížeč vyvinutý společností Google Inc
+  de: Google Chrome ist ein Webbrowser, entwickelt von Google Inc
+  es: Google Chrome es un navegador web desarrollado por Google Inc
+  fr: Google Chrome est un navigateur web développé par Google Inc
+  id: Google Chrome adalah peramban web yang dikembangkan oleh Google Inc
+  it: Google Chrome è un browser web sviluppato da Google Inc
+  ja: Google Chrome は Google Inc が開発したウェブブラウザです
+  ko: Google Chrome는 Google Inc에서 개발한 웹 브라우저입니다
+  pl: Google Chrome to przeglądarka internetowa opracowana przez Google Inc
+  pt: O Google Chrome é um navegador web desenvolvido pela Google Inc
+  ro: Google Chrome este un browser web dezvoltat de Google Inc
+  ru: Google Chrome — веб-браузер, разработанный компанией Google Inc
+  th: Google Chrome คือเว็บเบราว์เซอร์ที่พัฒนาโดย Google Inc
+  tr: Google Chrome, Google Inc tarafından geliştirilen bir web tarayıcısıdır
+  uk: Google Chrome — веб-браузер, розроблений компанією Google Inc
+  vi: Google Chrome là trình duyệt web do Google Inc phát triển
 rule:
   (win|wsl2)/scoop:
     cmd: x scoop install googlechrome

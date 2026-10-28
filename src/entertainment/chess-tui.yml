@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 在任意终端下棋:Rust TUI、Stockfish、Lichess
   en: 'Play chess in any terminal. Rust TUI, Stockfish, Lichess.'
+  cs: Hrajte šachy v jakémkoli terminálu. Rust TUI, Stockfish, Lichess.
+  de: Spiele Schach in jedem Terminal. Rust TUI, Stockfish, Lichess.
+  es: Juega al ajedrez en cualquier terminal. Rust TUI, Stockfish, Lichess.
+  fr: Jouez aux échecs dans n'importe quel terminal. Rust TUI, Stockfish, Lichess.
+  id: Main catur di terminal mana pun. Rust TUI, Stockfish, Lichess.
+  it: Gioca a scacchi in qualsiasi terminale. Rust TUI, Stockfish, Lichess.
+  ja: どんなターミナルでもチェスを遊べます。Rust TUI、Stockfish、Lichess。
+  ko: 어떤 터미널에서든 체스를 두세요. Rust TUI, Stockfish, Lichess.
+  pl: Graj w szachy w dowolnym terminalu. Rust TUI, Stockfish, Lichess.
+  pt: Jogue xadrez em qualquer terminal. Rust TUI, Stockfish, Lichess.
+  ro: Joacă șah în orice terminal. Rust TUI, Stockfish, Lichess.
+  ru: Играйте в шахматы в любом терминале. Rust TUI, Stockfish, Lichess.
+  th: เล่นหมากรุกในเทอร์มินัลใดก็ได้ Rust TUI, Stockfish, Lichess.
+  tr: Herhangi bir terminalde satranç oynayın. Rust TUI, Stockfish, Lichess.
+  uk: Грайте в шахи в будь-якому терміналі. Rust TUI, Stockfish, Lichess.
+  vi: Chơi cờ vua trên mọi terminal. Rust TUI, Stockfish, Lichess.
 x:
   source: https://github.com/thomas-mauran/chess-tui
   eget: thomas-mauran/chess-tui

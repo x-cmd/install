@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 支持多供应商、工具调用、流式输出与视觉输入的 AI 驱动 CLI 聊天机器人，基于 C++20
   en: '🤖 AI-powered CLI chatbot with multi-provider support, tool-calling capabilities, streaming output, and vision input. Built in C++20.'
+  cs: 🤖 AI chatovací CLI bot s podporou více dodavatelů, schopností volání nástrojů, streamovaným výstupem a obrazovým vstupem. Postaven v C++20.
+  de: 🤖 KI-gestützter CLI-Chatbot mit Unterstützung mehrerer Anbieter, Tool-Calling-Fähigkeiten, Streaming-Ausgabe und Vision-Eingabe. In C++20 gebaut.
+  es: 🤖 Chatbot de CLI potenciado por IA con soporte multi-proveedor, capacidades de llamada a herramientas, salida en streaming y entrada visual. Construido en C++20.
+  fr: 🤖 Chatbot CLI propulsé par l'IA avec prise en charge de plusieurs fournisseurs, appel d'outils, sortie en streaming et entrée visuelle. Construit en C++20.
+  id: 🤖 Obot CLI bertenaga AI dengan dukungan multi-penyedia, kemampuan pemanggilan alat, output streaming, dan input visual. Dibangun dengan C++20.
+  it: 🤖 Chatbot CLI basato sull'IA con supporto multi-provider, capacità di chiamata degli strumenti, output in streaming e input visivo. Realizzato in C++20.
+  ja: 🤖 複数プロバイダー対応、ツール呼び出し、ストリーミング出力、画像入力に対応したAI搭載CLIチャットボット。C++20で構築。
+  ko: 🤖 다중 제공자 지원, 도구 호출, 스트리밍 출력, 비전 입력을 갖춘 AI 기반 CLI 챗봇. C++20으로 구축되었습니다.
+  pl: 🤖 Czatbot CLI sterowany przez AI, z obsługą wielu dostawców, wywoływaniem narzędzi, wyjściem strumieniowym i wejściem wizualnym. Zbudowany w C++20.
+  pt: 🤖 Chatbot de CLI com IA, com suporte a vários provedores, capacidade de chamar ferramentas, saída em streaming e entrada visual. Construído em C++20.
+  ro: 🤖 Chatbot CLI bazat pe AI, cu suport pentru mai mulți furnizori, apelarea uneltelor, ieșire în streaming și intrare vizuală. Construit în C++20.
+  ru: 🤖 Чат-бот CLI на базе ИИ с поддержкой нескольких провайдеров, вызовом инструментов, потоковым выводом и визуальным вводом. Написан на C++20.
+  th: 🤖 แชทบอต CLI ที่ขับเคลื่อนด้วย AI รองรับผู้ให้บริการหลายราย การเรียกใช้เครื่องมือ เอาต์พุตแบบสตรีม และอินพุตภาพ สร้างด้วย C++20
+  tr: 🤖 Çoklu sağlayıcı desteği, araç çağırma, akış çıktısı ve görüntü girişi olan AI destekli CLI sohbet botu. C++20 ile geliştirildi.
+  uk: 🤖 Чат-бот CLI на основі ШІ з підтримкою кількох провайдерів, викликом інструментів, потоковим виведенням і візуальним введенням. Написано на C++20.
+  vi: 🤖 Chatbot CLI được hỗ trợ bởi AI với khả năng hỗ trợ nhiều nhà cung cấp, gọi công cụ, xuất theo luồng và đầu vào hình ảnh. Xây dựng bằng C++20.
 x:
   source: https://github.com/shediao/ai.cli
   eget: shediao/ai.cli

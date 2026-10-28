@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 通过 TUI 深入查看 Crossplane 追踪信息
   en: '🧰 Dig into Crossplane traces via TUI (a là k9s)'
+  cs: 🧰 Nahlédněte do trasování Crossplane pomocí TUI (ve stylu k9s)
+  de: 🧰 Mit dem TUI in Crossplane-Traces graben (à la k9s)
+  es: 🧰 Profundiza en los trazas de Crossplane mediante TUI (a la k9s)
+  fr: 🧰 Plongez dans les traces Crossplane via le TUI (à la k9s)
+  id: 🧰 Telusuri data Crossplane melalui TUI (seperti k9s)
+  it: 🧰 Approfondisci le tracce di Crossplane tramite TUI (in stile k9s)
+  ja: 🧰 TUI を使って Crossplane のトレースを掘り下げる（k9s 風）
+  ko: 🧰 TUI를 통해 Crossplane 트레이스를 깊이 파고들기 (k9s 스타일)
+  pl: 🧰 Zagłęb się w śledzenia Crossplane za pomocą TUI (w stylu k9s)
+  pt: 🧰 Explore os rastreamentos do Crossplane via TUI (no estilo k9s)
+  ro: 🧰 Analizează urmele Crossplane prin TUI (în stilul k9s)
+  ru: 🧰 Погружение в трассировки Crossplane через TUI (в стиле k9s)
+  th: 🧰 เจาะลึกการติดตามของ Crossplane ผ่าน TUI (ในสไตล์ k9s)
+  tr: 🧰 TUI ile Crossplane izlerine dalın (k9s tarzı)
+  uk: 🧰 Загляньте в трасування Crossplane через TUI (у стилі k9s)
+  vi: 🧰 Đào sâu vào các trace của Crossplane qua TUI (theo phong cách k9s)
 x:
   source: https://github.com/brunoluiz/xpdig
   eget: brunoluiz/xpdig

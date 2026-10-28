@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Run the relevant command immediately after saving the file.
   cn: 在保存文件后立即运行相关命令
+  cs: Spusť příslušný příkaz ihned po uložení souboru.
+  de: Den relevanten Befehl sofort nach dem Speichern der Datei ausführen.
+  es: Ejecuta el comando relevante inmediatamente después de guardar el archivo.
+  fr: Exécute la commande pertinente juste après l'enregistrement du fichier.
+  id: Jalankan perintah terkait segera setelah menyimpan file.
+  it: Esegui il comando pertinente subito dopo aver salvato il file.
+  ja: ファイルを保存した直後に対応するコマンドを実行します。
+  ko: 파일을 저장한 직후 관련 명령을 실행합니다.
+  pl: Uruchom odpowiednie polecenie natychmiast po zapisaniu pliku.
+  pt: Executa o comando relevante imediatamente após salvar o arquivo.
+  ro: Rulează comanda relevantă imediat după salvarea fișierului.
+  ru: Запускать соответствующую команду сразу после сохранения файла.
+  th: เรียกคำสั่งที่เกี่ยวข้องทันทีหลังบันทึกไฟล์
+  tr: Dosyayı kaydettikten hemen sonra ilgili komutu çalıştırır.
+  uk: Запускати відповідну команду одразу після збереження файлу.
+  vi: Chạy lệnh liên quan ngay sau khi lưu tệp.
 x:
   source: https://github.com/wtetsu/gaze
   eget: wtetsu/gaze

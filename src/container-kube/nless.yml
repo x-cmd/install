@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 支持表格数据、分隔符推断与实时事件解析的 TUI 分页器
   en: 'A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.'
+  cs: TUI pager s pokročilou podporou tabulkových dat, odvozováním a záměnou oddělovačů a parsováním událostí v reálném čase
+  de: Ein TUI-Pager mit fortgeschrittener Unterstützung für tabellarische Daten, dem Erraten und Austauschen von Trennzeichen und der Echtzeit-Ereignisverarbeitung
+  es: Un paginador TUI con soporte avanzado para datos tabulares, inferencia e intercambio de delimitadores y análisis de eventos en tiempo real
+  fr: Un pagineur TUI avec une prise en charge avancée des données tabulaires, de l'inférence et de l'échange des délimiteurs, et de l'analyse des événements en temps réel
+  id: Pager TUI dengan dukungan lanjutan untuk data tabular, pendeteksian dan pertukaran delimiter, serta penguraian peristiwa secara real-time
+  it: Un pager TUI con supporto avanzato per dati tabulari, inferenza e scambio di delimitatori e analisi degli eventi in tempo reale
+  ja: 表形式データ、区切り文字の推論と差し替え、リアルタイムイベント解析に対応した高度な機能を備えた TUI ペーパー
+  ko: 표 형식 데이터, 구분자 추론 및 교체, 실시간 이벤트 파싱을 위한 고급 지원을 갖춘 TUI 페이저
+  pl: Pager TUI z zaawansowaną obsługą danych tabelarycznych, wykrywania i zamiany separatorów oraz parsowania zdarzeń w czasie rzeczywistym
+  pt: Um paginador TUI com suporte avançado a dados tabulares, inferência e troca de delimitadores e análise de eventos em tempo real
+  ro: Un pager TUI cu suport avansat pentru date tabulare, inferarea și schimbul de delimitatori și parsarea evenimentelor în timp real
+  ru: TUI-пагинатор с продвинутой поддержкой табличных данных, определением и заменой разделителей и разбором событий в реальном времени
+  th: โปรแกรมเลื่อนหน้าจอแบบ TUI พร้อมการรองรับข้อมูลแบบตารางขั้นสูง การเดาและสลับตัวคั่น และการแยกวิเคราะห์เหตุการณ์แบบเรียลไทม์
+  tr: Sekilli veriler, ayırıcı çıkarımı ve değişimi ile gerçek zamanlı olay ayrıştırma için gelişmiş desteğe sahip bir TUI sayfalayıcı
+  uk: TUI-пагінатор із розширеною підтримкою табличних даних, визначення та заміни роздільників і розбору подій у реальному часі
+  vi: Trình phân trang TUI với hỗ trợ nâng cao cho dữ liệu dạng bảng, suy luận và thay thế dấu phân cách, cùng phân tích sự kiện theo thời gian thực
 x:
   source: https://github.com/mpryor/nothing-less
   eget: mpryor/nothing-less

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序
   en: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud-native, edge, and decentralized applications
+  cs: WasmEdge je lehký, vysoce výkonný a rozšiřitelný runtime WebAssembly pro cloud-native, edge a decentralizované aplikace
+  de: WasmEdge ist eine schlanke, hochleistungsfähige und erweiterbare WebAssembly-Laufzeit für Cloud-Native-, Edge- und dezentrale Anwendungen
+  es: WasmEdge es un runtime de WebAssembly ligero, de alto rendimiento y extensible para aplicaciones nativas de la nube, perimetrales y descentralizadas
+  fr: WasmEdge est un runtime WebAssembly léger, haute performance et extensible pour les applications cloud-native, edge et décentralisées
+  id: WasmEdge adalah runtime WebAssembly yang ringan, berkinerja tinggi, dan dapat diperluas untuk aplikasi cloud-native, edge, dan terdesentralisasi
+  it: WasmEdge è un runtime WebAssembly leggero, ad alte prestazioni ed estensibile per applicazioni cloud-native, edge e decentralizzate
+  ja: WasmEdge は、クラウドネイティブ、エッジ、分散型アプリケーション向けの軽量で高性能かつ拡張可能な WebAssembly ランタイムです
+  ko: WasmEdge는 클라우드 네이티브, 엣지 및 분산형 애플리케이션을 위한 가볍고 고성능이며 확장 가능한 WebAssembly 런타임입니다
+  pl: WasmEdge to lekka, wysoce wydajna i rozszerzalna środowisko uruchomieniowe WebAssembly dla aplikacji chmurowych, brzegowych i zdecentralizowanych
+  pt: WasmEdge é um runtime WebAssembly leve, de alto desempenho e extensível para aplicativos nativos de nuvem, de borda e descentralizados
+  ro: WasmEdge este un runtime WebAssembly ușor, de înaltă performanță și extensibil pentru aplicații cloud-native, edge și descentralizate
+  ru: WasmEdge — это лёгкий, высокопроизводительный и расширяемый рантайм WebAssembly для облачных, периферийных и децентрализованных приложений
+  th: WasmEdge เป็นรันไทม์ WebAssembly ที่มีน้ำหนักเบา ประสิทธิภาพสูง และขยายได้ สำหรับแอปแบบ cloud-native, edge และ decentralized
+  tr: WasmEdge, bulut tabanlı, uç ve merkezi olmayan uygulamalar için hafif, yüksek performanslı ve genişletilebilir bir WebAssembly çalışma zamanıdır
+  uk: WasmEdge — це легкий, високопродуктивний і розширюваний рантайм WebAssembly для хмарних, периферійних і децентралізованих застосунків
+  vi: WasmEdge là runtime WebAssembly nhẹ, hiệu năng cao và có thể mở rộng cho các ứng dụng cloud-native, edge và phi tập trung
 x:
   source: https://github.com/WasmEdge/WasmEdge
   eget: WasmEdge/WasmEdge

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: WABT（我们发音为“wabbit”）是一套用于 WebAssembly 的工具
   en: WABT (we pronounce it "wabbit") is a suite of tools for WebAssembly
+  cs: WABT (vyslovujeme to „wabbit“) je sada nástrojů pro WebAssembly
+  de: WABT (wir sprechen es „wabbit“ aus) ist eine Sammlung von Werkzeugen für WebAssembly
+  es: WABT (lo pronunciamos «wabbit») es un conjunto de herramientas para WebAssembly
+  fr: WABT (nous le prononçons « wabbit ») est une suite d'outils pour WebAssembly
+  id: WABT (kami ucapkannya "wabbit") adalah rangkaian alat untuk WebAssembly
+  it: WABT (lo pronunciamo "wabbit") è una suite di strumenti per WebAssembly
+  ja: WABT（読み方は「wabbit」）は WebAssembly のためのツール群です
+  ko: WABT(우리는 "wabbit"로 발음합니다)는 WebAssembly용 도구 모음입니다
+  pl: WABT (czytamy to „wabbit”) to zestaw narzędzi dla WebAssembly
+  pt: WABT (pronunciamos "wabbit") é um conjunto de ferramentas para WebAssembly
+  ro: WABT (îl pronunțăm „wabbit”) este o suită de unelte pentru WebAssembly
+  ru: WABT (мы произносим это как «wabbit») — это набор инструментов для WebAssembly
+  th: WABT (เราออกเสียงว่า "wabbit") คือชุดเครื่องมือสำหรับ WebAssembly
+  tr: WABT (bunu "wabbit" olarak okuyoruz) WebAssembly için bir araç paketidir
+  uk: WABT (ми читаємо це як «wabbit») — це набір інструментів для WebAssembly
+  vi: WABT (chúng tôi đọc là "wabbit") là một bộ công cụ cho WebAssembly
 x:
   source: https://github.com/WebAssembly/wabt
   eget: WebAssembly/wabt

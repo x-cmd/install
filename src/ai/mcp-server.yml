@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用于对接 Financial Datasets 股市 API 的 MCP 服务器
   en: An MCP server for interacting with the Financial Datasets stock market API.
+  cs: MCP server pro interakci s API akciového trhu Financial Datasets.
+  de: Ein MCP-Server für die Interaktion mit der Financial-Datasets-Aktienmarkt-API.
+  es: Un servidor MCP para interactuar con la API de mercado de acciones de Financial Datasets.
+  fr: Un serveur MCP pour interagir avec l'API de marché boursier de Financial Datasets.
+  id: Server MCP untuk berinteraksi dengan API pasar saham Financial Datasets.
+  it: Un server MCP per interagire con l'API del mercato azionario di Financial Datasets.
+  ja: Financial Datasets の株式市場 API と対話するための MCP サーバー。
+  ko: Financial Datasets 주식 시장 API와 상호작용하기 위한 MCP 서버입니다.
+  pl: Serwer MCP do interakcji z API rynku giełdowego Financial Datasets.
+  pt: Um servidor MCP para interagir com a API do mercado de ações da Financial Datasets.
+  ro: Un server MCP pentru interacțiunea cu API-ul pieței de valori Financial Datasets.
+  ru: MCP-сервер для взаимодействия с API фондового рынка Financial Datasets.
+  th: เซิร์ฟเวอร์ MCP สำหรับโต้ตอบกับ API ตลาดหุ้นของ Financial Datasets
+  tr: Financial Datasets hisse senedi piyasası API'siyle etkileşim kurmak için bir MCP sunucusu.
+  uk: MCP-сервер для взаємодії з API фондового ринку Financial Datasets.
+  vi: Máy chủ MCP để tương tác với API thị trường chứng khoán của Financial Datasets.
 x:
   source: https://github.com/financial-datasets/mcp-server
   eget: financial-datasets/mcp-server

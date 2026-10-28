@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Funky 将 shell 函数提升到了一个新的水平，使它们更易于定义、更灵活且更具交互性
   en: Funky takes shell functions to the next level, making them easier to define, more flexible, and more interactive
+  cs: Funky posouvá shellové funkce na další úroveň, čímž je snazší je definovat, flexibilnější a interaktivnější
+  de: Funky hebt Shell-Funktionen auf ein neues Niveau und macht sie leichter definierbar, flexibler und interaktiver
+  es: Funky lleva las funciones de shell al siguiente nivel, haciéndolas más fáciles de definir, más flexibles e interactivas
+  fr: Funky pousse les fonctions shell au niveau supérieur, les rendant plus faciles à définir, plus flexibles et plus interactives
+  id: Funky membawa fungsi shell ke tingkat berikutnya, membuatnya lebih mudah didefinisikan, lebih fleksibel, dan lebih interaktif
+  it: Funky porta le funzioni shell al livello successivo, rendendole più facili da definire, più flessibili e più interattive
+  ja: Funky はシェル関数を次のレベルへ引き上げ、より定義しやすく、より柔軟で、より対話的にします
+  ko: Funky는 셸 함수를 한 단계 더 발전시켜 더 쉽게 정의하고, 더 유연하고, 더 대화형으로 만듭니다
+  pl: Funky podnosi funkcje powłoki na wyższy poziom, ułatwiając ich definiowanie, czyniąc je bardziej elastycznymi i interaktywnymi
+  pt: O Funky leva as funções de shell a um novo patamar, tornando-as mais fáceis de definir, mais flexíveis e mais interativas
+  ro: Funky duce funcțiile shell la un nivel superior, făcându-le mai ușor de definit, mai flexibile și mai interactive
+  ru: Funky выводит функции shell на новый уровень, делая их проще для определения, более гибкими и интерактивными
+  th: Funky ยกระดับฟังก์ชันของเชลล์ให้ดียิ่งขึ้น ทำให้กำหนดได้ง่าย ยืดหยุ่นกว่า และโต้ตอบได้มากขึ้น
+  tr: Funky, kabuk işlevlerini bir sonraki seviyeye taşıyarak onları tanımlamayı kolaylaştırır, daha esnek ve daha etkileşimli hale getirir
+  uk: Funky піднімає функції shell на новий рівень, роблячи їх легшими для визначення, гнучкішими та інтерактивнішими
+  vi: Funky đưa các hàm shell lên tầm mới, giúp định nghĩa dễ dàng, linh hoạt và tương tác hơn
 x:
   source: https://github.com/bbugyi200/funky
 rule:

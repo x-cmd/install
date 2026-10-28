@@ -3,6 +3,22 @@ homepage: https://github.com/ruby/ruby
 desc:
   cn: Ruby 是一种解释型的面向对象编程语言，常用于 Web 开发。
   en: Ruby is an interpreted object-oriented programming language often used for web development.
+  cs: Ruby je interpretovaný objektově orientovaný programovací jazyk, často používaný pro vývoj webových aplikací.
+  de: Ruby ist eine interpretierte objektorientierte Programmiersprache, die häufig für die Webentwicklung verwendet wird.
+  es: Ruby es un lenguaje de programación interpretado y orientado a objetos, muy usado para el desarrollo web.
+  fr: Ruby est un langage de programmation interprété et orienté objet, souvent utilisé pour le développement web.
+  id: Ruby adalah bahasa pemrograman berorientasi objek yang ditafsirkan, sering digunakan untuk pengembangan web.
+  it: Ruby è un linguaggio di programmazione interpretato e orientato agli oggetti, spesso usato per lo sviluppo web.
+  ja: Ruby は、解釈型のオブジェクト指向プログラミング言語で、Web 開発に広く使われています。
+  ko: Ruby는 웹 개발에 자주 쓰이는 해석형 객체 지향 프로그래밍 언어입니다.
+  pl: Ruby to interpretowany, obiektowy język programowania, często używany do tworzenia aplikacji webowych.
+  pt: Ruby é uma linguagem de programação interpretada e orientada a objetos, frequentemente usada para desenvolvimento web.
+  ro: Ruby este un limbaj de programare interpretat și orientat pe obiecte, folosit adesea pentru dezvoltarea web.
+  ru: Ruby — интерпретируемый объектно-ориентированный язык программирования, широко используемый для веб-разработки.
+  th: Ruby เป็นภาษาโปรแกรมแบบตีความที่มีแนวคิดเชิงวัตถุ และมักใช้สำหรับการพัฒนาเว็บ
+  tr: Ruby, web geliştirme için sıklıkla kullanılan yorumlanan bir nesne yönelimli programlama dilidir.
+  uk: Ruby — інтерпретована об'єктно-орієнтована мова програмування, яка часто використовується для веброзробки.
+  vi: Ruby là một ngôn ngữ lập trình hướng đối tượng được diễn giải, thường dùng cho phát triển web.
 x:
   source: https://github.com/ruby/ruby
   apt: ruby-full

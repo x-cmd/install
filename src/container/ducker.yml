@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A terminal app for managing docker containers, inspired by K9s
   cn: 受 K9s 启发的用于管理 docker 容器的终端应用程序
+  cs: Terminálová aplikace pro správu kontejnerů docker, inspirovaná K9s
+  de: Eine Terminal-App zur Verwaltung von Docker-Containern, inspiriert von K9s
+  es: Una aplicación de terminal para gestionar contenedores docker, inspirada en K9s
+  fr: Une application terminal pour gérer les conteneurs docker, inspirée de K9s
+  id: Aplikasi terminal untuk mengelola container docker, terinspirasi dari K9s
+  it: Un'app terminale per gestire i container docker, ispirata a K9s
+  ja: K9s から着想を得た docker コンテナ管理用ターミナルアプリ
+  ko: K9s에서 영감을 받은 docker 컨테이너 관리용 터미널 앱
+  pl: Aplikacja terminalowa do zarządzania kontenerami docker, inspirowana K9s
+  pt: Um aplicativo de terminal para gerenciar contêineres docker, inspirado no K9s
+  ro: O aplicație terminală pentru gestionarea containerelor docker, inspirată de K9s
+  ru: Терминальное приложение для управления docker-контейнерами, вдохновлённое K9s
+  th: แอปเทอร์มินัลสำหรับจัดการคอนเทนเนอร์ docker ได้แรงบันดาลใจจาก K9s
+  tr: K9s'tan esinlenerek geliştirilmiş docker konteynerlerini yönetmek için bir terminal uygulaması
+  uk: Термінальний застосунок для керування docker-контейнерами, натхненний K9s
+  vi: Ứng dụng terminal để quản lý container docker, lấy cảm hứng từ K9s
 x:
   source: https://github.com/robertpsoane/ducker
   brew: ducker

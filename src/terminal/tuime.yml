@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 使用 Rust 编写的简单终端时钟。
   en: A simple clock for your terminal made using Rust.
+  cs: Jednoduché hodiny pro váš terminál napsané v Rust.
+  de: Eine einfache Uhr für dein Terminal, geschrieben in Rust.
+  es: Un reloj sencillo para tu terminal hecho con Rust.
+  fr: Une horloge simple pour votre terminal réalisée en Rust.
+  id: Jam sederhana untuk terminal Anda yang dibuat dengan Rust.
+  it: Un semplice orologio per il tuo terminale realizzato con Rust.
+  ja: Rust で書かれたシンプルなターミナル用時計。
+  ko: Rust로 만든 간단한 터미널 시계.
+  pl: Prosty zegar dla twojego terminala napisany w Rust.
+  pt: Um relógio simples para o seu terminal feito com Rust.
+  ro: Un ceas simplu pentru terminalul tău, scris în Rust.
+  ru: Простые часы для вашего терминала, написанные на Rust.
+  th: นาฬิกาอย่างง่ายสำหรับเทอร์มินัลของคุณ เขียนด้วย Rust.
+  tr: Rust ile yapılmış terminaliniz için basit bir saat.
+  uk: Прості годинник для вашого термінала, написаний на Rust.
+  vi: Một chiếc đồng hồ đơn giản cho terminal của bạn được viết bằng Rust.
 x:
   source: https://github.com/nthnd/tuime
   eget: nthnd/tuime

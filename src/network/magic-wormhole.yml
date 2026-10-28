@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Wormhole 使得可以将任意大小的文件和目录（或短文本片段）从一台计算机传输到另一台
   en: wormhole makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another
+  cs: wormhole umožňuje přenášet soubory a adresáře libovolné velikosti (nebo krátké úseky textu) z jednoho počítače na druhý
+  de: wormhole ermöglicht es, Dateien und Verzeichnisse beliebiger Größe (oder kurze Textstücke) von einem Rechner auf einen anderen zu übertragen
+  es: wormhole permite transferir archivos y directorios de cualquier tamaño (o fragmentos cortos de texto) de un ordenador a otro
+  fr: wormhole permet de transférer des fichiers et des répertoires de taille quelconque (ou de courts extraits de texte) d'un ordinateur à un autre
+  id: wormhole memungkinkan Anda memindahkan file dan direktori berukuran apa pun (atau potongan teks pendek) dari satu komputer ke komputer lain
+  it: wormhole permette di trasferire file e directory di qualsiasi dimensione (o brevi frammenti di testo) da un computer a un altro
+  ja: wormhole を使うと、任意の大きさのファイルやディレクトリ (または短いテキスト片) を別のコンピューターへ転送できます
+  ko: wormhole을 사용하면 임의 크기의 파일과 디렉터리(또는 짧은 텍스트 조각)를 한 컴퓨터에서 다른 컴퓨터로 옮길 수 있습니다
+  pl: wormhole umożliwia przenoszenie plików i katalogów o dowolnym rozmiarze (lub krótkich fragmentów tekstu) z jednego komputera na drugi
+  pt: wormhole permite transferir arquivos e diretórios de qualquer tamanho (ou trechos curtos de texto) de um computador para outro
+  ro: wormhole permite transferul de fișiere și directoare de orice dimensiune (sau fragmente scurte de text) de la un computer la altul
+  ru: wormhole позволяет передавать файлы и каталоги любого размера (или короткие фрагменты текста) с одного компьютера на другой
+  th: wormhole ช่วยให้ส่งไฟล์และไดเรกทอรีขนาดใดก็ได้ (หรือข้อความสั้น ๆ) จากคอมพิวเตอร์เครื่องหนึ่งไปยังอีกเครื่องหนึ่ง
+  tr: wormhole, keyfi her boyuttaki dosyaların (veya kısa metin parçalarının) bir bilgisayardan diğerine aktarılmasını sağlar.
+  uk: wormhole дає змогу передавати файли та каталоги будь-якого розміру (або короткі фрагменти тексту) з одного комп'ютера на інший
+  vi: wormhole cho phép chuyển các tệp và thư mục có kích thước bất kỳ (hoặc các đoạn văn bản ngắn) từ máy tính này sang máy tính khác
 x:
   source: https://github.com/magic-wormhole/magic-wormhole
   apt: magic-wormhole

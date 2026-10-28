@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: NVIDIA 出品的安全扫描器，安装 AI agent skill 前检测漏洞、恶意代码与安全风险。
   en: NVIDIA's security scanner that detects vulnerabilities, malicious code, and security risks in AI agent skills before installation.
+  cs: Bezpečnostní skener od NVIDIA, který před instalací AI agent skillů detekuje zranitelnosti, škodlivý kód a bezpečnostní rizika.
+  de: NVIDIAs Sicherheitsscanner, der Schwachstellen, Schadcode und Sicherheitsrisiken in KI-Agent-Skills vor der Installation erkennt.
+  es: El escáner de seguridad de NVIDIA que detecta vulnerabilidades, código malicioso y riesgos de seguridad en habilidades de agentes de IA antes de la instalación.
+  fr: Le scanner de sécurité de NVIDIA qui détecte les vulnérabilités, le code malveillant et les risques de sécurité dans les compétences d'agents IA avant l'installation.
+  id: Scanner keamanan NVIDIA yang mendeteksi kerentanan, kode berbahaya, dan risiko keamanan pada skill agen AI sebelum diinstalasi.
+  it: Lo scanner di sicurezza di NVIDIA che rileva vulnerabilità, codice malevolo e rischi di sicurezza nelle skill degli agenti AI prima dell'installazione.
+  ja: NVIDIA のセキュリティスキャナで、AI agent スキルのインストール前に脆弱性、悪意あるコード、セキュリティリスクを検出します。
+  ko: AI 에이전트 스킬을 설치하기 전에 취약점, 악성 코드, 보안 위험을 탐지하는 NVIDIA 보안 스캐너입니다.
+  pl: Skaner bezpieczeństwa NVIDIA, który wykrywa luki, złośliwy kod i zagrożenia bezpieczeństwa w umiejętnościach agentów AI przed instalacją.
+  pt: O scanner de segurança da NVIDIA que detecta vulnerabilidades, código malicioso e riscos de segurança em skills de agentes de IA antes da instalação.
+  ro: Scannerul de securitate NVIDIA care detectează vulnerabilități, cod rău intenționat și riscuri de securitate în skill-urile de agenți AI înainte de instalare.
+  ru: Сканер безопасности NVIDIA, который обнаруживает уязвимости, вредоносный код и риски безопасности в навыках ИИ-агентов до установки.
+  th: สแกนเนอร์ความปลอดภัยของ NVIDIA ที่ตรวจจับช่องโหว่ โค้ดอันตราย และความเสี่ยงด้านความปลอดภัยใน skill ของ AI agent ก่อนการติดตั้ง
+  tr: NVIDIA'nın güvenlik tarayıcısı; AI ajan skill'lerindeki güvenlik açıklarını, kötü amaçlı kodu ve güvenlik risklerini kurulumdan önce tespit eder.
+  uk: Сканер безпеки NVIDIA, який виявляє вразливість, шкідливий код і ризики безпеки в навичках ІІ-агентів до встановлення.
+  vi: Trình quét bảo mật của NVIDIA phát hiện lỗ hổng, mã độc và rủi ro bảo mật trong skill của agent AI trước khi cài đặt.
 x:
   source: https://github.com/nvidia/skillspector
   pip: git+https://github.com/NVIDIA/skillspector.git

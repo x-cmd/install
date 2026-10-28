@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Konsole 是 KDE 桌面的默认终端模拟器，带分割、标签、配置文件等丰富功能。
   en: Konsole is the default terminal emulator of the KDE desktop, with splits, tabs, profiles, and rich features.
+  cs: Konsole je výchozí emulátor terminálu desktopového prostředí KDE, s rozděleními, kartami, profily a bohatými funkcemi.
+  de: Konsole ist der Standard-Terminalemulator der KDE-Desktop-Umgebung, mit Spalten, Tabs, Profilen und vielen Funktionen.
+  es: Konsole es el emulador de terminal predeterminado del escritorio KDE, con divisiones, pestañas, perfiles y funciones completas.
+  fr: Konsole est l'émulateur de terminal par défaut de l'environnement de bureau KDE, avec splits, onglets, profils et riches fonctionnalités.
+  id: Konsole adalah emulator terminal bawaan desktop KDE, dengan split, tab, profil, dan fitur lengkap.
+  it: Konsole è l'emulatore di terminale predefinito dell'ambiente desktop KDE, con split, tab, profili e funzioni complete.
+  ja: Konsole は KDE デスクトップの標準ターミナルエミュレータで、分割、タブ、プロファイルなど豊富な機能を備えています。
+  ko: Konsole은 KDE 데스크톱의 기본 터미널 에뮬레이터로, 분할, 탭, 프로필 등 풍부한 기능을 제공합니다.
+  pl: Konsole to domyślny emulator terminala środowiska pulpitu KDE, z podziałami, zakładkami, profilami i bogatymi funkcjami.
+  pt: O Konsole é o emulador de terminal padrão do ambiente de desktop KDE, com divisões, abas, perfis e recursos ricos.
+  ro: Konsole este emulatorul de terminal implicit al mediului desktop KDE, cu împărțiri, file, profiluri și funcții bogate.
+  ru: Konsole — стандартный эмулятор терминала среды рабочего стола KDE, с разделением панелей, вкладками, профилями и богатыми возможностями.
+  th: Konsole คือโปรแกรมจำลองเทอร์มินัลมาตรฐานของเดสก์ท็อป KDE พร้อมการแยกหน้าต่าง แท็บ โปรไฟล์ และความสามารถหลากหลาย
+  tr: Konsole, bölünmeler, sekmeler, profiller ve zengin özelliklerle KDE masaüstünün varsayılan terminal emülatörüdür.
+  uk: Konsole — стандартний емулятор термінала робочого столу KDE, з розділенням панелей, вкладками, профілями та багатьма можливостями.
+  vi: Konsole là trình giả lập terminal mặc định của môi trường desktop KDE, với tính năng chia khung, tab, hồ sơ và nhiều tuỳ chọn.
 x:
   source: https://invent.kde.org/utilities/konsole
   apt: konsole

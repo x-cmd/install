@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: preexec and precmd functions for Bash just like Zsh.
   cn: Bash 的 preexec 和 precmd 函数就像 Zsh 一样。
+  cs: Funkce preexec a precmd pro Bash stejně jako v Zsh
+  de: preexec- und precmd-Funktionen für Bash, genau wie in Zsh
+  es: Funciones preexec y precmd para Bash igual que en Zsh
+  fr: Fonctions preexec et precmd pour Bash, comme dans Zsh
+  id: Fungsi preexec dan precmd untuk Bash seperti pada Zsh
+  it: Funzioni preexec e precmd per Bash proprio come in Zsh
+  ja: Zsh と同じように Bash の preexec と precmd 関数を提供します
+  ko: Zsh와 마찬가지로 Bash의 preexec 및 precmd 함수
+  pl: Funkcje preexec i precmd dla Bash, podobnie jak w Zsh
+  pt: Funções preexec e precmd para o Bash, assim como no Zsh
+  ro: Funcții preexec și precmd pentru Bash, exact ca în Zsh
+  ru: Функции preexec и precmd для Bash, как в Zsh
+  th: ฟังก์ชัน preexec และ precmd สำหรับ Bash เหมือนกับใน Zsh
+  tr: Zsh'de olduğu gibi Bash için preexec ve precmd fonksiyonları
+  uk: Функції preexec та precmd для Bash, як у Zsh
+  vi: Các hàm preexec và precmd cho Bash giống như trong Zsh
 x:
   source: https://github.com/rcaloras/bash-preexec
 rule:

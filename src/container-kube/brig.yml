@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Brigade 是一个建立在 Kubernetes 之上的功能齐全、事件驱动的脚本平台
   en: Brigade is a full-featured, event-driven scripting platform built on top of Kubernetes
+  cs: Brigade je plnohodnotná, událostmi řízená skriptovací platforma postavená na Kubernetes
+  de: Brigade ist eine voll ausgestattete, ereignisgesteuerte Skripting-Plattform auf Basis von Kubernetes
+  es: Brigade es una plataforma de scripts completa y orientada a eventos construida sobre Kubernetes
+  fr: Brigade est une plateforme de scripting complète et pilotée par les événements, construite au-dessus de Kubernetes
+  id: Brigade adalah platform skrip berbasis event yang lengkap, dibangun di atas Kubernetes
+  it: Brigade è una piattaforma di scripting completa e basata su eventi, costruita su Kubernetes
+  ja: Brigade は、Kubernetes の上に構築された高性能なイベント駆動型スクリプトプラットフォームです。
+  ko: Brigade는 Kubernetes 위에 구축된 완전 featured 이벤트 기반 스크립팅 플랫폼입니다
+  pl: Brigade to pełnofunkcjonalna, sterowana zdarzeniami platforma skryptowa zbudowana na Kubernetes
+  pt: Brigade é uma plataforma de script completa, orientada a eventos, construída sobre o Kubernetes
+  ro: Brigade este o platformă de scripting completă, bazată pe evenimente, construită deasupra Kubernetes
+  ru: Brigade — это полнофункциональная событийно-ориентированная платформа скриптинга, построенная поверх Kubernetes
+  th: Brigade คือแพลตฟอร์มสคริปต์แบบเต็มรูปแบบและขับเคลื่อนด้วยเหตุการณ์ ที่สร้างบน Kubernetes
+  tr: Brigade, Kubernetes üzerine kurulmuş tam özellikli, olay güdümlü bir betik platformudur
+  uk: Brigade — це повнофункціональна подієва платформа скриптингу, побудована поверх Kubernetes
+  vi: Brigade là nền tảng script đầy đủ tính năng, hướng sự kiện, xây dựng trên Kubernetes
 x:
   source: https://github.com/brigadecore/brigade
   asdf: brig

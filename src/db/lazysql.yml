@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Go 编写的跨平台 TUI 数据库管理工具
   en: A cross-platform TUI database management tool written in Go
+  cs: Nástroj pro správu databází TUI napsaný v Go, dostupný na různých platformách
+  de: Ein plattformübergreifendes TUI-Datenbankverwaltungstool, geschrieben in Go
+  es: Una herramienta TUI multiplataforma de gestión de bases de datos escrita en Go
+  fr: Un outil de gestion de bases de données TUI multiplateforme écrit en Go
+  id: Alat manajemen database TUI lintas platform yang ditulis dengan Go
+  it: Uno strumento di gestione dei database TUI multipiattaforma scritto in Go
+  ja: Go で書かれたクロスプラットフォームの TUI データベース管理ツール
+  ko: Go로 작성된 크로스 플랫폼 TUI 데이터베이스 관리 도구
+  pl: Narzędzie do zarządzania bazami danych w TUI, napisane w Go, działające na różnych platformach
+  pt: Uma ferramenta TUI multiplataforma de gerenciamento de banco de dados escrita em Go
+  ro: Un instrument TUI de gestionare a bazelor de date, scris în Go, pentru mai multe platforme
+  ru: Кроссплатформенный TUI-инструмент для управления базами данных, написанный на Go
+  th: เครื่องมือจัดการฐานข้อมูลแบบ TUI ข้ามแพลตฟอร์มที่เขียนด้วย Go
+  tr: Go ile yazılmış, platformlar arası TUI veritabanı yönetim aracı
+  uk: Кроссплатформний TUI-інструмент для керування базами даних, написаний на Go
+  vi: Công cụ quản lý cơ sở dữ liệu TUI đa nền tảng được viết bằng Go
 x:
   source: https://github.com/jorgerojas26/lazysql
   eget: jorgerojas26/lazysql

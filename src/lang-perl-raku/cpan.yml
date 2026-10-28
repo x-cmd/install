@@ -3,6 +3,22 @@ homepage: https://metacpan.org/
 desc:
   cn: 免费、开放的 API，可满足您想了解的有关 CPAN 的所有信息
   en: A free, open API for everything you want to know about CPAN
+  cs: Bezplatné, otevřené API pro vše, co chcete vědět o CPAN
+  de: Eine kostenlose, offene API für alles, was Sie über CPAN wissen wollen
+  es: Una API gratuita y abierta para todo lo que quieras saber sobre CPAN
+  fr: Une API gratuite et ouverte pour tout ce que vous voulez savoir sur CPAN
+  id: API gratis dan terbuka untuk semua yang ingin Anda ketahui tentang CPAN
+  it: Un'API gratuita e aperta per tutto ciò che vuoi sapere su CPAN
+  ja: CPAN について知りたいすべての情報を得るための無料でオープンな API
+  ko: CPAN에 대해 알고 싶은 모든 것을 위한 무료 공개 API
+  pl: Darmowe, otwarte API do wszystkiego, co chcesz wiedzieć o CPAN
+  pt: Uma API gratuita e aberta para tudo o que você quiser saber sobre o CPAN
+  ro: Un API gratuit și deschis pentru tot ce vrei să afli despre CPAN
+  ru: Бесплатный открытый API для всего, что вы хотите знать о CPAN
+  th: API ฟรีและเปิดสำหรับทุกสิ่งที่คุณต้องการรู้เกี่ยวกับ CPAN
+  tr: CPAN hakkında bilmek istediğiniz her şey için ücretsiz, açık bir API
+  uk: Безкоштовний відкритий API для всього, що ви хочете знати про CPAN
+  vi: API miễn phí, mở cho mọi thứ bạn muốn biết về CPAN
 rule:
   /cpan:
     cmd: cpan App::cpanminus

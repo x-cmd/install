@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: DDV 是一款 TUI 应用程序，可在终端中查看 Amazon DynamoDB。
   en: DDV is a TUI application to view Amazon DynamoDB in the terminal.
+  cs: DDV je aplikace TUI pro prohlížení Amazon DynamoDB v terminálu.
+  de: DDV ist eine TUI-Anwendung zur Anzeige von Amazon DynamoDB im Terminal.
+  es: DDV es una aplicación TUI para ver Amazon DynamoDB en el terminal.
+  fr: DDV est une application TUI pour consulter Amazon DynamoDB dans le terminal.
+  id: DDV adalah aplikasi TUI untuk melihat Amazon DynamoDB di terminal.
+  it: DDV è un'applicazione TUI per visualizzare Amazon DynamoDB nel terminale.
+  ja: DDV はターミナルで Amazon DynamoDB を閲覧するための TUI アプリケーションです。
+  ko: DDV는 터미널에서 Amazon DynamoDB를 조회하는 TUI 애플리케이션입니다.
+  pl: DDV to aplikacja TUI do przeglądania Amazon DynamoDB w terminalu.
+  pt: O DDV é um aplicativo TUI para visualizar o Amazon DynamoDB no terminal.
+  ro: DDV este o aplicație TUI pentru a vizualiza Amazon DynamoDB în terminal.
+  ru: DDV — это TUI-приложение для просмотра Amazon DynamoDB в терминале.
+  th: DDV เป็นแอปพลิเคชัน TUI สำหรับดู Amazon DynamoDB ในเทอร์มินัล
+  tr: DDV, terminalde Amazon DynamoDB görüntülemek için bir TUI uygulamasıdır.
+  uk: DDV — це TUI-застосунок для перегляду Amazon DynamoDB у терміналі.
+  vi: DDV là ứng dụng TUI để xem Amazon DynamoDB trong terminal.
 x:
   source: https://github.com/Lusingander/ddv
   eget: Lusingander/ddv

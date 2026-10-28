@@ -3,6 +3,22 @@ homepage: https://github.com/google/pytype
 desc:
   cn: Python 代码的静态类型分析器，检查并推断 Python 代码的类型 - 无需类型注释
   en: A static type analyzer for Python code, checks and infers types for your Python code - without requiring type annotations
+  cs: Statický typový analyzátor pro kód Python, který kontroluje a odvozuje typy vašeho kódu Python bez nutnosti anotací typů
+  de: Ein statischer Typanalysator für Python-Code, der Typen in Ihrem Python-Code prüft und ableitet, ohne Typannotationen zu erfordern
+  es: Un analizador de tipos estático para código Python que comprueba e infiere los tipos de su código Python sin requerir anotaciones de tipo
+  fr: Un analyseur de types statique pour le code Python, qui vérifie et infère les types de votre code Python sans exiger d'annotations de type
+  id: Analisator tipe statis untuk kode Python, memeriksa dan menyimpulkan tipe untuk kode Python Anda - tanpa memerlukan anotasi tipe
+  it: Un analizzatore di tipi statico per codice Python, che controlla e inferisce i tipi del tuo codice Python senza richiedere annotazioni di tipo
+  ja: Python コード向けの静的型解析器で、型注釈を必要とせずに Python コードの型をチェックして推論します
+  ko: Python 코드를 위한 정적 타입 분석기로, 타입 주석 없이 Python 코드의 타입을 검사하고 추론합니다
+  pl: Statyczny analizator typów dla kodu Pythona, który sprawdza i wnioskuje typy w kodzie Pythona bez wymagania adnotacji typów
+  pt: Um analisador de tipos estático para código Python que verifica e infere os tipos do seu código Python sem exigir anotações de tipo
+  ro: Un analizator static de tipuri pentru cod Python, care verifică și deduce tipurile codului tău Python fără a necesita adnotări de tip
+  ru: Статический анализатор типов для кода Python, который проверяет и выводит типы вашего кода Python без необходимости в аннотациях типов
+  th: ตัววิเคราะห์ชนิดข้อมูลแบบคงที่สำหรับโค้ด Python ตรวจสอบและอนุมานชนิดข้อมูลของโค้ด Python ของคุณ โดยไม่ต้องใช้ type annotations
+  tr: Python kodu için statik bir tür analizörü; tür açıklamaları gerektirmeden Python kodunuzun türlerini kontrol eder ve çıkarır
+  uk: Статичний аналізатор типів для коду Python, який перевіряє та визначає типи вашого коду Python без потреби в анотаціях типів
+  vi: Trình phân tích kiểu tĩnh cho mã Python, kiểm tra và suy luận kiểu cho mã Python của bạn - không yêu cầu chú thích kiểu
 x:
   source: https://github.com/google/pytype
   apt: build-essential

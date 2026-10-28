@@ -3,6 +3,22 @@ homepage: https://chromium.googlesource.com/webm/libwebp
 desc:
   cn: WebP 编码器工具
   en: WebP encoder tool
+  cs: Nástroj pro kódování WebP
+  de: WebP-Encoder-Werkzeug
+  es: Herramienta de codificación WebP
+  fr: Outil d'encodeur WebP
+  id: Alat enkoder WebP
+  it: Strumento di codifica WebP
+  ja: WebP エンコーダツール
+  ko: WebP 인코딩 도구
+  pl: Narzędzie do kodowania WebP
+  pt: Ferramenta de codificação WebP
+  ro: Instrument de codificare WebP
+  ru: Инструмент кодирования WebP
+  th: เครื่องมือเข้ารหัส WebP
+  tr: WebP kodlama aracı
+  uk: Інструмент кодування WebP
+  vi: Công cụ mã hóa WebP
 x:
   brew: webp
 rule:

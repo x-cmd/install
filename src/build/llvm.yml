@@ -3,6 +3,22 @@ homepage: https://github.com/llvm/llvm-project
 desc:
   cn: LLVM 项目是模块化和可重用的编译器和工具链技术的集合
   en: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies
+  cs: Projekt LLVM je sbírka modulárních a znovu použitelných technologií pro kompilátory a toolchain
+  de: Das LLVM-Projekt ist eine Sammlung modularer und wiederverwendbarer Compiler- und Toolchain-Technologien
+  es: El Proyecto LLVM es una colección de tecnologías modulares y reutilizables de compilador y cadena de herramientas
+  fr: Le projet LLVM est un ensemble de technologies modulaires et réutilisables pour les compilateurs et les chaînes d'outils
+  id: Proyek LLVM adalah kumpulan teknologi kompilator dan toolchain yang modular serta dapat digunakan kembali
+  it: Il progetto LLVM è una raccolta di tecnologie modulari e riutilizzabili per compilatori e toolchain
+  ja: LLVM Project は、モジュール式で再利用できるコンパイラおよびツールチェーン技術の集合です
+  ko: LLVM Project는 모듈식이며 재사용 가능한 컴파일러 및 툴체인 기술의 모음입니다
+  pl: Projekt LLVM to zbiór modularnych i wielokrotnie używalnych technologii kompilatorów i łańcuchów narzędzi
+  pt: O Projeto LLVM é uma coleção de tecnologias modulares e reutilizáveis de compilador e cadeia de ferramentas
+  ro: Proiectul LLVM este o colecție de tehnologii modulare și reutilizabile pentru compilatoare și lanțuri de instrumente
+  ru: Проект LLVM — это набор модульных и переиспользуемых технологий компиляторов и инструментальных средств
+  th: โครงการ LLVM คือคอลเลกชันของเทคโนโลยีคอมไพเลอร์และ toolchain แบบโมดูลาร์ที่นำกลับมาใช้ซ้ำได้
+  tr: LLVM Projesi, derleyici ve araç zinciri teknolojilerinin modüler ve yeniden kullanılabilir bir koleksiyonudur
+  uk: Проєкт LLVM — це набір модульних і повторно використовуваних технологій компіляторів та інструментальних ланцюжків
+  vi: LLVM Project là tập hợp các công nghệ trình biên dịch và toolchain dạng mô-đun, có thể tái sử dụng
 x:
   source: https://github.com/llvm/llvm-project
   eget: llvm/llvm-project

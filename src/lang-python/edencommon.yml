@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Edencommon is a shared library for Meta's source control filesystem tools (EdenFS and Watchman)
   cn: Edencommon 是 Meta 源代码控制系统工具（EdenFS 和 Watchman）的共享库
+  cs: Edencommon je sdílená knihovna pro nástroje Meta pro souborové systémy správy zdrojového kódu (EdenFS a Watchman)
+  de: Edencommon ist eine gemeinsam genutzte Bibliothek für Metas Dateisystem-Werkzeuge der Quellcodeverwaltung (EdenFS und Watchman)
+  es: Edencommon es una biblioteca compartida para las herramientas de sistema de archivos de control de código fuente de Meta (EdenFS y Watchman)
+  fr: Edencommon est une bibliothèque partagée pour les outils de système de fichiers de contrôle de source de Meta (EdenFS et Watchman)
+  id: Edencommon adalah pustaka bersama untuk perkakas sistem berkas kontrol sumber Meta (EdenFS dan Watchman)
+  it: Edencommon è una libreria condivisa per gli strumenti del filesystem di controllo sorgente di Meta (EdenFS e Watchman)
+  ja: Edencommon は Meta のソースコード制御ファイルシステムツール (EdenFS と Watchman) 用の共有ライブラリです
+  ko: Edencommon은 Meta의 소스 제어 파일 시스템 도구(EdenFS 및 Watchman)를 위한 공유 라이브러리입니다
+  pl: Edencommon to wspólna biblioteka dla narzędzi systemu plików kontroli źródeł Meta (EdenFS i Watchman)
+  pt: Edencommon é uma biblioteca compartilhada para as ferramentas de sistema de arquivos de controle de código-fonte da Meta (EdenFS e Watchman)
+  ro: Edencommon este o bibliotecă comună pentru instrumentele de sistem de fișiere pentru controlul surselor ale Meta (EdenFS și Watchman)
+  ru: Edencommon — общая библиотека для файловых инструментов системы контроля исходного кода Meta (EdenFS и Watchman)
+  th: Edencommon เป็นไลบรารีร่วมสำหรับเครื่องมือระบบไฟล์ควบคุมซอร์สโค้ดของ Meta (EdenFS และ Watchman)
+  tr: Edencommon, Meta'nın kaynak denetimi dosya sistemi araçları (EdenFS ve Watchman) için ortak bir kitaplıktır
+  uk: Edencommon — спільна бібліотека для файлових інструментів системи контролю джерел Meta (EdenFS і Watchman)
+  vi: Edencommon là thư viện dùng chung cho các công cụ hệ thống tệp kiểm soát mã nguồn của Meta (EdenFS và Watchman)
 x:
   source: https://github.com/facebookexperimental/edencommon
   brew: edencommon

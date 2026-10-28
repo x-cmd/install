@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个非常简单的 CLI 来尝试 python 包 - 从未如此简单
   en: An integrated shell for working with the Kubernetes CLI
+  cs: Integrovaná shell pro práci s nástrojem příkazové řádky Kubernetes
+  de: Eine integrierte Shell für die Arbeit mit der Kubernetes-CLI
+  es: Un shell integrado para trabajar con la CLI de Kubernetes
+  fr: Un shell intégré pour travailler avec la CLI Kubernetes
+  id: Shell terintegrasi untukayette dengan CLI Kubernetes
+  it: Una shell integrata per lavorare con la CLI di Kubernetes
+  ja: Kubernetes CLI を操作するための統合シェル
+  ko: Kubernetes CLI로 작업하기 위한 통합 셸
+  pl: Zintegrowana powłoka do pracy z CLI Kubernetes
+  pt: Um shell integrado para trabalhar com a CLI do Kubernetes
+  ro: Un shell integrat pentru lucrul cu CLI-ul Kubernetes
+  ru: Встроенная оболочка для работы с CLI Kubernetes
+  th: เชลล์แบบรวมสำหรับทำงานกับ Kubernetes CLI
+  tr: Kubernetes CLI ile çalışmak için entegre bir kabuk
+  uk: Вбудована оболонка для роботи з CLI Kubernetes
+  vi: Shell tích hợp để làm việc với CLI Kubernetes
 x:
   source: https://github.com/cloudnativelabs/kube-shell
   yay: kube-shell

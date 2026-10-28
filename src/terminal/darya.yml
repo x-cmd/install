@@ -3,6 +3,22 @@ homepage: https://github.com/mrkatebzadeh/darya
 desc:
   cn: 带 TUI 和实时矩形树的磁盘占用分析器
   en: Disk usage explorer with a TUI and live treemap
+  cs: Průzkumník využití disku s TUI a živou stromovou mapou
+  de: Datenträger-Explorer mit TUI und Live-Treemap
+  es: Explorador de uso de disco con TUI y treemap en vivo
+  fr: Explorateur d'espace disque avec TUI et treemap en direct
+  id: Penjelajah penggunaan disk dengan TUI dan treemap langsung
+  it: Esploratore dell'uso del disco con TUI e treemap live
+  ja: TUIとライブツリーマップを備えたディスク使用量エクスプローラー
+  ko: TUI와 실시간 트리맵을 갖춘 디스크 사용량 탐색기
+  pl: Przeglądarka zajętości dysku z TUI i dynamiczną mapą drzewa
+  pt: Explorador de uso de disco com TUI e treemap ao vivo
+  ro: Explorator de utilizare a discului cu TUI și hartă de arbore în timp real
+  ru: Обозреватель использования диска с TUI и живой treemap-картой
+  th: ตัวสำรวจการใช้พื้นที่ดิสก์พร้อม TUI และ treemap แบบเรียลไทม์
+  tr: TUI ve canlı treemap ile disk kullanımı gezgini
+  uk: Оглядач використання диска з TUI та живою treemap-картою
+  vi: Trình khám phá mức sử dụng đĩa với TUI và treemap trực tiếp
 x:
   source: https://github.com/mrkatebzadeh/darya
   eget: mrkatebzadeh/darya

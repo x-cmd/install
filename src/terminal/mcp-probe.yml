@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Rust 实现的 MCP 客户端库与调试工具集，既是构建 MCP 集成的生产级 SDK，也是交互式调试器核心
   en: A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interactive debugger.
+  cs: Knihovna klienta Model Context Protocol (MCP) a sada nástrojů pro ladění v jazyce Rust. Tento základ poskytuje jak produkční SDK pro tvorbu integrací MCP, tak jádro architektury interaktivního debuggeru.
+  de: Eine Model-Context-Protocol-(MCP-)-Client-Bibliothek und Debugging-Toolchain in Rust. Diese Grundlage bietet sowohl ein produktionsreifes SDK zum Bauen von MCP-Integrationen als auch die Kernarchitektur für einen interaktiven Debugger.
+  es: Una biblioteca de cliente de Model Context Protocol (MCP) y un conjunto de herramientas de depuración en Rust. Esta base ofrece tanto un SDK listo para producción para crear integraciones de MCP como la arquitectura central de un depurador interactivo.
+  fr: Une bibliothèque client Model Context Protocol (MCP) et une trousse d'outils de débogage en Rust. Cette base fournit à la fois un SDK prêt pour la production pour construire des intégrations MCP et l'architecture cœur d'un débogueur interactif.
+  id: Pustaka klien Model Context Protocol (MCP) dan perangkat awak debug dalam Rust. Fondasi ini menyediakan SDK siap produksi untuk membangun integrasi MCP sekaligus arsitektur inti untuk debugger interaktif.
+  it: Una libreria client per Model Context Protocol (MCP) e un toolkit di debug in Rust. Questa base offre sia un SDK pronto per la produzione per costruire integrazioni MCP sia l'architettura centrale di un debugger interattivo.
+  ja: Rust で書かれた Model Context Protocol (MCP) クライアントライブラリとデバッグツールキット。MCP 統合を構築するための本番対応 SDK と、インタラクティブデバッガーのコアアーキテクチャを兼ね备えています。
+  ko: Rust로 작성된 Model Context Protocol(MCP) 클라이언트 라이브러리 및 디버깅 도구 모음. MCP 통합 구축을 위한 프로덕션 준비 SDK와 인터랙티브 디버거의 핵심 아키텍처를 모두 제공합니다.
+  pl: Biblioteka klienta Model Context Protocol (MCP) i zestaw narzędzi do debugowania w języku Rust. Ta podstawa zapewnia zarówno gotowy do produkcji SDK do budowania integracji MCP, jak i rdzeń architektury interaktywnego debuggera.
+  pt: Uma biblioteca de cliente do Model Context Protocol (MCP) e um conjunto de ferramentas de depuração em Rust. Essa base oferece tanto um SDK pronto para produção para construir integrações de MCP quanto a arquitetura central de um depurador interativo.
+  ro: O bibliotecă de client Model Context Protocol (MCP) și un set de instrumente de depanare în Rust. Această bază oferă atât un SDK gata de producție pentru construirea integrărilor MCP, cât și arhitectura de bază a unui depanator interactiv.
+  ru: Клиентская библиотека Model Context Protocol (MCP) и набор инструментов отладки на Rust. Эта основа даёт как готовый к промышленной эксплуатации SDK для создания MCP-интеграций, так и ядро архитектуры интерактивного отладчика.
+  th: ไลบรารีไคลเอนต์ Model Context Protocol (MCP) และชุดเครื่องมือดีบักใน Rust รากฐานนี้ให้ทั้ง SDK ที่พร้อมใช้งานจริงสำหรับการสร้าง MCP integration และสถาปัตยกรรมหลักของดีบักเกอร์แบบโต้ตอบ
+  tr: Rust ile yazılmış Model Context Protocol (MCP) istemci kitaplığı ve hata ayıklama araç seti. Bu temel hem MCP entegrasyonları oluşturmak için üretime hazır bir SDK hem de etkileşimli bir hata ayıklayıcının çekirdek mimarisini sunar.
+  uk: Клієнтська бібліотека Model Context Protocol (MCP) і набір інструментів для налагодження на Rust. Ця основа надає як готовий до промислового використання SDK для створення MCP-інтеграцій, так і ядро архітектури інтерактивного дебагера.
+  vi: Thư viện client Model Context Protocol (MCP) và bộ công cụ gỡ lỗi viết bằng Rust. Nền tảng này cung cấp cả SDK sẵn sàng cho sản xuất để xây dựng tích hợp MCP lẫn kiến trúc lõi cho trình gỡ lỗi tương tác.
 x:
   source: https://github.com/conikeec/mcp-probe
   eget: conikeec/mcp-probe

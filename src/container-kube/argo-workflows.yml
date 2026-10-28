@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Argo Workflow 是一个开源容器-本地工作流引擎，用于编排 Kubernetes 上的并行作业
   en: Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes
+  cs: Argo Workflows je open source container-native workflow engine pro orchestraci paralelních úloh na Kubernetes
+  de: Argo Workflows ist eine quelloffene container-native Workflow-Engine zur Orchestrierung paralleler Jobs auf Kubernetes
+  es: Argo Workflows es un motor de flujo de trabajo container-native de código abierto para orquestar trabajos paralelos en Kubernetes
+  fr: Argo Workflows est un moteur de workflow container-native open source pour orchestrer des tâches parallèles sur Kubernetes
+  id: Argo Workflows adalah mesin alur kerja container-native open source untuk mengorkestrasi job paralel di Kubernetes
+  it: Argo Workflows è un motore di workflow container-native open source per orchestrare job paralleli su Kubernetes
+  ja: Argo Workflows は、Kubernetes 上の並列ジョブをオーケストレーションするオープンソースのコンテナネイティブなワークフローエンジンです。
+  ko: Argo Workflows는 Kubernetes에서 병렬 작업을 오케스트레이션하기 위한 오픈 소스 컨테이너 네이티브 워크플로 엔진입니다
+  pl: Argo Workflows to otwartoźródłowy, kontenerowo natywny silnik przepływów pracy do orkiestracji równoległych zadań w Kubernetes
+  pt: Argo Workflows é um mecanismo de fluxo de trabalho container-native de código aberto para orquestrar jobs paralelos no Kubernetes
+  ro: Argo Workflows este un motor de flux de lucru container-native cu sursă deschisă pentru orchestrarea joburilor paralele pe Kubernetes
+  ru: Argo Workflows — это движок контейнерно-нативных рабочих процессов с открытым исходным кодом для оркестрации параллельных задач в Kubernetes
+  th: Argo Workflows คือเครื่องมือจัดการเวิร์กโฟลแบบ container-native โอเพนซอร์สสำหรับประสานงานพาราเลลที่บน Kubernetes
+  tr: Argo Workflows, Kubernetes üzerinde paralel işleri düzenlemek için açık kaynaklı, container-native bir iş akışı motorudur
+  uk: Argo Workflows — це движок контейнерно-нативних робочих процесів з відкритим кодом для оркестрації паралельних завдань у Kubernetes
+  vi: Argo Workflows là engine workflow container-native mã nguồn mở để điều phối các job song song trên Kubernetes
 x:
   source: https://github.com/argoproj/argo-workflows
   eget: argoproj/argo-workflows

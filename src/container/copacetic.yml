@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: copa 是一个用 Go 编写的 CLI 工具，基于 buildkit，可根据 Trivy 等流行工具的漏洞扫描结果直接修补容器镜像
   en: copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy
+  cs: copa je nástroj CLI napsaný v Go a založený na buildkitu, který umožňuje přímo opravovat obrazy kontejnerů na základě výsledků skenování zranitelností z nástrojů jako Trivy
+  de: copa ist ein in Go geschriebenes CLI-Tool auf Basis von buildkit, das Container-Images anhand der Schwachstellen-Scanergebnisse von Tools wie Trivy direkt patchen kann
+  es: copa es una herramienta CLI escrita en Go y basada en buildkit que permite parchear directamente imágenes de contenedores según los resultados de análisis de vulnerabilidades de herramientas como Trivy
+  fr: copa est un outil CLI écrit en Go et basé sur buildkit, permettant de patcher directement les images de conteneurs à partir des résultats de scan de vulnérabilités d'outils comme Trivy
+  id: copa adalah alat CLI yang ditulis dengan Go dan berbasis buildkit untuk menambal image kontainer secara langsung berdasarkan hasil pemindaian kerentanan dari alat seperti Trivy
+  it: copa è uno strumento CLI scritto in Go e basato su buildkit che consente di correggere direttamente le immagini dei container in base ai risultati della scansione delle vulnerabilità di strumenti come Trivy
+  ja: copaはGoで書かれたbuildkitベースのCLIツールで、Trivyなどの一般的なツールの脆弱性スキャン結果に基づいてコンテナイメージを直接パッチ処理できます
+  ko: copa는 Go로 작성되고 buildkit을 기반으로 한 CLI 도구로, Trivy 같은 인기 도구의 취약점 스캔 결과를 바탕으로 컨테이너 이미지를 직접 패치할 수 있습니다
+  pl: copa to narzędzie CLI napisane w Go, oparte na buildkit, pozwalające bezpośrednio łatać obrazy kontenerów na podstawie wyników skanowania podatności narzędzi takich jak Trivy
+  pt: copa é uma ferramenta CLI escrita em Go e baseada no buildkit que permite corrigir diretamente imagens de contêiner com base nos resultados de varredura de vulnerabilidades de ferramentas como o Trivy
+  ro: copa este un instrument CLI scris în Go, bazat pe buildkit, care permite patchingul direct al imaginilor de container pe baza rezultatelor scanării de vulnerabilități ale unor instrumente precum Trivy
+  ru: copa — CLI-инструмент, написанный на Go и основанный на buildkit, который позволяет напрямую патчить образы контейнеров по результатам сканирования уязвимостей такими инструментами, как Trivy
+  th: copa คือเครื่องมือ CLI ที่เขียนด้วย Go และอิงบน buildkit สามารถแพตช์อิมเมจคอนเทนเนอร์ได้โดยตรงจากผลการสแกนช่องโหว่จากเครื่องมือยอดนิยมอย่าง Trivy
+  tr: copa, Go ile yazılmış ve buildkit tabanlı, Trivy gibi popüler araçların güvenlik açığı tarama sonuçlarına göre kapsayıcı imajlarını doğrudan yamalayan bir CLI aracıdır
+  uk: copa — CLI-інструмент, написаний на Go та заснований на buildkit, який дозволяє напряму патчити образи контейнерів за результатами сканування вразливостей такими інструментами, як Trivy
+  vi: copa là công cụ CLI được viết bằng Go và dựa trên buildkit, dùng để vá trực tiếp image container dựa trên kết quả quét lỗ hổng từ các công cụ phổ biến như Trivy
 x:
   source: https://github.com/project-copacetic/copacetic
   eget: project-copacetic/copacetic

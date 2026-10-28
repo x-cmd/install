@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 用于压缩和解压缩各种格式的 CLI 工具
   en: A CLI tool to compress and decompress various formats
+  cs: Nástroj CLI pro kompresi a dekompresi různých formátů
+  de: Ein CLI-Werkzeug zum Komprimieren und Entpacken verschiedener Formate
+  es: Una herramienta de CLI para comprimir y descomprimir varios formatos
+  fr: Un outil CLI pour compresser et décompresser différents formats
+  id: Alat CLI untuk mengompresi dan mendekompresi berbagai format
+  it: Uno strumento CLI per comprimere e decomprimere vari formati
+  ja: さまざまな形式を圧縮・展開するための CLI ツール
+  ko: 다양한 형식을 압축하고 해제하는 CLI 도구
+  pl: Narzędzie CLI do kompresji i dekompresji różnych formatów
+  pt: Uma ferramenta de CLI para compactar e descompactar vários formatos
+  ro: Un instrument CLI pentru comprimarea și decomprimarea diverselor formate
+  ru: Инструмент командной строки для сжатия и распаковки различных форматов
+  th: เครื่องมือ CLI สำหรับบีบอัดและแตกไฟล์ในรูปแบบต่าง ๆ
+  tr: Çeşitli formatları sıkıştırmak ve açmak için bir CLI aracı
+  uk: Інструмент командного рядка для стиснення та розпакування різних форматів
+  vi: Công cụ CLI để nén và giải nén nhiều định dạng khác nhau
 homepage: https://github.com/ouch-org/ouch
 x:
   source: https://github.com/ouch-org/ouch

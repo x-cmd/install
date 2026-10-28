@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 极简终端打字测试工具
   en: 'minimal terminal typing tester'
+  cs: minimální test rychlosti psaní v terminálu
+  de: minimaler Tipptest für das Terminal
+  es: tester de escritura mínimo para terminal
+  fr: testeur de frappe minimal pour terminal
+  id: pengetes ketik terminal minimal
+  it: tester di scrittura minimalista per terminale
+  ja: ミニマルなターミナルタイピングテスター
+  ko: 미니멀한 터미널 타이핑 테스터
+  pl: minimalistyczny tester pisania w terminalu
+  pt: testador de digitação mínimo para terminal
+  ro: tester de tastare minim pentru terminal
+  ru: минимальный тестер скорости набора в терминале
+  th: เครื่องมือทดสอบการพิมพ์แบบเรียบง่ายสำหรับเทอร์มินัล
+  tr: minimal terminal yazma testi aracı
+  uk: мінімальний тестер швидкості набору в терміналі
+  vi: trình kiểm tra gõ phím tối giản cho terminal
 x:
   source: https://github.com/ashish0kumar/typtea
   eget: ashish0kumar/typtea

@@ -3,6 +3,22 @@ homepage: https://github.com/kivikakk/comrak
 desc:
   cn: CommonMark + GFM 兼容的 Markdown 解析器和渲染器
   en: CommonMark + GFM compatible Markdown parser and renderer
+  cs: Analyzátor a vykreslovač Markdownu kompatibilní s CommonMark + GFM
+  de: Ein CommonMark- und GFM-kompatibler Markdown-Parser und -Renderer
+  es: Analizador y renderizador de Markdown compatible con CommonMark + GFM
+  fr: Analyseur et moteur de rendu Markdown compatible CommonMark + GFM
+  id: Parser dan perender Markdown yang kompatibel dengan CommonMark + GFM
+  it: Parser e renderer Markdown compatibile con CommonMark + GFM
+  ja: CommonMark + GFM 互換の Markdown パーサーとレンダラー
+  ko: CommonMark + GFM 호환 Markdown 파서 및 렌더러
+  pl: Parser i renderer Markdown zgodny z CommonMark + GFM
+  pt: Analisador e renderizador de Markdown compatível com CommonMark + GFM
+  ro: Parser și randor Markdown compatibile cu CommonMark + GFM
+  ru: Парсер и рендерер Markdown, совместимые с CommonMark + GFM
+  th: ตัวแยกวิเคราะห์และตัวเรนเดอร์ Markdown ที่เข้ากันได้กับ CommonMark + GFM
+  tr: CommonMark + GFM ile uyumlu Markdown ayrıştırıcı ve işleyici
+  uk: Парсер і рендерер Markdown, сумісні з CommonMark + GFM
+  vi: Trình phân tích và kết xuất Markdown tương thích CommonMark + GFM
 x:
   source: https://github.com/kivikakk/comrak
   eget: kivikakk/comrak

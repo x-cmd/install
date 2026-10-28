@@ -3,6 +3,22 @@ homepage: https://github.com/vicentereig/whatsapp-cli
 desc:
   cn: 一个基于 WhatsApp Web 多设备协议构建的独立 WhatsApp 命令行界面
   en: A standalone command-line interface for WhatsApp built on the WhatsApp Web multidevice protocol.
+  cs: Samostatné rozhraní příkazové řádky pro WhatsApp postavené na protokolu WhatsApp Web multidevice.
+  de: Eine eigenständige Kommandozeilen-Schnittstelle für WhatsApp auf Basis des WhatsApp-Web-Multidevice-Protokolls.
+  es: Una interfaz de línea de comandos independiente para WhatsApp basada en el protocolo multidevice de WhatsApp Web.
+  fr: Une interface en ligne de commande autonome pour WhatsApp, fondée sur le protocole multidevice de WhatsApp Web.
+  id: Antarmuka baris perintah mandiri untuk WhatsApp yang dibangun di atas protokol multidevice WhatsApp Web.
+  it: Un'interfaccia a riga di comando autonoma per WhatsApp basata sul protocollo multidevice di WhatsApp Web.
+  ja: WhatsApp Web のマルチデバイスプロトコルに対応した、独立した WhatsApp コマンドラインインターフェース。
+  ko: WhatsApp Web 멀티디바이스 프로토콜을 기반으로 한 독립형 WhatsApp 명령줄 인터페이스.
+  pl: Samodzielny interfejs wiersza poleceń dla WhatsApp oparty na protokole multidevice WhatsApp Web.
+  pt: Uma interface de linha de comando independente para o WhatsApp, construída sobre o protocolo multidevice do WhatsApp Web.
+  ro: O interfață independentă de linie de comandă pentru WhatsApp, construită pe protocolul multidevice WhatsApp Web.
+  ru: Автономный интерфейс командной строки для WhatsApp на основе мультидевайс-протокола WhatsApp Web.
+  th: อินเทอร์เฟซบรรทัดคำสั่งแบบสแตนด์อโลนสำหรับ WhatsApp ที่สร้างบนโปรโตคอล multidevice ของ WhatsApp Web
+  tr: WhatsApp Web çoklu cihaz protokolü üzerine kurulmuş, WhatsApp için bağımsız bir komut satırı arayüzü.
+  uk: Автономний інтерфейс командного рядка для WhatsApp, побудований на мультидевайс-протоколі WhatsApp Web.
+  vi: Giao diện dòng lệnh độc lập cho WhatsApp, xây dựng trên giao thức multidevice của WhatsApp Web.
 x:
   source: https://github.com/vicentereig/whatsapp-cli
   eget: vicentereig/whatsapp-cli

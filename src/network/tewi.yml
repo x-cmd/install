@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 基于文本的 Transmission BitTorrent 守护进程界面。
   en: Text-based interface for the Transmission BitTorrent daemon.
+  cs: Textové rozhraní pro daemon Transmission BitTorrent.
+  de: Textbasierte Oberfläche für den Transmission-BitTorrent-Daemon.
+  es: Interfaz basada en texto para el demonio de BitTorrent Transmission.
+  fr: Interface en mode texte pour le démon BitTorrent Transmission.
+  id: Antarmuka berbasis teks untuk daemon BitTorrent Transmission.
+  it: Interfaccia basata su testo per il demone BitTorrent Transmission.
+  ja: Transmission BitTorrent デーモンのためのテキストベースのインターフェース。
+  ko: Transmission BitTorrent 데몬을 위한 텍스트 기반 인터페이스.
+  pl: Interfejs tekstowy dla demona Transmission BitTorrent.
+  pt: Interface baseada em texto para o daemon BitTorrent Transmission.
+  ro: Interfață bazată pe text pentru daemonul BitTorrent Transmission.
+  ru: Текстовый интерфейс для демона Transmission BitTorrent.
+  th: ส่วนติดต่อผู้ใช้แบบข้อความสำหรับ daemon ของ Transmission BitTorrent.
+  tr: Transmission BitTorrent arka plan süreci için metin tabanlı arayüz.
+  uk: Текстовий інтерфейс для демона Transmission BitTorrent.
+  vi: Giao diện dựa trên văn bản cho tiến trình nền Transmission BitTorrent.
 x:
   source: https://github.com/anlar/tewi
   pip: tewi-transmission

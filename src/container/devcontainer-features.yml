@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: Anthropic 开发容器特性，包含 Claude Code CLI
   en: Anthropic Dev Container Features, including Claude Code CLI
+  cs: Anthropic Dev Container Features včetně Claude Code CLI
+  de: Anthropic Dev Container Features einschließlich Claude Code CLI
+  es: Anthropic Dev Container Features, incluido Claude Code CLI
+  fr: Anthropic Dev Container Features, y compris Claude Code CLI
+  id: Anthropic Dev Container Features, termasuk Claude Code CLI
+  it: Anthropic Dev Container Features, incluso Claude Code CLI
+  ja: Anthropic Dev Container Features（Claude Code CLIを含む）
+  ko: Claude Code CLI를 포함한 Anthropic Dev Container Features
+  pl: Anthropic Dev Container Features, w tym Claude Code CLI
+  pt: Anthropic Dev Container Features, incluindo o Claude Code CLI
+  ro: Anthropic Dev Container Features, inclusiv Claude Code CLI
+  ru: Anthropic Dev Container Features, включая Claude Code CLI
+  th: Anthropic Dev Container Features รวมถึง Claude Code CLI
+  tr: Claude Code CLI dahil Anthropic Dev Container Features
+  uk: Anthropic Dev Container Features, включно з Claude Code CLI
+  vi: Anthropic Dev Container Features, bao gồm Claude Code CLI
 x:
   source: https://github.com/anthropics/devcontainer-features
   eget: anthropics/devcontainer-features

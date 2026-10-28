@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 为 Cursor 等 AI 编程代理提供 Figma 布局信息的 MCP 服务器（Framelink Figma MCP）
   en: MCP server to provide Figma layout information to AI coding agents like Cursor (Framelink Figma MCP)
+  cs: MCP server, který poskytuje informace o rozvržení Figma kódovacím agentům AI jako Cursor (Framelink Figma MCP)
+  de: MCP-Server, der Figma-Layoutinformationen für KI-Coding-Agents wie Cursor bereitstellt (Framelink Figma MCP)
+  es: Servidor MCP que ofrece información de diseño de Figma a agentes de programación de IA como Cursor (Framelink Figma MCP)
+  fr: Serveur MCP fournissant des informations de mise en page Figma aux agents de codage IA comme Cursor (Framelink Figma MCP)
+  id: Server MCP yang menyediakan informasi tata letak Figma kepada agen pemrograman AI seperti Cursor (Framelink Figma MCP)
+  it: Server MCP che fornisce informazioni sul layout di Figma agli agenti di codifica IA come Cursor (Framelink Figma MCP)
+  ja: Cursor などの AI コーディングエージェントに Figma のレイアウト情報を提供する MCP サーバー（Framelink Figma MCP）
+  ko: Cursor 같은 AI 코딩 에이전트에 Figma 레이아웃 정보를 제공하는 MCP 서버 (Framelink Figma MCP)
+  pl: Serwer MCP udostępniający informacje o układzie Figma agentom programującym z AI, takim jak Cursor (Framelink Figma MCP)
+  pt: Servidor MCP que fornece informações de layout do Figma a agentes de programação de IA como o Cursor (Framelink Figma MCP)
+  ro: Server MCP care oferă informații despre layout-ul Figma agenților de codare AI precum Cursor (Framelink Figma MCP)
+  ru: MCP-сервер, предоставляющий информацию о макете Figma ИИ-агентам программирования, таким как Cursor (Framelink Figma MCP)
+  th: เซิร์ฟเวอร์ MCP ที่ให้ข้อมูลเลย์เอาต์ Figma แก่เอเจนต์เขียนโค้ด AI เช่น Cursor (Framelink Figma MCP)
+  tr: Cursor gibi yapay zekâ kodlama aracılarına Figma düzen bilgisi sağlayan MCP sunucusu (Framelink Figma MCP)
+  uk: MCP-сервер, який надає інформацію про макет Figma агентам програмування ШІ, таким як Cursor (Framelink Figma MCP)
+  vi: Máy chủ MCP cung cấp thông tin bố cục Figma cho các tác nhân lập trình AI như Cursor (Framelink Figma MCP)
 rule:
   /npm:
     cmd: npm install -g figma-developer-mcp

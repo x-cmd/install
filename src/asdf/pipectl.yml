@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 一个 gitOps 风格的持续交付平台，为任何应用程序提供一致的部署和操作体验
   en: A GitOps style continuous delivery platform that provides consistent deployment and operations experience for any applications
+  cs: Platforma průběžného doručování ve stylu GitOps, která poskytuje konzistentní zážitek z nasazování a provozu pro jakékoli aplikace
+  de: Eine Continuous-Delivery-Plattform im GitOps-Stil, die ein konsistentes Deployment- und Betriebserlebnis für beliebige Anwendungen bietet
+  es: Una plataforma de entrega continua al estilo GitOps que ofrece una experiencia coherente de despliegue y operaciones para cualquier aplicación
+  fr: Une plateforme de livraison continue de style GitOps qui offre une expérience de déploiement et d'exploitation cohérente pour toutes les applications
+  id: Platform pengiriman berkelanjutan bergaya GitOps yang menyediakan pengalaman deployment dan operasi yang konsisten untuk aplikasi apa pun
+  it: Una piattaforma di continuous delivery in stile GitOps che offre un'esperienza di distribuzione e gestione coerente per qualsiasi applicazione
+  ja: あらゆるアプリケーションに一貫したデプロイと運用の体験を提供する GitOps スタイルの継続的デリバiveryプラットフォームです
+  ko: 어떤 애플리케이션에도 일관된 배포 및 운영 경험을 제공하는 GitOps 스타일의 지속적 전달 플랫폼
+  pl: Platforma ciągłego dostarczania w stylu GitOps, zapewniająca spójne doświadczenie wdrażania i operowania dla dowolnych aplikacji
+  pt: Uma plataforma de entrega contínua no estilo GitOps que oferece uma experiência consistente de implantação e operação para qualquer aplicativo
+  ro: O platformă de livrare continuă în stil GitOps care oferă o experiență constantă de implementare și operare pentru orice aplicații
+  ru: Платформа непрерывной доставки в стиле GitOps, обеспечивающая единообразный опыт развёртывания и эксплуатации для любых приложений
+  th: แพลตฟอร์มการส่งมอบต่อเนื่องแบบ GitOps ที่มอบประสบการการปรับใช้งานและการดำเนินงานที่สอดคล้องกันสำหรับแอปพลิเคชันใด ๆ
+  tr: GitOps tarzında sürekli teslim platformu olup her türlü uygulama için tutarlı bir dağıtım ve işletme deneyimi sağlar
+  uk: Платформа безперервної доставки в стилі GitOps, що забезпечує узгоджений досвід розгортання та експлуатації для будь-яких застосунків
+  vi: Nền tảng triển khai liên tục theo phong cách GitOps, mang lại trải nghiệm triển khai và vận hành nhất quán cho mọi ứng dụng
 x:
   source: https://github.com/pipe-cd/pipecd
   eget: pipe-cd/pipecd

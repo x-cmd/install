@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 轻量级的安全沙盒，用于运行 Linux 进程。类似 Firejail，但具备内核级安全性，且开销极小。
   en: A lightweight, secure sandbox for running Linux processes using Landlock. Think firejail, but with kernel-level security and minimal overhead.
+  cs: Lehký a bezpečný sandbox pro spouštění procesů Linuxu pomocí Landlocku. Něco jako firejail, ale s bezpečností na úrovni jádra a minimální režijní náklady.
+  de: Ein leichter, sicherer Sandbox zum Ausführen von Linux-Prozessen mit Landlock. Wie firejail, aber mit Sicherheit auf Kernel-Ebene und minimalem Overhead.
+  es: Un sandbox ligero y seguro para ejecutar procesos de Linux mediante Landlock. Como firejail, pero con seguridad a nivel de kernel y una sobrecarga mínima.
+  fr: Un bac à sable léger et sécurisé pour exécuter des processus Linux à l'aide de Landlock. Comme firejail, mais avec une sécurité au niveau du noyau et une surcharge minimale.
+  id: Sandbox ringan dan aman untuk menjalankan proses Linux menggunakan Landlock. Seperti firejail, tetapi dengan keamanan tingkat kernel dan overhead minimal.
+  it: Un sandbox leggero e sicuro per eseguire processi Linux usando Landlock. Come firejail, ma con sicurezza a livello di kernel e sovraccarico minimo.
+  ja: Landlock を使って Linux プロセスを実行するための軽量で安全なサンドボックス。firejail に似ていますが、カーネルレベルのセキュリティと最小限のオーバーヘッドを備えています。
+  ko: Landlock을 사용해 Linux 프로세스를 실행하기 위한 가볍고 안전한 샌드박스입니다. firejail과 비슷하지만 커널 수준 보안과 최소한의 오버헤드를 제공합니다.
+  pl: Lekki, bezpieczny sandbox do uruchamiania procesów Linuxa przy użyciu Landlocka. Coś jak firejail, ale z bezpieczeństwem na poziomie jądra i minimalnym narzutem.
+  pt: Um sandbox leve e seguro para executar processos Linux usando Landlock. Como firejail, mas com segurança no nível do kernel e sobrecarga mínima.
+  ro: Un sandbox ușor și sigur pentru rularea proceselor Linux folosind Landlock. Ca firejail, dar cu securitate la nivel de kernel și suprapunere minimă.
+  ru: Лёгкая безопасная песочница для запуска процессов Linux с помощью Landlock. Как firejail, но с безопасностью на уровне ядра и минимальными накладными расходами.
+  th: Sandbox แบบเบาและปลอดภัยสำหรับรันกระบวนการ Linux โดยใช้ Landlock คล้าย firejail แต่มีความปลอดภัยระดับเคอร์เนลและค่าใช้จ่ายต่ำ
+  tr: Landlock kullanarak Linux süreçlerini çalıştırmak için hafif ve güvenli bir sandbox. firejail gibi ama çekirdek düzeyinde güvenlik ve minimum ek yük ile.
+  uk: Легка й безпечна пісочниця для запуску процесів Linux з використанням Landlock. Як firejail, але з безпекою на рівні ядра та мінімальними накладними витратами.
+  vi: Sandbox nhẹ và an toàn để chạy các tiến trình Linux bằng Landlock. Giống firejail nhưng có bảo mật ở cấp kernel và chi phí thấp tối thiểu.
 x:
   source: https://github.com/Zouuup/landrun
   yay: landrun

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个用于在终端中浏览 GitHub releases 的命令行工具
   en: A GitHub releases browser for the terminal
+  cs: Prohlížeč GitHub releases pro terminál
+  de: Ein GitHub-Releases-Browser für das Terminal
+  es: Un navegador de releases de GitHub para el terminal
+  fr: Un navigateur de versions GitHub pour le terminal
+  id: Peramban rilis GitHub untuk terminal
+  it: Un browser delle release di GitHub per il terminale
+  ja: ターミナル用の GitHub リリースブラウザ
+  ko: 터미널용 GitHub 릴리스 브라우저
+  pl: Przeglądarka wydań GitHub dla terminala
+  pt: Um navegador de lançamentos do GitHub para o terminal
+  ro: Un browser de versiuni GitHub pentru terminal
+  ru: Браузер релизов GitHub для терминала
+  th: เบราว์เซอร์รีลีส GitHub สำหรับเทอร์มินัล
+  tr: Terminal için bir GitHub sürüm tarayıcısı
+  uk: Браузер релізів GitHub для термінала
+  vi: Trình duyệt bản phát hành GitHub cho terminal
 x:
   source: https://github.com/rubysolo/brows
   eget: rubysolo/brows

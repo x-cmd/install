@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 计算 Git 存储库的各种大小指标，标记那些可能导致问题的指标
   en: Compute various size metrics for a Git repository, flagging those that might cause problems
+  cs: Vypočítá různé metriky velikosti repozitáře Git a označí ty, které mohou způsobit problémy
+  de: Berechnet verschiedene Größenmetriken für ein Git-Repository und markiert diejenigen, die Probleme verursachen könnten
+  es: Calcula distintas métricas de tamaño de un repositorio de Git y señala las que podrían causar problemas
+  fr: Calcule diverses métriques de taille d'un dépôt Git et signale celles qui pourraient causer des problèmes
+  id: Menghitung berbagai metrik ukuran repositori Git dan menandai metrik yang mungkin menimbulkan masalah
+  it: Calcola varie metriche di dimensione per un repository Git e segnala quelle che potrebbero causare problemi
+  ja: Git リポジトリのさまざまなサイズ指標を計算し、問題を引き起こす可能性のある指標を警告する
+  ko: Git 저장소의 다양한 크기 지표를 계산하고 문제가 될 수 있는 지표를 표시합니다
+  pl: Oblicza różne metryki rozmiaru repozytorium Git i oznacza te, które mogą powodować problemy
+  pt: Calcula várias métricas de tamanho de um repositório Git e sinaliza as que podem causar problemas
+  ro: Calculează diverse metrici de dimensiune pentru un depozit Git și marchează pe cele care ar putea provoca probleme
+  ru: Вычисляет различные метрики размера репозитория Git и отмечает те, что могут вызвать проблемы
+  th: คำนวณตัวชี้วัดขนาดต่าง ๆ ของที่เก็บ Git และติดธงรายการที่อาจก่อให้เกิดปัญหา
+  tr: Bir Git deposu için çeşitli boyut ölçütleri hesaplar ve sorun çıkarabilecek olanları işaretler
+  uk: Обчислює різні метрики розміру репозиторію Git і позначає ті, що можуть спричинити проблеми
+  vi: Tính toán các số đo kích thước khác nhau cho kho Git và đánh dấu những số liệu có thể gây vấn đề
 x:
   source: https://github.com/github/git-sizer
   eget: github/git-sizer

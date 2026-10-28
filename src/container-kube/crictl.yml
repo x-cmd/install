@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kubelet 容器运行时接口(CRI)的 CLI 和验证工具
   en: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+  cs: CLI a validační nástroje pro rozhraní Kubelet Container Runtime Interface (CRI)
+  de: CLI- und Validierungstools für das Kubelet Container Runtime Interface (CRI)
+  es: Herramientas de CLI y validación para la interfaz de tiempo de ejecución de contenedores de Kubelet (CRI)
+  fr: Outils CLI et de validation pour l'interface Container Runtime Interface de Kubelet (CRI)
+  id: Alat CLI dan validasi untuk Kubelet Container Runtime Interface (CRI)
+  it: Strumenti CLI e di validazione per Kubelet Container Runtime Interface (CRI)
+  ja: Kubelet Container Runtime Interface (CRI) の CLI と検証ツール
+  ko: Kubelet Container Runtime Interface(CRI)를 위한 CLI 및 검증 도구
+  pl: Narzędzia CLI i walidacji dla Kubelet Container Runtime Interface (CRI)
+  pt: Ferramentas de CLI e validação para a interface de runtime de contêineres do Kubelet (CRI)
+  ro: Instrumente CLI și de validare pentru Kubelet Container Runtime Interface (CRI)
+  ru: CLI-инструменты и утилиты валидации для Kubelet Container Runtime Interface (CRI)
+  th: เครื่องมือ CLI และการตรวจสอบสำหรับ Kubelet Container Runtime Interface (CRI)
+  tr: Kubelet Container Runtime Interface (CRI) için CLI ve doğrulama araçları
+  uk: CLI-інструменти та утиліти валідації для Kubelet Container Runtime Interface (CRI)
+  vi: Công cụ CLI và xác thực cho Kubelet Container Runtime Interface (CRI)
 x:
   source: https://github.com/kubernetes-sigs/cri-tools
   eget: kubernetes-sigs/cri-tools

@@ -4,6 +4,22 @@ license: other
 desc:
   cn: MCP 服务器可视化测试工具
   en: Visual testing tool for MCP servers
+  cs: Vizuální testovací nástroj pro MCP servery
+  de: Visuelles Testwerkzeug für MCP-Server
+  es: Herramienta de pruebas visuales para servidores MCP
+  fr: Outil de test visuel pour les serveurs MCP
+  id: Alat pengujian visual untuk server MCP
+  it: Strumento di test visuale per i server MCP
+  ja: MCP サーバー向けのビジュアルテストツール
+  ko: MCP 서버를 위한 시각적 테스트 도구
+  pl: Narzędzie do wizualnych testów serwerów MCP
+  pt: Ferramenta de teste visual para servidores MCP
+  ro: Instrument de testare vizuală pentru servere MCP
+  ru: Визуальный инструмент тестирования для серверов MCP
+  th: เครื่องมือทดสอบภาพสำหรับเซิร์ฟเวอร์ MCP
+  tr: MCP sunucuları için görsel test aracı
+  uk: Візуальний інструмент тестування для серверів MCP
+  vi: Công cụ kiểm thử trực quan cho máy chủ MCP
 x:
   source: https://github.com/modelcontextprotocol/inspector
   npm: "@modelcontextprotocol/inspector"

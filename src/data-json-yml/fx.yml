@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Fx 是为 JSON 量身定制的双重用途命令行工具，它提供了基于终端的 JSON 查看器和 JSON 处理实用程序
   en: Fx is a dual-purpose command-line tool tailored for JSON, providing both a terminal-based JSON viewer and a JSON processing utility
+  cs: Fx je dvouúčelový nástroj příkazové řádky určený pro JSON, který poskytuje jak terminálový prohlížeč JSON, tak nástroj pro zpracování JSON.
+  de: Fx ist ein doppelt zweckbestimmtes Kommandozeilenwerkzeug für JSON und bietet sowohl einen terminalbasierten JSON-Betrachter als auch ein JSON-Verarbeitungswerkzeug.
+  es: Fx es una herramienta de línea de comandos de doble propósito para JSON, que ofrece tanto un visor de JSON en terminal como una utilidad de procesamiento de JSON.
+  fr: Fx est un outil en ligne de commande à double usage conçu pour JSON, qui fournit à la fois un visualiseur JSON dans le terminal et un utilitaire de traitement JSON.
+  id: Fx adalah alat baris perintah serbaguna yang dirancang khusus untuk JSON, menyediakan baik penampil JSON berbasis terminal maupun utilitas pemrosesan JSON.
+  it: Fx è uno strumento da riga di comando a doppio scopo progettato per JSON, che offre sia un visualizzatore JSON da terminale sia un'utilità di elaborazione JSON.
+  ja: Fx は JSON 専用に設計された多用途コマンドラインツールで、ターミナルベースの JSON ビューアと JSON 処理ユーティリティの両方を備えています。
+  ko: Fx는 JSON에 맞춰 설계된 이중 목적 명령줄 도구로, 터미널 기반 JSON 뷰어와 JSON 처리 유틸리티를 모두 제공합니다.
+  pl: Fx to dwuzadaniowe narzędzie wiersza poleceń stworzone dla JSON, oferujące zarówno terminalową przeglądarkę JSON, jak i narzędzie do przetwarzania JSON.
+  pt: Fx é uma ferramenta de linha de comando de dupla finalidade feita para JSON, oferecendo tanto um visualizador de JSON no terminal quanto um utilitário de processamento de JSON.
+  ro: Fx este un instrument de linie de comandă cu dublă utilitate, creat pentru JSON, oferind atât un vizualizator JSON bazat pe terminal, cât și o utilitate de procesare JSON.
+  ru: "Fx — многофункциональный инструмент командной строки, созданный для JSON: он предоставляет и терминальный просмотрщик JSON, и утилиту обработки JSON."
+  th: Fx เป็นเครื่องมือบรรทัดคำสั่งอเนกประสงค์ที่ออกแบบมาเพื่อ JSON โดยมีทั้งโปรแกรมดู JSON ในเทอร์มินัลและเครื่องมือประมวลผล JSON
+  tr: Fx, JSON için tasarlanmış çift amaçlı bir komut satırı aracıdır; hem terminal tabanlı bir JSON görüntüleyici hem de bir JSON işleme aracı sunar.
+  uk: "Fx — багатофункціональний інструмент командного рядка, створений для JSON: він надає і термінальний переглядач JSON, і утиліту обробки JSON."
+  vi: Fx là công cụ dòng lệnh đa năng được thiết kế riêng cho JSON, cung cấp cả trình xem JSON chạy trên terminal lẫn tiện ích xử lý JSON.
 x:
   source: https://github.com/antonmedv/fx
   eget: antonmedv/fx

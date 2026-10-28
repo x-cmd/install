@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: Py-Spy 是 Python 程序的抽样探测器
   en: py-spy is a sampling profiler for Python programs
+  cs: py-spy je vzorkovací profiler programů napsaných v Pythonu
+  de: py-spy ist ein Sampling-Profiler für Python-Programme
+  es: py-spy es un perfilador de muestreo para programas en Python
+  fr: py-spy est un profileur par échantillonnage pour les programmes Python
+  id: py-spy adalah profiler sampling untuk program Python
+  it: py-spy è un profiler a campionamento per programmi Python
+  ja: py-spy は Python プログラムのサンプリングプロファイラです
+  ko: py-spy는 Python 프로그램을 위한 샘플링 프로파일러입니다
+  pl: py-spy to profiler próbkujący dla programów w Pythonie
+  pt: py-spy é um profiler de amostragem para programas Python
+  ro: py-spy este un profiler prin eșantionare pentru programe Python
+  ru: py-spy — профилировщик с выборкой для программ на Python
+  th: py-spy คือตัวโปรไฟล์แบบสุ่มตัวอย่างสำหรับโปรแกรม Python
+  tr: py-spy, Python programları için örnekleme tabanlı bir profilleyicidir
+  uk: py-spy — профілювач із вибіркою для програм на Python
+  vi: py-spy là trình lấy mẫu hiệu năng cho các chương trình Python
 homepage: https://github.com/benfred/py-spy
 license: MIT
 x:

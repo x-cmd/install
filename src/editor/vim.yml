@@ -4,6 +4,22 @@ license: Vim
 desc:
   cn: Vim 是旧的 UNIX 编辑器 Vi 的一个大大改进的版本
   en: Vim is a greatly improved version of the good old UNIX editor Vi
+  cs: Vim je greatly vylepšená verze starého dobrého editoru UNIX Vi
+  de: Vim ist eine stark verbesserte Version des guten alten UNIX-Editors Vi
+  es: Vim es una versión muy mejorada del buen y viejo editor de UNIX Vi
+  fr: Vim est une version bien améliorée du venerable éditeur UNIX Vi
+  id: Vim adalah versi yang jauh lebih baik dari editor UNIX lama yang bagus, Vi
+  it: Vim è una versione molto migliorata del vecchio editor UNIX Vi
+  ja: Vim は古き良き UNIX エディタ Vi の大きく改良されたバージョンです
+  ko: Vim은 오래된 UNIX 편집기 Vi를 크게 개선한 버전입니다
+  pl: Vim to znacznie ulepszona wersja starego dobrego edytora UNIX Vi
+  pt: Vim é uma versão muito aprimorada do antigo e bom editor UNIX Vi
+  ro: Vim este o versiune mult îmbunătățită a bătrânului editor UNIX Vi
+  ru: Vim — значительно улучшенная версия старого доброго редактора UNIX Vi
+  th: Vim เป็นเวอร์ชันที่ดีขึ้นมากของโปรแกรมแก้ไขข้อความ UNIX รุ่นเก่าอย่าง Vi
+  tr: Vim, eski UNIX düzenleyicisi Vi'nin büyük ölçüde geliştirilmiş bir sürümüdür
+  uk: Vim — значно покращена версія старого доброго редактора UNIX Vi
+  vi: Vim là phiên bản được cải tiến đáng kể của trình soạn thảo UNIX Vi xưa cũ
 x:
   source: https://github.com/vim/vim
   apt: vim

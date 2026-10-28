@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 以 SDK、IDE 扩展或 CLI 助手形式提供的自主编码智能体
   en: 'Autonomous coding agent as an SDK, IDE extension, or CLI assistant.'
+  cs: Autonomní kódovací agent jako SDK, rozšíření IDE nebo asistent CLI.
+  de: Autonomer Coding-Agent als SDK, IDE-Erweiterung oder CLI-Assistent.
+  es: Agente de programación autónomo como SDK, extensión de IDE o asistente de CLI.
+  fr: Agent de codage autonome sous forme de SDK, extension IDE ou assistant CLI.
+  id: Agen coding otonom sebagai SDK, ekstensi IDE, atau asisten CLI.
+  it: Agente di coding autonomo come SDK, estensione IDE o assistente CLI.
+  ja: SDK、IDE 拡張機能、CLI アシスタントとして提供される自律型コーディングエージェント。
+  ko: SDK, IDE 확장 프로그램 또는 CLI 어시스턴트로 제공되는 자율형 코딩 에이전트.
+  pl: Autonomiczny agent programistyczny jako SDK, rozszerzenie IDE lub asystent CLI.
+  pt: Agente de programação autônomo como SDK, extensão de IDE ou assistente de CLI.
+  ro: Agent de codare autonom ca SDK, extensie IDE sau asistent CLI.
+  ru: Автономный кодовый агент в виде SDK, расширения IDE или CLI-ассистента.
+  th: เอเจนต์เขียนโค้ดอัตโนมัติในรูปแบบ SDK ส่วนขยาย IDE หรือผู้ช่วย CLI
+  tr: SDK, IDE eklentisi veya CLI asistanı olarak otonom kodlama ajanı.
+  uk: Автономний кодовий агент у вигляді SDK, розширення IDE або CLI-асистента.
+  vi: Tác nhân lập trình tự động dưới dạng SDK, tiện ích IDE hoặc trợ lý CLI.
 x:
   source: https://github.com/cline/cline
   eget: cline/cline

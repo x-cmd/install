@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统
   en: JumpServer Privileged Access Management (PAM) Complying with 4A Secification
+  cs: JumpServer je správa privilegovaného přístupu (PAM) vyhovující specifikaci 4A
+  de: JumpServer ist eine Privileged Access Management (PAM)-Lösung, die der 4A-Spezifikation entspricht
+  es: JumpServer es una solución de gestión de acceso privilegiado (PAM) que cumple la especificación 4A
+  fr: JumpServer est une solution de gestion des accès privilégiés (PAM) conforme à la spécification 4A
+  id: JumpServer adalah solusi Manajemen Akses BerIstimewa (PAM) yang sesuai dengan spesifikasi 4A
+  it: JumpServer è una soluzione di gestione degli accessi privilegiati (PAM) conforme alla specifica 4A
+  ja: JumpServer は 4A 仕様に準拠した特権アクセス管理 (PAM) ソリューションです
+  ko: JumpServer는 4A 사양을 준수하는 권한 있는 액세스 관리(PAM) 솔루션입니다
+  pl: JumpServer to rozwiązanie do zarządzania uprzywilejowanym dostępem (PAM) zgodne ze specyfikacją 4A
+  pt: O JumpServer é uma solução de Gerenciamento de Acesso Privilegiado (PAM) em conformidade com a especificação 4A
+  ro: JumpServer este o soluție de management al accesului privilegiat (PAM) conformă cu specificația 4A
+  ru: JumpServer — решение для управления привилегированным доступом (PAM), соответствующее спецификации 4A
+  th: JumpServer คือโซลูชันการจัดการสิทธิ์เข้าถึงระดับพรีวิเลจ (PAM) ที่สอดคล้องกับข้อกำหนด 4A
+  tr: JumpServer, 4A spesifikasyonuna uygun ayrıcalıklı erişim yönetimi (PAM) çözümüdür
+  uk: JumpServer — рішення керування привілейованим доступом (PAM), що відповідає специфікації 4A
+  vi: JumpServer là giải pháp Quản lý truy cập đặc quyền (PAM) tuân thủ đặc tả 4A
 x:
   source: https://github.com/jumpserver/jumpserver
   eget: jumpserver/jumpserver

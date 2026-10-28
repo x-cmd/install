@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Stack Overflow 的终端界面
   en: 'A terminal interface for Stack Overflow'
+  cs: Terminálové rozhraní pro Stack Overflow
+  de: Ein Terminal-Interface für Stack Overflow
+  es: Una interfaz de terminal para Stack Overflow
+  fr: Une interface en terminal pour Stack Overflow
+  id: Antarmuka terminal untuk Stack Overflow
+  it: Un'interfaccia a terminale per Stack Overflow
+  ja: Stack Overflow のターミナルインターフェース
+  ko: Stack Overflow를 위한 터미널 인터페이스
+  pl: Interfejs terminalowy dla Stack Overflow
+  pt: Uma interface de terminal para o Stack Overflow
+  ro: O interfață de terminal pentru Stack Overflow
+  ru: Терминальный интерфейс для Stack Overflow
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับ Stack Overflow
+  tr: Stack Overflow için bir terminal arayüzü
+  uk: Термінальний інтерфейс для Stack Overflow
+  vi: Giao diện terminal cho Stack Overflow
 x:
   source: https://github.com/samtay/so
   eget: samtay/so

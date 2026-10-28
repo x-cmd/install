@@ -3,6 +3,22 @@ homepage: https://gitlab.com/gitlab-org/cli
 desc:
   cn: GitLab CLI 工具将 GitLab 带到您的命令行
   en: A GitLab CLI tool bringing GitLab to your command line
+  cs: Nástroj GitLab CLI, který přináší GitLab do vaší příkazové řádky
+  de: Ein GitLab-CLI-Tool, das GitLab in Ihre Kommandozeile bringt
+  es: Una herramienta CLI de GitLab que lleva GitLab a tu línea de comandos
+  fr: Un outil CLI GitLab qui apporte GitLab à votre ligne de commande
+  id: Alat CLI GitLab yang menghadirkan GitLab ke baris perintah Anda
+  it: Uno strumento CLI per GitLab che porta GitLab nella tua riga di comando
+  ja: GitLab をコマンドラインにもたらす GitLab CLI ツール
+  ko: GitLab을 명령줄로 가져오는 GitLab CLI 도구
+  pl: Narzędzie CLI GitLab, które przenosi GitLab do wiersza poleceń
+  pt: Uma ferramenta CLI do GitLab que leva o GitLab à sua linha de comando
+  ro: Un instrument CLI GitLab care aduce GitLab în linia ta de comandă
+  ru: Инструмент командной строки GitLab, который переносит GitLab в вашу командную строку
+  th: เครื่องมือ GitLab CLI ที่นำ GitLab มาไว้ที่บรรทัดคำสั่งของคุณ
+  tr: GitLab'ı komut satırınıza taşıyan bir GitLab CLI aracı
+  uk: Інструмент командного рядка GitLab, який переносить GitLab у ваш командний рядок
+  vi: Công cụ GitLab CLI mang GitLab đến với dòng lệnh của bạn
 x:
   dnf: glab
   brew: glab

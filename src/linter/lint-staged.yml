@@ -3,6 +3,22 @@ homepage: https://github.com/lint-staged
 desc:
   cn: 在 git 暂存文件上运行 linters
   en: Run linters on git staged files
+  cs: Spouští lintery nad soubory připravenými v git
+  de: Führt Linter über in Git bereitgestellte Dateien aus
+  es: Ejecuta linters sobre archivos preparados en git
+  fr: Exécute des linters sur les fichiers indexés par git
+  id: Menjalankan linter pada file yang di-stage oleh git
+  it: Esegue i linter sui file messi in stage da git
+  ja: git でステージしたファイルに対して linter を実行します
+  ko: git에 스테이징된 파일에 linter를 실행합니다
+  pl: Uruchamia lintery na plikach przygotowanych w git
+  pt: Executa linters em arquivos preparados no git
+  ro: Rulează lintere pe fișierele pregătite în git
+  ru: Запускает линтеры по файлам, подготовленным в git
+  th: เรียกใช้ linter กับไฟล์ที่ถูก stage ใน git
+  tr: git'te hazırlanmış dosyalar üzerinde linter çalıştırır
+  uk: Запускає лінтери на файлах, підготовлених у git
+  vi: Chạy các linter trên những tệp đã được git stage
 rule:
   /npm:
     cmd: npm install --save-dev lint-staged

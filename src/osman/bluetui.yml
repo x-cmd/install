@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用于在 Linux 上管理蓝牙的 TUI。
   en: TUI for managing bluetooth on Linux.
+  cs: TUI pro správu Bluetoothu v Linuxu.
+  de: TUI zur Bluetooth-Verwaltung unter Linux.
+  es: TUI para gestionar Bluetooth en Linux.
+  fr: TUI pour gérer le Bluetooth sous Linux.
+  id: TUI untuk mengelola Bluetooth di Linux.
+  it: TUI per gestire il Bluetooth su Linux.
+  ja: Linux で Bluetooth を管理するための TUI。
+  ko: Linux에서 Bluetooth를 관리하기 위한 TUI.
+  pl: TUI do zarządzania Bluetoothem w Linuksie.
+  pt: TUI para gerenciar o Bluetooth no Linux.
+  ro: TUI pentru gestionarea Bluetoothului pe Linux.
+  ru: TUI для управления Bluetooth в Linux.
+  th: TUI สำหรับจัดการ Bluetooth บน Linux
+  tr: Linux üzerinde Bluetooth yönetimi için TUI.
+  uk: TUI для керування Bluetooth у Linux.
+  vi: TUI để quản lý Bluetooth trên Linux.
 x:
   source: https://github.com/pythops/bluetui
   pacman: bluetui

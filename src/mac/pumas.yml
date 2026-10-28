@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于监控 Apple Silicon Mac 的 TUI 电源使用情况监控工具
   en: A TUI power usage monitoring tool for Apple Silicon Macs
+  cs: Nástroj TUI pro monitorování spotřeby energie na Apple Silicon Macích
+  de: Ein TUI-Werkzeug zur Überwachung des Stromverbrauchs auf Apple-Silicon-Macs
+  es: Una herramienta TUI para supervisar el consumo de energía en Mac con Apple Silicon
+  fr: Un outil TUI de surveillance de la consommation d'énergie sur les Mac Apple Silicon
+  id: Alat pemantauan penggunaan daya TUI untuk Mac dengan Apple Silicon
+  it: Uno strumento TUI per monitorare il consumo energetico sui Mac Apple Silicon
+  ja: Apple Silicon Mac の電力使用量を監視する TUI ツール
+  ko: Apple Silicon Mac의 전력 사용량을 모니터링하는 TUI 도구
+  pl: Narzędzie TUI do monitorowania zużycia energii na Macach z Apple Silicon
+  pt: Uma ferramenta TUI para monitorar o consumo de energia em Macs com Apple Silicon
+  ro: Un instrument TUI pentru monitorizarea consumului de energie pe Mac-urile cu Apple Silicon
+  ru: TUI-инструмент для мониторинга потребления энергии на Mac с Apple Silicon
+  th: เครื่องมือ TUI สำหรับติดตามการใช้พลังงานบน Mac ที่ใช้ Apple Silicon
+  tr: Apple Silicon Mac'lerde güç tüketimini izlemek için bir TUI aracı
+  uk: TUI-інструмент для моніторингу споживання енергії на Mac з Apple Silicon
+  vi: Công cụ TUI để theo dõi mức sử dụng điện năng trên Mac dùng Apple Silicon
 x:
   source: https://github.com/graelo/pumas
   eget: graelo/pumas

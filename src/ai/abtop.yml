@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: abtop 是一个类似 top 的 CLI 工具，用于实时监控多个 AI 编程助手（Claude Code、Codex CLI 等）的 Token 用量、上下文窗口和速率限制。
   en: abtop is a top-like CLI tool for real-time monitoring of multiple AI coding agents, showing token usage, context window, and rate limits.
+  cs: abtop je CLI nástroj podobný nástroji top pro real-time monitorování více AI programovacích asistentů, zobrazující spotřebu tokenů, kontextní okno a limity rychlosti.
+  de: abtop ist ein CLI-Werkzeug ähnlich top zur Echtzeit-Überwachung mehrerer KI-Programmierassistenten und zeigt Tokenverbrauch, Kontextfenster und Ratenlimits an.
+  es: abtop es una herramienta de CLI similar a top para supervisar en tiempo real varios asistentes de programación con IA, mostrando uso de tokens, ventana de contexto y límites de tasa.
+  fr: abtop est un outil CLI similaire à top pour surveiller en temps réel plusieurs assistants de programmation IA, en affichant l'utilisation de jetons, la fenêtre de contexte et les limites de débit.
+  id: abtop adalah alat CLI mirip top untuk memantau secara real-time beberapa asisten pemrograman AI, menampilkan penggunaan token, jendela konteks, dan batas laju.
+  it: abtop è uno strumento CLI simile a top per il monitoraggio in tempo reale di più assistenti di programmazione IA, che mostra utilizizzo dei token, finestra di contesto e limiti di frequenza.
+  ja: abtop は top に似た CLI ツールで、複数の AI コーディングエージェントをリアルタイムで監視し、トークン使用量、コンテキストウィンドウ、レート制限を表示します。
+  ko: abtop은 top과 유사한 CLI 도구로, 여러 AI 코딩 에이전트를 실시간으로 모니터링하며 토큰 사용량, 컨텍스트 윈도우, 속도 제한을 보여줍니다.
+  pl: abtop to narzędzie CLI podobne do top, do monitorowania w czasie rzeczywistym wielu asystentów programowania AI, wyświetlające zużycie tokenów, okno kontekstu i limity żądań.
+  pt: abtop é uma ferramenta de CLI semelhante ao top para monitorar em tempo real vários assistentes de programação com IA, mostrando uso de tokens, janela de contexto e limites de taxa.
+  ro: abtop este un instrument CLI similar cu top pentru monitorizarea în timp real a mai multor agenți de programare AI, afișând utilizarea tokenurilor, fereastra de context și limitele de rată.
+  ru: abtop — это CLI-инструмент, похожий на top, для мониторинга в реальном времени нескольких ИИ-ассистентов программирования с отображением расхода токенов, контекстного окна и лимитов запросов.
+  th: abtop เป็นเครื่องมือ CLI คล้าย top สำหรับติดตามเมตติดต่อผู้ช่วยเขียนโค้ดด้วย AI แบบเรียลไทม์ พร้อมแสดงการใช้โทเคน หน้าต่างบริบท และขีดจำกัดอัตรา
+  tr: abtop, birden fazla AI kodlama asistanını gerçek zamanlı izlemek için top benzeri bir CLI aracıdır; token kullanımını, bağlam penceresini ve hız sınırlarını gösterir.
+  uk: abtop — це CLI-інструмент, схожий на top, для моніторингу в реальному часі кількох ІІ-асистентів програмування з показом витрати токенів, контекстного вікна та лімітів запитів.
+  vi: abtop là công cụ CLI tương tự top để theo dõi thời gian thực nhiều trợ lý lập trình AI, hiển thị mức dùng token, cửa sổ ngữ cảnh và giới hạn tốc độ.
 x:
   source: https://github.com/graykode/abtop
   eget: graykode/abtop

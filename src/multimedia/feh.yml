@@ -2,6 +2,22 @@ lang: C
 desc:
   en: Image Viewer and Cataloguer
   cn: 图像查看器和目录管理器
+  cs: Prohlížeč a katalogizátor obrázků
+  de: Bildbetrachter und Katalogisierer
+  es: Visor y catalogador de imágenes
+  fr: Visionneuse et catalogueur d'images
+  id: Penampil dan katalog gambar
+  it: Visualizzatore e catalogatore di immagini
+  ja: 画像ビューアとカタログツール
+  ko: 이미지 뷰어 및 카탈로그 도구
+  pl: Przeglądarka i katalogizator obrazów
+  pt: Visualizador e catalogador de imagens
+  ro: Vizualizator și catalogator de imagini
+  ru: Просмотрщик и каталогизатор изображений
+  th: โปรแกรมดูภาพและจัดทำแคตตาล็อกรูปภาพ
+  tr: Görüntü görüntüleyici ve kataloglayıcı
+  uk: Переглядач і каталогізатор зображень
+  vi: Trình xem và lập danh mục hình ảnh
 homepage: https://github.com/derf/feh
 x:
   source: https://github.com/derf/feh

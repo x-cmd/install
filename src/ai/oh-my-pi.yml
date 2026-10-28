@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 极简 Agent Pi 的开箱即用分叉，补齐 LSP、调试适配器、持久化运行时、浏览器/桌面自动化与子 Agent，把终端变成完整的 AI 编程工作台
   en: Batteries-included fork of the minimalist Pi coding agent — adds LSP, debug adapters, persistent runtimes, browser/desktop automation and subagents out of the box.
+  cs: Fork minimalistického kódovacího agenta Pi se vším potřebným – hned od začátku přidává LSP, debug adaptéry, persistentní runtimes, automatizaci prohlížeče a desktopu a subagenty.
+  de: Batteries-included-Fork des minimalistischen Pi-Coding-Agents – bringt LSP, Debug-Adapter, persistente Laufzeiten, Browser-/Desktop-Automatisierung und Subagents von Haus aus mit.
+  es: "Fork del agente de programación minimalista Pi con todo incluido: añade LSP, adaptadores de depuración, runtimes persistentes, automatización de navegador y escritorio y subagentes de serie."
+  fr: Fork tout-en-un de l'agent de codage minimaliste Pi — ajoute LSP, adaptateurs de débogage, runtimes persistants, automatisation navigateur et desktop et sous-agents dès la boîte.
+  id: Fork lengkap dari agen coding Pi yang minimalistis — menambahkan LSP, debug adapter, runtime persisten, otomatisasi browser/desktop, dan subagen secara bawaan.
+  it: Fork completo dell'agente di coding minimalista Pi — aggiunge LSP, adattatori di debug, runtime persistenti, automazione browser e desktop e subagenti out of the box.
+  ja: ミニマルなPiコーディングエージェントの batteries-included フォーク — LSP、デバッグアダプタ、永続ランタイム、ブラウザ／デスクトップ自動化、サブエージェントを標準搭載で追加します。
+  ko: 미니멀한 Pi 코딩 에이전트의 batteries-included 포크 — LSP, 디버그 어댑터, 지속 런타임, 브라우저/데스크톱 자동화, 서브에이전트를 기본 제공으로 추가합니다.
+  pl: Fork minimalistycznego agenta kodującego Pi ze wszystkim w zestawie — dodaje LSP, adaptery debugowania, trwałe środowiska uruchomieniowe, automatyzację przeglądarki i pulpitu oraz subagentów.
+  pt: Fork completo do agente de programação minimalista Pi — adiciona LSP, adaptadores de depuração, runtimes persistentes, automação de navegador e desktop e subagentes prontos para uso.
+  ro: Fork complet al agentului de programare minimalist Pi — adaugă LSP, adaptori de depanare, runtime-uri persistente, automatizare browser și desktop și subagenți, gata de la instalare.
+  ru: Форк минималистичного кодинг-агента Pi со всем включённым — сразу добавляет LSP, отладочные адаптеры, постоянные среды выполнения, автоматизацию браузера и десктопа, а также субагентов.
+  th: ฟอร์กของเอเจนต์เขียนโค้ด Pi ที่เรียบง่าย พร้อมใช้งานครบชุด — เพิ่ม LSP ดีบั๊กแอดเปอร์เตอร์ รันไทม์แบบถาวร การอัตโนมัติเบราว์เซอร์และเดสก์ท็อป และซับเอเจนต์ตั้งแต่แรก
+  tr: Minimalist Pi kodlama ajanının her şeyiyle gelen çatalı — LSP, hata ayıklama bağdaştırıcıları, kalıcı çalışma zamanları, tarayıcı/masaüstü otomasyonu ve alt ajanları kutudan çıktığı gibi ekler.
+  uk: Форк мінімалістичного кодувального агента Pi з усім необхідним — одразу додає LSP, відладочні адаптери, сталі середовища виконання, автоматизацію браузера та десктопа, а також субагентів.
+  vi: Bản fork đầy đủ tính năng của agent lập trình tối giản Pi — bổ sung LSP, trình gỡ lỗi, runtime bền vững, tự động hóa trình duyệt/máy tính và subagent ngay từ đầu.
 x:
   source: https://github.com/can1357/oh-my-pi
   eget: can1357/oh-my-pi

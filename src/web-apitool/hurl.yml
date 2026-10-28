@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于运行以简单纯文本格式定义的 HTTP 请求
   en: runs HTTP requests defined in a simple plain text format
+  cs: Spouští HTTP požadavky definované v jednoduchém textovém formátu
+  de: Führt HTTP-Anfragen aus, die in einem einfachen Textformat definiert sind
+  es: Ejecuta solicitudes HTTP definidas en un sencillo formato de texto sin formato
+  fr: Exécute les requêtes HTTP définies dans un simple format texte brut
+  id: Menjalankan permintaan HTTP yang didefinisikan dalam format teks biasa sederhana
+  it: Esegue richieste HTTP definite in un semplice formato di testo semplice
+  ja: シンプルなプレーンテキスト形式で定義された HTTP リクエストを実行する
+  ko: 간단한 일반 텍스트 형식으로 정의된 HTTP 요청을 실행합니다
+  pl: Uruchamia żądania HTTP zdefiniowane w prostym formacie tekstowym
+  pt: Executa requisições HTTP definidas em um formato de texto simples
+  ro: Execută cereri HTTP definite într-un simplu format de text simplu
+  ru: Выполняет HTTP-запросы, заданные в простом текстовом формате
+  th: เรียกใช้คำขอ HTTP ที่กำหนดไว้ในรูปแบบข้อความธรรมดาอย่างง่าย
+  tr: Basit düz metin biçiminde tanımlanan HTTP isteklerini çalıştırır
+  uk: Виконує HTTP-запити, визначені в простому текстовому форматі
+  vi: Chạy các yêu cầu HTTP được định nghĩa ở định dạng văn bản thuần đơn giản
 x:
   source: https://github.com/Orange-OpenSource/hurl
   eget: Orange-OpenSource/hurl

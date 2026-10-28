@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: HTTP 负载生成器，ApacheBench (ab) 的替代工具
   en: HTTP load generator, ApacheBench (ab) replacement
+  cs: Generátor zátěže HTTP, alternativa k ApacheBench (ab)
+  de: HTTP-Lastgenerator, Ersatz für ApacheBench (ab)
+  es: Generador de carga HTTP, sustituto de ApacheBench (ab)
+  fr: Générateur de charge HTTP, remplaçant d'ApacheBench (ab)
+  id: Generator beban HTTP, pengganti ApacheBench (ab)
+  it: Generatore di carico HTTP, sostituto di ApacheBench (ab)
+  ja: HTTP 負荷生成ツール、ApacheBench (ab) の代替
+  ko: HTTP 부하 생성기, ApacheBench (ab)의 대체
+  pl: Generator obciążenia HTTP, zamiennik ApacheBench (ab)
+  pt: Gerador de carga HTTP, substituto do ApacheBench (ab)
+  ro: Generator de încărcare HTTP, înlocuitor pentru ApacheBench (ab)
+  ru: Генератор нагрузки HTTP, замена ApacheBench (ab)
+  th: ตัวสร้างโหลด HTTP ทางเลือกแทน ApacheBench (ab)
+  tr: HTTP yük oluşturucu, ApacheBench (ab) yerine geçen alternatif
+  uk: Генератор навантаження HTTP, заміна ApacheBench (ab)
+  vi: Trình tạo tải HTTP, thay thế cho ApacheBench (ab)
 x:
   source: https://github.com/rakyll/hey
   apt: hey

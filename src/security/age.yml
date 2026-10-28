@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   en: age is a simple, modern and secure file encryption tool, format, and Go library
   cn: age 是一个简单、现代和安全的文件加密工具、格式和 Go 库
+  cs: age je jednoduchý, moderní a bezpečný nástroj, formát a Go knihovna pro šifrování souborů
+  de: age ist ein einfaches, modernes und sicheres Werkzeug, Format und Go-Bibliothek zur Dateiverschlüsselung
+  es: age es una herramienta, formato y biblioteca de Go simple, moderno y seguro para cifrar archivos
+  fr: age est un outil, un format et une bibliothèque Go simples, modernes et sûrs pour le chiffrement de fichiers
+  id: age adalah alat, format, dan pustaka Go yang sederhana, modern, dan aman untuk enkripsi file
+  it: age è uno strumento, un formato e una libreria Go semplici, moderni e sicuri per la cifratura dei file
+  ja: age は、ファイル暗号化のためのシンプルでモダンかつ安全なツール、形式、Go ライブラリです
+  ko: age는 파일 암호화를 위한 간단하고 현대적인 도구이자 형식이며 Go 라이브러리입니다
+  pl: age to proste, nowoczesne i bezpieczne narzędzie, format oraz biblioteka Go do szyfrowania plików
+  pt: O age é uma ferramenta, formato e biblioteca Go simples, moderno e seguro para criptografia de arquivos
+  ro: age este un instrument, format și bibliotecă Go simplu, modern și sigur pentru criptarea fișierelor
+  ru: age — простой, современный и безопасный инструмент, формат и библиотека Go для шифрования файлов
+  th: age เป็นเครื่องมือ รูปแบบ และไลบรารี Go ที่เรียบง่าย ทันสมัย และปลอดภัยสำหรับการเข้ารหัสไฟล์
+  tr: age, dosya şifreleme için basit, modern ve güvenli bir araç, format ve Go kütüphanesidir
+  uk: age — простий, сучасний і безпечний інструмент, формат і бібліотека Go для шифрування файлів
+  vi: age là công cụ, định dạng và thư viện Go đơn giản, hiện đại và an toàn để mã hóa tệp
 x:
   source: https://github.com/FiloSottile/age
   eget: FiloSottile/age

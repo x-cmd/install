@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: DigitalOcean API 的官方命令行工具。
   en: The official command line interface for the DigitalOcean API.
+  cs: Oficiální příkazový řádek pro API DigitalOcean.
+  de: Die offizielle Kommandozeile für die DigitalOcean-API.
+  es: La interfaz de línea de comandos oficial para la API de DigitalOcean.
+  fr: L'interface de ligne de commande officielle pour l'API DigitalOcean.
+  id: Antarmuka baris perintah resmi untuk API DigitalOcean.
+  it: L'interfaccia a riga di comando ufficiale per l'API DigitalOcean.
+  ja: DigitalOcean API の公式コマンドラインインターフェース。
+  ko: DigitalOcean API용 공식 명령줄 인터페이스.
+  pl: Oficjalny wiersz poleceń dla API DigitalOcean.
+  pt: A interface de linha de comando oficial para a API do DigitalOcean.
+  ro: Interfața de linie de comandă oficială pentru API-ul DigitalOcean.
+  ru: Официальный интерфейс командной строки для API DigitalOcean.
+  th: อินเทอร์เฟซบรรทัดคำสั่งอย่างเป็นทางการสำหรับ DigitalOcean API
+  tr: DigitalOcean API için resmi komut satırı arayüzü.
+  uk: Офіційний інтерфейс командного рядка для API DigitalOcean.
+  vi: Giao diện dòng lệnh chính thức cho API DigitalOcean.
 x:
   source: https://github.com/digitalocean/doctl
   eget: digitalocean/doctl

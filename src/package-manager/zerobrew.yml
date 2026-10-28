@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 比 Homebrew 快 5-20 倍的实验性替代品——用 uv 风格架构在 macOS/Linux 管理 Homebrew 包，命令为 zb
   en: A 5-20x faster experimental Homebrew alternative that brings uv-style architecture to Homebrew packages on macOS and Linux
+  cs: Experimentální alternativa k Homebrew, 5-20krát rychlejší, která přináší architekturu ve stylu uv do balíčků Homebrew na macOS a Linuxu
+  de: Eine 5-20-mal schnellere experimentelle Homebrew-Alternative, die Homebrew-Paketen auf macOS und Linux eine uv-artige Architektur bringt
+  es: Una alternativa experimental a Homebrew entre 5 y 20 veces más rápida que aporta una arquitectura al estilo de uv a los paquetes de Homebrew en macOS y Linux
+  fr: Une alternative expérimentale à Homebrew, 5 à 20 fois plus rapide, qui apporte une architecture de type uv aux paquets Homebrew sur macOS et Linux
+  id: Alternatif eksperimental untuk Homebrew yang 5-20 kali lebih cepat dan menghadirkan arsitektur bergaya uv untuk paket Homebrew di macOS dan Linux
+  it: Un'alternativa sperimentale a Homebrew, 5-20 volte più veloce, che porta un'architettura in stile uv nei pacchetti Homebrew su macOS e Linux
+  ja: Homebrew の実験的な代替品で、5〜20倍高速で、macOS と Linux の Homebrew パッケージに uv 風のアーキテクチャをもたらす
+  ko: Homebrew의 실험적 대안으로 5~20배 더 빠르며, macOS와 Linux의 Homebrew 패키지에 uv풍 아키텍처를 도입합니다
+  pl: Eksperymentalna alternatywa dla Homebrew, 5-20 razy szybsza, wnosząca architekturę w stylu uv do pakietów Homebrew na macOS i Linuksie
+  pt: Uma alternativa experimental ao Homebrew, 5 a 20 vezes mais rápida, que traz uma arquitetura ao estilo do uv para pacotes do Homebrew no macOS e no Linux
+  ro: O alternativă experimentală pentru Homebrew, de 5-20 ori mai rapidă, care aduce o arhitectură în stilul uv pachetelor Homebrew pe macOS și Linux
+  ru: Экспериментальная альтернатива Homebrew, работающая в 5-20 раз быстрее и приносящая архитектуру в стиле uv пакетам Homebrew на macOS и Linux
+  th: ทางเลือกทดลองของ Homebrew ที่เร็วกว่า 5-20 เท่า พร้อมสถาปัตยกรรมสไตล์ uv สำหรับแพ็กเกจ Homebrew บน macOS และ Linux
+  tr: macOS ve Linux'ta Homebrew paketlerine uv tarzı mimari getiren, 5-20 kat daha hızlı deneysel Homebrew alternatifi
+  uk: Експериментальна альтернатива Homebrew, що працює у 5-20 разів швидше та приносить архітектуру в стилі uv пакетам Homebrew на macOS і Linux
+  vi: Giải pháp thay thế thử nghiệm cho Homebrew, nhanh hơn 5-20 lần, mang kiến trúc kiểu uv cho các gói Homebrew trên macOS và Linux
 x:
   source: https://github.com/lucasgelfond/zerobrew
   brew: lucasgelfond/zerobrew/zerobrew

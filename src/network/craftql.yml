@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
   cn: 一个命令行工具，用于可视化 GraphQL 模式，并将图形数据结构输出为 Graphviz 的.dot 格式
+  cs: Nástroj CLI pro vizualizaci GraphQL schémat a výstup grafové datové struktury ve formátu graphviz .dot
+  de: Ein CLI-Tool zum Visualisieren von GraphQL-Schemata und zum Ausgeben einer Graphdatenstruktur im Graphviz-.dot-Format
+  es: Una herramienta de CLI para visualizar esquemas GraphQL y exportar una estructura de datos de grafo en formato graphviz .dot
+  fr: Un outil en ligne de commande pour visualiser les schémas GraphQL et sortir une structure de données de graphe au format graphviz .dot
+  id: Alat CLI untuk memvisualisasikan skema GraphQL dan mengeluarkan struktur data graf dalam format graphviz .dot
+  it: Uno strumento CLI per visualizzare gli schemi GraphQL ed esportare una struttura dati a grafo nel formato graphviz .dot
+  ja: GraphQL スキーマを可視化し、グラフデータ構造を graphviz .dot 形式で出力する CLI ツール
+  ko: GraphQL 스키마를 시각화하고 그래프 데이터 구조를 graphviz .dot 형식으로 출력하는 CLI 도구
+  pl: Narzędzie CLI do wizualizacji schematów GraphQL i eksportowania struktury danych grafu w formacie graphviz .dot
+  pt: Uma ferramenta de CLI para visualizar esquemas GraphQL e gerar uma estrutura de dados de grafo no formato graphviz .dot
+  ro: Un instrument CLI pentru vizualizarea schemelor GraphQL și afișarea unei structuri de date graf în formatul graphviz .dot
+  ru: CLI-инструмент для визуализации схем GraphQL и вывода структуры данных графа в формате graphviz .dot
+  th: เครื่องมือ CLI สำหรับแสดงภาพสคีมา GraphQL และส่งออกโครงสร้างข้อมูลกราฟในรูปแบบ graphviz .dot
+  tr: GraphQL şemalarını görselleştirmek ve graf veri yapısını graphviz .dot biçiminde çıkarmak için bir CLI aracı
+  uk: CLI-інструмент для візуалізації схем GraphQL і виводу структури даних графу у форматі graphviz .dot
+  vi: Công cụ CLI để trực quan hóa lược đồ GraphQL và xuất cấu trúc dữ liệu đồ thị theo định dạng graphviz .dot
 x:
   source: https://github.com/yamafaktory/craftql
   cargo: craftql

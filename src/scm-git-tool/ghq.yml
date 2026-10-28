@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 轻松管理远程仓库
   en: 'Remote repository management made easy'
+  cs: Snadná správa vzdálených repozitářů
+  de: Einfache Verwaltung von Remote-Repositories
+  es: Gestión sencilla de repositorios remotos
+  fr: Gestion simplifiée des dépôts distants
+  id: Manajemen repositori jarak jauh yang mudah
+  it: Gestione semplice dei repository remoti
+  ja: リモートリポジトリの管理を簡単にする
+  ko: 원격 저장소를 쉽게 관리
+  pl: Łatwe zarządzanie zdalnymi repozytoriami
+  pt: Gerenciamento de repositórios remotos facilitado
+  ro: Managementul ușor al depozitelor remote
+  ru: Простое управление удалёнными репозиториями
+  th: จัดการ repository ระยะไกลได้อย่างง่ายดาย
+  tr: Uzak depo yönetimini kolaylaştırır
+  uk: Легке керування віддаленими репозиторіями
+  vi: Dễ dàng quản lý kho từ xa
 x:
   source: https://github.com/x-motemen/ghq
   eget: x-motemen/ghq

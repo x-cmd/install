@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 飞书/Lark 开放平台命令行工具
   en: A command-line tool for Lark/Feishu Open Platform
+  cs: Nástroj příkazové řádky pro open platformu Lark/Feishu
+  de: Ein Kommandozeilenwerkzeug für die Lark/Feishu Open Platform
+  es: Una herramienta de línea de comandos para Lark/Feishu Open Platform
+  fr: Un outil en ligne de commande pour la plateforme ouverte Lark/Feishu
+  id: Alat baris perintah untuk Open Platform Lark/Feishu
+  it: Uno strumento da riga di comando per Lark/Feishu Open Platform
+  ja: Lark/Feishu オーププラットフォーム向けのコマンドラインツール
+  ko: Lark/Feishu 오픈 플랫폼을 위한 명령줄 도구
+  pl: Narzędzie wiersza poleceń dla platformy otwartej Lark/Feishu
+  pt: Uma ferramenta de linha de comando para a Plataforma Aberta do Lark/Feishu
+  ro: Un instrument de linie de comandă pentru platforma deschisă Lark/Feishu
+  ru: Инструмент командной строки для открытой платформы Lark/Feishu
+  th: เครื่องมือบรรทัดคำสั่งสำหรับ Lark/Feishu Open Platform
+  tr: Lark/Feishu Açık Platformu için komut satırı aracı
+  uk: Інструмент командного рядка для відкритої платформи Lark/Feishu
+  vi: Công cụ dòng lệnh cho Open Platform Lark/Feishu
 x:
   source: https://github.com/larksuite/cli
   yay: lark-cli-bin

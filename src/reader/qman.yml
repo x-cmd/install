@@ -4,6 +4,22 @@ license: 'BSD-2-Clause'
 desc:
   cn: 更现代的终端 man 手册查看器
   en: 'A more modern man page viewer for our terminals'
+  cs: Modernější prohlížeč man stránek pro naše terminály
+  de: Ein modernerer Manpage-Viewer für unsere Terminals
+  es: Un visor de páginas de manual más moderno para nuestros terminales
+  fr: Un visualiseur de pages de manuel plus moderne pour nos terminaux
+  id: Penampil halaman manual yang lebih modern untuk terminal kami
+  it: Un visualizzatore di pagine di manuale più moderno per i nostri terminali
+  ja: 私たちのターミナル向け、よりモダンな man ページビューア
+  ko: 우리 터미널을 위한 더 현대적인 man 페이지 뷰어
+  pl: Bardziej nowoczesna przeglądarka stron man dla naszych terminali
+  pt: Um visualizador de páginas de manual mais moderno para os nossos terminais
+  ro: Un vizualizator de pagini de manual mai modern pentru terminalele noastre
+  ru: Более современный просмотрщик man-страниц для наших терминалов
+  th: โปรแกรมดูหน้าคู่มือ man ที่ทันสมัยกว่าสำหรับเทอร์มินัลของเรา
+  tr: Terminallerimiz için daha modern bir man sayfası görüntüleyici
+  uk: Більш сучасний переглядач сторінок man для наших терміналів
+  vi: Trình xem trang man hiện đại hơn cho các terminal của chúng tôi
 x:
   source: https://github.com/plp13/qman
   eget: plp13/qman

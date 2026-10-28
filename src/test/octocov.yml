@@ -3,6 +3,22 @@ homepage: https://github.com/k1LoW/octocov
 desc:
   cn: 一个用于收集代码指标（代码覆盖率、代码与测试比率、测试执行时间和您自己的自定义指标）的工具包
   en: a toolkit for collecting code metrics (code coverage, code to test ratio, test execution time and your own custom metrics).
+  cs: sada nástrojů pro sběr metrik kódu (pokrytí kódu, poměr kódu k testům, doba běhu testů a vlastní vlastní metriky).
+  de: ein Werkzeugkasten zum Erfassen von Code-Metriken (Codeabdeckung, Code-zu-Test-Verhältnis, Testausführungszeit und eigene benutzerdefinierte Metriken).
+  es: un conjunto de herramientas para recopilar métricas de código (cobertura de código, ratio de código a pruebas, tiempo de ejecución de pruebas y sus propias métricas personalizadas).
+  fr: une boîte à outils pour collecter des métriques de code (couverture du code, ratio code/tests, temps d'exécution des tests et vos propres métriques personnalisées).
+  id: perangkat untuk mengumpulkan metrik kode (cakupan kode, rasio kode terhadap tes, waktu eksekusi tes, dan metrik kustom Anda sendiri).
+  it: un toolkit per raccogliere metriche sul codice (copertura del codice, rapporto codice/test, tempo di esecuzione dei test e le proprie metriche personalizzate).
+  ja: コードメトリクスを収集するツールキット (コードカバレッジ、コードとテストの比率、テスト実行時間、独自のカスタムメトリクス)。).
+  ko: 코드 메트릭(코드 커버리지, 코드 대 테스트 비율, 테스트 실행 시간 및 사용자 정의 메트릭)을 수집하는 도구 모음).
+  pl: zestaw narzędzi do zbierania metryk kodu (pokrycie kodu, stosunek kodu do testów, czas wykonania testów oraz własne metryki niestandardowe).
+  pt: um kit de ferramentas para coletar métricas de código (cobertura de código, proporção de código para testes, tempo de execução dos testes e suas próprias métricas personalizadas).
+  ro: o trusă de instrumente pentru colectarea metricilor de cod (acoperire de cod, raport cod/ teste, timp de execuție a testelor și metricile dvs. personalizate).
+  ru: набор инструментов для сбора метрик кода (покрытие кода, отношение кода к тестам, время выполнения тестов и ваши собственные пользовательские метрики).
+  th: ชุดเครื่องมือสำหรับเก็บรวมเมทริกซ์ของโค้ด (ความครอบคลุมของโค้ด อัตราส่วนโค้ดต่อการทดสอบ เวลาที่ใช้รันเทสต์ และเมทริกซ์กำหนดเองของคุณ).
+  tr: kod metrikleri (kod kapsamı, kod/test oranı, test çalıştırma süresi ve kendi özel metrikleriniz) toplamak için bir araç seti).
+  uk: набір інструментів для збору метрик коду (покриття коду, співвідношення коду до тестів, час виконання тестів та власні користувацькі метрики).
+  vi: bộ công cụ để thu thập số liệu mã nguồn (độ phủ mã, tỷ lệ mã so với kiểm thử, thời gian chạy kiểm thử và các số liệu tùy chỉnh của bạn).
 x:
   source: https://github.com/k1LoW/octocov
   eget: k1LoW/octocov

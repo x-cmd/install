@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 适用于 Linux 的 C++ 98/11/14/17/20 手册页
   en: C++ 98/11/14/17/20 man page for Linux
+  cs: Man page pro C++ 98/11/14/17/20 pro Linux
+  de: C++ 98/11/14/17/20 man page for Linux
+  es: Página de manual de C++ 98/11/14/17/20 para Linux
+  fr: Page de manuel C++ 98/11/14/17/20 pour Linux
+  id: Halaman manual C++ 98/11/14/17/20 untuk Linux
+  it: Pagina di manuale C++ 98/11/14/17/20 per Linux
+  ja: Linux 用 C++ 98/11/14/17/20 マニュアルページ
+  ko: Linux용 C++ 98/11/14/17/20 맨 페이지
+  pl: Strona podręcznika man dla C++ 98/11/14/17/20 na Linuksie
+  pt: Página de manual do C++ 98/11/14/17/20 para Linux
+  ro: Pagină de manual C++ 98/11/14/17/20 pentru Linux
+  ru: Страница руководства man для C++ 98/11/14/17/20 в Linux
+  th: หน้าคู่มือ C++ 98/11/14/17/20 สำหรับ Linux
+  tr: Linux için C++ 98/11/14/17/20 man sayfası
+  uk: Сторінка man для C++ 98/11/14/17/20 у Linux
+  vi: Trang man cho C++ 98/11/14/17/20 trên Linux
 x:
   source: https://github.com/aitjcize/cppman
   eget: aitjcize/cppman

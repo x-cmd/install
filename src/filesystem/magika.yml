@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Magika 是使用深度学习检测常见文件内容类型的工具
   en: Magika is a tool to detect common file content types, using deep learning
+  cs: Magika je nástroj pro detekci běžných typů obsahu souborů, který využívá hluboké učení
+  de: Magika ist ein Werkzeug zur Erkennung gängiger Dateiinhalte, das Deep Learning nutzt
+  es: Magika es una herramienta para detectar tipos de contenido de archivo comunes, usando aprendizaje profundo
+  fr: Magika est un outil qui détecte les types de contenu de fichiers courants à l'aide de l'apprentissage profond
+  id: Magika adalah alat untuk mendeteksi tipe konten berkas umum, menggunakan deep learning
+  it: Magika è uno strumento per rilevare i tipi di contenuto dei file più comuni, usando il deep learning
+  ja: Magikaは、深層学習を使って一般的なファイルの内容タイプを検出するツールです。
+  ko: Magika는 딥러닝을 사용해 일반적인 파일 콘텐츠 유형을 감지하는 도구입니다.
+  pl: Magika to narzędzie do wykrywania typów zawartości plików, oparte na głębokim uczeniu
+  pt: Magika é uma ferramenta para detectar tipos comuns de conteúdo de arquivo, usando aprendizado profundo
+  ro: Magika este un instrument pentru detectarea tipurilor comune de conținut al fișierelor, folosind învățarea profundă
+  ru: Magika — это инструмент для опреде распространённых типов содержимого файлов с использованием глубокого обучения
+  th: Magika คือเครื่องมือตรวจจับชนิดเนื้อหาไฟล์ทั่วไปโดยใช้การเรียนรู้เชิงลึก
+  tr: Magika, derin öğrenmeyi kullanarak yaygın dosya içerik türlerini algılayan bir araçtır
+  uk: Magika — це інструмент для визначення поширених типів вмісту файлів з використанням глибокого навчання
+  vi: Magika là công cụ phát hiện các loại nội dung tệp phổ biến bằng học sâu
 x:
   source: https://github.com/google/magika
   eget: google/magika

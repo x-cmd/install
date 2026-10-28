@@ -3,6 +3,22 @@ homepage: https://git.savannah.gnu.org/cgit/coreutils.git
 desc:
   cn: GNU 核心实用程序是 GNU 操作系统的基本文件、shell 和文本操作实用程序
   en: The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system
+  cs: GNU Core Utilities jsou základní nástroje pro práci se soubory, shellem a textem v operačním systému GNU
+  de: Die GNU Core Utilities sind die grundlegenden Datei-, Shell- und Textbearbeitungswerkzeuge des GNU-Betriebssystems
+  es: Las GNU Core Utilities son las utilidades básicas de manipulación de archivos, shell y texto del sistema operativo GNU
+  fr: Les GNU Core Utilities sont les utilitaires de base de manipulation de fichiers, de shell et de texte du système d'exploitation GNU
+  id: GNU Core Utilities adalah utilitas dasar untuk penanganan berkas, shell, dan teks pada sistem operasi GNU
+  it: Le GNU Core Utilities sono le utilità di base per la manipolazione di file, shell e testo del sistema operativo GNU
+  ja: GNU Core Utilities は GNU オペレーティングシステムの基本的なファイル、シェル、テキスト操作ユーティリティです
+  ko: GNU Core Utilities는 GNU 운영체제의 기본 파일, 셸 및 텍스트 처리 유틸리티입니다
+  pl: GNU Core Utilities to podstawowe narzędzia do obsługi plików, powłoki i tekstu w systemie operacyjnym GNU
+  pt: As GNU Core Utilities são os utilitários básicos de manipulação de arquivos, shell e texto do sistema operacional GNU
+  ro: GNU Core Utilities sunt utilitarele de bază pentru manipularea fișierelor, a shell-ului și a textului în sistemul de operare GNU
+  ru: GNU Core Utilities — основные утилиты для работы с файлами, оболочкой и текстом в операционной системе GNU
+  th: GNU Core Utilities คือยูทิลิตี้พื้นฐานสำหรับจัดการไฟล์ เชลล์ และข้อความของระบบปฏิบัติการ GNU
+  tr: GNU Core Utilities, GNU işletim sisteminin temel dosya, kabuk ve metin işleme araçlarıdır
+  uk: GNU Core Utilities — це основні утиліти для роботи з файлами, оболонкою та текстом в операційній системі GNU
+  vi: GNU Core Utilities là các tiện ích cơ bản xử lý tệp, shell và văn bản của hệ điều hành GNU
 rule:
   darwin/brew:
     cmd: brew install coreutils

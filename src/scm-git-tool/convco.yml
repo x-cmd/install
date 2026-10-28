@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 传统的提交、更改日志、版本控制、验证
   en: Conventional commits, changelog, versioning, validation
+  cs: Konvenční commity, changelog, verzování, validace
+  de: Konventionelle Commits, Changelog, Versionierung, Validierung
+  es: Commits convencionales, changelog, versionado, validación
+  fr: Commits conventionnels, changelog, versioning, validation
+  id: Commit konvensional, changelog, versionering, validasi
+  it: Commit convenzionali, changelog, versionamento, validazione
+  ja: Conventional Commits、changelog、バージョニング、検証
+  ko: 컨벤셔널 커밋, 체인지로그, 버전 관리, 검증
+  pl: Konwencjonalne commity, changelog, wersjonowanie, walidacja
+  pt: Commits convencionais, changelog, versionamento, validação
+  ro: Commituri convenționale, changelog, versionare, validare
+  ru: Conventional Commits, changelog, версионирование, валидация
+  th: Conventional commits, changelog, การกำหนดเวอร์ชัน, การตรวจสอบ
+  tr: Konvansiyonel commitler, changelog, sürümleme, doğrulama
+  uk: Conventional Commits, changelog, версіонування, валідація
+  vi: Commit theo quy ước, changelog, quản lý phiên bản, xác thực
 x:
   source: https://github.com/convco/convco
   eget: convco/convco

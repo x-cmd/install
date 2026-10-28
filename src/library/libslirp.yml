@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/slirp/libslirp
 desc:
   en: libslirp is a user-mode networking library used by virtual machines, containers or various tools
   cn: Libslirp 是一个用户模式的网络库，由虚拟机、容器或各种工具使用
+  cs: libslirp je uživatelská síťová knihovna používaná virtuálními stroji, kontejnery nebo různými nástroji
+  de: libslirp ist eine Benutzermodus-Netzwerkbibliothek, die von virtuellen Maschinen, Containern oder verschiedenen Werkzeugen verwendet wird
+  es: libslirp es una biblioteca de red en modo de usuario utilizada por máquinas virtuales, contenedores o distintas herramientas
+  fr: libslirp est une bibliothèque réseau en mode utilisateur utilisée par les machines virtuelles, les conteneurs ou divers outils
+  id: libslirp adalah pustaka jaringan mode pengguna yang digunakan oleh mesin virtual, kontainer, atau berbagai alat
+  it: libslirp è una libreria di rete in modalità utente utilizzata da macchine virtuali, container o vari strumenti
+  ja: libslirp は、仮想マシン、コンテナ、各種ツールで使用されるユーザモードネットワークライブラリです
+  ko: libslirp는 가상 머신, 컨테이너 또는 다양한 도구에서 사용하는 사용자 모드 네트워킹 라이브러리입니다
+  pl: libslirp to biblioteka sieciowa w trybie użytkownika używana przez maszyny wirtualne, kontenery lub różne narzędzia
+  pt: libslirp é uma biblioteca de rede em modo de usuário usada por máquinas virtuais, contêineres ou diversas ferramentas
+  ro: libslirp este o bibliotecă de rețea în mod utilizator folosită de mașini virtuale, containere sau diverse unelte
+  ru: libslirp — это сетевая библиотека пользовательского режима, используемая виртуальными машинами, контейнерами и различными инструментами
+  th: libslirp เป็นไลบรารีเครือข่ายโหมดผู้ใช้ที่เครื่องเสมือน คอนเทนเนอร์ หรือเครื่องมือต่าง ๆ ใช้งาน
+  tr: libslirp, sanal makineler, konteynerler veya çeşitli araçlar tarafından kullanılan bir kullanıcı modu ağ kitaplığıdır
+  uk: libslirp — це бібліотека мережі в режимі користувача, яку використовують віртуальні машини, контейнери та різні інструменти
+  vi: libslirp là thư viện mạng ở chế độ người dùng, được các máy ảo, container hoặc nhiều công cụ khác sử dụng
 rule:
   darwin/brew:
     cmd: brew install libslirp

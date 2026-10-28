@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: JSON 查询语言 CLI 工具
   en: 'A JSON Query Language CLI tool'
+  cs: Nástroj CLI pro JSON Query Language
+  de: Ein CLI-Werkzeug für die JSON Query Language
+  es: Una herramienta CLI de JSON Query Language
+  fr: Un outil CLI pour le langage de requête JSON
+  id: Alat CLI untuk JSON Query Language
+  it: Uno strumento CLI per il JSON Query Language
+  ja: JSON Query Language の CLI ツール
+  ko: JSON Query Language CLI 도구
+  pl: Narzędzie CLI dla JSON Query Language
+  pt: Uma ferramenta CLI para JSON Query Language
+  ro: Un instrument CLI pentru JSON Query Language
+  ru: Инструмент командной строки для JSON Query Language
+  th: เครื่องมือ CLI สำหรับ JSON Query Language
+  tr: JSON Query Language için bir CLI aracı
+  uk: Інструмент командного рядка для JSON Query Language
+  vi: Công cụ CLI cho JSON Query Language
 x:
   source: https://github.com/yamafaktory/jql
   eget: yamafaktory/jql

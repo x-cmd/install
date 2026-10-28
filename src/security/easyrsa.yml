@@ -3,6 +3,22 @@ homepage: https://github.com/OpenVPN/easy-rsa
 desc:
   cn: easy-rsa 是一个用于构建和管理 PKI CA 的 CLI 实用程序
   en: easy-rsa is a CLI utility to build and manage a PKI CA
+  cs: easy-rsa je CLI nástroj pro budování a správu PKI CA
+  de: easy-rsa ist ein CLI-Tool zum Erstellen und Verwalten einer PKI-CA
+  es: easy-rsa es una utilidad de CLI para crear y gestionar una PKI CA
+  fr: easy-rsa est un utilitaire CLI pour créer et gérer une autorité de certification PKI
+  id: easy-rsa adalah utilitas CLI untuk membangun dan mengelola PKI CA
+  it: easy-rsa è un'utilità CLI per creare e gestire una PKI CA
+  ja: easy-rsa は PKI CA の構築と管理を行う CLI ユーティリティです
+  ko: easy-rsa는 PKI CA를 구축하고 관리하는 CLI 유틸리티입니다
+  pl: easy-rsa to narzędzie CLI do tworzenia i zarządzania urzędem certyfikacji PKI
+  pt: O easy-rsa é um utilitário de CLI para criar e gerenciar uma CA PKI
+  ro: easy-rsa este un utilitar CLI pentru construirea și gestionarea unei CA PKI
+  ru: easy-rsa — это CLI-утилита для создания и управления CA PKI
+  th: easy-rsa คือยูทิลิตี CLI สำหรับสร้างและจัดการ PKI CA
+  tr: easy-rsa, bir PKI CA oluşturmak ve yönetmek için bir CLI aracıdır
+  uk: easy-rsa — це CLI-утиліта для створення та керування CA PKI
+  vi: easy-rsa là tiện ích CLI để xây dựng và quản lý CA PKI
 x:
   source: https://github.com/OpenVPN/easy-rsa
   eget: OpenVPN/easy-rsa

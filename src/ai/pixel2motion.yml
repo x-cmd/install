@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: nolangz 开源的 Codex/Claude Skill，把静态像素 logo 转成干净 SVG，再生成可审查、可回放的 SVG 动效与 HTML 展示页。
   en: nolangz's open-source Codex/Claude Skill that converts static raster logos into clean SVG and generates auditable, replayable SVG animations and HTML showcase pages.
+  cs: Open source Codex/Claude Skill od nolangz, který převádí statické rastrové loga na čisté SVG a generuje auditovatelné, přehrávanelné SVG animace a HTML prezentační stránky.
+  de: Die quelloffene Codex/Claude Skill von nolangz, die statische Rasterlogos in sauberes SVG umwandelt und prüfbare, abspielbare SVG-Animationen sowie HTML-Präsentationsseiten erzeugt.
+  es: Skill de código abierto Codex/Claude de nolangz que convierte logotipos ráster estáticos en SVG limpio y genera animaciones SVG auditables y reproducibles y páginas de muestra en HTML.
+  fr: Skill Codex/Claude open source de nolangz qui convertit les logos raster statiques en SVG propre et génère des animations SVG auditables et rejouables ainsi que des pages de présentation HTML.
+  id: Skill Codex/Claude sumber terbuka dari nolangz yang mengubah logo raster statis menjadi SVG bersih serta menghasilkan animasi SVG yang dapat diaudit dan diputar ulang beserta halaman pajangan HTML.
+  it: Skill open source Codex/Claude di nolangz che converte i loghi raster statici in SVG pulito e genera animazioni SVG verificabili e riproducibili e pagine di showcase HTML.
+  ja: nolangz のオープンソース Codex/Claude Skill。静止したラスターロゴを清潔な SVG に変換し、監査・再生可能な SVG アニメーションと HTML ショーケースページを生成します。
+  ko: nolangz의 오픈 소스 Codex/Claude Skill으로, 정적 래스터 로고를 깔끔한 SVG로 변환하고 감사 및 재생 가능한 SVG 애니메이션과 HTML 쇼케이스 페이지를 생성합니다.
+  pl: Otwartoźródłowy Skill Codex/Claude autorstwa nolangz, który zamienia statyczne logotypy rastrowe w czysty SVG i generuje audytowalne, odtwarzalne animacje SVG oraz strony prezentacyjne HTML.
+  pt: Skill Codex/Claude de código aberto da nolangz que converte logotipos raster estáticos em SVG limpo e gera animações SVG auditáveis e reproduzíveis e páginas de showcase em HTML.
+  ro: Skill Codex/Claude open source al lui nolangz care convertește logo-urile raster statice în SVG curat și generează animații SVG verificabile și relansabile plus pagini de prezentare HTML.
+  ru: Открытый Skill Codex/Claude от nolangz, который преобразует статичные растровые логотипы в чистый SVG и генерирует проверяемые и воспроизводимые SVG-анимации и HTML-страницы витрины.
+  th: Codex/Claude Skill โอเพนซอร์สของ nolangz ที่แปลงโลโก้แบบพิกเซลคงที่ให้เป็น SVG ที่สะอาด และสร้างแอนิเมชัน SVG ที่ตรวจสอบและเล่นซ้ำได้ พร้อมหน้าแสดงตัวอย่าง HTML.
+  tr: nolangz'in açık kaynak Codex/Claude Skill'i; statik raster logoları temiz SVG'ye dönüştürür ve denetlenebilir, yeniden oynatılabilir SVG animasyonları ile HTML tanıtım sayfaları üretir.
+  uk: Відкритий Skill Codex/Claude від nolangz, який перетворює статичні растрові логотипи на чистий SVG і генерує перевірні та відтворювані SVG-анімації й HTML-сторінки показу.
+  vi: Skill Codex/Claude mã nguồn mở của nolangz, chuyển logo raster tĩnh thành SVG sạch và tạo hoạt ảnh SVG có thể kiểm tra, phát lại cùng các trang showcase HTML.
 x:
   source: https://github.com/nolangz/pixel2motion
 rule:

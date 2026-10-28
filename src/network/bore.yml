@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个简单的 CLI 工具，用于建立到本地主机的隧道
   en: A simple CLI tool for establishing a tunnel to localhost
+  cs: Jednoduchý nástroj CLI pro vytvoření tunelu na localhost
+  de: Ein einfaches CLI-Werkzeug zum Herstellen eines Tunnels zu localhost
+  es: Una sencilla utilidad de CLI para establecer un túnel hacia localhost
+  fr: Un simple utilitaire CLI pour établir un tunnel vers localhost
+  id: Alat CLI sederhana untuk membuat terowongan ke localhost
+  it: Un semplice strumento CLI per stabilire un tunnel verso localhost
+  ja: localhost へのトンネルを確立するためのシンプルな CLI ツール
+  ko: localhost로 터널을 설정하기 위한 간단한 CLI 도구
+  pl: Proste narzędzie CLI do nawiązywania tunelu do localhost
+  pt: Uma ferramenta de CLI simples para estabelecer um túnel para localhost
+  ro: Un instrument CLI simplu pentru stabilirea unui tunel către localhost
+  ru: Простой инструмент CLI для создания туннеля к localhost
+  th: เครื่องมือ CLI อย่างง่ายสำหรับสร้างอุโมงค์ไปยัง localhost
+  tr: localhost'a bir tünel kurmak için basit bir CLI aracı
+  uk: Простий інструмент CLI для встановлення тунелю до localhost
+  vi: Công cụ CLI đơn giản để thiết lập đường hầm tới localhost
 x:
   source: https://github.com/ekzhang/bore
   eget: ekzhang/bore

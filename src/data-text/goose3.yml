@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: 用 Python 完全重写的文章提取器
   en: Article extractor completely rewritten in Python
+  cs: Nástroj na extrakci článků kompletně přepsaný v Pythonu
+  de: Artikel-Extraktor, vollständig in Python neu geschrieben
+  es: Extractor de artículos reescrito por completo en Python
+  fr: Extracteur d'articles entièrement réécrit en Python
+  id: Ekstraktor artikel yang sepenuhnya ditulis ulang dengan Python
+  it: Estrattore di articoli completamente riscritto in Python
+  ja: Python で完全に書き直された記事抽出ツール
+  ko: Python으로 완전히 다시 작성된 기사 추출기
+  pl: Ekstraktor artykułów w całości przepisany w Pythonie
+  pt: Extrator de artigos completamente reescrito em Python
+  ro: Extractor de articole complet rescris în Python
+  ru: Экстрактор статей, полностью переписанный на Python
+  th: เครื่องมือดึงบทความที่เขียนใหม่ทั้งหมดด้วย Python
+  tr: Tamamen Python ile yeniden yazılmış makale çıkarıcı
+  uk: Екстрактор статей, повністю переписаний на Python
+  vi: Trình trích xuất bài viết được viết lại hoàn toàn bằng Python
 homepage: https://github.com/goose3/goose3
 license: Apache-2.0
 x:

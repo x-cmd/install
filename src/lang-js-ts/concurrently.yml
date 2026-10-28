@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Run npm commands concurrently
   cn: 并行运行 npm 命令
+  cs: Spouští npm příkazy současně
+  de: npm-Befehle parallel ausführen
+  es: Ejecutar comandos npm de forma concurrente
+  fr: Exécuter les commandes npm simultanément
+  id: Menjalankan perintah npm secara bersamaan
+  it: Esegui i comandi npm contemporaneamente
+  ja: npm コマンドを並行して実行する
+  ko: npm 명령을 동시에 실행
+  pl: Uruchamiaj polecenia npm równolegle
+  pt: Executar comandos npm simultaneamente
+  ro: Rulează comenzi npm concurent
+  ru: Запускать команды npm одновременно
+  th: เรียกคำสั่ง npm พร้อมกัน
+  tr: npm komutlarını eşzamanlı olarak çalıştırır
+  uk: Виконувати команди npm одночасно
+  vi: Chạy các lệnh npm đồng thời
 x:
   source: https://github.com/open-cli-tools/concurrently#readme
   yay: concurrently

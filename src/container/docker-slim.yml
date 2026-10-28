@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 优化您的容器体验。让您的容器更优质、更小巧、更安全，并减少工作量
   en: Optimize Your Experience with Containers. Make Your Containers Better, Smaller, More Secure and Do Less to Get There
+  cs: Optimalizujte svůj zážitek s kontejnery. Udělejte své kontejnery lepší, menší a bezpečnější a oddejte si méně práce
+  de: Optimieren Sie Ihr Erlebnis mit Containern. Machen Sie Ihre Container besser, kleiner und sicherer und sparen Sie sich Arbeit
+  es: Optimiza tu experiencia con contenedores. Haz que tus contenedores sean mejores, más pequeños y más seguros, y haz menos para llegar a ello
+  fr: Optimisez votre expérience avec les conteneurs. Rendez vos conteneurs meilleurs, plus petits et plus sûrs, et faites moins d'efforts pour y parvenir
+  id: Optimalkan pengalaman Anda dengan kontainer. Jadikan kontainer Anda lebih baik, lebih kecil, lebih aman, dan membutuhkan lebih sedikit pekerjaan
+  it: Ottimizza la tua esperienza con i container. Rendi i tuoi container migliori, più piccoli e più sicuri, e fai meno per ottenerlo
+  ja: コンテナでの体験を最適化。コンテナをより良く、より小さく、より安全にし、そこに至るまでの手間を減らしましょう
+  ko: 컨테이너 경험을 최적화하세요. 컨테이너를 더 좋고, 더 작고, 더 안전하게 만들고, 그 과정에서 번거로움을 줄이세요
+  pl: Zoptymalizuj środowisko kontenerów. Uczyń swoje kontenery lepszymi, mniejszymi i bezpieczniejszymi, przy mniejszym nakładzie pracy
+  pt: Otimize sua experiência com contêineres. Torne seus contêineres melhores, menores e mais seguros, e faça menos trabalho para chegar lá
+  ro: Optimizați-vă experiența cu containerele. Faceți-vă containerele mai bune, mai mici și mai sigure, și depuneți mai puțin efort pentru asta
+  ru: Оптимизируйте работу с контейнерами. Сделайте контейнеры лучше, компактнее и безопаснее, приложив меньше усилий
+  th: เพิ่มประสิทธิภาพประสบการณ์คอนเทนเนอร์ของคุณ ทำให้คอนเทนเนอร์ดีขึ้น เล็กลง ปลอดภัยขึ้น และใช้ความพยายามน้อยลง
+  tr: Konteyner deneyiminizi optimize edin. Konteynerlerinizi daha iyi, daha küçük ve daha güvenli hale getirin, buna ulaşmak için daha az iş yapın
+  uk: Оптимізуйте роботу з контейнерами. Зробіть контейнери кращими, компактнішими та безпечнішими, витрачаючи менше зусиль
+  vi: Tối ưu trải nghiệm container của bạn. Làm cho container tốt hơn, nhỏ hơn và an toàn hơn, đồng thời giảm bớt công sức
 x:
   source: https://github.com/docker-slim/docker-slim
   brew: docker-slim

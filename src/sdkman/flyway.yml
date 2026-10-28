@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 自动化数据库迁移
   en: Automated database migration
+  cs: Automatizovaná migrace databází
+  de: Automatisierte Datenbankmigration
+  es: Migración de bases de datos automatizada
+  fr: Migration de base de données automatisée
+  id: Migrasi database otomatis
+  it: Migrazione automatica dei database
+  ja: 自動化されたデータベース移行
+  ko: 자동화된 데이터베이스 마이그레이션
+  pl: Zautomatyzowana migracja baz danych
+  pt: Migração de banco de dados automatizada
+  ro: Migrare automatizată a bazelor de date
+  ru: Автоматизированная миграция баз данных
+  th: การย้ายฐานข้อมูลอัตโนมัติ
+  tr: Otomatik veritabanı taşıma
+  uk: Автоматизована міграція баз даних
+  vi: Di chuyển cơ sở dữ liệu tự động
 x:
   source: https://github.com/flyway/flyway
   eget: flyway/flyway

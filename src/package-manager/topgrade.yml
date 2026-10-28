@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 一键升级所有软件
   en: 'Upgrade all the things'
+  cs: Upgradujte všechno
+  de: Alles aktualisieren
+  es: Actualiza todo
+  fr: Mettez tout à jour
+  id: Tingkatkan semuanya
+  it: Aggiorna ogni cosa
+  ja: すべてをアップグレードする
+  ko: 모든 것을 업그레이드
+  pl: Zaktualizuj wszystko
+  pt: Atualize tudo
+  ro: Actualizează toate
+  ru: Обновите всё
+  th: อัปเกรดทุกอย่าง
+  tr: Her şeyi güncelle
+  uk: Оновіть усе
+  vi: Nâng cấp mọi thứ
 x:
   source: https://github.com/topgrade-rs/topgrade
   eget: topgrade-rs/topgrade

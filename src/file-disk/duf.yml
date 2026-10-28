@@ -3,6 +3,22 @@ homepage: https://github.com/muesli/duf
 desc:
   cn: '`df` 命令的现代化替代品， 用于查看磁盘空间使用情况和磁盘文件系统信息'
   en: A modern alternative to the `df` command, used to view disk space usage and disk file system information
+  cs: Moderní alternativa k příkazu `df`, která se používá k zobrazení využití diskového prostoru a informací o souborových systémech disku
+  de: Eine moderne Alternative zum Befehl `df`, die zum Anzeigen des Datenträgerplatzbedarfs und der Dateisysteminformationen des Datenträgers verwendet wird
+  es: Una alternativa moderna al comando `df`, que se usa para ver el uso del espacio en disco y la información del sistema de archivos del disco
+  fr: Une alternative moderne à la commande `df`, utilisée pour consulter l'utilisation de l'espace disque et les informations du système de fichiers du disque
+  id: Alternatif modern untuk perintah `df`, digunakan untuk melihat penggunaan ruang disk dan informasi sistem berkas disk
+  it: Un'alternativa moderna al comando `df`, usata per visualizzare l'uso dello spazio disco e le informazioni sul file system del disco
+  ja: "`df` コマンドのモダンな代替品で、ディスク容量の使用状況とディスクのファイルシステム情報を表示するために使われます"
+  ko: "`df` 명령의 현대적인 대안으로, 디스크 공간 사용량과 디스크 파일 시스템 정보를 확인하는 데 사용됩니다"
+  pl: Nowoczesna alternatywa dla polecenia `df`, używana do przeglądania wykorzystania miejsca na dysku i informacji o systemie plików dysku
+  pt: Uma alternativa moderna ao comando `df`, usada para ver o uso de espaço em disco e as informações do sistema de arquivos do disco
+  ro: O alternativă modernă la comanda `df`, folosită pentru a vedea utilizarea spațiului pe disc și informațiile sistemului de fișiere al discului
+  ru: Современная альтернатива команде `df`, используемая для просмотра использования дискового пространства и сведений о файловой системе диска
+  th: ทางเลือกสมัยใหม่ของคำสั่ง `df` ใช้ดูการใช้พื้นที่ดิสก์และข้อมูลระบบไฟล์ของดิสก์
+  tr: "`df` komutuna modern bir alternatiftir; disk alanı kullanımını ve disk dosya sistemi bilgilerini görüntülemek için kullanılır"
+  uk: Сучасна альтернатива команді `df`, яка використовується для перегляду використання дискового простору та відомостей про файлову систему диска
+  vi: Một giải pháp thay thế hiện đại cho lệnh `df`, dùng để xem mức sử dụng dung lượng đĩa và thông tin hệ thống tệp của đĩa
 x:
   source: https://github.com/muesli/duf
   eget: muesli/duf

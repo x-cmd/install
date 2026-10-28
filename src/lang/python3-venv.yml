@@ -3,6 +3,22 @@ homepage: https://github.com/python/cpython
 desc:
   cn: python3 的 venv 模块（默认 python3 版本）
   en: venv module for python3 (default python3 version)
+  cs: modul venv pro python3 (výchozí verze python3)
+  de: venv-Modul für python3 (Standardversion von python3)
+  es: módulo venv para python3 (versión predeterminada de python3)
+  fr: module venv pour python3 (version par défaut de python3)
+  id: modul venv untuk python3 (versi python3 bawaan)
+  it: modulo venv per python3 (versione predefinita di python3)
+  ja: python3 の venv モジュール（デフォルトの python3 バージョン）
+  ko: python3용 venv 모듈(기본 python3 버전)
+  pl: moduł venv dla python3 (domyślna wersja python3)
+  pt: módulo venv para python3 (versão padrão do python3)
+  ro: modulul venv pentru python3 (versiunea implicită python3)
+  ru: модуль venv для python3 (версия python3 по умолчанию)
+  th: โมดูล venv สำหรับ python3 (รุ่น python3 เริ่มต้น)
+  tr: python3 için venv modülü (varsayılan python3 sürümü)
+  uk: модуль venv для python3 (типова версія python3)
+  vi: mô-đun venv cho python3 (phiên bản python3 mặc định)
 x:
   source: https://github.com/python/cpython
   apt: python3-venv

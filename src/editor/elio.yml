@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 功能齐全的终端文件管理器，支持丰富预览、内联图片与批量操作
   en: 'Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support'
+  cs: Svižlý terminálový správce souborů s bohatými náhledy, vloženými obrázky, hromadnými akcemi a podporou koše
+  de: Ein flinker Terminal-Dateimanager mit reichhaltigen Vorschauen, Inline-Bildern, Massenaktionen und Papierkorb-Unterstützung
+  es: Un gestor de archivos de terminal rápido y completo, con vistas previas enriquecidas, imágenes en línea, acciones masivas y soporte de papelera
+  fr: Un gestionnaire de fichiers en terminal rapide et complet, avec aperçus riches, images intégrées, actions groupées et prise en charge de la corbeille
+  id: Snappy, terminal file manager lengkap dengan pratinjau kaya, gambar sebaris, tindakan massal, dan dukungan sampah
+  it: Un file manager da terminale veloce e completo, con anteprime ricche, immagini in linea, azioni di massa e supporto del cestino
+  ja: 軽快で機能齊備なターミナルファイルマネージャー。豊富なプレビュー、インライン画像、一括操作、ゴミ箱サポートに対応しています
+  ko: 풍부한 미리보기, 인라인 이미지, 일괄 작업, 휴지통 지원을 갖춘 빠르고 완전한 터미널 파일 관리자
+  pl: Szybki, bogaty w funkcje terminalowy menedżer plików z rozbudowanymi podglądami, obrazami w tekście, operacjami masowymi i obsługą kosza
+  pt: Um gerenciador de arquivos de terminal rápido e completo, com pré-visualizações ricas, imagens embutidas, ações em massa e suporte à lixeira
+  ro: Un manager de fișiere în terminal, rapid și complet, cu previzualizări bogate, imagini inline, acțiuni în masă și suport pentru coș
+  ru: Быстрый и многофункциональный терминальный менеджер файлов с подробными предпросмотрами, встроенными изображениями, массовыми действиями и поддержкой корзины
+  th: ตัวจัดการไฟล์บนเทอร์มินัลที่คล่องแคล่วและครบฟัน พร้อมตัวอย่างไฟล์แบบละเอียด รูปภาพแทรกในบรรทัด การดำเนินการแบบกลุ่ม และการรองรับถังขยะ
+  tr: Zengin önizlemeler, satır içi görseller, toplu işlemler ve çöp kutusu desteğiyle hızlı ve tam donanımlı terminal dosya yöneticisi
+  uk: Швидкий і повнофункціональний термінальний менеджер файлів із детальними переглядами, вбудованими зображеннями, масовими діями та підтримкою кошика
+  vi: Trình quản lý tệp trên terminal nhanh nhẹn và đầy đủ tính năng, có xem trước phong phú, ảnh nội tuyến, hành động hàng loạt và hỗ trợ thùng rác
 x:
   source: https://github.com/elio-fm/elio
   eget: elio-fm/elio

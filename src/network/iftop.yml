@@ -3,6 +3,22 @@ homepage: http://www.ex-parrot.com/~pdw/iftop/
 desc:
   en: iftop is a tool for show bandwidth usage on an interface by host
   cn: iftop 是个一个按主机显示接口上的带宽使用情况的工具
+  cs: iftop je nástroj pro zobrazení využití šířky pásma na rozhraní podle hostitele
+  de: iftop ist ein Werkzeug zur Anzeige der Bandbreitennutzung einer Schnittstelle nach Host
+  es: iftop es una herramienta para mostrar el uso de ancho de banda en una interfaz por host
+  fr: iftop est un outil permettant d'afficher l'utilisation de la bande passante d'une interface par hôte
+  id: iftop adalah alat untuk menampilkan penggunaan bandwidth pada sebuah antarmuka menurut host
+  it: iftop è uno strumento per mostrare l'uso della banda di un'interfaccia per host
+  ja: iftopは、インターフェース上の帯域幅使用量をホストごとに表示するツールです
+  ko: iftop은 인터페이스의 대역폭 사용량을 호스트별로 표시하는 도구입니다
+  pl: iftop to narzędzie do wyświetlania wykorzystania przepustowości interfejsu w podziale na hosty
+  pt: iftop é uma ferramenta para exibir o uso de largura de banda em uma interface por host
+  ro: iftop este un instrument pentru afișarea utilizării lățimii de bandă pe o interfață, per gazdă
+  ru: iftop — инструмент для отображения использования пропускной способности интерфейса по узлам
+  th: iftop เป็นเครื่องมือสำหรับแสดงการใช้แบบว์ดแบนด์บนอินเทอร์เฟซตามโฮสต์
+  tr: iftop, bir arayüzdeki bant genişliği kullanımını ana bilgisayar bazında gösteren bir araçtır
+  uk: iftop — інструмент для відображення використання пропускної здатності інтерфейсу за вузлами
+  vi: iftop là công cụ hiển thị mức sử dụng băng thông trên một giao diện theo từng host
 rule:
   darwin/brew:
     cmd: brew install iftop

@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: 金山云软件安装工具
   en: ksyun — software install
+  cs: ksyun — instalace softwaru
+  de: ksyun — Software-Installation
+  es: ksyun — instalación de software
+  fr: ksyun — installation de logiciels
+  id: ksyun — instalasi perangkat lunak
+  it: ksyun — installazione del software
+  ja: ksyun — ソフトウェアのインストール
+  ko: ksyun — 소프트웨어 설치
+  pl: ksyun — instalacja oprogramowania
+  pt: ksyun — instalação de software
+  ro: ksyun — instalare software
+  ru: ksyun — установка программного обеспечения
+  th: ksyun — การติดตั้งซอฟต์แวร์
+  tr: ksyun — yazılım kurulumu
+  uk: ksyun — встановлення програмного забезпечення
+  vi: ksyun — cài đặt phần mềm
 rule:
   /curl:
     cmd: x env use ksyun

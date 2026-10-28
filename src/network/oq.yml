@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端 OpenAPI Spec 查看器
   en: 'Terminal OpenAPI Spec viewer'
+  cs: Prohlížeč OpenAPI Spec v terminálu
+  de: Terminal-Viewer für OpenAPI Specs
+  es: Visor de OpenAPI Spec en la terminal
+  fr: Visionneuse de spécifications OpenAPI en terminal
+  id: Penampil OpenAPI Spec berbasis terminal
+  it: Visualizzatore di specifiche OpenAPI da terminale
+  ja: ターミナル向け OpenAPI Spec ビューア
+  ko: 터미널용 OpenAPI Spec 뷰어
+  pl: Przeglądarka OpenAPI Spec w terminalu
+  pt: Visualizador de OpenAPI Spec no terminal
+  ro: Vizualizator de specificații OpenAPI în terminal
+  ru: Просмотрщик OpenAPI Spec для терминала
+  th: ตัวดู OpenAPI Spec ในเทอร์มินัล
+  tr: Terminal için OpenAPI Spec görüntüleyici
+  uk: Переглядач OpenAPI Spec для термінала
+  vi: Trình xem OpenAPI Spec trên terminal
 x:
   source: https://github.com/plutov/oq
   eget: plutov/oq

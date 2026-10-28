@@ -4,6 +4,22 @@ lang: JavaScript
 desc:
   cn: Prettier 是一个固执, 严格的代码格式化工具
   en: Prettier is an opinionated code formatter
+  cs: Prettier je formátovač kódu s vlastním názorem
+  de: Prettier ist ein opinionierter Codeformatter
+  es: Prettier es un formateador de código con opiniones firmes
+  fr: Prettier est un formateur de code aux avis tranchés
+  id: Prettier adalah pemformat kode yang beropini kuat
+  it: Prettier è un formattatore di codice dalle opinioni decise
+  ja: Prettier は固执なコードフォーマッタです
+  ko: Prettier는 자체 스타일이 강한 코드 포매터입니다
+  pl: Prettier to formatter kodu o wyraźnych poglądach
+  pt: Prettier é um formatador de código com opiniões fortes
+  ro: Prettier este un formatator de cod cu opinii bine conturate
+  ru: Prettier — форматтер кода с собственными строгими правилами
+  th: Prettier คือตัวจัดรูปแบบโค้ดที่ยึดความคิดเห็นของตนอย่างชัดเจน
+  tr: Prettier, kendi görüşünü dayanan bir kod biçimlendiricidir
+  uk: Prettier — форматтер коду з власними суворими правилами
+  vi: Prettier là công cụ định dạng mã theo quan điểm riêng
 x:
   source: https://github.com/prettier/prettier
   brew: prettier

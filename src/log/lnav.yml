@@ -4,6 +4,22 @@ license: BSD-2-Clause
 desc:
   cn: 日志文件导航器 lnav 是终端的高级日志文件查看器
   en: The Log File Navigator, lnav, is an advanced log file viewer for the terminal
+  cs: Log File Navigator, lnav, je pokročilý prohlížeč souborů protokolů pro terminál
+  de: Der Log File Navigator, lnav, ist ein fortgeschrittener Log-Dateibetrachter für das Terminal
+  es: El Log File Navigator, lnav, es un visor avanzado de archivos de registro para el terminal
+  fr: Le Log File Navigator, lnav, est un visualiseur avancé de fichiers journaux pour le terminal
+  id: Log File Navigator, lnav, adalah penampil berkas log lanjutan untuk terminal
+  it: Il Log File Navigator, lnav, è un visualizzatore avanzato di file di log per il terminale
+  ja: ログファイルナビゲーター lnav は、ターミナル向けの高度なログファイルビューアです
+  ko: Log File Navigator, lnav는 터미널을 위한 고급 로그 파일 뷰어입니다
+  pl: Log File Navigator, lnav, to zaawansowany podgląd plików logów dla terminala
+  pt: O Log File Navigator, lnav, é um visualizador avançado de arquivos de log para o terminal
+  ro: Log File Navigator, lnav, este un vizualizator avansat de fișiere de jurnal pentru terminal
+  ru: Log File Navigator, lnav — продвинутый просмотрщик файлов журналов для терминала
+  th: Log File Navigator, lnav คือตัวดูภาพไฟล์บันทึกขั้นสูงสำหรับเทอร์มินัล
+  tr: Log File Navigator, lnav, terminal için gelişmiş bir günlük dosyası görüntüleyicisidir
+  uk: Log File Navigator, lnav — розширений переглядач файлів журналів для термінала
+  vi: Log File Navigator, lnav là trình xem tệp nhật ký nâng cao cho terminal
 x:
   source: https://github.com/tstack/lnav
   eget: tstack/lnav

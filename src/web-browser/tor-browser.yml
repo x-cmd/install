@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Tor Browser 是通过 Tor 网络路由流量的 Firefox 派生版，专为匿名浏览设计。
   en: Tor Browser is a Firefox derivative that routes traffic through the Tor network, designed for anonymous browsing.
+  cs: Tor Browser je odvozená verze Firefoxu, která směruje provoz přes síť Tor a je navržena pro anonymní prohlížení.
+  de: Tor Browser ist eine Firefox-Ableitung, die den Datenverkehr über das Tor-Netzwerk leitet und für anonymes Surfen konzipiert ist.
+  es: Tor Browser es una derivada de Firefox que enruta el tráfico a través de la red Tor y está diseñada para la navegación anónima.
+  fr: Tor Browser est un dérivé de Firefox qui achemine le trafic via le réseau Tor et est conçu pour la navigation anonyme.
+  id: Tor Browser adalah turunan Firefox yang mengalirkan lalu lintas melalui jaringan Tor dan dirancang untuk penjelajahan anonim.
+  it: Tor Browser è una derivata di Firefox che instrada il traffico attraverso la rete Tor ed è progettata per la navigazione anonima.
+  ja: Tor Browser は Firefox を元にした派生ブラウザーで、トラフィックを Tor ネットワーク経由でルーティングし、匿名閲覧向けに設計されています。
+  ko: Tor Browser는 트래픽을 Tor 네트워크를 통해 라우팅하며 익명 탐색을 위해 설계된 Firefox 파생 브라우저입니다.
+  pl: Tor Browser to wywodzona z Firefossa przeglądarka, która kieruje ruch przez sieć Tor i jest przeznaczona do anonimowego przeglądania.
+  pt: O Tor Browser é um derivado do Firefox que roteia o tráfego pela rede Tor e foi projetado para navegação anônima.
+  ro: Tor Browser este o derivat din Firefox care dirijează traficul prin rețeaua Tor și este conceput pentru navigare anonimă.
+  ru: Tor Browser — это сборка на базе Firefox, которая направляет трафик через сеть Tor и создана для анонимного сёрфинга.
+  th: Tor Browser เป็นเบราว์เซอร์ที่พัฒนาต่อยอดจาก Firefox โดยส่งทราฟฟิกผ่านเครือข่าย Tor และออกแบบมาเพื่อการท่องเว็บแบบไม่ระบุตัวตน
+  tr: Tor Browser, trafiği Tor ağı üzerinden yönlendiren ve anonim gezinme için tasarlanmış, Firefox türevidir.
+  uk: Tor Browser — це похідна від Firefox, яка спрямовує трафік через мережу Tor і створена для анонімного перегляду.
+  vi: Tor Browser là bản phái sinh từ Firefox, định tuyến lưu lượng qua mạng Tor và được thiết kế để duyệt web ẩn danh.
 x:
   source: https://gitlab.torproject.org/tor-browser
   apt: torbrowser-launcher

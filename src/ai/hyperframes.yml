@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 通过 CLI 与对智能体友好的框架，从 HTML、CSS、JavaScript 动画渲染确定性 MP4 视频
   en: Render deterministic MP4 videos from HTML, CSS, and JavaScript animations using a CLI and agent-friendly framework.
+  cs: Vykresluje deterministická MP4 videa z HTML, CSS a JavaScript animací pomocí CLI a frameworku přátelského agentům.
+  de: Rendert deterministische MP4-Videos aus HTML-, CSS- und JavaScript-Animationen mit einer CLI und einem agentenfreundlichen Framework.
+  es: Renderiza vídeos MP4 deterministas a partir de animaciones en HTML, CSS y JavaScript con una CLI y un framework amigable para agentes.
+  fr: Rend des vidéos MP4 déterministes à partir d'animations HTML, CSS et JavaScript à l'aide d'une CLI et d'un framework compatible avec les agents.
+  id: Merender video MP4 deterministik dari animasi HTML, CSS, dan JavaScript menggunakan CLI dan framework yang ramah agen.
+  it: Renderizza video MP4 deterministici da animazioni HTML, CSS e JavaScript usando una CLI e un framework intuitivo per gli agenti.
+  ja: CLI とエージェント向けフレームワークを使って、HTML、CSS、JavaScript のアニメーションから決定論的な MP4 動画を書き出します。
+  ko: CLI와 에이전트 친화적인 프레임워크를 사용해 HTML, CSS, JavaScript 애니메이션으로 결정론적인 MP4 영상을 렌더링합니다.
+  pl: Renderuje deterministyczne filmy MP4 z animacji HTML, CSS i JavaScript za pomocą CLI i frameworka przyjaznego agentom.
+  pt: Renderiza vídeos MP4 determinísticos a partir de animações em HTML, CSS e JavaScript usando uma CLI e um framework amigável para agentes.
+  ro: Randări video MP4 deterministe din animații HTML, CSS și JavaScript folosind o CLI și un framework prietenos cu agenții.
+  ru: Отрисовывает детерминированные MP4-видео из анимаций HTML, CSS и JavaScript с помощью CLI и фреймворка, дружелюбного к агентам.
+  th: เรนเดอร์วิดีโอ MP4 แบบกำหนดผลได้จากแอนิเมชัน HTML, CSS และ JavaScript โดยใช้ CLI และเฟรมเวิร์กที่เป็นมิตรกับเอเจนต์
+  tr: HTML, CSS ve JavaScript animasyonlarından deterministik MP4 videoları üretir; CLI ve aracı dostu bir çerçeve kullanır.
+  uk: Рендерить детерміновані MP4-відео з анімацій HTML, CSS і JavaScript за допомогою CLI та фреймворку, приязного до агентів.
+  vi: Kết xuất video MP4 xác định từ các hoạt ảnh HTML, CSS và JavaScript bằng CLI và framework thân thiện với tác nhân.
 x:
   source: https://github.com/heygen-com/hyperframes
   npm: hyperframes

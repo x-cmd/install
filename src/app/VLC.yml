@@ -3,6 +3,22 @@ homepage: https://www.videolan.org/vlc/
 desc:
   en: VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols
   cn: VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议
+  cs: VLC je svobodný open-source multiplatformní přehrávač a framework, který přehrává většinu multimediálních souborů stejně jako DVD, zvukové CD, VCD a různé streamingové protokoly
+  de: VLC ist ein freier und quelloffener plattformübergreifender Multimedia-Player und ein Framework, der die meisten Multimediadateien sowie DVDs, Audio-CDs, VCDs und verschiedene Streaming-Protokolle abspielt
+  es: VLC es un reproductor y framework multimedia libre y de código abierto multiplataforma que reproduce la mayoría de archivos multimedia, así como DVD, CD de audio, VCD y varios protocolos de streaming
+  fr: VLC est un lecteur et un framework multimédia libre et open source multiplateforme qui lit la plupart des fichiers multimédias ainsi que les DVD, CD audio, VCD et divers protocoles de streaming
+  id: VLC adalah pemutar dan framework multimedia lintas platform yang bebas dan sumber terbuka, mampu memutar sebagian besar berkas multimedia serta DVD, CD audio, VCD, dan berbagai protokol streaming
+  it: VLC è un lettore e framework multimediale libero e open source multipiattaforma che riproduce la maggior parte dei file multimediali, oltre a DVD, CD audio, VCD e vari protocolli di streaming
+  ja: VLC は自由かつオープンソースのクロスプラットフォームなマルチメディアプレーヤーとフレームワークで、多くのマルチメディアファイルや DVD、オーディオ CD、VCD、各種ストリーミングプロトコルに対応しています
+  ko: VLC는 대부분의 멀티미디어 파일뿐 아니라 DVD, 오디오 CD, VCD 및 다양한 스트리밍 프로토콜을 재생하는 자유 오픈 소스 크로스 플랫폼 멀티미디어 플레이어이자 프레임워크입니다
+  pl: VLC to wolny i open source odtwarzacz oraz framework multimedialny działający na wielu platformach, który odtwarza większość plików multimedialnych, a także DVD, płyty CD audio, VCD i różne protokoły strumieniowania
+  pt: O VLC é um reprodutor e framework multimídia livre e de código aberto multiplataforma que reproduz a maioria dos arquivos multimídia, além de DVDs, CDs de áudio, VCDs e vários protocolos de streaming
+  ro: VLC este un player și un framework multimedia liber și open source multiplatformă care redă majoritatea fișierelor multimedia, precum și DVD-uri, CD-uri audio, VCD-uri și diverse protocoale de streaming
+  ru: VLC — свободный кроссплатформенный мультимедийный проигрыватель и фреймворк с открытым исходным кодом, воспроизводящий большинство мультимедийных файлов, а также DVD, аудио-CD, VCD и различные протоколы потоковой передачи
+  th: VLC คือเครื่องเล่นสื่อและเฟรมเวิร์กแบบโอเพนซอร์สและฟรีสำหรับหลายแพลตฟอร์ม รองรับไฟล์มัลติมีเดียเกือบทั้งหมด รวมถึง DVD, CD เสียง, VCD และโปรโตคอลการสตรีมต่างๆ
+  tr: VLC, çoğu multimedya dosyasının yanı sıra DVD, ses CD'si, VCD ve çeşitli akış protokollerini oynatan ücretsiz ve açık kaynaklı çok platformlu bir medya oynatıcısı ve çerçevesidir
+  uk: VLC — вільний кросплатформний мультимедійний програвач і фреймворк з відкритим кодом, який відтворює більшість мультимедійних файлів, а також DVD, аудіо-CD, VCD і різні протоколи потокової передачі
+  vi: VLC là trình phát đa phương tiện và framework miễn phí, mã nguồn mở, đa nền tảng, có thể phát hầu hết các tệp đa phương tiện cũng như DVD, CD âm thanh, VCD và nhiều giao thức streaming
 rule:
   darwin/brew:
     cmd: brew install --cask vlc

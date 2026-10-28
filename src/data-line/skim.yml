@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: Rust 中的模糊查找器
   en: A fuzzy finder for Rust
+  cs: Fuzzy vyhledávač pro Rust
+  de: Unscharfer Suchfinder für Rust
+  es: Buscador difuso para Rust
+  fr: Rechercheur flou pour Rust
+  id: Pencari fuzzy untuk Rust
+  it: Ricercatore fuzzy per Rust
+  ja: Rust用のファジーファインダー
+  ko: Rust용 퍼지 파인더
+  pl: Wyszukiwacz rozmyty dla Rust
+  pt: Localizador difuso para Rust
+  ro: Căutător fuzzy pentru Rust
+  ru: Нечёткий поисковик для Rust
+  th: ตัวค้นหาแบบ fuzzy สำหรับ Rust
+  tr: Rust için fuzzy bulucu
+  uk: Нечіткий пошуковик для Rust
+  vi: Trình tìm fuzzy cho Rust
 homepage: https://github.com/lotabout/skim
 license: MIT
 x:

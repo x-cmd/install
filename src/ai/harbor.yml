@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于运行代理评估以及创建和使用 RL 环境的框架（依赖 git 和 Docker）
   en: a framework for running agent evaluations and creating and using RL environments (requires git and Docker)
+  cs: rámec pro spouštění hodnocení agentů a vytváření a používání prostředí RL (vyžaduje git a Docker)
+  de: ein Framework zum Ausführen von Agenten-Bewertungen sowie zum Erstellen und Nutzen von RL-Umgebungen (benötigt git und Docker)
+  es: un framework para ejecutar evaluaciones de agentes y crear y usar entornos de RL (requiere git y Docker)
+  fr: un framework pour exécuter des évaluations d'agents et créer et utiliser des environnements RL (nécessite git et Docker)
+  id: kerangka kerja untuk menjalankan evaluasi agen serta membuat dan menggunakan lingkungan RL (memerlukan git dan Docker)
+  it: un framework per eseguire valutazioni di agenti e creare e utilizzare ambienti RL (richiede git e Docker)
+  ja: エージェント評価の実行と RL 環境の作成・利用のためのフレームワーク (git と Docker が必要)
+  ko: 에이전트 평가를 실행하고 RL 환경을 만들고 사용하는 프레임워크 (git와 Docker 필요)
+  pl: framework do uruchamiania ocen agentów oraz tworzenia i używania środowisk RL (wymaga git i Dockera)
+  pt: um framework para executar avaliações de agentes e criar e usar ambientes de RL (requer git e Docker)
+  ro: un cadru pentru rularea evaluărilor de agenți și crearea și utilizarea mediilor RL (necesită git și Docker)
+  ru: фреймворк для запуска оценок агентов, а также создания и использования RL-окружений (требуются git и Docker)
+  th: เฟรมเวิร์กสำหรับการประเมินเอเจนต์และการสร้างและใช้สภาพแวดล้อม RL (ต้องใช้ git และ Docker)
+  tr: ajan değerlendirmelerini çalıştırmak ve RL ortamları oluşturup kullanmak için bir çerçeve (git ve Docker gerektirir)
+  uk: фреймворк для запуску оцінок агентів, а також створення та використання RL-середовищ (потрібні git і Docker)
+  vi: một framework để chạy đánh giá tác nhân cũng như tạo và sử dụng môi trường RL (cần git và Docker)
 x:
   source: https://github.com/laude-institute/harbor
   pip: harbor

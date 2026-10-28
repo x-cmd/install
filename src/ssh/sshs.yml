@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用于管理 SSH 连接的 TUI 工具
   en: A TUI tool for managing SSH connections
+  cs: Nástroj TUI pro správu připojení SSH
+  de: Ein TUI-Werkzeug zur Verwaltung von SSH-Verbindungen
+  es: Una herramienta TUI para gestionar conexiones SSH
+  fr: Un outil TUI pour gérer les connexions SSH
+  id: Alat TUI untuk mengelola koneksi SSH
+  it: Uno strumento TUI per gestire le connessioni SSH
+  ja: SSH 接続を管理するための TUI ツール
+  ko: SSH 연결을 관리하는 TUI 도구
+  pl: Narzędzie TUI do zarządzania połączeniami SSH
+  pt: Uma ferramenta TUI para gerenciar conexões SSH
+  ro: Un instrument TUI pentru gestionarea conexiunilor SSH
+  ru: TUI-инструмент для управления SSH-соединениями
+  th: เครื่องมือ TUI สำหรับจัดการการเชื่อมต่อ SSH
+  tr: SSH bağlantılarını yönetmek için bir TUI aracı
+  uk: TUI-інструмент для керування SSH-з'єднаннями
+  vi: Công cụ TUI để quản lý các kết nối SSH
 x:
   source: https://github.com/quantumsheep/sshs
   eget: quantumsheep/sshs

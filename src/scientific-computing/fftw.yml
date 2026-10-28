@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   en: FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions
   cn: FFTW 是一个 C 子程序库，用于在一个或多个维度上计算离散傅里叶变换 （DFT）
+  cs: FFTW je knihovna podprogramů C pro výpočet diskrétní Fourierovy transformace (DFT) v jedné nebo více dimenzích
+  de: FFTW ist eine C-Unterprogrammbibliothek zur Berechnung der diskreten Fourier-Transformation (DFT) in einer oder mehreren Dimensionen
+  es: FFTW es una biblioteca de subrutinas C para calcular la transformada discreta de Fourier (DFT) en una o más dimensiones
+  fr: FFTW est une bibliothèque de sous-programmes C pour calculer la transformée de Fourier discrète (DFT) dans une ou plusieurs dimensions
+  id: FFTW adalah pustaka subrutin C untuk menghitung transformasi Fourier diskret (DFT) dalam satu atau lebih dimensi
+  it: FFTW è una libreria di subroutine C per il calcolo della trasformata di Fourier discreta (DFT) in una o più dimensioni
+  ja: FFTW は、1 次元または多次元で離散フーリエ変換 (DFT) を計算するための C 言語サブルーチンライブラリです
+  ko: FFTW는 한 개 이상의 차원에서 이산 푸리에 변환 (DFT)을 계산하기 위한 C 서브루틴 라이브러리입니다
+  pl: FFTW to biblioteka podprocedur C do obliczania dyskretnej transformaty Fouriera (DFT) w jednym lub wielu wymiarach
+  pt: FFTW é uma biblioteca de sub-rotinas C para calcular a transformada discreta de Fourier (DFT) em uma ou mais dimensões
+  ro: FFTW este o bibliotecă de subrutine C pentru calculul transformatei Fourier discrete (DFT) într-una sau mai multe dimensiuni
+  ru: FFTW — это библиотека подпрограмм на C для вычисления дискретного преобразования Фурье (DFT) в одном или нескольких измерениях
+  th: FFTW เป็นไลบรารีซับรูทีน C สำหรับคำนวณการแปลงฟูเรียร์แบบดิสครีต (DFT) ในหนึ่งหรือหลายมิติ
+  tr: FFTW, bir veya daha fazla boyutta ayrık Fourier dönüşümünü (DFT) hesaplamak için bir C alt yordam kitaplığıdır
+  uk: FFTW — це бібліотека підпрограм на C для обчислення дискретного перетворення Фур'є (DFT) в одному або кількох вимірах
+  vi: FFTW là thư viện thủ tục con C để tính biến đổi Fourier rời rạc (DFT) trong một hoặc nhiều chiều
 x:
   source: https://github.com/FFTW/fftw3
   brew: fftw

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: mani 是一个 CLI 工具，用于管理多个仓库，方便用户在微服务、多项目系统、多个库或任何仓库集合中进行集中式拉取和跨仓库命令执行。
   en: mani is a CLI tool for managing multiple repositories, allowing users to perform centralized pulls and execute cross-repository commands in microservices, multi-project systems, multiple repositories, or any collection of repositories.
+  cs: mani je nástroj CLI pro správu více repozitářů, který umožňuje centralizované stahování a provádění příkazů napříč repozitáři v mikroslužbách, víceprojektových systémech, více repozitářích nebo jakékoli kolekci repozitářů.
+  de: mani ist ein CLI-Tool zur Verwaltung mehrerer Repositories, das zentralisierte Pulls und die Ausführung von Befehlen über Repositories hinweg in Microservices, Multi-Projekt-Systemen, mehreren Repositories oder jeder Sammlung von Repositories ermöglicht.
+  es: mani es una herramienta de CLI para gestionar varios repositorios, que permite a los usuarios hacer pulls centralizados y ejecutar comandos entre repositorios en microservicios, sistemas multiproyecto, varios repositorios o cualquier colección de repositorios.
+  fr: mani est un outil CLI pour gérer plusieurs dépôts, permettant aux utilisateurs d'effectuer des pulls centralisés et d'exécuter des commandes inter-dépôts dans des microservices, des systèmes multi-projets, plusieurs dépôts ou toute collection de dépôts.
+  id: mani adalah alat CLI untuk mengelola banyak repositori, memungkinkan pengguna melakukan pull terpusat dan menjalankan perintah lintas repositori pada microservice, sistem multi-proyek, banyak repositori, atau kumpulan repositori apa pun.
+  it: mani è uno strumento CLI per gestire più repository, che consente agli utenti di eseguire pull centralizzati e comandi tra repository in microservizi, sistemi multi-progetto, più repository o qualsiasi raccolta di repository.
+  ja: maniは複数のリポジトリを管理するCLIツールで、マイクロサービス、マルチプロジェクトシステム、複数のリポジトリ、あらゆるリポジトリ集合において、一括プルとリポジトリ横断コマンドの実行を実現します。
+  ko: mani는 여러 저장소를 관리하는 CLI 도구로, 마이크로서비스, 멀티 프로젝트 시스템, 여러 저장소 또는 모든 저장소 모음에서 중앙화된 pull과 저장소 간 명령 실행을 지원합니다.
+  pl: mani to narzędzie CLI do zarządzania wieloma repozytoriami, umożliwiające użytkownikom wykonywanie zbiorczych pobrań i poleceń między repozytoriami w mikroserwisach, systemach wieloprojektowych, wielu repozytoriach lub dowolnej kolekcji repozytoriów.
+  pt: mani é uma ferramenta de CLI para gerenciar múltiplos repositórios, permitindo que os usuários façam pulls centralizados e executem comandos entre repositórios em microsserviços, sistemas multiprojeto, múltiplos repositórios ou qualquer coleção de repositórios.
+  ro: mani este un instrument CLI pentru gestionarea mai multor depozite, care permite utilizatorilor să facă pull-uri centralizate și să execute comenzi între depozite în microservicii, sisteme cu mai multe proiecte, mai multe depozite sau orice colecție de depozite.
+  ru: mani — это CLI-инструмент для управления несколькими репозиториями, позволяющий выполнять централизованные pull-запросы и кросс-репозиторные команды в микросервисах, мультипроектных системах, наборе репозиториев или любой коллекции репозиториев.
+  th: mani เป็นเครื่องมือ CLI สำหรับจัดการหลาย repository ช่วยให้ผู้ใช้ทำ pull แบบรวมศูนย์และรันคำสั่งข้าม repository ในไมโครเซอร์วิส ระบบหลายโครงการ หลาย repository หรือชุด repository ใดก็ตาม
+  tr: mani, birden çok depoyu yönetmek için bir CLI aracıdır ve mikroservislerde, çok projeli sistemlerde, birden çok depoda veya her türden depo koleksiyonunda merkezi çekme ve depo geneli komut çalıştırma imkânı sunar.
+  uk: mani — це CLI-інструмент для керування кількома репозиторіями, який дає змогу виконувати централізовані pull- запити та крос-репозиторні команди у мікросервісах, мультипроєктних системах, наборі репозиторіїв або будь-якій колекції репозиторіїв.
+  vi: mani là công cụ CLI để quản lý nhiều kho lưu trữ, cho phép người dùng pull tập trung và chạy lệnh xem kho trong microservices, hệ thống đa dự án, nhiều kho lưu trữ hoặc bất kỳ tập hợp kho lưu trữ nào.
 x:
   source: https://github.com/alajmo/mani
   eget: alajmo/mani

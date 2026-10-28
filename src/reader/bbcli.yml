@@ -3,6 +3,22 @@ homepage: https://hako.github.io/bbcli/
 desc:
   cn: 用于在终端访问 BBC 新闻的 TUI。
   en: A TUI for accessing BBC News in the terminal.
+  cs: TUI pro přístup k BBC News v terminálu.
+  de: Ein TUI für den Zugriff auf BBC News im Terminal.
+  es: Una TUI para acceder a BBC News en la terminal.
+  fr: Une TUI pour accéder à BBC News dans le terminal.
+  id: TUI untuk mengakses BBC News di terminal.
+  it: Una TUI per accedere alle notizie BBC dal terminale.
+  ja: ターミナルで BBC News を閲覧するための TUI。
+  ko: 터미널에서 BBC News에 접속하기 위한 TUI입니다.
+  pl: TUI do przeglądania BBC News w terminalu.
+  pt: Uma TUI para acessar a BBC News no terminal.
+  ro: O TUI pentru accesarea BBC News în terminal.
+  ru: TUI для доступа к BBC News в терминале.
+  th: TUI สำหรับเข้าถึงข่าว BBC ในเทอร์มินัล
+  tr: Terminalde BBC News'e erişmek için bir TUI.
+  uk: TUI для доступу до BBC News у терміналі.
+  vi: Giao diện TUI để truy cập BBC News trong terminal
 rule:
   /pip:
     cmd: pip install bbcli

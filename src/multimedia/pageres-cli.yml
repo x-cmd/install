@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Capture screenshots of websites in various resolutions
   cn: 以各种分辨率捕获网站的屏幕截图
+  cs: Pořizování snímků obrazovky webových stránek v různých rozlišeních
+  de: Aufnahmen von Webseiten in verschiedenen Auflösungen erstellen
+  es: Capturar capturas de pantalla de sitios web en varias resoluciones
+  fr: Prendre des captures d'écran de sites web dans différentes résolutions
+  id: Ambil tangkapan layar situs web dalam berbagai resolusi
+  it: Cattura schermate di siti web in varie risoluzioni
+  ja: Web サイトのスクリーンショットをさまざまな解像度で取得する
+  ko: 웹사이트의 스크린샷을 다양한 해상도로 캡처
+  pl: Przechwytywanie zrzutów ekranu stron internetowych w różnych rozdzielczościach
+  pt: Capturar capturas de tela de sites da web em várias resoluções
+  ro: Capturarea de imagini de ecran ale site-urilor web la rezoluții diferite
+  ru: Создание снимков экрана веб-сайтов в различных разрешениях
+  th: จับภาพหน้าจอของเว็บไซต์ในความละเอียดต่าง ๆ
+  tr: Web sitelerinin ekran görüntülerini farklı çözünürlüklerde yakalamak
+  uk: Знімання скриншотів веб-сайтів у різних роздільностях
+  vi: Chụp ảnh chụp màn hình trang web ở nhiều độ phân giải khác nhau
 x:
   source: https://github.com/sindresorhus/pageres-cli
 rule:

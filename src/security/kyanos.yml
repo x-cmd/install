@@ -2,6 +2,22 @@ lang: C
 desc:
   cn: 可视化数据包在内核中花费的时间，在命令行中观察和分析
   en: Visualize the time packets spend in the kernel, watch & analyze in command line.
+  cs: Zobrazte čas, který pakety stráví v jádře, sledujte a analyzujte v příkazové řádce.
+  de: Visualisieren Sie die Zeit, die Pakete im Kernel verbringen, beobachten und analysieren Sie in der Befehlszeile.
+  es: Visualiza el tiempo que los paquetes pasan en el kernel, observa y analiza en la línea de comandos.
+  fr: Visualisez le temps que les paquets passent dans le noyau, observez et analysez en ligne de commande.
+  id: Visualisasikan waktu yang dihabiskan paket di kernel, pantau & analisis di baris perintah.
+  it: Visualizza il tempo che i pacchetti trascorrono nel kernel, osserva e analizza da riga di comando.
+  ja: パケットがカーネル内で過ごす時間を可視化し、コマンドラインで監視・分析します。
+  ko: 패킷이 커널에서 보내는 시간을 시각화하고 명령줄에서 관찰하고 분석합니다.
+  pl: Wizualizuj czas spędzany przez pakiety w jądrze, obserwuj i analizuj w wierszu poleceń.
+  pt: Visualize o tempo que os pacotes passam no kernel, observe e analise na linha de comando.
+  ro: Vizualizați timpul petrecut de pachete în kernel, observați și analizați din linia de comandă.
+  ru: Визуализируйте время, которое пакеты проводят в ядре, наблюдайте и анализируйте в командной строке.
+  th: แสดงภาพเวลาที่แพ็กเก็ตใช้ในเคอร์เนล ดูและวิเคราะห์ในบรรทัดคำสั่ง
+  tr: Paketlerin çekirdekte geçirdiği süreyi görselleştirin, komut satırında izleyin ve analiz edin.
+  uk: Візуалізуйте час, який пакети проводять у ядрі, спостерігайте та аналізуйте в командному рядку.
+  vi: Trực quan hóa thời gian gói tin ở trong kernel, theo dõi và phân tích từ dòng lệnh
 homepage: https://github.com/hengyoush/kyanos
 license: Apache-2.0
 x:

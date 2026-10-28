@@ -3,6 +3,22 @@ homepage: https://salsa.debian.org/iso-codes-team/iso-codes
 desc:
   en: This project provides lists of various ISO standards (countries, languages, language scripts, and currency names) in one place
   cn: 该项目在一个地方提供各种 ISO 标准(国家、语言、语言脚本和货币名称)的列表
+  cs: Tento projekt poskytuje na jednom místě seznamy různých standardů ISO (zemí, jazyků, písem jazyků a názvů měn)
+  de: Dieses Projekt stellt Listen verschiedener ISO-Standards (Länder, Sprachen, Schriftsysteme und Währungsnamen) an einem Ort bereit
+  es: Este proyecto ofrece en un solo lugar listas de varios estándares ISO (países, idiomas, sistemas de escritura y nombres de monedas)
+  fr: Ce projet fournit au même endroit des listes de diverses normes ISO (pays, langues, systèmes d'écriture et noms de devises)
+  id: Proyek ini menyediakan daftar berbagai standar ISO (negara, bahasa, sistem penulisan bahasa, dan nama mata uang) dalam satu tempat
+  it: Questo progetto offre in un unico luogo elenchi di diversi standard ISO (paesi, lingue, sistemi di scrittura e nomi delle valute)
+  ja: このプロジェクトは、さまざまな ISO 標準（国、言語、文字体系、通貨名）のリストを一箇所にまとめています
+  ko: 이 프로젝트는 다양한 ISO 표준(국가, 언어, 문자 체계, 통화 이름) 목록을 한곳에서 제공합니다
+  pl: Ten projekt udostępnia w jednym miejscu listy różnych standardów ISO (krajów, języków, systemów pisma i nazw walut)
+  pt: Este projeto fornece em um só lugar listas de vários padrões ISO (países, idiomas, sistemas de escrita e nomes de moedas)
+  ro: Acest proiect oferă într-un singur loc liste ale diverselor standarde ISO (țări, limbi, sisteme de scriere și nume de monede)
+  ru: Этот проект предоставляет в одном месте списки различных стандартов ISO (страны, языки, письменности и названия валют)
+  th: โครงการนี้รวบรวมรายการมาตรฐาน ISO ต่าง ๆ (ประเทศ ภาษา ระบบตัวอักษร และชื่อสกุลเงิน) ไว้ในที่เดียว
+  tr: Bu proje çeşitli ISO standartlarının (ülkeler, diller, yazı sistemleri ve para birimi adları) listelerini tek bir yerde sunar
+  uk: Цей проект надає в одному місці списки різних стандартів ISO (країни, мови, системи письма та назви валют)
+  vi: Dự án này cung cấp tại một nơi các danh sách tiêu chuẩn ISO khác nhau (quốc gia, ngôn ngữ, hệ thống chữ và tên tiền tệ)
 rule:
   darwin/brew:
     cmd: brew install iso-codes

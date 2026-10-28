@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 智能体化渗透测试工具，完全自托管，支持 LiteLLM 上的各类模型
   en: Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
+  cs: Agentní nástroje pro penetrační testování, zcela samohostitelné, s podporou všech modelů na LiteLLM (Ollama, anthropic, openai...)
+  de: Agentische Pentest-Tools. Vollständig selbst gehostet. Jedes auf LiteLLM verfügbare Modell (Ollama, anthropic, openai...)
+  es: Herramientas agénticas de pentesting. Totalmente autoalojadas. Todos los modelos disponibles en LiteLLM (Ollama, anthropic, openai...)
+  fr: Outils de pentest agentiques. Entièrement auto-hébergés. Tous les modèles disponibles sur LiteLLM (Ollama, anthropic, openai...)
+  id: Perkakas pentest agenitik. Sepenuhnya self-hosted. Semua model yang tersedia di LiteLLM (Ollama, anthropic, openai...)
+  it: Strumenti di pentest agentici. Completamente self-hosted. Ogni modello disponibile su LiteLLM (Ollama, anthropic, openai...)
+  ja: エージェント型ペネトレーションテストツール。完全セルフホスト対応。LiteLLM 上のすべてのモデル (Ollama, anthropic, openai...) を利用できます。
+  ko: 에이전트형 펜테스트 도구. 완전 자체 호스팅 지원. LiteLLM에서 사용할 수 있는 모든 모델(Ollama, anthropic, openai...)을 지원합니다
+  pl: Narzędzia pentestowe z architekturą agentową. W pełni samodzielnie hostowane. Każdy model dostępny w LiteLLM (Ollama, anthropic, openai...)
+  pt: Ferramentas de pentest agentic. Totalmente auto-hospedadas. Todos os modelos disponíveis no LiteLLM (Ollama, anthropic, openai...)
+  ro: Instrumente de pentest agentice. Complet auto-găzduite. Toate modelele disponibile pe LiteLLM (Ollama, anthropic, openai...)
+  ru: Агентные инструменты для пентеста. Полностью самостоятельное размещение. Любая модель, доступная в LiteLLM (Ollama, anthropic, openai...)
+  th: เครื่องมือทดสอบเจาะระบบแบบอินเทลลิเจนต์ ติดตั้งเองได้ทั้งหมด รองรับโมเดลทุกตัวบน LiteLLM (Ollama, anthropic, openai...)
+  tr: Ajan tabanlı pentest araçları. Tamamen kendi sunucunuzda barındırılabilir. LiteLLM üzerindeki tüm modelleri destekler (Ollama, anthropic, openai...)
+  uk: Агентні інструменти для пентесту. Повністю самостійне розміщення. Будь-яка модель, доступна на LiteLLM (Ollama, anthropic, openai...)
+  vi: Công cụ pentest dạng agent. Tự lưu trữ hoàn toàn. Hỗ trợ mọi mô hình có trên LiteLLM (Ollama, anthropic, openai...)
 x:
   source: https://github.com/straylabs-ai/deadend-cli
   eget: straylabs-ai/deadend-cli

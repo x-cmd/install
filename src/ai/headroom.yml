@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 在工具输出、日志、文件与 RAG 片段送达 LLM 前进行压缩，节省 60-95% token
   en: 'Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.'
+  cs: Komprimuje výstupy nástrojů, logy, soubory a chunky RAG, než se dostanou k LLM. O 60-95 % méně tokenů, stejné odpovědi. Knihovna, proxy, MCP server.
+  de: Komprimiert Tool-Ausgaben, Logs, Dateien und RAG-Chunks, bevor sie das LLM erreichen. 60-95 % weniger Tokens, gleiche Antworten. Bibliothek, Proxy, MCP-Server.
+  es: Comprime las salidas de herramientas, registros, archivos y fragmentos RAG antes de que lleguen al LLM. 60-95 % menos tokens, mismas respuestas. Biblioteca, proxy, servidor MCP.
+  fr: Compresse les sorties d'outils, les journaux, les fichiers et les fragments RAG avant qu'ils n'atteignent le LLM. 60 à 95 % de tokens en moins, mêmes réponses. Bibliothèque, proxy, serveur MCP.
+  id: Kompres keluaran alat, log, file, dan potongan RAG sebelum mencapai LLM. 60-95% lebih sedikit token, jawaban sama. Library, proxy, server MCP.
+  it: Comprime gli output degli strumenti, i log, i file e i chunk RAG prima che raggiungano l'LLM. 60-95% di token in meno, stesse risposte. Libreria, proxy, server MCP.
+  ja: ツール出力、ログ、ファイル、RAG チャンクを LLM に届ける前に圧縮。トークンを 60-95% 削減し、回答品質はそのまま。ライブラリ、プロキシ、MCP サーバー。
+  ko: 도구 출력, 로그, 파일, RAG 청크를 LLM에 전달하기 전에 압축합니다. 토큰을 60-95% 줄이면서도 같은 답변을 얻습니다. 라이브러리, 프록시, MCP 서버.
+  pl: Kompresuje wyjścia narzędzi, logi, pliki i fragmenty RAG, zanim trafią do LLM. O 60-95% mniej tokenów, te same odpowiedzi. Biblioteka, proxy, serwer MCP.
+  pt: Comprime as saídas de ferramentas, logs, arquivos e blocos RAG antes de chegarem ao LLM. 60-95% menos tokens, as mesmas respostas. Biblioteca, proxy, servidor MCP.
+  ro: Comprimă ieșirile instrumentelor, jurnalele, fișierele și fragmentele RAG înainte de a ajunge la LLM. Cu 60-95% mai puține tokenuri, aceleași răspunsuri. Bibliotecă, proxy, server MCP.
+  ru: Сжимает выводы инструментов, логи, файлы и фрагменты RAG до того, как они попадут в LLM. На 60-95% меньше токенов при тех же ответах. Библиотека, прокси, MCP-сервер.
+  th: บีบอัดผลลัพธ์ของเครื่องมือ ล็อก ไฟล์ และชิ้นส่วน RAG ก่อนส่งถึง LLM ใช้โทเคนน้อยลง 60-95% พร้อมคำตอบเหมือนเดิม เป็นไลบรารี พร็อกซี่ และเซิร์ฟเวอร์ MCP
+  tr: Araç çıktılarını, günlükleri, dosyaları ve RAG parçalarını LLM'ye ulaşmadan önce sıkıştırır. %60-95 daha az token, aynı yanıtlar. Kitaplık, proxy, MCP sunucusu.
+  uk: Стискає виходи інструментів, журнали, файли та фрагменти RAG до того, як вони потрапляють до LLM. На 60-95% менше токенів при тих самих відповідях. Бібліотека, проксі, MCP-сервер.
+  vi: Nén các đầu ra công cụ, log, tệp và đoạn RAG trước khi chúng đến với LLM. Ít token hơn 60-95%, câu trả lời không đổi. Thư viện, proxy, máy chủ MCP.
 x:
   source: https://github.com/chopratejas/headroom
   eget: chopratejas/headroom

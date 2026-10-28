@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: KubeConform 是 Kubernetes 清单验证工具
   en: Kubeconform is a Kubernetes manifest validation tool
+  cs: Kubeconform je nástroj pro validaci manifestů Kubernetes
+  de: Kubeconform ist ein Kubernetes-Manifestvalidierungswerkzeug
+  es: Kubeconform es una herramienta de validación de manifiestos de Kubernetes
+  fr: Kubeconform est un outil de validation des manifestes Kubernetes
+  id: Kubeconform adalah alat validasi manifes Kubernetes
+  it: Kubeconform è uno strumento di validazione dei manifest Kubernetes
+  ja: Kubeconform は Kubernetes マニフェスト検証ツールです
+  ko: Kubeconform는 Kubernetes 매니페스트 검증 도구입니다
+  pl: Kubeconform to narzędzie do walidacji manifestów Kubernetes
+  pt: Kubeconform é uma ferramenta de validação de manifestos do Kubernetes
+  ro: Kubeconform este un instrument de validare a manifestelor Kubernetes
+  ru: Kubeconform — это инструмент валидации манифестов Kubernetes
+  th: Kubeconform คือเครื่องมือตรวจสอบความถูกต้องของไฟล์ manifest ของ Kubernetes
+  tr: Kubeconform, Kubernetes manifest doğrulama aracıdır
+  uk: Kubeconform — це інструмент валідації манifestів Kubernetes
+  vi: Kubeconform là công cụ xác thực manifest Kubernetes
 x:
   source: https://github.com/yannh/kubeconform
   eget: yannh/kubeconform

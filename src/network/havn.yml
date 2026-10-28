@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个快速且可配置的端口扫描器，具有合理的默认值。
   en: A fast configurable port scanner with reasonable defaults.
+  cs: Rychlý konfigurovatelný skener portů s rozumnými výchozími hodnotami.
+  de: Ein schneller, konfigurierbarer Portscanner mit sinnvollen Standardwerten.
+  es: Un escáner de puertos rápido y configurable con valores predeterminados razonables.
+  fr: Un scanner de ports rapide et configurable avec des valeurs par défaut raisonnables.
+  id: Pemindai port yang cepat dan dapat dikonfigurasi dengan nilai bawaan yang wajar.
+  it: Un port scanner veloce e configurabile con impostazioni predefinite ragionevoli.
+  ja: 妥当なデフォルト値を持つ、高速で設定可能なポートスキャナ。
+  ko: 합리적인 기본값을 갖춘 빠르고 구성 가능한 포트 스캐너.
+  pl: Szybki, konfigurowalny skaner portów z rozsądnymi wartościami domyślnymi.
+  pt: Um verificador de portas rápido e configurável com padrões razoáveis.
+  ro: Un scanner de porturi rapid și configurabil cu valori implicite rezonabile.
+  ru: Быстрый настраиваемый сканер портов с разумными значениями по умолчанию.
+  th: ตัวสแกนพอร์ตที่รวดเร็วและกำหนดค่าได้ พร้อมค่าเริ่มต้นที่สมเหตุสมผล
+  tr: Makul ölçüde varsayılan değerlere sahip hızlı ve yapılandırılabilir port tarayıcı.
+  uk: Швидкий налаштовуваний сканер портів із розумними значеннями за замовчуванням.
+  vi: Trình quét cổng nhanh và có thể cấu hình với các giá trị mặc định hợp lý.
 x:
   source: https://github.com/mrjackwills/havn
   pacman: havn

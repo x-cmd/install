@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一款命令行式哔哩哔哩下载器
   en: A command-line Bilibili Downloader
+  cs: Nástroj příkazové řádky pro stahování z Bilibili
+  de: Ein Kommandozeilen-Downloader für Bilibili
+  es: Un descargador de Bilibili para línea de comandos
+  fr: Un téléchargeur Bilibili en ligne de commande
+  id: Pengunduh Bilibili berbasis baris perintah
+  it: Un downloader Bilibili da riga di comando
+  ja: コマンドライン版の Bilibili ダウンローダー
+  ko: 명령줄용 Bilibili 다운로더
+  pl: Narzędzie wiersza poleceń do pobierania z Bilibili
+  pt: Um downloader de Bilibili para linha de comando
+  ro: Un program de descărcare Bilibili pentru linia de comandă
+  ru: Консольный загрузчик для Bilibili
+  th: ตัวดาวน์โหลด Bilibili สำหรับบรรทัดคำสั่ง
+  tr: Bilibili için bir komut satırı indiricisi
+  uk: Консольний завантажувач для Bilibili
+  vi: Trình tải Bilibili cho dòng lệnh
 x:
   source: https://github.com/nilaoda/BBDown
   eget: nilaoda/BBDown

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 终端中舒适的打字速度测试器。
   en: Cozy typing speed tester in terminal.
+  cs: Příjemný tester rychlosti psaní v terminálu.
+  de: Gemütlicher Tippgeschwindigkeitstest im Terminal.
+  es: Comodidadador prueba de velocidad de escritura en la terminal.
+  fr: Test de vitesse de frappe convivial dans le terminal.
+  id: Penguji kecepatan mengetik yang nyaman di terminal.
+  it: Comodo test di velocità di scrittura nel terminale.
+  ja: ターミナルで気楽に使えるタイピング速度テスター。
+  ko: 터미널에서 편안하게 사용할 수 있는 타이핑 속도 테스터.
+  pl: Przyjemny tester prędkości pisania w terminalu.
+  pt: Testador de velocidade de digitação acolhedor no terminal.
+  ro: Tester confortabil de viteză de scriere în terminal.
+  ru: Уютный тестер скорости набора текста в терминале.
+  th: เครื่องทดสอบความเร็วในการพิมพ์ที่ใช้งานสบายในเทอร์มินัล
+  tr: Terminalde rahat kullanılabilen yazma hızı test aracı.
+  uk: Затишний тестер швидкості набору тексту в терміналі.
+  vi: Trình kiểm tra tốc độ gõ phím dễ chịu trong terminal
 x:
   source: https://github.com/bloznelis/typioca
   eget: bloznelis/typioca

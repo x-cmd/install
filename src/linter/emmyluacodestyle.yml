@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 快速、强大且功能丰富的 Lua 格式化和检查工具
   en: fast, powerful, and feature-rich Lua formatting and checking tool
+  cs: Rychlý, výkonný a bohatě vybavený nástroj na formátování a kontrolu kódu Lua
+  de: Schnelles, leistungsstarkes und funktionsreiches Formatierungs- und Prüfwerkzeug für Lua
+  es: Herramienta rápida, potente y completa para formatear y comprobar código Lua
+  fr: Outil rapide, puissant et riche en fonctionnalités pour le formatage et la vérification du code Lua
+  id: Alat pemformatan dan pemeriksaan kode Lua yang cepat, kuat, dan lengkap fitur
+  it: Strumento rapido, potente e ricco di funzionalità per formattare e verificare il codice Lua
+  ja: 高速で強力、かつ機能豊富な Lua のフォーマット・チェックツール
+  ko: 빠르고 강력하며 기능이 풍부한 Lua 포매팅 및 검사 도구
+  pl: Szybkie, potężne i bogate w funkcje narzędzie do formatowania i sprawdzania kodu Lua
+  pt: Ferramenta rápida, poderosa e rica em recursos para formatar e verificar código Lua
+  ro: Instrument rapid, puternic și bogat în funcții pentru formatarea și verificarea codului Lua
+  ru: Быстрый, мощный и функциональный инструмент для форматирования и проверки кода Lua
+  th: เครื่องมือจัดรูปแบบและตรวจสอบโค้ด Lua ที่รวดเร็ว ทรงพลัง และมีความสามารถหลากหลาย
+  tr: Lua kodunu biçimlendirme ve denetleme için hızlı, güçlü ve özellik açısından zengin araç
+  uk: Швидкий, потужний і функціональний інструмент для форматування та перевірки коду Lua
+  vi: Công cụ định dạng và kiểm tra mã Lua nhanh, mạnh mẽ và giàu tính năng
 x:
   source: https://github.com/CppCXY/EmmyLuaCodeStyle
   eget: CppCXY/EmmyLuaCodeStyle

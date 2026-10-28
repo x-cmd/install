@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 微软开源的轻量级命令行文本编辑器，向 MS-DOS Editor 致敬，界面类似 VS Code
   en: A lightweight open-source command-line text editor from Microsoft, a homage to MS-DOS Editor with a VS Code-like interface
+  cs: Lehký open-source textový editor příkazové řádky od Microsoftu, pocta editoru MS-DOS s rozhraním podobným VS Code
+  de: Ein leichter quelloffener Texteditor für die Kommandozeile von Microsoft, eine Hommage an den MS-DOS-Editor mit einer VS Code-ähnlichen Oberfläche
+  es: Un editor de texto de línea de comandos ligero y de código abierto de Microsoft, un homenaje al MS-DOS Editor con una interfaz similar a VS Code
+  fr: Un éditeur de texte en ligne de commande léger et open source de Microsoft, un hommage à MS-DOS Editor avec une interface similaire à VS Code
+  id: Editor teks baris perintah ringan dan sumber terbuka dari Microsoft, penghormatan kepada MS-DOS Editor dengan antarmuka mirip VS Code
+  it: Un leggero editor di testo da riga di comando open source di Microsoft, un omaggio a MS-DOS Editor con un'interfaccia simile a VS Code
+  ja: Microsoftによる軽量なオープンソースのコマンドラインテキストエディタ。MS-DOS Editorへのオマージュで、VS Codeに似たインターフェースを備えています
+  ko: Microsoft의 가볍고 오픈 소스인 명령줄 텍스트 편집기로, MS-DOS Editor에 대한 오마주이며 VS Code와 유사한 인터페이스를 제공합니다
+  pl: Lekki, otwartoźródłowy edytor tekstu w wierszu poleceń od Microsoftu, hołd dla MS-DOS Editor z interfejsem podobnym do VS Code
+  pt: Um editor de texto de linha de comando leve e de código aberto da Microsoft, uma homenagem ao MS-DOS Editor com interface semelhante ao VS Code
+  ro: Un editor de text u linia de comandă, ușor și open source, de la Microsoft, o omagiu adusă editorului MS-DOS, cu interfață asemănătoare VS Code
+  ru: Лёгкий текстовый редактор командной строки с открытым исходным кодом от Microsoft, дань уважения редактору MS-DOS с интерфейсом, похожим на VS Code
+  th: โปรแกรมแก้ไขไฟล์ข้อความบนบรรทัดคำสั่งแบบเบาและโอเพนซอร์สจาก Microsoft ซึ่งเป็นการแสดงความเคารพต่อ MS-DOS Editor พร้อมอินเทอร์เฟซคล้าย VS Code
+  tr: Microsoft tarafından geliştirilen hafif, açık kaynaklı komut satırı metin düzenleyicisi; MS-DOS Editor'a saygı duruşu ve VS Code benzeri arayüz
+  uk: Легкий текстовий редактор командного рядка з відкритим кодом від Microsoft, данина шану редактору MS-DOS з інтерфейсом, схожим на VS Code
+  vi: Trình soạn thảo văn bản dòng lệnh nhẹ, mã nguồn mở của Microsoft, lời tôn vinh MS-DOS Editor với giao diện tương tự VS Code
 x:
   source: https://github.com/microsoft/edit
   eget: microsoft/edit

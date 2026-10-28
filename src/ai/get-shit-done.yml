@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 编排 AI 智能体完成从规划研究到代码执行验证的规格驱动软件开发
   en: Orchestrate AI agents to manage spec-driven software development, from planning and research to code execution and verification, directly from your command line.
+  cs: Orchestruje AI agenty pro řízení vývoje softwaru založeného na specifikacích, od plánování a výzkumu po spuštění a ověření kódu, přímo z vašeho příkazového řádku.
+  de: Orchestriert KI-Agenten für die Steuerung der spezifikationsgetriebenen Softwareentwicklung – von Planung und Recherche über Codeausführung und Verifikation bis hin direkt aus Ihrer Kommandozeile.
+  es: Orquesta agentes de IA para gestionar el desarrollo de software basado en especificaciones, desde la planificación y la investigación hasta la ejecución y la verificación del código, directamente desde tu línea de comandos.
+  fr: Orchestre des agents IA pour piloter le développement logiciel piloté par les spécifications, de la planification et de la recherche à l'exécution et à la vérification du code, directement depuis votre ligne de commande.
+  id: Mengorkestrasi agen AI untuk mengelola pengembangan perangkat lunak berbasis spesifikasi, dari perencanaan dan riset hingga eksekusi dan verifikasi kode, langsung dari command line Anda.
+  it: Orchestra agenti IA per gestire lo sviluppo software guidato dalle specifiche, dalla pianificazione e ricerca fino all'esecuzione e alla verifica del codice, direttamente dalla riga di comando.
+  ja: 計画と調査からコードの実行と検証まで、仕様駆動型のソフトウェア開発を AI エージェントで管理します。コマンドラインからそのまま実行できます。
+  ko: 계획과 조사부터 코드 실행과 검증까지, 명세 기반 소프트웨어 개발을 AI 에이전트로 관리합니다. 명령줄에서 바로 실행할 수 있습니다.
+  pl: Orkiestruje agentami AI, aby zarządzały rozwojem oprogramowania opartym na specyfikacjach, od planowania i badań po wykonanie i weryfikację kodu, prosto z wiersza poleceń.
+  pt: Orquestra agentes de IA para gerenciar o desenvolvimento de software orientado por especificações, do planejamento e pesquisa à execução e verificação de código, direto da sua linha de comando.
+  ro: Orchestrează agenți AI pentru a gestiona dezvoltarea de software bazată pe specificații, de la planificare și cercetare până la execuția și verificarea codului, direct din linia de comandă.
+  ru: Оркестрирует ИИ-агентов для управления разработкой ПО на основе спецификаций — от планирования и исследования до выполнения и проверки кода, прямо из командной строки.
+  th: ประสานการเอเจนต์ AI เพื่อจัดการการพัฒนาซอฟต์แวร์ที่ขับเคลื่อนด้วยสเปก ตั้งแต่การวางแผนและการวิจัยไปจนถึงการรันและตรวจสอบโค้ด ได้โดยตรงจากบรรทัดคำสั่ง
+  tr: Komut satırından doğrudan, planlama ve araştırmadan kod çalıştırma ve doğrulamaya kadar özellik tabanlı yazılım geliştirmeyi yönetmek üzere yapay zekâ ajanlarını yönetir.
+  uk: Оркеструє ІІ-агентів для керування розробкою ПЗ на основі специфікацій — від планування та дослідження до виконання й перевірки коду, прямо з командного рядка.
+  vi: Điều phối các tác nhân AI để quản lý việc phát triển phần mềm dựa trên đặc tả, từ lập kế hoạch và nghiên cứu đến chạy và kiểm tra mã, ngay từ dòng lệnh.
 x:
   source: https://github.com/gsd-build/get-shit-done
   eget: gsd-build/get-shit-done

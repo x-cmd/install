@@ -4,6 +4,22 @@ license: NOASSERTION
 desc:
   cn: Microsoft Edge 是 Microsoft 的 Chromium 浏览器，与 Windows 深度集成，内置 Copilot AI。
   en: Microsoft Edge is Microsoft's Chromium browser, deeply integrated with Windows and built-in Copilot AI.
+  cs: Microsoft Edge je prohlížeč Chromium od Microsoftu, hluboce integrovaný s Windows a s vestavěnou AI Copilot.
+  de: Microsoft Edge ist der Chromium-Browser von Microsoft, tief in Windows integriert und mit integrierter Copilot AI.
+  es: Microsoft Edge es el navegador Chromium de Microsoft, profundamente integrado con Windows y con la IA Copilot integrada.
+  fr: Microsoft Edge est le navigateur Chromium de Microsoft, profondément intégré à Windows et doté de l'IA Copilot intégrée.
+  id: Microsoft Edge adalah browser Chromium milik Microsoft, terintegrasi erat dengan Windows dan dilengkapi AI Copilot bawaan.
+  it: Microsoft Edge è il browser Chromium di Microsoft, profondamente integrato con Windows e con Copilot AI integrato.
+  ja: Microsoft Edge は Microsoft の Chromium ブラウザで、Windows と深く統合され、Copilot AI を内蔵しています。
+  ko: Microsoft Edge는 Microsoft의 Chromium 브라우저로, Windows와 깊게 통합되어 Copilot AI가 내장되어 있습니다.
+  pl: Microsoft Edge to przeglądarka Chromium firmy Microsoft, głęboko zintegrowana z Windows i z wbudowanym Copilot AI.
+  pt: O Microsoft Edge é o navegador Chromium da Microsoft, profundamente integrado ao Windows e com a IA Copilot embutida.
+  ro: Microsoft Edge este browserul Chromium de la Microsoft, integrat profund cu Windows și cu AI Copilot încorporat.
+  ru: Microsoft Edge — это браузер Chromium от Microsoft, глубоко интегрированный с Windows и со встроенным Copilot AI.
+  th: Microsoft Edge เป็นเบราว์เซอร์ Chromium ของ Microsoft ที่ผสานกับ Windows อย่างลึกซึ้ง พร้อม AI Copilot ในตัว
+  tr: Microsoft Edge, Windows ile derinlemesine entegre edilmiş ve yerleşik Copilot AI'ya sahip Microsoft'un Chromium tarayıcısıdır.
+  uk: Microsoft Edge — це браузер Chromium від Microsoft, глибоко інтегрований із Windows та з вбудованим Copilot AI.
+  vi: Microsoft Edge là trình duyệt Chromium của Microsoft, tích hợp sâu với Windows và có sẵn Copilot AI.
 x:
   source: https://github.com/microsoft-edge/microsoft-edge
   brew: microsoft-edge

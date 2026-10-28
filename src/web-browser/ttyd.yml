@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: ttyd 是一个简单的命令行工具，用于通过 Web 共享终端
   en: ttyd is a simple command-line tool for sharing terminal over the web
+  cs: ttyd je jednoduchý nástroj příkazové řádky pro sdílení terminálu přes web
+  de: ttyd ist ein einfaches Kommandozeilen-Tool zum Teilen eines Terminals über das Web
+  es: ttyd es una herramienta de línea de comandos sencilla para compartir un terminal a través de la web
+  fr: ttyd est un simple outil en ligne de commande pour partager un terminal via le web
+  id: ttyd adalah alat baris perintah sederhana untuk berbagi terminal melalui web
+  it: ttyd è un semplice strumento da riga di comando per condividere un terminale via web
+  ja: ttyd は Web 上でターミナルを共有するためのシンプルなコマンドラインツールです
+  ko: ttyd는 웹을 통해 터미널을 공유하는 간단한 명령줄 도구입니다
+  pl: ttyd to proste narzędzie wiersza poleceń do udostępniania terminala przez internet
+  pt: ttyd é uma ferramenta de linha de comando simples para compartilhar um terminal pela web
+  ro: ttyd este un instrument simplu de linie de comandă pentru partajarea unui terminal prin web
+  ru: ttyd — простой инструмент командной строки для публикации терминала через интернет
+  th: ttyd เป็นเครื่องมือบรรทัดคำสั่งที่เรียบง่ายสำหรับการแชร์เทอร์มินัลผ่านเว็บ
+  tr: ttyd, terminali web üzerinden paylaşmak için basit bir komut satırı aracıdır
+  uk: ttyd — простий інструмент командного рядка для обміну терміналом через інтернет
+  vi: ttyd là công cụ dòng lệnh đơn giản để chia sẻ terminal qua web
 x:
   source: https://github.com/tsl0922/ttyd
   eget: tsl0922/ttyd

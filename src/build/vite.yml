@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Vite 是一种新的前端构建工具，可显着改善前端开发体验
   en: Vite is a new breed of frontend build tooling that significantly improves the frontend development experience
+  cs: Vite je nová generace nástrojů pro sestavování frontendu, která výrazně zlepšuje zážitek z vývoje frontendu
+  de: Vite ist eine neue Art von Frontend-Build-Tools, die die Entwicklungserfahrung im Frontend erheblich verbessert
+  es: Vite es una nueva generación de herramientas de compilación de frontend que mejora significativamente la experiencia de desarrollo frontend
+  fr: Vite est une nouvelle génération d'outils de build frontend qui améliore considérablement l'expérience de développement frontend
+  id: Vite adalah jenis baru perangkat build frontend yang secara signifikan meningkatkan pengalaman pengembangan frontend
+  it: Vite è una nuova generazione di strumenti di build per il frontend che migliora significativamente l'esperienza di sviluppo frontend
+  ja: Vite は新しい世代フロントエンドビルドツールで、フロントエンド開発体験を大幅に改善します
+  ko: Vite는 새로운 세대의 프론트엔드 빌드 도구로, 프론트엔드 개발 경험을 크게 개선합니다
+  pl: Vite to nowa generacja narzędzi do budowania frontendu, która znacząco poprawia doświadczenie pracy z frontendem
+  pt: Vite é uma nova geração de ferramentas de build de frontend que melhora significativamente a experiência de desenvolvimento frontend
+  ro: Vite este o nouă generație de instrumente de build pentru frontend, care îmbunătățește semnificativ experiența de dezvoltare frontend
+  ru: Vite — новое поколение инструментов сборки фронтенда, значительно улучшающее опыт фронтенд-разработки
+  th: Vite คือเครื่องมือ build สำหรับ frontend รุ่นใหม่ที่ช่วยปรับปรุงประสบการณ์การพัฒนา frontend อย่างมีนัยสำคัญ
+  tr: Vite, frontend geliştirme deneyimini önemli ölçüde iyileştiren yeni bir nesil frontend derleme aracıdır
+  uk: Vite — нове покоління інструментів складання фронтенду, що значно покращує досвід фронтенд-розробки
+  vi: Vite là thế hệ mới các công cụ build frontend giúp cải thiện đáng kể trải nghiệm phát triển frontend
 x:
   source: https://github.com/vitejs/vite
   brew: vite

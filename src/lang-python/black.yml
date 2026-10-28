@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 毫不妥协的 Python 代码格式化程序
   en: Black is a PEP 8 compliant opinionated formatter with its own style
+  cs: Black je formátovač dodržující PEP 8, který má vlastní styl
+  de: Black ist ein PEP-8-konformer, eigenwilliger Formatierer mit eigenem Stil
+  es: Black es un formateador con opiniones propio que cumple con PEP 8
+  fr: Black est un formateur respectant PEP 8, avec son propre style
+  id: Black adalah formatter yang patuh PEP 8 dengan gayanya sendiri
+  it: Black è un formattatore conforme a PEP 8 con opinioni proprie e un proprio stile
+  ja: Black は独自のスタイルを持つ PEP 8 準拠の Opinionated フォーマッタです
+  ko: Black은 자체 스타일을 가진 PEP 8 준수 opinionated 포매터입니다
+  pl: Black to narzędzie do formatowania zgodne z PEP 8, z własnym stylem
+  pt: O Black é um formatador opinativo que está em conformidade com o PEP 8 e tem seu próprio estilo
+  ro: Black este un formatator care respectă PEP 8, cu propriul stil
+  ru: Black — форматтер, соответствующий PEP 8, со своим собственным стилем
+  th: Black เป็นตัวจัดรูปแบบที่ยึดตาม PEP 8 พร้อมสไตล์ของตัวเอง
+  tr: Black, kendi stili olan PEP 8 uyumlu, kuralcıl bir biçimlendiricidir
+  uk: Black — форматувальник, що відповідає PEP 8, зі власним стилем
+  vi: Black là trình định dạng tuân thủ PEP 8 với phong cách riêng
 x:
   source: https://github.com/psf/black
   yay: python-black-git

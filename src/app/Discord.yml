@@ -3,6 +3,22 @@ homepage: https://discord.com/
 desc:
   en: Discord is a chat software
   cn: Discord 是一款聊天软件
+  cs: Discord je chatovací software
+  de: Discord ist eine Chat-Software
+  es: Discord es un software de chat
+  fr: Discord est un logiciel de messagerie instantanée
+  id: Discord adalah perangkat lunak obrolan
+  it: Discord è un software di chat
+  ja: Discord はチャットソフトウェアです
+  ko: Discord는 채팅 소프트웨어입니다
+  pl: Discord to oprogramowanie do czatu
+  pt: O Discord é um software de chat
+  ro: Discord este un software de chat
+  ru: Discord — программа для чата
+  th: Discord คือซอฟต์แวร์สำหรับแชท
+  tr: Discord bir sohbet yazılımıdır
+  uk: Discord — програма для чату
+  vi: Discord là phần mềm trò chuyện
 rule:
   darwin/brew:
     cmd: brew install --cask discord

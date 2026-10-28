@@ -3,6 +3,22 @@ homepage: https://adguardian.as93.net/
 desc:
   cn: 用于监控 AdGuard Home 实例的终端工具
   en: A terminal-based tool for monitoring AdGuard Home instances
+  cs: Terminálový nástroj pro monitorování instancí AdGuard Home
+  de: Ein Terminal-Werkzeug zur Überwachung von AdGuard Home-Instanzen
+  es: Una herramienta de terminal para supervisar instancias de AdGuard Home
+  fr: Un outil en terminal pour surveiller les instances AdGuard Home
+  id: Alat terminal untuk memantau instance AdGuard Home
+  it: Uno strumento da terminale per monitorare le istanze di AdGuard Home
+  ja: AdGuard Home のインスタンスを監視するためのターミナルツール
+  ko: AdGuard Home 인스턴스를 모니터링하는 터미널 도구
+  pl: Narzędzie terminalowe do monitorowania instancji AdGuard Home
+  pt: Uma ferramenta de terminal para monitorar instâncias do AdGuard Home
+  ro: Un instrument de terminal pentru monitorizarea instanțelor AdGuard Home
+  ru: Терминальный инструмент для мониторинга экземпляров AdGuard Home
+  th: เครื่องมือเทอร์มินัลสำหรับติดตามการทำงานของอินสแตนซ์ AdGuard Home
+  tr: AdGuard Home örneklerini izlemek için terminal aracı
+  uk: Термінальний інструмент для моніторингу екземплярів AdGuard Home
+  vi: Công cụ terminal để theo dõi các phiên bản AdGuard Home
 rule:
   /cargo:
     cmd: cargo install adguardian

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 纯用 Go 实现的 jq
   en: Pure Go implementation of jq
+  cs: Čistá implementace jq v Go
+  de: Reine Go-Implementierung von jq
+  es: Implementación de jq en Go puro
+  fr: Implémentation de jq en Go pur
+  id: Implementasi jq murni dalam Go
+  it: Implementazione di jq in Go puro
+  ja: Go だけで書かれた jq の実装
+  ko: 순수 Go로 작성된 jq 구현
+  pl: Czysta implementacja jq w Go
+  pt: Implementação de jq em Go puro
+  ro: O implementare jq scrisă în Go pur
+  ru: Реализация jq на чистом Go
+  th: การทำ implementation ของ jq ด้วย Go ล้วน
+  tr: jq'nin saf Go ile yazılmış uygulaması
+  uk: Реалізація jq на чистому Go
+  vi: Bản triển khai jq thuần bằng Go
 x:
   source: https://github.com/itchyny/gojq
   eget: itchyny/gojq

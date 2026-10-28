@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 简化 MongoDB 数据可视化与快速操作的 TUI 管理器
   en: 'MongoDB TUI manager designed to simplify data visualization and quick manipulation'
+  cs: TUI správce MongoDB navržený ke zjednodušení vizualizace dat a rychlých úprav
+  de: Ein MongoDB-TUI-Manager, der die Datenvisualisierung und schnelle Bearbeitung vereinfacht
+  es: Un gestor TUI de MongoDB diseñado para simplificar la visualización de datos y la manipulación rápida
+  fr: Un gestionnaire TUI pour MongoDB conçu pour simplifier la visualisation des données et la manipulation rapide
+  id: Manajer TUI MongoDB yang dirancang untuk menyederhanakan visualisasi data dan manipulasi cepat
+  it: Un gestore TUI per MongoDB progettato per semplificare la visualizzazione dei dati e la manipolazione rapida
+  ja: データの可視化と迅速な操作を簡素化する MongoDB TUI マネージャー
+  ko: 데이터 시각화와 빠른 조작을 단순화하도록 설계된 MongoDB TUI 관리자
+  pl: Menedżer TUI dla MongoDB, który upraszcza wizualizację danych i szybkie manipulacje
+  pt: Um gerenciador TUI de MongoDB projetado para simplificar a visualização de dados e a manipulação rápida
+  ro: Un manager TUI pentru MongoDB conceput pentru a simplifica vizualizarea datelor și manipularea rapidă
+  ru: Менеджер TUI для MongoDB, созданный для упрощения визуализации данных и быстрых манипуляций
+  th: ตัวจัดการ MongoDB แบบ TUI ที่ออกแบบมาเพื่อให้การแสดงภาพข้อมูลและการจัดการอย่างรวดเร็วง่ายขึ้น
+  tr: Veri görselleştirmeyi ve hızlı işlemeyi kolaylaştırmak için tasarlanmış MongoDB TUI yöneticisi
+  uk: TUI-менеджер MongoDB, створений для спрощення візуалізації даних і швидких маніпуляцій
+  vi: Trình quản lý TUI cho MongoDB được thiết kế để đơn giản hóa việc trực quan hóa dữ liệu và thao tác nhanh
 x:
   source: https://github.com/kopecmaciej/vi-mongo
   eget: kopecmaciej/vi-mongo

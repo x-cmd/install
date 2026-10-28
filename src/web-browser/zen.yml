@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Zen Browser 是基于 Firefox 的现代化分屏 / 工作区浏览器，注重隐私与极简设计。
   en: Zen Browser is a Firefox-based modern split-view / workspace browser focused on privacy and minimal design.
+  cs: Zen Browser je moderní prohlížeč založený na Firefoxu s rozděleným zobrazením a pracovními prostory, zaměřený na soukromí a minimalistický design.
+  de: Zen Browser ist ein moderner, auf Firefox basierender Browser mit geteilter Ansicht und Arbeitsbereichen, der Privatsphäre und minimalistisches Design in den Fokus stellt.
+  es: Zen Browser es un navegador moderno basado en Firefox con vista dividida y espacios de trabajo, centrado en la privacidad y el diseño minimalista.
+  fr: Zen Browser est un navigateur moderne basé sur Firefox avec affichage partagé et espaces de travail, axé sur la confidentialité et une conception minimaliste.
+  id: Zen Browser adalah peramban modern berbasis Firefox dengan tampilan terbagi dan ruang kerja, yang berfokus pada privasi dan desain minimal.
+  it: Zen Browser è un browser moderno basato su Firefox con vista divisa e aree di lavoro, focalizzato su privacy e design minimalista.
+  ja: Zen Browser は Firefox ベースのモダンな分割ビュー／ワークスペースブラウザーで、プライバシーとミニマルデザインに重点を置いています。
+  ko: Zen Browser는 Firefox 기반의 현대적인 분할 보기 및 작업 공간 브라우저로, 개인정보 보호와 미니멀한 디자인에 중점을 둡니다.
+  pl: Zen Browser to nowoczesna przeglądarka oparta na Firefoksie z podzielonym widokiem i obszarami roboczymi, skupiająca się na prywatności i minimalistycznym designie.
+  pt: O Zen Browser é um navegador moderno baseado no Firefox com visualização dividida e espaços de trabalho, focado em privacidade e design minimalista.
+  ro: Zen Browser este un browser modern bazat pe Firefox, cu vizualizare împărțită și spații de lucru, concentrat pe confidențialitate și design minimalist.
+  ru: Zen Browser — современный браузер на базе Firefox с разделённым представлением и рабочими пространствами, ориентированный на приватность и минималистичный дизайн.
+  th: Zen Browser คือเบราว์เซอร์สมัยใหม่ที่ใช้ Firefox เป็นฐาน รองรับมุมมองแบบแยกส่วนและพื้นที่ทำงาน โดยเน้นความเป็นส่วนตัวและดีไซน์เรียบง่าย
+  tr: Zen Browser, gizliliğe ve minimalist tasarıma odaklanan, bölünmüş görünüm ve çalışma alanları sunan Firefox tabanlı modern bir tarayıcıdır.
+  uk: Zen Browser — сучасний браузер на базі Firefox із розділеним поданням і робочими просторами, орієнтований на приватність і мінімалістичний дизайн.
+  vi: Zen Browser là trình duyệt hiện đại dựa trên Firefox với chế độ xem chia đôi và không gian làm việc, tập trung vào quyền riêng tư và thiết kế tối giản.
 x:
   source: https://github.com/zen-browser/desktop
   flatpak: app.zenbrowser.Zen-Browser

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Expo 应用服务(EAS)是世博会背后的团队为世博会和 React 本地应用提供的深度集成云服务
   en: Expo Application Services (EAS) are deeply integrated cloud services for Expo and React Native apps, from the team behind Expo
+  cs: Expo Application Services (EAS) jsou hluboce integrované cloudové služby pro aplikace Expo a React Native od týmu stojícího za Expo
+  de: Expo Application Services (EAS) sind tief integrierte Cloud-Dienste für Expo- und React-Native-Apps vom Team hinter Expo
+  es: Expo Application Services (EAS) son servicios en la nube profundamente integrados para aplicaciones de Expo y React Native, del equipo detrás de Expo
+  fr: Expo Application Services (EAS) sont des services cloud profondément intégrés pour les applications Expo et React Native, par l'équipe derrière Expo
+  id: Expo Application Services (EAS) adalah layanan cloud yang terintegrasi erat untuk aplikasi Expo dan React Native, dari tim di balik Expo
+  it: Expo Application Services (EAS) sono servizi cloud fortemente integrati per le app Expo e React Native, dal team dietro Expo
+  ja: Expo Application Services (EAS) は、Expo の背後にいるチームが提供する Expo と React Native アプリのための深く統合されたクラウドサービスです
+  ko: Expo Application Services (EAS)는 Expo 팀이 제공하는 Expo 및 React Native 앱을 위한 깊이 통합된 클라우드 서비스입니다
+  pl: Expo Application Services (EAS) to głęboko zintegrowane usługi chmurowe dla aplikacji Expo i React Native, autorstwa zespołu stojącego za Expo
+  pt: Expo Application Services (EAS) são serviços de nuvem profundamente integrados para aplicativos Expo e React Native, da equipe por trás do Expo
+  ro: Expo Application Services (EAS) sunt servicii cloud profund integrate pentru aplicațiile Expo și React Native, create de echipa din spatele Expo
+  ru: Expo Application Services (EAS) — это глубоко интегрированные облачные сервисы для приложений Expo и React Native от команды, стоящей за Expo
+  th: Expo Application Services (EAS) คือบริการคลาวด์ที่ผสมผสานอย่างลึกสำหรับแอป Expo และ React Native จากทีมผู้สร้าง Expo
+  tr: Expo Application Services (EAS), Expo'nun arkasındaki ekip tarafından Expo ve React Native uygulamaları için derinlemesine entegre bulut hizmetleridir
+  uk: Expo Application Services (EAS) — це глибоко інтегровані хмарні сервіси для застосунків Expo і React Native від команди, яка стоїть за Expo
+  vi: Expo Application Services (EAS) là các dịch vụ đám mây tích hợp sâu cho ứng dụng Expo và React Native, đến từ đội ngũ đứng sau Expo
 x:
   source: https://github.com/expo/eas-cli
   npm: eas-cli

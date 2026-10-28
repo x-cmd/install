@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 在终端中交互式查找并恢复已删除或被覆盖的文件
   en: 'Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal'
+  cs: Interaktivně vyhledává a obnovuje smazané nebo přepsané soubory z vašeho terminálu
+  de: Interaktiv gelöschte oder überschriebene Dateien aus dem Terminal wiederherstellen und finden
+  es: Encuentra y recupera de forma interactiva archivos eliminados o sobrescritos desde tu terminal
+  fr: Trouvez et récupérez de manière interactive les fichiers supprimés ou écrasés depuis votre terminal
+  id: Temukan dan pulihkan secara interaktif file yang terhapus atau ditimpa dari terminal Anda
+  it: Trova e recupera in modo interattivo i file eliminati o sovrascritti dal tuo terminale
+  ja: ターミナルから対話的に削除または上書きされたファイルを検索して復元します
+  ko: 터미널에서 대화형으로 삭제되었거나 덮어쓴 파일을 찾아 복구합니다
+  pl: Interaktywnie wyszukuje i odzyskuje usunięte lub nadpisane pliki z terminala
+  pt: Encontre e recupere interativamente arquivos excluídos ou sobrescritos a partir do seu terminal
+  ro: Găsește și recuperează interactiv fișierele șterse sau suprascrise din terminalul tău
+  ru: Интерактивно находит и восстанавливает удалённые или перезаписанные файлы прямо из терминала
+  th: ค้นหาและกู้คืนไฟล์ที่ถูกลบหรือเขียนทับแบบโต้ตอบจากเทอร์มินัลของคุณ
+  tr: Terminalinizden silinmiş veya üzerine yazılmış dosyaları etkileşimli olarak bulur ve kurtarır
+  uk: Інтерактивно знаходить і відновлює видалені або перезаписані файли з вашого терміналу
+  vi: Tìm và khôi phục tương tác các tệp đã bị xóa hoặc ghi đè từ terminal của bạn
 x:
   source: https://github.com/PabloLec/RecoverPy
   eget: PabloLec/RecoverPy

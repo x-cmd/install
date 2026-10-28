@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: OpenAI 与 Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
   en: OpenAI & Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
+  cs: Proxy gateway API Kiro IDE kompatibilní s OpenAI a Anthropic, podporuje Claude Code CLI
+  de: API-Proxy-Gateway für Kiro IDE, kompatibel mit OpenAI und Anthropic, unterstützt Claude Code CLI
+  es: Puerta de enlace proxy de API de Kiro IDE compatible con OpenAI y Anthropic, compatible con Claude Code CLI
+  fr: Passerelle proxy d'API Kiro IDE compatible avec OpenAI et Anthropic, prend en charge Claude Code CLI
+  id: Gateway proxy API Kiro IDE yang kompatibel dengan OpenAI dan Anthropic, mendukung Claude Code CLI
+  it: Gateway proxy API di Kiro IDE compatibile con OpenAI e Anthropic, supporta Claude Code CLI
+  ja: OpenAI と Anthropic 互換の Kiro IDE API プロキシゲートウェイ、Claude Code CLI に対応
+  ko: OpenAI 및 Anthropic 호환 Kiro IDE API 프록시 게이트웨이, Claude Code CLI 지원
+  pl: Gateway proxy API Kiro IDE zgodny z OpenAI i Anthropic, obsługuje Claude Code CLI
+  pt: Gateway proxy de API do Kiro IDE compatível com OpenAI e Anthropic, com suporte a Claude Code CLI
+  ro: Gateway proxy API pentru Kiro IDE compatibil cu OpenAI și Anthropic, cu suport pentru Claude Code CLI
+  ru: Прокси-шлюз API Kiro IDE, совместимый с OpenAI и Anthropic, поддерживает Claude Code CLI
+  th: เกตเวย์พร็อกซี API ของ Kiro IDE ที่เข้ากันได้กับ OpenAI และ Anthropic รองรับ Claude Code CLI
+  tr: OpenAI ve Anthropic ile uyumlu Kiro IDE API proxy geçidi, Claude Code CLI destekler
+  uk: Проксі-шлюз API Kiro IDE, сумісний з OpenAI та Anthropic, підтримує Claude Code CLI
+  vi: Cổng proxy API Kiro IDE tương thích với OpenAI và Anthropic, hỗ trợ Claude Code CLI
 x:
   source: https://github.com/aliom-v/KiroGate
   eget: aliom-v/KiroGate

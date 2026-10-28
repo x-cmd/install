@@ -3,6 +3,22 @@ homepage: https://infozip.sourceforge.net/UnZip.html
 desc:
   cn: UnZip 是压缩为.zip 格式(也称为“ zipfiles”)的档案的提取工具
   en: UnZip is an extraction utility for archives compressed in .zip format (also called "zipfiles")
+  cs: UnZip je nástroj pro rozbalování archivů komprimovaných ve formátu .zip (také nazývaných "zipfiles")
+  de: UnZip ist ein Entpackwerkzeug für Archive im .zip-Format (auch "zipfiles" genannt)
+  es: UnZip es una utilidad de extracción para archivos comprimidos en formato .zip (también llamados "zipfiles")
+  fr: UnZip est un outil d'extraction pour les archives compressées au format .zip (également appelés "zipfiles")
+  id: UnZip adalah utilitas ekstraksi untuk arsip yang dikompresi dalam format .zip (juga disebut "zipfiles")
+  it: UnZip è un'utilità di estrazione per archivi compressi in formato .zip (anche chiamati "zipfiles")
+  ja: UnZip は、.zip 形式（"zipfiles" とも呼ばれます）で圧縮されたアーカイブを展開するユーティリティです。
+  ko: UnZip는 .zip 형식("zipfiles"라고도 함)으로 압축된 아카이브를 풀어내는 유틸리티입니다
+  pl: UnZip to narzędzie do rozpakowywania archiwów skompresowanych w formacie .zip (nazywanych też "zipfiles")
+  pt: UnZip é um utilitário de extração para arquivos compactados no formato .zip (também chamados de "zipfiles")
+  ro: UnZip este un utilitar de extragere pentru arhive comprimate în format .zip (numite și "zipfiles")
+  ru: UnZip — это утилита для распаковки архивов, сжатых в формате .zip (также называемых «zipfiles»)
+  th: UnZip เป็นเครื่องมือแตกไฟล์สำหรับไฟล์บีบอัดในรูปแบบ .zip (ที่เรียกกันว่า "zipfiles")
+  tr: UnZip, .zip formatında sıkıştırılmış arşivleri açan bir çıkarma aracıdır ("zipfiles" olarak da adlandırılır)
+  uk: UnZip — це утиліта для розпакування архівів, стиснутих у форматі .zip (також їх називають «zipfiles»)
+  vi: UnZip là tiện ích giải nén cho các tệp nén ở định dạng .zip (còn gọi là "zipfiles")
 rule:
   darwin/brew:
     cmd: brew install unzip

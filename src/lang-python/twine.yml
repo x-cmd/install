@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Twine 是一个将 Python 包发布到 PyPI 和其他存储库的实用程序
   en: Twine is a utility for publishing Python packages to PyPI and other repositories
+  cs: Twine je nástroj pro publikování Python balíčků do PyPI a dalších repozitářů
+  de: Twine ist ein Werkzeug zum Veröffentlichen von Python-Paketen auf PyPI und anderen Repositories
+  es: Twine es una utilidad para publicar paquetes de Python en PyPI y otros repositorios
+  fr: Twine est un utilitaire pour publier des paquets Python sur PyPI et d'autres dépôts
+  id: Twine adalah utilitas untuk menerbitkan paket Python ke PyPI dan repositori lain
+  it: Twine è un'utilità per pubblicare pacchetti Python su PyPI e altri repository
+  ja: Twine は Python パッケージを PyPI やその他のリポジトリに公開するためのユーティリティです
+  ko: Twine은 Python 패키지를 PyPI 및 기타 저장소에 게시하는 유틸리티입니다
+  pl: Twine to narzędzie do publikowania pakietów Pythona w PyPI i innych repozytoriach
+  pt: Twine é um utilitário para publicar pacotes Python no PyPI e em outros repositórios
+  ro: Twine este o utilitar pentru publicarea pachetelor Python pe PyPI și în alte depozite
+  ru: Twine — утилита для публикации пакетов Python в PyPI и других репозиториях
+  th: Twine เป็นยูทิลิตีสำหรับเผยแพร่แพ็กเกจ Python ไปยัง PyPI และที่เก็บข้อมูลอื่น
+  tr: Twine, Python paketlerini PyPI ve diğer depolar yayımlamak için bir yardımcı programdır
+  uk: Twine — утиліта для публікації пакетів Python у PyPI та інших репозиторіях
+  vi: Twine là tiện ích để xuất bản các gói Python lên PyPI và các kho lưu trữ khác
 x:
   source: https://github.com/pypa/twine
   apt: twine

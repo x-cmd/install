@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 从文本提示生成短视频，自动配音、加字幕、配素材和背景音乐
   en: Generates short-form videos from text prompts with automated voiceovers, captions, stock footage, and background music.
+  cs: Generuje krátká videa z textových pokynů s automatickým hlasovým komentářem, titulky, stockovými záběry a hudbou na pozadí.
+  de: Erzeugt Kurzvideos aus Text-Prompts mit automatischer Sprachaufnahme, Untertiteln, Stockmaterial und Hintergrundmusik.
+  es: Genera vídeos cortos a partir de indicaciones de texto con narración automática, subtítulos, material de archivo y música de fondo.
+  fr: Génère de courtes vidéos à partir d'instructions textuelles avec voix off automatique, sous-titres, banques d'images et musique de fond.
+  id: Membuat video pendek dari prompt teks dengan voice-over otomatis, subtitel, stock footage, dan musik latar.
+  it: Genera brevi video da prompt testuali con voiceover automatico, sottotitoli, materiali d'archivio e musica di sottofondo.
+  ja: テキストプロンプトからショート動画を生成し、自動音声ナレーション、字幕、ストック映像、バックグラウンドミュージックを付加します。
+  ko: 텍스트 프롬프트로 숏폼 동영상을 만들고 자동 음성 내레이션, 자막, 스톡 영상, 배경 음악을 더합니다.
+  pl: Generuje krótkie filmy z promptów tekstowych z automatycznym dubbingiem, napisami, materiałem wideo i muzyką w tle.
+  pt: Gera vídeos curtos a partir de prompts de texto com narração automática, legendas, vídeos de banco de imagens e música de fundo.
+  ro: Generează videoclipuri scurte din instrucțiuni text, cu voce automată, subtitrări, material de stoc și muzică de fundal.
+  ru: Создаёт короткие видео по текстовым запросам с автоматической озвучкой, субтитрами, стоковыми кадрами и фоновой музыкой.
+  th: สร้างวิดีโอสั้นจากพรอมต์ข้อความ พร้อมเสียงบรรยายอัตโนมัติ คำบรรยาย ไฟล์คลิปสต็อก และดนตรีประกอบ
+  tr: Metin istemlerinden kısa videolar üretir; otomatik seslendirme, altyazı, stok görüntü ve arka plan müziği ekler.
+  uk: Створює короткі відео з текстових запитів з автоматичним озвучуванням, субтитрами, стоковими кадрами та фоновою музикою.
+  vi: Tạo video ngắn từ các câu lệnh văn bản với lời đọc tự động, phụ đề, video stock và nhạc nền.
 x:
   source: https://github.com/gyoridavid/short-video-maker
   npm: short-video-maker

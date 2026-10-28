@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: CLI 显示许多产品的生命周期结束日期。如 Python、Ubuntu、Centos。
   en: CLI to show end-of-life dates for a number of products. Such as Python, Ubuntu, Centos.
+  cs: CLI pro zobrazení dat konce životnosti řady produktů, jako je Python, Ubuntu nebo Centos.
+  de: CLI zum Anzeigen des End-of-Life-Datums einer Reihe von Produkten wie Python, Ubuntu, Centos.
+  es: CLI para mostrar las fechas de fin de vida de varios productos, como Python, Ubuntu o Centos.
+  fr: CLI pour afficher les dates de fin de vie de plusieurs produits, comme Python, Ubuntu, Centos.
+  id: CLI untuk menampilkan tanggal akhir dukungan berbagai produk seperti Python, Ubuntu, Centos.
+  it: CLI per mostrare le date di fine vita di una serie di prodotti come Python, Ubuntu, Centos.
+  ja: Python、Ubuntu、Centos などの製品のサポート終了日を表示する CLI です。
+  ko: Python, Ubuntu, Centos 등 여러 제품의 지원 종료일을 표시하는 CLI
+  pl: CLI do wyświetlania dat zakończenia wsparcia dla szeregu produktów, takich jak Python, Ubuntu czy Centos.
+  pt: CLI para mostrar as datas de fim de vida de vários produtos, como Python, Ubuntu e Centos.
+  ro: CLI pentru afișarea datelor de sfârșit de viață pentru o serie de produse, precum Python, Ubuntu sau Centos.
+  ru: CLI для отображения дат окончания поддержки ряда продуктов, таких как Python, Ubuntu, Centos.
+  th: CLI สำหรับแสดงวันสิ้นสุดของการสนับสนุนของผลิตภัณฑ์หลายชนิด เช่น Python, Ubuntu, Centos
+  tr: Python, Ubuntu, Centos gibi çeşitli ürünlerin destek bitiş tarihlerini gösteren CLI
+  uk: CLI для показу дат завершення підтримки низки продуктів, таких як Python, Ubuntu, Centos.
+  vi: CLI hiển thị ngày kết thúc hỗ trợ của nhiều sản phẩm như Python, Ubuntu, Centos.
 x:
   source: https://github.com/hugovk/norwegianblue
 rule:

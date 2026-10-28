@@ -3,6 +3,22 @@ homepage: https://salsa.debian.org/apt-team/apt
 desc:
   cn: apt 是 Debian 及其衍生产品的主要命令行包管理器
   en: apt is the main command-line package manager for Debian and its derivatives
+  cs: apt je hlavní správce balíčků pro Debian a jeho deriváty
+  de: apt ist der wichtigste Paketmanager für Debian und seine Derivate
+  es: apt es el gestor de paquetes de línea de comandos principal para Debian y sus derivados
+  fr: apt est le principal gestionnaire de paquets en ligne de commande pour Debian et ses dérivées
+  id: apt adalah pengelola paket baris perintah utama untuk Debian dan turunannya
+  it: apt è il principale gestore di pacchetti da riga di comando per Debian e le sue derivate
+  ja: apt は Debian とその派生ディストリビューションの主要なコマンドライン・パッケージマネージャーです
+  ko: apt는 Debian과 그 파생 배포판을 위한 주요 명령줄 패키지 관리자입니다
+  pl: apt jest głównym menedżerem pakietów wiersza poleceń dla Debiana i jego pochodnych
+  pt: apt é o principal gerenciador de pacotes de linha de comando para o Debian e seus derivados
+  ro: apt este principalul manager de pachete din linia de comandă pentru Debian și derivatele sale
+  ru: apt — основной менеджер пакетов командной строки для Debian и его производных
+  th: apt คือตัวจัดการแพ็กเกจบรรทัดคำสั่งหลักสำหรับ Debian และระบบที่สืบทอดมาจากมัน
+  tr: apt, Debian ve türevleri için ana komut satırı paket yöneticisidir
+  uk: apt — основний менеджер пакетів командного рядка для Debian та його похідних
+  vi: apt là trình quản lý gói dòng lệnh chính cho Debian và các bản phái sinh của nó
 rule:
   debian/apt:
     cmd: sudo apt-get install apt

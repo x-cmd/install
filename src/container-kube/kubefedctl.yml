@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用来管理和协调多个 kubernetes 集群的联邦（federation）
   en: Federation for managing and coordinating multiple Kubernetes clusters
+  cs: Federace pro správu a koordinaci více clusterů Kubernetes
+  de: Federation zum Verwalten und Koordinieren mehrerer Kubernetes-Cluster
+  es: Federación para gestionar y coordinar varios clústeres de Kubernetes
+  fr: Fédération pour gérer et coordonner plusieurs clusters Kubernetes
+  id: Federasi untuk mengelola dan mengoordinasikan beberapa klaster Kubernetes
+  it: Federazione per gestire e coordinare più cluster Kubernetes
+  ja: 複数の Kubernetes クラスターを管理・調整するためのフェデレーション
+  ko: 여러 Kubernetes 클러스터를 관리하고 조정하기 위한 연합
+  pl: Federacja do zarządzania i koordynacji wieloma klastrami Kubernetes
+  pt: Federação para gerenciar e coordenar vários clusters do Kubernetes
+  ro: Federație pentru gestionarea și coordonarea mai multor clustere Kubernetes
+  ru: Федерация для управления и координации нескольких кластеров Kubernetes
+  th: สหพันธ์สำหรับจัดการและประสานงานคลัสเตอร์ Kubernetes หลายชุด
+  tr: Birden çok Kubernetes kümesini yönetmek ve koordine etmek için federasyon
+  uk: Федерація для керування та координації кількох кластерів Kubernetes
+  vi: Liên bang để quản lý và phối hợp nhiều cụm Kubernetes
 x:
   source: https://github.com/kubernetes-retired/kubefed
   asdf: kubefedctl

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 开源框架，让编码智能体从文本提示生成可直接上线的 Lottie 动画，并提供热重载播放器实时预览
   en: Text-to-lottie is an open-source framework that lets coding agents (Claude Code, Codex, Cursor, etc.) generate production-ready Lottie animations from text prompts, with a hot-reloading player for live preview and inspection.
+  cs: Text-to-lottie je open-source framework, který umožňuje kódovacím agentům (Claude Code, Codex, Cursor atd.) generovat produkčně připravené Lottie animace z textových promptů, s horkým načtením hráčem pro živý náhled a kontrolu.
+  de: Text-to-lottie ist ein Open-Source-Framework, das Coding-Agenten (Claude Code, Codex, Cursor usw.) erlaubt, produktionsreife Lottie-Animationen aus Text-Prompts zu erzeugen, mit Hot-Reload-Player für Live-Vorschau und Inspektion.
+  es: Text-to-lottie es un framework de código abierto que permite a los agentes de codificación (Claude Code, Codex, Cursor, etc.) generar animaciones Lottie listas para producción a partir de prompts de texto, con un reproductor de recarga en caliente para vista previa e inspección en vivo.
+  fr: Text-to-lottie est un framework open source qui permet aux agents de code (Claude Code, Codex, Cursor, etc.) de générer des animations Lottie prêtes pour la production à partir de prompts texte, avec un lecteur à rechargement à chaud pour l'aperçu et l'inspection en direct.
+  id: Text-to-lottie adalah framework open-source yang memungkinkan agen pengodean (Claude Code, Codex, Cursor, dll.) menghasilkan animasi Lottie siap produksi dari prompt teks, dengan pemutar hot-reload untuk pratinjau langsung dan inspeksi.
+  it: Text-to-lottie è un framework open source che consente agli agenti di coding (Claude Code, Codex, Cursor, ecc.) di generare animazioni Lottie pronte per la produzione da prompt testuali, con un player a hot-reload per anteprima e ispezione dal vivo.
+  ja: Text-to-lottie はオープンソースのフレームワークで、コーディングエージェント (Claude Code、Codex、Cursor など) がテキストプロンプトから本番対応の Lottie アニメーションを生成できるようにします。ホットリロードのプレーヤーでライブプレビューと検査ができます。
+  ko: Text-to-lottie는 오픈 소스 프레임워크로, 코딩 에이전트(Claude Code, Codex, Cursor 등)가 텍스트 프롬프트로 프로덕션 준비 Lottie 애니메이션을 생성하고, 핫 리로드 플레이어로 실시간 미리보기와 검사를 할 수 있습니다.
+  pl: Text-to-lottie to open-source'owy framework, który pozwala agentom programistycznym (Claude Code, Codex, Cursor itp.) generować gotowe do produkcji animacje Lottie z promptów tekstowych, z odtwarzaczem z hot-reload do podglądu na żywo i inspekcji.
+  pt: O Text-to-lottie é um framework de código aberto que permite que agentes de programação (Claude Code, Codex, Cursor, etc.) gerem animações Lottie prontas para produção a partir de prompts de texto, com um player de hot-reload para pré-visualização e inspeção ao vivo.
+  ro: Text-to-lottie este un framework open source care permite agenților de cod (Claude Code, Codex, Cursor etc.) să genereze animații Lottie gata de producție din prompturi text, cu un player cu reîncărcare la cald pentru previzualizare și inspecție live.
+  ru: Text-to-lottie — это open-source фреймворк, позволяющий кодинг-агентам (Claude Code, Codex, Cursor и т.д.) генерировать готовые к продакшену Lottie-анимации из текстовых промптов, с плеером горячей перезагрузки для живого предпросмотра и инспекции.
+  th: Text-to-lottie เป็นเฟรมเวิร์กโอเพนซอร์สที่ช่วยให้เอเจนต์เขียนโค้ด (Claude Code, Codex, Cursor ฯลฯ) สร้างแอนิเมชัน Lottie พร้อมใช้งานจากพรอมต์ข้อความ พร้อมเครื่องเล่นแบบ hot-reload เพื่อดูตัวอย่างสดและตรวจสอบ
+  tr: Text-to-lottie, kodlama ajanlarının (Claude Code, Codex, Cursor vb.) metin istemlerinden üretime hazır Lottie animasyonları üretmesini sağlayan açık kaynaklı bir çerçevedir; canlı önizleme ve inceleme için hot-reload oynatıcısı sunar.
+  uk: Text-to-lottie — це open-source фреймворк, який дозволяє агентам коду (Claude Code, Codex, Cursor тощо) генерувати готові до продакшену Lottie-анімації з текстових промптів, із плеєром гарячого перезавантаження для живого перегляду та інспекції.
+  vi: Text-to-lottie là framework mã nguồn mở cho phép các agent viết mã (Claude Code, Codex, Cursor, v.v.) tạo hoạt ảnh Lottie sẵn dùng cho sản phẩm từ các prompt văn bản, kèm trình phát tải lại nóng để xem trước và kiểm tra trực tiếp.
 x:
   source: https://github.com/diffusionstudio/lottie
 rule:

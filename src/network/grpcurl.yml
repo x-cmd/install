@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: grpcurl 是一个命令行工具，可让您与 gRPC 服务器交互
   en: grpcurl is a command-line tool that lets you interact with gRPC servers
+  cs: grpcurl je nástroj příkazové řádky, který vám umožňuje komunikovat s gRPC servery
+  de: grpcurl ist ein Kommandozeilen-Tool, mit dem Sie mit gRPC-Servern interagieren können
+  es: grpcurl es una herramienta de línea de comandos que te permite interactuar con servidores gRPC
+  fr: grpcurl est un outil en ligne de commande qui vous permet d'interagir avec des serveurs gRPC
+  id: grpcurl adalah alat baris perintah yang memungkinkan Anda berinteraksi dengan server gRPC
+  it: grpcurl è uno strumento da riga di comando che ti permette di interagire con i server gRPC
+  ja: grpcurl は gRPC サーバーと対話できるコマンドラインツールです
+  ko: grpcurl는 gRPC 서버와 상호작용할 수 있게 하는 명령줄 도구입니다
+  pl: grpcurl to narzędzie wiersza poleceń, które pozwala wchodzić w interakcję z serwerami gRPC
+  pt: grpcurl é uma ferramenta de linha de comando que permite interagir com servidores gRPC
+  ro: grpcurl este un instrument de linie de comandă care vă permite să interacționați cu servere gRPC
+  ru: grpcurl — инструмент командной строки, позволяющий взаимодействовать с gRPC-серверами
+  th: grpcurl เป็นเครื่องมือบรรทัดคำสั่งที่ให้คุณโต้ตอบกับเซิร์ฟเวอร์ gRPC
+  tr: grpcurl, gRPC sunucularıyla etkileşim kurmanızı sağlayan bir komut satırı aracıdır
+  uk: grpcurl — інструмент командного рядка, що дає змогу взаємодіяти з gRPC-серверами
+  vi: grpcurl là công cụ dòng lệnh cho phép bạn tương tác với máy chủ gRPC
 x:
   source: https://github.com/fullstorydev/grpcurl
   eget: fullstorydev/grpcurl

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 简化 IPv4/IPv6 CIDR 前缀管理,支持计数、重叠检查、解释与细分
   en: 'Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.'
+  cs: Zjednodušuje správu síťových prefixů IPv4/IPv6 CIDR s počítáním, kontrolou překryvů, vysvětlením a dělením.
+  de: Vereinfacht die Verwaltung von IPv4/IPv6-CIDR-Netzwerkpräfixen mit Zählung, Überlappungsprüfung, Erläuterung und Unterteilung.
+  es: Simplifica la gestión de prefijos de red IPv4/IPv6 CIDR con recuento, comprobación de solapamientos, explicación y subdivisión.
+  fr: Simplifie la gestion des préfixes réseau IPv4/IPv6 CIDR avec comptage, vérification des chevauchements, explication et subdivision.
+  id: Sederhanakan manajemen prefiks jaringan IPv4/IPv6 CIDR dengan penghitungan, pemeriksaan tumpang tindih, penjelasan, dan subdividisi.
+  it: Semplifica la gestione dei prefissi di rete IPv4/IPv6 CIDR con conteggio, verifica delle sovrapposizioni, spiegazione e suddivisione.
+  ja: IPv4/IPv6 CIDR ネットワークプレフィックスの管理を、件数カウント、重複チェック、説明、サブディビジョンで簡略化します。
+  ko: 개수 세기, 겹침 검사, 설명, 세분화 기능을 제공하는 IPv4/IPv6 CIDR 네트워크 접두사 관리를 단순화합니다.
+  pl: Uproszcza zarządzanie prefiksami sieci IPv4/IPv6 CIDR dzięki liczeniu, sprawdzaniu nakładania się, wyjaśnianiu i dzieleniu.
+  pt: Simplifica o gerenciamento de prefixos de rede IPv4/IPv6 CIDR com contagem, verificação de sobreposição, explicação e subdivisão.
+  ro: Simplifică gestionarea prefixelor de rețea IPv4/IPv6 CIDR cu numărare, verificarea suprapunerilor, explicare și subdivizare.
+  ru: Упрощает управление сетевыми префиксами IPv4/IPv6 CIDR, добавляя подсчёт, проверку пересечений, объяснение и подразделение.
+  th: ทำให้การจัดการคำนำหน้าเครือข่าย IPv4/IPv6 CIDR ง่ายขึ้นด้วยการนับ ตรวจสอบการทับซ้อน คำอธิบาย และการแบ่งย่อย
+  tr: Sayma, çakışma denetimi, açıklama ve bölünme desteğiyle IPv4/IPv6 CIDR ağ öneki yönetimini basitleştirir.
+  uk: Спрощущує керування мережевими префіксами IPv4/IPv6 CIDR завдяки підрахунку, перевірці перетину, поясненню та поділу.
+  vi: Đơn giản hóa việc quản lý tiền tố mạng IPv4/IPv6 CIDR với đếm, kiểm tra trùng lặp, giải thích và phân chia.
 x:
   source: https://github.com/bschaatsbergen/cidr
   eget: bschaatsbergen/cidr

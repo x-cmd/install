@@ -4,6 +4,22 @@ license: LGPL-2.1
 desc:
   cn: GNU Aspell 是一个自由和开源的拼写检查器，旨在最终取代 Ispell
   en: GNU Aspell is a Free and Open Source spell checker designed to eventually replace Ispell
+  cs: GNU Aspell je svobodný kontrolor pravopisu s otevřeným zdrojovým kódem, navržený k postupnému nahrazení Ispell
+  de: GNU Aspell ist ein freier und quelloffener Rechtschreibprüfer, der darauf abzielt, Ispell langfristig zu ersetzen
+  es: GNU Aspell es un corrector ortográfico libre y de código abierto diseñado para acabar sustituyendo a Ispell
+  fr: GNU Aspell est un correcteur orthographique libre et open source conçu pour remplacer à terme Ispell
+  id: GNU Aspell adalah pemeriksa ejaan gratis dan sumber terbuka yang dirancang untuk akhirnya menggantikan Ispell
+  it: GNU Aspell è un correttore ortografico libero e open source progettato per sostituire definitivamente Ispell
+  ja: GNU Aspell は Ispell の置き換えを目的にした、自由でオープンソースのスペルチェッカーです
+  ko: GNU Aspell은 Ispell을 결국 대체하기 위해 설계된 자유 및 오픈 소스 철자 검사기입니다
+  pl: GNU Aspell to wolny i otwartoźródłowy sprawdzacz pisowni, zaprojektowany w celu ostatecznego zastąpienia Ispell
+  pt: GNU Aspell é um verificador ortográfico livre e de código aberto projetado para substituir eventualmente o Ispell
+  ro: GNU Aspell este un verificator ortografic liber și open source, conceput pentru a înlocui în cele din urmă Ispell
+  ru: GNU Aspell — это свободная программная проверка орфографии с открытым исходным кодом, созданная для постепенной замены Ispell
+  th: GNU Aspell เป็นตัวตรวจการสะกดที่เสรีและมีซอร์สโค้ดเปิด ออกแบบมาเพื่อค่อย ๆ แทนที่ Ispell
+  tr: GNU Aspell, nihayetinde Ispell'in yerini almayı amaçlayan özgür ve açık kaynaklı bir yazım denetleyicisidir
+  uk: GNU Aspell — це вільний та з відкритим кодом перевіряч орфографії, створений для поступової заміни Ispell
+  vi: GNU Aspell là trình kiểm tra chính tả miễn phí và mã nguồn mở, được thiết kế để dần thay thế Ispell
 x:
   source: https://github.com/GNUAspell/aspell
   eget: GNUAspell/aspell

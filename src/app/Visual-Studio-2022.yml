@@ -3,6 +3,22 @@ homepage: https://visualstudio.microsoft.com/
 desc:
   cn: 适用于 Windows 上 .NET 和 C++ 开发人员的最全面 IDE
   en: The most comprehensive IDE for .NET and C++ developers on Windows
+  cs: Nejkomplexnější IDE pro vývojáře .NET a C++ na Windows
+  de: Die umfassendste IDE für .NET- und C++-Entwickler unter Windows
+  es: El IDE más completo para desarrolladores de .NET y C++ en Windows
+  fr: L'IDE le plus complet pour les développeurs .NET et C++ sous Windows
+  id: IDE paling lengkap untuk pengembang .NET dan C++ di Windows
+  it: L'IDE più completo per sviluppatori .NET e C++ su Windows
+  ja: Windows 上の .NET および C++ 開発者にとって最も包括的な IDE
+  ko: Windows에서 .NET 및 C++ 개발자를 위한 가장 포괄적인 IDE
+  pl: Najbardziej kompleksowe IDE dla deweloperów .NET i C++ na Windows
+  pt: A IDE mais completa para desenvolvedores .NET e C++ no Windows
+  ro: Cel mai cuprinzător IDE pentru dezvoltatori .NET și C++ pe Windows
+  ru: Самая всеобъемлющая IDE для разработчиков .NET и C++ на Windows
+  th: IDE ที่ครอบคลุมที่สุดสำหรับนักพัฒนา .NET และ C++ บน Windows
+  tr: Windows'ta .NET ve C++ geliştiricileri için en kapsamlı IDE
+  uk: Найповніше IDE для розробників .NET та C++ на Windows
+  vi: IDE toàn diện nhất dành cho nhà phát triển .NET và C++ trên Windows
 rule:
   (win|wsl2)/choco:
     cmd: x choco install visualstudio2022community

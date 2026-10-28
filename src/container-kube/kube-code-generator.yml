@@ -3,6 +3,22 @@ homepage: https://github.com/slok/kube-code-generator
 desc:
   cn: Kubernetes 代码生成器容器，该容器更容易生成 CRD 清单及其 GO 客户端
   en: A kubernetes code generator container that makes easier to generate CRD manifests and its Go clients
+  cs: Kontejner generátoru kódu Kubernetes, který usnadňuje generování manifestů CRD a jejich klientů v Go
+  de: Ein Container mit einem Kubernetes-Codegenerator, der das Erzeugen von CRD-Manifesten und ihrer Go-Clients vereinfacht
+  es: Un contenedor generador de código de Kubernetes que facilita la generación de manifiestos CRD y sus clientes Go
+  fr: Un conteneur générateur de code Kubernetes qui facilite la génération de manifestes CRD et de leurs clients Go
+  id: Kontainer generator kode Kubernetes yang memudahkan pembuatan manifes CRD dan klien Go-nya
+  it: Un container generatore di codice Kubernetes che facilita la generazione dei manifest CRD e dei relativi client Go
+  ja: CRD マニフェストとその Go クライアントの生成を容易にする Kubernetes コードジェネレーターコンテナ
+  ko: CRD 매니페스트와 Go 클라이언트를 쉽게 생성할 수 있게 해주는 Kubernetes 코드 생성기 컨테이너
+  pl: Kontener generatora kodu Kubernetes, który ułatwia generowanie manifestów CRD i ich klientów w Go
+  pt: Um contêiner gerador de código do Kubernetes que facilita a geração de manifestos CRD e seus clientes Go
+  ro: Un container generator de cod Kubernetes care facilitează generarea manifestelor CRD și a clienților lor Go
+  ru: Контейнер генератора кода Kubernetes, упрощающий генерацию манифестов CRD и их клиентов на Go
+  th: คอนเทนเนอร์ตัวสร้างโค้ด Kubernetes ที่ช่วยให้สร้างไฟล์ manifest ของ CRD และไคลเอนต์ Go ได้ง่ายขึ้น
+  tr: CRD manifestlerinin ve Go istemcilerinin oluşturulmasını kolaylaştıran bir Kubernetes kod oluşturucu konteyneri
+  uk: Контейнер генератора коду Kubernetes, який спрощує генерацію манifestів CRD та їх клієнтів на Go
+  vi: Container trình tạo mã Kubernetes giúp tạo manifest CRD và client Go dễ dàng hơn
 x:
   source: https://github.com/slok/kube-code-generator
   asdf: kube-code-generator

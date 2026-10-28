@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 通过简单 HTTP API 将任意自定义推送发送至 iPhone 的 iOS 通知 App，支持分组、自定义图标/声音、时效性提醒、加密与自托管服务器。
   en: iOS notification app that sends custom push notifications to your iPhone via a simple HTTP API, with notification grouping, custom icons and sounds, time-sensitive alerts, encryption, and self-hosted server support.
+  cs: iOS notifikační aplikace, která posílá vlastní push notifikace na váš iPhone přes jednoduché HTTP API, se seskupováním notifikací, vlastními ikonami a zvuky, časově citlivými upozorněními, šifrováním a podporou vlastního serveru.
+  de: iOS-Benachrichtigungs-App, die über eine einfache HTTP-API benutzerdefinierte Push-Benachrichtigungen an dein iPhone sendet, mit Benachrichtigungsgruppierung, eigenen Symbolen und Sounds, zeitkritischen Hinweisen, Verschlüsselung und Unterstützung für einen selbst gehosteten Server.
+  es: Aplicación de notificaciones de iOS que envía notificaciones push personalizadas a tu iPhone mediante una sencilla API HTTP, con agrupación de notificaciones, iconos y sonidos personalizados, alertas sensibles al tiempo, cifrado y soporte para servidor autoalojado.
+  fr: Application de notification iOS qui envoie des notifications push personnalisées à votre iPhone via une simple API HTTP, avec regroupement des notifications, icônes et sons personnalisés, alertes temporelles, chiffrement et prise en charge d'un serveur auto-hébergé.
+  id: Aplikasi notifikasi iOS yang mengirim notifikasi push kustom ke iPhone Anda melalui API HTTP sederhana, dengan pengelompokan notifikasi, ikon dan suara kustom, peringatan sensitif waktu, enkripsi, dan dukungan server yang di-host sendiri.
+  it: App di notifica iOS che invia notifiche push personalizzate al tuo iPhone tramite una semplice API HTTP, con raggruppamento delle notifiche, icone e suoni personalizzati, avvisi temporizzati, crittografia e supporto per server self-hosted.
+  ja: シンプルな HTTP API 経由で iPhone に任意のプッシュ通知を送る iOS 通知アプリ。通知のグループ化、カスタムアイコン・サウンド、時刻依存のアラート、暗号化、自己ホストサーバーに対応。
+  ko: 간단한 HTTP API를 통해 iPhone으로 사용자 정의 푸시 알림을 보내는 iOS 알림 앱으로, 알림 그룹화, 사용자 지정 아이콘과 사운드, 시간 민감 알림, 암호화, 자체 호스팅 서버 지원을 제공합니다.
+  pl: Aplikacja powiadomień iOS, która wysyła niestandardowe powiadomienia push na Twojego iPhone przez prosty interfejs HTTP API, z grupowaniem powiadomień, własnymi ikonami i dźwiękami, alertami czasowymi, szyfrowaniem i obsługą własnego serwera.
+  pt: Aplicativo de notificação para iOS que envia notificações push personalizadas para o seu iPhone por meio de uma simples API HTTP, com agrupamento de notificações, ícones e sons personalizados, alertas sensíveis ao tempo, criptografia e suporte a servidor auto-hospedado.
+  ro: Aplicație de notificări iOS care trimite notificări push personalizate către iPhone-ul tău printr-o simplă interfață HTTP API, cu gruparea notificărilor, pictograme și sunete personalizate, alerte sensibile la timp, criptare și suport pentru server găzduit propriu.
+  ru: Приложение уведомлений для iOS, которое отправляет пользовательские push-уведомления на ваш iPhone через простой HTTP API, с группировкой уведомлений, своими значками и звуками, оповещениями, чувствительными ко времени, шифрованием и поддержкой собственного сервера.
+  th: แอปแจ้งเตือนบน iOS ที่ส่ง push การแจ้งเตือนแบบกำหนดเองไปยัง iPhone ของคุณผ่าน HTTP API อย่างง่าย พร้อมการจัดกลุ่มการแจ้งเตือน ไอคอนและเสียงที่กำหนดเอง การแจ้งเตือนตามเวลา การเข้ารหัส และการรองรับเซิร์ฟเวอร์ที่โฮสต์เอง
+  tr: Basit bir HTTP API ile iPhone'unuza özel push bildirimleri gönderen iOS bildirim uygulaması; bildirim gruplama, özel simgeler ve sesler, zamana duyarlı uyarılar, şifreleme ve kendi sunucunuzu barındırma desteği sunar.
+  uk: Застосунок сповіщень для iOS, який надсилає власні push-сповіщення на ваш iPhone через простий HTTP API, із групуванням сповіщень, власними піктограмами та звуками, часовими оповіщеннями, шифруванням і підтримкою власного сервера.
+  vi: Ứng dụng thông báo iOS gửi thông báo push tùy chỉnh đến iPhone của bạn qua HTTP API đơn giản, hỗ trợ nhóm thông báo, biểu tượng và âm thanh tùy chỉnh, cảnh báo nhạy cảm thời gian, mã hóa và máy chủ tự lưu trữ.
 x:
   source: https://github.com/Finb/Bark
 rule:

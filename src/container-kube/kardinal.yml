@@ -3,6 +3,22 @@ homepage: https://kardinal.dev/
 desc:
   cn: Kardinal 是一个用于在共享 Kubernetes 集群中创建极其轻量级的临时开发环境的框架
   en: Kardinal is a framework for creating extremely lightweight ephemeral development environments within a shared Kubernetes cluster
+  cs: Kardinal je framework pro vytváření extrémně lehkých dočasných vývojových prostředí ve sdíleném clusteru Kubernetes
+  de: Kardinal ist ein Framework zum Erstellen äußerst leichter kurzlebiger Entwicklungsumgebungen in einem gemeinsam genutzten Kubernetes-Cluster
+  es: Kardinal es un framework para crear entornos de desarrollo efímeros extremadamente ligeros dentro de un clúster Kubernetes compartido
+  fr: Kardinal est un framework permettant de créer des environnements de développement éphémères extrêmement légers au sein d'un cluster Kubernetes partagé
+  id: Kardinal adalah framework untuk membuat lingkungan pengembangan sementara yang sangat ringan di dalam klaster Kubernetes bersama
+  it: Kardinal è un framework per creare ambienti di sviluppo effimeri estremamente leggeri all'interno di un cluster Kubernetes condiviso
+  ja: Kardinal は、共有 Kubernetes クラスター内に極めて軽量な一時的な開発環境を作成するためのフレームワークです
+  ko: Kardinal은 공유 Kubernetes 클러스터 내에 매우 가벼운 임시 개발 환경을 생성하기 위한 프레임워크입니다
+  pl: Kardinal to framework do tworzenia niezwykle lekkich tymczasowych środowisk deweloperskich we współdzielonym klastrze Kubernetes
+  pt: Kardinal é um framework para criar ambientes de desenvolvimento efêmeros extremamente leves em um cluster Kubernetes compartilhado
+  ro: Kardinal este un cadru pentru crearea unor medii de dezvoltare efemere extrem de ușoare într-un cluster Kubernetes partajat
+  ru: Kardinal — это фреймворк для создания крайне лёгких временных сред разработки в общем кластере Kubernetes
+  th: Kardinal คือเฟรมเวิร์กสำหรับสร้างสภาพแวดล้อมการพัฒนาแบบชั่วคราวที่มีน้ำหนักเบามากภายในคลัสเตอร์ Kubernetes ที่ใช้ร่วมกัน
+  tr: Kardinal, paylaşılan bir Kubernetes kümesi içinde son derece hafif geçici geliştirme ortamları oluşturmak için bir çerçevedir
+  uk: Kardinal — це фреймворк для створення надзвичайно легких тимчасових середовищ розробки у спільному кластері Kubernetes
+  vi: Kardinal là framework để tạo môi trường phát triển tạm thời cực kỳ nhẹ bên trong một cụm Kubernetes dùng chung
 rule:
   /curl:
     cmd: curl get.kardinal.dev -sL | sh

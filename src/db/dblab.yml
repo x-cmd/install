@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Dblab 是一个快速、轻量级的基于交互式终端的用于 PostgreSQL、 MySQL 和 SQLite3 的 UI 应用程序，用 Go 编写，可以在 OSX、 Linux 和 Windows 机器上运行
   en: Dblab is a fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go and works on OSX, Linux and Windows machines
+  cs: Dblab je rychlá a lehká interaktivní aplikace s UI v terminálu pro PostgreSQL, MySQL a SQLite3, napsaná v Go a běžící na strojích s OSX, Linux a Windows
+  de: Dblab ist eine schnelle, leichtgewichtige interaktive Terminal-UI-Anwendung für PostgreSQL, MySQL und SQLite3, die in Go geschrieben ist und auf OSX-, Linux- und Windows-Maschinen läuft
+  es: Dblab es una aplicación de interfaz de usuario en terminal, rápida y ligera, para PostgreSQL, MySQL y SQLite3, escrita en Go y que funciona en máquinas con OSX, Linux y Windows
+  fr: Dblab est une application d'interface en terminal interactive, rapide et légère, pour PostgreSQL, MySQL et SQLite3, écrite en Go et fonctionnant sur les machines OSX, Linux et Windows
+  id: Dblab adalah aplikasi UI berbasis terminal interaktif yang cepat dan ringan untuk PostgreSQL, MySQL, dan SQLite3, ditulis dengan Go dan berjalan di mesin OSX, Linux, dan Windows
+  it: Dblab è un'applicazione a interfaccia utente da terminale interattiva, veloce e leggera, per PostgreSQL, MySQL e SQLite3, scritta in Go e funzionante su macchine OSX, Linux e Windows
+  ja: Dblab は Go で書かれた高速で軽量な PostgreSQL、MySQL、SQLite3 向けの対話型ターミナル UI アプリケーションで、OSX、Linux、Windows マシンで動作します
+  ko: Dblab은 Go로 작성된 PostgreSQL, MySQL, SQLite3를 위한 빠르고 가벼운 대화형 터미널 UI 애플리케이션으로, OSX, Linux, Windows에서 동작합니다
+  pl: Dblab to szybka i lekka aplikacja z interaktywnym interfejsem terminala dla PostgreSQL, MySQL i SQLite3, napisana w Go i działająca na maszynach z OSX, Linux i Windows
+  pt: O Dblab é um aplicativo de interface de terminal interativo rápido e leve para PostgreSQL, MySQL e SQLite3, escrito em Go e que funciona em máquinas com OSX, Linux e Windows
+  ro: Dblab este o aplicație cu interfață în terminal, interactivă, rapidă și ușoară, pentru PostgreSQL, MySQL și SQLite3, scrisă în Go și care funcționează pe mașini cu OSX, Linux și Windows
+  ru: Dblab — это быстрое и лёгкое интерактивное терминальное приложение с UI для PostgreSQL, MySQL и SQLite3, написанное на Go и работающее на машинах с OSX, Linux и Windows
+  th: Dblab เป็นแอปพลิเคชัน UI แบบเทอร์มินัลแบบโต้ตอบที่รวดเร็วและเบาสำหรับ PostgreSQL, MySQL และ SQLite3 เขียนด้วย Go และใช้งานได้บนเครื่อง OSX, Linux และ Windows
+  tr: Dblab, PostgreSQL, MySQL ve SQLite3 için hızlı ve hafif, etkileşimli terminal tabanlı bir UI uygulamasıdır; Go ile yazılmıştır ve OSX, Linux ve Windows makinelerinde çalışır
+  uk: Dblab — це швидкий і легкий інтерактивний термінальний застосунок з UI для PostgreSQL, MySQL та SQLite3, написаний на Go та працює на машинах з OSX, Linux і Windows
+  vi: Dblab là ứng dụng giao diện terminal tương tác nhanh và nhẹ cho PostgreSQL, MySQL và SQLite3, được viết bằng Go và hoạt động trên máy OSX, Linux và Windows
 x:
   source: https://github.com/danvergara/dblab
   eget: danvergara/dblab

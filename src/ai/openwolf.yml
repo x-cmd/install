@@ -4,6 +4,22 @@ license: agpl-3.0
 desc:
   cn: 开源的 Claude Code 中间件，更精炼的上下文，更少的 token
   en: Sharper context. Fewer tokens. Open-source middleware for Claude Code.
+  cs: Ostřejší kontext. Méně tokenů. Middleware s otevřeným zdrojem pro Claude Code.
+  de: Schärferer Kontext. Weniger Token. Open-Source-Middleware für Claude Code.
+  es: Contexto más preciso. Menos tokens. Middleware de código abierto para Claude Code.
+  fr: Un contexte plus affûté. Moins de jetons. Middleware open source pour Claude Code.
+  id: Konteks yang lebih tajam. Fewer token. Middleware sumber terbuka untuk Claude Code.
+  it: Contesto più nitido. Meno token. Middleware open source per Claude Code.
+  ja: より鋭いコンテキスト。より少ないトークン。Claude Code 用のオープンソースミドルウェア。
+  ko: 더 날카로운 컨텍스트. 더 적은 토큰. Claude Code용 오픈 소스 미들웨어.
+  pl: Ostrzejszy kontekst. Mniej tokenów. Middleware o otwartym kodzie dla Claude Code.
+  pt: Contexto mais preciso. Menos tokens. Middleware de código aberto para Claude Code.
+  ro: Context mai ascuțit. Mai puține tokenuri. Middleware open source pentru Claude Code.
+  ru: Точнее контекст. Меньше токенов. Открытая middleware для Claude Code.
+  th: บริบทที่ชัดเจนยิ่งขึ้น ใช้โทเคนน้อยลง มิดเดิลแวร์โอเพนซอร์สสำหรับ Claude Code.
+  tr: Daha keskin bağlam. Daha az token. Claude Code için açık kaynak ara katman.
+  uk: Точніший контекст. Менше токенів. Відкрита middleware для Claude Code.
+  vi: Ngữ cảnh sắc bén hơn. Ít token hơn. Middleware mã nguồn mở cho Claude Code.
 x:
   source: https://github.com/cytostack/openwolf
   eget: cytostack/openwolf

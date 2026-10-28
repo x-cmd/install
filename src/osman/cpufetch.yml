@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 用于获取和显示您的计算机或服务器的 CPU 架构信息的命令行工具
   en: A command-line (CLI) tool designed to fetch and display your computer or server's CPU architecture information in the terminal.
+  cs: Nástroj příkazové řádky pro získání a zobrazení informací o architektuře CPU vašeho počítače nebo serveru v terminálu.
+  de: Ein Kommandozeilen-Tool zum Abrufen und Anzeigen der CPU-Architekturinformationen Ihres Computers oder Servers im Terminal.
+  es: Una herramienta de línea de comandos para obtener y mostrar en la terminal la información de arquitectura de CPU de su ordenador o servidor.
+  fr: Un outil en ligne de commande conçu pour récupérer et afficher dans le terminal les informations sur l'architecture CPU de votre ordinateur ou serveur.
+  id: Alat baris perintah (CLI) yang dirancang untuk mengambil dan menampilkan informasi arsitektur CPU komputer atau server Anda di terminal.
+  it: Uno strumento da riga di comando (CLI) progettato per recuperare e mostrare nel terminale le informazioni sull'architettura della CPU del computer o del server.
+  ja: ターミナル上でコンピューターやサーバーのCPUアーキテクチャ情報を取得して表示するコマンドラインツール。
+  ko: 터미널에서 컴퓨터나 서버의 CPU 아키텍처 정보를 가져와 표시하도록 설계된 명령줄(CLI) 도구.
+  pl: Narzędzie wiersza poleceń (CLI) służące do pobierania i wyświetlania w terminalu informacji o architekturze procesora komputera lub serwera.
+  pt: Uma ferramenta de linha de comando (CLI) projetada para buscar e exibir no terminal as informações de arquitetura de CPU do seu computador ou servidor.
+  ro: Un instrument de linie de comand (CLI) creat pentru a prelua și afișa în terminal informațiile despre arhitectura CPU a computerului sau serverului.
+  ru: Командный инструмент для получения и отображения в терминале сведений об архитектуре процессора вашего компьютера или сервера.
+  th: เครื่องมือบรรทัดคำสั่ง (CLI) ที่ออกแบบมาเพื่อดึงและแสดงข้อมูลสถาปัตยกรรม CPU ของคอมพิวเตอร์หรือเซิร์ฟเวอร์ของคุณในเทอร์มินัล
+  tr: Bilgisayarınızın veya sunucunuzun CPU mimarisi bilgilerini terminalde getirip görüntülemek için tasarlanmış komut satırı (CLI) aracı.
+  uk: Інструмент командного рядка (CLI) для отримання та відображення в терміналі відомостей про архітектуру процесора вашого комп'ютера або сервера.
+  vi: Công cụ dòng lệnh (CLI) dùng để lấy và hiển thị thông tin kiến trúc CPU của máy tính hoặc máy chủ trong terminal.
 x:
   source: https://github.com/Dr-Noob/cpufetch
   eget: Dr-Noob/cpufetch

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: aider 是一个终端中的 AI 配对编程工具。
   en: aider is AI pair programming in your terminal
+  cs: aider je programování ve dvojici s AI ve vašem terminálu
+  de: aider ist KI-Pair-Programming in Ihrem Terminal
+  es: aider es programación en pareja con IA en tu terminal
+  fr: aider est du pair programming avec l'IA dans votre terminal
+  id: aider adalah pair programming dengan AI di terminal Anda
+  it: aider è il pair programming con l'IA nel tuo terminale
+  ja: aider はターミナル内での AI ペアプログラミングです
+  ko: aider는 터미널에서 이루어지는 AI 페어 프로그래밍입니다
+  pl: aider to programowanie w parach z AI w twoim terminalu
+  pt: aider é programação em par com IA no seu terminal
+  ro: aider este programare în pereche cu AI în terminalul dumneavoastră
+  ru: aider — это парное программирование с ИИ прямо в вашем терминале
+  th: aider คือการเขียนโค้ดคู่กับ AI ในเทอร์มินัลของคุณ
+  tr: aider, terminalinizde yapay zekâ ile eşle programlamadır
+  uk: aider — це парне програмування з ШІ прямо у вашому терміналі
+  vi: aider là lập trình đôi với AI ngay trong terminal của bạn
 x:
   source: https://github.com/Aider-AI/aider
   brew: aider

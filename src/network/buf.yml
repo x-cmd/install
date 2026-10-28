@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: protobuf 的 CLI 工具
   en: The buf CLI is a tool for working with Protocol Buffers
+  cs: Nástroj CLI buf je nástroj pro práci s Protocol Buffers
+  de: Das buf CLI ist ein Werkzeug für den Umgang mit Protocol Buffers
+  es: La CLI de buf es una herramienta para trabajar con Protocol Buffers
+  fr: Le CLI buf est un outil pour travailler avec Protocol Buffers
+  id: CLI buf adalah alat untuk bekerja dengan Protocol Buffers
+  it: La CLI di buf è uno strumento per lavorare con Protocol Buffers
+  ja: buf CLI は Protocol Buffers を扱うためのツールです
+  ko: buf CLI는 Protocol Buffers로 작업하기 위한 도구입니다
+  pl: Narzędzie CLI buf służy do pracy z Protocol Buffers
+  pt: A CLI do buf é uma ferramenta para trabalhar com Protocol Buffers
+  ro: CLI-ul buf este un instrument pentru lucrul cu Protocol Buffers
+  ru: buf CLI — это инструмент для работы с Protocol Buffers
+  th: buf CLI เป็นเครื่องมือสำหรับทำงานกับ Protocol Buffers
+  tr: buf CLI, Protocol Buffers ile çalışmak için bir araçtır
+  uk: buf CLI — це інструмент для роботи з Protocol Buffers
+  vi: CLI buf là công cụ để làm việc với Protocol Buffers
 x:
   source: https://github.com/bufbuild/buf
   eget: bufbuild/buf

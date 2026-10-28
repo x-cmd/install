@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息。
   en: Resource monitor that shows usage and stats for processor, memory, disks, network and processes
+  cs: Monitor zdrojů, který zobrazuje využití a statistiky procesoru, paměti, disků, sítě a procesů
+  de: Ressourcenmonitor, der Auslastung und Statistiken für Prozessor, Arbeitsspeicher, Datenträger, Netzwerk und Prozesse anzeigt
+  es: Monitor de recursos que muestra el uso y las estadísticas del procesador, la memoria, los discos, la red y los procesos
+  fr: Moniteur de ressources affichant l'utilisation et les statistiques du processeur, de la mémoire, des disques, du réseau et des processus
+  id: Monitor sumber daya yang menampilkan penggunaan dan statistik untuk prosesor, memori, disk, jaringan, dan proses
+  it: Monitor delle risorse che mostra utilizzo e statistiche per processore, memoria, dischi, rete e processi
+  ja: プロセッサ、メモリ、ディスク、ネットワーク、プロセスの使用状況と統計を表示するリソースモニター
+  ko: 프로세서, 메모리, 디스크, 네트워크 및 프로세스의 사용량과 통계를 표시하는 리소스 모니터
+  pl: Monitor zasobów pokazujący wykorzystanie i statystyki procesora, pamięci, dysków, sieci i procesów
+  pt: Monitor de recursos que mostra uso e estatísticas de processador, memória, discos, rede e processos
+  ro: Monitor de resurse care afișează utilizarea și statisticile pentru procesor, memorie, discuri, rețea și procese
+  ru: Монитор ресурсов, показывающий загрузку и статистику процессора, памяти, дисков, сети и процессов
+  th: มอนิเตอร์ทรัพยากรที่แสดงการใช้งานและสถิติของโปรเซสเซอร์ หน่วยความจำ ดิสก์ เครือข่าย และกระบวนการ
+  tr: İşlemci, bellek, disk, ağ ve süreçler için kullanım ve istatistikleri gösteren kaynak izleyici
+  uk: Монітор ресурсів, що показує використання та статистику для процесора, пам'яті, дисків, мережі та процесів
+  vi: Trình theo dõi tài nguyên hiển thị mức sử dụng và thống kê cho bộ xử lý, bộ nhớ, ổ đĩa, mạng và tiến trình
 x:
   source: https://github.com/aristocratos/btop
   dnf: btop

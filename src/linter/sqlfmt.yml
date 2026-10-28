@@ -3,6 +3,22 @@ homepage: https://github.com/tconbeer/sqlfmt
 desc:
   cn: SQL 的格式化工具
   en: SQL formatting tool
+  cs: Nástroj na formátování SQL
+  de: SQL-Formatierungswerkzeug
+  es: Herramienta de formateo de SQL
+  fr: Outil de formatage SQL
+  id: Alat pemformatan SQL
+  it: Strumento di formattazione SQL
+  ja: SQL フォーマットツール
+  ko: SQL 서식 지정 도구
+  pl: Narzędzie do formatowania SQL
+  pt: Ferramenta de formatação de SQL
+  ro: Instrument de formatare SQL
+  ru: Инструмент форматирования SQL
+  th: เครื่องมือจัดรูปแบบ SQL
+  tr: SQL biçimlendirme aracı
+  uk: Інструмент форматування SQL
+  vi: Công cụ định dạng SQL
 x:
   source: https://github.com/tconbeer/sqlfmt
   eget: tconbeer/sqlfmt

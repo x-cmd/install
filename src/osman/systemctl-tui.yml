@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 用于与 systemd 服务及其日志交互的快速简洁 TUI
   en: 'A fast, simple TUI for interacting with systemd services and their logs'
+  cs: Rychlé a jednoduché TUI pro práci se službami systemd a jejich logy
+  de: Ein schnelles, einfaches TUI zur Interaktion mit systemd-Diensten und deren Protokollen
+  es: Un TUI rápido y sencillo para interactuar con servicios de systemd y sus registros
+  fr: Un TUI rapide et simple pour interagir avec les services systemd et leurs journaux
+  id: TUI yang cepat dan sederhana untuk berinteraksi dengan layanan systemd dan lognya
+  it: Una TUI veloce e semplice per interagire con i servizi systemd e i loro log
+  ja: systemd のサービスとそのログを操作するための高速でシンプルな TUI
+  ko: systemd 서비스와 그 로그를 다루기 위한 빠르고 간단한 TUI
+  pl: Szybki i prosty TUI do obsługi usług systemd i ich logów
+  pt: Um TUI rápido e simples para interagir com serviços do systemd e seus logs
+  ro: Un TUI rapid și simplu pentru interacțiunea cu servicii systemd și jurnalele lor
+  ru: Быстрое и простое TUI для взаимодействия со службами systemd и их журналами
+  th: TUI ที่เร็วและเรียบง่ายสำหรับทำงานกับบริการ systemd และบันทึกของบริการ
+  tr: systemd servisleri ve günlükleriyle etkileşim kurmak için hızlı ve basit bir TUI
+  uk: Швидкий і простий TUI для взаємодії зі службами systemd та їхніми журналами
+  vi: TUI nhanh và đơn giản để tương tác với các dịch vụ systemd và nhật ký của chúng
 x:
   source: https://github.com/rgwood/systemctl-tui
   eget: rgwood/systemctl-tui

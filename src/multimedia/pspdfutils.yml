@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: PSUtils 是一套用于操作 PDF 和 PostScript 文档的实用程序
   en: PSUtils is a suite of utilities for manipulating PDF and PostScript documents
+  cs: PSUtils je sada nástrojů pro práci s dokumenty PDF a PostScript
+  de: PSUtils ist eine Sammlung von Werkzeugen zum Bearbeiten von PDF- und PostScript-Dokumenten
+  es: PSUtils es un conjunto de utilidades para manipular documentos PDF y PostScript
+  fr: PSUtils est une suite d'outils permettant de manipuler des documents PDF et PostScript
+  id: PSUtils adalah rangkaian utilitas untuk memanipulasi dokumen PDF dan PostScript
+  it: PSUtils è una suite di utilità per manipolare documenti PDF e PostScript
+  ja: PSUtils は PDF と PostScript のドキュメントを操作するためのユーティリティ集です
+  ko: PSUtils는 PDF 및 PostScript 문서를 처리하는 유틸리티 모음입니다
+  pl: PSUtils to zestaw narzędzi do manipulowania dokumentami PDF i PostScript
+  pt: PSUtils é um conjunto de utilitários para manipular documentos PDF e PostScript
+  ro: PSUtils este o suită de utilitare pentru manipularea documentelor PDF și PostScript
+  ru: PSUtils — набор утилит для работы с документами PDF и PostScript
+  th: PSUtils คือชุดเครื่องมือสำหรับจัดการเอกสาร PDF และ PostScript
+  tr: PSUtils, PDF ve PostScript belgelerini düzenlemek için bir araç setidir
+  uk: PSUtils — набір утиліт для роботи з документами PDF і PostScript
+  vi: PSUtils là bộ tiện ích để thao tác với tài liệu PDF và PostScript
 x:
   source: https://github.com/rrthomas/psutils
   eget: rrthomas/psutils

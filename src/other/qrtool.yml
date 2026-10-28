@@ -3,6 +3,22 @@ homepage: https://github.com/sorairolake/qrtool
 desc:
   cn: 用于编码或解码二维码的实用程序
   en: An utility for encoding or decoding QR code
+  cs: Nástroj pro kódování nebo dekódování QR kódů
+  de: Ein Werkzeug zum Kodieren oder Dekodieren von QR-Codes
+  es: Una utilidad para codificar o decodificar códigos QR
+  fr: Un utilitaire pour encoder ou décoder des codes QR
+  id: Utilitas untuk mengodekan atau mendekodekan kode QR
+  it: Un'utilità per codificare o decodificare codici QR
+  ja: QR コードをエンコードまたはデコードするユーティリティ
+  ko: QR 코드를 인코딩하거나 디코딩하는 유틸리티
+  pl: Narzędzie do kodowania lub dekodowania kodów QR
+  pt: Um utilitário para codificar ou decodificar códigos QR
+  ro: O utilitar pentru codificarea sau decodificarea codurilor QR
+  ru: Утилита для кодирования или декодирования QR-кодов
+  th: ยูทิลิตี้สำหรับเข้ารหัสหรือถอดรหัสคิวอาร์โค้ด
+  tr: QR kodlarını kodlamak veya çözmek için bir araç
+  uk: Утиліта для кодування або декодування QR-кодів
+  vi: Tiện ích để mã hóa hoặc giải mã mã QR
 x:
   source: https://github.com/sorairolake/qrtool
   eget: sorairolake/qrtool

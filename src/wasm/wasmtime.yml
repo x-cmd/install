@@ -3,6 +3,22 @@ license: Apache-2.0
 desc:
   cn: 一个快速、安全的 WebAssembly 运行时
   en: A fast and secure runtime for WebAssembly
+  cs: Rychlý a bezpečný runtime pro WebAssembly
+  de: Eine schnelle und sichere Laufzeit für WebAssembly
+  es: Un runtime rápido y seguro para WebAssembly
+  fr: Un runtime rapide et sécurisé pour WebAssembly
+  id: Runtime yang cepat dan aman untuk WebAssembly
+  it: Un runtime veloce e sicuro per WebAssembly
+  ja: 高速で安全な WebAssembly ランタイム
+  ko: WebAssembly를 위한 빠르고 안전한 런타임
+  pl: Szybkie i bezpieczne środowisko uruchomieniowe dla WebAssembly
+  pt: Um runtime rápido e seguro para WebAssembly
+  ro: Un runtime rapid și sigur pentru WebAssembly
+  ru: Быстрый и безопасный рантайм для WebAssembly
+  th: รันไทม์ที่เร็วและปลอดภัยสำหรับ WebAssembly
+  tr: WebAssembly için hızlı ve güvenli bir çalışma zamanı
+  uk: Швидкий і безпечний рантайм для WebAssembly
+  vi: Runtime nhanh và an toàn cho WebAssembly
 lang: Rust
 x:
   source: https://github.com/bytecodealliance/wasmtime

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 开源本地优先的 AI 语音工作室，支持语音克隆、多语言语音合成和任意应用内听写
   en: Clone voices, generate multi-lingual speech, and dictate into any app with an open-source, local-first AI voice studio that runs on your machine.
+  cs: Klonujte hlasy, generujte vícejazyčnou řeč a diktujte do libovolné aplikace s open-source lokální AI hlasovou studií, která běží na vašem počítači.
+  de: Klone Stimmen, erzeugen Sie mehrsprachige Sprache und diktieren Sie in jede App mit einer quelloffenen, lokal ausgerichteten KI-Voice-Studio, das auf Ihrem Rechner läuft.
+  es: Clona voces, genera voz multilingüe y dicta en cualquier aplicación con un estudio de voz de IA de código abierto y local que se ejecuta en tu máquina.
+  fr: Clonez des voix, générez de la parole multilingue et dictez dans n'importe quelle application avec un studio vocal IA open source et local qui fonctionne sur votre machine.
+  id: Klon suara, hasilkan suara multibahasa, dan dikte ke aplikasi apa pun dengan studio suara AI open-source bersumber lokal yang berjalan di mesin Anda.
+  it: Clona voci, genera parlato multilingue e detta in qualsiasi app con uno studio vocale AI open source e local-first che gira sulla tua macchina.
+  ja: オープンソースでローカル優先の AI ボイススタジオがマシン上で動作し、音声のクローン、多言語音声生成、任意のアプリへの音声入力を実現します。
+  ko: 오픈소스 로컬 우선 AI 음성 스튜디오가 내 컴퓨터에서 실행되어, 음성 복제, 다국어 음성 생성, 모든 앱으로의 음성 입력을 지원합니다.
+  pl: Klonuj głosy, generuj mowy wielojęzyczne i dyktuj do dowolnej aplikacji za pomocą otwartoźródłowego, lokalnego studia głosowego AI działającego na Twoim komputerze.
+  pt: Clone vozes, gere fala multilíngue e dite em qualquer aplicativo com um estúdio de voz de IA open source e local-first que roda na sua máquina.
+  ro: Clonați voci, generați vorbire multilingvă și dictați în orice aplicație cu un studio de voce AI open-source, orientat local, care rulează pe mașina dumneavoastră.
+  ru: Клонируйте голоса, создавайте многоязычную речь и диктуйте в любое приложение с помощью открытого локального ИИ-студии звука, работающей на вашей машине.
+  th: โคลนเสียง สร้างคำพูดหลายภาษา และสะกดคำพูดลงในแอปใดก็ได้ ด้วยสตูดิโอเสียง AI แบบโอเพนซอร์สและให้ความสำคัญกับการทำงานในเครื่อง
+  tr: Kaynağınızda çalışan, açık kaynaklı ve yerel öncelikli bir AI ses stüdyosuyla sesleri klonlayın, çok dilli konuşma üretin ve herhangi bir uygulamaya yazdırın.
+  uk: Клонуйте голоси, створюйте багатомовну мову та диктуйте до будь-якої програми за допомогою відкритої локальної AI-студії звуку, що працює на вашому комп'ютері.
+  vi: Nhân bản giọng nói, tạo giọng đọc đa ngôn ngữ và đọc vào mọi ứng dụng với phòng thu âm thanh AI mã nguồn mở, ưu tiên chạy cục bộ trên máy của bạn.
 x:
   source: https://github.com/jamiepine/voicebox
   eget: jamiepine/voicebox

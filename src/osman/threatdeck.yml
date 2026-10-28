@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于终端的威胁情报监控和告警平台
   en: 'Terminal-based threat intelligence monitoring and alerting platform'
+  cs: Platforma pro monitorování hrozeb a upozorňování založená na terminálu
+  de: Terminalbasierte Plattform zur Bedrohungsüberwachung und Alarmierung
+  es: Plataforma de monitorización de amenazas y alertas basada en terminal
+  fr: Plateforme de surveillance des menaces et d'alerte basée sur le terminal
+  id: Platform pemantauan intelijenensi ancaman dan peringatan berbasis terminal
+  it: Piattaforma di monitoraggio delle minacce e di allerta basata sul terminale
+  ja: ターミナルベースの脅威インテリジェンス監視・アラートプラットフォーム
+  ko: 터미널 기반 위협 인텔리전스 모니터링 및 알림 플랫폼
+  pl: Platforma do monitorowania zagrożeń i alarmowania oparta na terminalu
+  pt: Plataforma de monitoramento de ameaças e alertas baseada em terminal
+  ro: Platformă de monitorizare a amenințărilor și alertare bazată pe terminal
+  ru: Терминальная платформа мониторинга угроз и оповещений
+  th: แพลตฟอร์มตรวจสอบข่าวกรองภัยคุกคามและแจ้งเตือนบนเทอร์มินัล
+  tr: Terminal tabanlı tehdit istihbaratı izleme ve uyarı platformu
+  uk: Термінальна платформа моніторингу загроз і сповіщень
+  vi: Nền tảng giám sát tình báo và cảnh báo mối đe dọa dựa trên terminal
 x:
   source: https://github.com/gripebomb/threatdeck
   eget: gripebomb/threatdeck

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: gitoxide 是用 Rust 编写的 git 实现，用于开发面向未来的应用程序，这些应用程序力求正确性和性能，同时提供令人愉快且不足为奇的开发人员体验
   en: gitoxide is an implementation of git written in Rust for developing future-proof applications which strive for correctness and performance while providing a pleasant and unsurprising developer experience
+  cs: gitoxide je implementace git napsaná v Rustu pro vývoj budoucích aplikací, které usilují o správnost a výkon a zároveň poskytují příjemnou a předvídatelnou zkušenost pro vývojáře
+  de: gitoxide ist eine in Rust geschriebene Git-Implementierung zur Entwicklung zukunftssicherer Anwendungen, die auf Korrektheit und Leistung abzielen und gleichzeitig ein angenehmes, unerwartungsfreies Entwicklererlebnis bieten
+  es: gitoxide es una implementación de git escrita en Rust para desarrollar aplicaciones preparadas para el futuro que buscan la corrección y el rendimiento, ofreciendo al mismo tiempo una experiencia de desarrollo agradable y sin sorpresas
+  fr: gitoxide est une implémentation de git écrite en Rust pour développer des applications pérennes qui recherchent la correction et la performance tout en offrant une expérience développeur agréable et sans surprise
+  id: gitoxide adalah implementasi git yang ditulis dengan Rust untuk mengembangkan aplikasi tahan masa depan yang mengutamakan kebenaran dan performa sambil memberikan pengalaman pengembang yang menyenangkan dan tak terduga
+  it: gitoxide è un'implementazione di git scritta in Rust per sviluppare applicazioni a prova di futuro che puntano su correttezza e prestazioni offrendo allo stesso tempo un'esperienza per gli sviluppatori gradevole e senza sorprese
+  ja: gitoxide は Rust で書かれた git の実装で、正当性とパフォーマンスを求めながら、驚くことのない自然な開発者体験を提供する将来に向けたアプリケーションの開発に適しています
+  ko: gitoxide는 Rust로 작성된 git 구현으로, 정확성과 성능을 추구하면서 동시에 놀랍지 않고 즐거운 개발자 경험을 제공하는 미래 지향적 애플리케이션 개발에 사용됩니다
+  pl: gitoxide to implementacja git napisana w Rust, służąca do tworzenia aplikacji przygotowanych na przyszłość, dążących do poprawności i wydajności, zapewniając jednocześnie przyjemną i przewidywalną środowisko pracy deweloperów
+  pt: gitoxide é uma implementação do git escrita em Rust para desenvolver aplicações prontas para o futuro que buscam correção e desempenho, oferecendo ao mesmo tempo uma experiência de desenvolvedor agradável e sem surpresas
+  ro: gitoxide este o implementare a lui git scrisă în Rust pentru dezvoltarea aplicațiilor orientate spre viitor, care urmăresc corectitudinea și performanța, oferind în același timp o experiență de dezvoltator plăcută și fără surprize
+  ru: gitoxide — реализация git, написанная на Rust для создания приложений, устойчивых к будущему, стремящихся к корректности и производительности и при этом дающих приятный и предсказуемый опыт разработчика
+  th: gitoxide คือการแทนค่าของ git ที่เขียนด้วย Rust เพื่อพัฒนาแอปพลิเคชันที่มองไปข้างหน้า มุ่งสู่ความถูกต้องและประสิทธิภาพ พร้อมมอบประสบการณ์ผู้พัฒนาที่ใช้งานง่ายและคาดเดาได้
+  tr: gitoxide, doğruluğu ve performansı hedefleyen geleceğe dönük uygulamalar geliştirmek için Rust ile yazılmış bir git uygulamasıdır ve aynı zamanda sürprizsiz, keyifli bir geliştirici deneyimi sunar
+  uk: gitoxide — реалізація git, написана на Rust для створення застосунків, стійких до майбутнього, які прагнуть до коректності та продуктивності, водночас даючи приємний і передбачуваний досвід розробника
+  vi: gitoxide là một bản cài đặt git viết bằng Rust để phát triển các ứng dụng sẵn sàng cho tương lai, hướng tới tính chính xác và hiệu năng, đồng thời mang lại trải nghiệm dành cho nhà phát triển thân thiện và không gây bất ngờ
 x:
   source: https://github.com/Byron/gitoxide
   brew: gitoxide

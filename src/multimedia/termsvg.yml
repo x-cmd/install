@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 记录，共享和导出您的终端作为一个动画 SVG 图像
   en: Record, share and export your terminal as a animated SVG image
+  cs: Zaznamenat, sdílet a exportovat terminál jako animovaný obrázek SVG
+  de: Terminal als animiertes SVG-Bild aufzeichnen, teilen und exportieren
+  es: Grabar, compartir y exportar tu terminal como una imagen SVG animada
+  fr: Enregistrer, partager et exporter votre terminal sous forme d'image SVG animée
+  id: Rekam, bagikan, dan ekspor terminal Anda sebagai gambar SVG animasi
+  it: Registra, condividi ed esporta il tuo terminale come immagine SVG animata
+  ja: ターミナルをアニメーション SVG 画像として記録、共有、エクスポートする
+  ko: 터미널을 애니메이션 SVG 이미지로 기록, 공유 및 내보내기
+  pl: Nagrywaj, udostępniaj i eksportuj terminal jako animowany obraz SVG
+  pt: Grave, compartilhe e exporte seu terminal como uma imagem SVG animada
+  ro: Înregistrează, partajează și exportă terminalul ca imagine SVG animată
+  ru: Запись, обмен и экспорт терминала в виде анимированного изображения SVG
+  th: บันทึก แชร์ และส่งออกเทอร์มินัลของคุณเป็นภาพ SVG แบบเคลื่อนไหว
+  tr: Terminalinizi animasyonlu bir SVG görseli olarak kaydedin, paylaşın ve dışa aktarın
+  uk: Запис, обмін та експорт термінала у вигляді анімованого зображення SVG
+  vi: Ghi lại, chia sẻ và xuất terminal của bạn dưới dạng ảnh SVG động
 x:
   source: https://github.com/MrMarble/termsvg
   eget: MrMarble/termsvg

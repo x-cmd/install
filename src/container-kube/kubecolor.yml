@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: KubeColor 会着色您的 Kubectl 命令输出，而无需做任何其他事情
   en: kubecolor colorizes your kubectl command output and does nothing else
+  cs: kubecolor obarvuje výstup vašich příkazů kubectl a nic jiného nedělá
+  de: kubecolor färbt die Ausgabe Ihrer kubectl-Befehle ein und tut sonst nichts
+  es: kubecolor colorea la salida de sus comandos kubectl y no hace nada más
+  fr: kubecolor colorise la sortie de vos commandes kubectl et ne fait rien d'autre
+  id: kubecolor mewarnai keluaran perintah kubectl Anda dan tidak melakukan hal lain
+  it: kubecolor colora l'output dei suoi comandi kubectl e non fa nient'altro
+  ja: kubecolor は kubectl コマンドの出力に色を付けるだけで、それ以外のことは何もしません
+  ko: kubecolor는 kubectl 명령 출력에 색을 입힐 뿐 다른 작업은 하지 않습니다
+  pl: kubecolor koloruje wyjście poleceń kubectl i nic więcej nie robi
+  pt: kubecolor colore a saída dos seus comandos kubectl e não faz mais nada
+  ro: kubecolor colorează ieșirea comenzilor kubectl și nu face nimic altceva
+  ru: kubecolor раскрашивает вывод ваших команд kubectl и ничего больше не делает
+  th: kubecolor เพิ่มสีให้ผลลัพธ์ของคำสั่ง kubectl ของคุณ และไม่ทำอย่างอื่น
+  tr: kubecolor kubectl komut çıktınızı renklendirir ve başka hiçbir şey yapmaz
+  uk: kubecolor забарвлює вивід ваших команд kubectl і більше нічого не робить
+  vi: kubecolor tô màu đầu ra của các lệnh kubectl và không làm gì khác
 x:
   source: https://github.com/hidetatz/kubecolor
   eget: hidetatz/kubecolor

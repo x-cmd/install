@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: Bottles 是一个应用程序，可以让你在喜欢的 Linux 发行版上轻松管理 Windows 应用程序。
   en: Bottles is an application that allows you to easily manage Windows prefixes on your favorite Linux distribution.
+  cs: Bottles je aplikace, která vám umožňuje snadno spravovat Windows prefixy na vaší oblíbené linuxové distribuci.
+  de: Bottles ist eine Anwendung, mit der Sie Windows-Prefixe auf Ihrer bevorzugten Linux-Distribution einfach verwalten können.
+  es: Bottles es una aplicación que te permite gestionar fácilmente los prefijos de Windows en tu distribución Linux favorita.
+  fr: Bottles est une application qui vous permet de gérer facilement les préfixes Windows sur votre distribution Linux préférée.
+  id: Bottles adalah aplikasi yang memungkinkan Anda mengelola prefiks Windows dengan mudah di distro Linux favorit Anda.
+  it: Bottles è un'applicazione che ti permette di gestire facilmente i prefissi Windows sulla tua distribuzione Linux preferita.
+  ja: Bottlesは、お好みのLinuxディストリビューションでWindowsのプレフィックスを簡単に管理できるアプリケーションです。
+  ko: Bottles는 좋아하는 Linux 배포판에서 Windows 프리픽스를 쉽게 관리할 수 있는 애플리케이션입니다.
+  pl: Bottles to aplikacja, która pozwala łatwo zarządzać prefiksami Windows w ulubionej dystrybucji Linuksa.
+  pt: O Bottles é um aplicativo que permite gerenciar facilmente os prefixos do Windows na sua distribuição Linux favorita.
+  ro: Bottles este o aplicație care vă permite să gestionați cu ușurință prefixele Windows pe distribuția Linux preferată.
+  ru: Bottles — это приложение, позволяющее легко управлять префиксами Windows в вашем любимом дистрибутиве Linux.
+  th: Bottles เป็นแอปพลิเคชันที่ช่วยให้คุณจัดการ Windows prefixes ใน distro Linux ที่คุณชื่นชอบได้อย่างง่ายดาย
+  tr: Bottles, tercih ettiğiniz Linux dağıtımında Windows öneklerini kolayca yönetmenizi sağlayan bir uygulamadır.
+  uk: Bottles — застосунок, який дає змогу легко керувати префіксами Windows у вашому улюбленому дистрибутиві Linux.
+  vi: Bottles là ứng dụng cho phép bạn dễ dàng quản lý các tiền tố Windows trên bản phân phối Linux yêu thích.
 x:
   source: https://github.com/bottlesdevs/Bottles
   flatpak: flathub

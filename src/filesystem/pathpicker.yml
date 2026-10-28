@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Facebook PathPicker 是一个简单的命令行工具，它解决了从 bash 输出中选择文件的永久性问题
   en: Facebook PathPicker is a simple command line tool that solves the perpetual problem of selecting files out of bash output
+  cs: Facebook PathPicker je jednoduchý nástroj příkazové řádky, který řeší věčný problém výběru souborů z výstupu bash
+  de: Facebook PathPicker ist ein einfaches Kommandozeilenwerkzeug, das das ewige Problem löst, Dateien aus der bash-Ausgabe auszuwählen
+  es: Facebook PathPicker es una sencilla herramienta de línea de comandos que resuelve el eterno problema de seleccionar archivos de la salida de bash
+  fr: Facebook PathPicker est un simple outil en ligne de commande qui résout le problème éternel de la sélection de fichiers dans la sortie de bash
+  id: Facebook PathPicker adalah alat baris perintah sederhana yang menyelesaikan masalah abadi dalam memilih berkas dari keluaran bash
+  it: Facebook PathPicker è un semplice strumento da riga di comando che risolve il perpetuo problema di selezionare file dall'output di bash
+  ja: Facebook PathPickerは、bashの出力からファイルを選ぶという永続的な問題を解決するシンプルなコマンドラインツールです。
+  ko: Facebook PathPicker는 bash 출력에서 파일을 고르는 골치 아픈 문제를 해결하는 간단한 명령줄 도구입니다.
+  pl: Facebook PathPicker to proste narzędzie wiersza poleceń, które rozwiązuje wieczny problem wyboru plików z wyjścia bash
+  pt: Facebook PathPicker é uma ferramenta de linha de comando simples que resolve o eterno problema de selecionar arquivos a partir da saída do bash
+  ro: Facebook PathPicker este un instrument de linie de comandă simplu care rezolvă problema eternă de selectare a fișierelor din ieșirea bash
+  ru: Facebook PathPicker — простой инструмент командной строки, решающий вечную проблему выбора файлов из вывода bash
+  th: Facebook PathPicker คือเครื่องมือบรรทัดคำสั่งอย่างง่ายที่แก้ปัญหาอันไม่รู้จบในการเลือกไฟล์จากผลลัพธ์ของ bash
+  tr: Facebook PathPicker, bash çıktısından dosya seçme sorununu çözen basit bir komut satırı aracıdır.
+  uk: Facebook PathPicker — простий інструмент командного рядка, що розв'язує вічну проблему вибору файлів з виводу bash
+  vi: Facebook PathPicker là công cụ dòng lệnh đơn giản giải quyết vấn đề lâu xửa chọn tệp từ đầu ra của bash
 x:
   source: https://github.com/facebook/PathPicker
   brew: fpp

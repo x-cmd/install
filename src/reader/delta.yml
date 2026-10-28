@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 用于 git、diff 和 grep 输出的语法高亮分页器
   en: A syntax-highlighting pager for git, diff, and grep output
+  cs: Stránkovník se zvýrazňováním syntaxe pro výstup git, diff a grep
+  de: Ein Syntax-Highlighting-Pager für die Ausgabe von git, diff und grep
+  es: Un paginador con resaltado de sintaxis para la salida de git, diff y grep
+  fr: Un pager avec coloration syntaxique pour la sortie de git, diff et grep
+  id: Pager dengan penyorotan sintaks untuk keluaran git, diff, dan grep
+  it: Un pager con evidenziazione della sintassi per l'output di git, diff e grep
+  ja: git、diff、grep の出力の構文を強調表示するペーパー
+  ko: git, diff, grep 출력에 구문 강조를 적용하는 페이저
+  pl: Pager z podświetlaniem składni dla wyjścia git, diff i grep
+  pt: Um paginador com realce de sintaxe para a saída de git, diff e grep
+  ro: Un pager cu evidențierea sintaxei pentru ieșirea comenzilor git, diff și grep
+  ru: Пейджер с подсветкой синтаксиса для вывода git, diff и grep
+  th: เพจเจอร์พร้อมการเน้นไวยากรณ์สำหรับผลลัพธ์ของ git, diff และ grep
+  tr: git, diff ve grep çıktısı için sözdizimi vurgulayan sayfalayıcı
+  uk: Пейджер із підсвічуванням синтаксису для виводу git, diff та grep
+  vi: Trình phân trang có tô sáng cú pháp cho đầu ra của git, diff và grep
 homepage: https://github.com/dandavison/delta
 license: MIT
 x:

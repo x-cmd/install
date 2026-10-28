@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 终端环境中人工智能代理的基准测试（依赖 git 和 Docker）
   en: a benchmark for ai agents in terminal environments (requires git and Docker)
+  cs: Benchmark pro AI agenty v terminálovém prostředí (vyžaduje git a Docker)
+  de: Ein Benchmark für KI-Agenten in Terminalumgebungen (benötigt git und Docker)
+  es: Un benchmark para agentes de IA en entornos de terminal (requiere git y Docker)
+  fr: Un benchmark pour les agents IA dans des environnements de terminal (nécessite git et Docker)
+  id: Benchmark untuk agen AI di lingkungan terminal (membutuhkan git dan Docker)
+  it: Un benchmark per agenti IA in ambienti terminale (richiede git e Docker)
+  ja: ターミナル環境におけるAIエージェントのベンチマーク（gitとDockerが必要）
+  ko: 터미널 환경에서의 AI 에이전트 벤치마크 (git와 Docker 필요)
+  pl: Benchmark dla agentów AI w środowiskach terminala (wymaga git i Dockera)
+  pt: Um benchmark para agentes de IA em ambientes de terminal (requer git e Docker)
+  ro: Un benchmark pentru agenți AI în medii de terminal (necesită git și Docker)
+  ru: Бенчмарк для ИИ-агентов в терминальных средах (требуются git и Docker)
+  th: เกณฑ์มาตรฐานสำหรับเอเจนต์ AI ในสภาพแวดล้อมเทอร์มินัล (ต้องใช้ git และ Docker)
+  tr: Terminal ortamlarında yapay zekâ ajanları için bir kıyaslama testi (git ve Docker gerektirir)
+  uk: Бенчмарк для ШІ-агентів у термінальних середовищах (потрібні git і Docker)
+  vi: Bộ đánh giá chuẩn cho tác tử AI trong môi trường terminal (yêu cầu git và Docker)
 x:
   source: https://github.com/laude-institute/terminal-bench
   pip: terminal-bench

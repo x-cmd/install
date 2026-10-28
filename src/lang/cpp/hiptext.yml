@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 将图像转为文本,效果优于 caca/aalib
   en: Turn images into text better than caca/aalib
+  cs: Převádí obrázky na text lépe než caca/aalib
+  de: Verwandelt Bilder besser als caca/aalib in Text
+  es: Convierte imágenes en texto mejor que caca/aalib
+  fr: Convertit les images en texte mieux que caca/aalib
+  id: Mengubah gambar menjadi teks lebih baik dari caca/aalib
+  it: Converte le immagini in testo meglio di caca/aalib
+  ja: caca/aalib よりも良く画像をテキストに変換します
+  ko: caca/aalib보다 더 잘 이미지를 텍스트로 변환합니다
+  pl: Zamienia obrazy w tekst lepiej niż caca/aalib
+  pt: Converte imagens em texto melhor do que caca/aalib
+  ro: Transformă imaginile în text mai bine decât caca/aalib
+  ru: Преобразует изображения в текст лучше, чем caca/aalib
+  th: แปลงรูปภาพเป็นข้อความได้ดีกว่า caca/aalib
+  tr: Görselleri caca/aalib'den daha iyi metne dönüştürür
+  uk: Перетворює зображення в текст краще, ніж caca/aalib
+  vi: Chuyển hình ảnh thành văn bản tốt hơn caca/aalib
 x:
   source: https://github.com/jart/hiptext
   eget: jart/hiptext

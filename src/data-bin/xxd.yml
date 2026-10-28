@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 十六进制型实用程序 xxd
   en: hex-dump-type utility xxd
+  cs: Nástroj pro hexadecimální výpis xxd
+  de: Hex-Dump-Utility xxd
+  es: Utilidad de volcado hexadecimal xxd
+  fr: Utilitaire de vidage hexadécimal xxd
+  id: Utilitas hex dump xxd
+  it: Utility di hex dump xxd
+  ja: 16進ダンプ用ユーティリティ xxd
+  ko: 16진수 덤프 유틸리티 xxd
+  pl: Narzędzie do zrzutów szesnastkowych xxd
+  pt: Utilitário de despejo hexadecimal xxd
+  ro: Utilitar de afișare hexazecimală xxd
+  ru: Утилита шестнадцатеричного дампа xxd
+  th: ยูทิลิตี้แสดงข้อมูลฐานสิบหก xxd
+  tr: Onaltılık döküm aracı xxd
+  uk: Утиліта шістнадцяткового дампу xxd
+  vi: Tiện ích kết xuất hex xxd
 x:
   source: https://github.com/ckormanyos/xxd
   eget: ckormanyos/xxd

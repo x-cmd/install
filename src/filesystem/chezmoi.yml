@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 跨多个不同的机器安全地管理您的 dotfiles
   en: Manage your dotfiles across multiple diverse machines, securely
+  cs: Bezpečně spravujte své dotfiles na více různých počítačích
+  de: Verwalten Sie Ihre Dotfiles sicher auf mehreren unterschiedlichen Rechnern
+  es: Gestiona tus dotfiles de forma segura en varias máquinas distintas
+  fr: Gérez vos dotfiles de manière sécurisée sur plusieurs machines différentes
+  id: Kelola dotfile Anda secara aman di berbagai mesin yang beragam
+  it: Gestisci in modo sicuro i tuoi dotfile su macchine diverse e molteplici
+  ja: 多様なマシン全体で dotfiles を安全に管理します
+  ko: 다양한 여러 대의 머신에서 dotfiles를 안전하게 관리하세요
+  pl: Bezpiecznie zarządzaj swoimi plikami dotfiles na wielu różnych maszynach
+  pt: Gerencie seus dotfiles com segurança em várias máquinas diferentes
+  ro: Gestionați-vă dotfiles în siguranță pe mai multe mașini diferite
+  ru: Безопасно управляйте своими dotfiles на множестве различных машин
+  th: จัดการไฟล์ dotfiles ของคุณอย่างปลอดภัยบนเครื่องหลากหลายเครื่อง
+  tr: Dotfile'larınızı çeşitli makinelerde güvenli bir şekilde yönetin
+  uk: Безпечно керуйте своїми dotfiles на багатьох різних машинах
+  vi: Quản lý dotfiles của bạn một cách an toàn trên nhiều máy khác nhau
 x:
   source: https://github.com/twpayne/chezmoi
   eget: twpayne/chezmoi

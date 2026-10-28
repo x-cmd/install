@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Kwt (Kubernetes Workstation Tools) CLI 为应用程序开发人员用 Kubernetes 开发应用程序提供了一组有用的命令
   en: kwt (Kubernetes Workstation Tools) (pronounced spelled out) CLI provides helpful set of commands for application developers to develop applications with Kubernetes
+  cs: kwt (Kubernetes Workstation Tools) CLI poskytuje užitečnou sadu příkazů pro vývojáře aplikací, kteří vyvíjejí aplikace s Kubernetes
+  de: Die CLI kwt (Kubernetes Workstation Tools) bietet einen hilfreichen Satz an Befehlen für Anwendungsentwickler, die Anwendungen mit Kubernetes entwickeln
+  es: La CLI kwt (Kubernetes Workstation Tools) ofrece un conjunto útil de comandos para desarrolladores de aplicaciones que desarrollan aplicaciones con Kubernetes
+  fr: La CLI kwt (Kubernetes Workstation Tools) fournit un ensemble utile de commandes pour les développeurs qui créent des applications avec Kubernetes
+  id: CLI kwt (Kubernetes Workstation Tools) menyediakan rangkaian perintah yang berguna bagi pengembang aplikasi untuk membangun aplikasi dengan Kubernetes
+  it: La CLI kwt (Kubernetes Workstation Tools) fornisce un utile insieme di comandi per gli sviluppatori che realizzano applicazioni con Kubernetes
+  ja: kwt (Kubernetes Workstation Tools) CLI は、Kubernetes でアプリケーションを開発するアプリケーションデベロッパーに便利なコマンド群を提供します
+  ko: kwt(Kubernetes Workstation Tools) CLI는 Kubernetes로 애플리케이션을 개발하는 애플리케이션 개발자에게 유용한 명령 모음을 제공합니다
+  pl: CLI kwt (Kubernetes Workstation Tools) udostępnia przydatny zestaw poleceń dla deweloperów aplikacji tworzących aplikacje z Kubernetes
+  pt: A CLI kwt (Kubernetes Workstation Tools) oferece um conjunto útil de comandos para desenvolvedores de aplicativos criarem aplicativos com Kubernetes
+  ro: CLI kwt (Kubernetes Workstation Tools) oferă un set util de comenzi pentru dezvoltatorii de aplicații care dezvoltă aplicații cu Kubernetes
+  ru: CLI kwt (Kubernetes Workstation Tools) предоставляет удобный набор команд для разработчиков приложений, создающих приложения с Kubernetes
+  th: kwt (Kubernetes Workstation Tools) CLI มีชุดคำสั่งที่เป็นประโยชน์สำหรับนักพัฒนาแอปพลิเคชันในการพัฒนาแอปพลิเคชันด้วย Kubernetes
+  tr: kwt (Kubernetes Workstation Tools) CLI, Kubernetes ile uygulama geliştiren uygulama geliştiricileri için faydalı bir komut seti sunar
+  uk: CLI kwt (Kubernetes Workstation Tools) надає зручний набір команд для розробників застосунків, які створюють застосунки з Kubernetes
+  vi: CLI kwt (Kubernetes Workstation Tools) cung cấp bộ lệnh hữu ích cho các nhà phát triển ứng dụng khi phát triển ứng dụng với Kubernetes
 x:
   source: https://github.com/carvel-dev/kwt
   eget: carvel-dev/kwt

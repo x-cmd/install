@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Pywal 是一个从图像中的主色调生成调色板的工具
   en: Pywal is a tool that generates a color palette from the dominant colors in an image
+  cs: Pywal je nástroj, který generuje barevnou paletu z dominantních barev v obrázku
+  de: Pywal ist ein Werkzeug, das eine Farbpalette aus den dominanten Farben eines Bildes erzeugt
+  es: Pywal es una herramienta que genera una paleta de colores a partir de los colores dominantes de una imagen
+  fr: Pywal est un outil qui génère une palette de couleurs à partir des couleurs dominantes d'une image
+  id: Pywal adalah alat yang membuat palet warna dari warna dominan dalam gambar
+  it: Pywal è uno strumento che genera una tavolozza di colori dai colori dominanti di un'immagine
+  ja: Pywalは、画像内の主要な色からカラーパレットを生成するツールです。
+  ko: Pywal은 이미지의 주된 색상으로부터 컬러 팔레트를 생성하는 도구입니다.
+  pl: Pywal to narzędzie generujące paletę barw z dominujących kolorów obrazu
+  pt: O Pywal é uma ferramenta que gera uma paleta de cores a partir das cores dominantes de uma imagem
+  ro: Pywal este un instrument care generează o paletă de culori din culorile dominante ale unei imagini
+  ru: Pywal — инструмент, который создаёт цветовую палитру из основных цветов изображения
+  th: Pywal เป็นเครื่องมือที่สร้างชุดสีจากสีหลักในภาพ
+  tr: Pywal, bir görüntüdeki baskın renklerden bir renk paleti oluşturan bir araçtır
+  uk: Pywal — інструмент, який створює палітру кольорів із основних кольорів зображення
+  vi: Pywal là công cụ tạo bảng màu từ các màu chủ đạo trong hình ảnh
 x:
   source: https://github.com/dylanaraps/pywal
   pacman: python-pywal

@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 网易有道开源的基于 LLM 的多语言零样本语音克隆 TTS 引擎，支持 14 种语言的无口音跨语言迁移与情感保持，无需参考文本即可克隆音色。
   en: Netease Youdao's open-source LLM-based multilingual zero-shot voice cloning TTS engine, supporting unaccented cross-lingual transfer and emotion preservation across 14 languages with no reference text required.
+  cs: Open-source TTS engine Netease Youdao založený na LLM pro klonování hlasu bez tréninku ve více jazycích, podporující přenos mezi jazyky bez přízvuku a zachování emocií v 14 jazycích bez nutnosti referenčního textu.
+  de: Die quelloffene, LLM-basierte mehrsprachige Zero-Shot-Voice-Cloning-TTS-Engine von Netease Youdao, die akzentfreien sprachübergreifenden Transfer und Emotionserhalt in 14 Sprachen ohne Referenztext unterstützt.
+  es: Motor TTS de clonación de voz zero-shot multilingüe basado en LLM y de código abierto de Netease Youdao, que admite transferencia entre idiomas sin acento y preservación de emociones en 14 idiomas sin necesidad de texto de referencia.
+  fr: Le moteur TTS de clonage vocal zero-shot multilingue open source de Netease Youdao, prenant en charge le transfert interlinguistique sans accent et la préservation des émotions dans 14 langues sans texte de référence.
+  id: Mesin TTS kloning suara zero-shot multibahasa berbasis LLM sumber terbuka dari Netease Youdao, mendukung transfer antar bahasa tanpa aksen dan preservasi emosi di 14 bahasa tanpa teks referensi.
+  it: Il motore TTS open source di clonazione vocale zero-shot multilingua basato su LLM di Netease Youdao, con supporto per il trasferimento cross-linguale senza accento e la preservazione delle emozioni in 14 lingue senza testo di riferimento.
+  ja: NetEase Youdao のオープンソース LLM ベース多言語ゼロショット音声クローン TTS エンジン。参照テキスト不要で、14 言語におけるアクセントのない言語間移管と感情の保持に対応します。
+  ko: NetEase Youdao의 오픈 소스 LLM 기반 다국어 제로샷 음성 복제 TTS 엔진으로, 참조 텍스트 없이 14개 언어에서 억양 없는 언어 간 전이와 감정 보존을 지원합니다.
+  pl: Otwartoźródłowy, wielojęzyczny silnik TTS do klonowania głosu w trybie zero-shot oparty na LLM od Netease Youdao, obsługujący transfer międzyjęzykowy bez akcentu i zachowanie emocji w 14 językach bez tekstu referencyjnego.
+  pt: O motor TTS de clonagem de voz zero-shot multilíngue baseado em LLM e de código aberto da Netease Youdao, com suporte a transferência entre idiomas sem sotaque e preservação de emoções em 14 idiomas sem texto de referência.
+  ro: Motorul TTS open source pentru clonarea vocii, bazat pe LLM, multilingv, cu transfer între limbi fără accent și păstrarea emoțiilor în 14 limbi, fără text de referință.
+  ru: Открытый многоязычный TTS-движок на базе LLM от Netease Youdao для клонирования голоса без обучающих примеров, поддерживающий перенос между языками без акцента и сохранение эмоций в 14 языках без референсного текста.
+  th: เอนจิน TTS โอเพนซอร์สแบบ zero-shot คลอนเสียงหลายภาษาที่ใช้ LLM ของ Netease Youdao รองรับการถ่ายทอดข้ามภาษาโดยไม่มีสำเนียงและการคงอารมณ์ใน 14 ภาษา โดยไม่ต้องมีข้อความอ้างอิง
+  tr: Netease Youdao'nun LLM tabanlı, çok dilli, zero-shot ses klonlama TTS motoru; referans metin gerektirmeden 14 dilde aksansız diller arası aktarım ve duygu korunumu sunar.
+  uk: Відкритий багатомовний TTS-рушій на базі LLM від Netease Youdao для клонування голосу без навчальних прикладів, що підтримує перенесення між мовами без акценту та збереження емоцій у 14 мовах без референсного тексту.
+  vi: Động cơ TTS mã nguồn mở, đa ngôn ngữ, dựa trên LLM của Netease Youdao, hỗ trợ chuyển giao giữa các ngôn ngữ không giọng vùng và giữ cảm xúc trên 14 ngôn ngữ mà không cần văn bản tham chiếu.
 x:
   source: https://github.com/netease-youdao/Confucius4-TTS
 rule:

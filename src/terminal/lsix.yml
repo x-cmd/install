@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 像 “ls”，但用于图像。使用 sixel 图形在终端中显示缩略图。
   en: Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+  cs: Podobné k "ls", ale pro obrázky. Zobrazuje náhledy v terminálu pomocí grafiky sixel.
+  de: Wie "ls", aber für Bilder. Zeigt Thumbnails im Terminal mit Sixel-Grafik.
+  es: Como "ls", pero para imágenes. Muestra miniaturas en la terminal usando gráficos sixel.
+  fr: Comme "ls", mais pour les images. Affiche les miniatures dans le terminal en utilisant les graphismes sixel.
+  id: Seperti "ls", tapi untuk gambar. Menampilkan thumbnail di terminal menggunakan grafik sixel.
+  it: Come "ls", ma per le immagini. Mostra le miniature nel terminale usando la grafica sixel.
+  ja: 「ls」と似ていますが、画像用のツールです。sixel グラフィックスを使ってターミナルにサムネイルを表示します。
+  ko: "\"ls\"와 비슷하지만 이미지를 위한 도구입니다. sixel 그래픽으로 터미널에 썸네일을 표시합니다."
+  pl: Jak "ls", ale dla obrazów. Wyświetla miniatury w terminalu za pomocą grafiki sixel.
+  pt: Como "ls", mas para imagens. Mostra miniaturas no terminal usando gráficos sixel.
+  ro: Ca "ls", dar pentru imagini. Afișează miniaturi în terminal folosind grafică sixel.
+  ru: Как "ls", но для изображений. Показывает миниатюры в терминале с помощью графики sixel.
+  th: คล้าย "ls" แต่สำหรับรูปภาพ แสดงภาพขนาดย่อในเทอร์มินัลด้วยกราฟิก sixel
+  tr: "\"ls\" gibidir, ancak görseller içindir. sixel grafikleriyle terminalde küçük resimleri gösterir."
+  uk: Як "ls", але для зображень. Показує мініатюри в терміналі за допомогою графіки sixel.
+  vi: Giống "ls" nhưng dành cho hình ảnh. Hiển thị hình thu nhỏ trong terminal bằng đồ hoạ sixel.
 x:
   source: https://github.com/hackerb9/lsix
 rule:

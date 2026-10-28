@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于将图像转换为 ascii art 并在控制台上打印
   en: A cross-platform command-line tool to convert images into ascii art and print them on the console
+  cs: Nástroj příkazové řádky pro převod obrázků na ascii art a jejich vykreslení v konzoli
+  de: Ein plattformübergreifendes Kommandozeilen-Tool, das Bilder in ASCII Art umwandelt und in der Konsole ausgibt
+  es: Una herramienta de línea de comandos multiplataforma para convertir imágenes en ascii art y mostrarlas en la consola
+  fr: Un outil en ligne de commande multiplateforme pour convertir des images en art ASCII et les afficher dans la console
+  id: Alat baris perintah lintas platform untuk mengubah gambar menjadi ascii art dan menampilkannya di konsol
+  it: Uno strumento da riga di comando multipiattaforma che converte le immagini in ascii art e le stampa sulla console
+  ja: 画像をアスキーアートに変換してコンソールに表示するクロスプラットフォームのコマンドラインツール
+  ko: 이미지를 아스키 아트로 변환하여 콘솔에 출력하는 크로스 플랫폼 명령줄 도구
+  pl: Narzędzie wiersza poleceń działające na różnych platformach, które zamienia obrazy w ascii art i wyświetla je w konsoli
+  pt: Uma ferramenta de linha de comando multiplataforma para converter imagens em ascii art e imprimi-las no console
+  ro: Un instrument de linie de comandă multiplă platformă pentru conversia imaginilor în ascii art și afișarea lor în consolă
+  ru: Кроссплатформенный инструмент командной строки для преобразования изображений в ASCII-арт и вывода их в консоль
+  th: เครื่องมือบรรทัดคำสั่งข้ามแพลตฟอร์มสำหรับแปลงรูปภาพเป็น ascii art และพิมพ์ลงคอนโซล
+  tr: Görselleri ascii art'a dönüştürüp konsola yazan platformlar arası komut satırı aracı
+  uk: Кроссплатформний інструмент командного рядка для перетворення зображень в ASCII-арт і виведення їх у консоль
+  vi: Công cụ dòng lệnh đa nền tảng để chuyển đổi hình ảnh thành ascii art và in ra console
 x:
   source: https://github.com/TheZoraiz/ascii-image-converter
   eget: TheZoraiz/ascii-image-converter

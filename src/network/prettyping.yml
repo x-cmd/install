@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Prettyping 是标准 ping 工具的包装器，使输出更漂亮、更丰富多彩、更紧凑且更易于阅读
   en: Prettyping is a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read
+  cs: Prettyping je obalovka standardního nástroje ping, která výstup činí hezčím, barevnějším, kompaktnějším a snáze čitelným
+  de: Prettyping ist ein Wrapper für das Standardwerkzeug ping, der die Ausgabe hübscher, farbiger, kompakter und leichter lesbar macht
+  es: Prettyping es un envoltorio de la herramienta estándar ping que hace que la salida sea más bonita, colorida, compacta y fácil de leer
+  fr: Prettyping est un wrapper autour de l'outil standard ping qui rend la sortie plus jolie, plus colorée, plus compacte et plus facile à lire
+  id: Prettyping adalah pembungkus alat ping standar yang membuat keluarannya lebih cantik, lebih berwarna-warni, lebih ringkas, dan lebih mudah dibaca
+  it: Prettyping è un wrapper dello strumento standard ping che rende l'output più bello, più colorato, più compatto e più facile da leggere
+  ja: Prettyping は標準の ping ツールのラッパーであり、出力をより美しく、よりカラフルに、よりコンパクトで読みやすくします
+  ko: Prettyping은 표준 ping 도구를 감싸서 출력을 더 보기 좋고, 다채롭고, 간결하며, 읽기 쉽게 만듭니다
+  pl: Prettyping to nakładka na standardowe narzędzie ping, która sprawia, że wynik jest ładniejszy, bardziej kolorowy, bardziej zwięzły i łatwiejszy do odczytania
+  pt: Prettyping é um wrapper da ferramenta padrão ping que torna a saída mais bonita, mais colorida, mais compacta e mais fácil de ler
+  ro: Prettyping este un wrapper pentru instrumentul standard ping, care face ieșirea mai frumoasă, mai colorată, mai compactă și mai ușor de citit
+  ru: Prettyping — это обёртка над стандартной утилитой ping, делающая вывод более красивым, насыщенным цветом, компактным и удобным для чтения
+  th: Prettyping เป็น wrapper ของเครื่องมือ ping มาตรฐาน ทำให้ผลลัพธ์สวยงาม มีสีสัน กระชับ และอ่านง่ายขึ้น
+  tr: Prettyping, standart ping aracının çıktısını daha güzel, daha renkli, daha kompakt ve okunması kolay hale getiren bir sarmalayıcıdır
+  uk: Prettyping — це обгортка над стандартною утилітою ping, яка робить вивід красивішим, барвистішим, компактнішим і зручнішим для читання
+  vi: Prettyping là lớp bọc của công cụ ping tiêu chuẩn, giúp đầu ra đẹp hơn, nhiều màu sắc hơn, gọn gàng hơn và dễ đọc hơn
 x:
   source: https://github.com/denilsonsa/prettyping
 rule:

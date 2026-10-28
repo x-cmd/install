@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   en: Fluent CI is a CI/CD tool that allows you to build, test, and deploy your code
   cn: FluentCI 是一个 CI/CD 工具，允许您构建、测试和部署代码
+  cs: Fluent CI je nástroj CI/CD, který vám umožňuje sestavovat, testovat a nasazovat váš kód
+  de: Fluent CI ist ein CI/CD-Werkzeug, mit dem Sie Ihren Code bauen, testen und bereitstellen können
+  es: Fluent CI es una herramienta de CI/CD que le permite compilar, probar y desplegar su código
+  fr: Fluent CI est un outil CI/CD qui vous permet de build, tester et déployer votre code
+  id: Fluent CI adalah alat CI/CD yang memungkinkan Anda membangun, menguji, dan men-deploy kode Anda
+  it: Fluent CI è uno strumento CI/CD che ti consente di compilare, testare e distribuire il tuo codice
+  ja: Fluent CI は、コードのビルド、テスト、デプロイを行うことを可能にする CI/CD ツールです
+  ko: Fluent CI는 코드를 빌드, 테스트 및 배포할 수 있게 해주는 CI/CD 도구입니다
+  pl: Fluent CI to narzędzie CI/CD, które pozwala budować, testować i wdrażać kod
+  pt: Fluent CI é uma ferramenta de CI/CD que permite compilar, testar e implantar seu código
+  ro: Fluent CI este un instrument CI/CD care vă permite să construiți, testați și să deployați codul
+  ru: Fluent CI — это инструмент CI/CD, позволяющий собирать, тестировать и разворачивать ваш код
+  th: Fluent CI คือเครื่องมือ CI/CD ที่ให้คุณสร้าง ทดสอบ และปล่อยใช้โค้ดของคุณ
+  tr: Fluent CI, kodunuzu derlemenize, test etmenize ve dağıtmanıza olanak tanıyan bir CI/CD aracıdır
+  uk: Fluent CI — це інструмент CI/CD, який дає змогу збирати, тестувати та розгортати ваш код
+  vi: Fluent CI là công cụ CI/CD cho phép bạn build, test và triển khai mã của mình
 x:
   source: https://github.com/fluentci-io/fluentci
   eget: fluentci-io/fluentci

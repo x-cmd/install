@@ -3,6 +3,22 @@ homepage: http://gondor.apana.org.au/~herbert/dash/
 desc:
   cn: DASH 是 /bin/sh 的 POSIX 兼容实现，旨在尽可能小
   en: DASH is a POSIX-compliant implementation of /bin/sh that aims to be as small as possible
+  cs: DASH je implementace /bin/sh kompatibilní s POSIX, která se snaží být co nejmenší
+  de: DASH ist eine POSIX-konforme Implementierung von /bin/sh, die so klein wie möglich sein soll
+  es: DASH es una implementación de /bin/sh compatible con POSIX que busca ser lo más pequeña posible
+  fr: DASH est une implémentation de /bin/sh conforme à POSIX qui vise à être aussi petite que possible
+  id: DASH adalah implementasi /bin/sh yang sesuai POSIX, yang berusaha sekecil mungkin
+  it: DASH è un'implementazione di /bin/sh conforme a POSIX che mira a essere il più piccola possibile
+  ja: DASH は POSIX 準拠の /bin/sh 実装で、可能な限り小さくなることを目指しています
+  ko: DASH는 POSIX 호환 /bin/sh 구현으로, 가능한 한 작게 만들어지도록 합니다
+  pl: DASH to implementacja /bin/sh zgodna z POSIX, dążąca do jak najmniejszego rozmiaru
+  pt: DASH é uma implementação de /bin/sh compatível com POSIX que busca ser a menor possível
+  ro: DASH este o implementare /bin/sh conformă cu POSIX care urmărește să fie cât mai mică
+  ru: DASH — это POSIX-совместимая реализация /bin/sh, стремящаяся быть как можно меньше
+  th: DASH คือการดำเนินการ /bin/sh ที่สอดคล้องกับ POSIX และมุ่งหวังให้เล็กที่สุด
+  tr: DASH, mümkün olduğunca küçük olmayı amaçlayan POSIX uyumlu bir /bin/sh uygulamasıdır
+  uk: DASH — це реалізація /bin/sh, сумісна з POSIX, яка намагається бути якнайменшою
+  vi: DASH là bản triển khai /bin/sh tuân thủ POSIX, cố gắng nhỏ gọn nhất có thể
 rule:
   darwin/brew:
     cmd: brew install dash

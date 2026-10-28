@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 扫描网络并生成 IP 与对应主机名列表，含 mDNS 主机名等别名
   en: 'Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.'
+  cs: Prohledá síť a vytvoří seznam IP adres a přidružených hostnames včetně mDNS hostnames a dalších aliasů.
+  de: Ein Netzwerk scannen und eine Liste von IPs und zugehörigen Hostnamen erstellen, einschließlich mDNS-Hostnamen und anderen Aliasen.
+  es: Escanea una red y crea una lista de IP y nombres de host asociados, incluidos los nombres de host mDNS y otros alias.
+  fr: Analyse un réseau et crée une liste d'adresses IP et de noms d'hôtes associés, y compris les noms d'hôtes mDNS et autres alias.
+  id: Pindai jaringan dan buat daftar IP beserta nama host terkait, termasuk nama host mDNS dan alias lainnya.
+  it: Scansiona una rete e crea un elenco di IP e nomi host associati, inclusi i nomi host mDNS e altri alias.
+  ja: ネットワークをスキャンし、mDNS ホスト名などの別名を含む IP アドレスと対応するホスト名のリストを作成します。
+  ko: 네트워크를 스캔하고 mDNS 호스트 이름과 기타 별칭을 포함한 IP 주소 및 관련 호스트 이름 목록을 만듭니다.
+  pl: Skanuje sieć i tworzy listę adresów IP wraz z powiązanymi nazwami hostów, w tym nazwami hostów mDNS i innymi aliasami.
+  pt: Varre uma rede e cria uma lista de IPs e nomes de host associados, incluindo nomes de host mDNS e outros apelidos.
+  ro: Scanează o rețea și creează o listă de adrese IP și nume de gazdă asociate, inclusiv nume de gazdă mDNS și alte aliasuri.
+  ru: Сканирует сеть и создаёт список IP-адресов и связанных с ними имён хостов, включая mDNS-имена и другие псевдонимы.
+  th: สแกนเครือข่ายและสร้างรายการ IP พร้อมชื่อโฮสต์ที่เกี่ยวข้อง รวมถึงชื่อโฮสต์ mDNS และนามแฝงอื่น ๆ
+  tr: Bir ağı tarar ve mDNS ana bilgisayar adları ile diğer takma adlar dahil olmak üzere IP adresleri ve ilgili ana bilgisayar adlarının listesini oluşturur.
+  uk: Сканує мережу та створює список IP-адрес і відповідних імен хостів, зокрема mDNS-імен хостів та інших псевдонімів.
+  vi: Quét mạng và tạo danh sách các địa chỉ IP cùng tên máy chủ liên quan, bao gồm tên máy chủ mDNS và các bí danh khác.
 x:
   source: https://github.com/CramBL/mdns-scanner
   eget: CramBL/mdns-scanner

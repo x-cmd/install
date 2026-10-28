@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 用于扫描 Python 环境已知漏洞的工具
   en: A tool for scanning Python environments for known vulnerabilities
+  cs: Nástroj pro skenování prostředí Pythonu na známé zranitelnosti
+  de: Ein Werkzeug zum Scannen von Python-Umgebungen nach bekannten Schwachstellen
+  es: Una herramienta para escanear entornos de Python en busca de vulnerabilidades conocidas
+  fr: Un outil pour analyser les environnements Python à la recherche de vulnérabilités connues
+  id: Alat untuk memindai lingkungan Python mencari kerentanan yang diketahui
+  it: Uno strumento per analizzare gli ambienti Python alla ricerca di vulnerabilità note
+  ja: 既知の脆弱性を探して Python 環境をスキャンするツール
+  ko: 알려진 취약점을 찾기 위해 Python 환경을 검사하는 도구
+  pl: Narzędzie do skanowania środowisk Python w poszukiwaniu znanych podatności
+  pt: Uma ferramenta para verificar ambientes Python em busca de vulnerabilidades conhecidas
+  ro: Un instrument pentru scanarea mediilor Python în căutarea vulnerabilităților cunoscute
+  ru: Инструмент для сканирования окружений Python на наличие известных уязвимостей
+  th: เครื่องมือสแกนสภาพแวดล้อม Python เพื่อหาช่องโหว่ที่ทราบแล้ว
+  tr: Python ortamlarında bilinen güvenlik açıklarını taramak için bir araç
+  uk: Інструмент для сканування середовищ Python на наявність відомих вразливостей
+  vi: Công cụ quét môi trường Python để tìm các lỗ hổng đã biết
 x:
   source: https://github.com/pypa/pip-audit
   brew: pip-audit

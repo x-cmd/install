@@ -3,6 +3,22 @@ homepage: https://github.com/hashicorp/vagrant
 desc:
   en: Vagrant is the command line utility for managing the lifecycle of virtual machines
   cn: Vagrant 是用于管理虚拟机生命周期的命令行实用程序
+  cs: Vagrant je nástroj příkazového řádku pro správu životního cyklu virtuálních počítačů
+  de: Vagrant ist das Kommandozeilenwerkzeug zur Verwaltung des Lebenszyklus virtueller Maschinen
+  es: Vagrant es la utilidad de línea de comandos para gestionar el ciclo de vida de las máquinas virtuales
+  fr: Vagrant est l'utilitaire en ligne de commande pour gérer le cycle de vie des machines virtuelles
+  id: Vagrant adalah utilitas baris perintah untuk mengelola siklus hidup mesin virtual
+  it: Vagrant è l'utilità della riga di comando per gestire il ciclo di vita delle macchine virtuali
+  ja: Vagrant は仮想マシンのライフサイクルを管理するコマンドラインユーティリティです
+  ko: Vagrant는 가상 머신의 수명 주기를 관리하는 명령줄 도구입니다
+  pl: Vagrant to narzędzie wiersza poleceń do zarządzania cyklem życia maszyn wirtualnych
+  pt: Vagrant é o utilitário de linha de comando para gerenciar o ciclo de vida de máquinas virtuais
+  ro: Vagrant este utilitarul de linie de comandă pentru gestionarea ciclului de viață al mașinilor virtuale
+  ru: Vagrant — это утилита командной строки для управления жизненным циклом виртуальных машин
+  th: Vagrant เป็นเครื่องมือบรรทัดคำสั่งสำหรับจัดการวงจรชีวิตของเครื่องเสมือน
+  tr: Vagrant, sanal makinelerin yaşam döngüsünü yönetmek için komut satırı aracıdır
+  uk: Vagrant — це утиліта командного рядка для керування життєвим циклом віртуальних машин
+  vi: Vagrant là tiện ích dòng lệnh để quản lý vòng đời của máy ảo
 x:
   source: https://github.com/hashicorp/vagrant
   apt: vagrant

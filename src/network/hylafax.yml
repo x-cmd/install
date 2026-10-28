@@ -3,6 +3,22 @@ homepage: https://github.com/ifax/HylaFAX
 desc:
   en: HylaFAX™ is an enterprise-class open-source system for sending and receiving facsimiles as well as for sending alpha-numeric pages.
   cn: HylaFAX™ 是一个企业级的开源系统，用于发送和接收传真以及发送字母数字页面。
+  cs: HylaFAX™ je open-source systém podnikové třídy pro odesílání a příjem faxů a rovněž pro odesílání alfanumerických stránek.
+  de: HylaFAX™ ist ein quelloffenes System der Enterprise-Klasse zum Senden und Empfangen von Faxnachrichten sowie zum Senden alphanumerischer Paging-Nachrichten.
+  es: HylaFAX™ es un sistema de código abierto de nivel empresarial para enviar y recibir faxes, así como para enviar páginas alfanuméricas.
+  fr: HylaFAX™ est un système open source de niveau entreprise pour l'envoi et la réception de télécopies, ainsi que pour l'envoi de pages alphanumériques.
+  id: HylaFAX™ adalah sistem open source kelas enterprise untuk mengirim dan menerima faks serta mengirim halaman alfanumerik.
+  it: HylaFAX™ è un sistema open source di livello enterprise per l'invio e la ricezione di fax e per l'invio di pagine alfanumeriche.
+  ja: HylaFAX™ は、ファックスの送受信および英数字ページの送信を行うためのエンタープライズ級のオープンソースシステムです。
+  ko: HylaFAX™는 팩스 송수신과 영문자 페이지 전송을 위한 엔터프라이즈급 오픈 소스 시스템입니다.
+  pl: HylaFAX™ to otwartoźródłowy system klasy enterprise do wysyłania i odbierania faksów oraz do wysyłania stron alfanumerycznych.
+  pt: O HylaFAX™ é um sistema de código aberto de nível empresarial para enviar e receber faxes, bem como para enviar páginas alfanuméricas.
+  ro: HylaFAX™ este un sistem open source de nivel enterprise pentru trimiterea și primirea de faxuri, precum și pentru trimiterea de pagini alfanumerice.
+  ru: HylaFAX™ — открытая система корпоративного уровня для отправки и приёма факсов, а также для отправки буквенно-цифровых сообщений.
+  th: HylaFAX™ คือระบบโอเพนซอร์สระดับองค์กรสำหรับการส่งและรับโทรศัพท์สาร รวมถึงการส่งเขจรหมายตัวอักษรตัวเลข
+  tr: HylaFAX™, faks gönderme ve alma ile alfanümerik sayfalama gönderme için kurumsal düzeyde bir açık kaynak sistemdir.
+  uk: HylaFAX™ — відкрита система корпоративного рівня для надсилання та приймання факсів, а також для надсилання буквено-цифрових повідомлень.
+  vi: HylaFAX™ là hệ thống mã nguồn mở cấp doanh nghiệp để gửi và nhận fax, cũng như gửi tin nhắn phân trang chữ và số.
 x:
   source: https://github.com/ifax/HylaFAX
   dnf: hylafax+

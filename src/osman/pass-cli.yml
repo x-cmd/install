@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 安全跨平台开源的 1Password/Bitwarden 替代品，命令行密码与 API key 管理器 (CLI + TUI)
   en: 'A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)'
+  cs: Bezpečná, multiplatformní, vždy bezplatná a open-source alternativa k 1password, bitwarden atd., správce hesel a API klíčů pro ty, kdo žijí v příkazové řádce. (CLI + TUI)
+  de: Eine sichere, plattformübergreifende, immer kostenlose und quelloffene Alternative zu 1password, bitwarden usw. – Passwort- und API-Key-Manager für Menschen, die in der Kommandozeile leben. (CLI + TUI)
+  es: Una alternativa segura, multiplataforma, siempre gratuita y de código abierto a 1password, bitwarden, etc.; gestor de contraseñas y claves API para quienes viven en la línea de comandos. (CLI + TUI)
+  fr: Une alternative sécurisée, multiplateforme, toujours gratuite et open source à 1password, bitwarden, etc. — gestionnaire de mots de passe et de clés API pour ceux qui vivent dans la ligne de commande. (CLI + TUI)
+  id: Alternatif yang aman, lintas platform, selalu gratis, dan sumber terbuka untuk 1password, bitwarden, dll., pengelola kata sandi dan kunci API bagi mereka yang hidup di command line. (CLI + TUI)
+  it: Un'alternativa sicura, multipiattaforma, sempre gratuita e open source a 1password, bitwarden, ecc. — gestore di password e chiavi API per chi vive nella riga di comando. (CLI + TUI)
+  ja: 1password、bitwarden などの、安全で、クロスプラットフォームで、常に無料、オープンソースの代替。コマンドラインで暮らす人のためのパスワードと API キーのマネージャー。(CLI + TUI)
+  ko: 1password, bitwarden 등의 안전하고, 크로스 플랫폼이며, 항상 무료이고 오픈소스인 대안. 커맨드 라인에서 일하는 사람들을 위한 비밀번호 및 API 키 관리자. (CLI + TUI)
+  pl: Bezpieczna, wieloplatformowa, zawsze darmowa i open source alternatywa dla 1password, bitwarden itp. — menedżer haseł i kluczy API dla osób żyjących w wierszu poleceń. (CLI + TUI)
+  pt: Uma alternativa segura, multiplataforma, sempre gratuita e de código aberto para 1password, bitwarden, etc. — gerenciador de senhas e chaves de API para quem vive na linha de comando. (CLI + TUI)
+  ro: O alternativă sigură, multiplatformă, mereu gratuită și open source pentru 1password, bitwarden etc. — manager de parole și chei API pentru cei care trăiesc în linia de comandă. (CLI + TUI)
+  ru: Безопасная, кроссплатформенная, всегда бесплатная и open source альтернатива 1password, bitwarden и т. п. — менеджер паролей и API-ключей для тех, кто живёт в командной строке. (CLI + TUI)
+  th: ทางเลือกที่ปลอดภัย ข้ามแพลตฟอร์ม ใช้งานฟรีเสมอ และเป็นโอเพนซอร์ส เทียบกับ 1password, bitwarden ฯลฯ ตัวจัดการรหัสผ่านและคีย์ API สำหรับผู้ที่ใช้ชีวิตอยู่กับบรรทัดคำสั่ง (CLI + TUI)
+  tr: 1password, bitwarden vb. için güvenli, çok platformlu, her zaman ücretsiz ve açık kaynaklı bir alternatif — komut satırında yaşayanlar için şifre ve API anahtarı yöneticisi. (CLI + TUI)
+  uk: Безпечна, кросплатформена, завжди безкоштовна та open source альтернатива 1password, bitwarden тощо — менеджер паролів і API-ключів для тих, хто живе в командному рядку. (CLI + TUI)
+  vi: Một giải pháp thay thế an toàn, đa nền tảng, luôn miễn phí và mã nguồn mở cho 1password, bitwarden, v.v. — trình quản lý mật khẩu và khóa API cho những ai sống trong dòng lệnh. (CLI + TUI)
 x:
   source: https://github.com/ari1110/pass-cli
   eget: ari1110/pass-cli

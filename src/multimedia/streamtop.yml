@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: streamtop is a Rust TUI/CLI for monitoring HLS, DASH, IPTV and WHEP streams — wire probes, TR 101 290, SCTE-35, linter score, Prometheus metrics and CI-friendly summary JSON.
   cn: streamtop 是用 Rust 写的 TUI/CLI，监控 HLS、DASH、IPTV 与 WHEP 流：线缆探测、TR 101 290、SCTE-35、linter 评分、Prometheus 指标与 CI 友好的 JSON 摘要。
+  cs: streamtop je TUI/CLI v Rustu pro monitorování streamů HLS, DASH, IPTV a WHEP — sondy na drát, TR 101 290, SCTE-35, skóre linteru, metriky Prometheus a souhrnný JSON vhodný pro CI.
+  de: streamtop ist eine TUI/CLI in Rust zur Überwachung von HLS-, DASH-, IPTV- und WHEP-Streams — Kabelproben, TR 101 290, SCTE-35, Linter-Score, Prometheus-Metriken und CI-freundliche Zusammenfassungs-JSON.
+  es: streamtop es una TUI/CLI en Rust para supervisar transmisiones HLS, DASH, IPTV y WHEP — sondas de cable, TR 101 290, SCTE-35, puntuación del linter, métricas de Prometheus y JSON de resumen compatible con CI.
+  fr: streamtop est une TUI/CLI en Rust pour surveiller les flux HLS, DASH, IPTV et WHEP — sondes filaires, TR 101 290, SCTE-35, score du linter, métriques Prometheus et JSON récapitulatif adapté à la CI.
+  id: streamtop adalah TUI/CLI berbasis Rust untuk memantau stream HLS, DASH, IPTV, dan WHEP — probe kabel, TR 101 290, SCTE-35, skor linter, metrik Prometheus, dan ringkasan JSON yang ramah CI.
+  it: streamtop è una TUI/CLI in Rust per monitorare stream HLS, DASH, IPTV e WHEP — sonde via cavo, TR 101 290, SCTE-35, punteggio del linter, metriche Prometheus e JSON di riepilogo compatibile con CI.
+  ja: streamtop は HLS、DASH、IPTV、WHEP ストリームを監視する Rust 製の TUI/CLI — ケーブルプローブ、TR 101 290、SCTE-35、linter スコア、Prometheus メトリクス、CI 向けのサマリー JSON。
+  ko: streamtop는 HLS, DASH, IPTV, WHEP 스트림을 모니터링하는 Rust 기반 TUI/CLI 입니다 — 와이어 프로브, TR 101 290, SCTE-35, linter 점수, Prometheus 메트릭, CI 친화적 요약 JSON.
+  pl: streamtop to TUI/CLI w Rustie do monitorowania strumieni HLS, DASH, IPTV i WHEP — sondy przewodowe, TR 101 290, SCTE-35, wynik lintera, metryki Prometheus i podsumowanie JSON przyjazne CI.
+  pt: streamtop é uma TUI/CLI em Rust para monitorar streams HLS, DASH, IPTV e WHEP — sondas de fio, TR 101 290, SCTE-35, pontuação do linter, métricas do Prometheus e JSON de resumo amigável para CI.
+  ro: streamtop este o TUI/CLI în Rust pentru monitorizarea fluxurilor HLS, DASH, IPTV și WHEP — sonde pe cablu, TR 101 290, SCTE-35, scorul linterului, metrici Prometheus și JSON rezumat prietenos cu CI.
+  ru: streamtop — TUI/CLI на Rust для мониторинга потоков HLS, DASH, IPTV и WHEP — кабельные зонды, TR 101 290, SCTE-35, оценка линтера, метрики Prometheus и сводный JSON, удобный для CI.
+  th: streamtop คือ TUI/CLI ที่เขียนด้วย Rust สำหรับตรวจสอบสตรีม HLS, DASH, IPTV และ WHEP — การสำรวจสายสัญญาณ, TR 101 290, SCTE-35, คะแนนจาก linter, เมตริก Prometheus และ JSON สรุปที่เข้ากับ CI
+  tr: streamtop, HLS, DASH, IPTV ve WHEP akışlarını izlemek için Rust ile yazılmış bir TUI/CLI'dır — kablo probları, TR 101 290, SCTE-35, linter puanı, Prometheus metrikleri ve CI uyumlu özet JSON.
+  uk: streamtop — TUI/CLI на Rust для моніторингу потоків HLS, DASH, IPTV та WHEP — дротові зонди, TR 101 290, SCTE-35, оцінка лінтера, метрики Prometheus та зведений JSON, зручний для CI.
+  vi: streamtop là TUI/CLI viết bằng Rust để giám sát các luồng HLS, DASH, IPTV và WHEP — dò dây, TR 101 290, SCTE-35, điểm linter, số liệu Prometheus và JSON tóm tắt thân thiện với CI.
 x:
   source: https://github.com/Jorji49/streamtop
   eget: Jorji49/streamtop

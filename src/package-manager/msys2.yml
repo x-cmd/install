@@ -3,6 +3,22 @@ homepage: https://packages.msys2.org/queue
 desc:
   cn: MSYS2 是一个工具和库的集合，为您提供了一个易于使用的环境，用于构建、安装和运行本地 Windows 软件
   en: MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software
+  cs: MSYS2 je sbírka nástrojů a knihoven, která vám poskytuje snadno použitelný prostředí pro sestavování, instalaci a spouštění nativního softwaru pro Windows
+  de: MSYS2 ist eine Sammlung von Werkzeugen und Bibliotheken, die Ihnen eine leicht zu verwendende Umgebung zum Erstellen, Installieren und Ausführen nativer Windows-Software bietet
+  es: MSYS2 es una colección de herramientas y bibliotecas que te ofrece un entorno fácil de usar para compilar, instalar y ejecutar software nativo de Windows
+  fr: MSYS2 est un ensemble d'outils et de bibliothèques vous offrant un environnement facile à utiliser pour compiler, installer et exécuter des logiciels natifs Windows
+  id: MSYS2 adalah kumpulan alat dan pustaka yang menyediakan lingkungan yang mudah digunakan untuk membangun, memasang, dan menjalankan perangkat lunak Windows asli
+  it: MSYS2 è una raccolta di strumenti e librerie che fornisce un ambiente facile da usare per compilare, installare ed eseguire software nativo per Windows
+  ja: MSYS2 は、ネイティブの Windows ソフトウェアを構築・インストール・実行するための易于使う環境を提供するツールとライブラリの集まりです
+  ko: MSYS2는 네이티브 Windows 소프트웨어를 빌드, 설치 및 실행하기 위한 사용하기 쉬운 환경을 제공하는 도구와 라이브러리 모음입니다
+  pl: MSYS2 to zbiór narzędzi i bibliotek zapewniający łatwe w użyciu środowisko do budowania, instalowania i uruchamiania natywnego oprogramowania dla Windows
+  pt: MSYS2 é uma coleção de ferramentas e bibliotecas que oferece um ambiente fácil de usar para compilar, instalar e executar software nativo do Windows
+  ro: MSYS2 este o colecție de instrumente și biblioteci care vă oferă un mediu ușor de utilizat pentru compilarea, instalarea și rularea software-ului nativ pentru Windows
+  ru: MSYS2 — это набор инструментов и библиотек, предоставляющий удобную среду для сборки, установки и запуска нативного программного обеспечения Windows
+  th: MSYS2 คือชุดเครื่องมือและไลบรารีที่ให้สภาพแวดล้อมที่ใช้งานง่ายสำหรับการสร้าง ติดตั้ง และเรียกใช้ซอฟต์แวร์แบบเนทีฟของ Windows
+  tr: MSYS2, yerel Windows yazılımını derlemek, kurmak ve çalıştırmak için kullanımı kolay bir ortam sağlayan araç ve kütüphaneler koleksiyonudur
+  uk: MSYS2 — це збірка інструментів і бібліотек, що надає зручне середовище для збирання, встановлення та запуску нативного програмного забезпечення Windows
+  vi: MSYS2 là bộ sưu tập công cụ và thư viện cung cấp môi trường dễ sử dụng để xây dựng, cài đặt và chạy phần mềm Windows gốc
 rule:
   (win|wsl2)/scoop:
     cmd: 'x scoop bucket add main \

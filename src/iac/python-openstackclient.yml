@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: OpenStack 的命令行客户端
   en: 'OpenStackClient (aka OSC) is a command-line client for OpenStack '
+  cs: OpenStackClient (aka OSC) je klient příkazové řádky pro OpenStack
+  de: OpenStackClient (alias OSC) ist ein Kommandozeilen-Client für OpenStack
+  es: OpenStackClient (también conocido como OSC) es un cliente de línea de comandos para OpenStack
+  fr: OpenStackClient (alias OSC) est un client en ligne de commande pour OpenStack
+  id: OpenStackClient (disebut OSC) adalah klien baris perintah untuk OpenStack
+  it: OpenStackClient (aka OSC) è un client da riga di comando per OpenStack
+  ja: OpenStackClient (別名 OSC) は OpenStack 用のコマンドラインクライアントです
+  ko: OpenStackClient(OSC라고도 함)는 OpenStack용 명령줄 클라이언트입니다
+  pl: OpenStackClient (aka OSC) to klient wiersza poleceń dla OpenStack
+  pt: O OpenStackClient (também conhecido como OSC) é um cliente de linha de comando para o OpenStack
+  ro: OpenStackClient (cunoscut și ca OSC) este un client de linie de comandă pentru OpenStack
+  ru: OpenStackClient (также известный как OSC) — это командный клиент для OpenStack
+  th: OpenStackClient (หรือที่รู้จักในชื่อ OSC) คือไคลเอนต์บรรทัดคำสั่งสำหรับ OpenStack
+  tr: OpenStackClient (OSC olarak da bilinir), OpenStack için bir komut satırı istemcisidir
+  uk: OpenStackClient (також відомий як OSC) — це командний клієнт для OpenStack
+  vi: OpenStackClient (hay OSC) là dòng lệnh cho OpenStack
 x:
   source: https://github.com/openstack/python-openstackclient
   pip: python-openstackclient

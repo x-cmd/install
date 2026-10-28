@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Alacritty 是一个现代终端模拟器，具有合理的默认值，但允许进行广泛的配置
   en: Alacritty is a modern terminal emulator that comes with sensible defaults, but allows for extensive configuration
+  cs: Alacritty je moderní emulátor terminálu s rozumnými výchozími hodnotami, ale umožňuje rozsáhlé přizpůsobení
+  de: Alacritty ist ein moderner Terminal-Emulator mit sinnvollen Standardwerten, der aber umfangreiche Anpassungen ermöglicht
+  es: Alacritty es un emulador de terminal moderno con valores predeterminados razonables, pero que permite una configuración extensa
+  fr: Alacritty est un émulateur de terminal moderne avec des valeurs par défaut sensées, mais qui permet une configuration étendue
+  id: Alacritty adalah emulator terminal modern dengan nilai bawaan yang masuk akal, tetapi memungkinkan konfigurasi yang luas
+  it: Alacritty è un emulatore di terminale moderno con impostazioni predefinite sensate, ma consente una configurazione estesa
+  ja: Alacritty は既定値が妥当な設定を持つ現代的なターミナルエミュレーターで、豊富な設定が可能です
+  ko: Alacritty는 합리적인 기본값을 제공하는 현대적인 터미널 에뮬레이터로, 광범위한 구성이 가능합니다
+  pl: Alacritty to nowoczesny emulator terminala z rozsądnymi wartościami domyślnymi, który pozwala na szeroką konfigurację
+  pt: O Alacritty é um emulador de terminal moderno com valores padrão sensatos, mas que permite uma configuração extensa
+  ro: Alacritty este un emulator de terminal modern cu valori implicite rezonabile, dar permite o configurare extensivă
+  ru: Alacritty — современный эмулятор терминала с разумными настройками по умолчанию, но допускающий широкую настройку
+  th: Alacritty เป็นตัวจำลองเทอร์มินัลสมัยใหม่ที่มีค่าเริ่มต้นที่เหมาะสม แต่รองรับการกำหนดค่าอย่างกว้างขวาง
+  tr: Alacritty, makul ölçülü varsayılan değerlere sahip modern bir terminal emülatörüdür ancak kapsamlı yapılandırmaya izin verir
+  uk: Alacritty — сучасний емулятор термінала з розумними налаштуваннями за замовчуванням, але він допускає широке налаштування
+  vi: Alacritty là trình giả lập terminal hiện đại với các giá trị mặc định hợp lý, đồng thời cho phép tùy chỉnh rộng rãi
 x:
   source: https://github.com/alacritty/alacritty
   scoop: extras/alacritty

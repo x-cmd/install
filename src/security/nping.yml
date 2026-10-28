@@ -3,6 +3,22 @@ homepage: https://github.com/nmap/nmap
 desc:
   cn: 一款网络探测和分析工具，属于 Nmap 工具套件的一部分
   en: A network detection and analysis tool that is part of the Nmap tool suite
+  cs: Nástroj pro detekci a analýzu sítí, součást sady nástrojů Nmap
+  de: Ein Werkzeug zur Netzwerkerkennung und -analyse, Teil der Nmap-Toolsuite
+  es: Una herramienta de detección y análisis de redes que forma parte del conjunto de herramientas Nmap
+  fr: Un outil de détection et d'analyse de réseau faisant partie de la suite d'outils Nmap
+  id: Alat deteksi dan analisis jaringan yang merupakan bagian dari rangkaian alat Nmap
+  it: Uno strumento di rilevamento e analisi della rete, parte della suite di strumenti Nmap
+  ja: Nmap ツールスイートの一部であるネットワーク検出・分析ツール
+  ko: Nmap 도구 모음의 일부인 네트워크 탐지 및 분석 도구
+  pl: Narzędzie do wykrywania i analizy sieci, będące częścią zestawu narzędzi Nmap
+  pt: Uma ferramenta de detecção e análise de rede que faz parte do conjunto de ferramentas Nmap
+  ro: Un instrument de detectare și analiză a rețelei, parte din suita de instrumente Nmap
+  ru: Инструмент для обнаружения и анализа сетей, частью набора инструментов Nmap
+  th: เครื่องมือตรวจจับและวิเคราะห์เครือข่าย ซึ่งเป็นส่วนหนึ่งของชุดเครื่องมือ Nmap
+  tr: Nmap araç setinin bir parçası olan ağ tespiti ve analiz aracı
+  uk: Інструмент для виявлення та аналізу мереж, частина набору інструментів Nmap
+  vi: Công cụ phát hiện và phân tích mạng, là một phần của bộ công cụ Nmap
 x:
   source: https://github.com/nmap/nmap
   apt: nmap

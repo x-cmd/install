@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Git Query 语言是一种类似于语言，可以在.git 文件上执行查询，并支持大多数 SQL 功能，例如分组，订购和聚合功能
   en: Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+  cs: Git Query language je jazyk podobný SQL, který provádí dotazy na soubory .git a podporuje většinu funkcí SQL, jako je seskupování, řazení a agregace
+  de: Git Query Language ist eine SQL-ähnliche Sprache, um Abfragen auf .git-Dateien auszuführen, und unterstützt die meisten SQL-Funktionen wie Gruppierung, Sortierung und Aggregatfunktionen
+  es: Git Query language es un lenguaje similar a SQL para realizar consultas sobre archivos .git con soporte de la mayoría de las características de SQL como agrupación, ordenamiento y funciones de agregación
+  fr: Git Query language est un langage similaire à SQL permettant d'effectuer des requêtes sur les fichiers .git, avec la prise en charge de la plupart des fonctionnalités SQL telles que le regroupement, le tri et les fonctions d'agrégation
+  id: Git Query language adalah bahasa mirip SQL untuk melakukan kueri pada berkas .git dengan dukungan sebagian besar fitur SQL seperti pengelompokan, pengurutan, dan fungsi agregasi
+  it: Git Query language è un linguaggio simile a SQL per eseguire query sui file .git, con il supporto della maggior parte delle funzioni SQL come raggruppamento, ordinamento e funzioni di aggregazione
+  ja: Git Query language は、.git ファイルに対してクエリを実行するための SQL 類似の言語で、グループ化、並べ替え、集計関数などほとんどの SQL 機能をサポートしています
+  ko: Git Query language는 .git 파일에 쿼리를 수행하는 SQL 유사 언어이며 그룹화, 정렬, 집계 함수 등 대부분의 SQL 기능을 지원합니다
+  pl: Git Query language jest językiem podobnym do SQL, który wykonuje zapytania na plikach .git i obsługuje większość funkcji SQL, takich jak grupowanie, sortowanie i funkcje agregujące
+  pt: Git Query language é uma linguagem semelhante a SQL para executar consultas em arquivos .git com suporte à maioria dos recursos de SQL, como agrupamento, ordenação e funções de agregação
+  ro: Git Query language este un limbaj asemănător cu SQL pentru efectuarea de interogări pe fișierele .git, cu suport pentru majoritatea funcțiilor SQL precum gruparea, sortarea și funcțiile de agregare
+  ru: Git Query language — это язык, похожий на SQL, для выполнения запросов к файлам .git с поддержкой большинства возможностей SQL, таких как группировка, сортировка и агрегатные функции
+  th: Git Query language เป็นภาษาที่คล้าย SQL สำหรับดำเนินการคิวรีบนไฟล์ .git โดยรองรับความสามารถของ SQL ส่วนใหญ่ เช่น การจัดกลุ่ม การเรียงลำดับ และฟังก์ชันการรวม
+  tr: Git Query language, .git dosyaları üzerinde sorgu çalıştırmak için SQL benzeri bir dildir ve gruplama, sıralama, toplama işlevleri gibi SQL özelliklerinin çoğunu destekler
+  uk: Git Query language — мова, схожа на SQL, для виконання запитів до файлів .git із підтримкою більшості можливостей SQL, таких як групування, сортування та агрегатні функції
+  vi: Git Query language là ngôn ngữ tương tự SQL để thực hiện truy vấn trên các tệp .git, hỗ trợ phần lớn tính năng SQL như nhóm, sắp xếp và hàm tổng hợp
 x:
   source: https://github.com/amrdeveloper/GQL
   eget: amrdeveloper/GQL

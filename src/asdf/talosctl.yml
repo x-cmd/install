@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Talos Linux 控制应用程序的设计和使用
   en: The design and use of the Talos Linux control application
+  cs: Návrh a používání řídicí aplikace Talos Linux
+  de: Das Design und die Verwendung der Talos Linux Steuerungsanwendung
+  es: El diseño y el uso de la aplicación de control de Talos Linux
+  fr: La conception et l'utilisation de l'application de contrôle Talos Linux
+  id: Desain dan penggunaan aplikasi kontrol Talos Linux
+  it: La progettazione e l'uso dell'applicazione di controllo Talos Linux
+  ja: Talos Linux 制御アプリケーションの設計と使用
+  ko: Talos Linux 제어 애플리케이션의 설계 및 사용
+  pl: Projektowanie i używanie aplikacji sterującej Talos Linux
+  pt: O design e o uso do aplicativo de controle do Talos Linux
+  ro: Proiectarea și utilizarea aplicației de control Talos Linux
+  ru: Проектирование и использование управляющего приложения Talos Linux
+  th: การออกแบบและใช้งานแอปพลิเคชันควบคุม Talos Linux
+  tr: Talos Linux kontrol uygulamasının tasarımı ve kullanımı
+  uk: Проєктування та використання керуючого застосунку Talos Linux
+  vi: Thiết kế và sử dụng ứng dụng điều khiển Talos Linux
 x:
   source: https://github.com/siderolabs/talos
   eget: siderolabs/talos

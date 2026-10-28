@@ -4,6 +4,22 @@ license: apache-2.0
 desc:
   cn: 微软官方的 MCP 服务器，把 Playwright 浏览器自动化以结构化可访问性快照的形式暴露给 LLM
   en: Microsoft's MCP server that exposes Playwright browser automation to LLMs through structured accessibility snapshots
+  cs: Oficiální server MCP od Microsoftu, který vystavuje automatizaci prohlížeče Playwright modelům LLM prostřednictvím strukturovaných snímků přístupnosti
+  de: Microsofts MCP-Server, der Playwright-Browser-Automatisierung über strukturierte Accessibility-Snapshots an LLMs bereitstellt
+  es: El servidor MCP de Microsoft que expone la automatización del navegador Playwright a los LLM mediante instantáneas de accesibilidad estructuradas
+  fr: Le serveur MCP de Microsoft qui expose l'automatisation du navigateur Playwright aux LLM via des instantanés d'accessibilité structurés
+  id: Server MCP resmi Microsoft yang mengekspos otomatisasi browser Playwright ke LLM melalui snapshot aksesibilitas terstruktur
+  it: Il server MCP di Microsoft che espone l'automazione del browser Playwright agli LLM tramite snapshot di accessibilità strutturati
+  ja: Microsoft の公式 MCP サーバーで、構造化されたアクセシビリティスナップショットを通じて Playwright のブラウザ自動化を LLM に提供します
+  ko: Microsoft의 공식 MCP 서버로, 구조화된 접근성 스냅샷을 통해 Playwright 브라우저 자동화를 LLM에 제공합니다
+  pl: Oficjalny serwer MCP firmy Microsoft, który udostępnia automatyzację przeglądarki Playwright modelom LLM za pośrednictwem ustrukturyzowanych migawek dostępności
+  pt: O servidor MCP da Microsoft que expõe a automação de navegador do Playwright aos LLMs por meio de snapshots de acessibilidade estruturados
+  ro: Serverul MCP oficial de Microsoft care expune automatizarea browserului Playwright către LLM prin instantanee structurate de accesibilitate
+  ru: Официальный MCP-сервер Microsoft, который предоставляет LLM браузерную автоматизацию Playwright через структурированные снимки доступности
+  th: เซิร์ฟเวอร์ MCP อย่างเป็นทางการของ Microsoft ที่เปิดให้ LLM เข้าถึงระบบอัตโนมัติเบราว์เซอร์ Playwright ผ่านสแนปช็อตการเข้าถึงแบบมีโครงสร้าง
+  tr: Playwright tarayıcı otomasyonunu LLM'lere yapılandırılmış erişilebilirlik anlık görüntüleriyle sunan Microsoft'un resmi MCP sunucusu
+  uk: Офіційний MCP-сервер Microsoft, який надає LLM браузерну автоматизацію Playwright через структуровані знімки доступності
+  vi: Máy chủ MCP chính thức của Microsoft, cung cấp tự động hóa trình duyệt Playwright cho LLM thông qua các ảnh chụp trợ năng có cấu trúc
 x:
   source: https://github.com/microsoft/playwright-mcp
 rule:

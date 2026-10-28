@@ -4,6 +4,22 @@ license: ISC
 desc:
   en: An AUR helper that minimizes user interaction
   cn: 一个最小化用户交互的 AUR 帮助程序
+  cs: Pomocník AUR, který minimalizuje interakci s uživatelem
+  de: Ein AUR-Helfer, der die Benutzerinteraktion minimiert
+  es: Un ayudante de AUR que minimiza la interacción del usuario
+  fr: Un assistant AUR qui minimise l'interaction de l'utilisateur
+  id: Pembantu AUR yang meminimalkan interaksi pengguna
+  it: Un helper AUR che minimizza l'interazione dell'utente
+  ja: ユーザー操作を最小限に抑える AUR ヘルパー
+  ko: 사용자 상호작용을 최소화하는 AUR 도우미
+  pl: Pomocnik AUR minimalizujący interakcję użytkownika
+  pt: Um auxiliar do AUR que minimiza a interação do usuário
+  ro: Un ajutor AUR care minimizează interacțiunea utilizatorului
+  ru: Помощник AUR, сводящий к минимуму взаимодействие с пользователем
+  th: ตัวช่วย AUR ที่ลดการโต้ตอบกับผู้ใช้ให้น้อยที่สุด
+  tr: Kullanıcı etkileşimini en aza indiren bir AUR yardımcısı
+  uk: Помічник AUR, який зводить до мінімуму взаємодію з користувачем
+  vi: Trình trợ giúp AUR giảm thiểu tương tác của người dùng
 x:
   source: https://github.com/rmarquis/pacaur
   pacman: git

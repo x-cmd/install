@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: pqviewer 是一个 TUI 工具，用于直接在终端中查看 Apache Parquet 文件。
   en: pqviewer is a TUI tool for viewing Apache Parquet files directly in the terminal.
+  cs: pqviewer je nástroj TUI pro prohlížení souborů Apache Parquet přímo v terminálu.
+  de: pqviewer ist ein TUI-Werkzeug zum Anzeigen von Apache Parquet-Dateien direkt im Terminal.
+  es: pqviewer es una herramienta TUI para ver archivos Apache Parquet directamente en el terminal.
+  fr: pqviewer est un outil TUI permettant de visualiser les fichiers Apache Parquet directement dans le terminal.
+  id: pqviewer adalah alat TUI untuk melihat file Apache Parquet langsung di terminal.
+  it: pqviewer è uno strumento TUI per visualizzare i file Apache Parquet direttamente nel terminale.
+  ja: pqviewer はターミナル上で Apache Parquet ファイルを直接閲覧する TUI ツールです。
+  ko: pqviewer는 터미널에서 Apache Parquet 파일을 직접 볼 수 있는 TUI 도구입니다.
+  pl: pqviewer to narzędzie TUI do oglądania plików Apache Parquet bezpośrednio w terminalu.
+  pt: pqviewer é uma ferramenta TUI para visualizar arquivos Apache Parquet diretamente no terminal.
+  ro: pqviewer este un instrument TUI pentru vizualizarea directă în terminal a fișierelor Apache Parquet.
+  ru: pqviewer — это TUI-инструмент для просмотра файлов Apache Parquet прямо в терминале.
+  th: pqviewer เป็นเครื่องมือ TUI สำหรับดูไฟล์ Apache Parquet โดยตรงในเทอร์มินัล
+  tr: pqviewer, Apache Parquet dosyalarını doğrudan terminalde görüntülemek için bir TUI aracıdır.
+  uk: pqviewer — це TUI-інструмент для перегляду файлів Apache Parquet безпосередньо в терміналі.
+  vi: pqviewer là công cụ TUI để xem trực tiếp các tệp Apache Parquet trong terminal.
 x:
   source: https://github.com/thread53/pqviewer
   pip: pqviewer

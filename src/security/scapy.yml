@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Scapy 是一个用 Python 编写的强大的交互式数据包操作库
   en: Scapy is a powerful interactive packet manipulation library written in Python
+  cs: Scapy je výkonná interaktivní knihovna pro manipulaci s pakety napsaná v Pythonu
+  de: Scapy ist eine leistungsstarke interaktive Bibliothek zur Paketmanipulation, geschrieben in Python
+  es: Scapy es una potente biblioteca interactiva de manipulación de paquetes escrita en Python
+  fr: Scapy est une bibliothèque interactive puissante de manipulation de paquets écrite en Python
+  id: Scapy adalah pustaka interaktif yang kuat untuk memanipulasi paket, ditulis dengan Python
+  it: Scapy è una potente libreria interattiva per la manipolazione dei pacchetti scritta in Python
+  ja: Scapy は Python で書かれた強力な対話型パケット操作ライブラリです
+  ko: Scapy는 Python으로 작성된 강력한 대화형 패킷 조작 라이브러리입니다
+  pl: Scapy to potężna interaktywna biblioteka do manipulacji pakietami napisana w Pythonie
+  pt: Scapy é uma biblioteca interativa poderosa para manipulação de pacotes escrita em Python
+  ro: Scapy este o bibliotecă interactivă puternică pentru manipularea pachetelor, scrisă în Python
+  ru: Scapy — мощная интерактивная библиотека для работы с пакетами, написанная на Python
+  th: Scapy คือไลบรารีแบบโต้ตอบที่ทรงพลังสำหรับการจัดการแพ็กเก็ต เขียนด้วย Python
+  tr: Scapy, Python ile yazılmış güçlü etkileşimli paket işleme kütüphanesidir
+  uk: Scapy — потужна інтерактивна бібліотека для роботи з пакетами, написана на Python
+  vi: Scapy là thư viện tương tác mạnh mẽ để thao tác gói tin, viết bằng Python
 x:
   source: https://github.com/secdev/scapy
   apt: libpcap-dev

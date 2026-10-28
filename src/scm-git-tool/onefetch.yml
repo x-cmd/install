@@ -2,6 +2,22 @@ lang: Rust
 desc:
   cn: 命令行 Git 信息工具
   en: Command-line Git information tool
+  cs: Nástroj pro informace o Gitu v příkazové řádce
+  de: Git-Informationswerkzeug für die Kommandozeile
+  es: Herramienta de información sobre Git para la línea de comandos
+  fr: Outil d'information Git en ligne de commande
+  id: Alat informasi Git untuk baris perintah
+  it: Strumento di informazione Git da riga di comando
+  ja: コマンドラインのGit情報ツール
+  ko: 명령줄 Git 정보 도구
+  pl: Narzędzie do informacji o Git w wierszu poleceń
+  pt: Ferramenta de informações do Git para linha de comando
+  ro: Instrument de informații despre Git pentru linia de comandă
+  ru: Консольный инструмент для получения информации о Git
+  th: เครื่องมือข้อมูล Git บนบรรทัดคำสั่ง
+  tr: Komut satırı için Git bilgi aracı
+  uk: Консольний інструмент для отримання інформації про Git
+  vi: Công cụ thông tin Git dành cho dòng lệnh
 homepage: https://github.com/o2sh/onefetch
 license: MIT
 x:

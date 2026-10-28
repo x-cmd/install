@@ -3,6 +3,22 @@ homepage: https://github.com/openssh/openssh-portable
 desc:
   cn: openssh-server 是 OpenSSH 连接工具的客户端
   en: openssh-server is a client for the OpenSSH connection tool
+  cs: openssh-server je klient pro nástroj pro připojování OpenSSH
+  de: openssh-server ist ein Client für das OpenSSH-Verbindungswerkzeug
+  es: openssh-server es un cliente para la herramienta de conexión OpenSSH
+  fr: openssh-server est un client pour l'outil de connexion OpenSSH
+  id: openssh-server adalah klien untuk alat koneksi OpenSSH
+  it: openssh-server è un client per lo strumento di connessione OpenSSH
+  ja: openssh-server は OpenSSH 接続ツールのクライアントです
+  ko: openssh-server는 OpenSSH 연결 도구의 클라이언트입니다
+  pl: openssh-server to klient narzędzia połączenia OpenSSH
+  pt: openssh-server é um cliente para a ferramenta de conexão OpenSSH
+  ro: openssh-server este un client pentru instrumentul de conectare OpenSSH
+  ru: openssh-server — это клиент для инструмента подключения OpenSSH
+  th: openssh-server เป็นไคลเอนต์สำหรับเครื่องมือเชื่อมต่อ OpenSSH
+  tr: openssh-server, OpenSSH bağlantı aracı için bir istemcidir
+  uk: openssh-server — це клієнт для інструмента підключення OpenSSH
+  vi: openssh-server là client cho công cụ kết nối OpenSSH
 x:
   source: https://github.com/openssh/openssh-portable
   apt: openssh-client

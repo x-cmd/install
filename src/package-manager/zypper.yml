@@ -3,6 +3,22 @@ homepage: https://github.com/openSUSE/zypper
 desc:
   cn: Zypper 是一个使用 libzypp 的命令行包管理器
   en: Zypper is a command line package manager which makes use of libzypp.
+  cs: Zypper je příkazový správce balíčků, který používá libzypp.
+  de: Zypper ist ein Kommandozeilen-Paketmanager, der libzypp nutzt.
+  es: Zypper es un gestor de paquetes de línea de comandos que hace uso de libzypp.
+  fr: Zypper est un gestionnaire de paquets en ligne de commande qui utilise libzypp.
+  id: Zypper adalah manajer paket baris perintah yang menggunakan libzypp.
+  it: Zypper è un gestore di pacchetti da riga di comando che fa uso di libzypp.
+  ja: Zypper は libzypp を利用するコマンドラインのパッケージマネージャーです
+  ko: Zypper는 libzypp를 사용하는 명령줄 패키지 관리자입니다
+  pl: Zypper to menedżer pakietów wiersza poleceń korzystający z libzypp.
+  pt: Zypper é um gerenciador de pacotes de linha de comando que faz uso do libzypp.
+  ro: Zypper este un manager de pachete din linia de comandă care folosește libzypp.
+  ru: Zypper — менеджер пакетов командной строки, использующий libzypp.
+  th: Zypper คือตัวจัดการแพ็กเกจบรรทัดคำสั่งที่ใช้ libzypp
+  tr: Zypper, libzypp'i kullanan bir komut satırı paket yöneticisidir.
+  uk: Zypper — менеджер пакетів командного рядка, що використовує libzypp.
+  vi: Zypper là trình quản lý gói dòng lệnh sử dụng libzypp.
 x:
   source: https://github.com/openSUSE/zypper
   apt: zypper

@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 搜索、添加并安装 cargo crate 的终端界面
   en: 'A terminal user interface for searching, adding and installing cargo crates.'
+  cs: Textové uživatelské rozhraní terminálu pro vyhledávání, přidávání a instalování cargo crates.
+  de: Eine textbasierte Benutzeroberfläche für das Suchen, Hinzufügen und Installieren von Cargo-Crates.
+  es: Una interfaz de usuario de terminal para buscar, agregar e instalar crates de cargo.
+  fr: Une interface utilisateur en terminal pour rechercher, ajouter et installer des crates cargo.
+  id: Antarmuka pengguna terminal untuk mencari, menambahkan, dan memasang crate cargo.
+  it: Un'interfaccia utente a riga di comando per cercare, aggiungere e installare crate cargo.
+  ja: cargo crate を検索・追加・インストールするためのターミナルユーザーインターフェース。
+  ko: cargo 크레이트를 검색, 추가 및 설치하기 위한 터미널 사용자 인터페이스.
+  pl: Tekstowy interfejs terminala do wyszukiwania, dodawania i instalowania crate'ów cargo.
+  pt: Uma interface de usuário de terminal para pesquisar, adicionar e instalar crates do cargo.
+  ro: O interfață de utilizator în terminal pentru căutarea, adăugarea și instalarea crate-urilor cargo.
+  ru: Терминальный пользовательский интерфейс для поиска, добавления и установки crate-ов cargo.
+  th: ส่วนติดต่อผู้ใช้แบบเทอร์มินัลสำหรับการค้นหา เพิ่ม และติดตั้ง crate ของ cargo
+  tr: Cargo crate'lerini aramak, eklemek ve kurmak için bir terminal kullanıcı arayüzü.
+  uk: Термінальний користувацький інтерфейс для пошуку, додавання та встановлення crate-ів cargo.
+  vi: Giao diện người dùng dạng terminal để tìm kiếm, thêm và cài đặt các crate của cargo.
 x:
   source: https://github.com/tareqimbasher/cargo-seek
   eget: tareqimbasher/cargo-seek

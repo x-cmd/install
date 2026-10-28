@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: pyenv 用于安装 pyenv
   en: pyenv is used to install pyenv and friends
+  cs: pyenv se používá k instalaci pyenv a jeho přátel
+  de: pyenv wird verwendet, um pyenv und seine Freunde zu installieren
+  es: pyenv se usa para instalar pyenv y sus amigos
+  fr: pyenv est utilisé pour installer pyenv et ses amis
+  id: pyenv digunakan untuk memasang pyenv dan teman-temannya
+  it: pyenv viene usato per installare pyenv e i suoi amici
+  ja: pyenv は pyenv とその仲間をインストールするために使われます
+  ko: pyenv는 pyenv 및 그 친구들을 설치하는 데 사용됩니다
+  pl: pyenv służy do instalowania pyenv i jego przyjaciół
+  pt: O pyenv é usado para instalar o pyenv e seus amigos
+  ro: pyenv este folosit pentru a instala pyenv și prietenii săi
+  ru: pyenv используется для установки pyenv и его друзей
+  th: pyenv ใช้สำหรับติดตั้ง pyenv และเพื่อน ๆ
+  tr: pyenv, pyenv ve arkadaşlarını kurmak için kullanılır
+  uk: pyenv використовується для встановлення pyenv та його друзів
+  vi: pyenv được dùng để cài đặt pyenv và những người bạn của nó
 x:
   source: https://github.com/pyenv/pyenv-installer
   brew: pyenv

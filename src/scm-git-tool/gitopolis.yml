@@ -4,6 +4,22 @@ license: AGPL-3.0
 desc:
   cn: 轻松管理多个 GIT 存储库
   en: Manage multiple git repositories with ease
+  cs: Snadno spravujte více git repozitářů
+  de: Verwalte mehrere Git-Repository mühelos
+  es: Gestiona varios repositorios de Git con facilidad
+  fr: Gérez facilement plusieurs dépôts Git
+  id: Kelola banyak repositori Git dengan mudah
+  it: Gestisci comodamente più repository Git
+  ja: 複数の Git リポジトリを簡単管理
+  ko: 여러 Git 저장소를 손쉽게 관리
+  pl: Z łatwością zarządzaj wieloma repozytoriami Git
+  pt: Gerencie vários repositórios Git com facilidade
+  ro: Gestionați cu ușurință mai multe depozite Git
+  ru: Легко управляйте несколькими репозиториями Git
+  th: จัดการที่เก็บข้อมูล Git หลายแห่งได้อย่างง่ายดาย
+  tr: Birden fazla Git deposunu kolayca yönetin
+  uk: Легко керуйте кількома репозиторіями Git
+  vi: Dễ dàng quản lý nhiều kho lưu trữ Git
 x:
   source: https://github.com/rustworkshop/gitopolis
   eget: rustworkshop/gitopolis

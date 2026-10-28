@@ -3,6 +3,22 @@ homepage: https://bcrypt.sourceforge.net/
 desc:
   cn: Bcrypt 是一个跨平台的文件加密实用程序
   en: Bcrypt is a cross platform file encryption utility
+  cs: Bcrypt je multiplatformní nástroj pro šifrování souborů
+  de: Bcrypt ist ein plattformübergreifendes Dateiverschlüsselungswerkzeug
+  es: Bcrypt es una utilidad de cifrado de archivos multiplataforma
+  fr: Bcrypt est un utilitaire de chiffrement de fichiers multiplateforme
+  id: Bcrypt adalah utilitas enkripsi file lintas platform
+  it: Bcrypt è un'utilità di cifratura dei file multipiattaforma
+  ja: Bcrypt はクロスプラットフォームのファイル暗号化ユーティリティです
+  ko: Bcrypt는 크로스 플랫폼 파일 암호화 유틸리티입니다
+  pl: Bcrypt to wieloplatformowe narzędzie do szyfrowania plików
+  pt: O Bcrypt é um utilitário de criptografia de arquivos multiplataforma
+  ro: Bcrypt este o utilitate de criptare a fișierelor multiplatformă
+  ru: Bcrypt — кроссплатформенная утилита для шифрования файлов
+  th: Bcrypt เป็นยูทิลิตีเข้ารหัสไฟล์ข้ามแพลตฟอร์ม
+  tr: Bcrypt, platformlar arası bir dosya şifreleme aracıdır
+  uk: Bcrypt — кроссплатформенна утиліта для шифрування файлів
+  vi: Bcrypt là tiện ích mã hóa tệp đa nền tảng
 rule:
   /pip:
     cmd: pip install bcrypt

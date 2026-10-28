@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的数据探索工具
   en: 'Data Exploration in the Terminal'
+  cs: Průzkum dat v terminálu
+  de: Datenexploration im Terminal
+  es: Exploración de datos en la terminal
+  fr: Exploration de données dans le terminal
+  id: Jelajahi data di terminal
+  it: Esplorazione dei dati nel terminale
+  ja: ターミナルでのデータ探索
+  ko: 터미널에서 데이터 탐색
+  pl: Eksploracja danych w terminalu
+  pt: Exploração de dados no terminal
+  ro: Explorarea datelor în terminal
+  ru: Исследование данных в терминале
+  th: สำรวจข้อมูลในเทอร์มินัล
+  tr: Terminalde veri keşfi
+  uk: Дослідження даних у терміналі
+  vi: Khám phá dữ liệu trong terminal
 x:
   source: https://github.com/derekwisong/datui
   eget: derekwisong/datui

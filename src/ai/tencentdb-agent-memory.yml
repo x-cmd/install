@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 为 AI Agent 添加分层长期记忆与符号短期记忆，降低 token 消耗并提升任务成功率
   en: Adds layered long-term and symbolic short-term memory to AI agents to reduce token usage and improve task success.
+  cs: Přidává AI agentům vrstvenou dlouhodobou a symbolickou krátkodobou paměť, čímž snižuje spotřebu tokenů a zvyšuje úspěšnost úkolů.
+  de: Fügt AI-Agenten hierarchische Langzeit- und symbolische Kurzzeitgedächtnisse hinzu, um den Token-Verbrauch zu senken und die Aufgabenerfolgsquote zu erhöhen.
+  es: Añade memoria a largo plazo por capas y memoria a corto plazo simbólica a los agentes de IA para reducir el uso de tokens y mejorar el éxito de las tareas.
+  fr: Ajoute aux agents IA une mémoire à long terme hiérarchisée et une mémoire à court terme symbolique afin de réduire l'utilisation de jetons et d'améliorer la réussite des tâches.
+  id: Menambahkan memori jangka panjang berlapis dan memori jangka pendek simbolis ke agen AI untuk mengurangi penggunaan token dan meningkatkan keberhasilan tugas.
+  it: Aggiunge agli agenti IA una memoria a lungo termine stratificata e una memoria a breve termine simbolica, riducendo l'uso di token e migliorando il successo delle attività.
+  ja: AIエージェントに階層型の長期記憶と記号的な短期記憶を追加し、トークン使用量を減らしてタスク成功率を向上させます。
+  ko: AI 에이전트에 계층적 장기 기억과 기호적 단기 기억을 추가해 토큰 사용량을 줄이고 작업 성공률을 높입니다.
+  pl: Dodaje agentom AI warstwową pamięć długoterminową i symboliczną pamięć krótkoterminową, zmniejszając zużycie tokenów i zwiększając skuteczność zadań.
+  pt: Adiciona memória de longo prazo em camadas e memória de curto prazo simbólica aos agentes de IA para reduzir o uso de tokens e melhorar o sucesso das tarefas.
+  ro: Adaugă agenților AI memorie pe termen lung stratificată și memorie simbolică pe termen scurt, reducând consumul de tokenuri și îmbunătățind rata de succes a sarcinilor.
+  ru: Добавляет ИИ-агентам многоуровневую долговременную и символическую кратковременную память, снижая расход токенов и повышая успешность задач.
+  th: เพิ่มความจำระยะยาวแบบชั้นและความจำระยะสั้นแบบสัญลักษณ์ให้กับเอเจนต์ AI เพื่อลดการใช้โทเคนและเพิ่มอัตราความสำเร็จของงาน
+  tr: AI ajanlarına katmanlı uzun süreli ve sembolik kısa süreli bellek ekler, token kullanımını azaltır ve görev başarısını artırır.
+  uk: Додає ШІ-агентам багаторівневу довготривалу та символічну короткочасну пам'ять, зменшуючи витрати токенів і підвищуючи успішність завдань.
+  vi: Bổ sung bộ nhớ dài hạn nhiều tầng và bộ nhớ ngắn hạn mang tính ký hiệu cho các tác tử AI, giúp giảm mức dùng token và nâng cao tỷ lệ thành công của nhiệm vụ.
 x:
   source: https://github.com/Tencent/TencentDB-Agent-Memory
   npm: "@tencentdb-agent-memory/memory-tencentdb"

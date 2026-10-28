@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Kubernetes 集群指标的 top 类监控工具
   en: 'A top-like tool for your Kubernetes cluster metrics'
+  cs: Nástroj podobný top pro metriky clusteru Kubernetes
+  de: Ein top-ähnliches Werkzeug für die Metriken Ihres Kubernetes-Clusters
+  es: Una herramienta similar a top para las métricas de tu clúster de Kubernetes
+  fr: Un outil similaire à top pour les métriques de votre cluster Kubernetes
+  id: Alat mirip top untuk metrik kluster Kubernetes Anda
+  it: Uno strumento simile a top per le metriche del tuo cluster Kubernetes
+  ja: Kubernetes クラスターのメトリクスを表示する top 風ツール
+  ko: Kubernetes 클러스터 메트릭을 위한 top과 같은 도구
+  pl: Narzędzie podobne do top dla metryk klastra Kubernetes
+  pt: Uma ferramenta semelhante ao top para as métricas do seu cluster Kubernetes
+  ro: Un instrument similar cu top pentru metricile clusterului tău Kubernetes
+  ru: Инструмент, похожий на top, для метрик кластера Kubernetes
+  th: เครื่องมือคล้าย top สำหรับดูเมทริกของคลัสเตอร์ Kubernetes
+  tr: Kubernetes kümenizin metrikleri için top benzeri bir araç
+  uk: Інструмент, схожий на top, для метрик кластера Kubernetes
+  vi: Công cụ tương tự top cho các số liệu của cụm Kubernetes
 x:
   source: https://github.com/vladimirvivien/ktop
   eget: vladimirvivien/ktop

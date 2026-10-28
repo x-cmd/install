@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: ko 是用于 GO 应用程序的简单快速的容器图像构建器
   en: ko is a simple, fast container image builder for Go applications.
+  cs: ko je jednoduchý a rychlý nástroj na tvorbu kontejnerových obrazů pro aplikace v Go.
+  de: ko ist ein einfaches, schnelles Container-Image-Erstellungswerkzeug für Go-Anwendungen.
+  es: ko es un generador de imágenes de contenedor sencillo y rápido para aplicaciones Go.
+  fr: ko est un outil simple et rapide de construction d'images de conteneur pour les applications Go.
+  id: ko adalah pembangun citra kontainer yang sederhana dan cepat untuk aplikasi Go.
+  it: ko è un semplice e veloce generatore di immagini di container per applicazioni Go.
+  ja: ko は Go アプリケーション向けのシンプルで高速なコンテナイメージビルダーです。
+  ko: ko는 Go 애플리케이션을 위한 단순하고 빠른 컨테이너 이미지 빌더입니다.
+  pl: ko to proste i szybkie narzędzie do budowania obrazów kontenerów dla aplikacji w Go.
+  pt: ko é um construtor de imagens de contêiner simples e rápido para aplicações Go.
+  ro: ko este un constructor de imagini de container simplu și rapid pentru aplicații Go.
+  ru: ko — простой и быстрый инструмент сборки образов контейнеров для приложений на Go.
+  th: ko เป็นตัวสร้างอิมเมจคอนเทนเนอร์ที่เรียบง่ายและรวดเร็วสำหรับแอปพลิเคชัน Go
+  tr: ko, Go uygulamaları için basit ve hızlı bir konteyner imajı oluşturucusudur.
+  uk: ko — простий і швидкий інструмент для зборки образів контейнерів для застосунків на Go.
+  vi: ko là trình tạo ảnh container đơn giản và nhanh cho các ứng dụng Go.
 x:
   source: https://github.com/ko-build/ko
   eget: ko-build/ko

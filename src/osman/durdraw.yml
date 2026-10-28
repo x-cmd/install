@@ -4,6 +4,22 @@ license: 'BSD-3-Clause'
 desc:
   cn: Linux/Unix/macOS 终端中绘图的 ASCII/ANSI 艺术文本编辑器，支持动画、256/16 色、Unicode 与 CP437
   en: 'Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes'
+  cs: Univerzální textový editor ASCII a ANSI art pro kreslení v terminálu Linux/Unix/macOS, s animacemi, 256 a 16 barvami, Unicode a CP437 a přizpůsobitelnými motivy
+  de: Vielseitiger ASCII- und ANSI-Art-Texteditor zum Zeichnen im Linux/Unix/macOS-Terminal, mit Animation, 256 und 16 Farben, Unicode und CP437 sowie anpassbaren Themes
+  es: Editor de texto ASCII y arte ANSI versátil para dibujar en la terminal Linux/Unix/macOS, con animación, 256 y 16 colores, Unicode y CP437, y temas personalizables
+  fr: Éditeur de texte ASCII et art ANSI polyvalent pour dessiner dans le terminal Linux/Unix/macOS, avec animation, 256 et 16 couleurs, Unicode et CP437, et thèmes personnalisables
+  id: Editor teks ASCII dan ASCII art serbaguna untuk menggambar di terminal Linux/Unix/macOS, dengan animasi, 256 dan 16 warna, Unicode dan CP437, serta tema yang dapat dikustomisasi
+  it: Editor di testo ASCII e arte ANSI versatile per disegnare nel terminale Linux/Unix/macOS, con animazione, 256 e 16 colori, Unicode e CP437 e temi personalizzabili
+  ja: Linux/Unix/macOSのターミナルで描画するための多機能なASCII・ANSIアートテキストエディタ。アニメーション、256色と16色、Unicode、CP437、カスタマイズ可能なテーマに対応
+  ko: Linux/Unix/macOS 터미널에서 그림을 그리는 범용 ASCII 및 ANSI 아트 텍스트 편집기로, 애니메이션, 256색과 16색, Unicode, CP437, 사용자 지정 테마를 지원
+  pl: Wszechstronny edytor tekstu ASCII i ASCII art do rysowania w terminalu Linux/Unix/macOS, z animacją, 256 i 16 kolorami, Unicode i CP437 oraz konfigurowalnymi motywami
+  pt: Editor de texto ASCII e arte ANSI versátil para desenhar no terminal Linux/Unix/macOS, com animação, 256 e 16 cores, Unicode e CP437 e temas personalizáveis
+  ro: Editor de text ASCII și art ANSI versatil pentru desenare în terminalul Linux/Unix/macOS, cu animație, 256 și 16 culori, Unicode și CP437 și temă personalizabilă
+  ru: Универсальный текстовый редактор ASCII и ANSI art для рисования в терминале Linux/Unix/macOS, с анимацией, 256 и 16 цветами, Unicode и CP437, а также настраиваемыми темами
+  th: โปรแกรมแก้ไขข้อความ ASCII และ ANSI art ที่ใช้งานได้หลากหลายสำหรับวาดภาพในเทอร์มินัล Linux/Unix/macOS พร้อมแอนิเมชัน สี 256 และ 16 สี Unicode และ CP437 รวมถึงธีมที่ปรับแต่งได้
+  tr: Linux/Unix/macOS terminalinde çizim yapmak için çok yönlü ASCII ve ANSI Art metin düzenleyici; animasyon, 256 ve 16 renk, Unicode ve CP437 ile özelleştirilebilir temalarla
+  uk: Універсальний текстовий редактор ASCII та ANSI art для малювання в терміналі Linux/Unix/macOS, з анімацією, 256 і 16 кольорами, Unicode і CP437 та налаштовуваними темами
+  vi: Trình soạn thảo văn bản ASCII và nghệ thuật ANSI đa năng để vẽ trong terminal Linux/Unix/macOS, có hoạt ảnh, 256 và 16 màu, Unicode và CP437 cùng chủ đề tùy chỉnh
 x:
   source: https://github.com/durdraw/durdraw
 

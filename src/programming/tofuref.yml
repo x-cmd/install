@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: OpenTofu/Terraform provider 注册表的 TUI
   en: 'TUI for OpenTofu/Terraform provider registry'
+  cs: TUI pro registr poskytovatelů OpenTofu/Terraform
+  de: TUI für die OpenTofu/Terraform-Provider-Registry
+  es: TUI para el registro de proveedores de OpenTofu/Terraform
+  fr: TUI pour le registre des fournisseurs OpenTofu/Terraform
+  id: TUI untuk registri penyedia OpenTofu/Terraform
+  it: TUI per il registro dei provider OpenTofu/Terraform
+  ja: OpenTofu/Terraform プロバイダレジストリの TUI
+  ko: OpenTofu/Terraform 제공자 레지스트리를 위한 TUI
+  pl: TUI dla rejestru dostawców OpenTofu/Terraform
+  pt: TUI para o registro de provedores OpenTofu/Terraform
+  ro: TUI pentru registrul de furnizori OpenTofu/Terraform
+  ru: TUI для реестра провайдеров OpenTofu/Terraform
+  th: TUI สำหรับรีจิสทรีผู้ให้บริการ OpenTofu/Terraform
+  tr: OpenTofu/Terraform sağlayıcı kayıt defteri için TUI
+  uk: TUI для реєстру провайдерів OpenTofu/Terraform
+  vi: TUI cho sổ đăng ký nhà cung cấp OpenTofu/Terraform
 x:
   source: https://github.com/djetelina/tofuref
   eget: djetelina/tofuref

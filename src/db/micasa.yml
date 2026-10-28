@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: 用于追踪家居项目、维护计划与家电报价的模态 TUI
   en: 'A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.'
+  cs: Modální TUI pro sledování domácích projektů, plánů údržby, spotřebičů a nabídek dodavatelů.
+  de: Ein modales TUI zur Verfolgung von Heimprojekten, Wartungsplänen, Geräten und Anbieterangeboten.
+  es: Una TUI modal para seguir proyectos del hogar, calendarios de mantenimiento, electrodomésticos y cotizaciones de proveedores.
+  fr: Une TUI modale pour suivre les projets domestiques, les calendriers d'entretien, les appareils et les devis des fournisseurs.
+  id: TUI modal untuk melacak proyek rumah, jadwal perawatan, peralatan, dan penawaran vendor.
+  it: Una TUI modale per monitorare progetti domestici, piani di manutenzione, elettrodomestici e preventivi dei fornitori.
+  ja: 家庭プロジェクト、メンテナンス計画、家電、ベンダーの見積を追跡するモーダル TUI。
+  ko: 가정 프로젝트, 유지 보수 일정, 가전제품, 공급업체 견적을 관리하는 모달 TUI.
+  pl: Modalne TUI do śledzenia projektów domowych, harmonogramów konserwacji, urządzeń i ofert dostawców.
+  pt: Uma TUI modal para acompanhar projetos domésticos, cronogramas de manutenção, eletrodomésticos e cotações de fornecedores.
+  ro: Un TUI modal pentru urmărirea proiectelor casnice, planurilor de întreținere, electrocasnicelor și ofertelor furnizorilor.
+  ru: Модальный TUI для отслеживания домашних проектов, графиков обслуживания, бытовой техники и предложений поставщиков.
+  th: TUI แบบโมดัลสำหรับติดตามโครงการบ้าน ตารางบำรุงรักษา เครื่องใช้ไฟฟ้า และใบเสนอราคาจากผู้ขาย
+  tr: Ev projelerini, bakım planlarını, cihazları ve tedarikçi tekliflerini takip etmek için modal bir TUI.
+  uk: Модальний TUI для відстеження домашніх проєктів, графіків обслуговування, побутової техніки та пропозицій постачальників.
+  vi: TUI kiểu modal để theo dõi các dự án nhà, lịch bảo trì, thiết bị gia dụng và báo giá từ nhà cung cấp.
 x:
   source: https://github.com/cpcloud/micasa
   eget: cpcloud/micasa

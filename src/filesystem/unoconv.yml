@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: 在 LibreOffice/OpenOffice 支持的任何文档格式之间进行转换
   en: Convert between any document format supported by LibreOffice/OpenOffice
+  cs: Převádí mezi libovolnými formáty dokumentů podporovanými LibreOffice/OpenOffice
+  de: Konvertiert zwischen allen von LibreOffice/OpenOffice unterstützten Dokumentformaten
+  es: Convierte entre cualquier formato de documento compatible con LibreOffice/OpenOffice
+  fr: Convertit entre tous les formats de documents pris en charge par LibreOffice/OpenOffice
+  id: Mengonversi antar berbagai format dokumen yang didukung oleh LibreOffice/OpenOffice
+  it: Converte tra qualsiasi formato di documento supportato da LibreOffice/OpenOffice
+  ja: LibreOffice/OpenOffice がサポートする任意の文書形式の間で変換します
+  ko: LibreOffice/OpenOffice가 지원하는 모든 문서 형식 간에 변환합니다
+  pl: Konwertuje między dowolnymi formatami dokumentów obsługiwanymi przez LibreOffice/OpenOffice
+  pt: Converte entre qualquer formato de documento suportado por LibreOffice/OpenOffice
+  ro: Convertește între orice format de document acceptat de LibreOffice/OpenOffice
+  ru: Преобразует любые форматы документов, поддерживаемые LibreOffice/OpenOffice
+  th: แปลงระหว่างรูปแบบเอกสารใดก็ตามที่ LibreOffice/OpenOffice รองรับ
+  tr: LibreOffice/OpenOffice tarafından desteklenen herhangi bir belge biçimi arasında dönüştürür
+  uk: Конвертує між будь-якими форматами документів, підтримуваними LibreOffice/OpenOffice
+  vi: Chuyển đổi giữa mọi định dạng tài liệu được LibreOffice/OpenOffice hỗ trợ
 x:
   source: https://github.com/unoconv/unoconv
 rule:

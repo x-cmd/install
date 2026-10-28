@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: excise is a surgical terminal storage navigator — interactive storage map TUI plus JSON/table outputs, with accurate space accounting, hard-link handling, scoped scanning, and a deliberate review step before permanent deletion.
   cn: excise 是"外科手术式"终端存储导航器：交互式存储地图 TUI，外加 JSON/表格输出；具备精确空间计算、硬链接处理、范围受限的扫描，并在永久删除前留出确认步骤。
+  cs: excise je chirurgický navigátor úložiště v terminálu — interaktivní TUI s mapou úložiště plus výstupy ve formátu JSON/tabulka, s přesným výpočtem místa, zpracováním hard linků, omezeným skenováním a promyšleným krokem revize před trvalým smazáním.
+  de: excise ist ein chirurgischer Speicher-Navigator im Terminal – interaktive Speicherkarten-TUI plus JSON-/Tabellenausgabe, mit exakter Platzberechnung, Hardlink-Behandlung, eingeschränktem Scannen und einem bewussten Prüfschritt vor dem endgültigen Löschen.
+  es: "excise es un navegador de almacenamiento quirúrgico para terminal: TUI interactiva de mapa de almacenamiento más salidas en JSON y tabla, con cálculo preciso del espacio, gestión de enlaces duros, exploración con alcance y un paso de revisión deliberado antes de la eliminación permanente."
+  fr: "excise est un navigateur de stockage chirurgical en terminal : carte de stockage interactive en TUI avec sorties JSON/tableau, comptage précis de l'espace, gestion des liens physiques, analyse à portée définie et une étape de révision délibérée avant la suppression définitive."
+  id: excise adalah penjelajah penyimpanan bedah berbasis terminal — TUI peta penyimpanan interaktif plus keluaran JSON/tabel, dengan perhitungan ruang yang akurat, penanganan hard link, pemindaian terlingkup, dan langkah tinjauan yang disengaja sebelum penghapusan permanen.
+  it: excise è un navigatore chirurgico dello storage da terminale — TUI interattiva a mappa dello storage più output JSON/tabella, con conteggio preciso dello spazio, gestione degli hard link, scansione con ambito delimitato e un passo di revisione deliberato prima della cancellazione definitiva.
+  ja: excise は端末向けの「外科手術的」ストレージナビゲーターで、対話式のストレージマップ TUI と JSON/テーブル出力を備えます。正確な容量計算、ハードリンク処理、範囲を限定したスキャン、恒久削除前の入念な確認手順を備えています。
+  ko: excise는 터미널용 '외과적' 스토리지 탐색기로, 대화형 스토리지 맵 TUI와 JSON/테이블 출력을 제공하며 정확한 공간 계산, 하드 링크 처리, 범위 제한 스캔, 영구 삭제 전 신중한 검토 단계를 갖추고 있습니다.
+  pl: excise to chirurgiczny nawigator pamięci w terminalu — interaktywne TUI z mapą pamięci oraz wyjścia JSON/tabelaryczne, z dokładnym liczeniem zajętości, obsługą dowiązań twardych, skanowaniem o ograniczonym zakresie i świadomym krokiem przeglądu przed trwałym usunięciem.
+  pt: excise é um navegador de armazenamento cirúrgico de terminal — TUI interativo de mapa de armazenamento mais saídas em JSON/tabela, com contagem precisa de espaço, tratamento de hard links, varredura com escopo definido e uma etapa de revisão deliberada antes da exclusão permanente.
+  ro: excise este un navigator de stocare chirurgical în terminal — TUI interactiv cu hartă de stocare plus ieșiri JSON/tabel, cu calcul exact al spațiului, tratarea legăturilor dure, scanare delimitată și un pas de revizuire deliberat înainte de ștergerea permanentă.
+  ru: "excise — это «хирургический» навигатор по хранилищу для терминала: интерактивная TUI-карта хранилища плюс вывод в JSON и табличном виде, с точным учётом места, обработкой жёстких ссылок, сканированием в заданных границах и осознанным шагом проверки перед безвозвратным удалением."
+  th: excise คือตัวนำทางพื้นที่จัดเก็บแบบ 'ศัลยกรรม' บนเทอร์มินัล — TUI แผนผังพื้นที่จัดเก็บแบบโต้ตอบพร้อมผลลัพธ์ JSON/ตาราง มีการคำนวณพื้นที่อย่างแม่นยำ การจัดการฮาร์ดลิงก์ การสแกนแบบกำหนดขอบเขต และขั้นตอนตรวจทานอย่างรอบคอบก่อนการลบถาวร
+  tr: excise, terminal için cerrahi bir depolama gezginidir — etkileşimli depolama haritası TUI'si ve JSON/tablo çıktılarıyla birlikte hassas alan hesaplama, sert bağlantı yönetimi, kapsamlı tarama ve kalıcı silmeden önce bilinçli bir gözden geçirme adımı sunar.
+  uk: "excise — це «хірургічний» навігатор сховища для термінала: інтерактивна TUI-мапа сховища плюс вивід у форматі JSON/таблиці, з точним обліком місця, обробкою жорстких посилань, скануванням у заданих межах і свідомим кроком перевірки перед остаточним видаленням."
+  vi: excise là trình duyệt lưu trữ mang tính 'phẫu thuật' cho terminal — TUI bản đồ lưu trữ tương tác kèm đầu ra JSON/bảng, với phép tính dung lượng chính xác, xử lý hard link, quét theo phạm vi giới hạn và bước xem xét có chủ đích trước khi xóa vĩnh viễn.
 x:
   source: https://github.com/findyourexit/excise
   eget: findyourexit/excise

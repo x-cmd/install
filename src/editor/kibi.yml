@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: A text editor in ≤1024 lines of code, written in Rust
   cn: 用 Rust 编写的不超过 1024 行代码的文本编辑器
+  cs: Textový editor v ≤1024 řádcích kódu, napsaný v Rustu
+  de: Ein Texteditor in ≤1024 Codezeilen, geschrieben in Rust
+  es: Un editor de texto en ≤1024 líneas de código, escrito en Rust
+  fr: Un éditeur de texte en ≤1024 lignes de code, écrit en Rust
+  id: Editor teks dalam ≤1024 baris kode, ditulis dengan Rust
+  it: Un editor di testi in ≤1024 righe di codice, scritto in Rust
+  ja: Rust で書かれた ≤1024 行のコードによるテキストエディタ
+  ko: Rust로 작성된 ≤1024줄 코드 규모의 텍스트 편집기
+  pl: Edytor tekstu w ≤1024 liniach kodu, napisany w Rust
+  pt: Um editor de texto em ≤1024 linhas de código, escrito em Rust
+  ro: Un editor de text în ≤1024 linii de cod, scris în Rust
+  ru: Текстовый редактор в ≤1024 строки кода, написанный на Rust
+  th: โปรแกรมแก้ไขข้อความใน ≤1024 บรรทัดของโค้ด เขียนด้วย Rust
+  tr: Rust ile yazılmış, ≤1024 satır kodluk bir metin düzenleyici
+  uk: Текстовий редактор у ≤1024 рядках коду, написаний на Rust
+  vi: Trình soạn thảo văn bản trong ≤1024 dòng code, viết bằng Rust
 x:
   source: https://github.com/ilai-deutel/kibi
   dnf: kibi

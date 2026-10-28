@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: Thrift is a serialization and RPC framework for service communication
   cn: Thrift 是一种用于服务通信的序列化和 RPC 框架
+  cs: Thrift je framework pro serializaci a RPC pro komunikaci mezi službami
+  de: Thrift ist ein Serialisierungs- und RPC-Framework für die Kommunikation zwischen Diensten
+  es: Thrift es un framework de serialización y RPC para la comunicación entre servicios
+  fr: Thrift est un framework de sérialisation et de RPC pour la communication entre services
+  id: Thrift adalah kerangka kerja serialisasi dan RPC untuk komunikasi antar-layanan
+  it: Thrift è un framework di serializzazione e RPC per la comunicazione tra servizi
+  ja: Thrift はサービス間の通信のためのシリアライズおよび RPC フレームワークです
+  ko: Thrift는 서비스 간 통신을 위한 직렬화 및 RPC 프레임워크입니다
+  pl: Thrift to framework do serializacji i RPC służący do komunikacji między usługami
+  pt: Thrift é um framework de serialização e RPC para comunicação entre serviços
+  ro: Thrift este un framework de serializare și RPC pentru comunicarea între servicii
+  ru: Thrift — это фреймворк сериализации и RPC для взаимодействия между сервисами
+  th: Thrift คือเฟรมเวิร์กการทำ serialization และ RPC สำหรับการสื่อสารระหว่างบริการ
+  tr: Thrift, servisler arası iletişim için bir serileştirme ve RPC çerçevesidir
+  uk: Thrift — це фреймворк серіалізації та RPC для взаємодії між сервісами
+  vi: Thrift là framework tuần tự hóa và RPC dùng cho giao tiếp giữa các dịch vụ
 x:
   source: https://github.com/facebook/fbthrift
   brew: fbthrift

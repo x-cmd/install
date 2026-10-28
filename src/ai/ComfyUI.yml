@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 功能最强、模块化的扩散模型 GUI/API/后端，采用图/节点式界面
   en: 'The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.'
+  cs: Nejvýkonnější a nejmodulárnější GUI, API a backend pro difúzní modely s grafovým rozhraním z uzlů.
+  de: Die leistungsstärkste und modularste GUI, API und Backend für Diffusionsmodelle mit einer Graph-/Knoten-Oberfläche.
+  es: La GUI, API y backend de modelos de difusión más potente y modular, con una interfaz de grafo/nodos.
+  fr: L'interface graphique, l'API et le backend de modèles de diffusion les plus puissants et modulaires, avec une interface graphe/nœuds.
+  id: GUI, API, dan backend model difusi yang paling powerful dan modular, dengan antarmuka graf/node.
+  it: La GUI, API e backend per modelli di diffusione più potente e modulare, con un'interfaccia a grafo/nodi.
+  ja: 最も強力かつモジュール化された拡散モデルの GUI・API・バックエンド。グラフ／ノード式インターフェースを備えています。
+  ko: 그래프/노드 인터페이스를 갖춘 가장 강력하고 모듈식인 확산 모델 GUI, API 및 백엔드입니다.
+  pl: Najpotężniejszy i najbardziej modularny interfejs GUI, API i backend dla modeli dyfuzyjnych z graficznym interfejsem opartym na węzłach.
+  pt: A GUI, API e backend de modelos de difusão mais poderoso e modular, com interface de grafo/nós.
+  ro: Cel mai puternic și mai modular GUI, API și backend pentru modele de difuziune, cu interfață grafic/noduri.
+  ru: Самая мощная и модульная GUI, API и бэкенд для диффузионных моделей с графическим интерфейсом на узлах.
+  th: GUI, API และ backend ของโมเดลการกระจายที่ทรงพลังและโมดูลาร์ที่สุด พร้อมอินเทอร์เฟซแบบกราฟ/โหนด
+  tr: Graf/düğüm arayüzüne sahip, en güçlü ve en modüler difüzyon modeli GUI, API ve arka ucu.
+  uk: Найпотужніший і наймодульніший GUI, API та бекенд для дифузійних моделей із графічним інтерфейсом на вузлах.
+  vi: GUI, API và backend cho mô hình khuếch táni mạnh mẽ và mô đun nhất, với giao diện đồ thị/nút.
 x:
   source: https://github.com/comfyanonymous/ComfyUI
   eget: comfyanonymous/ComfyUI

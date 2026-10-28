@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: kubernetes-native 安全工具包
   en: Kubernetes-native security toolkit
+  cs: Bezpečnostní sada nástrojů založená na Kubernetes
+  de: Kubernetes-native Security-Toolkit
+  es: Kit de herramientas de seguridad nativo de Kubernetes
+  fr: Boîte à outils de sécurité native Kubernetes
+  id: Toolkit keamanan yang native untuk Kubernetes
+  it: Toolkit di sicurezza nativo per Kubernetes
+  ja: Kubernetes ネイティブのセキュリティツールキット
+  ko: Kubernetes 네이티브 보안 툴킷
+  pl: Zestaw narzędzi bezpieczeństwa oparty na Kubernetes
+  pt: Kit de ferramentas de segurança nativo do Kubernetes
+  ro: Toolkit de securitate nativ pentru Kubernetes
+  ru: Нативный для Kubernetes набор инструментов безопасности
+  th: ชุดเครื่องมือด้านความปลอดภัยแบบเนทีฟของ Kubernetes
+  tr: Kubernetes'a özgü güvenlik araç seti
+  uk: Набір інструментів безпеки, нативний для Kubernetes
+  vi: Bộ công cụ bảo mật bản chất Kubernetes
 x:
   source: https://github.com/aquasecurity/trivy-operator
 rule:

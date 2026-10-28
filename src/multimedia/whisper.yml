@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 基于大规模弱监督的稳健语音识别
   en: 'Robust Speech Recognition via Large-Scale Weak Supervision'
+  cs: Robustní rozpoznávání řeči pomocí rozsáhlého slabého dohledu
+  de: Robuste Spracherkennung durch großskalige schwache Überwachung
+  es: Reconocimiento de voz robusto mediante supervisión débil a gran escala
+  fr: Reconnaissance vocale robuste grâce à la supervision faible à grande échelle
+  id: Pengenalan suara yang kuat melalui Supervision lemah berskala besar
+  it: Riconoscimento vocale robusto tramite supervisione debole su larga scala
+  ja: 大規模な弱教師学習による頑健な音声認識
+  ko: 대규모 약한 지도 학습을 통한 강력한 음성 인식
+  pl: Solidne rozpoznawanie mowy za pomocą nadzorowanego uczenia na dużą skalę
+  pt: Reconhecimento de fala robusto via supervisão fraca em grande escala
+  ro: Recunoaștere vocală robustă prin superviziune slabă la scară mare
+  ru: Надёжное распознавание речи с помощью крупномасштабного слабого обучения
+  th: การรู้จำเสียงที่แข็งแรงด้วยการกำกับดูแลแบบอ่อนในระดับขนาดใหญ่
+  tr: Büyük ölçekli zayıf gözetimle dayanıklı konuşma tanıma
+  uk: Надійне розпізнавання мовлення за допомогою масштабного слабкого навчання
+  vi: Nhận dạng giọng nói mạnh mẽ thông qua giám sát yếu ở quy mô lớn
 x:
   source: https://github.com/openai/whisper
   pip: openai-whisper

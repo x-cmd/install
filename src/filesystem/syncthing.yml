@@ -4,6 +4,22 @@ license: MPL-2.0
 desc:
   cn: Syncthing 是一个连续文件同步程序
   en: Syncthing is a continuous file synchronization program
+  cs: Syncthing je program pro průběžnou synchronizaci souborů
+  de: Syncthing ist ein Programm zur fortlaufenden Dateisynchronisation
+  es: Syncthing es un programa de sincronización continua de archivos
+  fr: Syncthing est un programme de synchronisation continue de fichiers
+  id: Syncthing adalah program sinkronisasi file berkelanjutan
+  it: Syncthing è un programma di sincronizzazione continua dei file
+  ja: Syncthing は継続的なファイル同期プログラムです
+  ko: Syncthing은 지속적인 파일 동기화 프로그램입니다
+  pl: Syncthing to program do ciągłej synchronizacji plików
+  pt: O Syncthing é um programa de sincronização contínua de arquivos
+  ro: Syncthing este un program de sincronizare continuă a fișierelor
+  ru: Syncthing — программа непрерывной синхронизации файлов
+  th: Syncthing เป็นโปรแกรมซิงโครไนซ์ไฟล์แบบต่อเนื่อง
+  tr: Syncthing, sürekli dosya eşitleme programıdır
+  uk: Syncthing — програма безперервної синхронізації файлів
+  vi: Syncthing là chương trình đồng bộ file liên tục
 x:
   source: https://github.com/syncthing/syncthing
   eget: syncthing/syncthing

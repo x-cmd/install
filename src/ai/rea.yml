@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: REA (Reverse Engineer Anything) is an MCP tool surface that lets AI coding agents reverse-engineer software end-to-end — native binaries, Electron, .NET, APKs, firmware, websites — with non-silent evidence and limitations.
   cn: REA 是面向 AI 编程代理的 MCP 工具面，可对原生二进制、Electron、.NET、APK、固件与网站等做端到端逆向工程，结果附带证据与局限说明。
+  cs: REA (Reverse Engineer Anything) je rozhraní nástrojů MCP, které umožňuje AI programátorským agentům provádět reverzní inženýrství softwaru od začátku do konce - nativní binárky, Electron, .NET, APK, firmware, weby - s doloženými výsledky a uvedenými omezeními.
+  de: REA (Reverse Engineer Anything) ist eine MCP-Tooloberfläche, die KI-Coding-Agenten erlaubt, Software vollständig zu reverse-engineeren – native Binaries, Electron, .NET, APKs, Firmware, Websites – mit belastbaren Nachweisen und Angaben der Grenzen.
+  es: "REA (Reverse Engineer Anything) es una superficie de herramientas MCP que permite a los agentes de programación de IA hacer ingeniería inversa de software de extremo a extremo: binarios nativos, Electron, .NET, APKs, firmware, sitios web, con evidencia no silenciosa y limitaciones."
+  fr: REA (Reverse Engineer Anything) est une surface d'outils MCP qui permet aux agents de codage IA de rétro-ingénierer des logiciels de bout en bout — binaires natifs, Electron, .NET, APKs, micrologiciels, sites web — avec des preuves non silencieuses et les limites.
+  id: REA (Reverse Engineer Anything) adalah permukaan alat MCP yang memungkinkan agen pemrograman AI melakukan reverse engineering perangkat lunak secara menyeluruh - biner native, Electron, .NET, APK, firmware, situs web - dengan bukti yang eksplisit dan batasan yang dinyatakan.
+  it: REA (Reverse Engineer Anything) è un insieme di strumenti MCP che consente agli agenti di programmazione IA di effettuare reverse engineering del software end-to-end - binari nativi, Electron, .NET, APK, firmware, siti web - con prove esplicite e limitazioni dichiarate.
+  ja: REA (Reverse Engineer Anything) は、AI コーディングエージェントがネイティブバイナリ、Electron、.NET、APK、ファームウェア、ウェブサイトなどをエンドツーエンドでリバースエンジニアリングできる MCP ツール群です。黙示的ではなく明示的な証拠と制限事項を添えます。
+  ko: REA (Reverse Engineer Anything)는 AI 코딩 에이전트가 네이티브 바이너리, Electron, .NET, APK, 펌웨어, 웹사이트 등을 종단 간으로 리버스 엔지니어링할 수 있게 하는 MCP 도구 모음입니다. 결과는 침묵하지 않는 근거와 함께 제한 사항도 함께 제시됩니다.
+  pl: REA (Reverse Engineer Anything) to zestaw narzędzi MCP, który pozwala agentom programistycznym AI na kompleksowe inżynierii wstecznej oprogramowania - natywne binaria, Electron, .NET, APK-y, oprogramowanie sprzętowe, strony internetowe - z jawnymi dowodami i ograniczeniami.
+  pt: REA (Reverse Engineer Anything) é um conjunto de ferramentas MCP que permite que agentes de programação de IA façam engenharia reversa de software de ponta a ponta - binários nativos, Electron, .NET, APKs, firmware, sites - com evidências explícitas e limitações declaradas.
+  ro: REA (Reverse Engineer Anything) este o suprafață de instrumente MCP care permite agenților de programare AI să facă inginerie inversă pe software de la un capăt la altul - binare native, Electron, .NET, APK-uri, firmware, site-uri web - cu dovezi explicite și limitări prezentate.
+  ru: "REA (Reverse Engineer Anything) - это набор инструментов MCP, позволяющий ИИ-агентам программирования выполнять полный реверс-инжиниринг программного обеспечения: нативных бинарников, Electron, .NET, APK, прошивок, веб-сайтов - с явными доказательствами и указанием ограничений."
+  th: REA (Reverse Engineer Anything) คือชุดเครื่องมือ MCP ที่ให้เอเจนต์เขียนโค้ดด้วย AI ทำวิศวกรรมย้อนกลับซอฟต์แวร์ได้ตั้งแต่ต้นจนจบ ตั้งแต่ไบนารีเนทีฟ, Electron, .NET, APK, เฟิร์มแวร์ ไปจนถึงเว็บไซต์ พร้อมหลักฐานที่ชัดเจนและข้อจำกัดที่ระบุไว้
+  tr: REA (Reverse Engineer Anything), AI kodlama ajanlarının yazılımı uçtan uca tersine mühendislik yapmasına olanak tanıyan bir MCP araç yüzeyidir - yerel ikili dosyalar, Electron, .NET, APK'lar, firmware, web siteleri - sessiz olmayan kanıtlar ve sınırlamalarla birlikte.
+  uk: "REA (Reverse Engineer Anything) - це набір інструментів MCP, що дозволяє агентам програмування на основі ШІ виконувати повний реверс-інжиніринг програмного забезпечення: нативних бінарних файлів, Electron, .NET, APK, прошивок, вебсайтів - з явними доказами та зазначенням обмежень."
+  vi: REA (Reverse Engineer Anything) là bộ công cụ MCP cho phép các tác nhân lập trình AI dịch ngược phần mềm một cách trọn vẹn - binary gốc, Electron, .NET, APK, firmware, trang web - kèm bằng chứng rõ ràng và các hạn chế được nêu.
 x:
   source: https://github.com/morluto/rea
   npm: rea-agents

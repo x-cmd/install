@@ -3,6 +3,22 @@ license: BSD-2-Clause
 desc:
   cn: cfssl 是 CloudFlare 的 PKI/TLS 工具包，用于签名、验证和捆绑 TLS 证书的 HTTP API 服务器
   en: cfssl is CloudFlare's PKI/TLS toolkit, an HTTP API server for signing, validating, and bundling TLS certificates
+  cs: cfssl je sada nástrojů PKI/TLS od CloudFlare, HTTP API server pro podepisování, ověřování a sdružování certifikátů TLS
+  de: cfssl ist das PKI/TLS-Toolkit von CloudFlare, ein HTTP-API-Server zum Signieren, Validieren und Bündeln von TLS-Zertifikaten
+  es: cfssl es el kit de herramientas PKI/TLS de CloudFlare, un servidor de API HTTP para firmar, validar y agrupar certificados TLS
+  fr: cfssl est la trousse d'outils PKI/TLS de CloudFlare, un serveur d'API HTTP pour signer, valider et regrouper des certificats TLS
+  id: cfssl adalah toolkit PKI/TLS milik CloudFlare, server API HTTP untuk menandatangani, memvalidasi, dan menggabungkan sertifikat TLS
+  it: cfssl è il toolkit PKI/TLS di CloudFlare, un server API HTTP per firmare, convalidare e assemblare certificati TLS
+  ja: cfssl は CloudFlare の PKI/TLS ツールキットで、TLS 証明書の署名、検証、バンドリングを行う HTTP API サーバーです
+  ko: cfssl는 CloudFlare의 PKI/TLS 툴킷으로, TLS 인증서 서명, 검증 및 번들링을 위한 HTTP API 서버입니다
+  pl: cfssl to zestaw narzędzi PKI/TLS firmy CloudFlare, serwer HTTP API do podpisywania, walidacji i łączenia certyfikatów TLS
+  pt: O cfssl é o kit de ferramentas PKI/TLS da CloudFlare, um servidor de API HTTP para assinar, validar e agrupar certificados TLS
+  ro: cfssl este suita de instrumente PKI/TLS de la CloudFlare, un server API HTTP pentru semnarea, validarea și gruparea certificatelor TLS
+  ru: cfssl — набор инструментов PKI/TLS от CloudFlare, HTTP API-сервер для подписания, проверки и объединения сертификатов TLS
+  th: cfssl คือชุดเครื่องมือ PKI/TLS ของ CloudFlare เป็นเซิร์ฟเวอร์ HTTP API สำหรับลงนาม ตรวจสอบ และรวมกลุ่มใบรับรอง TLS
+  tr: cfssl, CloudFlare'ın PKI/TLS araç takımıdır; TLS sertifikalarını imzalamak, doğrulamak ve birleştirmek için bir HTTP API sunucusudur
+  uk: cfssl — набір інструментів PKI/TLS від CloudFlare, HTTP API-сервер для підписання, перевірки та об'єднання сертифікатів TLS
+  vi: cfssl là bộ công cụ PKI/TLS của CloudFlare, máy chủ HTTP API để ký, xác thực và gộp chứng chỉ TLS
 lang: Go
 x:
   source: https://github.com/cloudflare/cfssl

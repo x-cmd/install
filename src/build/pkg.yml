@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Package your Node.js project into an executable that can be run even on devices without Node.js installed
   cn: 将您的 Node.js 项目打包成可执行文件，即使在没有安装 Node.js 的设备上也可以运行
+  cs: Zabalte svůj projekt Node.js do spustitelného souboru, který lze spustit i na zařízeních bez nainstalovaného Node.js
+  de: Verpacke dein Node.js-Projekt in eine ausführbare Datei, die auch auf Geräten ohne installiertes Node.js laufen kann
+  es: Empaqueta tu proyecto de Node.js en un ejecutable que puede correr incluso en dispositivos sin Node.js instalado
+  fr: Empaquettez votre projet Node.js dans un exécutable qui peut s'exécuter même sur des appareils sans Node.js installé
+  id: Kemas proyek Node.js Anda menjadi executable yang dapat dijalankan bahkan di perangkat tanpa Node.js terpasang
+  it: Impacchetta il tuo progetto Node.js in un eseguibile che può essere eseguito anche su dispositivi senza Node.js installato
+  ja: Node.js プロジェクトを、Node.js が未インストールの端末でも実行できる実行ファイルにパッケージングします
+  ko: Node.js 프로젝트를 Node.js가 설치되지 않은 기기에서도 실행할 수 있는 실행 파일로 패키징합니다
+  pl: Spakuj swój projekt Node.js w plik wykonywalny, który działa nawet na urządzeniach bez zainstalowanego Node.js
+  pt: Empacote seu projeto Node.js em um executável que pode rodar até mesmo em dispositivos sem o Node.js instalado
+  ro: Împachetează-ți proiectul Node.js într-un executabil care poate rula chiar și pe dispozitive fără Node.js instalat
+  ru: Упакуйте свой проект Node.js в исполняемый файл, который можно запускать даже на устройствах без установленного Node.js
+  th: แพ็กโปรเจกต์ Node.js ของคุณเป็นไฟล์ปฏิบัติการที่รันได้แม้ในอุปกรณ์ที่ไม่ได้ติดตั้ง Node.js
+  tr: Node.js projenizi, Node.js kurulu olmayan cihazlarda bile çalıştırılabilecek bir yürütülebilir dosyaya paketleyin
+  uk: Пакуйте свій проєкт Node.js у виконуваний файл, який можна запускати навіть на пристроях без встановленого Node.js
+  vi: Đóng gói dự án Node.js của bạn thành một tệp thực thi có thể chạy ngay cả trên thiết bị chưa cài Node.js
 x:
   source: https://github.com/vercel/pkg
   npm: pkg

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: qingcloud-cli 是管理青云资源的命令行接口
   en: qingcloud-cli is a command-line interface for managing qingcloud resources
+  cs: qingcloud-cli je rozhraní příkazové řádky pro správu zdrojů qingcloud
+  de: qingcloud-cli ist eine Befehlszeilenschnittstelle zur Verwaltung von qingcloud-Ressourcen
+  es: qingcloud-cli es una interfaz de línea de comandos para gestionar recursos de qingcloud
+  fr: qingcloud-cli est une interface de ligne de commande pour gérer les ressources qingcloud
+  id: qingcloud-cli adalah antarmuka baris perintah untuk mengelola sumber daya qingcloud
+  it: qingcloud-cli è un'interfaccia a riga di comando per gestire le risorse qingcloud
+  ja: qingcloud-cli は qingcloud のリソースを管理するためのコマンドラインインターフェースです
+  ko: qingcloud-cli는 qingcloud 리소스를 관리하기 위한 명령줄 인터페이스입니다
+  pl: qingcloud-cli to interfejs wiersza poleceń do zarządzania zasobami qingcloud
+  pt: qingcloud-cli é uma interface de linha de comando para gerenciar recursos do qingcloud
+  ro: qingcloud-cli este o interfață de linie de comandă pentru gestionarea resurselor qingcloud
+  ru: qingcloud-cli — это интерфейс командной строки для управления ресурсами qingcloud
+  th: qingcloud-cli คืออินเทอร์เฟซบรรทัดคำสั่งสำหรับจัดการทรัพยากรของ qingcloud
+  tr: qingcloud-cli, qingcloud kaynaklarını yönetmek için bir komut satırı arayüzüdür
+  uk: qingcloud-cli — це інтерфейс командного рядка для керування ресурсами qingcloud
+  vi: qingcloud-cli là giao diện dòng lệnh để quản lý tài nguyên qingcloud
 x:
   source: https://github.com/yunify/qingcloud-cli
   pip: qingcloud-cli

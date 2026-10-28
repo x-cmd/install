@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端中的 LLM 用量监控工具
   en: 'llm usage monitor in terminal'
+  cs: Monitorovací nástroj pro používání llm v terminálu
+  de: llm-Nutzungsmonitor im Terminal
+  es: Monitor de uso de llm en el terminal
+  fr: Moniteur d'utilisation de llm dans le terminal
+  id: Monitor penggunaan llm di terminal
+  it: Monitor di utilizzo di llm nel terminale
+  ja: ターミナル内の llm 使用量モニター
+  ko: 터미널에서의 llm 사용량 모니터
+  pl: Monitor zużycia llm w terminalu
+  pt: Monitor de uso de llm no terminal
+  ro: Monitorizator de utilizare llm în terminal
+  ru: Монитор использования llm в терминале
+  th: ตัวตรวจสอบการใช้งาน llm ในเทอร์มินัล
+  tr: Terminalde llm kullanım monitörü
+  uk: Монітор використання llm у терміналі
+  vi: Trình theo dõi mức sử dụng llm trong terminal
 x:
   source: https://github.com/htin1/toktop
   eget: htin1/toktop

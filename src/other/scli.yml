@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: scli 是一个简单的终端用户界面，用于 Signal。它使用 signal-cli 和 urwid 库。
   en: scli is a simple terminal user interface for Signal. It uses signal-cli and urwid.
+  cs: scli je jednoduché terminálové uživatelské rozhraní pro Signal. Používá signal-cli a knihovnu urwid.
+  de: scli ist eine einfache Terminal-Benutzeroberfläche für Signal. Es verwendet signal-cli und die urwid-Bibliothek.
+  es: scli es una interfaz de usuario de terminal sencilla para Signal. Usa signal-cli y la biblioteca urwid.
+  fr: scli est une simple interface utilisateur en terminal pour Signal. Elle utilise signal-cli et la bibliothèque urwid.
+  id: scli adalah antarmuka pengguna terminal sederhana untuk Signal. Ini menggunakan signal-cli dan pustaka urwid.
+  it: scli è una semplice interfaccia utente da terminale per Signal. Usa signal-cli e la libreria urwid.
+  ja: scli は Signal 用のシンプルなターミナルユーザーインターフェースです。signal-cli と urwid ライブラリを使用しています。
+  ko: scli는 Signal을 위한 간단한 터미널 사용자 인터페이스입니다. signal-cli와 urwid 라이브러리를 사용합니다.
+  pl: scli to prosty terminalowy interfejs użytkownika dla Signal. Używa signal-cli i biblioteki urwid.
+  pt: scli é uma interface de usuário de terminal simples para o Signal. Usa signal-cli e a biblioteca urwid.
+  ro: scli este o simplă interfață de utilizator în terminal pentru Signal. Folosește signal-cli și biblioteca urwid.
+  ru: scli — простой терминальный пользовательский интерфейс для Signal. Он использует signal-cli и библиотеку urwid.
+  th: scli เป็นอินเทอร์เฟซผู้ใช้เทอร์มินัลอย่างง่ายสำหรับ Signal โดยใช้ signal-cli และไลบรารี urwid
+  tr: scli, Signal için basit bir terminal kullanıcı arayüzüdür. signal-cli ve urwid kütüphanesini kullanır.
+  uk: scli — простий термінальний інтерфейс користувача для Signal. Використовує signal-cli та бібліотеку urwid.
+  vi: scli là giao diện người dùng dòng lệnh đơn giản cho Signal. Nó sử dụng signal-cli và thư viện urwid.
 x:
   source: https://github.com/isamert/scli
   eget: isamert/scli

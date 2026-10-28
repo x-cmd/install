@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 高效的重复文件查找器和删除器
   en: Efficient duplicate file finder and remover
+  cs: Efektivní nástroj na hledání a odstraňování duplicitních souborů
+  de: Effizienter Duplicate-File-Finder und -Entferner
+  es: Buscador y eliminador de archivos duplicados eficiente
+  fr: Détecteur et suppresseur de fichiers en double efficace
+  id: Alat efisien untuk mencari dan menghapus file duplikat
+  it: Efficiente finder e rimuovere di file duplicati
+  ja: 高速な重複ファイルの発見と削除ツール
+  ko: 효율적인 중복 파일 찾기 및 삭제 도구
+  pl: Wydajny finder i usuwacz duplikatów plików
+  pt: Localizador e removedor eficiente de arquivos duplicados
+  ro: Găsitor și eliminator eficient de fișiere duplicate
+  ru: Эффективный поиск и удаление дубликатов файлов
+  th: เครื่องมือค้นหาและลบไฟล์ซ้ำอย่างมีประสิทธิภาพ
+  tr: Verimli yinelenen dosya bulma ve silme aracı
+  uk: Ефективний пошук і видалення дублікатів файлів
+  vi: Công cụ tìm và xóa tệp trùng lặp hiệu quả
 x:
   source: https://github.com/pkolaczk/fclones
   brew: fclones

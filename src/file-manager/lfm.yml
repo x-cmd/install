@@ -3,6 +3,22 @@ homepage: https://inigo.katxi.org/devel/lfm/
 desc:
   cn: Last File Manager 是 UNIX 控制台的一个强大的文件管理器。它有一个 curses 接口，并且是用 Python v3.4 + 编写的
   en: Last File Manager is a powerful file manager for the UNIX console. It has a curses interface and it’s written in Python v3.4+
+  cs: Last File Manager je výkonný správce souborů pro konzolu UNIX. Má rozhraní curses a je napsán v Pythonu v3.4+
+  de: Last File Manager ist ein leistungsstarker Dateimanager für die UNIX-Konsole. Er verfügt über eine Curses-Oberfläche und ist in Python v3.4+ geschrieben
+  es: Last File Manager es un potente gestor de archivos para la consola UNIX. Tiene una interfaz curses y está escrito en Python v3.4+
+  fr: Last File Manager est un gestionnaire de fichiers puissant pour la console UNIX. Il possède une interface curses et il est écrit en Python v3.4+
+  id: Last File Manager adalah pengelola file yang kuat untuk konsol UNIX. Antarmukanya berbasis curses dan ditulis dalam Python v3.4+
+  it: Last File Manager è un potente file manager per la console UNIX. Ha un'interfaccia curses ed è scritto in Python v3.4+
+  ja: Last File Manager は UNIX コンソール向けの強力なファイルマネージャーです。curses インターフェースを備え、Python v3.4+ で書かれています
+  ko: Last File Manager는 UNIX 콘솔을 위한 강력한 파일 관리자입니다. curses 인터페이스를 갖추고 있으며 Python v3.4+로 작성되었습니다
+  pl: Last File Manager to wydajny menedżer plików dla konsoli UNIX. Ma interfejs curses i jest napisany w Pythonie v3.4+
+  pt: O Last File Manager é um poderoso gerenciador de arquivos para o console UNIX. Ele tem uma interface curses e é escrito em Python v3.4+
+  ro: Last File Manager este un puternic manager de fișiere pentru consola UNIX. Are o interfață curses și este scris în Python v3.4+
+  ru: Last File Manager — мощный файловый менеджер для консоли UNIX. Он имеет интерфейс curses и написан на Python v3.4+
+  th: Last File Manager เป็นตัวจัดการไฟล์ที่ทรงพลังสำหรับคอนโซล UNIX มีอินเทอร์เฟซแบบ curses และเขียนด้วย Python v3.4+
+  tr: Last File Manager, UNIX konsolu için güçlü bir dosya yöneticisidir. curses arayüzüne sahiptir ve Python v3.4+ ile yazılmıştır
+  uk: Last File Manager — потужний файловий менеджер для консолі UNIX. Він має інтерфейс curses і написаний на Python v3.4+
+  vi: Last File Manager là trình quản lý tệp mạnh mẽ cho bảng điều khiển UNIX. Nó có giao diện curses và được viết bằng Python v3.4+
 rule:
   /pip:
     cmd: pip install lfm

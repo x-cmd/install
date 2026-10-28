@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Oxlint 旨在捕获错误或无用的代码，默认情况下不需要任何配置
   en: Oxlint is designed to catch erroneous or useless code without requiring any configurations by default
+  cs: Oxlint je navržen tak, aby zachytil chybný nebo zbytečný kód bez jakékoli výchozí konfigurace
+  de: Oxlint ist darauf ausgelegt, fehlerhaften oder nutzlosen Code zu erkennen, ohne standardmäßig Konfigurationen zu benötigen
+  es: Oxlint está diseñado para detectar código erróneo o inútil sin necesidad de configuraciones por defecto
+  fr: Oxlint est conçu pour détecter le code erroné ou inutile sans aucune configuration par défaut
+  id: Oxlint dirancang untuk menangkap kode yang salah atau tidak berguna tanpa memerlukan konfigurasi apa pun secara bawaan
+  it: Oxlint è progettato per individuare codice errato o inutile senza richiedere alcuna configurazione per impostazione predefinita
+  ja: Oxlint は、デフォルトで設定を必要とせず、誤ったコードや無用なコードを検出するように設計されています
+  ko: Oxlint는 기본적으로 어떤 설정도 요구하지 않고 잘못되거나 쓸모없는 코드를 잡아내도록 설계되었습니다
+  pl: Oxlint jest zaprojektowany do wykrywania błędnego lub zbędnego kodu bez wymagania jakiejkolwiek konfiguracji domyślnie
+  pt: Oxlint foi projetado para detectar código errôneo ou inútil sem exigir nenhuma configuração por padrão
+  ro: Oxlint este conceput pentru a detecta cod eronat sau inutil fără a necesita nicio configurație în mod implicit
+  ru: Oxlint создан для обнаружения ошибочного или бесполезного кода и по умолчанию не требует никакой настройки
+  th: Oxlint ถูกออกแบบมาเพื่อจับโค้ดที่ผิดพลาดหรือไม่มีประโยชน์ โดยไม่ต้องมีการตั้งค่าใด ๆ โดยค่าเริ่มต้น
+  tr: Oxlint, varsayılan olarak herhangi bir yapılandırma gerektirmeden hatalı veya işe yaramaz kodları yakalamak için tasarlanmıştır
+  uk: Oxlint створено для виявлення помилкового або зайвого коду і за замовчуванням не потребує жодної настройки
+  vi: Oxlint được thiết kế để phát hiện mã sai hoặc vô dụng mà không cần bất kỳ cấu hình nào theo mặc định
 x:
   source: https://github.com/oxc-project/oxc
   eget: oxc-project/oxc

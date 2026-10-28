@@ -3,6 +3,22 @@ homepage: https://dev.yorhel.nl/ncdu
 desc:
   cn: Ncdu 是一个带有 ncurses 接口的磁盘使用分析器
   en: Ncdu is a disk usage analyzer with an ncurses interface
+  cs: Ncdu je analyzér využití disku s rozhraním ncurses
+  de: Ncdu ist ein Datenträgernutzungs-Analysator mit einer ncurses-Oberfläche
+  es: Ncdu es un analizador de uso de disco con una interfaz ncurses
+  fr: Ncdu est un analyseur d'utilisation de disque avec une interface ncurses
+  id: Ncdu adalah analyzer penggunaan disk dengan antarmuka ncurses
+  it: Ncdu è un analizzatore dell'uso del disco con un'interfaccia ncurses
+  ja: Ncdu は ncurses インターフェースを備えたディスク使用量アナライザーです
+  ko: Ncdu는 ncurses 인터페이스를 가진 디스크 사용량 분석기입니다
+  pl: Ncdu to analizator wykorzystania dysku z interfejsem ncurses
+  pt: Ncdu é um analisador de uso de disco com uma interface ncurses
+  ro: Ncdu este un analizor de utilizare a discului cu o interfață ncurses
+  ru: Ncdu — это анализатор использования диска с интерфейсом ncurses
+  th: Ncdu คือตัววิเคราะห์การใช้พื้นที่ดิสก์ที่มีอินเทอร์เฟซ ncurses
+  tr: Ncdu, ncurses arayüzüne sahip bir disk kullanımı analizcisidir
+  uk: Ncdu — це аналізатор використання диска з інтерфейсом ncurses
+  vi: Ncdu là trình phân tích mức sử dụng đĩa với giao diện ncurses
 x:
   apt: ncdu
   dnf: ncdu

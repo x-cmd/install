@@ -4,6 +4,22 @@ license: BSD-3-Clause
 desc:
   cn: Carbonyl 是一款基于 Chromium 的浏览器，可在终端中运行
   en: Carbonyl is a Chromium based browser built to run in a terminal
+  cs: Carbonyl je prohlížeč založený na Chromium, navržený pro běh v terminálu
+  de: Carbonyl ist ein auf Chromium basierender Browser, der für den Betrieb im Terminal entwickelt wurde
+  es: Carbonyl es un navegador basado en Chromium diseñado para ejecutarse en una terminal
+  fr: Carbonyl est un navigateur basé sur Chromium conçu pour fonctionner dans un terminal
+  id: Carbonyl adalah browser berbasis Chromium yang dibangun untuk berjalan di terminal
+  it: Carbonyl è un browser basato su Chromium progettato per funzionare in un terminale
+  ja: Carbonyl はターミナルで動作するように設計された Chromium ベースのブラウザです
+  ko: Carbonyl은 터미널에서 실행되도록 설계된 Chromium 기반 브라우저입니다
+  pl: Carbonyl to przeglądarka oparta na Chromium, stworzona do działania w terminalu
+  pt: Carbonyl é um navegador baseado no Chromium criado para rodar em um terminal
+  ro: Carbonyl este un browser bazat pe Chromium, creat pentru a rula într-un terminal
+  ru: Carbonyl — браузер на базе Chromium, созданный для работы в терминале
+  th: Carbonyl คือเบราว์เซอร์ที่สร้างบน Chromium ซึ่งออกแบบมาให้ทำงานในเทอร์มินัล
+  tr: Carbonyl, terminalde çalışmak üzere geliştirilmiş Chromium tabanlı bir tarayıcıdır
+  uk: Carbonyl — браузер на базі Chromium, створений для роботи в терміналі
+  vi: Carbonyl là trình duyệt dựa trên Chromium được xây dựng để chạy trong terminal
 x:
   source: https://github.com/fathyb/carbonyl
   eget: fathyb/carbonyl

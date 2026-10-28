@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: '`ls` 命令的现代化替代品，更具特色且更为用户友好'
   en: A modern alternative to the `ls` command, More distinctive and user-friendly
+  cs: Moderní alternativa k příkazu `ls`, odlišnější a uživatelsky přívětivější
+  de: Eine moderne Alternative zum Befehl `ls`, markanter und benutzerfreundlicher
+  es: Una alternativa moderna al comando `ls`, más distintiva y fácil de usar
+  fr: Une alternative moderne à la commande `ls`, plus distinctive et conviviale
+  id: Alternatif modern untuk perintah `ls`, lebih khas dan ramah pengguna
+  it: Un'alternativa moderna al comando `ls`, più caratteristica e user-friendly
+  ja: "`ls` コマンドの現代的な代替であり、より特徴的でユーザーフレンドリーです"
+  ko: "`ls` 명령의 현대적인 대안으로, 더 돋보이고 사용자 친화적입니다"
+  pl: Nowoczesna alternatywa dla polecenia `ls`, bardziej charakterystyczna i przyjazna użytkownikowi
+  pt: Uma alternativa moderna ao comando `ls`, mais distinta e amigável ao usuário
+  ro: O alternativă modernă la comanda `ls`, mai distinctivă și prietenoasă cu utilizatorul
+  ru: Современная альтернатива команде `ls`, более выразительная и удобная для пользователя
+  th: ทางเลือกสมัยใหม่ของคำสั่ง `ls` ที่โดดเด่นและใช้งานง่ายกว่า
+  tr: "`ls` komutuna modern bir alternatif; daha karakteristik ve kullanıcı dostu"
+  uk: Сучасна альтернатива команді `ls`, більш виразна та зручна для користувача
+  vi: Một giải pháp thay thế hiện đại cho lệnh `ls`, nổi bật và thân thiện với người dùng hơn
 x:
   source: https://github.com/ogham/exa
   apt: exa

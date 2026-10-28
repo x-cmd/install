@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 命令性能基准测试工具
   en: 'Command Performance Benchmarking'
+  cs: Benchmarking výkonu příkazů
+  de: Benchmarking der Befehlsleistung
+  es: Benchmarking del rendimiento de comandos
+  fr: Évaluation des performances des commandes
+  id: Benchmarking performa perintah
+  it: Benchmarking delle prestazioni dei comandi
+  ja: コマンドパフォーマンスのベンチマーク
+  ko: 명령 성능 벤치마킹
+  pl: Benchmark wydajności poleceń
+  pt: Benchmarking de desempenho de comandos
+  ro: Benchmarking-ul performanței comenzilor
+  ru: Тестирование производительности команд
+  th: การวัดประสิทธิภาพของคำสั่ง
+  tr: Komut performansı kıyaslama
+  uk: Бенчмаркінг продуктивності команд
+  vi: Đánh giá hiệu năng lệnh
 x:
   source: https://github.com/miklosn/cmdperf
   eget: miklosn/cmdperf

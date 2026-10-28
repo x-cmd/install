@@ -4,6 +4,22 @@ license: 'GPL-3.0'
 desc:
   cn: 从终端快速订阅 MQTT topic 或发布消息
   en: 'Subscribe to a MQTT Topic or publish something quickly from the terminal'
+  cs: Rychle odběr MQTT topicu nebo publikování zpráv z terminálu
+  de: Abonniere schnell auf ein MQTT-Topic oder veröffentliche Nachrichten aus dem Terminal
+  es: Suscríbete a un topic MQTT o publica mensajes rápidamente desde la terminal
+  fr: Abonnez-vous à un topic MQTT ou publiez des messages rapidement depuis le terminal
+  id: Berlangganan topik MQTT atau publikasikan pesan dengan cepat dari terminal
+  it: Iscriviti a un topic MQTT o pubblica messaggi rapidamente dal terminale
+  ja: ターミナルから MQTT トピックを購読したりメッセージを送信したりします
+  ko: 터미널에서 MQTT 토픽을 구독하거나 메시지를 빠르게 게시합니다
+  pl: Szybko subskrybuj temat MQTT lub publikuj wiadomości z terminala
+  pt: Assine um tópico MQTT ou publique mensagens rapidamente a partir do terminal
+  ro: Abonează-te rapid la un subiect MQTT sau publică mesaje din terminal
+  ru: Быстро подписывайтесь на темы MQTT или публикуйте сообщения из терминала
+  th: สมัครรับหัวข้อ MQTT หรือเผยแพร่ข้อความได้อย่างรวดเร็วจากเทอร์มินัล
+  tr: Terminalden hızlıca bir MQTT konusuna abone olun veya mesaj yayınlayın
+  uk: Швидко підписуйтесь на теми MQTT або публікуйте повідомлення з термінала
+  vi: Nhanh chóng đăng ký một chủ đề MQTT hoặc đăng tin nhắn từ terminal
 x:
   source: https://github.com/EdJoPaTo/mqttui
   eget: EdJoPaTo/mqttui

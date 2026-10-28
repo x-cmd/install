@@ -1,6 +1,22 @@
 desc:
   cn: 用于与 MongoDB 数据库交互的 CLI
   en: A CLI for interacting with MongoDB databases
+  cs: CLI pro interakci s databázemi MongoDB
+  de: Eine CLI zur Interaktion mit MongoDB-Datenbanken
+  es: Una CLI para interactuar con bases de datos MongoDB
+  fr: Une CLI pour interagir avec les bases de données MongoDB
+  id: CLI untuk berinteraksi dengan basis data MongoDB
+  it: Una CLI per interagire con i database MongoDB
+  ja: MongoDB データベースと対話するための CLI
+  ko: MongoDB 데이터베이스와 상호작용하기 위한 CLI
+  pl: CLI do interakcji z bazami danych MongoDB
+  pt: Uma CLI para interagir com bancos de dados MongoDB
+  ro: O CLI pentru interacțiunea cu bazele de date MongoDB
+  ru: CLI для взаимодействия с базами данных MongoDB
+  th: CLI สำหรับโต้ตอบกับฐานข้อมูล MongoDB
+  tr: MongoDB veritabanlarıyla etkileşim kurmak için bir CLI
+  uk: CLI для взаємодії з базами даних MongoDB
+  vi: CLI để tương tác với các cơ sở dữ liệu MongoDB
 homepage: https://github.com/mongodb-js/mongosh
 license: Apache-2.0
 lang: JavaScript

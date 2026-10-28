@@ -2,6 +2,22 @@ lang: Python
 desc:
   cn: 一个用于 ssh 服务器和客户端配置审核的工具
   en: ssh-audit is a tool for ssh server & client configuration auditing.
+  cs: ssh-audit je nástroj pro auditování konfigurace ssh serveru a klienta.
+  de: ssh-audit ist ein Werkzeug zur Überprüfung der Konfiguration von ssh-Server und -Client.
+  es: ssh-audit es una herramienta para auditar la configuración del servidor y el cliente ssh.
+  fr: ssh-audit est un outil d'audit de la configuration des serveurs et clients ssh.
+  id: ssh-audit adalah alat untuk mengaudit konfigurasi server dan klien ssh.
+  it: ssh-audit è uno strumento per verificare la configurazione di server e client ssh.
+  ja: ssh-audit は ssh サーバーおよびクライアントの設定を監査するツールです。
+  ko: ssh-audit는 ssh 서버 및 클라이언트 구성을 감사하는 도구입니다.
+  pl: ssh-audit to narzędzie do audytu konfiguracji serwera i klienta ssh.
+  pt: ssh-audit é uma ferramenta para auditar a configuração de servidores e clientes ssh.
+  ro: ssh-audit este un instrument pentru auditarea configurației serverului și clientului ssh.
+  ru: ssh-audit — инструмент для аудита конфигурации ssh-сервера и клиента.
+  th: ssh-audit เป็นเครื่องมือสำหรับตรวจสอบการตั้งค่าเซิร์ฟเวอร์และไคลเอนต์ ssh
+  tr: ssh-audit, ssh sunucu ve istemci yapılandırmasını denetlemek için bir araçtır.
+  uk: ssh-audit — інструмент для аудиту конфігурації ssh-сервера та клієнта.
+  vi: ssh-audit là công cụ kiểm tra cấu hình máy chủ và client ssh.
 homepage: https://github.com/jtesta/ssh-audit
 license: MIT
 x:

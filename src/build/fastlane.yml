@@ -4,6 +4,22 @@ license: MIT
 desc:
   en: Fastlane is a tool for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application
   cn: Fastlane 是 iOS 和 Android 开发人员的一个工具，可以自动完成诸如生成屏幕截图、处理配置文件和发布应用程序等乏味的任务
+  cs: Fastlane je nástroj pro vývojáře iOS a Android, který automatizuje nudné úkoly, jako je generování snímků obrazovky, správa provisioning profilů a vydávání vaší aplikace
+  de: Fastlane ist ein Werkzeug für iOS- und Android-Entwickler, das langweilige Aufgaben wie das Erzeugen von Screenshots, den Umgang mit Bereitstellungsprofilen und die Veröffentlichung deiner App automatisiert
+  es: Fastlane es una herramienta para desarrolladores de iOS y Android que automatiza tareas tediosas como generar capturas de pantalla, gestionar los perfiles de aprovisionamiento y publicar tu aplicación
+  fr: Fastlane est un outil pour les développeurs iOS et Android qui automatise les tâches fastidieuses comme la génération de captures d'écran, la gestion des profils de provisionnement et la publication de votre application
+  id: Fastlane adalah alat bagi pengembang iOS dan Android untuk mengotomatiskan tugas membosankan seperti membuat tangkapan layar, menangani profil provision, dan rilis aplikasi Anda
+  it: Fastlane è uno strumento per gli sviluppatori iOS e Android che automatizza le attività noiose come generare schermate, gestire i profili di provisioning e pubblicare la tua app
+  ja: Fastlane は iOS と Android の開発者向けのツールで、スクリーンショットの生成、プロビジョニングプロファイルの処理、アプリのリリースといった退屈な作業を自動化します
+  ko: Fastlane은 iOS 및 Android 개발자를 위한 도구로, 스크린샷 생성, 프로비저닝 프로파일 처리, 애플리케이션 배포와 같은 번거로운 작업을 자동화합니다
+  pl: Fastlane to narzędzie dla deweloperów iOS i Androida, które automatyzuje żmudne zadania, takie jak generowanie zrzutów ekranu, obsługa profili aprovisionowania i wydawanie aplikacji
+  pt: Fastlane é uma ferramenta para desenvolvedores de iOS e Android que automatiza tarefas tediosas, como gerar capturas de tela, lidar com perfis de provisionamento e publicar seu aplicativo
+  ro: Fastlane este un instrument pentru dezvoltatorii iOS și Android care automatizează sarcini plictisitoare, precum generarea capturilor de ecran, gestionarea profilurilor de provisionare și publicarea aplicației tale
+  ru: Fastlane — это инструмент для разработчиков iOS и Android, автоматизирующий утомительные задачи, такие как создание скриншотов, работа с профилями обеспечения и выпуск вашего приложения
+  th: Fastlane เป็นเครื่องมือสำหรับนักพัฒนา iOS และ Android ที่ทำให้งานที่น่าเบื่ออย่างเช่นการสร้างภาพหน้าจอ การจัดการโปรไฟล์ provisioning และการเผยแพร่แอปพลิเคชันของคุณเป็นอัตโนมัติ
+  tr: Fastlane, ekran görüntüsü oluşturma, hazırlık profilleriyle uğraşma ve uygulamanızı yayımlama gibi sıkıcı görevleri otomatikleştiren iOS ve Android geliştiricileri için bir araçtır
+  uk: Fastlane — це інструмент для розробників iOS та Android, який автоматизує нудні завдання, такі як створення знімків екрана, робота з профілями забезпечення та випуск вашого застосунку
+  vi: Fastlane là công cụ dành cho nhà phát triển iOS và Android, tự động hóa các tác vụ tẻ nhẹn như tạo ảnh chụp màn hình, xử lý hồ sơ cấp phép và phát hành ứng dụng của bạn
 x:
   source: https://github.com/fastlane/fastlane
   eget: fastlane/fastlane

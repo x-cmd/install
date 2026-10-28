@@ -3,6 +3,22 @@ homepage: https://github.com/tgraf/bmon
 desc:
   cn: 带宽监控和速率估计器
   en: Bandwidth monitor and rate estimator
+  cs: Monitor šířky pásma a odhad rychlosti
+  de: Bandbreitenmonitor und Geschwindigkeitsschätzer
+  es: Monitor de ancho de banda y estimador de velocidad
+  fr: Moniteur de bande passante et estimateur de débit
+  id: Monitor bandwidth danestimator kecepatan
+  it: Monitor della banda larga e stimatore di velocità
+  ja: 帯域使用量のモニターと速度推定ツール
+  ko: 대역폭 모니터 및 속도 추정 도구
+  pl: Monitor przepustowości i estymator szybkości
+  pt: Monitor de largura de banda e estimador de velocidade
+  ro: Monitor de lățime de bandă și estimator de viteză
+  ru: Монитор пропускной способности и оценщик скорости
+  th: มอนิเตอร์แบบด์วิธและตัวประมาณอัตราเร็ว
+  tr: Bant genişliği izleyici ve hız tahmin edici
+  uk: Монітор пропускної здатності та оцінювач швидкості
+  vi: Trình giám sát băng thông và bộ ước lượng tốc độ
 x:
   source: https://github.com/tgraf/bmon
   eget: tgraf/bmon

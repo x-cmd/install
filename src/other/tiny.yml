@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: tiny 是用 Rust 编写的 IRC 客户端
   en: tiny is an IRC client written in Rust
+  cs: tiny je IRC klient napsaný v jazyce Rust
+  de: tiny ist ein in Rust geschriebener IRC-Client
+  es: tiny es un cliente IRC escrito en Rust
+  fr: tiny est un client IRC écrit en Rust
+  id: tiny adalah klien IRC yang ditulis dengan Rust
+  it: tiny è un client IRC scritto in Rust
+  ja: tiny は Rust で書かれた IRC クライアントです
+  ko: tiny는 Rust로 작성된 IRC 클라이언트입니다
+  pl: tiny to klient IRC napisany w Rust
+  pt: tiny é um cliente IRC escrito em Rust
+  ro: tiny este un client IRC scris în Rust
+  ru: tiny — IRC-клиент, написанный на Rust
+  th: tiny คือไคลเอนต์ IRC ที่เขียนด้วย Rust
+  tr: tiny, Rust ile yazılmış bir IRC istemcisidir
+  uk: tiny — IRC-клієнт, написаний на Rust
+  vi: tiny là ứng dụng khách IRC được viết bằng Rust
 x:
   source: https://github.com/osa1/tiny
   eget: osa1/tiny

@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 一个强大的终端费用跟踪器，可在您的终端中使用。
   en: A powerful expense tracker that lives in your terminal.
+  cs: Výkonný sledovač výdajů, který běží přímo ve vašem terminálu.
+  de: Ein leistungsstarker Ausgaben-Tracker, der direkt in Ihrem Terminal läuft.
+  es: Un potente gestor de gastos que vive en tu terminal.
+  fr: Un suivi de dépenses puissant qui s'exécute directement dans votre terminal.
+  id: Pelacak pengeluaran yang kuat dan berjalan langsung di terminal Anda.
+  it: Un potente tracker di spese che vive nel tuo terminale.
+  ja: ターミナル内で動作する高性能な支出トラッカーです。
+  ko: 터미널에서 동작하는 강력한 지출 추적 도구입니다.
+  pl: Potężne narzędzie do śledzenia wydatków działające wprost w terminalu.
+  pt: Um poderoso rastreador de despesas que roda direto no seu terminal.
+  ro: Un urmăritor puternic de cheltuieli care rulează chiar în terminalul tău.
+  ru: Мощный трекер расходов, работающий прямо в вашем терминале.
+  th: ตัวติดตามค่าใช้จ่ายที่ทรงพลัง ทำงานอยู่ในเทอร์มินัลของคุณ
+  tr: Terminalinizde çalışan güçlü bir gider takip aracı.
+  uk: Потужний трекер витрат, який працює прямо у вашому терміналі.
+  vi: Trình theo dõi chi phí mạnh mẽ chạy ngay trong terminal của bạn.
 x:
   source: https://github.com/EnhancedJax/Bagels
   brew: bagels

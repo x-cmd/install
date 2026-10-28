@@ -4,6 +4,22 @@ license: 'Apache-2.0'
 desc:
   cn: Go 编写的局域网发现工具，带交互式 TUI
   en: 'Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who''s there? 🚪'
+  cs: Nástroj pro objevování zařízení v místní síti s interaktivním TUI (Terminal User Interface), napsaný v Go. Objevujte, prozkoumejte a pochopte svou LAN intuitivním způsobem. Knock Knock.. kdo je tam? 🚪
+  de: LAN-Erkennungstool mit interaktiver Terminal User Interface (TUI), geschrieben in Go. Entdecken, erkunden und verstehen Sie Ihr LAN auf intuitive Weise. Knock Knock.. wer ist da? 🚪
+  es: Herramienta de descubrimiento de red de área local con una interfaz de usuario de terminal (TUI) interactiva escrita en Go. Descubre, explora y comprende tu LAN de forma intuitiva. Knock Knock.. ¿quién es? 🚪
+  fr: Outil de découverte du réseau local avec une interface utilisateur de terminal (TUI) interactive écrit en Go. Découvrez, explorez et comprenez votre LAN de manière intuitive. Knock Knock.. qui est là ? 🚪
+  id: Alat penemuan Local Area Network dengan Terminal User Interface (TUI) interaktif yang ditulis dengan Go. Temukan, jelajahi, dan pahami LAN Anda dengan cara yang intuitif. Knock Knock.. siapa di sana? 🚪
+  it: Strumento di rilevamento della rete locale con Terminal User Interface (TUI) interattiva scritto in Go. Scopri, esplora e comprendi la tua LAN in modo intuitivo. Knock Knock.. chi è? 🚪
+  ja: Go で書かれた対話型 Terminal User Interface (TUI) を備えた Local Area Network 検出ツール。LAN を直感的に発見・探索・理解できます。Knock Knock.. 誰かいますか？ 🚪
+  ko: Go로 작성된 대화형 Terminal User Interface(TUI)를 갖춘 Local Area Network 탐색 도구. 직관적인 방식으로 LAN을 발견하고 탐색하고 파악하세요. Knock Knock.. 거기 누구 있나요? 🚪
+  pl: Narzędzie do wykrywania urządzeń w sieci lokalnej z interaktywnym Terminal User Interface (TUI), napisane w Go. Odkrywaj, eksploruj i rozumiej swoją LAN w intuicyjny sposób. Knock Knock.. kto tam jest? 🚪
+  pt: Ferramenta de descoberta de rede local com Terminal User Interface (TUI) interativa escrita em Go. Descubra, explore e compreenda sua LAN de forma intuitiva. Knock Knock.. quem está aí? 🚪
+  ro: Instrument de descoperire în rețeaua locală cu Terminal User Interface (TUI) interactiv, scris în Go. Descoperă, explorează și înțelege-ți rețeaua LAN într-un mod intuitiv. Knock Knock.. cine e acolo? 🚪
+  ru: Инструмент обнаружения устройств в локальной сети с интерактивным Terminal User Interface (TUI), написанный на Go. Открывайте, изучайте и понимайте свою LAN интуитивно. Knock Knock.. кто там? 🚪
+  th: เครื่องมือค้นหาเครือข่ายในพื้นที่ด้วย Terminal User Interface (TUI) แบบโต้ตอบ พัฒนาด้วย Go ค้นพบ สำรวจ และเข้าใจ LAN ของคุณในทางที่เข้าใจง่าย Knock Knock.. ใครอยู่ตรงนั้น? 🚪
+  tr: Go ile yazılmış, etkileşimli Terminal User Interface (TUI) içeren LAN keşif aracı. LAN ağınızı sezgisel bir şekilde keşfedin, inceleyin ve anlayın. Knock Knock.. kim var? 🚪
+  uk: Інструмент виявлення пристроїв у локальній мережі з інтерактивним Terminal User Interface (TUI), написаний на Go. Відкривайте, досліджуйте й розумійте свою LAN інтуїтивно. Knock Knock.. хто там? 🚪
+  vi: Công cụ phát hiện Local Area Network với Terminal User Interface (TUI) tương tác được viết bằng Go. Khám phá, tìm hiểu và thấu hiểu LAN của bạn một cách trực giác. Knock Knock.. ai đó đó? 🚪
 x:
   source: https://github.com/ramonvermeulen/whosthere
   eget: ramonvermeulen/whosthere

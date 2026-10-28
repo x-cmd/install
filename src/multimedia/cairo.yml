@@ -3,6 +3,22 @@ homepage: https://gitlab.freedesktop.org/cairo/cairo
 desc:
   cn: Cairo 是一个支持多种输出设备的 2D 图形库
   en: Cairo is a 2D graphics library with support for multiple output devices
+  cs: Cairo je 2D grafická knihovna podporující více výstupních zařízení
+  de: Cairo ist eine 2D-Grafikbibliothek mit Unterstützung für mehrere Ausgabegeräte
+  es: Cairo es una biblioteca de gráficos 2D compatible con varios dispositivos de salida
+  fr: Cairo est une bibliothèque graphique 2D prenant en charge plusieurs périphériques de sortie
+  id: Cairo adalah pustaka grafis 2D yang mendukung berbagai perangkat keluaran
+  it: Cairo è una libreria di grafica 2D con supporto per più dispositivi di output
+  ja: Cairo は複数の出力デバイスに対応した 2D グラフィックスライブラリです
+  ko: Cairo는 여러 출력 장치를 지원하는 2D 그래픽 라이브러리입니다
+  pl: Cairo to biblioteka grafiki 2D z obsługą wielu urządzeń wyjściowych
+  pt: Cairo é uma biblioteca de gráficos 2D com suporte a vários dispositivos de saída
+  ro: Cairo este o bibliotecă de grafică 2D cu suport pentru mai multe dispozitive de ieșire
+  ru: Cairo — библиотека 2D-графики с поддержкой различных устройств вывода
+  th: Cairo คือไลบรารีกราฟิก 2D ที่รองรับอุปกรณ์แสดงผลหลายแบบ
+  tr: Cairo, birden çok çıktı cihazını destekleyen 2D grafik kitaplığıdır
+  uk: Cairo — бібліотека 2D-графіки з підтримкою кількох пристроїв виведення
+  vi: Cairo là thư viện đồ họa 2D hỗ trợ nhiều thiết bị đầu ra
 rule:
   darwin/brew:
     cmd: brew install cairo

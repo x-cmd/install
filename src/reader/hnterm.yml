@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: HNTerm 是一个用 C++ 编写的小型控制台应用程序，用于浏览 Hacker News
   en: HNTerm is a small console application written in C++ for browsing Hacker News.
+  cs: HNTerm je malá konzolová aplikace napsaná v C++ pro procházení Hacker News.
+  de: HNTerm ist eine kleine Konsolenanwendung in C++ zum Stöbern in Hacker News.
+  es: HNTerm es una pequeña aplicación de consola escrita en C++ para navegar por Hacker News.
+  fr: HNTerm est une petite application console écrite en C++ pour parcourir Hacker News.
+  id: HNTerm adalah aplikasi konsol kecil yang ditulis dengan C++ untuk menjelajahi Hacker News.
+  it: HNTerm è una piccola applicazione console scritta in C++ per esplorare Hacker News.
+  ja: HNTerm は C++ で書かれた Hacker News 用の小さなコンソールアプリケーションです。
+  ko: HNTerm은 Hacker News를 탐색하기 위해 C++로 작성된 소형 콘솔 애플리케이션입니다.
+  pl: HNTerm to niewielka aplikacja konsolowa napisana w C++ do przeglądania Hacker News.
+  pt: O HNTerm é um pequeno aplicativo de console escrito em C++ para navegar no Hacker News.
+  ro: HNTerm este o mică aplicație pentru consolă scrisă în C++ pentru a parcurge Hacker News.
+  ru: HNTerm — небольшое консольное приложение на C++ для просмотра Hacker News.
+  th: HNTerm เป็นแอปคอนโซลขนาดเล็กที่เขียนด้วย C++ เพื่อท่องเที่ยว Hacker News
+  tr: HNTerm, Hacker News'te gezinmek için C++ ile yazılmış küçük bir konsol uygulamasıdır.
+  uk: HNTerm — невелика консольна програма на C++ для перегляду Hacker News.
+  vi: HNTerm là một ứng dụng console nhỏ viết bằng C++ để duyệt Hacker News.
 x:
   source: https://github.com/ggerganov/hnterm
   brew: ggerganov/ggerganov/hnterm

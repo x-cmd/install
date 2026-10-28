@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 跨平台命令行工具和 Golang 库，可与 RSA、ECDSA、PEM、DER、JWK 和 JOSE 套件配合使用
   en: A cross-platform Command Line Tool and Golang Library that works with RSA, ECDSA, PEM, DER, JWK, and the JOSE suite
+  cs: Víceplatformní nástroj příkazové řádky a knihovna Golang, která pracuje s RSA, ECDSA, PEM, DER, JWK a sadou JOSE
+  de: Ein plattformübergreifendes Kommandozeilen-Werkzeug und eine Golang-Bibliothek, die mit RSA, ECDSA, PEM, DER, JWK und der JOSE-Suite arbeitet
+  es: Una herramienta de línea de comandos multiplataforma y una biblioteca de Golang que funciona con RSA, ECDSA, PEM, DER, JWK y la suite JOSE
+  fr: Un outil en ligne de commande multiplateforme et une bibliothèque Golang fonctionnant avec RSA, ECDSA, PEM, DER, JWK et la suite JOSE
+  id: Alat baris perintah lintas platform dan pustaka Golang yang bekerja dengan RSA, ECDSA, PEM, DER, JWK, dan rangkaian JOSE
+  it: Uno strumento da riga di comando multipiattaforma e una libreria Golang che funziona con RSA, ECDSA, PEM, DER, JWK e la suite JOSE
+  ja: RSA、ECDSA、PEM、DER、JWK および JOSE スイートに対応したクロスプラットフォームのコマンドラインツールと Golang ライブラリです
+  ko: RSA, ECDSA, PEM, DER, JWK 및 JOSE 스위트와 함께 작동하는 크로스 플랫폼 명령줄 도구이자 Golang 라이브러리
+  pl: Wieloplatformowe narzędzie wiersza poleceń i biblioteka Golang współpracująca z RSA, ECDSA, PEM, DER, JWK oraz zestawem JOSE
+  pt: Uma ferramenta de linha de comando multiplataforma e uma biblioteca Golang que funciona com RSA, ECDSA, PEM, DER, JWK e a suíte JOSE
+  ro: Un instrument de linie de comandă multiplatformă și o bibliotecă Golang care funcționează cu RSA, ECDSA, PEM, DER, JWK și suita JOSE
+  ru: Кроссплатформенный инструмент командной строки и библиотека Golang, работающие с RSA, ECDSA, PEM, DER, JWK и набором JOSE
+  th: เครื่องมือบรรทัดคำสั่งข้ามแพลตฟอร์มและไลบรารี Golang ที่ทำงานร่วมกับ RSA, ECDSA, PEM, DER, JWK และชุด JOSE
+  tr: RSA, ECDSA, PEM, DER, JWK ve JOSE paketi ile çalışan çok platformlu bir komut satırı aracı ve Golang kütüphanesi
+  uk: Кроссплатформний інструмент командного рядка та бібліотека Golang, які працюють з RSA, ECDSA, PEM, DER, JWK та набором JOSE
+  vi: Công cụ dòng lệnh đa nền tảng và thư viện Golang hoạt động với RSA, ECDSA, PEM, DER, JWK và bộ JOSE
 x:
   source: https://github.com/therootcompany/keypairs
   eget: therootcompany/keypairs

@@ -4,6 +4,22 @@ license: GPL-2.0
 desc:
   cn: Pylint 是 Python 2 或 3 的静态代码分析器
   en: Pylint is a static code analyser for Python 2 or 3
+  cs: Pylint je statický analyzátor kódu pro Python 2 nebo 3
+  de: Pylint ist ein statischer Code-Analysator für Python 2 oder 3
+  es: Pylint es un analizador estático de código para Python 2 o 3
+  fr: Pylint est un analyseur de code statique pour Python 2 ou 3
+  id: Pylint adalah penganalisis kode statis untuk Python 2 atau 3
+  it: Pylint è un analizzatore statico di codice per Python 2 o 3
+  ja: Pylint は Python 2 または 3 のための静的コード解析器です
+  ko: Pylint는 Python 2 또는 3을 위한 정적 코드 분석기입니다
+  pl: Pylint to statyczny analizator kodu dla Pythona 2 lub 3
+  pt: Pylint é um analisador de código estático para Python 2 ou 3
+  ro: Pylint este un analizator static de cod pentru Python 2 sau 3
+  ru: Pylint — это статический анализатор кода для Python 2 или 3
+  th: Pylint เป็นเครื่องมือวิเคราะห์โค้ดแบบคงที่สำหรับ Python 2 หรือ 3
+  tr: Pylint, Python 2 veya 3 için bir statik kod analizörüdür
+  uk: Pylint — це статичний аналізатор коду для Python 2 або 3
+  vi: Pylint là trình phân tích mã tĩnh cho Python 2 hoặc 3
 x:
   source: https://github.com/pylint-dev/pylint
   apt: pylint

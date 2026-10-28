@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Apple 官方工具，通过轻量级虚拟机在 macOS 上原生创建和运行 Linux 容器，针对 Apple Silicon 优化
   en: Apple's tool for creating and running Linux containers using lightweight virtual machines on macOS, optimized for Apple Silicon
+  cs: Nástroj Apple pro vytváření a spouštění Linuxových kontejnerů pomocí lehkých virtuálních strojů na macOS, optimalizovaný pro Apple Silicon
+  de: Apples Tool zum Erstellen und Ausführen von Linux-Containern mit leichten virtuellen Maschinen unter macOS, optimiert für Apple Silicon
+  es: Herramienta de Apple para crear y ejecutar contenedores Linux con máquinas virtuales ligeras en macOS, optimizada para Apple Silicon
+  fr: Outil d'Apple pour créer et exécuter des conteneurs Linux à l'aide de machines virtuelles légères sur macOS, optimisé pour Apple Silicon
+  id: Alat Apple untuk membuat dan menjalankan kontainer Linux menggunakan mesin virtual ringan di macOS, dioptimalkan untuk Apple Silicon
+  it: Strumento di Apple per creare ed eseguire container Linux con macchine virtuali leggere su macOS, ottimizzato per Apple Silicon
+  ja: macOS上で軽量な仮想マシンを用いてLinuxコンテナを作成・実行するAppleのツールで、Apple Silicon向けに最適化
+  ko: macOS에서 경량 가상 머신을 사용해 Linux 컨테이너를 생성하고 실행하는 Apple 도구로, Apple Silicon에 최적화됨
+  pl: Narzędzie Apple do tworzenia i uruchamiania kontenerów Linuksowych za pomocą lekkich maszyn wirtualnych w macOS, zoptymalizowane dla Apple Silicon
+  pt: Ferramenta da Apple para criar e executar contêineres Linux usando máquinas virtuais leves no macOS, otimizada para Apple Silicon
+  ro: Instrumentul Apple pentru crearea și rularea containerelor Linux folosind mașini virtuale ușoare în macOS, optimizat pentru Apple Silicon
+  ru: Инструмент Apple для создания и запуска контейнеров Linux с помощью легковесных виртуальных машин в macOS, оптимизированный для Apple Silicon
+  th: เครื่องมือของ Apple สำหรับสร้างและรันคอนเทนเนอร์ Linux โดยใช้เครื่องเสมือนแบบเบาใน macOS ปรับให้เหมาะกับ Apple Silicon
+  tr: macOS üzerinde hafif sanal makineler kullanarak Linux kapsayıcıları oluşturan ve çalıştıran, Apple Silicon için optimize edilmiş Apple aracı
+  uk: Інструмент Apple для створення та запуску контейнерів Linux за допомогою легких віртуальних машин у macOS, оптимізований для Apple Silicon
+  vi: Công cụ của Apple để tạo và chạy container Linux bằng máy ảo nhẹ trên macOS, được tối ưu cho Apple Silicon
 x:
   source: https://github.com/apple/container
   brew: container

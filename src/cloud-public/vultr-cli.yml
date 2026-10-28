@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: Vultr 服务的官方命令行工具
   en: Official command line tool for Vultr services
+  cs: Oficiální nástroj příkazové řádky pro služby Vultr
+  de: Offizielles Kommandozeilen-Werkzeug für Vultr-Dienste
+  es: Herramienta de línea de comandos oficial para los servicios de Vultr
+  fr: Outil en ligne de commande officiel pour les services Vultr
+  id: Alat baris perintah resmi untuk layanan Vultr
+  it: Strumento a riga di comando ufficiale per i servizi Vultr
+  ja: Vultr サービス用の公式コマンドラインツール
+  ko: Vultr 서비스를 위한 공식 명령줄 도구
+  pl: Oficjalne narzędzie wiersza poleceń dla usług Vultr
+  pt: Ferramenta de linha de comando oficial para os serviços da Vultr
+  ro: Instrument oficial de linie de comandă pentru serviciile Vultr
+  ru: Официальный инструмент командной строки для сервисов Vultr
+  th: เครื่องมือบรรทัดคำสั่งอย่างเป็นทางการสำหรับบริการ Vultr
+  tr: Vultr hizmetleri için resmi komut satırı aracı
+  uk: Офіційний інструмент командного рядка для сервісів Vultr
+  vi: Công cụ dòng lệnh chính thức cho các dịch vụ Vultr
 x:
   source: https://github.com/vultr/vultr-cli
   eget: vultr/vultr-cli

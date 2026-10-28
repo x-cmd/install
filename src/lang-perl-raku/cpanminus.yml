@@ -3,6 +3,22 @@ homepage: https://github.com/miyagawa/cpanminus
 desc:
   cn: 从 CPAN 获取、解压缩、构建和安装模块
   en: Get, unpack, build, and install modules from CPAN
+  cs: Získávání, rozbalování, sestavování a instalování modulů z CPAN
+  de: Module aus CPAN holen, entpacken, bauen und installieren
+  es: Obtener, descomprimir, compilar e instalar módulos desde CPAN
+  fr: Obtenir, décompresser, compiler et installer des modules depuis CPAN
+  id: Ambil, ekstrak, bangun, dan instal modul dari CPAN
+  it: Ottieni, decomprimi, compila e installa moduli da CPAN
+  ja: CPAN からモジュールの取得、解凍、ビルド、インストールを行う
+  ko: CPAN에서 모듈을 가져오고, 압축을 풀고, 빌드하고, 설치합니다
+  pl: Pobieranie, rozpakowywanie, budowanie i instalowanie modułów z CPAN
+  pt: Obter, descompactar, compilar e instalar módulos do CPAN
+  ro: Obține, dezarhivează, compilează și instalează module din CPAN
+  ru: Получение, распаковка, сборка и установка модулей из CPAN
+  th: ดึง แตก และ ติดตั้งโมดูลจาก CPAN
+  tr: CPAN'den modül alma, açma, derleme ve kurma
+  uk: Отримання, розпакування, збірка та встановлення модулів із CPAN
+  vi: Lấy, giải nén, build và cài đặt module từ CPAN
 x:
   source: https://github.com/miyagawa/cpanminus
   brew: cpanminus

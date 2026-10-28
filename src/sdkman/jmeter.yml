@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: 负载测试和性能测量应用程序
   en: Load testing and performance measurement application
+  cs: Aplikace pro testování zatížení a měření výkonu
+  de: Anwendung zum Lasttesten und zur Leistungsmessung
+  es: Aplicación de pruebas de carga y medición de rendimiento
+  fr: Application de test de charge et de mesure des performances
+  id: Aplikasi pengujian beban dan pengukuran performa
+  it: Applicazione per il test di carico e la misurazione delle prestazioni
+  ja: 負荷テストとパフォーマンス測定のためのアプリケーション
+  ko: 부하 테스트 및 성능 측정 애플리케이션
+  pl: Aplikacja do testowania obciążenia i pomiaru wydajności
+  pt: Aplicativo de teste de carga e medição de desempenho
+  ro: Aplicație pentru testarea încărcării și măsurarea performanței
+  ru: Приложение для нагрузочного тестирования и измерения производительности
+  th: แอปพลิเคชันสำหรับการทดสอบโหลดและการวัดประสิทธิภาพ
+  tr: Yük testi ve performans ölçümü uygulaması
+  uk: Застосунок для навантажувального тестування та вимірювання продуктивності
+  vi: Ứng dụng kiểm thử tải và đo hiệu năng
 x:
   source: https://github.com/apache/jmeter
   yay: jmeter

@@ -4,6 +4,22 @@ license: 'GPL-2.0'
 desc:
   cn: 基于 Pandoc 的终端演示工具
   en: 'Terminal-based presentations using Pandoc'
+  cs: Prezentace v terminálu založené na Pandoc
+  de: Terminalbasierte Präsentationen mit Pandoc
+  es: Presentaciones basadas en terminal que usan Pandoc
+  fr: Présentations en terminal utilisant Pandoc
+  id: Presentasi berbasis terminal yang menggunakan Pandoc
+  it: Presentazioni basate su terminale che usano Pandoc
+  ja: Pandoc を使ったターミナルベースのプレゼンテーション
+  ko: Pandoc을 사용하는 터미널 기반 프레젠테이션
+  pl: Prezentacje w terminalu oparte na Pandoc
+  pt: Apresentações baseadas em terminal usando o Pandoc
+  ro: Prezentări bazate pe terminal care folosesc Pandoc
+  ru: Презентации в терминале на базе Pandoc
+  th: งานนำเสนอบนเทอร์มินัลโดยใช้ Pandoc
+  tr: Pandoc kullanan terminal tabanlı sunumlar
+  uk: Презентації в терміналі на основі Pandoc
+  vi: Bài trình bày trên terminal dựa trên Pandoc
 x:
   source: https://github.com/jaspervdj/patat
   eget: jaspervdj/patat

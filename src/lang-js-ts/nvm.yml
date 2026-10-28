@@ -3,6 +3,22 @@ homepage: https://github.com/nvm-sh
 desc:
   cn: nvm 是 Node.js 的版本管理器，设计为按用户安装并按 shell 调用
   en: nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell
+  cs: nvm je správce verzí pro node.js, navržený k instalaci pro každého uživatele a vyvolávání v každém shellu
+  de: nvm ist ein Versionsmanager für node.js, der pro Benutzer installiert und pro Shell aufgerufen wird
+  es: nvm es un gestor de versiones para node.js, diseñado para instalarse por usuario e invocarse por shell
+  fr: nvm est un gestionnaire de versions pour node.js, conçu pour être installé par utilisateur et invoqué par shell
+  id: nvm adalah pengelola versi untuk node.js, dirancang untuk dipasang per pengguna dan dipanggil per shell
+  it: nvm è un gestore di versioni per node.js, progettato per essere installato per utente e richiamato per shell
+  ja: nvm は node.js のバージョンマネージャで、ユーザー単位でのインストールとシェルごとの呼び出しを想定しています
+  ko: nvm은 node.js의 버전 관리자로, 사용자별로 설치하고 셸별로 호출하도록 설계되었습니다
+  pl: nvm to menedżer wersji dla node.js, zaprojektowany do instalacji per użytkownik i wywoływany w każdej powłoce
+  pt: O nvm é um gerenciador de versões para node.js, projetado para ser instalado por usuário e invocado por shell
+  ro: nvm este un manager de versiuni pentru node.js, conceput pentru a fi instalat per utilizator și invocat per shell
+  ru: nvm — менеджер версий для node.js, рассчитанный на установку для каждого пользователя и вызов в каждой оболочке
+  th: nvm คือตัวจัดการเวอร์ชันสำหรับ node.js ที่ออกแบบมาให้ติดตั้งแบบรายผู้ใช้และเรียกใช้แบบรายเชลล์
+  tr: nvm, node.js için bir sürüm yöneticisidir; kullanıcı başına kurulmak ve her kabukta çağrılmak üzere tasarlanmıştır
+  uk: nvm — менеджер версій для node.js, розроблений для встановлення для кожного користувача та виклику в кожній оболонці
+  vi: nvm là trình quản lý phiên bản cho node.js, được thiết kế để cài theo từng người dùng và gọi theo từng shell
 rule:
   /curl:
     cmd: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash

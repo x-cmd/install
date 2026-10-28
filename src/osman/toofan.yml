@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: 终端下极简、极速的打字 TUI
   en: 'A minimal, lightning-fast typing TUI for your terminal'
+  cs: Minimální a bleskurychlé TUI pro psaní na klávesnici v terminálu
+  de: Ein minimales, blitzschnelles TUI zum Tippen im Terminal
+  es: Un TUI mínimo y muy rápido para escribir en el terminal
+  fr: Un TUI minimal et ultra-rapide pour la saisie au clavier dans le terminal
+  id: TUI minimalistis dan sangat cepat untuk mengetik di terminal
+  it: Una TUI minimale e velocissima per la digitazione nel terminale
+  ja: ターミナル用のミニマルで超高速なタイピング TUI
+  ko: 터미널을 위한 간결하고 매우 빠른 타이핑 TUI
+  pl: Minimalne i błyskawiczne TUI do pisania na klawiaturze w terminalu
+  pt: Uma TUI minimalista e extremamente rápida para digitar no terminal
+  ro: Un TUI minimalist și ultrarapid pentru tastare în terminal
+  ru: Минималистичный и сверхбыстрый TUI для набора текста в терминале
+  th: TUI แบบเรียบง่ายและเร็วดั่งสายฟ้าสำหรับพิมพ์ในเทอร์มินัล
+  tr: Terminal için minimal ve yıldırım hızında yazma TUI'si
+  uk: Мінімалістичний та надшвидкий TUI для набору тексту в терміналі
+  vi: TUI tối giản và cực nhanh để gõ phím trong terminal
 x:
   source: https://github.com/vyrx-dev/toofan
   eget: vyrx-dev/toofan

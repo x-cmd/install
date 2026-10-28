@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 用 Go 编写的磁盘使用分析器
   en: Pretty fast disk usage analyzer written in Go
+  cs: Docela rychlý analyzér využití disku napsaný v Go
+  de: Ziemlich schneller, in Go geschriebener Datenträgernutzungs-Analysator
+  es: Analizador de uso de disco bastante rápido escrito en Go
+  fr: Analyseur d'utilisation de disque assez rapide écrit en Go
+  id: Analyzer penggunaan disk yang Pretty cepat dan ditulis dengan Go
+  it: Analizzatore dell'uso del disco abbastanza veloce scritto in Go
+  ja: Go で書かれた高速なディスク使用量アナライザー
+  ko: Go로 작성된 빠른 디스크 사용량 분석기
+  pl: Dość szybki analizator zużycia dysku napisany w Go
+  pt: Analisador de uso de disco bastante rápido escrito em Go
+  ro: Un analizor de utilizare a discului destul de rapid, scris în Go
+  ru: Довольно быстрый анализатор использования диска, написанный на Go
+  th: ตัววิเคราะห์การใช้พื้นที่ดิสก์ที่ค่อนข้างเร็ว เขียนด้วย Go
+  tr: Go ile yazılmış oldukça hızlı bir disk kullanımı analizcisi
+  uk: Досить швидкий аналізатор використання диска, написаний на Go
+  vi: Trình phân tích mức sử dụng đĩa khá nhanh, viết bằng Go
 x:
   source: https://github.com/dundee/gdu
   eget: dundee/gdu

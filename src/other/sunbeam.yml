@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Sunbeam 是一个通用的命令行启动器
   en: Sunbeam is a general purpose command-line launcher.
+  cs: Sunbeam je univerzální spouštěč příkazového řádku.
+  de: Sunbeam ist ein allgemeiner Kommandozeilen-Launcher.
+  es: Sunbeam es un lanzador de línea de comandos de propósito general.
+  fr: Sunbeam est un lanceur de ligne de commande généraliste.
+  id: Sunbeam adalah peluncur baris perintah serbaguna.
+  it: Sunbeam è un launcher da riga di comando di uso generale.
+  ja: Sunbeam は汎用的なコマンドラインランチャーです。
+  ko: Sunbeam은 범용 명령줄 런처입니다.
+  pl: Sunbeam to uniwersalny launcher wiersza poleceń.
+  pt: Sunbeam é um inicializador de linha de comando de uso geral.
+  ro: Sunbeam este un lansator de linie de comandă de uz generală.
+  ru: Sunbeam — универсальный лаунчер командной строки.
+  th: Sunbeam คือตัวเรียกใช้บรรทัดคำสั่งอเนกประสงค์
+  tr: Sunbeam, genel amaçlı bir komut satırı başlatıcısıdır.
+  uk: Sunbeam — універсальний лаунчер командного рядка.
+  vi: Sunbeam là trình khởi chạy dòng lệnh đa năng.
 x:
   source: https://github.com/pomdtr/sunbeam
   eget: pomdtr/sunbeam

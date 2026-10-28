@@ -4,6 +4,22 @@ license: GPL-3.0
 desc:
   cn: 用 Rust 编写的极快的终端记录器，用于为网络生成动画 gif 图像
   en: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  cs: Bleskově rychlý zaznamovadlo terminálu, které generuje animované gif obrázky pro web, napsáno v Rustu
+  de: Blitzschneller Terminal-Recorder, der animierte GIF-Bilder für das Web erzeugt, geschrieben in Rust
+  es: Grabador de terminal ultrápido que genera imágenes gif animadas para la web, escrito en Rust
+  fr: Enregistreur de terminal très rapide qui génère des images gif animées pour le web, écrit en Rust
+  id: Perekam terminal sangat cepat yang menghasilkan gambar gif animasi untuk web, ditulis dalam Rust
+  it: Registratore da terminale velocissimo che genera immagini gif animate per il web, scritto in Rust
+  ja: Rust で書かれた超高速のターミナルレコーダで、ウェブ向けのアニメーション GIF を生成します
+  ko: Rust로 작성된 매우 빠른 터미널 레코더로 웹용 애니메이션 gif 이미지를 생성합니다
+  pl: Błyskawicznie szybki rejestrator terminala generujący animowane obrazy gif dla sieci, napisany w Rust
+  pt: Gravador de terminal extremamente rápido que gera imagens gif animadas para a web, escrito em Rust
+  ro: Înregistrator de terminal foarte rapid care generează imagini gif animate pentru web, scris în Rust
+  ru: Сверхбыстрый рекордер терминала, генерирующий анимированные gif-изображения для веба, написанный на Rust
+  th: ตัวบันทึกเทอร์มินัลที่เร็วดั่งพริบไฟ สร้างภาพ gif แบบเคลื่อนไหวสำหรับเว็บ เขียนด้วย Rust
+  tr: Web için animasyonlu gif görselleri üreten, Rust ile yazılmış çok hızlı terminal kaydedici
+  uk: Надшвидкий рекордер термінала, що генерує анімовані gif-зображення для вебу, написаний на Rust
+  vi: Trình ghi hình terminal cực nhanh tạo ảnh gif động cho web, viết bằng Rust
 x:
   source: https://github.com/sassman/t-rec-rs
   eget: sassman/t-rec-rs

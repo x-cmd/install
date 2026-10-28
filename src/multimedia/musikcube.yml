@@ -4,6 +4,22 @@ license: 'BSD-3-Clause'
 desc:
   cn: C++ 编写的跨平台终端音乐播放器、音频引擎、元数据索引器和服务器
   en: 'a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++'
+  cs: Multiplatformní hudební přehrávač, zvukový engine, indexer metadat a server pro terminál napsaný v C++
+  de: Ein plattformübergreifender, terminalbasierter Musikplayer, Audio-Engine, Metadaten-Indexer und Server in C++
+  es: Un reproductor de música multiplataforma basado en terminal, motor de audio, indexador de metadatos y servidor escrito en C++
+  fr: Un lecteur de musique multiplateforme basé sur le terminal, moteur audio, indexeur de métadonnées et serveur écrits en C++
+  id: Pemutar musik lintas platform berbasis terminal, mesin audio, pengindeks metadata, dan server yang ditulis dengan C++
+  it: Un lettore musicale multipiattaforma basato sul terminale, motore audio, indicizzatore di metadati e server scritto in C++
+  ja: C++ で書かれたクロスプラットフォームのターミナルベース音楽プレーヤー、オーディオエンジン、メタデータインデクサー、サーバー
+  ko: C++로 작성된 크로스 플랫폼 터미널 기반 음악 플레이어, 오디오 엔진, 메타데이터 인덱서 및 서버
+  pl: Wieloplatformowy, terminalowy odtwarzacz muzyki, silnik audio, indekser metadanych i serwer napisany w C++
+  pt: Um reprodutor de música multiplataforma baseado em terminal, motor de áudio, indexador de metadados e servidor escrito em C++
+  ro: Un player de muzică multiplatformă bazat pe terminal, motor audio, indexer de metadate și server scris în C++
+  ru: Кроссплатформенный терминальный музыкальный проигрыватель, аудиодвижок, индексатор метаданных и сервер на C++
+  th: เครื่องเล่นเพลงข้ามแพลตฟอร์มบนเทอร์มินัล เอนจินเสียง ตัวทำดัชี้ข้อมูลเมทาดาทา และเซิร์ฟเวอร์ ที่เขียนด้วย C++
+  tr: C++ ile yazılmış, platformlar arası, terminal tabanlı müzik çalar, ses motoru, meta veri dizinleyici ve sunucu
+  uk: Кроссплатформний термінальний музичний програвач, аудіодвигун, індексатор метаданих і сервер, написаний на C++
+  vi: Trình phát nhạc đa nền tảng dựa trên terminal, công cụ âm thanh, bộ lập chỉ mục siêu dữ liệu và máy chủ viết bằng C++
 x:
   source: https://github.com/clangen/musikcube
   eget: clangen/musikcube

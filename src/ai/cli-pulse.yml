@@ -4,6 +4,22 @@ license: other
 desc:
   cn: 实时追踪 50+ AI CLI 工具的用量、成本与配额，并支持手机远程控制 Mac 上的 AI 编码会话
   en: Real-time usage, cost & quota tracking across 50+ AI CLI tools (Claude Code, Codex, Gemini, Cursor, Copilot…) — plus remote-control your Mac's AI coding sessions from your phone. macOS menu bar · i...
+  cs: Sledování využití, nákladů a kvót v reálném čase u 50+ AI CLI nástrojů (Claude Code, Codex, Gemini, Cursor, Copilot…) – navíc můžete na dálku ovládat AI relace na Macu z telefonu. macOS panel nabídky · iOS aplikace
+  de: Echtzeit-Tracking von Nutzung, Kosten und Kontingenten für über 50 KI-CLI-Tools (Claude Code, Codex, Gemini, Cursor, Copilot…) – plus Fernsteuerung deiner KI-Coding-Sitzungen auf dem Mac vom Handy aus. macOS-Menüleiste · iOS-App
+  es: Seguimiento en tiempo real del uso, coste y cuota en más de 50 herramientas CLI de IA (Claude Code, Codex, Gemini, Cursor, Copilot…) y control remoto de tus sesiones de programación con IA en el Mac desde el móvil. Barra de menús de macOS · app para iOS
+  fr: Suivi en temps réel de l'utilisation, des coûts et des quotas pour plus de 50 outils CLI d'IA (Claude Code, Codex, Gemini, Cursor, Copilot…) – plus le contrôle à distance de vos sessions de codage IA sur Mac depuis votre téléphone. Barre de menus macOS · app iOS
+  id: Pelacakan penggunaan, biaya & kuota secara real-time di 50+ alat CLI AI (Claude Code, Codex, Gemini, Cursor, Copilot…) — plus kendalikan sesi coding AI di Mac dari ponsel Anda. Bilah menu macOS · aplikasi iOS
+  it: Tracciamento in tempo reale di utilizzo, costi e quote su oltre 50 strumenti CLI IA (Claude Code, Codex, Gemini, Cursor, Copilot…) — oltre a controllare da remoto le tue sessioni di coding IA sul Mac dal telefono. Barra dei menu di macOS · app iOS
+  ja: 50以上の AI CLI ツール (Claude Code、Codex、Gemini、Cursor、Copilot…) の使用量・コスト・割り当てをリアルタイムに監視。さらにスマートフォンから Mac の AI コーディングセッションを遠隔操作できます。macOS メニューバー · iOS アプリ
+  ko: 50개 이상의 AI CLI 도구(Claude Code, Codex, Gemini, Cursor, Copilot…)의 사용량, 비용, 할당량을 실시간으로 추적하고, 휴대폰에서 Mac의 AI 코딩 세션을 원격으로 제어할 수 있습니다. macOS 메뉴바 · iOS 앱
+  pl: Śledzenie w czasie rzeczywistym zużycia, kosztów i limitów w ponad 50 narzędziach CLI opartych na AI (Claude Code, Codex, Gemini, Cursor, Copilot…) — a także zdalne sterowanie sesjami kodowania AI na Macu z telefonu. Pasek menu macOS · aplikacja iOS
+  pt: Rastreamento em tempo real de uso, custo e cota em mais de 50 ferramentas CLI de IA (Claude Code, Codex, Gemini, Cursor, Copilot…) — além de controlar remotamente suas sessões de programação com IA no Mac pelo celular. Barra de menus do macOS · app para iOS
+  ro: Urmărirea în timp real a utilizării, costurilor și cotelor pentru peste 50 de instrumente CLI de IA (Claude Code, Codex, Gemini, Cursor, Copilot…) — plus controlul de la distanță al sesiunilor tale de programare cu IA pe Mac de pe telefon. Bara de meniu macOS · aplicație iOS
+  ru: Отслеживание использования, затрат и квот в реальном времени для более чем 50 ИИ-CLI инструментов (Claude Code, Codex, Gemini, Cursor, Copilot…) — а также удалённое управление сессиями ИИ-кодинга на Mac с телефона. Строка меню macOS · приложение для iOS
+  th: ติดตามการใช้งาน ต้นทุน และโควตาแบบเรียลไทม์ในเครื่องมือ AI CLI กว่า 50 ตัว (Claude Code, Codex, Gemini, Cursor, Copilot…) พร้อมควบคุมเซสชันการเขียนโค้ดด้วย AI บน Mac จากโทรศัพท์ แถบเมนู macOS · แอป iOS
+  tr: 50'den fazla AI CLI aracında (Claude Code, Codex, Gemini, Cursor, Copilot…) kullanım, maliyet ve kota takibi — ayrıca Mac'teki AI kodlama oturumlarınızı telefonunuzdan uzaktan kontrol edin. macOS menü çubuğu · iOS uygulaması
+  uk: Відстеження використання, витрат і квот у реальному часі для понад 50 ІІ-CLI інструментів (Claude Code, Codex, Gemini, Cursor, Copilot…) — а також дистанційне керування сесіями ІІ-кодування на Mac з телефона. Рядок меню macOS · застосунок для iOS
+  vi: Theo dõi thời gian thực mức sử dụng, chi phí và hạn mức trên hơn 50 công cụ CLI AI (Claude Code, Codex, Gemini, Cursor, Copilot…) — đồng thời điều khiển từ xa các phiên lập trình AI trên Mac bằng điện thoại. Thanh menu macOS · ứng dụng iOS
 x:
   source: https://github.com/JasonYeYuhe/cli-pulse
   eget: JasonYeYuhe/cli-pulse

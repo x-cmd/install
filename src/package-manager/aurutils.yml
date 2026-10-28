@@ -3,6 +3,22 @@ homepage: https://aur.archlinux.org/packages/aurutils
 desc:
   en: Helper tools for the AUR
   cn: AUR 的辅助工具
+  cs: Pomocné nástroje pro AUR
+  de: Hilfswerkzeuge für das AUR
+  es: Herramientas auxiliares para el AUR
+  fr: Outils utilitaires pour l'AUR
+  id: Alat bantu untuk AUR
+  it: Strumenti ausiliari per l'AUR
+  ja: AUR 用のヘルツール
+  ko: AUR용 도우미 도구
+  pl: Narzędzia pomocnicze dla AUR
+  pt: Ferramentas auxiliares para a AUR
+  ro: Instrumente auxiliare pentru AUR
+  ru: Вспомогательные инструменты для AUR
+  th: เครื่องมือช่วยสำหรับ AUR
+  tr: AUR için yardımcı araçlar
+  uk: Допоміжні інструменти для AUR
+  vi: Các công cụ trợ giúp cho AUR
 rule:
   arch/pacman:
     cmd: 'git clone https://aur.archlinux.org/aurutils.git

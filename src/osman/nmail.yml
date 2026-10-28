@@ -4,6 +4,22 @@ license: 'MIT'
 desc:
   cn: Linux 与 macOS 的终端邮件客户端
   en: 'Terminal-based email client for Linux and macOS'
+  cs: Terminálový e-mailový klient pro Linux a macOS
+  de: Terminal-E-Mail-Client für Linux und macOS
+  es: Cliente de correo electrónico de terminal para Linux y macOS
+  fr: Client de messagerie électronique en terminal pour Linux et macOS
+  id: Klien email berbasis terminal untuk Linux dan macOS
+  it: Client di posta elettronica basato su terminale per Linux e macOS
+  ja: Linux と macOS 向けのターミナルメールクライアント
+  ko: Linux와 macOS용 터미널 이메일 클라이언트
+  pl: Terminalowy klient poczty e-mail dla Linux i macOS
+  pt: Cliente de e-mail baseado em terminal para Linux e macOS
+  ro: Client de e-mail bazat pe terminal pentru Linux și macOS
+  ru: Терминальный почтовый клиент для Linux и macOS
+  th: ไคลเอนต์อีเมลบนเทอร์มินัลสำหรับ Linux และ macOS
+  tr: Linux ve macOS için terminal tabanlı e-posta istemcisi
+  uk: Термінальний поштовий клієнт для Linux і macOS
+  vi: Ứng dụng email chạy trên terminal cho Linux và macOS
 x:
   source: https://github.com/d99kris/nmail
   eget: d99kris/nmail

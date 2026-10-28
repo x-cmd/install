@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 自动生成 python click 应用程序的手册页
   en: Automate generation of man pages for python click applications
+  cs: Automatizuje generování manuálových stránek pro aplikace python click
+  de: Automatisiert die Erstellung von Manpages für Python-Click-Anwendungen
+  es: Automatiza la generación de páginas de manual para aplicaciones python click
+  fr: Automatise la génération des pages de manuel pour les applications Python click
+  id: Mengotomatiskan pembuatan halaman manual untuk aplikasi python click
+  it: Automatizza la generazione delle pagine di manuale per le applicazioni python click
+  ja: Python click アプリケーションのマニュアルページの生成を自動化する
+  ko: python click 애플리케이션의 맨 페이지를 자동으로 생성합니다
+  pl: Automatyzuje generowanie stron podręcznika dla aplikacji python click
+  pt: Automatiza a geração de páginas de manual para aplicações python click
+  ro: Automatizează generarea paginilor de manual pentru aplicațiile python click
+  ru: Автоматизирует создание man-страниц для приложений на Python click
+  th: ทำให้การสร้างหน้าคู่มือสำหรับแอปพลิเคชัน python click เป็นอัตโนมัติ
+  tr: python click uygulamaları için man sayfalarının oluşturulmasını otomatikleştirir
+  uk: Автоматизує створення сторінок man для застосунків на Python click
+  vi: Tự động hóa việc tạo trang man cho các ứng dụng python click
 x:
   source: https://github.com/click-contrib/click-man
   dnf: python3-click-man

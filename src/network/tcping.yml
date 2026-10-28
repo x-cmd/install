@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: 一个通过 TCP 连接进行 ping 操作的工具
   en: A tool to ping over a TCP connection
+  cs: Nástroj pro ping přes připojení TCP
+  de: Ein Tool zum Pingen über eine TCP-Verbindung
+  es: Una herramienta para hacer ping a través de una conexión TCP
+  fr: Un outil pour faire un ping via une connexion TCP
+  id: Alat untuk melakukan ping melalui koneksi TCP
+  it: Uno strumento per eseguire il ping tramite una connessione TCP
+  ja: TCP接続経由でpingを行うツール
+  ko: TCP 연결을 통해 ping을 수행하는 도구
+  pl: Narzędzie do pingowania przez połączenie TCP
+  pt: Uma ferramenta para fazer ping por uma conexão TCP
+  ro: Un instrument pentru ping prin conexiune TCP
+  ru: Инструмент для ping через TCP-соединение
+  th: เครื่องมือสำหรับ ping ผ่านการเชื่อมต่อ TCP
+  tr: TCP bağlantısı üzerinden ping atmak için bir araç
+  uk: Інструмент для ping через TCP-з'єднання
+  vi: Công cụ ping qua kết nối TCP
 x:
   source: https://github.com/pouriyajamshidi/tcping
   eget: pouriyajamshidi/tcping

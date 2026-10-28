@@ -3,6 +3,22 @@ homepage: https://kubemq.io/
 desc:
   cn: KubeMQ 是 Kubernetes 消息队列代理
   en: KubeMQ is a Kubernetes Message Queue Broker
+  cs: KubeMQ je zprostředkovatel fronty zpráv pro Kubernetes
+  de: KubeMQ ist ein Message-Queue-Broker für Kubernetes
+  es: KubeMQ es un intermediario de cola de mensajes para Kubernetes
+  fr: KubeMQ est un broker de file de messages pour Kubernetes
+  id: KubeMQ adalah broker antrean pesan untuk Kubernetes
+  it: KubeMQ è un broker di code di messaggi per Kubernetes
+  ja: KubeMQ は Kubernetes 向けのメッセージキューブローカーです
+  ko: KubeMQ는 Kubernetes용 메시지 큐 브로커입니다
+  pl: KubeMQ to broker kolejki wiadomości dla Kubernetes
+  pt: KubeMQ é um corretor de fila de mensagens para Kubernetes
+  ro: KubeMQ este un broker de coadă de mesaje pentru Kubernetes
+  ru: KubeMQ — это брокер очереди сообщений для Kubernetes
+  th: KubeMQ คือตัวกลางคิวข้อความสำหรับ Kubernetes
+  tr: KubeMQ, Kubernetes için bir mesaj kuyruğu aracısıdır
+  uk: KubeMQ — це брокер черги повідомлень для Kubernetes
+  vi: KubeMQ là bộ môi giới hàng đợi tin nhắn cho Kubernetes
 rule:
   /curl:
     cmd: sudo curl -sL https://get.kubemq.io/install | sudo sh

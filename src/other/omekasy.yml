@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Omekasy 是一个命令行应用程序，可以将输入中的字母数字字符转换为 Unicode 中定义的各种样式
   en: omekasy is a command line application that converts alphanumeric characters in your input to various styles defined in Unicode
+  cs: omekasy je aplikace příkazového řádku, která převádí alfanumerické znaky ve vašem vstupu na různé styly definované v Unicode
+  de: omekasy ist eine Kommandozeilenanwendung, die alphanumerische Zeichen in Ihrer Eingabe in verschiedene in Unicode definierte Stile umwandelt
+  es: omekasy es una aplicación de línea de comandos que convierte los caracteres alfanuméricos de tu entrada en varios estilos definidos en Unicode
+  fr: omekasy est une application en ligne de commande qui convertit les caractères alphanumériques de votre saisie en différents styles définis dans Unicode
+  id: omekasy adalah aplikasi baris perintah yang mengubah karakter alfanumerik pada masukan Anda menjadi berbagai gaya yang didefinisikan dalam Unicode
+  it: omekasy è un'applicazione a riga di comando che converte i caratteri alfanumerici del tuo input in vari stili definiti in Unicode
+  ja: omekasy は、入力の英数字を Unicode で定義されたさまざまなスタイルに変換するコマンドラインアプリケーションです
+  ko: omekasy는 입력의 영숫자를 Unicode에 정의된 다양한 스타일로 변환하는 명령줄 애플리케이션입니다
+  pl: omekasy to aplikacja wiersza poleceń, która zamienia znaki alfanumeryczne w danym wejściu na różne style zdefiniowane w Unicode
+  pt: omekasy é um aplicativo de linha de comando que converte caracteres alfanuméricos da sua entrada em vários estilos definidos no Unicode
+  ro: omekasy este o aplicație de linie de comandă care transformă caracterele alfanumerice din intrarea ta în diverse stiluri definite în Unicode
+  ru: omekasy — это приложение командной строки, которое преобразует буквенно-цифровые символы во вводе в различные стили, определённые в Unicode
+  th: omekasy เป็นแอปพลิเคชันบรรทัดคำสั่งที่แปลงอักขระ alphanumeric ในอินพุตของคุณเป็นสไตล์ต่าง ๆ ที่กำหนดไว้ใน Unicode
+  tr: omekasy, girdinizdeki alfanümerik karakterleri Unicode'da tanımlanan çeşitli stillere dönüştüren bir komut satırı uygulamasıdır
+  uk: omekasy — це застосунок командного рядка, який перетворює буквено-цифрові символи у введенні на різні стилі, визначені в Unicode
+  vi: omekasy là ứng dụng dòng lệnh chuyển đổi các ký tự alphanumetric trong đầu vào của bạn thành nhiều kiểu khác nhau được định nghĩa trong Unicode
 x:
   source: https://github.com/ikanago/omekasy
   eget: ikanago/omekasy

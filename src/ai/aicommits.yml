@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 用 AI 为你生成 git 提交信息的 CLI
   en: A CLI that writes your git commit messages for you with AI
+  cs: CLI nástroj, který vám pomocí AI píše zprávy git commitů
+  de: Ein CLI-Werkzeug, das mit KI Ihre Git-Commit-Nachrichten für Sie schreibt
+  es: Una CLI que escribe tus mensajes de commit de git con IA
+  fr: Une CLI qui rédige pour vous vos messages de commit git grâce à l'IA
+  id: CLI yang menulis pesan commit git Anda dengan bantuan AI
+  it: Una CLI che scrive per te i messaggi di commit git con l'AI
+  ja: AIが git のコミットメッセージを代わりに書いてくれる CLI ツールです。
+  ko: AI가 git 커밋 메시지를 대신 작성해 주는 CLI 도구입니다.
+  pl: Narzędzie CLI, które za pomocą AI pisze za Ciebie komunikaty commitów git
+  pt: Uma CLI que escreve para você as mensagens de commit do git com IA
+  ro: Un CLI care vă scrie mesajele de commit git cu ajutorul AI
+  ru: CLI-инструмент, который с помощью ИИ пишет за вас сообщения коммитов git
+  th: เครื่องมือ CLI ที่ช่วยเขียนข้อความ git commit ให้คุณด้วย AI
+  tr: Yapay zekâ kullanarak git commit mesajlarını sizin için yazan bir CLI aracı.
+  uk: CLI-інструмент, який за допомогою ШІ пише за вас повідомлення комітів git
+  vi: CLI giúp viết thay bạn các thông điệp commit git bằng AI
 x:
   source: https://github.com/Nutlope/aicommits
   npm: aicommits

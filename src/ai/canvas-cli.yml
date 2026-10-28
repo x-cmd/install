@@ -4,6 +4,22 @@ license: noassertion
 desc:
   cn: 纯 Rust 实现的类 Canvas API 绘图库，让无法直接生成图像的 AI 模型也能产出图片
   en: 'pure rust implemented drawer library( api like canvas), enables AI models that do not produce raw images to generate images'
+  cs: Knihovna pro kreslení implementovaná čistě v Rustu (API jako Canvas), umožňuje modelům AI, které nevytvářejí surové obrázky, generovat obrázky
+  de: Reine Rust-Draw-Bibliothek (API wie Canvas), die es KI-Modellen ohne native Bildausgabe ermöglicht, Bilder zu erzeugen
+  es: Biblioteca de dibujo implementada en Rust puro (API similar a Canvas), que permite a los modelos de IA que no producen imágenes generar imágenes
+  fr: Bibliothèque de dessin purement en Rust (API similaire à Canvas), qui permet aux modèles d'IA qui ne produisent pas d'images brutes de générer des images
+  id: Pustaka gambar yang diimplementasikan murni dengan Rust (API seperti Canvas), memungkinkan model AI yang tidak menghasilkan gambar mentah untuk menghasilkan gambar
+  it: Libreria di disegno implementata interamente in Rust (API simile a Canvas), che permette ai modelli IA che non generano immagini grezze di produrre immagini
+  ja: 純粋な Rust 実装の描画ライブラリ（Canvas のような API）で、生の画像を生成できない AI モデルも画像を作成できます
+  ko: 순수 Rust로 구현된 드로잉 라이브러리(Canvas와 같은 API)로, 원시 이미지를 생성하지 못하는 AI 모델도 이미지를 만들 수 있습니다
+  pl: Biblioteka do rysowania zaimplementowana w czystym Rust (API w stylu Canvas), umożliwiająca modelom AI, które nie generują surowych obrazów, tworzenie obrazów
+  pt: Biblioteca de desenho implementada puramente em Rust (API como o Canvas), que permite que modelos de IA que não produzem imagens brutas gerem imagens
+  ro: Bibliotecă de desen implementată exclusiv în Rust (API asemănătoare Canvas), care permite modelelor de AI care nu produc imagini brute să genereze imagini
+  ru: Библиотека рисования, полностью реализованная на Rust (API в стиле Canvas), позволяющая ИИ-моделям, которые не выдают сырые изображения, создавать изображения
+  th: ไลบรารีวาดที่เขียนด้วย Rust ล้วน (API แบบ Canvas) ช่วยให้โมเดล AI ที่ไม่สร้างภาพดิบสามารถสร้างภาพได้
+  tr: Saf Rust ile uygulanan çizim kütüphanesi (Canvas benzeri API), ham görüntü üretemeyen YZ modellerinin görüntü oluşturmasını sağlar
+  uk: Бібліотека малювання, повністю реалізована на Rust (API у стилі Canvas), що дозволяє ІІ-моделям, які не створюють необроблені зображення, генерувати зображення
+  vi: Thư viện vẽ được hiện thực hoàn toàn bằng Rust (API kiểu Canvas), giúp các model AI không tạo được ảnh thô vẫn có thể tạo ra hình ảnh
 x:
   source: https://github.com/echosoar/canvas-cli
   eget: echosoar/canvas-cli

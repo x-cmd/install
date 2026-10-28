@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: Firebase 命令行界面 (CLI) 工具可用于从命令行测试、管理和部署 Firebase 项目
   en: The Firebase Command Line Interface (CLI) Tools can be used to test, manage, and deploy your Firebase project from the command line
+  cs: Nástroje Firebase Command Line Interface (CLI) lze použít k testování, správě a nasazování vašeho projektu Firebase z příkazového řádku
+  de: Mit den Firebase Command Line Interface (CLI) Tools können Sie Ihr Firebase-Projekt über die Kommandozeile testen, verwalten und bereitstellen
+  es: Las herramientas de la interfaz de línea de comandos (CLI) de Firebase se pueden usar para probar, administrar y desplegar tu proyecto de Firebase desde la línea de comandos
+  fr: Les outils Firebase Command Line Interface (CLI) peuvent être utilisés pour tester, gérer et déployer votre projet Firebase depuis la ligne de commande
+  id: Firebase Command Line Interface (CLI) Tools dapat digunakan untuk menguji, mengelola, dan men-deploy proyek Firebase Anda dari baris perintah
+  it: Gli strumenti Firebase Command Line Interface (CLI) possono essere usati per testare, gestire e distribuire il tuo progetto Firebase dalla riga di comando
+  ja: Firebase Command Line Interface (CLI) ツールは、コマンドラインから Firebase プロジェクトをテスト、管理、デプロイするために使用できます
+  ko: Firebase Command Line Interface (CLI) 도구는 명령줄에서 Firebase 프로젝트를 테스트하고 관리하며 배포하는 데 사용할 수 있습니다
+  pl: Narzędzia Firebase Command Line Interface (CLI) służą do testowania, zarządzania i wdrażania projektu Firebase z wiersza poleceń
+  pt: As ferramentas da Interface de Linha de Comando (CLI) do Firebase podem ser usadas para testar, gerenciar e implantar seu projeto do Firebase a partir da linha de comando
+  ro: Instrumentele Firebase Command Line Interface (CLI) pot fi folosite pentru a testa, administra și implementa proiectul Firebase din linia de comandă
+  ru: Инструменты Firebase Command Line Interface (CLI) можно использовать для тестирования, управления и развёртывания проекта Firebase из командной строки
+  th: เครื่องมือ Firebase Command Line Interface (CLI) สามารถใช้เพื่อทดสอบ จัดการ และปล่อยโปรเจกต์ Firebase ของคุณจากบรรทัดคำสั่ง
+  tr: Firebase Command Line Interface (CLI) araçları, Firebase projenizi komut satırından test etmek, yönetmek ve dağıtmak için kullanılabilir
+  uk: Інструменти Firebase Command Line Interface (CLI) можна використовувати для тестування, керування та розгортання вашого проєкту Firebase із командного рядка
+  vi: Các công cụ Firebase Command Line Interface (CLI) có thể dùng để kiểm thử, quản lý và triển khai dự án Firebase của bạn từ dòng lệnh
 x:
   source: https://github.com/firebase/firebase-tools
   eget: firebase/firebase-tools

@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   en: wasm-pack is a tool for building and using Rust-generated WebAssembly that can be easily integrated with JavaScript.
   cn: wasm-pack 是一个用于构建和使用由 Rust 生成的 WebAssembly 的工具，可以轻松地与 JavaScript 集成。
+  cs: wasm-pack je nástroj pro sestavování a používání WebAssembly generovaného Rustem, který lze snadno integrovat s JavaScriptem.
+  de: wasm-pack ist ein Werkzeug zum Erstellen und Verwenden von Rust-generiertem WebAssembly, das sich leicht in JavaScript integrieren lässt.
+  es: wasm-pack es una herramienta para compilar y usar WebAssembly generado por Rust que se puede integrar fácilmente con JavaScript.
+  fr: wasm-pack est un outil pour compiler et utiliser du WebAssembly généré par Rust, facilement intégrable à JavaScript.
+  id: wasm-pack adalah alat untuk membangun dan menggunakan WebAssembly yang dihasilkan Rust yang mudah diintegrasikan dengan JavaScript.
+  it: wasm-pack è uno strumento per compilare e usare WebAssembly generato da Rust, facilmente integrabile con JavaScript.
+  ja: wasm-pack は Rust で生成された WebAssembly をビルドして使うためのツールで、JavaScript と簡単に統合できます。
+  ko: wasm-pack는 Rust로 생성된 WebAssembly를 빌드하고 사용하기 위한 도구로, JavaScript와 쉽게 통합할 수 있습니다.
+  pl: wasm-pack to narzędzie do budowania i używania WebAssembly generowanego przez Rust, które łatwo zintegrować z JavaScript.
+  pt: wasm-pack é uma ferramenta para compilar e usar WebAssembly gerado pelo Rust que pode ser facilmente integrado com JavaScript.
+  ro: wasm-pack este un instrument pentru construirea și utilizarea WebAssembly generat de Rust, care poate fi integrat cu ușurință în JavaScript.
+  ru: wasm-pack — это инструмент для сборки и использования WebAssembly, сгенерированного Rust, который легко интегрируется с JavaScript.
+  th: wasm-pack เป็นเครื่องมือสำหรับสร้างและใช้ WebAssembly ที่สร้างโดย Rust ซึ่งสามารถรวมเข้ากับ JavaScript ได้อย่างง่ายดาย
+  tr: wasm-pack, JavaScript ile kolayca entegre edilebilen Rust ile oluşturulmuş WebAssembly derlemek ve kullanmak için bir araçtır.
+  uk: wasm-pack — це інструмент для збирання та використання WebAssembly, згенерованого Rust, який легко інтегрується з JavaScript.
+  vi: wasm-pack là công cụ để build và sử dụng WebAssembly được tạo bởi Rust, dễ dàng tích hợp với JavaScript.
 x:
   source: https://github.com/wasm-bindgen/wasm-pack
   brew: wasm-pack

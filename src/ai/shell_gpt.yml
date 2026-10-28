@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 由 GPT-5 等 AI 大模型驱动的命令行生产力工具，助你更快更高效地完成任务
   en: A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+  cs: Nástroj pro produktivitu v příkazové řádce poháněný velkými jazykovými modely AI, jako je GPT-5, který vám pomůže dokončit úkoly rychleji a efektivněji.
+  de: Ein Kommandozeilen-Produktivitätstool, angetrieben von großen KI-Sprachmodellen wie GPT-5, das Ihnen hilft, Aufgaben schneller und effizienter zu erledigen.
+  es: Una herramienta de productividad de línea de comandos impulsada por grandes modelos de lenguaje de IA como GPT-5, que te ayuda a completar tus tareas más rápido y con mayor eficiencia.
+  fr: Un outil de productivité en ligne de commande propulsé par de grands modèles de langage d'IA comme GPT-5, qui vous aide à accomplir vos tâches plus rapidement et plus efficacement.
+  id: Alat produktivitas baris perintah bertenaga model bahasa besar AI seperti GPT-5, membantu Anda menyelesaikan tugas lebih cepat dan efisien.
+  it: Uno strumento di produttività da riga di comando basato su grandi modelli linguistici AI come GPT-5, che ti aiuta a portare a termine i tuoi compiti più velocemente e con maggiore efficienza.
+  ja: GPT-5 などの AI 大言語モデルで動くコマンドライン生産性ツールで、より速く効率的にタスクを完了できます。
+  ko: GPT-5 같은 AI 대형 언어 모델로 구동되는 명령줄 생산성 도구로, 더 빠르고 효율적으로 작업을 마칠 수 있습니다.
+  pl: Narzędzie produktywności w wierszu poleceń napędzane dużymi modelami językowymi AI, takimi jak GPT-5, które pomoże Ci szybciej i sprawniej realizować zadania.
+  pt: Uma ferramenta de produtividade de linha de comando alimentada por grandes modelos de linguagem de IA como o GPT-5, que ajudam você a realizar suas tarefas mais rápido e com mais eficiência.
+  ro: Un instrument de productivitate din linia de comandă, susținut de modele mari de limbaj AI precum GPT-5, care vă ajută să vă îndepliniți sarcinile mai rapid și mai eficient.
+  ru: Инструмент повышения продуктивности в командной строке на основе больших языковых моделей ИИ, таких как GPT-5, который поможет выполнять задачи быстрее и эффективнее.
+  th: เครื่องมือเพิ่มประสิทธิภาพบนบรรทัดคำสั่งที่ขับเคลื่อนด้วยโมเดลภาษาขนาดใหญ่ของ AI เช่น GPT-5 ช่วยให้คุณทำงานได้เร็วและมีประสิทธิภาพมากขึ้น
+  tr: GPT-5 gibi büyük dil modelleriyle çalışan, görevlerinizi daha hızlı ve verimli bir şekilde tamamlamanıza yardımcı olan komut satırı üretkenlik aracı.
+  uk: Інструмент продуктивності в командному рядку на основі великих мовних моделей ШІ, таких як GPT-5, який допоможе вам виконувати завдання швидше та ефективніше.
+  vi: Công cụ năng suất dòng lệnh được hỗ trợ bởi các mô hình ngôn ngữ lớn AI như GPT-5, giúp bạn hoàn thành công việc nhanh chóng và hiệu quả hơn.
 x:
   source: https://github.com/TheR1D/shell_gpt
   eget: TheR1D/shell_gpt

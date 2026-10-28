@@ -4,6 +4,22 @@ license: Apache-2.0
 desc:
   cn: NLTK（自然语言工具包）是一套开源 Python 模块、数据集和教程，支持自然语言处理的研究和开发。
   en: NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+  cs: NLTK – Natural Language Toolkit – je sada open source modulů Pythonu, datových sad a tutoriálů podporujících výzkum a vývoj v oblasti zpracování přirozeného jazyka.
+  de: NLTK -- das Natural Language Toolkit -- ist eine Sammlung quelloffener Python-Module, Datensätze und Tutorials zur Unterstützung von Forschung und Entwicklung im Bereich der Verarbeitung natürlicher Sprache.
+  es: "NLTK: el Natural Language Toolkit es un conjunto de módulos de Python de código abierto, conjuntos de datos y tutoriales que respaldan la investigación y el desarrollo en el procesamiento de lenguaje natural."
+  fr: NLTK -- le Natural Language Toolkit -- est un ensemble de modules Python open source, de jeux de données et de tutoriels soutenant la recherche et le développement en traitement automatique des langues.
+  id: NLTK -- Natural Language Toolkit -- adalah rangkaian modul Python sumber terbuka, kumpulan data, dan tutorial yang mendukung riset dan pengembangan dalam Pemrosesan Bahasa Alami.
+  it: NLTK -- il Natural Language Toolkit -- è una suite di moduli Python open source, set di dati e tutorial che supportano ricerca e sviluppo nell'elaborazione del linguaggio naturale.
+  ja: NLTK（自然言語ツールキット）は、自然言語処理の研究と開発を支援するオープンソースの Python モジュール、データセット、チュートリアルの一式です。
+  ko: NLTK(Natural Language Toolkit)는 자연어 처리 연구와 개발을 지원하는 오픈소스 Python 모듈, 데이터셋, 튜토리얼 모음입니다.
+  pl: NLTK -- Natural Language Toolkit -- to zestaw open source'owych modułów Pythona, zbiorów danych i samouczków wspierających badania i rozwój w dziedzinie przetwarzania języka naturalnego.
+  pt: O NLTK -- Natural Language Toolkit -- é um conjunto de módulos Python de código aberto, conjuntos de dados e tutoriais que apoiam pesquisa e desenvolvimento em Processamento de Linguagem Natural.
+  ro: NLTK -- Natural Language Toolkit -- este o suită de module Python open source, seturi de date și tutoriale care susțin cercetarea și dezvoltarea în Prelucrarea Limbajului Natural.
+  ru: NLTK -- Natural Language Toolkit -- это набор open source модулей Python, наборов данных и руководств, поддерживающих исследования и разработку в области обработки естественного языка.
+  th: NLTK -- Natural Language Toolkit -- คือชุดโมดูล Python โอเพนซอร์ส ชุดข้อมูล และบทเรียนที่สนับสนุนงานวิจัยและพัฒนาในสาขาการประมวลผลภาษาธรรมชาติ
+  tr: NLTK -- Natural Language Toolkit --, Doğal Dil İşleme alanında araştırma ve geliştirmeyi destekleyen bir dizi açık kaynak Python modülü, veri seti ve öğretici.
+  uk: NLTK -- Natural Language Toolkit -- це набір відкритих модулів Python, наборів даних і посібників, які підтримують дослідження та розробку в галузі обробки природної мови.
+  vi: NLTK -- Natural Language Toolkit -- là bộ sưu tập mô-đun Python mã nguồn mở, bộ dữ liệu và hướng dẫn hỗ trợ nghiên cứu và phát triển trong Xử lý Ngôn ngữ Tự nhiên.
 x:
   source: https://github.com/nltk/nltk
 rule:

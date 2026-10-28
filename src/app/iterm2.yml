@@ -3,6 +3,22 @@ homepage: https://iterm2.com/
 desc:
   cn: iTerm2 是一个适用于 macOS 的终端模拟器，具有强大的功能。
   en: iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+  cs: iTerm2 je emulátor terminálu pro Mac OS X, který umí úžasné věci.
+  de: iTerm2 ist ein Terminalemulator für Mac OS X, der erstaunliche Dinge kann.
+  es: iTerm2 es un emulador de terminal para Mac OS X que hace cosas sorprendentes.
+  fr: iTerm2 est un émulateur de terminal pour Mac OS X qui accomplit des choses extraordinaires.
+  id: iTerm2 adalah emulator terminal untuk Mac OS X yang melakukan hal luar biasa.
+  it: iTerm2 è un emulatore di terminale per Mac OS X che fa cose incredibili.
+  ja: iTerm2はMac OS X向けのターミナルエミュレータで、素晴らしい機能を実現します。
+  ko: iTerm2는 Mac OS X용 터미널 에뮬레이터로 놀라운 일을 할 수 있습니다.
+  pl: iTerm2 to emulator terminala dla Mac OS X, który potrafi niezwykłe rzeczy.
+  pt: O iTerm2 é um emulador de terminal para Mac OS X que faz coisas incríveis.
+  ro: iTerm2 este un emulator de terminal pentru Mac OS X care face lucruri incredibile.
+  ru: iTerm2 — эмулятор терминала для Mac OS X, умеющий творить чудеса.
+  th: iTerm2 คือโปรแกรมจำลองเทอร์มินัลสำหรับ Mac OS X ที่ทำสิ่งที่น่าทึ่งได้
+  tr: iTerm2, harika işler yapabilen bir Mac OS X terminal emülatörüdür.
+  uk: iTerm2 — емулятор термінала для Mac OS X, який вміє дивовиті речі.
+  vi: iTerm2 là trình giả lập terminal cho Mac OS X với những khả năng tuyệt vời.
 rule:
   darwin/brew:
     cmd: brew install --cask iterm2

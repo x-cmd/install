@@ -12,6 +12,22 @@ desc:
     Editly allows you to easily and programmatically create a video from a set of clips, images, audio and titles, with smooth transitions and music overlaid
 
     '
+  cs: Editly je nástroj a framework pro deklarativní NLE (ne-lineární střih videí) s využitím Node.js a ffmpeg. Editly vám umožňuje snadno a programově vytvořit video z klipů, obrázků, zvuku a titulků, s plynulými přechody a hudbou v pozadí
+  de: Editly ist ein Werkzeug und Framework für deklaratives NLE (nichtlineares Video-Editing) mit Node.js und ffmpeg. Editly ermöglicht es, ganz einfach programmatisch ein Video aus Clips, Bildern, Audio und Titel mit weichen Übergängen und unterlegter Musik zu erstellen
+  es: Editly es una herramienta y un framework para NLE declarativo (edición de video no lineal) usando Node.js y ffmpeg. Editly te permite crear de forma fácil y programática un vídeo a partir de clips, imágenes, audio y títulos, con transiciones suaves y música superpuesta
+  fr: Editly est un outil et un framework pour le NLE déclaratif (montage vidéo non linéaire) utilisant Node.js et ffmpeg. Editly vous permet de créer facilement et par programme une vidéo à partir d'un ensemble de clips, d'images, de sons et de titres, avec des transitions fluides et de la musique superposée
+  id: Editly adalah alat dan framework untuk NLE deklaratif (edit video non-linear) menggunakan Node.js dan ffmpeg. Editly memungkinkan Anda dengan mudah membuat video secara terprogram dari kumpulan klip, gambar, audio, dan judul, dengan transisi halus dan musik yang ditumpuk
+  it: Editly è uno strumento e un framework per NLE dichiarativo (montaggio video non lineare) che usa Node.js e ffmpeg. Editly ti permette di creare facilmente e in modo programmatico un video da un insieme di clip, immagini, audio e titoli, con transizioni fluide e musica sovrapposta
+  ja: Editly は Node.js と ffmpeg を使った宣言型 NLE（非線形動画編集）のツールとフレームワークです。Editly はクリップ、画像、音声、タイトルの一式から、スムーズなトランジションと重ねられた音楽付きの動画をプログラムで作成できます
+  ko: Editly는 Node.js와 ffmpeg를 사용하는 선언적 NLE(비선형 영상 편집) 도구이자 프레임워크입니다. Editly는 클립, 이미지, 오디오, 타이틀 세트로 부드러운 전환과 음악 오버레이가 있는 영상을 쉽고 프로그래밍 방식으로 만들 수 있게 해줍니다
+  pl: Editly to narzędzie i framework do deklaratywnego NLE (nieliniowej edycji wideo) z użyciem Node.js i ffmpeg. Editly pozwala łatwo i programowo tworzyć filmy z zestawu klipów, obrazów, dźwięku i tytułów, z płynnymi przejściami i nałożoną muzyką
+  pt: Editly é uma ferramenta e um framework para NLE declarativo (edição de vídeo não linear) usando Node.js e ffmpeg. O Editly permite criar de forma fácil e programática um vídeo a partir de um conjunto de clipes, imagens, áudio e títulos, com transições suaves e música sobreposta
+  ro: Editly este un instrument și un cadru pentru NLE declarativ (montaj video non-liniar) folosind Node.js și ffmpeg. Editly vă permite să creați cu ușurință și programatic un video dintr-o mulțime de clipuri, imagini, audio și titluri, cu tranziții line și muzică suprapusă
+  ru: Editly — инструмент и фреймворк для декларативного NLE (нелинейного видеомонтажа) на базе Node.js и ffmpeg. Editly позволяет легко и программно создавать видео из набора клипов, изображений, аудио и заголовков, с плавными переходами и наложенной музыкой
+  th: Editly เป็นเครื่องมือและเฟรมเวิร์กสำหรับ NLE แบบประกาศ (การตัดต่อวิดีโอแบบไม่เชิงเส้น) โดยใช้ Node.js และ ffmpeg. Editly ช่วยให้คุณสร้างวิดีโอจากชุดคลิป รูปภาพ เสียง และชื่อเรื่องได้อย่างง่ายดายด้วยการเขียนโปรแกรม พร้อมการเปลี่ยนภาพที่ลื่นไหลและเสียงเพลงซ้อนทับ
+  tr: Editly, Node.js ve ffmpeg kullanarak bildirimsel NLE (doğrusal olmayan video düzenleme) için bir araç ve çerçevedir. Editly, geçişleri yumuşak ve üzerine müzik eklenmiş bir video oluşturmanıza, klipler, görseller, ses ve başlıklardan oluşan bir küme ile kolayca ve programatik olarak imkân verir
+  uk: Editly — інструмент і фреймворк для декларативного NLE (нелінійного відеомонтажу) на базі Node.js та ffmpeg. Editly дозволяє легко й програмно створювати відео з набору кліпів, зображень, аудіо та заголовків, з плавними переходами і накладеною музикою
+  vi: Editly là công cụ và framework cho NLE khai báo (chỉnh sửa video phi tuyến) sử dụng Node.js và ffmpeg. Editly cho phép bạn dễ dàng và theo chương trình tạo video từ một bộ clip, hình ảnh, âm thanh và tiêu đề, với các chuyển động mượt mà và nhạc nền chồng lên
 x:
   source: https://github.com/mifi/editly
   yay: nodejs-editly

@@ -4,6 +4,22 @@ license: mit
 desc:
   cn: 为 LLM 与 AI 代码编辑器提供最新代码文档的平台
   en: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+  cs: Context7 Platform -- aktuální dokumentace kódu pro LLM a AI editory kódu
+  de: Context7 Platform -- aktuelle Code-Dokumentation für LLMs und KI-Code-Editoren
+  es: Context7 Platform -- documentación de código actualizada para LLMs y editores de código de IA
+  fr: Context7 Platform -- documentation de code à jour pour les LLM et les éditeurs de code IA
+  id: Context7 Platform -- dokumentasi kode terkini untuk LLM dan editor kode AI
+  it: Context7 Platform -- documentazione del codice aggiornata per LLM ed editor di codice IA
+  ja: Context7 Platform -- LLM と AI コードエディター向けの最新のコードドキュメント
+  ko: Context7 Platform -- LLM과 AI 코드 편집기를 위한 최신 코드 문서
+  pl: Context7 Platform -- aktualna dokumentacja kodu dla LLM i edytorów kodu AI
+  pt: Context7 Platform -- documentação de código atualizada para LLMs e editores de código com IA
+  ro: Context7 Platform -- documentație de cod actualizată pentru LLM-uri și editori de cod AI
+  ru: Context7 Platform — актуальная документация по коду для LLM и ИИ-редакторов кода
+  th: Context7 Platform -- เอกสารโค้ดล่าสุดสำหรับ LLM และโปรแกรมแก้ไขโค้ด AI
+  tr: Context7 Platform -- LLM'ler ve AI kod editörleri için güncel kod dokümantasyonu
+  uk: Context7 Platform — актуальна документація з коду для LLM та ШІ-редакторів коду
+  vi: Context7 Platform -- tài liệu mã nguồn cập nhật cho LLM và trình soạn thảo mã AI
 x:
   source: https://github.com/upstash/context7
   npm: "@upstash/context7-mcp"

@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: termscp 是一个功能丰富的终端文件传输和浏览器，支持 SCP/SFTP/FTP/S3
   en: Termscp is a feature rich terminal file transfer and explorer, with support for SCP/SFTP/FTP/S3
+  cs: Termscp je plný funkcí terminálový nástroj pro přenos a procházení souborů, podporuje SCP/SFTP/FTP/S3
+  de: Termscp ist ein funktionsreiches Terminal-Programm zur Dateiübertragung und zum Durchsuchen mit Unterstützung für SCP/SFTP/FTP/S3
+  es: Termscp es una herramienta de terminal rica en funciones para transferir y explorar archivos, con soporte para SCP/SFTP/FTP/S3
+  fr: Termscp est un outil de terminal riche en fonctionnalités pour le transfert et l'exploration de fichiers, avec prise en charge de SCP/SFTP/FTP/S3
+  id: Termscp adalah terminal file transfer dan penjelajah yang kaya fitur, dengan dukungan SCP/SFTP/FTP/S3
+  it: Termscp è un ricco strumento da terminale per il trasferimento e l'esplorazione dei file, con supporto per SCP/SFTP/FTP/S3
+  ja: Termscp は機能豊富なターミナル用ファイル転送・閲覧ツールで、SCP/SFTP/FTP/S3 に対応しています
+  ko: Termscp는 SCP/SFTP/FTP/S3를 지원하는 다기능 터미널 파일 전송 및 탐색 도구입니다
+  pl: Termscp to bogaty w funkcje terminalowy program do przesyłania i przeglądania plików, obsługujący SCP/SFTP/FTP/S3
+  pt: O Termscp é uma ferramenta de terminal completa para transferência e exploração de arquivos, com suporte a SCP/SFTP/FTP/S3
+  ro: Termscp este un terminal bogat în funcții pentru transferul și explorarea fișierelor, cu suport pentru SCP/SFTP/FTP/S3
+  ru: Termscp — многофункциональный терминальный инструмент для передачи и просмотра файлов с поддержкой SCP/SFTP/FTP/S3
+  th: Termscp เป็นเครื่องมือเทอร์มินัลสำหรับถ่ายโอนและเรียกดูไฟล์ พร้อมรองรับ SCP/SFTP/FTP/S3
+  tr: Termscp, SCP/SFTP/FTP/S3 desteği olan, özellik açısından zengin bir terminal dosya aktarım ve gezgin aracıdır
+  uk: Termscp — багатофункціональний термінальний інструмент для передачі та перегляду файлів із підтримкою SCP/SFTP/FTP/S3
+  vi: Termscp là công cụ terminal đa tính năng để truyền và duyệt tập tin, hỗ trợ SCP/SFTP/FTP/S3
 x:
   source: https://github.com/veeso/termscp
   eget: veeso/termscp
