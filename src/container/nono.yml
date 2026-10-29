@@ -1,5 +1,5 @@
 lang: Rust
-homepage: https://github.com/always-further/nono
+homepage: https://github.com/nolabs-ai/nono
 license: Apache-2.0
 desc:
   cn: 为 AI 代理、MCP 和 LLM 工作负载提供安全、内核强制执行的沙箱
@@ -21,31 +21,25 @@ desc:
   uk: Безпечна пісочниця з примусовим застосуванням на рівні ядра для AI-агентів, MCP та робочих навантажень LLM.
   vi: Sandbox an toàn được thực thi ở cấp kernel cho các agent AI, MCP và tải làm việc LLM.
 x:
-  source: https://github.com/always-further/nono
-  eget: always-further/nono
+  source: https://github.com/nolabs-ai/nono
+  eget: nolabs-ai/nono
   brew: nono
   yay: nono-ai
   cargo: nono-cli
 rule:
   /eget:
-    cmd: x eget always-further/nono
+    cmd: x eget nolabs-ai/nono
     reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://nono.sh/install.sh | sh
+    reference: https://github.com/nolabs-ai/nono#quickstart
   darwin/brew:
     cmd: brew install nono
     reference: https://nono.sh/
   arch/yay:
     cmd: yay -S nono-ai
-    reference: https://aur.archlinux.org/packages/nono-ai
-  /cargo:
-    cmd: cargo install nono-cli
-    reference: https://nono.sh/
-  (debian|ubuntu)/curl:
-    cmd: |
-      VERSION=$(curl -sI https://github.com/always-further/nono/releases/latest | grep -i location | grep -oP 'v\K[0-9.]+')
-      ARCH=$(dpkg --print-architecture)
-      wget https://github.com/always-further/nono/releases/download/v${VERSION}/nono-cli_${VERSION}_${ARCH}.deb
-      sudo dpkg -i nono-cli_${VERSION}_${ARCH}.deb
-    reference: https://nono.sh/docs/cli/getting_started/installation
+    reference: https://nono.sh/docs/cli/getting_started/installation#arch-linux-aur
+
 binlist:
 - nono
 
