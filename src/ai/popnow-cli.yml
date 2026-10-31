@@ -1,0 +1,16 @@
+lang: TypeScript
+homepage: https://popnow.ai
+license: MIT
+desc:
+  cn: PopNow 官方命令行客户端，通过商业 API 生成视频、图像、音乐和语音；计费操作先报价确认。需要 Node.js 22.12 或更新版本。
+  en: Official PopNow CLI for video, image, music and speech generation through the commercial API, with price confirmation before paid runs. Requires Node.js 22.12 or newer.
+x:
+  source: https://github.com/popnow-ai/popnow-cli
+  npm: '@popnow/cli'
+rule:
+  /npm:
+    cmd: npm install -g @popnow/cli
+    reference: https://github.com/popnow-ai/popnow-cli#quickstart
+    dsnap: '@popnow/cli'
+binlist:
+  - popnow
