@@ -1,0 +1,21 @@
+lang: TypeScript
+homepage: https://github.com/yylo-dev/yylo
+license: MIT
+
+desc:
+  cn: AI 编码代理的命令行编排器：任务驱动的工作流、可复现变更与带回执的仓库改动。
+  en: Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
+
+x:
+  source: https://github.com/yylo-dev/yylo
+  npm: "@yylo/cli"
+
+rule:
+  /npm:
+    cmd: npm install -g @yylo/cli
+    reference: https://github.com/yylo-dev/yylo#readme
+    dsnap: '@yylo/cli'
+
+binlist:
+- yylo
+- yy
