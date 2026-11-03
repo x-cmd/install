@@ -5,6 +5,22 @@ license: MIT
 desc:
   cn: 终端里的图渲染器与编辑器：正交框线走线、无限画布、缩放/平移，支持 .gtui、.dot 与 JSON Canvas。
   en: Graph renderer and editor for the terminal with orthogonal box-drawing edges, an infinite canvas, and pan/zoom; reads .gtui, .dot, and JSON Canvas.
+  cs: Grafový renderer a editor pro terminál s ortogonálními hranicemi z rastrových znaků, nekonečným plátnem a přibližováním/posouváním; čte .gtui, .dot a JSON Canvas.
+  de: Graph-Renderer und Editor für das Terminal mit orthogonalen Box-Drawing-Kanten, einer unendlichen Arbeitsfläche und Zoom/Pan; liest .gtui, .dot und JSON Canvas.
+  es: Renderizador y editor de grafos para el terminal con aristas ortogonales de caracteres de recuadro, un lienzo infinito y zoom/panorámica; lee .gtui, .dot y JSON Canvas.
+  fr: Moteur de rendu et éditeur de graphes pour le terminal avec des arêtes orthogonales en caractères de dessin de cadre, un canevas infini et le zoom/panoramique ; lit .gtui, .dot et JSON Canvas.
+  id: Perender dan editor graf untuk terminal dengan tepi gambar kotak ortogonal, kanvas tak terbatas, serta zoom/geser; membaca .gtui, .dot, dan JSON Canvas.
+  it: Renderer ed editor di grafi per il terminale con bordi ortogonali a caratteri box-drawing, una tela infinita e pan/zoom; legge .gtui, .dot e JSON Canvas.
+  ja: ターミナル向けグラフ描画・エディター。直交する罫線エッジ、無限キャンバス、ズーム/パンに対応し、.gtui、.dot、JSON Canvas を読み込みます。
+  ko: 터미널용 그래프 렌더러 및 편집기. 직교 상자 그리기 선, 무한 캔버스, 확대/이동을 지원하며 .gtui, .dot, JSON Canvas를 읽습니다.
+  pl: Renderer i edytor grafów dla terminala z ortogonalnymi krawędziami rysowanymi znakami, nieskończonym płótnem oraz zoomem/przesuwaniem; czyta .gtui, .dot i JSON Canvas.
+  pt: Renderizador e editor de grafos para o terminal com arestas ortogonais em caracteres de desenho de caixa, uma tela infinita e zoom/pan; lê .gtui, .dot e JSON Canvas.
+  ro: Randator și editor de grafuri pentru terminal cu muchii ortogonale din caractere de desenare a casetelor, o pânză infinită și zoom/panoramare; citește .gtui, .dot și JSON Canvas.
+  ru: Рендерер и редактор графов для терминала с ортогональными рёбрами из псевдографики, бесконечным холстом, масштабированием и панорамированием; читает .gtui, .dot и JSON Canvas.
+  th: โปรแกรมเรนเดอร์และตัวแก้ไขกราฟในเทอร์มินัล พร้อมเส้นเชื่อมมุมฉากแบบกล่อง ผืนผ้าใบไร้ขอบเขต และการซูม/เลื่อน อ่านไฟล์ .gtui, .dot และ JSON Canvas ได้
+  tr: Dikgen kutu çizim karakterlerinden kenarlar, sonsuz tuval ve yakınlaştırma/kaydırma sunan terminal grafik renderlayıcısı ve düzenleyicisi; .gtui, .dot ve JSON Canvas okur.
+  uk: Рендерер і редактор графів для термінала з ортогональними ребрами з псевдографіки, нескінченним полотном, масштабуванням і панорамуванням; читає .gtui, .dot і JSON Canvas.
+  vi: Trình dựng và chỉnh sửa đồ thị trong terminal với các cạnh vẽ khung trực giao, khung vẽ vô hạn, phóng to/di chuyển; đọc .gtui, .dot và JSON Canvas.
 
 x:
   source: https://github.com/mixsoulgithub/graph-tui
@@ -26,3 +42,75 @@ rule:
   /conda:
     cmd: conda install -c https://mixsoulgithub.github.io/conda-channel graph-tui
     reference: https://github.com/mixsoulgithub/conda-channel
+
+binlist:
+- graph-tui
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取图文档（.gtui/.dot/.canvas）与配置文件
+          en: Reads graph documents (.gtui/.dot/.canvas) and its config file
+        sensitive: []
+      write:
+        desc:
+          cn: 保存 .gtui 文档、导出 .svg/.png/.canvas/.dot，并可写入配置文件
+          en: Saves .gtui documents, exports .svg/.png/.canvas/.dot, and can write its config file
+        sensitive: []
+  platform:
+    win: full
+    linux: full
+    darwin: full
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 3 MB
+          rating: 1
+          desc:
+            cn: 安装 3 MB
+            en: 3 MB install
+        download:
+          estimate: 1 MB
+          desc:
+            cn: 约 1 MB 下载 (linux/x64)
+            en: ~1 MB download (linux/x64)
+      paths:
+        data: []
+        config:
+          - "~/.config/graph-tui/config.ini"
+    memory:
+      idle:
+        estimate: 8 MB
+        desc:
+          cn: 8 MB（估算）
+          en: 8 MB estimated
+      peak:
+        estimate: 60 MB
+        desc:
+          cn: 大型图自动布局或导出 PNG 时升高
+          en: Higher on large-graph auto layouts or PNG export
+    cpu:
+      workload: ['compute']
+      processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 等待输入时几乎为零
+          en: Near-zero while waiting for input
+      peak:
+        rating: 2
+        desc:
+          cn: 大规模布局计算与渲染时短暂占用
+          en: Brief load during large layout passes and rendering
