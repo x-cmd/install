@@ -1,0 +1,28 @@
+lang: Rust
+homepage: https://github.com/mixsoulgithub/graph-tui
+license: MIT
+
+desc:
+  cn: 终端里的图渲染器与编辑器：正交框线走线、无限画布、缩放/平移，支持 .gtui、.dot 与 JSON Canvas。
+  en: Graph renderer and editor for the terminal with orthogonal box-drawing edges, an infinite canvas, and pan/zoom; reads .gtui, .dot, and JSON Canvas.
+
+x:
+  source: https://github.com/mixsoulgithub/graph-tui
+  eget: mixsoulgithub/graph-tui
+  cargo: graph-tui
+  brew: mixsoulgithub/tap/graph-tui
+
+rule:
+  /eget:
+    cmd: x eget mixsoulgithub/graph-tui
+    reference: https://github.com/mixsoulgithub/graph-tui/releases
+  /cargo:
+    cmd: cargo install graph-tui
+    reference: https://crates.io/crates/graph-tui
+    dsnap: graph-tui
+  (darwin|linux)/brew:
+    cmd: brew install mixsoulgithub/tap/graph-tui
+    reference: https://github.com/mixsoulgithub/homebrew-tap
+  /conda:
+    cmd: conda install -c https://mixsoulgithub.github.io/conda-channel graph-tui
+    reference: https://github.com/mixsoulgithub/conda-channel
