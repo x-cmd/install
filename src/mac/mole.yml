@@ -1,39 +1,35 @@
 lang: Shell
 homepage: https://github.com/tw93/Mole
-license: MIT
+license: GPL-3.0
 desc:
-  cn: 深度清理并优化您的 Mac 电脑
-  en: Deep clean and optimize your Mac.
-  cs: Hluboce vyčistí a optimalizujte váš Mac.
-  de: Führen Sie eine gründliche Bereinigung und Optimierung Ihres Mac durch.
-  es: Limpia a fondo y optimiza tu Mac.
-  fr: Nettoyez en profondeur et optimisez votre Mac.
-  id: Lakukan pembersihan mendalam dan optimalkan Mac Anda.
-  it: Esegui una pulizia approfondita e ottimizza il tuo Mac.
-  ja: Mac を隅々まで清掃し、最適化します。
-  ko: Mac을 심층 정리하고 최적화합니다.
-  pl: Dokładnie wyczyść i zoptymalizuj swój Mac.
-  pt: Faça uma limpeza profunda e otimize o seu Mac.
-  ro: Curăță profund și optimizează-ți Mac-ul.
-  ru: Глубокая очистка и оптимизация вашего Mac.
-  th: ทำความสะอาดอย่างลึกและปรับแต่ง Mac ของคุณ
-  tr: Mac'inizi derinlemesine temizleyin ve optimize edin.
-  uk: Глибоке очищення та оптимізація вашого Mac.
-  vi: Dọn sạch sâu và tối ưu hóa Mac của bạn.
+  cn: 在终端深度清理、卸载应用、优化系统、分析磁盘占用并实时监控 Mac
+  en: Deep-clean, uninstall apps, optimize, analyze disk and monitor your Mac from the terminal.
+  cs: Hluboce čistí, odinstaluje aplikace, optimalizuje, analyzuje disk a monitoruje váš Mac přímo z terminálu.
+  de: Bereinigt gründlich, deinstalliert Apps, optimiert, analysiert den Speicher und überwacht euren Mac direkt vom Terminal aus.
+  es: Limpia a fondo, desinstala apps, optimiza, analiza el disco y monitoriza tu Mac desde el terminal.
+  fr: Nettoie en profondeur, désinstalle des apps, optimise, analyse le disque et surveille votre Mac depuis le terminal.
+  id: Membersihkan mendalam, mencopot aplikasi, mengoptimalkan, menganalisis disk, dan memantau Mac Anda langsung dari terminal.
+  it: Pulisce a fondo, disinstalla app, ottimizza, analizza il disco e monitora il tuo Mac dal terminale.
+  ja: ターミナルから Mac の徹底清掃、アプリのアンインストール、最適化、ディスク分析、リアルタイム監視を行います。
+  ko: 터미널에서 Mac을 심층 정리하고, 앱을 삭제하고, 최적화하며, 디스크를 분석하고 실시간으로 모니터링합니다.
+  pl: Dogłębnie czyści, odinstalowuje aplikacje, optymalizuje, analizuje dysk i monitoruje Maca z poziomu terminala.
+  pt: Limpa profundamente, desinstala apps, otimiza, analisa o disco e monitoriza o seu Mac a partir do terminal.
+  ro: Curăță profund, dezinstalează aplicații, optimizează, analizează discul și monitorizează Mac-ul din terminal.
+  ru: Глубокая очистка, удаление приложений, оптимизация, анализ диска и мониторинг Mac прямо из терминала.
+  th: ทำความสะอาดเชิงลึก ถอนแอป เพิ่มประสิทธิภาพ วิเคราะห์ดิสก์ และตรวจสอบ Mac แบบเรียลไทม์ผ่านเทอร์มินัล
+  tr: Terminalden Mac'inizi derinlemesine temizler, uygulamaları kaldırır, optimize eder, diski analiz eder ve gerçek zamanlı izler.
+  uk: Глибоке очищення, видалення застосунків, оптимізація, аналіз диска та моніторинг Mac прямо з термінала.
+  vi: Dọn sạch sâu, gỡ ứng dụng, tối ưu, phân tích ổ đĩa và giám sát Mac theo thời gian thực ngay trong terminal.
 x:
   source: https://github.com/tw93/Mole
-  eget: tw93/Mole
-  brew: tw93/tap/mole
+  brew: mole
 rule:
-  /eget:
-    cmd: x eget tw93/Mole
-    reference: https://x-cmd.com/mod/eget
   /curl:
     cmd: curl -fsSL https://raw.githubusercontent.com/tw93/mole/main/install.sh | bash
     reference: https://github.com/tw93/Mole?tab=readme-ov-file#quick-start
   darwin/brew:
-    cmd: brew install tw93/tap/mole
-    reference: https://github.com/tw93/Mole?tab=readme-ov-file#quick-start
+    cmd: brew install mole
+    reference: https://formulae.brew.sh/formula/mole
 binlist:
   - mo
   - mole
@@ -48,40 +44,61 @@ footprint:
       connect:
         localhost: false
         lan: false
-        internet: false
+        internet: true
     filesystem:
       read:
         desc:
-          cn: 读取配置文件
-          en: Reads config files
+          cn: 扫描主目录、/Applications 与磁盘上的缓存、日志和应用残留以分析占用
+          en: Scans the home directory, /Applications and disks for caches, logs and app leftovers
+        sensitive: []
+      write:
+        desc:
+          cn: 删除缓存、日志与应用残留，卸载应用，并写入 ~/.config/mole 配置
+          en: Deletes caches, logs and app leftovers, uninstalls apps, and writes ~/.config/mole config
         sensitive: []
   platform:
-    win: full
-    linux: none
+    win: partial
+    linux: partial
     darwin: full
   resource:
     disk:
       size:
         install:
-          estimate: 87 KB
+          estimate: 9 MB
           rating: 1
           desc:
-            cn: 约 87 KB（估算）
-            en: ~87 KB estimated
+            cn: 约 9 MB（mo/mole 脚本及 analyze、status 辅助二进制）
+            en: ~9 MB (mo/mole scripts plus analyze and status helper binaries)
+        download:
+          estimate: 3 MB
+          desc:
+            cn: 约 3 MB 下载（darwin/arm64 辅助二进制包）
+            en: ~3 MB download (darwin/arm64 helper binaries)
       paths:
         data: []
-        config: []
+        config:
+          - ~/.config/mole
     memory:
       idle:
         estimate: 5 MB
         desc:
           cn: 5 MB（估算）
           en: 5 MB estimated
+      peak:
+        estimate: 30 MB
+        desc:
+          cn: 分析大型目录或实时监控时升高
+          en: Higher while analyzing large directories or live monitoring
     cpu:
       workload: ['io']
       processes: 1
+      idle:
+        rating: 0
+        desc:
+          cn: 菜单等待输入时几乎为零
+          en: Near-zero while waiting at the menu
       peak:
         rating: 2
         desc:
-          cn: 极低
-          en: Negligible
+          cn: 扫描与清理大量文件时短暂占用
+          en: Brief load while scanning and cleaning large numbers of files
