@@ -1,0 +1,86 @@
+lang: TypeScript
+homepage: https://backupdrill.com
+license: MIT
+
+desc:
+  cn: 把 Supabase 项目的 Postgres 数据库（添加 Storage 的 S3 密钥后也包括 Storage 文件）备份到你自己的 S3 兼容存储桶，并在临时的 Docker Postgres 里做恢复演练，确认备份能恢复。
+  en: Back up a Supabase project's Postgres database (plus Storage files once you add their S3 keys) to your own S3-compatible bucket, and run restore drills in a throwaway Docker Postgres to check that the backup restores.
+  cs: Zálohuje Postgres databázi projektu Supabase (a po přidání S3 klíčů i soubory ze Storage) do vlastního bucketu kompatibilního s S3 a spouští cvičné obnovy v dočasném Postgresu v Dockeru, aby ověřil, že se záloha dá obnovit.
+  de: Sichert die Postgres-Datenbank eines Supabase-Projekts (nach Hinterlegen der S3-Schlüssel auch die Storage-Dateien) in deinen eigenen S3-kompatiblen Bucket und führt Wiederherstellungsübungen in einem temporären Docker-Postgres aus, um zu prüfen, ob sich das Backup wiederherstellen lässt.
+  es: Hace copias de seguridad de la base de datos Postgres de un proyecto de Supabase (y de los archivos de Storage cuando añades sus claves S3) en tu propio bucket compatible con S3, y ejecuta simulacros de restauración en un Postgres temporal de Docker para comprobar que la copia se puede restaurar.
+  fr: Sauvegarde la base Postgres d'un projet Supabase (et les fichiers Storage une fois leurs clés S3 ajoutées) dans votre propre bucket compatible S3, puis lance des exercices de restauration dans un Postgres Docker jetable pour vérifier que la sauvegarde se restaure.
+  id: Mencadangkan basis data Postgres proyek Supabase (serta file Storage setelah kunci S3-nya ditambahkan) ke bucket kompatibel S3 milik Anda sendiri, lalu menjalankan latihan pemulihan di Postgres Docker sementara untuk memastikan cadangan bisa dipulihkan.
+  it: Esegue il backup del database Postgres di un progetto Supabase (e dei file di Storage dopo aver aggiunto le relative chiavi S3) in un tuo bucket compatibile con S3 ed esegue prove di ripristino in un Postgres Docker temporaneo per verificare che il backup si ripristini.
+  ja: Supabase プロジェクトの Postgres データベース（S3 キーを追加すれば Storage のファイルも）を自分の S3 互換バケットにバックアップし、使い捨ての Docker Postgres で復元訓練を行って、バックアップが復元できることを確認します。
+  ko: Supabase 프로젝트의 Postgres 데이터베이스(S3 키를 추가하면 Storage 파일도)를 직접 소유한 S3 호환 버킷에 백업하고, 임시 Docker Postgres에서 복원 훈련을 실행해 백업이 복원되는지 확인합니다.
+  pl: Tworzy kopię zapasową bazy Postgres projektu Supabase (a po dodaniu kluczy S3 także plików ze Storage) we własnym buckecie zgodnym z S3 i przeprowadza próbne odtworzenia w tymczasowym Postgresie w Dockerze, aby sprawdzić, czy kopię da się odtworzyć.
+  pt: Faz backup do banco Postgres de um projeto Supabase (e dos arquivos do Storage depois que você adiciona as chaves S3) no seu próprio bucket compatível com S3 e executa testes de restauração em um Postgres temporário no Docker para confirmar que o backup pode ser restaurado.
+  ro: Face backup bazei de date Postgres a unui proiect Supabase (și fișierelor din Storage după ce adaugi cheile S3) în propriul bucket compatibil S3 și rulează exerciții de restaurare într-un Postgres Docker temporar, ca să verifice că backupul se poate restaura.
+  ru: Делает резервную копию базы Postgres проекта Supabase (и файлов Storage после настройки S3-ключей) в ваш собственный S3-совместимый бакет и проводит учебное восстановление во временном Postgres в Docker, чтобы проверить, что копия восстанавливается.
+  th: สำรองฐานข้อมูล Postgres ของโปรเจกต์ Supabase (รวมถึงไฟล์ใน Storage เมื่อเพิ่มคีย์ S3 แล้ว) ไปยังบักเก็ตที่รองรับ S3 ของคุณเอง แล้วซ้อมกู้คืนใน Postgres บน Docker แบบชั่วคราว เพื่อตรวจว่าข้อมูลสำรองกู้คืนได้
+  tr: Bir Supabase projesinin Postgres veritabanını (S3 anahtarları eklendikten sonra Storage dosyalarını da) kendi S3 uyumlu bucket'ınıza yedekler ve yedeğin geri yüklenebildiğini doğrulamak için geçici bir Docker Postgres'te geri yükleme tatbikatı yapar.
+  uk: Створює резервну копію бази Postgres проєкту Supabase (і файлів Storage після налаштування S3-ключів) у вашому власному S3-сумісному бакеті та проводить навчальне відновлення в тимчасовому Postgres у Docker, щоб перевірити, що копія відновлюється.
+  vi: Sao lưu cơ sở dữ liệu Postgres của dự án Supabase (cùng các tệp Storage khi đã thêm khóa S3) vào bucket tương thích S3 của riêng bạn, rồi chạy diễn tập khôi phục trên một Postgres Docker tạm thời để kiểm tra bản sao lưu có khôi phục được không.
+
+x:
+  source: https://github.com/backupdrill/cli
+  npm: backupdrill
+
+rule:
+  /npm:
+    cmd: npm install -g backupdrill
+    reference: https://github.com/backupdrill/cli#install
+    dsnap: backupdrill
+
+binlist:
+- backupdrill
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 backupdrill.config.json 配置文件和 BACKUPDRILL_* 环境变量
+          en: Reads backupdrill.config.json and BACKUPDRILL_* environment variables
+        sensitive: []
+      write:
+        desc:
+          cn: 演练和恢复时在系统临时目录建工作目录，用完删除；带 Auth 用户的恢复记录写在 ~/.backupdrill/restores
+          en: Creates working directories under the system temp dir during drills and restores and removes them afterwards; keeps records of restores that include Auth users in ~/.backupdrill/restores
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 21 MB
+          rating: 2
+          desc:
+            cn: 安装 21 MB（含 node_modules）
+            en: 21 MB install (with node_modules)
+      paths:
+        data:
+          - "~/.backupdrill/restores/"
+        config: []
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 约 80 MB（Node.js 进程）
+          en: ~80 MB (Node.js process)
+    cpu:
+      workload: ['io', 'network']
+      processes: 2
+      peak:
+        rating: 2
+        desc:
+          cn: 主要在等网络和 pg_dump / pg_restore
+          en: Mostly waits on the network and on pg_dump / pg_restore
