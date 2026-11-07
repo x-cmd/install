@@ -66,6 +66,11 @@ footprint:
           desc:
             cn: 安装 21 MB（含 node_modules）
             en: 21 MB install (with node_modules)
+        download:
+          estimate: 0.26 MB
+          desc:
+            cn: 约 0.26 MB 下载（npm tarball）
+            en: ~0.26 MB download (npm tarball)
       paths:
         data:
           - "~/.backupdrill/restores/"
@@ -84,3 +89,7 @@ footprint:
         desc:
           cn: 主要在等网络和 pg_dump / pg_restore
           en: Mostly waits on the network and on pg_dump / pg_restore
+  platform:
+    win: partial
+    linux: full
+    darwin: full

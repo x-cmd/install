@@ -4,6 +4,22 @@ license: MIT
 desc:
   cn: PopNow 官方命令行客户端，通过商业 API 生成视频、图像、音乐和语音；计费操作先报价确认。需要 Node.js 22.12 或更新版本。
   en: Official PopNow CLI for video, image, music and speech generation through the commercial API, with price confirmation before paid runs. Requires Node.js 22.12 or newer.
+  cs: Oficiální CLI PopNow pro generování videa, obrázků, hudby a řeči prostřednictvím komerčního API s potvrzením ceny před zpoplatněnými úlohami. Vyžaduje Node.js 22.12 nebo novější.
+  de: Offizielles PopNow-CLI zur Generierung von Videos, Bildern, Musik und Sprache über die kommerzielle API, mit Preisbestätigung vor kostenpflichtigen Aufträgen. Benötigt Node.js 22.12 oder neuer.
+  es: CLI oficial de PopNow para generar vídeos, imágenes, música y voz a través de la API comercial, con confirmación de precio antes de las ejecuciones de pago. Requiere Node.js 22.12 o una versión más reciente.
+  fr: CLI officiel de PopNow pour générer des vidéos, des images, de la musique et de la voix via l'API commerciale, avec confirmation du prix avant les exécutions facturées. Nécessite Node.js 22.12 ou une version plus récente.
+  id: CLI resmi PopNow untuk membuat video, gambar, musik, dan suara melalui API komersial, dengan konfirmasi harga sebelum tugas berbayar. Membutuhkan Node.js 22.12 atau lebih baru.
+  it: CLI ufficiale di PopNow per generare video, immagini, musica e voce tramite l'API commerciale, con conferma del prezzo prima delle esecuzioni a pagamento. Richiede Node.js 22.12 o versione successiva.
+  ja: PopNow の公式 CLI。商用 API 経由で動画、画像、音楽、音声を生成し、課金される実行の前に価格を確認します。Node.js 22.12 以降が必要です。
+  ko: PopNow 공식 CLI로, 상용 API를 통해 영상, 이미지, 음악 및 음성을 생성하며 유료 실행 전에 가격을 확인합니다. Node.js 22.12 이상이 필요합니다.
+  pl: Oficjalne CLI PopNow do generowania wideo, obrazów, muzyki i mowy przez komercyjne API, z potwierdzeniem ceny przed płatnymi uruchomieniami. Wymaga Node.js 22.12 lub nowszego.
+  pt: CLI oficial do PopNow para gerar vídeos, imagens, música e fala por meio da API comercial, com confirmação de preço antes de execuções pagas. Requer Node.js 22.12 ou mais recente.
+  ro: CLI oficial PopNow pentru generarea de videoclipuri, imagini, muzică și voce prin API-ul comercial, cu confirmarea prețului înainte de rulările plătite. Necesită Node.js 22.12 sau mai nou.
+  ru: Официальный CLI PopNow для генерации видео, изображений, музыки и речи через коммерческий API с подтверждением цены перед платными запусками. Требуется Node.js 22.12 или новее.
+  th: CLI อย่างเป็นทางการของ PopNow สำหรับสร้างวิดีโอ รูปภาพ เพลงและเสียงพูดผ่าน API เชิงพาณิชย์ โดยยืนยันราคาก่อนเรียกเก็บเงิน ต้องใช้ Node.js 22.12 ขึ้นไป
+  tr: Ücretli çalıştırmalardan önce fiyat onayı alan, ticari API üzerinden video, görüntü, müzik ve konuşma üretimi için resmi PopNow CLI'si. Node.js 22.12 veya daha yeni bir sürüm gerektirir.
+  uk: Офіційний CLI PopNow для генерування відео, зображень, музики та мовлення через комерційний API із підтвердженням ціни перед платними запусками. Потребує Node.js 22.12 або новішої версії.
+  vi: CLI chính thức của PopNow để tạo video, hình ảnh, nhạc và giọng nói qua API thương mại, với xác nhận giá trước các lần chạy tính phí. Yêu cầu Node.js 22.12 trở lên.
 x:
   source: https://github.com/popnow-ai/popnow-cli
   npm: '@popnow/cli'
@@ -14,3 +30,62 @@ rule:
     dsnap: '@popnow/cli'
 binlist:
   - popnow
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 从环境变量读取 POPNOW_API_KEY、POPNOW_BASE_URL 等配置，不使用配置文件
+          en: Reads POPNOW_API_KEY, POPNOW_BASE_URL and other settings from environment variables; no config file
+        sensitive: []
+      write:
+        desc:
+          cn: 把 agent skills 安装到 ~/.claude/skills 等代理目录；生成的媒体保留在服务端，不写本地输出目录
+          en: Installs agent skills under agent dirs such as ~/.claude/skills; generated media stays server-side, no local output directory
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 0.3 MB
+          rating: 1
+          desc:
+            cn: 安装 0.3 MB（npm 解包后，含 commander 依赖）
+            en: 0.3 MB install (npm unpacked, including commander)
+        download:
+          estimate: 55 KB
+          desc:
+            cn: 约 55 KB 下载（npm tarball）
+            en: ~55 KB download (npm tarball)
+      paths:
+        data:
+          - "~/.claude/skills/popnow-*/"
+        config: []
+    memory:
+      idle:
+        estimate: 60 MB
+        desc:
+          cn: 约 60 MB（Node.js 进程，估算）
+          en: ~60 MB (Node.js process, estimated)
+    cpu:
+      workload: ['io', 'network']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低，生成任务在云端执行，本地主要等待 API 响应
+          en: Negligible — generation runs in the cloud, the local process mostly waits on API responses
+  platform:
+    win: full
+    linux: full
+    darwin: full

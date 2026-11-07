@@ -1,0 +1,32 @@
+# shellcheck shell=dash
+#
+# 用法:
+#   x ws lint <file>...      检查指定的 YAML 文件
+#
+# 示例:
+#   x ws lint src/ai/claude-code.yml
+#   x ws lint src/ai/*.yml
+#
+# 检查内容:
+#   1. yaml-lint:   YAML 语法校验
+#   2. ajv-cli:     基于 install.schema.json 的 JSON Schema 校验
+
+main(){
+    WORK_DIR="$(x wsroot)"
+
+    local file=
+    for file in "$@"; do
+        [ -f "$file" ] || x:error "文件不存在 -> $file"
+        x:info "开始检查 -> $file"
+
+        x:info "  [1/2] yaml-lint: 检查 YAML 语法（缩进、引号、结构是否合法）..."
+        x bun x yaml-lint "$file" || x:error "yaml-lint 校验失败"
+
+        x:info "  [2/2] ajv-cli: 基于 Schema 校验文件结构（必填字段、类型、嵌套格式是否合规范）..."
+        x bun x ajv-cli -s "$WORK_DIR/.vscode/install.schema.json" -d "$file" || x:error "ajv-cli 校验失败"
+    done
+}
+
+(
+  main "$@"
+)
