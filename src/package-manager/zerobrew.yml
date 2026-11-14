@@ -1,5 +1,5 @@
 lang: rust
-homepage: https://github.com/lucasgelfond/zerobrew
+homepage: https://github.com/zerobrewhq/zerobrew
 license: apache-2.0
 desc:
   cn: 比 Homebrew 快 5-20 倍的实验性替代品——用 uv 风格架构在 macOS/Linux 管理 Homebrew 包，命令为 zb
@@ -21,15 +21,15 @@ desc:
   uk: Експериментальна альтернатива Homebrew, що працює у 5-20 разів швидше та приносить архітектуру в стилі uv пакетам Homebrew на macOS і Linux
   vi: Giải pháp thay thế thử nghiệm cho Homebrew, nhanh hơn 5-20 lần, mang kiến trúc kiểu uv cho các gói Homebrew trên macOS và Linux
 x:
-  source: https://github.com/lucasgelfond/zerobrew
-  brew: lucasgelfond/zerobrew/zerobrew
+  source: https://github.com/zerobrewhq/zerobrew
+  brew: zerobrewhq/zerobrew
 rule:
   /curl:
     cmd: curl -fsSL https://zerobrew.rs/install | bash
-    reference: https://github.com/lucasgelfond/zerobrew
+    reference: https://github.com/zerobrewhq/zerobrew
   darwin/brew:
-    cmd: brew install lucasgelfond/zerobrew/zerobrew
-    reference: https://github.com/lucasgelfond/zerobrew
+    cmd: brew install zerobrewhq/tap/zerobrew
+    reference: https://github.com/zerobrewhq/zerobrew
 binlist:
 - zb
 
