@@ -1,0 +1,102 @@
+lang: Rust
+homepage: https://github.com/vitosans/rail
+license: MIT OR Apache-2.0
+desc:
+  cn: 面向 Gmail 和 Microsoft 365 的终端邮件客户端，邮件保存在本地 SQLite 并由后台守护进程同步，内置供 AI 代理使用的 MCP 服务器
+  en: A terminal mail client for Gmail and Microsoft 365; keeps mail in a local SQLite store synced by a background daemon, with an MCP server for AI agents
+  cs: Terminálový e-mailový klient pro Gmail a Microsoft 365; poštu uchovává v místní SQLite databázi synchronizované daemonem na pozadí a nabízí MCP server pro AI agenty
+  de: Ein Terminal-E-Mail-Client für Gmail und Microsoft 365; bewahrt E-Mails in einem lokalen SQLite-Speicher auf, der von einem Hintergrund-Daemon synchronisiert wird, mit MCP-Server für KI-Agenten
+  es: Un cliente de correo de terminal para Gmail y Microsoft 365; guarda el correo en un almacén SQLite local sincronizado por un demonio en segundo plano, con un servidor MCP para agentes de IA
+  fr: Un client mail de terminal pour Gmail et Microsoft 365 ; conserve les courriels dans un magasin SQLite local synchronisé par un démon en arrière-plan, avec un serveur MCP pour les agents d'IA
+  id: Klien email terminal untuk Gmail dan Microsoft 365; menyimpan email di penyimpanan SQLite lokal yang disinkronkan daemon latar belakang, dengan server MCP untuk agen AI
+  it: Un client di posta da terminale per Gmail e Microsoft 365; conserva la posta in un archivio SQLite locale sincronizzato da un demone in background, con un server MCP per gli agenti IA
+  ja: Gmail と Microsoft 365 向けのターミナルメールクライアント。メールをローカル SQLite に保存してバックグラウンドデーモンが同期し、AI エージェント用の MCP サーバーを内蔵
+  ko: Gmail 및 Microsoft 365용 터미널 메일 클라이언트. 메일을 로컬 SQLite에 저장하고 백그라운드 데몬이 동기화하며, AI 에이전트용 MCP 서버를 내장
+  pl: Terminalowy klient poczty dla Gmail i Microsoft 365; przechowuje pocztę w lokalnej bazie SQLite synchronizowanej przez demona działającego w tle, z serwerem MCP dla agentów AI
+  pt: Um cliente de e-mail de terminal para Gmail e Microsoft 365; mantém o e-mail num armazenamento SQLite local sincronizado por um daemon em segundo plano, com um servidor MCP para agentes de IA
+  ro: Un client de email în terminal pentru Gmail și Microsoft 365; păstrează corespondența într-un depozit SQLite local sincronizat de un daemon de fundal, cu un server MCP pentru agenți AI
+  ru: Терминальный почтовый клиент для Gmail и Microsoft 365; хранит почту в локальной базе SQLite, которую синхронизирует фоновый демон, со встроенным MCP-сервером для ИИ-агентов
+  th: โปรแกรมรับส่งอีเมลบนเทอร์มินัลสำหรับ Gmail และ Microsoft 365 เก็บจดหมายไว้ในฐานข้อมูล SQLite ในเครื่องที่ซิงค์โดยเดมอนเบื้องหลัง พร้อม MCP เซิร์ฟเวอร์สำหรับ AI เอเจนต์
+  tr: Gmail ve Microsoft 365 için bir terminal e-posta istemcisi; postaları arka plandaki bir demonun eşitlediği yerel bir SQLite deposunda tutar, AI ajanları için bir MCP sunucusuyla gelir
+  uk: Термінальний поштовий клієнт для Gmail і Microsoft 365; зберігає пошту в локальній базі SQLite, яку синхронізує фоновий демон, з вбудованим MCP-сервером для ШІ-агентів
+  vi: Trình khách thư viện dòng lệnh cho Gmail và Microsoft 365; lưu thư trong kho SQLite cục bộ được một daemon nền đồng bộ, kèm máy chủ MCP cho tác nhân AI
+x:
+  source: https://github.com/vitosans/rail
+  eget: vitosans/rail
+  yay: rail-bin
+rule:
+  /eget:
+    cmd: x eget vitosans/rail
+    reference: https://x-cmd.com/mod/eget
+  /yay:
+    cmd: yay -S rail-bin
+    reference: https://github.com/vitosans/rail#arch-linux
+  /cargo:
+    cmd: 'git clone https://github.com/vitosans/rail && cd rail && cargo install --locked --path crates/rail'
+    reference: https://github.com/vitosans/rail#install
+binlist:
+- rail
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'daemon']
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 config.toml 配置、RAIL_*_DIR 环境变量，以及系统密钥环或 1Password 中保存的账户令牌
+          en: Reads config.toml, RAIL_*_DIR environment variables, and account tokens from the OS keyring or 1Password
+        sensitive:
+          - ~/Library/Application Support/rail/secrets.json
+          - ~/.local/share/rail/secrets.json
+      write:
+        desc:
+          cn: 把 SQLite 邮件库 rail.db、草稿附件和日志写入数据目录，在缓存目录存放图片与附件；选用 file 令牌后端时写仅所有者可读的 secrets.json
+          en: Writes the rail.db SQLite mail store, draft attachments and logs under the data dir and caches images and attachments; the file token backend writes an owner-only secrets.json
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 28 MB
+          rating: 2
+          desc:
+            cn: 安装 28 MB（单个 rail 二进制）
+            en: 28 MB install (single rail binary)
+        download:
+          estimate: 12 MB
+          desc:
+            cn: 约 12 MB 下载 (linux/x64 tar.gz)
+            en: ~12 MB download (linux/x64 tar.gz)
+      paths:
+        data:
+          - ~/Library/Application Support/rail/
+          - ~/.local/share/rail/
+        config:
+          - ~/Library/Application Support/rail/config.toml
+          - ~/.config/rail/config.toml
+    memory:
+      idle:
+        estimate: 25 MB
+        desc:
+          cn: 约 25 MB（TUI 与后台同步守护进程，Rust 进程，估算）
+          en: ~25 MB (TUI plus background sync daemon, Rust processes, estimated)
+    cpu:
+      workload: ['io', 'network']
+      processes: 2
+      peak:
+        rating: 2
+        desc:
+          cn: 同步在后台进行，界面操作查询本地 SQLite，CPU 占用很低
+          en: Sync runs in the background while the UI queries local SQLite, so CPU use stays low
+  platform:
+    win: none
+    linux: full
+    darwin: full

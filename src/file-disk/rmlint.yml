@@ -1,0 +1,112 @@
+lang: C
+homepage: https://rmlint.readthedocs.io
+license: GPL-3.0
+desc:
+  cn: 极快的命令行工具，可查找重复文件、空目录、坏软链接等文件系统冗余，并生成可审查的清理脚本
+  en: Extremely fast command-line tool to find duplicate files and other filesystem lint, such as empty directories and broken symlinks, and generate reviewable cleanup scripts
+  cs: Mimořádně rychlý nástroj příkazového řádku pro hledání duplicitních souborů a dalších nežádoucích položek, jako jsou prázdné adresáře a nefunkční symbolické odkazy, a pro generování kontrolovatelných čisticích skriptů
+  de: Extrem schnelles Kommandozeilenwerkzeug zum Finden doppelter Dateien und anderem Dateisystemballast wie leeren Verzeichnissen und defekten Symlinks sowie zum Erzeugen prüfbarer Bereinigungsskripte
+  es: Herramienta de línea de comandos extremadamente rápida para encontrar archivos duplicados y otros elementos innecesarios, como directorios vacíos y enlaces simbólicos rotos, y generar scripts de limpieza revisables
+  fr: Outil en ligne de commande extrêmement rapide pour trouver les fichiers en double et d'autres éléments superflus, comme les répertoires vides et les liens symboliques cassés, et générer des scripts de nettoyage vérifiables
+  id: Alat baris perintah yang sangat cepat untuk menemukan file duplikat dan berkas tak berguna lain seperti direktori kosong dan symlink rusak, serta menghasilkan skrip pembersihan yang dapat diperiksa
+  it: Strumento da riga di comando estremamente veloce per trovare file duplicati e altri elementi superflui, come directory vuote e collegamenti simbolici interrotti, e generare script di pulizia verificabili
+  ja: 重複ファイルや空ディレクトリ、壊れたシンボリックリンクなどの不要な項目を高速に検出し、確認可能なクリーンアップスクリプトを生成するコマンドラインツール
+  ko: 중복 파일, 빈 디렉터리, 깨진 심볼릭 링크 등 파일 시스템의 불필요한 항목을 매우 빠르게 찾고 검토 가능한 정리 스크립트를 생성하는 명령줄 도구
+  pl: Niezwykle szybkie narzędzie wiersza poleceń do wyszukiwania zduplikowanych plików i innych zbędnych elementów, takich jak puste katalogi i uszkodzone dowiązania symboliczne, oraz generowania skryptów czyszczących do weryfikacji
+  pt: Ferramenta de linha de comando extremamente rápida para encontrar arquivos duplicados e outros itens desnecessários, como diretórios vazios e links simbólicos quebrados, e gerar scripts de limpeza revisáveis
+  ro: Instrument de linie de comandă extrem de rapid pentru găsirea fișierelor duplicate și a altor elemente inutile, precum directoare goale și legături simbolice defecte, și pentru generarea de scripturi de curățare verificabile
+  ru: Чрезвычайно быстрый инструмент командной строки для поиска дубликатов файлов и другого лишнего содержимого, например пустых каталогов и битых символических ссылок, с созданием проверяемых сценариев очистки
+  th: เครื่องมือบรรทัดคำสั่งที่รวดเร็วมากสำหรับค้นหาไฟล์ซ้ำและรายการไม่จำเป็นอื่น เช่น ไดเรกทอรีว่างและ symlink ที่เสีย พร้อมสร้างสคริปต์ล้างข้อมูลที่ตรวจสอบได้
+  tr: Yinelenen dosyaları ve boş dizinler ile bozuk sembolik bağlantılar gibi diğer gereksiz dosya sistemi öğelerini bulmak ve incelenebilir temizlik betikleri oluşturmak için son derece hızlı komut satırı aracı
+  uk: Надзвичайно швидкий інструмент командного рядка для пошуку дублікатів файлів та інших непотрібних елементів, як-от порожніх каталогів і зламаних символічних посилань, із генерацією перевіряємих сценаріїв очищення
+  vi: Công cụ dòng lệnh cực nhanh để tìm tệp trùng lặp và các mục không cần thiết khác như thư mục rỗng và liên kết tượng trưng hỏng, đồng thồi tạo kịch bản dọn dẹp có thể kiểm tra
+x:
+  source: https://github.com/sahib/rmlint
+  apt: rmlint
+  dnf: rmlint
+  brew: rmlint
+  apk: rmlint
+  nix: rmlint
+  yay: rmlint
+rule:
+  /apt:
+    cmd: sudo apt install rmlint
+    reference: https://rmlint.readthedocs.io/en/latest/install.html#debian-ubuntu-raspberry-pi-os
+    dsnap: rmlint
+  fedora/dnf:
+    cmd: sudo dnf install rmlint
+    reference: https://rmlint.readthedocs.io/en/latest/install.html#fedora
+    dsnap: rmlint
+  darwin/brew:
+    cmd: brew install rmlint
+    reference: https://rmlint.readthedocs.io/en/latest/install.html#macos
+  alpine/apk:
+    cmd: sudo apk add rmlint
+    reference: https://pkgs.alpinelinux.org/package/edge/community/x86_64/rmlint
+    dsnap: rmlint
+  arch/yay:
+    cmd: yay -S rmlint
+    reference: https://aur.archlinux.org/packages/rmlint
+  /nix:
+    cmd: nix profile install nixpkgs#rmlint
+    reference: https://search.nixos.org/packages?query=rmlint
+binlist:
+- rmlint
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 递归扫描用户指定的目录，读取文件名、元数据和用于比对哈希的文件内容
+          en: Recursively scans user-specified directories, reading names, metadata and file contents for hash comparisons
+        sensitive: []
+      write:
+        desc:
+          cn: 默认在当前目录生成 rmlint.sh 和 rmlint.json；只有用户审查并执行脚本后才会删除重复文件
+          en: Writes rmlint.sh and rmlint.json in the current directory by default; duplicates are removed only after the user reviews and runs the script
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 0.5 MB
+          rating: 1
+          desc:
+            cn: 安装 0.5 MB（Homebrew bottle 解包后，不含依赖）
+            en: 0.5 MB install (unpacked Homebrew bottle, excluding dependencies)
+        download:
+          estimate: 0.18 MB
+          desc:
+            cn: 约 0.18 MB 下载（Homebrew bottle，macOS/arm64）
+            en: ~0.18 MB download (Homebrew bottle, macOS/arm64)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 5 MB
+        desc:
+          cn: 约 5 MB（启动时估算，大目录扫描会随文件数量增长）
+          en: ~5 MB at startup (estimated; scans of large directories grow with file count)
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 主要是磁盘遍历和哈希计算，开销随扫描规模增长
+          en: Dominated by directory traversal and hashing, scaling with scan size
+  platform:
+    win: none
+    linux: full
+    darwin: full
