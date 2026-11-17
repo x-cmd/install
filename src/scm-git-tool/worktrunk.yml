@@ -1,0 +1,117 @@
+lang: Rust
+homepage: https://worktrunk.dev
+license: MIT OR Apache-2.0
+desc:
+  cn: Worktrunk 是面向 AI 代理并行工作流的 Git worktree 管理 CLI，让 worktree 像分支一样简单易用，并提供交互式选择器、钩子、shell 集成与写时复制构建缓存
+  en: Worktrunk is a CLI for Git worktree management, designed for running AI agents in parallel; it makes worktrees as easy as branches, with an interactive picker, hooks, shell integration and copy-on-write build caches
+  cs: Worktrunk je CLI pro správu Git worktree navržené pro paralelní běh AI agentů; práce s worktree je díky němu stejně snadná jako s větvemi a nabízí interaktivní výběr, háky, shell integraci a copy-on-write build cache
+  de: Worktrunk ist ein CLI für die Git-Worktree-Verwaltung, entwickelt für den parallelen Einsatz von KI-Agenten; es macht Worktrees so einfach wie Branches und bietet interaktive Auswahl, Hooks, Shell-Integration und Copy-on-Write-Build-Caches
+  es: Worktrunk es una CLI para la gestión de worktrees de Git, diseñada para ejecutar agentes de IA en paralelo; hace que los worktrees sean tan fáciles como las ramas, con selector interactivo, hooks, integración de shell y cachés de compilación copy-on-write
+  fr: Worktrunk est une CLI de gestion des worktrees Git, conçue pour exécuter des agents IA en parallèle ; elle rend les worktrees aussi simples que les branches, avec un sélecteur interactif, des hooks, l'intégration shell et des caches de build copy-on-write
+  id: Worktrunk adalah CLI untuk manajemen Git worktree yang dirancang menjalankan agen AI secara paralel; ia membuat worktree semudah branch, dengan pemilih interaktif, hook, integrasi shell, dan cache build copy-on-write
+  it: Worktrunk è una CLI per la gestione dei worktree Git, pensata per eseguire agenti IA in parallelo; rende i worktree semplici quanto i branch, con selezione interattiva, hook, integrazione shell e cache di build copy-on-write
+  ja: Worktrunk は、AI エージェントを並列実行するための Git worktree 管理 CLI です。worktree をブランチと同じくらい簡単にし、インタラクティブなピッカー、フック、シェル統合、コピーオンライトのビルドキャッシュを提供します。
+  ko: Worktrunk은 AI 에이전트를 병렬로 실행하기 위해 설계된 Git worktree 관리 CLI로, worktree를 브랜치만큼 쉽게 다룰 수 있게 하며 대화형 선택기, 훅, 셸 통합, copy-on-write 빌드 캐시를 제공합니다
+  pl: Worktrunk to CLI do zarządzania worktree Git, zaprojektowane do równoległego uruchamiania agentów AI; sprawia, że worktree są tak proste jak gałęzie, oferując interaktywny wybór, hooki, integrację z powłoką i pamięci podręczne budowania copy-on-write
+  pt: Worktrunk é uma CLI para gerenciamento de worktrees do Git, projetada para executar agentes de IA em paralelo; ela torna os worktrees tão fáceis quanto branches, com seletor interativo, hooks, integração com o shell e caches de build copy-on-write
+  ro: Worktrunk este un CLI pentru gestionarea worktree-urilor Git, conceput pentru a rula agenți AI în paralel; face worktree-urile la fel de ușoare ca ramurile, cu selector interactiv, hook-uri, integrare shell și cache-uri de build copy-on-write
+  ru: Worktrunk — это CLI для управления Git worktree, созданный для параллельного запуска ИИ-агентов; он делает worktree такими же простыми, как ветки, и предлагает интерактивный выбор, хуки, интеграцию с оболочкой и кэши сборки copy-on-write
+  th: Worktrunk เป็น CLI สำหรับจัดการ Git worktree ที่ออกแบบมาเพื่อรัน AI agent แบบขนานกัน ทำให้ worktree ง่ายพอ ๆ กับ branch พร้อมตัวเลือกแบบโต้ตอบ, hook, การผสาน shell และแคชบิลด์แบบ copy-on-write
+  tr: Worktrunk, AI ajanlarını paralel çalıştırmak için tasarlanmış bir Git worktree yönetim CLI'sidir; etkileşimli seçici, hook'lar, shell entegrasyonu ve copy-on-write derleme önbellekleri ile worktree'leri branch'ler kadar kolay hâle getirir
+  uk: Worktrunk — це CLI для керування Git worktree, створений для паралельного запуску ІІ-агентів; він робить worktree такими ж простими, як гілки, та пропонує інтерактивний вибір, хуки, інтеграцію з оболонкою і кеші збірки copy-on-write
+  vi: Worktrunk là CLI quản lý Git worktree được thiết kế để chạy các agent AI song song; nó giúp worktree dễ dàng như branch, với bộ chọn tương tác, hook, tích hợp shell và bộ đệm build copy-on-write
+x:
+  source: https://github.com/max-sixty/worktrunk
+  eget: max-sixty/worktrunk
+  brew: worktrunk
+  cargo: worktrunk
+  pacman: worktrunk
+  winget: max-sixty.worktrunk
+  pixi: worktrunk
+rule:
+  /eget:
+    cmd: x eget max-sixty/worktrunk && wt config shell install
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: cargo install worktrunk && wt config shell install
+    reference: https://github.com/max-sixty/worktrunk?tab=readme-ov-file#install
+    dsnap: worktrunk
+  darwin/brew:
+    cmd: brew install worktrunk && wt config shell install
+    reference: https://github.com/max-sixty/worktrunk?tab=readme-ov-file#install
+  arch/pacman:
+    cmd: sudo pacman -S worktrunk && wt config shell install
+    reference: https://archlinux.org/packages/extra/x86_64/worktrunk/
+  (win|wsl2)/winget:
+    cmd: x winget install max-sixty.worktrunk && git-wt config shell install
+    reference: https://github.com/max-sixty/worktrunk?tab=readme-ov-file#install
+  /conda:
+    cmd: conda install -c conda-forge worktrunk && wt config shell install
+    reference: https://github.com/conda-forge/worktrunk-feedstock
+  /pixi:
+    cmd: x pixi global install worktrunk && wt config shell install
+    reference: https://github.com/max-sixty/worktrunk?tab=readme-ov-file#install
+binlist:
+- wt
+- git-wt
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['cli', 'tui']
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 Git 仓库与 worktree 状态，以及用户配置 ~/.config/worktrunk/config.toml 和项目配置 .config/wt.toml
+          en: Reads Git repository and worktree state, plus the user config (~/.config/worktrunk/config.toml) and project config (.config/wt.toml)
+        sensitive: []
+      write:
+        desc:
+          cn: 创建和删除仓库内的 worktree 及其文件；wt config shell install 会向 ~/.bashrc、~/.zshrc 追加初始化行，并写入 fish、Nushell 与 PowerShell 集成文件
+          en: Creates and removes worktrees and their files inside the repository; `wt config shell install` appends init lines to ~/.bashrc and ~/.zshrc, and writes fish, Nushell and PowerShell integration files
+        sensitive:
+          - "$HOME/.zshrc"
+          - "$HOME/.bashrc"
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 46 MB
+          rating: 2
+          desc:
+            cn: 约 46 MB 安装（wt 与 git-wt 两个二进制，darwin/arm64）
+            en: ~46 MB install (two binaries, wt and git-wt, darwin/arm64)
+        download:
+          estimate: 8 MB
+          desc:
+            cn: 约 8 MB 下载（linux/x64 tar.xz）
+            en: ~8 MB download (linux/x64 tar.xz)
+      paths:
+        data: []
+        config:
+          - ~/.config/worktrunk/
+    memory:
+      idle:
+        estimate: 15 MB
+        desc:
+          cn: 约 15 MB 闲置
+          en: ~15 MB idle
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 极低
+          en: Negligible
+  platform:
+    win: full
+    linux: full
+    darwin: full
