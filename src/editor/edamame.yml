@@ -1,0 +1,105 @@
+lang: Rust
+homepage: https://github.com/mijowi/edamame
+license: Apache-2.0
+desc:
+  cn: 编辑时持续渲染 Markdown 的终端编辑器，仅当前行显示原始源码，支持表格、图片、Mermaid 和 LaTeX 数学
+  en: Terminal Markdown editor that stays rendered while you edit, showing source only on the current line, with tables, images, Mermaid, and LaTeX math
+  cs: Terminálový editor Markdownu, který zůstává během úprav vykreslený a zobrazuje zdroj pouze na aktuálním řádku, s tabulkami, obrázky, Mermaid a LaTeXovou matematikou
+  de: Terminal-Markdown-Editor, der während der Bearbeitung gerendert bleibt und nur in der aktuellen Zeile den Quelltext zeigt, mit Tabellen, Bildern, Mermaid und LaTeX-Mathematik
+  es: Editor Markdown para terminal que permanece renderizado mientras editas y muestra el código fuente solo en la línea actual, con tablas, imágenes, Mermaid y matemáticas LaTeX
+  fr: Éditeur Markdown pour terminal qui reste rendu pendant l'édition et n'affiche la source que sur la ligne courante, avec tableaux, images, Mermaid et formules LaTeX
+  id: Editor Markdown terminal yang tetap dirender saat diedit dan hanya menampilkan sumber pada baris aktif, dengan tabel, gambar, Mermaid, dan matematika LaTeX
+  it: Editor Markdown per terminale che resta renderizzato durante la modifica e mostra il sorgente solo sulla riga corrente, con tabelle, immagini, Mermaid e formule LaTeX
+  ja: 編集中も Markdown のレンダリングを維持し、現在の行だけソースを表示するターミナルエディタ。表、画像、Mermaid、LaTeX 数式に対応
+  ko: 편집 중에도 Markdown 렌더링을 유지하고 현재 줄만 원본으로 표시하는 터미널 에디터로, 표, 이미지, Mermaid, LaTeX 수식을 지원
+  pl: Terminalowy edytor Markdown, który pozostaje wyrenderowany podczas edycji i pokazuje źródło tylko w bieżącym wierszu, z tabelami, obrazami, Mermaid i wzorami LaTeX
+  pt: Editor de Markdown para terminal que permanece renderizado durante a edição e mostra o código-fonte apenas na linha atual, com tabelas, imagens, Mermaid e matemática LaTeX
+  ro: Editor Markdown pentru terminal care rămâne randat în timpul editării și afișează sursa doar pe linia curentă, cu tabele, imagini, Mermaid și formule LaTeX
+  ru: Терминальный редактор Markdown, который сохраняет рендеринг во время редактирования и показывает исходный код только в текущей строке, с таблицами, изображениями, Mermaid и формулами LaTeX
+  th: โปรแกรมแก้ไข Markdown บนเทอร์มินัลที่แสดงผลเรนเดอร์ขณะแก้ไข และแสดงซอร์สเฉพาะบรรทัดปัจจุบัน รองรับตาราง รูปภาพ Mermaid และสมการ LaTeX
+  tr: Düzenlerken Markdown'ı işlenmiş gösteren ve yalnızca geçerli satırda kaynağı gösteren terminal düzenleyici; tablo, görsel, Mermaid ve LaTeX matematiği destekler
+  uk: Термінальний редактор Markdown, який зберігає рендеринг під час редагування та показує вихідний код лише в поточному рядку, з таблицями, зображеннями, Mermaid і формулами LaTeX
+  vi: Trình chỉnh sửa Markdown trên terminal luôn hiển thị bản kết xuất khi chỉnh sửa và chỉ hiện mã nguồn ở dòng hiện tại, hỗ trợ bảng, hình ảnh, Mermaid và công thức LaTeX
+x:
+  source: https://github.com/mijowi/edamame
+  eget: mijowi/edamame
+  brew: mijowi/tap/edamame
+  cargo: edamame
+rule:
+  /eget:
+    cmd: x eget mijowi/edamame
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -LsSf https://github.com/mijowi/edamame/releases/latest/download/edamame-installer.sh | sh
+    reference: https://github.com/mijowi/edamame#shell-installer
+  /cargo:
+    cmd: cargo install edamame
+    reference: https://github.com/mijowi/edamame#cargo
+    dsnap: edamame
+  darwin/brew:
+    cmd: brew install mijowi/tap/edamame
+    reference: https://github.com/mijowi/edamame#homebrew
+binlist:
+  - edamame
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取 Markdown 文档、本地图片、配置、自定义主题和键位配置
+          en: Reads Markdown documents, local images, configuration, custom themes, and keybindings
+        sensitive: []
+      write:
+        desc:
+          cn: 保存 Markdown 文档和 HTML 导出，写入配置、主题、编辑器状态及可选调试日志
+          en: Saves Markdown documents and HTML exports, and writes configuration, themes, editor state, and optional debug logs
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 25 MB
+          rating: 2
+          desc:
+            cn: 约 25 MB（macOS/arm64 发布包解包后）
+            en: ~25 MB unpacked from the macOS/arm64 release archive
+        download:
+          estimate: 7 MB
+          desc:
+            cn: 约 7 MB 下载（macOS/arm64 tar.xz）
+            en: ~7 MB download (macOS/arm64 tar.xz)
+      paths:
+        data:
+          - ~/.local/share/edamame/
+          - ~/Library/Application Support/edamame/
+        config:
+          - ~/.config/edamame/
+        cache: []
+    memory:
+      idle:
+        estimate: 40 MB
+        desc:
+          cn: 编辑普通文档时约 40 MB（估算，图片和大型文档会增加占用）
+          en: ~40 MB while editing typical documents, estimated; images and large documents increase usage
+    cpu:
+      workload: ['io', 'compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 主要是文档渲染、图片解码及 Mermaid 和数学图形生成
+          en: Dominated by document rendering, image decoding, and Mermaid or math figure generation
+  platform:
+    win: partial
+    linux: full
+    darwin: full

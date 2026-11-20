@@ -1,0 +1,108 @@
+lang: Rust
+homepage: https://github.com/musithang/sdrtop
+license: GPL-3.0-or-later
+desc:
+  cn: 面向软件无线电的终端监测工具，提供实时频谱、瀑布图、解调、测量和 SigMF 录制
+  en: Terminal monitor and bench instrument for software-defined radios, with real-time spectrum, waterfall, demodulation, measurements, and SigMF recording
+  cs: Terminálový monitor a měřicí přístroj pro softwarově definovaná rádia s živým spektrem, vodopádem, demodulací, měřením a nahráváním SigMF
+  de: Terminal-Monitor und Messinstrument für softwaredefinierte Funkgeräte mit Echtzeit-Spektrum, Wasserfalldiagramm, Demodulation, Messungen und SigMF-Aufzeichnung
+  es: Monitor de terminal e instrumento de medición para radios definidas por software, con espectro y cascada en tiempo real, demodulación, mediciones y grabación SigMF
+  fr: Moniteur de terminal et instrument de mesure pour radios logicielles, avec spectre et waterfall en temps réel, démodulation, mesures et enregistrement SigMF
+  id: Monitor terminal dan instrumen pengukuran untuk radio yang didefinisikan perangkat lunak, dengan spektrum dan waterfall waktu nyata, demodulasi, pengukuran, serta perekaman SigMF
+  it: Monitor da terminale e strumento di misura per radio software-defined, con spettro e waterfall in tempo reale, demodulazione, misurazioni e registrazione SigMF
+  ja: ソフトウェア無線向けのターミナルモニター兼測定ツール。リアルタイムのスペクトラム、ウォーターフォール、復調、測定、SigMF 記録に対応
+  ko: 소프트웨어 정의 라디오를 위한 터미널 모니터 및 측정 도구로, 실시간 스펙트럼, 워터폴, 복조, 측정 및 SigMF 녹화를 제공
+  pl: Terminalowy monitor i przyrząd pomiarowy dla radioodbiorników programowych z widmem i wodospadem w czasie rzeczywistym, demodulacją, pomiarami oraz nagrywaniem SigMF
+  pt: Monitor de terminal e instrumento de medição para rádios definidos por software, com espectro e waterfall em tempo real, demodulação, medições e gravação SigMF
+  ro: Monitor de terminal și instrument de măsură pentru radiouri definite prin software, cu spectru și waterfall în timp real, demodulare, măsurători și înregistrare SigMF
+  ru: Терминальный монитор и измерительный инструмент для программно-определяемых радиостанций со спектром и водопадом в реальном времени, демодуляцией, измерениями и записью SigMF
+  th: เครื่องมือตรวจสอบและวัดวิทยุที่กำหนดด้วยซอฟต์แวร์บนเทอร์มินัล พร้อมสเปกตรัมและวอเตอร์ฟอลแบบเรียลไทม์ การ demodulate การวัด และการบันทึก SigMF
+  tr: Yazılım tanımlı radyolar için gerçek zamanlı spektrum, şelale grafiği, demodülasyon, ölçümler ve SigMF kaydı sunan terminal izleme ve ölçüm aracı
+  uk: Термінальний монітор і вимірювальний інструмент для програмно визначених радіостанцій зі спектром і водоспадом у реальному часі, демодуляцією, вимірюваннями та записом SigMF
+  vi: Công cụ giám sát và đo lường radio định nghĩa bằng phần mềm trên terminal, hiển thị phổ và thác nước trực tiếp, hỗ trợ giải điều chế, đo lường và ghi SigMF
+x:
+  source: https://github.com/musithang/sdrtop
+  eget: musithang/sdrtop
+  cargo: sdrtop
+  yay: sdrtop-bin
+rule:
+  /eget:
+    cmd: x eget musithang/sdrtop
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl -fsSL https://raw.githubusercontent.com/musithang/sdrtop/main/packaging/install.sh | sh
+    reference: https://github.com/musithang/sdrtop#install
+  /cargo:
+    cmd: cargo install sdrtop --locked
+    reference: https://github.com/musithang/sdrtop#install
+    dsnap: sdrtop
+  arch/yay:
+    cmd: yay -S sdrtop-bin
+    reference: https://aur.archlinux.org/packages/sdrtop-bin
+binlist:
+  - sdrtop
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: true
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件、自定义布局和主题，并通过 USB、串口或局域网接收无线设备数据
+          en: Reads configuration, custom layouts and themes, and receives radio data over USB, serial, or the local network
+        sensitive: []
+      write:
+        desc:
+          cn: 退出时保存配置并写入日志；录制时将原始 IQ 样本和 SigMF 元数据写入数据目录
+          en: Saves configuration on exit and writes logs; recording writes raw IQ samples and SigMF metadata to the data directory
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 7.7 MB
+          rating: 1
+          desc:
+            cn: 约 7.7 MB（macOS/arm64 发布包解包后，含文档）
+            en: ~7.7 MB unpacked from the macOS/arm64 release archive, including documentation
+        download:
+          estimate: 3.6 MB
+          desc:
+            cn: 约 3.6 MB 下载（macOS/arm64 tar.gz）
+            en: ~3.6 MB download (macOS/arm64 tar.gz)
+        growth:
+          desc:
+            cn: IQ 录制默认最多持续 60 秒或占用 4 GB，以先达到的限制为准
+            en: IQ recordings default to a maximum of 60 seconds or 4 GB, whichever limit is reached first
+      paths:
+        data:
+          - ~/.local/share/sdrtop/
+        config:
+          - ~/.config/sdrtop/
+        cache: []
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: 接收时约 100 MB（估算，高采样率和瀑布图历史会增加占用）
+          en: ~100 MB while receiving, estimated; high sample rates and waterfall history increase usage
+    cpu:
+      workload: ['io', 'compute', 'network']
+      processes: 1
+      peak:
+        rating: 4
+        desc:
+          cn: 实时 DSP、FFT、瀑布图和解调会持续占用 CPU，高采样率下开销较高
+          en: Real-time DSP, FFT, waterfall rendering, and demodulation sustain CPU load, especially at high sample rates
+  platform:
+    win: none
+    linux: full
+    darwin: full

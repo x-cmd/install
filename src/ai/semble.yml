@@ -1,0 +1,98 @@
+lang: Python
+homepage: https://github.com/MinishLab/semble
+license: MIT
+desc:
+  cn: 为 AI 编码 Agent 提供快速准确的代码搜索，相比 grep+read 约减少 99% 的 token 消耗
+  en: Fast and accurate code search for AI coding agents, using ~99% fewer tokens than grep+read
+  cs: Rychlé a přesné vyhledávání kódu pro AI agenty, které používá přibližně o 99 % méně tokenů než grep+read
+  de: Schnelle und präzise Codesuche für KI-Coding-Agenten mit etwa 99 % weniger Tokenverbrauch als grep+read
+  es: Búsqueda de código rápida y precisa para agentes de programación con IA, que usa aproximadamente un 99 % menos de tokens que grep+read
+  fr: Recherche de code rapide et précise pour les agents de codage IA, utilisant environ 99 % de tokens en moins que grep+read
+  id: Pencarian kode yang cepat dan akurat untuk agen pemrograman AI, menggunakan sekitar 99% lebih sedikit token dibandingkan grep+read
+  it: Ricerca di codice rapida e accurata per agenti di programmazione IA, con circa il 99% di token in meno rispetto a grep+read
+  ja: AI コーディングエージェント向けの高速かつ正確なコード検索。grep+read と比べてトークン使用量を約 99% 削減
+  ko: AI 코딩 에이전트를 위한 빠르고 정확한 코드 검색 도구로, grep+read보다 토큰을 약 99% 적게 사용
+  pl: Szybkie i dokładne wyszukiwanie kodu dla agentów programistycznych AI, zużywające o około 99% mniej tokenów niż grep+read
+  pt: Pesquisa de código rápida e precisa para agentes de programação com IA, usando cerca de 99% menos tokens do que grep+read
+  ro: Căutare rapidă și precisă în cod pentru agenții de programare AI, folosind cu aproximativ 99% mai puține tokenuri decât grep+read
+  ru: Быстрый и точный поиск кода для ИИ-агентов программирования, использующий примерно на 99% меньше токенов, чем grep+read
+  th: ค้นหาโค้ดอย่างรวดเร็วและแม่นยำสำหรับเอเจนต์เขียนโค้ด AI โดยใช้โทเคนน้อยกว่า grep+read ประมาณ 99%
+  tr: Yapay zekâ kodlama ajanları için hızlı ve doğru kod arama; grep+read yöntemine göre yaklaşık %99 daha az token kullanır
+  uk: Швидкий і точний пошук коду для ШІ-агентів програмування, що використовує приблизно на 99% менше токенів, ніж grep+read
+  vi: Tìm kiếm mã nhanh và chính xác cho tác nhân lập trình AI, sử dụng ít hơn khoảng 99% token so với grep+read
+x:
+  source: https://github.com/MinishLab/semble
+  pip: semble
+rule:
+  /uv:
+    cmd: uv tool install semble
+    reference: https://github.com/MinishLab/semble/blob/main/docs/installation.md
+    dsnap: semble
+  /pip:
+    cmd: pip install semble
+    reference: https://pypi.org/project/semble/
+    dsnap: semble
+binlist:
+  - semble
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: localhost
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 递归读取用户指定的代码仓库及忽略规则文件，建立代码搜索索引
+          en: Recursively reads user-specified repositories and ignore files to build code search indexes
+        sensitive: []
+      write:
+        desc:
+          cn: 在系统缓存目录写入索引和用量统计；执行 semble install 时会按用户选择更新 Agent 配置
+          en: Writes indexes and usage statistics to system cache directories; semble install updates selected agent configurations
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 67 MB
+          rating: 2
+          desc:
+            cn: 约 67 MB（uv 隔离环境，含依赖，不含 Python 和模型）
+            en: ~67 MB in an isolated uv environment, including dependencies but excluding Python and models
+        download:
+          estimate: 24 MB
+          desc:
+            cn: 约 24 MB 下载（含 Python 依赖；首次使用还会下载嵌入模型）
+            en: ~24 MB download including Python dependencies; first use also downloads an embedding model
+      paths:
+        data: []
+        config: []
+        cache:
+          - ~/.cache/semble/
+          - ~/Library/Caches/semble/
+          - ~/.cache/huggingface/
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: 搜索时约 100 MB（估算，随索引规模增长）
+          en: ~100 MB during searches, estimated and growing with index size
+    cpu:
+      workload: ['io', 'compute']
+      processes: 5
+      peak:
+        rating: 3
+        desc:
+          cn: 索引时默认使用 4 个工作进程，开销随仓库规模增长
+          en: Indexing uses four worker processes by default, with load scaling with repository size
+  platform:
+    win: full
+    linux: full
+    darwin: full
