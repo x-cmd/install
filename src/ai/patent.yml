@@ -1,0 +1,114 @@
+lang: Rust
+homepage: https://github.com/r14dd/patent
+license: MIT OR Apache-2.0
+desc:
+  cn: 跨 19 个来源搜索开发工具创意的既有实现，以本地语义相似度排序，并用可选 LLM 评估拥挤程度
+  en: Searches 19 sources for prior art matching a dev-tool idea, ranks results by local semantic similarity, and assesses landscape saturation with an optional LLM
+  cs: Vyhledává ve 19 zdrojích existující realizace nápadů na vývojářské nástroje, řadí je podle lokální sémantické podobnosti a pomocí volitelného LLM hodnotí nasycenost oblasti
+  de: Durchsucht 19 Quellen nach bereits vorhandenen Umsetzungen von Entwicklertool-Ideen, bewertet sie nach lokaler semantischer Ähnlichkeit und schätzt die Marktsättigung optional mit einem LLM ein
+  es: Busca en 19 fuentes implementaciones existentes de ideas para herramientas de desarrollo, las ordena por similitud semántica local y evalúa la saturación con un LLM opcional
+  fr: Recherche dans 19 sources des réalisations existantes d'idées d'outils de développement, les classe par similarité sémantique locale et évalue la saturation avec un LLM facultatif
+  id: Mencari implementasi yang sudah ada untuk ide alat pengembang di 19 sumber, memeringkatnya berdasarkan kemiripan semantik lokal, dan menilai kejenuhan dengan LLM opsional
+  it: Cerca in 19 fonti implementazioni esistenti di idee per strumenti di sviluppo, le ordina per similarità semantica locale e valuta la saturazione con un LLM opzionale
+  ja: 19 のソースから開発ツールのアイデアに相当する既存実装を検索し、ローカルの意味類似度で順位付け。オプションの LLM で飽和度を評価
+  ko: 19개 소스에서 개발 도구 아이디어의 기존 구현을 검색하고 로컬 의미 유사도로 순위를 매기며, 선택적 LLM으로 포화 정도를 평가
+  pl: Wyszukuje w 19 źródłach istniejące realizacje pomysłów na narzędzia programistyczne, szereguje je według lokalnego podobieństwa semantycznego i ocenia nasycenie za pomocą opcjonalnego LLM
+  pt: Pesquisa em 19 fontes implementações existentes de ideias para ferramentas de desenvolvimento, classifica por similaridade semântica local e avalia a saturação com um LLM opcional
+  ro: Caută în 19 surse implementări existente pentru idei de instrumente de dezvoltare, le clasează după similaritate semantică locală și evaluează saturația cu un LLM opțional
+  ru: Ищет в 19 источниках существующие реализации идей для инструментов разработки, ранжирует их по локальной семантической близости и оценивает насыщенность с помощью необязательной LLM
+  th: ค้นหา implement เดิมของไอเดียเครื่องมือนักพัฒนาจาก 19 แหล่ง จัดอันดับด้วยความคล้ายเชิงความหมายในเครื่อง และประเมินความอิ่มตัวด้วย LLM ที่เลือกใช้ได้
+  tr: Geliştirici aracı fikirlerinin mevcut uygulamalarını 19 kaynakta arar, yerel anlamsal benzerliğe göre sıralar ve isteğe bağlı bir LLM ile doygunluğu değerlendirir
+  uk: Шукає в 19 джерелах наявні реалізації ідей для інструментів розробки, ранжує їх за локальною семантичною подібністю та оцінює насиченість за допомогою необов'язкової LLM
+  vi: Tìm các triển khai hiện có của ý tưởng công cụ phát triển trên 19 nguồn, xếp hạng theo độ tương đồng ngữ nghĩa cục bộ và đánh giá mức độ bão hòa bằng LLM tùy chọn
+x:
+  source: https://github.com/r14dd/patent
+  eget: r14dd/patent
+  brew: r14dd/patent/patent
+  cargo: patent
+rule:
+  /eget:
+    cmd: x eget r14dd/patent
+    reference: https://x-cmd.com/mod/eget
+  /curl:
+    cmd: curl --proto '=https' --tlsv1.2 -LsSf https://github.com/r14dd/patent/releases/latest/download/patent-installer.sh | sh
+    reference: https://github.com/r14dd/patent#install
+  /cargo:
+    cmd: cargo install patent
+    reference: https://github.com/r14dd/patent#install
+    dsnap: patent
+  darwin/brew:
+    cmd: brew install r14dd/patent/patent
+    reference: https://github.com/r14dd/patent#install
+binlist:
+  - patent
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: true
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置文件中的模型、API 地址和可选 API 密钥
+          en: Reads model names, API endpoints, and optional API keys from the configuration file
+        sensitive:
+          - ~/.config/patent/config.toml
+          - ~/Library/Application Support/patent/config.toml
+          - '%APPDATA%\patent\config.toml'
+      write:
+        desc:
+          cn: 首次语义搜索时下载约 90 MB 嵌入模型并写入用户缓存目录
+          en: Downloads an approximately 90 MB embedding model into the user cache directory on the first semantic search
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 41 MB
+          rating: 2
+          desc:
+            cn: 约 41 MB（macOS/arm64 预编译二进制）
+            en: ~41 MB for the macOS/arm64 prebuilt binary
+        download:
+          estimate: 8.5 MB
+          desc:
+            cn: 约 8.5 MB 下载（macOS/arm64 tar.xz，不含模型）
+            en: ~8.5 MB download (macOS/arm64 tar.xz), excluding the model
+        growth:
+          desc:
+            cn: 首次语义搜索额外下载约 90 MB 嵌入模型；--fast 可跳过模型
+            en: The first semantic search downloads an additional ~90 MB embedding model; --fast skips the model
+      paths:
+        data: []
+        config:
+          - ~/.config/patent/config.toml
+          - ~/Library/Application Support/patent/config.toml
+          - '%APPDATA%\patent\config.toml'
+        cache:
+          - ~/.cache/patent/fastembed/
+          - ~/Library/Caches/patent/fastembed/
+    memory:
+      idle:
+        estimate: 400 MB
+        desc:
+          cn: 加载本地嵌入模型后约 400 MB（估算；--fast 模式明显更低）
+          en: ~400 MB after loading the local embedding model, estimated; significantly lower in --fast mode
+    cpu:
+      workload: ['compute', 'network']
+      processes: 1
+      peak:
+        rating: 3
+        desc:
+          cn: 本地嵌入和排序会产生短期 CPU 开销，网络搜索主要等待各来源响应
+          en: Local embedding and ranking create short CPU bursts, while source searches are mostly network-bound
+  platform:
+    win: full
+    linux: full
+    darwin: full

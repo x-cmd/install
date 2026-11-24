@@ -1,0 +1,115 @@
+lang: Rust
+homepage: https://rust-anything.com/
+license: MIT
+desc:
+  cn: 通过记录和重放原程序行为，协助编码 Agent 将应用逐步迁移到 Rust，并验证行为一致
+  en: Helps coding agents incrementally rewrite applications in Rust by recording and replaying the original behavior to verify equivalent outputs
+  cs: Pomáhá kódovacím agentům postupně přepisovat aplikace do Rustu zaznamenáváním a opakovaným přehráváním původního chování pro ověření stejných výstupů
+  de: Unterstützt Coding-Agenten beim schrittweisen Umschreiben von Anwendungen in Rust, indem das ursprüngliche Verhalten aufgezeichnet und erneut abgespielt wird, um gleiche Ausgaben zu verifizieren
+  es: Ayuda a los agentes de programación a reescribir aplicaciones en Rust de forma incremental, grabando y reproduciendo el comportamiento original para verificar resultados equivalentes
+  fr: Aide les agents de codage à réécrire progressivement des applications en Rust en enregistrant et rejouant le comportement d'origine pour vérifier des résultats équivalents
+  id: Membantu agen pemrograman menulis ulang aplikasi ke Rust secara bertahap dengan merekam dan memutar ulang perilaku aslinya untuk memverifikasi hasil yang setara
+  it: Aiuta gli agenti di programmazione a riscrivere incrementalmente le applicazioni in Rust registrando e riproducendo il comportamento originale per verificare risultati equivalenti
+  ja: 元プログラムの動作を記録・再生して出力の一致を検証し、コーディングエージェントによるアプリケーションの段階的な Rust 移行を支援
+  ko: 원래 프로그램의 동작을 기록하고 재생해 동일한 출력을 검증함으로써 코딩 에이전트가 애플리케이션을 점진적으로 Rust로 재작성하도록 지원
+  pl: Pomaga agentom programistycznym stopniowo przepisywać aplikacje na Rust, rejestrując i odtwarzając pierwotne zachowanie w celu zweryfikowania równoważnych wyników
+  pt: Ajuda agentes de programação a reescrever aplicações em Rust de forma incremental, gravando e reproduzindo o comportamento original para verificar resultados equivalentes
+  ro: Ajută agenții de programare să rescrie incremental aplicațiile în Rust, înregistrând și reluând comportamentul original pentru a verifica rezultate echivalente
+  ru: Помогает агентам программирования постепенно переписывать приложения на Rust, записывая и воспроизводя исходное поведение для проверки эквивалентных результатов
+  th: ช่วยเอเจนต์เขียนโค้ดเขียนแอปพลิเคชันใหม่เป็น Rust ทีละขั้น โดยบันทึกและเล่นซ้ำพฤติกรรมดั้งเดิมเพื่อตรวจสอบผลลัพธ์ที่เท่ากัน
+  tr: Kodlama ajanlarının uygulamaları aşamalı olarak Rust'a taşımasına yardımcı olur; özgün davranışı kaydedip yeniden oynatarak eşdeğer çıktıları doğrular
+  uk: Допомагає агентам програмування поступово переписувати застосунки на Rust, записуючи та відтворюючи початкову поведінку для перевірки еквівалентних результатів
+  vi: Hỗ trợ tác nhân lập trình chuyển dần ứng dụng sang Rust bằng cách ghi lại và phát lại hành vi ban đầu để xác minh kết quả tương đương
+x:
+  source: https://github.com/erkamyaman/rust-anything
+  eget: erkamyaman/rust-anything
+  cargo: rust-anything
+  npm: rust-anything
+rule:
+  /eget:
+    cmd: |
+      x eget erkamyaman/rust-anything
+      rust-anything setup
+    reference: https://x-cmd.com/mod/eget
+  /cargo:
+    cmd: |
+      cargo install rust-anything
+      rust-anything setup
+    reference: https://rust-anything.com/docs/introduction/quick-start
+    dsnap: rust-anything
+  /npm:
+    cmd: |
+      npm install -g rust-anything
+      rust-anything setup
+    reference: https://rust-anything.com/docs/introduction/quick-start
+    dsnap: rust-anything
+binlist:
+  - rust-anything
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: cli
+    network:
+      listen: localhost
+      connect:
+        localhost: true
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取待迁移项目的源码和配置；setup 会读取已有 Agent 配置以保留其他设置
+          en: Reads source code and configuration from migration projects; setup reads existing agent configurations to preserve other settings
+        sensitive: []
+      write:
+        desc:
+          cn: 在项目中生成 Rust crate、行为记录、包装代码和报告；setup 会备份并更新 Agent 配置及安装工作流 skill
+          en: Generates Rust crates, behavior recordings, wrappers, and reports in projects; setup backs up and updates agent configurations and installs workflow skills
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 26 MB
+          rating: 2
+          desc:
+            cn: 约 26 MB（macOS/arm64 预编译二进制）
+            en: ~26 MB for the macOS/arm64 prebuilt binary
+        download:
+          estimate: 5.6 MB
+          desc:
+            cn: 约 5.6 MB 下载（macOS/arm64 tar.gz）
+            en: ~5.6 MB download (macOS/arm64 tar.gz)
+        growth:
+          desc:
+            cn: 行为记录、生成的 crate、构建产物和基准测试结果随项目及测试用例规模增长
+            en: Behavior recordings, generated crates, build artifacts, and benchmark results grow with the project and test case count
+      paths:
+        data: []
+        config:
+          - ~/.claude.json
+          - ~/.codex/config.toml
+          - ~/.cursor/mcp.json
+          - ~/.gemini/settings.json
+          - ~/.config/opencode/opencode.json
+        cache: []
+    memory:
+      idle:
+        estimate: 50 MB
+        desc:
+          cn: CLI 或 MCP 服务约 50 MB（估算，录制和构建时的实际占用取决于项目及语言运行时）
+          en: ~50 MB for the CLI or MCP server, estimated; recording and build usage depends on the project and language runtime
+    cpu:
+      workload: ['io', 'compute', 'network']
+      processes: 2
+      peak:
+        rating: 3
+        desc:
+          cn: 录制、重放、构建和基准测试会调用原语言运行时及编译器，开销随项目规模增长
+          en: Recording, replay, builds, and benchmarks invoke source-language runtimes and compilers, scaling with project size
+  platform:
+    win: full
+    linux: full
+    darwin: full
