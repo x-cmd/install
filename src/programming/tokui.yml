@@ -1,0 +1,87 @@
+lang: Go
+homepage: https://github.com/zdyxry/tokui
+license: MIT
+desc:
+  cn: 可视化 tokei 代码统计结果的交互式终端界面（TUI），也支持 scc 作为可选后端
+  en: Interactive TUI for visualizing code statistics from tokei, with optional scc backend
+  cs: Interaktivní TUI pro vizualizaci statistik kódu z tokei, s volitelným backendem scc
+  de: Interaktives TUI zur Visualisierung von Codestatistiken aus tokei, mit optionalem scc-Backend
+  es: TUI interactivo para visualizar estadísticas de código de tokei, con backend scc opcional
+  fr: TUI interactif pour visualiser les statistiques de code de tokei, avec backend scc optionnel
+  id: TUI interaktif untuk memvisualisasikan statistik kode dari tokei, dengan backend scc opsional
+  it: TUI interattivo per visualizzare le statistiche del codice da tokei, con backend scc opzionale
+  ja: tokei のコード統計を可視化する対話型 TUI。scc バックエンドも任意で利用可能
+  ko: tokei의 코드 통계를 시각화하는 대화형 TUI, 선택적으로 scc 백엔드 지원
+  pl: Interaktywne TUI do wizualizacji statystyk kodu z tokei, z opcjonalnym zapleczem scc
+  pt: TUI interativo para visualizar estatísticas de código do tokei, com backend scc opcional
+  ro: TUI interactiv pentru vizualizarea statisticilor de cod de la tokei, cu backend scc opțional
+  ru: Интерактивный TUI для визуализации статистики кода от tokei с опциональным бэкендом scc
+  th: TUI แบบโต้ตอบสำหรับแสดงภาพสถิติโค้ดจาก tokei พร้อมรองรับแบ็กเอนด์ scc แบบทางเลือก
+  tr: tokei'den gelen kod istatistiklerini görselleştiren etkileşimli TUI; isteğe bağlı scc arka ucu desteği
+  uk: Інтерактивний TUI для візуалізації статистики коду від tokei з опційним бэкендом scc
+  vi: TUI tương tác để trực quan hóa thống kê mã từ tokei, hỗ trợ thêm backend scc tùy chọn
+x:
+  source: https://github.com/zdyxry/tokui
+  eget: zdyxry/tokui
+rule:
+  /eget:
+    cmd: x eget zdyxry/tokui
+    reference: https://x-cmd.com/mod/eget
+  /go:
+    cmd: go install github.com/zdyxry/tokui@latest
+    reference: https://github.com/zdyxry/tokui#-installation
+binlist:
+  - tokui
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: false
+    filesystem:
+      read:
+        desc:
+          cn: 读取待分析项目的源代码以及 Git 历史与对象数据
+          en: Reads source code and Git history/objects of the project being analyzed
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 7 MB
+          rating: 1
+          desc:
+            cn: 约 7 MB（macOS/arm64 发布包解包后，含文档）
+            en: ~7 MB unpacked from the macOS/arm64 release archive, including documentation
+        download:
+          estimate: 3.6 MB
+          desc:
+            cn: 约 3.6 MB 下载（macOS/arm64 tar.gz）
+            en: ~3.6 MB download (macOS/arm64 tar.gz)
+      paths:
+        data: []
+        config: []
+    memory:
+      idle:
+        estimate: 30 MB
+        desc:
+          cn: 30 MB（估算）
+          en: 30 MB estimated
+    cpu:
+      workload: ['compute']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: partial
+    linux: full
+    darwin: full
