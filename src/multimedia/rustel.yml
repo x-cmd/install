@@ -1,0 +1,105 @@
+lang: Rust
+homepage: https://github.com/tzfm/rustel
+license: AGPL-3.0-or-later
+desc:
+  cn: "Strudel 模式语言的原生 Rust 引擎：在终端里现场编程做音乐"
+  en: "A native Rust engine for the Strudel pattern language: live-code music in your terminal"
+  cs: "Nativní engine v Rustu pro jazyk vzorců Strudel: živá tvorba hudby v terminálu"
+  de: "Eine native Rust-Engine für die Strudel-Pattern-Sprache: Live-Coding-Musik in deinem Terminal"
+  es: "Un motor nativo en Rust para el lenguaje de patrones de Strudel: música en vivo programando en tu terminal"
+  fr: "Un moteur natif en Rust pour le langage de motifs Strudel : de la musique live dans votre terminal"
+  id: "Mesin Rust native untuk bahasa pola Strudel: musik live-code di terminal Anda"
+  it: "Un motore nativo in Rust per il linguaggio di pattern Strudel: musica live-code nel tuo terminale"
+  ja: "Strudel パターン言語のネイティブ Rust エンジン。ターミナルでライブコーディング音楽を実現"
+  ko: "Strudel 패턴 언어용 네이티브 Rust 엔진. 터미널에서 라이브 코딩 음악을 만듭니다"
+  pl: "Natywny silnik w Rust dla języka wzorców Strudel: muzyka live-code w terminalu"
+  pt: "Um motor nativo em Rust para a linguagem de padrões Strudel: música ao vivo programando no terminal"
+  ro: "Un motor nativ în Rust pentru limbajul de tipare Strudel: muzică live-code în terminal"
+  ru: "Нативный движок на Rust для языка паттернов Strudel: живое программирование музыки в терминале"
+  th: "เอนจิน Rust แบบเนทีฟสำหรับภาษาแพตเทิร์นของ Strudel: ดนตรีไลฟ์โค้ดในเทอร์มินัล"
+  tr: "Strudel desen diline yönelik yerel Rust motoru: terminalde canlı kodlama müziği"
+  uk: "Нативний рушій на Rust для мови паттернів Strudel: живе програмування музики в терміналі"
+  vi: "Engine Rust gốc cho ngôn ngữ mẫu Strudel: nhạc live-code trong terminal"
+x:
+  source: https://github.com/tzfm/rustel
+  eget: tzfm/rustel
+rule:
+  /eget:
+    cmd: x eget tzfm/rustel
+    reference: https://x-cmd.com/mod/eget
+  (linxu|darwin)/curl:
+    cmd: curl -fsSL https://rustel.cc/install | bash 
+    reference: https://github.com/tzfm/rustel/blob/main/rustelup/README.md#install
+  win/powershell:
+    cmd: x pwsh 'irm https://rustel.cc/install.ps1 | iex'
+    reference: https://github.com/tzfm/rustel/blob/main/rustelup/README.md#install
+binlist:
+- rustel
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: ['tui', 'cli']
+    network:
+      listen: none
+      connect:
+        localhost: true
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取设置（~/.rustel/rustel.json）、缓存、你指定的乐谱文件与本地样本目录，以及 VST3 插件和 MIDI/OSC 设备配置
+          en: Reads the settings (~/.rustel/rustel.json), the cache, the score files and the local sample folders you point at, plus the VST3 plugins and the MIDI/OSC device configuration
+        sensitive: []
+      write:
+        desc:
+          cn: 写回设置，把会话录音、导出的 WAV/MP3 和下载的样本缓存写入 ~/.rustel/
+          en: Writes back the settings, and writes the session tapes, the exported WAV/MP3 and the downloaded sample cache into ~/.rustel/
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 41 MB
+          rating: 2
+          desc:
+            cn: 约 41 MB（macOS/arm64 发布包解包后）
+            en: ~41 MB unpacked from the macOS/arm64 release archive
+        download:
+          estimate: 18 MB
+          desc:
+            cn: 约 18 MB 下载（macOS/arm64 tar.gz）
+            en: ~18 MB download (macOS/arm64 tar.gz)
+        growth:
+          desc:
+            cn: 设置与会话只有几十 KB；样本缓存里的解码音频最多占 2 GiB，导出的 WAV/MP3 与录音另计
+            en: The settings and the session tapes hold a few tens of KB; the decoded audio in the sample cache takes up to 2 GiB, and the exported WAV/MP3 and the recordings are on top of that
+      paths:
+        data:
+          - ~/.rustel/
+          - ~/.rustel/sessions/
+        config:
+          - ~/.rustel/rustel.json
+        cache:
+          - ~/.rustel/cache/
+          - ~/.rustel/cache/samples/
+    memory:
+      idle:
+        estimate: 100 MB
+        desc:
+          cn: 约 100 MB（终端界面与音频引擎常驻，样本与 VST3 插件另计，估算）
+          en: ~100 MB (the terminal UI and the audio engine resident; samples and VST3 plugins are on top, estimated)
+    cpu:
+      workload: ['compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: full
+    linux: full
+    darwin: full
