@@ -1,0 +1,113 @@
+lang: Rust
+homepage: https://github.com/DokaDev/datarig
+license: MIT OR Apache-2.0
+desc:
+  cn: "终端里的数据库客户端与 SQL 编辑器（TUI）：浏览、查询、编辑并监控你的数据库"
+  en: "A terminal database client and SQL editor (TUI): browse, query, edit and monitor your databases"
+  cs: "Klient databáze a SQL editor pro terminál (TUI): prohlížejte, dotazujte, upravujte a monitorujte své databáze"
+  de: "Ein Datenbankclient und SQL-Editor für das Terminal (TUI): Datenbanken durchsuchen, abfragen, bearbeiten und überwachen"
+  es: "Un cliente de bases de datos y editor SQL de terminal (TUI): explore, consulte, edite y supervise sus bases de datos"
+  fr: "Un client de bases de données et éditeur SQL pour le terminal (TUI) : parcourez, interrogez, modifiez et surveillez vos bases de données"
+  id: "Klien basis data dan editor SQL terminal (TUI): jelajahi, kueri, edit, dan pantau basis data Anda"
+  it: "Un client di database ed editor SQL da terminale (TUI): esplora, interroga, modifica e monitora i tuoi database"
+  ja: "ターミナル向けのデータベースクライアント兼 SQL エディタ（TUI）。データベースの閲覧・照会・編集・監視ができます"
+  ko: "터미널용 데이터베이스 클라이언트이자 SQL 편집기(TUI). 데이터베이스를 탐색하고 조회하며 편집하고 모니터링합니다"
+  pl: "Klient baz danych i edytor SQL dla terminala (TUI): przeglądaj, odpytuj, edytuj i monitoruj swoje bazy danych"
+  pt: "Um cliente de banco de dados e editor SQL de terminal (TUI): navegue, consulte, edite e monitoreie seus bancos de dados"
+  ro: "Un client de baze de date și editor SQL pentru terminal (TUI): răsfoiește, interoghează, editează și monitorizează bazele tale de date"
+  ru: "Терминальный клиент баз данных и SQL-редактор (TUI): просмотр, запросы, редактирование и мониторинг ваших баз данных"
+  th: "ไคลเอนต์ฐานข้อมูลและตัวแก้ไข SQL บนเทอร์มินัล (TUI) สำหรับเรียกดู ค้นหา แก้ไข และตรวจสอบฐานข้อมูลของคุณ"
+  tr: "Terminal için bir veritabanı istemcisi ve SQL düzenleyicisi (TUI): veritabanlarınıza göz atın, sorgulayın, düzenleyin ve izleyin"
+  uk: "Термінальний клієнт баз даних і SQL-редактор (TUI): переглядайте, запитуйте, редагуйте та відстежуйте свої бази даних"
+  vi: "Trình khách cơ sở dữ liệu và trình soạn thảo SQL cho terminal (TUI): duyệt, truy vấn, chỉnh sửa và theo dõi cơ sở dữ liệu của bạn"
+x:
+  source: https://github.com/DokaDev/datarig
+  eget: DokaDev/datarig
+  brew: dokadev/tap/datarig
+rule:
+  /eget:
+    cmd: x eget DokaDev/datarig
+    reference: https://x-cmd.com/mod/eget
+  darwin/brew:
+    cmd: brew install dokadev/tap/datarig
+    reference: https://dokadev.github.io/datarig/install.html#homebrew
+  linux/brew:
+    cmd: brew install dokadev/tap/datarig
+    reference: https://dokadev.github.io/datarig/install.html#homebrew
+binlist:
+- datarig
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: true
+        lan: true
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取配置与连接档案（~/.config/datarig/）、密钥文件或操作系统密钥链中的口令，以及数据目录（保存的查询）和状态目录（标签恢复、控制台缓冲、日志）
+          en: Reads the configuration and the connection profiles (~/.config/datarig/), the passwords in the secrets file or in the OS keychain, plus the data directory (saved queries) and the state directory (tab restore, console buffers, logs)
+        sensitive:
+          - ~/.config/datarig/secrets.toml
+          - macOS Keychain
+          - Linux Secret Service
+          - Windows Credential Manager
+      write:
+        desc:
+          cn: 写回配置与连接档案，把口令存入操作系统密钥链或密钥文件，并把标签恢复、控制台缓冲、实例锁、提示与日志写入状态目录
+          en: Writes back the configuration and the connection profiles, stores the passwords in the OS keychain or in the secrets file, and writes the tab restore, console buffers, instance lock, notices and logs into the state directory
+        sensitive:
+          - ~/.config/datarig/secrets.toml
+          - macOS Keychain
+          - Linux Secret Service
+          - Windows Credential Manager
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 22 MB
+          rating: 2
+          desc:
+            cn: 约 22 MB（macOS/arm64 发布包解包后）
+            en: ~22 MB unpacked from the macOS/arm64 release archive
+        download:
+          estimate: 10 MB
+          desc:
+            cn: 约 10 MB 下载（macOS/arm64 tar.gz）
+            en: ~10 MB download (macOS/arm64 tar.gz)
+        growth:
+          desc:
+            cn: 配置与状态目录只有几十 KB；查询结果超出内存窗口时会写入临时文件（默认上限 1 GB）
+            en: The config and state directories hold a few tens of KB; a result larger than the in-memory window is written to a temporary file (1 GB by default)
+      paths:
+        data:
+          - ~/.local/share/datarig/
+          - ~/.local/state/datarig/
+          - ~/Library/Application Support/datarig/
+        config:
+          - ~/.config/datarig/
+        cache: []
+    memory:
+      idle:
+        estimate: 48 MB
+        desc:
+          cn: 约 48 MB（空闲常驻内存的预算上限）
+          en: ~48 MB (the budget for the idle resident memory)
+    cpu:
+      workload: ['compute', 'io', 'network']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: partial
+    linux: full
+    darwin: full
