@@ -1,0 +1,107 @@
+lang: Python
+homepage: https://github.com/a-shygun/Terrascope
+license: MIT
+desc:
+  cn: 终端里的交互式世界地图，用 Braille 字符渲染国界、城市名、实时航班、天气、雷达与地震图层
+  en: Interactive terminal world map rendering countries, city names, live aircraft, weather, radar, and earthquakes with Braille cells
+  cs: Interaktivní světová mapa v terminálu, která vykresluje hranice zemí, názvy měst, živé lety, počasí, radarová data a zemětřesení pomocí Brailleových znaků
+  de: Interaktive Weltkarte im Terminal, die Länder, Stadtnamen, Live-Flugzeuge, Wetter, Radar und Erdbeben mit Braille-Zeichen darstellt
+  es: Mapa mundial interactiva en la terminal que representa países, nombres de ciudades, aviones en vivo, clima, radar y terremotos con caracteres Braille
+  fr: Carte du monde interactive dans le terminal, rendant les pays, les noms de villes, les avions en direct, la météo, le radar et les séismes en caractères Braille
+  id: Peta dunia interaktif di terminal yang menampilkan negara, nama kota, pesawat langsung, cuaca, radar, dan gempa dengan karakter Braille
+  it: Mappa del mondo interattiva nel terminale che renderizza paesi, nomi di città, aerei in tempo reale, meteo, radar e terremoti con caratteri Braille
+  ja: Braille 文字で国・都市名・リアルタイムの航空機・天気・レーダー・地震を描画する、端末上のインタラクティブ世界地図
+  ko: Braille 문자로 국가, 도시 이름, 실시간 항공기, 날씨, 레이더, 지진까지 그려 내는 터미널용 인터랙티브 세계 지도
+  pl: Interaktywna mapa świata w terminalu, rysująca kraje, nazwy miast, żywe samoloty, pogodę, radar i trzęsienia ziemi za pomocą znaków Braille'a
+  pt: Mapa-múndi interativo no terminal que renderiza países, nomes de cidades, aviões ao vivo, clima, radar e terremotos com caracteres Braille
+  ro: Hartă mondială interactivă în terminal, care redă țări, nume de orașe, avioane live, vreme, radar și cutremote folosind caractere Braille
+  ru: Интерактивная карта мира в терминале, рисующая страны, названия городов, живые самолёты, погоду, радар и землетрясения символами Брайля
+  th: แผนที่โลกแบบโต้ตอบในเทอร์มินัล แสดงประเทศ ชื่อเมือง เครื่องบินเรียลไทม์ สภาพอากาศ เรดาร์ และแผ่นดินไหวด้วยอักขระเบรลล์
+  tr: Braille karakterleriyle ülkeleri, şehir adlarını, canlı uçakları, hava durumunu, radarı ve depremleri çizen terminal etkileşimli dünya haritası
+  uk: Інтерактивна карта світу в терміналі, яка відображає країни, назви міст, живі літаки, погоду, радар і землетруси символами Брайля
+  vi: Bản đồ thế giới tương tác trong terminal, hiển thị các quốc gia, tên thành phố, máy bay trực tiếp, thời tiết, radar và động đất bằng ký tự Braille
+x:
+  source: https://github.com/a-shygun/Terrascope
+  brew: a-shygun/terrascope/terrascope
+  pip: terrascope
+rule:
+  darwin/brew:
+    cmd: brew tap a-shygun/terrascope https://github.com/a-shygun/Terrascope.git && brew install a-shygun/terrascope/terrascope
+    reference: https://github.com/a-shygun/Terrascope#package-managers
+  /pipx:
+    cmd: pipx install terrascope
+    reference: https://github.com/a-shygun/Terrascope#installation
+  /pip:
+    cmd: pip install terrascope
+    reference: https://github.com/a-shygun/Terrascope#installation
+    dsnap: terrascope
+  arch/yay:
+    cmd: yay -S terrascope
+    reference: https://github.com/a-shygun/Terrascope#package-managers
+binlist:
+  - terrascope
+
+# complicated
+footprint:
+  behavior:
+    runtime:
+      type: tui
+    network:
+      listen: none
+      connect:
+        localhost: false
+        lan: false
+        internet: true
+    filesystem:
+      read:
+        desc:
+          cn: 读取用户配置（~/.config/terrascope/default.yaml）以及随包附带的默认设置和离线参考数据
+          en: Reads the user configuration (~/.config/terrascope/default.yaml) plus bundled defaults and offline reference data
+        sensitive: []
+      write:
+        desc:
+          cn: 首次运行时写出用户配置副本，并把下载的 Natural Earth 地图数据、接口缓存和日志写入缓存目录
+          en: Writes a copy of the user configuration on first run, plus downloaded Natural Earth map data, API caches, and the log file in the cache directory
+        sensitive: []
+  resource:
+    disk:
+      size:
+        install:
+          estimate: 25 MB
+          rating: 1
+          desc:
+            cn: 约 25 MB（macOS/arm64 发布包解包后的单个二进制）
+            en: ~25 MB unpacked from the macOS/arm64 release archive (a single binary)
+        download:
+          estimate: 24 MB
+          desc:
+            cn: 约 24 MB 下载（macOS/arm64 tar.gz）
+            en: ~24 MB download (macOS/arm64 tar.gz)
+        growth:
+          desc:
+            cn: 首次运行会下载约 8.5 MB 的 Natural Earth 地图数据到缓存目录，之后重复使用
+            en: The first run downloads about 8.5 MB of Natural Earth map data into the cache directory and reuses it afterwards
+      paths:
+        data: []
+        config:
+          - ~/.config/terrascope/
+        cache:
+          - ~/.cache/terrascope/
+    memory:
+      idle:
+        estimate: 80 MB
+        desc:
+          cn: 约 80 MB（估算）
+          en: ~80 MB estimated
+    cpu:
+      workload: ['network', 'compute', 'io']
+      processes: 1
+      peak:
+        rating: 2
+        desc:
+          cn: 低
+          en: Low
+  platform:
+    win: none
+    linux: full
+    darwin: full
